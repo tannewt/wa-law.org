@@ -5,7 +5,7 @@
 
 ## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 
-## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
+## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍2  
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
@@ -52,7 +52,7 @@
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
 
-## [HB 1394](/bill/2023-24/hb/1394/) - Sexual offenses by youth 👍1  
+## [HB 1394](/bill/2023-24/hb/1394/) - Sexual offenses by youth 👍2  
 
 ## [HB 1396](/bill/2023-24/hb/1396/) - First degree murder/juvenile   ❓2
 * ❓ Nick Straley
@@ -65,11 +65,11 @@
 ## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍1  
 * 👍💵 Hannah Woerner
 
-## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief 👍1  
+## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief 👍2  
 
 ## [HB 1640](/bill/2023-24/hb/1640/) - Pardons and commutations 👍1  
 
-## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍1  
+## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍2  
 
 ## [HB 1666](/bill/2023-24/hb/1666/) - Fee and debt collection 👍1  
 

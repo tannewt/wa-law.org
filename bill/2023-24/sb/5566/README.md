@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152365&caId=21721&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152365&caId=21721&tId=4)
 
-#### 10 👍 - Pro
+#### 102 👍 - Pro
 Testifying:
 * Lauren Hibbs - State Board for Community & Tech Colleges
+* Madeline Sprute - Tacoma Community College
+* Puneet Birk - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
 
-#### 1 👎 - Con
+#### 10 👎 - Con
 
 #### 0 ❓ - Other
 

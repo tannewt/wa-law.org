@@ -1,6 +1,6 @@
 # Washington Federation of State Employees
 
-## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍1  
+## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍2  
 
 ## [HB 1187](/bill/2023-24/hb/1187/) - Employee-union privilege 👍1  
 
@@ -13,6 +13,10 @@
 
 ## [HB 1566](/bill/2023-24/hb/1566/) - Vacation leave accrual 👍1  
 * 👍 Kati Durkin
+
+## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce 👍1  
+
+## [HB 1804](/bill/2023-24/hb/1804/) - PEBB/subdivision retirees 👍1  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act 👍1  
 

@@ -95,10 +95,11 @@
 ## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities  👎1 
 * 👎💵 Juliana Roe
 
-## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief  👎1 
+## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief  👎2 
+* 👎💵 Juliana Roe
 * 👎💵 Juliana Roe
 
-## [HB 1515](/bill/2023-24/hb/1515/) - Behavioral health contracts 👍1  
+## [HB 1515](/bill/2023-24/hb/1515/) - Behavioral health contracts 👍3  
 * 👍💵 Juliana Roe
 
 ## [HB 1519](/bill/2023-24/hb/1519/) - Local project review 👍2  
@@ -214,8 +215,9 @@
 
 ## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍1  
 
-## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎1 
+## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎1 ❓1
 * 👎💵 Juliana Roe
+* ❓💵 Juliana Roe
 
 ## [SB 5473](/bill/2023-24/sb/5473/) - Project permit timelines 👍1  
 * 👍💵 Paul Jewell

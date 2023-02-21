@@ -15,9 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152404&caId=21754&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152404&caId=21754&tId=4)
 
-#### 5 👍 - Pro
+#### 57 👍 - Pro
+Testifying:
+* 💵Cassie Bordelon - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* 💵Kelly Hall - [Climate Solutions](/org/climate_solutions/)
+* 💵Mark Riker - Washington State Building and Constructions Trades Council
+* 💵Cassie Bordelon - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* Becky Kelley - Office of Governor Jay Inslee
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

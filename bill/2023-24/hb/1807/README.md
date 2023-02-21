@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 02/20 01:30 PM - Transportation (TR): HB 1807 Speed safety cameras
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152075&caId=21640&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152075&caId=21640&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152075&caId=21640&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152075&caId=21640&tId=4)
-
-#### 15 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Captain Neal Weaver - Washington State Patrol
 * Mark McKechnie - Washington Traffic Safety Commission
@@ -26,8 +20,8 @@ Testifying:
 * Mallorie Davies - Washington and Northern Idaho District Council of Laborers
 * 💵Davor Gjurasic - Washington State Patrol Troopers Association
 
-#### 11 👎 - Con
+#### 30 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

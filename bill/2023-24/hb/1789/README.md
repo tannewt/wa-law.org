@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Mon 02/20 08:00 AM - Capital Budget (CB): SHB 1789 Ecosystem services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152334&caId=21694&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152334&caId=21694&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152334&caId=21694&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152334&caId=21694&tId=4)
-
-#### 11 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Csenka Favorini-Csorba - DNR
 * Duane Emmons - DNR
@@ -24,7 +18,7 @@ Testifying:
 * 💵Isaac Kastama - Clean & Prosperous Washington
 * Lauren Breynaert - Myno Carbon
 
-#### 62 👎 - Con
+#### 77 👎 - Con
 Testifying:
 * Lawrence Marshall - Murphy Company
 * Connie Beauvais - [Port of Port Angeles](/org/port_of_port_angeles/)
@@ -34,9 +28,10 @@ Testifying:
 * Doug Cooper - Hampton Lumber Company
 * Matt Comisky - American Forest Resource Council
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵David Mendoza - The Nature Conservancy - Washington
 
 ### Tue 02/14 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1789 Ecosystem services
 #### 377 👍 - Pro

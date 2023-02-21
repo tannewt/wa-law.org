@@ -17,7 +17,7 @@
 
 ## [HB 1192](/bill/2023-24/hb/1192/) - Electric transm. planning 👍1  
 
-## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  
+## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍2  
 
 ## [HB 1276](/bill/2023-24/hb/1276/) - Accessory dwelling units 👍1  
 
@@ -27,15 +27,15 @@
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
 
-## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
+## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍2  
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍2  
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍3  
 
 ## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍1  
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍3  
 
 ## [HB 1517](/bill/2023-24/hb/1517/) - Transit-oriented development 👍1  
 
@@ -52,6 +52,8 @@
 ## [HB 1753](/bill/2023-24/hb/1753/) - Derelict vessel notices 👍1  
 
 ## [HB 1817](/bill/2023-24/hb/1817/) - Housing gap voucher pilot 👍1  
+
+## [SB 5039](/bill/2023-24/sb/5039/) - Wildfires/electric utilities 👍1  
 
 ## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍1  
 
@@ -72,6 +74,8 @@
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍1  
 
 ## [SB 5235](/bill/2023-24/sb/5235/) - Accessory dwelling units 👍1  
+
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
 
 ## [SB 5258](/bill/2023-24/sb/5258/) - Condos and townhouses 👍1  
 

@@ -15,9 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152402&caId=21752&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152402&caId=21752&tId=4)
 
-#### 0 👍 - Pro
+#### 5 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* CHRISTOPHER King - KingCast
 
 #### 0 ❓ - Other
 

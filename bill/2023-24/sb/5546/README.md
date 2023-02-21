@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Mon 02/20 09:00 AM - Ways & Means (WM): SSB 5546 Cannabis commission
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152312&caId=21682&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152312&caId=21682&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152312&caId=21682&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152312&caId=21682&tId=4)
-
-#### 41 👍 - Pro
+#### 51 👍 - Pro
 Testifying:
 * john Worthington - AAMC
 * john Worthington
@@ -23,8 +17,10 @@ Testifying:
 * john Worthington - AAMC
 * Shawn DeNae-Wagenseller - WA Bud Co.
 * 💵Lara Kaminsky - The Cannabis Alliance
+* Mike Asai - Black Excellence In Cannabis
+* Peter Manning - Black Excellence In Cannabis
 
-#### 29 👎 - Con
+#### 38 👎 - Con
 Testifying:
 * 💵Brooke Davies - Washington CannaBusiness Association
 * 💵Ezra Eickmeyer - Producers NW

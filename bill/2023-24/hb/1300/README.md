@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 02/20 01:30 PM - Appropriations (APP): HB 1300 Assisted reproduction fraud
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152144&caId=21617&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152144&caId=21617&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152144&caId=21617&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152144&caId=21617&tId=4)
-
-#### 7 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Stephanie Weichsel
 * Kara Rubinstein Deyerin

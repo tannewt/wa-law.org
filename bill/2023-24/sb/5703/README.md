@@ -9,15 +9,10 @@
 
 ## Meetings
 ### Mon 02/20 09:00 AM - Ways & Means (WM): SSB 5703 College grant/bridge grants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152316&caId=21686&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152316&caId=21686&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152316&caId=21686&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152316&caId=21686&tId=4)
-
-#### 65 👍 - Pro
+#### 79 👍 - Pro
 Testifying:
 * Yokiko Hayashi-Saguil - SBCTC
+* Nancy Canales-Montiel - Director, WA Student Association
 
 #### 0 👎 - Con
 

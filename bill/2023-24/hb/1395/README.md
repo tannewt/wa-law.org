@@ -8,17 +8,11 @@
 
 ## Meetings
 ### Mon 02/20 01:30 PM - Transportation (TR): HB 1395 Aircraft fuel tax distrib.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152078&caId=21643&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152078&caId=21643&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152078&caId=21643&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152078&caId=21643&tId=4)
-
-#### 8 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * John Dobson - WA State Aviation Alliance
 * 💵Eric Johnson - Washington State Department of Transportation
 
-#### 0 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other

@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152321&caId=21697&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152321&caId=21697&tId=4)
 
-#### 230 👍 - Pro
+#### 311 👍 - Pro
 
-#### 1 👎 - Con
+#### 32 👎 - Con
+Testifying:
+* 💵Amy Brackenbury - Washington State Medical Assocation (WSMA)
+* Sonal Patel - [Washington Academy of Family Physicians](/org/washington_academy_of_family_physicians/)
 
 #### 0 ❓ - Other
 

@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152370&caId=21726&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152370&caId=21726&tId=4)
 
-#### 6 👍 - Pro
+#### 99 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 01/23 10:30 AM - Labor & Commerce (LC): SB 5238 Academic employee bargaining
 #### 181 👍 - Pro

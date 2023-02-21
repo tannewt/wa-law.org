@@ -4,7 +4,7 @@
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍2  
 
 ## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting 👍1  
 
@@ -115,4 +115,4 @@
 
 ## [SB 5609](/bill/2023-24/sb/5609/) - Housing approval 👍1  
 
-## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍1  
+## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍2  

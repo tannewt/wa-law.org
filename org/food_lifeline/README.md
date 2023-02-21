@@ -34,7 +34,7 @@
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
 
-## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍3  
+## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍4  
 
 ## [HB 1499](/bill/2023-24/hb/1499/) - Food assistance funding   ❓1
 * ❓💵 Aaron Czyzewski

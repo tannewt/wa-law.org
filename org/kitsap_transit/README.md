@@ -19,4 +19,4 @@
 
 ## [SB 5402](/bill/2023-24/sb/5402/) - Authorizing public transportation benefit areas to become limited authority Washington law enforcement agencies. 👍1  
 
-## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍1  
+## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍2  

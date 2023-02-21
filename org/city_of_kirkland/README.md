@@ -6,7 +6,7 @@
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 
-## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
+## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍2  
 
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
 
@@ -22,7 +22,7 @@
 
 ## [HB 1348](/bill/2023-24/hb/1348/) - Behavioral health support 👍1  
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍1  
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍2  
 
 ## [HB 1428](/bill/2023-24/hb/1428/) - Pedestrians/roadways 👍1  
 

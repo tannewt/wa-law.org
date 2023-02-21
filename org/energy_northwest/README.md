@@ -1,6 +1,6 @@
 # Energy Northwest
 
-## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting   ❓1
+## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  ❓1
 * ❓ Josh Lozano
 
 ## [HB 1584](/bill/2023-24/hb/1584/) - Nuclear reactor technology 👍3  

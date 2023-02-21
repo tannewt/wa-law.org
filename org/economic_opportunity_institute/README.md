@@ -7,6 +7,8 @@
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
 
+## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
+
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
 
 ## [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board 👍1  
@@ -20,12 +22,12 @@
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
 * 👍💵 Carolyn Brotherton
 
-## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍2  
+## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍3  
 
-## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍1  
+## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍2  
 * 👍 Sam Hatzenbeler
 
-## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  
+## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍2  
 
 ## [HB 1795](/bill/2023-24/hb/1795/) - Estate tax 👍1  
 * 👍💵 Carolyn Brotherton
@@ -35,6 +37,8 @@
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍2  
 * 👍 Sam Hatzenbeler
 * 👍 Sam Hatzenbeler
+
+## [SB 5238](/bill/2023-24/sb/5238/) - Academic employee bargaining 👍1  
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
 * 👍 Sam Hatzenbeler
@@ -46,7 +50,7 @@
 
 ## [SB 5316](/bill/2023-24/sb/5316/) - DCYF background check fees 👍1  
 
-## [SB 5393](/bill/2023-24/sb/5393/) - Health provider contracting 👍1  
+## [SB 5393](/bill/2023-24/sb/5393/) - Health provider contracting 👍2  
 * 👍 Sam Hatzenbeler
 
 ## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍1  

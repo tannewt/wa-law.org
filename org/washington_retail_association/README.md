@@ -44,8 +44,9 @@
 ## [HB 1348](/bill/2023-24/hb/1348/) - Behavioral health support 👍1  
 * 👍💵 Mark Johnson
 
-## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits 👍1  
+## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits 👍1  ❓1
 * 👍💵 Mark Johnson
+* ❓💵 Mark Johnson
 
 ## [HB 1375](/bill/2023-24/hb/1375/) - Delivery of alcohol 👍1  
 
@@ -82,7 +83,8 @@
 ## [HB 1761](/bill/2023-24/hb/1761/) - Property tax exemption 👍1  
 * 👍💵 Mark Johnson
 
-## [HB 1762](/bill/2023-24/hb/1762/) - Warehouse employees  👎1 
+## [HB 1762](/bill/2023-24/hb/1762/) - Warehouse employees  👎2 
+* 👎💵 Bruce Beckett
 * 👎💵 Bruce Beckett
 
 ## [HB 1785](/bill/2023-24/hb/1785/) - COVID-19/occupational  👎1 
@@ -110,6 +112,9 @@
 
 ## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍1  
 
+## [SB 5120](/bill/2023-24/sb/5120/) - 23-hr crisis relief centers 👍1  
+* 👍💵 Mark Johnson
+
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1  ❓1
 * ❓💵 Mark Johnson
 
@@ -127,7 +132,7 @@
 
 ## [SB 5251](/bill/2023-24/sb/5251/) - Commercial driver's licenses 👍1  
 
-## [SB 5263](/bill/2023-24/sb/5263/) - Psilocybin 👍1  
+## [SB 5263](/bill/2023-24/sb/5263/) - Psilocybin 👍2  
 * 👍💵 Mark Johnson
 
 ## [SB 5360](/bill/2023-24/sb/5360/) - Vehicle combinations 👍1  

@@ -2,14 +2,14 @@
 
 ## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍5  
 
-## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍1  
+## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍2  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍2  
 
 ## [HB 1443](/bill/2023-24/hb/1443/) - Online voter registration 👍4  
 * 👍💵 Jazmine Smith
 
-## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍3  
+## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍4  
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍6  
 * 👍💵 Jazmine Smith

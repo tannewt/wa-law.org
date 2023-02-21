@@ -15,7 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152362&caId=21718&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152362&caId=21718&tId=4)
 
-#### 3 👍 - Pro
+#### 147 👍 - Pro
+Testifying:
+* Harald Hyllseth - [Chief Seattle Club](/org/chief_seattle_club/)
+* Dan Wise - Catholic Community Services
 
 #### 0 👎 - Con
 

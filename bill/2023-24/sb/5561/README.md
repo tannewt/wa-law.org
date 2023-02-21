@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Mon 02/20 09:00 AM - Ways & Means (WM): SSB 5561 Law enf. community grants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152296&caId=21666&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152296&caId=21666&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152296&caId=21666&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152296&caId=21666&tId=4)
-
-#### 4 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 

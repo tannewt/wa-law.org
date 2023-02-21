@@ -15,7 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152322&caId=21698&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152322&caId=21698&tId=4)
 
-#### 35 👍 - Pro
+#### 65 👍 - Pro
+Testifying:
+* Eric Jensen - Astria Toppenish Hospital
+* Roman Daniels-Brown - Astria Toppenish Hospital
+* Cathy Bambrick - Astria Toppenish Hospital, CEO
+* Dr. Raul Garcia - Astria Toppenish Hospital, Medical Director
 
 #### 0 👎 - Con
 

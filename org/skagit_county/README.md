@@ -11,7 +11,7 @@
 ## [HB 1670](/bill/2023-24/hb/1670/) - Property tax limit factor 👍1  
 * 👍 Lisa Janicki
 
-## [HB 1686](/bill/2023-24/hb/1686/) - Salmon recovery 👍1  
+## [HB 1686](/bill/2023-24/hb/1686/) - Salmon recovery 👍2  
 
 ## [HB 1720](/bill/2023-24/hb/1720/) - Riparian grant program 👍1  
 * 👍 Ron Wesen

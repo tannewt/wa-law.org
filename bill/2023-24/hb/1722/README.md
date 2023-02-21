@@ -8,19 +8,15 @@
 
 ## Meetings
 ### Mon 02/20 01:30 PM - Transportation (TR): HB 1722 Tow truck operator comp.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152077&caId=21642&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152077&caId=21642&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152077&caId=21642&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152077&caId=21642&tId=4)
-
-#### 3 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Kris Zachary - Burns Towing
 * Paul Bressi - Nisqually Towing
 * 💵Peter Lukevich - Towing Recovery Association of Washington (TRAW)
 
-#### 0 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Kris Tefft - [American Property Casualty Insurance Association](/org/american_property_casualty_insurance_association/)
 
 #### 1 ❓ - Other
 Testifying:

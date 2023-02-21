@@ -15,13 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152424&caId=21776&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152424&caId=21776&tId=4)
 
-#### 41 👍 - Pro
+#### 171 👍 - Pro
 Testifying:
 * Nina Martinez - Latino Civic Alliance
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Paul Giuglianotti
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Teri Rogers Kemp
 
 #### 0 ❓ - Other
 

@@ -9,17 +9,11 @@
 
 ## Meetings
 ### Mon 02/20 09:00 AM - Ways & Means (WM): SSB 5609 Housing approval
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152294&caId=21664&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152294&caId=21664&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152294&caId=21664&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152294&caId=21664&tId=4)
-
-#### 35 👍 - Pro
+#### 43 👍 - Pro
 Testifying:
 * 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 7 👎 - Con
+#### 12 👎 - Con
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 

@@ -15,9 +15,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152405&caId=21755&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152405&caId=21755&tId=4)
 
-#### 37 👍 - Pro
+#### 78 👍 - Pro
+Testifying:
+* Susan Marks
+* Katherine Hurley - [Washington Defender Association](/org/washington_defender_association/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 0 ❓ - Other
 

@@ -1,5 +1,8 @@
 # City of Federal Way
 
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing  👎1 
+* 👎 Mayor Jim Ferrell
+
 ## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits 👍1  ❓1
 * 👍 Jim Ferrell
 * ❓ Mayor Jim Ferrell

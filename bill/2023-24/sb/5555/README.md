@@ -15,11 +15,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152437&caId=21750&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152437&caId=21750&tId=4)
 
-#### 0 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* Michele Jones
+* Josh Wallace - Peer WA
+* Nancy Dow - None
+* Rebecca Faust
 
-#### 0 👎 - Con
+#### 20 👎 - Con
+Testifying:
+* Carolyn Cox - SPARK Peer Learning Center
+* Beverly Miller - work peer counselor
+* Lorrin Gehring - The Rainbow Makers
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Gabriel Hamilton - Spark peer learning center
 
 ### Wed 02/01 08:00 AM - Higher Education & Workforce Development (HEWD): SB 5555 Certified peer specialists
 #### 19 👍 - Pro

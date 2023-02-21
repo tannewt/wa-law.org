@@ -15,11 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152368&caId=21724&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152368&caId=21724&tId=4)
 
-#### 2 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * 💵Charles Knutson - Amazon
 
-#### 1 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * 💵Karen Strickland - American Federation of Teachers (AFT)
 

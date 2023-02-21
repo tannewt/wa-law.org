@@ -90,7 +90,7 @@
 
 ## [SB 5523](/bill/2023-24/sb/5523/) - Forensic pathologists 👍1  
 
-## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍1  
+## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍2  
 
 ## [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth  👎1 
 
@@ -99,3 +99,5 @@
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  
 
 ## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages 👍1  
+
+## [SB 5738](/bill/2023-24/sb/5738/) - LeMay special license plate 👍1  

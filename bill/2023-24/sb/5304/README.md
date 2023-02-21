@@ -15,7 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152324&caId=21700&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152324&caId=21700&tId=4)
 
-#### 1 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* 💵Dennis Eagle - WA Federation of State Employees
+* Aida Sanchez-Vela - Interpreters United WFSE Local 1671
 
 #### 0 👎 - Con
 

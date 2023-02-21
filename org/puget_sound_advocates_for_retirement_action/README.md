@@ -18,11 +18,11 @@
 
 ## [HB 1340](/bill/2023-24/hb/1340/) - Health professions/conduct 👍1  
 
-## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
+## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍2  
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 
@@ -45,7 +45,7 @@
 
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍1  
 
-## [SB 5393](/bill/2023-24/sb/5393/) - Health provider contracting 👍1  
+## [SB 5393](/bill/2023-24/sb/5393/) - Health provider contracting 👍2  
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
 

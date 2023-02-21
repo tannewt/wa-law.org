@@ -15,13 +15,28 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30824&aId=152258&caId=21657&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30824&aId=152258&caId=21657&tId=4)
 
-#### 989 👍 - Pro
+#### 1264 👍 - Pro
+Testifying:
+* 💵Bryce Yadon - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
+* 💵Enoka Herat - ACLU of Washington
+* Jacob Nelson - AAA
+* Kelly Moore - Policing Project, NYU School of Law
+* Diane Goldstein - Law Enforcement Action Partnership
+* Lisa Judge - Seattle Office of Inspector General
+* Magda Baker - [Washington Defender Association](/org/washington_defender_association/)
+* Marta Nelson - Vera Institute of Justice
+* Scarlet Neath - Center for Policing Equity
 
-#### 19 👎 - Con
+#### 191 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Lorilee Gates
+* David-Henry Sedelmeier - Driving School owner
 
-#### 3 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Jeff DeVere - Washington Trucking Associations
+* Neil Weaver - Washington State Patrol
 
 ### Mon 01/30 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1513 Traffic safety
 #### 637 👍 - Pro

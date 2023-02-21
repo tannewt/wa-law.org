@@ -14,12 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152379&caId=21736&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152379&caId=21736&tId=4)
 
-#### 14 👍 - Pro
+#### 58 👍 - Pro
 
-#### 18 👎 - Con
+#### 38 👎 - Con
 Testifying:
 * Rod Fleck
 * Tom Lannen - County Government
+* Angie Homola
+* Marianne Edain - Whidbey Environmental Action Network
+* Brian Karnes - Cascade Hardwood Group
 
 #### 0 ❓ - Other
 

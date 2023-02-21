@@ -9,24 +9,21 @@
 
 ## Meetings
 ### Mon 02/20 01:30 PM - Appropriations (APP): SHB 1392 Electronics repair
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152043&caId=21613&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152043&caId=21613&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152043&caId=21613&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152043&caId=21613&tId=4)
-
-#### 44 👍 - Pro
+#### 169 👍 - Pro
 Testifying:
 * 💵Patrick Connor - NFIB
 * Mitch Kramer - FixCO
 * Nathan Proctor - PIRG
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * 💵Ashley Sutton - TechNet
 * 💵Melissa Gombosky - CTIA
+* Dustin Beighton - Repair Done Right Coalition
+* 💵Ashley Sutton - TechNet
+* 💵Melissa Gombosky - CTIA
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Devin Gombosky - Tesla Motors
 

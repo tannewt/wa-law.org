@@ -14,11 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152364&caId=21720&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152364&caId=21720&tId=4)
 
-#### 6 👍 - Pro
+#### 48 👍 - Pro
+Testifying:
+* 💵Alex Davidson - The Associated Students of the University of Washington
+* 💵William Daley - Communities for Our Colleges
+* Christine McMullin - SBCTC
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Karen Strickland - American Federation of Teachers (AFT)
 

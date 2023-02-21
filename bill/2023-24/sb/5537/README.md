@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152357&caId=21713&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152357&caId=21713&tId=4)
 
-#### 1 👍 - Pro
+#### 156 👍 - Pro
+Testifying:
+* RN, Darcy Jaffe - Washington State Hospital Association
 
-#### 1 👎 - Con
+#### 15 👎 - Con
 
 #### 0 ❓ - Other
 

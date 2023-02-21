@@ -9,13 +9,9 @@
 
 ## Meetings
 ### Mon 02/20 01:30 PM - Appropriations (APP): SHB 1332 Tribes/K-12 instruction
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152041&caId=21611&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152041&caId=21611&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152041&caId=21611&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152041&caId=21611&tId=4)
-
-#### 26 👍 - Pro
+#### 63 👍 - Pro
+Testifying:
+* Anna Hernandez-French - Office of Superintendents of Public Instruction
 
 #### 0 👎 - Con
 

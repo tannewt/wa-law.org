@@ -38,6 +38,8 @@
 ## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍1  ❓1
 * ❓💵 John Stuhlmiller
 
+## [HB 1395](/bill/2023-24/hb/1395/) - Aircraft fuel tax distrib. 👍1  
+
 ## [HB 1457](/bill/2023-24/hb/1457/) - Motor carriers/restrooms 👍1  
 
 ## [HB 1505](/bill/2023-24/hb/1505/) - Alternative jet fuel 👍1  
@@ -46,18 +48,23 @@
 ## [HB 1527](/bill/2023-24/hb/1527/) - Tax increment financing 👍1  
 * 👍 Chris Herman
 
-## [HB 1554](/bill/2023-24/hb/1554/) - Lead impacts  👎1 
+## [HB 1554](/bill/2023-24/hb/1554/) - Lead impacts  👎2 
+* 👎 Chris Herman
 * 👎 Chris Herman
 
 ## [HB 1584](/bill/2023-24/hb/1584/) - Nuclear reactor technology 👍1  
 
 ## [HB 1619](/bill/2023-24/hb/1619/) - Renewable energy resources 👍1  
 
+## [HB 1644](/bill/2023-24/hb/1644/) - Margin tax  👎1 
+* 👎 Chris Herman
+
 ## [HB 1663](/bill/2023-24/hb/1663/) - Consolidated port districts 👍1  
 
 ## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  
 
-## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍1  
+## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍2  
+* 👍 Chris Herman
 * 👍 Chris Herman
 
 ## [HB 1753](/bill/2023-24/hb/1753/) - Derelict vessel notices 👍1  
@@ -73,6 +80,9 @@
 * 👎 Eric ffitch
 
 ## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services 👍1  
+
+## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge   ❓1
+* ❓💵 Marian Dacca
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 * ❓ Eric ffitch

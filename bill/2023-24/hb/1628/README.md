@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152092&caId=21632&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152092&caId=21632&tId=4)
 
-#### 430 👍 - Pro
+#### 725 👍 - Pro
 Testifying:
 * Sol Villarreal
 * Angela Birney - City of Redmond Mayor
@@ -29,8 +29,16 @@ Testifying:
 * Councilmember Janice Zahn - [City of Bellevue](/org/city_of_bellevue/)
 * Councilmember Kelli Curtis - [City of Kirkland](/org/city_of_kirkland/)
 * Mayor Mary Lou Pauly - [City of Issaquah](/org/city_of_issaquah/)
+* carl haglund - Columbia Modern Living
+* Chad Vaculin - Housing Development Consortium, Eastside Affordable Housing Coalition
+* Chris Persons - Community Roots Housing
+* Patience Malaba - Housing Development Consortium Seattle-King County
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* David Baker - City of Kenmore, Councilmember
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Sol Villarreal
 
-#### 239 👎 - Con
+#### 546 👎 - Con
 Testifying:
 * Kevin Wallace - Wallace Properties, Inc.
 * Tim Eyman - Concerned Taxpayer
@@ -44,8 +52,13 @@ Testifying:
 * Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
 * Blane Brinkley - BHI
 * Clark Lane
+* Robert Wallace
+* Heather Munn
+* PETER LANEY - Windy Pass, LLC
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* robert wardell - self adovates
 
 ### Wed 02/08 08:00 AM - Local Government (LG): HB 1628 Real estate excise tax
 #### 10 👍 - Pro

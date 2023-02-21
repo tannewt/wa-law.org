@@ -11,7 +11,7 @@
 
 ## [HB 1042](/bill/2023-24/hb/1042/) - Use of existing buildings 👍1  
 
-## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
+## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍2  
 
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
 

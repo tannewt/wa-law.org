@@ -15,11 +15,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152358&caId=21714&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152358&caId=21714&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Amber Leaders - Governor's Office
 
-#### 0 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Jason Schwarz - [Washington Defender Association](/org/washington_defender_association/)
+* Jason Schwarz - WDA/WACDL
+* Kari Reardon - WDA/WACDL
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Katie Kolan - Washington State Hospital Association (WSHA)
+* 💵Michael White - [King County](/org/king_county/)
 
 ### Thu 02/02 08:00 AM - Law & Justice (LAW): SB 5440 Competency evaluations
 #### 4 👍 - Pro

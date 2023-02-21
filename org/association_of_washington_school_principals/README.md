@@ -22,6 +22,8 @@
 
 ## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options 👍1  
 
+## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍1  
+
 ## [HB 1332](/bill/2023-24/hb/1332/) - Tribes/K-12 instruction 👍1  
 
 ## [HB 1346](/bill/2023-24/hb/1346/) - Purple star award 👍1  
@@ -50,11 +52,15 @@
 
 ## [SB 5527](/bill/2023-24/sb/5527/) - Graduation pathway options 👍1  
 
-## [SB 5670](/bill/2023-24/sb/5670/) - Running start/10th grade  👎1 
+## [SB 5670](/bill/2023-24/sb/5670/) - Running start/10th grade  👎2 
 * 👎💵 Roz Thompson
 
 ## [SB 5671](/bill/2023-24/sb/5671/) - K-12 experience factors 👍1  
 
+## [SB 5702](/bill/2023-24/sb/5702/) - Student homelessness pilot 👍1  
+
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  
 
 ## [SB 5710](/bill/2023-24/sb/5710/) - Behavioral health/youth 👍1  
+
+## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍1  

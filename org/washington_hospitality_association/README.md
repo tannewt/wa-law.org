@@ -25,7 +25,7 @@
 
 ## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records  👎1 
 
-## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits 👍2  
+## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits 👍3  
 * 👍💵 Samantha Louderback
 * 👍💵 Samantha Louderback
 
@@ -52,6 +52,9 @@
 * 👍💵 Riley Smith
 
 ## [HB 1785](/bill/2023-24/hb/1785/) - COVID-19/occupational  👎1 
+
+## [HB 1815](/bill/2023-24/hb/1815/) - Payment card processing/tax 👍1  
+* 👍💵 Julia Gorton
 
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI  👎1 
 * 👎💵 Julia Gorton

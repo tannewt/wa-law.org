@@ -15,7 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152349&caId=21705&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152349&caId=21705&tId=4)
 
-#### 4 👍 - Pro
+#### 25 👍 - Pro
+Testifying:
+* 💵Joel Anderson - University of Washington Graduate and Professional Student Senate
+* Madeline Sprute - Tacoma Community College
 
 #### 0 👎 - Con
 

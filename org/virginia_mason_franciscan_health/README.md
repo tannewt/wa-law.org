@@ -38,7 +38,7 @@
 
 ## [SB 5503](/bill/2023-24/sb/5503/) - Nursing ed./clinical hours 👍1  
 
-## [SB 5537](/bill/2023-24/sb/5537/) - Hospital staffing collab. 👍1  
+## [SB 5537](/bill/2023-24/sb/5537/) - Hospital staffing collab. 👍2  
 * 👍 RN, Dana Nelson-Peterson
 
 ## [SB 5547](/bill/2023-24/sb/5547/) - Nursing pool transparency 👍1  

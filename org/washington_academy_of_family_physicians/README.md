@@ -2,6 +2,8 @@
 
 ## [HB 1035](/bill/2023-24/hb/1035/) - Health care restrictions 👍1  
 
+## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍1  
+
 ## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍1  
 
 ## [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board 👍1  
@@ -18,7 +20,8 @@
 
 ## [SB 5232](/bill/2023-24/sb/5232/) - Firearms/purchase & transfer 👍2  
 
-## [SB 5373](/bill/2023-24/sb/5373/) - ARNP, PA, & MD reimbursement  👎1 
+## [SB 5373](/bill/2023-24/sb/5373/) - ARNP, PA, & MD reimbursement  👎2 
+* 👎 Sonal Patel
 
 ## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  
 

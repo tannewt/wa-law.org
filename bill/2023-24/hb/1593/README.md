@@ -14,11 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152455&caId=21764&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152455&caId=21764&tId=4)
 
-#### 2 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* 💵Katharine Weiss - Washington State Nurses Association
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Bob Battles - Association of Washington Business (AWB)
+* Kris Tefft - Washington Self-Insurers Association
 
 ### Wed 02/08 08:00 AM - Labor & Workplace Standards (LAWS): HB 1593 RN PTSD/industrial insurance
 #### 17 👍 - Pro

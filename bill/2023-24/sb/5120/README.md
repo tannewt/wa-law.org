@@ -15,9 +15,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152361&caId=21717&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152361&caId=21717&tId=4)
 
-#### 39 👍 - Pro
+#### 124 👍 - Pro
+Testifying:
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Sarah Chesemore
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
+* Katie Kolan - Washington State Hospital Association (WSHA)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Rebecca Faust
 
 #### 0 ❓ - Other
 

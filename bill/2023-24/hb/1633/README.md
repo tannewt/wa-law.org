@@ -8,14 +8,21 @@
 * [Substitute Bill](S/)
 
 ## Meetings
-### Mon 02/20 08:00 AM - Capital Budget (CB): SHB 1633 Homes for heroes program
+### Wed 02/22 09:00 AM - Capital Budget (CB): SHB 1633 Homes for heroes program
 Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152289&caId=21660&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152289&caId=21660&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152289&caId=21660&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152289&caId=21660&tId=4)
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152636&caId=21809&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152636&caId=21809&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152636&caId=21809&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152636&caId=21809&tId=4)
 
-#### 34 👍 - Pro
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Mon 02/20 08:00 AM - Capital Budget (CB): SHB 1633 Homes for heroes program
+#### 36 👍 - Pro
 Testifying:
 * 💵Teresa Taylor - (WACOPS) Washington Council of Police & Sheriffs
 

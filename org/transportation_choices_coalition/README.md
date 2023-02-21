@@ -7,7 +7,8 @@
 ## [HB 1428](/bill/2023-24/hb/1428/) - Pedestrians/roadways 👍1  ❓1
 * 👍💵 Bryce Yadon
 
-## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍1  
+## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍2  
+* 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 
 ## [HB 1582](/bill/2023-24/hb/1582/) - Right turns 👍1  

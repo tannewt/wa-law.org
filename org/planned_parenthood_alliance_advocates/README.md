@@ -11,6 +11,8 @@
 
 ## [HB 1450](/bill/2023-24/hb/1450/) - Biomarker testing coverage 👍1  
 
+## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍1  
+
 ## [HB 1564](/bill/2023-24/hb/1564/) - OTC sexual assault kits 👍1  
 
 ## [HB 1696](/bill/2023-24/hb/1696/) - Stalking-related offenses 👍1  

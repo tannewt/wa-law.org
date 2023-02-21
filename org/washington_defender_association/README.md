@@ -6,13 +6,17 @@
 ## [HB 1160](/bill/2023-24/hb/1160/) - Mutilation or dismemberment  👎1 
 * 👎 Jason Schwarz
 
+## [HB 1394](/bill/2023-24/hb/1394/) - Sexual offenses by youth 👍1  
+* 👍 Katherine Hurley
+
 ## [HB 1428](/bill/2023-24/hb/1428/) - Pedestrians/roadways 👍1  
 * 👍 Magda Baker
 
 ## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief 👍1  
 * 👍 Ali Hohman
 
-## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍1  
+## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍2  
+* 👍 Magda Baker
 * 👍 Magda Baker
 
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍1  
@@ -24,7 +28,8 @@
 ## [SB 5415](/bill/2023-24/sb/5415/) - Public defense/insanity 👍1  
 * 👍 Jason Schwarz
 
-## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎1 
+## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎2 
+* 👎 Jason Schwarz
 * 👎 Jason Schwarz
 
 ## [SB 5451](/bill/2023-24/sb/5451/) - Long sentences review 👍1  

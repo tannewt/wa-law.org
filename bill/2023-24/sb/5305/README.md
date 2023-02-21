@@ -15,7 +15,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152369&caId=21725&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152369&caId=21725&tId=4)
 
-#### 2 👍 - Pro
+#### 39 👍 - Pro
+Testifying:
+* 💵Maud Daudon - Career Connect Washington
 
 #### 0 👎 - Con
 

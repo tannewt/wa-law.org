@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 02/20 08:00 AM - Finance (FIN): HB 1670 Property tax limit factor
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152090&caId=21630&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152090&caId=21630&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152090&caId=21630&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152090&caId=21630&tId=4)
-
-#### 63 👍 - Pro
+#### 68 👍 - Pro
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Michael White - [King County](/org/king_county/)
@@ -41,8 +35,10 @@ Testifying:
 * Michael McConnell - Snohomish Regional Fire and Rescue, Washington Fire Chiefs
 * Roy Waugh - Snohomish Regional Fire and Rescue, Washington Fire Chiefs
 * Troy Elmore - Snohomish Regional Fire and Rescue, Washington Fire Chiefs
+* Joe Kendo - Washington State Labor Council AFL-CIO
+* Commissioner Art Swannack - whitman county commissioner
 
-#### 983 👎 - Con
+#### 1030 👎 - Con
 Testifying:
 * Pam Doddridge
 * Kim Butler
@@ -52,5 +48,8 @@ Testifying:
 * Donald Ladely
 * Debra Helvey
 * Mary Mason
+* Lorilee Gates
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jeff Pittman - Pend Oreille County Library District

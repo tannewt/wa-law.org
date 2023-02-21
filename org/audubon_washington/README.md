@@ -6,7 +6,7 @@
 
 ## [HB 1192](/bill/2023-24/hb/1192/) - Electric transm. planning 👍1  
 
-## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting   ❓1
+## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  ❓1
 * ❓ Adam Maxwell
 
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1  
@@ -20,4 +20,4 @@
 ## [SB 5380](/bill/2023-24/sb/5380/) - Clean energy siting   ❓1
 * ❓ Adam Maxwell
 
-## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands. 👍1  
+## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands. 👍2  

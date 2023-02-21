@@ -15,9 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152359&caId=21715&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152359&caId=21715&tId=4)
 
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Sarah Chesemore
 
-#### 32 👎 - Con
+#### 38 👎 - Con
+Testifying:
+* Eric Pratt
 
 #### 1 ❓ - Other
 Testifying:

@@ -9,20 +9,14 @@
 
 ## Meetings
 ### Mon 02/20 01:30 PM - Appropriations (APP): SHB 1151 Fertility services coverage
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152039&caId=21609&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152039&caId=21609&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152039&caId=21609&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152039&caId=21609&tId=4)
-
-#### 396 👍 - Pro
+#### 501 👍 - Pro
 Testifying:
 * Sara Cassidey - Association of Washington Assistant Attorneys General (AWAAG), WFSE Local 5297
 * Betsy Campbell - RESOLVE, National Infertility Assn. (Available for questions)
 * Dr. Chris Hernden - RESOLVE, National Infertility Association
 * Dr. Lori Marshall - RESOLVE, National Infertility Association
 
-#### 46 👎 - Con
+#### 50 👎 - Con
 
 #### 1 ❓ - Other
 

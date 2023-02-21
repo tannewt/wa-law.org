@@ -9,17 +9,11 @@
 
 ## Meetings
 ### Mon 02/20 09:00 AM - Ways & Means (WM): SSB 5601 Youth development office
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152318&caId=21688&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152318&caId=21688&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152318&caId=21688&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152318&caId=21688&tId=4)
-
-#### 55 👍 - Pro
+#### 58 👍 - Pro
 Testifying:
 * 💵David Beard - School's Out Washington
 
-#### 117 👎 - Con
+#### 135 👎 - Con
 
 #### 0 ❓ - Other
 

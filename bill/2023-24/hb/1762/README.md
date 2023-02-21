@@ -15,9 +15,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152531&caId=21769&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152531&caId=21769&tId=4)
 
-#### 2 👍 - Pro
+#### 9 👍 - Pro
 
-#### 0 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* 💵Bruce Beckett - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Brandon Houskeeper - NW Grocery Assoc.
+* Bob Battles - Association of Washington Business (AWB)
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
 
 #### 0 ❓ - Other
 

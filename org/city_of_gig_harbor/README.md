@@ -1,6 +1,6 @@
 # City of Gig Harbor
 
-## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits 👍2  
+## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits 👍3  
 * 👍 Tracie Markley
 
 ## [HB 1446](/bill/2023-24/hb/1446/) - Law enf. officers/increase 👍1  

@@ -2,8 +2,9 @@
 
 ## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
 * 👍💵 Brent Ludeman
+* 👍💵 Josie Cummings
 
 ## [HB 1129](/bill/2023-24/hb/1129/) - Mobile home community sales  👎1 
 
@@ -101,6 +102,8 @@
 
 ## [HB 1735](/bill/2023-24/hb/1735/) - GMA/net ecological gain  👎1 
 * 👎💵 Josie Cummings
+
+## [HB 1762](/bill/2023-24/hb/1762/) - Warehouse employees  👎1 
 
 ## [SB 5058](/bill/2023-24/sb/5058/) - Multiunit res. buildings 👍1  
 * 👍💵 Josie Cummings

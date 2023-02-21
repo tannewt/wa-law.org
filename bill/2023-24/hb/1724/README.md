@@ -15,11 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152530&caId=21768&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152530&caId=21768&tId=4)
 
-#### 6 👍 - Pro
+#### 18 👍 - Pro
+Testifying:
+* 💵Bob Cooper - National Association of Social Workers WA Chapter
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Christie Spice - Washington State Department of Health
 
 ### Fri 02/10 08:00 AM - Postsecondary Education & Workforce (PEW): HB 1724 Behavioral health workforce
 #### 15 👍 - Pro

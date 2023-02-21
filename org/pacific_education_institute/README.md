@@ -6,7 +6,9 @@
 
 ## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options 👍1  
 
-## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍1  
+## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍2  
+
+## [HB 1332](/bill/2023-24/hb/1332/) - Tribes/K-12 instruction 👍1  
 
 ## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍1  
 
@@ -16,7 +18,7 @@
 
 ## [SB 5264](/bill/2023-24/sb/5264/) - Paraeducator requirements 👍1  
 
-## [SB 5305](/bill/2023-24/sb/5305/) - Office of career connect WA 👍2  
+## [SB 5305](/bill/2023-24/sb/5305/) - Office of career connect WA 👍3  
 * 👍 Kathryn Kurtz
 
 ## [SB 5527](/bill/2023-24/sb/5527/) - Graduation pathway options 👍1  

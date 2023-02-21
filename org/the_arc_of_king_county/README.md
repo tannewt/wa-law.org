@@ -61,7 +61,7 @@
 
 ## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍1  
 
-## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍2  
+## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍3  
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
 

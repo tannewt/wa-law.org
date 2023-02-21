@@ -1,5 +1,7 @@
 # Associated Students of the University of Washington Bothell
 
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
+
 ## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍2  
 
 ## [HB 1291](/bill/2023-24/hb/1291/) - Academic employee bargaining 👍1  
@@ -17,7 +19,8 @@
 
 ## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍1  
 
-## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍1  
+## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍2  
+* 👍 Puneet Birk
 
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍5  
 

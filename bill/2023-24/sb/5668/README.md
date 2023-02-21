@@ -9,19 +9,14 @@
 
 ## Meetings
 ### Mon 02/20 09:00 AM - Ways & Means (WM): SSB 5668 Small districts/skill center
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152317&caId=21687&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152317&caId=21687&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152317&caId=21687&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152317&caId=21687&tId=4)
-
-#### 18 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * Derek Sarley - Walla Walla Public Schools
 * Jim Kowalkowski - Rural Education Center
 * James Everett - Meridian School Disrtict
 * Lynette Brower - WA State Skills Center Association
 * Paul Randall - Tri-Tech Skill Center
+* Veronica Clinton - Wilson Creek School District
 
 #### 0 👎 - Con
 

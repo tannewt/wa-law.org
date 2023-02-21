@@ -203,7 +203,7 @@
 
 ## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍1  
 
-## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
+## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍3  
 * 👍 Sunaree Marshall
 
 ## [HB 1670](/bill/2023-24/hb/1670/) - Property tax limit factor 👍1  
@@ -226,6 +226,8 @@
 ## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services  👎1 
 
 ## [HB 1795](/bill/2023-24/hb/1795/) - Estate tax 👍1  
+
+## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge   ❓1
 
 ## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment   ❓1
 * ❓ Brad Finegood
@@ -373,8 +375,9 @@
 
 ## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍1  
 
-## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎1 
+## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎1 ❓1
 * 👎 April Putney
+* ❓💵 Michael White
 
 ## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍1  
 
@@ -393,7 +396,7 @@
 
 ## [SB 5501](/bill/2023-24/sb/5501/) - Establishing a public education program to reduce the incidence of stillbirth using a platform for recording and tracking fetal movements. 👍1  
 
-## [SB 5526](/bill/2023-24/sb/5526/) - Nursing facility rates 👍1  
+## [SB 5526](/bill/2023-24/sb/5526/) - Nursing facility rates 👍2  
 
 ## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  
 
@@ -402,6 +405,8 @@
 ## [SB 5555](/bill/2023-24/sb/5555/) - Certified peer specialists 👍2  
 
 ## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy 👍1  
+
+## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍1  
 
 ## [SB 5592](/bill/2023-24/sb/5592/) - Defibrillators/fitness 👍2  
 

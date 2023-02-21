@@ -15,13 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152533&caId=21788&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152533&caId=21788&tId=4)
 
-#### 24 👍 - Pro
+#### 190 👍 - Pro
 Testifying:
 * 💵Shaun Scott
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 02/06 01:30 PM - Housing (HOUS): HB 1474 Covenant homeownership prg.
 #### 836 👍 - Pro

@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Mon 02/20 01:30 PM - Transportation (TR): SHB 1363 Vehicular pursuits
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152524&caId=21747&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152524&caId=21747&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152524&caId=21747&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152524&caId=21747&tId=4)
-
-#### 209 👍 - Pro
+#### 441 👍 - Pro
 Testifying:
 * C Davis
 * Dana Ralph - Mayor of the City of Kent
@@ -26,18 +20,40 @@ Testifying:
 * Rachel Olson
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 * Kyle Hardtke
+* Paul Herrera - Pierce County Council, District 2
+* Derek Sanders - Sheriff, Thurston
+* John Horch - Clark County Sheriff - Clark County Sheriff's Office
+* Christina Goold
+* Christina Goold
+* Stephanie Roberts
+* Nichole Weber
+* James Richard
+* Samuel Caldwell
+* Rebecca Mertzig - Bellingham Police Department
 
-#### 59 👎 - Con
+#### 343 👎 - Con
 Testifying:
 * 💵Shaun Scott
 * M. Lorena Gonzalez - ACLU of Washington
 * 💵Paul Benz - WA Coalition for Police Accountability
 * David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
+* 💵Samuel Martin - Washington for Black Lives
+* Martina Morris - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
+* Kathryn Kravit-Smith
+* Sheley Anderson - NAACP State Area Conference
+* Michael Minney
+* Joseph Volk
+* 💵Paula Sardinas - WBBA
+* Kamau Chege - Washington Community Alliance
+* Nicholas van den Heuvel
 
-#### 2 ❓ - Other
+#### 12 ❓ - Other
 Testifying:
 * Mayor Jim Ferrell - [City of Federal Way](/org/city_of_federal_way/)
 * Nancy Backus - City of Auburn, Mayor
+* Richard Grunewald
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Tim Payne
 
 ### Tue 01/31 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1363 Vehicular pursuits
 #### 265 👍 - Pro

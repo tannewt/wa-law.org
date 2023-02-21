@@ -1,7 +1,8 @@
 # Children's Advocacy Centers of Washington
 
-## [HB 1439](/bill/2023-24/hb/1439/) - Child exposure to violence 👍1  
+## [HB 1439](/bill/2023-24/hb/1439/) - Child exposure to violence 👍2  
 * 👍 PAULA REED
+* 👍 Paula Reed
 
 ## [HB 1455](/bill/2023-24/hb/1455/) - Child marriage 👍1  
 

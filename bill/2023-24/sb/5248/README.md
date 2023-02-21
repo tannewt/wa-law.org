@@ -15,13 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152373&caId=21729&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152373&caId=21729&tId=4)
 
-#### 7 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Liv Finne - Washington Policy Center
 
 ### Thu 01/26 01:30 PM - Early Learning & K-12 Education (EDU): SB 5248 Tutoring & extended learning
 #### 23 👍 - Pro

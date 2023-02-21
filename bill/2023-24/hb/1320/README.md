@@ -15,9 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152440&caId=21791&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152440&caId=21791&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* 💵Larry Shannon - Washington State Association for Justice
+* Patrick McGah
 
-#### 1 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Bob Battles - Association of Washington Business (AWB)
+* 💵Patrick Connor - NFIB
 
 #### 0 ❓ - Other
 

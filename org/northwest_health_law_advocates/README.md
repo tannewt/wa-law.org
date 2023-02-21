@@ -20,7 +20,7 @@
 ## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍1  
 * 👍💵 Emily Brice
 
-## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  
+## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍2  
 
 ## [SB 5169](/bill/2023-24/sb/5169/) - Medicare/health care plans 👍1  
 

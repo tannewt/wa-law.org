@@ -15,14 +15,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152401&caId=21751&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152401&caId=21751&tId=4)
 
-#### 78 👍 - Pro
+#### 322 👍 - Pro
 Testifying:
 * Katherine Martinez - The Ending Qualified Immunity Project
 
-#### 4 👎 - Con
+#### 17 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Laurie A Layne
+* Michael McKinley
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* c davis - Washingtonians to Recall Inslee
+* Jean Homan - Washington Defense Trial Lawyers Association
 
 #### 0 ❓ - Other
 

@@ -8,17 +8,12 @@
 
 ## Meetings
 ### Mon 02/20 01:30 PM - Transportation (TRAN): SB 5742 DOT grant programs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30814&aId=152221&caId=21652&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30814&aId=152221&caId=21652&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30814&aId=152221&caId=21652&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30814&aId=152221&caId=21652&tId=4)
-
-#### 12 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 * Vicky Clarke - [Washington Bikes](/org/washington_bikes/)
 * 💵Justin Leighton - Washington State Transit Association
+* Jim Hedrick - Port of Evrett
 
 #### 0 👎 - Con
 

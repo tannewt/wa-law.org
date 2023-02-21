@@ -151,6 +151,6 @@
 
 ## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍1  
 
-## [SB 5702](/bill/2023-24/sb/5702/) - Student homelessness pilot 👍1  
+## [SB 5702](/bill/2023-24/sb/5702/) - Student homelessness pilot 👍2  
 
-## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages 👍1  
+## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages 👍2  

@@ -14,8 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152095&caId=21635&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152095&caId=21635&tId=4)
 
-#### 0 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Dave Gent - [Washington Asphalt Pavement Association](/org/washington_asphalt_pavement_association/)
+* 💵Lisa Thatcher - [Miles Resources](/org/miles_resources/)
+* Dax Woolston - Lakeside Industries, Inc.
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Ian Doyle - Department of Revenue

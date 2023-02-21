@@ -15,11 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152420&caId=21772&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152420&caId=21772&tId=4)
 
-#### 25 👍 - Pro
+#### 206 👍 - Pro
 Testifying:
 * 💵Mitch Denning - WA Assn of Maintenance and Operation Administrators
+* Rusanne Modeland
+* Logan Endres - Washington State School Directors' Association (WSSDA)
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Laurie Layne
 

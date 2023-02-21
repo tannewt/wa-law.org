@@ -5,10 +5,11 @@
 
 ## [HB 1333](/bill/2023-24/hb/1333/) - Domestic violent extremism 👍1  
 
-## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits  👎4 
+## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits  👎5 
 * 👎 Kurtis Robertson
 * 👎💵 Nickeia Hunter
 * 👎 Leslie Cushman
+* 👎 Martina Morris
 
 ## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct 👍5  
 * 👍 Leslie Cushman

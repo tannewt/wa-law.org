@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Mon 02/20 01:30 PM - Transportation (TRAN): SSB 5412 Land use permitting/local
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30814&aId=152136&caId=21650&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30814&aId=152136&caId=21650&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30814&aId=152136&caId=21650&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30814&aId=152136&caId=21650&tId=4)
-
-#### 34 👍 - Pro
+#### 54 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
@@ -23,7 +17,7 @@ Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

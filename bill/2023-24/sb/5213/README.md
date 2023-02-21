@@ -15,13 +15,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152350&caId=21706&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152350&caId=21706&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Heather Chapman - Ardon Health Specialty Pharmacy
+* Laura Boudreau - AIDS Healthcare Foundation
+* KARI VANDERHOUWEN - DUVALL FAMILY DRUGS
+* 💵Dedi Little - Washington State Pharmacy Association
 
 ### Fri 02/03 08:00 AM - Health & Long Term Care (HLTC): SB 5213 Pharmacy benefit managers
 #### 153 👍 - Pro

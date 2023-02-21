@@ -18,7 +18,7 @@
 
 ## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses 👍1  
 
-## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits  👎1 
+## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits  👎2 
 
 ## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct 👍1  
 

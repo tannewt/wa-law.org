@@ -9,21 +9,27 @@
 
 ## Meetings
 ### Mon 02/20 01:30 PM - Transportation (TR): SHB 1554 Lead impacts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152525&caId=21748&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152525&caId=21748&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152525&caId=21748&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152525&caId=21748&tId=4)
-
-#### 9 👍 - Pro
+#### 53 👍 - Pro
 Testifying:
 * Breck Lebegue - WA Physicians for Social Responsibility
+* Lisa Rivera Smith
+* 💵Paula Sardinas
 
-#### 8 👎 - Con
+#### 255 👎 - Con
 Testifying:
 * John Dobson - Washington State Aviation Alliance
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Don Berger
+* Donald Goodman - none
+* Brad Schuster - Aircraft Owners and Pilots Association (AOPA) / Northwest Mountain Regional Manager
+* Stephen Ratzlaff - Washington Seaplane Pilots Association
+* Mark Long - Blue Ribbon Farms Property Owners Association owner of airstrip WN29
+* Alan Burnett - Pacific Northwest Aviation Association
+* Chad Mackay
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Robert Dengel - WA State Dept of Ecology
 
 ### Thu 02/02 08:00 AM - Environment & Energy (ENVI): HB 1554 Lead impacts
 #### 0 👍 - Pro

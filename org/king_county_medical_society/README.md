@@ -4,7 +4,7 @@
 
 ## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍1  
 
-## [HB 1357](/bill/2023-24/hb/1357/) - Prior authorization/health 👍2  
+## [HB 1357](/bill/2023-24/hb/1357/) - Prior authorization/health 👍3  
 * 👍 Teresa Dr. Girolami
 
 ## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  

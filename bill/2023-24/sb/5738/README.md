@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 02/20 01:30 PM - Transportation (TRAN): SB 5738 LeMay special license plate
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30814&aId=152135&caId=21649&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30814&aId=152135&caId=21649&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30814&aId=152135&caId=21649&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30814&aId=152135&caId=21649&tId=4)
-
-#### 1493 👍 - Pro
+#### 1625 👍 - Pro
 Testifying:
 * Alan Granberg
 * 💵Michael Transue - LeMay - America's Car Museum

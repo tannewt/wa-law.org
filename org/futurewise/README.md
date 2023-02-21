@@ -10,7 +10,7 @@
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
 
 ## [HB 1517](/bill/2023-24/hb/1517/) - Transit-oriented development 👍1  
 * 👍💵 Bryce Yadon
@@ -39,6 +39,8 @@
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍3  
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
+
+## [SB 5609](/bill/2023-24/sb/5609/) - Housing approval  👎1 
 
 ## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍1  
 

@@ -10,6 +10,9 @@
 
 ## [HB 1785](/bill/2023-24/hb/1785/) - COVID-19/occupational  👎1 
 
+## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge  👎1 
+* 👎💵 Jerry Vanderwood
+
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 
 ## [SB 5303](/bill/2023-24/sb/5303/) - Public works trust account 👍1  

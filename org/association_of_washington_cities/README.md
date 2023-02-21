@@ -148,6 +148,9 @@
 
 ## [HB 1792](/bill/2023-24/hb/1792/) - Water rights procedures 👍1  
 
+## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge   ❓1
+* ❓ Brandy DeLange
+
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍2  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
@@ -160,6 +163,8 @@
 ## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍1  
 
 ## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
+
+## [SB 5120](/bill/2023-24/sb/5120/) - 23-hr crisis relief centers 👍1  
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management 👍1  
 * 👍💵 Carl Schroeder
@@ -225,7 +230,8 @@
 ## [SB 5418](/bill/2023-24/sb/5418/) - Definition of public work  👎1 
 * 👎 Brandy DeLange
 
-## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎1 
+## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎2 
+* 👎 Lindsey Hueer
 
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍1  
 
@@ -288,6 +294,9 @@
 ## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍2  
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
+
+## [SB 5635](/bill/2023-24/sb/5635/) - Victims' rights   ❓1
+* ❓ Lindsey Hueer
 
 ## [SB 5657](/bill/2023-24/sb/5657/) - Kit home permitting 👍1  
 

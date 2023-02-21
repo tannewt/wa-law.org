@@ -18,6 +18,8 @@
 
 ## [HB 1137](/bill/2023-24/hb/1137/) - Return-to-work opportunities  👎1 
 
+## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍1  
+
 ## [HB 1187](/bill/2023-24/hb/1187/) - Employee-union privilege 👍2  
 
 ## [HB 1197](/bill/2023-24/hb/1197/) - Workers' comp. providers 👍1  
@@ -34,9 +36,15 @@
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
 
+## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍1  
+
 ## [HB 1526](/bill/2023-24/hb/1526/) - Electrical inspector salary 👍1  
 
 ## [HB 1542](/bill/2023-24/hb/1542/) - AEDs/high voltage work 👍1  
+
+## [HB 1578](/bill/2023-24/hb/1578/) - Wildland fire safety 👍1  
+
+## [HB 1593](/bill/2023-24/hb/1593/) - RN PTSD/industrial insurance 👍1  
 
 ## [HB 1774](/bill/2023-24/hb/1774/) - Public empl. salary surveys 👍1  
 

@@ -8,21 +8,19 @@
 
 ## Meetings
 ### Mon 02/20 08:00 AM - Finance (FIN): HB 1644 Margin tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152089&caId=21629&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152089&caId=21629&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152089&caId=21629&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152089&caId=21629&tId=4)
+#### 12 👍 - Pro
 
-#### 10 👍 - Pro
-
-#### 289 👎 - Con
+#### 318 👎 - Con
 Testifying:
 * Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Katie Beeson - Washington Food Industry Association
 * Karen McIntosh
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Amber Carter - Port of Vancouver & Identity Clark County
+* Janet Christopherson
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Suzanne rohner
 
 #### 6 ❓ - Other
 Testifying:

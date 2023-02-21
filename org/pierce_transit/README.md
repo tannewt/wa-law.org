@@ -14,7 +14,7 @@
 
 ## [HB 1517](/bill/2023-24/hb/1517/) - Transit-oriented development 👍1  
 
-## [HB 1578](/bill/2023-24/hb/1578/) - Wildland fire safety 👍1  
+## [HB 1578](/bill/2023-24/hb/1578/) - Wildland fire safety 👍2  
 
 ## [SB 5091](/bill/2023-24/sb/5091/) - Hydrogen fuel products 👍1  
 

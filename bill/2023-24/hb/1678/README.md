@@ -15,9 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152529&caId=21767&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152529&caId=21767&tId=4)
 
-#### 4 👍 - Pro
+#### 198 👍 - Pro
+Testifying:
+* Kate White Tudor - [Washington Association for Community Health](/org/washington_association_for_community_health/)
+* 💵Marcy Bowers - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 
-#### 0 👎 - Con
+#### 423 👎 - Con
 
 #### 0 ❓ - Other
 

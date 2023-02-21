@@ -15,16 +15,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152527&caId=21765&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152527&caId=21765&tId=4)
 
-#### 93 👍 - Pro
+#### 715 👍 - Pro
 Testifying:
 * Joe Kunzler - None
 * Joe Kunzler - None
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * 💵Shaun Scott
+* 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Delia Trujillo
+* 💵Lyset Cadena - [City of Burien](/org/city_of_burien/)
+* Troy Schmeil - Sapphire Homes Inc.
 
-#### 1 👎 - Con
+#### 125 👎 - Con
+Testifying:
+* Mayor Jim Ferrell - [City of Federal Way](/org/city_of_federal_way/)
+* Brandon Buchanon - Woodinville City Manager
+* Mike Millman - Mayor of Woodinville
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Adam Lincoln - [City of Pasco](/org/city_of_pasco/)
 
 ### Tue 01/17 04:00 PM - Housing (HOUS): HB 1110 Middle housing
 #### 1832 👍 - Pro

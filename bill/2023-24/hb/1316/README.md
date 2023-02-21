@@ -9,19 +9,15 @@
 
 ## Meetings
 ### Mon 02/20 01:30 PM - Appropriations (APP): SHB 1316 Dual credit program access
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152040&caId=21610&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152040&caId=21610&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152040&caId=21610&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152040&caId=21610&tId=4)
-
-#### 20 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * Steve DuPont - [Central Washington University](/org/central_washington_university/)
 * Sopeara Chay - South Puget Sound Community College
 * Puneet Birk - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
 * Arlen Harris - SBCTC
 * Jacob Vigdor - University of Washington Faculty/Council of Faculty
+* 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
+* Anna Hernandez-French - Office of Superintendent of Public Instruction
 
 #### 0 👎 - Con
 

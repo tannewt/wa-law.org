@@ -7,20 +7,27 @@
 * [Original Bill](1/)
 
 ## Meetings
-### Mon 02/20 08:00 AM - Capital Budget (CB): HB 1740 Forestry riparian easements
+### Wed 02/22 09:00 AM - Capital Budget (CB): HB 1740 Forestry riparian easements
 Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152333&caId=21693&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152333&caId=21693&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152333&caId=21693&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152333&caId=21693&tId=4)
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152637&caId=21810&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152637&caId=21810&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152637&caId=21810&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152637&caId=21810&tId=4)
 
-#### 14 👍 - Pro
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Mon 02/20 08:00 AM - Capital Budget (CB): HB 1740 Forestry riparian easements
+#### 21 👍 - Pro
 Testifying:
 * Brian Considine - Dept. of Natural Resources
 * Elaine Oneil - [Washington Farm Forestry Association](/org/washington_farm_forestry_association/)
 * Ken Miller - [Washington Farm Forestry Association](/org/washington_farm_forestry_association/)
 
-#### 4 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * 💵Paula Swedeen - [Conservation Northwest](/org/conservation_northwest/)
 

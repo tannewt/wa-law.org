@@ -8,18 +8,26 @@
 * [Substitute Bill](S/)
 
 ## Meetings
-### Mon 02/20 08:00 AM - Capital Budget (CB): SHB 1746 State broadband map
+### Wed 02/22 09:00 AM - Capital Budget (CB): SHB 1746 State broadband map
 Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152290&caId=21661&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152290&caId=21661&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152290&caId=21661&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152290&caId=21661&tId=4)
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152638&caId=21811&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152638&caId=21811&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152638&caId=21811&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152638&caId=21811&tId=4)
 
-#### 17 👍 - Pro
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Mon 02/20 08:00 AM - Capital Budget (CB): SHB 1746 State broadband map
+#### 29 👍 - Pro
 Testifying:
 * Carissa Hahn - CWA/WashTech
 * Fernando Roman - Communications Workers of America
 * Scott Richards - Washington Public Utility Districts Association
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
 #### 0 👎 - Con
 

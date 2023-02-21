@@ -34,7 +34,7 @@
 ## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍2  
 * 👍💵 Julie Salvi
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
 
 ## [HB 1113](/bill/2023-24/hb/1113/) - Prof. educator reprimands 👍1  
 * 👍💵 Nasue Nishida
@@ -191,13 +191,14 @@
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍2  
 * 👍💵 Simone Boe
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍2  
 
 ## [HB 1478](/bill/2023-24/hb/1478/) - Student rights 👍1  
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation   ❓1
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation   ❓2
+* ❓ Jared Mason-Gere
 * ❓ Jared Mason-Gere
 
 ## [HB 1504](/bill/2023-24/hb/1504/) - Elementary school recess 👍1  
@@ -220,10 +221,11 @@
 
 ## [HB 1548](/bill/2023-24/hb/1548/) - Railroad workers 👍1  
 
-## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten  👎1 
+## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten  👎1 ❓1
 * 👎💵 Nasue Nishida
+* ❓💵 Julie Salvi
 
-## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍2  
+## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍3  
 * 👍💵 Simone Boe
 
 ## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍1  
@@ -237,9 +239,9 @@
 
 ## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍1  
 
-## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
+## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
 
-## [HB 1639](/bill/2023-24/hb/1639/) - Billy Frank Jr. statue 👍1  
+## [HB 1639](/bill/2023-24/hb/1639/) - Billy Frank Jr. statue 👍2  
 
 ## [HB 1643](/bill/2023-24/hb/1643/) - Nurse student loan repayment 👍1  
 
@@ -258,13 +260,15 @@
 ## [HB 1701](/bill/2023-24/hb/1701/) - Institutional ed. programs   ❓1
 * ❓💵 Simone Boe
 
+## [HB 1711](/bill/2023-24/hb/1711/) - Internet projects/tribes 👍1  
+
 ## [HB 1732](/bill/2023-24/hb/1732/) - K-12 inflation adjustments 👍1  
 * 👍💵 Julie Salvi
 
 ## [HB 1744](/bill/2023-24/hb/1744/) - Charter school oversight 👍1  
 * 👍💵 Julie Salvi
 
-## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍1  
+## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍2  
 
 ## [HB 1750](/bill/2023-24/hb/1750/) - Water safety education 👍1  
 
@@ -345,7 +349,7 @@
 ## [SB 5237](/bill/2023-24/sb/5237/) - Education law noncompliance 👍1  
 * 👍💵 Julie Salvi
 
-## [SB 5238](/bill/2023-24/sb/5238/) - Academic employee bargaining 👍1  
+## [SB 5238](/bill/2023-24/sb/5238/) - Academic employee bargaining 👍2  
 
 ## [SB 5243](/bill/2023-24/sb/5243/) - High school and beyond plans 👍2  
 
@@ -379,7 +383,7 @@
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
 * 👍 Roni Cook
 
-## [SB 5344](/bill/2023-24/sb/5344/) - Public school revolving fund 👍1  
+## [SB 5344](/bill/2023-24/sb/5344/) - Public school revolving fund 👍2  
 
 ## [SB 5349](/bill/2023-24/sb/5349/) - Postretirement employment 👍1  
 
@@ -444,13 +448,13 @@
 ## [SB 5559](/bill/2023-24/sb/5559/) - Student restraint, isolation   ❓1
 * ❓ Jared Mason-Gere
 
-## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍1  
+## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍2  
 
 ## [SB 5577](/bill/2023-24/sb/5577/) - Capital broadband program 👍1  
 
 ## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍1  
 
-## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍1  
+## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍2  
 
 ## [SB 5625](/bill/2023-24/sb/5625/) - Public employee retirees 👍1  
 
@@ -476,11 +480,11 @@
 
 ## [SB 5694](/bill/2023-24/sb/5694/) - Concerning public employee salary surveys. 👍1  
 
-## [SB 5702](/bill/2023-24/sb/5702/) - Student homelessness pilot 👍1  
+## [SB 5702](/bill/2023-24/sb/5702/) - Student homelessness pilot 👍2  
 
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  
 
-## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍1  
+## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍2  
 
 ## [SB 5718](/bill/2023-24/sb/5718/) - State broadband map 👍1  
 

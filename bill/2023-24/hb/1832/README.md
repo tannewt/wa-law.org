@@ -14,21 +14,36 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30824&aId=152257&caId=21656&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30824&aId=152257&caId=21656&tId=4)
 
-#### 13 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * 💵Kelly Fukai - Commissioner, WSTC
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* Ryan Mello - Pierce County Council, District 4
+* Sharon Nelson
 
-#### 43 👎 - Con
+#### 775 👎 - Con
 Testifying:
 * John Peeples - United States of America
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Eric Pratt
 * Tim Eyman - Concerned citizen
 * john Worthington
+* Dave Gent - [Washington Asphalt Pavement Association](/org/washington_asphalt_pavement_association/)
+* 💵Jerry Vanderwood - [Associated General Contractors of Washington](/org/associated_general_contractors_of_washington/)
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Sheri Call - Washington Trucking Associations
+* Mary Long - Conservative Ladies of Washington
+* Tim Eyman
+* Mark Crothers
+* Angelyn Gates
+* Justin Greywolf
 
-#### 4 ❓ - Other
+#### 13 ❓ - Other
 Testifying:
 * 💵Bryce Yadon - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
 * Jim Lazar
 * Kelly Wright - no
+* Ashley Probart - Transportation Improvement Board
+* Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Marian Dacca - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Ben Bakkenta - Puget Sound Regional Council

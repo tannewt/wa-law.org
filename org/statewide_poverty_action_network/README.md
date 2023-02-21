@@ -35,9 +35,10 @@
 
 ## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍2  
 
-## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍6  
+## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍7  
 * 👍💵 Alex Hur
 * 👍💵 Lianna Kressin
+* 👍💵 Alex Hur
 * 👍💵 Alex Hur
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍4  
@@ -66,7 +67,8 @@
 
 ## [HB 1666](/bill/2023-24/hb/1666/) - Fee and debt collection 👍1  
 
-## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  
+## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍2  
+* 👍💵 Marcy Bowers
 * 👍💵 Marcy Bowers
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍2  

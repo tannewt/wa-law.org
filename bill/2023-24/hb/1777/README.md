@@ -7,14 +7,23 @@
 * [Original Bill](1/)
 
 ## Meetings
-### Mon 02/20 08:00 AM - Capital Budget (CB): HB 1777 Energy contracting
+### Wed 02/22 09:00 AM - Capital Budget (CB): HB 1777 Energy contracting
 Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152119&caId=21624&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152119&caId=21624&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152119&caId=21624&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152119&caId=21624&tId=4)
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152639&caId=21812&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152639&caId=21812&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152639&caId=21812&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152639&caId=21812&tId=4)
 
-#### 182 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Brian Solan
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Mon 02/20 08:00 AM - Capital Budget (CB): HB 1777 Energy contracting
+#### 191 👍 - Pro
 Testifying:
 * Ash Awad - McKinstry
 * Brian Solan - Ameresco, Inc.

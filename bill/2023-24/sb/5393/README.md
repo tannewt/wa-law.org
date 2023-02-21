@@ -15,11 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152351&caId=21707&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152351&caId=21707&tId=4)
 
-#### 5 👍 - Pro
+#### 67 👍 - Pro
+Testifying:
+* Jane Beyer - Office of the Insurance Commissioner
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Zosia Stanley - Washington State Hospital Association
 
 ### Fri 01/27 08:00 AM - Health & Long Term Care (HLTC): SB 5393 Health provider contracting
 #### 244 👍 - Pro

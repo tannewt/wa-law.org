@@ -6,5 +6,6 @@
 ## [HB 1342](/bill/2023-24/hb/1342/) - Embodied carbon reductions  👎1 
 * 👎 Patrick Jablonski
 
-## [SB 5322](/bill/2023-24/sb/5322/) - Public building materials 👍1  
+## [SB 5322](/bill/2023-24/sb/5322/) - Public building materials 👍2  
+* 👍 Patrick Jablonski
 * 👍 Patrick Jablonski

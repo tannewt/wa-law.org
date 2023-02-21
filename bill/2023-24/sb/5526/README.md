@@ -15,9 +15,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152320&caId=21696&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152320&caId=21696&tId=4)
 
-#### 0 👍 - Pro
+#### 45 👍 - Pro
+Testifying:
+* Demas Nesterenko - SEIU775
+* Shelly Hughes
+* Carma Matti-Jackson - [Washington Health Care Association](/org/washington_health_care_association/)
+* Robert Washbond - Stafford Healthcare of Belmont
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

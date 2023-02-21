@@ -20,7 +20,8 @@
 
 ## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍1  
 
-## [SB 5526](/bill/2023-24/sb/5526/) - Nursing facility rates 👍1  
+## [SB 5526](/bill/2023-24/sb/5526/) - Nursing facility rates 👍2  
+* 👍 Carma Matti-Jackson
 * 👍 Carma Matti-Jackson
 
 ## [SB 5547](/bill/2023-24/sb/5547/) - Nursing pool transparency 👍1  

@@ -15,14 +15,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152355&caId=21711&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152355&caId=21711&tId=4)
 
-#### 6 👍 - Pro
+#### 23 👍 - Pro
+Testifying:
+* Corey Champagne
+* Anthony Back
 
-#### 6 👎 - Con
+#### 18 👎 - Con
 
-#### 9 ❓ - Other
+#### 21 ❓ - Other
 Testifying:
 * Mason Marks
 * Kody Zalewski
+* Anastasia Mikolyuk
+* David Heldreth
+* Dr. Lisa Price
 
 ### Mon 01/30 10:30 AM - Labor & Commerce (LC): SB 5263 Psilocybin
 #### 116 👍 - Pro

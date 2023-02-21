@@ -15,9 +15,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152385&caId=21742&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152385&caId=21742&tId=4)
 
-#### 0 👍 - Pro
+#### 80 👍 - Pro
+Testifying:
+* 💵Sara Stewart - Evergreen Equestrian Club
+* MARYANN O'CONNELL - WA Horsemen's Benevolent & Protective Assn
+* Mike Lydon - Dayton Days
+* Doug Moore - Washington Horse Racing Commission
 
-#### 0 👎 - Con
+#### 23 👎 - Con
 
 #### 0 ❓ - Other
 

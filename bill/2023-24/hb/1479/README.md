@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1479 Student restraint, isolation
@@ -14,15 +15,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152453&caId=21762&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152453&caId=21762&tId=4)
 
-#### 30 👍 - Pro
+#### 67 👍 - Pro
 Testifying:
 * Richard Pope - Parent of Isolation Room Survivor
 * Jana Parker - Seattle Special Education PTSA
 * Ashley Salazar - Parent of a Restraint Survivor
+* Janis White
 
-#### 0 👎 - Con
+#### 29 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 
 ### Mon 01/30 01:30 PM - Education (ED): HB 1479 Student restraint, isolation
 #### 202 👍 - Pro

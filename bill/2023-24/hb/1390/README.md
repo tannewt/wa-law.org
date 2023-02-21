@@ -9,19 +9,13 @@
 
 ## Meetings
 ### Mon 02/20 08:00 AM - Capital Budget (CB): SHB 1390 District energy systems
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152118&caId=21623&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152118&caId=21623&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152118&caId=21623&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30831&aId=152118&caId=21623&tId=4)
-
-#### 56 👍 - Pro
+#### 62 👍 - Pro
 Testifying:
 * Ash Awad - McKinstry
 * Bonnie Hemphill - UMC, Inc
 * 💵Brandon Houskeeper - CenTrio Energy, Seattle
 
-#### 295 👎 - Con
+#### 323 👎 - Con
 Testifying:
 * Lori Olson
 * Karen McIntosh

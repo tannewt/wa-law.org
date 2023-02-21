@@ -11,6 +11,6 @@
 
 ## [SB 5074](/bill/2023-24/sb/5074/) - Biomarker testing coverage 👍1  
 
-## [SB 5097](/bill/2023-24/sb/5097/) - Rare diseases adv. council 👍1  
+## [SB 5097](/bill/2023-24/sb/5097/) - Rare diseases adv. council 👍2  
 
 ## [SB 5388](/bill/2023-24/sb/5388/) - Diversity in clinical trials 👍1  

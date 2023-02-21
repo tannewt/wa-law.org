@@ -1,5 +1,8 @@
 # City of Pasco
 
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓1
+* ❓ Adam Lincoln
+
 ## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits 👍1  
 
 ## [HB 1527](/bill/2023-24/hb/1527/) - Tax increment financing 👍2  

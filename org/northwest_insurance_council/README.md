@@ -10,4 +10,7 @@
 ## [SB 5594](/bill/2023-24/sb/5594/) - Fully autonomous vehicles  👎1 
 * 👎💵 Kenton Brine
 
+## [SB 5652](/bill/2023-24/sb/5652/) - Tow truck operator comp.  👎1 
+* 👎 KENTON BRINE
+
 ## [SB 5720](/bill/2023-24/sb/5720/) - Risk mitigation 👍1  

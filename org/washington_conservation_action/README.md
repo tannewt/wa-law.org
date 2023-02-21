@@ -16,10 +16,10 @@
 ## [HB 1215](/bill/2023-24/hb/1215/) - Riparian areas 👍1  
 * 👍💵 Darcy Nonemacher
 
-## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  
+## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍2  
 * 👍💵 Clifford Traisman
 
-## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍1  
+## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍2  
 
 ## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍1  
 * 👍💵 Darcy Nonemacher
@@ -34,7 +34,7 @@
 ## [HB 1735](/bill/2023-24/hb/1735/) - GMA/net ecological gain 👍1  
 * 👍 Mindy Roberts
 
-## [HB 1740](/bill/2023-24/hb/1740/) - Forestry riparian easements  👎1 
+## [HB 1740](/bill/2023-24/hb/1740/) - Forestry riparian easements  👎2 
 * 👎💵 Darcy Nonemacher
 
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1  

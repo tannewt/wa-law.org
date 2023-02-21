@@ -14,7 +14,12 @@
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
 
-## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  
+## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍1  
+
+## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍3  
+* 👍 Kate White Tudor
+
+## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce 👍1  
 
 ## [HB 1725](/bill/2023-24/hb/1725/) - Insulin/access under 21   ❓1
 * ❓ Kate White Tudor
@@ -23,5 +28,7 @@
 * 👍 Lisa Nelson
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
+
+## [SB 5477](/bill/2023-24/sb/5477/) - Murdered indigenous women 👍1  
 
 ## [SB 5729](/bill/2023-24/sb/5729/) - Insulin cost-sharing cap 👍1  

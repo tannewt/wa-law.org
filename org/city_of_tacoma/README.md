@@ -20,8 +20,12 @@
 
 ## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records   ❓2
 
+## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍1  
+
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
 * 👍 Mayor Victoria Woodards
+
+## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍1  
 
 ## [HB 1530](/bill/2023-24/hb/1530/) - Law enf. employ. eligibility 👍1  
 

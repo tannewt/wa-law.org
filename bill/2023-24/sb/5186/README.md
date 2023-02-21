@@ -9,13 +9,9 @@
 
 ## Meetings
 ### Mon 02/20 09:00 AM - Ways & Means (WM): SSB 5186 Contracting/discrimination
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152311&caId=21681&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152311&caId=21681&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152311&caId=21681&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152311&caId=21681&tId=4)
-
-#### 5 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* 💵Erin Frasier - WA State Building & Construction Trades Council
 
 #### 0 👎 - Con
 

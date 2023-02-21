@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152366&caId=21722&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152366&caId=21722&tId=4)
 
-#### 2 👍 - Pro
+#### 31 👍 - Pro
+Testifying:
+* Yokiko Hayashi-Saguil - SBCTC
 
 #### 0 👎 - Con
 

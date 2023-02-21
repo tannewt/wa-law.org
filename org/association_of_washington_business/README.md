@@ -93,7 +93,7 @@
 
 ## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units 👍1  
 
-## [HB 1338](/bill/2023-24/hb/1338/) - DOC ed. and vocational prgs. 👍1  
+## [HB 1338](/bill/2023-24/hb/1338/) - DOC ed. and vocational prgs. 👍2  
 
 ## [HB 1347](/bill/2023-24/hb/1347/) - Integrating community-based health assessments into foundational environmental policies to improve environmental justice.  👎1 
 * 👎💵 Peter Godlewski
@@ -158,7 +158,7 @@
 ## [HB 1505](/bill/2023-24/hb/1505/) - Alternative jet fuel 👍1  
 * 👍 Mike Ennis
 
-## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board  👎1 
+## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board  👎2 
 
 ## [HB 1509](/bill/2023-24/hb/1509/) - Community solar  👎1 
 * 👎💵 Peter Godlewski
@@ -223,6 +223,8 @@
 
 ## [HB 1757](/bill/2023-24/hb/1757/) - Farmers/sales tax remittance 👍1  
 
+## [HB 1764](/bill/2023-24/hb/1764/) - Asphalt & agg. valuation 👍1  
+
 ## [HB 1767](/bill/2023-24/hb/1767/) - Federal funding opps. 👍1  
 * 👍 Emily Shay
 
@@ -233,7 +235,12 @@
 ## [HB 1795](/bill/2023-24/hb/1795/) - Estate tax  👎1 
 * 👎 Emily Shay
 
+## [HB 1815](/bill/2023-24/hb/1815/) - Payment card processing/tax 👍2  
+
 ## [HB 1821](/bill/2023-24/hb/1821/) - Postsecondary credentials 👍1  
+
+## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge  👎1 
+* 👎 Mike Ennis
 
 ## [SB 5041](/bill/2023-24/sb/5041/) - Motor carrier safety 👍1  
 
@@ -277,7 +284,7 @@
 
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍1  
 
-## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace  👎1 
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace  👎2 
 
 ## [SB 5251](/bill/2023-24/sb/5251/) - Commercial driver's licenses 👍1  
 * 👍 Mike Ennis
@@ -288,6 +295,8 @@
 ## [SB 5267](/bill/2023-24/sb/5267/) - Railroad workers  👎1 
 * 👎 Mike Ennis
 
+## [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍1  
+
 ## [SB 5272](/bill/2023-24/sb/5272/) - Speed safety cameras 👍1  
 
 ## [SB 5277](/bill/2023-24/sb/5277/) - Dairy, etc. tax preferences 👍2  
@@ -297,11 +306,13 @@
 
 ## [SB 5289](/bill/2023-24/sb/5289/) - Impact fees/law enforcement  👎1 
 
-## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍1  
+## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍2  
+
+## [SB 5302](/bill/2023-24/sb/5302/) - Adult family homes/prop. tax 👍1  
 
 ## [SB 5303](/bill/2023-24/sb/5303/) - Public works trust account 👍1  
 
-## [SB 5305](/bill/2023-24/sb/5305/) - Office of career connect WA 👍1  
+## [SB 5305](/bill/2023-24/sb/5305/) - Office of career connect WA 👍2  
 
 ## [SB 5316](/bill/2023-24/sb/5316/) - DCYF background check fees 👍1  
 
@@ -379,7 +390,7 @@
 
 ## [SB 5539](/bill/2023-24/sb/5539/) - Tax increment financing 👍1  
 
-## [SB 5554](/bill/2023-24/sb/5554/) - College grant award amounts 👍1  
+## [SB 5554](/bill/2023-24/sb/5554/) - College grant award amounts 👍2  
 
 ## [SB 5565](/bill/2023-24/sb/5565/) - Tax and revenue laws 👍1  
 

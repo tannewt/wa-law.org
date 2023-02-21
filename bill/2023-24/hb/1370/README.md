@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 02/20 01:30 PM - Appropriations (APP): HB 1370 Securities whistleblowers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152042&caId=21612&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152042&caId=21612&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152042&caId=21612&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30809&aId=152042&caId=21612&tId=4)
-
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Drew Bouton - Department of Financial Institutions
 

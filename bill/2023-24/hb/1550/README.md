@@ -15,15 +15,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152454&caId=21763&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152454&caId=21763&tId=4)
 
-#### 4 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* 💵Katy Warren - WA State Assn of Head Start and ECEAP
+* Colleen Condon - Washington Childcare Center Association
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Jim Kowalkowski - Rural Education Center
+* Andrew Perkins - Thorp School District
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Wade Smith - Walla Walla Public Schools
+* Dr. Nikolas Bergman - Quincy School  District
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 
 ### Tue 01/31 04:00 PM - Education (ED): HB 1550 Transition to kindergarten
 #### 151 👍 - Pro

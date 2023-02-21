@@ -21,6 +21,8 @@
 
 ## [HB 1573](/bill/2023-24/hb/1573/) - Dairy, etc. tax preferences 👍1  
 
+## [HB 1815](/bill/2023-24/hb/1815/) - Payment card processing/tax 👍1  
+
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI  👎2 
 * 👎 Josh McDonald
 * 👎 Josh McDonald

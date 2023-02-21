@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Mon 02/20 08:00 AM - Finance (FIN): SHB 1182 Wine/alcohol tax exemption
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152085&caId=21625&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152085&caId=21625&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152085&caId=21625&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30828&aId=152085&caId=21625&tId=4)
-
-#### 7 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Paul Beveridge - Family Wineries of Washington State
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)

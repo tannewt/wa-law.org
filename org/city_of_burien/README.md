@@ -1,5 +1,8 @@
 # City of Burien
 
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
+* 👍💵 Lyset Cadena
+
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
 
 ## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting   ❓1

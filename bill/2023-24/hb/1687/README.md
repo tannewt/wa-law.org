@@ -8,19 +8,18 @@
 
 ## Meetings
 ### Mon 02/20 01:30 PM - Transportation (TR): HB 1687 Vehicle service fees
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152076&caId=21641&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152076&caId=21641&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152076&caId=21641&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30821&aId=152076&caId=21641&tId=4)
-
-#### 6 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Chuck Whitfield
 * Charles Whitfield
 * Marci Straub - WAVS- board member
+* Joe DePinto - [Washington Association of Vehicle Subagents](/org/washington_association_of_vehicle_subagents/)
+* Kevin David - [Washington Association of Vehicle Subagents](/org/washington_association_of_vehicle_subagents/)
+* Marci Straub - Battle Ground Auto Licensing
+* Anita Marcelo - [Washington Association of Vehicle Subagents](/org/washington_association_of_vehicle_subagents/)
+* 💵Chester Baldwin - WA Assn of Vehicle Subagents
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Donald Ladely
 

@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Mon 02/20 09:00 AM - Ways & Means (WM): SSB 5225 Working conn. child care
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152301&caId=21671&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152301&caId=21671&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152301&caId=21671&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30849&aId=152301&caId=21671&tId=4)
-
-#### 108 👍 - Pro
+#### 118 👍 - Pro
 Testifying:
 * Colleen Condon - Washington Childcare Center Association
 * Susan Brown - Washington Childcare Center Association
