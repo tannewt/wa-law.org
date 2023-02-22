@@ -6,7 +6,11 @@
 
 ## [HB 1089](/bill/2023-24/hb/1089/) - Sex trafficking 👍1  
 
-## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍1  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓1
+* ❓ Lacey Jane Wolfe
+
+## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍2  
+* 👍 Lacey Jane Wolfe
 * 👍 Lacey Jane Wolfe
 
 ## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍1  

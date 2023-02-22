@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Tue 02/21 01:30 PM - Transportation (TR): SHB 1513 Traffic safety
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30824&aId=152258&caId=21657&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30824&aId=152258&caId=21657&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30824&aId=152258&caId=21657&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30824&aId=152258&caId=21657&tId=4)
-
-#### 1264 👍 - Pro
+#### 1388 👍 - Pro
 Testifying:
 * 💵Bryce Yadon - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
 * 💵Enoka Herat - ACLU of Washington
@@ -26,17 +20,29 @@ Testifying:
 * Magda Baker - [Washington Defender Association](/org/washington_defender_association/)
 * Marta Nelson - Vera Institute of Justice
 * Scarlet Neath - Center for Policing Equity
+* Jac Archer - Spokane Community Against Racism/Peace & Justice Action League of Spokane
+* KL Shannon - Whose Streets? Our Streets!
+* Po Leapai - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
+* Tonya Isabell - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
+* Sam Martin - Washington 4 Black Lives
 
-#### 191 👎 - Con
+#### 394 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Lorilee Gates
+* Marilee Nelson
+* Ellen Dimbat
 * David-Henry Sedelmeier - Driving School owner
+* Ted Martinell - Retired
+* Karen McIntosh
+* Susan elliott - [University of Washington](/org/university_of_washington/)
 
-#### 5 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Jeff DeVere - Washington Trucking Associations
 * Neil Weaver - Washington State Patrol
+* Jasmine Vasavada - Dept of Commerce
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 ### Mon 01/30 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1513 Traffic safety
 #### 637 👍 - Pro

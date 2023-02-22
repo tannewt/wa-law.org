@@ -8,15 +8,12 @@
 
 ## Meetings
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SB 5711 College grant eligibility
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152366&caId=21722&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152366&caId=21722&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152366&caId=21722&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152366&caId=21722&tId=4)
-
-#### 31 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
+* 💵Alex Davidson - The Associated Students of the University of Washington
+* Heather Hudson - Washington Student Achievement Council
 * Yokiko Hayashi-Saguil - SBCTC
+* Collin Bannister - ASWSU
 
 #### 0 👎 - Con
 

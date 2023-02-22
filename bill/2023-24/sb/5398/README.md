@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SSB 5398 Domestic violence funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152346&caId=21702&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152346&caId=21702&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152346&caId=21702&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152346&caId=21702&tId=4)
-
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Gina Finley
 * 💵Emily Stone - WA State Coalition Against Domestic Violence

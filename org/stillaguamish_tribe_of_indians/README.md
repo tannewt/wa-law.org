@@ -2,6 +2,8 @@
 
 ## [HB 1481](/bill/2023-24/hb/1481/) - Tribal peace officers/LEOFF 👍1  
 
+## [HB 1578](/bill/2023-24/hb/1578/) - Wildland fire safety 👍1  
+
 ## [HB 1720](/bill/2023-24/hb/1720/) - Riparian grant program   ❓1
 * ❓ Councilwoman, Kadi Bizyayeva
 

@@ -5,7 +5,8 @@
 
 ## [HB 1187](/bill/2023-24/hb/1187/) - Employee-union privilege   ❓1
 
-## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records 👍1  
+## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records 👍2  
 * 👍💵 Andrea Schmitt
+* 👍 Jesse Wing
 
 ## [SB 5090](/bill/2023-24/sb/5090/) - Torts  👎1 

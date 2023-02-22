@@ -9,24 +9,22 @@
 
 ## Meetings
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SSB 5555 Certified peer specialists
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152437&caId=21750&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152437&caId=21750&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152437&caId=21750&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152437&caId=21750&tId=4)
-
-#### 11 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Michele Jones
 * Josh Wallace - Peer WA
 * Nancy Dow - None
+* Melody McKee - UW Behavioral Health Institute
 * Rebecca Faust
+* Stephanie Lane - Peer Workforce Development
 
-#### 20 👎 - Con
+#### 23 👎 - Con
 Testifying:
 * Carolyn Cox - SPARK Peer Learning Center
 * Beverly Miller - work peer counselor
 * Lorrin Gehring - The Rainbow Makers
+* Naomi Herrera
+* Sherry Axson
 
 #### 1 ❓ - Other
 Testifying:

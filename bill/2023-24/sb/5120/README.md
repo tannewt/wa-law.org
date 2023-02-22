@@ -9,18 +9,14 @@
 
 ## Meetings
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SSB 5120 23-hr crisis relief centers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152361&caId=21717&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152361&caId=21717&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152361&caId=21717&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152361&caId=21717&tId=4)
-
-#### 124 👍 - Pro
+#### 146 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Sarah Chesemore
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 * Katie Kolan - Washington State Hospital Association (WSHA)
+* 💵Michael Transue - Connections Health Solutions
+* Jean Ross
 
 #### 1 👎 - Con
 Testifying:

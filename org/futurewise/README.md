@@ -1,6 +1,8 @@
 # Futurewise
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍5  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍7  
+
+## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍1  
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍9  
 * 👍💵 Bryce Yadon
@@ -44,5 +46,5 @@
 
 ## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍1  
 
-## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍2  
+## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍3  
 * 👍💵 Bryce Yadon

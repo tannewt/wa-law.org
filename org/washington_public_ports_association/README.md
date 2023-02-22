@@ -15,7 +15,7 @@
 
 ## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget   ❓1
 
-## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  
+## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍2  
 * 👍 Eric ffitch
 
 ## [HB 1231](/bill/2023-24/hb/1231/) - Site readiness grants 👍1  
@@ -59,7 +59,7 @@
 ## [HB 1644](/bill/2023-24/hb/1644/) - Margin tax  👎1 
 * 👎 Chris Herman
 
-## [HB 1663](/bill/2023-24/hb/1663/) - Consolidated port districts 👍1  
+## [HB 1663](/bill/2023-24/hb/1663/) - Consolidated port districts 👍2  
 
 ## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  
 
@@ -83,6 +83,8 @@
 
 ## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge   ❓1
 * ❓💵 Marian Dacca
+
+## [HB 1839](/bill/2023-24/hb/1839/) - Train length  👎1 
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 * ❓ Eric ffitch

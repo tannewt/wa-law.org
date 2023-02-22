@@ -15,7 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152444&caId=21795&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152444&caId=21795&tId=4)
 
-#### 5 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Bill Sauters - (AWPPW) WA Area Rep.
+* 💵Joshua Estes - Association of Western Pulp & Paper Workers Union (AWPPW)
 
 #### 0 👎 - Con
 

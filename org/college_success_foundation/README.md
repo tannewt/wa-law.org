@@ -24,7 +24,7 @@
 
 ## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍1  
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍2  
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍3  
 
 ## [HB 1504](/bill/2023-24/hb/1504/) - Elementary school recess 👍1  
 
@@ -55,28 +55,34 @@
 
 ## [SB 5243](/bill/2023-24/sb/5243/) - High school and beyond plans 👍1  
 
+## [SB 5248](/bill/2023-24/sb/5248/) - Tutoring & extended learning 👍1  
+
 ## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍1  
 
 ## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍1  
 
 ## [SB 5280](/bill/2023-24/sb/5280/) - Clergy/child abuse reporting 👍2  
 
+## [SB 5305](/bill/2023-24/sb/5305/) - Office of career connect WA 👍1  
+
 ## [SB 5397](/bill/2023-24/sb/5397/) - Public benefit payments/DCYF 👍1  
 
 ## [SB 5426](/bill/2023-24/sb/5426/) - Family connections program 👍1  
 
-## [SB 5515](/bill/2023-24/sb/5515/) - Child abuse and neglect 👍1  
+## [SB 5438](/bill/2023-24/sb/5438/) - Supportive relationships 👍1  
+
+## [SB 5515](/bill/2023-24/sb/5515/) - Child abuse and neglect 👍2  
 
 ## [SB 5522](/bill/2023-24/sb/5522/) - College grant prg. stipend 👍1  
 
 ## [SB 5559](/bill/2023-24/sb/5559/) - Student restraint, isolation 👍1  
 
-## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍1  
+## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍2  
 
 ## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍2  
 * 👍 Emily Stochel
 
-## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍1  
+## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍2  
 * 👍💵 Juliet Schindler
 
 ## [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth 👍1  

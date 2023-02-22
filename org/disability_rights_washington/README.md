@@ -22,12 +22,13 @@
 
 ## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct 👍1  
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍1  
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍2  
+* 👍💵 Andrea Kadlec
 * 👍💵 Andrea Kadlec
 
 ## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍1  
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍2  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍3  
 * 👍💵 Sunshine Cheng
 
 ## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍1  

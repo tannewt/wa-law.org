@@ -15,13 +15,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152460&caId=21784&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152460&caId=21784&tId=4)
 
-#### 3 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Nina Martinez - Latino Civic Alliance
+* Diane Rosenfeld - Harvard Law School, Gender Violence Program
+* Annie Murphey - Spokane Regional Domestic Violence Coalition
+* Jim Bamberger - Office of Civil Legal Aid
 
-#### 1 👎 - Con
+#### 11 👎 - Con
 Testifying:
 * Margaret Hobart
+* Ann Simpson - Mariposa House
+* Kris Camenzind - Hope Alliance
+* Natalie Burton
+* Suzi Fode - New Hope and Kids Hope
 
 #### 1 ❓ - Other
 

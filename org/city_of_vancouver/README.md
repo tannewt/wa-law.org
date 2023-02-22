@@ -6,6 +6,8 @@
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
 
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍1  
+
 ## [HB 1527](/bill/2023-24/hb/1527/) - Tax increment financing 👍1  
 
 ## [HB 1530](/bill/2023-24/hb/1530/) - Law enf. employ. eligibility 👍1  

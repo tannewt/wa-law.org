@@ -20,7 +20,8 @@
 ## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
 * 👍💵 Peter Godlewski
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
+* 👍 Mike Ennis
 * 👍 Mike Ennis
 
 ## [HB 1129](/bill/2023-24/hb/1129/) - Mobile home community sales  👎1 
@@ -51,6 +52,9 @@
 
 ## [HB 1215](/bill/2023-24/hb/1215/) - Riparian areas   ❓1
 * ❓ Mike Ennis
+
+## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  
+* 👍💵 Peter Godlewski
 
 ## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍1  
 
@@ -108,7 +112,8 @@
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices  👎1 
 * 👎 Mike Ennis
 
-## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases  👎1 
+## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases  👎2 
+* 👎 Mike Ennis
 * 👎 Mike Ennis
 
 ## [HB 1390](/bill/2023-24/hb/1390/) - District energy systems   ❓1
@@ -232,6 +237,9 @@
 
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services  👎1 
 
+## [HB 1793](/bill/2023-24/hb/1793/) - Wireless devices tax  👎1 
+* 👎 Emily Shay
+
 ## [HB 1795](/bill/2023-24/hb/1795/) - Estate tax  👎1 
 * 👎 Emily Shay
 
@@ -240,6 +248,9 @@
 ## [HB 1821](/bill/2023-24/hb/1821/) - Postsecondary credentials 👍1  
 
 ## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge  👎1 
+* 👎 Mike Ennis
+
+## [HB 1839](/bill/2023-24/hb/1839/) - Train length  👎1 
 * 👎 Mike Ennis
 
 ## [SB 5041](/bill/2023-24/sb/5041/) - Motor carrier safety 👍1  

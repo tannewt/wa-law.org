@@ -15,9 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152421&caId=21773&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152421&caId=21773&tId=4)
 
-#### 11 👍 - Pro
+#### 42 👍 - Pro
 Testifying:
 * Romel Mackelprang
+* Jinju Park - Office of the Education Ombuds
 
 #### 0 👎 - Con
 

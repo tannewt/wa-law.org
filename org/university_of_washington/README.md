@@ -35,6 +35,9 @@
 
 ## [HB 1488](/bill/2023-24/hb/1488/) - Working forest license plate 👍1  
 
+## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety  👎1 
+* 👎 Susan elliott
+
 ## [HB 1522](/bill/2023-24/hb/1522/) - Sexual misconduct/assocs. 👍1  
 * 👍 Joe Dacca
 
@@ -55,6 +58,8 @@
 
 ## [HB 1715](/bill/2023-24/hb/1715/) - Domestic violence 👍1  
 * 👍💵 Morgan Hickel
+
+## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge  👎2 
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
 * 👍 Joe Dacca
@@ -98,6 +103,6 @@
 
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  
 
-## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages 👍1  
+## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages 👍2  
 
 ## [SB 5738](/bill/2023-24/sb/5738/) - LeMay special license plate 👍1  

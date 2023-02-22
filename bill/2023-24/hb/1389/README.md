@@ -15,11 +15,33 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152532&caId=21787&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152532&caId=21787&tId=4)
 
-#### 394 👍 - Pro
+#### 1022 👍 - Pro
+Testifying:
+* Thomas Bethea
 
-#### 39 👎 - Con
+#### 786 👎 - Con
+Testifying:
+* GREGORY BONDY - Kandu Enterprise LLC
+* Barbara Korducki
+* Audrey Riddle - [Goodman Real Estate](/org/goodman_real_estate/)
+* Peter Goldstein - Riverside Mobile Manor
+* 💵Mark Harmsworth - Washington Policy Center
+* Nita Patel
+* Greg Cerbana - Weidner Apartment Homes
+* Christy Mays
+* 💵Mike Hoover - [Detente Management](/org/detente_management/)
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
+* Jeff Pack - Washington Citizens Against Unfair Taxes
+* GORDON HAGGERTY
+* Ronald Greer
+* carl haglund - Columbia Modern Living
+* Jennifer Lekisch
+* Patricia Hoendermis - [Yakima Valley Landlords Association](/org/yakima_valley_landlords_association/)
+* Cory Brewer
+* Amanda Roundy
+* Brandon Bramley
 
-#### 0 ❓ - Other
+#### 9 ❓ - Other
 
 ### Tue 01/24 04:00 PM - Housing (HOUS): HB 1389 Residential rent increases
 #### 1581 👍 - Pro

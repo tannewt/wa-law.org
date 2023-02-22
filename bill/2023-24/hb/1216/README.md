@@ -9,21 +9,16 @@
 
 ## Meetings
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1216 Clean energy siting
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152404&caId=21754&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152404&caId=21754&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152404&caId=21754&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152404&caId=21754&tId=4)
-
-#### 57 👍 - Pro
+#### 82 👍 - Pro
 Testifying:
 * 💵Cassie Bordelon - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 * 💵Kelly Hall - [Climate Solutions](/org/climate_solutions/)
 * 💵Mark Riker - Washington State Building and Constructions Trades Council
 * 💵Cassie Bordelon - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 * Becky Kelley - Office of Governor Jay Inslee
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 3 👎 - Con
+#### 27 👎 - Con
 
 #### 0 ❓ - Other
 

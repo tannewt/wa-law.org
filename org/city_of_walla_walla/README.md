@@ -4,6 +4,8 @@
 
 ## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits 👍1  
 
+## [HB 1578](/bill/2023-24/hb/1578/) - Wildland fire safety 👍1  
+
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 * 👍 Elizabeth Chamberlain
 

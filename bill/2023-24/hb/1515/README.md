@@ -15,7 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152422&caId=21774&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152422&caId=21774&tId=4)
 
-#### 7 👍 - Pro
+#### 18 👍 - Pro
+Testifying:
+* Mark Ozias - Clallam County Commissioner / WSAC
+* 💵Brad Banks - Behavioral Health Administrative Services Organizations
 
 #### 0 👎 - Con
 

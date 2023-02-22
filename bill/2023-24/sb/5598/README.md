@@ -15,16 +15,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152385&caId=21742&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152385&caId=21742&tId=4)
 
-#### 80 👍 - Pro
+#### 188 👍 - Pro
 Testifying:
 * 💵Sara Stewart - Evergreen Equestrian Club
 * MARYANN O'CONNELL - WA Horsemen's Benevolent & Protective Assn
 * Mike Lydon - Dayton Days
 * Doug Moore - Washington Horse Racing Commission
+* 💵Dennis Eagle - WA Federation of State Employees
 
-#### 23 👎 - Con
+#### 120 👎 - Con
+Testifying:
+* Amanda Fox - Animal Rights Initiative
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 02/07 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5598 Horse racing/funding
 #### 208 👍 - Pro

@@ -15,10 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152382&caId=21739&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152382&caId=21739&tId=4)
 
-#### 68 👍 - Pro
+#### 101 👍 - Pro
 Testifying:
 * 💵Dave Warren - Klickitat PUD, Okanogan PUD
 * 💵John Rothlin - Avista
+* 💵Nicolas Garcia - WPUDA
 
 #### 0 👎 - Con
 

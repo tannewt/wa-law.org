@@ -11,7 +11,8 @@
 ## [HB 1488](/bill/2023-24/hb/1488/) - Working forest license plate 👍1  
 * 👍 Tom Davis
 
-## [HB 1578](/bill/2023-24/hb/1578/) - Wildland fire safety   ❓1
+## [HB 1578](/bill/2023-24/hb/1578/) - Wildland fire safety   ❓2
+* ❓ Tom Davis
 * ❓ Tom Davis
 
 ## [HB 1720](/bill/2023-24/hb/1720/) - Riparian grant program 👍1  

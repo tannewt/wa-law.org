@@ -15,11 +15,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152533&caId=21788&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152533&caId=21788&tId=4)
 
-#### 190 👍 - Pro
+#### 294 👍 - Pro
 Testifying:
 * 💵Shaun Scott
+* Patience Malaba - Housing Development Consortium
+* John Wilson - King County Department of Assessments
+* Corinna Obar - Washington State Housing Finance Commiss
+* Cliff Cawthon - Habitat for Humanity Seattle-King County
+* Dawason Goes-Behind - Habitat for Humanity of Seattle-King & Kittitas Counties
+* Cliff Cawthon - Habitat for Humanity Seattle-King County
+* Dawason Goes-Behind - Habitat for Humanity of Seattle-King & Kittitas Counties
+* Lila Grant - Habitat for Humanity of Seattle-King & Kittitas Counties
 
-#### 0 👎 - Con
+#### 24 👎 - Con
 
 #### 1 ❓ - Other
 

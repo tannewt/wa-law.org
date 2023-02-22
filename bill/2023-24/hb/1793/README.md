@@ -14,13 +14,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30830&aId=152103&caId=21639&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30830&aId=152103&caId=21639&tId=4)
 
-#### 0 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Joanne Donohue - Sound Generations
 
-#### 6 👎 - Con
+#### 203 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Tim Eyman - Concerned Taxpayer
 * Tim Eyman
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Tara Ryan - Entertainment Software Association (ESA)
+* 💵Mark Harmsworth - Washington Policy Center
+* Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
+* Karen McIntosh
+* Jeff Gombosky - CTIA
+* 💵Kelly Fukai - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Emily Grossman - Washington State Department of Commerce
+* Eu-wanda Eagans - Senior Vice President at Goodwill of the Olympics & Rainier Region

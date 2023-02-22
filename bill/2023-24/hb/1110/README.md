@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1110 Middle housing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152527&caId=21765&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152527&caId=21765&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152527&caId=21765&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152527&caId=21765&tId=4)
-
-#### 715 👍 - Pro
+#### 1176 👍 - Pro
 Testifying:
 * Joe Kunzler - None
 * Joe Kunzler - None
@@ -24,17 +18,31 @@ Testifying:
 * 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Delia Trujillo
 * 💵Lyset Cadena - [City of Burien](/org/city_of_burien/)
+* Alfred Higgins
 * Troy Schmeil - Sapphire Homes Inc.
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
+* Matt Hutchins - [American Institute of Architects Washington Council](/org/american_institute_of_architects_washington_council/)
+* Dave Andersen - Washington Department of Commerce
 
-#### 125 👎 - Con
+#### 542 👎 - Con
 Testifying:
 * Mayor Jim Ferrell - [City of Federal Way](/org/city_of_federal_way/)
 * Brandon Buchanon - Woodinville City Manager
 * Mike Millman - Mayor of Woodinville
+* Lynn Best
+* Judy Bendich
+* Kay Elmer
+* Jonelle Kemmerling
+* Kathleen Russell
 
-#### 5 ❓ - Other
+#### 18 ❓ - Other
 Testifying:
 * Adam Lincoln - [City of Pasco](/org/city_of_pasco/)
+* Salim Nice - Mayor, City of Mercer Island
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Arne Woodard - Councilmember, City of Spokane Valley
+* Lacey Jane Wolfe - [City of Bellevue](/org/city_of_bellevue/)
+* Dana Ralph - Mayor of the City of Kent
 
 ### Tue 01/17 04:00 PM - Housing (HOUS): HB 1110 Middle housing
 #### 1832 👍 - Pro

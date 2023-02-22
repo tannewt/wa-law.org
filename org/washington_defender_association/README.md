@@ -12,7 +12,8 @@
 ## [HB 1428](/bill/2023-24/hb/1428/) - Pedestrians/roadways 👍1  
 * 👍 Magda Baker
 
-## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief 👍1  
+## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief 👍2  
+* 👍 Ali Hohman
 * 👍 Ali Hohman
 
 ## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍2  

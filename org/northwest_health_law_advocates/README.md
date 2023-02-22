@@ -28,7 +28,7 @@
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍2  
 
-## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍1  
 
@@ -36,7 +36,7 @@
 
 ## [SB 5338](/bill/2023-24/sb/5338/) - Essential health benefits 👍1  
 
-## [SB 5393](/bill/2023-24/sb/5393/) - Health provider contracting 👍1  
+## [SB 5393](/bill/2023-24/sb/5393/) - Health provider contracting 👍2  
 * 👍💵 Emily Brice
 
 ## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍1  

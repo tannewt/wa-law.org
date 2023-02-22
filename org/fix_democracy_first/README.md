@@ -1,10 +1,14 @@
 # Fix Democracy First
 
-## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
+## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍2  
 
 ## [HB 1055](/bill/2023-24/hb/1055/) - Pub safety telecommunicators 👍1  
 
 ## [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎1 
+
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
+
+## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
 
 ## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍1  
 
@@ -17,6 +21,8 @@
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍2  
 
 ## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍1  
+
+## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  
 
 ## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍1  
 
@@ -48,9 +54,11 @@
 
 ## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits  👎1 
 
+## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍1  
+
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
 
-## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
+## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍2  
 
 ## [HB 1390](/bill/2023-24/hb/1390/) - District energy systems 👍1  
 
@@ -76,13 +84,19 @@
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
 
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
+
 ## [HB 1505](/bill/2023-24/hb/1505/) - Alternative jet fuel  👎1 
+
+## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍1  
 
 ## [HB 1509](/bill/2023-24/hb/1509/) - Community solar 👍1  
 
 ## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍1  
 
 ## [HB 1517](/bill/2023-24/hb/1517/) - Transit-oriented development 👍1  
+
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍1  
 
 ## [HB 1584](/bill/2023-24/hb/1584/) - Nuclear reactor technology  👎1 
 
@@ -100,11 +114,17 @@
 
 ## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services 👍1  
 
+## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge 👍1  
+
+## [SB 5039](/bill/2023-24/sb/5039/) - Wildfires/electric utilities 👍1  
+
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act 👍1  
 
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial  👎1 
 
 ## [SB 5093](/bill/2023-24/sb/5093/) - Climate response strategy 👍1  
+
+## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍1  
 
 ## [SB 5102](/bill/2023-24/sb/5102/) - School library info and tech 👍2  
 
@@ -186,5 +206,7 @@
 ## [SB 5579](/bill/2023-24/sb/5579/) - Hydrofluorocarbons/supply  👎1 
 
 ## [SB 5626](/bill/2023-24/sb/5626/) - K-12 media literacy 👍1  
+
+## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍1  
 
 ## [SB 5697](/bill/2023-24/sb/5697/) - Mobile home park rates 👍1  

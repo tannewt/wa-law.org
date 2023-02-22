@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 01/19 01:30 PM - Capital Budget (CB): HB 1050 Apprenticeship utilization

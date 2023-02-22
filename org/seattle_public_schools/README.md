@@ -1,5 +1,7 @@
 # Seattle Public Schools
 
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing  👎1 
+
 ## [HB 1246](/bill/2023-24/hb/1246/) - Health benefits/SEBB  👎1 ❓1
 * ❓ Marnie White
 

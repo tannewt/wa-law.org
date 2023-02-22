@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152544&caId=21789&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152544&caId=21789&tId=4)
 
-#### 6 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* Naira Gonzales Aranda - Associated Students of Western Washington University
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

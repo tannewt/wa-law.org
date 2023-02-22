@@ -14,8 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30830&aId=152101&caId=21637&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30830&aId=152101&caId=21637&tId=4)
 
-#### 5 👍 - Pro
+#### 23 👍 - Pro
+Testifying:
+* Michelle Detwiler - [Renewable Hydrogen Alliance](/org/renewable_hydrogen_alliance/)
+* 💵Troy Nichols - [Phillips 66](/org/phillips_66/)
+* Derek Phelps - [Twelve](/org/twelve/)
+* 💵Dave Warren - WA Green Hydrogen Alliance
 
-#### 1 👎 - Con
+#### 151 👎 - Con
+Testifying:
+* Carter Burns
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Stephanie Celt - WA Dept of Commerce - State Energy Office

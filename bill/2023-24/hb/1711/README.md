@@ -8,17 +8,13 @@
 
 ## Meetings
 ### Tue 02/21 08:00 AM - Finance (FIN): HB 1711 Internet projects/tribes
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152091&caId=21631&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152091&caId=21631&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152091&caId=21631&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152091&caId=21631&tId=4)
-
-#### 8 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Guy Capoeman - President, Quinault Indian Nation
 * Tyson Johnston - [Quinault Indian Nation](/org/quinault_indian_nation/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Mark Vasconi - Commerce - Washington State Broadband Office

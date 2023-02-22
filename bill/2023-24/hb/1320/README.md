@@ -15,15 +15,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152440&caId=21791&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152440&caId=21791&tId=4)
 
-#### 5 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * 💵Larry Shannon - Washington State Association for Justice
 * Patrick McGah
+* Jesse Wing - [Washington Employment Lawyers Association](/org/washington_employment_lawyers_association/)
 
-#### 4 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Bob Battles - Association of Washington Business (AWB)
 * 💵Patrick Connor - NFIB
+* 💵Bruce Beckett - [Washington Retail Association](/org/washington_retail_association/)
 
 #### 0 ❓ - Other
 

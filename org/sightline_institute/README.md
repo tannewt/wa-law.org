@@ -6,7 +6,7 @@
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
 * 👍💵 Dan Bertolet
 
-## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍1  
+## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍2  
 
 ## [HB 1133](/bill/2023-24/hb/1133/) - Detached ADUs 👍1  
 

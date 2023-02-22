@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Tue 02/21 08:00 AM - Finance (FIN): HB 1628 Real estate excise tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152092&caId=21632&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152092&caId=21632&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152092&caId=21632&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152092&caId=21632&tId=4)
-
-#### 725 👍 - Pro
+#### 767 👍 - Pro
 Testifying:
 * Sol Villarreal
 * Angela Birney - City of Redmond Mayor
@@ -29,6 +23,7 @@ Testifying:
 * Councilmember Janice Zahn - [City of Bellevue](/org/city_of_bellevue/)
 * Councilmember Kelli Curtis - [City of Kirkland](/org/city_of_kirkland/)
 * Mayor Mary Lou Pauly - [City of Issaquah](/org/city_of_issaquah/)
+* Maria Roth
 * carl haglund - Columbia Modern Living
 * Chad Vaculin - Housing Development Consortium, Eastside Affordable Housing Coalition
 * Chris Persons - Community Roots Housing
@@ -38,7 +33,7 @@ Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Sol Villarreal
 
-#### 546 👎 - Con
+#### 693 👎 - Con
 Testifying:
 * Kevin Wallace - Wallace Properties, Inc.
 * Tim Eyman - Concerned Taxpayer
@@ -55,6 +50,9 @@ Testifying:
 * Robert Wallace
 * Heather Munn
 * PETER LANEY - Windy Pass, LLC
+* Mary Johnston - 1074 5th Street
+* Katen McIntosh
+* Suzanne Rohner
 
 #### 2 ❓ - Other
 Testifying:

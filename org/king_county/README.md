@@ -24,7 +24,7 @@
 
 ## [HB 1108](/bill/2023-24/hb/1108/) - Persistent offenders 👍1  
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
 * 👍💵 Michael White
 
 ## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍1  
@@ -115,9 +115,11 @@
 
 ## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍1  
 
+## [HB 1381](/bill/2023-24/hb/1381/) - Salmon-safe communities 👍1  
+
 ## [HB 1387](/bill/2023-24/hb/1387/) - Law enf. applicant pool 👍1  
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍1  
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍2  
 
 ## [HB 1392](/bill/2023-24/hb/1392/) - Electronics repair 👍2  
 
@@ -180,7 +182,7 @@
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
 
-## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍1  
+## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍2  
 
 ## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  
 
@@ -211,13 +213,19 @@
 
 ## [HB 1676](/bill/2023-24/hb/1676/) - Special ed. early support 👍1  
 
+## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  
+
 ## [HB 1683](/bill/2023-24/hb/1683/) - Dental only coverage 👍1  
+
+## [HB 1694](/bill/2023-24/hb/1694/) - Home care workforce shortage 👍1  
 
 ## [HB 1709](/bill/2023-24/hb/1709/) - Commerce housing programs 👍1  
 
 ## [HB 1723](/bill/2023-24/hb/1723/) - GMA/equity and env. justice 👍1  
 
-## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce 👍1  
+## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce 👍2  
+
+## [HB 1740](/bill/2023-24/hb/1740/) - Forestry riparian easements 👍1  
 
 ## [HB 1772](/bill/2023-24/hb/1772/) - Tetrahydrocannabinol & alc. 👍1  
 
@@ -253,6 +261,8 @@
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍2  
 
 ## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍1  
+
+## [SB 5120](/bill/2023-24/sb/5120/) - 23-hr crisis relief centers 👍1  
 
 ## [SB 5130](/bill/2023-24/sb/5130/) - Assisted outpatient treat. 👍2  
 * 👍💵 Michael White
@@ -307,7 +317,7 @@
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍2  
 
-## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍7  
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍8  
 * 👍 April Putney
 * 👍💵 Michael White
 * 👍💵 Michael White
@@ -396,13 +406,15 @@
 
 ## [SB 5501](/bill/2023-24/sb/5501/) - Establishing a public education program to reduce the incidence of stillbirth using a platform for recording and tracking fetal movements. 👍1  
 
+## [SB 5515](/bill/2023-24/sb/5515/) - Child abuse and neglect 👍1  
+
 ## [SB 5526](/bill/2023-24/sb/5526/) - Nursing facility rates 👍2  
 
 ## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  
 
 ## [SB 5547](/bill/2023-24/sb/5547/) - Nursing pool transparency 👍1  
 
-## [SB 5555](/bill/2023-24/sb/5555/) - Certified peer specialists 👍2  
+## [SB 5555](/bill/2023-24/sb/5555/) - Certified peer specialists 👍3  
 
 ## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy 👍1  
 
@@ -422,6 +434,8 @@
 ## [SB 5629](/bill/2023-24/sb/5629/) - Hepatitis B and C 👍1  
 
 ## [SB 5696](/bill/2023-24/sb/5696/) - Concerning eligibility for participation in the public employees' benefits board for retired or disabled employees of counties, municipalities, and other political subdivisions. 👍1  
+
+## [SB 5702](/bill/2023-24/sb/5702/) - Student homelessness pilot 👍1  
 
 ## [SB 5719](/bill/2023-24/sb/5719/) - Student homelessness group 👍1  
 

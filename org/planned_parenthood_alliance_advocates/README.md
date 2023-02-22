@@ -19,7 +19,8 @@
 
 ## [SB 5179](/bill/2023-24/sb/5179/) - Death with dignity act 👍1  
 
-## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
+* 👍 Nicole Kern
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍4  
 * 👍💵 Courtney Normand

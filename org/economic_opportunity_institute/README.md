@@ -40,7 +40,8 @@
 
 ## [SB 5238](/bill/2023-24/sb/5238/) - Academic employee bargaining 👍1  
 
-## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍3  
+* 👍 Sam Hatzenbeler
 * 👍 Sam Hatzenbeler
 * 👍 Sam Hatzenbeler
 

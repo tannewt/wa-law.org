@@ -12,7 +12,7 @@
 * 👍 Rico Quirindongo
 * 👍 Tiffany Washington
 
-## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
+## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍2  
 
 ## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍2  
 
@@ -40,7 +40,7 @@
 
 ## [HB 1206](/bill/2023-24/hb/1206/) - Newspaper publishers/tax 👍1  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍2  
 
 ## [HB 1240](/bill/2023-24/hb/1240/) - Firearms/assault weapons 👍1  
 
@@ -62,7 +62,7 @@
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
 
-## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
+## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍2  
 
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings   ❓1
 
@@ -72,17 +72,23 @@
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍2  
 
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
+
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍2  
 
-## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍1  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
 
-## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍2  
+
+## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
 
 ## [HB 1674](/bill/2023-24/hb/1674/) - Roadway users/trucks & SUVs 👍1  
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
 
 ## [HB 1790](/bill/2023-24/hb/1790/) - Cannabis social equity 👍1  
+
+## [HB 1793](/bill/2023-24/hb/1793/) - Wireless devices tax 👍1  
 
 ## [HB 1795](/bill/2023-24/hb/1795/) - Estate tax 👍1  
 
@@ -101,6 +107,8 @@
 ## [SB 5109](/bill/2023-24/sb/5109/) - Wage replacement 👍1  
 * 👍 Hamdi Mohamed
 
+## [SB 5120](/bill/2023-24/sb/5120/) - 23-hr crisis relief centers 👍1  
+
 ## [SB 5122](/bill/2023-24/sb/5122/) - Ambulance transport fund 👍1  
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
@@ -115,7 +123,7 @@
 * 👍 Lisa Herbold
 * 👍 Lisa Herbold
 
-## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍1  
 
@@ -126,6 +134,8 @@
 ## [SB 5259](/bill/2023-24/sb/5259/) - Product theft 👍1  
 
 ## [SB 5260](/bill/2023-24/sb/5260/) - Reprod. health/employers 👍1  
+
+## [SB 5263](/bill/2023-24/sb/5263/) - Psilocybin 👍1  
 
 ## [SB 5274](/bill/2023-24/sb/5274/) - Public employ. eligibility 👍1  
 
@@ -147,10 +157,14 @@
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
 
+## [SB 5513](/bill/2023-24/sb/5513/) - CTC mental health counseling 👍1  
+
 ## [SB 5594](/bill/2023-24/sb/5594/) - Fully autonomous vehicles   ❓1
 
 ## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍1  
 
 ## [SB 5702](/bill/2023-24/sb/5702/) - Student homelessness pilot 👍2  
+
+## [SB 5730](/bill/2023-24/sb/5730/) - Vehicle residences/impound   ❓1
 
 ## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages 👍2  

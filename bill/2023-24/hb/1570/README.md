@@ -15,7 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152423&caId=21775&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152423&caId=21775&tId=4)
 
-#### 1 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Nicholas Johnson - Lyft, Inc.
+* 💵Brenda Wiest - Teamsters 117
+* 💵Allison Ford - Uber
 
 #### 0 👎 - Con
 

@@ -5,6 +5,8 @@
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices  👎1 
 * 👎💵 Jim Henderson
 
+## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases  👎1 
+
 ## [HB 1810](/bill/2023-24/hb/1810/) - Mobile home rental assist. 👍1  
 
 ## [HB 1817](/bill/2023-24/hb/1817/) - Housing gap voucher pilot 👍1  

@@ -8,18 +8,15 @@
 
 ## Meetings
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SB 5373 ARNP, PA, & MD reimbursement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152321&caId=21697&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152321&caId=21697&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152321&caId=21697&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152321&caId=21697&tId=4)
+#### 337 👍 - Pro
+Testifying:
+* Devon Connor-Green - ARNPs United, AAPPN, WAPA
 
-#### 311 👍 - Pro
-
-#### 32 👎 - Con
+#### 214 👎 - Con
 Testifying:
 * 💵Amy Brackenbury - Washington State Medical Assocation (WSMA)
 * Sonal Patel - [Washington Academy of Family Physicians](/org/washington_academy_of_family_physicians/)
+* Karen McIntosh
 
 #### 0 ❓ - Other
 

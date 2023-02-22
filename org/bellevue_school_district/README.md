@@ -21,6 +21,8 @@
 
 ## [HB 1451](/bill/2023-24/hb/1451/) - Child care workforce 👍1  
 
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍1  
+
 ## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍1  
 
 ## [HB 1658](/bill/2023-24/hb/1658/) - Work experience/H.S. credit 👍1  
@@ -49,7 +51,7 @@
 
 ## [SB 5559](/bill/2023-24/sb/5559/) - Student restraint, isolation 👍1  
 
-## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍1  
+## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍2  
 
 ## [SB 5617](/bill/2023-24/sb/5617/) - Career & tech. ed. courses 👍1  
 

@@ -6,6 +6,9 @@
 
 ## [HB 1540](/bill/2023-24/hb/1540/) - Driver training/large veh. 👍1  
 
+## [HB 1839](/bill/2023-24/hb/1839/) - Train length  👎1 
+* 👎 Sean Eagan
+
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget   ❓2
 * ❓ Sean Eagan
 * ❓ Sean Eagan

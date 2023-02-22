@@ -4,6 +4,8 @@
 
 ## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍2  
 
+## [HB 1578](/bill/2023-24/hb/1578/) - Wildland fire safety 👍1  
+
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍2  
 
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍1  

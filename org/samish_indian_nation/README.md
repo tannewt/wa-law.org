@@ -5,6 +5,8 @@
 
 ## [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍1  
 
+## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍1  
+
 ## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  
 
 ## [SB 5033](/bill/2023-24/sb/5033/) - Custodial sexual misconduct 👍1  

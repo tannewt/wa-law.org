@@ -20,7 +20,7 @@
 ## [HB 1192](/bill/2023-24/hb/1192/) - Electric transm. planning 👍1  
 * 👍💵 Justin Allegro
 
-## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  
+## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍2  
 * 👍💵 Justin Allegro
 
 ## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍2  
@@ -29,14 +29,14 @@
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
 
-## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍2  
+## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍3  
 
 ## [HB 1427](/bill/2023-24/hb/1427/) - On-premises energy gen. 👍1  
 
 ## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍1  
 * 👍💵 Justin Allegro
 
-## [HB 1578](/bill/2023-24/hb/1578/) - Wildland fire safety 👍1  
+## [HB 1578](/bill/2023-24/hb/1578/) - Wildland fire safety 👍2  
 
 ## [HB 1686](/bill/2023-24/hb/1686/) - Salmon recovery 👍1  
 

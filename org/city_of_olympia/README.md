@@ -4,7 +4,7 @@
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
 * 👍 Darian Lightfoot
 
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍1  

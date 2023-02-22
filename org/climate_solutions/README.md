@@ -31,7 +31,7 @@
 
 ## [HB 1390](/bill/2023-24/hb/1390/) - District energy systems 👍2  
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍2  
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍3  
 
 ## [HB 1416](/bill/2023-24/hb/1416/) - Consumer-owned utilities 👍1  
 
@@ -66,7 +66,7 @@
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍1  
 * 👍💵 Leah Missik
 
-## [SB 5322](/bill/2023-24/sb/5322/) - Public building materials 👍1  
+## [SB 5322](/bill/2023-24/sb/5322/) - Public building materials 👍2  
 
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍1  
 

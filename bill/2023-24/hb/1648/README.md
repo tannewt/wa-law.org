@@ -15,11 +15,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152706&caId=21816&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152706&caId=21816&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Andrew Bianchi - AXS Tickets
+* Jeff Gombosky - Live Nation
 
 ### Tue 01/31 01:30 PM - Consumer Protection & Business (CPB): HB 1648 Ticket sales
 #### 3 👍 - Pro

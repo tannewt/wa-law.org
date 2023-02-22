@@ -8,7 +8,7 @@
 
 ## [HB 1511](/bill/2023-24/hb/1511/) - Income/child care programs 👍1  
 
-## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍1  
+## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍2  
 
 ## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍2  
 

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/21 08:00 AM - Finance (FIN): HB 1764 Asphalt & agg. valuation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152095&caId=21635&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152095&caId=21635&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152095&caId=21635&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30829&aId=152095&caId=21635&tId=4)
-
-#### 6 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Dave Gent - [Washington Asphalt Pavement Association](/org/washington_asphalt_pavement_association/)
 * 💵Lisa Thatcher - [Miles Resources](/org/miles_resources/)

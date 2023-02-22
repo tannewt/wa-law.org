@@ -9,20 +9,19 @@
 
 ## Meetings
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1189 Total confinement release
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152403&caId=21753&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152403&caId=21753&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152403&caId=21753&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152403&caId=21753&tId=4)
+#### 187 👍 - Pro
+Testifying:
+* Noreen Light - Information For A Change
+* Micaela Romero
+* Waldo Waldron-Ramsey - NAACP Alaska Oregon Washington State-Area Conference
 
-#### 76 👍 - Pro
-
-#### 4 👎 - Con
+#### 27 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* James McDevitt
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/24 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1189 Total confinement release
 #### 179 👍 - Pro

@@ -8,17 +8,11 @@
 
 ## Meetings
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SB 5537 Hospital staffing collab.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152357&caId=21713&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152357&caId=21713&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152357&caId=21713&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152357&caId=21713&tId=4)
-
-#### 156 👍 - Pro
+#### 200 👍 - Pro
 Testifying:
 * RN, Darcy Jaffe - Washington State Hospital Association
 
-#### 15 👎 - Con
+#### 19 👎 - Con
 
 #### 0 ❓ - Other
 

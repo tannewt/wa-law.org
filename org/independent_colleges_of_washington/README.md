@@ -12,7 +12,13 @@
 
 ## [SB 5522](/bill/2023-24/sb/5522/) - College grant prg. stipend 👍1  
 
-## [SB 5554](/bill/2023-24/sb/5554/) - College grant award amounts 👍1  
+## [SB 5554](/bill/2023-24/sb/5554/) - College grant award amounts 👍2  
+* 👍 Ph.D., Terri Standish-Kuon
+* 👍 Ph.D., Terri Standish-Kuon
+
+## [SB 5655](/bill/2023-24/sb/5655/) - WA achievers grant program 👍1  
 * 👍 Ph.D., Terri Standish-Kuon
 
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍2  
+
+## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍1  

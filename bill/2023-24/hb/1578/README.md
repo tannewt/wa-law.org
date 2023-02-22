@@ -9,17 +9,16 @@
 
 ## Meetings
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1578 Wildland fire safety
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152407&caId=21757&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152407&caId=21757&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152407&caId=21757&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152407&caId=21757&tId=4)
-
-#### 45 👍 - Pro
+#### 93 👍 - Pro
+Testifying:
+* George Geissler - Washington State Department of Natural Resources
+* Brian Considine - Washington State Department of Natural Resources
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tom Davis - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 
 ### Wed 02/08 08:00 AM - Agriculture and Natural Resources (AGNR): HB 1578 Wildland fire safety
 #### 42 👍 - Pro

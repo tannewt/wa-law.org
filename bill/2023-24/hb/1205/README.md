@@ -15,11 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152419&caId=21771&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152419&caId=21771&tId=4)
 
-#### 5 👍 - Pro
+#### 33 👍 - Pro
+Testifying:
+* Barbara Miner - Washington State Association of County Clerks
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Carissa Greenberg - WA State Attorney General's Office
 
 ### Tue 01/24 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1205 Service by pub./dependency
 #### 42 👍 - Pro

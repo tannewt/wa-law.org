@@ -1,7 +1,8 @@
 # Washington Coalition for Police Accountability
 
-## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍3  
+## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍4  
 * 👍 Sonia Joseph
+* 👍💵 Nickeia Hunter
 
 ## [HB 1333](/bill/2023-24/hb/1333/) - Domestic violent extremism 👍1  
 
@@ -16,19 +17,26 @@
 * 👍 Shelly Washington
 * 👍 Shelly Washington
 
-## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍4  
+## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍6  
 * 👍 Dani Bargala
 * 👍 Tonya Isabell
+* 👍 Po Leapai
+* 👍 Tonya Isabell
 
-## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍5  
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍8  
 * 👍 Debbie Novak
 * 👍💵 Nickeia Hunter
 * 👍 Po Leapai
 * 👍 Leslie Cushman
+* 👍💵 Paul Benz
+* 👍 Debbie Novak
+* 👍 Fred Thomas
 
-## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍3  
+## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍5  
 * 👍💵 Nickeia Hunter
 * 👍 Leslie Cushman
+* 👍💵 Paul Benz
+* 👍 Martina Morris
 
 ## [SB 5361](/bill/2023-24/sb/5361/) - Law enf. officers/increase  👎1 
 * 👎 Leslie Cushman

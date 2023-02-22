@@ -15,9 +15,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152457&caId=21781&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152457&caId=21781&tId=4)
 
-#### 38 👍 - Pro
+#### 49 👍 - Pro
+Testifying:
+* Grace O'Connor - Washington State Office of Public Defense
+* Ali Hohman - [Washington Defender Association](/org/washington_defender_association/)
+* Corey Guilmette - Civil Survival
+* Philippe Knab - The Washington State Office of Civil Legal Aid
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Laurie Layne
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

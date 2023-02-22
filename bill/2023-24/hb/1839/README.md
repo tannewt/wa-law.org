@@ -8,14 +8,26 @@
 
 ## Meetings
 ### Tue 02/21 01:30 PM - Transportation (TR): HB 1839 Train length
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30824&aId=152714&caId=21813&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30824&aId=152714&caId=21813&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30824&aId=152714&caId=21813&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30824&aId=152714&caId=21813&tId=4)
+#### 103 👍 - Pro
+Testifying:
+* Luke Edington - General Chairman, SMART Transportation Division
+* Nancy Farrell - Fuse
+* Brent Leonard - 1st International Vice President - SMART Transportation Division/UTU
+* 💵Herb Krohn - Wash. State Legislative Director, SMART Transportation Division/UTU
+* Jared Cassity - Assistant National Legislative Director-SMART Transportation Division/UTU
+* Larry Mann - Attorney & nationally recognized rail safety expert, draftsperson - Federal Rail Safety Act 1970
+* Luke Eddington - General Chairperson - SMART Transportation Division/UTU - for UP employees in Wash & the northern US
+* 💵Mike Elliott - Retired Rail Conductor and Engineer
 
-#### 5 👍 - Pro
+#### 10 👎 - Con
+Testifying:
+* 💵Johan Hellman
+* 💵Scott Hazlegrove - [Pacific Merchant Shipping Association](/org/pacific_merchant_shipping_association/)
+* 💵Johan Hellman - BNSF Railway
+* Sean Eagan - [The Northwest Seaport Alliance](/org/the_northwest_seaport_alliance/)
+* 💵Aaron Hunt - Union Pacific Railroad
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jason Lewis - Utilities and Transportation Commission

@@ -53,3 +53,6 @@
 
 ## [SB 5684](/bill/2023-24/sb/5684/) - Small works rosters 👍2  
 * 👍💵 James King
+
+## [SB 5730](/bill/2023-24/sb/5730/) - Vehicle residences/impound  👎1 
+* 👎💵 James King

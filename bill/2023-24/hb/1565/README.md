@@ -9,15 +9,10 @@
 
 ## Meetings
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1565 Prof. education workforce
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152406&caId=21756&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152406&caId=21756&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152406&caId=21756&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152406&caId=21756&tId=4)
-
-#### 14 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * Dr. Erica Hernandez-Scott - [Professional Educator Standards Board](/org/professional_educator_standards_board/)
+* Anna Hernandez-French - Office of Superintendent of Public Instruction
 
 #### 0 👎 - Con
 

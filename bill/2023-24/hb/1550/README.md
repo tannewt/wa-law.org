@@ -9,27 +9,27 @@
 
 ## Meetings
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1550 Transition to kindergarten
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152454&caId=21763&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152454&caId=21763&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152454&caId=21763&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152454&caId=21763&tId=4)
-
-#### 8 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * 💵Katy Warren - WA State Assn of Head Start and ECEAP
 * Colleen Condon - Washington Childcare Center Association
 
-#### 4 👎 - Con
+#### 24 👎 - Con
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 * Andrew Perkins - Thorp School District
+* Maddy Thompson - Governor's Office
+* Chris Reykdal - Office of Superintendent of Public Instruction (OSPI)
+* Ross Hunter - Department of Children, Youth, and Families (DCYF)
 
-#### 4 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Wade Smith - Walla Walla Public Schools
 * Dr. Nikolas Bergman - Quincy School  District
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* Kimberly Headrick - Medical Lake School District
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* Charlie Brown - Pierce County Superintendents
 
 ### Tue 01/31 04:00 PM - Education (ED): HB 1550 Transition to kindergarten
 #### 151 👍 - Pro

@@ -9,7 +9,8 @@
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓1
 * ❓ John Hines
 
-## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍1  
+## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍2  
+* 👍💵 Briahna Murray
 
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍2  
 * 👍 Preston Peck
@@ -22,14 +23,14 @@
 
 ## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍1  
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
 * 👍 Mayor Victoria Woodards
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍1  
 
 ## [HB 1530](/bill/2023-24/hb/1530/) - Law enf. employ. eligibility 👍1  
 
-## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍1  
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍2  
 * 👍 Mayor, Victoria Woodards
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  

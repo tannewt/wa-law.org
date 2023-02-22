@@ -15,7 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152704&caId=21814&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152704&caId=21814&tId=4)
 
-#### 0 👍 - Pro
+#### 62 👍 - Pro
+Testifying:
+* 💵Erin Frasier - Washington State Building & Construction Trades Council
+* 💵Heather Kurtenbach - Ironworkers Local 86
 
 #### 0 👎 - Con
 

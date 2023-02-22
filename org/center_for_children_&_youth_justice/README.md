@@ -12,7 +12,7 @@
 
 ## [HB 1295](/bill/2023-24/hb/1295/) - DCYF placement agreements 👍2  
 
-## [HB 1394](/bill/2023-24/hb/1394/) - Sexual offenses by youth 👍1  
+## [HB 1394](/bill/2023-24/hb/1394/) - Sexual offenses by youth 👍2  
 * 👍 Nicholas Oakley
 
 ## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍2  

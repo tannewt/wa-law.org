@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SB 5513 CTC mental health counseling
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152364&caId=21720&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152364&caId=21720&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152364&caId=21720&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152364&caId=21720&tId=4)
-
-#### 48 👍 - Pro
+#### 58 👍 - Pro
 Testifying:
 * 💵Alex Davidson - The Associated Students of the University of Washington
 * 💵William Daley - Communities for Our Colleges

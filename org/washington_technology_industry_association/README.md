@@ -12,6 +12,9 @@
 
 ## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  
 
+## [HB 1793](/bill/2023-24/hb/1793/) - Wireless devices tax  👎1 
+* 👎💵 Kelly Fukai
+
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
 
 ## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍1  

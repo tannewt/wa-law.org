@@ -9,17 +9,14 @@
 
 ## Meetings
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1025 Police/private actions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152401&caId=21751&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152401&caId=21751&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152401&caId=21751&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152401&caId=21751&tId=4)
-
-#### 322 👍 - Pro
+#### 472 👍 - Pro
 Testifying:
 * Katherine Martinez - The Ending Qualified Immunity Project
+* 💵Nickeia Hunter - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
+* Lorena Gonzalez - ACLU of Washington
+* Diana Salazar - SEIU 775
 
-#### 17 👎 - Con
+#### 39 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Laurie A Layne
@@ -28,7 +25,9 @@ Testifying:
 * c davis - Washingtonians to Recall Inslee
 * Jean Homan - Washington Defense Trial Lawyers Association
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jay Schweikert - Cato Institute
 
 ### Wed 01/25 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1025 Police/private actions
 #### 836 👍 - Pro

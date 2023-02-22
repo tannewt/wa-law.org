@@ -9,17 +9,13 @@
 
 ## Meetings
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SSB 5393 Health provider contracting
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152351&caId=21707&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152351&caId=21707&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152351&caId=21707&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152351&caId=21707&tId=4)
-
-#### 67 👍 - Pro
+#### 97 👍 - Pro
 Testifying:
+* 💵Erin Dziedzic - Patient Coalition of Washington
+* 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)
 * Jane Beyer - Office of the Insurance Commissioner
 
-#### 4 👎 - Con
+#### 5 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

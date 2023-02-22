@@ -7,7 +7,7 @@
 ## [HB 1511](/bill/2023-24/hb/1511/) - Income/child care programs 👍2  
 * 👍 Christina Griffin
 
-## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍1  
+## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍2  
 
 ## [HB 1679](/bill/2023-24/hb/1679/) - Student homelessness group 👍1  
 

@@ -15,13 +15,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152377&caId=21734&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152377&caId=21734&tId=4)
 
-#### 8 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Travis Bown - Washington Association Of Maintenance & Operations Administrators
 * 💵Greg Hanon - NAIOP
 * Travis Hanson - Deer Park School District
+* Doug Vanderleest - [Franklin Pierce School District](/org/franklin_pierce_school_district/)
+* Remy Kerr - Washington State Hospital Association
+* Kari Magill - Rowley Properties, Inc.
 
-#### 14 👎 - Con
+#### 27 👎 - Con
 Testifying:
 * Anna Lising - Governor's Office
 * Emily Salzberg - Department of Commerce

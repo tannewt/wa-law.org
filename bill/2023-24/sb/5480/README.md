@@ -9,16 +9,11 @@
 
 ## Meetings
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SSB 5480 Work-limiting disability
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152362&caId=21718&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152362&caId=21718&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152362&caId=21718&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152362&caId=21718&tId=4)
-
-#### 147 👍 - Pro
+#### 187 👍 - Pro
 Testifying:
 * Harald Hyllseth - [Chief Seattle Club](/org/chief_seattle_club/)
 * Dan Wise - Catholic Community Services
+* 💵Michele Thomas - Washington Low Income Housing Alliance
 
 #### 0 👎 - Con
 

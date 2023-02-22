@@ -15,9 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152634&caId=21807&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152634&caId=21807&tId=4)
 
-#### 0 👍 - Pro
+#### 81 👍 - Pro
+Testifying:
+* 💵Briahna Murray - [City of Tacoma](/org/city_of_tacoma/)
+* Nicholas Carr - Tacoma Housing Authority
+* Jesse Simpson - Housing Development Consortium
+* Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
+* Lacey Jane Wolfe - [City of Bellevue](/org/city_of_bellevue/)
 
-#### 0 👎 - Con
+#### 7 👎 - Con
 
 #### 0 ❓ - Other
 

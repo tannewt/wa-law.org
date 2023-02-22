@@ -9,13 +9,10 @@
 
 ## Meetings
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1762 Warehouse employees
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152531&caId=21769&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152531&caId=21769&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152531&caId=21769&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152531&caId=21769&tId=4)
-
-#### 9 👍 - Pro
+#### 16 👍 - Pro
+Testifying:
+* 💵Brenda Wiest - Teamsters 117
+* Joe Kendo - WSLC
 
 #### 5 👎 - Con
 Testifying:

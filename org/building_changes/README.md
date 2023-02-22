@@ -1,8 +1,10 @@
 # Building Changes
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
+
+## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
 
 ## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍2  
 
@@ -12,14 +14,18 @@
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
+
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍1  
+
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
 
 ## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍2  
 * 👍💵 Megan Veith
 
-## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
+## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍3  
 
-## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  
+## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍2  
 
 ## [HB 1679](/bill/2023-24/hb/1679/) - Student homelessness group 👍1  
 * 👍💵 Megan Veith
@@ -36,9 +42,9 @@
 
 ## [SB 5559](/bill/2023-24/sb/5559/) - Student restraint, isolation 👍1  
 
-## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍1  
+## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍2  
 
-## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍1  
+## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍2  
 * 👍💵 Megan Veith
 
 ## [SB 5581](/bill/2023-24/sb/5581/) - Maternal support services 👍2  

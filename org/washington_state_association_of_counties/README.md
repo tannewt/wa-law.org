@@ -183,6 +183,9 @@
 * 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 
+## [SB 5322](/bill/2023-24/sb/5322/) - Public building materials 👍1  
+* 👍💵 Paul Jewell
+
 ## [SB 5332](/bill/2023-24/sb/5332/) - Homeless camps/schools, etc.  👎1 
 
 ## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍1  
@@ -242,7 +245,8 @@
 ## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍1  
 * 👍💵 Paul Jewell
 
-## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice   ❓1
+## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice   ❓2
+* ❓💵 Paul Jewell
 * ❓💵 Paul Jewell
 
 ## [SB 5673](/bill/2023-24/sb/5673/) - Forest practices board 👍1  

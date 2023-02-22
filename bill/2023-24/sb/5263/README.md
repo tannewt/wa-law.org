@@ -9,26 +9,21 @@
 
 ## Meetings
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SSB 5263 Psilocybin
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152355&caId=21711&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152355&caId=21711&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152355&caId=21711&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152355&caId=21711&tId=4)
-
-#### 23 👍 - Pro
+#### 35 👍 - Pro
 Testifying:
 * Corey Champagne
 * Anthony Back
 
-#### 18 👎 - Con
+#### 22 👎 - Con
 
-#### 21 ❓ - Other
+#### 25 ❓ - Other
 Testifying:
 * Mason Marks
 * Kody Zalewski
 * Anastasia Mikolyuk
 * David Heldreth
 * Dr. Lisa Price
+* Tatiana Quintana - Psychedelic Medicine Alliance Washington
 
 ### Mon 01/30 10:30 AM - Labor & Commerce (LC): SB 5263 Psilocybin
 #### 116 👍 - Pro

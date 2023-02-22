@@ -9,21 +9,18 @@
 
 ## Meetings
 ### Tue 02/21 01:30 PM - Transportation (TRAN): SSB 5730 Vehicle residences/impound
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30815&aId=152549&caId=21800&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30815&aId=152549&caId=21800&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30815&aId=152549&caId=21800&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30815&aId=152549&caId=21800&tId=4)
+#### 20 👍 - Pro
 
-#### 5 👍 - Pro
+#### 3 👎 - Con
+Testifying:
+* 💵James King - [Independent Business Association](/org/independent_business_association/)
 
-#### 0 👎 - Con
-
-#### 3 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Kris Zachary - Burns Towing
 * Paul Bressi - Nisqually Towing
 * 💵Peter Lukevich - Towing Recovery Association of Washington (TRAW)
+* Beau Perschbacher - WA Dept. of Licensing
 
 ### Wed 02/15 01:30 PM - Housing (HSG): SB 5730 Vehicle residences/impound
 #### 0 👍 - Pro

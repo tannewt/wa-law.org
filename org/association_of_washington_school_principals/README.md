@@ -14,7 +14,7 @@
 
 ## [HB 1230](/bill/2023-24/hb/1230/) - School websites/drug info. 👍1  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍2  
 
 ## [HB 1273](/bill/2023-24/hb/1273/) - High school and beyond plans   ❓1
 
@@ -32,11 +32,11 @@
 
 ## [HB 1436](/bill/2023-24/hb/1436/) - Special education funding 👍1  
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation   ❓1
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation   ❓2
 
 ## [HB 1504](/bill/2023-24/hb/1504/) - Elementary school recess   ❓1
 
-## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍1  
+## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍2  
 * 👍💵 Roz Thompson
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  

@@ -15,14 +15,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152418&caId=21770&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152418&caId=21770&tId=4)
 
-#### 57 👍 - Pro
+#### 120 👍 - Pro
 Testifying:
 * 💵Diana Stadden - The Arc of WA State
 * 💵Diana Stadden - The Arc of WA State
+* 💵Brad Banks - Behavioral Health Administrative Services Organizations
+* Joan Miller - WA Council for Behavioral Health
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Kelly Rider - King County Department of Community & Human Services
 
 ### Tue 01/17 01:30 PM - Health Care & Wellness (HCW): HB 1134 988 system
 #### 161 👍 - Pro

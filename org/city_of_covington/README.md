@@ -1,5 +1,7 @@
 # City of Covington
 
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓1
+
 ## [HB 1351](/bill/2023-24/hb/1351/) - Minimum parking requirements   ❓1
 * ❓ Regan Bolli
 

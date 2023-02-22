@@ -17,7 +17,8 @@
 ## [HB 1099](/bill/2023-24/hb/1099/) - Public works wages   ❓1
 * ❓ Brandy DeLange
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓1
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓2
+* ❓💵 Carl Schroeder
 * ❓💵 Carl Schroeder
 
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍2  
@@ -108,7 +109,8 @@
 
 ## [HB 1493](/bill/2023-24/hb/1493/) - Impaired driving 👍1  
 
-## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety  👎1 
+## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety  👎1 ❓1
+* ❓💵 Candice Bock
 
 ## [HB 1517](/bill/2023-24/hb/1517/) - Transit-oriented development   ❓1
 * ❓💵 Carl Schroeder

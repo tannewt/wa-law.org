@@ -4,6 +4,8 @@
 
 ## [HB 1081](/bill/2023-24/hb/1081/) - Derelict vessel appeals 👍1  
 
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
+
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍3  
 * 👍💵 Clifford Traisman
 
@@ -29,7 +31,7 @@
 ## [HB 1365](/bill/2023-24/hb/1365/) - Puget Sound water quality 👍1  ❓1
 * ❓💵 Darcy Nonemacher
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍3  
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍4  
 
 ## [HB 1735](/bill/2023-24/hb/1735/) - GMA/net ecological gain 👍1  
 * 👍 Mindy Roberts
@@ -59,7 +61,8 @@
 
 ## [SB 5309](/bill/2023-24/sb/5309/) - Petroleum transportation/tax 👍1  
 
-## [SB 5322](/bill/2023-24/sb/5322/) - Public building materials 👍1  
+## [SB 5322](/bill/2023-24/sb/5322/) - Public building materials 👍2  
+* 👍💵 Darcy Nonemacher
 * 👍💵 Darcy Nonemacher
 
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍1  

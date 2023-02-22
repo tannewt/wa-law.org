@@ -9,24 +9,28 @@
 
 ## Meetings
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1479 Student restraint, isolation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152453&caId=21762&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152453&caId=21762&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152453&caId=21762&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30810&aId=152453&caId=21762&tId=4)
-
-#### 67 👍 - Pro
+#### 135 👍 - Pro
 Testifying:
 * Richard Pope - Parent of Isolation Room Survivor
 * Jana Parker - Seattle Special Education PTSA
 * Ashley Salazar - Parent of a Restraint Survivor
+* Maria Roth
 * Janis White
+* 💵Andrea Kadlec - [Disability Rights Washington](/org/disability_rights_washington/)
+* 💵Eric Warwick - Former Paraeducator
+* Justin Hendrickson - Principal, South Shore K-8
+* Jen Chong Jewell - OSPI Special Education Advisory Council
+* Yordanos Gebreamlak - Office of the Education Ombuds
+* Michelle Whitehead - Issaquah School District parent
+* Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
 
-#### 29 👎 - Con
+#### 75 👎 - Con
 
-#### 2 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
+* Shannon Hitch - Lake Washington School District
+* Rick Chisa - Public School Employees of Washington (PSE)
 
 ### Mon 01/30 01:30 PM - Education (ED): HB 1479 Student restraint, isolation
 #### 202 👍 - Pro

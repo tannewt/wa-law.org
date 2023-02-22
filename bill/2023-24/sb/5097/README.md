@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SB 5097 Rare diseases adv. council
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152356&caId=21712&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152356&caId=21712&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152356&caId=21712&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152356&caId=21712&tId=4)
-
-#### 35 👍 - Pro
+#### 51 👍 - Pro
 Testifying:
 * 💵Rose Feliciano - NW Rare Disease Coalition
 * Carolina Sommer - Born a Hero, Research Foundation

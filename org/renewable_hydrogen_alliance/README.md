@@ -6,6 +6,9 @@
 ## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍1  
 * 👍 Dave Arbaugh
 
+## [HB 1729](/bill/2023-24/hb/1729/) - Hydrogen fuel products 👍1  
+* 👍 Michelle Detwiler
+
 ## [SB 5091](/bill/2023-24/sb/5091/) - Hydrogen fuel products 👍1  
 * 👍 Michelle Detwiler
 

@@ -13,14 +13,14 @@
 
 ## [HB 1218](/bill/2023-24/hb/1218/) - Caseload forecast/tax credit 👍1  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍3  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍4  
 
 ## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits  👎2 
 * 👎💵 Aaron Czyzewski
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
 
-## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
+## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍2  
 
 ## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  
 
@@ -39,11 +39,11 @@
 ## [HB 1499](/bill/2023-24/hb/1499/) - Food assistance funding   ❓1
 * ❓💵 Aaron Czyzewski
 
-## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍4  
+## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍5  
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
 
-## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍1  
+## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍2  
 
 ## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍1  
 
@@ -51,6 +51,10 @@
 * 👍💵 Aaron Czyzewski
 
 ## [HB 1603](/bill/2023-24/hb/1603/) - Agricultural products promo. 👍1  
+
+## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍1  
+
+## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
 

@@ -15,7 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152638&caId=21811&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152638&caId=21811&tId=4)
 
-#### 1 👍 - Pro
+#### 15 👍 - Pro
+Testifying:
+* Scott Richards - Washington Public Utility Districts Association
+* Carissa Hahn - CWA/WashTech
+* Fernando Roman - Communications Workers of America
 
 #### 0 👎 - Con
 

@@ -15,11 +15,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152378&caId=21735&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152378&caId=21735&tId=4)
 
-#### 248 👍 - Pro
+#### 313 👍 - Pro
 Testifying:
 * Patrick Jablonski - [Nucor Steel Seattle Inc](/org/nucor_steel_seattle_inc/)
+* 💵Darcy Nonemacher - [Washington Conservation Action](/org/washington_conservation_action/)
+* 💵Mark Riker - WA State Building and Construction Trades Council
+* Hanna Waterstrat - WA Department of Commerce (SEEP)
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 3 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* 💵Brandon Houskeeper - [American Wood Council](/org/american_wood_council/)
+* Tom Davis - WA Forest Protection Association
 
 #### 0 ❓ - Other
 

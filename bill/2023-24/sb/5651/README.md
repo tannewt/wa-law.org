@@ -15,11 +15,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152381&caId=21738&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152381&caId=21738&tId=4)
 
-#### 430 👍 - Pro
+#### 584 👍 - Pro
+Testifying:
+* 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
+* NiRae Petty - Urban League of Metropolitan Seattle
 
-#### 26 👎 - Con
+#### 201 👎 - Con
+Testifying:
+* Michael DEACY
+* Karen McIntosh
+* Nancy Volpert
+* Kathleen Cooper
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Tue 02/07 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5651 GMA/equity and env. justice
 #### 711 👍 - Pro

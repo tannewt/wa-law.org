@@ -8,13 +8,9 @@
 
 ## Meetings
 ### Tue 02/21 01:30 PM - Transportation (TRAN): SB 5750 Wahkiakum county ferry
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30815&aId=152552&caId=21803&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30815&aId=152552&caId=21803&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30815&aId=152552&caId=21803&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30815&aId=152552&caId=21803&tId=4)
-
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Gene Strong - Wahkiakum County
 
 #### 0 👎 - Con
 

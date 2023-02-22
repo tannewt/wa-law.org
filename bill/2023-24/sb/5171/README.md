@@ -8,6 +8,21 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Wed 02/22 01:30 PM - Ways & Means (WM): SSB 5171 Consumer products/gender
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152766&caId=21824&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152766&caId=21824&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152766&caId=21824&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152766&caId=21824&tId=4)
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+
 ### Mon 01/16 10:30 AM - Law & Justice (LAW): SB 5171 Consumer products/gender
 #### 137 👍 - Pro
 Testifying:

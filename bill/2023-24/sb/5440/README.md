@@ -9,17 +9,11 @@
 
 ## Meetings
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SSB 5440 Competency evaluations
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152358&caId=21714&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152358&caId=21714&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152358&caId=21714&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30850&aId=152358&caId=21714&tId=4)
-
-#### 2 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Amber Leaders - Governor's Office
 
-#### 6 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Jason Schwarz - [Washington Defender Association](/org/washington_defender_association/)
@@ -27,7 +21,7 @@ Testifying:
 * Kari Reardon - WDA/WACDL
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 
-#### 5 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Katie Kolan - Washington State Hospital Association (WSHA)

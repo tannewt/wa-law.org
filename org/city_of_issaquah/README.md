@@ -2,6 +2,8 @@
 
 ## [HB 1042](/bill/2023-24/hb/1042/) - Use of existing buildings   ❓1
 
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓1
+
 ## [HB 1276](/bill/2023-24/hb/1276/) - Accessory dwelling units   ❓1
 
 ## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units   ❓1

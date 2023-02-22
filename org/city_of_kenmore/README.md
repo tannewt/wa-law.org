@@ -1,6 +1,6 @@
 # City of Kenmore
 
-## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍1  
+## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍2  
 
 ## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍1  
 
@@ -12,7 +12,7 @@
 
 ## [HB 1517](/bill/2023-24/hb/1517/) - Transit-oriented development 👍1  
 
-## [HB 1596](/bill/2023-24/hb/1596/) - Affordable housing incentive 👍1  
+## [HB 1596](/bill/2023-24/hb/1596/) - Affordable housing incentive 👍2  
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 * 👍 Deputy Mayor Melanie O'Cain

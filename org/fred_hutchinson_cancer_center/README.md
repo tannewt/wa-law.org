@@ -8,6 +8,8 @@
 
 ## [HB 1450](/bill/2023-24/hb/1450/) - Biomarker testing coverage 👍1  
 
+## [HB 1626](/bill/2023-24/hb/1626/) - Colorectal screening tests 👍1  
+
 ## [HB 1745](/bill/2023-24/hb/1745/) - Diversity in clinical trials 👍2  
 * 👍 Dr. Andrew Cowan
 

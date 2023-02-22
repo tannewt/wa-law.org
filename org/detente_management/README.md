@@ -4,7 +4,8 @@
 * 👎💵 Mike Hoover
 * 👎 Santana Schoene
 
-## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases  👎2 
+## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases  👎3 
+* 👎💵 Mike Hoover
 * 👎💵 Mike Hoover
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax  👎2 
@@ -19,7 +20,8 @@
 
 ## [SB 5197](/bill/2023-24/sb/5197/) - Eviction processes  👎2 
 
-## [SB 5198](/bill/2023-24/sb/5198/) - Mobile home community sales  👎1 
+## [SB 5198](/bill/2023-24/sb/5198/) - Mobile home community sales  👎1 ❓1
+* ❓💵 Mike Hoover
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases  👎3 
 * 👎💵 Mike Hoover

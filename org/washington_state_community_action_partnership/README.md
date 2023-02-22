@@ -4,7 +4,9 @@
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍2  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍3  
+
+## [HB 1242](/bill/2023-24/hb/1242/) - Behavioral health work group 👍1  
 
 ## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting 👍1  
 
@@ -39,6 +41,8 @@
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
 
+## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
+
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍2  
 
 ## [HB 1392](/bill/2023-24/hb/1392/) - Electronics repair 👍1  
@@ -53,7 +57,7 @@
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍2  
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
 * 👍 Linda Garcia
 
 ## [HB 1499](/bill/2023-24/hb/1499/) - Food assistance funding 👍1  
@@ -85,6 +89,8 @@
 ## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍1  
 
 ## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍1  
+
+## [SB 5302](/bill/2023-24/sb/5302/) - Adult family homes/prop. tax 👍1  
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
 

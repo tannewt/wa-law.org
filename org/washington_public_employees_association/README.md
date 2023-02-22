@@ -14,7 +14,7 @@
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
 
 ## [HB 1137](/bill/2023-24/hb/1137/) - Return-to-work opportunities  👎1 
 
@@ -47,6 +47,8 @@
 ## [HB 1593](/bill/2023-24/hb/1593/) - RN PTSD/industrial insurance 👍1  
 
 ## [HB 1774](/bill/2023-24/hb/1774/) - Public empl. salary surveys 👍1  
+
+## [HB 1839](/bill/2023-24/hb/1839/) - Train length 👍1  
 
 ## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍1  
 
@@ -88,3 +90,5 @@
 ## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍1  
 
 ## [SB 5694](/bill/2023-24/sb/5694/) - Concerning public employee salary surveys. 👍1  
+
+## [SB 5749](/bill/2023-24/sb/5749/) - Rail safety governance/UTC 👍1  

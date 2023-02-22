@@ -95,8 +95,9 @@
 
 ## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍2  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍2  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍3  
 * 👍 Roni Cook
+* 👍💵 Nasue Nishida
 
 ## [HB 1239](/bill/2023-24/hb/1239/) - Educator ethics & complaints   ❓1
 * ❓💵 Nasue Nishida
@@ -215,20 +216,23 @@
 * ❓💵 Simone Boe
 * 👎💵 Simone Boe
 
+## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍1  
+
 ## [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information 👍3  
 * 👍💵 Simone Boe
 * 👍💵 Simone Boe
 
 ## [HB 1548](/bill/2023-24/hb/1548/) - Railroad workers 👍1  
 
-## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten  👎1 ❓1
+## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten  👎1 ❓2
 * 👎💵 Nasue Nishida
+* ❓💵 Julie Salvi
 * ❓💵 Julie Salvi
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍3  
 * 👍💵 Simone Boe
 
-## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍1  
+## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍2  
 * 👍💵 Nasue Nishida
 
 ## [HB 1609](/bill/2023-24/hb/1609/) - School library info and tech 👍1  

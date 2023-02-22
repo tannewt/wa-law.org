@@ -15,17 +15,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152424&caId=21776&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152424&caId=21776&tId=4)
 
-#### 171 👍 - Pro
+#### 294 👍 - Pro
 Testifying:
 * Nina Martinez - Latino Civic Alliance
+* 💵Paul Benz - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
+* Debbie Novak - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
+* Fred Thomas - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 
-#### 5 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Paul Giuglianotti
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * Teri Rogers Kemp
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Joyce Bruce - WA State Attorney General's Office
 
 ### Tue 01/31 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1579 Independent prosecutions
 #### 444 👍 - Pro

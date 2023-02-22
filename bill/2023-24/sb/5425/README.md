@@ -15,9 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152387&caId=21744&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152387&caId=21744&tId=4)
 
-#### 49 👍 - Pro
+#### 168 👍 - Pro
+Testifying:
+* Kevin Johnston - Red Hawk Fire Protection
+* Pat Dillon - Fire Chief Equipment
+* Scott Peterson - UA Sprinkler Fitters Local 699
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 
