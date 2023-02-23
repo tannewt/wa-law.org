@@ -7,6 +7,25 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 02/23 09:00 AM - Appropriations (APP): HB 1717 Associate development orgs.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152779&caId=21827&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152779&caId=21827&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152779&caId=21827&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152779&caId=21827&tId=4)
+
+#### 22 👍 - Pro
+Testifying:
+* Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
+* Heidi McCutcheon - Thurston Economic Development Council
+* Heidi McCutcheon - Thurston Economic Development Council
+* 💵Alisha Benson - Greater Spokane, Inc.
+* Heidi McCutcheon - Thurston Economic Development Council
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/07 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1717 Associate development orgs.
 #### 34 👍 - Pro
 Testifying:

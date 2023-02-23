@@ -4,7 +4,7 @@
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
-## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
+## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍2  
 
 ## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍2  
 
@@ -14,7 +14,7 @@
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
 
-## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
+## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍2  
 
 ## [HB 1399](/bill/2023-24/hb/1399/) - Native American scholarships 👍1  
 
@@ -23,7 +23,7 @@
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍2  
 * 👍 Donna O'Connor
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍1  
 
@@ -39,7 +39,7 @@
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍1  
 
-## [HB 1596](/bill/2023-24/hb/1596/) - Affordable housing incentive 👍1  
+## [HB 1596](/bill/2023-24/hb/1596/) - Affordable housing incentive 👍2  
 
 ## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍1  
 
@@ -54,6 +54,8 @@
 ## [SB 5120](/bill/2023-24/sb/5120/) - 23-hr crisis relief centers 👍1  
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
+
+## [SB 5171](/bill/2023-24/sb/5171/) - Consumer products/gender 👍1  
 
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures 👍1  
 

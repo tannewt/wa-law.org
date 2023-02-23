@@ -9,20 +9,15 @@
 
 ## Meetings
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1134 988 system
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152418&caId=21770&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152418&caId=21770&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152418&caId=21770&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152418&caId=21770&tId=4)
-
-#### 120 👍 - Pro
+#### 164 👍 - Pro
 Testifying:
 * 💵Diana Stadden - The Arc of WA State
 * 💵Diana Stadden - The Arc of WA State
 * 💵Brad Banks - Behavioral Health Administrative Services Organizations
 * Joan Miller - WA Council for Behavioral Health
+* 💵Paula Sardinas - WBBA
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

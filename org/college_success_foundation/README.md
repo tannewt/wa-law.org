@@ -12,7 +12,7 @@
 
 ## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍1  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍2  
 
 ## [HB 1278](/bill/2023-24/hb/1278/) - Nonrelative kin placement 👍1  
 
@@ -30,7 +30,9 @@
 
 ## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍1  
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍2  
+
+## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍1  
 
 ## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍1  
 

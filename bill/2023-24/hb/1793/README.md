@@ -8,17 +8,11 @@
 
 ## Meetings
 ### Wed 02/22 08:00 AM - Finance (FIN): HB 1793 Wireless devices tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30830&aId=152103&caId=21639&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30830&aId=152103&caId=21639&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30830&aId=152103&caId=21639&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30830&aId=152103&caId=21639&tId=4)
-
-#### 6 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Joanne Donohue - Sound Generations
 
-#### 203 👎 - Con
+#### 302 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Tim Eyman - Concerned Taxpayer

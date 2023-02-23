@@ -9,21 +9,20 @@
 
 ## Meetings
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1586 Vehicular pursuits work grp.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152458&caId=21782&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152458&caId=21782&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152458&caId=21782&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152458&caId=21782&tId=4)
-
-#### 173 👍 - Pro
+#### 201 👍 - Pro
 Testifying:
 * 💵Paul Benz - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 * 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
 * Martina Morris - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 
-#### 5 👎 - Con
+#### 41 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Jennifer Lee - ACLU of Washington
 
 ### Tue 01/31 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1586 Vehicular pursuits work grp.
 #### 297 👍 - Pro

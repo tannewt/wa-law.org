@@ -22,6 +22,8 @@
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍2  
 
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
+
 ## [HB 1723](/bill/2023-24/hb/1723/) - GMA/equity and env. justice 👍1  
 * 👍💵 Guillermo Rogel
 

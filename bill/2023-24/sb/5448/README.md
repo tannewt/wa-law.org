@@ -9,15 +9,18 @@
 
 ## Meetings
 ### Wed 02/22 01:30 PM - Ways & Means (WM): SSB 5448 Delivery of alcohol
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152762&caId=21820&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152762&caId=21820&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152762&caId=21820&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152762&caId=21820&tId=4)
+#### 4 👍 - Pro
+Testifying:
+* 💵Riley Smith - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
+* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 
-#### 0 👍 - Pro
-
-#### 0 👎 - Con
+#### 7 👎 - Con
+Testifying:
+* Marc Webster - Liquor & Cannabis Board
+* Mark McKechnie - WA Traffic Safety Commission
+* Sheri Sawyer - Office of Governor Jay Inslee
+* Scott Waller - WASAVP - Prevention First! for Safe and Healthy Communities
 
 #### 0 ❓ - Other
 

@@ -104,8 +104,9 @@
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
 * 👍💵 Carl Schroeder
 
-## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief  👎1 
+## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief  👎2 
 * 👎💵 Candice Bock
+* 👎 Lindsey Hueer
 
 ## [HB 1493](/bill/2023-24/hb/1493/) - Impaired driving 👍1  
 
@@ -150,7 +151,8 @@
 
 ## [HB 1792](/bill/2023-24/hb/1792/) - Water rights procedures 👍1  
 
-## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge   ❓1
+## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge   ❓2
+* ❓ Brandy DeLange
 * ❓ Brandy DeLange
 
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍2  

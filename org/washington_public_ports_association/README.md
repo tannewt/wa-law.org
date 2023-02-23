@@ -35,7 +35,7 @@
 ## [HB 1371](/bill/2023-24/hb/1371/) - Freight railroad infra. 👍1  
 * 👍 Chris Herman
 
-## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍1  ❓1
+## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍2  ❓1
 * ❓💵 John Stuhlmiller
 
 ## [HB 1395](/bill/2023-24/hb/1395/) - Aircraft fuel tax distrib. 👍1  
@@ -63,7 +63,8 @@
 
 ## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  
 
-## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍2  
+## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍3  
+* 👍 Chris Herman
 * 👍 Chris Herman
 * 👍 Chris Herman
 
@@ -126,7 +127,7 @@
 
 ## [SB 5429](/bill/2023-24/sb/5429/) - Motor carriers/restrooms 👍1  
 
-## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures   ❓1
+## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍1  ❓1
 * ❓💵 John Stuhlmiller
 
 ## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍2  

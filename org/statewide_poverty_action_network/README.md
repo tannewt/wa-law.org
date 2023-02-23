@@ -17,7 +17,7 @@
 
 ## [HB 1218](/bill/2023-24/hb/1218/) - Caseload forecast/tax credit 👍1  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍2  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍3  
 
 ## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍5  
 * 👍💵 Lianna Kressin
@@ -29,7 +29,7 @@
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍2  
 
-## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍2  
+## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍3  
 
 ## [HB 1392](/bill/2023-24/hb/1392/) - Electronics repair 👍2  
 
@@ -44,24 +44,25 @@
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍4  
 * 👍💵 Shaun Scott
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍3  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍5  
+* 👍💵 Shaun Scott
 * 👍💵 Shaun Scott
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍2  
 
 ## [HB 1499](/bill/2023-24/hb/1499/) - Food assistance funding 👍1  
 
-## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍1  
+## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍2  
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍2  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍3  
 
-## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍1  
+## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍2  
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
 
 ## [HB 1651](/bill/2023-24/hb/1651/) - Infraction debt 👍1  
 
-## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍2  
+## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍3  
 * 👍💵 Alex Hur
 * 👍💵 Alex Hur
 
@@ -81,11 +82,13 @@
 
 ## [SB 5134](/bill/2023-24/sb/5134/) - Reentry services & supports 👍1  
 
+## [SB 5171](/bill/2023-24/sb/5171/) - Consumer products/gender 👍1  
+
 ## [SB 5173](/bill/2023-24/sb/5173/) - Property exempt from exec. 👍1  
 
 ## [SB 5183](/bill/2023-24/sb/5183/) - Personal needs allowance 👍1  
 
-## [SB 5198](/bill/2023-24/sb/5198/) - Mobile home community sales 👍1  
+## [SB 5198](/bill/2023-24/sb/5198/) - Mobile home community sales 👍2  
 
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures 👍1  
 

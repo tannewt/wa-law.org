@@ -9,24 +9,21 @@
 
 ## Meetings
 ### Wed 02/22 01:30 PM - Ways & Means (WM): SSB 5322 Public building materials
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152378&caId=21735&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152378&caId=21735&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152378&caId=21735&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152378&caId=21735&tId=4)
-
-#### 313 👍 - Pro
+#### 334 👍 - Pro
 Testifying:
 * Patrick Jablonski - [Nucor Steel Seattle Inc](/org/nucor_steel_seattle_inc/)
 * 💵Darcy Nonemacher - [Washington Conservation Action](/org/washington_conservation_action/)
 * 💵Mark Riker - WA State Building and Construction Trades Council
 * Hanna Waterstrat - WA Department of Commerce (SEEP)
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Aubrey Newton - LIUNA Washington and northern Idaho district council of laborers
 
-#### 6 👎 - Con
+#### 25 👎 - Con
 Testifying:
 * 💵Brandon Houskeeper - [American Wood Council](/org/american_wood_council/)
 * Tom Davis - WA Forest Protection Association
+* 💵Sophia Steele - Associated Builders and Contractors
+* 💵Bruce Chattin - WA Aggergates & Concrete Assn
 
 #### 0 ❓ - Other
 

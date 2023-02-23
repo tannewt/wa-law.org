@@ -8,20 +8,14 @@
 
 ## Meetings
 ### Wed 02/22 09:00 AM - Capital Budget (CB): HB 1777 Energy contracting
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152639&caId=21812&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152639&caId=21812&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152639&caId=21812&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152639&caId=21812&tId=4)
-
-#### 85 👍 - Pro
+#### 111 👍 - Pro
 Testifying:
 * Brian Solan
 * Councilmember Lisa Parshley - Olympia City Council
 * Ash Awad - McKinstry
 * Tony Usibelli - Usibelli Consulting
 
-#### 8 👎 - Con
+#### 22 👎 - Con
 
 #### 0 ❓ - Other
 

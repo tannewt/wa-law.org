@@ -2,6 +2,8 @@
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
 
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
+
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
@@ -20,10 +22,14 @@
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
 
+## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍1  
+
 ## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍2  
 * 👍💵 Megan Veith
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍3  
+
+## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍1  
 
 ## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍2  
 

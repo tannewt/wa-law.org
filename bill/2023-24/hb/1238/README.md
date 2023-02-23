@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1238 Free school meals
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152420&caId=21772&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152420&caId=21772&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152420&caId=21772&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152420&caId=21772&tId=4)
-
-#### 395 👍 - Pro
+#### 508 👍 - Pro
 Testifying:
 * 💵Mitch Denning - WA Assn of Maintenance and Operation Administrators
 * Rusanne Modeland
@@ -27,10 +21,15 @@ Testifying:
 * Megan deVries - Edmonds Food and Nutrition Dept
 * Laurie Dent - Sumner-Bonney Lake  School District
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
+* Karen Brown - Franklin Pierce Schools
+* Mikhail Cherniske - Office of Superintendent of Public Instruction
+* Katelyn Jones
+* Kimberly Umayam
 
-#### 9 👎 - Con
+#### 33 👎 - Con
 Testifying:
 * Laurie Layne
+* Laurie A Layne
 
 #### 0 ❓ - Other
 

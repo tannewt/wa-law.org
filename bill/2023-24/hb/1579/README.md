@@ -9,24 +9,20 @@
 
 ## Meetings
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1579 Independent prosecutions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152424&caId=21776&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152424&caId=21776&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152424&caId=21776&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152424&caId=21776&tId=4)
-
-#### 294 👍 - Pro
+#### 432 👍 - Pro
 Testifying:
 * Nina Martinez - Latino Civic Alliance
 * 💵Paul Benz - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 * Debbie Novak - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 * Fred Thomas - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 
-#### 8 👎 - Con
+#### 26 👎 - Con
 Testifying:
 * Paul Giuglianotti
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * Teri Rogers Kemp
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Ali Hohman - WA Defender Assn/WA Assn of Criminal Defense Lawyers
 
 #### 1 ❓ - Other
 Testifying:

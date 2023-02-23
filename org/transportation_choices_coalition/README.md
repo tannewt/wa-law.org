@@ -17,7 +17,8 @@
 ## [HB 1674](/bill/2023-24/hb/1674/) - Roadway users/trucks & SUVs 👍1  
 * 👍💵 Bryce Yadon
 
-## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge   ❓1
+## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge   ❓2
+* ❓💵 Bryce Yadon
 * ❓💵 Bryce Yadon
 
 ## [SB 5216](/bill/2023-24/sb/5216/) - Collisions/driver reexam 👍1  

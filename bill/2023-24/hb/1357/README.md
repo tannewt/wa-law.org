@@ -15,11 +15,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152442&caId=21793&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152442&caId=21793&tId=4)
 
-#### 15 👍 - Pro
+#### 27 👍 - Pro
+Testifying:
+* 💵Sean Graham - Washington State Medical Assocation (WSMA)
+* Ruchi Kapoor - American College of Cardiology
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Peggi Lewis Fu - [Association of Washington Healthcare Plans](/org/association_of_washington_healthcare_plans/)
 
 ### Wed 01/25 01:30 PM - Health Care & Wellness (HCW): HB 1357 Prior authorization/health
 #### 70 👍 - Pro

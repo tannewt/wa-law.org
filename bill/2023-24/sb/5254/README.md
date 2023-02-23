@@ -9,20 +9,17 @@
 
 ## Meetings
 ### Wed 02/22 01:30 PM - Ways & Means (WM): SSB 5254 Leasing of state lands
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152380&caId=21737&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152380&caId=21737&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152380&caId=21737&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152380&caId=21737&tId=4)
-
-#### 33 👍 - Pro
+#### 49 👍 - Pro
 Testifying:
 * Randy Johnson
+* 💵Heath Heikkila - American Forest Resource Council
+* Tom Lannen - Skamania County Commissioners-Trust Beneficiary
 
-#### 3 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * Duane Emmons - Washington Department of Natural Resources
 * Craig Soehren - Washington Realtors
+* Chelsea Hajny - Executive Vice-President Washington Cattlemen's Association
 
 #### 0 ❓ - Other
 

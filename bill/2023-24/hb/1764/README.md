@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 02/21 08:00 AM - Finance (FIN): HB 1764 Asphalt & agg. valuation

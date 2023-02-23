@@ -75,6 +75,8 @@
 
 ## [HB 1241](/bill/2023-24/hb/1241/) - Harassment 👍1  
 
+## [HB 1242](/bill/2023-24/hb/1242/) - Behavioral health work group 👍1  
+
 ## [HB 1255](/bill/2023-24/hb/1255/) - Health care prof. SUD prg. 👍2  
 
 ## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍1  
@@ -93,7 +95,7 @@
 
 ## [HB 1300](/bill/2023-24/hb/1300/) - Assisted reproduction fraud 👍2  
 
-## [HB 1305](/bill/2023-24/hb/1305/) - Students with disabilities 👍1  
+## [HB 1305](/bill/2023-24/hb/1305/) - Students with disabilities 👍2  
 
 ## [HB 1309](/bill/2023-24/hb/1309/) - Contractor registration 👍2  
 
@@ -109,11 +111,11 @@
 
 ## [HB 1352](/bill/2023-24/hb/1352/) - County invest. pools/tribes 👍2  
 
-## [HB 1355](/bill/2023-24/hb/1355/) - Updating property tax exemptions for service-connected disabled veterans and senior citizens. 👍1  
+## [HB 1355](/bill/2023-24/hb/1355/) - Property tax exemptions 👍1  
 
 ## [HB 1367](/bill/2023-24/hb/1367/) - Homeless funding 👍2  
 
-## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍1  
+## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍2  
 
 ## [HB 1381](/bill/2023-24/hb/1381/) - Salmon-safe communities 👍1  
 
@@ -167,20 +169,20 @@
 
 ## [HB 1504](/bill/2023-24/hb/1504/) - Elementary school recess 👍1  
 
-## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍1  
+## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍2  
 
 ## [HB 1511](/bill/2023-24/hb/1511/) - Income/child care programs 👍1  
 
 ## [HB 1512](/bill/2023-24/hb/1512/) - Missing persons 👍2  
 
-## [HB 1515](/bill/2023-24/hb/1515/) - Behavioral health contracts 👍1  
+## [HB 1515](/bill/2023-24/hb/1515/) - Behavioral health contracts 👍2  
 * 👍 Kelly Rider
 
 ## [HB 1530](/bill/2023-24/hb/1530/) - Law enf. employ. eligibility 👍1  
 
 ## [HB 1531](/bill/2023-24/hb/1531/) - Aerospace industry dev. 👍1  
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍2  
 
 ## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍2  
 
@@ -225,9 +227,13 @@
 
 ## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce 👍2  
 
-## [HB 1740](/bill/2023-24/hb/1740/) - Forestry riparian easements 👍1  
+## [HB 1740](/bill/2023-24/hb/1740/) - Forestry riparian easements 👍2  
+
+## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍1  
 
 ## [HB 1772](/bill/2023-24/hb/1772/) - Tetrahydrocannabinol & alc. 👍1  
+
+## [HB 1777](/bill/2023-24/hb/1777/) - Energy contracting 👍1  
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
 
@@ -345,6 +351,8 @@
 ## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍2  
 * 👍 Magan Cromar
 
+## [SB 5322](/bill/2023-24/sb/5322/) - Public building materials 👍1  
+
 ## [SB 5328](/bill/2023-24/sb/5328/) - Pub safety telecommunicators 👍1  
 
 ## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍2  
@@ -378,6 +386,8 @@
 ## [SB 5407](/bill/2023-24/sb/5407/) - Concerning the administration of property taxes. 👍1  
 
 ## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍1  
+
+## [SB 5424](/bill/2023-24/sb/5424/) - Flexible work/peace officers 👍1  
 
 ## [SB 5426](/bill/2023-24/sb/5426/) - Family connections program 👍1  
 
@@ -432,6 +442,8 @@
 ## [SB 5624](/bill/2023-24/sb/5624/) - Substance use recovery serv. 👍1  
 
 ## [SB 5629](/bill/2023-24/sb/5629/) - Hepatitis B and C 👍1  
+
+## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍1  
 
 ## [SB 5696](/bill/2023-24/sb/5696/) - Concerning eligibility for participation in the public employees' benefits board for retired or disabled employees of counties, municipalities, and other political subdivisions. 👍1  
 

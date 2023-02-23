@@ -9,17 +9,15 @@
 
 ## Meetings
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1389 Residential rent increases
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152532&caId=21787&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152532&caId=21787&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152532&caId=21787&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152532&caId=21787&tId=4)
-
-#### 1022 👍 - Pro
+#### 1544 👍 - Pro
 Testifying:
 * Thomas Bethea
+* Stacey Valenzuela
+* Brianna Vazquez
+* Councilmember Navarra Carr - City of Port Angeles
+* 💵Kraig Peck - smal landlord
 
-#### 786 👎 - Con
+#### 1082 👎 - Con
 Testifying:
 * GREGORY BONDY - Kandu Enterprise LLC
 * Barbara Korducki
@@ -33,15 +31,21 @@ Testifying:
 * Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * GORDON HAGGERTY
+* Matthew Gormley
 * Ronald Greer
 * carl haglund - Columbia Modern Living
 * Jennifer Lekisch
 * Patricia Hoendermis - [Yakima Valley Landlords Association](/org/yakima_valley_landlords_association/)
+* Walter Jorgensen
 * Cory Brewer
 * Amanda Roundy
 * Brandon Bramley
+* Brian Hansen
+* Michael Gustavson - Kitsap Alliance ofProperty Owners
+* Tim Eyman
+* Larry Jensen
 
-#### 9 ❓ - Other
+#### 14 ❓ - Other
 
 ### Tue 01/24 04:00 PM - Housing (HOUS): HB 1389 Residential rent increases
 #### 1581 👍 - Pro

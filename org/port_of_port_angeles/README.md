@@ -8,7 +8,7 @@
 * 👎 Connie Beauvais
 * 👎 Connie Beauvais
 
-## [SB 5254](/bill/2023-24/sb/5254/) - Leasing of state lands 👍1  
+## [SB 5254](/bill/2023-24/sb/5254/) - Leasing of state lands 👍2  
 
 ## [SB 5539](/bill/2023-24/sb/5539/) - Tax increment financing 👍2  
 

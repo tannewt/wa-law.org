@@ -9,15 +9,12 @@
 
 ## Meetings
 ### Wed 02/22 01:30 PM - Ways & Means (WM): SSB 5171 Consumer products/gender
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152766&caId=21824&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152766&caId=21824&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152766&caId=21824&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152766&caId=21824&tId=4)
+#### 60 👍 - Pro
+Testifying:
+* Benjamine Howard - Lake Washington High School
+* Tyler Nathan - Lake Washington High School
 
-#### 0 👍 - Pro
-
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

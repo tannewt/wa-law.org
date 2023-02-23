@@ -15,11 +15,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152446&caId=21797&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152446&caId=21797&tId=4)
 
-#### 145 👍 - Pro
+#### 225 👍 - Pro
 Testifying:
 * Bryce McKibben - The Hope Center for College, Community, and Justice
+* Collin Bannister - Associated Students of WSU Pullman
+* Joseph-Gabriel Burke - President, WA Student Association
+* Jennifer Dellinger - SBCTC
 
-#### 0 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other
 

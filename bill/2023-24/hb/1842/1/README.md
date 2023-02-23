@@ -1,0 +1,108 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1842](/bill/2023-24/hb/1842/) > [Original Bill](/bill/2023-24/hb/1842/1/)
+
+# HB 1842 - Ferry system salary comps.
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1842.pdf)
+
+## Section 1
+The legislature declares that it is the public policy of the state of Washington to: (1) Provide continuous operation of the Washington state ferry system at reasonable cost to users; (2) efficiently provide levels of ferry service consistent with trends and forecasts of ferry usage; (3) promote harmonious and cooperative relationships between the ferry system and its employees by permitting ferry employees to organize and bargain collectively; (4) protect the citizens of this state by assuring effective and orderly operation of the ferry system in providing for their health, safety, and welfare; (5) prohibit and prevent all strikes or work stoppages by ferry employees; (6) protect the rights of ferry employees with respect to employee organizations; and (7) promote just and fair compensation, benefits, and working conditions for ferry system employees as compared with public and private sector employees  in directly comparable but not necessarily identical positions.
+
+## Section 2
+1. Any ferry employee organization certified as the bargaining representative shall be the exclusive representative of all ferry employees in the bargaining unit and shall represent all such employees fairly.
+
+2. A ferry employee organization or organizations and the governor may each designate any individual as its representative to engage in collective bargaining negotiations.
+
+3. Negotiating sessions, including strategy meetings of the employer or employee organizations, mediation, and the deliberative process of arbitrators are exempt from the provisions of chapter 42.30 RCW. Hearings conducted by arbitrators may be open to the public by mutual consent of the parties.
+
+4. Terms of any collective bargaining agreement may be enforced by civil action in Thurston county superior court upon the initiative of either party.
+
+5. Ferry system employees or any employee organization shall not negotiate or attempt to negotiate directly with anyone other than the person who has been appointed or authorized a bargaining representative for the purpose of bargaining with the ferry employees or their representative.
+
+6. [Empty]
+
+    a. Within 10 working days after the first Monday in September of every odd-numbered year, the parties shall attempt to agree on an interest arbitrator to be used if the parties are not successful in negotiating a comprehensive collective bargaining agreement. If the parties cannot agree on an arbitrator within the 10-day period, either party may request a list of seven arbitrators from the federal mediation and conciliation service. The parties shall select an interest arbitrator using the coin toss/alternate strike method within 30 calendar days of receipt of the list. Immediately upon selecting an interest arbitrator, the parties shall cooperate to reserve dates with the arbitrator for potential arbitration between August 1st and September 15th of the following even‑numbered year. The parties shall also prepare a schedule of at least five negotiation dates for the following year, absent an agreement to the contrary. The parties shall execute a written agreement before November 1st of each odd-numbered year setting forth the name of the arbitrator and the dates reserved for bargaining and arbitration. This subsection (6)(a) imposes minimum obligations only and is not intended to define or limit a party's full, good faith bargaining obligation under other sections of this chapter.
+
+    b. The negotiation of a proposed collective bargaining agreement by representatives of the employer and a ferry employee organization shall commence on or about February 1st of every even-numbered year.
+
+    c. For negotiations covering the 2009-2011 biennium and subsequent biennia, the time periods specified in this section, and in RCW 47.64.210 and 47.64.300 through 47.64.320, must ensure conclusion of all agreements on or before October 1st of the even-numbered year next preceding the biennial budget period during which the agreement should take effect. These time periods may only be altered by mutual agreement of the parties in writing. Any such agreement and any impasse procedures agreed to by the parties under RCW 47.64.200 must include an agreement regarding the new time periods that will allow final resolution by negotiations or arbitration by October 1st of each even-numbered year.
+
+7. It is the intent of this section that the collective bargaining agreement or arbitrator's award shall commence on July 1st of each odd-numbered year and shall terminate on June 30th of the next odd-numbered year to coincide with the ensuing biennial budget year, as defined by RCW 43.88.020(7), to the extent practical. It is further the intent of this section that all collective bargaining agreements be concluded by October 1st of the even-numbered year before the commencement of the biennial budget year during which the agreements are to be in effect. After the expiration date of a collective bargaining agreement negotiated under this chapter, except to the extent provided in  RCW 47.64.270(4), all of the terms and conditions specified in the collective bargaining agreement remain in effect until the effective date of a subsequently negotiated agreement, not to exceed one year from the expiration date stated in the agreement. Thereafter, the employer may unilaterally implement according to law.
+
+8. The office of financial management shall conduct a salary survey, for use in collective bargaining and arbitration as follows:
+
+    a. The salary survey for the deck department and terminal department employees shall consist of a comparison of wages, hours, employee benefits, and conditions of employment of the involved ferry employees with those of public and private sector employees in states along the west coast of the United States, including Alaska, and in British Columbia doing directly comparable but not necessarily identical work, giving consideration to factors peculiar to the area and the classifications involved;
+
+    b. The salary survey for the masters and mates shall consist of a comparison of wages, hours, employee benefits, and conditions of employment of the involved ferry employees with those of public and private sector employees, including business entities whose operations include the movement of unlimited tonnage vessels, in the designated pilotage waters of the states along the west coast of the United States, including Alaska, doing directly comparable but not necessarily identical work, giving consideration to factors peculiar to the area, and the United States coast guard licensing requirements including the holding of first class pilot endorsements as described in 46 U.S.C. Sec. 8502, for the classifications involved;
+
+    c. The salary survey for the engine room employees shall consist of a comparison of wages, hours, employee benefits, and conditions of employment of the involved ferry employees with those of private sector shipping employees and public and private sector employees in the United States and Canada doing directly comparable but not necessarily identical work, giving consideration to factors peculiar to the area and the classifications involved;
+
+    d. The salary survey for the trades employees at the Eagle Harbor shipyard facility shall consist of a comparison of wages, hours, employee benefits, and conditions of employment of the involved ferry employees with those of public and private sector employees in the Puget Sound region and shall include the Port of Seattle maintenance facility, the Port of Tacoma maintenance facility, the King county maintenance facility, and the state prevailing wage rates for shipyard employees and building trades employees, doing directly comparable but not necessarily identical work, giving consideration to factors peculiar to the area and the classifications involved;
+
+    e. The salary survey for all other covered employees shall consist of a comparison of wages, hours, employee benefits, and conditions of employment of the involved ferry employees with those of public and private sector employees in states along the west coast of the United States, including Alaska, and in British Columbia doing directly comparable but not necessarily identical work, giving consideration to factors peculiar to the area and the classifications involved;
+
+    f. The office of financial management shall look at available collective bargaining agreements for comparable classifications to determine the wage scales for the time period beginning July 1st of the ensuing year;
+
+    g. The office of financial management shall seek the input of the employee organizations in gathering information; and
+
+    h. The office of financial management shall make an unredacted version of the final salary survey available to all bargaining parties by February 1st of the even-numbered year.
+
+9.
+
+    a. The governor shall submit a request either for funds necessary to implement the collective bargaining agreements including, but not limited to, the compensation and fringe benefit provisions or for legislation necessary to implement the agreement, or both. Requests for funds necessary to implement the collective bargaining agreements shall not be submitted to the legislature by the governor unless such requests:
+
+        i. Have been submitted to the director of the office of financial management by October 1st before the legislative session at which the requests are to be considered; and
+
+        ii. Have been certified by the director of the office of financial management as being feasible financially for the state.
+
+    b. The governor shall submit a request either for funds necessary to implement the arbitration awards or for legislation necessary to implement the arbitration awards, or both. Requests for funds necessary to implement the arbitration awards shall not be submitted to the legislature by the governor unless such requests:
+
+        i. Have been submitted to the director of the office of financial management by October 1st before the legislative session at which the requests are to be considered; and
+
+        ii. Have been certified by the director of the office of financial management as being feasible financially for the state.
+
+    c. The legislature shall approve or reject the submission of the request for funds necessary to implement the collective bargaining agreements or arbitration awards as a whole for each agreement or award. The legislature shall not consider a request for funds to implement a collective bargaining agreement or arbitration award unless the request is transmitted to the legislature as part of the governor's budget document submitted under RCW 43.88.030 and 43.88.060. If the legislature rejects or fails to act on the submission, either party may reopen all or part of the agreement and award or the exclusive bargaining representative may seek to implement the procedures provided for in RCW 47.64.210 and 47.64.300.
+
+10. If, after the compensation and fringe benefit provisions of an agreement are approved by the legislature, a significant revenue shortfall occurs resulting in reduced appropriations, as declared by proclamation of the governor or by resolution of the legislature, both parties shall immediately enter into collective bargaining for a mutually agreed upon modification of the agreement.
+
+‑
+
+## Section 3
+1. The mediator, arbitrator, or arbitration panel may consider only matters that are subject to bargaining under this chapter, except that health care benefits are not subject to interest arbitration.
+
+2. The decision of an arbitrator or arbitration panel is not binding on the legislature and, if the legislature does not approve the funds necessary to implement provisions pertaining to compensation and fringe benefit provisions of an arbitrated collective bargaining agreement, is not binding on the state, the department of transportation, or the ferry employee organization.
+
+3. In making its determination, the arbitrator or arbitration panel shall be mindful of the legislative purpose under RCW 47.64.005 and 47.64.006 and, as additional standards or guidelines to aid it in reaching a decision, shall take into consideration the following factors:
+
+    a. The financial ability of the department to pay for the compensation and fringe benefit provisions of a collective bargaining agreement;
+
+    b. Past collective bargaining contracts between the parties including the bargaining that led up to the contracts;
+
+    c. The constitutional and statutory authority of the employer;
+
+    d. Stipulations of the parties;
+
+    e. The results of the salary survey as required in RCW 47.64.170(8);
+
+    f. Comparison of wages, hours, employee benefits, and conditions of employment of the involved ferry employees as follows:
+
+        i. For the deck department and terminal department employees, a comparison of wages, hours, employee benefits, and conditions of employment of the involved ferry employees with those of public and private sector employees in states along the west coast of the United States, including Alaska, and in British Columbia doing directly comparable but not necessarily identical work, giving consideration to factors peculiar to the area and the classifications involved;
+
+        ii. For the masters and mates, a comparison of wages, hours, employee benefits, and conditions of employment of the involved ferry employees with those of public and private sector employees, including business entities whose operations include the movement of unlimited tonnage vessels, in the designated pilotage waters of the states along the west coast of the United States, including Alaska, doing directly comparable but not necessarily identical work, giving consideration to factors peculiar to the area, and the United States coast guard licensing requirements including the holding of first class pilot endorsements as described in 46 U.S.C. Sec. 8502, for the classifications involved;
+
+        iii. For the engine room employees, a comparison of wages, hours, employee benefits, and conditions of employment of the involved ferry employees with those of private sector shipping employees and public and private sector employees in the United States and Canada doing directly comparable but not necessarily identical work, giving consideration to factors peculiar to the area and the classifications involved;
+
+        iv. For the trades employees at the Eagle Harbor shipyard facility, a comparison of wages, hours, employee benefits, and conditions of employment of the involved ferry employees with those of public and private sector employees in the Puget Sound region and shall include the Port of Seattle maintenance facility, the Port of Tacoma maintenance facility, the King county maintenance facility, and the state prevailing wage rates for shipyard employees and building trades employees, doing directly comparable but not necessarily identical work, giving consideration to factors peculiar to the area and the classifications involved; and
+
+    v. For all other covered employees, a comparison of wages, hours, employee benefits, and conditions of employment of the involved ferry employees with those of public and private sector employees in states along the west coast of the United States, including Alaska, and in British Columbia doing directly comparable but not necessarily identical work, giving consideration to factors peculiar to the area and the classifications involved;
+
+    g. Changes in any of the foregoing circumstances during the pendency of the proceedings;
+
+    h. The limitations on ferry toll increases and operating subsidies as may be imposed by the legislature;
+
+    i. The ability of the state to retain ferry employees;
+
+    j. The overall compensation presently received by the ferry employees, including direct wage compensation, vacations, holidays and other paid excused time, pensions, insurance benefits, and all other direct or indirect monetary benefits received; and
+
+    k. Other factors that are normally or traditionally taken into consideration in the determination of matters that are subject to bargaining under this chapter.
+
+4. This section applies to any matter before the respective mediator, arbitrator, or arbitration panel.

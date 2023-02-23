@@ -28,4 +28,6 @@
 
 ## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍1  
 
+## [SB 5506](/bill/2023-24/sb/5506/) - Behavior support homes 👍1  
+
 ## [SB 5537](/bill/2023-24/sb/5537/) - Hospital staffing collab. 👍1  

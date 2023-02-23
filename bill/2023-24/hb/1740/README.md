@@ -8,15 +8,12 @@
 
 ## Meetings
 ### Wed 02/22 09:00 AM - Capital Budget (CB): HB 1740 Forestry riparian easements
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152637&caId=21810&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152637&caId=21810&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152637&caId=21810&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152637&caId=21810&tId=4)
-
-#### 11 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * Brian Considine - Washington Department of Natural Resources
+* Elaine Oneil - [Washington Farm Forestry Association](/org/washington_farm_forestry_association/)
+* Ken Miller - [Washington Farm Forestry Association](/org/washington_farm_forestry_association/)
+* Eric VanderWaal
 
 #### 2 👎 - Con
 

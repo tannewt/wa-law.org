@@ -21,3 +21,5 @@
 
 ## [SB 5622](/bill/2023-24/sb/5622/) - Municipal water supply 👍1  
 * 👍 Steve Worley
+
+## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice   ❓1

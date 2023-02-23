@@ -31,7 +31,7 @@
 ## [HB 1465](/bill/2023-24/hb/1465/) - Prescription cost-sharing   ❓1
 * ❓ Amanda Kost
 
-## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍1  
+## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍2  
 
 ## [HB 1488](/bill/2023-24/hb/1488/) - Working forest license plate 👍1  
 
@@ -74,7 +74,7 @@
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
 
-## [SB 5228](/bill/2023-24/sb/5228/) - Behavioral health OT 👍1  
+## [SB 5228](/bill/2023-24/sb/5228/) - Behavioral health OT 👍2  
 * 👍 Hoa Appel
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍5  

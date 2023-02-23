@@ -2,9 +2,11 @@
 
 ## [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎2 
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍2  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍4  
 
 ## [HB 1248](/bill/2023-24/hb/1248/) - Pupil transportation 👍1  
+
+## [HB 1305](/bill/2023-24/hb/1305/) - Students with disabilities 👍2  
 
 ## [HB 1386](/bill/2023-24/hb/1386/) - Youth development grants 👍1  
 
@@ -16,11 +18,12 @@
 
 ## [HB 1511](/bill/2023-24/hb/1511/) - Income/child care programs 👍1  
 
-## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍1  
+## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍3  
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍2  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍4  
+* 👍💵 Terique Scott
 
-## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍1  
+## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍2  
 
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍1  
 

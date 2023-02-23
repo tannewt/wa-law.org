@@ -15,19 +15,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152440&caId=21791&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152440&caId=21791&tId=4)
 
-#### 7 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * 💵Larry Shannon - Washington State Association for Justice
 * Patrick McGah
 * Jesse Wing - [Washington Employment Lawyers Association](/org/washington_employment_lawyers_association/)
 
-#### 6 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * Bob Battles - Association of Washington Business (AWB)
 * 💵Patrick Connor - NFIB
 * 💵Bruce Beckett - [Washington Retail Association](/org/washington_retail_association/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Remy Kerr - Washington State Hospital Association
 
 ### Tue 02/14 10:30 AM - Labor & Workplace Standards (LAWS): HB 1320 Personnel records
 #### 49 👍 - Pro

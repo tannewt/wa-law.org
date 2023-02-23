@@ -15,11 +15,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152754&caId=21818&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152754&caId=21818&tId=4)
 
-#### 0 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* Noel Hardin - Asotin County Fire Dist. # 1
+* Brian Considine - Washington State Department of Natural Resources
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Leonard Johnson - WA Fire Defense Committee & WA Fire Chiefs Association
 
 ### Fri 02/03 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1498 Aviation assurance funding
 #### 20 👍 - Pro

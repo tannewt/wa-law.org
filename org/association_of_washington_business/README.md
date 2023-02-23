@@ -97,7 +97,7 @@
 
 ## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units 👍1  
 
-## [HB 1338](/bill/2023-24/hb/1338/) - DOC ed. and vocational prgs. 👍2  
+## [HB 1338](/bill/2023-24/hb/1338/) - DOC ed. and vocational prgs. 👍3  
 
 ## [HB 1347](/bill/2023-24/hb/1347/) - Integrating community-based health assessments into foundational environmental policies to improve environmental justice.  👎1 
 * 👎💵 Peter Godlewski
@@ -163,7 +163,7 @@
 ## [HB 1505](/bill/2023-24/hb/1505/) - Alternative jet fuel 👍1  
 * 👍 Mike Ennis
 
-## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board  👎2 
+## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board  👎3 
 
 ## [HB 1509](/bill/2023-24/hb/1509/) - Community solar  👎1 
 * 👎💵 Peter Godlewski
@@ -216,7 +216,8 @@
 
 ## [HB 1686](/bill/2023-24/hb/1686/) - Salmon recovery 👍1  
 
-## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  
+## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍3  
+* 👍 Emily Shay
 
 ## [HB 1720](/bill/2023-24/hb/1720/) - Riparian grant program 👍1  
 * 👍 Mike Ennis

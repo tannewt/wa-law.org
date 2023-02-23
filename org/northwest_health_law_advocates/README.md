@@ -17,7 +17,8 @@
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
 
-## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍1  
+## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍2  
+* 👍💵 Emily Brice
 * 👍💵 Emily Brice
 
 ## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍2  

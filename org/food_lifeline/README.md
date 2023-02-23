@@ -41,18 +41,18 @@
 
 ## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍5  
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍2  
 
-## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍2  
+## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍3  
 
-## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍1  
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍2  
 
-## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍1  
+## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍2  
 * 👍💵 Aaron Czyzewski
 
 ## [HB 1603](/bill/2023-24/hb/1603/) - Agricultural products promo. 👍1  
 
-## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍1  
+## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍2  
 
 ## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  
 

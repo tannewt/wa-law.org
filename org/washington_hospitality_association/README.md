@@ -84,7 +84,8 @@
 
 ## [SB 5429](/bill/2023-24/sb/5429/) - Motor carriers/restrooms  👎1 
 
-## [SB 5448](/bill/2023-24/sb/5448/) - Delivery of alcohol 👍1  
+## [SB 5448](/bill/2023-24/sb/5448/) - Delivery of alcohol 👍2  
+* 👍💵 Riley Smith
 * 👍💵 Riley Smith
 
 ## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍3  

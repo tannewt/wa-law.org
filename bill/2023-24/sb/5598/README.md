@@ -9,23 +9,23 @@
 
 ## Meetings
 ### Wed 02/22 01:30 PM - Ways & Means (WM): SSB 5598 Horses/funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152385&caId=21742&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152385&caId=21742&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152385&caId=21742&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152385&caId=21742&tId=4)
-
-#### 188 👍 - Pro
+#### 344 👍 - Pro
 Testifying:
 * 💵Sara Stewart - Evergreen Equestrian Club
 * MARYANN O'CONNELL - WA Horsemen's Benevolent & Protective Assn
 * Mike Lydon - Dayton Days
 * Doug Moore - Washington Horse Racing Commission
 * 💵Dennis Eagle - WA Federation of State Employees
+* Elsa Pedroza
+* LEA SUAFA - Emerald Downs
+* Kari Toye - Ottb-
+* Dorothy Powell
+* Nick Leisos
 
-#### 120 👎 - Con
+#### 168 👎 - Con
 Testifying:
 * Amanda Fox - Animal Rights Initiative
+* Wendy Linton
 
 #### 1 ❓ - Other
 

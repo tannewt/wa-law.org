@@ -8,22 +8,17 @@
 
 ## Meetings
 ### Wed 02/22 08:00 AM - Finance (FIN): HB 1729 Hydrogen fuel products
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30830&aId=152101&caId=21637&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30830&aId=152101&caId=21637&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30830&aId=152101&caId=21637&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30830&aId=152101&caId=21637&tId=4)
-
-#### 23 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * Michelle Detwiler - [Renewable Hydrogen Alliance](/org/renewable_hydrogen_alliance/)
 * 💵Troy Nichols - [Phillips 66](/org/phillips_66/)
 * Derek Phelps - [Twelve](/org/twelve/)
 * 💵Dave Warren - WA Green Hydrogen Alliance
 
-#### 151 👎 - Con
+#### 236 👎 - Con
 Testifying:
 * Carter Burns
+* Beryl Emberson-Nash
 
 #### 1 ❓ - Other
 Testifying:

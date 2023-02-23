@@ -134,7 +134,8 @@
 
 ## [HB 1291](/bill/2023-24/hb/1291/) - Academic employee bargaining 👍1  
 
-## [HB 1305](/bill/2023-24/hb/1305/) - Students with disabilities   ❓1
+## [HB 1305](/bill/2023-24/hb/1305/) - Students with disabilities   ❓2
+* ❓ Jared Mason-Gere
 * ❓ Jared Mason-Gere
 
 ## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options 👍1  

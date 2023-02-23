@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 02/08 04:00 PM - Appropriations (APP): HB 1169 Legal financial obligations

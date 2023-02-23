@@ -62,7 +62,8 @@
 
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍1  
 
-## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍1  
+## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍2  
+* 👍💵 Hannah Woerner
 * 👍💵 Hannah Woerner
 
 ## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief 👍2  
@@ -99,7 +100,7 @@
 
 ## [SB 5197](/bill/2023-24/sb/5197/) - Eviction processes 👍1  
 
-## [SB 5198](/bill/2023-24/sb/5198/) - Mobile home community sales 👍1  
+## [SB 5198](/bill/2023-24/sb/5198/) - Mobile home community sales 👍2  
 
 ## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I 👍1  
 

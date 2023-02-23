@@ -13,7 +13,9 @@
 
 ## [HB 1399](/bill/2023-24/hb/1399/) - Native American scholarships 👍1  
 
-## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍1  
+## [HB 1522](/bill/2023-24/hb/1522/) - Sexual misconduct/assocs. 👍1  
+
+## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍2  
 
 ## [HB 1564](/bill/2023-24/hb/1564/) - OTC sexual assault kits 👍1  
 

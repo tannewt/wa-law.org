@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Wed 02/22 09:00 AM - Capital Budget (CB): SHB 1111 Housing benefit districts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152634&caId=21807&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152634&caId=21807&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152634&caId=21807&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30833&aId=152634&caId=21807&tId=4)
-
-#### 81 👍 - Pro
+#### 101 👍 - Pro
 Testifying:
 * 💵Briahna Murray - [City of Tacoma](/org/city_of_tacoma/)
 * Nicholas Carr - Tacoma Housing Authority
@@ -23,7 +17,7 @@ Testifying:
 * Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
 * Lacey Jane Wolfe - [City of Bellevue](/org/city_of_bellevue/)
 
-#### 7 👎 - Con
+#### 26 👎 - Con
 
 #### 0 ❓ - Other
 

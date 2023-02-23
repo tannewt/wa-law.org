@@ -8,21 +8,21 @@
 
 ## Meetings
 ### Wed 02/22 01:30 PM - Appropriations (APP): HB 1614 Home cultivation of cannabis
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152459&caId=21783&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152459&caId=21783&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152459&caId=21783&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152459&caId=21783&tId=4)
-
-#### 5 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * John Kingsbury - the Cannabis Alliance
 * John Kingsbury - the Cannabis Alliance
 * 💵Lara Kaminsky - the Cannabis Alliance
+* Joshua Rutherford
+* James MacRae - Self - Testifying by phone
 
-#### 0 👎 - Con
+#### 21 👎 - Con
+Testifying:
+* Scott Waller - WASAVP - Prevention First! for Safe and Healthy Communities
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 
 ### Thu 02/02 08:00 AM - Regulated Substances & Gaming (RSG): HB 1614 Home cultivation of cannabis
 #### 89 👍 - Pro

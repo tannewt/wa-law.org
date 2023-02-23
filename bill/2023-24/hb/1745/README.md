@@ -15,12 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152450&caId=21799&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152450&caId=21799&tId=4)
 
-#### 8 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * 💵Erin Dziedzic - [Leukemia & Lymphoma Society](/org/leukemia_&_lymphoma_society/)
 * 💵Lyset Cadena - Andy Hill CARE Fund
+* 💵Ian Goodhew - UW Medicine
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

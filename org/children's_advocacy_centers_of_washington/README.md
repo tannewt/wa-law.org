@@ -1,6 +1,6 @@
 # Children's Advocacy Centers of Washington
 
-## [HB 1439](/bill/2023-24/hb/1439/) - Child exposure to violence 👍2  
+## [HB 1439](/bill/2023-24/hb/1439/) - Child exposure to violence 👍3  
 * 👍 PAULA REED
 * 👍 Paula Reed
 
@@ -9,6 +9,8 @@
 ## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍1  
 
 ## [HB 1618](/bill/2023-24/hb/1618/) - Childhood sexual abuse/SOL 👍1  
+
+## [HB 1715](/bill/2023-24/hb/1715/) - Domestic violence  👎1 
 
 ## [HB 1766](/bill/2023-24/hb/1766/) - Protection orders/hope cards 👍1  
 

@@ -69,8 +69,9 @@
 
 ## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware   ❓1
 
-## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍1  
+## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍1  ❓1
 * 👍💵 Mark Johnson
+* ❓💵 Mark Johnson
 
 ## [HB 1638](/bill/2023-24/hb/1638/) - State trooper recruitment 👍1  
 * 👍💵 Mark Johnson

@@ -31,6 +31,8 @@
 ## [HB 1200](/bill/2023-24/hb/1200/) - Employee information/unions   ❓1
 * ❓💵 Mike Hoover
 
+## [HB 1205](/bill/2023-24/hb/1205/) - Service by pub./dependency 👍1  
+
 ## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting   ❓1
 * ❓💵 Paul Jewell
 
@@ -146,7 +148,8 @@
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 * ❓💵 Mike Hoover
 
-## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial 👍1  
+## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial 👍2  
+* 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 
 ## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity   ❓1

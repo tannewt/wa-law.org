@@ -9,28 +9,26 @@
 
 ## Meetings
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1715 Domestic violence
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152460&caId=21784&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152460&caId=21784&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152460&caId=21784&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152460&caId=21784&tId=4)
-
-#### 11 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Nina Martinez - Latino Civic Alliance
 * Diane Rosenfeld - Harvard Law School, Gender Violence Program
 * Annie Murphey - Spokane Regional Domestic Violence Coalition
 * Jim Bamberger - Office of Civil Legal Aid
 
-#### 11 👎 - Con
+#### 21 👎 - Con
 Testifying:
 * Margaret Hobart
 * Ann Simpson - Mariposa House
 * Kris Camenzind - Hope Alliance
 * Natalie Burton
 * Suzi Fode - New Hope and Kids Hope
+* Nan Stoops - WA State Coalition Against Domestic Violence
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 ### Mon 02/13 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1715 Domestic violence
 #### 8 👍 - Pro

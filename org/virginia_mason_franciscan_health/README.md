@@ -6,6 +6,9 @@
 
 ## [HB 1357](/bill/2023-24/hb/1357/) - Prior authorization/health 👍1  
 
+## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board  👎1 
+* 👎💵 Katherine Mahoney
+
 ## [HB 1643](/bill/2023-24/hb/1643/) - Nurse student loan repayment 👍1  
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎2 

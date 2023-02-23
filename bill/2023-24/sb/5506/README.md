@@ -9,17 +9,15 @@
 
 ## Meetings
 ### Wed 02/22 01:30 PM - Ways & Means (WM): SSB 5506 Behavior support homes
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152765&caId=21823&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152765&caId=21823&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152765&caId=21823&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152765&caId=21823&tId=4)
+#### 15 👍 - Pro
+Testifying:
+* 💵Diana Stadden - The Arc of WA State
+* Beth Florea
+* 💵Arzu Forough - Washington Autism Alliance
 
-#### 0 👍 - Pro
+#### 1 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 3 ❓ - Other
 
 ### Thu 02/02 08:00 AM - Human Services (HS): SB 5506 Behavior support homes
 #### 60 👍 - Pro

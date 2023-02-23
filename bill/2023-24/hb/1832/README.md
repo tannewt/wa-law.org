@@ -7,6 +7,42 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 02/23 12:00 PM - Transportation (TR): HB 1832 Vehicle per mile charge
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30825&aId=152782&caId=21828&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30825&aId=152782&caId=21828&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30825&aId=152782&caId=21828&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30825&aId=152782&caId=21828&tId=4)
+
+#### 3 👍 - Pro
+Testifying:
+* Ryan Mello - Pierce County Council, District 4
+* Tom Thiersch
+* Sharon Nelson
+
+#### 579 👎 - Con
+Testifying:
+* Dave Gent - Washington Asphalt Pavement Assoc. (WAPA)
+* Jerry VanderWood - Associated General Contractors (AGC)
+* Mike Ennis - Association of Washington Business (AWB)
+* 💵Sheri Call - Washington Trucking Associations
+* Eric pratt - America
+* Mary Long - Conservative Ladies of Washington
+* john Worthington
+* Charles Prestrud - Washington Policy Center
+* John Peeples - United States of America
+* Tim Eyman
+
+#### 7 ❓ - Other
+Testifying:
+* Ashley Probart - Transportation Improvement Board
+* Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Will Knedlik - Washington State Good Roads and Transportation Association
+* 💵Marian Dacca - Washington Public Ports Assn.
+* 💵Bryce Yadon - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
+* Ben Bakkenta - Puget Sound Regional Council
+* Kelly Wright
+
 ### Tue 02/21 01:30 PM - Transportation (TR): HB 1832 Vehicle per mile charge
 #### 54 👍 - Pro
 Testifying:

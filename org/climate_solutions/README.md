@@ -53,6 +53,8 @@
 ## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge 👍1  
 * 👍💵 Leah Missik
 
+## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial  👎1 
+
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1  
 
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  

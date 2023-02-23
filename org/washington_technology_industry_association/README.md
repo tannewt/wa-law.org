@@ -10,7 +10,7 @@
 
 ## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍2  
 
-## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  
+## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍2  
 
 ## [HB 1793](/bill/2023-24/hb/1793/) - Wireless devices tax  👎1 
 * 👎💵 Kelly Fukai

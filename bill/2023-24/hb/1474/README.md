@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1474 Covenant homeownership prg.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152533&caId=21788&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152533&caId=21788&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152533&caId=21788&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152533&caId=21788&tId=4)
-
-#### 294 👍 - Pro
+#### 513 👍 - Pro
 Testifying:
 * 💵Shaun Scott
 * Patience Malaba - Housing Development Consortium
@@ -26,8 +20,12 @@ Testifying:
 * Cliff Cawthon - Habitat for Humanity Seattle-King County
 * Dawason Goes-Behind - Habitat for Humanity of Seattle-King & Kittitas Counties
 * Lila Grant - Habitat for Humanity of Seattle-King & Kittitas Counties
+* 💵Nathan Gorton - Washington REALTORS
+* 💵Shaun Scott - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 
-#### 24 👎 - Con
+#### 270 👎 - Con
+Testifying:
+* Sandy Rozumny
 
 #### 1 ❓ - Other
 

@@ -42,6 +42,8 @@
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1  
 * 👍💵 Darcy Nonemacher
 
+## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial  👎1 
+
 ## [SB 5093](/bill/2023-24/sb/5093/) - Climate response strategy 👍1  
 
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍2  
@@ -76,6 +78,8 @@
 
 ## [SB 5391](/bill/2023-24/sb/5391/) - Embodied carbon reductions   ❓1
 * ❓💵 Darcy Nonemacher
+
+## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍1  
 
 ## [SB 5667](/bill/2023-24/sb/5667/) - Forestry riparian easements  👎1 
 * 👎💵 Darcy Nonemacher

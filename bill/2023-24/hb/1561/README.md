@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 02/07 08:00 AM - Finance (FIN): HB 1561 Public utility tax exemption

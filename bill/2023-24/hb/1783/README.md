@@ -8,15 +8,9 @@
 
 ## Meetings
 ### Wed 02/22 01:30 PM - Appropriations (APP): HB 1783 Grant writers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152427&caId=21779&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152427&caId=21779&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152427&caId=21779&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152427&caId=21779&tId=4)
+#### 13 👍 - Pro
 
-#### 3 👍 - Pro
-
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

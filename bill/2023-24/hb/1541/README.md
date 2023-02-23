@@ -9,22 +9,20 @@
 
 ## Meetings
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1541 Lived experience
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152705&caId=21815&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152705&caId=21815&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152705&caId=21815&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152705&caId=21815&tId=4)
-
-#### 113 👍 - Pro
+#### 253 👍 - Pro
 Testifying:
 * Mary Jean Lord
 * Carol Sullivan - League of Women Voters of WA
 * 💵Karen Johnson - Washington State Office of Equity
+* Kristin DiBiase - Governor's Committee on Disability Issues and Employment
 * Craig Sicilia - TBI Network
+* 💵Terique Scott - [League of Education Voters](/org/league_of_education_voters/)
 
-#### 2 👎 - Con
+#### 288 👎 - Con
+Testifying:
+* Eric Pratt
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Fri 02/03 08:00 AM - State Government & Tribal Relations (SGOV): HB 1541 Lived experience
 #### 271 👍 - Pro

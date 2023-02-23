@@ -11,6 +11,8 @@
 
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍1  
 
+## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief  👎1 
+
 ## [HB 1519](/bill/2023-24/hb/1519/) - Local project review   ❓2
 * ❓💵 Nick Federici
 * ❓💵 Nick Federici
@@ -23,5 +25,7 @@
 
 ## [SB 5364](/bill/2023-24/sb/5364/) - Lot splitting   ❓1
 * ❓💵 Luke Esser
+
+## [SB 5424](/bill/2023-24/sb/5424/) - Flexible work/peace officers 👍1  
 
 ## [SB 5509](/bill/2023-24/sb/5509/) - Public infrastructure bank 👍1  

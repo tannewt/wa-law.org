@@ -9,25 +9,25 @@
 
 ## Meetings
 ### Wed 02/22 01:30 PM - Ways & Means (WM): SSB 5057 Energy standards/commercial
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152377&caId=21734&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152377&caId=21734&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152377&caId=21734&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152377&caId=21734&tId=4)
-
-#### 21 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * Travis Bown - Washington Association Of Maintenance & Operations Administrators
 * 💵Greg Hanon - NAIOP
 * Travis Hanson - Deer Park School District
 * Doug Vanderleest - [Franklin Pierce School District](/org/franklin_pierce_school_district/)
+* Darrell Jennings - State Board for Community and Technical Colleges
 * Remy Kerr - Washington State Hospital Association
+* Charlie Brown - Pierce County Superintendents, Federal Way SD and Schools Coalition
 * Kari Magill - Rowley Properties, Inc.
+* Tim Carr - Meydenbauer Center
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 27 👎 - Con
+#### 41 👎 - Con
 Testifying:
 * Anna Lising - Governor's Office
 * Emily Salzberg - Department of Commerce
+* 💵Amy Wheeless - NW Energy Coalition
+* Kerry Meade - Northwest Energy Efficiency Council
 
 #### 0 ❓ - Other
 

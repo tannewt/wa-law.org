@@ -14,9 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152433&caId=21790&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152433&caId=21790&tId=4)
 
-#### 106 👍 - Pro
+#### 141 👍 - Pro
+Testifying:
+* Bill Kramer - Purchaser Business Group on Health
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* 💵Erin Dziedzic - Patient Coalition of Washington
 
-#### 9 👎 - Con
+#### 20 👎 - Con
+Testifying:
+* 💵Sean Graham - Washington State Medical Assocation (WSMA)
+* MD, Mika Sinanan - Washington State Medical Association (WSMA)
+* 💵Katherine Mahoney - [Virginia Mason Franciscan Health](/org/virginia_mason_franciscan_health/)
+* Katie Kolan - Washington State Hospital Association
 
 #### 0 ❓ - Other
 

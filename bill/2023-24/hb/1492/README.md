@@ -9,25 +9,25 @@
 
 ## Meetings
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1492 State v. Blake relief
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152457&caId=21781&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152457&caId=21781&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152457&caId=21781&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30811&aId=152457&caId=21781&tId=4)
-
-#### 49 👍 - Pro
+#### 54 👍 - Pro
 Testifying:
 * Grace O'Connor - Washington State Office of Public Defense
 * Ali Hohman - [Washington Defender Association](/org/washington_defender_association/)
 * Corey Guilmette - Civil Survival
 * Philippe Knab - The Washington State Office of Civil Legal Aid
 
-#### 5 👎 - Con
+#### 26 👎 - Con
 Testifying:
 * Laurie Layne
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Laurie A Layne
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Josie Delvin - Washington State Association of County Clerks
+* 💵Rowland Thompson - Allied Daily Newspapers, WA Newspaper Publishers Assn, WA State Assn of Broadcasters
 
 ### Wed 01/25 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1492 State v. Blake relief
 #### 51 👍 - Pro

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 02/20 08:00 AM - Finance (FIN): HB 1453 Medical cannabis/tax

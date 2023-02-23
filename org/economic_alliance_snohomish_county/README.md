@@ -1,6 +1,6 @@
 # Economic Alliance Snohomish County
 
-## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍2  
+## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍3  
 * 👍 Garry Clark
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  

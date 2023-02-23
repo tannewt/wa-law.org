@@ -9,21 +9,17 @@
 
 ## Meetings
 ### Wed 02/22 01:30 PM - Ways & Means (WM): SSB 5425 Fire sprinkler contractors
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152387&caId=21744&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152387&caId=21744&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152387&caId=21744&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30851&aId=152387&caId=21744&tId=4)
-
-#### 168 👍 - Pro
+#### 185 👍 - Pro
 Testifying:
 * Kevin Johnston - Red Hawk Fire Protection
 * Pat Dillon - Fire Chief Equipment
 * Scott Peterson - UA Sprinkler Fitters Local 699
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Ashton Wolfe - Wolfe Fire Protection, Inc
 
 ### Tue 02/07 10:30 AM - Labor & Commerce (LC): SB 5425 Fire sprinkler contractors
 #### 225 👍 - Pro
