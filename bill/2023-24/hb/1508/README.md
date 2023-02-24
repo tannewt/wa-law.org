@@ -8,26 +8,23 @@
 
 ## Meetings
 ### Thu 02/23 09:00 AM - Appropriations (APP): HB 1508 Health care cost board
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152433&caId=21790&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152433&caId=21790&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152433&caId=21790&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152433&caId=21790&tId=4)
-
-#### 141 👍 - Pro
+#### 152 👍 - Pro
 Testifying:
 * Bill Kramer - Purchaser Business Group on Health
 * 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 * 💵Erin Dziedzic - Patient Coalition of Washington
+* Bob Crittenden - Individual
 
-#### 20 👎 - Con
+#### 47 👎 - Con
 Testifying:
 * 💵Sean Graham - Washington State Medical Assocation (WSMA)
 * MD, Mika Sinanan - Washington State Medical Association (WSMA)
 * 💵Katherine Mahoney - [Virginia Mason Franciscan Health](/org/virginia_mason_franciscan_health/)
 * Katie Kolan - Washington State Hospital Association
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Melissa Johnson - APTA Washington
 
 ### Wed 02/01 01:30 PM - Health Care & Wellness (HCW): HB 1508 Health care cost board
 #### 184 👍 - Pro

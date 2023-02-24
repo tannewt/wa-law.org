@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Thu 02/23 09:00 AM - Appropriations (APP): SHB 1522 Sexual misconduct/assocs.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152778&caId=21826&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152778&caId=21826&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152778&caId=21826&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152778&caId=21826&tId=4)
-
-#### 49 👍 - Pro
+#### 60 👍 - Pro
 Testifying:
 * Jacob Vigdor - University of Washington Faculty/Council of Faculty
 * Naira Gonzales Aranda - Associated Students of Western Washington University

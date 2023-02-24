@@ -15,11 +15,13 @@
 
 ## [HB 1340](/bill/2023-24/hb/1340/) - Health professions/conduct 👍1  
 
-## [HB 1357](/bill/2023-24/hb/1357/) - Prior authorization/health 👍1  
+## [HB 1357](/bill/2023-24/hb/1357/) - Prior authorization/health 👍2  
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
 
-## [HB 1745](/bill/2023-24/hb/1745/) - Diversity in clinical trials 👍1  
+## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍1  
+
+## [HB 1745](/bill/2023-24/hb/1745/) - Diversity in clinical trials 👍2  
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
 

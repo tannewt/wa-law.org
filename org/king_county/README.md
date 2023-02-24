@@ -145,7 +145,7 @@
 
 ## [HB 1436](/bill/2023-24/hb/1436/) - Special education funding 👍1  
 
-## [HB 1439](/bill/2023-24/hb/1439/) - Child exposure to violence 👍1  
+## [HB 1439](/bill/2023-24/hb/1439/) - Child exposure to violence 👍2  
 
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍1  
 
@@ -241,7 +241,7 @@
 
 ## [HB 1795](/bill/2023-24/hb/1795/) - Estate tax 👍1  
 
-## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge   ❓1
+## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge   ❓2
 
 ## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment   ❓1
 * ❓ Brad Finegood

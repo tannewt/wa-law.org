@@ -9,27 +9,22 @@
 
 ## Meetings
 ### Thu 02/23 09:00 AM - Appropriations (APP): SHB 1320 Personnel records
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152440&caId=21791&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152440&caId=21791&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152440&caId=21791&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152440&caId=21791&tId=4)
-
-#### 11 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * 💵Larry Shannon - Washington State Association for Justice
 * Patrick McGah
 * Jesse Wing - [Washington Employment Lawyers Association](/org/washington_employment_lawyers_association/)
 
-#### 9 👎 - Con
+#### 41 👎 - Con
 Testifying:
 * Bob Battles - Association of Washington Business (AWB)
 * 💵Patrick Connor - NFIB
 * 💵Bruce Beckett - [Washington Retail Association](/org/washington_retail_association/)
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Remy Kerr - Washington State Hospital Association
+* 💵Candice Bock - Association of Washington cities
 
 ### Tue 02/14 10:30 AM - Labor & Workplace Standards (LAWS): HB 1320 Personnel records
 #### 49 👍 - Pro

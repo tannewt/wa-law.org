@@ -8,19 +8,14 @@
 
 ## Meetings
 ### Thu 02/23 12:00 PM - Transportation (TR): HB 1832 Vehicle per mile charge
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30825&aId=152782&caId=21828&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30825&aId=152782&caId=21828&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30825&aId=152782&caId=21828&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30825&aId=152782&caId=21828&tId=4)
-
-#### 3 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Ryan Mello - Pierce County Council, District 4
 * Tom Thiersch
 * Sharon Nelson
+* 💵Jeremy Tillunger - Via Transportation
 
-#### 579 👎 - Con
+#### 1130 👎 - Con
 Testifying:
 * Dave Gent - Washington Asphalt Pavement Assoc. (WAPA)
 * Jerry VanderWood - Associated General Contractors (AGC)
@@ -32,16 +27,22 @@ Testifying:
 * Charles Prestrud - Washington Policy Center
 * John Peeples - United States of America
 * Tim Eyman
+* Jeff Pack - Washington Citizens Against Unfair Taxes
+* Tyler Bell
 
-#### 7 ❓ - Other
+#### 15 ❓ - Other
 Testifying:
 * Ashley Probart - Transportation Improvement Board
 * Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Will Knedlik - Washington State Good Roads and Transportation Association
 * 💵Marian Dacca - Washington Public Ports Assn.
 * 💵Bryce Yadon - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
+* Kate White Tudor - Natural Resources Defense Council
+* Justin Greywolf
 * Ben Bakkenta - Puget Sound Regional Council
 * Kelly Wright
+* 💵Axel Swanson - Washington State Association of County Engineers
+* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
 ### Tue 02/21 01:30 PM - Transportation (TR): HB 1832 Vehicle per mile charge
 #### 54 👍 - Pro

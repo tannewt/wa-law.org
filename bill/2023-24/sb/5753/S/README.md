@@ -1,0 +1,26 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5753](/bill/2023-24/sb/5753/) > [Substitute Bill](/bill/2023-24/sb/5753/S/)
+
+# SB 5753 - WSDOT-Lummi Tribe/roadway
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5753-S.pdf)
+
+## Section 1
+1. The department is authorized to enter into a cooperative agreement with the governing authority of the Lummi Nation and appropriate agencies of the United States for the location, design, right-of-way acquisition, construction, and maintenance of a public road beginning on Rural Avenue at the southern boundary of the Ferndale city limits, traveling across the property held in tribal trust status by the United States for the Lummi Nation, and connect to the approximate location of where the Ferndale city limits intersect Kope Road. The new road segment shall be named after construction is concluded.
+
+2. The definitions in this subsection apply throughout this section and sections 2 through 5 of this act unless context clearly requires otherwise.
+
+    a. "Agreement" means the cooperative agreement between the department, the governing authority of the Lummi Nation, and agencies of the United States, as authorized by subsection (1) of this section.
+
+    b. "Roadway" means the public road segment constructed pursuant to the agreement authorized by subsection (1) of this section.
+
+## Section 2
+The Lummi Nation shall assume responsibility for the operation and maintenance and future improvement of the roadway. The agreement shall also reserve to the governing authority of the Lummi Nation authority to construct road intersections or grade separation crossings of the roadway.
+
+## Section 3
+The department is authorized to determine the location of the roadway in consultation with and approval by the governing authority of the Lummi Nation. The department may then proceed with the establishment of the roadway and transfer of the roadway to the Lummi Nation to be operated and maintained as a public road.
+
+## Section 4
+The department is authorized to acquire the remaining right-of-way for the roadway with an easement provided by the Lummi Nation. The secretary pursuant to the agreement is authorized to convey by deed to the Lummi Nation the right-of-way to the entire roadway when fully acquired in return for a conveyance by the governing authority of the Lummi Nation to the state of Washington of a perpetual easement for public travel on the through lanes and shoulders of the roadway when constructed. The agreement may also authorize the governing authority of the Lummi Nation to convey to the United States an easement to construct, maintain, and repair roadway improvements if such an easement is required by regulations of the bureau of Indian affairs.
+
+## Section 5
+Except as otherwise provided by this act or by the agreement authorized by section 1 of this act, the department may proceed with the location, design, acquisition of right-of-way, and construction of the roadway. After construction and turnback of the roadway to the Lummi Nation, the Lummi Nation will have the responsibility to maintain the roadway as a public road.

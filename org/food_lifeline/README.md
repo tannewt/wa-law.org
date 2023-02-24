@@ -43,7 +43,7 @@
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍2  
 
-## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍3  
+## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍4  
 
 ## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍2  
 

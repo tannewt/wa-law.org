@@ -82,8 +82,9 @@
 
 ## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services 👍1  
 
-## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge   ❓1
+## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge   ❓2
 * ❓💵 Marian Dacca
+* ❓ Eric ffitch
 
 ## [HB 1839](/bill/2023-24/hb/1839/) - Train length  👎1 
 

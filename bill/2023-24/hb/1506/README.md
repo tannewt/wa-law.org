@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 02/16 01:30 PM - Capital Budget (CB): HB 1506 DSHS leases

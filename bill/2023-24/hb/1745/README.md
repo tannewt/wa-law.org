@@ -9,19 +9,13 @@
 
 ## Meetings
 ### Thu 02/23 09:00 AM - Appropriations (APP): SHB 1745 Diversity in clinical trials
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152450&caId=21799&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152450&caId=21799&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152450&caId=21799&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30812&aId=152450&caId=21799&tId=4)
-
-#### 20 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * 💵Erin Dziedzic - [Leukemia & Lymphoma Society](/org/leukemia_&_lymphoma_society/)
 * 💵Lyset Cadena - Andy Hill CARE Fund
 * 💵Ian Goodhew - UW Medicine
 
-#### 1 👎 - Con
+#### 22 👎 - Con
 
 #### 0 ❓ - Other
 

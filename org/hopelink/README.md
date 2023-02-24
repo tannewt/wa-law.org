@@ -37,7 +37,7 @@
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍2  
 
-## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍1  
+## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍2  
 
 ## [HB 1596](/bill/2023-24/hb/1596/) - Affordable housing incentive 👍2  
 

@@ -1,0 +1,38 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5174](/bill/2023-24/sb/5174/) > [Second Substitute](/bill/2023-24/sb/5174/S2/)
+
+# SB 5174 - Student transportation
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5174-S2.pdf)
+
+## Section 1
+1. The legislature recognizes that the current student transportation allocation reporting system formula lacks transparency and predictability and fails to effectively address the diverse characteristics of all Washington school districts. Therefore, the legislature intends to direct the office of the superintendent of public instruction to gather additional data to inform the development and implementation of a new student transportation formula that adequately funds modern transportation services across the state.
+
+2. The legislature also recognizes that special student populations, including students receiving special education services, students who are homeless, and students in foster care, often require more complex transportation services that can generate substantial costs for school districts. Therefore, the legislature intends to provide transportation safety net awards to school districts that demonstrate a need for additional funding to address excess costs associated with serving special passengers.
+
+## Section 2
+1. The superintendent of public instruction must provide transportation safety net awards to school districts with a convincingly demonstrated need for additional transportation funding for special passengers. Transportation safety net awards may only be provided when a school district's allowable transportation expenditures attributable to serving special passengers exceeds the amount provided under RCW 28A.160.180 and any excess transportation costs reimbursed by federal, state, tribal, or local child welfare agencies.
+
+2. For the purposes of this section, "special passengers" include:
+
+    a. Students eligible for and receiving special education that require transportation as a related service of their individualized education program;
+
+    b. Homeless students requiring transportation under the federal McKinney-Vento homeless assistance act, Title 42 U.S.C. Sec. 11431 et seq.; and
+
+    c. Foster students receiving transportation as required under the federal every student succeeds act, Title 20 U.S.C. Sec. 6312(c)(5)(b).
+
+3. To be eligible for additional transportation safety net award funding, the school district must report, in accordance with statewide accounting guidance, the amount of the excess costs and the specific activities or services provided to special passengers that created the excess costs.
+
+4. The superintendent of public instruction must establish rules and processes for transportation safety net applications and awards. The omnibus appropriations act must specify the total amount available for transportation safety net awards. Total awards may not exceed the amount appropriated. The superintendent of public instruction must submit to the office of financial management, and the education and fiscal committees of the legislature, the total demonstrated need and awards by school district.
+
+5. Charter schools established under chapter 28A.710 RCW and state-tribal education compact schools established under chapter 28A.715 RCW are also eligible for awards under this section.
+
+6. Transportation safety net awards allocated under this section are not part of the state's program of basic education.
+
+## Section 3
+1. By June 1, 2026, the office of the superintendent of public instruction must provide an analysis of school district transportation costs and allocations following the 2024-25 school year to the education and fiscal committees of the legislature. This analysis must include the mileage, ridership, and costs for each district, disaggregated by the following student demographic categories: (a) Students eligible for and receiving special education that require transportation as a related service of their individualized education program; (b) homeless students requiring transportation under the federal McKinney-Vento homeless assistance act, Title 42 U.S.C. Sec. 11431 et seq.; (c) foster students receiving transportation as required under the federal every student succeeds act, Title 20 U.S.C. Sec. 6312(c)(5)(b); (d) students attending skill centers; and (e) all other students transported to and from school.
+
+2. The office of the superintendent of public instruction must also include recommendations for how to incorporate geographic differences faced by rural and high population density urban school districts into a transportation funding formula.
+
+3. The legislature intends to use these data and recommendations to inform their future discussions on revising the overall student transportation allocation model to a more transparent and predictable funding model.
+
+4. This section expires August 1, 2027.

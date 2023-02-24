@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## Meetings
 ### Mon 02/13 04:00 PM - Appropriations (APP): SHB 1433 Energy labeling/residential

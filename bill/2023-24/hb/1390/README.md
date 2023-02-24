@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## Meetings
 ### Mon 02/20 08:00 AM - Capital Budget (CB): SHB 1390 District energy systems

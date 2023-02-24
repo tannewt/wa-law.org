@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## Meetings
 ### Thu 02/16 04:00 PM - Appropriations (APP): SHB 1618 Childhood sexual abuse/SOL

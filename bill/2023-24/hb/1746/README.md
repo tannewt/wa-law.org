@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## Meetings
 ### Wed 02/22 09:00 AM - Capital Budget (CB): SHB 1746 State broadband map

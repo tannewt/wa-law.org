@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## Meetings
 ### Thu 02/02 04:00 PM - Ways & Means (WM): SSB 5174 Student transportation
