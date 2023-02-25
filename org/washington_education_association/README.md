@@ -302,6 +302,8 @@
 
 ## [SB 5071](/bill/2023-24/sb/5071/) - Purple star designation 👍1  
 
+## [SB 5072](/bill/2023-24/sb/5072/) - Highly capable students 👍1  
+
 ## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍1  
 
 ## [SB 5102](/bill/2023-24/sb/5102/) - School library info and tech 👍2  
@@ -360,7 +362,7 @@
 
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍1  
 
-## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍1  
+## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍2  
 * 👍 Jared Mason-Gere
 
 ## [SB 5264](/bill/2023-24/sb/5264/) - Paraeducator requirements 👍1  

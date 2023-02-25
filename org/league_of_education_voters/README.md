@@ -25,6 +25,10 @@
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍2  
 
+## [SB 5065](/bill/2023-24/sb/5065/) - Bone marrow donation/schools 👍1  
+
+## [SB 5072](/bill/2023-24/sb/5072/) - Highly capable students 👍1  
+
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍1  
 
 ## [SB 5237](/bill/2023-24/sb/5237/) - Education law noncompliance 👍1  
@@ -33,6 +37,8 @@
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍1  
 
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍2  
+
+## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍1  
 
 ## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍1  
 

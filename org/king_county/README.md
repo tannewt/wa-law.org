@@ -268,7 +268,7 @@
 
 ## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍1  
 
-## [SB 5120](/bill/2023-24/sb/5120/) - 23-hr crisis relief centers 👍1  
+## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍1  
 
 ## [SB 5130](/bill/2023-24/sb/5130/) - Assisted outpatient treat. 👍2  
 * 👍💵 Michael White
@@ -445,7 +445,7 @@
 
 ## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍1  
 
-## [SB 5696](/bill/2023-24/sb/5696/) - Concerning eligibility for participation in the public employees' benefits board for retired or disabled employees of counties, municipalities, and other political subdivisions. 👍1  
+## [SB 5696](/bill/2023-24/sb/5696/) - PEBB/subdivision retirees 👍1  
 
 ## [SB 5702](/bill/2023-24/sb/5702/) - Student homelessness pilot 👍1  
 

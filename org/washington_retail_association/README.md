@@ -114,7 +114,7 @@
 
 ## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍1  
 
-## [SB 5120](/bill/2023-24/sb/5120/) - 23-hr crisis relief centers 👍1  
+## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍1  
 * 👍💵 Mark Johnson
 
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1  ❓1

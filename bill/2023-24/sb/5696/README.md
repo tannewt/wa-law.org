@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Sat 02/18 09:00 AM - Ways & Means (WM): SB 5696 PEBB/subdivision retirees

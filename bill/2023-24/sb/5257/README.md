@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Wed 03/01 08:00 AM - Education (ED): SSB 5257 Elementary school recess
@@ -15,9 +16,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30855&aId=152344&caId=21834&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30855&aId=152344&caId=21834&tId=4)
 
-#### 4 👍 - Pro
+#### 77 👍 - Pro
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

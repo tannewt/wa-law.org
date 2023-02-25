@@ -168,7 +168,7 @@
 
 ## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
 
-## [SB 5120](/bill/2023-24/sb/5120/) - 23-hr crisis relief centers 👍1  
+## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍1  
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management 👍1  
 * 👍💵 Carl Schroeder

@@ -107,7 +107,7 @@
 ## [SB 5109](/bill/2023-24/sb/5109/) - Wage replacement 👍1  
 * 👍 Hamdi Mohamed
 
-## [SB 5120](/bill/2023-24/sb/5120/) - 23-hr crisis relief centers 👍1  
+## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍1  
 
 ## [SB 5122](/bill/2023-24/sb/5122/) - Ambulance transport fund 👍1  
 

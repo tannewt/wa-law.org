@@ -15,10 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30856&aId=152548&caId=21831&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30856&aId=152548&caId=21831&tId=4)
 
-#### 15 👍 - Pro
+#### 35 👍 - Pro
 Testifying:
 * Cynthia Stewart - Hearing Loss Association - WA
+* Brett Gramer - Student
 * Christine Griffin
+* Jane Beyer - Office of the Insurance Commissioner
 
 #### 0 👎 - Con
 

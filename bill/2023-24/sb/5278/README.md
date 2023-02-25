@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## Meetings
 ### Sat 02/18 09:00 AM - Ways & Means (WM): SSB 5278 Home care aide certification

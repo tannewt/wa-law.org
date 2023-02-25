@@ -51,7 +51,7 @@
 
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍1  
 
-## [SB 5120](/bill/2023-24/sb/5120/) - 23-hr crisis relief centers 👍1  
+## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍1  
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 

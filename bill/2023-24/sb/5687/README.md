@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SB 5687 Wrestling grant programs
