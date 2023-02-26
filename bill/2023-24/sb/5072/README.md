@@ -15,12 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30855&aId=152343&caId=21833&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30855&aId=152343&caId=21833&tId=4)
 
-#### 24 👍 - Pro
+#### 87 👍 - Pro
 Testifying:
 * Rene Price - Washington State PTA
 * Jacob Vigdor - University of Washington Faculty
 * Logan Endres - Washington State School Directors' Association (WSSDA)
 * Daniel Davidai
+* Ryan Grant
 
 #### 1 👎 - Con
 
