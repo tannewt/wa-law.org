@@ -16,13 +16,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30855&aId=152344&caId=21834&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30855&aId=152344&caId=21834&tId=4)
 
-#### 126 👍 - Pro
+#### 220 👍 - Pro
 Testifying:
 * Michelle Nims - Washington State PTA
 
-#### 4 👎 - Con
+#### 12 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 01/18 01:30 PM - Early Learning & K-12 Education (EDU): SB 5257 Elementary school recess
 #### 247 👍 - Pro

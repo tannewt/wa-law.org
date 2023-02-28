@@ -15,12 +15,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30856&aId=152548&caId=21831&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30856&aId=152548&caId=21831&tId=4)
 
-#### 37 👍 - Pro
+#### 53 👍 - Pro
 Testifying:
 * Cynthia Stewart - Hearing Loss Association - WA
 * Brett Gramer - Student
 * Christine Griffin
 * Jane Beyer - Office of the Insurance Commissioner
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* 💵Stephanie Simpson - [Bleeding Disorder Foundation of Washington](/org/bleeding_disorder_foundation_of_washington/)
 
 #### 0 👎 - Con
 

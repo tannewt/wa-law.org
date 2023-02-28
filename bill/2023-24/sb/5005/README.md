@@ -15,7 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30871&aId=152729&caId=21837&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30871&aId=152729&caId=21837&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Thomas Mitchell - Uniform Law Commission
+* Jane Sternecky - Uniform Law Commission
+* John Lovett - Uniform Law Commission
+* Thomas Mitchell - Uniform Law Commission
 
 #### 0 👎 - Con
 

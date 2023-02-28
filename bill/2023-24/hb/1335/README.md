@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Tue 01/31 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1335 Personal identifying info.

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 02/21 01:30 PM - Appropriations (APP): HB 1686 Salmon recovery

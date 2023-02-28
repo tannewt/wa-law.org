@@ -1,0 +1,148 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1305](/bill/2023-24/hb/1305/) > [Second Substitute](/bill/2023-24/hb/1305/S2/)
+
+# HB 1305 - Students with disabilities
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1305-S2.pdf)
+
+## Section 1
+1. If the parent of a student makes a request for the student to be evaluated for a disability or for eligibility for special education services, a school district must provide the parent with a document describing the referral request and initial special education evaluation processes, including relevant deadlines and parental consent requirements. The document must be based on the template created as required under section 2 of this act.
+
+2. Within 22 calendar days after receipt of a referral request for special education services, a school district must: (a) Decide whether to conduct an initial evaluation to determine whether the student is eligible for special education services; and (b) notify the parent of the referred student of the district's decision, using multiple communication channels.
+
+3. If a school district has decided to evaluate the student for special education services, the school district must comply with the following procedures and deadlines for obtaining parental consent to evaluate, for evaluating the student, and for the eligibility determination:
+
+    a. At the same time as it makes the notification under subsection (2) of this section, the school district must provide the student's parent with a document that informs the parent about the evaluation activities it plans to conduct, and that includes instructions for how and when to provide parental consent to evaluate. The document must be based on the template created as required under section 2 of this act.
+
+    b. [Empty]
+
+        i. Except as provided in (b)(ii) of this subsection (3), or as provided in rule, the school district must, within 60 calendar days of receiving a parent's consent to evaluate the student, conduct an evaluation and determine whether the student is eligible for special education services.
+
+        ii. When the evaluation activities include student observations in the classroom or school setting, the 60 calendar days for conducting the evaluation following receipt of a parent's consent to evaluate may be suspended during school holidays of a week or longer.
+
+    c. The office of the superintendent of public instruction shall adopt a rule permitting a school district to exceed the time limits under (b) of this subsection (3) when conducting a quality evaluation warrants additional time, for example: Due to the complexity of the student's diagnoses; the availability of specialists; barriers to coordination of multiple specialists; or barriers to scheduling in-person observations when these observations are an agreed-to evaluation activity.
+
+4. When enrolling a student who has attended school in another school district and who was referred for an initial evaluation for special education services but who does not have an individualized education program, the receiving school district must continue the process of determining the student's eligibility for special education services where the transferring school district stopped.
+
+## Section 2
+1. The office of the superintendent of public instruction shall collaborate with the office of the education ombuds to create a template for school districts to use to meet the requirement in section 1 (1) and (3) of this act related to providing
+
+to parents: (a) Information about the initial special education evaluation process; and (b) instructions for how and when to provide parental consent to evaluate.
+
+2. The template must be translated as for limited English proficient parent groups described in section 4(2) of this act. The template and its translations must be made publicly available on the website of the office of the superintendent of public instruction.
+
+## Section 3
+1. With regard to parent participation in individualized education program team meetings, a school district must provide prior notification to parents about the accommodations available for persons with disabilities who are in need of communication assistance or accommodations to fully participate in the meeting, including the option to record audio under certain circumstances. Examples of "persons with disabilities who are in need of communication assistance or accommodations" are persons with hearing or speech disabilities and persons with limited English proficiency.
+
+2. School district staff, including related services staff, may participate in an individualized education program team meeting if they have knowledge or special expertise regarding the student, including knowledge of resources or services available to the student.
+
+## Section 4
+1. School districts may use oral interpreter services, written translation services, and other language access services available for contract through the department of enterprise services to comply with Title II of the Americans with disabilities act of 1990, 42 U.S.C. Sec. 12101 et seq., and Title IV of the civil rights act of 1964, 42 U.S.C. Sec. 2000d, et seq.
+
+2. School districts shall provide written translation of documents for each limited English proficient parent group that constitutes at least five percent of the school's total parent population or 1,000 persons, whichever is less.
+
+## Section 5
+1. As needed to inform the activities described in subsection (2) of this section, the office of the superintendent of public instruction may collect and analyze information about the implementation of the processes for predue process hearing resolution and mediation that have been adopted in rule by the office of the superintendent of public instruction. At a minimum, the information must include: Reasons why disputes are not resolved through these processes; and incentives that could be provided or process improvements that could be made to ensure that the parties comply with required elements of the processes and engage in the processes in good faith.
+
+2. Based on the information collected and analyzed under subsection (1) of this section, the office of the superintendent of public instruction may develop, or revise, and publish guidance on best practices for resolving disputes through the predue process hearing resolution process and the mediation process.
+
+3. As used in this section, "due process hearing" means a due process hearing held in accordance with the federal individuals with disabilities education act, 20 U.S.C. Sec. 1400 et seq.
+
+## Section 6
+1. Any public entity in Washington responsible for providing special education, related services, or both to students with disabilities in accordance with Part B of the federal individuals with disabilities education act, 20 U.S.C. Sec. 1400 et seq., must comply with the provisions of this chapter to the same extent as school districts.
+
+2. Any in-state private entity, in which a Washington student is placed or referred by a public entity in Washington responsible for providing special education, related services, or both to students with disabilities in accordance with Part B of the federal individuals with disabilities education act, 20 U.S.C. Sec. 1400 et seq., must comply with the provisions of this chapter to the same extent as school districts.
+
+3. Any out-of-state private entity, in which a Washington student is placed or referred by a public entity in Washington responsible for providing special education, related services, or both to students with disabilities in accordance with Part B of the federal individuals with disabilities education act, Title 20 U.S.C. Sec. 1400 et seq., must comply with the provisions of Part B of the federal individuals with disabilities education act, 20 U.S.C. Sec. 1400 et seq.
+
+## Section 7
+1. Subject to the availability of amounts appropriated for this specific purpose, the office of the superintendent of public instruction shall distribute funding to educational service districts for the purpose of making school psychologists and other providers with expertise in each category of disability under Part B of the federal individuals with disabilities education act, 20 U.S.C. Sec. 1400 et seq., available to conduct initial special education evaluations and reevaluations for special education.
+
+2. Each educational service district must determine its regional need for special education evaluators as described in subsection (1) of this section. At the time and in the manner required by the office of the superintendent of public instruction, each educational service district shall submit a proposal describing its regional need and requesting funding to address that need.
+
+3. The office of the superintendent of public instruction must prioritize proposals submitted as required under subsection (2) of this section and may fund all or part of each proposal, subject to availability of amounts appropriated for this specific purpose.
+
+4. This section expires August 1, 2029.
+
+## Section 8
+1. When enrolling a student who has attended school in another school district, the school enrolling the student may request the parent and the student to briefly indicate in writing whether or not the student has:
+
+    a. Any history of placement in special educational programs;
+
+    b. Any past, current, or pending disciplinary action;
+
+    c. Any history of violent behavior, or behavior listed in RCW 13.04.155;
+
+    d. Any unpaid fines or fees imposed by other schools; and
+
+    e. Any health conditions affecting the student's educational needs.
+
+2. The school enrolling the student shall request the student's permanent record including records of disciplinary action, history of violent behavior or behavior listed in RCW 13.04.155, attendance, immunization records,  academic performance from the school the student previously attended, and special education referral requests, documentation of whether a special education eligibility decision is pending and the deadline for making the decision, special education evaluation decisions, special education evaluations, and individualized education programs.
+
+3. Upon request, school districts shall furnish a set of unofficial educational records to a parent or guardian of a student who is transferring out of state and who meets the definition of a child of a military family in transition under Article II of RCW 28A.705.010. School districts may charge the parent or guardian the actual cost of providing the copies of the records.
+
+4. If information is requested under subsection (2) of this section, the information shall be transmitted within two school days after receiving the request and the records shall be sent as soon as possible. The records of a student who meets the definition of a child of a military family in transition under Article II of RCW 28A.705.010 shall be sent within 10 days after receiving the request. Any school district or district employee who releases the information in compliance with this section is immune from civil liability for damages unless it is shown that the school district employee acted with gross negligence or in bad faith. The professional educator standards board shall provide by rule for the discipline under chapter 28A.410 RCW of a school principal or other chief administrator of a public school building who fails to make a good faith effort to assure compliance with this subsection.
+
+5. Any school district or district employee who releases the information in compliance with federal and state law is immune from civil liability for damages unless it is shown that the school district or district employee acted with gross negligence or in bad faith.
+
+6. [Empty]
+
+    a. A school may not prevent students who are the subject of a dependency proceeding pursuant to chapter 13.34 RCW from enrolling if there is incomplete information as enumerated in subsection (1) of this section during the 10 business days that the department of children, youth, and families has to obtain that information under RCW 74.13.631.
+
+    b. If the student who is the subject of a dependency proceeding is subject to an order in a federally recognized tribal court that is the equivalent of a shelter care or dependency order pursuant to chapter 13.34 RCW, or the student is eligible for benefits under the federal foster care system as defined in RCW 28B.117.020, the school may not prevent the student from enrolling if there is incomplete information as enumerated in subsection (1) of this section during the 10 business days from the date the equivalent order is entered or from a date determined by the state agency responsible for implementing the unaccompanied refugee minors program.
+
+    c. Upon enrollment of a student who is the subject of a dependency proceeding, the school district must make reasonable efforts to obtain and assess that child's educational history in order to meet the child's unique needs within two business days.
+
+7. For the purposes of this section, "students who are the subject of a dependency proceeding" has the same meaning as in RCW 28A.150.510.
+
+## Section 9
+It is the purpose of RCW 28A.155.010 through 28A.155.160, sections 1 through 7 of this act, 28A.160.030, and 28A.150.390 to ensure that all children with disabilities as defined in RCW 28A.155.020 shall have the opportunity for an appropriate education at public expense as guaranteed to them by the Constitution of this state and applicable federal laws.
+
+## Section 10
+There is established in the office of the superintendent of public instruction an administrative section or unit for the education of children with disabilities who require special education.
+
+Students with disabilities are those children whether enrolled in school or not who through an evaluation process are determined eligible for special education due to a disability.
+
+In accordance with part B of the federal individuals with disabilities education improvement act and any other federal or state laws relating to the provision of special education services, the superintendent of public instruction shall require each school district in the state to insure an appropriate educational opportunity for all children with disabilities between the ages of three and twenty-one, but when the twenty-first birthday occurs during the school year, the educational program may be continued until the end of that school year. The superintendent of public instruction, by rule, shall establish for the purpose of excess cost funding, as provided in RCW 28A.150.390, 28A.160.030,  28A.155.010 through 28A.155.160, and sections 1 through 7 of this act, functional definitions of special education, the various types of disabling conditions, and eligibility criteria for special education programs for children with disabilities, including referral procedures, use of positive behavior interventions, the education curriculum and statewide or district‑wide assessments, parent and district requests for special education due process hearings, and procedural safeguards. For the purposes of RCW 28A.155.010 through 28A.155.160 and sections 1 through 7 of this act, an appropriate education is defined as an education directed to the unique needs, abilities, and limitations of the children with disabilities who are enrolled either full time or part time in a school district. School districts are strongly encouraged to provide parental training in the care and education of the children and to involve parents in the classroom.
+
+Nothing in this section shall prohibit the establishment or continuation of existing cooperative programs between school districts or contracts with other agencies approved by the superintendent of public instruction, which can meet the obligations of school districts to provide education for children with disabilities, or prohibit the continuation of needed related services to school districts by the department of social and health services.
+
+This section shall not be construed as in any way limiting the powers of local school districts set forth in RCW 28A.155.070.
+
+## Section 11
+The board of directors of each school district, for the purpose of compliance with the provisions of RCW 28A.150.390, 28A.160.030,  28A.155.010 through 28A.155.160, and sections 1 through 7 of this act and chapter 28A.190 RCW, shall cooperate with the superintendent of public instruction and with the administrative officer and shall provide an appropriate educational opportunity to children with disabilities, as defined in RCW 28A.155.020, in regular or special school facilities within the district or shall contract for such services with other agencies as provided in RCW 28A.155.060 or shall participate in an interdistrict arrangement in accordance with RCW 28A.335.160 and 28A.225.220 and/or 28A.225.250 and 28A.225.260.
+
+In carrying out their responsibilities under this chapter, school districts severally or jointly with the approval of the superintendent of public instruction are authorized to support and/or contract for residential schools and/or homes approved by the department of social and health services for aid and special attention to students with disabilities.
+
+The cost of board and room in facilities approved by the department of social and health services shall be provided by the department of social and health services for those students with disabilities eligible for such aid under programs of the department. The cost of approved board and room shall be provided for those students with disabilities not eligible under programs of the department of social and health services but deemed in need of the same by the superintendent of public instruction: PROVIDED, That no school district shall be financially responsible for special education programs for students who are attending residential schools operated by the department of social and health services: PROVIDED FURTHER, That the provisions of RCW 28A.150.390, 28A.160.030,  28A.155.010 through 28A.155.100, and sections 1 through 7 of this act shall not preclude the extension by the superintendent of public instruction of special education opportunities to students with disabilities in residential schools operated by the department of social and health services.
+
+## Section 12
+For the purpose of carrying out the provisions of RCW 28A.155.020 through 28A.155.050 and sections 1 through 7 of this act, the board of directors of every school district shall be authorized to contract with agencies approved by the superintendent of public instruction for operating special education programs for students with disabilities. Approval standards for such agencies shall conform substantially with those of special education programs in the common schools.
+
+## Section 13
+The superintendent of public instruction shall have the duty and authority, through the administrative section or unit for the education of children with disabling conditions, to:
+
+1. Assist school districts in the formation of programs to meet the needs of children with disabilities;
+
+2. Develop interdistrict cooperation programs for children with disabilities as authorized in RCW 28A.225.250;
+
+3. Provide, upon request, to parents or guardians of children with disabilities, information as to the special education programs for students with disabilities offered within the state;
+
+4. Assist, upon request, the parent or guardian of any child with disabilities in the placement of any child with disabilities who is eligible for but not receiving special educational services for children with disabilities;
+
+5. Approve school district and agency programs as being eligible for special excess cost financial aid to students with disabilities;
+
+6. Consistent with the provisions of RCW 28A.150.390, 28A.160.030,  28A.155.010 through 28A.155.160, and sections 1 through 7 of this act, and part B of the federal individuals with disabilities education improvement act, administer administrative hearings and other procedures to ensure procedural safeguards of children with disabilities; and
+
+7. Promulgate such rules as are necessary to implement part B of the federal individuals with disabilities education improvement act or other federal law providing for special education services for children with disabilities and the several provisions of RCW 28A.150.390, 28A.160.030,  28A.155.010 through 28A.155.160, and sections 1 through 7 of this act and to ensure appropriate access to and participation in the general education curriculum and participation in statewide assessments for all students with disabilities.
+
+## Section 14
+The superintendent of public instruction is hereby authorized and directed to establish appropriate sanctions to be applied to any school district of the state failing to comply with the provisions of RCW 28A.150.390, 28A.160.030,  28A.155.010 through 28A.155.060 , 28A.155.080 through 28A.155.160, and sections 1 through 7 of this act to be applied beginning upon the effective date thereof, which sanctions shall include withholding of any portion of state aid to such district until such time as compliance is assured.
+
+## Section 15
+Sections 1 through 7 of this act are each added to chapter 28A.155 RCW.
+
+## Section 16
+Section 1 of this act takes effect August 1, 2025.
+
+## Section 17
+If specific funding for the purposes of this act, referencing this act by bill or chapter number, is not provided by June 30, 2023, in the omnibus appropriations act, this act is null and void.

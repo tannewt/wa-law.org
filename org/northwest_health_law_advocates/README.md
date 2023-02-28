@@ -35,7 +35,7 @@
 
 ## [SB 5286](/bill/2023-24/sb/5286/) - Paid leave premiums 👍1  
 
-## [SB 5338](/bill/2023-24/sb/5338/) - Essential health benefits 👍1  
+## [SB 5338](/bill/2023-24/sb/5338/) - Essential health benefits 👍2  
 
 ## [SB 5393](/bill/2023-24/sb/5393/) - Health provider contracting 👍2  
 * 👍💵 Emily Brice

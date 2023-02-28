@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 02/20 09:00 AM - Ways & Means (WM): SB 5025 DOC technology systems

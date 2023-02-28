@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Thu 01/26 08:00 AM - Environment & Energy (ENVI): HB 1329 Utility shutoffs/heat

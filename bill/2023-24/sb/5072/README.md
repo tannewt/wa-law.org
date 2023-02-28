@@ -15,17 +15,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30855&aId=152343&caId=21833&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30855&aId=152343&caId=21833&tId=4)
 
-#### 87 👍 - Pro
+#### 246 👍 - Pro
 Testifying:
 * Rene Price - Washington State PTA
 * Jacob Vigdor - University of Washington Faculty
 * Logan Endres - Washington State School Directors' Association (WSSDA)
 * Daniel Davidai
 * Ryan Grant
+* Denton Thorbeck - WEA / KEA
+* Annalia Garcia Munoz - 8th grade student
+* Austina De Bonte - WA Coalition for Gifted Education
+* Christine Anderson - Assistant Principal, Emerald Hills Elementary - former HiCap Program Coordinator
+* Laura Schonberg - Director, K-12 Highly Capable Services
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 01/18 01:30 PM - Early Learning & K-12 Education (EDU): SB 5072 Highly capable students
 #### 474 👍 - Pro

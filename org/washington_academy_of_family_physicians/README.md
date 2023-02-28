@@ -20,6 +20,8 @@
 
 ## [SB 5232](/bill/2023-24/sb/5232/) - Firearms/purchase & transfer 👍2  
 
+## [SB 5338](/bill/2023-24/sb/5338/) - Essential health benefits 👍1  
+
 ## [SB 5373](/bill/2023-24/sb/5373/) - ARNP, PA, & MD reimbursement  👎2 
 * 👎 Sonal Patel
 

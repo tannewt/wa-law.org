@@ -25,7 +25,11 @@
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
 
+## [SB 5036](/bill/2023-24/sb/5036/) - Audio-only telemedicine 👍1  
+
 ## [SB 5103](/bill/2023-24/sb/5103/) - Medicaid patients/discharge 👍1  
+
+## [SB 5121](/bill/2023-24/sb/5121/) - Health care oversight cmte. 👍1  
 
 ## [SB 5177](/bill/2023-24/sb/5177/) - Organ transport vehicles 👍1  
 
@@ -39,7 +43,8 @@
 
 ## [SB 5260](/bill/2023-24/sb/5260/) - Reprod. health/employers 👍1  
 
-## [SB 5338](/bill/2023-24/sb/5338/) - Essential health benefits 👍1  
+## [SB 5338](/bill/2023-24/sb/5338/) - Essential health benefits 👍2  
+* 👍💵 Stephanie Simpson
 * 👍💵 Stephanie Simpson
 
 ## [SB 5388](/bill/2023-24/sb/5388/) - Diversity in clinical trials 👍1  
