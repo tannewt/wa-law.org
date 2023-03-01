@@ -41,6 +41,9 @@
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
 
+## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess   ❓1
+* ❓💵 Roz Thompson
+
 ## [SB 5264](/bill/2023-24/sb/5264/) - Paraeducator requirements 👍1  
 * 👍💵 Roz Thompson
 

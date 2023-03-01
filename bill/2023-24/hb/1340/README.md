@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Tue 01/24 01:30 PM - Health Care & Wellness (HCW): HB 1340 Health professions/conduct

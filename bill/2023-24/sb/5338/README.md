@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Tue 02/28 08:00 AM - Health Care & Wellness (HCW): SSB 5338 Essential health benefits
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30856&aId=152548&caId=21831&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30856&aId=152548&caId=21831&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30856&aId=152548&caId=21831&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30856&aId=152548&caId=21831&tId=4)
-
-#### 53 👍 - Pro
+#### 58 👍 - Pro
 Testifying:
 * Cynthia Stewart - Hearing Loss Association - WA
 * Brett Gramer - Student

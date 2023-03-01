@@ -14,7 +14,7 @@
 
 ## [SB 5247](/bill/2023-24/sb/5247/) - Climate-ready communities 👍1  
 
-## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍1  
+## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍2  
 
 ## [SB 5314](/bill/2023-24/sb/5314/) - Electric bicycle use  👎1 
 * 👎💵 Andrea Imler

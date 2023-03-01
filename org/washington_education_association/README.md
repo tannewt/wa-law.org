@@ -362,7 +362,8 @@
 
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍1  
 
-## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍3  
+## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍4  
+* 👍 Jared Mason-Gere
 * 👍 Jared Mason-Gere
 
 ## [SB 5264](/bill/2023-24/sb/5264/) - Paraeducator requirements 👍1  

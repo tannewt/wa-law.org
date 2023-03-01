@@ -45,6 +45,8 @@
 
 ## [SB 5243](/bill/2023-24/sb/5243/) - High school and beyond plans 👍1  
 
+## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍1  
+
 ## [SB 5355](/bill/2023-24/sb/5355/) - Sex trafficking prev. ed. 👍1  
 
 ## [SB 5527](/bill/2023-24/sb/5527/) - Graduation pathway options 👍1  

@@ -16,13 +16,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30855&aId=152344&caId=21834&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30855&aId=152344&caId=21834&tId=4)
 
-#### 220 👍 - Pro
+#### 265 👍 - Pro
 Testifying:
 * Michelle Nims - Washington State PTA
+* Matt Wood - Teacher, Stafford Elementary
+* Wendy Armour - Parent, Play Equity Coalition
+* Karla Landis - The Sports Institute / King County Play Equity Coalition
+* Samuel Browd - The Sports Institute at UW Medicine
+* Bilan Aden - African Community Housing and Development
+* Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 
-#### 12 👎 - Con
+#### 15 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Patrick Vincent
+* 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
 
 ### Wed 01/18 01:30 PM - Early Learning & K-12 Education (EDU): SB 5257 Elementary school recess
 #### 247 👍 - Pro

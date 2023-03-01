@@ -61,7 +61,7 @@
 
 ## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍1  
 
-## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍1  
+## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍2  
 
 ## [SB 5280](/bill/2023-24/sb/5280/) - Clergy/child abuse reporting 👍2  
 

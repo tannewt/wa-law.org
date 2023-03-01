@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Tue 01/24 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1469 Health care services/access
