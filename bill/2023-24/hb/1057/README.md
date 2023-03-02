@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Thu 01/26 04:00 PM - Appropriations (APP): HB 1057 PERS/TRS 1 benefit increase

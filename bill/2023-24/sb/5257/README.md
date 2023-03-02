@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Wed 03/01 08:00 AM - Education (ED): SSB 5257 Elementary school recess
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30855&aId=152344&caId=21834&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30855&aId=152344&caId=21834&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30855&aId=152344&caId=21834&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30855&aId=152344&caId=21834&tId=4)
-
-#### 265 👍 - Pro
+#### 275 👍 - Pro
 Testifying:
 * Michelle Nims - Washington State PTA
 * Matt Wood - Teacher, Stafford Elementary
@@ -24,9 +18,10 @@ Testifying:
 * Karla Landis - The Sports Institute / King County Play Equity Coalition
 * Samuel Browd - The Sports Institute at UW Medicine
 * Bilan Aden - African Community Housing and Development
+* melissa spiker - Seattle Special Education PTSA
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 
-#### 15 👎 - Con
+#### 22 👎 - Con
 
 #### 3 ❓ - Other
 Testifying:

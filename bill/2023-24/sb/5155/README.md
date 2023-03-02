@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30871&aId=152730&caId=21838&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30871&aId=152730&caId=21838&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Judge Michael Diaz - Washington Court of Appeals, Division One
 
 #### 0 👎 - Con
 

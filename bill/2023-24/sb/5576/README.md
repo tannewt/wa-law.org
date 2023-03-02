@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Mon 01/30 10:30 AM - Law & Justice (LAW): SB 5576 Sexual assault procedures

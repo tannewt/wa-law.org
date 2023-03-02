@@ -8,6 +8,19 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Thu 03/09 08:00 AM - Housing (HOUS): SSB 5235 Accessory dwelling units
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30929&aId=152935&caId=21859&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30929&aId=152935&caId=21859&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30929&aId=152935&caId=21859&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30929&aId=152935&caId=21859&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/26 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5235 Accessory dwelling units
 #### 34 👍 - Pro
 

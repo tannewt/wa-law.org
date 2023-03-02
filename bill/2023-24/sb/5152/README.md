@@ -9,6 +9,21 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Fri 03/10 08:00 AM - State Government & Tribal Relations (SGOV): ESSB 5152 Synthetic media
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152832&caId=21867&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152832&caId=21867&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152832&caId=21867&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152832&caId=21867&tId=4)
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+Testifying:
+* Eric pratt - America
+
+#### 0 ❓ - Other
+
 ### Tue 01/24 01:30 PM - State Government & Elections (SGE): SB 5152 Synthetic media
 #### 4 👍 - Pro
 Testifying:

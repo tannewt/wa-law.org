@@ -10,6 +10,23 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Meetings
+### Fri 03/10 08:00 AM - State Government & Tribal Relations (SGOV): E2SSB 5112 Voter registration
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152831&caId=21866&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152831&caId=21866&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152831&caId=21866&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152831&caId=21866&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* Carol Sullivan - League of Women Voters of WA
+
+#### 1 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* Eric pratt - America
+
 ### Mon 01/30 04:00 PM - Transportation (TRAN): SSB 5112 Voter registration
 #### 198 👍 - Pro
 Testifying:

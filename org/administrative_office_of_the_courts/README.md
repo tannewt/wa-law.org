@@ -13,6 +13,9 @@
 ## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief   ❓1
 * ❓💵 Sharon Swanson
 
+## [SB 5003](/bill/2023-24/sb/5003/) - Snohomish county judges 👍1  
+* 👍 Haily Perkins
+
 ## [SB 5128](/bill/2023-24/sb/5128/) - Jury diversity 👍1  
 * 👍 Brittany Gregory
 

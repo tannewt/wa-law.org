@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30871&aId=152727&caId=21835&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30871&aId=152727&caId=21835&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Jennifer Rancourt - Snohomish County District Court
+* Haily Perkins - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 
 #### 0 👎 - Con
 

@@ -9,6 +9,19 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Thu 03/09 10:30 AM - Health & Long Term Care (HLTC): ESHB 1073 Medical assistants
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30930&aId=152867&caId=21882&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30930&aId=152867&caId=21882&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30930&aId=152867&caId=21882&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30930&aId=152867&caId=21882&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/20 08:00 AM - Health Care & Wellness (HCW): HB 1073 Medical assistants
 #### 6 👍 - Pro
 Testifying:

@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Wed 03/01 08:00 AM - Education (ED): SSB 5072 Highly capable students
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30855&aId=152343&caId=21833&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30855&aId=152343&caId=21833&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30855&aId=152343&caId=21833&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30855&aId=152343&caId=21833&tId=4)
-
-#### 316 👍 - Pro
+#### 344 👍 - Pro
 Testifying:
 * Rene Price - Washington State PTA
 * Jacob Vigdor - University of Washington Faculty
@@ -29,7 +23,7 @@ Testifying:
 * Laura Schonberg - Director, K-12 Highly Capable Services
 * Gavin Downing
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

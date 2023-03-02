@@ -9,6 +9,22 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Mon 03/06 08:00 AM - Health Care & Wellness (HCW): ESSB 5179 Death with dignity act
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30916&aId=152845&caId=21856&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30916&aId=152845&caId=21856&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30916&aId=152845&caId=21856&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30916&aId=152845&caId=21856&tId=4)
+
+#### 1 👍 - Pro
+
+#### 3 👎 - Con
+Testifying:
+* Mary Long - Conservative Ladies of Washington
+* Conrad Reynoldson - Washington Civil & Disability Advocate
+
+#### 0 ❓ - Other
+
 ### Thu 02/02 10:30 AM - Health & Long Term Care (HLTC): SB 5179 Death with dignity act
 #### 1016 👍 - Pro
 Testifying:

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Mon 02/06 10:30 AM - Labor & Commerce (LC): SB 5614 Adult entertainment

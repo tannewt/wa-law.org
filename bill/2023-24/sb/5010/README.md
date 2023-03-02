@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Thu 01/12 08:00 AM - Law & Justice (LAW): SB 5010 Synthetic opioids/endanger.

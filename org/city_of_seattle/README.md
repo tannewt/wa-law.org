@@ -129,6 +129,8 @@
 
 ## [SB 5247](/bill/2023-24/sb/5247/) - Climate-ready communities 👍1  
 
+## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍1  
+
 ## [SB 5258](/bill/2023-24/sb/5258/) - Condos and townhouses 👍1  
 
 ## [SB 5259](/bill/2023-24/sb/5259/) - Product theft 👍1  

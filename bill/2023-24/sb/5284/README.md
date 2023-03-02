@@ -9,6 +9,21 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Fri 03/10 08:00 AM - State Government & Tribal Relations (SGOV): ESSB 5284 Campaign finance disclosure
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152835&caId=21870&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152835&caId=21870&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152835&caId=21870&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152835&caId=21870&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* Eric pratt - America
+
 ### Tue 01/24 01:30 PM - State Government & Elections (SGE): SB 5284 Campaign finance disclosure
 #### 28 👍 - Pro
 Testifying:

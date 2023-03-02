@@ -9,6 +9,25 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Fri 03/10 08:00 AM - State Government & Tribal Relations (SGOV): ESSB 5082 Advisory votes
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152830&caId=21865&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152830&caId=21865&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152830&caId=21865&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152830&caId=21865&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* Carol Sullivan
+
+#### 5 👎 - Con
+Testifying:
+* Eric pratt - America
+* Tim Eyman
+* Jeff Pack - Washington Citizens Against Unfair Taxes
+
+#### 0 ❓ - Other
+
 ### Tue 01/10 01:30 PM - State Government & Elections (SGE): SB 5082 Advisory votes
 #### 0 👍 - Pro
 

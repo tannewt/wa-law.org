@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Thu 02/09 04:00 PM - Appropriations (APP): HB 1732 K-12 inflation adjustments

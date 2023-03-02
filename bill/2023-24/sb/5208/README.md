@@ -8,6 +8,23 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Fri 03/10 08:00 AM - State Government & Tribal Relations (SGOV): SSB 5208 Online voter registration
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152834&caId=21869&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152834&caId=21869&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152834&caId=21869&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152834&caId=21869&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* Carol Sullivan
+
+#### 0 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* Eric pratt - America
+
 ### Tue 01/17 01:30 PM - State Government & Elections (SGE): SB 5208 Online voter registration
 #### 213 👍 - Pro
 Testifying:

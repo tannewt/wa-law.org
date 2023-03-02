@@ -8,6 +8,19 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Thu 03/09 04:00 PM - Ways & Means (WM): SSB 5258 Condos and townhouses
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152859&caId=21892&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152859&caId=21892&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152859&caId=21892&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152859&caId=21892&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/23 10:30 AM - Law & Justice (LAW): SB 5258 Condos and townhouses
 #### 26 👍 - Pro
 Testifying:
