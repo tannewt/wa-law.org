@@ -16,14 +16,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30916&aId=152845&caId=21856&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30916&aId=152845&caId=21856&tId=4)
 
-#### 1 👍 - Pro
+#### 507 👍 - Pro
 
-#### 3 👎 - Con
+#### 216 👎 - Con
 Testifying:
 * Mary Long - Conservative Ladies of Washington
 * Conrad Reynoldson - Washington Civil & Disability Advocate
+* MD, MA, Sharon Quick - President, Physicians for Compassionate Care Education Foundation
+* Jonathan Clemens - ErgoCare Clinic
+* Laurie Layne
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Thu 02/02 10:30 AM - Health & Long Term Care (HLTC): SB 5179 Death with dignity act
 #### 1016 👍 - Pro

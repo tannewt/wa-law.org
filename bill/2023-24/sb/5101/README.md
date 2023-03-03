@@ -15,7 +15,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30932&aId=152876&caId=21851&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30932&aId=152876&caId=21851&tId=4)
 
-#### 3 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Jim Chambers
 
 #### 0 👎 - Con
 

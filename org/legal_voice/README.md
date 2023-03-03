@@ -23,5 +23,7 @@
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
 
+## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍1  
+
 ## [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍1  
 * 👍💵 Alizeh Bhojani

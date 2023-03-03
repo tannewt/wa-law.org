@@ -122,6 +122,9 @@
 
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial  👎1 
 
+## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
+* 👍💵 Cindy Black
+
 ## [SB 5093](/bill/2023-24/sb/5093/) - Climate response strategy 👍1  
 
 ## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍1  
@@ -130,7 +133,7 @@
 
 ## [SB 5105](/bill/2023-24/sb/5105/) - Digital driver's licenses  👎1 
 
-## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍1  
+## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍2  
 
 ## [SB 5129](/bill/2023-24/sb/5129/) - Nuclear reactor technology  👎1 
 
@@ -146,10 +149,11 @@
 
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures 👍1  
 
-## [SB 5207](/bill/2023-24/sb/5207/) - Controlled entities 👍1  
+## [SB 5207](/bill/2023-24/sb/5207/) - Controlled entities 👍2  
+* 👍💵 Cindy Black
 * 👍💵 Cindy Black
 
-## [SB 5208](/bill/2023-24/sb/5208/) - Online voter registration 👍2  
+## [SB 5208](/bill/2023-24/sb/5208/) - Online voter registration 👍3  
 * 👍💵 Cindy Black
 * 👍💵 Cindy Black
 
@@ -159,7 +163,8 @@
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍1  
 
-## [SB 5284](/bill/2023-24/sb/5284/) - Campaign finance disclosure 👍1  
+## [SB 5284](/bill/2023-24/sb/5284/) - Campaign finance disclosure 👍2  
+* 👍💵 Cindy Black
 
 ## [SB 5356](/bill/2023-24/sb/5356/) - Procurement/automated system 👍1  
 

@@ -16,15 +16,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152830&caId=21865&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152830&caId=21865&tId=4)
 
-#### 2 👍 - Pro
+#### 97 👍 - Pro
 Testifying:
 * Carol Sullivan
+* 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
+* Andrew Villeneuve - Northwest Progressive Institute
 
-#### 5 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Eric pratt - America
 * Tim Eyman
 * Jeff Pack - Washington Citizens Against Unfair Taxes
+* Laurie Layne
 
 #### 0 ❓ - Other
 

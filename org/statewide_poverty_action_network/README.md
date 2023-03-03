@@ -109,6 +109,9 @@
 
 ## [SB 5464](/bill/2023-24/sb/5464/) - Electronics repair 👍1  
 
+## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍2  
+* 👍💵 Shaun Scott
+
 ## [SB 5493](/bill/2023-24/sb/5493/) - Financial instit./B&O tax 👍1  
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍2  

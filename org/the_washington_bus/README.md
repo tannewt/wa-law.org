@@ -14,14 +14,20 @@
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍6  
 * 👍💵 Jazmine Smith
 
-## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍8  
+## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
 
-## [SB 5208](/bill/2023-24/sb/5208/) - Online voter registration 👍3  
+## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍10  
+
+## [SB 5208](/bill/2023-24/sb/5208/) - Online voter registration 👍6  
+* 👍💵 Jazmine Smith
 * 👍💵 Jazmine Smith
 
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍1  
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
+
+## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍3  
+* 👍💵 Jazmine Smith
 
 ## [SB 5513](/bill/2023-24/sb/5513/) - CTC mental health counseling 👍1  
 

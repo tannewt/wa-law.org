@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Thu 01/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5150 Beef levied assessment

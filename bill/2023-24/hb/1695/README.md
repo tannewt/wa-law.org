@@ -7,6 +7,21 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 03/10 10:30 AM - Housing (HSG): HB 1695 Surplus property/housing
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30905&aId=152973&caId=21923&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30905&aId=152973&caId=21923&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30905&aId=152973&caId=21923&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30905&aId=152973&caId=21923&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* Kathleen Hosfeld - Homestead Community Land Trust
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/13 01:30 PM - Housing (HOUS): HB 1695 Surplus property/housing
 #### 82 👍 - Pro
 Testifying:

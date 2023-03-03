@@ -4,4 +4,4 @@
 * 👍 Cassa Sutherland
 * 👍 Judy Kinney
 
-## [SB 5179](/bill/2023-24/sb/5179/) - Death with dignity act 👍4  
+## [SB 5179](/bill/2023-24/sb/5179/) - Death with dignity act 👍6  

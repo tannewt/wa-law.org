@@ -251,6 +251,9 @@
 ## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge  👎1 
 * 👎 Mike Ennis
 
+## [HB 1834](/bill/2023-24/hb/1834/) - Reconciliation returns 👍1  
+* 👍 Emily Shay
+
 ## [HB 1839](/bill/2023-24/hb/1839/) - Train length  👎1 
 * 👎 Mike Ennis
 
@@ -384,6 +387,9 @@
 
 ## [SB 5484](/bill/2023-24/sb/5484/) - Food/environmental steward. 👍1  
 
+## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax  👎1 
+* 👎 Emily Shay
+
 ## [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra. 👍1  
 
 ## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍1  
@@ -423,3 +429,5 @@
 
 ## [SB 5721](/bill/2023-24/sb/5721/) - Advanced aerospace training 👍1  
 * 👍 Emily Shay
+
+## [SB 5733](/bill/2023-24/sb/5733/) - Payment card processing/tax 👍1  
