@@ -8,6 +8,23 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Thu 03/09 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SHB 1460 DNR land
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30900&aId=152997&caId=21927&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30900&aId=152997&caId=21927&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30900&aId=152997&caId=21927&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30900&aId=152997&caId=21927&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* Sherri Dysart - League of Women Voters of Washington
+
+#### 1 👎 - Con
+Testifying:
+* Ed Bowen
+
+#### 0 ❓ - Other
+
 ### Thu 02/09 01:30 PM - Capital Budget (CB): HB 1460 DNR land
 #### 903 👍 - Pro
 Testifying:

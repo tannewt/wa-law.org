@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Sat 02/18 09:00 AM - Ways & Means (WM): SSB 5512 Higher ed. financial reports

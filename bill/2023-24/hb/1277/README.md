@@ -20,7 +20,9 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Noelle Chun - Lake Washington School District
 
 ### Thu 01/19 08:00 AM - Education (ED): HB 1277 Paraeducator course of study
 #### 12 👍 - Pro

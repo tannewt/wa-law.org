@@ -9,6 +9,19 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Thu 03/09 08:00 AM - Regulated Substances & Gaming (RSG): ESSB 5365 Vapor and tobacco/minors
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30914&aId=153018&caId=21925&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30914&aId=153018&caId=21925&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30914&aId=153018&caId=21925&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30914&aId=153018&caId=21925&tId=4)
+
+#### 4 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/06 10:30 AM - Labor & Commerce (LC): SB 5365 Vapor and tobacco/minors
 #### 90 👍 - Pro
 Testifying:

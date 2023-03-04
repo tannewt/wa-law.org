@@ -16,9 +16,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30920&aId=152962&caId=21920&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30920&aId=152962&caId=21920&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Stephanie Barnard - Rep. Stephanie Barnard (8LD, Prime Sponsor)
+* Madison Schroder - Generation Atomic
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Cathryn Chudy - Oregon Conservancy Foundation
 
 #### 0 ❓ - Other
 

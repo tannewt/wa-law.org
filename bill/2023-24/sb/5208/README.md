@@ -15,13 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152834&caId=21869&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152834&caId=21869&tId=4)
 
-#### 29 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * Carol Sullivan
 * 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
 * Steve Hobbs - Secretary of State
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Julie Barrett - Conservative Ladies of Washington
 
 #### 1 ❓ - Other
 Testifying:

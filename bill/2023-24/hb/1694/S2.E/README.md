@@ -1,0 +1,212 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1694](/bill/2023-24/hb/1694/) > [Engrossed Second Substitute](/bill/2023-24/hb/1694/S2.E/)
+
+# HB 1694 - Home care workforce shortage
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1694-S2.E.pdf)
+
+## Section 1
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+## Section 2
+1. Beginning January 7, 2012, except as provided in RCW 18.88B.041, any person hired as a long-term care worker must be certified as a home care aide as provided in this chapter within 200 calendar days after the date of hire. A long-term care worker who is not currently certified or eligible to reactivate an expired credential shall receive a new date of hire when beginning work with either a new employer or returning to a former employer after prior employment has ended.
+
+2. [Empty]
+
+    a. No person may practice or, by use of any title or description, represent himself or herself as a certified home care aide without being certified as provided in this chapter.
+
+    b. This section does not prohibit a person: (i) From practicing a profession for which the person has been issued a license or which is specifically authorized under this state's laws; or (ii) who is exempt from certification under RCW 18.88B.041 from providing services as a long-term care worker.
+
+    c. In consultation with consumer and worker representatives, the department shall, by January 1, 2013, establish by rule a single scope of practice that encompasses both long-term care workers who are certified home care aides and long-term care workers who are exempted from certification under RCW 18.88B.041.
+
+3. If a pandemic, natural disaster, or other declared state of emergency impacts the ability of long-term care workers to complete certification as required by this section, the department may adopt rules to allow long-term care workers additional time to become certified.
+
+    a. Rules adopted under this subsection (3) are effective until the termination of the pandemic, natural disaster, or other declared state of emergency or until the department determines that additional time for long-term care workers to become certified is no longer necessary, whichever is later. Once the department determines a rule adopted under this subsection (3) is no longer necessary, it must repeal the rule under RCW 34.05.353.
+
+    b. Within 12 months of the termination of the pandemic, natural disaster, or other declared state of emergency, the department shall conduct a review of certification compliance with subsection (1) of this section and rules adopted under this subsection (3) and provide the legislature with a report.
+
+4. The department shall adopt rules to implement this section.
+
+## Section 3
+1. Except as provided in RCW 18.88B.041 and subject to the other requirements of this chapter, to be certified as a home care aide, a long-term care worker must successfully complete the training required under RCW 74.39A.074(1) and a certification examination. Any long-term care worker failing to make the required grade for the examination may not be certified as a home care aide.
+
+2. The department, in consultation with consumer and worker representatives, shall develop a home care aide certification examination to evaluate whether an applicant possesses the skills and knowledge necessary to practice competently.
+
+3. The examination or series of examinations shall include both a skills demonstration and a written or oral knowledge test. The skills demonstration, the knowledge test, or both, may be administered during or after a student's formal training. The examination papers, all grading of the papers, and records related to the grading of skills demonstration shall be preserved for a period of not less than one year. The department shall establish rules governing the number of times and under what circumstances individuals who have failed the examination may sit for the examination, including whether any intermediate remedial steps should be required.
+
+4. All examinations shall be conducted by fair and wholly impartial methods. The certification examination shall be administered and evaluated by :
+
+    a. The department ;
+
+    b. A contractor to the department that is not an employer of long‑term care workers
+
+, unless the employer is a department of social and health services approved instructor and has met the department standards for administering the examination; or
+
+    c. A high school or community college that has met department standards for administering the examination.
+
+5. In addition to the standards under subsection (4) of this section, the department shall examine and authorize innovative ways to reduce barriers to certification and testing, including allowing for remote proctoring of the knowledge examination, allowing long-term care workers to sign up for testing upon registering for training contingent on completion of training, and expanding the number and type of testing locations.
+
+6. By October 1, 2023, the department must conduct an analysis of the number of test applications for both the skills demonstration test and the knowledge test using various geographic measures, including by county and by zip code. By December 1, 2023, the department must report to the governor and the health policy committees of the legislature on the results of the analysis and how it may inform decisions for approving testing locations.
+
+7. By October 1, 2023, the department must conduct a survey of all approved testing locations in Washington to determine their current capacity for offering tests and their potential capacity to offer tests if not for the lack of available proctors. By December 1, 2023, the department must report to the governor and the health policy committees of the legislature on the results of the survey, including an analysis that compares testing capacity with the number of test applications for both the skills demonstration test and the knowledge test using various geographic measures, including by county and by zip code.
+
+8. The department shall adopt rules to implement this section.
+
+## Section 4
+1. A certificate that has been expired for five years or less may be reinstated if the person holding the expired certificate:
+
+    a. Completes an abbreviated application form;
+
+    b. Pays any necessary fees, including the current certification fee, late renewal fees, and expired credential reissuance fees, unless exempt pursuant to section 5 of this act;
+
+    c. Provides a written declaration that no action has been taken by a state or federal jurisdiction or hospital which would prevent or restrict the person holding the expired certificate from practicing as a home care aide;
+
+    d. Provides a written declaration that the person holding the expired certificate has not voluntarily given up any credential or privilege or has not been restricted from practicing as a home care aide in lieu of or to avoid formal action; and
+
+    e. Submits to a state and federal background check as required by RCW 74.39A.056, if the certificate has been expired for more than one year.
+
+2. In addition to meeting the requirements of subsection (1) of this section, a certificate that has been expired for more than five years may be reinstated if the person holding the expired certificate demonstrates competence to the standards established by the secretary and meets other requirements established by the secretary.
+
+## Section 5
+1. Beginning September 1, 2023, a person whose home care aide certificate has been expired for more than six months and less than two years who seeks to restore the certificate to active status is exempt from the payment of any late renewal fee or current renewal fee if the person complies with all other certification requirements determined necessary by the department to return to active status.
+
+2. The department shall send a notification to the last known address of each person who held a certificate under this chapter and, since January 1, 2020, failed to renew the certificate to inform the person that a certificate may be restored without a financial penalty or payment of a renewal fee under subsection (1) of this section. For persons who have allowed their certificates to expire since January 1, 2023, the department must allow six months to pass since the expiration prior to contacting them to inform them that a certificate may be restored without a financial penalty or payment of a renewal fee under subsection (1) of this section.
+
+3. The department and the department of social and health services, as applicable, shall adopt rules to assure that continuing education requirements are not a barrier for persons seeking to reactivate their certificates under this chapter.
+
+4. This section expires July 1, 2025.
+
+## Section 6
+A new section is added to chapter 18.88A RCW to read as follows:
+
+1. Beginning September 1, 2023, a person whose nursing assistant certificate has been expired for more than six months and less than two years who seeks to restore the certificate to active status is exempt from the payment of any late renewal fee or current renewal fee if the person complies with all other certification requirements determined necessary by the department to return to active status.
+
+2. The department shall send a notification to the last known address of each person who held a certificate under this chapter and, since January 1, 2020, failed to renew the certificate to inform the person that a certificate may be restored without a financial penalty or payment of a renewal fee under subsection (1) of this section. For persons who have allowed their certificates to expire since January 1, 2023, the department must allow six months to pass since the expiration prior to contacting them to inform them that a certificate may be restored without a financial penalty or payment of a renewal fee under subsection (1) of this section.
+
+3. The department shall adopt rules to assure that continuing education requirements are not a barrier for persons seeking to reactivate their certificates under this chapter.
+
+4. This section expires July 1, 2025.
+
+## Section 7
+1. All long-term care workers shall complete twelve hours of continuing education training in advanced training topics each year. This requirement applies beginning July 1, 2012.
+
+2. Completion of continuing education as required in this section is a prerequisite to maintaining home care aide certification under chapter 18.88B RCW.
+
+3. Unless voluntarily certified as a home care aide under chapter 18.88B RCW, subsection (1) of this section does not apply to:
+
+    a. An individual provider caring only for his or her biological, step, or adoptive child;
+
+    b. Registered nurses and licensed practical nurses licensed under chapter 18.79 RCW;
+
+    c. Before January 1, 2016, a long-term care worker employed by a community residential service business;
+
+    d. A person working as an individual provider who provides twenty hours or less of care for one person in any calendar month;
+
+    e. A person working as an individual provider who only provides respite services and works less than three hundred hours in any calendar year; or
+
+    f. A person whose certificate has been expired for less than five years who seeks to restore the certificate to active status. The person does not need to complete continuing education requirements in order for their certificate to be restored to active status. Subsection (1) of this section applies to persons once the certificate has been restored to active status, beginning on the date the certificate is restored to active status.
+
+4. Only training curriculum approved by the department may be used to fulfill the training requirements specified in this section. The department shall only approve training curriculum that:
+
+    a. Has been developed with input from consumer and worker representatives; and
+
+    b. Requires comprehensive instruction by qualified instructors.
+
+5. Individual providers under RCW 74.39A.270 shall be compensated for training time required by this section.
+
+6. If a pandemic, natural disaster, or other declared state of emergency impacts the ability of long-term care workers to complete training as required by this section, the department may adopt rules to allow long-term care workers additional time to complete the training requirements.
+
+    a. Rules adopted under this subsection (6) are effective until the termination of the pandemic, natural disaster, or other declared state of emergency or until the department determines that all long-term care workers who were unable to complete the training required in this section have had adequate access to complete the required training, whichever is later. Once the department determines a rule adopted under this subsection (6) is no longer necessary, it must repeal the rule under RCW 34.05.353.
+
+    b. Within 12 months of the termination of the pandemic, natural disaster, or other declared state of emergency, the department shall conduct a review of training compliance with subsection (1) of this section and provide the legislature with a report.
+
+7. The department of health shall adopt rules to implement subsection (1) of this section.
+
+8. The department shall adopt rules to implement subsection (2) of this section.
+
+## Section 8
+1. The following long-term care workers are not required to become a certified home care aide pursuant to this chapter:
+
+    a. [Empty]
+
+        i.(A) Registered nurses, licensed practical nurses, certified nursing assistants or persons who are in an approved training program for certified nursing assistants under chapter 18.88A RCW, medicare-certified home health aides, or other persons who hold a similar health credential, as determined by the secretary, or persons with special education training and an endorsement granted by the superintendent of public instruction, as described in RCW 28A.300.010, if the secretary determines that the circumstances do not require certification.
+
+(B) A person who was initially hired as a long‑term care worker prior to January 7, 2012, and who completes all of the training requirements in effect as of the date the person was hired.
+
+        ii. Individuals exempted by (a)(i) of this subsection may obtain certification as a home care aide without fulfilling the training requirements in RCW 74.39A.074(1)(d)(ii) but must successfully complete a certification examination pursuant to RCW 18.88B.031.
+
+    b. All long-term care workers employed by community residential service businesses.
+
+    c. [Empty]
+
+        i. An individual provider caring only for the individual provider's biological, step, or adoptive child or parent; and
+
+        ii. For individual providers hired after September 1, 2023, an individual provider caring only for the individual provider's sibling, aunt, uncle, cousin, niece, nephew, grandparent, or grandchild, including when related by marriage or domestic partnership.
+
+    d. A person working as an individual provider who provides twenty hours or less of care for one person in any calendar month.
+
+    e. A person working as an individual provider who only provides respite services and works less than three hundred hours in any calendar year.
+
+    f. A long-term care worker providing approved services only for a spouse or registered domestic partner, pursuant to the long-term services and supports trust program established in chapter 50B.04 RCW.
+
+    g. A long-term care worker providing approved services only for a spouse or registered domestic partner and funded through the United States department of veterans affairs home and community-based programs.
+
+2. A long-term care worker exempted by this section from the training requirements contained in RCW 74.39A.074 may not be prohibited from enrolling in training pursuant to that section.
+
+3. The department shall adopt rules to implement this section.
+
+## Section 9
+1. Beginning January 7, 2012, except for long-term care workers exempt from certification under RCW 18.88B.041(1)(a):
+
+    a. A biological, step, or adoptive parent who is the individual provider only for the person's developmentally disabled son or daughter must receive twelve hours of training relevant to the needs of individuals with developmental disabilities within the first one hundred twenty days after becoming an individual provider.
+
+    b. A spouse or registered domestic partner who is a long-term care worker only for a spouse or domestic partner, pursuant to the long-term services and supports trust program established in chapter 50B.04 RCW, must receive fifteen hours of basic training, and at least six hours of additional focused training based on the care-receiving spouse's or partner's needs, within the first one hundred twenty days after becoming a long-term care worker.
+
+    c. A person working as an individual provider who (i) provides respite care services only for individuals with developmental disabilities receiving services under Title 71A RCW or only for individuals who receive services under this chapter, and (ii) works three hundred hours or less in any calendar year, must complete fourteen hours of training within the first one hundred twenty days after becoming an individual provider. Five of the fourteen hours must be completed before becoming eligible to provide care, including two hours of orientation training regarding the caregiving role and terms of employment and three hours of safety training. The training partnership identified in RCW 74.39A.360 must offer at least twelve of the fourteen hours online, and five of those online hours must be individually selected from elective courses.
+
+    d. Individual providers identified in (d)(i) or (ii) of this subsection must complete thirty‑five hours of training within the first one hundred twenty days after becoming an individual provider. Five of the thirty‑five hours must be completed before becoming eligible to provide care. Two of these five hours shall be devoted to an orientation training regarding an individual provider's role as caregiver and the applicable terms of employment, and three hours shall be devoted to safety training, including basic safety precautions, emergency procedures, and infection control. Individual providers subject to this requirement include:
+
+        i.(A) An individual provider caring only for the individual provider's biological, step, or adoptive child or parent unless covered by (a) of this subsection; and
+
+(B) For individual providers hired after September 1, 2023, an individual provider caring only for the individual provider's sibling, aunt, uncle, cousin, niece, nephew, grandparent, or grandchild, including when related by marriage or domestic partnership;
+
+        ii. A person working as an individual provider who provides twenty hours or less of care for one person in any calendar month; and
+
+        iii. A long-term care worker providing approved services only for a spouse or registered domestic partner and funded through the United States department of veterans affairs home and community-based programs.
+
+2. In computing the time periods in this section, the first day is the date of hire.
+
+3. Only training curriculum approved by the department may be used to fulfill the training requirements specified in this section. The department shall only approve training curriculum that:
+
+    a. Has been developed with input from consumer and worker representatives; and
+
+    b. Requires comprehensive instruction by qualified instructors.
+
+4. If a pandemic, natural disaster, or other declared state of emergency impacts the ability of long-term care workers to complete training as required by this section, the department may adopt rules to allow long-term care workers additional time to complete the training requirements.
+
+    a. Rules adopted under this subsection (4) are effective until the termination of the pandemic, natural disaster, or other declared state of emergency or until the department determines that all long-term care workers who were unable to complete the training required in subsection (1) of this section have had adequate access to complete the required training, whichever is later. Once the department determines a rule adopted under this subsection (4) is no longer necessary, it must repeal the rule under RCW 34.05.353.
+
+    b. Within 12 months of the termination of the pandemic, natural disaster, or other declared state of emergency, the department shall conduct a review of training compliance with subsection (1) of this section and provide the legislature with a report.
+
+5. The department shall adopt rules to implement this section.
+
+## Section 10
+Subject to the availability of amounts appropriated for this specific purpose, beginning June 1, 2025, the department shall annually report on the status of:
+
+1. The long-term care worker supply;
+
+2. The average wages of long-term care workers compared to entry-level positions in other industries;
+
+3. Projections of service demands;
+
+4. Geographic disparities in the supply of long-term care workers; and
+
+5. Any race, gender, or other worker demographic data available through preexisting administrative data sources.
+
+## Section 11
+The department of social and health services shall design a pilot project to allow the spouse or domestic partner of a person with complex medical needs who is eligible for long-term services and supports through the department of social and health services to receive payment for providing home care services to the spouse or domestic partner. The design shall consider the appropriate acuity level of the care-receiving spouse or domestic partner, the training needs of the care-providing spouse or domestic partner, payment parameters, fiscal considerations and use of medicaid matching funds, geographic locations for implementing the pilot project, ways to design the project to aid in future statewide implementation, cost estimates for implementing the pilot project, cost estimates for implementing a pilot project expansion, projected number of individuals to be served, a proposed timeline for implementation of the pilot project, and a proposed timeline for implementation of an expanded pilot project. The department of social and health services and the health care authority shall prepare and submit a waiver to the federal centers for medicare and medicaid services to allow the state to receive federal matching funds to support the pilot project. The department of social and health services shall submit the pilot project design to the office of financial management and the appropriate fiscal committees of the legislature by December 31, 2023.
+
+## Section 12
+The department of social and health services shall study the feasibility and cost of paying the parents of children under 18 years old who are medically complex or have complex support needs related to their behaviors. The department of social and health services must submit a report to the office of financial management and the appropriate fiscal committees of the legislature by December 31, 2023. The report shall address any statutory or regulatory changes needed to authorize the payments, necessary information technology changes for the agency and associated costs, elements needed to prepare a federal waiver or state plan amendments to allow for the use of federal matching funds for the payments to parents, estimates of the number of children expected to be served, the anticipated annual cost to the state both if federal matching funds are available and if they are not available, recommendations on the types of training needed for parents to support their children's care needs, and a proposed timeline for implementation which may be phased, if necessary.
+
+## Section 13
+If specific funding for the purposes of this act, referencing this act by bill or chapter number, is not provided by June 30, 2023, in the omnibus appropriations act, this act is null and void.

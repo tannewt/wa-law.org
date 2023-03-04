@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Tue 02/14 04:00 PM - Ways & Means (WM): SSB 5124 Nonrelative kin placement

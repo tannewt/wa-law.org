@@ -1,9 +1,13 @@
 # Planned Parenthood Alliance Advocates
 
+## [HB 1073](/bill/2023-24/hb/1073/) - Medical assistants 👍1  
+
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
 * 👍 Nicole Kern
 
 ## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍1  
+
+## [HB 1251](/bill/2023-24/hb/1251/) - Water system notices 👍1  
 
 ## [HB 1281](/bill/2023-24/hb/1281/) - Death with dignity act 👍1  
 
@@ -17,7 +21,7 @@
 
 ## [HB 1696](/bill/2023-24/hb/1696/) - Stalking-related offenses 👍1  
 
-## [SB 5179](/bill/2023-24/sb/5179/) - Death with dignity act 👍1  
+## [SB 5179](/bill/2023-24/sb/5179/) - Death with dignity act 👍2  
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
 * 👍 Nicole Kern

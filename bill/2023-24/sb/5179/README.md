@@ -16,15 +16,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30916&aId=152845&caId=21856&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30916&aId=152845&caId=21856&tId=4)
 
-#### 507 👍 - Pro
+#### 762 👍 - Pro
 
-#### 216 👎 - Con
+#### 293 👎 - Con
 Testifying:
 * Mary Long - Conservative Ladies of Washington
 * Conrad Reynoldson - Washington Civil & Disability Advocate
 * MD, MA, Sharon Quick - President, Physicians for Compassionate Care Education Foundation
 * Jonathan Clemens - ErgoCare Clinic
 * Laurie Layne
+* Richard Doerflinger
+* Pamela Bennetsen - CLW
+* Anita Cameron - Not Dead Yet
+* Theresa Schrempp
 
 #### 2 ❓ - Other
 

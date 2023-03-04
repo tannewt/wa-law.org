@@ -13,4 +13,6 @@
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
 * 👍 Mayor Mary Lou Pauly
 
+## [SB 5058](/bill/2023-24/sb/5058/) - Multiunit res. buildings 👍1  
+
 ## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍2  

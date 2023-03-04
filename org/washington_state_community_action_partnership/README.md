@@ -111,6 +111,8 @@
 
 ## [SB 5464](/bill/2023-24/sb/5464/) - Electronics repair 👍1  
 
+## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍1  
+
 ## [SB 5491](/bill/2023-24/sb/5491/) - Residential building exits 👍1  
 
 ## [SB 5493](/bill/2023-24/sb/5493/) - Financial instit./B&O tax 👍1  

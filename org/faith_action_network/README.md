@@ -76,6 +76,8 @@
 
 ## [SB 5480](/bill/2023-24/sb/5480/) - Work-limiting disability 👍3  
 
+## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍3  
+
 ## [SB 5513](/bill/2023-24/sb/5513/) - CTC mental health counseling 👍1  
 
 ## [SB 5533](/bill/2023-24/sb/5533/) - Model vehicle pursuit policy 👍3  

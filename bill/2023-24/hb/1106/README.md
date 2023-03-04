@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Tue 01/10 10:30 AM - Labor & Workplace Standards (LAWS): HB 1106 Unemployment/voluntary
