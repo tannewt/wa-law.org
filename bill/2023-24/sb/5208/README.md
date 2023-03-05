@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152834&caId=21869&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152834&caId=21869&tId=4)
 
-#### 33 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * Carol Sullivan
 * 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)

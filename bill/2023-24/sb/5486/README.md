@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152857&caId=21890&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152857&caId=21890&tId=4)
 
-#### 300 👍 - Pro
+#### 545 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 * 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
@@ -22,7 +22,7 @@ Testifying:
 * 💵Summer Stinson - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * Mike Yestramski - WFSE
 
-#### 5 👎 - Con
+#### 27 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Tim Eyman - Permanent Offense

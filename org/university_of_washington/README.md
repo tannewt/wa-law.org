@@ -93,6 +93,8 @@
 
 ## [SB 5476](/bill/2023-24/sb/5476/) - Agricultural overtime 👍1  
 
+## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍1  
+
 ## [SB 5523](/bill/2023-24/sb/5523/) - Forensic pathologists 👍1  
 
 ## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍2  

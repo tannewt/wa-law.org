@@ -2,11 +2,17 @@
 
 ## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions  👎1 
 
+## [HB 1033](/bill/2023-24/hb/1033/) - Compostable product usage 👍1  
+
 ## [HB 1035](/bill/2023-24/hb/1035/) - Health care restrictions 👍1  
+
+## [HB 1054](/bill/2023-24/hb/1054/) - Occupancy limits 👍1  
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍2  
+
+## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍1  
 
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
 
@@ -14,7 +20,7 @@
 
 ## [HB 1296](/bill/2023-24/hb/1296/) - Local permit review 👍1  
 
-## [HB 1326](/bill/2023-24/hb/1326/) - Utility connection charges 👍1  
+## [HB 1326](/bill/2023-24/hb/1326/) - Utility connection charges 👍2  
 
 ## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units 👍1  
 
@@ -45,7 +51,9 @@
 
 ## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍2  
 
-## [SB 5258](/bill/2023-24/sb/5258/) - Condos and townhouses 👍1  
+## [SB 5235](/bill/2023-24/sb/5235/) - Accessory dwelling units 👍1  
+
+## [SB 5258](/bill/2023-24/sb/5258/) - Condos and townhouses 👍2  
 
 ## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍2  
 

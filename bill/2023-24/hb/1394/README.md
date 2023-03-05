@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1394 Sexual offenses by youth

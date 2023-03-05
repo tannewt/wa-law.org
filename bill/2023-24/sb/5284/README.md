@@ -16,12 +16,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152835&caId=21870&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152835&caId=21870&tId=4)
 
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
 * Cindy Madigan
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Laurie Layne
 

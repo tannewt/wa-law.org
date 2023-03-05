@@ -16,9 +16,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30916&aId=152845&caId=21856&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30916&aId=152845&caId=21856&tId=4)
 
-#### 762 👍 - Pro
+#### 847 👍 - Pro
+Testifying:
+* Deborah North
 
-#### 293 👎 - Con
+#### 375 👎 - Con
 Testifying:
 * Mary Long - Conservative Ladies of Washington
 * Conrad Reynoldson - Washington Civil & Disability Advocate
@@ -30,7 +32,9 @@ Testifying:
 * Anita Cameron - Not Dead Yet
 * Theresa Schrempp
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Gabriel Wofford - HBM
 
 ### Thu 02/02 10:30 AM - Health & Long Term Care (HLTC): SB 5179 Death with dignity act
 #### 1016 👍 - Pro

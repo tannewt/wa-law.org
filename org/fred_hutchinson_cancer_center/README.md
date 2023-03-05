@@ -1,6 +1,6 @@
 # Fred Hutchinson Cancer Center
 
-## [HB 1073](/bill/2023-24/hb/1073/) - Medical assistants 👍1  
+## [HB 1073](/bill/2023-24/hb/1073/) - Medical assistants 👍2  
 
 ## [HB 1310](/bill/2023-24/hb/1310/) - Physician assistant collab. 👍1  
 

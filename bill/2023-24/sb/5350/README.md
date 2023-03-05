@@ -14,9 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30908&aId=153022&caId=21948&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30908&aId=153022&caId=21948&tId=4)
 
-#### 1 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Mary Lindsey - Washington Education Assoiciation-Retired (WEA-Retired)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Michael McKinley
 
 #### 0 ❓ - Other
 
