@@ -1,5 +1,8 @@
 # School Alliance
 
+## [SB 5019](/bill/2023-24/sb/5019/) - School safety staff   ❓1
+* ❓💵 Grace Yuan
+
 ## [SB 5031](/bill/2023-24/sb/5031/) - Special ed safety net awards 👍1  
 * 👍 Sue Ann Bube
 

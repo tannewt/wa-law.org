@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Fri 01/13 08:00 AM - State Government & Tribal Relations (SGOV): HB 1048 Voting rights act

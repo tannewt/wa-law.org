@@ -14,14 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30923&aId=152856&caId=21853&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30923&aId=152856&caId=21853&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Liz Pray - School Nurse Organization of Washington (SNOW)
 
 #### 2 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Eric pratt - America
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Grace Yuan - [School Alliance](/org/school_alliance/)
 
 ### Wed 01/11 01:30 PM - Early Learning & K-12 Education (EDU): SB 5019 School safety staff
 #### 0 👍 - Pro

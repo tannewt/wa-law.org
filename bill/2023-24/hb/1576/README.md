@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Wed 02/08 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1576 Dentist compact

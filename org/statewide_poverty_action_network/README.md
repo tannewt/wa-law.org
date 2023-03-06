@@ -84,7 +84,8 @@
 
 ## [SB 5171](/bill/2023-24/sb/5171/) - Consumer products/gender 👍1  
 
-## [SB 5173](/bill/2023-24/sb/5173/) - Property exempt from exec. 👍1  
+## [SB 5173](/bill/2023-24/sb/5173/) - Property exempt from exec. 👍2  
+* 👍💵 Shaun Scott
 
 ## [SB 5183](/bill/2023-24/sb/5183/) - Personal needs allowance 👍1  
 

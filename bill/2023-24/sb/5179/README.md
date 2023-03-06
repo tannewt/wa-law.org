@@ -16,11 +16,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30916&aId=152845&caId=21856&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30916&aId=152845&caId=21856&tId=4)
 
-#### 847 👍 - Pro
+#### 983 👍 - Pro
 Testifying:
 * Deborah North
+* Cassa Sutherland - End of Life WA
+* Darrell Owens - ARNP's
+* Dr. Deborah North
+* George Hendrickson
+* Heather Jespersen
+* Dr. Jess Kaan
+* Dick Gibson
+* Jody Disney - LWVWA
 
-#### 375 👎 - Con
+#### 481 👎 - Con
 Testifying:
 * Mary Long - Conservative Ladies of Washington
 * Conrad Reynoldson - Washington Civil & Disability Advocate

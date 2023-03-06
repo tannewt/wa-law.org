@@ -11,6 +11,8 @@
 
 ## [HB 1042](/bill/2023-24/hb/1042/) - Use of existing buildings 👍1  
 
+## [HB 1077](/bill/2023-24/hb/1077/) - Courthouse facility dogs 👍1  
+
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍2  
 
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
@@ -33,6 +35,6 @@
 
 ## [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍2  
 
-## [SB 5324](/bill/2023-24/sb/5324/) - Defense compatibility acct. 👍2  
+## [SB 5324](/bill/2023-24/sb/5324/) - Defense compatibility acct. 👍3  
 
 ## [SB 5478](/bill/2023-24/sb/5478/) - Bridge jumping signs 👍1  

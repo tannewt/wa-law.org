@@ -16,14 +16,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30920&aId=152962&caId=21920&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30920&aId=152962&caId=21920&tId=4)
 
-#### 7 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Stephanie Barnard - Rep. Stephanie Barnard (8LD, Prime Sponsor)
 * Madison Schroder - Generation Atomic
 * James Conca - UFA Ventures, Inc.
 * Leila El-Wakil MD
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Cathryn Chudy - Oregon Conservancy Foundation
 * Phil Lusk

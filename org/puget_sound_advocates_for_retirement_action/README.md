@@ -29,7 +29,7 @@
 ## [SB 5169](/bill/2023-24/sb/5169/) - Medicare/health care plans 👍1  
 * 👍 James Barrett DeLong
 
-## [SB 5179](/bill/2023-24/sb/5179/) - Death with dignity act 👍1  
+## [SB 5179](/bill/2023-24/sb/5179/) - Death with dignity act 👍2  
 
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures 👍1  
 
@@ -48,6 +48,8 @@
 ## [SB 5393](/bill/2023-24/sb/5393/) - Health provider contracting 👍2  
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
+
+## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍1  
 
 ## [SB 5509](/bill/2023-24/sb/5509/) - Public infrastructure bank 👍1  
 

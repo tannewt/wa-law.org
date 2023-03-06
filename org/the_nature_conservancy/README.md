@@ -49,13 +49,15 @@
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1  
 * 👍💵 Justin Allegro
 
+## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
+
 ## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍2  
 
 ## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
 
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍1  
 
-## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍1  
+## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍2  
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management 👍1  
 
