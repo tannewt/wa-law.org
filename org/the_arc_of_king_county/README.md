@@ -19,14 +19,18 @@
 
 ## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍2  
 
-## [HB 1188](/bill/2023-24/hb/1188/) - Child welfare services/DD 👍3  
+## [HB 1188](/bill/2023-24/hb/1188/) - Child welfare services/DD 👍4  
 * 👍💵 Ramona Hattendorf
+
+## [HB 1204](/bill/2023-24/hb/1204/) - Family connections program 👍1  
 
 ## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍2  
 
 ## [HB 1239](/bill/2023-24/hb/1239/) - Educator ethics & complaints 👍2  
 
 ## [HB 1247](/bill/2023-24/hb/1247/) - Music therapists 👍1  
+
+## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍1  
 
 ## [HB 1265](/bill/2023-24/hb/1265/) - Adult family homes/prop. tax 👍1  
 
@@ -42,7 +46,7 @@
 
 ## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  
 
-## [HB 1407](/bill/2023-24/hb/1407/) - Dev. disability/eligibility 👍3  
+## [HB 1407](/bill/2023-24/hb/1407/) - Dev. disability/eligibility 👍4  
 * 👍💵 Ramona Hattendorf
 
 ## [HB 1436](/bill/2023-24/hb/1436/) - Special education funding 👍1  

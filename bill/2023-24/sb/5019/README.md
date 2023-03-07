@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30923&aId=152856&caId=21853&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30923&aId=152856&caId=21853&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Liz Pray - School Nurse Organization of Washington (SNOW)
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 
-#### 2 👎 - Con
+#### 235 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Eric pratt - America

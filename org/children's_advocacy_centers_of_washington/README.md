@@ -1,5 +1,12 @@
 # Children's Advocacy Centers of Washington
 
+## [HB 1069](/bill/2023-24/hb/1069/) - Mental health counselor comp 👍1  
+
+## [HB 1077](/bill/2023-24/hb/1077/) - Courthouse facility dogs 👍1  
+* 👍 Paula Reed
+
+## [HB 1165](/bill/2023-24/hb/1165/) - Intimate images/civil remedy 👍1  
+
 ## [HB 1439](/bill/2023-24/hb/1439/) - Child exposure to violence 👍3  
 * 👍 PAULA REED
 * 👍 Paula Reed
@@ -13,6 +20,8 @@
 ## [HB 1715](/bill/2023-24/hb/1715/) - Domestic violence  👎1 
 
 ## [HB 1766](/bill/2023-24/hb/1766/) - Protection orders/hope cards 👍1  
+
+## [SB 5070](/bill/2023-24/sb/5070/) - Nonfatal strangulation 👍1  
 
 ## [SB 5219](/bill/2023-24/sb/5219/) - Counseling compact 👍1  
 

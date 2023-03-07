@@ -47,9 +47,12 @@
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 * 👍 Councilmember Kelli Curtis
 
+## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍1  
+* 👍💵 Brian Enslow
+
 ## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍2  
 
-## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍2  
+## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍3  
 
 ## [SB 5235](/bill/2023-24/sb/5235/) - Accessory dwelling units 👍1  
 

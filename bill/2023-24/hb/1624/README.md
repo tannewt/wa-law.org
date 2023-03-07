@@ -18,7 +18,7 @@ Sign up to testify:
 Testifying:
 * Tim Garchow - Washington State School Directors' Association
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

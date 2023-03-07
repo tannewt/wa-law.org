@@ -1,5 +1,7 @@
 # Association of Washington Business
 
+## [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍1  
+
 ## [HB 1003](/bill/2023-24/hb/1003/) - Dual credit program access 👍1  
 
 ## [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍1  
@@ -56,7 +58,7 @@
 ## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  
 * 👍💵 Peter Godlewski
 
-## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍1  
+## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍2  
 
 ## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting 👍1  
 
@@ -410,7 +412,7 @@
 
 ## [SB 5554](/bill/2023-24/sb/5554/) - College grant award amounts 👍2  
 
-## [SB 5565](/bill/2023-24/sb/5565/) - Tax and revenue laws 👍1  
+## [SB 5565](/bill/2023-24/sb/5565/) - Tax and revenue laws 👍2  
 
 ## [SB 5582](/bill/2023-24/sb/5582/) - Nurse supply 👍1  
 

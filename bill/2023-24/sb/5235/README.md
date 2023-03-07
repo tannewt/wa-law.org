@@ -15,13 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30929&aId=152935&caId=21859&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30929&aId=152935&caId=21859&tId=4)
 
-#### 19 👍 - Pro
+#### 42 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Arne Woodard - Councilmember, City of Spokane Valley
 
 ### Thu 01/26 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5235 Accessory dwelling units
 #### 34 👍 - Pro

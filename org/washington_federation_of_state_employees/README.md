@@ -11,6 +11,8 @@
 
 ## [HB 1491](/bill/2023-24/hb/1491/) - Employee personal vehicles 👍1  
 
+## [HB 1564](/bill/2023-24/hb/1564/) - OTC sexual assault kits 👍1  
+
 ## [HB 1566](/bill/2023-24/hb/1566/) - Vacation leave accrual 👍1  
 * 👍 Kati Durkin
 

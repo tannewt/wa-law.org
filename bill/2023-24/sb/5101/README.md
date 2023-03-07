@@ -15,10 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30932&aId=152876&caId=21851&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30932&aId=152876&caId=21851&tId=4)
 
-#### 11 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Jim Chambers
 * MELODY SIMLE
+* 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
 
 #### 0 👎 - Con
 

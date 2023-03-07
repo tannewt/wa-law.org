@@ -64,6 +64,8 @@
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
 * 👍 Joe Dacca
 
+## [SB 5079](/bill/2023-24/sb/5079/) - Tuition establishment date 👍1  
+
 ## [SB 5169](/bill/2023-24/sb/5169/) - Medicare/health care plans 👍2  
 
 ## [SB 5179](/bill/2023-24/sb/5179/) - Death with dignity act 👍1  

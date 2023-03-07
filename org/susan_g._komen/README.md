@@ -19,6 +19,7 @@
 ## [SB 5388](/bill/2023-24/sb/5388/) - Diversity in clinical trials 👍2  
 * 👍💵 Kirsten Smith
 
-## [SB 5396](/bill/2023-24/sb/5396/) - Breast exam cost sharing 👍2  
+## [SB 5396](/bill/2023-24/sb/5396/) - Breast exam cost sharing 👍3  
+* 👍💵 Kirsten Smith
 * 👍💵 Kirsten Smith
 * 👍💵 Kirsten Smith

@@ -1,5 +1,7 @@
 # City of Tacoma
 
+## [HB 1069](/bill/2023-24/hb/1069/) - Mental health counselor comp 👍1  
+
 ## [HB 1087](/bill/2023-24/hb/1087/) - Solitary confinement 👍1  
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍2  
@@ -65,6 +67,9 @@
 * ❓💵 Briahna Murray
 
 ## [SB 5219](/bill/2023-24/sb/5219/) - Counseling compact 👍1  
+
+## [SB 5258](/bill/2023-24/sb/5258/) - Condos and townhouses 👍1  
+* 👍 Councilmember Sarah Rumbaugh
 
 ## [SB 5270](/bill/2023-24/sb/5270/) - DOC/immigration assistance 👍1  
 

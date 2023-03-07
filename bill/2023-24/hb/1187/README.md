@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Wed 01/18 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1187 Employee-union privilege

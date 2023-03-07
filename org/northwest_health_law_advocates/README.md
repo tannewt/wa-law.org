@@ -40,4 +40,6 @@
 ## [SB 5393](/bill/2023-24/sb/5393/) - Health provider contracting 👍2  
 * 👍💵 Emily Brice
 
+## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍1  
+
 ## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍1  

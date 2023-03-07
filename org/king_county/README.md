@@ -103,6 +103,8 @@
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
 
+## [HB 1340](/bill/2023-24/hb/1340/) - Health professions/conduct 👍1  
+
 ## [HB 1342](/bill/2023-24/hb/1342/) - Embodied carbon reductions 👍1  
 
 ## [HB 1347](/bill/2023-24/hb/1347/) - Integrating community-based health assessments into foundational environmental policies to improve environmental justice. 👍1  

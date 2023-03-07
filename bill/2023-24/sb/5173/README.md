@@ -16,11 +16,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30891&aId=152893&caId=21845&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30891&aId=152893&caId=21845&tId=4)
 
-#### 29 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * 💵Shaun Scott - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* John Webber - Washington State Association for Justice
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -14,7 +14,8 @@
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍6  
 * 👍💵 Jazmine Smith
 
-## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
+## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍2  
+* 👍💵 Jazmine Smith
 
 ## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍10  
 

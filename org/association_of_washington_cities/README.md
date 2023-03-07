@@ -14,6 +14,8 @@
 
 ## [HB 1056](/bill/2023-24/hb/1056/) - Postretirement employment 👍1  
 
+## [HB 1086](/bill/2023-24/hb/1086/) - Community org. contracts 👍1  
+
 ## [HB 1099](/bill/2023-24/hb/1099/) - Public works wages   ❓1
 * ❓ Brandy DeLange
 
@@ -184,7 +186,7 @@
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍1  
 * 👍💵 Carl Schroeder
 
-## [SB 5229](/bill/2023-24/sb/5229/) - Site readiness grants 👍2  
+## [SB 5229](/bill/2023-24/sb/5229/) - Site readiness grants 👍3  
 
 ## [SB 5235](/bill/2023-24/sb/5235/) - Accessory dwelling units   ❓1
 * ❓💵 Carl Schroeder
@@ -200,7 +202,8 @@
 
 ## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍2  
 
-## [SB 5294](/bill/2023-24/sb/5294/) - Retirement system funding 👍1  
+## [SB 5294](/bill/2023-24/sb/5294/) - Retirement system funding 👍2  
+* 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
 ## [SB 5303](/bill/2023-24/sb/5303/) - Public works trust account 👍1  

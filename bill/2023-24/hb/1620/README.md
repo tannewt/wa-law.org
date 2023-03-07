@@ -15,9 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30934&aId=152881&caId=21886&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30934&aId=152881&caId=21886&tId=4)
 
-#### 3 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Jim West
+* Marty Campbell
+* Marty Campbell
 
 #### 0 👎 - Con
 

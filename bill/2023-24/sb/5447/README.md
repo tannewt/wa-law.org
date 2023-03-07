@@ -16,11 +16,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30936&aId=152950&caId=21904&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30936&aId=152950&caId=21904&tId=4)
 
-#### 4 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * 💵Donny Donovan - IAM 751
+* 💵Charles Knutson - Amazon
+* Scott Kennedy - [Alaska Airlines](/org/alaska_airlines/)
+* Dana Debel - Delta Airlines
+* Scott Kennedy - [Alaska Airlines](/org/alaska_airlines/)
+* Joel Creswell - Washington Department of Ecology
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Brandon Bowersox-Johnson
 
 #### 0 ❓ - Other
 

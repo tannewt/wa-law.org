@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Mon 03/06 08:00 AM - Health Care & Wellness (HCW): ESSB 5179 Death with dignity act
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30916&aId=152845&caId=21856&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30916&aId=152845&caId=21856&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30916&aId=152845&caId=21856&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30916&aId=152845&caId=21856&tId=4)
-
-#### 983 👍 - Pro
+#### 1009 👍 - Pro
 Testifying:
 * Deborah North
 * Cassa Sutherland - End of Life WA
@@ -28,7 +22,7 @@ Testifying:
 * Dick Gibson
 * Jody Disney - LWVWA
 
-#### 481 👎 - Con
+#### 634 👎 - Con
 Testifying:
 * Mary Long - Conservative Ladies of Washington
 * Conrad Reynoldson - Washington Civil & Disability Advocate
@@ -39,8 +33,10 @@ Testifying:
 * Pamela Bennetsen - CLW
 * Anita Cameron - Not Dead Yet
 * Theresa Schrempp
+* FACS, FAAEM, Robin Bernhoft (MD
+* Richard Grunewald
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Gabriel Wofford - HBM
 

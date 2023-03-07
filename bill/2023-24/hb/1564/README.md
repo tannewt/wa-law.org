@@ -14,11 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30944&aId=152965&caId=21914&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30944&aId=152965&caId=21914&tId=4)
 
-#### 21 👍 - Pro
+#### 59 👍 - Pro
 Testifying:
 * Madeline Brown
+* Antoinette Bonsignore
+* Katie Kolan - Washington State Hospital Association (WSHA)
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Ian Goodhew - UW Medicine-Harborview
+* 💵Leah Griffin - Sexual Assault Forensic Examination Best Practices Working Group, Representative of Survivors
 
-#### 1 👎 - Con
+#### 15 👎 - Con
+Testifying:
+* Debra Carlson-Chamberlin
 
 #### 0 ❓ - Other
 

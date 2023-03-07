@@ -17,12 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30929&aId=152933&caId=21857&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30929&aId=152933&caId=21857&tId=4)
 
-#### 6 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * 💵Michael Moran - Office of Assessments/King County Assessor John Wilson
 * Cynthia Stewart - League of Women Voters of WA
+* Neal Black - Council member,  City of Kirkland
+* 💵Brian Enslow - [City of Kirkland](/org/city_of_kirkland/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

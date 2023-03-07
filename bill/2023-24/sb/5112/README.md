@@ -17,14 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152831&caId=21866&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152831&caId=21866&tId=4)
 
-#### 13 👍 - Pro
+#### 64 👍 - Pro
 Testifying:
 * Carol Sullivan - League of Women Voters of WA
 * Steve Hobbs - Secretary of State
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Eric pratt - America
 

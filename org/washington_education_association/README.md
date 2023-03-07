@@ -288,10 +288,15 @@
 
 ## [HB 1823](/bill/2023-24/hb/1823/) - WA student loan program 👍1  
 
+## [SB 5019](/bill/2023-24/sb/5019/) - School safety staff 👍1  
+* 👍💵 Julie Salvi
+
 ## [SB 5023](/bill/2023-24/sb/5023/) - Roadside safety measures 👍1  
 
 ## [SB 5024](/bill/2023-24/sb/5024/) - K-12 education/parent rights  👎1 
 * 👎💵 Julie Salvi
+
+## [SB 5031](/bill/2023-24/sb/5031/) - Special ed safety net awards 👍1  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act 👍1  
 

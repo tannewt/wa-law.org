@@ -19,6 +19,8 @@
 
 ## [HB 1640](/bill/2023-24/hb/1640/) - Pardons and commutations 👍2  
 
+## [SB 5101](/bill/2023-24/sb/5101/) - DOC medical placements 👍1  
+
 ## [SB 5135](/bill/2023-24/sb/5135/) - Solitary confinement 👍1  
 * 👍 Anthony Blankenship
 

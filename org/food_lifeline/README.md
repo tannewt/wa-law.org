@@ -15,6 +15,8 @@
 
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍4  
 
+## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍1  
+
 ## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits  👎2 
 * 👎💵 Aaron Czyzewski
 
@@ -26,7 +28,7 @@
 
 ## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct 👍2  
 
-## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍4  
+## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍5  
 * 👍 Alicya Pearson
 * 👍 Alicya Pearson
 
@@ -73,6 +75,8 @@
 ## [SB 5341](/bill/2023-24/sb/5341/) - WA food & ag. products 👍1  
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍4  
+
+## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍2  
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
 

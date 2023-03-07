@@ -16,13 +16,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152830&caId=21865&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152830&caId=21865&tId=4)
 
-#### 155 👍 - Pro
+#### 276 👍 - Pro
 Testifying:
 * Carol Sullivan
 * 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
 * Andrew Villeneuve - Northwest Progressive Institute
+* Julie Wise - King County Director of Elections
+* Abigail Leong - Washington Voting Justice Coalition
+* 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
+* Kari Bull - FairVote Washington
+* Kamau Chege - Washington Community Alliance
+* Kathy Sakahara - Northwest Progressive Institute
+* Steve Zemke - MajorityRules
+* Steve Hobbs - Secretary of State
 
-#### 13 👎 - Con
+#### 214 👎 - Con
 Testifying:
 * Eric pratt - America
 * Tim Eyman
@@ -31,6 +39,8 @@ Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Neil DeBoer
 * Anthony Mixer
+* Eric Cooper
+* Chrissy Eggebraaten
 
 #### 0 ❓ - Other
 
