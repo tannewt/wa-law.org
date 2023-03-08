@@ -17,11 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30920&aId=152959&caId=21917&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30920&aId=152959&caId=21917&tId=4)
 
-#### 49 👍 - Pro
+#### 60 👍 - Pro
 Testifying:
 * Sarah Sutton - Environment and Culture Partners
+* Grace Doleshel - Our Climate
 
-#### 2 👎 - Con
+#### 12 👎 - Con
 Testifying:
 * John Worthington - AAMC
 

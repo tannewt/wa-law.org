@@ -15,7 +15,7 @@
 
 ## [HB 1251](/bill/2023-24/hb/1251/) - Water system notices 👍1  
 
-## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍1  
+## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍2  
 
 ## [HB 1265](/bill/2023-24/hb/1265/) - Adult family homes/prop. tax 👍1  
 
@@ -53,7 +53,7 @@
 
 ## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍1  
 
-## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍1  
+## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍2  
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍2  
 

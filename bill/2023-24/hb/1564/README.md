@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30944&aId=152965&caId=21914&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30944&aId=152965&caId=21914&tId=4)
 
-#### 59 👍 - Pro
+#### 116 👍 - Pro
 Testifying:
 * Madeline Brown
 * Antoinette Bonsignore
@@ -22,10 +22,21 @@ Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Ian Goodhew - UW Medicine-Harborview
 * 💵Leah Griffin - Sexual Assault Forensic Examination Best Practices Working Group, Representative of Survivors
+* Jon Tunheim - Thurston County Prosecutor/WA Assoc of Prosecuting Attorneys
+* Riddhi Mukhopadhyay - Sexual Violence Law Center
+* Quinn Dalan - Washington State Women’s Commission
+* Heidi Anderson - WA State Attorney General's Office
+* 💵Alex Davidson - The Associated Students of the University of Washington
+* Maddie Menser - UW Greeks Take Action
 
-#### 15 👎 - Con
+#### 45 👎 - Con
 Testifying:
 * Debra Carlson-Chamberlin
+* Kaylee Powers - WA Licenced SANE
+* Andrea Cruz - Survivors of color
+* Hannah Chamberlin - Leda Health
+* Ilana Turko - Leda Health
+* Paris Crawford - Leda Health
 
 #### 0 ❓ - Other
 

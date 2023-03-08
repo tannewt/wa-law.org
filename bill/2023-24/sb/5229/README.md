@@ -15,7 +15,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30910&aId=152828&caId=21860&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30910&aId=152828&caId=21860&tId=4)
 
-#### 4 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Shawn Logan - [City of Othello](/org/city_of_othello/)
 
 #### 0 👎 - Con
 

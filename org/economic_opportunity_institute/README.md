@@ -32,6 +32,8 @@
 ## [HB 1795](/bill/2023-24/hb/1795/) - Estate tax 👍1  
 * 👍💵 Carolyn Brotherton
 
+## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
+
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍1  
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍2  

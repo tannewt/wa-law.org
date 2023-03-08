@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30886&aId=152735&caId=21876&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30886&aId=152735&caId=21876&tId=4)
 
-#### 179 👍 - Pro
+#### 246 👍 - Pro
 Testifying:
 * Sarah Bolong-Banks
 * Ranjith kumar Thumeti
@@ -25,12 +25,16 @@ Testifying:
 * Safia Abdulle
 * Torrie Amaratunge
 * Laura Pavlov
+* FAYSA DIRIYE
+* Hamdi Mohamed - Port of Seattle Commissioner
 
-#### 2 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * vian Salih
+* Vian Salih
+* Vian Salih
 
-#### 8 ❓ - Other
+#### 11 ❓ - Other
 
 ### Thu 02/16 08:00 AM - Law & Justice (LAW): HB 1199 Child care/communities
 #### 475 👍 - Pro

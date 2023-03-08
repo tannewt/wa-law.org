@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Wed 01/25 01:30 PM - State Government & Tribal Relations (SGOV): HB 1362 Reports

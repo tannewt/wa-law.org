@@ -17,7 +17,7 @@
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍2  
 
-## [HB 1564](/bill/2023-24/hb/1564/) - OTC sexual assault kits 👍1  
+## [HB 1564](/bill/2023-24/hb/1564/) - OTC sexual assault kits 👍2  
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
 

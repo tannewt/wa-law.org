@@ -1,5 +1,8 @@
 # Zero Waste Washington
 
+## [HB 1033](/bill/2023-24/hb/1033/) - Compostable product usage 👍1  
+* 👍💵 Heather Trim
+
 ## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals 👍1  
 
 ## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
@@ -48,7 +51,8 @@
 ## [SB 5287](/bill/2023-24/sb/5287/) - Wind turbine blade recycling 👍1  
 * 👍💵 Heather Trim
 
-## [SB 5369](/bill/2023-24/sb/5369/) - Polychlorinated biphenyls 👍2  
+## [SB 5369](/bill/2023-24/sb/5369/) - Polychlorinated biphenyls 👍3  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
 ## [SB 5376](/bill/2023-24/sb/5376/) - Cannabis waste 👍2  

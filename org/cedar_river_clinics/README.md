@@ -3,7 +3,7 @@
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍2  
 * 👍 Dr. Anuj Khattar
 
-## [HB 1340](/bill/2023-24/hb/1340/) - Health professions/conduct 👍2  
+## [HB 1340](/bill/2023-24/hb/1340/) - Health professions/conduct 👍3  
 * 👍 Dr Anuj Khattar
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  

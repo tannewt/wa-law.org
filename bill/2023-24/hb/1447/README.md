@@ -16,12 +16,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30906&aId=153011&caId=21933&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30906&aId=153011&caId=21933&tId=4)
 
-#### 56 👍 - Pro
+#### 122 👍 - Pro
 Testifying:
 * Avi Laudon - Workforce Development Council of Seattle and King County
 * Ali Scego - [Neighborhood House](/org/neighborhood_house/)
+* 💵Alex Hur - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

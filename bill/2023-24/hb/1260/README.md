@@ -16,13 +16,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30906&aId=153001&caId=21930&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30906&aId=153001&caId=21930&tId=4)
 
-#### 122 👍 - Pro
+#### 219 👍 - Pro
 Testifying:
 * Dan Wise - Catholic Community Services
+* 💵Alex Hur - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 02/15 04:00 PM - Appropriations (APP): HB 1260 Work-limiting disability
 #### 303 👍 - Pro

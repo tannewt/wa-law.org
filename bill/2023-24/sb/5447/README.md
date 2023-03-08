@@ -16,7 +16,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30936&aId=152950&caId=21904&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30936&aId=152950&caId=21904&tId=4)
 
-#### 13 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * 💵Donny Donovan - IAM 751
 * 💵Charles Knutson - Amazon

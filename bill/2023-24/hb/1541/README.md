@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)
 
 ## Meetings
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1541 Lived experience

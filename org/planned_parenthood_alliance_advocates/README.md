@@ -1,6 +1,7 @@
 # Planned Parenthood Alliance Advocates
 
-## [HB 1073](/bill/2023-24/hb/1073/) - Medical assistants 👍1  
+## [HB 1073](/bill/2023-24/hb/1073/) - Medical assistants 👍2  
+* 👍 Nicole Kern
 
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
 * 👍 Nicole Kern

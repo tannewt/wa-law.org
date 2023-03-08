@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30931&aId=152870&caId=21900&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30931&aId=152870&caId=21900&tId=4)
 
-#### 21 👍 - Pro
+#### 166 👍 - Pro
 Testifying:
 * Maile Mohsenian - Empire Therapy
 * Renae Lewandowski - Therapeutic Beginnings

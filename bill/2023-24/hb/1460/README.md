@@ -15,10 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30900&aId=152997&caId=21927&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30900&aId=152997&caId=21927&tId=4)
 
-#### 274 👍 - Pro
+#### 335 👍 - Pro
 Testifying:
 * Sherri Dysart - League of Women Voters of Washington
 * Nicole Pasi - Mountains to Sound Greenway Trust
+* Heidi Eisenhour - Jefferson County
+* Jeff Lambert
+* Maggie Coon - [Methow Valley Citizens Council](/org/methow_valley_citizens_council/)
 
 #### 1 👎 - Con
 Testifying:

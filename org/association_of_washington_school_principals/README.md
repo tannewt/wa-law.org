@@ -2,11 +2,13 @@
 
 ## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍1  
 
-## [HB 1015](/bill/2023-24/hb/1015/) - Paraeducator requirements 👍1  
+## [HB 1015](/bill/2023-24/hb/1015/) - Paraeducator requirements 👍2  
 
 ## [HB 1056](/bill/2023-24/hb/1056/) - Postretirement employment 👍1  
 
 ## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍2  
+
+## [HB 1113](/bill/2023-24/hb/1113/) - Prof. educator reprimands 👍1  
 
 ## [HB 1207](/bill/2023-24/hb/1207/) - Harassment/schools 👍1  
 
@@ -18,7 +20,7 @@
 
 ## [HB 1273](/bill/2023-24/hb/1273/) - High school and beyond plans   ❓1
 
-## [HB 1277](/bill/2023-24/hb/1277/) - Paraeducator course of study 👍1  
+## [HB 1277](/bill/2023-24/hb/1277/) - Paraeducator course of study 👍2  
 
 ## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options 👍1  
 
@@ -27,6 +29,9 @@
 ## [HB 1332](/bill/2023-24/hb/1332/) - Tribes/K-12 instruction 👍1  
 
 ## [HB 1346](/bill/2023-24/hb/1346/) - Purple star award 👍1  
+
+## [HB 1377](/bill/2023-24/hb/1377/) - Continuing education/K-12 👍1  
+* 👍💵 Roz Thompson
 
 ## [HB 1411](/bill/2023-24/hb/1411/) - Cross-sector prof. dev. 👍1  
 

@@ -18,6 +18,9 @@
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
 
+## [HB 1326](/bill/2023-24/hb/1326/) - Utility connection charges 👍1  
+* 👍 Andrew Baker
+
 ## [HB 1385](/bill/2023-24/hb/1385/) - Civil forfeiture proceedings   ❓1
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
@@ -33,7 +36,7 @@
 ## [HB 1670](/bill/2023-24/hb/1670/) - Property tax limit factor 👍1  
 * 👍 Lacey Jane Wolfe
 
-## [HB 1695](/bill/2023-24/hb/1695/) - Surplus property/housing 👍1  
+## [HB 1695](/bill/2023-24/hb/1695/) - Surplus property/housing 👍2  
 
 ## [HB 1706](/bill/2023-24/hb/1706/) - Microenterprise home kitchen   ❓1
 

@@ -61,6 +61,8 @@
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍3  
 
+## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
+
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 * 👍💵 Kristin Ang
 
@@ -76,7 +78,7 @@
 
 ## [SB 5480](/bill/2023-24/sb/5480/) - Work-limiting disability 👍3  
 
-## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍3  
+## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍6  
 
 ## [SB 5513](/bill/2023-24/sb/5513/) - CTC mental health counseling 👍1  
 

@@ -15,9 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30934&aId=152883&caId=21888&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30934&aId=152883&caId=21888&tId=4)
 
-#### 6 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Mendy Droke - Seattle City Light
+* Andrew Baker - [City of Bellevue](/org/city_of_bellevue/)
+* Jesse Simpson - Housing Development Consortium
+* Mason Cavell - Community Roots Housing
 
 #### 0 👎 - Con
 

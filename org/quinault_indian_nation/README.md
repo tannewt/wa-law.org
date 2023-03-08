@@ -17,5 +17,6 @@
 
 ## [SB 5482](/bill/2023-24/sb/5482/) - Margin tax  👎1 
 
-## [SB 5689](/bill/2023-24/sb/5689/) - Internet projects/tribes 👍1  
+## [SB 5689](/bill/2023-24/sb/5689/) - Internet projects/tribes 👍2  
+* 👍 Tyson Johnston
 * 👍 Tyson Johnston

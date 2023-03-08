@@ -15,11 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152859&caId=21892&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152859&caId=21892&tId=4)
 
-#### 15 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * Councilmember Sarah Rumbaugh - [City of Tacoma](/org/city_of_tacoma/)
+* 💵Bill Clarke - WA REALTORS
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -15,9 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30914&aId=153019&caId=21926&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30914&aId=153019&caId=21926&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Marc Webster - Washington State Liquor and Cannabis Board
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* john Worthington - AAMC
 
 #### 0 ❓ - Other
 

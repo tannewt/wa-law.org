@@ -43,6 +43,8 @@
 
 ## [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information 👍1  
 
+## [HB 1564](/bill/2023-24/hb/1564/) - OTC sexual assault kits 👍1 👎1 
+
 ## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍1  
 
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍1  

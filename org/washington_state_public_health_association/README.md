@@ -22,9 +22,9 @@
 
 ## [HB 1240](/bill/2023-24/hb/1240/) - Firearms/assault weapons 👍1  
 
-## [HB 1251](/bill/2023-24/hb/1251/) - Water system notices 👍2  
+## [HB 1251](/bill/2023-24/hb/1251/) - Water system notices 👍3  
 
-## [HB 1340](/bill/2023-24/hb/1340/) - Health professions/conduct 👍1  
+## [HB 1340](/bill/2023-24/hb/1340/) - Health professions/conduct 👍2  
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
 

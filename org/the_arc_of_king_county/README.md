@@ -125,6 +125,8 @@
 
 ## [SB 5480](/bill/2023-24/sb/5480/) - Work-limiting disability 👍1  
 
+## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍1  
+
 ## [SB 5506](/bill/2023-24/sb/5506/) - Behavior support homes   ❓1
 * ❓💵 Ramona Hattendorf
 

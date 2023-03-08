@@ -19,8 +19,11 @@
 
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍3  
 
-## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍5  
+## [HB 1251](/bill/2023-24/hb/1251/) - Water system notices 👍1  
+
+## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍7  
 * 👍💵 Lianna Kressin
+* 👍💵 Alex Hur
 * 👍💵 Alex Hur
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
@@ -35,9 +38,10 @@
 
 ## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍2  
 
-## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍7  
+## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍9  
 * 👍💵 Alex Hur
 * 👍💵 Lianna Kressin
+* 👍💵 Alex Hur
 * 👍💵 Alex Hur
 * 👍💵 Alex Hur
 
@@ -50,7 +54,7 @@
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍2  
 
-## [HB 1499](/bill/2023-24/hb/1499/) - Food assistance funding 👍1  
+## [HB 1499](/bill/2023-24/hb/1499/) - Food assistance funding 👍2  
 
 ## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍2  
 

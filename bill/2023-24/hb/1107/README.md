@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30907&aId=152963&caId=21903&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30907&aId=152963&caId=21903&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Anne Paxton - [Unemployment Law Project](/org/unemployment_law_project/)
+* Caitlyn Jekel - WA State Employment Security Dept
+* Lawrence Banks - WA State Employment Security Dept
 
 #### 0 👎 - Con
 

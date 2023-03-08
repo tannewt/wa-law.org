@@ -5,6 +5,8 @@
 
 ## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍1  
 
+## [HB 1204](/bill/2023-24/hb/1204/) - Family connections program 👍1  
+
 ## [HB 1295](/bill/2023-24/hb/1295/) - DCYF placement agreements 👍1  
 
 ## [HB 1432](/bill/2023-24/hb/1432/) - Juvenile justice   ❓1

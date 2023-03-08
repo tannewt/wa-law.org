@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152857&caId=21890&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152857&caId=21890&tId=4)
 
-#### 1081 👍 - Pro
+#### 1557 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 * 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
@@ -23,8 +23,11 @@ Testifying:
 * Mike Yestramski - WFSE
 * Martha Burke
 * Oliver Miska - WAESN
+* E. Bailey Medilo
+* 💵Hyeeun Park - BIPOC Executive Directors Coalition
+* 💵Karen Strickland - American Federation of Teachers (AFT)
 
-#### 67 👎 - Con
+#### 215 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Tim Eyman - Permanent Offense
@@ -36,6 +39,7 @@ Testifying:
 * John Fannon
 * William Fulwyler
 * Gene Fortune
+* Krysta Verbarendse
 
 #### 2 ❓ - Other
 Testifying:

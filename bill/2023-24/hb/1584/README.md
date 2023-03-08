@@ -16,7 +16,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30920&aId=152962&caId=21920&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30920&aId=152962&caId=21920&tId=4)
 
-#### 61 👍 - Pro
+#### 89 👍 - Pro
 Testifying:
 * Stephanie Barnard - Rep. Stephanie Barnard (8LD, Prime Sponsor)
 * Madison Schroder - Generation Atomic
@@ -24,12 +24,13 @@ Testifying:
 * Leila El-Wakil MD
 * 💵Seth Worley - UA Plumbers and Steamfitters Local 598
 
-#### 5 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * Cathryn Chudy - Oregon Conservancy Foundation
 * Phil Lusk
 * Roger Lippman - Nuclear Free Northwest
 * Phil Lusk
+* Jim Thomas
 
 #### 0 ❓ - Other
 

@@ -10,9 +10,13 @@
 
 ## [HB 1332](/bill/2023-24/hb/1332/) - Tribes/K-12 instruction 👍1  
 
+## [HB 1377](/bill/2023-24/hb/1377/) - Continuing education/K-12 👍2  
+
 ## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍1  
 
 ## [HB 1658](/bill/2023-24/hb/1658/) - Work experience/H.S. credit 👍1  
+
+## [SB 5229](/bill/2023-24/sb/5229/) - Site readiness grants 👍1  
 
 ## [SB 5247](/bill/2023-24/sb/5247/) - Climate-ready communities 👍1  
 
@@ -23,6 +27,6 @@
 
 ## [SB 5527](/bill/2023-24/sb/5527/) - Graduation pathway options 👍1  
 
-## [SB 5617](/bill/2023-24/sb/5617/) - Career & tech. ed. courses 👍1  
+## [SB 5617](/bill/2023-24/sb/5617/) - Career & tech. ed. courses 👍2  
 
 ## [SB 5668](/bill/2023-24/sb/5668/) - Small districts/skill center 👍1  

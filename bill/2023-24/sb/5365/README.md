@@ -16,7 +16,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30914&aId=153018&caId=21925&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30914&aId=153018&caId=21925&tId=4)
 
-#### 18 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Jeff Ketchel - [Washington State Public Health Association](/org/washington_state_public_health_association/)
 

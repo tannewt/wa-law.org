@@ -15,7 +15,7 @@
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing   ❓1
 * ❓ Tiffany Speir
 
-## [SB 5324](/bill/2023-24/sb/5324/) - Defense compatibility acct. 👍1  
+## [SB 5324](/bill/2023-24/sb/5324/) - Defense compatibility acct. 👍2  
 
 ## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎2 
 

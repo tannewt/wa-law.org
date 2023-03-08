@@ -16,7 +16,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152830&caId=21865&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152830&caId=21865&tId=4)
 
-#### 276 👍 - Pro
+#### 348 👍 - Pro
 Testifying:
 * Carol Sullivan
 * 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
@@ -29,8 +29,10 @@ Testifying:
 * Kathy Sakahara - Northwest Progressive Institute
 * Steve Zemke - MajorityRules
 * Steve Hobbs - Secretary of State
+* Hailey Wu - Asian Counseling and Referral Service
+* Joseph Lachman - Asian Counseling and Referral Service
 
-#### 214 👎 - Con
+#### 347 👎 - Con
 Testifying:
 * Eric pratt - America
 * Tim Eyman
@@ -41,6 +43,7 @@ Testifying:
 * Anthony Mixer
 * Eric Cooper
 * Chrissy Eggebraaten
+* John Fannon
 
 #### 0 ❓ - Other
 

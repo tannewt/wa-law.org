@@ -38,8 +38,9 @@
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍4  
 
-## [HB 1499](/bill/2023-24/hb/1499/) - Food assistance funding   ❓1
+## [HB 1499](/bill/2023-24/hb/1499/) - Food assistance funding 👍1  ❓1
 * ❓💵 Aaron Czyzewski
+* 👍💵 Aaron Czyzewski
 
 ## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍5  
 
@@ -76,7 +77,7 @@
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍4  
 
-## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍2  
+## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍4  
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
 

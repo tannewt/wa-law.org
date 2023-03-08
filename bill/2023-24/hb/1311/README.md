@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Fri 01/20 08:00 AM - Consumer Protection & Business (CPB): HB 1311 Credit repair services
