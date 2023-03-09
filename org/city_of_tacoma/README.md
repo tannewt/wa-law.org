@@ -73,7 +73,7 @@
 
 ## [SB 5270](/bill/2023-24/sb/5270/) - DOC/immigration assistance 👍1  
 
-## [SB 5324](/bill/2023-24/sb/5324/) - Defense compatibility acct. 👍2  
+## [SB 5324](/bill/2023-24/sb/5324/) - Defense compatibility acct. 👍3  
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
 

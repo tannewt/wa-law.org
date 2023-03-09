@@ -19,17 +19,20 @@
 * 👍 Carol Dotlich
 * 👍 Matt Groshong
 
-## [SB 5294](/bill/2023-24/sb/5294/) - Retirement system funding   ❓1
+## [SB 5294](/bill/2023-24/sb/5294/) - Retirement system funding   ❓2
 * ❓ Laurie Weidner
+* ❓ Emmett Mills
 
 ## [SB 5296](/bill/2023-24/sb/5296/) - Military service credit 👍1  
 
 ## [SB 5349](/bill/2023-24/sb/5349/) - Postretirement employment 👍2  
 
-## [SB 5350](/bill/2023-24/sb/5350/) - PERS/TRS 1 benefit increase 👍20  
+## [SB 5350](/bill/2023-24/sb/5350/) - PERS/TRS 1 benefit increase 👍25  
 * 👍 Clair Olivers
 * 👍 Nancy Heley
 * 👍 Zona Gail Spaeth
+* 👍 Zaida Quimby
+* 👍 Clair Olivers
 
 ## [SB 5420](/bill/2023-24/sb/5420/) - Plan 2 members/insurance 👍1  
 

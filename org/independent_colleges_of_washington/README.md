@@ -21,4 +21,4 @@
 
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍2  
 
-## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍1  
+## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍2  

@@ -9,6 +9,19 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Tue 03/14 01:30 PM - State Government & Elections (SGE): ESHB 1048 Voting rights act
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30997&aId=153217&caId=22143&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30997&aId=153217&caId=22143&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30997&aId=153217&caId=22143&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30997&aId=153217&caId=22143&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/13 08:00 AM - State Government & Tribal Relations (SGOV): HB 1048 Voting rights act
 #### 0 👍 - Pro
 

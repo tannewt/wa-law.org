@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 03/08 08:00 AM - Law & Justice (LAW): HB 1564 OTC sexual assault kits
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30944&aId=152965&caId=21914&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30944&aId=152965&caId=21914&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30944&aId=152965&caId=21914&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30944&aId=152965&caId=21914&tId=4)
-
-#### 116 👍 - Pro
+#### 123 👍 - Pro
 Testifying:
 * Madeline Brown
 * Antoinette Bonsignore
@@ -29,7 +23,7 @@ Testifying:
 * 💵Alex Davidson - The Associated Students of the University of Washington
 * Maddie Menser - UW Greeks Take Action
 
-#### 45 👎 - Con
+#### 49 👎 - Con
 Testifying:
 * Debra Carlson-Chamberlin
 * Kaylee Powers - WA Licenced SANE

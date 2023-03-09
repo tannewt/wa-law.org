@@ -8,6 +8,19 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Tue 03/14 01:30 PM - Environment, Energy & Technology (ENET): SHB 1047 Cosmetic product chemicals
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31005&aId=153254&caId=22141&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31005&aId=153254&caId=22141&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31005&aId=153254&caId=22141&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31005&aId=153254&caId=22141&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/06 04:00 PM - Appropriations (APP): SHB 1047 Cosmetic product chemicals
 #### 110 👍 - Pro
 Testifying:

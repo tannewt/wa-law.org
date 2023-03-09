@@ -9,6 +9,19 @@
 * [Second Substitute](S2/)
 
 ## Meetings
+### Tue 03/14 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): 2SSB 5268 Public works procurement
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31008&aId=153282&caId=22037&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31008&aId=153282&caId=22037&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31008&aId=153282&caId=22037&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31008&aId=153282&caId=22037&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/09 04:00 PM - Ways & Means (WM): SSB 5268 Public works procurement
 #### 14 👍 - Pro
 Testifying:

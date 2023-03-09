@@ -9,7 +9,8 @@
 ## [HB 1729](/bill/2023-24/hb/1729/) - Hydrogen fuel products 👍1  
 * 👍 Michelle Detwiler
 
-## [SB 5091](/bill/2023-24/sb/5091/) - Hydrogen fuel products 👍1  
+## [SB 5091](/bill/2023-24/sb/5091/) - Hydrogen fuel products 👍2  
+* 👍 Michelle Detwiler
 * 👍 Michelle Detwiler
 
 ## [SB 5325](/bill/2023-24/sb/5325/) - Clean fuel/public transport. 👍1  

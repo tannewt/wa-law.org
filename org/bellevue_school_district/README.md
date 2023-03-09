@@ -1,6 +1,6 @@
 # Bellevue School District
 
-## [HB 1015](/bill/2023-24/hb/1015/) - Paraeducator requirements 👍1  
+## [HB 1015](/bill/2023-24/hb/1015/) - Paraeducator requirements 👍2  
 
 ## [HB 1207](/bill/2023-24/hb/1207/) - Harassment/schools 👍1  
 * 👍 John Harrison

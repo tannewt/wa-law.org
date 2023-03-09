@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30934&aId=152880&caId=21885&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30934&aId=152880&caId=21885&tId=4)
 
-#### 6 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Larry Leveen - ForeverGreen Trails
 * Hamdi Mohamed - Port of Seattle Commissioner
+* Richard May - [City of Blaine](/org/city_of_blaine/)
+* Jenny Love - Friends of Normandy Park
 
 #### 0 👎 - Con
 

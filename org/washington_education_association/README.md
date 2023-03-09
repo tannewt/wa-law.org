@@ -1,5 +1,7 @@
 # Washington Education Association
 
+## [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍1  
+
 ## [HB 1002](/bill/2023-24/hb/1002/) - Hazing penalty 👍1  
 
 ## [HB 1007](/bill/2023-24/hb/1007/) - Military service credit 👍1  
@@ -31,12 +33,15 @@
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
+## [HB 1107](/bill/2023-24/hb/1107/) - "Master" and "servant" terms 👍1  
+
 ## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍2  
 * 👍💵 Julie Salvi
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
 
-## [HB 1113](/bill/2023-24/hb/1113/) - Prof. educator reprimands 👍1  
+## [HB 1113](/bill/2023-24/hb/1113/) - Prof. educator reprimands 👍2  
+* 👍💵 Nasue Nishida
 * 👍💵 Nasue Nishida
 
 ## [HB 1122](/bill/2023-24/hb/1122/) - WMS bargaining 👍1  
@@ -93,7 +98,7 @@
 
 ## [HB 1231](/bill/2023-24/hb/1231/) - Site readiness grants 👍1  
 
-## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍2  
+## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍3  
 
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍3  
 * 👍 Roni Cook
@@ -127,7 +132,8 @@
 
 ## [HB 1273](/bill/2023-24/hb/1273/) - High school and beyond plans 👍1  
 
-## [HB 1277](/bill/2023-24/hb/1277/) - Paraeducator course of study 👍1  
+## [HB 1277](/bill/2023-24/hb/1277/) - Paraeducator course of study 👍2  
+* 👍💵 Nasue Nishida
 * 👍💵 Nasue Nishida
 
 ## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍1  
@@ -161,7 +167,7 @@
 
 ## [HB 1360](/bill/2023-24/hb/1360/) - Alt. professional licensing  👎1 
 
-## [HB 1377](/bill/2023-24/hb/1377/) - Continuing education/K-12   ❓1
+## [HB 1377](/bill/2023-24/hb/1377/) - Continuing education/K-12 👍1  ❓1
 * ❓💵 Nasue Nishida
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
@@ -202,6 +208,8 @@
 ## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation   ❓2
 * ❓ Jared Mason-Gere
 * ❓ Jared Mason-Gere
+
+## [HB 1499](/bill/2023-24/hb/1499/) - Food assistance funding 👍1  
 
 ## [HB 1504](/bill/2023-24/hb/1504/) - Elementary school recess 👍1  
 * 👍 Jared Mason-Gere
@@ -286,7 +294,7 @@
 
 ## [HB 1821](/bill/2023-24/hb/1821/) - Postsecondary credentials 👍1  
 
-## [HB 1823](/bill/2023-24/hb/1823/) - WA student loan program 👍1  
+## [HB 1823](/bill/2023-24/hb/1823/) - WA student loan program 👍2  
 
 ## [SB 5019](/bill/2023-24/sb/5019/) - School safety staff 👍1  
 * 👍💵 Julie Salvi
@@ -309,13 +317,17 @@
 
 ## [SB 5072](/bill/2023-24/sb/5072/) - Highly capable students 👍2  
 
+## [SB 5079](/bill/2023-24/sb/5079/) - Tuition establishment date 👍1  
+
+## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
+
 ## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍1  
 
 ## [SB 5102](/bill/2023-24/sb/5102/) - School library info and tech 👍2  
 
 ## [SB 5111](/bill/2023-24/sb/5111/) - Sick leave/construction 👍1  
 
-## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍1  
+## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍2  
 
 ## [SB 5122](/bill/2023-24/sb/5122/) - Ambulance transport fund 👍1  
 
@@ -342,7 +354,7 @@
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
 
-## [SB 5208](/bill/2023-24/sb/5208/) - Online voter registration 👍1  
+## [SB 5208](/bill/2023-24/sb/5208/) - Online voter registration 👍2  
 
 ## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I 👍2  
 
@@ -400,7 +412,7 @@
 
 ## [SB 5349](/bill/2023-24/sb/5349/) - Postretirement employment 👍1  
 
-## [SB 5350](/bill/2023-24/sb/5350/) - PERS/TRS 1 benefit increase 👍1  
+## [SB 5350](/bill/2023-24/sb/5350/) - PERS/TRS 1 benefit increase 👍2  
 
 ## [SB 5359](/bill/2023-24/sb/5359/) - State spending limit  👎1 
 
@@ -430,6 +442,10 @@
 
 ## [SB 5477](/bill/2023-24/sb/5477/) - Murdered indigenous women 👍1  
 
+## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍2  
+* 👍💵 Simone Boe
+* 👍💵 Simone Boe
+
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
 
 ## [SB 5498](/bill/2023-24/sb/5498/) - Nurse student loan repayment 👍1  
@@ -441,7 +457,7 @@
 
 ## [SB 5509](/bill/2023-24/sb/5509/) - Public infrastructure bank 👍2  
 
-## [SB 5512](/bill/2023-24/sb/5512/) - Higher ed. financial reports 👍2  
+## [SB 5512](/bill/2023-24/sb/5512/) - Higher ed. financial reports 👍3  
 
 ## [SB 5522](/bill/2023-24/sb/5522/) - College grant prg. stipend 👍1  
 
@@ -497,7 +513,7 @@
 
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  
 
-## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍2  
+## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍3  
 
 ## [SB 5718](/bill/2023-24/sb/5718/) - State broadband map 👍1  
 

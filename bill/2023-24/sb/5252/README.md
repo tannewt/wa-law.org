@@ -7,6 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 03/15 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SB 5252 FBI criminal history records
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31003&aId=153245&caId=22032&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31003&aId=153245&caId=22032&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31003&aId=153245&caId=22032&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31003&aId=153245&caId=22032&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/31 10:30 AM - Human Services (HS): SB 5252 FBI criminal history records
 #### 2 👍 - Pro
 Testifying:

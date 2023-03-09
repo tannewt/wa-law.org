@@ -10,6 +10,19 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Meetings
+### Tue 03/14 10:30 AM - Local Government (LG): E2SSB 5001 Public facility districts
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30962&aId=153083&caId=22054&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30962&aId=153083&caId=22054&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30962&aId=153083&caId=22054&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30962&aId=153083&caId=22054&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/13 04:00 PM - Ways & Means (WM): 2SSB 5001 Public facility districts
 #### 20 👍 - Pro
 Testifying:

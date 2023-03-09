@@ -16,7 +16,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152830&caId=21865&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152830&caId=21865&tId=4)
 
-#### 348 👍 - Pro
+#### 589 👍 - Pro
 Testifying:
 * Carol Sullivan
 * 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
@@ -31,8 +31,9 @@ Testifying:
 * Steve Hobbs - Secretary of State
 * Hailey Wu - Asian Counseling and Referral Service
 * Joseph Lachman - Asian Counseling and Referral Service
+* 💵Giovanni Severino - Progreso: Latino Progress
 
-#### 347 👎 - Con
+#### 748 👎 - Con
 Testifying:
 * Eric pratt - America
 * Tim Eyman
@@ -44,8 +45,11 @@ Testifying:
 * Eric Cooper
 * Chrissy Eggebraaten
 * John Fannon
+* Karen Shepard
+* Gail Ballow - voter
+* Pamela Smith
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/10 01:30 PM - State Government & Elections (SGE): SB 5082 Advisory votes
 #### 0 👍 - Pro

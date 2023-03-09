@@ -16,7 +16,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30908&aId=153021&caId=21947&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30908&aId=153021&caId=21947&tId=4)
 
-#### 23 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * Mary Lindsey - Washington Education Association-Retired (WEA-Retired)
 * Mary Lindsey - Washington Education Association-Retired (WEA-Retired)
@@ -27,7 +27,9 @@ Testifying:
 Testifying:
 * Michael McKinley
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Emmett Mills - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
 
 ### Mon 01/23 04:00 PM - Ways & Means (WM): SB 5294 Retirement system funding
 #### 9 👍 - Pro

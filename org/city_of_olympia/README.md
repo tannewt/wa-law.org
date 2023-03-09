@@ -33,7 +33,7 @@
 
 ## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍1  
 
-## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
+## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍2  
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍3  
 
@@ -52,6 +52,8 @@
 ## [HB 1753](/bill/2023-24/hb/1753/) - Derelict vessel notices 👍1  
 
 ## [HB 1817](/bill/2023-24/hb/1817/) - Housing gap voucher pilot 👍1  
+
+## [SB 5001](/bill/2023-24/sb/5001/) - Public facility districts 👍1  
 
 ## [SB 5039](/bill/2023-24/sb/5039/) - Wildfires/electric utilities 👍1  
 
@@ -73,7 +75,7 @@
 
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍1  
 
-## [SB 5235](/bill/2023-24/sb/5235/) - Accessory dwelling units 👍2  
+## [SB 5235](/bill/2023-24/sb/5235/) - Accessory dwelling units 👍3  
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
 
@@ -83,7 +85,7 @@
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍1  
 
-## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍2  
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍3  
 
 ## [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍1  
 

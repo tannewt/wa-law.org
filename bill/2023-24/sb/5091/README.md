@@ -15,7 +15,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152944&caId=21899&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152944&caId=21899&tId=4)
 
-#### 2 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Michelle Detwiler - [Renewable Hydrogen Alliance](/org/renewable_hydrogen_alliance/)
 
 #### 0 👎 - Con
 

@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30886&aId=152738&caId=21879&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30886&aId=152738&caId=21879&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Kathy Buchli - Office of the Code Reviser
+* Mark Lally - Office of the Code Reviser
 
 #### 0 👎 - Con
 

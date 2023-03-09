@@ -20,7 +20,8 @@
 
 ## [SB 5197](/bill/2023-24/sb/5197/) - Eviction processes  👎2 
 
-## [SB 5198](/bill/2023-24/sb/5198/) - Mobile home community sales  👎1 ❓1
+## [SB 5198](/bill/2023-24/sb/5198/) - Mobile home community sales  👎1 ❓2
+* ❓💵 Mike Hoover
 * ❓💵 Mike Hoover
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases  👎3 

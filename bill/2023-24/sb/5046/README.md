@@ -9,6 +9,21 @@
 * [Second Substitute](S2/)
 
 ## Meetings
+### Wed 03/15 08:00 AM - Civil Rights & Judiciary (CRJ): 2SSB 5046 Postconviction counsel
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30950&aId=153396&caId=21978&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30950&aId=153396&caId=21978&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30950&aId=153396&caId=21978&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30950&aId=153396&caId=21978&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* Jeffrey Ellis
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/31 04:00 PM - Ways & Means (WM): SSB 5046 Postconviction counsel
 #### 74 👍 - Pro
 Testifying:

@@ -17,17 +17,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30906&aId=152999&caId=21928&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30906&aId=152999&caId=21928&tId=4)
 
-#### 14 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Desiree White
 * Marissa Ingalls - Coordinated Care
 * Sydney Doherty - Coordinated Care
 * 💵Daniel Lugo - [Treehouse](/org/treehouse/)
 * 💵Noah Seidel - Office of Developmental Disabilities Ombuds
+* 💵Diana Stadden - The Arc of WA State
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Allison Krutsinger - Dept of Children, Youth, and Families
 
 ### Wed 02/08 04:00 PM - Appropriations (APP): SHB 1188 Child welfare services/DD
 #### 20 👍 - Pro

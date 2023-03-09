@@ -20,3 +20,5 @@
 ## [SB 5316](/bill/2023-24/sb/5316/) - DCYF background check fees 👍1  
 
 ## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍1  
+
+## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍1  

@@ -2,7 +2,7 @@
 
 ## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍2  
 
-## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍3  
+## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍4  
 
 ## [HB 1578](/bill/2023-24/hb/1578/) - Wildland fire safety 👍1  
 

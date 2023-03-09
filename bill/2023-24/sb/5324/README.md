@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30910&aId=153044&caId=21955&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30910&aId=153044&caId=21955&tId=4)
 
-#### 7 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * 💵Holly Cocci - [City of Airway Heights](/org/city_of_airway_heights/)
 * Dave Andersen - Washington Department of Commerce

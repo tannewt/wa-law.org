@@ -15,9 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152863&caId=21896&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152863&caId=21896&tId=4)
 
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Tyson Johnston - [Quinault Indian Nation](/org/quinault_indian_nation/)
+* Guy Capoeman - President, Quinault Indian Nation
 
 #### 0 👎 - Con
 

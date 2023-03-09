@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30886&aId=152737&caId=21878&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30886&aId=152737&caId=21878&tId=4)
 
-#### 20 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Toby Nixon - Self
+* p j - RiseUpWA, Housing Justice Committee
 
-#### 1 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Valerie Oman - Washington State Chapter of Community Association Institute
 
 #### 0 ❓ - Other
 

@@ -38,3 +38,5 @@
 ## [SB 5324](/bill/2023-24/sb/5324/) - Defense compatibility acct. 👍3  
 
 ## [SB 5478](/bill/2023-24/sb/5478/) - Bridge jumping signs 👍1  
+
+## [SB 5627](/bill/2023-24/sb/5627/) - County commissioner salary 👍1  

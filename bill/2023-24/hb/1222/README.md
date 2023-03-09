@@ -9,6 +9,21 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Tue 03/14 08:00 AM - Health & Long Term Care (HLTC): ESHB 1222 Hearing instruments coverage
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30973&aId=153116&caId=22117&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30973&aId=153116&caId=22117&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30973&aId=153116&caId=22117&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30973&aId=153116&caId=22117&tId=4)
+
+#### 4 👍 - Pro
+Testifying:
+* Jill Bujnevicie - Will also have 8yo son Hugo Esterhay briefly speak with me
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/08 04:00 PM - Appropriations (APP): SHB 1222 Hearing instruments coverage
 #### 657 👍 - Pro
 Testifying:

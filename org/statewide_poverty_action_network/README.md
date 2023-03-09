@@ -38,12 +38,13 @@
 
 ## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍2  
 
-## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍9  
+## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍10  
 * 👍💵 Alex Hur
 * 👍💵 Lianna Kressin
 * 👍💵 Alex Hur
 * 👍💵 Alex Hur
 * 👍💵 Alex Hur
+* 👍💵 Lianna Kressin
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍4  
 * 👍💵 Shaun Scott
@@ -114,7 +115,8 @@
 
 ## [SB 5464](/bill/2023-24/sb/5464/) - Electronics repair 👍1  
 
-## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍2  
+## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍3  
+* 👍💵 Shaun Scott
 * 👍💵 Shaun Scott
 
 ## [SB 5493](/bill/2023-24/sb/5493/) - Financial instit./B&O tax 👍1  

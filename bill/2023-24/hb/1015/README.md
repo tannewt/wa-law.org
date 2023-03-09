@@ -15,11 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30919&aId=152946&caId=21907&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30919&aId=152946&caId=21907&tId=4)
 
-#### 17 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Laura Ketcham - Testifying for the Para Educator bill
 * Laura Ketcham - Para Educator, remotely
 * Jim Kowalkowski - Rural Education Center
+* Dr. Erica Hernandez-Scott - [Professional Educator Standards Board](/org/professional_educator_standards_board/)
+* Otis E Golden
 
 #### 0 👎 - Con
 

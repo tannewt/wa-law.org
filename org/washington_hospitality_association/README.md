@@ -2,7 +2,7 @@
 
 ## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
 
-## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
+## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍2  
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 
@@ -102,5 +102,6 @@
 
 ## [SB 5541](/bill/2023-24/sb/5541/) - Supply chain transparency   ❓1
 
-## [SB 5733](/bill/2023-24/sb/5733/) - Payment card processing/tax 👍1  
+## [SB 5733](/bill/2023-24/sb/5733/) - Payment card processing/tax 👍2  
+* 👍💵 Julia Gorton
 * 👍💵 Julia Gorton

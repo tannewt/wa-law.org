@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30904&aId=152811&caId=21863&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30904&aId=152811&caId=21863&tId=4)
 
-#### 12 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Ruben Flores - Council Of Presidents
 * Collin Bannister - ASWSU
+* Jacob Vigdor - University of Washington Faculty/ Council of Faculty
 
 #### 0 👎 - Con
 

@@ -16,15 +16,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30920&aId=152962&caId=21920&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30920&aId=152962&caId=21920&tId=4)
 
-#### 89 👍 - Pro
+#### 336 👍 - Pro
 Testifying:
 * Stephanie Barnard - Rep. Stephanie Barnard (8LD, Prime Sponsor)
 * Madison Schroder - Generation Atomic
 * James Conca - UFA Ventures, Inc.
 * Leila El-Wakil MD
 * 💵Seth Worley - UA Plumbers and Steamfitters Local 598
+* Dave Arbaugh - [Energy Northwest](/org/energy_northwest/)
+* Madison Schroder - Generation Atomic
 
-#### 10 👎 - Con
+#### 90 👎 - Con
 Testifying:
 * Cathryn Chudy - Oregon Conservancy Foundation
 * Phil Lusk
@@ -32,7 +34,7 @@ Testifying:
 * Phil Lusk
 * Jim Thomas
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 02/07 04:00 PM - Environment & Energy (ENVI): HB 1584 Nuclear reactor technology
 #### 94 👍 - Pro

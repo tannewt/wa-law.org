@@ -1,6 +1,6 @@
 # Kitsap Transit
 
-## [HB 1236](/bill/2023-24/hb/1236/) - Clean fuel/public transport. 👍1  
+## [HB 1236](/bill/2023-24/hb/1236/) - Clean fuel/public transport. 👍2  
 
 ## [HB 1334](/bill/2023-24/hb/1334/) - PTBA aquatic lands access 👍2  
 * 👍 John Clauson
@@ -15,7 +15,7 @@
 ## [SB 5325](/bill/2023-24/sb/5325/) - Clean fuel/public transport. 👍1  
 * 👍 John Clauson
 
-## [SB 5342](/bill/2023-24/sb/5342/) - Transit interlocal agree. 👍1  
+## [SB 5342](/bill/2023-24/sb/5342/) - Transit interlocal agree. 👍2  
 
 ## [SB 5402](/bill/2023-24/sb/5402/) - Authorizing public transportation benefit areas to become limited authority Washington law enforcement agencies. 👍1  
 

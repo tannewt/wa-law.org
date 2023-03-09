@@ -19,7 +19,9 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* David Iseminger - WA State Health Care Authority
 
 ### Tue 02/07 04:00 PM - Ways & Means (WM): SB 5490 PEBB/deferred coverage
 #### 3 👍 - Pro

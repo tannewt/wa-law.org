@@ -57,6 +57,8 @@
 
 ## [SB 5208](/bill/2023-24/sb/5208/) - Online voter registration 👍1  
 
+## [SB 5258](/bill/2023-24/sb/5258/) - Condos and townhouses 👍1  
+
 ## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍1  
 
 ## [SB 5357](/bill/2023-24/sb/5357/) - Detached ADUs 👍1  

@@ -22,7 +22,7 @@
 
 ## [HB 1240](/bill/2023-24/hb/1240/) - Firearms/assault weapons 👍1  
 
-## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍4  
+## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍6  
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
 
@@ -35,7 +35,7 @@
 
 ## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct 👍5  
 
-## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍5  
+## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍6  
 
 ## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍1  
 
@@ -78,7 +78,7 @@
 
 ## [SB 5480](/bill/2023-24/sb/5480/) - Work-limiting disability 👍3  
 
-## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍6  
+## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍8  
 
 ## [SB 5513](/bill/2023-24/sb/5513/) - CTC mental health counseling 👍1  
 

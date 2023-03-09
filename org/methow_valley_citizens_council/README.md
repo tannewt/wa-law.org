@@ -4,13 +4,13 @@
 
 ## [HB 1032](/bill/2023-24/hb/1032/) - Wildfires/electric utilities 👍1  
 
-## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
+## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍2  
 
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍2  
 
 ## [HB 1164](/bill/2023-24/hb/1164/) - Appliance management 👍1  
 
-## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍2  
+## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍3  
 
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍3  
 
@@ -22,7 +22,7 @@
 
 ## [HB 1322](/bill/2023-24/hb/1322/) - Walla Walla water 2050 plan 👍1  
 
-## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍1  
+## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍2  
 * 👍 Maggie Coon
 
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍2  

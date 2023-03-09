@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152857&caId=21890&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152857&caId=21890&tId=4)
 
-#### 1557 👍 - Pro
+#### 2318 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 * 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
@@ -26,8 +26,19 @@ Testifying:
 * E. Bailey Medilo
 * 💵Hyeeun Park - BIPOC Executive Directors Coalition
 * 💵Karen Strickland - American Federation of Teachers (AFT)
+* 💵Emily Vyhnanek - Working Families Tax Credit Coalition
+* Mindy Woods - Washington Low Income Housing Alliance
+* Professor Brian Galle - Georgetown Law
+* Andy Nicholas - Washington Budget and Policy Center
+* Janice "Jay" Henry - Community Advocate & SEIU 775 member
+* Patience Malaba - Housing Development Consortium
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* HyeEun Park - BIPOC Executive Directors Coalition
+* 💵Shaun Scott - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 
-#### 215 👎 - Con
+#### 366 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Tim Eyman - Permanent Offense
@@ -40,7 +51,9 @@ Testifying:
 * William Fulwyler
 * Gene Fortune
 * Krysta Verbarendse
+* Gail Ballow - voter
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Katherine McGeough - N/A
+* Dean Carlson - Department of Revenue

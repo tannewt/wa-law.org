@@ -10,6 +10,21 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Meetings
+### Mon 03/13 01:30 PM - Regulated Substances & Gaming (RSG): E2SSB 5367 Products containing THC
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30993&aId=153208&caId=22063&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30993&aId=153208&caId=22063&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30993&aId=153208&caId=22063&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30993&aId=153208&caId=22063&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* Lukas Hunter - Harmony Farms
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Sat 02/18 09:00 AM - Ways & Means (WM): SSB 5367 Products containing THC
 #### 13 👍 - Pro
 Testifying:

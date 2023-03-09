@@ -16,11 +16,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30919&aId=152947&caId=21908&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30919&aId=152947&caId=21908&tId=4)
 
-#### 7 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Oliver Miska
 * 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
 * Doug Rich - Catholic Diocese of Yakima
+* 💵Zackary Turner - [Professional Educator Standards Board](/org/professional_educator_standards_board/)
 
 #### 0 👎 - Con
 

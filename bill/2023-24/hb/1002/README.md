@@ -7,6 +7,22 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 03/13 10:30 AM - Law & Justice (LAW): HB 1002 Hazing penalty
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30941&aId=152985&caId=22099&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30941&aId=152985&caId=22099&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30941&aId=152985&caId=22099&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30941&aId=152985&caId=22099&tId=4)
+
+#### 3 👍 - Pro
+Testifying:
+* Jolayne Houtz
+* Hector Martinez
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/16 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1002 Hazing penalty
 #### 764 👍 - Pro
 Testifying:

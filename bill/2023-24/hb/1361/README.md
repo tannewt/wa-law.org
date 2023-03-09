@@ -16,7 +16,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30918&aId=152994&caId=21941&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30918&aId=152994&caId=21941&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* K.D. Chapman-See - Office of Financial Management
+* Michaela Doelman - Office of Financial Management
 
 #### 0 👎 - Con
 

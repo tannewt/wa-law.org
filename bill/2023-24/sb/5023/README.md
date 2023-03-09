@@ -14,9 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30896&aId=152821&caId=21871&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30896&aId=152821&caId=21871&tId=4)
 
-#### 15 👍 - Pro
+#### 21 👍 - Pro
+Testifying:
+* Cory Wells - TLC Towing
+* 💵Peter Lukevich - Towing Recovery Association of Washington (TRAW)
+* Phil Waldner - Fife Towing
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 0 ❓ - Other
 

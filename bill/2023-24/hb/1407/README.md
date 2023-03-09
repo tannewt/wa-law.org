@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30906&aId=153002&caId=21931&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30906&aId=153002&caId=21931&tId=4)
 
-#### 5 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * 💵Noah Seidel - Office of Developmental Disabilities Ombuds
+* 💵Diana Stadden - The Arc of WA State
 
 #### 0 👎 - Con
 

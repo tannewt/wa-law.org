@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30915&aId=152987&caId=21937&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30915&aId=152987&caId=21937&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Bryon Welch - Office of the Insurance Commissioner
+* Chris Bandoli - National Association of Insurance and Financial Advisors Washington
+* Kris Tefft - American Council of Life Insurers (ACLI)
 
 #### 0 👎 - Con
 

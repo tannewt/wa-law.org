@@ -9,6 +9,19 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Mon 03/13 04:00 PM - Transportation (TR): ESSB 5326 Vehicle insurance verif.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30957&aId=153061&caId=22077&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30957&aId=153061&caId=22077&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30957&aId=153061&caId=22077&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30957&aId=153061&caId=22077&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/23 04:00 PM - Transportation (TRAN): SB 5326 Vehicle insurance verif.
 #### 8 👍 - Pro
 Testifying:

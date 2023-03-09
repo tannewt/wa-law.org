@@ -10,7 +10,8 @@
 
 ## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting 👍1  
 
-## [HB 1250](/bill/2023-24/hb/1250/) - Low-income home rehab. prg. 👍1  
+## [HB 1250](/bill/2023-24/hb/1250/) - Low-income home rehab. prg. 👍2  
+* 👍 Jeff DeLuca
 * 👍 Jeff DeLuca
 
 ## [HB 1251](/bill/2023-24/hb/1251/) - Water system notices 👍1  

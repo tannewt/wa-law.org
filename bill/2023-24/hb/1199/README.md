@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30886&aId=152735&caId=21876&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30886&aId=152735&caId=21876&tId=4)
 
-#### 246 👍 - Pro
+#### 262 👍 - Pro
 Testifying:
 * Sarah Bolong-Banks
 * Ranjith kumar Thumeti
@@ -27,12 +27,15 @@ Testifying:
 * Laura Pavlov
 * FAYSA DIRIYE
 * Hamdi Mohamed - Port of Seattle Commissioner
+* Patrick Johansen - RiseUpWA, Housing Justice Committee
 
-#### 10 👎 - Con
+#### 17 👎 - Con
 Testifying:
 * vian Salih
 * Vian Salih
 * Vian Salih
+* Carlos Sanchez
+* Vanessa Normandin - Pellerin Ridge Homeowners Association
 
 #### 11 ❓ - Other
 

@@ -4,13 +4,15 @@
 
 ## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍2  
 
-## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
+## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍2  
 * 👍💵 Yvette Maganya
 
 ## [HB 1335](/bill/2023-24/hb/1335/) - Personal identifying info. 👍1  
 * 👍💵 Yvette Maganya
 
-## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
+## [HB 1340](/bill/2023-24/hb/1340/) - Health professions/conduct 👍1  
+
+## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍2  
 * 👍💵 Alizeh Bhojani
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
@@ -22,6 +24,8 @@
 ## [SB 5109](/bill/2023-24/sb/5109/) - Wage replacement 👍1  
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
+
+## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍1  
 
 ## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍1  
 

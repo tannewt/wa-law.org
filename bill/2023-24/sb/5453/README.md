@@ -8,6 +8,21 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Mon 03/13 01:30 PM - Community Safety, Justice, & Reentry (CSJR): SSB 5453 Female genital mutilation
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30970&aId=153102&caId=21981&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30970&aId=153102&caId=21981&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30970&aId=153102&caId=21981&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30970&aId=153102&caId=21981&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* Maryum Saifee - FGM survivor
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/14 04:00 PM - Ways & Means (WM): SSB 5453 Female genital mutilation
 #### 140 👍 - Pro
 Testifying:

@@ -51,6 +51,9 @@
 ## [SB 5482](/bill/2023-24/sb/5482/) - Margin tax   ❓1
 * ❓💵 James King
 
+## [SB 5663](/bill/2023-24/sb/5663/) - Abandoned vehicle auctions  👎1 
+* 👎💵 James King
+
 ## [SB 5684](/bill/2023-24/sb/5684/) - Small works rosters 👍2  
 * 👍💵 James King
 

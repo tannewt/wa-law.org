@@ -28,7 +28,7 @@
 
 ## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct 👍2  
 
-## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍5  
+## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍6  
 * 👍 Alicya Pearson
 * 👍 Alicya Pearson
 
@@ -61,6 +61,8 @@
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
 
+## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
+
 ## [SB 5128](/bill/2023-24/sb/5128/) - Jury diversity 👍1  
 
 ## [SB 5156](/bill/2023-24/sb/5156/) - Farm internship program 👍1  
@@ -77,7 +79,8 @@
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍4  
 
-## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍4  
+## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍5  
+* 👍💵 Aaron Czyzewski
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
 

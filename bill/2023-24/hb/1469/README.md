@@ -9,6 +9,19 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Thu 03/16 08:00 AM - Law & Justice (LAW): ESHB 1469 Health care services/access
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30943&aId=152932&caId=22160&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30943&aId=152932&caId=22160&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30943&aId=152932&caId=22160&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30943&aId=152932&caId=22160&tId=4)
+
+#### 3 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/24 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1469 Health care services/access
 #### 359 👍 - Pro
 Testifying:

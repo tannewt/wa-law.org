@@ -26,6 +26,8 @@
 
 ## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing   ❓1
 
+## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍1  
+
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍2  
 
 ## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍1  
@@ -75,6 +77,8 @@
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍2  
+
+## [HB 1499](/bill/2023-24/hb/1499/) - Food assistance funding 👍1  
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
 

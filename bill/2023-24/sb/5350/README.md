@@ -14,17 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30908&aId=153022&caId=21948&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30908&aId=153022&caId=21948&tId=4)
 
-#### 702 👍 - Pro
+#### 835 👍 - Pro
 Testifying:
 * Mary Lindsey - Washington Education Assoiciation-Retired (WEA-Retired)
 * Patricia MacGowan - Washington State School Retirees' Assn.
 * Tim Knopf - Washington State School Retirees' Assn.
+* Deborah Nissen - Washington Education Association- Retired member
+* Zaida Quimby - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
+* Clair Olivers - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
 
 #### 3 👎 - Con
 Testifying:
 * Michael McKinley
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 
 ### Mon 01/23 04:00 PM - Ways & Means (WM): SB 5350 PERS/TRS 1 benefit increase
 #### 424 👍 - Pro

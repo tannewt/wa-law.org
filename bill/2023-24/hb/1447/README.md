@@ -16,15 +16,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30906&aId=153011&caId=21933&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30906&aId=153011&caId=21933&tId=4)
 
-#### 122 👍 - Pro
+#### 145 👍 - Pro
 Testifying:
 * Avi Laudon - Workforce Development Council of Seattle and King County
 * Ali Scego - [Neighborhood House](/org/neighborhood_house/)
 * 💵Alex Hur - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* 💵Jude Ahmed - Urban League of Metropolitan Seattle
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Babs Roberts - DSHS, Economic Services Administration, Community Services Division
 
 ### Mon 02/20 01:30 PM - Appropriations (APP): SHB 1447 Assistance programs
 #### 224 👍 - Pro

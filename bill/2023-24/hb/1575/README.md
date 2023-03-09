@@ -7,6 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 03/14 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): HB 1575 Cultural access programs/tax
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153123&caId=22124&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153123&caId=22124&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153123&caId=22124&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153123&caId=22124&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/16 01:30 PM - Finance (FIN): HB 1575 Cultural access programs/tax
 #### 170 👍 - Pro
 Testifying:

@@ -8,6 +8,19 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Wed 03/15 08:00 AM - Civil Rights & Judiciary (CRJ): SSB 5087 Defects and omissions
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30950&aId=153392&caId=21974&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30950&aId=153392&caId=21974&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30950&aId=153392&caId=21974&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30950&aId=153392&caId=21974&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/16 10:30 AM - Law & Justice (LAW): SB 5087 Defects and omissions
 #### 35 👍 - Pro
 Testifying:

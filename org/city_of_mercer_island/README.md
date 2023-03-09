@@ -1,6 +1,6 @@
 # City of Mercer Island
 
-## [HB 1086](/bill/2023-24/hb/1086/) - Community org. contracts 👍1  
+## [HB 1086](/bill/2023-24/hb/1086/) - Community org. contracts 👍2  
 
 ## [HB 1135](/bill/2023-24/hb/1135/) - Impact fee use 👍1  
 

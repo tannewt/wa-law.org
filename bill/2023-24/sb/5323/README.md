@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30910&aId=152829&caId=21861&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30910&aId=152829&caId=21861&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Heidi Audette - WA State Department of Veterans Affairs
+* Anthony Varela - Veterans Legislative Coalition
 
 #### 0 👎 - Con
 

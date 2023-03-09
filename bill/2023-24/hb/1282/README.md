@@ -6,8 +6,22 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Wed 03/15 08:00 AM - Environment, Energy & Technology (ENET): ESHB 1282 Public building materials
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153435&caId=22151&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153435&caId=22151&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153435&caId=22151&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153435&caId=22151&tId=4)
+
+#### 2 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/02 01:30 PM - Capital Budget (CB): HB 1282 Public building materials
 #### 383 👍 - Pro
 Testifying:

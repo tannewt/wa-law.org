@@ -91,8 +91,9 @@
 ## [HB 1449](/bill/2023-24/hb/1449/) - Project permits/reports 👍1  
 * 👍💵 Paul Jewell
 
-## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍1  
+## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍1  ❓1
 * 👍💵 Paul Jewell
+* ❓💵 Paul Jewell
 
 ## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities  👎1 
 * 👎💵 Juliana Roe

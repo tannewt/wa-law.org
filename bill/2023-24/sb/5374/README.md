@@ -8,6 +8,19 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Wed 03/15 08:00 AM - Local Government (LG): SSB 5374 County critical areas
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30963&aId=153085&caId=22056&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30963&aId=153085&caId=22056&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30963&aId=153085&caId=22056&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30963&aId=153085&caId=22056&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/24 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5374 County critical areas
 #### 9 👍 - Pro
 Testifying:

@@ -25,6 +25,9 @@
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍2  
 
+## [SB 5019](/bill/2023-24/sb/5019/) - School safety staff 👍2  
+* 👍💵 Terique Scott
+
 ## [SB 5065](/bill/2023-24/sb/5065/) - Bone marrow donation/schools 👍1  
 
 ## [SB 5072](/bill/2023-24/sb/5072/) - Highly capable students 👍1  
@@ -49,3 +52,5 @@
 ## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍1  
 
 ## [SB 5442](/bill/2023-24/sb/5442/) - Charter schools/enrichment 👍1  
+
+## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍1  

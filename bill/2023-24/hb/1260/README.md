@@ -16,10 +16,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30906&aId=153001&caId=21930&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30906&aId=153001&caId=21930&tId=4)
 
-#### 219 👍 - Pro
+#### 343 👍 - Pro
 Testifying:
 * Dan Wise - Catholic Community Services
 * 💵Alex Hur - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* Babs Roberts - Washington State Department of Social and Health Services, Economic Services Administration
+* Tony Bowie - Washington State Department of Social and Health Services, Economic Services Administration
+* Dawnetta Sparks
+* Eric Penar - Penar Law
+* Huy Nguyen
+* 💵Lianna Kressin
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* 💵Melanie Smith - Seattle / King County Coalition on Homelessness
 
 #### 0 👎 - Con
 

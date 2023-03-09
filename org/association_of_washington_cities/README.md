@@ -65,6 +65,9 @@
 ## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records   ❓1
 * ❓💵 Candice Bock
 
+## [HB 1326](/bill/2023-24/hb/1326/) - Utility connection charges 👍1  
+* 👍 Brandy DeLange
+
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat   ❓1
 * ❓ Brandy DeLange
 

@@ -16,11 +16,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30930&aId=153025&caId=21935&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30930&aId=153025&caId=21935&tId=4)
 
-#### 366 👍 - Pro
+#### 1126 👍 - Pro
+Testifying:
+* Micah Matthews - Washington Medical Commission
+* Cara Winters - Planned Parenthood
+* Dr Nari Heshmati - WA State Medical Association
+* Dr Peggy Hutchison - American College of Obstetricians and Gynecologists -- WA Section
 
-#### 321 👎 - Con
+#### 590 👎 - Con
+Testifying:
+* Christina Callahan - Conservative Ladies of Washington
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/24 01:30 PM - Health Care & Wellness (HCW): HB 1340 Health professions/conduct
 #### 315 👍 - Pro

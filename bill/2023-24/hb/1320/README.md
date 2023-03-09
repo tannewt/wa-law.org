@@ -10,6 +10,21 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Meetings
+### Thu 03/16 08:00 AM - Labor & Commerce (LC): E2SHB 1320 Personnel records
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153148&caId=22155&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153148&caId=22155&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153148&caId=22155&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153148&caId=22155&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* Patrick McGah - Individual citizen
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/23 09:00 AM - Appropriations (APP): SHB 1320 Personnel records
 #### 13 👍 - Pro
 Testifying:

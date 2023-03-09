@@ -9,6 +9,19 @@
 * [Second Substitute](S2/)
 
 ## Meetings
+### Tue 03/14 10:30 AM - Human Services (HS): 2SHB 1580 Children in crisis
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30946&aId=153174&caId=22130&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30946&aId=153174&caId=22130&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30946&aId=153174&caId=22130&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30946&aId=153174&caId=22130&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/20 01:30 PM - Appropriations (APP): SHB 1580 Children in crisis
 #### 82 👍 - Pro
 Testifying:

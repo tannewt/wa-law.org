@@ -52,6 +52,8 @@
 ## [SB 5264](/bill/2023-24/sb/5264/) - Paraeducator requirements 👍1  
 * 👍💵 Roz Thompson
 
+## [SB 5275](/bill/2023-24/sb/5275/) - SEBB benefits access 👍1  
+
 ## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍1  
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
@@ -59,6 +61,8 @@
 ## [SB 5522](/bill/2023-24/sb/5522/) - College grant prg. stipend 👍1  
 
 ## [SB 5527](/bill/2023-24/sb/5527/) - Graduation pathway options 👍1  
+
+## [SB 5617](/bill/2023-24/sb/5617/) - Career & tech. ed. courses 👍1  
 
 ## [SB 5670](/bill/2023-24/sb/5670/) - Running start/10th grade  👎2 
 * 👎💵 Roz Thompson
@@ -71,4 +75,4 @@
 
 ## [SB 5710](/bill/2023-24/sb/5710/) - Behavioral health/youth 👍1  
 
-## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍1  
+## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍2  

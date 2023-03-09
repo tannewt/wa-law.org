@@ -2,6 +2,8 @@
 
 ## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 
+## [HB 1082](/bill/2023-24/hb/1082/) - PT & OT service corporations 👍1  
+
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍2  
 
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  

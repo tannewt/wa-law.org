@@ -16,16 +16,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30930&aId=152867&caId=21882&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30930&aId=152867&caId=21882&tId=4)
 
-#### 6 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * 💵Scott Sigmon - ZoomCare
 * Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
 * 💵Leslie Emerick - Fresenius Medical Care North America (FMCNA)
+* MD, Mark Zeitzer - ZoomCare
+* 💵Intisar Surur - [Quest Diagnostics](/org/quest_diagnostics/)
+* 💵Sean Graham - Washington State Medical Association
+* Roman Daniels-Brown - DaVita
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Amber Samaniego
 * Prathyusha Balluru
+* Donald Balasa - American Association of Medical Assistants (AAMA)
 
 #### 0 ❓ - Other
 

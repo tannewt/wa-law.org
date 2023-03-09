@@ -25,7 +25,7 @@
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management 👍1  
 * 👍 Marlene Feist
 
-## [SB 5258](/bill/2023-24/sb/5258/) - Condos and townhouses 👍2  
+## [SB 5258](/bill/2023-24/sb/5258/) - Condos and townhouses 👍3  
 * 👍 Councilwoman Betsy Wilkerson
 * 👍 Spencer Gardner
 

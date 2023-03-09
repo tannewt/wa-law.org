@@ -14,13 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152864&caId=21897&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152864&caId=21897&tId=4)
 
-#### 3 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Kim Ford - Fiserv
+* Samantha Weigand - Vashon Island Baking Company
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Dean Carlson - Department of Revenue
+* Kathy Oline - Department of Revenue
+* Steve Ewing - Department of Revenue
 
 ### Tue 02/14 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5733 Payment card processing/tax
 #### 8 👍 - Pro

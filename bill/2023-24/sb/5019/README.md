@@ -14,20 +14,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30923&aId=152856&caId=21853&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30923&aId=152856&caId=21853&tId=4)
 
-#### 5 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Liz Pray - School Nurse Organization of Washington (SNOW)
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* 💵Terique Scott - [League of Education Voters](/org/league_of_education_voters/)
+* 💵Melanie Smith - [Committee for Children](/org/committee_for_children/)
 
-#### 445 👎 - Con
+#### 738 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Eric pratt - America
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Grace Yuan - [School Alliance](/org/school_alliance/)
 * Wendy Williams-Gilbert - Washington State School Directors' Association (WSSDA)
+* Lori Cloud - Tahoma School District
 
 ### Wed 01/11 01:30 PM - Early Learning & K-12 Education (EDU): SB 5019 School safety staff
 #### 0 👍 - Pro

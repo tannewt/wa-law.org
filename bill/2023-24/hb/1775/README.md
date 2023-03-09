@@ -7,6 +7,21 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 03/13 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): HB 1775 Salmon recovery/liability
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30989&aId=153264&caId=22100&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30989&aId=153264&caId=22100&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30989&aId=153264&caId=22100&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30989&aId=153264&caId=22100&tId=4)
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+Testifying:
+* Jenna Friebel - Skagit Drainage and Irrigation Districts Consortium LLC
+
+#### 0 ❓ - Other
+
 ### Fri 02/10 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1775 Salmon recovery/liability
 #### 51 👍 - Pro
 Testifying:

@@ -24,7 +24,9 @@ Testifying:
 Testifying:
 * Eric pratt - America
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Sean Flynn - Public Disclosure Commission
 
 ### Tue 01/24 01:30 PM - State Government & Elections (SGE): SB 5152 Synthetic media
 #### 4 👍 - Pro

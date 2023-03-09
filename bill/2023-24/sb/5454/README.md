@@ -9,6 +9,19 @@
 * [Second Substitute](S2/)
 
 ## Meetings
+### Fri 03/17 10:30 AM - Labor & Workplace Standards (LAWS): 2SSB 5454 RN PTSD/industrial insurance
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31024&aId=153336&caId=22050&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31024&aId=153336&caId=22050&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31024&aId=153336&caId=22050&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31024&aId=153336&caId=22050&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Sat 02/18 09:00 AM - Ways & Means (WM): SSB 5454 RN PTSD/industrial insurance
 #### 108 👍 - Pro
 Testifying:

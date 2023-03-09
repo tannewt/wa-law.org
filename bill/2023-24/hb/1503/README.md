@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Tue 01/31 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1503 Health care licenses/info.

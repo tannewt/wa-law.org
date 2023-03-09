@@ -4,9 +4,11 @@
 
 ## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍3  
 
-## [HB 1188](/bill/2023-24/hb/1188/) - Child welfare services/DD 👍1  
+## [HB 1188](/bill/2023-24/hb/1188/) - Child welfare services/DD 👍2  
 
 ## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍3  
+
+## [HB 1251](/bill/2023-24/hb/1251/) - Water system notices 👍1  
 
 ## [HB 1307](/bill/2023-24/hb/1307/) - Physician bargaining 👍1  
 

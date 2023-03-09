@@ -10,6 +10,19 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Meetings
+### Wed 03/15 08:00 AM - Environment, Energy & Technology (ENET): E2SHB 1216 Clean energy siting
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153256&caId=22148&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153256&caId=22148&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153256&caId=22148&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153256&caId=22148&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1216 Clean energy siting
 #### 82 👍 - Pro
 Testifying:

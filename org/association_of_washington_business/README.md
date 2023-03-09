@@ -1,6 +1,6 @@
 # Association of Washington Business
 
-## [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍1  
+## [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍2  
 
 ## [HB 1003](/bill/2023-24/hb/1003/) - Dual credit program access 👍1  
 
@@ -15,6 +15,8 @@
 * 👍 Mike Ennis
 
 ## [HB 1070](/bill/2023-24/hb/1070/) - Property sale and leaseback 👍1  
+
+## [HB 1073](/bill/2023-24/hb/1073/) - Medical assistants 👍1  
 
 ## [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority   ❓1
 * ❓ Mike Ennis
@@ -58,7 +60,7 @@
 ## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  
 * 👍💵 Peter Godlewski
 
-## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍2  
+## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍3  
 
 ## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting 👍1  
 
@@ -306,7 +308,7 @@
 ## [SB 5251](/bill/2023-24/sb/5251/) - Commercial driver's licenses 👍1  
 * 👍 Mike Ennis
 
-## [SB 5258](/bill/2023-24/sb/5258/) - Condos and townhouses 👍1  
+## [SB 5258](/bill/2023-24/sb/5258/) - Condos and townhouses 👍2  
 * 👍 Mike Ennis
 
 ## [SB 5267](/bill/2023-24/sb/5267/) - Railroad workers  👎1 
@@ -426,6 +428,8 @@
 ## [SB 5609](/bill/2023-24/sb/5609/) - Housing approval 👍1  
 
 ## [SB 5613](/bill/2023-24/sb/5613/) - Rural public facilities/tax 👍1  
+
+## [SB 5617](/bill/2023-24/sb/5617/) - Career & tech. ed. courses 👍1  
 
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  
 
