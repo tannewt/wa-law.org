@@ -1,5 +1,7 @@
 # Pasado's Safe Haven
 
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍1  
+
 ## [HB 1097](/bill/2023-24/hb/1097/) - Cosmetics tested on animals 👍1  
 
 ## [HB 1153](/bill/2023-24/hb/1153/) - Octopus farming 👍1  

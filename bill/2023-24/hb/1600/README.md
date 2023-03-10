@@ -16,11 +16,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30941&aId=152967&caId=22096&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30941&aId=152967&caId=22096&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Kristin Mansfield - Cheney United Methodist Church
 
 ### Wed 02/01 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1600 Firearms/juvenile records
 #### 6 👍 - Pro

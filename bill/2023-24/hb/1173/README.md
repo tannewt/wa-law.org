@@ -20,7 +20,9 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Steve Taylor - Cowlitz Public Utility District No. 1
 
 ### Mon 01/16 01:30 PM - Environment & Energy (ENVI): HB 1173 Light pollution
 #### 31 👍 - Pro

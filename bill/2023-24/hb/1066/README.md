@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Thu 03/09 08:00 AM - Law & Justice (LAW): HB 1066 Technical corrections
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30886&aId=152738&caId=21879&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30886&aId=152738&caId=21879&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30886&aId=152738&caId=21879&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30886&aId=152738&caId=21879&tId=4)
-
 #### 2 👍 - Pro
 Testifying:
 * Kathy Buchli - Office of the Code Reviser

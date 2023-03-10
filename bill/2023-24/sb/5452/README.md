@@ -14,7 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30962&aId=153081&caId=22052&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30962&aId=153081&caId=22052&tId=4)
 
-#### 1 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Cynthia Stewart - League of Women Voters of WA
+* Maxwell Brooke
+* Rob Putaansuu - [City of Port Orchard](/org/city_of_port_orchard/)
+* Angela Birney - City of Redmond Mayor
+* Vangie Garcia - Redmond Transportation Planning & Engineering Manager
 
 #### 0 👎 - Con
 

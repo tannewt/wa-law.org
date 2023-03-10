@@ -15,14 +15,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30931&aId=152872&caId=21902&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30931&aId=152872&caId=21902&tId=4)
 
-#### 154 👍 - Pro
+#### 261 👍 - Pro
 Testifying:
 * Tom Davis - Veterans Legislative Coalition (VLC)
 * Shane Martin - Seattle University
+* CMHS, NCC, Shannon Thompson LMHC - [Washington Mental Health Counselors Association](/org/washington_mental_health_counselors_association/)
+* PhD, LMHC, NCC, Dominique Avery - [Washington Mental Health Counselors Association](/org/washington_mental_health_counselors_association/)
+* Meg Curtin Rey-Bear
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Fri 01/13 08:00 AM - Postsecondary Education & Workforce (PEW): HB 1069 Mental health counselor comp
 #### 0 👍 - Pro

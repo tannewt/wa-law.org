@@ -17,11 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31031&aId=153369&caId=22000&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31031&aId=153369&caId=22000&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Devony Audet - Parent of a student in special education
+* Jeremiah Audet - Student in special education
+* Julie Barrett - Conservative Ladies of Washington
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Samantha Fogg - Seattle Council PTSA
+* Tanya Aggar - WA PTA
 
 ### Thu 02/09 04:00 PM - Ways & Means (WM): SSB 5311 Special education funding
 #### 84 👍 - Pro

@@ -8,29 +8,25 @@
 
 ## Meetings
 ### Thu 03/09 08:00 AM - Education (ED): SB 5019 School safety staff
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30923&aId=152856&caId=21853&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30923&aId=152856&caId=21853&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30923&aId=152856&caId=21853&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30923&aId=152856&caId=21853&tId=4)
-
-#### 16 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Liz Pray - School Nurse Organization of Washington (SNOW)
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * 💵Terique Scott - [League of Education Voters](/org/league_of_education_voters/)
 * 💵Melanie Smith - [Committee for Children](/org/committee_for_children/)
+* Jeremy Arp - National Association of Social Workers - Washington Chapter
 
-#### 738 👎 - Con
+#### 767 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Eric pratt - America
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Grace Yuan - [School Alliance](/org/school_alliance/)
 * Wendy Williams-Gilbert - Washington State School Directors' Association (WSSDA)
 * Lori Cloud - Tahoma School District
+* Rick Chisa - Public School Employees of WA/SEIU 1948
 
 ### Wed 01/11 01:30 PM - Early Learning & K-12 Education (EDU): SB 5019 School safety staff
 #### 0 👍 - Pro

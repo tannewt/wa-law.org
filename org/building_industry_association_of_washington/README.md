@@ -124,6 +124,8 @@
 ## [SB 5258](/bill/2023-24/sb/5258/) - Condos and townhouses 👍1  
 * 👍💵 Josie Cummings
 
+## [SB 5284](/bill/2023-24/sb/5284/) - Campaign finance disclosure  👎1 
+
 ## [SB 5289](/bill/2023-24/sb/5289/) - Impact fees/law enforcement  👎2 
 * 👎💵 Bill Stauffacher
 * 👎💵 Bill Stauffacher

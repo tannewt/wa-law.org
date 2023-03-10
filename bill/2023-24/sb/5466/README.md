@@ -16,11 +16,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31021&aId=153318&caId=22027&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31021&aId=153318&caId=22027&tId=4)
 
-#### 9 👍 - Pro
+#### 36 👍 - Pro
 Testifying:
 * Joe Kunzler - None
+* Cynthia Stewart - League of Women Voters of WA
+* Dave Andersen - Washington Department of Commerce
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -21,9 +21,14 @@ Sign up to testify:
 Testifying:
 * Lukas Hunter - Harmony Farms
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Arthur West
+* Azmyth Kaminski
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Ezra Eickmeyer - Producers NW
 
 ### Sat 02/18 09:00 AM - Ways & Means (WM): SSB 5367 Products containing THC
 #### 13 👍 - Pro

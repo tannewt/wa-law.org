@@ -196,6 +196,8 @@
 
 ## [SB 5247](/bill/2023-24/sb/5247/) - Climate-ready communities 👍1  
 
+## [SB 5258](/bill/2023-24/sb/5258/) - Condos and townhouses 👍1  
+
 ## [SB 5268](/bill/2023-24/sb/5268/) - Public works procurement 👍2  
 
 ## [SB 5273](/bill/2023-24/sb/5273/) - Employee information/unions   ❓1

@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30989&aId=153264&caId=22100&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30989&aId=153264&caId=22100&tId=4)
 
-#### 0 👍 - Pro
+#### 28 👍 - Pro
 
-#### 1 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Jenna Friebel - Skagit Drainage and Irrigation Districts Consortium LLC
+* David Hawkins - Upper Skagit Indian Tribe
+* Ron Wesen - Skagit County Commissioner
+* Daryl Hamburg - Dike and Drainage Flood Control Partnership
 
 #### 0 ❓ - Other
 

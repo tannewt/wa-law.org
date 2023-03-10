@@ -9,19 +9,13 @@
 
 ## Meetings
 ### Thu 03/09 08:00 AM - Community Safety, Justice, & Reentry (CSJR): SSB 5033 Custodial sexual misconduct
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30932&aId=152873&caId=21848&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30932&aId=152873&caId=21848&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30932&aId=152873&caId=21848&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30932&aId=152873&caId=21848&tId=4)
-
-#### 7 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Dawn Bender
 * 💵Larry Shannon - Washington State Association for Justice
 * Gabriel Galanda - Galanda Broadman, PLLC
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

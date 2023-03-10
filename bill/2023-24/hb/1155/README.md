@@ -16,11 +16,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30942&aId=152911&caId=22136&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30942&aId=152911&caId=22136&tId=4)
 
-#### 1 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* Andrea Alegrett - WA State Attorney General's Office
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 
 ### Tue 01/24 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1155 Consumer health data
 #### 1012 👍 - Pro

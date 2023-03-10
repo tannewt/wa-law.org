@@ -7,5 +7,8 @@
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing  👎1 
 * 👎 Mayor, Rob Putaansuu
 
+## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍1  
+* 👍 Rob Putaansuu
+
 ## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation 👍1  
 * 👍💵 Josh Weiss

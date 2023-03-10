@@ -27,7 +27,7 @@
 
 ## [SB 5349](/bill/2023-24/sb/5349/) - Postretirement employment 👍2  
 
-## [SB 5350](/bill/2023-24/sb/5350/) - PERS/TRS 1 benefit increase 👍25  
+## [SB 5350](/bill/2023-24/sb/5350/) - PERS/TRS 1 benefit increase 👍27  
 * 👍 Clair Olivers
 * 👍 Nancy Heley
 * 👍 Zona Gail Spaeth

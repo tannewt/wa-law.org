@@ -15,10 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30920&aId=152961&caId=21919&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30920&aId=152961&caId=21919&tId=4)
 
-#### 7 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * 💵Michael Shaw - Washington State Transit Association
 * 💵Hanna Jones - [Pierce Transit](/org/pierce_transit/)
+* Michelle Detwiler - [Renewable Hydrogen Alliance](/org/renewable_hydrogen_alliance/)
 
 #### 2 👎 - Con
 

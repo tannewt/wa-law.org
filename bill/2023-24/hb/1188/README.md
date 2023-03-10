@@ -11,20 +11,16 @@
 
 ## Meetings
 ### Thu 03/09 08:00 AM - Human Services (HS): E2SHB 1188 Child welfare services/DD
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30906&aId=152999&caId=21928&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30906&aId=152999&caId=21928&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30906&aId=152999&caId=21928&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30906&aId=152999&caId=21928&tId=4)
-
-#### 19 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Desiree White
 * Marissa Ingalls - Coordinated Care
 * Sydney Doherty - Coordinated Care
 * 💵Daniel Lugo - [Treehouse](/org/treehouse/)
 * 💵Noah Seidel - Office of Developmental Disabilities Ombuds
+* Janet Hedgepath - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
 * 💵Diana Stadden - The Arc of WA State
+* Andrea Davis - Coordinated Care
 
 #### 0 👎 - Con
 

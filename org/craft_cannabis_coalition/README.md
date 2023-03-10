@@ -21,8 +21,9 @@
 ## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity   ❓1
 * ❓ Adan Espino Jr
 
-## [SB 5259](/bill/2023-24/sb/5259/) - Product theft 👍1  
+## [SB 5259](/bill/2023-24/sb/5259/) - Product theft 👍2  
 * 👍 Adan Espino Jr
+* 👍 Shea Hynes
 
 ## [SB 5340](/bill/2023-24/sb/5340/) - Retail cannabis products 👍1  
 

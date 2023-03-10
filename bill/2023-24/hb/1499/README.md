@@ -9,15 +9,10 @@
 
 ## Meetings
 ### Thu 03/09 08:00 AM - Human Services (HS): SHB 1499 Food assistance funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30906&aId=153003&caId=21932&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30906&aId=153003&caId=21932&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30906&aId=153003&caId=21932&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30906&aId=153003&caId=21932&tId=4)
-
-#### 15 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* Andy Glaser
 
 #### 0 👎 - Con
 

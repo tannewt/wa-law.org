@@ -3,6 +3,8 @@
 ## [HB 1042](/bill/2023-24/hb/1042/) - Use of existing buildings 👍1  
 * 👍💵 Dan Bertolet
 
+## [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act 👍1  
+
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
 * 👍💵 Dan Bertolet
 

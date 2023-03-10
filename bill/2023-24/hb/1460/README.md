@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Thu 03/09 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SHB 1460 DNR land
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30900&aId=152997&caId=21927&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30900&aId=152997&caId=21927&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30900&aId=152997&caId=21927&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30900&aId=152997&caId=21927&tId=4)
-
-#### 468 👍 - Pro
+#### 508 👍 - Pro
 Testifying:
 * Sherri Dysart - League of Women Voters of Washington
 * Nicole Pasi - Mountains to Sound Greenway Trust
@@ -24,12 +18,13 @@ Testifying:
 * Maggie Coon - [Methow Valley Citizens Council](/org/methow_valley_citizens_council/)
 * Brian Considine - Washington Department of Natural Resources
 * Duane Emmons - Washington Department of Natural Resources
+* Sherri Dysart - League of Women Voters of Washington
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Ed Bowen
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Heath Heikkila - American Forest Resource Council

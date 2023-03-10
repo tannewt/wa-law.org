@@ -9,17 +9,12 @@
 
 ## Meetings
 ### Thu 03/09 08:00 AM - Community Safety, Justice, & Reentry (CSJR): SSB 5081 Victim notification
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30932&aId=152875&caId=21850&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30932&aId=152875&caId=21850&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30932&aId=152875&caId=21850&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30932&aId=152875&caId=21850&tId=4)
-
-#### 4 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Mac Pevey - Washington State Department of Corrections
+* 💵Rowland Thompson - Allied Daily Newspapers of WA, WA Newspaper Publishers Assn, WA State Association of Broadcasters
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

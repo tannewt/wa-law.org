@@ -10,20 +10,14 @@
 
 ## Meetings
 ### Thu 03/09 10:30 AM - Health & Long Term Care (HLTC): ESHB 1340 Health professions/conduct
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30930&aId=153025&caId=21935&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30930&aId=153025&caId=21935&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30930&aId=153025&caId=21935&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30930&aId=153025&caId=21935&tId=4)
-
-#### 1126 👍 - Pro
+#### 1232 👍 - Pro
 Testifying:
 * Micah Matthews - Washington Medical Commission
 * Cara Winters - Planned Parenthood
 * Dr Nari Heshmati - WA State Medical Association
 * Dr Peggy Hutchison - American College of Obstetricians and Gynecologists -- WA Section
 
-#### 590 👎 - Con
+#### 633 👎 - Con
 Testifying:
 * Christina Callahan - Conservative Ladies of Washington
 

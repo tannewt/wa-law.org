@@ -12,6 +12,8 @@
 
 ## [HB 1056](/bill/2023-24/hb/1056/) - Postretirement employment 👍1  
 
+## [HB 1073](/bill/2023-24/hb/1073/) - Medical assistants 👍1  
+
 ## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 
 ## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
@@ -111,7 +113,7 @@
 
 ## [HB 1348](/bill/2023-24/hb/1348/) - Behavioral health support 👍1  
 
-## [HB 1352](/bill/2023-24/hb/1352/) - County invest. pools/tribes 👍2  
+## [HB 1352](/bill/2023-24/hb/1352/) - County invest. pools/tribes 👍3  
 
 ## [HB 1355](/bill/2023-24/hb/1355/) - Property tax exemptions 👍1  
 
@@ -270,12 +272,13 @@
 
 ## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍1  
 
-## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍1  
+## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍2  
+* 👍 Sarah Perry
 
 ## [SB 5130](/bill/2023-24/sb/5130/) - Assisted outpatient treat. 👍2  
 * 👍💵 Michael White
 
-## [SB 5142](/bill/2023-24/sb/5142/) - HIV medication rebate rev. 👍2  
+## [SB 5142](/bill/2023-24/sb/5142/) - HIV medication rebate rev. 👍3  
 
 ## [SB 5143](/bill/2023-24/sb/5143/) - Pesticide registration comm. 👍1  
 
@@ -348,10 +351,14 @@
 
 ## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍1  
 
+## [SB 5294](/bill/2023-24/sb/5294/) - Retirement system funding 👍1  
+
 ## [SB 5300](/bill/2023-24/sb/5300/) - Behavioral health continuity 👍1  
 
 ## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍2  
 * 👍 Magan Cromar
+
+## [SB 5317](/bill/2023-24/sb/5317/) - RTA vehicle removal 👍1  
 
 ## [SB 5322](/bill/2023-24/sb/5322/) - Public building materials 👍1  
 
@@ -410,6 +417,8 @@
 ## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍1  
 
 ## [SB 5474](/bill/2023-24/sb/5474/) - Juvenile justice 👍1  
+
+## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍1  
 
 ## [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍2  
 

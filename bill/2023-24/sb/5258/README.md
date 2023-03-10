@@ -9,20 +9,17 @@
 
 ## Meetings
 ### Thu 03/09 04:00 PM - Ways & Means (WM): SSB 5258 Condos and townhouses
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152859&caId=21892&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152859&caId=21892&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152859&caId=21892&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152859&caId=21892&tId=4)
-
-#### 38 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * Councilmember Sarah Rumbaugh - [City of Tacoma](/org/city_of_tacoma/)
 * 💵Bill Clarke - WA REALTORS
 * Andrew Rolwes - Downtown Spokane Partnership
 * Bill Cornell - Preg O'Donnell & Gillett
+* Joe McCarthy - Stoel Rives LLP
 
-#### 1 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Sarah Schacht - None
 
 #### 0 ❓ - Other
 

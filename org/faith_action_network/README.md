@@ -61,7 +61,7 @@
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍3  
 
-## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
+## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍2  
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 * 👍💵 Kristin Ang

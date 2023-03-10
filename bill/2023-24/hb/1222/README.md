@@ -16,13 +16,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30973&aId=153116&caId=22117&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30973&aId=153116&caId=22117&tId=4)
 
-#### 4 👍 - Pro
+#### 137 👍 - Pro
 Testifying:
 * Jill Bujnevicie - Will also have 8yo son Hugo Esterhay briefly speak with me
+* Douglas Sladen
+* Kai Wendorf - 16 year old using hearing aids since 6 months old
+* Julia LaBelle
+* Ruby Kotovic
+* Cynthia Stewart - Hearing Loss Association - WA
+* Preston Dwoskin
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 02/08 04:00 PM - Appropriations (APP): SHB 1222 Hearing instruments coverage
 #### 657 👍 - Pro

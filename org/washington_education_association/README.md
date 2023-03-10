@@ -10,7 +10,7 @@
 
 ## [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍1  
 
-## [HB 1015](/bill/2023-24/hb/1015/) - Paraeducator requirements 👍2  
+## [HB 1015](/bill/2023-24/hb/1015/) - Paraeducator requirements 👍3  
 * 👍💵 Nasue Nishida
 
 ## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
@@ -324,6 +324,8 @@
 ## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍1  
 
 ## [SB 5102](/bill/2023-24/sb/5102/) - School library info and tech 👍2  
+
+## [SB 5110](/bill/2023-24/sb/5110/) - Labor practices/penalties 👍1  
 
 ## [SB 5111](/bill/2023-24/sb/5111/) - Sick leave/construction 👍1  
 

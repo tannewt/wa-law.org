@@ -9,19 +9,14 @@
 
 ## Meetings
 ### Thu 03/09 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SHB 1620 Incorporation/population
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30934&aId=152881&caId=21886&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30934&aId=152881&caId=21886&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30934&aId=152881&caId=21886&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30934&aId=152881&caId=21886&tId=4)
-
-#### 16 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Jim West
 * Marty Campbell
 * Marty Campbell
 * Leslie McQuistin
 * Stirling Smith
+* Leo Emerson - Dash Point Social and Improvement Club
 
 #### 0 👎 - Con
 

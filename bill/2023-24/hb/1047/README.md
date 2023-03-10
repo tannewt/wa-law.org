@@ -15,9 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31005&aId=153254&caId=22141&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31005&aId=153254&caId=22141&tId=4)
 
-#### 1 👍 - Pro
+#### 58 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Kelsey Johnson - [Personal Care Products Council](/org/personal_care_products_council/)
 
 #### 0 ❓ - Other
 

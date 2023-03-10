@@ -15,13 +15,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30970&aId=153102&caId=21981&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30970&aId=153102&caId=21981&tId=4)
 
-#### 2 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Maryum Saifee - FGM survivor
+* Absa Samba
+* Lavina Joseph
+* Jenny Hawkins - The Uncounted
+* Brooke Lavine
+* Bettina Duncan
+* Dr. Maria Viola Sanchez - Founder & CEO, STOP THE CUT NOW!  Eradicating Female Genital Mutilation
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Rasha Elshaarawi - Mother Africa
+* Nagwa Rabbo
 
 ### Tue 02/14 04:00 PM - Ways & Means (WM): SSB 5453 Female genital mutilation
 #### 140 👍 - Pro

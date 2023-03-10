@@ -23,7 +23,7 @@
 * 👍💵 Jazmine Smith
 * 👍💵 Jazmine Smith
 
-## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍1  
+## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍3  
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
 

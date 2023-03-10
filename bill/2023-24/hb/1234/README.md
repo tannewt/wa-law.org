@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Thu 03/09 08:00 AM - Law & Justice (LAW): SHB 1234 Civil forfeiture of animals
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30886&aId=152740&caId=21881&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30886&aId=152740&caId=21881&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30886&aId=152740&caId=21881&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30886&aId=152740&caId=21881&tId=4)
-
-#### 78 👍 - Pro
+#### 81 👍 - Pro
 Testifying:
 * Sarah Hock - Joint Animal Services and the Pet Alliance of WA
 * Kirsten Gregory - [Pasado's Safe Haven](/org/pasado's_safe_haven/)

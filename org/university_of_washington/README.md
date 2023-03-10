@@ -74,10 +74,11 @@
 
 ## [SB 5179](/bill/2023-24/sb/5179/) - Death with dignity act 👍1  
 
-## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍3  
+## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍4  
 * 👍 Anna Ratzliff
 * 👍 Anna Ratzliff
 * 👍 Bill O'Connell
+* 👍 Anna Ratzliff
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
 

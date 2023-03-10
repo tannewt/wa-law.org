@@ -52,7 +52,7 @@
 * 👎 Chris Herman
 * 👎 Chris Herman
 
-## [HB 1584](/bill/2023-24/hb/1584/) - Nuclear reactor technology 👍1  
+## [HB 1584](/bill/2023-24/hb/1584/) - Nuclear reactor technology 👍2  
 
 ## [HB 1619](/bill/2023-24/hb/1619/) - Renewable energy resources 👍1  
 
@@ -91,7 +91,7 @@
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 * ❓ Eric ffitch
 
-## [SB 5091](/bill/2023-24/sb/5091/) - Hydrogen fuel products 👍1  
+## [SB 5091](/bill/2023-24/sb/5091/) - Hydrogen fuel products 👍2  
 
 ## [SB 5129](/bill/2023-24/sb/5129/) - Nuclear reactor technology 👍1  
 

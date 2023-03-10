@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 03/09 04:00 PM - Appropriations (APP): SB 5122 Ambulance transport fund
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30908&aId=152890&caId=21843&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30908&aId=152890&caId=21843&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30908&aId=152890&caId=21843&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30908&aId=152890&caId=21843&tId=4)
-
-#### 10 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Mike Battis - [Washington Ambulance Association](/org/washington_ambulance_association/)
 

@@ -10,13 +10,9 @@
 
 ## Meetings
 ### Thu 03/09 04:00 PM - Appropriations (APP): ESSB 5142 HIV medication rebate rev.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30908&aId=152826&caId=21841&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30908&aId=152826&caId=21841&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30908&aId=152826&caId=21841&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30908&aId=152826&caId=21841&tId=4)
-
-#### 6 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Summer Wurst - Washington State Department of Health
 
 #### 1 👎 - Con
 

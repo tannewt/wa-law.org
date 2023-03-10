@@ -9,6 +9,19 @@
 * [Second Substitute](S2/)
 
 ## Meetings
+### Wed 03/15 08:00 AM - Higher Education & Workforce Development (HEWD): 2SHB 1522 Sexual misconduct/assocs.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31011&aId=153439&caId=22190&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31011&aId=153439&caId=22190&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31011&aId=153439&caId=22190&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31011&aId=153439&caId=22190&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/23 09:00 AM - Appropriations (APP): SHB 1522 Sexual misconduct/assocs.
 #### 60 👍 - Pro
 Testifying:

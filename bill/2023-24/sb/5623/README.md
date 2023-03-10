@@ -8,17 +8,11 @@
 
 ## Meetings
 ### Thu 03/09 08:00 AM - Community Safety, Justice, & Reentry (CSJR): ESB 5623 Hate crimes
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30932&aId=152877&caId=21852&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30932&aId=152877&caId=21852&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30932&aId=152877&caId=21852&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30932&aId=152877&caId=21852&tId=4)
-
-#### 7 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Yessenia Manzo - King County Prosecuting Attorney's Office
 
-#### 4 👎 - Con
+#### 6 👎 - Con
 
 #### 0 ❓ - Other
 

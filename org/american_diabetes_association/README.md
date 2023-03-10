@@ -11,5 +11,6 @@
 
 ## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍1  
 
-## [SB 5729](/bill/2023-24/sb/5729/) - Insulin cost-sharing cap 👍1  
+## [SB 5729](/bill/2023-24/sb/5729/) - Insulin cost-sharing cap 👍2  
+* 👍💵 Carissa Kemp
 * 👍💵 Carissa Kemp

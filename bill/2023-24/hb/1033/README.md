@@ -16,11 +16,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30920&aId=152957&caId=21915&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30920&aId=152957&caId=21915&tId=4)
 
-#### 151 👍 - Pro
+#### 203 👍 - Pro
 Testifying:
 * JANET THOMAN - Compost Manufacturing Alliance
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * 💵Travis Dutton - Washington State Association of Counties and Washington Association of County Solid Waste Managers
+* Ann Murphy - League of Women Voters of Washington
+* Karen Dawson - [Cedar Grove](/org/cedar_grove/)
+* 💵Ezra Eickmeyer
+* 💵Jessica Fortescue - WA Refuse & Recycling Association
 
 #### 2 👎 - Con
 

@@ -16,20 +16,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152835&caId=21870&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152835&caId=21870&tId=4)
 
-#### 356 👍 - Pro
+#### 490 👍 - Pro
 Testifying:
 * 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
 * Cindy Madigan
 * Kathy Sakahara - Northwest Progressive Institute
 * Sean Flynn - Public Disclosure Commission
+* 💵Eli Goss - OneAmerica
 
-#### 3 👎 - Con
+#### 15 👎 - Con
 Testifying:
 * Laurie Layne
+* Joshua Hardwick
+* Tim Eyman
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Eric pratt - America
+* 💵Conner Edwards - Professional Campaign Treasurer
 
 ### Tue 01/24 01:30 PM - State Government & Elections (SGE): SB 5284 Campaign finance disclosure
 #### 28 👍 - Pro

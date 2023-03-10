@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 03/09 04:00 PM - Ways & Means (WM): SB 5486 Wealth/property tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152857&caId=21890&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152857&caId=21890&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152857&caId=21890&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152857&caId=21890&tId=4)
-
-#### 2318 👍 - Pro
+#### 2642 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 * 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
@@ -37,8 +31,9 @@ Testifying:
 * HyeEun Park - BIPOC Executive Directors Coalition
 * 💵Shaun Scott - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* Andrew Villeneuve - Northwest Progressive Institute
 
-#### 366 👎 - Con
+#### 433 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Tim Eyman - Permanent Offense
@@ -52,8 +47,12 @@ Testifying:
 * Gene Fortune
 * Krysta Verbarendse
 * Gail Ballow - voter
+* Mark Quenneville
+* Suzanne rohner
+* Tad Sommerville
+* James Peterson
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Katherine McGeough - N/A
 * Dean Carlson - Department of Revenue

@@ -8,18 +8,13 @@
 
 ## Meetings
 ### Thu 03/09 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): EHB 1086 Community org. contracts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30934&aId=152880&caId=21885&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30934&aId=152880&caId=21885&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30934&aId=152880&caId=21885&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30934&aId=152880&caId=21885&tId=4)
-
-#### 12 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Larry Leveen - ForeverGreen Trails
 * Hamdi Mohamed - Port of Seattle Commissioner
 * Richard May - [City of Blaine](/org/city_of_blaine/)
 * Jenny Love - Friends of Normandy Park
+* Jay Cochran - North Whidbey Pool, Park & Rec.
 
 #### 0 👎 - Con
 

@@ -9,12 +9,6 @@
 
 ## Meetings
 ### Thu 03/09 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): SHB 1266 Insurance comnr./email
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30915&aId=152988&caId=21938&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30915&aId=152988&caId=21938&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30915&aId=152988&caId=21938&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30915&aId=152988&caId=21938&tId=4)
-
 #### 4 👍 - Pro
 Testifying:
 * Bryon Welch - Office of the Insurance Commissioner

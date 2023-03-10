@@ -8,6 +8,8 @@
 * 👎 Connie Beauvais
 * 👎 Connie Beauvais
 
+## [SB 5192](/bill/2023-24/sb/5192/) - Derelict vessel appeals 👍1  
+
 ## [SB 5254](/bill/2023-24/sb/5254/) - Leasing of state lands 👍2  
 
 ## [SB 5539](/bill/2023-24/sb/5539/) - Tax increment financing 👍2  

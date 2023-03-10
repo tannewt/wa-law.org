@@ -14,19 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31019&aId=153312&caId=22021&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31019&aId=153312&caId=22021&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 
 #### 0 👎 - Con
 
 #### 0 ❓ - Other
 
 ### Thu 03/09 08:00 AM - Housing (HOUS): SB 5058 Multiunit res. buildings
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30929&aId=152934&caId=21858&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30929&aId=152934&caId=21858&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30929&aId=152934&caId=21858&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30929&aId=152934&caId=21858&tId=4)
-
 #### 3 👍 - Pro
 Testifying:
 * City council member Betsy Wilkerson - Spokane City Council

@@ -10,21 +10,16 @@
 
 ## Meetings
 ### Thu 03/09 08:00 AM - Human Services (HS): 2SHB 1447 Assistance programs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30906&aId=153011&caId=21933&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30906&aId=153011&caId=21933&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30906&aId=153011&caId=21933&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30906&aId=153011&caId=21933&tId=4)
-
-#### 145 👍 - Pro
+#### 153 👍 - Pro
 Testifying:
 * Avi Laudon - Workforce Development Council of Seattle and King County
 * Ali Scego - [Neighborhood House](/org/neighborhood_house/)
 * 💵Alex Hur - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * 💵Jude Ahmed - Urban League of Metropolitan Seattle
+* 💵Cristina Mateo - WA Build Back Black Alliance - (WBBA)
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

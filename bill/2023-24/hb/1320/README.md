@@ -17,9 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153148&caId=22155&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153148&caId=22155&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Patrick McGah - Individual citizen
+* 💵John Traynor - Washington State Labor Council, AFL-CIO
 
 #### 0 👎 - Con
 

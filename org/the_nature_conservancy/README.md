@@ -6,8 +6,9 @@
 
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍1  
 
-## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍2  
+## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍3  
 * 👍 justin allegro
+* 👍 Scott Richards
 
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍2  
 * 👍 Joshua Rubenstein
@@ -33,7 +34,7 @@
 
 ## [HB 1427](/bill/2023-24/hb/1427/) - On-premises energy gen. 👍1  
 
-## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍1  
+## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍2  
 * 👍💵 Justin Allegro
 
 ## [HB 1578](/bill/2023-24/hb/1578/) - Wildland fire safety 👍2  

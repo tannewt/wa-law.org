@@ -14,14 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30941&aId=152985&caId=22099&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30941&aId=152985&caId=22099&tId=4)
 
-#### 3 👍 - Pro
+#### 459 👍 - Pro
 Testifying:
 * Jolayne Houtz
 * Hector Martinez
+* Collin Bannister - ASWSU
+* Bob Embrey
+* Gary Jenkins - Pullman Police Chief (Ret.)
+* Nicole Andrea Rodriguez
+* Charlie Gartenberg
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
 
 ### Mon 01/16 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1002 Hazing penalty
 #### 764 👍 - Pro

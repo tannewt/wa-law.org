@@ -78,6 +78,8 @@
 
 ## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct 👍2  
 
+## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍1  
+
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
 
 ## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍1  
@@ -163,7 +165,7 @@
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍1  
 
-## [SB 5284](/bill/2023-24/sb/5284/) - Campaign finance disclosure 👍2  
+## [SB 5284](/bill/2023-24/sb/5284/) - Campaign finance disclosure 👍3  
 * 👍💵 Cindy Black
 
 ## [SB 5356](/bill/2023-24/sb/5356/) - Procurement/automated system 👍1  
@@ -195,6 +197,8 @@
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
 
 ## [SB 5477](/bill/2023-24/sb/5477/) - Murdered indigenous women 👍1  
+
+## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍1  
 
 ## [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍1  
 

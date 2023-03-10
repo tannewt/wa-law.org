@@ -9,16 +9,13 @@
 
 ## Meetings
 ### Thu 03/09 04:00 PM - Ways & Means (WM): SSB 5259 Product theft
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152860&caId=21893&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152860&caId=21893&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152860&caId=21893&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152860&caId=21893&tId=4)
-
-#### 3 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * 💵Bruce Beckett - Wa. Retail Association
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Shea Hynes - [Craft Cannabis Coalition](/org/craft_cannabis_coalition/)
+* 💵Brandon Houskeeper - NW Grocery Assoc.
+* Dustin Lambro - UFCW 3000
 
 #### 1 👎 - Con
 

@@ -44,11 +44,13 @@
 
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial  👎1 
 
+## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
+
 ## [SB 5093](/bill/2023-24/sb/5093/) - Climate response strategy 👍1  
 
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍2  
 
-## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍1  
+## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍2  
 
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1  
 

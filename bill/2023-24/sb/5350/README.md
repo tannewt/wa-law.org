@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 03/09 04:00 PM - Appropriations (APP): SB 5350 PERS/TRS 1 benefit increase
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30908&aId=153022&caId=21948&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30908&aId=153022&caId=21948&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30908&aId=153022&caId=21948&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30908&aId=153022&caId=21948&tId=4)
-
-#### 835 👍 - Pro
+#### 889 👍 - Pro
 Testifying:
 * Mary Lindsey - Washington Education Assoiciation-Retired (WEA-Retired)
 * Patricia MacGowan - Washington State School Retirees' Assn.

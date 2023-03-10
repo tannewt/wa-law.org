@@ -16,7 +16,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152830&caId=21865&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152830&caId=21865&tId=4)
 
-#### 589 👍 - Pro
+#### 1442 👍 - Pro
 Testifying:
 * Carol Sullivan
 * 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
@@ -32,8 +32,13 @@ Testifying:
 * Hailey Wu - Asian Counseling and Referral Service
 * Joseph Lachman - Asian Counseling and Referral Service
 * 💵Giovanni Severino - Progreso: Latino Progress
+* Joe Kendo - Washington State Labor Council, AFL-CIO
+* 💵Kristin Ang - Faith Action Network (FAN)
+* 💵Kristin Ang - Faith Action Network (FAN)
+* Julie Andrzejewski
+* Prof. Patrick Schoettmer
 
-#### 748 👎 - Con
+#### 1141 👎 - Con
 Testifying:
 * Eric pratt - America
 * Tim Eyman
@@ -48,6 +53,9 @@ Testifying:
 * Karen Shepard
 * Gail Ballow - voter
 * Pamela Smith
+* Mark Quenneville
+* Joshua Hardwick
+* Tad Sommerville
 
 #### 1 ❓ - Other
 

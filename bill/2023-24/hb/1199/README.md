@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 03/09 08:00 AM - Law & Justice (LAW): HB 1199 Child care/communities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30886&aId=152735&caId=21876&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30886&aId=152735&caId=21876&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30886&aId=152735&caId=21876&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30886&aId=152735&caId=21876&tId=4)
-
-#### 262 👍 - Pro
+#### 275 👍 - Pro
 Testifying:
 * Sarah Bolong-Banks
 * Ranjith kumar Thumeti
@@ -28,13 +22,16 @@ Testifying:
 * FAYSA DIRIYE
 * Hamdi Mohamed - Port of Seattle Commissioner
 * Patrick Johansen - RiseUpWA, Housing Justice Committee
+* Trenise Rodgers
+* Kasi Perreira - WA State Women’s Commission
 
-#### 17 👎 - Con
+#### 18 👎 - Con
 Testifying:
 * vian Salih
 * Vian Salih
 * Vian Salih
 * Carlos Sanchez
+* Rohan Khanduja - Board of Director on Pellerin Ridge Home Owner Association (HOA)
 * Vanessa Normandin - Pellerin Ridge Homeowners Association
 
 #### 11 ❓ - Other

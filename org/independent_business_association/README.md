@@ -29,8 +29,9 @@
 
 ## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge  👎1 
 
-## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1 👎1 
+## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍2 👎1 
 * 👎💵 James King
+* 👍💵 James King
 * 👍💵 James King
 
 ## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I  👎1 
@@ -58,4 +59,7 @@
 * 👍💵 James King
 
 ## [SB 5730](/bill/2023-24/sb/5730/) - Vehicle residences/impound  👎1 
+* 👎💵 James King
+
+## [SB 5740](/bill/2023-24/sb/5740/) - Catalytic converter theft  👎1 
 * 👎💵 James King

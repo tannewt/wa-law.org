@@ -31,16 +31,16 @@
 
 ## [SB 5430](/bill/2023-24/sb/5430/) - Driver training/low-income 👍1  
 
-## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍2  
+## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍3  
 
 ## [SB 5514](/bill/2023-24/sb/5514/) - Right turns 👍1  
 * 👍 Vicky Clarke
 
 ## [SB 5560](/bill/2023-24/sb/5560/) - Older driver safety 👍1  
 
-## [SB 5583](/bill/2023-24/sb/5583/) - Young driver safety 👍1  
+## [SB 5583](/bill/2023-24/sb/5583/) - Young driver safety 👍2  
 
 ## [SB 5742](/bill/2023-24/sb/5742/) - DOT grant programs 👍1  
 * 👍 Vicky Clarke
 
-## [SB 5743](/bill/2023-24/sb/5743/) - Transportation resources 👍1  
+## [SB 5743](/bill/2023-24/sb/5743/) - Transportation resources 👍2  

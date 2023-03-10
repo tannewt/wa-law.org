@@ -21,6 +21,8 @@
 
 ## [HB 1276](/bill/2023-24/hb/1276/) - Accessory dwelling units 👍1  
 
+## [HB 1326](/bill/2023-24/hb/1326/) - Utility connection charges 👍1  
+
 ## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units 👍1  
 
 ## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍1  

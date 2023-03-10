@@ -9,19 +9,14 @@
 
 ## Meetings
 ### Thu 03/09 08:00 AM - Education (ED): SSB 5617 Career & tech. ed. courses
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30923&aId=153046&caId=21957&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30923&aId=153046&caId=21957&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30923&aId=153046&caId=21957&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30923&aId=153046&caId=21957&tId=4)
-
-#### 13 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Anne Clark - Robototes FIRST Robotics Team
 * Anne Clark - Robototes FIRST Robotics Team
 * Elinor Widdows - Robototes FIRST Robotics Team
 * Patience Irwin - Robototes FIRST Robotics Team
 * Rediet Tassew - Robototes FIRST Robotics Team
+* Charlie Brown - Skills Center Directors
 
 #### 0 👎 - Con
 

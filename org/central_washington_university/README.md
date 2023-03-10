@@ -28,6 +28,8 @@
 
 ## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍2  
 
+## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍1  
+
 ## [SB 5702](/bill/2023-24/sb/5702/) - Student homelessness pilot 👍1  
 * 👍 Steve DuPont
 

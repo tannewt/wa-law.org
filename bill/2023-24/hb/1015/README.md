@@ -9,19 +9,14 @@
 
 ## Meetings
 ### Thu 03/09 01:30 PM - Early Learning & K-12 Education (EDU): SHB 1015 Paraeducator requirements
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30919&aId=152946&caId=21907&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30919&aId=152946&caId=21907&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30919&aId=152946&caId=21907&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30919&aId=152946&caId=21907&tId=4)
-
-#### 22 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * Laura Ketcham - Testifying for the Para Educator bill
 * Laura Ketcham - Para Educator, remotely
 * Jim Kowalkowski - Rural Education Center
 * Dr. Erica Hernandez-Scott - [Professional Educator Standards Board](/org/professional_educator_standards_board/)
 * Otis E Golden
+* Rick Chisa - Public School Employees of WA/SEIU 1948
 
 #### 0 👎 - Con
 

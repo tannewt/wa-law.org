@@ -7,7 +7,7 @@
 
 ## [HB 1230](/bill/2023-24/hb/1230/) - School websites/drug info. 👍1  
 
-## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍1  
+## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍2  
 
 ## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options 👍1  
 

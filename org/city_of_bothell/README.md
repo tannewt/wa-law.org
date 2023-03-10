@@ -7,6 +7,8 @@
 
 ## [HB 1296](/bill/2023-24/hb/1296/) - Local permit review 👍1  
 
+## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍1  
+
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  

@@ -1,18 +1,24 @@
 # Children's Alliance
 
+## [HB 1069](/bill/2023-24/hb/1069/) - Mental health counselor comp 👍1  
+
 ## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
 ## [HB 1168](/bill/2023-24/hb/1168/) - Prenatal substance exposure 👍1  
 
-## [HB 1199](/bill/2023-24/hb/1199/) - Child care/communities 👍1  
+## [HB 1188](/bill/2023-24/hb/1188/) - Child welfare services/DD 👍1  
+
+## [HB 1199](/bill/2023-24/hb/1199/) - Child care/communities 👍2  
 
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍2  
 
-## [HB 1251](/bill/2023-24/hb/1251/) - Water system notices 👍1  
+## [HB 1251](/bill/2023-24/hb/1251/) - Water system notices 👍2  
 
 ## [HB 1274](/bill/2023-24/hb/1274/) - Child malnutrition guide 👍1  
+
+## [HB 1340](/bill/2023-24/hb/1340/) - Health professions/conduct 👍1  
 
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍1  
 
@@ -38,6 +44,8 @@
 
 ## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce 👍2  
 
+## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
+
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍2  
 
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍2  
@@ -53,6 +61,8 @@
 ## [SB 5397](/bill/2023-24/sb/5397/) - Public benefit payments/DCYF 👍1  
 
 ## [SB 5453](/bill/2023-24/sb/5453/) - Female genital mutilation 👍2  
+
+## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍1  
 
 ## [SB 5555](/bill/2023-24/sb/5555/) - Certified peer specialists 👍1  
 

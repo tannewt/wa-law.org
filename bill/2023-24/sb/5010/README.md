@@ -16,9 +16,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30971&aId=153104&caId=21983&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30971&aId=153104&caId=21983&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Erik Podhora - Clark County Prosecuting Attorney
+* Gunnar Skollingsberg - Vancouver Police Department
 
 #### 0 👎 - Con
 

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 03/09 04:00 PM - Transportation (TR): SB 5023 Roadside safety measures
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30896&aId=152821&caId=21871&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30896&aId=152821&caId=21871&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30896&aId=152821&caId=21871&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30896&aId=152821&caId=21871&tId=4)
-
-#### 21 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * Cory Wells - TLC Towing
 * 💵Peter Lukevich - Towing Recovery Association of Washington (TRAW)

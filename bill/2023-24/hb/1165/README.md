@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Thu 03/09 08:00 AM - Law & Justice (LAW): SHB 1165 Intimate images/civil remedy
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30886&aId=152736&caId=21877&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30886&aId=152736&caId=21877&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30886&aId=152736&caId=21877&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30886&aId=152736&caId=21877&tId=4)
-
-#### 12 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Kaitlin Wolff - Uniform Law Commission
 

@@ -16,13 +16,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30917&aId=153040&caId=21951&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30917&aId=153040&caId=21951&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Samantha Wellman
+* Michelle Ugenti Rita
+* Robyn Towt - GPAC Global patient advocacy coalition
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Alex Wehinger - Washington State Medical Association
 
 ### Fri 01/20 08:00 AM - Health & Long Term Care (HLTC): SB 5050 Breast implant surgery
 #### 77 👍 - Pro

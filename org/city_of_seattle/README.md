@@ -137,7 +137,7 @@
 
 ## [SB 5258](/bill/2023-24/sb/5258/) - Condos and townhouses 👍1  
 
-## [SB 5259](/bill/2023-24/sb/5259/) - Product theft 👍1  
+## [SB 5259](/bill/2023-24/sb/5259/) - Product theft 👍2  
 
 ## [SB 5260](/bill/2023-24/sb/5260/) - Reprod. health/employers 👍1  
 
@@ -156,6 +156,8 @@
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍1  
 
 ## [SB 5477](/bill/2023-24/sb/5477/) - Murdered indigenous women 👍2  
+
+## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍1  
 
 ## [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍1  
 

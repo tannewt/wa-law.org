@@ -17,11 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30979&aId=153432&caId=22008&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30979&aId=153432&caId=22008&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Ann Murphy - League of Women Voters of Washington
+* 💵James King - [Independent Business Association](/org/independent_business_association/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 
 ### Sat 02/18 09:00 AM - Ways & Means (WM): SSB 5144 Batteries/environment
 #### 28 👍 - Pro

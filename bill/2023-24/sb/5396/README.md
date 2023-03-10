@@ -15,11 +15,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30917&aId=153042&caId=21953&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30917&aId=153042&caId=21953&tId=4)
 
-#### 6 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * 💵Kirsten Smith - [Susan G. Komen](/org/susan_g._komen/)
+* Christopher Crancer - RAYUS Radiology
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
 #### 0 ❓ - Other
 

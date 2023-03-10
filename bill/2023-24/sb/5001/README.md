@@ -17,7 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30962&aId=153083&caId=22054&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30962&aId=153083&caId=22054&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Frank Kuntz - City of Wenatchee
+* 💵Blake Baldwin - Chelan Douglas Regional Port Authority
 
 #### 0 👎 - Con
 

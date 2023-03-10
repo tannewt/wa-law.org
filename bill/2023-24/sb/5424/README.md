@@ -19,7 +19,9 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* James Peterson
 
 ### Wed 02/22 01:30 PM - Ways & Means (WM): SSB 5424 Flexible work/peace officers
 #### 10 👍 - Pro

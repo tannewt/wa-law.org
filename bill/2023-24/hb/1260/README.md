@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Thu 03/09 08:00 AM - Human Services (HS): ESHB 1260 Work-limiting disability
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30906&aId=153001&caId=21930&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30906&aId=153001&caId=21930&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30906&aId=153001&caId=21930&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30906&aId=153001&caId=21930&tId=4)
-
-#### 343 👍 - Pro
+#### 358 👍 - Pro
 Testifying:
 * Dan Wise - Catholic Community Services
 * 💵Alex Hur - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)

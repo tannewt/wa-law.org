@@ -21,7 +21,9 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Michael Finkle - District and Municipal Court Judges Association
 
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SSB 5440 Competency evaluations
 #### 5 👍 - Pro

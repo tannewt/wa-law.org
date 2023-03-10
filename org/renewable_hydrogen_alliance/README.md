@@ -1,6 +1,7 @@
 # Renewable Hydrogen Alliance
 
-## [HB 1236](/bill/2023-24/hb/1236/) - Clean fuel/public transport. 👍1  
+## [HB 1236](/bill/2023-24/hb/1236/) - Clean fuel/public transport. 👍2  
+* 👍 Michelle Detwiler
 * 👍 Michelle Detwiler
 
 ## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍1  

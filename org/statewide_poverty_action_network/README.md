@@ -49,7 +49,8 @@
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍4  
 * 👍💵 Shaun Scott
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍5  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍6  
+* 👍💵 Shaun Scott
 * 👍💵 Shaun Scott
 * 👍💵 Shaun Scott
 

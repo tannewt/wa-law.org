@@ -9,13 +9,9 @@
 
 ## Meetings
 ### Thu 03/09 04:00 PM - Transportation (TR): SSB 5317 RTA vehicle removal
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30896&aId=152823&caId=21873&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30896&aId=152823&caId=21873&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30896&aId=152823&caId=21873&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30896&aId=152823&caId=21873&tId=4)
-
-#### 16 👍 - Pro
+#### 19 👍 - Pro
+Testifying:
+* 💵Alex Soldano - Sound Transit
 
 #### 0 👎 - Con
 

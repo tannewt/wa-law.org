@@ -17,9 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31023&aId=153331&caId=22045&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31023&aId=153331&caId=22045&tId=4)
 
-#### 165 👍 - Pro
+#### 379 👍 - Pro
+Testifying:
+* Evan Riley - RN
+* Meighan Doherty
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 1 ❓ - Other
 

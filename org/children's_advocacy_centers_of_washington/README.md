@@ -27,4 +27,4 @@
 
 ## [SB 5231](/bill/2023-24/sb/5231/) - Emergency DV orders 👍1  
 
-## [SB 5453](/bill/2023-24/sb/5453/) - Female genital mutilation 👍2  
+## [SB 5453](/bill/2023-24/sb/5453/) - Female genital mutilation 👍3  

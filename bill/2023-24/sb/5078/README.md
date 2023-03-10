@@ -15,13 +15,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30949&aId=153391&caId=21973&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30949&aId=153391&caId=21973&tId=4)
 
-#### 0 👍 - Pro
+#### 11 👍 - Pro
 
-#### 3 👎 - Con
+#### 18 👎 - Con
 Testifying:
 * Eric pratt - America
+* Daniel Sklyarov
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/31 04:00 PM - Ways & Means (WM): SB 5078 Firearm industry duties
 #### 658 👍 - Pro

@@ -16,11 +16,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30931&aId=152871&caId=21901&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30931&aId=152871&caId=21901&tId=4)
 
-#### 139 👍 - Pro
+#### 202 👍 - Pro
+Testifying:
+* Stuart Cooper - American Environmental Health Studies Project, Inc.
+* DDS, Elisabeth Warder - CHAS Dental Director
+* Nicole Woodruff - Board Certified Family Nurse Practitioner
+* 💵Priyanka Bushana - Smile Spokane
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/24 10:30 AM - Local Government (LG): HB 1251 Water system notices
 #### 243 👍 - Pro

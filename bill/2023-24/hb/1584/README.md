@@ -16,7 +16,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30920&aId=152962&caId=21920&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30920&aId=152962&caId=21920&tId=4)
 
-#### 336 👍 - Pro
+#### 489 👍 - Pro
 Testifying:
 * Stephanie Barnard - Rep. Stephanie Barnard (8LD, Prime Sponsor)
 * Madison Schroder - Generation Atomic
@@ -25,16 +25,25 @@ Testifying:
 * 💵Seth Worley - UA Plumbers and Steamfitters Local 598
 * Dave Arbaugh - [Energy Northwest](/org/energy_northwest/)
 * Madison Schroder - Generation Atomic
+* Jodi Henderson - Benton PUD
+* 💵Bill Clarke - Grant County PUD
+* Randall Coleman - IBEW
 
-#### 90 👎 - Con
+#### 141 👎 - Con
 Testifying:
 * Cathryn Chudy - Oregon Conservancy Foundation
 * Phil Lusk
 * Roger Lippman - Nuclear Free Northwest
 * Phil Lusk
 * Jim Thomas
+* Laura Feldman
+* 💵Suellen Mele
+* Frann Michel
+* Laura Feldman
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Glenn Blackmon - Department of Commerce
 
 ### Tue 02/07 04:00 PM - Environment & Energy (ENVI): HB 1584 Nuclear reactor technology
 #### 94 👍 - Pro

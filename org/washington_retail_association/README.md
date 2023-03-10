@@ -5,7 +5,9 @@
 
 ## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍1  
 
-## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals   ❓1
+## [HB 1017](/bill/2023-24/hb/1017/) - Cosmetologists, etc/licenses 👍1  
+
+## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals  👎1 ❓1
 
 ## [HB 1072](/bill/2023-24/hb/1072/) - Motor vehicle length 👍1  
 * 👍💵 Mark Johnson
@@ -25,7 +27,8 @@
 ## [HB 1152](/bill/2023-24/hb/1152/) - Consumer products/gender   ❓1
 * ❓ ROSE GUNDERSEN
 
-## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data   ❓1
+## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data   ❓2
+* ❓💵 Mark Johnson
 * ❓💵 Mark Johnson
 
 ## [HB 1184](/bill/2023-24/hb/1184/) - Used vehicle warranties   ❓1
@@ -73,13 +76,17 @@
 * 👍💵 Mark Johnson
 * ❓💵 Mark Johnson
 
-## [HB 1638](/bill/2023-24/hb/1638/) - State trooper recruitment 👍1  
+## [HB 1638](/bill/2023-24/hb/1638/) - State trooper recruitment 👍2  
+* 👍💵 Mark Johnson
 * 👍💵 Mark Johnson
 
 ## [HB 1644](/bill/2023-24/hb/1644/) - Margin tax  👎1 
 * 👎💵 Mark Johnson
 
 ## [HB 1661](/bill/2023-24/hb/1661/) - Mobile crisis intervention 👍1  
+* 👍💵 Mark Johnson
+
+## [HB 1742](/bill/2023-24/hb/1742/) - Nontax statutes/DOR 👍1  
 * 👍💵 Mark Johnson
 
 ## [HB 1761](/bill/2023-24/hb/1761/) - Property tax exemption 👍1  
@@ -114,10 +121,12 @@
 
 ## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍1  
 
-## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍1  
+## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍2  
+* 👍💵 Mark Johnson
 * 👍💵 Mark Johnson
 
-## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1  ❓1
+## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1  ❓2
+* ❓💵 Mark Johnson
 * ❓💵 Mark Johnson
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management   ❓1
@@ -129,13 +138,21 @@
 ## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍1  
 * 👍💵 Mark Johnson
 
+## [SB 5192](/bill/2023-24/sb/5192/) - Derelict vessel appeals 👍1  
+
 ## [SB 5219](/bill/2023-24/sb/5219/) - Counseling compact 👍1  
 * 👍💵 Mark Johnson
 
 ## [SB 5251](/bill/2023-24/sb/5251/) - Commercial driver's licenses 👍1  
 
+## [SB 5259](/bill/2023-24/sb/5259/) - Product theft 👍1  
+
 ## [SB 5263](/bill/2023-24/sb/5263/) - Psilocybin 👍2  
 * 👍💵 Mark Johnson
+
+## [SB 5282](/bill/2023-24/sb/5282/) - Vehicle reports of sale 👍1  
+
+## [SB 5284](/bill/2023-24/sb/5284/) - Campaign finance disclosure  👎1 
 
 ## [SB 5360](/bill/2023-24/sb/5360/) - Vehicle combinations 👍1  
 * 👍💵 Mark Johnson
@@ -157,7 +174,10 @@
 ## [SB 5482](/bill/2023-24/sb/5482/) - Margin tax   ❓1
 * ❓💵 Mark Johnson
 
-## [SB 5502](/bill/2023-24/sb/5502/) - Sub. use disorder treatment 👍1  
+## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax  👎1 
+
+## [SB 5502](/bill/2023-24/sb/5502/) - Sub. use disorder treatment 👍2  
+* 👍💵 Mark Johnson
 * 👍💵 Mark Johnson
 
 ## [SB 5524](/bill/2023-24/sb/5524/) - Industrial insurance/duties  👎1 
@@ -180,3 +200,8 @@
 
 ## [SB 5610](/bill/2023-24/sb/5610/) - Used vehicle warranties   ❓1
 * ❓💵 Mark Johnson
+
+## [SB 5733](/bill/2023-24/sb/5733/) - Payment card processing/tax 👍1  
+
+## [SB 5740](/bill/2023-24/sb/5740/) - Catalytic converter theft 👍1  
+* 👍💵 Mark Johnson

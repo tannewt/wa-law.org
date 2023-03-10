@@ -9,19 +9,14 @@
 
 ## Meetings
 ### Thu 03/09 01:30 PM - Early Learning & K-12 Education (EDU): SHB 1113 Prof. educator reprimands
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30919&aId=152948&caId=21909&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30919&aId=152948&caId=21909&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30919&aId=152948&caId=21909&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30919&aId=152948&caId=21909&tId=4)
-
-#### 10 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
+* Robert Shadle
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/17 04:00 PM - Education (ED): HB 1113 Prof. educator reprimands
 #### 3 👍 - Pro

@@ -18,7 +18,8 @@
 ## [SB 5003](/bill/2023-24/sb/5003/) - Snohomish county judges 👍1  
 * 👍 Haily Perkins
 
-## [SB 5128](/bill/2023-24/sb/5128/) - Jury diversity 👍1  
+## [SB 5128](/bill/2023-24/sb/5128/) - Jury diversity 👍2  
+* 👍 Brittany Gregory
 * 👍 Brittany Gregory
 
 ## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍1  

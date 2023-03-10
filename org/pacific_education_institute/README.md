@@ -4,9 +4,9 @@
 
 ## [HB 1231](/bill/2023-24/hb/1231/) - Site readiness grants 👍1  
 
-## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options 👍1  
+## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options 👍2  
 
-## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍2  
+## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍3  
 
 ## [HB 1332](/bill/2023-24/hb/1332/) - Tribes/K-12 instruction 👍1  
 

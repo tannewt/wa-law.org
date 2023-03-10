@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Thu 03/09 10:30 AM - Health & Long Term Care (HLTC): ESHB 1073 Medical assistants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30930&aId=152867&caId=21882&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30930&aId=152867&caId=21882&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30930&aId=152867&caId=21882&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30930&aId=152867&caId=21882&tId=4)
-
-#### 15 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * 💵Scott Sigmon - ZoomCare
 * Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
@@ -25,6 +19,8 @@ Testifying:
 * 💵Intisar Surur - [Quest Diagnostics](/org/quest_diagnostics/)
 * 💵Sean Graham - Washington State Medical Association
 * Roman Daniels-Brown - DaVita
+* Jennifer Hawkins - Vitalant Blood Center
+* 💵Jessica Hostetler - [Northwest Kidney Centers](/org/northwest_kidney_centers/)
 
 #### 4 👎 - Con
 Testifying:
@@ -32,7 +28,9 @@ Testifying:
 * Prathyusha Balluru
 * Donald Balasa - American Association of Medical Assistants (AAMA)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Shawna Fox - Washington State Department of Health
 
 ### Fri 01/20 08:00 AM - Health Care & Wellness (HCW): HB 1073 Medical assistants
 #### 6 👍 - Pro

@@ -14,10 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30904&aId=153096&caId=21959&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30904&aId=153096&caId=21959&tId=4)
 
-#### 14 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * Yokiko Hayashi-Saguil - SBCTC
 * Jacob Vigdor - University of Washington Faculty/ Council of Faculty
+* Heather Hudson - Washington Student Achievement Council
+* Nathan Peters - Saint Martin’s University
+* Mariela Delgadillo - Heritage University
+* Jacob Katz - SBCTC
+* Shannon Cosgrove - State Board of Community and Technical Colleges
 
 #### 0 👎 - Con
 

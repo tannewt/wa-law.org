@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 03/09 04:00 PM - Ways & Means (WM): SB 5733 Payment card processing/tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152864&caId=21897&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152864&caId=21897&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152864&caId=21897&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30895&aId=152864&caId=21897&tId=4)
-
-#### 6 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Kim Ford - Fiserv
 * Samantha Weigand - Vashon Island Baking Company
@@ -22,7 +16,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Dean Carlson - Department of Revenue
 * Kathy Oline - Department of Revenue

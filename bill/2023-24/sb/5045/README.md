@@ -19,17 +19,13 @@ Sign up to testify:
 
 #### 3 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* C Davis
 
 #### 0 ❓ - Other
 
 ### Thu 03/09 08:00 AM - Housing (HOUS): E2SSB 5045 ADU rental/property tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30929&aId=152933&caId=21857&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30929&aId=152933&caId=21857&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30929&aId=152933&caId=21857&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30929&aId=152933&caId=21857&tId=4)
-
 #### 24 👍 - Pro
 Testifying:
 * 💵Michael Moran - Office of Assessments/King County Assessor John Wilson

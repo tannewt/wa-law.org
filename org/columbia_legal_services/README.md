@@ -7,6 +7,9 @@
 
 ## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍2  
 
+## [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims 👍1  
+* 👍💵 Sarah Nagy
+
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
 ## [HB 1108](/bill/2023-24/hb/1108/) - Persistent offenders 👍1  
@@ -100,7 +103,7 @@
 
 ## [SB 5197](/bill/2023-24/sb/5197/) - Eviction processes 👍1  
 
-## [SB 5198](/bill/2023-24/sb/5198/) - Mobile home community sales 👍2  
+## [SB 5198](/bill/2023-24/sb/5198/) - Mobile home community sales 👍3  
 
 ## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I 👍1  
 

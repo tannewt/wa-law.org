@@ -16,13 +16,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152832&caId=21867&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152832&caId=21867&tId=4)
 
-#### 2 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Steve Hobbs - Secretary of State
+* Larry Seaquist
+* 💵Matt Steuerwalt - Adobe
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Eric pratt - America
+* Joshua Hardwick
 
 #### 1 ❓ - Other
 Testifying:
