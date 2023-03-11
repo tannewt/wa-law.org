@@ -7,6 +7,11 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Criminal Justice — Quaker Voice](https://www.quakervoicewa.org/criminal-justice/#:~:text=HB 1268)
+* [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Priority Bills -- current status — Quaker Voice](https://www.quakervoicewa.org/priority-bills-current-status/#:~:text=1268)
+* [MyNorthwest](/org/mynorthwest/) - [Rantz: Democrat bill goes easy on school shooters, campus drug deals - MyNorthwest.com](https://mynorthwest.com/3854363/rantz-democrat-bill-easy-school-shooters-campus-drug-deals/#:~:text=HB 1268)
+
 ## Meetings
 ### Mon 01/23 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1268 Sentencing enhancements
 #### 103 👍 - Pro

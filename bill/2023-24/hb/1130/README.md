@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [MyNorthwest](/org/mynorthwest/) - [Significant gun legislation advances through WA Senate in tight vote - MyNorthwest.com](https://mynorthwest.com/3850532/gun-legislation-senate-28-21-vote/#:~:text=HB 1130)
+
 ## Meetings

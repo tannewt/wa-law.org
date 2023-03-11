@@ -20,8 +20,8 @@
 * 👍 Matt Groshong
 
 ## [SB 5294](/bill/2023-24/sb/5294/) - Retirement system funding   ❓2
-* ❓ Laurie Weidner
-* ❓ Emmett Mills
+* ❓💵 Laurie Weidner
+* ❓💵 Emmett Mills
 
 ## [SB 5296](/bill/2023-24/sb/5296/) - Military service credit 👍1  
 

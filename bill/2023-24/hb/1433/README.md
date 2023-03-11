@@ -8,6 +8,10 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## Articles
+* [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Environmental Stewardship Priorities — Quaker Voice](https://www.quakervoicewa.org/environmental-stewardship-priorities/#:~:text=HB 1433)
+* [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Environmental Stewardship — Quaker Voice](https://www.quakervoicewa.org/environmental-stewardship/#:~:text=HB 1433)
+
 ## Meetings
 ### Mon 02/13 04:00 PM - Appropriations (APP): SHB 1433 Energy labeling/residential
 #### 317 👍 - Pro

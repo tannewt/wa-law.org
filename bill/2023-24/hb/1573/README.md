@@ -13,7 +13,7 @@ Testifying:
 * Craig Smith - [Food Northwest](/org/food_northwest/)
 * Beau Hickman - Figgins Family Wine Estates
 * Ryan Pennington - Ste Michelle Wine Estates
-* Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵David Ward - [Darigold](/org/darigold/)
 * Jeremy Visser - [Darigold](/org/darigold/)
 

@@ -7,6 +7,11 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=HB 1177)
+* [The Seattle Times](/org/the_seattle_times/) - [WA should fund unit to investigate missing Indigenous people | The Seattle Times](https://www.seattletimes.com/opinion/editorials/wa-should-fund-unit-to-investigate-missing-indigenous-people/#:~:text=House Bill 1177)
+* [The Seattle Times](/org/the_seattle_times/) - [WA legislators work further on issue of missing and murdered Indigenous women | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/bills-to-create-solutions-to-missing-and-murdered-indigenous-women/#:~:text=House Bill 1177)
+
 ## Meetings
 ### Mon 02/06 04:00 PM - Appropriations (APP): SHB 1177 Indigenous women
 #### 187 👍 - Pro

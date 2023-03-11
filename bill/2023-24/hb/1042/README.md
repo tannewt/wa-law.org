@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## Articles
+* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB 1042)
+
 ## Meetings
 ### Fri 02/17 10:30 AM - Housing (HSG): ESHB 1042 Use of existing buildings
 #### 23 👍 - Pro

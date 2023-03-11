@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Department of Natural Resources](/org/department_of_natural_resources/) - [Legislative Priorities | WA - DNR](https://www.dnr.wa.gov/about/legislative#:~:text=HB 1297)
+
 ## Meetings
 ### Thu 02/09 04:00 PM - Appropriations (APP): HB 1297 Geoduck task force
 #### 1 👍 - Pro

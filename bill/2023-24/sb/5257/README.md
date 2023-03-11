@@ -8,6 +8,15 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Recess is a critical part of a child’s education | The Seattle Times](https://www.seattletimes.com/opinion/recess-is-a-critical-part-of-a-childs-education/#:~:text=Senate Bill 5257)
+* [Washington St Pta](/org/washington_st_pta/) - [Many Bills End Their Journey in 2023 with Fiscal Cutoff - WSPTA](https://www.wastatepta.org/many-bills-end-their-journey-in-2023-with-fiscal-cutoff/#:~:text=SSB 5257)
+* [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=SB 5257)
+* [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=SB 5257)
+* [The Spokesman-Review](/org/the_spokesman-review/) - [Washington may require 30-minute recess at all schools | The Spokesman-Review](https://www.spokesman.com/stories/2023/feb/22/washington-may-require-30-minute-recess-at-all-sch/#:~:text=Senate Bill 5257)
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SSB 5257)
+* [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=ESSB 5257)
+
 ## Meetings
 ### Wed 03/01 08:00 AM - Education (ED): SSB 5257 Elementary school recess
 #### 275 👍 - Pro
@@ -36,7 +45,7 @@ Testifying:
 * William Massey
 * Shelly Burt - Parent
 * Natalie Maxfield - Elementary student
-* Randy Spaulding - Washington State Board of Education
+* Randy Spaulding - [Washington State Board of Education](/org/washington_state_board_of_education/)
 * Julie McCleery - King County Play Equity Coalition
 * Linnea Westerlind - Parent/PTA Advocate
 * Maiya Burton Cahn - Elementary School Student

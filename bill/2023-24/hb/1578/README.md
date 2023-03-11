@@ -8,6 +8,11 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## Articles
+* [Department of Natural Resources](/org/department_of_natural_resources/) - [Legislative Priorities | WA - DNR](https://www.dnr.wa.gov/about/legislative#:~:text=HB 1578)
+* [Department of Natural Resources](/org/department_of_natural_resources/) - [‘Cascading Impacts of Wildfire’ Bill Introduced to Address Smoke and Wildfire Risk Statewide | WA - DNR](https://www.dnr.wa.gov/news/%E2%80%98cascading-impacts-wildfire%E2%80%99-bill-introduced-address-smoke-and-wildfire-risk-statewide#:~:text=House Bill 1578)
+* [Department of Natural Resources](/org/department_of_natural_resources/) - [‘Cascading Impacts of Wildfire’ Bill Passes House with Unanimous Vote, Heads to Senate | WA - DNR](https://www.dnr.wa.gov/news/%E2%80%98cascading-impacts-wildfire%E2%80%99-bill-passes-house-unanimous-vote-heads-senate#:~:text=House Bill 1578)
+
 ## Meetings
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1578 Wildland fire safety
 #### 93 👍 - Pro

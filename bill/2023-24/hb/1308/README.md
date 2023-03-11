@@ -6,6 +6,13 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=HB 1308)
+* [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=HB 1308)
+* [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! February 6, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-february-6-2023/#:~:text=HB 1308)
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB 1308)
+* [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=HB 1308)
+
 ## Meetings
 ### Mon 03/13 01:30 PM - Early Learning & K-12 Education (EDU): HB 1308 Graduation pathway options
 Sign up to testify:
@@ -19,7 +26,7 @@ Testifying:
 * Isaac Emerson - Student for Washington State PTA
 * Michelle Nims - Washington State PTA
 * Logan Endres - Washington State School Directors' Association (WSSDA)
-* Randy Spaulding - Washington State Board of Education
+* Randy Spaulding - [Washington State Board of Education](/org/washington_state_board_of_education/)
 * 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
 
 #### 0 👎 - Con
@@ -34,7 +41,7 @@ Testifying:
 ### Mon 02/06 01:30 PM - Education (ED): HB 1308 Graduation pathway options
 #### 394 👍 - Pro
 Testifying:
-* Randy Spaulding - Washington State Board of Education
+* Randy Spaulding - [Washington State Board of Education](/org/washington_state_board_of_education/)
 * Michelle Nims - Washington State PTA
 * 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Amy Brackenbury - [Washington School Counselor Association](/org/washington_school_counselor_association/)

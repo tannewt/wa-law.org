@@ -12,7 +12,7 @@
 #### 6 👍 - Pro
 Testifying:
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
-* Justin Stiefel - Heritage Distilling Company
+* Justin Stiefel - [Heritage Distilling Company](/org/heritage_distilling_company/)
 
 #### 1 👎 - Con
 

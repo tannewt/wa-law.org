@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers want to beef up state aid for college students | The Seattle Times](https://www.seattletimes.com/seattle-news/education/wa-lawmakers-want-to-beef-up-state-aid-for-college-students/#:~:text=House Bill 1156)
+
 ## Meetings
 ### Mon 01/30 04:00 PM - Appropriations (APP): HB 1156 College grant eligibility
 #### 24 👍 - Pro

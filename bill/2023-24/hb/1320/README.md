@@ -47,7 +47,7 @@ Testifying:
 
 #### 3 ❓ - Other
 Testifying:
-* Remy Kerr - Washington State Hospital Association
+* 💵Remy Kerr - Washington State Hospital Association
 * 💵Candice Bock - Association of Washington cities
 
 ### Tue 02/14 10:30 AM - Labor & Workplace Standards (LAWS): HB 1320 Personnel records
@@ -68,5 +68,5 @@ Testifying:
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Tammy Fellin - Labor & Industries
-* Remy Kerr - Washington State Hospital Association
+* 💵Remy Kerr - Washington State Hospital Association
 * ROSE GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)

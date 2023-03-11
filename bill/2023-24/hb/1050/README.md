@@ -8,6 +8,10 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=HB 1050)
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=HB 1050)
+
 ## Meetings
 ### Mon 03/13 10:30 AM - Labor & Commerce (LC): ESHB 1050 Apprenticeship utilization
 Sign up to testify:
@@ -30,7 +34,7 @@ Testifying:
 Testifying:
 * Luis Licea - Northwest Laborers Employers Training Trust
 * Lorne Bulling - Ironworkers Local 29
-* Nicole Grant - IBEW 46
+* 💵Nicole Grant - IBEW 46
 * Chris Ellis - Bricklayers & Allied Craftworkers L 1
 * 💵Erin Frasier - Washington State Building & Construction Trades Council
 * Joe Kendo - [Washington State Labor Council](/org/washington_state_labor_council/)

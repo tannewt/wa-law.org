@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## Articles
+* [The Spokesman-Review](/org/the_spokesman-review/) - [Bill creating magic mushrooms regulation task forces passes the state Senate | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/09/bill-creating-magic-mushrooms-regulation-task-forc/#:~:text=Senate Bill 5263)
+
 ## Meetings
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SSB 5263 Psilocybin
 #### 35 👍 - Pro

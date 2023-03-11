@@ -14,7 +14,7 @@ Testifying:
 * 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Paul Berendt - Jefferson County
 * Laura Osiadacz - Kittitas County Commissioner
-* 💵Blake Baldwin - Chelan Douglas Regional Port Authority
+* 💵Blake Baldwin - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
 * Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
 #### 0 👎 - Con
@@ -28,7 +28,7 @@ Testifying:
 * Kate Dean - Jefferson County
 * Lisa Janicki - [Skagit County](/org/skagit_county/)
 * Jerome Delvin - Benton County
-* 💵Blake Baldwin - Chelan Douglas Regional Port Authority
+* 💵Blake Baldwin - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
 * Dan Worra - [Port of Anacortes](/org/port_of_anacortes/)
 * Sasha Sleiman - Chelan County Board of Commissioners
 * Kate Dean - Jefferson County Commission

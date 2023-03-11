@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SSB 5006)
+
 ## Meetings
 ### Tue 03/14 10:30 AM - Civil Rights & Judiciary (CRJ): SSB 5006 Waiver of firearm rights
 Sign up to testify:

@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [The Spokesman-Review](/org/the_spokesman-review/) - [State Senate passes safe staffing standard, in compromise between hospitals, unions | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/08/state-senate-passes-safe-staffing-standard-in-comp/#:~:text=Senate Bill 5547)
+
 ## Meetings
 ### Fri 02/10 08:00 AM - Health & Long Term Care (HLTC): SB 5547 Nursing pool transparency
 #### 25 👍 - Pro

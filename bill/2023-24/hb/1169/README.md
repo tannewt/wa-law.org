@@ -31,7 +31,7 @@ Testifying:
 * David Keenan - Minority and Justice Commission
 * Karen Peacey
 * 💵Brooke Davies - [Justice Action Network](/org/justice_action_network/)
-* Kelly Olson - [Civil Survival Project](/org/civil_survival_project/)
+* 💵Kelly Olson - [Civil Survival Project](/org/civil_survival_project/)
 * Antonio Wheat
 * Anita Khandelwal - King County Department of Public Defense
 * Liz Trautman - Stand for Children Washington/Debt Free Youth Justice coalition

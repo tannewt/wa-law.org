@@ -22,4 +22,4 @@ Testifying:
 #### 3 ❓ - Other
 Testifying:
 * 💵Alan Burke - WSSRA
-* Laurie Weidner - Retired Public Employees Council of Washington (RPEC)
+* 💵Laurie Weidner - Retired Public Employees Council of Washington (RPEC)

@@ -7,12 +7,15 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SB 5499)
+
 ## Meetings
 ### Fri 02/10 08:00 AM - Health & Long Term Care (HLTC): SB 5499 Multistate nurse licensure
 #### 195 👍 - Pro
 Testifying:
 * Tom Davis - Veterans Legislative Coalition (VLC)
-* Onora Lien - Northwest Healthcare Response Network
+* Onora Lien - [Northwest Healthcare Response Network](/org/northwest_healthcare_response_network/)
 * Jennifer Burkhardt - Summit Pacific Medical Center
 * RN, Jennifer Graham - MultiCare Health System
 * RN, Jennifer Graham - MultiCare Health System

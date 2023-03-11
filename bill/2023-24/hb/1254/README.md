@@ -18,6 +18,6 @@ Testifying:
 Testifying:
 * 💵Greg Hanon - Western States Petroleum Assoc.
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
-* Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 0 ❓ - Other

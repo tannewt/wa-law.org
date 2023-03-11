@@ -7,6 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=HB 1386)
+* [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=HB 1386)
+
 ## Meetings
 ### Tue 01/31 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1386 Youth development grants
 #### 117 👍 - Pro

@@ -20,7 +20,7 @@ Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Tara Ryan - Entertainment Software Association (ESA)
 * 💵Mark Harmsworth - Washington Policy Center
-* Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
 * Karen McIntosh
 * Jeff Gombosky - CTIA
 * 💵Kelly Fukai - [Washington Technology Industry Association](/org/washington_technology_industry_association/)

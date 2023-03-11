@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [MyNorthwest](/org/mynorthwest/) - [WA Rep. hopes to eradicate sex offender housing in Enumclaw - MyNorthwest.com](https://mynorthwest.com/3850396/reps-eradicate-sex-offender-housing-enumclaw-tenino/#:~:text=Senate Bill 5163,)
+* [MyNorthwest](/org/mynorthwest/) - [Sex offender housing: How recent WA laws have changed the process - MyNorthwest.com](https://mynorthwest.com/3839940/sex-offender-housing-recent-state-laws-changed-process/#:~:text=Senate Bill 5163)
+
 ## Meetings
 ### Wed 03/08 08:00 AM - Civil Rights & Judiciary (CRJ): SB 5163 Medicaid fraud false claims
 #### 3 👍 - Pro

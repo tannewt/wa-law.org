@@ -7,12 +7,16 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Sightline Institute](/org/sightline_institute/) - [Hey, Olympia! If You Let Them, Cities Could Double Turnout in Local Elections - Sightline Institute](https://www.sightline.org/2023/02/08/hey-olympia-if-you-let-them-cities-could-double-turnout-in-local-elections/#:~:text=Senate Bill 5723)
+* [Sightline Institute](/org/sightline_institute/) - [Voters Want Fewer Elections: Here’s How to Do That - Sightline Institute](https://www.sightline.org/2023/01/31/voters-want-fewer-elections-heres-how-to-do-that/#:~:text=SB 5723)
+
 ## Meetings
 ### Fri 02/10 08:00 AM - State Government & Elections (SGE): SB 5723 Even-numbered year elections
 #### 127 👍 - Pro
 Testifying:
 * 💵Anna Fahey - [Sightline Institute](/org/sightline_institute/)
-* Kathy Sakahara - Northwest Progressive Institute
+* Kathy Sakahara - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * Zoltan Hajnal
 * Chris Roberts - Councilmember, City of Shoreline
 * Kenia Peregrino - Washington for Equitable Representation

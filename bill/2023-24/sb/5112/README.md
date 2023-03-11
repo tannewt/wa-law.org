@@ -9,6 +9,9 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Reach out to voters before reworking their ballots | The Seattle Times](https://www.seattletimes.com/opinion/reach-out-to-voters-before-reworking-their-ballots/#:~:text=Senate Bill 5112)
+
 ## Meetings
 ### Fri 03/10 08:00 AM - State Government & Tribal Relations (SGOV): E2SSB 5112 Voter registration
 #### 353 👍 - Pro

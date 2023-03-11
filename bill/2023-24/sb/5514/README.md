@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [The Spokesman-Review](/org/the_spokesman-review/) - [Washington may add automated cameras on highways to catch speeders in construction zones | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/01/washington-may-add-automated-cameras-on-highways-t/#:~:text=House Bill 1582/Senate Bill 5514)
+
 ## Meetings
 ### Tue 01/31 04:00 PM - Transportation (TRAN): SB 5514 Right turns
 #### 485 👍 - Pro

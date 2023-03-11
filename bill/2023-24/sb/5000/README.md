@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [The Spokesman-Review](/org/the_spokesman-review/) - [Bill to honor 'Americans of Chinese Descent' in January passes through Washington Senate | The Spokesman-Review](https://www.spokesman.com/stories/2023/feb/01/bill-to-honor-americans-of-chinese-descent-in-janu/#:~:text=Senate Bill 5000)
+
 ## Meetings
 ### Tue 01/10 01:30 PM - State Government & Elections (SGE): SB 5000 Americans of Chinese descent
 #### 0 👍 - Pro

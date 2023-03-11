@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## Articles
+* [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/research/2023-legislative-agenda/#:~:text=5225)
+
 ## Meetings
 ### Tue 03/14 01:30 PM - Human Services, Youth, & Early Learning (HSEL): 2SSB 5225 Working conn. child care
 Sign up to testify:
@@ -54,7 +57,7 @@ Testifying:
 * Jessica Tollenaar Cafferty - [King County](/org/king_county/)
 * Delora Morgan Chelsea
 * Reshonna Reynolds - MomsRising
-* Jessica Smith - WSA, WSUV
+* 💵Jessica Smith - WSA, WSUV
 * 💵Eli Goss - OneAmerica
 * Nancy Cruz - Community For Our College
 * xochilt lopez - Community For Our College

@@ -20,7 +20,7 @@ Testifying:
 * Sue Rahr
 * Maureen ("Mo") McGough - The Policing Project at NYU Law/The 30x30 Initiative to Advance Women in Policing
 * Carol Cummings
-* Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 0 👎 - Con
 

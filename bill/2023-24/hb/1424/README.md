@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [New WA law would shut the door on puppy-mill suffering | The Seattle Times](https://www.seattletimes.com/opinion/editorials/new-wa-law-would-shut-the-door-on-puppy-mill-suffering/#:~:text=House Bill 1424)
+
 ## Meetings
 ### Fri 01/27 08:00 AM - Consumer Protection & Business (CPB): HB 1424 Dogs and cats/consumers
 #### 740 👍 - Pro

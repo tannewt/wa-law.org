@@ -15,9 +15,9 @@ Testifying:
 * 💵Karen Pillar - Team Child
 * Katherine Hurley - Special Counsel for Criminal Practice and Policy King County Department of Public Defense
 * Roxanna Gomez - ACLU WA
-* Danni Jo Bechtold - The Mockingbird Society
+* Danni Jo Bechtold - [The Mockingbird Society](/org/the_mockingbird_society/)
 * Xaxira Velasco Ponce de León - [Columbia Legal Services](/org/columbia_legal_services/)
-* Sabian Hart - The Mockingbird Society
+* Sabian Hart - [The Mockingbird Society](/org/the_mockingbird_society/)
 
 #### 25 👎 - Con
 Testifying:

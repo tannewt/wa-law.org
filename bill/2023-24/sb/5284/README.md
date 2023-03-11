@@ -14,7 +14,7 @@
 Testifying:
 * 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
 * Cindy Madigan
-* Kathy Sakahara - Northwest Progressive Institute
+* Kathy Sakahara - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * Sean Flynn - Public Disclosure Commission
 * 💵Eli Goss - OneAmerica
 

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SB 5442)
+
 ## Meetings
 ### Thu 02/09 01:30 PM - Early Learning & K-12 Education (EDU): SB 5442 Charter schools/enrichment
 #### 595 👍 - Pro

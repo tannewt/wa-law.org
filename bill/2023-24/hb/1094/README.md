@@ -7,6 +7,13 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [WA proposals to address wealth gap die in Legislature | The Seattle Times](https://www.seattletimes.com/seattle-news/wa-proposals-to-address-wealth-gap-die-in-legislature/#:~:text=House Bill 1094)
+* [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2023 Economic Justice Priorities — Quaker Voice](https://www.quakervoicewa.org/additional-2020-economic-justice-priorities/#:~:text=HB 1094/)
+* [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB 1094)
+* [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=HB 1094)
+* [Statewide Poverty Action Network](/org/statewide_poverty_action_network/) - [Bill Tracker – Statewide Poverty Action Network](https://povertyaction.org/bill-tracker/#:~:text=HB 1094)
+
 ## Meetings
 ### Wed 01/18 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1094 Future fund program
 #### 386 👍 - Pro

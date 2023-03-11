@@ -6,6 +6,11 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=SB 5241)
+* [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/research/2023-legislative-agenda/#:~:text=SB 5241)
+* [The Seattle Times](/org/the_seattle_times/) - [Catholic health care restrictions lead WA Legislature to eye changes | The Seattle Times](https://www.seattletimes.com/seattle-news/health/religious-health-care-restrictions-prompt-call-for-wa-merger-oversight/#:~:text=Senate Bill 5241)
+
 ## Meetings
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SB 5241 Health care marketplace
 #### 435 👍 - Pro
@@ -13,7 +18,7 @@ Testifying:
 * Joelle Craft
 * Haylee Anderson - WA State Attorney General's Office
 * M. Lorena Gonzalez - ACLU of Washington
-* Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
+* 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
 * Anya Fogel
 * Dr. Kjersten Gmeiner
 * Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)

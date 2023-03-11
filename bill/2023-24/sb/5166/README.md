@@ -23,7 +23,7 @@ Sign up to testify:
 ### Mon 02/06 04:00 PM - Ways & Means (WM): SB 5166 Cooperative finance org. B&O
 #### 4 👍 - Pro
 Testifying:
-* Paul Griffin - Washington Rural Electric Cooperative Association
+* 💵Paul Griffin - Washington Rural Electric Cooperative Association
 
 #### 0 👎 - Con
 
@@ -32,7 +32,7 @@ Testifying:
 ### Fri 01/20 08:00 AM - Environment, Energy & Technology (ENET): SB 5166 Cooperative finance org. B&O
 #### 5 👍 - Pro
 Testifying:
-* Paul Griffin - Washington Rural Electric Cooperative Association
+* 💵Paul Griffin - Washington Rural Electric Cooperative Association
 * 💵Troy Berglund - [Benton Rural Electric Association](/org/benton_rural_electric_association/)
 
 #### 0 👎 - Con

@@ -12,7 +12,7 @@
 Testifying:
 * Madeline Sprute - Associated Students Tacoma Community College
 * Sara Goldrick-Rab
-* Sopeara Chay - South Puget Sound Community College
+* 💵Sopeara Chay - South Puget Sound Community College
 
 #### 8 👎 - Con
 

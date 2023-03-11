@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=HB 1777)
+
 ## Meetings
 ### Tue 03/14 01:30 PM - Environment, Energy & Technology (ENET): HB 1777 Energy contracting
 Sign up to testify:
@@ -17,7 +20,7 @@ Sign up to testify:
 #### 75 👍 - Pro
 Testifying:
 * Ash Awad - McKinstry
-* Lincoln Ferris - Seattle Colleges
+* Lincoln Ferris - [Seattle Colleges](/org/seattle_colleges/)
 
 #### 1 👎 - Con
 Testifying:
@@ -41,7 +44,7 @@ Testifying:
 #### 191 👍 - Pro
 Testifying:
 * Ash Awad - McKinstry
-* Brian Solan - Ameresco, Inc.
+* Brian Solan - [Ameresco, Inc.](/org/ameresco,_inc./)
 * Lincoln Ferris - Seattle Central College
 * Bonnie Hemphill - UMC, Inc
 * Councilmember Lisa Parshley - Olympia City Council

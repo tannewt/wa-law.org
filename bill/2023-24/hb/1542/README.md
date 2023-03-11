@@ -25,8 +25,8 @@ Sign up to testify:
 Testifying:
 * 💵Cassie Bordelon - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 * 💵Christine Brewer - The Avista Corporation
-* Nicole Grant - IBEW 46
-* Nicole Grant - IBEW 46
+* 💵Nicole Grant - IBEW 46
+* 💵Nicole Grant - IBEW 46
 * 💵Christine Reid - IBEW LU 77
 * Mike McDougal - IBEW LU 77
 * Reese Hinkle - Member of IBEW LU 77

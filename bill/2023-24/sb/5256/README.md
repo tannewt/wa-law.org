@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=SB 5256)
+
 ## Meetings
 ### Tue 03/14 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SSB 5256 Child welfare housing
 Sign up to testify:

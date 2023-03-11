@@ -28,7 +28,7 @@ Testifying:
 * Avianah McKenna - [Mockingbird Society](/org/mockingbird_society/)
 * Erin Shea McCann - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * 💵Karen Pillar - TeamChild
-* 💵Samuel Martin - The Mockingbird Society
+* 💵Samuel Martin - [The Mockingbird Society](/org/the_mockingbird_society/)
 
 #### 0 👎 - Con
 
@@ -37,10 +37,10 @@ Testifying:
 ### Wed 01/25 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1406 Youth seeking housing assist
 #### 86 👍 - Pro
 Testifying:
-* 💵Samuel Martin - The Mockingbird Society
+* 💵Samuel Martin - [The Mockingbird Society](/org/the_mockingbird_society/)
 * Avianah McKenna - Chapter member of The Mockingbird Society
 * Angela Engels - [Cocoon House](/org/cocoon_house/)
-* Avianah McKenna - The Mockingbird Society
+* Avianah McKenna - [The Mockingbird Society](/org/the_mockingbird_society/)
 * Elizabeth Dawson - TeamChild
 * Jessica Friendmann - YouthCare
 * 💵Karen Pillar - TeamChild

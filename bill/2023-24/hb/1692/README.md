@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=HB 1692)
+
 ## Meetings
 ### Wed 02/08 01:30 PM - State Government & Tribal Relations (SGOV): HB 1692 Student advisory groups
 #### 25 👍 - Pro

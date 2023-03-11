@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Boot confusing advisory votes from WA ballots | The Seattle Times](https://www.seattletimes.com/opinion/editorials/boot-confusing-advisory-votes-from-wa-ballots/#:~:text=House Bill 1158)
+
 ## Meetings
 ### Wed 01/11 01:30 PM - State Government & Tribal Relations (SGOV): HB 1158 Advisory votes
 #### 0 👍 - Pro

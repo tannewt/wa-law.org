@@ -21,7 +21,7 @@ Testifying:
 * Shawnee Stillwell - The Justice for Girls Coalition
 * Sunshine Timmons - The Justice for Girls Coalition
 * Alexes Harris
-* Kelly Olson - Civil Survival
+* 💵Kelly Olson - [Civil Survival](/org/civil_survival/)
 * Nick Jeffreys - Urban League of Metropolitan Seattle
 * Arthur Longworth
 * Arthur Longworth - [Treehouse](/org/treehouse/)

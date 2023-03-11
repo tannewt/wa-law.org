@@ -9,6 +9,13 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 
+## Articles
+* [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Priority Bills -- current status — Quaker Voice](https://www.quakervoicewa.org/priority-bills-current-status/#:~:text=1392)
+* [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=HB 1392)
+* [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Environmental Stewardship — Quaker Voice](https://www.quakervoicewa.org/environmental-stewardship/#:~:text=HB1392)
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB 1392)
+* [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=HB 1392)
+
 ## Meetings
 ### Mon 02/20 01:30 PM - Appropriations (APP): SHB 1392 Electronics repair
 #### 169 👍 - Pro
@@ -34,7 +41,7 @@ Testifying:
 Testifying:
 * 💵Travis Dutton - Washington State Association of Counties and Washington Association of County Solid Waste Managers
 * PATRICIA BOIKO - Patricia Boiko
-* Andrew Villeneuve - Northwest Progressive Institute
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * Representative Joel Kretz
 * Mitch Kramer - FixCO
 * Nathan Proctor - PIRG

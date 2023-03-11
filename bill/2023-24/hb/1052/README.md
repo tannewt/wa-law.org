@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB 1052)
+
 ## Meetings
 ### Wed 03/15 01:30 PM - Housing (HSG): HB 1052 Nonprofit housing/tax ex.
 Sign up to testify:

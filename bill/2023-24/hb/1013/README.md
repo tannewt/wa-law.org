@@ -43,7 +43,7 @@ Testifying:
 * Pete Rosenkranz - La Center School District
 * Preston Dwoskin
 * Charlie Brown - Skills Centers Directors
-* Pavan Venkatakrishnan - Washington State Board of Education
+* Pavan Venkatakrishnan - [Washington State Board of Education](/org/washington_state_board_of_education/)
 * Becky Wallace - OSPI
 * 💵Kelly Fukai - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
 * 💵Josh Weiss - Snohomish County

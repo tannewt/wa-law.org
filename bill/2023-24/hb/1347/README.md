@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB 1347)
+
 ## Meetings
 ### Tue 01/24 04:00 PM - Environment & Energy (ENVI): HB 1347 Comm.-based health assess.
 #### 2 👍 - Pro

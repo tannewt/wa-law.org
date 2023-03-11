@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## Articles
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 7 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02202023#:~:text=H.B.1477)
+
 ## Meetings
 ### Mon 03/13 04:00 PM - Ways & Means (WM): 2SHB 1477 Working families' tax credit
 Sign up to testify:
@@ -18,7 +21,7 @@ Sign up to testify:
 
 #### 141 👍 - Pro
 Testifying:
-* Anna McKnight - Washington State Coalition Against Domestic Violence
+* Anna McKnight - [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/)
 * Casey Lantz - United Way of King County
 * 💵Emily Vyhnanek - Working Families Tax Credit Coalition & Washington State Budget & Policy Center
 
@@ -30,7 +33,7 @@ Testifying:
 #### 89 👍 - Pro
 Testifying:
 * Casey Lantz - United Way of King County
-* 💵Emily Stone - Washington State Coalition Against Domestic Violence
+* 💵Emily Stone - [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/)
 * 💵Emily Vyhnanek - Working Families Tax Credit Coalition & Washington State Budget & Policy Center
 
 #### 0 👎 - Con
@@ -42,7 +45,7 @@ Testifying:
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 * Casey Lantz - United Way of King County
-* 💵Emily Stone - Washington State Coalition Against Domestic Violence
+* 💵Emily Stone - [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/)
 * 💵Emily Vyhnanek - Working Families Tax Credit Coalition & Washington State Budget & Policy Center
 
 #### 2 👎 - Con

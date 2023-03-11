@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=SB 5019)
+
 ## Meetings
 ### Thu 03/09 08:00 AM - Education (ED): SB 5019 School safety staff
 #### 19 👍 - Pro

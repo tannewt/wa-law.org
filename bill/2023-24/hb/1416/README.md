@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Why PNW officials are only now deciding crypto mining regulation | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/why-pnw-officials-are-only-now-deciding-crypto-mining-regulation/#:~:text=House Bill 1416)
+
 ## Meetings
 ### Fri 03/17 08:00 AM - Environment, Energy & Technology (ENET): HB 1416 Consumer-owned utilities
 Sign up to testify:

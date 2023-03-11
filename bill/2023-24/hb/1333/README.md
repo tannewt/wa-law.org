@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [MyNorthwest](/org/mynorthwest/) - [Rantz: AG pushing most dangerous bill in legislative history - MyNorthwest.com](https://mynorthwest.com/3843618/rantz-ag-ferguson-conservative-views-terrifying-extremism-commission/#:~:text=HB 1333)
+
 ## Meetings
 ### Mon 02/13 04:00 PM - Appropriations (APP): SHB 1333 Domestic violent extremism
 #### 132 👍 - Pro

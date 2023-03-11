@@ -8,19 +8,23 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Boot confusing advisory votes from WA ballots | The Seattle Times](https://www.seattletimes.com/opinion/editorials/boot-confusing-advisory-votes-from-wa-ballots/#:~:text=Senate Bill 5082)
+* [The Seattle Times](/org/the_seattle_times/) - [Lawmakers convene in Olympia for first day of 2023 Legislature | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/lawmakers-convene-in-olympia-for-first-day-of-2023-legislature/#:~:text=SB 5082)
+
 ## Meetings
 ### Fri 03/10 08:00 AM - State Government & Tribal Relations (SGOV): ESSB 5082 Advisory votes
 #### 1574 👍 - Pro
 Testifying:
 * Carol Sullivan
 * 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
-* Andrew Villeneuve - Northwest Progressive Institute
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * Julie Wise - King County Director of Elections
 * Abigail Leong - Washington Voting Justice Coalition
 * 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
 * Kari Bull - FairVote Washington
 * Kamau Chege - Washington Community Alliance
-* Kathy Sakahara - Northwest Progressive Institute
+* Kathy Sakahara - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * Steve Zemke - MajorityRules
 * Steve Hobbs - Secretary of State
 * Hailey Wu - Asian Counseling and Referral Service

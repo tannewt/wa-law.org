@@ -7,6 +7,13 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [MyNorthwest](/org/mynorthwest/) - [Significant gun legislation advances through WA Senate in tight vote - MyNorthwest.com](https://mynorthwest.com/3850532/gun-legislation-senate-28-21-vote/#:~:text=Senate Bill 5078)
+* [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Criminal Justice — Quaker Voice](https://www.quakervoicewa.org/criminal-justice/#:~:text=SB 5078)
+* [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=SB 5078)
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SB 5078)
+* [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB 5078)
+
 ## Meetings
 ### Tue 03/14 10:30 AM - Civil Rights & Judiciary (CRJ): SSB 5078 Firearm industry duties
 Sign up to testify:

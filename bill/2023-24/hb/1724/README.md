@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB 1724)
+
 ## Meetings
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1724 Behavioral health workforce
 #### 34 👍 - Pro

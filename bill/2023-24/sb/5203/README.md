@@ -7,6 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [The Urbanist](/org/the_urbanist/) - [What Groups Around Washington Are Asking from Olympia | The Urbanist](https://www.theurbanist.org/2023/02/22/waleg-week-7-priorities/#:~:text=SB 5203)
+* [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SB 5203)
+
 ## Meetings
 ### Tue 01/17 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5203 Climate change/planning
 #### 1241 👍 - Pro

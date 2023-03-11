@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [A smart way for legislators to help save local news | The Seattle Times](https://www.seattletimes.com/opinion/editorials/a-smart-way-for-legislators-to-help-save-local-news/#:~:text=House Bill 1206)
+
 ## Meetings
 ### Tue 01/24 08:00 AM - Finance (FIN): HB 1206 Newspaper publishers/tax
 #### 32 👍 - Pro
@@ -14,7 +17,7 @@ Testifying:
 * Carol Rikerd
 * Ben Campbell - The Columbian
 * matt zuvich - Office of State Treasurer
-* Kathy Sakahara - Northwest Progressive Institute
+* Kathy Sakahara - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * 💵Rowland Thompson - Allied Daily Newspapers of Washington, Washington Newspaper Publishers Association
 * Bob Ferguson - WA State Attorney General's Office
 * Rory Paine-Donovan - WA State Attorney General's Office

@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Update WA Medicaid rates to ease long-term care staffing crisis | The Seattle Times](https://www.seattletimes.com/opinion/update-wa-medicaid-rates-to-ease-long-term-care-staffing-crisis/#:~:text=House Bill 1571)
+
 ## Meetings

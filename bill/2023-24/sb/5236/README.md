@@ -9,6 +9,12 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 
+## Articles
+* [MyNorthwest](/org/mynorthwest/) - [Rantz: Union-backed bill gets friendly, misleading media support - MyNorthwest.com](https://mynorthwest.com/3825726/rantz-union-bill-misleading-media-support/#:~:text=SB 5236)
+* [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/research/2023-legislative-agenda/#:~:text=SB 5236)
+* [The Seattle Times](/org/the_seattle_times/) - [Legislature must address WA nursing crisis | The Seattle Times](https://www.seattletimes.com/opinion/editorials/legislature-must-address-wa-nursing-crisis/#:~:text=Senate Bill 5236)
+* [The Spokesman-Review](/org/the_spokesman-review/) - [State Senate passes safe staffing standard, in compromise between hospitals, unions | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/08/state-senate-passes-safe-staffing-standard-in-comp/#:~:text=Senate Bill 5236)
+
 ## Meetings
 ### Wed 03/15 08:00 AM - Labor & Workplace Standards (LAWS): E2SSB 5236 Hospital staffing standards
 Sign up to testify:
@@ -63,7 +69,7 @@ Testifying:
 * Kim Williams - Camano Island Fire and Rescure
 * Jeff Gombosky - Washington Health Care Association and LeadingAge Washington
 * Garrett Alston
-* Onora Lien - Northwest Healthcare Response Network
+* Onora Lien - [Northwest Healthcare Response Network](/org/northwest_healthcare_response_network/)
 
 #### 36 ❓ - Other
 
@@ -98,7 +104,7 @@ Testifying:
 * William Robertson
 * CHARLOTTE MORRIS - Trilogy
 * John Bramhall - Washington State Medical Association
-* Onora Lien - Northwest Healthcare Response Network
+* Onora Lien - [Northwest Healthcare Response Network](/org/northwest_healthcare_response_network/)
 * Jeff Faucett - South Kitsap Fire & Rescue
 * Matt Cowan - Shoreline Fire Department
 * Laci Johnson - Forks Comunity Hospital

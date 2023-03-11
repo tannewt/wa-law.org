@@ -18,7 +18,7 @@ Sign up to testify:
 
 #### 29 👍 - Pro
 Testifying:
-* Manuel Abrego - La Resistencia
+* 💵Manuel Abrego - La Resistencia
 * Maru Mora Villalpando - La Resistencia
 
 #### 0 👎 - Con
@@ -46,7 +46,7 @@ Testifying:
 * Dr. Bernal C. Baca
 * Molly Matter - Mi Centro and Amend Law
 * 💵Paul Benz - WA Partners for Social Change
-* Manuel Abrego - La Resistencia
+* 💵Manuel Abrego - La Resistencia
 * Maria Leonides Perez - La Resistencia
 * Maru Mora Villalpando - La Resistencia
 

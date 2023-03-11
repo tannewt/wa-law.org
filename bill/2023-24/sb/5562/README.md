@@ -7,6 +7,11 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Environmental Stewardship Priorities — Quaker Voice](https://www.quakervoicewa.org/environmental-stewardship-priorities/#:~:text=SB 5562)
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SSB 5562)
+* [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB 5562)
+
 ## Meetings
 ### Mon 02/20 09:00 AM - Ways & Means (WM): SSB 5562 Clean energy
 #### 60 👍 - Pro
@@ -24,7 +29,7 @@ Testifying:
 
 #### 6 ❓ - Other
 Testifying:
-* Remy Kerr - Washington State Hospital Association
+* 💵Remy Kerr - Washington State Hospital Association
 
 ### Wed 02/01 08:00 AM - Environment, Energy & Technology (ENET): SB 5562 Clean energy
 #### 287 👍 - Pro

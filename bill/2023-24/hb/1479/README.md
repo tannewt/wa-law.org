@@ -9,6 +9,14 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Many Bills End Their Journey in 2023 with Fiscal Cutoff - WSPTA](https://www.wastatepta.org/many-bills-end-their-journey-in-2023-with-fiscal-cutoff/#:~:text=2SHB 1479)
+* [South Seattle Emerald](/org/south_seattle_emerald/) - [Black, Disabled, and Foster Students Most Likely to Be Isolated or Restrained in Washington Schools | South Seattle Emerald](https://southseattleemerald.com/2023/02/23/black-disabled-and-foster-students-most-likely-to-be-isolated-or-restrained-in-washington-schools/#:~:text=HB 1479)
+* [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=HB 1479)
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB 1479)
+* [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=2SSHB 1479)
+* [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=HB 1479)
+
 ## Meetings
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1479 Student restraint, isolation
 #### 135 👍 - Pro

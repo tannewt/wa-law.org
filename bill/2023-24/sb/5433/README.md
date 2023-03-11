@@ -7,6 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Department of Natural Resources](/org/department_of_natural_resources/) - [Legislative Priorities | WA - DNR](https://www.dnr.wa.gov/about/legislative#:~:text=SB 5433)
+* [Department of Natural Resources](/org/department_of_natural_resources/) - [Passage of Derelict Structures Legislation Puts Washington’s Aquatic Habitat on Cleaner, Healthier Track, says Commissioner Franz | WA - DNR](https://www.dnr.wa.gov/news/passage-derelict-structures-legislation-puts-washington%E2%80%99s-aquatic-habitat-cleaner-healthier#:~:text=Senate Bill 5433)
+
 ## Meetings
 ### Wed 02/22 01:30 PM - Ways & Means (WM): SSB 5433 Derelict aquatic structures
 #### 16 👍 - Pro

@@ -18,7 +18,7 @@ Sign up to testify:
 
 #### 1 👎 - Con
 Testifying:
-* Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 0 ❓ - Other
 

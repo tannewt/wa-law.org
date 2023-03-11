@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [New bill would help Washington nurses get treatment for PTSD | The Seattle Times](https://www.seattletimes.com/seattle-news/mental-health/new-proposal-would-help-washington-nurses-get-treatment-for-ptsd/#:~:text=Senate Bill 5454)
+
 ## Meetings
 ### Fri 03/17 10:30 AM - Labor & Workplace Standards (LAWS): 2SSB 5454 RN PTSD/industrial insurance
 Sign up to testify:

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Criminal Justice — Quaker Voice](https://www.quakervoicewa.org/criminal-justice/#:~:text=SB 5131)
+
 ## Meetings
 ### Mon 03/13 01:30 PM - Community Safety, Justice, & Reentry (CSJR): SB 5131 Commissary funds
 Sign up to testify:

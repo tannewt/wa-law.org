@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=SB 5357)
+
 ## Meetings
 ### Thu 01/26 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5357 Detached ADUs
 #### 33 👍 - Pro

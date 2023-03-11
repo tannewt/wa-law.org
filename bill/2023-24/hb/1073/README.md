@@ -13,7 +13,7 @@
 #### 19 👍 - Pro
 Testifying:
 * 💵Scott Sigmon - ZoomCare
-* Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
+* 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
 * 💵Leslie Emerick - Fresenius Medical Care North America (FMCNA)
 * MD, Mark Zeitzer - ZoomCare
 * 💵Intisar Surur - [Quest Diagnostics](/org/quest_diagnostics/)

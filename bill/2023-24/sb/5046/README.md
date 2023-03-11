@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## Articles
+* [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Criminal Justice — Quaker Voice](https://www.quakervoicewa.org/criminal-justice/#:~:text=SB 5046)
+
 ## Meetings
 ### Wed 03/15 08:00 AM - Civil Rights & Judiciary (CRJ): 2SSB 5046 Postconviction counsel
 Sign up to testify:

@@ -7,6 +7,11 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Criminal Justice — Quaker Voice](https://www.quakervoicewa.org/criminal-justice/#:~:text=HB 1513)
+* [The Seattle Times](/org/the_seattle_times/) - [WA could narrow reasons for traffic stops in new police reform effort | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-could-narrow-reasons-for-traffic-stops-in-new-police-reform-effort/#:~:text=House Bill 1513)
+* [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers should pass two bills to add accountability to policing | The Seattle Times](https://www.seattletimes.com/opinion/wa-lawmakers-should-pass-two-bills-to-add-accountability-to-policing/#:~:text=House Bill 1513)
+
 ## Meetings
 ### Tue 02/21 01:30 PM - Transportation (TR): SHB 1513 Traffic safety
 #### 1388 👍 - Pro

@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## Articles
+* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB 5412)
+
 ## Meetings
 ### Mon 02/20 01:30 PM - Transportation (TRAN): SSB 5412 Land use permitting/local
 #### 54 👍 - Pro

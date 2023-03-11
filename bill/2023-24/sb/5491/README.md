@@ -7,6 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=SB 5491)
+* [The Urbanist](/org/the_urbanist/) - [One Stairway is Enough to Reach Housing Heaven | The Urbanist](https://www.theurbanist.org/2023/02/07/one-stairway-is-enough-to-reach-housing-heaven/#:~:text=SB 5491)
+
 ## Meetings
 ### Thu 02/02 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5491 Residential building exits
 #### 15 👍 - Pro

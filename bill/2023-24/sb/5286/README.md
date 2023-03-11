@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/research/2023-legislative-agenda/#:~:text=SB 5286)
+
 ## Meetings
 ### Tue 03/14 10:30 AM - Labor & Workplace Standards (LAWS): SSB 5286 Paid leave premiums
 Sign up to testify:

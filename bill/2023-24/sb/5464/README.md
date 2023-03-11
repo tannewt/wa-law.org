@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB 5464)
+
 ## Meetings
 ### Tue 01/31 01:30 PM - Environment, Energy & Technology (ENET): SB 5464 Electronics repair
 #### 274 👍 - Pro
@@ -20,7 +23,7 @@ Testifying:
 * 💵Patrick Connor - [National Federation of Independent Business](/org/national_federation_of_independent_business/)
 * Cynthia McMullen - Central Valley School Board
 * Kyle Wiens - iFixIt
-* Andrew Villeneuve - Northwest Progressive Institute
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
 #### 4 👎 - Con
 Testifying:

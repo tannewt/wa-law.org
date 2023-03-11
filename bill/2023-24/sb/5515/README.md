@@ -18,7 +18,7 @@ Sign up to testify:
 
 #### 2 👍 - Pro
 Testifying:
-* J. Lee Schultz - Washington State Board of Education
+* J. Lee Schultz - [Washington State Board of Education](/org/washington_state_board_of_education/)
 
 #### 0 👎 - Con
 
@@ -36,7 +36,7 @@ Testifying:
 ### Tue 01/31 10:30 AM - Human Services (HS): SB 5515 Child abuse and neglect
 #### 5 👍 - Pro
 Testifying:
-* Linda Drake - Washington State Board of Education
+* Linda Drake - [Washington State Board of Education](/org/washington_state_board_of_education/)
 
 #### 7 👎 - Con
 Testifying:

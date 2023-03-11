@@ -1,10 +1,10 @@
 # Planned Parenthood Alliance Advocates
 
 ## [HB 1073](/bill/2023-24/hb/1073/) - Medical assistants 👍2  
-* 👍 Nicole Kern
+* 👍💵 Nicole Kern
 
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
-* 👍 Nicole Kern
+* 👍💵 Nicole Kern
 
 ## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍1  
 
@@ -27,12 +27,12 @@
 ## [SB 5179](/bill/2023-24/sb/5179/) - Death with dignity act 👍2  
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
-* 👍 Nicole Kern
+* 👍💵 Nicole Kern
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍4  
 * 👍💵 Courtney Normand
 * 👍💵 Alexa Brenner
-* 👍 Nicole Kern
+* 👍💵 Nicole Kern
 
 ## [SB 5373](/bill/2023-24/sb/5373/) - ARNP, PA, & MD reimbursement 👍1  
 

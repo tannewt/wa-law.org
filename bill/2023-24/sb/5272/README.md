@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## Articles
+* [The Spokesman-Review](/org/the_spokesman-review/) - [Washington may add automated cameras on highways to catch speeders in construction zones | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/01/washington-may-add-automated-cameras-on-highways-t/#:~:text=Senate Bill 5272)
+
 ## Meetings
 ### Wed 03/15 04:00 PM - Transportation (TR): ESSB 5272 Speed safety cameras
 Sign up to testify:

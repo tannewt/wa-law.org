@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Committee Action Expected on Some Bills This Week - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate012323#:~:text=H.B. 1218)
+
 ## Meetings
 ### Wed 01/18 04:00 PM - Appropriations (APP): HB 1218 Caseload forecast/tax credit
 #### 16 👍 - Pro

@@ -11,7 +11,7 @@
 #### 330 👍 - Pro
 Testifying:
 * Bob Turnage - [Republic National Distributing Company](/org/republic_national_distributing_company/)
-* Justin Stiefel - Heritage Distilling Company
+* Justin Stiefel - [Heritage Distilling Company](/org/heritage_distilling_company/)
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Brandon High - Southern Glazers Wine and Spirits
 * John Gainza - Southern Glazers Wine and Spirits

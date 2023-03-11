@@ -6,6 +6,15 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/research/2023-legislative-agenda/#:~:text=HB 1473)
+* [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=HB 1473)
+* [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [PRESS RELEASE: State Lawmakers Introduce the Washington State Wealth Tax  - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/press-release-state-lawmakers-introduce-the-washington-state-wealth-tax/#:~:text=HB 1473)
+* [The Urbanist](/org/the_urbanist/) - [WALeg Wednesday Gets Wonky with Wealth Taxes and Rent Stabilization | The Urbanist](https://www.theurbanist.org/2023/01/25/waleg-wednesday-week-3/#:~:text=HB 1473)
+* [The Washington Bus](/org/the_washington_bus/) - [Announcing our 2023 Legislative Priorities! – The Washington Bus](http://www.washingtonbus.org/2023/01/23/announcing-our-2023-legislative-priorities/#:~:text=1473)
+* [The Washington Bus](/org/the_washington_bus/) - [Uncategorized Archives – The Washington Bus](http://www.washingtonbus.org/category/uncategorized/#:~:text=1473)
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=HB 1473)
+
 ## Meetings
 ### Tue 02/14 08:00 AM - Finance (FIN): HB 1473 Wealth/property tax
 #### 2279 👍 - Pro
@@ -47,7 +56,7 @@ Testifying:
 * Tim Eyman
 * Rita Hayes
 * john Worthington
-* Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
 * Laurie Layne
 * Karen McIntosh
 

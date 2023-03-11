@@ -20,7 +20,7 @@ Sign up to testify:
 #### 14 👍 - Pro
 Testifying:
 * Frank Kuntz - City of Wenatchee
-* 💵Blake Baldwin - Chelan Douglas Regional Port Authority
+* 💵Blake Baldwin - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
 * Steve Maher - Our Valley Our Future nonprofit in Wenatchee
 * Jerrilea Crawford - City of East Wenatchee
 
@@ -35,7 +35,7 @@ Testifying:
 * Jerrilea Crawford - City of East Wenatchee
 * Frank Kuntz - Mayor, City of Wenatchee
 * Kevin Overbay - Chelan County Board of Commission
-* Jim Kuntz - Chelan Douglas Regional Port Authority
+* Jim Kuntz - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
 
 #### 1 👎 - Con
 
@@ -45,9 +45,9 @@ Testifying:
 #### 16 👍 - Pro
 Testifying:
 * Jerrilea Crawford - City of East Wenatchee
-* JC Baldwin - Chelan Douglas Regional Port Authority
+* JC Baldwin - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
 * Paul Simmons - City of Olympia, Washington Recreation and Parks Association
-* Jim Huffman - Chelan Douglas Regional Port Authority
+* Jim Huffman - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
 * Jeff Wilkens - Chelan-Douglas Transportation Council
 * Frank Kuntz - City of Wenatchee
 * Dan Sutton

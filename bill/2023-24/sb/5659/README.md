@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=SB 5659)
+
 ## Meetings
 ### Tue 02/14 01:30 PM - Environment, Energy & Technology (ENET): SB 5659 Gas companies/renewable res.
 #### 30 👍 - Pro

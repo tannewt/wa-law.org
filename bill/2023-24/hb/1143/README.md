@@ -9,6 +9,16 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SHB 1143)
+* [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB 1143)
+* [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=HB 1143)
+* [The Seattle Times](/org/the_seattle_times/) - [Blue state paradox: WA keeps arming up | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-keeps-getting-bluer-and-also-more-heavily-armed/#:~:text=House Bill 1143)
+* [The Spokesman-Review](/org/the_spokesman-review/) - [State House passes bills to ban assault weapons and require background checks, safety training for gun purchases | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/08/state-house-passes-bills-to-ban-assault-weapons-an/#:~:text=House Bill 1143)
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB 1143)
+* [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=2SHB 1143)
+* [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=HB 1143)
+
 ## Meetings
 ### Wed 02/08 04:00 PM - Appropriations (APP): SHB 1143 Firearms/purchase & transfer
 #### 784 👍 - Pro

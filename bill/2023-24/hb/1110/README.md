@@ -9,6 +9,32 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 
+## Articles
+* [PubliCola](/org/publicola/) - [State House Says Yes to Density, Senate May Be Tougher Audience - PubliCola](https://publicola.com/2023/03/08/state-house-says-yes-to-density-senate-may-be-tougher-audience/#:~:text=House Bill 1110)
+* [The Seattle Times](/org/the_seattle_times/) - [Keep affordability at center of WA bill upending single-family zoning | The Seattle Times](https://www.seattletimes.com/opinion/editorials/keep-affordability-at-center-of-wa-bill-upending-single-family-zoning/#:~:text=House Bill 1110)
+* [The Seattle Times](/org/the_seattle_times/) - [Seattle is now building more ADUs than single houses | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/seattle-is-now-building-more-adus-than-single-houses/#:~:text=House Bill 1110)
+* [The Seattle Times](/org/the_seattle_times/) - [WA House passes bill banning single-family zoning | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-house-passes-bill-banning-single-family-zoning/#:~:text=House Bill 1110)
+* [PubliCola](/org/publicola/) - [As Density Bills Move Forward, It's Statewide Housing Goals vs. "Local Control" - PubliCola](https://publicola.com/2023/03/01/as-density-bills-move-forward-its-statewide-housing-goals-vs-local-control/#:~:text=House Bill 1110)
+* [The Urbanist](/org/the_urbanist/) - [Washington Legislature’s New Thinking About Housing | The Urbanist](https://www.theurbanist.org/2023/03/01/washington-legislatures-new-thinking-about-housing/#:~:text=HB 1110)
+* [The Urbanist](/org/the_urbanist/) - [How Much Housing Will Washington’s Missing Middle Legislation Create in Puget Sound? | The Urbanist](https://www.theurbanist.org/2023/02/27/how-much-housing-will-washingtons-missing-middle-legislation-create-in-puget-sound/#:~:text=HB 1110)
+* [The Urbanist](/org/the_urbanist/) - [Washington’s Middle Housing Bill Is Still Alive with Further Amendments | The Urbanist](https://www.theurbanist.org/2023/02/28/washingtons-middle-housing-bill-is-still-alive-with-further-amendments/#:~:text=HB 1110)
+* [Sightline Institute](/org/sightline_institute/) - [Washington’s 2023 Middle Housing Bill, Explained - Sightline Institute](https://www.sightline.org/2023/01/03/washingtons-2023-middle-housing-bill-explained/#:~:text=HB 1110)
+* [The Seattle Times](/org/the_seattle_times/) - [Is this the year WA ends single-family zoning? | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/is-this-the-year-wa-ends-single-family-zoning/#:~:text=HB 1110)
+* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB 1110)
+* [The Urbanist](/org/the_urbanist/) - [What Groups Around Washington Are Asking from Olympia | The Urbanist](https://www.theurbanist.org/2023/02/22/waleg-week-7-priorities/#:~:text=HB 1110)
+* [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2023 Economic Justice Priorities — Quaker Voice](https://www.quakervoicewa.org/additional-2020-economic-justice-priorities/#:~:text=1110)
+* [The Urbanist](/org/the_urbanist/) - [Amended Missing Middle Bills Clear Housing Committee, Avoiding First Cutoff | The Urbanist](https://www.theurbanist.org/2023/02/15/amended-missing-middle-bills-clear-housing-committee/#:~:text=HB 1110)
+* [The Urbanist](/org/the_urbanist/) - [Opinion: Everyone (Especially Urbanists) Should Care About the Crisis Facing Seattle Schools | The Urbanist](https://www.theurbanist.org/2023/02/12/opinion-everyone-especially-urbanists-should-care-about-the-crisis-facing-seattle-schools/#:~:text=HB 1110)
+* [PubliCola](/org/publicola/) - [Seeking Compromise, Lawmakers May Preserve Local Parking Mandates in This Year's Pro-Housing Bills - PubliCola](https://publicola.com/2023/02/10/seeking-compromise-lawmakers-may-preserve-local-parking-mandates-in-this-years-pro-housing-bills/#:~:text=House Bill 1110)
+* [The Seattle Times](/org/the_seattle_times/) - [Poll: WA residents want more multifamily housing in their neighborhoods | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/poll-wa-residents-want-more-multifamily-housing-in-their-neighborhoods/#:~:text=House Bill 1110)
+* [The Seattle Times](/org/the_seattle_times/) - [Serve the people, not developers: Amend WA ‘middle housing’ bill | The Seattle Times](https://www.seattletimes.com/opinion/editorials/serve-the-people-not-developers-amend-middle-housing-bill/#:~:text=House Bill 1110)
+* [PubliCola](/org/publicola/) - [Maybe Metropolis: A Tale of Two Densities - PubliCola](https://publicola.com/2023/01/25/maybe-metropolis-a-tale-of-two-densities/#:~:text=HB 1110)
+* [PubliCola](/org/publicola/) - [Sponsors of Pro-Housing Bills in Olympia Emphasize Statewide Affordability Crisis - PubliCola](https://publicola.com/2023/01/23/sponsors-of-pro-housing-bills-in-olympia-emphasize-statewide-affordability-crisis/#:~:text=House Bill 1110)
+* [The Seattle Times](/org/the_seattle_times/) - [Save our food-producing lands with high-density ‘middle housing’ | The Seattle Times](https://www.seattletimes.com/opinion/save-our-food-producing-lands-with-high-density-middle-housing/#:~:text=HB 1110)
+* [The Urbanist](/org/the_urbanist/) - [Missing Middle Housing Reform Returns for 2023 Legislative Session | The Urbanist](https://www.theurbanist.org/2023/01/04/missing-middle-housing-reform-returns-for-2023-legislative-session/#:~:text=HB 1110)
+* [The Spokesman-Review](/org/the_spokesman-review/) - [Bill to limit single-family housing in Washington picks up steam with House passage | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/07/bill-to-limit-single-family-housing-in-washington-/#:~:text=House Bill 1110)
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 6 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02142023#:~:text=H.B. 1110)
+
 ## Meetings
 ### Fri 03/17 10:30 AM - Housing (HSG): E2SHB 1110 Middle housing
 Sign up to testify:

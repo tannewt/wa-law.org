@@ -23,10 +23,10 @@ Testifying:
 ### Mon 01/23 10:30 AM - Human Services (HS): SB 5230 Extended foster care
 #### 46 👍 - Pro
 Testifying:
-* Sean Gardner - The Mockingbird Society
-* Emily Stochel - [College Success Foundation](/org/college_success_foundation/)
+* Sean Gardner - [The Mockingbird Society](/org/the_mockingbird_society/)
+* 💵Emily Stochel - [College Success Foundation](/org/college_success_foundation/)
 * Joshua Woodwalker
-* 💵Samuel Martin - The Mockingbird Society
+* 💵Samuel Martin - [The Mockingbird Society](/org/the_mockingbird_society/)
 * Minnie Bliesner - SDMC
 * Jim Theofelis - NorthStar Advocates
 

@@ -10,7 +10,7 @@
 ### Tue 01/31 10:30 AM - Labor & Workplace Standards (LAWS): HB 1462 Journey level electricians
 #### 64 👍 - Pro
 Testifying:
-* Nicole Grant - IBEW 46
+* 💵Nicole Grant - IBEW 46
 * Warren Shill - President IBEW Local 46 & GPSEW Educational Coordinator
 * Halene Sigmund - Construction Industry Training Council of WA
 * 💵Brad Boswell - Construction Industry Training Council of WA
@@ -27,7 +27,7 @@ Testifying:
 * Michael Brunelle - First Choice Electric LLC.
 * Winona Furgisn
 * Mike Brunelle - First Choice Electric
-* Nicole Grant - IBEW 46
+* 💵Nicole Grant - IBEW 46
 * Nathan Turner - Washington State Electrical Contractors Association
 * 💵Sophia Steele - Associated Builders and Contractors
 

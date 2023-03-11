@@ -46,10 +46,11 @@ for row in csv.DictReader(csvfile):
         employer_rowid = employer_rowid[0]
 
     firm_name = row["lobbyist_firm_name"]
-    cur.execute("SELECT rowid FROM lobbying_firms WHERE name = ?", (firm_name,))
+    firm_url = row["lobbyist_firm_url"]
+    cur.execute("SELECT rowid FROM lobbying_firms WHERE pdc_url = ?", (firm_url,))
     firm_rowid = cur.fetchone()
     if not firm_rowid:
-        cur.execute("INSERT INTO lobbying_firms(name, pdc_url) VALUES (?, ?)", (firm_name, row["lobbyist_firm_url"]))
+        cur.execute("INSERT INTO lobbying_firms(name, pdc_url) VALUES (?, ?)", (firm_name, firm_url))
         firm_rowid = cur.lastrowid
     else:
         firm_rowid = firm_rowid[0]
@@ -76,5 +77,16 @@ for alternative, canonical in alternative_org_names:
 
     alternative_slug = alternative.lower().replace(" ", "_")
     cur.execute("INSERT INTO organizations(name, slug, canonical_entry) VALUES (?, ?, ?) ON CONFLICT(name) DO UPDATE SET canonical_entry = excluded.canonical_entry", (alternative, alternative_slug, canonical_rowid))
+
+db.commit()
+
+org_urls_path = pathlib.Path("data/organization_urls.csv")
+org_urls = csv.reader(org_urls_path.open())
+# drop the header row
+next(org_urls)
+for canonical, homepage in org_urls:
+    print(canonical, homepage)
+    slug = canonical.lower().replace(" ", "_")
+    cur.execute("INSERT OR IGNORE INTO organizations (name, slug, url) VALUES (?, ?, ?) ON CONFLICT(name) DO UPDATE SET url = excluded.url", (canonical, slug, homepage))
 
 db.commit()

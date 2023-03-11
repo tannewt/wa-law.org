@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [What the right has wrong about caring for trans youth  | The Seattle Times](https://www.seattletimes.com/opinion/what-the-right-has-wrong-about-caring-for-trans-youth/#:~:text=Senate Bill 5599)
+
 ## Meetings
 ### Mon 02/06 10:30 AM - Human Services (HS): SB 5599 Protected health care/youth
 #### 60 👍 - Pro

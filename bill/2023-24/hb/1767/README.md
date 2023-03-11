@@ -11,7 +11,7 @@
 ### Wed 02/08 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1767 Federal funding opps.
 #### 4 👍 - Pro
 Testifying:
-* Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
 * Skippy Shaw - [The Nature Conservancy](/org/the_nature_conservancy/)
 
 #### 0 👎 - Con

@@ -8,20 +8,23 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## Articles
+* [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Criminal Justice — Quaker Voice](https://www.quakervoicewa.org/criminal-justice/#:~:text=HB 1492)
+
 ## Meetings
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1492 State v. Blake relief
 #### 54 👍 - Pro
 Testifying:
 * Grace O'Connor - Washington State Office of Public Defense
 * Ali Hohman - [Washington Defender Association](/org/washington_defender_association/)
-* Corey Guilmette - Civil Survival
+* 💵Corey Guilmette - [Civil Survival](/org/civil_survival/)
 * Philippe Knab - The Washington State Office of Civil Legal Aid
 
 #### 26 👎 - Con
 Testifying:
 * Laurie Layne
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
-* Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * Laurie A Layne
 

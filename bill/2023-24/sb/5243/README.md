@@ -9,6 +9,16 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Many Bills End Their Journey in 2023 with Fiscal Cutoff - WSPTA](https://www.wastatepta.org/many-bills-end-their-journey-in-2023-with-fiscal-cutoff/#:~:text=SSB 5243)
+* [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=SSB 5243)
+* [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SSB 5243)
+* [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=SB 5243)
+* [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! February 9, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-february-9-2023/#:~:text=SSB 5243)
+* [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! January 23, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-january-23-2023/#:~:text=SB 5243)
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SSB 5243)
+* [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB 5243)
+
 ## Meetings
 ### Tue 03/14 04:00 PM - Education (ED): E2SSB 5243 High school and beyond plans
 Sign up to testify:
@@ -45,7 +55,7 @@ Testifying:
 * 💵Jayme Shoun - Washington STEM
 * Natalya Yudkovsky - Washington State PTA
 * Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
-* J. Lee Schultz - Washington State Board of Education
+* J. Lee Schultz - [Washington State Board of Education](/org/washington_state_board_of_education/)
 
 #### 1 👎 - Con
 Testifying:

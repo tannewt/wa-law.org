@@ -23,7 +23,7 @@ Testifying:
 
 #### 2 ❓ - Other
 Testifying:
-* Emmett Mills - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
+* 💵Emmett Mills - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
 * Lisa Won - Office of the State Actuary
 
 ### Mon 01/23 04:00 PM - Ways & Means (WM): SB 5294 Retirement system funding
@@ -40,4 +40,4 @@ Testifying:
 
 #### 1 ❓ - Other
 Testifying:
-* Laurie Weidner - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
+* 💵Laurie Weidner - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)

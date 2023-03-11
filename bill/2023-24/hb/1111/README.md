@@ -7,6 +7,11 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Sightline Institute](/org/sightline_institute/) - [The Vast Potential of Pairing Transit and Homes in Washington State - Sightline Institute](https://www.sightline.org/2023/01/18/the-vast-potential-of-pairing-transit-and-homes-in-washington-state/#:~:text=HB 1111)
+* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB 1111)
+* [The Urbanist](/org/the_urbanist/) - [Liias and Reed Introduce Bill Requiring Midrise Zoning Near Rapid Transit | The Urbanist](https://www.theurbanist.org/2023/01/25/liias-and-reed-introduce-bill-requiring-midrise-zoning-near-rapid-transit/#:~:text=HB 1111)
+
 ## Meetings
 ### Wed 02/22 09:00 AM - Capital Budget (CB): SHB 1111 Housing benefit districts
 #### 101 👍 - Pro

@@ -27,7 +27,7 @@ Sign up to testify:
 Testifying:
 * 💵Erin Frasier - WA State Building & Construction Trades Council
 * Nikolaj Jensen - Construction Worker
-* Ray Dumas - Operative Plasterers and Cement Masons - Local 528
+* 💵Ray Dumas - Operative Plasterers and Cement Masons - Local 528
 * Robert Bowstring - Construction Worker
 * Joe Kendo - Washington State Labor Council, AFL-CIO
 * 💵Seth Worley - Plumbers and Steamfitters UA Local 598

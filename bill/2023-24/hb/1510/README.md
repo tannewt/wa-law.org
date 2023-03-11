@@ -18,7 +18,7 @@ Testifying:
 #### 7 👎 - Con
 Testifying:
 * 💵Amber Carter - Seattle Mariners
-* Emily Shay - Association of Washington Buisness
+* 💵Emily Shay - Association of Washington Buisness
 
 #### 0 ❓ - Other
 
@@ -32,7 +32,7 @@ Testifying:
 
 #### 8 👎 - Con
 Testifying:
-* Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Amber Carter - Seattle Mariners
 * Zach Hensley - First & Goal Inc.
 

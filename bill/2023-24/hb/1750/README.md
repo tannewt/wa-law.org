@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [South Seattle Emerald](/org/south_seattle_emerald/) - [Water Safety Day Proposed to Bring Awareness to Drowning Prevention | South Seattle Emerald](https://southseattleemerald.com/2023/02/24/water-safety-day-proposed-to-bring-awareness-to-drowning-prevention/#:~:text=HB 1750)
+
 ## Meetings
 ### Tue 02/14 01:30 PM - State Government & Tribal Relations (SGOV): HB 1750 Water safety education
 #### 10 👍 - Pro

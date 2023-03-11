@@ -34,7 +34,7 @@ Testifying:
 
 #### 7 👎 - Con
 Testifying:
-* Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Jason Schwarz - [Washington Defender Association](/org/washington_defender_association/)
 * Jason Schwarz - WDA/WACDL
 * Kari Reardon - WDA/WACDL

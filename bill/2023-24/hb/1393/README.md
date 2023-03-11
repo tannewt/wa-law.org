@@ -57,7 +57,7 @@ Testifying:
 
 #### 41 👎 - Con
 Testifying:
-* Nicole Grant - IBEW 46
+* 💵Nicole Grant - IBEW 46
 * Halene Sigmund - Construction Industry Training Council of WA
 * 💵Brad Boswell - Construction Industry Training Council of WA
 * 💵Matthew Hepner - IBEW

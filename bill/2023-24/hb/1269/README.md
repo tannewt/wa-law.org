@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/research/2023-legislative-agenda/#:~:text=1269)
+
 ## Meetings
 ### Wed 02/01 01:30 PM - Health Care & Wellness (HCW): HB 1269 Rx drug affordability board
 #### 850 👍 - Pro

@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [The Spokesman-Review](/org/the_spokesman-review/) - [Washington commissioners would receive salary per proposed legislation | The Spokesman-Review](https://www.spokesman.com/stories/2023/feb/08/washington-commissioners-would-receive-salary-per-/#:~:text=House Bill 1699)
+
 ## Meetings
 ### Fri 02/10 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1699 Fish & wildlife salaries
 #### 12 👍 - Pro

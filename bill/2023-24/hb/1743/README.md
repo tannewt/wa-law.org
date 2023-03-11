@@ -13,7 +13,7 @@
 Testifying:
 * Steve Storkan - Employee Ownership Expansion Network
 * Jack Moriarty - Ownership America
-* John McNamara - Northwest Cooperative Development Center
+* John McNamara - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
 * Hilary Abell - Project Equity
 * Joseph Sweitzer
 * Aaliyah Nedd - National Cooperative Business Association (NCBA)

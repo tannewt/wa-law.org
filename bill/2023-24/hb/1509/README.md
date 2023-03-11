@@ -12,7 +12,7 @@
 Testifying:
 * James Feinstein - Arcadia
 * Markus Virta - [Washington Solar Energy Industries Association](/org/washington_solar_energy_industries_association/)
-* Derek Chernow - Coalition for Community Solar Access
+* Derek Chernow - [Coalition for Community Solar Access](/org/coalition_for_community_solar_access/)
 * Francesca Ritson
 * 💵Mason Rolph - [Olympia Community Solar](/org/olympia_community_solar/)
 * Gavin Tenold - Northwest Renewables

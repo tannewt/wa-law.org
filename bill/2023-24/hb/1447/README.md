@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## Articles
+* [Statewide Poverty Action Network](/org/statewide_poverty_action_network/) - [Bill Tracker – Statewide Poverty Action Network](https://povertyaction.org/bill-tracker/#:~:text=HB 1447)
+
 ## Meetings
 ### Thu 03/09 08:00 AM - Human Services (HS): 2SHB 1447 Assistance programs
 #### 153 👍 - Pro

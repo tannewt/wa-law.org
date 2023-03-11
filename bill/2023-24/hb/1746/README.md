@@ -27,7 +27,7 @@ Sign up to testify:
 Testifying:
 * Scott Richards - Washington Public Utility Districts Association
 * Carissa Hahn - CWA/WashTech
-* Fernando Roman - Communications Workers of America
+* Fernando Roman - [Communications Workers of America](/org/communications_workers_of_america/)
 * Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
 #### 0 👎 - Con
@@ -40,7 +40,7 @@ Testifying:
 #### 29 👍 - Pro
 Testifying:
 * Carissa Hahn - CWA/WashTech
-* Fernando Roman - Communications Workers of America
+* Fernando Roman - [Communications Workers of America](/org/communications_workers_of_america/)
 * Scott Richards - Washington Public Utility Districts Association
 * Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 

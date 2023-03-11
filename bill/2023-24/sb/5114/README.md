@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [WA cannot neglect sex trafficking victims | The Seattle Times](https://www.seattletimes.com/opinion/wa-cannot-neglect-sex-trafficking-victims/#:~:text=Senate Bill 5114)
+
 ## Meetings
 ### Tue 03/14 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SSB 5114 Sex trafficking
 Sign up to testify:

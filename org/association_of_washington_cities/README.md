@@ -116,7 +116,7 @@
 
 ## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief  👎2 
 * 👎💵 Candice Bock
-* 👎 Lindsey Hueer
+* 👎💵 Lindsey Hueer
 
 ## [HB 1493](/bill/2023-24/hb/1493/) - Impaired driving 👍1  
 
@@ -254,10 +254,10 @@
 * 👎 Brandy DeLange
 
 ## [SB 5424](/bill/2023-24/sb/5424/) - Flexible work/peace officers 👍1  
-* 👍 Lindsey Hueer
+* 👍💵 Lindsey Hueer
 
 ## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎2 
-* 👎 Lindsey Hueer
+* 👎💵 Lindsey Hueer
 
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍1  
 
@@ -322,7 +322,7 @@
 * 👍💵 Candice Bock
 
 ## [SB 5635](/bill/2023-24/sb/5635/) - Victims' rights   ❓1
-* ❓ Lindsey Hueer
+* ❓💵 Lindsey Hueer
 
 ## [SB 5657](/bill/2023-24/sb/5657/) - Kit home permitting 👍1  
 

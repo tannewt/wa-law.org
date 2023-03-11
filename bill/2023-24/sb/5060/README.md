@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=SB 5060)
+
 ## Meetings
 ### Wed 01/11 01:30 PM - Housing (HSG): SB 5060 Rental & vacant properties
 #### 0 👍 - Pro

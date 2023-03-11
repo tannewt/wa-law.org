@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=HB 1077)
+
 ## Meetings
 ### Wed 03/08 08:00 AM - Law & Justice (LAW): SHB 1077 Courthouse facility dogs
 #### 11 👍 - Pro

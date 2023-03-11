@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [The Spokesman-Review](/org/the_spokesman-review/) - [Washington Senate passes police pursuit bill, increasing when law enforcement can chase | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/08/washington-senate-passes-police-pursuit-bill-incre/#:~:text=Senate Bill 5352)
+
 ## Meetings

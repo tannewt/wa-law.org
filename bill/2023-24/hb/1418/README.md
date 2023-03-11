@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=HB 1418)
+
 ## Meetings
 ### Thu 02/16 04:00 PM - Appropriations (APP): HB 1418 Charter schools/enrichment
 #### 253 👍 - Pro

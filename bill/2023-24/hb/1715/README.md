@@ -9,6 +9,10 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 
+## Articles
+* [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=HB 1715)
+* [The Seattle Times](/org/the_seattle_times/) - [WA lawmaker wants stronger domestic violence protections | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-lawmaker-wants-to-enhance-domestic-violence-protections/#:~:text=House Bill 1715)
+
 ## Meetings
 ### Thu 03/16 08:00 AM - Law & Justice (LAW): E2SHB 1715 Domestic violence
 Sign up to testify:

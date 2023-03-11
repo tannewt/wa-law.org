@@ -8,6 +8,11 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## Articles
+* [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=HB 1186)
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Legislative Update - 2023 - Week Two - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate01172023#:~:text=H.B. 1186)
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Committee Action Expected on Some Bills This Week - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate012323#:~:text=H.B. 1186)
+
 ## Meetings
 ### Wed 02/08 04:00 PM - Appropriations (APP): SHB 1186 Child welfare housing
 #### 42 👍 - Pro

@@ -7,6 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Fund food insecurity response in WA  — and demand national fix | The Seattle Times](https://www.seattletimes.com/opinion/editorials/fund-food-insecurity-response-in-wa-and-demand-national-fix/#:~:text=House Bill 1784)
+* [The Seattle Times](/org/the_seattle_times/) - [Food insecurity persists in WA, just as emergency benefits expire | The Seattle Times](https://www.seattletimes.com/seattle-news/health/food-insecurity-persists-in-wa-as-emergency-snap-benefits-run-out-this-week/#:~:text=House Bill 1784)
+
 ## Meetings
 ### Mon 03/13 04:00 PM - Ways & Means (WM): SHB 1784 Hunger relief
 Sign up to testify:

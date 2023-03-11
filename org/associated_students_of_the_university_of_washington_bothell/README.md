@@ -3,14 +3,14 @@
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
 
 ## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍4  
-* 👍 Puneet Birk
+* 👍💵 Puneet Birk
 
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
 
 ## [HB 1291](/bill/2023-24/hb/1291/) - Academic employee bargaining 👍1  
 
 ## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍2  
-* 👍 Puneet Birk
+* 👍💵 Puneet Birk
 
 ## [HB 1399](/bill/2023-24/hb/1399/) - Native American scholarships 👍1  
 
@@ -31,10 +31,10 @@
 ## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍1  
 
 ## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍2  
-* 👍 Puneet Birk
+* 👍💵 Puneet Birk
 
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍5  
 
 ## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍4  
-* 👍 Puneet Birk
-* 👍 Puneet Birk
+* 👍💵 Puneet Birk
+* 👍💵 Puneet Birk

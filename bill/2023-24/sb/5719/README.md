@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=SB 5719)
+
 ## Meetings
 ### Mon 02/13 10:30 AM - Human Services (HS): SB 5719 Student homelessness group
 #### 103 👍 - Pro

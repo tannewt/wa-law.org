@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=HB 1696)
+
 ## Meetings
 ### Tue 03/14 10:30 AM - Law & Justice (LAW): HB 1696 Stalking-related offenses
 Sign up to testify:
@@ -23,7 +26,7 @@ Sign up to testify:
 ### Mon 02/06 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1696 Stalking-related offenses
 #### 5 👍 - Pro
 Testifying:
-* 💵Emily Stone - Washington State Coalition Against Domestic Violence
+* 💵Emily Stone - [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/)
 * Taffy Hunter - Spokane Regional Domestic Violence Coalition
 
 #### 1 👎 - Con

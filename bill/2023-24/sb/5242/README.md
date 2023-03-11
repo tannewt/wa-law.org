@@ -6,6 +6,11 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Abortions could get less expensive for WA patients | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/abortions-could-get-less-expensive-for-wa-patients/#:~:text=Senate Bill 5242)
+* [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=SB 5242)
+* [The Spokesman-Review](/org/the_spokesman-review/) - [Washington lawmakers are trying to protect out-of-state abortion patients. Here's what you need to know: | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/05/washington-lawmakers-are-trying-to-protect-out-of-/#:~:text=Senate Bill 5242)
+
 ## Meetings
 ### Fri 03/17 08:00 AM - Health Care & Wellness (HCW): SB 5242 Abortion cost sharing
 Sign up to testify:
@@ -24,7 +29,7 @@ Sign up to testify:
 #### 129 👍 - Pro
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
-* Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
+* 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
 * Alex Wehinger - WA State Medical Association (WSMA)
 
 #### 491 👎 - Con

@@ -12,7 +12,7 @@
 Testifying:
 * Jenny Arnold - Washington State Pharmacy Association
 * Karen Ferguson - Our Stories Rx
-* Erin Callahan - Diabetes Patient Advocacy Coalition
+* 💵Erin Callahan - [Diabetes Patient Advocacy Coalition](/org/diabetes_patient_advocacy_coalition/)
 * Dharia McGrew - PhRMA
 
 #### 14 👎 - Con

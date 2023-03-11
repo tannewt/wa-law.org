@@ -19,7 +19,7 @@ Sign up to testify:
 Testifying:
 * Jack Moriarty - Ownership America
 * Hilary Abell - Project Equity
-* John McNamara - Northwest Cooperative Development Center
+* John McNamara - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
 * Mitch Miller - GreatBanc Trust Company
 
 #### 0 👎 - Con
@@ -29,8 +29,8 @@ Testifying:
 ### Mon 02/06 04:00 PM - Ways & Means (WM): SSB 5096 Employee ownership
 #### 26 👍 - Pro
 Testifying:
-* John McNamara - Northwest Cooperative Development Center
-* Miles Nowlin - Northwest Cooperative Development Center
+* John McNamara - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
+* 💵Miles Nowlin - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
 * Jack Moriarty - Ownership America
 * Gellert Dornay
 * 💵Bryan Ricker - [Schweitzer Engineering Laboratories](/org/schweitzer_engineering_laboratories/)

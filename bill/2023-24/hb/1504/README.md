@@ -7,6 +7,14 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Recess is a critical part of a child’s education | The Seattle Times](https://www.seattletimes.com/opinion/recess-is-a-critical-part-of-a-childs-education/#:~:text=House Bill 1504)
+* [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=HB 1504)
+* [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=HB 1504)
+* [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! February 7, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-february-7-2023/#:~:text=HB 1504)
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB 1504)
+* [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=SHB 1504)
+
 ## Meetings
 ### Tue 02/07 04:00 PM - Education (ED): HB 1504 Elementary school recess
 #### 181 👍 - Pro

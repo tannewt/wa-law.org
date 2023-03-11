@@ -56,7 +56,7 @@
 ## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍1  
 
 ## [SB 5230](/bill/2023-24/sb/5230/) - Extended foster care 👍1  
-* 👍 Emily Stochel
+* 👍💵 Emily Stochel
 
 ## [SB 5243](/bill/2023-24/sb/5243/) - High school and beyond plans 👍1  
 
@@ -85,7 +85,7 @@
 ## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍2  
 
 ## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍2  
-* 👍 Emily Stochel
+* 👍💵 Emily Stochel
 
 ## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍2  
 * 👍💵 Juliet Schindler

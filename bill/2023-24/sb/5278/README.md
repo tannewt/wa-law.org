@@ -9,6 +9,9 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [How a WA bill could help caregiver shortage ahead of ‘silver tsunami’ | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/how-a-wa-bill-could-help-caregiver-shortage-ahead-of-silver-tsunami/#:~:text=Senate Bill 5278)
+
 ## Meetings
 ### Tue 03/14 01:30 PM - Postsecondary Education & Workforce (PEW): E2SSB 5278 Home care aide certification
 Sign up to testify:

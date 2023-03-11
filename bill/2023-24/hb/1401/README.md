@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB 1401)
+
 ## Meetings
 ### Mon 01/30 01:30 PM - Housing (HOUS): HB 1401 Housing permit process
 #### 74 👍 - Pro

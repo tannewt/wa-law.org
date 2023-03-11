@@ -20,7 +20,7 @@ Testifying:
 ### Tue 01/31 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5539 Tax increment financing
 #### 25 👍 - Pro
 Testifying:
-* 💵Blake Baldwin - Chelan Douglas Regional Port Authority
+* 💵Blake Baldwin - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
 * matt zuvich - Office of State Treasurer
 * Mike Bomar - Port of Vancouver USA
 * 💵Briahna Murray - City of Pasco contract lobbyist

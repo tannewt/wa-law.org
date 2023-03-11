@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SB 5711)
+
 ## Meetings
 ### Fri 03/10 08:00 AM - Postsecondary Education & Workforce (PEW): SB 5711 College grant eligibility
 #### 33 👍 - Pro
@@ -17,8 +20,8 @@ Testifying:
 * Mariela Delgadillo - Heritage University
 * Jacob Katz - SBCTC
 * Shannon Cosgrove - State Board of Community and Technical Colleges
-* Puneet Birk - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
-* Puneet Birk - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
+* 💵Puneet Birk - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
+* 💵Puneet Birk - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
 
 #### 0 👎 - Con
 
@@ -30,7 +33,7 @@ Testifying:
 * 💵Alex Davidson - The Associated Students of the University of Washington
 * Heather Hudson - Washington Student Achievement Council
 * Yokiko Hayashi-Saguil - SBCTC
-* Collin Bannister - ASWSU
+* 💵Collin Bannister - ASWSU
 
 #### 0 👎 - Con
 
@@ -43,7 +46,7 @@ Testifying:
 * Becky Thompson - Washington Student Achievement Council
 * Jacob Katz - SBCTC
 * Yokiko Hayashi-Saguil - SBCTC
-* Collin Bannister - ASWSU
+* 💵Collin Bannister - ASWSU
 * Savannah Eakin - ASWSU
 * Adán Mendoza-Sandoval - VP, WA Student Association
 

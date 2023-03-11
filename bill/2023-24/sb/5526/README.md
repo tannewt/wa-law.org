@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Update WA Medicaid rates to ease long-term care staffing crisis | The Seattle Times](https://www.seattletimes.com/opinion/update-wa-medicaid-rates-to-ease-long-term-care-staffing-crisis/#:~:text=Senate Bill 5526)
+
 ## Meetings
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SSB 5526 Nursing facility rates
 #### 53 👍 - Pro

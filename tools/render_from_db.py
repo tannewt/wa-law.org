@@ -132,6 +132,18 @@ for bill_rowid, prefix, bill_number in cur:
         rm.write_text("\n".join(revision_readme))
     bill_readme.append("")
 
+    articles = db.cursor()
+    articles.execute("SELECT organizations.name, organizations.slug, web_articles.url, text_fragment, title, date_posted FROM web_articles, organizations WHERE bill_rowid = ? AND web_articles.organization_rowid = organizations.rowid ORDER BY date_posted DESC", (bill_rowid,))
+    articles = articles.fetchall()
+    if articles:
+        bill_readme.append("## Articles")
+        for org, org_slug, url, text_fragment, title, date_posted in articles:
+            # mtime = date_posted
+            # if date_posted:
+            #     mtime = date_posted.strftime("%m/%d/%Y")
+            bill_readme.append(f"* [{org}](/org/{org_slug}/) - [{title}]({url}{text_fragment})")
+        bill_readme.append("")
+
     bill_readme.append("## Meetings")
     meetings = db.cursor()
     meetings.execute("SELECT agenda_items.rowid, meetings.committee_rowid, start_time, meetings.notes, agenda_items.description FROM agenda_items, meetings WHERE agenda_items.meeting_rowid = meetings.rowid AND agenda_items.bill_rowid = ? ORDER BY start_time DESC, agenda_items.description", (bill_rowid,))

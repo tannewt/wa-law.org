@@ -8,6 +8,11 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## Articles
+* [The Urbanist](/org/the_urbanist/) - [Washington Legislature’s New Thinking About Housing | The Urbanist](https://www.theurbanist.org/2023/03/01/washington-legislatures-new-thinking-about-housing/#:~:text=HB 1245)
+* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB 1245)
+* [Sightline Institute](/org/sightline_institute/) - [Washington Lot Split Bills Would Create Starter Homes, Support Community Stability - Sightline Institute](https://www.sightline.org/2023/01/24/washington-lot-split-bills-would-create-starter-homes-support-community-stability/#:~:text=(HB 1245))
+
 ## Meetings
 ### Tue 03/14 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): ESHB 1245 Lot splitting
 Sign up to testify:

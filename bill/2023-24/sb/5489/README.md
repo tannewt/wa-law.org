@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=SB 5489)
+
 ## Meetings
 ### Tue 01/24 10:30 AM - Law & Justice (LAW): SB 5489 Health care services/access
 #### 471 👍 - Pro
@@ -21,7 +24,7 @@ Testifying:
 * Dr. Suzanne Poppema
 * Alex Wehinger - Washington State Medical Association
 * 💵Alizeh Bhojani - [Legal Voice](/org/legal_voice/)
-* 💵Emily Stone - Washington State Coalition Against Domestic Violence
+* 💵Emily Stone - [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/)
 * Hillary Whitmore
 
 #### 434 👎 - Con

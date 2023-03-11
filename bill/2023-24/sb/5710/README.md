@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=SB 5710)
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SB 5710)
+
 ## Meetings
 ### Sat 02/18 09:00 AM - Ways & Means (WM): SB 5710 Behavioral health/youth
 #### 20 👍 - Pro
@@ -27,7 +31,7 @@ Testifying:
 * Kimberly Headrick - Medical Lake School District
 * 💵Melissa Gombosky - Association of Educational Service Districts
 * Mary Lynne Courtney - League of Women Voters WA...
-* Collin Bannister - ASWSU
+* 💵Collin Bannister - ASWSU
 
 #### 177 👎 - Con
 Testifying:

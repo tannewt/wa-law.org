@@ -12,7 +12,7 @@
 Testifying:
 * Larry Jefferson - Washington State Office of Public Defense
 * Jeffrey Ellis - Redemption Project of Washington
-* 💵Lara Zarowsky - Washington Innocence Project
+* 💵Lara Zarowsky - [Washington Innocence Project](/org/washington_innocence_project/)
 
 #### 27 👎 - Con
 Testifying:

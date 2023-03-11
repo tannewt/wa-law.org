@@ -8,6 +8,12 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## Articles
+* [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Priority Bills -- current status — Quaker Voice](https://www.quakervoicewa.org/priority-bills-current-status/#:~:text=1474)
+* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB 1474)
+* [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2023 Economic Justice Priorities — Quaker Voice](https://www.quakervoicewa.org/additional-2020-economic-justice-priorities/#:~:text=HB 1474/SB 5496)
+* [MyNorthwest](/org/mynorthwest/) - [Ross: The latest attempt to undo a national embarrassment - MyNorthwest.com](https://mynorthwest.com/3850821/ross-the-latest-attempt-to-undo-a-national-embarrassment/#:~:text=HB 1474)
+
 ## Meetings
 ### Fri 03/17 10:30 AM - Housing (HSG): 2SHB 1474 Covenant homeownership prg.
 Sign up to testify:
@@ -84,7 +90,7 @@ Testifying:
 * 💵Nathan Gorton - Washington REALTORS
 * Michone Preston - Habitat for Humanity of Washington State CEO
 * DENISE Rodriguez - Washington Homeownership Resource Center
-* 💵Anna Boone - Zillow Group
+* 💵Anna Boone - [Zillow Group](/org/zillow_group/)
 * John Smith
 * Evelin Martinez - Washington Homeownership Resource Center
 * Tonja Wortham - Mortgage Industry

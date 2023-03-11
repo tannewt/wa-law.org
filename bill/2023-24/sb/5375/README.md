@@ -14,7 +14,7 @@ Testifying:
 * Bob Turnage - [Republic National Distributing Company](/org/republic_national_distributing_company/)
 * 💵Vicki Christophersen - Association of Washington Spirits and Wine Distributors
 * Charlie Brown - Diageo and Fred Meyer/QFC
-* Justin Stiefel - Heritage Distilling Company
+* Justin Stiefel - [Heritage Distilling Company](/org/heritage_distilling_company/)
 * Shanan O'Driscol
 * Scott Jahnke
 * Brandon High - Southern Glazer's Wine and Spirits

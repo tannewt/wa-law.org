@@ -17,7 +17,7 @@ Testifying:
 * Rob Geddes - Albertsons Companies, Inc.
 * Dawn Bennett - NAACP and African American Leadership Forum
 * Dr. James Carter - The Breakfast Group
-* Erin Callahan - Diabetes Patient Advocacy Coalition
+* 💵Erin Callahan - [Diabetes Patient Advocacy Coalition](/org/diabetes_patient_advocacy_coalition/)
 * Sarah Wood - Patient Pocket Protector Coalition
 
 #### 13 👎 - Con

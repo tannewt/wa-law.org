@@ -7,6 +7,15 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [WA House votes to ban assault weapons | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-house-votes-to-ban-assault-weapons/#:~:text=House Bill 1240)
+* [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB 1240)
+* [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=HB 1240)
+* [The Spokesman-Review](/org/the_spokesman-review/) - [State House passes bills to ban assault weapons and require background checks, safety training for gun purchases | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/08/state-house-passes-bills-to-ban-assault-weapons-an/#:~:text=House Bill 1240)
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB 1240)
+* [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=SHB 1240)
+* [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SHB 1240)
+
 ## Meetings
 ### Tue 01/17 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1240 Firearms/assault weapons
 #### 1035 👍 - Pro
@@ -38,7 +47,7 @@ Testifying:
 * 💵Albert Sardinas - FMSGS / WBBA
 * Joe Kunzler
 * Anita Thomson
-* Kathy Sakahara - Northwest Progressive Institute
+* Kathy Sakahara - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
 #### 3439 👎 - Con
 Testifying:

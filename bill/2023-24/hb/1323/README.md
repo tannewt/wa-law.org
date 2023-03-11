@@ -26,7 +26,7 @@ Sign up to testify:
 Testifying:
 * AJ Johnson - WSCFF
 * Brian Sykes
-* Ray Dumas - OPCMIA Local 528
+* 💵Ray Dumas - OPCMIA Local 528
 * 💵Erin Frasier - Washington State Building & Construction Trades Council
 * Todd Mitchell - Heat and Frost Insulators L 7
 

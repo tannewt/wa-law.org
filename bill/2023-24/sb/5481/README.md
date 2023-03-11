@@ -20,4 +20,4 @@ Testifying:
 #### 2 ❓ - Other
 Testifying:
 * Micah Matthews - Washington Medical Commission
-* Remy Kerr - Washington State Hospital Association
+* 💵Remy Kerr - Washington State Hospital Association

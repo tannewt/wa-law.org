@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB 5505)
+
 ## Meetings
 ### Thu 02/02 01:30 PM - Early Learning & K-12 Education (EDU): SB 5505 School year expansion
 #### 8 👍 - Pro

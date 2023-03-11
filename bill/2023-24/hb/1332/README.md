@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Many Bills End Their Journey in 2023 with Fiscal Cutoff - WSPTA](https://www.wastatepta.org/many-bills-end-their-journey-in-2023-with-fiscal-cutoff/#:~:text=2SHB 1332)
+
 ## Meetings
 ### Thu 03/16 01:30 PM - Early Learning & K-12 Education (EDU): 2SHB 1332 Tribes/K-12 instruction
 Sign up to testify:
@@ -35,7 +38,7 @@ Testifying:
 #### 126 👍 - Pro
 Testifying:
 * Anna Hernandez-French - OSPI
-* Bill Kallappa - Washington State Board of Education
+* Bill Kallappa - [Washington State Board of Education](/org/washington_state_board_of_education/)
 * Modesta Minthorn - [Confederated Tribes of the Umatilla Indian Reservation](/org/confederated_tribes_of_the_umatilla_indian_reservation/)
 * denny hurtado - OSPI
 * Rebecca Purser - Native Educator

@@ -9,6 +9,11 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers start remake of drug possession laws | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-lawmakers-start-remake-of-drug-possession-laws/#:~:text=Senate Bill 5536)
+* [The Spokesman-Review](/org/the_spokesman-review/) - [Washington Senate passes bill making drug possession a gross misdemeanor | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/06/washington-senate-passes-bill-making-drug-possessi/#:~:text=Senate Bill 5536)
+* [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=E2SB 5536)
+
 ## Meetings
 ### Sat 02/18 09:00 AM - Ways & Means (WM): SSB 5536 Controlled substances
 #### 46 👍 - Pro

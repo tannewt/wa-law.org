@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=SB 5609)
+
 ## Meetings
 ### Mon 02/20 09:00 AM - Ways & Means (WM): SSB 5609 Housing approval
 #### 43 👍 - Pro

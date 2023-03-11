@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [MyNorthwest](/org/mynorthwest/) - [Enumclaw, Tenino residents concerned over sex offender housing - MyNorthwest.com](https://mynorthwest.com/3839939/residents-plea-violent-sex-offenders-not-housed-community/#:~:text=SB 5544)
+
 ## Meetings

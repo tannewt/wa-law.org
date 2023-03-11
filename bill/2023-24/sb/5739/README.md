@@ -6,4 +6,8 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [MyNorthwest](/org/mynorthwest/) - [Gross: Residents step up to hold government leaders accountable - MyNorthwest.com](https://mynorthwest.com/3845143/washington-democrats-value-sex-offenders-kids/#:~:text=S.B. 5739)
+* [MyNorthwest](/org/mynorthwest/) - [Enumclaw, Tenino residents concerned over sex offender housing - MyNorthwest.com](https://mynorthwest.com/3839939/residents-plea-violent-sex-offenders-not-housed-community/#:~:text=SB 5739)
+
 ## Meetings

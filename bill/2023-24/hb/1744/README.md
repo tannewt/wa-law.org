@@ -27,4 +27,4 @@ Testifying:
 * 💵Rekha Bhatt - Washington State Charter Schools Association
 * Harium Martin Morris - Charter School Commissioner
 * Jessica de Barros - Charter School Commission
-* Randy Spaulding - Washington State Board of Education
+* Randy Spaulding - [Washington State Board of Education](/org/washington_state_board_of_education/)

@@ -37,7 +37,7 @@ Testifying:
 * Rob Geddes - Albertsons Companies, Inc.
 * Rachel Wittenauer
 * Jim Freeburg - Patient Coalition of Washington
-* Erin Callahan - Diabetes Patient Advocacy Coalition
+* 💵Erin Callahan - [Diabetes Patient Advocacy Coalition](/org/diabetes_patient_advocacy_coalition/)
 
 #### 21 👎 - Con
 Testifying:

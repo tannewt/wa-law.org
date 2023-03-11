@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=SB 5496)
+
 ## Meetings
 ### Wed 02/08 01:30 PM - Housing (HSG): SB 5496 Covenant homeownership prg.
 #### 916 👍 - Pro
@@ -23,7 +26,7 @@ Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * James Gregory
 * Darryl Smith - HomeSight
-* 💵Anna Boone - Zillow Group
+* 💵Anna Boone - [Zillow Group](/org/zillow_group/)
 * DENISE Rodriguez - Washington Homeownership Resource Center
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Kiara Daniels - Tacoma City Council

@@ -11,9 +11,9 @@
 ### Mon 02/06 10:30 AM - Human Services (HS): SB 5591 Dependent youth financial ed
 #### 42 👍 - Pro
 Testifying:
-* Sam Martin - The Mockingbird Society
+* Sam Martin - [The Mockingbird Society](/org/the_mockingbird_society/)
 * 💵Joe Adamack - Washington's Credit Unions - GWCUA
-* Emily Stochel - [College Success Foundation](/org/college_success_foundation/)
+* 💵Emily Stochel - [College Success Foundation](/org/college_success_foundation/)
 
 #### 38 👎 - Con
 

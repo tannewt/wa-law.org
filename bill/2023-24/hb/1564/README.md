@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [WA Legislature considers ban on at-home sexual assault evidence kits | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-legislature-considers-ban-on-at-home-sexual-assault-evidence-kits/#:~:text=House Bill 1564)
+
 ## Meetings
 ### Wed 03/08 08:00 AM - Law & Justice (LAW): HB 1564 OTC sexual assault kits
 #### 123 👍 - Pro
@@ -28,9 +31,9 @@ Testifying:
 * Debra Carlson-Chamberlin
 * Kaylee Powers - WA Licenced SANE
 * Andrea Cruz - Survivors of color
-* Hannah Chamberlin - Leda Health
-* Ilana Turko - Leda Health
-* Paris Crawford - Leda Health
+* Hannah Chamberlin - [Leda Health](/org/leda_health/)
+* Ilana Turko - [Leda Health](/org/leda_health/)
+* Paris Crawford - [Leda Health](/org/leda_health/)
 
 #### 0 ❓ - Other
 
@@ -65,13 +68,13 @@ Testifying:
 * Kristen Reijonen - University of Washington Kappa Delta
 * Reese Andrews - University of Washington Kappa Delta
 * Taytem Raynor - University of Washington Kappa Delta
-* Hannah Chamberlin - Leda Health
-* ilana turko - Leda Health
-* Abby Clawson - Leda Health
+* Hannah Chamberlin - [Leda Health](/org/leda_health/)
+* ilana turko - [Leda Health](/org/leda_health/)
+* Abby Clawson - [Leda Health](/org/leda_health/)
 * Krystyn Tendy - Independent Consultant, Leda Health
-* Liesel Vaidya - Leda Health
-* Madison Campbell - Leda Health
+* Liesel Vaidya - [Leda Health](/org/leda_health/)
+* Madison Campbell - [Leda Health](/org/leda_health/)
 * Hannah Chamberlin
-* Paris Crawford - Leda Health
+* Paris Crawford - [Leda Health](/org/leda_health/)
 
 #### 1 ❓ - Other

@@ -8,12 +8,16 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB 1559)
+* [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=HB 1559)
+
 ## Meetings
 ### Thu 02/23 09:00 AM - Appropriations (APP): SHB 1559 Postsecondary student needs
 #### 243 👍 - Pro
 Testifying:
 * Bryce McKibben - The Hope Center for College, Community, and Justice
-* Collin Bannister - Associated Students of WSU Pullman
+* 💵Collin Bannister - Associated Students of WSU Pullman
 * Joseph-Gabriel Burke - President, WA Student Association
 * Jennifer Dellinger - SBCTC
 * 💵Nora Selander - Western Washington University
@@ -44,7 +48,7 @@ Testifying:
 * Ted Topper
 * Grace Booras
 * Eden McDade - South Puget Sound Community College - Student
-* Sopeara Chay - South Puget Sound Community College
+* 💵Sopeara Chay - South Puget Sound Community College
 * Jackson Feaster
 * Jacob Katz - Community and Technical Colleges
 * Jennifer Dellinger - SBCTC

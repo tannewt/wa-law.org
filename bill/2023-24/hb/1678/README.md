@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## Articles
+* [Statewide Poverty Action Network](/org/statewide_poverty_action_network/) - [Bill Tracker – Statewide Poverty Action Network](https://povertyaction.org/bill-tracker/#:~:text=HB 1678)
+
 ## Meetings
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1678 Dental therapists
 #### 331 👍 - Pro

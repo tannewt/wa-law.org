@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## Articles
+* [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=HB 1025)
+
 ## Meetings
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1025 Police/private actions
 #### 472 👍 - Pro
@@ -34,7 +37,7 @@ Testifying:
 #### 836 👍 - Pro
 Testifying:
 * Barbara Geiger
-* 💵Lara Zarowsky - Washington Innocence Project
+* 💵Lara Zarowsky - [Washington Innocence Project](/org/washington_innocence_project/)
 * Lorena Gonzalez - ACLU of Washington
 * Joanna Schwartz - UCLA School of Law
 * Sonia Joseph - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)

@@ -21,7 +21,7 @@ Testifying:
 * Tim Eyman - Permanent Offense
 * Tim Eyman
 * Lorilee Gates
-* Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
 * Laurie Layne
 
 #### 2 ❓ - Other

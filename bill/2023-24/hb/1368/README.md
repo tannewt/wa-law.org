@@ -7,6 +7,12 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=HB 1368)
+* [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=HB 1368)
+* [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! February 7, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-february-7-2023/#:~:text=HB 1368)
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB 1368)
+
 ## Meetings
 ### Tue 02/07 04:00 PM - Environment & Energy (ENVI): HB 1368 Zero emission school buses
 #### 64 👍 - Pro

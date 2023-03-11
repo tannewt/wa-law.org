@@ -18,7 +18,7 @@ Sign up to testify:
 Testifying:
 * Jolayne Houtz
 * Hector Martinez
-* Collin Bannister - ASWSU
+* 💵Collin Bannister - ASWSU
 * Bob Embrey
 * Gary Jenkins - Pullman Police Chief (Ret.)
 * Nicole Andrea Rodriguez

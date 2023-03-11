@@ -6,6 +6,14 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Seattle is now building more ADUs than single houses | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/seattle-is-now-building-more-adus-than-single-houses/#:~:text=House Bill 1337)
+* [PubliCola](/org/publicola/) - [As Density Bills Move Forward, It's Statewide Housing Goals vs. "Local Control" - PubliCola](https://publicola.com/2023/03/01/as-density-bills-move-forward-its-statewide-housing-goals-vs-local-control/#:~:text=House Bill 1337)
+* [The Urbanist](/org/the_urbanist/) - [Washington Legislature’s New Thinking About Housing | The Urbanist](https://www.theurbanist.org/2023/03/01/washington-legislatures-new-thinking-about-housing/#:~:text=HB 1337)
+* [Sightline Institute](/org/sightline_institute/) - [New Washington Bill Would Legalize More Homes and Businesses by Transit - Sightline Institute](https://www.sightline.org/2023/01/16/new-washington-bill-would-legalize-more-homes-and-businesses-by-transit/#:~:text=HB 1337)
+* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB 1337)
+* [Sightline Institute](/org/sightline_institute/) - [Washington Bill Would Boost In-law Apartments Throughout the State - Sightline Institute](https://www.sightline.org/2023/01/21/washington-bill-would-boost-in-law-apartments-throughout-the-state/#:~:text=HB 1337)
+
 ## Meetings
 ### Mon 01/23 01:30 PM - Housing (HOUS): HB 1337 Accessory dwelling units
 #### 327 👍 - Pro

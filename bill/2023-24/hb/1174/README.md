@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Criminal Justice — Quaker Voice](https://www.quakervoicewa.org/criminal-justice/#:~:text=HB 1174)
+
 ## Meetings
 ### Fri 01/13 08:00 AM - State Government & Tribal Relations (SGOV): HB 1174 Jail-based voting
 #### 0 👍 - Pro

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB 1560)
+
 ## Meetings
 ### Tue 02/07 08:00 AM - Finance (FIN): HB 1560 Property tax exemptions
 #### 16 👍 - Pro

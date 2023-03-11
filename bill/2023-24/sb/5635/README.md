@@ -16,7 +16,7 @@
 
 #### 2 ❓ - Other
 Testifying:
-* Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 ### Mon 02/13 10:30 AM - Law & Justice (LAW): SB 5635 Victims' rights

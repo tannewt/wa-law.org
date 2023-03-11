@@ -5,7 +5,7 @@
 ## [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎1 
 
 ## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍4  
-* 👍 Kelly Olson
+* 👍💵 Kelly Olson
 
 ## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses 👍2  
 
@@ -15,13 +15,13 @@
 * 👍 Teresa Groves
 
 ## [HB 1562](/bill/2023-24/hb/1562/) - Violence  👎2 
-* 👎 Anthony Blankenship
+* 👎💵 Anthony Blankenship
 
 ## [HB 1640](/bill/2023-24/hb/1640/) - Pardons and commutations 👍2  
 
 ## [SB 5101](/bill/2023-24/sb/5101/) - DOC medical placements 👍1  
 
 ## [SB 5135](/bill/2023-24/sb/5135/) - Solitary confinement 👍1  
-* 👍 Anthony Blankenship
+* 👍💵 Anthony Blankenship
 
 ## [SB 5474](/bill/2023-24/sb/5474/) - Juvenile justice 👍1  

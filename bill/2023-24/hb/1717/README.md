@@ -17,7 +17,7 @@ Sign up to testify:
 
 #### 2 👍 - Pro
 Testifying:
-* Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 0 👎 - Con
 
@@ -26,7 +26,7 @@ Testifying:
 ### Thu 02/23 09:00 AM - Appropriations (APP): HB 1717 Associate development orgs.
 #### 60 👍 - Pro
 Testifying:
-* Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
 * Heidi McCutcheon - Thurston Economic Development Council
 * Heidi McCutcheon - Thurston Economic Development Council
 * 💵Alisha Benson - Greater Spokane, Inc.
@@ -46,7 +46,7 @@ Testifying:
 * Gina Stark - [Port of Bellingham](/org/port_of_bellingham/)
 * Jonathan Smith - Yakima County Development Association
 * Brant Mayo - Grant County Economic Development Council
-* Jennifer Baker - Columbia River Economic Development Council
+* 💵Jennifer Baker - Columbia River Economic Development Council
 
 #### 0 👎 - Con
 

@@ -29,10 +29,10 @@ Testifying:
 * Tim Eyman
 * Jeff Pack - Me
 * Ronald Rivest - (none)
-* Jonah Minkoff-Zern - Public Citizen
+* Jonah Minkoff-Zern - [Public Citizen](/org/public_citizen/)
 * C.Jay Coles - [Verified Voting](/org/verified_voting/)
 * Susie Fox
-* 💵Nick Federici - Public Citizen
+* 💵Nick Federici - [Public Citizen](/org/public_citizen/)
 * Susan Greenhalgh - Free Speech For People
 
 #### 1 ❓ - Other

@@ -11,7 +11,7 @@
 ### Tue 01/31 10:30 AM - Labor & Workplace Standards (LAWS): HB 1526 Electrical inspector salary
 #### 23 👍 - Pro
 Testifying:
-* Nicole Grant - IBEW 46
+* 💵Nicole Grant - IBEW 46
 * Warren Shill - IBEW Local 46
 * Jack Knottingham - IBEW 76
 * Clint Bryson - IBEW 76

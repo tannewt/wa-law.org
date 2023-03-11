@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=HB 1679)
+
 ## Meetings
 ### Tue 02/14 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1679 Student homelessness group
 #### 107 👍 - Pro

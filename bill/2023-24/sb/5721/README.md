@@ -13,7 +13,7 @@ Testifying:
 * Lynnette Muenzberg
 * 💵Donny Donovan - IAM 751
 * 💵Emily Wittman - Aerospace Futures Alliance
-* Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
 * Mike Brown - Aero-Plastics, Inc.
 * 💵Brent Ludeman - Aviation Technical Services
 * Garry Clark - Economic Alliance Snohomish County, President & CEO

@@ -10,7 +10,7 @@
 ### Thu 03/09 01:30 PM - Finance (FIN): HB 1834 Reconciliation returns
 #### 2 👍 - Pro
 Testifying:
-* Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
 * Joseph Haberzetle
 
 #### 0 👎 - Con

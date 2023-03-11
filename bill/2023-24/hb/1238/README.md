@@ -9,6 +9,17 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Many Bills End Their Journey in 2023 with Fiscal Cutoff - WSPTA](https://www.wastatepta.org/many-bills-end-their-journey-in-2023-with-fiscal-cutoff/#:~:text=2SHB 1238)
+* [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=HB 1238)
+* [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB 1238)
+* [The Washington Bus](/org/the_washington_bus/) - [Announcing our 2023 Legislative Priorities! – The Washington Bus](http://www.washingtonbus.org/2023/01/23/announcing-our-2023-legislative-priorities/#:~:text=1238)
+* [The Washington Bus](/org/the_washington_bus/) - [Uncategorized Archives – The Washington Bus](http://www.washingtonbus.org/category/uncategorized/#:~:text=1238)
+* [The Spokesman-Review](/org/the_spokesman-review/) - [Bill to expand free school meals advances in Washington legislature | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/03/bill-to-expand-free-school-meals-advances-in-washi/#:~:text=House Bill 1238)
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB 1238)
+* [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=E2SHB 1238)
+* [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=HB 1238)
+
 ## Meetings
 ### Thu 03/16 01:30 PM - Early Learning & K-12 Education (EDU): E2SHB 1238 Free school meals
 Sign up to testify:
@@ -54,7 +65,7 @@ Testifying:
 * Aracely Calvillo - [Save the Children Action Network](/org/save_the_children_action_network/)
 * 💵Michael Moran - Confederated Tribes of the Colville Reservation
 * Andrea Davis - Coordinated Care
-* Randy Spaulding - Washington State Board of Education
+* Randy Spaulding - [Washington State Board of Education](/org/washington_state_board_of_education/)
 * Logan Endres - Washington State School Directors' Association (WSSDA)
 * Madhumitha Gandhi - Washington State School Directors' Association (WSSDA)
 * Lelach Rave - Washington Chapter of the American Academy of Pediatrics

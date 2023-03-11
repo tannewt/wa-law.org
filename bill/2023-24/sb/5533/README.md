@@ -7,6 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [PubliCola](/org/publicola/) - [Bill to Allow More Police Pursuits Would Sunset in 2025 - PubliCola](https://publicola.com/2023/02/17/bill-to-allow-more-police-pursuits-would-sunset-in-2025/#:~:text=Senate Bill 5533)
+* [PubliCola](/org/publicola/) - [PubliCola - News. Politics. Urbanism.](https://publicola.com/#:~:text=Senate Bill 5533)
+
 ## Meetings
 ### Tue 02/14 04:00 PM - Ways & Means (WM): SSB 5533 Model vehicle pursuit policy
 #### 252 👍 - Pro

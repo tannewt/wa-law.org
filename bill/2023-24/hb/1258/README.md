@@ -23,7 +23,7 @@ Testifying:
 * Annette Pitts - Experience Olympia
 * Daylan Gibbard
 * Krista Bentley - [Expedia Group](/org/expedia_group/)
-* Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
 * Dean Burke - Travel Tacoma - Mt. Rainier, Tourism & Sports
 * Adam Acampora - Woodinville Wine Country
 

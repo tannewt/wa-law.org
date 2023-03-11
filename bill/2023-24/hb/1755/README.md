@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [The Urbanist](/org/the_urbanist/) - [Mosqueda Sets Sights on Transit, Housing, Health Care in County Run | The Urbanist](https://www.theurbanist.org/2023/02/09/mosqueda-sets-sights-on-transit-housing-health-care-in-county-run/#:~:text=HB 1755)
+
 ## Meetings

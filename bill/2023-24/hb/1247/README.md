@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Music therapy heals: License its practitioners in WA | The Seattle Times](https://www.seattletimes.com/opinion/music-therapy-heals-license-its-practitioners-in-wa/#:~:text=HB 1247)
+
 ## Meetings
 ### Thu 03/09 10:30 AM - Health & Long Term Care (HLTC): SHB 1247 Music therapists
 #### 48 👍 - Pro

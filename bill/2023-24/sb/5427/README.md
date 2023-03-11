@@ -12,7 +12,7 @@
 Testifying:
 * Sargun Handa - ASWWU President
 * Jenna Sims
-* Kendall Kosai - OCA
+* 💵Kendall Kosai - OCA
 * 💵Stephen Paolini - Anti-Defamation League
 
 #### 795 👎 - Con
@@ -38,7 +38,7 @@ Testifying:
 * Nina Martinez - Latino Civic Alliance
 * 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
 * Bill Mowat - Jewish Community Relations Council
-* Kendall Kosai - Organization of Chinese Americans
+* 💵Kendall Kosai - Organization of Chinese Americans
 * Joe Kendo - [Washington State Labor Council](/org/washington_state_labor_council/)
 * Fay Stetz-Water - Oregon Department of Justice
 * Jenna Sims

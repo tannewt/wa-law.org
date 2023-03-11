@@ -10,7 +10,7 @@
 ### Tue 02/21 01:30 PM - Transportation (TRAN): SB 5751 Nonhighway vehicles
 #### 4 👍 - Pro
 Testifying:
-* J.R. Burke - Polaris
+* J.R. Burke - [Polaris](/org/polaris/)
 
 #### 1 👎 - Con
 

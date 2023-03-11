@@ -7,6 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=HB 1562)
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB 1562)
+
 ## Meetings
 ### Tue 02/07 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1562 Violence
 #### 513 👍 - Pro
@@ -27,14 +31,14 @@ Testifying:
 * Dawn Houghton - 4326 Springdale Hunters Rd
 * Michael Dolan
 * Kathleen McAuliffe
-* Anthony Blankenship - [Civil Survival Project](/org/civil_survival_project/)
+* 💵Anthony Blankenship - [Civil Survival Project](/org/civil_survival_project/)
 * Gerald Hankerson - NAACP Alaska Oregon Washington State-Area Conference
 * Catherine Best
-* Charlie Klein - Civil Survival
+* Charlie Klein - [Civil Survival](/org/civil_survival/)
 * Candice Brennan
 * Heidi Whalley
 * Jewel Shepherd - Black Student Union
-* Kelly Olson - Civil Survival
+* 💵Kelly Olson - [Civil Survival](/org/civil_survival/)
 * Melody Simle - Real Justice WA
 * Joseph Jones - The kether Corporation
 * Derek Boyd

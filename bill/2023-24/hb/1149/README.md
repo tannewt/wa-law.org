@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB 1149)
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of the Pacific Northwest - First Legislative Update of 2023 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate1102023#:~:text=HB 1149)
+
 ## Meetings
 ### Thu 01/12 01:30 PM - Capital Budget (CB): HB 1149 Housing/capital expenditures
 #### 0 👍 - Pro

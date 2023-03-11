@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Reach out to voters before reworking their ballots | The Seattle Times](https://www.seattletimes.com/opinion/reach-out-to-voters-before-reworking-their-ballots/#:~:text=Senate Bill 5378)
+
 ## Meetings
 ### Tue 01/31 01:30 PM - State Government & Elections (SGE): SB 5378 Voter education
 #### 25 👍 - Pro

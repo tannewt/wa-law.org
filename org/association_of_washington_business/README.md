@@ -68,12 +68,12 @@
 
 ## [HB 1254](/bill/2023-24/hb/1254/) - Periodic adjustments/DOR  👎2 
 * 👎💵 Peter Godlewski
-* 👎 Emily Shay
+* 👎💵 Emily Shay
 
 ## [HB 1256](/bill/2023-24/hb/1256/) - Higher ed. matching grants 👍1  
 
 ## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍3  
-* 👍 Emily Shay
+* 👍💵 Emily Shay
 
 ## [HB 1267](/bill/2023-24/hb/1267/) - Rural public facilities/tax 👍1  
 
@@ -138,7 +138,7 @@
 ## [HB 1421](/bill/2023-24/hb/1421/) - Voluntary stewardship prog. 👍1  
 
 ## [HB 1422](/bill/2023-24/hb/1422/) - Reusable packing materials 👍1  
-* 👍 Emily Shay
+* 👍💵 Emily Shay
 
 ## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍2  
 
@@ -161,7 +161,7 @@
 * ❓ Mike Ennis
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax  👎1 
-* 👎 Emily Shay
+* 👎💵 Emily Shay
 
 ## [HB 1484](/bill/2023-24/hb/1484/) - Estate tax exclusion amount 👍1  
 
@@ -174,7 +174,7 @@
 * 👎💵 Peter Godlewski
 
 ## [HB 1510](/bill/2023-24/hb/1510/) - Community preservation auth.  👎1 
-* 👎 Emily Shay
+* 👎💵 Emily Shay
 
 ## [HB 1511](/bill/2023-24/hb/1511/) - Income/child care programs 👍1  
 
@@ -200,7 +200,7 @@
 ## [HB 1568](/bill/2023-24/hb/1568/) - Long-term care professionals 👍1  
 
 ## [HB 1573](/bill/2023-24/hb/1573/) - Dairy, etc. tax preferences 👍1  
-* 👍 Emily Shay
+* 👍💵 Emily Shay
 
 ## [HB 1576](/bill/2023-24/hb/1576/) - Dentist compact 👍1  
 * 👍💵 Amy Anderson
@@ -215,15 +215,15 @@
 * 👎 Mike Ennis
 
 ## [HB 1644](/bill/2023-24/hb/1644/) - Margin tax  👎1 
-* 👎 Emily Shay
+* 👎💵 Emily Shay
 
 ## [HB 1658](/bill/2023-24/hb/1658/) - Work experience/H.S. credit 👍1  
 
 ## [HB 1686](/bill/2023-24/hb/1686/) - Salmon recovery 👍1  
 
 ## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍4  
-* 👍 Emily Shay
-* 👍 Emily Shay
+* 👍💵 Emily Shay
+* 👍💵 Emily Shay
 
 ## [HB 1720](/bill/2023-24/hb/1720/) - Riparian grant program 👍1  
 * 👍 Mike Ennis
@@ -240,17 +240,17 @@
 ## [HB 1764](/bill/2023-24/hb/1764/) - Asphalt & agg. valuation 👍1  
 
 ## [HB 1767](/bill/2023-24/hb/1767/) - Federal funding opps. 👍1  
-* 👍 Emily Shay
+* 👍💵 Emily Shay
 
 ## [HB 1786](/bill/2023-24/hb/1786/) - Milk product haulers 👍1  
 
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services  👎1 
 
 ## [HB 1793](/bill/2023-24/hb/1793/) - Wireless devices tax  👎1 
-* 👎 Emily Shay
+* 👎💵 Emily Shay
 
 ## [HB 1795](/bill/2023-24/hb/1795/) - Estate tax  👎1 
-* 👎 Emily Shay
+* 👎💵 Emily Shay
 
 ## [HB 1815](/bill/2023-24/hb/1815/) - Payment card processing/tax 👍2  
 
@@ -260,7 +260,7 @@
 * 👎 Mike Ennis
 
 ## [HB 1834](/bill/2023-24/hb/1834/) - Reconciliation returns 👍1  
-* 👍 Emily Shay
+* 👍💵 Emily Shay
 
 ## [HB 1839](/bill/2023-24/hb/1839/) - Train length  👎1 
 * 👎 Mike Ennis
@@ -338,7 +338,7 @@
 ## [SB 5305](/bill/2023-24/sb/5305/) - Office of career connect WA 👍2  
 
 ## [SB 5309](/bill/2023-24/sb/5309/) - Petroleum transportation/tax  👎1 
-* 👎 Emily Shay
+* 👎💵 Emily Shay
 
 ## [SB 5316](/bill/2023-24/sb/5316/) - DCYF background check fees 👍1  
 
@@ -400,7 +400,7 @@
 ## [SB 5484](/bill/2023-24/sb/5484/) - Food/environmental steward. 👍1  
 
 ## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax  👎1 
-* 👎 Emily Shay
+* 👎💵 Emily Shay
 
 ## [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra. 👍1  
 
@@ -442,6 +442,6 @@
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  
 
 ## [SB 5721](/bill/2023-24/sb/5721/) - Advanced aerospace training 👍1  
-* 👍 Emily Shay
+* 👍💵 Emily Shay
 
 ## [SB 5733](/bill/2023-24/sb/5733/) - Payment card processing/tax 👍1  

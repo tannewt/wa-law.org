@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [The anesthesiologist assistant model is not a good fit for WA | The Seattle Times](https://www.seattletimes.com/opinion/the-anesthesiologist-assistant-model-is-not-a-good-fit-for-wa/#:~:text=House Bill 1038)
+
 ## Meetings
 ### Fri 01/20 08:00 AM - Health Care & Wellness (HCW): HB 1038 Anesthesiologist assistants
 #### 2398 👍 - Pro

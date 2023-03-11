@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Department of Natural Resources](/org/department_of_natural_resources/) - [Legislative Priorities | WA - DNR](https://www.dnr.wa.gov/about/legislative#:~:text=HB 1460)
+
 ## Meetings
 ### Thu 03/09 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SHB 1460 DNR land
 #### 508 👍 - Pro

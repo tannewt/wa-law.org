@@ -8,6 +8,16 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=HB 1789)
+* [The Seattle Times](/org/the_seattle_times/) - [DNR wants in on WA’s emerging carbon-credit market | The Seattle Times](https://www.seattletimes.com/seattle-news/environment/was-dnr-wants-in-on-emerging-carbon-market-to-sell-credits-instead-of-timber/#:~:text=House Bill 1789)
+* [Department of Natural Resources](/org/department_of_natural_resources/) - [Carbon SB 5688 - HB 1789 | WA - DNR](https://www.dnr.wa.gov/CarbonBill#:~:text=HB 1789)
+* [Department of Natural Resources](/org/department_of_natural_resources/) - [Legislative Priorities | WA - DNR](https://www.dnr.wa.gov/about/legislative#:~:text=HB 1789)
+* [Department of Natural Resources](/org/department_of_natural_resources/) - [Commissioner Franz Celebrates House Passage of Carbon Credit Bill | WA - DNR](https://www.dnr.wa.gov/news/commissioner-franz-celebrates-house-passage-carbon-credit-bill#:~:text=House Bill 1789)
+* [Department of Natural Resources](/org/department_of_natural_resources/) - [Commissioner Franz Urges House to Pass Carbon Credit Bill | WA - DNR](https://www.dnr.wa.gov/news/commissioner-franz-urges-house-pass-carbon-credit-bill#:~:text=House Bill 1789)
+* [Department of Natural Resources](/org/department_of_natural_resources/) - [State Looks to Seize Opportunity to Cash in on Carbon for Schools and Communities | WA - DNR](https://www.dnr.wa.gov/news/state-looks-seize-opportunity-cash-carbon-schools-and-communities#:~:text=House Bill 1789)
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB 1789)
+
 ## Meetings
 ### Mon 02/20 08:00 AM - Capital Budget (CB): SHB 1789 Ecosystem services
 #### 12 👍 - Pro

@@ -6,13 +6,17 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SB 5566)
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SB 5566)
+
 ## Meetings
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SB 5566 Postsecondary student needs
 #### 133 👍 - Pro
 Testifying:
 * Lauren Hibbs - State Board for Community & Tech Colleges
 * Madeline Sprute - Tacoma Community College
-* Puneet Birk - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
+* 💵Puneet Birk - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
 
 #### 52 👎 - Con
 
@@ -27,7 +31,7 @@ Testifying:
 * Riham Hashi
 * Charlie Reyerson - WashPIRG Students
 * 💵Alex Hur - NW Education Access
-* Collin Bannister - ASWSU
+* 💵Collin Bannister - ASWSU
 * Joseph Gabriel Burke - President, Washington Student Association
 * Adán Mendoza-Sandoval - VP, WA Student Association
 * Adán Mendoza - Associated Students of Central Washington University
@@ -35,7 +39,7 @@ Testifying:
 * Jacob Katz - State Board of Community and Technical Colleges
 * Jennifer Dellinger - State Board of Community and Technical Colleges
 * Riham Hashi - United Way of King County
-* Sopeara Chay - South Puget Sound Community College
+* 💵Sopeara Chay - South Puget Sound Community College
 * Michelle Carrillo - Student, Central Washington University
 
 #### 9 👎 - Con

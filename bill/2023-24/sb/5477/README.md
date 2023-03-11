@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [WA legislators work further on issue of missing and murdered Indigenous women | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/bills-to-create-solutions-to-missing-and-murdered-indigenous-women/#:~:text=Senate Bill 5477)
+
 ## Meetings
 ### Mon 03/13 01:30 PM - Community Safety, Justice, & Reentry (CSJR): 2SSB 5477 Murdered indigenous women
 Sign up to testify:

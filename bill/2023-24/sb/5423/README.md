@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/research/2023-legislative-agenda/#:~:text=5423)
+
 ## Meetings
 ### Thu 02/09 04:00 PM - Ways & Means (WM): SSB 5423 Working conn. child care
 #### 40 👍 - Pro

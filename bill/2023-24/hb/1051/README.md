@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [WA attorney general pushes to strengthen laws against robocalls | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-attorney-general-pushes-to-strengthen-laws-against-robocalls/#:~:text=proposed legislation (House Bill 1051))
+
 ## Meetings
 ### Thu 03/16 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): ESHB 1051 Robocalls & telephone scams
 Sign up to testify:

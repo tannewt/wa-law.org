@@ -7,6 +7,11 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers want to beef up state aid for college students | The Seattle Times](https://www.seattletimes.com/seattle-news/education/wa-lawmakers-want-to-beef-up-state-aid-for-college-students/#:~:text=Senate Bill 5703)
+* [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SB 5703)
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SSB 5703)
+
 ## Meetings
 ### Mon 02/20 09:00 AM - Ways & Means (WM): SSB 5703 College grant/bridge grants
 #### 79 👍 - Pro
@@ -34,7 +39,7 @@ Testifying:
 * Reika Sasano
 * Danya Vargas Almejo
 * Heather Hudson - Washington Student Achievement Council
-* Sopeara Chay - South Puget Sound Community College
+* 💵Sopeara Chay - South Puget Sound Community College
 * Greyson Wolfe - Student from South Puget Sound Community College
 * 💵Alex Davidson - The Associated Students of the University of Washington
 * Timothy Billing - ASUW President
@@ -45,9 +50,9 @@ Testifying:
 * Alec Acosta-Vega - Associated Students of Central Washington University
 * Joseph Gabriel Burke - Director of Governmental Affairs, Associated Students of Central Washington University
 * Michelle Carrillo - Associated Students of Central Washington University
-* Jessica Smith
+* 💵Jessica Smith
 * Naira Gonzales Aranda - Associated Students of Western Washington University
-* Collin Bannister - ASWSU
+* 💵Collin Bannister - ASWSU
 * Haley Pistole
 
 #### 0 👎 - Con

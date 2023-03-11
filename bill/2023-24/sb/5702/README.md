@@ -8,6 +8,10 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=SB 5702)
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SSB 5702)
+
 ## Meetings
 ### Wed 03/15 04:00 PM - Appropriations (APP): ESSB 5702 Student homelessness pilot
 Sign up to testify:
@@ -42,7 +46,7 @@ Testifying:
 * Naira Gonzales Aranda
 * 💵Alex Davidson - The Associated Students of the University of Washington
 * Adán Mendoza-Sandoval - VP, WA Student Association
-* Sopeara Chay - South Puget Sound Community College
+* 💵Sopeara Chay - South Puget Sound Community College
 * Madeline Sprute - Associated Students of Tacoma Community College
 
 #### 0 👎 - Con

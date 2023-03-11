@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [WA’s low-income tax credit, established in 2008, available for  first time | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/was-low-income-tax-credit-established-in-2008-available-for-first-time/#:~:text=House Bill 1000)
+
 ## Meetings
 ### Tue 01/31 08:00 AM - Finance (FIN): HB 1000 Working families' tax credit
 #### 37 👍 - Pro

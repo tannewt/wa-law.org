@@ -6,13 +6,16 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Criminal Justice — Quaker Voice](https://www.quakervoicewa.org/criminal-justice/#:~:text=SB 5135)
+
 ## Meetings
 ### Mon 01/23 10:30 AM - Human Services (HS): SB 5135 Solitary confinement
 #### 313 👍 - Pro
 Testifying:
-* Marriam Oliver - Washington Innocence Project
+* Marriam Oliver - [Washington Innocence Project](/org/washington_innocence_project/)
 * Micaela Romero
-* Anthony Blankenship - [Civil Survival Project](/org/civil_survival_project/)
+* 💵Anthony Blankenship - [Civil Survival Project](/org/civil_survival_project/)
 * Quest Jolliffe
 * 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
 * David Shirley - Defy Ventures

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | Southeast Seattle Schools Launch Fundraiser; Local Authors Featured in Short Story Dispenser | South Seattle Emerald](https://southseattleemerald.com/2023/03/08/news-gleams-southeast-seattle-schools-launch-fundraiser-local-authors-featured-in-short-story-dispenser/#:~:text=HB-1324)
+
 ## Meetings
 ### Mon 01/23 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1324 Prior juvenile offenses
 #### 329 👍 - Pro

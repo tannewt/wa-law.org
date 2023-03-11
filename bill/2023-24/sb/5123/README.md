@@ -8,6 +8,10 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [WA Senate passes bill to bar hiring discrimination for cannabis use | The Seattle Times](https://www.seattletimes.com/seattle-news/wa-senate-passes-bill-to-bar-hiring-discrimination-for-cannabis-use/#:~:text=Senate Bill 5123)
+* [The Spokesman-Review](/org/the_spokesman-review/) - [Bill would eliminate pre-employment cannabis testing in Washington | The Spokesman-Review](https://www.spokesman.com/stories/2023/feb/27/bill-to-eliminate-pre-employment-cannabis-testing-/#:~:text=Senate Bill 5123)
+
 ## Meetings
 ### Tue 03/14 10:30 AM - Labor & Workplace Standards (LAWS): ESSB 5123 Cannabis/employment
 Sign up to testify:

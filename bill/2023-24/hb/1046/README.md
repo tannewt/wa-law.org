@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=HB 1046)
+* [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers of both parties back 13 bills meant to boost housing supply | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-lawmakers-of-both-parties-back-13-bills-meant-to-boost-housing-supply/#:~:text=House Bill 1046)
+
 ## Meetings
 ### Wed 02/01 01:30 PM - Housing (HSG): HB 1046 Housing dev. income limits
 #### 36 👍 - Pro
