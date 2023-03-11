@@ -16,7 +16,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30997&aId=153217&caId=22143&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30997&aId=153217&caId=22143&tId=4)
 
-#### 7 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Carol Sullivan - League of Women Voters of WA
 * Maxwell Brooke
@@ -24,7 +24,9 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 ### Fri 01/13 08:00 AM - State Government & Tribal Relations (SGOV): HB 1048 Voting rights act
 #### 0 👍 - Pro

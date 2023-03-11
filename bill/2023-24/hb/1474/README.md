@@ -16,13 +16,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30985&aId=153168&caId=22178&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30985&aId=153168&caId=22178&tId=4)
 
-#### 36 👍 - Pro
+#### 114 👍 - Pro
 Testifying:
 * Darryl Smith - HomeSight
 * Corinna Obar - Washington State Housing Finance Commiss
 * 💵Shaun Scott - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* Patience Malaba - Housing Development Consortium of Seattle-King County
+* 💵Clifford Cawthon - Habitat for Humanity Seattle-King County
+* Corinna Obar - Washington State Housing Finance Commiss
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

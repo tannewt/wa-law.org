@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30998&aId=153222&caId=22177&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30998&aId=153222&caId=22177&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Miles Garver
+* zanual king - NORTH MASON SCHOOL DISTRICT MIDDLE SCHOOL STUDENT
 
 #### 0 👎 - Con
 

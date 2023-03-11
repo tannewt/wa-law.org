@@ -17,13 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30954&aId=153380&caId=21968&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30954&aId=153380&caId=21968&tId=4)
 
-#### 2 👍 - Pro
+#### 21 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
+* Barbara Posthumus - Lake Washington School District
 
 ### Thu 02/02 04:00 PM - Ways & Means (WM): SSB 5174 Student transportation
 #### 25 👍 - Pro

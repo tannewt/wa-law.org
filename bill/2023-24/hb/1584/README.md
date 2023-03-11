@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Fri 03/10 08:00 AM - Environment, Energy & Technology (ENET): ESHB 1584 Nuclear reactor technology
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30920&aId=152962&caId=21920&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30920&aId=152962&caId=21920&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30920&aId=152962&caId=21920&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30920&aId=152962&caId=21920&tId=4)
-
-#### 489 👍 - Pro
+#### 516 👍 - Pro
 Testifying:
 * Stephanie Barnard - Rep. Stephanie Barnard (8LD, Prime Sponsor)
 * Madison Schroder - Generation Atomic
@@ -29,7 +23,7 @@ Testifying:
 * 💵Bill Clarke - Grant County PUD
 * Randall Coleman - IBEW
 
-#### 141 👎 - Con
+#### 157 👎 - Con
 Testifying:
 * Cathryn Chudy - Oregon Conservancy Foundation
 * Phil Lusk
@@ -39,6 +33,7 @@ Testifying:
 * Laura Feldman
 * 💵Suellen Mele
 * Frann Michel
+* glenna cole allee
 * Laura Feldman
 
 #### 2 ❓ - Other

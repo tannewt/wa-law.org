@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)
 
 ## Meetings
 ### Mon 03/13 01:30 PM - Early Learning & K-12 Education (EDU): E2SHB 1565 Prof. education workforce
@@ -16,7 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30999&aId=153236&caId=22105&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30999&aId=153236&caId=22105&tId=4)
 
-#### 2 👍 - Pro
+#### 26 👍 - Pro
+Testifying:
+* 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
+* Katie Taylor - Office of Superintendent of Public Instruction
+* Ben Mitchell - Foundation for Tacoma Students
 
 #### 0 👎 - Con
 

@@ -16,7 +16,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30999&aId=153234&caId=22103&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30999&aId=153234&caId=22103&tId=4)
 
-#### 2 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* Kim Reykdal - Office of Superintendent of Public Instruction
+* Jana Parker - Seattle Special Education PTSA
+* Alexander Oliver - Student at Clover Park Technical College
+* Brianne Robinson - Student at South Puget Sound Community College
+* Jamie Traugott - State Board for Community and Technical Colleges
 
 #### 0 👎 - Con
 

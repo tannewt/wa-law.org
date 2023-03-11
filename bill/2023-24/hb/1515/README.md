@@ -17,11 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30976&aId=153135&caId=22166&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30976&aId=153135&caId=22166&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Evan Klein - Health Care Authority (HCA) - Special Assistant, Legislative & Policy Affairs
 
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1515 Behavioral health contracts
 #### 28 👍 - Pro

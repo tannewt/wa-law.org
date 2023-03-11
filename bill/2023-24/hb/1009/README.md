@@ -16,13 +16,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30975&aId=153130&caId=22091&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30975&aId=153130&caId=22091&tId=4)
 
-#### 1 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* Maria Tobin - South Sound Military & Communities Partnership
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Anna Hernandez-French - Office of Superintendent of Public Instruction
 
 ### Mon 01/30 04:00 PM - Appropriations (APP): SHB 1009 Military spouse employment
 #### 23 👍 - Pro

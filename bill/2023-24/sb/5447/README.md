@@ -16,10 +16,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30977&aId=153431&caId=22006&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30977&aId=153431&caId=22006&tId=4)
 
-#### 4 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * 💵Donny Donovan - IAM 751
 * Joel Creswell - Washington Department of Ecology
+* 💵Connor Haggerty - Washington State University
+* 💵Mark Riker - Washington State Building and Construction Trades Council
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* Dana Debel - Delta Airlines
+* Scott Kennedy - [Alaska Airlines](/org/alaska_airlines/)
+* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Lars Ericksen - Seattle Metropolitan Chamber of Commerce
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
+* Ryan Calkins - [Port of Seattle](/org/port_of_seattle/)
+* Darrin Morgan - SkyNRG
+* 💵Tom Wolf - bp America
+* Andrew Troske - Parr Pacific
+* Derek Phelps - twelve
+* Peter Dahling
 
 #### 2 👎 - Con
 

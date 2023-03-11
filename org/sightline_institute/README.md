@@ -5,7 +5,7 @@
 
 ## [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act 👍1  
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍4  
 * 👍💵 Dan Bertolet
 
 ## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍2  
@@ -41,7 +41,7 @@
 
 ## [HB 1428](/bill/2023-24/hb/1428/) - Pedestrians/roadways 👍1  
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍3  
 
 ## [HB 1517](/bill/2023-24/hb/1517/) - Transit-oriented development 👍1  
 * 👍💵 Dan Bertolet

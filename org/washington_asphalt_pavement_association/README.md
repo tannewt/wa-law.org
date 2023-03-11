@@ -7,3 +7,5 @@
 
 ## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge  👎1 
 * 👎 Dave Gent
+
+## [SB 5272](/bill/2023-24/sb/5272/) - Speed safety cameras 👍1  

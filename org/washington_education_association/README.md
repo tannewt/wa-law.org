@@ -285,7 +285,7 @@
 
 ## [HB 1750](/bill/2023-24/hb/1750/) - Water safety education 👍1  
 
-## [HB 1756](/bill/2023-24/hb/1756/) - Supporting clean energy through tax changes that increase revenue to local governments, schools, and impacted communities. 👍1  
+## [HB 1756](/bill/2023-24/hb/1756/) - Energy/tax 👍1  
 
 ## [HB 1774](/bill/2023-24/hb/1774/) - Public empl. salary surveys 👍1  
 

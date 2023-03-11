@@ -18,6 +18,9 @@
 
 ## [HB 1295](/bill/2023-24/hb/1295/) - DCYF placement agreements 👍1  
 
+## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options   ❓1
+* ❓💵 Juliet Schindler
+
 ## [HB 1332](/bill/2023-24/hb/1332/) - Tribes/K-12 instruction 👍1  
 
 ## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  

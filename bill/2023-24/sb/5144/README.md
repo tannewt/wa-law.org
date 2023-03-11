@@ -24,9 +24,10 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Megan Warfield - WA State Department of Ecology
 
 ### Sat 02/18 09:00 AM - Ways & Means (WM): SSB 5144 Batteries/environment
 #### 28 👍 - Pro

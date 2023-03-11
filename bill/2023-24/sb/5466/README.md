@@ -16,13 +16,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31021&aId=153318&caId=22027&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31021&aId=153318&caId=22027&tId=4)
 
-#### 36 👍 - Pro
+#### 206 👍 - Pro
 Testifying:
 * Joe Kunzler - None
 * Cynthia Stewart - League of Women Voters of WA
 * Dave Andersen - Washington Department of Commerce
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 
-#### 4 👎 - Con
+#### 7 👎 - Con
 
 #### 0 ❓ - Other
 

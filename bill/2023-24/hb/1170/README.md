@@ -11,20 +11,14 @@
 
 ## Meetings
 ### Fri 03/10 08:00 AM - Environment, Energy & Technology (ENET): E2SHB 1170 Climate response strategy
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30920&aId=152959&caId=21917&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30920&aId=152959&caId=21917&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30920&aId=152959&caId=21917&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30920&aId=152959&caId=21917&tId=4)
-
-#### 212 👍 - Pro
+#### 229 👍 - Pro
 Testifying:
 * Sarah Sutton - Environment and Culture Partners
 * Grace Doleshel - Our Climate
 * Jennifer Hennessey - Washington State Department of Ecology
 * Scott Richards - [The Nature Conservancy](/org/the_nature_conservancy/)
 
-#### 14 👎 - Con
+#### 19 👎 - Con
 Testifying:
 * John Worthington - AAMC
 

@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Fri 03/10 08:00 AM - State Government & Tribal Relations (SGOV): ESSB 5082 Advisory votes
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152830&caId=21865&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152830&caId=21865&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152830&caId=21865&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152830&caId=21865&tId=4)
-
-#### 1442 👍 - Pro
+#### 1574 👍 - Pro
 Testifying:
 * Carol Sullivan
 * 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
@@ -38,7 +32,7 @@ Testifying:
 * Julie Andrzejewski
 * Prof. Patrick Schoettmer
 
-#### 1141 👎 - Con
+#### 1465 👎 - Con
 Testifying:
 * Eric pratt - America
 * Tim Eyman
@@ -56,6 +50,7 @@ Testifying:
 * Mark Quenneville
 * Joshua Hardwick
 * Tad Sommerville
+* suzanne rohner
 
 #### 1 ❓ - Other
 

@@ -22,7 +22,7 @@
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
 * 👍💵 Carolyn Brotherton
 
-## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍3  
+## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍4  
 
 ## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍2  
 * 👍 Sam Hatzenbeler

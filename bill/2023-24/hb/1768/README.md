@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 02/22 08:00 AM - Finance (FIN): HB 1768 Green businesses/utility tax

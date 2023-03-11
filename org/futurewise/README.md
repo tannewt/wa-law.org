@@ -4,7 +4,7 @@
 
 ## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍1  
 
-## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍9  
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍11  
 * 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 
@@ -38,7 +38,7 @@
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍1  
 * 👍💵 Bryce Yadon
 
-## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍3  
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍5  
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
 

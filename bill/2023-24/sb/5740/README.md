@@ -19,7 +19,7 @@ Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Gary Ernsdorf - King County Prosecutor’s Office
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 * 💵James King - [Independent Business Association](/org/independent_business_association/)

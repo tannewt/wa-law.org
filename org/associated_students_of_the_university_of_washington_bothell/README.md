@@ -2,7 +2,8 @@
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
 
-## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍3  
+## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍4  
+* 👍 Puneet Birk
 
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
 
@@ -34,4 +35,6 @@
 
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍5  
 
-## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍2  
+## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍4  
+* 👍 Puneet Birk
+* 👍 Puneet Birk

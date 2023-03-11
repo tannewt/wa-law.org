@@ -17,11 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30985&aId=153457&caId=22180&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30985&aId=153457&caId=22180&tId=4)
 
-#### 6 👍 - Pro
+#### 192 👍 - Pro
 Testifying:
 * Joe Kunzler - None
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* MATTHEW HUTCHINS AIA CPHD - [American Institute of Architects Washington Council](/org/american_institute_of_architects_washington_council/)
 
-#### 9 👎 - Con
+#### 24 👎 - Con
 
 #### 0 ❓ - Other
 

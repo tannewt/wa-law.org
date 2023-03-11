@@ -1,6 +1,7 @@
 # Food Lifeline
 
-## [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍2  
+## [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍3  
+* 👍💵 Aaron Czyzewski
 * 👍💵 Aaron Czyzewski
 * 👍💵 Aaron Czyzewski
 
@@ -60,7 +61,8 @@
 
 ## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  
 
-## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
+## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍3  
+* 👍 Linda Nageotte
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
 

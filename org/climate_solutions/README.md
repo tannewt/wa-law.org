@@ -78,8 +78,9 @@
 ## [SB 5431](/bill/2023-24/sb/5431/) - Zero emission school buses 👍1  
 * 👍💵 Leah Missik
 
-## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel   ❓1
+## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍1  ❓1
 * ❓💵 Leah Missik
+* 👍💵 Leah Missik
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍2  
 * 👍💵 Leah Missik

@@ -21,9 +21,11 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Michael Finkle - District and Municipal Court Judges Association
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Jessica Giner - Renton Municipal Court
 
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SSB 5440 Competency evaluations
 #### 5 👍 - Pro

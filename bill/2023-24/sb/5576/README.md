@@ -20,7 +20,9 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 ### Mon 01/30 10:30 AM - Law & Justice (LAW): SB 5576 Sexual assault procedures
 #### 5 👍 - Pro

@@ -9,16 +9,11 @@
 
 ## Meetings
 ### Fri 03/10 08:00 AM - Health Care & Wellness (HCW): SSB 5189 Behavioral health support
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30917&aId=153041&caId=21952&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30917&aId=153041&caId=21952&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30917&aId=153041&caId=21952&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30917&aId=153041&caId=21952&tId=4)
-
-#### 55 👍 - Pro
+#### 63 👍 - Pro
 Testifying:
 * Bill O'Connell - [University of Washington](/org/university_of_washington/)
 * Anna Ratzliff - [University of Washington](/org/university_of_washington/)
+* Kevin Criswell
 
 #### 1 👎 - Con
 Testifying:

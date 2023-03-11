@@ -10,26 +10,21 @@
 
 ## Meetings
 ### Fri 03/10 08:00 AM - State Government & Tribal Relations (SGOV): ESSB 5152 Synthetic media
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152832&caId=21867&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152832&caId=21867&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152832&caId=21867&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152832&caId=21867&tId=4)
-
-#### 6 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Steve Hobbs - Secretary of State
 * Larry Seaquist
 * 💵Matt Steuerwalt - Adobe
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Eric pratt - America
 * Joshua Hardwick
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Sean Flynn - Public Disclosure Commission
+* 💵Rowland Thompson - WA State Association of Broadcasters
 
 ### Tue 01/24 01:30 PM - State Government & Elections (SGE): SB 5152 Synthetic media
 #### 4 👍 - Pro

@@ -140,7 +140,7 @@
 ## [SB 5364](/bill/2023-24/sb/5364/) - Lot splitting 👍2  
 * 👍💵 Josie Cummings
 
-## [SB 5374](/bill/2023-24/sb/5374/) - County critical areas 👍1  
+## [SB 5374](/bill/2023-24/sb/5374/) - County critical areas 👍2  
 
 ## [SB 5386](/bill/2023-24/sb/5386/) - Document recording fees  👎1 
 * 👎💵 Josie Cummings

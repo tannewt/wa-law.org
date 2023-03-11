@@ -14,12 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31005&aId=153387&caId=22142&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31005&aId=153387&caId=22142&tId=4)
 
-#### 8 👍 - Pro
+#### 75 👍 - Pro
 Testifying:
 * Ash Awad - McKinstry
 * Lincoln Ferris - Seattle Colleges
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* William Frare - Washington State Department of Enterprise Services
 
 #### 0 ❓ - Other
 

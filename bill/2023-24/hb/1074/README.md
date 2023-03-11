@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30984&aId=153167&caId=22152&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30984&aId=153167&caId=22152&tId=4)
 
-#### 33 👍 - Pro
+#### 197 👍 - Pro
 Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)

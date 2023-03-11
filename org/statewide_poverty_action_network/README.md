@@ -78,7 +78,7 @@
 * 👍💵 Marcy Bowers
 * 👍💵 Marcy Bowers
 
-## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍2  
+## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍3  
 
 ## [HB 1811](/bill/2023-24/hb/1811/) - Insurance/credit exceptions  👎1 
 

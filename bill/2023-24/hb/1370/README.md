@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30969&aId=153480&caId=22186&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30969&aId=153480&caId=22186&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Drew Bouton - Department of Financial Institutions
+* Faith Anderson - Department of Financial Institutions
 
 #### 0 👎 - Con
 

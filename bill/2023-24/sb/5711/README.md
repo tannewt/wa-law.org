@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 03/10 08:00 AM - Postsecondary Education & Workforce (PEW): SB 5711 College grant eligibility
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30904&aId=153096&caId=21959&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30904&aId=153096&caId=21959&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30904&aId=153096&caId=21959&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30904&aId=153096&caId=21959&tId=4)
-
-#### 29 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * Yokiko Hayashi-Saguil - SBCTC
 * Jacob Vigdor - University of Washington Faculty/ Council of Faculty
@@ -23,6 +17,8 @@ Testifying:
 * Mariela Delgadillo - Heritage University
 * Jacob Katz - SBCTC
 * Shannon Cosgrove - State Board of Community and Technical Colleges
+* Puneet Birk - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
+* Puneet Birk - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
 
 #### 0 👎 - Con
 

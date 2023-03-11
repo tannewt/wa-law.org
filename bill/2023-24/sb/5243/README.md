@@ -17,11 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31031&aId=153370&caId=22001&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31031&aId=153370&caId=22001&tId=4)
 
-#### 4 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Natalya Yudkovsky - Washington State PTA
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Kate Atvars - Lake Washington School District
 
 ### Thu 02/09 04:00 PM - Ways & Means (WM): SSB 5243 High school and beyond plans
 #### 26 👍 - Pro

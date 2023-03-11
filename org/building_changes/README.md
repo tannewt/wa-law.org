@@ -36,9 +36,13 @@
 ## [HB 1679](/bill/2023-24/hb/1679/) - Student homelessness group 👍1  
 * 👍💵 Megan Veith
 
+## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
+
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures 👍1  
 
 ## [SB 5230](/bill/2023-24/sb/5230/) - Extended foster care 👍2  
+
+## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍1  
 
 ## [SB 5474](/bill/2023-24/sb/5474/) - Juvenile justice 👍2  
 

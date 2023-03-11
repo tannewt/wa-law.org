@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 03/10 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): SB 5323 Dept. of veterans affairs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30910&aId=152829&caId=21861&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30910&aId=152829&caId=21861&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30910&aId=152829&caId=21861&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30910&aId=152829&caId=21861&tId=4)
-
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Heidi Audette - WA State Department of Veterans Affairs
 * Anthony Varela - Veterans Legislative Coalition

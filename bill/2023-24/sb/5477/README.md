@@ -16,11 +16,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30970&aId=153103&caId=21982&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30970&aId=153103&caId=21982&tId=4)
 
-#### 23 👍 - Pro
+#### 37 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 ### Mon 02/20 09:00 AM - Ways & Means (WM): SSB 5477 Murdered indigenous women
 #### 55 👍 - Pro

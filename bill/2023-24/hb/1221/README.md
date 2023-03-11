@@ -8,15 +8,10 @@
 
 ## Meetings
 ### Fri 03/10 08:00 AM - State Government & Elections (SGE): HB 1221 Lottery players/PRA
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30918&aId=152992&caId=21939&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30918&aId=152992&caId=21939&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30918&aId=152992&caId=21939&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30918&aId=152992&caId=21939&tId=4)
-
-#### 2 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Kristi Weeks - Washington's Lottery
+* 💵Rowland Thompson - Allied Daily Newspapers of WA, WA Newspaper Publishers Assn, WA State Assn of Broadcasters
 
 #### 0 👎 - Con
 

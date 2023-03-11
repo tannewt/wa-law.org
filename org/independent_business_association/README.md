@@ -36,7 +36,7 @@
 
 ## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I  👎1 
 
-## [SB 5268](/bill/2023-24/sb/5268/) - Public works procurement 👍2  
+## [SB 5268](/bill/2023-24/sb/5268/) - Public works procurement 👍3  
 * 👍💵 James King
 * 👍💵 James King
 

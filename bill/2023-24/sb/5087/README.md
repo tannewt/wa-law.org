@@ -15,11 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30950&aId=153392&caId=21974&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30950&aId=153392&caId=21974&tId=4)
 
-#### 0 👍 - Pro
+#### 38 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 01/16 10:30 AM - Law & Justice (LAW): SB 5087 Defects and omissions
 #### 35 👍 - Pro

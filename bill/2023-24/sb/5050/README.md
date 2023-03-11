@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Fri 03/10 08:00 AM - Health Care & Wellness (HCW): ESSB 5050 Breast implant surgery
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30917&aId=153040&caId=21951&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30917&aId=153040&caId=21951&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30917&aId=153040&caId=21951&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30917&aId=153040&caId=21951&tId=4)
-
-#### 5 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Samantha Wellman
 * Michelle Ugenti Rita

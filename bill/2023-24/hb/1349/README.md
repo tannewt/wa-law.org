@@ -8,19 +8,14 @@
 
 ## Meetings
 ### Fri 03/10 10:30 AM - Housing (HSG): HB 1349 Foreclosure protections
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30905&aId=152972&caId=21922&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30905&aId=152972&caId=21922&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30905&aId=152972&caId=21922&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30905&aId=152972&caId=21922&tId=4)
-
-#### 28 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * Raelene Schifano - HOA Fightclub non profit
 * Patrick Johansen - RiseUpWA, Housing Justice Committee
 * Christina Henry
 * DENISE Rodriguez - Washington Homeownership Resource Center
 * Meredith Bruch - Northwest Justice Project
+* Robert McDonald - Quality Loan Service Corp.
 
 #### 0 👎 - Con
 

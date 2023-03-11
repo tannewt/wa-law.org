@@ -99,9 +99,9 @@
 
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget   ❓1
 
-## [SB 5192](/bill/2023-24/sb/5192/) - Derelict vessel appeals 👍1  
+## [SB 5192](/bill/2023-24/sb/5192/) - Derelict vessel appeals 👍2  
 
-## [SB 5229](/bill/2023-24/sb/5229/) - Site readiness grants 👍2  
+## [SB 5229](/bill/2023-24/sb/5229/) - Site readiness grants 👍3  
 * 👍 Chris Herman
 * 👍 Chris Herman
 
@@ -110,7 +110,7 @@
 
 ## [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍1  
 
-## [SB 5287](/bill/2023-24/sb/5287/) - Wind turbine blade recycling 👍1  
+## [SB 5287](/bill/2023-24/sb/5287/) - Wind turbine blade recycling 👍2  
 
 ## [SB 5379](/bill/2023-24/sb/5379/) - Associate development orgs. 👍2  
 
@@ -131,7 +131,8 @@
 ## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍1  ❓1
 * ❓💵 John Stuhlmiller
 
-## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍2  
+## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍3  
+* 👍 Eric ffitch
 * 👍 Eric ffitch
 
 ## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍2  

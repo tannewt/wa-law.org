@@ -1,6 +1,7 @@
 # Association of Washington Cities
 
-## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍1  
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
+* 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
 ## [HB 1014](/bill/2023-24/hb/1014/) - Fire protection projects 👍1  
@@ -8,6 +9,9 @@
 ## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions  👎2 
 * 👎💵 Candice Bock
 * 👎💵 Candice Bock
+
+## [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act   ❓1
+* ❓💵 Candice Bock
 
 ## [HB 1050](/bill/2023-24/hb/1050/) - Apprenticeship utilization   ❓1
 * ❓ Brandy DeLange
@@ -62,7 +66,8 @@
 ## [HB 1304](/bill/2023-24/hb/1304/) - Electric security alarms  👎1 
 * 👎💵 Carl Schroeder
 
-## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records   ❓1
+## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records   ❓2
+* ❓💵 Candice Bock
 * ❓💵 Candice Bock
 
 ## [HB 1326](/bill/2023-24/hb/1326/) - Utility connection charges 👍1  
@@ -124,12 +129,16 @@
 ## [HB 1519](/bill/2023-24/hb/1519/) - Local project review   ❓1
 * ❓💵 Carl Schroeder
 
+## [HB 1521](/bill/2023-24/hb/1521/) - Industrial insurance/duties  👎1 
+* 👎💵 Candice Bock
+
 ## [HB 1527](/bill/2023-24/hb/1527/) - Tax increment financing 👍1  
 * 👍💵 Candice Bock
 
 ## [HB 1544](/bill/2023-24/hb/1544/) - Shoreline program review 👍1  
 
-## [HB 1577](/bill/2023-24/hb/1577/) - Municipal officers/contracts 👍1  
+## [HB 1577](/bill/2023-24/hb/1577/) - Municipal officers/contracts 👍2  
+* 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍1  
@@ -220,6 +229,8 @@
 ## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍2  
 * 👍💵 Carl Schroeder
 
+## [SB 5336](/bill/2023-24/sb/5336/) - Main street trust fund 👍1  
+
 ## [SB 5349](/bill/2023-24/sb/5349/) - Postretirement employment 👍1  
 
 ## [SB 5361](/bill/2023-24/sb/5361/) - Law enf. officers/increase 👍1  
@@ -241,6 +252,9 @@
 
 ## [SB 5418](/bill/2023-24/sb/5418/) - Definition of public work  👎1 
 * 👎 Brandy DeLange
+
+## [SB 5424](/bill/2023-24/sb/5424/) - Flexible work/peace officers 👍1  
+* 👍 Lindsey Hueer
 
 ## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎2 
 * 👎 Lindsey Hueer

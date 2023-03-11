@@ -22,6 +22,8 @@
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
 * 👍💵 Neil Strege
 
+## [SB 5079](/bill/2023-24/sb/5079/) - Tuition establishment date 👍1  
+
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards  👎1 
 
 ## [SB 5305](/bill/2023-24/sb/5305/) - Office of career connect WA 👍2  
@@ -30,5 +32,7 @@
 * 👍💵 Neil Strege
 
 ## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍2  
+
+## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍1  
 
 ## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages 👍2  

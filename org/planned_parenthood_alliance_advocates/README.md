@@ -22,6 +22,8 @@
 
 ## [HB 1696](/bill/2023-24/hb/1696/) - Stalking-related offenses 👍1  
 
+## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
+
 ## [SB 5179](/bill/2023-24/sb/5179/) - Death with dignity act 👍2  
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
@@ -38,9 +40,9 @@
 
 ## [SB 5414](/bill/2023-24/sb/5414/) - Elections law violation info  👎1 
 
-## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍1  
+## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍2  
 
-## [SB 5477](/bill/2023-24/sb/5477/) - Murdered indigenous women 👍1  
+## [SB 5477](/bill/2023-24/sb/5477/) - Murdered indigenous women 👍2  
 
 ## [SB 5481](/bill/2023-24/sb/5481/) - Uniform telehealth act 👍1  
 

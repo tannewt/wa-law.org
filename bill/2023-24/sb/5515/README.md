@@ -16,7 +16,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31003&aId=153248&caId=22035&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31003&aId=153248&caId=22035&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* J. Lee Schultz - Washington State Board of Education
 
 #### 0 👎 - Con
 

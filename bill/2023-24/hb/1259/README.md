@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 03/10 08:00 AM - State Government & Elections (SGE): HB 1259 Secretary of state exec team
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30918&aId=152993&caId=21940&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30918&aId=152993&caId=21940&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30918&aId=152993&caId=21940&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30918&aId=152993&caId=21940&tId=4)
-
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 

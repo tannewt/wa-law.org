@@ -18,7 +18,7 @@ Sign up to testify:
 
 #### 4 👍 - Pro
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Esther Miller
 

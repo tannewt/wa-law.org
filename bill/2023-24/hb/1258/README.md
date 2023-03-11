@@ -15,7 +15,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30968&aId=153472&caId=22181&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30968&aId=153472&caId=22181&tId=4)
 
-#### 0 👍 - Pro
+#### 101 👍 - Pro
+Testifying:
+* Kevin Lewis - Visit Tri-Cities
+* Becky Bogard - State of Washington Tourism
+* David Blandford - [Washington Tourism Alliance](/org/washington_tourism_alliance/)
+* Annette Pitts - Experience Olympia
+* Daylan Gibbard
+* Krista Bentley - [Expedia Group](/org/expedia_group/)
+* Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
+* Dean Burke - Travel Tacoma - Mt. Rainier, Tourism & Sports
+* Adam Acampora - Woodinville Wine Country
 
 #### 0 👎 - Con
 

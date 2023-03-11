@@ -3,7 +3,7 @@
 ## [HB 1509](/bill/2023-24/hb/1509/) - Community solar 👍1  
 * 👍 Kate Browns
 
-## [HB 1756](/bill/2023-24/hb/1756/) - Supporting clean energy through tax changes that increase revenue to local governments, schools, and impacted communities.   ❓1
+## [HB 1756](/bill/2023-24/hb/1756/) - Energy/tax   ❓1
 * ❓💵 Kate Brouns
 
 ## [SB 5168](/bill/2023-24/sb/5168/) - Energy independence act  👎1 

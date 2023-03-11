@@ -10,22 +10,18 @@
 
 ## Meetings
 ### Fri 03/10 08:00 AM - Health & Long Term Care (HLTC): ESHB 1251 Water system notices
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30931&aId=152871&caId=21901&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30931&aId=152871&caId=21901&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30931&aId=152871&caId=21901&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30931&aId=152871&caId=21901&tId=4)
-
-#### 202 👍 - Pro
+#### 208 👍 - Pro
 Testifying:
 * Stuart Cooper - American Environmental Health Studies Project, Inc.
 * DDS, Elisabeth Warder - CHAS Dental Director
 * Nicole Woodruff - Board Certified Family Nurse Practitioner
 * 💵Priyanka Bushana - Smile Spokane
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Tamra Smilanich
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Tue 01/24 10:30 AM - Local Government (LG): HB 1251 Water system notices
 #### 243 👍 - Pro

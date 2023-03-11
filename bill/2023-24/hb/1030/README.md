@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 03/10 10:30 AM - Higher Education & Workforce Development (HEWD): HB 1030 Applied doctorate degrees
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30899&aId=153028&caId=21943&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30899&aId=153028&caId=21943&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30899&aId=153028&caId=21943&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30899&aId=153028&caId=21943&tId=4)
-
-#### 6 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * David Buri - Eastern Washington University
 * 💵Nora Selander - Western Washington University

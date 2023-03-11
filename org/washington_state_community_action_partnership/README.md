@@ -73,7 +73,7 @@
 
 ## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  
 
-## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
+## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍2  
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 

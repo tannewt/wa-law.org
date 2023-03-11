@@ -75,6 +75,8 @@
 
 ## [SB 5240](/bill/2023-24/sb/5240/) - Unemployment ins. appeals 👍1  
 
+## [SB 5284](/bill/2023-24/sb/5284/) - Campaign finance disclosure  👎1 
+
 ## [SB 5291](/bill/2023-24/sb/5291/) - Liquor licenses 👍1  
 * 👍💵 Riley Smith
 

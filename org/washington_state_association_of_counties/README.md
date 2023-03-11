@@ -1,5 +1,7 @@
 # Washington State Association of Counties
 
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍1  
+
 ## [HB 1022](/bill/2023-24/hb/1022/) - Support & services levies 👍2  
 * 👍💵 Juliana Roe
 * 👍💵 Juliana Roe
@@ -102,7 +104,8 @@
 * 👎💵 Juliana Roe
 * 👎💵 Juliana Roe
 
-## [HB 1515](/bill/2023-24/hb/1515/) - Behavioral health contracts 👍3  
+## [HB 1515](/bill/2023-24/hb/1515/) - Behavioral health contracts 👍4  
+* 👍💵 Juliana Roe
 * 👍💵 Juliana Roe
 
 ## [HB 1519](/bill/2023-24/hb/1519/) - Local project review 👍2  
@@ -143,8 +146,9 @@
 * ❓💵 Paul Jewell
 * ❓💵 Paul Jewell
 
-## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel   ❓1
+## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel  👎1 ❓1
 * ❓💵 Juliana Roe
+* 👎💵 Juliana Roe
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 * ❓💵 Mike Hoover
@@ -200,7 +204,8 @@
 ## [SB 5357](/bill/2023-24/sb/5357/) - Detached ADUs 👍1  
 * 👍💵 Paul Jewell
 
-## [SB 5358](/bill/2023-24/sb/5358/) - Veterans' services 👍2  
+## [SB 5358](/bill/2023-24/sb/5358/) - Veterans' services 👍3  
+* 👍💵 Juliana Roe
 * 👍💵 Juliana Roe
 
 ## [SB 5361](/bill/2023-24/sb/5361/) - Law enf. officers/increase 👍1  
@@ -215,7 +220,8 @@
 ## [SB 5380](/bill/2023-24/sb/5380/) - Clean energy siting   ❓1
 * ❓💵 Paul Jewell
 
-## [SB 5386](/bill/2023-24/sb/5386/) - Document recording fees 👍2  
+## [SB 5386](/bill/2023-24/sb/5386/) - Document recording fees 👍3  
+* 👍💵 Juliana Roe
 * 👍💵 Juliana Roe
 
 ## [SB 5390](/bill/2023-24/sb/5390/) - Establishing a programmatic safe harbor agreement on forestlands. 👍1  
@@ -237,7 +243,8 @@
 
 ## [SB 5523](/bill/2023-24/sb/5523/) - Forensic pathologists 👍1  
 
-## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍1  
+## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍2  
+* 👍💵 Juliana Roe
 * 👍💵 Juliana Roe
 
 ## [SB 5609](/bill/2023-24/sb/5609/) - Housing approval  👎1 

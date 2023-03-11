@@ -16,9 +16,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30975&aId=153128&caId=22089&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30975&aId=153128&caId=22089&tId=4)
 
-#### 0 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* 💵Erin Frasier - Washington State Building & Construction Trades Council
+* Matt Chapman - Ironworkers
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -17,14 +17,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153148&caId=22155&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153148&caId=22155&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Patrick McGah - Individual citizen
 * 💵John Traynor - Washington State Labor Council, AFL-CIO
+* Cher Scarlett
 
-#### 0 👎 - Con
+#### 13 👎 - Con
+Testifying:
+* 💵Patrick Connor - NFIB
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Taya Briley - Washington State Hospital Association
 
 ### Thu 02/23 09:00 AM - Appropriations (APP): SHB 1320 Personnel records
 #### 13 👍 - Pro

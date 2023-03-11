@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30975&aId=153131&caId=22092&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30975&aId=153131&caId=22092&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Elizabeth Harvey - [Washington Court Reporters Association](/org/washington_court_reporters_association/)
 
 ### Wed 01/25 01:30 PM - Consumer Protection & Business (CPB): HB 1301 License review and reporting
 #### 1 👍 - Pro

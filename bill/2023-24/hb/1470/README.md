@@ -16,11 +16,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30945&aId=153005&caId=22085&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30945&aId=153005&caId=22085&tId=4)
 
-#### 1 👍 - Pro
+#### 29 👍 - Pro
+Testifying:
+* Manuel Abrego - La Resistencia
+* Maru Mora Villalpando - La Resistencia
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Meghan Kelly-Stallings - Office of the Governor
 
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1470 Private detention facilities
 #### 49 👍 - Pro

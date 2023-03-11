@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 02/07 08:00 AM - Finance (FIN): HB 1756 Supporting clean energy through tax changes that increase revenue to local governments, schools, and impacted communities. (Remote Testimony Available).

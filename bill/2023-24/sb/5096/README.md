@@ -15,11 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31008&aId=153281&caId=22036&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31008&aId=153281&caId=22036&tId=4)
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Jack Moriarty - Ownership America
 * Hilary Abell - Project Equity
 * John McNamara - Northwest Cooperative Development Center
+* Mitch Miller - GreatBanc Trust Company
 
 #### 0 👎 - Con
 

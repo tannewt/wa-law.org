@@ -11,20 +11,14 @@
 
 ## Meetings
 ### Fri 03/10 08:00 AM - State Government & Tribal Relations (SGOV): E2SSB 5112 Voter registration
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152831&caId=21866&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152831&caId=21866&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152831&caId=21866&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152831&caId=21866&tId=4)
-
-#### 349 👍 - Pro
+#### 353 👍 - Pro
 Testifying:
 * Carol Sullivan - League of Women Voters of WA
 * Steve Hobbs - Secretary of State
 * 💵Alex Alston - Washington Voting Justice Coalition
 * 💵Alex Tischenko - Center for Secure & Modern Elections
 
-#### 19 👎 - Con
+#### 25 👎 - Con
 Testifying:
 * Joshua Hardwick
 

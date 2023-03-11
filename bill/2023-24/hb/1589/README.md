@@ -9,6 +9,21 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Fri 03/17 08:00 AM - Environment, Energy & Technology (ENET): ESHB 1589 Clean energy
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31007&aId=153577&caId=22214&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31007&aId=153577&caId=22214&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31007&aId=153577&caId=22214&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31007&aId=153577&caId=22214&tId=4)
+
+#### 0 👍 - Pro
+
+#### 14 👎 - Con
+Testifying:
+* 💵Ryan Kenny - [Clean Energy](/org/clean_energy/)
+
+#### 0 ❓ - Other
+
 ### Wed 03/15 08:00 AM - Environment, Energy & Technology (ENET): ESHB 1589 Clean energy
 Sign up to testify:
 * [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153290&caId=22149&tId=1)

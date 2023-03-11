@@ -14,11 +14,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30999&aId=153233&caId=22102&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30999&aId=153233&caId=22102&tId=4)
 
-#### 14 👍 - Pro
+#### 50 👍 - Pro
+Testifying:
+* Isaac Emerson - Student for Washington State PTA
+* Michelle Nims - Washington State PTA
+* Logan Endres - Washington State School Directors' Association (WSSDA)
+* Randy Spaulding - Washington State Board of Education
+* 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Kim Reykdal - Office of Superintendent of Public Instruction
+* Ben Mitchell - Foundation for Tacoma Students
+* 💵Juliet Schindler - [College Success Foundation](/org/college_success_foundation/)
+* Steve Smith - Black Education Strategy Roundtable
 
 ### Mon 02/06 01:30 PM - Education (ED): HB 1308 Graduation pathway options
 #### 394 👍 - Pro

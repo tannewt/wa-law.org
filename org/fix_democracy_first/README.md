@@ -2,13 +2,25 @@
 
 ## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍2  
 
+## [HB 1032](/bill/2023-24/hb/1032/) - Wildfires/electric utilities 👍1  
+
+## [HB 1033](/bill/2023-24/hb/1033/) - Compostable product usage 👍1  
+
+## [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act 👍1  
+
 ## [HB 1055](/bill/2023-24/hb/1055/) - Pub safety telecommunicators 👍1  
 
 ## [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎1 
 
+## [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims 👍1  
+
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
 
+## [HB 1117](/bill/2023-24/hb/1117/) - Power supply inadequacy  👎1 
+
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
+
+## [HB 1138](/bill/2023-24/hb/1138/) - Drought preparedness 👍1  
 
 ## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍1  
 
@@ -18,7 +30,11 @@
 
 ## [HB 1164](/bill/2023-24/hb/1164/) - Appliance management 👍1  
 
+## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍1  
+
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍2  
+
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
 
 ## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍1  
 
@@ -35,6 +51,8 @@
 ## [HB 1276](/bill/2023-24/hb/1276/) - Accessory dwelling units  👎1 
 
 ## [HB 1281](/bill/2023-24/hb/1281/) - Death with dignity act 👍1  
+
+## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍1  
 
 ## [HB 1313](/bill/2023-24/hb/1313/) - Health care afford./medicare 👍1  
 
@@ -124,6 +142,8 @@
 
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial  👎1 
 
+## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍1  
+
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
 * 👍💵 Cindy Black
 
@@ -135,7 +155,7 @@
 
 ## [SB 5105](/bill/2023-24/sb/5105/) - Digital driver's licenses  👎1 
 
-## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍2  
+## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍3  
 
 ## [SB 5129](/bill/2023-24/sb/5129/) - Nuclear reactor technology  👎1 
 
@@ -143,19 +163,26 @@
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management 👍1  
 
+## [SB 5165](/bill/2023-24/sb/5165/) - Electric transm. planning 👍1  
+
 ## [SB 5169](/bill/2023-24/sb/5169/) - Medicare/health care plans 👍1  
 
-## [SB 5182](/bill/2023-24/sb/5182/) - Candidate filing 👍1  
+## [SB 5182](/bill/2023-24/sb/5182/) - Candidate filing 👍2  
+
+## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍1  
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
 
+## [SB 5198](/bill/2023-24/sb/5198/) - Mobile home community sales 👍1  
+
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures 👍1  
 
-## [SB 5207](/bill/2023-24/sb/5207/) - Controlled entities 👍2  
+## [SB 5207](/bill/2023-24/sb/5207/) - Controlled entities 👍3  
+* 👍💵 Cindy Black
 * 👍💵 Cindy Black
 * 👍💵 Cindy Black
 
-## [SB 5208](/bill/2023-24/sb/5208/) - Online voter registration 👍3  
+## [SB 5208](/bill/2023-24/sb/5208/) - Online voter registration 👍5  
 * 👍💵 Cindy Black
 * 👍💵 Cindy Black
 
@@ -165,7 +192,7 @@
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍1  
 
-## [SB 5284](/bill/2023-24/sb/5284/) - Campaign finance disclosure 👍3  
+## [SB 5284](/bill/2023-24/sb/5284/) - Campaign finance disclosure 👍4  
 * 👍💵 Cindy Black
 
 ## [SB 5356](/bill/2023-24/sb/5356/) - Procurement/automated system 👍1  
@@ -214,7 +241,7 @@
 
 ## [SB 5579](/bill/2023-24/sb/5579/) - Hydrofluorocarbons/supply  👎1 
 
-## [SB 5626](/bill/2023-24/sb/5626/) - K-12 media literacy 👍1  
+## [SB 5626](/bill/2023-24/sb/5626/) - K-12 media literacy 👍2  
 
 ## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍1  
 

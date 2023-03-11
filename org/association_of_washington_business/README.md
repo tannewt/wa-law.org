@@ -72,7 +72,8 @@
 
 ## [HB 1256](/bill/2023-24/hb/1256/) - Higher ed. matching grants 👍1  
 
-## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍2  
+## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍3  
+* 👍 Emily Shay
 
 ## [HB 1267](/bill/2023-24/hb/1267/) - Rural public facilities/tax 👍1  
 
@@ -220,7 +221,8 @@
 
 ## [HB 1686](/bill/2023-24/hb/1686/) - Salmon recovery 👍1  
 
-## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍3  
+## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍4  
+* 👍 Emily Shay
 * 👍 Emily Shay
 
 ## [HB 1720](/bill/2023-24/hb/1720/) - Riparian grant program 👍1  
@@ -230,6 +232,8 @@
 * 👎 Mike Ennis
 
 ## [HB 1738](/bill/2023-24/hb/1738/) - Universal comm. services 👍1  
+
+## [HB 1742](/bill/2023-24/hb/1742/) - Nontax statutes/DOR 👍1  
 
 ## [HB 1757](/bill/2023-24/hb/1757/) - Farmers/sales tax remittance 👍1  
 
@@ -273,7 +277,7 @@
 ## [SB 5093](/bill/2023-24/sb/5093/) - Climate response strategy   ❓1
 * ❓💵 Peter Godlewski
 
-## [SB 5096](/bill/2023-24/sb/5096/) - Employee ownership 👍2  
+## [SB 5096](/bill/2023-24/sb/5096/) - Employee ownership 👍3  
 
 ## [SB 5103](/bill/2023-24/sb/5103/) - Medicaid patients/discharge 👍1  
 
@@ -289,7 +293,7 @@
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget   ❓1
 * ❓ Mike Ennis
 
-## [SB 5166](/bill/2023-24/sb/5166/) - Cooperative finance org. B&O 👍1  
+## [SB 5166](/bill/2023-24/sb/5166/) - Cooperative finance org. B&O 👍2  
 
 ## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍1  
 
@@ -333,6 +337,9 @@
 
 ## [SB 5305](/bill/2023-24/sb/5305/) - Office of career connect WA 👍2  
 
+## [SB 5309](/bill/2023-24/sb/5309/) - Petroleum transportation/tax  👎1 
+* 👎 Emily Shay
+
 ## [SB 5316](/bill/2023-24/sb/5316/) - DCYF background check fees 👍1  
 
 ## [SB 5325](/bill/2023-24/sb/5325/) - Clean fuel/public transport.  👎1 
@@ -370,8 +377,9 @@
 
 ## [SB 5442](/bill/2023-24/sb/5442/) - Charter schools/enrichment 👍1  
 
-## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍2  
+## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍3  
 * 👍 Kris Johnson
+* 👍 Mike Ennis
 
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use  👎2 
 

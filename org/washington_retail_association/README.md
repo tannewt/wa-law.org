@@ -9,6 +9,9 @@
 
 ## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals  👎1 ❓1
 
+## [HB 1068](/bill/2023-24/hb/1068/) - Injured worker medical exams  👎1 
+* 👎 ROSE GUNDERSEN
+
 ## [HB 1072](/bill/2023-24/hb/1072/) - Motor vehicle length 👍1  
 * 👍💵 Mark Johnson
 
@@ -119,7 +122,7 @@
 
 ## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍1  
 
-## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍1  
+## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍2  
 
 ## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍2  
 * 👍💵 Mark Johnson

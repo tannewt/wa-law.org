@@ -22,7 +22,8 @@
 
 ## [HB 1277](/bill/2023-24/hb/1277/) - Paraeducator course of study 👍2  
 
-## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options 👍1  
+## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options 👍2  
+* 👍💵 Roz Thompson
 
 ## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍1  
 
@@ -41,7 +42,8 @@
 
 ## [HB 1504](/bill/2023-24/hb/1504/) - Elementary school recess   ❓1
 
-## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍2  
+## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍3  
+* 👍💵 Roz Thompson
 * 👍💵 Roz Thompson
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
@@ -61,6 +63,8 @@
 ## [SB 5522](/bill/2023-24/sb/5522/) - College grant prg. stipend 👍1  
 
 ## [SB 5527](/bill/2023-24/sb/5527/) - Graduation pathway options 👍1  
+
+## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍1  
 
 ## [SB 5617](/bill/2023-24/sb/5617/) - Career & tech. ed. courses 👍1  
 

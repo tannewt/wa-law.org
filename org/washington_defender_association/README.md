@@ -6,7 +6,8 @@
 ## [HB 1160](/bill/2023-24/hb/1160/) - Mutilation or dismemberment  👎1 
 * 👎 Jason Schwarz
 
-## [HB 1394](/bill/2023-24/hb/1394/) - Sexual offenses by youth 👍1  
+## [HB 1394](/bill/2023-24/hb/1394/) - Sexual offenses by youth 👍2  
+* 👍 Katherine Hurley
 * 👍 Katherine Hurley
 
 ## [HB 1428](/bill/2023-24/hb/1428/) - Pedestrians/roadways 👍1  

@@ -9,4 +9,4 @@
 
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍1  
 
-## [SB 5371](/bill/2023-24/sb/5371/) - Orca vessel protection 👍1  
+## [SB 5371](/bill/2023-24/sb/5371/) - Orca vessel protection 👍2  

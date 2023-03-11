@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30963&aId=153085&caId=22056&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30963&aId=153085&caId=22056&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Dave Andersen - Washington Department of Commerce
 

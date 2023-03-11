@@ -22,7 +22,7 @@ Testifying:
 * Angela Birney - City of Redmond Mayor
 * Vangie Garcia - Redmond Transportation Planning & Engineering Manager
 
-#### 0 👎 - Con
+#### 11 👎 - Con
 
 #### 0 ❓ - Other
 

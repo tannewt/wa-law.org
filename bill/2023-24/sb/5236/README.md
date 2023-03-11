@@ -17,14 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31023&aId=153331&caId=22045&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31023&aId=153331&caId=22045&tId=4)
 
-#### 379 👍 - Pro
+#### 625 👍 - Pro
 Testifying:
 * Evan Riley - RN
 * Meighan Doherty
 
 #### 2 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Thu 02/16 04:00 PM - Ways & Means (WM): SSB 5236 Hospital staffing standards
 #### 5737 👍 - Pro

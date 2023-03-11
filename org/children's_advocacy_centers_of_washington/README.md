@@ -21,10 +21,14 @@
 
 ## [HB 1766](/bill/2023-24/hb/1766/) - Protection orders/hope cards 👍1  
 
+## [SB 5010](/bill/2023-24/sb/5010/) - Synthetic opioids/endanger. 👍1  
+
 ## [SB 5070](/bill/2023-24/sb/5070/) - Nonfatal strangulation 👍1  
 
 ## [SB 5219](/bill/2023-24/sb/5219/) - Counseling compact 👍1  
 
 ## [SB 5231](/bill/2023-24/sb/5231/) - Emergency DV orders 👍1  
+
+## [SB 5355](/bill/2023-24/sb/5355/) - Sex trafficking prev. ed. 👍1  
 
 ## [SB 5453](/bill/2023-24/sb/5453/) - Female genital mutilation 👍3  

@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Fri 03/10 08:00 AM - State Government & Tribal Relations (SGOV): ESSB 5284 Campaign finance disclosure
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152835&caId=21870&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152835&caId=21870&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152835&caId=21870&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30912&aId=152835&caId=21870&tId=4)
-
-#### 490 👍 - Pro
+#### 501 👍 - Pro
 Testifying:
 * 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
 * Cindy Madigan
@@ -24,11 +18,14 @@ Testifying:
 * Sean Flynn - Public Disclosure Commission
 * 💵Eli Goss - OneAmerica
 
-#### 15 👎 - Con
+#### 24 👎 - Con
 Testifying:
 * Laurie Layne
 * Joshua Hardwick
 * Tim Eyman
+* 💵Dave Mastin - AWB
+* Jerry VanderWood - Associated General Contractors (AGC)
+* 💵Nathan Gorton - Washington REALTORS
 
 #### 3 ❓ - Other
 Testifying:

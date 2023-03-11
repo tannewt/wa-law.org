@@ -15,13 +15,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30970&aId=153101&caId=21980&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30970&aId=153101&caId=21980&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Sue Rahr
+* Maureen ("Mo") McGough - The Policing Project at NYU Law/The 30x30 Initiative to Advance Women in Policing
+* Carol Cummings
+* Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * James Peterson
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 ### Wed 02/22 01:30 PM - Ways & Means (WM): SSB 5424 Flexible work/peace officers
 #### 10 👍 - Pro

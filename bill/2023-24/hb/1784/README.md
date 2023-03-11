@@ -15,11 +15,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31013&aId=153411&caId=22114&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31013&aId=153411&caId=22114&tId=4)
 
-#### 3 👍 - Pro
+#### 94 👍 - Pro
+Testifying:
+* Lynn Kimball - Washington Association of Area Agencies on Aging
+* Linda Nageotte - [Food Lifeline](/org/food_lifeline/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 02/13 04:00 PM - Appropriations (APP): HB 1784 Hunger relief
 #### 526 👍 - Pro

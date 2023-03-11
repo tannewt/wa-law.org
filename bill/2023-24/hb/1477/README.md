@@ -16,7 +16,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31013&aId=153408&caId=22111&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31013&aId=153408&caId=22111&tId=4)
 
-#### 6 👍 - Pro
+#### 141 👍 - Pro
+Testifying:
+* Anna McKnight - Washington State Coalition Against Domestic Violence
+* Casey Lantz - United Way of King County
+* 💵Emily Vyhnanek - Working Families Tax Credit Coalition & Washington State Budget & Policy Center
 
 #### 0 👎 - Con
 
