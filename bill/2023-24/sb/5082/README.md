@@ -11,6 +11,7 @@
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [Boot confusing advisory votes from WA ballots | The Seattle Times](https://www.seattletimes.com/opinion/editorials/boot-confusing-advisory-votes-from-wa-ballots/#:~:text=Senate Bill 5082)
 * [The Seattle Times](/org/the_seattle_times/) - [Lawmakers convene in Olympia for first day of 2023 Legislature | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/lawmakers-convene-in-olympia-for-first-day-of-2023-legislature/#:~:text=SB 5082)
+* [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=Senate Bill 5082)
 
 ## Meetings
 ### Fri 03/10 08:00 AM - State Government & Tribal Relations (SGOV): ESSB 5082 Advisory votes

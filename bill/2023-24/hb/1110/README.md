@@ -32,6 +32,10 @@
 * [PubliCola](/org/publicola/) - [Sponsors of Pro-Housing Bills in Olympia Emphasize Statewide Affordability Crisis - PubliCola](https://publicola.com/2023/01/23/sponsors-of-pro-housing-bills-in-olympia-emphasize-statewide-affordability-crisis/#:~:text=House Bill 1110)
 * [The Seattle Times](/org/the_seattle_times/) - [Save our food-producing lands with high-density ‘middle housing’ | The Seattle Times](https://www.seattletimes.com/opinion/save-our-food-producing-lands-with-high-density-middle-housing/#:~:text=HB 1110)
 * [The Urbanist](/org/the_urbanist/) - [Missing Middle Housing Reform Returns for 2023 Legislative Session | The Urbanist](https://www.theurbanist.org/2023/01/04/missing-middle-housing-reform-returns-for-2023-legislative-session/#:~:text=HB 1110)
+* [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=House Bill 1110)
+* [Crosscut](/org/crosscut/) - [How WA's legislature is addressing the housing crisis in 2023 | Crosscut](https://crosscut.com/politics/2023/01/how-was-legislature-addressing-housing-crisis-2023#:~:text=House Bill 1110 would allow construction)
+* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Housing & Homelessness](https://crosscut.com/voter-guide/2023-legislative-tracker/election/housing-homelessness#:~:text=House Bill 1110)
+* [KING5](/org/king5/) - [Washington bill has lawmakers mulling over 'middle housing' | king5.com](https://www.king5.com/article/news/politics/state-politics/washington-bill-middle-housing/281-b8a2cfe3-99ba-4eb5-9856-ae2c7e41ad38#:~:text=House Bill 1110)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Bill to limit single-family housing in Washington picks up steam with House passage | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/07/bill-to-limit-single-family-housing-in-washington-/#:~:text=House Bill 1110)
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 6 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02142023#:~:text=H.B. 1110)
 
@@ -43,13 +47,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30985&aId=153457&caId=22180&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30985&aId=153457&caId=22180&tId=4)
 
-#### 192 👍 - Pro
+#### 235 👍 - Pro
 Testifying:
 * Joe Kunzler - None
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * MATTHEW HUTCHINS AIA CPHD - [American Institute of Architects Washington Council](/org/american_institute_of_architects_washington_council/)
 
-#### 24 👎 - Con
+#### 39 👎 - Con
 
 #### 0 ❓ - Other
 

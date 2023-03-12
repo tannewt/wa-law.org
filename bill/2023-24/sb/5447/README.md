@@ -16,7 +16,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30977&aId=153431&caId=22006&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30977&aId=153431&caId=22006&tId=4)
 
-#### 21 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * 💵Donny Donovan - IAM 751
 * Joel Creswell - Washington Department of Ecology

@@ -11,6 +11,7 @@
 ## Articles
 * [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=HB 1155)
 * [The Seattle Times](/org/the_seattle_times/) - [Lawmakers hear from Washingtonians on abortion bills | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-lawmakers-to-hear-testimony-on-abortion-bills/#:~:text=House Bill 1155)
+* [Crosscut](/org/crosscut/) - [Students lobby for WA bills on abortion and gender-affirming care | Crosscut](https://crosscut.com/politics/2023/02/students-lobby-wa-bills-abortion-and-gender-affirming-care#:~:text=House Bill 1155)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Washington lawmakers are trying to protect out-of-state abortion patients. Here's what you need to know: | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/05/washington-lawmakers-are-trying-to-protect-out-of-/#:~:text=House Bill 1155)
 
 ## Meetings
@@ -21,11 +22,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30942&aId=152911&caId=22136&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30942&aId=152911&caId=22136&tId=4)
 
-#### 25 👍 - Pro
+#### 53 👍 - Pro
 Testifying:
 * Andrea Alegrett - WA State Attorney General's Office
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

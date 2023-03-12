@@ -9,6 +9,7 @@
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [Abortions could get less expensive for WA patients | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/abortions-could-get-less-expensive-for-wa-patients/#:~:text=Senate Bill 5242)
 * [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=SB 5242)
+* [Crosscut](/org/crosscut/) - [Students lobby for WA bills on abortion and gender-affirming care | Crosscut](https://crosscut.com/politics/2023/02/students-lobby-wa-bills-abortion-and-gender-affirming-care#:~:text=Senate Bill 5242)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Washington lawmakers are trying to protect out-of-state abortion patients. Here's what you need to know: | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/05/washington-lawmakers-are-trying-to-protect-out-of-/#:~:text=Senate Bill 5242)
 
 ## Meetings
@@ -19,9 +20,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30992&aId=153202&caId=22018&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30992&aId=153202&caId=22018&tId=4)
 
-#### 13 👍 - Pro
+#### 42 👍 - Pro
+Testifying:
+* Claire Cunningham
 
-#### 16 👎 - Con
+#### 23 👎 - Con
 
 #### 0 ❓ - Other
 

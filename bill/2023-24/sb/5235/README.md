@@ -22,9 +22,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31019&aId=153314&caId=22023&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31019&aId=153314&caId=22023&tId=4)
 
-#### 22 👍 - Pro
+#### 30 👍 - Pro
+Testifying:
+* 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 27 👎 - Con
+#### 129 👎 - Con
 
 #### 0 ❓ - Other
 

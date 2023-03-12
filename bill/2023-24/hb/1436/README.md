@@ -29,7 +29,9 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jeff Snell - Vancouver School Districts
 
 ### Thu 02/09 04:00 PM - Appropriations (APP): HB 1436 Special education funding
 #### 319 👍 - Pro

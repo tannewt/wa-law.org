@@ -50,8 +50,11 @@ nonspecific = 0
 
 org_cur = db.cursor()
 org_cur.execute("SELECT rowid, url FROM organizations WHERE url IS NOT NULL")
-
+org_cur = org_cur.fetchall()
+i = 0
 for org_rowid, domain in org_cur:
+    print(i, len(org_cur), domain)
+    i += 1
     url_base = "https://" + domain
 
     rp = urllib.robotparser.RobotFileParser()
@@ -140,11 +143,14 @@ for org_rowid, domain in org_cur:
         except (requests.exceptions.TooManyRedirects, requests.exceptions.MissingSchema, requests.exceptions.ConnectTimeout) as e:
             print(e, page_url)
             continue
+        if page is None:
+            print("missing page", page_url)
+            continue
         try:
             if "southseattleemerald" in page_url:
                 print(page_url)
             page = BeautifulSoup(page, 'html.parser')
-        except AssertionError:
+        except (AssertionError, TypeError):
             print("failed to parse", page_url)
             continue
         canonical_url = page.find("link", rel="canonical")

@@ -7,6 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 03/16 04:00 PM - Appropriations (APP): ESB 5650 K-12 inflationary increases
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30955&aId=153640&caId=22217&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30955&aId=153640&caId=22217&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30955&aId=153640&caId=22217&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30955&aId=153640&caId=22217&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/14 04:00 PM - Ways & Means (WM): SB 5650 K-12 inflationary increases
 #### 257 👍 - Pro
 Testifying:

@@ -40,7 +40,7 @@
 ## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products  👎1 
 * 👎💵 Mark Johnson
 
-## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍2  
+## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍3  
 
 ## [HB 1302](/bill/2023-24/hb/1302/) - Vehicle report of sale 👍1  
 
@@ -72,6 +72,8 @@
 
 ## [HB 1484](/bill/2023-24/hb/1484/) - Estate tax exclusion amount 👍1  
 * 👍💵 Mark Johnson
+
+## [HB 1521](/bill/2023-24/hb/1521/) - Industrial insurance/duties  👎1 
 
 ## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware   ❓1
 
@@ -122,6 +124,8 @@
 
 ## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍1  
 
+## [SB 5110](/bill/2023-24/sb/5110/) - Labor practices/penalties  👎1 
+
 ## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍2  
 
 ## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍2  
@@ -156,6 +160,8 @@
 ## [SB 5282](/bill/2023-24/sb/5282/) - Vehicle reports of sale 👍1  
 
 ## [SB 5284](/bill/2023-24/sb/5284/) - Campaign finance disclosure  👎1 
+
+## [SB 5286](/bill/2023-24/sb/5286/) - Paid leave premiums 👍1  
 
 ## [SB 5360](/bill/2023-24/sb/5360/) - Vehicle combinations 👍1  
 * 👍💵 Mark Johnson

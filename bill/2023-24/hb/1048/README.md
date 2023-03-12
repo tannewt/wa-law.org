@@ -16,13 +16,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30997&aId=153217&caId=22143&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30997&aId=153217&caId=22143&tId=4)
 
-#### 13 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Carol Sullivan - League of Women Voters of WA
 * Maxwell Brooke
 * 💵Alex Hur - OneAmerica
+* Maxwell Brooke
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Maxwell Brooke
 
 #### 1 ❓ - Other
 Testifying:

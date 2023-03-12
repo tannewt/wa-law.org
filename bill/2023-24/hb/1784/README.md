@@ -19,10 +19,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31013&aId=153411&caId=22114&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31013&aId=153411&caId=22114&tId=4)
 
-#### 94 👍 - Pro
+#### 182 👍 - Pro
 Testifying:
 * Lynn Kimball - Washington Association of Area Agencies on Aging
 * Linda Nageotte - [Food Lifeline](/org/food_lifeline/)
+* Brian Clark
 
 #### 0 👎 - Con
 

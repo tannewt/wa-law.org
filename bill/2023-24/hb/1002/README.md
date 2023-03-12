@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Education](https://crosscut.com/voter-guide/2023-legislative-tracker/election/education#:~:text=House Bill 1002)
+
 ## Meetings
 ### Mon 03/13 10:30 AM - Law & Justice (LAW): HB 1002 Hazing penalty
 Sign up to testify:
@@ -14,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30941&aId=152985&caId=22099&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30941&aId=152985&caId=22099&tId=4)
 
-#### 800 👍 - Pro
+#### 1105 👍 - Pro
 Testifying:
 * Jolayne Houtz
 * Hector Martinez
@@ -25,11 +28,12 @@ Testifying:
 * Charlie Gartenberg
 * David Kwan
 
-#### 6 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
+* Patricia Knight
 
-#### 5 ❓ - Other
+#### 6 ❓ - Other
 
 ### Mon 01/16 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1002 Hazing penalty
 #### 764 👍 - Pro

@@ -2,6 +2,8 @@
 
 ## [HB 1257](/bill/2023-24/hb/1257/) - Cargo and passenger ports 👍1  
 
+## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍1  
+
 ## [HB 1267](/bill/2023-24/hb/1267/) - Rural public facilities/tax 👍1  
 
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services  👎3 

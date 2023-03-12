@@ -27,4 +27,6 @@
 
 ## [SB 5373](/bill/2023-24/sb/5373/) - ARNP, PA, & MD reimbursement 👍2  
 
+## [SB 5454](/bill/2023-24/sb/5454/) - RN PTSD/industrial insurance 👍1  
+
 ## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure  👎1 

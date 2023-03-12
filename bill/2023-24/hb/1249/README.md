@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Crosscut](/org/crosscut/) - [How federal weed legalization would impact Washington state | Crosscut](https://crosscut.com/politics/2023/03/how-federal-weed-legalization-would-impact-washington-state#:~:text=House Bill 1249)
+
 ## Meetings
 ### Mon 01/16 01:30 PM - Regulated Substances & Gaming (RSG): HB 1249 Retail cannabis products
 #### 5 👍 - Pro

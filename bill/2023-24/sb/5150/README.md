@@ -16,9 +16,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30958&aId=153298&caId=21967&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30958&aId=153298&caId=21967&tId=4)
 
-#### 8 👍 - Pro
+#### 25 👍 - Pro
 
-#### 5 👎 - Con
+#### 17 👎 - Con
+Testifying:
+* Tanna Skidmore
+* Aislinn Bloss - Rancher
+* Julie Dashiell
+* Nancy McRae
 
 #### 0 ❓ - Other
 

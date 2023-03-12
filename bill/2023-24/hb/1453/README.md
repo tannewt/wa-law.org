@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Crosscut](/org/crosscut/) - [How federal weed legalization would impact Washington state | Crosscut](https://crosscut.com/politics/2023/03/how-federal-weed-legalization-would-impact-washington-state#:~:text=House Bill 1453)
+
 ## Meetings
 ### Mon 02/20 08:00 AM - Finance (FIN): HB 1453 Medical cannabis/tax
 #### 54 👍 - Pro

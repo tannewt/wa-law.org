@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Policing, Crime & Courts](https://crosscut.com/voter-guide/2023-legislative-tracker/election/policing-crime-courts#:~:text=House Bill 1080)
+
 ## Meetings
 ### Tue 03/14 10:30 AM - Law & Justice (LAW): SHB 1080 Body worn cameras
 Sign up to testify:

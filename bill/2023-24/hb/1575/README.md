@@ -18,7 +18,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153123&caId=22124&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153123&caId=22124&tId=4)
 
-#### 150 👍 - Pro
+#### 158 👍 - Pro
+Testifying:
+* Matthew Melendez - Great Bend Center for Music
 
 #### 2 👎 - Con
 

@@ -16,7 +16,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30973&aId=153116&caId=22117&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30973&aId=153116&caId=22117&tId=4)
 
-#### 210 👍 - Pro
+#### 243 👍 - Pro
 Testifying:
 * Jill Bujnevicie - Will also have 8yo son Hugo Esterhay briefly speak with me
 * Douglas Sladen

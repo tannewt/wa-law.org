@@ -7,7 +7,7 @@
 ## [HB 1182](/bill/2023-24/hb/1182/) - Wine/alcohol tax exemption 👍1  
 * 👍 Josh McDonald
 
-## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍2  
+## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍3  
 * 👍 Josh McDonald
 
 ## [HB 1299](/bill/2023-24/hb/1299/) - Beverage alcohol/workforce 👍1  

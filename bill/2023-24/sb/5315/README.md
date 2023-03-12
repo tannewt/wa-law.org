@@ -13,6 +13,7 @@
 * [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SSB 5315)
 * [The Seattle Times](/org/the_seattle_times/) - [WA launches probe of private special ed schools as lawmakers consider reforms | The Seattle Times](https://www.seattletimes.com/seattle-news/times-watchdog/washington-launches-investigation-of-private-special-education-schools-as-lawmakers-consider-reforms/#:~:text=SB 5315)
 * [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=SB 5315)
+* [Crosscut](/org/crosscut/) - [WA bills propose initiatives to bring special-ed students back home | Crosscut](https://crosscut.com/politics/2023/02/wa-bills-propose-initiatives-bring-special-ed-students-back-home#:~:text=5315)
 * [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB 5315)
 
 ## Meetings

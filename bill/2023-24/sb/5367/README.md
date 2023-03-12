@@ -17,18 +17,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30993&aId=153208&caId=22063&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30993&aId=153208&caId=22063&tId=4)
 
-#### 15 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Lukas Hunter - Harmony Farms
 * MD, MPH, FAAP, Cora Breuner - Washington Chapter of the American Academy of Pediatrics
 
-#### 8 👎 - Con
+#### 14 👎 - Con
 Testifying:
 * Arthur West
 * Azmyth Kaminski
 * C.J. Montgomery
 * Dylan Summers - [Lazarus Naturals](/org/lazarus_naturals/)
 * John Worthington - AAMC
+* Joshua Schneider - Association of western hemp professionals
+* Bonny Jo Peterson - Industrial Hemp Association of WA
 
 #### 1 ❓ - Other
 Testifying:

@@ -22,7 +22,9 @@ Testifying:
 * Carol Cummings
 * 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Leslie Cushman - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 
 #### 2 ❓ - Other
 Testifying:

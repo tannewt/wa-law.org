@@ -15,7 +15,7 @@
 
 ## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records  👎2 
 
-## [HB 1458](/bill/2023-24/hb/1458/) - Apprenticeship programs/UI  👎1 
+## [HB 1458](/bill/2023-24/hb/1458/) - Apprenticeship programs/UI  👎2 
 * 👎💵 James King
 
 ## [HB 1534](/bill/2023-24/hb/1534/) - Construction consumers 👍2  
@@ -29,12 +29,14 @@
 
 ## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge  👎1 
 
+## [SB 5123](/bill/2023-24/sb/5123/) - Cannabis/employment  👎1 
+
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍2 👎1 
 * 👎💵 James King
 * 👍💵 James King
 * 👍💵 James King
 
-## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I  👎1 
+## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I  👎2 
 
 ## [SB 5268](/bill/2023-24/sb/5268/) - Public works procurement 👍3  
 * 👍💵 James King

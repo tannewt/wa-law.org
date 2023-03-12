@@ -1,5 +1,7 @@
 # City of Lakewood
 
+## [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍1  
+
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing  👎1 
 
 ## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits 👍1  

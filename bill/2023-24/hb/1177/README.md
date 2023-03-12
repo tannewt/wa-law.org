@@ -11,6 +11,9 @@
 * [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=HB 1177)
 * [The Seattle Times](/org/the_seattle_times/) - [WA should fund unit to investigate missing Indigenous people | The Seattle Times](https://www.seattletimes.com/opinion/editorials/wa-should-fund-unit-to-investigate-missing-indigenous-people/#:~:text=House Bill 1177)
 * [The Seattle Times](/org/the_seattle_times/) - [WA legislators work further on issue of missing and murdered Indigenous women | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/bills-to-create-solutions-to-missing-and-murdered-indigenous-women/#:~:text=House Bill 1177)
+* [Crosscut](/org/crosscut/) - [WA may launch a cold-case unit for missing, murdered Indigenous people | Crosscut](https://crosscut.com/news/2023/01/wa-may-launch-cold-case-unit-missing-murdered-indigenous-people#:~:text=House Bill 1177)
+* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Policing, Crime & Courts](https://crosscut.com/voter-guide/2023-legislative-tracker/election/policing-crime-courts#:~:text=House Bill 1177)
+* [Real Change](/org/real_change/) - [Washington state taking action to address MMIWP crisis | Jan. 18-24, 2023 | Real Change](https://www.realchangenews.org/news/2023/01/18/washington-state-taking-action-address-mmiwp-crisis#:~:text=HB 1177)
 
 ## Meetings
 ### Mon 02/06 04:00 PM - Appropriations (APP): SHB 1177 Indigenous women

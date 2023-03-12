@@ -8,6 +8,10 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## Articles
+* [South Seattle Emerald](/org/south_seattle_emerald/) - [‘These Are Not Detention Centers, These Are Prisons’: Hunger Strike Highlights Poor Conditions at NWDC | South Seattle Emerald](https://southseattleemerald.com/2023/02/22/these-are-not-detention-centers-these-are-prisons-hunger-strike-highlights-poor-conditions-at-nwdc/#:~:text=House Bill (HB) 1470)
+* [Real Change](/org/real_change/) - [‘These are not detention centers, these are prisons’: Hunger strike highlights poor conditions at NWDC | Feb. 15-21, 2023 | Real Change](https://www.realchangenews.org/news/2023/02/15/these-are-not-detention-centers-these-are-prisons-hunger-strike-highlights-poor#:~:text=House Bill (HB) 1470)
+
 ## Meetings
 ### Mon 03/13 10:30 AM - Human Services (HS): 2SHB 1470 Private detention facilities
 Sign up to testify:
@@ -16,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30945&aId=153005&caId=22085&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30945&aId=153005&caId=22085&tId=4)
 
-#### 29 👍 - Pro
+#### 47 👍 - Pro
 Testifying:
 * 💵Manuel Abrego - La Resistencia
 * Maru Mora Villalpando - La Resistencia

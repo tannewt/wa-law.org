@@ -16,9 +16,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153434&caId=22150&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153434&caId=22150&tId=4)
 
-#### 11 👍 - Pro
+#### 26 👍 - Pro
 
-#### 8 👎 - Con
+#### 635 👎 - Con
+Testifying:
+* steve cagley
 
 #### 0 ❓ - Other
 

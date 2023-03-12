@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Crosscut](/org/crosscut/) - [How federal weed legalization would impact Washington state | Crosscut](https://crosscut.com/politics/2023/03/how-federal-weed-legalization-would-impact-washington-state#:~:text=House Bill 1614)
+
 ## Meetings
 ### Wed 02/22 01:30 PM - Appropriations (APP): HB 1614 Home cultivation of cannabis
 #### 16 👍 - Pro

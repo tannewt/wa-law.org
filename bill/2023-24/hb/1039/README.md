@@ -16,9 +16,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30973&aId=153115&caId=22116&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30973&aId=153115&caId=22116&tId=4)
 
-#### 451 👍 - Pro
+#### 471 👍 - Pro
+Testifying:
+* xiaotong wang - 14042 ne 8th st
 
-#### 33 👎 - Con
+#### 147 👎 - Con
+Testifying:
+* Su Liew
+* Cong Lin
+* Xiaotong Wang
 
 #### 0 ❓ - Other
 

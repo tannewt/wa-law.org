@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## Articles
+* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Environment](https://crosscut.com/voter-guide/2023-legislative-tracker/election/environment#:~:text=House Bill 1010)
+
 ## Meetings
 ### Mon 03/13 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): 2SHB 1010 Shellfish sanitary control
 Sign up to testify:

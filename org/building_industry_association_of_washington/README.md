@@ -121,6 +121,9 @@
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning  👎1 
 * 👎💵 Josie Cummings
 
+## [SB 5235](/bill/2023-24/sb/5235/) - Accessory dwelling units 👍1  
+* 👍💵 Brent Ludeman
+
 ## [SB 5258](/bill/2023-24/sb/5258/) - Condos and townhouses 👍1  
 * 👍💵 Josie Cummings
 

@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Crosscut](/org/crosscut/) - [WA parents push back against proposal to lower required school age | Crosscut](https://crosscut.com/news/2023/01/wa-parents-push-back-against-proposal-lower-required-school-age#:~:text=Senate Bill 5020)
+* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Education](https://crosscut.com/voter-guide/2023-legislative-tracker/election/education#:~:text=Senate Bill 5020)
+
 ## Meetings
 ### Wed 01/11 01:30 PM - Early Learning & K-12 Education (EDU): SB 5020 Education at 6 years of age
 #### 0 👍 - Pro

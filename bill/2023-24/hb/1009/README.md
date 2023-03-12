@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## Articles
+* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Other Topics](https://crosscut.com/voter-guide/2023-legislative-tracker/election/other-topics#:~:text=House Bill 1009)
+
 ## Meetings
 ### Mon 03/13 10:30 AM - Labor & Commerce (LC): 2SHB 1009 Military spouse employment
 Sign up to testify:
@@ -16,11 +19,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30975&aId=153130&caId=22091&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30975&aId=153130&caId=22091&tId=4)
 
-#### 9 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 * Maria Tobin - South Sound Military & Communities Partnership
+* Chantelle Petrone Marker
 
 #### 0 👎 - Con
 

@@ -41,6 +41,9 @@
 ## [SB 5361](/bill/2023-24/sb/5361/) - Law enf. officers/increase  👎1 
 * 👎 Leslie Cushman
 
+## [SB 5424](/bill/2023-24/sb/5424/) - Flexible work/peace officers  👎1 
+* 👎 Leslie Cushman
+
 ## [SB 5533](/bill/2023-24/sb/5533/) - Model vehicle pursuit policy 👍2  
 * 👍 Leslie Cushman
 * 👍 Martina Morris

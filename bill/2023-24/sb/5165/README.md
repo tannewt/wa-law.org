@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Crosscut](/org/crosscut/) - [By 2050, Washington might need to buy energy from other states | Crosscut](https://crosscut.com/politics/2023/02/2050-washington-might-need-buy-energy-other-states#:~:text=Senate Bill 5165)
+
 ## Meetings
 ### Mon 03/13 01:30 PM - Environment & Energy (ENVI): SSB 5165 Electric transm. planning
 Sign up to testify:
@@ -15,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30977&aId=153137&caId=22004&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30977&aId=153137&caId=22004&tId=4)
 
-#### 70 👍 - Pro
+#### 126 👍 - Pro
 Testifying:
 * Ann Rendahl - Utilities & Transportation Commission
 * Anna Lising - Governor's Office
@@ -23,7 +26,9 @@ Testifying:
 * Kathleen Drew - Energy Facility Site Evaluation Council
 * Angus Duncan - Natural Resources Defense Council
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Amanda McKinney - Yakima County
 
 #### 0 ❓ - Other
 

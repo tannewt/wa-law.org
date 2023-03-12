@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Crosscut](/org/crosscut/) - [Some farmers question WA state's plan to pay workers overtime | Crosscut](https://crosscut.com/news/2023/02/some-farmers-question-wa-states-plan-pay-workers-overtime#:~:text=Senate Bill 5476)
+
 ## Meetings
 ### Thu 02/09 08:00 AM - Labor & Commerce (LC): SB 5476 Agricultural overtime
 #### 1079 👍 - Pro

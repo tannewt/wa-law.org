@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=Senate Bill 5047)
+
 ## Meetings
 ### Fri 01/20 08:00 AM - State Government & Elections (SGE): SB 5047 Voting rights act
 #### 207 👍 - Pro

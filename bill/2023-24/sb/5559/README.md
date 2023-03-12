@@ -11,6 +11,7 @@
 * [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=SB 5559)
 * [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SB 5559)
 * [The Seattle Times](/org/the_seattle_times/) - [WA schools still restrain, isolate students often despite state laws, report says | The Seattle Times](https://www.seattletimes.com/seattle-news/times-watchdog/wa-schools-still-restrain-isolate-students-despite-state-laws-report-says/#:~:text=Senate Bill 5559)
+* [Crosscut](/org/crosscut/) - [WA bills propose initiatives to bring special-ed students back home | Crosscut](https://crosscut.com/politics/2023/02/wa-bills-propose-initiatives-bring-special-ed-students-back-home#:~:text=SB 5559)
 * [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! February 6, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-february-6-2023/#:~:text=SB 5559)
 
 ## Meetings

@@ -7,6 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Crosscut](/org/crosscut/) - [The high school students behind the bill to end WA's 'pink tax' | Crosscut](https://crosscut.com/politics/2023/01/high-school-students-behind-bill-end-was-pink-tax#:~:text=Senate Bill 5171)
+* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Other Topics](https://crosscut.com/voter-guide/2023-legislative-tracker/election/other-topics#:~:text=Senate Bill 5171)
+
 ## Meetings
 ### Wed 02/22 01:30 PM - Ways & Means (WM): SSB 5171 Consumer products/gender
 #### 60 👍 - Pro

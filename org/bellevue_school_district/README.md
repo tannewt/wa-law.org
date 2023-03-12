@@ -35,6 +35,8 @@
 
 ## [HB 1714](/bill/2023-24/hb/1714/) - Financial literacy grants 👍1  
 
+## [HB 1732](/bill/2023-24/hb/1732/) - K-12 inflation adjustments 👍1  
+
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
 
 ## [SB 5054](/bill/2023-24/sb/5054/) - Prof. learning communities 👍1  

@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Crosscut](/org/crosscut/) - [Is a 17-inch fossil enough to inspire Washington's state dinosaur? | Crosscut](https://crosscut.com/politics/2023/02/17-inch-fossil-enough-inspire-washingtons-state-dinosaur#:~:text=House Bill 1020)
+* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Other Topics](https://crosscut.com/voter-guide/2023-legislative-tracker/election/other-topics#:~:text=House Bill 1020)
+
 ## Meetings
 ### Fri 03/17 08:00 AM - State Government & Elections (SGE): HB 1020 State dinosaur
 Sign up to testify:
@@ -14,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30998&aId=153222&caId=22177&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30998&aId=153222&caId=22177&tId=4)
 
-#### 4 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Miles Garver
 * zanual king - NORTH MASON SCHOOL DISTRICT MIDDLE SCHOOL STUDENT

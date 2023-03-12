@@ -13,6 +13,7 @@
 * [Sightline Institute](/org/sightline_institute/) - [New Washington Bill Would Legalize More Homes and Businesses by Transit - Sightline Institute](https://www.sightline.org/2023/01/16/new-washington-bill-would-legalize-more-homes-and-businesses-by-transit/#:~:text=HB 1337)
 * [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB 1337)
 * [Sightline Institute](/org/sightline_institute/) - [Washington Bill Would Boost In-law Apartments Throughout the State - Sightline Institute](https://www.sightline.org/2023/01/21/washington-bill-would-boost-in-law-apartments-throughout-the-state/#:~:text=HB 1337)
+* [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=House Bill 1337)
 
 ## Meetings
 ### Mon 01/23 01:30 PM - Housing (HOUS): HB 1337 Accessory dwelling units

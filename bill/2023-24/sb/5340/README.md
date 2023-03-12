@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Crosscut](/org/crosscut/) - [How federal weed legalization would impact Washington state | Crosscut](https://crosscut.com/politics/2023/03/how-federal-weed-legalization-would-impact-washington-state#:~:text=Senate Bill 5340)
+
 ## Meetings
 ### Mon 01/30 10:30 AM - Labor & Commerce (LC): SB 5340 Retail cannabis products
 #### 7 👍 - Pro

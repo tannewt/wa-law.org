@@ -21,13 +21,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30999&aId=153233&caId=22102&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30999&aId=153233&caId=22102&tId=4)
 
-#### 50 👍 - Pro
+#### 52 👍 - Pro
 Testifying:
 * Isaac Emerson - Student for Washington State PTA
 * Michelle Nims - Washington State PTA
 * Logan Endres - Washington State School Directors' Association (WSSDA)
 * Randy Spaulding - [Washington State Board of Education](/org/washington_state_board_of_education/)
 * 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
+* Bill Oman
 
 #### 0 👎 - Con
 

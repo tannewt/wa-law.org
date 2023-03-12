@@ -22,9 +22,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153256&caId=22148&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153256&caId=22148&tId=4)
 
-#### 19 👍 - Pro
+#### 42 👍 - Pro
 Testifying:
 * 💵Isaac Kastama - Clean & Prosperous Washington
+* Kathryn Brigham - [Confederated Tribes of the Umatilla Indian Reservation](/org/confederated_tribes_of_the_umatilla_indian_reservation/)
+* 💵Tom Wolf - bp America
 
 #### 0 👎 - Con
 

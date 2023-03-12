@@ -18,9 +18,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30949&aId=153390&caId=21972&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30949&aId=153390&caId=21972&tId=4)
 
-#### 0 👍 - Pro
+#### 5 👍 - Pro
 
-#### 2 👎 - Con
+#### 13 👎 - Con
+Testifying:
+* Laurie Layne
 
 #### 0 ❓ - Other
 

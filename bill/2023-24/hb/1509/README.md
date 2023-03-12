@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Crosscut](/org/crosscut/) - [By 2050, Washington might need to buy energy from other states | Crosscut](https://crosscut.com/politics/2023/02/2050-washington-might-need-buy-energy-other-states#:~:text=House Bill 1509)
+
 ## Meetings
 ### Thu 01/26 08:00 AM - Environment & Energy (ENVI): HB 1509 Community solar
 #### 286 👍 - Pro

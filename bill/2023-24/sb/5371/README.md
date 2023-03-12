@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## Articles
+* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Other Topics](https://crosscut.com/voter-guide/2023-legislative-tracker/election/other-topics#:~:text=Senate Bill 5371)
+
 ## Meetings
 ### Wed 03/15 08:00 AM - Agriculture and Natural Resources (AGNR): ESSB 5371 Orca vessel protection
 Sign up to testify:
@@ -16,7 +19,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30958&aId=153062&caId=21966&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30958&aId=153062&caId=21966&tId=4)
 
-#### 58 👍 - Pro
+#### 81 👍 - Pro
+Testifying:
+* Joseph Gaydos - UC Davis / SeaDoc Society
 
 #### 2 👎 - Con
 Testifying:

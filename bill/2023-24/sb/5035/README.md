@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Crosscut](/org/crosscut/) - [Push to decriminalize fades as WA Senate considers new drug law | Crosscut](https://crosscut.com/politics/2023/02/push-decriminalize-fades-wa-senate-considers-new-drug-law#:~:text=SB 5035)
+
 ## Meetings
 ### Mon 02/06 10:30 AM - Law & Justice (LAW): SB 5035 Controlled sub. possession
 #### 533 👍 - Pro

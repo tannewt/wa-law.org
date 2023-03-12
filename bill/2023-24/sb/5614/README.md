@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## Articles
+* [Crosscut](/org/crosscut/) - [Seattle exotic dancers organize to improve 'predatory' conditions | Crosscut](https://crosscut.com/politics/2023/02/seattle-exotic-dancers-organize-improve-predatory-conditions#:~:text=Senate Bill 5614)
+
 ## Meetings
 ### Wed 03/15 08:00 AM - Labor & Workplace Standards (LAWS): ESSB 5614 Adult entertainment
 Sign up to testify:
@@ -16,7 +19,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31023&aId=153333&caId=22047&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31023&aId=153333&caId=22047&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Madison Zack-Wu - Strippers Are Workers
+* Aubrey Watkins - Saw
 
 #### 0 👎 - Con
 

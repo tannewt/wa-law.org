@@ -20,7 +20,7 @@ Testifying:
 * 💵Erin Frasier - Washington State Building & Construction Trades Council
 * 💵Heather Kurtenbach - Ironworkers L 86
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Environment](https://crosscut.com/voter-guide/2023-legislative-tracker/election/environment#:~:text=Senate Bill 5104)
+
 ## Meetings
 ### Mon 02/06 04:00 PM - Ways & Means (WM): SB 5104 Marine shoreline habitat
 #### 372 👍 - Pro

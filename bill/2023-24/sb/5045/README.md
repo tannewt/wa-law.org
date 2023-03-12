@@ -11,6 +11,7 @@
 
 ## Articles
 * [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=SB 5045)
+* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Housing & Homelessness](https://crosscut.com/voter-guide/2023-legislative-tracker/election/housing-homelessness#:~:text=Senate Bill 5045)
 
 ## Meetings
 ### Tue 03/14 04:00 PM - Housing (HOUS): E2SSB 5045 ADU rental/property tax
@@ -20,7 +21,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31020&aId=153315&caId=22024&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31020&aId=153315&caId=22024&tId=4)
 
-#### 4 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Maxwell Brooke
+* Penny Sweet - Mayor, City of Kirkland
+* 💵Brian Enslow - [City of Kirkland](/org/city_of_kirkland/)
 
 #### 1 👎 - Con
 Testifying:

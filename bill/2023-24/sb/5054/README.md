@@ -20,7 +20,7 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 5 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * Liv Finne - Washington Policy Center
 * Jeannie Magdua - Conservative Ladies of Washington

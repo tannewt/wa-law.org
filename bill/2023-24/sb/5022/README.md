@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Policing, Crime & Courts](https://crosscut.com/voter-guide/2023-legislative-tracker/election/policing-crime-courts#:~:text=Senate Bill 5022)
+
 ## Meetings
 ### Mon 02/06 10:30 AM - Law & Justice (LAW): SB 5022 Fentanyl testing equipment
 #### 33 👍 - Pro

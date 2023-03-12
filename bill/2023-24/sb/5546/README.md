@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## Articles
+* [Crosscut](/org/crosscut/) - [How federal weed legalization would impact Washington state | Crosscut](https://crosscut.com/politics/2023/03/how-federal-weed-legalization-would-impact-washington-state#:~:text=Senate Bill 5546)
+
 ## Meetings
 ### Mon 02/20 09:00 AM - Ways & Means (WM): SSB 5546 Cannabis commission
 #### 51 👍 - Pro
