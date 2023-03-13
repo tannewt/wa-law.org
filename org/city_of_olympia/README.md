@@ -1,6 +1,6 @@
 # City of Olympia
 
-## [HB 1032](/bill/2023-24/hb/1032/) - Wildfires/electric utilities 👍1  
+## [HB 1032](/bill/2023-24/hb/1032/) - Wildfires/electric utilities 👍2  
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
@@ -8,6 +8,8 @@
 * 👍 Darian Lightfoot
 
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍1  
+
+## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍1  
 
 ## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍1  
 
@@ -17,7 +19,7 @@
 
 ## [HB 1192](/bill/2023-24/hb/1192/) - Electric transm. planning 👍1  
 
-## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍2  
+## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍3  
 
 ## [HB 1276](/bill/2023-24/hb/1276/) - Accessory dwelling units 👍1  
 
@@ -47,11 +49,13 @@
 
 ## [HB 1556](/bill/2023-24/hb/1556/) - Property tax rebates 👍1  
 
-## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy 👍1  
+## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy 👍2  
 
 ## [HB 1670](/bill/2023-24/hb/1670/) - Property tax limit factor 👍1  
 
 ## [HB 1753](/bill/2023-24/hb/1753/) - Derelict vessel notices 👍1  
+
+## [HB 1777](/bill/2023-24/hb/1777/) - Energy contracting 👍1  
 
 ## [HB 1817](/bill/2023-24/hb/1817/) - Housing gap voucher pilot 👍1  
 
@@ -59,7 +63,7 @@
 
 ## [SB 5039](/bill/2023-24/sb/5039/) - Wildfires/electric utilities 👍1  
 
-## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍1  
+## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍2  
 
 ## [SB 5093](/bill/2023-24/sb/5093/) - Climate response strategy 👍2  
 
@@ -80,6 +84,8 @@
 ## [SB 5235](/bill/2023-24/sb/5235/) - Accessory dwelling units 👍3  
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
+
+## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍1  
 
 ## [SB 5258](/bill/2023-24/sb/5258/) - Condos and townhouses 👍2  
 

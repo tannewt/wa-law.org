@@ -20,9 +20,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31007&aId=153577&caId=22214&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31007&aId=153577&caId=22214&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
 
-#### 24 👎 - Con
+#### 34 👎 - Con
 Testifying:
 * 💵Ryan Kenny - [Clean Energy](/org/clean_energy/)
 

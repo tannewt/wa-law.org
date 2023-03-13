@@ -16,11 +16,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31013&aId=153409&caId=22112&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31013&aId=153409&caId=22112&tId=4)
 
-#### 201 👍 - Pro
+#### 257 👍 - Pro
+Testifying:
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 02/09 04:00 PM - Appropriations (APP): HB 1732 K-12 inflation adjustments
 #### 9 👍 - Pro

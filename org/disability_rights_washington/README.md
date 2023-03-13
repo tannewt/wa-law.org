@@ -5,7 +5,7 @@
 ## [HB 1087](/bill/2023-24/hb/1087/) - Solitary confinement 👍1  
 * 👍💵 Rachael Seevers
 
-## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍1  
+## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍2  
 
 ## [HB 1132](/bill/2023-24/hb/1132/) - Limited authority officers 👍1  
 

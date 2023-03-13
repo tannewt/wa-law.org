@@ -27,16 +27,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31031&aId=153369&caId=22000&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31031&aId=153369&caId=22000&tId=4)
 
-#### 124 👍 - Pro
+#### 220 👍 - Pro
 Testifying:
 * Devony Audet - Parent of a student in special education
 * Jeremiah Audet - Student in special education
 * Julie Barrett - Conservative Ladies of Washington
 * Leslie Hamada - KSD Legislative Representative for 2023 and former President of the Board 2020 & 2022
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 
 #### 0 👎 - Con
 
-#### 10 ❓ - Other
+#### 13 ❓ - Other
 Testifying:
 * Samantha Fogg - Seattle Council PTSA
 * Tanya Aggar - WA PTA
@@ -46,6 +47,8 @@ Testifying:
 * Melissa Spiker
 * Dr. Brent Jones - Superintendent, Seattle Public Schools
 * Superintendent Josh Garcia - Superintendent, Tacoma School District
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* Michele Campbell
 
 ### Thu 02/09 04:00 PM - Ways & Means (WM): SSB 5311 Special education funding
 #### 84 👍 - Pro

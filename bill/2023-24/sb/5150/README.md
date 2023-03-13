@@ -16,9 +16,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30958&aId=153298&caId=21967&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30958&aId=153298&caId=21967&tId=4)
 
-#### 25 👍 - Pro
+#### 41 👍 - Pro
 
-#### 17 👎 - Con
+#### 26 👎 - Con
 Testifying:
 * Tanna Skidmore
 * Aislinn Bloss - Rancher

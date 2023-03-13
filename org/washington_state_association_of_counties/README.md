@@ -177,8 +177,9 @@
 
 ## [SB 5229](/bill/2023-24/sb/5229/) - Site readiness grants 👍1  
 
-## [SB 5235](/bill/2023-24/sb/5235/) - Accessory dwelling units   ❓1
+## [SB 5235](/bill/2023-24/sb/5235/) - Accessory dwelling units  👎1 ❓1
 * ❓💵 Paul Jewell
+* 👎💵 Paul Jewell
 
 ## [SB 5247](/bill/2023-24/sb/5247/) - Climate-ready communities 👍1  
 
@@ -231,6 +232,9 @@
 ## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎1 ❓1
 * 👎💵 Juliana Roe
 * ❓💵 Juliana Roe
+
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development  👎1 
+* 👎💵 Paul Jewell
 
 ## [SB 5473](/bill/2023-24/sb/5473/) - Project permit timelines 👍1  
 * 👍💵 Paul Jewell

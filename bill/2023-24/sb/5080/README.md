@@ -20,15 +20,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30994&aId=153211&caId=22064&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30994&aId=153211&caId=22064&tId=4)
 
-#### 9 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * 💵Paula Sardinas - WA Build Back Black
 * Mike Asai - Black Excellence In Cannabis
 * Peter Manning - Black Excellence In Cannabis
 
-#### 0 👎 - Con
+#### 5 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Adán Espino Jr - [Craft Cannabis Coalition](/org/craft_cannabis_coalition/)
 
 ### Mon 02/13 04:00 PM - Ways & Means (WM): SSB 5080 Cannabis social equity
 #### 96 👍 - Pro

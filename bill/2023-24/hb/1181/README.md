@@ -22,13 +22,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153120&caId=22121&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153120&caId=22121&tId=4)
 
-#### 425 👍 - Pro
+#### 620 👍 - Pro
 Testifying:
 * Joe Kunzler
 * Dave Andersen - Washington Department of Commerce
 * Chris Jones
+* Mary Lou Pauly - Mayor, City of Issaquah
 
-#### 15 👎 - Con
+#### 23 👎 - Con
 
 #### 0 ❓ - Other
 

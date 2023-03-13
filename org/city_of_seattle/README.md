@@ -127,6 +127,8 @@
 * 👍 Lisa Herbold
 * 👍 Lisa Herbold
 
+## [SB 5235](/bill/2023-24/sb/5235/) - Accessory dwelling units 👍1  
+
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍1  

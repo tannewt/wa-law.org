@@ -20,7 +20,8 @@
 
 ## [HB 1192](/bill/2023-24/hb/1192/) - Electric transm. planning 👍1  
 
-## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍2  
+## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍3  
+* 👍💵 Kelly Hall
 * 👍💵 Kelly Hall
 * 👍💵 Kelly Hall
 

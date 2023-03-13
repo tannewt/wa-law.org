@@ -20,7 +20,7 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Steve Taylor - Cowlitz Public Utility District No. 1
 

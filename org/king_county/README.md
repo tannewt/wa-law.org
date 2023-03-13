@@ -6,7 +6,7 @@
 
 ## [HB 1035](/bill/2023-24/hb/1035/) - Health care restrictions 👍1  
 
-## [HB 1050](/bill/2023-24/hb/1050/) - Apprenticeship utilization 👍1  
+## [HB 1050](/bill/2023-24/hb/1050/) - Apprenticeship utilization 👍2  
 
 ## [HB 1055](/bill/2023-24/hb/1055/) - Pub safety telecommunicators 👍1  
 

@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30945&aId=153007&caId=22087&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30945&aId=153007&caId=22087&tId=4)
 
-#### 10 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * 💵Mike Hoover - Self
 * Jeff Chapman - John Wayne Pioneer Wagons and Riders /BCHW
+* Randy Helm - Helm Horsemanship
 
 #### 0 👎 - Con
 

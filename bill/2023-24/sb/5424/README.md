@@ -15,14 +15,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30970&aId=153101&caId=21980&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30970&aId=153101&caId=21980&tId=4)
 
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Sue Rahr
 * Maureen ("Mo") McGough - The Policing Project at NYU Law/The 30x30 Initiative to Advance Women in Policing
 * Carol Cummings
 * 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 1 👎 - Con
+#### 51 👎 - Con
 Testifying:
 * Leslie Cushman - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 

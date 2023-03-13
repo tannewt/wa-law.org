@@ -15,7 +15,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30963&aId=153086&caId=22057&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30963&aId=153086&caId=22057&tId=4)
 
-#### 10 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* 💵Dan Wood - Washington State Dairy Federation
 
 #### 0 👎 - Con
 

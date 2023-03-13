@@ -14,6 +14,8 @@
 ## [HB 1619](/bill/2023-24/hb/1619/) - Renewable energy resources  👎1 
 * 👎💵 Brandon Houskeeper
 
+## [SB 5165](/bill/2023-24/sb/5165/) - Electric transm. planning 👍1  
+
 ## [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍1  
 
 ## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy  👎2 

@@ -15,7 +15,7 @@
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 * 👍💵 Brian Enslow
 
-## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1  
+## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍2  
 
 ## [SB 5336](/bill/2023-24/sb/5336/) - Main street trust fund 👍2  
 * 👍 brian enslow

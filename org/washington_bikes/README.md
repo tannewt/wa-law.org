@@ -2,7 +2,7 @@
 
 ## [HB 1135](/bill/2023-24/hb/1135/) - Impact fee use 👍1  
 
-## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍2  
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍3  
 * 👍 Tamar Shuhendler
 * 👍 Tamar Shuhendler
 

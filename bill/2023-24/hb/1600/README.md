@@ -16,14 +16,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30941&aId=152967&caId=22096&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30941&aId=152967&caId=22096&tId=4)
 
-#### 5 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Kateri Candee - Washington State Patrol
 * Kimberly Mathis - Washington State Patrol
 
-#### 9 👎 - Con
+#### 16 👎 - Con
 Testifying:
 * Katie Hurley - King County Department of Public Defense
+* george yeannakis - Washington State Office of Public Defense
+* 💵Antonio Ginatta - [Columbia Legal Services](/org/columbia_legal_services/)
 
 #### 1 ❓ - Other
 Testifying:

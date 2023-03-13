@@ -2,7 +2,7 @@
 
 ## [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍1  
 
-## [HB 1002](/bill/2023-24/hb/1002/) - Hazing penalty 👍1  
+## [HB 1002](/bill/2023-24/hb/1002/) - Hazing penalty 👍2  
 
 ## [HB 1007](/bill/2023-24/hb/1007/) - Military service credit 👍1  
 
@@ -18,6 +18,8 @@
 ## [HB 1035](/bill/2023-24/hb/1035/) - Health care restrictions 👍1  
 
 ## [HB 1046](/bill/2023-24/hb/1046/) - Housing dev. income limits 👍1  
+
+## [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act 👍1  
 
 ## [HB 1055](/bill/2023-24/hb/1055/) - Pub safety telecommunicators 👍1  
 
@@ -35,7 +37,7 @@
 
 ## [HB 1107](/bill/2023-24/hb/1107/) - "Master" and "servant" terms 👍1  
 
-## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍2  
+## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍3  
 * 👍💵 Julie Salvi
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
@@ -100,9 +102,10 @@
 
 ## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍3  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍3  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍4  
 * 👍 Roni Cook
 * 👍💵 Nasue Nishida
+* 👍💵 Simone Boe
 
 ## [HB 1239](/bill/2023-24/hb/1239/) - Educator ethics & complaints   ❓1
 * ❓💵 Nasue Nishida
@@ -144,9 +147,11 @@
 * ❓ Jared Mason-Gere
 * ❓ Jared Mason-Gere
 
-## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options 👍1  
+## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options 👍2  
 
 ## [HB 1309](/bill/2023-24/hb/1309/) - Contractor registration 👍1  
+
+## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍1  
 
 ## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records 👍1  
 
@@ -174,7 +179,7 @@
 
 ## [HB 1399](/bill/2023-24/hb/1399/) - Native American scholarships 👍1  
 
-## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍2  
+## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍3  
 
 ## [HB 1407](/bill/2023-24/hb/1407/) - Dev. disability/eligibility 👍1  
 
@@ -187,8 +192,9 @@
 
 ## [HB 1430](/bill/2023-24/hb/1430/) - DCYF-caregiver communication 👍1  
 
-## [HB 1436](/bill/2023-24/hb/1436/) - Special education funding 👍1  
+## [HB 1436](/bill/2023-24/hb/1436/) - Special education funding 👍1  ❓1
 * 👍💵 Julie Salvi
+* ❓💵 Julie Salvi
 
 ## [HB 1443](/bill/2023-24/hb/1443/) - Online voter registration 👍1  
 
@@ -201,7 +207,7 @@
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
 
-## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍2  
+## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍3  
 
 ## [HB 1478](/bill/2023-24/hb/1478/) - Student rights 👍1  
 
@@ -241,7 +247,7 @@
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍3  
 * 👍💵 Simone Boe
 
-## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍2  
+## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍3  
 * 👍💵 Nasue Nishida
 
 ## [HB 1609](/bill/2023-24/hb/1609/) - School library info and tech 👍1  
@@ -250,11 +256,11 @@
 
 ## [HB 1615](/bill/2023-24/hb/1615/) - Education savings accounts  👎1 
 
-## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍1  
+## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍2  
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
 
-## [HB 1639](/bill/2023-24/hb/1639/) - Billy Frank Jr. statue 👍2  
+## [HB 1639](/bill/2023-24/hb/1639/) - Billy Frank Jr. statue 👍3  
 
 ## [HB 1643](/bill/2023-24/hb/1643/) - Nurse student loan repayment 👍1  
 
@@ -275,13 +281,14 @@
 
 ## [HB 1711](/bill/2023-24/hb/1711/) - Internet projects/tribes 👍1  
 
-## [HB 1732](/bill/2023-24/hb/1732/) - K-12 inflation adjustments 👍1  
+## [HB 1732](/bill/2023-24/hb/1732/) - K-12 inflation adjustments 👍2  
+* 👍💵 Julie Salvi
 * 👍💵 Julie Salvi
 
 ## [HB 1744](/bill/2023-24/hb/1744/) - Charter school oversight 👍1  
 * 👍💵 Julie Salvi
 
-## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍2  
+## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍3  
 
 ## [HB 1750](/bill/2023-24/hb/1750/) - Water safety education 👍1  
 
@@ -310,7 +317,7 @@
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
 
-## [SB 5054](/bill/2023-24/sb/5054/) - Prof. learning communities 👍1  
+## [SB 5054](/bill/2023-24/sb/5054/) - Prof. learning communities 👍2  
 * 👍💵 Nasue Nishida
 
 ## [SB 5071](/bill/2023-24/sb/5071/) - Purple star designation 👍1  
@@ -345,12 +352,13 @@
 
 ## [SB 5171](/bill/2023-24/sb/5171/) - Consumer products/gender 👍1  
 
-## [SB 5174](/bill/2023-24/sb/5174/) - Student transportation 👍2  
+## [SB 5174](/bill/2023-24/sb/5174/) - Student transportation 👍2  ❓1
 * 👍💵 Julie Salvi
+* ❓💵 Julie Salvi
 
 ## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍2  
 
-## [SB 5182](/bill/2023-24/sb/5182/) - Candidate filing 👍1  
+## [SB 5182](/bill/2023-24/sb/5182/) - Candidate filing 👍2  
 
 ## [SB 5183](/bill/2023-24/sb/5183/) - Personal needs allowance 👍1  
 
@@ -358,7 +366,8 @@
 
 ## [SB 5208](/bill/2023-24/sb/5208/) - Online voter registration 👍2  
 
-## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I 👍2  
+## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I 👍4  
+* 👍 Debby Chandler
 
 ## [SB 5219](/bill/2023-24/sb/5219/) - Counseling compact 👍1  
 
@@ -398,8 +407,9 @@
 
 ## [SB 5296](/bill/2023-24/sb/5296/) - Military service credit 👍1  
 
-## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍1  
+## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍2  
 * 👍💵 Simone Boe
+* 👍💵 Julie Salvi
 
 ## [SB 5315](/bill/2023-24/sb/5315/) - Special education/nonpublic 👍1  
 
@@ -418,9 +428,11 @@
 
 ## [SB 5359](/bill/2023-24/sb/5359/) - State spending limit  👎1 
 
+## [SB 5385](/bill/2023-24/sb/5385/) - Concerning work performed by institutions of higher education. 👍1  
+
 ## [SB 5393](/bill/2023-24/sb/5393/) - Health provider contracting 👍1  
 
-## [SB 5403](/bill/2023-24/sb/5403/) - Establishing school district depreciation subfunds for the purposes of preventative maintenance.  👎1 
+## [SB 5403](/bill/2023-24/sb/5403/) - Establishing school district depreciation subfunds for the purposes of preventative maintenance.  👎2 
 
 ## [SB 5408](/bill/2023-24/sb/5408/) - Ninth grade success grants 👍1  
 
@@ -439,10 +451,10 @@
 
 ## [SB 5456](/bill/2023-24/sb/5456/) - Minimum parking requirements 👍2  
 
-## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍1  
+## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍2  
 * 👍💵 Nasue Nishida
 
-## [SB 5477](/bill/2023-24/sb/5477/) - Murdered indigenous women 👍1  
+## [SB 5477](/bill/2023-24/sb/5477/) - Murdered indigenous women 👍2  
 
 ## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍2  
 * 👍💵 Simone Boe
@@ -485,17 +497,19 @@
 
 ## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍1  
 
-## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍2  
+## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍3  
+* 👍💵 Simone Boe
 
 ## [SB 5625](/bill/2023-24/sb/5625/) - Public employee retirees 👍1  
 
-## [SB 5626](/bill/2023-24/sb/5626/) - K-12 media literacy 👍2  
+## [SB 5626](/bill/2023-24/sb/5626/) - K-12 media literacy 👍3  
 
 ## [SB 5631](/bill/2023-24/sb/5631/) - DACA/state agency acceptance 👍1  
 
 ## [SB 5632](/bill/2023-24/sb/5632/) - Labor disputes/health care 👍1  
 
-## [SB 5650](/bill/2023-24/sb/5650/) - K-12 inflationary increases 👍1  
+## [SB 5650](/bill/2023-24/sb/5650/) - K-12 inflationary increases 👍2  
+* 👍💵 Julie Salvi
 * 👍💵 Julie Salvi
 
 ## [SB 5655](/bill/2023-24/sb/5655/) - WA achievers grant program 👍1  
@@ -511,7 +525,7 @@
 
 ## [SB 5694](/bill/2023-24/sb/5694/) - Concerning public employee salary surveys. 👍1  
 
-## [SB 5702](/bill/2023-24/sb/5702/) - Student homelessness pilot 👍2  
+## [SB 5702](/bill/2023-24/sb/5702/) - Student homelessness pilot 👍3  
 
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  
 

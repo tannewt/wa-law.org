@@ -7,13 +7,14 @@
 
 ## [HB 1197](/bill/2023-24/hb/1197/) - Workers' comp. providers  👎1 
 
-## [HB 1217](/bill/2023-24/hb/1217/) - Wage complaints  👎1 
+## [HB 1217](/bill/2023-24/hb/1217/) - Wage complaints  👎2 
 
 ## [HB 1306](/bill/2023-24/hb/1306/) - Public works procurement 👍2  
 * 👍💵 James King
 * 👍💵 James King
 
-## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records  👎2 
+## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records  👎3 
+* 👎💵 James King
 
 ## [HB 1458](/bill/2023-24/hb/1458/) - Apprenticeship programs/UI  👎2 
 * 👎💵 James King
@@ -28,6 +29,9 @@
 ## [HB 1785](/bill/2023-24/hb/1785/) - COVID-19/occupational  👎1 
 
 ## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge  👎1 
+
+## [SB 5110](/bill/2023-24/sb/5110/) - Labor practices/penalties  👎1 
+* 👎💵 James King
 
 ## [SB 5123](/bill/2023-24/sb/5123/) - Cannabis/employment  👎1 
 

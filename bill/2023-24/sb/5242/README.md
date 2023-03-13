@@ -20,11 +20,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30992&aId=153202&caId=22018&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30992&aId=153202&caId=22018&tId=4)
 
-#### 42 👍 - Pro
+#### 80 👍 - Pro
 Testifying:
 * Claire Cunningham
 
-#### 23 👎 - Con
+#### 27 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -23,13 +23,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30949&aId=153391&caId=21973&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30949&aId=153391&caId=21973&tId=4)
 
-#### 288 👍 - Pro
+#### 479 👍 - Pro
+Testifying:
+* Stacey Valenzuela
 
-#### 532 👎 - Con
+#### 702 👎 - Con
 Testifying:
 * Eric pratt - America
 * Daniel Sklyarov
 * Julie Barrett - Conservative Ladies of Washington
+* Laurie Layne - 11605 243rd. Ave. Ct. E.
 
 #### 1 ❓ - Other
 

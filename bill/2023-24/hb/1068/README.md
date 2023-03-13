@@ -15,11 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30978&aId=153138&caId=22131&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30978&aId=153138&caId=22131&tId=4)
 
-#### 28 👍 - Pro
+#### 31 👍 - Pro
+Testifying:
+* Thomas Kelly
 
-#### 17 👎 - Con
+#### 22 👎 - Con
 Testifying:
 * ROSE GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Carolyn Logue - [Washington Independent Medical Exam Coalition](/org/washington_independent_medical_exam_coalition/)
+* Wendy Marlowe
 
 #### 0 ❓ - Other
 

@@ -9,7 +9,9 @@
 
 ## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍2  
 
-## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options 👍1  
+## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options 👍2  
+
+## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍1  
 
 ## [HB 1332](/bill/2023-24/hb/1332/) - Tribes/K-12 instruction 👍2  
 
@@ -55,10 +57,10 @@
 
 ## [SB 5559](/bill/2023-24/sb/5559/) - Student restraint, isolation 👍1  
 
-## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍2  
+## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍3  
 
 ## [SB 5617](/bill/2023-24/sb/5617/) - Career & tech. ed. courses 👍1  
 
-## [SB 5626](/bill/2023-24/sb/5626/) - K-12 media literacy 👍2  
+## [SB 5626](/bill/2023-24/sb/5626/) - K-12 media literacy 👍3  
 
 ## [SB 5647](/bill/2023-24/sb/5647/) - School safety/temp employees 👍1  

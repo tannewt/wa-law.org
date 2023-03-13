@@ -16,17 +16,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30973&aId=153115&caId=22116&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30973&aId=153115&caId=22116&tId=4)
 
-#### 471 👍 - Pro
+#### 482 👍 - Pro
 Testifying:
 * xiaotong wang - 14042 ne 8th st
 
-#### 147 👎 - Con
+#### 235 👎 - Con
 Testifying:
 * Su Liew
 * Cong Lin
 * Xiaotong Wang
+* Jin Ding
+* Tsui-Ping LeeSinclair
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Xiangping Ren
 
 ### Wed 02/01 04:00 PM - Appropriations (APP): SHB 1039 Intramuscular needling
 #### 3 👍 - Pro

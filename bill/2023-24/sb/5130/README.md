@@ -18,7 +18,7 @@ Sign up to testify:
 Testifying:
 * JERRI CLARK - MOMI--Mothers of the Mentally Ill
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

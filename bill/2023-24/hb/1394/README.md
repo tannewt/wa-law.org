@@ -16,7 +16,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30946&aId=153171&caId=22127&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30946&aId=153171&caId=22127&tId=4)
 
-#### 60 👍 - Pro
+#### 74 👍 - Pro
 Testifying:
 * Larry Jefferson - Washington State Office of Public Defense
 * Dr. Michael Caldwell - University of Wisconsin-Madison
@@ -26,7 +26,7 @@ Testifying:
 * Katherine Hurley - [Washington Defender Association](/org/washington_defender_association/)
 * Joanne Smieja - WA Voices
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other
 

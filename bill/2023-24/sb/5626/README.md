@@ -20,15 +20,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31030&aId=153367&caId=21998&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31030&aId=153367&caId=21998&tId=4)
 
-#### 45 👍 - Pro
+#### 71 👍 - Pro
 Testifying:
 * Cora Mackoff - Action for Media Education
 * Jen Ligot - WA State Council for the Social Studies
 * Mary (Molly) Berger - Action for Media Education
 * Shelby Reynolds - Washington State PTA
 * Linda Kennedy - Action for Media Education & LK Media
+* 💵Carolyn Logue - [Washington Library Association](/org/washington_library_association/)
 
-#### 13 👎 - Con
+#### 22 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -19,12 +19,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30975&aId=153130&caId=22091&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30975&aId=153130&caId=22091&tId=4)
 
-#### 11 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 * Maria Tobin - South Sound Military & Communities Partnership
 * Chantelle Petrone Marker
+* Anthony Varela - Veterans Legislative Coalition
 
 #### 0 👎 - Con
 

@@ -16,9 +16,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31022&aId=153324&caId=22041&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31022&aId=153324&caId=22041&tId=4)
 
-#### 85 👍 - Pro
+#### 109 👍 - Pro
+Testifying:
+* Debby Chandler - [Washington Education Association](/org/washington_education_association/)
 
-#### 65 👎 - Con
+#### 124 👎 - Con
+Testifying:
+* 💵Bruce Beckett - [Washington Retail Association](/org/washington_retail_association/)
 
 #### 0 ❓ - Other
 

@@ -20,11 +20,11 @@ Sign up to testify:
 
 #### 5 👍 - Pro
 
-#### 13 👎 - Con
+#### 19 👎 - Con
 Testifying:
 * Laurie Layne
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 01/12 08:00 AM - Law & Justice (LAW): SB 5006 Waiver of firearm rights
 #### 0 👍 - Pro

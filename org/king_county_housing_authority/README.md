@@ -18,6 +18,6 @@
 
 ## [SB 5198](/bill/2023-24/sb/5198/) - Mobile home community sales 👍1  
 
-## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍1  
+## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍2  
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  

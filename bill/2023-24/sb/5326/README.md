@@ -16,11 +16,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30957&aId=153061&caId=22077&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30957&aId=153061&caId=22077&tId=4)
 
-#### 16 👍 - Pro
+#### 26 👍 - Pro
+Testifying:
+* 💵Jean Leonard - WA Insurers, State Farm, Nationwide, NAMIC
+* 💵Kenton Brine - NW Insurance Council
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Scott Hazlegrove - WA State Auto Dealers Association
 
 ### Mon 01/23 04:00 PM - Transportation (TRAN): SB 5326 Vehicle insurance verif.
 #### 8 👍 - Pro

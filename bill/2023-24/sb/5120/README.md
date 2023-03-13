@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30991&aId=153197&caId=22015&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30991&aId=153197&caId=22015&tId=4)
 
-#### 34 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * Sarah Perry - [King County](/org/king_county/)
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)

@@ -20,12 +20,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30945&aId=153005&caId=22085&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30945&aId=153005&caId=22085&tId=4)
 
-#### 47 👍 - Pro
+#### 59 👍 - Pro
 Testifying:
 * 💵Manuel Abrego - La Resistencia
 * Maru Mora Villalpando - La Resistencia
+* Karina Perez-Gonzalez - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
+* 💵Paul Benz - WA Partners for Social Change
+* Kristina Walker - Deputy Mayor, City of Tacoma
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

@@ -6,7 +6,8 @@
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
-## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍2  
+## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍3  
+* 👍💵 Ramona Hattendorf
 * 👍💵 Ramona Hattendorf
 
 ## [HB 1118](/bill/2023-24/hb/1118/) - School bus safety 👍1  
@@ -24,7 +25,7 @@
 
 ## [HB 1204](/bill/2023-24/hb/1204/) - Family connections program 👍1  
 
-## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍2  
+## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍3  
 
 ## [HB 1239](/bill/2023-24/hb/1239/) - Educator ethics & complaints 👍2  
 
@@ -44,13 +45,14 @@
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
 
-## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  
+## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍2  
 
 ## [HB 1407](/bill/2023-24/hb/1407/) - Dev. disability/eligibility 👍4  
 * 👍💵 Ramona Hattendorf
 
-## [HB 1436](/bill/2023-24/hb/1436/) - Special education funding 👍1  
+## [HB 1436](/bill/2023-24/hb/1436/) - Special education funding 👍1  ❓1
 * 👍💵 Ramona Hattendorf
+* ❓💵 Ramona Hattendorf
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
 
@@ -64,9 +66,9 @@
 
 ## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍2  
 
-## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍1  
+## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍2  
 
-## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍3  
+## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍4  
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
 
@@ -83,9 +85,11 @@
 ## [SB 5099](/bill/2023-24/sb/5099/) - Estate tax/extraordinary rev 👍1  
 * 👍💵 Ramona Hattendorf
 
+## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍1  
+
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 
-## [SB 5130](/bill/2023-24/sb/5130/) - Assisted outpatient treat.  👎1 
+## [SB 5130](/bill/2023-24/sb/5130/) - Assisted outpatient treat.  👎2 
 
 ## [SB 5135](/bill/2023-24/sb/5135/) - Solitary confinement 👍1  
 
@@ -101,7 +105,7 @@
 
 ## [SB 5237](/bill/2023-24/sb/5237/) - Education law noncompliance 👍1  
 
-## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍1  
+## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍2  
 
 ## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍1  
 
@@ -109,7 +113,8 @@
 
 ## [SB 5302](/bill/2023-24/sb/5302/) - Adult family homes/prop. tax 👍2  
 
-## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding  👎1 ❓2
+## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding  👎1 ❓3
+* ❓💵 Ramona Hattendorf
 * ❓💵 Ramona Hattendorf
 
 ## [SB 5315](/bill/2023-24/sb/5315/) - Special education/nonpublic 👍3  
@@ -121,7 +126,7 @@
 
 ## [SB 5441](/bill/2023-24/sb/5441/) - School district curricula 👍1  
 
-## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍1  
+## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍2  
 
 ## [SB 5480](/bill/2023-24/sb/5480/) - Work-limiting disability 👍1  
 

@@ -14,14 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30942&aId=152910&caId=22135&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30942&aId=152910&caId=22135&tId=4)
 
-#### 21 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Gary Ernsdorf - King County Prosecutor’s Office
 
-#### 6 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 * 💵James King - [Independent Business Association](/org/independent_business_association/)
+* Brad Tower - Schnitzer Steel
 
 #### 0 ❓ - Other

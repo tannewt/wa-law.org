@@ -15,10 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30941&aId=152905&caId=22095&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30941&aId=152905&caId=22095&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Libby Snyder - Uniform Law Commission
 * Daton Lynch - National Center for Missing & Exploited Children
+* Jeffery Morehouse - Bring Abducted Children Home
 
 #### 1 👎 - Con
 Testifying:

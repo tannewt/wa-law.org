@@ -25,7 +25,7 @@
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
 
-## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍1  
+## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍2  
 
 ## [HB 1499](/bill/2023-24/hb/1499/) - Food assistance funding 👍2  
 
@@ -47,7 +47,7 @@
 
 ## [HB 1693](/bill/2023-24/hb/1693/) - Student homelessness pilot 👍1  
 
-## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
+## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍2  
 
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍1  
 
@@ -61,7 +61,7 @@
 
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍2  
 
-## [SB 5235](/bill/2023-24/sb/5235/) - Accessory dwelling units 👍1  
+## [SB 5235](/bill/2023-24/sb/5235/) - Accessory dwelling units 👍2  
 
 ## [SB 5301](/bill/2023-24/sb/5301/) - Commerce housing programs 👍2  
 

@@ -23,13 +23,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30999&aId=153236&caId=22105&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30999&aId=153236&caId=22105&tId=4)
 
-#### 44 👍 - Pro
+#### 73 👍 - Pro
 Testifying:
 * 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
 * Katie Taylor - Office of Superintendent of Public Instruction
 * Ben Mitchell - Foundation for Tacoma Students
+* Karl Gapuz - [Seattle Education Association](/org/seattle_education_association/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -25,13 +25,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31000&aId=153564&caId=22201&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31000&aId=153564&caId=22201&tId=4)
 
-#### 0 👍 - Pro
+#### 5 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Jeff Snell - Vancouver School Districts
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 
 ### Thu 02/09 04:00 PM - Appropriations (APP): HB 1436 Special education funding
 #### 319 👍 - Pro

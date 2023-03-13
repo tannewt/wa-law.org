@@ -16,13 +16,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153434&caId=22150&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153434&caId=22150&tId=4)
 
-#### 26 👍 - Pro
+#### 32 👍 - Pro
 
-#### 635 👎 - Con
+#### 884 👎 - Con
 Testifying:
 * steve cagley
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 02/20 01:30 PM - Transportation (TR): SHB 1554 Lead impacts
 #### 53 👍 - Pro

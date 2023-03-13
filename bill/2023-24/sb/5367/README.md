@@ -17,12 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30993&aId=153208&caId=22063&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30993&aId=153208&caId=22063&tId=4)
 
-#### 16 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Lukas Hunter - Harmony Farms
 * MD, MPH, FAAP, Cora Breuner - Washington Chapter of the American Academy of Pediatrics
+* 💵Amy Brackenbury - Public Health Roundtable
+* Adán Espino Jr - [Craft Cannabis Coalition](/org/craft_cannabis_coalition/)
+* Justin Nordhorn - Washington State Liquor and Cannabis Board
+* Marc Webster - Washington State Liquor and Cannabis Board
 
-#### 14 👎 - Con
+#### 16 👎 - Con
 Testifying:
 * Arthur West
 * Azmyth Kaminski
@@ -31,6 +35,7 @@ Testifying:
 * John Worthington - AAMC
 * Joshua Schneider - Association of western hemp professionals
 * Bonny Jo Peterson - Industrial Hemp Association of WA
+* Amber Wise
 
 #### 1 ❓ - Other
 Testifying:

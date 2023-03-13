@@ -18,9 +18,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31031&aId=153371&caId=22002&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31031&aId=153371&caId=22002&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
 
-#### 9 👎 - Con
+#### 16 👎 - Con
 Testifying:
 * Liv Finne - Washington Policy Center
 * Jeannie Magdua - Conservative Ladies of Washington

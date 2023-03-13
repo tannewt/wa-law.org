@@ -14,13 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30989&aId=153264&caId=22100&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30989&aId=153264&caId=22100&tId=4)
 
-#### 84 👍 - Pro
+#### 121 👍 - Pro
 Testifying:
 * Nicole Czarnomski - WDFW
 * 💵Brynn Brady - Regional Fisheries Coalition
 * Becky Deryckx
 
-#### 54 👎 - Con
+#### 215 👎 - Con
 Testifying:
 * Jenna Friebel - Skagit Drainage and Irrigation Districts Consortium LLC
 * David Hawkins - Upper Skagit Indian Tribe

@@ -25,7 +25,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30999&aId=153234&caId=22103&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30999&aId=153234&caId=22103&tId=4)
 
-#### 11 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Kim Reykdal - Office of Superintendent of Public Instruction
 * Jana Parker - Seattle Special Education PTSA
@@ -33,9 +33,11 @@ Testifying:
 * Brianne Robinson - Student at South Puget Sound Community College
 * Jamie Traugott - State Board for Community and Technical Colleges
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Michael Uehara-Bingen - Washington State PTA
 
 ### Mon 02/20 01:30 PM - Appropriations (APP): SHB 1316 Dual credit program access
 #### 34 👍 - Pro

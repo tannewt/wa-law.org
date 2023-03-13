@@ -37,7 +37,7 @@
 
 ## [HB 1510](/bill/2023-24/hb/1510/) - Community preservation auth.  👎1 
 
-## [HB 1570](/bill/2023-24/hb/1570/) - TNC insurance programs 👍1  
+## [HB 1570](/bill/2023-24/hb/1570/) - TNC insurance programs 👍2  
 * 👍💵 Julia Gorton
 
 ## [HB 1638](/bill/2023-24/hb/1638/) - State trooper recruitment 👍1  
@@ -76,6 +76,9 @@
 ## [SB 5240](/bill/2023-24/sb/5240/) - Unemployment ins. appeals 👍1  
 
 ## [SB 5284](/bill/2023-24/sb/5284/) - Campaign finance disclosure  👎1 
+
+## [SB 5286](/bill/2023-24/sb/5286/) - Paid leave premiums 👍1  
+* 👍💵 Julia Gorton
 
 ## [SB 5291](/bill/2023-24/sb/5291/) - Liquor licenses 👍1  
 * 👍💵 Riley Smith

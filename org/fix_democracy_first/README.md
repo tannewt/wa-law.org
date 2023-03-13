@@ -106,6 +106,10 @@
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
 
+## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍1  
+
+## [HB 1481](/bill/2023-24/hb/1481/) - Tribal peace officers/LEOFF 👍1  
+
 ## [HB 1505](/bill/2023-24/hb/1505/) - Alternative jet fuel  👎1 
 
 ## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍1  
@@ -131,6 +135,8 @@
 ## [HB 1723](/bill/2023-24/hb/1723/) - GMA/equity and env. justice 👍1  
 
 ## [HB 1777](/bill/2023-24/hb/1777/) - Energy contracting 👍1  
+
+## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
 
 ## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services 👍1  
 
@@ -220,6 +226,8 @@
 ## [SB 5441](/bill/2023-24/sb/5441/) - School district curricula 👍1  
 
 ## [SB 5451](/bill/2023-24/sb/5451/) - Long sentences review 👍1  
+
+## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍1  
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
 

@@ -21,15 +21,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30975&aId=153128&caId=22089&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30975&aId=153128&caId=22089&tId=4)
 
-#### 8 👍 - Pro
+#### 36 👍 - Pro
 Testifying:
 * 💵Erin Frasier - Washington State Building & Construction Trades Council
 * Matt Chapman - Ironworkers
 * Scott Tennant
+* 💵Heather Kurtenbach - Ironworkers Local 86
+* Chris Ellis - Bricklayers & Allied Craftworkers Local 1
 
-#### 15 👎 - Con
+#### 30 👎 - Con
+Testifying:
+* Jerry VanderWood - Associated General Contractors (AGC)
+* 💵Carolyn Logue - Associated Builders and Contractors -- Inland Pacific Chapter
+* 💵Sophia Steele - Associated Builders and Contractors
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 01/19 01:30 PM - Capital Budget (CB): HB 1050 Apprenticeship utilization
 #### 58 👍 - Pro

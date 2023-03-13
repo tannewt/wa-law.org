@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30977&aId=153137&caId=22004&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30977&aId=153137&caId=22004&tId=4)
 
-#### 126 👍 - Pro
+#### 175 👍 - Pro
 Testifying:
 * Ann Rendahl - Utilities & Transportation Commission
 * Anna Lising - Governor's Office
@@ -26,7 +26,7 @@ Testifying:
 * Kathleen Drew - Energy Facility Site Evaluation Council
 * Angus Duncan - Natural Resources Defense Council
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Amanda McKinney - Yakima County
 

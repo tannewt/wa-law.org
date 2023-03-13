@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30979&aId=153432&caId=22008&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30979&aId=153432&caId=22008&tId=4)
 
-#### 3 👍 - Pro
+#### 140 👍 - Pro
 Testifying:
 * Ann Murphy - League of Women Voters of Washington
 * 💵James King - [Independent Business Association](/org/independent_business_association/)

@@ -1,8 +1,8 @@
 # Methow Valley Citizens Council
 
-## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍1  
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 
-## [HB 1032](/bill/2023-24/hb/1032/) - Wildfires/electric utilities 👍1  
+## [HB 1032](/bill/2023-24/hb/1032/) - Wildfires/electric utilities 👍2  
 
 ## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍2  
 
@@ -14,13 +14,13 @@
 
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍3  
 
-## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍2  
 
 ## [HB 1215](/bill/2023-24/hb/1215/) - Riparian areas 👍1  
 
 ## [HB 1285](/bill/2023-24/hb/1285/) - Family farm permit transfers  👎1 
 
-## [HB 1322](/bill/2023-24/hb/1322/) - Walla Walla water 2050 plan 👍1  
+## [HB 1322](/bill/2023-24/hb/1322/) - Walla Walla water 2050 plan 👍2  
 
 ## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍2  
 * 👍 Maggie Coon

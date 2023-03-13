@@ -4,6 +4,8 @@
 
 ## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 
+## [HB 1032](/bill/2023-24/hb/1032/) - Wildfires/electric utilities 👍1  
+
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍1  
 
 ## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍3  
@@ -62,7 +64,7 @@
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management 👍1  
 
-## [SB 5165](/bill/2023-24/sb/5165/) - Electric transm. planning 👍2  
+## [SB 5165](/bill/2023-24/sb/5165/) - Electric transm. planning 👍3  
 * 👍 Scott Richards
 
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍1  

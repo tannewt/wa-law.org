@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30941&aId=152985&caId=22099&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30941&aId=152985&caId=22099&tId=4)
 
-#### 1105 👍 - Pro
+#### 1386 👍 - Pro
 Testifying:
 * Jolayne Houtz
 * Hector Martinez
@@ -33,7 +33,9 @@ Testifying:
 * David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 * Patricia Knight
 
-#### 6 ❓ - Other
+#### 8 ❓ - Other
+Testifying:
+* 💵Antonio Ginatta - [Columbia Legal Services](/org/columbia_legal_services/)
 
 ### Mon 01/16 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1002 Hazing penalty
 #### 764 👍 - Pro

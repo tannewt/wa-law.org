@@ -23,11 +23,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30943&aId=152932&caId=22160&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30943&aId=152932&caId=22160&tId=4)
 
-#### 158 👍 - Pro
+#### 226 👍 - Pro
 
-#### 6 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * Beth Daranciang
+* Oli London
 
 #### 0 ❓ - Other
 

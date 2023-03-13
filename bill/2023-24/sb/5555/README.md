@@ -23,7 +23,9 @@ Sign up to testify:
 
 #### 1 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Billie Tyler - WA Association for Marriage and Family Therapy
 
 #### 0 ❓ - Other
 

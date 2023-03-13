@@ -16,9 +16,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31030&aId=153366&caId=21997&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31030&aId=153366&caId=21997&tId=4)
 
-#### 13 👍 - Pro
+#### 24 👍 - Pro
+Testifying:
+* Bidisha Biswas - Council of Faculty, Western Washington University
+* David Buri - Eastern Washington University
+* 💵Nora Selander - Western Washington University
+* Christine McMullin - SBCTC
+* Jeff Charbonneau - Zillah School District
+* Michael Frechette - Pacific Lutheran University and Independent Colleges of Washington
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 
-#### 15 👎 - Con
+#### 23 👎 - Con
 
 #### 0 ❓ - Other
 

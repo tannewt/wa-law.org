@@ -47,15 +47,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30985&aId=153457&caId=22180&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30985&aId=153457&caId=22180&tId=4)
 
-#### 235 👍 - Pro
+#### 374 👍 - Pro
 Testifying:
 * Joe Kunzler - None
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * MATTHEW HUTCHINS AIA CPHD - [American Institute of Architects Washington Council](/org/american_institute_of_architects_washington_council/)
 
-#### 39 👎 - Con
+#### 52 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Richard Voget
 
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1110 Middle housing
 #### 1176 👍 - Pro

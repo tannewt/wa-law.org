@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30968&aId=153472&caId=22181&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30968&aId=153472&caId=22181&tId=4)
 
-#### 135 👍 - Pro
+#### 143 👍 - Pro
 Testifying:
 * Kevin Lewis - Visit Tri-Cities
 * Becky Bogard - State of Washington Tourism

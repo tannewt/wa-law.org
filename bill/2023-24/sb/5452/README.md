@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30962&aId=153081&caId=22052&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30962&aId=153081&caId=22052&tId=4)
 
-#### 10 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 * Maxwell Brooke
@@ -22,7 +22,9 @@ Testifying:
 * Angela Birney - City of Redmond Mayor
 * Vangie Garcia - Redmond Transportation Planning & Engineering Manager
 
-#### 11 👎 - Con
+#### 13 👎 - Con
+Testifying:
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 
 #### 0 ❓ - Other
 

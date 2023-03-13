@@ -147,6 +147,9 @@
 
 ## [SB 5192](/bill/2023-24/sb/5192/) - Derelict vessel appeals 👍1  
 
+## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I  👎1 
+* 👎💵 Bruce Beckett
+
 ## [SB 5219](/bill/2023-24/sb/5219/) - Counseling compact 👍1  
 * 👍💵 Mark Johnson
 
