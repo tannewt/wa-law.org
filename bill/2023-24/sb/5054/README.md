@@ -18,12 +18,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31031&aId=153371&caId=22002&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31031&aId=153371&caId=22002&tId=4)
 
-#### 3 👍 - Pro
+#### 8 👍 - Pro
 
-#### 16 👎 - Con
+#### 995 👎 - Con
 Testifying:
 * Liv Finne - Washington Policy Center
 * Jeannie Magdua - Conservative Ladies of Washington
+* Albert Kegley
+* Daniel and Lisa Hall
+* Marilyn Wick
+* William Wagner
+* Jennifer Heine-Withee - Family Policy Institute of Washington
+* Gina Ennis
+* Keith Adams - Family Policy Institute of Washington
+* Laura Minkoff - Edmonds Family Chiropractic
+* Maggie Wang
+* Natalie Wang
+* Chiu Wang
+* Emily Horal
 
 #### 0 ❓ - Other
 

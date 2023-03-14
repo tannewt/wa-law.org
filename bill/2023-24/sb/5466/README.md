@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## Articles
+* [The Urbanist](/org/the_urbanist/) - [The Olympia Waltz Continues for Middle Housing and Other Vital Legislation | The Urbanist](https://www.theurbanist.org/2023/03/09/waleg-week-9-striker-hb1110/#:~:text=SB 5466)
 * [PubliCola](/org/publicola/) - [As Density Bills Move Forward, It's Statewide Housing Goals vs. "Local Control" - PubliCola](https://publicola.com/2023/03/01/as-density-bills-move-forward-its-statewide-housing-goals-vs-local-control/#:~:text=Senate Bill 5466)
 * [The Urbanist](/org/the_urbanist/) - [Washington Legislature’s New Thinking About Housing | The Urbanist](https://www.theurbanist.org/2023/03/01/washington-legislatures-new-thinking-about-housing/#:~:text=SB 5466)
 * [The Urbanist](/org/the_urbanist/) - [Washington’s Middle Housing Bill Is Still Alive with Further Amendments | The Urbanist](https://www.theurbanist.org/2023/02/28/washingtons-middle-housing-bill-is-still-alive-with-further-amendments/#:~:text=SB 5466)
@@ -19,6 +20,7 @@
 * [The Urbanist](/org/the_urbanist/) - [Growing Woodinville Considers Requiring More Off-Street Parking | The Urbanist](https://www.theurbanist.org/2023/02/07/growing-woodinville-considers-requiring-more-off-street-parking/#:~:text=Senate Bill 5466)
 * [PubliCola](/org/publicola/) - [Maybe Metropolis: A Tale of Two Densities - PubliCola](https://publicola.com/2023/01/25/maybe-metropolis-a-tale-of-two-densities/#:~:text=SB 5466)
 * [The Urbanist](/org/the_urbanist/) - [Liias and Reed Introduce Bill Requiring Midrise Zoning Near Rapid Transit | The Urbanist](https://www.theurbanist.org/2023/01/25/liias-and-reed-introduce-bill-requiring-midrise-zoning-near-rapid-transit/#:~:text=5466)
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 10 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate031323#:~:text=S.B. 5466)
 
 ## Meetings
 ### Thu 03/16 08:00 AM - Housing (HOUS): ESSB 5466 Transit-oriented development
@@ -28,18 +30,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31021&aId=153318&caId=22027&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31021&aId=153318&caId=22027&tId=4)
 
-#### 409 👍 - Pro
+#### 539 👍 - Pro
 Testifying:
 * Joe Kunzler - None
 * Cynthia Stewart - League of Women Voters of WA
 * Dave Andersen - Washington Department of Commerce
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* Michael Leach - Move Redmond
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* Angela Rozmyn - Natural and Built Environments
 
-#### 11 👎 - Con
+#### 12 👎 - Con
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Bill Helbig - Community & Public Works Director, City of Spokane Valley
 
 ### Mon 02/13 04:00 PM - Transportation (TRAN): SB 5466 Transit-oriented development
 #### 569 👍 - Pro

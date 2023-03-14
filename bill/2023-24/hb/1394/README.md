@@ -16,7 +16,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30946&aId=153171&caId=22127&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30946&aId=153171&caId=22127&tId=4)
 
-#### 74 👍 - Pro
+#### 133 👍 - Pro
 Testifying:
 * Larry Jefferson - Washington State Office of Public Defense
 * Dr. Michael Caldwell - University of Wisconsin-Madison
@@ -25,10 +25,24 @@ Testifying:
 * Shannon Perez-Darby
 * Katherine Hurley - [Washington Defender Association](/org/washington_defender_association/)
 * Joanne Smieja - WA Voices
+* Shawn Sant - Franklin County Prosecutor
+* Nicholas Oakley - Center for Children & Youth Justice (CCYJ)
+* Mitchel French
+* Jon Tunheim - Thurston County Prosecutor
+* Sonja Hardenbrook - Hardenbrook Law
+* 💵Karen Pillar - TeamChild
+* Ben Santos - King County Prosecuting Attorney's Office
+* Jimmy Hung - King County Prosecuting Attorney's Office
 
-#### 4 👎 - Con
+#### 186 👎 - Con
+Testifying:
+* Lauri Walter
+* Diane Vevea
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Megan Allen - King County Sexual Assault Resource Center
 
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1394 Sexual offenses by youth
 #### 130 👍 - Pro

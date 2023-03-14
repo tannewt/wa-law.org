@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=SSB 5078)
 * [MyNorthwest](/org/mynorthwest/) - [Significant gun legislation advances through WA Senate in tight vote - MyNorthwest.com](https://mynorthwest.com/3850532/gun-legislation-senate-28-21-vote/#:~:text=Senate Bill 5078)
 * [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Criminal Justice — Quaker Voice](https://www.quakervoicewa.org/criminal-justice/#:~:text=SB 5078)
 * [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=SB 5078)
@@ -23,18 +24,39 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30949&aId=153391&caId=21973&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30949&aId=153391&caId=21973&tId=4)
 
-#### 479 👍 - Pro
+#### 1100 👍 - Pro
 Testifying:
 * Stacey Valenzuela
+* Barbara Serrano - Office of the Governor
+* Ben Brysacz - Attorney General's Office
+* Donnitta Sinclair
+* Ashley Brooks - Yelm City Council
+* Dustin Williamson - Everytown for Gun Safety
+* Jim Parsons
+* Lynniah Grayson - RISE
+* Brad Blackburn
+* Dr. Gwen Loosmore - WA State PTA
+* Karyn Brownson - King County Public Health
+* Chetan Soni - Seattle Student Union
+* 💵Tremayne Edwards
 
-#### 702 👎 - Con
+#### 1644 👎 - Con
 Testifying:
 * Eric pratt - America
 * Daniel Sklyarov
 * Julie Barrett - Conservative Ladies of Washington
 * Laurie Layne - 11605 243rd. Ave. Ct. E.
+* Bryan Lynn - Sportsmens Alliance
+* Hiedi Lee - Minuteman Ammunition
+* Robin Ball - Sharpshooting Indoor Range
+* Austin Harlan - The Range, LLC
+* 💵Aoibheann Cline - [National Rifle Association](/org/national_rifle_association_of_america/)
+* Austin Harlan - The Range, LLC
+* 💵Michael Findlay - National Shooting Sports Foundation
+* Marc Lein
+* Michelle Schreiber
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 
 ### Tue 01/31 04:00 PM - Ways & Means (WM): SB 5078 Firearm industry duties
 #### 658 👍 - Pro

@@ -13,10 +13,15 @@
 * 👍 Lacey Jane Wolfe
 * 👍 Lacey Jane Wolfe
 
-## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍1  
+## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍2  ❓1
 * 👍💵 Briahna Murray
+* ❓ Lacey Jane Wolfe
+* 👍 Lacey Jane Wolfe
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
+
+## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting  👎1 
+* 👎 Lacey Jane Wolfe
 
 ## [HB 1326](/bill/2023-24/hb/1326/) - Utility connection charges 👍1  
 * 👍 Andrew Baker
@@ -40,7 +45,7 @@
 
 ## [HB 1706](/bill/2023-24/hb/1706/) - Microenterprise home kitchen   ❓1
 
-## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍1  
+## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍2  
 
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  
 * 👍 Genesee Adkins
@@ -60,7 +65,7 @@
 
 ## [SB 5539](/bill/2023-24/sb/5539/) - Tax increment financing 👍1  
 
-## [SB 5553](/bill/2023-24/sb/5553/) - Temporary emergency shelters 👍1  
+## [SB 5553](/bill/2023-24/sb/5553/) - Temporary emergency shelters 👍2  
 
 ## [SB 5594](/bill/2023-24/sb/5594/) - Fully autonomous vehicles   ❓1
 * ❓ Chris Long

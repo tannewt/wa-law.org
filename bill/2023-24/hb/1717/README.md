@@ -15,9 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30968&aId=153475&caId=22184&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30968&aId=153475&caId=22184&tId=4)
 
-#### 2 👍 - Pro
+#### 55 👍 - Pro
 Testifying:
 * 💵Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
+* Scott Zylka - Thurston County Center for Business & Industry
+* Michael Cade - Thurston Economic Development Council
+* Suzanne Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)
 
 #### 0 👎 - Con
 

@@ -9,6 +9,8 @@
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
 * 👍 Jennifer Stuber
 
+## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍1  
+
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning  👎1 
 
 ## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍1  
@@ -40,8 +42,9 @@
 ## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety  👎1 
 * 👎 Susan elliott
 
-## [HB 1522](/bill/2023-24/hb/1522/) - Sexual misconduct/assocs. 👍1  
+## [HB 1522](/bill/2023-24/hb/1522/) - Sexual misconduct/assocs. 👍2  
 * 👍 Joe Dacca
+* 👍 Amanda Kost
 
 ## [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information 👍1  
 
@@ -82,6 +85,8 @@
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
 
+## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I 👍1  
+
 ## [SB 5228](/bill/2023-24/sb/5228/) - Behavioral health OT 👍2  
 * 👍 Hoa Appel
 
@@ -105,7 +110,7 @@
 
 ## [SB 5523](/bill/2023-24/sb/5523/) - Forensic pathologists 👍1  
 
-## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍2  
+## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍3  
 
 ## [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth  👎1 
 

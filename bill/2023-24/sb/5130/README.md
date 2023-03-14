@@ -14,11 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30949&aId=153389&caId=21971&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30949&aId=153389&caId=21971&tId=4)
 
-#### 2 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * JERRI CLARK - MOMI--Mothers of the Mentally Ill
 
-#### 2 👎 - Con
+#### 7 👎 - Con
+Testifying:
+* Kathleen Wedemeyer - Citizens Commission on Human Rights
+* Kari Reardon - [Washington Defender Association](/org/washington_defender_association/)
+* 💵Kimberly Mosolf - [Disability Rights Washington](/org/disability_rights_washington/)
+* Nathan Bays - King County Department of Public Defense
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 
 #### 0 ❓ - Other
 

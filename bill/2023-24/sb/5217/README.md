@@ -16,15 +16,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31022&aId=153324&caId=22041&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31022&aId=153324&caId=22041&tId=4)
 
-#### 109 👍 - Pro
+#### 504 👍 - Pro
 Testifying:
 * Debby Chandler - [Washington Education Association](/org/washington_education_association/)
+* Debby Chandler - WEA
+* Joe Kendo - WSLC
+* Trudi Hobbs - [Public School Employees of Washington](/org/public_school_employees_of_washington/)
+* Andrew Vander Stoep - IBEW 191
+* Christina Bayaniyan
 
-#### 124 👎 - Con
+#### 245 👎 - Con
 Testifying:
 * 💵Bruce Beckett - [Washington Retail Association](/org/washington_retail_association/)
+* Dominique Damian - WA Farm Bureau
+* Bob Battles - Association of Washington Business (AWB)
+* Tom Kwieciak - Building Industry Association of WA
+* 💵Amber Carter - Identity Clark County
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
 
-#### 0 ❓ - Other
+#### 21 ❓ - Other
 
 ### Tue 01/24 10:30 AM - Labor & Commerce (LC): SB 5217 Musculoskeletal injuries/L&I
 #### 335 👍 - Pro

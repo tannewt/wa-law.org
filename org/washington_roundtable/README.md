@@ -8,7 +8,8 @@
 
 ## [HB 1273](/bill/2023-24/hb/1273/) - High school and beyond plans 👍1  
 
-## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options  👎1 
+## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options  👎2 
+* 👎💵 Neil Strege
 * 👎💵 Neil Strege
 
 ## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍1  
@@ -27,6 +28,8 @@
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards  👎1 
 
 ## [SB 5305](/bill/2023-24/sb/5305/) - Office of career connect WA 👍2  
+
+## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍1  
 
 ## [SB 5534](/bill/2023-24/sb/5534/) - Workforce investment board 👍2  
 * 👍💵 Neil Strege

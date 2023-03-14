@@ -13,7 +13,7 @@
 
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
 
-## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍2  
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍3  
 * 👍💵 Leah Missik
 
 ## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍1  
@@ -24,6 +24,8 @@
 * 👍💵 Kelly Hall
 * 👍💵 Kelly Hall
 * 👍💵 Kelly Hall
+
+## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍1  
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
 
@@ -49,6 +51,8 @@
 ## [HB 1619](/bill/2023-24/hb/1619/) - Renewable energy resources   ❓1
 * ❓💵 Kelly Hall
 
+## [HB 1777](/bill/2023-24/hb/1777/) - Energy contracting 👍1  
+
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1  
 
 ## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge 👍1  
@@ -60,6 +64,8 @@
 
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  
 * 👍💵 Leah Missik
+
+## [SB 5165](/bill/2023-24/sb/5165/) - Electric transm. planning 👍1  
 
 ## [SB 5168](/bill/2023-24/sb/5168/) - Energy independence act  👎1 
 
@@ -83,7 +89,8 @@
 * ❓💵 Leah Missik
 * 👍💵 Leah Missik
 
-## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍2  
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍3  
+* 👍💵 Leah Missik
 * 👍💵 Leah Missik
 
 ## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy   ❓2

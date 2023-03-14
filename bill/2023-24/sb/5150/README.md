@@ -16,14 +16,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30958&aId=153298&caId=21967&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30958&aId=153298&caId=21967&tId=4)
 
-#### 41 👍 - Pro
+#### 69 👍 - Pro
+Testifying:
+* Jay Theiler - Washington Beef
+* Bill Sieverkropp - Grant County Cattlemen
+* Jeff Keane - President, Washington Cattlemen's Association
+* 💵Mark Streuli - [Washington Cattlemen's Association](/org/washington_cattlemen's_association/)
 
-#### 26 👎 - Con
+#### 40 👎 - Con
 Testifying:
 * Tanna Skidmore
 * Aislinn Bloss - Rancher
 * Julie Dashiell
 * Nancy McRae
+* Todd Vejraska
 
 #### 0 ❓ - Other
 

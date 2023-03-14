@@ -10,6 +10,8 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=E2SSB 5311)
+* [The Seattle Times](/org/the_seattle_times/) - [Remove cap on special education funding in WA now | The Seattle Times](https://www.seattletimes.com/opinion/editorials/remove-cap-on-special-education-funding-in-wa-now/#:~:text=Senate Bill 5311)
 * [Washington St Pta](/org/washington_st_pta/) - [Many Bills End Their Journey in 2023 with Fiscal Cutoff - WSPTA](https://www.wastatepta.org/many-bills-end-their-journey-in-2023-with-fiscal-cutoff/#:~:text=2SSB 5311)
 * [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SSB 5311)
 * [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=SB 5311)
@@ -27,7 +29,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31031&aId=153369&caId=22000&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31031&aId=153369&caId=22000&tId=4)
 
-#### 220 👍 - Pro
+#### 280 👍 - Pro
 Testifying:
 * Devony Audet - Parent of a student in special education
 * Jeremiah Audet - Student in special education
@@ -35,9 +37,9 @@ Testifying:
 * Leslie Hamada - KSD Legislative Representative for 2023 and former President of the Board 2020 & 2022
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 13 ❓ - Other
+#### 23 ❓ - Other
 Testifying:
 * Samantha Fogg - Seattle Council PTSA
 * Tanya Aggar - WA PTA
@@ -49,6 +51,15 @@ Testifying:
 * Superintendent Josh Garcia - Superintendent, Tacoma School District
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Michele Campbell
+* Dr. Sue Ann Bube - Mercer Island School District
+* Lisa Mathes - Washington State School Directors' Association (WSSDA)
+* Superintendent Patrick Murphy - Superintendent, Olympia School District
+* Ian Fogg - Student, Seattle Public Schools
+* Jen Chong Jewell - OSPI Special Education Advisory Council
+* Tania May - Office of Superintendent of Public Instruction
+* Jana Parker
+* Melissa Spiker
+* Michelle Whitehead
 
 ### Thu 02/09 04:00 PM - Ways & Means (WM): SSB 5311 Special education funding
 #### 84 👍 - Pro

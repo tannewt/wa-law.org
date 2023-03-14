@@ -9,13 +9,10 @@
 
 ## Meetings
 ### Mon 03/13 10:30 AM - Law & Justice (LAW): SHB 1088 Uniform family law arbitrat.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30941&aId=152968&caId=22097&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30941&aId=152968&caId=22097&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30941&aId=152968&caId=22097&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30941&aId=152968&caId=22097&tId=4)
-
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Kari Bearman - Kari Bearman, Legislative Counsel, Uniform Law Commission
+* PAUL MCVICKER - WSBA Dispute Resolution Section
 
 #### 0 👎 - Con
 

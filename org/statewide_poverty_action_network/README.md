@@ -2,6 +2,10 @@
 
 ## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 
+## [HB 1051](/bill/2023-24/hb/1051/) - Robocalls & telephone scams 👍1  
+
+## [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims 👍1  
+
 ## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍2  
 * 👍💵 Shaun Scott
 
@@ -17,7 +21,7 @@
 
 ## [HB 1218](/bill/2023-24/hb/1218/) - Caseload forecast/tax credit 👍1  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍3  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍4  
 
 ## [HB 1251](/bill/2023-24/hb/1251/) - Water system notices 👍1  
 
@@ -36,7 +40,7 @@
 
 ## [HB 1392](/bill/2023-24/hb/1392/) - Electronics repair 👍2  
 
-## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍2  
+## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍3  
 
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍10  
 * 👍💵 Alex Hur
@@ -49,7 +53,7 @@
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍4  
 * 👍💵 Shaun Scott
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍6  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍7  
 * 👍💵 Shaun Scott
 * 👍💵 Shaun Scott
 * 👍💵 Shaun Scott
@@ -95,7 +99,9 @@
 
 ## [SB 5183](/bill/2023-24/sb/5183/) - Personal needs allowance 👍1  
 
-## [SB 5198](/bill/2023-24/sb/5198/) - Mobile home community sales 👍2  
+## [SB 5197](/bill/2023-24/sb/5197/) - Eviction processes 👍1  
+
+## [SB 5198](/bill/2023-24/sb/5198/) - Mobile home community sales 👍3  
 
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures 👍1  
 

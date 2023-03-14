@@ -4,7 +4,8 @@
 
 ## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍2  
 
-## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍2  
+## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍3  
+* 👍💵 Yvette Maganya
 * 👍💵 Yvette Maganya
 
 ## [HB 1335](/bill/2023-24/hb/1335/) - Personal identifying info. 👍1  

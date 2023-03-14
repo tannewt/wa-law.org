@@ -15,11 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30990&aId=153194&caId=22012&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30990&aId=153194&caId=22012&tId=4)
 
-#### 5 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * 💵Nathaniel Brown - Northwest Kidney Council
 * 💵Leslie Emerick - Fresenius Medical Care North America (FMCNA)
 * Roman Daniels-Brown - DaVita
+* 💵Jessica Hostetler - [Northwest Kidney Centers](/org/northwest_kidney_centers/)
 
 #### 0 👎 - Con
 

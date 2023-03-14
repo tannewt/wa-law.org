@@ -14,7 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30978&aId=153142&caId=22134&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30978&aId=153142&caId=22134&tId=4)
 
-#### 5 👍 - Pro
+#### 35 👍 - Pro
+Testifying:
+* Will Power - IBEW LU 77
+* 💵Christine Reid - IBEW LU 77
+* mike McDougal - IBEW LU 77
+* Brick Strait - IBEW LU 77
+* 💵Nicole Grant - IBEW 46
 
 #### 0 👎 - Con
 

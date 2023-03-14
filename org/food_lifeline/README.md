@@ -38,7 +38,7 @@
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
 
-## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍5  
+## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍6  
 
 ## [HB 1499](/bill/2023-24/hb/1499/) - Food assistance funding 👍1  ❓1
 * ❓💵 Aaron Czyzewski
@@ -61,7 +61,7 @@
 
 ## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  
 
-## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍3  
+## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍4  
 * 👍 Linda Nageotte
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  

@@ -17,16 +17,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31005&aId=153387&caId=22142&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31005&aId=153387&caId=22142&tId=4)
 
-#### 138 👍 - Pro
+#### 163 👍 - Pro
 Testifying:
 * Ash Awad - McKinstry
 * Lincoln Ferris - [Seattle Colleges](/org/seattle_colleges/)
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * William Frare - Washington State Department of Enterprise Services
+* 💵Matt Zuvich - Office of State Treasurer
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 02/22 09:00 AM - Capital Budget (CB): HB 1777 Energy contracting
 #### 111 👍 - Pro

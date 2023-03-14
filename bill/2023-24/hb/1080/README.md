@@ -18,12 +18,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30942&aId=152986&caId=22139&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30942&aId=152986&caId=22139&tId=4)
 
-#### 3 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Christina Schuck - City of Kent, Deputy City Attorney
 * Kim Komoto - Kent City Clerk/Public Records Officer
+* Christina Schuck - City of Kent Deputy City Attorney
+* Kim Komoto - Kent City Clerk/Public Records Officer
+* 💵Rowland Thompson - Allied Daily Newspapers, WA Newspaper Publisher Assn,and WA State Assn of Broadcasters
+* 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Monica Alexander - Washington State Criminal Justice Training Commission
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Braden Pence
+* Jason Lantz - Washington Association of Criminal Defense Lawyers and Washington Defender Association
+* 💵Larry Shannon - WA State Association for Justice
 
 #### 0 ❓ - Other
 

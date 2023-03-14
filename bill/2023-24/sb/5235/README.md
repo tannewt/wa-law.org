@@ -16,24 +16,21 @@
 
 ## Meetings
 ### Mon 03/13 01:30 PM - Housing (HOUS): SSB 5235 Accessory dwelling units
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31019&aId=153314&caId=22023&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31019&aId=153314&caId=22023&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31019&aId=153314&caId=22023&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31019&aId=153314&caId=22023&tId=4)
-
-#### 50 👍 - Pro
+#### 70 👍 - Pro
 Testifying:
 * 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 
-#### 180 👎 - Con
+#### 202 👎 - Con
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 1 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * 💵Briahna Murray - Cities of Redmond, Bellevue, Pasco, Spokane Valley
+* Kristen Holdsworth - City of Kent Long Range Planning Manager
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Vivian Olson
 
 ### Thu 03/09 08:00 AM - Housing (HOUS): SSB 5235 Accessory dwelling units
 #### 42 👍 - Pro

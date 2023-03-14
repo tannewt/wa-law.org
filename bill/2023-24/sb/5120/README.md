@@ -19,13 +19,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30991&aId=153197&caId=22015&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30991&aId=153197&caId=22015&tId=4)
 
-#### 41 👍 - Pro
+#### 58 👍 - Pro
 Testifying:
 * Sarah Perry - [King County](/org/king_county/)
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * JERRI CLARK - MOMI--Mothers of the Mentally Ill
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Neal Black - Council member,  City of Kirkland
+* Arjun Rao - Lake Washington HS - AP Government
+* Grace Ross - Capitol Classroom Lake Washington HIgh School
+* Nicole Haberl - Lake Washington HS - AP Government
+* 💵Brad Forbes - Alzheimer's Association
 
 #### 0 👎 - Con
 

@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=2SSB 5555)
 * [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SSB 5555)
 * [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=2SSB 5555)
 * [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB 5555)
@@ -23,9 +24,11 @@ Sign up to testify:
 
 #### 1 👍 - Pro
 
-#### 1 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * Billie Tyler - WA Association for Marriage and Family Therapy
+* Brad Berry - CVAB
+* Lorrin Gehring - The Rainbow Makers
 
 #### 0 ❓ - Other
 

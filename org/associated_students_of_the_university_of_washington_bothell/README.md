@@ -9,7 +9,7 @@
 
 ## [HB 1291](/bill/2023-24/hb/1291/) - Academic employee bargaining 👍1  
 
-## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍2  
+## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍3  
 * 👍💵 Puneet Birk
 
 ## [HB 1399](/bill/2023-24/hb/1399/) - Native American scholarships 👍1  
@@ -32,6 +32,8 @@
 
 ## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍2  
 * 👍💵 Puneet Birk
+
+## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍1  
 
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍5  
 

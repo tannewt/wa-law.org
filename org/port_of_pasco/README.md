@@ -9,6 +9,8 @@
 
 ## [SB 5277](/bill/2023-24/sb/5277/) - Dairy, etc. tax preferences 👍1  
 
+## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍1  
+
 ## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍1  
 * 👍 Buck Taft
 

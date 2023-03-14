@@ -19,16 +19,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30958&aId=153062&caId=21966&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30958&aId=153062&caId=21966&tId=4)
 
-#### 97 👍 - Pro
+#### 250 👍 - Pro
 Testifying:
 * Joseph Gaydos - UC Davis / SeaDoc Society
+* Frances Robertson - San Juan County
+* Todd Woodard - [Samish Indian Nation](/org/samish_indian_nation/)
+* Donna Sandstrom - The Whale Trail
+* Timothy Ragen
+* Julie Watson - WDFW
+* Tara Galuska - Rec and Conservation Office-Governor's Salmon Recovery Office
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Monika Shields - Orca Behavior Institute
 * Blaine DeWalt - Ballard Kayak and Paddleboard
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Erin Gless - [Pacific Whale Watch Association](/org/pacific_whale_watch_association/)
 
 ### Mon 01/30 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5371 Orca vessel protection
 #### 1470 👍 - Pro

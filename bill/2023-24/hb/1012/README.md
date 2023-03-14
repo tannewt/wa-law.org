@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30997&aId=153218&caId=22144&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30997&aId=153218&caId=22144&tId=4)
 
-#### 30 👍 - Pro
+#### 50 👍 - Pro
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Kimberly Hendrickson - [City of Poulsbo](/org/city_of_poulsbo/)

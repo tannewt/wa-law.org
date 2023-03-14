@@ -12,21 +12,22 @@
 
 ## Meetings
 ### Mon 03/13 01:30 PM - Environment & Energy (ENVI): SSB 5165 Electric transm. planning
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30977&aId=153137&caId=22004&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30977&aId=153137&caId=22004&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30977&aId=153137&caId=22004&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30977&aId=153137&caId=22004&tId=4)
-
-#### 175 👍 - Pro
+#### 225 👍 - Pro
 Testifying:
 * Ann Rendahl - Utilities & Transportation Commission
 * Anna Lising - Governor's Office
 * Glenn Blackmon - Department of Commerce
 * Kathleen Drew - Energy Facility Site Evaluation Council
 * Angus Duncan - Natural Resources Defense Council
+* 💵Logan Bahr - Tacoma Public Utilities/Tacoma Power
+* 💵Cassie Bordelon - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* 💵Mark Riker - Washington State Building and Construction Trades Council
+* 💵Steve Taylor - Cowlitz Public Utility District No. 1
+* 💵Nicolas Garcia - WPUDA
+* 💵Jay Balasbas - [Pacificorp](/org/pacificorp/)
+* 💵Kate Brouns - [Renewable Northwest](/org/renewable_northwest/)
 
-#### 2 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Amanda McKinney - Yakima County
 

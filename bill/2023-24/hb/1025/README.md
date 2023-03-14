@@ -9,7 +9,10 @@
 * [Second Substitute](S2/)
 
 ## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [WA Legislature forges ahead on assault weapons ban, new drug law | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-legislature-forges-ahead-on-assault-weapons-ban-new-drug-law/#:~:text=House Bill 1025)
+* [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Victims of police violence deserve a fair chance at justice | ACLU of Washington](http://www.aclu-wa.org/story/victims-police-violence-deserve-fair-chance-justice-bill-will-provide#:~:text=House Bill 1025)
 * [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=HB 1025)
+* [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Our legislative priorities for 2023 | ACLU of Washington](http://www.aclu-wa.org/pages/2023-legislative-agenda#:~:text=HB 1025)
 
 ## Meetings
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1025 Police/private actions

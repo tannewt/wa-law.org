@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=HB 1575)
 * [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=HB 1575)
 * [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=HB 1575)
 
@@ -18,11 +19,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153123&caId=22124&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153123&caId=22124&tId=4)
 
-#### 160 👍 - Pro
+#### 176 👍 - Pro
 Testifying:
 * Matthew Melendez - Great Bend Center for Music
+* Manuel R. Cawaling - Inspire Washington
 
-#### 7 👎 - Con
+#### 45 👎 - Con
 
 #### 0 ❓ - Other
 

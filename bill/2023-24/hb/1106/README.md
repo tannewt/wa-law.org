@@ -16,9 +16,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153536&caId=22207&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153536&caId=22207&tId=4)
 
-#### 10 👍 - Pro
+#### 24 👍 - Pro
+Testifying:
+* Anne Paxton - [Unemployment Law Project](/org/unemployment_law_project/)
+* 💵Sybill Hyppolite - Washington State Labor Council, AFL-CIO
 
-#### 2 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
 
 #### 0 ❓ - Other
 

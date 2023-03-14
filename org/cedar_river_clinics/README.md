@@ -1,12 +1,13 @@
 # Cedar River Clinics
 
-## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍2  
+## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍4  
+* 👍 Dr. Anuj Khattar
 * 👍 Dr. Anuj Khattar
 
 ## [HB 1340](/bill/2023-24/hb/1340/) - Health professions/conduct 👍3  
 * 👍 Dr Anuj Khattar
 
-## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
+## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍2  
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
 

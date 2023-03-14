@@ -15,7 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30987&aId=153175&caId=22061&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30987&aId=153175&caId=22061&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Amari Brown - The Evergreen State College
+* Sandy Kaiser - The Evergreen State College
+* Randall Tomaras - Restore University Wrestling
 
 #### 0 👎 - Con
 

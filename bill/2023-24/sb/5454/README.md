@@ -19,7 +19,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31024&aId=153336&caId=22050&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31024&aId=153336&caId=22050&tId=4)
 
-#### 89 👍 - Pro
+#### 116 👍 - Pro
+Testifying:
+* 💵Katharine Weiss - Washington State Nurses Association
 
 #### 1 👎 - Con
 

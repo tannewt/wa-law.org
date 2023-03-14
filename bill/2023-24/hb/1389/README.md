@@ -9,6 +9,8 @@
 * [Second Substitute](S2/)
 
 ## Articles
+* [The Urbanist](/org/the_urbanist/) - [The Olympia Waltz Continues for Middle Housing and Other Vital Legislation | The Urbanist](https://www.theurbanist.org/2023/03/09/waleg-week-9-striker-hb1110/#:~:text=HB 1389)
+* [The Seattle Times](/org/the_seattle_times/) - [WA Legislature forges ahead on assault weapons ban, new drug law | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-legislature-forges-ahead-on-assault-weapons-ban-new-drug-law/#:~:text=House Bill 1389)
 * [PubliCola](/org/publicola/) - [Landlords Target Renters With Predatory Junk Fees - PubliCola](https://publicola.com/2023/03/08/31685/#:~:text=House Bill 1389)
 * [The Urbanist](/org/the_urbanist/) - [Washington Legislature’s New Thinking About Housing | The Urbanist](https://www.theurbanist.org/2023/03/01/washington-legislatures-new-thinking-about-housing/#:~:text=1389)
 * [MyNorthwest](/org/mynorthwest/) - [Gee Scott: 'No, you cannot cap rent' in Washington state - MyNorthwest.com](https://mynorthwest.com/3847311/gee-scott-can-not-cap-rent-washington-state/#:~:text=House Bill 1389)
@@ -18,6 +20,7 @@
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Committee Action Expected on Some Bills This Week - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate012323#:~:text=H.B. 1389)
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washingtons Legislative Update - Week 5 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate020623#:~:text=H.B. 1389)
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 6 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02142023#:~:text=H.B. 1389)
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 10 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate031323#:~:text=H.B. 1389)
 
 ## Meetings
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1389 Residential rent increases

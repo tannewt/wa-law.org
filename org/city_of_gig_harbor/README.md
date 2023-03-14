@@ -1,5 +1,7 @@
 # City of Gig Harbor
 
+## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting  👎1 
+
 ## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits 👍3  
 * 👍 Tracie Markley
 

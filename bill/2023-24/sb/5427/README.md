@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [WA has no hate crime hotline, but the idea is gaining traction | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-has-no-hate-crime-hotline-but-the-idea-is-gaining-traction/#:~:text=Senate Bill 5427)
+
 ## Meetings
 ### Mon 02/20 09:00 AM - Ways & Means (WM): SB 5427 Hate crimes & bias incidents
 #### 290 👍 - Pro

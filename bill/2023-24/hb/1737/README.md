@@ -8,15 +8,15 @@
 
 ## Meetings
 ### Mon 03/13 04:00 PM - Ways & Means (WM): HB 1737 Reconciliation account
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31013&aId=153410&caId=22113&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31013&aId=153410&caId=22113&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31013&aId=153410&caId=22113&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31013&aId=153410&caId=22113&tId=4)
+#### 2 👍 - Pro
 
-#### 1 👍 - Pro
-
-#### 2 👎 - Con
+#### 15 👎 - Con
+Testifying:
+* Elmer Dixon
+* Dawn Mason - King County Equity Now
+* Wyking Garrett - The community
+* Jim Buchanan - The Community
+* Darrell Powell - NAACP - Seattle King County
 
 #### 0 ❓ - Other
 

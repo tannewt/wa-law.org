@@ -1,12 +1,16 @@
 # King County
 
-## [HB 1010](/bill/2023-24/hb/1010/) - Shellfish sanitary control 👍1  
+## [HB 1010](/bill/2023-24/hb/1010/) - Shellfish sanitary control 👍2  
+
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍1  
 
 ## [HB 1022](/bill/2023-24/hb/1022/) - Support & services levies 👍1  
 
 ## [HB 1035](/bill/2023-24/hb/1035/) - Health care restrictions 👍1  
 
-## [HB 1050](/bill/2023-24/hb/1050/) - Apprenticeship utilization 👍2  
+## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals 👍1  
+
+## [HB 1050](/bill/2023-24/hb/1050/) - Apprenticeship utilization 👍3  
 
 ## [HB 1055](/bill/2023-24/hb/1055/) - Pub safety telecommunicators 👍1  
 
@@ -42,7 +46,7 @@
 
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
 
-## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍1  
+## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍2  
 
 ## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍1  
 
@@ -50,7 +54,7 @@
 
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍2  
 
-## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍2  
 
 ## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍1  
 
@@ -81,7 +85,7 @@
 
 ## [HB 1255](/bill/2023-24/hb/1255/) - Health care prof. SUD prg. 👍2  
 
-## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍1  
+## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍2  
 
 ## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍1  
 
@@ -115,7 +119,7 @@
 
 ## [HB 1352](/bill/2023-24/hb/1352/) - County invest. pools/tribes 👍3  
 
-## [HB 1355](/bill/2023-24/hb/1355/) - Property tax exemptions 👍1  
+## [HB 1355](/bill/2023-24/hb/1355/) - Property tax exemptions 👍2  
 
 ## [HB 1367](/bill/2023-24/hb/1367/) - Homeless funding 👍2  
 
@@ -133,7 +137,9 @@
 
 ## [HB 1403](/bill/2023-24/hb/1403/) - Water & sewage system access  👎1 
 
-## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍1  
+## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  
+
+## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍2  
 
 ## [HB 1408](/bill/2023-24/hb/1408/) - HIV medication rebate rev. 👍1  
 
@@ -153,7 +159,7 @@
 
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍1  
 
-## [HB 1452](/bill/2023-24/hb/1452/) - Medical reserve corps 👍3  
+## [HB 1452](/bill/2023-24/hb/1452/) - Medical reserve corps 👍4  
 
 ## [HB 1455](/bill/2023-24/hb/1455/) - Child marriage 👍1  
 
@@ -170,6 +176,8 @@
 ## [HB 1493](/bill/2023-24/hb/1493/) - Impaired driving 👍1  
 
 ## [HB 1497](/bill/2023-24/hb/1497/) - Vapor and tobacco/minors 👍1  
+
+## [HB 1503](/bill/2023-24/hb/1503/) - Health care licenses/info. 👍1  
 
 ## [HB 1504](/bill/2023-24/hb/1504/) - Elementary school recess 👍1  
 
@@ -201,7 +209,7 @@
 ## [HB 1575](/bill/2023-24/hb/1575/) - Cultural access programs/tax 👍5  
 * 👍 Kate Becker
 
-## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍1  
+## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍2  
 
 ## [HB 1585](/bill/2023-24/hb/1585/) - Local infra. project areas 👍2  
 * 👍 MICHAEL MURPHY
@@ -237,9 +245,9 @@
 
 ## [HB 1772](/bill/2023-24/hb/1772/) - Tetrahydrocannabinol & alc. 👍1  
 
-## [HB 1777](/bill/2023-24/hb/1777/) - Energy contracting 👍1  
+## [HB 1777](/bill/2023-24/hb/1777/) - Energy contracting 👍2  
 
-## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
+## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍2  
 
 ## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services  👎1 
 
@@ -252,7 +260,9 @@
 
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍1  
 
-## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍2  
+## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍3  
+
+## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍1  
 
 ## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍1  
 
@@ -275,12 +285,12 @@
 ## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍2  
 * 👍 Sarah Perry
 
-## [SB 5130](/bill/2023-24/sb/5130/) - Assisted outpatient treat. 👍2  
+## [SB 5130](/bill/2023-24/sb/5130/) - Assisted outpatient treat. 👍3  
 * 👍💵 Michael White
 
 ## [SB 5142](/bill/2023-24/sb/5142/) - HIV medication rebate rev. 👍3  
 
-## [SB 5143](/bill/2023-24/sb/5143/) - Pesticide registration comm. 👍1  
+## [SB 5143](/bill/2023-24/sb/5143/) - Pesticide registration comm. 👍2  
 
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍2  
 
@@ -317,7 +327,7 @@
 
 ## [SB 5219](/bill/2023-24/sb/5219/) - Counseling compact 👍2  
 
-## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍3  
+## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍4  
 * 👍 Jessica Tollenaar Cafferty
 
 ## [SB 5228](/bill/2023-24/sb/5228/) - Behavioral health OT 👍1  
@@ -336,9 +346,11 @@
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍2  
 
-## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍1  
+## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍2  
 
 ## [SB 5260](/bill/2023-24/sb/5260/) - Reprod. health/employers 👍1  
+
+## [SB 5268](/bill/2023-24/sb/5268/) - Public works procurement 👍1  
 
 ## [SB 5273](/bill/2023-24/sb/5273/) - Employee information/unions 👍2  
 * 👍💵 Michael White
@@ -362,6 +374,8 @@
 
 ## [SB 5322](/bill/2023-24/sb/5322/) - Public building materials 👍1  
 
+## [SB 5326](/bill/2023-24/sb/5326/) - Vehicle insurance verif. 👍1  
+
 ## [SB 5328](/bill/2023-24/sb/5328/) - Pub safety telecommunicators 👍1  
 
 ## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍2  
@@ -377,7 +391,7 @@
 ## [SB 5367](/bill/2023-24/sb/5367/) - Products containing THC 👍2  
 * 👍 Sarah Ross-Viles
 
-## [SB 5369](/bill/2023-24/sb/5369/) - Polychlorinated biphenyls 👍1  
+## [SB 5369](/bill/2023-24/sb/5369/) - Polychlorinated biphenyls 👍2  
 
 ## [SB 5371](/bill/2023-24/sb/5371/) - Orca vessel protection 👍1  
 
@@ -404,11 +418,12 @@
 
 ## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍1  
 
-## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎1 ❓1
+## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations 👍1 👎1 ❓1
 * 👎 April Putney
 * ❓💵 Michael White
+* 👍💵 Michael White
 
-## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍1  
+## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍2  
 
 ## [SB 5459](/bill/2023-24/sb/5459/) - Election info. requests 👍1  
 
@@ -441,7 +456,7 @@
 
 ## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍1  
 
-## [SB 5592](/bill/2023-24/sb/5592/) - Defibrillators/fitness 👍2  
+## [SB 5592](/bill/2023-24/sb/5592/) - Defibrillators/fitness 👍3  
 
 ## [SB 5601](/bill/2023-24/sb/5601/) - Youth development office 👍1  
 

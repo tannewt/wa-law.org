@@ -1,6 +1,6 @@
 # Washington Conservation Action
 
-## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals 👍1  
+## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals 👍2  
 
 ## [HB 1081](/bill/2023-24/hb/1081/) - Derelict vessel appeals 👍1  
 
@@ -13,7 +13,7 @@
 
 ## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍2  
 
-## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍2  
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍3  
 
 ## [HB 1215](/bill/2023-24/hb/1215/) - Riparian areas 👍1  
 * 👍💵 Darcy Nonemacher

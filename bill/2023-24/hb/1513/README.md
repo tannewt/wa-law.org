@@ -8,8 +8,11 @@
 * [Substitute Bill](S/)
 
 ## Articles
+* [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [It’s time to prioritize traffic safety for all Washingtonians. This bill will do that. | ACLU of Washington](http://www.aclu-wa.org/story/it%E2%80%99s-time-prioritize-traffic-safety-all-washingtonians-bill-will-do#:~:text=The Traffic Safety for All (HB 1513))
+* [The Seattle Times](/org/the_seattle_times/) - [WA Legislature forges ahead on assault weapons ban, new drug law | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-legislature-forges-ahead-on-assault-weapons-ban-new-drug-law/#:~:text=House Bill 1513)
 * [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Criminal Justice — Quaker Voice](https://www.quakervoicewa.org/criminal-justice/#:~:text=HB 1513)
 * [The Seattle Times](/org/the_seattle_times/) - [WA could narrow reasons for traffic stops in new police reform effort | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-could-narrow-reasons-for-traffic-stops-in-new-police-reform-effort/#:~:text=House Bill 1513)
+* [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Our legislative priorities for 2023 | ACLU of Washington](http://www.aclu-wa.org/pages/2023-legislative-agenda#:~:text=HB 1513)
 * [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers should pass two bills to add accountability to policing | The Seattle Times](https://www.seattletimes.com/opinion/wa-lawmakers-should-pass-two-bills-to-add-accountability-to-policing/#:~:text=House Bill 1513)
 
 ## Meetings

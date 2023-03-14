@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=E2SHB 1238)
 * [Washington St Pta](/org/washington_st_pta/) - [Many Bills End Their Journey in 2023 with Fiscal Cutoff - WSPTA](https://www.wastatepta.org/many-bills-end-their-journey-in-2023-with-fiscal-cutoff/#:~:text=2SHB 1238)
 * [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=HB 1238)
 * [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB 1238)
@@ -17,6 +18,7 @@
 * [The Washington Bus](/org/the_washington_bus/) - [Uncategorized Archives – The Washington Bus](http://www.washingtonbus.org/category/uncategorized/#:~:text=1238)
 * [Crosscut](/org/crosscut/) - [Free school lunch for all is off the table, but WA may expand access | Crosscut](https://crosscut.com/politics/2023/02/free-school-lunch-all-table-wa-may-expand-access#:~:text=House Bill 1238)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Bill to expand free school meals advances in Washington legislature | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/03/bill-to-expand-free-school-meals-advances-in-washi/#:~:text=House Bill 1238)
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 10 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate031323#:~:text=H.B. 1238,)
 * [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB 1238)
 * [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=E2SHB 1238)
 * [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=HB 1238)
@@ -29,11 +31,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31001&aId=153570&caId=22203&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31001&aId=153570&caId=22203&tId=4)
 
-#### 29 👍 - Pro
+#### 152 👍 - Pro
 Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* 💵Mitch Denning - WA Assn of Maintenance and Operation Administrators
+* Jessica Benton
+* Logan Endres - Washington State School Directors' Association (WSSDA)
 
-#### 0 👎 - Con
+#### 8 👎 - Con
 
 #### 1 ❓ - Other
 

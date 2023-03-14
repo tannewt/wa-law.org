@@ -25,7 +25,7 @@
 ## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options 👍2  
 * 👍💵 Roz Thompson
 
-## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍1  
+## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍2  
 
 ## [HB 1332](/bill/2023-24/hb/1332/) - Tribes/K-12 instruction 👍1  
 
@@ -45,6 +45,8 @@
 ## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍3  
 * 👍💵 Roz Thompson
 * 👍💵 Roz Thompson
+
+## [HB 1732](/bill/2023-24/hb/1732/) - K-12 inflation adjustments 👍1  
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
 

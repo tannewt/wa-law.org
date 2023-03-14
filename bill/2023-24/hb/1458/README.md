@@ -9,16 +9,11 @@
 
 ## Meetings
 ### Mon 03/13 10:30 AM - Labor & Commerce (LC): SHB 1458 Apprenticeship programs/UI
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30975&aId=153129&caId=22090&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30975&aId=153129&caId=22090&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30975&aId=153129&caId=22090&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30975&aId=153129&caId=22090&tId=4)
-
-#### 34 👍 - Pro
+#### 57 👍 - Pro
 Testifying:
 * 💵Erin Frasier - Washington State Building & Construction Trades Council
 * 💵Heather Kurtenbach - Ironworkers L 86
+* Andrew Vander Stoep - IBEW 191
 
 #### 2 👎 - Con
 

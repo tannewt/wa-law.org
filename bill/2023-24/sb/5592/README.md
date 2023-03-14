@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30990&aId=153532&caId=22195&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30990&aId=153532&caId=22195&tId=4)
 
-#### 19 👍 - Pro
+#### 55 👍 - Pro
 Testifying:
 * Brandon Austin
+* Brian Hurley - Tumwater Fire Department
+* Kimberly Reiter
+* Karli Reiter
 
 #### 0 👎 - Con
 

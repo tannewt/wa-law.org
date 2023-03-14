@@ -22,7 +22,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30985&aId=153168&caId=22178&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30985&aId=153168&caId=22178&tId=4)
 
-#### 182 👍 - Pro
+#### 316 👍 - Pro
 Testifying:
 * Darryl Smith - HomeSight
 * Corinna Obar - Washington State Housing Finance Commiss
@@ -30,8 +30,9 @@ Testifying:
 * Patience Malaba - Housing Development Consortium of Seattle-King County
 * 💵Clifford Cawthon - Habitat for Humanity Seattle-King County
 * Corinna Obar - Washington State Housing Finance Commiss
+* Councilmember Kiara Daniels - [City of Tacoma](/org/city_of_tacoma/)
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

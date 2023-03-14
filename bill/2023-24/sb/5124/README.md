@@ -16,7 +16,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31002&aId=153242&caId=22029&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31002&aId=153242&caId=22029&tId=4)
 
-#### 7 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* Jarel Sanders - Partners for Our Children
+* Shelly Willis - [Family Education and Support Services](/org/family_education_and_support_services/)
+* Tara Urs - King County Public Defense
 
 #### 1 👎 - Con
 

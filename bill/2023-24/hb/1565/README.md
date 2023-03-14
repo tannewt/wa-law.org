@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=E2SHB 1565)
 * [Washington St Pta](/org/washington_st_pta/) - [Many Bills End Their Journey in 2023 with Fiscal Cutoff - WSPTA](https://www.wastatepta.org/many-bills-end-their-journey-in-2023-with-fiscal-cutoff/#:~:text=2SHB 1565)
 * [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=HB 1565)
 * [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB 1565)
@@ -17,20 +18,16 @@
 
 ## Meetings
 ### Mon 03/13 01:30 PM - Early Learning & K-12 Education (EDU): E2SHB 1565 Prof. education workforce
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30999&aId=153236&caId=22105&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30999&aId=153236&caId=22105&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30999&aId=153236&caId=22105&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30999&aId=153236&caId=22105&tId=4)
-
-#### 73 👍 - Pro
+#### 92 👍 - Pro
 Testifying:
 * 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
 * Katie Taylor - Office of Superintendent of Public Instruction
 * Ben Mitchell - Foundation for Tacoma Students
 * Karl Gapuz - [Seattle Education Association](/org/seattle_education_association/)
+* Dr. Erica Hernandez-Scott - [Professional Educator Standards Board](/org/professional_educator_standards_board/)
+* Koray Lynx - Washington Association of Colleges for Teacher Education (WACTE)
 
-#### 1 👎 - Con
+#### 6 👎 - Con
 
 #### 0 ❓ - Other
 

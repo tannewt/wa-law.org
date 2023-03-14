@@ -1,5 +1,7 @@
 # Sierra Pacific Industries
 
+## [HB 1068](/bill/2023-24/hb/1068/) - Injured worker medical exams  👎1 
+
 ## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials  👎1 
 
 ## [HB 1342](/bill/2023-24/hb/1342/) - Embodied carbon reductions 👍1  
@@ -14,7 +16,7 @@
 * 👎 Bill Turner
 * 👎 Bill Turner
 
-## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I  👎1 
+## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I  👎2 
 
 ## [SB 5254](/bill/2023-24/sb/5254/) - Leasing of state lands 👍1  
 * 👍 Dave Arbaugh

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30963&aId=153087&caId=22058&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30963&aId=153087&caId=22058&tId=4)
 
-#### 3 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Michael Walker - Vancouver Downtown Association
 * 💵Brian Enslow - [City of Vancouver](/org/city_of_vancouver/)

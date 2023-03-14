@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Mon 03/13 01:30 PM - Regulated Substances & Gaming (RSG): E2SSB 5367 Products containing THC
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30993&aId=153208&caId=22063&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30993&aId=153208&caId=22063&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30993&aId=153208&caId=22063&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30993&aId=153208&caId=22063&tId=4)
-
-#### 22 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * Lukas Hunter - Harmony Farms
 * MD, MPH, FAAP, Cora Breuner - Washington Chapter of the American Academy of Pediatrics
@@ -25,8 +19,11 @@ Testifying:
 * Adán Espino Jr - [Craft Cannabis Coalition](/org/craft_cannabis_coalition/)
 * Justin Nordhorn - Washington State Liquor and Cannabis Board
 * Marc Webster - Washington State Liquor and Cannabis Board
+* Scott Waller - WASAVP - Prevention First! for Safe and Healthy Communities
+* 💵Vicki Christophersen - [Washington Cannabusiness Association](/org/washington_cannabusiness_association/)
+* Lacy Fehrenbach - Washington State Department of Health
 
-#### 16 👎 - Con
+#### 40 👎 - Con
 Testifying:
 * Arthur West
 * Azmyth Kaminski
@@ -36,10 +33,19 @@ Testifying:
 * Joshua Schneider - Association of western hemp professionals
 * Bonny Jo Peterson - Industrial Hemp Association of WA
 * Amber Wise
+* Jared Stanley - Charlotte's Web
+* Patrick Hyland - NeXtraction Inc
+* Scott Wheat - Wheat Family Farm, LLC
+* floyd beaman
+* Owen Ashley
+* Jessica Tonani
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Ezra Eickmeyer - Producers NW
+* Kelly McLain - Washington State Department of Agriculture
+* Micah Sherman - Washington Sun and Craft Growers Association
+* Burl Bryson - The Cannabis Alliance
 
 ### Sat 02/18 09:00 AM - Ways & Means (WM): SSB 5367 Products containing THC
 #### 13 👍 - Pro

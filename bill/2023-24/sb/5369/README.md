@@ -8,19 +8,19 @@
 
 ## Meetings
 ### Mon 03/13 01:30 PM - Environment & Energy (ENVI): SB 5369 Polychlorinated biphenyls
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30977&aId=153430&caId=22005&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30977&aId=153430&caId=22005&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30977&aId=153430&caId=22005&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30977&aId=153430&caId=22005&tId=4)
-
-#### 3 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* 💵Melissa Gombosky - Inland Empire Paper Company
+* Doug Krapas - Inland Empire Paper Company
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Holly Davies - AVAILABLE FOR QUESTIONS Washington State Department of Health
+* Scott Braithwaite - [American Coatings Association](/org/american_coatings_association/)
+* Kimberly Goetz - Department of Ecology, Hazardous Waste & Toxics Reduction Program
 
 ### Thu 03/09 08:00 AM - Environment & Energy (ENVI): SB 5369 Polychlorinated biphenyls
 #### 5 👍 - Pro

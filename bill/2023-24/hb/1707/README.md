@@ -18,7 +18,9 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tommy Oakes - WA State Gambling Commission
 
 ### Mon 02/06 01:30 PM - Regulated Substances & Gaming (RSG): HB 1707 Bingo
 #### 2 👍 - Pro

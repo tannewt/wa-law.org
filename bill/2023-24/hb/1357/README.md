@@ -17,7 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30976&aId=153201&caId=22167&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30976&aId=153201&caId=22167&tId=4)
 
-#### 7 👍 - Pro
+#### 28 👍 - Pro
+Testifying:
+* Nancy Belcher - [King County Medical Society](/org/king_county_medical_society/)
+* Dr. Teresa Girolami
 
 #### 0 👎 - Con
 

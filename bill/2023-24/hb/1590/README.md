@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Mon 03/13 10:30 AM - Human Services (HS): SHB 1590 Oversight board for DCYF
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30945&aId=153008&caId=22088&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30945&aId=153008&caId=22088&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30945&aId=153008&caId=22088&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30945&aId=153008&caId=22088&tId=4)
-
-#### 3 👍 - Pro
+#### 10 👍 - Pro
 
 #### 0 👎 - Con
 

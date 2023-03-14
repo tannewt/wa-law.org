@@ -9,20 +9,14 @@
 
 ## Meetings
 ### Mon 03/13 01:30 PM - Community Safety, Justice, & Reentry (CSJR): SSB 5424 Flexible work/peace officers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30970&aId=153101&caId=21980&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30970&aId=153101&caId=21980&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30970&aId=153101&caId=21980&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30970&aId=153101&caId=21980&tId=4)
-
-#### 5 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Sue Rahr
 * Maureen ("Mo") McGough - The Policing Project at NYU Law/The 30x30 Initiative to Advance Women in Policing
 * Carol Cummings
 * 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 51 👎 - Con
+#### 67 👎 - Con
 Testifying:
 * Leslie Cushman - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 

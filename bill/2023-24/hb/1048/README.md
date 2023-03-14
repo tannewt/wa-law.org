@@ -16,18 +16,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30997&aId=153217&caId=22143&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30997&aId=153217&caId=22143&tId=4)
 
-#### 143 👍 - Pro
+#### 293 👍 - Pro
 Testifying:
 * Carol Sullivan - League of Women Voters of WA
 * Maxwell Brooke
 * 💵Alex Hur - OneAmerica
 * Maxwell Brooke
+* 💵Alex Hur - OneAmerica
+* 💵Colin Cole - More Equitable Democracy
+* David Morales - South Central Coalition of People of Color for Redistricting
+* Aseem Mulji - Campaign Legal Center
+* Denisse Guerreo - WA Community Alliance
+* Soumyo Lahiri-Gupta - OneAmerica
 
-#### 10 👎 - Con
+#### 177 👎 - Con
 Testifying:
 * Maxwell Brooke
+* Diane Vevea
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 

@@ -1,5 +1,7 @@
 # City of Tacoma
 
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍1  
+
 ## [HB 1069](/bill/2023-24/hb/1069/) - Mental health counselor comp 👍1  
 
 ## [HB 1087](/bill/2023-24/hb/1087/) - Solitary confinement 👍1  
@@ -25,12 +27,18 @@
 
 ## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍1  
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍3  
 * 👍 Mayor Victoria Woodards
+* 👍 Councilmember Kiara Daniels
 
-## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍1  
+## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍2  
+
+## [HB 1521](/bill/2023-24/hb/1521/) - Industrial insurance/duties  👎1 
+* 👎 Andy Cherullo
 
 ## [HB 1530](/bill/2023-24/hb/1530/) - Law enf. employ. eligibility 👍1  
+
+## [HB 1575](/bill/2023-24/hb/1575/) - Cultural access programs/tax 👍1  
 
 ## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍2  
 * 👍 Mayor, Victoria Woodards
@@ -42,6 +50,8 @@
 ## [HB 1648](/bill/2023-24/hb/1648/) - Ticket sales   ❓1
 
 ## [HB 1670](/bill/2023-24/hb/1670/) - Property tax limit factor 👍2  
+
+## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  
 
 ## [HB 1790](/bill/2023-24/hb/1790/) - Cannabis social equity 👍1  
 * 👍 Councilmember Keith Blocker
@@ -56,7 +66,7 @@
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 
-## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍2  
+## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍3  
 * 👍 Preston Peck
 
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget   ❓2
@@ -89,7 +99,7 @@
 ## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍2  
 * 👍 Mayor Victoria Woodards
 
-## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍1  
+## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍2  
 
 ## [SB 5606](/bill/2023-24/sb/5606/) - Illegal racing 👍1  
 * 👍 Mayor Victoria Woodards

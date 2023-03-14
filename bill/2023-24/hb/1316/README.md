@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=2SHB 1316)
 * [Washington St Pta](/org/washington_st_pta/) - [Many Bills End Their Journey in 2023 with Fiscal Cutoff - WSPTA](https://www.wastatepta.org/many-bills-end-their-journey-in-2023-with-fiscal-cutoff/#:~:text=2SHB 1316)
 * [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=HB 1316)
 * [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB 1316)
@@ -19,21 +20,19 @@
 
 ## Meetings
 ### Mon 03/13 01:30 PM - Early Learning & K-12 Education (EDU): 2SHB 1316 Dual credit program access
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30999&aId=153234&caId=22103&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30999&aId=153234&caId=22103&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30999&aId=153234&caId=22103&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30999&aId=153234&caId=22103&tId=4)
-
-#### 19 👍 - Pro
+#### 36 👍 - Pro
 Testifying:
 * Kim Reykdal - Office of Superintendent of Public Instruction
 * Jana Parker - Seattle Special Education PTSA
 * Alexander Oliver - Student at Clover Park Technical College
 * Brianne Robinson - Student at South Puget Sound Community College
 * Jamie Traugott - State Board for Community and Technical Colleges
+* 💵Sopeara Chay - South Puget Sound Community College
+* Robert Cox - Centralia College
+* Aidan Cox
+* Paige Hill
 
-#### 1 👎 - Con
+#### 6 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

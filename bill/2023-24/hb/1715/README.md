@@ -21,11 +21,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30943&aId=153422&caId=22161&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30943&aId=153422&caId=22161&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 
-#### 13 👎 - Con
+#### 15 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Rick Torrance - Department of Commerce
 
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1715 Domestic violence
 #### 15 👍 - Pro

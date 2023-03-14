@@ -15,7 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31028&aId=153352&caId=22074&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31028&aId=153352&caId=22074&tId=4)
 
-#### 1 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Vicky Dalton - Spokane County Auditor - Washington State Assoc of County Auditors
+* 💵John Stuhlmiller - Washington State Water Resources Association
+* Mike Schwisow - Washington State Wate Resources Association
 
 #### 1 👎 - Con
 

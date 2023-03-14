@@ -16,9 +16,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30973&aId=153512&caId=22191&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30973&aId=153512&caId=22191&tId=4)
 
-#### 5 👍 - Pro
+#### 16 👍 - Pro
+Testifying:
+* Lolinda Turner - Delta Dental of WA
+* Renee Fullerton - Health Workforce Council
 
-#### 1 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Xiaorong Zheng
 
 #### 0 ❓ - Other
 

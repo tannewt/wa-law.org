@@ -8,7 +8,9 @@
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
 
-## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍2  
+## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  
+
+## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍3  
 
 ## [HB 1432](/bill/2023-24/hb/1432/) - Juvenile justice 👍1  
 
@@ -37,6 +39,8 @@
 * 👍💵 Megan Veith
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
+
+## [SB 5197](/bill/2023-24/sb/5197/) - Eviction processes 👍1  
 
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures 👍1  
 

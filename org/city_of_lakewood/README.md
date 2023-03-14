@@ -4,6 +4,8 @@
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing  👎1 
 
+## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting  👎1 
+
 ## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits 👍1  
 
 ## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍1  

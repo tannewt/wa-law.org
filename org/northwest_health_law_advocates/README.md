@@ -4,7 +4,7 @@
 
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
 
-## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍2  
+## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍3  
 
 ## [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board 👍1  
 

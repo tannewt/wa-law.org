@@ -8,17 +8,11 @@
 
 ## Meetings
 ### Mon 03/13 10:30 AM - Human Services (HS): HB 1345 DOC/costs of privileges
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30945&aId=153004&caId=22084&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30945&aId=153004&caId=22084&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30945&aId=153004&caId=22084&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30945&aId=153004&caId=22084&tId=4)
-
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Kristi Knudsen - Washington State Department of Corrections
 
-#### 2 👎 - Con
+#### 8 👎 - Con
 
 #### 0 ❓ - Other
 

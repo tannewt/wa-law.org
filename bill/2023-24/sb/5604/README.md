@@ -15,9 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30963&aId=153084&caId=22055&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30963&aId=153084&caId=22055&tId=4)
 
-#### 4 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Mary Jane Brell-Vujovic - Snohomish County
+* LaDon Linde - Yakima County
 
 #### 0 👎 - Con
 

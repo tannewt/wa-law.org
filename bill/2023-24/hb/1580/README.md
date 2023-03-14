@@ -16,13 +16,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30946&aId=153174&caId=22130&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30946&aId=153174&caId=22130&tId=4)
 
-#### 20 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * Kashi Arora - Seattle Children's
 * Sina Shah - Seattle Children's
 * Jessica Cook
 * Anna Rassman - EvergreenHealth
 * 💵Diana Stadden - The Arc of WA State
+* 💵Cara Helmer - WSHA
+* Laura Knapp - Providence Swedish
 
 #### 0 👎 - Con
 

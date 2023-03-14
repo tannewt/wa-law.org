@@ -9,6 +9,8 @@
 ## [HB 1234](/bill/2023-24/hb/1234/) - Civil forfeiture of animals 👍2  
 * 👍 Kirsten Gregory
 
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
+
 ## [HB 1424](/bill/2023-24/hb/1424/) - Dogs and cats/consumers 👍1  
 * 👍💵 Brooke Davies
 

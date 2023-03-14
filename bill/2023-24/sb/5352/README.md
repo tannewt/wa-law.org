@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [WA Legislature forges ahead on assault weapons ban, new drug law | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-legislature-forges-ahead-on-assault-weapons-ban-new-drug-law/#:~:text=Senate Bill 5352)
+* [PubliCola](/org/publicola/) - [Legislative Cutoff Fizz: Police Pursuit Bill Moves Forward While Tenant Protections Die - PubliCola](https://publicola.com/2023/03/09/legislative-cutoff-fizz-police-pursuit-bill-moves-forward-while-tenant-protections-die/#:~:text=Senate Bill 5352)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Washington Senate passes police pursuit bill, increasing when law enforcement can chase | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/08/washington-senate-passes-police-pursuit-bill-incre/#:~:text=Senate Bill 5352)
 
 ## Meetings

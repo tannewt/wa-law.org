@@ -13,10 +13,14 @@
 ## [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act   ❓1
 * ❓💵 Candice Bock
 
-## [HB 1050](/bill/2023-24/hb/1050/) - Apprenticeship utilization   ❓1
+## [HB 1050](/bill/2023-24/hb/1050/) - Apprenticeship utilization 👍1  ❓1
 * ❓ Brandy DeLange
+* 👍 Brandy DeLange
 
-## [HB 1056](/bill/2023-24/hb/1056/) - Postretirement employment 👍1  
+## [HB 1056](/bill/2023-24/hb/1056/) - Postretirement employment 👍2  
+
+## [HB 1080](/bill/2023-24/hb/1080/) - Body worn cameras 👍1  
+* 👍💵 Lindsey Hueer
 
 ## [HB 1086](/bill/2023-24/hb/1086/) - Community org. contracts 👍1  
 
@@ -32,9 +36,11 @@
 
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
 
+## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍1  
+
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
 
-## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍2  
 * 👍💵 Carl Schroeder
 
 ## [HB 1187](/bill/2023-24/hb/1187/) - Employee-union privilege   ❓1
@@ -48,8 +54,9 @@
 
 ## [HB 1209](/bill/2023-24/hb/1209/) - Controlled substance equip. 👍1  
 
-## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting   ❓1
+## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting  👎1 ❓1
 * ❓💵 Carl Schroeder
+* 👎 CARL SCHROEDER
 
 ## [HB 1252](/bill/2023-24/hb/1252/) - Impact fee deferrals 👍1  
 
@@ -178,6 +185,9 @@
 * 👎💵 Candice Bock
 * 👎💵 Candice Bock
 
+## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity   ❓1
+* ❓💵 Lindsey Hueer
+
 ## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍1  
 
 ## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
@@ -200,14 +210,15 @@
 
 ## [SB 5229](/bill/2023-24/sb/5229/) - Site readiness grants 👍3  
 
-## [SB 5235](/bill/2023-24/sb/5235/) - Accessory dwelling units   ❓1
+## [SB 5235](/bill/2023-24/sb/5235/) - Accessory dwelling units   ❓2
+* ❓💵 Carl Schroeder
 * ❓💵 Carl Schroeder
 
 ## [SB 5247](/bill/2023-24/sb/5247/) - Climate-ready communities 👍1  
 
 ## [SB 5258](/bill/2023-24/sb/5258/) - Condos and townhouses 👍1  
 
-## [SB 5268](/bill/2023-24/sb/5268/) - Public works procurement 👍2  
+## [SB 5268](/bill/2023-24/sb/5268/) - Public works procurement 👍3  
 
 ## [SB 5273](/bill/2023-24/sb/5273/) - Employee information/unions   ❓1
 * ❓💵 Candice Bock
@@ -259,7 +270,8 @@
 ## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎2 
 * 👎💵 Lindsey Hueer
 
-## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍1  
+## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍2  
+* 👍 Brandy DeLange
 
 ## [SB 5456](/bill/2023-24/sb/5456/) - Minimum parking requirements  👎1 
 * 👎💵 Carl Schroeder

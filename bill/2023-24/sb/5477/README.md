@@ -13,13 +13,9 @@
 
 ## Meetings
 ### Mon 03/13 01:30 PM - Community Safety, Justice, & Reentry (CSJR): 2SSB 5477 Murdered indigenous women
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30970&aId=153103&caId=21982&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30970&aId=153103&caId=21982&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30970&aId=153103&caId=21982&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30970&aId=153103&caId=21982&tId=4)
-
-#### 90 👍 - Pro
+#### 107 👍 - Pro
+Testifying:
+* Senator Claudia Coffman
 
 #### 0 👎 - Con
 

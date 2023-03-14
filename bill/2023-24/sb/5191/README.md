@@ -15,9 +15,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31016&aId=153303&caId=21987&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31016&aId=153303&caId=21987&tId=4)
 
-#### 2 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* 💵Bill Clarke - [WA Realtors](/org/washington_association_of_realtors/)
+* Justin Haag - NW Multiple Listing Service
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Kary Krismer - Self
 
 #### 0 ❓ - Other
 

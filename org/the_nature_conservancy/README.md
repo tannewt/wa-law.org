@@ -1,6 +1,6 @@
 # The Nature Conservancy
 
-## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍1  
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 
 ## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 
@@ -16,9 +16,11 @@
 * 👍 Joshua Rubenstein
 * 👍 Skippy Shaw
 
-## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍2  
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍4  
 * 👍 Jamie Stroble
 * 👍 Skippy Shaw
+* 👍 Jamie Stroble
+* 👍 Jamie Stroble
 
 ## [HB 1192](/bill/2023-24/hb/1192/) - Electric transm. planning 👍1  
 * 👍💵 Justin Allegro
@@ -43,7 +45,7 @@
 
 ## [HB 1686](/bill/2023-24/hb/1686/) - Salmon recovery 👍1  
 
-## [HB 1728](/bill/2023-24/hb/1728/) - Statewide resiliency program 👍1  
+## [HB 1728](/bill/2023-24/hb/1728/) - Statewide resiliency program 👍2  
 * 👍 Skippy Shaw
 
 ## [HB 1767](/bill/2023-24/hb/1767/) - Federal funding opps. 👍1  

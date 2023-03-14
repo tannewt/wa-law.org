@@ -15,15 +15,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30978&aId=153138&caId=22131&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30978&aId=153138&caId=22131&tId=4)
 
-#### 31 👍 - Pro
+#### 43 👍 - Pro
 Testifying:
 * Thomas Kelly
+* Jamison Smith
+* Ryan Nute - Washington State Association for Justice
+* Robert Brown
+* Bill Hochberg - Washington State Association for Justice
+* Robert Canfield
+* Chris Carlisle - Carlisle + Byers
 
-#### 22 👎 - Con
+#### 60 👎 - Con
 Testifying:
 * ROSE GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Carolyn Logue - [Washington Independent Medical Exam Coalition](/org/washington_independent_medical_exam_coalition/)
 * Wendy Marlowe
+* Kris Tefft - Washington Self-Insurers Association
+* 💵Christine Brewer - MES Solutions
+* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Tammie Hetrick - Washington Food Industry Association
 
 #### 0 ❓ - Other
 

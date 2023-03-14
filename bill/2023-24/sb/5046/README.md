@@ -19,10 +19,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30950&aId=153396&caId=21978&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30950&aId=153396&caId=21978&tId=4)
 
-#### 41 👍 - Pro
+#### 62 👍 - Pro
 Testifying:
 * Jeffrey Ellis
 * Jennifer Smith - Seattle Clemency Project
+* Vidal Vincent
 
 #### 1 👎 - Con
 Testifying:

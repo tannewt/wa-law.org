@@ -17,12 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30962&aId=153083&caId=22054&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30962&aId=153083&caId=22054&tId=4)
 
-#### 15 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Frank Kuntz - City of Wenatchee
 * 💵Blake Baldwin - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
 * Steve Maher - Our Valley Our Future nonprofit in Wenatchee
 * Jerrilea Crawford - City of East Wenatchee
+* Steven Wilkinson - [Wenatchee Valley Chamber of Commerce](/org/wenatchee_valley_chamber_of_commerce/)
+* Richard DeRock - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
+* Chuck Denney - [City of Tumwater](/org/city_of_tumwater/)
+* Sasha Sleiman - Board of Chelan County Commissioners
+* Richard DeRock - Link Transit (Chelan Douglas Public Transit Benfit Area)
+* Paul Simmons - City of Olympia, Washington Recreation and Parks Association
 
 #### 0 👎 - Con
 

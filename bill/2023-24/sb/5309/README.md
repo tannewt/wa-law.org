@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31025&aId=153340&caId=22009&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31025&aId=153340&caId=22009&tId=4)
 
-#### 2 👍 - Pro
+#### 85 👍 - Pro
 
-#### 5 👎 - Con
+#### 107 👎 - Con
 Testifying:
 * 💵Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
+* Kathy Kajfas
+* 💵Sheri Call - Washington Trucking Associations
+* 💵Greg Hanon - WSPA
 
 #### 0 ❓ - Other
 

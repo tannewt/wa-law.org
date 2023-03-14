@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31002&aId=153243&caId=22030&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31002&aId=153243&caId=22030&tId=4)
 
-#### 129 👍 - Pro
+#### 286 👍 - Pro
 Testifying:
 * Colleen Condon - Washington Childcare Center Association
 * Noemi Correa - Heritage
@@ -28,6 +28,8 @@ Testifying:
 * Christina Felisiano - [Child Care Resources](/org/child_care_resources/)
 * Christina Mason - [Washington Association of Drug Courts](/org/washington_association_of_drug_courts/)
 * Angelita Cervantes - COMMUNITY FOR OUR COLLEGES
+* Audel Ramirez
+* Susan Brown
 
 #### 1 👎 - Con
 

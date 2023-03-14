@@ -155,7 +155,8 @@
 ## [SB 5418](/bill/2023-24/sb/5418/) - Definition of public work  👎1 
 * 👎💵 Josie Cummings
 
-## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use  👎2 
+## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use  👎3 
+* 👎💵 Bill Stauffacher
 * 👎💵 Bill Stauffacher
 * 👎💵 Bill Stauffacher
 

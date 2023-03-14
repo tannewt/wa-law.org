@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Mon 03/13 10:30 AM - Labor & Commerce (LC): SHB 1570 TNC insurance programs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30975&aId=153133&caId=22094&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30975&aId=153133&caId=22094&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30975&aId=153133&caId=22094&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30975&aId=153133&caId=22094&tId=4)
-
-#### 8 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * 💵Allison Ford - Uber Technologies
 * 💵Saahil Karpe - Lyft
@@ -23,6 +17,7 @@ Testifying:
 * Daniel Zeitlin - WA State Employment Security Dept
 * Ahmed Farah
 * Bill Horton
+* 💵Brenda Wiest - Teamsters/Driver’s Union
 
 #### 0 👎 - Con
 

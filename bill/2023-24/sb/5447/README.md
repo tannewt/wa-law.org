@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Mon 03/13 01:30 PM - Environment & Energy (ENVI): ESSB 5447 Alternative jet fuel
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30977&aId=153431&caId=22006&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30977&aId=153431&caId=22006&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30977&aId=153431&caId=22006&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30977&aId=153431&caId=22006&tId=4)
-
-#### 30 👍 - Pro
+#### 52 👍 - Pro
 Testifying:
 * 💵Donny Donovan - IAM 751
 * Joel Creswell - Washington Department of Ecology
@@ -34,11 +28,13 @@ Testifying:
 * Andrew Troske - Parr Pacific
 * Derek Phelps - twelve
 * Peter Dahling
+* Derek Phelps - [Twelve](/org/twelve/)
 
-#### 6 👎 - Con
+#### 59 👎 - Con
 Testifying:
 * Ursula Euler
 * Anne Kroeker - No Group
+* Breck Lebegue - WA Physicians for Social Responsibility
 
 #### 1 ❓ - Other
 

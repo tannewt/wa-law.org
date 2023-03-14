@@ -8,7 +8,9 @@
 * 👍 Kevin David
 * 👍 Anita Marcelo
 
-## [HB 1736](/bill/2023-24/hb/1736/) - Vehicle odometer readings  👎1 
+## [HB 1736](/bill/2023-24/hb/1736/) - Vehicle odometer readings  👎1 ❓1
+
+## [SB 5326](/bill/2023-24/sb/5326/) - Vehicle insurance verif.   ❓1
 
 ## [SB 5548](/bill/2023-24/sb/5548/) - Vehicle service fees 👍3  
 * 👍 Joe DePinto

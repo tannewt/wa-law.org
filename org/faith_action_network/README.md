@@ -16,7 +16,7 @@
 
 ## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍3  
 
-## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍5  
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍6  
 
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍5  
 
@@ -37,13 +37,13 @@
 
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍6  
 
-## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
+## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍2  
 
 ## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍1  
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍5  
 
-## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍6  
+## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍7  
 
 ## [HB 1480](/bill/2023-24/hb/1480/) - All-hazard emergency manage. 👍1  
 
@@ -61,18 +61,18 @@
 
 ## [HB 1723](/bill/2023-24/hb/1723/) - GMA/equity and env. justice 👍1  
 
-## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍6  
+## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍7  
 
-## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍1  
+## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍2  
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍2  
 
-## [SB 5087](/bill/2023-24/sb/5087/) - Defects and omissions 👍2  
+## [SB 5087](/bill/2023-24/sb/5087/) - Defects and omissions 👍3  
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 * 👍💵 Kristin Ang
 
-## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍5  
+## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍6  
 
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍1  
 

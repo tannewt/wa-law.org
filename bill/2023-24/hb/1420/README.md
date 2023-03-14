@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 03/13 10:30 AM - Law & Justice (LAW): HB 1420 Lien priority/mortgages
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30941&aId=152969&caId=22098&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30941&aId=152969&caId=22098&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30941&aId=152969&caId=22098&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30941&aId=152969&caId=22098&tId=4)
-
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Brad Tower - Community Bankers of WA
 

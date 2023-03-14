@@ -16,9 +16,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30973&aId=153117&caId=22118&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30973&aId=153117&caId=22118&tId=4)
 
-#### 3 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* Alex Wehinger - WA State Medical Association (WSMA)
+* Gabrielle Hubbard - WSALPHO
+* Nicole Thom - WSALPHO
+* Shawn Morris - WSALPHO
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

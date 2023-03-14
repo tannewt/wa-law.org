@@ -2,10 +2,13 @@
 
 ## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍1  
 
-## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍1  
+## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍2  
 
-## [HB 1357](/bill/2023-24/hb/1357/) - Prior authorization/health 👍3  
+## [HB 1357](/bill/2023-24/hb/1357/) - Prior authorization/health 👍5  
 * 👍 Teresa Dr. Girolami
+* 👍 Nancy Belcher
+
+## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
 
 ## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  
 

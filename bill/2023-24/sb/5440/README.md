@@ -17,15 +17,29 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30949&aId=153388&caId=21970&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30949&aId=153388&caId=21970&tId=4)
 
-#### 1 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Johanna Bender
+* Amber Leaders - Office of the Governor
+* Kevin Bovenkamp - Behavioral Health Administration, DSHS
+* 💵Michael White - [King County](/org/king_county/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Kimberly Mosolf - [Disability Rights Washington](/org/disability_rights_washington/)
 
-#### 3 ❓ - Other
+#### 10 ❓ - Other
 Testifying:
 * Michael Finkle - District and Municipal Court Judges Association
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Jessica Giner - Renton Municipal Court
+* Jason Schwarz - Snohomish County Office of Public Defense
+* Kari Reardon - Law Offices of Kari Reardon, LLC
+* Lindi Westwood - Westwood Law Offic3e
+* Thomas Kinlen - Behavioral Health Administration, DSHS
+* Heidi Wachter - City of Lakewood, City Attorney
+* Ryan Mello - Pierce County Council, District 4
+* 💵Melanie Smith - NAMI Washington
 
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SSB 5440 Competency evaluations
 #### 5 👍 - Pro

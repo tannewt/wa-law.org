@@ -19,13 +19,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31023&aId=153333&caId=22047&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31023&aId=153333&caId=22047&tId=4)
 
-#### 6 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Madison Zack-Wu - Strippers Are Workers
 * Aubrey Watkins - Saw
 * Harper Grieve
 * Makayla D - Strippers Are Workers
 * Ashe S
+* Makayla Deppa
+* Lexy B
+* Tessa A
+* madison zack-wu
 
 #### 0 👎 - Con
 

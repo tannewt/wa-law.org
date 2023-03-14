@@ -23,15 +23,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31023&aId=153331&caId=22045&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31023&aId=153331&caId=22045&tId=4)
 
-#### 1139 👍 - Pro
+#### 1669 👍 - Pro
 Testifying:
 * Evan Riley - RN
 * Meighan Doherty
 * Kathryn Lewandowsky
+* 💵Lisa Thatcher - Washington State Hospital Association
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
-#### 2 ❓ - Other
+#### 9 ❓ - Other
 
 ### Thu 02/16 04:00 PM - Ways & Means (WM): SSB 5236 Hospital staffing standards
 #### 5737 👍 - Pro

@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30990&aId=153193&caId=22011&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30990&aId=153193&caId=22011&tId=4)
 
-#### 1 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Lori Grass - WA State Chiropractic Assocation
+* Jane Beyer - Office of the Insurance Commissioner
 
 #### 0 👎 - Con
 

@@ -18,9 +18,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31002&aId=153241&caId=22028&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31002&aId=153241&caId=22028&tId=4)
 
-#### 28 👍 - Pro
+#### 121 👍 - Pro
+Testifying:
+* Mary Williams - REST
+* Robin Miller - Janus Youth
+* Tricia MacFarlan - Mirror Ministries
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

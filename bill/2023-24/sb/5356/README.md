@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Our legislative priorities for 2023 | ACLU of Washington](http://www.aclu-wa.org/pages/2023-legislative-agenda#:~:text=SB 5356)
+
 ## Meetings
 ### Wed 02/15 08:00 AM - Environment, Energy & Technology (ENET): SB 5356 Procurement/automated system
 #### 802 👍 - Pro

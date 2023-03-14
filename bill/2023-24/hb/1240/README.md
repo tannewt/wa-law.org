@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=SHB 1240)
+* [The Seattle Times](/org/the_seattle_times/) - [WA assault weapons bill goes after the biggest guns — in more ways than one | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-assault-weapons-bill-goes-after-the-biggest-guns-in-more-ways-than-one/#:~:text=House Bill 1240)
 * [The Seattle Times](/org/the_seattle_times/) - [WA House votes to ban assault weapons | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-house-votes-to-ban-assault-weapons/#:~:text=House Bill 1240)
 * [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB 1240)
 * [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=HB 1240)

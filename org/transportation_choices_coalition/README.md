@@ -42,5 +42,6 @@
 ## [SB 5594](/bill/2023-24/sb/5594/) - Fully autonomous vehicles  👎1 
 * 👎💵 Bryce Yadon
 
-## [SB 5743](/bill/2023-24/sb/5743/) - Transportation resources 👍1  
+## [SB 5743](/bill/2023-24/sb/5743/) - Transportation resources 👍2  
+* 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon

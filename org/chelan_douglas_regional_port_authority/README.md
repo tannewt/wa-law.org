@@ -13,12 +13,13 @@
 * 👍 JC Baldwin
 * 👍 Jim Kuntz
 
-## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  
+## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍2  
 
-## [SB 5001](/bill/2023-24/sb/5001/) - Public facility districts 👍4  
+## [SB 5001](/bill/2023-24/sb/5001/) - Public facility districts 👍5  
 * 👍 JC Baldwin
 * 👍 Jim Kuntz
 * 👍💵 Blake Baldwin
+* 👍 Richard DeRock
 
 ## [SB 5539](/bill/2023-24/sb/5539/) - Tax increment financing 👍2  
 * 👍💵 Blake Baldwin

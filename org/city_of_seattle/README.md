@@ -60,6 +60,8 @@
 
 ## [HB 1351](/bill/2023-24/hb/1351/) - Minimum parking requirements 👍1  
 
+## [HB 1355](/bill/2023-24/hb/1355/) - Property tax exemptions 👍1  
+
 ## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍1  
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
@@ -72,13 +74,17 @@
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
 
+## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍1  
+
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍2  
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
 
-## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍2  
+## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍3  
 
 ## [HB 1499](/bill/2023-24/hb/1499/) - Food assistance funding 👍1  
+
+## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍1  
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
 
@@ -88,7 +94,7 @@
 
 ## [HB 1674](/bill/2023-24/hb/1674/) - Roadway users/trucks & SUVs 👍1  
 
-## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
+## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍2  
 
 ## [HB 1790](/bill/2023-24/hb/1790/) - Cannabis social equity 👍1  
 
@@ -116,6 +122,8 @@
 ## [SB 5122](/bill/2023-24/sb/5122/) - Ambulance transport fund 👍1  
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
+
+## [SB 5198](/bill/2023-24/sb/5198/) - Mobile home community sales 👍1  
 
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures 👍1  
 
@@ -157,7 +165,7 @@
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍1  
 
-## [SB 5477](/bill/2023-24/sb/5477/) - Murdered indigenous women 👍2  
+## [SB 5477](/bill/2023-24/sb/5477/) - Murdered indigenous women 👍3  
 
 ## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍1  
 

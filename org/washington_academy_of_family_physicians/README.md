@@ -4,15 +4,15 @@
 
 ## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍1  
 
-## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍1  
+## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍2  
 
 ## [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board 👍1  
 
-## [HB 1357](/bill/2023-24/hb/1357/) - Prior authorization/health 👍2  
+## [HB 1357](/bill/2023-24/hb/1357/) - Prior authorization/health 👍3  
 
 ## [HB 1713](/bill/2023-24/hb/1713/) - Health care/rural areas 👍1  
 
-## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
+## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍2  
 
 ## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
 
@@ -27,4 +27,4 @@
 
 ## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  
 
-## [SB 5729](/bill/2023-24/sb/5729/) - Insulin cost-sharing cap 👍1  
+## [SB 5729](/bill/2023-24/sb/5729/) - Insulin cost-sharing cap 👍2  

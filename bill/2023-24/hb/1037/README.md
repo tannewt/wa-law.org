@@ -16,9 +16,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30942&aId=152914&caId=22138&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30942&aId=152914&caId=22138&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Sylvia Miller - Vice Chair, Puyallup Tribe of Indians
+* Bonnie Bizzell - People's Memorial Association
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Julie Seitz
 
 #### 0 ❓ - Other
 

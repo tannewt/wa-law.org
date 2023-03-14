@@ -47,7 +47,7 @@
 
 ## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍2  
 
-## [SB 5243](/bill/2023-24/sb/5243/) - High school and beyond plans 👍1  
+## [SB 5243](/bill/2023-24/sb/5243/) - High school and beyond plans 👍2  
 
 ## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍1  
 

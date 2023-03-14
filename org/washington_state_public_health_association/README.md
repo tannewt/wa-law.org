@@ -43,7 +43,9 @@
 
 ## [HB 1706](/bill/2023-24/hb/1706/) - Microenterprise home kitchen  👎1 
 
-## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍2  
+## [SB 5006](/bill/2023-24/sb/5006/) - Waiver of firearm rights 👍1  
+
+## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍3  
 
 ## [SB 5232](/bill/2023-24/sb/5232/) - Firearms/purchase & transfer 👍3  
 

@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30968&aId=153472&caId=22181&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30968&aId=153472&caId=22181&tId=4)
 
-#### 143 👍 - Pro
+#### 192 👍 - Pro
 Testifying:
 * Kevin Lewis - Visit Tri-Cities
 * Becky Bogard - State of Washington Tourism
@@ -27,6 +27,8 @@ Testifying:
 * Dean Burke - Travel Tacoma - Mt. Rainier, Tourism & Sports
 * Adam Acampora - Woodinville Wine Country
 * John Cooper - Yakima Valley Tourism
+* Sam Cho - Port of Seattle Commissioner
+* Annie McGrath - Seattle Southside Chamber of Commerce
 
 #### 0 👎 - Con
 

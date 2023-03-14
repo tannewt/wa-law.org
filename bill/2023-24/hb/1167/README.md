@@ -20,13 +20,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153119&caId=22120&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153119&caId=22120&tId=4)
 
-#### 21 👍 - Pro
+#### 49 👍 - Pro
 Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* 💵Jason Gauthier - South Sound Housing Affordability Partners
+* Lacey Jane Wolfe - [City of Bellevue](/org/city_of_bellevue/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Lacey Jane Wolfe - [City of Bellevue](/org/city_of_bellevue/)
 
 ### Wed 02/15 04:00 PM - Appropriations (APP): SHB 1167 Residential housing
 #### 46 👍 - Pro

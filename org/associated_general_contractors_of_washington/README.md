@@ -1,6 +1,8 @@
 # Associated General Contractors of Washington
 
-## [HB 1521](/bill/2023-24/hb/1521/) - Industrial insurance/duties  👎1 
+## [HB 1068](/bill/2023-24/hb/1068/) - Injured worker medical exams  👎1 
+
+## [HB 1521](/bill/2023-24/hb/1521/) - Industrial insurance/duties  👎2 
 
 ## [HB 1524](/bill/2023-24/hb/1524/) - Prime contractor retainage 👍1  
 

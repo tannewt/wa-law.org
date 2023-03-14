@@ -6,9 +6,10 @@
 
 ## [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍1  
 
-## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍1  
+## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
 
-## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals  👎1 
+## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals  👎2 
+* 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 
 ## [HB 1058](/bill/2023-24/hb/1058/) - Commercial driver's licenses 👍1  
@@ -38,6 +39,8 @@
 
 ## [HB 1156](/bill/2023-24/hb/1156/) - College grant eligibility 👍1  
 
+## [HB 1163](/bill/2023-24/hb/1163/) - Leasehold tax/arenas 👍1  
+
 ## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍1  
 
 ## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy   ❓2
@@ -62,7 +65,7 @@
 
 ## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍3  
 
-## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting 👍1  
+## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting 👍2  
 
 ## [HB 1252](/bill/2023-24/hb/1252/) - Impact fee deferrals 👍1  
 
@@ -92,7 +95,7 @@
 
 ## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options 👍1  
 
-## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍1  
+## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍2  
 
 ## [HB 1318](/bill/2023-24/hb/1318/) - Aircraft maintenance/tax 👍1  
 
@@ -221,7 +224,7 @@
 
 ## [HB 1686](/bill/2023-24/hb/1686/) - Salmon recovery 👍1  
 
-## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍4  
+## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍5  
 * 👍💵 Emily Shay
 * 👍💵 Emily Shay
 
@@ -237,7 +240,7 @@
 
 ## [HB 1757](/bill/2023-24/hb/1757/) - Farmers/sales tax remittance 👍1  
 
-## [HB 1764](/bill/2023-24/hb/1764/) - Asphalt & agg. valuation 👍1  
+## [HB 1764](/bill/2023-24/hb/1764/) - Asphalt & agg. valuation 👍2  
 
 ## [HB 1767](/bill/2023-24/hb/1767/) - Federal funding opps. 👍1  
 * 👍💵 Emily Shay
@@ -284,7 +287,7 @@
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment  👎1 
 * 👎💵 Peter Godlewski
 
-## [SB 5156](/bill/2023-24/sb/5156/) - Farm internship program 👍1  
+## [SB 5156](/bill/2023-24/sb/5156/) - Farm internship program 👍2  
 
 ## [SB 5158](/bill/2023-24/sb/5158/) - State & local taxation 👍1  
 
@@ -300,12 +303,14 @@
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
 * 👍 Mike Ennis
 
-## [SB 5191](/bill/2023-24/sb/5191/) - Real estate agency 👍1  
+## [SB 5191](/bill/2023-24/sb/5191/) - Real estate agency 👍2  
 
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures   ❓1
 * ❓💵 Dave Mastin
 
-## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍1  
+## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍2  
+
+## [SB 5235](/bill/2023-24/sb/5235/) - Accessory dwelling units 👍1  
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace  👎2 
 

@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=E2SHB 1181)
 * [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB 1181)
 * [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SHB 1181)
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Environment](https://crosscut.com/voter-guide/2023-legislative-tracker/election/environment#:~:text=House Bill 1181)
@@ -22,14 +23,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153120&caId=22121&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153120&caId=22121&tId=4)
 
-#### 620 👍 - Pro
+#### 967 👍 - Pro
 Testifying:
 * Joe Kunzler
 * Dave Andersen - Washington Department of Commerce
 * Chris Jones
 * Mary Lou Pauly - Mayor, City of Issaquah
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Jamie Stroble - [The Nature Conservancy](/org/the_nature_conservancy/)
+* Angela Birney - City of Redmond Mayor
+* Jamie Stroble - [The Nature Conservancy](/org/the_nature_conservancy/)
+* Rachael Ludwick
+* David Baker - [City of Kenmore](/org/city_of_kenmore/)
 
-#### 23 👎 - Con
+#### 68 👎 - Con
+Testifying:
+* john Worthington
 
 #### 0 ❓ - Other
 

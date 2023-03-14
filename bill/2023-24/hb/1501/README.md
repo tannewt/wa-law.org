@@ -9,15 +9,10 @@
 
 ## Meetings
 ### Mon 03/13 10:30 AM - Human Services (HS): SHB 1501 Family counseling/homicide
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30945&aId=153006&caId=22086&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30945&aId=153006&caId=22086&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30945&aId=153006&caId=22086&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30945&aId=153006&caId=22086&tId=4)
-
-#### 3 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Deana Knowlton
+* Andrew Ma
 
 #### 0 👎 - Con
 

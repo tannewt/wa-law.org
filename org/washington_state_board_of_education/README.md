@@ -22,11 +22,11 @@
 
 ## [HB 1273](/bill/2023-24/hb/1273/) - High school and beyond plans 👍1  
 
-## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options 👍2  
+## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options 👍3  
 * 👍 Randy Spaulding
 * 👍 Randy Spaulding
 
-## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍1  
+## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍2  
 
 ## [HB 1332](/bill/2023-24/hb/1332/) - Tribes/K-12 instruction 👍2  
 * 👍 Bill Kallappa
@@ -76,7 +76,7 @@
 
 ## [SB 5305](/bill/2023-24/sb/5305/) - Office of career connect WA 👍1  
 
-## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍1  
+## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍2  
 
 ## [SB 5315](/bill/2023-24/sb/5315/) - Special education/nonpublic 👍1  
 
@@ -87,7 +87,7 @@
 ## [SB 5441](/bill/2023-24/sb/5441/) - School district curricula 👍1  
 * 👍 Brooke Brown
 
-## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍1  
+## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍2  
 
 ## [SB 5515](/bill/2023-24/sb/5515/) - Child abuse and neglect 👍3  
 * 👍 Linda Drake

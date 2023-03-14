@@ -6,6 +6,8 @@
 * 👍💵 Sarah Brady
 * 👍 Zivit Shechter Nissim
 
+## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍1  
+
 ## [HB 1511](/bill/2023-24/hb/1511/) - Income/child care programs 👍2  
 * 👍 Christina Griffin
 

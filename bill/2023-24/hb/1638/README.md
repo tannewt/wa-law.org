@@ -12,18 +12,15 @@
 
 ## Meetings
 ### Mon 03/13 04:00 PM - Transportation (TRAN): SHB 1638 State trooper recruitment
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30965&aId=153436&caId=22106&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30965&aId=153436&caId=22106&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30965&aId=153436&caId=22106&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30965&aId=153436&caId=22106&tId=4)
-
-#### 5 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Davor Gjurasic - WSP Troopers Association
+* Jeff DeVere - Washington State Patrol Lieutenants and Captains Association (WSPLCA)
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* 💵Enoka Herat - ACLU of WA
 
 #### 0 ❓ - Other
 

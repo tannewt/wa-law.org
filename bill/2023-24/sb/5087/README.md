@@ -18,7 +18,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30950&aId=153392&caId=21974&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30950&aId=153392&caId=21974&tId=4)
 
-#### 112 👍 - Pro
+#### 170 👍 - Pro
+Testifying:
+* Brittany Gregory - Board for Judicial Administration (BJA)
+* 💵Lara Zarowsky - [Washington Innocence Project](/org/washington_innocence_project/)
+* 💵Kristin Ang - Faith Action Network (FAN)
+* Jasmit Singh - Khalsa Gurmat Center
 
 #### 0 👎 - Con
 

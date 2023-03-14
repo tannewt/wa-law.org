@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## Articles
+* [The Urbanist](/org/the_urbanist/) - [The Olympia Waltz Continues for Middle Housing and Other Vital Legislation | The Urbanist](https://www.theurbanist.org/2023/03/09/waleg-week-9-striker-hb1110/#:~:text=HB 1245)
 * [The Urbanist](/org/the_urbanist/) - [Washington Legislature’s New Thinking About Housing | The Urbanist](https://www.theurbanist.org/2023/03/01/washington-legislatures-new-thinking-about-housing/#:~:text=HB 1245)
 * [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB 1245)
 * [Sightline Institute](/org/sightline_institute/) - [Washington Lot Split Bills Would Create Starter Homes, Support Community Stability - Sightline Institute](https://www.sightline.org/2023/01/24/washington-lot-split-bills-would-create-starter-homes-support-community-stability/#:~:text=(HB 1245))
@@ -23,12 +24,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153121&caId=22122&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153121&caId=22122&tId=4)
 
-#### 56 👍 - Pro
+#### 120 👍 - Pro
 Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* 💵Bill Clarke - WA REALTORS
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 
-#### 190 👎 - Con
+#### 233 👎 - Con
+Testifying:
+* Carla Nichols
+* CARL SCHROEDER - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Lacey Jane Wolfe - [City of Bellevue](/org/city_of_bellevue/)
 
 #### 1 ❓ - Other
 Testifying:

@@ -30,5 +30,7 @@
 
 ## [SB 5392](/bill/2023-24/sb/5392/) - Concerning overpayments for certain matters. 👍2  
 
+## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations 👍1  
+
 ## [SB 5474](/bill/2023-24/sb/5474/) - Juvenile justice   ❓1
 * ❓ Brittany Gregory

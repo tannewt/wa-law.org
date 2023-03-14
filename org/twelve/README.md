@@ -8,5 +8,6 @@
 ## [SB 5091](/bill/2023-24/sb/5091/) - Hydrogen fuel products 👍1  
 * 👍 Derek Phelps
 
-## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍1  
+## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍2  
+* 👍 Derek Phelps
 * 👍 Derek Phelps

@@ -8,7 +8,7 @@
 
 ## [HB 1192](/bill/2023-24/hb/1192/) - Electric transm. planning 👍1  
 
-## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  ❓1
+## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍2  ❓1
 * ❓ Adam Maxwell
 
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1  

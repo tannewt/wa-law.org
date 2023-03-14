@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=SSB 5006)
 * [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SSB 5006)
 
 ## Meetings
@@ -18,11 +19,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30949&aId=153390&caId=21972&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30949&aId=153390&caId=21972&tId=4)
 
-#### 5 👍 - Pro
+#### 106 👍 - Pro
+Testifying:
+* Brian Duncan
+* Diane Studley
+* Paula Barnes
 
-#### 19 👎 - Con
+#### 136 👎 - Con
 Testifying:
 * Laurie Layne
+* 💵Aoibheann Cline - [National Rifle Association](/org/national_rifle_association_of_america/)
+* Julie Barrett - Conservative Ladies of Washington
 
 #### 1 ❓ - Other
 

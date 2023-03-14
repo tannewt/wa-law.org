@@ -44,8 +44,9 @@
 
 ## [HB 1302](/bill/2023-24/hb/1302/) - Vehicle report of sale 👍1  
 
-## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records  👎1 ❓1
+## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records  👎2 ❓1
 * ❓ ROSE GUNDERSEN
+* 👎💵 Bruce Beckett
 * 👎💵 Bruce Beckett
 
 ## [HB 1348](/bill/2023-24/hb/1348/) - Behavioral health support 👍1  
@@ -97,7 +98,8 @@
 ## [HB 1761](/bill/2023-24/hb/1761/) - Property tax exemption 👍1  
 * 👍💵 Mark Johnson
 
-## [HB 1762](/bill/2023-24/hb/1762/) - Warehouse employees  👎2 
+## [HB 1762](/bill/2023-24/hb/1762/) - Warehouse employees  👎3 
+* 👎💵 Bruce Beckett
 * 👎💵 Bruce Beckett
 * 👎💵 Bruce Beckett
 

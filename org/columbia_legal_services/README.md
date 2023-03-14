@@ -68,7 +68,8 @@
 
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍1  
 
-## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍2  
+## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍3  
+* 👍💵 Hannah Woerner
 * 👍💵 Hannah Woerner
 * 👍💵 Hannah Woerner
 

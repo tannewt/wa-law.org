@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## Articles
+* [The Urbanist](/org/the_urbanist/) - [The Olympia Waltz Continues for Middle Housing and Other Vital Legislation | The Urbanist](https://www.theurbanist.org/2023/03/09/waleg-week-9-striker-hb1110/#:~:text=HB 1337)
 * [The Seattle Times](/org/the_seattle_times/) - [Seattle is now building more ADUs than single houses | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/seattle-is-now-building-more-adus-than-single-houses/#:~:text=House Bill 1337)
 * [PubliCola](/org/publicola/) - [As Density Bills Move Forward, It's Statewide Housing Goals vs. "Local Control" - PubliCola](https://publicola.com/2023/03/01/as-density-bills-move-forward-its-statewide-housing-goals-vs-local-control/#:~:text=House Bill 1337)
 * [The Urbanist](/org/the_urbanist/) - [Washington Legislature’s New Thinking About Housing | The Urbanist](https://www.theurbanist.org/2023/03/01/washington-legislatures-new-thinking-about-housing/#:~:text=HB 1337)
@@ -16,6 +17,19 @@
 * [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=House Bill 1337)
 
 ## Meetings
+### Thu 03/16 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): EHB 1337 Accessory dwelling units
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30983&aId=153753&caId=22221&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30983&aId=153753&caId=22221&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30983&aId=153753&caId=22221&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30983&aId=153753&caId=22221&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/23 01:30 PM - Housing (HOUS): HB 1337 Accessory dwelling units
 #### 327 👍 - Pro
 Testifying:

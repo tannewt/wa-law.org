@@ -10,16 +10,12 @@
 
 ## Meetings
 ### Mon 03/13 01:30 PM - Early Learning & K-12 Education (EDU): 2SHB 1525 Apprenticeships/child care
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30999&aId=153235&caId=22104&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30999&aId=153235&caId=22104&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30999&aId=153235&caId=22104&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30999&aId=153235&caId=22104&tId=4)
-
-#### 62 👍 - Pro
+#### 122 👍 - Pro
 Testifying:
 * 💵Erin Frasier - Washington State Building & Construction Trades Council
 * 💵Heather Kurtenbach - Ironworkers Local 86
+* 💵Nicole Grant - IBEW 46
+* 💵Maya Gillett
 
 #### 0 👎 - Con
 

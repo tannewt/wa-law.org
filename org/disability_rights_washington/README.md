@@ -33,7 +33,7 @@
 
 ## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍1  
 
-## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍1  
+## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍2  
 
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍1  
 
@@ -43,7 +43,8 @@
 * 👍💵 Rachael Seevers
 * 👍💵 Rachael Seevers
 
-## [SB 5130](/bill/2023-24/sb/5130/) - Assisted outpatient treat.  👎1 
+## [SB 5130](/bill/2023-24/sb/5130/) - Assisted outpatient treat.  👎2 
+* 👎💵 Kimberly Mosolf
 * 👎💵 Kimberly Mosolf
 
 ## [SB 5135](/bill/2023-24/sb/5135/) - Solitary confinement 👍1  
@@ -57,7 +58,8 @@
 * 👍💵 Chloe Merino
 * 👍💵 Chloe Merino
 
-## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎1 
+## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎2 
+* 👎💵 Kimberly Mosolf
 * 👎💵 Kimberly Mosolf
 
 ## [SB 5451](/bill/2023-24/sb/5451/) - Long sentences review 👍1  

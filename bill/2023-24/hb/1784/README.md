@@ -13,17 +13,14 @@
 
 ## Meetings
 ### Mon 03/13 04:00 PM - Ways & Means (WM): SHB 1784 Hunger relief
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31013&aId=153411&caId=22114&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31013&aId=153411&caId=22114&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31013&aId=153411&caId=22114&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31013&aId=153411&caId=22114&tId=4)
-
-#### 238 👍 - Pro
+#### 399 👍 - Pro
 Testifying:
 * Lynn Kimball - Washington Association of Area Agencies on Aging
 * Linda Nageotte - [Food Lifeline](/org/food_lifeline/)
 * Brian Clark
+* Ahndrea Blue - MADF/Eloise’s Cooking Pot Good Bank
+* Miranda Wilson - Helping Hands Food Bank
+* Charlie Thompson - North Kitsap Fishline
 
 #### 0 👎 - Con
 

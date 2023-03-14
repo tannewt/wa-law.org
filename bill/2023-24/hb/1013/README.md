@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31000&aId=153562&caId=22199&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31000&aId=153562&caId=22199&tId=4)
 
-#### 12 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * Jim Stoffer - Public School Advocate of Sequim
 

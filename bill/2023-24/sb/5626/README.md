@@ -8,19 +8,14 @@
 * [Substitute Bill](S/)
 
 ## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=SSB 5626)
 * [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=SB 5626)
 * [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SB 5626)
 * [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! February 6, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-february-6-2023/#:~:text=SB 5626)
 
 ## Meetings
 ### Mon 03/13 01:30 PM - Education (ED): SSB 5626 K-12 media literacy
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31030&aId=153367&caId=21998&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31030&aId=153367&caId=21998&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31030&aId=153367&caId=21998&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31030&aId=153367&caId=21998&tId=4)
-
-#### 71 👍 - Pro
+#### 99 👍 - Pro
 Testifying:
 * Cora Mackoff - Action for Media Education
 * Jen Ligot - WA State Council for the Social Studies
@@ -28,8 +23,11 @@ Testifying:
 * Shelby Reynolds - Washington State PTA
 * Linda Kennedy - Action for Media Education & LK Media
 * 💵Carolyn Logue - [Washington Library Association](/org/washington_library_association/)
+* 💵Carolyn Logue - [Washington Library Association](/org/washington_library_association/)
+* Mikhail Cherniske - Office of Superintendent of Public Instruction
+* Lesley Bourne - [Washington Library Association](/org/washington_library_association/)
 
-#### 22 👎 - Con
+#### 29 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Mon 03/13 01:30 PM - Housing (HOUS): E2SSB 5198 Mobile home community sales
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31019&aId=153313&caId=22022&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31019&aId=153313&caId=22022&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31019&aId=153313&caId=22022&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31019&aId=153313&caId=22022&tId=4)
-
-#### 374 👍 - Pro
+#### 472 👍 - Pro
 Testifying:
 * 💵Ishbel Dickens - Assoc of Manufactured Home Owners
 * Anne Sadler - Association of Manufactured Home Owners - AMHO
@@ -30,13 +24,16 @@ Testifying:
 * George Hurst
 * Corina Pfeil - Councilmember, City of Kenmore
 
-#### 3 👎 - Con
+#### 36 👎 - Con
 Testifying:
 * Robert Cochran - Contempo Mobile Home Park
+* 💵Devin Gombosky - Contempo Mobile Home Park
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * 💵Mike Hoover - [Detente Management](/org/detente_management/)
+* Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
+* Ann Campbell - Department of Commerce
 
 ### Wed 02/22 01:30 PM - Ways & Means (WM): SSB 5198 Mobile home community sales
 #### 161 👍 - Pro

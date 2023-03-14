@@ -49,7 +49,7 @@
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍2  
 
-## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍1  
+## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍2  
 
 ## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍1  
 
@@ -59,7 +59,7 @@
 
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures 👍1  
 
-## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍2  
+## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍3  
 
 ## [SB 5235](/bill/2023-24/sb/5235/) - Accessory dwelling units 👍2  
 
@@ -77,7 +77,7 @@
 
 ## [SB 5441](/bill/2023-24/sb/5441/) - School district curricula 👍1  
 
-## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍1  
+## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍2  
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
 

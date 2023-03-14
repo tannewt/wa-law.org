@@ -89,7 +89,8 @@
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 
-## [SB 5130](/bill/2023-24/sb/5130/) - Assisted outpatient treat.  👎2 
+## [SB 5130](/bill/2023-24/sb/5130/) - Assisted outpatient treat.  👎3 
+* 👎💵 Ramona Hattendorf
 
 ## [SB 5135](/bill/2023-24/sb/5135/) - Solitary confinement 👍1  
 
@@ -109,7 +110,7 @@
 
 ## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍1  
 
-## [SB 5278](/bill/2023-24/sb/5278/) - Home care aide certification 👍1  
+## [SB 5278](/bill/2023-24/sb/5278/) - Home care aide certification 👍2  
 
 ## [SB 5302](/bill/2023-24/sb/5302/) - Adult family homes/prop. tax 👍2  
 

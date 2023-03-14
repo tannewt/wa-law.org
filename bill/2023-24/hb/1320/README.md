@@ -17,18 +17,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153148&caId=22155&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153148&caId=22155&tId=4)
 
-#### 28 👍 - Pro
+#### 45 👍 - Pro
 Testifying:
 * Patrick McGah - Individual citizen
 * 💵John Traynor - Washington State Labor Council, AFL-CIO
 * Cher Scarlett
 
-#### 16 👎 - Con
+#### 32 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
 * 💵James King - [Independent Business Association](/org/independent_business_association/)
+* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* 💵Bruce Beckett - [Washington Retail Association](/org/washington_retail_association/)
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Taya Briley - Washington State Hospital Association

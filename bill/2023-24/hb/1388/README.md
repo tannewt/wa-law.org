@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## Articles
+* [The Urbanist](/org/the_urbanist/) - [The Olympia Waltz Continues for Middle Housing and Other Vital Legislation | The Urbanist](https://www.theurbanist.org/2023/03/09/waleg-week-9-striker-hb1110/#:~:text=HB 1388)
 * [The Urbanist](/org/the_urbanist/) - [Washington Legislature’s New Thinking About Housing | The Urbanist](https://www.theurbanist.org/2023/03/01/washington-legislatures-new-thinking-about-housing/#:~:text=HB 1388)
 * [MyNorthwest](/org/mynorthwest/) - [Gee Scott: 'No, you cannot cap rent' in Washington state - MyNorthwest.com](https://mynorthwest.com/3847311/gee-scott-can-not-cap-rent-washington-state/#:~:text=House Bill 1388)
 * [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB 1388)

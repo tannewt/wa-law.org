@@ -25,7 +25,7 @@
 
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍1  
 
-## [SB 5371](/bill/2023-24/sb/5371/) - Orca vessel protection 👍1  
+## [SB 5371](/bill/2023-24/sb/5371/) - Orca vessel protection 👍2  
 
 ## [SB 5380](/bill/2023-24/sb/5380/) - Clean energy siting 👍1  
 * 👍 Jan Hasselman

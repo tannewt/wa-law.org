@@ -30,7 +30,8 @@
 
 ## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  
 
-## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍2  
+## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍3  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
@@ -48,7 +49,8 @@
 
 ## [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍2  
 
-## [SB 5287](/bill/2023-24/sb/5287/) - Wind turbine blade recycling 👍1  
+## [SB 5287](/bill/2023-24/sb/5287/) - Wind turbine blade recycling 👍2  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
 ## [SB 5369](/bill/2023-24/sb/5369/) - Polychlorinated biphenyls 👍4  

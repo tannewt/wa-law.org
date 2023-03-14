@@ -7,14 +7,15 @@
 
 ## [HB 1720](/bill/2023-24/hb/1720/) - Riparian grant program 👍2  
 
-## [SB 5150](/bill/2023-24/sb/5150/) - Beef levied assessment 👍1  
+## [SB 5150](/bill/2023-24/sb/5150/) - Beef levied assessment 👍2  
+* 👍💵 Mark Streuli
 * 👍💵 Mark Streuli
 
 ## [SB 5156](/bill/2023-24/sb/5156/) - Farm internship program 👍1  
 
 ## [SB 5277](/bill/2023-24/sb/5277/) - Dairy, etc. tax preferences 👍1  
 
-## [SB 5341](/bill/2023-24/sb/5341/) - WA food & ag. products 👍1  
+## [SB 5341](/bill/2023-24/sb/5341/) - WA food & ag. products 👍2  
 
 ## [SB 5353](/bill/2023-24/sb/5353/) - Voluntary stewardship prog. 👍1  
 

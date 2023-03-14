@@ -17,7 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30942&aId=152912&caId=22137&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30942&aId=152912&caId=22137&tId=4)
 
-#### 1 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Taffy Hunter - Spokane Regional Domestic Violence Cneter
+* Coreen Schnepf - Pierce County Prosecutor's Office
+* Darrell Lowe - Redmond Police Department
 
 #### 0 👎 - Con
 

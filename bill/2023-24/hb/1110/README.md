@@ -10,6 +10,8 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Articles
+* [The Urbanist](/org/the_urbanist/) - [The Olympia Waltz Continues for Middle Housing and Other Vital Legislation | The Urbanist](https://www.theurbanist.org/2023/03/09/waleg-week-9-striker-hb1110/#:~:text=HB 1110)
+* [The Seattle Times](/org/the_seattle_times/) - [WA Legislature forges ahead on assault weapons ban, new drug law | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-legislature-forges-ahead-on-assault-weapons-ban-new-drug-law/#:~:text=House Bill 1110)
 * [PubliCola](/org/publicola/) - [State House Says Yes to Density, Senate May Be Tougher Audience - PubliCola](https://publicola.com/2023/03/08/state-house-says-yes-to-density-senate-may-be-tougher-audience/#:~:text=House Bill 1110)
 * [The Seattle Times](/org/the_seattle_times/) - [Keep affordability at center of WA bill upending single-family zoning | The Seattle Times](https://www.seattletimes.com/opinion/editorials/keep-affordability-at-center-of-wa-bill-upending-single-family-zoning/#:~:text=House Bill 1110)
 * [The Seattle Times](/org/the_seattle_times/) - [Seattle is now building more ADUs than single houses | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/seattle-is-now-building-more-adus-than-single-houses/#:~:text=House Bill 1110)
@@ -38,6 +40,7 @@
 * [KING5](/org/king5/) - [Washington bill has lawmakers mulling over 'middle housing' | king5.com](https://www.king5.com/article/news/politics/state-politics/washington-bill-middle-housing/281-b8a2cfe3-99ba-4eb5-9856-ae2c7e41ad38#:~:text=House Bill 1110)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Bill to limit single-family housing in Washington picks up steam with House passage | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/07/bill-to-limit-single-family-housing-in-washington-/#:~:text=House Bill 1110)
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 6 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02142023#:~:text=H.B. 1110)
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 10 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate031323#:~:text=H.B. 1110)
 
 ## Meetings
 ### Fri 03/17 10:30 AM - Housing (HSG): E2SHB 1110 Middle housing
@@ -47,13 +50,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30985&aId=153457&caId=22180&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30985&aId=153457&caId=22180&tId=4)
 
-#### 374 👍 - Pro
+#### 484 👍 - Pro
 Testifying:
 * Joe Kunzler - None
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * MATTHEW HUTCHINS AIA CPHD - [American Institute of Architects Washington Council](/org/american_institute_of_architects_washington_council/)
+* 💵Lyset Cadena - [City of Burien](/org/city_of_burien/)
+* Mary White
 
-#### 52 👎 - Con
+#### 79 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

@@ -10,17 +10,12 @@
 
 ## Meetings
 ### Mon 03/13 04:00 PM - Ways & Means (WM): ESHB 1732 K-12 inflation adjustments
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31013&aId=153409&caId=22112&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31013&aId=153409&caId=22112&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31013&aId=153409&caId=22112&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31013&aId=153409&caId=22112&tId=4)
-
-#### 257 👍 - Pro
+#### 289 👍 - Pro
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* Rick Chisa - Public School Employees of Washington (PSE)
 
-#### 1 👎 - Con
+#### 5 👎 - Con
 
 #### 1 ❓ - Other
 

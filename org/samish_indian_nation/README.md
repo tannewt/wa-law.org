@@ -7,11 +7,11 @@
 
 ## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍1  
 
-## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  
+## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍2  
 
 ## [SB 5033](/bill/2023-24/sb/5033/) - Custodial sexual misconduct 👍1  
 
-## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍1  
+## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍2  
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 
@@ -19,11 +19,12 @@
 
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍1  
 
-## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍2  
+## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍3  
 
 ## [SB 5314](/bill/2023-24/sb/5314/) - Electric bicycle use  👎1 
 
-## [SB 5371](/bill/2023-24/sb/5371/) - Orca vessel protection 👍1  
+## [SB 5371](/bill/2023-24/sb/5371/) - Orca vessel protection 👍2  
+* 👍 Todd Woodard
 
 ## [SB 5397](/bill/2023-24/sb/5397/) - Public benefit payments/DCYF 👍1  
 

@@ -1,16 +1,19 @@
 # Washington Technology Industry Association
 
-## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍1  
+## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
 
 ## [HB 1146](/bill/2023-24/hb/1146/) - Dual credit program notice 👍1  
 
+## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data   ❓1
+* ❓💵 Kelly Fukai
+
 ## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍2  
 
-## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍2  
+## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍3  
 
-## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍2  
+## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍3  
 
 ## [HB 1793](/bill/2023-24/hb/1793/) - Wireless devices tax  👎1 
 * 👎💵 Kelly Fukai

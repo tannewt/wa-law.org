@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30956&aId=153055&caId=21961&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30956&aId=153055&caId=21961&tId=4)
 
-#### 5 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Dominga Soliz - Environmental & Land Use Hearings Office
 

@@ -7,32 +7,31 @@
 * [Original Bill](1/)
 
 ## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=ESB 5462)
 * [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SB 5462)
 * [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=ESB 5462)
 * [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB 5462)
 
 ## Meetings
 ### Mon 03/13 01:30 PM - Education (ED): ESB 5462 Inclusive learning standards
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31030&aId=153368&caId=21999&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31030&aId=153368&caId=21999&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31030&aId=153368&caId=21999&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31030&aId=153368&caId=21999&tId=4)
-
-#### 107 👍 - Pro
+#### 148 👍 - Pro
 Testifying:
 * Justin Raines
 * Anna Hernandez-French - Office of Superintendent of Public Instruction
 * Dr. Karen Bolton
 * Dr. Karen Bolton
+* Oliver Miska - WAESN
+* Sara Betnel
+* Devon Kellogg - Washington State PTA
+* Natasha Kalombo - Legislative Youth Advisory Council
 
-#### 443 👎 - Con
+#### 914 👎 - Con
 Testifying:
 * Jeannie Magdua - Conservative Ladies of Washington
 * Trish Huddleston
 * Andy Cilley
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Mon 01/30 01:30 PM - Early Learning & K-12 Education (EDU): SB 5462 Inclusive learning standards
 #### 38 👍 - Pro

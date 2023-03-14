@@ -77,11 +77,15 @@
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
 
+## [SB 5198](/bill/2023-24/sb/5198/) - Mobile home community sales 👍1  
+
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures 👍1  
 
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍1  
 
 ## [SB 5235](/bill/2023-24/sb/5235/) - Accessory dwelling units 👍3  
+
+## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1  
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
 

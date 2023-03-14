@@ -1,6 +1,7 @@
 # Washington Public Ports Association
 
-## [HB 1050](/bill/2023-24/hb/1050/) - Apprenticeship utilization   ❓1
+## [HB 1050](/bill/2023-24/hb/1050/) - Apprenticeship utilization   ❓2
+* ❓ Chris Herman
 * ❓ Chris Herman
 
 ## [HB 1081](/bill/2023-24/hb/1081/) - Derelict vessel appeals 👍1  
@@ -61,7 +62,7 @@
 
 ## [HB 1663](/bill/2023-24/hb/1663/) - Consolidated port districts 👍2  
 
-## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  
+## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍2  
 
 ## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍3  
 * 👍 Chris Herman

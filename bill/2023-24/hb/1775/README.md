@@ -8,25 +8,22 @@
 
 ## Meetings
 ### Mon 03/13 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): HB 1775 Salmon recovery/liability
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30989&aId=153264&caId=22100&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30989&aId=153264&caId=22100&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30989&aId=153264&caId=22100&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30989&aId=153264&caId=22100&tId=4)
-
-#### 121 👍 - Pro
+#### 160 👍 - Pro
 Testifying:
 * Nicole Czarnomski - WDFW
 * 💵Brynn Brady - Regional Fisheries Coalition
 * Becky Deryckx
+* LANCE WINECKA - South Puget Sound Salmon Enhancement Group
+* Jeffrey R Bohman - Peninsula Trails Coalition
 
-#### 215 👎 - Con
+#### 259 👎 - Con
 Testifying:
 * Jenna Friebel - Skagit Drainage and Irrigation Districts Consortium LLC
 * David Hawkins - Upper Skagit Indian Tribe
 * Ron Wesen - Skagit County Commissioner
 * Daryl Hamburg - Dike and Drainage Flood Control Partnership
 * Dave Hallock
+* Peter Browning - Skagit County Commissioner
 
 #### 0 ❓ - Other
 

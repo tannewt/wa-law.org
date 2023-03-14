@@ -2,7 +2,7 @@
 
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
 
-## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
+## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍2  
 
 ## [HB 1242](/bill/2023-24/hb/1242/) - Behavioral health work group 👍1  
 

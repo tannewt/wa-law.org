@@ -17,17 +17,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30979&aId=153432&caId=22008&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30979&aId=153432&caId=22008&tId=4)
 
-#### 140 👍 - Pro
+#### 340 👍 - Pro
 Testifying:
 * Ann Murphy - League of Women Voters of Washington
 * 💵James King - [Independent Business Association](/org/independent_business_association/)
+* Preston Peck - City of Tacoma, Environmental Services
+* Ashley Evans
+* 💵Travis Dutton - Washington State Association of Counties and Washington Association of County Solid Waste Managers
+* Rick Gilbert - Kitsap County Solid Waste Division
+* Suzanne Hildreth - Seattle Public Utilities
+* George Kerchner - PRBA - The Rechargeable Battery Assn
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Megan Warfield - WA State Department of Ecology
+* Carin Stuart - call2recycle
 
 ### Sat 02/18 09:00 AM - Ways & Means (WM): SSB 5144 Batteries/environment
 #### 28 👍 - Pro

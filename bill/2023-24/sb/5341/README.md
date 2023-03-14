@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30956&aId=153058&caId=21964&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30956&aId=153058&caId=21964&tId=4)
 
-#### 3 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Laura Raymond - WA State Dept. of Agriculture
 
 #### 0 👎 - Con
 

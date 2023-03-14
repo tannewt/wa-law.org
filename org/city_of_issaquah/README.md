@@ -4,6 +4,8 @@
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓1
 
+## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍1  
+
 ## [HB 1276](/bill/2023-24/hb/1276/) - Accessory dwelling units   ❓1
 
 ## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units   ❓1

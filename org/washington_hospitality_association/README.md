@@ -2,6 +2,9 @@
 
 ## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
 
+## [HB 1068](/bill/2023-24/hb/1068/) - Injured worker medical exams  👎1 
+* 👎💵 Samantha Louderback
+
 ## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍2  
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
@@ -23,7 +26,8 @@
 
 ## [HB 1299](/bill/2023-24/hb/1299/) - Beverage alcohol/workforce 👍1  
 
-## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records  👎1 
+## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records  👎2 
+* 👎💵 Samantha Louderback
 
 ## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits 👍3  
 * 👍💵 Samantha Louderback
@@ -39,6 +43,9 @@
 
 ## [HB 1570](/bill/2023-24/hb/1570/) - TNC insurance programs 👍2  
 * 👍💵 Julia Gorton
+
+## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy 👍1 👎1 
+* 👎💵 Samantha Louderback
 
 ## [HB 1638](/bill/2023-24/hb/1638/) - State trooper recruitment 👍1  
 

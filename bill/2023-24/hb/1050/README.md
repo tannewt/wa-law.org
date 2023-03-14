@@ -15,27 +15,28 @@
 
 ## Meetings
 ### Mon 03/13 10:30 AM - Labor & Commerce (LC): ESHB 1050 Apprenticeship utilization
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30975&aId=153128&caId=22089&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30975&aId=153128&caId=22089&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30975&aId=153128&caId=22089&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30975&aId=153128&caId=22089&tId=4)
-
-#### 36 👍 - Pro
+#### 64 👍 - Pro
 Testifying:
 * 💵Erin Frasier - Washington State Building & Construction Trades Council
 * Matt Chapman - Ironworkers
 * Scott Tennant
 * 💵Heather Kurtenbach - Ironworkers Local 86
 * Chris Ellis - Bricklayers & Allied Craftworkers Local 1
+* Andrew Ma
+* Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Matthew Hepner - IBEW/ceww
 
-#### 30 👎 - Con
+#### 38 👎 - Con
 Testifying:
 * Jerry VanderWood - Associated General Contractors (AGC)
 * 💵Carolyn Logue - Associated Builders and Contractors -- Inland Pacific Chapter
 * 💵Sophia Steele - Associated Builders and Contractors
+* 💵Carolyn Logue - Associated Builders and Contractors - Inland Pacific Chapter
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* 💵Axel Swanson - Washington State Association of County Engineers
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
 ### Thu 01/19 01:30 PM - Capital Budget (CB): HB 1050 Apprenticeship utilization
 #### 58 👍 - Pro

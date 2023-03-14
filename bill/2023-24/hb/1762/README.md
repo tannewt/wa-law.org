@@ -19,9 +19,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153151&caId=22158&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153151&caId=22158&tId=4)
 
-#### 24 👍 - Pro
+#### 28 👍 - Pro
 
-#### 72 👎 - Con
+#### 142 👎 - Con
+Testifying:
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* 💵Bruce Beckett - [Washington Retail Association](/org/washington_retail_association/)
 
 #### 0 ❓ - Other
 

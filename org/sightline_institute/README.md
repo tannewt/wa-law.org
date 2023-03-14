@@ -17,7 +17,8 @@
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍2  
 
-## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting 👍1  
+## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting 👍2  
+* 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 
 ## [HB 1252](/bill/2023-24/hb/1252/) - Impact fee deferrals 👍1  

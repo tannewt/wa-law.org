@@ -18,14 +18,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30984&aId=153167&caId=22152&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30984&aId=153167&caId=22152&tId=4)
 
-#### 305 👍 - Pro
+#### 527 👍 - Pro
 Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
+* Kasey Burton - Tenant Law Center
+* Talauna Reed - Tenants Union
 
-#### 2 👎 - Con
+#### 264 👎 - Con
+Testifying:
+* Ryan Makinster - Washington Multi-Family Housing Association
+* GORDON HAGGERTY - 2310 Yale Apts., LLC
+* Bruce Becker - Bruce Becker
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Cory Brewer
 
 ### Thu 01/12 08:00 AM - Housing (HOUS): HB 1074 Landlord damage claims
 #### 0 👍 - Pro

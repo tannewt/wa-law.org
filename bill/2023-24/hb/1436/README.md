@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=ESHB 1436)
+* [The Seattle Times](/org/the_seattle_times/) - [Remove cap on special education funding in WA now | The Seattle Times](https://www.seattletimes.com/opinion/editorials/remove-cap-on-special-education-funding-in-wa-now/#:~:text=House Bill 1436)
 * [Washington St Pta](/org/washington_st_pta/) - [Many Bills End Their Journey in 2023 with Fiscal Cutoff - WSPTA](https://www.wastatepta.org/many-bills-end-their-journey-in-2023-with-fiscal-cutoff/#:~:text=SHB 1436)
 * [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=HB 1436)
 * [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=HB 1436)
@@ -25,11 +27,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31000&aId=153564&caId=22201&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31000&aId=153564&caId=22201&tId=4)
 
-#### 5 👍 - Pro
+#### 24 👍 - Pro
 
 #### 1 👎 - Con
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Jeff Snell - Vancouver School Districts
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)

@@ -16,11 +16,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153434&caId=22150&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153434&caId=22150&tId=4)
 
-#### 32 👍 - Pro
+#### 118 👍 - Pro
 
-#### 884 👎 - Con
+#### 1047 👎 - Con
 Testifying:
 * steve cagley
+* Elizabeth Loveness
 
 #### 1 ❓ - Other
 

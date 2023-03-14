@@ -24,6 +24,9 @@
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍1  
 * 👍 Jason Schwarz
 
+## [SB 5130](/bill/2023-24/sb/5130/) - Assisted outpatient treat.  👎1 
+* 👎 Kari Reardon
+
 ## [SB 5383](/bill/2023-24/sb/5383/) - Pedestrians/roadways 👍2  
 * 👍 Magda Baker
 

@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Mon 03/13 04:00 PM - Ways & Means (WM): SHB 1764 Asphalt & agg. valuation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31013&aId=153485&caId=22192&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31013&aId=153485&caId=22192&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31013&aId=153485&caId=22192&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31013&aId=153485&caId=22192&tId=4)
-
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Dave Gent - [Washington Asphalt Pavement Association](/org/washington_asphalt_pavement_association/)
 * Dax Woolston - Lakeside Industries, Inc.
@@ -23,7 +17,9 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Steve Ewing - Department of Revenue
 
 ### Tue 02/21 08:00 AM - Finance (FIN): HB 1764 Asphalt & agg. valuation
 #### 7 👍 - Pro

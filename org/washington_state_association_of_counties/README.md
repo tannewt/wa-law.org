@@ -188,6 +188,9 @@
 ## [SB 5273](/bill/2023-24/sb/5273/) - Employee information/unions   ❓1
 * ❓💵 Mike Hoover
 
+## [SB 5287](/bill/2023-24/sb/5287/) - Wind turbine blade recycling 👍1  
+* 👍💵 Travis Dutton
+
 ## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍2  
 * 👍💵 Paul Jewell
 * 👍💵 Paul Jewell

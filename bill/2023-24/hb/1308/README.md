@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=HB 1308)
 * [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=HB 1308)
 * [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=HB 1308)
 * [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! February 6, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-february-6-2023/#:~:text=HB 1308)
@@ -15,13 +16,7 @@
 
 ## Meetings
 ### Mon 03/13 01:30 PM - Early Learning & K-12 Education (EDU): HB 1308 Graduation pathway options
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30999&aId=153233&caId=22102&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30999&aId=153233&caId=22102&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30999&aId=153233&caId=22102&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30999&aId=153233&caId=22102&tId=4)
-
-#### 62 👍 - Pro
+#### 95 👍 - Pro
 Testifying:
 * Isaac Emerson - Student for Washington State PTA
 * Michelle Nims - Washington State PTA
@@ -32,15 +27,24 @@ Testifying:
 * Holly Finley - WSASP
 * 💵Amy Brackenbury - [Washington School Counselor Association](/org/washington_school_counselor_association/)
 * Nick Massie
+* Kimberly Headrick - Medical Lake School District
+* Gary Wray - BIAW
+* 💵Josie Cummings - BIAW
+* Marin Marks - [Washington School Counselor Association](/org/washington_school_counselor_association/)
+* Scott Kerwien - [Spokane Public Schools](/org/spokane_public_schools/)
+* Nick Massie - SW WA Contractors Assoc.
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
 
-#### 5 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Kim Reykdal - Office of Superintendent of Public Instruction
 * Ben Mitchell - Foundation for Tacoma Students
 * 💵Juliet Schindler - [College Success Foundation](/org/college_success_foundation/)
 * Steve Smith - Black Education Strategy Roundtable
+* Rep Paul Harris
 
 ### Mon 02/06 01:30 PM - Education (ED): HB 1308 Graduation pathway options
 #### 394 👍 - Pro

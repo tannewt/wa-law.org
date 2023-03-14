@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30973&aId=153118&caId=22119&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30973&aId=153118&caId=22119&tId=4)
 
-#### 6 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Jay Lopez - [Washington State Medical Oncology Society](/org/washington_state_medical_oncology_society/)
+* Audrey Miller Garcia - [American Cancer Society Cancer Action Network](/org/american_cancer_society_cancer_action_network/)
+* Anita Mitchell Isler - Colon Cancer Stars
 
 #### 0 👎 - Con
 

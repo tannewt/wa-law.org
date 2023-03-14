@@ -16,7 +16,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31008&aId=153282&caId=22037&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31008&aId=153282&caId=22037&tId=4)
 
-#### 4 👍 - Pro
+#### 19 👍 - Pro
+Testifying:
+* Janice Zahn - Capital Projects Advisory Review Board
+* Josh Swanson - International Union of Operating Engineers, Local 302
+* William Frare - Washington State Department of Enterprise Services
 
 #### 0 👎 - Con
 

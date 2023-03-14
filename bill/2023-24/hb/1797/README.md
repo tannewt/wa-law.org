@@ -14,11 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30968&aId=153473&caId=22182&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30968&aId=153473&caId=22182&tId=4)
 
-#### 2 👍 - Pro
+#### 16 👍 - Pro
+Testifying:
+* Robert Mossuto - Appraisers' Coalition of Washington
+* Scott DiBiasio - Appraisal Institute
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Beau Perschbacher - WA Dept. of Licensing
 
 ### Tue 02/14 01:30 PM - Consumer Protection & Business (CPB): HB 1797 Real estate appraisers/eval.
 #### 76 👍 - Pro

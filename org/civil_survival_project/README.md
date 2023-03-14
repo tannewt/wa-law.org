@@ -9,6 +9,8 @@
 
 ## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses 👍2  
 
+## [HB 1394](/bill/2023-24/hb/1394/) - Sexual offenses by youth 👍1  
+
 ## [HB 1432](/bill/2023-24/hb/1432/) - Juvenile justice 👍2  
 
 ## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief 👍1  
@@ -18,6 +20,8 @@
 * 👎💵 Anthony Blankenship
 
 ## [HB 1640](/bill/2023-24/hb/1640/) - Pardons and commutations 👍2  
+
+## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍1  
 
 ## [SB 5101](/bill/2023-24/sb/5101/) - DOC medical placements 👍1  
 

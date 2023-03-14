@@ -16,7 +16,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31005&aId=153253&caId=22140&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31005&aId=153253&caId=22140&tId=4)
 
-#### 121 👍 - Pro
+#### 162 👍 - Pro
+Testifying:
+* 💵Paul Griffin - Washington Rural Electric Cooperative Association
+* 💵John Rothlin - Avista
+* 💵Dave Warren - Klickitat PUD and Okanogan PUD
+* Jasmine Vasavada - Dept of Commerce
+* Jason Lewis - Utilities and Transportation Commission
 
 #### 0 👎 - Con
 

@@ -16,19 +16,44 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30973&aId=153115&caId=22116&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30973&aId=153115&caId=22116&tId=4)
 
-#### 482 👍 - Pro
+#### 890 👍 - Pro
 Testifying:
 * xiaotong wang - 14042 ne 8th st
+* Ben Boyle - APTA Washington
+* 💵Melissa Johnson - APTA Washington
+* Susanne Michaud
+* Todd Gentzler
+* Carol Sayles Rydbom
+* Jacqui Berg
+* Shane Koppenhaver
 
-#### 235 👎 - Con
+#### 616 👎 - Con
 Testifying:
 * Su Liew
 * Cong Lin
 * Xiaotong Wang
 * Jin Ding
 * Tsui-Ping LeeSinclair
+* Stanley Chan
+* Kristine McGinley - Kristine Acupuncture LLC
+* Lifang Huang
+* Rachel Li
+* Kiki Huang
+* Bing Long
+* Jianguo Chen
+* Ashley Goddard - Washington Acupuncture & Eastern Medicine Association
+* Chaiya Sherman - Washington Acupuncture & Eastern Medicine Associaiton
+* kevin Lu
+* Xia Che - Eastern Medicine I-Ching Acupuncture Clinic, PLLC
+* Xiaohong Zhang
+* Dongmei Shan
+* Sophie Ren
+* Tong Ning - Washington Acupuncture & Eastern Medicine Associaiton
+* ash goddard
+* Steve Du
+* Xiaohua Chen
 
-#### 1 ❓ - Other
+#### 10 ❓ - Other
 Testifying:
 * Xiangping Ren
 

@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Mon 03/13 10:30 AM - Law & Justice (LAW): HB 1002 Hazing penalty
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30941&aId=152985&caId=22099&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30941&aId=152985&caId=22099&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30941&aId=152985&caId=22099&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30941&aId=152985&caId=22099&tId=4)
-
-#### 1386 👍 - Pro
+#### 1476 👍 - Pro
 Testifying:
 * Jolayne Houtz
 * Hector Martinez
@@ -27,13 +21,14 @@ Testifying:
 * Nicole Andrea Rodriguez
 * Charlie Gartenberg
 * David Kwan
+* Denise Clark
 
-#### 7 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 * Patricia Knight
 
-#### 8 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * 💵Antonio Ginatta - [Columbia Legal Services](/org/columbia_legal_services/)
 

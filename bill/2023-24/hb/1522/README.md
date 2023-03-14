@@ -16,7 +16,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31011&aId=153439&caId=22190&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31011&aId=153439&caId=22190&tId=4)
 
-#### 1 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* Naira Gonzales Aranda - Associated Students of Western Washington University
+* Amanda Kost - [University of Washington](/org/university_of_washington/)
+* Bernadette Jungblut
+* Samuel Ligon
 
 #### 0 👎 - Con
 

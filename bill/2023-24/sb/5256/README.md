@@ -18,7 +18,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31002&aId=153244&caId=22031&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31002&aId=153244&caId=22031&tId=4)
 
-#### 22 👍 - Pro
+#### 36 👍 - Pro
+Testifying:
+* Judge Sharonda Amamilo - Thurston Co Superior Court
+* Lowel Krueger - Yakima Housing Authority
+* Terreca DeFehr - Parents for Parents
 
 #### 1 👎 - Con
 
