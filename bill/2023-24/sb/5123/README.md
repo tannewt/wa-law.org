@@ -15,18 +15,17 @@
 
 ## Meetings
 ### Tue 03/14 10:30 AM - Labor & Workplace Standards (LAWS): ESSB 5123 Cannabis/employment
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31022&aId=153323&caId=22040&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31022&aId=153323&caId=22040&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31022&aId=153323&caId=22040&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31022&aId=153323&caId=22040&tId=4)
+#### 20 👍 - Pro
+Testifying:
+* 💵Matthew Hepner - IBEW/ceww
+* 💵Sybill Hyppolite - Washington State Labor Council, AFL-CIO
 
-#### 11 👍 - Pro
-
-#### 11 👎 - Con
+#### 19 👎 - Con
 Testifying:
 * Esther Miller
+* Jerry VanderWood - Washington Construction Industry Council and AGC
 * 💵Sophia Steele - Associated Builders and Contractors
+* Esther Miller
 
 #### 3 ❓ - Other
 Testifying:

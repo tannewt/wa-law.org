@@ -10,13 +10,12 @@
 
 ## Meetings
 ### Wed 03/15 08:00 AM - Labor & Workplace Standards (LAWS): ESSB 5111 Sick leave/construction
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31023&aId=153330&caId=22044&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31023&aId=153330&caId=22044&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31023&aId=153330&caId=22044&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31023&aId=153330&caId=22044&tId=4)
-
-#### 46 👍 - Pro
+#### 85 👍 - Pro
+Testifying:
+* 💵Ray Dumas - OPCMIA Local 528
+* Joe Kendo - Washington State Labor Council, AFL-CIO
+* 💵Mark Riker - Washington State Building & Construction Trades Council
+* Jerry VanderWood - Associated General Contractors (AGC)
 
 #### 2 👎 - Con
 Testifying:

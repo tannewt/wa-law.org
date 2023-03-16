@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Wed 03/15 08:00 AM - Agriculture and Natural Resources (AGNR): ESSB 5371 Orca vessel protection
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30958&aId=153062&caId=21966&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30958&aId=153062&caId=21966&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30958&aId=153062&caId=21966&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30958&aId=153062&caId=21966&tId=4)
-
-#### 250 👍 - Pro
+#### 485 👍 - Pro
 Testifying:
 * Joseph Gaydos - UC Davis / SeaDoc Society
 * Frances Robertson - San Juan County
@@ -28,15 +22,20 @@ Testifying:
 * Timothy Ragen
 * Julie Watson - WDFW
 * Tara Galuska - Rec and Conservation Office-Governor's Salmon Recovery Office
+* Brendan Flynn
+* Nora Nickum - Seattle Aquarium
+* Todd Hass - Puget Sound Partnership
+* Alan Myers - WDFW
 
-#### 4 👎 - Con
+#### 17 👎 - Con
 Testifying:
 * Monika Shields - Orca Behavior Institute
 * Blaine DeWalt - Ballard Kayak and Paddleboard
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Erin Gless - [Pacific Whale Watch Association](/org/pacific_whale_watch_association/)
+* Bob Wise - President, Recreational Boating Assoc. of Washington
 
 ### Mon 01/30 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5371 Orca vessel protection
 #### 1470 👍 - Pro

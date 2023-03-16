@@ -15,19 +15,13 @@
 
 ## Meetings
 ### Tue 03/14 04:00 PM - Housing (HOUS): E2SSB 5045 ADU rental/property tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31020&aId=153315&caId=22024&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31020&aId=153315&caId=22024&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31020&aId=153315&caId=22024&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31020&aId=153315&caId=22024&tId=4)
-
-#### 29 👍 - Pro
+#### 47 👍 - Pro
 Testifying:
 * Maxwell Brooke
 * Penny Sweet - Mayor, City of Kirkland
 * 💵Brian Enslow - [City of Kirkland](/org/city_of_kirkland/)
 
-#### 1 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * C Davis
 

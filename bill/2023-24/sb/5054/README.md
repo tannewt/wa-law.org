@@ -12,15 +12,9 @@
 
 ## Meetings
 ### Tue 03/14 04:00 PM - Education (ED): SSB 5054 Prof. learning communities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31031&aId=153371&caId=22002&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31031&aId=153371&caId=22002&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31031&aId=153371&caId=22002&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31031&aId=153371&caId=22002&tId=4)
+#### 9 👍 - Pro
 
-#### 8 👍 - Pro
-
-#### 995 👎 - Con
+#### 1262 👎 - Con
 Testifying:
 * Liv Finne - Washington Policy Center
 * Jeannie Magdua - Conservative Ladies of Washington
@@ -31,13 +25,23 @@ Testifying:
 * Jennifer Heine-Withee - Family Policy Institute of Washington
 * Gina Ennis
 * Keith Adams - Family Policy Institute of Washington
+* Adrianne Garvey
+* Brian Mounce
+* Christine Longoria
+* Rick Mounce
+* Victorian Mounce
 * Laura Minkoff - Edmonds Family Chiropractic
 * Maggie Wang
 * Natalie Wang
 * Chiu Wang
 * Emily Horal
+* jon anderson
+* Sarah Lachaussee
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* STELLA LUGALIA - OFFICE OF SUPERINTENDENT OF PUBLIC INSTRUCTION
+* J. Lee Schultz - [Washington State Board of Education](/org/washington_state_board_of_education/)
 
 ### Mon 01/16 01:30 PM - Early Learning & K-12 Education (EDU): SB 5054 Prof. learning communities
 #### 6 👍 - Pro

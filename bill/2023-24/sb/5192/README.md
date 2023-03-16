@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 03/14 10:30 AM - Agriculture and Natural Resources (AGNR): SB 5192 Derelict vessel appeals
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30956&aId=153055&caId=21961&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30956&aId=153055&caId=21961&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30956&aId=153055&caId=21961&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30956&aId=153055&caId=21961&tId=4)
-
-#### 10 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Dominga Soliz - Environmental & Land Use Hearings Office
 

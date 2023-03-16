@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 03/15 08:00 AM - Labor & Workplace Standards (LAWS): SB 5240 Unemployment ins. appeals
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31023&aId=153332&caId=22046&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31023&aId=153332&caId=22046&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31023&aId=153332&caId=22046&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31023&aId=153332&caId=22046&tId=4)
-
-#### 4 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Caitlyn Jekel - WA State Employment Security Dept
 * Joshua Sundt - Office of Administrative Hearings (OAH)

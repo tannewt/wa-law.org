@@ -22,17 +22,13 @@
 
 ## Meetings
 ### Tue 03/14 04:00 PM - Education (ED): E2SSB 5243 High school and beyond plans
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31031&aId=153370&caId=22001&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31031&aId=153370&caId=22001&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31031&aId=153370&caId=22001&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31031&aId=153370&caId=22001&tId=4)
-
-#### 20 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * Natalya Yudkovsky - Washington State PTA
 * 💵Jayme Shoun - Washington STEM
 * Jenny Veltri - Northwest Washington STEM Network
+* J. Lee Schultz - [Washington State Board of Education](/org/washington_state_board_of_education/)
+* Anna Hernandez-French - Office of Superintendent of Public Instruction
 
 #### 1 👎 - Con
 

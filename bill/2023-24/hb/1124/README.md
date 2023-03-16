@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## Articles
+* [PubliCola](/org/publicola/) - [Eight-Month-Old Program to Mitigate Rent Hikes Shows Promise, Areas for Improvement - PubliCola](https://publicola.com/2023/03/14/eight-month-old-program-to-mitigate-rent-hikes-shows-promise-areas-for-improvement/#:~:text=House Bill 1124)
+* [The Urbanist](/org/the_urbanist/) - [Legislature Abandons Rent Stabilization Push | The Urbanist](https://www.theurbanist.org/2023/03/14/legislature-abandons-rent-stabilization-push/#:~:text=House Bill 1124)
 * [The Urbanist](/org/the_urbanist/) - [The Olympia Waltz Continues for Middle Housing and Other Vital Legislation | The Urbanist](https://www.theurbanist.org/2023/03/09/waleg-week-9-striker-hb1110/#:~:text=HB 1124)
 * [The Urbanist](/org/the_urbanist/) - [Washington Legislature’s New Thinking About Housing | The Urbanist](https://www.theurbanist.org/2023/03/01/washington-legislatures-new-thinking-about-housing/#:~:text=HB 1124)
 * [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=HB 1124)

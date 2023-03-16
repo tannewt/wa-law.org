@@ -60,7 +60,7 @@
 
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial  👎1 
 
-## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1  
+## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍2  
 
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  
 * 👍💵 Leah Missik
@@ -74,6 +74,8 @@
 
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍1  
 * 👍💵 Leah Missik
+
+## [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍1  
 
 ## [SB 5322](/bill/2023-24/sb/5322/) - Public building materials 👍2  
 

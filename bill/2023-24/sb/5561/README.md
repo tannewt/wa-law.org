@@ -20,10 +20,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30955&aId=153639&caId=22216&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30955&aId=153639&caId=22216&tId=4)
 
-#### 4 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Brian Spracklen - BlueBridge Alliance
+* 💵Teresa Taylor - WACOPS - Washington Council of Police and Sheriffs
 
 #### 0 👎 - Con
 

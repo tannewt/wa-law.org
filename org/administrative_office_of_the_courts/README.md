@@ -25,7 +25,8 @@
 ## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍1  
 * 👍 Kelly Warner-King
 
-## [SB 5272](/bill/2023-24/sb/5272/) - Speed safety cameras   ❓1
+## [SB 5272](/bill/2023-24/sb/5272/) - Speed safety cameras   ❓2
+* ❓ Christopher Stanley
 * ❓ Christopher Stanley
 
 ## [SB 5392](/bill/2023-24/sb/5392/) - Concerning overpayments for certain matters. 👍2  

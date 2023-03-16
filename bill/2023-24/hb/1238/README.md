@@ -31,16 +31,30 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31001&aId=153570&caId=22203&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31001&aId=153570&caId=22203&tId=4)
 
-#### 152 👍 - Pro
+#### 287 👍 - Pro
 Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * 💵Mitch Denning - WA Assn of Maintenance and Operation Administrators
 * Jessica Benton
 * Logan Endres - Washington State School Directors' Association (WSSDA)
+* Mikhail Cherniske - Office of Superintendent of Public Instruction
+* Dr. Laurie Dent - Sumner-Bonney Lake School District
+* Ben Mitchell - Foundation for Tacoma Students
+* Sophia Hernandez - [The Washington Bus](/org/the_washington_bus/)
+* MD, FAAP, Tsering Lhewa - Washington Chapter of the American Academy of Pediatrics
+* Andrea Davis
+* Mercedes White Calf - NAYA-Native American Youth & Family Center Action Fund
+* Juliana Morena - [Washington Education Association](/org/washington_education_association/)
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* Nicole Curtis
+* Sara Seelmeyer - United Way of King County
 
-#### 8 👎 - Con
+#### 59 👎 - Con
+Testifying:
+* Paul Hill
+* jon anderson
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1238 Free school meals
 #### 508 👍 - Pro

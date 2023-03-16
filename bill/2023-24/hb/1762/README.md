@@ -19,14 +19,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153151&caId=22158&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153151&caId=22158&tId=4)
 
-#### 28 👍 - Pro
+#### 142 👍 - Pro
+Testifying:
+* John Lund
+* 💵Brenda Wiest - Teamsters Local 117
 
-#### 142 👎 - Con
+#### 171 👎 - Con
 Testifying:
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * 💵Bruce Beckett - [Washington Retail Association](/org/washington_retail_association/)
+* Bob Battles - Association of Washington Business (AWB)
+* 💵Brandon Houskeeper - NW Grocery Assoc.
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1762 Warehouse employees
 #### 16 👍 - Pro

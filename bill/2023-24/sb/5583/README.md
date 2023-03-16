@@ -21,11 +21,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30961&aId=153072&caId=22082&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30961&aId=153072&caId=22082&tId=4)
 
-#### 37 👍 - Pro
+#### 88 👍 - Pro
 Testifying:
 * Alex Hansen - Washington Traffic Safety Education Association, President
+* 💵Alex Alston - [Washington Bikes](/org/washington_bikes/)
+* Lynn Rogers - Professional Driving School Association of Washington
+* David Slipp - Washington Traffic Safety Education Association (WTSEA)
 
-#### 1 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* David-Henry Sedelmeier - Driving School owner
 
 #### 3 ❓ - Other
 Testifying:

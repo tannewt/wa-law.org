@@ -9,17 +9,12 @@
 
 ## Meetings
 ### Wed 03/15 01:30 PM - Postsecondary Education & Workforce (PEW): SSB 5687 Wrestling grant programs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30987&aId=153175&caId=22061&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30987&aId=153175&caId=22061&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30987&aId=153175&caId=22061&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30987&aId=153175&caId=22061&tId=4)
-
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Amari Brown - The Evergreen State College
 * Sandy Kaiser - The Evergreen State College
 * Randall Tomaras - Restore University Wrestling
+* AJ Johnson
 
 #### 0 👎 - Con
 

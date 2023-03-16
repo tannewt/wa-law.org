@@ -17,9 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30976&aId=153135&caId=22166&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30976&aId=153135&caId=22166&tId=4)
 
-#### 11 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Joan Miller - WA Council for Behavioral Health
+* Mary Stone Smith - [Catholic Community Services of Western Washington](/org/catholic_community_services_of_western_washington/)
+* 💵Brad Banks - Behavioral Health Administrative Services Organizations
+* Mark Ozias - Clallam County Commissioner / WSAC
 
 #### 0 👎 - Con
 

@@ -13,23 +13,26 @@
 
 ## Meetings
 ### Wed 03/15 08:00 AM - Civil Rights & Judiciary (CRJ): 2SSB 5046 Postconviction counsel
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30950&aId=153396&caId=21978&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30950&aId=153396&caId=21978&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30950&aId=153396&caId=21978&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30950&aId=153396&caId=21978&tId=4)
-
-#### 62 👍 - Pro
+#### 151 👍 - Pro
 Testifying:
 * Jeffrey Ellis
 * Jennifer Smith - Seattle Clemency Project
 * Vidal Vincent
+* Maurice Olivier
+* Kelly Vomacka - Law Office of Kelly Vomacka
+* Gregory Link - Washington Appellate Project, Washington Defender Assoc, Washingont Assoc. of Criminal Defense Lawye
+* Charlie Klein - [Civil Survival Project](/org/civil_survival_project/)
+* Larry Jefferson - Director, Washington State Office of Public Defense
+* Jeremiah Bourgeois - Freedom Project WA
 
-#### 1 👎 - Con
+#### 14 👎 - Con
 Testifying:
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Eric pratt - I America
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 ### Tue 01/31 04:00 PM - Ways & Means (WM): SSB 5046 Postconviction counsel
 #### 74 👍 - Pro

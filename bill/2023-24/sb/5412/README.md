@@ -12,6 +12,19 @@
 * [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB 5412)
 
 ## Meetings
+### Tue 03/21 10:30 AM - Local Government (LG): 2SSB 5412 Land use permitting/local
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31073&aId=153710&caId=22377&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31073&aId=153710&caId=22377&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31073&aId=153710&caId=22377&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31073&aId=153710&caId=22377&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/20 01:30 PM - Transportation (TRAN): SSB 5412 Land use permitting/local
 #### 54 👍 - Pro
 Testifying:

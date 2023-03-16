@@ -17,13 +17,7 @@
 
 ## Meetings
 ### Tue 03/14 10:30 AM - Law & Justice (LAW): SHB 1155 Consumer health data
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30942&aId=152911&caId=22136&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30942&aId=152911&caId=22136&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30942&aId=152911&caId=22136&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30942&aId=152911&caId=22136&tId=4)
-
-#### 301 👍 - Pro
+#### 411 👍 - Pro
 Testifying:
 * Andrea Alegrett - WA State Attorney General's Office
 * Vera Cooley
@@ -40,10 +34,12 @@ Testifying:
 * 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
 * Jeff Coughlin
 * Danni Askini - Gender Justice League
+* Andrea Alegrett - WA State Attorney General's Office
+* Joyce Bruce - WA State Attorney General's Office
 
-#### 40 👎 - Con
+#### 65 👎 - Con
 
-#### 8 ❓ - Other
+#### 11 ❓ - Other
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Andy Kingman - State Privacy and Security Coalition
@@ -53,6 +49,8 @@ Testifying:
 * Christine Kohnert - No organization - a group of individual women
 * Cynthia Spiess - No organization - a group of individual women
 * Karen Studders - No organization - a group of individual women
+* 💵Larry Shannon - WSAJ
+* Maya Morales - WA People's Privacy (Other = Strengthen)
 
 ### Tue 01/24 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1155 Consumer health data
 #### 1012 👍 - Pro

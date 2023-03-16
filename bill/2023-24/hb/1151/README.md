@@ -16,15 +16,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30976&aId=153528&caId=22209&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30976&aId=153528&caId=22209&tId=4)
 
-#### 202 👍 - Pro
+#### 452 👍 - Pro
 Testifying:
 * Diana Gibbs
 * Claire Cunningham
 * Dwight Rousu - Individual
 * Kate Lunceford
 * Christine Stober
+* Dr. Lori Marshall
+* Katherine Tarlock
+* Dr. Tyler Ketterl
+* Kaycee Oatman
 
-#### 1 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Leslie Williams
 
 #### 0 ❓ - Other
 

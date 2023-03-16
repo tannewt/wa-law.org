@@ -13,7 +13,7 @@
 
 ## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍1  
 
-## [HB 1332](/bill/2023-24/hb/1332/) - Tribes/K-12 instruction 👍2  
+## [HB 1332](/bill/2023-24/hb/1332/) - Tribes/K-12 instruction 👍3  
 
 ## [HB 1374](/bill/2023-24/hb/1374/) - Office of career connect WA 👍1  
 
@@ -25,7 +25,7 @@
 
 ## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍1  
 
-## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍1  
+## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍2  
 
 ## [HB 1658](/bill/2023-24/hb/1658/) - Work experience/H.S. credit 👍1  
 
@@ -33,7 +33,7 @@
 
 ## [HB 1692](/bill/2023-24/hb/1692/) - Student advisory groups 👍1  
 
-## [HB 1701](/bill/2023-24/hb/1701/) - Institutional ed. programs 👍1  
+## [HB 1701](/bill/2023-24/hb/1701/) - Institutional ed. programs 👍2  
 
 ## [HB 1714](/bill/2023-24/hb/1714/) - Financial literacy grants 👍1  
 
@@ -51,7 +51,7 @@
 
 ## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍1  
 
-## [SB 5355](/bill/2023-24/sb/5355/) - Sex trafficking prev. ed. 👍1  
+## [SB 5355](/bill/2023-24/sb/5355/) - Sex trafficking prev. ed. 👍2  
 
 ## [SB 5527](/bill/2023-24/sb/5527/) - Graduation pathway options 👍1  
 

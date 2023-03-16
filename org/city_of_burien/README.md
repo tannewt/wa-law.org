@@ -21,9 +21,13 @@
 
 ## [HB 1670](/bill/2023-24/hb/1670/) - Property tax limit factor 👍1  
 
+## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍1  
+
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
 
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍1  
+
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
 

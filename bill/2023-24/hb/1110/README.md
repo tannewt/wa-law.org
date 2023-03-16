@@ -50,19 +50,40 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30985&aId=153457&caId=22180&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30985&aId=153457&caId=22180&tId=4)
 
-#### 484 👍 - Pro
+#### 814 👍 - Pro
 Testifying:
 * Joe Kunzler - None
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * MATTHEW HUTCHINS AIA CPHD - [American Institute of Architects Washington Council](/org/american_institute_of_architects_washington_council/)
+* Anthony Mixer - Conservative Advocate
 * 💵Lyset Cadena - [City of Burien](/org/city_of_burien/)
 * Mary White
+* Linda Chia
+* Joe Tovar - Washington State Department of Commerce
+* Alexander Wallace
+* Dylan Sluder - Master Builders Association of King and Snohomish Counties
+* Amanda Kost - [University of Washington](/org/university_of_washington/)
+* Andrea Reay - Tacoma-Pierce County Chamber
+* Rachel Smith - Seattle Metropolitan Chamber of Commerce
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Kurt Wilson - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Tricia Gullion - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Mercedes White Calf - NAYA Action Fund
 
-#### 79 👎 - Con
+#### 222 👎 - Con
+Testifying:
+* Salim Nice - [City of Mercer Island](/org/city_of_mercer_island/)
+* Tom McCormick
 
-#### 2 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * Richard Voget
+* Nancy Backus - City of Auburn, Mayor
+* Dana Ralph - Mayor of the City of Kent
+* Tiffany Speir - [City of Lakewood](/org/city_of_lakewood/)
+* Mary Lou Pauly - Mayor, City of Issaquah
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Arne Woodard - Councilmember, City of Spokane Valley
 
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1110 Middle housing
 #### 1176 👍 - Pro

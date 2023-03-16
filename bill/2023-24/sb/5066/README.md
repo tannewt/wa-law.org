@@ -8,18 +8,12 @@
 
 ## Meetings
 ### Tue 03/14 01:30 PM - Health Care & Wellness (HCW): SB 5066 Health care benefit managers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30990&aId=153193&caId=22011&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30990&aId=153193&caId=22011&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30990&aId=153193&caId=22011&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30990&aId=153193&caId=22011&tId=4)
-
-#### 14 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Lori Grass - WA State Chiropractic Assocation
 * Jane Beyer - Office of the Insurance Commissioner
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

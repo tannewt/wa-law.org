@@ -18,6 +18,21 @@
 * [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=HB 1550)
 
 ## Meetings
+### Wed 03/22 01:30 PM - Early Learning & K-12 Education (EDU): 2SHB 1550 Transition to kindergarten
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31117&aId=153912&caId=22277&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31117&aId=153912&caId=22277&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31117&aId=153912&caId=22277&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31117&aId=153912&caId=22277&tId=4)
+
+#### 0 👍 - Pro
+
+#### 2 👎 - Con
+Testifying:
+* Jim Kowalkowski - Rural Education Center
+
+#### 0 ❓ - Other
+
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1550 Transition to kindergarten
 #### 27 👍 - Pro
 Testifying:

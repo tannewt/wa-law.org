@@ -8,17 +8,11 @@
 
 ## Meetings
 ### Wed 03/15 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SB 5252 FBI criminal history records
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31003&aId=153245&caId=22032&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31003&aId=153245&caId=22032&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31003&aId=153245&caId=22032&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31003&aId=153245&caId=22032&tId=4)
-
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Monika Vasil - Dept. of Social and Health Services
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -10,15 +10,11 @@
 
 ## Meetings
 ### Tue 03/14 04:00 PM - Community Safety, Justice, & Reentry (CSJR): ESSB 5576 Sexual assault procedures
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30971&aId=153107&caId=21986&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30971&aId=153107&caId=21986&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30971&aId=153107&caId=21986&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30971&aId=153107&caId=21986&tId=4)
+#### 7 👍 - Pro
+Testifying:
+* Cody Reiter - Washington State Attorney General's Office
 
-#### 4 👍 - Pro
-
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

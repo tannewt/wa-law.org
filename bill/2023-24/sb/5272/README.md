@@ -14,19 +14,22 @@
 
 ## Meetings
 ### Wed 03/15 04:00 PM - Transportation (TR): ESSB 5272 Speed safety cameras
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30959&aId=153063&caId=22078&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30959&aId=153063&caId=22078&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30959&aId=153063&caId=22078&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30959&aId=153063&caId=22078&tId=4)
-
-#### 27 👍 - Pro
+#### 47 👍 - Pro
 Testifying:
 * 💵Davor Gjurasic - WSP Troopers Association
+* Deken Letinich
+* 💵Jennifer Ziegler - National Construction Alliance
+* Mallorie Davies - Washington and Northern Idaho District Council of Laborers
+* Captain Neal Weaver - Washington State Patrol
+* Mark McKechnie - Washington Traffic Safety Commission
+* Travis Snell - Washington State Department of Transportation
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Judge Whitney Rivera - District & Municipal Court Judges Association
 
 ### Mon 01/23 04:00 PM - Transportation (TRAN): SB 5272 Speed safety cameras
 #### 43 👍 - Pro

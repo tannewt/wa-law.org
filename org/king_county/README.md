@@ -14,7 +14,7 @@
 
 ## [HB 1055](/bill/2023-24/hb/1055/) - Pub safety telecommunicators 👍1  
 
-## [HB 1056](/bill/2023-24/hb/1056/) - Postretirement employment 👍1  
+## [HB 1056](/bill/2023-24/hb/1056/) - Postretirement employment 👍2  
 
 ## [HB 1073](/bill/2023-24/hb/1073/) - Medical assistants 👍1  
 
@@ -30,7 +30,7 @@
 
 ## [HB 1108](/bill/2023-24/hb/1108/) - Persistent offenders 👍1  
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
 * 👍💵 Michael White
 
 ## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍1  
@@ -42,9 +42,9 @@
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
 * 👍 Kelly Rider
 
-## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍2  
+## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍3  
 
-## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
+## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍2  
 
 ## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍2  
 
@@ -163,11 +163,11 @@
 
 ## [HB 1455](/bill/2023-24/hb/1455/) - Child marriage 👍1  
 
-## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
+## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍2  
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
 
 ## [HB 1478](/bill/2023-24/hb/1478/) - Student rights 👍1  
 
@@ -187,7 +187,7 @@
 
 ## [HB 1512](/bill/2023-24/hb/1512/) - Missing persons 👍2  
 
-## [HB 1515](/bill/2023-24/hb/1515/) - Behavioral health contracts 👍2  
+## [HB 1515](/bill/2023-24/hb/1515/) - Behavioral health contracts 👍3  
 * 👍 Kelly Rider
 
 ## [HB 1530](/bill/2023-24/hb/1530/) - Law enf. employ. eligibility 👍1  
@@ -206,7 +206,8 @@
 
 ## [HB 1562](/bill/2023-24/hb/1562/) - Violence 👍1  
 
-## [HB 1575](/bill/2023-24/hb/1575/) - Cultural access programs/tax 👍5  
+## [HB 1575](/bill/2023-24/hb/1575/) - Cultural access programs/tax 👍6  
+* 👍 Kate Becker
 * 👍 Kate Becker
 
 ## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍2  
@@ -215,9 +216,11 @@
 * 👍 MICHAEL MURPHY
 * 👍 MICHAEL MURPHY
 
+## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy 👍1  
+
 ## [HB 1618](/bill/2023-24/hb/1618/) - Childhood sexual abuse/SOL 👍1  
 
-## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍1  
+## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍2  
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍3  
 * 👍 Sunaree Marshall
@@ -247,6 +250,8 @@
 
 ## [HB 1777](/bill/2023-24/hb/1777/) - Energy contracting 👍2  
 
+## [HB 1779](/bill/2023-24/hb/1779/) - Toxic air pollution 👍1  
+
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍2  
 
 ## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services  👎1 
@@ -254,6 +259,8 @@
 ## [HB 1795](/bill/2023-24/hb/1795/) - Estate tax 👍1  
 
 ## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge   ❓2
+
+## [SB 5006](/bill/2023-24/sb/5006/) - Waiver of firearm rights 👍1  
 
 ## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment   ❓1
 * ❓ Brad Finegood
@@ -266,7 +273,7 @@
 
 ## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍1  
 
-## [SB 5087](/bill/2023-24/sb/5087/) - Defects and omissions 👍1  
+## [SB 5087](/bill/2023-24/sb/5087/) - Defects and omissions 👍2  
 
 ## [SB 5093](/bill/2023-24/sb/5093/) - Climate response strategy 👍1  
 
@@ -282,7 +289,7 @@
 
 ## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍1  
 
-## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍2  
+## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍3  
 * 👍 Sarah Perry
 
 ## [SB 5130](/bill/2023-24/sb/5130/) - Assisted outpatient treat. 👍3  
@@ -344,7 +351,7 @@
 * 👍💵 Michael White
 * 👍💵 Michael White
 
-## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍2  
+## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍3  
 
 ## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍2  
 
@@ -384,7 +391,7 @@
 
 ## [SB 5349](/bill/2023-24/sb/5349/) - Postretirement employment 👍1  
 
-## [SB 5365](/bill/2023-24/sb/5365/) - Vapor and tobacco/minors 👍1  
+## [SB 5365](/bill/2023-24/sb/5365/) - Vapor and tobacco/minors 👍2  
 
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍1  
 
@@ -393,7 +400,7 @@
 
 ## [SB 5369](/bill/2023-24/sb/5369/) - Polychlorinated biphenyls 👍2  
 
-## [SB 5371](/bill/2023-24/sb/5371/) - Orca vessel protection 👍1  
+## [SB 5371](/bill/2023-24/sb/5371/) - Orca vessel protection 👍2  
 
 ## [SB 5373](/bill/2023-24/sb/5373/) - ARNP, PA, & MD reimbursement 👍1  
 
@@ -442,7 +449,7 @@
 
 ## [SB 5501](/bill/2023-24/sb/5501/) - Establishing a public education program to reduce the incidence of stillbirth using a platform for recording and tracking fetal movements. 👍1  
 
-## [SB 5515](/bill/2023-24/sb/5515/) - Child abuse and neglect 👍1  
+## [SB 5515](/bill/2023-24/sb/5515/) - Child abuse and neglect 👍2  
 
 ## [SB 5526](/bill/2023-24/sb/5526/) - Nursing facility rates 👍2  
 
@@ -450,7 +457,7 @@
 
 ## [SB 5547](/bill/2023-24/sb/5547/) - Nursing pool transparency 👍1  
 
-## [SB 5555](/bill/2023-24/sb/5555/) - Certified peer specialists 👍3  
+## [SB 5555](/bill/2023-24/sb/5555/) - Certified peer specialists 👍4  
 
 ## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy 👍1  
 
@@ -471,10 +478,10 @@
 
 ## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍1  
 
-## [SB 5696](/bill/2023-24/sb/5696/) - PEBB/subdivision retirees 👍1  
+## [SB 5696](/bill/2023-24/sb/5696/) - PEBB/subdivision retirees 👍2  
 
 ## [SB 5702](/bill/2023-24/sb/5702/) - Student homelessness pilot 👍1  
 
 ## [SB 5719](/bill/2023-24/sb/5719/) - Student homelessness group 👍1  
 
-## [SB 5729](/bill/2023-24/sb/5729/) - Insulin cost-sharing cap 👍1  
+## [SB 5729](/bill/2023-24/sb/5729/) - Insulin cost-sharing cap 👍2  

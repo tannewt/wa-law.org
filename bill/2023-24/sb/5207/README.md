@@ -10,18 +10,14 @@
 
 ## Meetings
 ### Tue 03/14 01:30 PM - State Government & Tribal Relations (SGOV): ESSB 5207 Controlled entities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31027&aId=153346&caId=22068&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31027&aId=153346&caId=22068&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31027&aId=153346&caId=22068&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31027&aId=153346&caId=22068&tId=4)
-
-#### 31 👍 - Pro
+#### 52 👍 - Pro
 Testifying:
 * 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
 * Cindy Madigan - League of Women Voters of Washington
 
-#### 30 👎 - Con
+#### 52 👎 - Con
+Testifying:
+* Anthony Stockman - Stockman
 
 #### 2 ❓ - Other
 Testifying:

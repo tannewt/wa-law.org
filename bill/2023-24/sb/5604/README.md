@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Wed 03/15 08:00 AM - Local Government (LG): SSB 5604 Mental health & housing/tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30963&aId=153084&caId=22055&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30963&aId=153084&caId=22055&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30963&aId=153084&caId=22055&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30963&aId=153084&caId=22055&tId=4)
-
-#### 11 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Mary Jane Brell-Vujovic - Snohomish County

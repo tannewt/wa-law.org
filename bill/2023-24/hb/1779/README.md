@@ -9,13 +9,12 @@
 
 ## Meetings
 ### Wed 03/15 08:00 AM - Environment, Energy & Technology (ENET): SHB 1779 Toxic air pollution
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153576&caId=22213&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153576&caId=22213&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153576&caId=22213&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153576&caId=22213&tId=4)
-
-#### 0 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Annet van Tilburg
+* Melissa Browning
+* Neil Weaver - Washington State Patrol
+* Daniel Davidai
 
 #### 1 👎 - Con
 

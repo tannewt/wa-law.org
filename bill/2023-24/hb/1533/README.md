@@ -14,6 +14,19 @@
 * [The Seattle Times](/org/the_seattle_times/) - [Who your child’s teacher is shouldn’t be a secret | The Seattle Times](https://www.seattletimes.com/opinion/editorials/who-your-childs-teacher-is-shouldnt-be-a-secret/#:~:text=HB 1533)
 
 ## Meetings
+### Tue 03/21 01:30 PM - State Government & Elections (SGE): ESHB 1533 PRA/employee information
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31116&aId=153910&caId=22269&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31116&aId=153910&caId=22269&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31116&aId=153910&caId=22269&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31116&aId=153910&caId=22269&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/03 08:00 AM - State Government & Tribal Relations (SGOV): HB 1533 PRA/employee information
 #### 33 👍 - Pro
 Testifying:

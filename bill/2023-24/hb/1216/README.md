@@ -16,13 +16,7 @@
 
 ## Meetings
 ### Wed 03/15 08:00 AM - Environment, Energy & Technology (ENET): E2SHB 1216 Clean energy siting
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153256&caId=22148&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153256&caId=22148&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153256&caId=22148&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153256&caId=22148&tId=4)
-
-#### 165 👍 - Pro
+#### 232 👍 - Pro
 Testifying:
 * 💵Isaac Kastama - Clean & Prosperous Washington
 * Kathryn Brigham - [Confederated Tribes of the Umatilla Indian Reservation](/org/confederated_tribes_of_the_umatilla_indian_reservation/)
@@ -30,10 +24,20 @@ Testifying:
 * 💵Cassie Bordelon - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 * 💵Kelly Hall - [Climate Solutions](/org/climate_solutions/)
 * 💵Mark Riker - Washington State Building and Construction Trades Council
+* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Justin Allegro - [The Nature Conservancy](/org/the_nature_conservancy/)
+* Adam Eitmann - WA Dept of Ecology
+* Becky Kelley - Office of Governor Jay Inslee
+* Jasmine Vasavada - WA Dept of Commerce
+* 💵Kate Brouns - [Renewable Northwest](/org/renewable_northwest/)
 
-#### 34 👎 - Con
+#### 59 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Jacob Anderson - Klickitat County
 
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1216 Clean energy siting
 #### 82 👍 - Pro

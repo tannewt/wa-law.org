@@ -6,14 +6,15 @@
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
 
-## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  
+## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  ❓1
 * 👍 Jan Hasselman
 
 ## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍2  
 
 ## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  
 
-## [HB 1554](/bill/2023-24/hb/1554/) - Lead impacts 👍1  
+## [HB 1554](/bill/2023-24/hb/1554/) - Lead impacts 👍2  
+* 👍 Eric Gonzalez Alfaro
 
 ## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍1  
 

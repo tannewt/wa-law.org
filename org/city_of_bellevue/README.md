@@ -26,9 +26,15 @@
 ## [HB 1326](/bill/2023-24/hb/1326/) - Utility connection charges 👍1  
 * 👍 Andrew Baker
 
+## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units   ❓1
+* ❓ Lacey Jane Wolfe
+
 ## [HB 1385](/bill/2023-24/hb/1385/) - Civil forfeiture proceedings   ❓1
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
+
+## [HB 1521](/bill/2023-24/hb/1521/) - Industrial insurance/duties  👎1 
+* 👎 Lacey Jane Wolfe
 
 ## [HB 1582](/bill/2023-24/hb/1582/) - Right turns 👍1  
 
@@ -57,6 +63,9 @@
 
 ## [SB 5430](/bill/2023-24/sb/5430/) - Driver training/low-income 👍1  
 
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development   ❓1
+* ❓ Emil King
+
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
 
 ## [SB 5509](/bill/2023-24/sb/5509/) - Public infrastructure bank 👍1  
@@ -69,6 +78,8 @@
 
 ## [SB 5594](/bill/2023-24/sb/5594/) - Fully autonomous vehicles   ❓1
 * ❓ Chris Long
+
+## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍1  
 
 ## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍1  
 * 👍 Lacey Jane Wolfe

@@ -14,11 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30996&aId=153273&caId=22170&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30996&aId=153273&caId=22170&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* 💵Bill Clarke - Whatcom Ag Water Board
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Dave Christensen - Washington Department of Ecology
 
 ### Tue 02/14 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1792 Water rights procedures
 #### 19 👍 - Pro

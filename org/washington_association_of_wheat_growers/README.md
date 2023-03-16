@@ -9,7 +9,7 @@
 
 ## [SB 5254](/bill/2023-24/sb/5254/) - Leasing of state lands  👎1 
 
-## [SB 5341](/bill/2023-24/sb/5341/) - WA food & ag. products 👍1  
+## [SB 5341](/bill/2023-24/sb/5341/) - WA food & ag. products 👍2  
 
 ## [SB 5353](/bill/2023-24/sb/5353/) - Voluntary stewardship prog. 👍1  
 

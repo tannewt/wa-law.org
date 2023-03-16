@@ -1,6 +1,6 @@
 # Washington Hospitality Association
 
-## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
+## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍3  
 
 ## [HB 1068](/bill/2023-24/hb/1068/) - Injured worker medical exams  👎1 
 * 👎💵 Samantha Louderback

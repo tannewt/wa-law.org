@@ -104,7 +104,8 @@
 
 ## [SB 5101](/bill/2023-24/sb/5101/) - DOC medical placements 👍1  
 
-## [SB 5110](/bill/2023-24/sb/5110/) - Labor practices/penalties 👍1  
+## [SB 5110](/bill/2023-24/sb/5110/) - Labor practices/penalties 👍2  
+* 👍💵 Andrea Schmitt
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 

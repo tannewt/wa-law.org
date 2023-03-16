@@ -19,11 +19,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31001&aId=153572&caId=22205&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31001&aId=153572&caId=22205&tId=4)
 
-#### 2 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* 💵Allison Krutsinger - Dept of Children, Youth, and Families
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 02/09 08:00 AM - Education (ED): HB 1701 Institutional ed. programs
 #### 12 👍 - Pro

@@ -2,10 +2,14 @@
 
 ## [HB 1086](/bill/2023-24/hb/1086/) - Community org. contracts 👍2  
 
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing  👎1 
+* 👎 Salim Nice
+
 ## [HB 1135](/bill/2023-24/hb/1135/) - Impact fee use 👍1  
 
-## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting  👎1 ❓1
+## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting  👎3 ❓1
 * ❓💵 Luke Esser
+* 👎 Salim Nice
 
 ## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits 👍1  
 
@@ -29,5 +33,8 @@
 ## [SB 5424](/bill/2023-24/sb/5424/) - Flexible work/peace officers 👍1  
 
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍1  
+
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development   ❓1
+* ❓ Salim Nice
 
 ## [SB 5509](/bill/2023-24/sb/5509/) - Public infrastructure bank 👍1  

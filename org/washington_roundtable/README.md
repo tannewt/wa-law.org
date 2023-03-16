@@ -4,6 +4,8 @@
 
 ## [HB 1156](/bill/2023-24/hb/1156/) - College grant eligibility 👍1  
 
+## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  
+
 ## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍2  
 
 ## [HB 1273](/bill/2023-24/hb/1273/) - High school and beyond plans 👍1  
@@ -30,6 +32,9 @@
 ## [SB 5305](/bill/2023-24/sb/5305/) - Office of career connect WA 👍2  
 
 ## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍1  
+
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
+* 👍💵 Neil Strege
 
 ## [SB 5534](/bill/2023-24/sb/5534/) - Workforce investment board 👍2  
 * 👍💵 Neil Strege

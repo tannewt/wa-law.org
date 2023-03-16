@@ -4,6 +4,9 @@
 
 ## [HB 1082](/bill/2023-24/hb/1082/) - PT & OT service corporations 👍1  
 
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
+* 👍 Amanda Kost
+
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍2  
 
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  

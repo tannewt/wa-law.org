@@ -10,22 +10,19 @@
 
 ## Meetings
 ### Tue 03/14 08:00 AM - Health & Long Term Care (HLTC): 2SHB 1452 Medical reserve corps
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30973&aId=153117&caId=22118&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30973&aId=153117&caId=22118&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30973&aId=153117&caId=22118&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30973&aId=153117&caId=22118&tId=4)
-
-#### 12 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Alex Wehinger - WA State Medical Association (WSMA)
 * Gabrielle Hubbard - WSALPHO
 * Nicole Thom - WSALPHO
+* Nicole Thompson - WSALPHO
 * Shawn Morris - WSALPHO
 
 #### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Andrew Rose - AVAILABLE FOR QUESTIONS Washington State Department of Health
 
 ### Mon 02/06 04:00 PM - Appropriations (APP): SHB 1452 Medical reserve corps
 #### 14 👍 - Pro

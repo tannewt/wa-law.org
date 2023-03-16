@@ -4,6 +4,8 @@
 * 👍 Sonia Joseph
 * 👍💵 Nickeia Hunter
 
+## [HB 1080](/bill/2023-24/hb/1080/) - Body worn cameras   ❓1
+
 ## [HB 1333](/bill/2023-24/hb/1333/) - Domestic violent extremism 👍1  
 
 ## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits  👎5 
@@ -23,7 +25,7 @@
 * 👍 Po Leapai
 * 👍 Tonya Isabell
 
-## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍8  
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍9  
 * 👍 Debbie Novak
 * 👍💵 Nickeia Hunter
 * 👍 Po Leapai

@@ -1,12 +1,12 @@
 # Association of Washington School Principals
 
-## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍1  
+## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
 
 ## [HB 1015](/bill/2023-24/hb/1015/) - Paraeducator requirements 👍2  
 
 ## [HB 1056](/bill/2023-24/hb/1056/) - Postretirement employment 👍1  
 
-## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍2  
+## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍3  
 
 ## [HB 1113](/bill/2023-24/hb/1113/) - Prof. educator reprimands 👍1  
 
@@ -29,14 +29,14 @@
 
 ## [HB 1332](/bill/2023-24/hb/1332/) - Tribes/K-12 instruction 👍1  
 
-## [HB 1346](/bill/2023-24/hb/1346/) - Purple star award 👍1  
+## [HB 1346](/bill/2023-24/hb/1346/) - Purple star award 👍2  
 
 ## [HB 1377](/bill/2023-24/hb/1377/) - Continuing education/K-12 👍1  
 * 👍💵 Roz Thompson
 
 ## [HB 1411](/bill/2023-24/hb/1411/) - Cross-sector prof. dev. 👍1  
 
-## [HB 1436](/bill/2023-24/hb/1436/) - Special education funding 👍1  
+## [HB 1436](/bill/2023-24/hb/1436/) - Special education funding 👍1 👎1 
 
 ## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation   ❓2
 
@@ -50,6 +50,10 @@
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
 
+## [SB 5054](/bill/2023-24/sb/5054/) - Prof. learning communities   ❓1
+
+## [SB 5243](/bill/2023-24/sb/5243/) - High school and beyond plans 👍1  
+
 ## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess   ❓1
 * ❓💵 Roz Thompson
 
@@ -58,7 +62,7 @@
 
 ## [SB 5275](/bill/2023-24/sb/5275/) - SEBB benefits access 👍1  
 
-## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍1  
+## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍1  ❓1
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
 
@@ -69,6 +73,8 @@
 ## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍1  
 
 ## [SB 5617](/bill/2023-24/sb/5617/) - Career & tech. ed. courses 👍1  
+
+## [SB 5650](/bill/2023-24/sb/5650/) - K-12 inflationary increases 👍1  
 
 ## [SB 5670](/bill/2023-24/sb/5670/) - Running start/10th grade  👎2 
 * 👎💵 Roz Thompson

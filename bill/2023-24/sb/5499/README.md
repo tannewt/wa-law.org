@@ -11,6 +11,19 @@
 * [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SB 5499)
 
 ## Meetings
+### Wed 03/22 01:30 PM - Postsecondary Education & Workforce (PEW): SSB 5499 Multistate nurse licensure
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31103&aId=153839&caId=22386&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31103&aId=153839&caId=22386&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31103&aId=153839&caId=22386&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31103&aId=153839&caId=22386&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/10 08:00 AM - Health & Long Term Care (HLTC): SB 5499 Multistate nurse licensure
 #### 195 👍 - Pro
 Testifying:

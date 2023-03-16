@@ -15,17 +15,18 @@
 
 ## Meetings
 ### Wed 03/15 04:00 PM - Appropriations (APP): ESSB 5702 Student homelessness pilot
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30954&aId=153381&caId=21969&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30954&aId=153381&caId=21969&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30954&aId=153381&caId=21969&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30954&aId=153381&caId=21969&tId=4)
-
-#### 14 👍 - Pro
+#### 42 👍 - Pro
 Testifying:
 * Nicole Mazen - Amara
+* 💵Joel Anderson - University of Washington Graduate and Professional Student Senate
+* Madeline Sprute - Associated Students of Tacoma Community College
+* Baydaa Alshatee - SBCTC
+* Jacob Katz - SBCTC
+* Jennifer Dellinger - SBCTC
+* Shannon Cosgrove - SBCTC
+* 💵Charles Adkins - Self
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

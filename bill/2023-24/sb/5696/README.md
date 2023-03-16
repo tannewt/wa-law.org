@@ -15,13 +15,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30955&aId=153642&caId=22219&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30955&aId=153642&caId=22219&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Jackie Tomlinson - Retired Snohomish Health District Employee
+* Nathan Kennedy - Snohomish County
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* David Iseminger - WA State Health Care Authority
 
 ### Sat 02/18 09:00 AM - Ways & Means (WM): SB 5696 PEBB/subdivision retirees
 #### 6 👍 - Pro

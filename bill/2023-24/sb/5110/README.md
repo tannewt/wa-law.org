@@ -9,17 +9,17 @@
 
 ## Meetings
 ### Wed 03/15 08:00 AM - Labor & Workplace Standards (LAWS): SSB 5110 Labor practices/penalties
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31023&aId=153329&caId=22043&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31023&aId=153329&caId=22043&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31023&aId=153329&caId=22043&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31023&aId=153329&caId=22043&tId=4)
+#### 17 👍 - Pro
+Testifying:
+* 💵Andrea Schmitt - [Columbia Legal Services](/org/columbia_legal_services/)
+* Joe Kendo - Washington State Labor Council AFL-CIO
 
-#### 7 👍 - Pro
-
-#### 6 👎 - Con
+#### 21 👎 - Con
 Testifying:
 * 💵James King - [Independent Business Association](/org/independent_business_association/)
+* Bob Battles - Association of Washington Business (AWB)
+* Kris Tefft - Washington Liability Reform Coalition
+* 💵Sophia Steele - Associated Builders and Contractors
 
 #### 0 ❓ - Other
 

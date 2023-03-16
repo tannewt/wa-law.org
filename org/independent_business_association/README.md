@@ -19,7 +19,8 @@
 ## [HB 1458](/bill/2023-24/hb/1458/) - Apprenticeship programs/UI  👎2 
 * 👎💵 James King
 
-## [HB 1534](/bill/2023-24/hb/1534/) - Construction consumers 👍2  
+## [HB 1534](/bill/2023-24/hb/1534/) - Construction consumers 👍3  
+* 👍💵 James King
 * 👍💵 James King
 * 👍💵 James King
 

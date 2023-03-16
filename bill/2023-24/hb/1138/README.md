@@ -15,11 +15,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30996&aId=153271&caId=22168&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30996&aId=153271&caId=22168&tId=4)
 
-#### 72 👍 - Pro
+#### 92 👍 - Pro
+Testifying:
+* James Kraft - Washington Water Trust
+* Dave Christensen - Washington Department of Ecology
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Bill Clarke - WA PUD Association + Kittitas Reclamation District
 
 ### Mon 02/06 04:00 PM - Appropriations (APP): HB 1138 Drought preparedness
 #### 12 👍 - Pro

@@ -6,7 +6,7 @@
 
 ## [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍1  
 
-## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
+## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍3  
 
 ## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals  👎2 
 * 👎💵 Peter Godlewski
@@ -41,7 +41,7 @@
 
 ## [HB 1163](/bill/2023-24/hb/1163/) - Leasehold tax/arenas 👍1  
 
-## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍1  
+## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍2  
 
 ## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy   ❓2
 * ❓💵 Peter Godlewski
@@ -60,7 +60,8 @@
 ## [HB 1215](/bill/2023-24/hb/1215/) - Riparian areas   ❓1
 * ❓ Mike Ennis
 
-## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  
+## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍2  
+* 👍💵 Peter Godlewski
 * 👍💵 Peter Godlewski
 
 ## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍3  
@@ -103,7 +104,7 @@
 * 👎💵 Peter Godlewski
 * ❓💵 Peter Godlewski
 
-## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units 👍1  
+## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units 👍2  
 
 ## [HB 1338](/bill/2023-24/hb/1338/) - DOC ed. and vocational prgs. 👍3  
 
@@ -189,7 +190,7 @@
 
 ## [HB 1544](/bill/2023-24/hb/1544/) - Shoreline program review 👍1  
 
-## [HB 1547](/bill/2023-24/hb/1547/) - Out-of-state health prov. 👍1  
+## [HB 1547](/bill/2023-24/hb/1547/) - Out-of-state health prov. 👍2  
 
 ## [HB 1548](/bill/2023-24/hb/1548/) - Railroad workers  👎1 
 * 👎 Mike Ennis
@@ -287,7 +288,7 @@
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment  👎1 
 * 👎💵 Peter Godlewski
 
-## [SB 5156](/bill/2023-24/sb/5156/) - Farm internship program 👍2  
+## [SB 5156](/bill/2023-24/sb/5156/) - Farm internship program 👍3  
 
 ## [SB 5158](/bill/2023-24/sb/5158/) - State & local taxation 👍1  
 
@@ -308,7 +309,7 @@
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures   ❓1
 * ❓💵 Dave Mastin
 
-## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍2  
+## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍3  
 
 ## [SB 5235](/bill/2023-24/sb/5235/) - Accessory dwelling units 👍1  
 
@@ -323,7 +324,7 @@
 ## [SB 5267](/bill/2023-24/sb/5267/) - Railroad workers  👎1 
 * 👎 Mike Ennis
 
-## [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍1  
+## [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍2  
 
 ## [SB 5272](/bill/2023-24/sb/5272/) - Speed safety cameras 👍1  
 
@@ -342,15 +343,16 @@
 
 ## [SB 5305](/bill/2023-24/sb/5305/) - Office of career connect WA 👍2  
 
-## [SB 5309](/bill/2023-24/sb/5309/) - Petroleum transportation/tax  👎1 
+## [SB 5309](/bill/2023-24/sb/5309/) - Petroleum transportation/tax  👎2 
 * 👎💵 Emily Shay
+* 👎💵 Peter Godlewski
 
 ## [SB 5316](/bill/2023-24/sb/5316/) - DCYF background check fees 👍1  
 
 ## [SB 5325](/bill/2023-24/sb/5325/) - Clean fuel/public transport.  👎1 
 * 👎 Mike Ennis
 
-## [SB 5353](/bill/2023-24/sb/5353/) - Voluntary stewardship prog. 👍1  
+## [SB 5353](/bill/2023-24/sb/5353/) - Voluntary stewardship prog. 👍2  
 
 ## [SB 5357](/bill/2023-24/sb/5357/) - Detached ADUs 👍1  
 
@@ -392,7 +394,8 @@
 
 ## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍1  
 
-## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍2  
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍3  
+* 👍 Mike Ennis
 * 👍 Mike Ennis
 * 👍 Mike Ennis
 
@@ -421,7 +424,7 @@
 
 ## [SB 5522](/bill/2023-24/sb/5522/) - College grant prg. stipend 👍1  
 
-## [SB 5531](/bill/2023-24/sb/5531/) - Milk product haulers 👍1  
+## [SB 5531](/bill/2023-24/sb/5531/) - Milk product haulers 👍2  
 
 ## [SB 5539](/bill/2023-24/sb/5539/) - Tax increment financing 👍1  
 

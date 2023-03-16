@@ -8,17 +8,13 @@
 
 ## Meetings
 ### Wed 03/15 04:00 PM - Transportation (TR): SB 5550 Ferry workforce development
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30959&aId=153065&caId=22080&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30959&aId=153065&caId=22080&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30959&aId=153065&caId=22080&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30959&aId=153065&caId=22080&tId=4)
-
-#### 4 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * Eric Winge - [Marine Engineers' Beneficial Association](/org/marine_engineers'_beneficial_association/)
+* 💵Gordon Baxter - Inlandboatmen’s Union
+* Daniel Twohig - International Orgainization of Masters, Mates and Pilots
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

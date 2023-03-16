@@ -1,5 +1,7 @@
 # Puyallup Tribe of Indians
 
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍1  
+
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
 
 ## [HB 1347](/bill/2023-24/hb/1347/) - Integrating community-based health assessments into foundational environmental policies to improve environmental justice. 👍1  

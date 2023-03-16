@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Tue 03/14 10:30 AM - Law & Justice (LAW): SHB 1080 Body worn cameras
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30942&aId=152986&caId=22139&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30942&aId=152986&caId=22139&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30942&aId=152986&caId=22139&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30942&aId=152986&caId=22139&tId=4)
-
-#### 13 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Christina Schuck - City of Kent, Deputy City Attorney
 * Kim Komoto - Kent City Clerk/Public Records Officer
@@ -28,13 +22,13 @@ Testifying:
 * 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Monica Alexander - Washington State Criminal Justice Training Commission
 
-#### 4 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Braden Pence
 * Jason Lantz - Washington Association of Criminal Defense Lawyers and Washington Defender Association
 * 💵Larry Shannon - WA State Association for Justice
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 01/11 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1080 Body worn cameras
 #### 0 👍 - Pro

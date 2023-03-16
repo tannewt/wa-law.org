@@ -17,22 +17,25 @@
 
 ## Meetings
 ### Wed 03/15 08:00 AM - Labor & Workplace Standards (LAWS): E2SSB 5236 Hospital staffing standards
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31023&aId=153331&caId=22045&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31023&aId=153331&caId=22045&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31023&aId=153331&caId=22045&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31023&aId=153331&caId=22045&tId=4)
-
-#### 1669 👍 - Pro
+#### 2122 👍 - Pro
 Testifying:
 * Evan Riley - RN
 * Meighan Doherty
 * Kathryn Lewandowsky
 * 💵Lisa Thatcher - Washington State Hospital Association
+* Lisa Parshley - Olympia City Council
+* Claire Symons - [Bleeding Disorder Foundation of Washington](/org/bleeding_disorder_foundation_of_washington/)
+* Edna Cortez - WSNA
+* Michaela Roberts - UFCW
+* 💵Stephanie Simpson - [Bleeding Disorder Foundation of Washington](/org/bleeding_disorder_foundation_of_washington/)
+* Anna Smith
+* Jennifer Gordon
+* Kelli Johnson
+* Sara Gering
 
-#### 3 👎 - Con
+#### 15 👎 - Con
 
-#### 9 ❓ - Other
+#### 14 ❓ - Other
 
 ### Thu 02/16 04:00 PM - Ways & Means (WM): SSB 5236 Hospital staffing standards
 #### 5737 👍 - Pro

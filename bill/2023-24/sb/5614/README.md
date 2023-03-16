@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Wed 03/15 08:00 AM - Labor & Workplace Standards (LAWS): ESSB 5614 Adult entertainment
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31023&aId=153333&caId=22047&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31023&aId=153333&caId=22047&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31023&aId=153333&caId=22047&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31023&aId=153333&caId=22047&tId=4)
-
-#### 12 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Madison Zack-Wu - Strippers Are Workers
 * Aubrey Watkins - Saw
@@ -30,10 +24,19 @@ Testifying:
 * Lexy B
 * Tessa A
 * madison zack-wu
+* Shira Cole - [Expressive Rights Alliance](/org/expressive_rights_alliance/)
+* Samantha H - 2721 4th ave
+* P C
+* Samantha Estudillo
+* Phoebe Katz
 
-#### 0 👎 - Con
+#### 177 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Chester Baldwin - DejaVu, Dreamgirls
+* Eric Forbes - DejaVu, Dreamgirls
+* Winter Fink - DejaVu, Dreamgirls
 
 ### Mon 02/06 10:30 AM - Labor & Commerce (LC): SB 5614 Adult entertainment
 #### 12 👍 - Pro

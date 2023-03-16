@@ -17,7 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30981&aId=153146&caId=22176&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30981&aId=153146&caId=22176&tId=4)
 
-#### 30 👍 - Pro
+#### 59 👍 - Pro
+Testifying:
+* Carma Matti-Jackson - [Washington Health Care Association](/org/washington_health_care_association/)
+* 💵Madeleine Foutch - SEIU 775
+* Veronica Tausili
+* Lynn Kimball - Washington Association of Area Agencies on Aging
+* 💵John Ficker - [Adult Family Home Council](/org/adult_family_home_council/)
+* Cathy MacCaul - AARP Washington State
 
 #### 0 👎 - Con
 

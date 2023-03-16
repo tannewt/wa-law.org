@@ -1,6 +1,7 @@
 # American Wood Council
 
-## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials  👎1 
+## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials  👎3 
+* 👎 Rachael Jamison
 * 👎 Rachael Jamison
 
 ## [HB 1342](/bill/2023-24/hb/1342/) - Embodied carbon reductions 👍1  

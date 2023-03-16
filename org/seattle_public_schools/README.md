@@ -8,3 +8,5 @@
 * ❓ Marnie White
 
 ## [SB 5102](/bill/2023-24/sb/5102/) - School library info and tech 👍3  
+
+## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍1  

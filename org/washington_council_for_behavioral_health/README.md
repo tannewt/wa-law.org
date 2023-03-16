@@ -9,3 +9,6 @@
 * ❓ Julia O'Connor
 
 ## [SB 5228](/bill/2023-24/sb/5228/) - Behavioral health OT 👍1  
+
+## [SB 5555](/bill/2023-24/sb/5555/) - Certified peer specialists   ❓1
+* ❓ Julia O'Connor

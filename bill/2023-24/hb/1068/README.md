@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Tue 03/14 10:30 AM - Labor & Commerce (LC): SHB 1068 Injured worker medical exams
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30978&aId=153138&caId=22131&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30978&aId=153138&caId=22131&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30978&aId=153138&caId=22131&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30978&aId=153138&caId=22131&tId=4)
-
-#### 43 👍 - Pro
+#### 49 👍 - Pro
 Testifying:
 * Thomas Kelly
 * Jamison Smith
@@ -23,9 +17,11 @@ Testifying:
 * Robert Brown
 * Bill Hochberg - Washington State Association for Justice
 * Robert Canfield
+* 💵Brenda Wiest - Teamsters Local 117
 * Chris Carlisle - Carlisle + Byers
+* 💵John Traynor - Washington State Labor Council, AFL-CIO
 
-#### 60 👎 - Con
+#### 78 👎 - Con
 Testifying:
 * ROSE GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Carolyn Logue - [Washington Independent Medical Exam Coalition](/org/washington_independent_medical_exam_coalition/)
@@ -34,8 +30,12 @@ Testifying:
 * 💵Christine Brewer - MES Solutions
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Tammie Hetrick - Washington Food Industry Association
+* Eugene Toomey - 2760 76th ave SE
+* 💵Patrick Connor - NFIB
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Brenda Heilman - Labor & Industries
 
 ### Tue 01/10 10:30 AM - Labor & Workplace Standards (LAWS): HB 1068 Injured worker medical exams
 #### 0 👍 - Pro

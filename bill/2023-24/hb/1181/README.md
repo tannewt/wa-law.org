@@ -17,13 +17,7 @@
 
 ## Meetings
 ### Tue 03/14 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): E2SHB 1181 Climate change/planning
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153120&caId=22121&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153120&caId=22121&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153120&caId=22121&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153120&caId=22121&tId=4)
-
-#### 967 👍 - Pro
+#### 1043 👍 - Pro
 Testifying:
 * Joe Kunzler
 * Dave Andersen - Washington Department of Commerce
@@ -35,12 +29,18 @@ Testifying:
 * Jamie Stroble - [The Nature Conservancy](/org/the_nature_conservancy/)
 * Rachael Ludwick
 * David Baker - [City of Kenmore](/org/city_of_kenmore/)
+* Brian Baker
+* John Flanagan - Governor's Office
+* Craig Reynolds - King County Cities Climate Collaboration
 
-#### 68 👎 - Con
+#### 86 👎 - Con
 Testifying:
 * john Worthington
+* 💵Josie Cummings - BIAW
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Mon 02/06 04:00 PM - Appropriations (APP): SHB 1181 Climate change/planning
 #### 747 👍 - Pro

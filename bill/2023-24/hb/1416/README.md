@@ -18,9 +18,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31007&aId=153267&caId=22172&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31007&aId=153267&caId=22172&tId=4)
 
-#### 2 👍 - Pro
+#### 106 👍 - Pro
+Testifying:
+* 💵Logan Bahr - Tacoma Public Utilities/Tacoma Power
+* Ben Richards - Protect Pend Oreille
+* Glenn Blackmon - WA Dept of Commerce - State Energy Office
 
-#### 31 👎 - Con
+#### 147 👎 - Con
+Testifying:
+* Steve Chilson
 
 #### 0 ❓ - Other
 

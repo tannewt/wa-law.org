@@ -12,20 +12,18 @@
 
 ## Meetings
 ### Wed 03/15 08:00 AM - Civil Rights & Judiciary (CRJ): SSB 5087 Defects and omissions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30950&aId=153392&caId=21974&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30950&aId=153392&caId=21974&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30950&aId=153392&caId=21974&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30950&aId=153392&caId=21974&tId=4)
-
-#### 170 👍 - Pro
+#### 201 👍 - Pro
 Testifying:
 * Brittany Gregory - Board for Judicial Administration (BJA)
 * 💵Lara Zarowsky - [Washington Innocence Project](/org/washington_innocence_project/)
 * 💵Kristin Ang - Faith Action Network (FAN)
 * Jasmit Singh - Khalsa Gurmat Center
+* Chalia Stallings-Ala'ilima - WA State Attorney General's Office
+* Rob McKenna
 
-#### 0 👎 - Con
+#### 11 👎 - Con
+Testifying:
+* Eric pratt - I, America
 
 #### 1 ❓ - Other
 

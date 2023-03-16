@@ -16,9 +16,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153149&caId=22156&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153149&caId=22156&tId=4)
 
-#### 15 👍 - Pro
+#### 99 👍 - Pro
+Testifying:
+* Blake Williams
+* Chase Fick
+* David W Stroud
+* Sydney Sauters
+* Bill Sauters - AWPPW - Washington Area Representative
+* 💵Joshua Estes - Association of Western Pulp and Paper Workers Union (AWPPW)
+* Russ Ipock - AWPPW Washington Area Council - President
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

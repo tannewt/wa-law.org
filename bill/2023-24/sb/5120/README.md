@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Wed 03/15 01:30 PM - Health Care & Wellness (HCW): 2SSB 5120 Crisis relief centers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30991&aId=153197&caId=22015&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30991&aId=153197&caId=22015&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30991&aId=153197&caId=22015&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30991&aId=153197&caId=22015&tId=4)
-
-#### 58 👍 - Pro
+#### 99 👍 - Pro
 Testifying:
 * Sarah Perry - [King County](/org/king_county/)
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
@@ -30,8 +24,12 @@ Testifying:
 * Grace Ross - Capitol Classroom Lake Washington HIgh School
 * Nicole Haberl - Lake Washington HS - AP Government
 * 💵Brad Forbes - Alzheimer's Association
+* Katie Kolan - Washington State Hospital Association (WSHA)
+* 💵Todd Carlisle - [Disability Rights Washington](/org/disability_rights_washington/)
+* Laura Van Tosh - Retired
+* 💵Michael Transue - Connections Health Solutions
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

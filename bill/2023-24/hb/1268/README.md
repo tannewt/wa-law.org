@@ -13,6 +13,23 @@
 * [MyNorthwest](/org/mynorthwest/) - [Rantz: Democrat bill goes easy on school shooters, campus drug deals - MyNorthwest.com](https://mynorthwest.com/3854363/rantz-democrat-bill-easy-school-shooters-campus-drug-deals/#:~:text=HB 1268)
 
 ## Meetings
+### Thu 03/23 08:00 AM - Law & Justice (LAW): SHB 1268 Sentencing enhancements
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153554&caId=22284&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153554&caId=22284&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153554&caId=22284&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153554&caId=22284&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* eric pratt - America
+
+#### 2 👎 - Con
+Testifying:
+* Jeffrey Slotnick
+
+#### 0 ❓ - Other
+
 ### Mon 01/23 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1268 Sentencing enhancements
 #### 103 👍 - Pro
 Testifying:

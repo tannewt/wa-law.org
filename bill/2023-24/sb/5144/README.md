@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 03/14 04:00 PM - Environment & Energy (ENVI): E2SSB 5144 Batteries/environment
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30979&aId=153432&caId=22008&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30979&aId=153432&caId=22008&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30979&aId=153432&caId=22008&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30979&aId=153432&caId=22008&tId=4)
-
-#### 340 👍 - Pro
+#### 419 👍 - Pro
 Testifying:
 * Ann Murphy - League of Women Voters of Washington
 * 💵James King - [Independent Business Association](/org/independent_business_association/)
@@ -28,14 +22,20 @@ Testifying:
 * Suzanne Hildreth - Seattle Public Utilities
 * George Kerchner - PRBA - The Rechargeable Battery Assn
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Logan Harvey - Recology King County
 
-#### 2 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Don Tatro - Redwood Materials
 
-#### 3 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Megan Warfield - WA State Department of Ecology
+* 💵Brandon Houskeeper - Northwest Grocery Assoc.
+* Charlie Brown - Consumer Technology Association
 * Carin Stuart - call2recycle
+* Bobby Patrick - AdvaMed
 
 ### Sat 02/18 09:00 AM - Ways & Means (WM): SSB 5144 Batteries/environment
 #### 28 👍 - Pro

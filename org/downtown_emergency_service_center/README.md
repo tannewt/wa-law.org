@@ -4,7 +4,7 @@
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
 
-## [HB 1515](/bill/2023-24/hb/1515/) - Behavioral health contracts 👍2  
+## [HB 1515](/bill/2023-24/hb/1515/) - Behavioral health contracts 👍3  
 
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures 👍1  
 

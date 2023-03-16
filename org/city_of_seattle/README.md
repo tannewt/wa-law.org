@@ -4,6 +4,8 @@
 
 ## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 
+## [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims 👍1  
+
 ## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
@@ -18,7 +20,7 @@
 
 ## [HB 1144](/bill/2023-24/hb/1144/) - Firearms/purchase & transfer 👍1  
 
-## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
+## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍2  
 
 ## [HB 1156](/bill/2023-24/hb/1156/) - College grant eligibility 👍1  
 
@@ -36,13 +38,15 @@
 * 👍 Monisha Harrell
 * 👍 Monisha Harrell
 
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
+
 ## [HB 1195](/bill/2023-24/hb/1195/) - Weapons/parks & hospitals 👍1  
 
 ## [HB 1200](/bill/2023-24/hb/1200/) - Employee information/unions 👍1  
 
 ## [HB 1206](/bill/2023-24/hb/1206/) - Newspaper publishers/tax 👍1  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍2  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍3  
 
 ## [HB 1240](/bill/2023-24/hb/1240/) - Firearms/assault weapons 👍1  
 
@@ -78,7 +82,7 @@
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍2  
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍3  
 
@@ -104,7 +108,11 @@
 
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍1  
 
+## [SB 5006](/bill/2023-24/sb/5006/) - Waiver of firearm rights 👍1  
+
 ## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment 👍1  
+
+## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍1  
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
 
@@ -112,14 +120,18 @@
 
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial  👎1 
 
-## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍2  
+## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍3  
+
+## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍1  
 
 ## [SB 5109](/bill/2023-24/sb/5109/) - Wage replacement 👍1  
 * 👍 Hamdi Mohamed
 
-## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍1  
+## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍2  
 
 ## [SB 5122](/bill/2023-24/sb/5122/) - Ambulance transport fund 👍1  
+
+## [SB 5123](/bill/2023-24/sb/5123/) - Cannabis/employment 👍1  
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 
@@ -127,9 +139,9 @@
 
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures 👍1  
 
-## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I 👍1  
+## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I 👍2  
 
-## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍2  
+## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍3  
 
 ## [SB 5232](/bill/2023-24/sb/5232/) - Firearms/purchase & transfer 👍2  
 * 👍 Lisa Herbold
@@ -179,9 +191,11 @@
 
 ## [SB 5594](/bill/2023-24/sb/5594/) - Fully autonomous vehicles   ❓1
 
+## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍1  
+
 ## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍1  
 
-## [SB 5702](/bill/2023-24/sb/5702/) - Student homelessness pilot 👍2  
+## [SB 5702](/bill/2023-24/sb/5702/) - Student homelessness pilot 👍3  
 
 ## [SB 5730](/bill/2023-24/sb/5730/) - Vehicle residences/impound   ❓1
 

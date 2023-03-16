@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Tue 03/14 10:30 AM - Human Services (HS): ESHB 1394 Sexual offenses by youth
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30946&aId=153171&caId=22127&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30946&aId=153171&caId=22127&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30946&aId=153171&caId=22127&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30946&aId=153171&caId=22127&tId=4)
-
-#### 133 👍 - Pro
+#### 197 👍 - Pro
 Testifying:
 * Larry Jefferson - Washington State Office of Public Defense
 * Dr. Michael Caldwell - University of Wisconsin-Madison
@@ -34,11 +28,12 @@ Testifying:
 * Ben Santos - King County Prosecuting Attorney's Office
 * Jimmy Hung - King County Prosecuting Attorney's Office
 
-#### 186 👎 - Con
+#### 252 👎 - Con
 Testifying:
 * Lauri Walter
 * Diane Vevea
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Suzanne Wood
 
 #### 2 ❓ - Other
 Testifying:

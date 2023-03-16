@@ -16,9 +16,9 @@
 
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍2  
 
-## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
+## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍2  
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍3  
 
 ## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍1  
 
@@ -26,7 +26,8 @@
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍1  
 
-## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍2  
+## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍3  
+* 👍💵 Megan Veith
 * 👍💵 Megan Veith
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍3  

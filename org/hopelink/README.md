@@ -1,5 +1,7 @@
 # Hopelink
 
+## [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims 👍1  
+
 ## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
@@ -8,7 +10,7 @@
 
 ## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍2  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍2  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍3  
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍2  
 
@@ -49,9 +51,11 @@
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍2  
 
+## [SB 5028](/bill/2023-24/sb/5028/) - Name changes 👍1  
+
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍2  
 
-## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍1  
+## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍2  
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 
@@ -79,7 +83,7 @@
 
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍2  
 
-## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍2  
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
 
@@ -87,6 +91,8 @@
 
 ## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍1  
 
-## [SB 5702](/bill/2023-24/sb/5702/) - Student homelessness pilot 👍2  
+## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍1  
+
+## [SB 5702](/bill/2023-24/sb/5702/) - Student homelessness pilot 👍3  
 
 ## [SB 5710](/bill/2023-24/sb/5710/) - Behavioral health/youth 👍2  

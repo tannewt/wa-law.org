@@ -12,5 +12,7 @@
 * 👎 Charlie Klein
 * 👎💵 Kelly Olson
 
+## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍1  
+
 ## [SB 5474](/bill/2023-24/sb/5474/) - Juvenile justice 👍1  
 * 👍💵 Kelly Olson

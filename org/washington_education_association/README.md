@@ -112,9 +112,11 @@
 
 ## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍3  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍4  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍6  
 * 👍 Roni Cook
 * 👍💵 Nasue Nishida
+* 👍💵 Simone Boe
+* 👍 Juliana Morena
 * 👍💵 Simone Boe
 
 ## [HB 1239](/bill/2023-24/hb/1239/) - Educator ethics & complaints   ❓1
@@ -306,8 +308,9 @@
 
 ## [HB 1695](/bill/2023-24/hb/1695/) - Surplus property/housing 👍1  
 
-## [HB 1701](/bill/2023-24/hb/1701/) - Institutional ed. programs   ❓1
+## [HB 1701](/bill/2023-24/hb/1701/) - Institutional ed. programs 👍1  ❓1
 * ❓💵 Simone Boe
+* 👍💵 Simone Boe
 
 ## [HB 1711](/bill/2023-24/hb/1711/) - Internet projects/tribes 👍1  
 
@@ -459,7 +462,7 @@
 
 ## [SB 5296](/bill/2023-24/sb/5296/) - Military service credit 👍1  
 
-## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍2  
+## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍3  
 * 👍💵 Simone Boe
 * 👍💵 Julie Salvi
 

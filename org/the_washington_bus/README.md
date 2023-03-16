@@ -4,7 +4,8 @@
 
 ## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍2  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍3  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍4  
+* 👍 Sophia Hernandez
 
 ## [HB 1443](/bill/2023-24/hb/1443/) - Online voter registration 👍4  
 * 👍💵 Jazmine Smith

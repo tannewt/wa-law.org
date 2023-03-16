@@ -19,6 +19,8 @@
 
 ## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍1  
 
+## [HB 1346](/bill/2023-24/hb/1346/) - Purple star award 👍1  
+
 ## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits  👎2 
 * 👎💵 Aaron Czyzewski
 

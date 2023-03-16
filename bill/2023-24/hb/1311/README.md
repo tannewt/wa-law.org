@@ -16,7 +16,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30969&aId=153481&caId=22187&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30969&aId=153481&caId=22187&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* 💵Kelsi Hamilton - Washington Collectors Assoc.
+* Mindy Chumbley - Washington Collectors Assoc
+* Martin Lynch - Financial counseling Association of America
 
 #### 0 👎 - Con
 

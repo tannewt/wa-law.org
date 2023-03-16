@@ -61,7 +61,7 @@
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎2 
 
-## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍1  
+## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍2  
 * 👍 Keith Blocker Tacoma City Council
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
@@ -91,8 +91,9 @@
 
 ## [SB 5430](/bill/2023-24/sb/5430/) - Driver training/low-income 👍1  
 
-## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  ❓1
 * 👍 Deputy  Mayor, Kristina Walker
+* ❓ Sonja Hallum
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
 

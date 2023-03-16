@@ -16,7 +16,8 @@
 
 ## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget   ❓1
 
-## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍2  
+## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍3  
+* 👍 Eric ffitch
 * 👍 Eric ffitch
 
 ## [HB 1231](/bill/2023-24/hb/1231/) - Site readiness grants 👍1  
@@ -24,7 +25,7 @@
 ## [HB 1257](/bill/2023-24/hb/1257/) - Cargo and passenger ports 👍1  
 * 👍 Eric fftich
 
-## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍1  
+## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍2  
 
 ## [HB 1267](/bill/2023-24/hb/1267/) - Rural public facilities/tax 👍2  
 * 👍 Chris Herman
@@ -49,7 +50,7 @@
 ## [HB 1527](/bill/2023-24/hb/1527/) - Tax increment financing 👍1  
 * 👍 Chris Herman
 
-## [HB 1554](/bill/2023-24/hb/1554/) - Lead impacts  👎2 
+## [HB 1554](/bill/2023-24/hb/1554/) - Lead impacts  👎2 ❓1
 * 👎 Chris Herman
 * 👎 Chris Herman
 

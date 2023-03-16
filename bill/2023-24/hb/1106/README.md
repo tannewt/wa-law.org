@@ -16,16 +16,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153536&caId=22207&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153536&caId=22207&tId=4)
 
-#### 24 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * Anne Paxton - [Unemployment Law Project](/org/unemployment_law_project/)
 * 💵Sybill Hyppolite - Washington State Labor Council, AFL-CIO
+* 💵Maggie Humphreys - MomsRising
 
-#### 5 👎 - Con
+#### 323 👎 - Con
 Testifying:
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Bob Battles - Association of Washington Business (AWB)
+* 💵John Ficker - [Adult Family Home Council](/org/adult_family_home_council/)
 
-#### 0 ❓ - Other
+#### 11 ❓ - Other
 
 ### Tue 01/10 10:30 AM - Labor & Workplace Standards (LAWS): HB 1106 Unemployment/voluntary
 #### 0 👍 - Pro

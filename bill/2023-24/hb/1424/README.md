@@ -12,6 +12,19 @@
 * [The Seattle Times](/org/the_seattle_times/) - [New WA law would shut the door on puppy-mill suffering | The Seattle Times](https://www.seattletimes.com/opinion/editorials/new-wa-law-would-shut-the-door-on-puppy-mill-suffering/#:~:text=House Bill 1424)
 
 ## Meetings
+### Tue 03/21 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): ESHB 1424 Dogs and cats/consumers
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31087&aId=153768&caId=22248&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31087&aId=153768&caId=22248&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31087&aId=153768&caId=22248&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31087&aId=153768&caId=22248&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/27 08:00 AM - Consumer Protection & Business (CPB): HB 1424 Dogs and cats/consumers
 #### 740 👍 - Pro
 Testifying:

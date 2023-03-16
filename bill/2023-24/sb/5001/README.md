@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 03/14 10:30 AM - Local Government (LG): E2SSB 5001 Public facility districts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30962&aId=153083&caId=22054&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30962&aId=153083&caId=22054&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30962&aId=153083&caId=22054&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30962&aId=153083&caId=22054&tId=4)
-
-#### 26 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * Frank Kuntz - City of Wenatchee
 * 💵Blake Baldwin - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
@@ -29,6 +23,7 @@ Testifying:
 * Sasha Sleiman - Board of Chelan County Commissioners
 * Richard DeRock - Link Transit (Chelan Douglas Public Transit Benfit Area)
 * Paul Simmons - City of Olympia, Washington Recreation and Parks Association
+* Sam Hunt - Senator
 
 #### 0 👎 - Con
 

@@ -1,5 +1,10 @@
 # City of Spokane
 
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍1  
+
+## [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims 👍1  
+* 👍💵 Nick Federici
+
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 * 👍 Zack Zappone
 
@@ -19,7 +24,7 @@
 
 ## [HB 1575](/bill/2023-24/hb/1575/) - Cultural access programs/tax 👍1  
 
-## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1  
+## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍3  
 * 👍 Chris Averyt
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management 👍1  
@@ -31,3 +36,5 @@
 
 ## [SB 5369](/bill/2023-24/sb/5369/) - Polychlorinated biphenyls 👍1  
 * 👍 Council President Breean Beggs
+
+## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍1  

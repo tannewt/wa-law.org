@@ -8,16 +8,11 @@
 
 ## Meetings
 ### Tue 03/14 04:00 PM - Environment & Energy (ENVI): SB 5287 Wind turbine blade recycling
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30979&aId=153144&caId=22007&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30979&aId=153144&caId=22007&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30979&aId=153144&caId=22007&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30979&aId=153144&caId=22007&tId=4)
-
-#### 30 👍 - Pro
+#### 35 👍 - Pro
 Testifying:
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* 💵Kate Brouns - [Renewable Northwest](/org/renewable_northwest/)
 
 #### 0 👎 - Con
 

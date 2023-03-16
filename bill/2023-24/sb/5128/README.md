@@ -13,22 +13,20 @@
 
 ## Meetings
 ### Wed 03/15 08:00 AM - Civil Rights & Judiciary (CRJ): 2SSB 5128 Jury diversity
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30950&aId=153393&caId=21975&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30950&aId=153393&caId=21975&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30950&aId=153393&caId=21975&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30950&aId=153393&caId=21975&tId=4)
-
-#### 9 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * 💵Larry Shannon - Washington State Association for Justice
+* Dana Raigrodski - Supreme Court of Washington Gender and Justice Commission
 
-#### 2 👎 - Con
+#### 16 👎 - Con
 Testifying:
 * Eric Pratt - I, America
+* Eric pratt - Dungeon and Dragons anonymous
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
 ### Tue 01/31 04:00 PM - Ways & Means (WM): SSB 5128 Jury diversity
 #### 95 👍 - Pro

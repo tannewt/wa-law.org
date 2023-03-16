@@ -10,26 +10,29 @@
 
 ## Meetings
 ### Wed 03/15 08:00 AM - Agriculture and Natural Resources (AGNR): ESSB 5150 Beef commission
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30958&aId=153298&caId=21967&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30958&aId=153298&caId=21967&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30958&aId=153298&caId=21967&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30958&aId=153298&caId=21967&tId=4)
-
-#### 69 👍 - Pro
+#### 151 👍 - Pro
 Testifying:
 * Jay Theiler - Washington Beef
 * Bill Sieverkropp - Grant County Cattlemen
 * Jeff Keane - President, Washington Cattlemen's Association
 * 💵Mark Streuli - [Washington Cattlemen's Association](/org/washington_cattlemen's_association/)
+* 💵Jack Field
+* 💵Dan Wood - WA State Dairy Federation
+* Austin Allred
+* Michael Charlton - Charlton Farms - Washington Farm Bureau Member
+* Liz Para
+* Michael Para
 
-#### 40 👎 - Con
+#### 79 👎 - Con
 Testifying:
 * Tanna Skidmore
 * Aislinn Bloss - Rancher
 * Julie Dashiell
 * Nancy McRae
 * Todd Vejraska
+* Josslinn Schoesler - Cattle Producer’s of Washington
+* George Wishon
+* L.D. Green - Green Ranch Inc.
 
 #### 0 ❓ - Other
 

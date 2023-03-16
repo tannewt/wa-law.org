@@ -13,6 +13,22 @@
 * [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=HB 1541)
 
 ## Meetings
+### Tue 03/21 01:30 PM - State Government & Elections (SGE): E2SHB 1541 Lived experience
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31116&aId=153911&caId=22270&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31116&aId=153911&caId=22270&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31116&aId=153911&caId=22270&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31116&aId=153911&caId=22270&tId=4)
+
+#### 5 👍 - Pro
+Testifying:
+* Ivanova Smith - Self Advocate
+* Shawn Latham - Allies in Advocacy
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1541 Lived experience
 #### 253 👍 - Pro
 Testifying:

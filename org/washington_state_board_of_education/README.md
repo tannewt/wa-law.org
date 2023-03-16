@@ -7,7 +7,7 @@
 
 ## [HB 1015](/bill/2023-24/hb/1015/) - Paraeducator requirements 👍2  
 
-## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍1  
+## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍2  
 
 ## [HB 1146](/bill/2023-24/hb/1146/) - Dual credit program notice 👍1  
 
@@ -17,7 +17,7 @@
 
 ## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍1  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍2  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍3  
 * 👍 Randy Spaulding
 
 ## [HB 1273](/bill/2023-24/hb/1273/) - High school and beyond plans 👍1  
@@ -28,10 +28,11 @@
 
 ## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍2  
 
-## [HB 1332](/bill/2023-24/hb/1332/) - Tribes/K-12 instruction 👍2  
+## [HB 1332](/bill/2023-24/hb/1332/) - Tribes/K-12 instruction 👍3  
+* 👍 Bill Kallappa
 * 👍 Bill Kallappa
 
-## [HB 1346](/bill/2023-24/hb/1346/) - Purple star award 👍1  
+## [HB 1346](/bill/2023-24/hb/1346/) - Purple star award 👍2  
 
 ## [HB 1374](/bill/2023-24/hb/1374/) - Office of career connect WA 👍1  
 
@@ -49,7 +50,7 @@
 
 ## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍2  
 
-## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍1  
+## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍2  
 
 ## [HB 1658](/bill/2023-24/hb/1658/) - Work experience/H.S. credit   ❓1
 * ❓ Alissa Muller
@@ -61,12 +62,16 @@
 
 ## [HB 1821](/bill/2023-24/hb/1821/) - Postsecondary credentials   ❓1
 
+## [SB 5054](/bill/2023-24/sb/5054/) - Prof. learning communities   ❓1
+* ❓ J. Lee Schultz
+
 ## [SB 5072](/bill/2023-24/sb/5072/) - Highly capable students 👍2  
 * 👍 Randy Spaulding
 
 ## [SB 5237](/bill/2023-24/sb/5237/) - Education law noncompliance 👍1  
 
-## [SB 5243](/bill/2023-24/sb/5243/) - High school and beyond plans 👍1  
+## [SB 5243](/bill/2023-24/sb/5243/) - High school and beyond plans 👍2  
+* 👍 J. Lee Schultz
 * 👍 J. Lee Schultz
 
 ## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍2  

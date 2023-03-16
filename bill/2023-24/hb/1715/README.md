@@ -21,15 +21,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30943&aId=153422&caId=22161&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30943&aId=153422&caId=22161&tId=4)
 
-#### 4 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
+* David Martin - KCPAO
+* Diane Rosenfeld - Harvard Law School, Gender Violence Program
+* Annie Murphey - Executive Director-Spokane Regional Domestic Violence Coalition
+* Annalise Martucci - Office of Civil Legal Aid
+* Kelly Dunne - Geiger Institute
+* Jazmin Peerson
+* Monica Alexander - Washington State Criminal Justice Training Commission
+* Juliana Repp - [Unemployment Law Project](/org/unemployment_law_project/)
+* Sandra Rodarte - Latino Civic Alliance
 
-#### 15 👎 - Con
+#### 17 👎 - Con
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Rick Torrance - Department of Commerce
+* Ramona Brandes - WACDL and WDA
+* Evangeline Stratton - Family Violence Appellate Project
 
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1715 Domestic violence
 #### 15 👍 - Pro

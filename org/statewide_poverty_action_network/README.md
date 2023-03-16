@@ -107,6 +107,8 @@
 
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍2  
 
+## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1  
+
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍4  
 * 👍💵 Shaun Scott
 

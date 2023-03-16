@@ -16,9 +16,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30996&aId=153272&caId=22169&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30996&aId=153272&caId=22169&tId=4)
 
-#### 22 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * Mark Wagoner - Gardena Farms Irrigation District
+* Dave Christensen - Washington Department of Ecology
+* Megan Kernan - WDFW
+* Chairwoman Kat Brigham - [Confederated Tribes of the Umatilla Indian Reservation](/org/confederated_tribes_of_the_umatilla_indian_reservation/)
+* Chris Kowitz - Oregon Water Resources Department
 
 #### 0 👎 - Con
 

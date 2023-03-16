@@ -16,11 +16,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30981&aId=153531&caId=22212&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30981&aId=153531&caId=22212&tId=4)
 
-#### 6 👍 - Pro
+#### 10 👍 - Pro
 
 #### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Amber Zawislak - NCQAC
 
 ### Tue 01/31 01:30 PM - Health Care & Wellness (HCW): HB 1547 Out-of-state health prov.
 #### 5 👍 - Pro

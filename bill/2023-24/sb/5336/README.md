@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 03/15 08:00 AM - Local Government (LG): ESB 5336 Main street trust fund
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30963&aId=153087&caId=22058&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30963&aId=153087&caId=22058&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30963&aId=153087&caId=22058&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30963&aId=153087&caId=22058&tId=4)
-
-#### 6 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Michael Walker - Vancouver Downtown Association
 * 💵Brian Enslow - [City of Vancouver](/org/city_of_vancouver/)

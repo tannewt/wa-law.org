@@ -2,7 +2,9 @@
 
 ## [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎2 
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍4  
+## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍1  
+
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍5  
 
 ## [HB 1248](/bill/2023-24/hb/1248/) - Pupil transportation 👍1  
 
@@ -14,6 +16,8 @@
 
 ## [HB 1432](/bill/2023-24/hb/1432/) - Juvenile justice 👍1  
 
+## [HB 1436](/bill/2023-24/hb/1436/) - Special education funding 👍1  
+
 ## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍1  
 
 ## [HB 1511](/bill/2023-24/hb/1511/) - Income/child care programs 👍1  
@@ -24,6 +28,8 @@
 * 👍💵 Terique Scott
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍2  
+
+## [HB 1701](/bill/2023-24/hb/1701/) - Institutional ed. programs   ❓1
 
 ## [SB 5019](/bill/2023-24/sb/5019/) - School safety staff 👍2  
 * 👍💵 Terique Scott
@@ -43,7 +49,7 @@
 
 ## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍1  
 
-## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍1  
+## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍1  ❓1
 
 ## [SB 5316](/bill/2023-24/sb/5316/) - DCYF background check fees 👍1  
 

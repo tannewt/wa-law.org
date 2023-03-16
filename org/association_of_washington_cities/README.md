@@ -27,7 +27,8 @@
 ## [HB 1099](/bill/2023-24/hb/1099/) - Public works wages   ❓1
 * ❓ Brandy DeLange
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓2
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓3
+* ❓💵 Carl Schroeder
 * ❓💵 Carl Schroeder
 * ❓💵 Carl Schroeder
 
@@ -83,7 +84,8 @@
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat   ❓1
 * ❓ Brandy DeLange
 
-## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units  👎1 
+## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units  👎2 
+* 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 
 ## [HB 1350](/bill/2023-24/hb/1350/) - Expanding the multifamily tax exemption program to include converting existing multifamily units. 👍1  
@@ -118,7 +120,8 @@
 
 ## [HB 1468](/bill/2023-24/hb/1468/) - Impact fee deferrals 👍1  
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
+* 👍💵 Carl Schroeder
 * 👍💵 Carl Schroeder
 
 ## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief  👎2 
@@ -178,6 +181,8 @@
 
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍2  
 
+## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍1  
+
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 * ❓💵 Candice Bock
 
@@ -192,7 +197,9 @@
 
 ## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
 
-## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍1  
+## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍2  
+
+## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1  
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management 👍1  
 * 👍💵 Carl Schroeder
@@ -279,7 +286,8 @@
 ## [SB 5457](/bill/2023-24/sb/5457/) - Small cities/GMA 👍1  
 * 👍💵 Carl Schroeder
 
-## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development   ❓2
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development   ❓3
+* ❓💵 Carl Schroeder
 * ❓💵 Carl Schroeder
 * ❓💵 Carl Schroeder
 

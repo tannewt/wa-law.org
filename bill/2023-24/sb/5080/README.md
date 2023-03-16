@@ -14,26 +14,26 @@
 
 ## Meetings
 ### Tue 03/14 04:00 PM - Regulated Substances & Gaming (RSG): E2SSB 5080 Cannabis social equity
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30994&aId=153211&caId=22064&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30994&aId=153211&caId=22064&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30994&aId=153211&caId=22064&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30994&aId=153211&caId=22064&tId=4)
-
-#### 41 👍 - Pro
+#### 114 👍 - Pro
 Testifying:
 * 💵Paula Sardinas - WA Build Back Black
 * Mike Asai - Black Excellence In Cannabis
 * Peter Manning - Black Excellence In Cannabis
 * Ollie Garrett - Washington State Liquor and Cannabis Board
 * Burl Bryson - The Cannabis Alliance
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Arthue West
 
-#### 41 👎 - Con
+#### 72 👎 - Con
+Testifying:
+* john Worthington - AAMC
 
-#### 3 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Adán Espino Jr - [Craft Cannabis Coalition](/org/craft_cannabis_coalition/)
 * 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Marc Webster - [Liquor and Cannabis Board](/org/liquor_and_cannabis_board/)
+* Justin Nordhorn - Policy Director, Liquor and Cannabis Board
 
 ### Mon 02/13 04:00 PM - Ways & Means (WM): SSB 5080 Cannabis social equity
 #### 96 👍 - Pro

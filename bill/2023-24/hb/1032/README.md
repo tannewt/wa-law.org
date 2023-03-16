@@ -10,19 +10,14 @@
 
 ## Meetings
 ### Tue 03/14 01:30 PM - Environment, Energy & Technology (ENET): 2SHB 1032 Wildfires/electric utilities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31005&aId=153253&caId=22140&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31005&aId=153253&caId=22140&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31005&aId=153253&caId=22140&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31005&aId=153253&caId=22140&tId=4)
-
-#### 162 👍 - Pro
+#### 179 👍 - Pro
 Testifying:
 * 💵Paul Griffin - Washington Rural Electric Cooperative Association
 * 💵John Rothlin - Avista
 * 💵Dave Warren - Klickitat PUD and Okanogan PUD
 * Jasmine Vasavada - Dept of Commerce
 * Jason Lewis - Utilities and Transportation Commission
+* 💵Nicolas Garcia - WPUDA
 
 #### 0 👎 - Con
 

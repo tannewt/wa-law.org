@@ -23,9 +23,9 @@
 
 ## [HB 1332](/bill/2023-24/hb/1332/) - Tribes/K-12 instruction 👍1  
 
-## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  
+## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍2  
 
-## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍1  
+## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍2  
 
 ## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍3  
 
@@ -39,7 +39,7 @@
 
 ## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍1  
 
-## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍1  
+## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍2  
 
 ## [HB 1679](/bill/2023-24/hb/1679/) - Student homelessness group 👍1  
 * 👍💵 Juliet Schindler
@@ -49,9 +49,9 @@
 ## [SB 5072](/bill/2023-24/sb/5072/) - Highly capable students 👍1  
 * 👍💵 Juliet Schindler
 
-## [SB 5124](/bill/2023-24/sb/5124/) - Nonrelative kin placement 👍1  
+## [SB 5124](/bill/2023-24/sb/5124/) - Nonrelative kin placement 👍2  
 
-## [SB 5174](/bill/2023-24/sb/5174/) - Student transportation 👍1  
+## [SB 5174](/bill/2023-24/sb/5174/) - Student transportation 👍2  
 
 ## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍1  
 
@@ -62,7 +62,7 @@
 
 ## [SB 5248](/bill/2023-24/sb/5248/) - Tutoring & extended learning 👍1  
 
-## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍1  
+## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍2  
 
 ## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍2  
 
@@ -76,7 +76,7 @@
 
 ## [SB 5438](/bill/2023-24/sb/5438/) - Supportive relationships 👍1  
 
-## [SB 5515](/bill/2023-24/sb/5515/) - Child abuse and neglect 👍2  
+## [SB 5515](/bill/2023-24/sb/5515/) - Child abuse and neglect 👍3  
 
 ## [SB 5522](/bill/2023-24/sb/5522/) - College grant prg. stipend 👍1  
 
@@ -93,6 +93,8 @@
 ## [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth 👍1  
 
 ## [SB 5666](/bill/2023-24/sb/5666/) - CTC student housing pilot 👍1  
+
+## [SB 5702](/bill/2023-24/sb/5702/) - Student homelessness pilot 👍1  
 
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍2  
 

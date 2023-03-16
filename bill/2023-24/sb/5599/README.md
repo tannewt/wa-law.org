@@ -12,6 +12,21 @@
 * [The Seattle Times](/org/the_seattle_times/) - [What the right has wrong about caring for trans youth  | The Seattle Times](https://www.seattletimes.com/opinion/what-the-right-has-wrong-about-caring-for-trans-youth/#:~:text=Senate Bill 5599)
 
 ## Meetings
+### Wed 03/22 01:30 PM - Human Services, Youth, & Early Learning (HSEL): ESSB 5599 Protected health care/youth
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31093&aId=153778&caId=22364&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31093&aId=153778&caId=22364&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31093&aId=153778&caId=22364&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31093&aId=153778&caId=22364&tId=4)
+
+#### 0 👍 - Pro
+
+#### 3 👎 - Con
+Testifying:
+* Julie Barrett - Conservative Ladies of Washington
+
+#### 0 ❓ - Other
+
 ### Mon 02/06 10:30 AM - Human Services (HS): SB 5599 Protected health care/youth
 #### 60 👍 - Pro
 Testifying:

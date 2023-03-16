@@ -9,16 +9,11 @@
 
 ## Meetings
 ### Tue 03/14 01:30 PM - Consumer Protection & Business (CPB): SSB 5191 Real estate agency
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31016&aId=153303&caId=21987&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31016&aId=153303&caId=21987&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31016&aId=153303&caId=21987&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31016&aId=153303&caId=21987&tId=4)
-
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * 💵Bill Clarke - [WA Realtors](/org/washington_association_of_realtors/)
 * Justin Haag - NW Multiple Listing Service
+* Chris Osborn - Stoel Rives Law Firm LLP
 
 #### 1 👎 - Con
 Testifying:

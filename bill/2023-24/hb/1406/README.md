@@ -9,15 +9,12 @@
 
 ## Meetings
 ### Tue 03/14 10:30 AM - Human Services (HS): SHB 1406 Youth seeking housing assist
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30946&aId=153173&caId=22129&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30946&aId=153173&caId=22129&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30946&aId=153173&caId=22129&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30946&aId=153173&caId=22129&tId=4)
-
-#### 36 👍 - Pro
+#### 48 👍 - Pro
 Testifying:
 * Lelach Rave - Washington Chapter of the American Academy of Pediatrics
+* Erin Shea McCann - LCYC
+* 💵Karen Pillar - Team Child
+* Julie Patino - A Way Home Washington
 
 #### 0 👎 - Con
 

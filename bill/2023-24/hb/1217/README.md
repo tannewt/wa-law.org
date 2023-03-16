@@ -15,12 +15,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153152&caId=22159&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153152&caId=22159&tId=4)
 
-#### 7 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * David Fernandez Antelo
 * James Stafford
+* 💵Cory Elliott - Political Director, NW Carpenters Union
+* BEAU HAYNES - Washington Wage Claim Project
 
-#### 25 👎 - Con
+#### 36 👎 - Con
+Testifying:
+* Bob Battles - Association of Washington Business (AWB)
 
 #### 0 ❓ - Other
 

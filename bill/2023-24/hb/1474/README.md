@@ -22,7 +22,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30985&aId=153168&caId=22178&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30985&aId=153168&caId=22178&tId=4)
 
-#### 316 👍 - Pro
+#### 568 👍 - Pro
 Testifying:
 * Darryl Smith - HomeSight
 * Corinna Obar - Washington State Housing Finance Commiss
@@ -31,10 +31,12 @@ Testifying:
 * 💵Clifford Cawthon - Habitat for Humanity Seattle-King County
 * Corinna Obar - Washington State Housing Finance Commiss
 * Councilmember Kiara Daniels - [City of Tacoma](/org/city_of_tacoma/)
+* Michael Dotson - Banner Bank
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1474 Covenant homeownership prg.
 #### 513 👍 - Pro

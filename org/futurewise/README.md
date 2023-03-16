@@ -1,6 +1,7 @@
 # Futurewise
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍7  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍8  
+* 👍💵 Bryce Yadon
 
 ## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍1  
 
@@ -8,6 +9,10 @@
 * 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
+
+## [HB 1189](/bill/2023-24/hb/1189/) - Total confinement release 👍1  
+
+## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units 👍1  
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍2  
 
@@ -39,7 +44,8 @@
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍1  
 * 👍💵 Bryce Yadon
 
-## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍5  
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍6  
+* 👍💵 Bryce Yadon
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
 

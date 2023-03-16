@@ -9,6 +9,21 @@
 * [Second Substitute](S2/)
 
 ## Meetings
+### Wed 03/22 01:30 PM - Health Care & Wellness (HCW): 2SSB 5438 Supportive relationships
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31059&aId=153654&caId=22352&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31059&aId=153654&caId=22352&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31059&aId=153654&caId=22352&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31059&aId=153654&caId=22352&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* Julie Barrett - Conservative Ladies of Washington
+
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SSB 5438 Supportive relationships
 #### 8 👍 - Pro
 Testifying:

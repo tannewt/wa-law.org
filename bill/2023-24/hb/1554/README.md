@@ -10,20 +10,27 @@
 
 ## Meetings
 ### Wed 03/15 08:00 AM - Environment, Energy & Technology (ENET): ESHB 1554 Lead impacts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153434&caId=22150&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153434&caId=22150&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153434&caId=22150&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153434&caId=22150&tId=4)
+#### 197 👍 - Pro
+Testifying:
+* Ashley Bullock - Public Health - Seattle & King County
+* Eric Gonzalez Alfaro - [Earthjustice](/org/earthjustice/)
+* Velma Veloria - King County International Airport Community Coalition
+* Tiffany Sevilla
+* Ali Lee
+* Maria Batayola - Beacon Hill Council
 
-#### 118 👍 - Pro
-
-#### 1047 👎 - Con
+#### 1136 👎 - Con
 Testifying:
 * steve cagley
 * Elizabeth Loveness
+* John Dobson - WA State Aviation Alliance
 
-#### 1 ❓ - Other
+#### 7 ❓ - Other
+Testifying:
+* Brandon Rakes - The Washington Airport Management Association
+* Erich Ebel - Spokane International Airport & Felts Field
+* 💵Warren Hendrickson - Washington State Aviation Alliance
+* Holly Davies - Washington State Department of Health
 
 ### Mon 02/20 01:30 PM - Transportation (TR): SHB 1554 Lead impacts
 #### 53 👍 - Pro

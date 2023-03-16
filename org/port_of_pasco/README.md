@@ -1,5 +1,7 @@
 # Port of Pasco
 
+## [HB 1173](/bill/2023-24/hb/1173/) - Light pollution 👍1  
+
 ## [HB 1231](/bill/2023-24/hb/1231/) - Site readiness grants 👍2  
 * 👍 Randy Hayden
 

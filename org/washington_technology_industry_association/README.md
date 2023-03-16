@@ -11,6 +11,8 @@
 
 ## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍2  
 
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
+
 ## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍3  
 
 ## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍3  

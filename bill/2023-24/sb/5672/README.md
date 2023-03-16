@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [MyNorthwest](/org/mynorthwest/) - [Auto Theft Prevention has funds siphoned while car thefts reach all-time high - MyNorthwest.com](https://mynorthwest.com/3857603/auto-theft-prevention-authority-losing-funds-car-thefts-all-time-high/#:~:text=Senate Bill 5672)
+
 ## Meetings
 ### Thu 03/16 04:00 PM - Appropriations (APP): SSB 5672 Auto theft authority account
 Sign up to testify:
@@ -15,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30955&aId=153641&caId=22218&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30955&aId=153641&caId=22218&tId=4)
 
-#### 9 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 

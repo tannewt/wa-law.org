@@ -21,25 +21,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31007&aId=153577&caId=22214&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31007&aId=153577&caId=22214&tId=4)
 
-#### 9 👍 - Pro
+#### 57 👍 - Pro
 
-#### 158 👎 - Con
+#### 253 👎 - Con
 Testifying:
 * 💵Ryan Kenny - [Clean Energy](/org/clean_energy/)
 * Oliver Bangera - Bangera Restaurant Group
 * Ryo Izawa - Samurai Noodle Inc
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Jeff Pack - Me
+* Larry Andrews
+* Larry Andrews
+* Tim Eyman - Concerned citizen
+* 💵Carolyn Logue - NW Hearth, Patio & Barbecue Assn and WA Air Conditioning Contractors
+* 💵Greg Hanon - NAIOP
+* Edwin Andrews
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Wed 03/15 08:00 AM - Environment, Energy & Technology (ENET): ESHB 1589 Clean energy
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153290&caId=22149&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153290&caId=22149&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153290&caId=22149&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31006&aId=153290&caId=22149&tId=4)
-
 #### 11 👍 - Pro
 
 #### 0 👎 - Con

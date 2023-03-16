@@ -25,7 +25,8 @@
 ## [HB 1192](/bill/2023-24/hb/1192/) - Electric transm. planning 👍1  
 * 👍💵 Justin Allegro
 
-## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍2  
+## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍3  
+* 👍💵 Justin Allegro
 * 👍💵 Justin Allegro
 
 ## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍2  
@@ -73,6 +74,8 @@
 * 👍 Jamie Stroble
 
 ## [SB 5247](/bill/2023-24/sb/5247/) - Climate-ready communities 👍1  
+
+## [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍1  
 
 ## [SB 5322](/bill/2023-24/sb/5322/) - Public building materials 👍1  
 

@@ -2,11 +2,11 @@
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍9  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍10  
 
 ## [HB 1278](/bill/2023-24/hb/1278/) - Nonrelative kin placement 👍1  
 
-## [HB 1394](/bill/2023-24/hb/1394/) - Sexual offenses by youth 👍1  
+## [HB 1394](/bill/2023-24/hb/1394/) - Sexual offenses by youth 👍2  
 
 ## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍14  
 * 👍💵 Samuel Martin
@@ -20,6 +20,9 @@
 ## [HB 1679](/bill/2023-24/hb/1679/) - Student homelessness group 👍1  
 
 ## [SB 5124](/bill/2023-24/sb/5124/) - Nonrelative kin placement 👍1  
+
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
+* 👍 Jo Bechtold
 
 ## [SB 5230](/bill/2023-24/sb/5230/) - Extended foster care 👍3  
 * 👍 Sean Gardner

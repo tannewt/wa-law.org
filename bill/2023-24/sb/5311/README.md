@@ -23,23 +23,18 @@
 
 ## Meetings
 ### Tue 03/14 04:00 PM - Education (ED): E2SSB 5311 Special education funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31031&aId=153369&caId=22000&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31031&aId=153369&caId=22000&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31031&aId=153369&caId=22000&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31031&aId=153369&caId=22000&tId=4)
-
-#### 280 👍 - Pro
+#### 369 👍 - Pro
 Testifying:
 * Devony Audet - Parent of a student in special education
 * Jeremiah Audet - Student in special education
 * Julie Barrett - Conservative Ladies of Washington
 * Leslie Hamada - KSD Legislative Representative for 2023 and former President of the Board 2020 & 2022
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* Leslie Hamada - Kent School District
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 
-#### 23 ❓ - Other
+#### 32 ❓ - Other
 Testifying:
 * Samantha Fogg - Seattle Council PTSA
 * Tanya Aggar - WA PTA
@@ -60,6 +55,8 @@ Testifying:
 * Jana Parker
 * Melissa Spiker
 * Michelle Whitehead
+* Jim Kowalkowski - Rural Education Center
+* 💵Diana Stadden - The Arc of WA State
 
 ### Thu 02/09 04:00 PM - Ways & Means (WM): SSB 5311 Special education funding
 #### 84 👍 - Pro

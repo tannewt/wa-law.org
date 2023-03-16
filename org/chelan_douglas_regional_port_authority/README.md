@@ -15,7 +15,7 @@
 
 ## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍2  
 
-## [SB 5001](/bill/2023-24/sb/5001/) - Public facility districts 👍5  
+## [SB 5001](/bill/2023-24/sb/5001/) - Public facility districts 👍6  
 * 👍 JC Baldwin
 * 👍 Jim Kuntz
 * 👍💵 Blake Baldwin

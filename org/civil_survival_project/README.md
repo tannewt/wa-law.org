@@ -21,7 +21,8 @@
 
 ## [HB 1640](/bill/2023-24/hb/1640/) - Pardons and commutations 👍2  
 
-## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍1  
+## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍2  
+* 👍 Charlie Klein
 
 ## [SB 5101](/bill/2023-24/sb/5101/) - DOC medical placements 👍1  
 

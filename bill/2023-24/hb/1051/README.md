@@ -19,13 +19,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30969&aId=153484&caId=22189&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30969&aId=153484&caId=22189&tId=4)
 
-#### 8 👍 - Pro
+#### 230 👍 - Pro
 Testifying:
 * Steve Baus
+* Ben Carr - WA State Attorney General's Office
+* Mindy Chumbley - Washington Collectors Assoc
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/10 01:30 PM - Consumer Protection & Business (CPB): HB 1051 Robocalls & telephone scams
 #### 0 👍 - Pro

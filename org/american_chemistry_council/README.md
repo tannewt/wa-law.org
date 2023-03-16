@@ -1,6 +1,7 @@
 # American Chemistry Council
 
-## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals  👎1 
+## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals  👎2 
+* 👎💵 Grant Nelson
 
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management  👎2 
 * 👎 Tim Shestek

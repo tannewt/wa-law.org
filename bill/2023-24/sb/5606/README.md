@@ -7,6 +7,22 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 03/21 10:30 AM - Civil Rights & Judiciary (CRJ): SB 5606 Illegal racing
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31052&aId=153975&caId=22323&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31052&aId=153975&caId=22323&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31052&aId=153975&caId=22323&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31052&aId=153975&caId=22323&tId=4)
+
+#### 0 👍 - Pro
+
+#### 2 👎 - Con
+Testifying:
+* Annette Bryan
+* Annette Bryan
+
+#### 0 ❓ - Other
+
 ### Tue 02/14 10:30 AM - Law & Justice (LAW): SB 5606 Illegal racing
 #### 22 👍 - Pro
 Testifying:

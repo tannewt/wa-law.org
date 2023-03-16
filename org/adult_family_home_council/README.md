@@ -1,12 +1,16 @@
 # Adult Family Home Council
 
+## [HB 1106](/bill/2023-24/hb/1106/) - Unemployment/voluntary  👎1 
+* 👎💵 John Ficker
+
 ## [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍1  
 * 👍💵 John Ficker
 
 ## [HB 1568](/bill/2023-24/hb/1568/) - Long-term care professionals 👍2  
 * 👍💵 John Ficker
 
-## [HB 1694](/bill/2023-24/hb/1694/) - Home care workforce shortage 👍3  
+## [HB 1694](/bill/2023-24/hb/1694/) - Home care workforce shortage 👍4  
+* 👍💵 John Ficker
 * 👍💵 John Ficker
 
 ## [SB 5147](/bill/2023-24/sb/5147/) - A/C in adult family homes 👍1  

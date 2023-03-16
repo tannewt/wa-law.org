@@ -22,6 +22,26 @@
 * [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SHB 1240)
 
 ## Meetings
+### Thu 03/23 08:00 AM - Law & Justice (LAW): SHB 1240 Firearms/assault weapons
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153556&caId=22286&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153556&caId=22286&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153556&caId=22286&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153556&caId=22286&tId=4)
+
+#### 4 👍 - Pro
+
+#### 596 👎 - Con
+Testifying:
+* Jeffrey Slotnick - Setracon Inc.
+* Eric pratt - I, America
+* C Davis - Washingtonians to Recall Inslee
+* Laurie Layne
+* Julie Barrett - Conservative Ladies of Washington
+* Matt Page
+
+#### 0 ❓ - Other
+
 ### Tue 01/17 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1240 Firearms/assault weapons
 #### 1035 👍 - Pro
 Testifying:

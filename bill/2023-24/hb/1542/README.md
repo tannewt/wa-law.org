@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 03/14 10:30 AM - Labor & Commerce (LC): HB 1542 AEDs/high voltage work
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30978&aId=153142&caId=22134&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30978&aId=153142&caId=22134&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30978&aId=153142&caId=22134&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30978&aId=153142&caId=22134&tId=4)
-
-#### 35 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * Will Power - IBEW LU 77
 * 💵Christine Reid - IBEW LU 77

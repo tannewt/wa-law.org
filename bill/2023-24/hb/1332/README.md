@@ -19,7 +19,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31001&aId=153571&caId=22204&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31001&aId=153571&caId=22204&tId=4)
 
-#### 4 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* Bill Kallappa - [Washington State Board of Education](/org/washington_state_board_of_education/)
 
 #### 0 👎 - Con
 

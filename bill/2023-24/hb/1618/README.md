@@ -9,6 +9,21 @@
 * [Second Substitute](S2/)
 
 ## Meetings
+### Tue 03/21 10:30 AM - Law & Justice (LAW): 2SHB 1618 Childhood sexual abuse/SOL
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31040&aId=153547&caId=22260&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31040&aId=153547&caId=22260&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31040&aId=153547&caId=22260&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31040&aId=153547&caId=22260&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* Tyna Ek - [Washington Schools Risk Management Pool](/org/washington_schools_risk_management_pool/)
+
 ### Thu 02/16 04:00 PM - Appropriations (APP): SHB 1618 Childhood sexual abuse/SOL
 #### 85 👍 - Pro
 Testifying:

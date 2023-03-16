@@ -18,13 +18,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31032&aId=153372&caId=22003&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31032&aId=153372&caId=22003&tId=4)
 
-#### 10 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* Ria Bahadur - None, Author of ESB 5355
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Mary Long - Conservative Ladies of Washington
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 01/26 01:30 PM - Early Learning & K-12 Education (EDU): SB 5355 Sex trafficking prev. ed.
 #### 11 👍 - Pro

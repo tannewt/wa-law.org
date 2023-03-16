@@ -17,10 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30976&aId=153201&caId=22167&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30976&aId=153201&caId=22167&tId=4)
 
-#### 28 👍 - Pro
+#### 49 👍 - Pro
 Testifying:
 * Nancy Belcher - [King County Medical Society](/org/king_county_medical_society/)
 * Dr. Teresa Girolami
+* DO, Garrett Jeffery
+* Robin Sparks - [American Cancer Society Cancer Action Network](/org/american_cancer_society_cancer_action_network/)
+* Matt Helder - [American Cancer Society Cancer Action Network](/org/american_cancer_society_cancer_action_network/)
+* 💵Sean Graham - Washington State Medical Association
 
 #### 0 👎 - Con
 

@@ -9,17 +9,17 @@
 
 ## Meetings
 ### Wed 03/15 01:30 PM - Consumer Protection & Business (CPB): SSB 5399 Future listing contracts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31017&aId=153308&caId=21992&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31017&aId=153308&caId=21992&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31017&aId=153308&caId=21992&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31017&aId=153308&caId=21992&tId=4)
-
-#### 3 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Sean Holland - [Washington Land Title Association](/org/washington_land_title_association/)
+* Allan McPherson
+* 💵Nathan Gorton - Washington realtors
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Denise Swanson - MV Realty
+* Glenn Roland - MV Realty
+* amit mital
 
 #### 0 ❓ - Other
 

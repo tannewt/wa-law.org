@@ -8,13 +8,9 @@
 
 ## Meetings
 ### Wed 03/15 01:30 PM - Health Care & Wellness (HCW): SB 5700 Health care authority
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30991&aId=153326&caId=22017&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30991&aId=153326&caId=22017&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30991&aId=153326&caId=22017&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30991&aId=153326&caId=22017&tId=4)
-
-#### 1 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Shawn O'Neill - Washington State Health Care Authority
 
 #### 0 👎 - Con
 

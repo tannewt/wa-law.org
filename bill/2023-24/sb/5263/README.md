@@ -12,6 +12,19 @@
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Bill creating magic mushrooms regulation task forces passes the state Senate | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/09/bill-creating-magic-mushrooms-regulation-task-forc/#:~:text=Senate Bill 5263)
 
 ## Meetings
+### Fri 03/24 08:00 AM - Health Care & Wellness (HCW): 2SSB 5263 Psilocybin
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31060&aId=153661&caId=22353&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31060&aId=153661&caId=22353&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31060&aId=153661&caId=22353&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31060&aId=153661&caId=22353&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SSB 5263 Psilocybin
 #### 35 👍 - Pro
 Testifying:

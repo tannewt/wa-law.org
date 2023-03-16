@@ -14,17 +14,12 @@
 
 ## Meetings
 ### Tue 03/14 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): E2SHB 1167 Residential housing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153119&caId=22120&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153119&caId=22120&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153119&caId=22120&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153119&caId=22120&tId=4)
-
-#### 49 👍 - Pro
+#### 58 👍 - Pro
 Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * 💵Jason Gauthier - South Sound Housing Affordability Partners
 * Lacey Jane Wolfe - [City of Bellevue](/org/city_of_bellevue/)
+* Todd Beyreuther - Mercer Mass Timber
 
 #### 0 👎 - Con
 

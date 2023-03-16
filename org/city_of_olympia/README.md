@@ -4,7 +4,7 @@
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
 * 👍 Darian Lightfoot
 
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍1  
@@ -25,7 +25,7 @@
 
 ## [HB 1326](/bill/2023-24/hb/1326/) - Utility connection charges 👍1  
 
-## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units 👍1  
+## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units 👍2  
 
 ## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍1  
 
@@ -49,6 +49,9 @@
 
 ## [HB 1556](/bill/2023-24/hb/1556/) - Property tax rebates 👍1  
 
+## [HB 1575](/bill/2023-24/hb/1575/) - Cultural access programs/tax 👍1  
+* 👍 Cheryl Selby
+
 ## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy 👍2  
 
 ## [HB 1670](/bill/2023-24/hb/1670/) - Property tax limit factor 👍1  
@@ -63,6 +66,8 @@
 
 ## [SB 5039](/bill/2023-24/sb/5039/) - Wildfires/electric utilities 👍1  
 
+## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍1  
+
 ## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍2  
 
 ## [SB 5093](/bill/2023-24/sb/5093/) - Climate response strategy 👍2  
@@ -76,6 +81,8 @@
 ## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍1  
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
+
+## [SB 5197](/bill/2023-24/sb/5197/) - Eviction processes 👍1  
 
 ## [SB 5198](/bill/2023-24/sb/5198/) - Mobile home community sales 👍1  
 

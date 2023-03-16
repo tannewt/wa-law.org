@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30976&aId=153527&caId=22208&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30976&aId=153527&caId=22208&tId=4)
 
-#### 15 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Charlie Brown - [Washington State Athletic Trainers Association](/org/washington_state_athletic_trainers_association/)
 * Ciara Ashworth - Washington State Athletic Trainers' Association

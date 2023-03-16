@@ -11,24 +11,19 @@
 
 ## Meetings
 ### Tue 03/14 10:30 AM - Civil Rights & Judiciary (CRJ): E2SSB 5440 Competency evaluations
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30949&aId=153388&caId=21970&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30949&aId=153388&caId=21970&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30949&aId=153388&caId=21970&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30949&aId=153388&caId=21970&tId=4)
-
-#### 8 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Johanna Bender
 * Amber Leaders - Office of the Governor
 * Kevin Bovenkamp - Behavioral Health Administration, DSHS
 * 💵Michael White - [King County](/org/king_county/)
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * 💵Kimberly Mosolf - [Disability Rights Washington](/org/disability_rights_washington/)
+* Nathan Bays - King County DPD
 
-#### 10 ❓ - Other
+#### 12 ❓ - Other
 Testifying:
 * Michael Finkle - District and Municipal Court Judges Association
 * James McMahan - WA Assoc Sheriffs & Police Chiefs

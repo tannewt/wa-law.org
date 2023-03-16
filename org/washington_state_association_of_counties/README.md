@@ -18,11 +18,12 @@
 ## [HB 1133](/bill/2023-24/hb/1133/) - Detached ADUs 👍1  
 * 👍💵 Paul Jewell
 
-## [HB 1138](/bill/2023-24/hb/1138/) - Drought preparedness 👍1  
+## [HB 1138](/bill/2023-24/hb/1138/) - Drought preparedness 👍2  
 
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
 
-## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning   ❓1
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning   ❓2
+* ❓💵 Paul Jewell
 * ❓💵 Paul Jewell
 
 ## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍1  
@@ -35,7 +36,8 @@
 
 ## [HB 1205](/bill/2023-24/hb/1205/) - Service by pub./dependency 👍1  
 
-## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting   ❓1
+## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting   ❓2
+* ❓💵 Paul Jewell
 * ❓💵 Paul Jewell
 
 ## [HB 1231](/bill/2023-24/hb/1231/) - Site readiness grants 👍1  
@@ -157,8 +159,9 @@
 * 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 
-## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity   ❓1
+## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍1  ❓1
 * ❓💵 Paul Jewell
+* 👍💵 Paul Jewell
 
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍1  
 
@@ -202,7 +205,7 @@
 
 ## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍1  
 
-## [SB 5353](/bill/2023-24/sb/5353/) - Voluntary stewardship prog. 👍2  
+## [SB 5353](/bill/2023-24/sb/5353/) - Voluntary stewardship prog. 👍3  
 * 👍💵 Paul Jewell
 
 ## [SB 5357](/bill/2023-24/sb/5357/) - Detached ADUs 👍1  

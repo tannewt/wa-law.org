@@ -15,11 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31010&aId=153575&caId=22198&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31010&aId=153575&caId=22198&tId=4)
 
-#### 1 👍 - Pro
+#### 43 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 02/22 01:30 PM - Ways & Means (WM): SSB 5600 Universal communications prg
 #### 35 👍 - Pro

@@ -9,25 +9,22 @@
 
 ## Meetings
 ### Tue 03/14 10:30 AM - Labor & Commerce (LC): SHB 1521 Industrial insurance/duties
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30978&aId=153139&caId=22132&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30978&aId=153139&caId=22132&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30978&aId=153139&caId=22132&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30978&aId=153139&caId=22132&tId=4)
-
-#### 35 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * Jamison Smith
 * Eric Becker
 * Doug Palmer - Washington State Association for Justice
+* 💵Teresa Taylor - (WACOPS) Washington Council of Police & Sheriffs
+* 💵Samantha Grad - Teamsters 117
 
-#### 33 👎 - Con
+#### 45 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Andy Cherullo - [City of Tacoma](/org/city_of_tacoma/)
 * 💵Christine Brewer - Washington Self-Insurers Association
 * Chris Hills - City of Kent, Risk Manager
 * Bob Battles - Association of Washington Business (AWB)
+* Lacey Jane Wolfe - [City of Bellevue](/org/city_of_bellevue/)
 
 #### 0 ❓ - Other
 

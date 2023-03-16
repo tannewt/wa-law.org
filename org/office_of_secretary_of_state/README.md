@@ -30,6 +30,9 @@
 ## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍1  
 * 👍 Steve Hobbs
 
+## [SB 5128](/bill/2023-24/sb/5128/) - Jury diversity   ❓1
+* ❓ Brian Hatfield
+
 ## [SB 5151](/bill/2023-24/sb/5151/) - Secretary of state exec team 👍2  
 * 👍 Brian Hatfield
 * 👍 Steve Hobbs

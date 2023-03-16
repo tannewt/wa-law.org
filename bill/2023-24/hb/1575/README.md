@@ -13,18 +13,15 @@
 
 ## Meetings
 ### Tue 03/14 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): HB 1575 Cultural access programs/tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153123&caId=22124&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153123&caId=22124&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153123&caId=22124&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153123&caId=22124&tId=4)
-
-#### 176 👍 - Pro
+#### 180 👍 - Pro
 Testifying:
 * Matthew Melendez - Great Bend Center for Music
 * Manuel R. Cawaling - Inspire Washington
+* Kate Becker - [King County](/org/king_county/)
+* Naho Shioya - Arts Corps
+* Cheryl Selby - [City of Olympia](/org/city_of_olympia/)
 
-#### 45 👎 - Con
+#### 65 👎 - Con
 
 #### 0 ❓ - Other
 

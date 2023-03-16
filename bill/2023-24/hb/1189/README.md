@@ -10,6 +10,30 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Meetings
+### Thu 03/16 08:00 AM - Human Services (HS): E2SHB 1189 Total confinement release
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30952&aId=153995&caId=22222&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30952&aId=153995&caId=22222&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30952&aId=153995&caId=22222&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30952&aId=153995&caId=22222&tId=4)
+
+#### 227 👍 - Pro
+Testifying:
+* Gerald Hankerson - NAACP State Area Conference
+* Waldo Waldron-Ramsey - [Washington Community Action Network](/org/washington_community_action_network/)
+* Toni Kelly-King - Impacted Family Member
+* Ginny Parham - Impacted Family Member
+* Virginia Parham - Impacted family member
+
+#### 8 👎 - Con
+Testifying:
+* Tom Sahlberg
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Laurie Layne
+* Jon Tunheim - Thurston County Prosecutor/Washington Association of Prosecuting Attorneys
+
+#### 1 ❓ - Other
+
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1189 Total confinement release
 #### 187 👍 - Pro
 Testifying:

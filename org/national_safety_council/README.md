@@ -10,8 +10,10 @@
 * 👍 Jane Terry
 * 👍 Michelle Gajda
 
+## [SB 5272](/bill/2023-24/sb/5272/) - Speed safety cameras 👍1  
+
 ## [SB 5560](/bill/2023-24/sb/5560/) - Older driver safety 👍1  
 
-## [SB 5583](/bill/2023-24/sb/5583/) - Young driver safety 👍1  
+## [SB 5583](/bill/2023-24/sb/5583/) - Young driver safety 👍2  
 
 ## [SB 5592](/bill/2023-24/sb/5592/) - Defibrillators/fitness 👍1  

@@ -24,13 +24,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30943&aId=152932&caId=22160&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30943&aId=152932&caId=22160&tId=4)
 
-#### 358 👍 - Pro
+#### 806 👍 - Pro
 Testifying:
 * 💵Kristin Ang - Faith Action Network (FAN)
 * 💵Kristin Ang - Kristin Ang
 * 💵Kristin Ang - Faith Action Network (FAN)
+* Claudia Vizena
+* DO, Katina Rue - WA State Medical Association (WSMA)
+* Rebekah Gardea - QLaw Foundation
+* Cara Winter
+* Dr. Crystal Beal - QueerDoc
+* Dr. Annie Iriye - American College of Obstetricians and Gynecologists
+* Danni Askini - Gender Justice League
 
-#### 533 👎 - Con
+#### 1111 👎 - Con
 Testifying:
 * Beth Daranciang
 * Oli London
@@ -38,8 +45,30 @@ Testifying:
 * Debra Parnham
 * Julie Barrett - Conservative Ladies of Washington
 * Alex Chrostowski - Gays Against Groomers
+* Dawn Land
+* Theresa Schrempp
+* Jon Anderson
+* jon anderson
+* Kelly Lester - And Then There Were None
+* Sarah Lachaussee
+* Sarah Lachaussee
+* Susan Prosser
+* Alexandra Pinget
+* Erin Brewer
+* Janine Burkhardt
+* Peter Holton
+* Steve Chilson
+* Lois Wenzek
+* Lois Wenzek
+* Jennifer Heine-Withee - Family Policy Institute of Washington
+* Sarah Davenport-Smith - Human Life of WA
+* Johanna Stroud
+* Susan Willis - 3012 W. LACROSSE AVE
+* Nikki Burnett
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Gabriel Jacobs
 
 ### Tue 01/24 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1469 Health care services/access
 #### 359 👍 - Pro

@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Tue 03/14 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SHB 1717 Associate development orgs.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30968&aId=153475&caId=22184&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30968&aId=153475&caId=22184&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30968&aId=153475&caId=22184&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30968&aId=153475&caId=22184&tId=4)
-
-#### 55 👍 - Pro
+#### 65 👍 - Pro
 Testifying:
 * 💵Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
 * Scott Zylka - Thurston County Center for Business & Industry

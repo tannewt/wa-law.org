@@ -9,23 +9,19 @@
 * [Engrossed Substitute](S.E/)
 
 ## Articles
+* [The Urbanist](/org/the_urbanist/) - [Legislature Abandons Rent Stabilization Push | The Urbanist](https://www.theurbanist.org/2023/03/14/legislature-abandons-rent-stabilization-push/#:~:text=House Bill 5197)
 * [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=SB 5197)
 
 ## Meetings
 ### Tue 03/14 04:00 PM - Housing (HOUS): ESSB 5197 Eviction processes
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31020&aId=153316&caId=22025&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31020&aId=153316&caId=22025&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31020&aId=153316&caId=22025&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31020&aId=153316&caId=22025&tId=4)
-
-#### 130 👍 - Pro
+#### 206 👍 - Pro
 Testifying:
 * 💵Edmund Witter - [King County Bar Association](/org/king_county_bar_association/)
+* Adam Paczkowski - Northwest Justice Project
 
-#### 3 👎 - Con
+#### 9 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Fri 01/20 10:30 AM - Housing (HSG): SB 5197 Eviction processes
 #### 33 👍 - Pro

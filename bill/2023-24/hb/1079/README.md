@@ -15,7 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30976&aId=153134&caId=22165&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30976&aId=153134&caId=22165&tId=4)
 
-#### 3 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* Carolina Sommer - Born a Hero, Research Foundation and NW Rare Disease Coalition
+* Lindsey Topping-Schuetz - NW Rare Disease Coalition
+* Sarah Tompkins - NW Rare Disease Coalition
+* Jessie Conta
 
 #### 1 👎 - Con
 

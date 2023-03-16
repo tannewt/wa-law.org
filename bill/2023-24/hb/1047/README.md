@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Tue 03/14 01:30 PM - Environment, Energy & Technology (ENET): SHB 1047 Cosmetic product chemicals
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31005&aId=153254&caId=22141&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31005&aId=153254&caId=22141&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31005&aId=153254&caId=22141&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31005&aId=153254&caId=22141&tId=4)
-
-#### 198 👍 - Pro
+#### 222 👍 - Pro
 Testifying:
 * Brandi Hyatt
 * Megan Liu - Toxic-Free Future
@@ -26,15 +20,22 @@ Testifying:
 * Ami Zota
 * Merideth Pedack
 * Jen Lee - Beautycounter
+* Ashley Evans - Hazardous Waste Management Program in King County
+* Marissa Doherty
 
-#### 5 👎 - Con
+#### 11 👎 - Con
 Testifying:
 * Kelsey Johnson - [Personal Care Products Council](/org/personal_care_products_council/)
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Grant Nelson - [American Chemistry Council](/org/american_chemistry_council/)
+* Anthony Stockman - Stockman
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * D'Arcy Harrison - COSMETOLOGISTS OF WASHINGTON UNITED
+* Holly Davies - Washington State Department of Health
+* Marissa Smith - Washington State Department of Ecology
+* Sheela Sathyanarayana - University of Washington/Seattle Children's Research Institute
 
 ### Mon 02/06 04:00 PM - Appropriations (APP): SHB 1047 Cosmetic product chemicals
 #### 110 👍 - Pro

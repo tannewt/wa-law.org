@@ -7,6 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 03/21 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SB 5316 DCYF background check fees
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31092&aId=153773&caId=22359&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31092&aId=153773&caId=22359&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31092&aId=153773&caId=22359&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31092&aId=153773&caId=22359&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/09 04:00 PM - Ways & Means (WM): SB 5316 DCYF background check fees
 #### 51 👍 - Pro
 Testifying:

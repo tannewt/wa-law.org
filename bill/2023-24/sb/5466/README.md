@@ -30,7 +30,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31021&aId=153318&caId=22027&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31021&aId=153318&caId=22027&tId=4)
 
-#### 539 👍 - Pro
+#### 788 👍 - Pro
 Testifying:
 * Joe Kunzler - None
 * Cynthia Stewart - League of Women Voters of WA
@@ -39,14 +39,37 @@ Testifying:
 * Michael Leach - Move Redmond
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 * Angela Rozmyn - Natural and Built Environments
+* Brian Lagerberg - Washington State Department of Transportation
+* Dave Andersen - Washington Department of Commerce
+* Noha Mahgoub - Office of Governor Jay Inslee
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* Jesse Simpson - Housing Development Consortium
+* Michael Seiwerath - SEED Seattle
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
+* Karen Taylor - Transit Riders Union
+* 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
+* 💵Bill Clarke - Amazon + WA REALTORS
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* 💵Greg Hanon - NAIOP
+* Lars Erickson - Seattle Metropolitan Chamber of Commerce
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 12 👎 - Con
+#### 16 👎 - Con
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Steven Miller - Cowan Miller & Lederman
+* Steven Miller - Beaux Arts Planning Commission
 
-#### 2 ❓ - Other
+#### 12 ❓ - Other
 Testifying:
 * Bill Helbig - Community & Public Works Director, City of Spokane Valley
+* Salim Nice - [City of Mercer Island](/org/city_of_mercer_island/)
+* Sonja Hallum - [City of Tacoma](/org/city_of_tacoma/)
+* 💵Shelly Helder - Cities of Lakewood, Issaquah, Mountlake Terrace and Lake Forest Park
+* Kristen Holdsworth
+* Emil King - [City of Bellevue](/org/city_of_bellevue/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Michele Thomas - Washington Low Income Housing Alliance
 
 ### Mon 02/13 04:00 PM - Transportation (TRAN): SB 5466 Transit-oriented development
 #### 569 👍 - Pro

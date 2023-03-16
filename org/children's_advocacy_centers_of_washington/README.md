@@ -13,7 +13,7 @@
 
 ## [HB 1455](/bill/2023-24/hb/1455/) - Child marriage 👍1  
 
-## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍1  
+## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍2  
 
 ## [HB 1618](/bill/2023-24/hb/1618/) - Childhood sexual abuse/SOL 👍1  
 

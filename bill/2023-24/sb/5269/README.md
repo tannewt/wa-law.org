@@ -16,7 +16,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31010&aId=153574&caId=22197&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31010&aId=153574&caId=22197&tId=4)
 
-#### 4 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* 💵Jessica Koski - BlueGreen Alliance
+* Robin Everett - [Sierra Club](/org/sierra_club/)
+* Todd Mitchell - Heat and Frost Insulators and Allied Workers Local 7
 
 #### 0 👎 - Con
 

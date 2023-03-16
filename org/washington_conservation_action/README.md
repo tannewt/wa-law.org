@@ -18,13 +18,14 @@
 ## [HB 1215](/bill/2023-24/hb/1215/) - Riparian areas 👍1  
 * 👍💵 Darcy Nonemacher
 
-## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍2  
+## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍3  
 * 👍💵 Clifford Traisman
 
 ## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍2  
 
-## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍1  
+## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍2  
 * 👍💵 Darcy Nonemacher
+* 👍 Rachel Baker
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
 

@@ -23,6 +23,8 @@
 
 ## [HB 1578](/bill/2023-24/hb/1578/) - Wildland fire safety 👍2  
 
+## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  
+
 ## [SB 5091](/bill/2023-24/sb/5091/) - Hydrogen fuel products 👍2  
 
 ## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍1  

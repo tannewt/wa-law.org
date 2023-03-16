@@ -18,21 +18,19 @@
 
 ## Meetings
 ### Wed 03/15 01:30 PM - Early Learning & K-12 Education (EDU): SHB 1109 Special education funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31000&aId=153563&caId=22200&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31000&aId=153563&caId=22200&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31000&aId=153563&caId=22200&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31000&aId=153563&caId=22200&tId=4)
-
-#### 31 👍 - Pro
+#### 62 👍 - Pro
 Testifying:
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Tania May - Office of Superintendent of Public Instruction
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Jeff Snell - Vancouver School Districts
+* Shannon Hitch - Lake Washington School District
+* 💵Lacey Stanage - [School Alliance](/org/school_alliance/)
 
 ### Thu 02/09 04:00 PM - Appropriations (APP): HB 1109 Special education funding
 #### 87 👍 - Pro

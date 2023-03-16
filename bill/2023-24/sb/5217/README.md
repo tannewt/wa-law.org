@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Tue 03/14 10:30 AM - Labor & Workplace Standards (LAWS): ESSB 5217 Musculoskeletal injuries/L&I
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31022&aId=153324&caId=22041&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31022&aId=153324&caId=22041&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31022&aId=153324&caId=22041&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31022&aId=153324&caId=22041&tId=4)
-
-#### 504 👍 - Pro
+#### 608 👍 - Pro
 Testifying:
 * Debby Chandler - [Washington Education Association](/org/washington_education_association/)
 * Debby Chandler - WEA
@@ -25,16 +19,17 @@ Testifying:
 * Andrew Vander Stoep - IBEW 191
 * Christina Bayaniyan
 
-#### 245 👎 - Con
+#### 268 👎 - Con
 Testifying:
 * 💵Bruce Beckett - [Washington Retail Association](/org/washington_retail_association/)
 * Dominique Damian - WA Farm Bureau
 * Bob Battles - Association of Washington Business (AWB)
+* Jerry VanderWood - Washington Construction Industry Council and AGC
 * Tom Kwieciak - Building Industry Association of WA
 * 💵Amber Carter - Identity Clark County
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 
-#### 21 ❓ - Other
+#### 24 ❓ - Other
 
 ### Tue 01/24 10:30 AM - Labor & Commerce (LC): SB 5217 Musculoskeletal injuries/L&I
 #### 335 👍 - Pro

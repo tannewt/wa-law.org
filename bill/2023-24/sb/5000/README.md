@@ -10,6 +10,21 @@
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Bill to honor 'Americans of Chinese Descent' in January passes through Washington Senate | The Spokesman-Review](https://www.spokesman.com/stories/2023/feb/01/bill-to-honor-americans-of-chinese-descent-in-janu/#:~:text=Senate Bill 5000)
 
 ## Meetings
+### Tue 03/21 01:30 PM - State Government & Tribal Relations (SGOV): SB 5000 Americans of Chinese descent
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31108&aId=153856&caId=22394&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31108&aId=153856&caId=22394&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31108&aId=153856&caId=22394&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31108&aId=153856&caId=22394&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* Vivian Dong
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/10 01:30 PM - State Government & Elections (SGE): SB 5000 Americans of Chinese descent
 #### 0 👍 - Pro
 

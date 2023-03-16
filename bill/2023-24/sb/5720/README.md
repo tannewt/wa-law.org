@@ -9,15 +9,10 @@
 
 ## Meetings
 ### Tue 03/14 01:30 PM - Consumer Protection & Business (CPB): SSB 5720 Risk mitigation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31016&aId=153306&caId=21990&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31016&aId=153306&caId=21990&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31016&aId=153306&caId=21990&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31016&aId=153306&caId=21990&tId=4)
-
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * David Forte - Office of the Insurance Commissioner
+* Kris Tefft - [American Property Casualty Insurance Association](/org/american_property_casualty_insurance_association/)
 
 #### 0 👎 - Con
 

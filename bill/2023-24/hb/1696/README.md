@@ -11,19 +11,14 @@
 
 ## Meetings
 ### Tue 03/14 10:30 AM - Law & Justice (LAW): HB 1696 Stalking-related offenses
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30942&aId=152912&caId=22137&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30942&aId=152912&caId=22137&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30942&aId=152912&caId=22137&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30942&aId=152912&caId=22137&tId=4)
-
-#### 7 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Taffy Hunter - Spokane Regional Domestic Violence Cneter
 * Coreen Schnepf - Pierce County Prosecutor's Office
 * Darrell Lowe - Redmond Police Department
+* 💵Carey Morris - [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -8,17 +8,11 @@
 
 ## Meetings
 ### Wed 03/15 01:30 PM - State Government & Tribal Relations (SGOV): SB 5421 Benefit enrollment info.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31028&aId=153350&caId=22072&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31028&aId=153350&caId=22072&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31028&aId=153350&caId=22072&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31028&aId=153350&caId=22072&tId=4)
-
-#### 3 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * David Iseminger - WA State Health Care Authority
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

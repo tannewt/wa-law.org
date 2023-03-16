@@ -16,21 +16,30 @@
 
 ## Meetings
 ### Wed 03/15 01:30 PM - Health Care & Wellness (HCW): 2SSB 5555 Certified peer specialists
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30991&aId=153533&caId=22196&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30991&aId=153533&caId=22196&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30991&aId=153533&caId=22196&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30991&aId=153533&caId=22196&tId=4)
+#### 7 👍 - Pro
+Testifying:
+* Nancy Dow - None
+* Josh Wallace - Peer WA
+* Nancy Dow
+* Topher Jerome - UW Behavioral Health Institute
 
-#### 1 👍 - Pro
-
-#### 10 👎 - Con
+#### 52 👎 - Con
 Testifying:
 * Billie Tyler - WA Association for Marriage and Family Therapy
 * Brad Berry - CVAB
 * Lorrin Gehring - The Rainbow Makers
+* Beverly Miller - Miller Consultation and Training
+* Beverly Miller - Miller Consultation and Training
+* Carolyn Cox - SPARK PEER LEARNING CENTER
+* Gabriel Hamilton - Spark peer learning center
+* Lisa Striedinger-Hubbard - Friends without homes
+* Anthony Pennant - WA Assoc for Marriage and Family Therapy
+* Rochelle Pope - WA Associaiton for Marriage and Family Therapy
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Julia O'Connor - [Washington Council for Behavioral Health](/org/washington_council_for_behavioral_health/)
+* 💵Sara Stewart - Washington Mental Health Counselors Assocation
 
 ### Fri 03/10 08:00 AM - Health Care & Wellness (HCW): 2SSB 5555 Certified peer specialists
 #### 0 👍 - Pro

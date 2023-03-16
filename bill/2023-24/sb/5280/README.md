@@ -14,6 +14,19 @@
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Catholic officials oppose Washington bill requiring clergy to report child abuse if it doesn't exempt confessions | The Spokesman-Review](https://www.spokesman.com/stories/2023/feb/13/catholic-officials-oppose-washington-bill-requirin/#:~:text=Senate Bill 5280)
 
 ## Meetings
+### Tue 03/21 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SB 5280 Clergy/child abuse reporting
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31092&aId=153772&caId=22358&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31092&aId=153772&caId=22358&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31092&aId=153772&caId=22358&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31092&aId=153772&caId=22358&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/24 10:30 AM - Human Services (HS): SB 5280 Clergy/child abuse reporting
 #### 14 👍 - Pro
 Testifying:

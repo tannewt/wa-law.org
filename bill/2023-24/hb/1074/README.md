@@ -12,26 +12,33 @@
 
 ## Meetings
 ### Wed 03/15 01:30 PM - Housing (HSG): SHB 1074 Landlord damage claims
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30984&aId=153167&caId=22152&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30984&aId=153167&caId=22152&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30984&aId=153167&caId=22152&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30984&aId=153167&caId=22152&tId=4)
-
-#### 527 👍 - Pro
+#### 825 👍 - Pro
 Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
 * Kasey Burton - Tenant Law Center
 * Talauna Reed - Tenants Union
+* Scott Crain - NW Justice Project
+* Dominique Horn
+* Keri Stanberry - Southwest Washington complaint line
+* Terri Anderson - Tenants Union of Washington State- Spokane
+* Hunter Herrera-McFarland
+* 💵Nick Federici - [City of Spokane](/org/city_of_spokane/)
 
-#### 264 👎 - Con
+#### 743 👎 - Con
 Testifying:
 * Ryan Makinster - Washington Multi-Family Housing Association
 * GORDON HAGGERTY - 2310 Yale Apts., LLC
 * Bruce Becker - Bruce Becker
+* Lawrence Crites - Small housing provider
+* Kory Slaatthaug
+* Duke Jackson - Jackson Homes Inc
+* Gage Shepard
+* Linda Dukelow
+* Deborah Bermudez
+* Kent Hendricks - Select...
 
-#### 4 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Cory Brewer
 

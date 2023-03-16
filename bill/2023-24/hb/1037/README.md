@@ -10,20 +10,15 @@
 
 ## Meetings
 ### Tue 03/14 10:30 AM - Law & Justice (LAW): ESHB 1037 Family burial grounds
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30942&aId=152914&caId=22138&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30942&aId=152914&caId=22138&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30942&aId=152914&caId=22138&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30942&aId=152914&caId=22138&tId=4)
-
 #### 3 👍 - Pro
 Testifying:
 * Sylvia Miller - Vice Chair, Puyallup Tribe of Indians
 * Bonnie Bizzell - People's Memorial Association
 
-#### 4 👎 - Con
+#### 14 👎 - Con
 Testifying:
 * Julie Seitz
+* Allyson Brooks - Dept of Archaelogy and Historic Preservation
 
 #### 0 ❓ - Other
 

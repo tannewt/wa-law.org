@@ -26,7 +26,8 @@
 ## [HB 1276](/bill/2023-24/hb/1276/) - Accessory dwelling units   ❓1
 * ❓💵 Dan Bertolet
 
-## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units 👍1  
+## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units 👍2  
+* 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 
 ## [HB 1350](/bill/2023-24/hb/1350/) - Expanding the multifamily tax exemption program to include converting existing multifamily units. 👍1  
@@ -74,7 +75,8 @@
 ## [SB 5456](/bill/2023-24/sb/5456/) - Minimum parking requirements 👍1  
 * 👍 Catie Gould
 
-## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍2  
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍3  
+* 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 

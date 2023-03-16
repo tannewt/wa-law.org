@@ -19,11 +19,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30981&aId=153530&caId=22211&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30981&aId=153530&caId=22211&tId=4)
 
-#### 23 👍 - Pro
+#### 101 👍 - Pro
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Melissa Johnson - APTA Washington
+* Mich'l Needham - Health Care Authority (HCA), Chief Policy Officer
 
 ### Thu 02/23 09:00 AM - Appropriations (APP): HB 1508 Health care cost board
 #### 152 👍 - Pro

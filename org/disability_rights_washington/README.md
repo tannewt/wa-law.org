@@ -43,6 +43,9 @@
 * 👍💵 Rachael Seevers
 * 👍💵 Rachael Seevers
 
+## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍1  
+* 👍💵 Todd Carlisle
+
 ## [SB 5130](/bill/2023-24/sb/5130/) - Assisted outpatient treat.  👎2 
 * 👎💵 Kimberly Mosolf
 * 👎💵 Kimberly Mosolf
@@ -54,7 +57,8 @@
 
 ## [SB 5315](/bill/2023-24/sb/5315/) - Special education/nonpublic 👍2  
 
-## [SB 5415](/bill/2023-24/sb/5415/) - Public defense/insanity 👍2  
+## [SB 5415](/bill/2023-24/sb/5415/) - Public defense/insanity 👍3  
+* 👍💵 Chloe Merino
 * 👍💵 Chloe Merino
 * 👍💵 Chloe Merino
 

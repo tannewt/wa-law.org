@@ -21,21 +21,33 @@
 
 ## Meetings
 ### Wed 03/15 01:30 PM - Early Learning & K-12 Education (EDU): ESHB 1436 Special education funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31000&aId=153564&caId=22201&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31000&aId=153564&caId=22201&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31000&aId=153564&caId=22201&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31000&aId=153564&caId=22201&tId=4)
+#### 51 👍 - Pro
+Testifying:
+* Deiman Abdi - Washington multicultural services link
+* Amy Miller
 
-#### 24 👍 - Pro
+#### 16 👎 - Con
+Testifying:
+* 💵Clifford Traisman - Seattle, Bellevue, Highline Public School Districts
+* Superintendent, Patrick Murphy - [Olympia School District](/org/olympia_school_district/)
+* Dan Steele - WA Assn of School Admin & WA Assn of School Business Officials
+* Tania May - Office of Superintendent of Public Instruction
+* Jen Chong Jewell - Special Education Advisory Council for OSPI
 
-#### 1 👎 - Con
-
-#### 4 ❓ - Other
+#### 18 ❓ - Other
 Testifying:
 * Jeff Snell - Vancouver School Districts
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* 💵Mitch Denning - WA Assn of Maintenance & Operation Administrators
+* Samantha Fogg - Seattle Council PTSA
+* Tori Emerson - Washington State PTA
+* Cherylynne Crowther - Seattle Special Education PTSA, President
+* Melissa Spiker - Seattle Special Education PTSA
+* Michelle Whitehead
+* Sue Ann Bube - Mercer Island School District
+* Robert Cruickshank - Washington's Paramount Duty
+* Jim Kowalkowski - Rural Education Center
 
 ### Thu 02/09 04:00 PM - Appropriations (APP): HB 1436 Special education funding
 #### 319 👍 - Pro

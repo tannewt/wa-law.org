@@ -10,18 +10,14 @@
 
 ## Meetings
 ### Wed 03/15 08:00 AM - Higher Education & Workforce Development (HEWD): 2SHB 1522 Sexual misconduct/assocs.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31011&aId=153439&caId=22190&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31011&aId=153439&caId=22190&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31011&aId=153439&caId=22190&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31011&aId=153439&caId=22190&tId=4)
-
-#### 12 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * Naira Gonzales Aranda - Associated Students of Western Washington University
+* Nancy Canales-Montiel - WA Student Association
 * Amanda Kost - [University of Washington](/org/university_of_washington/)
 * Bernadette Jungblut
 * Samuel Ligon
+* 💵Collin Bannister - ASWSU
 
 #### 0 👎 - Con
 

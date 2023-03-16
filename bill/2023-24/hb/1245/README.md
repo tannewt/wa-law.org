@@ -18,24 +18,21 @@
 
 ## Meetings
 ### Tue 03/14 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): ESHB 1245 Lot splitting
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153121&caId=22122&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153121&caId=22122&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153121&caId=22122&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30974&aId=153121&caId=22122&tId=4)
-
-#### 120 👍 - Pro
+#### 140 👍 - Pro
 Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * 💵Bill Clarke - WA REALTORS
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
+* 💵Josie Cummings - BIAW
 
-#### 233 👎 - Con
+#### 237 👎 - Con
 Testifying:
 * Carla Nichols
 * CARL SCHROEDER - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Lacey Jane Wolfe - [City of Bellevue](/org/city_of_bellevue/)
+* Kristen Holdsworth - City of Kent Long Range Planning Manager
+* Salim Nice - [City of Mercer Island](/org/city_of_mercer_island/)
 
 #### 1 ❓ - Other
 Testifying:

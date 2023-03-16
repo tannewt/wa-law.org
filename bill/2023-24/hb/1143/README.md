@@ -22,6 +22,24 @@
 * [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=HB 1143)
 
 ## Meetings
+### Thu 03/23 08:00 AM - Law & Justice (LAW): E2SHB 1143 Firearms/purchase & transfer
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153555&caId=22285&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153555&caId=22285&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153555&caId=22285&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153555&caId=22285&tId=4)
+
+#### 1 👍 - Pro
+
+#### 47 👎 - Con
+Testifying:
+* Eric pratt - I, America
+* C Davis - Washingtonians to Recall Inslee
+* Julie Barrett - Conservative Ladies of Washington
+* Laurie Layne
+
+#### 1 ❓ - Other
+
 ### Wed 02/08 04:00 PM - Appropriations (APP): SHB 1143 Firearms/purchase & transfer
 #### 784 👍 - Pro
 Testifying:

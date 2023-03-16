@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Tue 03/14 08:00 AM - Health & Long Term Care (HLTC): 2SHB 1039 Intramuscular needling
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30973&aId=153115&caId=22116&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30973&aId=153115&caId=22116&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30973&aId=153115&caId=22116&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30973&aId=153115&caId=22116&tId=4)
-
-#### 890 👍 - Pro
+#### 969 👍 - Pro
 Testifying:
 * xiaotong wang - 14042 ne 8th st
 * Ben Boyle - APTA Washington
@@ -26,8 +20,9 @@ Testifying:
 * Carol Sayles Rydbom
 * Jacqui Berg
 * Shane Koppenhaver
+* 💵Leslie Emerick - Wa Acupuncture & Eastern Medicine Association
 
-#### 616 👎 - Con
+#### 830 👎 - Con
 Testifying:
 * Su Liew
 * Cong Lin
@@ -49,11 +44,20 @@ Testifying:
 * Dongmei Shan
 * Sophie Ren
 * Tong Ning - Washington Acupuncture & Eastern Medicine Associaiton
+* Dave Bajra
+* Linda Ma - RSBS
+* Ka yan Ko
+* Jianhong Cao
+* Harry Teng
+* Teshu Teng
+* Jamil Shoot
 * ash goddard
 * Steve Du
 * Xiaohua Chen
+* Emily Siy
+* Lisa vanHaagen - Professional member WA DOH AEMP Advisory Committee; WAEMA
 
-#### 10 ❓ - Other
+#### 17 ❓ - Other
 Testifying:
 * Xiangping Ren
 
