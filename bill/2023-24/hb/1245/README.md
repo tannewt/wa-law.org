@@ -14,6 +14,7 @@
 * [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB 1245)
 * [Sightline Institute](/org/sightline_institute/) - [Washington Lot Split Bills Would Create Starter Homes, Support Community Stability - Sightline Institute](https://www.sightline.org/2023/01/24/washington-lot-split-bills-would-create-starter-homes-support-community-stability/#:~:text=(HB 1245))
 * [Crosscut](/org/crosscut/) - [How WA's legislature is addressing the housing crisis in 2023 | Crosscut](https://crosscut.com/politics/2023/01/how-was-legislature-addressing-housing-crisis-2023#:~:text=House Bill 1245)
+* [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=House Bill 1245)
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Housing & Homelessness](https://crosscut.com/voter-guide/2023-legislative-tracker/election/housing-homelessness#:~:text=House Bill 1245)
 
 ## Meetings

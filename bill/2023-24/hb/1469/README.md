@@ -14,6 +14,7 @@
 * [The Urbanist](/org/the_urbanist/) - [What Groups Around Washington Are Asking from Olympia | The Urbanist](https://www.theurbanist.org/2023/02/22/waleg-week-7-priorities/#:~:text=HB 1469)
 * [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Our legislative priorities for 2023 | ACLU of Washington](http://www.aclu-wa.org/pages/2023-legislative-agenda#:~:text=HB 1469)
 * [Crosscut](/org/crosscut/) - [Students lobby for WA bills on abortion and gender-affirming care | Crosscut](https://crosscut.com/politics/2023/02/students-lobby-wa-bills-abortion-and-gender-affirming-care#:~:text=House Bill 1469)
+* [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=House Bill 1469)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Washington lawmakers are trying to protect out-of-state abortion patients. Here's what you need to know: | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/05/washington-lawmakers-are-trying-to-protect-out-of-/#:~:text=House Bill 1469)
 
 ## Meetings

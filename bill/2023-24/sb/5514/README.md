@@ -8,6 +8,7 @@
 
 ## Articles
 * [Crosscut](/org/crosscut/) - [A WA bill would lower the legal driving limit to .05% BAC | Crosscut](https://crosscut.com/politics/2023/02/wa-bill-would-lower-legal-driving-limit-05-bac#:~:text=Senate Bill 5514)
+* [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=Senate Bill 5514)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Washington may add automated cameras on highways to catch speeders in construction zones | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/01/washington-may-add-automated-cameras-on-highways-t/#:~:text=House Bill 1582/Senate Bill 5514)
 
 ## Meetings

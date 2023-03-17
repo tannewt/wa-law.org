@@ -8,6 +8,7 @@
 
 ## Articles
 * [Crosscut](/org/crosscut/) - [Is a 17-inch fossil enough to inspire Washington's state dinosaur? | Crosscut](https://crosscut.com/politics/2023/02/17-inch-fossil-enough-inspire-washingtons-state-dinosaur#:~:text=House Bill 1020)
+* [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=House Bill 1020)
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Other Topics](https://crosscut.com/voter-guide/2023-legislative-tracker/election/other-topics#:~:text=House Bill 1020)
 
 ## Meetings

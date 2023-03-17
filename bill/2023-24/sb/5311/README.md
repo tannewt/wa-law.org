@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! March 15, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-march-15-2023/#:~:text=E2SSB 5311)
 * [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=E2SSB 5311)
 * [The Seattle Times](/org/the_seattle_times/) - [Remove cap on special education funding in WA now | The Seattle Times](https://www.seattletimes.com/opinion/editorials/remove-cap-on-special-education-funding-in-wa-now/#:~:text=Senate Bill 5311)
 * [Washington St Pta](/org/washington_st_pta/) - [Many Bills End Their Journey in 2023 with Fiscal Cutoff - WSPTA](https://www.wastatepta.org/many-bills-end-their-journey-in-2023-with-fiscal-cutoff/#:~:text=2SSB 5311)

@@ -14,6 +14,7 @@
 * [The Seattle Times](/org/the_seattle_times/) - [WA Legislature forges ahead on assault weapons ban, new drug law | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-legislature-forges-ahead-on-assault-weapons-ban-new-drug-law/#:~:text=Senate Bill 5536)
 * [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers start remake of drug possession laws | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-lawmakers-start-remake-of-drug-possession-laws/#:~:text=Senate Bill 5536)
 * [Crosscut](/org/crosscut/) - [Push to decriminalize fades as WA Senate considers new drug law | Crosscut](https://crosscut.com/politics/2023/02/push-decriminalize-fades-wa-senate-considers-new-drug-law#:~:text=Senate Bill 5536)
+* [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=Senate Bill 5536)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Washington Senate passes bill making drug possession a gross misdemeanor | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/06/washington-senate-passes-bill-making-drug-possessi/#:~:text=Senate Bill 5536)
 * [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=E2SB 5536)
 

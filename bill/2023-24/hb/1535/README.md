@@ -6,4 +6,8 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Crosscut](/org/crosscut/) - [Three years in, five Washingtonians a day are still dying of COVID | Crosscut](https://crosscut.com/news/2023/03/three-years-five-washingtonians-day-are-still-dying-covid#:~:text=House Bill 1535)
+* [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=House Bill 1535)
+
 ## Meetings

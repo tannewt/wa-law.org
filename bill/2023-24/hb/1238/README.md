@@ -17,6 +17,7 @@
 * [The Washington Bus](/org/the_washington_bus/) - [Announcing our 2023 Legislative Priorities! – The Washington Bus](http://www.washingtonbus.org/2023/01/23/announcing-our-2023-legislative-priorities/#:~:text=1238)
 * [The Washington Bus](/org/the_washington_bus/) - [Uncategorized Archives – The Washington Bus](http://www.washingtonbus.org/category/uncategorized/#:~:text=1238)
 * [Crosscut](/org/crosscut/) - [Free school lunch for all is off the table, but WA may expand access | Crosscut](https://crosscut.com/politics/2023/02/free-school-lunch-all-table-wa-may-expand-access#:~:text=House Bill 1238)
+* [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=House Bill 1238)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Bill to expand free school meals advances in Washington legislature | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/03/bill-to-expand-free-school-meals-advances-in-washi/#:~:text=House Bill 1238)
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 10 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate031323#:~:text=H.B. 1238,)
 * [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB 1238)

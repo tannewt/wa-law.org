@@ -9,6 +9,7 @@
 
 ## Articles
 * [Crosscut](/org/crosscut/) - [The high school students behind the bill to end WA's 'pink tax' | Crosscut](https://crosscut.com/politics/2023/01/high-school-students-behind-bill-end-was-pink-tax#:~:text=Senate Bill 5171)
+* [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=Senate Bill 5171)
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Other Topics](https://crosscut.com/voter-guide/2023-legislative-tracker/election/other-topics#:~:text=Senate Bill 5171)
 
 ## Meetings

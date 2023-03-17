@@ -8,6 +8,7 @@
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [WA Legislature considers ban on at-home sexual assault evidence kits | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-legislature-considers-ban-on-at-home-sexual-assault-evidence-kits/#:~:text=House Bill 1564)
+* [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=HB 1564)
 * [Crosscut](/org/crosscut/) - [Washington state considers banning over-the-counter rape kits | Crosscut](https://crosscut.com/politics/2023/03/washington-state-considers-banning-over-counter-rape-kits#:~:text=House Bill 1564)
 
 ## Meetings
