@@ -171,7 +171,7 @@
 * 👍💵 Carl Schroeder
 * 👍💵 Carl Schroeder
 
-## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍2  
+## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍3  
 
 ## [HB 1792](/bill/2023-24/hb/1792/) - Water rights procedures 👍1  
 
@@ -205,6 +205,9 @@
 * 👍💵 Carl Schroeder
 
 ## [SB 5159](/bill/2023-24/sb/5159/) - Shoreline program review 👍1  
+
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
+* 👍💵 Candice Bock
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing   ❓1
 * ❓💵 Carl Schroeder
@@ -253,6 +256,8 @@
 
 ## [SB 5361](/bill/2023-24/sb/5361/) - Law enf. officers/increase 👍1  
 * 👍💵 Candice Bock
+
+## [SB 5363](/bill/2023-24/sb/5363/) - Cannabis advertising 👍1  
 
 ## [SB 5364](/bill/2023-24/sb/5364/) - Lot splitting   ❓1
 * ❓💵 Carl Schroeder

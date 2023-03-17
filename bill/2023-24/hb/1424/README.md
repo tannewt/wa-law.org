@@ -23,7 +23,9 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Kathryn Neary
 
 ### Fri 01/27 08:00 AM - Consumer Protection & Business (CPB): HB 1424 Dogs and cats/consumers
 #### 740 👍 - Pro

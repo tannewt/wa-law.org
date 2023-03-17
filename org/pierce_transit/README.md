@@ -7,7 +7,7 @@
 
 ## [HB 1099](/bill/2023-24/hb/1099/) - Public works wages   ❓1
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
 
 ## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍1  
 
@@ -40,6 +40,8 @@
 ## [SB 5402](/bill/2023-24/sb/5402/) - Authorizing public transportation benefit areas to become limited authority Washington law enforcement agencies. 👍2  
 * 👍 Grantley Martelly
 * 👍 Grantley Martelly
+
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
 
 ## [SB 5586](/bill/2023-24/sb/5586/) - Paid leave data 👍1  
 * 👍 Alexandra Mather

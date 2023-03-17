@@ -10,25 +10,19 @@
 
 ## Meetings
 ### Thu 03/16 08:00 AM - Labor & Commerce (LC): ESHB 1106 Unemployment/voluntary
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153536&caId=22207&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153536&caId=22207&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153536&caId=22207&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153536&caId=22207&tId=4)
-
-#### 40 👍 - Pro
+#### 48 👍 - Pro
 Testifying:
 * Anne Paxton - [Unemployment Law Project](/org/unemployment_law_project/)
 * 💵Sybill Hyppolite - Washington State Labor Council, AFL-CIO
 * 💵Maggie Humphreys - MomsRising
 
-#### 323 👎 - Con
+#### 349 👎 - Con
 Testifying:
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Bob Battles - Association of Washington Business (AWB)
 * 💵John Ficker - [Adult Family Home Council](/org/adult_family_home_council/)
 
-#### 11 ❓ - Other
+#### 13 ❓ - Other
 
 ### Tue 01/10 10:30 AM - Labor & Workplace Standards (LAWS): HB 1106 Unemployment/voluntary
 #### 0 👍 - Pro

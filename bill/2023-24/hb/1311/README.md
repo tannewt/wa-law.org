@@ -10,19 +10,17 @@
 
 ## Meetings
 ### Thu 03/16 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): ESHB 1311 Credit repair services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30969&aId=153481&caId=22187&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30969&aId=153481&caId=22187&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30969&aId=153481&caId=22187&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30969&aId=153481&caId=22187&tId=4)
-
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * 💵Kelsi Hamilton - Washington Collectors Assoc.
 * Mindy Chumbley - Washington Collectors Assoc
 * Martin Lynch - Financial counseling Association of America
+* 💵Antonio Ginatta - [Columbia Legal Services](/org/columbia_legal_services/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Brent Ludeman - Lexington Law
+* 💵Melissa Gombosky - Progrexion
 
 #### 0 ❓ - Other
 

@@ -25,11 +25,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31117&aId=153912&caId=22277&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31117&aId=153912&caId=22277&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Jim Kowalkowski - Rural Education Center
+* Trish Beathard - Brinnon School District
 
 #### 0 ❓ - Other
 

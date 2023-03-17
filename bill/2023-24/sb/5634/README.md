@@ -21,7 +21,9 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Nanci Watson
 
 ### Mon 02/20 09:00 AM - Ways & Means (WM): SSB 5634 Problem gambling
 #### 5 👍 - Pro

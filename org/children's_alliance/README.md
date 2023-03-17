@@ -41,7 +41,7 @@
 
 ## [HB 1676](/bill/2023-24/hb/1676/) - Special ed. early support 👍1  
 
-## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍3  
+## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍4  
 * 👍 Dr. Stephan Blanford
 
 ## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce 👍2  

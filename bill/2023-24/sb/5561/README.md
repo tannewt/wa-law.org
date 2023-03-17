@@ -14,17 +14,12 @@
 
 ## Meetings
 ### Thu 03/16 04:00 PM - Appropriations (APP): SSB 5561 Law enf. community grants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30955&aId=153639&caId=22216&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30955&aId=153639&caId=22216&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30955&aId=153639&caId=22216&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30955&aId=153639&caId=22216&tId=4)
-
-#### 8 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Brian Spracklen - BlueBridge Alliance
 * 💵Teresa Taylor - WACOPS - Washington Council of Police and Sheriffs
+* Linda Thompson - Washington Association for Substance Misuse and Violence Prevention (WASAVP)
 
 #### 0 👎 - Con
 

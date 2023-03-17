@@ -15,7 +15,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31104&aId=153845&caId=22393&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31104&aId=153845&caId=22393&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* 💵Riley Smith - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
 #### 0 👎 - Con
 

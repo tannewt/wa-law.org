@@ -17,9 +17,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31108&aId=153856&caId=22394&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31108&aId=153856&caId=22394&tId=4)
 
-#### 1 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * Vivian Dong
+* 💵Kendall Kosai - Commission on Asian Pacific American Affairs
+* Lei Zhang
+* Xiao Liang
+* Fushan Chen
+* Chu Chen
+* Jun Ma
+* Yongsheng Sun
+* Eric Zhuang
 
 #### 0 👎 - Con
 

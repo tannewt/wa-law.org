@@ -1,10 +1,19 @@
 # Renewable Northwest
 
+## [HB 1173](/bill/2023-24/hb/1173/) - Light pollution  👎1 
+* 👎 Jeff Gombosky
+
 ## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  
 * 👍💵 Kate Brouns
 
+## [HB 1416](/bill/2023-24/hb/1416/) - Consumer-owned utilities 👍1  
+* 👍 Jeff Gombosky
+
 ## [HB 1509](/bill/2023-24/hb/1509/) - Community solar 👍1  
 * 👍 Kate Browns
+
+## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy  👎1 
+* 👎 Jeff Gombosky
 
 ## [HB 1756](/bill/2023-24/hb/1756/) - Energy/tax   ❓1
 * ❓💵 Kate Brouns

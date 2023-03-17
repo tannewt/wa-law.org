@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Thu 03/16 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SHB 1138 Drought preparedness
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30996&aId=153271&caId=22168&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30996&aId=153271&caId=22168&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30996&aId=153271&caId=22168&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30996&aId=153271&caId=22168&tId=4)
-
-#### 92 👍 - Pro
+#### 104 👍 - Pro
 Testifying:
 * James Kraft - Washington Water Trust
 * Dave Christensen - Washington Department of Ecology

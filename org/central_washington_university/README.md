@@ -19,7 +19,8 @@
 ## [HB 1693](/bill/2023-24/hb/1693/) - Student homelessness pilot 👍1  
 * 👍 Steve DuPont
 
-## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
+## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍2  
+* 👍 Steve DuPont
 * 👍 Steve DuPont
 
 ## [SB 5072](/bill/2023-24/sb/5072/) - Highly capable students 👍1  

@@ -8,6 +8,8 @@
 
 ## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍4  
 
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
+
 ## [HB 1251](/bill/2023-24/hb/1251/) - Water system notices 👍1  
 
 ## [HB 1307](/bill/2023-24/hb/1307/) - Physician bargaining 👍1  
@@ -17,6 +19,8 @@
 ## [HB 1694](/bill/2023-24/hb/1694/) - Home care workforce shortage 👍3  
 * 👍💵 Jonathan Seib
 * 👍💵 Hugh Ewart
+
+## [HB 1745](/bill/2023-24/hb/1745/) - Diversity in clinical trials 👍1  
 
 ## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
 
@@ -29,6 +33,8 @@
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1 👎1 
 
 ## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍1  
+
+## [SB 5388](/bill/2023-24/sb/5388/) - Diversity in clinical trials 👍1  
 
 ## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍1  
 

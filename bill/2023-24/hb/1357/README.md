@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Thu 03/16 10:30 AM - Health & Long Term Care (HLTC): E2SHB 1357 Prior authorization/health
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30976&aId=153201&caId=22167&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30976&aId=153201&caId=22167&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30976&aId=153201&caId=22167&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30976&aId=153201&caId=22167&tId=4)
-
-#### 49 👍 - Pro
+#### 53 👍 - Pro
 Testifying:
 * Nancy Belcher - [King County Medical Society](/org/king_county_medical_society/)
 * Dr. Teresa Girolami
@@ -25,10 +19,16 @@ Testifying:
 * Robin Sparks - [American Cancer Society Cancer Action Network](/org/american_cancer_society_cancer_action_network/)
 * Matt Helder - [American Cancer Society Cancer Action Network](/org/american_cancer_society_cancer_action_network/)
 * 💵Sean Graham - Washington State Medical Association
+* David Norvell
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Caitlin Safford
+* 💵Carrie Tellefson - [Regence Blue Shield](/org/regence_blue_shield/)
+* Chris Bandoli - America's Health Insurance Plans
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
 ### Thu 02/23 09:00 AM - Appropriations (APP): SHB 1357 Prior authorization/health
 #### 41 👍 - Pro

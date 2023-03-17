@@ -9,24 +9,21 @@
 
 ## Meetings
 ### Thu 03/16 08:00 AM - Labor & Commerce (LC): SHB 1217 Wage complaints
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153152&caId=22159&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153152&caId=22159&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153152&caId=22159&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153152&caId=22159&tId=4)
-
-#### 17 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * David Fernandez Antelo
 * James Stafford
 * 💵Cory Elliott - Political Director, NW Carpenters Union
 * BEAU HAYNES - Washington Wage Claim Project
+* 💵Andrea Schmitt
 
-#### 36 👎 - Con
+#### 44 👎 - Con
 Testifying:
 * Bob Battles - Association of Washington Business (AWB)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Tammy Fellin - Labor & Industries
 
 ### Fri 01/27 10:30 AM - Labor & Workplace Standards (LAWS): HB 1217 Wage complaints
 #### 21 👍 - Pro

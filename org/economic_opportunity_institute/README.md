@@ -24,7 +24,8 @@
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍4  
 
-## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍2  
+## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍3  
+* 👍 Sam Hatzenbeler
 * 👍 Sam Hatzenbeler
 
 ## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍2  

@@ -1,5 +1,7 @@
 # Alliance of Western Energy Consumers
 
+## [HB 1117](/bill/2023-24/hb/1117/) - Power supply inadequacy 👍1  
+
 ## [HB 1192](/bill/2023-24/hb/1192/) - Electric transm. planning 👍1  
 
 ## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍2  
@@ -8,7 +10,8 @@
 
 ## [HB 1509](/bill/2023-24/hb/1509/) - Community solar  👎1 
 
-## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy  👎1 
+## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy  👎2 
+* 👎 Sommer Moser
 * 👎 Sommer Moser
 
 ## [HB 1619](/bill/2023-24/hb/1619/) - Renewable energy resources  👎1 

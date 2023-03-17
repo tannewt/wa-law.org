@@ -15,6 +15,9 @@
 
 ## [SB 5135](/bill/2023-24/sb/5135/) - Solitary confinement 👍1  
 
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+* ❓💵 Jorge Baron
+
 ## [SB 5270](/bill/2023-24/sb/5270/) - DOC/immigration assistance 👍1  
 * 👍 Tim Warden-Hertz
 

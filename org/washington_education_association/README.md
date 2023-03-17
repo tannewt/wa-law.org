@@ -48,7 +48,7 @@
 ## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍3  
 * 👍💵 Julie Salvi
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍4  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍5  
 
 ## [HB 1113](/bill/2023-24/hb/1113/) - Prof. educator reprimands 👍2  
 * 👍💵 Nasue Nishida
@@ -221,7 +221,7 @@
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍2  
 * 👍💵 Simone Boe
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍3  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍4  
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍3  
 
@@ -402,6 +402,9 @@
 ## [SB 5182](/bill/2023-24/sb/5182/) - Candidate filing 👍2  
 
 ## [SB 5183](/bill/2023-24/sb/5183/) - Personal needs allowance 👍1  
+
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+* ❓💵 Larry Delaney
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
 

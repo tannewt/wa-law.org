@@ -16,12 +16,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31007&aId=153268&caId=22173&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31007&aId=153268&caId=22173&tId=4)
 
-#### 142 👍 - Pro
+#### 176 👍 - Pro
 Testifying:
 * James Conca
 * Paul Krupin - Tri-Cities Cares
 
-#### 3 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Jeff Gombosky - [Renewable Northwest](/org/renewable_northwest/)
+* 💵Spencer Gray - Northwest & Intermountain Power Producers Coalition
 
 #### 3 ❓ - Other
 Testifying:

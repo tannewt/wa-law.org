@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Thu 03/16 04:00 PM - Transportation (TR): SSB 5743 Transportation resources
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30961&aId=153073&caId=22083&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30961&aId=153073&caId=22083&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30961&aId=153073&caId=22083&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30961&aId=153073&caId=22083&tId=4)
-
-#### 6 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * 💵Bryce Yadon - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
 

@@ -10,6 +10,19 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Meetings
+### Tue 03/21 04:00 PM - Ways & Means (WM): E2SHB 1188 Child welfare services/DD
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154101&caId=22411&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154101&caId=22411&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154101&caId=22411&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154101&caId=22411&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 03/09 08:00 AM - Human Services (HS): E2SHB 1188 Child welfare services/DD
 #### 24 👍 - Pro
 Testifying:

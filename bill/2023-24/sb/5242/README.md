@@ -22,16 +22,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30992&aId=153202&caId=22018&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30992&aId=153202&caId=22018&tId=4)
 
-#### 396 👍 - Pro
+#### 425 👍 - Pro
 Testifying:
 * Claire Cunningham
 * Ja Beyer - Off
 * Jane Beyer - Office of the Insurance Commissioner
+* Jenna Udren - Northwest Abortion Access Fund
 * Lauren Udren - Northwest Abortion Access Fund
 * Terra Compton
 * Hilary Whitmore
 
-#### 616 👎 - Con
+#### 798 👎 - Con
 Testifying:
 * Theresa Schrempp
 * Laurie Layne

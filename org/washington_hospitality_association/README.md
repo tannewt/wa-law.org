@@ -52,10 +52,13 @@
 ## [HB 1644](/bill/2023-24/hb/1644/) - Margin tax  👎1 
 * 👎💵 Julia Gorton
 
+## [HB 1658](/bill/2023-24/hb/1658/) - Work experience/H.S. credit 👍1  
+
 ## [HB 1706](/bill/2023-24/hb/1706/) - Microenterprise home kitchen  👎1 
 * 👎💵 Samantha Louderback
 
-## [HB 1730](/bill/2023-24/hb/1730/) - Youth employment/21+ estab. 👍1  
+## [HB 1730](/bill/2023-24/hb/1730/) - Youth employment/21+ estab. 👍2  
+* 👍💵 Riley Smith
 * 👍💵 Riley Smith
 
 ## [HB 1785](/bill/2023-24/hb/1785/) - COVID-19/occupational  👎1 
@@ -96,7 +99,8 @@
 
 ## [SB 5429](/bill/2023-24/sb/5429/) - Motor carriers/restrooms  👎1 
 
-## [SB 5448](/bill/2023-24/sb/5448/) - Delivery of alcohol 👍2  
+## [SB 5448](/bill/2023-24/sb/5448/) - Delivery of alcohol 👍3  
+* 👍💵 Riley Smith
 * 👍💵 Riley Smith
 * 👍💵 Riley Smith
 

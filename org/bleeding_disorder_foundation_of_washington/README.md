@@ -21,9 +21,9 @@
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍2  
 
-## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍1  
+## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍2  
 
-## [HB 1745](/bill/2023-24/hb/1745/) - Diversity in clinical trials 👍2  
+## [HB 1745](/bill/2023-24/hb/1745/) - Diversity in clinical trials 👍3  
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
 
@@ -45,7 +45,7 @@
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
 
-## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍1  
+## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍2  
 
 ## [SB 5260](/bill/2023-24/sb/5260/) - Reprod. health/employers 👍1  
 
@@ -53,7 +53,7 @@
 * 👍💵 Stephanie Simpson
 * 👍💵 Stephanie Simpson
 
-## [SB 5388](/bill/2023-24/sb/5388/) - Diversity in clinical trials 👍1  
+## [SB 5388](/bill/2023-24/sb/5388/) - Diversity in clinical trials 👍2  
 
 ## [SB 5393](/bill/2023-24/sb/5393/) - Health provider contracting 👍2  
 

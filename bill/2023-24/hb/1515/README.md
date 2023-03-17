@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Thu 03/16 10:30 AM - Health & Long Term Care (HLTC): E2SHB 1515 Behavioral health contracts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30976&aId=153135&caId=22166&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30976&aId=153135&caId=22166&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30976&aId=153135&caId=22166&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30976&aId=153135&caId=22166&tId=4)
-
-#### 21 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Joan Miller - WA Council for Behavioral Health
@@ -27,9 +21,10 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Evan Klein - Health Care Authority (HCA) - Special Assistant, Legislative & Policy Affairs
+* Caitlin Safford - Amerigroup Washington
 
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1515 Behavioral health contracts
 #### 28 👍 - Pro

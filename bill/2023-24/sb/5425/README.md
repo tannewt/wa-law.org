@@ -16,9 +16,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31024&aId=153515&caId=22194&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31024&aId=153515&caId=22194&tId=4)
 
-#### 87 👍 - Pro
+#### 111 👍 - Pro
+Testifying:
+* Pat Dillon - Fire Chief Equipment, Manager
+* Scott Peterson - UA Local 699, Field Representative
+* Ashton Wolfe
 
-#### 2 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* Chris Russell - Pacific Northwest Chapter of the American Fire Sprinkler Association
 
 #### 0 ❓ - Other
 

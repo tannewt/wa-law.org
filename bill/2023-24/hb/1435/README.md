@@ -15,14 +15,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30981&aId=153145&caId=22175&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30981&aId=153145&caId=22175&tId=4)
 
-#### 6 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * 💵Alexa Silver - Consumer Direct of Washington
 * 💵Madeleine Foutch - SEIU 775
+* 💵Brad Banks - Home Care Coalition
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Bea Rector - Dept. of Social and Health Services
 
 ### Wed 02/15 04:00 PM - Appropriations (APP): SHB 1435 Home care safety net assess.
 #### 10 👍 - Pro

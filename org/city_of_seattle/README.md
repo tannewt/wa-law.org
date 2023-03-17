@@ -24,7 +24,7 @@
 
 ## [HB 1156](/bill/2023-24/hb/1156/) - College grant eligibility 👍1  
 
-## [HB 1163](/bill/2023-24/hb/1163/) - Leasehold tax/arenas 👍1  
+## [HB 1163](/bill/2023-24/hb/1163/) - Leasehold tax/arenas 👍2  
 
 ## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing   ❓1
 
@@ -58,6 +58,8 @@
 
 ## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses 👍1  
 
+## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units 👍1  
+
 ## [HB 1343](/bill/2023-24/hb/1343/) - Rent relief & housing 👍1  
 
 ## [HB 1347](/bill/2023-24/hb/1347/) - Integrating community-based health assessments into foundational environmental policies to improve environmental justice. 👍1  
@@ -76,7 +78,7 @@
 
 ## [HB 1428](/bill/2023-24/hb/1428/) - Pedestrians/roadways 👍1  
 
-## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
+## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍2  
 
 ## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍1  
 
@@ -176,6 +178,8 @@
 ## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍1  
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍1  
+
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development   ❓1
 
 ## [SB 5477](/bill/2023-24/sb/5477/) - Murdered indigenous women 👍3  
 

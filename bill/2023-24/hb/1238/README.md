@@ -25,13 +25,7 @@
 
 ## Meetings
 ### Thu 03/16 01:30 PM - Early Learning & K-12 Education (EDU): E2SHB 1238 Free school meals
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31001&aId=153570&caId=22203&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31001&aId=153570&caId=22203&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31001&aId=153570&caId=22203&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31001&aId=153570&caId=22203&tId=4)
-
-#### 287 👍 - Pro
+#### 336 👍 - Pro
 Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * 💵Mitch Denning - WA Assn of Maintenance and Operation Administrators
@@ -49,7 +43,7 @@ Testifying:
 * Nicole Curtis
 * Sara Seelmeyer - United Way of King County
 
-#### 59 👎 - Con
+#### 61 👎 - Con
 Testifying:
 * Paul Hill
 * jon anderson

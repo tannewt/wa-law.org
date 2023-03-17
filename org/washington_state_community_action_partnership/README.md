@@ -69,6 +69,9 @@
 
 ## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍1  
 
+## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy   ❓1
+* ❓ Linda Garcia
+
 ## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍2  
 
 ## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  

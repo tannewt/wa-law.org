@@ -38,7 +38,8 @@
 
 ## [HB 1268](/bill/2023-24/hb/1268/) - Sentencing enhancements 👍1  
 
-## [HB 1311](/bill/2023-24/hb/1311/) - Credit repair services 👍1  
+## [HB 1311](/bill/2023-24/hb/1311/) - Credit repair services 👍2  
+* 👍💵 Antonio Ginatta
 * 👍💵 Antonio Ginatta
 
 ## [HB 1313](/bill/2023-24/hb/1313/) - Health care afford./medicare 👍1  

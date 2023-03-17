@@ -15,7 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30992&aId=153327&caId=22019&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30992&aId=153327&caId=22019&tId=4)
 
-#### 15 👍 - Pro
+#### 27 👍 - Pro
+Testifying:
+* 💵Kirsten Smith - [Susan G. Komen](/org/susan_g._komen/)
+* Chyna Lockhart - Bleeding Disorder Foundation of WA
 
 #### 0 👎 - Con
 

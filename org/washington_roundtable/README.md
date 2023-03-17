@@ -1,6 +1,6 @@
 # Washington Roundtable
 
-## [HB 1146](/bill/2023-24/hb/1146/) - Dual credit program notice 👍1  
+## [HB 1146](/bill/2023-24/hb/1146/) - Dual credit program notice 👍2  
 
 ## [HB 1156](/bill/2023-24/hb/1156/) - College grant eligibility 👍1  
 

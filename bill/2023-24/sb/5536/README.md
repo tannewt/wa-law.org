@@ -27,9 +27,12 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 17 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* KAREN THOMPSON
+* Chad Enright - Kitsap County Prosecutor/WA Association of Prosecuting Attorneys
 
 ### Sat 02/18 09:00 AM - Ways & Means (WM): SSB 5536 Controlled substances
 #### 46 👍 - Pro

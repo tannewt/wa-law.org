@@ -24,13 +24,7 @@
 
 ## Meetings
 ### Thu 03/16 08:00 AM - Housing (HOUS): ESSB 5466 Transit-oriented development
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31021&aId=153318&caId=22027&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31021&aId=153318&caId=22027&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31021&aId=153318&caId=22027&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31021&aId=153318&caId=22027&tId=4)
-
-#### 788 👍 - Pro
+#### 818 👍 - Pro
 Testifying:
 * Joe Kunzler - None
 * Cynthia Stewart - League of Women Voters of WA
@@ -51,6 +45,7 @@ Testifying:
 * 💵Bill Clarke - Amazon + WA REALTORS
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * 💵Greg Hanon - NAIOP
+* 💵Shaun Scott - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * Lars Erickson - Seattle Metropolitan Chamber of Commerce
 * Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
 
@@ -60,7 +55,7 @@ Testifying:
 * Steven Miller - Cowan Miller & Lederman
 * Steven Miller - Beaux Arts Planning Commission
 
-#### 12 ❓ - Other
+#### 14 ❓ - Other
 Testifying:
 * Bill Helbig - Community & Public Works Director, City of Spokane Valley
 * Salim Nice - [City of Mercer Island](/org/city_of_mercer_island/)

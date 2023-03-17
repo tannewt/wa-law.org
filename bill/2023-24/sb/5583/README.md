@@ -15,20 +15,16 @@
 
 ## Meetings
 ### Thu 03/16 04:00 PM - Transportation (TR): ESSB 5583 Young driver safety
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30961&aId=153072&caId=22082&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30961&aId=153072&caId=22082&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30961&aId=153072&caId=22082&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30961&aId=153072&caId=22082&tId=4)
-
-#### 88 👍 - Pro
+#### 103 👍 - Pro
 Testifying:
 * Alex Hansen - Washington Traffic Safety Education Association, President
 * 💵Alex Alston - [Washington Bikes](/org/washington_bikes/)
 * Lynn Rogers - Professional Driving School Association of Washington
+* Julia Braun
 * David Slipp - Washington Traffic Safety Education Association (WTSEA)
+* Gerald Apple - WTSEA (Washington Traffic Safety Education Association
 
-#### 4 👎 - Con
+#### 11 👎 - Con
 Testifying:
 * David-Henry Sedelmeier - Driving School owner
 

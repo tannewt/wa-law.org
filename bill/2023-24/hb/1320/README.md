@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Thu 03/16 08:00 AM - Labor & Commerce (LC): E2SHB 1320 Personnel records
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153148&caId=22155&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153148&caId=22155&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153148&caId=22155&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153148&caId=22155&tId=4)
-
-#### 78 👍 - Pro
+#### 82 👍 - Pro
 Testifying:
 * Patrick McGah - Individual citizen
 * 💵John Traynor - Washington State Labor Council, AFL-CIO
@@ -27,7 +21,7 @@ Testifying:
 * Jane Dale - Washington State Association for Justice
 * Lauren RIchardson-Berg - [Washington Employment Lawyers Association](/org/washington_employment_lawyers_association/)
 
-#### 44 👎 - Con
+#### 56 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
 * 💵James King - [Independent Business Association](/org/independent_business_association/)

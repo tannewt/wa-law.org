@@ -4,7 +4,7 @@
 
 ## [HB 1015](/bill/2023-24/hb/1015/) - Paraeducator requirements 👍2  
 
-## [HB 1056](/bill/2023-24/hb/1056/) - Postretirement employment 👍1  
+## [HB 1056](/bill/2023-24/hb/1056/) - Postretirement employment 👍2  
 
 ## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍3  
 
@@ -16,7 +16,7 @@
 
 ## [HB 1230](/bill/2023-24/hb/1230/) - School websites/drug info. 👍1  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍2  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍3  
 
 ## [HB 1273](/bill/2023-24/hb/1273/) - High school and beyond plans   ❓1
 
@@ -45,6 +45,8 @@
 ## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍3  
 * 👍💵 Roz Thompson
 * 👍💵 Roz Thompson
+
+## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍1  
 
 ## [HB 1732](/bill/2023-24/hb/1732/) - K-12 inflation adjustments 👍1  
 

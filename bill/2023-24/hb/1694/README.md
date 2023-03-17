@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30981&aId=153146&caId=22176&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30981&aId=153146&caId=22176&tId=4)
 
-#### 59 👍 - Pro
+#### 75 👍 - Pro
 Testifying:
 * Carma Matti-Jackson - [Washington Health Care Association](/org/washington_health_care_association/)
 * 💵Madeleine Foutch - SEIU 775
@@ -25,10 +25,15 @@ Testifying:
 * Lynn Kimball - Washington Association of Area Agencies on Aging
 * 💵John Ficker - [Adult Family Home Council](/org/adult_family_home_council/)
 * Cathy MacCaul - AARP Washington State
+* Dr. Raul Garcia - Astria Toppenish Hospital
+* 💵Hugh Ewart - Seattle Children's
+* 💵Brad Banks - Home Care Coalition
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Bea Rector - Dept. of Social and Health Services
 
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1694 Home care workforce shortage
 #### 60 👍 - Pro

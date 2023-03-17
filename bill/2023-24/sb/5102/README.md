@@ -16,7 +16,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31044&aId=153583&caId=22338&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31044&aId=153583&caId=22338&tId=4)
 
-#### 1 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Benjamin Kort
+* Sharon Loniewski - Camas Educational Association
+* Gavin Downing
 
 #### 0 👎 - Con
 

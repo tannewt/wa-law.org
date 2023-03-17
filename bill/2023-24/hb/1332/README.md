@@ -13,15 +13,11 @@
 
 ## Meetings
 ### Thu 03/16 01:30 PM - Early Learning & K-12 Education (EDU): 2SHB 1332 Tribes/K-12 instruction
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31001&aId=153571&caId=22204&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31001&aId=153571&caId=22204&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31001&aId=153571&caId=22204&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31001&aId=153571&caId=22204&tId=4)
-
-#### 17 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * Bill Kallappa - [Washington State Board of Education](/org/washington_state_board_of_education/)
+* Anna Hernandez-French - Office of Superintendent of Public Instruction
+* Shandy Abrahamson - Office of Superintendent of Public Instruction
 
 #### 0 👎 - Con
 

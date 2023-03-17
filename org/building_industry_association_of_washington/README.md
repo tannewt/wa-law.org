@@ -92,6 +92,9 @@
 
 ## [HB 1569](/bill/2023-24/hb/1569/) - Common interest communities  👎2 
 
+## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy  👎1 
+* 👎💵 Josie Cummings
+
 ## [HB 1611](/bill/2023-24/hb/1611/) - Local government permitting  👎2 
 * 👎💵 Bill Stauffacher
 * 👎💵 Josie Cummings

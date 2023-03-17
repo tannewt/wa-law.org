@@ -16,7 +16,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30981&aId=153529&caId=22210&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30981&aId=153529&caId=22210&tId=4)
 
-#### 15 👍 - Pro
+#### 26 👍 - Pro
+Testifying:
+* Tamara Clough - [American Cancer Society Cancer Action Network](/org/american_cancer_society_cancer_action_network/)
+* Yvette Mercer - National MS Society
 
 #### 0 👎 - Con
 

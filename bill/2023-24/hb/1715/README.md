@@ -15,12 +15,6 @@
 
 ## Meetings
 ### Thu 03/16 08:00 AM - Law & Justice (LAW): E2SHB 1715 Domestic violence
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30943&aId=153422&caId=22161&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30943&aId=153422&caId=22161&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30943&aId=153422&caId=22161&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30943&aId=153422&caId=22161&tId=4)
-
 #### 15 👍 - Pro
 Testifying:
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
@@ -34,9 +28,9 @@ Testifying:
 * Juliana Repp - [Unemployment Law Project](/org/unemployment_law_project/)
 * Sandra Rodarte - Latino Civic Alliance
 
-#### 17 👎 - Con
+#### 22 👎 - Con
 
-#### 5 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Rick Torrance - Department of Commerce
 * Ramona Brandes - WACDL and WDA

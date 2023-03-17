@@ -14,13 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154025&caId=22310&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154025&caId=22310&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Tonia McClanahan
+* Shelly Willis - Executive Director
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Jim Bamberger - Office of Civil Legal Aid
+* Kimberly Nyland
+* 💵Jorge Baron - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
 
 ### Fri 03/24 02:00 PM - Ways & Means (WM): PSSB 5187: Early learning. (Remote Testimony Available).
 Sign up to testify:
@@ -68,15 +74,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154023&caId=22308&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154023&caId=22308&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Sam Martin - Washington Coalition on Homeless Youth Advocacy
 * Julie Patino - A Way Home Washington
 * Jo Bechtold - [The Mockingbird Society](/org/the_mockingbird_society/)
+* Carlos Caguiat - The Washington Continuing Care Residents' Association
 
 #### 0 👎 - Con
 
-#### 7 ❓ - Other
+#### 18 ❓ - Other
 Testifying:
 * Laurie Lippold - Partners for Our Children
 * Jim Theofelis - NorthStar Advocates
@@ -85,6 +92,17 @@ Testifying:
 * 💵Jill May - Washington Association for Children and Families
 * Jeff Clare - Washington Association for Children and Families
 * Whitney Carlson - Washington Association for Children and Families
+* Laura Saunders - Washington Association of Continuing Care Residents - WACCRA
+* 💵Diana Stadden - The Arc of WA State
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* Cathy Murahashi - Community Homes
+* Jessica Renner - Self Advocates in Leadership (SAIL)
+* 💵Alyssa Odegaard - LeadingAge
+* Carma Matti-Jackson - [Washington Health Care Association](/org/washington_health_care_association/)
+* Robert Washbond - Stafford at Belmont
+* Tonja Myers
+* Jacqueline Kinley - Unified Residential Care and Main Residential Care
+* 💵Stacy Dym - The Arc of Washington State
 
 ### Fri 03/24 02:00 PM - Ways & Means (WM): PSSB 5187: K-12 public schools. (Remote Testimony Available).
 Sign up to testify:
@@ -97,7 +115,10 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
 
 ### Fri 03/24 02:00 PM - Ways & Means (WM): PSSB 5187: Mental health. (Remote Testimony Available).
 Sign up to testify:
@@ -106,7 +127,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154022&caId=22307&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154022&caId=22307&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* 💵Michael White - [King County](/org/king_county/)
 
 #### 0 👎 - Con
 
@@ -119,11 +142,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154024&caId=22309&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154024&caId=22309&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* 💵Samantha Bruegger - [Washington Wildlife First](/org/washington_wildlife_first/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Christine Mahler - Washington Wildlife and Recreation Coalition
 
 ### Tue 01/10 04:00 PM - Ways & Means (WM): SB 5187: All other. (Remote Testimony Available).
 #### 0 👍 - Pro

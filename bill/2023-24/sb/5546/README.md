@@ -19,7 +19,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31102&aId=153837&caId=22390&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31102&aId=153837&caId=22390&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Shawn DeNae Wagenseller - The Cannabis Alliance and WA Sun & Craft Growers
+* Burl Bryson - The Cannabis Alliance
 
 #### 0 👎 - Con
 

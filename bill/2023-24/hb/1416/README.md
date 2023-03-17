@@ -18,15 +18,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31007&aId=153267&caId=22172&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31007&aId=153267&caId=22172&tId=4)
 
-#### 106 👍 - Pro
+#### 172 👍 - Pro
 Testifying:
 * 💵Logan Bahr - Tacoma Public Utilities/Tacoma Power
 * Ben Richards - Protect Pend Oreille
 * Glenn Blackmon - WA Dept of Commerce - State Energy Office
+* 💵Kelly Hall - [Climate Solutions](/org/climate_solutions/)
+* Jeff Gombosky - [Renewable Northwest](/org/renewable_northwest/)
+* Lauren McCloy - NW Energy Coalition
+* Phyllis Kardos - Responsible Growth * NE Washington
+* Gloria Wells
+* 💵Nicolas Garcia - WPUDA
 
-#### 147 👎 - Con
+#### 333 👎 - Con
 Testifying:
 * Steve Chilson
+* Robyn Swesey
 
 #### 0 ❓ - Other
 

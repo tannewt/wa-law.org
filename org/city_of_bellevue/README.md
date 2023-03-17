@@ -6,7 +6,8 @@
 
 ## [HB 1089](/bill/2023-24/hb/1089/) - Sex trafficking 👍1  
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓1
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓2
+* ❓ Lacey Jane Wolfe
 * ❓ Lacey Jane Wolfe
 
 ## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍2  
@@ -31,7 +32,8 @@
 
 ## [HB 1385](/bill/2023-24/hb/1385/) - Civil forfeiture proceedings   ❓1
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍3  
+* 👍 Lacey Jane Wolfe
 
 ## [HB 1521](/bill/2023-24/hb/1521/) - Industrial insurance/duties  👎1 
 * 👎 Lacey Jane Wolfe

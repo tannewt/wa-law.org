@@ -124,6 +124,9 @@
 
 ## [SB 5464](/bill/2023-24/sb/5464/) - Electronics repair 👍1  
 
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
+* 👍💵 Shaun Scott
+
 ## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍3  
 * 👍💵 Shaun Scott
 * 👍💵 Shaun Scott

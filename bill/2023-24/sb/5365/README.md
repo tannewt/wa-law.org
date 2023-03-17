@@ -15,19 +15,19 @@
 
 ## Meetings
 ### Thu 03/16 08:00 AM - Regulated Substances & Gaming (RSG): ESSB 5365 Vapor and tobacco/minors
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30995&aId=153427&caId=22065&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30995&aId=153427&caId=22065&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30995&aId=153427&caId=22065&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30995&aId=153427&caId=22065&tId=4)
+#### 25 👍 - Pro
+Testifying:
+* Jeff Ketchel - [Washington State Public Health Association](/org/washington_state_public_health_association/)
+* Elaine Ishihara - Healthy King County Coalition - Tobacco Marijuana & Other Drug Workgroup
+* Ben Yisrael - Healthy King County Coalition
 
-#### 18 👍 - Pro
-
-#### 27 👎 - Con
+#### 30 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Carrie Nyssen - American Lung Association
 
 ### Thu 03/09 08:00 AM - Regulated Substances & Gaming (RSG): ESSB 5365 Vapor and tobacco/minors
 #### 22 👍 - Pro

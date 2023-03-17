@@ -13,6 +13,9 @@
 
 ## [SB 5086](/bill/2023-24/sb/5086/) - Tribal police training 👍1  
 
+## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
+* 👍 Ryan Hendricks
+
 ## [SB 5297](/bill/2023-24/sb/5297/) - Commercial salmon fisheries  👎1 
 
 ## [SB 5482](/bill/2023-24/sb/5482/) - Margin tax  👎1 

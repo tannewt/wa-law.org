@@ -25,9 +25,12 @@
 ## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
 * 👍💵 Peter Godlewski
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
 * 👍 Mike Ennis
 * 👍 Mike Ennis
+
+## [HB 1117](/bill/2023-24/hb/1117/) - Power supply inadequacy 👍1  
+* 👍💵 Peter Godlewski
 
 ## [HB 1129](/bill/2023-24/hb/1129/) - Mobile home community sales  👎1 
 
@@ -47,7 +50,7 @@
 * ❓💵 Peter Godlewski
 * ❓💵 Peter Godlewski
 
-## [HB 1173](/bill/2023-24/hb/1173/) - Light pollution   ❓1
+## [HB 1173](/bill/2023-24/hb/1173/) - Light pollution 👍1  ❓1
 * ❓💵 Peter Godlewski
 
 ## [HB 1175](/bill/2023-24/hb/1175/) - Petroleum storage tanks 👍1  
@@ -211,6 +214,9 @@
 
 ## [HB 1584](/bill/2023-24/hb/1584/) - Nuclear reactor technology 👍1  
 * 👍💵 Peter Godlewski
+
+## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy  👎1 
+* 👎💵 Peter Godlewski
 
 ## [HB 1617](/bill/2023-24/hb/1617/) - Universal services program 👍1  
 

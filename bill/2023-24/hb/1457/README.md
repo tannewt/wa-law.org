@@ -8,6 +8,19 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Tue 03/21 04:00 PM - Ways & Means (WM): SHB 1457 Motor carriers/restrooms
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154108&caId=22418&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154108&caId=22418&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154108&caId=22418&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154108&caId=22418&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/16 04:00 PM - Appropriations (APP): SHB 1457 Motor carriers/restrooms
 #### 14 👍 - Pro
 Testifying:

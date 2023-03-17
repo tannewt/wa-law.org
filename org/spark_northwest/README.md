@@ -10,6 +10,9 @@
 ## [HB 1427](/bill/2023-24/hb/1427/) - On-premises energy gen. 👍1  
 * 👍💵 John Seng
 
+## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy   ❓1
+* ❓💵 John Seng
+
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍1  
 
 ## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍2  

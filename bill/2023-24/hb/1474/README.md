@@ -22,7 +22,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30985&aId=153168&caId=22178&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30985&aId=153168&caId=22178&tId=4)
 
-#### 568 👍 - Pro
+#### 644 👍 - Pro
 Testifying:
 * Darryl Smith - HomeSight
 * Corinna Obar - Washington State Housing Finance Commiss
@@ -33,10 +33,11 @@ Testifying:
 * Councilmember Kiara Daniels - [City of Tacoma](/org/city_of_tacoma/)
 * Michael Dotson - Banner Bank
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Lacey Jane Wolfe - [City of Bellevue](/org/city_of_bellevue/)
 
-#### 4 👎 - Con
+#### 192 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1474 Covenant homeownership prg.
 #### 513 👍 - Pro

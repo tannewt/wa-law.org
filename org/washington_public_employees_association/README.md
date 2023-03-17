@@ -14,6 +14,8 @@
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
+## [HB 1106](/bill/2023-24/hb/1106/) - Unemployment/voluntary 👍1  
+
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
 
 ## [HB 1137](/bill/2023-24/hb/1137/) - Return-to-work opportunities  👎1 
@@ -24,19 +26,23 @@
 
 ## [HB 1197](/bill/2023-24/hb/1197/) - Workers' comp. providers 👍1  
 
+## [HB 1217](/bill/2023-24/hb/1217/) - Wage complaints 👍1  
+
 ## [HB 1286](/bill/2023-24/hb/1286/) - Reprod. health/employers 👍1  
 
 ## [HB 1291](/bill/2023-24/hb/1291/) - Academic employee bargaining 👍1  
 
 ## [HB 1307](/bill/2023-24/hb/1307/) - Physician bargaining 👍1  
 
-## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records 👍1  
+## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records 👍2  
 
 ## [HB 1323](/bill/2023-24/hb/1323/) - Fire-resistant materials 👍1  
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍1  
+
+## [HB 1491](/bill/2023-24/hb/1491/) - Employee personal vehicles 👍1  
 
 ## [HB 1526](/bill/2023-24/hb/1526/) - Electrical inspector salary 👍1  
 
@@ -45,6 +51,8 @@
 ## [HB 1578](/bill/2023-24/hb/1578/) - Wildland fire safety 👍1  
 
 ## [HB 1593](/bill/2023-24/hb/1593/) - RN PTSD/industrial insurance 👍1  
+
+## [HB 1762](/bill/2023-24/hb/1762/) - Warehouse employees 👍1  
 
 ## [HB 1774](/bill/2023-24/hb/1774/) - Public empl. salary surveys 👍1  
 

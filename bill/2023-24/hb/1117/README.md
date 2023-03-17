@@ -15,11 +15,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31007&aId=153266&caId=22171&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31007&aId=153266&caId=22171&tId=4)
 
-#### 14 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * 💵Dave Warren - Klickitat PUD
+* Jim Smith - Public Utility District #1 of Klickitat County
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Nicolas Garcia - WPUDA
 
-#### 74 👎 - Con
+#### 78 👎 - Con
 
 #### 0 ❓ - Other
 

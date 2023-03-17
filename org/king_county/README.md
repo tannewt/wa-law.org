@@ -319,9 +319,15 @@
 
 ## [SB 5186](/bill/2023-24/sb/5186/) - Contracting/discrimination 👍1  
 
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
+* 👍💵 Michael White
+
 ## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍3  
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
+* 👍💵 Michael White
+
+## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
 * 👍💵 Michael White
 
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures 👍1  

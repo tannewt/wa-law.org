@@ -10,6 +10,19 @@
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Policing, Crime & Courts](https://crosscut.com/voter-guide/2023-legislative-tracker/election/policing-crime-courts#:~:text=Senate Bill 5022)
 
 ## Meetings
+### Tue 03/21 04:00 PM - Community Safety, Justice, & Reentry (CSJR): ESB 5022 Drug testing equipment
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=154074&caId=22405&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=154074&caId=22405&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=154074&caId=22405&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=154074&caId=22405&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/06 10:30 AM - Law & Justice (LAW): SB 5022 Fentanyl testing equipment
 #### 33 👍 - Pro
 

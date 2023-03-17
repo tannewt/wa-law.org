@@ -11,11 +11,12 @@
 ## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍2  ❓1
 * ❓ Adam Maxwell
 
-## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1  
+## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍2  
 
 ## [SB 5093](/bill/2023-24/sb/5093/) - Climate response strategy 👍1  
 
-## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍2  
+## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍3  
+* 👍 Scott Andrews
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management 👍1  
 

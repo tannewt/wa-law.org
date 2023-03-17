@@ -25,6 +25,9 @@
 
 ## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records   ❓2
 
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍1  
+* 👍 Deputy Mayor Kristina Walker
+
 ## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍1  
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍3  

@@ -24,11 +24,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31101&aId=153833&caId=22385&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31101&aId=153833&caId=22385&tId=4)
 
-#### 0 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* David Buri - Eastern Washington University
+* Steve DuPont - [Central Washington University](/org/central_washington_university/)
+* Jeff Charbonneau - Zillah High School
+* Tim Stetter - Director - UW in the High School
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Michael Reese - Bellevue College
 
 ### Sat 02/18 09:00 AM - Ways & Means (WM): SSB 5048 College in high school fees
 #### 38 👍 - Pro

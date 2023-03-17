@@ -21,13 +21,20 @@ Sign up to testify:
 
 #### 0 ❓ - Other
 
-### Thu 03/16 08:00 AM - Labor & Commerce (LC): SHB 1323 Fire-resistant materials
+### Tue 03/21 10:30 AM - Labor & Commerce (LC): SHB 1323 Fire-resistant materials
 Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153150&caId=22157&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153150&caId=22157&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153150&caId=22157&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153150&caId=22157&tId=4)
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31096&aId=154062&caId=22407&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31096&aId=154062&caId=22407&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31096&aId=154062&caId=22407&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31096&aId=154062&caId=22407&tId=4)
 
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Thu 03/16 08:00 AM - Labor & Commerce (LC): SHB 1323 Fire-resistant materials
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

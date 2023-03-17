@@ -14,8 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31095&aId=153787&caId=22224&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31095&aId=153787&caId=22224&tId=4)
 
-#### 1 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
+* Burl Bryson - The Cannabis Alliance
+* Steven Field
+* John Kingsbury - cannabis patient - Cannabis Alliance
+* MA Ed, Mary Brown - SMJ Consulting,  AIMS Institute
+* RN, OCN, Lisa Buchanan
+* Steven Field - MS patient
 * Burl Bryson - The Cannabis Alliance
 
 #### 0 👎 - Con

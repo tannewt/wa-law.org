@@ -13,20 +13,17 @@
 
 ## Meetings
 ### Thu 03/16 01:30 PM - Early Learning & K-12 Education (EDU): SHB 1701 Institutional ed. programs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31001&aId=153572&caId=22205&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31001&aId=153572&caId=22205&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31001&aId=153572&caId=22205&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31001&aId=153572&caId=22205&tId=4)
-
-#### 6 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * 💵Allison Krutsinger - Dept of Children, Youth, and Families
+* Mikhail Cherniske - Office of Superintendent of Public Instruction
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Troy Goracke - WA State Board for Community and Technical Colleges
 
 ### Thu 02/09 08:00 AM - Education (ED): HB 1701 Institutional ed. programs
 #### 12 👍 - Pro

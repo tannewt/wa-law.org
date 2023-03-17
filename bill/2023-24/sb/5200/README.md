@@ -14,15 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31089&aId=154017&caId=22247&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31089&aId=154017&caId=22247&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * AyeNay Abye - [Tubman Center for Health and Freedom](/org/tubman_center_for_health_and_freedom/)
 * Emijah Smith - [Tubman Center for Health and Freedom](/org/tubman_center_for_health_and_freedom/)
 * Dr. Ben Danielson - [Tubman Center for Health and Freedom](/org/tubman_center_for_health_and_freedom/)
+* SETH MUIR - Sail Sand Point
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tracy Drinkwater - Seattle Universal Math Museum
 
 ### Mon 03/20 04:00 PM - Ways & Means (WM): PSSB 5200: Higher education.  (Remote Testimony Available).
 Sign up to testify:
@@ -44,13 +47,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31089&aId=154015&caId=22245&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31089&aId=154015&caId=22245&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Brent Simcosky - Jamestown S'Klallam Tribe
+* 💵Michael White - [King County](/org/king_county/)
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Laurie Lippold - Partners for Our Children
+* Linda Grant - [Evergreen Recovery Centers](/org/evergreen_recovery_centers/)
 
 ### Mon 03/20 04:00 PM - Ways & Means (WM): PSSB 5200: K-12 public schools.  (Remote Testimony Available).
 Sign up to testify:
@@ -72,11 +79,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31089&aId=154016&caId=22246&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31089&aId=154016&caId=22246&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Ryan Hendricks - [Quinault Indian Nation](/org/quinault_indian_nation/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Vanessa Kritzer - [Washington Association of Land Trusts](/org/washington_association_of_land_trusts/)
+* 💵Christine Mahler - Washington Wildlife and Recreation Coalition
+* Daniel Lucio - Hunters of Color
+* Ruth Gifford - Dishman Hills Conservancy
+* Yvonne Kraus - [Evergreen Mountain Bike Alliance](/org/evergreen_mountain_bike_alliance/)
 
 ### Thu 01/12 04:00 PM - Ways & Means (WM): SB 5200: All other. (Remote Testimony Available).
 #### 0 👍 - Pro

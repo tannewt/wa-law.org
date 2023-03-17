@@ -61,7 +61,7 @@
 
 ## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
 
-## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍1  
+## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍2  
 
 ## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍2  
 

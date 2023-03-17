@@ -21,9 +21,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31007&aId=153577&caId=22214&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31007&aId=153577&caId=22214&tId=4)
 
-#### 57 👍 - Pro
+#### 93 👍 - Pro
+Testifying:
+* Anna Lising - Governor's Office
+* Dave Danner - Utilities & Transportation Commission
+* 💵John Traynor - Washington State Labor Council, AFL-CIO
+* 💵Matthew Hepner - IBEW/CEWW
+* Sam Hem - Northwest Regional Council of Sheet Metal, Air, Rail, and Transportation Workers Local 66
+* 💵Isaac Kastama - Clean & Prosperous Washington
+* Ken Johnson - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 
-#### 253 👎 - Con
+#### 581 👎 - Con
 Testifying:
 * 💵Ryan Kenny - [Clean Energy](/org/clean_energy/)
 * Oliver Bangera - Bangera Restaurant Group
@@ -37,8 +45,26 @@ Testifying:
 * 💵Carolyn Logue - NW Hearth, Patio & Barbecue Assn and WA Air Conditioning Contractors
 * 💵Greg Hanon - NAIOP
 * Edwin Andrews
+* 💵John Rothlin - Avista
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* Vernal Hughes
+* Vernal Hughes
+* Sommer Moser - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
+* 💵Michele Willms - Associated General Contractors (AGC)
+* Jeff Gombosky - [Renewable Northwest](/org/renewable_northwest/)
+* Andrea Hochleutner - Central WA Homebuilders Association
+* Daimon Doyle - Doyle Construction
+* 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Scott Hazelgrove - Master Builders of King and Snohomish Counties
+* 💵Spencer Gray - Northwest & Intermountain Power Producers Coalition
 
-#### 2 ❓ - Other
+#### 11 ❓ - Other
+Testifying:
+* Yochi Zakai - The Energy Project
+* 💵John Seng - [Spark Northwest](/org/spark_northwest/)
+* Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* Charlie Brown - NW Natural & Cascade Natural Gas
+* 💵Nicolas Garcia - WPUDA
 
 ### Wed 03/15 08:00 AM - Environment, Energy & Technology (ENET): ESHB 1589 Clean energy
 #### 11 👍 - Pro

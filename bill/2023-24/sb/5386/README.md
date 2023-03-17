@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Thu 03/16 08:00 AM - Housing (HOUS): SSB 5386 Document recording fees
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31021&aId=153317&caId=22026&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31021&aId=153317&caId=22026&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31021&aId=153317&caId=22026&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31021&aId=153317&caId=22026&tId=4)
-
-#### 43 👍 - Pro
+#### 45 👍 - Pro
 Testifying:
 * Tedd Kelleher - Department of Commerce
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

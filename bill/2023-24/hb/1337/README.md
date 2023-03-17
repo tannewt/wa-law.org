@@ -18,13 +18,7 @@
 
 ## Meetings
 ### Thu 03/16 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): EHB 1337 Accessory dwelling units
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30983&aId=153753&caId=22221&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30983&aId=153753&caId=22221&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30983&aId=153753&caId=22221&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30983&aId=153753&caId=22221&tId=4)
-
-#### 198 👍 - Pro
+#### 239 👍 - Pro
 Testifying:
 * MATT HUTCHINS AIA CPHD - AIA Washington Council
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
@@ -33,15 +27,17 @@ Testifying:
 * 💵Joanna Grist - AARP Washington State
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 
-#### 10 👎 - Con
+#### 22 👎 - Con
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Gladys Volz - 6016 Ruby Way
+* Angie Homola - Environment and Climate Caucus of the Washington State Democratic Party
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Lacey Jane Wolfe - [City of Bellevue](/org/city_of_bellevue/)
 * Kaelene Nobis - City of Kent Senior Long Range Planner
+* 💵Briahna Murray - Cities of Redmond, Spokane Valley, Pasco
 
 ### Mon 01/23 01:30 PM - Housing (HOUS): HB 1337 Accessory dwelling units
 #### 327 👍 - Pro

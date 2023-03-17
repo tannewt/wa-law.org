@@ -50,7 +50,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30985&aId=153457&caId=22180&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30985&aId=153457&caId=22180&tId=4)
 
-#### 814 👍 - Pro
+#### 1030 👍 - Pro
 Testifying:
 * Joe Kunzler - None
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
@@ -69,13 +69,22 @@ Testifying:
 * Kurt Wilson - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Tricia Gullion - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Mercedes White Calf - NAYA Action Fund
+* Ken Winkes
+* Shelli Lucus-Kennedy - BIAW
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
+* Bill Riley - Washington REALTORS
 
-#### 222 👎 - Con
+#### 277 👎 - Con
 Testifying:
 * Salim Nice - [City of Mercer Island](/org/city_of_mercer_island/)
 * Tom McCormick
+* Patricia McCoy - St Joseph Church
+* Councilmember Syd Dawson - [City of Maple Valley](/org/city_of_maple_valley/)
+* Mayor Mike Millman - City of Woodinville, Mayor
+* Laurence WILLIAMSON - N/A
+* Jonelle Kemmerling
 
-#### 9 ❓ - Other
+#### 12 ❓ - Other
 Testifying:
 * Richard Voget
 * Nancy Backus - City of Auburn, Mayor
@@ -84,6 +93,7 @@ Testifying:
 * Mary Lou Pauly - Mayor, City of Issaquah
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Arne Woodard - Councilmember, City of Spokane Valley
+* Lacey Jane Wolfe - [City of Bellevue](/org/city_of_bellevue/)
 
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1110 Middle housing
 #### 1176 👍 - Pro

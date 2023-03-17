@@ -65,7 +65,7 @@
 
 ## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍2  
 
-## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍3  
+## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍4  
 * 👍 Chris Herman
 * 👍 Chris Herman
 * 👍 Chris Herman

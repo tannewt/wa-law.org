@@ -20,7 +20,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31048&aId=153633&caId=22288&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31048&aId=153633&caId=22288&tId=4)
 
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* 💵Diana Stadden - The Arc of WA State
 
 #### 0 👎 - Con
 

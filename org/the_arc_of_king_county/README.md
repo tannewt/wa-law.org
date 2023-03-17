@@ -12,7 +12,7 @@
 
 ## [HB 1118](/bill/2023-24/hb/1118/) - School bus safety 👍1  
 
-## [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍1  
+## [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍2  
 
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
 
@@ -20,10 +20,10 @@
 
 ## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍2  
 
-## [HB 1188](/bill/2023-24/hb/1188/) - Child welfare services/DD 👍4  
+## [HB 1188](/bill/2023-24/hb/1188/) - Child welfare services/DD 👍5  
 * 👍💵 Ramona Hattendorf
 
-## [HB 1204](/bill/2023-24/hb/1204/) - Family connections program 👍1  
+## [HB 1204](/bill/2023-24/hb/1204/) - Family connections program 👍2  
 
 ## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍3  
 
@@ -47,7 +47,7 @@
 
 ## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍2  
 
-## [HB 1407](/bill/2023-24/hb/1407/) - Dev. disability/eligibility 👍4  
+## [HB 1407](/bill/2023-24/hb/1407/) - Dev. disability/eligibility 👍5  
 * 👍💵 Ramona Hattendorf
 
 ## [HB 1436](/bill/2023-24/hb/1436/) - Special education funding 👍1  ❓1
@@ -56,9 +56,9 @@
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
 
-## [HB 1478](/bill/2023-24/hb/1478/) - Student rights 👍1  
+## [HB 1478](/bill/2023-24/hb/1478/) - Student rights 👍2  
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍3  ❓1
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍4  ❓1
 * 👍💵 Eric Warwick
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍3  
@@ -74,7 +74,7 @@
 
 ## [HB 1676](/bill/2023-24/hb/1676/) - Special ed. early support 👍1  
 
-## [HB 1694](/bill/2023-24/hb/1694/) - Home care workforce shortage 👍2  
+## [HB 1694](/bill/2023-24/hb/1694/) - Home care workforce shortage 👍3  
 
 ## [HB 1776](/bill/2023-24/hb/1776/) - Applied behavior analysis  👎1 
 
@@ -100,6 +100,10 @@
 
 ## [SB 5183](/bill/2023-24/sb/5183/) - Personal needs allowance 👍1  
 
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓2
+* ❓💵 Ramona Hattendorf
+* ❓💵 Ramona Hattendorf
+
 ## [SB 5214](/bill/2023-24/sb/5214/) - Music therapists 👍1  
 
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍1  
@@ -118,7 +122,8 @@
 * ❓💵 Ramona Hattendorf
 * ❓💵 Ramona Hattendorf
 
-## [SB 5315](/bill/2023-24/sb/5315/) - Special education/nonpublic 👍3  
+## [SB 5315](/bill/2023-24/sb/5315/) - Special education/nonpublic 👍4  
+* 👍💵 Ramona Hattendorf
 * 👍💵 Ramona Hattendorf
 
 ## [SB 5397](/bill/2023-24/sb/5397/) - Public benefit payments/DCYF 👍2  

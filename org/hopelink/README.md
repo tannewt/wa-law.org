@@ -25,7 +25,7 @@
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍3  
 * 👍 Donna O'Connor
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍3  
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍2  
 
@@ -90,6 +90,8 @@
 ## [SB 5572](/bill/2023-24/sb/5572/) - Traffic safety 👍1  
 
 ## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍1  
+
+## [SB 5581](/bill/2023-24/sb/5581/) - Maternal support services 👍1  
 
 ## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍1  
 

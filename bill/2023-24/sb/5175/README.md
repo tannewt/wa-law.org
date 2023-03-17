@@ -16,7 +16,9 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵Troy Nichols - Capital Region ESD 113
 
 #### 0 ❓ - Other
 

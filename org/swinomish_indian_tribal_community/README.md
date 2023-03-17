@@ -8,7 +8,7 @@
 * 👍 Earl Cowan
 * 👍 Melissa Simonsen
 
-## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  ❓1
+## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍2  ❓1
 * ❓ Brian Wilbur
 * 👍 Sarah Chagnon
 
@@ -21,7 +21,7 @@
 
 ## [SB 5372](/bill/2023-24/sb/5372/) - DNR land 👍1  
 
-## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍1  
+## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍2  
 
 ## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation  👎1 
 

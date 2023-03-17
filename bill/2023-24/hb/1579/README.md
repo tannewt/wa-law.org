@@ -16,9 +16,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31039&aId=153546&caId=22233&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31039&aId=153546&caId=22233&tId=4)
 
-#### 1 👍 - Pro
+#### 80 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Paul Giuglianotti - I'm testifying as an independent prosecutor policy expert after 3 years of careful study.
 
 #### 1 ❓ - Other
 Testifying:

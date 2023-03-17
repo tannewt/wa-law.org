@@ -16,7 +16,8 @@
 
 ## [SB 5213](/bill/2023-24/sb/5213/) - Pharmacy benefit managers 👍1  
 
-## [SB 5388](/bill/2023-24/sb/5388/) - Diversity in clinical trials 👍3  
+## [SB 5388](/bill/2023-24/sb/5388/) - Diversity in clinical trials 👍4  
+* 👍💵 Kirsten Smith
 * 👍💵 Kirsten Smith
 
 ## [SB 5396](/bill/2023-24/sb/5396/) - Breast exam cost sharing 👍3  

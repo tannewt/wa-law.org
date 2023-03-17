@@ -21,13 +21,20 @@ Sign up to testify:
 
 #### 0 ❓ - Other
 
-### Thu 03/16 08:00 AM - Labor & Commerce (LC): SHB 1200 Employee information/unions
+### Tue 03/21 10:30 AM - Labor & Commerce (LC): SHB 1200 Employee information/unions
 Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153147&caId=22154&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153147&caId=22154&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153147&caId=22154&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153147&caId=22154&tId=4)
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31096&aId=154061&caId=22406&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31096&aId=154061&caId=22406&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31096&aId=154061&caId=22406&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31096&aId=154061&caId=22406&tId=4)
 
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Thu 03/16 08:00 AM - Labor & Commerce (LC): SHB 1200 Employee information/unions
 #### 27 👍 - Pro
 
 #### 0 👎 - Con

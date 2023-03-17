@@ -17,7 +17,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31081&aId=153729&caId=22340&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31081&aId=153729&caId=22340&tId=4)
 
-#### 0 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* Scott Andrews - [Audubon Washington](/org/audubon_washington/)
 
 #### 0 👎 - Con
 

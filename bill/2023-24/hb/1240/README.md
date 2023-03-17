@@ -29,9 +29,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153556&caId=22286&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153556&caId=22286&tId=4)
 
-#### 4 👍 - Pro
+#### 91 👍 - Pro
+Testifying:
+* Gwen Loosmore
+* Steve Albrecht
 
-#### 596 👎 - Con
+#### 1935 👎 - Con
 Testifying:
 * Jeffrey Slotnick - Setracon Inc.
 * Eric pratt - I, America
@@ -39,8 +42,13 @@ Testifying:
 * Laurie Layne
 * Julie Barrett - Conservative Ladies of Washington
 * Matt Page
+* Teo Morca
+* Matthew Sharp
+* CHRISTORFER HOOVER
+* James Fisher
+* Benjamin Gallon
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
 
 ### Tue 01/17 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1240 Firearms/assault weapons
 #### 1035 👍 - Pro

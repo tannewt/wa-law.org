@@ -3,7 +3,7 @@
 ## [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority 👍1  
 * 👍💵 Leah Missik
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
 * 👍💵 Leah Missik
 
 ## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget 👍1  
@@ -36,7 +36,8 @@
 
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍3  
 
-## [HB 1416](/bill/2023-24/hb/1416/) - Consumer-owned utilities 👍1  
+## [HB 1416](/bill/2023-24/hb/1416/) - Consumer-owned utilities 👍2  
+* 👍💵 Kelly Hall
 
 ## [HB 1505](/bill/2023-24/hb/1505/) - Alternative jet fuel   ❓1
 * ❓💵 Leah Missik

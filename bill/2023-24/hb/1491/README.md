@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Thu 03/16 08:00 AM - Labor & Commerce (LC): 2SHB 1491 Employee personal vehicles
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153149&caId=22156&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153149&caId=22156&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153149&caId=22156&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30982&aId=153149&caId=22156&tId=4)
-
-#### 99 👍 - Pro
+#### 106 👍 - Pro
 Testifying:
 * Blake Williams
 * Chase Fick

@@ -12,7 +12,7 @@
 
 ## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍1  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍2  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍3  
 
 ## [HB 1278](/bill/2023-24/hb/1278/) - Nonrelative kin placement 👍1  
 
@@ -39,7 +39,9 @@
 
 ## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍1  
 
-## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍2  
+## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍3  
+
+## [HB 1658](/bill/2023-24/hb/1658/) - Work experience/H.S. credit 👍1  
 
 ## [HB 1679](/bill/2023-24/hb/1679/) - Student homelessness group 👍1  
 * 👍💵 Juliet Schindler
@@ -66,7 +68,7 @@
 
 ## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍2  
 
-## [SB 5280](/bill/2023-24/sb/5280/) - Clergy/child abuse reporting 👍2  
+## [SB 5280](/bill/2023-24/sb/5280/) - Clergy/child abuse reporting 👍3  
 
 ## [SB 5305](/bill/2023-24/sb/5305/) - Office of career connect WA 👍1  
 
@@ -74,7 +76,7 @@
 
 ## [SB 5426](/bill/2023-24/sb/5426/) - Family connections program 👍1  
 
-## [SB 5438](/bill/2023-24/sb/5438/) - Supportive relationships 👍1  
+## [SB 5438](/bill/2023-24/sb/5438/) - Supportive relationships 👍2  
 
 ## [SB 5515](/bill/2023-24/sb/5515/) - Child abuse and neglect 👍3  
 

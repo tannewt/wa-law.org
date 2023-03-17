@@ -29,14 +29,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153555&caId=22285&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153555&caId=22285&tId=4)
 
-#### 1 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Gwen Loosmore - Washington State PTA
 
-#### 47 👎 - Con
+#### 361 👎 - Con
 Testifying:
 * Eric pratt - I, America
 * C Davis - Washingtonians to Recall Inslee
 * Julie Barrett - Conservative Ladies of Washington
 * Laurie Layne
+* Teo Morca
+* Sean Erickson
 
 #### 1 ❓ - Other
 

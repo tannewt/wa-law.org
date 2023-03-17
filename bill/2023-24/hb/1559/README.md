@@ -13,6 +13,21 @@
 * [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=HB 1559)
 
 ## Meetings
+### Tue 03/21 04:00 PM - Ways & Means (WM): 2SHB 1559 Postsecondary student needs
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154106&caId=22416&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154106&caId=22416&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154106&caId=22416&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154106&caId=22416&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* Bryce McKibben - The Hope Center for College, Community, and Justice
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/23 09:00 AM - Appropriations (APP): SHB 1559 Postsecondary student needs
 #### 243 👍 - Pro
 Testifying:

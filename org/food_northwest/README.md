@@ -9,6 +9,8 @@
 ## [HB 1573](/bill/2023-24/hb/1573/) - Dairy, etc. tax preferences 👍1  
 * 👍 Craig Smith
 
+## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy  👎1 
+
 ## [HB 1644](/bill/2023-24/hb/1644/) - Margin tax  👎1 
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management  👎1 

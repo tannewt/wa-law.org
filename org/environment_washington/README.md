@@ -11,7 +11,13 @@
 ## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍1  
 * 👍 Pam Clough
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍1  
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍2  
+
+## [HB 1392](/bill/2023-24/hb/1392/) - Electronics repair 👍1  
+
+## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍1  
+
+## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy 👍1  
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management 👍1  
 * 👍 Pam Clough

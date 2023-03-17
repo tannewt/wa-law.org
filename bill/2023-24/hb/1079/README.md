@@ -9,20 +9,14 @@
 
 ## Meetings
 ### Thu 03/16 10:30 AM - Health & Long Term Care (HLTC): SHB 1079 Whole genome sequencing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30976&aId=153134&caId=22165&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30976&aId=153134&caId=22165&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30976&aId=153134&caId=22165&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30976&aId=153134&caId=22165&tId=4)
-
-#### 13 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Carolina Sommer - Born a Hero, Research Foundation and NW Rare Disease Coalition
 * Lindsey Topping-Schuetz - NW Rare Disease Coalition
 * Sarah Tompkins - NW Rare Disease Coalition
 * Jessie Conta
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

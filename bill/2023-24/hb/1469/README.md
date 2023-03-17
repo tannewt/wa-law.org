@@ -18,13 +18,7 @@
 
 ## Meetings
 ### Thu 03/16 08:00 AM - Law & Justice (LAW): ESHB 1469 Health care services/access
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30943&aId=152932&caId=22160&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30943&aId=152932&caId=22160&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30943&aId=152932&caId=22160&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30943&aId=152932&caId=22160&tId=4)
-
-#### 806 👍 - Pro
+#### 885 👍 - Pro
 Testifying:
 * 💵Kristin Ang - Faith Action Network (FAN)
 * 💵Kristin Ang - Kristin Ang
@@ -35,13 +29,15 @@ Testifying:
 * Cara Winter
 * Dr. Crystal Beal - QueerDoc
 * Dr. Annie Iriye - American College of Obstetricians and Gynecologists
+* Jaxtyn Osborn
 * Danni Askini - Gender Justice League
 
-#### 1111 👎 - Con
+#### 1586 👎 - Con
 Testifying:
 * Beth Daranciang
 * Oli London
 * Team Freedom
+* Theresa Shirley - Team Freedom
 * Debra Parnham
 * Julie Barrett - Conservative Ladies of Washington
 * Alex Chrostowski - Gays Against Groomers
@@ -60,11 +56,17 @@ Testifying:
 * Steve Chilson
 * Lois Wenzek
 * Lois Wenzek
+* Eric pratt - America
+* 💵Brad Payne - Family Policy Institute of Washington
 * Jennifer Heine-Withee - Family Policy Institute of Washington
+* MarieLuise Maimone
 * Sarah Davenport-Smith - Human Life of WA
 * Johanna Stroud
 * Susan Willis - 3012 W. LACROSSE AVE
+* Peterson Leslie
 * Nikki Burnett
+* suzanne rohner
+* Jeffrey Denison
 
 #### 4 ❓ - Other
 Testifying:

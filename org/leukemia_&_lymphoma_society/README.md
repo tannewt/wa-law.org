@@ -5,7 +5,7 @@
 
 ## [HB 1357](/bill/2023-24/hb/1357/) - Prior authorization/health 👍3  
 
-## [HB 1745](/bill/2023-24/hb/1745/) - Diversity in clinical trials 👍3  
+## [HB 1745](/bill/2023-24/hb/1745/) - Diversity in clinical trials 👍4  
 * 👍💵 Adam Zarrin
 * 👍💵 Erin Dziedzic
 
@@ -18,6 +18,6 @@
 
 ## [SB 5338](/bill/2023-24/sb/5338/) - Essential health benefits 👍2  
 
-## [SB 5388](/bill/2023-24/sb/5388/) - Diversity in clinical trials 👍3  
+## [SB 5388](/bill/2023-24/sb/5388/) - Diversity in clinical trials 👍4  
 * 👍💵 Adam Zarrin
 * 👍💵 Adam Zarrin

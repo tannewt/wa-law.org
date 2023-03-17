@@ -15,7 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31010&aId=153575&caId=22198&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31010&aId=153575&caId=22198&tId=4)
 
-#### 43 👍 - Pro
+#### 51 👍 - Pro
+Testifying:
+* 💵Betty Buckley - Washington Independent Telecommunications Asso.
+* Mike Oblizalo - Hood Canal Communications
 
 #### 0 👎 - Con
 

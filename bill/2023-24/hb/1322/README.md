@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Thu 03/16 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): 2SHB 1322 Walla Walla water 2050 plan
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30996&aId=153272&caId=22169&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30996&aId=153272&caId=22169&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30996&aId=153272&caId=22169&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30996&aId=153272&caId=22169&tId=4)
-
-#### 31 👍 - Pro
+#### 36 👍 - Pro
 Testifying:
 * Mark Wagoner - Gardena Farms Irrigation District
 * Dave Christensen - Washington Department of Ecology

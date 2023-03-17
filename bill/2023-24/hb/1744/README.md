@@ -18,7 +18,9 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Liv Finne - Washington Policy Center
 
 #### 0 ❓ - Other
 

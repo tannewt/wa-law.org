@@ -19,9 +19,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30981&aId=153530&caId=22211&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30981&aId=153530&caId=22211&tId=4)
 
-#### 101 👍 - Pro
+#### 132 👍 - Pro
+Testifying:
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* Bill Kramer - Purchaser Business Group on Health
+* 💵Erica Hallock - WA State Nurses Association
+* Jim Freeburg - Patient Coalition of Washington
+* Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 
-#### 5 👎 - Con
+#### 17 👎 - Con
+Testifying:
+* 💵Katherine Mahoney - [Virginia Mason Franciscan Health](/org/virginia_mason_franciscan_health/)
+* Katie Kolan - Washington State Hospital Association
+* Allison Bailey - MultiCare Health System
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
 #### 2 ❓ - Other
 Testifying:
