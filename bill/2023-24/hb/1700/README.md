@@ -15,11 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31118&aId=153917&caId=22301&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31118&aId=153917&caId=22301&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Brent Chapman - Washington State Department of Enterprise Services
 
 ### Tue 02/14 01:30 PM - State Government & Tribal Relations (SGOV): HB 1700 Eastern Washington memorial
 #### 3 👍 - Pro

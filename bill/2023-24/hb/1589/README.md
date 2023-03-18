@@ -15,13 +15,7 @@
 
 ## Meetings
 ### Fri 03/17 08:00 AM - Environment, Energy & Technology (ENET): ESHB 1589 Clean energy
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31007&aId=153577&caId=22214&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31007&aId=153577&caId=22214&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31007&aId=153577&caId=22214&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31007&aId=153577&caId=22214&tId=4)
-
-#### 93 👍 - Pro
+#### 98 👍 - Pro
 Testifying:
 * Anna Lising - Governor's Office
 * Dave Danner - Utilities & Transportation Commission
@@ -31,7 +25,7 @@ Testifying:
 * 💵Isaac Kastama - Clean & Prosperous Washington
 * Ken Johnson - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 
-#### 581 👎 - Con
+#### 624 👎 - Con
 Testifying:
 * 💵Ryan Kenny - [Clean Energy](/org/clean_energy/)
 * Oliver Bangera - Bangera Restaurant Group
@@ -57,14 +51,19 @@ Testifying:
 * 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Scott Hazelgrove - Master Builders of King and Snohomish Counties
 * 💵Spencer Gray - Northwest & Intermountain Power Producers Coalition
+* Rod Kauffman - BOMA
 
-#### 11 ❓ - Other
+#### 17 ❓ - Other
 Testifying:
 * Yochi Zakai - The Energy Project
 * 💵John Seng - [Spark Northwest](/org/spark_northwest/)
 * Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * Charlie Brown - NW Natural & Cascade Natural Gas
+* 💵Kelly Hall - [Climate Solutions](/org/climate_solutions/)
+* Kiki Velez - Natural Resources Defense Council (NRDC)
+* Lauren McCloy - NW Energy Coalition
 * 💵Nicolas Garcia - WPUDA
+* Jessica Niekrasz - American Biogas Council
 
 ### Wed 03/15 08:00 AM - Environment, Energy & Technology (ENET): ESHB 1589 Clean energy
 #### 11 👍 - Pro

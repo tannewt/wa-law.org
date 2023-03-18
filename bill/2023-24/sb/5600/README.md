@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Fri 03/17 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): SSB 5600 Universal communications prg
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31010&aId=153575&caId=22198&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31010&aId=153575&caId=22198&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31010&aId=153575&caId=22198&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31010&aId=153575&caId=22198&tId=4)
-
-#### 51 👍 - Pro
+#### 56 👍 - Pro
 Testifying:
 * 💵Betty Buckley - Washington Independent Telecommunications Asso.
 * Mike Oblizalo - Hood Canal Communications

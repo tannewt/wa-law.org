@@ -16,13 +16,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31069&aId=153688&caId=22271&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31069&aId=153688&caId=22271&tId=4)
 
-#### 40 👍 - Pro
+#### 62 👍 - Pro
 Testifying:
 * JC Harris - SeaTacNoise.Info
+* 💵Davor Gjurasic - [Nisqually Indian Tribe](/org/nisqually_indian_tribe/)
+* Bennett Butters
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Brian Jarrell
 
 ### Thu 02/16 04:00 PM - Transportation (TR): HB 1791 Commercial aviation services
 #### 147 👍 - Pro

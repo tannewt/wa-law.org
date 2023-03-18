@@ -18,6 +18,8 @@
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
 
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍1  
+
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
 
 ## [HB 1517](/bill/2023-24/hb/1517/) - Transit-oriented development 👍1  
@@ -26,7 +28,11 @@
 ## [HB 1723](/bill/2023-24/hb/1723/) - GMA/equity and env. justice 👍1  
 * 👍💵 Bryce Yadon
 
+## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services  👎1 
+
 ## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services 👍1  
+
+## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍1  
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍5  
 

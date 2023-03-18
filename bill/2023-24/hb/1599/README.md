@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153553&caId=22283&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153553&caId=22283&tId=4)
 
-#### 2 👍 - Pro
+#### 5 👍 - Pro
 
-#### 38 👎 - Con
+#### 70 👎 - Con
 Testifying:
 * Eric pratt - I, America
 * Bruce Harris
+* Dale Johnson
 
 #### 0 ❓ - Other
 

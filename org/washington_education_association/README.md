@@ -255,7 +255,7 @@
 
 ## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍1  
 
-## [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information 👍3  
+## [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information 👍4  
 * 👍💵 Simone Boe
 * 👍💵 Simone Boe
 

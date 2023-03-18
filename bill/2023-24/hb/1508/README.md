@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Fri 03/17 08:00 AM - Health & Long Term Care (HLTC): ESHB 1508 Health care cost board
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30981&aId=153530&caId=22211&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30981&aId=153530&caId=22211&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30981&aId=153530&caId=22211&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30981&aId=153530&caId=22211&tId=4)
-
-#### 132 👍 - Pro
+#### 136 👍 - Pro
 Testifying:
 * 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 * Bill Kramer - Purchaser Business Group on Health
@@ -27,12 +21,14 @@ Testifying:
 * Jim Freeburg - Patient Coalition of Washington
 * Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 
-#### 17 👎 - Con
+#### 32 👎 - Con
 Testifying:
 * 💵Katherine Mahoney - [Virginia Mason Franciscan Health](/org/virginia_mason_franciscan_health/)
 * Katie Kolan - Washington State Hospital Association
 * Allison Bailey - MultiCare Health System
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* MD, Mika Sinanan
+* 💵Sean Graham - Washington State Medical Association
 
 #### 2 ❓ - Other
 Testifying:

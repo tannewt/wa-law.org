@@ -20,7 +20,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=153740&caId=22332&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=153740&caId=22332&tId=4)
 
-#### 3 👍 - Pro
+#### 22 👍 - Pro
+Testifying:
+* Austin Slater
+* Candis Hannah - ORION WATCH COMMUNITY OUTREACH PROGRAMS
+* JD Barton - ORION WATCH COMMUNITY OUTREACH PROGRAMS
+* James Rocha - ORION WATCH COMMUNITY OUTREACH PROGRAMS
+* Kyra Slater - Innovations HTC
+* Michael Edwards - Oly Construction LLC
+* Michael Robinson
+* Christopher Poulos - Center for Justice and Human Dignity
 
 #### 0 👎 - Con
 

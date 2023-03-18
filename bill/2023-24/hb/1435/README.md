@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Fri 03/17 08:00 AM - Health & Long Term Care (HLTC): SHB 1435 Home care safety net assess.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30981&aId=153145&caId=22175&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30981&aId=153145&caId=22175&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30981&aId=153145&caId=22175&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30981&aId=153145&caId=22175&tId=4)
-
-#### 9 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * 💵Alexa Silver - Consumer Direct of Washington
 * 💵Madeleine Foutch - SEIU 775

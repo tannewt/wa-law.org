@@ -17,13 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=153739&caId=22331&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=153739&caId=22331&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
+* Cody Reiter - Attorney General's Office
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jason Lantz - Washington Association of Criminal Defense Lawyers and Washington Defender Association
 
 ### Mon 02/13 04:00 PM - Ways & Means (WM): SB 5032 DUI lookback & sentencing
 #### 12 👍 - Pro

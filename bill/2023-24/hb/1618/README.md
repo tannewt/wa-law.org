@@ -16,9 +16,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31040&aId=153547&caId=22260&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31040&aId=153547&caId=22260&tId=4)
 
-#### 3 👍 - Pro
+#### 15 👍 - Pro
+Testifying:
+* Christene Hansen
+* Kathryn Robb - CHILD USAdvocacy
+* Michelle Bart - National Women's Coalition Against Violence & Exploitation (NWCAVE)
+* Mary Ellen Stone - King County Sexual Assault Resource Center
 
-#### 1 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Cary Silverman - American Tort Reform Association
 
 #### 1 ❓ - Other
 Testifying:

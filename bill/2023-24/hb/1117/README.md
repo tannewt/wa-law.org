@@ -9,20 +9,14 @@
 
 ## Meetings
 ### Fri 03/17 08:00 AM - Environment, Energy & Technology (ENET): SHB 1117 Power supply inadequacy
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31007&aId=153266&caId=22171&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31007&aId=153266&caId=22171&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31007&aId=153266&caId=22171&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31007&aId=153266&caId=22171&tId=4)
-
-#### 31 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * 💵Dave Warren - Klickitat PUD
 * Jim Smith - Public Utility District #1 of Klickitat County
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Nicolas Garcia - WPUDA
 
-#### 78 👎 - Con
+#### 79 👎 - Con
 
 #### 0 ❓ - Other
 

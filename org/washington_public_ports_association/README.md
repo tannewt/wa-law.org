@@ -16,6 +16,8 @@
 
 ## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget   ❓1
 
+## [HB 1175](/bill/2023-24/hb/1175/) - Petroleum storage tanks 👍1  
+
 ## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍3  
 * 👍 Eric ffitch
 * 👍 Eric ffitch
@@ -70,7 +72,7 @@
 * 👍 Chris Herman
 * 👍 Chris Herman
 
-## [HB 1753](/bill/2023-24/hb/1753/) - Derelict vessel notices 👍1  
+## [HB 1753](/bill/2023-24/hb/1753/) - Derelict vessel notices 👍2  
 
 ## [HB 1767](/bill/2023-24/hb/1767/) - Federal funding opps. 👍1  
 
@@ -79,8 +81,9 @@
 
 ## [HB 1787](/bill/2023-24/hb/1787/) - Transport and delivery 👍1  
 
-## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services  👎2 
+## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1 👎2 
 * 👎 Eric ffitch
+* 👍💵 John Stuhlmiller
 
 ## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services 👍1  
 

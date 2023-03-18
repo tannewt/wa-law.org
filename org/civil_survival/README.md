@@ -1,6 +1,6 @@
 # Civil Survival
 
-## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍1  
+## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍2  
 
 ## [HB 1432](/bill/2023-24/hb/1432/) - Juvenile justice 👍1  
 * 👍💵 Kelly Olson

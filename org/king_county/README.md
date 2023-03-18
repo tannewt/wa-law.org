@@ -39,8 +39,9 @@
 * 👍 Pat McLaughlin
 * 👍 Pat McLaughlin
 
-## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
+## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍2  
 * 👍 Kelly Rider
+* 👍 Sarah Perry
 
 ## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍3  
 
@@ -459,7 +460,8 @@
 
 ## [SB 5526](/bill/2023-24/sb/5526/) - Nursing facility rates 👍2  
 
-## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  
+## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  ❓1
+* ❓💵 Michael White
 
 ## [SB 5547](/bill/2023-24/sb/5547/) - Nursing pool transparency 👍1  
 

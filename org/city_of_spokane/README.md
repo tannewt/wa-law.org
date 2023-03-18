@@ -22,6 +22,8 @@
 * ❓ Marlene Feist
 * ❓ Marlene Feist
 
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
+
 ## [HB 1575](/bill/2023-24/hb/1575/) - Cultural access programs/tax 👍1  
 
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍3  

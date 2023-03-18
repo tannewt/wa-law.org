@@ -21,7 +21,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31115&aId=153904&caId=22238&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31115&aId=153904&caId=22238&tId=4)
 
-#### 20 👍 - Pro
+#### 123 👍 - Pro
+Testifying:
+* Dr. Gwen Loosmore - Washington State PTA
 
 #### 0 👎 - Con
 

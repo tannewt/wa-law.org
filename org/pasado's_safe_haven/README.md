@@ -11,7 +11,7 @@
 
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
 
-## [HB 1424](/bill/2023-24/hb/1424/) - Dogs and cats/consumers 👍1  
+## [HB 1424](/bill/2023-24/hb/1424/) - Dogs and cats/consumers 👍2  
 * 👍💵 Brooke Davies
 
 ## [HB 1634](/bill/2023-24/hb/1634/) - Residential insurance 👍1  

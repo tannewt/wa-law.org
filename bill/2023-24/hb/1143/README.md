@@ -30,11 +30,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153555&caId=22285&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153555&caId=22285&tId=4)
 
-#### 6 👍 - Pro
+#### 63 👍 - Pro
 Testifying:
 * Gwen Loosmore - Washington State PTA
+* Jeff Ketchel - [Washington State Public Health Association](/org/washington_state_public_health_association/)
 
-#### 361 👎 - Con
+#### 630 👎 - Con
 Testifying:
 * Eric pratt - I, America
 * C Davis - Washingtonians to Recall Inslee
@@ -42,6 +43,12 @@ Testifying:
 * Laurie Layne
 * Teo Morca
 * Sean Erickson
+* Dale Johnson
+* Dale Johnson
+* Matt Page
+* Chris Chappell
+* Steven Larsen
+* Michael McKinley
 
 #### 1 ❓ - Other
 

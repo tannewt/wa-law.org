@@ -21,9 +21,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31116&aId=153910&caId=22269&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31116&aId=153910&caId=22269&tId=4)
 
-#### 0 👍 - Pro
+#### 34 👍 - Pro
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Rob Curley - The Spokesman-Review newspaper
+* Joe Kunzler - None
 
 #### 0 ❓ - Other
 

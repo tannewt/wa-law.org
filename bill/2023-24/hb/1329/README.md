@@ -16,7 +16,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31063&aId=153668&caId=22266&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31063&aId=153668&caId=22266&tId=4)
 
-#### 9 👍 - Pro
+#### 56 👍 - Pro
+Testifying:
+* Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Ruth Sawyer - [Sierra Club](/org/sierra_club/)
+* 💵Logan Bahr - [Tacoma Public Utilities](/org/tacoma_public_utilities/)
+* Maggie Yuse - Seattle Public Utilities and Seattle City Light
+* Ryan Collins - Snohomish County PUD
 
 #### 0 👎 - Con
 

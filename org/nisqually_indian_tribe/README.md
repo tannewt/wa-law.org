@@ -4,7 +4,8 @@
 
 ## [HB 1720](/bill/2023-24/hb/1720/) - Riparian grant program 👍1  
 
-## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services 👍1  
+## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services 👍2  
+* 👍💵 Davor Gjurasic
 * 👍💵 Davor Gjurasic
 
 ## [SB 5324](/bill/2023-24/sb/5324/) - Defense compatibility acct. 👍2  

@@ -14,19 +14,28 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154025&caId=22310&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154025&caId=22310&tId=4)
 
-#### 3 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Tonia McClanahan
 * Shelly Willis - Executive Director
+* Alexandra Deas - [Equal Justice Coalition](/org/equal_justice_coalition/)
+* Cesar Torres - Northwest Justice Project
+* Drayton Jackson - Foundation for Homeless & Poverty Management/Communities of Concern Commission
+* Harald Hyllseth - Chief Seattle Club/Communities of Concern Commission
+* Josephine Tamayo Murray - Communities of Concern Commission
+* Mike Tulee - United Indians of All Tribes Foundation/Communities of Concern Commission
 
 #### 0 👎 - Con
 
-#### 3 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Jim Bamberger - Office of Civil Legal Aid
 * Kimberly Nyland
 * 💵Jorge Baron - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
+* Jessi Wasson - Inspire Washington
+* Manuel R. Cawaling - Inspire Washington
+* 💵Courtney Williams - [Community Employment Alliance](/org/community_employment_alliance/)
 
 ### Fri 03/24 02:00 PM - Ways & Means (WM): PSSB 5187: Early learning. (Remote Testimony Available).
 Sign up to testify:
@@ -39,7 +48,10 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Colleen Condon - Washington Communities for Children
+* Rachel Hall - Washington Communities for Children
 
 ### Fri 03/24 02:00 PM - Ways & Means (WM): PSSB 5187: Employee compensation. (Remote Testimony Available).
 Sign up to testify:
@@ -74,16 +86,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154023&caId=22308&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154023&caId=22308&tId=4)
 
-#### 4 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Sam Martin - Washington Coalition on Homeless Youth Advocacy
 * Julie Patino - A Way Home Washington
 * Jo Bechtold - [The Mockingbird Society](/org/the_mockingbird_society/)
 * Carlos Caguiat - The Washington Continuing Care Residents' Association
+* Demas Nesterenko - SEIU775
+* Kimberly Hickman - WACCRA
+* 💵Rose Feliciano - Catholic Charities Eastern Washington
+* 💵Brad Forbes - Alzheimer's Association
+* Jennifer Ranney - The Arc of Spokane
+* Kenneth Larson
 
 #### 0 👎 - Con
 
-#### 18 ❓ - Other
+#### 21 ❓ - Other
 Testifying:
 * Laurie Lippold - Partners for Our Children
 * Jim Theofelis - NorthStar Advocates
@@ -103,6 +121,9 @@ Testifying:
 * Tonja Myers
 * Jacqueline Kinley - Unified Residential Care and Main Residential Care
 * 💵Stacy Dym - The Arc of Washington State
+* 💵Emily Stone - WA State Coalition Against Domestic Violence
+* 💵Patricia Hunter - WA State Long Term Care Ombuds
+* Shawn Latham - Allies in Advocacy
 
 ### Fri 03/24 02:00 PM - Ways & Means (WM): PSSB 5187: K-12 public schools. (Remote Testimony Available).
 Sign up to testify:
@@ -115,10 +136,11 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
+* Jon Holmen - Lake Washington School District
 
 ### Fri 03/24 02:00 PM - Ways & Means (WM): PSSB 5187: Mental health. (Remote Testimony Available).
 Sign up to testify:

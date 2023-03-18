@@ -62,7 +62,7 @@
 ## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍2  
 * 👍💵 Megan Veith
 
-## [SB 5581](/bill/2023-24/sb/5581/) - Maternal support services 👍2  
+## [SB 5581](/bill/2023-24/sb/5581/) - Maternal support services 👍3  
 * 👍💵 Megan Veith
 
 ## [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth 👍1  

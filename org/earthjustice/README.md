@@ -16,6 +16,8 @@
 ## [HB 1554](/bill/2023-24/hb/1554/) - Lead impacts 👍2  
 * 👍 Eric Gonzalez Alfaro
 
+## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy   ❓1
+
 ## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍1  
 
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍1  

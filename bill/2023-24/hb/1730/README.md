@@ -18,7 +18,7 @@ Sign up to testify:
 Testifying:
 * 💵Riley Smith - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -21,7 +21,10 @@ Sign up to testify:
 Testifying:
 * Burl Bryson - The Cannabis Alliance
 
-#### 0 👎 - Con
+#### 7 👎 - Con
+Testifying:
+* Mike Asai - Black Excellence In Cannabis
+* Peter Manning - Black Excellence In Cannabis
 
 #### 0 ❓ - Other
 

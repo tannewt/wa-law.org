@@ -11,6 +11,19 @@
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [Legislative Priorities | WA - DNR](https://www.dnr.wa.gov/about/legislative#:~:text=HB 1460)
 
 ## Meetings
+### Thu 03/23 04:00 PM - Ways & Means (WM): SHB 1460 DNR land
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154169&caId=22434&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154169&caId=22434&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154169&caId=22434&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154169&caId=22434&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 03/09 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SHB 1460 DNR land
 #### 508 👍 - Pro
 Testifying:

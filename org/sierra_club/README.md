@@ -10,7 +10,8 @@
 ## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍2  
 * 👍 Robin Everett
 
-## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍3  
+## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍4  
+* 👍 Ruth Sawyer
 * 👍 Ruth Sawyer
 * 👍 Ruth Sawyer
 

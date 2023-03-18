@@ -24,7 +24,7 @@
 
 ## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍3  
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍4  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍5  
 * 👍💵 Terique Scott
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍2  

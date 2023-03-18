@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Fri 03/17 10:30 AM - Labor & Workplace Standards (LAWS): SSB 5156 Farm internship program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31024&aId=153334&caId=22048&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31024&aId=153334&caId=22048&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31024&aId=153334&caId=22048&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31024&aId=153334&caId=22048&tId=4)
-
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 
 #### 0 👎 - Con
 

@@ -23,9 +23,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31039&aId=153542&caId=22229&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31039&aId=153542&caId=22229&tId=4)
 
-#### 18 👍 - Pro
+#### 66 👍 - Pro
 Testifying:
 * Blair Daly
+* Councilwoman Charlene Tillequots - Yakama Nation Tribal Council
+* Adaora Ugwueze - [The Washington Bus](/org/the_washington_bus/)
+* Annie Forsman-Adams - WA State Attorney General's Office
+* Andrew Guillen - Seattle Indian Health Board
+* Adaora Ugwueze
+* Leydi Hernandez Quiros
 
 #### 0 👎 - Con
 

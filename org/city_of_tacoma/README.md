@@ -30,7 +30,7 @@
 
 ## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍1  
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍3  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍4  
 * 👍 Mayor Victoria Woodards
 * 👍 Councilmember Kiara Daniels
 

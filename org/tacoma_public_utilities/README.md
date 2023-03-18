@@ -3,6 +3,9 @@
 ## [HB 1192](/bill/2023-24/hb/1192/) - Electric transm. planning 👍1  
 * 👍💵 Logan Bahr
 
+## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
+* 👍💵 Logan Bahr
+
 ## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍2  
 
 ## [SB 5091](/bill/2023-24/sb/5091/) - Hydrogen fuel products 👍1  

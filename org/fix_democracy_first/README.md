@@ -157,7 +157,7 @@
 
 ## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍1  
 
-## [SB 5102](/bill/2023-24/sb/5102/) - School library info and tech 👍2  
+## [SB 5102](/bill/2023-24/sb/5102/) - School library info and tech 👍3  
 
 ## [SB 5105](/bill/2023-24/sb/5105/) - Digital driver's licenses  👎1 
 

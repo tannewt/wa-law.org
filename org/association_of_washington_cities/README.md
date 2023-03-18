@@ -35,9 +35,11 @@
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍2  
 * 👍💵 Carl Schroeder
 
-## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
+## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍2  
 
 ## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍1  
+
+## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations   ❓1
 
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
 
@@ -81,8 +83,9 @@
 ## [HB 1326](/bill/2023-24/hb/1326/) - Utility connection charges 👍1  
 * 👍 Brandy DeLange
 
-## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat   ❓1
+## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  ❓1
 * ❓ Brandy DeLange
+* 👍 Brandy DeLange
 
 ## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units  👎2 
 * 👎💵 Carl Schroeder
@@ -120,7 +123,7 @@
 
 ## [HB 1468](/bill/2023-24/hb/1468/) - Impact fee deferrals 👍1  
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍3  
 * 👍💵 Carl Schroeder
 * 👍💵 Carl Schroeder
 
@@ -180,6 +183,8 @@
 * ❓ Brandy DeLange
 
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍2  
+
+## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment 👍1  
 
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍1  
 
@@ -322,10 +327,11 @@
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
-## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍3  
+## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍4  
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
+* 👍💵 Lindsey Hueer
 
 ## [SB 5539](/bill/2023-24/sb/5539/) - Tax increment financing 👍2  
 * 👍💵 Candice Bock
@@ -334,9 +340,9 @@
 
 ## [SB 5577](/bill/2023-24/sb/5577/) - Capital broadband program 👍1  
 
-## [SB 5586](/bill/2023-24/sb/5586/) - Paid leave data 👍1  
+## [SB 5586](/bill/2023-24/sb/5586/) - Paid leave data 👍2  
 
-## [SB 5606](/bill/2023-24/sb/5606/) - Illegal racing 👍1  
+## [SB 5606](/bill/2023-24/sb/5606/) - Illegal racing 👍2  
 
 ## [SB 5609](/bill/2023-24/sb/5609/) - Housing approval  👎2 
 * 👎💵 Carl Schroeder

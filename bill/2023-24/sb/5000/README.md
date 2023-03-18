@@ -17,21 +17,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31108&aId=153856&caId=22394&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31108&aId=153856&caId=22394&tId=4)
 
-#### 32 👍 - Pro
+#### 42 👍 - Pro
 Testifying:
 * Vivian Dong
 * 💵Kendall Kosai - Commission on Asian Pacific American Affairs
 * Lei Zhang
 * Xiao Liang
 * Fushan Chen
+* Zhengxiao Li
 * Chu Chen
 * Jun Ma
 * Yongsheng Sun
 * Eric Zhuang
+* Sea Chan - Chinese American Veterans, Cathy Post 186, CACA
+* Sharon Chang - NA
+* Shu-Fen Tang - n/a
+* Fei Tian
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/10 01:30 PM - State Government & Elections (SGE): SB 5000 Americans of Chinese descent
 #### 0 👍 - Pro

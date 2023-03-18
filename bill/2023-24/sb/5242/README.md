@@ -16,13 +16,7 @@
 
 ## Meetings
 ### Fri 03/17 08:00 AM - Health Care & Wellness (HCW): SB 5242 Abortion cost sharing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30992&aId=153202&caId=22018&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30992&aId=153202&caId=22018&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30992&aId=153202&caId=22018&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30992&aId=153202&caId=22018&tId=4)
-
-#### 425 👍 - Pro
+#### 433 👍 - Pro
 Testifying:
 * Claire Cunningham
 * Ja Beyer - Off
@@ -32,7 +26,7 @@ Testifying:
 * Terra Compton
 * Hilary Whitmore
 
-#### 798 👎 - Con
+#### 888 👎 - Con
 Testifying:
 * Theresa Schrempp
 * Laurie Layne

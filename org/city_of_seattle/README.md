@@ -10,7 +10,7 @@
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
 * 👍 Rico Quirindongo
 * 👍 Tiffany Washington
 
@@ -153,7 +153,7 @@
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
 
-## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍1  
+## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍2  
 
 ## [SB 5247](/bill/2023-24/sb/5247/) - Climate-ready communities 👍1  
 

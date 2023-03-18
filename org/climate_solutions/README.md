@@ -46,7 +46,8 @@
 
 ## [HB 1526](/bill/2023-24/hb/1526/) - Electrical inspector salary 👍1  
 
-## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy   ❓1
+## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy   ❓2
+* ❓💵 Kelly Hall
 * ❓💵 Kelly Hall
 
 ## [HB 1619](/bill/2023-24/hb/1619/) - Renewable energy resources   ❓1

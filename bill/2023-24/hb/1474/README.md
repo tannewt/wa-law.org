@@ -16,13 +16,7 @@
 
 ## Meetings
 ### Fri 03/17 10:30 AM - Housing (HSG): 2SHB 1474 Covenant homeownership prg.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30985&aId=153168&caId=22178&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30985&aId=153168&caId=22178&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30985&aId=153168&caId=22178&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30985&aId=153168&caId=22178&tId=4)
-
-#### 644 👍 - Pro
+#### 673 👍 - Pro
 Testifying:
 * Darryl Smith - HomeSight
 * Corinna Obar - Washington State Housing Finance Commiss
@@ -34,8 +28,10 @@ Testifying:
 * Michael Dotson - Banner Bank
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Lacey Jane Wolfe - [City of Bellevue](/org/city_of_bellevue/)
+* 💵Nathan Gorton - Washington REALTORS
+* QUINTARD TAYLOR - BlackPast.org
 
-#### 192 👎 - Con
+#### 300 👎 - Con
 
 #### 2 ❓ - Other
 

@@ -6,7 +6,8 @@
 
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍3  
 
-## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍3  
+## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍4  
+* 👍 Jeff Ketchel
 
 ## [HB 1144](/bill/2023-24/hb/1144/) - Firearms/purchase & transfer 👍1  
 

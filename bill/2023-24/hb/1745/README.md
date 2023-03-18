@@ -10,16 +10,11 @@
 
 ## Meetings
 ### Fri 03/17 08:00 AM - Health & Long Term Care (HLTC): 2SHB 1745 Diversity in clinical trials
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30981&aId=153529&caId=22210&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30981&aId=153529&caId=22210&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30981&aId=153529&caId=22210&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30981&aId=153529&caId=22210&tId=4)
-
-#### 26 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * Tamara Clough - [American Cancer Society Cancer Action Network](/org/american_cancer_society_cancer_action_network/)
 * Yvette Mercer - National MS Society
+* Bryan Yambe’ - Pacific Islander Health Board of Washington
 
 #### 0 👎 - Con
 

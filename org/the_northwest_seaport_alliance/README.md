@@ -2,7 +2,7 @@
 
 ## [HB 1058](/bill/2023-24/hb/1058/) - Commercial driver's licenses 👍1  
 
-## [HB 1371](/bill/2023-24/hb/1371/) - Freight railroad infra. 👍1  
+## [HB 1371](/bill/2023-24/hb/1371/) - Freight railroad infra. 👍2  
 
 ## [HB 1540](/bill/2023-24/hb/1540/) - Driver training/large veh. 👍1  
 

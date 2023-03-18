@@ -21,11 +21,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31035&aId=153446&caId=22236&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31035&aId=153446&caId=22236&tId=4)
 
-#### 16 👍 - Pro
+#### 27 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1578 Wildland fire safety
 #### 93 👍 - Pro

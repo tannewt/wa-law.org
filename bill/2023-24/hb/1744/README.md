@@ -16,7 +16,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31117&aId=153914&caId=22279&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31117&aId=153914&caId=22279&tId=4)
 
-#### 0 👍 - Pro
+#### 22 👍 - Pro
+Testifying:
+* Catherine Ahl - League of Women Voters of WA
 
 #### 1 👎 - Con
 Testifying:

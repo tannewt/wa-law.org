@@ -13,15 +13,10 @@
 
 ## Meetings
 ### Fri 03/17 10:30 AM - Labor & Workplace Standards (LAWS): 2SSB 5454 RN PTSD/industrial insurance
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31024&aId=153336&caId=22050&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31024&aId=153336&caId=22050&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31024&aId=153336&caId=22050&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31024&aId=153336&caId=22050&tId=4)
-
-#### 129 👍 - Pro
+#### 136 👍 - Pro
 Testifying:
 * 💵Katharine Weiss - Washington State Nurses Association
+* 💵Lindsey Grad - SEIU 1199 NW
 
 #### 1 👎 - Con
 

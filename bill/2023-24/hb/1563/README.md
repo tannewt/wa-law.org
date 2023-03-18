@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31095&aId=153787&caId=22224&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31095&aId=153787&caId=22224&tId=4)
 
-#### 8 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Burl Bryson - The Cannabis Alliance
 * Steven Field
@@ -23,8 +23,9 @@ Testifying:
 * RN, OCN, Lisa Buchanan
 * Steven Field - MS patient
 * Burl Bryson - The Cannabis Alliance
+* john Worthington - AAMC
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

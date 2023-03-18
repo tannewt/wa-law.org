@@ -1,12 +1,14 @@
 # Washington Roundtable
 
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
+
 ## [HB 1146](/bill/2023-24/hb/1146/) - Dual credit program notice 👍2  
 
 ## [HB 1156](/bill/2023-24/hb/1156/) - College grant eligibility 👍1  
 
 ## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  
 
-## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍2  
+## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍3  
 
 ## [HB 1273](/bill/2023-24/hb/1273/) - High school and beyond plans 👍1  
 

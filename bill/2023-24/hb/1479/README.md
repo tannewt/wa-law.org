@@ -27,17 +27,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31115&aId=153903&caId=22237&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31115&aId=153903&caId=22237&tId=4)
 
-#### 29 👍 - Pro
+#### 99 👍 - Pro
 Testifying:
 * Richard Pope - Parent of Isolation Room Survivor
 * Jen Chong Jewell - Special Education Advisory Council for OSPI
 * Guy Stephens - Alliance Against Seclusion and Restraint
 * 💵Diana Stadden - The Arc of WA State
 * Samantha Fogg - Seattle Council PTSA
+* Jennifer Crespi - WA PTA
+* Susan Driscoll - Crisis Prevention Institute
 
-#### 0 👎 - Con
+#### 21 👎 - Con
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
 
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1479 Student restraint, isolation
 #### 135 👍 - Pro

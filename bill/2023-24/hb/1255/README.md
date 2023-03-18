@@ -15,13 +15,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31048&aId=153635&caId=22290&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31048&aId=153635&caId=22290&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Allison Wood
+* Alicia Payne - Nursing Care Quality Assurance Commission
+* Grant Hulteen - Nursing Care Quality Assurance Commission
+* Helen Myrick - NCQAC
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jean Sullivan
 
 ### Tue 01/24 01:30 PM - Health Care & Wellness (HCW): HB 1255 Health care prof. SUD prg.
 #### 114 👍 - Pro

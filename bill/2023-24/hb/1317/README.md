@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31116&aId=153908&caId=22267&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31116&aId=153908&caId=22267&tId=4)
 
-#### 2 👍 - Pro
+#### 46 👍 - Pro
+Testifying:
+* Cindy Madigan - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
 
 #### 0 👎 - Con
 

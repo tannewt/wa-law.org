@@ -25,14 +25,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31117&aId=153912&caId=22277&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31117&aId=153912&caId=22277&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 
-#### 5 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 * Trish Beathard - Brinnon School District
+* Kevin Knight - Superintendent Colville School District
+* Anne Arnold - Everett Public Schools
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Wade Smith - Walla Walla Public Schools
+* Paul Clark - Colton School District
 
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1550 Transition to kindergarten
 #### 27 👍 - Pro

@@ -45,13 +45,7 @@
 
 ## Meetings
 ### Fri 03/17 10:30 AM - Housing (HSG): E2SHB 1110 Middle housing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30985&aId=153457&caId=22180&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30985&aId=153457&caId=22180&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30985&aId=153457&caId=22180&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30985&aId=153457&caId=22180&tId=4)
-
-#### 1030 👍 - Pro
+#### 1121 👍 - Pro
 Testifying:
 * Joe Kunzler - None
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
@@ -74,18 +68,23 @@ Testifying:
 * Shelli Lucus-Kennedy - BIAW
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 * Bill Riley - Washington REALTORS
+* Linda Moran
+* Rep. Andrew Barkis - WA State House Member
 
-#### 277 👎 - Con
+#### 314 👎 - Con
 Testifying:
 * Salim Nice - [City of Mercer Island](/org/city_of_mercer_island/)
 * Tom McCormick
 * Patricia McCoy - St Joseph Church
 * Councilmember Syd Dawson - [City of Maple Valley](/org/city_of_maple_valley/)
+* Kathleen Russell
+* Lois Martin
+* Sandy Shettler
 * Mayor Mike Millman - City of Woodinville, Mayor
 * Laurence WILLIAMSON - N/A
 * Jonelle Kemmerling
 
-#### 12 ❓ - Other
+#### 14 ❓ - Other
 Testifying:
 * Richard Voget
 * Nancy Backus - City of Auburn, Mayor
@@ -95,6 +94,7 @@ Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Arne Woodard - Councilmember, City of Spokane Valley
 * Lacey Jane Wolfe - [City of Bellevue](/org/city_of_bellevue/)
+* Melissa Bailey - City of Auburn, Mayor
 
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1110 Middle housing
 #### 1176 👍 - Pro

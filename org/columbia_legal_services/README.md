@@ -25,7 +25,7 @@
 
 ## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍1  
 
-## [HB 1187](/bill/2023-24/hb/1187/) - Employee-union privilege 👍1  
+## [HB 1187](/bill/2023-24/hb/1187/) - Employee-union privilege 👍2  
 
 ## [HB 1189](/bill/2023-24/hb/1189/) - Total confinement release 👍1  
 
@@ -48,7 +48,7 @@
 
 ## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses 👍1  
 
-## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
+## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍2  
 
 ## [HB 1338](/bill/2023-24/hb/1338/) - DOC ed. and vocational prgs. 👍1  
 
@@ -81,7 +81,7 @@
 
 ## [HB 1640](/bill/2023-24/hb/1640/) - Pardons and commutations 👍1  
 
-## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍2  
+## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍3  
 
 ## [HB 1666](/bill/2023-24/hb/1666/) - Fee and debt collection 👍1  
 
@@ -147,7 +147,7 @@
 ## [SB 5476](/bill/2023-24/sb/5476/) - Agricultural overtime  👎1 
 * 👎💵 Andrea Schmitt
 
-## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances  👎1 
+## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances  👎2 
 
 ## [SB 5543](/bill/2023-24/sb/5543/) - Sexual offenses by youth 👍1  
 

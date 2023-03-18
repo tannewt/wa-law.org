@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Fri 03/17 08:00 AM - Environment, Energy & Technology (ENET): HB 1416 Consumer-owned utilities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31007&aId=153267&caId=22172&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31007&aId=153267&caId=22172&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31007&aId=153267&caId=22172&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31007&aId=153267&caId=22172&tId=4)
-
-#### 172 👍 - Pro
+#### 182 👍 - Pro
 Testifying:
 * 💵Logan Bahr - Tacoma Public Utilities/Tacoma Power
 * Ben Richards - Protect Pend Oreille
@@ -30,7 +24,7 @@ Testifying:
 * Gloria Wells
 * 💵Nicolas Garcia - WPUDA
 
-#### 333 👎 - Con
+#### 368 👎 - Con
 Testifying:
 * Steve Chilson
 * Robyn Swesey

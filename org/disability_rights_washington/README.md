@@ -31,7 +31,7 @@
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍3  
 * 👍💵 Sunshine Cheng
 
-## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍1  
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍2  
 
 ## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍2  
 

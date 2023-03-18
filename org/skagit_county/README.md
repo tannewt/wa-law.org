@@ -21,6 +21,8 @@
 ## [SB 5372](/bill/2023-24/sb/5372/) - DNR land   ❓1
 * ❓ Ron Wesen
 
+## [SB 5392](/bill/2023-24/sb/5392/) - Concerning overpayments for certain matters. 👍1  
+
 ## [SB 5467](/bill/2023-24/sb/5467/) - Controlled sub. possession 👍1  
 * 👍 Ron Wesen
 

@@ -1,6 +1,7 @@
 # The Washington Bus
 
-## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍5  
+## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍7  
+* 👍 Adaora Ugwueze
 
 ## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍2  
 

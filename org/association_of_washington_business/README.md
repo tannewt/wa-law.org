@@ -175,7 +175,7 @@
 ## [HB 1505](/bill/2023-24/hb/1505/) - Alternative jet fuel 👍1  
 * 👍 Mike Ennis
 
-## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board  👎3 
+## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board  👎4 
 
 ## [HB 1509](/bill/2023-24/hb/1509/) - Community solar  👎1 
 * 👎💵 Peter Godlewski

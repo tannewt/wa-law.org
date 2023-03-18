@@ -19,13 +19,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31047&aId=153631&caId=22252&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31047&aId=153631&caId=22252&tId=4)
 
-#### 84 👍 - Pro
+#### 154 👍 - Pro
 Testifying:
 * Jody Disney - LWVWA
+* Andrew Guillen - Seattle Indian Health Board
 
-#### 94 👎 - Con
+#### 140 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1678 Dental therapists
 #### 331 👍 - Pro

@@ -25,7 +25,9 @@
 * 👍 Po Leapai
 * 👍 Tonya Isabell
 
-## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍9  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
+
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍12  
 * 👍 Debbie Novak
 * 👍💵 Nickeia Hunter
 * 👍 Po Leapai
@@ -33,6 +35,8 @@
 * 👍💵 Paul Benz
 * 👍 Debbie Novak
 * 👍 Fred Thomas
+* 👍 Tonya Isabell
+* 👍 Debra Novak
 
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍5  
 * 👍💵 Nickeia Hunter

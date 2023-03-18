@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Fri 03/17 08:00 AM - Health Care & Wellness (HCW): SSB 5581 Maternal support services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30992&aId=153328&caId=22020&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30992&aId=153328&caId=22020&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30992&aId=153328&caId=22020&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=30992&aId=153328&caId=22020&tId=4)
-
-#### 18 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Mary Long - Conservative Ladies of Washington
 * Jane Beyer - Office of the Insurance Commissioner
