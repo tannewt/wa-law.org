@@ -12,6 +12,7 @@
 * [PubliCola](/org/publicola/) - [As Density Bills Move Forward, It's Statewide Housing Goals vs. "Local Control" - PubliCola](https://publicola.com/2023/03/01/as-density-bills-move-forward-its-statewide-housing-goals-vs-local-control/#:~:text=Senate Bill 5235)
 * [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=SB 5235)
 * [The Urbanist](/org/the_urbanist/) - [Bellevue Initiates Middle Housing Planning, but State May Beat Them to It | The Urbanist](https://www.theurbanist.org/2023/01/19/bellevue-city-council-initiates-planning-work-on-middle-housing-but-state-may-beat-them-to-it/#:~:text=SB 5235)
+* [Crosscut](/org/crosscut/) - [WA looks to address housing shortage with density, zoning changes | Crosscut](https://crosscut.com/politics/2023/03/washington-has-shot-passing-massive-housing-reform-package#:~:text=Senate Bill 5235)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Washington may make it easier to build backyard cottages in a bid to ease the housing crisis | The Spokesman-Review](https://www.spokesman.com/stories/2023/feb/27/washington-may-make-it-easier-to-build-backyard-co/#:~:text=Senate Bill 5235)
 
 ## Meetings

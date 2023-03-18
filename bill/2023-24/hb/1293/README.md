@@ -10,6 +10,7 @@
 
 ## Articles
 * [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB 1293)
+* [Crosscut](/org/crosscut/) - [WA looks to address housing shortage with density, zoning changes | Crosscut](https://crosscut.com/politics/2023/03/washington-has-shot-passing-massive-housing-reform-package#:~:text=House Bill 1293)
 
 ## Meetings
 ### Tue 03/21 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): ESHB 1293 Development regulations

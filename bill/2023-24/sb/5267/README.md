@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## Articles
+* [KING5](/org/king5/) - [Whatcom County residents among those pushing for rail safety | king5.com](https://www.king5.com/article/news/local/whatcom-county-rail-safety-push/281-ddb560d4-5a36-4eae-860c-6a1c10f6ef7e#:~:text=Senate Bill 5267)
+
 ## Meetings
 ### Tue 03/21 10:30 AM - Labor & Workplace Standards (LAWS): ESSB 5267 Railroad workers
 Sign up to testify:

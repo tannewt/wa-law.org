@@ -12,5 +12,6 @@
 * [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=Senate Bill 5352)
 * [PubliCola](/org/publicola/) - [Legislative Cutoff Fizz: Police Pursuit Bill Moves Forward While Tenant Protections Die - PubliCola](https://publicola.com/2023/03/09/legislative-cutoff-fizz-police-pursuit-bill-moves-forward-while-tenant-protections-die/#:~:text=Senate Bill 5352)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Washington Senate passes police pursuit bill, increasing when law enforcement can chase | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/08/washington-senate-passes-police-pursuit-bill-incre/#:~:text=Senate Bill 5352)
+* [Wenatchee World](/org/wenatchee_world/) - [District 12 lawmakers answer questions during virtual townhall | News | wenatcheeworld.com](https://www.wenatcheeworld.com/news/district-12-lawmakers-answer-questions-during-virtual-townhall/article_26950f28-c4ef-11ed-a12e-4bdd05de44a9.html#:~:text=Senate Bill 5352)
 
 ## Meetings
