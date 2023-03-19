@@ -26,7 +26,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31084&aId=153738&caId=22330&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31084&aId=153738&caId=22330&tId=4)
 
-#### 72 👍 - Pro
+#### 135 👍 - Pro
 Testifying:
 * 💵Josh Weiss - Snohomish County
 * Amy Ockerlander - Mayor of Duvall; Secretary of the Association of Washington Cities
@@ -41,9 +41,9 @@ Testifying:
 * Armondo Pavone - Mayor, City of Renton
 * Jon Nehring - Mayor, City of Marysville
 
-#### 93 👎 - Con
+#### 638 👎 - Con
 
-#### 17 ❓ - Other
+#### 22 ❓ - Other
 Testifying:
 * KAREN THOMPSON
 * Chad Enright - Kitsap County Prosecutor/WA Association of Prosecuting Attorneys
@@ -61,6 +61,7 @@ Testifying:
 * Caleb Banta-Green - University of Washington- Addictions, Drug & Alcohol Institute
 * Cole Meckle - Gather Church
 * Mandy Owens - University of Washington- Addictions, Drug & Alcohol Institute
+* Mary Lou Pauly - Mayor, City of Issaquah
 
 ### Sat 02/18 09:00 AM - Ways & Means (WM): SSB 5536 Controlled substances
 #### 46 👍 - Pro

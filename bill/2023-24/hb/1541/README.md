@@ -20,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31116&aId=153911&caId=22270&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31116&aId=153911&caId=22270&tId=4)
 
-#### 39 👍 - Pro
+#### 90 👍 - Pro
 Testifying:
 * Ivanova Smith - Self Advocate
 * Shawn Latham - Allies in Advocacy

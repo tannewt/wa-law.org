@@ -16,19 +16,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31063&aId=153668&caId=22266&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31063&aId=153668&caId=22266&tId=4)
 
-#### 56 👍 - Pro
+#### 102 👍 - Pro
 Testifying:
 * Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Ruth Sawyer - [Sierra Club](/org/sierra_club/)
 * 💵Logan Bahr - [Tacoma Public Utilities](/org/tacoma_public_utilities/)
 * Maggie Yuse - Seattle Public Utilities and Seattle City Light
 * Ryan Collins - Snohomish County PUD
+* 💵Joren Clowers - [Washington Association of Sewer & Water Districts](/org/washington_association_of_sewer_&_water_districts/)
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Chelsea Martin - Representing Modern Electric Water Company
+* 💵Jay Balasbas - PacifiCorp
 
 ### Thu 01/26 08:00 AM - Environment & Energy (ENVI): HB 1329 Utility shutoffs/heat
 #### 73 👍 - Pro

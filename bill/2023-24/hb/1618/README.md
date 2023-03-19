@@ -16,7 +16,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31040&aId=153547&caId=22260&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31040&aId=153547&caId=22260&tId=4)
 
-#### 15 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Christene Hansen
 * Kathryn Robb - CHILD USAdvocacy

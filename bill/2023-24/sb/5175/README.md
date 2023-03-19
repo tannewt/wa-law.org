@@ -16,9 +16,10 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * 💵Troy Nichols - Capital Region ESD 113
+* Dan Steele - WA Assn of School Administrators & WA Assn of School Business Officials
 
 #### 0 ❓ - Other
 

@@ -42,6 +42,8 @@
 ## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍2  
 * 👍💵 Justin Allegro
 
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
+
 ## [HB 1578](/bill/2023-24/hb/1578/) - Wildland fire safety 👍2  
 
 ## [HB 1686](/bill/2023-24/hb/1686/) - Salmon recovery 👍1  
@@ -57,7 +59,7 @@
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
 
-## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍2  
+## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍3  
 
 ## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
 
@@ -91,7 +93,7 @@
 
 ## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍1  
 
-## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍2  
+## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍3  
 
 ## [SB 5484](/bill/2023-24/sb/5484/) - Food/environmental steward. 👍1  
 * 👍 Skippy Shaw

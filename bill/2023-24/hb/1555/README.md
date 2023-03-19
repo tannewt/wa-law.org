@@ -16,13 +16,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31039&aId=153544&caId=22231&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31039&aId=153544&caId=22231&tId=4)
 
-#### 2 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
+* Earl Cowan - [Swinomish Indian Tribal Community](/org/swinomish_indian_tribal_community/)
+* Maggie Finkbonner - [Swinomish Indian Tribal Community](/org/swinomish_indian_tribal_community/)
+* Melissa Simonsen - [Swinomish Indian Tribal Community](/org/swinomish_indian_tribal_community/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 ### Tue 02/07 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1555 Indian tribes/extradition
 #### 8 👍 - Pro

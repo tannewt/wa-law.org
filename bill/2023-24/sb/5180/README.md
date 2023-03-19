@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31043&aId=153578&caId=22336&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31043&aId=153578&caId=22336&tId=4)
 
-#### 11 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * James Adams - National Association of State Directors of Teacher Education and Certification
 * Tammie Perreault - Department of Defense

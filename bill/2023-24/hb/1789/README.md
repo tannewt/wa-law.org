@@ -30,7 +30,7 @@ Sign up to testify:
 Testifying:
 * 💵John Stuhlmiller - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
-#### 66 👎 - Con
+#### 98 👎 - Con
 Testifying:
 * 💵Grace Yuan - Puget Sound School Coalition
 * 💵Grace Yuan - Puget Sound School Coalition

@@ -20,11 +20,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31112&aId=153875&caId=22334&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31112&aId=153875&caId=22334&tId=4)
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * 💵Michael Moran - Lake Washington High School/Capitol Classroom
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Eric pratt - I, America
 
 #### 0 ❓ - Other
 

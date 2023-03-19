@@ -21,9 +21,10 @@ Testifying:
 * Steven Weise - Uniform Law Commission
 * Benjamin Orzeske - Uniform Law Commission
 
-#### 31 👎 - Con
+#### 35 👎 - Con
 Testifying:
 * Karen Pooley
+* Eric Pratt
 
 #### 0 ❓ - Other
 

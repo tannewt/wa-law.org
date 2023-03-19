@@ -16,13 +16,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31039&aId=153541&caId=22228&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31039&aId=153541&caId=22228&tId=4)
 
-#### 91 👍 - Pro
+#### 116 👍 - Pro
 Testifying:
 * Karla Carlisle - Northwest Justice Project
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Jon Tunheim - Thurston County Prosecutor/WA Assoc of Prosecuting Attorneys
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Miranda Calmjoy - Washington State Board of Health
 
 ### Wed 02/08 04:00 PM - Appropriations (APP): HB 1169 Legal financial obligations
 #### 52 👍 - Pro

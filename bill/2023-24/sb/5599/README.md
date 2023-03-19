@@ -19,15 +19,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31093&aId=153778&caId=22364&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31093&aId=153778&caId=22364&tId=4)
 
-#### 18 👍 - Pro
+#### 61 👍 - Pro
 Testifying:
 * Danni Askini - Gender Justice League
 
-#### 170 👎 - Con
+#### 638 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Gabriel Jacobs
 * Linnea Comstock
+* Joshua Hardwick
+* Eric pratt - I, America
+* Christian Nelson
 
 #### 0 ❓ - Other
 

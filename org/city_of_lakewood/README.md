@@ -19,6 +19,8 @@
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 
+## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍1  
+
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing   ❓1
 * ❓ Tiffany Speir
 

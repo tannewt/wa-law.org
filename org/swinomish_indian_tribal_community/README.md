@@ -4,8 +4,11 @@
 
 ## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍2  
 
-## [HB 1555](/bill/2023-24/hb/1555/) - Indian tribes/extradition 👍2  
+## [HB 1555](/bill/2023-24/hb/1555/) - Indian tribes/extradition 👍5  
 * 👍 Earl Cowan
+* 👍 Melissa Simonsen
+* 👍 Earl Cowan
+* 👍 Maggie Finkbonner
 * 👍 Melissa Simonsen
 
 ## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍2  ❓1

@@ -81,9 +81,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31089&aId=154013&caId=22243&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31089&aId=154013&caId=22243&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * 💵Dawn Vyvyan - Yakama Nation
+* DaleAnn Baker - WSPTA
 
 #### 0 👎 - Con
 
@@ -96,11 +97,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31089&aId=154016&caId=22246&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31089&aId=154016&caId=22246&tId=4)
 
-#### 3 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Ryan Hendricks - [Quinault Indian Nation](/org/quinault_indian_nation/)
 * Andi Anderson - Progressive Animal Welfare Society (PAWS)
 * 💵Dawn Vyvyan - Yakama Nation
+* Brian Shay - City of Hoquiam, City Administrator
+* 💵Lynnette Buffington - Greater Grays Harbor, CEO
+* Ruth Clemens - City of Aberdeen, City Administrator
 
 #### 0 👎 - Con
 

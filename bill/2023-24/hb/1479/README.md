@@ -27,7 +27,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31115&aId=153903&caId=22237&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31115&aId=153903&caId=22237&tId=4)
 
-#### 99 👍 - Pro
+#### 116 👍 - Pro
 Testifying:
 * Richard Pope - Parent of Isolation Room Survivor
 * Jen Chong Jewell - Special Education Advisory Council for OSPI
@@ -36,10 +36,11 @@ Testifying:
 * Samantha Fogg - Seattle Council PTSA
 * Jennifer Crespi - WA PTA
 * Susan Driscoll - Crisis Prevention Institute
+* Oliver Miska - WAESN
 
-#### 21 👎 - Con
+#### 32 👎 - Con
 
-#### 5 ❓ - Other
+#### 8 ❓ - Other
 
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1479 Student restraint, isolation
 #### 135 👍 - Pro

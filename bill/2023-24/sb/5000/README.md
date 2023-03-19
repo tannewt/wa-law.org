@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31108&aId=153856&caId=22394&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31108&aId=153856&caId=22394&tId=4)
 
-#### 42 👍 - Pro
+#### 46 👍 - Pro
 Testifying:
 * Vivian Dong
 * 💵Kendall Kosai - Commission on Asian Pacific American Affairs
@@ -33,6 +33,7 @@ Testifying:
 * Sharon Chang - NA
 * Shu-Fen Tang - n/a
 * Fei Tian
+* Tony Zhu
 
 #### 0 👎 - Con
 

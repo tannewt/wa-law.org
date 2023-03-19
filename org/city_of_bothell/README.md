@@ -20,3 +20,5 @@
 ## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍1  
 
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍1  
+
+## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  

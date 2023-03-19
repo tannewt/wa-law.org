@@ -16,7 +16,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31039&aId=153546&caId=22233&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31039&aId=153546&caId=22233&tId=4)
 
-#### 242 👍 - Pro
+#### 306 👍 - Pro
 Testifying:
 * Kari Reardon - WDA/WACDL
 * Roger Rogoff - Office of Independent Investigations
@@ -25,10 +25,12 @@ Testifying:
 * Tonya Isabell - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 * Debra Novak - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 
-#### 3 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Paul Giuglianotti - I'm testifying as an independent prosecutor policy expert after 3 years of careful study.
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
+* Laurie Layne
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 #### 1 ❓ - Other
 Testifying:

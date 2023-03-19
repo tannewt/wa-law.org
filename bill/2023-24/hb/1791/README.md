@@ -16,11 +16,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31069&aId=153688&caId=22271&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31069&aId=153688&caId=22271&tId=4)
 
-#### 62 👍 - Pro
+#### 70 👍 - Pro
 Testifying:
 * JC Harris - SeaTacNoise.Info
 * 💵Davor Gjurasic - [Nisqually Indian Tribe](/org/nisqually_indian_tribe/)
 * Bennett Butters
+* Dawn Sonntag - Stop The Airport
+* Bill Adamson - South Sound Military & Communities Partnership
 
 #### 1 👎 - Con
 

@@ -20,12 +20,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153554&caId=22284&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153554&caId=22284&tId=4)
 
-#### 18 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * eric pratt - America
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 
-#### 12 👎 - Con
+#### 14 👎 - Con
 Testifying:
 * Jeffrey Slotnick
 

@@ -19,7 +19,9 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Joren Clowers - [Washington Association of Sewer & Water Districts](/org/washington_association_of_sewer_&_water_districts/)
 
 ### Thu 02/02 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5437 Special districts/vacancies
 #### 0 👍 - Pro

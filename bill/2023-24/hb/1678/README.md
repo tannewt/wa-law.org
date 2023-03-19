@@ -19,12 +19,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31047&aId=153631&caId=22252&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31047&aId=153631&caId=22252&tId=4)
 
-#### 154 👍 - Pro
+#### 296 👍 - Pro
 Testifying:
 * Jody Disney - LWVWA
 * Andrew Guillen - Seattle Indian Health Board
 
-#### 140 👎 - Con
+#### 149 👎 - Con
 
 #### 2 ❓ - Other
 
