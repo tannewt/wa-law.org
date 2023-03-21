@@ -23,7 +23,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154165&caId=22430&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154165&caId=22430&tId=4)
 
-#### 42 👍 - Pro
+#### 151 👍 - Pro
+Testifying:
+* 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
 
 #### 2 👎 - Con
 

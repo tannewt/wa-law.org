@@ -40,8 +40,9 @@
 
 ## [SB 5341](/bill/2023-24/sb/5341/) - WA food & ag. products 👍2  
 
-## [SB 5448](/bill/2023-24/sb/5448/) - Delivery of alcohol 👍3  
+## [SB 5448](/bill/2023-24/sb/5448/) - Delivery of alcohol 👍4  
 * 👍 Jess Zander
+* 👍 Josh McDonald
 * 👍 Josh McDonald
 * 👍 Josh McDonald
 

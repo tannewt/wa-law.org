@@ -16,11 +16,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31058&aId=153650&caId=22347&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31058&aId=153650&caId=22347&tId=4)
 
-#### 58 👍 - Pro
+#### 126 👍 - Pro
+Testifying:
+* Cathy Bambrick - Astria Toppenish Hospital, Administrator
+* Eric Jensen - Astria Toppenish Hospital
+* Roman Daniels-Brown - Astria Toppenish Hospital
+* Dr. Raul Garcia - Astria Toppenish Hospital, Medical Director
+* Dr. Rex Quaempts - Medical Director, Yakima Indian Health Services
+* Ladon Linde - Commissioner, Board of Yakima County Commissioners District 3
+* Dr. Rex Quaempts - Yakama Indian Health Services, Medical Director
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SSB 5532 Small rural hospital payment
 #### 84 👍 - Pro

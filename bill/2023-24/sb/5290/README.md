@@ -20,7 +20,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31073&aId=153708&caId=22375&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31073&aId=153708&caId=22375&tId=4)
 
-#### 18 👍 - Pro
+#### 35 👍 - Pro
+Testifying:
+* 💵Scott Hazlegrove - Master Builders Association of King & Snohomish Counties
+* Angela Rozmyn - Natural and Built Environments
+* Noha Mahgoub - Governor's Office
+* 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
 #### 0 👎 - Con
 

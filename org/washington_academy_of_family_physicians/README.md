@@ -2,9 +2,13 @@
 
 ## [HB 1035](/bill/2023-24/hb/1035/) - Health care restrictions 👍1  
 
+## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍1  
+
 ## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍2  
 
 ## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍2  
+
+## [HB 1240](/bill/2023-24/hb/1240/) - Firearms/assault weapons 👍1  
 
 ## [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board 👍1  
 

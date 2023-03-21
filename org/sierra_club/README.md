@@ -3,6 +3,8 @@
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 * 👍💵 Jesse Piedfort
 
+## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
+
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
 
 ## [HB 1215](/bill/2023-24/hb/1215/) - Riparian areas 👍1  
@@ -15,10 +17,12 @@
 * 👍 Ruth Sawyer
 * 👍 Ruth Sawyer
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍3  
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍4  
 * 👍 MIKE O'BRIEN
 
-## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍7  
+## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍1  
+
+## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍8  
 * 👍 Mike Town
 
 ## [HB 1584](/bill/2023-24/hb/1584/) - Nuclear reactor technology  👎1 
@@ -36,6 +40,8 @@
 ## [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍2  
 * 👍 Robin Everett
 * 👍 Robin Everett
+
+## [SB 5320](/bill/2023-24/sb/5320/) - Journey level electricians 👍1  
 
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍1  
 * 👍 Jim Dennison

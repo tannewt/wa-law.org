@@ -4,5 +4,6 @@
 
 ## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board  👎1 
 
-## [HB 1683](/bill/2023-24/hb/1683/) - Dental only coverage 👍1  
+## [HB 1683](/bill/2023-24/hb/1683/) - Dental only coverage 👍2  
+* 👍💵 Carolyn Logue
 * 👍💵 Carolyn Logue

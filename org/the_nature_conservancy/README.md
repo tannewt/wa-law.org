@@ -12,7 +12,7 @@
 * 👍 justin allegro
 * 👍 Scott Richards
 
-## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍2  
+## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍3  
 * 👍 Joshua Rubenstein
 * 👍 Skippy Shaw
 
@@ -33,7 +33,7 @@
 
 ## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍1  
 
-## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
+## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍2  
 
 ## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍3  
 
@@ -44,7 +44,10 @@
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
 
-## [HB 1578](/bill/2023-24/hb/1578/) - Wildland fire safety 👍2  
+## [HB 1552](/bill/2023-24/hb/1552/) - Urban agriculture study 👍1  
+
+## [HB 1578](/bill/2023-24/hb/1578/) - Wildland fire safety 👍3  
+* 👍 Darcy Batura
 
 ## [HB 1686](/bill/2023-24/hb/1686/) - Salmon recovery 👍1  
 
@@ -65,11 +68,14 @@
 
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍2  
 
-## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍2  
+## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍3  
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management 👍1  
 
 ## [SB 5165](/bill/2023-24/sb/5165/) - Electric transm. planning 👍3  
+* 👍 Scott Richards
+
+## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
 * 👍 Scott Richards
 
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍1  

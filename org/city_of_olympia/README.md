@@ -23,6 +23,8 @@
 
 ## [HB 1276](/bill/2023-24/hb/1276/) - Accessory dwelling units 👍1  
 
+## [HB 1293](/bill/2023-24/hb/1293/) - Development regulations  👎1 
+
 ## [HB 1326](/bill/2023-24/hb/1326/) - Utility connection charges 👍1  
 
 ## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units 👍2  
@@ -33,9 +35,9 @@
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍2  
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍3  
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍4  
 
-## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍1  
+## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍2  
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍2  
 
@@ -56,7 +58,7 @@
 
 ## [HB 1670](/bill/2023-24/hb/1670/) - Property tax limit factor 👍1  
 
-## [HB 1753](/bill/2023-24/hb/1753/) - Derelict vessel notices 👍1  
+## [HB 1753](/bill/2023-24/hb/1753/) - Derelict vessel notices 👍2  
 
 ## [HB 1777](/bill/2023-24/hb/1777/) - Energy contracting 👍1  
 

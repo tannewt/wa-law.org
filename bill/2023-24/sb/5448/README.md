@@ -15,11 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31104&aId=153845&caId=22393&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31104&aId=153845&caId=22393&tId=4)
 
-#### 2 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * 💵Riley Smith - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
+* 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Scott Waller - WASAVP - Prevention First! for Safe and Healthy Communities
 
 #### 0 ❓ - Other
 

@@ -15,7 +15,7 @@
 
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
 
-## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍4  
+## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍6  
 * 👍💵 Alex Hur
 * 👍💵 Alex Hur
 
@@ -42,12 +42,13 @@
 
 ## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍3  
 
-## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍10  
+## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍11  
 * 👍💵 Alex Hur
 * 👍💵 Lianna Kressin
 * 👍💵 Alex Hur
 * 👍💵 Alex Hur
 * 👍💵 Alex Hur
+* 👍💵 Lianna Kressin
 * 👍💵 Lianna Kressin
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍4  
@@ -72,13 +73,15 @@
 
 ## [HB 1651](/bill/2023-24/hb/1651/) - Infraction debt 👍1  
 
-## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍3  
+## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍4  
 * 👍💵 Alex Hur
 * 👍💵 Alex Hur
+* 👍💵 Lianna Kressin
 
 ## [HB 1666](/bill/2023-24/hb/1666/) - Fee and debt collection 👍1  
 
-## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍2  
+## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍3  
+* 👍💵 Marcy Bowers
 * 👍💵 Marcy Bowers
 * 👍💵 Marcy Bowers
 
@@ -94,7 +97,8 @@
 
 ## [SB 5171](/bill/2023-24/sb/5171/) - Consumer products/gender 👍1  
 
-## [SB 5173](/bill/2023-24/sb/5173/) - Property exempt from exec. 👍2  
+## [SB 5173](/bill/2023-24/sb/5173/) - Property exempt from exec. 👍3  
+* 👍💵 Shaun Scott
 * 👍💵 Shaun Scott
 
 ## [SB 5183](/bill/2023-24/sb/5183/) - Personal needs allowance 👍1  

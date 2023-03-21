@@ -17,7 +17,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=154074&caId=22405&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=154074&caId=22405&tId=4)
 
-#### 1 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Bradley Finegood - [King County](/org/king_county/)
 
 #### 0 👎 - Con
 

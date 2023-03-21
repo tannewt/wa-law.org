@@ -5,7 +5,8 @@
 * ❓💵 Joren Clowers
 * 👍💵 Joren Clowers
 
-## [HB 1621](/bill/2023-24/hb/1621/) - Local government procurement 👍3  
+## [HB 1621](/bill/2023-24/hb/1621/) - Local government procurement 👍4  
+* 👍💵 Joren Clowers
 * 👍💵 Joren Clowers
 * 👍💵 Joren Clowers
 * 👍💵 Joren Clowers

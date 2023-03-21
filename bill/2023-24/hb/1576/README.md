@@ -16,13 +16,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31047&aId=153630&caId=22251&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31047&aId=153630&caId=22251&tId=4)
 
-#### 93 👍 - Pro
+#### 199 👍 - Pro
 Testifying:
 * Matt Shafer - The Council of State Governments
 * 💵Melissa Johnson - Washington Dental Hygienists' Association
 * Kathy Mueller - Washington Dental Hygienists' Association
+* 💵Emily Lovell - Washington State Dental Association
+* 💵Amy Anderson - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Lisa Thatcher - ADSO
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

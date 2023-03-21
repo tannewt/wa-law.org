@@ -8,7 +8,7 @@
 * 👍💵 Davor Gjurasic
 * 👍💵 Davor Gjurasic
 
-## [SB 5324](/bill/2023-24/sb/5324/) - Defense compatibility acct. 👍2  
+## [SB 5324](/bill/2023-24/sb/5324/) - Defense compatibility acct. 👍3  
 
 ## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍1  
 

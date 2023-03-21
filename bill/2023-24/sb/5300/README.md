@@ -15,12 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31058&aId=153648&caId=22345&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31058&aId=153648&caId=22345&tId=4)
 
-#### 4 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Jaime Fazzone - Washington State Pharmacy Association Behavioral Health Special Interest Group
 * Jane Beyer - Office of the Insurance Commissioner
 * Debbie Plotnick - Mental Heath America
 * Robin Berger - Washington State Psychiatric Association (WSPA)
+* 💵Anna Nepomuceno - NAMI Washington
 
 #### 0 👎 - Con
 

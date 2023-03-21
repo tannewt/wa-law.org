@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Mon 03/20 10:30 AM - Law & Justice (LAW): 2SHB 1579 Independent prosecutions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31039&aId=153546&caId=22233&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31039&aId=153546&caId=22233&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31039&aId=153546&caId=22233&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31039&aId=153546&caId=22233&tId=4)
-
-#### 306 👍 - Pro
+#### 441 👍 - Pro
 Testifying:
 * Kari Reardon - WDA/WACDL
 * Roger Rogoff - Office of Independent Investigations
@@ -24,13 +18,17 @@ Testifying:
 * Sonia Joseph - My Advocate
 * Tonya Isabell - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 * Debra Novak - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
+* Victoria Woodards - Mayor, City of Tacoma
+* Roger Rogoff - Office of Independent Investigations
+* Barbara Serrano - Senior Policy Advisor - Public Safety - Office of Governor Jay Inslee
 
-#### 8 👎 - Con
+#### 38 👎 - Con
 Testifying:
 * Paul Giuglianotti - I'm testifying as an independent prosecutor policy expert after 3 years of careful study.
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 * Laurie Layne
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
+* James McDevitt
 
 #### 1 ❓ - Other
 Testifying:

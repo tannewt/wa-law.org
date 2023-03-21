@@ -1,6 +1,7 @@
 # Justice Action Network
 
-## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍1  
+## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍2  
+* 👍💵 Brooke Davies
 * 👍💵 Brooke Davies
 
 ## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses 👍1  

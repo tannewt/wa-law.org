@@ -108,7 +108,7 @@
 
 ## [HB 1313](/bill/2023-24/hb/1313/) - Health care afford./medicare 👍1  
 
-## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
+## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍2  
 
 ## [HB 1340](/bill/2023-24/hb/1340/) - Health professions/conduct 👍2  
 
@@ -147,6 +147,9 @@
 ## [HB 1413](/bill/2023-24/hb/1413/) - Flexible work/peace officers 👍1  
 
 ## [HB 1414](/bill/2023-24/hb/1414/) - RTA vehicle removal 👍1  
+
+## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍1  
+* 👍 Karen Meyering
 
 ## [HB 1427](/bill/2023-24/hb/1427/) - On-premises energy gen. 👍1  
 
@@ -205,7 +208,7 @@
 
 ## [HB 1560](/bill/2023-24/hb/1560/) - Property tax exemptions 👍1  
 
-## [HB 1562](/bill/2023-24/hb/1562/) - Violence 👍1  
+## [HB 1562](/bill/2023-24/hb/1562/) - Violence 👍2  
 
 ## [HB 1575](/bill/2023-24/hb/1575/) - Cultural access programs/tax 👍6  
 * 👍 Kate Becker
@@ -231,9 +234,9 @@
 
 ## [HB 1676](/bill/2023-24/hb/1676/) - Special ed. early support 👍1  
 
-## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  
+## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍2  
 
-## [HB 1683](/bill/2023-24/hb/1683/) - Dental only coverage 👍1  
+## [HB 1683](/bill/2023-24/hb/1683/) - Dental only coverage 👍2  
 
 ## [HB 1694](/bill/2023-24/hb/1694/) - Home care workforce shortage 👍1  
 
@@ -263,8 +266,9 @@
 
 ## [SB 5006](/bill/2023-24/sb/5006/) - Waiver of firearm rights 👍1  
 
-## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment   ❓1
+## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment 👍1  ❓1
 * ❓ Brad Finegood
+* 👍 Bradley Finegood
 
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍1  
 
@@ -286,7 +290,7 @@
 
 ## [SB 5103](/bill/2023-24/sb/5103/) - Medicaid patients/discharge 👍2  
 
-## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍2  
+## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍3  
 
 ## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍1  
 
@@ -392,6 +396,8 @@
 
 ## [SB 5328](/bill/2023-24/sb/5328/) - Pub safety telecommunicators 👍1  
 
+## [SB 5330](/bill/2023-24/sb/5330/) - Pesticide application 👍1  
+
 ## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍2  
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
@@ -418,6 +424,8 @@
 
 ## [SB 5391](/bill/2023-24/sb/5391/) - Embodied carbon reductions 👍1  
 
+## [SB 5392](/bill/2023-24/sb/5392/) - Concerning overpayments for certain matters. 👍1  
+
 ## [SB 5396](/bill/2023-24/sb/5396/) - Breast exam cost sharing 👍2  
 
 ## [SB 5407](/bill/2023-24/sb/5407/) - Concerning the administration of property taxes. 👍1  
@@ -430,7 +438,7 @@
 
 ## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍1  
 
-## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍1  
+## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍2  
 
 ## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations 👍1 👎1 ❓1
 * 👎 April Putney

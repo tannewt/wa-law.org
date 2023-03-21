@@ -74,6 +74,9 @@
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
 * 👍💵 Leah Missik
 
+## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget   ❓1
+* ❓💵 Leah Missik
+
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍1  
 * 👍💵 Leah Missik
 

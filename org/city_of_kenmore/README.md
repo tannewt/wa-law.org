@@ -28,6 +28,8 @@
 
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍1  
 
+## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
+
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures 👍1  
 
 ## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍3  

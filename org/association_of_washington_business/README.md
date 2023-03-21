@@ -38,7 +38,7 @@
 
 ## [HB 1135](/bill/2023-24/hb/1135/) - Impact fee use  👎1 
 
-## [HB 1146](/bill/2023-24/hb/1146/) - Dual credit program notice 👍1  
+## [HB 1146](/bill/2023-24/hb/1146/) - Dual credit program notice 👍3  
 
 ## [HB 1156](/bill/2023-24/hb/1156/) - College grant eligibility 👍1  
 
@@ -67,7 +67,7 @@
 * 👍💵 Peter Godlewski
 * 👍💵 Peter Godlewski
 
-## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍3  
+## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍5  
 
 ## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting 👍2  
 
@@ -82,7 +82,7 @@
 ## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍3  
 * 👍💵 Emily Shay
 
-## [HB 1267](/bill/2023-24/hb/1267/) - Rural public facilities/tax 👍1  
+## [HB 1267](/bill/2023-24/hb/1267/) - Rural public facilities/tax 👍2  
 
 ## [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board  👎1 
 * 👎💵 Amy Anderson
@@ -164,7 +164,7 @@
 
 ## [HB 1451](/bill/2023-24/hb/1451/) - Child care workforce 👍1  
 
-## [HB 1457](/bill/2023-24/hb/1457/) - Motor carriers/restrooms   ❓1
+## [HB 1457](/bill/2023-24/hb/1457/) - Motor carriers/restrooms 👍1  ❓1
 * ❓ Mike Ennis
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax  👎1 
@@ -206,10 +206,13 @@
 
 ## [HB 1568](/bill/2023-24/hb/1568/) - Long-term care professionals 👍1  
 
+## [HB 1572](/bill/2023-24/hb/1572/) - Recovery of taxes/venue 👍1  
+
 ## [HB 1573](/bill/2023-24/hb/1573/) - Dairy, etc. tax preferences 👍1  
 * 👍💵 Emily Shay
 
-## [HB 1576](/bill/2023-24/hb/1576/) - Dentist compact 👍1  
+## [HB 1576](/bill/2023-24/hb/1576/) - Dentist compact 👍2  
+* 👍💵 Amy Anderson
 * 👍💵 Amy Anderson
 
 ## [HB 1584](/bill/2023-24/hb/1584/) - Nuclear reactor technology 👍1  
@@ -230,6 +233,8 @@
 ## [HB 1658](/bill/2023-24/hb/1658/) - Work experience/H.S. credit 👍1  
 
 ## [HB 1686](/bill/2023-24/hb/1686/) - Salmon recovery 👍1  
+
+## [HB 1716](/bill/2023-24/hb/1716/) - Child care B&O credit 👍1  
 
 ## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍5  
 * 👍💵 Emily Shay
@@ -264,6 +269,8 @@
 
 ## [HB 1815](/bill/2023-24/hb/1815/) - Payment card processing/tax 👍2  
 
+## [HB 1818](/bill/2023-24/hb/1818/) - Forestland/compensating tax 👍1  
+
 ## [HB 1821](/bill/2023-24/hb/1821/) - Postsecondary credentials 👍1  
 
 ## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge  👎1 
@@ -277,6 +284,8 @@
 
 ## [SB 5041](/bill/2023-24/sb/5041/) - Motor carrier safety 👍1  
 
+## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍2  
+
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial   ❓1
 * ❓💵 Peter Godlewski
 
@@ -289,7 +298,7 @@
 
 ## [SB 5096](/bill/2023-24/sb/5096/) - Employee ownership 👍3  
 
-## [SB 5103](/bill/2023-24/sb/5103/) - Medicaid patients/discharge 👍1  
+## [SB 5103](/bill/2023-24/sb/5103/) - Medicaid patients/discharge 👍2  
 
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment  👎1 
 * 👎💵 Peter Godlewski
@@ -305,7 +314,7 @@
 
 ## [SB 5166](/bill/2023-24/sb/5166/) - Cooperative finance org. B&O 👍2  
 
-## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍1  
+## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍3  
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
 * 👍 Mike Ennis
@@ -327,7 +336,8 @@
 ## [SB 5258](/bill/2023-24/sb/5258/) - Condos and townhouses 👍2  
 * 👍 Mike Ennis
 
-## [SB 5267](/bill/2023-24/sb/5267/) - Railroad workers  👎1 
+## [SB 5267](/bill/2023-24/sb/5267/) - Railroad workers  👎2 
+* 👎 Mike Ennis
 * 👎 Mike Ennis
 
 ## [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍2  
@@ -341,7 +351,7 @@
 
 ## [SB 5289](/bill/2023-24/sb/5289/) - Impact fees/law enforcement  👎1 
 
-## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍2  
+## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍3  
 
 ## [SB 5302](/bill/2023-24/sb/5302/) - Adult family homes/prop. tax 👍1  
 
@@ -353,7 +363,7 @@
 * 👎💵 Emily Shay
 * 👎💵 Peter Godlewski
 
-## [SB 5316](/bill/2023-24/sb/5316/) - DCYF background check fees 👍1  
+## [SB 5316](/bill/2023-24/sb/5316/) - DCYF background check fees 👍3  
 
 ## [SB 5325](/bill/2023-24/sb/5325/) - Clean fuel/public transport.  👎1 
 * 👎 Mike Ennis
@@ -378,7 +388,7 @@
 
 ## [SB 5397](/bill/2023-24/sb/5397/) - Public benefit payments/DCYF 👍1  
 
-## [SB 5412](/bill/2023-24/sb/5412/) - Land use permitting/local 👍1  
+## [SB 5412](/bill/2023-24/sb/5412/) - Land use permitting/local 👍2  
 
 ## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍2  
 
@@ -396,7 +406,7 @@
 
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use  👎2 
 
-## [SB 5457](/bill/2023-24/sb/5457/) - Small cities/GMA 👍1  
+## [SB 5457](/bill/2023-24/sb/5457/) - Small cities/GMA 👍2  
 
 ## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍1  
 
@@ -418,7 +428,7 @@
 
 ## [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra. 👍1  
 
-## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍1  
+## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍2  
 * 👍💵 Amy Anderson
 
 ## [SB 5504](/bill/2023-24/sb/5504/) - Open vehicle safety recalls 👍1  

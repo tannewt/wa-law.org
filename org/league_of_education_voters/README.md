@@ -18,7 +18,7 @@
 
 ## [HB 1436](/bill/2023-24/hb/1436/) - Special education funding 👍1  
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍1  
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍3  
 
 ## [HB 1511](/bill/2023-24/hb/1511/) - Income/child care programs 👍1  
 

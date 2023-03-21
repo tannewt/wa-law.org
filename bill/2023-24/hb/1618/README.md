@@ -16,12 +16,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31040&aId=153547&caId=22260&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31040&aId=153547&caId=22260&tId=4)
 
-#### 17 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * Christene Hansen
 * Kathryn Robb - CHILD USAdvocacy
 * Michelle Bart - National Women's Coalition Against Violence & Exploitation (NWCAVE)
 * Mary Ellen Stone - King County Sexual Assault Resource Center
+* Renee Williams - National Crime Victim Bar Association
+* Courtney Butler
+* Riddhi Mukhopadhyay - Sexual Violence Law Center
+* Bridget Grotz - Washington State Association for Justice
+* Chris Love - Washington State Association for Justice
+* Skylar Schmitt
 
 #### 2 👎 - Con
 Testifying:

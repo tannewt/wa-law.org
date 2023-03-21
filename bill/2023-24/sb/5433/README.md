@@ -20,7 +20,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31065&aId=153676&caId=22313&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31065&aId=153676&caId=22313&tId=4)
 
-#### 9 👍 - Pro
+#### 118 👍 - Pro
+Testifying:
+* Brian Considine - Washington Department of Natural Resources
+* Timothy Greene - Makah Tribal Council
 
 #### 0 👎 - Con
 

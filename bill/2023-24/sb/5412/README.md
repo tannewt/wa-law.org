@@ -19,13 +19,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31073&aId=153710&caId=22377&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31073&aId=153710&caId=22377&tId=4)
 
-#### 20 👍 - Pro
+#### 71 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
+* 💵Scott Hazlegrove - Master Builders Association of King & Snohomish Counties
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Ian Morrison - NAIOP Washington State
+* 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Mark Gaines - WSDOT Development Division
+* Tim Gates - Ecology Shorelands Program
 
 ### Mon 02/20 01:30 PM - Transportation (TRAN): SSB 5412 Land use permitting/local
 #### 54 👍 - Pro

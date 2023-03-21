@@ -2,7 +2,8 @@
 
 ## [HB 1250](/bill/2023-24/hb/1250/) - Low-income home rehab. prg. 👍1  
 
-## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
+## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍2  
+* 👍💵 John Seng
 
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍3  
 * 👍💵 John Seng

@@ -20,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=153740&caId=22332&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=153740&caId=22332&tId=4)
 
-#### 28 👍 - Pro
+#### 89 👍 - Pro
 Testifying:
 * Austin Slater
 * Candis Hannah - ORION WATCH COMMUNITY OUTREACH PROGRAMS
@@ -30,8 +30,11 @@ Testifying:
 * Michael Edwards - Oly Construction LLC
 * Michael Robinson
 * Christopher Poulos - Center for Justice and Human Dignity
+* Janel McFeat - Washington Statewide Reentry Council
+* John Snaza
+* John Snaza
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

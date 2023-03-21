@@ -16,15 +16,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31069&aId=153688&caId=22271&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31069&aId=153688&caId=22271&tId=4)
 
-#### 70 👍 - Pro
+#### 91 👍 - Pro
 Testifying:
 * JC Harris - SeaTacNoise.Info
 * 💵Davor Gjurasic - [Nisqually Indian Tribe](/org/nisqually_indian_tribe/)
 * Bennett Butters
 * Dawn Sonntag - Stop The Airport
 * Bill Adamson - South Sound Military & Communities Partnership
+* Patricia Byers - Councilmember, City of Yakima
 
-#### 1 👎 - Con
+#### 7 👎 - Con
+Testifying:
+* Breck Lebegue - WA Physicians for Social Responsibility
+* Kym Anton - Enumclaw Plateau Community Association
 
 #### 1 ❓ - Other
 Testifying:

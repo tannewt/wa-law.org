@@ -13,6 +13,22 @@
 * [The Seattle Times](/org/the_seattle_times/) - [Reach out to voters before reworking their ballots | The Seattle Times](https://www.seattletimes.com/opinion/reach-out-to-voters-before-reworking-their-ballots/#:~:text=Senate Bill 5112)
 
 ## Meetings
+### Thu 03/23 04:00 PM - Transportation (TR): E2SSB 5112 Voter registration
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31057&aId=154183&caId=22440&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31057&aId=154183&caId=22440&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31057&aId=154183&caId=22440&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31057&aId=154183&caId=22440&tId=4)
+
+#### 46 👍 - Pro
+Testifying:
+* Carol Sullivan - League of Women Voters of WA
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+
+#### 2 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 03/10 08:00 AM - State Government & Tribal Relations (SGOV): E2SSB 5112 Voter registration
 #### 353 👍 - Pro
 Testifying:

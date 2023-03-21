@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31112&aId=153876&caId=22335&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31112&aId=153876&caId=22335&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Ken Fuller - WA State Board of Registration for Professional Engineer's and Land Surveyor's
 
 #### 0 👎 - Con
 

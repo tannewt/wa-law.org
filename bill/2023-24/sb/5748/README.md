@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 03/09 04:00 PM - Ways & Means (WM): SB 5748 Senior living meals/tax

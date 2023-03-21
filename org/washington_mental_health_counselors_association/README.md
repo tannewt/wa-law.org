@@ -4,8 +4,9 @@
 * 👍 CMHS, NCC, Shannon Thompson LMHC
 * 👍 PhD, LMHC, NCC, Dominique Avery
 
-## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce   ❓1
+## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce 👍1  ❓1
 * ❓ Dominique Avery
+* 👍 Dominique Avery
 
 ## [SB 5219](/bill/2023-24/sb/5219/) - Counseling compact 👍3  
 * 👍 CMHS, NCC, Shannon Thompson LMHC

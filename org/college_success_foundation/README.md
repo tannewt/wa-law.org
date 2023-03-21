@@ -2,6 +2,9 @@
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
+## [HB 1146](/bill/2023-24/hb/1146/) - Dual credit program notice 👍1  
+* 👍💵 Juliet Schindler
+
 ## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍1  
 
 ## [HB 1188](/bill/2023-24/hb/1188/) - Child welfare services/DD 👍1  
@@ -27,7 +30,7 @@
 
 ## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍2  
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍3  
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍3 👎1 
 
 ## [HB 1504](/bill/2023-24/hb/1504/) - Elementary school recess 👍1  
 

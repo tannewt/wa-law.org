@@ -4,7 +4,7 @@
 
 ## [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎1 
 
-## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍4  
+## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍5  
 * 👍💵 Kelly Olson
 
 ## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses 👍2  

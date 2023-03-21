@@ -1,6 +1,6 @@
 # Northwest Health Law Advocates
 
-## [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍1  
+## [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍2  
 
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍2  
 
@@ -22,7 +22,7 @@
 * 👍💵 Emily Brice
 * 👍💵 Emily Brice
 
-## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍2  
+## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍3  
 
 ## [HB 1745](/bill/2023-24/hb/1745/) - Diversity in clinical trials 👍1  
 
@@ -38,6 +38,8 @@
 
 ## [SB 5286](/bill/2023-24/sb/5286/) - Paid leave premiums 👍2  
 
+## [SB 5304](/bill/2023-24/sb/5304/) - Language access/testing 👍1  
+
 ## [SB 5338](/bill/2023-24/sb/5338/) - Essential health benefits 👍2  
 
 ## [SB 5388](/bill/2023-24/sb/5388/) - Diversity in clinical trials 👍1  
@@ -48,3 +50,5 @@
 ## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍1  
 
 ## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍1  
+
+## [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth 👍1  

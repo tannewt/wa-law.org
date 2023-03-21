@@ -14,19 +14,19 @@
 
 ## [HB 1132](/bill/2023-24/hb/1132/) - Limited authority officers 👍1  
 
-## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍1  
+## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍2  
 
-## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍4  
+## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍5  
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍6  
 
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍5  
 
-## [HB 1240](/bill/2023-24/hb/1240/) - Firearms/assault weapons 👍2  
+## [HB 1240](/bill/2023-24/hb/1240/) - Firearms/assault weapons 👍4  
 
 ## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍6  
 
-## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍2  
+## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍4  
 
 ## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits  👎1 
 * 👎💵 Kristin Ang
@@ -51,15 +51,15 @@
 
 ## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍8  
 
-## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍5  
+## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍7  
 
-## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍5  
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍6  
 
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍8  
 * 👍💵 Kristin Ang
 * 👍💵 Kristin Ang
 
-## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  
+## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍2  
 
 ## [HB 1723](/bill/2023-24/hb/1723/) - GMA/equity and env. justice 👍1  
 

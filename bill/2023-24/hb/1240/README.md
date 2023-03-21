@@ -30,14 +30,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153556&caId=22286&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153556&caId=22286&tId=4)
 
-#### 402 👍 - Pro
+#### 918 👍 - Pro
 Testifying:
 * Gwen Loosmore
 * Steve Albrecht
 * Tanya Aggar - WSPTA
 * Will McGinty - WA State Attorney General's Office
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
-#### 3249 👎 - Con
+#### 4623 👎 - Con
 Testifying:
 * Jeffrey Slotnick - Setracon Inc.
 * Eric pratt - I, America
@@ -69,8 +70,27 @@ Testifying:
 * Calvin Burris
 * Noah Young
 * Shawn Smith
+* james taasevigen
+* Jacob Evans
+* Scott Myers
+* Edward Traverso
+* Robert Moore - Sasquatch Tactical
+* Dale Johnson
+* BILL ELDRIDGE
+* Mary Gitts
+* Kevin Bridges
+* Scott Spletstoeser
+* Paul Scherling
+* Isaac Holyk
+* Elizabeth VanSteertegem
+* John Ecker - No
+* Riley Holloway
+* Nicholas Spacone
+* Amory Gengler
 
-#### 11 ❓ - Other
+#### 17 ❓ - Other
+Testifying:
+* eric cortez
 
 ### Tue 01/17 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1240 Firearms/assault weapons
 #### 1035 👍 - Pro

@@ -19,15 +19,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31087&aId=153768&caId=22248&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31087&aId=153768&caId=22248&tId=4)
 
-#### 14 👍 - Pro
+#### 73 👍 - Pro
 Testifying:
 * Dr. Lisa Parshley - Olympia City Council
+* Mindi Callison - Bailing Out Benji
+* Darci Duker
+* 💵Brooke Davies - [Pasado's Safe Haven](/org/pasado's_safe_haven/)
+* Claire Wilkinson
+* Dan Paul - The Humane Society of the United States
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Kathryn Neary
+* Cathleen Powell
 
 ### Fri 01/27 08:00 AM - Consumer Protection & Business (CPB): HB 1424 Dogs and cats/consumers
 #### 740 👍 - Pro

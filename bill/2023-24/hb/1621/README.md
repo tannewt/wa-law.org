@@ -15,11 +15,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31038&aId=153517&caId=22255&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31038&aId=153517&caId=22255&tId=4)
 
-#### 1 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * 💵Joren Clowers - [Washington Association of Sewer & Water Districts](/org/washington_association_of_sewer_&_water_districts/)
+* Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Darcey Peterson - King County Water District #90
+* Diane Pottinger - North City Water District
+* 💵Joren Clowers - [Washington Association of Sewer & Water Districts](/org/washington_association_of_sewer_&_water_districts/)
 
-#### 1 👎 - Con
+#### 10 👎 - Con
+Testifying:
+* 💵Mark Riker - Washington State Building & Construction Trades Council
 
 #### 0 ❓ - Other
 

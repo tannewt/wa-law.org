@@ -28,9 +28,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31096&aId=154061&caId=22406&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31096&aId=154061&caId=22406&tId=4)
 
-#### 3 👍 - Pro
+#### 32 👍 - Pro
+Testifying:
+* Jenn Hansen
 
-#### 0 👎 - Con
+#### 17 👎 - Con
+Testifying:
+* 💵Maxford Nelsen - [Freedom Foundation](/org/freedom_foundation/)
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 0 ❓ - Other
 

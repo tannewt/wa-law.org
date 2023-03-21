@@ -14,7 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31052&aId=153975&caId=22323&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31052&aId=153975&caId=22323&tId=4)
 
-#### 1 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* Mayor Victoria Woodards - [City of Tacoma](/org/city_of_tacoma/)
+* 💵Briahna Murray - Lobbyist for Cities of Kent and Tacoma
+* Julie Stormes - Kent Prosecuting Attorney
+* Toni Troutner - Kent City Councilmember
 
 #### 2 👎 - Con
 Testifying:

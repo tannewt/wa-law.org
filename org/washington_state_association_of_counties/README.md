@@ -20,6 +20,9 @@
 
 ## [HB 1138](/bill/2023-24/hb/1138/) - Drought preparedness 👍2  
 
+## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations   ❓1
+* ❓💵 Juliana Roe
+
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning   ❓2
@@ -81,7 +84,8 @@
 ## [HB 1421](/bill/2023-24/hb/1421/) - Voluntary stewardship prog. 👍2  
 * 👍💵 Paul Jewell
 
-## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍2  
+## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍3  
+* 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 
@@ -96,9 +100,10 @@
 ## [HB 1449](/bill/2023-24/hb/1449/) - Project permits/reports 👍1  
 * 👍💵 Paul Jewell
 
-## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍1  ❓1
+## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍2  ❓1
 * 👍💵 Paul Jewell
 * ❓💵 Paul Jewell
+* 👍💵 Paul Jewell
 
 ## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities  👎1 
 * 👎💵 Juliana Roe
@@ -145,9 +150,10 @@
 ## [HB 1787](/bill/2023-24/hb/1787/) - Transport and delivery  👎1 
 * 👎💵 Paul Jewell
 
-## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services   ❓2
+## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1  ❓2
 * ❓💵 Paul Jewell
 * ❓💵 Paul Jewell
+* 👍💵 Paul Jewell
 
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel  👎1 ❓1
 * ❓💵 Juliana Roe
@@ -170,6 +176,9 @@
 * ❓💵 Juliana Roe
 
 ## [SB 5159](/bill/2023-24/sb/5159/) - Shoreline program review 👍1  
+
+## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
+* 👍💵 Juliana Roe
 
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures 👍1  
 
@@ -195,7 +204,7 @@
 ## [SB 5287](/bill/2023-24/sb/5287/) - Wind turbine blade recycling 👍1  
 * 👍💵 Travis Dutton
 
-## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍2  
+## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍3  
 * 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 
@@ -253,6 +262,9 @@
 * 👍💵 Paul Jewell
 
 ## [SB 5523](/bill/2023-24/sb/5523/) - Forensic pathologists 👍1  
+
+## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances   ❓1
+* ❓💵 Juliana Roe
 
 ## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍2  
 * 👍💵 Juliana Roe

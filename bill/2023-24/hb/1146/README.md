@@ -15,13 +15,9 @@
 
 ## Meetings
 ### Mon 03/20 01:30 PM - Early Learning & K-12 Education (EDU): HB 1146 Dual credit program notice
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31115&aId=153905&caId=22239&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31115&aId=153905&caId=22239&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31115&aId=153905&caId=22239&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31115&aId=153905&caId=22239&tId=4)
-
-#### 6 👍 - Pro
+#### 53 👍 - Pro
+Testifying:
+* 💵Juliet Schindler - [College Success Foundation](/org/college_success_foundation/)
 
 #### 0 👎 - Con
 

@@ -2,12 +2,14 @@
 
 ## [HB 1015](/bill/2023-24/hb/1015/) - Paraeducator requirements 👍2  
 
-## [HB 1207](/bill/2023-24/hb/1207/) - Harassment/schools 👍1  
+## [HB 1146](/bill/2023-24/hb/1146/) - Dual credit program notice 👍1  
+
+## [HB 1207](/bill/2023-24/hb/1207/) - Harassment/schools 👍2  
 * 👍 John Harrison
 
-## [HB 1230](/bill/2023-24/hb/1230/) - School websites/drug info. 👍1  
+## [HB 1230](/bill/2023-24/hb/1230/) - School websites/drug info. 👍2  
 
-## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍2  
+## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍3  
 
 ## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options 👍2  
 
@@ -17,13 +19,13 @@
 
 ## [HB 1374](/bill/2023-24/hb/1374/) - Office of career connect WA 👍1  
 
-## [HB 1377](/bill/2023-24/hb/1377/) - Continuing education/K-12 👍1  
+## [HB 1377](/bill/2023-24/hb/1377/) - Continuing education/K-12 👍2  
 
 ## [HB 1399](/bill/2023-24/hb/1399/) - Native American scholarships 👍1  
 
 ## [HB 1451](/bill/2023-24/hb/1451/) - Child care workforce 👍1  
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍1  
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍2  
 
 ## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍2  
 
@@ -39,13 +41,13 @@
 
 ## [HB 1732](/bill/2023-24/hb/1732/) - K-12 inflation adjustments 👍1  
 
-## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
+## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍2  
 
 ## [SB 5054](/bill/2023-24/sb/5054/) - Prof. learning communities 👍1  
 
 ## [SB 5072](/bill/2023-24/sb/5072/) - Highly capable students 👍1  
 
-## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍2  
+## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍3  
 
 ## [SB 5243](/bill/2023-24/sb/5243/) - High school and beyond plans 👍2  
 

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 03/20 10:30 AM - Labor & Commerce (LC): HB 1563 Medical use of cannabis
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31095&aId=153787&caId=22224&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31095&aId=153787&caId=22224&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31095&aId=153787&caId=22224&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31095&aId=153787&caId=22224&tId=4)
-
-#### 14 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Burl Bryson - The Cannabis Alliance
 * Steven Field
@@ -25,7 +19,7 @@ Testifying:
 * Burl Bryson - The Cannabis Alliance
 * john Worthington - AAMC
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -16,7 +16,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31063&aId=153668&caId=22266&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31063&aId=153668&caId=22266&tId=4)
 
-#### 102 👍 - Pro
+#### 240 👍 - Pro
 Testifying:
 * Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Ruth Sawyer - [Sierra Club](/org/sierra_club/)
@@ -24,13 +24,25 @@ Testifying:
 * Maggie Yuse - Seattle Public Utilities and Seattle City Light
 * Ryan Collins - Snohomish County PUD
 * 💵Joren Clowers - [Washington Association of Sewer & Water Districts](/org/washington_association_of_sewer_&_water_districts/)
+* 💵Charlee Thompson - NW Energy Coalition
+* 💵John Seng - [Spark Northwest](/org/spark_northwest/)
+* Deputy Mayor Kristina Walker - [City of Tacoma](/org/city_of_tacoma/)
+* Lisa Gafken - Attorney General's Office
+* Rory Paine-Donovan - WA AGO
+* 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
-#### 2 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Chelsea Martin - Representing Modern Electric Water Company
 * 💵Jay Balasbas - PacifiCorp
+* Austin Scharff - Washington Department of Commerce
+* Susan Cutrell - Parkland Light & Water Company
+* Austin Scharff - Washington State Dept. of Commerce
+* 💵Steve Taylor - Cowlitz Public Utility District No. 1
+* 💵Bill Clarke - Regional Water Cooperative of Pierce County
+* 💵Nicolas Garcia - WA PUD Association
 
 ### Thu 01/26 08:00 AM - Environment & Energy (ENVI): HB 1329 Utility shutoffs/heat
 #### 73 👍 - Pro

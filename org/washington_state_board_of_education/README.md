@@ -9,9 +9,9 @@
 
 ## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍2  
 
-## [HB 1146](/bill/2023-24/hb/1146/) - Dual credit program notice 👍1  
+## [HB 1146](/bill/2023-24/hb/1146/) - Dual credit program notice 👍2  
 
-## [HB 1207](/bill/2023-24/hb/1207/) - Harassment/schools 👍1  
+## [HB 1207](/bill/2023-24/hb/1207/) - Harassment/schools 👍2  
 
 ## [HB 1228](/bill/2023-24/hb/1228/) - Dual & tribal language edu. 👍1  
 
@@ -40,9 +40,9 @@
 
 ## [HB 1411](/bill/2023-24/hb/1411/) - Cross-sector prof. dev. 👍1  
 
-## [HB 1478](/bill/2023-24/hb/1478/) - Student rights 👍2  
+## [HB 1478](/bill/2023-24/hb/1478/) - Student rights 👍3  
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍1  
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍2  
 
 ## [HB 1504](/bill/2023-24/hb/1504/) - Elementary school recess 👍1  
 
@@ -57,10 +57,14 @@
 
 ## [HB 1692](/bill/2023-24/hb/1692/) - Student advisory groups 👍1  
 
+## [HB 1714](/bill/2023-24/hb/1714/) - Financial literacy grants 👍1  
+
 ## [HB 1744](/bill/2023-24/hb/1744/) - Charter school oversight   ❓1
 * ❓ Randy Spaulding
 
 ## [HB 1821](/bill/2023-24/hb/1821/) - Postsecondary credentials   ❓1
+
+## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
 
 ## [SB 5054](/bill/2023-24/sb/5054/) - Prof. learning communities   ❓1
 * ❓ J. Lee Schultz
@@ -83,7 +87,7 @@
 
 ## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍2  
 
-## [SB 5315](/bill/2023-24/sb/5315/) - Special education/nonpublic 👍1  
+## [SB 5315](/bill/2023-24/sb/5315/) - Special education/nonpublic 👍2  
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
 

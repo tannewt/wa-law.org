@@ -14,13 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31116&aId=153908&caId=22267&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31116&aId=153908&caId=22267&tId=4)
 
-#### 62 👍 - Pro
+#### 109 👍 - Pro
 Testifying:
 * Cindy Madigan - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
 
-#### 0 👎 - Con
+#### 21 👎 - Con
+Testifying:
+* Maya Morales - WA People's Privacy
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jonathan Pincus
 
 ### Tue 01/24 01:30 PM - State Government & Tribal Relations (SGOV): HB 1317 Grassroots lobbying
 #### 36 👍 - Pro

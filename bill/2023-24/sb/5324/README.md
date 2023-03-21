@@ -14,9 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31071&aId=154151&caId=22424&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31071&aId=154151&caId=22424&tId=4)
 
-#### 3 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * 💵Holly Cocci - [City of Airway Heights](/org/city_of_airway_heights/)
+* Dave Pringle - Dept. of Commerce
+* Michelle Kuss-Cybula - Oak Harbor Public Schools
+* Dwight Lundstrom - Oak Harbor Public Schools
+* 💵Shelly Helder - South Sound Military & Communities Partnership
 
 #### 0 👎 - Con
 

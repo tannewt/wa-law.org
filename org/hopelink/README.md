@@ -12,7 +12,7 @@
 
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍3  
 
-## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍2  
+## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍3  
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
 
@@ -37,9 +37,9 @@
 
 ## [HB 1517](/bill/2023-24/hb/1517/) - Transit-oriented development 👍1  
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍2  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍3  
 
-## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍2  
+## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍3  
 
 ## [HB 1596](/bill/2023-24/hb/1596/) - Affordable housing incentive 👍2  
 
@@ -59,7 +59,7 @@
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 
-## [SB 5171](/bill/2023-24/sb/5171/) - Consumer products/gender 👍1  
+## [SB 5171](/bill/2023-24/sb/5171/) - Consumer products/gender 👍2  
 
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures 👍1  
 

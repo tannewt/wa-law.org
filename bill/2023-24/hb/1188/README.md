@@ -17,7 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154101&caId=22411&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154101&caId=22411&tId=4)
 
-#### 3 👍 - Pro
+#### 28 👍 - Pro
+Testifying:
+* 💵Diana Stadden - The Arc of WA State
+* Marissa Ingalls - Coordinated Care
 
 #### 0 👎 - Con
 

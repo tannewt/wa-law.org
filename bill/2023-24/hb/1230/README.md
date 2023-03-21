@@ -15,19 +15,17 @@
 
 ## Meetings
 ### Mon 03/20 01:30 PM - Early Learning & K-12 Education (EDU): HB 1230 School websites/drug info.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31115&aId=153904&caId=22238&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31115&aId=153904&caId=22238&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31115&aId=153904&caId=22238&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31115&aId=153904&caId=22238&tId=4)
-
-#### 145 👍 - Pro
+#### 246 👍 - Pro
 Testifying:
 * Dr. Gwen Loosmore - Washington State PTA
+* Flynn Williams
+* Leanne Kennedy
+* Petra Hoy - Moms Demand Action
+* Jeff Ketchel - [Washington State Public Health Association](/org/washington_state_public_health_association/)
 
-#### 0 👎 - Con
+#### 32 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 01/26 08:00 AM - Education (ED): HB 1230 School websites/drug info.
 #### 414 👍 - Pro

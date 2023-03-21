@@ -56,6 +56,8 @@
 
 ## [HB 1313](/bill/2023-24/hb/1313/) - Health care afford./medicare 👍1  
 
+## [HB 1317](/bill/2023-24/hb/1317/) - Grassroots lobbying 👍1  
+
 ## [HB 1322](/bill/2023-24/hb/1322/) - Walla Walla water 2050 plan 👍1  
 
 ## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses 👍2  
@@ -120,6 +122,8 @@
 
 ## [HB 1517](/bill/2023-24/hb/1517/) - Transit-oriented development 👍1  
 
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
+
 ## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍1  
 
 ## [HB 1584](/bill/2023-24/hb/1584/) - Nuclear reactor technology  👎1 
@@ -161,7 +165,7 @@
 
 ## [SB 5105](/bill/2023-24/sb/5105/) - Digital driver's licenses  👎1 
 
-## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍3  
+## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍4  
 
 ## [SB 5129](/bill/2023-24/sb/5129/) - Nuclear reactor technology  👎1 
 

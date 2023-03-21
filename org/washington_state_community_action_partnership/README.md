@@ -16,7 +16,7 @@
 
 ## [HB 1251](/bill/2023-24/hb/1251/) - Water system notices 👍1  
 
-## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍2  
+## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍3  
 
 ## [HB 1265](/bill/2023-24/hb/1265/) - Adult family homes/prop. tax 👍1  
 
@@ -65,7 +65,7 @@
 
 ## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍1  
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍2  
 
 ## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍1  
 
@@ -81,6 +81,9 @@
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍2  
+
+## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
+* 👍 Linda Garcia
 
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍1  
 

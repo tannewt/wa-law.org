@@ -20,15 +20,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31112&aId=153875&caId=22334&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31112&aId=153875&caId=22334&tId=4)
 
-#### 5 👍 - Pro
+#### 130 👍 - Pro
 Testifying:
 * 💵Michael Moran - Lake Washington High School/Capitol Classroom
+* Kathy Sakahara - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* Catherine Im
+* Gabrielle Heuer
+* Mahee Nemani - Lake Washington High School
+* Leah White - Washington State Women's Commission
 
-#### 1 👎 - Con
+#### 22 👎 - Con
 Testifying:
 * Eric pratt - I, America
+* ROSE GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
 
 ### Wed 02/22 01:30 PM - Ways & Means (WM): SSB 5171 Consumer products/gender
 #### 60 👍 - Pro

@@ -63,7 +63,7 @@
 ## [HB 1644](/bill/2023-24/hb/1644/) - Margin tax  👎1 
 * 👎 Chris Herman
 
-## [HB 1663](/bill/2023-24/hb/1663/) - Consolidated port districts 👍2  
+## [HB 1663](/bill/2023-24/hb/1663/) - Consolidated port districts 👍3  
 
 ## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍2  
 
@@ -81,15 +81,18 @@
 
 ## [HB 1787](/bill/2023-24/hb/1787/) - Transport and delivery 👍1  
 
-## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1 👎2 
+## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍2 👎2 
 * 👎 Eric ffitch
 * 👍💵 John Stuhlmiller
+* 👍 Eric ffitch
 
 ## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services 👍1  
 
 ## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge   ❓2
 * ❓💵 Marian Dacca
 * ❓ Eric ffitch
+
+## [HB 1838](/bill/2023-24/hb/1838/) - Transp. revenue forecast 👍1  
 
 ## [HB 1839](/bill/2023-24/hb/1839/) - Train length  👎1 
 
@@ -106,7 +109,11 @@
 
 ## [SB 5192](/bill/2023-24/sb/5192/) - Derelict vessel appeals 👍2  
 
-## [SB 5229](/bill/2023-24/sb/5229/) - Site readiness grants 👍3  
+## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
+* 👍 Eric ffitch
+
+## [SB 5229](/bill/2023-24/sb/5229/) - Site readiness grants 👍4  
+* 👍 Chris Herman
 * 👍 Chris Herman
 * 👍 Chris Herman
 

@@ -11,4 +11,5 @@
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest 👍2  
 
-## [SB 5173](/bill/2023-24/sb/5173/) - Property exempt from exec. 👍1  
+## [SB 5173](/bill/2023-24/sb/5173/) - Property exempt from exec. 👍2  
+* 👍 Christina Henry

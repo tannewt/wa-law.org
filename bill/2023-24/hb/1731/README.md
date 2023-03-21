@@ -10,17 +10,15 @@
 
 ## Meetings
 ### Mon 03/20 10:30 AM - Labor & Commerce (LC): ESHB 1731 Short-term rentals/liquor
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31095&aId=153788&caId=22225&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31095&aId=153788&caId=22225&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31095&aId=153788&caId=22225&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31095&aId=153788&caId=22225&tId=4)
+#### 1 👍 - Pro
 
-#### 0 👍 - Pro
+#### 2 👎 - Con
+Testifying:
+* Scott Waller - WASAVP - Prevention First! for Safe and Healthy Communities
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Marc Webster - [Liquor and Cannabis Board](/org/liquor_and_cannabis_board/)
 
 ### Thu 02/09 08:00 AM - Regulated Substances & Gaming (RSG): HB 1731 Short-term rentals/liquor
 #### 2 👍 - Pro

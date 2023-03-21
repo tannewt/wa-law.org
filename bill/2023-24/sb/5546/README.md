@@ -12,23 +12,45 @@
 * [Crosscut](/org/crosscut/) - [How federal weed legalization would impact Washington state | Crosscut](https://crosscut.com/politics/2023/03/how-federal-weed-legalization-would-impact-washington-state#:~:text=Senate Bill 5546)
 
 ## Meetings
-### Mon 03/20 01:30 PM - Regulated Substances & Gaming (RSG): ESSB 5546 Cannabis commission
+### Tue 03/21 04:00 PM - Regulated Substances & Gaming (RSG): ESSB 5546 Cannabis commission
 Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31102&aId=153837&caId=22390&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31102&aId=153837&caId=22390&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31102&aId=153837&caId=22390&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31102&aId=153837&caId=22390&tId=4)
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31104&aId=154380&caId=22443&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31104&aId=154380&caId=22443&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31104&aId=154380&caId=22443&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31104&aId=154380&caId=22443&tId=4)
 
-#### 11 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Burl Bryson - The Cannabis Alliance
+
+#### 5 👎 - Con
+Testifying:
+* 💵Ezra Eickmeyer - Producers NW
+* Bethany Rondeaux
+
+#### 0 ❓ - Other
+
+### Mon 03/20 01:30 PM - Regulated Substances & Gaming (RSG): ESSB 5546 Cannabis commission
+#### 37 👍 - Pro
 Testifying:
 * Shawn DeNae Wagenseller - The Cannabis Alliance and WA Sun & Craft Growers
 * Burl Bryson - The Cannabis Alliance
 * Mike Asai - Black Excellence In Cannabis
 * Peter Manning - Black Excellence In Cannabis
+* john Worthington - AAMC
+* 💵Lara Kaminsky - The Cannabis Alliance
 
-#### 0 👎 - Con
+#### 32 👎 - Con
+Testifying:
+* 💵Ezra Eickmeyer - Producers NW
+* Lukas Hunter - Harmony Farms
+* 💵Vicki Christophersen - Washington CannaBusiness Association
+* German Burtscher - Artizen
+* Bethany Rondeaux
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Kelly McLain - Washington State Department of Agriculture
 
 ### Mon 02/20 09:00 AM - Ways & Means (WM): SSB 5546 Cannabis commission
 #### 51 👍 - Pro

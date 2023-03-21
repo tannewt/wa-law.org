@@ -20,15 +20,28 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31040&aId=153548&caId=22261&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31040&aId=153548&caId=22261&tId=4)
 
-#### 10 👍 - Pro
+#### 72 👍 - Pro
 Testifying:
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
+* April Zeoli - University of Michigan, School of Public Health, Institute for Firearm Injury Prevention
+* Jolaine Joseph - Survivor
+* Julia Weber - Director, Battered Women’s Justice Project, National Center on Gun Violence
+* Kelly Sampson - Senior Counsel and Director of Racial Justice, Brady United to Prevent Gun Violence
+* Angelica Campbell - Survivor
+* Mary Ellen Stone - CEO, King County Sexual Assault Resource Center
+* Riddhi Mukhopadhyay - Executive Director, Sexual Violence Law Center; Washington State Women's Commission
+* 💵Stephen Paolini - Family Member
+* Amy Freedheim - Chair, Felony Traffic Unit, KCPAO
+* Dana Cuomo - Lafayette College
+* Sandra Shanahan - Regional Domestic Violence Firearms Enforcement Unit?
 
-#### 2 👎 - Con
+#### 34 👎 - Con
 Testifying:
 * Dale Johnson
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Lindsay Herendeen - State Board of Health
 
 ### Tue 02/07 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1562 Violence
 #### 513 👍 - Pro

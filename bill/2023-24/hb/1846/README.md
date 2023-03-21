@@ -8,17 +8,15 @@
 
 ## Meetings
 ### Mon 03/20 04:00 PM - Transportation (TR): HB 1846 Ferry vessel procurement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31055&aId=154087&caId=22409&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31055&aId=154087&caId=22409&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31055&aId=154087&caId=22409&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31055&aId=154087&caId=22409&tId=4)
-
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Walt Elliott - Kingston North Kitsap Rotary
 * Tom Thiersch - Ferry Advisory Committee
+* Charles Prestrud - Washington Policy Center
 
-#### 0 👎 - Con
+#### 11 👎 - Con
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Jeff DeVere - Nichols Brothers Boat Builders - Everett Ship Repair
+* 💵Gordon Baxter - Puget Sound Metal Trades Council, AFL-CIO

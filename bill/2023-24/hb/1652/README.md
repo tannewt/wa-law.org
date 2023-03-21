@@ -16,7 +16,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31040&aId=153550&caId=22263&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31040&aId=153550&caId=22263&tId=4)
 
-#### 10 👍 - Pro
+#### 63 👍 - Pro
+Testifying:
+* 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* Dorothy Gorder
+* John Chan
+* Amy Roark
 
 #### 0 👎 - Con
 

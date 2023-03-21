@@ -19,9 +19,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31120&aId=153930&caId=22367&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31120&aId=153930&caId=22367&tId=4)
 
-#### 8 👍 - Pro
+#### 52 👍 - Pro
 
-#### 0 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* 💵Johan Hellman - BNSF Railway
+* 💵Aaron Hunt - Union Pacific Railroad
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 0 ❓ - Other
 

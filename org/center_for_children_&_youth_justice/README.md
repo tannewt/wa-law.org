@@ -2,7 +2,7 @@
 
 ## [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎1 
 
-## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍1  
+## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍2  
 
 ## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍1  
 
@@ -19,6 +19,8 @@
 
 ## [HB 1440](/bill/2023-24/hb/1440/) - Juvenile court jurisdiction 👍1  
 * 👍 William Hairston
+
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍1  
 
 ## [HB 1591](/bill/2023-24/hb/1591/) - Open adoption agreements 👍1  
 

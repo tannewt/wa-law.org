@@ -17,10 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=153739&caId=22331&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=153739&caId=22331&tId=4)
 
-#### 2 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 * Cody Reiter - Attorney General's Office
+* Barbara Serrano - Office of Governor Jay Inslee
+* Neil Weaver - Washington State Patrol
+* Mark McKechnie - Washington Traffic Safety Commission
+* James McMahana - WA Assoc Sheriffs & Police Chiefs
 
 #### 0 👎 - Con
 

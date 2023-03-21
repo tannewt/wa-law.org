@@ -12,6 +12,8 @@
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
 * 👍 Jennifer Stuber
 
+## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer  👎1 
+
 ## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍1  
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning  👎1 
@@ -29,7 +31,8 @@
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
 
-## [HB 1390](/bill/2023-24/hb/1390/) - District energy systems 👍2  
+## [HB 1390](/bill/2023-24/hb/1390/) - District energy systems 👍3  
+* 👍 David Woodson
 * 👍 David Woodson
 
 ## [HB 1399](/bill/2023-24/hb/1399/) - Native American scholarships 👍1  
@@ -71,8 +74,9 @@
 
 ## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge  👎2 
 
-## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
+## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍2  
 * 👍 Joe Dacca
+* 👍 Amanda Kost
 
 ## [SB 5079](/bill/2023-24/sb/5079/) - Tuition establishment date 👍1  
 
@@ -87,6 +91,9 @@
 * 👍 Anna Ratzliff
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
+
+## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
+* 👍💵 Morgan Hickel
 
 ## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I 👍1  
 
@@ -115,7 +122,7 @@
 
 ## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍3  
 
-## [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth  👎1 
+## [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth  👎2 
 
 ## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands. 👍1  
 

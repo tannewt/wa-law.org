@@ -25,16 +25,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31117&aId=153912&caId=22277&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31117&aId=153912&caId=22277&tId=4)
 
-#### 2 👍 - Pro
+#### 24 👍 - Pro
+Testifying:
+* William Barnet - Brinnon School District Board Member
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
+* Stephanie Sherman-Petersen
 
-#### 7 👎 - Con
+#### 30 👎 - Con
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 * Trish Beathard - Brinnon School District
 * Kevin Knight - Superintendent Colville School District
 * Anne Arnold - Everett Public Schools
+* Colleen Condon - Washington Childcare Center Association
+* Laura Murphey - Washington Childcare Center Association
+* Susan Brown - Washington Childcare Center Association
+* Baljinder Sohal - Auburn School District
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Wade Smith - Walla Walla Public Schools
 * Paul Clark - Colton School District

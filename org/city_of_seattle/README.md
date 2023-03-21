@@ -32,7 +32,7 @@
 
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍2  
 
-## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍1  
+## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍2  
 
 ## [HB 1178](/bill/2023-24/hb/1178/) - Firearms/local government 👍2  
 * 👍 Monisha Harrell
@@ -94,7 +94,7 @@
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
 
-## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍2  
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍3  
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
 
@@ -107,6 +107,8 @@
 ## [HB 1793](/bill/2023-24/hb/1793/) - Wireless devices tax 👍1  
 
 ## [HB 1795](/bill/2023-24/hb/1795/) - Estate tax 👍1  
+
+## [HB 1847](/bill/2023-24/hb/1847/) - Community authority/tax 👍1  
 
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍1  
 

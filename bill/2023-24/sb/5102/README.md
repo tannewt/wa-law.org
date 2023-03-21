@@ -16,14 +16,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31044&aId=153583&caId=22338&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31044&aId=153583&caId=22338&tId=4)
 
-#### 68 👍 - Pro
+#### 160 👍 - Pro
 Testifying:
 * Benjamin Kort
 * Sharon Loniewski - Camas Educational Association
 * Gavin Downing
 * Roman Wright
+* Laura Sheppard
+* Eryn Duffee - [Washington Library Association](/org/washington_library_association/)
+* Alisha Doucette
+* Tammy Grubb
+* 💵Carolyn Logue - [Washington Library Association](/org/washington_library_association/)
+* Jennifer Loughrey
+* ManChui Leung
+* Craig Seasholes
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other
 

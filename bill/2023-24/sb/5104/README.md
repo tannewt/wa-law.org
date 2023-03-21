@@ -11,19 +11,17 @@
 
 ## Meetings
 ### Mon 03/20 01:30 PM - Environment & Energy (ENVI): SB 5104 Marine shoreline habitat
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31081&aId=153729&caId=22340&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31081&aId=153729&caId=22340&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31081&aId=153729&caId=22340&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31081&aId=153729&caId=22340&tId=4)
-
-#### 17 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * Scott Andrews - [Audubon Washington](/org/audubon_washington/)
+* Staci McMahon - Seattle Aquarium
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Tim Gates - Ecology Shorelands Program
+* Don Gourlie - Puget Sound Partnership
 
 ### Mon 02/06 04:00 PM - Ways & Means (WM): SB 5104 Marine shoreline habitat
 #### 372 👍 - Pro

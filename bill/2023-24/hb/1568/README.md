@@ -16,11 +16,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31048&aId=154161&caId=22427&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31048&aId=154161&caId=22427&tId=4)
 
-#### 0 👍 - Pro
+#### 85 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 02/08 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1568 Long-term care professionals
 #### 60 👍 - Pro

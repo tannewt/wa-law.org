@@ -1,9 +1,15 @@
 # Seattle Education Association
 
+## [HB 1187](/bill/2023-24/hb/1187/) - Employee-union privilege 👍1  
+
+## [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information 👍1  
+
 ## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍4  
 * 👍 Karl Gapuz
 
 ## [HB 1732](/bill/2023-24/hb/1732/) - K-12 inflation adjustments 👍2  
+
+## [HB 1744](/bill/2023-24/hb/1744/) - Charter school oversight 👍1  
 
 ## [SB 5174](/bill/2023-24/sb/5174/) - Student transportation 👍3  
 

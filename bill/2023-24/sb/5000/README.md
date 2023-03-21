@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31108&aId=153856&caId=22394&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31108&aId=153856&caId=22394&tId=4)
 
-#### 46 👍 - Pro
+#### 62 👍 - Pro
 Testifying:
 * Vivian Dong
 * 💵Kendall Kosai - Commission on Asian Pacific American Affairs
@@ -34,6 +34,12 @@ Testifying:
 * Shu-Fen Tang - n/a
 * Fei Tian
 * Tony Zhu
+* Wendy Yee
+* Wendy Yee
+* Kan Qiu - ACE Foundation
+* Linda Yang - WA Asians For Equality
+* Feng Yang
+* Yancen Lu
 
 #### 0 👎 - Con
 

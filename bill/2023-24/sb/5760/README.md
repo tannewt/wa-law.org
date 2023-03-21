@@ -8,16 +8,14 @@
 
 ## Meetings
 ### Mon 03/20 04:00 PM - Transportation (TRAN): SB 5760 Ferry vessel procurement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31068&aId=154057&caId=22404&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31068&aId=154057&caId=22404&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31068&aId=154057&caId=22404&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31068&aId=154057&caId=22404&tId=4)
-
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Walt Elliott
+* Tom Thiersch - Ferry Advisory Committee
 
-#### 0 👎 - Con
+#### 8 👎 - Con
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Jeff DeVere - Nichols Brothers Boat Builders - Everett Ship Repair
+* 💵Gordon Baxter - Puget Sound Metal Trades Council, AFL-CIO

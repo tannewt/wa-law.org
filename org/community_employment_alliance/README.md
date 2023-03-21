@@ -1,6 +1,6 @@
 # Community Employment Alliance
 
-## [HB 1188](/bill/2023-24/hb/1188/) - Child welfare services/DD 👍1  
+## [HB 1188](/bill/2023-24/hb/1188/) - Child welfare services/DD 👍2  
 
 ## [HB 1407](/bill/2023-24/hb/1407/) - Dev. disability/eligibility 👍3  
 

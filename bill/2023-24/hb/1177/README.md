@@ -17,13 +17,7 @@
 
 ## Meetings
 ### Mon 03/20 10:30 AM - Law & Justice (LAW): SHB 1177 Indigenous women
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31039&aId=153542&caId=22229&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31039&aId=153542&caId=22229&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31039&aId=153542&caId=22229&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31039&aId=153542&caId=22229&tId=4)
-
-#### 106 👍 - Pro
+#### 160 👍 - Pro
 Testifying:
 * Blair Daly
 * Councilwoman Charlene Tillequots - Yakama Nation Tribal Council
@@ -32,10 +26,11 @@ Testifying:
 * Andrew Guillen - Seattle Indian Health Board
 * Adaora Ugwueze
 * Leydi Hernandez Quiros
+* Marissa Perez - The Yarrow Project
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 02/06 04:00 PM - Appropriations (APP): SHB 1177 Indigenous women
 #### 187 👍 - Pro

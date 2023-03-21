@@ -1,5 +1,7 @@
 # Port of Skagit
 
+## [HB 1267](/bill/2023-24/hb/1267/) - Rural public facilities/tax 👍1  
+
 ## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍1  
 
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services  👎1 

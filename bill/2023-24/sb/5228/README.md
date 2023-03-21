@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31058&aId=153647&caId=22344&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31058&aId=153647&caId=22344&tId=4)
 
-#### 41 👍 - Pro
+#### 240 👍 - Pro
+Testifying:
+* Abigail Cooper - [Downtown Emergency Service Center](/org/downtown_emergency_service_center/)
+* OTD, MA-OTR/L, Josephine Jarvis - Occupational Therapist
+* Diane Norell - [Washington Occupational Therapy Association](/org/washington_occupational_therapy_association/)
 
 #### 0 👎 - Con
 

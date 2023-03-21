@@ -16,13 +16,15 @@
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
 
-## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍2  
+## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍3  
+
+## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍1  
 
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
 
 ## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍1  
 
-## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
+## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍2  
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
 
@@ -56,6 +58,8 @@
 ## [HB 1596](/bill/2023-24/hb/1596/) - Affordable housing incentive 👍1  
 * 👍💵 Brian Enslow
 
+## [HB 1599](/bill/2023-24/hb/1599/) - Firearm background checks 👍1  
+
 ## [HB 1600](/bill/2023-24/hb/1600/) - Firearms/juvenile records 👍1  
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
@@ -85,6 +89,8 @@
 
 ## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍2  
 
+## [SB 5300](/bill/2023-24/sb/5300/) - Behavioral health continuity 👍1  
+
 ## [SB 5303](/bill/2023-24/sb/5303/) - Public works trust account 👍1  
 
 ## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍1  
@@ -101,6 +107,8 @@
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍2  
 
+## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  
+
 ## [SB 5553](/bill/2023-24/sb/5553/) - Temporary emergency shelters 👍1  
 
 ## [SB 5555](/bill/2023-24/sb/5555/) - Certified peer specialists 👍1  
@@ -108,3 +116,5 @@
 ## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy 👍1  
 
 ## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍1  
+
+## [SB 5606](/bill/2023-24/sb/5606/) - Illegal racing 👍1  

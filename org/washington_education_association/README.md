@@ -66,11 +66,11 @@
 
 ## [HB 1137](/bill/2023-24/hb/1137/) - Return-to-work opportunities  👎1 
 
-## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍2  
+## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍3  
 
 ## [HB 1144](/bill/2023-24/hb/1144/) - Firearms/purchase & transfer 👍1  
 
-## [HB 1146](/bill/2023-24/hb/1146/) - Dual credit program notice 👍1  
+## [HB 1146](/bill/2023-24/hb/1146/) - Dual credit program notice 👍2  
 
 ## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍2  
 
@@ -84,9 +84,9 @@
 
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
 
-## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍2  
+## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍3  
 
-## [HB 1187](/bill/2023-24/hb/1187/) - Employee-union privilege 👍1  
+## [HB 1187](/bill/2023-24/hb/1187/) - Employee-union privilege 👍2  
 
 ## [HB 1192](/bill/2023-24/hb/1192/) - Electric transm. planning 👍1  
 
@@ -94,9 +94,9 @@
 
 ## [HB 1199](/bill/2023-24/hb/1199/) - Child care/communities 👍1  
 
-## [HB 1200](/bill/2023-24/hb/1200/) - Employee information/unions 👍1  
+## [HB 1200](/bill/2023-24/hb/1200/) - Employee information/unions 👍2  
 
-## [HB 1207](/bill/2023-24/hb/1207/) - Harassment/schools 👍1  
+## [HB 1207](/bill/2023-24/hb/1207/) - Harassment/schools 👍2  
 
 ## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍2  
 
@@ -122,7 +122,7 @@
 ## [HB 1239](/bill/2023-24/hb/1239/) - Educator ethics & complaints   ❓1
 * ❓💵 Nasue Nishida
 
-## [HB 1240](/bill/2023-24/hb/1240/) - Firearms/assault weapons 👍1  
+## [HB 1240](/bill/2023-24/hb/1240/) - Firearms/assault weapons 👍2  
 
 ## [HB 1241](/bill/2023-24/hb/1241/) - Harassment 👍1  
 
@@ -186,7 +186,7 @@
 
 ## [HB 1360](/bill/2023-24/hb/1360/) - Alt. professional licensing  👎1 
 
-## [HB 1377](/bill/2023-24/hb/1377/) - Continuing education/K-12 👍1  ❓1
+## [HB 1377](/bill/2023-24/hb/1377/) - Continuing education/K-12 👍2  ❓1
 * ❓💵 Nasue Nishida
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
@@ -225,9 +225,10 @@
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍3  
 
-## [HB 1478](/bill/2023-24/hb/1478/) - Student rights 👍1  
+## [HB 1478](/bill/2023-24/hb/1478/) - Student rights 👍2  
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation   ❓2
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation   ❓3
+* ❓ Jared Mason-Gere
 * ❓ Jared Mason-Gere
 * ❓ Jared Mason-Gere
 
@@ -265,10 +266,11 @@
 
 ## [HB 1548](/bill/2023-24/hb/1548/) - Railroad workers 👍1  
 
-## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten  👎1 ❓2
+## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍1 👎1 ❓2
 * 👎💵 Nasue Nishida
 * ❓💵 Julie Salvi
 * ❓💵 Julie Salvi
+* 👍💵 Nasue Nishida
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍3  
 * 👍💵 Simone Boe
@@ -285,6 +287,8 @@
 ## [HB 1611](/bill/2023-24/hb/1611/) - Local government permitting 👍1  
 
 ## [HB 1615](/bill/2023-24/hb/1615/) - Education savings accounts  👎1 
+
+## [HB 1621](/bill/2023-24/hb/1621/) - Local government procurement  👎1 
 
 ## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍2  
 
@@ -318,7 +322,7 @@
 * 👍💵 Julie Salvi
 * 👍💵 Julie Salvi
 
-## [HB 1744](/bill/2023-24/hb/1744/) - Charter school oversight 👍1  
+## [HB 1744](/bill/2023-24/hb/1744/) - Charter school oversight 👍2  
 * 👍💵 Julie Salvi
 
 ## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍4  
@@ -348,11 +352,11 @@
 ## [SB 5024](/bill/2023-24/sb/5024/) - K-12 education/parent rights  👎1 
 * 👎💵 Julie Salvi
 
-## [SB 5031](/bill/2023-24/sb/5031/) - Special ed safety net awards 👍1  
+## [SB 5031](/bill/2023-24/sb/5031/) - Special ed safety net awards 👍2  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act 👍1  
 
-## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
+## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍2  
 
 ## [SB 5054](/bill/2023-24/sb/5054/) - Prof. learning communities 👍3  
 * 👍💵 Nasue Nishida
@@ -367,7 +371,7 @@
 
 ## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍1  
 
-## [SB 5102](/bill/2023-24/sb/5102/) - School library info and tech 👍2  
+## [SB 5102](/bill/2023-24/sb/5102/) - School library info and tech 👍3  
 
 ## [SB 5110](/bill/2023-24/sb/5110/) - Labor practices/penalties 👍2  
 
@@ -385,7 +389,7 @@
 
 ## [SB 5141](/bill/2023-24/sb/5141/) - WMS bargaining 👍2  
 
-## [SB 5153](/bill/2023-24/sb/5153/) - Future voters/records 👍1  
+## [SB 5153](/bill/2023-24/sb/5153/) - Future voters/records 👍2  
 
 ## [SB 5165](/bill/2023-24/sb/5165/) - Electric transm. planning 👍1  
 
@@ -397,7 +401,7 @@
 * 👍💵 Julie Salvi
 * ❓💵 Julie Salvi
 
-## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍2  
+## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍3  
 
 ## [SB 5182](/bill/2023-24/sb/5182/) - Candidate filing 👍2  
 
@@ -409,6 +413,9 @@
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
 
 ## [SB 5192](/bill/2023-24/sb/5192/) - Derelict vessel appeals 👍1  
+
+## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
+* 👍 Jared Mason-Gere
 
 ## [SB 5208](/bill/2023-24/sb/5208/) - Online voter registration 👍2  
 
@@ -430,7 +437,7 @@
 ## [SB 5237](/bill/2023-24/sb/5237/) - Education law noncompliance 👍1  
 * 👍💵 Julie Salvi
 
-## [SB 5238](/bill/2023-24/sb/5238/) - Academic employee bargaining 👍2  
+## [SB 5238](/bill/2023-24/sb/5238/) - Academic employee bargaining 👍3  
 
 ## [SB 5240](/bill/2023-24/sb/5240/) - Unemployment ins. appeals 👍1  
 

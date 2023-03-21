@@ -10,7 +10,7 @@
 
 ## [HB 1521](/bill/2023-24/hb/1521/) - Industrial insurance/duties  👎1 
 
-## [HB 1572](/bill/2023-24/hb/1572/) - Recovery of taxes/venue 👍1  
+## [HB 1572](/bill/2023-24/hb/1572/) - Recovery of taxes/venue 👍2  
 
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services  👎2 
 * 👎 Bill Turner

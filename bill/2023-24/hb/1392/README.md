@@ -26,11 +26,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153669&caId=22272&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153669&caId=22272&tId=4)
 
-#### 21 👍 - Pro
+#### 259 👍 - Pro
+Testifying:
+* Heather Lindberg - WSPTA
+* Ashima Sukhdev - Seattle Public Utilities
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* 💵Patrick Connor - NFIB
 
-#### 1 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * 💵Melissa Gombosky - CTIA
+* Amy Bos - NetChoice
+* 💵Caleb Williamson - ACT | The App Association
+* 💵Caleb Williamson - ACT | The App Association
+* Patrick Hedger - Taxpayers Protection Alliance
 
 #### 0 ❓ - Other
 

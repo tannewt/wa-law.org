@@ -16,7 +16,7 @@
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat   ❓1
 * ❓ Paula Painter
 
-## [SB 5392](/bill/2023-24/sb/5392/) - Concerning overpayments for certain matters. 👍1  
+## [SB 5392](/bill/2023-24/sb/5392/) - Concerning overpayments for certain matters. 👍2  
 
 ## [SB 5609](/bill/2023-24/sb/5609/) - Housing approval  👎1 
 

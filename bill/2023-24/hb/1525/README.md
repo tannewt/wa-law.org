@@ -16,7 +16,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154104&caId=22414&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154104&caId=22414&tId=4)
 
-#### 21 👍 - Pro
+#### 62 👍 - Pro
+Testifying:
+* 💵Erin Haick - SEIU 925
+* 💵Heather Kurtenbach - Ironworkers Local 86
+* 💵Erin Frasier - Washington State Building & Construction Trades Council
 
 #### 0 👎 - Con
 

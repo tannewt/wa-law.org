@@ -25,13 +25,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31101&aId=153833&caId=22385&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31101&aId=153833&caId=22385&tId=4)
 
-#### 7 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * David Buri - Eastern Washington University
 * Steve DuPont - [Central Washington University](/org/central_washington_university/)
 * Jeff Charbonneau - Zillah High School
 * Tim Stetter - Director - UW in the High School
 * Natalya Yudkovsky - Washington State PTA
+* Riley Shepherd
+* Jeff Charbonneau - Zillah High School
+* Amanda Kost - [University of Washington](/org/university_of_washington/)
+* Becky Wallace - Office of Superintendent of Public Instruction
 
 #### 0 👎 - Con
 

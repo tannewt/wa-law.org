@@ -19,11 +19,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31093&aId=153778&caId=22364&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31093&aId=153778&caId=22364&tId=4)
 
-#### 61 👍 - Pro
+#### 198 👍 - Pro
 Testifying:
 * Danni Askini - Gender Justice League
+* Jessica McHegg - Gender Justice League
+* Autumn Lovewell
+* Stéphanie Chavet
 
-#### 638 👎 - Con
+#### 2504 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Gabriel Jacobs
@@ -31,8 +34,16 @@ Testifying:
 * Joshua Hardwick
 * Eric pratt - I, America
 * Christian Nelson
+* MARGARET LEE
+* Dawn Land
+* Sharon Damoff
+* Trish Huddleston
+* Bruce Monell
+* BILL ELDRIDGE
+* Angela Dabb
+* Team (Theresa) Freedom (Scherling)
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
 
 ### Mon 02/06 10:30 AM - Human Services (HS): SB 5599 Protected health care/youth
 #### 60 👍 - Pro

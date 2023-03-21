@@ -21,11 +21,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31092&aId=153772&caId=22358&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31092&aId=153772&caId=22358&tId=4)
 
-#### 6 👍 - Pro
+#### 38 👍 - Pro
+Testifying:
+* Janet Hedgepath - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Kristiana de Leon - Association of Secular Elected Officials
+* Bishop Frank Schuster - Washington State Catholic Conference
 
 ### Tue 01/24 10:30 AM - Human Services (HS): SB 5280 Clergy/child abuse reporting
 #### 14 👍 - Pro

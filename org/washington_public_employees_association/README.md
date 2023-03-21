@@ -22,9 +22,13 @@
 
 ## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍1  
 
-## [HB 1187](/bill/2023-24/hb/1187/) - Employee-union privilege 👍2  
+## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍1  
+
+## [HB 1187](/bill/2023-24/hb/1187/) - Employee-union privilege 👍3  
 
 ## [HB 1197](/bill/2023-24/hb/1197/) - Workers' comp. providers 👍1  
+
+## [HB 1200](/bill/2023-24/hb/1200/) - Employee information/unions 👍1  
 
 ## [HB 1217](/bill/2023-24/hb/1217/) - Wage complaints 👍1  
 
@@ -45,6 +49,8 @@
 ## [HB 1491](/bill/2023-24/hb/1491/) - Employee personal vehicles 👍1  
 
 ## [HB 1526](/bill/2023-24/hb/1526/) - Electrical inspector salary 👍1  
+
+## [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information 👍1  
 
 ## [HB 1542](/bill/2023-24/hb/1542/) - AEDs/high voltage work 👍1  
 
@@ -72,11 +78,13 @@
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1  
 
+## [SB 5238](/bill/2023-24/sb/5238/) - Academic employee bargaining 👍1  
+
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍2  
 
 ## [SB 5260](/bill/2023-24/sb/5260/) - Reprod. health/employers 👍1  
 
-## [SB 5267](/bill/2023-24/sb/5267/) - Railroad workers 👍1  
+## [SB 5267](/bill/2023-24/sb/5267/) - Railroad workers 👍2  
 
 ## [SB 5268](/bill/2023-24/sb/5268/) - Public works procurement 👍1  
 

@@ -5,3 +5,6 @@
 
 ## [HB 1317](/bill/2023-24/hb/1317/) - Grassroots lobbying 👍1  
 * 👍 Cindy Madigan
+
+## [SB 5280](/bill/2023-24/sb/5280/) - Clergy/child abuse reporting 👍1  
+* 👍 Janet Hedgepath

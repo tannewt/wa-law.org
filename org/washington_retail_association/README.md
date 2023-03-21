@@ -42,7 +42,7 @@
 
 ## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍3  
 
-## [HB 1302](/bill/2023-24/hb/1302/) - Vehicle report of sale 👍1  
+## [HB 1302](/bill/2023-24/hb/1302/) - Vehicle report of sale 👍2  
 
 ## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records  👎2 ❓1
 * ❓ ROSE GUNDERSEN
@@ -90,6 +90,9 @@
 * 👎💵 Mark Johnson
 
 ## [HB 1661](/bill/2023-24/hb/1661/) - Mobile crisis intervention 👍1  
+* 👍💵 Mark Johnson
+
+## [HB 1716](/bill/2023-24/hb/1716/) - Child care B&O credit 👍1  
 * 👍💵 Mark Johnson
 
 ## [HB 1742](/bill/2023-24/hb/1742/) - Nontax statutes/DOR 👍1  
@@ -144,6 +147,12 @@
 ## [SB 5160](/bill/2023-24/sb/5160/) - Organized retail theft 👍1  
 * 👍💵 Mark Johnson
 
+## [SB 5171](/bill/2023-24/sb/5171/) - Consumer products/gender  👎1 
+* 👎 ROSE GUNDERSEN
+
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+* ❓💵 Mark Johnson
+
 ## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍1  
 * 👍💵 Mark Johnson
 
@@ -159,7 +168,8 @@
 
 ## [SB 5259](/bill/2023-24/sb/5259/) - Product theft 👍1  
 
-## [SB 5263](/bill/2023-24/sb/5263/) - Psilocybin 👍2  
+## [SB 5263](/bill/2023-24/sb/5263/) - Psilocybin 👍3  
+* 👍💵 Mark Johnson
 * 👍💵 Mark Johnson
 
 ## [SB 5282](/bill/2023-24/sb/5282/) - Vehicle reports of sale 👍1  
@@ -200,7 +210,8 @@
 * 👍💵 Mark Johnson
 * 👍💵 Mark Johnson
 
-## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍2  
+## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍2  ❓1
+* ❓💵 Mark Johnson
 
 ## [SB 5579](/bill/2023-24/sb/5579/) - Hydrofluorocarbons/supply 👍1  
 * 👍💵 Mark Johnson

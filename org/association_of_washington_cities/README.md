@@ -157,6 +157,9 @@
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍1  
 * 👍💵 Candice Bock
 
+## [HB 1621](/bill/2023-24/hb/1621/) - Local government procurement 👍1  
+* 👍 Brandy DeLange
+
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍4  
 * 👍💵 Carl Schroeder
 
@@ -216,6 +219,9 @@
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing   ❓1
 * ❓💵 Carl Schroeder
+
+## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
+* 👍 Brandy DeLange
 
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures 👍1  
 * 👍💵 Carl Schroeder
@@ -308,7 +314,8 @@
 ## [SB 5473](/bill/2023-24/sb/5473/) - Project permit timelines   ❓1
 * ❓💵 Carl Schroeder
 
-## [SB 5491](/bill/2023-24/sb/5491/) - Residential building exits 👍1  
+## [SB 5491](/bill/2023-24/sb/5491/) - Residential building exits 👍2  
+* 👍💵 Carl Schroeder
 * 👍💵 Carl Schroeder
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  

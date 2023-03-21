@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31104&aId=153844&caId=22392&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31104&aId=153844&caId=22392&tId=4)
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Burl Bryson - The Cannabis Alliance
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Scott Waller - WASAVP - Prevention First! for Safe and Healthy Communities
 
 #### 0 ❓ - Other
 

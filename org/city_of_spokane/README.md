@@ -26,6 +26,9 @@
 
 ## [HB 1575](/bill/2023-24/hb/1575/) - Cultural access programs/tax 👍1  
 
+## [SB 5058](/bill/2023-24/sb/5058/) - Multiunit res. buildings 👍1  
+* 👍 Council member Betsy Wilkerson
+
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍3  
 * 👍 Chris Averyt
 

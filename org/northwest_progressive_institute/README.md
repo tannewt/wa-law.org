@@ -29,12 +29,13 @@
 
 ## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍1  
 
-## [HB 1240](/bill/2023-24/hb/1240/) - Firearms/assault weapons 👍2  
+## [HB 1240](/bill/2023-24/hb/1240/) - Firearms/assault weapons 👍3  
 * 👍 Kathy Sakahara
+* 👍 Andrew Villeneuve
 
 ## [HB 1272](/bill/2023-24/hb/1272/) - Voters' pamphlets 👍2  
 
-## [HB 1317](/bill/2023-24/hb/1317/) - Grassroots lobbying 👍1  
+## [HB 1317](/bill/2023-24/hb/1317/) - Grassroots lobbying 👍2  
 
 ## [HB 1333](/bill/2023-24/hb/1333/) - Domestic violent extremism 👍1  
 
@@ -55,9 +56,11 @@
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍1  
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍2  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍3  
 
 ## [HB 1677](/bill/2023-24/hb/1677/) - Campaign finance disclosure 👍1  
+
+## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1  
 
 ## [HB 1795](/bill/2023-24/hb/1795/) - Estate tax 👍1  
 
@@ -71,13 +74,19 @@
 
 ## [SB 5152](/bill/2023-24/sb/5152/) - Synthetic media 👍3  
 
-## [SB 5153](/bill/2023-24/sb/5153/) - Future voters/records 👍1  
+## [SB 5153](/bill/2023-24/sb/5153/) - Future voters/records 👍2  
+
+## [SB 5171](/bill/2023-24/sb/5171/) - Consumer products/gender 👍1  
+* 👍 Kathy Sakahara
 
 ## [SB 5182](/bill/2023-24/sb/5182/) - Candidate filing 👍1  
 
 ## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍1  
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍2  
+
+## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
+* 👍 Andrew Villeneuve
 
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍1  
 
@@ -89,7 +98,7 @@
 
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍3  
 
-## [SB 5263](/bill/2023-24/sb/5263/) - Psilocybin 👍1  
+## [SB 5263](/bill/2023-24/sb/5263/) - Psilocybin 👍2  
 
 ## [SB 5270](/bill/2023-24/sb/5270/) - DOC/immigration assistance 👍1  
 
@@ -100,7 +109,7 @@
 
 ## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍1  
 
-## [SB 5459](/bill/2023-24/sb/5459/) - Election info. requests 👍1  
+## [SB 5459](/bill/2023-24/sb/5459/) - Election info. requests 👍2  
 
 ## [SB 5464](/bill/2023-24/sb/5464/) - Electronics repair 👍1  
 * 👍 Andrew Villeneuve

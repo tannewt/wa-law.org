@@ -16,6 +16,8 @@
 
 ## [HB 1737](/bill/2023-24/hb/1737/) - Reconciliation account 👍1  
 
+## [HB 1772](/bill/2023-24/hb/1772/) - Tetrahydrocannabinol & alc. 👍1  
+
 ## [HB 1790](/bill/2023-24/hb/1790/) - Cannabis social equity   ❓2
 * ❓ Sheley Anderson
 * ❓ Sheley Anderson
@@ -28,9 +30,9 @@
 * 👍 Adan Espino Jr
 * 👍 Shea Hynes
 
-## [SB 5340](/bill/2023-24/sb/5340/) - Retail cannabis products 👍1  
+## [SB 5340](/bill/2023-24/sb/5340/) - Retail cannabis products 👍2  
 
-## [SB 5363](/bill/2023-24/sb/5363/) - Cannabis advertising 👍1  
+## [SB 5363](/bill/2023-24/sb/5363/) - Cannabis advertising 👍2  
 * 👍 Adan Espino Jr
 
 ## [SB 5367](/bill/2023-24/sb/5367/) - Products containing THC 👍1 👎2 

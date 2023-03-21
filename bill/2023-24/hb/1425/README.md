@@ -16,10 +16,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31038&aId=153516&caId=22254&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31038&aId=153516&caId=22254&tId=4)
 
-#### 2 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Dave Somers - Snohomish County Executive
 * Megan Dunn - Snohomish County Council
+* 💵Brian Enslow - Cities of Vancouver, Lacey, Ferndale, and College Place
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Ben Wick - Councilmember, City of Spokane Valley
+* Karen Meyering - [King County](/org/king_county/)
 
 #### 0 👎 - Con
 

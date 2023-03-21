@@ -5,9 +5,15 @@
 ## [HB 1073](/bill/2023-24/hb/1073/) - Medical assistants 👍2  
 * 👍💵 Nicole Kern
 
+## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
+
+## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍1  
+
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍2  
 * 👍💵 Nicole Kern
 * 👍💵 Nicole Kern
+
+## [HB 1168](/bill/2023-24/hb/1168/) - Prenatal substance exposure 👍1  
 
 ## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍1  
 
@@ -29,6 +35,8 @@
 
 ## [HB 1564](/bill/2023-24/hb/1564/) - OTC sexual assault kits 👍2  
 
+## [HB 1618](/bill/2023-24/hb/1618/) - Childhood sexual abuse/SOL 👍1  
+
 ## [HB 1626](/bill/2023-24/hb/1626/) - Colorectal screening tests 👍1  
 
 ## [HB 1696](/bill/2023-24/hb/1696/) - Stalking-related offenses 👍2  
@@ -40,6 +48,8 @@
 ## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍1  
 
 ## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍1  
+
+## [SB 5171](/bill/2023-24/sb/5171/) - Consumer products/gender 👍1  
 
 ## [SB 5179](/bill/2023-24/sb/5179/) - Death with dignity act 👍2  
 
@@ -67,10 +77,12 @@
 
 ## [SB 5576](/bill/2023-24/sb/5576/) - Sexual assault procedures 👍1  
 
-## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍1  
+## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍2  
 
 ## [SB 5581](/bill/2023-24/sb/5581/) - Maternal support services 👍1  
 
-## [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth 👍1  
+## [SB 5582](/bill/2023-24/sb/5582/) - Nurse supply 👍1  
 
-## [SB 5629](/bill/2023-24/sb/5629/) - Hepatitis B and C 👍1  
+## [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth 👍2  
+
+## [SB 5629](/bill/2023-24/sb/5629/) - Hepatitis B and C 👍2  

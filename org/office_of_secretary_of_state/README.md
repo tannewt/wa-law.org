@@ -27,8 +27,9 @@
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act 👍1  
 
-## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍1  
+## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍2  
 * 👍 Steve Hobbs
+* 👍 Brian Hatfield
 
 ## [SB 5128](/bill/2023-24/sb/5128/) - Jury diversity   ❓1
 * ❓ Brian Hatfield
@@ -57,4 +58,4 @@
 
 ## [SB 5414](/bill/2023-24/sb/5414/) - Elections law violation info  👎1 
 
-## [SB 5459](/bill/2023-24/sb/5459/) - Election info. requests 👍1  
+## [SB 5459](/bill/2023-24/sb/5459/) - Election info. requests 👍2  

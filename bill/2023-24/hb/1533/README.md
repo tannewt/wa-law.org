@@ -21,15 +21,33 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31116&aId=153910&caId=22269&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31116&aId=153910&caId=22269&tId=4)
 
-#### 51 👍 - Pro
+#### 346 👍 - Pro
+Testifying:
+* Danielle Plesser - WPEA
+* Juliane Williams - WPEA
+* Kathy Barnard - Barnard, Iglitzin, and Lavitt
+* Allison Fine - WFSE
+* Crystal Mays - WFSE
+* Jessica Parker - WFSE
+* 💵Erin Haick - SEIU 925
+* Mike Yestramski - WFSE
 
-#### 5 👎 - Con
+#### 37 👎 - Con
 Testifying:
 * Rob Curley - The Spokesman-Review newspaper
 * Joe Kunzler - None
 * Neal Boling - KHQ-TV
+* Michael Fancher - Washington Coalition for Open Government
+* Katherine George - Johnston George LLP
+* Jonathan Martin - [The Seattle Times](/org/the_seattle_times/)
+* Michele Earl-Hubbard - Allied Law Group LLC
+* Josh O'Connor - Sound Publishing, Inc.
+* Melissa Luck - KXLY-TV
+* 💵Maxford Nelsen - [Freedom Foundation](/org/freedom_foundation/)
+* Jon Bauer - The Daily Herald of Everett
+* Toby Nixon - Washington Coalition for Open Government
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Fri 02/03 08:00 AM - State Government & Tribal Relations (SGOV): HB 1533 PRA/employee information
 #### 33 👍 - Pro

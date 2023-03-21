@@ -33,8 +33,10 @@
 ## [HB 1252](/bill/2023-24/hb/1252/) - Impact fee deferrals 👍1  
 * 👍💵 Bill Stauffacher
 
-## [HB 1293](/bill/2023-24/hb/1293/) - Development regulations 👍1  
+## [HB 1293](/bill/2023-24/hb/1293/) - Development regulations 👍3  
 * 👍💵 Bill Stauffacher
+* 👍💵 Tricia Gullion
+* 👍💵 Josie Cummings
 
 ## [HB 1296](/bill/2023-24/hb/1296/) - Local permit review 👍1  
 * 👍💵 Josie Cummings
@@ -52,7 +54,7 @@
 
 ## [HB 1351](/bill/2023-24/hb/1351/) - Minimum parking requirements 👍1  
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings  👎1 
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings  👎2 
 
 ## [HB 1393](/bill/2023-24/hb/1393/) - Journey level electricians 👍1  
 * 👍💵 Josie Cummings
@@ -66,7 +68,7 @@
 ## [HB 1403](/bill/2023-24/hb/1403/) - Water & sewage system access 👍1  
 * 👍💵 Josie Cummings
 
-## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍1 👎1 
+## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍2 👎1 
 
 ## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential  👎2 
 
@@ -113,8 +115,9 @@
 
 ## [HB 1762](/bill/2023-24/hb/1762/) - Warehouse employees  👎1 
 
-## [SB 5058](/bill/2023-24/sb/5058/) - Multiunit res. buildings 👍1  
+## [SB 5058](/bill/2023-24/sb/5058/) - Multiunit res. buildings 👍2  
 * 👍💵 Josie Cummings
+* 👍💵 Tricia Gullion
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 
@@ -141,9 +144,10 @@
 * 👎💵 Bill Stauffacher
 * 👎💵 Bill Stauffacher
 
-## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍2  
+## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍3  
 * 👍💵 Bill Stauffacher
 * 👍💵 Josie Cummings
+* 👍💵 Brent Ludeman
 
 ## [SB 5357](/bill/2023-24/sb/5357/) - Detached ADUs 👍1  
 * 👍💵 Josie Cummings
@@ -156,9 +160,10 @@
 ## [SB 5386](/bill/2023-24/sb/5386/) - Document recording fees  👎1 
 * 👎💵 Josie Cummings
 
-## [SB 5412](/bill/2023-24/sb/5412/) - Land use permitting/local 👍2  
+## [SB 5412](/bill/2023-24/sb/5412/) - Land use permitting/local 👍3  
 * 👍💵 Josie Cummings
 * 👍💵 Josie Cummings
+* 👍💵 Brent Ludeman
 
 ## [SB 5418](/bill/2023-24/sb/5418/) - Definition of public work  👎1 
 * 👎💵 Josie Cummings
@@ -171,7 +176,7 @@
 ## [SB 5456](/bill/2023-24/sb/5456/) - Minimum parking requirements 👍1  
 * 👍💵 Josie Cummings
 
-## [SB 5457](/bill/2023-24/sb/5457/) - Small cities/GMA 👍1  
+## [SB 5457](/bill/2023-24/sb/5457/) - Small cities/GMA 👍2  
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍2  
 * 👍💵 Josie Cummings
@@ -182,7 +187,7 @@
 
 ## [SB 5482](/bill/2023-24/sb/5482/) - Margin tax  👎1 
 
-## [SB 5491](/bill/2023-24/sb/5491/) - Residential building exits 👍1  
+## [SB 5491](/bill/2023-24/sb/5491/) - Residential building exits 👍2  
 
 ## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation 👍1  
 

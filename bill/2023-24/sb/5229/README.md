@@ -15,7 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31071&aId=154150&caId=22423&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31071&aId=154150&caId=22423&tId=4)
 
-#### 1 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Michael Echanove - CERB - Community Economic Revitalization Board
+* Mike Mason - CERB - Community Economic Revitalization Board
 
 #### 0 👎 - Con
 

@@ -15,7 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31047&aId=153632&caId=22253&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31047&aId=153632&caId=22253&tId=4)
 
-#### 2 👍 - Pro
+#### 28 👍 - Pro
+Testifying:
+* Carol Carbone - Lilly Denture Center
+* 💵Carolyn Logue - [Washington Denturist Association](/org/washington_denturist_association/)
+* Melissa Brulotte - Washington Denturist association
 
 #### 0 👎 - Con
 

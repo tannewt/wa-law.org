@@ -16,11 +16,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31058&aId=154005&caId=22349&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31058&aId=154005&caId=22349&tId=4)
 
-#### 49 👍 - Pro
+#### 122 👍 - Pro
+Testifying:
+* Katie Kolan - Washington State Hospital Association (WSHA)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Catherine Morrison - Maxim Healthcare Services
+* Erica Drury - MGA Homecare
 
 ### Thu 02/16 04:00 PM - Ways & Means (WM): SSB 5103 Medicaid patients/discharge
 #### 18 👍 - Pro

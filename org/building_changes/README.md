@@ -20,11 +20,11 @@
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍3  
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍1  
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍2  
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
 
-## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍1  
+## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍2  
 
 ## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍3  
 * 👍💵 Megan Veith
@@ -32,14 +32,17 @@
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍3  
 
-## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍1  
+## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍2  
 
-## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍2  
+## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍3  
 
 ## [HB 1679](/bill/2023-24/hb/1679/) - Student homelessness group 👍1  
 * 👍💵 Megan Veith
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
+
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
+* 👍💵 Aaron Yared
 
 ## [SB 5197](/bill/2023-24/sb/5197/) - Eviction processes 👍1  
 

@@ -16,14 +16,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153670&caId=22273&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153670&caId=22273&tId=4)
 
-#### 17 👍 - Pro
+#### 37 👍 - Pro
 Testifying:
 * Ash Awad
 * Janette Plunkett - Seattle Chair, Washington Higher Education Sustainability Coalition
+* David Woodson - [University of Washington](/org/university_of_washington/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Emily Salzberg - Washington Department of Commerce
 
 ### Mon 02/20 08:00 AM - Capital Budget (CB): SHB 1390 District energy systems
 #### 62 👍 - Pro

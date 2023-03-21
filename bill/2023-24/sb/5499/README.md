@@ -18,13 +18,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31103&aId=153839&caId=22386&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31103&aId=153839&caId=22386&tId=4)
 
-#### 1 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Carma Matti-Jackson - [Washington Health Care Association](/org/washington_health_care_association/)
+* 💵Lisa Thatcher - Washington State Hospital Association
+* Jennifer Burkhardt - Summit Pacific Medical Center
+* RN, Jennifer Graham - MultiCare Health System
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Fri 02/10 08:00 AM - Health & Long Term Care (HLTC): SB 5499 Multistate nurse licensure
 #### 195 👍 - Pro

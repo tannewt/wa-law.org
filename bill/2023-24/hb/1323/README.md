@@ -28,7 +28,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31096&aId=154062&caId=22407&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31096&aId=154062&caId=22407&tId=4)
 
-#### 1 👍 - Pro
+#### 58 👍 - Pro
+Testifying:
+* AJ Johnson - Washington State Council of Fire Fighters
+* 💵Ray Dumas - OPCMIA Local 528
+* 💵Erin Frasier - Washington State Building & Construction Trades Council
 
 #### 0 👎 - Con
 

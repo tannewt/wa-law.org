@@ -14,12 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31044&aId=153584&caId=22339&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31044&aId=153584&caId=22339&tId=4)
 
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Carlos Gonzalez - McFarland Middle School, Othello
+* Dr. Scott Seaman - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
+* Gerrit Kischner - Thornton Creek Elementary, Seattle
+* 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
+* Dr. Ken Bergevin - Heritage University Educational Administration
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * 💵Troy Nichols - Capital Region ESD 113
 * Dan Steele - WA Assn of School Administrators & WA Assn of School Business Officials
+* 💵Melissa Gombosky - ESD 105 Schools Advocacy Coalition
 
 #### 0 ❓ - Other
 

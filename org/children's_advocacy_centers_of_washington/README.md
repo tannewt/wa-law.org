@@ -29,6 +29,8 @@
 
 ## [SB 5231](/bill/2023-24/sb/5231/) - Emergency DV orders 👍1  
 
+## [SB 5280](/bill/2023-24/sb/5280/) - Clergy/child abuse reporting 👍1  
+
 ## [SB 5355](/bill/2023-24/sb/5355/) - Sex trafficking prev. ed. 👍1  
 
 ## [SB 5453](/bill/2023-24/sb/5453/) - Female genital mutilation 👍3  

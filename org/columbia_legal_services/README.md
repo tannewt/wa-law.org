@@ -19,7 +19,8 @@
 
 ## [HB 1129](/bill/2023-24/hb/1129/) - Mobile home community sales 👍1  
 
-## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍2  
+## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍3  
+* 👍💵 Hannah Woerner
 * 👍💵 Hannah Woerner
 * 👍💵 Hannah Woerner
 

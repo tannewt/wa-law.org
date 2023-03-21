@@ -3,7 +3,8 @@
 ## [HB 1106](/bill/2023-24/hb/1106/) - Unemployment/voluntary  👎1 
 * 👎💵 John Ficker
 
-## [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍1  
+## [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍3  
+* 👍💵 John Ficker
 * 👍💵 John Ficker
 
 ## [HB 1568](/bill/2023-24/hb/1568/) - Long-term care professionals 👍2  

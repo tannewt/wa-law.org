@@ -20,11 +20,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31038&aId=153926&caId=22257&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31038&aId=153926&caId=22257&tId=4)
 
-#### 15 👍 - Pro
+#### 44 👍 - Pro
+Testifying:
+* 💵Scott Hazlegrove - Master Builders Association of King and Snohomish Counties
+* 💵Tricia Gullion - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Ian Morrison - NAIOP Washington State
+* 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tim Gates - Ecology Shorelands Program
 
 ### Mon 01/30 01:30 PM - Housing (HOUS): HB 1293 Development regulations
 #### 54 👍 - Pro

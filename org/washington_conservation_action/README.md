@@ -51,7 +51,7 @@
 
 ## [SB 5093](/bill/2023-24/sb/5093/) - Climate response strategy 👍1  
 
-## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍2  
+## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍3  
 
 ## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍2  
 

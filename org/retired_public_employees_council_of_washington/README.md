@@ -6,6 +6,8 @@
 * 👍 Clair Olivers
 * 👍 Kristine Kraig
 
+## [HB 1187](/bill/2023-24/hb/1187/) - Employee-union privilege 👍1  
+
 ## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍1  
 
 ## [HB 1459](/bill/2023-24/hb/1459/) - PERS & TRS plan 1 adjustment 👍12  
@@ -24,6 +26,8 @@
 * ❓💵 Emmett Mills
 
 ## [SB 5296](/bill/2023-24/sb/5296/) - Military service credit 👍1  
+
+## [SB 5304](/bill/2023-24/sb/5304/) - Language access/testing 👍1  
 
 ## [SB 5349](/bill/2023-24/sb/5349/) - Postretirement employment 👍2  
 

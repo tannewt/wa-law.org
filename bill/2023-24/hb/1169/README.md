@@ -10,23 +10,26 @@
 
 ## Meetings
 ### Mon 03/20 10:30 AM - Law & Justice (LAW): ESHB 1169 Legal financial obligations
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31039&aId=153541&caId=22228&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31039&aId=153541&caId=22228&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31039&aId=153541&caId=22228&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31039&aId=153541&caId=22228&tId=4)
-
-#### 116 👍 - Pro
+#### 188 👍 - Pro
 Testifying:
 * Karla Carlisle - Northwest Justice Project
+* Janel McFeat - Washington Statewide Reentry Council
+* 💵Kia Franklin - Stand for Children Washington
+* Meghan Grace - Debt Free Youth Justice Coalition
+* Alexes Harris - UW Professor of Sociology
+* 💵Hannah Woerner - [Columbia Legal Services](/org/columbia_legal_services/)
+* Kari Reardon - Washington Association of Criminal Defense Lawyers/Washington Defender Association
+* 💵Brooke Davies - [Justice Action Network](/org/justice_action_network/)
 
-#### 3 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * Jon Tunheim - Thurston County Prosecutor/WA Assoc of Prosecuting Attorneys
+* Colleen McIngalls - King County Prosecuting Attorneys Office/WAPA Victim Witness
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Miranda Calmjoy - Washington State Board of Health
+* 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Wed 02/08 04:00 PM - Appropriations (APP): HB 1169 Legal financial obligations
 #### 52 👍 - Pro

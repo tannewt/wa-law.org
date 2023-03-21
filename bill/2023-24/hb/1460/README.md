@@ -18,11 +18,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154169&caId=22434&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154169&caId=22434&tId=4)
 
-#### 1 👍 - Pro
+#### 63 👍 - Pro
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 03/09 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SHB 1460 DNR land
 #### 508 👍 - Pro

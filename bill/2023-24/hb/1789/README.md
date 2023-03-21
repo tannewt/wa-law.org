@@ -26,17 +26,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153672&caId=22275&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153672&caId=22275&tId=4)
 
-#### 6 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * 💵John Stuhlmiller - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Lauren Breynaert - Myno Carbon
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
-#### 98 👎 - Con
+#### 279 👎 - Con
 Testifying:
 * 💵Grace Yuan - Puget Sound School Coalition
 * 💵Grace Yuan - Puget Sound School Coalition
 * Sherri Dysart - League of Women Voters of Washington
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Brett Greenwood - Sedro-Woolley School District
 
 ### Mon 02/20 08:00 AM - Capital Budget (CB): SHB 1789 Ecosystem services
 #### 12 👍 - Pro

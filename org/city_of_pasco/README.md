@@ -19,7 +19,9 @@
 
 ## [SB 5456](/bill/2023-24/sb/5456/) - Minimum parking requirements  👎1 
 
-## [SB 5606](/bill/2023-24/sb/5606/) - Illegal racing 👍1  
+## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  
+
+## [SB 5606](/bill/2023-24/sb/5606/) - Illegal racing 👍2  
 
 ## [SB 5622](/bill/2023-24/sb/5622/) - Municipal water supply 👍1  
 * 👍 Steve Worley

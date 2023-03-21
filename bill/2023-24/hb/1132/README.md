@@ -15,7 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31040&aId=153637&caId=22265&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31040&aId=153637&caId=22265&tId=4)
 
-#### 2 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Brian Considine - [Department of Natural Resources](/org/department_of_natural_resources/)
+* Chandra Wax - [Liquor and Cannabis Board](/org/liquor_and_cannabis_board/)
+* Tommy Oakes - WA State Gambling Commission
 
 #### 0 👎 - Con
 

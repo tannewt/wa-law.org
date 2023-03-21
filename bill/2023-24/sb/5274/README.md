@@ -14,11 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=153741&caId=22333&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=153741&caId=22333&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Christina Miyamasu - King County Prosecuting Attorney's Office
 
-#### 1 👎 - Con
+#### 18 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 
 ### Tue 01/24 01:30 PM - State Government & Elections (SGE): SB 5274 Public employ. eligibility
 #### 3 👍 - Pro

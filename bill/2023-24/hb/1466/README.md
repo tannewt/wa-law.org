@@ -16,7 +16,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31047&aId=153629&caId=22250&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31047&aId=153629&caId=22250&tId=4)
 
-#### 108 👍 - Pro
+#### 131 👍 - Pro
+Testifying:
+* 💵Melissa Johnson - Washington Dental Hygienists' Association
+* 💵Emily Lovell - Washington State Dental Association
+* Diane Oakes - Delta Dental of WA
 
 #### 1 👎 - Con
 

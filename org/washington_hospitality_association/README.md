@@ -113,7 +113,7 @@
 ## [SB 5482](/bill/2023-24/sb/5482/) - Margin tax  👎1 
 * 👎💵 Julia Gorton
 
-## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  
+## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍2  
 * 👍💵 Samantha Louderback
 
 ## [SB 5541](/bill/2023-24/sb/5541/) - Supply chain transparency   ❓1

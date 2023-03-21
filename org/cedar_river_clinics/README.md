@@ -15,3 +15,5 @@
 
 ## [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍2  
 * 👍 Dr. Anuj Khattar
+
+## [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth 👍1  

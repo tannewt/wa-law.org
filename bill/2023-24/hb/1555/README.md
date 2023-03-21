@@ -10,20 +10,18 @@
 
 ## Meetings
 ### Mon 03/20 10:30 AM - Law & Justice (LAW): ESHB 1555 Indian tribes/extradition
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31039&aId=153544&caId=22231&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31039&aId=153544&caId=22231&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31039&aId=153544&caId=22231&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31039&aId=153544&caId=22231&tId=4)
-
-#### 5 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 * Earl Cowan - [Swinomish Indian Tribal Community](/org/swinomish_indian_tribal_community/)
 * Maggie Finkbonner - [Swinomish Indian Tribal Community](/org/swinomish_indian_tribal_community/)
 * Melissa Simonsen - [Swinomish Indian Tribal Community](/org/swinomish_indian_tribal_community/)
+* Chief Mike Lasnier - Suquamish Tribal Police Department
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Brian Kilgore - Tulalip Tribes of WA
+* 💵Josh Weiss - Snohomish County
 
 #### 1 ❓ - Other
 Testifying:

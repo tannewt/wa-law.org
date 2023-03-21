@@ -10,11 +10,13 @@
 
 ## [HB 1113](/bill/2023-24/hb/1113/) - Prof. educator reprimands 👍1  
 
-## [HB 1207](/bill/2023-24/hb/1207/) - Harassment/schools 👍1  
+## [HB 1207](/bill/2023-24/hb/1207/) - Harassment/schools 👍2  
 
 ## [HB 1228](/bill/2023-24/hb/1228/) - Dual & tribal language edu. 👍1  
 
-## [HB 1230](/bill/2023-24/hb/1230/) - School websites/drug info. 👍1  
+## [HB 1230](/bill/2023-24/hb/1230/) - School websites/drug info. 👍2  
+
+## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍1  
 
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍3  
 
@@ -31,14 +33,16 @@
 
 ## [HB 1346](/bill/2023-24/hb/1346/) - Purple star award 👍2  
 
-## [HB 1377](/bill/2023-24/hb/1377/) - Continuing education/K-12 👍1  
+## [HB 1377](/bill/2023-24/hb/1377/) - Continuing education/K-12 👍2  
 * 👍💵 Roz Thompson
 
 ## [HB 1411](/bill/2023-24/hb/1411/) - Cross-sector prof. dev. 👍1  
 
 ## [HB 1436](/bill/2023-24/hb/1436/) - Special education funding 👍1 👎1 
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation   ❓2
+## [HB 1478](/bill/2023-24/hb/1478/) - Student rights 👍1  
+
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation   ❓3
 
 ## [HB 1504](/bill/2023-24/hb/1504/) - Elementary school recess   ❓1
 
@@ -50,9 +54,15 @@
 
 ## [HB 1732](/bill/2023-24/hb/1732/) - K-12 inflation adjustments 👍1  
 
-## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
+## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍2  
 
 ## [SB 5054](/bill/2023-24/sb/5054/) - Prof. learning communities   ❓1
+
+## [SB 5126](/bill/2023-24/sb/5126/) - Common school trust revenue 👍1  
+
+## [SB 5175](/bill/2023-24/sb/5175/) - School principal contracts 👍2  
+* 👍 Dr. Scott Seaman
+* 👍💵 Roz Thompson
 
 ## [SB 5243](/bill/2023-24/sb/5243/) - High school and beyond plans 👍1  
 

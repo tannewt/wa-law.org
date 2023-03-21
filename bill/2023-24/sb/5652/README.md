@@ -9,17 +9,17 @@
 
 ## Meetings
 ### Mon 03/20 04:00 PM - Transportation (TR): SSB 5652 Tow truck operator comp.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31055&aId=153704&caId=22402&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31055&aId=153704&caId=22402&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31055&aId=153704&caId=22402&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31055&aId=153704&caId=22402&tId=4)
+#### 6 👍 - Pro
+Testifying:
+* Paul Bressi - Nisqually Towing
+* 💵Peter Lukevich - Towing Recovery Association of Washington (TRAW)
+* Kris Zachary - Burns Towing
 
-#### 0 👍 - Pro
+#### 1 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Kenton Brine - NW Insurance Council
 
 ### Mon 02/20 01:30 PM - Transportation (TRAN): SB 5652 Tow truck operator comp.
 #### 5 👍 - Pro

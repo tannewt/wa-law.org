@@ -15,9 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31120&aId=153929&caId=22366&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31120&aId=153929&caId=22366&tId=4)
 
-#### 97 👍 - Pro
+#### 213 👍 - Pro
+Testifying:
+* 💵Emily Myers - UAW 4121
+* William Watts
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other
 

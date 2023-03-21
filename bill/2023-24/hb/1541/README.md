@@ -20,15 +20,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31116&aId=153911&caId=22270&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31116&aId=153911&caId=22270&tId=4)
 
-#### 90 👍 - Pro
+#### 265 👍 - Pro
 Testifying:
 * Ivanova Smith - Self Advocate
 * Shawn Latham - Allies in Advocacy
 * Carol Sullivan
 * Kristin DiBiase - Governor's Committee on Disability Issues and Employment
 * Duaa-Rahemaah Williams
+* Laura Van Tosh
+* 💵Emily Stone - WA State Coalition Against Domestic Violence
+* 💵Hyeeun Park - BIPOC Executive Directors Coalition
+* Leigh Spruce - Arc of Snohomish County
+* Eric Matthes - [The Arc of King County](/org/the_arc_of_king_county/)
+* Nam Nguyen - Commission on Asian Pacific American Affairs
+* Janel McFeat - Washington Statewide Reentry Council
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -20,14 +20,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153554&caId=22284&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153554&caId=22284&tId=4)
 
-#### 23 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * eric pratt - America
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
+* David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 
-#### 14 👎 - Con
+#### 38 👎 - Con
 Testifying:
 * Jeffrey Slotnick
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 0 ❓ - Other
 

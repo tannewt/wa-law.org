@@ -48,11 +48,11 @@
 
 ## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍5  
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍2  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍3  
 
-## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍4  
+## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍5  
 
-## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍2  
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍3  
 
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍2  
 * 👍💵 Aaron Czyzewski
@@ -71,6 +71,12 @@
 ## [SB 5128](/bill/2023-24/sb/5128/) - Jury diversity 👍1  
 
 ## [SB 5156](/bill/2023-24/sb/5156/) - Farm internship program 👍1  
+* 👍💵 Aaron Czyzewski
+
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
+* 👍💵 Aaron Czyzewski
+
+## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
 * 👍💵 Aaron Czyzewski
 
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍2  

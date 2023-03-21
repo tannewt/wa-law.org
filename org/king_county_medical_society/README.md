@@ -19,8 +19,8 @@
 
 ## [SB 5260](/bill/2023-24/sb/5260/) - Reprod. health/employers 👍1  
 
-## [SB 5389](/bill/2023-24/sb/5389/) - Optometry  👎1 
+## [SB 5389](/bill/2023-24/sb/5389/) - Optometry  👎2 
 
 ## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations 👍1  
 
-## [SB 5523](/bill/2023-24/sb/5523/) - Forensic pathologists 👍2  
+## [SB 5523](/bill/2023-24/sb/5523/) - Forensic pathologists 👍3  

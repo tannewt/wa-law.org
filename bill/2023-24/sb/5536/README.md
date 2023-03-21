@@ -20,13 +20,7 @@
 
 ## Meetings
 ### Mon 03/20 01:30 PM - Community Safety, Justice, & Reentry (CSJR): E2SSB 5536 Controlled substances
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31084&aId=153738&caId=22330&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31084&aId=153738&caId=22330&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31084&aId=153738&caId=22330&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31084&aId=153738&caId=22330&tId=4)
-
-#### 135 👍 - Pro
+#### 224 👍 - Pro
 Testifying:
 * 💵Josh Weiss - Snohomish County
 * Amy Ockerlander - Mayor of Duvall; Secretary of the Association of Washington Cities
@@ -40,10 +34,27 @@ Testifying:
 * Andrew Rolwes - Downtown Spokane Partnership
 * Armondo Pavone - Mayor, City of Renton
 * Jon Nehring - Mayor, City of Marysville
+* Dana Ralph - Mayor of the City of Kent
+* Nancy Backus - City of Auburn, Mayor
+* Dan Templeman - [City of Everett](/org/city_of_everett/)
+* Aaron Rivkin - 1516 W. Riverside Ave
 
-#### 638 👎 - Con
+#### 906 👎 - Con
+Testifying:
+* Chelle Wilder
+* David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
+* john Worthington - AAMC
+* Adam Palayew
+* Heather Kelly - League of Women Voters of Washington
+* 💵Jude Ahmed - Urban League of Metropolitan Seattle
+* Don Julian Saucier
+* Carmen Pacheco-Jones - Health & Justice Recovery Alliance
+* Dr. Kim Thorburn
+* Joe Coniff
+* Vanya Sandberg
+* Gaël Eichler
 
-#### 22 ❓ - Other
+#### 33 ❓ - Other
 Testifying:
 * KAREN THOMPSON
 * Chad Enright - Kitsap County Prosecutor/WA Association of Prosecuting Attorneys
@@ -62,6 +73,17 @@ Testifying:
 * Cole Meckle - Gather Church
 * Mandy Owens - University of Washington- Addictions, Drug & Alcohol Institute
 * Mary Lou Pauly - Mayor, City of Issaquah
+* Eric Richey
+* Ashley Dawson
+* 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Brandie Flood
+* Michelle Conley
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Christina Mason - [Washington Association of Drug Courts](/org/washington_association_of_drug_courts/)
+* 💵Melissa Johnson - District & Municipal Court Judges Association
+* Kelly Vomacka - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+* 💵Prachi Dave - [Civil Survival](/org/civil_survival/)
+* Sarah Hudson - WA Defender Assn/WA Assn of Criminal Defense Lawyers
 
 ### Sat 02/18 09:00 AM - Ways & Means (WM): SSB 5536 Controlled substances
 #### 46 👍 - Pro

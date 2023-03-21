@@ -6,17 +6,19 @@
 * 👍💵 Guillermo Rogel
 * 👍💵 Guillermo Rogel
 
-## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍3  
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍4  
+* 👍💵 Guillermo Rogel
 * 👍💵 Guillermo Rogel
 
 ## [HB 1218](/bill/2023-24/hb/1218/) - Caseload forecast/tax credit 👍1  
 
-## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
+## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍2  
+* 👍💵 Guillermo Rogel
 * 👍💵 Guillermo Rogel
 
 ## [HB 1347](/bill/2023-24/hb/1347/) - Integrating community-based health assessments into foundational environmental policies to improve environmental justice.   ❓1
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍2  
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍3  
 
 ## [HB 1428](/bill/2023-24/hb/1428/) - Pedestrians/roadways 👍1  
 

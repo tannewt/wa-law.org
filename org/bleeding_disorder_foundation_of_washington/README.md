@@ -49,6 +49,8 @@
 
 ## [SB 5260](/bill/2023-24/sb/5260/) - Reprod. health/employers 👍1  
 
+## [SB 5300](/bill/2023-24/sb/5300/) - Behavioral health continuity 👍1  
+
 ## [SB 5338](/bill/2023-24/sb/5338/) - Essential health benefits 👍2  
 * 👍💵 Stephanie Simpson
 * 👍💵 Stephanie Simpson

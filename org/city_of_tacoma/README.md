@@ -25,7 +25,11 @@
 
 ## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records   ❓2
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍1  
+## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
+* 👍 Deputy Mayor Kristina Walker
+
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍2  
+* 👍 Deputy Mayor Kristina Walker
 * 👍 Deputy Mayor Kristina Walker
 
 ## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍1  
@@ -46,6 +50,8 @@
 ## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍2  
 * 👍 Mayor, Victoria Woodards
 
+## [HB 1621](/bill/2023-24/hb/1621/) - Local government procurement 👍1  
+
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
 * 👍 Council Member, John Hines
 * 👍 Councilmember John Hines
@@ -61,6 +67,8 @@
 
 ## [SB 5052](/bill/2023-24/sb/5052/) - Leasehold tax/arenas, etc.   ❓1
 * ❓💵 Briahna Murray
+
+## [SB 5058](/bill/2023-24/sb/5058/) - Multiunit res. buildings 👍1  
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎2 
 
@@ -86,7 +94,9 @@
 
 ## [SB 5270](/bill/2023-24/sb/5270/) - DOC/immigration assistance 👍1  
 
-## [SB 5324](/bill/2023-24/sb/5324/) - Defense compatibility acct. 👍3  
+## [SB 5274](/bill/2023-24/sb/5274/) - Public employ. eligibility 👍1  
+
+## [SB 5324](/bill/2023-24/sb/5324/) - Defense compatibility acct. 👍4  
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
 
@@ -100,12 +110,13 @@
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
 
-## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍2  
+## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍3  
 * 👍 Mayor Victoria Woodards
 
 ## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍2  
 
-## [SB 5606](/bill/2023-24/sb/5606/) - Illegal racing 👍1  
+## [SB 5606](/bill/2023-24/sb/5606/) - Illegal racing 👍2  
+* 👍 Mayor Victoria Woodards
 * 👍 Mayor Victoria Woodards
 
 ## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍2  

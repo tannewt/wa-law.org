@@ -21,10 +21,16 @@ Testifying:
 * Steven Weise - Uniform Law Commission
 * Benjamin Orzeske - Uniform Law Commission
 
-#### 35 👎 - Con
+#### 721 👎 - Con
 Testifying:
 * Karen Pooley
 * Eric Pratt
+* Natalie Chavez
+* Debbie Campbell
+* Suzanne Rohner
+* Tracy Grigsby
+* Lorilee Gates
+* Julie Barrett - Conservative Ladies of Washington
 
 #### 0 ❓ - Other
 

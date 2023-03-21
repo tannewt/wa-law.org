@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31101&aId=153832&caId=22384&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31101&aId=153832&caId=22384&tId=4)
 
-#### 1 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Bill Lyne - United Faculty of Washington State
 
 #### 0 👎 - Con
 

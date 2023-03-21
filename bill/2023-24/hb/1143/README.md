@@ -30,12 +30,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153555&caId=22285&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153555&caId=22285&tId=4)
 
-#### 148 👍 - Pro
+#### 805 👍 - Pro
 Testifying:
 * Gwen Loosmore - Washington State PTA
 * Jeff Ketchel - [Washington State Public Health Association](/org/washington_state_public_health_association/)
 
-#### 1063 👎 - Con
+#### 2109 👎 - Con
 Testifying:
 * Eric pratt - I, America
 * C Davis - Washingtonians to Recall Inslee
@@ -53,8 +53,13 @@ Testifying:
 * Marvin Bea
 * Alex Dorr - The American Firearms, on behalf of our instate affiliate, Washington Gun Rights
 * Shawn Smith
+* Jacob Evans
+* Scott Myers
+* BILL ELDRIDGE
+* Kevin Bridges
+* Mike Coleman
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 
 ### Wed 02/08 04:00 PM - Appropriations (APP): SHB 1143 Firearms/purchase & transfer
 #### 784 👍 - Pro

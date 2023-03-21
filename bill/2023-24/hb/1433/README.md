@@ -20,7 +20,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153673&caId=22276&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153673&caId=22276&tId=4)
 
-#### 84 👍 - Pro
+#### 370 👍 - Pro
+Testifying:
+* Neal Black - Council member,  City of Kirkland
+* Court Olson - People for Climate Action & others
+* David Godfrey - People for Climate Action
 
 #### 0 👎 - Con
 

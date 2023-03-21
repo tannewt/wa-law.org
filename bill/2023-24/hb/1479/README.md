@@ -21,13 +21,7 @@
 
 ## Meetings
 ### Mon 03/20 01:30 PM - Early Learning & K-12 Education (EDU): E2SHB 1479 Student restraint, isolation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31115&aId=153903&caId=22237&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31115&aId=153903&caId=22237&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31115&aId=153903&caId=22237&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31115&aId=153903&caId=22237&tId=4)
-
-#### 116 👍 - Pro
+#### 268 👍 - Pro
 Testifying:
 * Richard Pope - Parent of Isolation Room Survivor
 * Jen Chong Jewell - Special Education Advisory Council for OSPI
@@ -37,10 +31,38 @@ Testifying:
 * Jennifer Crespi - WA PTA
 * Susan Driscoll - Crisis Prevention Institute
 * Oliver Miska - WAESN
+* 💵Andrea Kadlec - [Disability Rights Washington](/org/disability_rights_washington/)
+* 💵Roxana Gomez - ACLU of Washington
+* Sarah Butcher - Roots of Inclusion
+* Chris Baglein - Survivor
+* Eliza Rankin - Seattle Public Schools – School Board Director
+* 💵Eric Warwick - [The Arc of King County](/org/the_arc_of_king_county/)
+* Kayla Bishop - Special Education Teacher at South Shore (Seattle Public Schools)
+* Janis White
+* Kristina De Vadder - Restraint & Isolation Committee Chair, Seattle Special Education PTSA
+* Pamela Phillips
+* Christie Robertson
+* Erica Hieggelke - Inclusionary Practices Committee Co-Chair, SSEPTSA
+* Michelle Whitehead
+* Mikhail Cherniske - Office of Superintendent of Public Instruction
+* KC Chiu - TeamChild Youth Advisory Board
+* Mario Gonzalez Martinez - TeamChild Youth Advisory Board
 
-#### 32 👎 - Con
+#### 62 👎 - Con
+Testifying:
+* Tracey Edou - Cascade School District
 
-#### 8 ❓ - Other
+#### 34 ❓ - Other
+Testifying:
+* Rick Chisa - Public School Employees of WA/SEIU 1948
+* Piper Burris
+* Brandy Strait
+* Corrine Miles
+* Lisa Dimmick
+* Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
+* Freedom Gassoway
+* Erin Smelser
+* Dr. John Parker - Central Valley School Districts
 
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1479 Student restraint, isolation
 #### 135 👍 - Pro

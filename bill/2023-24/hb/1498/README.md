@@ -10,17 +10,18 @@
 
 ## Meetings
 ### Mon 03/20 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): ESHB 1498 Aviation assurance funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31035&aId=153445&caId=22235&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31035&aId=153445&caId=22235&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31035&aId=153445&caId=22235&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31035&aId=153445&caId=22235&tId=4)
-
-#### 0 👍 - Pro
+#### 15 👍 - Pro
+Testifying:
+* Tom Dent
+* Brian Considine - Washington Department of Natural Resources
+* George Geissler - Washington Department of Natural Resources
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Bud Sizemore - WSCFF
+* Dylan Doty - Washington Fire Chiefs Association
 
 ### Thu 02/23 09:00 AM - Appropriations (APP): SHB 1498 Aviation assurance funding
 #### 36 👍 - Pro

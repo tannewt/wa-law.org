@@ -23,7 +23,8 @@
 
 ## [HB 1195](/bill/2023-24/hb/1195/) - Weapons/parks & hospitals 👍1  
 
-## [HB 1230](/bill/2023-24/hb/1230/) - School websites/drug info. 👍1  
+## [HB 1230](/bill/2023-24/hb/1230/) - School websites/drug info. 👍2  
+* 👍 Jeff Ketchel
 
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍3  
 

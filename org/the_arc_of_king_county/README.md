@@ -58,10 +58,12 @@
 
 ## [HB 1478](/bill/2023-24/hb/1478/) - Student rights 👍2  
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍4  ❓1
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍5  ❓1
+* 👍💵 Eric Warwick
 * 👍💵 Eric Warwick
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍3  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍4  
+* 👍 Eric Matthes
 * 👍 Eric Matthes
 
 ## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍2  
@@ -102,6 +104,9 @@
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓2
 * ❓💵 Ramona Hattendorf
+* ❓💵 Ramona Hattendorf
+
+## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget   ❓1
 * ❓💵 Ramona Hattendorf
 
 ## [SB 5214](/bill/2023-24/sb/5214/) - Music therapists 👍1  

@@ -16,11 +16,27 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31052&aId=153971&caId=22319&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31052&aId=153971&caId=22319&tId=4)
 
-#### 0 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Emilie Padiernos
+* Christina Henry - [Northwest Consumer Law Center](/org/northwest_consumer_law_center/)
+* Emilie Padiernos
+* Mark Fredrich
+* Samia El-Moslimany
+* John Webber - Washington State Association for Justice
+* 💵Shaun Scott - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 
-#### 1 👎 - Con
+#### 12 👎 - Con
+Testifying:
+* Sonia Gibson - Receivables Management Association International (RMAI)
+* Andrew Roskam - Accounts Receivable Inc.
+* Mindy Chumbley - Solverity
+* 💵Kelsi Hamilton - Washington Collectors Assn
+* Kevin Underwood - Washington Collectors Assn
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Fadi Assaf - Northwest Justice Project
 
 ### Wed 03/08 08:00 AM - Civil Rights & Judiciary (CRJ): ESSB 5173 Property exempt from exec.
 #### 34 👍 - Pro
