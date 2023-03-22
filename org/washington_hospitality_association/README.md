@@ -118,6 +118,9 @@
 
 ## [SB 5541](/bill/2023-24/sb/5541/) - Supply chain transparency   ❓1
 
+## [SB 5586](/bill/2023-24/sb/5586/) - Paid leave data 👍1  
+* 👍💵 Julia Gorton
+
 ## [SB 5733](/bill/2023-24/sb/5733/) - Payment card processing/tax 👍2  
 * 👍💵 Julia Gorton
 * 👍💵 Julia Gorton

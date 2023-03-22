@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 03/21 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): EHB 1663 Consolidated port districts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31038&aId=153927&caId=22258&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31038&aId=153927&caId=22258&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31038&aId=153927&caId=22258&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31038&aId=153927&caId=22258&tId=4)
-
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Alan Loebsack - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
 * Jim Kuntz - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)

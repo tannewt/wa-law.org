@@ -19,9 +19,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31053&aId=153978&caId=22326&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31053&aId=153978&caId=22326&tId=4)
 
-#### 18 👍 - Pro
+#### 20 👍 - Pro
+Testifying:
+* 💵Emily Stone - WA State Coalition Against Domestic Violence
 
-#### 0 👎 - Con
+#### 7 👎 - Con
+Testifying:
+* Clayton Peterson
+* Clayton Peterson
 
 #### 0 ❓ - Other
 

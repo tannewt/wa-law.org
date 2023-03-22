@@ -19,9 +19,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31060&aId=153661&caId=22353&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31060&aId=153661&caId=22353&tId=4)
 
-#### 5 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Corey Champagne - Veteran
+* Jesse Gould - Heroic Hearts Project
+* Matthew Griffin - Veteran
 
 #### 1 👎 - Con
 

@@ -46,7 +46,8 @@
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍2  
 * 👍💵 Carl Schroeder
 
-## [HB 1187](/bill/2023-24/hb/1187/) - Employee-union privilege   ❓1
+## [HB 1187](/bill/2023-24/hb/1187/) - Employee-union privilege   ❓2
+* ❓💵 Candice Bock
 * ❓💵 Candice Bock
 
 ## [HB 1200](/bill/2023-24/hb/1200/) - Employee information/unions   ❓1
@@ -68,7 +69,7 @@
 ## [HB 1276](/bill/2023-24/hb/1276/) - Accessory dwelling units   ❓1
 * ❓💵 Carl Schroeder
 
-## [HB 1293](/bill/2023-24/hb/1293/) - Development regulations   ❓1
+## [HB 1293](/bill/2023-24/hb/1293/) - Development regulations 👍1  ❓1
 * ❓💵 Carl Schroeder
 
 ## [HB 1296](/bill/2023-24/hb/1296/) - Local permit review 👍1  
@@ -106,7 +107,7 @@
 
 ## [HB 1413](/bill/2023-24/hb/1413/) - Flexible work/peace officers 👍1  
 
-## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍1  
+## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍2  
 * 👍💵 Carl Schroeder
 
 ## [HB 1428](/bill/2023-24/hb/1428/) - Pedestrians/roadways   ❓1
@@ -246,7 +247,7 @@
 
 ## [SB 5289](/bill/2023-24/sb/5289/) - Impact fees/law enforcement 👍1  
 
-## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍2  
+## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍3  
 
 ## [SB 5294](/bill/2023-24/sb/5294/) - Retirement system funding 👍2  
 * 👍💵 Candice Bock
@@ -258,7 +259,8 @@
 
 ## [SB 5332](/bill/2023-24/sb/5332/) - Homeless camps/schools, etc.  👎1 
 
-## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍2  
+## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍3  
+* 👍💵 Carl Schroeder
 * 👍💵 Carl Schroeder
 
 ## [SB 5336](/bill/2023-24/sb/5336/) - Main street trust fund 👍1  
@@ -280,7 +282,7 @@
 
 ## [SB 5374](/bill/2023-24/sb/5374/) - County critical areas 👍1  
 
-## [SB 5412](/bill/2023-24/sb/5412/) - Land use permitting/local 👍2  
+## [SB 5412](/bill/2023-24/sb/5412/) - Land use permitting/local 👍3  
 * 👍💵 Carl Schroeder
 * 👍💵 Carl Schroeder
 
@@ -299,7 +301,8 @@
 ## [SB 5456](/bill/2023-24/sb/5456/) - Minimum parking requirements  👎1 
 * 👎💵 Carl Schroeder
 
-## [SB 5457](/bill/2023-24/sb/5457/) - Small cities/GMA 👍1  
+## [SB 5457](/bill/2023-24/sb/5457/) - Small cities/GMA 👍2  
+* 👍💵 Carl Schroeder
 * 👍💵 Carl Schroeder
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development   ❓3

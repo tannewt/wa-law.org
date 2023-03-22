@@ -8,15 +8,10 @@
 
 ## Meetings
 ### Tue 03/21 10:30 AM - Local Government (LG): SB 5457 Small cities/GMA
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31073&aId=153711&caId=22378&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31073&aId=153711&caId=22378&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31073&aId=153711&caId=22378&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31073&aId=153711&caId=22378&tId=4)
-
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 0 👎 - Con
 

@@ -4,6 +4,8 @@
 
 ## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍1  
 
+## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍1  
+
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍5  
 
 ## [HB 1248](/bill/2023-24/hb/1248/) - Pupil transportation 👍1  
@@ -22,12 +24,12 @@
 
 ## [HB 1511](/bill/2023-24/hb/1511/) - Income/child care programs 👍1  
 
-## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍3  
+## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍4  
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍5  
 * 👍💵 Terique Scott
 
-## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍2  
+## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍3  
 
 ## [HB 1701](/bill/2023-24/hb/1701/) - Institutional ed. programs   ❓1
 

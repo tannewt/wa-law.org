@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31109&aId=153866&caId=22397&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31109&aId=153866&caId=22397&tId=4)
 
-#### 17 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Connor Linse - Office of the Secretary of State
 
-#### 0 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other
 

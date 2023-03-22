@@ -20,13 +20,29 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153554&caId=22284&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153554&caId=22284&tId=4)
 
-#### 29 👍 - Pro
+#### 50 👍 - Pro
 Testifying:
 * eric pratt - America
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 * David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
+* Aaron Toleafoa - DCYF/Green Hill School
+* Anthony Smith - DCYF/Green Hill School
+* Bryan Rodriguez-Hernandez - DCYF/Green Hill School
+* Caya Lenay
+* Edgar Calixto
+* Guillermo Padilla - DCYF/Green Hill School
+* Ray Roberson
+* Ronald Ackerson
+* Zachary Carver
+* Aaron Toleofoa - Green Hill School's Capitol Classroom
+* Anthony Smith - Green Hill School's Capitol Classroom
+* Bryan Rodriguez-Hernandez - Green Hill School's Capitol Classroom
+* Caya Lenay - Green Hill School's Capitol Classroom
+* Edgar Calixto - Green Hill School's Capitol Classroom
+* Guillermo Padilla - Green Hill School's Capitol Classroom
+* Ronald Ackerson Jr - Green Hill School's Capitol Classroom
 
-#### 38 👎 - Con
+#### 119 👎 - Con
 Testifying:
 * Jeffrey Slotnick
 * James McMahan - WA Assoc Sheriffs & Police Chiefs

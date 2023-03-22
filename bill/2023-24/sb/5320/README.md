@@ -16,9 +16,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31121&aId=153935&caId=22370&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31121&aId=153935&caId=22370&tId=4)
 
-#### 3 👍 - Pro
+#### 55 👍 - Pro
+Testifying:
+* Zach Snyder - IBEW Local 46
+* 💵Sophia Steele - Associated Builders and Contractors
+* 💵Nicole Grant - IBEW Local 46
+* Halene Sigmund - Construction Industry Training Council of WA
+* 💵Carolyn Logue - Associated Builders & Contractors - Inland Pacific Chapter
 
-#### 1 👎 - Con
+#### 12 👎 - Con
+Testifying:
+* Clayton Peterson
 
 #### 0 ❓ - Other
 

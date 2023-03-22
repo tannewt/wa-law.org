@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=ESHB 1436)
 * [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! March 15, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-march-15-2023/#:~:text=ESHB 1436)
 * [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=ESHB 1436)
 * [The Seattle Times](/org/the_seattle_times/) - [Remove cap on special education funding in WA now | The Seattle Times](https://www.seattletimes.com/opinion/editorials/remove-cap-on-special-education-funding-in-wa-now/#:~:text=House Bill 1436)

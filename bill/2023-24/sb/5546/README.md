@@ -13,22 +13,23 @@
 
 ## Meetings
 ### Tue 03/21 04:00 PM - Regulated Substances & Gaming (RSG): ESSB 5546 Cannabis commission
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31104&aId=154380&caId=22443&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31104&aId=154380&caId=22443&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31104&aId=154380&caId=22443&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31104&aId=154380&caId=22443&tId=4)
-
-#### 9 👍 - Pro
+#### 44 👍 - Pro
 Testifying:
 * Burl Bryson - The Cannabis Alliance
+* 💵Lara Kaminsky - The Cannabis Alliance
+* Shawn DeNae Wagenseller - WA Sun & Craft Growers + Cannabis Alliance
+* Peter Manning - Black Excellence in Cannabis
 
-#### 5 👎 - Con
+#### 20 👎 - Con
 Testifying:
 * 💵Ezra Eickmeyer - Producers NW
 * Bethany Rondeaux
+* 💵Vicki Christophersen - Washington CannaBusiness Association
+* Keegan Skeate
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Kelly McLain - Washington State Department of Agriculture
 
 ### Mon 03/20 01:30 PM - Regulated Substances & Gaming (RSG): ESSB 5546 Cannabis commission
 #### 37 👍 - Pro

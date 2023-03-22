@@ -16,7 +16,8 @@
 ## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief 👍1  
 * 👍 Teresa Groves
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍3  
+* 👍💵 Kelly Olson
 
 ## [HB 1562](/bill/2023-24/hb/1562/) - Violence  👎2 
 * 👎💵 Anthony Blankenship
@@ -27,6 +28,9 @@
 * 👍 Charlie Klein
 
 ## [SB 5101](/bill/2023-24/sb/5101/) - DOC medical placements 👍1  
+
+## [SB 5134](/bill/2023-24/sb/5134/) - Reentry services & supports 👍2  
+* 👍💵 Kelly Olson
 
 ## [SB 5135](/bill/2023-24/sb/5135/) - Solitary confinement 👍1  
 * 👍💵 Anthony Blankenship

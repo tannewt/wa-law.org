@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Tue 03/21 04:00 PM - Education (ED): ESSB 5102 School library info and tech
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31044&aId=153583&caId=22338&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31044&aId=153583&caId=22338&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31044&aId=153583&caId=22338&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31044&aId=153583&caId=22338&tId=4)
-
-#### 160 👍 - Pro
+#### 200 👍 - Pro
 Testifying:
 * Benjamin Kort
 * Sharon Loniewski - Camas Educational Association
@@ -30,8 +24,13 @@ Testifying:
 * Jennifer Loughrey
 * ManChui Leung
 * Craig Seasholes
+* Stacey Ostrin
+* Claire Taylor
+* Jacob Burton
+* Rick Chisa - Public School Employees of Washington (PSE)
+* Lisa Layera
 
-#### 4 👎 - Con
+#### 25 👎 - Con
 
 #### 0 ❓ - Other
 

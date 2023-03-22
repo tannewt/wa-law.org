@@ -9,19 +9,13 @@
 
 ## Meetings
 ### Tue 03/21 10:30 AM - Civil Rights & Judiciary (CRJ): SSB 5077 Uniform commercial code
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31052&aId=153972&caId=22320&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31052&aId=153972&caId=22320&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31052&aId=153972&caId=22320&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31052&aId=153972&caId=22320&tId=4)
-
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Greg Fox
 * Steven Weise - Uniform Law Commission
 * Benjamin Orzeske - Uniform Law Commission
 
-#### 721 👎 - Con
+#### 1360 👎 - Con
 Testifying:
 * Karen Pooley
 * Eric Pratt
@@ -31,8 +25,16 @@ Testifying:
 * Tracy Grigsby
 * Lorilee Gates
 * Julie Barrett - Conservative Ladies of Washington
+* Henry Osgood
+* Joshua Hardwick
+* Gauri Sanghvi
+* Alex Thorkildsen
+* Kristine Quinn
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Daniel Miller - Daniel Miller Entertainment
+* Daniel Miller - Daniel Miller Entertainment
 
 ### Wed 03/08 08:00 AM - Civil Rights & Judiciary (CRJ): SSB 5077 Uniform commercial code
 #### 1 👍 - Pro

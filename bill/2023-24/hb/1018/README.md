@@ -7,6 +7,21 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 03/23 04:00 PM - Ways & Means (WM): HB 1018 Hog fuel/tax exemption
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154521&caId=22444&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154521&caId=22444&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154521&caId=22444&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154521&caId=22444&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* 💵Bill Stauffacher - [Northwest Pulp & Paper Association](/org/northwest_pulp_&_paper_association/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/10 08:00 AM - Finance (FIN): HB 1018 Hog fuel/tax exemption
 #### 0 👍 - Pro
 

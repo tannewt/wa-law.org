@@ -21,7 +21,8 @@
 
 ## [HB 1374](/bill/2023-24/hb/1374/) - Office of career connect WA 👍1  
 
-## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services   ❓1
+## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services   ❓2
+* ❓💵 Neil Strege
 * ❓💵 Neil Strege
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  

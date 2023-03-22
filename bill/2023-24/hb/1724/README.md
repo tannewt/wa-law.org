@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=2SHB 1724)
 * [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB 1724)
 
 ## Meetings
@@ -19,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31048&aId=153636&caId=22291&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31048&aId=153636&caId=22291&tId=4)
 
-#### 16 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Jeremy Arp - National Association of Social Workers - Washington Chapter
 * Dominique Avery - [Washington Mental Health Counselors Association](/org/washington_mental_health_counselors_association/)

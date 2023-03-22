@@ -31,7 +31,7 @@
 
 ## [HB 1247](/bill/2023-24/hb/1247/) - Music therapists 👍1  
 
-## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍1  
+## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍2  
 
 ## [HB 1265](/bill/2023-24/hb/1265/) - Adult family homes/prop. tax 👍1  
 
@@ -54,6 +54,8 @@
 * 👍💵 Ramona Hattendorf
 * ❓💵 Ramona Hattendorf
 
+## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍1  
+
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
 
 ## [HB 1478](/bill/2023-24/hb/1478/) - Student rights 👍2  
@@ -62,11 +64,11 @@
 * 👍💵 Eric Warwick
 * 👍💵 Eric Warwick
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍4  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍5  
 * 👍 Eric Matthes
 * 👍 Eric Matthes
 
-## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍2  
+## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍2 👎1 
 
 ## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍2  
 

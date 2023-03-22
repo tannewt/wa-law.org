@@ -15,7 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31050&aId=154173&caId=22439&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31050&aId=154173&caId=22439&tId=4)
 
-#### 3 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* Kate White Tudor - Rayus Radiology
+* 💵Kirsten Smith - [Susan G. Komen](/org/susan_g._komen/)
 
 #### 0 👎 - Con
 

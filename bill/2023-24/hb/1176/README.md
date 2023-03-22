@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=2SHB 1176)
 * [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=SHB 1176)
 * [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB 1176)
 * [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=HB 1176)
@@ -17,21 +18,16 @@
 
 ## Meetings
 ### Tue 03/21 04:00 PM - Ways & Means (WM): 2SHB 1176 Climate-ready communities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154110&caId=22420&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154110&caId=22420&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154110&caId=22420&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154110&caId=22420&tId=4)
-
-#### 236 👍 - Pro
+#### 304 👍 - Pro
 Testifying:
 * 💵Maya Gillett - WA BlueGreen Alliance
 * 💵Johanna Lundahl - Peoples Voice on Climate
 * Aaron Everett - Self
 * Carrie Sessions - Governor’s Office
 * 💵Erin Frasier - Washington State Building & Construction Trades Council
+* Joshua Rubenstein - [The Nature Conservancy](/org/the_nature_conservancy/)
 
-#### 16 👎 - Con
+#### 73 👎 - Con
 
 #### 0 ❓ - Other
 

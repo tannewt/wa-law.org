@@ -8,6 +8,9 @@
 ## [HB 1399](/bill/2023-24/hb/1399/) - Native American scholarships   ❓1
 * ❓ Ph.D., Terri Standish-Kuon
 
+## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees   ❓1
+* ❓ Ph.D., Terri Standish-Kuon
+
 ## [SB 5243](/bill/2023-24/sb/5243/) - High school and beyond plans 👍1  
 
 ## [SB 5498](/bill/2023-24/sb/5498/) - Nurse student loan repayment 👍1  

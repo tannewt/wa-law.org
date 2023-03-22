@@ -22,17 +22,13 @@ Sign up to testify:
 #### 0 ❓ - Other
 
 ### Tue 03/21 10:30 AM - Labor & Commerce (LC): SHB 1200 Employee information/unions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31096&aId=154061&caId=22406&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31096&aId=154061&caId=22406&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31096&aId=154061&caId=22406&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31096&aId=154061&caId=22406&tId=4)
-
-#### 32 👍 - Pro
+#### 45 👍 - Pro
 Testifying:
 * Jenn Hansen
+* 💵Michael White - [King County](/org/king_county/)
+* 💵Seamus Petrie - [Washington Public Employees Association](/org/washington_public_employees_association/)
 
-#### 17 👎 - Con
+#### 50 👎 - Con
 Testifying:
 * 💵Maxford Nelsen - [Freedom Foundation](/org/freedom_foundation/)
 * James McMahan - WA Assoc Sheriffs & Police Chiefs

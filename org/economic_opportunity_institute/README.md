@@ -7,7 +7,7 @@
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
 
-## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
+## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍2  
 
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
 

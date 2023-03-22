@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=SB 5200)
+
 ## Meetings
 ### Mon 03/20 04:00 PM - Ways & Means (WM): PSSB 5200: All other.  (Remote Testimony Available).
 #### 49 👍 - Pro

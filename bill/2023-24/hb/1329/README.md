@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Tue 03/21 01:30 PM - Environment, Energy & Technology (ENET): ESHB 1329 Utility shutoffs/heat
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31063&aId=153668&caId=22266&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31063&aId=153668&caId=22266&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31063&aId=153668&caId=22266&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31063&aId=153668&caId=22266&tId=4)
-
-#### 240 👍 - Pro
+#### 276 👍 - Pro
 Testifying:
 * Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Ruth Sawyer - [Sierra Club](/org/sierra_club/)
@@ -27,13 +21,15 @@ Testifying:
 * 💵Charlee Thompson - NW Energy Coalition
 * 💵John Seng - [Spark Northwest](/org/spark_northwest/)
 * Deputy Mayor Kristina Walker - [City of Tacoma](/org/city_of_tacoma/)
+* Megan Larkin - [Climate Solutions](/org/climate_solutions/)
 * Lisa Gafken - Attorney General's Office
 * Rory Paine-Donovan - WA AGO
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
+* Yochi Zakai - The Energy Project
 
-#### 4 👎 - Con
+#### 11 👎 - Con
 
-#### 8 ❓ - Other
+#### 10 ❓ - Other
 Testifying:
 * Chelsea Martin - Representing Modern Electric Water Company
 * 💵Jay Balasbas - PacifiCorp
@@ -43,6 +39,8 @@ Testifying:
 * 💵Steve Taylor - Cowlitz Public Utility District No. 1
 * 💵Bill Clarke - Regional Water Cooperative of Pierce County
 * 💵Nicolas Garcia - WA PUD Association
+* Foster Hildreth - Orcas Power and Light Company
+* 💵Paul Griffin - Washington Rural Electric Cooperative Association
 
 ### Thu 01/26 08:00 AM - Environment & Energy (ENVI): HB 1329 Utility shutoffs/heat
 #### 73 👍 - Pro

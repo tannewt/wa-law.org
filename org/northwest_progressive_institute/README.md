@@ -41,8 +41,9 @@
 
 ## [HB 1351](/bill/2023-24/hb/1351/) - Minimum parking requirements 👍1  
 
-## [HB 1392](/bill/2023-24/hb/1392/) - Electronics repair 👍1  
+## [HB 1392](/bill/2023-24/hb/1392/) - Electronics repair 👍2  
 * 👍 Andrew Villeneuve
+* 👍 Kathy Sakahara
 
 ## [HB 1426](/bill/2023-24/hb/1426/) - Controlled entities 👍1  
 
@@ -70,13 +71,14 @@
 * 👍 Andrew Villeneuve
 * 👍 Kathy Sakahara
 
-## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍2  
+## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍4  
 
 ## [SB 5152](/bill/2023-24/sb/5152/) - Synthetic media 👍3  
 
 ## [SB 5153](/bill/2023-24/sb/5153/) - Future voters/records 👍2  
 
-## [SB 5171](/bill/2023-24/sb/5171/) - Consumer products/gender 👍1  
+## [SB 5171](/bill/2023-24/sb/5171/) - Consumer products/gender 👍2  
+* 👍 Kathy Sakahara
 * 👍 Kathy Sakahara
 
 ## [SB 5182](/bill/2023-24/sb/5182/) - Candidate filing 👍1  

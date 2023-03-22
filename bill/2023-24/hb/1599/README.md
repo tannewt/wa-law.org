@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153553&caId=22283&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153553&caId=22283&tId=4)
 
-#### 14 👍 - Pro
+#### 21 👍 - Pro
+Testifying:
+* Kateri Candee - Washington State Patrol
+* Neil Weaver - Washington State Patrol
 
-#### 113 👎 - Con
+#### 149 👎 - Con
 Testifying:
 * Eric pratt - I, America
 * Bruce Harris

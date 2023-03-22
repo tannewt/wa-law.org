@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Tue 03/21 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): ESHB 1424 Dogs and cats/consumers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31087&aId=153768&caId=22248&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31087&aId=153768&caId=22248&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31087&aId=153768&caId=22248&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31087&aId=153768&caId=22248&tId=4)
-
-#### 73 👍 - Pro
+#### 83 👍 - Pro
 Testifying:
 * Dr. Lisa Parshley - Olympia City Council
 * Mindi Callison - Bailing Out Benji
@@ -30,10 +24,14 @@ Testifying:
 
 #### 1 👎 - Con
 
-#### 5 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * Kathryn Neary
 * Cathleen Powell
+* 💵Albert Sardinas - FMS Global Strategies
+* 💵Paula Sardinas - FMS Global Strategies
+* Justin Kerr - Puppyland
+* Kayla Kerr - Puppyland
 
 ### Fri 01/27 08:00 AM - Consumer Protection & Business (CPB): HB 1424 Dogs and cats/consumers
 #### 740 👍 - Pro

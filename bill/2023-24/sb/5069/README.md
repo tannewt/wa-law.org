@@ -11,17 +11,16 @@
 
 ## Meetings
 ### Tue 03/21 04:00 PM - Regulated Substances & Gaming (RSG): SB 5069 Interstate cannabis agrmts.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31104&aId=154379&caId=22442&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31104&aId=154379&caId=22442&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31104&aId=154379&caId=22442&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31104&aId=154379&caId=22442&tId=4)
+#### 11 👍 - Pro
+Testifying:
+* Adam Smith - Alliance for Sensible Markets
+* 💵Vicki Christophersen - Washington CannaBusiness Association
+* peter manning - Balck Excellence in Cannabis
 
-#### 3 👍 - Pro
-
-#### 1 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * john Worthington - AAMC
+* Mark Ambler
 
 #### 0 ❓ - Other
 

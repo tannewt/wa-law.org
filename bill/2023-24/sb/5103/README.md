@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Tue 03/21 01:30 PM - Health Care & Wellness (HCW): 2SSB 5103 Medicaid patients/discharge
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31058&aId=154005&caId=22349&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31058&aId=154005&caId=22349&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31058&aId=154005&caId=22349&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31058&aId=154005&caId=22349&tId=4)
-
-#### 122 👍 - Pro
+#### 133 👍 - Pro
 Testifying:
 * Katie Kolan - Washington State Hospital Association (WSHA)
 

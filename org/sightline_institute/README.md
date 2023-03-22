@@ -55,7 +55,7 @@
 
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍1  
 
-## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍1  
+## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍2  
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
 * 👍💵 Dan Bertolet

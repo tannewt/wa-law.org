@@ -31,8 +31,9 @@
 
 ## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍1  
 
-## [HB 1187](/bill/2023-24/hb/1187/) - Employee-union privilege  👎1 
+## [HB 1187](/bill/2023-24/hb/1187/) - Employee-union privilege  👎1 ❓1
 * 👎💵 Mike Hoover
+* ❓💵 Mike Hoover
 
 ## [HB 1200](/bill/2023-24/hb/1200/) - Employee information/unions   ❓1
 * ❓💵 Mike Hoover

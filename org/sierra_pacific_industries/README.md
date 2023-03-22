@@ -12,9 +12,10 @@
 
 ## [HB 1572](/bill/2023-24/hb/1572/) - Recovery of taxes/venue 👍2  
 
-## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services  👎2 
+## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1 👎2 
 * 👎 Bill Turner
 * 👎 Bill Turner
+* 👍 Bill Turner
 
 ## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I  👎2 
 

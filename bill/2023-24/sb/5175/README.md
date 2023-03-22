@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 03/21 04:00 PM - Education (ED): ESB 5175 School principal contracts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31044&aId=153584&caId=22339&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31044&aId=153584&caId=22339&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31044&aId=153584&caId=22339&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31044&aId=153584&caId=22339&tId=4)
-
-#### 5 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Carlos Gonzalez - McFarland Middle School, Othello
 * Dr. Scott Seaman - [Association of Washington School Principals](/org/association_of_washington_school_principals/)

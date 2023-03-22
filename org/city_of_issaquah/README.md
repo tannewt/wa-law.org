@@ -12,6 +12,10 @@
 
 ## [HB 1351](/bill/2023-24/hb/1351/) - Minimum parking requirements  👎1 
 
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍1  
+
+## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍1  
+
 ## [HB 1578](/bill/2023-24/hb/1578/) - Wildland fire safety 👍1  
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  

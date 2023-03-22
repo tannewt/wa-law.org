@@ -9,6 +9,9 @@
 ## [HB 1740](/bill/2023-24/hb/1740/) - Forestry riparian easements  👎1 
 * 👎💵 Paula Swedeen
 
+## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services  👎1 
+* 👎 Mitch Friedman
+
 ## [SB 5093](/bill/2023-24/sb/5093/) - Climate response strategy 👍1  
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management 👍1  

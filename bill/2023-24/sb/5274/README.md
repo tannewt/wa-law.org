@@ -8,19 +8,13 @@
 
 ## Meetings
 ### Tue 03/21 04:00 PM - Community Safety, Justice, & Reentry (CSJR): SB 5274 Public employ. eligibility
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=153741&caId=22333&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=153741&caId=22333&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=153741&caId=22333&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=153741&caId=22333&tId=4)
-
-#### 3 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Christina Miyamasu - King County Prosecuting Attorney's Office
 
-#### 18 👎 - Con
+#### 75 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 

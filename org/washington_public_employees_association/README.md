@@ -28,7 +28,8 @@
 
 ## [HB 1197](/bill/2023-24/hb/1197/) - Workers' comp. providers 👍1  
 
-## [HB 1200](/bill/2023-24/hb/1200/) - Employee information/unions 👍1  
+## [HB 1200](/bill/2023-24/hb/1200/) - Employee information/unions 👍2  
+* 👍💵 Seamus Petrie
 
 ## [HB 1217](/bill/2023-24/hb/1217/) - Wage complaints 👍1  
 
@@ -40,7 +41,7 @@
 
 ## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records 👍2  
 
-## [HB 1323](/bill/2023-24/hb/1323/) - Fire-resistant materials 👍1  
+## [HB 1323](/bill/2023-24/hb/1323/) - Fire-resistant materials 👍2  
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
 

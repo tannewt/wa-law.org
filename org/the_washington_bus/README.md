@@ -19,7 +19,7 @@
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍2  
 * 👍💵 Jazmine Smith
 
-## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍10  
+## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍11  
 
 ## [SB 5208](/bill/2023-24/sb/5208/) - Online voter registration 👍6  
 * 👍💵 Jazmine Smith

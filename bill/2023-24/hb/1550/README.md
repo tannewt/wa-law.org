@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=2SHB 1550)
 * [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=2SHB 1550)
 * [Washington St Pta](/org/washington_st_pta/) - [Many Bills End Their Journey in 2023 with Fiscal Cutoff - WSPTA](https://www.wastatepta.org/many-bills-end-their-journey-in-2023-with-fiscal-cutoff/#:~:text=2SHB 1550)
 * [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=HB 1550)
@@ -25,13 +26,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31117&aId=153912&caId=22277&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31117&aId=153912&caId=22277&tId=4)
 
-#### 24 👍 - Pro
+#### 168 👍 - Pro
 Testifying:
 * William Barnet - Brinnon School District Board Member
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 * Stephanie Sherman-Petersen
+* 💵Allison Krutsinger - Department of Children Youth and Families
+* Jenny Plaja
+* Maddy Thompson - Policy Office of Governor Inslee
 
-#### 30 👎 - Con
+#### 171 👎 - Con
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 * Trish Beathard - Brinnon School District
@@ -41,11 +45,19 @@ Testifying:
 * Laura Murphey - Washington Childcare Center Association
 * Susan Brown - Washington Childcare Center Association
 * Baljinder Sohal - Auburn School District
+* Margot Grant Gould - KinderCare Learning Companies
+* Dr. Stephan Blanford - [Children's Alliance](/org/children's_alliance/)
+* David Webster - Opportunity Council Early Learning and Family Services
+* 💵Katy Warren - WA State Assn of Head Start and ECEAP
+* Susan Fitzpatrick - Pacific Northwest Montessori Association
+* Kimber Burrows - Upriver Discovery School
 
-#### 3 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Wade Smith - Walla Walla Public Schools
 * Paul Clark - Colton School District
+* Deeann Puffert - [Child Care Aware of Washington](/org/child_care_aware_of_washington/)
+* Jim Kowalkowski - Rural Education Center
 
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1550 Transition to kindergarten
 #### 27 👍 - Pro

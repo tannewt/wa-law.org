@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=SHB 1240)
 * [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=SHB 1240)
 * [The Seattle Times](/org/the_seattle_times/) - [WA assault weapons bill goes after the biggest guns — in more ways than one | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-assault-weapons-bill-goes-after-the-biggest-guns-in-more-ways-than-one/#:~:text=House Bill 1240)
 * [The Seattle Times](/org/the_seattle_times/) - [WA House votes to ban assault weapons | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-house-votes-to-ban-assault-weapons/#:~:text=House Bill 1240)
@@ -30,7 +31,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153556&caId=22286&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153556&caId=22286&tId=4)
 
-#### 918 👍 - Pro
+#### 1388 👍 - Pro
 Testifying:
 * Gwen Loosmore
 * Steve Albrecht
@@ -38,7 +39,7 @@ Testifying:
 * Will McGinty - WA State Attorney General's Office
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
-#### 4623 👎 - Con
+#### 5142 👎 - Con
 Testifying:
 * Jeffrey Slotnick - Setracon Inc.
 * Eric pratt - I, America
@@ -83,14 +84,23 @@ Testifying:
 * Paul Scherling
 * Isaac Holyk
 * Elizabeth VanSteertegem
+* Donald Parker - Business owners of central Washington
+* Joshua Barnett - Business owners of Central Washington
+* Mario Bustamante - Business owners of Central Washington
 * John Ecker - No
 * Riley Holloway
 * Nicholas Spacone
 * Amory Gengler
+* John McElfresh - Self
+* Amanda McKinney - Yakima County
+* Richard Olsen - Killer Innovations
+* Jeffrey Watson
+* Paul Edwards
 
-#### 17 ❓ - Other
+#### 19 ❓ - Other
 Testifying:
 * eric cortez
+* Zane Bray - n/a
 
 ### Tue 01/17 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1240 Firearms/assault weapons
 #### 1035 👍 - Pro

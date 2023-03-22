@@ -15,7 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31121&aId=153937&caId=22372&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31121&aId=153937&caId=22372&tId=4)
 
-#### 3 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Alexandra Mather - [Pierce Transit](/org/pierce_transit/)
 
 #### 0 👎 - Con
 

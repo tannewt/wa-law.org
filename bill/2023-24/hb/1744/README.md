@@ -16,7 +16,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31117&aId=153914&caId=22279&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31117&aId=153914&caId=22279&tId=4)
 
-#### 50 👍 - Pro
+#### 52 👍 - Pro
 Testifying:
 * Catherine Ahl - League of Women Voters of WA
 
@@ -24,7 +24,10 @@ Testifying:
 Testifying:
 * Liv Finne - Washington Policy Center
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Jessica de Barros - Charter School Commission
+* Randy Spaulding - [Washington State Board of Education](/org/washington_state_board_of_education/)
 
 ### Thu 02/09 08:00 AM - Education (ED): HB 1744 Clarifying the responsibilities and accountability for the effective delivery and oversight of public education services to charter school students. (Remote Testimony Available).
 #### 192 👍 - Pro

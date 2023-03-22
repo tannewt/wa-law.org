@@ -16,15 +16,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31059&aId=153654&caId=22352&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31059&aId=153654&caId=22352&tId=4)
 
-#### 3 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Penny Quist
+* PEGGY Dolane
+* Selina Sweet
 
-#### 0 👎 - Con
+#### 6 👎 - Con
 
-#### 1 ❓ - Other
+#### 28 ❓ - Other
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
+* Eric pratt - America
 
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SSB 5438 Supportive relationships
 #### 8 👍 - Pro

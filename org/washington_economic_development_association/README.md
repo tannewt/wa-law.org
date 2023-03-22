@@ -5,7 +5,7 @@
 
 ## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍2  
 
-## [HB 1267](/bill/2023-24/hb/1267/) - Rural public facilities/tax 👍2  
+## [HB 1267](/bill/2023-24/hb/1267/) - Rural public facilities/tax 👍3  
 
 ## [HB 1527](/bill/2023-24/hb/1527/) - Tax increment financing 👍1  
 

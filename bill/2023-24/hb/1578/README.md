@@ -12,6 +12,7 @@
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [Legislative Priorities | WA - DNR](https://www.dnr.wa.gov/about/legislative#:~:text=HB 1578)
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [‘Cascading Impacts of Wildfire’ Bill Introduced to Address Smoke and Wildfire Risk Statewide | WA - DNR](https://www.dnr.wa.gov/news/%E2%80%98cascading-impacts-wildfire%E2%80%99-bill-introduced-address-smoke-and-wildfire-risk-statewide#:~:text=House Bill 1578)
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [‘Cascading Impacts of Wildfire’ Bill Passes House with Unanimous Vote, Heads to Senate | WA - DNR](https://www.dnr.wa.gov/news/%E2%80%98cascading-impacts-wildfire%E2%80%99-bill-passes-house-unanimous-vote-heads-senate#:~:text=House Bill 1578)
+* [Department of Natural Resources](/org/department_of_natural_resources/) - [Federal Government to Fund $25M in Wildfire Defense Grants in Washington | WA - DNR](https://www.dnr.wa.gov/news/federal-government-fund-25m-wildfire-defense-grants-washington#:~:text=House Bill 1578)
 
 ## Meetings
 ### Mon 03/20 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): 2SHB 1578 Wildland fire safety

@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=E2SHB 1392)
 * [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Priority Bills -- current status — Quaker Voice](https://www.quakervoicewa.org/priority-bills-current-status/#:~:text=1392)
 * [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=HB 1392)
 * [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Environmental Stewardship — Quaker Voice](https://www.quakervoicewa.org/environmental-stewardship/#:~:text=HB1392)
@@ -26,20 +27,33 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153669&caId=22272&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153669&caId=22272&tId=4)
 
-#### 259 👍 - Pro
+#### 351 👍 - Pro
 Testifying:
 * Heather Lindberg - WSPTA
 * Ashima Sukhdev - Seattle Public Utilities
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * 💵Patrick Connor - NFIB
+* Steven Rhine
+* Kathy Sakahara - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* Billy Rios - QED Secure Solutions
+* Lodrina Cherne - SANS Institute
+* Mitch Kramer - FIXCO
+* Nathan Proctor - US PIRG
+* 💵Travis Dutton - 206 10th Ave SE
+* Cindy McMullen - [Central Valley School District](/org/central_valley_school_district/)
 
-#### 5 👎 - Con
+#### 33 👎 - Con
 Testifying:
 * 💵Melissa Gombosky - CTIA
 * Amy Bos - NetChoice
 * 💵Caleb Williamson - ACT | The App Association
 * 💵Caleb Williamson - ACT | The App Association
 * Patrick Hedger - Taxpayers Protection Alliance
+* 💵Ashley Sutton - TechNet
+* 💵Melissa Gombosky - CTIA
+* Clayton Peterson
+* Edward Longe - James Madison Institute
+* Charlie Brown - Consumer Technology Association
 
 #### 0 ❓ - Other
 

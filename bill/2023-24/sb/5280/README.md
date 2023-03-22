@@ -15,22 +15,20 @@
 
 ## Meetings
 ### Tue 03/21 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SB 5280 Clergy/child abuse reporting
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31092&aId=153772&caId=22358&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31092&aId=153772&caId=22358&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31092&aId=153772&caId=22358&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31092&aId=153772&caId=22358&tId=4)
-
-#### 38 👍 - Pro
+#### 44 👍 - Pro
 Testifying:
 * Janet Hedgepath - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
+* Mitchel Melin
+* Mark O'Donnell
+* Christopher Marino Hardin
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Kristiana de Leon - Association of Secular Elected Officials
 * Bishop Frank Schuster - Washington State Catholic Conference
+* Eric Kniffin - Ethics and Public Policy Center
 
 ### Tue 01/24 10:30 AM - Human Services (HS): SB 5280 Clergy/child abuse reporting
 #### 14 👍 - Pro

@@ -19,14 +19,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31093&aId=153778&caId=22364&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31093&aId=153778&caId=22364&tId=4)
 
-#### 198 👍 - Pro
+#### 345 👍 - Pro
 Testifying:
 * Danni Askini - Gender Justice League
 * Jessica McHegg - Gender Justice League
+* Tim Wood
 * Autumn Lovewell
 * Stéphanie Chavet
+* 💵Megan Veith - [Building Changes](/org/building_changes/)
+* Jody Disney
+* Sara Kukonnen - Planned Parenthood Greater Northwest
+* Rebekah Gardea - QLaw Foundation of Washington
+* Jonathan Frochtwajg - Cascade AIDS Project
+* Danni Askini - Gender Justice League
+* Melissa Auclaire
 
-#### 2504 👎 - Con
+#### 4640 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Gabriel Jacobs
@@ -42,8 +50,22 @@ Testifying:
 * BILL ELDRIDGE
 * Angela Dabb
 * Team (Theresa) Freedom (Scherling)
+* mary Warren
+* mary Warren
+* Beth Daranciang
+* Lorilee Gates
+* Jessica Rice
+* Theresa Schrempp
+* Amanda McKinney - Yakima County
+* Dr. Dave White - Climate Change Truth Inc. cctruth.org
+* Lauren Armstrong
+* Gabriel Jacobs
+* Christy Frazier
+* Alex Chrostowski - Gays Against Groomers
+* Sean Swope
+* Sarah Garriott
 
-#### 4 ❓ - Other
+#### 12 ❓ - Other
 
 ### Mon 02/06 10:30 AM - Human Services (HS): SB 5599 Protected health care/youth
 #### 60 👍 - Pro

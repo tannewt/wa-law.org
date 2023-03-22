@@ -17,7 +17,7 @@
 
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍5  
 
-## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍1  
+## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍2  
 
 ## [HB 1346](/bill/2023-24/hb/1346/) - Purple star award 👍1  
 
@@ -32,7 +32,7 @@
 
 ## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct 👍2  
 
-## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍6  
+## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍7  
 * 👍 Alicya Pearson
 * 👍 Alicya Pearson
 
@@ -50,7 +50,7 @@
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍3  
 
-## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍5  
+## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍6  
 
 ## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍3  
 
@@ -59,7 +59,7 @@
 
 ## [HB 1603](/bill/2023-24/hb/1603/) - Agricultural products promo. 👍1  
 
-## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍2  
+## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍3  
 
 ## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  
 

@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Tue 03/21 10:30 AM - Law & Justice (LAW): SHB 1132 Limited authority officers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31040&aId=153637&caId=22265&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31040&aId=153637&caId=22265&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31040&aId=153637&caId=22265&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31040&aId=153637&caId=22265&tId=4)
-
-#### 6 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Brian Considine - [Department of Natural Resources](/org/department_of_natural_resources/)
 * Chandra Wax - [Liquor and Cannabis Board](/org/liquor_and_cannabis_board/)

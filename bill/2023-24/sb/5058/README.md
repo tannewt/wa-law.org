@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31053&aId=153981&caId=22329&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31053&aId=153981&caId=22329&tId=4)
 
-#### 33 👍 - Pro
+#### 37 👍 - Pro
 Testifying:
 * Pam Haley - Mayor, City of Spokane Valley
 * 💵Tricia Gullion - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Council member Betsy Wilkerson - [City of Spokane](/org/city_of_spokane/)
+* Spencer Gardner - Planning Director, City of Spokane
 
 #### 2 👎 - Con
 

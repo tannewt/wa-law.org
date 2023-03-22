@@ -3,11 +3,13 @@
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 * 👍 Theresa Metcalf
 
-## [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍1  
+## [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍2  
 
 ## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍1  
 
 ## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍2  
+
+## [HB 1753](/bill/2023-24/hb/1753/) - Derelict vessel notices 👍1  
 
 ## [SB 5033](/bill/2023-24/sb/5033/) - Custodial sexual misconduct 👍1  
 
@@ -28,4 +30,6 @@
 
 ## [SB 5397](/bill/2023-24/sb/5397/) - Public benefit payments/DCYF 👍1  
 
-## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍1  
+## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍2  
+
+## [SB 5683](/bill/2023-24/sb/5683/) - Foster care/Indian children 👍1  

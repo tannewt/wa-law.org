@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Tue 03/21 10:30 AM - Law & Justice (LAW): 2SHB 1618 Childhood sexual abuse/SOL
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31040&aId=153547&caId=22260&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31040&aId=153547&caId=22260&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31040&aId=153547&caId=22260&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31040&aId=153547&caId=22260&tId=4)
-
-#### 39 👍 - Pro
+#### 49 👍 - Pro
 Testifying:
 * Christene Hansen
 * Kathryn Robb - CHILD USAdvocacy
@@ -29,7 +23,7 @@ Testifying:
 * Chris Love - Washington State Association for Justice
 * Skylar Schmitt
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Cary Silverman - American Tort Reform Association
 

@@ -9,23 +9,23 @@
 * [Second Substitute](S2/)
 
 ## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=2SHB 1559)
 * [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB 1559)
 * [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=HB 1559)
 
 ## Meetings
 ### Tue 03/21 04:00 PM - Ways & Means (WM): 2SHB 1559 Postsecondary student needs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154106&caId=22416&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154106&caId=22416&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154106&caId=22416&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154106&caId=22416&tId=4)
-
-#### 170 👍 - Pro
+#### 250 👍 - Pro
 Testifying:
 * Bryce McKibben - The Hope Center for College, Community, and Justice
 * Jackson Feaster
+* Adán Mendoza - [Washington Student Association](/org/washington_student_association/)
+* Jennifer Dellinger - State Board for Community & Technical Colleges
+* Mariela Barriga - [Highline College](/org/highline_college/)
+* Bryson Walb
+* Jacqui Cain
 
-#### 17 👎 - Con
+#### 74 👎 - Con
 
 #### 0 ❓ - Other
 

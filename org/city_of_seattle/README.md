@@ -14,6 +14,8 @@
 * 👍 Rico Quirindongo
 * 👍 Tiffany Washington
 
+## [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍1  
+
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍2  
 
 ## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍2  
@@ -30,7 +32,7 @@
 
 ## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍1  
 
-## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍2  
+## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍3  
 
 ## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍2  
 
@@ -90,9 +92,9 @@
 
 ## [HB 1499](/bill/2023-24/hb/1499/) - Food assistance funding 👍1  
 
-## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍1  
+## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍2  
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍2  
 
 ## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍3  
 
@@ -114,11 +116,11 @@
 
 ## [SB 5006](/bill/2023-24/sb/5006/) - Waiver of firearm rights 👍1  
 
-## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment 👍1  
+## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment 👍2  
 
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍1  
 
-## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
+## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍2  
 
 ## [SB 5052](/bill/2023-24/sb/5052/) - Leasehold tax/arenas, etc. 👍1  
 
@@ -169,7 +171,7 @@
 
 ## [SB 5263](/bill/2023-24/sb/5263/) - Psilocybin 👍1  
 
-## [SB 5274](/bill/2023-24/sb/5274/) - Public employ. eligibility 👍1  
+## [SB 5274](/bill/2023-24/sb/5274/) - Public employ. eligibility 👍2  
 
 ## [SB 5317](/bill/2023-24/sb/5317/) - RTA vehicle removal 👍1  
 
@@ -192,6 +194,8 @@
 ## [SB 5493](/bill/2023-24/sb/5493/) - Financial instit./B&O tax 👍1  
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
+
+## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍1  
 
 ## [SB 5513](/bill/2023-24/sb/5513/) - CTC mental health counseling 👍1  
 

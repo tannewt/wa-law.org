@@ -19,7 +19,9 @@ Sign up to testify:
 Testifying:
 * 💵Scott Hazlegrove - WA State Auto Dealers Association
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 
 #### 0 ❓ - Other
 

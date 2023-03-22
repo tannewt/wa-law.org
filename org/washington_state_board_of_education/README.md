@@ -52,14 +52,16 @@
 
 ## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍2  
 
-## [HB 1658](/bill/2023-24/hb/1658/) - Work experience/H.S. credit   ❓1
+## [HB 1658](/bill/2023-24/hb/1658/) - Work experience/H.S. credit 👍1  ❓1
 * ❓ Alissa Muller
+* 👍 Alissa Muller
 
 ## [HB 1692](/bill/2023-24/hb/1692/) - Student advisory groups 👍1  
 
 ## [HB 1714](/bill/2023-24/hb/1714/) - Financial literacy grants 👍1  
 
-## [HB 1744](/bill/2023-24/hb/1744/) - Charter school oversight   ❓1
+## [HB 1744](/bill/2023-24/hb/1744/) - Charter school oversight   ❓2
+* ❓ Randy Spaulding
 * ❓ Randy Spaulding
 
 ## [HB 1821](/bill/2023-24/hb/1821/) - Postsecondary credentials   ❓1

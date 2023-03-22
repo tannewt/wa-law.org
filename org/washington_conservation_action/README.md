@@ -27,7 +27,7 @@
 * 👍💵 Darcy Nonemacher
 * 👍 Rachel Baker
 
-## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
+## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍2  
 
 ## [HB 1365](/bill/2023-24/hb/1365/) - Puget Sound water quality 👍1  ❓1
 * ❓💵 Darcy Nonemacher
@@ -42,8 +42,9 @@
 
 ## [HB 1775](/bill/2023-24/hb/1775/) - Salmon recovery/liability 👍1  
 
-## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1  
+## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1 👎1 
 * 👍💵 Darcy Nonemacher
+* 👎 Rachel Baker
 
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial  👎1 
 

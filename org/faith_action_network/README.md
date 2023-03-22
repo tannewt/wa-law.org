@@ -24,7 +24,7 @@
 
 ## [HB 1240](/bill/2023-24/hb/1240/) - Firearms/assault weapons 👍4  
 
-## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍6  
+## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍7  
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍4  
 
@@ -37,7 +37,7 @@
 
 ## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct 👍5  
 
-## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍6  
+## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍7  
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍2  
 
@@ -58,6 +58,8 @@
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍8  
 * 👍💵 Kristin Ang
 * 👍💵 Kristin Ang
+
+## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍1  
 
 ## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍2  
 

@@ -8,18 +8,12 @@
 
 ## Meetings
 ### Tue 03/21 10:30 AM - Labor & Commerce (LC): HB 1684 Tribes/job title reporting
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31096&aId=154030&caId=22259&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31096&aId=154030&caId=22259&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31096&aId=154030&caId=22259&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31096&aId=154030&caId=22259&tId=4)
-
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Lorraine Parlange - [Kalispel Tribe](/org/kalispel_tribe/)
 * Caitlyn Jekel - Employment Security Department
 
-#### 2 👎 - Con
+#### 6 👎 - Con
 
 #### 0 ❓ - Other
 

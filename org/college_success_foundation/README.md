@@ -49,7 +49,8 @@
 ## [HB 1679](/bill/2023-24/hb/1679/) - Student homelessness group 👍1  
 * 👍💵 Juliet Schindler
 
-## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
+## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍2  
+* 👍💵 Juliet Schindler
 
 ## [SB 5072](/bill/2023-24/sb/5072/) - Highly capable students 👍1  
 * 👍💵 Juliet Schindler

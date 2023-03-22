@@ -43,7 +43,8 @@
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
 
-## [SB 5586](/bill/2023-24/sb/5586/) - Paid leave data 👍1  
+## [SB 5586](/bill/2023-24/sb/5586/) - Paid leave data 👍2  
+* 👍 Alexandra Mather
 * 👍 Alexandra Mather
 
 ## [SB 5606](/bill/2023-24/sb/5606/) - Illegal racing 👍1  

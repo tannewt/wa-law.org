@@ -53,7 +53,8 @@
 ## [HB 1173](/bill/2023-24/hb/1173/) - Light pollution 👍1  ❓1
 * ❓💵 Peter Godlewski
 
-## [HB 1175](/bill/2023-24/hb/1175/) - Petroleum storage tanks 👍1  
+## [HB 1175](/bill/2023-24/hb/1175/) - Petroleum storage tanks 👍2  
+* 👍💵 Peter Godlewski
 
 ## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products  👎1 
 * 👎💵 Peter Godlewski

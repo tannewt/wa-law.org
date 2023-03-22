@@ -9,16 +9,11 @@
 
 ## Meetings
 ### Tue 03/21 04:00 PM - Ways & Means (WM): SHB 1267 Rural public facilities/tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154109&caId=22419&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154109&caId=22419&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154109&caId=22419&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154109&caId=22419&tId=4)
-
-#### 22 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Kate Dean - Jefferson County Commission
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
 #### 0 👎 - Con
 

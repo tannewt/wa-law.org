@@ -16,18 +16,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153671&caId=22274&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153671&caId=22274&tId=4)
 
-#### 402 👍 - Pro
+#### 609 👍 - Pro
 Testifying:
 * Tony Usibelli
 * Deputy Mayor Kristina Walker - [City of Tacoma](/org/city_of_tacoma/)
 * Andrew Vander Stoep - IBEW Local 191
 * Deputy Mayor Kristina Walker - [City of Tacoma](/org/city_of_tacoma/)
+* Megan Larkin - [Climate Solutions](/org/climate_solutions/)
+* Rachel Koller - Shift Zero
+* Emily Kubiak - Sustainable Connections
 
-#### 2 👎 - Con
+#### 29 👎 - Con
+Testifying:
+* Clayton Peterson
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Liz Reichart - Washington Department of Commerce
+* Liz Reichart - Washington Department of Commerce
+* 💵John Rothlin - Avista
 
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1391 Energy in buildings
 #### 114 👍 - Pro

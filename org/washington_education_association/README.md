@@ -41,6 +41,8 @@
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
+## [HB 1105](/bill/2023-24/hb/1105/) - Public comment notice 👍1  
+
 ## [HB 1106](/bill/2023-24/hb/1106/) - Unemployment/voluntary 👍1  
 
 ## [HB 1107](/bill/2023-24/hb/1107/) - "Master" and "servant" terms 👍1  
@@ -80,7 +82,7 @@
 
 ## [HB 1156](/bill/2023-24/hb/1156/) - College grant eligibility 👍1  
 
-## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍2  
+## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍3  
 
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
 
@@ -318,6 +320,8 @@
 
 ## [HB 1711](/bill/2023-24/hb/1711/) - Internet projects/tribes 👍1  
 
+## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce 👍1  
+
 ## [HB 1732](/bill/2023-24/hb/1732/) - K-12 inflation adjustments 👍2  
 * 👍💵 Julie Salvi
 * 👍💵 Julie Salvi
@@ -369,7 +373,7 @@
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
 
-## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍1  
+## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍2  
 
 ## [SB 5102](/bill/2023-24/sb/5102/) - School library info and tech 👍3  
 
@@ -406,6 +410,8 @@
 ## [SB 5182](/bill/2023-24/sb/5182/) - Candidate filing 👍2  
 
 ## [SB 5183](/bill/2023-24/sb/5183/) - Personal needs allowance 👍1  
+
+## [SB 5186](/bill/2023-24/sb/5186/) - Contracting/discrimination 👍1  
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
 * ❓💵 Larry Delaney
@@ -575,6 +581,8 @@
 ## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍2  
 
 ## [SB 5577](/bill/2023-24/sb/5577/) - Capital broadband program 👍1  
+
+## [SB 5586](/bill/2023-24/sb/5586/) - Paid leave data 👍1  
 
 ## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍1  
 

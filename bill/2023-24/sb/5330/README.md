@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 03/21 10:30 AM - Agriculture and Natural Resources (AGNR): SB 5330 Pesticide application
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31065&aId=153674&caId=22311&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31065&aId=153674&caId=22311&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31065&aId=153674&caId=22311&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31065&aId=153674&caId=22311&tId=4)
-
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Kelly McLain - Washington State Department of Agriculture
 

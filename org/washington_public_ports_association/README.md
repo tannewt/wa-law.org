@@ -29,7 +29,8 @@
 
 ## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍2  
 
-## [HB 1267](/bill/2023-24/hb/1267/) - Rural public facilities/tax 👍2  
+## [HB 1267](/bill/2023-24/hb/1267/) - Rural public facilities/tax 👍3  
+* 👍 Chris Herman
 * 👍 Chris Herman
 
 ## [HB 1303](/bill/2023-24/hb/1303/) - Property tax administration   ❓1
@@ -44,7 +45,7 @@
 
 ## [HB 1395](/bill/2023-24/hb/1395/) - Aircraft fuel tax distrib. 👍1  
 
-## [HB 1457](/bill/2023-24/hb/1457/) - Motor carriers/restrooms 👍1  
+## [HB 1457](/bill/2023-24/hb/1457/) - Motor carriers/restrooms 👍2  
 
 ## [HB 1505](/bill/2023-24/hb/1505/) - Alternative jet fuel 👍1  
 * 👍 eric ffitch

@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Tue 03/21 09:00 AM - Capital Budget (CB): SSB 5229 Site readiness grants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31071&aId=154150&caId=22423&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31071&aId=154150&caId=22423&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31071&aId=154150&caId=22423&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31071&aId=154150&caId=22423&tId=4)
-
-#### 9 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 * Michael Echanove - CERB - Community Economic Revitalization Board

@@ -11,9 +11,9 @@
 
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍1  
 
-## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
+## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍2  
 
-## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍3  
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍4  
 * 👍💵 Leah Missik
 
 ## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍1  
@@ -27,17 +27,21 @@
 
 ## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍1  
 
-## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
+## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍2  
+* 👍 Megan Larkin
 
 ## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍1  
 * 👍💵 Leah Missik
 
-## [HB 1390](/bill/2023-24/hb/1390/) - District energy systems 👍2  
+## [HB 1390](/bill/2023-24/hb/1390/) - District energy systems 👍3  
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍3  
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍4  
+* 👍 Megan Larkin
 
 ## [HB 1416](/bill/2023-24/hb/1416/) - Consumer-owned utilities 👍2  
 * 👍💵 Kelly Hall
+
+## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍1  
 
 ## [HB 1505](/bill/2023-24/hb/1505/) - Alternative jet fuel   ❓1
 * ❓💵 Leah Missik

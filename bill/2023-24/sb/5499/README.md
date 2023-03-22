@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=SSB 5499)
 * [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SB 5499)
 
 ## Meetings
@@ -18,16 +19,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31103&aId=153839&caId=22386&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31103&aId=153839&caId=22386&tId=4)
 
-#### 24 👍 - Pro
+#### 42 👍 - Pro
 Testifying:
 * Carma Matti-Jackson - [Washington Health Care Association](/org/washington_health_care_association/)
 * 💵Lisa Thatcher - Washington State Hospital Association
 * Jennifer Burkhardt - Summit Pacific Medical Center
 * RN, Jennifer Graham - MultiCare Health System
+* Deanna Martinez
+* Tom Davis - Veterans Legislative Coalition (VLC)
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Paula Meyer - Nursing Care Quality Assurance Commission
 
 ### Fri 02/10 08:00 AM - Health & Long Term Care (HLTC): SB 5499 Multistate nurse licensure
 #### 195 👍 - Pro

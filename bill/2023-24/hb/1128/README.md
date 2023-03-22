@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 03/21 04:00 PM - Ways & Means (WM): HB 1128 Personal needs allowance
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154100&caId=22410&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154100&caId=22410&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154100&caId=22410&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154100&caId=22410&tId=4)
-
-#### 19 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * 💵John Ficker - [Adult Family Home Council](/org/adult_family_home_council/)
 

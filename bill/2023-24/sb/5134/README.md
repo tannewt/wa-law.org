@@ -11,16 +11,11 @@
 ## Articles
 * [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Criminal Justice — Quaker Voice](https://www.quakervoicewa.org/criminal-justice/#:~:text=SB 5134)
 * [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=SB 5134)
+* [KING5](/org/king5/) - [Bill would increase support, cash for Washington inmates before being released | king5.com](https://www.king5.com/article/news/local/bill-increase-support-cash-washington-inmates/281-de67c91e-5d09-4ea9-820f-2db89ff6253b#:~:text=Senate Bill 5134)
 
 ## Meetings
 ### Tue 03/21 04:00 PM - Community Safety, Justice, & Reentry (CSJR): 2SSB 5134 Reentry services & supports
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=153740&caId=22332&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=153740&caId=22332&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=153740&caId=22332&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=153740&caId=22332&tId=4)
-
-#### 89 👍 - Pro
+#### 110 👍 - Pro
 Testifying:
 * Austin Slater
 * Candis Hannah - ORION WATCH COMMUNITY OUTREACH PROGRAMS
@@ -33,8 +28,9 @@ Testifying:
 * Janel McFeat - Washington Statewide Reentry Council
 * John Snaza
 * John Snaza
+* 💵Kelly Olson - [Civil Survival Project](/org/civil_survival_project/)
 
-#### 1 👎 - Con
+#### 9 👎 - Con
 
 #### 0 ❓ - Other
 

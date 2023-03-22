@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Tue 03/21 01:30 PM - State Government & Elections (SGE): E2SHB 1541 Lived experience
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31116&aId=153911&caId=22270&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31116&aId=153911&caId=22270&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31116&aId=153911&caId=22270&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31116&aId=153911&caId=22270&tId=4)
-
-#### 265 👍 - Pro
+#### 324 👍 - Pro
 Testifying:
 * Ivanova Smith - Self Advocate
 * Shawn Latham - Allies in Advocacy
@@ -34,8 +28,10 @@ Testifying:
 * Eric Matthes - [The Arc of King County](/org/the_arc_of_king_county/)
 * Nam Nguyen - Commission on Asian Pacific American Affairs
 * Janel McFeat - Washington Statewide Reentry Council
+* robert m wardell - self adovates
+* 💵Kelly Olson - [Civil Survival Project](/org/civil_survival_project/)
 
-#### 3 👎 - Con
+#### 18 👎 - Con
 
 #### 0 ❓ - Other
 

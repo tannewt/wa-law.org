@@ -20,6 +20,7 @@
 * [The Urbanist](/org/the_urbanist/) - [Growing Woodinville Considers Requiring More Off-Street Parking | The Urbanist](https://www.theurbanist.org/2023/02/07/growing-woodinville-considers-requiring-more-off-street-parking/#:~:text=Senate Bill 5466)
 * [PubliCola](/org/publicola/) - [Maybe Metropolis: A Tale of Two Densities - PubliCola](https://publicola.com/2023/01/25/maybe-metropolis-a-tale-of-two-densities/#:~:text=SB 5466)
 * [The Urbanist](/org/the_urbanist/) - [Liias and Reed Introduce Bill Requiring Midrise Zoning Near Rapid Transit | The Urbanist](https://www.theurbanist.org/2023/01/25/liias-and-reed-introduce-bill-requiring-midrise-zoning-near-rapid-transit/#:~:text=5466)
+* [Crosscut](/org/crosscut/) - [WA looks to address housing shortage with density, zoning changes | Crosscut](https://crosscut.com/politics/2023/03/wa-looks-address-housing-shortage-density-zoning-changes#:~:text=Senate Bill 5466)
 * [Crosscut](/org/crosscut/) - [WA looks to address housing shortage with density, zoning changes | Crosscut](https://crosscut.com/politics/2023/03/washington-has-shot-passing-massive-housing-reform-package#:~:text=Senate Bill 5466)
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 10 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate031323#:~:text=S.B. 5466)
 

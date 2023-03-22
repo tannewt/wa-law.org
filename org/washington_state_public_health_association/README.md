@@ -4,20 +4,20 @@
 
 ## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
 
-## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍3  
+## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍4  
 
 ## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍4  
 * 👍 Jeff Ketchel
 
 ## [HB 1144](/bill/2023-24/hb/1144/) - Firearms/purchase & transfer 👍1  
 
-## [HB 1168](/bill/2023-24/hb/1168/) - Prenatal substance exposure 👍2  
+## [HB 1168](/bill/2023-24/hb/1168/) - Prenatal substance exposure 👍3  
 
 ## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍1  
 
 ## [HB 1178](/bill/2023-24/hb/1178/) - Firearms/local government 👍1  
 
-## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍2  
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍3  
 
 ## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍1  
 
@@ -28,9 +28,11 @@
 
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍3  
 
-## [HB 1240](/bill/2023-24/hb/1240/) - Firearms/assault weapons 👍1  
+## [HB 1240](/bill/2023-24/hb/1240/) - Firearms/assault weapons 👍2  
 
 ## [HB 1251](/bill/2023-24/hb/1251/) - Water system notices 👍3  
+
+## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
 
 ## [HB 1340](/bill/2023-24/hb/1340/) - Health professions/conduct 👍2  
 
@@ -61,5 +63,7 @@
 * 👍 Jeff Ketchel
 
 ## [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍1  
+
+## [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth 👍1  
 
 ## [SB 5629](/bill/2023-24/sb/5629/) - Hepatitis B and C 👍1  

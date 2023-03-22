@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Tue 03/21 01:30 PM - Consumer Protection & Business (CPB): SSB 5171 Consumer products/gender
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31112&aId=153875&caId=22334&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31112&aId=153875&caId=22334&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31112&aId=153875&caId=22334&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31112&aId=153875&caId=22334&tId=4)
-
-#### 130 👍 - Pro
+#### 183 👍 - Pro
 Testifying:
 * 💵Michael Moran - Lake Washington High School/Capitol Classroom
 * Kathy Sakahara - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
@@ -28,8 +22,9 @@ Testifying:
 * Gabrielle Heuer
 * Mahee Nemani - Lake Washington High School
 * Leah White - Washington State Women's Commission
+* Kathy Sakahara - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
-#### 22 👎 - Con
+#### 78 👎 - Con
 Testifying:
 * Eric pratt - I, America
 * ROSE GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)

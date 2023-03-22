@@ -20,7 +20,8 @@
 
 ## [HB 1740](/bill/2023-24/hb/1740/) - Forestry riparian easements 👍1  
 
-## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services  👎1 
+## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1 👎1 
+* 👍 Tom Davis
 
 ## [SB 5247](/bill/2023-24/sb/5247/) - Climate-ready communities 👍1  
 

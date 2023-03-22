@@ -10,15 +10,10 @@
 
 ## Meetings
 ### Tue 03/21 04:00 PM - Ways & Means (WM): 2SHB 1204 Family connections program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154103&caId=22413&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154103&caId=22413&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154103&caId=22413&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31090&aId=154103&caId=22413&tId=4)
-
-#### 29 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * Katie Biron - Amara
+* Kelly Warner-King
 
 #### 0 👎 - Con
 

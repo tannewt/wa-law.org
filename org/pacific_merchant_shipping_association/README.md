@@ -3,5 +3,7 @@
 ## [HB 1839](/bill/2023-24/hb/1839/) - Train length  👎1 
 * 👎💵 Scott Hazlegrove
 
+## [SB 5267](/bill/2023-24/sb/5267/) - Railroad workers  👎1 
+
 ## [SB 5371](/bill/2023-24/sb/5371/) - Orca vessel protection   ❓1
 * ❓💵 Scott Hazlegrove

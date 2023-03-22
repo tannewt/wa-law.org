@@ -15,7 +15,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31036&aId=153451&caId=22294&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31036&aId=153451&caId=22294&tId=4)
 
-#### 5 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* Alex Wilsie - Tacoma Fire Department
 
 #### 0 👎 - Con
 

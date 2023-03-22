@@ -15,11 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31053&aId=153977&caId=22325&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31053&aId=153977&caId=22325&tId=4)
 
-#### 4 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Ryan Holterhoff - Grant PUD
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Larry Shannon - Washington State Association for Justice
 
 ### Mon 02/13 10:30 AM - Law & Justice (LAW): SB 5145 Liability/hydro. projects
 #### 37 👍 - Pro

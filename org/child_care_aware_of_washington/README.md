@@ -12,14 +12,16 @@
 
 ## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍3  
 
-## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍2  
+## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍2  ❓1
+* ❓ Deeann Puffert
 
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍2  
 * 👍💵 Emily Murphy
 
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍1  
 
-## [SB 5316](/bill/2023-24/sb/5316/) - DCYF background check fees 👍2  
+## [SB 5316](/bill/2023-24/sb/5316/) - DCYF background check fees 👍3  
+* 👍💵 Emily Murphy
 * 👍💵 Emily Murphy
 * 👍💵 Emily Murphy
 

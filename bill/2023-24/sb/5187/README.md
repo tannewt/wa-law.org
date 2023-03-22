@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=SB 5187)
+
 ## Meetings
 ### Fri 03/24 02:00 PM - Ways & Means (WM): PSSB 5187: All other. (Remote Testimony Available).
 Sign up to testify:
@@ -14,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154025&caId=22310&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154025&caId=22310&tId=4)
 
-#### 11 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Tonia McClanahan
@@ -27,10 +30,13 @@ Testifying:
 * Mike Tulee - United Indians of All Tribes Foundation/Communities of Concern Commission
 * Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Larry Jefferson - Washington State Office of Public Defense
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Debi Maloney
 
-#### 8 ❓ - Other
+#### 13 ❓ - Other
 Testifying:
 * Jim Bamberger - Office of Civil Legal Aid
 * Kimberly Nyland
@@ -40,6 +46,11 @@ Testifying:
 * 💵Courtney Williams - [Community Employment Alliance](/org/community_employment_alliance/)
 * Carissa Hahn - CWA/WashTech
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Bonnie Stern Wasser - OneAmerica
+* Lynn Urvina - WA State Kinship Oversight Committee
+* Bob Keever
+* Diane (Rusty) Figley - Catholic Community Services- Volunteer Services
+* Hollianne Monson - Catholic Community Services- Volunteer Services
 
 ### Fri 03/24 02:00 PM - Ways & Means (WM): PSSB 5187: Early learning. (Remote Testimony Available).
 Sign up to testify:
@@ -69,7 +80,9 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Alan Burke - WSSRA
 
 ### Fri 03/24 02:00 PM - Ways & Means (WM): PSSB 5187: Higher education. (Remote Testimony Available).
 Sign up to testify:
@@ -82,7 +95,9 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Karen Strickland - American Federation of Teachers (AFT)
 
 ### Fri 03/24 02:00 PM - Ways & Means (WM): PSSB 5187: Human services.  (Remote Testimony Available).
 Sign up to testify:
@@ -91,7 +106,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154023&caId=22308&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154023&caId=22308&tId=4)
 
-#### 18 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Sam Martin - Washington Coalition on Homeless Youth Advocacy
 * Julie Patino - A Way Home Washington
@@ -110,10 +125,11 @@ Testifying:
 * Trisha Matthieu - HEN Director, Catholic Community Services
 * 💵Aaron Yared - [Building Changes](/org/building_changes/)
 * Jennifer Delia-Bereskin - Washington Low Income Housing Alliance & Resident Action Project
+* Susan Foster-Dow - Catholic Charities Eastern Washington
 
 #### 0 👎 - Con
 
-#### 33 ❓ - Other
+#### 43 ❓ - Other
 Testifying:
 * Laurie Lippold - Partners for Our Children
 * Jim Theofelis - NorthStar Advocates
@@ -137,6 +153,7 @@ Testifying:
 * 💵Patricia Hunter - WA State Long Term Care Ombuds
 * Shawn Latham - Allies in Advocacy
 * 💵Christina Wong - Northwest Harvest
+* 💵Sean Graham - Washington State Medical Association
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Elsia Anderson - First Step Family Support
 * Nathan Koch - Children's Home Society of Washington
@@ -146,6 +163,15 @@ Testifying:
 * Heather Cantamessa - Children's Home Society of Washington
 * Jessica Cinollo - XChange
 * Lisa Johnson - Parent 4 Parent
+* Laurie Lippold - Partners for Our Children
+* Peter Shapiro
+* Krista Milhofer - People First of Washington
+* Cathy Knight - WA Association of Area Agencies on Aging
+* Kate White Tudor - Washington Association of Area Agencies on Aging, WA Association for Community Health
+* Joseph Lachman - Asian Counseling and Referral Service
+* Jennyfer Mesa - Latinos en Spokane
+* Fernanda Mazcot - Hispanic Business/Professional Association
+* Lili Navarrete - Raíz of Planned Parenthood of Greater Washington and North Idaho
 
 ### Fri 03/24 02:00 PM - Ways & Means (WM): PSSB 5187: K-12 public schools. (Remote Testimony Available).
 Sign up to testify:
@@ -190,10 +216,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154024&caId=22309&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154024&caId=22309&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * 💵Samantha Bruegger - [Washington Wildlife First](/org/washington_wildlife_first/)
 * Joe Crumbley - Coalition for Organic and Regenerative Agriculture
+* Rudy Salakory - Friends of the Columbia Gorge
 
 #### 0 👎 - Con
 

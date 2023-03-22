@@ -16,7 +16,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31121&aId=153936&caId=22371&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31121&aId=153936&caId=22371&tId=4)
 
-#### 1 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Brett Ferullo - Northwest Construction, Inc.
+* Jerry VanderWood - Associated General Contractors (AGC)
+* 💵Bill Stauffacher - [Northwest Wall and Ceiling Contractors Association](/org/northwest_wall_and_ceiling_contractors_association/)
 
 #### 0 👎 - Con
 

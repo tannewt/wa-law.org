@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 03/21 01:30 PM - State Government & Tribal Relations (SGOV): SB 5000 Americans of Chinese descent
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31108&aId=153856&caId=22394&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31108&aId=153856&caId=22394&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31108&aId=153856&caId=22394&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31108&aId=153856&caId=22394&tId=4)
-
-#### 62 👍 - Pro
+#### 108 👍 - Pro
 Testifying:
 * Vivian Dong
 * 💵Kendall Kosai - Commission on Asian Pacific American Affairs
@@ -40,10 +34,13 @@ Testifying:
 * Linda Yang - WA Asians For Equality
 * Feng Yang
 * Yancen Lu
+* Shengquan Liang
+* Jie Xie
+* Yun, Xie, Jimmy, Ellie, Jie Yun
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 
 ### Tue 01/10 01:30 PM - State Government & Elections (SGE): SB 5000 Americans of Chinese descent
 #### 0 👍 - Pro

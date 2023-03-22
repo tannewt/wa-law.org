@@ -20,7 +20,9 @@ Testifying:
 * Meredith Grigg - Washington State Bar Association Elder Law Section
 * Angela Macey-Cushman - Washington State Bar Association Elder Law Section Executive Committee
 
-#### 1 👎 - Con
+#### 12 👎 - Con
+Testifying:
+* Clayton Peterson
 
 #### 0 ❓ - Other
 

@@ -20,7 +20,8 @@
 * 👍💵 Kirsten Smith
 * 👍💵 Kirsten Smith
 
-## [SB 5396](/bill/2023-24/sb/5396/) - Breast exam cost sharing 👍3  
+## [SB 5396](/bill/2023-24/sb/5396/) - Breast exam cost sharing 👍4  
+* 👍💵 Kirsten Smith
 * 👍💵 Kirsten Smith
 * 👍💵 Kirsten Smith
 * 👍💵 Kirsten Smith

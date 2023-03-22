@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=E2SHB 1143)
 * [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=E2SHB 1143)
 * [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SHB 1143)
 * [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB 1143)
@@ -30,12 +31,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153555&caId=22285&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153555&caId=22285&tId=4)
 
-#### 805 👍 - Pro
+#### 929 👍 - Pro
 Testifying:
 * Gwen Loosmore - Washington State PTA
 * Jeff Ketchel - [Washington State Public Health Association](/org/washington_state_public_health_association/)
 
-#### 2109 👎 - Con
+#### 2511 👎 - Con
 Testifying:
 * Eric pratt - I, America
 * C Davis - Washingtonians to Recall Inslee
@@ -58,6 +59,8 @@ Testifying:
 * BILL ELDRIDGE
 * Kevin Bridges
 * Mike Coleman
+* Amanda McKinney - Yakima County
+* Jodean Lombardi-Scott - Jody Scott Homes LLC/ RE/MAX Elite
 
 #### 4 ❓ - Other
 

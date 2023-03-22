@@ -13,19 +13,20 @@
 
 ## Meetings
 ### Tue 03/21 10:30 AM - Labor & Workplace Standards (LAWS): ESSB 5267 Railroad workers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31120&aId=153930&caId=22367&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31120&aId=153930&caId=22367&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31120&aId=153930&caId=22367&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31120&aId=153930&caId=22367&tId=4)
+#### 74 👍 - Pro
+Testifying:
+* Kimberly Klontz - BLET 238
+* Brent Leonard - SMART-TD
+* 💵Dylan Ekins - [Brotherhood of Locomotive Engineers & Trainmen](/org/brotherhood_of_locomotive_engineers_&_trainmen/)
+* 💵Herb Krohn - SMART Transp. Division/United Transportation Union
+* 💵Mike Elliott - Retired Railroad Engineer & Conductor
 
-#### 52 👍 - Pro
-
-#### 6 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * 💵Johan Hellman - BNSF Railway
 * 💵Aaron Hunt - Union Pacific Railroad
 * Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
+* Sam Macedonio - BNSF
 
 #### 0 ❓ - Other
 

@@ -1,5 +1,8 @@
 # Administrative Office of the Courts
 
+## [HB 1023](/bill/2023-24/hb/1023/) - Wire tap reports/courts 👍1  
+* 👍 Brittany Gregory
+
 ## [HB 1102](/bill/2023-24/hb/1102/) - Judge pro tempore compen. 👍1  
 * 👍 Brittany Gregory
 

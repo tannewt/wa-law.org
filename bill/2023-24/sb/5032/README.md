@@ -11,24 +11,20 @@
 
 ## Meetings
 ### Tue 03/21 04:00 PM - Community Safety, Justice, & Reentry (CSJR): SB 5032 DUI lookback & sentencing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=153739&caId=22331&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=153739&caId=22331&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=153739&caId=22331&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=153739&caId=22331&tId=4)
-
-#### 8 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 * Cody Reiter - Attorney General's Office
 * Barbara Serrano - Office of Governor Jay Inslee
 * Neil Weaver - Washington State Patrol
 * Mark McKechnie - Washington Traffic Safety Commission
+* James McMahan - Washington Association of Sheriffs and Police Chiefs
 * James McMahana - WA Assoc Sheriffs & Police Chiefs
+* Linda Thompson - Washington Association for Substance Misuse and Violence Prevention (WASAVP)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Jason Lantz - Washington Association of Criminal Defense Lawyers and Washington Defender Association
 

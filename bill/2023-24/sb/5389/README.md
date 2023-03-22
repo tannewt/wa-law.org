@@ -15,11 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31060&aId=153662&caId=22354&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31060&aId=153662&caId=22354&tId=4)
 
-#### 177 👍 - Pro
+#### 213 👍 - Pro
 
-#### 80 👎 - Con
+#### 200 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Tue 01/31 08:00 AM - Health & Long Term Care (HLTC): SB 5389 Optometry
 #### 287 👍 - Pro

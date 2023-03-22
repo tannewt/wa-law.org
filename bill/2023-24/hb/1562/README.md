@@ -8,19 +8,14 @@
 * [Substitute Bill](S/)
 
 ## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=SHB 1562)
 * [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=SHB 1562)
 * [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=HB 1562)
 * [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB 1562)
 
 ## Meetings
 ### Tue 03/21 10:30 AM - Law & Justice (LAW): SHB 1562 Violence
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31040&aId=153548&caId=22261&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31040&aId=153548&caId=22261&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31040&aId=153548&caId=22261&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31040&aId=153548&caId=22261&tId=4)
-
-#### 72 👍 - Pro
+#### 152 👍 - Pro
 Testifying:
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 * April Zeoli - University of Michigan, School of Public Health, Institute for Firearm Injury Prevention
@@ -35,11 +30,11 @@ Testifying:
 * Dana Cuomo - Lafayette College
 * Sandra Shanahan - Regional Domestic Violence Firearms Enforcement Unit?
 
-#### 34 👎 - Con
+#### 68 👎 - Con
 Testifying:
 * Dale Johnson
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Lindsay Herendeen - State Board of Health
 

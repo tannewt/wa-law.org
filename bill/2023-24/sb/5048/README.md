@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=2SSB 5048)
 * [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=2SSB 5048)
 * [Washington St Pta](/org/washington_st_pta/) - [Many Bills End Their Journey in 2023 with Fiscal Cutoff - WSPTA](https://www.wastatepta.org/many-bills-end-their-journey-in-2023-with-fiscal-cutoff/#:~:text=2SSB 5048)
 * [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=SB 5048)
@@ -19,13 +20,7 @@
 
 ## Meetings
 ### Tue 03/21 01:30 PM - Postsecondary Education & Workforce (PEW): 2SSB 5048 College in high school fees
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31101&aId=153833&caId=22385&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31101&aId=153833&caId=22385&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31101&aId=153833&caId=22385&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31101&aId=153833&caId=22385&tId=4)
-
-#### 29 👍 - Pro
+#### 62 👍 - Pro
 Testifying:
 * David Buri - Eastern Washington University
 * Steve DuPont - [Central Washington University](/org/central_washington_university/)
@@ -36,12 +31,16 @@ Testifying:
 * Jeff Charbonneau - Zillah High School
 * Amanda Kost - [University of Washington](/org/university_of_washington/)
 * Becky Wallace - Office of Superintendent of Public Instruction
+* Bill Lyne - United Faculty of Washington State
+* Arlen Harris - SBCTC
+* 💵Juliet Schindler - [College Success Foundation](/org/college_success_foundation/)
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Michael Reese - Bellevue College
+* Ph.D., Terri Standish-Kuon - [Independent Colleges of Washington](/org/independent_colleges_of_washington/)
 
 ### Sat 02/18 09:00 AM - Ways & Means (WM): SSB 5048 College in high school fees
 #### 38 👍 - Pro

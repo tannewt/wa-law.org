@@ -12,13 +12,15 @@
 * 👍 justin allegro
 * 👍 Scott Richards
 
-## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍3  
+## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍4  
 * 👍 Joshua Rubenstein
 * 👍 Skippy Shaw
+* 👍 Joshua Rubenstein
 
-## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍4  
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍5  
 * 👍 Jamie Stroble
 * 👍 Skippy Shaw
+* 👍 Jamie Stroble
 * 👍 Jamie Stroble
 * 👍 Jamie Stroble
 

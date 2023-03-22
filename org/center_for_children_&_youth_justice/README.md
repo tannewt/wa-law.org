@@ -6,6 +6,10 @@
 
 ## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍1  
 
+## [HB 1188](/bill/2023-24/hb/1188/) - Child welfare services/DD 👍1  
+
+## [HB 1204](/bill/2023-24/hb/1204/) - Family connections program 👍1  
+
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
 
 ## [HB 1278](/bill/2023-24/hb/1278/) - Nonrelative kin placement 👍2  
@@ -27,3 +31,5 @@
 ## [SB 5124](/bill/2023-24/sb/5124/) - Nonrelative kin placement 👍2  
 
 ## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍1  
+
+## [SB 5316](/bill/2023-24/sb/5316/) - DCYF background check fees 👍1  

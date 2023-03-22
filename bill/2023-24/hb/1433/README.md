@@ -20,13 +20,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153673&caId=22276&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153673&caId=22276&tId=4)
 
-#### 370 👍 - Pro
+#### 438 👍 - Pro
 Testifying:
 * Neal Black - Council member,  City of Kirkland
 * Court Olson - People for Climate Action & others
 * David Godfrey - People for Climate Action
+* robert m wardell - self adovates
 
-#### 0 👎 - Con
+#### 30 👎 - Con
+Testifying:
+* Daimon Doyle - Doyle Construction, LLC
+* Clayton Peterson
 
 #### 0 ❓ - Other
 

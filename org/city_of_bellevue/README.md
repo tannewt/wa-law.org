@@ -64,6 +64,9 @@
 ## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
 * 👍 Lacey Jane Wolfe
 
+## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review   ❓1
+* ❓ Lacey Jane Wolfe
+
 ## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍1  
 
 ## [SB 5418](/bill/2023-24/sb/5418/) - Definition of public work  👎1 

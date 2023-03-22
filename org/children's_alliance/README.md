@@ -33,7 +33,8 @@
 
 ## [HB 1511](/bill/2023-24/hb/1511/) - Income/child care programs 👍2  
 
-## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍2  
+## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍2 👎2 
+* 👎 Dr. Stephan Blanford
 
 ## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍2  
 

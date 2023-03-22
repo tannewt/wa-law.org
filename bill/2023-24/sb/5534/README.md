@@ -8,14 +8,9 @@
 
 ## Meetings
 ### Tue 03/21 01:30 PM - Postsecondary Education & Workforce (PEW): ESB 5534 Workforce investment board
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31101&aId=153832&caId=22384&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31101&aId=153832&caId=22384&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31101&aId=153832&caId=22384&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31101&aId=153832&caId=22384&tId=4)
-
-#### 8 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
+* Jane Broom Davidson - Microsoft & WEI Co-Chair
 * Bill Lyne - United Faculty of Washington State
 
 #### 0 👎 - Con

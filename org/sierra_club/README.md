@@ -12,12 +12,12 @@
 ## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍2  
 * 👍 Robin Everett
 
-## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍4  
+## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍5  
 * 👍 Ruth Sawyer
 * 👍 Ruth Sawyer
 * 👍 Ruth Sawyer
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍4  
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍5  
 * 👍 MIKE O'BRIEN
 
 ## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍1  
@@ -29,8 +29,9 @@
 
 ## [HB 1698](/bill/2023-24/hb/1698/) - Gray wolf management  👎1 
 
-## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1  
+## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1 👎1 
 * 👍 Mariska Kecskes
+* 👎 Mariska Kecskes
 
 ## [SB 5129](/bill/2023-24/sb/5129/) - Nuclear reactor technology  👎1 
 

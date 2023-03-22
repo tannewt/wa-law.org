@@ -43,6 +43,8 @@
 * 👍 Kelly Rider
 * 👍 Sarah Perry
 
+## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍1  
+
 ## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍3  
 
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍2  
@@ -53,7 +55,7 @@
 
 ## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍2  
 
-## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍2  
+## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍3  
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍2  
 
@@ -65,7 +67,8 @@
 
 ## [HB 1199](/bill/2023-24/hb/1199/) - Child care/communities 👍1  
 
-## [HB 1200](/bill/2023-24/hb/1200/) - Employee information/unions 👍1  
+## [HB 1200](/bill/2023-24/hb/1200/) - Employee information/unions 👍2  
+* 👍💵 Michael White
 * 👍💵 Michael White
 
 ## [HB 1215](/bill/2023-24/hb/1215/) - Riparian areas   ❓1
@@ -78,7 +81,7 @@
 
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
 
-## [HB 1240](/bill/2023-24/hb/1240/) - Firearms/assault weapons 👍1  
+## [HB 1240](/bill/2023-24/hb/1240/) - Firearms/assault weapons 👍2  
 
 ## [HB 1241](/bill/2023-24/hb/1241/) - Harassment 👍1  
 
@@ -130,7 +133,7 @@
 
 ## [HB 1387](/bill/2023-24/hb/1387/) - Law enf. applicant pool 👍1  
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍2  
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍3  
 
 ## [HB 1392](/bill/2023-24/hb/1392/) - Electronics repair 👍2  
 
@@ -155,7 +158,7 @@
 
 ## [HB 1432](/bill/2023-24/hb/1432/) - Juvenile justice 👍1  
 
-## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍2  
+## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍3  
 
 ## [HB 1436](/bill/2023-24/hb/1436/) - Special education funding 👍1  
 
@@ -200,7 +203,7 @@
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍2  
 
-## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍2  
+## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍3  
 
 ## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  
 
@@ -258,7 +261,8 @@
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍2  
 
-## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services  👎1 
+## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services  👎2 
+* 👎 Mac Nicholson
 
 ## [HB 1795](/bill/2023-24/hb/1795/) - Estate tax 👍1  
 
@@ -276,7 +280,7 @@
 
 ## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍1  
 
-## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍1  
+## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍2  
 
 ## [SB 5087](/bill/2023-24/sb/5087/) - Defects and omissions 👍2  
 
@@ -288,7 +292,7 @@
 
 ## [SB 5100](/bill/2023-24/sb/5100/) - Breast & chest wall surgery 👍1  
 
-## [SB 5103](/bill/2023-24/sb/5103/) - Medicaid patients/discharge 👍2  
+## [SB 5103](/bill/2023-24/sb/5103/) - Medicaid patients/discharge 👍3  
 
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍3  
 
@@ -322,7 +326,7 @@
 
 ## [SB 5183](/bill/2023-24/sb/5183/) - Personal needs allowance 👍1  
 
-## [SB 5186](/bill/2023-24/sb/5186/) - Contracting/discrimination 👍1  
+## [SB 5186](/bill/2023-24/sb/5186/) - Contracting/discrimination 👍2  
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
 * 👍💵 Michael White
@@ -348,7 +352,7 @@
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍4  
 * 👍 Jessica Tollenaar Cafferty
 
-## [SB 5228](/bill/2023-24/sb/5228/) - Behavioral health OT 👍1  
+## [SB 5228](/bill/2023-24/sb/5228/) - Behavioral health OT 👍2  
 
 ## [SB 5230](/bill/2023-24/sb/5230/) - Extended foster care 👍2  
 
@@ -373,7 +377,7 @@
 ## [SB 5273](/bill/2023-24/sb/5273/) - Employee information/unions 👍2  
 * 👍💵 Michael White
 
-## [SB 5274](/bill/2023-24/sb/5274/) - Public employ. eligibility 👍1  
+## [SB 5274](/bill/2023-24/sb/5274/) - Public employ. eligibility 👍2  
 
 ## [SB 5278](/bill/2023-24/sb/5278/) - Home care aide certification 👍1  
 
@@ -387,6 +391,8 @@
 
 ## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍2  
 * 👍 Magan Cromar
+
+## [SB 5316](/bill/2023-24/sb/5316/) - DCYF background check fees 👍1  
 
 ## [SB 5317](/bill/2023-24/sb/5317/) - RTA vehicle removal 👍1  
 
@@ -461,6 +467,8 @@
 
 ## [SB 5493](/bill/2023-24/sb/5493/) - Financial instit./B&O tax 👍2  
 * 👍💵 Michael White
+
+## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍1  
 
 ## [SB 5501](/bill/2023-24/sb/5501/) - Establishing a public education program to reduce the incidence of stillbirth using a platform for recording and tracking fetal movements. 👍1  
 

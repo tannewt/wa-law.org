@@ -15,13 +15,7 @@
 
 ## Meetings
 ### Tue 03/21 01:30 PM - State Government & Elections (SGE): ESHB 1533 PRA/employee information
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31116&aId=153910&caId=22269&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31116&aId=153910&caId=22269&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31116&aId=153910&caId=22269&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31116&aId=153910&caId=22269&tId=4)
-
-#### 346 👍 - Pro
+#### 427 👍 - Pro
 Testifying:
 * Danielle Plesser - WPEA
 * Juliane Williams - WPEA
@@ -31,8 +25,9 @@ Testifying:
 * Jessica Parker - WFSE
 * 💵Erin Haick - SEIU 925
 * Mike Yestramski - WFSE
+* Shontrana Gates-Wertman - Sexual Violence Law Center
 
-#### 37 👎 - Con
+#### 45 👎 - Con
 Testifying:
 * Rob Curley - The Spokesman-Review newspaper
 * Joe Kunzler - None
@@ -46,8 +41,10 @@ Testifying:
 * 💵Maxford Nelsen - [Freedom Foundation](/org/freedom_foundation/)
 * Jon Bauer - The Daily Herald of Everett
 * Toby Nixon - Washington Coalition for Open Government
+* Robert McClure
+* 💵Rowland Thompson - Allied Daily Newspapers, WA Newspaper Publishers Assn, and WSABroadcasters
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Fri 02/03 08:00 AM - State Government & Tribal Relations (SGOV): HB 1533 PRA/employee information
 #### 33 👍 - Pro

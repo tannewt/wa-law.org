@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Tue 03/21 10:30 AM - Agriculture and Natural Resources (AGNR): SSB 5433 Derelict aquatic structures
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31065&aId=153676&caId=22313&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31065&aId=153676&caId=22313&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31065&aId=153676&caId=22313&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31065&aId=153676&caId=22313&tId=4)
-
-#### 118 👍 - Pro
+#### 138 👍 - Pro
 Testifying:
 * Brian Considine - Washington Department of Natural Resources
 * Timothy Greene - Makah Tribal Council

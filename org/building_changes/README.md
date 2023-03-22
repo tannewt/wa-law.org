@@ -68,7 +68,8 @@
 ## [SB 5581](/bill/2023-24/sb/5581/) - Maternal support services 👍3  
 * 👍💵 Megan Veith
 
-## [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth 👍1  
+## [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth 👍2  
+* 👍💵 Megan Veith
 * 👍💵 Megan Veith
 
 ## [SB 5719](/bill/2023-24/sb/5719/) - Student homelessness group 👍1  

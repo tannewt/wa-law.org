@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Tue 03/21 04:00 PM - Transportation (TRAN): ESHB 1791 Commercial aviation services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31069&aId=153688&caId=22271&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31069&aId=153688&caId=22271&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31069&aId=153688&caId=22271&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31069&aId=153688&caId=22271&tId=4)
-
-#### 91 👍 - Pro
+#### 96 👍 - Pro
 Testifying:
 * JC Harris - SeaTacNoise.Info
 * 💵Davor Gjurasic - [Nisqually Indian Tribe](/org/nisqually_indian_tribe/)
@@ -24,15 +18,21 @@ Testifying:
 * Dawn Sonntag - Stop The Airport
 * Bill Adamson - South Sound Military & Communities Partnership
 * Patricia Byers - Councilmember, City of Yakima
+* Tom Dent - WA State House Representative
 
-#### 7 👎 - Con
+#### 11 👎 - Con
 Testifying:
 * Breck Lebegue - WA Physicians for Social Responsibility
 * Kym Anton - Enumclaw Plateau Community Association
+* Ursula Euler
+* Dylan Orion
+* Mac Nicholson - [King County](/org/king_county/)
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Brian Jarrell
+* Laura Orion
+* 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
 
 ### Thu 02/16 04:00 PM - Transportation (TR): HB 1791 Commercial aviation services
 #### 147 👍 - Pro

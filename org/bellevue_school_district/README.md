@@ -29,7 +29,7 @@
 
 ## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍2  
 
-## [HB 1658](/bill/2023-24/hb/1658/) - Work experience/H.S. credit 👍1  
+## [HB 1658](/bill/2023-24/hb/1658/) - Work experience/H.S. credit 👍2  
 
 ## [HB 1676](/bill/2023-24/hb/1676/) - Special ed. early support 👍1  
 
@@ -37,7 +37,7 @@
 
 ## [HB 1701](/bill/2023-24/hb/1701/) - Institutional ed. programs 👍2  
 
-## [HB 1714](/bill/2023-24/hb/1714/) - Financial literacy grants 👍1  
+## [HB 1714](/bill/2023-24/hb/1714/) - Financial literacy grants 👍2  
 
 ## [HB 1732](/bill/2023-24/hb/1732/) - K-12 inflation adjustments 👍1  
 
@@ -46,6 +46,8 @@
 ## [SB 5054](/bill/2023-24/sb/5054/) - Prof. learning communities 👍1  
 
 ## [SB 5072](/bill/2023-24/sb/5072/) - Highly capable students 👍1  
+
+## [SB 5127](/bill/2023-24/sb/5127/) - Student information/PRA 👍1  
 
 ## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍3  
 

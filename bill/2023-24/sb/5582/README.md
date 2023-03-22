@@ -17,13 +17,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31103&aId=153840&caId=22387&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31103&aId=153840&caId=22387&tId=4)
 
-#### 43 👍 - Pro
+#### 64 👍 - Pro
 Testifying:
 * 💵Lisa Thatcher - Washington State Hospital Association
+* 💵Ashlen Strong - Washington State Hospital Association
+* Anna Nikolaeva Olson - State Board for Community and Technical Colleges
+* Carol O'Neal - Grays Harbor College
+* Timothy Stokes - South Puget Sound Community College
+* Deanna Martinez
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Donald Smith - Workforce Board
 
 ### Sat 02/18 09:00 AM - Ways & Means (WM): SSB 5582 Nurse supply
 #### 39 👍 - Pro

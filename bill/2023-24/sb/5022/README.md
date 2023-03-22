@@ -11,15 +11,13 @@
 
 ## Meetings
 ### Tue 03/21 04:00 PM - Community Safety, Justice, & Reentry (CSJR): ESB 5022 Drug testing equipment
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=154074&caId=22405&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=154074&caId=22405&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=154074&caId=22405&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31085&aId=154074&caId=22405&tId=4)
-
-#### 8 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Bradley Finegood - [King County](/org/king_county/)
+* Representative Tina Orwall
+* Milli Militi Jigamian - Fentanyl United Crisis Coalition
+* Genevieve Schofield
+* Lisa Janicki - Skagit County Commissioner
 
 #### 0 👎 - Con
 
