@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Wed 03/22 01:30 PM - Human Services, Youth, & Early Learning (HSEL): ESSB 5599 Protected health care/youth
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31093&aId=153778&caId=22364&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31093&aId=153778&caId=22364&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31093&aId=153778&caId=22364&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31093&aId=153778&caId=22364&tId=4)
-
-#### 345 👍 - Pro
+#### 507 👍 - Pro
 Testifying:
 * Danni Askini - Gender Justice League
 * Jessica McHegg - Gender Justice League
@@ -33,8 +27,15 @@ Testifying:
 * Jonathan Frochtwajg - Cascade AIDS Project
 * Danni Askini - Gender Justice League
 * Melissa Auclaire
+* Jarel Sanders - Equal Rights WA
+* Lisa Keating - Executive Director, My Purple Umbrella
+* Marguerite Dekker
+* Sangyoon Lee
+* Ray Dechant
+* Nicolle Siegart
+* Jaxtyn Osborn
 
-#### 4640 👎 - Con
+#### 5315 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Gabriel Jacobs
@@ -64,8 +65,15 @@ Testifying:
 * Alex Chrostowski - Gays Against Groomers
 * Sean Swope
 * Sarah Garriott
+* Dawn Seaver
+* Suzanne Rohne
+* Jason Setzer
+* Jeffrey Denison
+* Elizabeth VanSteertegem
+* Leah Anaya - Washington Moms For America
+* Lucky Nicacio
 
-#### 12 ❓ - Other
+#### 18 ❓ - Other
 
 ### Mon 02/06 10:30 AM - Human Services (HS): SB 5599 Protected health care/youth
 #### 60 👍 - Pro

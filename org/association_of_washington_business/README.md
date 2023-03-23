@@ -118,7 +118,7 @@
 ## [HB 1351](/bill/2023-24/hb/1351/) - Minimum parking requirements 👍1  
 * 👍 Mike Ennis
 
-## [HB 1371](/bill/2023-24/hb/1371/) - Freight railroad infra. 👍1  
+## [HB 1371](/bill/2023-24/hb/1371/) - Freight railroad infra. 👍2  
 
 ## [HB 1374](/bill/2023-24/hb/1374/) - Office of career connect WA 👍1  
 
@@ -205,7 +205,7 @@
 
 ## [HB 1561](/bill/2023-24/hb/1561/) - Public utility tax exemption 👍1  
 
-## [HB 1568](/bill/2023-24/hb/1568/) - Long-term care professionals 👍1  
+## [HB 1568](/bill/2023-24/hb/1568/) - Long-term care professionals 👍2  
 
 ## [HB 1572](/bill/2023-24/hb/1572/) - Recovery of taxes/venue 👍1  
 
@@ -231,7 +231,7 @@
 ## [HB 1644](/bill/2023-24/hb/1644/) - Margin tax  👎1 
 * 👎💵 Emily Shay
 
-## [HB 1658](/bill/2023-24/hb/1658/) - Work experience/H.S. credit 👍1  
+## [HB 1658](/bill/2023-24/hb/1658/) - Work experience/H.S. credit 👍2  
 
 ## [HB 1686](/bill/2023-24/hb/1686/) - Salmon recovery 👍1  
 
@@ -250,6 +250,8 @@
 ## [HB 1738](/bill/2023-24/hb/1738/) - Universal comm. services 👍1  
 
 ## [HB 1742](/bill/2023-24/hb/1742/) - Nontax statutes/DOR 👍1  
+
+## [HB 1744](/bill/2023-24/hb/1744/) - Charter school oversight 👍1  
 
 ## [HB 1757](/bill/2023-24/hb/1757/) - Farmers/sales tax remittance 👍1  
 
@@ -429,7 +431,8 @@
 
 ## [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra. 👍1  
 
-## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍2  
+## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍3  
+* 👍💵 Amy Anderson
 * 👍💵 Amy Anderson
 
 ## [SB 5504](/bill/2023-24/sb/5504/) - Open vehicle safety recalls 👍1  

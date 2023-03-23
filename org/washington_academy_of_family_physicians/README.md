@@ -31,4 +31,7 @@
 
 ## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  
 
+## [SB 5629](/bill/2023-24/sb/5629/) - Hepatitis B and C   ❓1
+* ❓ Jonathan Wells
+
 ## [SB 5729](/bill/2023-24/sb/5729/) - Insulin cost-sharing cap 👍2  

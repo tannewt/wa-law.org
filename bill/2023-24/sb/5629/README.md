@@ -14,11 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31060&aId=153663&caId=22355&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31060&aId=153663&caId=22355&tId=4)
 
-#### 4 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Carrie Huie - Commissioner, WA State Commission on Asian American Affairs (CAPAA)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jonathan Wells - [Washington Academy of Family Physicians](/org/washington_academy_of_family_physicians/)
 
 ### Tue 02/07 08:00 AM - Health & Long Term Care (HLTC): SB 5629 Hepatitis B and C
 #### 10 👍 - Pro

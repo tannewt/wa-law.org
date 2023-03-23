@@ -15,16 +15,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31048&aId=153635&caId=22290&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31048&aId=153635&caId=22290&tId=4)
 
-#### 9 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Allison Wood
 * Alicia Payne - Nursing Care Quality Assurance Commission
 * Grant Hulteen - Nursing Care Quality Assurance Commission
 * Helen Myrick - NCQAC
+* Justin Vail
 
-#### 1 👎 - Con
+#### 7 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Jean Sullivan
 

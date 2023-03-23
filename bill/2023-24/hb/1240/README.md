@@ -31,15 +31,36 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153556&caId=22286&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153556&caId=22286&tId=4)
 
-#### 1388 👍 - Pro
+#### 1665 👍 - Pro
 Testifying:
 * Gwen Loosmore
 * Steve Albrecht
 * Tanya Aggar - WSPTA
 * Will McGinty - WA State Attorney General's Office
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* Paula Barnes
+* Barbara Serrano - Office of the Governor
+* Jane Weiss
+* William McGinty - Attorney General's Office
+* Ann-Marie Parsons
+* April Schentrup
+* 💵Margaret Heldring - [Grandmothers Against Gun Violence](/org/grandmothers_against_gun_violence/)
+* Dr. Gwen Loosmore - WA State PTA
+* Dr. Jerrold Eichner - WA Chapter of the American Academy of Pediatrics
+* Emily Cantrell
+* Niko Battle
+* Chetan Soni - Seattle Student Union
+* Justine Stromberg - Moms Demand Action
+* Karyn Brownson - King County Public Health
+* Ian Taylor
+* Diane Studley
+* Leanne Kennedy
+* Judy McGinty
+* Henry Tanz
+* Linda Tanz
+* Jerry Eichner - Washington Chapter of the American Academy of Pediatrics
 
-#### 5142 👎 - Con
+#### 6510 👎 - Con
 Testifying:
 * Jeffrey Slotnick - Setracon Inc.
 * Eric pratt - I, America
@@ -95,12 +116,53 @@ Testifying:
 * Amanda McKinney - Yakima County
 * Richard Olsen - Killer Innovations
 * Jeffrey Watson
+* Yevgen Kozhushko
+* Taylor McDermid
 * Paul Edwards
+* Daniel Martinson
+* Alex Willess
+* Brendan Clement
+* Adam Milewski
+* William Finstad
+* William Parr
+* Josiah Close
+* Austin Harlan - The Range, LLC
+* Knox Williams - American Suppressor Association
+* 💵Michael Findlay - National Shooting Sports Foundation
+* 💵Aoibheann Cline - [National Rifle Association](/org/national_rifle_association_of_america/)
+* Daniel Mitchell - Sporting Systems
+* Don Nguyen
+* Kevin Morris
+* Mitchell Cheney
+* Kenneth Andreason
+* Corey Bunch
+* Tyler Budwey
+* Joseph Maxwell
+* Joseph Kralovic
+* Chelsea Ostrom
+* Justin Ostrom
+* Austin Fitterer
+* Raymond Yates
+* Jonathan Nelson
+* Paul Hacker
+* Chance Wold
+* Jason Harrison
+* Kevin Cucchiara
+* Carlos Allison
+* Dan Hudson
+* Dennis Bohanon
+* Allen Ernst
+* Marcus Carter - Kitsap Rifle & Revolver Club
+* David Ghezzi - No
+* Zachary Bigger
+* Curtis Harris
+* Justin Whitaker
 
-#### 19 ❓ - Other
+#### 20 ❓ - Other
 Testifying:
 * eric cortez
 * Zane Bray - n/a
+* Rhaymond Dela cruz
 
 ### Tue 01/17 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1240 Firearms/assault weapons
 #### 1035 👍 - Pro

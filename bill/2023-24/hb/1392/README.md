@@ -21,13 +21,7 @@
 
 ## Meetings
 ### Wed 03/22 08:00 AM - Environment, Energy & Technology (ENET): E2SHB 1392 Electronics repair
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153669&caId=22272&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153669&caId=22272&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153669&caId=22272&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153669&caId=22272&tId=4)
-
-#### 351 👍 - Pro
+#### 362 👍 - Pro
 Testifying:
 * Heather Lindberg - WSPTA
 * Ashima Sukhdev - Seattle Public Utilities
@@ -41,8 +35,9 @@ Testifying:
 * Nathan Proctor - US PIRG
 * 💵Travis Dutton - 206 10th Ave SE
 * Cindy McMullen - [Central Valley School District](/org/central_valley_school_district/)
+* Laurel Lehman - [Consumer Reports](/org/consumer_reports/)
 
-#### 33 👎 - Con
+#### 39 👎 - Con
 Testifying:
 * 💵Melissa Gombosky - CTIA
 * Amy Bos - NetChoice
@@ -51,6 +46,7 @@ Testifying:
 * Patrick Hedger - Taxpayers Protection Alliance
 * 💵Ashley Sutton - TechNet
 * 💵Melissa Gombosky - CTIA
+* 💵Nora Burnes - TechNet
 * Clayton Peterson
 * Edward Longe - James Madison Institute
 * Charlie Brown - Consumer Technology Association

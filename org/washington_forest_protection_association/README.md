@@ -2,6 +2,8 @@
 
 ## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍1  
 
+## [HB 1018](/bill/2023-24/hb/1018/) - Hog fuel/tax exemption 👍1  
+
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
 * 👍 Tom Davis
 

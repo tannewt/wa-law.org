@@ -10,7 +10,7 @@
 
 ## [SB 5498](/bill/2023-24/sb/5498/) - Nurse student loan repayment 👍1  
 
-## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍1  
+## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍2  
 * 👍 Onora Lien
 
 ## [SB 5537](/bill/2023-24/sb/5537/) - Hospital staffing collab. 👍1  

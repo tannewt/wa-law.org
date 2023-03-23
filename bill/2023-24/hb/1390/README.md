@@ -9,14 +9,27 @@
 * [Second Substitute](S2/)
 
 ## Meetings
-### Wed 03/22 08:00 AM - Environment, Energy & Technology (ENET): 2SHB 1390 District energy systems
+### Fri 03/24 08:00 AM - Environment, Energy & Technology (ENET): 2SHB 1390 District energy systems
 Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153670&caId=22273&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153670&caId=22273&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153670&caId=22273&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153670&caId=22273&tId=4)
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31072&aId=154535&caId=22449&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31072&aId=154535&caId=22449&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31072&aId=154535&caId=22449&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31072&aId=154535&caId=22449&tId=4)
 
-#### 49 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Janette Plunkett - Seattle Chair, Washington Higher Education Sustainability Coalition
+* Ash Awad - McKinstry
+* David Woodson - [University of Washington](/org/university_of_washington/)
+
+#### 0 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* Emily Salzberg - Washington Department of Commerce
+
+### Wed 03/22 08:00 AM - Environment, Energy & Technology (ENET): 2SHB 1390 District energy systems
+#### 55 👍 - Pro
 Testifying:
 * Ash Awad
 * Janette Plunkett - Seattle Chair, Washington Higher Education Sustainability Coalition

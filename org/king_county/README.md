@@ -39,7 +39,7 @@
 * 👍 Pat McLaughlin
 * 👍 Pat McLaughlin
 
-## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍2  
+## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍3  
 * 👍 Kelly Rider
 * 👍 Sarah Perry
 
@@ -87,7 +87,7 @@
 
 ## [HB 1242](/bill/2023-24/hb/1242/) - Behavioral health work group 👍1  
 
-## [HB 1255](/bill/2023-24/hb/1255/) - Health care prof. SUD prg. 👍2  
+## [HB 1255](/bill/2023-24/hb/1255/) - Health care prof. SUD prg. 👍4  
 
 ## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍2  
 
@@ -247,11 +247,13 @@
 
 ## [HB 1723](/bill/2023-24/hb/1723/) - GMA/equity and env. justice 👍1  
 
-## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce 👍2  
+## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce 👍4  
 
 ## [HB 1740](/bill/2023-24/hb/1740/) - Forestry riparian easements 👍2  
 
 ## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍1  
+
+## [HB 1750](/bill/2023-24/hb/1750/) - Water safety education 👍2  
 
 ## [HB 1772](/bill/2023-24/hb/1772/) - Tetrahydrocannabinol & alc. 👍1  
 

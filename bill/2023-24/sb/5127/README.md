@@ -9,15 +9,9 @@
 
 ## Meetings
 ### Wed 03/22 01:30 PM - State Government & Tribal Relations (SGOV): SSB 5127 Student information/PRA
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31109&aId=153868&caId=22399&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31109&aId=153868&caId=22399&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31109&aId=153868&caId=22399&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31109&aId=153868&caId=22399&tId=4)
+#### 32 👍 - Pro
 
-#### 31 👍 - Pro
-
-#### 7 👎 - Con
+#### 14 👎 - Con
 
 #### 0 ❓ - Other
 

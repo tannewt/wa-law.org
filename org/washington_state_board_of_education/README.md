@@ -46,7 +46,7 @@
 
 ## [HB 1504](/bill/2023-24/hb/1504/) - Elementary school recess 👍1  
 
-## [HB 1536](/bill/2023-24/hb/1536/) - H.S. diplomas/withholding 👍1  
+## [HB 1536](/bill/2023-24/hb/1536/) - H.S. diplomas/withholding 👍2  
 
 ## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍2  
 

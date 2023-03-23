@@ -14,18 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153553&caId=22283&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153553&caId=22283&tId=4)
 
-#### 21 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * Kateri Candee - Washington State Patrol
 * Neil Weaver - Washington State Patrol
 
-#### 149 👎 - Con
+#### 336 👎 - Con
 Testifying:
 * Eric pratt - I, America
 * Bruce Harris
 * Dale Johnson
+* Stefan Zelenovic
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 02/01 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1599 Firearm background checks
 #### 8 👍 - Pro

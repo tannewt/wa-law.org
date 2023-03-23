@@ -8,18 +8,15 @@
 
 ## Meetings
 ### Wed 03/22 08:00 AM - Civil Rights & Judiciary (CRJ): SB 5058 Multiunit res. buildings
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31053&aId=153981&caId=22329&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31053&aId=153981&caId=22329&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31053&aId=153981&caId=22329&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31053&aId=153981&caId=22329&tId=4)
-
-#### 37 👍 - Pro
+#### 42 👍 - Pro
 Testifying:
 * Pam Haley - Mayor, City of Spokane Valley
 * 💵Tricia Gullion - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Council member Betsy Wilkerson - [City of Spokane](/org/city_of_spokane/)
 * Spencer Gardner - Planning Director, City of Spokane
+* Jim Frank
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* 💵Bill Clarke - WA REALTORS
 
 #### 2 👎 - Con
 

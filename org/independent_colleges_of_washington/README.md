@@ -21,6 +21,9 @@
 * 👍 Ph.D., Terri Standish-Kuon
 * 👍 Ph.D., Terri Standish-Kuon
 
+## [SB 5582](/bill/2023-24/sb/5582/) - Nurse supply 👍1  
+* 👍 Ph.D., Terri Standish-Kuon
+
 ## [SB 5655](/bill/2023-24/sb/5655/) - WA achievers grant program 👍1  
 * 👍 Ph.D., Terri Standish-Kuon
 

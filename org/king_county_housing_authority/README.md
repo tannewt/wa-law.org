@@ -8,6 +8,8 @@
 
 ## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍1  
 
+## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍1  
+
 ## [HB 1326](/bill/2023-24/hb/1326/) - Utility connection charges 👍2  
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  

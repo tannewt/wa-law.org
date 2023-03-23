@@ -20,13 +20,7 @@
 
 ## Meetings
 ### Wed 03/22 01:30 PM - Early Learning & K-12 Education (EDU): 2SHB 1550 Transition to kindergarten
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31117&aId=153912&caId=22277&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31117&aId=153912&caId=22277&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31117&aId=153912&caId=22277&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31117&aId=153912&caId=22277&tId=4)
-
-#### 168 👍 - Pro
+#### 183 👍 - Pro
 Testifying:
 * William Barnet - Brinnon School District Board Member
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
@@ -34,8 +28,12 @@ Testifying:
 * 💵Allison Krutsinger - Department of Children Youth and Families
 * Jenny Plaja
 * Maddy Thompson - Policy Office of Governor Inslee
+* Rep. Tana Senn - Washington State House of Representatives
+* 💵Melissa Gombosky - Association of Educational Service Districts (AESD)
+* Jerry Pugh - Colfax School District
+* Jim Stoffer - Public School Advocate
 
-#### 171 👎 - Con
+#### 329 👎 - Con
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 * Trish Beathard - Brinnon School District
@@ -51,8 +49,11 @@ Testifying:
 * 💵Katy Warren - WA State Assn of Head Start and ECEAP
 * Susan Fitzpatrick - Pacific Northwest Montessori Association
 * Kimber Burrows - Upriver Discovery School
+* Mary DuPuis - Confederated Tribes of the Chehalis Reservation
+* Megan Juenemann
+* Jerrod Gonzales - Green Lake Preschool
 
-#### 5 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Wade Smith - Walla Walla Public Schools
 * Paul Clark - Colton School District

@@ -4,7 +4,7 @@
 
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍2  
 
-## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍2  
+## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍3  
 
 ## [HB 1489](/bill/2023-24/hb/1489/) - Mt. St. Helens license plate 👍1  
 

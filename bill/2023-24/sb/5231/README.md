@@ -13,17 +13,11 @@
 
 ## Meetings
 ### Wed 03/22 08:00 AM - Civil Rights & Judiciary (CRJ): ESSB 5231 Emergency DV orders
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31053&aId=153978&caId=22326&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31053&aId=153978&caId=22326&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31053&aId=153978&caId=22326&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31053&aId=153978&caId=22326&tId=4)
-
-#### 20 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * 💵Emily Stone - WA State Coalition Against Domestic Violence
 
-#### 7 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * Clayton Peterson
 * Clayton Peterson

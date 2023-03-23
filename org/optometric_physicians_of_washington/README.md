@@ -1,6 +1,6 @@
 # Optometric Physicians of Washington
 
-## [SB 5389](/bill/2023-24/sb/5389/) - Optometry 👍10  
+## [SB 5389](/bill/2023-24/sb/5389/) - Optometry 👍11  
 * 👍 OD, Jeffrey Mattson
 * 👍 OD, Melissa Dacumos
 * 👍 OD, Nicholas Jankowski

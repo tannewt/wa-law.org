@@ -2,14 +2,14 @@
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
 
-## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍1  
+## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍2  
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍3  
 * 👍 Mason Thompson
 
 ## [HB 1296](/bill/2023-24/hb/1296/) - Local permit review 👍1  
 
-## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍1  
+## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍2  
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 

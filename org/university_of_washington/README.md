@@ -31,7 +31,8 @@
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
 
-## [HB 1390](/bill/2023-24/hb/1390/) - District energy systems 👍3  
+## [HB 1390](/bill/2023-24/hb/1390/) - District energy systems 👍4  
+* 👍 David Woodson
 * 👍 David Woodson
 * 👍 David Woodson
 

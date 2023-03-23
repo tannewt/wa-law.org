@@ -20,13 +20,7 @@
 
 ## Meetings
 ### Wed 03/22 08:00 AM - Environment, Energy & Technology (ENET): ESHB 1789 Ecosystem services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153672&caId=22275&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153672&caId=22275&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153672&caId=22275&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153672&caId=22275&tId=4)
-
-#### 52 👍 - Pro
+#### 53 👍 - Pro
 Testifying:
 * 💵John Stuhlmiller - [Washington Public Ports Association](/org/washington_public_ports_association/)
 * Lauren Breynaert - Myno Carbon
@@ -45,7 +39,7 @@ Testifying:
 * Jon Hoekstra - Mountains to Sound Greenway Trust
 * Diane Jones - NW Progressive Institute
 
-#### 398 👎 - Con
+#### 415 👎 - Con
 Testifying:
 * 💵Grace Yuan - Puget Sound School Coalition
 * 💵Grace Yuan - Puget Sound School Coalition

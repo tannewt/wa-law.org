@@ -10,20 +10,14 @@
 
 ## Meetings
 ### Wed 03/22 08:00 AM - Environment, Energy & Technology (ENET): ESHB 1175 Petroleum storage tanks
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=154114&caId=22421&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=154114&caId=22421&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=154114&caId=22421&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=154114&caId=22421&tId=4)
-
-#### 12 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * 💵Greg Hanon - WSPA
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Diana Carlen - [Washington Oil Marketers Association](/org/washington_oil_marketers_association/)
 * Cassandra Garcia - PLIA
 
-#### 49 👎 - Con
+#### 56 👎 - Con
 Testifying:
 * MATTHEW METZ - [Coltura](/org/coltura/)
 * Clayton Peterson

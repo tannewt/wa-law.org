@@ -19,12 +19,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154167&caId=22432&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154167&caId=22432&tId=4)
 
-#### 32 👍 - Pro
+#### 44 👍 - Pro
 Testifying:
 * 💵Jude Ahmed - Urban League of Metropolitan Seattle
 * 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

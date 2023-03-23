@@ -1,6 +1,6 @@
 # Bleeding Disorder Foundation of Washington
 
-## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
+## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍2  
 
 ## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍1  
 
@@ -22,6 +22,8 @@
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍2  
 
 ## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍2  
+
+## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce 👍1  
 
 ## [HB 1745](/bill/2023-24/hb/1745/) - Diversity in clinical trials 👍3  
 

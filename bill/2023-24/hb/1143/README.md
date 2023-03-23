@@ -31,12 +31,34 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153555&caId=22285&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153555&caId=22285&tId=4)
 
-#### 929 👍 - Pro
+#### 1617 👍 - Pro
 Testifying:
 * Gwen Loosmore - Washington State PTA
 * Jeff Ketchel - [Washington State Public Health Association](/org/washington_state_public_health_association/)
+* Barbara Serrano - Office of the Governor
+* Donnitta Sinclair
+* Karyn Brownson - King County Public Health
+* Carol Mitchell - Institute for Black Justice
+* Erika Bartlett - Tacoma-Pierce County Health Department
+* 💵Krystal Lopilato - Everytown
+* Ian Taylor
+* Paula Barnes
+* Barbara Culp - Moms Demand Action
+* Jennifer Dolan Waldman - [Grandmothers Against Gun Violence](/org/grandmothers_against_gun_violence/)
+* Judy Wallace
+* Diane Studley
+* Ashley Brooks - Yelm City Council
+* Dr. Gwen Loosmore - WA State PTA
+* Liz Hjelmseth
+* Leanne Kennedy
+* Judy McGinty
+* Henry Tanz
+* Linda Tanz
+* Julie Suter
+* Aslyn Diaz
+* Shaquita Bell - on Behalf of Seattle Children's Hospital
 
-#### 2511 👎 - Con
+#### 3504 👎 - Con
 Testifying:
 * Eric pratt - I, America
 * C Davis - Washingtonians to Recall Inslee
@@ -61,6 +83,14 @@ Testifying:
 * Mike Coleman
 * Amanda McKinney - Yakima County
 * Jodean Lombardi-Scott - Jody Scott Homes LLC/ RE/MAX Elite
+* 💵Aoibheann Cline - [National Rifle Association](/org/national_rifle_association_of_america/)
+* Brian Colclough - Black Gun Owners of America
+* Aaron Lee
+* Cory Malon
+* Hiedi Lee - Minuteman Ammunition
+* Tyler Budwey
+* Aaron Lee
+* Thomas Grigsby
 
 #### 4 ❓ - Other
 

@@ -13,7 +13,7 @@
 
 ## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍2  
 
-## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍3  
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍7  
 
 ## [HB 1215](/bill/2023-24/hb/1215/) - Riparian areas 👍1  
 * 👍💵 Darcy Nonemacher

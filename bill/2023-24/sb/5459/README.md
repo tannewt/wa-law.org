@@ -8,17 +8,11 @@
 
 ## Meetings
 ### Wed 03/22 01:30 PM - State Government & Tribal Relations (SGOV): SB 5459 Election info. requests
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31109&aId=153869&caId=22400&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31109&aId=153869&caId=22400&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31109&aId=153869&caId=22400&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31109&aId=153869&caId=22400&tId=4)
-
-#### 21 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Lori Larsen - Washington State Association of County Auditors
 
-#### 248 👎 - Con
+#### 414 👎 - Con
 Testifying:
 * Tamborine Borrelli - WEiCU
 * Cody Hart
@@ -187,6 +181,122 @@ Testifying:
 * Michelle Dury
 * Brenda Milewski
 * randy tendering
+* Sacha O’Hara
+* Debbie Stevenson
+* Brandy Badger - 1833 264th Ave NE
+* Donna Hagar
+* Craig Fletcher
+* Dmytro Klymentovych
+* Andrea Patterson
+* Mark Galbraith
+* Wes Discher
+* Vickie Bouffiou
+* Lauren Gage
+* Lynne Larson
+* Victoria Wittman
+* Kristen Bridgan-Brown
+* Rachelle Knight
+* Bea Christophersen
+* Cheri Snowhite
+* Shannon Carlile
+* Allen Acosta
+* D Jordan
+* Kathryn Figuracion
+* Peggy Nixon
+* Vivian Malits
+* Jennifer Carter
+* Tena Storgaard
+* Karen Van Klinken
+* Barbara Myers
+* Jennifer Healy
+* Molly Williams
+* Karen Ingalls
+* Amber King
+* Randall Vanadisson
+* Annette Blandino - Norden PCO 39th LD
+* Matthew Myers
+* Melinda Colby
+* Shannon Thompson
+* Michal James
+* Martin Barrett
+* Kyle Carter
+* Catherine Martin
+* Carol Crosby
+* Adriana Silvis
+* Amy Strickland
+* Robert Carmody
+* Shannon Faulkner
+* Bradley Freden
+* Ashley Walker
+* Matthew O’Hara
+* Carl Bouffiou
+* Terry Carter
+* Ron Morlan
+* Pam Watson
+* Tamara Richardson
+* Pam Martin
+* Samuel Warren
+* Gilbert Garberg
+* June Summerville
+* Ross Merritt
+* Jeff Hastings
+* lenny leen
+* Sara Starwalt
+* Lori Kuzminsky
+* Jason Johns
+* Michael Smith - Retired
+* Gloria Bradbury
+* Micah Hill
+* Patrick Schleiger
+* Leslie Linderoth
+* Andrwa Caldwell
+* John Zyrkowski
+* Mark Pampe
+* Robbie Pampe
+* Corri Rathbone
+* Jodi Archibald
+* Katrina Millikin
+* Katharina Rondeau
+* Bruce Miller
+* Mary Taylor
+* Michele Stephens
+* Amanda O'Brien
+* Steve Fisher
+* Jeffrey Jewell
+* John Olsen
+* Christina Berg
+* ALEXANDRA SCHMIDT - Alexandra Schmidt
+* Jessica McAllister
+* Christina Callahan
+* Grant Harris
+* Alex Myrick
+* larry cormick
+* Lurene Muckley
+* Michael Fischer
+* Lacey Walter
+* Rebecca Allen
+* Jan Haughton
+* Robin Craven
+* Samuel Stol
+* Myra Ashcroft
+* Lori Paladeni
+* Troy Cain
+* Ross Merritt
+* Chandra Nicolich
+* Karlie Fischer
+* Karlie Fischer
+* Cheryl Isley
+* Brittney Hjelseth
+* Karri Norberg
+* Jay Cain
+* Anne OBrien
+* Kristin Kalalau
+* Brenda Ryon
+* Melanie Hoff
+* Angela Bischoff
+* Gwendolyn Fullerton
+* Patsy Draisey
+* Michael Rutledge
 
 #### 1 ❓ - Other
 Testifying:

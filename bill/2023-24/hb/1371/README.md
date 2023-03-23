@@ -16,11 +16,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31088&aId=154156&caId=22422&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31088&aId=154156&caId=22422&tId=4)
 
-#### 39 👍 - Pro
+#### 48 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 * Ross Lane - [Puget Sound & Pacific Railroad](/org/puget_sound_&_pacific_railroad/)
 * 💵Amber Carter - [Portland Vancouver Junction Railroad](/org/portland_vancouver_junction_railroad/)
+* Justin Bentaas - Mickelson and Company
 
 #### 0 👎 - Con
 

@@ -20,12 +20,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31057&aId=154183&caId=22440&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31057&aId=154183&caId=22440&tId=4)
 
-#### 66 👍 - Pro
+#### 105 👍 - Pro
 Testifying:
 * Carol Sullivan - League of Women Voters of WA
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* 💵Alex Tischenko - Center for Secure & Modern Elections
 
-#### 7 👎 - Con
+#### 195 👎 - Con
+Testifying:
+* JEANNE BARNUM
 
 #### 0 ❓ - Other
 

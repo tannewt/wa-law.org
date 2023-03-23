@@ -24,15 +24,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154165&caId=22430&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154165&caId=22430&tId=4)
 
-#### 308 👍 - Pro
+#### 1029 👍 - Pro
 Testifying:
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
 * Jamie Stroble - [The Nature Conservancy](/org/the_nature_conservancy/)
 * Wes Stewart - Sierra Club Washington
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 3 👎 - Con
+#### 10 👎 - Con
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Tue 03/14 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): E2SHB 1181 Climate change/planning
 #### 1043 👍 - Pro

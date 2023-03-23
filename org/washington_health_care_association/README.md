@@ -4,6 +4,9 @@
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases   ❓1
 
+## [HB 1431](/bill/2023-24/hb/1431/) - Senior living meals/tax 👍1  
+* 👍 Roman Daniels-Brown
+
 ## [HB 1547](/bill/2023-24/hb/1547/) - Out-of-state health prov. 👍1  
 
 ## [HB 1694](/bill/2023-24/hb/1694/) - Home care workforce shortage 👍2  

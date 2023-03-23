@@ -16,7 +16,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154168&caId=22433&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154168&caId=22433&tId=4)
 
-#### 6 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * 💵Jaime Bodden - WSALPHO
 

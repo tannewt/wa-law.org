@@ -1,6 +1,6 @@
 # Association of Washington Housing Authorities
 
-## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍1  
+## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍2  
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
 * 👍 Nicholas Carr

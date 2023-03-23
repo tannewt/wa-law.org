@@ -22,6 +22,7 @@
 * [The Urbanist](/org/the_urbanist/) - [Liias and Reed Introduce Bill Requiring Midrise Zoning Near Rapid Transit | The Urbanist](https://www.theurbanist.org/2023/01/25/liias-and-reed-introduce-bill-requiring-midrise-zoning-near-rapid-transit/#:~:text=5466)
 * [Crosscut](/org/crosscut/) - [WA looks to address housing shortage with density, zoning changes | Crosscut](https://crosscut.com/politics/2023/03/wa-looks-address-housing-shortage-density-zoning-changes#:~:text=Senate Bill 5466)
 * [Crosscut](/org/crosscut/) - [WA looks to address housing shortage with density, zoning changes | Crosscut](https://crosscut.com/politics/2023/03/washington-has-shot-passing-massive-housing-reform-package#:~:text=Senate Bill 5466)
+* [KING5](/org/king5/) - [Bill aims to promote ‘transit-oriented’ housing in Washington | king5.com](https://www.king5.com/article/news/local/bill-promote-transit-oriented-housing-washington/281-70d4c5b8-9e8f-47fa-944a-96ff4678e955#:~:text=House Bill 5466)
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 10 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate031323#:~:text=S.B. 5466)
 
 ## Meetings

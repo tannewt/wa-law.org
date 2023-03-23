@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Wed 03/22 08:00 AM - Local Government (LG): SSB 5714 Property tax payments
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31074&aId=153713&caId=22380&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31074&aId=153713&caId=22380&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31074&aId=153713&caId=22380&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31074&aId=153713&caId=22380&tId=4)
-
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * 💵Jennifer Wallace - Washington State Association of County Treasurers
 

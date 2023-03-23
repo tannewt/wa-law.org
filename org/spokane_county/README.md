@@ -8,6 +8,8 @@
 
 ## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting 👍1  
 
+## [HB 1318](/bill/2023-24/hb/1318/) - Aircraft maintenance/tax 👍1  
+
 ## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits 👍1  
 
 ## [HB 1515](/bill/2023-24/hb/1515/) - Behavioral health contracts 👍1  

@@ -16,7 +16,8 @@
 
 ## [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍1  
 
-## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍2  
+## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍3  
+* 👍 Lisa Herbold
 
 ## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍2  
 
@@ -40,7 +41,7 @@
 * 👍 Monisha Harrell
 * 👍 Monisha Harrell
 
-## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍2  
 
 ## [HB 1195](/bill/2023-24/hb/1195/) - Weapons/parks & hospitals 👍1  
 
@@ -50,11 +51,13 @@
 
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍3  
 
-## [HB 1240](/bill/2023-24/hb/1240/) - Firearms/assault weapons 👍1  
+## [HB 1240](/bill/2023-24/hb/1240/) - Firearms/assault weapons 👍2  
 
 ## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting   ❓1
 
 ## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍1  
+
+## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍1  
 
 ## [HB 1286](/bill/2023-24/hb/1286/) - Reprod. health/employers 👍1  
 
@@ -75,6 +78,8 @@
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍2  
+
+## [HB 1390](/bill/2023-24/hb/1390/) - District energy systems 👍1  
 
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings   ❓1
 
@@ -101,6 +106,8 @@
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
 
 ## [HB 1674](/bill/2023-24/hb/1674/) - Roadway users/trucks & SUVs 👍1  
+
+## [HB 1750](/bill/2023-24/hb/1750/) - Water safety education 👍1  
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍2  
 

@@ -11,6 +11,19 @@
 * [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Our legislative priorities for 2023 | ACLU of Washington](http://www.aclu-wa.org/pages/2023-legislative-agenda#:~:text=HB 1324)
 
 ## Meetings
+### Mon 03/27 10:30 AM - Law & Justice (LAW): EHB 1324 Prior juvenile offenses
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31042&aId=153561&caId=22461&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31042&aId=153561&caId=22461&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31042&aId=153561&caId=22461&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31042&aId=153561&caId=22461&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/23 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1324 Prior juvenile offenses
 #### 329 👍 - Pro
 Testifying:

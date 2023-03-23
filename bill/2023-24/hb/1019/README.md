@@ -20,10 +20,11 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Brandon Houskeeper - [Western Wood Preservers Institute](/org/western_wood_preservers_institute/)
 * 💵Brent Ludeman - Household & Commercial Products Association
+* Kelly McLain - Washington State Department of Agriculture
 
 ### Fri 01/13 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1019 Pesticide advisory board
 #### 0 👍 - Pro

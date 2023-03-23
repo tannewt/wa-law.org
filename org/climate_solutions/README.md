@@ -35,7 +35,8 @@
 
 ## [HB 1390](/bill/2023-24/hb/1390/) - District energy systems 👍3  
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍4  
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍5  
+* 👍 Megan Larkin
 * 👍 Megan Larkin
 
 ## [HB 1416](/bill/2023-24/hb/1416/) - Consumer-owned utilities 👍2  

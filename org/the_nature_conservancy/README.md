@@ -56,6 +56,8 @@
 ## [HB 1728](/bill/2023-24/hb/1728/) - Statewide resiliency program 👍2  
 * 👍 Skippy Shaw
 
+## [HB 1753](/bill/2023-24/hb/1753/) - Derelict vessel notices 👍1  
+
 ## [HB 1767](/bill/2023-24/hb/1767/) - Federal funding opps. 👍1  
 * 👍 Skippy Shaw
 

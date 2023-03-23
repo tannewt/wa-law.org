@@ -36,6 +36,8 @@
 
 ## [HB 1340](/bill/2023-24/hb/1340/) - Health professions/conduct 👍2  
 
+## [HB 1452](/bill/2023-24/hb/1452/) - Medical reserve corps 👍1  
+
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍2  
 
 ## [HB 1497](/bill/2023-24/hb/1497/) - Vapor and tobacco/minors 👍2  

@@ -15,9 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31060&aId=153662&caId=22354&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31060&aId=153662&caId=22354&tId=4)
 
-#### 213 👍 - Pro
+#### 273 👍 - Pro
+Testifying:
+* Jeanine Stolp
 
-#### 200 👎 - Con
+#### 262 👎 - Con
 
 #### 2 ❓ - Other
 

@@ -9,14 +9,28 @@
 * [Second Substitute](S2/)
 
 ## Meetings
-### Wed 03/22 08:00 AM - Environment, Energy & Technology (ENET): 2SHB 1391 Energy in buildings
+### Fri 03/24 08:00 AM - Environment, Energy & Technology (ENET): 2SHB 1391 Energy in buildings
 Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153671&caId=22274&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153671&caId=22274&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153671&caId=22274&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153671&caId=22274&tId=4)
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31072&aId=154534&caId=22448&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31072&aId=154534&caId=22448&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31072&aId=154534&caId=22448&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31072&aId=154534&caId=22448&tId=4)
 
-#### 609 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Rachel Koller - Shift Zero
+* Megan Larkin - [Climate Solutions](/org/climate_solutions/)
+* Emily Kubiak - Sustainable Connections
+* Tony Usibelll
+
+#### 0 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* Liz Reichart - WA Department of Commerce
+
+### Wed 03/22 08:00 AM - Environment, Energy & Technology (ENET): 2SHB 1391 Energy in buildings
+#### 618 👍 - Pro
 Testifying:
 * Tony Usibelli
 * Deputy Mayor Kristina Walker - [City of Tacoma](/org/city_of_tacoma/)
@@ -26,15 +40,17 @@ Testifying:
 * Rachel Koller - Shift Zero
 * Emily Kubiak - Sustainable Connections
 
-#### 29 👎 - Con
+#### 39 👎 - Con
 Testifying:
 * Clayton Peterson
+* 💵Dan Kirschner - [Northwest Gas Association](/org/northwest_gas_association/)
 
-#### 3 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Liz Reichart - Washington Department of Commerce
 * Liz Reichart - Washington Department of Commerce
 * 💵John Rothlin - Avista
+* 💵Kathleen Collins - PacifiCorp
 
 ### Tue 02/21 01:30 PM - Appropriations (APP): SHB 1391 Energy in buildings
 #### 114 👍 - Pro

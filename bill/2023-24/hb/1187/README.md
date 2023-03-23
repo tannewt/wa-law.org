@@ -16,17 +16,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153645&caId=22287&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153645&caId=22287&tId=4)
 
-#### 164 👍 - Pro
+#### 179 👍 - Pro
 Testifying:
 * Cory Taylor - SEIU 925
+* Cory Taylor - SEIU 925
+* 💵Samantha Grad - Teamsters 117
+* 💵Erin Haick - SEIU 925
+* Kathy Barnard - Barnard Iglitzin & Lavitt LLP
 
-#### 8 👎 - Con
+#### 12 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Bob Battles - Association of Washington Business (AWB)
 * Seth Berntsen - [Washington Defense Trial Lawyers](/org/washington_defense_trial_lawyers/)
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

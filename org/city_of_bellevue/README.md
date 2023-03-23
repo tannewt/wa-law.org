@@ -21,6 +21,8 @@
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
 
+## [HB 1187](/bill/2023-24/hb/1187/) - Employee-union privilege   ❓1
+
 ## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting  👎1 
 * 👎 Lacey Jane Wolfe
 

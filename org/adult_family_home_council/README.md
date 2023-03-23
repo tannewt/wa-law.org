@@ -7,7 +7,8 @@
 * 👍💵 John Ficker
 * 👍💵 John Ficker
 
-## [HB 1568](/bill/2023-24/hb/1568/) - Long-term care professionals 👍2  
+## [HB 1568](/bill/2023-24/hb/1568/) - Long-term care professionals 👍3  
+* 👍💵 John Ficker
 * 👍💵 John Ficker
 
 ## [HB 1694](/bill/2023-24/hb/1694/) - Home care workforce shortage 👍4  

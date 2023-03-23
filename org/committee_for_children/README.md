@@ -2,6 +2,9 @@
 
 ## [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎1 
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
+* ❓💵 Melanie Smith
+
 ## [HB 1168](/bill/2023-24/hb/1168/) - Prenatal substance exposure 👍1  
 
 ## [HB 1207](/bill/2023-24/hb/1207/) - Harassment/schools 👍1  

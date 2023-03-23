@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Wed 03/22 08:00 AM - Labor & Workplace Standards (LAWS): ESSB 5528 Construction retainage
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31121&aId=153936&caId=22371&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31121&aId=153936&caId=22371&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31121&aId=153936&caId=22371&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31121&aId=153936&caId=22371&tId=4)
-
-#### 6 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Brett Ferullo - Northwest Construction, Inc.
 * Jerry VanderWood - Associated General Contractors (AGC)

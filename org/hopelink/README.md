@@ -6,7 +6,7 @@
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
-## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍2  
+## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍3  
 
 ## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍2  
 
@@ -22,7 +22,7 @@
 
 ## [HB 1428](/bill/2023-24/hb/1428/) - Pedestrians/roadways 👍1  
 
-## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍3  
+## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍4  
 * 👍 Donna O'Connor
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍3  
@@ -48,6 +48,8 @@
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
 
 ## [HB 1693](/bill/2023-24/hb/1693/) - Student homelessness pilot 👍1  
+
+## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce 👍1  
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍2  
 

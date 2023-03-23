@@ -68,6 +68,9 @@
 
 ## [HB 1137](/bill/2023-24/hb/1137/) - Return-to-work opportunities  👎1 
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
+* ❓💵 Larry Delaney
+
 ## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍3  
 
 ## [HB 1144](/bill/2023-24/hb/1144/) - Firearms/purchase & transfer 👍1  

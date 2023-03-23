@@ -46,11 +46,15 @@
 
 ## [HB 1504](/bill/2023-24/hb/1504/) - Elementary school recess   ❓1
 
+## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍1  
+
 ## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍3  
 * 👍💵 Roz Thompson
 * 👍💵 Roz Thompson
 
 ## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍1  
+
+## [HB 1658](/bill/2023-24/hb/1658/) - Work experience/H.S. credit 👍1  
 
 ## [HB 1732](/bill/2023-24/hb/1732/) - K-12 inflation adjustments 👍1  
 

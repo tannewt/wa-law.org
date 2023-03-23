@@ -195,6 +195,8 @@
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 * ❓💵 Candice Bock
 
+## [SB 5058](/bill/2023-24/sb/5058/) - Multiunit res. buildings 👍1  
+
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎2 
 * 👎💵 Candice Bock
 * 👎💵 Candice Bock

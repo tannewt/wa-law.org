@@ -10,21 +10,16 @@
 
 ## Meetings
 ### Wed 03/22 08:00 AM - Labor & Workplace Standards (LAWS): ESSB 5320 Journey level electricians
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31121&aId=153935&caId=22370&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31121&aId=153935&caId=22370&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31121&aId=153935&caId=22370&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31121&aId=153935&caId=22370&tId=4)
-
-#### 55 👍 - Pro
+#### 69 👍 - Pro
 Testifying:
 * Zach Snyder - IBEW Local 46
 * 💵Sophia Steele - Associated Builders and Contractors
 * 💵Nicole Grant - IBEW Local 46
 * Halene Sigmund - Construction Industry Training Council of WA
 * 💵Carolyn Logue - Associated Builders & Contractors - Inland Pacific Chapter
+* 💵Christine Reid - IBEW LU 77
 
-#### 12 👎 - Con
+#### 15 👎 - Con
 Testifying:
 * Clayton Peterson
 

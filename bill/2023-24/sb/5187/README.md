@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154025&caId=22310&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154025&caId=22310&tId=4)
 
-#### 12 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Tonia McClanahan
@@ -32,11 +32,11 @@ Testifying:
 * Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * Larry Jefferson - Washington State Office of Public Defense
 
-#### 3 👎 - Con
+#### 53 👎 - Con
 Testifying:
 * Debi Maloney
 
-#### 13 ❓ - Other
+#### 16 ❓ - Other
 Testifying:
 * Jim Bamberger - Office of Civil Legal Aid
 * Kimberly Nyland
@@ -51,6 +51,8 @@ Testifying:
 * Bob Keever
 * Diane (Rusty) Figley - Catholic Community Services- Volunteer Services
 * Hollianne Monson - Catholic Community Services- Volunteer Services
+* 💵Carolyn Brotherton - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* Mike Pellicciotti - Washington State Treasurer
 
 ### Fri 03/24 02:00 PM - Ways & Means (WM): PSSB 5187: Early learning. (Remote Testimony Available).
 Sign up to testify:
@@ -95,9 +97,11 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Karen Strickland - American Federation of Teachers (AFT)
+* Kim Retherford - Huus Construct
+* Courtenay Gebhardt - Blue Sound Construction
 
 ### Fri 03/24 02:00 PM - Ways & Means (WM): PSSB 5187: Human services.  (Remote Testimony Available).
 Sign up to testify:
@@ -106,7 +110,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154023&caId=22308&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154023&caId=22308&tId=4)
 
-#### 19 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Sam Martin - Washington Coalition on Homeless Youth Advocacy
 * Julie Patino - A Way Home Washington
@@ -126,10 +130,11 @@ Testifying:
 * 💵Aaron Yared - [Building Changes](/org/building_changes/)
 * Jennifer Delia-Bereskin - Washington Low Income Housing Alliance & Resident Action Project
 * Susan Foster-Dow - Catholic Charities Eastern Washington
+* Linda Long
 
 #### 0 👎 - Con
 
-#### 43 ❓ - Other
+#### 47 ❓ - Other
 Testifying:
 * Laurie Lippold - Partners for Our Children
 * Jim Theofelis - NorthStar Advocates
@@ -172,6 +177,10 @@ Testifying:
 * Jennyfer Mesa - Latinos en Spokane
 * Fernanda Mazcot - Hispanic Business/Professional Association
 * Lili Navarrete - Raíz of Planned Parenthood of Greater Washington and North Idaho
+* Lonnie Johns-Brown - Health Care For All
+* Kathleen Knutson - CCS
+* Sara Robbins - Seattle / King County Coalition on Homelessness
+* Laura Dow - Kinship Navigator Program
 
 ### Fri 03/24 02:00 PM - Ways & Means (WM): PSSB 5187: K-12 public schools. (Remote Testimony Available).
 Sign up to testify:
@@ -180,11 +189,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154018&caId=22303&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154018&caId=22303&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Chase Buffington - Washington Outdoor School Coalition
 
 #### 0 👎 - Con
 
-#### 6 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
@@ -192,6 +203,8 @@ Testifying:
 * 💵Kia Franklin - Stand for Children Washington
 * Henterson Carlisle - Center for High School Success
 * 💵Melanie Smith - [Committee for Children](/org/committee_for_children/)
+* Sara Seelmeyer - United Way of King County
+* Logan Endres - Washington State School Directors' Association (WSSDA)
 
 ### Fri 03/24 02:00 PM - Ways & Means (WM): PSSB 5187: Mental health. (Remote Testimony Available).
 Sign up to testify:

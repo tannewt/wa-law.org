@@ -20,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153554&caId=22284&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153554&caId=22284&tId=4)
 
-#### 50 👍 - Pro
+#### 59 👍 - Pro
 Testifying:
 * eric pratt - America
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
@@ -41,13 +41,18 @@ Testifying:
 * Edgar Calixto - Green Hill School's Capitol Classroom
 * Guillermo Padilla - Green Hill School's Capitol Classroom
 * Ronald Ackerson Jr - Green Hill School's Capitol Classroom
+* John Bean
+* Caya Lenay
+* Toni Kelly-king - Impacted family member
 
-#### 119 👎 - Con
+#### 175 👎 - Con
 Testifying:
 * Jeffrey Slotnick
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Jon Tunheim - Thurston County Prosecutor/WA Assoc of Prosecuting Attorneys
 
 ### Mon 01/23 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1268 Sentencing enhancements
 #### 103 👍 - Pro

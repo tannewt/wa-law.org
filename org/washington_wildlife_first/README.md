@@ -1,5 +1,8 @@
 # Washington Wildlife First
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
+* ❓💵 Samantha Bruegger
+
 ## [HB 1153](/bill/2023-24/hb/1153/) - Octopus farming 👍2  
 
 ## [HB 1699](/bill/2023-24/hb/1699/) - Fish & wildlife salaries 👍1  

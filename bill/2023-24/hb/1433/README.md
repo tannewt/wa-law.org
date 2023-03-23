@@ -13,26 +13,36 @@
 * [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Environmental Stewardship — Quaker Voice](https://www.quakervoicewa.org/environmental-stewardship/#:~:text=HB 1433)
 
 ## Meetings
-### Wed 03/22 08:00 AM - Environment, Energy & Technology (ENET): 2SHB 1433 Energy labeling/residential
+### Fri 03/24 08:00 AM - Environment, Energy & Technology (ENET): 2SHB 1433 Energy labeling/residential
 Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153673&caId=22276&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153673&caId=22276&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153673&caId=22276&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31064&aId=153673&caId=22276&tId=4)
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31072&aId=154533&caId=22447&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31072&aId=154533&caId=22447&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31072&aId=154533&caId=22447&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31072&aId=154533&caId=22447&tId=4)
 
-#### 438 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Court Olson - Shift Zero and also People for Climate Action
+* David Godfrey - People for Climate Action
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Wed 03/22 08:00 AM - Environment, Energy & Technology (ENET): 2SHB 1433 Energy labeling/residential
+#### 442 👍 - Pro
 Testifying:
 * Neal Black - Council member,  City of Kirkland
 * Court Olson - People for Climate Action & others
 * David Godfrey - People for Climate Action
 * robert m wardell - self adovates
 
-#### 30 👎 - Con
+#### 37 👎 - Con
 Testifying:
 * Daimon Doyle - Doyle Construction, LLC
 * Clayton Peterson
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 02/13 04:00 PM - Appropriations (APP): SHB 1433 Energy labeling/residential
 #### 317 👍 - Pro

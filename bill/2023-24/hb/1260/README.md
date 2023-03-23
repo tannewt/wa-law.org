@@ -20,13 +20,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154166&caId=22431&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154166&caId=22431&tId=4)
 
-#### 50 👍 - Pro
+#### 113 👍 - Pro
 Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
+* Huy Nguyen - Benefits Law Center
+* Eric Penar - Penar Law
+* Anmarie Aylward - Department of Social and Health Services, Economic Services Administration
+* Babs Roberts - Department of Social and Health Services, Economic Services Administration
+* 💵Melanie Smith - Seattle / King County Coalition on Homelessness
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 03/09 08:00 AM - Human Services (HS): ESHB 1260 Work-limiting disability
 #### 358 👍 - Pro

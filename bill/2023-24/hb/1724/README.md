@@ -20,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31048&aId=153636&caId=22291&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31048&aId=153636&caId=22291&tId=4)
 
-#### 21 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * Jeremy Arp - National Association of Social Workers - Washington Chapter
 * Dominique Avery - [Washington Mental Health Counselors Association](/org/washington_mental_health_counselors_association/)

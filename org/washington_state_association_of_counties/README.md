@@ -25,7 +25,8 @@
 
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
 
-## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning   ❓2
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning   ❓3
+* ❓💵 Paul Jewell
 * ❓💵 Paul Jewell
 * ❓💵 Paul Jewell
 

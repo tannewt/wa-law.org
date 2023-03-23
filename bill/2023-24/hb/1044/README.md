@@ -21,10 +21,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31119&aId=153923&caId=22295&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31119&aId=153923&caId=22295&tId=4)
 
-#### 5 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Jim Kowalkowski - Rural Education Center
+* Jim Stoffer - Public School Advocate
+* Logan Endres - Washington State School Directors' Association (WSSDA)
 
 #### 0 👎 - Con
 
