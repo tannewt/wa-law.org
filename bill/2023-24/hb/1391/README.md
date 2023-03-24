@@ -16,18 +16,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31072&aId=154534&caId=22448&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31072&aId=154534&caId=22448&tId=4)
 
-#### 7 👍 - Pro
+#### 100 👍 - Pro
 Testifying:
 * Rachel Koller - Shift Zero
 * Megan Larkin - [Climate Solutions](/org/climate_solutions/)
 * Emily Kubiak - Sustainable Connections
 * Tony Usibelll
+* Andrew Vander Stoep - Ibew 191
 
-#### 0 👎 - Con
+#### 17 👎 - Con
+Testifying:
+* 💵Dan Kirschner - [Northwest Gas Association](/org/northwest_gas_association/)
+* Charlie Brown - NW Natural and Cascade Natural Gas
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Liz Reichart - WA Department of Commerce
+* 💵John Rothlin - Avista
+* 💵Kathleen Collins - PacifiCorp
 
 ### Wed 03/22 08:00 AM - Environment, Energy & Technology (ENET): 2SHB 1391 Energy in buildings
 #### 618 👍 - Pro

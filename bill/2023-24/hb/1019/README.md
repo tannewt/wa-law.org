@@ -10,21 +10,16 @@
 
 ## Meetings
 ### Thu 03/23 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): ESHB 1019 Pesticide advisory board
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31036&aId=153449&caId=22292&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31036&aId=153449&caId=22292&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31036&aId=153449&caId=22292&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31036&aId=153449&caId=22292&tId=4)
-
 #### 4 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Brandon Houskeeper - [Western Wood Preservers Institute](/org/western_wood_preservers_institute/)
 * 💵Brent Ludeman - Household & Commercial Products Association
 * Kelly McLain - Washington State Department of Agriculture
+* Tanea Stephens - Raptors Are The Solution
 
 ### Fri 01/13 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1019 Pesticide advisory board
 #### 0 👍 - Pro

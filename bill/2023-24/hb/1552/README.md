@@ -8,18 +8,13 @@
 
 ## Meetings
 ### Thu 03/23 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): HB 1552 Urban agriculture study
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31036&aId=153450&caId=22293&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31036&aId=153450&caId=22293&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31036&aId=153450&caId=22293&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31036&aId=153450&caId=22293&tId=4)
-
-#### 9 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * 💵Ezra Eickmeyer - Abundant Living Landscapes
 * Melissa Spear - [Tilth Alliance](/org/tilth_alliance/)
+* Ron Shultz - WA State Conservation Commission
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

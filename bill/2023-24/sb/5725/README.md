@@ -14,11 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31123&aId=153948&caId=22374&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31123&aId=153948&caId=22374&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Cameron Cloar-Zavaleta - [Alaska Airlines](/org/alaska_airlines/)
+* Megan Ouellette - [Alaska Airlines](/org/alaska_airlines/)
+* Papia Gambelin - United Airlines
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tammy Fellin - Labor & Industries
 
 ### Mon 02/13 10:30 AM - Labor & Commerce (LC): SB 5725 Airline cabin crews
 #### 8 👍 - Pro

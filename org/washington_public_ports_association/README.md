@@ -37,7 +37,8 @@
 
 ## [HB 1306](/bill/2023-24/hb/1306/) - Public works procurement 👍1  
 
-## [HB 1371](/bill/2023-24/hb/1371/) - Freight railroad infra. 👍1  
+## [HB 1371](/bill/2023-24/hb/1371/) - Freight railroad infra. 👍2  
+* 👍 Chris Herman
 * 👍 Chris Herman
 
 ## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍2  ❓1

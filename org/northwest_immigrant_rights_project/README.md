@@ -2,6 +2,9 @@
 
 ## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
+* ❓💵 Jorge Baron
+
 ## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct 👍1  
 
 ## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍2  

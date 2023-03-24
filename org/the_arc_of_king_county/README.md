@@ -6,7 +6,7 @@
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
-## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍3  
+## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍4  
 * 👍💵 Ramona Hattendorf
 * 👍💵 Ramona Hattendorf
 

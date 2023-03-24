@@ -8,16 +8,12 @@
 
 ## Meetings
 ### Thu 03/23 01:30 PM - Finance (FIN): HB 1716 Child care B&O credit
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31062&aId=153666&caId=22342&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31062&aId=153666&caId=22342&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31062&aId=153666&caId=22342&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31062&aId=153666&caId=22342&tId=4)
-
-#### 4 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Amy Anderson - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Erica Hallock - Start Early WA
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 1 ❓ - Other

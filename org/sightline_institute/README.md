@@ -13,7 +13,7 @@
 
 ## [HB 1133](/bill/2023-24/hb/1133/) - Detached ADUs 👍1  
 
-## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍2  
+## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍3  
 * 👍💵 Dan Bertolet
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍2  

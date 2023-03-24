@@ -15,13 +15,7 @@
 
 ## Meetings
 ### Thu 03/23 10:30 AM - Health & Long Term Care (HLTC): E2SHB 1134 988 system
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31048&aId=153633&caId=22288&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31048&aId=153633&caId=22288&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31048&aId=153633&caId=22288&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31048&aId=153633&caId=22288&tId=4)
-
-#### 208 👍 - Pro
+#### 246 👍 - Pro
 Testifying:
 * 💵Diana Stadden - The Arc of WA State
 * Sarah Perry - [King County](/org/king_county/)
@@ -32,12 +26,17 @@ Testifying:
 * Joan Miller - WA Council for Behavioral Health
 * Mercedes White Calf - NAYA Action Fund
 * Lisa Herbold - [City of Seattle](/org/city_of_seattle/)
+* 💵Vicki Lowe - [American Indian Health Commission for Washington State](/org/american_indian_health_commission_for_washington_state/)
 
 #### 1 👎 - Con
 Testifying:
 * Laura Morris
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Colleen Thompson - Washington State Department of Health
+* Shawn O'Neill - Washington State Health Care Authority
+* Michele Roberts - Washington State Department of Health
 
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1134 988 system
 #### 164 👍 - Pro

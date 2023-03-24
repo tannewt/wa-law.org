@@ -16,11 +16,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31072&aId=154535&caId=22449&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31072&aId=154535&caId=22449&tId=4)
 
-#### 3 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Janette Plunkett - Seattle Chair, Washington Higher Education Sustainability Coalition
 * Ash Awad - McKinstry
 * David Woodson - [University of Washington](/org/university_of_washington/)
+* 💵Mark Riker - WA State Building and Construction Trades Council
 
 #### 0 👎 - Con
 

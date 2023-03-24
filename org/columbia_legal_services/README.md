@@ -35,7 +35,7 @@
 
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍2  
 
-## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍1  
+## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍2  
 
 ## [HB 1268](/bill/2023-24/hb/1268/) - Sentencing enhancements 👍1  
 

@@ -23,9 +23,10 @@
 
 ## [HB 1175](/bill/2023-24/hb/1175/) - Petroleum storage tanks 👍1  
 
-## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning  👎2 
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning  👎3 
 * 👎💵 Josie Cummings
 * 👎💵 Josie Cummings
+* 👎💵 Bill Stauffacher
 
 ## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting 👍1  
 * 👍💵 Josie Cummings

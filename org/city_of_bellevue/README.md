@@ -14,6 +14,15 @@
 * 👍 Lacey Jane Wolfe
 * 👍 Lacey Jane Wolfe
 
+## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget 👍1  
+* 👍 Lacey Jane Wolfe
+
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
+* 👍 Lacey Jane Wolfe
+
+## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
+* 👍 Lacey Jane Wolfe
+
 ## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍2  ❓1
 * 👍💵 Briahna Murray
 * ❓ Lacey Jane Wolfe
@@ -59,6 +68,9 @@
 
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  
 * 👍 Genesee Adkins
+
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
+* 👍 Lacey Jane Wolfe
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing   ❓1
 * ❓ Lacey Jane Wolfe

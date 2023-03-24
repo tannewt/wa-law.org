@@ -32,7 +32,7 @@
 ## [HB 1365](/bill/2023-24/hb/1365/) - Puget Sound water quality 👍1  ❓1
 * ❓💵 Darcy Nonemacher
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍4  
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍5  
 
 ## [HB 1735](/bill/2023-24/hb/1735/) - GMA/net ecological gain 👍1  
 * 👍 Mindy Roberts
@@ -54,7 +54,7 @@
 
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍3  
 
-## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍2  
+## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍3  
 
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1  
 

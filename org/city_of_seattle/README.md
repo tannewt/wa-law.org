@@ -19,7 +19,8 @@
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍3  
 * 👍 Lisa Herbold
 
-## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍2  
+## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍3  
+* 👍 Lisa Herbold
 
 ## [HB 1144](/bill/2023-24/hb/1144/) - Firearms/purchase & transfer 👍1  
 
@@ -79,11 +80,13 @@
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍2  
 
-## [HB 1390](/bill/2023-24/hb/1390/) - District energy systems 👍1  
+## [HB 1390](/bill/2023-24/hb/1390/) - District energy systems 👍2  
 
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings   ❓1
 
 ## [HB 1428](/bill/2023-24/hb/1428/) - Pedestrians/roadways 👍1  
+
+## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍1  
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍2  
 

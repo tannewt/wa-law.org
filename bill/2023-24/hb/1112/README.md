@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31042&aId=153557&caId=22457&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31042&aId=153557&caId=22457&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Perry Casper
+* Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 
 #### 0 👎 - Con
 

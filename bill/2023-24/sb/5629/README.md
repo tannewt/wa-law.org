@@ -14,15 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31060&aId=153663&caId=22355&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31060&aId=153663&caId=22355&tId=4)
 
-#### 5 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Carrie Huie - Commissioner, WA State Commission on Asian American Affairs (CAPAA)
+* Michaela Jackson
+* Nadine Shiroma - Asian Pacific Islander Coalition of Washington
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Jonathan Wells - [Washington Academy of Family Physicians](/org/washington_academy_of_family_physicians/)
+* Alex Wehinger - WA State Medical Association (WSMA)
 
 ### Tue 02/07 08:00 AM - Health & Long Term Care (HLTC): SB 5629 Hepatitis B and C
 #### 10 👍 - Pro

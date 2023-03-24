@@ -5,7 +5,7 @@
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍2  
 * 👍💵 John Seng
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍3  
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍4  
 * 👍💵 John Seng
 
 ## [HB 1427](/bill/2023-24/hb/1427/) - On-premises energy gen. 👍1  

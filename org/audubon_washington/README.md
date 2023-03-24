@@ -4,7 +4,7 @@
 
 ## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍1  
 
-## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍3  
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍4  
 
 ## [HB 1192](/bill/2023-24/hb/1192/) - Electric transm. planning 👍1  
 

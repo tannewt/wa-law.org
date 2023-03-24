@@ -85,6 +85,9 @@
 
 ## [SB 5179](/bill/2023-24/sb/5179/) - Death with dignity act 👍1  
 
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
+* 👍 Joe Dacca
+
 ## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍4  
 * 👍 Anna Ratzliff
 * 👍 Anna Ratzliff

@@ -4,6 +4,9 @@
 
 ## [HB 1106](/bill/2023-24/hb/1106/) - Unemployment/voluntary 👍1  
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
+* ❓💵 Emily Murphy
+
 ## [HB 1199](/bill/2023-24/hb/1199/) - Child care/communities 👍2  
 
 ## [HB 1451](/bill/2023-24/hb/1451/) - Child care workforce 👍1  
@@ -14,6 +17,9 @@
 
 ## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍2  ❓1
 * ❓ Deeann Puffert
+
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+* ❓💵 Emily Murphy
 
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍2  
 * 👍💵 Emily Murphy

@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154025&caId=22310&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154025&caId=22310&tId=4)
 
-#### 13 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Tonia McClanahan
@@ -30,13 +30,24 @@ Testifying:
 * Mike Tulee - United Indians of All Tribes Foundation/Communities of Concern Commission
 * Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Dawn Marie Rubio - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * Larry Jefferson - Washington State Office of Public Defense
+* Larry Jefferson - Washington State Office of Public Defense
+* 💵Luis Moscoso - Washington State Office of Public Defense's Advisory Committee
+* 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
+* 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Bonnie Stern Wasser - OneAmerica
+* Justin Clary - Washington State Public Works Board
+* Gregory Link
 
-#### 53 👎 - Con
+#### 308 👎 - Con
 Testifying:
 * Debi Maloney
+* Anna Johnson
+* Karlie Fischer
+* john Worthington
 
-#### 16 ❓ - Other
+#### 26 ❓ - Other
 Testifying:
 * Jim Bamberger - Office of Civil Legal Aid
 * Kimberly Nyland
@@ -53,6 +64,16 @@ Testifying:
 * Hollianne Monson - Catholic Community Services- Volunteer Services
 * 💵Carolyn Brotherton - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * Mike Pellicciotti - Washington State Treasurer
+* Chris Liu - No Child Left Inside Coalition
+* 💵Hyeeun Park - BIPOC Executive Directors Coalition
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
+* Sean Eagan - [The Northwest Seaport Alliance](/org/the_northwest_seaport_alliance/)
+* 💵Mara Machulsky - Willapa Bay Gillnet Association
+* 💵Katrina Johnson
+* Amanda Kim - [Balance Our Tax Code](/org/balance_our_tax_code/)
+* 💵Marian Dacca - Washington Public Ports Assn.
+* Carissa Hahn - CWA/WashTech
 
 ### Fri 03/24 02:00 PM - Ways & Means (WM): PSSB 5187: Early learning. (Remote Testimony Available).
 Sign up to testify:
@@ -61,15 +82,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154020&caId=22305&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154020&caId=22305&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
-#### 3 ❓ - Other
+#### 11 ❓ - Other
 Testifying:
 * Colleen Condon - Washington Communities for Children
 * Rachel Hall - Washington Communities for Children
 * Emily Poncik - Pierce County Early Childhood Network (PCECN)
+* Jaymie McLaughlin - [Child Care Resources](/org/child_care_resources/)
+* Karin Anderson
+* 💵Erica Hallock - Start Early WA
+* 💵Emily Murphy - [Child Care Aware of Washington](/org/child_care_aware_of_washington/)
+* Jen Sandvig - Center Director at Sagebrush Montessori
+* Tasha Fitzgerald - Center Teacher at Pacific Northwest Discovery Academy
+* Devon Connor-Green - Early Learning Action Alliance (ELAA)
+* 💵Kristin Wiggins - Imagine Institute
 
 ### Fri 03/24 02:00 PM - Ways & Means (WM): PSSB 5187: Employee compensation. (Remote Testimony Available).
 Sign up to testify:
@@ -78,13 +107,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154021&caId=22306&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154021&caId=22306&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Caroline Cress - Association of Washington Assistant Attorneys General (AWAAG), WFSE Local 5297
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Alan Burke - WSSRA
+* 💵Brandon Anderson - WA Federation of State Employees (WFSE)
 
 ### Fri 03/24 02:00 PM - Ways & Means (WM): PSSB 5187: Higher education. (Remote Testimony Available).
 Sign up to testify:
@@ -93,15 +125,29 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154019&caId=22304&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154019&caId=22304&tId=4)
 
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* David Buri
+* Adán Mendoza-Sandoval - VP, WA Student Association
+* Sandy Kaiser - The Evergreen State College
+* Joe Dacca - [University of Washington](/org/university_of_washington/)
+* 💵Nora Selander - Western Washington University
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
-#### 3 ❓ - Other
+#### 13 ❓ - Other
 Testifying:
 * 💵Karen Strickland - American Federation of Teachers (AFT)
 * Kim Retherford - Huus Construct
 * Courtenay Gebhardt - Blue Sound Construction
+* 💵Hyeeun Park - BIPOC Executive Directors Coalition
+* 💵Maud Daudon - Career Connect Washington
+* 💵Joel Anderson - University of Washington Graduate and Professional Student Senate
+* Araceli Lopez - Communities for Our Colleges
+* Fernando Mejia-Ledesma - Communities for Our Colleges
+* Gabby Fitz - Communities for Our Colleges
+* Bill Daley - Communities for Our Colleges
+* 💵Alex Hur - NW Education Access
 
 ### Fri 03/24 02:00 PM - Ways & Means (WM): PSSB 5187: Human services.  (Remote Testimony Available).
 Sign up to testify:
@@ -110,7 +156,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154023&caId=22308&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154023&caId=22308&tId=4)
 
-#### 20 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * Sam Martin - Washington Coalition on Homeless Youth Advocacy
 * Julie Patino - A Way Home Washington
@@ -131,10 +177,25 @@ Testifying:
 * Jennifer Delia-Bereskin - Washington Low Income Housing Alliance & Resident Action Project
 * Susan Foster-Dow - Catholic Charities Eastern Washington
 * Linda Long
+* 💵Jake Garcia - Northwest Harvest
+* 💵Brad Banks - Home Care Coalition
+* 💵Paula Sardinas - WBBA (WA BUILD BACK BLACK ALLIANCE)
+* 💵Paul Dillon - Planned Parenthood of Greater Washington and North Idaho
+* Glenda Faatoafe - Long term care provider
+* Lacey Jane Wolfe - [City of Bellevue](/org/city_of_bellevue/)
+* AMANDA DESHAZO - Tacoma-Pierce County Affordable Housing Consortium
+* Susan Chriest - Housing & Essential Needs, Snohomish County
 
-#### 0 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* Ren Autrey - Outsiders Inn
+* Crystal drake
+* Matthew Oakes - Outsiders Inn
+* Rob Huff - Tacoma Pierce County Coalition to End Homelessness
+* Roshelle Cleland - Lutheran community services Northwest
+* Carlyn Sampson - Rebuilding Hope
 
-#### 47 ❓ - Other
+#### 84 ❓ - Other
 Testifying:
 * Laurie Lippold - Partners for Our Children
 * Jim Theofelis - NorthStar Advocates
@@ -157,6 +218,7 @@ Testifying:
 * 💵Emily Stone - WA State Coalition Against Domestic Violence
 * 💵Patricia Hunter - WA State Long Term Care Ombuds
 * Shawn Latham - Allies in Advocacy
+* 💵Courtney Williams - [Community Employment Alliance](/org/community_employment_alliance/)
 * 💵Christina Wong - Northwest Harvest
 * 💵Sean Graham - Washington State Medical Association
 * 💵Michele Thomas - Washington Low Income Housing Alliance
@@ -181,6 +243,41 @@ Testifying:
 * Kathleen Knutson - CCS
 * Sara Robbins - Seattle / King County Coalition on Homelessness
 * Laura Dow - Kinship Navigator Program
+* 💵Alex Hur - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* 💵Melissa Johnson - [Community Residential Services Association](/org/community_residential_services_association/)
+* Britney Beaty - Magnolia Care Enhanced Living
+* Mike Cohen - Bellingham Food Bank
+* 💵Paula Sardinas - WBBA (WA Build Back Black Alliance)
+* 💵Marcos Martinez - TeamChild
+* Israel Gonzalez - WA Immigrant Solidarity Network
+* Michael Byun - Asian Counseling Referral Service
+* 💵Courtney Smith - WA Association for Community Health
+* Rosa Rodriguez - Firelands
+* Maria Leticia
+* Sandy Onofre
+* Yenifer Velazquez
+* Maricela Garcia
+* Valentin Torres
+* Darcy Hoffman - Workforce Southwest Washington
+* Jacquelin Earley - [Sierra Pacific Industries](/org/sierra_pacific_industries/)
+* Narek Daniyelyan - WSUV Assistant Vice Chancellor for Strategic Partnerships
+* Mercedes Sanchez - [Cedar River Clinics](/org/cedar_river_clinics/)
+* 💵Noah Seidel - Office of Developmental Disabilities Ombuds
+* Louisa Severn - Midwives Assn of WA State
+* Sherrie Tinoco - Emergency Support Shelter
+* Kris Camenzind - Hope Alliance
+* Karin White - YWCA Pierce County
+* Laurie Schacht - YWCA Clark County
+* Cara Legg
+* Kathe Williams - Statewide Health Insurance Benefits Advisors
+* 💵Amina Abdalla - [Adult Family Home Council](/org/adult_family_home_council/)
+* Bob Le Roy - Long Term Care Foundation
+* Claudia Coppola - Olympic Neighbors
+* 💵John Ficker - [Adult Family Home Council](/org/adult_family_home_council/)
+* Suzi Fode - New Hope
+* Nadine DeKlerk - Regency Pacific
+* Dana Petersen - Dana Petersen, Legal Counsel
+* Ryan Davis - Washington Asset Building Coalition
 
 ### Fri 03/24 02:00 PM - Ways & Means (WM): PSSB 5187: K-12 public schools. (Remote Testimony Available).
 Sign up to testify:
@@ -189,13 +286,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154018&caId=22303&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154018&caId=22303&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Chase Buffington - Washington Outdoor School Coalition
+* MEGAN KARCH - WASHINGTON OUTDOOR SCHOOL COALITION
+* Lynda Hall - [Treehouse](/org/treehouse/)
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Marilynby Bennett - NA
 
-#### 8 ❓ - Other
+#### 24 ❓ - Other
 Testifying:
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
@@ -205,6 +306,22 @@ Testifying:
 * 💵Melanie Smith - [Committee for Children](/org/committee_for_children/)
 * Sara Seelmeyer - United Way of King County
 * Logan Endres - Washington State School Directors' Association (WSSDA)
+* Radu Smintina - OneAmerica
+* 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
+* Gregory King - Washington MESA
+* Holly Koon - Mt Baker School District
+* Mary Sewright - Mt Baker School District
+* Nick Perigo - Mt Baker School District
+* Tyler Muench - Office of Superintendent of Public Instruction
+* Kathy Mulkerin - Board Member, Walla Walla Public Schools
+* Keith Swanson - Teacher, Walla Walla Public Schools
+* Charlie Brown - Pierce County Superintendents, Federal Way Schools, Schools Alliance
+* 💵Devin Gombosky - ESD 105 Schools Coalition
+* Peter Finch - West Valley School District #208 (Yakima)
+* 💵Melissa Gombosky - Spokane, Central Valley, Richland, Evergreen, and Vancouver Public Schools
+* Samantha Fogg - Seattle Council PTSA
+* Nancy Chamberlain - Washington State PTA
+* Rick Chisa - Public School Employees of Washington (PSE)
 
 ### Fri 03/24 02:00 PM - Ways & Means (WM): PSSB 5187: Mental health. (Remote Testimony Available).
 Sign up to testify:
@@ -213,14 +330,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154022&caId=22307&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154022&caId=22307&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * 💵Michael White - [King County](/org/king_county/)
 * 💵Anna Nepomuceno - NAMI Washington
+* 💵Brad Banks - Behavioral Health Administrative Services Organizations
+* Joan Miller - WA Council for Behavioral Health
 
-#### 0 👎 - Con
+#### 7 👎 - Con
+Testifying:
+* Javoen Byrd - The Hawk Foundation for Research and Education in African/African American culture
+* mary ellen stone - King County Sexual Assault Resource Center
+* George Gonzales - Harborview Abuse and Trauma Services
+* JoDee Garretson - Support Advocacy and Resource Center
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* 💵Ian Goodhew - UW Medicine
+* 💵Bob Cooper - WA Asocition of Drug Courts
+* Christina Mason - WA Assocition of Drug Court
 
 ### Fri 03/24 02:00 PM - Ways & Means (WM): PSSB 5187: Natural resources. (Remote Testimony Available).
 Sign up to testify:
@@ -229,17 +357,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154024&caId=22309&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31132&aId=154024&caId=22309&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * 💵Samantha Bruegger - [Washington Wildlife First](/org/washington_wildlife_first/)
 * Joe Crumbley - Coalition for Organic and Regenerative Agriculture
 * Rudy Salakory - Friends of the Columbia Gorge
+* 💵Isaac Kastama - Clean & Prosperous Washington
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
-#### 1 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * 💵Christine Mahler - Washington Wildlife and Recreation Coalition
+* 💵Marie Sullivan - [Quinault Indian Nation](/org/quinault_indian_nation/)
+* Rod Fleck - City of Forks
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Alma Williams - North Cascades Institute
+* Chris Liu - No Child Left Inside Coalition
 
 ### Tue 01/10 04:00 PM - Ways & Means (WM): SB 5187: All other. (Remote Testimony Available).
 #### 0 👍 - Pro

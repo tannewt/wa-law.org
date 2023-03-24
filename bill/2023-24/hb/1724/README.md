@@ -14,16 +14,11 @@
 
 ## Meetings
 ### Thu 03/23 10:30 AM - Health & Long Term Care (HLTC): 2SHB 1724 Behavioral health workforce
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31048&aId=153636&caId=22291&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31048&aId=153636&caId=22291&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31048&aId=153636&caId=22291&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31048&aId=153636&caId=22291&tId=4)
-
-#### 31 👍 - Pro
+#### 77 👍 - Pro
 Testifying:
 * Jeremy Arp - National Association of Social Workers - Washington Chapter
 * Dominique Avery - [Washington Mental Health Counselors Association](/org/washington_mental_health_counselors_association/)
+* Christie Spice - Washington State Department of Health
 
 #### 0 👎 - Con
 

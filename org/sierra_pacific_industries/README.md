@@ -17,6 +17,9 @@
 * 👎 Bill Turner
 * 👍 Bill Turner
 
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+* ❓ Jacquelin Earley
+
 ## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I  👎2 
 
 ## [SB 5254](/bill/2023-24/sb/5254/) - Leasing of state lands 👍1  

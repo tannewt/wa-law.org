@@ -13,6 +13,9 @@
 * ❓ Sean Eagan
 * ❓ Sean Eagan
 
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+* ❓ Sean Eagan
+
 ## [SB 5251](/bill/2023-24/sb/5251/) - Commercial driver's licenses 👍1  
 
 ## [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra. 👍1  

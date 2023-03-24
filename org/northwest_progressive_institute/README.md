@@ -8,7 +8,8 @@
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 
-## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍1  
+## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍2  
+* 👍 Kathy Sakahara
 
 ## [HB 1144](/bill/2023-24/hb/1144/) - Firearms/purchase & transfer 👍1  
 

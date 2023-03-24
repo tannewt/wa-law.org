@@ -37,7 +37,8 @@
 
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍4  
 
-## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍2  
+## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍4  
+* 👍 Dr. Pamela Braff
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍2  
 

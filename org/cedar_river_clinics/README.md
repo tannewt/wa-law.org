@@ -9,6 +9,9 @@
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍2  
 
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+* ❓ Mercedes Sanchez
+
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍2  

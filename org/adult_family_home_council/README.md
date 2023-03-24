@@ -7,6 +7,10 @@
 * 👍💵 John Ficker
 * 👍💵 John Ficker
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓2
+* ❓💵 Amina Abdalla
+* ❓💵 John Ficker
+
 ## [HB 1568](/bill/2023-24/hb/1568/) - Long-term care professionals 👍3  
 * 👍💵 John Ficker
 * 👍💵 John Ficker
@@ -22,6 +26,10 @@
 
 ## [SB 5183](/bill/2023-24/sb/5183/) - Personal needs allowance 👍1  
 * 👍💵 John Ficker
+
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓2
+* ❓💵 Amina Abdalla
+* ❓💵 John Ficker
 
 ## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I  👎1 
 

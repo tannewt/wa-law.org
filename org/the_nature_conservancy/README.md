@@ -17,7 +17,7 @@
 * 👍 Skippy Shaw
 * 👍 Joshua Rubenstein
 
-## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍5  
+## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍6  
 * 👍 Jamie Stroble
 * 👍 Skippy Shaw
 * 👍 Jamie Stroble
@@ -41,7 +41,7 @@
 
 ## [HB 1427](/bill/2023-24/hb/1427/) - On-premises energy gen. 👍1  
 
-## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍2  
+## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍3  
 * 👍💵 Justin Allegro
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  

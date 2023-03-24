@@ -43,6 +43,9 @@
 * 👍 Kelly Rider
 * 👍 Sarah Perry
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
+* 👍💵 Michael White
+
 ## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍1  
 
 ## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍3  
@@ -91,7 +94,7 @@
 
 ## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍2  
 
-## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍1  
+## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍2  
 
 ## [HB 1261](/bill/2023-24/hb/1261/) - Breast exam cost sharing 👍2  
 
@@ -133,7 +136,7 @@
 
 ## [HB 1387](/bill/2023-24/hb/1387/) - Law enf. applicant pool 👍1  
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍3  
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍4  
 
 ## [HB 1392](/bill/2023-24/hb/1392/) - Electronics repair 👍2  
 

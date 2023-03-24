@@ -1,6 +1,6 @@
 # Planned Parenthood Alliance Advocates
 
-## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals 👍1  
+## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals 👍2  
 
 ## [HB 1073](/bill/2023-24/hb/1073/) - Medical assistants 👍2  
 * 👍💵 Nicole Kern

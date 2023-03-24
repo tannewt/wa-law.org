@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Thu 03/23 08:00 AM - Law & Justice (LAW): SHB 1268 Sentencing enhancements
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153554&caId=22284&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153554&caId=22284&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153554&caId=22284&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153554&caId=22284&tId=4)
-
-#### 59 👍 - Pro
+#### 61 👍 - Pro
 Testifying:
 * eric pratt - America
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
@@ -45,12 +39,14 @@ Testifying:
 * Caya Lenay
 * Toni Kelly-king - Impacted family member
 
-#### 175 👎 - Con
+#### 185 👎 - Con
 Testifying:
 * Jeffrey Slotnick
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Gabriel Jacobs
+* Chad Towne
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Jon Tunheim - Thurston County Prosecutor/WA Assoc of Prosecuting Attorneys
 

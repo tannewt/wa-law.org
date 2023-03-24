@@ -179,6 +179,10 @@
 
 ## [SB 5159](/bill/2023-24/sb/5159/) - Shoreline program review 👍1  
 
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  ❓1
+* 👍💵 Juliana Roe
+* ❓💵 Paul Jewell
+
 ## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
 * 👍💵 Juliana Roe
 

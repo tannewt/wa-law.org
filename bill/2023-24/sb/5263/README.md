@@ -19,19 +19,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31060&aId=153661&caId=22353&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31060&aId=153661&caId=22353&tId=4)
 
-#### 12 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Corey Champagne - Veteran
 * Jesse Gould - Heroic Hearts Project
 * Matthew Griffin - Veteran
 * Jojo Teutsch
+* Dr. Mason Marks
+* Kody Zalewski - [Psychedelic Medicine Alliance of Washington](/org/psychedelic_medicine_alliance_of_washington/)
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Kelly Richardson - CCHR Washington State
+* Lauren Feringa - Hippie and a Veteran Foundation
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Avanti Bergquist - The Washington State Psychiatric Association (WSPA)
 
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SSB 5263 Psilocybin
 #### 35 👍 - Pro

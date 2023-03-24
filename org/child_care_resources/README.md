@@ -15,6 +15,9 @@
 
 ## [HB 1679](/bill/2023-24/hb/1679/) - Student homelessness group 👍1  
 
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+* ❓ Jaymie McLaughlin
+
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍4  
 * 👍 Christina Felisiano
 

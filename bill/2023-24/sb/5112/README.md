@@ -14,21 +14,17 @@
 
 ## Meetings
 ### Thu 03/23 04:00 PM - Transportation (TR): E2SSB 5112 Voter registration
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31057&aId=154183&caId=22440&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31057&aId=154183&caId=22440&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31057&aId=154183&caId=22440&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31057&aId=154183&caId=22440&tId=4)
-
-#### 105 👍 - Pro
+#### 142 👍 - Pro
 Testifying:
 * Carol Sullivan - League of Women Voters of WA
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * 💵Alex Tischenko - Center for Secure & Modern Elections
 
-#### 195 👎 - Con
+#### 415 👎 - Con
 Testifying:
 * JEANNE BARNUM
+* Daniel/Lisa Hall
+* Virginia Henrickson
 
 #### 0 ❓ - Other
 

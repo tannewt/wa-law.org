@@ -20,12 +20,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31072&aId=154533&caId=22447&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31072&aId=154533&caId=22447&tId=4)
 
-#### 3 👍 - Pro
+#### 135 👍 - Pro
 Testifying:
 * Court Olson - Shift Zero and also People for Climate Action
 * David Godfrey - People for Climate Action
+* Dr. Pamela Braff - [City of Olympia](/org/city_of_olympia/)
+* Neal Black - Kirkland City Councilmember
 
-#### 0 👎 - Con
+#### 18 👎 - Con
+Testifying:
+* Daimon Doyle
 
 #### 0 ❓ - Other
 

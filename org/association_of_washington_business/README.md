@@ -8,6 +8,8 @@
 
 ## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍3  
 
+## [HB 1018](/bill/2023-24/hb/1018/) - Hog fuel/tax exemption 👍1  
+
 ## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals  👎2 
 * 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
@@ -44,7 +46,7 @@
 
 ## [HB 1163](/bill/2023-24/hb/1163/) - Leasehold tax/arenas 👍1  
 
-## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍2  
+## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍3  
 
 ## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy   ❓2
 * ❓💵 Peter Godlewski
@@ -235,7 +237,8 @@
 
 ## [HB 1686](/bill/2023-24/hb/1686/) - Salmon recovery 👍1  
 
-## [HB 1716](/bill/2023-24/hb/1716/) - Child care B&O credit 👍1  
+## [HB 1716](/bill/2023-24/hb/1716/) - Child care B&O credit 👍2  
+* 👍💵 Amy Anderson
 
 ## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍5  
 * 👍💵 Emily Shay

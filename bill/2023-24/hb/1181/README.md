@@ -18,22 +18,19 @@
 
 ## Meetings
 ### Thu 03/23 04:00 PM - Ways & Means (WM): E2SHB 1181 Climate change/planning
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154165&caId=22430&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154165&caId=22430&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154165&caId=22430&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154165&caId=22430&tId=4)
-
-#### 1029 👍 - Pro
+#### 1545 👍 - Pro
 Testifying:
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
 * Jamie Stroble - [The Nature Conservancy](/org/the_nature_conservancy/)
 * Wes Stewart - Sierra Club Washington
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* John Flanagan - Governor's Office
 
-#### 10 👎 - Con
+#### 156 👎 - Con
+Testifying:
+* 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 6 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 

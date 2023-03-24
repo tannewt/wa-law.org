@@ -6,6 +6,10 @@
 ## [HB 1102](/bill/2023-24/hb/1102/) - Judge pro tempore compen. 👍1  
 * 👍 Brittany Gregory
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍2  
+* 👍 Brittany Gregory
+* 👍 Christopher Stanley
+
 ## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍1  
 
 ## [HB 1204](/bill/2023-24/hb/1204/) - Family connections program 👍1  
@@ -25,9 +29,10 @@
 * 👍 Brittany Gregory
 * 👍 Brittany Gregory
 
-## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍2  
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍3  
 * 👍 Brittany Gregory
 * 👍 Christopher Stanley
+* 👍 Dawn Marie Rubio
 
 ## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍1  
 * 👍 Kelly Warner-King

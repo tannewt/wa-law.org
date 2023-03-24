@@ -15,11 +15,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31060&aId=153662&caId=22354&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31060&aId=153662&caId=22354&tId=4)
 
-#### 273 👍 - Pro
+#### 317 👍 - Pro
 Testifying:
 * Jeanine Stolp
+* Arthur Haug
+* Justin Dalke - [Optometric Physicians of Washington](/org/optometric_physicians_of_washington/)
+* Nicholas Jankowski - [Optometric Physicians of Washington](/org/optometric_physicians_of_washington/)
+* Suzanne Zamberlan - [Optometric Physicians of Washington](/org/optometric_physicians_of_washington/)
 
-#### 262 👎 - Con
+#### 695 👎 - Con
+Testifying:
+* Aaron Weingeist MD - Wa. Academy of Eye Physicians and Surgeons
+* Arash J. Amadi MD - Wa. Academy of Eye Physicians and Surgeons
+* Courtney Francis MD - Wa. Academy of Eye Physicians and Surgeons
+* David Epley MD - Wa. Academy of Eye Physicians and Surgeons
+* Stephanie Cramer MD - Wa. Academy of Eye Physicians and Surgeons
 
 #### 2 ❓ - Other
 

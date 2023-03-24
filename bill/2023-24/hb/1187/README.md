@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Thu 03/23 08:00 AM - Law & Justice (LAW): ESHB 1187 Employee-union privilege
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153645&caId=22287&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153645&caId=22287&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153645&caId=22287&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153645&caId=22287&tId=4)
-
-#### 179 👍 - Pro
+#### 185 👍 - Pro
 Testifying:
 * Cory Taylor - SEIU 925
 * Cory Taylor - SEIU 925
@@ -24,11 +18,12 @@ Testifying:
 * 💵Erin Haick - SEIU 925
 * Kathy Barnard - Barnard Iglitzin & Lavitt LLP
 
-#### 12 👎 - Con
+#### 17 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Bob Battles - Association of Washington Business (AWB)
 * Seth Berntsen - [Washington Defense Trial Lawyers](/org/washington_defense_trial_lawyers/)
+* Gabriel Jacobs
 
 #### 4 ❓ - Other
 Testifying:

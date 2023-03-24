@@ -14,19 +14,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31203&aId=154489&caId=22452&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31203&aId=154489&caId=22452&tId=4)
 
-#### 2 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Laurie Lippold - Partners for Our Children
 * 💵Erica Hallock - Start Early Washington
+* Brent Simcosky - Jamestown S'Klallam Tribe
+* Michael Robinson - pacclean.org
+* Lacey Jane Wolfe - [City of Bellevue](/org/city_of_bellevue/)
+* 💵Rose Feliciano - Port of Bremerton, Lifelong, Catholic Charities Eastern WA
 
 #### 0 👎 - Con
 
-#### 4 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Linda Grant - [Evergreen Recovery Centers](/org/evergreen_recovery_centers/)
 * Jim Theofelis - NorthStar Advocates
 * 💵Diana Stadden - The Arc of WA State
 * 💵Shrounda Selivanoff - Children's Home Society of Washington
+* Zeke Smith - [Empire Health Foundation](/org/empire_health_foundation/)
+* Adrienne Mason - Children's Home Society of Washington
+* Erica Sessle - Lifelong: Health For All
 
 ### Thu 01/12 01:30 PM - Capital Budget (CB): HB 1147 Capital budget
 #### 0 👍 - Pro

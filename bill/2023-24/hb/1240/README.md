@@ -25,13 +25,7 @@
 
 ## Meetings
 ### Thu 03/23 08:00 AM - Law & Justice (LAW): SHB 1240 Firearms/assault weapons
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153556&caId=22286&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153556&caId=22286&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153556&caId=22286&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153556&caId=22286&tId=4)
-
-#### 1665 👍 - Pro
+#### 1793 👍 - Pro
 Testifying:
 * Gwen Loosmore
 * Steve Albrecht
@@ -59,8 +53,10 @@ Testifying:
 * Henry Tanz
 * Linda Tanz
 * Jerry Eichner - Washington Chapter of the American Academy of Pediatrics
+* Winona Hollins Hauge - member of grandmothers against gun violence and supporter of the Alliance
+* Trudi Inslee
 
-#### 6510 👎 - Con
+#### 6986 👎 - Con
 Testifying:
 * Jeffrey Slotnick - Setracon Inc.
 * Eric pratt - I, America
@@ -154,11 +150,26 @@ Testifying:
 * Allen Ernst
 * Marcus Carter - Kitsap Rifle & Revolver Club
 * David Ghezzi - No
+* Braxton Lake
+* Sean Wilson
 * Zachary Bigger
+* Gabriel Jacobs
 * Curtis Harris
+* Veniamin Gerasimov
 * Justin Whitaker
+* Trevor Best - Libertarian Party of Washington
+* Alex Leung - none
+* Dedotated Wam - Asian-Americans for Gun Rights Preservation
+* Kevin Carmona
+* Chris James
+* Chad Towne
+* Luke Mccandless
+* Nickalas Zylstra
+* thomas young
+* Kevin Fitzgerald
+* Elliette Barker
 
-#### 20 ❓ - Other
+#### 22 ❓ - Other
 Testifying:
 * eric cortez
 * Zane Bray - n/a

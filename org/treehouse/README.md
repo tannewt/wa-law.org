@@ -38,6 +38,9 @@
 
 ## [SB 5174](/bill/2023-24/sb/5174/) - Student transportation 👍1  
 
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
+* 👍 Lynda Hall
+
 ## [SB 5230](/bill/2023-24/sb/5230/) - Extended foster care   ❓1
 * ❓ Lynda Hall
 

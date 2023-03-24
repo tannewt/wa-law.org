@@ -25,13 +25,7 @@
 
 ## Meetings
 ### Thu 03/23 08:00 AM - Law & Justice (LAW): E2SHB 1143 Firearms/purchase & transfer
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153555&caId=22285&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153555&caId=22285&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153555&caId=22285&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31041&aId=153555&caId=22285&tId=4)
-
-#### 1617 👍 - Pro
+#### 1709 👍 - Pro
 Testifying:
 * Gwen Loosmore - Washington State PTA
 * Jeff Ketchel - [Washington State Public Health Association](/org/washington_state_public_health_association/)
@@ -56,9 +50,12 @@ Testifying:
 * Linda Tanz
 * Julie Suter
 * Aslyn Diaz
+* Lisa Herbold - [City of Seattle](/org/city_of_seattle/)
 * Shaquita Bell - on Behalf of Seattle Children's Hospital
+* Kathy Sakahara - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* Trudi Inslee
 
-#### 3504 👎 - Con
+#### 3862 👎 - Con
 Testifying:
 * Eric pratt - I, America
 * C Davis - Washingtonians to Recall Inslee
@@ -89,8 +86,15 @@ Testifying:
 * Cory Malon
 * Hiedi Lee - Minuteman Ammunition
 * Tyler Budwey
+* Mike Orowitz
 * Aaron Lee
+* Gabriel Jacobs
+* Tun Aung
 * Thomas Grigsby
+* Chris James
+* Chad Towne
+* Nickalas Zylstra
+* Kevin Fitzgerald
 
 #### 4 ❓ - Other
 

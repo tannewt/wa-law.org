@@ -8,18 +8,15 @@
 
 ## Meetings
 ### Thu 03/23 04:00 PM - Ways & Means (WM): HB 1018 Hog fuel/tax exemption
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154521&caId=22444&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154521&caId=22444&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154521&caId=22444&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154521&caId=22444&tId=4)
-
-#### 7 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * 💵Bill Stauffacher - [Northwest Pulp & Paper Association](/org/northwest_pulp_&_paper_association/)
 * 💵Joshua Estes - Association of Western Pulp and Paper Workers Union (AWPPW)
 
-#### 0 👎 - Con
+#### 63 👎 - Con
+Testifying:
+* Sherri Dysart - League of Women Voters of Washington
+* John Roskelley
 
 #### 0 ❓ - Other
 

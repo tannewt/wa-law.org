@@ -37,7 +37,8 @@
 
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍2  
 
-## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍1  
+## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍1  ❓1
+* ❓💵 Carl Schroeder
 
 ## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations   ❓1
 

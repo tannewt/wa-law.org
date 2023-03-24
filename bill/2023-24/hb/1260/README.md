@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Thu 03/23 04:00 PM - Ways & Means (WM): ESHB 1260 Work-limiting disability
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154166&caId=22431&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154166&caId=22431&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154166&caId=22431&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31091&aId=154166&caId=22431&tId=4)
-
-#### 113 👍 - Pro
+#### 224 👍 - Pro
 Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Huy Nguyen - Benefits Law Center
@@ -31,7 +25,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Thu 03/09 08:00 AM - Human Services (HS): ESHB 1260 Work-limiting disability
 #### 358 👍 - Pro

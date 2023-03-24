@@ -76,6 +76,9 @@
 
 ## [SB 5168](/bill/2023-24/sb/5168/) - Energy independence act  👎1 
 
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+* ❓💵 Leah Missik
+
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
 * 👍💵 Leah Missik
 

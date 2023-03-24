@@ -13,6 +13,9 @@
 
 ## [SB 5086](/bill/2023-24/sb/5086/) - Tribal police training 👍1  
 
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+* ❓💵 Marie Sullivan
+
 ## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
 * 👍 Ryan Hendricks
 

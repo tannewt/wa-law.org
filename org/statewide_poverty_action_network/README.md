@@ -11,6 +11,9 @@
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍2  
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
+* ❓💵 Lianna Kressin
+
 ## [HB 1152](/bill/2023-24/hb/1152/) - Consumer products/gender 👍1  
 
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
@@ -25,7 +28,7 @@
 
 ## [HB 1251](/bill/2023-24/hb/1251/) - Water system notices 👍1  
 
-## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍8  
+## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍9  
 * 👍💵 Lianna Kressin
 * 👍💵 Alex Hur
 * 👍💵 Alex Hur
@@ -102,6 +105,9 @@
 * 👍💵 Shaun Scott
 
 ## [SB 5183](/bill/2023-24/sb/5183/) - Personal needs allowance 👍1  
+
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+* ❓💵 Alex Hur
 
 ## [SB 5197](/bill/2023-24/sb/5197/) - Eviction processes 👍1  
 

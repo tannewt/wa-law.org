@@ -10,3 +10,7 @@
 * 👍 Scott Kennedy
 * 👍 Scott Kennedy
 * 👍 Scott Kennedy
+
+## [SB 5725](/bill/2023-24/sb/5725/) - Airline cabin crews 👍2  
+* 👍 Cameron Cloar-Zavaleta
+* 👍 Megan Ouellette
