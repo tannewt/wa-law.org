@@ -16,6 +16,7 @@
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [Commissioner Franz Celebrates House Passage of Carbon Credit Bill | WA - DNR](https://www.dnr.wa.gov/news/commissioner-franz-celebrates-house-passage-carbon-credit-bill#:~:text=House Bill 1789)
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [Commissioner Franz Urges House to Pass Carbon Credit Bill | WA - DNR](https://www.dnr.wa.gov/news/commissioner-franz-urges-house-pass-carbon-credit-bill#:~:text=House Bill 1789)
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [State Looks to Seize Opportunity to Cash in on Carbon for Schools and Communities | WA - DNR](https://www.dnr.wa.gov/news/state-looks-seize-opportunity-cash-carbon-schools-and-communities#:~:text=House Bill 1789)
+* [Department of Natural Resources](/org/department_of_natural_resources/) - [State Should Seize Opportunity to Add Revenue from Carbon Credits, Commissioner Tells Senate | WA - DNR](https://www.dnr.wa.gov/news/state-should-seize-opportunity-add-revenue-carbon-credits-commissioner-tells-senate#:~:text=House Bill 1789)
 * [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB 1789)
 
 ## Meetings

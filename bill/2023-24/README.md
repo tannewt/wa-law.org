@@ -1,14 +1,5 @@
 # 2023-24 Bills
 ## Upcoming hearings
-* [ENET Fri 03/24 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31072) [HB 1390](hb/1390) - District energy systems 159👍 324👎 8❓
-* [ENET Fri 03/24 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31072) [HB 1391](hb/1391) - Energy in buildings 1457👍 139👎 17❓
-* [ENET Fri 03/24 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31072) [HB 1433](hb/1433) - Energy labeling/residential 1072👍 116👎 2❓
-* [HCW Fri 03/24 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31060) [SB 5629](sb/5629) - Hepatitis B and C 18👍 0👎 4❓
-* [HCW Fri 03/24 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31060) [SB 5263](sb/5263) - Psilocybin 174👍 33👎 30❓
-* [HCW Fri 03/24 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31060) [SB 5389](sb/5389) - Optometry 604👍 1631👎 5❓
-* [SGE Fri 03/24 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31118) [HB 1700](hb/1700) - Eastern Washington landscape 5👍 0👎 2❓
-* [SGE Fri 03/24 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31118) [HB 1105](hb/1105) - Public comment notice 8👍 0👎 0❓
-* [SGE Fri 03/24 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31118) [HB 1750](hb/1750) - Water safety education 18👍 1👎 0❓
 * [LAWS Fri 03/24 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31123) [SB 5725](sb/5725) - Airline cabin crews 11👍 1👎 1❓
 * [WM Fri 03/24 02:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31132) [SB 5187](sb/5187) - Operating budget 72👍 337👎 170❓
 * [WM Fri 03/24 02:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31132) [SB 5187](sb/5187) - Operating budget 72👍 337👎 170❓
@@ -114,6 +105,7 @@
 * [SB 5462](sb/5462) - Inclusive learning standards 186👍 1227👎 4❓ - H Education
 * [HB 1155](hb/1155) - Consumer health data 1423👍 71👎 28❓ - S Law & Justice
 * [SB 5190](sb/5190) - Middle housing 971👍 53👎 11❓ - S Ways & Means
+* [SB 5389](sb/5389) - Optometry 604👍 1631👎 5❓ - H HC/Wellness
 * [HB 1195](hb/1195) - Weapons/parks & hospitals 513👍 483👎 0❓ - H Civil R & Judi
 * [HB 1474](hb/1474) - Covenant homeownership prg. 2022👍 611👎 8❓ - S RecComm
 * [SB 5109](sb/5109) - Wage replacement 914👍 46👎 2❓ - S Ways & Means
@@ -483,6 +475,7 @@
 * [SB 5111](sb/5111) - Sick leave/construction 225👍 15👎 3❓ - H Labor & Workpla
 * [SB 5474](sb/5474) - Juvenile justice 235👍 11👎 7❓ - S Ways & Means
 * [SB 5334](sb/5334) - Affordable housing funding 203👍 55👎 0❓ - H Local Govt
+* [HB 1433](hb/1433) - Energy labeling/residential 1072👍 116👎 2❓ - S Environment, En
 * [SB 5094](sb/5094) - Water system plans/climate 404👍 86👎 0❓ - H Exec Action
 * [SB 5171](sb/5171) - Consumer products/gender 380👍 93👎 2❓ - H ConsPro&Bus
 * [HB 1386](hb/1386) - Youth development grants 117👍 29👎 2❓ - H Approps
@@ -543,6 +536,7 @@
 * [HB 1525](hb/1525) - Apprenticeships/child care 420👍 0👎 0❓ - S Ways & Means
 * [SB 5238](sb/5238) - Academic employee bargaining 525👍 18👎 2❓ - H Labor & Workpla
 * [SB 5427](sb/5427) - Hate crimes & bias incidents 377👍 828👎 2❓ - S Ways & Means
+* [HB 1391](hb/1391) - Energy in buildings 1457👍 139👎 17❓ - S Environment, En
 * [HB 1117](hb/1117) - Power supply inadequacy 40👍 79👎 0❓ - S Environment, En
 * [SB 5134](sb/5134) - Reentry services & supports 241👍 10👎 1❓ - H Community Safet
 * [SB 5225](sb/5225) - Working conn. child care 585👍 7👎 2❓ - H Approps
@@ -1130,6 +1124,7 @@
 * [SB 5153](sb/5153) - Future voters/records 25👍 21👎 0❓ - H State Govt & Tr
 * [SB 5160](sb/5160) - Organized retail theft 22👍 3👎 2❓ - S Rules X
 * [SB 5168](sb/5168) - Energy independence act 16👍 11👎 0❓ - S Environment, E
+* [SB 5263](sb/5263) - Psilocybin 174👍 33👎 30❓ - H HC/Wellness
 * [SB 5390](sb/5390) - Establishing a programmatic safe harbor agreement on forestlands. 146👍 29👎 0❓ - H Approps
 * [SB 5396](sb/5396) - Breast exam cost sharing 91👍 5👎 0❓ - H Approps
 * [SB 5523](sb/5523) - Forensic pathologists 60👍 1👎 0❓ - H Postsec Ed & Wk
@@ -1585,6 +1580,7 @@
 * [SB 5569](sb/5569) - Kidney disease centers 20👍 1👎 0❓ - H Passed 3rd
 * [SB 5586](sb/5586) - Paid leave data 23👍 1👎 1❓ - H Labor & Workpla
 * [SB 5629](sb/5629) - Hepatitis B and C 18👍 0👎 4❓ - H HC/Wellness
+* [SB 5629](sb/5629) - Hepatitis B and C 18👍 0👎 4❓ - H HC/Wellness
 * [SB 5652](sb/5652) - Tow truck operator comp. 11👍 6👎 2❓ - H Transportation
 * [SB 5733](sb/5733) - Payment card processing/tax 16👍 0👎 7❓ - S Ways & Means
 * [HB 1014](hb/1014) - Fire protection projects 10👍 0👎 0❓ - H Cap Budget
@@ -1681,6 +1677,7 @@
 * [SB 5725](sb/5725) - Airline cabin crews 11👍 1👎 1❓ - H Labor & Workpla
 * [HB 1010](hb/1010) - Shellfish sanitary control 22👍 1👎 0❓ - S Ag/Water/Natura
 * [HB 1017](hb/1017) - Cosmetologists, etc/licenses 8👍 0👎 0❓ - S Rules 2
+* [HB 1105](hb/1105) - Public comment notice 8👍 0👎 0❓ - S State Govt & El
 * [HB 1107](hb/1107) - "Master" and "servant" terms 8👍 0👎 0❓ - S Passed 3rd
 * [HB 1114](hb/1114) - Sentencing comm'n members 62👍 0👎 0❓ - S Law & Justice
 * [HB 1118](hb/1118) - School bus safety 5👍 0👎 3❓ - H Approps
@@ -1690,6 +1687,7 @@
 * [HB 1311](hb/1311) - Credit repair services 15👍 6👎 0❓ - S BFGTDP
 * [HB 1355](hb/1355) - Property tax exemptions 27👍 0👎 0❓ - S Ways & Means
 * [HB 1369](hb/1369) - Fish and wildlife officers 5👍 1👎 2❓ - S Law & Justice
+* [HB 1390](hb/1390) - District energy systems 159👍 324👎 8❓ - S Environment, En
 * [HB 1552](hb/1552) - Urban agriculture study 19👍 1👎 0❓ - S Ag/Water/Natura
 * [HB 1590](hb/1590) - Oversight board for DCYF 17👍 1👎 0❓ - S Rules 2
 * [HB 1596](hb/1596) - Affordable housing incentive 41👍 1👎 0❓ - H Rules C
@@ -1697,6 +1695,7 @@
 * [HB 1626](hb/1626) - Colorectal screening tests 44👍 0👎 0❓ - S Ways & Means
 * [HB 1648](hb/1648) - Ticket sales 5👍 2👎 15❓ - H Rules R
 * [HB 1742](hb/1742) - Nontax statutes/DOR 13👍 0👎 0❓ - S Law & Justice
+* [HB 1750](hb/1750) - Water safety education 18👍 1👎 0❓ - S State Govt & El
 * [HB 1758](hb/1758) - Hatchery maintenance permits 19👍 0👎 0❓ - S Rules 2
 * [HB 1764](hb/1764) - Asphalt & agg. valuation 13👍 0👎 2❓ - S Rules 2
 * [HB 1783](hb/1783) - Grant writers 24👍 1👎 0❓ - S Ways & Means
@@ -1968,6 +1967,7 @@
 * [HB 1624](hb/1624) - ESD election administration 5👍 1👎 0❓ - S Rules 2
 * [HB 1624](hb/1624) - ESD election administration 5👍 1👎 0❓ - S Rules 2
 * [HB 1660](hb/1660) - RV auctions minimum bid 3👍 0👎 0❓ - H Rules C
+* [HB 1700](hb/1700) - Eastern Washington landscape 5👍 0👎 2❓ - S State Govt & El
 * [HB 1737](hb/1737) - Reconciliation account 5👍 15👎 0❓ - S Ways & Means
 * [HB 1765](hb/1765) - Special occasion liquor lic. 3👍 0👎 0❓ - H Approps
 * [HB 1778](hb/1778) - Economic resilience planning 2👍 0👎 1❓ - H Approps

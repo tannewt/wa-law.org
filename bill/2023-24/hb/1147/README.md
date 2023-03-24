@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [The Urbanist](/org/the_urbanist/) - [The Legislative Budget Season Begins in Olympia | The Urbanist](https://www.theurbanist.org/2023/03/22/the-legislative-budget-season-begins-in-olympia/#:~:text=HB 1147)
+
 ## Meetings
 ### Tue 03/28 08:00 AM - Capital Budget (CB): PSHB 1147 - Concerning the capital budget. (Remote Testimony Available).
 Sign up to testify:

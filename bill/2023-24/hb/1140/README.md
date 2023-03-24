@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [The Urbanist](/org/the_urbanist/) - [The Legislative Budget Season Begins in Olympia | The Urbanist](https://www.theurbanist.org/2023/03/22/the-legislative-budget-season-begins-in-olympia/#:~:text=HB 1140)
+
 ## Meetings
 ### Mon 03/27 04:00 PM - Appropriations (APP): PSHB 1140 - Making 2023-2025 fiscal biennium operating appropriations.  (Remote Testimony Available).
 Sign up to testify:
