@@ -2,6 +2,8 @@
 
 ## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍2  
 
+## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses 👍1  
+
 ## [HB 1432](/bill/2023-24/hb/1432/) - Juvenile justice 👍1  
 * 👍💵 Kelly Olson
 

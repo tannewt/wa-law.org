@@ -1,5 +1,7 @@
 # Professional Educator Standards Board
 
+## [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍1  
+
 ## [HB 1015](/bill/2023-24/hb/1015/) - Paraeducator requirements 👍1  
 * 👍 Dr. Erica Hernandez-Scott
 

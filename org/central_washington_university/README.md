@@ -27,6 +27,9 @@
 
 ## [SB 5079](/bill/2023-24/sb/5079/) - Tuition establishment date 👍1  
 
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
+* 👍 Steve DuPont
+
 ## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
 * 👍 Steve DuPont
 

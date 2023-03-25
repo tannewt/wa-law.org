@@ -17,8 +17,9 @@
 * 👎 Bill Turner
 * 👍 Bill Turner
 
-## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓2
 * ❓ Jacquelin Earley
+* ❓ Dave Arbaugh
 
 ## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I  👎2 
 

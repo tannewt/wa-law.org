@@ -9,7 +9,7 @@
 
 ## Meetings
 ### Fri 03/24 08:00 AM - State Government & Elections (SGE): SHB 1700 Eastern Washington landscape
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Anthony Mixer - Conservative Advocate
 

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Tue 02/28 08:00 AM - Health Care & Wellness (HCW): SSB 5121 Health care oversight cmte.

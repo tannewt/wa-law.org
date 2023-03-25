@@ -10,7 +10,8 @@
 
 ## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting 👍1  
 
-## [HB 1250](/bill/2023-24/hb/1250/) - Low-income home rehab. prg. 👍2  
+## [HB 1250](/bill/2023-24/hb/1250/) - Low-income home rehab. prg. 👍3  
+* 👍 Jeff DeLuca
 * 👍 Jeff DeLuca
 * 👍 Jeff DeLuca
 
@@ -79,6 +80,9 @@
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍2  
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
+
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+* ❓ Jeff DeLuca
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍2  
 

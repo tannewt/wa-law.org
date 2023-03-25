@@ -32,9 +32,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31167&aId=154576&caId=22471&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31167&aId=154576&caId=22471&tId=4)
 
-#### 2 👍 - Pro
+#### 104 👍 - Pro
+Testifying:
+* Arlista Holman - Washington State School Directors' Association (WSSDA)
+* Sara Seelmeyer - United Way of King County
+* Thomas Reynolds - Northwest Harvest
+* Nicole Curtis
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -8,11 +8,12 @@
 
 ## Meetings
 ### Fri 03/24 08:00 AM - Health Care & Wellness (HCW): SB 5629 Hepatitis B and C
-#### 8 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Carrie Huie - Commissioner, WA State Commission on Asian American Affairs (CAPAA)
 * Michaela Jackson
 * Nadine Shiroma - Asian Pacific Islander Coalition of Washington
+* Christian Ramers
 
 #### 0 👎 - Con
 

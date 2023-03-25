@@ -187,6 +187,8 @@
 * ❓ Brandy DeLange
 * ❓ Brandy DeLange
 
+## [SB 5001](/bill/2023-24/sb/5001/) - Public facility districts 👍1  
+
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍2  
 
 ## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment 👍1  

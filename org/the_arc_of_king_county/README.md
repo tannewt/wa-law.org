@@ -16,6 +16,9 @@
 
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
+* ❓💵 Ramona Hattendorf
+
 ## [HB 1168](/bill/2023-24/hb/1168/) - Prenatal substance exposure 👍1  
 
 ## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍2  

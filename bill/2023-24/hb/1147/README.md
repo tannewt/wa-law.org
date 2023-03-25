@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31203&aId=154489&caId=22452&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31203&aId=154489&caId=22452&tId=4)
 
-#### 6 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Laurie Lippold - Partners for Our Children
 * 💵Erica Hallock - Start Early Washington
@@ -25,10 +25,27 @@ Testifying:
 * Michael Robinson - pacclean.org
 * Lacey Jane Wolfe - [City of Bellevue](/org/city_of_bellevue/)
 * 💵Rose Feliciano - Port of Bremerton, Lifelong, Catholic Charities Eastern WA
+* Jason Grillo - AirMiners
+* Mike Robinson - PAC CLEAN
+* Terri Pugh - Foundation for Climate Restoration
+* Lisa Vatske - Washington State Housing Finance Commission
+* Kathryn Gardow - Chair, Public Works Board
+* Kim Herman - [Coalition for Affordable Housing Development](/org/coalition_for_affordable_housing_development/)
+* Debbie Thiele - Corporation for Supportive Housing, state-wide
+* Belinda Louie
+* Faaluaina Pritchard - [Asia Pacific Cultural Center](/org/asia_pacific_cultural_center/)
+* Joel Ing
+* Michael Pugsley - Ashley House-Spokane and Tacoma
+* Phil Edlund - Parkland Community Association- Save Parkland School
+* Phil Edlund - Parkland Community Association - Save Parkland School
+* Terri Pugh - Foundation for Climate Restoration
+* Josephine Tamayo Murray - Communities of Concern Commission
+* Pastor Carey Anderson - First AME Church/Communities of Concern Commission
+* 💵Nick Federici - [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/)
 
 #### 0 👎 - Con
 
-#### 7 ❓ - Other
+#### 15 ❓ - Other
 Testifying:
 * Linda Grant - [Evergreen Recovery Centers](/org/evergreen_recovery_centers/)
 * Jim Theofelis - NorthStar Advocates
@@ -37,6 +54,14 @@ Testifying:
 * Zeke Smith - [Empire Health Foundation](/org/empire_health_foundation/)
 * Adrienne Mason - Children's Home Society of Washington
 * Erica Sessle - Lifelong: Health For All
+* Wendy Freeman - 14115 4th Ave E
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Peter Shapiro
+* 💵Christine Mahler
+* Ruth Gifford - Dishman Hills Conservancy
+* Yvonne Kraus - [Evergreen Mountain Bike Alliance](/org/evergreen_mountain_bike_alliance/)
+* Rosalinda Guillen - Community to Community Development
+* Sean Hopps - Community to Community Development
 
 ### Thu 01/12 01:30 PM - Capital Budget (CB): HB 1147 Capital budget
 #### 0 👍 - Pro

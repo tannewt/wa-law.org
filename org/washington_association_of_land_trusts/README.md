@@ -10,6 +10,9 @@
 
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍1  
 
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+* ❓ Vanessa Kritzer
+
 ## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget   ❓1
 * ❓ Vanessa Kritzer
 

@@ -179,7 +179,7 @@
 
 ## [SB 5260](/bill/2023-24/sb/5260/) - Reprod. health/employers 👍1  
 
-## [SB 5263](/bill/2023-24/sb/5263/) - Psilocybin 👍1  
+## [SB 5263](/bill/2023-24/sb/5263/) - Psilocybin 👍2  
 
 ## [SB 5274](/bill/2023-24/sb/5274/) - Public employ. eligibility 👍2  
 

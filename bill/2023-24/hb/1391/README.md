@@ -10,7 +10,7 @@
 
 ## Meetings
 ### Fri 03/24 08:00 AM - Environment, Energy & Technology (ENET): 2SHB 1391 Energy in buildings
-#### 100 👍 - Pro
+#### 108 👍 - Pro
 Testifying:
 * Rachel Koller - Shift Zero
 * Megan Larkin - [Climate Solutions](/org/climate_solutions/)
@@ -18,12 +18,12 @@ Testifying:
 * Tony Usibelll
 * Andrew Vander Stoep - Ibew 191
 
-#### 17 👎 - Con
+#### 25 👎 - Con
 Testifying:
 * 💵Dan Kirschner - [Northwest Gas Association](/org/northwest_gas_association/)
 * Charlie Brown - NW Natural and Cascade Natural Gas
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Liz Reichart - WA Department of Commerce
 * 💵John Rothlin - Avista

@@ -15,9 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31042&aId=153558&caId=22458&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31042&aId=153558&caId=22458&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
+* Elizabeth Gould
+* Julie Mitchell - Association of Alcoholism & Addiction Programs of WA
 
 #### 1 👎 - Con
 

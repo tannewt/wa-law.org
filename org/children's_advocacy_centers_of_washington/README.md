@@ -5,6 +5,9 @@
 ## [HB 1077](/bill/2023-24/hb/1077/) - Courthouse facility dogs 👍1  
 * 👍 Paula Reed
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
+* ❓ Paula Reed
+
 ## [HB 1165](/bill/2023-24/hb/1165/) - Intimate images/civil remedy 👍1  
 
 ## [HB 1439](/bill/2023-24/hb/1439/) - Child exposure to violence 👍3  
@@ -24,6 +27,9 @@
 ## [SB 5010](/bill/2023-24/sb/5010/) - Synthetic opioids/endanger. 👍1  
 
 ## [SB 5070](/bill/2023-24/sb/5070/) - Nonfatal strangulation 👍1  
+
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+* ❓ Paula Reed
 
 ## [SB 5219](/bill/2023-24/sb/5219/) - Counseling compact 👍1  
 

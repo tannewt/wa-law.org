@@ -322,6 +322,8 @@
 
 ## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍3  
 
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
 * 👍 Mike Ennis
 

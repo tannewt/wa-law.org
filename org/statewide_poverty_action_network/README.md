@@ -106,8 +106,9 @@
 
 ## [SB 5183](/bill/2023-24/sb/5183/) - Personal needs allowance 👍1  
 
-## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  ❓1
 * ❓💵 Alex Hur
+* 👍💵 Shaun Scott
 
 ## [SB 5197](/bill/2023-24/sb/5197/) - Eviction processes 👍1  
 

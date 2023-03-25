@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 01/12 04:00 PM - Ways & Means (WM): SB 5201 State gen. obligation bonds

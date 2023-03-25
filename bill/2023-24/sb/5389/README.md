@@ -9,21 +9,23 @@
 
 ## Meetings
 ### Fri 03/24 08:00 AM - Health Care & Wellness (HCW): SSB 5389 Optometry
-#### 317 👍 - Pro
+#### 328 👍 - Pro
 Testifying:
 * Jeanine Stolp
 * Arthur Haug
 * Justin Dalke - [Optometric Physicians of Washington](/org/optometric_physicians_of_washington/)
 * Nicholas Jankowski - [Optometric Physicians of Washington](/org/optometric_physicians_of_washington/)
 * Suzanne Zamberlan - [Optometric Physicians of Washington](/org/optometric_physicians_of_washington/)
+* Brian Robertson
 
-#### 695 👎 - Con
+#### 774 👎 - Con
 Testifying:
 * Aaron Weingeist MD - Wa. Academy of Eye Physicians and Surgeons
 * Arash J. Amadi MD - Wa. Academy of Eye Physicians and Surgeons
 * Courtney Francis MD - Wa. Academy of Eye Physicians and Surgeons
 * David Epley MD - Wa. Academy of Eye Physicians and Surgeons
 * Stephanie Cramer MD - Wa. Academy of Eye Physicians and Surgeons
+* 💵Amy Brackenbury - WSMA
 
 #### 2 ❓ - Other
 

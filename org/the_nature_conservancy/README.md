@@ -79,6 +79,9 @@
 ## [SB 5165](/bill/2023-24/sb/5165/) - Electric transm. planning 👍3  
 * 👍 Scott Richards
 
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+* ❓ Darcy Batura
+
 ## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
 * 👍 Scott Richards
 

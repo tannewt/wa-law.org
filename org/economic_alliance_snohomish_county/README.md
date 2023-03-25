@@ -5,6 +5,8 @@
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
 
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget  👎1 
+
 ## [SB 5379](/bill/2023-24/sb/5379/) - Associate development orgs. 👍1  
 * 👍 Garry Clark
 

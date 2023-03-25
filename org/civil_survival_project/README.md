@@ -7,7 +7,7 @@
 ## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍5  
 * 👍💵 Kelly Olson
 
-## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses 👍2  
+## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses 👍3  
 
 ## [HB 1394](/bill/2023-24/hb/1394/) - Sexual offenses by youth 👍1  
 

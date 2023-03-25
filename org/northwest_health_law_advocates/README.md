@@ -2,6 +2,9 @@
 
 ## [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍2  
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
+* ❓💵 Ann Vining
+
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍2  
 
 ## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍3  
@@ -29,6 +32,9 @@
 ## [SB 5169](/bill/2023-24/sb/5169/) - Medicare/health care plans 👍1  
 
 ## [SB 5183](/bill/2023-24/sb/5183/) - Personal needs allowance 👍1  
+
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+* ❓💵 Ann Vining
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍3  
 

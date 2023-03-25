@@ -18,15 +18,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31042&aId=153561&caId=22461&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31042&aId=153561&caId=22461&tId=4)
 
-#### 74 👍 - Pro
+#### 266 👍 - Pro
 Testifying:
 * Anthony Smith - Green Hill School's Capitol Classroom
 * Caya Lenay - Green Hill School Capitol Classroom
 * Ronald Ackerson Jr - Green Hill School's Capitol Classroom
+* Adam Cornell - Former Prosecuting Attorney, Snohomish County
+* Dr. Chelsea Moore - ACLU-WA
+* Eugene Youngblood - Dream.Org
+* Gabe Galanda - Huy
+* Judge André Peñalver
+* Martina Kartman - Collective Justice
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Mon 01/23 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1324 Prior juvenile offenses
 #### 329 👍 - Pro

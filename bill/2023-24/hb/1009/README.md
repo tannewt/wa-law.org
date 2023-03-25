@@ -19,7 +19,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31167&aId=154589&caId=22478&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31167&aId=154589&caId=22478&tId=4)
 
-#### 2 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 
 #### 0 👎 - Con
 

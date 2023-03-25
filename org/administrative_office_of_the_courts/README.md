@@ -29,10 +29,11 @@
 * 👍 Brittany Gregory
 * 👍 Brittany Gregory
 
-## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍3  
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍3  ❓1
 * 👍 Brittany Gregory
 * 👍 Christopher Stanley
 * 👍 Dawn Marie Rubio
+* ❓ Kelly Warner-King
 
 ## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍1  
 * 👍 Kelly Warner-King

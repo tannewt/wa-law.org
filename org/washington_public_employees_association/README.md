@@ -75,6 +75,9 @@
 
 ## [SB 5141](/bill/2023-24/sb/5141/) - WMS bargaining 👍2  
 
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+* ❓💵 Seamus Petrie
+
 ## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I 👍2  
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1  

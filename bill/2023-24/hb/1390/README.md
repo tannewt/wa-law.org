@@ -10,7 +10,7 @@
 
 ## Meetings
 ### Fri 03/24 08:00 AM - Environment, Energy & Technology (ENET): 2SHB 1390 District energy systems
-#### 7 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Janette Plunkett - Seattle Chair, Washington Higher Education Sustainability Coalition
 * Ash Awad - McKinstry

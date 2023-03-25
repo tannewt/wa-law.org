@@ -47,7 +47,7 @@
 
 ## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records 👍2  
 
-## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses 👍1  
+## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses 👍2  
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍2  
 

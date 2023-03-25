@@ -2,6 +2,9 @@
 
 ## [HB 1106](/bill/2023-24/hb/1106/) - Unemployment/voluntary 👍1  
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
+* 👍 Kati Durkin
+
 ## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍2  
 
 ## [HB 1187](/bill/2023-24/hb/1187/) - Employee-union privilege 👍1  

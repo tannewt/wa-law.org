@@ -1,6 +1,7 @@
 # Food Lifeline
 
-## [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍3  
+## [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍4  
+* 👍💵 Aaron Czyzewski
 * 👍💵 Aaron Czyzewski
 * 👍💵 Aaron Czyzewski
 * 👍💵 Aaron Czyzewski
@@ -15,7 +16,7 @@
 
 ## [HB 1218](/bill/2023-24/hb/1218/) - Caseload forecast/tax credit 👍1  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍5  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍6  
 
 ## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍2  
 

@@ -16,7 +16,7 @@
 ## [HB 1313](/bill/2023-24/hb/1313/) - Health care afford./medicare 👍1  
 * 👍 Carina Tong
 
-## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses 👍1  
+## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses 👍2  
 
 ## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits  👎2 
 

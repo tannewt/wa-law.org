@@ -14,14 +14,14 @@
 
 ## Meetings
 ### Fri 03/24 08:00 AM - Environment, Energy & Technology (ENET): 2SHB 1433 Energy labeling/residential
-#### 135 👍 - Pro
+#### 153 👍 - Pro
 Testifying:
 * Court Olson - Shift Zero and also People for Climate Action
 * David Godfrey - People for Climate Action
 * Dr. Pamela Braff - [City of Olympia](/org/city_of_olympia/)
 * Neal Black - Kirkland City Councilmember
 
-#### 18 👎 - Con
+#### 25 👎 - Con
 Testifying:
 * Daimon Doyle
 

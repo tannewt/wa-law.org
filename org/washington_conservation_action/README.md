@@ -61,6 +61,8 @@
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management 👍1  
 * 👍💵 Clifford Traisman
 
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
+
 ## [SB 5192](/bill/2023-24/sb/5192/) - Derelict vessel appeals 👍1  
 
 ## [SB 5247](/bill/2023-24/sb/5247/) - Climate-ready communities 👍1  

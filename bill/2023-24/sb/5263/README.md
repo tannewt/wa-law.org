@@ -13,13 +13,14 @@
 
 ## Meetings
 ### Fri 03/24 08:00 AM - Health Care & Wellness (HCW): 2SSB 5263 Psilocybin
-#### 23 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Corey Champagne - Veteran
 * Jesse Gould - Heroic Hearts Project
 * Matthew Griffin - Veteran
 * Jojo Teutsch
+* Angela Barron
 * Dr. Mason Marks
 * Kody Zalewski - [Psychedelic Medicine Alliance of Washington](/org/psychedelic_medicine_alliance_of_washington/)
 

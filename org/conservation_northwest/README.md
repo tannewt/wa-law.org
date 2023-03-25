@@ -16,6 +16,10 @@
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management 👍1  
 
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  ❓1
+* ❓ Kurt Hellmann
+* 👍💵 Paula Swedeen
+
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍1  
 
 ## [SB 5314](/bill/2023-24/sb/5314/) - Electric bicycle use  👎1 

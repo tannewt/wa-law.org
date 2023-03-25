@@ -3,6 +3,8 @@
 ## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 * 👍💵 Lara Zarowsky
 
+## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses 👍1  
+
 ## [HB 1640](/bill/2023-24/hb/1640/) - Pardons and commutations 👍1  
 * 👍💵 Lara Zarowsky
 

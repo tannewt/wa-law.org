@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31135&aId=154395&caId=22450&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31135&aId=154395&caId=22450&tId=4)
 
-#### 15 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Demas Nesterenko - SEIU775
 * Shelly Willis - [Family Education and Support Services](/org/family_education_and_support_services/)
@@ -34,10 +34,21 @@ Testifying:
 * Rudy Salakory - Friends of the Columbia Gorge
 * 💵Rose Feliciano - Catholic Charities Eastern Washington, First5Fundamentals
 * 💵Christina Wong - Northwest Harvest
+* Ryan Mello - Pierce County Council, District 4
+* Larry Jefferson - Washington State Office of Public Defense
+* 💵Luis Moscoso - Washington State Office of Public Defense's Advisory Committee
+* Naoko Inoue Shatz - International Families Justice Coalition
+* Kimberly Hickman - [Washington Continuing Care Residents Association](/org/washington_continuing_care_residents_association/)
+* Shelly Hughes - Nursing Home worker
+* Elizabeth Maupin
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* Josephine Tamayo Murray - Communities of Concern Commission
+* Mike Tulee - United Indians of All Tribes Foundation/Communities of Concern Commission
+* Pastor Carey Anderson - First AME Church/Communities of Concern Commission
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 50 ❓ - Other
+#### 84 ❓ - Other
 Testifying:
 * 💵Patricia Hunter - WA State LTC Ombuds
 * 💵Melanie Smith - [Committee for Children](/org/committee_for_children/)
@@ -88,6 +99,40 @@ Testifying:
 * John Boyd
 * 💵Kia Franklin - Washington Executive Director
 * 💵Bob Cooper - WA Association of Drug Courts
+* 💵Sean Graham - Washington State Medical Association
+* Michelle O’Byrne
+* Hollianne Monson - Catholic Community Services- Volunteer Services
+* Tom Carroll - Catholic Charities of Eastern Washington- Volunteer Services
+* 💵Susan Barbeau - First 5 FUNdamentals
+* Shawn Latham - Allies in Advocacy
+* Jessica Renner - Self Advocates in Leadership (SAIL)
+* 💵Anna Nepomuceno - NAMI Washington
+* Sonya Shine
+* Rob Huff - Tacoma Pierce County Coalition to End Homelessness
+* Kathy Mulkerin - Board Member, Walla Walla Public Schools
+* Keith Swanson - President, Walla Walla Valley Education Association
+* Gregory King - Washington MESA
+* Paula Reed - [Children's Advocacy Centers of Washington](/org/children's_advocacy_centers_of_washington/)
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Peter Shapiro
+* HyeEun Park - BIPOC ED Coalition
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* Jessie Friedmann - YouthCare
+* 💵Ann Vining - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* Maya Morales
+* Sol Villarreal
+* Laura Saunders - WACCRA
+* Laura Saunders - WACCRA
+* Jeri Moomaw - WASE Forward
+* Lonnie Johns-Brown
+* 💵Christine Mahler - Washington Wildlife and Recreation Coalition
+* Brenda Rodriguez - WA Immigrant Solidarity Network
+* Israel Gonzalez - WA Immigrant Solidarity Network
+* Michael Byun - Asian Counseling Referral Service
+* 💵Carolyn Brotherton - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* Betsy Robblee - The Mountaineers
+* Stephanie Neil - SDMC
+* Julie Patino - A Way Home Washington
 
 ### Wed 01/11 04:00 PM - Appropriations (APP): HB 1140 Operating budget
 #### 0 👍 - Pro

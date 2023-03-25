@@ -76,6 +76,9 @@
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 * 👍💵 Kristin Ang
 
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+* ❓ Elizabeth Dickinson
+
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍6  
 
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍1  

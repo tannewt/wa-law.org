@@ -13,6 +13,9 @@
 * 👍 Suzanne Dale Estey
 * 👍 Suzanne Dale Estey
 
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget  👎1 
+* 👎 Suzanne Dale Estey
+
 ## [SB 5229](/bill/2023-24/sb/5229/) - Site readiness grants 👍3  
 * 👍 Suzanne Dale Estey
 

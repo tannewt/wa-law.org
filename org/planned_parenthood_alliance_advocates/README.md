@@ -53,6 +53,9 @@
 
 ## [SB 5179](/bill/2023-24/sb/5179/) - Death with dignity act 👍2  
 
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+* ❓💵 Courtney Normand
+
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
 * 👍💵 Nicole Kern
 

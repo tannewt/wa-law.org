@@ -8,7 +8,7 @@
 
 ## [HB 1008](/bill/2023-24/hb/1008/) - Plan 2 members/insurance 👍1  
 
-## [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍1  
+## [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍2  
 
 ## [HB 1015](/bill/2023-24/hb/1015/) - Paraeducator requirements 👍3  
 * 👍💵 Nasue Nishida
@@ -47,7 +47,7 @@
 
 ## [HB 1107](/bill/2023-24/hb/1107/) - "Master" and "servant" terms 👍1  
 
-## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍3  
+## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍4  
 * 👍💵 Julie Salvi
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍5  

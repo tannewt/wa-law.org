@@ -8,19 +8,17 @@
 
 ## Meetings
 ### Fri 03/24 10:30 AM - Labor & Workplace Standards (LAWS): SB 5725 Airline cabin crews
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31123&aId=153948&caId=22374&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31123&aId=153948&caId=22374&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31123&aId=153948&caId=22374&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31123&aId=153948&caId=22374&tId=4)
-
-#### 3 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Cameron Cloar-Zavaleta - [Alaska Airlines](/org/alaska_airlines/)
 * Megan Ouellette - [Alaska Airlines](/org/alaska_airlines/)
 * Papia Gambelin - United Airlines
+* Jeffrey Peterson - Association of Flight Attendants-CWA, Alaska Airlines Master Executive Council
+* Kimberley Chaput - Association of Flight Attendants-CWA, AFL-CIO
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Jason Rittereiser
 
 #### 1 ❓ - Other
 Testifying:

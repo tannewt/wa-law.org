@@ -26,6 +26,9 @@
 
 ## [SB 5079](/bill/2023-24/sb/5079/) - Tuition establishment date 👍1  
 
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+* ❓💵 Puneet Birk
+
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍1  
 
 ## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍1  

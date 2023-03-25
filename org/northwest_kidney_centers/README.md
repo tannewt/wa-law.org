@@ -5,5 +5,8 @@
 
 ## [HB 1690](/bill/2023-24/hb/1690/) - Kidney disease centers 👍1  
 
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+* ❓💵 Jessica Hostetler
+
 ## [SB 5569](/bill/2023-24/sb/5569/) - Kidney disease centers 👍2  
 * 👍💵 Jessica Hostetler

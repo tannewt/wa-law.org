@@ -16,6 +16,8 @@
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management 👍1  
 
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
+
 ## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍3  
 * 👍 Fred Felleman
 * 👍 Ryan Calkins

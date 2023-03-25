@@ -18,7 +18,8 @@
 ## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍2  ❓1
 * ❓ Deeann Puffert
 
-## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓2
+* ❓💵 Emily Murphy
 * ❓💵 Emily Murphy
 
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍2  
