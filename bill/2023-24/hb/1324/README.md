@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31042&aId=153561&caId=22461&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31042&aId=153561&caId=22461&tId=4)
 
-#### 266 👍 - Pro
+#### 387 👍 - Pro
 Testifying:
 * Anthony Smith - Green Hill School's Capitol Classroom
 * Caya Lenay - Green Hill School Capitol Classroom
@@ -30,9 +30,11 @@ Testifying:
 * Judge André Peñalver
 * Martina Kartman - Collective Justice
 
-#### 1 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 
 ### Mon 01/23 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1324 Prior juvenile offenses
 #### 329 👍 - Pro

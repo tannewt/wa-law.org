@@ -12,6 +12,19 @@
 * [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Criminal Justice — Quaker Voice](https://www.quakervoicewa.org/criminal-justice/#:~:text=SB 5046)
 
 ## Meetings
+### Thu 03/30 01:30 PM - Appropriations (APP): 2SSB 5046 Postconviction counsel
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154623&caId=22494&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154623&caId=22494&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154623&caId=22494&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154623&caId=22494&tId=4)
+
+#### 10 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 03/15 08:00 AM - Civil Rights & Judiciary (CRJ): 2SSB 5046 Postconviction counsel
 #### 151 👍 - Pro
 Testifying:

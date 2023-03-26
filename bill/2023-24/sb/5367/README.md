@@ -10,6 +10,19 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Meetings
+### Fri 03/31 01:30 PM - Appropriations (APP): E2SSB 5367 Products containing THC
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154647&caId=22491&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154647&caId=22491&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154647&caId=22491&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154647&caId=22491&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 03/13 01:30 PM - Regulated Substances & Gaming (RSG): E2SSB 5367 Products containing THC
 #### 31 👍 - Pro
 Testifying:

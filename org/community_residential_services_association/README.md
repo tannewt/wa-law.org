@@ -1,5 +1,8 @@
 # Community Residential Services Association
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
+* ❓💵 Melissa Johnson
+
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍4  
 * 👍 Scott Livengood
 

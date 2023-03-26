@@ -16,6 +16,19 @@
 * [The Spokesman-Review](/org/the_spokesman-review/) - [State Senate passes safe staffing standard, in compromise between hospitals, unions | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/08/state-senate-passes-safe-staffing-standard-in-comp/#:~:text=Senate Bill 5236)
 
 ## Meetings
+### Thu 03/30 01:30 PM - Appropriations (APP): E2SSB 5236 Hospital staffing standards
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154630&caId=22500&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154630&caId=22500&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154630&caId=22500&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154630&caId=22500&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 03/15 08:00 AM - Labor & Workplace Standards (LAWS): E2SSB 5236 Hospital staffing standards
 #### 2122 👍 - Pro
 Testifying:

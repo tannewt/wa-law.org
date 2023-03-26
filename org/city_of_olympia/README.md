@@ -65,7 +65,8 @@
 
 ## [HB 1817](/bill/2023-24/hb/1817/) - Housing gap voucher pilot 👍1  
 
-## [SB 5001](/bill/2023-24/sb/5001/) - Public facility districts 👍1  
+## [SB 5001](/bill/2023-24/sb/5001/) - Public facility districts 👍2  
+* 👍 Paul Simmons
 
 ## [SB 5039](/bill/2023-24/sb/5039/) - Wildfires/electric utilities 👍1  
 

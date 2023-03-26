@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31135&aId=154395&caId=22450&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31135&aId=154395&caId=22450&tId=4)
 
-#### 26 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * Demas Nesterenko - SEIU775
 * Shelly Willis - [Family Education and Support Services](/org/family_education_and_support_services/)
@@ -45,10 +45,14 @@ Testifying:
 * Josephine Tamayo Murray - Communities of Concern Commission
 * Mike Tulee - United Indians of All Tribes Foundation/Communities of Concern Commission
 * Pastor Carey Anderson - First AME Church/Communities of Concern Commission
+* Mindy Woods
+* 💵Kurt Spiegel - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
-#### 2 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Debi Maloney
 
-#### 84 ❓ - Other
+#### 88 ❓ - Other
 Testifying:
 * 💵Patricia Hunter - WA State LTC Ombuds
 * 💵Melanie Smith - [Committee for Children](/org/committee_for_children/)
@@ -133,6 +137,10 @@ Testifying:
 * Betsy Robblee - The Mountaineers
 * Stephanie Neil - SDMC
 * Julie Patino - A Way Home Washington
+* Ren Autrey - OutsidersInn.org
+* Sara Robbins - Seattle / King County Coalition on Homelessness
+* Cathy Knight - WA Association of Area Agencies on Aging
+* 💵Melissa Johnson - [Community Residential Services Association](/org/community_residential_services_association/)
 
 ### Wed 01/11 04:00 PM - Appropriations (APP): HB 1140 Operating budget
 #### 0 👍 - Pro

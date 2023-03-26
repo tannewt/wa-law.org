@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31203&aId=154489&caId=22452&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31203&aId=154489&caId=22452&tId=4)
 
-#### 23 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Laurie Lippold - Partners for Our Children
 * 💵Erica Hallock - Start Early Washington
@@ -42,10 +42,13 @@ Testifying:
 * Josephine Tamayo Murray - Communities of Concern Commission
 * Pastor Carey Anderson - First AME Church/Communities of Concern Commission
 * 💵Nick Federici - [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/)
+* Alyce Warren - Parkland and Spanaway Community Associations
+* Julie Collison - Parkland and Spanaway Community Associations
+* Marianne Lincoln - Parkland and Spanaway Community Associations
 
 #### 0 👎 - Con
 
-#### 15 ❓ - Other
+#### 16 ❓ - Other
 Testifying:
 * Linda Grant - [Evergreen Recovery Centers](/org/evergreen_recovery_centers/)
 * Jim Theofelis - NorthStar Advocates
@@ -62,6 +65,7 @@ Testifying:
 * Yvonne Kraus - [Evergreen Mountain Bike Alliance](/org/evergreen_mountain_bike_alliance/)
 * Rosalinda Guillen - Community to Community Development
 * Sean Hopps - Community to Community Development
+* Rob Huff
 
 ### Thu 01/12 01:30 PM - Capital Budget (CB): HB 1147 Capital budget
 #### 0 👍 - Pro

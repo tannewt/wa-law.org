@@ -27,6 +27,8 @@
 ## [HB 1137](/bill/2023-24/hb/1137/) - Return-to-work opportunities 👍1  
 * 👍 ROSE GUNDERSEN
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
+
 ## [HB 1152](/bill/2023-24/hb/1152/) - Consumer products/gender   ❓1
 * ❓ ROSE GUNDERSEN
 
