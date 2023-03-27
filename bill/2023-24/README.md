@@ -1,11 +1,5 @@
 # 2023-24 Bills
 ## Upcoming hearings
-* [LAW Mon 03/27 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31042) [HB 1636](hb/1636) - Foreclosure/common interest 11👍 0👎 0❓
-* [LAW Mon 03/27 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31042) [HB 1335](hb/1335) - Personal identifying info. 25👍 1👎 0❓
-* [LAW Mon 03/27 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31042) [HB 1766](hb/1766) - Protection orders/hope cards 19👍 0👎 0❓
-* [LAW Mon 03/27 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31042) [HB 1112](hb/1112) - Negligent driving 18👍 2👎 0❓
-* [LAW Mon 03/27 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31042) [HB 1493](hb/1493) - Impaired driving 10👍 1👎 0❓
-* [LAW Mon 03/27 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31042) [HB 1324](hb/1324) - Prior juvenile offenses 716👍 9👎 5❓
 * [APP Mon 03/27 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31135) [HB 1140](hb/1140) - Operating budget 29👍 3👎 88❓
 * [TR Mon 03/27 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31142) [HB 1125](hb/1125) - Transportation budget 19👍 5👎 25❓
 * [TRAN Mon 03/27 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31169) [HB 1243](hb/1243) - Muni. airport commissions 6👍 12👎 0❓
@@ -257,6 +251,7 @@
 * [HB 1460](hb/1460) - DNR land 1807👍 17👎 14❓ - S Ways & Means
 * [HB 1129](hb/1129) - Mobile home community sales 342👍 55👎 0❓ - H Rules R
 * [SB 5217](sb/5217) - Musculoskeletal injuries/L&I 943👍 323👎 28❓ - H Approps
+* [HB 1324](hb/1324) - Prior juvenile offenses 716👍 9👎 5❓ - S Law & Justice
 * [HB 1392](hb/1392) - Electronics repair 914👍 50👎 4❓ - S Environment, En
 * [HB 1390](hb/1390) - District energy systems 160👍 324👎 8❓ - S Environment, En
 * [SB 5112](sb/5112) - Voter registration 693👍 466👎 2❓ - H Transportation
@@ -1790,6 +1785,7 @@
 * [HB 1022](hb/1022) - Support & services levies 21👍 0👎 1❓ - H Rules R
 * [HB 1043](hb/1043) - Records/comm. associations 6👍 0👎 0❓ - S Rules 2
 * [HB 1102](hb/1102) - Judge pro tempore compen. 5👍 1👎 0❓ - H Spkr Signed
+* [HB 1112](hb/1112) - Negligent driving 18👍 2👎 0❓ - S Law & Justice
 * [HB 1163](hb/1163) - Leasehold tax/arenas 8👍 1👎 0❓ - S Ways & Means
 * [HB 1235](hb/1235) - WDFW licensing 11👍 0👎 0❓ - S Ag/Water/Natura
 * [HB 1249](hb/1249) - Retail cannabis products 5👍 1👎 0❓ - H Rules R
@@ -1799,6 +1795,7 @@
 * [HB 1327](hb/1327) - Dental school faculty 6👍 0👎 0❓ - H Rules C
 * [HB 1362](hb/1362) - Reports 11👍 0👎 0❓ - S SGEDPA
 * [HB 1481](hb/1481) - Tribal peace officers/LEOFF 38👍 0👎 0❓ - S 2nd Reading
+* [HB 1493](hb/1493) - Impaired driving 10👍 1👎 0❓ - S Law & Justice
 * [HB 1572](hb/1572) - Recovery of taxes/venue 9👍 0👎 0❓ - S Rules 2
 * [HB 1585](hb/1585) - Local infra. project areas 14👍 0👎 1❓ - H Finance
 * [HB 1637](hb/1637) - Unclaimed property fees 6👍 0👎 0❓ - H Rules R
@@ -2027,6 +2024,7 @@
 * [HB 1262](hb/1262) - Lump sum reporting system 5👍 0👎 0❓ - S Rules 2
 * [HB 1288](hb/1288) - Dept. of veterans affairs 8👍 1👎 0❓ - S State Govt & El
 * [HB 1301](hb/1301) - License review and reporting 3👍 0👎 2❓ - S Rules 2
+* [HB 1335](hb/1335) - Personal identifying info. 25👍 1👎 0❓ - S Law & Justice
 * [HB 1361](hb/1361) - State employment 5👍 0👎 0❓ - S Rules 2
 * [HB 1364](hb/1364) - Nautical NW license plate 2👍 0👎 0❓ - H Rules C
 * [HB 1419](hb/1419) - County treasurer duties 21👍 0👎 0❓ - S 2nd RdConsCal
@@ -2037,6 +2035,7 @@
 * [HB 1577](hb/1577) - Municipal officers/contracts 3👍 0👎 0❓ - S Rules 2
 * [HB 1682](hb/1682) - Auto theft authority account 7👍 0👎 0❓ - S 2nd Reading
 * [HB 1731](hb/1731) - Short-term rentals/liquor 3👍 2👎 1❓ - S Rules 2
+* [HB 1766](hb/1766) - Protection orders/hope cards 19👍 0👎 0❓ - S Law & Justice
 * [HB 1824](hb/1824) - Shooting sweepstakes 2👍 0👎 1❓ - S Rules 2
 * [SB 5004](sb/5004) - Business corporations 2👍 0👎 0❓ - H Passed 3rd
 * [SB 5041](sb/5041) - Motor carrier safety 7👍 0👎 1❓ - H Passed 3rd
@@ -2072,6 +2071,7 @@
 * [HB 1471](hb/1471) - State procurement procedures 5👍 0👎 0❓ - S Rules 2
 * [HB 1505](hb/1505) - Alternative jet fuel 58👍 144👎 5❓ - H Env & Energy
 * [HB 1577](hb/1577) - Municipal officers/contracts 3👍 0👎 0❓ - S Rules 2
+* [HB 1636](hb/1636) - Foreclosure/common interest 11👍 0👎 0❓ - S Law & Justice
 * [HB 1647](hb/1647) - Evergreen license plates 0👍 1👎 0❓ - H Rules R
 * [HB 1657](hb/1657) - Marriages by federal judges 1👍 0👎 0❓ - S Rules 2
 * [HB 1824](hb/1824) - Shooting sweepstakes 2👍 0👎 1❓ - S Rules 2

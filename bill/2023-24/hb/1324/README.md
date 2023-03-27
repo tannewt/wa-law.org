@@ -12,12 +12,6 @@
 
 ## Meetings
 ### Mon 03/27 10:30 AM - Law & Justice (LAW): EHB 1324 Prior juvenile offenses
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31042&aId=153561&caId=22461&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31042&aId=153561&caId=22461&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31042&aId=153561&caId=22461&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31042&aId=153561&caId=22461&tId=4)
-
 #### 387 👍 - Pro
 Testifying:
 * Anthony Smith - Green Hill School's Capitol Classroom

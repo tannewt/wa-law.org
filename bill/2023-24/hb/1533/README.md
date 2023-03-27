@@ -12,6 +12,7 @@
 * [The Seattle Times](/org/the_seattle_times/) - [Tired of public-records shenanigans? Contact state senators | The Seattle Times](https://www.seattletimes.com/opinion/tired-of-public-records-shenanigans-contact-state-senators/#:~:text=HB 1533)
 * [The Seattle Times](/org/the_seattle_times/) - [WA Legislature’s secrecy push undermines accountability, trust and civic knowledge | The Seattle Times](https://www.seattletimes.com/opinion/wa-legislatures-secrecy-push-undermines-accountability-trust-and-civic-knowledge/#:~:text=House Bill 1533)
 * [The Seattle Times](/org/the_seattle_times/) - [Who your child’s teacher is shouldn’t be a secret | The Seattle Times](https://www.seattletimes.com/opinion/editorials/who-your-childs-teacher-is-shouldnt-be-a-secret/#:~:text=HB 1533)
+* [The Spokesman-Review](/org/the_spokesman-review/) - [State House votes to add exemptions to the Public Records Act | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/25/state-house-votes-to-add-exemptions-to-the-public-/#:~:text=House Bill 1533)
 
 ## Meetings
 ### Tue 03/21 01:30 PM - State Government & Elections (SGE): ESHB 1533 PRA/employee information

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## Articles
+* [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [Majority of Washington Residents Support a Tax on the Ultra-Wealthy - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/majority-of-washington-residents-support-a-tax-on-the-ultra-wealthy/#:~:text=SB 5486)
 * [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/research/2023-legislative-agenda/#:~:text=SB 5486)
 * [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [PRESS RELEASE: State Lawmakers Introduce the Washington State Wealth Tax  - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/press-release-state-lawmakers-introduce-the-washington-state-wealth-tax/#:~:text=SB 5486)
 * [The Urbanist](/org/the_urbanist/) - [WALeg Wednesday Gets Wonky with Wealth Taxes and Rent Stabilization | The Urbanist](https://www.theurbanist.org/2023/01/25/waleg-wednesday-week-3/#:~:text=SB 5486)
