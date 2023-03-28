@@ -7,6 +7,9 @@
 
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
+* ❓💵 Nicole Kern
+
 ## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍1  
 
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍2  
@@ -18,6 +21,8 @@
 ## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍1  
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
+
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
 
 ## [HB 1251](/bill/2023-24/hb/1251/) - Water system notices 👍1  
 
@@ -59,9 +64,10 @@
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
 * 👍💵 Nicole Kern
 
-## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍4  
+## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍5  
 * 👍💵 Courtney Normand
 * 👍💵 Alexa Brenner
+* 👍💵 Nicole Kern
 * 👍💵 Nicole Kern
 
 ## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍1  

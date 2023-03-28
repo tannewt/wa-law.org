@@ -2,6 +2,8 @@
 
 ## [HB 1044](/bill/2023-24/hb/1044/) - Capital assistance/schools 👍1  
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍2  ❓1
+
 ## [HB 1146](/bill/2023-24/hb/1146/) - Dual credit program notice 👍1  
 
 ## [HB 1228](/bill/2023-24/hb/1228/) - Dual & tribal language edu. 👍1  

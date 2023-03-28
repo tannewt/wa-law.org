@@ -192,7 +192,7 @@
 * 👍💵 Cindy Black
 * 👍💵 Cindy Black
 
-## [SB 5208](/bill/2023-24/sb/5208/) - Online voter registration 👍5  
+## [SB 5208](/bill/2023-24/sb/5208/) - Online voter registration 👍6  
 * 👍💵 Cindy Black
 * 👍💵 Cindy Black
 

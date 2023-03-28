@@ -103,7 +103,7 @@
 ## [SB 5594](/bill/2023-24/sb/5594/) - Fully autonomous vehicles   ❓1
 * ❓ Chris Long
 
-## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍1  
+## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍2  
 
 ## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍1  
 * 👍 Lacey Jane Wolfe

@@ -12,6 +12,8 @@
 
 ## [HB 1200](/bill/2023-24/hb/1200/) - Employee information/unions 👍1  
 
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
+
 ## [HB 1274](/bill/2023-24/hb/1274/) - Child malnutrition guide 👍1  
 
 ## [HB 1397](/bill/2023-24/hb/1397/) - Dependency  👎1 

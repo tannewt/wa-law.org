@@ -7,3 +7,5 @@
 ## [HB 1683](/bill/2023-24/hb/1683/) - Dental only coverage 👍2  
 * 👍💵 Carolyn Logue
 * 👍💵 Carolyn Logue
+
+## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I  👎1 

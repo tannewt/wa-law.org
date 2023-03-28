@@ -34,6 +34,9 @@
 ## [HB 1117](/bill/2023-24/hb/1117/) - Power supply inadequacy 👍1  
 * 👍💵 Peter Godlewski
 
+## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget   ❓1
+* ❓ Mike Ennis
+
 ## [HB 1129](/bill/2023-24/hb/1129/) - Mobile home community sales  👎1 
 
 ## [HB 1133](/bill/2023-24/hb/1133/) - Detached ADUs 👍1  
@@ -252,7 +255,7 @@
 
 ## [HB 1738](/bill/2023-24/hb/1738/) - Universal comm. services 👍1  
 
-## [HB 1742](/bill/2023-24/hb/1742/) - Nontax statutes/DOR 👍1  
+## [HB 1742](/bill/2023-24/hb/1742/) - Nontax statutes/DOR 👍2  
 
 ## [HB 1744](/bill/2023-24/hb/1744/) - Charter school oversight 👍1  
 
@@ -302,7 +305,7 @@
 ## [SB 5093](/bill/2023-24/sb/5093/) - Climate response strategy   ❓1
 * ❓💵 Peter Godlewski
 
-## [SB 5096](/bill/2023-24/sb/5096/) - Employee ownership 👍3  
+## [SB 5096](/bill/2023-24/sb/5096/) - Employee ownership 👍4  
 
 ## [SB 5103](/bill/2023-24/sb/5103/) - Medicaid patients/discharge 👍2  
 
@@ -408,7 +411,7 @@
 
 ## [SB 5442](/bill/2023-24/sb/5442/) - Charter schools/enrichment 👍1  
 
-## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍3  
+## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍4  
 * 👍 Kris Johnson
 * 👍 Mike Ennis
 

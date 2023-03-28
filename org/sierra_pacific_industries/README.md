@@ -2,7 +2,7 @@
 
 ## [HB 1068](/bill/2023-24/hb/1068/) - Injured worker medical exams  👎1 
 
-## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials  👎1 
+## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials  👎2 
 
 ## [HB 1342](/bill/2023-24/hb/1342/) - Embodied carbon reductions 👍1  
 

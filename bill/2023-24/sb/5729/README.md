@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [WA Legislature aims to lower insulin costs, amid federal inaction | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-legislature-aims-to-lower-insulin-costs-amid-federal-inaction/#:~:text=Senate Bill 5729)

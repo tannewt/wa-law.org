@@ -6,7 +6,8 @@
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
-## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍4  
+## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍5  
+* 👍💵 Ramona Hattendorf
 * 👍💵 Ramona Hattendorf
 * 👍💵 Ramona Hattendorf
 
@@ -18,6 +19,8 @@
 
 ## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
 * ❓💵 Ramona Hattendorf
+
+## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
 
 ## [HB 1168](/bill/2023-24/hb/1168/) - Prenatal substance exposure 👍1  
 

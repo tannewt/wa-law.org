@@ -4,6 +4,9 @@
 
 ## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍1  
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
+* 👍 Lynda Hall
+
 ## [HB 1188](/bill/2023-24/hb/1188/) - Child welfare services/DD 👍4  
 * 👍💵 Daniel Lugo
 * 👍💵 Daniel Lugo

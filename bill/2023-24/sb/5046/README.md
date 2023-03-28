@@ -19,11 +19,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154623&caId=22494&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154623&caId=22494&tId=4)
 
-#### 10 👍 - Pro
+#### 29 👍 - Pro
+Testifying:
+* Larry Jefferson - Washington State Office of Public Defense
+* Vidal Vincent
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Wed 03/15 08:00 AM - Civil Rights & Judiciary (CRJ): 2SSB 5046 Postconviction counsel
 #### 151 👍 - Pro

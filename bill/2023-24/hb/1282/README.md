@@ -16,11 +16,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31167&aId=154585&caId=22477&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31167&aId=154585&caId=22477&tId=4)
 
-#### 2 👍 - Pro
+#### 167 👍 - Pro
+Testifying:
+* Hanna Waterstrat - WA department of commerce
+* 💵Jessica Koski - BlueGreen Alliance
+* 💵John Traynor - [Washington State Labor Council](/org/washington_state_labor_council/)
+* Max Puchtel - American Institute of Steel Construction
 
-#### 0 👎 - Con
+#### 209 👎 - Con
+Testifying:
+* 💵Brandon Houskeeper - [American Wood Council](/org/american_wood_council/)
+* mary Warren
+* Tom Davis - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 03/15 08:00 AM - Environment, Energy & Technology (ENET): ESHB 1282 Public building materials
 #### 333 👍 - Pro

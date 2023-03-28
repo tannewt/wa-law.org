@@ -11,15 +11,18 @@
 
 ## Meetings
 ### Tue 03/28 08:00 AM - Finance (FIN): E2SSB 5001 Public facility districts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31145&aId=154617&caId=22479&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31145&aId=154617&caId=22479&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31145&aId=154617&caId=22479&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31145&aId=154617&caId=22479&tId=4)
-
-#### 3 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Paul Simmons - [City of Olympia](/org/city_of_olympia/)
+* Frank Kuntz - Mayor, City of Wenatchee
+* Steven Wilkinson - [Wenatchee Valley Chamber of Commerce](/org/wenatchee_valley_chamber_of_commerce/)
+* Richard DeRock - Link Transit - Chelan and Douglas counties
+* 💵Matthew Hepner - East Wenatchee city council
+* Lindsay Sutton
+* Trenten Calloway
+* 💵Blake Baldwin - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
+* Sasha Sleiman - Board of Chelan County Commissioners
+* Steve Maher - Our Valley Our Future nonprofit in Wenatchee
 
 #### 1 👎 - Con
 Testifying:

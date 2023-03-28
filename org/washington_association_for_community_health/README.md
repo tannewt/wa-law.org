@@ -1,6 +1,12 @@
 # Washington Association for Community Health
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
+* ❓💵 Courtney Smith
+
+## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
+* 👍💵 Courtney Smith
+
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍3  
 
 ## [HB 1251](/bill/2023-24/hb/1251/) - Water system notices 👍1  
 

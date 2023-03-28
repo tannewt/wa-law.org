@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Thu 03/09 08:00 AM - Community Safety, Justice, & Reentry (CSJR): SSB 5033 Custodial sexual misconduct

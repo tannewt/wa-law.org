@@ -24,7 +24,7 @@
 
 ## [HB 1218](/bill/2023-24/hb/1218/) - Caseload forecast/tax credit 👍1  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍4  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍5  
 
 ## [HB 1251](/bill/2023-24/hb/1251/) - Water system notices 👍1  
 

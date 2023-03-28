@@ -77,6 +77,9 @@
 
 ## [HB 1146](/bill/2023-24/hb/1146/) - Dual credit program notice 👍2  
 
+## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
+* 👍 Jared Mason-Gere
+
 ## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍2  
 
 ## [HB 1152](/bill/2023-24/hb/1152/) - Consumer products/gender 👍1  
@@ -117,7 +120,7 @@
 
 ## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍3  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍6  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍7  
 * 👍 Roni Cook
 * 👍💵 Nasue Nishida
 * 👍💵 Simone Boe

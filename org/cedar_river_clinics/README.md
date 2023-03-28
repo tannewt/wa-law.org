@@ -1,5 +1,8 @@
 # Cedar River Clinics
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓2
+* ❓ Mercedes Sanchez
+
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍4  
 * 👍 Dr. Anuj Khattar
 * 👍 Dr. Anuj Khattar

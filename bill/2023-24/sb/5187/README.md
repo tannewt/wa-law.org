@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Articles
 * [The Urbanist](/org/the_urbanist/) - [The Legislative Budget Season Begins in Olympia | The Urbanist](https://www.theurbanist.org/2023/03/22/the-legislative-budget-season-begins-in-olympia/#:~:text=SB 5187)

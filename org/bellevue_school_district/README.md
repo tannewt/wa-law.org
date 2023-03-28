@@ -35,7 +35,7 @@
 
 ## [HB 1692](/bill/2023-24/hb/1692/) - Student advisory groups 👍1  
 
-## [HB 1701](/bill/2023-24/hb/1701/) - Institutional ed. programs 👍2  
+## [HB 1701](/bill/2023-24/hb/1701/) - Institutional ed. programs 👍3  
 
 ## [HB 1714](/bill/2023-24/hb/1714/) - Financial literacy grants 👍2  
 

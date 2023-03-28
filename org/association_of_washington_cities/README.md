@@ -22,6 +22,8 @@
 ## [HB 1080](/bill/2023-24/hb/1080/) - Body worn cameras 👍1  
 * 👍💵 Lindsey Hueer
 
+## [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority 👍1  
+
 ## [HB 1086](/bill/2023-24/hb/1086/) - Community org. contracts 👍1  
 
 ## [HB 1099](/bill/2023-24/hb/1099/) - Public works wages   ❓1
@@ -31,6 +33,9 @@
 * ❓💵 Carl Schroeder
 * ❓💵 Carl Schroeder
 * ❓💵 Carl Schroeder
+
+## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget 👍1  
+* 👍 Brandy DeLange
 
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍2  
 * 👍💵 Carl Schroeder
@@ -211,7 +216,7 @@
 
 ## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
 
-## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍2  
+## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍3  
 
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1  
 

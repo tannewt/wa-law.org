@@ -13,7 +13,9 @@
 
 ## [SB 5033](/bill/2023-24/sb/5033/) - Custodial sexual misconduct 👍1  
 
-## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍2  
+## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍1  
+
+## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍3  
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 
@@ -21,7 +23,7 @@
 
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍1  
 
-## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍3  
+## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍4  
 
 ## [SB 5314](/bill/2023-24/sb/5314/) - Electric bicycle use  👎1 
 

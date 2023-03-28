@@ -6,7 +6,7 @@
 
 ## [HB 1056](/bill/2023-24/hb/1056/) - Postretirement employment 👍2  
 
-## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍3  
+## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍4  
 
 ## [HB 1113](/bill/2023-24/hb/1113/) - Prof. educator reprimands 👍1  
 
@@ -18,7 +18,7 @@
 
 ## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍1  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍3  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍4  
 
 ## [HB 1273](/bill/2023-24/hb/1273/) - High school and beyond plans   ❓1
 
@@ -89,7 +89,7 @@
 
 ## [SB 5527](/bill/2023-24/sb/5527/) - Graduation pathway options 👍1  
 
-## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍1  
+## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍2  
 
 ## [SB 5617](/bill/2023-24/sb/5617/) - Career & tech. ed. courses 👍1  
 

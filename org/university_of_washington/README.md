@@ -12,7 +12,13 @@
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
 * 👍 Jennifer Stuber
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
+* 👍 Joe Dacca
+
 ## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer  👎1 
+
+## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget   ❓1
+* ❓💵 Morgan Hickel
 
 ## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍1  
 

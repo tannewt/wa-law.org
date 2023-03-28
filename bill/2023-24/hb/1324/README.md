@@ -12,7 +12,7 @@
 
 ## Meetings
 ### Mon 03/27 10:30 AM - Law & Justice (LAW): EHB 1324 Prior juvenile offenses
-#### 387 👍 - Pro
+#### 713 👍 - Pro
 Testifying:
 * Anthony Smith - Green Hill School's Capitol Classroom
 * Caya Lenay - Green Hill School Capitol Classroom
@@ -24,9 +24,11 @@ Testifying:
 * Judge André Peñalver
 * Martina Kartman - Collective Justice
 
-#### 2 👎 - Con
+#### 16 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
+* 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 3 ❓ - Other
 

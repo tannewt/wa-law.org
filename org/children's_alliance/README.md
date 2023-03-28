@@ -6,13 +6,15 @@
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
+
 ## [HB 1168](/bill/2023-24/hb/1168/) - Prenatal substance exposure 👍2  
 
 ## [HB 1188](/bill/2023-24/hb/1188/) - Child welfare services/DD 👍2  
 
 ## [HB 1199](/bill/2023-24/hb/1199/) - Child care/communities 👍2  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍2  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍3  
 
 ## [HB 1251](/bill/2023-24/hb/1251/) - Water system notices 👍2  
 
@@ -50,7 +52,7 @@
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
 
-## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍3  
+## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍4  
 
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍2  
 

@@ -9,7 +9,7 @@
 
 ## Meetings
 ### Mon 03/27 10:30 AM - Law & Justice (LAW): SHB 1493 Impaired driving
-#### 5 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 * Elizabeth Gould

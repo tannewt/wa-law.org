@@ -1,6 +1,7 @@
 # United Ways of the Pacific Northwest
 
-## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
+## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍2  
+* 👍💵 Nick Federici
 * 👍💵 Nick Federici
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  

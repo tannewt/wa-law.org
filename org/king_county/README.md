@@ -48,6 +48,9 @@
 
 ## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍1  
 
+## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
+* 👍💵 Michael White
+
 ## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍3  
 
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍2  
@@ -82,7 +85,7 @@
 
 ## [HB 1234](/bill/2023-24/hb/1234/) - Civil forfeiture of animals 👍1  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍2  
 
 ## [HB 1240](/bill/2023-24/hb/1240/) - Firearms/assault weapons 👍2  
 
@@ -102,7 +105,7 @@
 
 ## [HB 1272](/bill/2023-24/hb/1272/) - Voters' pamphlets 👍1  
 
-## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍1  
+## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍2  
 
 ## [HB 1286](/bill/2023-24/hb/1286/) - Reprod. health/employers 👍1  
 
@@ -363,7 +366,7 @@
 
 ## [SB 5232](/bill/2023-24/sb/5232/) - Firearms/purchase & transfer 👍1  
 
-## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍2  
+## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍3  
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍8  
 * 👍 April Putney
@@ -371,7 +374,7 @@
 * 👍💵 Michael White
 * 👍💵 Michael White
 
-## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍3  
+## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍4  
 
 ## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍2  
 
@@ -456,7 +459,7 @@
 * ❓💵 Michael White
 * 👍💵 Michael White
 
-## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍2  
+## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍3  
 
 ## [SB 5459](/bill/2023-24/sb/5459/) - Election info. requests 👍1  
 

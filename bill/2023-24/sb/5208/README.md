@@ -19,9 +19,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154628&caId=22498&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154628&caId=22498&tId=4)
 
-#### 0 👍 - Pro
+#### 113 👍 - Pro
+Testifying:
+* Carol Sullivan - League of Women Voters of WA
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

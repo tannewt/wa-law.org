@@ -1,5 +1,8 @@
 # Washington Economic Development Association
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
+* ❓ Suzanne Dale Estey
+
 ## [HB 1231](/bill/2023-24/hb/1231/) - Site readiness grants 👍1  
 * 👍 Suzanne E Dale Estey
 

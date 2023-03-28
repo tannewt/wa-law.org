@@ -43,7 +43,7 @@
 
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍1  
 
-## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍3  
+## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍4  
 * 👍 Sam Hatzenbeler
 * 👍 Sam Hatzenbeler
 
@@ -54,7 +54,7 @@
 * 👍 Sam Hatzenbeler
 * 👍 Sam Hatzenbeler
 
-## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍3  
+## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍4  
 
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍2  
 

@@ -17,11 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154637&caId=22507&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154637&caId=22507&tId=4)
 
-#### 0 👍 - Pro
+#### 11 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* George Kerchner - PRBA - The Rechargeable Battery Association
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Eric Frederickson - Call2Recycle
 
 ### Tue 03/14 04:00 PM - Environment & Energy (ENVI): E2SSB 5144 Batteries/environment
 #### 419 👍 - Pro

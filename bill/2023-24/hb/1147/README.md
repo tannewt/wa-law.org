@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 03/28 08:00 AM - Capital Budget (CB): PSHB 1147 - Concerning the capital budget. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31203&aId=154489&caId=22452&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31203&aId=154489&caId=22452&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31203&aId=154489&caId=22452&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31203&aId=154489&caId=22452&tId=4)
-
-#### 26 👍 - Pro
+#### 105 👍 - Pro
 Testifying:
 * Laurie Lippold - Partners for Our Children
 * 💵Erica Hallock - Start Early Washington
@@ -45,10 +39,65 @@ Testifying:
 * Alyce Warren - Parkland and Spanaway Community Associations
 * Julie Collison - Parkland and Spanaway Community Associations
 * Marianne Lincoln - Parkland and Spanaway Community Associations
+* Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* Tracy Turner - Self advocate
+* Tracy Turner - Self advocate
+* Brian Shay - City of Hoquiam, City Administrator
+* Ruth Clemens - City of Aberdeen, City Administrator
+* Marissa Rathbone - Washington State School Directors' Association (WSSDA)
+* Carissa Hahn - CWA/WashTech
+* 💵Nora Selander - Western Washington University
+* 💵Mitch Denning - WA Assn of Maintenance & Operation Administrators
+* Steve DuPont - [Central Washington University](/org/central_washington_university/)
+* Charlie Brown - Tacoma Public Schools and Skills Center Directors
+* Chris Bailey - Lower Columbia Community College
+* Darrell Jennings - State Board for Community and Technical Colleges
+* Kasey Burton - Tenant Law Center
+* Maureen Fife - Tacoma/Pierce County Habitat For Humanity
+* Maya Morales
+* Mercedes White Calf - NAYA Action Fund
+* MARY DODSWORTH - Washington Recreation and Parks Association
+* 💵Ishbel Dickens - Association of Manufactured Homeowners
+* 💵Courtney Smith - [Washington Association for Community Health](/org/washington_association_for_community_health/)
+* Rashad Collins - Neighborcare Heatlh
+* Scott Richards - [The Nature Conservancy](/org/the_nature_conservancy/)
+* Jane Trafallis
+* Jasmine Zimmer- Stucky - Lower Columbia Estuary Partnership
+* Sue Marshall - Clark County Council
+* Sandy Kaiser - The Evergreen State College
+* Chandelle Frick - Pine Creek Community Restoration Long Term Recovery Organization / and Resident of Malden WA
+* Roland Middleton - Whatcom County
+* Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
+* Joe Blodgett - Yakama Nation
+* Lisa Pelly - [Trout Unlimited](/org/trout_unlimited/)
+* 💵Bill Clarke - KRD + Kittitas County + Trust for Public Land
+* Kathleen Hosfeld - Homestead Community Land Trust
+* 💵John Stuhlmiller - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* 💵Nick Federici - [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/)
+* Michael Pugsley - [Ashley House](/org/ashley_house/)
+* MARK SMITH - Housing Consortium of Everett & Snohomish County
+* AyeNay Abye - [Tubman Center for Health and Freedom](/org/tubman_center_for_health_and_freedom/)
+* 💵Michael White - [King County](/org/king_county/)
+* 💵Isaac Kastama - Clean & Prosperous Washington
+* Gael Tarleton - [City of Seattle](/org/city_of_seattle/)
+* Tyler Muench - Office of Superintendent of Public Instruction
+* Jessie Friedmann - YouthCare
+* Tracy Turner - Sail self advocate
+* Chandra Goka
+* Lori Curtis - Parkland Community Assn
 
-#### 0 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* David Ortman - ALPS; FOBL; LCBAS; MidFORC; NCCC; SLK; WW
+* Bill Adamson - South Sound Military & Communities Partnership
+* Dan Harwood - Mayor
+* Susan Cyr
+* Ryan Everett - Friends of Bumping Lake
+* Benjamin Briggs - [White Salmon Valley Pool Metropolitan Park District](/org/white_salmon_valley_pool_metropolitan_park_district/)
+* Chris Maykut - Friends of Bumping Lake
+* Jay Schwartz
 
-#### 16 ❓ - Other
+#### 63 ❓ - Other
 Testifying:
 * Linda Grant - [Evergreen Recovery Centers](/org/evergreen_recovery_centers/)
 * Jim Theofelis - NorthStar Advocates
@@ -66,6 +115,41 @@ Testifying:
 * Rosalinda Guillen - Community to Community Development
 * Sean Hopps - Community to Community Development
 * Rob Huff
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* Jessica Renner - Self Advocates in Leadership (SAIL)
+* 💵Jude Ahmed - Urban League of Metropolitan Seattle
+* Vanessa Kritzer - [Washington Association of Land Trusts](/org/washington_association_of_land_trusts/)
+* Derek Baker - Seattle Aquarium
+* 💵Katrina Johnson - Food lifeline
+* 💵Ian Goodhew - UW Medicine Behavioral Health
+* 💵Amber Carter - Port of Vancouver USA and American Waterways Operators
+* Gwen Ichinose Bagley - YMCA of Greater Seattle
+* 💵Heath Heikkila - American Forest Resource Council
+* ALLEN MILLER
+* 💵Michael Moran - Confederated Tribes of the Colville Reservation
+* John Ayers - Gladish Community and Cultural Centre
+* Kay Kirkpatrick - Highland Park Improvement Club
+* Rachel Marecle - Grand Tacoma Cinema
+* Roxanne Miles - Washington Recreation and Parks Association
+* Jerred Michael Erickson - Chairman, Confederated Tribes of the Colville Reservation
+* 💵Connor Haggerty - Washington State University
+* 💵Anna Nepomuceno - NAMI Washington
+* AMANDA DESHAZO - Tacoma-Pierce County Affordable Housing Consortium
+* Jane Palmer - [White Salmon Valley Pool Metropolitan Park District](/org/white_salmon_valley_pool_metropolitan_park_district/)
+* Bob Wise - President, Recreational Boating Assoc. of Washington
+* Samantha Fogg - Seattle Council PTSA
+* Jayden Stanton - [White Salmon Valley Pool Metropolitan Park District](/org/white_salmon_valley_pool_metropolitan_park_district/)
+* Heidi Wills - CEO of PAWS
+* Benjamin Briggs - [White Salmon Valley Pool Metropolitan Park District](/org/white_salmon_valley_pool_metropolitan_park_district/)
+* Andi Anderson - PAWS
+* Marcia Wright-Soika - FamilyWorks
+* Po Leapai
+* Jeffrey Bohman - Peninsula Trails Coalition
+* Elizabeth Dickinson
+* 💵Morgan Hickel - [University of Washington](/org/university_of_washington/)
+* david buri - Eastern Washington University
+* Jesse Simpson - Housing Development Consortium
+* Dani Madrone - American Farmland Trust
 
 ### Thu 01/12 01:30 PM - Capital Budget (CB): HB 1147 Capital budget
 #### 0 👍 - Pro

@@ -18,6 +18,9 @@
 
 ## [HB 1735](/bill/2023-24/hb/1735/) - GMA/net ecological gain 👍1  
 
+## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  
+* 👍 Lisa Janicki
+
 ## [SB 5372](/bill/2023-24/sb/5372/) - DNR land   ❓1
 * ❓ Ron Wesen
 

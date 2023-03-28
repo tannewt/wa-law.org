@@ -2,6 +2,8 @@
 
 ## [HB 1187](/bill/2023-24/hb/1187/) - Employee-union privilege 👍1  
 
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
+
 ## [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information 👍1  
 
 ## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍4  

@@ -14,17 +14,22 @@
 
 ## [HB 1132](/bill/2023-24/hb/1132/) - Limited authority officers 👍1  
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  ❓1
+* 👍💵 Kristin Ang
+
 ## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍2  
 
 ## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍5  
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍6  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍5  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍6  
 
 ## [HB 1240](/bill/2023-24/hb/1240/) - Firearms/assault weapons 👍4  
 
 ## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍7  
+
+## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses 👍1  
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍4  
 

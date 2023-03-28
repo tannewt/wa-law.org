@@ -7,6 +7,9 @@
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
 * 👍 Tom Davis
 
+## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials  👎1 
+* 👎 Tom Davis
+
 ## [HB 1412](/bill/2023-24/hb/1412/) - Ag. land/foreign ownership  👎1 
 * 👎 Tom Davis
 

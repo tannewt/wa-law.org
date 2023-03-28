@@ -22,7 +22,7 @@
 
 ## [HB 1715](/bill/2023-24/hb/1715/) - Domestic violence  👎1 
 
-## [HB 1766](/bill/2023-24/hb/1766/) - Protection orders/hope cards 👍1  
+## [HB 1766](/bill/2023-24/hb/1766/) - Protection orders/hope cards 👍2  
 
 ## [SB 5010](/bill/2023-24/sb/5010/) - Synthetic opioids/endanger. 👍1  
 

@@ -8,12 +8,15 @@
 
 ## Meetings
 ### Mon 03/27 10:30 AM - Law & Justice (LAW): HB 1112 Negligent driving
-#### 6 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Perry Casper
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
+* Representative Sharon Tomiko Santos
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Teri Kemp - WA Defender Assn/WA Assn of Criminal Defense Lawyers
 
 #### 0 ❓ - Other
 

@@ -8,6 +8,12 @@
 
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍1  
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
+* 👍 Darcy Batura
+
+## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
+* 👍 Scott Richards
+
 ## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍3  
 * 👍 justin allegro
 * 👍 Scott Richards

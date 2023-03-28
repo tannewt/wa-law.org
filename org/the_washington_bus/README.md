@@ -24,7 +24,7 @@
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
 * ❓💵 Jazmine Smith
 
-## [SB 5208](/bill/2023-24/sb/5208/) - Online voter registration 👍6  
+## [SB 5208](/bill/2023-24/sb/5208/) - Online voter registration 👍7  
 * 👍💵 Jazmine Smith
 * 👍💵 Jazmine Smith
 

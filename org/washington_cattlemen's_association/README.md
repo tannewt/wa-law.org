@@ -7,6 +7,8 @@
 
 ## [HB 1720](/bill/2023-24/hb/1720/) - Riparian grant program 👍2  
 
+## [HB 1849](/bill/2023-24/hb/1849/) - Elk management program 👍1  
+
 ## [SB 5150](/bill/2023-24/sb/5150/) - Beef levied assessment 👍3  
 * 👍💵 Mark Streuli
 * 👍💵 Mark Streuli

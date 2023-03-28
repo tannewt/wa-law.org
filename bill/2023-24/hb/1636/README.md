@@ -8,9 +8,12 @@
 
 ## Meetings
 ### Mon 03/27 10:30 AM - Law & Justice (LAW): EHB 1636 Foreclosure/common interest
-#### 1 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Raelene Schifano
+* Patrick McDonald - Washington State Chapter of Community Association Institute
+* Patrick Johansen - RiseUpWA, Housing Justice Committee
+* Representative Jim Walsh
 
 #### 0 👎 - Con
 

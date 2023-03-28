@@ -1,6 +1,6 @@
 # City of Lakewood
 
-## [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍1  
+## [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍2  
 
 ## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍1  
 

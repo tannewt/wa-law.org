@@ -24,6 +24,9 @@
 
 ## [HB 1144](/bill/2023-24/hb/1144/) - Firearms/purchase & transfer 👍1  
 
+## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
+* 👍 Gael Tarleton
+
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍2  
 
 ## [HB 1156](/bill/2023-24/hb/1156/) - College grant eligibility 👍1  
@@ -50,7 +53,7 @@
 
 ## [HB 1206](/bill/2023-24/hb/1206/) - Newspaper publishers/tax 👍1  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍3  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍4  
 
 ## [HB 1240](/bill/2023-24/hb/1240/) - Firearms/assault weapons 👍2  
 

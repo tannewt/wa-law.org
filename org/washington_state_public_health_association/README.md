@@ -26,7 +26,7 @@
 ## [HB 1230](/bill/2023-24/hb/1230/) - School websites/drug info. 👍2  
 * 👍 Jeff Ketchel
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍3  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍4  
 
 ## [HB 1240](/bill/2023-24/hb/1240/) - Firearms/assault weapons 👍2  
 
@@ -55,7 +55,7 @@
 
 ## [SB 5232](/bill/2023-24/sb/5232/) - Firearms/purchase & transfer 👍3  
 
-## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍3  
+## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍4  
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
 
@@ -63,6 +63,9 @@
 * 👍 Jeff Ketchel
 * 👍 Jeff Ketchel
 * 👍 Jeff Ketchel
+
+## [SB 5367](/bill/2023-24/sb/5367/) - Products containing THC 👍1  
+* 👍 Megan Moore
 
 ## [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍1  
 

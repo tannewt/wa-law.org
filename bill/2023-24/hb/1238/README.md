@@ -32,16 +32,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31167&aId=154576&caId=22471&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31167&aId=154576&caId=22471&tId=4)
 
-#### 179 👍 - Pro
+#### 356 👍 - Pro
 Testifying:
 * Arlista Holman - Washington State School Directors' Association (WSSDA)
 * Sara Seelmeyer - United Way of King County
 * Thomas Reynolds - Northwest Harvest
 * Nicole Curtis
+* 💵Mitch Denning - WA Assn of Maintenance & Operation Administrators
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* 💵Collin Bannister - ASWSU
+* Patrick Durgan - Bellingham Public Schools // WSNA
+* Lelach Rave - Washington Chapter of the AAP
 
-#### 1 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Julie Barrett - Conservative Ladies of Washington
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Thu 03/16 01:30 PM - Early Learning & K-12 Education (EDU): E2SHB 1238 Free school meals
 #### 336 👍 - Pro

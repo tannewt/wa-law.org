@@ -6,6 +6,8 @@
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 
+## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget 👍1  
+
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍3  
 * 👍💵 Clifford Traisman
 
@@ -23,7 +25,7 @@
 
 ## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍2  
 
-## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍2  
+## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍3  
 * 👍💵 Darcy Nonemacher
 * 👍 Rachel Baker
 

@@ -38,7 +38,7 @@
 
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍1  
 
-## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍2  
+## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍3  
 
 ## [SB 5101](/bill/2023-24/sb/5101/) - DOC medical placements 👍2  
 * 👍💵 Rachael Seevers

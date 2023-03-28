@@ -10,9 +10,16 @@
 
 ## Meetings
 ### Mon 03/27 10:30 AM - Law & Justice (LAW): ESHB 1335 Personal identifying info.
-#### 1 👍 - Pro
+#### 16 👍 - Pro
+Testifying:
+* Gavin Downing
+* Joe Kendo - [Washington State Labor Council](/org/washington_state_labor_council/)
+* Max Patashnik - Jewish Community Relations Council
+* Dean Lynch - Spokane County Human Rights Task Force
+* Miri Cypers - Anti-Defamation League
+* Rebecca Houghton
 
-#### 1 👎 - Con
+#### 11 👎 - Con
 Testifying:
 * Rebecca Faust
 

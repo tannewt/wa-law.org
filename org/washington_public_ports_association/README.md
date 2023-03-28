@@ -6,15 +6,20 @@
 
 ## [HB 1081](/bill/2023-24/hb/1081/) - Derelict vessel appeals 👍1  
 
-## [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority   ❓1
+## [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority 👍1  ❓1
 * ❓ Chris Herman
+* 👍💵 Christopher Herman
 
 ## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
 
 ## [HB 1099](/bill/2023-24/hb/1099/) - Public works wages   ❓1
 * ❓ Chris Herman
 
-## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget   ❓1
+## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget 👍1  ❓1
+* 👍 Chris Herman
+
+## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
+* 👍💵 John Stuhlmiller
 
 ## [HB 1175](/bill/2023-24/hb/1175/) - Petroleum storage tanks 👍1  
 
@@ -24,8 +29,9 @@
 
 ## [HB 1231](/bill/2023-24/hb/1231/) - Site readiness grants 👍1  
 
-## [HB 1257](/bill/2023-24/hb/1257/) - Cargo and passenger ports 👍1  
+## [HB 1257](/bill/2023-24/hb/1257/) - Cargo and passenger ports 👍2  
 * 👍 Eric fftich
+* 👍 Eric ffitch
 
 ## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍2  
 
@@ -145,7 +151,7 @@
 ## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍1  ❓1
 * ❓💵 John Stuhlmiller
 
-## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍3  
+## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍4  
 * 👍 Eric ffitch
 * 👍 Eric ffitch
 

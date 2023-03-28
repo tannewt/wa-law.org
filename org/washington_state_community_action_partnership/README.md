@@ -2,9 +2,15 @@
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
+* ❓ Jeff DeLuca
+
+## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
+* 👍 Jeff DeLuca
+
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍3  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍4  
 
 ## [HB 1242](/bill/2023-24/hb/1242/) - Behavioral health work group 👍1  
 

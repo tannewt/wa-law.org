@@ -1,5 +1,8 @@
 # Community Employment Alliance
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
+* ❓ karen Williams
+
 ## [HB 1188](/bill/2023-24/hb/1188/) - Child welfare services/DD 👍2  
 
 ## [HB 1407](/bill/2023-24/hb/1407/) - Dev. disability/eligibility 👍3  

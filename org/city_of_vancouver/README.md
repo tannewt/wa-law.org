@@ -25,8 +25,9 @@
 
 ## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
 
-## [SB 5336](/bill/2023-24/sb/5336/) - Main street trust fund 👍2  
+## [SB 5336](/bill/2023-24/sb/5336/) - Main street trust fund 👍3  
 * 👍 brian enslow
+* 👍💵 Brian Enslow
 * 👍💵 Brian Enslow
 
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍1  

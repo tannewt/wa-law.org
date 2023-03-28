@@ -6,6 +6,6 @@
 
 ## [SB 5066](/bill/2023-24/sb/5066/) - Health care benefit managers 👍2  
 
-## [SB 5228](/bill/2023-24/sb/5228/) - Behavioral health OT 👍6  
+## [SB 5228](/bill/2023-24/sb/5228/) - Behavioral health OT 👍7  
 * 👍 Kate White Tudor
 * 👍 Diane Norell

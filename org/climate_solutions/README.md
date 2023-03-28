@@ -1,12 +1,13 @@
 # Climate Solutions
 
-## [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority 👍1  
+## [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority 👍2  
 * 👍💵 Leah Missik
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
 * 👍💵 Leah Missik
 
-## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget 👍1  
+## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget 👍2  
+* 👍💵 Leah Missik
 * 👍💵 Leah Missik
 
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍1  
@@ -100,7 +101,7 @@
 ## [SB 5431](/bill/2023-24/sb/5431/) - Zero emission school buses 👍1  
 * 👍💵 Leah Missik
 
-## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍1  ❓1
+## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍2  ❓1
 * ❓💵 Leah Missik
 * 👍💵 Leah Missik
 

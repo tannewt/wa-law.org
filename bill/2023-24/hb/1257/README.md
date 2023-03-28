@@ -8,17 +8,19 @@
 
 ## Meetings
 ### Mon 03/27 04:00 PM - Transportation (TRAN): HB 1257 Cargo and passenger ports
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31169&aId=154400&caId=22465&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31169&aId=154400&caId=22465&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31169&aId=154400&caId=22465&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31169&aId=154400&caId=22465&tId=4)
-
-#### 0 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Dan Stahl - [Port of Longview](/org/port_of_longview/)
+* Eric Yakovich - [Port of Kalama](/org/port_of_kalama/)
+* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Mike Hogan - [Port of Bellingham](/org/port_of_bellingham/)
+* 💵Gordon Baxter - International Longshore and Warehouse Union
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Rory Paine-Donovan - Attorney General's Office
 
 ### Wed 02/01 04:00 PM - Transportation (TR): HB 1257 Cargo and passenger ports
 #### 11 👍 - Pro

@@ -1,5 +1,11 @@
 # Washington Association of Land Trusts
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
+* 👍 Vanessa Kritzer
+
+## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget   ❓1
+* ❓ Vanessa Kritzer
+
 ## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍2  
 
 ## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍5  

@@ -1,5 +1,7 @@
 # Quinault Indian Nation
 
+## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
+
 ## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍1  
 
 ## [HB 1290](/bill/2023-24/hb/1290/) - Tribal police training 👍1  

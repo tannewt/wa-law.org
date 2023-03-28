@@ -58,8 +58,9 @@
 ## [HB 1296](/bill/2023-24/hb/1296/) - Local permit review 👍1  
 * 👍💵 Paul Jewell
 
-## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses   ❓1
+## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses  👎1 ❓1
 * ❓💵 Juliana Roe
+* 👎💵 Juliana Roe
 
 ## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units  👎1 
 * 👎💵 Paul Jewell
@@ -157,9 +158,10 @@
 * ❓💵 Paul Jewell
 * 👍💵 Paul Jewell
 
-## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel  👎1 ❓1
+## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel  👎1 ❓2
 * ❓💵 Juliana Roe
 * 👎💵 Juliana Roe
+* ❓💵 Juliana Roe
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 * ❓💵 Mike Hoover
@@ -227,7 +229,8 @@
 ## [SB 5357](/bill/2023-24/sb/5357/) - Detached ADUs 👍1  
 * 👍💵 Paul Jewell
 
-## [SB 5358](/bill/2023-24/sb/5358/) - Veterans' services 👍3  
+## [SB 5358](/bill/2023-24/sb/5358/) - Veterans' services 👍4  
+* 👍💵 Juliana Roe
 * 👍💵 Juliana Roe
 * 👍💵 Juliana Roe
 
@@ -243,7 +246,8 @@
 ## [SB 5380](/bill/2023-24/sb/5380/) - Clean energy siting   ❓1
 * ❓💵 Paul Jewell
 
-## [SB 5386](/bill/2023-24/sb/5386/) - Document recording fees 👍3  
+## [SB 5386](/bill/2023-24/sb/5386/) - Document recording fees 👍4  
+* 👍💵 Juliana Roe
 * 👍💵 Juliana Roe
 * 👍💵 Juliana Roe
 

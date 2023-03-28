@@ -6,7 +6,7 @@
 
 ## [HB 1230](/bill/2023-24/hb/1230/) - School websites/drug info. 👍1  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍2  
 
 ## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options 👍4  
 * 👍💵 Amy Brackenbury

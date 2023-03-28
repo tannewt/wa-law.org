@@ -20,6 +20,9 @@
 
 ## [HB 1137](/bill/2023-24/hb/1137/) - Return-to-work opportunities  👎1 
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
+* ❓💵 Seamus Petrie
+
 ## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍1  
 
 ## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍1  
@@ -32,6 +35,8 @@
 * 👍💵 Seamus Petrie
 
 ## [HB 1217](/bill/2023-24/hb/1217/) - Wage complaints 👍1  
+
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
 
 ## [HB 1286](/bill/2023-24/hb/1286/) - Reprod. health/employers 👍1  
 
@@ -104,6 +109,8 @@
 ## [SB 5359](/bill/2023-24/sb/5359/) - State spending limit  👎1 
 
 ## [SB 5417](/bill/2023-24/sb/5417/) - Employer political speech 👍1  
+
+## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍1  
 
 ## [SB 5454](/bill/2023-24/sb/5454/) - RN PTSD/industrial insurance 👍1  
 

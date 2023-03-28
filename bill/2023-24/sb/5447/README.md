@@ -10,15 +10,15 @@
 
 ## Meetings
 ### Tue 03/28 08:00 AM - Finance (FIN): ESSB 5447 Alternative jet fuel
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31145&aId=154618&caId=22480&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31145&aId=154618&caId=22480&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31145&aId=154618&caId=22480&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31145&aId=154618&caId=22480&tId=4)
+#### 40 👍 - Pro
+Testifying:
+* 💵Charles Knutson - Amazon
+* Scott Kennedy - [Alaska Airlines](/org/alaska_airlines/)
+* 💵Tom Wolf - bp America
+* 💵Donny Donovan - IAM 751
+* 💵Mark Riker - Washington State Building and Construction Trades Council
 
-#### 3 👍 - Pro
-
-#### 0 👎 - Con
+#### 80 👎 - Con
 
 #### 0 ❓ - Other
 

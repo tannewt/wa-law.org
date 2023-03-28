@@ -5,6 +5,12 @@
 
 ## [HB 1030](/bill/2023-24/hb/1030/) - Applied doctorate degrees 👍1  
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
+* 👍 Steve DuPont
+
+## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
+* 👍 Steve DuPont
+
 ## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍2  
 * 👍 Steve DuPont
 * 👍 Steve DuPont

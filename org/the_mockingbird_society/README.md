@@ -2,6 +2,9 @@
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
+* 👍 Danni Jo Bechtold
+
 ## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍1  
 
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍10  

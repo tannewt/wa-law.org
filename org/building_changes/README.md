@@ -2,6 +2,9 @@
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
+* ❓💵 Aaron Yared
+
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
 
 ## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍1  

@@ -10,7 +10,7 @@
 
 ## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍2  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍3  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍4  
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍3  
 

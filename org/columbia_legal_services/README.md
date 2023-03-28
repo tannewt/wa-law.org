@@ -19,6 +19,9 @@
 
 ## [HB 1129](/bill/2023-24/hb/1129/) - Mobile home community sales 👍1  
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
+* 👍💵 Hannah Woerner
+
 ## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍3  
 * 👍💵 Hannah Woerner
 * 👍💵 Hannah Woerner
@@ -33,7 +36,7 @@
 ## [HB 1217](/bill/2023-24/hb/1217/) - Wage complaints 👍2  
 * 👍💵 Andrea Schmitt
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍2  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍3  
 
 ## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍2  
 
@@ -98,7 +101,7 @@
 
 ## [SB 5035](/bill/2023-24/sb/5035/) - Controlled sub. possession  👎1 
 
-## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍1  
+## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍2  
 
 ## [SB 5056](/bill/2023-24/sb/5056/) - Habitual property offenders  👎1 
 

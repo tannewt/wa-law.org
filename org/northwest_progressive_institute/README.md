@@ -8,6 +8,9 @@
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
+* 👍 Andrew Villeneuve
+
 ## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍2  
 * 👍 Kathy Sakahara
 
@@ -29,6 +32,9 @@
 ## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍1  
 
 ## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍1  
+
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
+* 👍 Andrew Villeneuve
 
 ## [HB 1240](/bill/2023-24/hb/1240/) - Firearms/assault weapons 👍3  
 * 👍 Kathy Sakahara
@@ -96,6 +102,8 @@
 ## [SB 5207](/bill/2023-24/sb/5207/) - Controlled entities 👍1  
 
 ## [SB 5208](/bill/2023-24/sb/5208/) - Online voter registration 👍3  
+
+## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I 👍1  
 
 ## [SB 5232](/bill/2023-24/sb/5232/) - Firearms/purchase & transfer 👍1  
 

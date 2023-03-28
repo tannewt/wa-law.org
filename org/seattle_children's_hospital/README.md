@@ -8,7 +8,7 @@
 
 ## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍4  
 
-## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍2  
 
 ## [HB 1240](/bill/2023-24/hb/1240/) - Firearms/assault weapons 👍1  
 

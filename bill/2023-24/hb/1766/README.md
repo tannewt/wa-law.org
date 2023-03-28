@@ -10,14 +10,14 @@
 
 ## Meetings
 ### Mon 03/27 10:30 AM - Law & Justice (LAW): ESHB 1766 Protection orders/hope cards
-#### 2 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Jamie Sullivan - DV stalking survivor, initiator of HB 1766- 2023-24
 * Rebecca Faust
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1766 Protection orders/hope cards
 #### 10 👍 - Pro
