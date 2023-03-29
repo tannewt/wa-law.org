@@ -13,6 +13,19 @@
 * [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=HB 1541)
 
 ## Meetings
+### Fri 03/31 12:30 PM - Ways & Means (WM): E2SHB 1541 Lived experience
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154722&caId=22544&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154722&caId=22544&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154722&caId=22544&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154722&caId=22544&tId=4)
+
+#### 22 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 03/21 01:30 PM - State Government & Elections (SGE): E2SHB 1541 Lived experience
 #### 324 👍 - Pro
 Testifying:

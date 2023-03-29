@@ -17,6 +17,19 @@
 * [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=E2SHB 1565)
 
 ## Meetings
+### Fri 03/31 12:30 PM - Ways & Means (WM): E2SHB 1565 Prof. education workforce
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154727&caId=22549&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154727&caId=22549&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154727&caId=22549&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154727&caId=22549&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 03/13 01:30 PM - Early Learning & K-12 Education (EDU): E2SHB 1565 Prof. education workforce
 #### 92 👍 - Pro
 Testifying:

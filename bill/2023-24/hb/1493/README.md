@@ -8,6 +8,24 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Thu 03/30 12:30 PM - Transportation (TRAN): SHB 1493 Impaired driving
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31171&aId=154686&caId=22512&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31171&aId=154686&caId=22512&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31171&aId=154686&caId=22512&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31171&aId=154686&caId=22512&tId=4)
+
+#### 6 👍 - Pro
+Testifying:
+* Linda Thompson - Washington Association for Substance Misuse and Violence Prevention (WASAVP)
+* Elizabeth Gould
+* Julie Mitchel - Association of Alcoholism & Addiction Programs of WA
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 03/27 10:30 AM - Law & Justice (LAW): SHB 1493 Impaired driving
 #### 7 👍 - Pro
 Testifying:

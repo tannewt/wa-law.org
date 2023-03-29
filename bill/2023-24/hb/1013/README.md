@@ -12,6 +12,21 @@
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Education](https://crosscut.com/voter-guide/2023-legislative-tracker/election/education#:~:text=House Bill 1013)
 
 ## Meetings
+### Fri 03/31 12:30 PM - Ways & Means (WM): 2SHB 1013 Regional apprenticeship prgs
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154726&caId=22548&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154726&caId=22548&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154726&caId=22548&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154726&caId=22548&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* Jim Stoffer - Public School Advocate of Sequim
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 03/15 01:30 PM - Early Learning & K-12 Education (EDU): 2SHB 1013 Regional apprenticeship prgs
 #### 59 👍 - Pro
 Testifying:

@@ -2,7 +2,7 @@
 
 ## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals 👍2  
 
-## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍3  
+## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍4  
 * 👍💵 Pamela Clough
 
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍1  

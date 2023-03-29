@@ -10,24 +10,21 @@
 
 ## Meetings
 ### Tue 03/28 04:00 PM - Ways & Means (WM): ESHB 1282 Public building materials
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31167&aId=154585&caId=22477&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31167&aId=154585&caId=22477&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31167&aId=154585&caId=22477&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31167&aId=154585&caId=22477&tId=4)
-
-#### 167 👍 - Pro
+#### 222 👍 - Pro
 Testifying:
 * Hanna Waterstrat - WA department of commerce
 * 💵Jessica Koski - BlueGreen Alliance
 * 💵John Traynor - [Washington State Labor Council](/org/washington_state_labor_council/)
 * Max Puchtel - American Institute of Steel Construction
+* Martin Gibbins - League of Women Voters of WA
 
-#### 209 👎 - Con
+#### 275 👎 - Con
 Testifying:
 * 💵Brandon Houskeeper - [American Wood Council](/org/american_wood_council/)
 * mary Warren
+* joyce buchanan
 * Tom Davis - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
+* 💵Bruce Chattin - WA Aggregates & Concrete Assn
 
 #### 1 ❓ - Other
 

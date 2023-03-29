@@ -4,6 +4,8 @@
 * 👍💵 Nick Federici
 * 👍💵 Nick Federici
 
+## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
+
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
 
 ## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  

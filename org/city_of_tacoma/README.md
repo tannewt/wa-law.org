@@ -1,5 +1,7 @@
 # City of Tacoma
 
+## [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍1  
+
 ## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍1  
 
 ## [HB 1069](/bill/2023-24/hb/1069/) - Mental health counselor comp 👍1  
@@ -77,7 +79,7 @@
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 
-## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍3  
+## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍4  
 * 👍 Preston Peck
 
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget   ❓2
@@ -113,7 +115,7 @@
 ## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍3  
 * 👍 Mayor Victoria Woodards
 
-## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍2  
+## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍3  
 
 ## [SB 5606](/bill/2023-24/sb/5606/) - Illegal racing 👍2  
 * 👍 Mayor Victoria Woodards

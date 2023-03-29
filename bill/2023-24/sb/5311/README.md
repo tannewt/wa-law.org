@@ -25,6 +25,21 @@
 * [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB 5311)
 
 ## Meetings
+### Sat 04/01 09:00 AM - Appropriations (APP): E2SSB 5311 Special education funding
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154756&caId=22581&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154756&caId=22581&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154756&caId=22581&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154756&caId=22581&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 03/14 04:00 PM - Education (ED): E2SSB 5311 Special education funding
 #### 369 👍 - Pro
 Testifying:

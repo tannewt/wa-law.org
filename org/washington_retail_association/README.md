@@ -7,7 +7,7 @@
 
 ## [HB 1017](/bill/2023-24/hb/1017/) - Cosmetologists, etc/licenses 👍1  
 
-## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals  👎1 ❓1
+## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals  👎2 ❓1
 
 ## [HB 1068](/bill/2023-24/hb/1068/) - Injured worker medical exams  👎1 
 * 👎 ROSE GUNDERSEN
@@ -97,7 +97,7 @@
 ## [HB 1716](/bill/2023-24/hb/1716/) - Child care B&O credit 👍1  
 * 👍💵 Mark Johnson
 
-## [HB 1742](/bill/2023-24/hb/1742/) - Nontax statutes/DOR 👍1  
+## [HB 1742](/bill/2023-24/hb/1742/) - Nontax statutes/DOR 👍2  
 * 👍💵 Mark Johnson
 
 ## [HB 1761](/bill/2023-24/hb/1761/) - Property tax exemption 👍1  

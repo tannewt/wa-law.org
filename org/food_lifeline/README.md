@@ -52,7 +52,7 @@
 
 ## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍5  
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍3  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍4  
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍6  
 

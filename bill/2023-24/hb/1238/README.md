@@ -26,13 +26,7 @@
 
 ## Meetings
 ### Tue 03/28 04:00 PM - Ways & Means (WM): E2SHB 1238 Free school meals
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31167&aId=154576&caId=22471&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31167&aId=154576&caId=22471&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31167&aId=154576&caId=22471&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31167&aId=154576&caId=22471&tId=4)
-
-#### 356 👍 - Pro
+#### 378 👍 - Pro
 Testifying:
 * Arlista Holman - Washington State School Directors' Association (WSSDA)
 * Sara Seelmeyer - United Way of King County
@@ -43,12 +37,16 @@ Testifying:
 * 💵Collin Bannister - ASWSU
 * Patrick Durgan - Bellingham Public Schools // WSNA
 * Lelach Rave - Washington Chapter of the AAP
+* Mikhail Cherniske - Office of Superintendent of Public Instruction
+* Hannah Tsan
 
 #### 5 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Sarah Arison
 
 ### Thu 03/16 01:30 PM - Early Learning & K-12 Education (EDU): E2SHB 1238 Free school meals
 #### 336 👍 - Pro

@@ -1,6 +1,6 @@
 # Washington State Association of Counties
 
-## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍1  
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 
 ## [HB 1022](/bill/2023-24/hb/1022/) - Support & services levies 👍2  
 * 👍💵 Juliana Roe

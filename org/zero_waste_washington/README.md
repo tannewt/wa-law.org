@@ -31,6 +31,8 @@
 
 ## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  
 
+## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍1  
+
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍3  
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim

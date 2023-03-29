@@ -7,6 +7,8 @@
 ## [HB 1720](/bill/2023-24/hb/1720/) - Riparian grant program   ❓1
 * ❓ Councilwoman, Kadi Bizyayeva
 
+## [HB 1849](/bill/2023-24/hb/1849/) - Elk management program  👎1 
+
 ## [SB 5297](/bill/2023-24/sb/5297/) - Commercial salmon fisheries  👎1 
 * 👎 Kadi Bizyayeva
 

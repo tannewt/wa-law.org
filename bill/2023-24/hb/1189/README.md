@@ -10,6 +10,21 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Meetings
+### Thu 03/30 12:30 PM - Ways & Means (WM): E2SHB 1189 Total confinement release
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154695&caId=22517&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154695&caId=22517&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154695&caId=22517&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154695&caId=22517&tId=4)
+
+#### 85 👍 - Pro
+Testifying:
+* Waldo Waldron-Ramsey - Lobbyist, Washington Community Action Network
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 03/16 08:00 AM - Human Services (HS): E2SHB 1189 Total confinement release
 #### 258 👍 - Pro
 Testifying:

@@ -9,6 +9,21 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Thu 03/30 12:30 PM - Ways & Means (WM): ESHB 1394 Sexual offenses by youth
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154696&caId=22518&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154696&caId=22518&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154696&caId=22518&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154696&caId=22518&tId=4)
+
+#### 24 👍 - Pro
+Testifying:
+* Katie Hurley - King County Department of Public Defense
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 03/14 10:30 AM - Human Services (HS): ESHB 1394 Sexual offenses by youth
 #### 197 👍 - Pro
 Testifying:

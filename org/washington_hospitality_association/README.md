@@ -26,7 +26,8 @@
 
 ## [HB 1299](/bill/2023-24/hb/1299/) - Beverage alcohol/workforce 👍1  
 
-## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records  👎2 
+## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records  👎3 
+* 👎💵 Samantha Louderback
 * 👎💵 Samantha Louderback
 
 ## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits 👍3  

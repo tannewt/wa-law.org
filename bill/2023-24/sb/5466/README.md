@@ -27,6 +27,21 @@
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 10 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate031323#:~:text=S.B. 5466)
 
 ## Meetings
+### Thu 03/30 08:00 AM - Capital Budget (CB): ESSB 5466 Transit-oriented development
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31204&aId=154772&caId=22574&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31204&aId=154772&caId=22574&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31204&aId=154772&caId=22574&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31204&aId=154772&caId=22574&tId=4)
+
+#### 7 👍 - Pro
+Testifying:
+* Joe Kunzler - None
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 03/16 08:00 AM - Housing (HOUS): ESSB 5466 Transit-oriented development
 #### 818 👍 - Pro
 Testifying:

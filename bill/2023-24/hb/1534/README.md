@@ -9,6 +9,21 @@
 * [Second Substitute](S2/)
 
 ## Meetings
+### Fri 03/31 12:30 PM - Ways & Means (WM): 2SHB 1534 Construction consumers
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154719&caId=22541&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154719&caId=22541&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154719&caId=22541&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154719&caId=22541&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* 💵James King - [Independent Business Association](/org/independent_business_association/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 03/20 10:30 AM - Labor & Commerce (LC): 2SHB 1534 Construction consumers
 #### 35 👍 - Pro
 Testifying:

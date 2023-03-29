@@ -15,6 +15,19 @@
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [Federal Government to Fund $25M in Wildfire Defense Grants in Washington | WA - DNR](https://www.dnr.wa.gov/news/federal-government-fund-25m-wildfire-defense-grants-washington#:~:text=House Bill 1578)
 
 ## Meetings
+### Thu 03/30 12:30 PM - Ways & Means (WM): 2SHB 1578 Wildland fire safety
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154717&caId=22539&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154717&caId=22539&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154717&caId=22539&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154717&caId=22539&tId=4)
+
+#### 2 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 03/20 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): 2SHB 1578 Wildland fire safety
 #### 96 👍 - Pro
 Testifying:

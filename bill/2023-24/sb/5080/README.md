@@ -20,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154624&caId=22495&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154624&caId=22495&tId=4)
 
-#### 5 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Ollie Garrett - Washington State Liquor and Cannabis Board
 * Mike Asai - Black Excellence In Cannabis
@@ -28,7 +28,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 03/14 04:00 PM - Regulated Substances & Gaming (RSG): E2SSB 5080 Cannabis social equity
 #### 114 👍 - Pro

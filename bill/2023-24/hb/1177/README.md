@@ -16,6 +16,19 @@
 * [Real Change](/org/real_change/) - [Washington state taking action to address MMIWP crisis | Jan. 18-24, 2023 | Real Change](https://www.realchangenews.org/news/2023/01/18/washington-state-taking-action-address-mmiwp-crisis#:~:text=HB 1177)
 
 ## Meetings
+### Thu 03/30 12:30 PM - Ways & Means (WM): SHB 1177 Indigenous women
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154702&caId=22524&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154702&caId=22524&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154702&caId=22524&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154702&caId=22524&tId=4)
+
+#### 3 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 03/20 10:30 AM - Law & Justice (LAW): SHB 1177 Indigenous women
 #### 160 👍 - Pro
 Testifying:

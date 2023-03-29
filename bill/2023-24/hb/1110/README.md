@@ -47,6 +47,25 @@
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 10 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate031323#:~:text=H.B. 1110)
 
 ## Meetings
+### Fri 03/31 12:30 PM - Ways & Means (WM): E2SHB 1110 Middle housing
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154733&caId=22555&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154733&caId=22555&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154733&caId=22555&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154733&caId=22555&tId=4)
+
+#### 26 👍 - Pro
+Testifying:
+* Joe Kunzler - None
+* AIA CPHD, MATTHEW HUTCHINS - [American Institute of Architects Washington Council](/org/american_institute_of_architects_washington_council/)
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+
+#### 11 👎 - Con
+Testifying:
+* Salim Nice - [City of Mercer Island](/org/city_of_mercer_island/)
+
+#### 0 ❓ - Other
+
 ### Fri 03/17 10:30 AM - Housing (HSG): E2SHB 1110 Middle housing
 #### 1121 👍 - Pro
 Testifying:

@@ -12,15 +12,15 @@
 
 ## Meetings
 ### Tue 03/28 04:00 PM - Ways & Means (WM): SHB 1047 Cosmetic product chemicals
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31167&aId=154583&caId=22475&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31167&aId=154583&caId=22475&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31167&aId=154583&caId=22475&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31167&aId=154583&caId=22475&tId=4)
+#### 178 👍 - Pro
+Testifying:
+* 💵Nick Federici - Toxic Free Future
+* Maggie Yuse - Seattle Public Utilities
 
-#### 169 👍 - Pro
-
-#### 10 👎 - Con
+#### 15 👎 - Con
+Testifying:
+* Nora Palattao Burnes - [Personal Care Products Council](/org/personal_care_products_council/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 0 ❓ - Other
 

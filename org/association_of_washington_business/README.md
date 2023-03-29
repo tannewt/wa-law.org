@@ -10,7 +10,8 @@
 
 ## [HB 1018](/bill/2023-24/hb/1018/) - Hog fuel/tax exemption 👍1  
 
-## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals  👎2 
+## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals  👎3 
+* 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 

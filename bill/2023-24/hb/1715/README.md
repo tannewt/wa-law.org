@@ -15,6 +15,21 @@
 * [KING5](/org/king5/) - [Lawmaker shares personal story of being stalked by ex-boyfriend in hopes of passing domestic violence bill | king5.com](https://www.king5.com/article/news/politics/legislator-shares-stalking-experience-pass-domestic-violence-bill/281-fe919620-0232-49c0-9673-cbfa6fb34f7a#:~:text=House Bill 1715)
 
 ## Meetings
+### Thu 03/30 12:30 PM - Ways & Means (WM): E2SHB 1715 Domestic violence
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154699&caId=22521&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154699&caId=22521&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154699&caId=22521&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154699&caId=22521&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* Annalise Martucci - Office of Civil Legal Aid
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 03/16 08:00 AM - Law & Justice (LAW): E2SHB 1715 Domestic violence
 #### 15 👍 - Pro
 Testifying:

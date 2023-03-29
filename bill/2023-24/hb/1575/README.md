@@ -12,6 +12,19 @@
 * [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=HB 1575)
 
 ## Meetings
+### Fri 03/31 12:30 PM - Ways & Means (WM): HB 1575 Cultural access programs/tax
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154739&caId=22561&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154739&caId=22561&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154739&caId=22561&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154739&caId=22561&tId=4)
+
+#### 5 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 03/14 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): HB 1575 Cultural access programs/tax
 #### 180 👍 - Pro
 Testifying:

@@ -13,7 +13,8 @@
 
 ## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  
 
-## [HB 1554](/bill/2023-24/hb/1554/) - Lead impacts 👍2  
+## [HB 1554](/bill/2023-24/hb/1554/) - Lead impacts 👍3  
+* 👍 Eric Gonzalez Alfaro
 * 👍 Eric Gonzalez Alfaro
 
 ## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy   ❓1

@@ -13,6 +13,19 @@
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [Passage of Derelict Structures Legislation Puts Washington’s Aquatic Habitat on Cleaner, Healthier Track, says Commissioner Franz | WA - DNR](https://www.dnr.wa.gov/news/passage-derelict-structures-legislation-puts-washington%E2%80%99s-aquatic-habitat-cleaner-healthier#:~:text=Senate Bill 5433)
 
 ## Meetings
+### Thu 03/30 08:00 AM - Capital Budget (CB): SSB 5433 Derelict aquatic structures
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31204&aId=154771&caId=22573&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31204&aId=154771&caId=22573&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31204&aId=154771&caId=22573&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31204&aId=154771&caId=22573&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 03/21 10:30 AM - Agriculture and Natural Resources (AGNR): SSB 5433 Derelict aquatic structures
 #### 138 👍 - Pro
 Testifying:

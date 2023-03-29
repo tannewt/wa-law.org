@@ -16,4 +16,4 @@
 
 ## [SB 5583](/bill/2023-24/sb/5583/) - Young driver safety 👍2  
 
-## [SB 5592](/bill/2023-24/sb/5592/) - Defibrillators/fitness 👍1  
+## [SB 5592](/bill/2023-24/sb/5592/) - Defibrillators/fitness 👍2  

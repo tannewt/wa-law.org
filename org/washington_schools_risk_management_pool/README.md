@@ -1,6 +1,7 @@
 # Washington Schools Risk Management Pool
 
-## [HB 1618](/bill/2023-24/hb/1618/) - Childhood sexual abuse/SOL   ❓2
+## [HB 1618](/bill/2023-24/hb/1618/) - Childhood sexual abuse/SOL   ❓3
+* ❓ Tyna Ek
 * ❓ Tyna Ek
 * ❓ Tyna Ek
 

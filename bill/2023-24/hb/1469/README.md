@@ -18,6 +18,24 @@
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Washington lawmakers are trying to protect out-of-state abortion patients. Here's what you need to know: | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/05/washington-lawmakers-are-trying-to-protect-out-of-/#:~:text=House Bill 1469)
 
 ## Meetings
+### Thu 03/30 12:30 PM - Ways & Means (WM): ESHB 1469 Health care services/access
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154713&caId=22535&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154713&caId=22535&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154713&caId=22535&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154713&caId=22535&tId=4)
+
+#### 6 👍 - Pro
+
+#### 967 👎 - Con
+Testifying:
+* Gabriel Jacobs
+* Julie Barrett - Parent
+* Julie Barrett - Conservative Ladies of Washington
+* Eric pratt - America
+
+#### 0 ❓ - Other
+
 ### Thu 03/16 08:00 AM - Law & Justice (LAW): ESHB 1469 Health care services/access
 #### 885 👍 - Pro
 Testifying:

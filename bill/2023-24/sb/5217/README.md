@@ -16,15 +16,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154629&caId=22499&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154629&caId=22499&tId=4)
 
-#### 8 👍 - Pro
+#### 14 👍 - Pro
 
-#### 10 👎 - Con
+#### 157 👎 - Con
 Testifying:
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Tom Kwieciak - Building Industry Association of WA
 * 💵Amber Carter - Identity Clark County
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 03/14 10:30 AM - Labor & Workplace Standards (LAWS): ESSB 5217 Musculoskeletal injuries/L&I
 #### 608 👍 - Pro

@@ -13,13 +13,14 @@
 * 👍💵 James King
 * 👍💵 James King
 
-## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records  👎3 
+## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records  👎4 
 * 👎💵 James King
 
 ## [HB 1458](/bill/2023-24/hb/1458/) - Apprenticeship programs/UI  👎2 
 * 👎💵 James King
 
-## [HB 1534](/bill/2023-24/hb/1534/) - Construction consumers 👍3  
+## [HB 1534](/bill/2023-24/hb/1534/) - Construction consumers 👍4  
+* 👍💵 James King
 * 👍💵 James King
 * 👍💵 James King
 * 👍💵 James King
@@ -36,14 +37,14 @@
 
 ## [SB 5123](/bill/2023-24/sb/5123/) - Cannabis/employment  👎1 
 
-## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍2 👎1 
+## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍3 👎1 
 * 👎💵 James King
 * 👍💵 James King
 * 👍💵 James King
 
-## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I  👎2 
+## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I  👎3 
 
-## [SB 5268](/bill/2023-24/sb/5268/) - Public works procurement 👍3  
+## [SB 5268](/bill/2023-24/sb/5268/) - Public works procurement 👍4  
 * 👍💵 James King
 * 👍💵 James King
 
@@ -68,5 +69,6 @@
 ## [SB 5730](/bill/2023-24/sb/5730/) - Vehicle residences/impound  👎1 
 * 👎💵 James King
 
-## [SB 5740](/bill/2023-24/sb/5740/) - Catalytic converter theft  👎1 
+## [SB 5740](/bill/2023-24/sb/5740/) - Catalytic converter theft  👎2 
+* 👎💵 James King
 * 👎💵 James King

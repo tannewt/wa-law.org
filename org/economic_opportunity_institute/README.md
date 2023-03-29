@@ -20,7 +20,7 @@
 
 ## [HB 1339](/bill/2023-24/hb/1339/) - Insurance premium tax rate  👎1 
 
-## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
+## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍2  
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
 * 👍💵 Carolyn Brotherton

@@ -17,7 +17,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154625&caId=22496&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154625&caId=22496&tId=4)
 
-#### 92 👍 - Pro
+#### 125 👍 - Pro
+Testifying:
+* 💵Bruce Wishart - Sound Action / Puget Soundkeeper
 
 #### 0 👎 - Con
 

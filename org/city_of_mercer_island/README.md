@@ -2,7 +2,8 @@
 
 ## [HB 1086](/bill/2023-24/hb/1086/) - Community org. contracts 👍2  
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing  👎1 
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing  👎2 
+* 👎 Salim Nice
 * 👎 Salim Nice
 
 ## [HB 1135](/bill/2023-24/hb/1135/) - Impact fee use 👍1  

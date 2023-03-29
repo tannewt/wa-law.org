@@ -18,7 +18,8 @@
 
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
 
-## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍6  
+## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍7  
+* 👍💵 Alex Hur
 * 👍💵 Alex Hur
 * 👍💵 Alex Hur
 
@@ -57,7 +58,7 @@
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍4  
 * 👍💵 Shaun Scott
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍7  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍8  
 * 👍💵 Shaun Scott
 * 👍💵 Shaun Scott
 * 👍💵 Shaun Scott
@@ -76,10 +77,12 @@
 
 ## [HB 1651](/bill/2023-24/hb/1651/) - Infraction debt 👍1  
 
-## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍5  
+## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍8  
 * 👍💵 Alex Hur
 * 👍💵 Alex Hur
 * 👍💵 Lianna Kressin
+* 👍💵 Lianna Kressin
+* 👍💵 Alex Hur
 
 ## [HB 1666](/bill/2023-24/hb/1666/) - Fee and debt collection 👍1  
 

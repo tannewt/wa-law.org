@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31152&aId=154552&caId=22468&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31152&aId=154552&caId=22468&tId=4)
 
-#### 343 👍 - Pro
+#### 376 👍 - Pro
 Testifying:
 * William Schmidt - Skagit County Farm Bureau
 * Ron Wesen - Skagit County Commissioner
+* Val Mullen
+* Jay Gordon - Self/Farmer in Chehalis Valley
 
-#### 6 👎 - Con
+#### 7 👎 - Con
 
 #### 0 ❓ - Other

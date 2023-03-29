@@ -14,14 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31171&aId=154408&caId=22466&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31171&aId=154408&caId=22466&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Tim Sheldon
 * Lisa Janicki - [Skagit County](/org/skagit_county/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Thomas White
 
 ### Tue 01/17 04:00 PM - Transportation (TRAN): SB 5162 Transportation budget
 #### 18 👍 - Pro

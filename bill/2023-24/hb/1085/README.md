@@ -13,6 +13,19 @@
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Environment](https://crosscut.com/voter-guide/2023-legislative-tracker/election/environment#:~:text=House Bill 1085)
 
 ## Meetings
+### Fri 03/31 12:30 PM - Ways & Means (WM): SHB 1085 Plastic pollution
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154746&caId=22568&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154746&caId=22568&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154746&caId=22568&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154746&caId=22568&tId=4)
+
+#### 12 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 03/10 08:00 AM - Environment, Energy & Technology (ENET): SHB 1085 Plastic pollution
 #### 473 👍 - Pro
 Testifying:

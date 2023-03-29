@@ -209,7 +209,7 @@
 * 👎💵 Candice Bock
 * 👎💵 Candice Bock
 
-## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity   ❓1
+## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity   ❓2
 * ❓💵 Lindsey Hueer
 
 ## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍1  

@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154626&caId=22497&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154626&caId=22497&tId=4)
 
-#### 47 👍 - Pro
+#### 59 👍 - Pro
 Testifying:
 * Loren Taylor
 * Micaela Romero
@@ -28,7 +28,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 03/13 01:30 PM - Community Safety, Justice, & Reentry (CSJR): SB 5131 Commissary funds
 #### 45 👍 - Pro

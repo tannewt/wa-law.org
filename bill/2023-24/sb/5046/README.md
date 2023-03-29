@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154623&caId=22494&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154623&caId=22494&tId=4)
 
-#### 29 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * Larry Jefferson - Washington State Office of Public Defense
 * Vidal Vincent

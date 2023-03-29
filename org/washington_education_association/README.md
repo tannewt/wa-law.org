@@ -229,7 +229,7 @@
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍2  
 * 👍💵 Simone Boe
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍4  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍5  
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍3  
 
@@ -302,7 +302,7 @@
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
 
-## [HB 1639](/bill/2023-24/hb/1639/) - Billy Frank Jr. statue 👍3  
+## [HB 1639](/bill/2023-24/hb/1639/) - Billy Frank Jr. statue 👍4  
 
 ## [HB 1643](/bill/2023-24/hb/1643/) - Nurse student loan repayment 👍1  
 
@@ -484,8 +484,9 @@
 
 ## [SB 5296](/bill/2023-24/sb/5296/) - Military service credit 👍1  
 
-## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍3  
+## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍4  
 * 👍💵 Simone Boe
+* 👍💵 Julie Salvi
 * 👍💵 Julie Salvi
 
 ## [SB 5315](/bill/2023-24/sb/5315/) - Special education/nonpublic 👍1  
