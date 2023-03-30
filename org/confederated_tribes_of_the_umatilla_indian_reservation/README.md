@@ -10,7 +10,7 @@
 
 ## [HB 1332](/bill/2023-24/hb/1332/) - Tribes/K-12 instruction 👍2  
 
-## [HB 1512](/bill/2023-24/hb/1512/) - Missing persons 👍2  
+## [HB 1512](/bill/2023-24/hb/1512/) - Missing persons 👍3  
 
 ## [HB 1639](/bill/2023-24/hb/1639/) - Billy Frank Jr. statue 👍1  
 

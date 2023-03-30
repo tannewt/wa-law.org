@@ -2,8 +2,9 @@
 
 ## [HB 1121](/bill/2023-24/hb/1121/) - Uniform child abduction act 👍1  
 
-## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
+## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍2  
 * 👍💵 Carey Morris
+* 👍💵 Emily Stone
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍3  
 * 👍💵 Emily Stone

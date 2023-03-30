@@ -2,13 +2,13 @@
 
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍2  
 
-## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍1  
+## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍2  
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍4  
 
 ## [HB 1192](/bill/2023-24/hb/1192/) - Electric transm. planning 👍1  
 
-## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍2  ❓1
+## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍3  ❓1
 * ❓ Adam Maxwell
 
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍2  

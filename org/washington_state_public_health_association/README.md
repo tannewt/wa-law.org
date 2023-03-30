@@ -38,7 +38,7 @@
 
 ## [HB 1452](/bill/2023-24/hb/1452/) - Medical reserve corps 👍1  
 
-## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍2  
+## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍3  
 
 ## [HB 1497](/bill/2023-24/hb/1497/) - Vapor and tobacco/minors 👍2  
 * 👍 Jeff Ketchel
@@ -51,7 +51,7 @@
 
 ## [SB 5006](/bill/2023-24/sb/5006/) - Waiver of firearm rights 👍1  
 
-## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍3  
+## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍5  
 
 ## [SB 5232](/bill/2023-24/sb/5232/) - Firearms/purchase & transfer 👍3  
 

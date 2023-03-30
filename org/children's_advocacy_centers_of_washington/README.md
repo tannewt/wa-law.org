@@ -18,7 +18,7 @@
 
 ## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍2  
 
-## [HB 1618](/bill/2023-24/hb/1618/) - Childhood sexual abuse/SOL 👍2  
+## [HB 1618](/bill/2023-24/hb/1618/) - Childhood sexual abuse/SOL 👍3  
 
 ## [HB 1715](/bill/2023-24/hb/1715/) - Domestic violence  👎1 
 
@@ -39,4 +39,4 @@
 
 ## [SB 5355](/bill/2023-24/sb/5355/) - Sex trafficking prev. ed. 👍1  
 
-## [SB 5453](/bill/2023-24/sb/5453/) - Female genital mutilation 👍3  
+## [SB 5453](/bill/2023-24/sb/5453/) - Female genital mutilation 👍4  

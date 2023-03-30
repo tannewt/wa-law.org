@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 03/29 04:00 PM - Appropriations (APP): HB 1850 Hospital safety net program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31136&aId=154622&caId=22481&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31136&aId=154622&caId=22481&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31136&aId=154622&caId=22481&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31136&aId=154622&caId=22481&tId=4)
-
-#### 7 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * 💵Chelene Whiteaker - Washington State Hospital Association
 * Len McComb - Washington State Hospital Association
@@ -22,4 +16,8 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* Bill Kramer - Purchaser Business Group on Health

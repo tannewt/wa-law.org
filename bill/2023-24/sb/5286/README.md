@@ -18,7 +18,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154632&caId=22502&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154632&caId=22502&tId=4)
 
-#### 2 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Bob Battles - Association of Washington Business (AWB)
+* Joe Kendo - [Washington State Labor Council](/org/washington_state_labor_council/)
 
 #### 0 👎 - Con
 

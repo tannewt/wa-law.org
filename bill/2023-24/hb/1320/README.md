@@ -17,13 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154721&caId=22543&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154721&caId=22543&tId=4)
 
-#### 1 👍 - Pro
+#### 89 👍 - Pro
 Testifying:
 * Patrick McGah - concerned citizen
+* Cher Scarlett
 
-#### 3 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Bob Battles - Association of Washington Business (AWB)
 
 #### 0 ❓ - Other
 

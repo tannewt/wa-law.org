@@ -25,9 +25,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154750&caId=22575&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154750&caId=22575&tId=4)
 
-#### 1 👍 - Pro
+#### 335 👍 - Pro
+Testifying:
+* April Schentrup
+* Barbara Serrano - Office of the Governor
+* Laura Clinton - Attorney General's Office
 
-#### 0 👎 - Con
+#### 208 👎 - Con
+Testifying:
+* 💵Troy Nichols - National Shooting Sports Foundation
+* 💵Aoibheann Cline - [National Rifle Association](/org/national_rifle_association_of_america/)
+* Eric pratt - America
+* Julie Barrett - Conservative Ladies of Washington
 
 #### 0 ❓ - Other
 

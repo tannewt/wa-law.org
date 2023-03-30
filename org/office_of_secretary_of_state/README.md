@@ -46,9 +46,10 @@
 
 ## [SB 5182](/bill/2023-24/sb/5182/) - Candidate filing 👍1  
 
-## [SB 5208](/bill/2023-24/sb/5208/) - Online voter registration 👍2  
+## [SB 5208](/bill/2023-24/sb/5208/) - Online voter registration 👍3  
 * 👍 Steve Hobbs
 * 👍 Steve Hobbs
+* 👍 Brian Hatfield
 
 ## [SB 5262](/bill/2023-24/sb/5262/) - Cemetery district filings  👎1 
 * 👎 Brian Hatfield

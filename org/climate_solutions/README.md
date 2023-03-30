@@ -34,7 +34,7 @@
 ## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍1  
 * 👍💵 Leah Missik
 
-## [HB 1390](/bill/2023-24/hb/1390/) - District energy systems 👍3  
+## [HB 1390](/bill/2023-24/hb/1390/) - District energy systems 👍4  
 
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍5  
 * 👍 Megan Larkin
@@ -59,7 +59,7 @@
 ## [HB 1619](/bill/2023-24/hb/1619/) - Renewable energy resources   ❓1
 * ❓💵 Kelly Hall
 
-## [HB 1777](/bill/2023-24/hb/1777/) - Energy contracting 👍1  
+## [HB 1777](/bill/2023-24/hb/1777/) - Energy contracting 👍2  
 
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1  
 
@@ -68,7 +68,7 @@
 
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial  👎1 
 
-## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍2  
+## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍3  
 
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  
 * 👍💵 Leah Missik

@@ -1,8 +1,9 @@
 # Justice Action Network
 
-## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍2  
+## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍3  
 * 👍💵 Brooke Davies
 * 👍💵 Brooke Davies
+* 👍💵 Vicki Christophersen
 
 ## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses 👍1  
 

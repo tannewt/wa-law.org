@@ -54,17 +54,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154733&caId=22555&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154733&caId=22555&tId=4)
 
-#### 26 👍 - Pro
+#### 491 👍 - Pro
 Testifying:
 * Joe Kunzler - None
 * AIA CPHD, MATTHEW HUTCHINS - [American Institute of Architects Washington Council](/org/american_institute_of_architects_washington_council/)
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* Councilmember Lisa Parshley - [City of Olympia](/org/city_of_olympia/)
+* Troy Schmeil
+* 💵Tricia Gullion - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Mason Thompson - [City of Bothell](/org/city_of_bothell/)
+* Kelli Curtis - Councilmember, City of Kirkland
 
-#### 11 👎 - Con
+#### 75 👎 - Con
 Testifying:
 * Salim Nice - [City of Mercer Island](/org/city_of_mercer_island/)
+* Deirdre Johnson
+* Michelle Dotsch - Alliance of Citizens for Edmonds
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tiffany Speir - [City of Lakewood](/org/city_of_lakewood/)
 
 ### Fri 03/17 10:30 AM - Housing (HSG): E2SHB 1110 Middle housing
 #### 1121 👍 - Pro

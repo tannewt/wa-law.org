@@ -13,7 +13,7 @@
 * 👍💵 Amy Brackenbury
 * 👍 Marin Marks
 
-## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍1  
+## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍2  
 
 ## [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information 👍1  
 

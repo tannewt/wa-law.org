@@ -17,7 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154708&caId=22530&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154708&caId=22530&tId=4)
 
-#### 0 👍 - Pro
+#### 16 👍 - Pro
+Testifying:
+* Joan Miller - WA Council for Behavioral Health
+* Evan Klein - Health Care Authority (HCA) - Special Assistant, Legislative & Policy Affairs
+* 💵Brad Banks - Behavioral Health Administrative Services Organizations
+* 💵Juliana Roe - WA State Association of Counties (WSAC)
+* Mark Ozias - Clallam County Commissioner
 
 #### 0 👎 - Con
 

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 03/23 01:30 PM - Finance (FIN): HB 1818 Forestland/compensating tax

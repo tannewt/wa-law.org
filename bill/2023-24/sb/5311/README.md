@@ -32,9 +32,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154756&caId=22581&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154756&caId=22581&tId=4)
 
-#### 2 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* Marissa Rathbone - Washington State School Directors' Association
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 
 #### 0 👎 - Con
 

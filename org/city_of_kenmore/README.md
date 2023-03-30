@@ -13,7 +13,7 @@
 
 ## [HB 1355](/bill/2023-24/hb/1355/) - Property tax exemptions 👍1  
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍3  
 
 ## [HB 1517](/bill/2023-24/hb/1517/) - Transit-oriented development 👍1  
 

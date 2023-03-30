@@ -10,5 +10,7 @@
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍1  
 * 👍 Rob Putaansuu
 
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development  👎1 
+
 ## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation 👍1  
 * 👍💵 Josh Weiss

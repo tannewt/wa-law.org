@@ -18,7 +18,7 @@
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
 * ❓ Jaymie McLaughlin
 
-## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍4  
+## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍6  
 * 👍 Christina Felisiano
 
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍1  

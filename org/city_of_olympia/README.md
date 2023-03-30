@@ -4,8 +4,9 @@
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍4  
 * 👍 Darian Lightfoot
+* 👍 Councilmember Lisa Parshley
 
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍1  
 
@@ -70,7 +71,7 @@
 
 ## [SB 5039](/bill/2023-24/sb/5039/) - Wildfires/electric utilities 👍1  
 
-## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍1  
+## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍2  
 
 ## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍2  
 

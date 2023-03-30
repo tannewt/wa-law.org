@@ -16,7 +16,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154694&caId=22516&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154694&caId=22516&tId=4)
 
-#### 0 👍 - Pro
+#### 23 👍 - Pro
+Testifying:
+* 💵Jennifer Wallace - WA State Criminal Justice Training Commission
 
 #### 0 👎 - Con
 

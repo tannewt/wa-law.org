@@ -2,9 +2,10 @@
 
 ## [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍2  
 
-## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍1  
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing  👎1 ❓1
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing  👎1 ❓2
+* ❓ Tiffany Speir
 * ❓ Tiffany Speir
 
 ## [HB 1245](/bill/2023-24/hb/1245/) - Lot splitting  👎1 
@@ -30,4 +31,4 @@
 
 ## [SB 5539](/bill/2023-24/sb/5539/) - Tax increment financing 👍2  
 
-## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍1  
+## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍2  

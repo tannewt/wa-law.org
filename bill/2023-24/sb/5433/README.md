@@ -20,7 +20,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31204&aId=154771&caId=22573&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31204&aId=154771&caId=22573&tId=4)
 
-#### 1 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Brian Considine - Washington Department of Natural Resources
 
 #### 0 👎 - Con
 

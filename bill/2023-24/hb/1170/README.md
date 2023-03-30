@@ -27,7 +27,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154748&caId=22570&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154748&caId=22570&tId=4)
 
-#### 2 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* Jennifer Hennessey - Washington State Department of Ecology
 
 #### 0 👎 - Con
 

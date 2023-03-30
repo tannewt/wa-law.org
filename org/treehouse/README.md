@@ -14,7 +14,8 @@
 
 ## [HB 1394](/bill/2023-24/hb/1394/) - Sexual offenses by youth 👍1  
 
-## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  
+## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍2  
+* 👍💵 Daniel Lugo
 * 👍💵 Daniel Lugo
 
 ## [HB 1432](/bill/2023-24/hb/1432/) - Juvenile justice 👍2  

@@ -1,6 +1,7 @@
 # City of Bothell
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍4  
+* 👍 Mason Thompson
 
 ## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍2  
 

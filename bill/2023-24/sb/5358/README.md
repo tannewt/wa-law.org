@@ -15,10 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154633&caId=22503&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154633&caId=22503&tId=4)
 
-#### 2 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Tom Davis - Veterans Legislative Coalition (VLC)
+* Randy Johnson - Clallam County Commissioner
+* Wes McCart - Steven County Commissioner
 
 #### 0 👎 - Con
 

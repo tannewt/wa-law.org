@@ -422,10 +422,11 @@
 
 ## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍1  
 
-## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍3  
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍3  ❓1
 * 👍 Mike Ennis
 * 👍 Mike Ennis
 * 👍 Mike Ennis
+* ❓ Mike Ennis
 
 ## [SB 5473](/bill/2023-24/sb/5473/) - Project permit timelines 👍1  
 * 👍 Mike Ennis

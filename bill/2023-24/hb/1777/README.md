@@ -10,6 +10,22 @@
 * [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=HB 1777)
 
 ## Meetings
+### Thu 03/30 12:30 PM - Ways & Means (WM): HB 1777 Energy contracting
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154785&caId=22597&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154785&caId=22597&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154785&caId=22597&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154785&caId=22597&tId=4)
+
+#### 5 👍 - Pro
+Testifying:
+* Ash Awad - McKinstry
+* Lincoln Ferris - Seattle Central College
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 03/14 01:30 PM - Environment, Energy & Technology (ENET): HB 1777 Energy contracting
 #### 174 👍 - Pro
 Testifying:

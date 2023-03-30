@@ -15,7 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31144&aId=154290&caId=22456&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31144&aId=154290&caId=22456&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Craig Orlan - American Honda Motor Company
+* Tom McBride - American Honda
 
 #### 0 👎 - Con
 

@@ -19,7 +19,7 @@
 
 ## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍2  
 
-## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍5  
+## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍6  
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍6  
 
@@ -44,11 +44,13 @@
 
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍7  
 
-## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍2  
+## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍3  
 
 ## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍1  
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍5  
+
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍7  
 
@@ -58,7 +60,7 @@
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍7  
 
-## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍6  
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍7  
 
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍8  
 * 👍💵 Kristin Ang
@@ -84,7 +86,7 @@
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
 * ❓ Elizabeth Dickinson
 
-## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍6  
+## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍7  
 
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍1  
 

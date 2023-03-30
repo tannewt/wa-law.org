@@ -17,12 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154647&caId=22491&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154647&caId=22491&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Marc Webster - Washington State Liquor and Cannabis Board
 * Megan Moore - [Washington State Public Health Association](/org/washington_state_public_health_association/)
 
-#### 1 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other
 

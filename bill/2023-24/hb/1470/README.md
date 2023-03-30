@@ -20,7 +20,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154715&caId=22537&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154715&caId=22537&tId=4)
 
-#### 2 👍 - Pro
+#### 29 👍 - Pro
+Testifying:
+* Erin Dilworth - Communities for a Healthy Bay
+* 💵Hannah Woerner - [Columbia Legal Services](/org/columbia_legal_services/)
 
 #### 0 👎 - Con
 

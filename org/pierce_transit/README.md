@@ -1,6 +1,7 @@
 # Pierce Transit
 
-## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
+* 👍 Alexandra Mather
 * 👍 Alexandra Mather
 
 ## [HB 1050](/bill/2023-24/hb/1050/) - Apprenticeship utilization   ❓1
@@ -41,7 +42,7 @@
 * 👍 Grantley Martelly
 * 👍 Grantley Martelly
 
-## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍2  
 
 ## [SB 5586](/bill/2023-24/sb/5586/) - Paid leave data 👍2  
 * 👍 Alexandra Mather

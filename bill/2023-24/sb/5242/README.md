@@ -22,14 +22,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154631&caId=22501&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154631&caId=22501&tId=4)
 
-#### 113 👍 - Pro
+#### 159 👍 - Pro
 Testifying:
 * 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
 
-#### 82 👎 - Con
+#### 101 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * SammieJo Thirtyacre
+* Bruce Monell
+* Theresa Schrempp
 
 #### 0 ❓ - Other
 

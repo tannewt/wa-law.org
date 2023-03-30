@@ -25,16 +25,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154713&caId=22535&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154713&caId=22535&tId=4)
 
-#### 6 👍 - Pro
+#### 875 👍 - Pro
+Testifying:
+* Danni Askini - Gender Justice League
+* Dr. Crystal Beal - QueerDoc
+* 💵Emily Stone - [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/)
+* Rebekah Gardea - QLaw Foundation
 
-#### 967 👎 - Con
+#### 1583 👎 - Con
 Testifying:
 * Gabriel Jacobs
 * Julie Barrett - Parent
 * Julie Barrett - Conservative Ladies of Washington
 * Eric pratt - America
+* Bruce Monell
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 03/16 08:00 AM - Law & Justice (LAW): ESHB 1469 Health care services/access
 #### 885 👍 - Pro

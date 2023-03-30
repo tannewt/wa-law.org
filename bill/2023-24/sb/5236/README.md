@@ -23,13 +23,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154630&caId=22500&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154630&caId=22500&tId=4)
 
-#### 990 👍 - Pro
+#### 1439 👍 - Pro
 Testifying:
 * 💵Katharine Weiss - Washington State Nurses Association
+* 💵Chelene Whiteaker - Washington State Hospital Association
 
 #### 1 👎 - Con
 
-#### 13 ❓ - Other
+#### 16 ❓ - Other
 
 ### Wed 03/15 08:00 AM - Labor & Workplace Standards (LAWS): E2SSB 5236 Hospital staffing standards
 #### 2122 👍 - Pro

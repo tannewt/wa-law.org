@@ -16,11 +16,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154700&caId=22522&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154700&caId=22522&tId=4)
 
-#### 5 👍 - Pro
+#### 142 👍 - Pro
 Testifying:
 * 💵Paul Benz - Wa coalition for police accountability
+* Barbara Serrano - Office of the Governor
+* Roger Rogoff - Office of Independent Investigations
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Paul Giuglianotti
 
 #### 0 ❓ - Other
 

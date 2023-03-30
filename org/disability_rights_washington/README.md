@@ -34,7 +34,7 @@
 
 ## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍2  
 
-## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍2  
+## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍3  
 
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍1  
 

@@ -2,7 +2,7 @@
 
 ## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍1  
 
-## [HB 1371](/bill/2023-24/hb/1371/) - Freight railroad infra. 👍1  ❓1
+## [HB 1371](/bill/2023-24/hb/1371/) - Freight railroad infra. 👍2  ❓1
 * ❓ Adam LeMieux
 
 ## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍1  

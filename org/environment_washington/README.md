@@ -17,7 +17,13 @@
 
 ## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍1  
 
+## [HB 1554](/bill/2023-24/hb/1554/) - Lead impacts 👍1  
+
 ## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy 👍1  
+
+## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍1  
+
+## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1  
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management 👍1  
 * 👍 Pam Clough

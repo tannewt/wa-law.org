@@ -55,7 +55,7 @@
 
 ## [SB 5028](/bill/2023-24/sb/5028/) - Name changes 👍1  
 
-## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍2  
+## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍3  
 
 ## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍2  
 
@@ -85,7 +85,7 @@
 
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍2  
 
-## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍2  
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍3  
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
 
@@ -95,7 +95,7 @@
 
 ## [SB 5581](/bill/2023-24/sb/5581/) - Maternal support services 👍1  
 
-## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍1  
+## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍2  
 
 ## [SB 5702](/bill/2023-24/sb/5702/) - Student homelessness pilot 👍3  
 

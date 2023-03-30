@@ -1,6 +1,6 @@
 # City of Spokane
 
-## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍1  
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 
 ## [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims 👍1  
 * 👍💵 Nick Federici

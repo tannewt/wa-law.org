@@ -16,9 +16,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154719&caId=22541&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154719&caId=22541&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * 💵James King - [Independent Business Association](/org/independent_business_association/)
+* Tom Kwieciak - Building Industry Association of WA
 
 #### 0 👎 - Con
 

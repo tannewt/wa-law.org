@@ -3,6 +3,8 @@
 ## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
 * 👍💵 Paul Berendt
 
+## [HB 1850](/bill/2023-24/hb/1850/) - Hospital safety net program 👍1  
+
 ## [SB 5122](/bill/2023-24/sb/5122/) - Ambulance transport fund 👍2  
 * 👍 Mike Battis
 * 👍 Mike Battis

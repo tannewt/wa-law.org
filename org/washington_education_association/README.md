@@ -50,7 +50,7 @@
 ## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍4  
 * 👍💵 Julie Salvi
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍5  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍6  
 
 ## [HB 1113](/bill/2023-24/hb/1113/) - Prof. educator reprimands 👍2  
 * 👍💵 Nasue Nishida
@@ -92,7 +92,7 @@
 
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
 
-## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍3  
+## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍4  
 
 ## [HB 1187](/bill/2023-24/hb/1187/) - Employee-union privilege 👍2  
 
@@ -173,7 +173,7 @@
 
 ## [HB 1309](/bill/2023-24/hb/1309/) - Contractor registration 👍1  
 
-## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍1  
+## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍2  
 
 ## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records 👍2  
 
@@ -201,7 +201,7 @@
 
 ## [HB 1399](/bill/2023-24/hb/1399/) - Native American scholarships 👍1  
 
-## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍3  
+## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍4  
 
 ## [HB 1407](/bill/2023-24/hb/1407/) - Dev. disability/eligibility 👍1  
 
@@ -274,16 +274,18 @@
 
 ## [HB 1548](/bill/2023-24/hb/1548/) - Railroad workers 👍1  
 
-## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍1 👎1 ❓2
+## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍2 👎1 ❓2
 * 👎💵 Nasue Nishida
 * ❓💵 Julie Salvi
 * ❓💵 Julie Salvi
+* 👍💵 Nasue Nishida
 * 👍💵 Nasue Nishida
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍3  
 * 👍💵 Simone Boe
 
-## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍3  
+## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍4  
+* 👍💵 Nasue Nishida
 * 👍💵 Nasue Nishida
 
 ## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy 👍1  
@@ -332,10 +334,10 @@
 * 👍💵 Julie Salvi
 * 👍💵 Julie Salvi
 
-## [HB 1744](/bill/2023-24/hb/1744/) - Charter school oversight 👍2  
+## [HB 1744](/bill/2023-24/hb/1744/) - Charter school oversight 👍3  
 * 👍💵 Julie Salvi
 
-## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍4  
+## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍5  
 
 ## [HB 1750](/bill/2023-24/hb/1750/) - Water safety education 👍1  
 
@@ -350,7 +352,7 @@
 
 ## [HB 1821](/bill/2023-24/hb/1821/) - Postsecondary credentials 👍1  
 
-## [HB 1823](/bill/2023-24/hb/1823/) - WA student loan program 👍2  
+## [HB 1823](/bill/2023-24/hb/1823/) - WA student loan program 👍3  
 
 ## [SB 5010](/bill/2023-24/sb/5010/) - Synthetic opioids/endanger. 👍1  
 
@@ -429,9 +431,9 @@
 ## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
 * 👍 Jared Mason-Gere
 
-## [SB 5208](/bill/2023-24/sb/5208/) - Online voter registration 👍2  
+## [SB 5208](/bill/2023-24/sb/5208/) - Online voter registration 👍3  
 
-## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I 👍4  
+## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I 👍5  
 * 👍 Debby Chandler
 
 ## [SB 5219](/bill/2023-24/sb/5219/) - Counseling compact 👍1  
@@ -593,7 +595,7 @@
 
 ## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍1  
 
-## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍4  
+## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍5  
 * 👍💵 Simone Boe
 
 ## [SB 5600](/bill/2023-24/sb/5600/) - Universal communications prg 👍1  

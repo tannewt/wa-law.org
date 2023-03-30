@@ -34,13 +34,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31204&aId=154772&caId=22574&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31204&aId=154772&caId=22574&tId=4)
 
-#### 7 👍 - Pro
+#### 332 👍 - Pro
 Testifying:
 * Joe Kunzler - None
 
-#### 0 👎 - Con
+#### 17 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Noha Mahgoub - Governor's Office
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
 
 ### Thu 03/16 08:00 AM - Housing (HOUS): ESSB 5466 Transit-oriented development
 #### 818 👍 - Pro

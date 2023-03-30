@@ -17,13 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154637&caId=22507&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154637&caId=22507&tId=4)
 
-#### 17 👍 - Pro
+#### 203 👍 - Pro
+Testifying:
+* Preston Peck - City of Tacoma, Environmental Services
 
 #### 2 👎 - Con
 Testifying:
 * George Kerchner - PRBA - The Rechargeable Battery Association
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Eric Frederickson - Call2Recycle
 

@@ -29,6 +29,9 @@
 
 ## [HB 1745](/bill/2023-24/hb/1745/) - Diversity in clinical trials 👍1  
 
+## [HB 1850](/bill/2023-24/hb/1850/) - Hospital safety net program   ❓1
+* ❓💵 Emily Brice
+
 ## [SB 5169](/bill/2023-24/sb/5169/) - Medicare/health care plans 👍1  
 
 ## [SB 5183](/bill/2023-24/sb/5183/) - Personal needs allowance 👍1  

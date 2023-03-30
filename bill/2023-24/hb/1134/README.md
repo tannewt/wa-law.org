@@ -14,6 +14,19 @@
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Policing, Crime & Courts](https://crosscut.com/voter-guide/2023-legislative-tracker/election/policing-crime-courts#:~:text=House Bill 1134)
 
 ## Meetings
+### Thu 03/30 12:30 PM - Ways & Means (WM): E2SHB 1134 988 system
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154779&caId=22591&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154779&caId=22591&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154779&caId=22591&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154779&caId=22591&tId=4)
+
+#### 9 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 03/23 10:30 AM - Health & Long Term Care (HLTC): E2SHB 1134 988 system
 #### 246 👍 - Pro
 Testifying:

@@ -20,6 +20,28 @@
 * [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB 1789)
 
 ## Meetings
+### Thu 03/30 12:30 PM - Ways & Means (WM): ESHB 1789 Ecosystem services
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154786&caId=22598&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154786&caId=22598&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154786&caId=22598&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154786&caId=22598&tId=4)
+
+#### 4 👍 - Pro
+Testifying:
+* Csenka Favorini-Csorba - Washington Department of Natural Resources
+* Duane Emmons - Washington Department of Natural Resources
+* Hilary Franz - Washington Department of Natural Resources
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+
+#### 14 👎 - Con
+Testifying:
+* Sherri Dysart - League of Women Voters of Washington
+
+#### 1 ❓ - Other
+Testifying:
+* Mark Watrin - Washington State School Directors' Association
+
 ### Wed 03/22 08:00 AM - Environment, Energy & Technology (ENET): ESHB 1789 Ecosystem services
 #### 53 👍 - Pro
 Testifying:

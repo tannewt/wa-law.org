@@ -17,13 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154695&caId=22517&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154695&caId=22517&tId=4)
 
-#### 85 👍 - Pro
+#### 213 👍 - Pro
 Testifying:
 * Waldo Waldron-Ramsey - Lobbyist, Washington Community Action Network
+* Barbara Serrano - Office of the Governor
 
-#### 1 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 03/16 08:00 AM - Human Services (HS): E2SHB 1189 Total confinement release
 #### 258 👍 - Pro

@@ -7,7 +7,7 @@
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
 
-## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍2  
+## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍3  
 
 ## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
 * ❓💵 Carolyn Brotherton
@@ -35,6 +35,9 @@
 
 ## [HB 1795](/bill/2023-24/hb/1795/) - Estate tax 👍1  
 * 👍💵 Carolyn Brotherton
+
+## [HB 1850](/bill/2023-24/hb/1850/) - Hospital safety net program   ❓1
+* ❓ Sam Hatzenbeler
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍2  
 

@@ -26,11 +26,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154730&caId=22552&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154730&caId=22552&tId=4)
 
-#### 1 👍 - Pro
+#### 69 👍 - Pro
 Testifying:
 * Jim Stoffer - Public School Advocate of Sequim
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
+* Jim Stoffer - Public School Advocate of Sequim
+* Jim Kowalkowski - Rural Education Center
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* 💵Katy Warren - WA State Assn of Head Start and ECEAP
+* Margot Grant Gould - KinderCare
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 
 #### 0 ❓ - Other
 

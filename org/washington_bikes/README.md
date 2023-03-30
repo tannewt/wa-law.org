@@ -18,6 +18,9 @@
 
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍2  
 
+## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  
+* 👍 Vicky Clarke
+
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍3  
 * 👍 Tamar Shuhendler
 * 👍 Tamar Shuhendler

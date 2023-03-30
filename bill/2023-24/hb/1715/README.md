@@ -22,9 +22,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154699&caId=22521&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154699&caId=22521&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Annalise Martucci - Office of Civil Legal Aid
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
+* Amber Hardy
 
 #### 0 👎 - Con
 

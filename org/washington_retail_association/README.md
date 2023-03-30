@@ -42,7 +42,7 @@
 ## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products  👎1 
 * 👎💵 Mark Johnson
 
-## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍3  
+## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍4  
 
 ## [HB 1302](/bill/2023-24/hb/1302/) - Vehicle report of sale 👍2  
 
@@ -135,11 +135,11 @@
 
 ## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍2  
 
-## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍2  
+## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍3  
 * 👍💵 Mark Johnson
 * 👍💵 Mark Johnson
 
-## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1  ❓2
+## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1  ❓3
 * ❓💵 Mark Johnson
 * ❓💵 Mark Johnson
 
@@ -202,7 +202,7 @@
 
 ## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax  👎1 
 
-## [SB 5502](/bill/2023-24/sb/5502/) - Sub. use disorder treatment 👍2  
+## [SB 5502](/bill/2023-24/sb/5502/) - Sub. use disorder treatment 👍3  
 * 👍💵 Mark Johnson
 * 👍💵 Mark Johnson
 
@@ -230,5 +230,6 @@
 
 ## [SB 5733](/bill/2023-24/sb/5733/) - Payment card processing/tax 👍1  
 
-## [SB 5740](/bill/2023-24/sb/5740/) - Catalytic converter theft 👍1  
+## [SB 5740](/bill/2023-24/sb/5740/) - Catalytic converter theft 👍1  ❓1
 * 👍💵 Mark Johnson
+* ❓💵 Mark Johnson

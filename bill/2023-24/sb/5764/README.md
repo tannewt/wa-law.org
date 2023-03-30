@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154712&caId=22534&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154712&caId=22534&tId=4)
 
-#### 2 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* 💵Chelene Whiteaker - Washington State Hospital Association
+* Len McComb - Washington State Hospital Association
+* Mike Glenn - Jefferson Healthcare and WSHA
 
 #### 0 👎 - Con
 

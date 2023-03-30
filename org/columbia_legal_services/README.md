@@ -22,7 +22,8 @@
 ## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
 * 👍💵 Hannah Woerner
 
-## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍3  
+## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍4  
+* 👍💵 Hannah Woerner
 * 👍💵 Hannah Woerner
 * 👍💵 Hannah Woerner
 * 👍💵 Hannah Woerner
@@ -73,7 +74,8 @@
 
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍1  
 
-## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍3  
+## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍4  
+* 👍💵 Hannah Woerner
 * 👍💵 Hannah Woerner
 * 👍💵 Hannah Woerner
 * 👍💵 Hannah Woerner

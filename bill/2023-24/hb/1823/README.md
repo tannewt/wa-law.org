@@ -12,6 +12,19 @@
 * [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=EHB 1823)
 
 ## Meetings
+### Fri 03/31 12:30 PM - Ways & Means (WM): EHB 1823 WA student loan program
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154787&caId=22599&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154787&caId=22599&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154787&caId=22599&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154787&caId=22599&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 03/10 10:30 AM - Higher Education & Workforce Development (HEWD): EHB 1823 WA student loan program
 #### 16 👍 - Pro
 Testifying:

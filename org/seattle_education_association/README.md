@@ -6,7 +6,9 @@
 
 ## [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information 👍1  
 
-## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍4  
+## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍1  
+
+## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍5  
 * 👍 Karl Gapuz
 
 ## [HB 1732](/bill/2023-24/hb/1732/) - K-12 inflation adjustments 👍2  

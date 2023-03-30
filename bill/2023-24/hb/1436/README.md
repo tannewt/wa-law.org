@@ -29,11 +29,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154729&caId=22551&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154729&caId=22551&tId=4)
 
-#### 1 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Jen Chong Jewell - SEAC
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Lisa Mathes - Washington State School Directors' Association
 
 ### Wed 03/15 01:30 PM - Early Learning & K-12 Education (EDU): ESHB 1436 Special education funding
 #### 51 👍 - Pro

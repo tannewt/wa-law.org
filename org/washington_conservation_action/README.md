@@ -44,7 +44,7 @@
 
 ## [HB 1775](/bill/2023-24/hb/1775/) - Salmon recovery/liability 👍1  
 
-## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1 👎1 
+## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1 👎2 
 * 👍💵 Darcy Nonemacher
 * 👎 Rachel Baker
 

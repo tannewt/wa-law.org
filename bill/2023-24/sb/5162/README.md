@@ -14,16 +14,32 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31171&aId=154408&caId=22466&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31171&aId=154408&caId=22466&tId=4)
 
-#### 4 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Tim Sheldon
 * Lisa Janicki - [Skagit County](/org/skagit_county/)
+* 💵Emily Wittman - 1301 5th Ave Suite 1500
+* Erica Dial
+* Kelly Coughlin - Executive Director - SnoValley Chamber of Commerce
+* Sean Kelly - Mayor - City of Maple Valley
+* Vicky Clarke - [Washington Bikes](/org/washington_bikes/)
+* 💵Connor Haggerty - Washington State University
+* 💵Justin Leighton - Washington State Transit Association
+* 💵Luke Esser - [Kalispel Tribe](/org/kalispel_tribe/)
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * Thomas White
+* Mary Paterson
+* Marcos Wanless - Seattle Latino Metropolitan Chamber of Commerce
+* Elizabeth Chamberlain - [City of Walla Walla](/org/city_of_walla_walla/)
+* Ki Bealey - [City of Walla Walla](/org/city_of_walla_walla/)
+* Pat Reay - [Port of Walla Walla](/org/port_of_walla_walla/)
+* Tony Garcia - Walla Walla County
+* Matt Morrison - PNWER
+* Ron Arp - Identity Clark County
 
 ### Tue 01/17 04:00 PM - Transportation (TRAN): SB 5162 Transportation budget
 #### 18 👍 - Pro

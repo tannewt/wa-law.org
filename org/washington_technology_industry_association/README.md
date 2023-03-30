@@ -1,8 +1,8 @@
 # Washington Technology Industry Association
 
-## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
+## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍3  
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
 
 ## [HB 1146](/bill/2023-24/hb/1146/) - Dual credit program notice 👍2  
 
@@ -11,11 +11,11 @@
 
 ## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍3  
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
 
-## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍3  
+## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍4  
 
-## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍3  
+## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍4  
 
 ## [HB 1793](/bill/2023-24/hb/1793/) - Wireless devices tax  👎1 
 * 👎💵 Kelly Fukai
@@ -30,7 +30,7 @@
 
 ## [SB 5522](/bill/2023-24/sb/5522/) - College grant prg. stipend 👍1  
 
-## [SB 5534](/bill/2023-24/sb/5534/) - Workforce investment board 👍3  
+## [SB 5534](/bill/2023-24/sb/5534/) - Workforce investment board 👍4  
 
 ## [SB 5594](/bill/2023-24/sb/5594/) - Fully autonomous vehicles 👍1  
 

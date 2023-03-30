@@ -25,7 +25,7 @@
 
 ## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce 👍1  
 
-## [HB 1745](/bill/2023-24/hb/1745/) - Diversity in clinical trials 👍3  
+## [HB 1745](/bill/2023-24/hb/1745/) - Diversity in clinical trials 👍4  
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
 

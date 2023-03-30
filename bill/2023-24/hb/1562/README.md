@@ -21,7 +21,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154698&caId=22520&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154698&caId=22520&tId=4)
 
-#### 0 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* Sandra Shanahan - Regional Domestic Violence Firearms Enforcement Unit
 
 #### 0 👎 - Con
 

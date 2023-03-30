@@ -20,7 +20,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154722&caId=22544&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154722&caId=22544&tId=4)
 
-#### 22 👍 - Pro
+#### 102 👍 - Pro
+Testifying:
+* Carol Sullivan - League of Women Voters of WA
+* Cher Scarlett
 
 #### 0 👎 - Con
 

@@ -16,13 +16,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154696&caId=22518&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154696&caId=22518&tId=4)
 
-#### 24 👍 - Pro
+#### 143 👍 - Pro
 Testifying:
 * Katie Hurley - King County Department of Public Defense
+* Laura Merchant
+* Jimmy Hung - King County Prosecuting Attorney's Office
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Brad Meryhew - Chair, Sex Offender Policy Board
 
 ### Tue 03/14 10:30 AM - Human Services (HS): ESHB 1394 Sexual offenses by youth
 #### 197 👍 - Pro

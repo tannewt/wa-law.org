@@ -1,6 +1,6 @@
 # Washington Hospitality Association
 
-## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍3  
+## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍4  
 
 ## [HB 1068](/bill/2023-24/hb/1068/) - Injured worker medical exams  👎1 
 * 👎💵 Samantha Louderback
@@ -20,7 +20,8 @@
 
 ## [HB 1217](/bill/2023-24/hb/1217/) - Wage complaints  👎1 
 
-## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍3  
+## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍4  
+* 👍💵 Julia Gorton
 * 👍💵 Julia Gorton
 * 👍💵 Julia Gorton
 

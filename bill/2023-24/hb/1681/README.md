@@ -9,6 +9,19 @@
 * [Second Substitute](S2/)
 
 ## Meetings
+### Thu 03/30 12:30 PM - Ways & Means (WM): 2SHB 1681 Problem gambling
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154781&caId=22593&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154781&caId=22593&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154781&caId=22593&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154781&caId=22593&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/21 08:00 AM - Finance (FIN): SHB 1681 Problem gambling
 #### 6 👍 - Pro
 Testifying:

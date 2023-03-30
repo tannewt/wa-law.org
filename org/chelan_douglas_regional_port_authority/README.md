@@ -6,13 +6,14 @@
 
 ## [HB 1527](/bill/2023-24/hb/1527/) - Tax increment financing 👍1  
 
-## [HB 1663](/bill/2023-24/hb/1663/) - Consolidated port districts 👍10  
+## [HB 1663](/bill/2023-24/hb/1663/) - Consolidated port districts 👍11  
 * 👍 Monica Lough
 * 👍 Richard DeRock
 * 👍 Cynthia Weed
 * 👍 JC Baldwin
 * 👍 Jim Kuntz
 * 👍 Alan Loebsack
+* 👍 Jim Kuntz
 * 👍 Jim Kuntz
 
 ## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍2  

@@ -150,12 +150,15 @@
 ## [HB 1735](/bill/2023-24/hb/1735/) - GMA/net ecological gain 👍1  
 * 👍💵 Paul Jewell
 
+## [HB 1756](/bill/2023-24/hb/1756/) - Energy/tax 👍1  
+
 ## [HB 1787](/bill/2023-24/hb/1787/) - Transport and delivery  👎1 
 * 👎💵 Paul Jewell
 
-## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1  ❓2
+## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍2  ❓2
 * ❓💵 Paul Jewell
 * ❓💵 Paul Jewell
+* 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel  👎1 ❓2

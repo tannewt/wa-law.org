@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Transportation (TRAN): SB 5740 Catalytic converter theft
@@ -14,15 +15,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31171&aId=154689&caId=22515&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31171&aId=154689&caId=22515&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Brad Tower - Schnitzer
+* 💵Holly Chisa - Institute of Scrap Recycling Industries
 
-#### 1 👎 - Con
+#### 24 👎 - Con
 Testifying:
 * 💵James King - [Independent Business Association](/org/independent_business_association/)
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
+* 💵Holly Chisa - Institute of Scrap Recycling Industries
+* Gary Ernsdorff - King County Prosecuting Attorney's Office
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 
 ### Tue 03/14 10:30 AM - Law & Justice (LAW): SB 5740 Catalytic converter theft
 #### 80 👍 - Pro

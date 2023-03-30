@@ -69,7 +69,7 @@
 
 ## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍3  
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍4  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍5  
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍3  
 
@@ -77,7 +77,7 @@
 
 ## [HB 1651](/bill/2023-24/hb/1651/) - Infraction debt 👍1  
 
-## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍8  
+## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍9  
 * 👍💵 Alex Hur
 * 👍💵 Alex Hur
 * 👍💵 Lianna Kressin

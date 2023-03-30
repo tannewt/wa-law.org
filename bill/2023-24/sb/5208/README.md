@@ -19,12 +19,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154628&caId=22498&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154628&caId=22498&tId=4)
 
-#### 128 👍 - Pro
+#### 174 👍 - Pro
 Testifying:
 * Carol Sullivan - League of Women Voters of WA
 * 💵Denisse Guerrero - Washington Bus
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

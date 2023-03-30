@@ -15,7 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154751&caId=22576&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154751&caId=22576&tId=4)
 
-#### 1 👍 - Pro
+#### 19 👍 - Pro
+Testifying:
+* Absa Samba
+* Maryum Saifee - Muslim Americans in Public Service
+* Djessou Kouyate - 12211 Elm Forest Ct
 
 #### 0 👎 - Con
 

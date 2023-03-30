@@ -13,7 +13,7 @@
 
 ## [HB 1340](/bill/2023-24/hb/1340/) - Health professions/conduct 👍1  
 
-## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍2  
+## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍3  
 * 👍💵 Alizeh Bhojani
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  

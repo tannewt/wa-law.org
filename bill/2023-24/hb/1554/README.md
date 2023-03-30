@@ -16,13 +16,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31171&aId=154688&caId=22514&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31171&aId=154688&caId=22514&tId=4)
 
-#### 5 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Eric Gonzalez Alfaro - [Earthjustice](/org/earthjustice/)
+* Christian Poulsen - King County International Airport Community Coalition
+* Chris Covert-Bowlds - WA Physicians for Social Responsibility
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Larry Krauter - Spokane Airports
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 03/15 08:00 AM - Environment, Energy & Technology (ENET): ESHB 1554 Lead impacts
 #### 197 👍 - Pro

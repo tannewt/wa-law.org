@@ -2,10 +2,11 @@
 
 ## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍4  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍5  
 * 👍💵 Brent Ludeman
 * 👍💵 Josie Cummings
 * 👍 Kurt Wilson
+* 👍💵 Tricia Gullion
 * 👍💵 Tricia Gullion
 
 ## [HB 1129](/bill/2023-24/hb/1129/) - Mobile home community sales  👎1 

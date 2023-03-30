@@ -13,6 +13,9 @@
 * 👍 Sybill Hppolite
 * 👍 Joe Kendo
 
+## [SB 5286](/bill/2023-24/sb/5286/) - Paid leave premiums 👍1  
+* 👍 Joe Kendo
+
 ## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍1  
 * 👍 Joe Kendo
 

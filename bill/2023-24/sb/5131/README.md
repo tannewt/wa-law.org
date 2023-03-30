@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154626&caId=22497&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154626&caId=22497&tId=4)
 
-#### 59 👍 - Pro
+#### 63 👍 - Pro
 Testifying:
 * Loren Taylor
 * Micaela Romero
@@ -25,6 +25,7 @@ Testifying:
 * Michelle Mason - FOTi (Families of the Incarcerated)
 * Tim D'Allo - FOTi (Families of the Incarcerated)
 * Matthew Walker - FOTi (Families of the Incarcerated)/The Roots Up
+* Megan Miller - FOTi Families of the incarcerated
 
 #### 0 👎 - Con
 

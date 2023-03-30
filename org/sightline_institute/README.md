@@ -5,7 +5,7 @@
 
 ## [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act 👍1  
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍5  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍6  
 * 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 
@@ -44,7 +44,7 @@
 
 ## [HB 1428](/bill/2023-24/hb/1428/) - Pedestrians/roadways 👍1  
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍4  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍5  
 
 ## [HB 1517](/bill/2023-24/hb/1517/) - Transit-oriented development 👍1  
 * 👍💵 Dan Bertolet
@@ -76,7 +76,7 @@
 ## [SB 5456](/bill/2023-24/sb/5456/) - Minimum parking requirements 👍1  
 * 👍 Catie Gould
 
-## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍3  
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍4  
 * 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
