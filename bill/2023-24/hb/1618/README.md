@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [WA moves to eliminate time limits for child sex abuse lawsuits | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-moves-to-eliminate-time-limits-for-child-sex-abuse-lawsuits/#:~:text=House Bill 1618)
+
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): 2SHB 1618 Childhood sexual abuse/SOL
 Sign up to testify:

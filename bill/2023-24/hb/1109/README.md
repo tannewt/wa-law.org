@@ -15,6 +15,7 @@
 * [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=HB 1109)
 * [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! January 17, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-january-17-2023-2/#:~:text=HB 1109)
 * [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=HB 1109)
+* [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=SHB 1109)
 
 ## Meetings
 ### Tue 03/28 04:00 PM - Ways & Means (WM): SHB 1109 Special education funding

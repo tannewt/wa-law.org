@@ -9,6 +9,9 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 
+## Articles
+* [MyNorthwest](/org/mynorthwest/) - [Rantz: Bill by WA Democrats releases scores of murderers from jail early - MyNorthwest.com](https://mynorthwest.com/3861743/rantz-bill-washington-democrat-bill-release-murderers-jail-early/#:~:text=HB 1189)
+
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): E2SHB 1189 Total confinement release
 Sign up to testify:

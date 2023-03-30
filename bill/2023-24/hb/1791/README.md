@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## Articles
+* [South Seattle Emerald](/org/south_seattle_emerald/) - [Local and State Legislation Hope to Address Environmental Impacts From Airports | South Seattle Emerald](https://southseattleemerald.com/2023/03/27/local-and-state-legislation-hope-to-address-environmental-impacts-from-airports/#:~:text=House Bill 1791)
+
 ## Meetings
 ### Tue 03/21 04:00 PM - Transportation (TRAN): ESHB 1791 Commercial aviation services
 #### 96 👍 - Pro

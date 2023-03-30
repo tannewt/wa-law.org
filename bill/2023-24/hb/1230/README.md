@@ -13,6 +13,7 @@
 * [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! January 26, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-january-26-2023/#:~:text=HB 1230)
 * [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! March 20, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-march-20-2023/#:~:text=HB 1230)
 * [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=HB 1230)
+* [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=HB 1230)
 * [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=HB 1230)
 
 ## Meetings

@@ -12,6 +12,7 @@
 * [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=SB 5626)
 * [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SB 5626)
 * [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! February 6, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-february-6-2023/#:~:text=SB 5626)
+* [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=SSB 5626)
 
 ## Meetings
 ### Mon 03/13 01:30 PM - Education (ED): SSB 5626 K-12 media literacy

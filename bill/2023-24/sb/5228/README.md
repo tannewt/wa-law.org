@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Occupational therapy should be a standard resource for people with mental health needs | Mental Health Perspectives | The Seattle Times](https://www.seattletimes.com/seattle-news/mental-health/occupational-therapy-should-be-a-standard-resource-for-people-with-mental-health-needs-mental-health-perspectives/#:~:text=SB 5228)
+
 ## Meetings
 ### Fri 03/31 01:30 PM - Appropriations (APP): SB 5228 Behavioral health OT
 Sign up to testify:

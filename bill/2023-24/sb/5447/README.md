@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Pass WA sustainable aviation fuels bill to combat climate crisis | The Seattle Times](https://www.seattletimes.com/opinion/editorials/pass-wa-sustainable-aviation-fuels-bill-to-combat-climate-crisis/#:~:text=sponsored Senate Bill 5447)
+
 ## Meetings
 ### Tue 03/28 08:00 AM - Finance (FIN): ESSB 5447 Alternative jet fuel
 #### 40 👍 - Pro

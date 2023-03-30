@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [KING5](/org/king5/) - [Bill would cover some childcare center fees in Washington | king5.com](https://www.king5.com/article/news/local/washington-state-pick-up-fees-childcare-centers/281-7c2a1ae1-91ed-4482-9776-48f6fc191768#:~:text=Senate Bill 5316)
+
 ## Meetings
 ### Tue 03/21 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SB 5316 DCYF background check fees
 #### 53 👍 - Pro
