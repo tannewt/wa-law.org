@@ -17,11 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154642&caId=22486&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154642&caId=22486&tId=4)
 
-#### 54 👍 - Pro
+#### 105 👍 - Pro
 Testifying:
 * 💵Kate Baber - DESC
+* David Cacanindin
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -6,7 +6,7 @@
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
-## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍3  
+## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍4  
 
 ## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍2  
 
@@ -25,7 +25,7 @@
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍4  
 * 👍 Donna O'Connor
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍3  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍4  
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍2  
 
@@ -37,7 +37,7 @@
 
 ## [HB 1517](/bill/2023-24/hb/1517/) - Transit-oriented development 👍1  
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍3  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍4  
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍3  
 
@@ -57,7 +57,7 @@
 
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍3  
 
-## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍2  
+## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍3  
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 

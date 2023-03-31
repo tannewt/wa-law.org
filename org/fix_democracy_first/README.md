@@ -30,6 +30,8 @@
 
 ## [HB 1164](/bill/2023-24/hb/1164/) - Appliance management 👍1  
 
+## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍1  
+
 ## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍1  
 
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍2  
@@ -82,6 +84,8 @@
 
 ## [HB 1390](/bill/2023-24/hb/1390/) - District energy systems 👍1  
 
+## [HB 1394](/bill/2023-24/hb/1394/) - Sexual offenses by youth 👍2  
+
 ## [HB 1426](/bill/2023-24/hb/1426/) - Controlled entities 👍2  
 * 👍💵 Cindy Black
 
@@ -124,7 +128,7 @@
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
 
-## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍1  
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍2  
 
 ## [HB 1584](/bill/2023-24/hb/1584/) - Nuclear reactor technology  👎1 
 
@@ -138,7 +142,7 @@
 
 ## [HB 1723](/bill/2023-24/hb/1723/) - GMA/equity and env. justice 👍1  
 
-## [HB 1777](/bill/2023-24/hb/1777/) - Energy contracting 👍1  
+## [HB 1777](/bill/2023-24/hb/1777/) - Energy contracting 👍2  
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
 
@@ -163,6 +167,8 @@
 
 ## [SB 5102](/bill/2023-24/sb/5102/) - School library info and tech 👍3  
 
+## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍1  
+
 ## [SB 5105](/bill/2023-24/sb/5105/) - Digital driver's licenses  👎1 
 
 ## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍4  
@@ -170,6 +176,8 @@
 ## [SB 5129](/bill/2023-24/sb/5129/) - Nuclear reactor technology  👎1 
 
 ## [SB 5135](/bill/2023-24/sb/5135/) - Solitary confinement 👍1  
+
+## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1  
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management 👍1  
 
@@ -200,7 +208,7 @@
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
 
-## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍1  
+## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍2  
 
 ## [SB 5284](/bill/2023-24/sb/5284/) - Campaign finance disclosure 👍4  
 * 👍💵 Cindy Black

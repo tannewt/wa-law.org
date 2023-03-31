@@ -15,13 +15,7 @@
 
 ## Meetings
 ### Thu 03/30 08:00 AM - Finance (FIN): E2SSB 5045 ADU rental/property tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31146&aId=154657&caId=22508&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31146&aId=154657&caId=22508&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31146&aId=154657&caId=22508&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31146&aId=154657&caId=22508&tId=4)
-
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Neal Black - Council member,  City of Kirkland
 

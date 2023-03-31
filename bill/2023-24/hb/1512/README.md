@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): HB 1512 Missing persons
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154703&caId=22525&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154703&caId=22525&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154703&caId=22525&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154703&caId=22525&tId=4)
-
-#### 4 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * 💵Diana Stadden - The Arc of WA State
 

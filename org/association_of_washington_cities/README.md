@@ -29,9 +29,11 @@
 ## [HB 1099](/bill/2023-24/hb/1099/) - Public works wages   ❓1
 * ❓ Brandy DeLange
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓3
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓5
 * ❓💵 Carl Schroeder
 * ❓💵 Carl Schroeder
+* ❓💵 Carl Schroeder
+* ❓💵 Candice Bock
 * ❓💵 Carl Schroeder
 
 ## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget 👍1  
@@ -113,7 +115,7 @@
 
 ## [HB 1413](/bill/2023-24/hb/1413/) - Flexible work/peace officers 👍1  
 
-## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍2  
+## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍3  
 * 👍💵 Carl Schroeder
 
 ## [HB 1428](/bill/2023-24/hb/1428/) - Pedestrians/roadways   ❓1
@@ -225,6 +227,9 @@
 
 ## [SB 5159](/bill/2023-24/sb/5159/) - Shoreline program review 👍1  
 
+## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  
+* 👍 Brandy DeLange
+
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
 * 👍💵 Candice Bock
 
@@ -315,7 +320,8 @@
 * 👍💵 Carl Schroeder
 * 👍💵 Carl Schroeder
 
-## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development   ❓3
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development   ❓4
+* ❓💵 Carl Schroeder
 * ❓💵 Carl Schroeder
 * ❓💵 Carl Schroeder
 * ❓💵 Carl Schroeder

@@ -10,23 +10,18 @@
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): ESHB 1394 Sexual offenses by youth
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154696&caId=22518&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154696&caId=22518&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154696&caId=22518&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154696&caId=22518&tId=4)
-
-#### 143 👍 - Pro
+#### 222 👍 - Pro
 Testifying:
 * Katie Hurley - King County Department of Public Defense
 * Laura Merchant
 * Jimmy Hung - King County Prosecuting Attorney's Office
+* Shawn Sant - Franklin County Prosecutor
 
-#### 2 👎 - Con
+#### 15 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Brad Meryhew - Chair, Sex Offender Policy Board
 

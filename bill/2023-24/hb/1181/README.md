@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Articles
+* [PubliCola](/org/publicola/) - [Growth Is Coming. The Legislature Needs to Plan for It. - PubliCola](https://publicola.com/2023/03/30/growth-is-coming-the-legislature-needs-to-plan-for-it/#:~:text=HB 1181)
 * [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=E2SHB 1181)
 * [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=E2SHB 1181)
 * [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB 1181)

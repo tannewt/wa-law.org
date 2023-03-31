@@ -15,7 +15,7 @@
 
 ## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍1  
 
-## [HB 1332](/bill/2023-24/hb/1332/) - Tribes/K-12 instruction 👍3  
+## [HB 1332](/bill/2023-24/hb/1332/) - Tribes/K-12 instruction 👍4  
 
 ## [HB 1374](/bill/2023-24/hb/1374/) - Office of career connect WA 👍1  
 
@@ -61,7 +61,7 @@
 
 ## [SB 5559](/bill/2023-24/sb/5559/) - Student restraint, isolation 👍1  
 
-## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍3  
+## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍4  
 
 ## [SB 5617](/bill/2023-24/sb/5617/) - Career & tech. ed. courses 👍1  
 

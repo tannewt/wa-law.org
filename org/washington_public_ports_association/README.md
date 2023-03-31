@@ -60,7 +60,7 @@
 ## [HB 1527](/bill/2023-24/hb/1527/) - Tax increment financing 👍1  
 * 👍 Chris Herman
 
-## [HB 1554](/bill/2023-24/hb/1554/) - Lead impacts  👎2 ❓1
+## [HB 1554](/bill/2023-24/hb/1554/) - Lead impacts  👎3 ❓1
 * 👎 Chris Herman
 * 👎 Chris Herman
 
@@ -89,7 +89,7 @@
 
 ## [HB 1787](/bill/2023-24/hb/1787/) - Transport and delivery 👍1  
 
-## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍2 👎2 
+## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍3 👎2 
 * 👎 Eric ffitch
 * 👍💵 John Stuhlmiller
 * 👍 Eric ffitch
@@ -113,7 +113,8 @@
 
 ## [SB 5159](/bill/2023-24/sb/5159/) - Shoreline program review 👍1  
 
-## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget   ❓1
+## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  ❓1
+* 👍 Chris Herman
 
 ## [SB 5192](/bill/2023-24/sb/5192/) - Derelict vessel appeals 👍2  
 

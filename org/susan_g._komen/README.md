@@ -8,7 +8,7 @@
 
 ## [HB 1450](/bill/2023-24/hb/1450/) - Biomarker testing coverage 👍1  
 
-## [HB 1745](/bill/2023-24/hb/1745/) - Diversity in clinical trials 👍3  
+## [HB 1745](/bill/2023-24/hb/1745/) - Diversity in clinical trials 👍4  
 
 ## [SB 5074](/bill/2023-24/sb/5074/) - Biomarker testing coverage 👍1  
 

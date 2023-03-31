@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): 2SHB 1405 Public benefit payments/DCYF
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154707&caId=22529&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154707&caId=22529&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154707&caId=22529&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154707&caId=22529&tId=4)
-
-#### 9 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * 💵Diana Stadden - The Arc of WA State
 * 💵Daniel Lugo - [Treehouse](/org/treehouse/)

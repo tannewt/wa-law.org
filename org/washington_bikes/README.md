@@ -16,6 +16,8 @@
 ## [HB 1674](/bill/2023-24/hb/1674/) - Roadway users/trucks & SUVs 👍2  
 * 👍 Tamar Shuhendler
 
+## [HB 1853](/bill/2023-24/hb/1853/) - Transportation resources 👍1  
+
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍2  
 
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  

@@ -10,6 +10,7 @@
 
 ## Articles
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 7 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02202023#:~:text=H.B.1477)
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 12 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate03302023#:~:text=House Bill 1477)
 
 ## Meetings
 ### Mon 03/13 04:00 PM - Ways & Means (WM): 2SHB 1477 Working families' tax credit

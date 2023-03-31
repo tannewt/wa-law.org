@@ -9,20 +9,14 @@
 
 ## Meetings
 ### Thu 03/30 01:30 PM - Appropriations (APP): SSB 5358 Veterans' services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154633&caId=22503&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154633&caId=22503&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154633&caId=22503&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154633&caId=22503&tId=4)
-
-#### 5 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Tom Davis - Veterans Legislative Coalition (VLC)
 * Randy Johnson - Clallam County Commissioner
 * Wes McCart - Steven County Commissioner
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

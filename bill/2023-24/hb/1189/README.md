@@ -14,20 +14,15 @@
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): E2SHB 1189 Total confinement release
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154695&caId=22517&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154695&caId=22517&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154695&caId=22517&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154695&caId=22517&tId=4)
-
-#### 213 👍 - Pro
+#### 268 👍 - Pro
 Testifying:
 * Waldo Waldron-Ramsey - Lobbyist, Washington Community Action Network
 * Barbara Serrano - Office of the Governor
 
-#### 4 👎 - Con
+#### 21 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 #### 1 ❓ - Other
 

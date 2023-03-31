@@ -83,6 +83,8 @@
 ## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
 * 👍💵 Aaron Czyzewski
 
+## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍1  
+
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍2  
 * 👍💵 Aaron Czyzewski
 

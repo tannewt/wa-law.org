@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154638&caId=22482&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154638&caId=22482&tId=4)
 
-#### 45 👍 - Pro
+#### 75 👍 - Pro
 Testifying:
 * Jack Moriarty - Ownership America
 * Lewis McMurran

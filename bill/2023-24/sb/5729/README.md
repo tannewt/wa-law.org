@@ -9,6 +9,7 @@
 * [Passed Legislature](S.PL/)
 
 ## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Cap on insulin cost now permanent in WA | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/cap-on-insulin-cost-now-permanent-in-wa/#:~:text=Senate Bill 5729)
 * [The Seattle Times](/org/the_seattle_times/) - [WA Legislature aims to lower insulin costs, amid federal inaction | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-legislature-aims-to-lower-insulin-costs-amid-federal-inaction/#:~:text=Senate Bill 5729)
 
 ## Meetings

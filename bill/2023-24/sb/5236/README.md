@@ -17,20 +17,16 @@
 
 ## Meetings
 ### Thu 03/30 01:30 PM - Appropriations (APP): E2SSB 5236 Hospital staffing standards
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154630&caId=22500&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154630&caId=22500&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154630&caId=22500&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154630&caId=22500&tId=4)
-
-#### 1439 👍 - Pro
+#### 1685 👍 - Pro
 Testifying:
 * 💵Katharine Weiss - Washington State Nurses Association
 * 💵Chelene Whiteaker - Washington State Hospital Association
+* Diane Roberts
+* Jennifer Gordon
 
 #### 1 👎 - Con
 
-#### 16 ❓ - Other
+#### 17 ❓ - Other
 
 ### Wed 03/15 08:00 AM - Labor & Workplace Standards (LAWS): E2SSB 5236 Hospital staffing standards
 #### 2122 👍 - Pro

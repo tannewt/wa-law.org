@@ -22,11 +22,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154728&caId=22550&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154728&caId=22550&tId=4)
 
-#### 36 👍 - Pro
+#### 115 👍 - Pro
 Testifying:
 * Jim Stoffer - Public School Advocate
 * Jim Stoffer - Public School Advocate of Sequim
 * Jim Kowalkowski - Rural Education Center
+* 💵Mitch Denning - WA Assn of Maintenance & Operation Administrators
+* Larry Jeffryes - Sequim School Board Director speaking as an individual
 
 #### 0 👎 - Con
 

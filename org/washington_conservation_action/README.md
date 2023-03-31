@@ -20,7 +20,7 @@
 ## [HB 1215](/bill/2023-24/hb/1215/) - Riparian areas 👍1  
 * 👍💵 Darcy Nonemacher
 
-## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍3  
+## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍4  
 * 👍💵 Clifford Traisman
 
 ## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍2  
@@ -44,8 +44,9 @@
 
 ## [HB 1775](/bill/2023-24/hb/1775/) - Salmon recovery/liability 👍1  
 
-## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1 👎2 
+## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1 👎3 
 * 👍💵 Darcy Nonemacher
+* 👎 Rachel Baker
 * 👎 Rachel Baker
 
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial  👎1 

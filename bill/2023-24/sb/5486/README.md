@@ -14,6 +14,7 @@
 * [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=Senate Bill 5486)
 * [The Washington Bus](/org/the_washington_bus/) - [Announcing our 2023 Legislative Priorities! – The Washington Bus](http://www.washingtonbus.org/2023/01/23/announcing-our-2023-legislative-priorities/#:~:text=5486)
 * [The Washington Bus](/org/the_washington_bus/) - [Uncategorized Archives – The Washington Bus](http://www.washingtonbus.org/category/uncategorized/#:~:text=5486)
+* [Crosscut](/org/crosscut/) - [With WA capital gains case settled, what's next for tax reform? | Crosscut](https://crosscut.com/politics/2023/03/wa-capital-gains-case-settled-whats-next-tax-reform#:~:text=Senate Bill 5486)
 
 ## Meetings
 ### Thu 03/09 04:00 PM - Ways & Means (WM): SB 5486 Wealth/property tax

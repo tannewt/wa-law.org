@@ -10,22 +10,19 @@
 
 ## Meetings
 ### Thu 03/30 01:30 PM - Appropriations (APP): ESSB 5217 Musculoskeletal injuries/L&I
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154629&caId=22499&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154629&caId=22499&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154629&caId=22499&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154629&caId=22499&tId=4)
+#### 171 👍 - Pro
+Testifying:
+* 💵Dane Austreng - SEIU Healthcare 1199NW
+* Joe Kendo
 
-#### 108 👍 - Pro
-
-#### 247 👎 - Con
+#### 280 👎 - Con
 Testifying:
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Tom Kwieciak - Building Industry Association of WA
 * 💵Amber Carter - Identity Clark County
 * Bob Battles - Association of Washington Business (AWB)
 
-#### 3 ❓ - Other
+#### 9 ❓ - Other
 
 ### Tue 03/14 10:30 AM - Labor & Workplace Standards (LAWS): ESSB 5217 Musculoskeletal injuries/L&I
 #### 608 👍 - Pro

@@ -9,18 +9,12 @@
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Transportation (TRAN): SB 5740 Catalytic converter theft
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31171&aId=154689&caId=22515&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31171&aId=154689&caId=22515&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31171&aId=154689&caId=22515&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31171&aId=154689&caId=22515&tId=4)
-
-#### 2 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Brad Tower - Schnitzer
 * 💵Holly Chisa - Institute of Scrap Recycling Industries
 
-#### 24 👎 - Con
+#### 32 👎 - Con
 Testifying:
 * 💵James King - [Independent Business Association](/org/independent_business_association/)
 

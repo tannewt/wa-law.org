@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): 2SHB 1390 District energy systems
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154784&caId=22596&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154784&caId=22596&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154784&caId=22596&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154784&caId=22596&tId=4)
-
-#### 5 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * Janette Plunkett - Seattle Chair, Washington Higher Education Sustainability Coalition
 

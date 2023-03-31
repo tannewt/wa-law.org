@@ -29,7 +29,7 @@
 ## [HB 1723](/bill/2023-24/hb/1723/) - GMA/equity and env. justice 👍1  
 * 👍💵 Bryce Yadon
 
-## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services  👎1 
+## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services  👎2 
 
 ## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services 👍1  
 

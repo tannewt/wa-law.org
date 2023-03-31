@@ -18,7 +18,7 @@
 
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
 
-## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍7  
+## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍8  
 * 👍💵 Alex Hur
 * 👍💵 Alex Hur
 * 👍💵 Alex Hur
@@ -44,7 +44,7 @@
 
 ## [HB 1392](/bill/2023-24/hb/1392/) - Electronics repair 👍3  
 
-## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍3  
+## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍4  
 
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍12  
 * 👍💵 Alex Hur
@@ -58,7 +58,7 @@
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍4  
 * 👍💵 Shaun Scott
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍8  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍9  
 * 👍💵 Shaun Scott
 * 👍💵 Shaun Scott
 * 👍💵 Shaun Scott
@@ -121,7 +121,7 @@
 
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍2  
 
-## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1  
+## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍2  
 
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍4  
 * 👍💵 Shaun Scott

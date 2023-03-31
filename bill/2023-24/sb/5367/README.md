@@ -17,14 +17,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154647&caId=22491&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154647&caId=22491&tId=4)
 
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Marc Webster - Washington State Liquor and Cannabis Board
 * Megan Moore - [Washington State Public Health Association](/org/washington_state_public_health_association/)
+* Adán Espino Jr - [Craft Cannabis Coalition](/org/craft_cannabis_coalition/)
 
-#### 5 👎 - Con
+#### 12 👎 - Con
+Testifying:
+* Bonny Jo Peterson - Industrial Hemp Association of WA
+* Scott Wheat - Wheat Family Farm, LLC
+* AZMYTH KAMINSKI - Science Under Nature
+* Dylan Summers - [Lazarus Naturals](/org/lazarus_naturals/)
+* Michael Bernstein - Laurelcrest Capital
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 03/13 01:30 PM - Regulated Substances & Gaming (RSG): E2SSB 5367 Products containing THC
 #### 31 👍 - Pro

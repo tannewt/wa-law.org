@@ -14,18 +14,12 @@
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): 2SHB 1470 Private detention facilities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154715&caId=22537&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154715&caId=22537&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154715&caId=22537&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154715&caId=22537&tId=4)
-
-#### 29 👍 - Pro
+#### 146 👍 - Pro
 Testifying:
 * Erin Dilworth - Communities for a Healthy Bay
 * 💵Hannah Woerner - [Columbia Legal Services](/org/columbia_legal_services/)
 
-#### 0 👎 - Con
+#### 12 👎 - Con
 
 #### 0 ❓ - Other
 

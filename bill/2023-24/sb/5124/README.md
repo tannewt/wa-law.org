@@ -16,9 +16,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154641&caId=22485&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154641&caId=22485&tId=4)
 
-#### 7 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * 💵Shrounda Selivanoff - Children's Home Society of Washington
+* Tara Urs - King County Department of Public Defense
 
 #### 0 👎 - Con
 

@@ -16,21 +16,19 @@
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): E2SHB 1715 Domestic violence
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154699&caId=22521&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154699&caId=22521&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154699&caId=22521&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154699&caId=22521&tId=4)
-
-#### 5 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Annalise Martucci - Office of Civil Legal Aid
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 * Amber Hardy
+* Annie Murphey - Spokane Regional Domestic Violence Coalition
 
-#### 0 👎 - Con
+#### 9 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Evangeline Stratton - Family Violence Appellate Project
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 ### Thu 03/16 08:00 AM - Law & Justice (LAW): E2SHB 1715 Domestic violence
 #### 15 👍 - Pro

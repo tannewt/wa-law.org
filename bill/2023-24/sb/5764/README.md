@@ -8,18 +8,14 @@
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): SB 5764 Hospital safety net program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154712&caId=22534&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154712&caId=22534&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154712&caId=22534&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154712&caId=22534&tId=4)
-
-#### 5 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * 💵Chelene Whiteaker - Washington State Hospital Association
 * Len McComb - Washington State Hospital Association
 * Mike Glenn - Jefferson Healthcare and WSHA
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)

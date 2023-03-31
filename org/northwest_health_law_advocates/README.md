@@ -61,3 +61,6 @@
 ## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍1  
 
 ## [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth 👍1  
+
+## [SB 5764](/bill/2023-24/sb/5764/) - Hospital safety net program   ❓1
+* ❓💵 Emily Brice

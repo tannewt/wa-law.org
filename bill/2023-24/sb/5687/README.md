@@ -9,12 +9,6 @@
 
 ## Meetings
 ### Thu 03/30 01:30 PM - Appropriations (APP): SSB 5687 Wrestling grant programs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154636&caId=22506&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154636&caId=22506&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154636&caId=22506&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154636&caId=22506&tId=4)
-
 #### 5 👍 - Pro
 Testifying:
 * Amari Brown - The Evergreen State College
@@ -22,7 +16,9 @@ Testifying:
 * Randall Tomaras - Restore University Wrestling in Washington State
 * Sally Roberts - Wrestle Like A Girl
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Eric Pratt
 
 #### 0 ❓ - Other
 

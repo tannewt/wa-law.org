@@ -27,20 +27,28 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154730&caId=22552&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154730&caId=22552&tId=4)
 
-#### 69 👍 - Pro
+#### 144 👍 - Pro
 Testifying:
 * Jim Stoffer - Public School Advocate of Sequim
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 * Jim Stoffer - Public School Advocate of Sequim
 * Jim Kowalkowski - Rural Education Center
+* Brent Cummings - Director of Early Learning, Walla Walla Center for Children & Families
 
-#### 4 👎 - Con
+#### 73 👎 - Con
 Testifying:
 * 💵Katy Warren - WA State Assn of Head Start and ECEAP
 * Margot Grant Gould - KinderCare
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* Angelia Hicks-Maxie - Washington Childcare Center Association
+* 💵Donna Christensen - Washington Childcare Center Association
+* Kathy Carmen - Washington Childcare Center Association
+* 💵Laura Murphy - Washington Childcare Center Association
+* Susan Brown - Washington Childcare Center Association
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Emily Murphy - [Child Care Aware of Washington](/org/child_care_aware_of_washington/)
 
 ### Wed 03/22 01:30 PM - Early Learning & K-12 Education (EDU): 2SHB 1550 Transition to kindergarten
 #### 183 👍 - Pro

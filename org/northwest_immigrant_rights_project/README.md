@@ -7,7 +7,7 @@
 
 ## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct 👍1  
 
-## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍2  
+## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍3  
 * 👍 Karina Perez-Gonzalez
 
 ## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍1  

@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154724&caId=22546&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154724&caId=22546&tId=4)
 
-#### 4 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Anna Hernandez-French - Office of Superintendent of Public Instruction
 

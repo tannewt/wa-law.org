@@ -8,18 +8,13 @@
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Transportation (TRAN): SB 5765 I-5 bridge tolling
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31171&aId=154685&caId=22511&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31171&aId=154685&caId=22511&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31171&aId=154685&caId=22511&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31171&aId=154685&caId=22511&tId=4)
-
-#### 8 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Anne McEnerny-Ogle - Mayor of Vancouver
 * 💵Amber Carter - Port of Vancouver USA and Identity Clark County
 * Greg Johnson - Interstate Bridge Replacement Program
+* Charlie Brown - Fred Meyer
 
-#### 0 👎 - Con
+#### 7 👎 - Con
 
 #### 0 ❓ - Other

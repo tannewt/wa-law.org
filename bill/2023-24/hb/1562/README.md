@@ -15,17 +15,11 @@
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): SHB 1562 Violence
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154698&caId=22520&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154698&caId=22520&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154698&caId=22520&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154698&caId=22520&tId=4)
-
-#### 10 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Sandra Shanahan - Regional Domestic Violence Firearms Enforcement Unit
 
-#### 0 👎 - Con
+#### 14 👎 - Con
 
 #### 0 ❓ - Other
 

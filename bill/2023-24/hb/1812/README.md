@@ -8,13 +8,10 @@
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): EHB 1812 Medicaid/B&O tax deductions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154710&caId=22532&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154710&caId=22532&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154710&caId=22532&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154710&caId=22532&tId=4)
-
-#### 3 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Len Mc Comb - [Association of Washington Public Hospital Districts](/org/association_of_washington_public_hospital_districts/)
+* 💵Melanie Smith - [Washington's Accountable Communities of Health](/org/washington's_accountable_communities_of_health/)
 
 #### 0 👎 - Con
 

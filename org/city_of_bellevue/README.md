@@ -66,8 +66,9 @@
 
 ## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍2  
 
-## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  
+## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍2  
 * 👍 Genesee Adkins
+* 👍 Lacey Jane Wolfe
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
 * 👍 Lacey Jane Wolfe

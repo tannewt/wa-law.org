@@ -20,6 +20,8 @@
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍2  
 
+## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
+
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍3  
@@ -35,7 +37,7 @@
 
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍1  
 
-## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍2  
+## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍3  
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
 

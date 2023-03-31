@@ -17,13 +17,12 @@
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): SHB 1177 Indigenous women
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154702&caId=22524&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154702&caId=22524&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154702&caId=22524&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154702&caId=22524&tId=4)
-
-#### 15 👍 - Pro
+#### 38 👍 - Pro
+Testifying:
+* Mercedes White Calf - NAYA Action Fund
+* Juan Diaz
+* Sophia Bowton-Meade
+* Annie Forsman-Adams - Attorney General's Office
 
 #### 0 👎 - Con
 

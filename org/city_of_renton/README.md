@@ -1,6 +1,7 @@
 # City of Renton
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing  👎1 
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing  👎2 
+* 👎 Katie Buchl-Morales
 
 ## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍4  
 * 👍 Paul Hintz

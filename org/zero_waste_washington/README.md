@@ -5,7 +5,8 @@
 
 ## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals 👍2  
 
-## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍2  
+## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍3  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍2  
@@ -33,7 +34,8 @@
 
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍1  
 
-## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍3  
+## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍4  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
@@ -41,8 +43,9 @@
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management 👍1  
 * 👍💵 Heather Trim
 
-## [SB 5178](/bill/2023-24/sb/5178/) - Highways/large debris   ❓1
+## [SB 5178](/bill/2023-24/sb/5178/) - Highways/large debris 👍1  ❓1
 * ❓💵 Heather Trim
+* 👍💵 Heather Trim
 
 ## [SB 5222](/bill/2023-24/sb/5222/) - Litter control program   ❓1
 * ❓💵 Heather Trim

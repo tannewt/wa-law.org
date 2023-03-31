@@ -20,10 +20,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154722&caId=22544&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154722&caId=22544&tId=4)
 
-#### 102 👍 - Pro
+#### 218 👍 - Pro
 Testifying:
 * Carol Sullivan - League of Women Voters of WA
 * Cher Scarlett
+* Kristin DiBiase - Governor's Committee on Disability Issues and Employment
+* 💵Terique Scott - [League of Education Voters](/org/league_of_education_voters/)
+* Ivanova Smith - Self advocates
 
 #### 0 👎 - Con
 

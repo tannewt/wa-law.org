@@ -24,10 +24,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154727&caId=22549&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154727&caId=22549&tId=4)
 
-#### 71 👍 - Pro
+#### 186 👍 - Pro
 Testifying:
 * Anna Hernandez-French - Office of Superintendent of Public Instruction
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
+* Shannon McCann - Federal Way Education Association
+* Dr. Erica Hernandez-Scott - [Professional Educator Standards Board](/org/professional_educator_standards_board/)
 
 #### 0 👎 - Con
 

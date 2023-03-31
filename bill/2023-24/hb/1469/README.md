@@ -20,20 +20,19 @@
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): ESHB 1469 Health care services/access
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154713&caId=22535&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154713&caId=22535&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154713&caId=22535&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154713&caId=22535&tId=4)
-
-#### 875 👍 - Pro
+#### 5162 👍 - Pro
 Testifying:
 * Danni Askini - Gender Justice League
 * Dr. Crystal Beal - QueerDoc
 * 💵Emily Stone - [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/)
 * Rebekah Gardea - QLaw Foundation
+* Jaelynn Scott - Lavender Rights Project
+* Dana Karash - Planned Parenthood Greater Northwest
+* Hilary Northcraft
+* August Armstrong
+* Alex Wehinger - Washington State Medical Association
 
-#### 1583 👎 - Con
+#### 2606 👎 - Con
 Testifying:
 * Gabriel Jacobs
 * Julie Barrett - Parent
@@ -41,7 +40,7 @@ Testifying:
 * Eric pratt - America
 * Bruce Monell
 
-#### 1 ❓ - Other
+#### 5 ❓ - Other
 
 ### Thu 03/16 08:00 AM - Law & Justice (LAW): ESHB 1469 Health care services/access
 #### 885 👍 - Pro

@@ -48,6 +48,8 @@
 ## [HB 1465](/bill/2023-24/hb/1465/) - Prescription cost-sharing   ❓1
 * ❓ Amanda Kost
 
+## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
+
 ## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍2  
 
 ## [HB 1488](/bill/2023-24/hb/1488/) - Working forest license plate 👍1  
@@ -130,7 +132,7 @@
 
 ## [SB 5523](/bill/2023-24/sb/5523/) - Forensic pathologists 👍1  
 
-## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍3  
+## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍4  
 
 ## [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth  👎2 
 

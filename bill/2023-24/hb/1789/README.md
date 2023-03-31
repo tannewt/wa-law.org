@@ -21,26 +21,31 @@
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): ESHB 1789 Ecosystem services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154786&caId=22598&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154786&caId=22598&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154786&caId=22598&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154786&caId=22598&tId=4)
-
-#### 4 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Csenka Favorini-Csorba - Washington Department of Natural Resources
 * Duane Emmons - Washington Department of Natural Resources
 * Hilary Franz - Washington Department of Natural Resources
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Isaac Kastama - Clean & Prosperous Washington
+* Lauren Breynaert - Myno Carbon
+* 💵Heath Heikkila - American Forest Resource Council
+* Tom Davis - WA Forest Protection Association
 
-#### 14 👎 - Con
+#### 107 👎 - Con
 Testifying:
 * Sherri Dysart - League of Women Voters of Washington
+* 💵Paula Swedeen - [Conservation Northwest](/org/conservation_northwest/)
+* Rachel Baker - [Washington Conservation Action](/org/washington_conservation_action/)
+* Mariska Kecskes - [Sierra Club](/org/sierra_club/)
+* David Perk - Washington State Lands Working Group
+* Tim Eyman - Concerned citizen
+* Alexander Harris - RE Sources
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Mark Watrin - Washington State School Directors' Association
+* Ruth Musgrave - Office of the Governor
 
 ### Wed 03/22 08:00 AM - Environment, Energy & Technology (ENET): ESHB 1789 Ecosystem services
 #### 53 👍 - Pro

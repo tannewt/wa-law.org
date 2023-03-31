@@ -13,21 +13,21 @@
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
 
-## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  
+## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍2  
 
-## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍3  
+## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍4  
 
 ## [HB 1432](/bill/2023-24/hb/1432/) - Juvenile justice 👍1  
 
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍2  
 
-## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍2  
+## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍3  
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍3  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍4  
 
 ## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍2  
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍2  
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍2  
 
@@ -37,7 +37,7 @@
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍3  
 
-## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍2  
+## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍3  
 
 ## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍3  
 
@@ -55,7 +55,7 @@
 
 ## [SB 5230](/bill/2023-24/sb/5230/) - Extended foster care 👍2  
 
-## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍1  
+## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍2  
 
 ## [SB 5474](/bill/2023-24/sb/5474/) - Juvenile justice 👍2  
 

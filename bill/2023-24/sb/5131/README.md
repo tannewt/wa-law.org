@@ -11,21 +11,17 @@
 
 ## Meetings
 ### Thu 03/30 01:30 PM - Appropriations (APP): SB 5131 Commissary funds
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154626&caId=22497&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154626&caId=22497&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154626&caId=22497&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154626&caId=22497&tId=4)
-
-#### 63 👍 - Pro
+#### 68 👍 - Pro
 Testifying:
 * Loren Taylor
 * Micaela Romero
 * Kehaulani Walker - FOTi (Families of the Incarcerated)
+* Megan Miller - FOTi (Families of the Incarcerated)
 * Michelle Mason - FOTi (Families of the Incarcerated)
 * Tim D'Allo - FOTi (Families of the Incarcerated)
 * Matthew Walker - FOTi (Families of the Incarcerated)/The Roots Up
 * Megan Miller - FOTi Families of the incarcerated
+* Lindsay Hannaula Marjama - FOTi Families of the Incarcerated
 
 #### 0 👎 - Con
 

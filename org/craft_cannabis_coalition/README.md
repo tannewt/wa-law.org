@@ -22,8 +22,9 @@
 * ❓ Sheley Anderson
 * ❓ Sheley Anderson
 
-## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity   ❓2
+## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity   ❓3
 * ❓ Adan Espino Jr
+* ❓ Adán Espino Jr
 * ❓ Adán Espino Jr
 
 ## [SB 5259](/bill/2023-24/sb/5259/) - Product theft 👍2  
@@ -35,9 +36,10 @@
 ## [SB 5363](/bill/2023-24/sb/5363/) - Cannabis advertising 👍2  
 * 👍 Adan Espino Jr
 
-## [SB 5367](/bill/2023-24/sb/5367/) - Products containing THC 👍1 👎2 
+## [SB 5367](/bill/2023-24/sb/5367/) - Products containing THC 👍2 👎2 
 * 👎 Adan Espino Jr
 * 👎 Adan Espino Jr
+* 👍 Adán Espino Jr
 * 👍 Adán Espino Jr
 
 ## [SB 5376](/bill/2023-24/sb/5376/) - Cannabis waste 👍1  

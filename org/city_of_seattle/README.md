@@ -4,6 +4,8 @@
 
 ## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 
+## [HB 1028](/bill/2023-24/hb/1028/) - Crime victims & witnesses 👍1  
+
 ## [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims 👍1  
 
 ## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
@@ -16,7 +18,7 @@
 
 ## [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍1  
 
-## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍3  
+## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍4  
 * 👍 Lisa Herbold
 
 ## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍3  
@@ -39,7 +41,7 @@
 
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍3  
 
-## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍2  
+## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍3  
 
 ## [HB 1178](/bill/2023-24/hb/1178/) - Firearms/local government 👍2  
 * 👍 Monisha Harrell
@@ -83,7 +85,7 @@
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍2  
 
-## [HB 1390](/bill/2023-24/hb/1390/) - District energy systems 👍2  
+## [HB 1390](/bill/2023-24/hb/1390/) - District energy systems 👍3  
 
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings   ❓1
 
@@ -91,9 +93,9 @@
 
 ## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍1  
 
-## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍2  
+## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍3  
 
-## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍1  
+## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍2  
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍2  
 
@@ -107,7 +109,7 @@
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍2  
 
-## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍3  
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍4  
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
 
@@ -139,9 +141,9 @@
 
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial  👎1 
 
-## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍3  
+## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍4  
 
-## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍1  
+## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍2  
 
 ## [SB 5109](/bill/2023-24/sb/5109/) - Wage replacement 👍1  
 * 👍 Hamdi Mohamed
@@ -158,7 +160,7 @@
 
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures 👍1  
 
-## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I 👍2  
+## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I 👍3  
 
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍3  
 
@@ -170,7 +172,7 @@
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
 
-## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍2  
+## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍3  
 
 ## [SB 5247](/bill/2023-24/sb/5247/) - Climate-ready communities 👍1  
 
@@ -196,7 +198,7 @@
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍1  
 
-## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development   ❓1
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development   ❓2
 
 ## [SB 5477](/bill/2023-24/sb/5477/) - Murdered indigenous women 👍3  
 

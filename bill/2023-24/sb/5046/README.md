@@ -13,22 +13,19 @@
 
 ## Meetings
 ### Thu 03/30 01:30 PM - Appropriations (APP): 2SSB 5046 Postconviction counsel
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154623&caId=22494&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154623&caId=22494&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154623&caId=22494&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154623&caId=22494&tId=4)
-
-#### 34 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * Larry Jefferson - Washington State Office of Public Defense
 * Vidal Vincent
+* Jeffrey Ellis - Redemption Project of Washington
+* Gregory Link - Washington Defender Association and Washington Association Criminal Defense Lawyers
 
 #### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Russell Brown - [Washington Association of Prosecuting Attorneys](/org/washington_association_of_prosecuting_attorneys/)
 
 ### Wed 03/15 08:00 AM - Civil Rights & Judiciary (CRJ): 2SSB 5046 Postconviction counsel
 #### 151 👍 - Pro

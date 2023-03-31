@@ -12,7 +12,7 @@
 
 ## [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board 👍1  
 
-## [HB 1357](/bill/2023-24/hb/1357/) - Prior authorization/health 👍3  
+## [HB 1357](/bill/2023-24/hb/1357/) - Prior authorization/health 👍4  
 
 ## [HB 1713](/bill/2023-24/hb/1713/) - Health care/rural areas 👍1  
 

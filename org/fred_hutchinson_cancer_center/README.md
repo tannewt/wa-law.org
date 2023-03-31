@@ -4,7 +4,7 @@
 
 ## [HB 1310](/bill/2023-24/hb/1310/) - Physician assistant collab. 👍1  
 
-## [HB 1357](/bill/2023-24/hb/1357/) - Prior authorization/health 👍1  
+## [HB 1357](/bill/2023-24/hb/1357/) - Prior authorization/health 👍2  
 
 ## [HB 1417](/bill/2023-24/hb/1417/) - Multistate nurse licensure 👍1  
 
@@ -12,7 +12,7 @@
 
 ## [HB 1626](/bill/2023-24/hb/1626/) - Colorectal screening tests 👍3  
 
-## [HB 1745](/bill/2023-24/hb/1745/) - Diversity in clinical trials 👍4  
+## [HB 1745](/bill/2023-24/hb/1745/) - Diversity in clinical trials 👍5  
 * 👍 Dr. Andrew Cowan
 
 ## [SB 5074](/bill/2023-24/sb/5074/) - Biomarker testing coverage 👍2  

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## Articles
+* [MyNorthwest](/org/mynorthwest/) - [Mother blames police pursuit law for death of daughter - MyNorthwest.com](https://mynorthwest.com/3867383/mother-blame-police-pursuit-law-daughter-killed-unpursued-criminal-hit-and-run/#:~:text=House Bill 1363)
 * [PubliCola](/org/publicola/) - [Bill to Allow More Police Pursuits Would Sunset in 2025 - PubliCola](https://publicola.com/2023/02/17/bill-to-allow-more-police-pursuits-would-sunset-in-2025/#:~:text=House Bill 1363)
 * [The Seattle Times](/org/the_seattle_times/) - [Effort to roll back limits on WA police pursuits faces challenges in Legislature | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/effort-to-roll-back-limits-on-wa-police-pursuits-faces-challenges-in-legislature/#:~:text=House Bill 1363)
 * [MyNorthwest](/org/mynorthwest/) - [Bill for less restrictions on police pursuits passes in WA Senate - MyNorthwest.com](https://mynorthwest.com/3854387/police-pursuits-less-restricted-passing-senate-last-minute-debate-vote/#:~:text=House Bill 1363)

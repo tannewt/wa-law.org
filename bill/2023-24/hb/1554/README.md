@@ -10,23 +10,24 @@
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Transportation (TRAN): ESHB 1554 Lead impacts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31171&aId=154688&caId=22514&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31171&aId=154688&caId=22514&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31171&aId=154688&caId=22514&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31171&aId=154688&caId=22514&tId=4)
-
-#### 22 👍 - Pro
+#### 47 👍 - Pro
 Testifying:
 * Eric Gonzalez Alfaro - [Earthjustice](/org/earthjustice/)
 * Christian Poulsen - King County International Airport Community Coalition
 * Chris Covert-Bowlds - WA Physicians for Social Responsibility
+* Lisa Rivera Smith
+* 💵Paula Sardinas - WBBA (WA Build Back Alliance)
+* Jeff Ketchel - [Washington State Public Health Association](/org/washington_state_public_health_association/)
 
-#### 3 👎 - Con
+#### 16 👎 - Con
 Testifying:
 * Larry Krauter - Spokane Airports
+* John Dobson - WA State Aviation Alliance
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Ben Hoppe - [Washington Airport Management Association](/org/washington_airport_management_association/)
+* Rich Mueller - [Washington Airport Management Association](/org/washington_airport_management_association/)
 
 ### Wed 03/15 08:00 AM - Environment, Energy & Technology (ENET): ESHB 1554 Lead impacts
 #### 197 👍 - Pro

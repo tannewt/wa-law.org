@@ -15,7 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154735&caId=22557&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154735&caId=22557&tId=4)
 
-#### 15 👍 - Pro
+#### 32 👍 - Pro
+Testifying:
+* Colleen McAleer - Clallam Economic Development Council
+* Garry Clark - [Economic Alliance Snohomish County](/org/economic_alliance_snohomish_county/)
+* Suzanne Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)
 
 #### 0 👎 - Con
 

@@ -16,9 +16,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154649&caId=22493&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154649&caId=22493&tId=4)
 
-#### 7 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * 💵Collin Bannister - ASWSU
+* Ruben Flores - Council Of Presidents
+* Christine McMullin - SBCTC
 
 #### 0 👎 - Con
 

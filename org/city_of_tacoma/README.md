@@ -12,7 +12,7 @@
 
 ## [HB 1099](/bill/2023-24/hb/1099/) - Public works wages   ❓1
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓1
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  ❓1
 * ❓ John Hines
 
 ## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍2  
@@ -47,7 +47,7 @@
 
 ## [HB 1530](/bill/2023-24/hb/1530/) - Law enf. employ. eligibility 👍1  
 
-## [HB 1575](/bill/2023-24/hb/1575/) - Cultural access programs/tax 👍1  
+## [HB 1575](/bill/2023-24/hb/1575/) - Cultural access programs/tax 👍2  
 
 ## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍2  
 * 👍 Mayor, Victoria Woodards

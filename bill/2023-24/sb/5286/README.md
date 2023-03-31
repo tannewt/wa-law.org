@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Thu 03/30 01:30 PM - Appropriations (APP): SSB 5286 Paid leave premiums
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154632&caId=22502&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154632&caId=22502&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154632&caId=22502&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154632&caId=22502&tId=4)
-
-#### 6 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Bob Battles - Association of Washington Business (AWB)
 * Joe Kendo - [Washington State Labor Council](/org/washington_state_labor_council/)

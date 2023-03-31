@@ -2,6 +2,8 @@
 
 ## [HB 1106](/bill/2023-24/hb/1106/) - Unemployment/voluntary 👍1  
 
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
+
 ## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍2  
 * 👍 Kati Durkin
 * 👍💵 Kurt Spiegel
@@ -19,7 +21,7 @@
 ## [HB 1397](/bill/2023-24/hb/1397/) - Dependency  👎1 
 * 👎 Kati Durkin
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
 
 ## [HB 1491](/bill/2023-24/hb/1491/) - Employee personal vehicles 👍2  
 
@@ -47,7 +49,7 @@
 
 ## [SB 5204](/bill/2023-24/sb/5204/) - Fertility services coverage 👍1  
 
-## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I 👍2  
+## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I 👍3  
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1  
 

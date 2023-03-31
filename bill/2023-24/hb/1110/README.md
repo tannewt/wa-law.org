@@ -10,6 +10,8 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Articles
+* [PubliCola](/org/publicola/) - [Growth Is Coming. The Legislature Needs to Plan for It. - PubliCola](https://publicola.com/2023/03/30/growth-is-coming-the-legislature-needs-to-plan-for-it/#:~:text=HB 1110)
+* [The Urbanist](/org/the_urbanist/) - [Striker Amendments Stalk Housing Bills in the Washington Legislature | The Urbanist](https://www.theurbanist.org/2023/03/29/striker-amendments-stalk-housing-bills-in-the-washington-legislature/#:~:text=HB 1110)
 * [The Seattle Times](/org/the_seattle_times/) - [Should WA allow more homes per lot? Debate swirls in 3 local cities | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/how-was-single-family-zoning-debate-is-playing-out-in-edmonds-kirkland-burien/#:~:text=House Bill 1110)
 * [The Urbanist](/org/the_urbanist/) - [The Legislative Budget Season Begins in Olympia | The Urbanist](https://www.theurbanist.org/2023/03/22/the-legislative-budget-season-begins-in-olympia/#:~:text=HB 1110)
 * [The Urbanist](/org/the_urbanist/) - [The Olympia Waltz Continues for Middle Housing and Other Vital Legislation | The Urbanist](https://www.theurbanist.org/2023/03/09/waleg-week-9-striker-hb1110/#:~:text=HB 1110)
@@ -55,7 +57,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154733&caId=22555&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154733&caId=22555&tId=4)
 
-#### 491 👍 - Pro
+#### 869 👍 - Pro
 Testifying:
 * Joe Kunzler - None
 * AIA CPHD, MATTHEW HUTCHINS - [American Institute of Architects Washington Council](/org/american_institute_of_architects_washington_council/)
@@ -65,16 +67,29 @@ Testifying:
 * 💵Tricia Gullion - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Mason Thompson - [City of Bothell](/org/city_of_bothell/)
 * Kelli Curtis - Councilmember, City of Kirkland
+* Mike Gershick
+* christine mustelier
 
-#### 75 👎 - Con
+#### 153 👎 - Con
 Testifying:
 * Salim Nice - [City of Mercer Island](/org/city_of_mercer_island/)
 * Deirdre Johnson
+* Tonya Stiffler - Please Select
+* Arne Woodard - Councilmember, City of Spokane Valley
 * Michelle Dotsch - Alliance of Citizens for Edmonds
+* Kathleen Russell
+* Katie Buchl-Morales - [City of Renton](/org/city_of_renton/)
+* Lois Martin
+* Sandy Shettler
+* Troy McCoy - [City of Battle Ground](/org/city_of_battle_ground/)
 
-#### 1 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Tiffany Speir - [City of Lakewood](/org/city_of_lakewood/)
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Dana Ralph - City of Kent, Mayor
+* Mary Lou Pauly - Mayor, City of Issaquah
 
 ### Fri 03/17 10:30 AM - Housing (HSG): E2SHB 1110 Middle housing
 #### 1121 👍 - Pro

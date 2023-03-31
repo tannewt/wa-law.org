@@ -15,15 +15,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154751&caId=22576&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154751&caId=22576&tId=4)
 
-#### 19 👍 - Pro
+#### 98 👍 - Pro
 Testifying:
 * Absa Samba
 * Maryum Saifee - Muslim Americans in Public Service
 * Djessou Kouyate - 12211 Elm Forest Ct
+* Sukai Gaye
+* Bettina Duncan
+* Severina Lemachokoti
+* Dr. Maria Viola Sanchez - CEO & Founder, STOP THE CUT NOW!  Eradicating Female Genital Mutilation
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 03/13 01:30 PM - Community Safety, Justice, & Reentry (CSJR): SSB 5453 Female genital mutilation
 #### 138 👍 - Pro

@@ -10,7 +10,7 @@
 
 ## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍5  
 
-## [HB 1578](/bill/2023-24/hb/1578/) - Wildland fire safety 👍2  
+## [HB 1578](/bill/2023-24/hb/1578/) - Wildland fire safety 👍3  
 
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍3  
 

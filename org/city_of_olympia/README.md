@@ -1,6 +1,6 @@
 # City of Olympia
 
-## [HB 1032](/bill/2023-24/hb/1032/) - Wildfires/electric utilities 👍2  
+## [HB 1032](/bill/2023-24/hb/1032/) - Wildfires/electric utilities 👍3  
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
@@ -20,7 +20,7 @@
 
 ## [HB 1192](/bill/2023-24/hb/1192/) - Electric transm. planning 👍1  
 
-## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍3  
+## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍4  
 
 ## [HB 1276](/bill/2023-24/hb/1276/) - Accessory dwelling units 👍1  
 
@@ -41,7 +41,7 @@
 ## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍4  
 * 👍 Dr. Pamela Braff
 
-## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍2  
+## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍3  
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍3  
 
@@ -73,7 +73,7 @@
 
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍2  
 
-## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍2  
+## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍3  
 
 ## [SB 5093](/bill/2023-24/sb/5093/) - Climate response strategy 👍2  
 
@@ -97,11 +97,11 @@
 
 ## [SB 5235](/bill/2023-24/sb/5235/) - Accessory dwelling units 👍3  
 
-## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1  
+## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍2  
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
 
-## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍1  
+## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍2  
 
 ## [SB 5258](/bill/2023-24/sb/5258/) - Condos and townhouses 👍2  
 

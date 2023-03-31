@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154740&caId=22562&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154740&caId=22562&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Jim Kuntz - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
+* 💵Matthew Hepner - IBEW/ceww
 
 #### 0 👎 - Con
 

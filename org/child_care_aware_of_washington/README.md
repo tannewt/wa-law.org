@@ -16,14 +16,15 @@
 
 ## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍3  
 
-## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍2  ❓1
+## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍2  ❓2
 * ❓ Deeann Puffert
+* ❓💵 Emily Murphy
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓2
 * ❓💵 Emily Murphy
 * ❓💵 Emily Murphy
 
-## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍2  
+## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍3  
 * 👍💵 Emily Murphy
 
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍1  

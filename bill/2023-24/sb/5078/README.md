@@ -20,24 +20,21 @@
 
 ## Meetings
 ### Thu 03/30 01:30 PM - Appropriations (APP): SSB 5078 Firearm industry duties
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154750&caId=22575&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154750&caId=22575&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154750&caId=22575&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154750&caId=22575&tId=4)
-
-#### 335 👍 - Pro
+#### 785 👍 - Pro
 Testifying:
 * April Schentrup
 * Barbara Serrano - Office of the Governor
 * Laura Clinton - Attorney General's Office
 
-#### 208 👎 - Con
+#### 1292 👎 - Con
 Testifying:
 * 💵Troy Nichols - National Shooting Sports Foundation
 * 💵Aoibheann Cline - [National Rifle Association](/org/national_rifle_association_of_america/)
+* Eric Pratt
 * Eric pratt - America
 * Julie Barrett - Conservative Ladies of Washington
+* Teo Morca
+* Bette Bell
 
 #### 0 ❓ - Other
 

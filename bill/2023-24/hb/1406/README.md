@@ -15,9 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154732&caId=22554&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154732&caId=22554&tId=4)
 
-#### 4 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * 💵Alex Hur - NW Education Access
+* Jim Theofelis - NorthStar Advocates
+* Julie Patino - A Way Home Washington
 
 #### 0 👎 - Con
 

@@ -29,13 +29,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154725&caId=22547&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154725&caId=22547&tId=4)
 
-#### 9 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Lilian Hale
 * Lilian Hale
 * Lilian Hale
 * Guadalupe Rodriguez - Lower Columbia College
 * Elinor Hall
+* Jason Boatwright - Clover Park Technical College
+* Jamie Traugott - State Board for Community and Technical Colleges
+* Michele Cruse - Clark College
+* 💵Sopeara Chay - South Puget Sound Community College
 
 #### 0 👎 - Con
 

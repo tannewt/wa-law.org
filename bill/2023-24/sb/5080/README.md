@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Thu 03/30 01:30 PM - Appropriations (APP): E2SSB 5080 Cannabis social equity
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154624&caId=22495&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154624&caId=22495&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154624&caId=22495&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154624&caId=22495&tId=4)
-
-#### 18 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * Ollie Garrett - Washington State Liquor and Cannabis Board
 * Mike Asai - Black Excellence In Cannabis
@@ -28,9 +22,12 @@ Testifying:
 * 💵Paula Sardinas - WBBA (WA Build Back Black Alliance)
 * 💵Paula Sardinas - WBBA (WA Build Back Black Alliance)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Eric Pratt
+* Adán Espino Jr - [Craft Cannabis Coalition](/org/craft_cannabis_coalition/)
 
 ### Tue 03/14 04:00 PM - Regulated Substances & Gaming (RSG): E2SSB 5080 Cannabis social equity
 #### 114 👍 - Pro

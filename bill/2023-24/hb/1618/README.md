@@ -13,17 +13,19 @@
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): 2SHB 1618 Childhood sexual abuse/SOL
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154704&caId=22526&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154704&caId=22526&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154704&caId=22526&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154704&caId=22526&tId=4)
+#### 250 👍 - Pro
+Testifying:
+* Chris Love - Washington State Association for Justice
+* Ian Bauer - Washington State Association for Justice
+* Chris Hansen
+* Linda Darkenwald
+* Pennie Saum
+* Renee Williams - National Crime Victim Bar Association
+* Riddhi Mukhopadhyay - Sexual Violence Law Center
 
-#### 136 👍 - Pro
+#### 4 👎 - Con
 
-#### 2 👎 - Con
-
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Tyna Ek - [Washington Schools Risk Management Pool](/org/washington_schools_risk_management_pool/)
 

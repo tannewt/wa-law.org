@@ -10,15 +10,12 @@
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): ESHB 1175 Petroleum storage tanks
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154783&caId=22595&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154783&caId=22595&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154783&caId=22595&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154783&caId=22595&tId=4)
+#### 4 👍 - Pro
+Testifying:
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* Cassandra Garcia - PLIA
 
-#### 0 👍 - Pro
-
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

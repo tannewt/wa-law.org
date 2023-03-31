@@ -21,6 +21,9 @@
 * ❓💵 Bryce Yadon
 * ❓💵 Bryce Yadon
 
+## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  
+* 👍💵 Bryce Yadon
+
 ## [SB 5216](/bill/2023-24/sb/5216/) - Collisions/driver reexam 👍1  
 
 ## [SB 5317](/bill/2023-24/sb/5317/) - RTA vehicle removal 👍2  

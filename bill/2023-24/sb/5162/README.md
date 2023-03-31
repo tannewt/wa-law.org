@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Transportation (TRAN): SB 5162 Transportation budget
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31171&aId=154408&caId=22466&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31171&aId=154408&caId=22466&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31171&aId=154408&caId=22466&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31171&aId=154408&caId=22466&tId=4)
-
-#### 20 👍 - Pro
+#### 47 👍 - Pro
 Testifying:
 * Tim Sheldon
 * Lisa Janicki - [Skagit County](/org/skagit_county/)
@@ -25,11 +19,20 @@ Testifying:
 * Vicky Clarke - [Washington Bikes](/org/washington_bikes/)
 * 💵Connor Haggerty - Washington State University
 * 💵Justin Leighton - Washington State Transit Association
+* Charlie Brown - Fred Meyer and Supernal
 * 💵Luke Esser - [Kalispel Tribe](/org/kalispel_tribe/)
+* 💵Derek Dolfie - ChargePoint
+* Lacey Jane Wolfe - [City of Bellevue](/org/city_of_bellevue/)
+* 💵Axel Swanson - Washington State Association of County Engineers
+* Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Jeff Gombosky - [Tesla](/org/tesla/)
+* 💵Bryce Yadon - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* 💵Brooke Davies - Seattle Metropolitan Chamber of Commerce
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 9 ❓ - Other
+#### 28 ❓ - Other
 Testifying:
 * Thomas White
 * Mary Paterson
@@ -39,7 +42,21 @@ Testifying:
 * Pat Reay - [Port of Walla Walla](/org/port_of_walla_walla/)
 * Tony Garcia - Walla Walla County
 * Matt Morrison - PNWER
+* 💵Isaac Kastama - Clean & Prosperous Washington
+* Arvia Morris
+* Chad Bieren - City of Kent Public Works Director
 * Ron Arp - Identity Clark County
+* Tim Gould
+* Edward McGlone - Einride
+* Breck Lebegue - WA Physicians for Social Responsibility
+* Jon Nehring
+* 💵Michael Transue - Tacoma Pierce County Chamber, City of Fife, Drivewyze
+* Lael White - Climate Rail Alliance
+* Mayor Jim Ferrell - [City of Federal Way](/org/city_of_federal_way/)
+* Mayor Geoffrey Thomas - [City of Monroe](/org/city_of_monroe/)
+* 💵Greg Hanon - Western States Petroleum Assoc.
+* 💵Paula Sardinas - WBBA (WA Build Back Black Alliance)
+* 💵Gordon Baxter - Teamsters Union Local 174; Inlandboatmen's Union; Int'l. Org. of Masters, Mates and Pilots
 
 ### Tue 01/17 04:00 PM - Transportation (TRAN): SB 5162 Transportation budget
 #### 18 👍 - Pro

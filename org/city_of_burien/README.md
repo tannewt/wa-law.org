@@ -1,6 +1,6 @@
 # City of Burien
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
 * 👍💵 Lyset Cadena
 * 👍💵 Lyset Cadena
 
@@ -12,7 +12,7 @@
 ## [HB 1304](/bill/2023-24/hb/1304/) - Electric security alarms  👎1 
 * 👎💵 Lyset Cadena
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
 
 ## [HB 1517](/bill/2023-24/hb/1517/) - Transit-oriented development   ❓1
 * ❓💵 Lyset Cadena
@@ -21,7 +21,7 @@
 
 ## [HB 1670](/bill/2023-24/hb/1670/) - Property tax limit factor 👍1  
 
-## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍1  
+## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍2  
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
 

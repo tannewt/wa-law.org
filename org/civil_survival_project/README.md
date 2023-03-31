@@ -4,7 +4,7 @@
 
 ## [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎1 
 
-## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍5  
+## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍6  
 * 👍💵 Kelly Olson
 
 ## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses 👍3  
@@ -24,7 +24,7 @@
 
 ## [HB 1640](/bill/2023-24/hb/1640/) - Pardons and commutations 👍2  
 
-## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍2  
+## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍3  
 * 👍 Charlie Klein
 
 ## [SB 5101](/bill/2023-24/sb/5101/) - DOC medical placements 👍1  

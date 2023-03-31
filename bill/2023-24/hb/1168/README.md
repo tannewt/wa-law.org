@@ -10,13 +10,9 @@
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): 2SHB 1168 Prenatal substance exposure
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154780&caId=22592&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154780&caId=22592&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154780&caId=22592&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154780&caId=22592&tId=4)
-
-#### 20 👍 - Pro
+#### 37 👍 - Pro
+Testifying:
+* 💵Melanie Smith - Wonderland Child and Family Services
 
 #### 0 👎 - Con
 

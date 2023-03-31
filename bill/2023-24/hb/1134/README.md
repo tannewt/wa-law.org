@@ -15,13 +15,10 @@
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): E2SHB 1134 988 system
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154779&caId=22591&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154779&caId=22591&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154779&caId=22591&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154779&caId=22591&tId=4)
-
-#### 9 👍 - Pro
+#### 32 👍 - Pro
+Testifying:
+* 💵Brad Banks - Behavioral Health Administrative Services Organizations
+* 💵Diana Stadden - The Arc of WA State
 
 #### 0 👎 - Con
 

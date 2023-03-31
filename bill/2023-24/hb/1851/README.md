@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154757&caId=22582&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154757&caId=22582&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* MSW, LICSW, Kathryn Boelk - HopeSparks and WCAAP
+* MSW, LICSW, Violet Rush - HopeSparks and WCAAP
 
 #### 0 👎 - Con
 

@@ -15,6 +15,7 @@
 
 ## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍1  
 
-## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍3  
+## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍4  
+* 👍 Dr. Erica Hernandez-Scott
 * 👍 Dr. Erica Hernandez-Scott
 * 👍 Dr. Erica Hernandez-Scott

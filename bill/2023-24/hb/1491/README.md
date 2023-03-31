@@ -16,13 +16,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154720&caId=22542&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154720&caId=22542&tId=4)
 
-#### 82 👍 - Pro
+#### 142 👍 - Pro
 Testifying:
+* Amanda Bryant - AWPPW Local 153
 * Cher Scarlett
+* Bill Sauters - Association of Western Pulp & Paper Workers Union (AWPPW) - WA Area Rep
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 03/16 08:00 AM - Labor & Commerce (LC): 2SHB 1491 Employee personal vehicles
 #### 106 👍 - Pro

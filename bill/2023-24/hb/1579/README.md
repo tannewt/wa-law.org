@@ -10,24 +10,21 @@
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): 2SHB 1579 Independent prosecutions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154700&caId=22522&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154700&caId=22522&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154700&caId=22522&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154700&caId=22522&tId=4)
-
-#### 142 👍 - Pro
+#### 198 👍 - Pro
 Testifying:
 * 💵Paul Benz - Wa coalition for police accountability
 * Barbara Serrano - Office of the Governor
 * Roger Rogoff - Office of Independent Investigations
 
-#### 3 👎 - Con
+#### 18 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Paul Giuglianotti
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Haylee Anderson - WA State Attorney General's Office
 
 ### Mon 03/20 10:30 AM - Law & Justice (LAW): 2SHB 1579 Independent prosecutions
 #### 441 👍 - Pro

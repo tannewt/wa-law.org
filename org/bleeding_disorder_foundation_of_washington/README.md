@@ -1,6 +1,6 @@
 # Bleeding Disorder Foundation of Washington
 
-## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍2  
+## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍3  
 
 ## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍1  
 
@@ -17,7 +17,7 @@
 
 ## [HB 1340](/bill/2023-24/hb/1340/) - Health professions/conduct 👍1  
 
-## [HB 1357](/bill/2023-24/hb/1357/) - Prior authorization/health 👍3  
+## [HB 1357](/bill/2023-24/hb/1357/) - Prior authorization/health 👍4  
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍2  
 
@@ -39,7 +39,7 @@
 
 ## [SB 5177](/bill/2023-24/sb/5177/) - Organ transport vehicles 👍1  
 
-## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍4  
+## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍5  
 * 👍💵 Stephanie Simpson
 * 👍💵 Stephanie Simpson
 * 👍 Claire Symons
@@ -47,7 +47,7 @@
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
 
-## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍2  
+## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍3  
 
 ## [SB 5260](/bill/2023-24/sb/5260/) - Reprod. health/employers 👍1  
 

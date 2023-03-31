@@ -13,19 +13,13 @@
 
 ## Meetings
 ### Thu 03/30 01:30 PM - Appropriations (APP): SSB 5208 Online voter registration
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154628&caId=22498&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154628&caId=22498&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154628&caId=22498&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31137&aId=154628&caId=22498&tId=4)
-
-#### 174 👍 - Pro
+#### 187 👍 - Pro
 Testifying:
 * Carol Sullivan - League of Women Voters of WA
 * 💵Denisse Guerrero - Washington Bus
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other
 

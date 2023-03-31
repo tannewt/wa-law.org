@@ -43,6 +43,9 @@
 ## [HB 1497](/bill/2023-24/hb/1497/) - Vapor and tobacco/minors 👍2  
 * 👍 Jeff Ketchel
 
+## [HB 1554](/bill/2023-24/hb/1554/) - Lead impacts 👍1  
+* 👍 Jeff Ketchel
+
 ## [HB 1612](/bill/2023-24/hb/1612/) - Products containing THC 👍1  
 
 ## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  

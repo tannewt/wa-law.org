@@ -39,7 +39,7 @@
 * 👍 Pat McLaughlin
 * 👍 Pat McLaughlin
 
-## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍3  
+## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍4  
 * 👍 Kelly Rider
 * 👍 Sarah Perry
 
@@ -57,7 +57,7 @@
 
 ## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍2  
 
-## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍1  
+## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍2  
 
 ## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍2  
 
@@ -143,11 +143,13 @@
 
 ## [HB 1392](/bill/2023-24/hb/1392/) - Electronics repair 👍2  
 
+## [HB 1394](/bill/2023-24/hb/1394/) - Sexual offenses by youth 👍1  
+
 ## [HB 1402](/bill/2023-24/hb/1402/) - Urban growth boundaries  👎1 
 
 ## [HB 1403](/bill/2023-24/hb/1403/) - Water & sewage system access  👎1 
 
-## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  
+## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍2  
 
 ## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍2  
 
@@ -166,6 +168,8 @@
 
 ## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍3  
 
+## [HB 1435](/bill/2023-24/hb/1435/) - Home care safety net assess. 👍1  
+
 ## [HB 1436](/bill/2023-24/hb/1436/) - Special education funding 👍1  
 
 ## [HB 1439](/bill/2023-24/hb/1439/) - Child exposure to violence 👍2  
@@ -176,7 +180,7 @@
 
 ## [HB 1455](/bill/2023-24/hb/1455/) - Child marriage 👍1  
 
-## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍2  
+## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍3  
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
 
@@ -186,7 +190,7 @@
 
 ## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍1  
 
-## [HB 1493](/bill/2023-24/hb/1493/) - Impaired driving 👍1  
+## [HB 1493](/bill/2023-24/hb/1493/) - Impaired driving 👍2  
 
 ## [HB 1497](/bill/2023-24/hb/1497/) - Vapor and tobacco/minors 👍1  
 
@@ -198,9 +202,9 @@
 
 ## [HB 1511](/bill/2023-24/hb/1511/) - Income/child care programs 👍1  
 
-## [HB 1512](/bill/2023-24/hb/1512/) - Missing persons 👍2  
+## [HB 1512](/bill/2023-24/hb/1512/) - Missing persons 👍3  
 
-## [HB 1515](/bill/2023-24/hb/1515/) - Behavioral health contracts 👍3  
+## [HB 1515](/bill/2023-24/hb/1515/) - Behavioral health contracts 👍4  
 * 👍 Kelly Rider
 
 ## [HB 1530](/bill/2023-24/hb/1530/) - Law enf. employ. eligibility 👍1  
@@ -213,17 +217,20 @@
 
 ## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  
 
-## [HB 1554](/bill/2023-24/hb/1554/) - Lead impacts 👍1  
+## [HB 1554](/bill/2023-24/hb/1554/) - Lead impacts 👍2  
 
 ## [HB 1560](/bill/2023-24/hb/1560/) - Property tax exemptions 👍1  
 
-## [HB 1562](/bill/2023-24/hb/1562/) - Violence 👍2  
+## [HB 1562](/bill/2023-24/hb/1562/) - Violence 👍3  
 
-## [HB 1575](/bill/2023-24/hb/1575/) - Cultural access programs/tax 👍6  
+## [HB 1575](/bill/2023-24/hb/1575/) - Cultural access programs/tax 👍7  
 * 👍 Kate Becker
 * 👍 Kate Becker
+* 👍 Sarah Perry
 
-## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍2  
+## [HB 1578](/bill/2023-24/hb/1578/) - Wildland fire safety 👍1  
+
+## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍3  
 
 ## [HB 1585](/bill/2023-24/hb/1585/) - Local infra. project areas 👍2  
 * 👍 MICHAEL MURPHY
@@ -253,7 +260,7 @@
 
 ## [HB 1723](/bill/2023-24/hb/1723/) - GMA/equity and env. justice 👍1  
 
-## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce 👍4  
+## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce 👍5  
 
 ## [HB 1740](/bill/2023-24/hb/1740/) - Forestry riparian easements 👍2  
 
@@ -263,7 +270,7 @@
 
 ## [HB 1772](/bill/2023-24/hb/1772/) - Tetrahydrocannabinol & alc. 👍1  
 
-## [HB 1777](/bill/2023-24/hb/1777/) - Energy contracting 👍2  
+## [HB 1777](/bill/2023-24/hb/1777/) - Energy contracting 👍3  
 
 ## [HB 1779](/bill/2023-24/hb/1779/) - Toxic air pollution 👍1  
 
@@ -284,9 +291,9 @@
 
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍1  
 
-## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍3  
+## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍4  
 
-## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍1  
+## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍2  
 
 ## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍2  
 
@@ -302,7 +309,7 @@
 
 ## [SB 5103](/bill/2023-24/sb/5103/) - Medicaid patients/discharge 👍3  
 
-## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍3  
+## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍4  
 
 ## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍1  
 
@@ -316,7 +323,7 @@
 
 ## [SB 5143](/bill/2023-24/sb/5143/) - Pesticide registration comm. 👍2  
 
-## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍2  
+## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍3  
 
 ## [SB 5147](/bill/2023-24/sb/5147/) - A/C in adult family homes 👍1  
 
@@ -351,7 +358,7 @@
 
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍2  
 
-## [SB 5208](/bill/2023-24/sb/5208/) - Online voter registration 👍1  
+## [SB 5208](/bill/2023-24/sb/5208/) - Online voter registration 👍2  
 
 ## [SB 5213](/bill/2023-24/sb/5213/) - Pharmacy benefit managers 👍1  
 
@@ -418,6 +425,8 @@
 
 ## [SB 5349](/bill/2023-24/sb/5349/) - Postretirement employment 👍1  
 
+## [SB 5358](/bill/2023-24/sb/5358/) - Veterans' services 👍1  
+
 ## [SB 5365](/bill/2023-24/sb/5365/) - Vapor and tobacco/minors 👍2  
 
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍1  
@@ -433,7 +442,7 @@
 
 ## [SB 5380](/bill/2023-24/sb/5380/) - Clean energy siting 👍1  
 
-## [SB 5386](/bill/2023-24/sb/5386/) - Document recording fees 👍1  ❓1
+## [SB 5386](/bill/2023-24/sb/5386/) - Document recording fees 👍2  ❓1
 * ❓ Kelly Rider
 
 ## [SB 5391](/bill/2023-24/sb/5391/) - Embodied carbon reductions 👍1  
@@ -467,6 +476,8 @@
 
 ## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍1  
 
+## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
+
 ## [SB 5474](/bill/2023-24/sb/5474/) - Juvenile justice 👍1  
 
 ## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍1  
@@ -495,7 +506,7 @@
 
 ## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍1  
 
-## [SB 5592](/bill/2023-24/sb/5592/) - Defibrillators/fitness 👍3  
+## [SB 5592](/bill/2023-24/sb/5592/) - Defibrillators/fitness 👍4  
 
 ## [SB 5601](/bill/2023-24/sb/5601/) - Youth development office 👍1  
 

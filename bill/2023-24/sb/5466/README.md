@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## Articles
+* [The Urbanist](/org/the_urbanist/) - [Striker Amendments Stalk Housing Bills in the Washington Legislature | The Urbanist](https://www.theurbanist.org/2023/03/29/striker-amendments-stalk-housing-bills-in-the-washington-legislature/#:~:text=SB 5466)
 * [The Urbanist](/org/the_urbanist/) - [The Legislative Budget Season Begins in Olympia | The Urbanist](https://www.theurbanist.org/2023/03/22/the-legislative-budget-season-begins-in-olympia/#:~:text=SB 5466)
 * [The Urbanist](/org/the_urbanist/) - [The Olympia Waltz Continues for Middle Housing and Other Vital Legislation | The Urbanist](https://www.theurbanist.org/2023/03/09/waleg-week-9-striker-hb1110/#:~:text=SB 5466)
 * [PubliCola](/org/publicola/) - [As Density Bills Move Forward, It's Statewide Housing Goals vs. "Local Control" - PubliCola](https://publicola.com/2023/03/01/as-density-bills-move-forward-its-statewide-housing-goals-vs-local-control/#:~:text=Senate Bill 5466)
@@ -28,22 +29,23 @@
 
 ## Meetings
 ### Thu 03/30 08:00 AM - Capital Budget (CB): ESSB 5466 Transit-oriented development
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31204&aId=154772&caId=22574&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31204&aId=154772&caId=22574&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31204&aId=154772&caId=22574&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31204&aId=154772&caId=22574&tId=4)
-
-#### 332 👍 - Pro
+#### 426 👍 - Pro
 Testifying:
 * Joe Kunzler - None
+* Salim Nice
 
-#### 17 👎 - Con
+#### 22 👎 - Con
 
-#### 2 ❓ - Other
+#### 12 ❓ - Other
 Testifying:
 * Noha Mahgoub - Governor's Office
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Kristen Holdsworth - [City of Kent](/org/city_of_kent/)
+* Nick Whipple - City of Bellevue Code and Policy Planning Manager
+* 💵Shelly Helder - Cities of Lakewood and Lake Forest Park
 * Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Bill Clarke - [WA Realtors](/org/washington_association_of_realtors/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 ### Thu 03/16 08:00 AM - Housing (HOUS): ESSB 5466 Transit-oriented development
 #### 818 👍 - Pro

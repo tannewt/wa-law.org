@@ -13,7 +13,7 @@
 
 ## [HB 1394](/bill/2023-24/hb/1394/) - Sexual offenses by youth 👍2  
 
-## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍14  
+## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍17  
 * 👍💵 Samuel Martin
 * 👍 Avianah McKenna
 * 👍💵 Samuel Martin

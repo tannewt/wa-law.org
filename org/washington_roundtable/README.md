@@ -1,6 +1,6 @@
 # Washington Roundtable
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
 
 ## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget 👍1  
 
@@ -8,7 +8,7 @@
 
 ## [HB 1156](/bill/2023-24/hb/1156/) - College grant eligibility 👍1  
 
-## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  
+## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍2  
 
 ## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍3  
 
@@ -22,6 +22,9 @@
 * 👍💵 Neil Strege
 
 ## [HB 1374](/bill/2023-24/hb/1374/) - Office of career connect WA 👍1  
+
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  
+* 👍💵 Neil Strege
 
 ## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services   ❓2
 * ❓💵 Neil Strege

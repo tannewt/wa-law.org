@@ -1,6 +1,6 @@
 # Washington Forest Protection Association
 
-## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍1  
+## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
 
 ## [HB 1018](/bill/2023-24/hb/1018/) - Hog fuel/tax exemption 👍1  
 
@@ -16,7 +16,9 @@
 ## [HB 1488](/bill/2023-24/hb/1488/) - Working forest license plate 👍1  
 * 👍 Tom Davis
 
-## [HB 1578](/bill/2023-24/hb/1578/) - Wildland fire safety   ❓3
+## [HB 1498](/bill/2023-24/hb/1498/) - Aviation assurance funding 👍1  
+
+## [HB 1578](/bill/2023-24/hb/1578/) - Wildland fire safety   ❓4
 * ❓ Tom Davis
 * ❓ Tom Davis
 * ❓ Tom Davis

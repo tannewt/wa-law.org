@@ -202,7 +202,7 @@
 
 ## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax  👎1 
 
-## [SB 5502](/bill/2023-24/sb/5502/) - Sub. use disorder treatment 👍3  
+## [SB 5502](/bill/2023-24/sb/5502/) - Sub. use disorder treatment 👍4  
 * 👍💵 Mark Johnson
 * 👍💵 Mark Johnson
 

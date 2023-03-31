@@ -59,7 +59,8 @@
 ## [HB 1173](/bill/2023-24/hb/1173/) - Light pollution 👍1  ❓1
 * ❓💵 Peter Godlewski
 
-## [HB 1175](/bill/2023-24/hb/1175/) - Petroleum storage tanks 👍2  
+## [HB 1175](/bill/2023-24/hb/1175/) - Petroleum storage tanks 👍3  
+* 👍💵 Peter Godlewski
 * 👍💵 Peter Godlewski
 
 ## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products  👎1 
@@ -483,3 +484,5 @@
 * 👍💵 Emily Shay
 
 ## [SB 5733](/bill/2023-24/sb/5733/) - Payment card processing/tax 👍1  
+
+## [SB 5765](/bill/2023-24/sb/5765/) - I-5 bridge tolling 👍1  

@@ -284,7 +284,7 @@
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍3  
 * 👍💵 Simone Boe
 
-## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍4  
+## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍5  
 * 👍💵 Nasue Nishida
 * 👍💵 Nasue Nishida
 

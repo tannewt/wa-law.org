@@ -1,6 +1,6 @@
 # The Nature Conservancy
 
-## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
 
 ## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 
@@ -14,7 +14,7 @@
 ## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
 * 👍 Scott Richards
 
-## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍3  
+## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍4  
 * 👍 justin allegro
 * 👍 Scott Richards
 
@@ -33,7 +33,7 @@
 ## [HB 1192](/bill/2023-24/hb/1192/) - Electric transm. planning 👍1  
 * 👍💵 Justin Allegro
 
-## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍3  
+## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍4  
 * 👍💵 Justin Allegro
 * 👍💵 Justin Allegro
 
@@ -54,12 +54,12 @@
 
 ## [HB 1552](/bill/2023-24/hb/1552/) - Urban agriculture study 👍1  
 
-## [HB 1578](/bill/2023-24/hb/1578/) - Wildland fire safety 👍3  
+## [HB 1578](/bill/2023-24/hb/1578/) - Wildland fire safety 👍4  
 * 👍 Darcy Batura
 
 ## [HB 1686](/bill/2023-24/hb/1686/) - Salmon recovery 👍1  
 
-## [HB 1728](/bill/2023-24/hb/1728/) - Statewide resiliency program 👍2  
+## [HB 1728](/bill/2023-24/hb/1728/) - Statewide resiliency program 👍3  
 * 👍 Skippy Shaw
 
 ## [HB 1753](/bill/2023-24/hb/1753/) - Derelict vessel notices 👍1  
@@ -76,7 +76,7 @@
 
 ## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
 
-## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍2  
+## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍3  
 
 ## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍3  
 

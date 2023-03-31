@@ -16,10 +16,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154788&caId=22600&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154788&caId=22600&tId=4)
 
-#### 4 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Ross Lane - [Puget Sound & Pacific Railroad](/org/puget_sound_&_pacific_railroad/)
 * 💵Amber Carter - [Portland Vancouver Junction Railroad](/org/portland_vancouver_junction_railroad/)
+* Ryan Pidde - Mickelson & Company, LLC
+* Jeff Van Schaick - Washington Eastern Railroad
 
 #### 0 👎 - Con
 

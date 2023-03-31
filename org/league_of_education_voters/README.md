@@ -26,10 +26,13 @@
 
 ## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍4  
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍5  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍7  
+* 👍💵 Terique Scott
 * 👍💵 Terique Scott
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍3  
+
+## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍1  
 
 ## [HB 1701](/bill/2023-24/hb/1701/) - Institutional ed. programs   ❓1
 
@@ -40,7 +43,7 @@
 
 ## [SB 5072](/bill/2023-24/sb/5072/) - Highly capable students 👍1  
 
-## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍1  
+## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍2  
 
 ## [SB 5237](/bill/2023-24/sb/5237/) - Education law noncompliance 👍1  
 * 👍 Jake Vela
@@ -51,7 +54,7 @@
 
 ## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍1  
 
-## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍1  ❓1
+## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍2  ❓1
 
 ## [SB 5316](/bill/2023-24/sb/5316/) - DCYF background check fees 👍1  
 

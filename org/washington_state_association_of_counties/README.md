@@ -9,6 +9,8 @@
 ## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions  👎1 
 * 👎💵 Mike Hoover
 
+## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
+
 ## [HB 1087](/bill/2023-24/hb/1087/) - Solitary confinement   ❓1
 * ❓💵 Juliana Roe
 
@@ -87,7 +89,7 @@
 ## [HB 1421](/bill/2023-24/hb/1421/) - Voluntary stewardship prog. 👍2  
 * 👍💵 Paul Jewell
 
-## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍3  
+## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍4  
 * 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
@@ -173,7 +175,7 @@
 * 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 
-## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍1  ❓1
+## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍2  ❓1
 * ❓💵 Paul Jewell
 * 👍💵 Paul Jewell
 
@@ -181,6 +183,8 @@
 
 ## [SB 5135](/bill/2023-24/sb/5135/) - Solitary confinement   ❓1
 * ❓💵 Juliana Roe
+
+## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1  
 
 ## [SB 5159](/bill/2023-24/sb/5159/) - Shoreline program review 👍1  
 
@@ -226,7 +230,7 @@
 
 ## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍1  
 
-## [SB 5353](/bill/2023-24/sb/5353/) - Voluntary stewardship prog. 👍3  
+## [SB 5353](/bill/2023-24/sb/5353/) - Voluntary stewardship prog. 👍4  
 * 👍💵 Paul Jewell
 
 ## [SB 5357](/bill/2023-24/sb/5357/) - Detached ADUs 👍1  
@@ -274,7 +278,7 @@
 ## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation 👍1  
 * 👍💵 Paul Jewell
 
-## [SB 5523](/bill/2023-24/sb/5523/) - Forensic pathologists 👍1  
+## [SB 5523](/bill/2023-24/sb/5523/) - Forensic pathologists 👍2  
 
 ## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances   ❓1
 * ❓💵 Juliana Roe

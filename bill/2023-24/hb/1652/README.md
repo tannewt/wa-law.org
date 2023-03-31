@@ -10,20 +10,18 @@
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): ESHB 1652 Child support pass through
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154706&caId=22528&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154706&caId=22528&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154706&caId=22528&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31168&aId=154706&caId=22528&tId=4)
-
-#### 13 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * 💵Alex Hur - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* Amy Roark
+* Dorothy Gorder
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Brady Horenstein - DSHS/ESA Division of Child Support
 
 ### Tue 03/21 10:30 AM - Law & Justice (LAW): ESHB 1652 Child support pass through
 #### 76 👍 - Pro
