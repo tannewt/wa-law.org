@@ -22,7 +22,7 @@
 ## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍2  
 * 👍 Jennifer Dunne
 
-## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍3  
+## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍4  
 
 ## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍3  
 

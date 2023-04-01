@@ -1,8 +1,10 @@
 # Association of Washington School Principals
 
-## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
+## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍3  
 
 ## [HB 1015](/bill/2023-24/hb/1015/) - Paraeducator requirements 👍2  
+
+## [HB 1044](/bill/2023-24/hb/1044/) - Capital assistance/schools 👍1  
 
 ## [HB 1056](/bill/2023-24/hb/1056/) - Postretirement employment 👍2  
 
@@ -48,7 +50,7 @@
 
 ## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍1  
 
-## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍3  
+## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍4  
 * 👍💵 Roz Thompson
 * 👍💵 Roz Thompson
 
@@ -58,7 +60,7 @@
 
 ## [HB 1732](/bill/2023-24/hb/1732/) - K-12 inflation adjustments 👍1  
 
-## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍2  
+## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍3  
 
 ## [SB 5054](/bill/2023-24/sb/5054/) - Prof. learning communities   ❓1
 
@@ -81,7 +83,7 @@
 
 ## [SB 5275](/bill/2023-24/sb/5275/) - SEBB benefits access 👍1  
 
-## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍1  ❓1
+## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍2  ❓1
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
 

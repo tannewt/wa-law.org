@@ -8,18 +8,14 @@
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): EHB 1663 Consolidated port districts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154740&caId=22562&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154740&caId=22562&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154740&caId=22562&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154740&caId=22562&tId=4)
-
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Jim Kuntz - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
 * 💵Matthew Hepner - IBEW/ceww
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Tim Eyman - Concerned citizen
 
 #### 0 ❓ - Other
 

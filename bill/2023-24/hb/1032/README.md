@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): 2SHB 1032 Wildfires/electric utilities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154747&caId=22569&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154747&caId=22569&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154747&caId=22569&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154747&caId=22569&tId=4)
-
-#### 46 👍 - Pro
+#### 54 👍 - Pro
 Testifying:
 * 💵Dave Warren - Klickitat PUD and Okanogan PUD
 * 💵Nicolas Garcia - Nicolas

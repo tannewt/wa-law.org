@@ -9,6 +9,24 @@
 * [Second Substitute](S2/)
 
 ## Meetings
+### Sat 04/01 09:00 AM - Appropriations (APP): 2SSB 5425 Fire sprinkler contractors
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154817&caId=22621&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154817&caId=22621&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154817&caId=22621&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154817&caId=22621&tId=4)
+
+#### 98 👍 - Pro
+Testifying:
+* Pat Dillon - Fire Chief Equipment, Manager
+* Scott Peterson - UA Sprinkler Fitters Local 699, Agent
+
+#### 4 👎 - Con
+Testifying:
+* Steve Delgado
+
+#### 0 ❓ - Other
+
 ### Fri 03/17 10:30 AM - Labor & Workplace Standards (LAWS): 2SSB 5425 Fire sprinkler contractors
 #### 120 👍 - Pro
 Testifying:

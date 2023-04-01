@@ -20,6 +20,23 @@
 * [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=2SSB 5048)
 
 ## Meetings
+### Sat 04/01 09:00 AM - Appropriations (APP): 2SSB 5048 College in high school fees
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154799&caId=22603&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154799&caId=22603&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154799&caId=22603&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154799&caId=22603&tId=4)
+
+#### 52 👍 - Pro
+Testifying:
+* Peter Finch - West Valley School District #208
+* Jeff Charbonneau - Zillah School District
+* Arlen Harris - State Board for Community & Technical Colleges
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 03/21 01:30 PM - Postsecondary Education & Workforce (PEW): 2SSB 5048 College in high school fees
 #### 62 👍 - Pro
 Testifying:

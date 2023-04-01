@@ -255,7 +255,7 @@
 
 ## [SB 5258](/bill/2023-24/sb/5258/) - Condos and townhouses 👍1  
 
-## [SB 5268](/bill/2023-24/sb/5268/) - Public works procurement 👍3  
+## [SB 5268](/bill/2023-24/sb/5268/) - Public works procurement 👍4  
 
 ## [SB 5273](/bill/2023-24/sb/5273/) - Employee information/unions   ❓1
 * ❓💵 Candice Bock
@@ -307,7 +307,8 @@
 ## [SB 5424](/bill/2023-24/sb/5424/) - Flexible work/peace officers 👍1  
 * 👍💵 Lindsey Hueer
 
-## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎2 
+## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎3 
+* 👎💵 Lindsey Hueer
 * 👎💵 Lindsey Hueer
 
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍2  
@@ -353,10 +354,11 @@
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
-## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍4  
+## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍5  
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
+* 👍💵 Lindsey Hueer
 * 👍💵 Lindsey Hueer
 
 ## [SB 5539](/bill/2023-24/sb/5539/) - Tax increment financing 👍2  

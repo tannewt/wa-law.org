@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Fri 03/31 01:30 PM - Appropriations (APP): SSB 5096 Employee ownership
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154638&caId=22482&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154638&caId=22482&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154638&caId=22482&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154638&caId=22482&tId=4)
-
-#### 75 👍 - Pro
+#### 84 👍 - Pro
 Testifying:
 * Jack Moriarty - Ownership America
 * Lewis McMurran

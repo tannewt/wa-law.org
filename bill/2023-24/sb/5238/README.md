@@ -8,6 +8,22 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Sat 04/01 09:00 AM - Appropriations (APP): SSB 5238 Academic employee bargaining
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=155103&caId=22632&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=155103&caId=22632&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=155103&caId=22632&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=155103&caId=22632&tId=4)
+
+#### 53 👍 - Pro
+Testifying:
+* 💵Emily Myers - UAW 4121
+* Lily Rayor
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 03/21 10:30 AM - Labor & Workplace Standards (LAWS): SSB 5238 Academic employee bargaining
 #### 223 👍 - Pro
 Testifying:

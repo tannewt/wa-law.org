@@ -8,6 +8,24 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Sat 04/01 09:00 AM - Appropriations (APP): SSB 5415 Public defense/insanity
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154816&caId=22620&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154816&caId=22620&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154816&caId=22620&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154816&caId=22620&tId=4)
+
+#### 9 👍 - Pro
+Testifying:
+* Kari Reardon - Public Safety Review Panel
+* Shoshana Kehoe-Ehlers - Washington State Office of Public Defense
+* 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)
+* Jennifer Bartlett - Snohomish County Public Defender
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 03/15 08:00 AM - Civil Rights & Judiciary (CRJ): SSB 5415 Public defense/insanity
 #### 8 👍 - Pro
 Testifying:

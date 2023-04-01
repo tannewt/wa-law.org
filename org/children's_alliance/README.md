@@ -35,10 +35,10 @@
 
 ## [HB 1511](/bill/2023-24/hb/1511/) - Income/child care programs 👍2  
 
-## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍2 👎2 
+## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍2 👎3 
 * 👎 Dr. Stephan Blanford
 
-## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍2  
+## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍3  
 
 ## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍4  
 
@@ -66,7 +66,7 @@
 
 ## [SB 5397](/bill/2023-24/sb/5397/) - Public benefit payments/DCYF 👍1  
 
-## [SB 5453](/bill/2023-24/sb/5453/) - Female genital mutilation 👍3  
+## [SB 5453](/bill/2023-24/sb/5453/) - Female genital mutilation 👍4  
 
 ## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍1  
 

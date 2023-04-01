@@ -36,11 +36,12 @@
 ## [SB 5363](/bill/2023-24/sb/5363/) - Cannabis advertising 👍2  
 * 👍 Adan Espino Jr
 
-## [SB 5367](/bill/2023-24/sb/5367/) - Products containing THC 👍2 👎2 
+## [SB 5367](/bill/2023-24/sb/5367/) - Products containing THC 👍3 👎2 
 * 👎 Adan Espino Jr
 * 👎 Adan Espino Jr
 * 👍 Adán Espino Jr
 * 👍 Adán Espino Jr
+* 👍💵 Tony Sermonti
 
 ## [SB 5376](/bill/2023-24/sb/5376/) - Cannabis waste 👍1  
 

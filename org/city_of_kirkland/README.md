@@ -111,7 +111,7 @@
 
 ## [SB 5553](/bill/2023-24/sb/5553/) - Temporary emergency shelters 👍1  
 
-## [SB 5555](/bill/2023-24/sb/5555/) - Certified peer specialists 👍1  
+## [SB 5555](/bill/2023-24/sb/5555/) - Certified peer specialists 👍2  
 
 ## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy 👍1  
 

@@ -2,7 +2,7 @@
 
 ## [HB 1010](/bill/2023-24/hb/1010/) - Shellfish sanitary control 👍2  
 
-## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍1  
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 
 ## [HB 1022](/bill/2023-24/hb/1022/) - Support & services levies 👍1  
 
@@ -20,7 +20,7 @@
 
 ## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 
-## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
+## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍2  
 
 ## [HB 1086](/bill/2023-24/hb/1086/) - Community org. contracts 👍1  
 
@@ -30,7 +30,7 @@
 
 ## [HB 1108](/bill/2023-24/hb/1108/) - Persistent offenders 👍1  
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍4  
 * 👍💵 Michael White
 
 ## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍1  
@@ -95,7 +95,7 @@
 
 ## [HB 1255](/bill/2023-24/hb/1255/) - Health care prof. SUD prg. 👍4  
 
-## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍2  
+## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍3  
 
 ## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍2  
 
@@ -151,7 +151,7 @@
 
 ## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍2  
 
-## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍2  
+## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍3  
 
 ## [HB 1408](/bill/2023-24/hb/1408/) - HIV medication rebate rev. 👍1  
 
@@ -159,7 +159,7 @@
 
 ## [HB 1414](/bill/2023-24/hb/1414/) - RTA vehicle removal 👍1  
 
-## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍1  
+## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍2  
 * 👍 Karen Meyering
 
 ## [HB 1427](/bill/2023-24/hb/1427/) - On-premises energy gen. 👍1  
@@ -170,7 +170,7 @@
 
 ## [HB 1435](/bill/2023-24/hb/1435/) - Home care safety net assess. 👍1  
 
-## [HB 1436](/bill/2023-24/hb/1436/) - Special education funding 👍1  
+## [HB 1436](/bill/2023-24/hb/1436/) - Special education funding 👍2  
 
 ## [HB 1439](/bill/2023-24/hb/1439/) - Child exposure to violence 👍2  
 
@@ -184,7 +184,7 @@
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍3  
 
 ## [HB 1478](/bill/2023-24/hb/1478/) - Student rights 👍1  
 
@@ -211,9 +211,9 @@
 
 ## [HB 1531](/bill/2023-24/hb/1531/) - Aerospace industry dev. 👍1  
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍2  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍3  
 
-## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍3  
+## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍4  
 
 ## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  
 
@@ -223,7 +223,7 @@
 
 ## [HB 1562](/bill/2023-24/hb/1562/) - Violence 👍3  
 
-## [HB 1575](/bill/2023-24/hb/1575/) - Cultural access programs/tax 👍7  
+## [HB 1575](/bill/2023-24/hb/1575/) - Cultural access programs/tax 👍8  
 * 👍 Kate Becker
 * 👍 Kate Becker
 * 👍 Sarah Perry
@@ -311,9 +311,9 @@
 
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍4  
 
-## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍1  
+## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍2  
 
-## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍3  
+## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍4  
 * 👍 Sarah Perry
 
 ## [SB 5130](/bill/2023-24/sb/5130/) - Assisted outpatient treat. 👍3  
@@ -367,7 +367,7 @@
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍4  
 * 👍 Jessica Tollenaar Cafferty
 
-## [SB 5228](/bill/2023-24/sb/5228/) - Behavioral health OT 👍2  
+## [SB 5228](/bill/2023-24/sb/5228/) - Behavioral health OT 👍3  
 
 ## [SB 5230](/bill/2023-24/sb/5230/) - Extended foster care 👍2  
 
@@ -383,11 +383,11 @@
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍4  
 
-## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍2  
+## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍3  
 
 ## [SB 5260](/bill/2023-24/sb/5260/) - Reprod. health/employers 👍1  
 
-## [SB 5268](/bill/2023-24/sb/5268/) - Public works procurement 👍1  
+## [SB 5268](/bill/2023-24/sb/5268/) - Public works procurement 👍2  
 
 ## [SB 5273](/bill/2023-24/sb/5273/) - Employee information/unions 👍2  
 * 👍💵 Michael White
@@ -431,7 +431,7 @@
 
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍1  
 
-## [SB 5367](/bill/2023-24/sb/5367/) - Products containing THC 👍2  
+## [SB 5367](/bill/2023-24/sb/5367/) - Products containing THC 👍3  
 * 👍 Sarah Ross-Viles
 
 ## [SB 5369](/bill/2023-24/sb/5369/) - Polychlorinated biphenyls 👍2  
@@ -463,9 +463,10 @@
 
 ## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍2  
 
-## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations 👍1 👎1 ❓1
+## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations 👍2 👎1 ❓1
 * 👎 April Putney
 * ❓💵 Michael White
+* 👍💵 Michael White
 * 👍💵 Michael White
 
 ## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍3  
@@ -495,7 +496,8 @@
 
 ## [SB 5526](/bill/2023-24/sb/5526/) - Nursing facility rates 👍2  
 
-## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  ❓1
+## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  ❓2
+* ❓💵 Michael White
 * ❓💵 Michael White
 
 ## [SB 5547](/bill/2023-24/sb/5547/) - Nursing pool transparency 👍1  

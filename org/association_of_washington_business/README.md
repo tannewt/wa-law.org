@@ -25,10 +25,10 @@
 ## [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority   ❓1
 * ❓ Mike Ennis
 
-## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
+## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍2  
 * 👍💵 Peter Godlewski
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍4  
 * 👍 Mike Ennis
 * 👍 Mike Ennis
 
@@ -71,7 +71,8 @@
 ## [HB 1215](/bill/2023-24/hb/1215/) - Riparian areas   ❓1
 * ❓ Mike Ennis
 
-## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍2  
+## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍3  
+* 👍💵 Peter Godlewski
 * 👍💵 Peter Godlewski
 * 👍💵 Peter Godlewski
 
@@ -353,7 +354,7 @@
 * 👎 Mike Ennis
 * 👎 Mike Ennis
 
-## [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍2  
+## [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍3  
 
 ## [SB 5272](/bill/2023-24/sb/5272/) - Speed safety cameras 👍1  
 
@@ -381,7 +382,7 @@
 ## [SB 5325](/bill/2023-24/sb/5325/) - Clean fuel/public transport.  👎1 
 * 👎 Mike Ennis
 
-## [SB 5353](/bill/2023-24/sb/5353/) - Voluntary stewardship prog. 👍2  
+## [SB 5353](/bill/2023-24/sb/5353/) - Voluntary stewardship prog. 👍3  
 
 ## [SB 5357](/bill/2023-24/sb/5357/) - Detached ADUs 👍1  
 

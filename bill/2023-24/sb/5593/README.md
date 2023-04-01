@@ -10,21 +10,17 @@
 
 ## Meetings
 ### Fri 03/31 01:30 PM - Appropriations (APP): 2SSB 5593 Student data transfer
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154649&caId=22493&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154649&caId=22493&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154649&caId=22493&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154649&caId=22493&tId=4)
-
-#### 15 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * 💵Collin Bannister - ASWSU
 * Ruben Flores - Council Of Presidents
 * Christine McMullin - SBCTC
 
-#### 0 👎 - Con
+#### 15 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Ph.D., Terri Standish-Kuon - [Independent Colleges of Washington](/org/independent_colleges_of_washington/)
 
 ### Mon 03/13 01:30 PM - Education (ED): 2SSB 5593 Student data transfer
 #### 38 👍 - Pro

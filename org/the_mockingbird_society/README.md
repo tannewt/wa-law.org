@@ -13,10 +13,11 @@
 
 ## [HB 1394](/bill/2023-24/hb/1394/) - Sexual offenses by youth 👍2  
 
-## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍17  
+## [HB 1406](/bill/2023-24/hb/1406/) - Youth seeking housing assist 👍20  
 * 👍💵 Samuel Martin
 * 👍 Avianah McKenna
 * 👍💵 Samuel Martin
+* 👍 Danni Jo Bechtold
 
 ## [HB 1432](/bill/2023-24/hb/1432/) - Juvenile justice 👍4  
 

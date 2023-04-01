@@ -23,7 +23,7 @@
 
 ## [HB 1175](/bill/2023-24/hb/1175/) - Petroleum storage tanks 👍1  
 
-## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍3  
+## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍4  
 * 👍 Eric ffitch
 * 👍 Eric ffitch
 
@@ -33,7 +33,7 @@
 * 👍 Eric fftich
 * 👍 Eric ffitch
 
-## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍2  
+## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍3  
 
 ## [HB 1267](/bill/2023-24/hb/1267/) - Rural public facilities/tax 👍3  
 * 👍 Chris Herman
@@ -43,7 +43,8 @@
 
 ## [HB 1306](/bill/2023-24/hb/1306/) - Public works procurement 👍1  
 
-## [HB 1371](/bill/2023-24/hb/1371/) - Freight railroad infra. 👍2  
+## [HB 1371](/bill/2023-24/hb/1371/) - Freight railroad infra. 👍3  
+* 👍 Chris Herman
 * 👍 Chris Herman
 * 👍 Chris Herman
 
@@ -71,11 +72,12 @@
 ## [HB 1644](/bill/2023-24/hb/1644/) - Margin tax  👎1 
 * 👎 Chris Herman
 
-## [HB 1663](/bill/2023-24/hb/1663/) - Consolidated port districts 👍3  
+## [HB 1663](/bill/2023-24/hb/1663/) - Consolidated port districts 👍4  
 
 ## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍2  
 
-## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍4  
+## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍5  
+* 👍 Chris Herman
 * 👍 Chris Herman
 * 👍 Chris Herman
 * 👍 Chris Herman
@@ -100,7 +102,7 @@
 * ❓💵 Marian Dacca
 * ❓ Eric ffitch
 
-## [HB 1838](/bill/2023-24/hb/1838/) - Transp. revenue forecast 👍1  
+## [HB 1838](/bill/2023-24/hb/1838/) - Transp. revenue forecast 👍2  
 
 ## [HB 1839](/bill/2023-24/hb/1839/) - Train length  👎1 
 
@@ -126,7 +128,7 @@
 * 👍 Chris Herman
 * 👍 Chris Herman
 
-## [SB 5268](/bill/2023-24/sb/5268/) - Public works procurement 👍1  
+## [SB 5268](/bill/2023-24/sb/5268/) - Public works procurement 👍2  
 * 👍 Chris Herman
 
 ## [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍1  

@@ -1,6 +1,6 @@
 # City of Kent
 
-## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
+## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍3  
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat   ❓2
 * ❓ Paula Painter

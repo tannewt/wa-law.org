@@ -16,13 +16,7 @@
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): SHB 1044 Capital assistance/schools
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154728&caId=22550&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154728&caId=22550&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154728&caId=22550&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154728&caId=22550&tId=4)
-
-#### 115 👍 - Pro
+#### 136 👍 - Pro
 Testifying:
 * Jim Stoffer - Public School Advocate
 * Jim Stoffer - Public School Advocate of Sequim
@@ -30,7 +24,7 @@ Testifying:
 * 💵Mitch Denning - WA Assn of Maintenance & Operation Administrators
 * Larry Jeffryes - Sequim School Board Director speaking as an individual
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

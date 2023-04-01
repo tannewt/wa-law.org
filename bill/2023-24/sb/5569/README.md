@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Tue 03/14 01:30 PM - Health Care & Wellness (HCW): SSB 5569 Kidney disease centers

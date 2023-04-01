@@ -10,6 +10,21 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Meetings
+### Sat 04/01 09:00 AM - Appropriations (APP): E2SSB 5582 Nurse supply
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154826&caId=22630&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154826&caId=22630&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154826&caId=22630&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154826&caId=22630&tId=4)
+
+#### 12 👍 - Pro
+Testifying:
+* Arlen Harris - State Board for Community & Technical Colleges
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 03/22 01:30 PM - Postsecondary Education & Workforce (PEW): E2SSB 5582 Nurse supply
 #### 68 👍 - Pro
 Testifying:

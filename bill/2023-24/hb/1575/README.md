@@ -13,19 +13,17 @@
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): HB 1575 Cultural access programs/tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154739&caId=22561&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154739&caId=22561&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154739&caId=22561&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154739&caId=22561&tId=4)
-
-#### 173 👍 - Pro
+#### 206 👍 - Pro
 Testifying:
 * Manuel R. Cawaling - Inspire Washington
 * Melissa Huggins
+* Tonieh Thompson
 * Sarah Perry - [King County](/org/king_county/)
+* Naho Shioya - Arts Corps
 
-#### 2 👎 - Con
+#### 35 👎 - Con
+Testifying:
+* Tim Eyman - Concerned citizen
 
 #### 0 ❓ - Other
 

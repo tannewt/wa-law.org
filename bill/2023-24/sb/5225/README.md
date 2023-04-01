@@ -19,9 +19,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154752&caId=22577&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154752&caId=22577&tId=4)
 
-#### 170 👍 - Pro
+#### 245 👍 - Pro
 Testifying:
 * Bertha corona - communities for our colleges
+* 💵William Daley - Communities for Our Colleges
+* 💵Eli Goss - OneAmerica
+* 💵Maggie Humphreys - MomsRising & MamásConPoder
 
 #### 0 👎 - Con
 

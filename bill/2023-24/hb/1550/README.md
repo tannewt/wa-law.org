@@ -21,21 +21,16 @@
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): 2SHB 1550 Transition to kindergarten
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154730&caId=22552&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154730&caId=22552&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154730&caId=22552&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154730&caId=22552&tId=4)
-
-#### 144 👍 - Pro
+#### 162 👍 - Pro
 Testifying:
 * Jim Stoffer - Public School Advocate of Sequim
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 * Jim Stoffer - Public School Advocate of Sequim
 * Jim Kowalkowski - Rural Education Center
 * Brent Cummings - Director of Early Learning, Walla Walla Center for Children & Families
+* Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
 
-#### 73 👎 - Con
+#### 100 👎 - Con
 Testifying:
 * 💵Katy Warren - WA State Assn of Head Start and ECEAP
 * Margot Grant Gould - KinderCare
@@ -45,6 +40,7 @@ Testifying:
 * Kathy Carmen - Washington Childcare Center Association
 * 💵Laura Murphy - Washington Childcare Center Association
 * Susan Brown - Washington Childcare Center Association
+* Lois Martin
 
 #### 1 ❓ - Other
 Testifying:

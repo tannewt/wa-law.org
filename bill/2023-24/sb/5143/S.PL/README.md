@@ -1,0 +1,50 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5143](/bill/2023-24/sb/5143/) > [Passed Legislature](/bill/2023-24/sb/5143/S.PL/)
+
+# SB 5143 - Pesticide registration comm.
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Passed%20Legislature/5143-S.PL.pdf)
+
+## Section 1
+1. A commission on integrated pest management is established. The commission shall be composed of 12 voting members appointed by the director as follows:
+
+    a. Eight members from the following segments of the state's agricultural industry as nominated by a statewide private agricultural association or agricultural commodity commission formed under this title: (i) The tree fruit industry; (ii) hop growers; (iii) potato growers; (iv) wheat growers; (v) vegetable and seed growers; (vi) berry growers; (vii) wine grape growers; and (viii) the nursery and landscape industry. Although members are appointed from various segments of the agriculture industry, they are appointed to represent and advance the interests of the industry as a whole.
+
+    b. One member from each of the following: (i) Forest protection industry; (ii) food processors; (iii) agricultural chemical industry; and (iv) professional pesticide applicators. One member shall be appointed for each such segment of the industry and shall be nominated by a statewide, private association of that segment of the industry. The representative of the agricultural chemical industry shall be involved in the manufacture of agricultural crop protection products.
+
+The following shall be ex officio, nonvoting members of the commission: The coordinator of the interregional project number four at Washington State University; the director of the department of ecology or the director's designee; the director of the department of agriculture or the director's designee; the director of the department of labor and industries or the director's designee;  the secretary of the department of health or the secretary's designee; and a representative of the United States environmental protection agency, region 10, who has working knowledge of federal pesticide policy issues.
+
+2. Each voting member of the commission shall serve a term of three years. A vacancy shall be filled by appointment for the unexpired term in the same manner provided for an appointment to the full term. No member of the commission may be removed by the director during his or her term of office unless for cause of incapacity, incompetence, neglect of duty, or malfeasance in office. Each member of the commission shall receive travel expenses in accordance with RCW 43.03.050 and 43.03.060 for attending meetings of the commission and for performing special duties, in the way of official commission business, specifically assigned to the person by the commission. The voting members of the commission serve without compensation from the state other than such travel expenses.
+
+3. The commission shall elect a chair from among its voting members each calendar year. After its original organizational meeting, the commission shall meet at the call of the chair. A majority of the voting members of the commission constitutes a quorum and an official action of the commission may be taken by a majority vote of the quorum.
+
+## Section 2
+1. This subsection applies to the use of state appropriations made to or legislatively intended for the commission on integrated pest management and to any other moneys appropriated by the state and received by the commission on integrated pest management:
+
+    a. The moneys may not be expended without the express approval of the commission on integrated pest management;
+
+    b. The moneys may be used for: (i) Evaluations, studies, or investigations approved by the commission on integrated pest management regarding the registration or reregistration of pesticides for minor crops or minor uses or regarding the availability of pesticides for emergency uses. These evaluations, studies, or investigations may be conducted by the food and environmental quality laboratory or may be secured by the commission from other qualified laboratories, researchers, or contractors by contract, which contracts may include, but are not limited to, those purchasing the use of proprietary information; (ii) evaluations, studies, or investigations approved by the commission regarding research, implementation, and demonstration of any aspect of integrated pest management and pesticide resistance management programs; (iii) the tracking system described in RCW 15.92.060; and (iv) the support of the commission on integrated pest management and its activities; and
+
+    c. Not less than 25 percent of such moneys shall be dedicated to studies or investigations concerning the registration or use of pesticides for crops that are not among the top 20 agricultural commodities in production value produced in the state, as determined annually by the Washington agricultural statistics service.
+
+2. The commission on integrated pest management shall establish priorities to guide it in approving the use of moneys for evaluations, studies, and investigations under this section. Each biennium, the commission shall prepare a contingency plan for providing funding for laboratory studies or investigations that are necessary to pesticide registrations or related processes that will address emergency conditions for agricultural crops that are not generally predicted at the beginning of the biennium.
+
+## Section 3
+The commission on integrated pest management shall:
+
+1. Provide guidance to the food and environmental quality laboratory established in RCW 15.92.050 regarding the laboratory's studies, investigations, and evaluations concerning the registration of pesticides for use in this state for minor crops and minor uses and concerning the availability of pesticides for emergency uses;
+
+2. Encourage agricultural organizations to assist in providing funding, in-kind services, or materials for laboratory studies and investigations concerning the registration of pesticides and research, implementation, and demonstration of any aspect of integrated pest management and pesticide resistance management programs for minor crops and minor uses that would benefit the organizations;
+
+3. Provide guidance to the laboratory regarding a program for: Tracking the availability of effective pesticides for minor crops, minor uses, and emergency uses; providing this information to organizations of agricultural producers; and maintaining close contact between the laboratory, the department of agriculture, and organizations of agricultural producers regarding the need for research to support the registration of pesticides for minor crops and minor uses and the availability of pesticides for emergency uses;
+
+4. Ensure that the activities of the commission and the laboratory are coordinated with the activities of other laboratories in the Pacific Northwest, the United States department of agriculture, and the United States environmental protection agency to maximize the effectiveness of regional efforts to assist in the registration of pesticides for minor crops and minor uses and in providing for the availability of pesticides for emergency uses for the region and the state; and
+
+5. Ensure that prior to approving any residue study that there is written confirmation of registrant support and willingness or ability to add the given minor crop to its label including any restrictions or guidelines the registrant intends to impose.
+
+## Section 4
+By December 15, 2002, the commission on integrated pest management shall file with the legislature a report on the activities supported by the commission for the period beginning on July 23, 1995, and ending on December 1, 2002. The report shall include an identification of: The priorities that have been set by the commission; the state appropriations made to Washington State University that have been within the jurisdiction of the commission; the evaluations, studies, and investigations funded in whole or in part by such moneys and the registrations and uses of pesticides made possible in large part by those evaluations, studies, and investigations; the matching moneys, in-kind services, and materials provided by agricultural organizations for those evaluations, studies, and investigations; and the program or programs for tracking pesticide availability provided by the laboratory under the guidance of the commission and the means used for providing this information to organizations of agricultural producers.
+
+During the regular session of the legislature in the year 2003, the appropriate committees of the house of representatives and senate shall evaluate the effectiveness of the commission in fulfilling its statutory responsibilities.
+
+## Section 5
+The commission on integrated pest management, and Washington State University on behalf of the commission, may receive such gifts, grants, and endowments from public or private sources as may be used from time to time, in trust or otherwise, for the use and benefit of the commission and expend the same or any income therefrom according to the terms of the gifts, grants, or endowments.

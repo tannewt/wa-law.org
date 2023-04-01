@@ -9,19 +9,13 @@
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): SHB 1012 Extreme weather events
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154744&caId=22566&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154744&caId=22566&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154744&caId=22566&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154744&caId=22566&tId=4)
-
-#### 38 👍 - Pro
+#### 51 👍 - Pro
 Testifying:
 * 💵Brittany Benesi - American Society for the Prevention of Cruelty to Animals
 * Alexandra Mather - [Pierce Transit](/org/pierce_transit/)
 * Jim Baumgart - Washington Military Department
 
-#### 0 👎 - Con
+#### 13 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -57,7 +57,7 @@
 * 👍💵 Stephanie Simpson
 * 👍💵 Stephanie Simpson
 
-## [SB 5388](/bill/2023-24/sb/5388/) - Diversity in clinical trials 👍2  
+## [SB 5388](/bill/2023-24/sb/5388/) - Diversity in clinical trials 👍3  
 
 ## [SB 5393](/bill/2023-24/sb/5393/) - Health provider contracting 👍2  
 

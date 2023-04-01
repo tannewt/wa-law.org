@@ -19,6 +19,37 @@
 * [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=E2SB 5536)
 
 ## Meetings
+### Sat 04/01 09:00 AM - Appropriations (APP): E2SSB 5536 Controlled substances
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154823&caId=22627&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154823&caId=22627&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154823&caId=22627&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154823&caId=22627&tId=4)
+
+#### 14 👍 - Pro
+Testifying:
+* Dana Ralph - Mayor of the City of Kent
+* Armondo Pavone - Mayor, City of Renton
+* 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
+
+#### 53 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+
+#### 11 ❓ - Other
+Testifying:
+* Larry Jefferson - Washington State Office of Public Defense
+* Scott Brandon
+* 💵Lisa Daugaard
+* DeAunte Damper
+* Everett Maroon
+* Vanessa Martin
+* Bethany Barnard
+* Gabbie Caudill
+* 💵Anne Anderson - Washington State Narcotics Investigators Association
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* 💵Michael White - [King County](/org/king_county/)
+
 ### Mon 03/20 01:30 PM - Community Safety, Justice, & Reentry (CSJR): E2SSB 5536 Controlled substances
 #### 224 👍 - Pro
 Testifying:

@@ -13,18 +13,13 @@
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): 2SHB 1013 Regional apprenticeship prgs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154726&caId=22548&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154726&caId=22548&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154726&caId=22548&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154726&caId=22548&tId=4)
-
-#### 18 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * Jim Stoffer - Public School Advocate of Sequim
 * 💵Josh Weiss - Snohomish County
+* Sue Kane - Apple STEM Network & North Central Educational Services District
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

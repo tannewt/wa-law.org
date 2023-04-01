@@ -19,6 +19,23 @@
 * [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB 5315)
 
 ## Meetings
+### Sat 04/01 09:00 AM - Appropriations (APP): E2SSB 5315 Special education/nonpublic
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154811&caId=22615&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154811&caId=22615&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154811&caId=22615&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154811&caId=22615&tId=4)
+
+#### 10 👍 - Pro
+Testifying:
+* Hugh Flint
+
+#### 1 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* Suzie Hanson - Washington Federation of Independent Schools
+
 ### Mon 03/20 01:30 PM - Education (ED): E2SSB 5315 Special education/nonpublic
 #### 75 👍 - Pro
 Testifying:

@@ -16,19 +16,18 @@
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): 2SHB 1474 Covenant homeownership prg.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154718&caId=22540&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154718&caId=22540&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154718&caId=22540&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154718&caId=22540&tId=4)
-
-#### 322 👍 - Pro
+#### 381 👍 - Pro
 Testifying:
 * Corinna Obar - Washington State Housing Finance Commiss
+* Dr. James Gregory
+* Patience Malaba - Housing Development Consortium of Seattle-King County
+* 💵Shaun Scott - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* Ali Sheibani
+* 💵Nathan Gorton - Washington REALTORS
 * 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
 * Hilke Faber
 
-#### 1 👎 - Con
+#### 31 👎 - Con
 
 #### 0 ❓ - Other
 

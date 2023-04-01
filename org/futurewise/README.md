@@ -1,6 +1,6 @@
 # Futurewise
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍8  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍9  
 * 👍💵 Bryce Yadon
 
 ## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍1  

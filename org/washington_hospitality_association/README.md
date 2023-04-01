@@ -5,7 +5,7 @@
 ## [HB 1068](/bill/2023-24/hb/1068/) - Injured worker medical exams  👎1 
 * 👎💵 Samantha Louderback
 
-## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍2  
+## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍3  
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 

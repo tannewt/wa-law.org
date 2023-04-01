@@ -13,6 +13,22 @@
 * [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=SB 5290)
 
 ## Meetings
+### Sat 04/01 09:00 AM - Appropriations (APP): 2SSB 5290 Local permit review
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154810&caId=22614&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154810&caId=22614&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154810&caId=22614&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154810&caId=22614&tId=4)
+
+#### 35 👍 - Pro
+Testifying:
+* 💵Scott Hazlegrove - Master Builders Association of King & Snohomish Counties
+* 💵Josie Cummings - BIAW
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 03/21 10:30 AM - Local Government (LG): 2SSB 5290 Local permit review
 #### 39 👍 - Pro
 Testifying:

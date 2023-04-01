@@ -14,6 +14,19 @@
 * [KING5](/org/king5/) - [Bill would increase support, cash for Washington inmates before being released | king5.com](https://www.king5.com/article/news/local/bill-increase-support-cash-washington-inmates/281-de67c91e-5d09-4ea9-820f-2db89ff6253b#:~:text=Senate Bill 5134)
 
 ## Meetings
+### Sat 04/01 09:00 AM - Appropriations (APP): 2SSB 5134 Reentry services & supports
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154805&caId=22609&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154805&caId=22609&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154805&caId=22609&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154805&caId=22609&tId=4)
+
+#### 4 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 03/21 04:00 PM - Community Safety, Justice, & Reentry (CSJR): 2SSB 5134 Reentry services & supports
 #### 110 👍 - Pro
 Testifying:

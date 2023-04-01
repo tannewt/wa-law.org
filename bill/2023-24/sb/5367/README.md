@@ -11,25 +11,24 @@
 
 ## Meetings
 ### Fri 03/31 01:30 PM - Appropriations (APP): E2SSB 5367 Products containing THC
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154647&caId=22491&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154647&caId=22491&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154647&caId=22491&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154647&caId=22491&tId=4)
-
-#### 6 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Marc Webster - Washington State Liquor and Cannabis Board
 * Megan Moore - [Washington State Public Health Association](/org/washington_state_public_health_association/)
 * Adán Espino Jr - [Craft Cannabis Coalition](/org/craft_cannabis_coalition/)
+* 💵Tony Sermonti - [Craft Cannabis Coalition](/org/craft_cannabis_coalition/)
+* Scott Waller - WASAVP - Prevention First! for Safe and Healthy Communities
+* 💵Jessica Hostetler - [Washington Cannabusiness Association](/org/washington_cannabusiness_association/)
 
-#### 12 👎 - Con
+#### 26 👎 - Con
 Testifying:
 * Bonny Jo Peterson - Industrial Hemp Association of WA
 * Scott Wheat - Wheat Family Farm, LLC
 * AZMYTH KAMINSKI - Science Under Nature
+* Owen Ashley
 * Dylan Summers - [Lazarus Naturals](/org/lazarus_naturals/)
 * Michael Bernstein - Laurelcrest Capital
+* L Bolan
 
 #### 1 ❓ - Other
 

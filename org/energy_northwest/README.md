@@ -4,7 +4,7 @@
 
 ## [HB 1173](/bill/2023-24/hb/1173/) - Light pollution   ❓2
 
-## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍2  ❓1
+## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍3  ❓1
 * ❓ Josh Lozano
 
 ## [HB 1416](/bill/2023-24/hb/1416/) - Consumer-owned utilities 👍2  

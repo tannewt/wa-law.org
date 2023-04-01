@@ -13,6 +13,9 @@
 * 👍 Sybill Hppolite
 * 👍 Joe Kendo
 
+## [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍1  
+* 👍💵 John Traynor
+
 ## [SB 5286](/bill/2023-24/sb/5286/) - Paid leave premiums 👍1  
 * 👍 Joe Kendo
 

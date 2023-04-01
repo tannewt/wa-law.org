@@ -21,18 +21,12 @@
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): E2SHB 1170 Climate response strategy
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154748&caId=22570&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154748&caId=22570&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154748&caId=22570&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154748&caId=22570&tId=4)
-
-#### 67 👍 - Pro
+#### 116 👍 - Pro
 Testifying:
 * Jennifer Hennessey - Washington State Department of Ecology
 * Crystal Raymond - University of Washington, Climate Impacts Group
 
-#### 0 👎 - Con
+#### 14 👎 - Con
 
 #### 0 ❓ - Other
 

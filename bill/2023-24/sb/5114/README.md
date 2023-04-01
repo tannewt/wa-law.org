@@ -12,20 +12,14 @@
 
 ## Meetings
 ### Fri 03/31 01:30 PM - Appropriations (APP): SSB 5114 Sex trafficking
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154639&caId=22483&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154639&caId=22483&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154639&caId=22483&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31138&aId=154639&caId=22483&tId=4)
-
-#### 125 👍 - Pro
+#### 158 👍 - Pro
 Testifying:
 * Kyra Abrahamson - Washington Trafficking Prevention
 * Lonnie Johns-Brown
 
 #### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 03/14 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SSB 5114 Sex trafficking
 #### 164 👍 - Pro

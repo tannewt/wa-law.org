@@ -284,7 +284,7 @@
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍3  
 * 👍💵 Simone Boe
 
-## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍5  
+## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍6  
 * 👍💵 Nasue Nishida
 * 👍💵 Nasue Nishida
 
@@ -383,7 +383,7 @@
 
 ## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍2  
 
-## [SB 5102](/bill/2023-24/sb/5102/) - School library info and tech 👍3  
+## [SB 5102](/bill/2023-24/sb/5102/) - School library info and tech 👍4  
 
 ## [SB 5110](/bill/2023-24/sb/5110/) - Labor practices/penalties 👍2  
 
@@ -486,7 +486,7 @@
 
 ## [SB 5296](/bill/2023-24/sb/5296/) - Military service credit 👍1  
 
-## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍4  
+## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍5  
 * 👍💵 Simone Boe
 * 👍💵 Julie Salvi
 * 👍💵 Julie Salvi

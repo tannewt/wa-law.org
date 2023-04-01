@@ -12,6 +12,22 @@
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Bill creating magic mushrooms regulation task forces passes the state Senate | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/09/bill-creating-magic-mushrooms-regulation-task-forc/#:~:text=Senate Bill 5263)
 
 ## Meetings
+### Sat 04/01 09:00 AM - Appropriations (APP): 2SSB 5263 Psilocybin
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154807&caId=22611&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154807&caId=22611&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154807&caId=22611&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154807&caId=22611&tId=4)
+
+#### 11 👍 - Pro
+Testifying:
+* Kody Zalewski - [Psychedelic Medicine Alliance of Washington](/org/psychedelic_medicine_alliance_of_washington/)
+* MATTHEW GRIFFIN
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 03/24 08:00 AM - Health Care & Wellness (HCW): 2SSB 5263 Psilocybin
 #### 27 👍 - Pro
 Testifying:

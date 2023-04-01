@@ -4,6 +4,8 @@
 
 ## [HB 1271](/bill/2023-24/hb/1271/) - Organ transport vehicles 👍1  
 
+## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records  👎1 
+
 ## [HB 1357](/bill/2023-24/hb/1357/) - Prior authorization/health 👍1  
 
 ## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board  👎2 

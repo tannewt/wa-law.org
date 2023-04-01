@@ -219,7 +219,7 @@
 ## [SB 5287](/bill/2023-24/sb/5287/) - Wind turbine blade recycling 👍1  
 * 👍💵 Travis Dutton
 
-## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍3  
+## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍4  
 * 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 

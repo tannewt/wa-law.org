@@ -129,7 +129,7 @@
 
 ## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍1  
 
-## [SB 5278](/bill/2023-24/sb/5278/) - Home care aide certification 👍2  
+## [SB 5278](/bill/2023-24/sb/5278/) - Home care aide certification 👍3  
 
 ## [SB 5302](/bill/2023-24/sb/5302/) - Adult family homes/prop. tax 👍2  
 
@@ -138,7 +138,7 @@
 * ❓💵 Ramona Hattendorf
 * 👍💵 Ramona Hattendorf
 
-## [SB 5315](/bill/2023-24/sb/5315/) - Special education/nonpublic 👍4  
+## [SB 5315](/bill/2023-24/sb/5315/) - Special education/nonpublic 👍5  
 * 👍💵 Ramona Hattendorf
 * 👍💵 Ramona Hattendorf
 

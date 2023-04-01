@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Articles
 * [KING5](/org/king5/) - [Sexually abusive jail guards, police to face harsher penalties under new Washington law | king5.com](https://www.king5.com/article/news/investigations/inslee-signs-kimberly-benders-law/281-20061e37-8cf0-40a4-9379-fc9052cf0907#:~:text=Senate Bill 5033)

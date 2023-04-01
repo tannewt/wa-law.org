@@ -9,17 +9,13 @@
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): SHB 1406 Youth seeking housing assist
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154732&caId=22554&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154732&caId=22554&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154732&caId=22554&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154732&caId=22554&tId=4)
-
-#### 38 👍 - Pro
+#### 56 👍 - Pro
 Testifying:
 * 💵Alex Hur - NW Education Access
 * Jim Theofelis - NorthStar Advocates
 * Julie Patino - A Way Home Washington
+* Athena " " - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
+* Danni Jo Bechtold - [The Mockingbird Society](/org/the_mockingbird_society/)
 
 #### 0 👎 - Con
 

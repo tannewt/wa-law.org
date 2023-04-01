@@ -18,20 +18,14 @@
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): E2SHB 1565 Prof. education workforce
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154727&caId=22549&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154727&caId=22549&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154727&caId=22549&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154727&caId=22549&tId=4)
-
-#### 186 👍 - Pro
+#### 214 👍 - Pro
 Testifying:
 * Anna Hernandez-French - Office of Superintendent of Public Instruction
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 * Shannon McCann - Federal Way Education Association
 * Dr. Erica Hernandez-Scott - [Professional Educator Standards Board](/org/professional_educator_standards_board/)
 
-#### 0 👎 - Con
+#### 14 👎 - Con
 
 #### 0 ❓ - Other
 

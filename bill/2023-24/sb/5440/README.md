@@ -10,6 +10,29 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Meetings
+### Sat 04/01 09:00 AM - Appropriations (APP): E2SSB 5440 Competency evaluations
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154819&caId=22623&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154819&caId=22623&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154819&caId=22623&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154819&caId=22623&tId=4)
+
+#### 3 👍 - Pro
+Testifying:
+* 💵Melanie Smith - NAMI Washington
+* 💵Michael White - [King County](/org/king_county/)
+
+#### 2 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
+
+#### 4 ❓ - Other
+Testifying:
+* Dana Ralph - Mayor of the City of Kent
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Kari Reardon - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+
 ### Tue 03/14 10:30 AM - Civil Rights & Judiciary (CRJ): E2SSB 5440 Competency evaluations
 #### 10 👍 - Pro
 Testifying:

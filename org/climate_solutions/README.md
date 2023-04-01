@@ -21,10 +21,11 @@
 
 ## [HB 1192](/bill/2023-24/hb/1192/) - Electric transm. planning 👍1  
 
-## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍3  
+## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍4  
 * 👍💵 Kelly Hall
 * 👍💵 Kelly Hall
 * 👍💵 Kelly Hall
+* 👍💵 Altinay Karasapan
 
 ## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍1  
 

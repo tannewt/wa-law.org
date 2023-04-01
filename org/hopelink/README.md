@@ -65,7 +65,7 @@
 
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures 👍1  
 
-## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍3  
+## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍4  
 
 ## [SB 5235](/bill/2023-24/sb/5235/) - Accessory dwelling units 👍2  
 
@@ -91,7 +91,7 @@
 
 ## [SB 5572](/bill/2023-24/sb/5572/) - Traffic safety 👍1  
 
-## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍2  
+## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍3  
 
 ## [SB 5581](/bill/2023-24/sb/5581/) - Maternal support services 👍1  
 

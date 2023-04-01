@@ -1,8 +1,10 @@
 # Washington State Public Health Association
 
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍1  
+
 ## [HB 1033](/bill/2023-24/hb/1033/) - Compostable product usage 👍1  
 
-## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
+## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍2  
 
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍4  
 
@@ -13,7 +15,7 @@
 
 ## [HB 1168](/bill/2023-24/hb/1168/) - Prenatal substance exposure 👍3  
 
-## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍1  
+## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍2  
 
 ## [HB 1178](/bill/2023-24/hb/1178/) - Firearms/local government 👍1  
 
@@ -67,7 +69,7 @@
 * 👍 Jeff Ketchel
 * 👍 Jeff Ketchel
 
-## [SB 5367](/bill/2023-24/sb/5367/) - Products containing THC 👍1  
+## [SB 5367](/bill/2023-24/sb/5367/) - Products containing THC 👍2  
 * 👍 Megan Moore
 
 ## [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍1  

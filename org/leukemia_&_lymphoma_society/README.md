@@ -18,6 +18,8 @@
 
 ## [SB 5338](/bill/2023-24/sb/5338/) - Essential health benefits 👍2  
 
-## [SB 5388](/bill/2023-24/sb/5388/) - Diversity in clinical trials 👍4  
+## [SB 5388](/bill/2023-24/sb/5388/) - Diversity in clinical trials 👍5  
 * 👍💵 Adam Zarrin
 * 👍💵 Adam Zarrin
+
+## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍1  

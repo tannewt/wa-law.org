@@ -64,7 +64,7 @@
 
 ## [HB 1706](/bill/2023-24/hb/1706/) - Microenterprise home kitchen   ❓1
 
-## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍2  
+## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍3  
 
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍2  
 * 👍 Genesee Adkins

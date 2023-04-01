@@ -30,7 +30,7 @@
 
 ## [SB 5498](/bill/2023-24/sb/5498/) - Nurse student loan repayment 👍2  
 
-## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍2  
+## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍3  
 * 👍 Carma Matti-Jackson
 
 ## [SB 5526](/bill/2023-24/sb/5526/) - Nursing facility rates 👍2  
@@ -40,7 +40,7 @@
 ## [SB 5547](/bill/2023-24/sb/5547/) - Nursing pool transparency 👍2  
 * 👍 Carma Matti-Jackson
 
-## [SB 5582](/bill/2023-24/sb/5582/) - Nurse supply 👍2  
+## [SB 5582](/bill/2023-24/sb/5582/) - Nurse supply 👍3  
 * 👍 Carma Matti-Jackson
 
 ## [SB 5640](/bill/2023-24/sb/5640/) - Independent living residents 👍1  

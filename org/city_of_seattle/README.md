@@ -12,7 +12,7 @@
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
+## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍4  
 * 👍 Rico Quirindongo
 * 👍 Tiffany Washington
 
@@ -99,7 +99,7 @@
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍2  
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
+## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍3  
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍3  
 
@@ -107,7 +107,7 @@
 
 ## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍2  
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍2  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍3  
 
 ## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍4  
 
@@ -135,7 +135,7 @@
 
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍1  
 
-## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍2  
+## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍3  
 
 ## [SB 5052](/bill/2023-24/sb/5052/) - Leasehold tax/arenas, etc. 👍1  
 
@@ -148,7 +148,9 @@
 ## [SB 5109](/bill/2023-24/sb/5109/) - Wage replacement 👍1  
 * 👍 Hamdi Mohamed
 
-## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍2  
+## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍1  
+
+## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍3  
 
 ## [SB 5122](/bill/2023-24/sb/5122/) - Ambulance transport fund 👍1  
 
@@ -162,7 +164,7 @@
 
 ## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I 👍3  
 
-## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍3  
+## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍4  
 
 ## [SB 5232](/bill/2023-24/sb/5232/) - Firearms/purchase & transfer 👍2  
 * 👍 Lisa Herbold
@@ -176,6 +178,8 @@
 
 ## [SB 5247](/bill/2023-24/sb/5247/) - Climate-ready communities 👍1  
 
+## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍1  
+
 ## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍1  
 
 ## [SB 5258](/bill/2023-24/sb/5258/) - Condos and townhouses 👍1  
@@ -184,7 +188,7 @@
 
 ## [SB 5260](/bill/2023-24/sb/5260/) - Reprod. health/employers 👍1  
 
-## [SB 5263](/bill/2023-24/sb/5263/) - Psilocybin 👍2  
+## [SB 5263](/bill/2023-24/sb/5263/) - Psilocybin 👍3  
 
 ## [SB 5274](/bill/2023-24/sb/5274/) - Public employ. eligibility 👍2  
 
@@ -210,7 +214,7 @@
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
 
-## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍1  
+## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍2  
 
 ## [SB 5513](/bill/2023-24/sb/5513/) - CTC mental health counseling 👍1  
 

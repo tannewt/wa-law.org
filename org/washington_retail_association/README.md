@@ -133,7 +133,7 @@
 
 ## [SB 5110](/bill/2023-24/sb/5110/) - Labor practices/penalties  👎1 
 
-## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍2  
+## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍3  
 
 ## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍3  
 * 👍💵 Mark Johnson

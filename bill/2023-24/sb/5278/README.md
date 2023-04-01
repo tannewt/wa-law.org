@@ -14,6 +14,19 @@
 * [The Seattle Times](/org/the_seattle_times/) - [How a WA bill could help caregiver shortage ahead of ‘silver tsunami’ | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/how-a-wa-bill-could-help-caregiver-shortage-ahead-of-silver-tsunami/#:~:text=Senate Bill 5278)
 
 ## Meetings
+### Sat 04/01 09:00 AM - Appropriations (APP): E2SSB 5278 Home care aide certification
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154809&caId=22613&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154809&caId=22613&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154809&caId=22613&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154809&caId=22613&tId=4)
+
+#### 6 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 03/14 01:30 PM - Postsecondary Education & Workforce (PEW): E2SSB 5278 Home care aide certification
 #### 65 👍 - Pro
 Testifying:

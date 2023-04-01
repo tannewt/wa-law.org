@@ -12,6 +12,22 @@
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Policing, Crime & Courts](https://crosscut.com/voter-guide/2023-legislative-tracker/election/policing-crime-courts#:~:text=Senate Bill 5128)
 
 ## Meetings
+### Sat 04/01 09:00 AM - Appropriations (APP): 2SSB 5128 Jury diversity
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154803&caId=22607&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154803&caId=22607&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154803&caId=22607&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154803&caId=22607&tId=4)
+
+#### 9 👍 - Pro
+Testifying:
+* Elizabeth Hendren - Washington Supreme Court Gender and Justice Commission
+* Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 03/15 08:00 AM - Civil Rights & Judiciary (CRJ): 2SSB 5128 Jury diversity
 #### 17 👍 - Pro
 Testifying:

@@ -16,6 +16,23 @@
 * [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB 5555)
 
 ## Meetings
+### Sat 04/01 09:00 AM - Appropriations (APP): 2SSB 5555 Certified peer specialists
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154824&caId=22628&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154824&caId=22628&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154824&caId=22628&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154824&caId=22628&tId=4)
+
+#### 4 👍 - Pro
+
+#### 11 👎 - Con
+Testifying:
+* Gabriel Hamilton - I am a certified youth peer councilor and and have become a peer specialist.
+* Naomi Herrera
+* Lorrin Gehring - The Rainbow Makers
+
+#### 0 ❓ - Other
+
 ### Wed 03/15 01:30 PM - Health Care & Wellness (HCW): 2SSB 5555 Certified peer specialists
 #### 7 👍 - Pro
 Testifying:

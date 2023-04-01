@@ -83,7 +83,7 @@
 
 ## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge  👎2 
 
-## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍2  
+## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍3  
 * 👍 Joe Dacca
 * 👍 Amanda Kost
 
@@ -119,6 +119,8 @@
 
 ## [SB 5270](/bill/2023-24/sb/5270/) - DOC/immigration assistance 👍1  
 
+## [SB 5315](/bill/2023-24/sb/5315/) - Special education/nonpublic 👍1  
+
 ## [SB 5409](/bill/2023-24/sb/5409/) - Voter identifier numbers 👍1  
 
 ## [SB 5414](/bill/2023-24/sb/5414/) - Elections law violation info 👍1  
@@ -131,6 +133,8 @@
 ## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍1  
 
 ## [SB 5523](/bill/2023-24/sb/5523/) - Forensic pathologists 👍1  
+
+## [SB 5534](/bill/2023-24/sb/5534/) - Workforce investment board 👍1  
 
 ## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍4  
 

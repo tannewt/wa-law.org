@@ -33,15 +33,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154756&caId=22581&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154756&caId=22581&tId=4)
 
-#### 21 👍 - Pro
+#### 250 👍 - Pro
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Marissa Rathbone - Washington State School Directors' Association
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* Samantha Fogg - Seattle Council PTSA
+* 💵Djibril Diop - Washington Education Associaiton
+* 💵Melissa Gombosky - Central Valley, Spokane, Richland, Evergreen and Vancouver Public Schools
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Lizzy Sebring - Washington State PTA
+* Mikhail Cherniske - Office of Superintendent of Public Instruction
 
 ### Tue 03/14 04:00 PM - Education (ED): E2SSB 5311 Special education funding
 #### 369 👍 - Pro

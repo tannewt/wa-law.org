@@ -41,7 +41,7 @@
 
 ## [HB 1732](/bill/2023-24/hb/1732/) - K-12 inflation adjustments 👍1  
 
-## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍2  
+## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍3  
 
 ## [SB 5054](/bill/2023-24/sb/5054/) - Prof. learning communities 👍1  
 
@@ -51,11 +51,11 @@
 
 ## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍3  
 
-## [SB 5243](/bill/2023-24/sb/5243/) - High school and beyond plans 👍2  
+## [SB 5243](/bill/2023-24/sb/5243/) - High school and beyond plans 👍3  
 
 ## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍1  
 
-## [SB 5355](/bill/2023-24/sb/5355/) - Sex trafficking prev. ed. 👍2  
+## [SB 5355](/bill/2023-24/sb/5355/) - Sex trafficking prev. ed. 👍3  
 
 ## [SB 5527](/bill/2023-24/sb/5527/) - Graduation pathway options 👍1  
 

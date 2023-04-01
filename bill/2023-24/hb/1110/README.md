@@ -51,13 +51,7 @@
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): E2SHB 1110 Middle housing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154733&caId=22555&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154733&caId=22555&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154733&caId=22555&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31183&aId=154733&caId=22555&tId=4)
-
-#### 869 👍 - Pro
+#### 967 👍 - Pro
 Testifying:
 * Joe Kunzler - None
 * AIA CPHD, MATTHEW HUTCHINS - [American Institute of Architects Washington Council](/org/american_institute_of_architects_washington_council/)
@@ -69,8 +63,10 @@ Testifying:
 * Kelli Curtis - Councilmember, City of Kirkland
 * Mike Gershick
 * christine mustelier
+* 💵Bill Clarke - WA REALTORS
+* Gavin Muller
 
-#### 153 👎 - Con
+#### 269 👎 - Con
 Testifying:
 * Salim Nice - [City of Mercer Island](/org/city_of_mercer_island/)
 * Deirdre Johnson
@@ -82,14 +78,16 @@ Testifying:
 * Lois Martin
 * Sandy Shettler
 * Troy McCoy - [City of Battle Ground](/org/city_of_battle_ground/)
+* Maggie Fimia - Smarter Transit
 
-#### 5 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Tiffany Speir - [City of Lakewood](/org/city_of_lakewood/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Dana Ralph - City of Kent, Mayor
 * Mary Lou Pauly - Mayor, City of Issaquah
+* Bridget Moehring
 
 ### Fri 03/17 10:30 AM - Housing (HSG): E2SHB 1110 Middle housing
 #### 1121 👍 - Pro

@@ -29,13 +29,13 @@
 
 ## [SB 5099](/bill/2023-24/sb/5099/) - Estate tax/extraordinary rev 👍1  
 
-## [SB 5128](/bill/2023-24/sb/5128/) - Jury diversity 👍2  
+## [SB 5128](/bill/2023-24/sb/5128/) - Jury diversity 👍3  
 
 ## [SB 5165](/bill/2023-24/sb/5165/) - Electric transm. planning 👍1  
 
 ## [SB 5247](/bill/2023-24/sb/5247/) - Climate-ready communities 👍1  
 
-## [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍3  
+## [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍4  
 
 ## [SB 5324](/bill/2023-24/sb/5324/) - Defense compatibility acct. 👍4  
 

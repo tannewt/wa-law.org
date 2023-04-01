@@ -27,7 +27,7 @@
 
 ## [SB 5280](/bill/2023-24/sb/5280/) - Clergy/child abuse reporting 👍1  
 
-## [SB 5355](/bill/2023-24/sb/5355/) - Sex trafficking prev. ed. 👍1  
+## [SB 5355](/bill/2023-24/sb/5355/) - Sex trafficking prev. ed. 👍2  
 
 ## [SB 5441](/bill/2023-24/sb/5441/) - School district curricula 👍1  
 

@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## Articles
+* [Crosscut](/org/crosscut/) - [WA bill would bring trauma-informed practices to sexual assault cases | Crosscut](https://crosscut.com/politics/2023/03/wa-bill-would-bring-trauma-informed-practices-sexual-assault-cases#:~:text=House Bill 1028)
+
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): 2SHB 1028 Crime victims & witnesses
 #### 36 👍 - Pro

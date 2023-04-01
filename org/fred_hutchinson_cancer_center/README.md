@@ -20,8 +20,8 @@
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards  👎2 
 
-## [SB 5388](/bill/2023-24/sb/5388/) - Diversity in clinical trials 👍2  
+## [SB 5388](/bill/2023-24/sb/5388/) - Diversity in clinical trials 👍3  
 
 ## [SB 5396](/bill/2023-24/sb/5396/) - Breast exam cost sharing 👍2  
 
-## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍1  
+## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍2  
