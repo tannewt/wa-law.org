@@ -12,6 +12,19 @@
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Other Topics](https://crosscut.com/voter-guide/2023-legislative-tracker/election/other-topics#:~:text=Senate Bill 5371)
 
 ## Meetings
+### Mon 04/03 09:00 AM - Appropriations (APP): ESSB 5371 Orca vessel protection
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31232&aId=155217&caId=22633&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31232&aId=155217&caId=22633&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31232&aId=155217&caId=22633&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31232&aId=155217&caId=22633&tId=4)
+
+#### 61 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 03/15 08:00 AM - Agriculture and Natural Resources (AGNR): ESSB 5371 Orca vessel protection
 #### 485 👍 - Pro
 Testifying:

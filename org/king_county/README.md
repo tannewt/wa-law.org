@@ -295,7 +295,7 @@
 
 ## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍2  
 
-## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍2  
+## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍3  
 
 ## [SB 5087](/bill/2023-24/sb/5087/) - Defects and omissions 👍2  
 
@@ -307,7 +307,7 @@
 
 ## [SB 5100](/bill/2023-24/sb/5100/) - Breast & chest wall surgery 👍1  
 
-## [SB 5103](/bill/2023-24/sb/5103/) - Medicaid patients/discharge 👍3  
+## [SB 5103](/bill/2023-24/sb/5103/) - Medicaid patients/discharge 👍4  
 
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍4  
 
@@ -316,7 +316,9 @@
 ## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍4  
 * 👍 Sarah Perry
 
-## [SB 5130](/bill/2023-24/sb/5130/) - Assisted outpatient treat. 👍3  
+## [SB 5128](/bill/2023-24/sb/5128/) - Jury diversity 👍1  
+
+## [SB 5130](/bill/2023-24/sb/5130/) - Assisted outpatient treat. 👍4  
 * 👍💵 Michael White
 
 ## [SB 5142](/bill/2023-24/sb/5142/) - HIV medication rebate rev. 👍3  
@@ -364,7 +366,7 @@
 
 ## [SB 5219](/bill/2023-24/sb/5219/) - Counseling compact 👍2  
 
-## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍4  
+## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍5  
 * 👍 Jessica Tollenaar Cafferty
 
 ## [SB 5228](/bill/2023-24/sb/5228/) - Behavioral health OT 👍3  
@@ -394,7 +396,7 @@
 
 ## [SB 5274](/bill/2023-24/sb/5274/) - Public employ. eligibility 👍2  
 
-## [SB 5278](/bill/2023-24/sb/5278/) - Home care aide certification 👍1  
+## [SB 5278](/bill/2023-24/sb/5278/) - Home care aide certification 👍2  
 
 ## [SB 5289](/bill/2023-24/sb/5289/) - Impact fees/law enforcement 👍2  
 
@@ -404,10 +406,10 @@
 
 ## [SB 5300](/bill/2023-24/sb/5300/) - Behavioral health continuity 👍1  
 
-## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍2  
+## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍3  
 * 👍 Magan Cromar
 
-## [SB 5316](/bill/2023-24/sb/5316/) - DCYF background check fees 👍1  
+## [SB 5316](/bill/2023-24/sb/5316/) - DCYF background check fees 👍2  
 
 ## [SB 5317](/bill/2023-24/sb/5317/) - RTA vehicle removal 👍1  
 
@@ -434,7 +436,7 @@
 ## [SB 5367](/bill/2023-24/sb/5367/) - Products containing THC 👍3  
 * 👍 Sarah Ross-Viles
 
-## [SB 5369](/bill/2023-24/sb/5369/) - Polychlorinated biphenyls 👍2  
+## [SB 5369](/bill/2023-24/sb/5369/) - Polychlorinated biphenyls 👍3  
 
 ## [SB 5371](/bill/2023-24/sb/5371/) - Orca vessel protection 👍2  
 
@@ -488,11 +490,11 @@
 ## [SB 5493](/bill/2023-24/sb/5493/) - Financial instit./B&O tax 👍2  
 * 👍💵 Michael White
 
-## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍1  
+## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍2  
 
 ## [SB 5501](/bill/2023-24/sb/5501/) - Establishing a public education program to reduce the incidence of stillbirth using a platform for recording and tracking fetal movements. 👍1  
 
-## [SB 5515](/bill/2023-24/sb/5515/) - Child abuse and neglect 👍2  
+## [SB 5515](/bill/2023-24/sb/5515/) - Child abuse and neglect 👍3  
 
 ## [SB 5526](/bill/2023-24/sb/5526/) - Nursing facility rates 👍2  
 
@@ -506,7 +508,7 @@
 
 ## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy 👍1  
 
-## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍1  
+## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍2  
 
 ## [SB 5592](/bill/2023-24/sb/5592/) - Defibrillators/fitness 👍4  
 

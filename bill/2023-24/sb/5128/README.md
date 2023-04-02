@@ -13,18 +13,13 @@
 
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): 2SSB 5128 Jury diversity
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154803&caId=22607&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154803&caId=22607&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154803&caId=22607&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154803&caId=22607&tId=4)
-
-#### 9 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Elizabeth Hendren - Washington Supreme Court Gender and Justice Commission
 * Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Laurence Shannon - Washington State Association of Justice
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

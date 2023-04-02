@@ -262,7 +262,7 @@
 
 ## [SB 5289](/bill/2023-24/sb/5289/) - Impact fees/law enforcement 👍1  
 
-## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍3  
+## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍4  
 
 ## [SB 5294](/bill/2023-24/sb/5294/) - Retirement system funding 👍2  
 * 👍💵 Candice Bock

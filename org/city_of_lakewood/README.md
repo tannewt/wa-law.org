@@ -29,6 +29,8 @@
 
 ## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎2 
 
+## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  
+
 ## [SB 5539](/bill/2023-24/sb/5539/) - Tax increment financing 👍2  
 
 ## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍2  

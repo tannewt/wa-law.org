@@ -14,4 +14,4 @@
 
 ## [HB 1639](/bill/2023-24/hb/1639/) - Billy Frank Jr. statue 👍1  
 
-## [SB 5683](/bill/2023-24/sb/5683/) - Foster care/Indian children 👍2  
+## [SB 5683](/bill/2023-24/sb/5683/) - Foster care/Indian children 👍3  

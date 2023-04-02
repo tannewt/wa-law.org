@@ -10,18 +10,12 @@
 
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): ESSB 5102 School library info and tech
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154801&caId=22605&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154801&caId=22605&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154801&caId=22605&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154801&caId=22605&tId=4)
-
-#### 185 👍 - Pro
+#### 202 👍 - Pro
 Testifying:
 * 💵Carolyn Logue - [Washington Library Association](/org/washington_library_association/)
 * Ryan Grant - [Washington Library Association](/org/washington_library_association/)
 
-#### 6 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Travis Hanson - Deer Park School District
 * Rick Chisa - Public School Employees of Washington (PSE)

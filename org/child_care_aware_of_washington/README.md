@@ -29,7 +29,7 @@
 
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍1  
 
-## [SB 5316](/bill/2023-24/sb/5316/) - DCYF background check fees 👍3  
+## [SB 5316](/bill/2023-24/sb/5316/) - DCYF background check fees 👍4  
 * 👍💵 Emily Murphy
 * 👍💵 Emily Murphy
 * 👍💵 Emily Murphy

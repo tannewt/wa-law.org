@@ -27,13 +27,7 @@
 
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): E2SSB 5311 Special education funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154756&caId=22581&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154756&caId=22581&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154756&caId=22581&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154756&caId=22581&tId=4)
-
-#### 250 👍 - Pro
+#### 290 👍 - Pro
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Marissa Rathbone - Washington State School Directors' Association
@@ -41,6 +35,8 @@ Testifying:
 * Samantha Fogg - Seattle Council PTSA
 * 💵Djibril Diop - Washington Education Associaiton
 * 💵Melissa Gombosky - Central Valley, Spokane, Richland, Evergreen and Vancouver Public Schools
+* Harlan Gallinger - [Issaquah School District](/org/issaquah_school_district/)
+* Charlie Brown - Pierce County Superintendents, The School Alliance, Federal Way SD
 
 #### 0 👎 - Con
 

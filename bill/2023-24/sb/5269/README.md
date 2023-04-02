@@ -10,19 +10,15 @@
 
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): 2SSB 5269 Manufacturing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154808&caId=22612&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154808&caId=22612&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154808&caId=22612&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154808&caId=22612&tId=4)
-
-#### 19 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * 💵John Traynor - [Washington State Labor Council](/org/washington_state_labor_council/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Chris Green - Department of Commerce
 
 ### Fri 03/17 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): 2SSB 5269 Manufacturing
 #### 96 👍 - Pro

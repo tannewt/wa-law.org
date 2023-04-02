@@ -17,18 +17,18 @@
 
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): 2SSB 5555 Certified peer specialists
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154824&caId=22628&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154824&caId=22628&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154824&caId=22628&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154824&caId=22628&tId=4)
+#### 9 👍 - Pro
+Testifying:
+* Josh Wallace - Peer Washington
+* Melody McKee - UW Behavioral Health Institute
+* Nancy Dow
 
-#### 4 👍 - Pro
-
-#### 11 👎 - Con
+#### 20 👎 - Con
 Testifying:
 * Gabriel Hamilton - I am a certified youth peer councilor and and have become a peer specialist.
 * Naomi Herrera
+* Beverly Miller - Miller Consultation and Training
+* Brad Berry - Consumer Voices are Born
 * Lorrin Gehring - The Rainbow Makers
 
 #### 0 ❓ - Other

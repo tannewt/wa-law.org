@@ -13,20 +13,14 @@
 
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): SSB 5499 Multistate nurse licensure
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154821&caId=22625&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154821&caId=22625&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154821&caId=22625&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154821&caId=22625&tId=4)
-
-#### 14 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Tom Davis - Veterans Legislative Coalition (VLC)
 * 💵Ashlen Strong - Washington State Hospital Association
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Wed 03/22 01:30 PM - Postsecondary Education & Workforce (PEW): SSB 5499 Multistate nurse licensure
 #### 50 👍 - Pro

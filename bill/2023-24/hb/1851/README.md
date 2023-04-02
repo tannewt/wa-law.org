@@ -8,18 +8,12 @@
 
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): HB 1851 First approach skills prog.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154757&caId=22582&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154757&caId=22582&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154757&caId=22582&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154757&caId=22582&tId=4)
-
-#### 10 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * MSW, LICSW, Kathryn Boelk - HopeSparks and WCAAP
 * MSW, LICSW, Violet Rush - HopeSparks and WCAAP
 * MD, FAAP, Robert Hilt - Washington Chapter of the AAP
 
-#### 5 👎 - Con
+#### 8 👎 - Con
 
 #### 0 ❓ - Other

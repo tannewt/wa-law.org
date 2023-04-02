@@ -146,7 +146,7 @@
 * 👎💵 Bill Stauffacher
 * 👎💵 Bill Stauffacher
 
-## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍3  
+## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍4  
 * 👍💵 Bill Stauffacher
 * 👍💵 Josie Cummings
 * 👍💵 Brent Ludeman

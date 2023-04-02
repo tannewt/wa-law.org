@@ -13,20 +13,15 @@
 
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): 2SSB 5225 Working conn. child care
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154752&caId=22577&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154752&caId=22577&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154752&caId=22577&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31139&aId=154752&caId=22577&tId=4)
-
-#### 245 👍 - Pro
+#### 257 👍 - Pro
 Testifying:
+* Bertha Corona - Communities for Our Colleges
 * Bertha corona - communities for our colleges
 * 💵William Daley - Communities for Our Colleges
 * 💵Eli Goss - OneAmerica
 * 💵Maggie Humphreys - MomsRising & MamásConPoder
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -10,7 +10,7 @@
 
 ## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
 
-## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  
+## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  ❓1
 * 👍 Dan Templeman
 
 ## [SB 5672](/bill/2023-24/sb/5672/) - Auto theft authority account 👍1  

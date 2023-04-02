@@ -112,7 +112,7 @@
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
 
-## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍3  
+## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍4  
 * 👍 Mayor Victoria Woodards
 
 ## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍3  
