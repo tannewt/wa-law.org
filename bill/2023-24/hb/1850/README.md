@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 03/29 04:00 PM - Appropriations (APP): HB 1850 Hospital safety net program

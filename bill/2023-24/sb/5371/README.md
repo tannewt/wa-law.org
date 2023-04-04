@@ -13,17 +13,13 @@
 
 ## Meetings
 ### Mon 04/03 09:00 AM - Appropriations (APP): ESSB 5371 Orca vessel protection
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31232&aId=155217&caId=22633&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31232&aId=155217&caId=22633&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31232&aId=155217&caId=22633&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31232&aId=155217&caId=22633&tId=4)
+#### 107 👍 - Pro
 
-#### 61 👍 - Pro
+#### 1 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Bob Wise - President, Recreational Boating Assoc. of Washington
 
 ### Wed 03/15 08:00 AM - Agriculture and Natural Resources (AGNR): ESSB 5371 Orca vessel protection
 #### 485 👍 - Pro
