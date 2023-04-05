@@ -21,6 +21,7 @@
 * [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=SB 5311)
 * [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! January 19, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-january-19-2023/#:~:text=SB 5311)
 * [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SSB 5311)
+* [Washington St Pta](/org/washington_st_pta/) - [House Releases 2023-2025 Budgets, Negotiations to Start This Week - WSPTA](https://www.wastatepta.org/house-releases-2023-2025-budgets-negotiations-to-start-this-week/#:~:text=E2SSB 5311)
 * [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=E2SSB 5311)
 * [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=E2SSB 5311)
 * [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB 5311)

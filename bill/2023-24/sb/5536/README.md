@@ -15,6 +15,10 @@
 * [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers start remake of drug possession laws | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-lawmakers-start-remake-of-drug-possession-laws/#:~:text=Senate Bill 5536)
 * [Crosscut](/org/crosscut/) - [Push to decriminalize fades as WA Senate considers new drug law | Crosscut](https://crosscut.com/politics/2023/02/push-decriminalize-fades-wa-senate-considers-new-drug-law#:~:text=Senate Bill 5536)
 * [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=Senate Bill 5536)
+* [KUOW](/org/kuow/) - [KUOW - ‘Therapeutic’ courts could see influx under Washington's next drug law](https://www.kuow.org/stories/therapeutic-courts-could-see-influx-under-next-washington-drug-law#:~:text=(SB 5536))
+* [KUOW](/org/kuow/) - [KUOW - WA lawmakers move treatment over jail time to the House](https://www.kuow.org/stories/wa-lawmakers-move-treatment-over-jail-time-to-the-house#:~:text=Senate Bill 5536)
+* [KUOW](/org/kuow/) - [KUOW - WA lawmakers pass housing, firearm bills ahead of cutoff, leave rent control, recycling bills behind](https://www.kuow.org/stories/wa-lawmakers-pass-housing-firearm-bills-ahead-of-cutoff-leave-rent-control-recycling-bills-behind#:~:text=Senate Bill 5536)
+* [KUOW](/org/kuow/) - [KUOW - Washington's next drug law could let accused choose treatment, services over jail time](https://www.kuow.org/stories/washington-s-next-drug-law-could-let-accused-choose-treatment-services#:~:text=Senate Bill 5536)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Washington Senate passes bill making drug possession a gross misdemeanor | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/06/washington-senate-passes-bill-making-drug-possessi/#:~:text=Senate Bill 5536)
 * [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=E2SB 5536)
 

@@ -9,12 +9,15 @@
 * [Engrossed Substitute](S.E/)
 
 ## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Idaho abortion ‘trafficking’ bill opens Pandora’s box of questions for WA | The Seattle Times](https://www.seattletimes.com/seattle-news/idaho-abortion-trafficking-bill-opens-pandoras-box-of-questions-for-wa/#:~:text=House Bill 1469)
 * [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=HB 1469)
 * [The Seattle Times](/org/the_seattle_times/) - [WA preparing for conflict with anti-abortion states | The Seattle Times](https://www.seattletimes.com/seattle-news/wa-preparing-for-conflict-with-anti-abortion-states/#:~:text=House Bill 1469)
 * [The Urbanist](/org/the_urbanist/) - [What Groups Around Washington Are Asking from Olympia | The Urbanist](https://www.theurbanist.org/2023/02/22/waleg-week-7-priorities/#:~:text=HB 1469)
 * [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Our legislative priorities for 2023 | ACLU of Washington](http://www.aclu-wa.org/pages/2023-legislative-agenda#:~:text=HB 1469)
 * [Crosscut](/org/crosscut/) - [Students lobby for WA bills on abortion and gender-affirming care | Crosscut](https://crosscut.com/politics/2023/02/students-lobby-wa-bills-abortion-and-gender-affirming-care#:~:text=House Bill 1469)
 * [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=House Bill 1469)
+* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Healthcare](https://crosscut.com/voter-guide/2023-legislative-tracker/election/healthcare#:~:text=House Bill 1469)
+* [KUOW](/org/kuow/) - [KUOW - Two bills to protect abortion rights move  forward in Olympia](https://www.kuow.org/stories/two-bills-to-protect-abortion-rights-move-forward-in-olympia#:~:text=HB 1469)
 * [Hacks and Wonks](/org/hacks_and_wonks/) - [Megan Burbank and the State of Reproductive Healthcare in Washington — Hacks & Wonks](https://www.officialhacksandwonks.com/blog/megan-burbank-reproductive-healthcare#:~:text=HB 1469)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Washington lawmakers are trying to protect out-of-state abortion patients. Here's what you need to know: | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/05/washington-lawmakers-are-trying-to-protect-out-of-/#:~:text=House Bill 1469)
 

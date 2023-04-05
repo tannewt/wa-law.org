@@ -13,6 +13,7 @@
 * [The Urbanist](/org/the_urbanist/) - [The Legislative Budget Season Begins in Olympia | The Urbanist](https://www.theurbanist.org/2023/03/22/the-legislative-budget-season-begins-in-olympia/#:~:text=SB 5187)
 * [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=SB 5187)
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 12 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate03302023#:~:text=S.B. 5187)
+* [Washington St Pta](/org/washington_st_pta/) - [House Releases 2023-2025 Budgets, Negotiations to Start This Week - WSPTA](https://www.wastatepta.org/house-releases-2023-2025-budgets-negotiations-to-start-this-week/#:~:text=ESSB 5187)
 * [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=SB 5187)
 
 ## Meetings

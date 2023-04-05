@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): SB 5764 Hospital safety net program

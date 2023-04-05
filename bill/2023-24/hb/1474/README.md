@@ -13,6 +13,7 @@
 * [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB 1474)
 * [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2023 Economic Justice Priorities — Quaker Voice](https://www.quakervoicewa.org/additional-2020-economic-justice-priorities/#:~:text=HB 1474/SB 5496)
 * [MyNorthwest](/org/mynorthwest/) - [Ross: The latest attempt to undo a national embarrassment - MyNorthwest.com](https://mynorthwest.com/3850821/ross-the-latest-attempt-to-undo-a-national-embarrassment/#:~:text=HB 1474)
+* [KUOW](/org/kuow/) - [KUOW - Racist covenants excluded many from homeownership. WA lawmakers seek to remedy 'decades of direct harms'](https://www.kuow.org/stories/wa-lawmakers-seek-to-remedy-racist-housing-covenants-harm#:~:text=House Bill 1474)
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): 2SHB 1474 Covenant homeownership prg.

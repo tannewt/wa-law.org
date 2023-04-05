@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [South Seattle Emerald](/org/south_seattle_emerald/) - [OPINION | Early Childhood Special Education: Barriers and Solutions for Equitable Access | South Seattle Emerald](https://southseattleemerald.com/2023/04/04/opinion-early-childhood-special-education-barriers-and-solutions-for-equitable-access/#:~:text=House Bill 1676)
+
 ## Meetings
 ### Wed 02/08 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1676 Special ed. early support
 #### 632 👍 - Pro

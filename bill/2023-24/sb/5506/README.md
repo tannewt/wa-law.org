@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## Articles
+* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Healthcare](https://crosscut.com/voter-guide/2023-legislative-tracker/election/healthcare#:~:text=Senate Bill 5506)
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Housing & Homelessness](https://crosscut.com/voter-guide/2023-legislative-tracker/election/housing-homelessness#:~:text=Senate Bill 5506)
 
 ## Meetings

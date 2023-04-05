@@ -10,6 +10,7 @@
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [What the right has wrong about caring for trans youth  | The Seattle Times](https://www.seattletimes.com/opinion/what-the-right-has-wrong-about-caring-for-trans-youth/#:~:text=Senate Bill 5599)
+* [KUOW](/org/kuow/) - [KUOW - WA lawmakers pass housing, firearm bills ahead of cutoff, leave rent control, recycling bills behind](https://www.kuow.org/stories/wa-lawmakers-pass-housing-firearm-bills-ahead-of-cutoff-leave-rent-control-recycling-bills-behind#:~:text=Senate Bill 5599)
 
 ## Meetings
 ### Wed 03/22 01:30 PM - Human Services, Youth, & Early Learning (HSEL): ESSB 5599 Protected health care/youth

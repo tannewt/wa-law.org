@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Articles
 * [Crosscut](/org/crosscut/) - [A WA bill would lower the legal driving limit to .05% BAC | Crosscut](https://crosscut.com/politics/2023/02/wa-bill-would-lower-legal-driving-limit-05-bac#:~:text=Senate Bill 5272)

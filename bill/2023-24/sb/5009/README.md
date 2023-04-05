@@ -8,5 +8,6 @@
 
 ## Articles
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Education](https://crosscut.com/voter-guide/2023-legislative-tracker/election/education#:~:text=Senate Bill 5009)
+* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Healthcare](https://crosscut.com/voter-guide/2023-legislative-tracker/election/healthcare#:~:text=Senate Bill 5009)
 
 ## Meetings
