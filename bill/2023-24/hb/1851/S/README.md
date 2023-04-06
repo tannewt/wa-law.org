@@ -1,0 +1,130 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1851](/bill/2023-24/hb/1851/) > [Substitute Bill](/bill/2023-24/hb/1851/S/)
+
+# HB 1851 - First approach skills prog.
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1851-S.pdf)
+
+## Section 1
+1. The authority shall provide flexibility to encourage licensed or certified community behavioral health agencies to subcontract with an adequate, culturally competent, and qualified children's mental health provider network.
+
+2. To the extent that funds are specifically appropriated for this purpose or that nonstate funds are available, a children's mental health evidence-based practice institute shall be established at the University of Washington department of psychiatry and behavioral sciences. The institute shall closely collaborate with entities currently engaged in evaluating and promoting the use of evidence-based, research‑based, promising, or consensus‑based practices in children's mental health treatment, including but not limited to the University of Washington department of psychiatry and behavioral sciences, Seattle children's hospital, the University of Washington school of nursing, the University of Washington school of social work, and the Washington state institute for public policy. To ensure that funds appropriated are used to the greatest extent possible for their intended purpose, the University of Washington's indirect costs of administration shall not exceed ten percent of appropriated funding. The institute shall:
+
+    a. Improve the implementation of evidence-based and research‑based practices by providing sustained and effective training and consultation to licensed children's mental health providers and child‑serving agencies who are implementing evidence‑based or researched-based practices for treatment of children's emotional or behavioral disorders, or who are interested in adapting these practices to better serve ethnically or culturally diverse children. Efforts under this subsection should include a focus on appropriate oversight of implementation of evidence‑based practices to ensure fidelity to these practices and thereby achieve positive outcomes;
+
+    b. Continue the successful implementation of the "partnerships for success" model by consulting with communities so they may select, implement, and continually evaluate the success of evidence-based practices that are relevant to the needs of children, youth, and families in their community;
+
+    c. Partner with youth, family members, family advocacy, and culturally competent provider organizations to develop a series of information sessions, literature, and online resources for families to become informed and engaged in evidence-based and research‑based practices;
+
+    d. Participate in the identification of outcome-based performance measures under RCW 71.36.025(2) and partner in a statewide effort to implement statewide outcomes monitoring and quality improvement processes; and
+
+    e. Serve as a statewide resource to the authority and other entities on child and adolescent evidence-based, research-based, promising, or consensus‑based practices for children's mental health treatment, maintaining a working knowledge through ongoing review of academic and professional literature, and knowledge of other evidence-based practice implementation efforts in Washington and other states.
+
+3. [Empty]
+
+    a. To the extent that funds are specifically appropriated for this purpose, the authority in collaboration with the University of Washington department of psychiatry and behavioral sciences and Seattle children's hospital shall implement the following access lines:
+
+        i. The partnership access line to support primary care providers in the assessment and provision of appropriate diagnosis and treatment of children with mental and behavioral health disorders and track outcomes of this program;
+
+        ii. The partnership access line for moms to support obstetricians, pediatricians, primary care providers, mental health professionals, and other health care professionals providing care to pregnant women and new mothers through same-day telephone consultations in the assessment and provision of appropriate diagnosis and treatment of depression in pregnant women and new mothers;
+
+        iii. The mental health referral service for children and teens to facilitate referrals to children's mental health services and other resources for parents and guardians with concerns related to the mental health of the parent or guardian's child. Facilitation activities include assessing the level of services needed by the child; within an average of seven days from call intake processing with a parent or guardian, identifying mental health professionals who are in-network with the child's health care coverage who are accepting new patients and taking appointments; coordinating contact between the parent or guardian and the mental health professional; and providing postreferral reviews to determine if the child has outstanding needs. In conducting its referral activities, the program shall collaborate with existing databases and resources to identify in-network mental health professionals; and
+
+        iv. The first approach skills training program to provide brief, evidence-based behavioral therapy for youth and families with common mental health concerns.
+
+    b. The program activities described in (a) of this subsection shall be designed to promote more accurate diagnoses and treatment through timely case consultation between primary care providers and child psychiatric specialists, and focused educational learning collaboratives with primary care providers.
+
+4. The authority, in collaboration with the University of Washington department of psychiatry and behavioral sciences and Seattle children's hospital, shall report on the following:
+
+    a. The number of individuals who have accessed the resources described in subsection (3) of this section;
+
+    b. The number of providers, by type, who have accessed the resources described in subsection (3) of this section;
+
+    c. Demographic information, as available, for the individuals described in (a) of this subsection. Demographic information may not include any personally identifiable information and must be limited to the individual's age, gender, and city and county of residence;
+
+    d. A description of resources provided;
+
+    e. Average time frames from receipt of call to referral for services or resources provided; and
+
+    f. Systemic barriers to services, as determined and defined by the health care authority, the University of Washington department of psychiatry and behavioral sciences, and Seattle children's hospital.
+
+5. Beginning December 30, 2019, and annually thereafter, the authority must submit, in compliance with RCW 43.01.036, a report to the governor and appropriate committees of the legislature with findings and recommendations for improving services and service delivery from subsection (4) of this section.
+
+6. The authority shall enforce requirements in managed care contracts to ensure care coordination and network adequacy issues are addressed in order to remove barriers to access to mental health services identified in the report described in subsection (4) of this section.
+
+## Section 2
+1. The University of Washington department of psychiatry and behavioral  sciences shall collect the following information for the partnership access line described in RCW 71.24.061(3)(a)(i), partnership access line for moms described in RCW 71.24.061(3)(a)(ii), and the psychiatric consultation line described in RCW 71.24.062, in coordination with any hospital that it collaborates with to administer the programs:
+
+    a. The number of individuals served;
+
+    b. Demographic information regarding the individuals served, as available, including the individual's age, gender, and city and county of residence. Demographic information may not include any personally identifiable information;
+
+    c. Demographic information regarding the providers placing the calls, including type of practice, and city and county of practice;
+
+    d. Insurance information, including health plan and carrier, as available;
+
+    e. A description of the resources provided; and
+
+    f. Provider satisfaction.
+
+2. The University of Washington department of psychiatry and behavioral  sciences shall collect the following information for the program called the mental health referral service for children and teens described in RCW 71.24.061(3)(a)(iii), in coordination with any hospital that it collaborates with to administer the program:
+
+    a. The number of individuals served;
+
+    b. Demographic information regarding the individuals served, as available, including the individual's age, gender, and city and county of residence. Demographic information may not include any personally identifiable information;
+
+    c. Demographic information regarding the parents or guardians placing the calls, including family location;
+
+    d. Insurance information, including health plan and carrier, as available;
+
+    e. A description of the resources provided;
+
+    f. Average time frames from receipt of the call to referral for services or resources provided;
+
+    g. The most frequently requested issues that parents and guardians are asking for assistance with;
+
+    h. The most frequently requested issues that families are asking for referral assistance with;
+
+        i. The number of individuals that receive an appointment based on referral assistance; and
+
+    j. Parent or guardian satisfaction.
+
+3. The University of Washington department of psychiatry and behavioral sciences shall collect the following information for the first approach skills training program (FAST) described in RCW 71.24.061(3)(a)(iv), in coordination with any hospital that it collaborates with to administer the program:
+
+    a. The number of providers trained;
+
+    b. The number of clinics supported;
+
+    c. The number of ongoing consultation training sessions delivered;
+
+    d. The utilization rates of the FAST website video and materials; and
+
+    e. Updates on all new materials created, such as new translations, for the program.
+
+## Section 3
+1. Beginning July 1, 2021, the partnership access lines described in RCW 71.24.061(3)(a),  the psychiatric consultation line described in RCW 71.24.062, and the first approach skills training program described in RCW 71.24.061(3)(a)(iv) shall be funded as follows:
+
+    a. The authority, in consultation with the University of Washington department of psychiatry and behavioral sciences and Seattle children's hospital shall determine the annual costs of operating each program, as well as the authority's costs for administering the programs.
+
+    b. For each program, the authority shall calculate the proportion of clients that are covered by programs administered pursuant to chapter 74.09 RCW. The state must cover the cost for programs administered pursuant to chapter 74.09 RCW through state and federal funds, as appropriated.
+
+    c. [Empty]
+
+        i. The authority shall collect a proportional share of program costs from each of the following entities that are not for covered lives under contract with the authority as medicaid managed care organizations:
+
+(A) Health carriers, as defined in RCW 48.43.005;
+
+(B) Self-funded multiple employer welfare arrangements, as defined in RCW 48.125.010;
+
+(C) Employers or other entities that provide health care in this state, including self-funding entities or employee welfare benefit plans.
+
+        ii. For entities listed in (c)(i) of this subsection, a proportional share of the entity's annual program costs for each program must be calculated by determining the annual cost of operating the program not covered under (b) of this subsection and multiplying it by a fraction that in which the numerator is the entity's total number of resident insured persons among the population served by the program and the denominator is the total number of residents in the state who are served by the program and not covered by programs administered pursuant to chapter 74.09 RCW. The total number of resident insured persons among the population served by the program shall be determined according to the covered lives per calendar year determined by covered person months.
+
+        iii. The entities listed in (c)(i) of this subsection shall provide information needed to calculate the proportional share of program costs under this section to the authority.
+
+    d. The authority's administrative costs for these programs may not be included in the assessments.
+
+2. The authority may contract with a third-party administrator to calculate and administer the assessments of the entities identified in subsection (1)(c)(i) of this section.
+
+3. The authority shall develop separate performance measures for the partnership access lines described in RCW 71.24.061(3)(a), and the psychiatric consultation line described in RCW 71.24.062.
+
+4. The University of Washington department of psychiatry and behavioral sciences, in coordination with any hospital that it collaborates with to administer the programs, shall provide quarterly reports to the authority on the demographic data collected by each program, as described in RCW 71.24.063 (1) and (2), any performance measures specified by the authority, and systemic barriers to services, as determined and defined by the authority, the University of Washington, and Seattle children's hospital.
