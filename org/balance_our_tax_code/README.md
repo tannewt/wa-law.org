@@ -17,3 +17,5 @@
 ## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍1  
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
+
+## [SB 5766](/bill/2023-24/sb/5766/) - Emissions exemptions  👎1 

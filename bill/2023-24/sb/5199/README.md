@@ -24,7 +24,9 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Tim Eyman - Concerned citizen
 
 #### 0 ❓ - Other
 

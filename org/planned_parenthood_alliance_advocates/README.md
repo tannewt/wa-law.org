@@ -95,3 +95,5 @@
 ## [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth 👍3  
 
 ## [SB 5629](/bill/2023-24/sb/5629/) - Hepatitis B and C 👍2  
+
+## [SB 5768](/bill/2023-24/sb/5768/) - DOC/abortion medications 👍1  
