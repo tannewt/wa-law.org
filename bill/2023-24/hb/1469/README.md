@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## Articles
+* [South Seattle Emerald](/org/south_seattle_emerald/) - [After a Key Legislative Cutoff, Bills Protecting Washington Abortion Providers and Patients Are Still in Play | South Seattle Emerald](https://southseattleemerald.com/2023/04/06/after-a-key-legislative-cutoff-bills-protecting-washington-abortion-providers-and-patients-are-still-in-play/#:~:text=HB 1469)
 * [The Seattle Times](/org/the_seattle_times/) - [Idaho abortion ‘trafficking’ bill opens Pandora’s box of questions for WA | The Seattle Times](https://www.seattletimes.com/seattle-news/idaho-abortion-trafficking-bill-opens-pandoras-box-of-questions-for-wa/#:~:text=House Bill 1469)
 * [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=HB 1469)
 * [The Seattle Times](/org/the_seattle_times/) - [WA preparing for conflict with anti-abortion states | The Seattle Times](https://www.seattletimes.com/seattle-news/wa-preparing-for-conflict-with-anti-abortion-states/#:~:text=House Bill 1469)

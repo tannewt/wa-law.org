@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## Articles
+* [South Seattle Emerald](/org/south_seattle_emerald/) - [After a Key Legislative Cutoff, Bills Protecting Washington Abortion Providers and Patients Are Still in Play | South Seattle Emerald](https://southseattleemerald.com/2023/04/06/after-a-key-legislative-cutoff-bills-protecting-washington-abortion-providers-and-patients-are-still-in-play/#:~:text=HB 1340)
 * [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=HB 1340)
 * [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Our legislative priorities for 2023 | ACLU of Washington](http://www.aclu-wa.org/pages/2023-legislative-agenda#:~:text=HB 1340)
 * [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=House Bill 1340)

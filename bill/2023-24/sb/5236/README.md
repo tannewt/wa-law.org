@@ -13,6 +13,7 @@
 * [MyNorthwest](/org/mynorthwest/) - [Rantz: Union-backed bill gets friendly, misleading media support - MyNorthwest.com](https://mynorthwest.com/3825726/rantz-union-bill-misleading-media-support/#:~:text=SB 5236)
 * [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/research/2023-legislative-agenda/#:~:text=SB 5236)
 * [The Seattle Times](/org/the_seattle_times/) - [Legislature must address WA nursing crisis | The Seattle Times](https://www.seattletimes.com/opinion/editorials/legislature-must-address-wa-nursing-crisis/#:~:text=Senate Bill 5236)
+* [MyNorthwest](/org/mynorthwest/) - [Virginia Mason Franciscan Health lays off 400 workers - MyNorthwest.com](https://mynorthwest.com/3871365/virginia-mason-franciscan-health-lays-off-400-workers-nurses-struggle-demand-healthcare-workers/#:~:text=Senate Bill 5236)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [State Senate passes safe staffing standard, in compromise between hospitals, unions | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/08/state-senate-passes-safe-staffing-standard-in-comp/#:~:text=Senate Bill 5236)
 
 ## Meetings

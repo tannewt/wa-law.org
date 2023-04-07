@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [WA stockpiles abortion pills ahead of federal court ruling | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-stockpiles-abortion-pills-ahead-of-federal-court-ruling/#:~:text=Senate Bill 5768)
+* [Crosscut](/org/crosscut/) - [Gov. Inslee buys 3-year supply of abortion pills in case of ban | Crosscut](https://crosscut.com/politics/2023/04/gov-inslee-buys-3-year-supply-abortion-pills-case-ban#:~:text=Senate Bill 5768)
+
 ## Meetings
 ### Mon 04/10 12:30 PM - Ways & Means (WM): SB 5768 DOC/abortion medications
 Sign up to testify:

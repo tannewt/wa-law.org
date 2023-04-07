@@ -9,6 +9,9 @@
 * [Engrossed Substitute](S.E/)
 
 ## Articles
+* [The Urbanist](/org/the_urbanist/) - [State Lawmakers Must Pass Middle Housing Bill and Strip Poison Pill from TOD Bill | The Urbanist](https://www.theurbanist.org/2023/04/06/state-lawmakers-must-pass-middle-housing-bill-and-strip-poison-pill-from-tod-bill/#:~:text=Senate Bill 5466)
+* [PubliCola](/org/publicola/) - [House Democrats Cede Ground on Density, Scaling Back Transit-Oriented Development Bill - PubliCola](https://publicola.com/2023/04/05/house-democrats-cede-ground-on-density-scaling-back-transit-oriented-development-bill/#:~:text=SB 5466)
+* [The Urbanist](/org/the_urbanist/) - [Legislature Advances Narrower TOD and Missing Middle Bills | The Urbanist](https://www.theurbanist.org/2023/04/05/legislature-advances-narrower-tod-and-missing-middle-bills/#:~:text=SB 5466)
 * [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers may pass bill to boost dense development near transit | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-lawmakers-may-pass-bill-to-boost-dense-development-near-transit/#:~:text=Senate Bill 5466)
 * [The Urbanist](/org/the_urbanist/) - [Striker Amendments Stalk Housing Bills in the Washington Legislature | The Urbanist](https://www.theurbanist.org/2023/03/29/striker-amendments-stalk-housing-bills-in-the-washington-legislature/#:~:text=SB 5466)
 * [The Urbanist](/org/the_urbanist/) - [The Legislative Budget Season Begins in Olympia | The Urbanist](https://www.theurbanist.org/2023/03/22/the-legislative-budget-season-begins-in-olympia/#:~:text=SB 5466)

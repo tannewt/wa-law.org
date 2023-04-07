@@ -9,6 +9,9 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 
+## Articles
+* [MyNorthwest](/org/mynorthwest/) - [Virginia Mason Franciscan Health lays off 400 workers - MyNorthwest.com](https://mynorthwest.com/3871365/virginia-mason-franciscan-health-lays-off-400-workers-nurses-struggle-demand-healthcare-workers/#:~:text=Senate Bill 5582)
+
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): E2SSB 5582 Nurse supply
 #### 14 👍 - Pro

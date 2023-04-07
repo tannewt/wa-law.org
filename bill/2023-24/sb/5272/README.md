@@ -11,7 +11,9 @@
 * [Session Law](S.SL/)
 
 ## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Speed cameras will soon be allowed in WA highway work zones | The Seattle Times](https://www.seattletimes.com/seattle-news/transportation/speed-cameras-will-soon-be-allowed-in-wa-highway-work-zones/#:~:text=Senate Bill 5272)
 * [Crosscut](/org/crosscut/) - [A WA bill would lower the legal driving limit to .05% BAC | Crosscut](https://crosscut.com/politics/2023/02/wa-bill-would-lower-legal-driving-limit-05-bac#:~:text=Senate Bill 5272)
+* [KING5](/org/king5/) - [Speed cameras coming soon to Washington state highways | king5.com](https://www.king5.com/article/news/local/speed-cameras-washington-state-highways/281-968fb1ea-1940-4595-8d34-cc2986ecd626#:~:text=Senate Bill 5272)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Washington may add automated cameras on highways to catch speeders in construction zones | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/01/washington-may-add-automated-cameras-on-highways-t/#:~:text=Senate Bill 5272)
 
 ## Meetings

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## Articles
+* [The Urbanist](/org/the_urbanist/) - [Legislature Advances Narrower TOD and Missing Middle Bills | The Urbanist](https://www.theurbanist.org/2023/04/05/legislature-advances-narrower-tod-and-missing-middle-bills/#:~:text=HB 1337)
 * [The Urbanist](/org/the_urbanist/) - [Striker Amendments Stalk Housing Bills in the Washington Legislature | The Urbanist](https://www.theurbanist.org/2023/03/29/striker-amendments-stalk-housing-bills-in-the-washington-legislature/#:~:text=HB 1337)
 * [The Urbanist](/org/the_urbanist/) - [The Legislative Budget Season Begins in Olympia | The Urbanist](https://www.theurbanist.org/2023/03/22/the-legislative-budget-season-begins-in-olympia/#:~:text=HB 1337)
 * [The Urbanist](/org/the_urbanist/) - [The Olympia Waltz Continues for Middle Housing and Other Vital Legislation | The Urbanist](https://www.theurbanist.org/2023/03/09/waleg-week-9-striker-hb1110/#:~:text=HB 1337)
