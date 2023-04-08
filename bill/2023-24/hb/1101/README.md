@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Articles
 * [The Urbanist](/org/the_urbanist/) - [Pollet, Pedersen, and Blethen Assail State Housing Push | The Urbanist](https://www.theurbanist.org/2023/02/01/waleg-wednesday-week-4/#:~:text=HB 1101)

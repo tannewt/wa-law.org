@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [Fund food insecurity response in WA  — and demand national fix | The Seattle Times](https://www.seattletimes.com/opinion/editorials/fund-food-insecurity-response-in-wa-and-demand-national-fix/#:~:text=House Bill 1784)
