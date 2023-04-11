@@ -10,6 +10,7 @@
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [New WA law would shut the door on puppy-mill suffering | The Seattle Times](https://www.seattletimes.com/opinion/editorials/new-wa-law-would-shut-the-door-on-puppy-mill-suffering/#:~:text=House Bill 1424)
+* [The Spokesman-Review](/org/the_spokesman-review/) - [Washington trying to ban out-of-state puppy mills from selling in state | The Spokesman-Review](https://www.spokesman.com/stories/2023/apr/07/washington-bill-to-eliminate-out-of-state-puppy-mi/#:~:text=House Bill 1424)
 
 ## Meetings
 ### Tue 03/21 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): ESHB 1424 Dogs and cats/consumers

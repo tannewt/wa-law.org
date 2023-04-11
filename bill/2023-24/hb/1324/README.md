@@ -9,6 +9,7 @@
 ## Articles
 * [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | Southeast Seattle Schools Launch Fundraiser; Local Authors Featured in Short Story Dispenser | South Seattle Emerald](https://southseattleemerald.com/2023/03/08/news-gleams-southeast-seattle-schools-launch-fundraiser-local-authors-featured-in-short-story-dispenser/#:~:text=HB-1324)
 * [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Our legislative priorities for 2023 | ACLU of Washington](http://www.aclu-wa.org/pages/2023-legislative-agenda#:~:text=HB 1324)
+* [KUOW](/org/kuow/) - [KUOW - Washington lawmakers debate who benefits from juvenile sentencing reforms](https://www.kuow.org/stories/lawmakers-debate-who-gets-to-benefit-from-juvenile-sentencing-reforms#:~:text=HB 1324)
 
 ## Meetings
 ### Mon 03/27 10:30 AM - Law & Justice (LAW): EHB 1324 Prior juvenile offenses

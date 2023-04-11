@@ -14,6 +14,7 @@
 * [Crosscut](/org/crosscut/) - [WA may launch a cold-case unit for missing, murdered Indigenous people | Crosscut](https://crosscut.com/news/2023/01/wa-may-launch-cold-case-unit-missing-murdered-indigenous-people#:~:text=House Bill 1177)
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Policing, Crime & Courts](https://crosscut.com/voter-guide/2023-legislative-tracker/election/policing-crime-courts#:~:text=House Bill 1177)
 * [Real Change](/org/real_change/) - [Washington state taking action to address MMIWP crisis | Jan. 18-24, 2023 | Real Change](https://www.realchangenews.org/news/2023/01/18/washington-state-taking-action-address-mmiwp-crisis#:~:text=HB 1177)
+* [The Spokesman-Review](/org/the_spokesman-review/) - [Special cold case unit for missing or murdered Indigenous people proposed in Washington Legislature | The Spokesman-Review](https://www.spokesman.com/stories/2023/apr/07/special-cold-case-unit-for-missing-or-murdered-ind/#:~:text=House Bill 1177)
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): SHB 1177 Indigenous women

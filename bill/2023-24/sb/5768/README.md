@@ -12,14 +12,13 @@
 
 ## Meetings
 ### Mon 04/10 12:30 PM - Ways & Means (WM): SB 5768 DOC/abortion medications
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31272&aId=155241&caId=22638&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31272&aId=155241&caId=22638&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31272&aId=155241&caId=22638&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31272&aId=155241&caId=22638&tId=4)
+#### 384 👍 - Pro
 
-#### 262 👍 - Pro
-
-#### 890 👎 - Con
+#### 1450 👎 - Con
+Testifying:
+* Rebecca Anderson - Rebecca Anderson
+* Laurie Layne
+* Patti Whitmarsh
+* Judie Williams
 
 #### 1 ❓ - Other

@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Bill to eliminate time limits for child sex-abuse lawsuits stalls in WA Senate | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/bill-to-eliminate-time-limits-for-child-sex-abuse-lawsuits-stalls-in-wa-senate/#:~:text=House Bill 1618)
 * [The Seattle Times](/org/the_seattle_times/) - [WA moves to eliminate time limits for child sex abuse lawsuits | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-moves-to-eliminate-time-limits-for-child-sex-abuse-lawsuits/#:~:text=House Bill 1618)
 
 ## Meetings
