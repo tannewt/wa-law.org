@@ -17,7 +17,9 @@ REVISION_TO_NAME = {
     "S2": "Second Substitute",
     "S2.E": "Engrossed Second Substitute",
     "S.SL": "Session Law",
-    "S.PL": "Passed Legislature"
+    "S.PL": "Passed Legislature",
+    "S2.PL": "Passed Legislature",
+    "S2.SL": "Session Law"
 }
 
 POSITION_TO_EMOJI = {

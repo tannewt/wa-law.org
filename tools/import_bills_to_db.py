@@ -337,7 +337,7 @@ for start_year in range(2023, 2025, 2):
                 print("missing description")
                 print(bill)
             if status.startswith("C "):
-                bills_by_status["passed"].append(bill_link)
+                pass
             elif " " in status and not status.startswith("Gov") and not status.startswith("Del"):
                 agency, short_committee = status.split(" ", maxsplit=1)
                 acronym = None
@@ -348,10 +348,6 @@ for start_year in range(2023, 2025, 2):
                     acronym = short_committee[:-3]
                 elif short_committee.endswith("DP"):
                     acronym = short_committee[:-2]
-            else:
-                if status not in bills_by_status:
-                    bills_by_status[status] = []
-                bills_by_status[status].append(bill_link)
 
             print(bill_id, sponsor, short_description)
             # print(bill.CurrentStatus.IntroducedDate.text, bill.CurrentStatus.ActionDate.text)
