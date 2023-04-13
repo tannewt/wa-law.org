@@ -1,6 +1,5 @@
 # 2023-24 Bills
 ## Upcoming hearings
-* [TRAN Wed 04/12 12:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31250) [HB 1853](hb/1853) - Transportation resources 3👍 0👎 0❓
 * [FIN Fri 04/14 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31236) [SB 5218](sb/5218) - Mobility enhancing equip/tax 102👍 0👎 0❓
 * [FIN Fri 04/14 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31236) [SB 5199](sb/5199) - Newspaper publishers/tax 6👍 4👎 1❓
 
@@ -2232,6 +2231,7 @@
 * [HB 1657](hb/1657) - Marriages by federal judges 1👍 0👎 0❓ - S Pres Signed
 * [HB 1824](hb/1824) - Shooting sweepstakes 2👍 0👎 1❓ - S Rules 2
 * [HB 1831](hb/1831) - Ferries/workforce shortages 0👍 1👎 0❓ - H Transportation
+* [HB 1853](hb/1853) - Transportation resources 3👍 0👎 0❓ - H 2nd Reading
 * [SB 5025](sb/5025) - DOC technology systems 26👍 1👎 0❓ - H Approps
 * [SB 5077](sb/5077) - Uniform commercial code 8👍 1360👎 2❓ - H Passed 3rd
 * [SB 5113](sb/5113) - Dental school faculty 18👍 0👎 0❓ - H Spkr Signed
