@@ -1,7 +1,5 @@
 # 2023-24 Bills
 ## Upcoming hearings
-* [FIN Fri 04/14 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31236) [SB 5218](sb/5218) - Mobility enhancing equip/tax 102👍 0👎 0❓
-* [FIN Fri 04/14 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31236) [SB 5199](sb/5199) - Newspaper publishers/tax 6👍 4👎 1❓
 
 ## Heard bills
 * [HB 1240](hb/1240) - Firearms/assault weapons 2828👍 10425👎 26❓ - S Passed 3rd
@@ -2150,6 +2148,7 @@
 * [SB 5166](sb/5166) - Cooperative finance org. B&O 12👍 0👎 0❓ - H Rules R
 * [SB 5176](sb/5176) - Employee-owned coop UI 3👍 0👎 1❓ - H Spkr Signed
 * [SB 5196](sb/5196) - OL Reign license plate 3👍 0👎 0❓ - S Transportation
+* [SB 5199](sb/5199) - Newspaper publishers/tax 6👍 4👎 1❓ - H Finance
 * [SB 5252](sb/5252) - FBI criminal history records 4👍 1👎 0❓ - H Passed 3rd
 * [SB 5279](sb/5279) - Housing equity property 8👍 4👎 0❓ - S Ways & Means
 * [SB 5306](sb/5306) - WDFW disease interdiction 4👍 1👎 1❓ - H Ag&Nr
@@ -2239,6 +2238,7 @@
 * [SB 5170](sb/5170) - Legislative organizations 0👍 1👎 0❓ - H Spkr Signed
 * [SB 5176](sb/5176) - Employee-owned coop UI 3👍 0👎 1❓ - H Spkr Signed
 * [SB 5178](sb/5178) - Highways/large debris 2👍 0👎 1❓ - H Transportation
+* [SB 5218](sb/5218) - Mobility enhancing equip/tax 102👍 0👎 0❓ - H Finance
 * [SB 5261](sb/5261) - Cemetery authority deadlines 3👍 0👎 0❓ - H 2nd Reading
 * [SB 5262](sb/5262) - Cemetery district filings 0👍 1👎 0❓ - S Loc Gov, Land
 * [SB 5283](sb/5283) - Engineer comity applicants 3👍 0👎 0❓ - H 2nd Reading
