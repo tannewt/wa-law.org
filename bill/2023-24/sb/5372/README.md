@@ -17,7 +17,7 @@ Testifying:
 * Sherri Dysart - League of Women Voters of Washington
 * Bill Dewey - Taylor Shellfish
 * Doug McClelland - Mountains to Sound Greenway
-* Heidi Eisenhour - Jefferson County
+* Heidi Eisenhour - [Jefferson County](/org/jefferson_county/)
 * 💵Justin Allegro - [The Nature Conservancy](/org/the_nature_conservancy/)
 * Michael Regan
 * Vanessa Kritzer - [Washington Association of Land Trusts](/org/washington_association_of_land_trusts/)

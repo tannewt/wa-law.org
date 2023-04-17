@@ -35,7 +35,7 @@ Testifying:
 ### Mon 03/13 01:30 PM - Regulated Substances & Gaming (RSG): E2SSB 5367 Products containing THC
 #### 31 👍 - Pro
 Testifying:
-* Lukas Hunter - Harmony Farms
+* 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
 * MD, MPH, FAAP, Cora Breuner - Washington Chapter of the American Academy of Pediatrics
 * 💵Amy Brackenbury - Public Health Roundtable
 * Adán Espino Jr - [Craft Cannabis Coalition](/org/craft_cannabis_coalition/)
@@ -72,7 +72,7 @@ Testifying:
 ### Sat 02/18 09:00 AM - Ways & Means (WM): SSB 5367 Products containing THC
 #### 13 👍 - Pro
 Testifying:
-* Lukas Hunter - Harmony Farms
+* 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
 * Megan Moore - WA State Public Health Association
 * 💵Ezra Eickmeyer - Producers NW
 * Justin Nordhorn - Washington State Liquor and Cannabis Board

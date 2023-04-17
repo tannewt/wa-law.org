@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## Meetings
 ### Mon 03/20 01:30 PM - Regulated Substances & Gaming (RSG): E2SSB 5634 Problem gambling

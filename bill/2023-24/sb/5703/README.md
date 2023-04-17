@@ -31,7 +31,7 @@ Testifying:
 * Paris rosas - communities for our colleges
 * Jacob Vigdor - University of Washington Faculty
 * Samuel Ligon - Eastern Washington University Faculty
-* Madeline Sprute - Associated Students of Tacoma Community College
+* 💵Madeline Sprute - Associated Students of Tacoma Community College
 * Nancy Cruz - Community For Our College
 * Nancy Canales-Montiel - WA Student Association
 * Naira Gonzales Aranda - Associated Students of Western Washington University

@@ -49,7 +49,7 @@ Testifying:
 * Brian Shay - City of Hoquiam, City Administrator
 * Ruth Clemens - City of Aberdeen, City Administrator
 * Marissa Rathbone - Washington State School Directors' Association (WSSDA)
-* Carissa Hahn - CWA/WashTech
+* 💵Carissa Hahn - CWA/WashTech
 * 💵Nora Selander - Western Washington University
 * 💵Mitch Denning - WA Assn of Maintenance & Operation Administrators
 * Steve DuPont - [Central Washington University](/org/central_washington_university/)

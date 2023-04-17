@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [Recess is a critical part of a child’s education | The Seattle Times](https://www.seattletimes.com/opinion/recess-is-a-critical-part-of-a-childs-education/#:~:text=Senate Bill 5257)

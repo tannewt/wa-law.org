@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## Articles
 * [MyNorthwest](/org/mynorthwest/) - [Rantz: Union-backed bill gets friendly, misleading media support - MyNorthwest.com](https://mynorthwest.com/3825726/rantz-union-bill-misleading-media-support/#:~:text=SB 5236)

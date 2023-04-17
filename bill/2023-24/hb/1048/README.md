@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Tue 03/14 01:30 PM - State Government & Elections (SGE): ESHB 1048 Voting rights act

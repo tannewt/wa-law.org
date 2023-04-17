@@ -32,7 +32,7 @@ Testifying:
 Testifying:
 * Sherri Dysart - League of Women Voters of Washington
 * Nicole Pasi - Mountains to Sound Greenway Trust
-* Heidi Eisenhour - Jefferson County
+* Heidi Eisenhour - [Jefferson County](/org/jefferson_county/)
 * Jeff Lambert
 * Maggie Coon - [Methow Valley Citizens Council](/org/methow_valley_citizens_council/)
 * Brian Considine - Washington Department of Natural Resources

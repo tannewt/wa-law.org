@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Fri 03/10 08:00 AM - Environment, Energy & Technology (ENET): ESHB 1033 Compostable product usage

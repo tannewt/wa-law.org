@@ -6,6 +6,8 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Tue 03/21 09:00 AM - Capital Budget (CB): SSB 5229 Site readiness grants

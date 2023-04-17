@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [Reach out to voters before reworking their ballots | The Seattle Times](https://www.seattletimes.com/opinion/reach-out-to-voters-before-reworking-their-ballots/#:~:text=Senate Bill 5112)

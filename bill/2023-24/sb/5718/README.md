@@ -12,7 +12,7 @@
 Testifying:
 * David Ripp - Port of Camas-Washougal
 * Scott Richards - Washington Public Utility Districts Association
-* Carissa Hahn - CWA/WashTech
+* 💵Carissa Hahn - CWA/WashTech
 * Adrian Chavarria - CWA/WashTech
 
 #### 0 👎 - Con

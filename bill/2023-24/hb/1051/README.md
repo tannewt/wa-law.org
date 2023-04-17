@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers crack down on robocalls | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-lawmakers-crack-down-on-robocalls/#:~:text=House Bill 1051)

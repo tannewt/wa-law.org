@@ -36,7 +36,7 @@ Testifying:
 * Steven Field - Patient
 * Jay Jones - Parent of Childhood Cancer Survivor (advocate, former patient)
 * Micah Sherman - Washington Sun and Craft Growers Association (WSCA)
-* Lukas Hunter - Harmony Farms
+* 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
 * Jim MacRae - Ex patient cardholder - testify by phone
 * Justin Nordhorn - Washington State Liquor and Cannabis Board
 * 💵Ezra Eickmeyer - Producers NW

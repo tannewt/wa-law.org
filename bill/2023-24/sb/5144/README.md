@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## Meetings
 ### Thu 03/30 01:30 PM - Appropriations (APP): E2SSB 5144 Batteries/environment

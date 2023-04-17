@@ -28,7 +28,7 @@ Testifying:
 #### 10 👍 - Pro
 Testifying:
 * Burl Bryson - The Cannabis Alliance
-* Lukas Hunter - Harmony Farms
+* 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
 * Adam Smith - Alliance for Sensible Markets
 * 💵Vicki Christophersen - Washington CannaBusiness Association
 

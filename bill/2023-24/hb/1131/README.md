@@ -24,7 +24,7 @@ Testifying:
 * Daniel Groce - Novelis
 * Marlene Feist - [City of Spokane](/org/city_of_spokane/)
 * Kate Bailey - The Association of Plastic Recyclers
-* 💵Ezra Eickmeyer - Terramer Inc
+* 💵Ezra Eickmeyer - [Terramer Inc](/org/terramer_inc/)
 * 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
 * Dylan de Thomas - The Recycling Partnership
 * 💵Alex Hur - [Oregon Beverage Recycling Cooperative](/org/oregon_beverage_recycling_cooperative/)

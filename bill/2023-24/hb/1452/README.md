@@ -21,7 +21,7 @@ Testifying:
 ### Tue 03/14 08:00 AM - Health & Long Term Care (HLTC): 2SHB 1452 Medical reserve corps
 #### 13 👍 - Pro
 Testifying:
-* Alex Wehinger - WA State Medical Association (WSMA)
+* 💵Alex Wehinger - WA State Medical Association (WSMA)
 * Gabrielle Hubbard - WSALPHO
 * Nicole Thom - WSALPHO
 * Nicole Thompson - WSALPHO
@@ -48,7 +48,7 @@ Testifying:
 * Gabbie Hubbard - Tacoma-Pierce County Health Department
 * 💵Jaime Bodden - WSALPHO
 * Mike Hilley - Whatcom Co Emergency Medical Services
-* Alex Wehinger - WA State Medical Association (WSMA)
+* 💵Alex Wehinger - WA State Medical Association (WSMA)
 
 #### 0 👎 - Con
 

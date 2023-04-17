@@ -1,0 +1,401 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1394](/bill/2023-24/hb/1394/) > [Passed Legislature](/bill/2023-24/hb/1394/S.PL/)
+
+# HB 1394 - Sexual offenses by youth
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Passed%20Legislature/1394-S.PL.pdf)
+
+## Section 1
+1. The legislature finds that successful rehabilitation of youth adjudicated of sex offenses is the best path to reducing recidivism.
+
+2. The legislature finds that researchers from the Johns Hopkins University and other academic institutions found that treatment for minors convicted of sexual offenses would provide increased public safety, while registration and notification policies for minors convicted of sexual offenses failed to improve community safety. The legislature finds that requiring youth to register as sex offenders is associated with mental health struggles, including depression, anxiety, and suicidal ideation, as well as the increased likelihood of becoming a target of sexual abuse by adults.
+
+3. The legislature finds that while adults can petition for relief of registration for offenses committed as minors, the legal process is overly cumbersome, expensive, and challenging to the point that many never request removal and remain on the registry their entire lives.
+
+4. The legislature declares that the response to sex offenses committed by youth should be developmentally appropriate and driven by research. The legislature therefore intends to increase community safety by reforming juvenile sex offender registration policy and related areas to redirect the focus toward practices that increase prevention and promote successful intervention strategies.
+
+## Section 2
+1. Subject to the availability of amounts appropriated for this specific purpose, the department shall develop and implement a grant program that allows defense attorneys and counties to apply for funding for sex offender evaluation and treatment programs.
+
+2. Subject to the availability of amounts appropriated for this specific purpose, the department shall provide funding to counties for process mapping, site assessment, and training for additional sex offender treatment modalities such as multisystemic therapy-problem sexual behavior or problematic sexual behavior-cognitive behavioral therapy.
+
+## Section 3
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter:
+
+1. "Advisory committee" means the sex offender treatment providers advisory committee established under RCW 18.155.100.
+
+2. "Certified sex offender treatment provider" means an individual who is a licensed psychologist, licensed marriage and family therapist, licensed social worker, licensed mental health counselor, or psychiatrist as defined in RCW 71.05.020, who is certified to examine and treat sex offenders pursuant to chapters 9.94A and 13.40 RCW and sexually violent predators under chapter 71.09 RCW.
+
+3. "Certified affiliate sex offender treatment provider" means an individual who is a licensed psychologist, licensed marriage and family therapist, licensed social worker, licensed mental health counselor, licensed mental health counselor associate, licensed independent clinical social worker associate, licensed advanced social worker associate, licensed marriage and family therapist associate, or psychiatrist as defined in RCW 71.05.020, who is certified as an affiliate to examine and treat sex offenders pursuant to chapters 9.94A and 13.40 RCW and sexually violent predators under chapter 71.09 RCW under the supervision of a qualified supervisor.
+
+4. "Department" means the department of health.
+
+5. [Empty]
+
+    a. "Qualified supervisor" means:
+
+        i. A person who meets the requirements for certification as a sex offender treatment provider;
+
+        ii. A person who meets a lifetime experience threshold of having provided at least two thousand hours of direct sex offender specific treatment and assessment services and who continues to maintain professional involvement in the field; or
+
+        iii. A person who meets a lifetime experience threshold of at least two years of full-time work in a state-run facility or state-run treatment program providing direct sex offender specific treatment and assessment services and who continues to maintain professional involvement in the field.
+
+    b. A qualified supervisor not credentialed by the department as a sex offender treatment provider must sign and submit to the department an attestation form provided by the department stating under penalty of perjury that the qualified supervisor has met the requisite education, training, or experience requirements and that the qualified supervisor is able to substantiate the qualified supervisor's claim to have met the requirements for education, training, or experience.
+
+6. "Secretary" means the secretary of health.
+
+7. "Sex offender treatment provider" or "affiliate sex offender treatment provider" means a person who counsels or treats sex offenders accused of or convicted of a sex offense as defined by RCW 9.94A.030.
+
+## Section 4
+For the purposes of RCW 9A.44.130 through 9A.44.145, 10.01.200, 43.43.540, 70.48.470, and 72.09.330, the following definitions apply:
+
+1. "Business day" means any day other than Saturday, Sunday, or a legal local, state, or federal holiday.
+
+2. "Conviction" means any adult conviction or juvenile adjudication for a sex offense or kidnapping offense.
+
+3. "Disqualifying offense" means a conviction for: Any offense that is a felony; a sex offense as defined in this section; a crime against children or persons as defined in RCW 43.43.830(7) and 9.94A.411(2)(a); an offense with a domestic violence designation as provided in RCW 10.99.020; permitting the commercial sexual abuse of a minor as defined in RCW 9.68A.103; or any violation of chapter 9A.88 RCW.
+
+4. "Employed" or "carries on a vocation" means employment that is full time or part time for a period of time exceeding fourteen days, or for an aggregate period of time exceeding thirty days during any calendar year. A person is employed or carries on a vocation whether the person's employment is financially compensated, volunteered, or for the purpose of government or educational benefit.
+
+5. "Fixed residence" means a building that a person lawfully and habitually uses as living quarters a majority of the week. Uses as living quarters means to conduct activities consistent with the common understanding of residing, such as sleeping; eating; keeping personal belongings; receiving mail; and paying utilities, rent, or mortgage. A nonpermanent structure including, but not limited to, a motor home, travel trailer, camper, or boat may qualify as a residence provided it is lawfully and habitually used as living quarters a majority of the week, primarily kept at one location with a physical address, and the location it is kept at is either owned or rented by the person or used by the person with the permission of the owner or renter. A shelter program may qualify as a residence provided it is a shelter program designed to provide temporary living accommodations for the homeless, provides an offender with a personally assigned living space, and the offender is permitted to store belongings in the living space.
+
+6. "In the community" means residing outside of confinement or incarceration for a disqualifying offense.
+
+7. "Institution of higher education" means any public or private institution dedicated to postsecondary education, including any college, university, community college, trade, or professional school.
+
+8. "Kidnapping offense" means:
+
+    a. The crimes of kidnapping in the first degree, kidnapping in the second degree, and unlawful imprisonment, as defined in chapter 9A.40 RCW, where the victim is a minor and the offender is not the minor's parent;
+
+    b. Any offense that is, under chapter 9A.28 RCW, a criminal attempt, criminal solicitation, or criminal conspiracy to commit an offense that is classified as a kidnapping offense under this subsection;
+
+    c. Any federal or out-of-state conviction for: An offense for which the person would be required to register as a kidnapping offender if residing in the state of conviction; or, if not required to register in the state of conviction, an offense that under the laws of this state would be classified as a kidnapping offense under this subsection; and
+
+    d. Any tribal conviction for an offense for which the person would be required to register as a kidnapping offender while residing in the reservation of conviction; or, if not required to register in the reservation of conviction, an offense that under the laws of this state would be classified as a kidnapping offense under this subsection.
+
+9. "Lacks a fixed residence" means the person does not have a living situation that meets the definition of a fixed residence and includes, but is not limited to, a shelter program designed to provide temporary living accommodations for the homeless, an outdoor sleeping location, or locations where the person does not have permission to stay.
+
+10. "Sex offense" means:
+
+    a. Any offense defined as a sex offense by RCW 9.94A.030;
+
+    b. Any violation under RCW 9A.44.096 (sexual misconduct with a minor in the second degree);
+
+    c. Any violation under RCW 9A.40.100(1)(b)(ii) (trafficking);
+
+    d. Any violation under RCW 9.68A.090 (communication with a minor for immoral purposes);
+
+    e. A violation under RCW 9A.88.070 (promoting prostitution in the first degree) or RCW 9A.88.080 (promoting prostitution in the second degree) if the person has a prior conviction for one of these offenses;
+
+    f. Any violation under RCW 9A.40.100(1)(a)(i)(A) (III) or (IV) or (a)(i)(B);
+
+    g. Any gross misdemeanor that is, under chapter 9A.28 RCW, a criminal attempt, criminal solicitation, or criminal conspiracy to commit an offense that is classified as a sex offense under RCW 9.94A.030 or this subsection;
+
+    h. Any out-of-state conviction for an offense for which the person would be required to register as a sex offender while residing in the state of conviction; or, if not required to register in the state of conviction, an offense that under the laws of this state would be classified as a sex offense under this subsection;
+
+    i. Any federal conviction classified as a sex offense under 42 U.S.C. Sec. 16911 (SORNA);
+
+    j. Any military conviction for a sex offense. This includes sex offenses under the uniform code of military justice, as specified by the United States secretary of defense;
+
+    k. Any conviction in a foreign country for a sex offense if it was obtained with sufficient safeguards for fundamental fairness and due process for the accused under guidelines or regulations established pursuant to 42 U.S.C. Sec. 16912;
+
+    l. Any tribal conviction for an offense for which the person would be required to register as a sex offender while residing in the reservation of conviction; or, if not required to register in the reservation of conviction, an offense that under the laws of this state would be classified as a sex offense under this subsection.
+
+11. "School" means a public or private school regulated under Title 28A RCW or chapter 72.40 RCW.
+
+12. "Student" means a person who is enrolled, on a full-time or part-time basis, in any school or institution of higher education.
+
+13. "Adult" means a person who is 18 years of age or older on the offense date or who is convicted of and sentenced for an offense in adult court pursuant to RCW 13.04.030(1)(e)(v) or 13.40.110.
+
+## Section 5
+1. [Empty]
+
+    a. Any adult  residing whether or not the person has a fixed residence, or who is a student, is employed, or carries on a vocation in this state who has been found to have committed or has been convicted of any sex offense or kidnapping offense, or who has been found not guilty by reason of insanity under chapter 10.77 RCW of committing any sex offense or kidnapping offense, shall register with the county sheriff for the county of the person's residence, or if the person is not a resident of Washington, the county of the person's school, or place of employment or vocation, or as otherwise specified in this section.
+
+    b. Any person who is not an adult residing whether or not the person has a fixed residence, or who is a student, is employed, or carries on a vocation in this state shall register with the county sheriff for the county of the person's residence, or if the person is not a resident of Washington, the county of the person's school, or place of employment or vocation, or as otherwise specified in this section if the person:
+
+        i. Committed a class A or class B sex offense when the person was age 16 or 17 and did not receive a special sex offender disposition alternative under RCW 13.40.162;
+
+        ii. Committed rape in the first degree when the person was age 14 or 15;
+
+        iii. Committed rape in the second degree when the person was age 14 or 15 and the person did not receive a special sex offender disposition alternative under RCW 13.40.162;
+
+        iv. Committed a sex offense and, on the offense date, the juvenile had a prior conviction for a sex offense as defined in RCW 9A.44.128 or had a deferred disposition for a sex offense pursuant to RCW 13.40.127;
+
+    v. Has a special sex offender disposition alternative under RCW 13.40.162 revoked for:
+
+(A) A class A or class B sex offense that was committed when the person was age 16 or 17; or
+
+(B) A rape in the second degree offense that was committed when the person was age 14 or 15;
+
+    vi. Has an out-of-state, tribal, or federal conviction for a sex offense;
+
+    vii. Committed a kidnapping offense; or
+
+    viii. Is found by the court based on clear, cogent, and convincing evidence to:
+
+(A) Be age 14 through 17 on the offense date;
+
+(B) Not have received a special sex offender disposition alternative under RCW 13.40.162 for the offense triggering possible registration or have had a special sex offender disposition alternative under RCW 13.40.162 revoked for that offense;
+
+(C) Have been adjudicated of multiple sex offenses involving two or more distinct victims in separate counts or separate causes;
+
+(D) Present a serious threat to public safety after the last date of release from confinement, including full-time residential treatment, if any, or entry of disposition; and
+
+(E) Require registration in order to lessen the serious threat to public safety.
+
+    c. When a person required to register under this section is in custody of the state department of corrections, the state department of social and health services, a local division of youth services, or a local jail or juvenile detention facility as a result of a sex offense or kidnapping offense, the person shall also register at the time of release from custody with an official designated by the agency that has jurisdiction over the person.
+
+    d. Any adult or juvenile who is required to register under (b) of this subsection must give notice to the county sheriff of the county with whom the person is registered within three business days:
+
+        i. Prior to arriving at a school or institution of higher education to attend classes;
+
+        ii. Prior to starting work at an institution of higher education; or
+
+        iii. After any termination of enrollment or employment at a school or institution of higher education.
+
+2. [Empty]
+
+    a. A person required to register under this section must provide the following information when registering: (i) Name and any aliases used; (ii) complete and accurate residential address or, if the person lacks a fixed residence, where he or she plans to stay; (iii) date and place of birth; (iv) place of employment; (v) crime for which convicted; (vi) date and place of conviction; (vii) social security number; (viii) photograph; and (ix) fingerprints.
+
+    b. A person may be required to update any of the information required in this subsection in conjunction with any address verification conducted by the county sheriff or as part of any notice required by this section.
+
+    c. A photograph or copy of an individual's fingerprints, which may include palmprints may be taken at any time to update an individual's file.
+
+3. Any person required to register under this section who intends to travel outside the United States must provide, by certified mail, with return receipt requested, or in person, signed written notice of the plan to travel outside the country to the county sheriff of the county with whom the person is registered at least twenty-one days prior to travel. The notice shall include the following information: (a) Name; (b) passport number and country; (c) destination; (d) itinerary details including departure and return dates; (e) means of travel; and (f) purpose of travel. If the offender subsequently cancels or postpones travel outside the United States, the offender must notify the county sheriff not later than three days after cancellation or postponement of the intended travel outside the United States or on the departure date provided in the notification, whichever is earlier. The county sheriff shall notify the United States marshals service as soon as practicable after receipt of the notification. In cases of unexpected travel due to family or work emergencies, or for offenders who travel routinely across international borders for work-related purposes, the notice must be submitted in person at least twenty-four hours prior to travel to the sheriff of the county where such offenders are registered with a written explanation of the circumstances that make compliance with this subsection (3) impracticable.
+
+4. [Empty]
+
+    a. Offenders shall register with the county sheriff within the following deadlines:
+
+        i. OFFENDERS IN CUSTODY. Sex offenders or kidnapping offenders who are in custody of the state department of corrections, the state department of social and health services, a local division of youth services, or a local jail or juvenile detention facility, must register at the time of release from custody with an official designated by the agency that has jurisdiction over the offender. The agency shall within three days forward the registration information to the county sheriff for the county of the offender's anticipated residence. The offender must also register within three business days from the time of release with the county sheriff for the county of the person's residence, or if the person is not a resident of Washington, the county of the person's school, or place of employment or vocation. The agency that has jurisdiction over the offender shall provide notice to the offender of the duty to register.
+
+When the agency with jurisdiction intends to release an offender with a duty to register under this section, and the agency has knowledge that the offender is eligible for developmental disability services from the department of social and health services, the agency shall notify the division of developmental disabilities of the release. Notice shall occur not more than thirty days before the offender is to be released. The agency and the division shall assist the offender in meeting the initial registration requirement under this section. Failure to provide such assistance shall not constitute a defense for any violation of this section.
+
+When a person required to register under this section is in the custody of the state department of corrections or a local corrections or probations agency and has been approved for partial confinement as defined in RCW 9.94A.030, the person must register at the time of transfer to partial confinement with the official designated by the agency that has jurisdiction over the offender. The agency shall within three days forward the registration information to the county sheriff for the county in which the offender is in partial confinement. The offender must also register within three business days from the time of the termination of partial confinement or release from confinement with the county sheriff for the county of the person's residence. The agency that has jurisdiction over the offender shall provide notice to the offender of the duty to register.
+
+        ii. OFFENDERS UNDER FEDERAL JURISDICTION. Sex offenders or kidnapping offenders who are in the custody of the United States bureau of prisons or other federal or military correctional agency must register within three business days from the time of release with the county sheriff for the county of the person's residence, or if the person is not a resident of Washington, the county of the person's school, or place of employment or vocation.
+
+        iii. OFFENDERS WHO ARE CONVICTED BUT NOT CONFINED. Sex offenders who are convicted of a sex offense and kidnapping offenders who are convicted for a kidnapping offense but who are not sentenced to serve a term of confinement immediately upon sentencing shall report to the county sheriff to register within three business days of being sentenced.
+
+        iv. OFFENDERS WHO ARE NEW RESIDENTS, TEMPORARY RESIDENTS, OR RETURNING WASHINGTON RESIDENTS. Sex offenders and kidnapping offenders who move to Washington state from another state or a foreign country must register within three business days of establishing residence or reestablishing residence if the person is a former Washington resident. If the offender is under the jurisdiction of an agency of this state when the offender moves to Washington, the agency shall provide notice to the offender of the duty to register.
+
+Sex offenders and kidnapping offenders who are visiting Washington state and intend to reside or be present in the state for ten days or more shall register his or her temporary address or where he or she plans to stay with the county sheriff of each county where the offender will be staying within three business days of arrival. Registration for temporary residents shall include the information required by subsection (2)(a) of this section, except the photograph and fingerprints.
+
+    v. OFFENDERS FOUND NOT GUILTY BY REASON OF INSANITY. Any adult or juvenile who has been found not guilty by reason of insanity under chapter 10.77 RCW of committing a sex offense or a kidnapping offense and who is in custody, as a result of that finding, of the state department of social and health services, must register within three business days from the time of release with the county sheriff for the county of the person's residence. The state department of social and health services shall provide notice to the adult or juvenile in its custody of the duty to register.
+
+    vi. OFFENDERS WHO LACK A FIXED RESIDENCE. Any person who lacks a fixed residence and leaves the county in which he or she is registered and enters and remains within a new county for twenty-four hours is required to register with the county sheriff not more than three business days after entering the county and provide the information required in subsection (2)(a) of this section.
+
+    vii. OFFENDERS WHO LACK A FIXED RESIDENCE AND WHO ARE UNDER SUPERVISION. Offenders who lack a fixed residence and who are under the supervision of the department shall register in the county of their supervision.
+
+    viii. OFFENDERS WHO MOVE TO, WORK, CARRY ON A VOCATION, OR ATTEND SCHOOL IN ANOTHER STATE. Offenders required to register in Washington, who move to another state, or who work, carry on a vocation, or attend school in another state shall register a new address, fingerprints, and photograph with the new state within three business days after establishing residence, or after beginning to work, carry on a vocation, or attend school in the new state. The person must also send written notice within three business days of moving to the new state or to a foreign country to the county sheriff with whom the person last registered in Washington state. The county sheriff shall promptly forward this information to the Washington state patrol.
+
+    b. The county sheriff shall not be required to determine whether the person is living within the county.
+
+    c. An arrest on charges of failure to register, service of an information, or a complaint for a violation of RCW 9A.44.132, or arraignment on charges for a violation of RCW 9A.44.132, constitutes actual notice of the duty to register. Any person charged with the crime of failure to register under RCW 9A.44.132 who asserts as a defense the lack of notice of the duty to register shall register within three business days following actual notice of the duty through arrest, service, or arraignment. Failure to register as required under this subsection (4)(c) constitutes grounds for filing another charge of failing to register. Registering following arrest, service, or arraignment on charges shall not relieve the offender from criminal liability for failure to register prior to the filing of the original charge.
+
+5. [Empty]
+
+    a. If any person required to register pursuant to this section changes his or her residence address within the same county, the person must provide, by certified mail, with return receipt requested or in person, signed written notice of the change of address to the county sheriff within three business days of moving.
+
+    b. If any person required to register pursuant to this section moves to a new county, within three business days of moving the person must register with the county sheriff of the county into which the person has moved and provide, by certified mail, with return receipt requested or in person, signed written notice of the change of address to the county sheriff with whom the person last registered. The county sheriff with whom the person last registered is responsible for address verification pursuant to RCW 9A.44.135 until the person completes registration of his or her new residence address.
+
+6. [Empty]
+
+    a. Any person required to register under this section who lacks a fixed residence shall provide signed written notice to the sheriff of the county where he or she last registered within three business days after ceasing to have a fixed residence. The notice shall include the information required by subsection (2)(a) of this section, except the photograph, fingerprints, and palmprints. The county sheriff may, for reasonable cause, require the offender to provide a photograph and fingerprints. The sheriff shall forward this information to the sheriff of the county in which the person intends to reside, if the person intends to reside in another county.
+
+    b. A person who lacks a fixed residence must report weekly, in person, to the sheriff of the county where he or she is registered. The weekly report shall be on a day specified by the county sheriff's office, and shall occur during normal business hours. The person must keep an accurate accounting of where he or she stays during the week and provide it to the county sheriff upon request. The lack of a fixed residence is a factor that may be considered in determining an offender's risk level and shall make the offender subject to disclosure of information to the public at large pursuant to RCW 4.24.550.
+
+    c. If any person required to register pursuant to this section does not have a fixed residence, it is an affirmative defense to the charge of failure to register, that he or she provided written notice to the sheriff of the county where he or she last registered within three business days of ceasing to have a fixed residence and has subsequently complied with the requirements of subsection (4)(a)(vi) or (vii)  of this section and this subsection. To prevail, the person must prove the defense by a preponderance of the evidence.
+
+7. A sex offender subject to registration requirements under this section who applies to change his or her name under RCW 4.24.130 or any other law shall submit a copy of the application to the county sheriff of the county of the person's residence and to the state patrol not fewer than five days before the entry of an order granting the name change. No sex offender under the requirement to register under this section at the time of application shall be granted an order changing his or her name if the court finds that doing so will interfere with legitimate law enforcement interests, except that no order shall be denied when the name change is requested for religious or legitimate cultural reasons or in recognition of marriage or dissolution of marriage. A sex offender under the requirement to register under this section who receives an order changing his or her name shall submit a copy of the order to the county sheriff of the county of the person's residence and to the state patrol within three business days of the entry of the order.
+
+8. Except as may otherwise be provided by law, nothing in this section shall impose any liability upon a peace officer, including a county sheriff, or law enforcement agency, for failing to release information authorized under this section.
+
+## Section 6
+1. A person commits the crime of failure to register as a sex offender if the person has a duty to register under RCW 9A.44.130 for a felony sex offense and knowingly fails to comply with any of the requirements of RCW 9A.44.130.
+
+    a. The failure to register as a sex offender pursuant to this subsection is a class C felony if the person has a duty to register under RCW 9A.44.130(1)(a) and:
+
+        i. It is the person's first conviction for a felony failure to register; or
+
+        ii. The person has previously been convicted of a felony failure to register as a sex offender in this state or pursuant to the laws of another state, or pursuant to federal law.
+
+    b. If a person has a duty to register under RCW 9A.44.130(1)(a) and has been convicted of a felony failure to register as a sex offender in this state or pursuant to the laws of another state, or pursuant to federal law, on two or more prior occasions, the failure to register under this subsection is a class B felony.
+
+    c. The failure to register as a sex offender is a gross misdemeanor if the person has a duty to register under RCW 9A.44.130(1)(b).
+
+2. A person is guilty of failure to register as a sex offender if the person has a duty to register under RCW 9A.44.130 for a sex offense other than a felony and knowingly fails to comply with any of the requirements of RCW 9A.44.130. The failure to register as a sex offender under this subsection is a gross misdemeanor.
+
+3. A person commits the crime of failure to register as a kidnapping offender if the person has a duty to register under RCW 9A.44.130 for a kidnapping offense and knowingly fails to comply with any of the requirements of RCW 9A.44.130.
+
+    a. If the person has a duty to register for a felony kidnapping offense, the failure to register as a kidnapping offender is a class C felony.
+
+    b. If the person has a duty to register for a kidnapping offense other than a felony, the failure to register as a kidnapping offender is a gross misdemeanor.
+
+4. Unless relieved of the duty to register pursuant to RCW 9A.44.141 and 9A.44.142, a violation of this section is an ongoing offense for purposes of the statute of limitations under RCW 9A.04.080.
+
+## Section 7
+The duty to register under RCW 9A.44.130 shall continue for the duration provided in this section.
+
+1. For an adult convicted in this state of a class A felony, or an adult convicted of any sex offense or kidnapping offense who has one or more prior convictions for a sex offense or kidnapping offense, the duty to register shall continue indefinitely.
+
+2. For an adult convicted in this state of a class B felony who does not have one or more prior convictions for a sex offense or kidnapping offense, the duty to register shall end fifteen years after the last date of release from confinement, if any, (including full-time residential treatment) pursuant to the conviction, or entry of the judgment and sentence, if the adult has spent fifteen consecutive years in the community without being convicted of a disqualifying offense during that time period.
+
+3. For an adult convicted in this state of a class C felony, a violation of RCW 9.68A.090 or 9A.44.096, or an attempt, solicitation, or conspiracy to commit a class C felony, and the adult does not have one or more prior convictions for a sex offense or kidnapping offense, the duty to register shall end ten years after the last date of release from confinement, if any, (including full-time residential treatment) pursuant to the conviction, or entry of the judgment and sentence, if the adult has spent ten consecutive years in the community without being convicted of a disqualifying offense during that time period.
+
+4. [Empty]
+
+    a. For a person required to register under RCW 9A.44.130(1)(b), the duty to register will end three years after the last date of release from confinement, including full-time residential treatment, if any, or entry of disposition if the person is required to register for a class A offense committed at age 15, 16, or 17.
+
+    b. For a person required to register under RCW 9A.44.130(1)(b) who does not meet the description provided in subsection (4)(a) of this section, the duty to register will end two years after the last date of release from confinement, including full-time residential treatment, if any, or entry of disposition.
+
+5. Except as provided in RCW 9A.44.142, for a person required to register for a federal, tribal, or out-of-state conviction, the duty to register shall continue indefinitely.
+
+6. For a person who is or has been determined to be a sexually violent predator pursuant to chapter 71.09 RCW, the duty to register shall continue for the person's lifetime.
+
+7. Nothing in this section prevents a person from being relieved of the duty to register under RCW 9A.44.142, 9A.44.143, and 13.40.162.
+
+8. Nothing in RCW 9.94A.637 relating to discharge of an offender shall be construed as operating to relieve the offender of his or her duty to register pursuant to RCW 9A.44.130.
+
+9. For purposes of determining whether a person has been convicted of more than one sex offense, failure to register as a sex offender or kidnapping offender is not a sex or kidnapping offense.
+
+10. The provisions of this section and RCW 9A.44.141 through 9A.44.143 apply equally to a person who has been found not guilty by reason of insanity under chapter 10.77 RCW of a sex offense or kidnapping offense.
+
+## Section 8
+1. A juvenile offender is eligible for the special sex offender disposition alternative when:
+
+    a. The offender is found to have committed a sex offense, other than a sex offense that is also a serious violent offense as defined by RCW 9.94A.030, and the offender has no history of a prior sex offense; or
+
+    b. The offender is found to have committed assault in the fourth degree with sexual motivation, and the offender has no history of a prior sex offense.
+
+2. If the court finds the offender is eligible for this alternative, the court, on its own motion or the motion of the state or the respondent, may order an examination to determine whether the respondent is amenable to treatment.
+
+    a. The report of the examination shall include at a minimum the following:
+
+        i. The respondent's version of the facts and the official version of the facts;
+
+        ii. The respondent's offense history;
+
+        iii. An assessment of problems in addition to alleged deviant behaviors;
+
+        iv. The respondent's social, educational, and employment situation;
+
+    v. Other evaluation measures used.
+
+The report shall set forth the sources of the evaluator's information.
+
+    b. The examiner shall assess and report regarding the respondent's amenability to treatment and relative risk to the community. A proposed treatment plan shall be provided and shall include, at a minimum:
+
+        i. The frequency and type of contact between the offender and therapist;
+
+        ii. Specific issues to be addressed in the treatment and description of planned treatment modalities;
+
+        iii. Monitoring plans, including any requirements regarding living conditions, lifestyle requirements, and monitoring by family members, legal guardians, or others;
+
+        iv. Anticipated length of treatment; and
+
+    v. Recommended crime-related prohibitions.
+
+    c. The court on its own motion may order, or on a motion by the state shall order, a second examination regarding the offender's amenability to treatment. The evaluator shall be selected by the party making the motion. The defendant shall pay the cost of any second examination ordered unless the court finds the defendant to be indigent in which case the state shall pay the cost.
+
+3. After receipt of reports of the examination, the court shall then consider whether the offender and the community will benefit from use of this special sex offender disposition alternative and consider the victim's opinion whether the offender should receive a treatment disposition under this section. If the court determines that this special sex offender disposition alternative is appropriate, then the court shall impose a determinate disposition within the standard range for the offense, or if the court concludes, and enters reasons for its conclusions, that such disposition would cause a manifest injustice, the court shall impose a disposition under option D, and the court may suspend the execution of the disposition and place the offender on community supervision for at least two years.
+
+4. As a condition of the suspended disposition, the court may impose the conditions of community supervision and other conditions, including up to thirty days of confinement and requirements that the offender do any one or more of the following:
+
+    a. Devote time to a specific education, employment, or occupation;
+
+    b. Undergo available outpatient sex offender treatment for up to two years, or inpatient sex offender treatment not to exceed the standard range of confinement for that offense. A community mental health center may not be used for such treatment unless it has an appropriate program designed for sex offender treatment. The respondent shall not change sex offender treatment providers or treatment conditions without first notifying the prosecutor, the probation counselor, and the court, and shall not change providers without court approval after a hearing if the prosecutor or probation counselor object to the change;
+
+    c. Remain within prescribed geographical boundaries and notify the court or the probation counselor prior to any change in the offender's address, educational program, or employment;
+
+    d. Report to the prosecutor and the probation counselor prior to any change in a sex offender treatment provider. This change shall have prior approval by the court;
+
+    e. Report as directed to the court and a probation counselor;
+
+    f. Pay all court-ordered legal financial obligations, perform community restitution, or any combination thereof;
+
+    g. Make restitution to the victim for the cost of any counseling reasonably related to the offense; or
+
+    h. Comply with the conditions of any court-ordered probation bond.
+
+5. If the court orders twenty-four hour, continuous monitoring of the offender while on probation, the court shall include the basis for this condition in its findings.
+
+6. [Empty]
+
+    a. The court must order the offender not to attend the public or approved private elementary, middle, or high school attended by the victim or the victim's siblings.
+
+    b. The parents or legal guardians of the offender are responsible for transportation or other costs associated with the offender's change of school that would otherwise be paid by the school district.
+
+    c. The court shall send notice of the disposition and restriction on attending the same school as the victim or victim's siblings to the public or approved private school the juvenile will attend, if known, or if unknown, to the approved private schools and the public school district board of directors of the district in which the juvenile resides or intends to reside. This notice must be sent at the earliest possible date but not later than ten calendar days after entry of the disposition.
+
+7.
+
+    a. The sex offender treatment provider shall submit quarterly reports on the respondent's progress in treatment to the court and the parties. The reports shall reference the treatment plan and include at a minimum the following: Dates of attendance, respondent's compliance with requirements, treatment activities, the respondent's relative progress in treatment, and any other material specified by the court at the time of the disposition.
+
+    b. At the time of the disposition, the court may set treatment review hearings as the court considers appropriate.
+
+    c. Except as provided in this subsection, examinations and treatment ordered pursuant to this subsection shall be conducted by qualified professionals as described under (d) of this subsection, certified sex offender treatment providers, or certified affiliate sex offender treatment providers under chapter 18.155 RCW.
+
+    d. A sex offender therapist who examines or treats a juvenile sex offender pursuant to this subsection does not have to be certified by the department of health pursuant to chapter 18.155 RCW if the therapist is a professional licensed under chapter 18.225 or 18.83 RCW and the treatment employed is evidence-based for sex offender treatment, or if the court finds that: (i) The offender has already moved to another state or plans to move to another state for reasons other than circumventing the certification requirements; (ii) no certified sex offender treatment providers or certified affiliate sex offender treatment providers are available for treatment within a reasonable geographical distance of the offender's home; and (iii) the evaluation and treatment plan comply with this subsection and the rules adopted by the department of health.
+
+8. [Empty]
+
+    a. If the offender violates any condition of the disposition or the court finds that the respondent is failing to make satisfactory progress in treatment, the court may revoke the suspension and order execution of the disposition or the court may impose a penalty of up to thirty days confinement for violating conditions of the disposition.
+
+    b. The court may order both execution of the disposition and up to thirty days confinement for the violation of the conditions of the disposition.
+
+    c. The court shall give credit for any confinement time previously served if that confinement was for the offense for which the suspension is being revoked.
+
+9. For purposes of this section, "victim" means any person who has sustained emotional, psychological, physical, or financial injury to person or property as a direct result of the crime charged. "Victim" may also include a known parent or guardian of a victim who is a minor child unless the parent or guardian is the perpetrator of the offense.
+
+10. A disposition entered under this section is not appealable under RCW 13.40.230.
+
+## Section 9
+1. The secretary shall set a release date for each juvenile committed to its custody. The release date shall be within the prescribed range to which a juvenile has been committed under RCW 13.40.0357 or 13.40.030 except as provided in RCW 13.40.320 concerning offenders the department determines are eligible for the juvenile offender basic training camp program. Such dates shall be determined prior to the expiration of sixty percent of a juvenile's minimum term of confinement included within the prescribed range to which the juvenile has been committed. The secretary shall release any juvenile committed to the custody of the department within four calendar days prior to the juvenile's release date or on the release date set under this chapter. Days spent in the custody of the department shall be tolled by any period of time during which a juvenile has absented himself or herself from the department's supervision without the prior approval of the secretary or the secretary's designee.
+
+2. The secretary shall monitor the average daily population of the state's juvenile residential facilities. When the secretary concludes that in-residence population of residential facilities exceeds one hundred five percent of the rated bed capacity specified in statute, or in absence of such specification, as specified by the department in rule, the secretary may recommend reductions to the governor. On certification by the governor that the recommended reductions are necessary, the secretary has authority to administratively release a sufficient number of offenders to reduce in-residence population to one hundred percent of rated bed capacity. The secretary shall release those offenders who have served the greatest proportion of their sentence. However, the secretary may deny release in a particular case at the request of an offender, or if the secretary finds that there is no responsible custodian, as determined by the department, to whom to release the offender, or if the release of the offender would pose a clear danger to society. The department shall notify the committing court of the release at the time of release if any such early releases have occurred as a result of excessive in-residence population. In no event shall an offender adjudicated of a violent offense be granted release under the provisions of this subsection.
+
+3. [Empty]
+
+    a. Following the release of any juvenile under subsection (1) of this section, the secretary may require the juvenile to comply with a program of parole to be administered by the department in his or her community which shall last no longer than eighteen months, except that in the case of a juvenile sentenced for a sex offense as defined under RCW 9.94A.030 the period of parole shall be twenty-four months and, in the discretion of the secretary, may be up to thirty-six months when the secretary finds that an additional period of parole is necessary and appropriate in the interests of public safety or to meet the ongoing needs of the juvenile. A parole program is mandatory for offenders released under subsection (2) of this section and for offenders who receive a juvenile residential commitment sentence for theft of a motor vehicle, possession of a stolen motor vehicle, or taking a motor vehicle without permission 1. A juvenile adjudicated for unlawful possession of a firearm, possession of a stolen firearm, theft of a firearm, or drive-by shooting may participate in aggression replacement training, functional family therapy, or functional family parole aftercare if the juvenile meets eligibility requirements for these services. The decision to place an offender in an evidence-based parole program shall be based on an assessment by the department of the offender's risk for reoffending upon release and an assessment of the ongoing treatment needs of the juvenile. The department shall prioritize available parole resources to provide supervision and services to offenders at moderate to high risk for reoffending.
+
+    b. The secretary shall, for the period of parole, facilitate the juvenile's reintegration into his or her community and to further this goal shall require the juvenile to refrain from possessing a firearm or using a deadly weapon and refrain from committing new offenses and may require the juvenile to: (i) Undergo available medical, psychiatric, drug and alcohol, sex offender, mental health, and other offense-related treatment services; (ii) report as directed to a parole officer and/or designee; (iii) pursue a course of study, vocational training, or employment; (iv) notify the parole officer of the current address where he or she resides; (v) be present at a particular address during specified hours; (vi) remain within prescribed geographical boundaries; (vii) submit to electronic monitoring; (viii) refrain from using illegal drugs and alcohol, and submit to random urinalysis when requested by the assigned parole officer; (ix) refrain from contact with specific individuals or a specified class of individuals; (x) meet other conditions determined by the parole officer to further enhance the juvenile's reintegration into the community; (xi) pay any court-ordered fines or restitution; and (xii) perform community restitution. Community restitution for the purpose of this section means compulsory service, without compensation, performed for the benefit of the community by the offender. Community restitution may be performed through public or private organizations or through work crews.
+
+    c. The secretary may further require up to twenty-five percent of the highest risk juvenile offenders who are placed on parole to participate in an intensive supervision program. Offenders participating in an intensive supervision program shall be required to comply with all terms and conditions listed in (b) of this subsection and shall also be required to comply with the following additional terms and conditions: (i) Obey all laws and refrain from any conduct that threatens public safety; (ii) report at least once a week to an assigned community case manager; and (iii) meet all other requirements imposed by the community case manager related to participating in the intensive supervision program. As a part of the intensive supervision program, the secretary may require day reporting.
+
+    d. After termination of the parole period, the juvenile shall be discharged from the department's supervision.
+
+4. [Empty]
+
+    a. The department may also modify parole for violation thereof. If, after affording a juvenile all of the due process rights to which he or she would be entitled if the juvenile were an adult, the secretary finds that a juvenile has violated a condition of his or her parole, the secretary shall order one of the following which is reasonably likely to effectuate the purpose of the parole and to protect the public: (i) Continued supervision under the same conditions previously imposed; (ii) intensified supervision with increased reporting requirements; (iii) additional conditions of supervision authorized by this chapter; (iv) except as provided in (a)(v) and (vi) of this subsection, imposition of a period of confinement not to exceed thirty days in a facility operated by or pursuant to a contract with the state of Washington or any city or county for a portion of each day or for a certain number of days each week with the balance of the days or weeks spent under supervision; (v) the secretary may order any of the conditions or may return the offender to confinement for the remainder of the sentence range if the offense for which the offender was sentenced is rape in the first or second degree, rape of a child in the first or second degree, child molestation in the first degree, indecent liberties with forcible compulsion, or a sex offense that is also a serious violent offense as defined by RCW 9.94A.030; and (vi) the secretary may order any of the conditions or may return the offender to confinement for the remainder of the sentence range if the youth has completed the basic training camp program as described in RCW 13.40.320.
+
+    b. The secretary may modify parole and order any of the conditions or may return the offender to confinement for up to twenty-four weeks if the offender was sentenced for a sex offense as defined under RCW 9A.44.128 and is known to have violated the terms of parole. Confinement beyond thirty days is intended to only be used for a small and limited number of sex offenders. It shall only be used when other graduated sanctions or interventions have not been effective or the behavior is so egregious it warrants the use of the higher level intervention and the violation: (i) Is a known pattern of behavior consistent with a previous sex offense that puts the youth at high risk for reoffending sexually; (ii) consists of sexual behavior that is determined to be predatory as defined in RCW 71.09.020; or (iii) requires a review under chapter 71.09 RCW, due to a recent overt act. The total number of days of confinement for violations of parole conditions during the parole period shall not exceed the number of days provided by the maximum sentence imposed by the disposition for the underlying offense pursuant to RCW 13.40.0357. The department shall not aggregate multiple parole violations that occur prior to the parole revocation hearing and impose consecutive twenty-four week periods of confinement for each parole violation. The department is authorized to engage in rule making pursuant to chapter 34.05 RCW, to implement this subsection, including narrowly defining the behaviors that could lead to this higher level intervention.
+
+    c. If the department finds that any juvenile in a program of parole has possessed a firearm or used a deadly weapon during the program of parole, the department shall modify the parole under (a) of this subsection and confine the juvenile for at least thirty days. Confinement shall be in a facility operated by or pursuant to a contract with the state or any county.
+
+5. A parole officer of the department of children, youth, and families shall have the power to arrest a juvenile under his or her supervision on the same grounds as a law enforcement officer would be authorized to arrest the person.
+
+6. If so requested and approved under chapter 13.06 RCW, the secretary shall permit a county or group of counties to perform functions under subsections (3) through (5) of this section.
+
+## Section 10
+A new section is added to chapter 9A.44 RCW to read as follows:
+
+1. For a person who is not an adult, any existing legal obligation to register as a sex offender is extinguished on the effective date of this section if the person no longer has a duty to register under RCW 9A.44.130(1)(b).
+
+2. For a person who has an existing legal obligation to register under RCW 9A.44.130(1)(b), the obligation shall extinguish two or three years after the last date of release from confinement, including full-time residential treatment, if any, or entry of disposition according to the applicable registration period required under RCW 9A.44.140(4).
+
+3. By December 1, 2023, each registering agency shall conduct an individual review and remove all persons from the sex offender registry whose obligation to register is based on an offense committed while the person was under 18 years of age, unless the individual has a legal obligation to register under subsection (2) of this section.
+
+## Section 11
+1. The state patrol shall notify:
+
+    a. Registered sex and kidnapping offenders of any change to the registration requirements, including the extinguishment of a legal obligation to register under section 10 of this act;
+
+    b. No less than annually, an offender having a duty to register under RCW 9A.44.143 for a sex offense or kidnapping offense committed when the offender was a juvenile of their ability to petition for relief from registration as provided in RCW 9A.44.140; and
+
+    c. A school's or institution's designated recipient of records under RCW 9A.44.138 regarding the extinguishment of a student's legal obligation to register under section 10 of this act.
+
+2. For economic efficiency, the state patrol may combine the notices in this section into one notice.
+
+## Section 12
+Section 10 of this act takes effect November 1, 2023.

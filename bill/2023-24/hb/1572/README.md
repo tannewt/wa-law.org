@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Tue 03/21 10:30 AM - Law & Justice (LAW): SHB 1572 Recovery of taxes/venue

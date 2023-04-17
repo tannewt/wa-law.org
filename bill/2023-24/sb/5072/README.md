@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Articles
 * [Washington St Pta](/org/washington_st_pta/) - [Many Bills End Their Journey in 2023 with Fiscal Cutoff - WSPTA](https://www.wastatepta.org/many-bills-end-their-journey-in-2023-with-fiscal-cutoff/#:~:text=SSB 5072)

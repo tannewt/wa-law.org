@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Tue 03/14 08:00 AM - Health & Long Term Care (HLTC): ESHB 1222 Hearing instruments coverage

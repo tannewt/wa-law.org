@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## Articles
 * [Crosscut](/org/crosscut/) - [How federal weed legalization would impact Washington state | Crosscut](https://crosscut.com/politics/2023/03/how-federal-weed-legalization-would-impact-washington-state#:~:text=Senate Bill 5080)

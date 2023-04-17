@@ -15,7 +15,7 @@
 #### 133 👍 - Pro
 Testifying:
 * Lauren Hibbs - State Board for Community & Tech Colleges
-* Madeline Sprute - Tacoma Community College
+* 💵Madeline Sprute - Tacoma Community College
 * 💵Puneet Birk - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
 
 #### 52 👎 - Con

@@ -26,7 +26,7 @@ Testifying:
 * Douglas Henderson
 * 💵Vicki Christophersen - Washington CannaBusiness Association
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
-* Lukas Hunter - Harmony Farms
+* 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
 
 #### 1 👎 - Con
 

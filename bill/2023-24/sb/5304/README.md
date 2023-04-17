@@ -6,6 +6,8 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Wed 03/22 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SSB 5304 Language access/testing

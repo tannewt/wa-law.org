@@ -16,7 +16,7 @@ Testifying:
 * 💵Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
 * Mike Brown - Aero-Plastics, Inc.
 * 💵Brent Ludeman - Aviation Technical Services
-* Garry Clark - Economic Alliance Snohomish County, President & CEO
+* 💵Garry Clark - Economic Alliance Snohomish County, President & CEO
 * James Henderson - Snohomish County
 * Wade Larson - Wagstaff, Inc.
 

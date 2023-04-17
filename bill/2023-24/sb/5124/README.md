@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Fri 03/31 01:30 PM - Appropriations (APP): ESSB 5124 Nonrelative kin placement

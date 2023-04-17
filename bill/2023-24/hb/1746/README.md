@@ -12,7 +12,7 @@
 ### Fri 03/31 12:30 PM - Ways & Means (WM): 2SHB 1746 State broadband map
 #### 18 👍 - Pro
 Testifying:
-* Carissa Hahn - CWA/WashTech
+* 💵Carissa Hahn - CWA/WashTech
 * Mark Vasconi - WA State Broadband Office
 * Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
@@ -34,7 +34,7 @@ Testifying:
 #### 33 👍 - Pro
 Testifying:
 * Scott Richards - Washington Public Utility Districts Association
-* Carissa Hahn - CWA/WashTech
+* 💵Carissa Hahn - CWA/WashTech
 * Fernando Roman - [Communications Workers of America](/org/communications_workers_of_america/)
 * Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
@@ -47,7 +47,7 @@ Testifying:
 ### Mon 02/20 08:00 AM - Capital Budget (CB): SHB 1746 State broadband map
 #### 29 👍 - Pro
 Testifying:
-* Carissa Hahn - CWA/WashTech
+* 💵Carissa Hahn - CWA/WashTech
 * Fernando Roman - [Communications Workers of America](/org/communications_workers_of_america/)
 * Scott Richards - Washington Public Utility Districts Association
 * Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Articles
 * [Crosscut](/org/crosscut/) - [By 2050, Washington might need to buy energy from other states | Crosscut](https://crosscut.com/politics/2023/02/2050-washington-might-need-buy-energy-other-states#:~:text=Senate Bill 5165)

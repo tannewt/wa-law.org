@@ -20,7 +20,7 @@ Testifying:
 
 #### 1 ❓ - Other
 Testifying:
-* Alex Wehinger - Washington State Medical Association
+* 💵Alex Wehinger - Washington State Medical Association
 
 ### Fri 01/20 08:00 AM - Health & Long Term Care (HLTC): SB 5050 Breast implant surgery
 #### 77 👍 - Pro
@@ -34,4 +34,4 @@ Testifying:
 
 #### 1 ❓ - Other
 Testifying:
-* Alex Wehinger - WA State Medical Association (WSMA)
+* 💵Alex Wehinger - WA State Medical Association (WSMA)

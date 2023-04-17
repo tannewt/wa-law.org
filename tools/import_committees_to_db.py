@@ -11,7 +11,7 @@ AgendaItem = namedtuple("AgendaItem", ["agendaId", "mId", "aId", "caId", "text"]
 db = utils.get_db()
 cur = db.cursor()
 
-FORCE_FETCH = False
+FORCE_FETCH = True
 
 for start_year in range(2023, 2025, 2):
     biennium = f"{start_year:4d}-{(start_year+1) % 100:02d}"

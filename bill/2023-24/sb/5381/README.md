@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Tue 03/14 01:30 PM - State Government & Tribal Relations (SGOV): SSB 5381 Legislators/letters

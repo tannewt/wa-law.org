@@ -85,12 +85,12 @@ Testifying:
 * Ron Allen - Chairman Jamestown S'Klallam Tribe
 * Josh Diekmann - [City of Tacoma](/org/city_of_tacoma/)
 * Greg Johnson - Wright Runstad & Co
-* Jodie Alberts - [Bellevue Chamber of Commerce](/org/bellevue_chamber_of_commerce/)
+* 💵Jodie Alberts - [Bellevue Chamber of Commerce](/org/bellevue_chamber_of_commerce/)
 * Samantha St. John - Kirkland Chamber of Commerce
 * Sean Eagan - [The Northwest Seaport Alliance](/org/the_northwest_seaport_alliance/)
 * 💵Debora Munguia - Mason County
 * Greg Johnson - Wright Runstad & Co
-* Jodie Alberts - [Bellevue Chamber of Commerce](/org/bellevue_chamber_of_commerce/)
+* 💵Jodie Alberts - [Bellevue Chamber of Commerce](/org/bellevue_chamber_of_commerce/)
 * Samantha St. John - Kirkland Chamber of Commerce
 * David Garlington - [City of Sequim](/org/city_of_sequim/)
 * Mark Ozias - Clallam County Commissioner

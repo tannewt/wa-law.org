@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Wed 03/15 01:30 PM - Consumer Protection & Business (CPB): SSB 5261 Cemetery authority deadlines

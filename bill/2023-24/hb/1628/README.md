@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## Articles
 * [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB 1628)
@@ -46,7 +47,7 @@ Testifying:
 * Tim Eyman
 * 💵Denny Eliason - Washington REALTORS Association
 * 💵Greg Hanon - NAIOP
-* Jodie Alberts - [Bellevue Chamber of Commerce](/org/bellevue_chamber_of_commerce/)
+* 💵Jodie Alberts - [Bellevue Chamber of Commerce](/org/bellevue_chamber_of_commerce/)
 * Lawrence Crites - Small housing provider
 * Elsie Baker
 * Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)

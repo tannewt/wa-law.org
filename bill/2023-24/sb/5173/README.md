@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Tue 03/21 10:30 AM - Civil Rights & Judiciary (CRJ): ESSB 5173 Property exempt from exec.

@@ -33,7 +33,7 @@ Testifying:
 
 #### 5 ❓ - Other
 Testifying:
-* Lukas Hunter - Harmony Farms
+* 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
 * 💵Ezra Eickmeyer - Producers NW
 * Micah Sherman - Washington Sun and Craft Growers Association
 * 💵Vicki Christophersen - Washington CannaBusiness Association

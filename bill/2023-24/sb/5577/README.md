@@ -13,9 +13,9 @@
 ### Wed 02/08 08:00 AM - Environment, Energy & Technology (ENET): SB 5577 Capital broadband program
 #### 20 👍 - Pro
 Testifying:
-* Carissa Hahn - CWA/WashTech
+* 💵Carissa Hahn - CWA/WashTech
 * Adrian Chavarria - CWA/WashTech
-* Carissa Hahn - CWA/WashTech
+* 💵Carissa Hahn - CWA/WashTech
 * JJ Carter - CWA/WashTech Local 7804
 * Todd Brandenburg - PocketiNet Communications, Inc.
 * Scott Richards - Washington Public Utility Districts Association

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## Articles
 * [PubliCola](/org/publicola/) - [Growth Is Coming. The Legislature Needs to Plan for It. - PubliCola](https://publicola.com/2023/03/30/growth-is-coming-the-legislature-needs-to-plan-for-it/#:~:text=HB 1181)

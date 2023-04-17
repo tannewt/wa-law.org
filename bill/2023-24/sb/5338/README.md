@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Tue 02/28 08:00 AM - Health Care & Wellness (HCW): SSB 5338 Essential health benefits
@@ -34,7 +35,7 @@ Testifying:
 * Andrea Hu
 * 💵Stephanie Simpson - [Bleeding Disorder Foundation of Washington](/org/bleeding_disorder_foundation_of_washington/)
 * Jill Bujnevicie
-* Alex Wehinger - WA State Medical Association (WSMA)
+* 💵Alex Wehinger - WA State Medical Association (WSMA)
 
 #### 0 👎 - Con
 

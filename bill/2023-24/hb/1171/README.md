@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Thu 03/23 04:00 PM - Transportation (TRAN): SHB 1171 Motorcycle safety board

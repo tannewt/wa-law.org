@@ -11,6 +11,29 @@
 * [Crosscut](/org/crosscut/) - [Gov. Inslee buys 3-year supply of abortion pills in case of ban | Crosscut](https://crosscut.com/politics/2023/04/gov-inslee-buys-3-year-supply-abortion-pills-case-ban#:~:text=Senate Bill 5768)
 
 ## Meetings
+### Tue 04/18 12:30 PM - Appropriations (APP): SB 5768 DOC/abortion medications
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31305&aId=155277&caId=22649&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31305&aId=155277&caId=22649&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31305&aId=155277&caId=22649&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31305&aId=155277&caId=22649&tId=4)
+
+#### 170 👍 - Pro
+Testifying:
+* Jody Disney - LWVWA
+* 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
+
+#### 1187 👎 - Con
+Testifying:
+* Theresa Schrempp
+* Eric pratt - America
+* Julie Barrett - Conservative Ladies of Washington
+* Jeannie Magdua - Conservative Ladies of Washington
+* Sarah Davenport-Smith - Human Life of WA
+* David Wheeler
+
+#### 1 ❓ - Other
+
 ### Mon 04/10 12:30 PM - Ways & Means (WM): SB 5768 DOC/abortion medications
 #### 384 👍 - Pro
 

@@ -6,6 +6,8 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Articles
 * [The Spokesman-Review](/org/the_spokesman-review/) - [State Senate passes safe staffing standard, in compromise between hospitals, unions | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/08/state-senate-passes-safe-staffing-standard-in-comp/#:~:text=Senate Bill 5547)

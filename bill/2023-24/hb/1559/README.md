@@ -51,7 +51,7 @@ Testifying:
 * Jaeda Nelson - Wildcat Pantry at Central Washington University
 * Sybil Jordan
 * 💵Alex Hur - NW Education Access
-* Madeline Sprute - Tacoma Community College
+* 💵Madeline Sprute - Tacoma Community College
 * Martell Naranjo - Tacoma Community College
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * Michelle Carrillo - 13th LD

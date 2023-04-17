@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Thu 03/16 10:30 AM - Health & Long Term Care (HLTC): SHB 1275 Athletic trainers

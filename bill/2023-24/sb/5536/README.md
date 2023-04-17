@@ -41,7 +41,7 @@ Testifying:
 * 💵Lisa Daugaard
 * DeAunte Damper
 * Everett Maroon
-* Vanessa Martin
+* 💵Vanessa Martin
 * Bethany Barnard
 * Gabbie Caudill
 * 💵Anne Anderson - Washington State Narcotics Investigators Association
@@ -147,7 +147,7 @@ Testifying:
 * 💵Adán Espino - WA Defender Assn/WA Assn of Criminal Defense Lawyers
 * Caleb Banta-Green - University of Washington- Addictions, Drug & Alcohol Institute
 * 💵Anne Anderson - Washington State Narcotics Investigators Association
-* Vanessa Martin
+* 💵Vanessa Martin
 
 ### Mon 02/06 10:30 AM - Law & Justice (LAW): SB 5536 Controlled substances
 #### 75 👍 - Pro

@@ -16,7 +16,7 @@ Testifying:
 
 #### 80 👎 - Con
 Testifying:
-* Lukas Hunter - Harmony Farms
+* 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
 * Drew Davis - Mountain Hi
 * 💵Ezra Eickmeyer - Producers NW
 * Ramsey Doudar - Patients & Users for Reasonable Policy

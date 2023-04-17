@@ -121,3 +121,5 @@
 ## [SB 5694](/bill/2023-24/sb/5694/) - Concerning public employee salary surveys. 👍1  
 
 ## [SB 5749](/bill/2023-24/sb/5749/) - Rail safety governance/UTC 👍1  
+
+## [SB 5768](/bill/2023-24/sb/5768/) - DOC/abortion medications 👍1  

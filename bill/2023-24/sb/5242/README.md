@@ -24,7 +24,7 @@
 Testifying:
 * 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
 * Jane Beyer - Office of the Insurance Commissioner
-* Alex Wehinger - Washington State Medical Association
+* 💵Alex Wehinger - Washington State Medical Association
 
 #### 980 👎 - Con
 Testifying:
@@ -61,7 +61,7 @@ Testifying:
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
 * 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
-* Alex Wehinger - WA State Medical Association (WSMA)
+* 💵Alex Wehinger - WA State Medical Association (WSMA)
 
 #### 491 👎 - Con
 Testifying:

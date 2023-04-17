@@ -1,0 +1,340 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1329](/bill/2023-24/hb/1329/) > [Passed Legislature](/bill/2023-24/hb/1329/S.PL/)
+
+# HB 1329 - Utility shutoffs/heat
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Passed%20Legislature/1329-S.PL.pdf)
+
+## Section 1
+1. As used in this section, any locally regulated utility as defined in RCW 23.86.400 may not effect, due to lack of payment, an involuntary termination of electric utility service to any residential user, including tenants of metered apartment buildings and residents of mobile homes, on any day for which the national weather service has issued or has announced that it intends to issue a heat-related alert, such as an excessive heat warning, a heat advisory, an excessive heat watch, or a similar alert, for the area in which the residential user's address is located.
+
+2. [Empty]
+
+    a. A residential user at whose dwelling electric utility service has been disconnected for lack of payment may request that the locally regulated utility reconnect service on any day for which the national weather service has issued or has announced that it intends to issue a heat-related alert, such as an excessive heat warning, a heat advisory, an excessive heat watch, or a similar alert, for the area in which the residential user's address is located. The locally regulated utility shall inform all customers in the notice of disconnection of the ability to seek reconnection and provide clear and specific information on how to make that request, including how to contact the utility.
+
+    b. Upon receipt of a request made pursuant to (a) of this subsection, the locally regulated utility shall promptly make a reasonable attempt to reconnect service to the dwelling. The locally regulated utility, in connection with a request made pursuant to (a) of this subsection, may require the residential user to enter into a payment plan prior to reconnecting service to the dwelling. If the locally regulated utility requires the residential user to enter into a repayment plan, the repayment plan must comply with subsection (3) of this section.
+
+3. A repayment plan required by a locally regulated utility pursuant to subsection (2)(b) of this section will be designed both to pay the past due bill by the following May 15th, or as soon as possible after May 15th if needed to maintain monthly payments that are no greater than six percent of the customer's monthly income, and to pay for continued utility service. The plan may not require monthly payments in excess of six percent of the customer's monthly income. A customer may agree to pay a higher percentage during this period, but will not be in default unless payment during this period is less than six percent of the customer's monthly income. If assistance payments are received by the customer subsequent to implementation of the plan, the customer shall contact the locally regulated utility to reformulate the plan.
+
+4. On an annual basis, each locally regulated utility with more than 25,000 retail electric customers in Washington must submit a report to the department of commerce that includes the total number of disconnections that occurred on each day for which the national weather service issued, or announced that it intended to issue, a heat-related alert. Locally regulated utilities with fewer than 25,000 retail electric customers in Washington must provide similar information upon request by the department.
+
+    a. Subject to availability, each locally regulated utility must provide any other information related to utility disconnections that is requested by the department.
+
+    b. The information required in this subsection must be submitted in a form, timeline, and manner as prescribed by the department.
+
+## Section 2
+1. As used in this section, any locally regulated utility as defined in RCW 24.06.600 may not effect, due to lack of payment, an involuntary termination of electric utility service to any residential user, including tenants of metered apartment buildings and residents of mobile homes, on any day for which the national weather service has issued or has announced that it intends to issue a heat-related alert, such as an excessive heat warning, a heat advisory, an excessive heat watch, or a similar alert, for the area in which the residential user's address is located.
+
+2. [Empty]
+
+    a. A residential user at whose dwelling electric utility service has been disconnected for lack of payment may request that the locally regulated utility reconnect service on any day for which the national weather service has issued or has announced that it intends to issue a heat-related alert, such as an excessive heat warning, a heat advisory, an excessive heat watch, or a similar alert, for the area in which the residential user's address is located. The locally regulated utility shall inform all customers in the notice of disconnection of the ability to seek reconnection and provide clear and specific information on how to make that request, including how to contact the utility.
+
+    b. Upon receipt of a request made pursuant to (a) of this subsection, the locally regulated utility shall promptly make a reasonable attempt to reconnect service to the dwelling. The locally regulated utility, in connection with a request made pursuant to (a) of this subsection, may require the residential user to enter into a payment plan prior to reconnecting service to the dwelling. If the locally regulated utility requires the residential user to enter into a repayment plan, the repayment plan must comply with subsection (3) of this section.
+
+3. A repayment plan required by a locally regulated utility pursuant to subsection (2)(b) of this section will be designed both to pay the past due bill by the following May 15th, or as soon as possible after May 15th if needed to maintain monthly payments that are no greater than six percent of the customer's monthly income, and to pay for continued utility service. The plan must not require monthly payments in excess of six percent of the customer's monthly income. A customer may agree to pay a higher percentage during this period, but will not be in default unless payment during this period is less than six percent of the customer's monthly income. If assistance payments are received by the customer subsequent to implementation of the plan, the customer shall contact the locally regulated utility to reformulate the plan.
+
+4. On an annual basis, each locally regulated utility with more than 25,000 retail electric customers in Washington must submit a report to the department of commerce that includes the total number of disconnections that occurred on each day for which the national weather service issued, or announced that it intended to issue, a heat-related alert. Locally regulated utilities with fewer than 25,000 retail electric customers in Washington must provide similar information upon request by the department.
+
+    a. Subject to availability, each locally regulated utility must provide any other information related to utility disconnections that is requested by the department.
+
+    b. The information required in this subsection must be submitted in a form, timeline, and manner as prescribed by the department.
+
+## Section 3
+1. A city or town, including a code city, that owns or operates an electric or water utility may not effect, due to lack of payment, an involuntary termination of utility service to any residential user, including tenants of metered apartment buildings and residents of mobile homes, on any day for which the national weather service has issued or has announced that it intends to issue a heat-related alert, such as an excessive heat warning, a heat advisory, an excessive heat watch, or a similar alert, for the area in which the residential user's address is located.
+
+2. [Empty]
+
+    a. A residential user at whose dwelling utility service has been disconnected for lack of payment may request that the utility reconnect service on any day for which the national weather service has issued or has announced that it intends to issue a heat-related alert, such as an excessive heat warning, a heat advisory, an excessive heat watch, or a similar alert, for the area in which the residential user's address is located. The utility shall inform all customers in the notice of disconnection of the ability to seek reconnection and provide clear and specific information on how to make that request, including how to contact the utility.
+
+    b. Upon receipt of a request made pursuant to (a) of this subsection, the utility shall promptly make a reasonable attempt to reconnect service to the dwelling. The utility, in connection with a request made pursuant to (a) of this subsection, may require the residential user to enter into a payment plan prior to reconnecting service to the dwelling. If the utility requires the residential user to enter into a repayment plan, the repayment plan must comply with subsection (3) of this section.
+
+3. A repayment plan required by a utility pursuant to subsection (2)(b) of this section will be designed both to pay the past due bill by the following May 15th, or as soon as possible after May 15th if needed to maintain monthly payments that are no greater than six percent of the customer's monthly income, and to pay for continued utility service. The plan may not require monthly payments in excess of six percent of the customer's monthly income. A customer may agree to pay a higher percentage during this period, but will not be in default unless payment during this period is less than six percent of the customer's monthly income. If assistance payments are received by the customer subsequent to implementation of the plan, the customer shall contact the utility to reformulate the plan.
+
+4. On an annual basis, each city or town, including a code city, that owns or operates an electric or water utility with more than 25,000 retail electric customers or 2,500 water customers in Washington must submit a report to the department of commerce that includes the total number of disconnections that occurred on each day for which the national weather service issued, or announced that it intended to issue, a heat-related alert. Utilities with fewer than 25,000 retail electric customers or 2,500 water customers in Washington must provide similar information upon request by the department.
+
+    a. Subject to availability, each utility must provide any other information related to utility disconnections that is requested by the department.
+
+    b. The information required in this subsection must be submitted in a form, timeline, and manner as prescribed by the department.
+
+## Section 4
+1. A district providing utility service for residential space heating shall not terminate such utility service between November 15 through March 15 if the customer:
+
+    a. Notifies the utility of the inability to pay the bill. This notice should be provided within five business days of receiving a payment overdue notice unless there are extenuating circumstances. If the customer fails to notify the utility within five business days and service is terminated, the customer can, by  fulfilling the requirements of this section, receive the protections of this chapter;
+
+    b. Provides self-certification of household income for the prior 12 months to a grantee of the department of commerce which administers federally funded energy assistance programs. The grantee shall determine that the household income does not exceed the maximum allowed for eligibility under the state's plan for low-income energy assistance under 42 U.S.C. 8624 and shall provide a dollar figure that is seven percent of household income. The grantee may verify information provided in the self-certification;
+
+    c. Has applied for home heating assistance from applicable government and private sector organizations and certifies that any assistance received will be applied to the current bill and future utility bills;
+
+    d. Has applied for low-income weatherization assistance to the utility or other appropriate agency if such assistance is available for the dwelling;
+
+    e. Agrees to a payment plan and agrees to maintain the payment plan. The plan will be designed both to pay the past due bill by the following October 15 and to pay for continued utility service. If the past due bill is not paid by the following October 15, the customer shall not be eligible for protections under this chapter until the past due bill is paid. The plan shall not require monthly payments in excess of seven percent of the customer's monthly income plus one-twelfth of any arrearage accrued from the date application is made and thereafter during November 15 through March 15. A customer may agree to pay a higher percentage during this period, but shall not be in default unless payment during this period is less than seven percent of monthly income plus one-twelfth of any arrearage accrued from the date application is made and thereafter. If assistance payments are received by the customer subsequent to implementation of the plan, the customer shall contact the utility to reformulate the plan; and
+
+    f. Agrees to pay the moneys owed even if
+
+the customer moves.
+
+2. The utility shall:
+
+    a. Include in any notice that an account is delinquent and that service may be subject to termination, a description of the customer's duties in this section;
+
+    b. Assist the customer in fulfilling the requirements under this section;
+
+    c. Be authorized to transfer an account to a new residence when a customer who has established a plan under this section moves from one residence to another within the same utility service area;
+
+    d. Be permitted to disconnect service if the customer fails to honor the payment program except on the days indicated in subsection (5) of this section. Utilities may continue to disconnect service for those practices authorized by law other than for nonpayment as provided for in this section. Customers who qualify for payment plans under this section who default on their payment plans and are disconnected can be reconnected and maintain the protections afforded under this chapter by paying  all amounts that would have been due and owing under the terms of the applicable payment plan, absent default, on the date on which service is reconnected; and
+
+    e. Advise the customer in writing at the time it disconnects service that it will restore service if the customer contacts the utility and fulfills the other requirements of this section.
+
+3. All districts providing utility service for residential space heating shall offer residential customers the option of a budget billing or equal payment plan. The budget billing or equal payment plan shall be offered low-income customers eligible under the state's plan for low-income energy assistance prepared in accordance with 42 U.S.C. 8624(C)(1) without limiting availability to certain months of the year, without regard to the length of time the customer has occupied the premises, and without regard to whether the customer is the tenant or owner of the premises occupied.
+
+4. An agreement between the customer and the utility, whether oral or written, shall not waive the protections afforded under this chapter.
+
+5. A district providing electric or water utility service to residential customers may not effect, due to lack of payment, an involuntary termination of utility service to any residential user, including tenants of metered apartment buildings and residents of mobile homes, on any day for which the national weather service has issued or has announced that it intends to issue a heat-related alert, such as an excessive heat warning, a heat advisory, an excessive heat watch, or a similar alert, for the area in which the residential user's address is located.
+
+6. [Empty]
+
+    a. A residential user at whose dwelling utility service has been disconnected for lack of payment may request that the district reconnect service on any day for which the national weather service has issued or has announced that it intends to issue a heat-related alert, such as an excessive heat warning, a heat advisory, an excessive heat watch, or a similar alert, for the area in which the residential user's address is located. The district shall inform all customers in the notice of disconnection of the ability to seek reconnection and provide clear and specific information on how to make that request, including how to contact the district.
+
+    b. Upon receipt of a request made pursuant to (a) of this subsection, the district shall promptly make a reasonable attempt to reconnect service to the dwelling. The district, in connection with a request made pursuant to (a) of this subsection, may require the residential user to enter into a payment plan prior to reconnecting service to the dwelling. If the district requires the residential user to enter into a repayment plan, the repayment plan must comply with subsection (7) of this section.
+
+7. A repayment plan required by a district pursuant to subsection (6)(b) of this section will be designed both to pay the past due bill by the following May 15th, or as soon as possible after May 15th if needed to maintain monthly payments that are no greater than six percent of the customer's monthly income, and to pay for continued utility service. The plan may not require monthly payments in excess of six percent of the customer's monthly income. A customer may agree to pay a higher percentage during this period, but will not be in default unless payment during this period is less than six percent of the customer's monthly income. If assistance payments are received by the customer subsequent to implementation of the plan, the customer shall contact the district to reformulate the plan.
+
+8. On an annual basis, each district with more than 25,000 retail electric customers or 2,500 water customers in Washington must submit a report to the department of commerce that includes the total number of disconnections that occurred on each day for which the national weather service issued, or announced that it intended to issue, a heat-related alert. Districts with fewer than 25,000 retail electric customers or 2,500 water customers in Washington must provide similar information upon request by the department.
+
+    a. Subject to availability, each district must provide any other information related to utility disconnections that is requested by the department.
+
+    b. The information required in this subsection must be submitted in a form, timeline, and manner as prescribed by the department.
+
+## Section 5
+1. Subject to RCW 57.08.005(7), the commissioners of any district shall provide for revenues by fixing rates and charges for furnishing sewer and drainage service and facilities to those to whom service is available or for providing water, such rates and charges to be fixed as deemed necessary by the commissioners, so that uniform charges will be made for the same class of customer or service and facility. Rates and charges may be combined for the furnishing of more than one type of sewer or drainage service and facilities.
+
+2. In classifying customers of such water, sewer, or drainage system, the board of commissioners may in its discretion consider any or all of the following factors: The difference in cost to various customers; the location of the various customers within and without the district; the difference in cost of maintenance, operation, repair, and replacement of the various parts of the system; the different character of the service furnished various customers; the quantity and quality of the service and facility furnished; the time of its use; the achievement of water conservation goals and the discouragement of wasteful practices; capital contributions made to the system including but not limited to assessments; and any other matters which present a reasonable difference as a ground for distinction. Rates shall be established as deemed proper by the commissioners and as fixed by resolution and shall produce revenues sufficient to take care of the costs of maintenance and operation, revenue bond and warrant interest and principal amortization requirements, and all other charges necessary for efficient and proper operation of the system. Prior to furnishing services, a district may require a deposit to guarantee payment for services. However, failure to require a deposit does not affect the validity of any lien authorized by this section.
+
+3. The commissioners shall enforce collection of connection charges, and rates and charges for water supplied against property owners connecting with the system or receiving such water, and for sewer and drainage services charged against property to which and its owners to whom the service is available, such charges being deemed charges against the property served, by addition of penalties of not more than ten percent thereof in case of failure to pay the charges at times fixed by resolution. The commissioners may provide by resolution that where either connection charges or rates and charges for services supplied are delinquent for any specified period of time, the district shall certify the delinquencies to the auditor of the county in which the real property is located, and the charges and any penalties added thereto and interest thereon at the rate of not more than the prime lending rate of the district's bank plus four percentage points per year shall be a lien against the property upon which the service was received, subject only to the lien for general taxes.
+
+4. The district may, at any time after the connection charges or rates and charges for services supplied or available and penalties are delinquent for a period of 60 days, bring suit in foreclosure by civil action in the superior court of the county in which the real property is located. The court may allow, in addition to the costs and disbursements provided by statute, attorneys' fees, title search and report costs, and expenses as it adjudges reasonable. The action shall be in rem, and may be brought in the name of the district against an individual or against all of those who are delinquent in one action. The laws and rules of the court shall control as in other civil actions.
+
+5. In addition to the right to foreclose provided in this section, the district may also cut off all or part of the service after charges for water or sewer service supplied or available are delinquent for a period of 30 days, except on the days indicated in subsection (8) of this section.
+
+6. A district may determine how to apply partial payments on past due accounts.
+
+7. A district may provide a real property owner or the owner's designee with duplicate bills for service to tenants, or may notify an owner or the owner's designee that a tenant's service account is delinquent. However, if an owner or the owner's designee notifies the district in writing that a property served by the district is a rental property, asks to be notified of a tenant's delinquency, and has provided, in writing, a complete and accurate mailing address, the district shall notify the owner or the owner's designee of a tenant's delinquency at the same time and in the same manner the district notifies the tenant of the tenant's delinquency or by mail. When a district provides a real property owner or the owner's designee with duplicates of tenant utility service bills or notice that a tenant's utility account is delinquent, the district shall notify the tenant that it is providing the duplicate bills or delinquency notice to the owner or the owner's designee. After January 1, 1999, if a district fails to notify the owner of a tenant's delinquency after receiving a written request to do so and after receiving the other information required by this subsection (7), the district shall have no lien against the premises for the tenant's delinquent and unpaid charges.
+
+8. A district providing water utility service to residential customers may not effect, due to lack of payment, an involuntary termination of utility service to any residential user, including tenants of metered apartment buildings and residents of mobile homes, on any day for which the national weather service has issued or has announced that it intends to issue a heat-related alert, such as an excessive heat warning, a heat advisory, an excessive heat watch, or a similar alert, for the area in which the residential user's address is located.
+
+9. [Empty]
+
+    a. A residential user at whose dwelling utility service has been disconnected for lack of payment may request that the district reconnect service on any day for which the national weather service has issued or has announced that it intends to issue a heat-related alert, such as an excessive heat warning, a heat advisory, an excessive heat watch, or a similar alert, for the area in which the residential user's address is located. The district shall inform all customers in the notice of disconnection of the ability to seek reconnection and provide clear and specific information on how to make that request, including how to contact the district.
+
+    b. Upon receipt of a request made pursuant to (a) of this subsection, the district shall promptly make a reasonable attempt to reconnect service to the dwelling. The district, in connection with a request made pursuant to (a) of this subsection, may require the residential user to enter into a payment plan prior to reconnecting service to the dwelling. If the district requires the residential user to enter into a repayment plan, the repayment plan must comply with subsection (10) of this section.
+
+10. A repayment plan required by a district pursuant to subsection (9)(b) of this section will be designed both to pay the past due bill by the following May 15th, or as soon as possible after May 15th if needed to maintain monthly payments that are no greater than six percent of the customer's monthly income, and to pay for continued utility service. The plan may not require monthly payments in excess of six percent of the customer's monthly income. A customer may agree to pay a higher percentage during this period, but will not be in default unless payment during this period is less than six percent of the customer's monthly income. If assistance payments are received by the customer subsequent to implementation of the plan, the customer shall contact the district to reformulate the plan.
+
+11. On an annual basis, each district with more than 2,500 water customers in Washington must submit a report to the department of commerce that includes the total number of disconnections that occurred on each day for which the national weather service issued, or announced that it intended to issue, a heat-related alert. Districts with fewer than 2,500 water customers in Washington must provide similar information upon request by the department.
+
+    a. Subject to availability, each district must provide any other information related to utility disconnections that is requested by the department.
+
+    b. The information required in this subsection must be submitted in a form, timeline, and manner as prescribed by the department.
+
+## Section 6
+1. All charges made, demanded or received by any gas company, electrical company, wastewater company, or water company for gas, electricity or water, or for any service rendered or to be rendered in connection therewith, shall be just, fair, reasonable and sufficient. Reasonable charges necessary to cover the cost of administering the collection of voluntary donations for the purposes of supporting the development and implementation of evergreen community management plans and ordinances under RCW 80.28.300 must be deemed as prudent and necessary for the operation of a utility.
+
+2. Every gas company, electrical company, wastewater company, and water company shall furnish and supply such service, instrumentalities and facilities as shall be safe, adequate and efficient, and in all respects just and reasonable.
+
+3. All rules and regulations issued by any gas company, electrical company, wastewater company, or water company, affecting or pertaining to the sale or distribution of its product or service, must be just and reasonable.
+
+4. Utility service for residential space heating shall not be terminated between November 15 through March 15 if the customer:
+
+    a. Notifies the utility of the inability to pay the bill. This notice should be provided within five business days of receiving a payment overdue notice unless there are extenuating circumstances. If the customer fails to notify the utility within five business days and service is terminated, the customer can, by  fulfilling the requirements of this section, receive the protections of this chapter;
+
+    b. Provides self-certification of household income for the prior twelve months to a grantee of the department of commerce, which administers federally funded energy assistance programs. The grantee shall determine that the household income does not exceed the maximum allowed for eligibility under the state's plan for low-income energy assistance under 42 U.S.C. 8624 and shall provide a dollar figure that is seven percent of household income. The grantee may verify information provided in the self-certification;
+
+    c. Has applied for home heating assistance from applicable government and private sector organizations and certifies that any assistance received will be applied to the current bill and future utility bills;
+
+    d. Has applied for low-income weatherization assistance to the utility or other appropriate agency if such assistance is available for the dwelling;
+
+    e. Agrees to a payment plan and agrees to maintain the payment plan. The plan will be designed both to pay the past due bill by the following October 15th and to pay for continued utility service. If the past due bill is not paid by the following October 15, the customer is not eligible for protections under this chapter until the past due bill is paid. The plan may not require monthly payments in excess of seven percent of the customer's monthly income plus one-twelfth of any arrearage accrued from the date application is made and thereafter during November 15 through March 15. A customer may agree to pay a higher percentage during this period, but shall not be in default unless payment during this period is less than seven percent of monthly income plus one-twelfth of any arrearage accrued from the date application is made and thereafter. If assistance payments are received by the customer subsequent to implementation of the plan, the customer shall contact the utility to reformulate the plan; and
+
+    f. Agrees to pay the moneys owed even if
+
+the customer moves.
+
+5. The utility shall:
+
+    a. Include in any notice that an account is delinquent and that service may be subject to termination, a description of the customer's duties in this section;
+
+    b. Assist the customer in fulfilling the requirements under this section;
+
+    c. Be authorized to transfer an account to a new residence when a customer who has established a plan under this section moves from one residence to another within the same utility service area;
+
+    d. Be permitted to disconnect service if the customer fails to honor the payment program except on the days indicated in subsection (8) of this section. Utilities may continue to disconnect service for those practices authorized by law other than for nonpayment as provided for in this subsection. Customers who qualify for payment plans under this section who default on their payment plans and are disconnected can be reconnected and maintain the protections afforded under this chapter by paying  all amounts that would have been due and owing under the terms of the applicable payment plan, absent default, on the date on which service is reconnected; and
+
+    e. Advise the customer in writing at the time it disconnects service that it will restore service if the customer contacts the utility and fulfills the other requirements of this section.
+
+6. A payment plan implemented under this section is consistent with RCW 80.28.080.
+
+7. Every gas company and electrical company shall offer residential customers the option of a budget billing or equal payment plan. The budget billing or equal payment plan shall be offered low-income customers eligible under the state's plan for low-income energy assistance prepared in accordance with 42 U.S.C. 8624(C)(1) without limiting availability to certain months of the year, without regard to the length of time the customer has occupied the premises, and without regard to whether the customer is the tenant or owner of the premises occupied.
+
+8. [Empty]
+
+    a. Every electrical company and water company must have and must abide by the terms of a tariff approved by the commission that prohibits the electrical company or water company from effecting, due to lack of payment, an involuntary termination of electric or water utility service to any residential user, including tenants of metered apartment buildings and residents of mobile homes, on any day for which the national weather service has issued or has announced that it intends to issue a heat-related alert, such as an excessive heat warning, a heat advisory, an excessive heat watch, or a similar alert, for the area in which the residential user's address is located.
+
+    b. Nothing in this subsection (8) limits the authority of the commission to prohibit an electrical company or water company from terminating electric or water utility service in accordance with an approved tariff, rule, or order, in circumstances independent of the weather.
+
+9. [Empty]
+
+    a. A residential user at whose dwelling electric or water utility service has been disconnected for lack of payment may request that the utility reconnect service on any day for which the national weather service has issued or has announced that it intends to issue a heat-related alert, such as an excessive heat warning, a heat advisory, an excessive heat watch, or a similar alert, for the area in which the residential user's address is located. The utility shall, through a process approved by the commission, inform all customers in the notice of disconnection of the ability to seek reconnection and provide clear and specific information on how to make that request, including how to contact the utility.
+
+    b. Upon receipt of a request made pursuant to (a) of this subsection, the utility shall promptly make a reasonable attempt to reconnect service to the dwelling. The utility, in connection with a request made pursuant to (a) of this subsection, may require the residential user to enter into a payment plan prior to reconnecting service to the dwelling. If the utility requires the residential user to enter into a repayment plan, the repayment plan must comply with subsection (10) of this section.
+
+10. A repayment plan required by a utility pursuant to subsection (9)(b) of this section will be designed both to pay the past due bill by the following May 15th, or as soon as possible after May 15th if needed to maintain monthly payments that are no greater than six percent of the customer's monthly income, and to pay for continued utility service. The plan may not require monthly payments in excess of six percent of the customer's monthly income. A customer may agree to pay a higher percentage during this period, but will not be in default unless payment during this period is less than six percent of the customer's monthly income. If assistance payments are received by the customer subsequent to implementation of the plan, the customer shall contact the utility to reformulate the plan.
+
+11. Every gas company, electrical company, wastewater company, and water company shall construct and maintain such facilities in connection with the manufacture and distribution of its product, or provision of its services, as will be efficient and safe to its employees and the public.
+
+12. An agreement between the customer and the utility, whether oral or written, does not waive the protections afforded under this chapter.
+
+13. In establishing rates or charges for water service, water companies as defined in RCW 80.04.010 may consider the achievement of water conservation goals and the discouragement of wasteful water use practices.
+
+14. On an annual basis, each utility must submit a report to the commission that includes the total number of electric or water disconnections that occurred on each day for which the national weather service issued, or announced that it intended to issue, a heat-related alert.
+
+## Section 7
+1. Any irrigation district, operating and maintaining an irrigation system, in addition to other powers conferred by law, shall have authority:
+
+    a. To purchase and sell electric power to the inhabitants of the irrigation district for the purposes of irrigation and domestic use; to finance, acquire, construct, own, and lease dams, canals, plants, transmission lines, and other power equipment and the necessary property and rights therefor and to operate, improve, repair, and maintain the same, for the generation and transmission of electrical energy for use in the operation of pumping plants and irrigation systems of the district and for sale to the inhabitants of the irrigation district for the purposes of irrigation and domestic use; and, as a further and separate grant of authority and in furtherance of a state purpose and policy of developing hydroelectric capability in connection with irrigation facilities, to construct, finance, acquire, own, lease, operate, improve, repair, and maintain, alone or jointly with other irrigation districts, boards of control, municipal or quasi-municipal corporations or cooperatives authorized to engage in the business of distributing electricity, electrical companies subject to the jurisdiction of the utilities and transportation commission, private commercial or industrial entities that construct or operate electric power generation or transmission facilities, or private commercial or industrial entities that acquire electric power for their own use or resale, hydroelectric facilities including but not limited to dams, canals, plants, transmission lines, other power equipment, and the necessary property and rights therefor, located within or outside the district, for the purpose of utilizing for the generation of electricity, water power made available by and as a part of the irrigation water storage, conveyance, and distribution facilities, waste ways, and drainage water facilities which serve irrigation districts, and to sell any and all the electric energy generated at any such hydroelectric facilities or the irrigation district's share of such energy, to municipal or quasi-municipal corporations or cooperatives authorized to engage in the business of distributing electricity, electrical companies subject to the jurisdiction of the utilities and transportation commission, private commercial or industrial entities that acquire electric power for their own use or resale, or other irrigation districts, and on such terms and conditions as the board of directors shall determine. No contract entered into under this subsection (1)(a) by the board of directors of any irrigation district for the sale of electrical energy from such hydroelectric facility for a period longer than forty years from the date of commercial operation of such hydroelectric facility shall be binding on the district until ratified by a majority vote of the electors of the district at an election therein, called, held, and canvassed for that purpose in the same manner as that provided by law for district bond elections.
+
+    b. To construct, repair, purchase, maintain, or lease a system for the sale or lease of water to the owners of irrigated lands within the district for domestic purposes.
+
+    c. To construct, repair, purchase, lease, acquire, operate and maintain a system of drains, sanitary sewers, and sewage disposal or treatment plants as herein provided.
+
+    d. To assume, as principal or guarantor, any indebtedness to the United States under the federal reclamation laws, on account of district lands.
+
+    e. To maintain, repair, construct, and reconstruct ditches, laterals, pipe lines, and other water conduits used or to be used in carrying water for irrigation of lands located within the boundaries of a city or town, or for the domestic use of the residents of a city or town where the owners of land within such city or town shall use such works to carry water to the boundaries of such city or town for irrigation, domestic, or other purposes within such city or town, and to charge to such city or town the pro rata proportion of the cost of such maintenance, repair, construction, and reconstruction work in proportion to the benefits received by the lands served and located within the boundaries of such city or town, and if such cost is not paid, then and in that event said irrigation district shall have the right to prevent further water deliveries through such works to the lands located within the boundaries of such city or town until such charges have been paid.
+
+    f. To acquire, install, and maintain as a part of the irrigation district's water system the necessary water mains and fire hydrants to make water available for firefighting purposes; and in addition any such irrigation district shall have the authority to repair, operate, and maintain such hydrants and mains.
+
+    g. To enter into contracts with other irrigation districts, boards of control, municipal or quasi-municipal corporations or cooperatives authorized to engage in the business of distributing electricity, electrical companies subject to the jurisdiction of the utilities and transportation commission, private commercial or industrial entities that construct or operate electric power generation or transmission facilities, or private commercial or industrial entities that acquire electric power for their own use or resale, to jointly finance, acquire, lease, construct, own, operate, improve, repair, and maintain irrigation water, domestic water, drainage and sewerage works, and electrical power works to the same extent as authorized by (a) of this subsection , or portions of such works. If an irrigation district enters into a contract or agreement under this subsection (1)(g) to create a legal entity or undertaking with an investor-owned utility or a private commercial or industrial entity, that contract or agreement must provide that the irrigation district be severally liable only for its own acts and not jointly or severally liable for the acts, omissions, or obligations of an investor-owned utility or a private commercial or industrial entity. No money or property supplied by any irrigation district for the planning, financing, acquisition, construction, operation, or maintenance of any common facility may be credited or otherwise applied to the account of any investor-owned utility or private commercial or industrial entity therein, nor may the undivided share of any irrigation district in any common facility be charged, directly or indirectly, with any debt or obligation of any investor-owned utility or private commercial or industrial entity or be subject to any lien as a result thereof. No action in connection with a common facility may be binding upon any irrigation district unless authorized or approved by resolution of its board.
+
+    h. To acquire from a water-sewer district wholly within the irrigation district's boundaries, by a conveyance without cost, the water-sewer district's water system and to operate the same to provide water for the domestic use of the irrigation district residents. As a part of its acceptance of the conveyance the irrigation district must agree to relieve the water-sewer district of responsibility for maintenance and repair of the system. Any such water-sewer district is authorized to make such a conveyance if all indebtedness of the water-sewer district, except local improvement district bonds, has been paid and the conveyance has been approved by a majority of the water-sewer district's voters voting at a general or special election.
+
+    i. To approve and condition placement of hydroelectric generation facilities by entities other than the district on water conveyance facilities operated or maintained by the district.
+
+2. An irrigation district providing electric or water utility service to residential customers may not effect, due to lack of payment, an involuntary termination of utility service to any residential users, including tenants of metered apartment buildings and residents of mobile homes, on any day for which the national weather service has issued or has announced that it intends to issue a heat-related alert, such as an excessive heat warning, a heat advisory, an excessive heat watch, or a similar alert, for the area in which the residential user's address is located.
+
+    a. [Empty]
+
+        i. A residential user at whose dwelling electric or water utility service has been disconnected for lack of payment may request that the irrigation district reconnect service on any day for which the national weather service has issued or has announced that it intends to issue a heat-related alert, such as an excessive heat warning, a heat advisory, an excessive heat watch, or a similar alert, for the area in which the residential user's address is located. The irrigation district shall inform all customers in the notice of disconnection of the ability to seek reconnection and provide clear and specific information on how to make that request, including how to contact the irrigation district.
+
+        ii. Upon receipt of a request made pursuant to (a)(i) of this subsection, the irrigation district shall promptly make a reasonable attempt to reconnect service to the dwelling. The irrigation district, in connection with a request made pursuant to (a)(i) of this subsection, may require the residential user to enter into a payment plan prior to reconnecting service to the dwelling. If the irrigation district requires the residential user to enter into a repayment plan, the repayment plan must comply with (b) of this subsection.
+
+    b. A repayment plan required by an irrigation district pursuant to (a)(ii) of this subsection will be designed both to pay the past due bill by the following May 15th, or as soon as possible after May 15th if needed to maintain monthly payments that are no greater than six percent of the customer's monthly income, and to pay for continued utility service. The plan may not require monthly payments in excess of six percent of the customer's monthly income. A customer may agree to pay a higher percentage during this period, but will not be in default unless payment during this period is less than six percent of the customer's monthly income. If assistance payments are received by the customer subsequent to implementation of the plan, the customer shall contact the irrigation district to reformulate the plan.
+
+    c. On an annual basis, each irrigation district with more than 25,000 retail electric customers or 2,500 water customers in Washington must submit a report to the department of commerce that includes the total number of disconnections that occurred on each day for which the national weather service issued, or announced that it intended to issue, a heat-related alert. Irrigation districts with fewer than 25,000 retail electric customers or 2,500 water customers in Washington must provide similar information upon request by the department.
+
+        i. Subject to availability, each irrigation district must provide any other information related to utility disconnections that is requested by the department.
+
+        ii. The information required in this subsection (2)(c) must be submitted in a form, timeline, and manner as prescribed by the department.
+
+3. This section shall not be construed as in any manner abridging any other powers of an irrigation district conferred by law.
+
+## Section 8
+The landlord will at all times during the tenancy keep the premises fit for human habitation, and shall in particular:
+
+1. Maintain the premises to substantially comply with any applicable code, statute, ordinance, or regulation governing their maintenance or operation, which the legislative body enacting the applicable code, statute, ordinance or regulation could enforce as to the premises rented if such condition endangers or impairs the health or safety of the tenant;
+
+2. Maintain the structural components including, but not limited to, the roofs, floors, walls, chimneys, fireplaces, foundations, and all other structural components, in reasonably good repair so as to be usable;
+
+3. Keep any shared or common areas reasonably clean, sanitary, and safe from defects increasing the hazards of fire or accident;
+
+4. Provide a reasonable program for the control of infestation by insects, rodents, and other pests at the initiation of the tenancy and, except in the case of a single-family residence, control infestation during tenancy except where such infestation is caused by the tenant;
+
+5. Except where the condition is attributable to normal wear and tear, make repairs and arrangements necessary to put and keep the premises in as good condition as it by law or rental agreement should have been, at the commencement of the tenancy;
+
+6. Provide reasonably adequate locks and furnish keys to the tenant;
+
+7. Maintain and safeguard with reasonable care any master key or duplicate keys to the dwelling unit;
+
+8. Maintain all electrical, plumbing, heating, and other facilities and appliances supplied by him or her in reasonably good working order;
+
+9. Maintain the dwelling unit in reasonably weathertight condition;
+
+10. Except in the case of a single-family residence, provide and maintain appropriate receptacles in common areas for the removal of ashes, rubbish, and garbage, incidental to the occupancy and arrange for the reasonable and regular removal of such waste;
+
+11. Provide facilities adequate to supply heat and water and hot water as reasonably required by the tenant;
+
+    a. The landlord may not effect an involuntary termination of electric utility or water service due to lack of payment to any tenant on any day for which the national weather service has issued or has announced that it intends to issue a heat-related alert, such as an excessive heat warning, a heat advisory, an excessive heat watch, or a similar alert, for the area in which the tenant's address is located.
+
+    b. [Empty]
+
+        i. A tenant at whose dwelling electric or water utility service has been disconnected for lack of payment may request that the landlord reconnect service on any day for which the national weather service has issued or has announced that it intends to issue a heat-related alert, such as an excessive heat warning, a heat advisory, an excessive heat watch, or a similar alert, for the area in which the tenant's address is located. The landlord shall inform all tenants in the notice of disconnection of the ability to seek reconnection and provide clear and specific information on how to make that request, including how to contact the landlord.
+
+        ii. Upon receipt of a request made pursuant to (b)(i) of this subsection, the landlord shall promptly make a reasonable attempt to reconnect service to the dwelling. The landlord, in connection with a request made pursuant to (b)(i) of this subsection, may require the tenant to enter into a payment plan prior to reconnecting service to the dwelling. If the landlord requires the tenant to enter into a repayment plan, the repayment plan must comply with (c) of this subsection.
+
+    c. A repayment plan required by a landlord pursuant to (b)(i) of this subsection will be designed both to pay the past due bill by the following May 15th, or as soon as possible after May 15th if needed to maintain monthly payments that are no greater than six percent of the tenant's monthly income, and to pay for continued utility service. The plan may not require monthly payments in excess of six percent of the tenant's monthly income. A tenant may agree to pay a higher percentage during this period, but will not be in default unless payment during this period is less than six percent of the tenant's monthly income. If assistance payments are received by the tenant subsequent to implementation of the plan, the tenant shall contact the landlord to reformulate the plan.
+
+12. [Empty]
+
+    a. Provide a written notice to all tenants disclosing fire safety and protection information. The landlord or his or her authorized agent must provide a written notice to the tenant that the dwelling unit is equipped with a smoke detection device as required in RCW 43.44.110. The notice shall inform the tenant of the tenant's responsibility to maintain the smoke detection device in proper operating condition and of penalties for failure to comply with the provisions of RCW 43.44.110(3). The notice must be signed by the landlord or the landlord's authorized agent and tenant with copies provided to both parties. Further, except with respect to a single-family residence, the written notice must also disclose the following:
+
+        i. Whether the smoke detection device is hard-wired or battery operated;
+
+        ii. Whether the building has a fire sprinkler system;
+
+        iii. Whether the building has a fire alarm system;
+
+        iv. Whether the building has a smoking policy, and what that policy is;
+
+    v. Whether the building has an emergency notification plan for the occupants and, if so, provide a copy to the occupants;
+
+    vi. Whether the building has an emergency relocation plan for the occupants and, if so, provide a copy to the occupants; and
+
+    vii. Whether the building has an emergency evacuation plan for the occupants and, if so, provide a copy to the occupants.
+
+    b. The information required under this subsection may be provided to a tenant in a multifamily residential building either as a written notice or as a checklist that discloses whether the building has fire safety and protection devices and systems. The checklist shall include a diagram showing the emergency evacuation routes for the occupants.
+
+    c. The written notice or checklist must be provided to new tenants at the time the lease or rental agreement is signed;
+
+13. Provide tenants with information provided or approved by the department of health about the health hazards associated with exposure to indoor mold. Information may be provided in written format individually to each tenant, or may be posted in a visible, public location at the dwelling unit property. The information must detail how tenants can control mold growth in their dwelling units to minimize the health risks associated with indoor mold. Landlords may obtain the information from the department's website or, if requested by the landlord, the department must mail the information to the landlord in a printed format. When developing or changing the information, the department of health must include representatives of landlords in the development process. The information must be provided by the landlord to new tenants at the time the lease or rental agreement is signed;
+
+14. The landlord and his or her agents and employees are immune from civil liability for failure to comply with subsection (13) of this section except where the landlord and his or her agents and employees knowingly and intentionally do not comply with subsection (13) of this section; and
+
+15. Designate to the tenant the name and address of the person who is the landlord by a statement on the rental agreement or by a notice conspicuously posted on the premises. The tenant shall be notified immediately of any changes in writing, which must be either (a) delivered personally to the tenant or (b) mailed to the tenant and conspicuously posted on the premises. If the person designated in this section does not reside in the state where the premises are located, there shall also be designated a person who resides in the county who is authorized to act as an agent for the purposes of service of notices and process, and if no designation is made of a person to act as agent, then the person to whom rental payments are to be made shall be considered such agent. Regardless of such designation, any owner who resides outside the state and who violates a provision of this chapter is deemed to have submitted himself or herself to the jurisdiction of the courts of this state and personal service of any process may be made on the owner outside the state with the same force and effect as personal service within the state. Any summons or process served out-of-state must contain the same information and be served in the same manner as personal service of summons or process served within the state, except the summons or process must require the party to appear and answer within 60 days after such personal service out of the state. In an action for a violation of this chapter that is filed under chapter 12.40 RCW, service of the notice of claim outside the state must contain the same information and be served in the same manner as required under chapter 12.40 RCW, except the date on which the party is required to appear must not be less than 60 days from the date of service of the notice of claim.
+
+No duty shall devolve upon the landlord to repair a defective condition under this section, nor shall any defense or remedy be available to the tenant under this chapter, where the defective condition complained of was caused by the conduct of such tenant, his or her family, invitee, or other person acting under his or her control, or where a tenant unreasonably fails to allow the landlord access to the property for purposes of repair. When the duty imposed by subsection (1) of this section is incompatible with and greater than the duty imposed by any other provisions of this section, the landlord's duty shall be determined pursuant to subsection (1) of this section.
+
+## Section 9
+A landlord shall not:
+
+1. Deny any tenant the right to sell such tenant's mobile home, manufactured home, or park model within a park, or prohibit, in any manner, any tenant from posting on the tenant's manufactured/mobile home or park model, or on the rented mobile home lot, a commercially reasonable "for sale" sign or any similar sign designed to advertise the sale of the manufactured/mobile home or park model. In addition, a landlord shall not require the removal of the mobile home, manufactured home, or park model from the park because of the sale thereof. Requirements for the transfer of the rental agreement are in RCW 59.20.073. Nothing in this subsection prohibits a landlord from enforcing reasonable rules or restrictions regarding the placement of "for sale" signs on the tenant's manufactured/mobile home or park model, or on the rented mobile home lot, if (a) the main purpose of the rules or restrictions is to protect the safety of park tenants or residents and (b) the rules or restrictions comply with RCW 59.20.045. The landlord may restrict the number of "for sale" signs on the lot to two and may restrict the size of the signs to conform to those in common use by home sale businesses;
+
+2. Restrict the tenant's freedom of choice in purchasing goods or services but may reserve the right to approve or disapprove any exterior structural improvements on a mobile home space: PROVIDED, That door-to-door solicitation in the mobile home park may be restricted in the rental agreement. Door-to-door solicitation does not include public officials, housing and low-income assistance organizations, or candidates for public office meeting or distributing information to tenants in accordance with subsection (3) or (4) of this section;
+
+3. Prohibit the distribution of information or meetings by tenants of the mobile home park to discuss mobile home living and affairs, including political caucuses or forums for or speeches of public officials or candidates for public office, meetings with housing and low-income assistance organizations, or meetings of organizations that represent the interest of tenants in the park, held in a tenant's home or any of the park community or recreation halls if these halls are open for the use of the tenants, conducted at reasonable times and in an orderly manner on the premises, nor penalize any tenant for participation in such activities;
+
+4. Prohibit a public official, housing and low-income assistance organization, or candidate for public office from meeting with or distributing information to tenants in their individual mobile homes, manufactured homes, or park models, nor penalize any tenant for participating in these meetings or receiving this information;
+
+5. Evict a tenant, terminate a rental agreement, decline to renew a rental agreement, increase rental or other tenant obligations, decrease services, or modify park rules in retaliation for any of the following actions on the part of a tenant taken in good faith:
+
+    a. Filing a complaint with any federal, state, county, or municipal governmental authority relating to any alleged violation by the landlord of an applicable statute, regulation, or ordinance;
+
+    b. Requesting the landlord to comply with the provision of this chapter or other applicable statute, regulation, or ordinance of the state, county, or municipality;
+
+    c. Filing suit against the landlord for any reason;
+
+    d. Participation or membership in any homeowners association or group;
+
+6. Charge to any tenant a utility fee in excess of actual utility costs or intentionally cause termination or interruption of any tenant's utility services, including water, heat, electricity, or gas, except when an interruption of a reasonable duration is required to make necessary repairs;
+
+7. [Empty]
+
+    a. Effect an involuntary termination of electric utility or water service due to lack of payment to any tenant on any day for which the national weather service has issued or has announced that it intends to issue a heat-related alert, such as an excessive heat warning, a heat advisory, an excessive heat watch, or a similar alert, for the area in which the tenant's address is located.
+
+    b. [Empty]
+
+        i. A tenant at whose dwelling electric or water utility service has been disconnected for lack of payment may request that the landlord reconnect service on any day for which the national weather service has issued or has announced that it intends to issue a heat-related alert, such as an excessive heat warning, a heat advisory, an excessive heat watch, or a similar alert, for the area in which the tenant's address is located. The landlord shall inform all tenants in the notice of disconnection of the ability to seek reconnection and provide clear and specific information on how to make that request, including how to contact the landlord.
+
+        ii. Upon receipt of a request made pursuant to (b)(i) of this subsection, the landlord shall promptly make a reasonable attempt to reconnect service to the dwelling. The landlord, in connection with a request made pursuant to (b)(i) of this subsection, may require the tenant to enter into a payment plan prior to reconnecting service to the dwelling. If the landlord requires the tenant to enter into a repayment plan, the repayment plan must comply with (c) of this subsection.
+
+    c. A repayment plan required by a landlord pursuant to (b)(ii) of this subsection will be designed both to pay the past due bill by the following May 15th, or as soon as possible after May 15th if needed to maintain monthly payments that are no greater than six percent of the tenant's monthly income, and to pay for continued utility service. The plan may not require monthly payments in excess of six percent of the tenant's monthly income. A tenant may agree to pay a higher percentage during this period, but will not be in default unless payment during this period is less than six percent of the tenant's monthly income. If assistance payments are received by the tenant subsequent to implementation of the plan, the tenant shall contact the landlord to reformulate the plan.
+
+8. Remove or exclude a tenant from the premises unless this chapter is complied with or the exclusion or removal is under an appropriate court order; or
+
+9. Prevent the entry or require the removal of a mobile home, manufactured home, or park model for the sole reason that the mobile home has reached a certain age. Nothing in this subsection shall limit a landlord's right to exclude or expel a mobile home, manufactured home, or park model for any other reason, including but not limited to, failure to comply with fire, safety, and other provisions of local ordinances and state laws relating to mobile homes, manufactured homes, and park models, as long as the action conforms to this chapter or any other relevant statutory provision.

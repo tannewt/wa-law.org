@@ -12,7 +12,7 @@
 
 #### 75 👎 - Con
 Testifying:
-* Lukas Hunter - Harmony Farms
+* 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
 * Drew Davis - Mountain hi
 * John Kingsbury - cannabis patient,  patient committee - Cannabis Alliance
 * 💵Ezra Eickmeyer - Producers NW

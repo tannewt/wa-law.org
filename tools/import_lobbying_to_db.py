@@ -7,7 +7,7 @@ db = utils.get_db()
 
 requests = url_history.HistorySession("lobbying_cache.db")
 
-FORCE_FETCH = False
+FORCE_FETCH = True
 
 lobbyists = requests.get("https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/download?dsid=e7sd-jbuy&fname=lobbyists-agents-table&query=select%20agent_name%20as%20agent_name%2Cemployment_year%20as%20employment_year%2Clobbyist_firm_name%20as%20lobbyist_firm_name%2Cemployer_title%20as%20employer_title%2Clobbyist_phone%20as%20lobbyist_phone%2Clobbyist_email%20as%20lobbyist_email%2Clobbyist_address%20as%20lobbyist_address%2Ctraining_certified%20as%20training_certified%2Cagent_bio%2Cagent_pic_url%2Clobbyist_firm_url%20where%201%20%3D%201%20order%20by%20agent_name%20asc%2Cemployment_year%20desc%2C%3Aid%20limit%2010000000", fetch_again=FORCE_FETCH)
 

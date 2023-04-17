@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Tue 03/21 10:30 AM - Civil Rights & Judiciary (CRJ): SSB 5077 Uniform commercial code

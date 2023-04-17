@@ -11,7 +11,7 @@
 #### 27 👍 - Pro
 Testifying:
 * 💵Ezra Eickmeyer - Producers NW
-* Lukas Hunter - Harmony Farms
+* 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
 * Arthur West
 * Burl Bryson - The Cannabis Alliance
 * Micah Sherman - Washington Sun and Craft Growers Association (WSCA)

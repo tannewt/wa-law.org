@@ -90,7 +90,7 @@ Testifying:
 * Jerry VanderWood - Associated General Contractors (AGC)
 * Mike Ennis - AWB
 * 💵Sheri Call - [Washington Trucking Association](/org/washington_trucking_association/)
-* Jodie Alberts - [Bellevue Chamber of Commerce](/org/bellevue_chamber_of_commerce/)
+* 💵Jodie Alberts - [Bellevue Chamber of Commerce](/org/bellevue_chamber_of_commerce/)
 * Kristina Hudson - OneRedmond.
 * Victor Bishop - Eastside Transportation Association
 * Mariya Frost - Kemper Development  Company

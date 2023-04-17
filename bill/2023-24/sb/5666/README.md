@@ -10,7 +10,7 @@
 ### Fri 02/10 10:30 AM - Higher Education & Workforce Development (HEWD): SB 5666 CTC student housing pilot
 #### 31 👍 - Pro
 Testifying:
-* Madeline Sprute - Associated Students Tacoma Community College
+* 💵Madeline Sprute - Associated Students Tacoma Community College
 * Sara Goldrick-Rab
 * 💵Sopeara Chay - South Puget Sound Community College
 

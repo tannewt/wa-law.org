@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Mon 03/20 10:30 AM - Law & Justice (LAW): SHB 1043 Records/comm. associations

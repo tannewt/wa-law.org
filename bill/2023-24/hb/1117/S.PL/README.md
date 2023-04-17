@@ -1,0 +1,17 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1117](/bill/2023-24/hb/1117/) > [Passed Legislature](/bill/2023-24/hb/1117/S.PL/)
+
+# HB 1117 - Power supply inadequacy
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Passed%20Legislature/1117-S.PL.pdf)
+
+## Section 1
+As clean electricity replaces fossil fuels in the state's economy, the transmission and distribution infrastructure, the sticks and wires of the grid, must meet increasingly complex service requirements and loads. The changing demand includes, but is not limited to, population changes, vehicle charging, serving other specialized technology that requires high power quality, electrification of building-related end uses now served by fossil fuels, electricity deployed on the customer side of the meter through net metering, community solar programs, and the growth of demand response programs.
+
+Further, the clean energy transformation act requires that utilities making investments in new resources after May 2019, rely on energy efficiency, demand response, renewable resources, and energy storage to the maximum extent feasible, while transitioning away from coal and natural gas-fired generation. Electric utilities are actively working to ensure resource adequacy through the development of explicit resource adequacy standards and a standardized resource adequacy program. This work is ongoing and should result in a binding and enforceable program with a robust public oversight mechanism. Understanding and addressing any energy adequacy challenges created by a deeply decarbonized grid is key to keeping the state's supply of electricity reliable.
+
+## Section 2
+1. At least once every twelve months, the department and the commission shall jointly convene a meeting of representatives of the investor-owned utilities and consumer-owned utilities, regional planning organizations, transmission operators, energy analytics experts at Pacific Northwest national laboratory, and other stakeholders to discuss the current, short-term, and long-term adequacy of energy resources to serve the state's electric needs, and address specific steps the utilities can take to coordinate planning in light of the significant changes to the Northwest's power system including, but not limited to, technological developments, retirements of legacy baseload power generation resources, and changes in laws and regulations affecting power supply options. The department and commission shall provide a summary of these meetings, including any specific action items, to the governor and legislature within sixty days of the meeting.
+
+2. In 2023, the meeting convened by the department and the commission pursuant to subsection (1) of this section must address strategies to ensure power supply adequacy to avoid the risk of rolling blackouts. The meeting must also focus discussion on the extent to which proposed laws and regulations may require new state policy for resource adequacy. The stakeholder meeting should seek to identify regulatory and statutory incentives to enhance and ensure resource adequacy and reliability. If regional energy analytics capability is established at Pacific Northwest national laboratory, the department and the commission must invite the Pacific Northwest national laboratory to the meeting to provide relevant analytics to inform the discussion.
+
+3. This section expires January 1, 2031.

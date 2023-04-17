@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Fri 03/10 08:00 AM - Postsecondary Education & Workforce (PEW): ESSB 5512 Higher ed. financial reports

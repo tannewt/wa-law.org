@@ -51,7 +51,7 @@ Testifying:
 Testifying:
 * Tracy Drinkwater - Seattle Universal Math Museum
 * Manuel Cawaling - Inspire Washington
-* Carissa Hahn - CWA/WashTech
+* 💵Carissa Hahn - CWA/WashTech
 * Mayor Cheryl Selby - Olympia City Council
 * craig Reynolds - Seattle Universal Math Museum
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)

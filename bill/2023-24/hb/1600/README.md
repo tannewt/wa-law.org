@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Mon 03/13 10:30 AM - Law & Justice (LAW): ESHB 1600 Firearms/juvenile records

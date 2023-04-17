@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Tue 03/21 01:30 PM - Environment, Energy & Technology (ENET): ESHB 1329 Utility shutoffs/heat

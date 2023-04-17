@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Wed 03/22 01:30 PM - State Government & Tribal Relations (SGOV): SSB 5127 Student information/PRA

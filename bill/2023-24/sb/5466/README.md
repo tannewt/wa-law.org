@@ -102,7 +102,7 @@ Testifying:
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 * 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Cynthia Stewart - League of Women Voters of WA
-* Jodie Alberts - [Bellevue Chamber of Commerce](/org/bellevue_chamber_of_commerce/)
+* 💵Jodie Alberts - [Bellevue Chamber of Commerce](/org/bellevue_chamber_of_commerce/)
 * 💵Greg Hanon - NAIOP
 * April Sims - Washington State Labor Council, AFL-CIO
 * Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)

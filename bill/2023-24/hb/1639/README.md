@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## Meetings
 ### Tue 03/28 04:00 PM - Ways & Means (WM): 2SHB 1639 Billy Frank Jr. statue

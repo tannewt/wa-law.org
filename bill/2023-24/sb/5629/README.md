@@ -20,7 +20,7 @@ Testifying:
 #### 3 ❓ - Other
 Testifying:
 * Jonathan Wells - [Washington Academy of Family Physicians](/org/washington_academy_of_family_physicians/)
-* Alex Wehinger - WA State Medical Association (WSMA)
+* 💵Alex Wehinger - WA State Medical Association (WSMA)
 
 ### Tue 02/07 08:00 AM - Health & Long Term Care (HLTC): SB 5629 Hepatitis B and C
 #### 10 👍 - Pro

@@ -44,7 +44,7 @@ Testifying:
 #### 32 👎 - Con
 Testifying:
 * 💵Ezra Eickmeyer - Producers NW
-* Lukas Hunter - Harmony Farms
+* 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
 * 💵Vicki Christophersen - Washington CannaBusiness Association
 * German Burtscher - Artizen
 * Bethany Rondeaux

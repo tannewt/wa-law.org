@@ -17,7 +17,7 @@ Testifying:
 * Jacob Katz - SBCTC
 * Shannon Cosgrove - SBCTC
 * Yokiko Hayashi-Saguil - SBCTC
-* Madeline Sprute - Tacoma Community College
+* 💵Madeline Sprute - Tacoma Community College
 * Heather Hudson - Washington Student Achievement Council
 
 #### 0 👎 - Con

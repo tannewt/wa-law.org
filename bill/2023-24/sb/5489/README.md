@@ -24,7 +24,7 @@ Testifying:
 * Danni Askini - Gender Justice League
 * Dr. Sarah Prager - American College of Obstetricians and Gynecologists
 * Dr. Suzanne Poppema
-* Alex Wehinger - Washington State Medical Association
+* 💵Alex Wehinger - Washington State Medical Association
 * 💵Alizeh Bhojani - [Legal Voice](/org/legal_voice/)
 * 💵Emily Stone - [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/)
 * Hillary Whitmore

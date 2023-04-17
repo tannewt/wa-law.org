@@ -16,7 +16,7 @@ Testifying:
 * Ruben Flores - Council Of Presidents
 * 💵Collin Bannister - ASWSU
 * Jacob Vigdor - University of Washington Faculty/ Council of Faculty
-* Madeline Sprute - Associated Students of Tacoma Community College
+* 💵Madeline Sprute - Associated Students of Tacoma Community College
 
 #### 0 👎 - Con
 

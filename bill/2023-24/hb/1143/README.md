@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers cite Nashville school shooting as they advance assault weapon ban, other gun restrictions | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-lawmakers-cite-nashville-school-shooting-as-they-advance-assault-weapon-ban-other-gun-restrictions/#:~:text=House Bill 1143)

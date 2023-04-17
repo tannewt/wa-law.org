@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Tue 03/14 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): ESHB 1758 Hatchery maintenance permits

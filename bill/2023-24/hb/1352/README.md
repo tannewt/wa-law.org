@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Thu 03/09 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SHB 1352 County invest. pools/tribes

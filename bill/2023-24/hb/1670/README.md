@@ -30,7 +30,7 @@ Testifying:
 * Megan Dunn - Snohomish County
 * Wes McCart - Stevens County
 * Jerome Delvin - Benton County
-* Kate Dean - Jefferson County
+* Kate Dean - [Jefferson County](/org/jefferson_county/)
 * Lisa Janicki - [Skagit County](/org/skagit_county/)
 * Mary Lou Steward - [City of Blaine](/org/city_of_blaine/)
 * 💵Axel Swanson - Washington State Association of County Engineers

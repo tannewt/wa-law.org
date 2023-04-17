@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## Meetings
 ### Wed 02/01 04:00 PM - Appropriations (APP): SHB 1122 WMS bargaining

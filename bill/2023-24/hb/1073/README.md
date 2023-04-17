@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Thu 03/09 10:30 AM - Health & Long Term Care (HLTC): ESHB 1073 Medical assistants

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [Boot confusing advisory votes from WA ballots | The Seattle Times](https://www.seattletimes.com/opinion/editorials/boot-confusing-advisory-votes-from-wa-ballots/#:~:text=Senate Bill 5082)

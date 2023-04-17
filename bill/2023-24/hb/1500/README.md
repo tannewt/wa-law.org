@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Fri 01/27 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1500 Cottage food sales cap

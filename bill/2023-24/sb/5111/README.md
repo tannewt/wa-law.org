@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Wed 03/15 08:00 AM - Labor & Workplace Standards (LAWS): ESSB 5111 Sick leave/construction

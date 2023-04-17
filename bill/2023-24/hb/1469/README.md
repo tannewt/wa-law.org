@@ -34,7 +34,7 @@ Testifying:
 * Dana Karash - Planned Parenthood Greater Northwest
 * Hilary Northcraft
 * August Armstrong
-* Alex Wehinger - Washington State Medical Association
+* 💵Alex Wehinger - Washington State Medical Association
 
 #### 2606 👎 - Con
 Testifying:

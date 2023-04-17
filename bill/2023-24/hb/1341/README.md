@@ -11,7 +11,7 @@
 #### 14 👍 - Pro
 Testifying:
 * 💵Ezra Eickmeyer - Producers NW
-* Lukas Hunter - Harmony Farms
+* 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
 * Douglas Henderson - Painted Rooster Cannabis Co.
 * Eric Gaston - Evergreen Market
 * Patrick Wlaznak - Soulshine Development

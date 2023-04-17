@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Fri 03/17 08:00 AM - Environment, Energy & Technology (ENET): SHB 1117 Power supply inadequacy

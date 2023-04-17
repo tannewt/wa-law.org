@@ -12,7 +12,7 @@
 #### 45 👍 - Pro
 Testifying:
 * Colleen McAleer - Clallam Economic Development Council
-* Garry Clark - [Economic Alliance Snohomish County](/org/economic_alliance_snohomish_county/)
+* 💵Garry Clark - [Economic Alliance Snohomish County](/org/economic_alliance_snohomish_county/)
 * Suzanne Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)
 
 #### 0 👎 - Con
@@ -50,7 +50,7 @@ Testifying:
 Testifying:
 * 💵Lynnette Buffington - Greater Grays Harbor, Inc
 * Suzanne Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)
-* Garry Clark - [Economic Alliance Snohomish County](/org/economic_alliance_snohomish_county/)
+* 💵Garry Clark - [Economic Alliance Snohomish County](/org/economic_alliance_snohomish_county/)
 * Gina Stark - [Port of Bellingham](/org/port_of_bellingham/)
 * Jonathan Smith - Yakima County Development Association
 * Brant Mayo - Grant County Economic Development Council

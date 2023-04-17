@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): 2SHB 1728 Statewide resiliency program

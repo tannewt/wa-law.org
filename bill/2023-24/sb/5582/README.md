@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## Articles
 * [MyNorthwest](/org/mynorthwest/) - [Virginia Mason Franciscan Health lays off 400 workers - MyNorthwest.com](https://mynorthwest.com/3871365/virginia-mason-franciscan-health-lays-off-400-workers-nurses-struggle-demand-healthcare-workers/#:~:text=Senate Bill 5582)

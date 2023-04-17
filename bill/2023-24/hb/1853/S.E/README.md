@@ -1,0 +1,223 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1853](/bill/2023-24/hb/1853/) > [Engrossed Substitute](/bill/2023-24/hb/1853/S.E/)
+
+# HB 1853 - Transportation resources
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1853-S.E.pdf)
+
+## Section 1
+During the regular legislative session of 2022, the legislature passed Engrossed Substitute Senate Bill No. 5974 (chapter 182, Laws of 2022), a significant transportation resources bill intended to provide needed transportation funding throughout the state. However, since the enactment of that act, certain drafting errors and omissions were identified within the act resulting in some provisions being enacted contrary to legislative intent. Additionally, some corrective changes were identified that would better conform certain provisions with original legislative intent. Therefore, it is the intent of the legislature to simply correct manifest drafting errors and omissions and adopt corrective changes in order to conform certain provisions with the original legislative intent of Engrossed Substitute Senate Bill No. 5974 (chapter 182, Laws of 2022). It is not the intent of the legislature to alter the intended substantive policy enacted in Engrossed Substitute Senate Bill No. 5974 (chapter 182, Laws of 2022), but rather to make certain corrective changes.
+
+## Section 2
+1. A person who applies for a vehicle registration or for any other right to operate a vehicle on the highways of this state shall pay a 25 cent license plate technology fee in addition to any other fees and taxes required by law. The license plate technology fee must be distributed under RCW 46.68.370.
+
+2. A vehicle registered under RCW 46.16A.455 or 46.17.330 is not subject to the license plate technology fee, except for a vehicle subject to the fee under RCW 46.17.355.
+
+3. The revenue generated from subsection (2) of this section must be deposited in the move ahead WA account created in RCW 46.68.510.
+
+## Section 3
+1. A person who applies for a vehicle registration or for any other right to operate a vehicle on the highways of this state shall pay a 50 cent license service fee in addition to any other fees and taxes required by law. The license service fee must be distributed under RCW 46.68.220.
+
+2. A vehicle registered under RCW 46.16A.455 or 46.17.330 is not subject to the license service fee, except for a vehicle subject to the fee under RCW 46.17.355.
+
+3. The revenue generated from subsection (2) of this section must be deposited in the move ahead WA account created in RCW 46.68.510.
+
+## Section 4
+1. Cities that operate transit systems, county transportation authorities, metropolitan municipal corporations, public transportation benefit areas, high capacity transportation corridor areas, and regional transit authorities may submit an authorizing proposition to the voters and if approved by a majority of persons voting, fix and impose a sales and use tax in accordance with the terms of this chapter, solely for the purpose of providing high capacity transportation service.
+
+2. The tax authorized pursuant to this section is in addition to the tax authorized by RCW 82.14.030 and must be collected from those persons who are taxable by the state pursuant to chapters 82.08 and 82.12 RCW upon the occurrence of any taxable event within the taxing district.
+
+    a. Except for the tax imposed under (b) of this subsection by regional transit authorities that include a county with a population of more than 1,500,000, the maximum rate of such tax must be approved by the voters and may not exceed one percent of the selling price (in the case of a sales tax) or value of the article used (in the case of a use tax). The maximum rate of such tax that may be imposed may not exceed nine-tenths of one percent in any county that imposes a tax under RCW 82.14.340, or within a regional transit authority if any county within the authority imposes a tax under RCW 82.14.340.
+
+    b. The maximum rate of such tax that may be imposed by a regional transit authority that includes a county with a population of more than 1,500,000 must be approved by the voters and may not exceed 1.4 percent. If a regional transit authority imposes the tax authorized under this subsection (2)(b) in excess of 0.9 percent, the authority may not receive any state grant funds provided in an omnibus transportation appropriations act except transit coordination grants created in chapter 11, Laws of 2015 3rd sp. sess. and regional mobility grant program funds. To be eligible to receive regional mobility grant program funds, a regional transit authority must have adopted, at a minimum, a zero-fare policy that allows passengers 18 years of age and younger to ride free of charge on all modes provided by the authority by October 1, 2022.
+
+3. [Empty]
+
+    a. The exemptions in RCW 82.08.820 and 82.12.820 are for the state portion of the sales and use tax and do not extend to the tax authorized in this section.
+
+    b. The exemptions in RCW 82.08.962 and 82.12.962 are for the state and local sales and use taxes and include the tax authorized by this section.
+
+    c. The exemptions in RCW 82.14.532 are for the local sales and use taxes and include the tax authorized by this section.
+
+## Section 5
+1. A regional transit authority that includes a county with a population of more than 1,500,000 may impose a regular property tax levy in an amount not to exceed 25 cents per $1,000 of the assessed value of property in the regional transit authority district in accordance with the terms of this section.
+
+2. Any tax imposed under this section must be used for the purpose of providing high capacity transportation service, as set forth in a proposition that is approved by a majority of the registered voters that vote on the proposition.
+
+3. Property taxes imposed under this section may be imposed for the period of time required to pay the cost to plan, design, construct, operate, and maintain the transit facilities set forth in the approved proposition. Property taxes pledged to repay bonds may be imposed at the pledged amount until the bonds are retired. After the bonds are retired, property taxes authorized under this section must be:
+
+    a. Reduced to the level required to operate and maintain the regional transit authority's transit facilities; or
+
+    b. Terminated, unless the taxes have been extended by public vote.
+
+4. The limitations in RCW 84.52.043 do not apply to the tax authorized in this section.
+
+5. The limitation in RCW 84.55.010 does not apply to the first levy imposed under this section.
+
+6. If a regional transit authority imposes the tax authorized under subsection (1) of this section, the authority may not receive any state grant funds provided in an omnibus transportation appropriations act except transit coordination grants created in chapter 11, Laws of 2015 3rd sp. sess. and regional mobility grant program funds. To be eligible to receive regional mobility grant program funds, a regional transit authority must have adopted, at a minimum, a zero-fare policy that allows passengers 18 years of age and younger to ride free of charge on all modes provided by the authority by October 1, 2022.
+
+7. Property taxes imposed under this section may not be imposed on less than a whole parcel.
+
+## Section 6
+1. The legislature finds that many communities across Washington state have not equitably benefited from investments in the active transportation network. The legislature also finds that legacy state transportation facilities designed primarily for vehicle use caused disconnections in safe routes for people who walk, bike, and roll to work and to carry out other daily activities.
+
+2. To address these investment gaps, and to honor the legacy of community advocacy of Sandy Williams, the Sandy Williams connecting communities program is established within the department. The purpose of the program is to improve active transportation connectivity in communities by:
+
+    a. Providing safe, continuous routes for pedestrians, bicyclists, and other nonvehicle users carrying out their daily activities;
+
+    b. Mitigating for the health, safety, and access impacts of transportation infrastructure that bisects communities and creates obstacles in the local active transportation network;
+
+    c. Investing in greenways providing protected routes for a wide variety of nonvehicular users; and
+
+    d. Facilitating the planning, development, and implementation of projects and activities that will improve the connectivity and safety of the active transportation network.
+
+3. The department must select projects to propose to the legislature for funding. In selecting projects, the department must consider, at a minimum, the following criteria:
+
+    a. Access to a transit facility, community facility, commercial center, or community-identified assets;
+
+    b. The use of minority and women-owned businesses and community-based organizations in planning, community engagement, design, and construction of the project;
+
+    c. Whether the project will serve:
+
+        i. Overburdened communities as defined in RCW 70A.02.010 to mean a geographic area where vulnerable populations face combined, multiple environmental harms and health impacts, and includes, but is not limited to, highly impacted communities as defined in RCW 19.405.020;
+
+        ii. Vulnerable populations as defined in RCW 70A.02.010 to mean population groups that are more likely to be at higher risk for poor health outcomes in response to environmental harms, due to adverse socioeconomic factors, such as unemployment, high housing, and transportation costs relative to income, limited access to nutritious food and adequate health care, linguistic isolation, and other factors that negatively affect health outcomes and increase vulnerability to the effects of environmental harms; and sensitivity factors, such as low birth weight and higher rates of hospitalization. Vulnerable populations include, but are not limited to: Racial or ethnic minorities, low-income populations, populations disproportionately impacted by environmental harms, and populations of workers experiencing environmental harms;
+
+        iii. Household incomes at or below 200 percent of the federal poverty level; and
+
+        iv. People with disabilities;
+
+    d. Environmental health disparities, such as those indicated by the diesel pollution burden portion of the Washington environmental health disparities map developed by the department of health, or other similar indicators;
+
+    e. Location on or adjacent to tribal lands or locations providing essential services to tribal members;
+
+    f. Crash experience involving pedestrians and bicyclists; and
+
+    g. Identified need by the community, for example in the state active transportation plan or a regional, county, or community plan.
+
+4. It is the intent of the legislature that the Sandy Williams connecting communities program comply with the requirements of chapter 314, Laws of 2021.
+
+5. The department shall submit a report to the transportation committees of the legislature by December 1, 2022, and each December 1st thereafter identifying the selected connecting communities projects for funding by the legislature. The report must also include the status of previously funded projects.
+
+6. This section expires July 1, 2027.
+
+## Section 7
+1. The department shall establish a statewide school-based bicycle education grant program. The grant will support two programs: One for elementary and middle school; and one for junior high and high school aged youth to develop the skills and street safety knowledge to be more confident bicyclists for transportation and/or recreation. In development of the grant program, the department is encouraged to consult with the environmental justice council and the office of equity.
+
+2. [Empty]
+
+    a. For the elementary and middle school program, the department shall contract with a nonprofit organization with relevant reach and experience, including a statewide footprint and demonstrable experience deploying bicycling and road safety education curriculum via a train the trainer model in schools. The selected nonprofit shall identify partner schools that serve target populations, based on the criteria in subsection (3) of this section. Partner schools shall receive from the nonprofit: In-school bike and pedestrian safety education curriculum, materials, equipment guidance and consultation, and physical education teacher trainings. Youth grades three through eight are eligible for the program.
+
+    b. Selected school districts shall receive and maintain a fleet of bicycles for the youth in the program. Youth and families participating in the school-base bicycle education grant program shall have an opportunity to receive a bike, lock, helmet, and lights free of cost.
+
+3. For the junior high and high school program, the department shall contract with a nonprofit organization with relevant reach and experience, including a statewide footprint; demonstrable experience developing and managing youth-based programming serving youth of color in an after-school and/or community setting; and deploying bicycling and road safety education curriculum via a train the trainer model. The selected nonprofit shall use the equity-based criteria in subsection (4) of this section to identify target populations and partner organizations including, but not limited to, schools, community-based organizations, housing authorities, and parks and recreation departments, that work with the eligible populations of youth ages 14 to 18. Partner organizations shall receive from the nonprofit: Education curriculum, materials, equipment including, but not limited to, bicycles, helmets, locks, and lights, guidance and consultation, and initial instructor/volunteer training, as well as ongoing support.
+
+4. In selecting schools and partner organizations for the school-based bicycle education grant program, the department and nonprofit must consider, at a minimum, the following criteria:
+
+    a. Population impacted by poverty, as measured by free and reduced lunch population or 200 percent federal poverty level;
+
+    b. People of color;
+
+    c. People of Hispanic heritage;
+
+    d. People with disabilities;
+
+    e. Environmental health disparities, such as those indicated by the diesel pollution burden portion of the Washington environmental health disparities map developed by the department of health, or other similar indicators;
+
+    f. Location on or adjacent to an Indian reservation;
+
+    g. Geographic location throughout the state;
+
+    h. Crash experience involving pedestrians and bicyclists;
+
+    i. Access to a community facility or commercial center; and
+
+    j. Identified need in the state active transportation plan or a regional, county, or community plan.
+
+5. The department shall submit a report for both programs to the transportation committees of the legislature by December 1, 2022, and each December 1st thereafter identifying the selected programs and school districts for funding by the legislature. The report must also include the status of previously funded programs.
+
+## Section 8
+The Cooper Jones active transportation safety account is created in the state treasury. All receipts from penalties collected under RCW 46.63.170 shall be deposited into the account. Expenditures from the account may be used only to fund grant projects or programs for bicycle, pedestrian, and nonmotorist safety improvement administered by the Washington traffic safety commission. By December 1, 2024, and every two years thereafter, the commission shall report to the transportation committees of the legislature regarding the activities funded from the account. The account is subject to allotment procedures under chapter 43.88 RCW. Moneys in the account may be spent only after appropriation.
+
+## Section 9
+1. All earnings of investments of surplus balances in the state treasury shall be deposited to the treasury income account, which account is hereby established in the state treasury.
+
+2. The treasury income account shall be utilized to pay or receive funds associated with federal programs as required by the federal cash management improvement act of 1990. The treasury income account is subject in all respects to chapter 43.88 RCW, but no appropriation is required for refunds or allocations of interest earnings required by the cash management improvement act. Refunds of interest to the federal treasury required under the cash management improvement act fall under RCW 43.88.180 and shall not require appropriation. The office of financial management shall determine the amounts due to or from the federal government pursuant to the cash management improvement act. The office of financial management may direct transfers of funds between accounts as deemed necessary to implement the provisions of the cash management improvement act, and this subsection. Refunds or allocations shall occur prior to the distributions of earnings set forth in subsection (4) of this section.
+
+3. Except for the provisions of RCW 43.84.160, the treasury income account may be utilized for the payment of purchased banking services on behalf of treasury funds including, but not limited to, depository, safekeeping, and disbursement functions for the state treasury and affected state agencies. The treasury income account is subject in all respects to chapter 43.88 RCW, but no appropriation is required for payments to financial institutions. Payments shall occur prior to distribution of earnings set forth in subsection (4) of this section.
+
+4. Monthly, the state treasurer shall distribute the earnings credited to the treasury income account. The state treasurer shall credit the general fund with all the earnings credited to the treasury income account except:
+
+    a. The following accounts and funds shall receive their proportionate share of earnings based upon each account's and fund's average daily balance for the period: The abandoned recreational vehicle disposal account, the aeronautics account, the Alaskan Way viaduct replacement project account, the ambulance transport fund, the brownfield redevelopment trust fund account, the budget stabilization account, the capital vessel replacement account, the capitol building construction account, the Central Washington University capital projects account, the charitable, educational, penal and reformatory institutions account, the Chehalis basin account, the Chehalis basin taxable account, the cleanup settlement account, the climate active transportation account, the climate transit programs account, the Columbia river basin water supply development account, the Columbia river basin taxable bond water supply development account, the Columbia river basin water supply revenue recovery account, the common school construction fund, the community forest trust account, the connecting Washington account, the county arterial preservation account, the county criminal justice assistance account, the deferred compensation administrative account, the deferred compensation principal account, the department of licensing services account, the department of retirement systems expense account, the developmental disabilities community services account, the diesel idle reduction account, the drinking water assistance account, the administrative subaccount of the drinking water assistance account, the early learning facilities development account, the early learning facilities revolving account, the Eastern Washington University capital projects account, the education construction fund, the education legacy trust account, the election account, the electric vehicle account, the energy freedom account, the energy recovery act account, the essential rail assistance account, The Evergreen State College capital projects account, the fair start for kids account, the ferry bond retirement fund, the fish, wildlife, and conservation account, the freight mobility investment account, the freight mobility multimodal account, the grade crossing protective fund, the public health services account, the state higher education construction account, the higher education construction account, the higher education retirement plan supplemental benefit fund, the highway bond retirement fund, the highway infrastructure account, the highway safety fund, the hospital safety net assessment fund, the Interstate 405 and state route number 167 express toll lanes account, the judges' retirement account, the judicial retirement administrative account, the judicial retirement principal account, the limited fish and wildlife account, the local leasehold excise tax account, the local real estate excise tax account, the local sales and use tax account, the marine resources stewardship trust account, the medical aid account, the money-purchase retirement savings administrative account, the money-purchase retirement savings principal account, the motor vehicle fund, the motorcycle safety education account, the move ahead WA account, the move ahead WA flexible account, the multimodal transportation account, the multiuse roadway safety account, the municipal criminal justice assistance account, the oyster reserve land account, the pension funding stabilization account, the perpetual surveillance and maintenance account, the pilotage account, the pollution liability insurance agency underground storage tank revolving account, the public employees' retirement system plan 1 account, the public employees' retirement system combined plan 2 and plan 3 account, the public facilities construction loan revolving account, the public health supplemental account, the public works assistance account, the Puget Sound capital construction account, the Puget Sound ferry operations account, the Puget Sound Gateway facility account, the Puget Sound taxpayer accountability account, the real estate appraiser commission account, the recreational vehicle account, the regional mobility grant program account, the resource management cost account, the rural arterial trust account, the rural mobility grant program account, the rural Washington loan fund, the sexual assault prevention and response account, the site closure account, the skilled nursing facility safety net trust fund, the small city pavement and sidewalk account, the special category C account, the special wildlife account, the state investment board expense account, the state investment board commingled trust fund accounts, the state patrol highway account, the state reclamation revolving account, the state route number 520 civil penalties account, the state route number 520 corridor account, the statewide broadband account, the statewide tourism marketing account, the supplemental pension account, the Tacoma Narrows toll bridge account, the teachers' retirement system plan 1 account, the teachers' retirement system combined plan 2 and plan 3 account, the tobacco prevention and control account, the tobacco settlement account, the toll facility bond retirement account, the transportation 2003 account (nickel account), the transportation equipment fund, the JUDY transportation future funding program account, the transportation improvement account, the transportation improvement board bond retirement account, the transportation infrastructure account, the transportation partnership account, the traumatic brain injury account, the University of Washington bond retirement fund, the University of Washington building account, the voluntary cleanup account, the volunteer firefighters' and reserve officers' relief and pension principal fund, the volunteer firefighters' and reserve officers' administrative fund, the vulnerable roadway user education account, the Washington judicial retirement system account, the Washington law enforcement officers' and firefighters' system plan 1 retirement account, the Washington law enforcement officers' and firefighters' system plan 2 retirement account, the Washington public safety employees' plan 2 retirement account, the Washington school employees' retirement system combined plan 2 and 3 account, the Washington state patrol retirement account, the Washington State University building account, the Washington State University bond retirement fund, the water pollution control revolving administration account, the water pollution control revolving fund, the Western Washington University capital projects account, the Yakima integrated plan implementation account, the Yakima integrated plan implementation revenue recovery account, and the Yakima integrated plan implementation taxable bond account. Earnings derived from investing balances of the agricultural permanent fund, the normal school permanent fund, the permanent common school fund, the scientific permanent fund, and the state university permanent fund shall be allocated to their respective beneficiary accounts.
+
+    b. Any state agency that has independent authority over accounts or funds not statutorily required to be held in the state treasury that deposits funds into a fund or account in the state treasury pursuant to an agreement with the office of the state treasurer shall receive its proportionate share of earnings based upon each account's or fund's average daily balance for the period.
+
+5. In conformance with Article II, section 37 of the state Constitution, no treasury accounts or funds shall be allocated earnings without the specific affirmative directive of this section.
+
+## Section 10
+1. All earnings of investments of surplus balances in the state treasury shall be deposited to the treasury income account, which account is hereby established in the state treasury.
+
+2. The treasury income account shall be utilized to pay or receive funds associated with federal programs as required by the federal cash management improvement act of 1990. The treasury income account is subject in all respects to chapter 43.88 RCW, but no appropriation is required for refunds or allocations of interest earnings required by the cash management improvement act. Refunds of interest to the federal treasury required under the cash management improvement act fall under RCW 43.88.180 and shall not require appropriation. The office of financial management shall determine the amounts due to or from the federal government pursuant to the cash management improvement act. The office of financial management may direct transfers of funds between accounts as deemed necessary to implement the provisions of the cash management improvement act, and this subsection. Refunds or allocations shall occur prior to the distributions of earnings set forth in subsection (4) of this section.
+
+3. Except for the provisions of RCW 43.84.160, the treasury income account may be utilized for the payment of purchased banking services on behalf of treasury funds including, but not limited to, depository, safekeeping, and disbursement functions for the state treasury and affected state agencies. The treasury income account is subject in all respects to chapter 43.88 RCW, but no appropriation is required for payments to financial institutions. Payments shall occur prior to distribution of earnings set forth in subsection (4) of this section.
+
+4. Monthly, the state treasurer shall distribute the earnings credited to the treasury income account. The state treasurer shall credit the general fund with all the earnings credited to the treasury income account except:
+
+    a. The following accounts and funds shall receive their proportionate share of earnings based upon each account's and fund's average daily balance for the period: The abandoned recreational vehicle disposal account, the aeronautics account, the Alaskan Way viaduct replacement project account, the brownfield redevelopment trust fund account, the budget stabilization account, the capital vessel replacement account, the capitol building construction account, the Central Washington University capital projects account, the charitable, educational, penal and reformatory institutions account, the Chehalis basin account, the Chehalis basin taxable account, the cleanup settlement account, the climate active transportation account, the climate transit programs account, the Columbia river basin water supply development account, the Columbia river basin taxable bond water supply development account, the Columbia river basin water supply revenue recovery account, the common school construction fund, the community forest trust account, the connecting Washington account, the county arterial preservation account, the county criminal justice assistance account, the deferred compensation administrative account, the deferred compensation principal account, the department of licensing services account, the department of retirement systems expense account, the developmental disabilities community services account, the diesel idle reduction account, the drinking water assistance account, the administrative subaccount of the drinking water assistance account, the early learning facilities development account, the early learning facilities revolving account, the Eastern Washington University capital projects account, the education construction fund, the education legacy trust account, the election account, the electric vehicle account, the energy freedom account, the energy recovery act account, the essential rail assistance account, The Evergreen State College capital projects account, the fair start for kids account, the ferry bond retirement fund, the fish, wildlife, and conservation account, the freight mobility investment account, the freight mobility multimodal account, the grade crossing protective fund, the public health services account, the state higher education construction account, the higher education construction account, the higher education retirement plan supplemental benefit fund, the highway bond retirement fund, the highway infrastructure account, the highway safety fund, the hospital safety net assessment fund, the Interstate 405 and state route number 167 express toll lanes account, the judges' retirement account, the judicial retirement administrative account, the judicial retirement principal account, the limited fish and wildlife account, the local leasehold excise tax account, the local real estate excise tax account, the local sales and use tax account, the marine resources stewardship trust account, the medical aid account, the money-purchase retirement savings administrative account, the money-purchase retirement savings principal account, the motor vehicle fund, the motorcycle safety education account, the move ahead WA account, the move ahead WA flexible account, the multimodal transportation account, the multiuse roadway safety account, the municipal criminal justice assistance account, the oyster reserve land account, the pension funding stabilization account, the perpetual surveillance and maintenance account, the pilotage account, the pollution liability insurance agency underground storage tank revolving account, the public employees' retirement system plan 1 account, the public employees' retirement system combined plan 2 and plan 3 account, the public facilities construction loan revolving account, the public health supplemental account, the public works assistance account, the Puget Sound capital construction account, the Puget Sound ferry operations account, the Puget Sound Gateway facility account, the Puget Sound taxpayer accountability account, the real estate appraiser commission account, the recreational vehicle account, the regional mobility grant program account, the resource management cost account, the rural arterial trust account, the rural mobility grant program account, the rural Washington loan fund, the sexual assault prevention and response account, the site closure account, the skilled nursing facility safety net trust fund, the small city pavement and sidewalk account, the special category C account, the special wildlife account, the state investment board expense account, the state investment board commingled trust fund accounts, the state patrol highway account, the state reclamation revolving account, the state route number 520 civil penalties account, the state route number 520 corridor account, the statewide broadband account, the statewide tourism marketing account, the supplemental pension account, the Tacoma Narrows toll bridge account, the teachers' retirement system plan 1 account, the teachers' retirement system combined plan 2 and plan 3 account, the tobacco prevention and control account, the tobacco settlement account, the toll facility bond retirement account, the transportation 2003 account (nickel account), the transportation equipment fund, the JUDY transportation future funding program account, the transportation improvement account, the transportation improvement board bond retirement account, the transportation infrastructure account, the transportation partnership account, the traumatic brain injury account, the University of Washington bond retirement fund, the University of Washington building account, the voluntary cleanup account, the volunteer firefighters' and reserve officers' relief and pension principal fund, the volunteer firefighters' and reserve officers' administrative fund, the vulnerable roadway user education account, the Washington judicial retirement system account, the Washington law enforcement officers' and firefighters' system plan 1 retirement account, the Washington law enforcement officers' and firefighters' system plan 2 retirement account, the Washington public safety employees' plan 2 retirement account, the Washington school employees' retirement system combined plan 2 and 3 account, the Washington state patrol retirement account, the Washington State University building account, the Washington State University bond retirement fund, the water pollution control revolving administration account, the water pollution control revolving fund, the Western Washington University capital projects account, the Yakima integrated plan implementation account, the Yakima integrated plan implementation revenue recovery account, and the Yakima integrated plan implementation taxable bond account. Earnings derived from investing balances of the agricultural permanent fund, the normal school permanent fund, the permanent common school fund, the scientific permanent fund, and the state university permanent fund shall be allocated to their respective beneficiary accounts.
+
+    b. Any state agency that has independent authority over accounts or funds not statutorily required to be held in the state treasury that deposits funds into a fund or account in the state treasury pursuant to an agreement with the office of the state treasurer shall receive its proportionate share of earnings based upon each account's or fund's average daily balance for the period.
+
+5. In conformance with Article II, section 37 of the state Constitution, no treasury accounts or funds shall be allocated earnings without the specific affirmative directive of this section.
+
+## Section 11
+The following words and phrases, wherever used in this title, shall have the meaning as in this section ascribed to them, unless where used the context thereof shall clearly indicate to the contrary or unless otherwise defined in the chapter of which they are a part:
+
+## Section 12
+1. The department shall establish a transit support grant program for the purpose of providing financial support to transit agencies for operating and capital expenses only. Public transit agencies must maintain or increase their local sales tax authority on or after January 1, 2022, in order to qualify for the grants.
+
+    a. Grants for transit agencies must be prorated based on the amount expended for operations in the most recently published report of "Summary of Public Transportation" published by the department.
+
+    b. No transit agency may receive more than 35 percent of these distributions.
+
+    c. Fuel type may not be a factor in the grant selection process.
+
+2. To be eligible to receive a grant, the transit agency must have adopted, at a minimum, a zero-fare policy that allows passengers 18 years of age and younger to ride free of charge on all modes provided by the agency. Transit agencies must submit documentation of a zero-fare policy for 18 years of age and under by October 1, 2022, to be eligible for the 2023-2025 biennium. Transit agencies that submit such fare policy documentation following the October 1, 2022, deadline shall become eligible for the next biennial distribution. To the extent practicable, transit agencies shall align implementation of youth zero-fare policies with equity and environmental justice principles consistent with recommendations from the environmental justice council, and ensure low-barrier accessibility of the program to all youth.
+
+3. The department shall, for the purposes of the "Summary of Public Transportation" report, require grantees to report the number of trips that were taken under this program.
+
+4. For the purposes of this section, "transit agency" or "agency" means a city transit system under RCW 35.58.2721 or chapter 35.95A RCW, a county public transportation authority under chapter 36.57 RCW, a metropolitan municipal corporation transit system under chapter 36.56 RCW, a public transportation benefit area under chapter 36.57A RCW, an unincorporated transportation benefit area under RCW 36.57.100, or any special purpose district formed to operate a public transportation system.
+
+## Section 13
+1. Interagency electric vehicle coordinating council responsibilities include, but are not limited to:
+
+    a. Development of a statewide transportation electrification strategy to ensure market and infrastructure readiness for all new vehicle sales;
+
+    b. Identification of all electric vehicle infrastructure grant-related funding to include existing and future opportunities, including state, federal, and other funds, and also nongrant-related funding, including revenues generated by an electric utility from credits under the clean fuels program for transportation electrification programs or projects pursuant to RCW 70A.535.080(2);
+
+    c. Coordination of grant funding criteria across agency grant programs to most efficiently distribute state and federal electric vehicle-related funding in a manner that is most beneficial to the state, advances best practices, and recommends additional criteria that could be useful in advancing transportation electrification;
+
+    d. Development of a robust public and private outreach plan that includes engaging with:
+
+        i. Community organizers and the environmental justice council to develop community-driven programs to address zero emissions transportation needs and priorities in overburdened communities; and
+
+        ii. Local governments to explore procurement opportunities and work with local government and community programs to support electrification;
+
+    e. Creation of an industry electric vehicle advisory committee; and
+
+    f. Ensuring the statewide transportation electrification strategy, grant distribution, programs, and activities associated with advancing transportation electrification benefit vulnerable and overburdened communities.
+
+2. The council shall provide an annual report to the appropriate committees of the legislature summarizing electric vehicle implementation progress, gaps, and resource needs.
+
+## Section 14
+Sections 4 and 5 of this act are remedial in nature and apply retroactively to July 1, 2022.
+
+## Section 15
+RCW 47.24.060 is recodified as a section in chapter 47.04 RCW.
+
+## Section 16
+Section 9 of this act expires July 1, 2024.
+
+## Section 17
+Section 10 of this act takes effect July 1, 2024.
+
+## Section 18
+Sections 2 and 3 of this act take effect October 1, 2023.

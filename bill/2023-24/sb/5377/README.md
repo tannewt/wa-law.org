@@ -12,7 +12,7 @@
 #### 23 👍 - Pro
 Testifying:
 * Becca Burghardi - Northwest Cannabis Solutions
-* Lukas Hunter - Harmony Farms
+* 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
 * 💵Brooke Davies - Washington CannaBusiness Association
 * 💵Ezra Eickmeyer - Producers NW
 * Andy Brassington - Evergreen Herbal
@@ -28,7 +28,7 @@ Testifying:
 ### Thu 02/09 08:00 AM - Labor & Commerce (LC): SB 5377 Cannabis license ownership
 #### 11 👍 - Pro
 Testifying:
-* Lukas Hunter - Harmony Farms
+* 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
 * 💵Ezra Eickmeyer - Producers NW
 * 💵Vicki Christophersen - Washington CannaBusiness Association
 * Eric Gaston - Evergreen Market

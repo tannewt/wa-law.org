@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## Meetings
 ### Wed 03/15 08:00 AM - Higher Education & Workforce Development (HEWD): 2SHB 1522 Sexual misconduct/assocs.

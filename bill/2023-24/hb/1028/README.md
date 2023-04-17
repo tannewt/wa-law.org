@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## Articles
 * [Crosscut](/org/crosscut/) - [WA bill would bring trauma-informed practices to sexual assault cases | Crosscut](https://crosscut.com/politics/2023/03/wa-bill-would-bring-trauma-informed-practices-sexual-assault-cases#:~:text=House Bill 1028)

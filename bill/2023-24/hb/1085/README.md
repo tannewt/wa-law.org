@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Articles
 * [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Priority Bills -- current status — Quaker Voice](https://www.quakervoicewa.org/priority-bills-current-status/#:~:text=1085)
@@ -42,7 +43,7 @@ Testifying:
 #### 275 👍 - Pro
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
-* 💵Ezra Eickmeyer - Terramer Inc
+* 💵Ezra Eickmeyer - [Terramer Inc](/org/terramer_inc/)
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 2 👎 - Con

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Tue 03/21 08:00 AM - Health & Long Term Care (HLTC): SHB 1683 Dental only coverage

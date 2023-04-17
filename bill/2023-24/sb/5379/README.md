@@ -23,7 +23,7 @@ Testifying:
 * Michael Cade - Thurston Economic Development Council
 * Suzanne Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)
 * Colleen McAleer - Clallam County Economic Development Council
-* Garry Clark - [Economic Alliance Snohomish County](/org/economic_alliance_snohomish_county/)
+* 💵Garry Clark - [Economic Alliance Snohomish County](/org/economic_alliance_snohomish_county/)
 * Jennie Dickinson - Port of Columbia
 * Karl Dye - Tri-City Development Council
 * Roni Rholderdiefenbach@economi - Economic Alliance (Okanogan County)

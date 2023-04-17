@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## Articles
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Bill creating magic mushrooms regulation task forces passes the state Senate | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/09/bill-creating-magic-mushrooms-regulation-task-forc/#:~:text=Senate Bill 5263)

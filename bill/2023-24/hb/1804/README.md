@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Mon 02/20 01:30 PM - Appropriations (APP): HB 1804 PEBB/subdivision retirees

@@ -62,7 +62,7 @@ Testifying:
 * Jessi Wasson - Inspire Washington
 * Manuel R. Cawaling - Inspire Washington
 * 💵Courtney Williams - [Community Employment Alliance](/org/community_employment_alliance/)
-* Carissa Hahn - CWA/WashTech
+* 💵Carissa Hahn - CWA/WashTech
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Bonnie Stern Wasser - OneAmerica
 * Lynn Urvina - WA State Kinship Oversight Committee
@@ -80,7 +80,7 @@ Testifying:
 * 💵Katrina Johnson
 * Amanda Kim - [Balance Our Tax Code](/org/balance_our_tax_code/)
 * 💵Marian Dacca - Washington Public Ports Assn.
-* Carissa Hahn - CWA/WashTech
+* 💵Carissa Hahn - CWA/WashTech
 * Brandon Mack - Judge for Jefferson County Superior Court
 * Kelly Warner-King - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * Michael Mirra - Family Treatment Court Advisory Board

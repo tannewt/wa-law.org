@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Tue 03/21 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SHB 1621 Local government procurement

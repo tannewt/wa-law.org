@@ -42,7 +42,7 @@ Testifying:
 ### Fri 02/10 10:30 AM - Higher Education & Workforce Development (HEWD): SB 5711 College grant eligibility
 #### 27 👍 - Pro
 Testifying:
-* Madeline Sprute - Associated Students of Tacoma Community College
+* 💵Madeline Sprute - Associated Students of Tacoma Community College
 * Becky Thompson - Washington Student Achievement Council
 * Jacob Katz - SBCTC
 * Yokiko Hayashi-Saguil - SBCTC

@@ -20,7 +20,7 @@
 Testifying:
 * Nicole Mazen - Amara
 * 💵Joel Anderson - University of Washington Graduate and Professional Student Senate
-* Madeline Sprute - Associated Students of Tacoma Community College
+* 💵Madeline Sprute - Associated Students of Tacoma Community College
 * Baydaa Alshatee - SBCTC
 * Jacob Katz - SBCTC
 * Jennifer Dellinger - SBCTC
@@ -35,7 +35,7 @@ Testifying:
 #### 32 👍 - Pro
 Testifying:
 * 💵Joel Anderson - University of Washington Graduate and Professional Student Senate
-* Madeline Sprute - Tacoma Community College
+* 💵Madeline Sprute - Tacoma Community College
 * Arlen Harris - SBCTC
 
 #### 0 👎 - Con
@@ -52,7 +52,7 @@ Testifying:
 * 💵Alex Davidson - The Associated Students of the University of Washington
 * Adán Mendoza-Sandoval - VP, WA Student Association
 * 💵Sopeara Chay - South Puget Sound Community College
-* Madeline Sprute - Associated Students of Tacoma Community College
+* 💵Madeline Sprute - Associated Students of Tacoma Community College
 
 #### 0 👎 - Con
 

@@ -56,3 +56,5 @@
 ## [SB 5509](/bill/2023-24/sb/5509/) - Public infrastructure bank 👍1  
 
 ## [SB 5625](/bill/2023-24/sb/5625/) - Public employee retirees 👍1  
+
+## [SB 5768](/bill/2023-24/sb/5768/) - DOC/abortion medications 👍1  
