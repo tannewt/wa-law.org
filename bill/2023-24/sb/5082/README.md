@@ -10,10 +10,13 @@
 * [Passed Legislature](S.PL/)
 
 ## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [With 10 days to go, some bills fall by the wayside in Olympia | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/with-10-days-to-go-some-bills-fall-by-the-wayside-in-olympia/#:~:text=Senate Bill 5082)
+* [MyNorthwest](/org/mynorthwest/) - [Washington House passes bill to eliminate advisory votes on tax increases - MyNorthwest.com](https://mynorthwest.com/3814763/washington-senate-eliminate-public-vote-tax-increases/#:~:text=SB 5082)
 * [The Seattle Times](/org/the_seattle_times/) - [Boot confusing advisory votes from WA ballots | The Seattle Times](https://www.seattletimes.com/opinion/editorials/boot-confusing-advisory-votes-from-wa-ballots/#:~:text=Senate Bill 5082)
 * [The Seattle Times](/org/the_seattle_times/) - [Lawmakers convene in Olympia for first day of 2023 Legislature | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/lawmakers-convene-in-olympia-for-first-day-of-2023-legislature/#:~:text=SB 5082)
 * [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=Senate Bill 5082)
 * [KIRO7](/org/kiro7/) - [State lawmakers pass bill to remove advisory votes from Washington ballots – KIRO 7 News Seattle](https://www.kiro7.com/news/local/state-lawmakers-pass-bill-remove-advisory-votes-washington-ballots/W5GFVDOO2VA73IHFUDIIRNTLP4/#:~:text=House Bill 5082)
+* [The Spokesman-Review](/org/the_spokesman-review/) - ['It’s time to end the failed experiment': Bill to repeal advisory votes heads to Inslee's desk | The Spokesman-Review](https://www.spokesman.com/stories/2023/apr/12/its-time-to-end-the-failed-experiment-bill-to-repe/#:~:text=Senate Bill 5082)
 
 ## Meetings
 ### Fri 03/10 08:00 AM - State Government & Tribal Relations (SGOV): ESSB 5082 Advisory votes

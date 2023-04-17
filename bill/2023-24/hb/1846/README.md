@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Beached ferry reminder of WA’s aging fleet as state struggles to replace boats | The Seattle Times](https://www.seattletimes.com/seattle-news/transportation/beached-ferry-reminder-of-was-aging-fleet-as-state-struggles-to-replace-boats/#:~:text=House Bill 1846)
+
 ## Meetings
 ### Mon 03/20 04:00 PM - Transportation (TR): HB 1846 Ferry vessel procurement
 #### 5 👍 - Pro

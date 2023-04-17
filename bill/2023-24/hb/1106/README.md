@@ -9,6 +9,9 @@
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Child care fall through? You might be able to get unemployment in WA | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/child-care-fall-through-you-might-be-able-to-get-unemployment-in-wa/#:~:text=House Bill 1106)
+
 ## Meetings
 ### Thu 03/16 08:00 AM - Labor & Commerce (LC): ESHB 1106 Unemployment/voluntary
 #### 48 👍 - Pro

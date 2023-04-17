@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## Articles
+* [MyNorthwest](/org/mynorthwest/) - [Rantz: WA Democrats ban 'hyper-masculine' guns while freeing criminals - MyNorthwest.com](https://mynorthwest.com/3872332/rantz-washington-democrats-ban-guns-violent-criminals-out-of-jail-assault-weapons/#:~:text=HB 1268)
 * [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Criminal Justice — Quaker Voice](https://www.quakervoicewa.org/criminal-justice/#:~:text=HB 1268)
 * [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Priority Bills -- current status — Quaker Voice](https://www.quakervoicewa.org/priority-bills-current-status/#:~:text=1268)
 * [MyNorthwest](/org/mynorthwest/) - [Rantz: Democrat bill goes easy on school shooters, campus drug deals - MyNorthwest.com](https://mynorthwest.com/3854363/rantz-democrat-bill-easy-school-shooters-campus-drug-deals/#:~:text=HB 1268)

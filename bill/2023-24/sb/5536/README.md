@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [WA House votes to keep drug possession a misdemeanor | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-house-votes-to-keep-drug-possession-a-misdemeanor/#:~:text=Senate Bill 5536)
 * [The Seattle Times](/org/the_seattle_times/) - [Pass compromise bill on illicit drug possession | The Seattle Times](https://www.seattletimes.com/opinion/editorials/pass-compromise-bill-on-illicit-drug-possession/#:~:text=Senate Bill 5536)
 * [The Seattle Times](/org/the_seattle_times/) - [WA Legislature forges ahead on assault weapons ban, new drug law | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-legislature-forges-ahead-on-assault-weapons-ban-new-drug-law/#:~:text=Senate Bill 5536)
 * [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers start remake of drug possession laws | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-lawmakers-start-remake-of-drug-possession-laws/#:~:text=Senate Bill 5536)
@@ -19,6 +20,7 @@
 * [KUOW](/org/kuow/) - [KUOW - WA lawmakers move treatment over jail time to the House](https://www.kuow.org/stories/wa-lawmakers-move-treatment-over-jail-time-to-the-house#:~:text=Senate Bill 5536)
 * [KUOW](/org/kuow/) - [KUOW - WA lawmakers pass housing, firearm bills ahead of cutoff, leave rent control, recycling bills behind](https://www.kuow.org/stories/wa-lawmakers-pass-housing-firearm-bills-ahead-of-cutoff-leave-rent-control-recycling-bills-behind#:~:text=Senate Bill 5536)
 * [KUOW](/org/kuow/) - [KUOW - Washington's next drug law could let accused choose treatment, services over jail time](https://www.kuow.org/stories/washington-s-next-drug-law-could-let-accused-choose-treatment-services#:~:text=Senate Bill 5536)
+* [The Spokesman-Review](/org/the_spokesman-review/) - [Washington House passes latest bill to fix state's drug possession law after debate stretches into wee hours | The Spokesman-Review](https://www.spokesman.com/stories/2023/apr/12/washington-house-passes-latest-bill-to-fix-states-/#:~:text=Senate Bill 5536)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Washington Senate passes bill making drug possession a gross misdemeanor | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/06/washington-senate-passes-bill-making-drug-possessi/#:~:text=Senate Bill 5536)
 * [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=E2SB 5536)
 

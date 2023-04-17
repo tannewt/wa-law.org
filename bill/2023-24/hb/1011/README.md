@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [MyNorthwest](/org/mynorthwest/) - [Long-term health care tax debated in WA Legislature - MyNorthwest.com](https://mynorthwest.com/3874299/long-term-health-care-tax-debated-wa-legislature/#:~:text=HB-1011,)
+
 ## Meetings

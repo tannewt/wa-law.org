@@ -39,9 +39,9 @@ EXCLUDE = {
 
 session = url_history.HistorySession("org-website.db")
 
-after_date = arrow.get(2022, 12, 1)
+after_date = arrow.get(2023, 4, 1)
 
-FETCH_NEW = False
+FETCH_NEW = True
 
 link_count = 0
 leg_links = 0
@@ -72,6 +72,7 @@ for org_rowid, domain in org_cur:
     crawl_delay = rp.crawl_delay("*")
     if not crawl_delay:
         crawl_delay = 0
+    crawl_delay = min(10, crawl_delay)
 
     if rp.request_rate("*"):
         raise NotImplementedError()
@@ -122,8 +123,13 @@ for org_rowid, domain in org_cur:
                 # Don't bother with old stuff yet.
                 if lastmod < after_date:
                     continue
+            url_loc = url.loc.text
+            if "capitolhill" in url_loc and "/2023/" not in url_loc:
+                continue
+            if "kuow.org" in url_loc and url_loc.count("http") > 1:
+                url_loc = url_loc[url_loc.index("http", 6):]
             # print(url.loc.text)
-            pages.add(url.loc.text)
+            pages.add(url_loc)
         # if len(pages) > 100:
         #     break
     print()

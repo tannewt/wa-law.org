@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [MyNorthwest](/org/mynorthwest/) - [WA Uber, Lyft drivers getting paid family, medical leave benefits - MyNorthwest.com](https://mynorthwest.com/3874034/uber-lyft-drivers-in-wa-getting-paid-family-medical-leave-benefits/#:~:text=HB 1570)
+
 ## Meetings
 ### Mon 03/13 10:30 AM - Labor & Commerce (LC): SHB 1570 TNC insurance programs
 #### 17 👍 - Pro

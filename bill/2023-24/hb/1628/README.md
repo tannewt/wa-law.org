@@ -9,6 +9,9 @@
 * [Second Substitute](S2/)
 
 ## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers consider tax increases as session nears end | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-lawmakers-eye-tax-increases-as-session-nears-end/#:~:text=House Bill 1628)
+* [The Seattle Times](/org/the_seattle_times/) - [WA housing advocates, Realtors clash over proposed real estate tax hikes | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-housing-advocates-realtors-clash-over-proposed-real-estate-tax-hikes/#:~:text=House Bill 1628)
+* [The Seattle Times](/org/the_seattle_times/) - [Collaboration, funding are key to unlock more affordable housing | The Seattle Times](https://www.seattletimes.com/opinion/collaboration-funding-are-key-to-unlock-more-affordable-housing/#:~:text=House Bill 1628,)
 * [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB 1628)
 * [Crosscut](/org/crosscut/) - [WA looks to address housing shortage with density, zoning changes | Crosscut](https://crosscut.com/politics/2023/03/wa-looks-address-housing-shortage-density-zoning-changes#:~:text=House Bill 1628)
 * [Crosscut](/org/crosscut/) - [WA looks to address housing shortage with density, zoning changes | Crosscut](https://crosscut.com/politics/2023/03/washington-has-shot-passing-massive-housing-reform-package#:~:text=House Bill 1628)

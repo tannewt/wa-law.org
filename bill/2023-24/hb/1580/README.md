@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Lawmakers pass bill to change how WA cares for youth stuck in hospitals | The Seattle Times](https://www.seattletimes.com/seattle-news/mental-health/lawmakers-pass-bill-to-change-how-wa-cares-for-youth-stuck-in-hospitals/#:~:text=House Bill 1580)
+
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): 2SHB 1580 Children in crisis
 #### 88 👍 - Pro

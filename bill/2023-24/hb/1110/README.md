@@ -10,6 +10,8 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Articles
+* [The Urbanist](/org/the_urbanist/) - [Missing Middle Housing, ADU, and Design Review Reforms Pass Second Chamber | The Urbanist](https://www.theurbanist.org/2023/04/12/missing-middle-housing-adu-and-design-review-reforms-pass-second-chamber/#:~:text=HB 1110)
+* [The Seattle Times](/org/the_seattle_times/) - [WA Senate passes bill allowing duplexes, fourplexes in single-family zones | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-senate-passes-bill-allowing-duplexes-fourplexes-in-single-family-zones/#:~:text=House Bill 1110)
 * [The Urbanist](/org/the_urbanist/) - [State Lawmakers Must Pass Middle Housing Bill and Strip Poison Pill from TOD Bill | The Urbanist](https://www.theurbanist.org/2023/04/06/state-lawmakers-must-pass-middle-housing-bill-and-strip-poison-pill-from-tod-bill/#:~:text=House Bill 1110)
 * [PubliCola](/org/publicola/) - [House Democrats Cede Ground on Density, Scaling Back Transit-Oriented Development Bill - PubliCola](https://publicola.com/2023/04/05/house-democrats-cede-ground-on-density-scaling-back-transit-oriented-development-bill/#:~:text=HB 1110)
 * [The Urbanist](/org/the_urbanist/) - [Legislature Advances Narrower TOD and Missing Middle Bills | The Urbanist](https://www.theurbanist.org/2023/04/05/legislature-advances-narrower-tod-and-missing-middle-bills/#:~:text=HB 1110)
@@ -46,8 +48,12 @@
 * [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=House Bill 1110)
 * [Crosscut](/org/crosscut/) - [WA looks to address housing shortage with density, zoning changes | Crosscut](https://crosscut.com/politics/2023/03/wa-looks-address-housing-shortage-density-zoning-changes#:~:text=House Bill 1110)
 * [Crosscut](/org/crosscut/) - [WA looks to address housing shortage with density, zoning changes | Crosscut](https://crosscut.com/politics/2023/03/washington-has-shot-passing-massive-housing-reform-package#:~:text=House Bill 1110)
+* [Crosscut](/org/crosscut/) - [WA Senate passes "missing middle" bill to increase housing density | Crosscut](https://crosscut.com/politics/2023/04/wa-senate-passes-missing-middle-bill-increase-housing-density#:~:text=House Bill 1110)
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Housing & Homelessness](https://crosscut.com/voter-guide/2023-legislative-tracker/election/housing-homelessness#:~:text=House Bill 1110)
+* [PubliCola](/org/publicola/) - [Legislature Scales Back One Pro-Housing Bill While Shelving Another - PubliCola](https://publicola.com/2023/04/14/legislature-scales-back-one-pro-housing-bill-while-shelving-another/#:~:text=HB 1110)
 * [KING5](/org/king5/) - [Washington bill has lawmakers mulling over 'middle housing' | king5.com](https://www.king5.com/article/news/politics/state-politics/washington-bill-middle-housing/281-b8a2cfe3-99ba-4eb5-9856-ae2c7e41ad38#:~:text=House Bill 1110)
+* [KUOW](/org/kuow/) - [KUOW - Coming Soon: Middle housing in WA](https://www.kuow.org/stories/coming-soon-middle-housing-in-wa-fccc#:~:text=House Bill 1110)
+* [KUOW](/org/kuow/) - [KUOW - Washington's 'middle housing' bill has been tweaked a bit. Here's what's in it now](https://www.kuow.org/stories/hb-1110-increasing-density-one-duplex-at-a-time#:~:text=House Bill 1110)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Bill to limit single-family housing in Washington picks up steam with House passage | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/07/bill-to-limit-single-family-housing-in-washington-/#:~:text=House Bill 1110)
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 6 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02142023#:~:text=H.B. 1110)
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 10 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate031323#:~:text=H.B. 1110)

@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## Articles
+* [MyNorthwest](/org/mynorthwest/) - [Search for new Washington airport location likely to start over - MyNorthwest.com](https://mynorthwest.com/3874896/search-new-airport-western-washington-starting-over/#:~:text=Engrossed Substitute House Bill 1791)
 * [South Seattle Emerald](/org/south_seattle_emerald/) - [Local and State Legislation Hope to Address Environmental Impacts From Airports | South Seattle Emerald](https://southseattleemerald.com/2023/03/27/local-and-state-legislation-hope-to-address-environmental-impacts-from-airports/#:~:text=House Bill 1791)
 
 ## Meetings

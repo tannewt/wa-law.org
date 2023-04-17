@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Articles
+* [MyNorthwest](/org/mynorthwest/) - [Rantz: WA Democrats ban 'hyper-masculine' guns while freeing criminals - MyNorthwest.com](https://mynorthwest.com/3872332/rantz-washington-democrats-ban-guns-violent-criminals-out-of-jail-assault-weapons/#:~:text=HB 1189)
 * [MyNorthwest](/org/mynorthwest/) - [Rantz: Bill by WA Democrats releases scores of murderers from jail early - MyNorthwest.com](https://mynorthwest.com/3861743/rantz-bill-washington-democrat-bill-release-murderers-jail-early/#:~:text=HB 1189)
 
 ## Meetings

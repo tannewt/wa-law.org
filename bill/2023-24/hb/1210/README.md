@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Senate Passes Preventing Gun Violence Legislation in Week 13 Report - WSPTA](https://www.wastatepta.org/senate-passes-preventing-gun-violence-legislation-in-week-13-report/#:~:text=HB 1210)
+
 ## Meetings
 ### Fri 02/17 08:00 AM - State Government & Elections (SGE): EHB 1210 School board recordings
 #### 4 👍 - Pro

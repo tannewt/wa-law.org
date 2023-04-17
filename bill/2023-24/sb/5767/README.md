@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [MyNorthwest](/org/mynorthwest/) - [Rantz: WA Democrats push abusive new tax on jobs they say earn too much - MyNorthwest.com](https://mynorthwest.com/3871407/rantz-wa-democrats-push-abusive-new-tax-on-jobs-they-say-earn-too-much/#:~:text=SB 5767)
+
 ## Meetings

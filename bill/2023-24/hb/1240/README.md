@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 
 ## Articles
+* [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | Assault Weapons Ban Clears Washington State Senate | South Seattle Emerald](https://southseattleemerald.com/2023/04/10/news-gleams-assault-weapons-ban-clears-washington-state-senate/#:~:text=House Bill 1240)
+* [MyNorthwest](/org/mynorthwest/) - [Rantz: WA Democrats ban 'hyper-masculine' guns while freeing criminals - MyNorthwest.com](https://mynorthwest.com/3872332/rantz-washington-democrats-ban-guns-violent-criminals-out-of-jail-assault-weapons/#:~:text=House Bill 1240)
+* [MyNorthwest](/org/mynorthwest/) - [Ross: Lynnwood councilmember vows to 'stop the dithering' on gun control - MyNorthwest.com](https://mynorthwest.com/3872541/ross-lynnwood-councilmember-vows-to-stop-the-dithering-on-gun-control/#:~:text=House Bill 1240)
 * [The Seattle Times](/org/the_seattle_times/) - [Assault weapon ban clears WA state Senate | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/assault-weapon-ban-clears-wa-state-senate/#:~:text=House Bill 1240)
 * [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers cite Nashville school shooting as they advance assault weapon ban, other gun restrictions | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-lawmakers-cite-nashville-school-shooting-as-they-advance-assault-weapon-ban-other-gun-restrictions/#:~:text=House Bill 1240)
 * [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=SHB 1240)
@@ -19,6 +22,7 @@
 * [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=House Bill 1240)
 * [Crosscut](/org/crosscut/) - [Rifle ban among gun-control bills advancing in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/02/rifle-ban-among-gun-control-bills-advancing-wa-legislature#:~:text=House Bill 1240)
 * [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=House Bill 1240)
+* [Crosscut](/org/crosscut/) - [Washington Senate passes ban on assault-style rifles | Crosscut](https://crosscut.com/politics/2023/04/washington-senate-passes-ban-assault-style-rifles#:~:text=HB 1240)
 * [MyNorthwest](/org/mynorthwest/) - [Lynnwood embroiled in debate over WA assault weapon ban - MyNorthwest.com](https://mynorthwest.com/3871833/lynnwood-embroiled-internal-city-council-debate-state-wide-assault-weapon-ban/#:~:text=House Bill 1240)
 * [KING5](/org/king5/) - [Assault weapons may soon be banned from being sold, manufactured in Washington | king5.com](https://www.king5.com/article/news/politics/assault-weapons-may-soon-be-banned-being-sold-washington/281-85f632aa-793b-4493-b07d-b573f7dc5f83#:~:text=House Bill 1240)
 * [KING5](/org/king5/) - [Assault weapon ban passes Washington state Senate | king5.com](https://www.king5.com/article/news/politics/state-politics/assault-weapon-ban-passes-senate-to-house-concurrence/281-4400321f-2822-4685-9fae-05a0f1cb1ef8#:~:text=House Bill 1240)
@@ -31,6 +35,7 @@
 * [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=HB 1240)
 * [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=SHB 1240)
 * [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SHB 1240)
+* [Washington St Pta](/org/washington_st_pta/) - [Senate Passes Preventing Gun Violence Legislation in Week 13 Report - WSPTA](https://www.wastatepta.org/senate-passes-preventing-gun-violence-legislation-in-week-13-report/#:~:text=SHB 1240)
 
 ## Meetings
 ### Thu 03/23 08:00 AM - Law & Justice (LAW): SHB 1240 Firearms/assault weapons

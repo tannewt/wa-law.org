@@ -10,6 +10,7 @@
 
 ## Articles
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Other Topics](https://crosscut.com/voter-guide/2023-legislative-tracker/election/other-topics#:~:text=Senate Bill 5371)
+* [KING5](/org/king5/) - [Southern Resident orca protection bill passes House | king5.com](https://www.king5.com/article/life/animals/southern-resident-orca-bill-passes-house/281-5eda670b-e100-43c9-9f4e-b7fc5393257e#:~:text=Senate Bill 5371)
 
 ## Meetings
 ### Mon 04/03 09:00 AM - Appropriations (APP): ESSB 5371 Orca vessel protection

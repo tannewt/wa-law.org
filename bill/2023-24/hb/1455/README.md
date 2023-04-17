@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Minors can still get married in WA, though some want that to change | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/minors-can-still-get-married-in-wa-though-some-want-that-to-change/#:~:text=House Bill 1455)
+
 ## Meetings
 ### Tue 01/31 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1455 Child marriage
 #### 73 👍 - Pro

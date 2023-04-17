@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Post McCleary, WA school funding doesn’t add up | The Seattle Times](https://www.seattletimes.com/opinion/post-mccleary-wa-school-funding-doesnt-add-up/#:~:text=Senate Bill 5311)
 * [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! April 1, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-april-1-2023/#:~:text=E2SSB 5311)
 * [The Seattle Times](/org/the_seattle_times/) - [Fix inequities in special education, but don’t abandon standards | The Seattle Times](https://www.seattletimes.com/opinion/editorials/fix-inequities-in-special-education-but-dont-abandon-standards/#:~:text=SB 5311)
 * [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=E2SSB 5311)
@@ -26,6 +27,7 @@
 * [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=E2SSB 5311)
 * [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=E2SSB 5311)
 * [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB 5311)
+* [Washington St Pta](/org/washington_st_pta/) - [Senate Passes Preventing Gun Violence Legislation in Week 13 Report - WSPTA](https://www.wastatepta.org/senate-passes-preventing-gun-violence-legislation-in-week-13-report/#:~:text=E2SSB 5311)
 
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): E2SSB 5311 Special education funding
