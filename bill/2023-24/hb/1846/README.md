@@ -8,6 +8,7 @@
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [Beached ferry reminder of WA’s aging fleet as state struggles to replace boats | The Seattle Times](https://www.seattletimes.com/seattle-news/transportation/beached-ferry-reminder-of-was-aging-fleet-as-state-struggles-to-replace-boats/#:~:text=House Bill 1846)
+* [KING5](/org/king5/) - [After boat runs aground, renewed calls for newer Washington State Ferry vessels | king5.com](https://www.king5.com/article/news/local/washington-aging-ferry-fleet-grounding/281-5951b9aa-c9e4-42d0-baac-96981eca517b#:~:text=House Bill 1846)
 
 ## Meetings
 ### Mon 03/20 04:00 PM - Transportation (TR): HB 1846 Ferry vessel procurement

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## Articles
+* [MyNorthwest](/org/mynorthwest/) - [Bill to set minimum marriage age to 18 stalls in Washington - MyNorthwest.com](https://mynorthwest.com/3876621/bill-to-set-minimum-marriage-age-to-18-stalls-in-washington/#:~:text=House Bill 1455)
 * [The Seattle Times](/org/the_seattle_times/) - [Minors can still get married in WA, though some want that to change | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/minors-can-still-get-married-in-wa-though-some-want-that-to-change/#:~:text=House Bill 1455)
 
 ## Meetings

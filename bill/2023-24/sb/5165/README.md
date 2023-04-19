@@ -9,6 +9,7 @@
 * [Passed Legislature](S.PL/)
 
 ## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Lawmakers vote to bar utilities from cutting power in extreme heat | The Seattle Times](https://www.seattletimes.com/seattle-news/lawmakers-vote-to-bar-utilities-from-cutting-power-in-extreme-heat/#:~:text=Senate Bill 5165)
 * [Crosscut](/org/crosscut/) - [By 2050, Washington might need to buy energy from other states | Crosscut](https://crosscut.com/politics/2023/02/2050-washington-might-need-buy-energy-other-states#:~:text=Senate Bill 5165)
 
 ## Meetings

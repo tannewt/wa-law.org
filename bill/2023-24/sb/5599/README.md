@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## Articles
+* [MyNorthwest](/org/mynorthwest/) - [Rantz: Radical WA trans youth law legalized state-sanctioned kidnapping - MyNorthwest.com](https://mynorthwest.com/3874914/rantz-radical-wa-trans-youth-law-legalized-state-sanctioned-kidnapping/#:~:text=SB 5599,)
 * [MyNorthwest](/org/mynorthwest/) - [Minors seeking gender-affirming treatment can shelter without parent's knowledge if bill passes - MyNorthwest.com](https://mynorthwest.com/3874975/minors-seeking-gender-affirming-treatment-shelter-without-parents-knowledge-bill/#:~:text=Senate Bill 5599)
 * [The Seattle Times](/org/the_seattle_times/) - [With 10 days to go, some bills fall by the wayside in Olympia | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/with-10-days-to-go-some-bills-fall-by-the-wayside-in-olympia/#:~:text=Senate Bill 5599)
 * [The Seattle Times](/org/the_seattle_times/) - [What the right has wrong about caring for trans youth  | The Seattle Times](https://www.seattletimes.com/opinion/what-the-right-has-wrong-about-caring-for-trans-youth/#:~:text=Senate Bill 5599)

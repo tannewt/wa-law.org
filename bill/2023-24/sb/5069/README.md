@@ -8,6 +8,7 @@
 
 ## Articles
 * [Crosscut](/org/crosscut/) - [How federal weed legalization would impact Washington state | Crosscut](https://crosscut.com/politics/2023/03/how-federal-weed-legalization-would-impact-washington-state#:~:text=Senate Bill 5069)
+* [Crosscut](/org/crosscut/) - [New law prepares Washington for interstate cannabis sales | Crosscut](https://crosscut.com/politics/2023/04/new-law-prepares-washington-interstate-cannabis-sales#:~:text=Senate Bill 5069)
 
 ## Meetings
 ### Tue 03/21 04:00 PM - Regulated Substances & Gaming (RSG): SB 5069 Interstate cannabis agrmts.
