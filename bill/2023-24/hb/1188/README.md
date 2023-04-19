@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## Meetings
 ### Tue 03/21 04:00 PM - Ways & Means (WM): E2SHB 1188 Child welfare services/DD

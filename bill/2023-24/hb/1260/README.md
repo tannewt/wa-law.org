@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Articles
 * [Crosscut](/org/crosscut/) - [Homeless services could face cuts in WA's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/01/homeless-services-could-face-cuts-was-2023-legislative-session#:~:text=House Bill 1260)

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): ESHB 1838 Transp. revenue forecast

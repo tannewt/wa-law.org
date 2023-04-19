@@ -12,27 +12,37 @@
 
 ## Meetings
 ### Tue 04/18 12:30 PM - Appropriations (APP): SB 5768 DOC/abortion medications
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31305&aId=155277&caId=22649&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31305&aId=155277&caId=22649&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31305&aId=155277&caId=22649&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31305&aId=155277&caId=22649&tId=4)
-
-#### 170 👍 - Pro
+#### 635 👍 - Pro
 Testifying:
 * Jody Disney - LWVWA
+* Micah Matthews - Washington Medical Commission
+* Molly Voris - Office of Governor Jay Inslee
+* Sean Murphy - Department of Corrections
+* Mercedes Sanchez - [Cedar River Clinics](/org/cedar_river_clinics/)
 * 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
+* Loni Rogers
+* Diva Mehta
 
-#### 1187 👎 - Con
+#### 1868 👎 - Con
 Testifying:
 * Theresa Schrempp
 * Eric pratt - America
 * Julie Barrett - Conservative Ladies of Washington
 * Jeannie Magdua - Conservative Ladies of Washington
+* Sharon Damoff
+* James Au
 * Sarah Davenport-Smith - Human Life of WA
+* Gabriel Jacobs
+* Car Ing
+* Ursula Glancy - St Mark, Shoreline
 * David Wheeler
+* Karen Reisenauer
+* 💵Adrienne Joyce - Washington State Catholic Conference
+* Sharon Swann
+* Beth Daranciang
+* Kathleen Lipp
 
-#### 1 ❓ - Other
+#### 5 ❓ - Other
 
 ### Mon 04/10 12:30 PM - Ways & Means (WM): SB 5768 DOC/abortion medications
 #### 384 👍 - Pro

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Tue 03/21 04:00 PM - Regulated Substances & Gaming (RSG): SSB 5448 Delivery of alcohol

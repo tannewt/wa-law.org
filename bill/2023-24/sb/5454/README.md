@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [New bill would help Washington nurses get treatment for PTSD | The Seattle Times](https://www.seattletimes.com/seattle-news/mental-health/new-proposal-would-help-washington-nurses-get-treatment-for-ptsd/#:~:text=Senate Bill 5454)

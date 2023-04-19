@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers cite Nashville school shooting as they advance assault weapon ban, other gun restrictions | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-lawmakers-cite-nashville-school-shooting-as-they-advance-assault-weapon-ban-other-gun-restrictions/#:~:text=Senate Bill 5078)

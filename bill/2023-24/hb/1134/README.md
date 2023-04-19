@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## Articles
 * [Crosscut](/org/crosscut/) - [Washington state may boost 988 hotline funding as demand grows | Crosscut](https://crosscut.com/politics/2023/03/washington-state-may-boost-988-hotline-funding-demand-grows#:~:text=House Bill 1134)

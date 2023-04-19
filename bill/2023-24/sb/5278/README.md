@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [WA Legislature forges ahead on assault weapons ban, new drug law | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-legislature-forges-ahead-on-assault-weapons-ban-new-drug-law/#:~:text=Senate Bill 5278)

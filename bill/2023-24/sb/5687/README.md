@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Thu 03/30 01:30 PM - Appropriations (APP): SSB 5687 Wrestling grant programs

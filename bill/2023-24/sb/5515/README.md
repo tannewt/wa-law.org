@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): ESSB 5515 Child abuse and neglect

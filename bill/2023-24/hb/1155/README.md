@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Articles
 * [South Seattle Emerald](/org/south_seattle_emerald/) - [After a Key Legislative Cutoff, Bills Protecting Washington Abortion Providers and Patients Are Still in Play | South Seattle Emerald](https://southseattleemerald.com/2023/04/06/after-a-key-legislative-cutoff-bills-protecting-washington-abortion-providers-and-patients-are-still-in-play/#:~:text=HB 1155)

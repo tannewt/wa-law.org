@@ -24,4 +24,5 @@
 
 ## [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth 👍1  
 
-## [SB 5768](/bill/2023-24/sb/5768/) - DOC/abortion medications 👍1  
+## [SB 5768](/bill/2023-24/sb/5768/) - DOC/abortion medications 👍2  
+* 👍 Mercedes Sanchez

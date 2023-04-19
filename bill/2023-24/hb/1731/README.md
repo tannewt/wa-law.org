@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Mon 03/20 10:30 AM - Labor & Commerce (LC): ESHB 1731 Short-term rentals/liquor

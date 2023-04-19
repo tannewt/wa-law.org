@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [Music therapy heals: License its practitioners in WA | The Seattle Times](https://www.seattletimes.com/opinion/music-therapy-heals-license-its-practitioners-in-wa/#:~:text=HB 1247)

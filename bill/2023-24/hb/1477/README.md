@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## Articles
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 7 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02202023#:~:text=H.B.1477)

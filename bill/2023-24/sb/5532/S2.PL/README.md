@@ -1,0 +1,70 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5532](/bill/2023-24/sb/5532/) > [Passed Legislature](/bill/2023-24/sb/5532/S2.PL/)
+
+# SB 5532 - Small rural hospital payment
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Passed%20Legislature/5532-S2.PL.pdf)
+
+## Section 1
+The legislature finds that promoting a financially viable health care system in all parts of the state is a critical interest. The federal centers for medicare and medicaid services has recognized the crucial role hospitals play in providing care in rural areas by creating the sole community hospital program, which allows certain small rural hospitals to receive enhanced payments for medicare services. The state of Washington has created a similar program based on the federal criteria. The legislature further finds that some small, rural, low volume hospitals provide vital services to the communities they serve, but are not eligible for the federal or state programs. The legislature therefore finds that creating a similar reimbursement system for the state's medicaid program for small, rural, low volume hospitals will promote the long-term financial viability of the rural health care system in those communities.
+
+## Section 2
+1. Payments for recipients eligible for medical assistance programs under this chapter for services provided by hospitals, regardless of the beneficiary's managed care enrollment status, shall be made based on allowable costs incurred during the year, when services are provided by a rural hospital certified by the centers for medicare and medicaid services as a critical access hospital, unless the critical access hospital is participating in the Washington rural health access preservation pilot described in subsection (2)(b) of this section. Any additional payments made by the authority for the healthy options program shall be no more than the additional amounts per service paid under this section for other medical assistance programs.
+
+2. [Empty]
+
+    a. Beginning on July 24, 2005, except as provided in (b) of this subsection, a moratorium shall be placed on additional hospital participation in critical access hospital payments under this section. However, rural hospitals that applied for certification to the centers for medicare and medicaid services prior to January 1, 2005, but have not yet completed the process or have not yet been approved for certification, remain eligible for medical assistance payments under this section.
+
+    b. [Empty]
+
+        i. The purpose of the Washington rural health access preservation pilot is to develop an alternative service and payment system to the critical access hospital authorized under section 1820 of the social security act to sustain essential services in rural communities.
+
+        ii. For the purposes of state law, any rural hospital approved by the department of health for participation in critical access hospital payments under this section that participates in the Washington rural health access preservation pilot identified by the state office of rural health and ceases to participate in critical access hospital payments may renew participation in critical access hospital associated payment methodologies under this section at any time.
+
+        iii. The Washington rural health access preservation pilot is subject to the following requirements:
+
+(A) In the pilot formation or development, the department of health, health care authority, and Washington state hospital association will identify goals for the pilot project before any hospital joins the pilot project;
+
+(B) Participation in the pilot is optional and no hospital may be required to join the pilot;
+
+(C) Before a hospital enters the pilot program, the health care authority must provide information to the hospital regarding how the hospital could end its participation in the pilot if the pilot is not working in its community;
+
+(D) Payments for services delivered by public health care service districts participating in the Washington rural health access preservation pilot to recipients eligible for medical assistance programs under this chapter must be based on an alternative, value-based payment methodology established by the authority. Subject to the availability of amounts appropriated for this specific purpose, the payment methodology must provide sufficient funding to sustain essential services in the areas served, including but not limited to emergency and primary care services. The methodology must adjust payment amounts based on measures of quality and value, rather than volume. As part of the pilot, the health care authority shall encourage additional payers to use the adopted payment methodology for services delivered by the pilot participants to individuals insured by those payers;
+
+(E) The department of health, health care authority, and Washington state hospital association will report interim progress to the legislature no later than December 1, 2018, and will report on the results of the pilot no later than six months following the conclusion of the pilot. The reports will describe any policy changes identified during the course of the pilot that would support small critical access hospitals; and
+
+(F) Funds appropriated for the Washington rural health access preservation pilot will be used to help participating hospitals transition to a new payment methodology and will not extend beyond the anticipated three-year pilot period.
+
+3. [Empty]
+
+    a. Beginning January 1, 2015, payments for recipients eligible for medical assistance programs under this chapter for services provided by a hospital, regardless of the beneficiary's managed care enrollment status, shall be increased to one hundred twenty-five percent of the hospital's fee-for-service rates, when services are provided by a rural hospital that:
+
+        i. Was certified by the centers for medicare and medicaid services as a sole community hospital as of January 1, 2013;
+
+        ii. Had a level III adult trauma service designation from the department of health as of January 1, 2014;
+
+        iii. Had less than one hundred fifty acute care licensed beds in fiscal year 2011; and
+
+        iv. Is owned and operated by the state or a political subdivision.
+
+    b. The enhanced payment rates under this subsection shall be considered the hospital's medicaid payment rate for purposes of any other state or private programs that pay hospitals according to medicaid payment rates.
+
+    c. Hospitals participating in the certified public expenditures program may not receive the increased reimbursement rates provided in this subsection (3) for inpatient services.
+
+4. Beginning July 1, 2024, through December 31, 2028, payments for recipients eligible for medical assistance programs under this chapter for acute care services provided by a hospital, regardless of the beneficiary's managed care enrollment status, shall be increased to 120 percent of the hospital's fee-for-service rate for inpatient services and 200 percent of the hospital's fee-for-service rate for outpatient services, when services are provided by a hospital that:
+
+    a. Is not currently designated as a critical access hospital, and does not meet current federal eligibility requirements for designation as a critical access hospital;
+
+    b. Has medicaid inpatient days greater than 50 percent of all hospital inpatient days as reported on the hospital's most recently filed medicare cost report with the state; and
+
+    c. Is located on the land of a federally recognized Indian tribe.
+
+## Section 3
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2023.
+
+## Section 4
+1. This act expires on the date that the federal centers for medicare and medicaid services approves the hospital safety net program as required by RCW 74.60.150(1)(a), including section 4(3)(e), chapter . . . (Substitute House Bill No. 1850 (hospital safety net assessment)), Laws of 2023.
+
+2. The health care authority must provide written notice of the expiration date of this act to affected parties, the chief clerk of the house of representatives, the secretary of the senate, the office of the code reviser, and others as deemed appropriate by the authority.
+
+## Section 5
+If specific funding for the purposes of this act, referencing this act by bill or chapter number, is not provided by June 30, 2023, in the omnibus appropriations act, this act is null and void.

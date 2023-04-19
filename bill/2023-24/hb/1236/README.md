@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Fri 03/10 08:00 AM - Environment, Energy & Technology (ENET): SHB 1236 Clean fuel/public transport.

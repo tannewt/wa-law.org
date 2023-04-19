@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Wed 03/22 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SSB 5398 Domestic violence funding

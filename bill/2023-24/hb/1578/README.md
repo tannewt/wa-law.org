@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## Articles
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [Legislative Priorities | WA - DNR](https://www.dnr.wa.gov/about/legislative#:~:text=HB 1578)

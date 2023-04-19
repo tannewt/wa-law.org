@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Tue 03/28 04:00 PM - Ways & Means (WM): SHB 1250 Low-income home rehab. prg.

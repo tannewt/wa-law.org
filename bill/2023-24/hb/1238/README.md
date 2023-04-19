@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [With 10 days to go, some bills fall by the wayside in Olympia | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/with-10-days-to-go-some-bills-fall-by-the-wayside-in-olympia/#:~:text=House Bill 1238)

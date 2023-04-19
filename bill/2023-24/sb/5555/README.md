@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## Articles
 * [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=2SSB 5555)

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## Meetings
 ### Thu 03/16 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): 2SHB 1322 Walla Walla water 2050 plan

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Articles
 * [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SB 5365)

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Mon 03/27 04:00 PM - Transportation (TRAN): SHB 1084 Freight mobility priority

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## Meetings
 ### Thu 03/23 04:00 PM - Ways & Means (WM): 2SHB 1452 Medical reserve corps

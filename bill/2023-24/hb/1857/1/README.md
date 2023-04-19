@@ -1,0 +1,35 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1857](/bill/2023-24/hb/1857/) > [Original Bill](/bill/2023-24/hb/1857/1/)
+
+# HB 1857 - Low-risk pesticides/B&O tax
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1857.pdf)
+
+## Section 1
+1. A credit is allowed against taxes due under this chapter for expenditures made by a farmer for the purchase of low-risk pesticides used for farming.
+
+2. The credit is an amount equal to 100 percent of the cost of the low-risk pesticides.
+
+3. The credit must be claimed against the taxes due for the same calendar year in which the low-risk pesticides are purchased by the farmer.
+
+4. The credit claimed may not exceed the tax that would otherwise be due under this chapter. Refunds may not be granted in the place of credits.
+
+5. The department shall administer the credit. The department shall provide a simple credit application form that the department shall post on its website.
+
+6. Any farmer claiming the credit must file the form provided by the department and provide any additional information the department may require.
+
+7. For the purposes of this section, the following definitions apply:
+
+    a. "Farmer" means the same as in RCW 46.04.182.
+
+    b. "Farming" means the same as in RCW 46.04.183.
+
+    c. "Low-risk pesticides" means:
+
+        i. Minimum risk pesticides exempt from registration under the federal insecticide, fungicide, and rodenticide act, as provided in regulations adopted by the United States environmental protection agency under 40 C.F.R. 152.25(f), as it existed as of the effective date of this section;
+
+        ii. Pesticides that do not use synthesized chemicals as active ingredients; and
+
+        iii. Other pesticides that are an allowed substance that may be used on organic crops, livestock, or handling production under rules adopted by the United States department of agriculture, as they existed as of the effective date of this section.
+
+## Section 2
+This act applies to taxes levied for collection in 2024 and thereafter.

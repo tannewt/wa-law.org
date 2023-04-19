@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## Articles
 * [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=2SSB 5048)

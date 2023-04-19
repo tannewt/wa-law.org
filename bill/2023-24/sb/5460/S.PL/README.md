@@ -1,0 +1,21 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5460](/bill/2023-24/sb/5460/) > [Passed Legislature](/bill/2023-24/sb/5460/S.PL/)
+
+# SB 5460 - Irrigation & rehab districts
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Passed%20Legislature/5460-S.PL.pdf)
+
+## Section 1
+The legislature finds that the Moses Lake irrigation and rehabilitation district is the only district of its kind in Washington state. The district was recently involved in litigation regarding the way the district collected assessments. The district was assessing a total amount of $1.00 per $1,000.00 of assessed value within the district, including $0.25 per $1,000.00 of assessed value pursuant to statutory provisions for irrigation and rehabilitation districts and an additional $0.75 per $1,000.00 of assessed value pursuant to statutory provisions for irrigation districts. The court found that the method of collection under the statutory provisions for irrigation districts was an invalid tax. Therefore, the legislature finds that it is necessary to align assessment authority with other local special improvement districts in order to provide local funding, limited to $1.00 per $1,000.00 of assessed value within the district, for improvements to local water quality.
+
+## Section 2
+1. [Empty]
+
+    a. The directors
+
+of the district shall annually determine the amount of money necessary to carry on the rehabilitation operations of the district and shall classify the property therein in proportion to the benefits to be derived from the rehabilitation operations of the district and in accordance with such classification shall apportion and assess the several lots, blocks, tracts, and parcels of land or other property within the district, which assessment shall be collected with the general taxes of the county or counties. The district budget for rehabilitation purposes shall not exceed an amount equal to $1 per $1,000 of the assessed aggregate valuation of all property within the district unless authorized to exceed that amount by the electors of the district by a majority of those voting on the proposition at such time as may be fixed by the board of directors of the district at which election the proposition authorizing the district to exceed that limit shall be submitted in such form as to enable the voters favoring the proposition to vote "Yes" and those opposing to vote "No."
+
+    b. A district may use the assessed valuation of property as a component in determining the district assessment of any class of lots, but when property has been designated as forestland, farm and agricultural land, or open space land under chapter 84.33 or 84.34 RCW, the district must use the assessed value applicable to forestland, farm and agricultural land, or open space land.
+
+    c. If a district uses a fractional amount of assessed value as a component in determining the district assessment, then a fractional amount of the value applicable to forestland, farm and agricultural land, or open space land under chapter 84.33 or 84.34 RCW, if designated in the county tax records for the particular property, shall be used.
+
+2. The district shall provide notice of the proposed assessments and hold an equalization hearing as provided for in chapter 87.03 RCW. The provisions of chapters 84.56 and 84.64 RCW and RCW 36.29.180 governing liens, collection, payment of assessments, delinquent assessments, interest and penalties, lien foreclosure, and foreclosed property shall govern such matters as applied.

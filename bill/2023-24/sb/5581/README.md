@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Fri 03/17 08:00 AM - Health Care & Wellness (HCW): SSB 5581 Maternal support services

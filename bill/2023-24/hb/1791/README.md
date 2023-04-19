@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Articles
 * [MyNorthwest](/org/mynorthwest/) - [Search for new Washington airport location likely to start over - MyNorthwest.com](https://mynorthwest.com/3874896/search-new-airport-western-washington-starting-over/#:~:text=Engrossed Substitute House Bill 1791)
