@@ -11,6 +11,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## Articles
+* [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [Victory for workers and patients: Governor Inslee signs Safe Staffing bill into law - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/victory-for-workers-and-patients-governor-inslee-signs-safe-staffing-bill-into-law/#:~:text=SB 5236)
 * [MyNorthwest](/org/mynorthwest/) - [Rantz: Union-backed bill gets friendly, misleading media support - MyNorthwest.com](https://mynorthwest.com/3825726/rantz-union-bill-misleading-media-support/#:~:text=SB 5236)
 * [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/research/2023-legislative-agenda/#:~:text=SB 5236)
 * [The Seattle Times](/org/the_seattle_times/) - [Legislature must address WA nursing crisis | The Seattle Times](https://www.seattletimes.com/opinion/editorials/legislature-must-address-wa-nursing-crisis/#:~:text=Senate Bill 5236)

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [WA Senate passes bill to bar hiring discrimination for cannabis use | The Seattle Times](https://www.seattletimes.com/seattle-news/wa-senate-passes-bill-to-bar-hiring-discrimination-for-cannabis-use/#:~:text=Senate Bill 5123)

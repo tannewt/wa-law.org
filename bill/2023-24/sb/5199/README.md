@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [Free Press roundup: WA legislative progress, Google bullies Canada | The Seattle Times](https://www.seattletimes.com/opinion/free-press-roundup-wa-legislative-progress-google-bullies-canada/#:~:text=Bill 5199)

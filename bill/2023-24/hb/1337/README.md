@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## Articles
+* [The Urbanist](/org/the_urbanist/) - [Four Vital Housing and Climate Bills Survive the Washington Legislature | The Urbanist](https://www.theurbanist.org/2023/04/19/four-vital-housing-and-climate-bills-survive-the-washington-legislature/#:~:text=HB 1337)
 * [The Urbanist](/org/the_urbanist/) - [Missing Middle Housing, ADU, and Design Review Reforms Pass Second Chamber | The Urbanist](https://www.theurbanist.org/2023/04/12/missing-middle-housing-adu-and-design-review-reforms-pass-second-chamber/#:~:text=HB 1337)
 * [The Urbanist](/org/the_urbanist/) - [Legislature Advances Narrower TOD and Missing Middle Bills | The Urbanist](https://www.theurbanist.org/2023/04/05/legislature-advances-narrower-tod-and-missing-middle-bills/#:~:text=HB 1337)
 * [The Urbanist](/org/the_urbanist/) - [Striker Amendments Stalk Housing Bills in the Washington Legislature | The Urbanist](https://www.theurbanist.org/2023/03/29/striker-amendments-stalk-housing-bills-in-the-washington-legislature/#:~:text=HB 1337)

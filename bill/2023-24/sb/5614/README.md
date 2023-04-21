@@ -10,6 +10,7 @@
 
 ## Articles
 * [Crosscut](/org/crosscut/) - [Seattle exotic dancers organize to improve 'predatory' conditions | Crosscut](https://crosscut.com/politics/2023/02/seattle-exotic-dancers-organize-improve-predatory-conditions#:~:text=Senate Bill 5614)
+* [Crosscut](/org/crosscut/) - [Washington strip clubs won't be selling alcohol anytime soon | Crosscut](https://crosscut.com/politics/2023/04/washington-strip-clubs-wont-be-selling-alcohol-anytime-soon#:~:text=Senate Bill 5614)
 
 ## Meetings
 ### Wed 03/15 08:00 AM - Labor & Workplace Standards (LAWS): ESSB 5614 Adult entertainment

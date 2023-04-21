@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [What’s still on the table for traffic safety in WA Legislature? | The Seattle Times](https://www.seattletimes.com/seattle-news/transportation/whats-still-on-the-table-for-traffic-safety-in-wa-legislature/#:~:text=House Bill 5583)

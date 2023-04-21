@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Articles
 * [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | Washington State Shield Law Helps Protect Reproductive, Gender-Affirming Health Care | South Seattle Emerald](https://southseattleemerald.com/2023/04/17/news-gleams-washington-state-shield-law-helps-protect-reproductive-gender-affirming-health-care/#:~:text=House Bill 1469)

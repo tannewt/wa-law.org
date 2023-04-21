@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Crosscut](/org/crosscut/) - [WA governor's race could decide the fate of state transparency law | Crosscut](https://crosscut.com/politics/2023/04/wa-governors-race-could-decide-fate-state-transparency-law#:~:text=House Bill 1856)
+
 ## Meetings

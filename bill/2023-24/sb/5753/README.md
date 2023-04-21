@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Wed 03/15 04:00 PM - Transportation (TR): SSB 5753 WSDOT-Lummi Tribe/roadway

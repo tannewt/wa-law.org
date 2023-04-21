@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Articles
 * [MyNorthwest](/org/mynorthwest/) - [Rantz: Radical WA trans youth law legalized state-sanctioned kidnapping - MyNorthwest.com](https://mynorthwest.com/3874914/rantz-radical-wa-trans-youth-law-legalized-state-sanctioned-kidnapping/#:~:text=SB 5599,)
@@ -14,6 +15,7 @@
 * [The Seattle Times](/org/the_seattle_times/) - [With 10 days to go, some bills fall by the wayside in Olympia | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/with-10-days-to-go-some-bills-fall-by-the-wayside-in-olympia/#:~:text=Senate Bill 5599)
 * [The Seattle Times](/org/the_seattle_times/) - [What the right has wrong about caring for trans youth  | The Seattle Times](https://www.seattletimes.com/opinion/what-the-right-has-wrong-about-caring-for-trans-youth/#:~:text=Senate Bill 5599)
 * [KUOW](/org/kuow/) - [KUOW - WA lawmakers pass housing, firearm bills ahead of cutoff, leave rent control, recycling bills behind](https://www.kuow.org/stories/wa-lawmakers-pass-housing-firearm-bills-ahead-of-cutoff-leave-rent-control-recycling-bills-behind#:~:text=Senate Bill 5599)
+* [KUOW](/org/kuow/) - [KUOW - Washington state lawmakers pass protections for gender-affirming care](https://www.kuow.org/stories/washington-state-lawmakers-pass-protections-for-gender-affirming-care#:~:text=Senate Bill 5599)
 
 ## Meetings
 ### Wed 03/22 01:30 PM - Human Services, Youth, & Early Learning (HSEL): ESSB 5599 Protected health care/youth

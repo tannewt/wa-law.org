@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [Pass WA sustainable aviation fuels bill to combat climate crisis | The Seattle Times](https://www.seattletimes.com/opinion/editorials/pass-wa-sustainable-aviation-fuels-bill-to-combat-climate-crisis/#:~:text=sponsored Senate Bill 5447)

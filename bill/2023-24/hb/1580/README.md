@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [Lawmakers pass bill to change how WA cares for youth stuck in hospitals | The Seattle Times](https://www.seattletimes.com/seattle-news/mental-health/lawmakers-pass-bill-to-change-how-wa-cares-for-youth-stuck-in-hospitals/#:~:text=House Bill 1580)

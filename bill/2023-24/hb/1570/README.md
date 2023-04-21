@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Articles
 * [MyNorthwest](/org/mynorthwest/) - [WA Uber, Lyft drivers getting paid family, medical leave benefits - MyNorthwest.com](https://mynorthwest.com/3874034/uber-lyft-drivers-in-wa-getting-paid-family-medical-leave-benefits/#:~:text=HB 1570)

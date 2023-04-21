@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## Articles
+* [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | Seattle City Council Caps Late Fees for Rental Payments | South Seattle Emerald](https://southseattleemerald.com/2023/04/19/news-gleams-seattle-city-council-caps-late-fees-for-rental-payments/#:~:text=SHB 1784)
 * [The Seattle Times](/org/the_seattle_times/) - [Fund food insecurity response in WA  — and demand national fix | The Seattle Times](https://www.seattletimes.com/opinion/editorials/fund-food-insecurity-response-in-wa-and-demand-national-fix/#:~:text=House Bill 1784)
 * [The Seattle Times](/org/the_seattle_times/) - [Food insecurity persists in WA, just as emergency benefits expire | The Seattle Times](https://www.seattletimes.com/seattle-news/health/food-insecurity-persists-in-wa-as-emergency-snap-benefits-run-out-this-week/#:~:text=House Bill 1784)
 

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Fri 03/24 08:00 AM - State Government & Elections (SGE): SHB 1700 Eastern Washington landscape
