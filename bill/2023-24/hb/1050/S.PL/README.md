@@ -1,0 +1,104 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1050](/bill/2023-24/hb/1050/) > [Passed Legislature](/bill/2023-24/hb/1050/S.PL/)
+
+# HB 1050 - Apprenticeship utilization
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Passed%20Legislature/1050-S.PL.pdf)
+
+## Section 1
+1. [Empty]
+
+    a. [Empty]
+
+        i. Except as provided in (b) through (d) of this subsection, from January 1, 2005, and thereafter, for all public works estimated to cost $1,000,000 or more, all specifications must require that no less than 15 percent of the labor hours be performed by apprentices.
+
+        ii. As of the effective date of this section, for all public works contracts awarded by a municipality estimated to cost $2,000,000 or more, all specifications must require that no less than 15 percent of the labor hours be performed by apprentices. For contracts advertised for bid on or after July 1, 2026, for all public works contracts awarded by a municipality estimated to cost $1,500,000 or more, all specifications must require that no less than 15 percent of the labor hours be performed by apprentices. For contracts advertised for bid on or after July 1, 2028, for all public works contracts awarded by a municipality estimated to cost $1,000,000 or more, all specifications must require that no less than 15 percent of the labor hours be performed by apprentices.
+
+    b.
+
+For contracts advertised for bid on or after July 1, 2020, for all public works by the department of transportation estimated to cost $2,000,000 or more, all specifications must require that no less than 15 percent of the labor hours be performed by apprentices.
+
+    c.
+
+For contracts advertised for bid on or after January 1, 2010, for all public works by a school district estimated to cost $1,000,000 or more, all specifications must require that no less than 15 percent of the labor hours be performed by apprentices.
+
+    d.
+
+For contracts advertised for bid on or after January 1, 2012, for all public works by a four-year institution of higher education estimated to cost $1,000,000 or more, all specifications must require that no less than 15 percent of the labor hours be performed by apprentices.
+
+2. Awarding entities may adjust the requirements of this section for a specific project for the following reasons:
+
+    a. The demonstrated lack of availability of apprentices in specific geographic areas;
+
+    b. A disproportionately high ratio of material costs to labor hours, which does not make feasible the required minimum levels of apprentice participation;
+
+    c. Participating contractors have demonstrated a good faith effort to comply with the requirements of  this section; or
+
+    d. Other criteria the awarding entity deems appropriate, which are subject to review by the office of the governor or the municipality's legislative authority if the awarding entity is a municipality.
+
+3. The secretary of the department of transportation shall adjust the requirements of this section for a specific project for the following reasons:
+
+    a. The demonstrated lack of availability of apprentices in specific geographic areas; or
+
+    b. A disproportionately high ratio of material costs to labor hours, which does not make feasible the required minimum levels of apprentice participation.
+
+4. [Empty]
+
+    a. This section applies to public works contracts awarded by the state, to public works contracts awarded by school districts,  to public works contracts awarded by state four-year institutions of higher education, and to public works contracts awarded by a municipality. However, this section does not apply to contracts awarded by state agencies headed by a separately elected public official or housing authorities as defined in RCW 35.82.020.
+
+    b. Within existing resources, awarding agencies and municipalities are responsible for monitoring apprenticeship utilization hours by contractor. There must be a specific line item in the contract specifying that apprenticeship utilization goals should be met, monetary incentives for meeting the goals, monetary penalties for not meeting the goals, and an expected cost value to be included in the bid associated with meeting the goals. The awarding agency and municipality must report the apprenticeship utilization by contractor and subcontractor to the supervisor of apprenticeship at the department of labor and industries by final project acceptance. The electronic reporting system that is being developed by the department of labor and industries may be used for either or both monitoring and reporting apprenticeship utilization hours.
+
+    c. In lieu of the monetary penalty and incentive requirements specified in (b) of this subsection, the Washington state department of transportation may use its three strike system for ensuring compliance including the allowance for a good faith effort.
+
+5. [Empty]
+
+    a. The department of labor and industries must provide information and technical assistance to affected agencies and municipalities, and collect the following data from affected agencies and municipalities for each project covered by this section:
+
+        i. The name of each apprentice and apprentice registration number;
+
+        ii. The name of each project;
+
+        iii. The dollar value of each project;
+
+        iv. The date of the contractor's notice to proceed;
+
+    v. The number of apprentices and labor hours worked by them, categorized by trade or craft;
+
+    vi. The number of journey level workers and labor hours worked by them, categorized by trade or craft; and
+
+    vii. The number, type, and rationale for the exceptions granted under subsection (2) of this section.
+
+    b. The department of labor and industries and the municipal research and services center shall provide training, information, and ongoing technical assistance to municipalities in order to comply with apprenticeship utilization requirements. Training must include, but not be limited to, department of labor and industries reporting requirements, contract administration including sample contract language, and best practices on how a municipality's governing authority must adopt apprenticeship guidelines, including procedures, rules, and instructions to ensure compliance relating to a contractor that seeks a good faith waiver of apprenticeship utilization requirements.
+
+    c. The department of labor and industries shall provide information and technical assistance with apprenticeship utilization reporting. The department of enterprise services shall make available sample contract language and provide contract administration advice pertaining to apprenticeship requirements.
+
+6. The secretary of transportation shall establish an apprenticeship utilization advisory committee, which must include statewide geographic representation and consist of equal numbers of representatives of contractors and labor. The committee must include at least one member representing contractor businesses with less than 35 employees. The advisory committee shall meet regularly with the secretary of transportation to discuss implementation of this section by the department of transportation, including development of the process to be used to adjust the requirements of this section for a specific project.
+
+7. At the request of the senate labor, commerce, research and development committee, the house of representatives commerce and labor committee, or their successor committees, and the governor, the department of enterprise services and the department of labor and industries shall compile and summarize the agency and municipality data and provide a joint report to both committees. The report must include recommendations on modifications or improvements to the apprentice utilization program and information on skill shortages in each trade or craft.
+
+8. All contracts subject to this section must include specifications that a contractor or subcontractor may not be required to exceed the apprenticeship utilization requirements of this section.
+
+9. This section establishes the minimum apprenticeship utilization requirements on public works contracts awarded by a municipality. Any standards or requirements relating to apprenticeship utilization established by any applicable local law or ordinance that are more favorable to apprentices than the minimum requirements under this section are not affected by this section and those more favorable laws apply and may be enforced as provided by law.
+
+## Section 2
+1. It is the intent of the legislature that apprenticeship utilization requirements lead to increased on-the-job training placements for construction apprentices and a growing and diversified pool of labor in Washington. The department of labor and industries must study and report on public works project outcomes related to apprenticeship utilization requirements, access to apprentices, and participation by small, women, minority, and veteran-owned businesses. The study and report must include projects completed between July 1, 2020, and June 30, 2025, as well as projects in progress as of June 30, 2025, for in progress projects that have available data. Municipal projects with a bid due date before July 1, 2024, are not included in the study, except for data provided under (e) of this subsection. At a minimum, the study and report must:
+
+    a. Delineate by project size and type of awarding entity, including the department of transportation, school districts, four-year institutions of higher education, and municipalities. Project data identified in (b) of this subsection for municipalities, if any, must be delineated by type of municipality;
+
+    b. Include total project cost, total labor costs, the ratio of labor costs to total costs, apprentice hours worked by craft and percent of total hours worked, cost savings or increases from utilizing apprentices, number of projects achieving and not achieving apprentice utilization requirements, number of projects waiving apprentice utilization requirements for good faith efforts or other criteria deemed appropriate by the awarding agency with the reasons for the waivers, and the number and percentages of women, minority, and veteran-owned businesses as prime contractors or subcontractors and whether they utilized apprentices;
+
+    c. Include, by craft, the number and service area of construction apprenticeship programs, the number of training agents, and the number of construction apprentices;
+
+    d. Identify the number of small, women, minority, and veteran-owned businesses performing work on public works projects as a prime contractor or subcontractor, and utilization of apprentices on those projects, and provide information on how small, women, minority, and veteran-owned businesses may access apprentices on public works projects and examine any barriers to registered apprenticeship and apprentices. The analysis should include project data and consultation with the office of minority and women's business enterprises and women, minority, and veteran-owned businesses;
+
+    e. Identify and analyze existing applications of apprenticeship utilization requirements by municipalities and for subcontractors beyond requirements specified in RCW 39.04.320;
+
+    f. Include recommendations and best practices for increasing apprenticeship utilization and supporting women, minority, and veteran-owned businesses in accessing apprentices; and
+
+    g. Include recommendations and best practices for extending apprenticeship utilization requirements to subcontractors.
+
+2. The report must be submitted to the office of financial management, the senate labor and commerce committee, the house labor and workplace standards committee, the house capital budget committee, the house local government committee, the senate state government and elections committee, and the senate local government, land use, and tribal affairs committee, or their successor committees, no later than December 1, 2025.
+
+3. This section expires December 1, 2026.
+
+## Section 3
+Section 1 of this act takes effect July 1, 2024.

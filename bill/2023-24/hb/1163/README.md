@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Thu 03/16 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): SHB 1163 Leasehold tax/arenas

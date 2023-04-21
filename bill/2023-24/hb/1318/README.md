@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Thu 03/23 04:00 PM - Ways & Means (WM): SHB 1318 Aircraft maintenance/tax
