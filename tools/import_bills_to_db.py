@@ -105,6 +105,7 @@ def format_lists(paragraph):
         line = line.strip()
         current_line = []
         last_end = 0
+        last_group = ""
         for result in section_pattern.finditer(line):
             if result.start() != last_end:
                 break

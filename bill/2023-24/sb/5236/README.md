@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## Articles
 * [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [Victory for workers and patients: Governor Inslee signs Safe Staffing bill into law - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/victory-for-workers-and-patients-governor-inslee-signs-safe-staffing-bill-into-law/#:~:text=SB 5236)

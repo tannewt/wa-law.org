@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [Lawmakers vote to bar utilities from cutting power in extreme heat | The Seattle Times](https://www.seattletimes.com/seattle-news/lawmakers-vote-to-bar-utilities-from-cutting-power-in-extreme-heat/#:~:text=House Bill 1329)

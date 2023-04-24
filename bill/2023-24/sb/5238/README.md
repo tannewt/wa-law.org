@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): SSB 5238 Academic employee bargaining

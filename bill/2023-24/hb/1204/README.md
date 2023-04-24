@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## Meetings
 ### Tue 03/21 04:00 PM - Ways & Means (WM): 2SHB 1204 Family connections program

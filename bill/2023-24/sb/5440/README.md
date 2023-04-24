@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): E2SSB 5440 Competency evaluations

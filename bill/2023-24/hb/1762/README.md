@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [WA Legislature can protect warehouse workers when employers won’t | The Seattle Times](https://www.seattletimes.com/opinion/wa-legislature-can-protect-warehouse-workers-when-employers-wont/#:~:text=House Bill 1762)

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Articles
 * [MyNorthwest](/org/mynorthwest/) - [Seniors, disabled people, veterans will get break on property taxes - MyNorthwest.com](https://mynorthwest.com/3872729/seniors-disabled-people-veterans-will-get-break-on-property-taxes/#:~:text=HB 1355.)

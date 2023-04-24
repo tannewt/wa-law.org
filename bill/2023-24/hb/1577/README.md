@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Tue 03/14 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SHB 1577 Municipal officers/contracts

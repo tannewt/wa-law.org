@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Thu 03/16 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): ESHB 1311 Credit repair services

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## Articles
 * [South Seattle Emerald](/org/south_seattle_emerald/) - [‘These Are Not Detention Centers, These Are Prisons’: Hunger Strike Highlights Poor Conditions at NWDC | South Seattle Emerald](https://southseattleemerald.com/2023/02/22/these-are-not-detention-centers-these-are-prisons-hunger-strike-highlights-poor-conditions-at-nwdc/#:~:text=House Bill (HB) 1470)

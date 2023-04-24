@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [WA launches cold case unit for missing and murdered Indigenous people | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-launches-cold-case-unit-for-missing-and-murdered-indigenous-people/#:~:text=House Bill 1177)
