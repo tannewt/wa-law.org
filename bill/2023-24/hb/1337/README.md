@@ -21,6 +21,7 @@
 * [Sightline Institute](/org/sightline_institute/) - [Washington Bill Would Boost In-law Apartments Throughout the State - Sightline Institute](https://www.sightline.org/2023/01/21/washington-bill-would-boost-in-law-apartments-throughout-the-state/#:~:text=HB 1337)
 * [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=House Bill 1337)
 * [PubliCola](/org/publicola/) - [Legislature Scales Back One Pro-Housing Bill While Shelving Another - PubliCola](https://publicola.com/2023/04/14/legislature-scales-back-one-pro-housing-bill-while-shelving-another/#:~:text=HB 1337)
+* [KIRO7](/org/kiro7/) - [‘WA needs 1 million new homes within next 20 years’: Suite of bills target the housing crisis – KIRO 7 News Seattle](https://www.kiro7.com/news/local/wa-needs-1-million-new-homes-within-next-20-years-suite-bills-target-housing-crisis/UDGREATSP5FQXCOF6E5GUFIF5A/#:~:text=HB 1337)
 
 ## Meetings
 ### Thu 03/16 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): EHB 1337 Accessory dwelling units

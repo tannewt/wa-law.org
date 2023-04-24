@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [KUOW](/org/kuow/) - [KUOW - Negligent drivers who kill pedestrians in WA may face new penalties](https://www.kuow.org/stories/negligent-drivers-who-kill-pedestrians-in-wa-may-face-new-penalties#:~:text=HB 1112)
+
 ## Meetings
 ### Thu 03/30 12:30 PM - Transportation (TRAN): HB 1112 Negligent driving
 #### 4 👍 - Pro
