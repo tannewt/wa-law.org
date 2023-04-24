@@ -11,6 +11,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [WA’s new ban on single-family zoning exempts some of Seattle’s wealthiest neighborhoods | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/was-new-ban-on-single-family-zoning-exempts-some-of-seattles-wealthiest-neighborhoods/#:~:text=House Bill 1110)
 * [The Urbanist](/org/the_urbanist/) - [Four Vital Housing and Climate Bills Survive the Washington Legislature | The Urbanist](https://www.theurbanist.org/2023/04/19/four-vital-housing-and-climate-bills-survive-the-washington-legislature/#:~:text=HB 1110)
 * [The Urbanist](/org/the_urbanist/) - [Missing Middle Housing, ADU, and Design Review Reforms Pass Second Chamber | The Urbanist](https://www.theurbanist.org/2023/04/12/missing-middle-housing-adu-and-design-review-reforms-pass-second-chamber/#:~:text=HB 1110)
 * [The Seattle Times](/org/the_seattle_times/) - [WA Senate passes bill allowing duplexes, fourplexes in single-family zones | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-senate-passes-bill-allowing-duplexes-fourplexes-in-single-family-zones/#:~:text=House Bill 1110)

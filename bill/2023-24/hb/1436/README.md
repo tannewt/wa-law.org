@@ -10,6 +10,7 @@
 * [Passed Legislature](S.PL/)
 
 ## Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Week 15 Report: Sine Die Edition - WSPTA](https://www.wastatepta.org/sine-die-edition/#:~:text=ESHB 1436)
 * [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=ESHB 1436)
 * [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! March 15, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-march-15-2023/#:~:text=ESHB 1436)
 * [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=ESHB 1436)

@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Articles
+* [MyNorthwest](/org/mynorthwest/) - [Controversial WA drug possession bill fails, laws could be made locally - MyNorthwest.com](https://mynorthwest.com/3880430/controversial-drug-possession-bill-fails-laws-could-be-made-locally/#:~:text=Senate Bill 5536)
 * [The Seattle Times](/org/the_seattle_times/) - [WA House votes to keep drug possession a misdemeanor | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-house-votes-to-keep-drug-possession-a-misdemeanor/#:~:text=Senate Bill 5536)
 * [The Seattle Times](/org/the_seattle_times/) - [Pass compromise bill on illicit drug possession | The Seattle Times](https://www.seattletimes.com/opinion/editorials/pass-compromise-bill-on-illicit-drug-possession/#:~:text=Senate Bill 5536)
 * [The Seattle Times](/org/the_seattle_times/) - [WA Legislature forges ahead on assault weapons ban, new drug law | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-legislature-forges-ahead-on-assault-weapons-ban-new-drug-law/#:~:text=Senate Bill 5536)
@@ -17,6 +18,8 @@
 * [Crosscut](/org/crosscut/) - [Push to decriminalize fades as WA Senate considers new drug law | Crosscut](https://crosscut.com/politics/2023/02/push-decriminalize-fades-wa-senate-considers-new-drug-law#:~:text=Senate Bill 5536)
 * [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=Senate Bill 5536)
 * [MyNorthwest](/org/mynorthwest/) - [28 mayors don't want shorter drug sentences proposed in House bill - MyNorthwest.com](https://mynorthwest.com/3879601/28-mayors-dont-want-shorter-drug-sentences-proposed-in-house-bill/#:~:text=SB 5536)
+* [KING5](/org/king5/) - [28 mayors sign letter detailing concerns about Washington drug laws to state legislators | king5.com](https://www.king5.com/article/news/politics/state-politics/28-mayors-sign-letter-concerns-washington-drug-laws-state-legislators/281-2f3d4e54-f5f9-47d0-be12-d0e868341f8c#:~:text=Senate Bill 5536)
+* [KIRO7](/org/kiro7/) - [House rejects controversial bill that would have changed drug possession laws in WA State – KIRO 7 News Seattle](https://www.kiro7.com/news/local/controversial-bill-would-change-drug-possession-laws-wa-state/DUSYH5HKOZHVZPVPVXXNJCQ7EE/#:~:text=Senate Bill 5536)
 * [KUOW](/org/kuow/) - [KUOW - ‘Therapeutic’ courts could see influx under Washington's next drug law](https://www.kuow.org/stories/therapeutic-courts-could-see-influx-under-next-washington-drug-law#:~:text=(SB 5536))
 * [KUOW](/org/kuow/) - [KUOW - WA lawmakers move treatment over jail time to the House](https://www.kuow.org/stories/wa-lawmakers-move-treatment-over-jail-time-to-the-house#:~:text=Senate Bill 5536)
 * [KUOW](/org/kuow/) - [KUOW - WA lawmakers pass housing, firearm bills ahead of cutoff, leave rent control, recycling bills behind](https://www.kuow.org/stories/wa-lawmakers-pass-housing-firearm-bills-ahead-of-cutoff-leave-rent-control-recycling-bills-behind#:~:text=Senate Bill 5536)

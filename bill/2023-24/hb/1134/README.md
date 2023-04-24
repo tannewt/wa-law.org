@@ -12,6 +12,7 @@
 
 ## Articles
 * [Crosscut](/org/crosscut/) - [Washington state may boost 988 hotline funding as demand grows | Crosscut](https://crosscut.com/politics/2023/03/washington-state-may-boost-988-hotline-funding-demand-grows#:~:text=House Bill 1134)
+* [Crosscut](/org/crosscut/) - [Washington to invest more in 988 mental health crisis line | Crosscut](https://crosscut.com/politics/2023/04/washington-invest-more-988-mental-health-crisis-line#:~:text=HB 1134)
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Healthcare](https://crosscut.com/voter-guide/2023-legislative-tracker/election/healthcare#:~:text=House Bill 1134)
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Policing, Crime & Courts](https://crosscut.com/voter-guide/2023-legislative-tracker/election/policing-crime-courts#:~:text=House Bill 1134)
 
