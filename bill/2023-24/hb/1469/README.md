@@ -10,6 +10,7 @@
 * [Passed Legislature](S.PL/)
 
 ## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [In rebuke to fall of Roe, Gov. Inslee signs WA abortion legislation | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/in-rebuke-to-fall-of-roe-gov-inslee-signs-wa-abortion-legislation/#:~:text=House Bill 1469)
 * [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | Washington State Shield Law Helps Protect Reproductive, Gender-Affirming Health Care | South Seattle Emerald](https://southseattleemerald.com/2023/04/17/news-gleams-washington-state-shield-law-helps-protect-reproductive-gender-affirming-health-care/#:~:text=House Bill 1469)
 * [The Seattle Times](/org/the_seattle_times/) - [Amid post-Roe landscape, WA lawmakers pass abortion ‘shield law’ | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/amid-post-roe-landscape-wa-lawmakers-pass-abortion-shield-law/#:~:text=House Bill 1469)
 * [South Seattle Emerald](/org/south_seattle_emerald/) - [After a Key Legislative Cutoff, Bills Protecting Washington Abortion Providers and Patients Are Still in Play | South Seattle Emerald](https://southseattleemerald.com/2023/04/06/after-a-key-legislative-cutoff-bills-protecting-washington-abortion-providers-and-patients-are-still-in-play/#:~:text=HB 1469)
@@ -20,6 +21,7 @@
 * [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Our legislative priorities for 2023 | ACLU of Washington](http://www.aclu-wa.org/pages/2023-legislative-agenda#:~:text=HB 1469)
 * [Crosscut](/org/crosscut/) - [Students lobby for WA bills on abortion and gender-affirming care | Crosscut](https://crosscut.com/politics/2023/02/students-lobby-wa-bills-abortion-and-gender-affirming-care#:~:text=House Bill 1469)
 * [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=House Bill 1469)
+* [Crosscut](/org/crosscut/) - [The bills that survived Washington's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/04/bills-survived-washingtons-2023-legislative-session#:~:text=House Bill 1469)
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Healthcare](https://crosscut.com/voter-guide/2023-legislative-tracker/election/healthcare#:~:text=House Bill 1469)
 * [KUOW](/org/kuow/) - [KUOW - Two bills to protect abortion rights move  forward in Olympia](https://www.kuow.org/stories/two-bills-to-protect-abortion-rights-move-forward-in-olympia#:~:text=HB 1469)
 * [KUOW](/org/kuow/) - [KUOW - WA lawmakers pass key policy deadline, head into final week of session](https://www.kuow.org/stories/wa-lawmakers-pass-key-policy-deadline-head-into-final-week-of-session#:~:text=House Bill 1469)

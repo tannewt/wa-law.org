@@ -9,6 +9,7 @@
 
 ## Articles
 * [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=House Bill 1241)
+* [Crosscut](/org/crosscut/) - [The bills that survived Washington's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/04/bills-survived-washingtons-2023-legislative-session#:~:text=House Bill 1241)
 
 ## Meetings
 ### Tue 01/17 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1241 Harassment

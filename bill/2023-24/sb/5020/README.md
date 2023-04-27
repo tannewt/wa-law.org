@@ -9,6 +9,7 @@
 ## Articles
 * [Crosscut](/org/crosscut/) - [WA parents push back against proposal to lower required school age | Crosscut](https://crosscut.com/news/2023/01/wa-parents-push-back-against-proposal-lower-required-school-age#:~:text=Senate Bill 5020)
 * [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=Senate Bill 5020)
+* [Crosscut](/org/crosscut/) - [The bills that survived Washington's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/04/bills-survived-washingtons-2023-legislative-session#:~:text=Senate Bill 5020)
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Education](https://crosscut.com/voter-guide/2023-legislative-tracker/election/education#:~:text=Senate Bill 5020)
 
 ## Meetings

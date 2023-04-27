@@ -9,6 +9,7 @@
 * [Passed Legislature](S.PL/)
 
 ## Articles
+* [The Seattle Times](/org/the_seattle_times/) - [WA bans sale of AR-15s and other semi-automatic rifles, effective immediately | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-bans-sale-of-ar-15s-and-other-semiautomatic-rifles-effective-immediately/#:~:text=Senate Bill 5078)
 * [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers cite Nashville school shooting as they advance assault weapon ban, other gun restrictions | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-lawmakers-cite-nashville-school-shooting-as-they-advance-assault-weapon-ban-other-gun-restrictions/#:~:text=Senate Bill 5078)
 * [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=SSB 5078)
 * [MyNorthwest](/org/mynorthwest/) - [Significant gun legislation advances through WA Senate in tight vote - MyNorthwest.com](https://mynorthwest.com/3850532/gun-legislation-senate-28-21-vote/#:~:text=Senate Bill 5078)

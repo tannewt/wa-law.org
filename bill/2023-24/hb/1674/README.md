@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [The Urbanist](/org/the_urbanist/) - [Legislature Abandons Most Traffic Safety Bills As Fatalities Continue To Mount | The Urbanist](https://www.theurbanist.org/2023/04/24/legislature-abandons-most-traffic-safety-bills-as-fatalities-continue-to-mount/#:~:text=HB 1674)
+
 ## Meetings
 ### Thu 02/09 04:00 PM - Transportation (TR): HB 1674 Roadway users/trucks & SUVs
 #### 203 👍 - Pro

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [2023 Session Wrap Up - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04272023#:~:text=HB 1199)
+
 ## Meetings
 ### Thu 03/09 08:00 AM - Law & Justice (LAW): HB 1199 Child care/communities
 #### 275 👍 - Pro

@@ -11,6 +11,7 @@
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [Child care fall through? You might be able to get unemployment in WA | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/child-care-fall-through-you-might-be-able-to-get-unemployment-in-wa/#:~:text=House Bill 1106)
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [2023 Session Wrap Up - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04272023#:~:text=HB 1106)
 
 ## Meetings
 ### Thu 03/16 08:00 AM - Labor & Commerce (LC): ESHB 1106 Unemployment/voluntary

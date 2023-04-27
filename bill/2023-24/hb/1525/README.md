@@ -9,6 +9,9 @@
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
 
+## Articles
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [2023 Session Wrap Up - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04272023#:~:text=HB 1525)
+
 ## Meetings
 ### Tue 03/21 04:00 PM - Ways & Means (WM): 2SHB 1525 Apprenticeships/child care
 #### 91 👍 - Pro

@@ -11,6 +11,7 @@
 * [The Seattle Times](/org/the_seattle_times/) - [With 10 days to go, some bills fall by the wayside in Olympia | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/with-10-days-to-go-some-bills-fall-by-the-wayside-in-olympia/#:~:text=Senate Bill 5171)
 * [Crosscut](/org/crosscut/) - [The high school students behind the bill to end WA's 'pink tax' | Crosscut](https://crosscut.com/politics/2023/01/high-school-students-behind-bill-end-was-pink-tax#:~:text=Senate Bill 5171)
 * [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=Senate Bill 5171)
+* [Crosscut](/org/crosscut/) - [The bills that survived Washington's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/04/bills-survived-washingtons-2023-legislative-session#:~:text=Senate Bill 5171)
 * [Crosscut](/org/crosscut/) - [Proposal to eliminate the 'pink tax' fails in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/04/proposal-eliminate-pink-tax-fails-wa-legislature#:~:text=Senate Bill 5171)
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Other Topics](https://crosscut.com/voter-guide/2023-legislative-tracker/election/other-topics#:~:text=Senate Bill 5171)
 

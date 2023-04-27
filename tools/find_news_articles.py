@@ -3,6 +3,7 @@ import arrow
 import url_history
 import urllib.robotparser
 import requests
+import urllib3
 from urllib.parse import urlparse, parse_qs
 
 import utils
@@ -146,7 +147,7 @@ for org_rowid, domain in org_cur:
             continue
         try:
             page = session.get(page_url, fetch_again=False)
-        except (requests.exceptions.TooManyRedirects, requests.exceptions.MissingSchema, requests.exceptions.ConnectTimeout) as e:
+        except (requests.exceptions.TooManyRedirects, requests.exceptions.MissingSchema, requests.exceptions.ConnectTimeout, urllib3.exceptions.LocationParseError) as e:
             print(e, page_url)
             continue
         if page is None:
