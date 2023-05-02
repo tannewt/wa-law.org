@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [The Spokesman-Review](/org/the_spokesman-review/) - [Bill extending tax break to Washington business that use wood waste for energy awaits signature for final passage | The Spokesman-Review](https://www.spokesman.com/stories/2023/may/01/bill-extending-tax-break-to-washington-business-th/#:~:text=Washington House Bill 1018)
+
 ## Meetings
 ### Thu 03/23 04:00 PM - Ways & Means (WM): HB 1018 Hog fuel/tax exemption
 #### 11 👍 - Pro

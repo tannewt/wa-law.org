@@ -16,6 +16,7 @@
 * [Crosscut](/org/crosscut/) - [Students lobby for WA bills on abortion and gender-affirming care | Crosscut](https://crosscut.com/politics/2023/02/students-lobby-wa-bills-abortion-and-gender-affirming-care#:~:text=Senate Bill 5242)
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Healthcare](https://crosscut.com/voter-guide/2023-legislative-tracker/election/healthcare#:~:text=Senate Bill 5242)
 * [KUOW](/org/kuow/) - [KUOW - Two bills to protect abortion rights move  forward in Olympia](https://www.kuow.org/stories/two-bills-to-protect-abortion-rights-move-forward-in-olympia#:~:text=SB 5242)
+* [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate Bill 5242)
 * [Hacks and Wonks](/org/hacks_and_wonks/) - [Megan Burbank and the State of Reproductive Healthcare in Washington — Hacks & Wonks](https://www.officialhacksandwonks.com/blog/megan-burbank-reproductive-healthcare#:~:text=SB 5242)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Washington lawmakers are trying to protect out-of-state abortion patients. Here's what you need to know: | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/05/washington-lawmakers-are-trying-to-protect-out-of-/#:~:text=Senate Bill 5242)
 

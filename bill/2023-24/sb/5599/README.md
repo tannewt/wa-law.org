@@ -10,11 +10,14 @@
 * [Passed Legislature](S.PL/)
 
 ## Articles
+* [The Urbanist](/org/the_urbanist/) - [Heroes and Zeroes of the 2023 Washington State Legislature | The Urbanist](https://www.theurbanist.org/2023/05/01/heroes-and-zeroes-of-2023-legislature/#:~:text=SB 5599)
 * [MyNorthwest](/org/mynorthwest/) - [Rantz: Radical WA trans youth law legalized state-sanctioned kidnapping - MyNorthwest.com](https://mynorthwest.com/3874914/rantz-radical-wa-trans-youth-law-legalized-state-sanctioned-kidnapping/#:~:text=SB 5599,)
 * [MyNorthwest](/org/mynorthwest/) - [Minors seeking gender-affirming treatment can shelter without parent's knowledge if bill passes - MyNorthwest.com](https://mynorthwest.com/3874975/minors-seeking-gender-affirming-treatment-shelter-without-parents-knowledge-bill/#:~:text=Senate Bill 5599)
 * [The Seattle Times](/org/the_seattle_times/) - [With 10 days to go, some bills fall by the wayside in Olympia | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/with-10-days-to-go-some-bills-fall-by-the-wayside-in-olympia/#:~:text=Senate Bill 5599)
 * [The Seattle Times](/org/the_seattle_times/) - [What the right has wrong about caring for trans youth  | The Seattle Times](https://www.seattletimes.com/opinion/what-the-right-has-wrong-about-caring-for-trans-youth/#:~:text=Senate Bill 5599)
+* [Crosscut](/org/crosscut/) - [WA transgender youth bill targeted in national culture war | Crosscut](https://crosscut.com/politics/2023/05/wa-transgender-youth-bill-targeted-national-culture-war#:~:text=Senate Bill 5599)
 * [KUOW](/org/kuow/) - [KUOW - WA lawmakers pass housing, firearm bills ahead of cutoff, leave rent control, recycling bills behind](https://www.kuow.org/stories/wa-lawmakers-pass-housing-firearm-bills-ahead-of-cutoff-leave-rent-control-recycling-bills-behind#:~:text=Senate Bill 5599)
+* [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate Bill 5599)
 * [KUOW](/org/kuow/) - [KUOW - Washington state lawmakers pass protections for gender-affirming care](https://www.kuow.org/stories/washington-state-lawmakers-pass-protections-for-gender-affirming-care#:~:text=Senate Bill 5599)
 
 ## Meetings

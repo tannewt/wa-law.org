@@ -1,0 +1,38 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1068](/bill/2023-24/hb/1068/) > [Session Law](/bill/2023-24/hb/1068/S.SL/)
+
+# HB 1068 - Injured worker medical exams
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Session%20Laws/House/1068-S.SL.pdf)
+
+## Section 1
+1. [Empty]
+
+    a. Whenever the department or the self-insurer deems it necessary in order to (i) make a decision regarding claim allowance or reopening, (ii) resolve a new medical issue, an appeal, or case progress, or (iii) evaluate the worker's permanent disability or work restriction, a worker shall submit to examination by a physician or physicians selected by the department, with the rendition of a report to the person ordering the examination, the attending physician, and the injured worker.
+
+    b. The examination must be at a place reasonably convenient to the injured worker, or alternatively utilize telemedicine if the department determines telemedicine is appropriate for the examination. For purposes of this subsection, "reasonably convenient" means at a place where residents in the injured worker's community would normally travel to seek medical care for the same specialty as the examiner. The department must address in rule how to accommodate the injured worker if no approved medical examiner in the specialty needed is available in that community.
+
+2. The department or self-insurer shall provide the physician performing an examination with all relevant medical records from the worker's claim file. The director, in his or her discretion, may charge the cost of such examination or examinations to the self-insurer or to the medical aid fund as the case may be. The cost of said examination shall include payment to the worker of reasonable expenses connected therewith.
+
+3. For purposes of this section, "examination" means a physical or mental examination by a medical care provider licensed to practice medicine, osteopathy, podiatry, chiropractic, dentistry, or psychiatry at the request of the department or self-insured employer .
+
+4. [Empty]
+
+    a. The worker has the right to record the audio, video, or both, of all examinations ordered under this section, RCW 51.32.110, or by the board of industrial insurance appeals.
+
+    b. The worker or the worker's representative must provide notice to the entity scheduling the examination that the examination will be recorded no less than seven calendar days before the date of the examination. The department must adopt rules to define the notification process.
+
+    c. The worker is responsible for paying the costs of recording.
+
+    d. Upon request, the worker must provide one copy of the recording to the department or self-insured employer within 14 days of receiving the request, but in no case prior to the issuance of a written report of the examination.
+
+    e. The worker must take reasonable steps to ensure the recording equipment does not interfere with the examination. The worker may not hold the recording equipment while the examination is occurring.
+
+    f. The worker may not materially alter the recording. Benefits received as a result of any material alteration of the recording by the worker or done on the worker's behalf may be subject to repayment pursuant to RCW 51.32.240.
+
+    g. The worker may not post the recording to social media.
+
+    h. Recordings made under this subsection are deemed confidential pursuant to RCW 51.28.070.
+
+        i. The worker has the right to have one person, who is at least the age of majority and who is of the worker's choosing, to be present to observe all examinations ordered under this section, RCW 51.32.110, or by the board of industrial insurance appeals. The observer must be unobtrusive and not interfere with the examination. The observer may not be the worker's legal representative, an employee of the legal representative, the worker's attending provider, or an employee of the worker's attending provider.
+
+5. This section applies prospectively to all claims regardless of the date of injury.

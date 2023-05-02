@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [With 10 days to go, some bills fall by the wayside in Olympia | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/with-10-days-to-go-some-bills-fall-by-the-wayside-in-olympia/#:~:text=House Bill 1143)
@@ -22,12 +23,14 @@
 * [The Seattle Times](/org/the_seattle_times/) - [Blue state paradox: WA keeps arming up | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-keeps-getting-bluer-and-also-more-heavily-armed/#:~:text=House Bill 1143)
 * [Crosscut](/org/crosscut/) - [Rifle ban among gun-control bills advancing in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/02/rifle-ban-among-gun-control-bills-advancing-wa-legislature#:~:text=House Bill 1143)
 * [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=House Bill 1143)
+* [Crosscut](/org/crosscut/) - [With assault weapons ban, Washington enters a new era of gun reform | Crosscut](https://crosscut.com/politics/2023/04/assault-weapons-ban-washington-enters-new-era-gun-reform#:~:text=House Bill 1143)
 * [Crosscut](/org/crosscut/) - [Washington Senate passes ban on assault-style rifles | Crosscut](https://crosscut.com/politics/2023/04/washington-senate-passes-ban-assault-style-rifles#:~:text=House Bill 1143)
 * [MyNorthwest](/org/mynorthwest/) - [Gun store owner: Assault weapons ban is 'a failed policy' - MyNorthwest.com](https://mynorthwest.com/3875463/west-coast-armory-north-owner-assault-weapon-ban-failed-policy/#:~:text=House Bill 1143)
 * [KING5](/org/king5/) - [5 things to know this weekend | king5.com](https://www.king5.com/article/news/local/5-things-to-know-this-weekend/281-9e3a9fef-5b9c-4147-a295-b271a940d305#:~:text=House Bill 1143)
 * [KING5](/org/king5/) - [Assault weapon ban passes Washington state Senate | king5.com](https://www.king5.com/article/news/politics/state-politics/assault-weapon-ban-passes-senate-to-house-concurrence/281-4400321f-2822-4685-9fae-05a0f1cb1ef8#:~:text=House Bill 1143)
 * [KING5](/org/king5/) - [Bill requiring 10-day waiting period, safety training for gun buyers passes in Senate | king5.com](https://www.king5.com/article/news/politics/state-politics/firearm-bills-debated-washington-senate/281-cd3fb2a2-055c-4d6c-8641-676c0aafb5a0#:~:text=House Bill 1143)
 * [KUOW](/org/kuow/) - [KUOW - WA lawmakers pass key policy deadline, head into final week of session](https://www.kuow.org/stories/wa-lawmakers-pass-key-policy-deadline-head-into-final-week-of-session#:~:text=House Bill 1143)
+* [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=1143)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [State House passes bills to ban assault weapons and require background checks, safety training for gun purchases | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/08/state-house-passes-bills-to-ban-assault-weapons-an/#:~:text=House Bill 1143)
 * [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB 1143)
 * [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=HB 1143)

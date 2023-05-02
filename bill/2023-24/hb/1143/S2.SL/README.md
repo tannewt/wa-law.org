@@ -1,0 +1,227 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1143](/bill/2023-24/hb/1143/) > [Session Law](/bill/2023-24/hb/1143/S2.SL/)
+
+# HB 1143 - Firearms/purchase & transfer
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Session%20Laws/House/1143-S2.SL.pdf)
+
+## Section 1
+1. In addition to the other requirements of this chapter, no dealer may deliver a firearm to the purchaser thereof until:
+
+    a. The purchaser provides proof of completion of a recognized firearm safety training program within the last five years that complies with the requirements in section 2 of this act, or proof that the purchaser is exempt from the training requirement;
+
+    b. The dealer is notified by the Washington state patrol firearms background check program that the purchaser is eligible to possess a firearm under state and federal law; and
+
+    c. The requirements and time periods in RCW 9.41.092 have been satisfied.
+
+2.
+
+In determining whether the purchaser is eligible to possess a firearm, the Washington state patrol firearms background check program shall check with the  national instant criminal background check system, provided for by the Brady handgun violence prevention act (18 U.S.C. Sec. 921 et seq.), the Washington state patrol electronic database, the health care authority electronic database, the administrative office of the courts, LInX-NW, and with other agencies or resources as appropriate, to determine whether the applicant is ineligible under RCW 9.41.040 to possess a firearm.
+
+3. [Empty]
+
+    a. At the time of applying for the purchase of a firearm, the purchaser shall sign  and deliver to the dealer an application containing:
+
+        i. His or her full name, residential address, date and place of birth, race, and gender;
+
+        ii. The date and hour of the application;
+
+        iii. The applicant's driver's license number or state identification card number;
+
+        iv. A description of the firearm including the make, model, caliber and manufacturer's number if available at the time of applying for the purchase of the firearm. If the manufacturer's number is not available at the time of applying for the purchase of a firearm, the application may be processed, but delivery of the firearm to the purchaser may not occur unless the manufacturer's number is recorded on the application by the dealer and transmitted to the Washington state patrol firearms background check program; and
+
+    v. A statement that the purchaser is eligible to purchase and possess a firearm under state and federal law
+
+.
+
+    b. The dealer shall provide the applicant with information that contains two warnings substantially stated as follows:
+
+        i. CAUTION: Although state and local laws do not differ, federal law and state law on the possession of firearms differ. If you are prohibited by federal law from possessing a firearm, you may be prosecuted in federal court. State permission to purchase a firearm is not a defense to a federal prosecution; and
+
+        ii. CAUTION: The presence of a firearm in the home has been associated with an increased risk of death to self and others, including an increased risk of suicide, death during domestic violence incidents, and unintentional deaths to children and others.
+
+The purchaser shall be given a copy of the department of fish and wildlife pamphlet on the legal limits of the use of firearms and firearms safety.
+
+    c. The dealer shall, by the end of the business day, transmit the information from the application through secure automated firearms e-check (SAFE) to the Washington state patrol firearms background check program. The original application shall be retained by the dealer for six years.
+
+    d. The dealer shall deliver the firearm to the purchaser once the requirements and period of time specified in this chapter are satisfied. The application shall not be denied unless the purchaser is not eligible to purchase or possess the firearm under state or federal law or has not complied with the requirements of this section.
+
+    e. The Washington state patrol firearms background check program shall retain or destroy applications to purchase a firearm in accordance with the requirements of 18 U.S.C. Sec. 922.
+
+4. A person who knowingly makes a false statement regarding identity or eligibility requirements on the application to purchase a firearm is guilty of false swearing under RCW 9A.72.040.
+
+5. This section does not apply to sales to licensed dealers for resale or to the sale of antique firearms.
+
+## Section 2
+1. A person applying for the purchase or transfer of a firearm must provide proof of completion of a recognized firearms safety training program within the last five years that, at a minimum, includes instruction on:
+
+    a. Basic firearms safety rules;
+
+    b. Firearms and children, including secure gun storage and talking to children about gun safety;
+
+    c. Firearms and suicide prevention;
+
+    d. Secure gun storage to prevent unauthorized access and use;
+
+    e. Safe handling of firearms;
+
+    f. State and federal firearms laws, including prohibited firearms transfers and locations where firearms are prohibited;
+
+    g. State laws pertaining to the use of deadly force for self-defense; and
+
+    h. Techniques for avoiding a criminal attack and how to manage a violent confrontation, including conflict resolution.
+
+2. The training must be sponsored by a federal, state, county, or municipal law enforcement agency, a college or university, a nationally recognized organization that customarily offers firearms training, or a firearms training school with instructors certified by a nationally recognized organization that customarily offers firearms training. The proof of training shall be in the form of a certification that states under the penalty of perjury that the training included the minimum requirements.
+
+3. The training may include stories provided by individuals with lived experience in the topics listed in subsection (1)(a) through (g) of this section or an understanding of the legal and social impacts of discharging a firearm.
+
+4. The firearms safety training requirement of this section does not apply to:
+
+    a. A person who is a:
+
+        i. General authority Washington peace officer as defined in RCW 10.93.020;
+
+        ii. Limited authority Washington peace officer as defined in RCW 10.93.020 who as a normal part of their duties has arrest powers and carries a firearm;
+
+        iii. Specially commissioned Washington peace officer as defined in RCW 10.93.020 who as a normal part of their duties has arrest powers and carries a firearm; or
+
+        iv. Federal peace officer as defined in RCW 10.93.020 who as a normal part of their duties has arrest powers and carries a firearm; or
+
+    b. A person who is an active duty member of the armed forces of the United States, an active member of the national guard, or an active member of the armed forces reserves who, as part of the applicant's service, has completed, within the last five years, a course of training in firearms proficiency or familiarization that included training on the safe handling and shooting proficiency with firearms.
+
+## Section 3
+1. [Empty]
+
+    a. At the time a person is convicted or found not guilty by reason of insanity of an offense making the person ineligible to possess a firearm under state or federal law, including if the person was convicted of possession under RCW 69.50.4011, 69.50.4013, 69.50.4014, or 69.41.030, or at the time a person is committed by court order under RCW 71.05.240, 71.05.320, 71.34.740, 71.34.750, or chapter 10.77 RCW for mental health treatment, or at the time that charges are dismissed based on incompetency to stand trial under RCW 10.77.088 and the court makes a finding that the person has a history of one or more violent acts, the convicting or committing court, or court that dismisses charges, shall notify the person, orally and in writing, that the person must immediately surrender any concealed pistol license and that the person may not possess a firearm unless his or her right to do so is restored by a court of record. For purposes of this section a convicting court includes a court in which a person has been found not guilty by reason of insanity.
+
+    b. The court shall forward within three judicial days after conviction, entry of the commitment order, or dismissal of charges, a copy of the person's driver's license or identicard, or comparable information such as their name, address, and date of birth, along with the date of conviction or commitment, or date charges are dismissed, to the department of licensing and to the Washington state patrol firearms background check program. When a person is committed by court order under RCW 71.05.240, 71.05.320, 71.34.740, 71.34.750, or chapter 10.77 RCW, for mental health treatment, or when a person's charges are dismissed based on incompetency to stand trial under RCW 10.77.088 and the court makes a finding that the person has a history of one or more violent acts, the court also shall forward, within three judicial days after entry of the commitment order, or dismissal of charges, a copy of the person's driver's license, or comparable information, along with the date of commitment or date charges are dismissed, to the national instant criminal background check system index, denied persons file, created by the federal Brady handgun violence prevention act (P.L. 103-159). The petitioning party shall provide the court with the information required. If more than one commitment order is entered under one cause number, only one notification to the department of licensing, the Washington state patrol firearms background check program, and the national instant criminal background check system is required.
+
+2. Upon receipt of the information provided for by subsection (1) of this section, the department of licensing shall determine if the convicted or committed person, or the person whose charges are dismissed based on incompetency to stand trial, has a concealed pistol license. If the person does have a concealed pistol license, the department of licensing shall immediately notify the license-issuing authority which, upon receipt of such notification, shall immediately revoke the license.
+
+3. [Empty]
+
+    a. A person who is prohibited from possessing a firearm, by reason of having been involuntarily committed for mental health treatment under RCW 71.05.240, 71.05.320, 71.34.740, 71.34.750, chapter 10.77 RCW, or equivalent statutes of another jurisdiction, or by reason of having been detained under RCW 71.05.150 or 71.05.153, or because the person's charges were dismissed based on incompetency to stand trial under RCW 10.77.088 and the court made a finding that the person has a history of one or more violent acts, may, upon discharge, petition the superior court to have his or her right to possess a firearm restored.
+
+    b. The petition must be brought in the superior court that ordered the involuntary commitment or dismissed the charges based on incompetency to stand trial or the superior court of the county in which the petitioner resides.
+
+    c. Except as provided in (d) and (e) of this subsection, the court shall restore the petitioner's right to possess a firearm if the petitioner proves by a preponderance of the evidence that:
+
+        i. The petitioner is no longer required to participate in court-ordered inpatient or outpatient treatment;
+
+        ii. The petitioner has successfully managed the condition related to the commitment or detention or incompetency;
+
+        iii. The petitioner no longer presents a substantial danger to himself or herself, or the public; and
+
+        iv. The symptoms related to the commitment or detention or incompetency are not reasonably likely to recur.
+
+    d. If a preponderance of the evidence in the record supports a finding that the person petitioning the court has engaged in violence and that it is more likely than not that the person will engage in violence after his or her right to possess a firearm is restored, the person shall bear the burden of proving by clear, cogent, and convincing evidence that he or she does not present a substantial danger to the safety of others.
+
+    e. If the petitioner seeks restoration after having been detained under RCW 71.05.150 or 71.05.153, the state shall bear the burden of proof to show, by a preponderance of the evidence, that the petitioner does not meet the restoration criteria in (c) of this subsection.
+
+    f. When a person's right to possess a firearm has been restored under this subsection, the court shall forward, within three judicial days after entry of the restoration order, notification that the person's right to possess a firearm has been restored to the department of licensing and the Washington state patrol criminal records division, with a copy of the person's driver's license or identicard, or comparable identification such as their name, address, and date of birth, and to the health care authority, and the national instant criminal background check system index, denied persons file. In the case of a person whose right to possess a firearm has been suspended for six months as provided in RCW 71.05.182, the department of licensing shall forward notification of the restoration order to the licensing authority, which, upon receipt of such notification, shall immediately lift the suspension, restoring the person's concealed pistol license.
+
+4. No person who has been found not guilty by reason of insanity may petition a court for restoration of the right to possess a firearm unless the person meets the requirements for the restoration of the right to possess a firearm under RCW 9.41.040(4).
+
+## Section 4
+Except as otherwise provided in this chapter , a licensed dealer may not deliver any firearm to a purchaser or transferee until :
+
+1. The results of all required background checks are known and the purchaser or transferee (a) is not prohibited from owning or possessing a firearm under federal or state law and (b) does not have a voluntary waiver of firearm rights currently in effect; and
+
+2. Ten business days have elapsed from the date the licensed dealer requested the background check.
+
+## Section 5
+A signed application to purchase a firearm shall constitute a waiver of confidentiality and written request that the health care authority, mental health institutions, and other health care facilities release information relevant to the applicant's eligibility to purchase a firearm to an inquiring court , law enforcement agency, or the Washington state patrol firearms background check program.
+
+## Section 6
+1. The health care authority, mental health institutions, and other health care facilities shall, upon request of a court, law enforcement agency, or the state, supply such relevant information as is necessary to determine the eligibility of a person to possess a firearm , to be issued a concealed pistol license under RCW 9.41.070, or to purchase a firearm under RCW 9.41.090.
+
+2. Mental health information received by: (a) The department of licensing pursuant to RCW 9.41.047 or 9.41.173; (b) an issuing authority pursuant to RCW 9.41.047 or 9.41.070; (c) a chief of police or sheriff pursuant to RCW 9.41.090 or 9.41.173; (d) a court or law enforcement agency pursuant to subsection (1) of this section; or (e) the Washington state patrol firearms background check program pursuant to RCW 9.41.090, shall not be disclosed except as provided in RCW 42.56.240(4).
+
+## Section 7
+1. The state, local governmental entities, any public or private agency, and the employees of any state or local governmental entity or public or private agency, acting in good faith, are immune from liability:
+
+    a. For failure to prevent the sale or transfer of a firearm to a person whose receipt or possession of the firearm is unlawful;
+
+    b. For preventing the sale or transfer of a firearm to a person who may lawfully receive or possess a firearm;
+
+    c. For issuing a concealed pistol license or alien firearm license to a person ineligible for such a license;
+
+    d. For failing to issue a concealed pistol license or alien firearm license to a person eligible for such a license;
+
+    e. For revoking or failing to revoke an issued concealed pistol license or alien firearm license;
+
+    f. For errors in preparing or transmitting information as part of determining a person's eligibility to receive or possess a firearm, or eligibility for a concealed pistol license or alien firearm license;
+
+    g. For issuing a dealer's license to a person ineligible for such a license; or
+
+    h. For failing to issue a dealer's license to a person eligible for such a license.
+
+2. An application may be made to a court of competent jurisdiction for a writ of mandamus:
+
+    a. Directing an issuing agency to issue a concealed pistol license or alien firearm license wrongfully refused;
+
+    b. Directing the Washington state patrol firearms background check program to approve an application to purchase a firearm wrongfully denied;
+
+    c. Directing that erroneous information resulting either in the wrongful refusal to issue a concealed pistol license or alien firearm license or in the wrongful denial of a purchase application for a firearm be corrected; or
+
+    d. Directing a law enforcement agency to approve a dealer's license wrongfully denied.
+
+The application for the writ may be made in the county in which the application for a concealed pistol license or alien firearm license or an application to purchase a firearm was made, or in Thurston county, at the discretion of the petitioner. A court shall provide an expedited hearing for an application brought under this subsection (2) for a writ of mandamus. A person granted a writ of mandamus under this subsection (2) shall be awarded reasonable attorneys' fees and costs.
+
+## Section 8
+1. No dealer may sell or otherwise transfer, or expose for sale or transfer, or have in his or her possession with intent to sell, or otherwise transfer, any pistol without being licensed as provided in this section.
+
+2. No dealer may sell or otherwise transfer, or expose for sale or transfer, or have in his or her possession with intent to sell, or otherwise transfer, any firearm other than a pistol without being licensed as provided in this section.
+
+3. No dealer may sell or otherwise transfer, or expose for sale or transfer, or have in his or her possession with intent to sell, or otherwise transfer, any ammunition without being licensed as provided in this section.
+
+4. The duly constituted licensing authorities of any city, town, or political subdivision of this state shall grant licenses in forms prescribed by the director of licensing effective for not more than one year from the date of issue permitting the licensee to sell firearms within this state subject to the following conditions, for breach of any of which the license shall be forfeited and the licensee subject to punishment as provided in this chapter. A licensing authority shall forward a copy of each license granted to the department of licensing. The department of licensing shall notify the department of revenue of the name and address of each dealer licensed under this section.
+
+5. [Empty]
+
+    a. A licensing authority shall, within thirty days after the filing of an application of any person for a dealer's license, determine whether to grant the license. However, if the applicant does not have a valid permanent Washington driver's license or Washington state identification card, or has not been a resident of the state for the previous consecutive ninety days, the licensing authority shall have up to sixty days to determine whether to issue a license. No person shall qualify for a license under this section without first receiving a federal firearms license and undergoing fingerprinting and a background check. In addition, no person ineligible to possess a firearm under RCW 9.41.040 or ineligible for a concealed pistol license under RCW 9.41.070 shall qualify for a dealer's license.
+
+    b. A dealer shall require every employee who may sell a firearm in the course of his or her employment to undergo fingerprinting and a background check. An employee must be eligible to possess a firearm, and must not have been convicted of a crime that would make the person ineligible for a concealed pistol license, before being permitted to sell a firearm. Every employee shall comply with requirements concerning purchase applications and restrictions on delivery of firearms that are applicable to dealers.
+
+6. [Empty]
+
+    a. Except as otherwise provided in (b) of this subsection, the business shall be carried on only in the building designated in the license. For the purpose of this section, advertising firearms for sale shall not be considered the carrying on of business.
+
+    b. A dealer may conduct business temporarily at a location other than the building designated in the license, if the temporary location is within Washington state and is the location of a gun show sponsored by a national, state, or local organization, or an affiliate of any such organization, devoted to the collection, competitive use, or other sporting use of firearms in the community. Nothing in this subsection (6)(b) authorizes a dealer to conduct business in or from a motorized or towed vehicle.
+
+In conducting business temporarily at a location other than the building designated in the license, the dealer shall comply with all other requirements imposed on dealers by RCW 9.41.090, 9.41.100, and this section. The license of a dealer who fails to comply with the requirements of RCW 9.41.080 and 9.41.090 and subsection (8) of this section while conducting business at a temporary location shall be revoked, and the dealer shall be permanently ineligible for a dealer's license.
+
+7. The license or a copy thereof, certified by the issuing authority, shall be displayed on the premises in the area where firearms are sold, or at the temporary location, where it can easily be read.
+
+8. [Empty]
+
+    a. No firearm may be sold: (i) In violation of any provisions of this chapter; nor (ii)  under any circumstances unless the purchaser is personally known to the dealer or shall present clear evidence of his or her identity.
+
+    b. A dealer who sells or delivers any firearm in violation of RCW 9.41.080 is guilty of a class C felony. In addition to any other penalty provided for by law, the dealer is subject to mandatory permanent revocation of his or her dealer's license and permanent ineligibility for a dealer's license.
+
+    c. The license fee for pistols shall be one hundred twenty-five dollars. The license fee for firearms other than pistols shall be one hundred twenty-five dollars. The license fee for ammunition shall be one hundred twenty-five dollars. Any dealer who obtains any license under subsection (1), (2), or (3) of this section may also obtain the remaining licenses without payment of any fee. The fees received under this section shall be deposited in the state general fund.
+
+9. [Empty]
+
+    a. A true record  shall be made of every pistol or semiautomatic assault rifle sold, in a book kept for the purpose, the form of which may be prescribed by the director of licensing and shall be personally signed by the purchaser and by the person effecting the sale, each in the presence of the other, and shall contain the date of sale, the caliber, make, model and manufacturer's number of the weapon, the name, address, occupation, and place of birth of the purchaser, and a statement signed by the purchaser that he or she is not ineligible under state or federal law to possess a firearm. The dealer shall retain the transfer record for six years.
+
+    b. The dealer shall transmit the information from the firearm transfer application through secure automated firearms e-check (SAFE) to the Washington state patrol firearms background check program. The Washington state patrol firearms background check program shall transmit the application information for pistol and semiautomatic assault rifle transfer applications to the director of licensing daily. The original application shall be retained by the dealer for six years.
+
+10. Subsections (2) through (9) of this section shall not apply to sales at wholesale.
+
+11. The dealer's licenses authorized to be issued by this section are general licenses covering all sales by the licensee within the effective period of the licenses. The department shall provide a single application form for dealer's licenses and a single license form which shall indicate the type or types of licenses granted.
+
+12. Except as otherwise provided in this chapter, every city, town, and political subdivision of this state is prohibited from requiring the purchaser to secure a permit to purchase or from requiring the dealer to secure an individual permit for each sale.
+
+## Section 9
+1. Beginning on the date that is thirty days after the Washington state patrol issues a notification to dealers that a state firearms background check system is established within the Washington state patrol under RCW 43.43.580, a dealer shall use the Washington state patrol firearms background check program to conduct background checks for all firearms transfers. A dealer may not sell or transfer a firearm to an individual unless the dealer first contacts the Washington state patrol firearms background check program for a background check to determine the eligibility of the purchaser or transferee to possess a firearm under state and federal law and the requirements and time periods established in RCW 9.41.090 and 9.41.092 have been satisfied.
+
+2. A dealer shall charge a purchaser or transferee a background check fee in an amount determined by the Washington state patrol and remit the proceeds from the fee to the Washington state patrol on a monthly basis. The background check fee does not apply to any background check conducted in connection with a pawnbroker's receipt of a pawned firearm or the redemption of a pawned firearm.
+
+3. This section does not apply to sales or transfers to licensed dealers or to the sale or transfer of an antique firearm.
+
+## Section 10
+## Section 11
+This act takes effect January 1, 2024.
+
+## Section 12
+If specific funding for the purposes of this act, referencing this act by bill or chapter number, is not provided by June 30, 2023, in the omnibus appropriations act, this act is null and void.

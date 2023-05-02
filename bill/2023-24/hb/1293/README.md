@@ -10,6 +10,7 @@
 * [Passed Legislature](S.PL/)
 
 ## Articles
+* [The Urbanist](/org/the_urbanist/) - [Heroes and Zeroes of the 2023 Washington State Legislature | The Urbanist](https://www.theurbanist.org/2023/05/01/heroes-and-zeroes-of-2023-legislature/#:~:text=HB 1293)
 * [The Urbanist](/org/the_urbanist/) - [Four Vital Housing and Climate Bills Survive the Washington Legislature | The Urbanist](https://www.theurbanist.org/2023/04/19/four-vital-housing-and-climate-bills-survive-the-washington-legislature/#:~:text=HB 1293)
 * [The Urbanist](/org/the_urbanist/) - [Missing Middle Housing, ADU, and Design Review Reforms Pass Second Chamber | The Urbanist](https://www.theurbanist.org/2023/04/12/missing-middle-housing-adu-and-design-review-reforms-pass-second-chamber/#:~:text=HB 1293)
 * [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB 1293)

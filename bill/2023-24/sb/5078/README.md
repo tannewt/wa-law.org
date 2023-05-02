@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [WA bans sale of AR-15s and other semi-automatic rifles, effective immediately | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-bans-sale-of-ar-15s-and-other-semiautomatic-rifles-effective-immediately/#:~:text=Senate Bill 5078)
@@ -17,6 +18,8 @@
 * [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=SB 5078)
 * [Crosscut](/org/crosscut/) - [Rifle ban among gun-control bills advancing in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/02/rifle-ban-among-gun-control-bills-advancing-wa-legislature#:~:text=Senate Bill 5078)
 * [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=Senate Bill 5078)
+* [Crosscut](/org/crosscut/) - [With assault weapons ban, Washington enters a new era of gun reform | Crosscut](https://crosscut.com/politics/2023/04/assault-weapons-ban-washington-enters-new-era-gun-reform#:~:text=Senate Bill 5078)
+* [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate Bill 5078)
 * [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SB 5078)
 * [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=SB 5078)
 * [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB 5078)

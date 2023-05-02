@@ -20,6 +20,7 @@
 * [KING5](/org/king5/) - [5 things to know Friday | king5.com](https://www.king5.com/article/news/local/5-things-know-friday/281-d7bfcdc7-6d19-4c18-8dfc-86b1eb5f8e3d#:~:text=ESHB 1155)
 * [KING5](/org/king5/) - [Bill to strengthen health data privacy passes state legislature | king5.com](https://www.king5.com/article/news/politics/state-politics/bill-strengthen-privacy-health-data/281-527855ee-640a-4e80-b655-6f89c977fdc0#:~:text=ESHB 1155)
 * [KUOW](/org/kuow/) - [KUOW - WA lawmakers pass key policy deadline, head into final week of session](https://www.kuow.org/stories/wa-lawmakers-pass-key-policy-deadline-head-into-final-week-of-session#:~:text=House Bill 1155)
+* [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=House Bill 1155)
 * [Hacks and Wonks](/org/hacks_and_wonks/) - [Megan Burbank and the State of Reproductive Healthcare in Washington — Hacks & Wonks](https://www.officialhacksandwonks.com/blog/megan-burbank-reproductive-healthcare#:~:text=HB 1155)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Washington lawmakers are trying to protect out-of-state abortion patients. Here's what you need to know: | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/05/washington-lawmakers-are-trying-to-protect-out-of-/#:~:text=House Bill 1155)
 

@@ -25,6 +25,7 @@
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Healthcare](https://crosscut.com/voter-guide/2023-legislative-tracker/election/healthcare#:~:text=House Bill 1469)
 * [KUOW](/org/kuow/) - [KUOW - Two bills to protect abortion rights move  forward in Olympia](https://www.kuow.org/stories/two-bills-to-protect-abortion-rights-move-forward-in-olympia#:~:text=HB 1469)
 * [KUOW](/org/kuow/) - [KUOW - WA lawmakers pass key policy deadline, head into final week of session](https://www.kuow.org/stories/wa-lawmakers-pass-key-policy-deadline-head-into-final-week-of-session#:~:text=House Bill 1469)
+* [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=House Bill 1469)
 * [Hacks and Wonks](/org/hacks_and_wonks/) - [Megan Burbank and the State of Reproductive Healthcare in Washington — Hacks & Wonks](https://www.officialhacksandwonks.com/blog/megan-burbank-reproductive-healthcare#:~:text=HB 1469)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Washington lawmakers are trying to protect out-of-state abortion patients. Here's what you need to know: | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/05/washington-lawmakers-are-trying-to-protect-out-of-/#:~:text=House Bill 1469)
 

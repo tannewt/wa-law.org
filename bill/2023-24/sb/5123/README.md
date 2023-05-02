@@ -13,6 +13,7 @@
 * [The Seattle Times](/org/the_seattle_times/) - [WA Senate passes bill to bar hiring discrimination for cannabis use | The Seattle Times](https://www.seattletimes.com/seattle-news/wa-senate-passes-bill-to-bar-hiring-discrimination-for-cannabis-use/#:~:text=Senate Bill 5123)
 * [Crosscut](/org/crosscut/) - [How federal weed legalization would impact Washington state | Crosscut](https://crosscut.com/politics/2023/03/how-federal-weed-legalization-would-impact-washington-state#:~:text=Senate Bill 5123)
 * [Crosscut](/org/crosscut/) - [New law prepares Washington for interstate cannabis sales | Crosscut](https://crosscut.com/politics/2023/04/new-law-prepares-washington-interstate-cannabis-sales#:~:text=Senate Bill 5123)
+* [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate Bill 5123)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Bill would eliminate pre-employment cannabis testing in Washington | The Spokesman-Review](https://www.spokesman.com/stories/2023/feb/27/bill-to-eliminate-pre-employment-cannabis-testing-/#:~:text=Senate Bill 5123)
 
 ## Meetings

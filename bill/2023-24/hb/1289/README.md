@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Wed 01/25 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1289 Opportunity scholarship

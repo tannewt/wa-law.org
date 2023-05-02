@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## Articles
+* [The Urbanist](/org/the_urbanist/) - [Heroes and Zeroes of the 2023 Washington State Legislature | The Urbanist](https://www.theurbanist.org/2023/05/01/heroes-and-zeroes-of-2023-legislature/#:~:text=SB 5466)
 * [The Urbanist](/org/the_urbanist/) - [Missing Middle Housing, ADU, and Design Review Reforms Pass Second Chamber | The Urbanist](https://www.theurbanist.org/2023/04/12/missing-middle-housing-adu-and-design-review-reforms-pass-second-chamber/#:~:text=SB 5466)
 * [The Urbanist](/org/the_urbanist/) - [State Lawmakers Must Pass Middle Housing Bill and Strip Poison Pill from TOD Bill | The Urbanist](https://www.theurbanist.org/2023/04/06/state-lawmakers-must-pass-middle-housing-bill-and-strip-poison-pill-from-tod-bill/#:~:text=Senate Bill 5466)
 * [PubliCola](/org/publicola/) - [House Democrats Cede Ground on Density, Scaling Back Transit-Oriented Development Bill - PubliCola](https://publicola.com/2023/04/05/house-democrats-cede-ground-on-density-scaling-back-transit-oriented-development-bill/#:~:text=SB 5466)
@@ -31,6 +32,7 @@
 * [Crosscut](/org/crosscut/) - [WA looks to address housing shortage with density, zoning changes | Crosscut](https://crosscut.com/politics/2023/03/washington-has-shot-passing-massive-housing-reform-package#:~:text=Senate Bill 5466)
 * [PubliCola](/org/publicola/) - [Legislature Scales Back One Pro-Housing Bill While Shelving Another - PubliCola](https://publicola.com/2023/04/14/legislature-scales-back-one-pro-housing-bill-while-shelving-another/#:~:text=SB 5466)
 * [KING5](/org/king5/) - [Bill aims to promote ‘transit-oriented’ housing in Washington | king5.com](https://www.king5.com/article/news/local/bill-promote-transit-oriented-housing-washington/281-70d4c5b8-9e8f-47fa-944a-96ff4678e955#:~:text=House Bill 5466)
+* [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate Bill 5466)
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 10 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate031323#:~:text=S.B. 5466)
 
 ## Meetings

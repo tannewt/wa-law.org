@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Articles
 * [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | Assault Weapons Ban Clears Washington State Senate | South Seattle Emerald](https://southseattleemerald.com/2023/04/10/news-gleams-assault-weapons-ban-clears-washington-state-senate/#:~:text=House Bill 1240)
@@ -23,6 +24,7 @@
 * [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=House Bill 1240)
 * [Crosscut](/org/crosscut/) - [Rifle ban among gun-control bills advancing in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/02/rifle-ban-among-gun-control-bills-advancing-wa-legislature#:~:text=House Bill 1240)
 * [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=House Bill 1240)
+* [Crosscut](/org/crosscut/) - [With assault weapons ban, Washington enters a new era of gun reform | Crosscut](https://crosscut.com/politics/2023/04/assault-weapons-ban-washington-enters-new-era-gun-reform#:~:text=House Bill 1240)
 * [Crosscut](/org/crosscut/) - [Washington Senate passes ban on assault-style rifles | Crosscut](https://crosscut.com/politics/2023/04/washington-senate-passes-ban-assault-style-rifles#:~:text=HB 1240)
 * [Crosscut](/org/crosscut/) - [Washington state bans sale of most semi-automatic rifles | Crosscut](https://crosscut.com/politics/2023/04/washington-state-bans-sale-most-semi-automatic-rifles#:~:text=House Bill 1240)
 * [MyNorthwest](/org/mynorthwest/) - [Lynnwood embroiled in debate over WA assault weapon ban - MyNorthwest.com](https://mynorthwest.com/3871833/lynnwood-embroiled-internal-city-council-debate-state-wide-assault-weapon-ban/#:~:text=House Bill 1240)
@@ -35,6 +37,7 @@
 * [KIRO7](/org/kiro7/) - [WA State Senate passes assault weapons ban, brought upon by mass shootings – KIRO 7 News Seattle](https://www.kiro7.com/news/local/wa-senate-approves-legislation-banning-sale-assault-weapons/SVWOJCDNNFCXTIWSUZ6QNFYZQY/#:~:text=House Bill 1240)
 * [KUOW](/org/kuow/) - [KUOW - Gun rights groups sue to stop WA ban on semi-automatic rifle sales](https://www.kuow.org/stories/gun-rights-groups-sue-to-stop-ban-on-semi-automatic-rifle-sales-in-washington-state#:~:text=HB 1240)
 * [KUOW](/org/kuow/) - [KUOW - WA lawmakers pass key policy deadline, head into final week of session](https://www.kuow.org/stories/wa-lawmakers-pass-key-policy-deadline-head-into-final-week-of-session#:~:text=House Bill 1240)
+* [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=House Bills 1240)
 * [KUOW](/org/kuow/) - [KUOW - Will Washington's new assault weapons ban hold up in court? Gov. Inslee thinks 'it should survive'](https://www.kuow.org/stories/will-washington-s-assault-weapons-ban-hold-up-in-court-gov-inslee-thinks-so#:~:text=HB1240)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [What is an 'assault weapon'? Lawmakers, retailers disagree on the definition as Washington Legislature considers ban | The Spokesman-Review](https://www.spokesman.com/stories/2023/apr/04/what-is-an-assault-weapon-lawmakers-retailers-disa/#:~:text=House Bill 1240)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [State House passes bills to ban assault weapons and require background checks, safety training for gun purchases | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/08/state-house-passes-bills-to-ban-assault-weapons-an/#:~:text=House Bill 1240)

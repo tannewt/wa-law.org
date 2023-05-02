@@ -11,6 +11,7 @@
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [WA Legislature can protect warehouse workers when employers won’t | The Seattle Times](https://www.seattletimes.com/opinion/wa-legislature-can-protect-warehouse-workers-when-employers-wont/#:~:text=House Bill 1762)
+* [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=House Bill 1762)
 
 ## Meetings
 ### Thu 03/16 08:00 AM - Labor & Commerce (LC): 2SHB 1762 Warehouse employees

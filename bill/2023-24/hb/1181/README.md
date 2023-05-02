@@ -11,6 +11,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## Articles
+* [The Urbanist](/org/the_urbanist/) - [Heroes and Zeroes of the 2023 Washington State Legislature | The Urbanist](https://www.theurbanist.org/2023/05/01/heroes-and-zeroes-of-2023-legislature/#:~:text=HB 1181)
 * [PubliCola](/org/publicola/) - [Growth Is Coming. The Legislature Needs to Plan for It. - PubliCola](https://publicola.com/2023/03/30/growth-is-coming-the-legislature-needs-to-plan-for-it/#:~:text=HB 1181)
 * [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=E2SHB 1181)
 * [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=E2SHB 1181)

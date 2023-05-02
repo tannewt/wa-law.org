@@ -11,6 +11,7 @@
 * [The Seattle Times](/org/the_seattle_times/) - [WA stockpiles abortion pills ahead of federal court ruling | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-stockpiles-abortion-pills-ahead-of-federal-court-ruling/#:~:text=Senate Bill 5768)
 * [Crosscut](/org/crosscut/) - [Gov. Inslee buys 3-year supply of abortion pills in case of ban | Crosscut](https://crosscut.com/politics/2023/04/gov-inslee-buys-3-year-supply-abortion-pills-case-ban#:~:text=Senate Bill 5768)
 * [KUOW](/org/kuow/) - [KUOW - WA lawmakers pass key policy deadline, head into final week of session](https://www.kuow.org/stories/wa-lawmakers-pass-key-policy-deadline-head-into-final-week-of-session#:~:text=Senate Bill 5768)
+* [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate Bill 5768)
 
 ## Meetings
 ### Tue 04/18 12:30 PM - Appropriations (APP): SB 5768 DOC/abortion medications
