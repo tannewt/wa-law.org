@@ -12,11 +12,16 @@
 * [Session Law](S2.SL/)
 
 ## Articles
+* [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate Bill 5236)
 * [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [Victory for workers and patients: Governor Inslee signs Safe Staffing bill into law - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/victory-for-workers-and-patients-governor-inslee-signs-safe-staffing-bill-into-law/#:~:text=SB 5236)
 * [MyNorthwest](/org/mynorthwest/) - [Rantz: Union-backed bill gets friendly, misleading media support - MyNorthwest.com](https://mynorthwest.com/3825726/rantz-union-bill-misleading-media-support/#:~:text=SB 5236)
 * [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/research/2023-legislative-agenda/#:~:text=SB 5236)
 * [The Seattle Times](/org/the_seattle_times/) - [Legislature must address WA nursing crisis | The Seattle Times](https://www.seattletimes.com/opinion/editorials/legislature-must-address-wa-nursing-crisis/#:~:text=Senate Bill 5236)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/12/the-house-hot-sheet-for-week-10-of-the-2023-legislative-session/#:~:text=SB 5236)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 11 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/19/the-house-hot-sheet-for-week-11-of-the-2023-legislative-session/#:~:text=SB 5236)
+* [House Democrats](/org/house_democrats/) - [The Hot Sheet – Washington State House Democrats](https://housedemocrats.wa.gov/media/the-hot-sheet/#:~:text=SB 5236)
 * [MyNorthwest](/org/mynorthwest/) - [Virginia Mason Franciscan Health lays off 400 workers - MyNorthwest.com](https://mynorthwest.com/3871365/virginia-mason-franciscan-health-lays-off-400-workers-nurses-struggle-demand-healthcare-workers/#:~:text=Senate Bill 5236)
+* [Senate Democrats](/org/senate_democrats/) - [Bill to help address health care staffing shortage signed into law - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/04/20/bill-to-help-address-health-care-staffing-shortage-signed-into-law/#:~:text=Senate Bill 5236)
 * [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate Bill 5236)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [State Senate passes safe staffing standard, in compromise between hospitals, unions | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/08/state-senate-passes-safe-staffing-standard-in-comp/#:~:text=Senate Bill 5236)
 

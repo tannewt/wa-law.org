@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
 
+## Articles
+* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1457)
+
 ## Meetings
 ### Tue 03/21 04:00 PM - Ways & Means (WM): SHB 1457 Motor carriers/restrooms
 #### 15 👍 - Pro

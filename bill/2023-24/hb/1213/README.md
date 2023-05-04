@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
 
+## Articles
+* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1213)
+
 ## Meetings
 ### Fri 03/10 08:00 AM - Environment, Energy & Technology (ENET): SHB 1213 Wipe labeling
 #### 3 👍 - Pro

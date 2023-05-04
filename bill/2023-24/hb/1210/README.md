@@ -7,6 +7,10 @@
 * [Original Bill](1/)
 
 ## Articles
+* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1210)
+* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House Bill 1210)
+* [House Republicans](/org/house_republicans/) - [Recording school district board meetings | Washington State House Republicans](https://houserepublicans.wa.gov/recording-school-district-board-meetings/#:~:text=House bill 1210)
+* [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=House bill 1210)
 * [Washington St Pta](/org/washington_st_pta/) - [Senate Passes Preventing Gun Violence Legislation in Week 13 Report - WSPTA](https://www.wastatepta.org/senate-passes-preventing-gun-violence-legislation-in-week-13-report/#:~:text=HB 1210)
 
 ## Meetings

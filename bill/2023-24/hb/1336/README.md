@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1336)
+
 ## Meetings
 ### Mon 03/13 04:00 PM - Ways & Means (WM): EHB 1336 Vol. firefighter pensions
 #### 4 👍 - Pro

@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [House Democrats](/org/house_democrats/) - [Lekanoff hosts lawmakers and tribal leaders to view film on salmon recovery – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/04/lekanoff-hosts-lawmakers-and-tribal-leaders-to-view-film-on-salmon-recovery/#:~:text=HB 1735)
+
 ## Meetings
 ### Tue 02/07 04:00 PM - Environment & Energy (ENVI): HB 1735 GMA/net ecological gain
 #### 14 👍 - Pro

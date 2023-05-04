@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB 1022)
+
 ## Meetings
 ### Thu 02/02 01:30 PM - Finance (FIN): HB 1022 Support & services levies
 #### 6 👍 - Pro

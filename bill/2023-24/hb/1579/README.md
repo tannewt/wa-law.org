@@ -10,6 +10,8 @@
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [With 10 days to go, some bills fall by the wayside in Olympia | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/with-10-days-to-go-some-bills-fall-by-the-wayside-in-olympia/#:~:text=House Bill 1579)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB 1579)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB 1579)
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): 2SHB 1579 Independent prosecutions

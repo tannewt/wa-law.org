@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [House Democrats](/org/house_democrats/) - [Bronoske bill to require AEDs for lineworkers passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/04/bronoske-bill-to-require-aeds-for-line-workers-passes-house/#:~:text=HB 1542)
+
 ## Meetings
 ### Tue 03/14 10:30 AM - Labor & Commerce (LC): HB 1542 AEDs/high voltage work
 #### 40 👍 - Pro

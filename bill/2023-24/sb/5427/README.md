@@ -8,6 +8,7 @@
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [WA has no hate crime hotline, but the idea is gaining traction | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-has-no-hate-crime-hotline-but-the-idea-is-gaining-traction/#:~:text=Senate Bill 5427)
+* [House Democrats](/org/house_democrats/) - [Hansen’s Bipartisan Anti-Doxing Bill Clears House, First Piece of Anti-Hate Package  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/27/hansens-bipartisan-anti-doxing-bill-clears-house-first-piece-of-anti-hate-package/#:~:text=SB 5427)
 
 ## Meetings
 ### Mon 02/20 09:00 AM - Ways & Means (WM): SB 5427 Hate crimes & bias incidents

@@ -9,6 +9,12 @@
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
 
+## Articles
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB 1335)
+* [House Democrats](/org/house_democrats/) - [Hansen’s Bipartisan Anti-Doxing Bill Clears House, First Piece of Anti-Hate Package  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/27/hansens-bipartisan-anti-doxing-bill-clears-house-first-piece-of-anti-hate-package/#:~:text=1335)
+* [House Democrats](/org/house_democrats/) - [Senn Invited to Participate in White House Antisemitism Listening Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/04/senn-invited-to-participate-in-white-house-antisemitism-listening-session/#:~:text=HB 1335,)
+* [House Democrats](/org/house_democrats/) - [Hansen’s bipartisan anti-doxing bill passes WA Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/06/hansens-bipartisan-anti-doxing-bill-passes-wa-senate/#:~:text=House Bill 1335)
+
 ## Meetings
 ### Mon 03/27 10:30 AM - Law & Justice (LAW): ESHB 1335 Personal identifying info.
 #### 16 👍 - Pro

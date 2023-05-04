@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## Articles
+* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House Bill 1158)
 * [The Seattle Times](/org/the_seattle_times/) - [Boot confusing advisory votes from WA ballots | The Seattle Times](https://www.seattletimes.com/opinion/editorials/boot-confusing-advisory-votes-from-wa-ballots/#:~:text=House Bill 1158)
 * [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=House Bill 1158)
 

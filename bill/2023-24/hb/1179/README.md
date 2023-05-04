@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [House Democrats](/org/house_democrats/) - [Governor Inslee signs measure to increase transparency in deadly force investigations – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/07/governor-inslee-signs-measure-to-increase-transparency-in-deadly-force-investigations/#:~:text=House Bill 1179)
+
 ## Meetings
 ### Thu 02/16 08:00 AM - Law & Justice (LAW): HB 1179 Nonconviction data/auditor
 #### 4 👍 - Pro

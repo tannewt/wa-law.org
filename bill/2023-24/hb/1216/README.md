@@ -13,6 +13,7 @@
 ## Articles
 * [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=HB 1216)
 * [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=HB 1216)
+* [The Center Square](/org/the_center_square/) - [Gov. Inslee signs a slew of climate bills into law from Eastern Washington | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0027a7a6-e9ed-11ed-b77a-7f7862703a86.html#:~:text=House Bill 1216)
 * [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB 1216)
 
 ## Meetings

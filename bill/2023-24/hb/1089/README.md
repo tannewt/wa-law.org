@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=House Bill 1089)
+
 ## Meetings
 ### Wed 02/08 04:00 PM - Appropriations (APP): HB 1089 Sex trafficking
 #### 166 👍 - Pro

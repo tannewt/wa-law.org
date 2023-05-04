@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [House Democrats](/org/house_democrats/) - [Representative Mari Leavitt Passes Four Bills to Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/24/representative-mari-leavitt-passes-four-bills-to-senate/#:~:text=HB 1209)
+* [House Democrats](/org/house_democrats/) - [Senate Committee Passes Leavitt Bill Addressing Controlled Substance Equipment – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/23/senate-committee-passes-leavitt-bill-addressing-controlled-substance-equipment/#:~:text=House Bill 1209)
+
 ## Meetings
 ### Thu 03/16 08:00 AM - Law & Justice (LAW): EHB 1209 Controlled substance equip.
 #### 5 👍 - Pro

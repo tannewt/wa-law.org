@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [House Democrats](/org/house_democrats/) - [Hansen’s Bipartisan Anti-Doxing Bill Clears House, First Piece of Anti-Hate Package  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/27/hansens-bipartisan-anti-doxing-bill-clears-house-first-piece-of-anti-hate-package/#:~:text=HB 1410)
+
 ## Meetings

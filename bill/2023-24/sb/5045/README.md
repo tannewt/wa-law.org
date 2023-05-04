@@ -11,8 +11,11 @@
 * [Passed Legislature](S2.PL/)
 
 ## Articles
+* [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate Bill 5045)
 * [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=SB 5045)
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Housing & Homelessness](https://crosscut.com/voter-guide/2023-legislative-tracker/election/housing-homelessness#:~:text=Senate Bill 5045)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 11 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/19/the-house-hot-sheet-for-week-11-of-the-2023-legislative-session/#:~:text=E2SSB 5045)
+* [House Democrats](/org/house_democrats/) - [The Hot Sheet – Washington State House Democrats](https://housedemocrats.wa.gov/media/the-hot-sheet/#:~:text=E2SSB 5045)
 * [KIRO7](/org/kiro7/) - [‘WA needs 1 million new homes within next 20 years’: Suite of bills target the housing crisis – KIRO 7 News Seattle](https://www.kiro7.com/news/local/wa-needs-1-million-new-homes-within-next-20-years-suite-bills-target-housing-crisis/UDGREATSP5FQXCOF6E5GUFIF5A/#:~:text=SB 5045)
 * [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate Bill 5045)
 

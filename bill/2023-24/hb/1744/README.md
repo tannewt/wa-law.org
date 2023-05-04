@@ -9,6 +9,9 @@
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
 
+## Articles
+* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1744)
+
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): ESHB 1744 Charter school oversight
 #### 5 👍 - Pro

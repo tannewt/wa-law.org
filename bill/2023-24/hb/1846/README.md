@@ -8,6 +8,11 @@
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [Beached ferry reminder of WA’s aging fleet as state struggles to replace boats | The Seattle Times](https://www.seattletimes.com/seattle-news/transportation/beached-ferry-reminder-of-was-aging-fleet-as-state-struggles-to-replace-boats/#:~:text=House Bill 1846)
+* [House Democrats](/org/house_democrats/) - [Opening the procurement of new vessels at Washington State Ferries to national shipbuilders – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/16/opening-the-procurement-of-new-vessels-at-washington-state-ferries-to-national-shipbuilders/#:~:text=HB 1846)
+* [House Democrats](/org/house_democrats/) - [House Democrats release state transportation budget / Demócratas de la Cámara de Representantes publican su presupuesto estatal de transporte – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/27/house-democrats-release-state-transportation-budget/#:~:text=HB 1846)
+* [House Democrats](/org/house_democrats/) - [Ferry procurement bill passes House, heads to Senate for consideration – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/11/ferry-procurement-bill-passes-house-heads-to-senate-for-consideration/#:~:text=HB 1846)
+* [House Democrats](/org/house_democrats/) - [Fey’s ferry bill now heads to the Governor’s desk – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/18/feys-ferry-bill-now-heads-to-the-governors-desk/#:~:text=HB 1846)
+* [KING5](/org/king5/) - [Here's why WSF says a ferry ran aground near Bainbridge Island | king5.com](https://www.king5.com/article/news/local/cause-washington-state-ferry-grounding/281-33ad2e45-1e98-42f8-bd6d-1985028234da#:~:text=House Bill 1846)
 * [KING5](/org/king5/) - [After boat runs aground, renewed calls for newer Washington State Ferry vessels | king5.com](https://www.king5.com/article/news/local/washington-aging-ferry-fleet-grounding/281-5951b9aa-c9e4-42d0-baac-96981eca517b#:~:text=House Bill 1846)
 
 ## Meetings

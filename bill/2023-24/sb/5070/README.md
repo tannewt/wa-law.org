@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Senate Democrats](/org/senate_democrats/) - [Nobles bill makes reimbursement Crime Victims Compensation Program permanent for survivors of strangulation - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/04/20/nobles-bill-makes-crime-victims-compensation-program-permanent/#:~:text=Senate Bill 5070)
+
 ## Meetings
 ### Wed 03/22 04:00 PM - Appropriations (APP): SB 5070 Nonfatal strangulation
 #### 4 👍 - Pro

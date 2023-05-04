@@ -10,6 +10,8 @@
 
 ## Articles
 * [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Our legislative priorities for 2023 | ACLU of Washington](http://www.aclu-wa.org/pages/2023-legislative-agenda#:~:text=HB 1445)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/22/the-house-hot-sheet-for-week-3-of-the-2023-legislative-session/#:~:text=HB 1445)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB 1445)
 
 ## Meetings
 ### Thu 02/16 04:00 PM - Appropriations (APP): SHB 1445 Law enf. misconduct

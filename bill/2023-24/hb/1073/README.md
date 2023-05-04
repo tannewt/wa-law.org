@@ -10,6 +10,12 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## Articles
+* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1073)
+* [Gorge News Center](/org/gorge_news_center/) - [Harris bill to expand medical assistants’ responsibilities unanimously passes the House](https://gorgenewscenter.com/2023/02/15/harris-bill-to-expand-medical-assistants-responsibilities-unanimously-passes-the-house/#:~:text=House Bill 1073)
+* [Gorge News Center](/org/gorge_news_center/) - [Senate sends Harris bill to expand medical assistants’ responsibilities to the governor](https://gorgenewscenter.com/2023/04/08/senate-sends-harris-bill-to-expand-medical-assistants-responsibilities-to-the-governor/#:~:text=House Bill 1073)
+* [Gorge News Center](/org/gorge_news_center/) - [Rep. Harris bill to expand medical assistants’ responsibilities signed into law](https://gorgenewscenter.com/2023/04/21/rep-harris-bill-to-expand-medical-assistants-responsibilities-signed-into-law/#:~:text=House Bill 1073)
+
 ## Meetings
 ### Thu 03/09 10:30 AM - Health & Long Term Care (HLTC): ESHB 1073 Medical assistants
 #### 19 👍 - Pro

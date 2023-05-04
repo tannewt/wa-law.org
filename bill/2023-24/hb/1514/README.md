@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1514)
+
 ## Meetings
 ### Tue 03/14 10:30 AM - Labor & Commerce (LC): HB 1514 RV & park trailers/insignia
 #### 3 👍 - Pro

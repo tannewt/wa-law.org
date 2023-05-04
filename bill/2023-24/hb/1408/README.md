@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=House Bill 1408)
+
 ## Meetings
 ### Mon 01/30 04:00 PM - Appropriations (APP): HB 1408 HIV medication rebate rev.
 #### 10 👍 - Pro

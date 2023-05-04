@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1100)
+
 ## Meetings
 ### Thu 03/09 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): HB 1100 Dispo. of remains/indigent
 #### 0 👍 - Pro

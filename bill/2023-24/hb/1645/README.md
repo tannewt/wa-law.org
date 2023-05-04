@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1645)
+
 ## Meetings
 ### Wed 02/15 08:00 AM - Local Government (LG): HB 1645 County legislative meetings
 #### 5 👍 - Pro

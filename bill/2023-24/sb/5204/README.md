@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=Senate Bill 5204)
+
 ## Meetings
 ### Fri 01/20 08:00 AM - Health & Long Term Care (HLTC): SB 5204 Fertility services coverage
 #### 625 👍 - Pro

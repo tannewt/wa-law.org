@@ -8,12 +8,18 @@
 * [Substitute Bill](S/)
 
 ## Articles
+* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House Bill 1513)
 * [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [It’s time to prioritize traffic safety for all Washingtonians. This bill will do that. | ACLU of Washington](http://www.aclu-wa.org/story/it%E2%80%99s-time-prioritize-traffic-safety-all-washingtonians-bill-will-do#:~:text=The Traffic Safety for All (HB 1513))
 * [The Seattle Times](/org/the_seattle_times/) - [WA Legislature forges ahead on assault weapons ban, new drug law | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-legislature-forges-ahead-on-assault-weapons-ban-new-drug-law/#:~:text=House Bill 1513)
 * [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Criminal Justice — Quaker Voice](https://www.quakervoicewa.org/criminal-justice/#:~:text=HB 1513)
 * [The Seattle Times](/org/the_seattle_times/) - [WA could narrow reasons for traffic stops in new police reform effort | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-could-narrow-reasons-for-traffic-stops-in-new-police-reform-effort/#:~:text=House Bill 1513)
 * [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Our legislative priorities for 2023 | ACLU of Washington](http://www.aclu-wa.org/pages/2023-legislative-agenda#:~:text=HB 1513)
 * [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers should pass two bills to add accountability to policing | The Seattle Times](https://www.seattletimes.com/opinion/wa-lawmakers-should-pass-two-bills-to-add-accountability-to-policing/#:~:text=House Bill 1513)
+* [House Democrats](/org/house_democrats/) - [Street introduces bill to improve public safety and advance racial equity by prioritizing safety-related traffic stops – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/26/street-introduces-bill-to-improve-public-safety-and-advance-racial-equity-by-prioritizing-safety-related-traffic-stops/#:~:text=House Bill 1513)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB 1513)
+* [House Democrats](/org/house_democrats/) - [Media Advisory: Bill to Limit Traffic Stops for Non-Moving Violations to be Heard in House Community Safety, Justice, & Reentry Committee Today – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/30/media-advisory-bill-to-limit-traffic-stops-for-non-moving-violations-to-be-heard-in-house-community-safety-justice-reentry-committee-today/#:~:text=HB 1513)
+* [House Democrats](/org/house_democrats/) - [Traffic Safety for All Act passes House Community Safety, Justice, & Reentry Committee – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/17/traffic-safety-for-all-act-passes-house-community-safety-justice-reentry-committee/#:~:text=HB 1513)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB 1513)
 
 ## Meetings
 ### Tue 02/21 01:30 PM - Transportation (TR): SHB 1513 Traffic safety

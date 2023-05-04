@@ -127,6 +127,8 @@ for org_rowid, domain in org_cur:
             url_loc = url.loc.text
             if "capitolhill" in url_loc and "/2023/" not in url_loc:
                 continue
+            if "gorgenewscenter.com" in url_loc and "/2023/" not in url_loc:
+                continue
             if "kuow.org" in url_loc and url_loc.count("http") > 1:
                 url_loc = url_loc[url_loc.index("http", 6):]
             # print(url.loc.text)
@@ -147,7 +149,7 @@ for org_rowid, domain in org_cur:
             continue
         try:
             page = session.get(page_url, fetch_again=False)
-        except (requests.exceptions.TooManyRedirects, requests.exceptions.MissingSchema, requests.exceptions.ConnectTimeout, urllib3.exceptions.LocationParseError) as e:
+        except (requests.exceptions.ConnectionError, requests.exceptions.SSLError, requests.exceptions.TooManyRedirects, requests.exceptions.MissingSchema, requests.exceptions.ConnectTimeout, urllib3.exceptions.LocationParseError) as e:
             print(e, page_url)
             continue
         if page is None:
@@ -189,7 +191,10 @@ for org_rowid, domain in org_cur:
 
             if "Year" in query and "BillNumber" in query:
                 cur = db.cursor()
-                year = int(query["Year"][0])
+                try:
+                    year = int(query["Year"][0])
+                except ValueError:
+                    continue
                 if year % 2 == 0:
                     start_year = year - 1
                 else:

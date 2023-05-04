@@ -8,6 +8,11 @@
 
 ## Articles
 * [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=HB 1823)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/13/the-house-hot-sheet-for-week-6-of-the-2023-legislative-session/#:~:text=HB 1823)
+* [House Democrats](/org/house_democrats/) - [Timmons’ Graduate Student Loan Bill Passes Out of Committee – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/17/timmons-graduate-student-loan-bill-passes-out-of-committee/#:~:text=HB 1823)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB 1823)
+* [House Democrats](/org/house_democrats/) - [Timmons’ Graduate Student Loan Bill Heads to the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/03/timmons-graduate-student-loan-bill-heads-to-the-senate/#:~:text=HB 1823)
+* [House Democrats](/org/house_democrats/) - [Two Timmons’ education bills clear the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/14/two-timmons-education-bills-clear-the-senate/#:~:text=HB 1823)
 * [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=HB 1823)
 * [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=EHB 1823)
 * [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=EHB 1823)

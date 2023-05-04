@@ -9,6 +9,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## Articles
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/05/the-house-hot-sheet-for-week-5-of-the-2023-legislative-session/#:~:text=HB 1458)
+
 ## Meetings
 ### Mon 03/13 10:30 AM - Labor & Commerce (LC): SHB 1458 Apprenticeship programs/UI
 #### 57 👍 - Pro

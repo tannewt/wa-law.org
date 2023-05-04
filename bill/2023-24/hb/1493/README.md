@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Gorge News Center](/org/gorge_news_center/) - [Padden laments Legislature’s lack of progress to address impaired driving](https://gorgenewscenter.com/2023/04/24/padden-laments-legislatures-lack-of-progress-to-address-impaired-driving/#:~:text=House Bill 1493)
+
 ## Meetings
 ### Thu 03/30 12:30 PM - Transportation (TRAN): SHB 1493 Impaired driving
 #### 11 👍 - Pro

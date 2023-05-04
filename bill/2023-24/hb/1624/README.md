@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1624)
+
 ## Meetings
 ### Thu 03/09 01:30 PM - Early Learning & K-12 Education (EDU): HB 1624 ESD election administration
 #### 2 👍 - Pro

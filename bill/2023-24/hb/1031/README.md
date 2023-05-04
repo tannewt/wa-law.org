@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1031)
+
 ## Meetings
 ### Fri 02/17 08:00 AM - State Government & Elections (SGE): HB 1031 Medal of valor award
 #### 2 👍 - Pro

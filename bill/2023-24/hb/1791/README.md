@@ -12,6 +12,8 @@
 ## Articles
 * [MyNorthwest](/org/mynorthwest/) - [Search for new Washington airport location likely to start over - MyNorthwest.com](https://mynorthwest.com/3874896/search-new-airport-western-washington-starting-over/#:~:text=Engrossed Substitute House Bill 1791)
 * [South Seattle Emerald](/org/south_seattle_emerald/) - [Local and State Legislation Hope to Address Environmental Impacts From Airports | South Seattle Emerald](https://southseattleemerald.com/2023/03/27/local-and-state-legislation-hope-to-address-environmental-impacts-from-airports/#:~:text=House Bill 1791)
+* [House Democrats](/org/house_democrats/) - [Fey’s Bill to Form a Working Group to Restart the Airport Process Passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/08/feys-bill-to-form-a-working-group-to-restart-the-airport-process-passes-house/#:~:text=HB 1791)
+* [House Democrats](/org/house_democrats/) - [Fey bill will pause the state’s heated airport debate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/13/fey-bill-will-pause-the-states-heated-airport-debate/#:~:text=HB 1791)
 
 ## Meetings
 ### Tue 03/21 04:00 PM - Transportation (TRAN): ESHB 1791 Commercial aviation services

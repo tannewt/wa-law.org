@@ -14,6 +14,7 @@
 * [The Urbanist](/org/the_urbanist/) - [Bellevue Initiates Middle Housing Planning, but State May Beat Them to It | The Urbanist](https://www.theurbanist.org/2023/01/19/bellevue-city-council-initiates-planning-work-on-middle-housing-but-state-may-beat-them-to-it/#:~:text=SB 5235)
 * [Crosscut](/org/crosscut/) - [WA looks to address housing shortage with density, zoning changes | Crosscut](https://crosscut.com/politics/2023/03/wa-looks-address-housing-shortage-density-zoning-changes#:~:text=Senate Bill 5235)
 * [Crosscut](/org/crosscut/) - [WA looks to address housing shortage with density, zoning changes | Crosscut](https://crosscut.com/politics/2023/03/washington-has-shot-passing-massive-housing-reform-package#:~:text=Senate Bill 5235)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/12/the-house-hot-sheet-for-week-10-of-the-2023-legislative-session/#:~:text=SB 5235)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Washington may make it easier to build backyard cottages in a bid to ease the housing crisis | The Spokesman-Review](https://www.spokesman.com/stories/2023/feb/27/washington-may-make-it-easier-to-build-backyard-co/#:~:text=Senate Bill 5235)
 
 ## Meetings

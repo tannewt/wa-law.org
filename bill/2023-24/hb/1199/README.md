@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## Articles
+* [House Democrats](/org/house_democrats/) - [Governor signs Rep. Tana Senn’s bill to protect neighborhood childcares into law – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/05/01/governor-signs-rep-tana-senns-bill-to-protect-neighborhood-childcares-into-law/#:~:text=House Bill 1199)
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [2023 Session Wrap Up - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04272023#:~:text=HB 1199)
 
 ## Meetings

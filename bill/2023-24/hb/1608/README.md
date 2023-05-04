@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [House Democrats](/org/house_democrats/) - [Bronoske introduces bill to make epinephrine more accessible for schools – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/26/bronoske-introduces-bill-to-make-epinephrine-more-accessible-for-schools/#:~:text=HB 1608)
+
 ## Meetings

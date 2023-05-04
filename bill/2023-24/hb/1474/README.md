@@ -11,9 +11,12 @@
 
 ## Articles
 * [The Urbanist](/org/the_urbanist/) - [Heroes and Zeroes of the 2023 Washington State Legislature | The Urbanist](https://www.theurbanist.org/2023/05/01/heroes-and-zeroes-of-2023-legislature/#:~:text=HB 1474)
+* [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=House Bill 1474)
 * [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Priority Bills -- current status — Quaker Voice](https://www.quakervoicewa.org/priority-bills-current-status/#:~:text=1474)
 * [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB 1474)
 * [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2023 Economic Justice Priorities — Quaker Voice](https://www.quakervoicewa.org/additional-2020-economic-justice-priorities/#:~:text=HB 1474/SB 5496)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/05/the-house-hot-sheet-for-week-5-of-the-2023-legislative-session/#:~:text=HB 1474)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB 1474)
 * [MyNorthwest](/org/mynorthwest/) - [Ross: The latest attempt to undo a national embarrassment - MyNorthwest.com](https://mynorthwest.com/3850821/ross-the-latest-attempt-to-undo-a-national-embarrassment/#:~:text=HB 1474)
 * [KIRO7](/org/kiro7/) - [‘WA needs 1 million new homes within next 20 years’: Suite of bills target the housing crisis – KIRO 7 News Seattle](https://www.kiro7.com/news/local/wa-needs-1-million-new-homes-within-next-20-years-suite-bills-target-housing-crisis/UDGREATSP5FQXCOF6E5GUFIF5A/#:~:text=HB 1474)
 * [KUOW](/org/kuow/) - [KUOW - Racist covenants excluded many from homeownership. WA lawmakers seek to remedy 'decades of direct harms'](https://www.kuow.org/stories/wa-lawmakers-seek-to-remedy-racist-housing-covenants-harm#:~:text=House Bill 1474)

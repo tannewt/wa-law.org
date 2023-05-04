@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Senate Democrats](/org/senate_democrats/) - [Dhingra bill strengthening protections against hate crimes signed into law - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/04/06/dhingra-bill-strengthening-protections-against-hate-crimes-signed-into-law/#:~:text=SB 5623)
+
 ## Meetings
 ### Thu 03/09 08:00 AM - Community Safety, Justice, & Reentry (CSJR): ESB 5623 Hate crimes
 #### 12 👍 - Pro

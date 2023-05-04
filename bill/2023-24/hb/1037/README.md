@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## Articles
+* [Gorge News Center](/org/gorge_news_center/) - [Walsh bill to allow family to be buried on private property clears House](https://gorgenewscenter.com/2023/02/27/walsh-bill-to-allow-family-to-be-buried-on-private-property-clears-house/#:~:text=House Bill 1037)
+
 ## Meetings
 ### Tue 03/14 10:30 AM - Law & Justice (LAW): ESHB 1037 Family burial grounds
 #### 3 👍 - Pro

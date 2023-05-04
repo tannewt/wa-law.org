@@ -15,6 +15,8 @@
 * [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=House Bill 1473)
 * [The Washington Bus](/org/the_washington_bus/) - [Announcing our 2023 Legislative Priorities! – The Washington Bus](http://www.washingtonbus.org/2023/01/23/announcing-our-2023-legislative-priorities/#:~:text=1473)
 * [The Washington Bus](/org/the_washington_bus/) - [Uncategorized Archives – The Washington Bus](http://www.washingtonbus.org/category/uncategorized/#:~:text=1473)
+* [House Democrats](/org/house_democrats/) - [Sen. Frame, Rep. Thai Introduce Washington State Wealth Tax – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/31/sen-frame-rep-thai-introduce-washington-state-wealth-tax/#:~:text=HB 1473)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/13/the-house-hot-sheet-for-week-6-of-the-2023-legislative-session/#:~:text=HB 1473)
 * [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=HB 1473)
 
 ## Meetings

@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## Articles
+* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House Bill 1333)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB 1333)
 * [MyNorthwest](/org/mynorthwest/) - [Rantz: AG pushing most dangerous bill in legislative history - MyNorthwest.com](https://mynorthwest.com/3843618/rantz-ag-ferguson-conservative-views-terrifying-extremism-commission/#:~:text=HB 1333)
 
 ## Meetings

@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [House Democrats](/org/house_democrats/) - [Freshman Legislator Julio Cortes Passes Three Bills to the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/03/freshman-legislator-julio-cortes-passes-three-bills-to-the-senate/#:~:text=House Bill 1481)
+* [House Democrats](/org/house_democrats/) - [Rep. Cortes Passes Bills to Governor on Homelessness, Police Benefits, Affordable Housing & Statewide Travel – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/19/rep-cortes-passes-bills-to-governor-on-homelessness-police-benefits-affordable-housing-statewide-travel/#:~:text=House Bill 1481)
+
 ## Meetings
 ### Mon 03/13 04:00 PM - Ways & Means (WM): HB 1481 Tribal peace officers/LEOFF
 #### 32 👍 - Pro

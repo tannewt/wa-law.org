@@ -10,7 +10,9 @@
 * [Passed Legislature](S.PL/)
 
 ## Articles
+* [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=Senate Bill 5187)
 * [The Urbanist](/org/the_urbanist/) - [Missing Middle Housing, ADU, and Design Review Reforms Pass Second Chamber | The Urbanist](https://www.theurbanist.org/2023/04/12/missing-middle-housing-adu-and-design-review-reforms-pass-second-chamber/#:~:text=SB 5187)
+* [House Republicans](/org/house_republicans/) - [State budgets and bad Senate bills | Washington State House Republicans](https://houserepublicans.wa.gov/current/state-budgets-and-bad-senate-bills/#:~:text=Senate Bill 5187)
 * [The Urbanist](/org/the_urbanist/) - [Legislature Advances Narrower TOD and Missing Middle Bills | The Urbanist](https://www.theurbanist.org/2023/04/05/legislature-advances-narrower-tod-and-missing-middle-bills/#:~:text=SB 5187)
 * [The Urbanist](/org/the_urbanist/) - [Striker Amendments Stalk Housing Bills in the Washington Legislature | The Urbanist](https://www.theurbanist.org/2023/03/29/striker-amendments-stalk-housing-bills-in-the-washington-legislature/#:~:text=SB 5187)
 * [The Urbanist](/org/the_urbanist/) - [The Legislative Budget Season Begins in Olympia | The Urbanist](https://www.theurbanist.org/2023/03/22/the-legislative-budget-season-begins-in-olympia/#:~:text=SB 5187)

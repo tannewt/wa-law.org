@@ -6,6 +6,14 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1730)
+* [Gorge News Center](/org/gorge_news_center/) - [Multiple bills from Rep. Waters, including legislation to increase workforce opportunities, pass out of committee](https://gorgenewscenter.com/2023/02/14/multiple-bills-from-rep-waters-including-legislation-to-increase-workforce-opportunities-pass-out-of-committee/#:~:text=House Bill 1730)
+* [Gorge News Center](/org/gorge_news_center/) - [House moves Rep. Waters workforce bill one step closer to becoming law](https://gorgenewscenter.com/2023/03/08/house-moves-rep-waters-workforce-bill-one-step-closer-to-becoming-law/#:~:text=House Bill 1730)
+* [Gorge News Center](/org/gorge_news_center/) - [Three Rep. Waters bills approved by the Senate Labor and Commerce Committee](https://gorgenewscenter.com/2023/03/21/three-rep-waters-bills-approved-by-the-senate-labor-and-commerce-committee/#:~:text=House Bill 1730)
+* [Gorge News Center](/org/gorge_news_center/) - [Senate approves two pro-business bills from Rep. Kevin Waters](https://gorgenewscenter.com/2023/04/08/senate-approves-two-pro-business-bills-from-rep-kevin-waters/#:~:text=House Bill 1730)
+* [Gorge News Center](/org/gorge_news_center/) - [State workforce to get a boost after Rep. Waters bill signed into law](https://gorgenewscenter.com/2023/04/21/state-workforce-to-get-a-boost-after-rep-waters-bill-signed-into-law/#:~:text=House Bill 1730)
+
 ## Meetings
 ### Mon 03/20 10:30 AM - Labor & Commerce (LC): HB 1730 Youth employment/21+ estab.
 #### 3 👍 - Pro

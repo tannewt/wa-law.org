@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House Bill 1446)
+
 ## Meetings
 ### Wed 02/15 08:00 AM - Local Government (LG): HB 1446 Law enf. officers/increase
 #### 95 👍 - Pro

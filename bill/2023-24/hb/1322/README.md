@@ -9,6 +9,9 @@
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
 
+## Articles
+* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1322)
+
 ## Meetings
 ### Thu 03/16 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): 2SHB 1322 Walla Walla water 2050 plan
 #### 36 👍 - Pro

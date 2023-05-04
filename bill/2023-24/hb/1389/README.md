@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## Articles
+* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House Bill 1389)
 * [The Urbanist](/org/the_urbanist/) - [Legislature Abandons Rent Stabilization Push | The Urbanist](https://www.theurbanist.org/2023/03/14/legislature-abandons-rent-stabilization-push/#:~:text=House Bill 1389)
 * [The Urbanist](/org/the_urbanist/) - [The Olympia Waltz Continues for Middle Housing and Other Vital Legislation | The Urbanist](https://www.theurbanist.org/2023/03/09/waleg-week-9-striker-hb1110/#:~:text=HB 1389)
 * [The Seattle Times](/org/the_seattle_times/) - [WA Legislature forges ahead on assault weapons ban, new drug law | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-legislature-forges-ahead-on-assault-weapons-ban-new-drug-law/#:~:text=House Bill 1389)
@@ -20,6 +21,10 @@
 * [The Urbanist](/org/the_urbanist/) - [WALeg Wednesday Gets Wonky with Wealth Taxes and Rent Stabilization | The Urbanist](https://www.theurbanist.org/2023/01/25/waleg-wednesday-week-3/#:~:text=HB 1389)
 * [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=House Bill 1389)
 * [Crosscut](/org/crosscut/) - [The bills that survived Washington's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/04/bills-survived-washingtons-2023-legislative-session#:~:text=House Bill 1389)
+* [House Democrats](/org/house_democrats/) - [Macri, Ramel Introduce Stability Measures to Stop Excessive Rent Hikes – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/17/macri-ramel-introduce-stability-measures-to-stop-excessive-rent-hikes/#:~:text=HB 1389)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/22/the-house-hot-sheet-for-week-3-of-the-2023-legislative-session/#:~:text=HB 1389)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/05/the-house-hot-sheet-for-week-5-of-the-2023-legislative-session/#:~:text=HB 1389)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB 1389)
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Committee Action Expected on Some Bills This Week - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate012323#:~:text=H.B. 1389)
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washingtons Legislative Update - Week 5 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate020623#:~:text=H.B. 1389)
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 6 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02142023#:~:text=H.B. 1389)

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1656)
+
 ## Meetings
 ### Wed 02/08 08:00 AM - Labor & Workplace Standards (LAWS): HB 1656 Unemployment ins. appeals
 #### 4 👍 - Pro

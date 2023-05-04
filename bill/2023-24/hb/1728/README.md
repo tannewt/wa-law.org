@@ -10,6 +10,9 @@
 * [Passed Legislature](S2.PL/)
 * [Session Law](S2.SL/)
 
+## Articles
+* [House Democrats](/org/house_democrats/) - [House Passes Donaghy Bill to Improve Statewide Resilience – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/04/house-passes-donaghy-bill-to-improve-statewide-resilience/#:~:text=House Bill 1728)
+
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): 2SHB 1728 Statewide resiliency program
 #### 4 👍 - Pro

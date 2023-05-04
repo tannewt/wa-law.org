@@ -10,12 +10,16 @@
 * [Passed Legislature](S2.PL/)
 
 ## Articles
+* [House Republicans](/org/house_republicans/) - [House floor debate highlights | Washington State House Republicans](https://houserepublicans.wa.gov/floor-debates/#:~:text=House Bill 1316)
 * [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=2SHB 1316)
 * [Washington St Pta](/org/washington_st_pta/) - [Many Bills End Their Journey in 2023 with Fiscal Cutoff - WSPTA](https://www.wastatepta.org/many-bills-end-their-journey-in-2023-with-fiscal-cutoff/#:~:text=2SHB 1316)
 * [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=HB 1316)
 * [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB 1316)
 * [Crosscut](/org/crosscut/) - [WA may soon expand dual-credit programs for high schoolers | Crosscut](https://crosscut.com/politics/2023/02/wa-may-soon-expand-dual-credit-programs-high-schoolers#:~:text=1316)
 * [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=1316)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/22/the-house-hot-sheet-for-week-3-of-the-2023-legislative-session/#:~:text=HB 1316)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB 1316)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB 1316)
 * [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! March 13, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-march-13-2023/#:~:text=2SHB 1316)
 * [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB 1316)
 * [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=2SHB 1316)

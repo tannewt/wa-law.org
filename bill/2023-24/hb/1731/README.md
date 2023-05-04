@@ -9,6 +9,13 @@
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
 
+## Articles
+* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1731)
+* [Gorge News Center](/org/gorge_news_center/) - [Multiple bills from Rep. Waters, including legislation to increase workforce opportunities, pass out of committee](https://gorgenewscenter.com/2023/02/14/multiple-bills-from-rep-waters-including-legislation-to-increase-workforce-opportunities-pass-out-of-committee/#:~:text=House Bill 1731)
+* [Gorge News Center](/org/gorge_news_center/) - [House passes Waters bill that would allow short-term rental operators to offer complimentary wine](https://gorgenewscenter.com/2023/03/05/house-passes-waters-bill-that-would-allow-short-term-rental-operators-to-offer-complimentary-wine/#:~:text=House Bill 1731)
+* [Gorge News Center](/org/gorge_news_center/) - [Three Rep. Waters bills approved by the Senate Labor and Commerce Committee](https://gorgenewscenter.com/2023/03/21/three-rep-waters-bills-approved-by-the-senate-labor-and-commerce-committee/#:~:text=House Bill 1731)
+* [Gorge News Center](/org/gorge_news_center/) - [Senate approves two pro-business bills from Rep. Kevin Waters](https://gorgenewscenter.com/2023/04/08/senate-approves-two-pro-business-bills-from-rep-kevin-waters/#:~:text=House Bill 1731)
+
 ## Meetings
 ### Mon 03/20 10:30 AM - Labor & Commerce (LC): ESHB 1731 Short-term rentals/liquor
 #### 1 👍 - Pro

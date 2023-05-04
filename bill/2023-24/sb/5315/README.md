@@ -11,6 +11,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## Articles
+* [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate Bill 5315)
 * [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=E2SSB 5315)
 * [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SSB 5315)
 * [The Seattle Times](/org/the_seattle_times/) - [WA launches probe of private special ed schools as lawmakers consider reforms | The Seattle Times](https://www.seattletimes.com/seattle-news/times-watchdog/washington-launches-investigation-of-private-special-education-schools-as-lawmakers-consider-reforms/#:~:text=SB 5315)

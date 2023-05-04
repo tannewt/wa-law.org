@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## Articles
+* [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate Bill 5078)
 * [The Seattle Times](/org/the_seattle_times/) - [WA bans sale of AR-15s and other semi-automatic rifles, effective immediately | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-bans-sale-of-ar-15s-and-other-semiautomatic-rifles-effective-immediately/#:~:text=Senate Bill 5078)
 * [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers cite Nashville school shooting as they advance assault weapon ban, other gun restrictions | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-lawmakers-cite-nashville-school-shooting-as-they-advance-assault-weapon-ban-other-gun-restrictions/#:~:text=Senate Bill 5078)
 * [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=SSB 5078)
@@ -19,6 +20,8 @@
 * [Crosscut](/org/crosscut/) - [Rifle ban among gun-control bills advancing in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/02/rifle-ban-among-gun-control-bills-advancing-wa-legislature#:~:text=Senate Bill 5078)
 * [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=Senate Bill 5078)
 * [Crosscut](/org/crosscut/) - [With assault weapons ban, Washington enters a new era of gun reform | Crosscut](https://crosscut.com/politics/2023/04/assault-weapons-ban-washington-enters-new-era-gun-reform#:~:text=Senate Bill 5078)
+* [Gorge News Center](/org/gorge_news_center/) - [Rifle ban scapegoats firearms, fails to address fundamental causes of violence](https://gorgenewscenter.com/2023/04/09/rifle-ban-scapegoats-firearms-fails-to-address-fundamental-causes-of-violence/#:~:text=Senate Bill 5078)
+* [House Democrats](/org/house_democrats/) - [Governor signs historic gun safety legislation into law – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/25/governor-signs-historic-gun-safety-legislation-into-law/#:~:text=SB 5078)
 * [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate Bill 5078)
 * [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SB 5078)
 * [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=SB 5078)

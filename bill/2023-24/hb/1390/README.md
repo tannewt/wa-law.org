@@ -9,6 +9,9 @@
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
 
+## Articles
+* [House Democrats](/org/house_democrats/) - [Ramel Bills to Improve Building Energy Systems Pass House of Representatives – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/04/ramel-bills-to-improve-building-energy-systems-pass-house-of-representatives/#:~:text=House Bill 1390)
+
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): 2SHB 1390 District energy systems
 #### 32 👍 - Pro

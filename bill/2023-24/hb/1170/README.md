@@ -18,6 +18,7 @@
 * [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Environmental Stewardship — Quaker Voice](https://www.quakervoicewa.org/environmental-stewardship/#:~:text=HB1170)
 * [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB 1170)
 * [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=HB 1170)
+* [House Democrats](/org/house_democrats/) - [Street bill to update state climate resiliency plan passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/27/street-bill-to-update-state-climate-resiliency-plan-passes-house/#:~:text=HB 1170)
 * [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! February 7, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-february-7-2023/#:~:text=SHB 1170)
 * [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=E2SHB 1170)
 * [Washington St Pta](/org/washington_st_pta/) - [Senate Passes Preventing Gun Violence Legislation in Week 13 Report - WSPTA](https://www.wastatepta.org/senate-passes-preventing-gun-violence-legislation-in-week-13-report/#:~:text=E2SHB 1170)

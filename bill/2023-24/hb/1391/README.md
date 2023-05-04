@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## Articles
+* [House Democrats](/org/house_democrats/) - [Ramel Bills to Improve Building Energy Systems Pass House of Representatives – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/04/ramel-bills-to-improve-building-energy-systems-pass-house-of-representatives/#:~:text=House Bill 1391)
+
 ## Meetings
 ### Fri 03/24 08:00 AM - Environment, Energy & Technology (ENET): 2SHB 1391 Energy in buildings
 #### 108 👍 - Pro

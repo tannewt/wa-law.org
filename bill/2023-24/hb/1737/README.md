@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/05/the-house-hot-sheet-for-week-5-of-the-2023-legislative-session/#:~:text=HB 1737)
+* [House Democrats](/org/house_democrats/) - [House Passes Morgan’s Reconciliation Act – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/28/house-passes-morgans-reconciliation-act/#:~:text=HB 1737, the Reconciliation Act)
+
 ## Meetings
 ### Mon 03/13 04:00 PM - Ways & Means (WM): HB 1737 Reconciliation account
 #### 2 👍 - Pro

@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [Gorge News Center](/org/gorge_news_center/) - [Mosbrucker bill seeks to add transparency to criminal justice system](https://gorgenewscenter.com/2023/01/20/mosbrucker-bill-seeks-to-add-transparency-to-criminal-justice-system/#:~:text=House Bill 1196)
+
 ## Meetings

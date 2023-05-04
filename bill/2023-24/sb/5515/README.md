@@ -9,6 +9,9 @@
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
 
+## Articles
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/12/the-house-hot-sheet-for-week-10-of-the-2023-legislative-session/#:~:text=SB 5515)
+
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): ESSB 5515 Child abuse and neglect
 #### 2 👍 - Pro

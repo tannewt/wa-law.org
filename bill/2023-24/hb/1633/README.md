@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## Articles
+* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House Bill 1633)
+* [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=House bill 1633)
 * [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB 1633)
 
 ## Meetings

@@ -9,6 +9,9 @@
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
 
+## Articles
+* [House Democrats](/org/house_democrats/) - [Riccelli Dental Health Care Bills Pass House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/07/riccelli-dental-health-care-bills-pass-house/#:~:text=HB 1466)
+
 ## Meetings
 ### Tue 03/21 08:00 AM - Health & Long Term Care (HLTC): ESHB 1466 Dental auxiliaries
 #### 132 👍 - Pro

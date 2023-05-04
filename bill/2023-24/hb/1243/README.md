@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1243)
+
 ## Meetings
 ### Mon 03/27 04:00 PM - Transportation (TRAN): HB 1243 Muni. airport commissions
 #### 3 👍 - Pro

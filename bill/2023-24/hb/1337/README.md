@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## Articles
+* [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=House Bill 1337)
 * [The Urbanist](/org/the_urbanist/) - [Four Vital Housing and Climate Bills Survive the Washington Legislature | The Urbanist](https://www.theurbanist.org/2023/04/19/four-vital-housing-and-climate-bills-survive-the-washington-legislature/#:~:text=HB 1337)
 * [The Urbanist](/org/the_urbanist/) - [Missing Middle Housing, ADU, and Design Review Reforms Pass Second Chamber | The Urbanist](https://www.theurbanist.org/2023/04/12/missing-middle-housing-adu-and-design-review-reforms-pass-second-chamber/#:~:text=HB 1337)
 * [The Urbanist](/org/the_urbanist/) - [Legislature Advances Narrower TOD and Missing Middle Bills | The Urbanist](https://www.theurbanist.org/2023/04/05/legislature-advances-narrower-tod-and-missing-middle-bills/#:~:text=HB 1337)
@@ -20,6 +21,10 @@
 * [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB 1337)
 * [Sightline Institute](/org/sightline_institute/) - [Washington Bill Would Boost In-law Apartments Throughout the State - Sightline Institute](https://www.sightline.org/2023/01/21/washington-bill-would-boost-in-law-apartments-throughout-the-state/#:~:text=HB 1337)
 * [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=House Bill 1337)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/22/the-house-hot-sheet-for-week-3-of-the-2023-legislative-session/#:~:text=HB 1337)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB 1337)
+* [House Democrats](/org/house_democrats/) - [Gregerson Bill to Ease Barriers to the Construction and Use of Accessory Dwelling Units Passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/03/gregerson-bill-to-ease-barriers-to-the-construction-and-use-of-accessory-dwelling-units-passes-house/#:~:text=HB 1337)
+* [House Democrats](/org/house_democrats/) - [Bipartisan Gregerson/Barkis ADU bill passes Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/06/bipartisan-gregerson-barkis-adu-bill-passes-senate/#:~:text=HB 1337)
 * [PubliCola](/org/publicola/) - [Legislature Scales Back One Pro-Housing Bill While Shelving Another - PubliCola](https://publicola.com/2023/04/14/legislature-scales-back-one-pro-housing-bill-while-shelving-another/#:~:text=HB 1337)
 * [KIRO7](/org/kiro7/) - [‘WA needs 1 million new homes within next 20 years’: Suite of bills target the housing crisis – KIRO 7 News Seattle](https://www.kiro7.com/news/local/wa-needs-1-million-new-homes-within-next-20-years-suite-bills-target-housing-crisis/UDGREATSP5FQXCOF6E5GUFIF5A/#:~:text=HB 1337)
 * [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=House Bill 1337)

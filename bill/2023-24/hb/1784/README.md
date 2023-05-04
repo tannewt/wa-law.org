@@ -13,6 +13,9 @@
 * [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | Seattle City Council Caps Late Fees for Rental Payments | South Seattle Emerald](https://southseattleemerald.com/2023/04/19/news-gleams-seattle-city-council-caps-late-fees-for-rental-payments/#:~:text=SHB 1784)
 * [The Seattle Times](/org/the_seattle_times/) - [Fund food insecurity response in WA  — and demand national fix | The Seattle Times](https://www.seattletimes.com/opinion/editorials/fund-food-insecurity-response-in-wa-and-demand-national-fix/#:~:text=House Bill 1784)
 * [The Seattle Times](/org/the_seattle_times/) - [Food insecurity persists in WA, just as emergency benefits expire | The Seattle Times](https://www.seattletimes.com/seattle-news/health/food-insecurity-persists-in-wa-as-emergency-snap-benefits-run-out-this-week/#:~:text=House Bill 1784)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/13/the-house-hot-sheet-for-week-6-of-the-2023-legislative-session/#:~:text=HB 1784)
+* [House Democrats](/org/house_democrats/) - [Gregerson’s Bill to Combat Hunger Now Heads to the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/27/gregersons-bill-to-combat-hunger-now-heads-to-the-senate/#:~:text=SHB 1784)
+* [House Democrats](/org/house_democrats/) - [Gregerson’s bill to combat hunger now heads to the Governor’s desk – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/30/gregersons-bill-to-combat-hunger-now-heads-to-the-governors-desk/#:~:text=HB 1784)
 
 ## Meetings
 ### Mon 03/13 04:00 PM - Ways & Means (WM): SHB 1784 Hunger relief

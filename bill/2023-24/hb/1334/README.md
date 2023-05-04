@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1334)
+
 ## Meetings
 ### Thu 01/26 04:00 PM - Transportation (TR): HB 1334 PTBA aquatic lands access
 #### 5 👍 - Pro

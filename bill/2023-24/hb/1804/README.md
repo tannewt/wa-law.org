@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
 
+## Articles
+* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1804)
+
 ## Meetings
 ### Mon 02/20 01:30 PM - Appropriations (APP): HB 1804 PEBB/subdivision retirees
 #### 3 👍 - Pro

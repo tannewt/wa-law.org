@@ -13,6 +13,7 @@
 * [The Seattle Times](/org/the_seattle_times/) - [Foster, homeless college students in WA could get more housing support | The Seattle Times](https://www.seattletimes.com/seattle-news/homeless/foster-homeless-college-students-in-wa-could-get-more-housing-support/#:~:text=Senate Bill 5702)
 * [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=ESSB 5702)
 * [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=SB 5702)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/12/the-house-hot-sheet-for-week-10-of-the-2023-legislative-session/#:~:text=SB 5702)
 * [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SSB 5702)
 
 ## Meetings

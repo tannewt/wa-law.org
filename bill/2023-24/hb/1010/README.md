@@ -10,6 +10,7 @@
 
 ## Articles
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Environment](https://crosscut.com/voter-guide/2023-legislative-tracker/election/environment#:~:text=House Bill 1010)
+* [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: House sends Chapman’s crab sanitary control bill to the Senate for the third time in a row – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/03/legislative-news-house-sends-chapmans-crab-sanitary-control-bill-to-the-senate-for-the-third-time-in-a-row/#:~:text=House Bill 1010)
 
 ## Meetings
 ### Mon 03/13 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): 2SHB 1010 Shellfish sanitary control

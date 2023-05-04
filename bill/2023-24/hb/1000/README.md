@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## Articles
+* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House Bill 1000)
+* [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=House bill 1000)
 * [The Seattle Times](/org/the_seattle_times/) - [WA’s low-income tax credit, established in 2008, available for  first time | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/was-low-income-tax-credit-established-in-2008-available-for-first-time/#:~:text=House Bill 1000)
 
 ## Meetings

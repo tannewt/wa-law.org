@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Orwall’s foreclosure protections measures head to Governor – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/10/legislative-news-orwalls-foreclosure-protections-measures-head-to-governor/#:~:text=HB 1637)
+
 ## Meetings
 ### Wed 02/01 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1637 Unclaimed property fees
 #### 6 👍 - Pro

@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House Bill 1380)
+* [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=House bill 1380)
+
 ## Meetings
 ### Mon 01/30 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1380 Law enf. officer funding
 #### 13 👍 - Pro

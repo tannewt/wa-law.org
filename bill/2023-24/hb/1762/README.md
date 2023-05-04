@@ -10,7 +10,9 @@
 * [Passed Legislature](S2.PL/)
 
 ## Articles
+* [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=House Bill 1762)
 * [The Seattle Times](/org/the_seattle_times/) - [WA Legislature can protect warehouse workers when employers won’t | The Seattle Times](https://www.seattletimes.com/opinion/wa-legislature-can-protect-warehouse-workers-when-employers-wont/#:~:text=House Bill 1762)
+* [House Democrats](/org/house_democrats/) - [Doglio’s Warehouse Worker Protection Bill Passes in the House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/06/doglios-warehouse-worker-protection-bill-passes-in-the-house/#:~:text=House Bill 1762)
 * [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=House Bill 1762)
 
 ## Meetings

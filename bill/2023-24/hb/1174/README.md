@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## Articles
+* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House Bill 1174)
 * [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Criminal Justice — Quaker Voice](https://www.quakervoicewa.org/criminal-justice/#:~:text=HB 1174)
 * [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=House Bill 1174)
 

@@ -11,6 +11,8 @@
 
 ## Articles
 * [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB 1167)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB 1167)
+* [House Democrats](/org/house_democrats/) - [House unanimously passes Duerr bill to expand housing options – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/06/house-unanimously-passes-duerr-bill-to-expand-housing-options/#:~:text=House Bill 1167)
 
 ## Meetings
 ### Thu 03/23 04:00 PM - Ways & Means (WM): E2SHB 1167 Residential housing

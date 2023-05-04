@@ -9,6 +9,9 @@
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
 
+## Articles
+* [Senate Democrats](/org/senate_democrats/) - [Bill expanding subsidy for guardians signed into law - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/05/01/bill-expanding-subsidy-for-guardians-signed-into-law/#:~:text=Senate Bill 5124)
+
 ## Meetings
 ### Fri 03/31 01:30 PM - Appropriations (APP): ESSB 5124 Nonrelative kin placement
 #### 28 👍 - Pro

@@ -10,6 +10,9 @@
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
 
+## Articles
+* [House Democrats](/org/house_democrats/) - [Simmons bill to improve patient access to care passes Senate unanimously – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/12/simmons-bill-to-improve-patient-access-to-care-passes-senate-unanimously/#:~:text=House Bill 1357)
+
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): E2SHB 1357 Prior authorization/health
 #### 43 👍 - Pro

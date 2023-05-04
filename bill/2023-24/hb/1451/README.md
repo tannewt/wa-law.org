@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB 1451)
+
 ## Meetings
 ### Tue 01/31 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1451 Child care workforce
 #### 98 👍 - Pro

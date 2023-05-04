@@ -13,6 +13,9 @@
 ## Articles
 * [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=HB 1715)
 * [The Seattle Times](/org/the_seattle_times/) - [WA lawmaker wants stronger domestic violence protections | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-lawmaker-wants-to-enhance-domestic-violence-protections/#:~:text=House Bill 1715)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/05/the-house-hot-sheet-for-week-5-of-the-2023-legislative-session/#:~:text=HB 1715)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/13/the-house-hot-sheet-for-week-6-of-the-2023-legislative-session/#:~:text=HB 1715)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB 1715)
 * [KING5](/org/king5/) - [Lawmaker shares personal story of being stalked by ex-boyfriend in hopes of passing domestic violence bill | king5.com](https://www.king5.com/article/news/politics/legislator-shares-stalking-experience-pass-domestic-violence-bill/281-fe919620-0232-49c0-9673-cbfa6fb34f7a#:~:text=House Bill 1715)
 
 ## Meetings

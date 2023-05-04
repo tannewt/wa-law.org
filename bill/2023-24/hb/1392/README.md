@@ -18,6 +18,10 @@
 * [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Environmental Stewardship — Quaker Voice](https://www.quakervoicewa.org/environmental-stewardship/#:~:text=HB1392)
 * [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=House Bill 1392)
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Other Topics](https://crosscut.com/voter-guide/2023-legislative-tracker/election/other-topics#:~:text=House Bill 1392)
+* [House Democrats](/org/house_democrats/) - [Right to Repair Bills heard in House and Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/01/right-to-repair-bills-heard-in-house-and-senate/#:~:text=HB 1392)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/05/the-house-hot-sheet-for-week-5-of-the-2023-legislative-session/#:~:text=HB 1392)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB 1392)
+* [House Democrats](/org/house_democrats/) - [Gregerson’s Fair Repair Act Advances to the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/04/gregersons-fair-repair-act-advances-to-the-senate/#:~:text=HB 1392)
 * [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB 1392)
 * [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=HB 1392)
 

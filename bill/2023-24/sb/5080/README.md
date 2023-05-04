@@ -13,6 +13,9 @@
 ## Articles
 * [Crosscut](/org/crosscut/) - [How federal weed legalization would impact Washington state | Crosscut](https://crosscut.com/politics/2023/03/how-federal-weed-legalization-would-impact-washington-state#:~:text=Senate Bill 5080)
 * [Crosscut](/org/crosscut/) - [New law prepares Washington for interstate cannabis sales | Crosscut](https://crosscut.com/politics/2023/04/new-law-prepares-washington-interstate-cannabis-sales#:~:text=Senate Bill 5080)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/12/the-house-hot-sheet-for-week-10-of-the-2023-legislative-session/#:~:text=SB 5080)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 11 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/19/the-house-hot-sheet-for-week-11-of-the-2023-legislative-session/#:~:text=SB 5080)
+* [House Democrats](/org/house_democrats/) - [The Hot Sheet – Washington State House Democrats](https://housedemocrats.wa.gov/media/the-hot-sheet/#:~:text=SB 5080)
 
 ## Meetings
 ### Thu 03/30 01:30 PM - Appropriations (APP): E2SSB 5080 Cannabis social equity

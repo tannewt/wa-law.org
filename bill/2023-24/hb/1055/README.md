@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1055)
+
 ## Meetings
 ### Mon 01/16 04:00 PM - Appropriations (APP): HB 1055 Pub safety telecommunicators
 #### 343 👍 - Pro

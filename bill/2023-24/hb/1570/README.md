@@ -10,6 +10,8 @@
 
 ## Articles
 * [MyNorthwest](/org/mynorthwest/) - [WA Uber, Lyft drivers getting paid family, medical leave benefits - MyNorthwest.com](https://mynorthwest.com/3874034/uber-lyft-drivers-in-wa-getting-paid-family-medical-leave-benefits/#:~:text=HB 1570)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/05/the-house-hot-sheet-for-week-5-of-the-2023-legislative-session/#:~:text=HB 1570)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB 1570)
 
 ## Meetings
 ### Mon 03/13 10:30 AM - Labor & Commerce (LC): SHB 1570 TNC insurance programs

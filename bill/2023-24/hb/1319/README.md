@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [House Democrats](/org/house_democrats/) - [House Democrats release state transportation budget / Demócratas de la Cámara de Representantes publican su presupuesto estatal de transporte – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/27/house-democrats-release-state-transportation-budget/#:~:text=HB 1319)
+
 ## Meetings
 ### Thu 02/02 04:00 PM - Transportation (TR): HB 1319 Collisions/driver reexam
 #### 87 👍 - Pro

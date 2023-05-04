@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
 
+## Articles
+* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1500)
+
 ## Meetings
 ### Fri 01/27 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1500 Cottage food sales cap
 #### 15 👍 - Pro

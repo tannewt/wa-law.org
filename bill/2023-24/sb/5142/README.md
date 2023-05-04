@@ -10,6 +10,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## Articles
+* [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=Senate Bill 5142)
+
 ## Meetings
 ### Thu 03/09 04:00 PM - Appropriations (APP): ESSB 5142 HIV medication rebate rev.
 #### 9 👍 - Pro

@@ -15,6 +15,7 @@
 * [The Urbanist](/org/the_urbanist/) - [What Groups Around Washington Are Asking from Olympia | The Urbanist](https://www.theurbanist.org/2023/02/22/waleg-week-7-priorities/#:~:text=HB 1026)
 * [The Urbanist](/org/the_urbanist/) - [The Association of Washington Cities’ Local Control Fixation | The Urbanist](https://www.theurbanist.org/2023/02/08/the-association-of-washington-cities-local-control-fixation/#:~:text=HB 1026)
 * [PubliCola](/org/publicola/) - [State Proposal Would Ban Design Review—Except for Historic Buildings and Districts - PubliCola](https://publicola.com/2023/01/26/state-proposal-would-ban-design-review-except-for-historic-buildings-and-districts/#:~:text=House Bill 1026,)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/09/the-house-hot-sheet-for-week-1-of-the-2023-legislative-session/#:~:text=HB 1026)
 
 ## Meetings
 ### Tue 01/10 04:00 PM - Housing (HOUS): HB 1026 Local gov. design review

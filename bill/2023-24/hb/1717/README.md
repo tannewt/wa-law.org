@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [House Democrats](/org/house_democrats/) - [Rule Passes Two Bills on to the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/08/rule-passes-two-bills-on-to-the-senate/#:~:text=HB 1717)
+
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): SHB 1717 Associate development orgs.
 #### 45 👍 - Pro

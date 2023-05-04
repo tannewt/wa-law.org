@@ -8,8 +8,12 @@
 * [Substitute Bill](S/)
 
 ## Articles
+* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House Bill 1024)
 * [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Criminal Justice — Quaker Voice](https://www.quakervoicewa.org/criminal-justice/#:~:text=HB 1024)
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Policing, Crime & Courts](https://crosscut.com/voter-guide/2023-legislative-tracker/election/policing-crime-courts#:~:text=House Bill 1024)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/15/the-house-hot-sheet-for-week-2-of-the-2023-legislative-session/#:~:text=HB 1024)
+* [House Democrats](/org/house_democrats/) - [Bill to pay incarcerated workers minimum wage passes House Community Safety, Justice, & Reentry Committee – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/19/bill-to-pay-incarcerated-workers-minimum-wage-passes-house-community-safety-justice-reentry-committee/#:~:text=HB 1024)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/13/the-house-hot-sheet-for-week-6-of-the-2023-legislative-session/#:~:text=HB 1024)
 
 ## Meetings
 ### Mon 01/30 04:00 PM - Appropriations (APP): HB 1024 Incarcerated persons/labor

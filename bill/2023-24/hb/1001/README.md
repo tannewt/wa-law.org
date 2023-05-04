@@ -6,6 +6,11 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/09/the-house-hot-sheet-for-week-1-of-the-2023-legislative-session/#:~:text=HB 1001)
+* [House Democrats](/org/house_democrats/) - [Representative Mari Leavitt Passes Four Bills to Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/24/representative-mari-leavitt-passes-four-bills-to-senate/#:~:text=House Bill 1001)
+* [House Democrats](/org/house_democrats/) - [Governor Signs Rep. Leavitt’s Workforce Development Bill Package – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/25/rep-leavitt-passes-workforce-development-bill-package-to-governor/#:~:text=House Bill 1001)
+
 ## Meetings
 ### Thu 03/09 10:30 AM - Health & Long Term Care (HLTC): HB 1001 Audiology & speech compact
 #### 170 👍 - Pro

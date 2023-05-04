@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
 
+## Articles
+* [The Center Square](/org/the_center_square/) - [Gov. Inslee signs a slew of climate bills into law from Eastern Washington | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0027a7a6-e9ed-11ed-b77a-7f7862703a86.html#:~:text=House Bill 1236)
+
 ## Meetings
 ### Fri 03/10 08:00 AM - Environment, Energy & Technology (ENET): SHB 1236 Clean fuel/public transport.
 #### 20 👍 - Pro

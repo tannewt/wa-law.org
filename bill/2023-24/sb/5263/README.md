@@ -10,6 +10,8 @@
 * [Passed Legislature](S2.PL/)
 
 ## Articles
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 11 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/19/the-house-hot-sheet-for-week-11-of-the-2023-legislative-session/#:~:text=2SSB 5263)
+* [House Democrats](/org/house_democrats/) - [The Hot Sheet – Washington State House Democrats](https://housedemocrats.wa.gov/media/the-hot-sheet/#:~:text=2SSB 5263)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Bill creating magic mushrooms regulation task forces passes the state Senate | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/09/bill-creating-magic-mushrooms-regulation-task-forc/#:~:text=Senate Bill 5263)
 
 ## Meetings

@@ -8,6 +8,8 @@
 
 ## Articles
 * [South Seattle Emerald](/org/south_seattle_emerald/) - [Water Safety Day Proposed to Bring Awareness to Drowning Prevention | South Seattle Emerald](https://southseattleemerald.com/2023/02/24/water-safety-day-proposed-to-bring-awareness-to-drowning-prevention/#:~:text=HB 1750)
+* [House Democrats](/org/house_democrats/) - [Rep. April Berg Promotes Water Safety and Drowning Prevention with House Bill 1750 – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/06/rep-april-berg-promotes-water-safety-and-drowning-prevention-with-house-bill-1750/#:~:text=House Bill 1750)
+* [House Democrats](/org/house_democrats/) - [House Passes Yori’s Law – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/08/house-passes-yoris-law/#:~:text=House Bill 1750,)
 
 ## Meetings
 ### Fri 03/24 08:00 AM - State Government & Elections (SGE): HB 1750 Water safety education

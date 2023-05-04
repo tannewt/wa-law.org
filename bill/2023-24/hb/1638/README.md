@@ -10,6 +10,9 @@
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [What’s still on the table for traffic safety in WA Legislature? | The Seattle Times](https://www.seattletimes.com/seattle-news/transportation/whats-still-on-the-table-for-traffic-safety-in-wa-legislature/#:~:text=House Bill 1638)
+* [House Democrats](/org/house_democrats/) - [Fey on HB 1638: An Incentive Program to Make Being a State Trooper a More Attractive Career Choice – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/16/fey-on-hb-1638-an-incentive-program-to-make-being-a-state-trooper-a-more-attractive-career-choice/#:~:text=HB 1638)
+* [House Democrats](/org/house_democrats/) - [House Democrats release state transportation budget / Demócratas de la Cámara de Representantes publican su presupuesto estatal de transporte – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/27/house-democrats-release-state-transportation-budget/#:~:text=HB 1638)
+* [House Democrats](/org/house_democrats/) - [State trooper bill passes the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/11/state-trooper-bill-passes-the-senate/#:~:text=HB 1638)
 
 ## Meetings
 ### Mon 03/13 04:00 PM - Transportation (TRAN): SHB 1638 State trooper recruitment

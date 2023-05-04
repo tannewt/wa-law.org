@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1312)
+
 ## Meetings
 ### Wed 03/08 08:00 AM - Law & Justice (LAW): HB 1312 Jury service
 #### 3 👍 - Pro

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## Articles
+* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House Bill 1045)
 * [The Seattle Times](/org/the_seattle_times/) - [WA proposals to address wealth gap die in Legislature | The Seattle Times](https://www.seattletimes.com/seattle-news/wa-proposals-to-address-wealth-gap-die-in-legislature/#:~:text=House Bill 1045)
 * [The Urbanist](/org/the_urbanist/) - [Washington Legislature’s New Thinking About Housing | The Urbanist](https://www.theurbanist.org/2023/03/01/washington-legislatures-new-thinking-about-housing/#:~:text=HB 1045)
 * [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=HB 1045)
@@ -17,6 +18,8 @@
 * [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/research/2023-legislative-agenda/#:~:text=HB 1045)
 * [The Washington Bus](/org/the_washington_bus/) - [Announcing our 2023 Legislative Priorities! – The Washington Bus](http://www.washingtonbus.org/2023/01/23/announcing-our-2023-legislative-priorities/#:~:text=1045)
 * [The Washington Bus](/org/the_washington_bus/) - [Uncategorized Archives – The Washington Bus](http://www.washingtonbus.org/category/uncategorized/#:~:text=1045)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/09/the-house-hot-sheet-for-week-1-of-the-2023-legislative-session/#:~:text=HB 1045)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/15/the-house-hot-sheet-for-week-2-of-the-2023-legislative-session/#:~:text=HB 1045)
 * [Statewide Poverty Action Network](/org/statewide_poverty_action_network/) - [Bill Tracker – Statewide Poverty Action Network](https://povertyaction.org/bill-tracker/#:~:text=HB 1045)
 * [Hacks and Wonks](/org/hacks_and_wonks/) - [Tackling Poverty with Misha Werschkul of the Washington State Budget & Policy Center — Hacks & Wonks](https://www.officialhacksandwonks.com/blog/misha-werschkul-wa-state-budget-and-policy-center#:~:text=HB 1045)
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Legislative Update - 2023 - Week Two - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate01172023#:~:text=H.B. 1045)

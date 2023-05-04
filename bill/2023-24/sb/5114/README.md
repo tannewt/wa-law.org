@@ -9,7 +9,9 @@
 * [Passed Legislature](S.PL/)
 
 ## Articles
+* [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=Senate Bill 5114)
 * [The Seattle Times](/org/the_seattle_times/) - [WA cannot neglect sex trafficking victims | The Seattle Times](https://www.seattletimes.com/opinion/wa-cannot-neglect-sex-trafficking-victims/#:~:text=Senate Bill 5114)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/12/the-house-hot-sheet-for-week-10-of-the-2023-legislative-session/#:~:text=SB 5114)
 
 ## Meetings
 ### Fri 03/31 01:30 PM - Appropriations (APP): SSB 5114 Sex trafficking

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1797)
+
 ## Meetings
 ### Tue 03/14 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): EHB 1797 Real estate appraisers/eval.
 #### 21 👍 - Pro

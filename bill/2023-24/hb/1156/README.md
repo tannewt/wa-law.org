@@ -8,6 +8,8 @@
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers want to beef up state aid for college students | The Seattle Times](https://www.seattletimes.com/seattle-news/education/wa-lawmakers-want-to-beef-up-state-aid-for-college-students/#:~:text=House Bill 1156)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/09/the-house-hot-sheet-for-week-1-of-the-2023-legislative-session/#:~:text=HB 1156)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB 1156)
 
 ## Meetings
 ### Mon 01/30 04:00 PM - Appropriations (APP): HB 1156 College grant eligibility

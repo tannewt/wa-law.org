@@ -10,6 +10,11 @@
 * [Passed Legislature](S.PL/)
 
 ## Articles
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/05/the-house-hot-sheet-for-week-5-of-the-2023-legislative-session/#:~:text=HB 1678)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/13/the-house-hot-sheet-for-week-6-of-the-2023-legislative-session/#:~:text=HB 1678)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB 1678)
+* [House Democrats](/org/house_democrats/) - [Riccelli Dental Health Care Bills Pass House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/07/riccelli-dental-health-care-bills-pass-house/#:~:text=HB 1678)
+* [House Democrats](/org/house_democrats/) - [Dental Therapy Passes Legislature – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/12/dental-therapy-passes-legislature/#:~:text=HB 1678)
 * [Statewide Poverty Action Network](/org/statewide_poverty_action_network/) - [Bill Tracker – Statewide Poverty Action Network](https://povertyaction.org/bill-tracker/#:~:text=HB 1678)
 
 ## Meetings

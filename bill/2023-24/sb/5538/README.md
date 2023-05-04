@@ -9,6 +9,10 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## Articles
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 11 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/19/the-house-hot-sheet-for-week-11-of-the-2023-legislative-session/#:~:text=SSB 5538)
+* [House Democrats](/org/house_democrats/) - [The Hot Sheet – Washington State House Democrats](https://housedemocrats.wa.gov/media/the-hot-sheet/#:~:text=SSB 5538)
+
 ## Meetings
 ### Thu 03/16 04:00 PM - Appropriations (APP): SSB 5538 Postretirement/nursing
 #### 12 👍 - Pro

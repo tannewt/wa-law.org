@@ -10,6 +10,9 @@
 * [Passed Legislature](S2.PL/)
 * [Session Law](S2.SL/)
 
+## Articles
+* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1032)
+
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): 2SHB 1032 Wildfires/electric utilities
 #### 54 👍 - Pro

@@ -10,6 +10,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## Articles
+* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1361)
+
 ## Meetings
 ### Fri 03/10 08:00 AM - State Government & Elections (SGE): ESHB 1361 State employment
 #### 3 👍 - Pro

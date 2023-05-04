@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## Articles
+* [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate Bill 5242)
 * [The Seattle Times](/org/the_seattle_times/) - [In rebuke to fall of Roe, Gov. Inslee signs WA abortion legislation | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/in-rebuke-to-fall-of-roe-gov-inslee-signs-wa-abortion-legislation/#:~:text=Senate Bill 5242)
 * [South Seattle Emerald](/org/south_seattle_emerald/) - [After a Key Legislative Cutoff, Bills Protecting Washington Abortion Providers and Patients Are Still in Play | South Seattle Emerald](https://southseattleemerald.com/2023/04/06/after-a-key-legislative-cutoff-bills-protecting-washington-abortion-providers-and-patients-are-still-in-play/#:~:text=SB 5242)
 * [The Seattle Times](/org/the_seattle_times/) - [WA Legislature forges ahead on assault weapons ban, new drug law | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-legislature-forges-ahead-on-assault-weapons-ban-new-drug-law/#:~:text=Senate Bill 5242)
@@ -15,6 +16,7 @@
 * [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Our legislative priorities for 2023 | ACLU of Washington](http://www.aclu-wa.org/pages/2023-legislative-agenda#:~:text=SB 5242)
 * [Crosscut](/org/crosscut/) - [Students lobby for WA bills on abortion and gender-affirming care | Crosscut](https://crosscut.com/politics/2023/02/students-lobby-wa-bills-abortion-and-gender-affirming-care#:~:text=Senate Bill 5242)
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Healthcare](https://crosscut.com/voter-guide/2023-legislative-tracker/election/healthcare#:~:text=Senate Bill 5242)
+* [House Democrats](/org/house_democrats/) - [Shield Law passes WA Senate  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/10/shield-law-passes-wa-senate/#:~:text=SB 5242)
 * [KUOW](/org/kuow/) - [KUOW - Two bills to protect abortion rights move  forward in Olympia](https://www.kuow.org/stories/two-bills-to-protect-abortion-rights-move-forward-in-olympia#:~:text=SB 5242)
 * [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate Bill 5242)
 * [Hacks and Wonks](/org/hacks_and_wonks/) - [Megan Burbank and the State of Reproductive Healthcare in Washington — Hacks & Wonks](https://www.officialhacksandwonks.com/blog/megan-burbank-reproductive-healthcare#:~:text=SB 5242)

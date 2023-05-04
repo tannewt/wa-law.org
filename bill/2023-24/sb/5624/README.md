@@ -25,7 +25,7 @@ Testifying:
 * Caleb Banta-Green - University of Washington- Addictions, Drug & Alcohol Institute
 * Caleb Banta-Green - University of Washington, Addictions, Drug & Alcohol Institute
 * Don Julian
-* Malika Lamont - VOCAL-WA
+* 💵Malika Lamont - VOCAL-WA
 * Adam Palayew
 * Everett Maroon - Blue Mountain Heart to Heart
 * 💵Jude Ahmed - Urban League of Metropolitan Seattle & Tacoma

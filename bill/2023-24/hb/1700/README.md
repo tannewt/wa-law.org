@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
 
+## Articles
+* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1700)
+
 ## Meetings
 ### Fri 03/24 08:00 AM - State Government & Elections (SGE): SHB 1700 Eastern Washington landscape
 #### 3 👍 - Pro

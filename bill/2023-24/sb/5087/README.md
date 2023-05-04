@@ -11,6 +11,7 @@
 
 ## Articles
 * [The Urbanist](/org/the_urbanist/) - [What Groups Around Washington Are Asking from Olympia | The Urbanist](https://www.theurbanist.org/2023/02/22/waleg-week-7-priorities/#:~:text=SB 5087 – Correcting Defects In State Law)
+* [Gorge News Center](/org/gorge_news_center/) - [Washington state officially abolishes death penalty](https://gorgenewscenter.com/2023/04/20/washington-state-officially-abolishes-death-penalty/#:~:text=Senate Bill 5087)
 
 ## Meetings
 ### Wed 03/15 08:00 AM - Civil Rights & Judiciary (CRJ): SSB 5087 Defects and omissions

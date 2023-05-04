@@ -10,6 +10,7 @@
 
 ## Articles
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [Legislative Priorities | WA - DNR](https://www.dnr.wa.gov/about/legislative#:~:text=SB 5433)
+* [Department of Natural Resources](/org/department_of_natural_resources/) - [Derelict Aquatic Structures Removal Bill Signed into Law | WA - DNR](https://www.dnr.wa.gov/news/derelict-aquatic-structures-removal-bill-signed-law#:~:text=Senate Bill 5433)
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [Legislation to Remove Derelict Structures Would Promote Healthier Environment, Communities | WA - DNR](https://www.dnr.wa.gov/news/legislation-remove-derelict-structures-would-promote-healthier-environment-communities#:~:text=Senate Bill 5433)
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [Passage of Derelict Structures Legislation Puts Washington’s Aquatic Habitat on Cleaner, Healthier Track, says Commissioner Franz | WA - DNR](https://www.dnr.wa.gov/news/passage-derelict-structures-legislation-puts-washington%E2%80%99s-aquatic-habitat-cleaner-healthier#:~:text=Senate Bill 5433)
 

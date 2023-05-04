@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## Articles
+* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House Bill 1670)
+* [House Republicans](/org/house_republicans/) - [State budgets and bad Senate bills | Washington State House Republicans](https://houserepublicans.wa.gov/current/state-budgets-and-bad-senate-bills/#:~:text=House Bill 1670)
 * [The Urbanist](/org/the_urbanist/) - [Constantine Backs ‘North of CID’ Light Rail Station, Bypassing Chinatown and Midtown | The Urbanist](https://www.theurbanist.org/2023/03/08/constantine-backs-north-of-cid-light-rail-station-bypassing-cid-and-midtown/#:~:text=HB 1670)
 * [The Seattle Times](/org/the_seattle_times/) - [King County should redevelop downtown campus, Constantine proposes | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/king-county-should-redevelop-downtown-campus-constantine-proposes/#:~:text=HB 1670)
 * [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=HB 1670)

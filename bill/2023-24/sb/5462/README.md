@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## Articles
+* [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=Senate Bill 5462)
 * [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=ESB 5462)
 * [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SB 5462)
 * [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! March 13, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-march-13-2023/#:~:text=ESB 5462)

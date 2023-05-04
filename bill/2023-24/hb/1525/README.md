@@ -10,6 +10,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## Articles
+* [House Democrats](/org/house_democrats/) - [Fosse Passes Workforce & Child Care Bill from House of Representatives  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/01/fosse-passes-workforce-child-care-bill-from-house-of-representatives/#:~:text=House Bill 1525)
 * [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [2023 Session Wrap Up - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04272023#:~:text=HB 1525)
 
 ## Meetings

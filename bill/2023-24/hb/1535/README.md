@@ -7,8 +7,11 @@
 * [Original Bill](1/)
 
 ## Articles
+* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House Bill 1535)
+* [House Republicans](/org/house_republicans/) - [Emergency powers reform: Restoring balance and trust to state government | Washington State House Republicans](https://houserepublicans.wa.gov/emergency-powers-reform/#:~:text=House Bill 1535)
 * [Crosscut](/org/crosscut/) - [Three years in, five Washingtonians a day are still dying of COVID | Crosscut](https://crosscut.com/news/2023/03/three-years-five-washingtonians-day-are-still-dying-covid#:~:text=House Bill 1535)
 * [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=House Bill 1535)
 * [Crosscut](/org/crosscut/) - [The bills that survived Washington's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/04/bills-survived-washingtons-2023-legislative-session#:~:text=House Bill 1535)
+* [Gorge News Center](/org/gorge_news_center/) - [Another effort to reform the governor’s emergency powers is launched](https://gorgenewscenter.com/2023/01/27/another-effort-to-reform-the-governors-emergency-powers-is-launched/#:~:text=House Bill 1535)
 
 ## Meetings

@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [House Democrats](/org/house_democrats/) - [Representative Mari Leavitt Passes Four Bills to Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/24/representative-mari-leavitt-passes-four-bills-to-senate/#:~:text=HB 1761,)
+
 ## Meetings
 ### Tue 02/14 08:00 AM - Finance (FIN): HB 1761 Property tax exemption
 #### 41 👍 - Pro

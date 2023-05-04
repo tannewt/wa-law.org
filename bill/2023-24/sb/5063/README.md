@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [House Republicans](/org/house_republicans/) - [Emergency powers reform: Restoring balance and trust to state government | Washington State House Republicans](https://houserepublicans.wa.gov/emergency-powers-reform/#:~:text=Senate Bill 5063)
+
 ## Meetings

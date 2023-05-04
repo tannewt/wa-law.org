@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## Articles
+* [House Democrats](/org/house_democrats/) - [House Passes Ryu’s State Broadband Map – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/04/house-passes-ryus-state-broadband-map/#:~:text=House Bill 1746)
+
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): 2SHB 1746 State broadband map
 #### 18 👍 - Pro

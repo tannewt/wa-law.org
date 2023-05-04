@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## Articles
+* [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=Senate Bill 5237)
+
 ## Meetings
 ### Mon 01/16 01:30 PM - Early Learning & K-12 Education (EDU): SB 5237 Education law noncompliance
 #### 16 👍 - Pro

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1663)
+
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): EHB 1663 Consolidated port districts
 #### 5 👍 - Pro

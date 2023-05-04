@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1274)
+
 ## Meetings
 ### Thu 03/16 08:00 AM - Human Services (HS): EHB 1274 Child malnutrition guide
 #### 4 👍 - Pro

@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## Articles
+* [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=House Bill 1151)
+
 ## Meetings
 ### Thu 03/16 10:30 AM - Health & Long Term Care (HLTC): 2SHB 1151 Fertility services coverage
 #### 494 👍 - Pro

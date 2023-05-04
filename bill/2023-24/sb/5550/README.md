@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [House Democrats](/org/house_democrats/) - [House Democrats release state transportation budget / Demócratas de la Cámara de Representantes publican su presupuesto estatal de transporte – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/27/house-democrats-release-state-transportation-budget/#:~:text=SB 5550)
+
 ## Meetings
 ### Wed 03/15 04:00 PM - Transportation (TR): SB 5550 Ferry workforce development
 #### 25 👍 - Pro

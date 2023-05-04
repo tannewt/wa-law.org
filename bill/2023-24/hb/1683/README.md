@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
 
+## Articles
+* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1683)
+
 ## Meetings
 ### Tue 03/21 08:00 AM - Health & Long Term Care (HLTC): SHB 1683 Dental only coverage
 #### 33 👍 - Pro

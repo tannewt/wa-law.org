@@ -11,11 +11,17 @@
 * [Session Law](S.SL/)
 
 ## Articles
+* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=Senate Bill 5082)
+* [House Republicans](/org/house_republicans/) - [An update on the 2023 legislative session | Washington State House Republicans](https://houserepublicans.wa.gov/current/an-update-on-the-2023-legislative-session/#:~:text=Senate Bill 5082)
+* [House Republicans](/org/house_republicans/) - [The homestretch of the 2023 legislative session | Washington State House Republicans](https://houserepublicans.wa.gov/current/the-homestretch-of-the-2023-legislative-session/#:~:text=Senate Bill 5082)
 * [The Seattle Times](/org/the_seattle_times/) - [With 10 days to go, some bills fall by the wayside in Olympia | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/with-10-days-to-go-some-bills-fall-by-the-wayside-in-olympia/#:~:text=Senate Bill 5082)
 * [MyNorthwest](/org/mynorthwest/) - [Washington House passes bill to eliminate advisory votes on tax increases - MyNorthwest.com](https://mynorthwest.com/3814763/washington-senate-eliminate-public-vote-tax-increases/#:~:text=SB 5082)
+* [House Republicans](/org/house_republicans/) - [State budgets and bad Senate bills | Washington State House Republicans](https://houserepublicans.wa.gov/current/state-budgets-and-bad-senate-bills/#:~:text=Senate Bill 5082)
 * [The Seattle Times](/org/the_seattle_times/) - [Boot confusing advisory votes from WA ballots | The Seattle Times](https://www.seattletimes.com/opinion/editorials/boot-confusing-advisory-votes-from-wa-ballots/#:~:text=Senate Bill 5082)
 * [The Seattle Times](/org/the_seattle_times/) - [Lawmakers convene in Olympia for first day of 2023 Legislature | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/lawmakers-convene-in-olympia-for-first-day-of-2023-legislature/#:~:text=SB 5082)
 * [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=Senate Bill 5082)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 11 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/19/the-house-hot-sheet-for-week-11-of-the-2023-legislative-session/#:~:text=ESSB 5082)
+* [House Democrats](/org/house_democrats/) - [The Hot Sheet – Washington State House Democrats](https://housedemocrats.wa.gov/media/the-hot-sheet/#:~:text=ESSB 5082)
 * [KIRO7](/org/kiro7/) - [State lawmakers pass bill to remove advisory votes from Washington ballots – KIRO 7 News Seattle](https://www.kiro7.com/news/local/state-lawmakers-pass-bill-remove-advisory-votes-washington-ballots/W5GFVDOO2VA73IHFUDIIRNTLP4/#:~:text=House Bill 5082)
 * [The Spokesman-Review](/org/the_spokesman-review/) - ['It’s time to end the failed experiment': Bill to repeal advisory votes heads to Inslee's desk | The Spokesman-Review](https://www.spokesman.com/stories/2023/apr/12/its-time-to-end-the-failed-experiment-bill-to-repe/#:~:text=Senate Bill 5082)
 

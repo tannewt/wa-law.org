@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## Articles
+* [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Orwall’s foreclosure protections measures head to Governor – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/10/legislative-news-orwalls-foreclosure-protections-measures-head-to-governor/#:~:text=HB 1349)
+
 ## Meetings
 ### Fri 03/10 10:30 AM - Housing (HSG): HB 1349 Foreclosure protections
 #### 31 👍 - Pro
