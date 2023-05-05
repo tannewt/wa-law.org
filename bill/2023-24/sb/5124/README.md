@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Articles
 * [Senate Democrats](/org/senate_democrats/) - [Bill expanding subsidy for guardians signed into law - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/05/01/bill-expanding-subsidy-for-guardians-signed-into-law/#:~:text=Senate Bill 5124)

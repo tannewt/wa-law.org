@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## Meetings
 ### Tue 03/14 08:00 AM - Health & Long Term Care (HLTC): 2SHB 1039 Intramuscular needling

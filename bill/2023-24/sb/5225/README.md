@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## Articles
 * [MyNorthwest](/org/mynorthwest/) - [Gov. Inslee increases affordable childcare access with new bill - MyNorthwest.com](https://mynorthwest.com/3884225/inslee-affordable-childcare-access-new-bill/#:~:text=Senate bill 5225)

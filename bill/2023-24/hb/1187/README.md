@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Thu 03/23 08:00 AM - Law & Justice (LAW): ESHB 1187 Employee-union privilege

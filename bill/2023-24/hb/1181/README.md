@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## Articles
 * [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House Bill 1181)

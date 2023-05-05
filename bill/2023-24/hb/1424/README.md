@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Articles
 * [The Seattle Times](/org/the_seattle_times/) - [AG sues Puppyland over alleged false health guarantees, predatory loans | The Seattle Times](https://www.seattletimes.com/seattle-news/law-justice/ag-sues-puppyland-for-alleged-false-health-guarantees-predatory-loans/#:~:text=House Bill 1424)

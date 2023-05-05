@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## Articles
 * [House Democrats](/org/house_democrats/) - [Timmons’ Bill to Establish a State Emergency Medical Reserve Corps Passes the House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/01/timmons-bill-to-establish-a-state-emergency-medical-reserve-corps-passes-the-house/#:~:text=HB 1452)

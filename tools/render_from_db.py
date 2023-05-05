@@ -53,7 +53,7 @@ for row in cur:
 index_lines.append("")
 
 index_lines.append("## Heard bills")
-cur.execute("SELECT bills.rowid, prefix, number, COUNT(testifiers.sign_in_time) as ts FROM bills, testifiers, agenda_items, meetings WHERE datetime(meetings.start_time) < datetime(?) AND meetings.rowid = agenda_items.meeting_rowid AND bills.rowid = agenda_items.bill_rowid AND agenda_items.rowid = testifiers.agenda_item_rowid GROUP BY testifiers.agenda_item_rowid ORDER BY ts DESC, number ASC", (now,))
+cur.execute("SELECT bills.rowid, prefix, number, COUNT(testifiers.sign_in_time) as ts FROM bills, testifiers, agenda_items, meetings WHERE datetime(meetings.start_time) < datetime(?) AND meetings.rowid = agenda_items.meeting_rowid AND bills.rowid = agenda_items.bill_rowid AND agenda_items.rowid = testifiers.agenda_item_rowid GROUP BY bills.rowid ORDER BY ts DESC, number ASC", (now,))
 for row in cur:
     counts = db.cursor()
     counts.execute("SELECT position, COUNT(testifiers.position_rowid) FROM positions, testifiers, agenda_items WHERE positions.rowid = testifiers.position_rowid AND agenda_items.rowid = testifiers.agenda_item_rowid AND bill_rowid = ? GROUP BY testifiers.position_rowid", (row[0],))

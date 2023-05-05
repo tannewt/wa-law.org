@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Thu 03/16 04:00 PM - Ways & Means (WM): SHB 1056 Postretirement employment

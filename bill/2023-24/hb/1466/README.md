@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Articles
 * [House Democrats](/org/house_democrats/) - [Riccelli Dental Health Care Bills Pass House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/07/riccelli-dental-health-care-bills-pass-house/#:~:text=HB 1466)
