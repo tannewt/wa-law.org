@@ -69,8 +69,17 @@ for row in cur:
     pro = position_counts.get("Pro", 0)
     con = position_counts.get("Con", 0)
     other = position_counts.get("Other", 0)
+    
+    articles = db.cursor()
+    articles.execute("SELECT COUNT(web_articles.url) FROM web_articles WHERE bill_rowid = ?", (row[0],))
+    articles = articles.fetchone()[0]
+    if articles > 0:
+        articles = f"{articles}📰 "
+    else:
+        articles = ""
+
     bill_path = pathlib.Path(prefix.lower()) / str(bill_number)
-    index_lines.append(f"* [{prefix} {bill_number}]({bill_path}) - {description} {pro}👍 {con}👎 {other}❓ - {status}")
+    index_lines.append(f"* [{prefix} {bill_number}]({bill_path}) - {description} {articles}{pro}👍 {con}👎 {other}❓ - {status}")
 
 
 bills_index = bills_path / "README.md"
