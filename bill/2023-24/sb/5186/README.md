@@ -9,8 +9,8 @@
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
 
-## Articles
-* [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=Senate Bill 5186)
+## 📰 Articles
+* [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=Senate%20Bill%205186)
 
 ## Meetings
 ### Wed 03/22 01:30 PM - State Government & Tribal Relations (SGOV): ESSB 5186 Contracting/discrimination

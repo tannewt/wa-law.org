@@ -6,8 +6,8 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB 1444)
+## 📰 Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB%201444)
 
 ## Meetings
 ### Thu 01/26 01:30 PM - Capital Budget (CB): HB 1444 Common school trust revenue

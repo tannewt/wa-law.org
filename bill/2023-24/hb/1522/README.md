@@ -10,9 +10,9 @@
 * [Passed Legislature](S2.PL/)
 * [Session Law](S2.SL/)
 
-## Articles
-* [House Democrats](/org/house_democrats/) - [House Passes Pollet Bill Expanding Protections Against Sexual Misconduct by Faculty and University Administrators   – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/08/house-passes-pollet-bill-expanding-protections-against-sexual-misconduct-by-faculty-and-university-administrators/#:~:text=House Bill 1522)
-* [House Democrats](/org/house_democrats/) - [Governor Signs Pollet Bill Expanding Protections Against Sexual Misconduct by Faculty and University Administrators – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/14/governor-signs-pollet-bill-expanding-protections-against-sexual-misconduct-by-faculty-and-university-administrators/#:~:text=House Bill 1522)
+## 📰 Articles
+* [House Democrats](/org/house_democrats/) - [House Passes Pollet Bill Expanding Protections Against Sexual Misconduct by Faculty and University Administrators   – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/08/house-passes-pollet-bill-expanding-protections-against-sexual-misconduct-by-faculty-and-university-administrators/#:~:text=House%20Bill%201522)
+* [House Democrats](/org/house_democrats/) - [Governor Signs Pollet Bill Expanding Protections Against Sexual Misconduct by Faculty and University Administrators – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/14/governor-signs-pollet-bill-expanding-protections-against-sexual-misconduct-by-faculty-and-university-administrators/#:~:text=House%20Bill%201522)
 
 ## Meetings
 ### Wed 03/15 08:00 AM - Higher Education & Workforce Development (HEWD): 2SHB 1522 Sexual misconduct/assocs.

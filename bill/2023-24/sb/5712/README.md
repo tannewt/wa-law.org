@@ -6,10 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! February 16, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-february-16-2023/#:~:text=SB 5712)
-* [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=SB 5712)
-* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SB 5712)
+## 📰 Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! February 16, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-february-16-2023/#:~:text=SB%205712)
+* [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=SB%205712)
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SB%205712)
 
 ## Meetings
 ### Fri 02/17 10:30 AM - Higher Education & Workforce Development (HEWD): SB 5712 College grant/promise prg.

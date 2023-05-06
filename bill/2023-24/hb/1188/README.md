@@ -10,8 +10,8 @@
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
 
-## Articles
-* [House Democrats](/org/house_democrats/) - [Senn Bill to Connect Foster Youth to DD Services Passes Unanimously in the House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/28/senn-bill-to-connect-foster-youth-to-dd-services-passes-unanimously-in-the-house/#:~:text=House Bill 1188)
+## 📰 Articles
+* [House Democrats](/org/house_democrats/) - [Senn Bill to Connect Foster Youth to DD Services Passes Unanimously in the House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/28/senn-bill-to-connect-foster-youth-to-dd-services-passes-unanimously-in-the-house/#:~:text=House%20Bill%201188)
 
 ## Meetings
 ### Tue 03/21 04:00 PM - Ways & Means (WM): E2SHB 1188 Child welfare services/DD

@@ -8,8 +8,8 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
-## Articles
-* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=SB 5334)
+## 📰 Articles
+* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=SB%205334)
 
 ## Meetings
 ### Thu 03/30 08:00 AM - Finance (FIN): ESSB 5334 Affordable housing funding

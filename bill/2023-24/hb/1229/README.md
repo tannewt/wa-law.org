@@ -8,8 +8,8 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
-## Articles
-* [The Seattle Times](/org/the_seattle_times/) - [Reach out to voters before reworking their ballots | The Seattle Times](https://www.seattletimes.com/opinion/reach-out-to-voters-before-reworking-their-ballots/#:~:text=House Bill 1229)
+## 📰 Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Reach out to voters before reworking their ballots | The Seattle Times](https://www.seattletimes.com/opinion/reach-out-to-voters-before-reworking-their-ballots/#:~:text=House%20Bill%201229)
 
 ## Meetings
 ### Mon 02/20 01:30 PM - Transportation (TR): SHB 1229 Voter registration

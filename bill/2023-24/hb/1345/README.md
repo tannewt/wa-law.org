@@ -6,9 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [House Democrats](/org/house_democrats/) - [Representative Darya Farivar Passes First Bill to Senate  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/14/representative-darya-farivar-passes-first-bill-to-senate/#:~:text=House Bill 1345)
-* [House Democrats](/org/house_democrats/) - [First Year Legislator Darya Farivar Sends First Bill To Governor – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/19/first-year-legislator-darya-farivar-sends-first-bill-to-governor/#:~:text=House Bill 1345)
+## 📰 Articles
+* [House Democrats](/org/house_democrats/) - [Representative Darya Farivar Passes First Bill to Senate  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/14/representative-darya-farivar-passes-first-bill-to-senate/#:~:text=House%20Bill%201345)
+* [House Democrats](/org/house_democrats/) - [First Year Legislator Darya Farivar Sends First Bill To Governor – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/19/first-year-legislator-darya-farivar-sends-first-bill-to-governor/#:~:text=House%20Bill%201345)
 
 ## Meetings
 ### Mon 03/13 10:30 AM - Human Services (HS): HB 1345 DOC/costs of privileges

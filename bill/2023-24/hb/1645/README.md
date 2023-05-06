@@ -6,7 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
+## 📰 Articles
 * [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1645)
 
 ## Meetings

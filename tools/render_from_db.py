@@ -147,11 +147,13 @@ for bill_rowid, prefix, bill_number in cur:
     articles.execute("SELECT organizations.name, organizations.slug, web_articles.url, text_fragment, title, date_posted FROM web_articles, organizations WHERE bill_rowid = ? AND web_articles.organization_rowid = organizations.rowid ORDER BY date_posted DESC", (bill_rowid,))
     articles = articles.fetchall()
     if articles:
-        bill_readme.append("## Articles")
+        bill_readme.append("## 📰 Articles")
         for org, org_slug, url, text_fragment, title, date_posted in articles:
             # mtime = date_posted
             # if date_posted:
             #     mtime = date_posted.strftime("%m/%d/%Y")
+            url = url.replace(" ", "%20")
+            text_fragment = text_fragment.replace(" ", "%20")
             bill_readme.append(f"* [{org}](/org/{org_slug}/) - [{title}]({url}{text_fragment})")
         bill_readme.append("")
 

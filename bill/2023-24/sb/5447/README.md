@@ -10,10 +10,10 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
-## Articles
-* [The Seattle Times](/org/the_seattle_times/) - [Pass WA sustainable aviation fuels bill to combat climate crisis | The Seattle Times](https://www.seattletimes.com/opinion/editorials/pass-wa-sustainable-aviation-fuels-bill-to-combat-climate-crisis/#:~:text=sponsored Senate Bill 5447)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/12/the-house-hot-sheet-for-week-10-of-the-2023-legislative-session/#:~:text=SB 5447)
-* [The Center Square](/org/the_center_square/) - [Gov. Inslee signs a slew of climate bills into law from Eastern Washington | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0027a7a6-e9ed-11ed-b77a-7f7862703a86.html#:~:text=Senate Bill 5447)
+## 📰 Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Pass WA sustainable aviation fuels bill to combat climate crisis | The Seattle Times](https://www.seattletimes.com/opinion/editorials/pass-wa-sustainable-aviation-fuels-bill-to-combat-climate-crisis/#:~:text=sponsored%20Senate%20Bill%205447)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/12/the-house-hot-sheet-for-week-10-of-the-2023-legislative-session/#:~:text=SB%205447)
+* [The Center Square](/org/the_center_square/) - [Gov. Inslee signs a slew of climate bills into law from Eastern Washington | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0027a7a6-e9ed-11ed-b77a-7f7862703a86.html#:~:text=Senate%20Bill%205447)
 
 ## Meetings
 ### Tue 03/28 08:00 AM - Finance (FIN): ESSB 5447 Alternative jet fuel

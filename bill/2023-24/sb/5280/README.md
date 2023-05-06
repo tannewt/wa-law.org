@@ -6,15 +6,15 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [MyNorthwest](/org/mynorthwest/) - [Bill forcing clergy members to report child abuse passes WA Senate - MyNorthwest.com](https://mynorthwest.com/3847255/bill-forcing-members-clergy-report-child-abuse-senate-clergy-penitent-privilege/#:~:text=SB 5280)
-* [The Seattle Times](/org/the_seattle_times/) - [To know abuse without taking action is to condone abuse | The Seattle Times](https://www.seattletimes.com/opinion/to-know-abuse-without-taking-action-is-to-condone-abuse/#:~:text=Senate Bill 5280)
-* [The Seattle Times](/org/the_seattle_times/) - [Catholic officials seek loophole in WA bills on child abuse reporting | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/catholic-officials-seek-loophole-in-wa-bills-on-child-abuse-reporting/#:~:text=Senate Bill 5280)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Other Topics](https://crosscut.com/voter-guide/2023-legislative-tracker/election/other-topics#:~:text=Senate Bill 5280)
-* [Gorge News Center](/org/gorge_news_center/) - [Bill to make clergy mandatory child abuse reporters advances](https://gorgenewscenter.com/2023/02/28/bill-to-make-clergy-mandatory-child-abuse-reporters-advances/#:~:text=Senate Bill 5280)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 11 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/19/the-house-hot-sheet-for-week-11-of-the-2023-legislative-session/#:~:text=SB 5280)
-* [House Democrats](/org/house_democrats/) - [The Hot Sheet – Washington State House Democrats](https://housedemocrats.wa.gov/media/the-hot-sheet/#:~:text=SB 5280)
-* [The Spokesman-Review](/org/the_spokesman-review/) - [Catholic officials oppose Washington bill requiring clergy to report child abuse if it doesn't exempt confessions | The Spokesman-Review](https://www.spokesman.com/stories/2023/feb/13/catholic-officials-oppose-washington-bill-requirin/#:~:text=Senate Bill 5280)
+## 📰 Articles
+* [MyNorthwest](/org/mynorthwest/) - [Bill forcing clergy members to report child abuse passes WA Senate - MyNorthwest.com](https://mynorthwest.com/3847255/bill-forcing-members-clergy-report-child-abuse-senate-clergy-penitent-privilege/#:~:text=SB%205280)
+* [The Seattle Times](/org/the_seattle_times/) - [To know abuse without taking action is to condone abuse | The Seattle Times](https://www.seattletimes.com/opinion/to-know-abuse-without-taking-action-is-to-condone-abuse/#:~:text=Senate%20Bill%205280)
+* [The Seattle Times](/org/the_seattle_times/) - [Catholic officials seek loophole in WA bills on child abuse reporting | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/catholic-officials-seek-loophole-in-wa-bills-on-child-abuse-reporting/#:~:text=Senate%20Bill%205280)
+* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Other Topics](https://crosscut.com/voter-guide/2023-legislative-tracker/election/other-topics#:~:text=Senate%20Bill%205280)
+* [Gorge News Center](/org/gorge_news_center/) - [Bill to make clergy mandatory child abuse reporters advances](https://gorgenewscenter.com/2023/02/28/bill-to-make-clergy-mandatory-child-abuse-reporters-advances/#:~:text=Senate%20Bill%205280)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 11 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/19/the-house-hot-sheet-for-week-11-of-the-2023-legislative-session/#:~:text=SB%205280)
+* [House Democrats](/org/house_democrats/) - [The Hot Sheet – Washington State House Democrats](https://housedemocrats.wa.gov/media/the-hot-sheet/#:~:text=SB%205280)
+* [The Spokesman-Review](/org/the_spokesman-review/) - [Catholic officials oppose Washington bill requiring clergy to report child abuse if it doesn't exempt confessions | The Spokesman-Review](https://www.spokesman.com/stories/2023/feb/13/catholic-officials-oppose-washington-bill-requirin/#:~:text=Senate%20Bill%205280)
 
 ## Meetings
 ### Tue 03/21 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SB 5280 Clergy/child abuse reporting

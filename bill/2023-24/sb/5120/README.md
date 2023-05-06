@@ -9,7 +9,7 @@
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
 
-## Articles
+## 📰 Articles
 * [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Priority Bills -- current status — Quaker Voice](https://www.quakervoicewa.org/priority-bills-current-status/#:~:text=5120)
 
 ## Meetings

@@ -6,8 +6,8 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Our legislative priorities for 2023 | ACLU of Washington](http://www.aclu-wa.org/pages/2023-legislative-agenda#:~:text=HB 1616)
-* [House Democrats](/org/house_democrats/) - [Kloba introduces the People’s Privacy Act – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/27/kloba-introduces-the-peoples-privacy-act/#:~:text=House Bill 1616)
+## 📰 Articles
+* [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Our legislative priorities for 2023 | ACLU of Washington](http://www.aclu-wa.org/pages/2023-legislative-agenda#:~:text=HB%201616)
+* [House Democrats](/org/house_democrats/) - [Kloba introduces the People’s Privacy Act – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/27/kloba-introduces-the-peoples-privacy-act/#:~:text=House%20Bill%201616)
 
 ## Meetings

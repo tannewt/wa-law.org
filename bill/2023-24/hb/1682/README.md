@@ -8,11 +8,11 @@
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
 
-## Articles
+## 📰 Articles
 * [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1682)
-* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House Bill 1682)
-* [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=House bill 1682)
-* [House Republicans](/org/house_republicans/) - [Address the rise in auto thefts | Washington State House Republicans](https://houserepublicans.wa.gov/address-the-rise-in-auto-thefts/#:~:text=House bill 1682)
+* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201682)
+* [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201682)
+* [House Republicans](/org/house_republicans/) - [Address the rise in auto thefts | Washington State House Republicans](https://houserepublicans.wa.gov/address-the-rise-in-auto-thefts/#:~:text=House%20bill%201682)
 
 ## Meetings
 ### Mon 03/13 04:00 PM - Ways & Means (WM): SHB 1682 Auto theft authority account

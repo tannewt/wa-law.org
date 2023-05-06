@@ -6,7 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [The Urbanist](/org/the_urbanist/) - [We Should Rank Our Votes in Presidential Primaries | The Urbanist](https://www.theurbanist.org/2023/02/15/we-should-rank-our-votes-in-presidential-primaries/#:~:text=HB 1592)
+## 📰 Articles
+* [The Urbanist](/org/the_urbanist/) - [We Should Rank Our Votes in Presidential Primaries | The Urbanist](https://www.theurbanist.org/2023/02/15/we-should-rank-our-votes-in-presidential-primaries/#:~:text=HB%201592)
 
 ## Meetings

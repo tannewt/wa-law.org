@@ -10,8 +10,8 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
-## Articles
-* [Senate Democrats](/org/senate_democrats/) - [Bill expanding subsidy for guardians signed into law - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/05/01/bill-expanding-subsidy-for-guardians-signed-into-law/#:~:text=Senate Bill 5124)
+## 📰 Articles
+* [Senate Democrats](/org/senate_democrats/) - [Bill expanding subsidy for guardians signed into law - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/05/01/bill-expanding-subsidy-for-guardians-signed-into-law/#:~:text=Senate%20Bill%205124)
 
 ## Meetings
 ### Fri 03/31 01:30 PM - Appropriations (APP): ESSB 5124 Nonrelative kin placement

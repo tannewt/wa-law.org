@@ -6,8 +6,8 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB 1071)
+## 📰 Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB%201071)
 
 ## Meetings
 ### Mon 01/23 01:30 PM - Education (ED): HB 1071 School resource officers

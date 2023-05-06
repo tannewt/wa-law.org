@@ -8,8 +8,8 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
-## Articles
-* [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=House Bill 1239)
+## 📰 Articles
+* [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=House%20Bill%201239)
 
 ## Meetings
 ### Mon 02/20 01:30 PM - Appropriations (APP): SHB 1239 Educator ethics & complaints

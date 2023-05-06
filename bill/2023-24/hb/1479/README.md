@@ -9,20 +9,20 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 
-## Articles
-* [The Seattle Times](/org/the_seattle_times/) - [Isolation and restraint of students is abuse | The Seattle Times](https://www.seattletimes.com/opinion/editorials/isolation-and-restraint-of-students-is-abuse/#:~:text=House Bill 1479)
-* [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=E2SHB 1479)
-* [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=E2SHB 1479)
-* [Washington St Pta](/org/washington_st_pta/) - [Many Bills End Their Journey in 2023 with Fiscal Cutoff - WSPTA](https://www.wastatepta.org/many-bills-end-their-journey-in-2023-with-fiscal-cutoff/#:~:text=2SHB 1479)
-* [South Seattle Emerald](/org/south_seattle_emerald/) - [Black, Disabled, and Foster Students Most Likely to Be Isolated or Restrained in Washington Schools | South Seattle Emerald](https://southseattleemerald.com/2023/02/23/black-disabled-and-foster-students-most-likely-to-be-isolated-or-restrained-in-washington-schools/#:~:text=HB 1479)
-* [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=HB 1479)
-* [Crosscut](/org/crosscut/) - [WA bills propose initiatives to bring special-ed students back home | Crosscut](https://crosscut.com/politics/2023/02/wa-bills-propose-initiatives-bring-special-ed-students-back-home#:~:text=HB 1479)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB 1479)
-* [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! March 20, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-march-20-2023/#:~:text=E2SHB 1479)
-* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB 1479)
-* [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=E2SHB 1479)
-* [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=2SSHB 1479)
-* [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=HB 1479)
+## 📰 Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Isolation and restraint of students is abuse | The Seattle Times](https://www.seattletimes.com/opinion/editorials/isolation-and-restraint-of-students-is-abuse/#:~:text=House%20Bill%201479)
+* [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=E2SHB%201479)
+* [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=E2SHB%201479)
+* [Washington St Pta](/org/washington_st_pta/) - [Many Bills End Their Journey in 2023 with Fiscal Cutoff - WSPTA](https://www.wastatepta.org/many-bills-end-their-journey-in-2023-with-fiscal-cutoff/#:~:text=2SHB%201479)
+* [South Seattle Emerald](/org/south_seattle_emerald/) - [Black, Disabled, and Foster Students Most Likely to Be Isolated or Restrained in Washington Schools | South Seattle Emerald](https://southseattleemerald.com/2023/02/23/black-disabled-and-foster-students-most-likely-to-be-isolated-or-restrained-in-washington-schools/#:~:text=HB%201479)
+* [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=HB%201479)
+* [Crosscut](/org/crosscut/) - [WA bills propose initiatives to bring special-ed students back home | Crosscut](https://crosscut.com/politics/2023/02/wa-bills-propose-initiatives-bring-special-ed-students-back-home#:~:text=HB%201479)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB%201479)
+* [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! March 20, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-march-20-2023/#:~:text=E2SHB%201479)
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB%201479)
+* [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=E2SHB%201479)
+* [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=2SSHB%201479)
+* [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=HB%201479)
 
 ## Meetings
 ### Mon 03/20 01:30 PM - Early Learning & K-12 Education (EDU): E2SHB 1479 Student restraint, isolation

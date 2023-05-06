@@ -6,8 +6,8 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [The Seattle Times](/org/the_seattle_times/) - [A smart way for legislators to help save local news | The Seattle Times](https://www.seattletimes.com/opinion/editorials/a-smart-way-for-legislators-to-help-save-local-news/#:~:text=House Bill 1206)
+## 📰 Articles
+* [The Seattle Times](/org/the_seattle_times/) - [A smart way for legislators to help save local news | The Seattle Times](https://www.seattletimes.com/opinion/editorials/a-smart-way-for-legislators-to-help-save-local-news/#:~:text=House%20Bill%201206)
 
 ## Meetings
 ### Tue 01/24 08:00 AM - Finance (FIN): HB 1206 Newspaper publishers/tax

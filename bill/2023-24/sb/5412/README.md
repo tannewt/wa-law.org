@@ -9,10 +9,10 @@
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
 
-## Articles
-* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB 5412)
-* [PubliCola](/org/publicola/) - [New State Housing Laws Could Mean Big Changes for Seattle - PubliCola](https://publicola.com/2023/04/27/new-state-housing-laws-could-mean-big-changes-for-seattle/#:~:text=Senate Bill 5412)
-* [KIRO7](/org/kiro7/) - [‘WA needs 1 million new homes within next 20 years’: Suite of bills target the housing crisis – KIRO 7 News Seattle](https://www.kiro7.com/news/local/wa-needs-1-million-new-homes-within-next-20-years-suite-bills-target-housing-crisis/UDGREATSP5FQXCOF6E5GUFIF5A/#:~:text=HB 5412)
+## 📰 Articles
+* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB%205412)
+* [PubliCola](/org/publicola/) - [New State Housing Laws Could Mean Big Changes for Seattle - PubliCola](https://publicola.com/2023/04/27/new-state-housing-laws-could-mean-big-changes-for-seattle/#:~:text=Senate%20Bill%205412)
+* [KIRO7](/org/kiro7/) - [‘WA needs 1 million new homes within next 20 years’: Suite of bills target the housing crisis – KIRO 7 News Seattle](https://www.kiro7.com/news/local/wa-needs-1-million-new-homes-within-next-20-years-suite-bills-target-housing-crisis/UDGREATSP5FQXCOF6E5GUFIF5A/#:~:text=HB%205412)
 
 ## Meetings
 ### Tue 03/21 10:30 AM - Local Government (LG): 2SSB 5412 Land use permitting/local

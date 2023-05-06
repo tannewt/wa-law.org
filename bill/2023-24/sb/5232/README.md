@@ -6,11 +6,11 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SB 5232)
-* [House Democrats](/org/house_democrats/) - [Berry, Salomon bills to enhance requirements for the purchase or transfer of firearms – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/10/berry-salomon-bills-to-enhance-requirements-for-the-purchase-or-transfer-of-firearms/#:~:text=SB 5232)
-* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SB 5232)
-* [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB 5232)
+## 📰 Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SB%205232)
+* [House Democrats](/org/house_democrats/) - [Berry, Salomon bills to enhance requirements for the purchase or transfer of firearms – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/10/berry-salomon-bills-to-enhance-requirements-for-the-purchase-or-transfer-of-firearms/#:~:text=SB%205232)
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SB%205232)
+* [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB%205232)
 
 ## Meetings
 ### Thu 02/09 08:00 AM - Law & Justice (LAW): SB 5232 Firearms/purchase & transfer

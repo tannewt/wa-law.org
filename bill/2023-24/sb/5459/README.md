@@ -6,8 +6,8 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [The Center Square](/org/the_center_square/) - [Washington elections bill ‘generates more distrust in the system’ | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_770962ba-e9f7-11ed-ab42-1f7e0edc8d65.html#:~:text=Senate Bill 5459)
+## 📰 Articles
+* [The Center Square](/org/the_center_square/) - [Washington elections bill ‘generates more distrust in the system’ | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_770962ba-e9f7-11ed-ab42-1f7e0edc8d65.html#:~:text=Senate%20Bill%205459)
 
 ## Meetings
 ### Wed 03/22 01:30 PM - State Government & Tribal Relations (SGOV): SB 5459 Election info. requests

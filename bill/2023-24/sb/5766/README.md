@@ -6,8 +6,8 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [Crosscut](/org/crosscut/) - [How Washington plans to spend money from the new carbon-cap law | Crosscut](https://crosscut.com/politics/2023/04/how-washington-plans-spend-money-new-carbon-cap-law#:~:text=Senate Bill 5766)
+## 📰 Articles
+* [Crosscut](/org/crosscut/) - [How Washington plans to spend money from the new carbon-cap law | Crosscut](https://crosscut.com/politics/2023/04/how-washington-plans-spend-money-new-carbon-cap-law#:~:text=Senate%20Bill%205766)
 
 ## Meetings
 ### Mon 04/10 12:30 PM - Ways & Means (WM): SB 5766 Emissions exemptions

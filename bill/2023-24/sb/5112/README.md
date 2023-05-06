@@ -10,8 +10,8 @@
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
 
-## Articles
-* [The Seattle Times](/org/the_seattle_times/) - [Reach out to voters before reworking their ballots | The Seattle Times](https://www.seattletimes.com/opinion/reach-out-to-voters-before-reworking-their-ballots/#:~:text=Senate Bill 5112)
+## 📰 Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Reach out to voters before reworking their ballots | The Seattle Times](https://www.seattletimes.com/opinion/reach-out-to-voters-before-reworking-their-ballots/#:~:text=Senate%20Bill%205112)
 
 ## Meetings
 ### Thu 03/23 04:00 PM - Transportation (TR): E2SSB 5112 Voter registration

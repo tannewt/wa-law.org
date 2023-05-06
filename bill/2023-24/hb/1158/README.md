@@ -6,10 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House Bill 1158)
-* [The Seattle Times](/org/the_seattle_times/) - [Boot confusing advisory votes from WA ballots | The Seattle Times](https://www.seattletimes.com/opinion/editorials/boot-confusing-advisory-votes-from-wa-ballots/#:~:text=House Bill 1158)
-* [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=House Bill 1158)
+## 📰 Articles
+* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201158)
+* [The Seattle Times](/org/the_seattle_times/) - [Boot confusing advisory votes from WA ballots | The Seattle Times](https://www.seattletimes.com/opinion/editorials/boot-confusing-advisory-votes-from-wa-ballots/#:~:text=House%20Bill%201158)
+* [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=House%20Bill%201158)
 
 ## Meetings
 ### Wed 01/11 01:30 PM - State Government & Tribal Relations (SGOV): HB 1158 Advisory votes

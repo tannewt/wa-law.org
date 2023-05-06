@@ -6,8 +6,8 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [Crosscut](/org/crosscut/) - [Homeless services could face cuts in WA's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/01/homeless-services-could-face-cuts-was-2023-legislative-session#:~:text=Senate Bill 5413)
-* [Statewide Poverty Action Network](/org/statewide_poverty_action_network/) - [Bill Tracker – Statewide Poverty Action Network](https://povertyaction.org/bill-tracker/#:~:text=SB 5413)
+## 📰 Articles
+* [Crosscut](/org/crosscut/) - [Homeless services could face cuts in WA's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/01/homeless-services-could-face-cuts-was-2023-legislative-session#:~:text=Senate%20Bill%205413)
+* [Statewide Poverty Action Network](/org/statewide_poverty_action_network/) - [Bill Tracker – Statewide Poverty Action Network](https://povertyaction.org/bill-tracker/#:~:text=SB%205413)
 
 ## Meetings

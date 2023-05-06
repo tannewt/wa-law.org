@@ -7,8 +7,8 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
-## Articles
-* [Statewide Poverty Action Network](/org/statewide_poverty_action_network/) - [Bill Tracker – Statewide Poverty Action Network](https://povertyaction.org/bill-tracker/#:~:text=SB 5480)
+## 📰 Articles
+* [Statewide Poverty Action Network](/org/statewide_poverty_action_network/) - [Bill Tracker – Statewide Poverty Action Network](https://povertyaction.org/bill-tracker/#:~:text=SB%205480)
 
 ## Meetings
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SSB 5480 Work-limiting disability

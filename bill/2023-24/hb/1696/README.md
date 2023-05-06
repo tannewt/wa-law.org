@@ -6,9 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=HB 1696)
-* [MyNorthwest](/org/mynorthwest/) - [Redmond police chief calls for stronger stalking laws - MyNorthwest.com](https://mynorthwest.com/3859273/redmond-police-chief-stronger-stalking-laws/#:~:text=House Bill 1696)
+## 📰 Articles
+* [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=HB%201696)
+* [MyNorthwest](/org/mynorthwest/) - [Redmond police chief calls for stronger stalking laws - MyNorthwest.com](https://mynorthwest.com/3859273/redmond-police-chief-stronger-stalking-laws/#:~:text=House%20Bill%201696)
 
 ## Meetings
 ### Tue 03/14 10:30 AM - Law & Justice (LAW): HB 1696 Stalking-related offenses

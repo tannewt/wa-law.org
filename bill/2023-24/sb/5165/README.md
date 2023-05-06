@@ -9,11 +9,11 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
-## Articles
-* [The Seattle Times](/org/the_seattle_times/) - [Lawmakers vote to bar utilities from cutting power in extreme heat | The Seattle Times](https://www.seattletimes.com/seattle-news/lawmakers-vote-to-bar-utilities-from-cutting-power-in-extreme-heat/#:~:text=Senate Bill 5165)
-* [Crosscut](/org/crosscut/) - [By 2050, Washington might need to buy energy from other states | Crosscut](https://crosscut.com/politics/2023/02/2050-washington-might-need-buy-energy-other-states#:~:text=Senate Bill 5165)
-* [Senate Democrats](/org/senate_democrats/) - [Nguyễn legislation helps Washington better plan for clean energy future - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/05/03/nguyen-legislation-helps-washington-better-plan-for-clean-energy-future/#:~:text=Senate Bill 5165)
-* [The Center Square](/org/the_center_square/) - [Gov. Inslee signs a slew of climate bills into law from Eastern Washington | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0027a7a6-e9ed-11ed-b77a-7f7862703a86.html#:~:text=Senate Bill 5165)
+## 📰 Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Lawmakers vote to bar utilities from cutting power in extreme heat | The Seattle Times](https://www.seattletimes.com/seattle-news/lawmakers-vote-to-bar-utilities-from-cutting-power-in-extreme-heat/#:~:text=Senate%20Bill%205165)
+* [Crosscut](/org/crosscut/) - [By 2050, Washington might need to buy energy from other states | Crosscut](https://crosscut.com/politics/2023/02/2050-washington-might-need-buy-energy-other-states#:~:text=Senate%20Bill%205165)
+* [Senate Democrats](/org/senate_democrats/) - [Nguyễn legislation helps Washington better plan for clean energy future - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/05/03/nguyen-legislation-helps-washington-better-plan-for-clean-energy-future/#:~:text=Senate%20Bill%205165)
+* [The Center Square](/org/the_center_square/) - [Gov. Inslee signs a slew of climate bills into law from Eastern Washington | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0027a7a6-e9ed-11ed-b77a-7f7862703a86.html#:~:text=Senate%20Bill%205165)
 
 ## Meetings
 ### Mon 03/13 01:30 PM - Environment & Energy (ENVI): SSB 5165 Electric transm. planning

@@ -7,13 +7,13 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
-## Articles
-* [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=SB 5339)
+## 📰 Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=SB%205339)
 * [The Washington Bus](/org/the_washington_bus/) - [Announcing our 2023 Legislative Priorities! – The Washington Bus](http://www.washingtonbus.org/2023/01/23/announcing-our-2023-legislative-priorities/#:~:text=5339)
 * [The Washington Bus](/org/the_washington_bus/) - [Uncategorized Archives – The Washington Bus](http://www.washingtonbus.org/category/uncategorized/#:~:text=5339)
-* [House Democrats](/org/house_democrats/) - [Riccelli, Nobles Introduce Free School Meals Bill – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/11/riccelli-nobles-introduce-free-school-meals-bill/#:~:text=SB 5339)
-* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SSB 5339)
-* [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB 5339)
+* [House Democrats](/org/house_democrats/) - [Riccelli, Nobles Introduce Free School Meals Bill – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/11/riccelli-nobles-introduce-free-school-meals-bill/#:~:text=SB%205339)
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SSB%205339)
+* [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB%205339)
 
 ## Meetings
 ### Mon 01/23 01:30 PM - Early Learning & K-12 Education (EDU): SB 5339 Free school meals

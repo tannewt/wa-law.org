@@ -10,9 +10,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
-## Articles
-* [House Republicans](/org/house_republicans/) - [An update on the 2023 legislative session | Washington State House Republicans](https://houserepublicans.wa.gov/current/an-update-on-the-2023-legislative-session/#:~:text=Senate Bill 5217)
-* [House Republicans](/org/house_republicans/) - [State budgets and bad Senate bills | Washington State House Republicans](https://houserepublicans.wa.gov/current/state-budgets-and-bad-senate-bills/#:~:text=Senate Bill 5217)
+## 📰 Articles
+* [House Republicans](/org/house_republicans/) - [An update on the 2023 legislative session | Washington State House Republicans](https://houserepublicans.wa.gov/current/an-update-on-the-2023-legislative-session/#:~:text=Senate%20Bill%205217)
+* [House Republicans](/org/house_republicans/) - [State budgets and bad Senate bills | Washington State House Republicans](https://houserepublicans.wa.gov/current/state-budgets-and-bad-senate-bills/#:~:text=Senate%20Bill%205217)
 
 ## Meetings
 ### Thu 03/30 01:30 PM - Appropriations (APP): ESSB 5217 Musculoskeletal injuries/L&I

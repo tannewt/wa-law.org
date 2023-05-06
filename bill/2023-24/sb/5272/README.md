@@ -10,16 +10,16 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
-## Articles
-* [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate Bill 5272)
-* [The Seattle Times](/org/the_seattle_times/) - [Speed cameras will soon be allowed in WA highway work zones | The Seattle Times](https://www.seattletimes.com/seattle-news/transportation/speed-cameras-will-soon-be-allowed-in-wa-highway-work-zones/#:~:text=Senate Bill 5272)
-* [Crosscut](/org/crosscut/) - [A WA bill would lower the legal driving limit to .05% BAC | Crosscut](https://crosscut.com/politics/2023/02/wa-bill-would-lower-legal-driving-limit-05-bac#:~:text=Senate Bill 5272)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 11 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/19/the-house-hot-sheet-for-week-11-of-the-2023-legislative-session/#:~:text=ESSB 5272)
-* [House Democrats](/org/house_democrats/) - [House Democrats release state transportation budget / Demócratas de la Cámara de Representantes publican su presupuesto estatal de transporte – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/27/house-democrats-release-state-transportation-budget/#:~:text=SB 5272)
-* [House Democrats](/org/house_democrats/) - [The Hot Sheet – Washington State House Democrats](https://housedemocrats.wa.gov/media/the-hot-sheet/#:~:text=ESSB 5272)
-* [KING5](/org/king5/) - [Speed cameras coming soon to Washington state highways | king5.com](https://www.king5.com/article/news/local/speed-cameras-washington-state-highways/281-968fb1ea-1940-4595-8d34-cc2986ecd626#:~:text=Senate Bill 5272)
-* [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate Bill 5272)
-* [The Spokesman-Review](/org/the_spokesman-review/) - [Washington may add automated cameras on highways to catch speeders in construction zones | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/01/washington-may-add-automated-cameras-on-highways-t/#:~:text=Senate Bill 5272)
+## 📰 Articles
+* [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205272)
+* [The Seattle Times](/org/the_seattle_times/) - [Speed cameras will soon be allowed in WA highway work zones | The Seattle Times](https://www.seattletimes.com/seattle-news/transportation/speed-cameras-will-soon-be-allowed-in-wa-highway-work-zones/#:~:text=Senate%20Bill%205272)
+* [Crosscut](/org/crosscut/) - [A WA bill would lower the legal driving limit to .05% BAC | Crosscut](https://crosscut.com/politics/2023/02/wa-bill-would-lower-legal-driving-limit-05-bac#:~:text=Senate%20Bill%205272)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 11 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/19/the-house-hot-sheet-for-week-11-of-the-2023-legislative-session/#:~:text=ESSB%205272)
+* [House Democrats](/org/house_democrats/) - [House Democrats release state transportation budget / Demócratas de la Cámara de Representantes publican su presupuesto estatal de transporte – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/27/house-democrats-release-state-transportation-budget/#:~:text=SB%205272)
+* [House Democrats](/org/house_democrats/) - [The Hot Sheet – Washington State House Democrats](https://housedemocrats.wa.gov/media/the-hot-sheet/#:~:text=ESSB%205272)
+* [KING5](/org/king5/) - [Speed cameras coming soon to Washington state highways | king5.com](https://www.king5.com/article/news/local/speed-cameras-washington-state-highways/281-968fb1ea-1940-4595-8d34-cc2986ecd626#:~:text=Senate%20Bill%205272)
+* [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205272)
+* [The Spokesman-Review](/org/the_spokesman-review/) - [Washington may add automated cameras on highways to catch speeders in construction zones | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/01/washington-may-add-automated-cameras-on-highways-t/#:~:text=Senate%20Bill%205272)
 
 ## Meetings
 ### Wed 03/15 04:00 PM - Transportation (TR): ESSB 5272 Speed safety cameras

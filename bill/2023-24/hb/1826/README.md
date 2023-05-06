@@ -6,7 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [MyNorthwest](/org/mynorthwest/) - [Removing political parties from ballots gains momentum in Legislature - MyNorthwest.com](https://mynorthwest.com/3839736/removing-political-parties-ballots-momentum-legislature/#:~:text=House Bill 1826)
+## 📰 Articles
+* [MyNorthwest](/org/mynorthwest/) - [Removing political parties from ballots gains momentum in Legislature - MyNorthwest.com](https://mynorthwest.com/3839736/removing-political-parties-ballots-momentum-legislature/#:~:text=House%20Bill%201826)
 
 ## Meetings

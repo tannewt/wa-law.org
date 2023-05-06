@@ -7,8 +7,8 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
-## Articles
-* [House Democrats](/org/house_democrats/) - [Lekanoff hosts lawmakers and tribal leaders to view film on salmon recovery – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/04/lekanoff-hosts-lawmakers-and-tribal-leaders-to-view-film-on-salmon-recovery/#:~:text=HB 1686)
+## 📰 Articles
+* [House Democrats](/org/house_democrats/) - [Lekanoff hosts lawmakers and tribal leaders to view film on salmon recovery – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/04/lekanoff-hosts-lawmakers-and-tribal-leaders-to-view-film-on-salmon-recovery/#:~:text=HB%201686)
 
 ## Meetings
 ### Tue 02/21 01:30 PM - Appropriations (APP): HB 1686 Salmon recovery

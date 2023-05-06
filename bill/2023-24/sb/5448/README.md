@@ -8,8 +8,8 @@
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
 
-## Articles
-* [MyNorthwest](/org/mynorthwest/) - [WA keeps the party going as 'to-go cocktails' become law - MyNorthwest.com](https://mynorthwest.com/3879612/wa-to-go-cocktails-law/#:~:text=Senate Bill 5448)
+## 📰 Articles
+* [MyNorthwest](/org/mynorthwest/) - [WA keeps the party going as 'to-go cocktails' become law - MyNorthwest.com](https://mynorthwest.com/3879612/wa-to-go-cocktails-law/#:~:text=Senate%20Bill%205448)
 
 ## Meetings
 ### Tue 03/21 04:00 PM - Regulated Substances & Gaming (RSG): SSB 5448 Delivery of alcohol

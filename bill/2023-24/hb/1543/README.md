@@ -6,8 +6,8 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [Gorge News Center](/org/gorge_news_center/) - [House unanimously approves Dye’s bill to establish a wild horse inmate program in Connell](https://gorgenewscenter.com/2023/02/28/house-unanimously-approves-dyes-bill-to-establish-a-wild-horse-inmate-program-in-connell/#:~:text=House Bill 1543)
+## 📰 Articles
+* [Gorge News Center](/org/gorge_news_center/) - [House unanimously approves Dye’s bill to establish a wild horse inmate program in Connell](https://gorgenewscenter.com/2023/02/28/house-unanimously-approves-dyes-bill-to-establish-a-wild-horse-inmate-program-in-connell/#:~:text=House%20Bill%201543)
 
 ## Meetings
 ### Mon 03/13 10:30 AM - Human Services (HS): HB 1543 Horse program/Coyote Ridge

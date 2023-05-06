@@ -8,8 +8,8 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
-## Articles
-* [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/research/2023-legislative-agenda/#:~:text=SB 5393)
+## 📰 Articles
+* [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/research/2023-legislative-agenda/#:~:text=SB%205393)
 
 ## Meetings
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SSB 5393 Health provider contracting

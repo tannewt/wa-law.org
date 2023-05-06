@@ -10,8 +10,8 @@
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
 
-## Articles
-* [KUOW](/org/kuow/) - [KUOW - 'Social equity' cannabis licenses aim to repair drug law harms to BIPOC communities](https://www.kuow.org/stories/social-equity-cannabis-licenses-aim-to-repair-drug-law-harms-to-bipoc-communities#:~:text=SB 5367)
+## 📰 Articles
+* [KUOW](/org/kuow/) - [KUOW - 'Social equity' cannabis licenses aim to repair drug law harms to BIPOC communities](https://www.kuow.org/stories/social-equity-cannabis-licenses-aim-to-repair-drug-law-harms-to-bipoc-communities#:~:text=SB%205367)
 
 ## Meetings
 ### Fri 03/31 01:30 PM - Appropriations (APP): E2SSB 5367 Products containing THC

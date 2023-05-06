@@ -6,8 +6,8 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [House Democrats](/org/house_democrats/) - [Fosse Bill Removing Antiquated & Racist Terminology in Unemployment Law Heads to Governor – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/24/fosse-bill-removing-antiquated-racist-terminology-in-unemployment-law-heads-to-governor/#:~:text=House Bill 1107)
+## 📰 Articles
+* [House Democrats](/org/house_democrats/) - [Fosse Bill Removing Antiquated & Racist Terminology in Unemployment Law Heads to Governor – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/24/fosse-bill-removing-antiquated-racist-terminology-in-unemployment-law-heads-to-governor/#:~:text=House%20Bill%201107)
 
 ## Meetings
 ### Thu 03/09 09:00 AM - Labor & Commerce (LC): HB 1107 "Master" and "servant" terms

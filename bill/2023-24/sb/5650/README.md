@@ -6,8 +6,8 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [KIRO7](/org/kiro7/) - [A fight looms for teacher salaries, even as WA approves pay hike – KIRO 7 News Seattle](https://www.kiro7.com/news/local/fight-looms-teacher-salaries-even-wa-approves-pay-hike/65ZWY72RHVE4VEHR4V664VJKOY/#:~:text=Senate Bill 5650)
+## 📰 Articles
+* [KIRO7](/org/kiro7/) - [A fight looms for teacher salaries, even as WA approves pay hike – KIRO 7 News Seattle](https://www.kiro7.com/news/local/fight-looms-teacher-salaries-even-wa-approves-pay-hike/65ZWY72RHVE4VEHR4V664VJKOY/#:~:text=Senate%20Bill%205650)
 
 ## Meetings
 ### Thu 03/16 04:00 PM - Appropriations (APP): ESB 5650 K-12 inflationary increases

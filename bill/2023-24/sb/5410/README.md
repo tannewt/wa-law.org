@@ -6,7 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [Department of Natural Resources](/org/department_of_natural_resources/) - [Legislative Priorities | WA - DNR](https://www.dnr.wa.gov/about/legislative#:~:text=SB 5410)
+## 📰 Articles
+* [Department of Natural Resources](/org/department_of_natural_resources/) - [Legislative Priorities | WA - DNR](https://www.dnr.wa.gov/about/legislative#:~:text=SB%205410)
 
 ## Meetings

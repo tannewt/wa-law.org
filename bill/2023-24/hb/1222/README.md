@@ -9,8 +9,8 @@
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
 
-## Articles
-* [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Orwall’s insurance coverage for hearing aids passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/28/legislative-news-orwalls-insurance-coverage-for-hearing-aids-passes-house/#:~:text=House Bill 1222)
+## 📰 Articles
+* [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Orwall’s insurance coverage for hearing aids passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/28/legislative-news-orwalls-insurance-coverage-for-hearing-aids-passes-house/#:~:text=House%20Bill%201222)
 
 ## Meetings
 ### Tue 03/14 08:00 AM - Health & Long Term Care (HLTC): ESHB 1222 Hearing instruments coverage

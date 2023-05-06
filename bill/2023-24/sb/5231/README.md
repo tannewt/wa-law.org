@@ -9,8 +9,8 @@
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
 
-## Articles
-* [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=SB 5231)
+## 📰 Articles
+* [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=SB%205231)
 
 ## Meetings
 ### Wed 03/22 08:00 AM - Civil Rights & Judiciary (CRJ): ESSB 5231 Emergency DV orders

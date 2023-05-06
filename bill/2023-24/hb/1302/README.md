@@ -7,8 +7,8 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
-## Articles
-* [House Democrats](/org/house_democrats/) - [Timmons Passes First Bill to Protect Consumers by Streamlining Auto Trade-In Process – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/02/timmons-passes-first-bill-to-protect-consumers-by-streamlining-auto-trade-in-process/#:~:text=House Bill 1302)
+## 📰 Articles
+* [House Democrats](/org/house_democrats/) - [Timmons Passes First Bill to Protect Consumers by Streamlining Auto Trade-In Process – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/02/timmons-passes-first-bill-to-protect-consumers-by-streamlining-auto-trade-in-process/#:~:text=House%20Bill%201302)
 
 ## Meetings
 ### Thu 03/23 04:00 PM - Transportation (TRAN): SHB 1302 Vehicle report of sale

@@ -10,10 +10,10 @@
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
 
-## Articles
-* [The Seattle Times](/org/the_seattle_times/) - [Free Press roundup: WA legislative progress, Google bullies Canada | The Seattle Times](https://www.seattletimes.com/opinion/free-press-roundup-wa-legislative-progress-google-bullies-canada/#:~:text=Bill 5199)
-* [The Seattle Times](/org/the_seattle_times/) - [A smart way for legislators to help save local news | The Seattle Times](https://www.seattletimes.com/opinion/editorials/a-smart-way-for-legislators-to-help-save-local-news/#:~:text=Senate Bill 5199)
-* [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=Senate Bill 5199)
+## 📰 Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Free Press roundup: WA legislative progress, Google bullies Canada | The Seattle Times](https://www.seattletimes.com/opinion/free-press-roundup-wa-legislative-progress-google-bullies-canada/#:~:text=Bill%205199)
+* [The Seattle Times](/org/the_seattle_times/) - [A smart way for legislators to help save local news | The Seattle Times](https://www.seattletimes.com/opinion/editorials/a-smart-way-for-legislators-to-help-save-local-news/#:~:text=Senate%20Bill%205199)
+* [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=Senate%20Bill%205199)
 
 ## Meetings
 ### Fri 04/14 08:00 AM - Finance (FIN): E2SSB 5199 Newspaper publishers/tax

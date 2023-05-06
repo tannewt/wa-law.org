@@ -6,8 +6,8 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [House Democrats](/org/house_democrats/) - [Berry, Keiser bills would protect employers who provide reproductive care benefits – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/11/berry-keiser-bills-would-protect-employers-who-provide-reproductive-care-benefits/#:~:text=SB 5260)
+## 📰 Articles
+* [House Democrats](/org/house_democrats/) - [Berry, Keiser bills would protect employers who provide reproductive care benefits – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/11/berry-keiser-bills-would-protect-employers-who-provide-reproductive-care-benefits/#:~:text=SB%205260)
 
 ## Meetings
 ### Tue 01/24 10:30 AM - Labor & Commerce (LC): SB 5260 Reprod. health/employers

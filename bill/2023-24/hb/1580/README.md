@@ -9,9 +9,9 @@
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
 
-## Articles
-* [The Seattle Times](/org/the_seattle_times/) - [Lawmakers pass bill to change how WA cares for youth stuck in hospitals | The Seattle Times](https://www.seattletimes.com/seattle-news/mental-health/lawmakers-pass-bill-to-change-how-wa-cares-for-youth-stuck-in-hospitals/#:~:text=House Bill 1580)
-* [House Democrats](/org/house_democrats/) - [House Unanimously Passes Callan Bill to Support Youth ‘Stuck’ in Hospitals – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/03/house-passes-callan-bill-to-support-youth-stuck-in-hospitals/#:~:text=House Bill 1580)
+## 📰 Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Lawmakers pass bill to change how WA cares for youth stuck in hospitals | The Seattle Times](https://www.seattletimes.com/seattle-news/mental-health/lawmakers-pass-bill-to-change-how-wa-cares-for-youth-stuck-in-hospitals/#:~:text=House%20Bill%201580)
+* [House Democrats](/org/house_democrats/) - [House Unanimously Passes Callan Bill to Support Youth ‘Stuck’ in Hospitals – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/03/house-passes-callan-bill-to-support-youth-stuck-in-hospitals/#:~:text=House%20Bill%201580)
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): 2SHB 1580 Children in crisis

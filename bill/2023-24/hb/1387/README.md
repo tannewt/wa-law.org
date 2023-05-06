@@ -8,8 +8,8 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
-## Articles
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/13/the-house-hot-sheet-for-week-6-of-the-2023-legislative-session/#:~:text=HB 1387)
+## 📰 Articles
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/13/the-house-hot-sheet-for-week-6-of-the-2023-legislative-session/#:~:text=HB%201387)
 
 ## Meetings
 ### Mon 02/13 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1387 Law enf. applicant pool

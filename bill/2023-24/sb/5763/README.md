@@ -6,8 +6,8 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [Senate Democrats](/org/senate_democrats/) - [Senate passes transportation budget focused on safety, workforce, green investments - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/04/05/senate-passes-transportation-budget-focused-on-safety-workforce-green-investments/#:~:text=SB 5763)
+## 📰 Articles
+* [Senate Democrats](/org/senate_democrats/) - [Senate passes transportation budget focused on safety, workforce, green investments - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/04/05/senate-passes-transportation-budget-focused-on-safety-workforce-green-investments/#:~:text=SB%205763)
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Transportation (TRAN): SB 5763 Connecting WA bonds

@@ -9,10 +9,10 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 
-## Articles
-* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House Bill 1189)
-* [MyNorthwest](/org/mynorthwest/) - [Rantz: WA Democrats ban 'hyper-masculine' guns while freeing criminals - MyNorthwest.com](https://mynorthwest.com/3872332/rantz-washington-democrats-ban-guns-violent-criminals-out-of-jail-assault-weapons/#:~:text=HB 1189)
-* [MyNorthwest](/org/mynorthwest/) - [Rantz: Bill by WA Democrats releases scores of murderers from jail early - MyNorthwest.com](https://mynorthwest.com/3861743/rantz-bill-washington-democrat-bill-release-murderers-jail-early/#:~:text=HB 1189)
+## 📰 Articles
+* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201189)
+* [MyNorthwest](/org/mynorthwest/) - [Rantz: WA Democrats ban 'hyper-masculine' guns while freeing criminals - MyNorthwest.com](https://mynorthwest.com/3872332/rantz-washington-democrats-ban-guns-violent-criminals-out-of-jail-assault-weapons/#:~:text=HB%201189)
+* [MyNorthwest](/org/mynorthwest/) - [Rantz: Bill by WA Democrats releases scores of murderers from jail early - MyNorthwest.com](https://mynorthwest.com/3861743/rantz-bill-washington-democrat-bill-release-murderers-jail-early/#:~:text=HB%201189)
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): E2SHB 1189 Total confinement release

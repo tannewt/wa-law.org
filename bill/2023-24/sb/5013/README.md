@@ -6,8 +6,8 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Other Topics](https://crosscut.com/voter-guide/2023-legislative-tracker/election/other-topics#:~:text=Senate Bill 5013)
+## 📰 Articles
+* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Other Topics](https://crosscut.com/voter-guide/2023-legislative-tracker/election/other-topics#:~:text=Senate%20Bill%205013)
 
 ## Meetings
 ### Thu 01/19 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5013 Wine/alcohol tax exemption

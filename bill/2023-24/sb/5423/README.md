@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
-## Articles
+## 📰 Articles
 * [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/research/2023-legislative-agenda/#:~:text=5423)
 
 ## Meetings

@@ -11,8 +11,8 @@
 * [Passed Legislature](S2.PL/)
 * [Session Law](S2.SL/)
 
-## Articles
-* [Wenatchee World](/org/wenatchee_world/) - [Proposed Regional Sports Complex gains momentum | News | wenatcheeworld.com](https://www.wenatcheeworld.com/news/proposed-regional-sports-complex-gains-momentum/article_7797d4d2-dae3-11ed-b281-a75fc3a588b7.html#:~:text=SB 5001)
+## 📰 Articles
+* [Wenatchee World](/org/wenatchee_world/) - [Proposed Regional Sports Complex gains momentum | News | wenatcheeworld.com](https://www.wenatcheeworld.com/news/proposed-regional-sports-complex-gains-momentum/article_7797d4d2-dae3-11ed-b281-a75fc3a588b7.html#:~:text=SB%205001)
 
 ## Meetings
 ### Tue 03/28 08:00 AM - Finance (FIN): E2SSB 5001 Public facility districts

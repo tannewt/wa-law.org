@@ -6,10 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [The Seattle Times](/org/the_seattle_times/) - [Why PNW officials are only now deciding crypto mining regulation | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/why-pnw-officials-are-only-now-deciding-crypto-mining-regulation/#:~:text=House Bill 1416)
-* [Crosscut](/org/crosscut/) - [Washington and Oregon may regulate the wild West of crypto mining | Crosscut](https://crosscut.com/politics/2023/01/washington-and-oregon-may-regulate-wild-west-crypto-mining#:~:text=House Bill 1416)
-* [The Center Square](/org/the_center_square/) - [Gov. Inslee signs a slew of climate bills into law from Eastern Washington | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0027a7a6-e9ed-11ed-b77a-7f7862703a86.html#:~:text=House Bill 1416)
+## 📰 Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Why PNW officials are only now deciding crypto mining regulation | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/why-pnw-officials-are-only-now-deciding-crypto-mining-regulation/#:~:text=House%20Bill%201416)
+* [Crosscut](/org/crosscut/) - [Washington and Oregon may regulate the wild West of crypto mining | Crosscut](https://crosscut.com/politics/2023/01/washington-and-oregon-may-regulate-wild-west-crypto-mining#:~:text=House%20Bill%201416)
+* [The Center Square](/org/the_center_square/) - [Gov. Inslee signs a slew of climate bills into law from Eastern Washington | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0027a7a6-e9ed-11ed-b77a-7f7862703a86.html#:~:text=House%20Bill%201416)
 
 ## Meetings
 ### Fri 03/17 08:00 AM - Environment, Energy & Technology (ENET): HB 1416 Consumer-owned utilities

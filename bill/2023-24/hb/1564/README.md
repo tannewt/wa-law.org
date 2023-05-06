@@ -6,17 +6,17 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
+## 📰 Articles
 * [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1564)
-* [The Seattle Times](/org/the_seattle_times/) - [WA Legislature considers ban on at-home sexual assault evidence kits | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-legislature-considers-ban-on-at-home-sexual-assault-evidence-kits/#:~:text=House Bill 1564)
-* [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=HB 1564)
-* [Crosscut](/org/crosscut/) - [Washington state considers banning over-the-counter rape kits | Crosscut](https://crosscut.com/politics/2023/03/washington-state-considers-banning-over-counter-rape-kits#:~:text=House Bill 1564)
-* [Crosscut](/org/crosscut/) - [The bills that survived Washington's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/04/bills-survived-washingtons-2023-legislative-session#:~:text=HB 1564)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Healthcare](https://crosscut.com/voter-guide/2023-legislative-tracker/election/healthcare#:~:text=House Bill 1564)
-* [Gorge News Center](/org/gorge_news_center/) - [Mosbrucker bill would ban do-it-yourself rape kits](https://gorgenewscenter.com/2023/02/02/mosbrucker-bill-would-ban-do-it-yourself-rape-kits/#:~:text=House Bill 1564)
-* [Gorge News Center](/org/gorge_news_center/) - [Six Mosbrucker bills pass House, sent to Senate](https://gorgenewscenter.com/2023/03/14/six-mosbrucker-bills-pass-house-sent-to-senate/#:~:text=House Bill 1564 – Would ban over-the-counter sexual assault kits:)
-* [Gorge News Center](/org/gorge_news_center/) - [Six Mosbrucker bills remain alive, advance in Senate after major legislative policy deadline](https://gorgenewscenter.com/2023/03/30/six-mosbrucker-bills-remain-alive-advance-in-senate-after-major-legislative-policy-deadline/#:~:text=House Bill 1564 – Would ban over-the-counter sexual assault kits:)
-* [Gorge News Center](/org/gorge_news_center/) - [Six legislative-approved Mosbrucker bills heading to the governor](https://gorgenewscenter.com/2023/04/17/six-legislative-approved-mosbrucker-bills-heading-to-the-governor/#:~:text=House Bill 1564 – Over the-counter sexual assault kits:)
+* [The Seattle Times](/org/the_seattle_times/) - [WA Legislature considers ban on at-home sexual assault evidence kits | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-legislature-considers-ban-on-at-home-sexual-assault-evidence-kits/#:~:text=House%20Bill%201564)
+* [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=HB%201564)
+* [Crosscut](/org/crosscut/) - [Washington state considers banning over-the-counter rape kits | Crosscut](https://crosscut.com/politics/2023/03/washington-state-considers-banning-over-counter-rape-kits#:~:text=House%20Bill%201564)
+* [Crosscut](/org/crosscut/) - [The bills that survived Washington's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/04/bills-survived-washingtons-2023-legislative-session#:~:text=HB%201564)
+* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Healthcare](https://crosscut.com/voter-guide/2023-legislative-tracker/election/healthcare#:~:text=House%20Bill%201564)
+* [Gorge News Center](/org/gorge_news_center/) - [Mosbrucker bill would ban do-it-yourself rape kits](https://gorgenewscenter.com/2023/02/02/mosbrucker-bill-would-ban-do-it-yourself-rape-kits/#:~:text=House%20Bill%201564)
+* [Gorge News Center](/org/gorge_news_center/) - [Six Mosbrucker bills pass House, sent to Senate](https://gorgenewscenter.com/2023/03/14/six-mosbrucker-bills-pass-house-sent-to-senate/#:~:text=House%20Bill%201564%20–%20Would%20ban%20over-the-counter%20sexual%20assault%20kits:)
+* [Gorge News Center](/org/gorge_news_center/) - [Six Mosbrucker bills remain alive, advance in Senate after major legislative policy deadline](https://gorgenewscenter.com/2023/03/30/six-mosbrucker-bills-remain-alive-advance-in-senate-after-major-legislative-policy-deadline/#:~:text=House%20Bill%201564%20–%20Would%20ban%20over-the-counter%20sexual%20assault%20kits:)
+* [Gorge News Center](/org/gorge_news_center/) - [Six legislative-approved Mosbrucker bills heading to the governor](https://gorgenewscenter.com/2023/04/17/six-legislative-approved-mosbrucker-bills-heading-to-the-governor/#:~:text=House%20Bill%201564%20–%20Over%20the-counter%20sexual%20assault%20kits:)
 
 ## Meetings
 ### Wed 03/08 08:00 AM - Law & Justice (LAW): HB 1564 OTC sexual assault kits

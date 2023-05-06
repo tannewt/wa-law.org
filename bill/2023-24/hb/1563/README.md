@@ -6,8 +6,8 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [House Democrats](/org/house_democrats/) - [House Passes Kloba Bill to Provide Protections for Medical Cannabis – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/03/house-passes-kloba-bill-to-provide-protections-for-medical-cannabis/#:~:text=House Bill 1563)
+## 📰 Articles
+* [House Democrats](/org/house_democrats/) - [House Passes Kloba Bill to Provide Protections for Medical Cannabis – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/03/house-passes-kloba-bill-to-provide-protections-for-medical-cannabis/#:~:text=House%20Bill%201563)
 
 ## Meetings
 ### Mon 03/20 10:30 AM - Labor & Commerce (LC): HB 1563 Medical use of cannabis

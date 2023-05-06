@@ -6,7 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [Gorge News Center](/org/gorge_news_center/) - [Rep. Chris Corry co-sponsors parental bill of rights](https://gorgenewscenter.com/2023/01/30/rep-chris-corry-co-sponsors-parental-bill-of-rights/#:~:text=HB 1601)
+## 📰 Articles
+* [Gorge News Center](/org/gorge_news_center/) - [Rep. Chris Corry co-sponsors parental bill of rights](https://gorgenewscenter.com/2023/01/30/rep-chris-corry-co-sponsors-parental-bill-of-rights/#:~:text=HB%201601)
 
 ## Meetings

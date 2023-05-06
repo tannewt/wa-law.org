@@ -6,8 +6,8 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=Senate Bill 5265)
-* [Senate Democrats](/org/senate_democrats/) - [Assault weapon ban passes Senate, heads back to House for concurrence - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/04/08/assault-weapon-ban-passes-senate-heads-back-to-house-for-concurrence/#:~:text=SB 5265)
+## 📰 Articles
+* [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=Senate%20Bill%205265)
+* [Senate Democrats](/org/senate_democrats/) - [Assault weapon ban passes Senate, heads back to House for concurrence - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/04/08/assault-weapon-ban-passes-senate-heads-back-to-house-for-concurrence/#:~:text=SB%205265)
 
 ## Meetings

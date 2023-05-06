@@ -6,8 +6,8 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [House Democrats](/org/house_democrats/) - [Protecting Privacy and Security: Senate Passes Stearns Bill to Keep Lottery Player Information Private – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/12/protecting-privacy-and-security-senate-passes-stearns-bill-to-keep-lottery-player-information-private/#:~:text=House Bill 1221)
+## 📰 Articles
+* [House Democrats](/org/house_democrats/) - [Protecting Privacy and Security: Senate Passes Stearns Bill to Keep Lottery Player Information Private – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/12/protecting-privacy-and-security-senate-passes-stearns-bill-to-keep-lottery-player-information-private/#:~:text=House%20Bill%201221)
 
 ## Meetings
 ### Fri 03/10 08:00 AM - State Government & Elections (SGE): HB 1221 Lottery players/PRA

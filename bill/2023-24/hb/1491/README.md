@@ -9,7 +9,7 @@
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
 
-## Articles
+## 📰 Articles
 * [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1491)
 
 ## Meetings

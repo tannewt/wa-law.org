@@ -7,8 +7,8 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
-## Articles
-* [Gorge News Center](/org/gorge_news_center/) - [Mosbrucker bills successfully move past committees before legislative cutoffs; One has already reached the Senate](https://gorgenewscenter.com/2023/02/23/mosbrucker-bills-successfully-move-past-committees-before-legislative-cutoffs-one-has-already-reached-the-senate/#:~:text=House Bill 1118 – School bus safety:)
+## 📰 Articles
+* [Gorge News Center](/org/gorge_news_center/) - [Mosbrucker bills successfully move past committees before legislative cutoffs; One has already reached the Senate](https://gorgenewscenter.com/2023/02/23/mosbrucker-bills-successfully-move-past-committees-before-legislative-cutoffs-one-has-already-reached-the-senate/#:~:text=House%20Bill%201118%20–%20School%20bus%20safety:)
 
 ## Meetings
 ### Tue 01/17 04:00 PM - Education (ED): HB 1118 School bus safety

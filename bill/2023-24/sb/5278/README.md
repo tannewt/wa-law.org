@@ -10,9 +10,9 @@
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
 
-## Articles
-* [The Seattle Times](/org/the_seattle_times/) - [WA Legislature forges ahead on assault weapons ban, new drug law | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-legislature-forges-ahead-on-assault-weapons-ban-new-drug-law/#:~:text=Senate Bill 5278)
-* [The Seattle Times](/org/the_seattle_times/) - [How a WA bill could help caregiver shortage ahead of ‘silver tsunami’ | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/how-a-wa-bill-could-help-caregiver-shortage-ahead-of-silver-tsunami/#:~:text=Senate Bill 5278)
+## 📰 Articles
+* [The Seattle Times](/org/the_seattle_times/) - [WA Legislature forges ahead on assault weapons ban, new drug law | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-legislature-forges-ahead-on-assault-weapons-ban-new-drug-law/#:~:text=Senate%20Bill%205278)
+* [The Seattle Times](/org/the_seattle_times/) - [How a WA bill could help caregiver shortage ahead of ‘silver tsunami’ | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/how-a-wa-bill-could-help-caregiver-shortage-ahead-of-silver-tsunami/#:~:text=Senate%20Bill%205278)
 
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): E2SSB 5278 Home care aide certification

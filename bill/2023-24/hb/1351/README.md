@@ -7,12 +7,12 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
-## Articles
-* [Sightline Institute](/org/sightline_institute/) - [New Washington Bill Would Legalize More Homes and Businesses by Transit - Sightline Institute](https://www.sightline.org/2023/01/16/new-washington-bill-would-legalize-more-homes-and-businesses-by-transit/#:~:text=HB 1351)
-* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB 1351)
-* [PubliCola](/org/publicola/) - [Seeking Compromise, Lawmakers May Preserve Local Parking Mandates in This Year's Pro-Housing Bills - PubliCola](https://publicola.com/2023/02/10/seeking-compromise-lawmakers-may-preserve-local-parking-mandates-in-this-years-pro-housing-bills/#:~:text=House Bill 1351)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/22/the-house-hot-sheet-for-week-3-of-the-2023-legislative-session/#:~:text=HB 1351)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/05/the-house-hot-sheet-for-week-5-of-the-2023-legislative-session/#:~:text=HB 1351)
+## 📰 Articles
+* [Sightline Institute](/org/sightline_institute/) - [New Washington Bill Would Legalize More Homes and Businesses by Transit - Sightline Institute](https://www.sightline.org/2023/01/16/new-washington-bill-would-legalize-more-homes-and-businesses-by-transit/#:~:text=HB%201351)
+* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB%201351)
+* [PubliCola](/org/publicola/) - [Seeking Compromise, Lawmakers May Preserve Local Parking Mandates in This Year's Pro-Housing Bills - PubliCola](https://publicola.com/2023/02/10/seeking-compromise-lawmakers-may-preserve-local-parking-mandates-in-this-years-pro-housing-bills/#:~:text=House%20Bill%201351)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/22/the-house-hot-sheet-for-week-3-of-the-2023-legislative-session/#:~:text=HB%201351)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/05/the-house-hot-sheet-for-week-5-of-the-2023-legislative-session/#:~:text=HB%201351)
 
 ## Meetings
 ### Wed 01/25 08:00 AM - Local Government (LG): HB 1351 Minimum parking requirements

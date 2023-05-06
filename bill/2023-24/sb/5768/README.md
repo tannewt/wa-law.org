@@ -6,17 +6,17 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate Bill 5768)
-* [The Seattle Times](/org/the_seattle_times/) - [In rebuke to fall of Roe, Gov. Inslee signs WA abortion legislation | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/in-rebuke-to-fall-of-roe-gov-inslee-signs-wa-abortion-legislation/#:~:text=Senate Bill 5768)
-* [Senate Democrats](/org/senate_democrats/) - [Keiser bill to safeguard access to abortion medication passes Senate committee - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/04/12/keiser-bill-to-safeguard-access-to-abortion-medication-passes-senate-committee/#:~:text=SB 5768)
-* [NW News Network](/org/nw_news_network/) - [Washington stocks up on abortion drug as federal ruling on access looms | Northwest News Network](https://www.nwnewsnetwork.org/2023-04-04/washington-stocks-up-on-abortion-drug-as-federal-ruling-on-access-looms#:~:text=Senate Bill 5768)
-* [The Seattle Times](/org/the_seattle_times/) - [WA stockpiles abortion pills ahead of federal court ruling | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-stockpiles-abortion-pills-ahead-of-federal-court-ruling/#:~:text=Senate Bill 5768)
-* [Crosscut](/org/crosscut/) - [Gov. Inslee buys 3-year supply of abortion pills in case of ban | Crosscut](https://crosscut.com/politics/2023/04/gov-inslee-buys-3-year-supply-abortion-pills-case-ban#:~:text=Senate Bill 5768)
-* [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 14: Reproductive freedom and a major floor deadline arrives - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/04/07/this-week-in-the-senate-week-14-reproductive-freedom-and-a-major-floor-deadline-arrives/#:~:text=Senate Bill 5768)
-* [Senate Democrats](/org/senate_democrats/) - [Senate OKs Keiser bill to safeguard access to abortion medication - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/04/14/senate-oks-keiser-bill-to-safeguard-access-to-abortion-medication/#:~:text=SB 5768)
-* [KUOW](/org/kuow/) - [KUOW - WA lawmakers pass key policy deadline, head into final week of session](https://www.kuow.org/stories/wa-lawmakers-pass-key-policy-deadline-head-into-final-week-of-session#:~:text=Senate Bill 5768)
-* [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate Bill 5768)
+## 📰 Articles
+* [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205768)
+* [The Seattle Times](/org/the_seattle_times/) - [In rebuke to fall of Roe, Gov. Inslee signs WA abortion legislation | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/in-rebuke-to-fall-of-roe-gov-inslee-signs-wa-abortion-legislation/#:~:text=Senate%20Bill%205768)
+* [Senate Democrats](/org/senate_democrats/) - [Keiser bill to safeguard access to abortion medication passes Senate committee - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/04/12/keiser-bill-to-safeguard-access-to-abortion-medication-passes-senate-committee/#:~:text=SB%205768)
+* [NW News Network](/org/nw_news_network/) - [Washington stocks up on abortion drug as federal ruling on access looms | Northwest News Network](https://www.nwnewsnetwork.org/2023-04-04/washington-stocks-up-on-abortion-drug-as-federal-ruling-on-access-looms#:~:text=Senate%20Bill%205768)
+* [The Seattle Times](/org/the_seattle_times/) - [WA stockpiles abortion pills ahead of federal court ruling | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-stockpiles-abortion-pills-ahead-of-federal-court-ruling/#:~:text=Senate%20Bill%205768)
+* [Crosscut](/org/crosscut/) - [Gov. Inslee buys 3-year supply of abortion pills in case of ban | Crosscut](https://crosscut.com/politics/2023/04/gov-inslee-buys-3-year-supply-abortion-pills-case-ban#:~:text=Senate%20Bill%205768)
+* [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 14: Reproductive freedom and a major floor deadline arrives - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/04/07/this-week-in-the-senate-week-14-reproductive-freedom-and-a-major-floor-deadline-arrives/#:~:text=Senate%20Bill%205768)
+* [Senate Democrats](/org/senate_democrats/) - [Senate OKs Keiser bill to safeguard access to abortion medication - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/04/14/senate-oks-keiser-bill-to-safeguard-access-to-abortion-medication/#:~:text=SB%205768)
+* [KUOW](/org/kuow/) - [KUOW - WA lawmakers pass key policy deadline, head into final week of session](https://www.kuow.org/stories/wa-lawmakers-pass-key-policy-deadline-head-into-final-week-of-session#:~:text=Senate%20Bill%205768)
+* [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205768)
 
 ## Meetings
 ### Tue 04/18 12:30 PM - Appropriations (APP): SB 5768 DOC/abortion medications

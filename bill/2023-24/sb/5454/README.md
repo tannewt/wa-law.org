@@ -9,8 +9,8 @@
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
 
-## Articles
-* [The Seattle Times](/org/the_seattle_times/) - [New bill would help Washington nurses get treatment for PTSD | The Seattle Times](https://www.seattletimes.com/seattle-news/mental-health/new-proposal-would-help-washington-nurses-get-treatment-for-ptsd/#:~:text=Senate Bill 5454)
+## 📰 Articles
+* [The Seattle Times](/org/the_seattle_times/) - [New bill would help Washington nurses get treatment for PTSD | The Seattle Times](https://www.seattletimes.com/seattle-news/mental-health/new-proposal-would-help-washington-nurses-get-treatment-for-ptsd/#:~:text=Senate%20Bill%205454)
 
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): 2SSB 5454 RN PTSD/industrial insurance

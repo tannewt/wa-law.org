@@ -9,11 +9,11 @@
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
 
-## Articles
-* [The Seattle Times](/org/the_seattle_times/) - [Child care fall through? You might be able to get unemployment in WA | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/child-care-fall-through-you-might-be-able-to-get-unemployment-in-wa/#:~:text=House Bill 1106)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/15/the-house-hot-sheet-for-week-2-of-the-2023-legislative-session/#:~:text=HB 1106)
-* [House Democrats](/org/house_democrats/) - [Senate Committee Passes Fosse Bill Expanding Unemployment Benefits – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/28/senate-committee-passes-fosse-bill-expanding-unemployment-benefits/#:~:text=House Bill 1106)
-* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [2023 Session Wrap Up - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04272023#:~:text=HB 1106)
+## 📰 Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Child care fall through? You might be able to get unemployment in WA | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/child-care-fall-through-you-might-be-able-to-get-unemployment-in-wa/#:~:text=House%20Bill%201106)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/15/the-house-hot-sheet-for-week-2-of-the-2023-legislative-session/#:~:text=HB%201106)
+* [House Democrats](/org/house_democrats/) - [Senate Committee Passes Fosse Bill Expanding Unemployment Benefits – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/28/senate-committee-passes-fosse-bill-expanding-unemployment-benefits/#:~:text=House%20Bill%201106)
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [2023 Session Wrap Up - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04272023#:~:text=HB%201106)
 
 ## Meetings
 ### Thu 03/16 08:00 AM - Labor & Commerce (LC): ESHB 1106 Unemployment/voluntary

@@ -7,8 +7,8 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
-## Articles
-* [Gorge News Center](/org/gorge_news_center/) - [Harris bill that would give educators with reprimands another chance receives a hearing](https://gorgenewscenter.com/2023/01/18/harris-bill-that-would-give-educators-with-reprimands-another-chance-receives-a-hearing/#:~:text=House Bill 1113)
+## 📰 Articles
+* [Gorge News Center](/org/gorge_news_center/) - [Harris bill that would give educators with reprimands another chance receives a hearing](https://gorgenewscenter.com/2023/01/18/harris-bill-that-would-give-educators-with-reprimands-another-chance-receives-a-hearing/#:~:text=House%20Bill%201113)
 
 ## Meetings
 ### Thu 03/09 01:30 PM - Early Learning & K-12 Education (EDU): SHB 1113 Prof. educator reprimands

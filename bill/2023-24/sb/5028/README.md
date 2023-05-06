@@ -9,12 +9,12 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
-## Articles
-* [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=Senate Bill 5028)
-* [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=SB 5028)
-* [Crosscut](/org/crosscut/) - [This WA bill could make it easier and safer to change your name | Crosscut](https://crosscut.com/politics/2023/03/wa-bill-could-make-it-easier-and-safer-change-your-name#:~:text=Senate Bill 5028)
-* [Crosscut](/org/crosscut/) - [A WA bill protecting name change privacy was just signed into law | Crosscut](https://crosscut.com/politics/2023/04/wa-bill-protecting-name-change-privacy-was-just-signed-law#:~:text=SB 5028)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Other Topics](https://crosscut.com/voter-guide/2023-legislative-tracker/election/other-topics#:~:text=Senate Bill 5028)
+## 📰 Articles
+* [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=Senate%20Bill%205028)
+* [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=SB%205028)
+* [Crosscut](/org/crosscut/) - [This WA bill could make it easier and safer to change your name | Crosscut](https://crosscut.com/politics/2023/03/wa-bill-could-make-it-easier-and-safer-change-your-name#:~:text=Senate%20Bill%205028)
+* [Crosscut](/org/crosscut/) - [A WA bill protecting name change privacy was just signed into law | Crosscut](https://crosscut.com/politics/2023/04/wa-bill-protecting-name-change-privacy-was-just-signed-law#:~:text=SB%205028)
+* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Other Topics](https://crosscut.com/voter-guide/2023-legislative-tracker/election/other-topics#:~:text=Senate%20Bill%205028)
 
 ## Meetings
 ### Wed 03/15 08:00 AM - Civil Rights & Judiciary (CRJ): SSB 5028 Name changes

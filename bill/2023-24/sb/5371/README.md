@@ -9,14 +9,14 @@
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
 
-## Articles
-* [The Seattle Times](/org/the_seattle_times/) - [Lawmakers vote to keep boaters 1,000 yards from southern resident orcas in WA | The Seattle Times](https://www.seattletimes.com/seattle-news/lawmakers-vote-to-keep-boaters-1000-yards-from-southern-resident-orcas-in-wa/#:~:text=Senate Bill 5371)
-* [Senate Democrats](/org/senate_democrats/) - [House Passes Bill to Protect Endangered Orcas - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/04/12/2845/#:~:text=Senate Bill 5371)
-* [Crosscut](/org/crosscut/) - [To protect orcas, boats in Puget Sound must stay 1,000 yards away | Crosscut](https://crosscut.com/environment/2023/04/protect-orcas-boats-puget-sound-must-stay-1000-yards-away#:~:text=Senate Bill 5371)
-* [Crosscut](/org/crosscut/) - [The bills that survived Washington's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/04/bills-survived-washingtons-2023-legislative-session#:~:text=Senate Bill 5371)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Other Topics](https://crosscut.com/voter-guide/2023-legislative-tracker/election/other-topics#:~:text=Senate Bill 5371)
-* [House Democrats](/org/house_democrats/) - [House Passes Bill to Protect Endangered Orcas – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/12/house-passes-bill-to-protect-endangered-orcas/#:~:text=Senate Bill 5371)
-* [KING5](/org/king5/) - [Southern Resident orca protection bill passes House | king5.com](https://www.king5.com/article/life/animals/southern-resident-orca-bill-passes-house/281-5eda670b-e100-43c9-9f4e-b7fc5393257e#:~:text=Senate Bill 5371)
+## 📰 Articles
+* [The Seattle Times](/org/the_seattle_times/) - [Lawmakers vote to keep boaters 1,000 yards from southern resident orcas in WA | The Seattle Times](https://www.seattletimes.com/seattle-news/lawmakers-vote-to-keep-boaters-1000-yards-from-southern-resident-orcas-in-wa/#:~:text=Senate%20Bill%205371)
+* [Senate Democrats](/org/senate_democrats/) - [House Passes Bill to Protect Endangered Orcas - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/04/12/2845/#:~:text=Senate%20Bill%205371)
+* [Crosscut](/org/crosscut/) - [To protect orcas, boats in Puget Sound must stay 1,000 yards away | Crosscut](https://crosscut.com/environment/2023/04/protect-orcas-boats-puget-sound-must-stay-1000-yards-away#:~:text=Senate%20Bill%205371)
+* [Crosscut](/org/crosscut/) - [The bills that survived Washington's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/04/bills-survived-washingtons-2023-legislative-session#:~:text=Senate%20Bill%205371)
+* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Other Topics](https://crosscut.com/voter-guide/2023-legislative-tracker/election/other-topics#:~:text=Senate%20Bill%205371)
+* [House Democrats](/org/house_democrats/) - [House Passes Bill to Protect Endangered Orcas – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/12/house-passes-bill-to-protect-endangered-orcas/#:~:text=Senate%20Bill%205371)
+* [KING5](/org/king5/) - [Southern Resident orca protection bill passes House | king5.com](https://www.king5.com/article/life/animals/southern-resident-orca-bill-passes-house/281-5eda670b-e100-43c9-9f4e-b7fc5393257e#:~:text=Senate%20Bill%205371)
 
 ## Meetings
 ### Mon 04/03 09:00 AM - Appropriations (APP): ESSB 5371 Orca vessel protection

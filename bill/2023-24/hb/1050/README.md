@@ -9,11 +9,11 @@
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
 
-## Articles
-* [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=HB 1050)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Education](https://crosscut.com/voter-guide/2023-legislative-tracker/election/education#:~:text=House Bill 1050)
-* [House Democrats](/org/house_democrats/) - [Construction Workforce Expanding Under Riccelli Apprenticeship Bill – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/21/construction-workforce-expanding-under-riccelli-apprenticeship-bill/#:~:text=HB 1050)
-* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=HB 1050)
+## 📰 Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=HB%201050)
+* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Education](https://crosscut.com/voter-guide/2023-legislative-tracker/election/education#:~:text=House%20Bill%201050)
+* [House Democrats](/org/house_democrats/) - [Construction Workforce Expanding Under Riccelli Apprenticeship Bill – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/21/construction-workforce-expanding-under-riccelli-apprenticeship-bill/#:~:text=HB%201050)
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=HB%201050)
 
 ## Meetings
 ### Mon 03/13 10:30 AM - Labor & Commerce (LC): ESHB 1050 Apprenticeship utilization

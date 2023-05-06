@@ -9,12 +9,12 @@
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
 
-## Articles
-* [House Republicans](/org/house_republicans/) - [State budgets and bad Senate bills | Washington State House Republicans](https://houserepublicans.wa.gov/current/state-budgets-and-bad-senate-bills/#:~:text=House Bill 1125)
-* [Senate Democrats](/org/senate_democrats/) - [Senate passes transportation budget focused on safety, workforce, green investments - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/04/05/senate-passes-transportation-budget-focused-on-safety-workforce-green-investments/#:~:text=House Bill 1125)
-* [House Republicans](/org/house_republicans/) - [State budgets and public safety | Washington State House Republicans](https://houserepublicans.wa.gov/current/state-budgets-and-public-safety/#:~:text=House Bill 1125)
-* [House Democrats](/org/house_democrats/) - [Final state transportation budget boosts funding for highways, ferries, traffic safety and the Climate Commitment Act / El presupuesto estatal final de transporte impulsa la financiación de carreteras, transbordadores, seguridad vial y la Ley de Compromiso Climático – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/22/final-state-transportation-budget-boosts-funding-for-highways-ferries-traffic-safety-and-the-climate-commitment-act/#:~:text=HB 1125)
-* [Senate Democrats](/org/senate_democrats/) - [Transportation budget focused on safety, workforce, green investments heads to governor’s desk  - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/04/22/transportation-budget-focused-on-safety-workforce-green-investments-heads-to-governors-desk/#:~:text=House Bill 1125)
+## 📰 Articles
+* [House Republicans](/org/house_republicans/) - [State budgets and bad Senate bills | Washington State House Republicans](https://houserepublicans.wa.gov/current/state-budgets-and-bad-senate-bills/#:~:text=House%20Bill%201125)
+* [Senate Democrats](/org/senate_democrats/) - [Senate passes transportation budget focused on safety, workforce, green investments - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/04/05/senate-passes-transportation-budget-focused-on-safety-workforce-green-investments/#:~:text=House%20Bill%201125)
+* [House Republicans](/org/house_republicans/) - [State budgets and public safety | Washington State House Republicans](https://houserepublicans.wa.gov/current/state-budgets-and-public-safety/#:~:text=House%20Bill%201125)
+* [House Democrats](/org/house_democrats/) - [Final state transportation budget boosts funding for highways, ferries, traffic safety and the Climate Commitment Act / El presupuesto estatal final de transporte impulsa la financiación de carreteras, transbordadores, seguridad vial y la Ley de Compromiso Climático – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/22/final-state-transportation-budget-boosts-funding-for-highways-ferries-traffic-safety-and-the-climate-commitment-act/#:~:text=HB%201125)
+* [Senate Democrats](/org/senate_democrats/) - [Transportation budget focused on safety, workforce, green investments heads to governor’s desk  - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/04/22/transportation-budget-focused-on-safety-workforce-green-investments-heads-to-governors-desk/#:~:text=House%20Bill%201125)
 
 ## Meetings
 ### Mon 03/27 04:00 PM - Transportation (TR): PSHB 1125 - Making transportation appropriations for the 2023-2025 fiscal biennium. (Remote Testimony Available).

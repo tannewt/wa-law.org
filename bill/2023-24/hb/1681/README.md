@@ -8,8 +8,8 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
-## Articles
-* [House Democrats](/org/house_democrats/) - [Stearns’ Bill to Fund Treatment for Problem Gambling Passes in the House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/01/stearns-bill-to-fund-treatment-for-problem-gambling-passes-in-the-house/#:~:text=House Bill 1681)
+## 📰 Articles
+* [House Democrats](/org/house_democrats/) - [Stearns’ Bill to Fund Treatment for Problem Gambling Passes in the House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/01/stearns-bill-to-fund-treatment-for-problem-gambling-passes-in-the-house/#:~:text=House%20Bill%201681)
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): 2SHB 1681 Problem gambling

@@ -9,8 +9,8 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
-## Articles
-* [KING5](/org/king5/) - [Sexually abusive jail guards, police to face harsher penalties under new Washington law | king5.com](https://www.king5.com/article/news/investigations/inslee-signs-kimberly-benders-law/281-20061e37-8cf0-40a4-9379-fc9052cf0907#:~:text=Senate Bill 5033)
+## 📰 Articles
+* [KING5](/org/king5/) - [Sexually abusive jail guards, police to face harsher penalties under new Washington law | king5.com](https://www.king5.com/article/news/investigations/inslee-signs-kimberly-benders-law/281-20061e37-8cf0-40a4-9379-fc9052cf0907#:~:text=Senate%20Bill%205033)
 
 ## Meetings
 ### Thu 03/09 08:00 AM - Community Safety, Justice, & Reentry (CSJR): SSB 5033 Custodial sexual misconduct

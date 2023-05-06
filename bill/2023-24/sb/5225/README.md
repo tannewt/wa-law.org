@@ -10,12 +10,12 @@
 * [Passed Legislature](S2.PL/)
 * [Session Law](S2.SL/)
 
-## Articles
-* [MyNorthwest](/org/mynorthwest/) - [Gov. Inslee increases affordable childcare access with new bill - MyNorthwest.com](https://mynorthwest.com/3884225/inslee-affordable-childcare-access-new-bill/#:~:text=Senate bill 5225)
-* [Senate Democrats](/org/senate_democrats/) - [Home - Sen. Claire Wilson](https://senatedemocrats.wa.gov/blog/team_members/sen-claire-wilson/#:~:text=Senate Bill 5225)
+## 📰 Articles
+* [MyNorthwest](/org/mynorthwest/) - [Gov. Inslee increases affordable childcare access with new bill - MyNorthwest.com](https://mynorthwest.com/3884225/inslee-affordable-childcare-access-new-bill/#:~:text=Senate%20bill%205225)
+* [Senate Democrats](/org/senate_democrats/) - [Home - Sen. Claire Wilson](https://senatedemocrats.wa.gov/blog/team_members/sen-claire-wilson/#:~:text=Senate%20Bill%205225)
 * [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/research/2023-legislative-agenda/#:~:text=5225)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/12/the-house-hot-sheet-for-week-10-of-the-2023-legislative-session/#:~:text=SB 5225)
-* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [2023 Session Wrap Up - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04272023#:~:text=SB 5225)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/12/the-house-hot-sheet-for-week-10-of-the-2023-legislative-session/#:~:text=SB%205225)
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [2023 Session Wrap Up - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04272023#:~:text=SB%205225)
 
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): 2SSB 5225 Working conn. child care

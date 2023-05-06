@@ -6,8 +6,8 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [The Seattle Times](/org/the_seattle_times/) - [The anesthesiologist assistant model is not a good fit for WA | The Seattle Times](https://www.seattletimes.com/opinion/the-anesthesiologist-assistant-model-is-not-a-good-fit-for-wa/#:~:text=Senate Bill 5184)
+## 📰 Articles
+* [The Seattle Times](/org/the_seattle_times/) - [The anesthesiologist assistant model is not a good fit for WA | The Seattle Times](https://www.seattletimes.com/opinion/the-anesthesiologist-assistant-model-is-not-a-good-fit-for-wa/#:~:text=Senate%20Bill%205184)
 
 ## Meetings
 ### Tue 01/31 08:00 AM - Health & Long Term Care (HLTC): SB 5184 Anesthesiologist assistants

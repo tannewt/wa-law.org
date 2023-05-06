@@ -6,15 +6,15 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [The Urbanist](/org/the_urbanist/) - [The Olympia Waltz Continues for Middle Housing and Other Vital Legislation | The Urbanist](https://www.theurbanist.org/2023/03/09/waleg-week-9-striker-hb1110/#:~:text=SB 5435)
-* [The Urbanist](/org/the_urbanist/) - [Washington Legislature’s New Thinking About Housing | The Urbanist](https://www.theurbanist.org/2023/03/01/washington-legislatures-new-thinking-about-housing/#:~:text=SB 5435)
-* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=SB 5435)
-* [The Urbanist](/org/the_urbanist/) - [What Groups Around Washington Are Asking from Olympia | The Urbanist](https://www.theurbanist.org/2023/02/22/waleg-week-7-priorities/#:~:text=SB 5435)
-* [Crosscut](/org/crosscut/) - [Rising rents are drowning Washington's smaller cities | Crosscut](https://crosscut.com/news/2023/02/rising-rents-are-drowning-washingtons-smaller-cities#:~:text=Senate Bill 5435)
-* [Statewide Poverty Action Network](/org/statewide_poverty_action_network/) - [Support Rent Stabilization – Statewide Poverty Action Network](https://povertyaction.org/advocacy-actions/support-rent-stabilization/#:~:text=SB 5435)
-* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 6 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02142023#:~:text=S.B. 5435)
-* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 10 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate031323#:~:text=S.B. 5435)
+## 📰 Articles
+* [The Urbanist](/org/the_urbanist/) - [The Olympia Waltz Continues for Middle Housing and Other Vital Legislation | The Urbanist](https://www.theurbanist.org/2023/03/09/waleg-week-9-striker-hb1110/#:~:text=SB%205435)
+* [The Urbanist](/org/the_urbanist/) - [Washington Legislature’s New Thinking About Housing | The Urbanist](https://www.theurbanist.org/2023/03/01/washington-legislatures-new-thinking-about-housing/#:~:text=SB%205435)
+* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=SB%205435)
+* [The Urbanist](/org/the_urbanist/) - [What Groups Around Washington Are Asking from Olympia | The Urbanist](https://www.theurbanist.org/2023/02/22/waleg-week-7-priorities/#:~:text=SB%205435)
+* [Crosscut](/org/crosscut/) - [Rising rents are drowning Washington's smaller cities | Crosscut](https://crosscut.com/news/2023/02/rising-rents-are-drowning-washingtons-smaller-cities#:~:text=Senate%20Bill%205435)
+* [Statewide Poverty Action Network](/org/statewide_poverty_action_network/) - [Support Rent Stabilization – Statewide Poverty Action Network](https://povertyaction.org/advocacy-actions/support-rent-stabilization/#:~:text=SB%205435)
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 6 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02142023#:~:text=S.B.%205435)
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 10 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate031323#:~:text=S.B.%205435)
 
 ## Meetings
 ### Fri 01/27 10:30 AM - Housing (HSG): SB 5435 Residential rent increases

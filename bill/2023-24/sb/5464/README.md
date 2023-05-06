@@ -6,10 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Other Topics](https://crosscut.com/voter-guide/2023-legislative-tracker/election/other-topics#:~:text=Senate Bill 5464)
-* [House Democrats](/org/house_democrats/) - [Right to Repair Bills heard in House and Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/01/right-to-repair-bills-heard-in-house-and-senate/#:~:text=SB 5464)
-* [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB 5464)
+## 📰 Articles
+* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Other Topics](https://crosscut.com/voter-guide/2023-legislative-tracker/election/other-topics#:~:text=Senate%20Bill%205464)
+* [House Democrats](/org/house_democrats/) - [Right to Repair Bills heard in House and Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/01/right-to-repair-bills-heard-in-house-and-senate/#:~:text=SB%205464)
+* [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB%205464)
 
 ## Meetings
 ### Tue 01/31 01:30 PM - Environment, Energy & Technology (ENET): SB 5464 Electronics repair

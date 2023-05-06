@@ -10,13 +10,13 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
-## Articles
-* [The Seattle Times](/org/the_seattle_times/) - [AG sues Puppyland over alleged false health guarantees, predatory loans | The Seattle Times](https://www.seattletimes.com/seattle-news/law-justice/ag-sues-puppyland-for-alleged-false-health-guarantees-predatory-loans/#:~:text=House Bill 1424)
-* [The Seattle Times](/org/the_seattle_times/) - [New WA law would shut the door on puppy-mill suffering | The Seattle Times](https://www.seattletimes.com/opinion/editorials/new-wa-law-would-shut-the-door-on-puppy-mill-suffering/#:~:text=House Bill 1424)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/22/the-house-hot-sheet-for-week-3-of-the-2023-legislative-session/#:~:text=HB 1424)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/13/the-house-hot-sheet-for-week-6-of-the-2023-legislative-session/#:~:text=HB 1424)
-* [House Democrats](/org/house_democrats/) - [House passes Berg bill to prevent animal abuse and predatory lending – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/02/house-passes-berg-bill-to-prevent-animal-abuse-and-predatory-lending/#:~:text=House Bill 1424)
-* [The Spokesman-Review](/org/the_spokesman-review/) - [Washington trying to ban out-of-state puppy mills from selling in state | The Spokesman-Review](https://www.spokesman.com/stories/2023/apr/07/washington-bill-to-eliminate-out-of-state-puppy-mi/#:~:text=House Bill 1424)
+## 📰 Articles
+* [The Seattle Times](/org/the_seattle_times/) - [AG sues Puppyland over alleged false health guarantees, predatory loans | The Seattle Times](https://www.seattletimes.com/seattle-news/law-justice/ag-sues-puppyland-for-alleged-false-health-guarantees-predatory-loans/#:~:text=House%20Bill%201424)
+* [The Seattle Times](/org/the_seattle_times/) - [New WA law would shut the door on puppy-mill suffering | The Seattle Times](https://www.seattletimes.com/opinion/editorials/new-wa-law-would-shut-the-door-on-puppy-mill-suffering/#:~:text=House%20Bill%201424)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/22/the-house-hot-sheet-for-week-3-of-the-2023-legislative-session/#:~:text=HB%201424)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/13/the-house-hot-sheet-for-week-6-of-the-2023-legislative-session/#:~:text=HB%201424)
+* [House Democrats](/org/house_democrats/) - [House passes Berg bill to prevent animal abuse and predatory lending – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/02/house-passes-berg-bill-to-prevent-animal-abuse-and-predatory-lending/#:~:text=House%20Bill%201424)
+* [The Spokesman-Review](/org/the_spokesman-review/) - [Washington trying to ban out-of-state puppy mills from selling in state | The Spokesman-Review](https://www.spokesman.com/stories/2023/apr/07/washington-bill-to-eliminate-out-of-state-puppy-mi/#:~:text=House%20Bill%201424)
 
 ## Meetings
 ### Tue 03/21 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): ESHB 1424 Dogs and cats/consumers

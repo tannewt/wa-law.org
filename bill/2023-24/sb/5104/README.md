@@ -6,8 +6,8 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Environment](https://crosscut.com/voter-guide/2023-legislative-tracker/election/environment#:~:text=Senate Bill 5104)
+## 📰 Articles
+* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Environment](https://crosscut.com/voter-guide/2023-legislative-tracker/election/environment#:~:text=Senate%20Bill%205104)
 
 ## Meetings
 ### Thu 03/30 01:30 PM - Appropriations (APP): SB 5104 Marine shoreline habitat

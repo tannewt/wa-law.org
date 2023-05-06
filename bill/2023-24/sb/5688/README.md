@@ -6,13 +6,13 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SB 5688)
-* [Department of Natural Resources](/org/department_of_natural_resources/) - [Carbon SB 5688 - HB 1789 | WA - DNR](https://www.dnr.wa.gov/CarbonBill#:~:text=SB 5688)
-* [Department of Natural Resources](/org/department_of_natural_resources/) - [Legislative Priorities | WA - DNR](https://www.dnr.wa.gov/about/legislative#:~:text=SB 5688)
-* [Department of Natural Resources](/org/department_of_natural_resources/) - [Commissioner Franz Urges House to Pass Carbon Credit Bill | WA - DNR](https://www.dnr.wa.gov/news/commissioner-franz-urges-house-pass-carbon-credit-bill#:~:text=SB 5688)
-* [Department of Natural Resources](/org/department_of_natural_resources/) - [State Looks to Seize Opportunity to Cash in on Carbon for Schools and Communities | WA - DNR](https://www.dnr.wa.gov/news/state-looks-seize-opportunity-cash-carbon-schools-and-communities#:~:text=Senate Bill 5688)
-* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SB 5688)
+## 📰 Articles
+* [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SB%205688)
+* [Department of Natural Resources](/org/department_of_natural_resources/) - [Carbon SB 5688 - HB 1789 | WA - DNR](https://www.dnr.wa.gov/CarbonBill#:~:text=SB%205688)
+* [Department of Natural Resources](/org/department_of_natural_resources/) - [Legislative Priorities | WA - DNR](https://www.dnr.wa.gov/about/legislative#:~:text=SB%205688)
+* [Department of Natural Resources](/org/department_of_natural_resources/) - [Commissioner Franz Urges House to Pass Carbon Credit Bill | WA - DNR](https://www.dnr.wa.gov/news/commissioner-franz-urges-house-pass-carbon-credit-bill#:~:text=SB%205688)
+* [Department of Natural Resources](/org/department_of_natural_resources/) - [State Looks to Seize Opportunity to Cash in on Carbon for Schools and Communities | WA - DNR](https://www.dnr.wa.gov/news/state-looks-seize-opportunity-cash-carbon-schools-and-communities#:~:text=Senate%20Bill%205688)
+* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SB%205688)
 
 ## Meetings
 ### Wed 02/22 01:30 PM - Ways & Means (WM): SB 5688 Public lands/carbon seq.

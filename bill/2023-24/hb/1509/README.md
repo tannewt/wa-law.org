@@ -6,9 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [Crosscut](/org/crosscut/) - [By 2050, Washington might need to buy energy from other states | Crosscut](https://crosscut.com/politics/2023/02/2050-washington-might-need-buy-energy-other-states#:~:text=House Bill 1509)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/13/the-house-hot-sheet-for-week-6-of-the-2023-legislative-session/#:~:text=HB 1509)
+## 📰 Articles
+* [Crosscut](/org/crosscut/) - [By 2050, Washington might need to buy energy from other states | Crosscut](https://crosscut.com/politics/2023/02/2050-washington-might-need-buy-energy-other-states#:~:text=House%20Bill%201509)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/13/the-house-hot-sheet-for-week-6-of-the-2023-legislative-session/#:~:text=HB%201509)
 
 ## Meetings
 ### Thu 01/26 08:00 AM - Environment & Energy (ENVI): HB 1509 Community solar

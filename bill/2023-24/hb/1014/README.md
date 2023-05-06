@@ -6,8 +6,8 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [Gorge News Center](/org/gorge_news_center/) - [Rep. Abbarno proposal could provide state funding lifeline to rural fire districts for safety upgrades](https://gorgenewscenter.com/2022/12/28/rep-abbarno-proposal-could-provide-state-funding-lifeline-to-rural-fire-districts-for-safety-upgrades/#:~:text=House Bill 1014)
+## 📰 Articles
+* [Gorge News Center](/org/gorge_news_center/) - [Rep. Abbarno proposal could provide state funding lifeline to rural fire districts for safety upgrades](https://gorgenewscenter.com/2022/12/28/rep-abbarno-proposal-could-provide-state-funding-lifeline-to-rural-fire-districts-for-safety-upgrades/#:~:text=House%20Bill%201014)
 
 ## Meetings
 ### Thu 01/19 01:30 PM - Capital Budget (CB): HB 1014 Fire protection projects

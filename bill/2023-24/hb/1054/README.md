@@ -6,8 +6,8 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [House Democrats](/org/house_democrats/) - [Representative Amy Walen Passes Three Bills to Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/09/representative-amy-walen-passes-three-bills-to-senate/#:~:text=House Bill 1054)
+## 📰 Articles
+* [House Democrats](/org/house_democrats/) - [Representative Amy Walen Passes Three Bills to Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/09/representative-amy-walen-passes-three-bills-to-senate/#:~:text=House%20Bill%201054)
 
 ## Meetings
 ### Thu 03/09 08:00 AM - Law & Justice (LAW): HB 1054 Occupancy limits

@@ -8,8 +8,8 @@
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
 
-## Articles
-* [Senate Democrats](/org/senate_democrats/) - [Senate passes transportation budget focused on safety, workforce, green investments - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/04/05/senate-passes-transportation-budget-focused-on-safety-workforce-green-investments/#:~:text=SB 5742)
+## 📰 Articles
+* [Senate Democrats](/org/senate_democrats/) - [Senate passes transportation budget focused on safety, workforce, green investments - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/04/05/senate-passes-transportation-budget-focused-on-safety-workforce-green-investments/#:~:text=SB%205742)
 
 ## Meetings
 ### Mon 02/20 01:30 PM - Transportation (TRAN): SB 5742 DOT grant programs

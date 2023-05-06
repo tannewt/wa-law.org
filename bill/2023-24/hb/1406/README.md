@@ -9,9 +9,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
-## Articles
-* [House Democrats](/org/house_democrats/) - [Freshman Legislator Julio Cortes Passes Three Bills to the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/03/freshman-legislator-julio-cortes-passes-three-bills-to-the-senate/#:~:text=House Bill 1406)
-* [House Democrats](/org/house_democrats/) - [Rep. Cortes Passes Bills to Governor on Homelessness, Police Benefits, Affordable Housing & Statewide Travel – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/19/rep-cortes-passes-bills-to-governor-on-homelessness-police-benefits-affordable-housing-statewide-travel/#:~:text=House Bill 1406)
+## 📰 Articles
+* [House Democrats](/org/house_democrats/) - [Freshman Legislator Julio Cortes Passes Three Bills to the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/03/freshman-legislator-julio-cortes-passes-three-bills-to-the-senate/#:~:text=House%20Bill%201406)
+* [House Democrats](/org/house_democrats/) - [Rep. Cortes Passes Bills to Governor on Homelessness, Police Benefits, Affordable Housing & Statewide Travel – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/19/rep-cortes-passes-bills-to-governor-on-homelessness-police-benefits-affordable-housing-statewide-travel/#:~:text=House%20Bill%201406)
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): SHB 1406 Youth seeking housing assist

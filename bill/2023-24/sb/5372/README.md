@@ -7,8 +7,8 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
-## Articles
-* [Department of Natural Resources](/org/department_of_natural_resources/) - [Legislative Priorities | WA - DNR](https://www.dnr.wa.gov/about/legislative#:~:text=SB 5372)
+## 📰 Articles
+* [Department of Natural Resources](/org/department_of_natural_resources/) - [Legislative Priorities | WA - DNR](https://www.dnr.wa.gov/about/legislative#:~:text=SB%205372)
 
 ## Meetings
 ### Thu 01/26 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5372 Trust land transfer program

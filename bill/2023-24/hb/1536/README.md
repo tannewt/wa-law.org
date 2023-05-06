@@ -6,9 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [House Democrats](/org/house_democrats/) - [Timmons Sends Two Education Bills to the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/02/timmons-sends-two-education-bills-to-the-senate/#:~:text=HB 1536)
-* [House Democrats](/org/house_democrats/) - [Two Timmons’ education bills clear the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/14/two-timmons-education-bills-clear-the-senate/#:~:text=HB 1536)
+## 📰 Articles
+* [House Democrats](/org/house_democrats/) - [Timmons Sends Two Education Bills to the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/02/timmons-sends-two-education-bills-to-the-senate/#:~:text=HB%201536)
+* [House Democrats](/org/house_democrats/) - [Two Timmons’ education bills clear the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/14/two-timmons-education-bills-clear-the-senate/#:~:text=HB%201536)
 
 ## Meetings
 ### Thu 03/23 01:30 PM - Early Learning & K-12 Education (EDU): HB 1536 H.S. diplomas/withholding

@@ -10,8 +10,8 @@
 * [Passed Legislature](S2.PL/)
 * [Session Law](S2.SL/)
 
-## Articles
-* [KIRO7](/org/kiro7/) - [Gov. Inslee signs bill to protect Washingtonians from cyber-attacks, ransomware  – KIRO 7 News Seattle](https://www.kiro7.com/news/local/gov-inslee-signs-bill-protect-washingtonians-cyber-attacks-ransomware/GXMVQZ3RKNHIHPLH5ZNNHSSVNI/#:~:text=Senate Bill 5518)
+## 📰 Articles
+* [KIRO7](/org/kiro7/) - [Gov. Inslee signs bill to protect Washingtonians from cyber-attacks, ransomware  – KIRO 7 News Seattle](https://www.kiro7.com/news/local/gov-inslee-signs-bill-protect-washingtonians-cyber-attacks-ransomware/GXMVQZ3RKNHIHPLH5ZNNHSSVNI/#:~:text=Senate%20Bill%205518)
 
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): 2SSB 5518 Cybersecurity

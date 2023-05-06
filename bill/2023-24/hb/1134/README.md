@@ -10,15 +10,15 @@
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
 
-## Articles
-* [Crosscut](/org/crosscut/) - [Washington state may boost 988 hotline funding as demand grows | Crosscut](https://crosscut.com/politics/2023/03/washington-state-may-boost-988-hotline-funding-demand-grows#:~:text=House Bill 1134)
-* [Crosscut](/org/crosscut/) - [Washington to invest more in 988 mental health crisis line | Crosscut](https://crosscut.com/politics/2023/04/washington-invest-more-988-mental-health-crisis-line#:~:text=HB 1134)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Healthcare](https://crosscut.com/voter-guide/2023-legislative-tracker/election/healthcare#:~:text=House Bill 1134)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Policing, Crime & Courts](https://crosscut.com/voter-guide/2023-legislative-tracker/election/policing-crime-courts#:~:text=House Bill 1134)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/15/the-house-hot-sheet-for-week-2-of-the-2023-legislative-session/#:~:text=HB 1134)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB 1134)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB 1134)
-* [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Orwall bill to implement and improve the 988 Suicide and Crisis Lifeline passes House unanimously – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/08/orwall-bill-to-implement-and-improve-the-988-suicide-and-crisis-lifeline-passes-house-unanimously/#:~:text=House Bill 1134)
+## 📰 Articles
+* [Crosscut](/org/crosscut/) - [Washington state may boost 988 hotline funding as demand grows | Crosscut](https://crosscut.com/politics/2023/03/washington-state-may-boost-988-hotline-funding-demand-grows#:~:text=House%20Bill%201134)
+* [Crosscut](/org/crosscut/) - [Washington to invest more in 988 mental health crisis line | Crosscut](https://crosscut.com/politics/2023/04/washington-invest-more-988-mental-health-crisis-line#:~:text=HB%201134)
+* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Healthcare](https://crosscut.com/voter-guide/2023-legislative-tracker/election/healthcare#:~:text=House%20Bill%201134)
+* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Policing, Crime & Courts](https://crosscut.com/voter-guide/2023-legislative-tracker/election/policing-crime-courts#:~:text=House%20Bill%201134)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/15/the-house-hot-sheet-for-week-2-of-the-2023-legislative-session/#:~:text=HB%201134)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB%201134)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB%201134)
+* [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Orwall bill to implement and improve the 988 Suicide and Crisis Lifeline passes House unanimously – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/08/orwall-bill-to-implement-and-improve-the-988-suicide-and-crisis-lifeline-passes-house-unanimously/#:~:text=House%20Bill%201134)
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): E2SHB 1134 988 system

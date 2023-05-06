@@ -8,8 +8,8 @@
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
 
-## Articles
-* [Gorge News Center](/org/gorge_news_center/) - [Governor signs two Padden bills one week after legislative session ends](https://gorgenewscenter.com/2023/05/04/governor-signs-two-padden-bills-one-week-after-legislative-session-ends/#:~:text=Senate Bill 5218)
+## 📰 Articles
+* [Gorge News Center](/org/gorge_news_center/) - [Governor signs two Padden bills one week after legislative session ends](https://gorgenewscenter.com/2023/05/04/governor-signs-two-padden-bills-one-week-after-legislative-session-ends/#:~:text=Senate%20Bill%205218)
 
 ## Meetings
 ### Fri 04/14 08:00 AM - Finance (FIN): SSB 5218 Mobility enhancing equip/tax

@@ -9,10 +9,10 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
-## Articles
-* [MyNorthwest](/org/mynorthwest/) - [Seniors, disabled people, veterans will get break on property taxes - MyNorthwest.com](https://mynorthwest.com/3872729/seniors-disabled-people-veterans-will-get-break-on-property-taxes/#:~:text=HB 1355.)
-* [House Democrats](/org/house_democrats/) - [House passes Rep. Wylie bill providing property tax relief – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/03/house-passes-rep-wylie-bill-providing-property-tax-relief/#:~:text=HB 1355)
-* [House Democrats](/org/house_democrats/) - [Legislative update: Accomplishments from the 2023 session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/05/02/legislative-update-accomplishments-from-the-2023-session/#:~:text=HB 1355)
+## 📰 Articles
+* [MyNorthwest](/org/mynorthwest/) - [Seniors, disabled people, veterans will get break on property taxes - MyNorthwest.com](https://mynorthwest.com/3872729/seniors-disabled-people-veterans-will-get-break-on-property-taxes/#:~:text=HB%201355.)
+* [House Democrats](/org/house_democrats/) - [House passes Rep. Wylie bill providing property tax relief – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/03/house-passes-rep-wylie-bill-providing-property-tax-relief/#:~:text=HB%201355)
+* [House Democrats](/org/house_democrats/) - [Legislative update: Accomplishments from the 2023 session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/05/02/legislative-update-accomplishments-from-the-2023-session/#:~:text=HB%201355)
 
 ## Meetings
 ### Mon 03/13 04:00 PM - Ways & Means (WM): SHB 1355 Property tax exemptions

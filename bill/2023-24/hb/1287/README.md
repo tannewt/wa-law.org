@@ -6,8 +6,8 @@
 ## Revisions
 * [Original Bill](1/)
 
-## Articles
-* [House Democrats](/org/house_democrats/) - [Bipartisan Thai Bill Addressing Dental Workforce Development Signed By Governor   – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/14/bipartisan-thai-bill-addressing-dental-workforce-development-signed-by-governor/#:~:text=House Bill 1287)
+## 📰 Articles
+* [House Democrats](/org/house_democrats/) - [Bipartisan Thai Bill Addressing Dental Workforce Development Signed By Governor   – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/14/bipartisan-thai-bill-addressing-dental-workforce-development-signed-by-governor/#:~:text=House%20Bill%201287)
 
 ## Meetings
 ### Thu 03/09 10:30 AM - Health & Long Term Care (HLTC): HB 1287 Dental hygienists

@@ -7,19 +7,19 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
-## Articles
-* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House Bill 1388)
-* [The Urbanist](/org/the_urbanist/) - [The Olympia Waltz Continues for Middle Housing and Other Vital Legislation | The Urbanist](https://www.theurbanist.org/2023/03/09/waleg-week-9-striker-hb1110/#:~:text=HB 1388)
-* [The Urbanist](/org/the_urbanist/) - [Washington Legislature’s New Thinking About Housing | The Urbanist](https://www.theurbanist.org/2023/03/01/washington-legislatures-new-thinking-about-housing/#:~:text=HB 1388)
-* [MyNorthwest](/org/mynorthwest/) - [Gee Scott: 'No, you cannot cap rent' in Washington state - MyNorthwest.com](https://mynorthwest.com/3847311/gee-scott-can-not-cap-rent-washington-state/#:~:text=House Bill 1388)
-* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB 1388)
-* [The Urbanist](/org/the_urbanist/) - [What Groups Around Washington Are Asking from Olympia | The Urbanist](https://www.theurbanist.org/2023/02/22/waleg-week-7-priorities/#:~:text=HB 1388)
-* [The Urbanist](/org/the_urbanist/) - [WALeg Wednesday Gets Wonky with Wealth Taxes and Rent Stabilization | The Urbanist](https://www.theurbanist.org/2023/01/25/waleg-wednesday-week-3/#:~:text=HB 1388)
-* [The Urbanist](/org/the_urbanist/) - [Sawant Announces She’s Leaving City Council to Launch New Workers Party | The Urbanist](https://www.theurbanist.org/2023/01/19/sawant-announces-shes-leaving-city-council-to-launch-new-workers-party/#:~:text=HB 1388)
-* [House Democrats](/org/house_democrats/) - [Macri, Ramel Introduce Stability Measures to Stop Excessive Rent Hikes – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/17/macri-ramel-introduce-stability-measures-to-stop-excessive-rent-hikes/#:~:text=HB 1388)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/22/the-house-hot-sheet-for-week-3-of-the-2023-legislative-session/#:~:text=HB 1388)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/05/the-house-hot-sheet-for-week-5-of-the-2023-legislative-session/#:~:text=HB 1388)
-* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Committee Action Expected on Some Bills This Week - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate012323#:~:text=H.B. 1388)
+## 📰 Articles
+* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201388)
+* [The Urbanist](/org/the_urbanist/) - [The Olympia Waltz Continues for Middle Housing and Other Vital Legislation | The Urbanist](https://www.theurbanist.org/2023/03/09/waleg-week-9-striker-hb1110/#:~:text=HB%201388)
+* [The Urbanist](/org/the_urbanist/) - [Washington Legislature’s New Thinking About Housing | The Urbanist](https://www.theurbanist.org/2023/03/01/washington-legislatures-new-thinking-about-housing/#:~:text=HB%201388)
+* [MyNorthwest](/org/mynorthwest/) - [Gee Scott: 'No, you cannot cap rent' in Washington state - MyNorthwest.com](https://mynorthwest.com/3847311/gee-scott-can-not-cap-rent-washington-state/#:~:text=House%20Bill%201388)
+* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB%201388)
+* [The Urbanist](/org/the_urbanist/) - [What Groups Around Washington Are Asking from Olympia | The Urbanist](https://www.theurbanist.org/2023/02/22/waleg-week-7-priorities/#:~:text=HB%201388)
+* [The Urbanist](/org/the_urbanist/) - [WALeg Wednesday Gets Wonky with Wealth Taxes and Rent Stabilization | The Urbanist](https://www.theurbanist.org/2023/01/25/waleg-wednesday-week-3/#:~:text=HB%201388)
+* [The Urbanist](/org/the_urbanist/) - [Sawant Announces She’s Leaving City Council to Launch New Workers Party | The Urbanist](https://www.theurbanist.org/2023/01/19/sawant-announces-shes-leaving-city-council-to-launch-new-workers-party/#:~:text=HB%201388)
+* [House Democrats](/org/house_democrats/) - [Macri, Ramel Introduce Stability Measures to Stop Excessive Rent Hikes – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/17/macri-ramel-introduce-stability-measures-to-stop-excessive-rent-hikes/#:~:text=HB%201388)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/22/the-house-hot-sheet-for-week-3-of-the-2023-legislative-session/#:~:text=HB%201388)
+* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/05/the-house-hot-sheet-for-week-5-of-the-2023-legislative-session/#:~:text=HB%201388)
+* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Committee Action Expected on Some Bills This Week - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate012323#:~:text=H.B.%201388)
 
 ## Meetings
 ### Tue 01/24 04:00 PM - Housing (HOUS): HB 1388 Residential rent practices

@@ -8,8 +8,8 @@
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
 
-## Articles
-* [Department of Natural Resources](/org/department_of_natural_resources/) - [Legislative Priorities | WA - DNR](https://www.dnr.wa.gov/about/legislative#:~:text=HB 1460)
+## 📰 Articles
+* [Department of Natural Resources](/org/department_of_natural_resources/) - [Legislative Priorities | WA - DNR](https://www.dnr.wa.gov/about/legislative#:~:text=HB%201460)
 
 ## Meetings
 ### Thu 03/23 04:00 PM - Ways & Means (WM): SHB 1460 DNR land
