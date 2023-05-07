@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5054](/bill/2023-24/sb/5054/)
 
-# SB 5054
+# SB 5054 - Prof. learning communities
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5054&Year=2023&Initiative=false)
 
 ## Revisions
@@ -8,8 +8,9 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
-* [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=SSB%205054)
-* [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB%205054)
+* 03/27/2023 [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=SSB%205054)
+* 03/11/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 13 - 17, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-13-17-2023/#:~:text=SB%205054)
+* 01/30/2023 [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB%205054)
 
 ## Meetings
 ### Tue 03/14 04:00 PM - Education (ED): SSB 5054 Prof. learning communities

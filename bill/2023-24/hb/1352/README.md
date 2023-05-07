@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1352](/bill/2023-24/hb/1352/)
 
-# HB 1352
+# HB 1352 - County invest. pools/tribes
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1352&Year=2023&Initiative=false)
 
 ## Revisions

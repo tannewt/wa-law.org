@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1778](/bill/2023-24/hb/1778/)
 
-# HB 1778
+# HB 1778 - Economic resilience planning
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1778&Year=2023&Initiative=false)
 
 ## Revisions

@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5599](/bill/2023-24/sb/5599/)
 
-# SB 5599
+# SB 5599 - Protected health care/youth
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5599&Year=2023&Initiative=false)
 
 ## Revisions
@@ -10,20 +10,26 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
-* [The Urbanist](/org/the_urbanist/) - [Heroes and Zeroes of the 2023 Washington State Legislature | The Urbanist](https://www.theurbanist.org/2023/05/01/heroes-and-zeroes-of-2023-legislature/#:~:text=SB%205599)
-* [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205599)
-* [House Republicans](/org/house_republicans/) - [An update on the 2023 legislative session | Washington State House Republicans](https://houserepublicans.wa.gov/current/an-update-on-the-2023-legislative-session/#:~:text=Senate%20Bill%205599)
-* [MyNorthwest](/org/mynorthwest/) - [Rantz: Radical WA trans youth law legalized state-sanctioned kidnapping - MyNorthwest.com](https://mynorthwest.com/3874914/rantz-radical-wa-trans-youth-law-legalized-state-sanctioned-kidnapping/#:~:text=SB%205599,)
-* [House Republicans](/org/house_republicans/) - [The homestretch of the 2023 legislative session | Washington State House Republicans](https://houserepublicans.wa.gov/current/the-homestretch-of-the-2023-legislative-session/#:~:text=Senate%20Bill%205599)
-* [MyNorthwest](/org/mynorthwest/) - [Minors seeking gender-affirming treatment can shelter without parent's knowledge if bill passes - MyNorthwest.com](https://mynorthwest.com/3874975/minors-seeking-gender-affirming-treatment-shelter-without-parents-knowledge-bill/#:~:text=Senate%20Bill%205599)
-* [The Seattle Times](/org/the_seattle_times/) - [With 10 days to go, some bills fall by the wayside in Olympia | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/with-10-days-to-go-some-bills-fall-by-the-wayside-in-olympia/#:~:text=Senate%20Bill%205599)
-* [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=Senate%20Bill%205599)
-* [The Seattle Times](/org/the_seattle_times/) - [What the right has wrong about caring for trans youth  | The Seattle Times](https://www.seattletimes.com/opinion/what-the-right-has-wrong-about-caring-for-trans-youth/#:~:text=Senate%20Bill%205599)
-* [Crosscut](/org/crosscut/) - [WA transgender youth bill targeted in national culture war | Crosscut](https://crosscut.com/politics/2023/05/wa-transgender-youth-bill-targeted-national-culture-war#:~:text=Senate%20Bill%205599)
-* [Gorge News Center](/org/gorge_news_center/) - [Rep. Chris Corry fights to protect parents’ rights](https://gorgenewscenter.com/2023/04/14/rep-chris-corry-fights-to-protect-parents-rights/#:~:text=Senate%20Bill%205599)
-* [KUOW](/org/kuow/) - [KUOW - WA lawmakers pass housing, firearm bills ahead of cutoff, leave rent control, recycling bills behind](https://www.kuow.org/stories/wa-lawmakers-pass-housing-firearm-bills-ahead-of-cutoff-leave-rent-control-recycling-bills-behind#:~:text=Senate%20Bill%205599)
-* [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205599)
-* [KUOW](/org/kuow/) - [KUOW - Washington state lawmakers pass protections for gender-affirming care](https://www.kuow.org/stories/washington-state-lawmakers-pass-protections-for-gender-affirming-care#:~:text=Senate%20Bill%205599)
+* 05/01/2023 [The Urbanist](/org/the_urbanist/) - [Heroes and Zeroes of the 2023 Washington State Legislature | The Urbanist](https://www.theurbanist.org/2023/05/01/heroes-and-zeroes-of-2023-legislature/#:~:text=SB%205599)
+* 05/01/2023 [Crosscut](/org/crosscut/) - [WA transgender youth bill targeted in national culture war | Crosscut](https://crosscut.com/politics/2023/05/wa-transgender-youth-bill-targeted-national-culture-war#:~:text=Senate%20Bill%205599)
+* 04/27/2023 [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205599)
+* 04/27/2023 [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205599)
+* 04/22/2023 [House Republicans](/org/house_republicans/) - [An update on the 2023 legislative session | Washington State House Republicans](https://houserepublicans.wa.gov/current/an-update-on-the-2023-legislative-session/#:~:text=Senate%20Bill%205599)
+* 04/19/2023 [KUOW](/org/kuow/) - [KUOW - Washington state lawmakers pass protections for gender-affirming care](https://www.kuow.org/stories/washington-state-lawmakers-pass-protections-for-gender-affirming-care#:~:text=Senate%20Bill%205599)
+* 04/18/2023 [MyNorthwest](/org/mynorthwest/) - [Rantz: Radical WA trans youth law legalized state-sanctioned kidnapping - MyNorthwest.com](https://mynorthwest.com/3874914/rantz-radical-wa-trans-youth-law-legalized-state-sanctioned-kidnapping/#:~:text=SB%205599,)
+* 04/15/2023 [House Republicans](/org/house_republicans/) - [The homestretch of the 2023 legislative session | Washington State House Republicans](https://houserepublicans.wa.gov/current/the-homestretch-of-the-2023-legislative-session/#:~:text=Senate%20Bill%205599)
+* 04/14/2023 [MyNorthwest](/org/mynorthwest/) - [Minors seeking gender-affirming treatment can shelter without parent's knowledge if bill passes - MyNorthwest.com](https://mynorthwest.com/3874975/minors-seeking-gender-affirming-treatment-shelter-without-parents-knowledge-bill/#:~:text=Senate%20Bill%205599)
+* 04/14/2023 [The Seattle Times](/org/the_seattle_times/) - [With 10 days to go, some bills fall by the wayside in Olympia | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/with-10-days-to-go-some-bills-fall-by-the-wayside-in-olympia/#:~:text=Senate%20Bill%205599)
+* 04/14/2023 [Gorge News Center](/org/gorge_news_center/) - [Rep. Chris Corry fights to protect parents’ rights](https://gorgenewscenter.com/2023/04/14/rep-chris-corry-fights-to-protect-parents-rights/#:~:text=Senate%20Bill%205599)
+* 04/05/2023 [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=Senate%20Bill%205599)
+* 03/17/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 20 - 24, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-20-24-2023/#:~:text=SB%205599)
+* 03/10/2023 [NW News Network](/org/nw_news_network/) - [WA lawmakers pass housing, firearm bills ahead of cutoff, leave rent control, recycling bills behind | Northwest News Network](https://www.nwnewsnetwork.org/2023-03-10/wa-lawmakers-pass-housing-firearm-bills-ahead-of-cutoff-leave-rent-control-recycling-bills-behind#:~:text=Senate%20Bill%205599)
+* 03/10/2023 [KUOW](/org/kuow/) - [KUOW - WA lawmakers pass housing, firearm bills ahead of cutoff, leave rent control, recycling bills behind](https://www.kuow.org/stories/wa-lawmakers-pass-housing-firearm-bills-ahead-of-cutoff-leave-rent-control-recycling-bills-behind#:~:text=Senate%20Bill%205599)
+* 03/02/2023 [Senate Republicans](/org/senate_republicans/) - [Bill threatening rights of parents passes Senate - Senate Republican Caucus](https://src.wastateleg.org/blog/bill-threatening-rights-parents-passes-senate/#:~:text=Senate%20Bill%205599)
+* 03/01/2023 [Senate Democrats](/org/senate_democrats/) - [Bill to safeguard youth seeking protected health services clears Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/01/bill-to-safeguard-youth-seeking-protected-health-services-clears-senate/#:~:text=Senate%20Bill%205599)
+* 02/24/2023 [The Seattle Times](/org/the_seattle_times/) - [What the right has wrong about caring for trans youth  | The Seattle Times](https://www.seattletimes.com/opinion/what-the-right-has-wrong-about-caring-for-trans-youth/#:~:text=Senate%20Bill%205599)
+* 02/07/2023 [KUOW](/org/kuow/) - [KUOW - Bill would protect runaway youth seeking gender-affirming care](https://www.kuow.org/stories/runaway-bill-would-add-protections-for-youth-seeking-gender-affirming-care#:~:text=SB%205599)
+* 02/05/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 5: Addressing addiction, fair housing and support for nurses - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/02/05/this-week-in-the-senate-week-5-addressing-addiction-fair-housing-and-support-for-nurses/#:~:text=Senate%20Bill%205599)
 
 ## Meetings
 ### Wed 03/22 01:30 PM - Human Services, Youth, & Early Learning (HSEL): ESSB 5599 Protected health care/youth

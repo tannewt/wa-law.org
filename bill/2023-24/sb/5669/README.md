@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5669](/bill/2023-24/sb/5669/)
 
-# SB 5669
+# SB 5669 - Firearms/individual right
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5669&Year=2023&Initiative=false)
 
 ## Revisions

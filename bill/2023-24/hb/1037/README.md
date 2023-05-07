@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1037](/bill/2023-24/hb/1037/)
 
-# HB 1037
+# HB 1037 - Family burial grounds
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1037&Year=2023&Initiative=false)
 
 ## Revisions
@@ -9,7 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
-* [Gorge News Center](/org/gorge_news_center/) - [Walsh bill to allow family to be buried on private property clears House](https://gorgenewscenter.com/2023/02/27/walsh-bill-to-allow-family-to-be-buried-on-private-property-clears-house/#:~:text=House%20Bill%201037)
+* 02/27/2023 [Gorge News Center](/org/gorge_news_center/) - [Walsh bill to allow family to be buried on private property clears House](https://gorgenewscenter.com/2023/02/27/walsh-bill-to-allow-family-to-be-buried-on-private-property-clears-house/#:~:text=House%20Bill%201037)
 
 ## Meetings
 ### Tue 03/14 10:30 AM - Law & Justice (LAW): ESHB 1037 Family burial grounds

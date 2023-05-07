@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1260](/bill/2023-24/hb/1260/)
 
-# HB 1260
+# HB 1260 - Work-limiting disability
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1260&Year=2023&Initiative=false)
 
 ## Revisions
@@ -10,7 +10,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
-* [Crosscut](/org/crosscut/) - [Homeless services could face cuts in WA's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/01/homeless-services-could-face-cuts-was-2023-legislative-session#:~:text=House%20Bill%201260)
+* 01/31/2023 [Crosscut](/org/crosscut/) - [Homeless services could face cuts in WA's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/01/homeless-services-could-face-cuts-was-2023-legislative-session#:~:text=House%20Bill%201260)
 * [Statewide Poverty Action Network](/org/statewide_poverty_action_network/) - [Bill Tracker – Statewide Poverty Action Network](https://povertyaction.org/bill-tracker/#:~:text=HB%201260)
 
 ## Meetings

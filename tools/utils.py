@@ -114,6 +114,8 @@ def get_db(readonly=False):
                     "FOREIGN KEY(canonical_entry) REFERENCES organizations(rowid)"
                 ")")
 
+    # CREATE TABLE web_articles(organization_rowid integer,bill_rowid integer,revision_rowid integer,date_posted timestamp,title text,url text,text_fragment text,UNIQUE(bill_rowid, url),UNIQUE(revision_rowid, url),FOREIGN KEY(organization_rowid) REFERENCES organizations(rowid),FOREIGN KEY(bill_rowid) REFERENCES bills(rowid),FOREIGN KEY(revision_rowid) REFERENCES revisions(rowid));
+
     # db.execute("DROP TABLE IF EXISTS lobbyist_employment")
     db.execute("CREATE TABLE IF NOT EXISTS lobbyist_employment("
                     "person_rowid integer,"

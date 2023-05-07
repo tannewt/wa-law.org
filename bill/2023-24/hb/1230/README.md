@@ -1,21 +1,21 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1230](/bill/2023-24/hb/1230/)
 
-# HB 1230
+# HB 1230 - School websites/drug info.
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1230&Year=2023&Initiative=false)
 
 ## Revisions
 * [Original Bill](1/)
 
 ## 📰 Articles
-* [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=HB%201230)
-* [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB%201230)
-* [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=HB%201230)
-* [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! January 26, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-january-26-2023/#:~:text=HB%201230)
-* [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! March 20, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-march-20-2023/#:~:text=HB%201230)
-* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=HB%201230)
-* [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=HB%201230)
-* [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=HB%201230)
-* [Washington St Pta](/org/washington_st_pta/) - [Senate Passes Preventing Gun Violence Legislation in Week 13 Report - WSPTA](https://www.wastatepta.org/senate-passes-preventing-gun-violence-legislation-in-week-13-report/#:~:text=HB%201230)
+* 04/10/2023 [Washington St Pta](/org/washington_st_pta/) - [Senate Passes Preventing Gun Violence Legislation in Week 13 Report - WSPTA](https://www.wastatepta.org/senate-passes-preventing-gun-violence-legislation-in-week-13-report/#:~:text=HB%201230)
+* 03/27/2023 [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=HB%201230)
+* 03/21/2023 [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! March 20, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-march-20-2023/#:~:text=HB%201230)
+* 03/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=HB%201230)
+* 02/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=HB%201230)
+* 01/30/2023 [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=HB%201230)
+* 01/26/2023 [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! January 26, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-january-26-2023/#:~:text=HB%201230)
+* 01/23/2023 [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB%201230)
+* 01/16/2023 [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=HB%201230)
 
 ## Meetings
 ### Mon 03/20 01:30 PM - Early Learning & K-12 Education (EDU): HB 1230 School websites/drug info.

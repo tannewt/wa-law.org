@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1028](/bill/2023-24/hb/1028/)
 
-# HB 1028
+# HB 1028 - Crime victims & witnesses
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1028&Year=2023&Initiative=false)
 
 ## Revisions
@@ -11,10 +11,10 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
-* [Crosscut](/org/crosscut/) - [WA bill would bring trauma-informed practices to sexual assault cases | Crosscut](https://crosscut.com/politics/2023/03/wa-bill-would-bring-trauma-informed-practices-sexual-assault-cases#:~:text=House%20Bill%201028)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/09/the-house-hot-sheet-for-week-1-of-the-2023-legislative-session/#:~:text=HB%201028)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB%201028)
-* [House Democrats](/org/house_democrats/) - [Governor signs Orwall bill to expand victim-centered, trauma-informed training for sexual assault investigations, adding requirement for prosecutors – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/05/01/governor-signs-orwall-bill-to-expand-victim-centered-trauma-informed-training-for-sexual-assault-investigations-adding-requirement-for-prosecutors/#:~:text=HB%201028)
+* 05/01/2023 [House Democrats](/org/house_democrats/) - [Governor signs Orwall bill to expand victim-centered, trauma-informed training for sexual assault investigations, adding requirement for prosecutors – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/05/01/governor-signs-orwall-bill-to-expand-victim-centered-trauma-informed-training-for-sexual-assault-investigations-adding-requirement-for-prosecutors/#:~:text=HB%201028)
+* 03/31/2023 [Crosscut](/org/crosscut/) - [WA bill would bring trauma-informed practices to sexual assault cases | Crosscut](https://crosscut.com/politics/2023/03/wa-bill-would-bring-trauma-informed-practices-sexual-assault-cases#:~:text=House%20Bill%201028)
+* 02/20/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB%201028)
+* 01/09/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/09/the-house-hot-sheet-for-week-1-of-the-2023-legislative-session/#:~:text=HB%201028)
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): 2SHB 1028 Crime victims & witnesses

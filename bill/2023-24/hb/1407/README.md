@@ -1,14 +1,14 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1407](/bill/2023-24/hb/1407/)
 
-# HB 1407
+# HB 1407 - Dev. disability/eligibility
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1407&Year=2023&Initiative=false)
 
 ## Revisions
 * [Original Bill](1/)
 
 ## 📰 Articles
-* [House Democrats](/org/house_democrats/) - [Taylor Bill Maintaining Eligibility for DD Services Passes Unanimously in the House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/28/taylor-bill-maintaining-eligibility-for-dd-services-passes-unanimously-in-the-house/#:~:text=House%20Bill%201407)
-* [House Democrats](/org/house_democrats/) - [Senate Passes Bill to Ensure Continuity of Developmental Disability Services for Children – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/12/senate-passes-bill-to-ensure-continuity-of-developmental-disability-services-for-children/#:~:text=House%20Bill%201407)
+* 04/12/2023 [House Democrats](/org/house_democrats/) - [Senate Passes Bill to Ensure Continuity of Developmental Disability Services for Children – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/12/senate-passes-bill-to-ensure-continuity-of-developmental-disability-services-for-children/#:~:text=House%20Bill%201407)
+* 02/28/2023 [House Democrats](/org/house_democrats/) - [Taylor Bill Maintaining Eligibility for DD Services Passes Unanimously in the House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/28/taylor-bill-maintaining-eligibility-for-dd-services-passes-unanimously-in-the-house/#:~:text=House%20Bill%201407)
 
 ## Meetings
 ### Tue 03/21 04:00 PM - Ways & Means (WM): HB 1407 Dev. disability/eligibility

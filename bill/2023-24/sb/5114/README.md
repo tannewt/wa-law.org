@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5114](/bill/2023-24/sb/5114/)
 
-# SB 5114
+# SB 5114 - Sex trafficking
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5114&Year=2023&Initiative=false)
 
 ## Revisions
@@ -9,9 +9,10 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
-* [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=Senate%20Bill%205114)
-* [The Seattle Times](/org/the_seattle_times/) - [WA cannot neglect sex trafficking victims | The Seattle Times](https://www.seattletimes.com/opinion/wa-cannot-neglect-sex-trafficking-victims/#:~:text=Senate%20Bill%205114)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/12/the-house-hot-sheet-for-week-10-of-the-2023-legislative-session/#:~:text=SB%205114)
+* 04/05/2023 [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=Senate%20Bill%205114)
+* 03/12/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/12/the-house-hot-sheet-for-week-10-of-the-2023-legislative-session/#:~:text=SB%205114)
+* 03/01/2023 [Senate Democrats](/org/senate_democrats/) - [Wilson bill to support sex trafficking survivors passes Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/01/wilson-bill-to-support-sex-trafficking-survivors-passes-senate/#:~:text=Senate%20Bill%205114)
+* 02/15/2023 [The Seattle Times](/org/the_seattle_times/) - [WA cannot neglect sex trafficking victims | The Seattle Times](https://www.seattletimes.com/opinion/wa-cannot-neglect-sex-trafficking-victims/#:~:text=Senate%20Bill%205114)
 
 ## Meetings
 ### Fri 03/31 01:30 PM - Appropriations (APP): SSB 5114 Sex trafficking

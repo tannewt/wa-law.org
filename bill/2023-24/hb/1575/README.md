@@ -1,16 +1,16 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1575](/bill/2023-24/hb/1575/)
 
-# HB 1575
+# HB 1575 - Cultural access programs/tax
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1575&Year=2023&Initiative=false)
 
 ## Revisions
 * [Original Bill](1/)
 
 ## 📰 Articles
-* [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=HB%201575)
-* [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=HB%201575)
-* [House Democrats](/org/house_democrats/) - [House Passes Reed Bill to Preserve Community Arts Programs  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/03/house-passes-reed-bill-to-preserve-community-arts-programs/#:~:text=House%20Bill%201575)
-* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=HB%201575)
+* 03/13/2023 [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=HB%201575)
+* 03/03/2023 [House Democrats](/org/house_democrats/) - [House Passes Reed Bill to Preserve Community Arts Programs  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/03/house-passes-reed-bill-to-preserve-community-arts-programs/#:~:text=House%20Bill%201575)
+* 02/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=HB%201575)
+* 02/13/2023 [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=HB%201575)
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): HB 1575 Cultural access programs/tax

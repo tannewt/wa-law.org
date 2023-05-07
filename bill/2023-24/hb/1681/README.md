@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1681](/bill/2023-24/hb/1681/)
 
-# HB 1681
+# HB 1681 - Problem gambling
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1681&Year=2023&Initiative=false)
 
 ## Revisions
@@ -9,7 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
-* [House Democrats](/org/house_democrats/) - [Stearns’ Bill to Fund Treatment for Problem Gambling Passes in the House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/01/stearns-bill-to-fund-treatment-for-problem-gambling-passes-in-the-house/#:~:text=House%20Bill%201681)
+* 03/01/2023 [House Democrats](/org/house_democrats/) - [Stearns’ Bill to Fund Treatment for Problem Gambling Passes in the House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/01/stearns-bill-to-fund-treatment-for-problem-gambling-passes-in-the-house/#:~:text=House%20Bill%201681)
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): 2SHB 1681 Problem gambling

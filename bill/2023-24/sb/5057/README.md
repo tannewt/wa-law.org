@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5057](/bill/2023-24/sb/5057/)
 
-# SB 5057
+# SB 5057 - Energy standards/commercial
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5057&Year=2023&Initiative=false)
 
 ## Revisions
@@ -8,8 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
-* [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=SB%205057)
-* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SSB%205057)
+* 02/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SSB%205057)
+* 01/23/2023 [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=SB%205057)
 
 ## Meetings
 ### Wed 02/22 01:30 PM - Ways & Means (WM): SSB 5057 Energy standards/commercial

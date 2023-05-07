@@ -1,13 +1,13 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1777](/bill/2023-24/hb/1777/)
 
-# HB 1777
+# HB 1777 - Energy contracting
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1777&Year=2023&Initiative=false)
 
 ## Revisions
 * [Original Bill](1/)
 
 ## 📰 Articles
-* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=HB%201777)
+* 02/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=HB%201777)
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): HB 1777 Energy contracting

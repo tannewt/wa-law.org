@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1580](/bill/2023-24/hb/1580/)
 
-# HB 1580
+# HB 1580 - Children in crisis
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1580&Year=2023&Initiative=false)
 
 ## Revisions
@@ -10,8 +10,9 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
-* [The Seattle Times](/org/the_seattle_times/) - [Lawmakers pass bill to change how WA cares for youth stuck in hospitals | The Seattle Times](https://www.seattletimes.com/seattle-news/mental-health/lawmakers-pass-bill-to-change-how-wa-cares-for-youth-stuck-in-hospitals/#:~:text=House%20Bill%201580)
-* [House Democrats](/org/house_democrats/) - [House Unanimously Passes Callan Bill to Support Youth ‘Stuck’ in Hospitals – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/03/house-passes-callan-bill-to-support-youth-stuck-in-hospitals/#:~:text=House%20Bill%201580)
+* 04/12/2023 [The Seattle Times](/org/the_seattle_times/) - [Lawmakers pass bill to change how WA cares for youth stuck in hospitals | The Seattle Times](https://www.seattletimes.com/seattle-news/mental-health/lawmakers-pass-bill-to-change-how-wa-cares-for-youth-stuck-in-hospitals/#:~:text=House%20Bill%201580)
+* 03/11/2023 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 10: Housing, reproductive freedom and support for kids - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/11/this-week-in-the-senate-week-10-housing-reproductive-freedom-and-support-for-kids/#:~:text=House%20Bill%201580)
+* 03/03/2023 [House Democrats](/org/house_democrats/) - [House Unanimously Passes Callan Bill to Support Youth ‘Stuck’ in Hospitals – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/03/house-passes-callan-bill-to-support-youth-stuck-in-hospitals/#:~:text=House%20Bill%201580)
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): 2SHB 1580 Children in crisis

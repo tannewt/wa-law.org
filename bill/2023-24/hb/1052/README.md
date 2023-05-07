@@ -1,13 +1,13 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1052](/bill/2023-24/hb/1052/)
 
-# HB 1052
+# HB 1052 - Nonprofit housing/tax ex.
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1052&Year=2023&Initiative=false)
 
 ## Revisions
 * [Original Bill](1/)
 
 ## 📰 Articles
-* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB%201052)
+* 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB%201052)
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): HB 1052 Nonprofit housing/tax ex.

@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1390](/bill/2023-24/hb/1390/)
 
-# HB 1390
+# HB 1390 - District energy systems
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1390&Year=2023&Initiative=false)
 
 ## Revisions
@@ -10,8 +10,9 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
-* [House Democrats](/org/house_democrats/) - [Ramel Bills to Improve Building Energy Systems Pass House of Representatives – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/04/ramel-bills-to-improve-building-energy-systems-pass-house-of-representatives/#:~:text=House%20Bill%201390)
-* [House Democrats](/org/house_democrats/) - [Governor Signs Bill Improving Building Energy Systems – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/05/05/governor-signs-bill-improving-building-energy-systems/#:~:text=House%20Bill%201390)
+* 05/05/2023 [House Democrats](/org/house_democrats/) - [Governor Signs Bill Improving Building Energy Systems – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/05/05/governor-signs-bill-improving-building-energy-systems/#:~:text=House%20Bill%201390)
+* 03/04/2023 [House Democrats](/org/house_democrats/) - [Ramel Bills to Improve Building Energy Systems Pass House of Representatives – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/04/ramel-bills-to-improve-building-energy-systems-pass-house-of-representatives/#:~:text=House%20Bill%201390)
+* 02/20/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead | February 20 - 24, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-20-24-2023/#:~:text=HB%201390)
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): 2SHB 1390 District energy systems

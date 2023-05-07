@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5078](/bill/2023-24/sb/5078/)
 
-# SB 5078
+# SB 5078 - Firearm industry duties
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5078&Year=2023&Initiative=false)
 
 ## Revisions
@@ -10,23 +10,24 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
-* [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205078)
-* [The Seattle Times](/org/the_seattle_times/) - [WA bans sale of AR-15s and other semi-automatic rifles, effective immediately | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-bans-sale-of-ar-15s-and-other-semiautomatic-rifles-effective-immediately/#:~:text=Senate%20Bill%205078)
-* [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers cite Nashville school shooting as they advance assault weapon ban, other gun restrictions | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-lawmakers-cite-nashville-school-shooting-as-they-advance-assault-weapon-ban-other-gun-restrictions/#:~:text=Senate%20Bill%205078)
-* [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=SSB%205078)
-* [MyNorthwest](/org/mynorthwest/) - [Significant gun legislation advances through WA Senate in tight vote - MyNorthwest.com](https://mynorthwest.com/3850532/gun-legislation-senate-28-21-vote/#:~:text=Senate%20Bill%205078)
-* [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Criminal Justice — Quaker Voice](https://www.quakervoicewa.org/criminal-justice/#:~:text=SB%205078)
-* [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=SB%205078)
-* [Crosscut](/org/crosscut/) - [Rifle ban among gun-control bills advancing in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/02/rifle-ban-among-gun-control-bills-advancing-wa-legislature#:~:text=Senate%20Bill%205078)
-* [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=Senate%20Bill%205078)
-* [Crosscut](/org/crosscut/) - [With assault weapons ban, Washington enters a new era of gun reform | Crosscut](https://crosscut.com/politics/2023/04/assault-weapons-ban-washington-enters-new-era-gun-reform#:~:text=Senate%20Bill%205078)
-* [Gorge News Center](/org/gorge_news_center/) - [Rifle ban scapegoats firearms, fails to address fundamental causes of violence](https://gorgenewscenter.com/2023/04/09/rifle-ban-scapegoats-firearms-fails-to-address-fundamental-causes-of-violence/#:~:text=Senate%20Bill%205078)
-* [House Democrats](/org/house_democrats/) - [Governor signs historic gun safety legislation into law – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/25/governor-signs-historic-gun-safety-legislation-into-law/#:~:text=SB%205078)
-* [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205078)
-* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SB%205078)
-* [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=SB%205078)
-* [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB%205078)
-* [Washington St Pta](/org/washington_st_pta/) - [Senate Passes Preventing Gun Violence Legislation in Week 13 Report - WSPTA](https://www.wastatepta.org/senate-passes-preventing-gun-violence-legislation-in-week-13-report/#:~:text=SSB%205078)
+* 04/27/2023 [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205078)
+* 04/27/2023 [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205078)
+* 04/27/2023 [Crosscut](/org/crosscut/) - [With assault weapons ban, Washington enters a new era of gun reform | Crosscut](https://crosscut.com/politics/2023/04/assault-weapons-ban-washington-enters-new-era-gun-reform#:~:text=Senate%20Bill%205078)
+* 04/26/2023 [The Seattle Times](/org/the_seattle_times/) - [WA bans sale of AR-15s and other semi-automatic rifles, effective immediately | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-bans-sale-of-ar-15s-and-other-semiautomatic-rifles-effective-immediately/#:~:text=Senate%20Bill%205078)
+* 04/25/2023 [House Democrats](/org/house_democrats/) - [Governor signs historic gun safety legislation into law – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/25/governor-signs-historic-gun-safety-legislation-into-law/#:~:text=SB%205078)
+* 04/10/2023 [Washington St Pta](/org/washington_st_pta/) - [Senate Passes Preventing Gun Violence Legislation in Week 13 Report - WSPTA](https://www.wastatepta.org/senate-passes-preventing-gun-violence-legislation-in-week-13-report/#:~:text=SSB%205078)
+* 04/09/2023 [Gorge News Center](/org/gorge_news_center/) - [Rifle ban scapegoats firearms, fails to address fundamental causes of violence](https://gorgenewscenter.com/2023/04/09/rifle-ban-scapegoats-firearms-fails-to-address-fundamental-causes-of-violence/#:~:text=Senate%20Bill%205078)
+* 04/02/2023 [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers cite Nashville school shooting as they advance assault weapon ban, other gun restrictions | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-lawmakers-cite-nashville-school-shooting-as-they-advance-assault-weapon-ban-other-gun-restrictions/#:~:text=Senate%20Bill%205078)
+* 03/27/2023 [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=SB%205078)
+* 03/13/2023 [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=SSB%205078)
+* 03/10/2023 [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=Senate%20Bill%205078)
+* 03/03/2023 [MyNorthwest](/org/mynorthwest/) - [Significant gun legislation advances through WA Senate in tight vote - MyNorthwest.com](https://mynorthwest.com/3850532/gun-legislation-senate-28-21-vote/#:~:text=Senate%20Bill%205078)
+* 02/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SB%205078)
+* 02/20/2023 [Crosscut](/org/crosscut/) - [Rifle ban among gun-control bills advancing in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/02/rifle-ban-among-gun-control-bills-advancing-wa-legislature#:~:text=Senate%20Bill%205078)
+* 01/30/2023 [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB%205078)
+* 01/16/2023 [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=SB%205078)
+* 01/16/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 2: Housing, Climate Change and MLK Day - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/13/this-week-in-the-senate-week-12-housing-climate-change-and-mlk-day/#:~:text=Senate%20Bill%205078)
+* 02/01/2019 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Criminal Justice — Quaker Voice](https://www.quakervoicewa.org/criminal-justice/#:~:text=SB%205078)
 
 ## Meetings
 ### Thu 03/30 01:30 PM - Appropriations (APP): SSB 5078 Firearm industry duties

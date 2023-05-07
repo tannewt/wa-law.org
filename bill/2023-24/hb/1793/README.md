@@ -1,10 +1,13 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1793](/bill/2023-24/hb/1793/)
 
-# HB 1793
+# HB 1793 - Wireless devices tax
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1793&Year=2023&Initiative=false)
 
 ## Revisions
 * [Original Bill](1/)
+
+## 📰 Articles
+* 02/20/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead | February 20 - 24, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-20-24-2023/#:~:text=HB%201793)
 
 ## Meetings
 ### Wed 02/22 08:00 AM - Finance (FIN): HB 1793 Wireless devices tax

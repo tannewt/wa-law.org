@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5269](/bill/2023-24/sb/5269/)
 
-# SB 5269
+# SB 5269 - Manufacturing
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5269&Year=2023&Initiative=false)
 
 ## Revisions
@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+
+## 📰 Articles
+* 03/11/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 13 - 17, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-13-17-2023/#:~:text=SB%205269)
 
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): 2SSB 5269 Manufacturing

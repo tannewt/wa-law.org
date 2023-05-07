@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1834](/bill/2023-24/hb/1834/)
 
-# HB 1834
+# HB 1834 - Reconciliation returns
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1834&Year=2023&Initiative=false)
 
 ## Revisions

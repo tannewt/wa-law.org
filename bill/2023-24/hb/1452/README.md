@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1452](/bill/2023-24/hb/1452/)
 
-# HB 1452
+# HB 1452 - Medical reserve corps
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1452&Year=2023&Initiative=false)
 
 ## Revisions
@@ -11,8 +11,8 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
-* [House Democrats](/org/house_democrats/) - [Timmons’ Bill to Establish a State Emergency Medical Reserve Corps Passes the House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/01/timmons-bill-to-establish-a-state-emergency-medical-reserve-corps-passes-the-house/#:~:text=HB%201452)
-* [House Democrats](/org/house_democrats/) - [Timmons’ bill to establish a state emergency medical reserve corps clears Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/12/timmons-bill-to-establish-a-state-emergency-medical-reserve-corps-clears-senate/#:~:text=HB%201452)
+* 04/12/2023 [House Democrats](/org/house_democrats/) - [Timmons’ bill to establish a state emergency medical reserve corps clears Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/12/timmons-bill-to-establish-a-state-emergency-medical-reserve-corps-clears-senate/#:~:text=HB%201452)
+* 03/01/2023 [House Democrats](/org/house_democrats/) - [Timmons’ Bill to Establish a State Emergency Medical Reserve Corps Passes the House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/01/timmons-bill-to-establish-a-state-emergency-medical-reserve-corps-passes-the-house/#:~:text=HB%201452)
 
 ## Meetings
 ### Thu 03/23 04:00 PM - Ways & Means (WM): 2SHB 1452 Medical reserve corps

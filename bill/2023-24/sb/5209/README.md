@@ -1,10 +1,14 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5209](/bill/2023-24/sb/5209/)
 
-# SB 5209
+# SB 5209 - Universal civic duty voting
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5209&Year=2023&Initiative=false)
 
 ## Revisions
 * [Original Bill](1/)
+
+## 📰 Articles
+* 02/08/2023 [Senate Republicans](/org/senate_republicans/) - [Democracy on the ballot: SB 5082 & SB 5209 - Senate Republican Caucus](https://src.wastateleg.org/blog/democracy-ballot-sb-5082-sb-5209/#:~:text=Senate%20Bill%205209)
+* 01/29/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 4: Public safety takes center stage - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/29/this-week-in-the-senate-week-4-public-safety-takes-center-stage/#:~:text=Senate%20Bill%205209)
 
 ## Meetings
 ### Tue 01/31 01:30 PM - State Government & Elections (SGE): SB 5209 Universal civic duty voting

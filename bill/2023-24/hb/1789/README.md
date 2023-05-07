@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1789](/bill/2023-24/hb/1789/)
 
-# HB 1789
+# HB 1789 - Ecosystem services
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1789&Year=2023&Initiative=false)
 
 ## Revisions
@@ -9,15 +9,16 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
-* [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=HB%201789)
-* [The Seattle Times](/org/the_seattle_times/) - [DNR wants in on WA’s emerging carbon-credit market | The Seattle Times](https://www.seattletimes.com/seattle-news/environment/was-dnr-wants-in-on-emerging-carbon-market-to-sell-credits-instead-of-timber/#:~:text=House%20Bill%201789)
+* 02/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB%201789)
+* 02/14/2023 [KUOW](/org/kuow/) - [KUOW - Washington state has a new carbon credit market. What does that mean?](https://www.kuow.org/stories/washington-state-has-a-new-carbon-credit-market-what-does-that-mean#:~:text=House%20Bill%201789)
+* 02/13/2023 [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=HB%201789)
+* 02/09/2023 [The Seattle Times](/org/the_seattle_times/) - [DNR wants in on WA’s emerging carbon-credit market | The Seattle Times](https://www.seattletimes.com/seattle-news/environment/was-dnr-wants-in-on-emerging-carbon-market-to-sell-credits-instead-of-timber/#:~:text=House%20Bill%201789)
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [Carbon SB 5688 - HB 1789 | WA - DNR](https://www.dnr.wa.gov/CarbonBill#:~:text=HB%201789)
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [Legislative Priorities | WA - DNR](https://www.dnr.wa.gov/about/legislative#:~:text=HB%201789)
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [Commissioner Franz Celebrates House Passage of Carbon Credit Bill | WA - DNR](https://www.dnr.wa.gov/news/commissioner-franz-celebrates-house-passage-carbon-credit-bill#:~:text=House%20Bill%201789)
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [Commissioner Franz Urges House to Pass Carbon Credit Bill | WA - DNR](https://www.dnr.wa.gov/news/commissioner-franz-urges-house-pass-carbon-credit-bill#:~:text=House%20Bill%201789)
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [State Looks to Seize Opportunity to Cash in on Carbon for Schools and Communities | WA - DNR](https://www.dnr.wa.gov/news/state-looks-seize-opportunity-cash-carbon-schools-and-communities#:~:text=House%20Bill%201789)
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [State Should Seize Opportunity to Add Revenue from Carbon Credits, Commissioner Tells Senate | WA - DNR](https://www.dnr.wa.gov/news/state-should-seize-opportunity-add-revenue-carbon-credits-commissioner-tells-senate#:~:text=House%20Bill%201789)
-* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB%201789)
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): ESHB 1789 Ecosystem services

@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1019](/bill/2023-24/hb/1019/)
 
-# HB 1019
+# HB 1019 - Pesticide advisory board
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1019&Year=2023&Initiative=false)
 
 ## Revisions
@@ -10,7 +10,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
-* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1019)
+* 05/02/2023 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1019)
 
 ## Meetings
 ### Thu 03/23 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): ESHB 1019 Pesticide advisory board

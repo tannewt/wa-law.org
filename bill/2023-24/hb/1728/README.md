@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1728](/bill/2023-24/hb/1728/)
 
-# HB 1728
+# HB 1728 - Statewide resiliency program
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1728&Year=2023&Initiative=false)
 
 ## Revisions
@@ -11,7 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
-* [House Democrats](/org/house_democrats/) - [House Passes Donaghy Bill to Improve Statewide Resilience – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/04/house-passes-donaghy-bill-to-improve-statewide-resilience/#:~:text=House%20Bill%201728)
+* 03/04/2023 [House Democrats](/org/house_democrats/) - [House Passes Donaghy Bill to Improve Statewide Resilience – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/04/house-passes-donaghy-bill-to-improve-statewide-resilience/#:~:text=House%20Bill%201728)
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): 2SHB 1728 Statewide resiliency program

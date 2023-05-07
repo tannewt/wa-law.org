@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1167](/bill/2023-24/hb/1167/)
 
-# HB 1167
+# HB 1167 - Residential housing
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1167&Year=2023&Initiative=false)
 
 ## Revisions
@@ -10,9 +10,9 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
-* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB%201167)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB%201167)
-* [House Democrats](/org/house_democrats/) - [House unanimously passes Duerr bill to expand housing options – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/06/house-unanimously-passes-duerr-bill-to-expand-housing-options/#:~:text=House%20Bill%201167)
+* 03/06/2023 [House Democrats](/org/house_democrats/) - [House unanimously passes Duerr bill to expand housing options – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/06/house-unanimously-passes-duerr-bill-to-expand-housing-options/#:~:text=House%20Bill%201167)
+* 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB%201167)
+* 01/29/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB%201167)
 
 ## Meetings
 ### Thu 03/23 04:00 PM - Ways & Means (WM): E2SHB 1167 Residential housing

@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5454](/bill/2023-24/sb/5454/)
 
-# SB 5454
+# SB 5454 - RN PTSD/industrial insurance
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5454&Year=2023&Initiative=false)
 
 ## Revisions
@@ -10,7 +10,8 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
-* [The Seattle Times](/org/the_seattle_times/) - [New bill would help Washington nurses get treatment for PTSD | The Seattle Times](https://www.seattletimes.com/seattle-news/mental-health/new-proposal-would-help-washington-nurses-get-treatment-for-ptsd/#:~:text=Senate%20Bill%205454)
+* 03/14/2023 [Senate Democrats](/org/senate_democrats/) - [Cleveland bill looks to recognize nurses’ pandemic trauma as industrial injury - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/06/cleveland-bill-looks-to-recognize-nurses-pandemic-trauma-as-industrial-injury/#:~:text=Senate%20Bill%205454)
+* 03/06/2023 [The Seattle Times](/org/the_seattle_times/) - [New bill would help Washington nurses get treatment for PTSD | The Seattle Times](https://www.seattletimes.com/seattle-news/mental-health/new-proposal-would-help-washington-nurses-get-treatment-for-ptsd/#:~:text=Senate%20Bill%205454)
 
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): 2SSB 5454 RN PTSD/industrial insurance

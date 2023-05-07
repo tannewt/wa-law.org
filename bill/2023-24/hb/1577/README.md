@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1577](/bill/2023-24/hb/1577/)
 
-# HB 1577
+# HB 1577 - Municipal officers/contracts
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1577&Year=2023&Initiative=false)
 
 ## Revisions
@@ -10,7 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
-* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1577)
+* 05/02/2023 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1577)
 
 ## Meetings
 ### Tue 03/14 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SHB 1577 Municipal officers/contracts

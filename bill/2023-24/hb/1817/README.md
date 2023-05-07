@@ -1,13 +1,13 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1817](/bill/2023-24/hb/1817/)
 
-# HB 1817
+# HB 1817 - Housing gap voucher pilot
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1817&Year=2023&Initiative=false)
 
 ## Revisions
 * [Original Bill](1/)
 
 ## 📰 Articles
-* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB%201817)
+* 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB%201817)
 
 ## Meetings
 ### Tue 02/14 04:00 PM - Housing (HOUS): HB 1817 Housing gap voucher pilot

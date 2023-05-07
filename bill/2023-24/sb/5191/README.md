@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5191](/bill/2023-24/sb/5191/)
 
-# SB 5191
+# SB 5191 - Real estate agency
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5191&Year=2023&Initiative=false)
 
 ## Revisions

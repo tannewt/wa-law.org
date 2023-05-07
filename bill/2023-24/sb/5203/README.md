@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5203](/bill/2023-24/sb/5203/)
 
-# SB 5203
+# SB 5203 - Climate change/planning
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5203&Year=2023&Initiative=false)
 
 ## Revisions
@@ -8,10 +8,12 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
-* [The Urbanist](/org/the_urbanist/) - [What Groups Around Washington Are Asking from Olympia | The Urbanist](https://www.theurbanist.org/2023/02/22/waleg-week-7-priorities/#:~:text=SB%205203)
-* [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SB%205203)
-* [House Democrats](/org/house_democrats/) - [Legislation introduced to address climate change in state and local planning – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/11/legislation-introduced-to-address-climate-change-in-state-and-local-planning/#:~:text=SB%205203)
-* [House Democrats](/org/house_democrats/) - [Planning for a better future in Washington state – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/12/planning-for-a-better-future-in-washington-state/#:~:text=Senate%20Bill%205203)
+* 02/23/2023 [The Urbanist](/org/the_urbanist/) - [What Groups Around Washington Are Asking from Olympia | The Urbanist](https://www.theurbanist.org/2023/02/22/waleg-week-7-priorities/#:~:text=SB%205203)
+* 02/06/2023 [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SB%205203)
+* 01/16/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 2: Housing, Climate Change and MLK Day - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/13/this-week-in-the-senate-week-12-housing-climate-change-and-mlk-day/#:~:text=Senate%20Bill%205203)
+* 01/12/2023 [Senate Democrats](/org/senate_democrats/) - [Legislation introduced to address climate change in state and local planning - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/11/legislation-introduced-to-address-climate-change-in-state-and-local-planning/#:~:text=SB%205203)
+* 01/12/2023 [House Democrats](/org/house_democrats/) - [Planning for a better future in Washington state – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/12/planning-for-a-better-future-in-washington-state/#:~:text=Senate%20Bill%205203)
+* 01/11/2023 [House Democrats](/org/house_democrats/) - [Legislation introduced to address climate change in state and local planning – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/11/legislation-introduced-to-address-climate-change-in-state-and-local-planning/#:~:text=SB%205203)
 
 ## Meetings
 ### Tue 01/17 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5203 Climate change/planning

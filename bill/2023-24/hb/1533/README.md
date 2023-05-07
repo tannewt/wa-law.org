@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1533](/bill/2023-24/hb/1533/)
 
-# HB 1533
+# HB 1533 - PRA/employee information
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1533&Year=2023&Initiative=false)
 
 ## Revisions
@@ -10,11 +10,11 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
-* [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers advance bill to block some public employee info from view | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-lawmakers-advance-bill-to-block-some-public-employee-info-from-view/#:~:text=House%20Bill%201533)
-* [The Seattle Times](/org/the_seattle_times/) - [Tired of public-records shenanigans? Contact state senators | The Seattle Times](https://www.seattletimes.com/opinion/tired-of-public-records-shenanigans-contact-state-senators/#:~:text=HB%201533)
-* [The Seattle Times](/org/the_seattle_times/) - [WA Legislature’s secrecy push undermines accountability, trust and civic knowledge | The Seattle Times](https://www.seattletimes.com/opinion/wa-legislatures-secrecy-push-undermines-accountability-trust-and-civic-knowledge/#:~:text=House%20Bill%201533)
-* [The Seattle Times](/org/the_seattle_times/) - [Who your child’s teacher is shouldn’t be a secret | The Seattle Times](https://www.seattletimes.com/opinion/editorials/who-your-childs-teacher-is-shouldnt-be-a-secret/#:~:text=HB%201533)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/05/the-house-hot-sheet-for-week-5-of-the-2023-legislative-session/#:~:text=HB%201533)
+* 03/29/2023 [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers advance bill to block some public employee info from view | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-lawmakers-advance-bill-to-block-some-public-employee-info-from-view/#:~:text=House%20Bill%201533)
+* 03/08/2023 [The Seattle Times](/org/the_seattle_times/) - [Tired of public-records shenanigans? Contact state senators | The Seattle Times](https://www.seattletimes.com/opinion/tired-of-public-records-shenanigans-contact-state-senators/#:~:text=HB%201533)
+* 03/03/2023 [The Seattle Times](/org/the_seattle_times/) - [WA Legislature’s secrecy push undermines accountability, trust and civic knowledge | The Seattle Times](https://www.seattletimes.com/opinion/wa-legislatures-secrecy-push-undermines-accountability-trust-and-civic-knowledge/#:~:text=House%20Bill%201533)
+* 02/23/2023 [The Seattle Times](/org/the_seattle_times/) - [Who your child’s teacher is shouldn’t be a secret | The Seattle Times](https://www.seattletimes.com/opinion/editorials/who-your-childs-teacher-is-shouldnt-be-a-secret/#:~:text=HB%201533)
+* 02/05/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/05/the-house-hot-sheet-for-week-5-of-the-2023-legislative-session/#:~:text=HB%201533)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [State House votes to add exemptions to the Public Records Act | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/25/state-house-votes-to-add-exemptions-to-the-public-/#:~:text=House%20Bill%201533)
 
 ## Meetings

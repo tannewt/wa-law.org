@@ -1,13 +1,14 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5024](/bill/2023-24/sb/5024/)
 
-# SB 5024
+# SB 5024 - K-12 education/parent rights
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5024&Year=2023&Initiative=false)
 
 ## Revisions
 * [Original Bill](1/)
 
 ## 📰 Articles
-* [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB%205024)
+* 01/30/2023 [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB%205024)
+* [Senate Republicans](/org/senate_republicans/) - [REBOOT EDUCATION - Senate Republican Caucus](https://src.wastateleg.org/hot-topics/education-choice-parental-rights/#:~:text=SB%205024%20(Dozier):)
 
 ## Meetings
 ### Wed 02/01 01:30 PM - Early Learning & K-12 Education (EDU): SB 5024 K-12 education/parent rights

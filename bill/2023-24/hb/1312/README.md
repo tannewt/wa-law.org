@@ -1,13 +1,13 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1312](/bill/2023-24/hb/1312/)
 
-# HB 1312
+# HB 1312 - Jury service
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1312&Year=2023&Initiative=false)
 
 ## Revisions
 * [Original Bill](1/)
 
 ## 📰 Articles
-* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1312)
+* 05/02/2023 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1312)
 
 ## Meetings
 ### Wed 03/08 08:00 AM - Law & Justice (LAW): HB 1312 Jury service

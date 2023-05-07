@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1453](/bill/2023-24/hb/1453/)
 
-# HB 1453
+# HB 1453 - Medical cannabis/tax
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1453&Year=2023&Initiative=false)
 
 ## Revisions
@@ -8,7 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
-* [Crosscut](/org/crosscut/) - [How federal weed legalization would impact Washington state | Crosscut](https://crosscut.com/politics/2023/03/how-federal-weed-legalization-would-impact-washington-state#:~:text=House%20Bill%201453)
+* 03/03/2023 [Crosscut](/org/crosscut/) - [How federal weed legalization would impact Washington state | Crosscut](https://crosscut.com/politics/2023/03/how-federal-weed-legalization-would-impact-washington-state#:~:text=House%20Bill%201453)
 
 ## Meetings
 ### Mon 02/20 08:00 AM - Finance (FIN): HB 1453 Medical cannabis/tax

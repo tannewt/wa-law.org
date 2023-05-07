@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5576](/bill/2023-24/sb/5576/)
 
-# SB 5576
+# SB 5576 - Sexual assault procedures
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5576&Year=2023&Initiative=false)
 
 ## Revisions
@@ -9,7 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/12/the-house-hot-sheet-for-week-10-of-the-2023-legislative-session/#:~:text=SB%205576)
+* 03/12/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/12/the-house-hot-sheet-for-week-10-of-the-2023-legislative-session/#:~:text=SB%205576)
 
 ## Meetings
 ### Tue 03/14 04:00 PM - Community Safety, Justice, & Reentry (CSJR): ESSB 5576 Sexual assault procedures

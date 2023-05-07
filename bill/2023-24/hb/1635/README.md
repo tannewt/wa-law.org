@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1635](/bill/2023-24/hb/1635/)
 
-# HB 1635
+# HB 1635 - Police dogs/liability
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1635&Year=2023&Initiative=false)
 
 ## Revisions

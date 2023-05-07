@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1406](/bill/2023-24/hb/1406/)
 
-# HB 1406
+# HB 1406 - Youth seeking housing assist
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1406&Year=2023&Initiative=false)
 
 ## Revisions
@@ -10,8 +10,9 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
-* [House Democrats](/org/house_democrats/) - [Freshman Legislator Julio Cortes Passes Three Bills to the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/03/freshman-legislator-julio-cortes-passes-three-bills-to-the-senate/#:~:text=House%20Bill%201406)
-* [House Democrats](/org/house_democrats/) - [Rep. Cortes Passes Bills to Governor on Homelessness, Police Benefits, Affordable Housing & Statewide Travel – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/19/rep-cortes-passes-bills-to-governor-on-homelessness-police-benefits-affordable-housing-statewide-travel/#:~:text=House%20Bill%201406)
+* 04/19/2023 [House Democrats](/org/house_democrats/) - [Rep. Cortes Passes Bills to Governor on Homelessness, Police Benefits, Affordable Housing & Statewide Travel – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/19/rep-cortes-passes-bills-to-governor-on-homelessness-police-benefits-affordable-housing-statewide-travel/#:~:text=House%20Bill%201406)
+* 03/11/2023 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 10: Housing, reproductive freedom and support for kids - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/11/this-week-in-the-senate-week-10-housing-reproductive-freedom-and-support-for-kids/#:~:text=House%20Bill%201406)
+* 03/03/2023 [House Democrats](/org/house_democrats/) - [Freshman Legislator Julio Cortes Passes Three Bills to the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/03/freshman-legislator-julio-cortes-passes-three-bills-to-the-senate/#:~:text=House%20Bill%201406)
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): SHB 1406 Youth seeking housing assist

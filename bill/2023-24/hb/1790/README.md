@@ -1,13 +1,13 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1790](/bill/2023-24/hb/1790/)
 
-# HB 1790
+# HB 1790 - Cannabis social equity
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1790&Year=2023&Initiative=false)
 
 ## Revisions
 * [Original Bill](1/)
 
 ## 📰 Articles
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/13/the-house-hot-sheet-for-week-6-of-the-2023-legislative-session/#:~:text=HB%201790)
+* 02/13/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/13/the-house-hot-sheet-for-week-6-of-the-2023-legislative-session/#:~:text=HB%201790)
 
 ## Meetings
 ### Thu 02/16 08:00 AM - Regulated Substances & Gaming (RSG): HB 1790 Cannabis social equity

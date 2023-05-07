@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1720](/bill/2023-24/hb/1720/)
 
-# HB 1720
+# HB 1720 - Riparian grant program
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1720&Year=2023&Initiative=false)
 
 ## Revisions
@@ -8,9 +8,10 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
-* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201720)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/13/the-house-hot-sheet-for-week-6-of-the-2023-legislative-session/#:~:text=HB%201720)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB%201720)
+* 05/01/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201720)
+* 02/20/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB%201720)
+* 02/13/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/13/the-house-hot-sheet-for-week-6-of-the-2023-legislative-session/#:~:text=HB%201720)
+* 02/11/2023 [House Republicans](/org/house_republicans/) - [Helping students recover from learning loss | Washington State House Republicans](https://houserepublicans.wa.gov/current/helping-students-recover-from-learning-loss/#:~:text=House%20Bill%201720)
 
 ## Meetings
 ### Mon 02/20 08:00 AM - Capital Budget (CB): SHB 1720 Riparian grant program

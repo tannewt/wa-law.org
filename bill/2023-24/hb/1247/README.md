@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1247](/bill/2023-24/hb/1247/)
 
-# HB 1247
+# HB 1247 - Music therapists
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1247&Year=2023&Initiative=false)
 
 ## Revisions
@@ -10,8 +10,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
-* [The Seattle Times](/org/the_seattle_times/) - [Music therapy heals: License its practitioners in WA | The Seattle Times](https://www.seattletimes.com/opinion/music-therapy-heals-license-its-practitioners-in-wa/#:~:text=HB%201247)
-* [House Democrats](/org/house_democrats/) - [Reed Bill to License Music Therapists Passes House  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/27/reed-bill-to-license-music-therapists-passes-house/#:~:text=House%20Bill%201247)
+* 02/27/2023 [House Democrats](/org/house_democrats/) - [Reed Bill to License Music Therapists Passes House  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/27/reed-bill-to-license-music-therapists-passes-house/#:~:text=House%20Bill%201247)
+* 01/11/2023 [The Seattle Times](/org/the_seattle_times/) - [Music therapy heals: License its practitioners in WA | The Seattle Times](https://www.seattletimes.com/opinion/music-therapy-heals-license-its-practitioners-in-wa/#:~:text=HB%201247)
 
 ## Meetings
 ### Thu 03/09 10:30 AM - Health & Long Term Care (HLTC): SHB 1247 Music therapists

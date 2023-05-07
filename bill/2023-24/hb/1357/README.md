@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1357](/bill/2023-24/hb/1357/)
 
-# HB 1357
+# HB 1357 - Prior authorization/health
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1357&Year=2023&Initiative=false)
 
 ## Revisions
@@ -11,7 +11,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
-* [House Democrats](/org/house_democrats/) - [Simmons bill to improve patient access to care passes Senate unanimously – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/12/simmons-bill-to-improve-patient-access-to-care-passes-senate-unanimously/#:~:text=House%20Bill%201357)
+* 04/12/2023 [House Democrats](/org/house_democrats/) - [Simmons bill to improve patient access to care passes Senate unanimously – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/12/simmons-bill-to-improve-patient-access-to-care-passes-senate-unanimously/#:~:text=House%20Bill%201357)
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): E2SHB 1357 Prior authorization/health

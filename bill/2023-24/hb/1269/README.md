@@ -1,13 +1,13 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1269](/bill/2023-24/hb/1269/)
 
-# HB 1269
+# HB 1269 - Rx drug affordability board
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1269&Year=2023&Initiative=false)
 
 ## Revisions
 * [Original Bill](1/)
 
 ## 📰 Articles
-* [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/research/2023-legislative-agenda/#:~:text=1269)
+* 12/15/2022 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/research/2023-legislative-agenda/#:~:text=1269)
 
 ## Meetings
 ### Wed 02/01 01:30 PM - Health Care & Wellness (HCW): HB 1269 Rx drug affordability board

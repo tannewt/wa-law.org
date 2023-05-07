@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1466](/bill/2023-24/hb/1466/)
 
-# HB 1466
+# HB 1466 - Dental auxiliaries
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1466&Year=2023&Initiative=false)
 
 ## Revisions
@@ -11,7 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
-* [House Democrats](/org/house_democrats/) - [Riccelli Dental Health Care Bills Pass House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/07/riccelli-dental-health-care-bills-pass-house/#:~:text=HB%201466)
+* 03/07/2023 [House Democrats](/org/house_democrats/) - [Riccelli Dental Health Care Bills Pass House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/07/riccelli-dental-health-care-bills-pass-house/#:~:text=HB%201466)
 
 ## Meetings
 ### Tue 03/21 08:00 AM - Health & Long Term Care (HLTC): ESHB 1466 Dental auxiliaries

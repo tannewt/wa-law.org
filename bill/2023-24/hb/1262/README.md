@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1262](/bill/2023-24/hb/1262/)
 
-# HB 1262
+# HB 1262 - Lump sum reporting system
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1262&Year=2023&Initiative=false)
 
 ## Revisions

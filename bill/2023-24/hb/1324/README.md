@@ -1,17 +1,17 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1324](/bill/2023-24/hb/1324/)
 
-# HB 1324
+# HB 1324 - Prior juvenile offenses
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1324&Year=2023&Initiative=false)
 
 ## Revisions
 * [Original Bill](1/)
 
 ## 📰 Articles
-* [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | Southeast Seattle Schools Launch Fundraiser; Local Authors Featured in Short Story Dispenser | South Seattle Emerald](https://southseattleemerald.com/2023/03/08/news-gleams-southeast-seattle-schools-launch-fundraiser-local-authors-featured-in-short-story-dispenser/#:~:text=HB-1324)
-* [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Our legislative priorities for 2023 | ACLU of Washington](http://www.aclu-wa.org/pages/2023-legislative-agenda#:~:text=HB%201324)
+* 04/18/2023 [Crosscut](/org/crosscut/) - [WA may end mandatory sentencing points based on juvenile convictions | Crosscut](https://crosscut.com/politics/2023/04/wa-may-end-mandatory-sentencing-points-based-juvenile-convictions#:~:text=House%20Bill%201324)
+* 04/07/2023 [KUOW](/org/kuow/) - [KUOW - Washington lawmakers debate who benefits from juvenile sentencing reforms](https://www.kuow.org/stories/lawmakers-debate-who-gets-to-benefit-from-juvenile-sentencing-reforms#:~:text=HB%201324)
+* 03/09/2023 [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | Southeast Seattle Schools Launch Fundraiser; Local Authors Featured in Short Story Dispenser | South Seattle Emerald](https://southseattleemerald.com/2023/03/08/news-gleams-southeast-seattle-schools-launch-fundraiser-local-authors-featured-in-short-story-dispenser/#:~:text=HB-1324)
+* 02/09/2023 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Our legislative priorities for 2023 | ACLU of Washington](http://www.aclu-wa.org/pages/2023-legislative-agenda#:~:text=HB%201324)
 * [Crosscut](/org/crosscut/) - [WA may end mandatory sentencing points based on juvenile convictions | Crosscut](https://crosscut.com/politics/2023/04/wa-ends-mandatory-sentencing-points-based-juvenile-convictions#:~:text=House%20Bill%201324)
-* [Crosscut](/org/crosscut/) - [WA may end mandatory sentencing points based on juvenile convictions | Crosscut](https://crosscut.com/politics/2023/04/wa-may-end-mandatory-sentencing-points-based-juvenile-convictions#:~:text=House%20Bill%201324)
-* [KUOW](/org/kuow/) - [KUOW - Washington lawmakers debate who benefits from juvenile sentencing reforms](https://www.kuow.org/stories/lawmakers-debate-who-gets-to-benefit-from-juvenile-sentencing-reforms#:~:text=HB%201324)
 
 ## Meetings
 ### Mon 03/27 10:30 AM - Law & Justice (LAW): EHB 1324 Prior juvenile offenses

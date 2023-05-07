@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5531](/bill/2023-24/sb/5531/)
 
-# SB 5531
+# SB 5531 - Milk product haulers
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5531&Year=2023&Initiative=false)
 
 ## Revisions

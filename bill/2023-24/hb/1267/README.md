@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1267](/bill/2023-24/hb/1267/)
 
-# HB 1267
+# HB 1267 - Rural public facilities/tax
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1267&Year=2023&Initiative=false)
 
 ## Revisions

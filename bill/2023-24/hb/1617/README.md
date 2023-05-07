@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1617](/bill/2023-24/hb/1617/)
 
-# HB 1617
+# HB 1617 - Universal services program
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1617&Year=2023&Initiative=false)
 
 ## Revisions

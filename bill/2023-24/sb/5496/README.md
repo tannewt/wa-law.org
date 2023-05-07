@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5496](/bill/2023-24/sb/5496/)
 
-# SB 5496
+# SB 5496 - Covenant homeownership prg.
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5496&Year=2023&Initiative=false)
 
 ## Revisions
@@ -8,7 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
-* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=SB%205496)
+* 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=SB%205496)
+* 02/05/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 5: Addressing addiction, fair housing and support for nurses - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/02/05/this-week-in-the-senate-week-5-addressing-addiction-fair-housing-and-support-for-nurses/#:~:text=Senate%20Bill%205496)
 
 ## Meetings
 ### Wed 02/08 01:30 PM - Housing (HSG): SB 5496 Covenant homeownership prg.

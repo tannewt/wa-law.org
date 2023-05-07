@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1222](/bill/2023-24/hb/1222/)
 
-# HB 1222
+# HB 1222 - Hearing instruments coverage
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1222&Year=2023&Initiative=false)
 
 ## Revisions
@@ -10,7 +10,8 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
-* [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Orwall’s insurance coverage for hearing aids passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/28/legislative-news-orwalls-insurance-coverage-for-hearing-aids-passes-house/#:~:text=House%20Bill%201222)
+* 03/11/2023 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 10: Housing, reproductive freedom and support for kids - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/11/this-week-in-the-senate-week-10-housing-reproductive-freedom-and-support-for-kids/#:~:text=House%20Bill%201222)
+* 02/28/2023 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Orwall’s insurance coverage for hearing aids passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/28/legislative-news-orwalls-insurance-coverage-for-hearing-aids-passes-house/#:~:text=House%20Bill%201222)
 
 ## Meetings
 ### Tue 03/14 08:00 AM - Health & Long Term Care (HLTC): ESHB 1222 Hearing instruments coverage

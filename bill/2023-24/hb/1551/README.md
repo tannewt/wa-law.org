@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1551](/bill/2023-24/hb/1551/)
 
-# HB 1551
+# HB 1551 - Lead in cookware
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1551&Year=2023&Initiative=false)
 
 ## Revisions

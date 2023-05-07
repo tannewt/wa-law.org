@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5477](/bill/2023-24/sb/5477/)
 
-# SB 5477
+# SB 5477 - Murdered indigenous women
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5477&Year=2023&Initiative=false)
 
 ## Revisions
@@ -9,7 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
-* [The Seattle Times](/org/the_seattle_times/) - [WA legislators work further on issue of missing and murdered Indigenous women | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/bills-to-create-solutions-to-missing-and-murdered-indigenous-women/#:~:text=Senate%20Bill%205477)
+* 01/24/2023 [The Seattle Times](/org/the_seattle_times/) - [WA legislators work further on issue of missing and murdered Indigenous women | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/bills-to-create-solutions-to-missing-and-murdered-indigenous-women/#:~:text=Senate%20Bill%205477)
 
 ## Meetings
 ### Mon 03/13 01:30 PM - Community Safety, Justice, & Reentry (CSJR): 2SSB 5477 Murdered indigenous women

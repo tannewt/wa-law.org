@@ -1,14 +1,18 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1402](/bill/2023-24/hb/1402/)
 
-# HB 1402
+# HB 1402 - Urban growth boundaries
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1402&Year=2023&Initiative=false)
 
 ## Revisions
 * [Original Bill](1/)
 
 ## 📰 Articles
-* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201402)
-* [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201402)
+* 05/01/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201402)
+* 04/18/2023 [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201402)
+* 03/15/2023 [House Republicans](/org/house_republicans/) - [Fixing our housing crisis | Washington State House Republicans](https://houserepublicans.wa.gov/fixing-housing-crisis/#:~:text=House%20bill%201402)
+* 02/26/2023 [House Republicans](/org/house_republicans/) - [Expand development boundaries | Washington State House Republicans](https://houserepublicans.wa.gov/expand-development-boundaries/#:~:text=House%20bill%201402)
+* 01/27/2023 [House Republicans](/org/house_republicans/) - [Bills passed by Democrats that have contributed to our housing crisis | Washington State House Republicans](https://houserepublicans.wa.gov/housing-crisis/#:~:text=House%20Bill%201402)
+* 01/21/2023 [House Republicans](/org/house_republicans/) - [Fixing our state's housing crisis | Washington State House Republicans](https://houserepublicans.wa.gov/current/fixing-our-states-housing-crisis/#:~:text=House%20Bill%201402)
 
 ## Meetings
 ### Wed 02/01 08:00 AM - Local Government (LG): HB 1402 Urban growth boundaries

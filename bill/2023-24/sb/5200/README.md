@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5200](/bill/2023-24/sb/5200/)
 
-# SB 5200
+# SB 5200 - Capital budget
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5200&Year=2023&Initiative=false)
 
 ## Revisions
@@ -10,12 +10,14 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
-* [The Urbanist](/org/the_urbanist/) - [Missing Middle Housing, ADU, and Design Review Reforms Pass Second Chamber | The Urbanist](https://www.theurbanist.org/2023/04/12/missing-middle-housing-adu-and-design-review-reforms-pass-second-chamber/#:~:text=SB%205200)
-* [The Urbanist](/org/the_urbanist/) - [Legislature Advances Narrower TOD and Missing Middle Bills | The Urbanist](https://www.theurbanist.org/2023/04/05/legislature-advances-narrower-tod-and-missing-middle-bills/#:~:text=SB%205200)
-* [The Urbanist](/org/the_urbanist/) - [Striker Amendments Stalk Housing Bills in the Washington Legislature | The Urbanist](https://www.theurbanist.org/2023/03/29/striker-amendments-stalk-housing-bills-in-the-washington-legislature/#:~:text=SB%205200)
-* [The Urbanist](/org/the_urbanist/) - [The Legislative Budget Season Begins in Olympia | The Urbanist](https://www.theurbanist.org/2023/03/22/the-legislative-budget-season-begins-in-olympia/#:~:text=SB%205200)
-* [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=SB%205200)
-* [Washington St Pta](/org/washington_st_pta/) - [House Releases 2023-2025 Budgets, Negotiations to Start This Week - WSPTA](https://www.wastatepta.org/house-releases-2023-2025-budgets-negotiations-to-start-this-week/#:~:text=ESSB%205200)
+* 04/13/2023 [The Urbanist](/org/the_urbanist/) - [Missing Middle Housing, ADU, and Design Review Reforms Pass Second Chamber | The Urbanist](https://www.theurbanist.org/2023/04/12/missing-middle-housing-adu-and-design-review-reforms-pass-second-chamber/#:~:text=SB%205200)
+* 04/05/2023 [The Urbanist](/org/the_urbanist/) - [Legislature Advances Narrower TOD and Missing Middle Bills | The Urbanist](https://www.theurbanist.org/2023/04/05/legislature-advances-narrower-tod-and-missing-middle-bills/#:~:text=SB%205200)
+* 04/03/2023 [Washington St Pta](/org/washington_st_pta/) - [House Releases 2023-2025 Budgets, Negotiations to Start This Week - WSPTA](https://www.wastatepta.org/house-releases-2023-2025-budgets-negotiations-to-start-this-week/#:~:text=ESSB%205200)
+* 03/29/2023 [The Urbanist](/org/the_urbanist/) - [Striker Amendments Stalk Housing Bills in the Washington Legislature | The Urbanist](https://www.theurbanist.org/2023/03/29/striker-amendments-stalk-housing-bills-in-the-washington-legislature/#:~:text=SB%205200)
+* 03/22/2023 [The Urbanist](/org/the_urbanist/) - [The Legislative Budget Season Begins in Olympia | The Urbanist](https://www.theurbanist.org/2023/03/22/the-legislative-budget-season-begins-in-olympia/#:~:text=SB%205200)
+* 03/21/2023 [Senate Democrats](/org/senate_democrats/) - [Housing Advocates Testify on Senate Capital Budget Proposal - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/21/housing-advocates-testify-on-senate-capital-budget-proposal/#:~:text=SB%205200)
+* 03/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=SB%205200)
+* 02/23/2023 [Senate Democrats](/org/senate_democrats/) - [MOCC Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/moccpriorities/#:~:text=SB%205200)
 
 ## Meetings
 ### Mon 03/20 04:00 PM - Ways & Means (WM): PSSB 5200: All other.  (Remote Testimony Available).

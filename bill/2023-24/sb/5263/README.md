@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5263](/bill/2023-24/sb/5263/)
 
-# SB 5263
+# SB 5263 - Psilocybin
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5263&Year=2023&Initiative=false)
 
 ## Revisions
@@ -10,7 +10,9 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 11 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/19/the-house-hot-sheet-for-week-11-of-the-2023-legislative-session/#:~:text=2SSB%205263)
+* 03/19/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 11 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/19/the-house-hot-sheet-for-week-11-of-the-2023-legislative-session/#:~:text=2SSB%205263)
+* 03/17/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 20 - 24, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-20-24-2023/#:~:text=SB%205263)
+* 01/29/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 4: Public safety takes center stage - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/29/this-week-in-the-senate-week-4-public-safety-takes-center-stage/#:~:text=Senate%20Bill%205263)
 * [House Democrats](/org/house_democrats/) - [The Hot Sheet – Washington State House Democrats](https://housedemocrats.wa.gov/media/the-hot-sheet/#:~:text=2SSB%205263)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Bill creating magic mushrooms regulation task forces passes the state Senate | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/09/bill-creating-magic-mushrooms-regulation-task-forc/#:~:text=Senate%20Bill%205263)
 

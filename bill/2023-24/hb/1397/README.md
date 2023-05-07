@@ -1,10 +1,13 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1397](/bill/2023-24/hb/1397/)
 
-# HB 1397
+# HB 1397 - Dependency
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1397&Year=2023&Initiative=false)
 
 ## Revisions
 * [Original Bill](1/)
+
+## 📰 Articles
+* 02/21/2023 [NW News Network](/org/nw_news_network/) - [WA bill meant to safeguard foster children appears to have died in committee | Northwest News Network](https://www.nwnewsnetwork.org/2023-02-21/wa-bill-meant-to-safeguard-foster-children-appears-to-have-died-in-committee#:~:text=House%20Bill%201397)
 
 ## Meetings
 ### Fri 02/17 08:00 AM - Human Services, Youth, & Early Learning (HSEL): HB 1397 Dependency

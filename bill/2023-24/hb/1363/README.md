@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1363](/bill/2023-24/hb/1363/)
 
-# HB 1363
+# HB 1363 - Vehicular pursuits
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1363&Year=2023&Initiative=false)
 
 ## Revisions
@@ -8,19 +8,25 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
-* [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201363)
-* [MyNorthwest](/org/mynorthwest/) - [Police pursuit bill passes House despite some reluctance - MyNorthwest.com](https://mynorthwest.com/3873222/police-pursuit-bill-passes-house-despite-some-lawmakers-reluctance/#:~:text=House%20Bill%201363)
-* [MyNorthwest](/org/mynorthwest/) - [Mother blames police pursuit law for death of daughter - MyNorthwest.com](https://mynorthwest.com/3867383/mother-blame-police-pursuit-law-daughter-killed-unpursued-criminal-hit-and-run/#:~:text=House%20Bill%201363)
-* [PubliCola](/org/publicola/) - [Bill to Allow More Police Pursuits Would Sunset in 2025 - PubliCola](https://publicola.com/2023/02/17/bill-to-allow-more-police-pursuits-would-sunset-in-2025/#:~:text=House%20Bill%201363)
-* [The Seattle Times](/org/the_seattle_times/) - [Effort to roll back limits on WA police pursuits faces challenges in Legislature | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/effort-to-roll-back-limits-on-wa-police-pursuits-faces-challenges-in-legislature/#:~:text=House%20Bill%201363)
-* [Gorge News Center](/org/gorge_news_center/) - [Unified bipartisan vehicular pursuit bill emerges in Olympia](https://gorgenewscenter.com/2023/01/18/unified-bipartisan-vehicular-pursuit-bill-emerges-in-olympia/#:~:text=House%20Bill%201363)
-* [Gorge News Center](/org/gorge_news_center/) - [Statement from Reps. Eric Robertson and Gina Mosbrucker on the passage of House Bill 1363 relating to law enforcement vehicular pursuits1 message](https://gorgenewscenter.com/2023/02/17/statement-from-reps-eric-robertson-and-gina-mosbrucker-on-the-passage-of-house-bill-1363-relating-to-law-enforcement-vehicular-pursuits1-message/#:~:text=House%20Bill%201363)
-* [Gorge News Center](/org/gorge_news_center/) - [Rep. Chris Corry issues statement on House Democrats’ refusal to hear vehicular pursuit bill](https://gorgenewscenter.com/2023/03/07/rep-chris-corry-issues-statement-on-house-democrats-refusal-to-hear-vehicular-pursuit-bill/#:~:text=House%20Bill%201363)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/13/the-house-hot-sheet-for-week-6-of-the-2023-legislative-session/#:~:text=HB%201363)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB%201363)
+* 05/05/2023 [MyNorthwest](/org/mynorthwest/) - [Solan: 'Cops can't do their jobs right now in Seattle' despite new police pursuit law - MyNorthwest.com](https://mynorthwest.com/3885588/solan-cop-cant-jobs-seattle-updated-police-pursuit-law/#:~:text=House%20Bill%201363)
+* 04/18/2023 [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201363)
+* 04/11/2023 [MyNorthwest](/org/mynorthwest/) - [Police pursuit bill passes House despite some reluctance - MyNorthwest.com](https://mynorthwest.com/3873222/police-pursuit-bill-passes-house-despite-some-lawmakers-reluctance/#:~:text=House%20Bill%201363)
+* 03/30/2023 [MyNorthwest](/org/mynorthwest/) - [Mother blames police pursuit law for death of daughter - MyNorthwest.com](https://mynorthwest.com/3867383/mother-blame-police-pursuit-law-daughter-killed-unpursued-criminal-hit-and-run/#:~:text=House%20Bill%201363)
+* 03/18/2023 [House Republicans](/org/house_republicans/) - [The second half of the 2023 legislative session | Washington State House Republicans](https://houserepublicans.wa.gov/current/the-second-half-of-the-2023-legislative-session/#:~:text=House%20Bill%201363)
+* 03/15/2023 [House Republicans](/org/house_republicans/) - [Public safety | Washington State House Republicans](https://houserepublicans.wa.gov/restore-reasonable-suspicion-for-police-pursuits/#:~:text=House%20bill%201363)
+* 03/07/2023 [Gorge News Center](/org/gorge_news_center/) - [Rep. Chris Corry issues statement on House Democrats’ refusal to hear vehicular pursuit bill](https://gorgenewscenter.com/2023/03/07/rep-chris-corry-issues-statement-on-house-democrats-refusal-to-hear-vehicular-pursuit-bill/#:~:text=House%20Bill%201363)
+* 02/25/2023 [House Republicans](/org/house_republicans/) - [Fiscal committee cutoff | Washington State House Republicans](https://houserepublicans.wa.gov/current/fiscal-committee-cutoff/#:~:text=House%20Bill%201363)
+* 02/20/2023 [The Seattle Times](/org/the_seattle_times/) - [Effort to roll back limits on WA police pursuits faces challenges in Legislature | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/effort-to-roll-back-limits-on-wa-police-pursuits-faces-challenges-in-legislature/#:~:text=House%20Bill%201363)
+* 02/20/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB%201363)
+* 02/17/2023 [PubliCola](/org/publicola/) - [Bill to Allow More Police Pursuits Would Sunset in 2025 - PubliCola](https://publicola.com/2023/02/17/bill-to-allow-more-police-pursuits-would-sunset-in-2025/#:~:text=House%20Bill%201363)
+* 02/17/2023 [KUOW](/org/kuow/) - [KUOW - Bill to loosen some restrictions on WA police vehicle pursuits clears House committee](https://www.kuow.org/stories/bill-to-loosen-some-restrictions-on-wa-police-vehicle-pursuits-clears-house-committee#:~:text=HB%201363)
+* 02/17/2023 [Gorge News Center](/org/gorge_news_center/) - [Statement from Reps. Eric Robertson and Gina Mosbrucker on the passage of House Bill 1363 relating to law enforcement vehicular pursuits1 message](https://gorgenewscenter.com/2023/02/17/statement-from-reps-eric-robertson-and-gina-mosbrucker-on-the-passage-of-house-bill-1363-relating-to-law-enforcement-vehicular-pursuits1-message/#:~:text=House%20Bill%201363)
+* 02/15/2023 [Real Change](/org/real_change/) - [In pursuit of good policy: Washington legislators debate validity of the data used to justify 2021 police reforms | Feb. 15-21, 2023 | Real Change](https://www.realchangenews.org/news/2023/02/15/pursuit-good-policy-washington-legislators-debate-validity-data-used-justify-2021-police#:~:text=House%20Bill%20(HB)%201363)
+* 02/13/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/13/the-house-hot-sheet-for-week-6-of-the-2023-legislative-session/#:~:text=HB%201363)
+* 02/11/2023 [House Republicans](/org/house_republicans/) - [Helping students recover from learning loss | Washington State House Republicans](https://houserepublicans.wa.gov/current/helping-students-recover-from-learning-loss/#:~:text=House%20Bill%201363)
+* 01/18/2023 [Gorge News Center](/org/gorge_news_center/) - [Unified bipartisan vehicular pursuit bill emerges in Olympia](https://gorgenewscenter.com/2023/01/18/unified-bipartisan-vehicular-pursuit-bill-emerges-in-olympia/#:~:text=House%20Bill%201363)
 * [MyNorthwest](/org/mynorthwest/) - [Bill for less restrictions on police pursuits passes in WA Senate - MyNorthwest.com](https://mynorthwest.com/3854387/police-pursuits-less-restricted-passing-senate-last-minute-debate-vote/#:~:text=House%20Bill%201363)
 * [PubliCola](/org/publicola/) - [PubliCola - News. Politics. Urbanism.](https://publicola.com/#:~:text=House%20Bill%201363)
-* [Real Change](/org/real_change/) - [In pursuit of good policy: Washington legislators debate validity of the data used to justify 2021 police reforms | Feb. 15-21, 2023 | Real Change](https://www.realchangenews.org/news/2023/02/15/pursuit-good-policy-washington-legislators-debate-validity-data-used-justify-2021-police#:~:text=House%20Bill%20(HB)%201363)
 
 ## Meetings
 ### Mon 02/20 01:30 PM - Transportation (TR): SHB 1363 Vehicular pursuits

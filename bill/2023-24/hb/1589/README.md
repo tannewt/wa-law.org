@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1589](/bill/2023-24/hb/1589/)
 
-# HB 1589
+# HB 1589 - Clean energy
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1589&Year=2023&Initiative=false)
 
 ## Revisions
@@ -9,10 +9,10 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
-* [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=ESHB%201589)
-* [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Environmental Stewardship Priorities — Quaker Voice](https://www.quakervoicewa.org/environmental-stewardship-priorities/#:~:text=HB%201589)
-* [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=HB%201589)
-* [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=ESHB%201589)
+* 03/27/2023 [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=ESHB%201589)
+* 03/13/2023 [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=ESHB%201589)
+* 02/06/2023 [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=HB%201589)
+* 10/09/2017 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Environmental Stewardship Priorities — Quaker Voice](https://www.quakervoicewa.org/environmental-stewardship-priorities/#:~:text=HB%201589)
 
 ## Meetings
 ### Fri 03/17 08:00 AM - Environment, Energy & Technology (ENET): ESHB 1589 Clean energy

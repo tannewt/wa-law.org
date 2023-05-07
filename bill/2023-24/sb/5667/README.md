@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5667](/bill/2023-24/sb/5667/)
 
-# SB 5667
+# SB 5667 - Forestry riparian easements
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5667&Year=2023&Initiative=false)
 
 ## Revisions

@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5217](/bill/2023-24/sb/5217/)
 
-# SB 5217
+# SB 5217 - Musculoskeletal injuries/L&I
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5217&Year=2023&Initiative=false)
 
 ## Revisions
@@ -11,8 +11,9 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
-* [House Republicans](/org/house_republicans/) - [An update on the 2023 legislative session | Washington State House Republicans](https://houserepublicans.wa.gov/current/an-update-on-the-2023-legislative-session/#:~:text=Senate%20Bill%205217)
-* [House Republicans](/org/house_republicans/) - [State budgets and bad Senate bills | Washington State House Republicans](https://houserepublicans.wa.gov/current/state-budgets-and-bad-senate-bills/#:~:text=Senate%20Bill%205217)
+* 04/22/2023 [House Republicans](/org/house_republicans/) - [An update on the 2023 legislative session | Washington State House Republicans](https://houserepublicans.wa.gov/current/an-update-on-the-2023-legislative-session/#:~:text=Senate%20Bill%205217)
+* 04/08/2023 [House Republicans](/org/house_republicans/) - [State budgets and bad Senate bills | Washington State House Republicans](https://houserepublicans.wa.gov/current/state-budgets-and-bad-senate-bills/#:~:text=Senate%20Bill%205217)
+* 03/11/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 13 - 17, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-13-17-2023/#:~:text=SB%205217)
 
 ## Meetings
 ### Thu 03/30 01:30 PM - Appropriations (APP): ESSB 5217 Musculoskeletal injuries/L&I

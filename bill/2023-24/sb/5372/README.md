@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5372](/bill/2023-24/sb/5372/)
 
-# SB 5372
+# SB 5372 - DNR land
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5372&Year=2023&Initiative=false)
 
 ## Revisions

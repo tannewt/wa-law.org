@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1493](/bill/2023-24/hb/1493/)
 
-# HB 1493
+# HB 1493 - Impaired driving
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1493&Year=2023&Initiative=false)
 
 ## Revisions
@@ -8,7 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
-* [Gorge News Center](/org/gorge_news_center/) - [Padden laments Legislature’s lack of progress to address impaired driving](https://gorgenewscenter.com/2023/04/24/padden-laments-legislatures-lack-of-progress-to-address-impaired-driving/#:~:text=House%20Bill%201493)
+* 04/24/2023 [Gorge News Center](/org/gorge_news_center/) - [Padden laments Legislature’s lack of progress to address impaired driving](https://gorgenewscenter.com/2023/04/24/padden-laments-legislatures-lack-of-progress-to-address-impaired-driving/#:~:text=House%20Bill%201493)
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Transportation (TRAN): SHB 1493 Impaired driving

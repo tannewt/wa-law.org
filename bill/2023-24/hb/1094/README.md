@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1094](/bill/2023-24/hb/1094/)
 
-# HB 1094
+# HB 1094 - Future fund program
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1094&Year=2023&Initiative=false)
 
 ## Revisions
@@ -8,12 +8,12 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
-* [The Seattle Times](/org/the_seattle_times/) - [WA proposals to address wealth gap die in Legislature | The Seattle Times](https://www.seattletimes.com/seattle-news/wa-proposals-to-address-wealth-gap-die-in-legislature/#:~:text=House%20Bill%201094)
-* [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2023 Economic Justice Priorities — Quaker Voice](https://www.quakervoicewa.org/additional-2020-economic-justice-priorities/#:~:text=HB%201094/)
-* [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB%201094)
-* [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=HB%201094)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/15/the-house-hot-sheet-for-week-2-of-the-2023-legislative-session/#:~:text=HB%201094)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/22/the-house-hot-sheet-for-week-3-of-the-2023-legislative-session/#:~:text=B%201094)
+* 03/02/2023 [The Seattle Times](/org/the_seattle_times/) - [WA proposals to address wealth gap die in Legislature | The Seattle Times](https://www.seattletimes.com/seattle-news/wa-proposals-to-address-wealth-gap-die-in-legislature/#:~:text=House%20Bill%201094)
+* 01/23/2023 [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB%201094)
+* 01/22/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/22/the-house-hot-sheet-for-week-3-of-the-2023-legislative-session/#:~:text=B%201094)
+* 01/16/2023 [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=HB%201094)
+* 01/15/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/15/the-house-hot-sheet-for-week-2-of-the-2023-legislative-session/#:~:text=HB%201094)
+* 02/11/2020 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2023 Economic Justice Priorities — Quaker Voice](https://www.quakervoicewa.org/additional-2020-economic-justice-priorities/#:~:text=HB%201094/)
 * [Statewide Poverty Action Network](/org/statewide_poverty_action_network/) - [Bill Tracker – Statewide Poverty Action Network](https://povertyaction.org/bill-tracker/#:~:text=HB%201094)
 * [Hacks and Wonks](/org/hacks_and_wonks/) - [Tackling Poverty with Misha Werschkul of the Washington State Budget & Policy Center — Hacks & Wonks](https://www.officialhacksandwonks.com/blog/misha-werschkul-wa-state-budget-and-policy-center#:~:text=HB%201094)
 

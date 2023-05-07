@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1436](/bill/2023-24/hb/1436/)
 
-# HB 1436
+# HB 1436 - Special education funding
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1436&Year=2023&Initiative=false)
 
 ## Revisions
@@ -10,24 +10,25 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
-* [Washington St Pta](/org/washington_st_pta/) - [Week 15 Report: Sine Die Edition - WSPTA](https://www.wastatepta.org/sine-die-edition/#:~:text=ESHB%201436)
-* [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=ESHB%201436)
-* [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! March 15, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-march-15-2023/#:~:text=ESHB%201436)
-* [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=ESHB%201436)
-* [The Seattle Times](/org/the_seattle_times/) - [Remove cap on special education funding in WA now | The Seattle Times](https://www.seattletimes.com/opinion/editorials/remove-cap-on-special-education-funding-in-wa-now/#:~:text=House%20Bill%201436)
-* [Washington St Pta](/org/washington_st_pta/) - [Many Bills End Their Journey in 2023 with Fiscal Cutoff - WSPTA](https://www.wastatepta.org/many-bills-end-their-journey-in-2023-with-fiscal-cutoff/#:~:text=SHB%201436)
-* [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=HB%201436)
-* [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=HB%201436)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB%201436)
-* [House Democrats](/org/house_democrats/) - [House Passes Pollet Bill Increasing Special Education Funding and Ending a Cap on How Many Children with Disabilities the State Supports – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/03/house-passes-pollet-bill-increasing-special-education-funding-and-ending-a-cap-on-how-many-children-with-disabilities-the-state-supports/#:~:text=House%20Bill%201436)
-* [House Democrats](/org/house_democrats/) - [Pollet Boosts Special Education Funding – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/22/pollet-boosts-special-education-funding/#:~:text=House%20Bill%201436)
-* [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! February 9, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-february-9-2023/#:~:text=HB%201436)
-* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=HB%201436)
-* [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=ESHB%201436)
-* [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=E2SHB%201436)
-* [Washington St Pta](/org/washington_st_pta/) - [One Week Left in 68th Legislative Session - WSPTA](https://www.wastatepta.org/one-week-left-in-68th-legislative-session/#:~:text=ESHB%201436)
-* [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=HB%201436)
-* [Washington St Pta](/org/washington_st_pta/) - [Senate Passes Preventing Gun Violence Legislation in Week 13 Report - WSPTA](https://www.wastatepta.org/senate-passes-preventing-gun-violence-legislation-in-week-13-report/#:~:text=ESHB%201436)
+* 04/24/2023 [Washington St Pta](/org/washington_st_pta/) - [Week 15 Report: Sine Die Edition - WSPTA](https://www.wastatepta.org/sine-die-edition/#:~:text=ESHB%201436)
+* 04/22/2023 [House Democrats](/org/house_democrats/) - [Pollet Boosts Special Education Funding – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/22/pollet-boosts-special-education-funding/#:~:text=House%20Bill%201436)
+* 04/17/2023 [Washington St Pta](/org/washington_st_pta/) - [One Week Left in 68th Legislative Session - WSPTA](https://www.wastatepta.org/one-week-left-in-68th-legislative-session/#:~:text=ESHB%201436)
+* 04/10/2023 [Washington St Pta](/org/washington_st_pta/) - [Senate Passes Preventing Gun Violence Legislation in Week 13 Report - WSPTA](https://www.wastatepta.org/senate-passes-preventing-gun-violence-legislation-in-week-13-report/#:~:text=ESHB%201436)
+* 03/27/2023 [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=ESHB%201436)
+* 03/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=ESHB%201436)
+* 03/16/2023 [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! March 15, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-march-15-2023/#:~:text=ESHB%201436)
+* 03/13/2023 [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=ESHB%201436)
+* 03/09/2023 [The Seattle Times](/org/the_seattle_times/) - [Remove cap on special education funding in WA now | The Seattle Times](https://www.seattletimes.com/opinion/editorials/remove-cap-on-special-education-funding-in-wa-now/#:~:text=House%20Bill%201436)
+* 03/06/2023 [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=E2SHB%201436)
+* 03/04/2023 [House Republicans](/org/house_republicans/) - [Halfway through the 2023 legislative session | Washington State House Republicans](https://houserepublicans.wa.gov/current/halfway-through-the-2023-legislative-session/#:~:text=House%20Bill%201436)
+* 03/03/2023 [House Democrats](/org/house_democrats/) - [House Passes Pollet Bill Increasing Special Education Funding and Ending a Cap on How Many Children with Disabilities the State Supports – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/03/house-passes-pollet-bill-increasing-special-education-funding-and-ending-a-cap-on-how-many-children-with-disabilities-the-state-supports/#:~:text=House%20Bill%201436)
+* 02/27/2023 [Washington St Pta](/org/washington_st_pta/) - [Many Bills End Their Journey in 2023 with Fiscal Cutoff - WSPTA](https://www.wastatepta.org/many-bills-end-their-journey-in-2023-with-fiscal-cutoff/#:~:text=SHB%201436)
+* 02/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=HB%201436)
+* 02/20/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB%201436)
+* 02/13/2023 [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=HB%201436)
+* 02/10/2023 [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! February 9, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-february-9-2023/#:~:text=HB%201436)
+* 02/06/2023 [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=HB%201436)
+* 01/30/2023 [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=HB%201436)
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): ESHB 1436 Special education funding

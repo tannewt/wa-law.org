@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1213](/bill/2023-24/hb/1213/)
 
-# HB 1213
+# HB 1213 - Wipe labeling
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1213&Year=2023&Initiative=false)
 
 ## Revisions
@@ -10,7 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
-* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1213)
+* 05/02/2023 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1213)
 
 ## Meetings
 ### Fri 03/10 08:00 AM - Environment, Energy & Technology (ENET): SHB 1213 Wipe labeling

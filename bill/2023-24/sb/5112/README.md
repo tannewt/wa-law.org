@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5112](/bill/2023-24/sb/5112/)
 
-# SB 5112
+# SB 5112 - Voter registration
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5112&Year=2023&Initiative=false)
 
 ## Revisions
@@ -11,7 +11,8 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
-* [The Seattle Times](/org/the_seattle_times/) - [Reach out to voters before reworking their ballots | The Seattle Times](https://www.seattletimes.com/opinion/reach-out-to-voters-before-reworking-their-ballots/#:~:text=Senate%20Bill%205112)
+* 02/21/2023 [The Seattle Times](/org/the_seattle_times/) - [Reach out to voters before reworking their ballots | The Seattle Times](https://www.seattletimes.com/opinion/reach-out-to-voters-before-reworking-their-ballots/#:~:text=Senate%20Bill%205112)
+* 01/08/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: WE'RE BACK - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/08/this-week-in-the-senate-week-1-were-back/#:~:text=Senate%20Bill%205112)
 
 ## Meetings
 ### Thu 03/23 04:00 PM - Transportation (TR): E2SSB 5112 Voter registration

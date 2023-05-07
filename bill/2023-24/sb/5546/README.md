@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5546](/bill/2023-24/sb/5546/)
 
-# SB 5546
+# SB 5546 - Cannabis commission
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5546&Year=2023&Initiative=false)
 
 ## Revisions
@@ -9,8 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
-* [Crosscut](/org/crosscut/) - [How federal weed legalization would impact Washington state | Crosscut](https://crosscut.com/politics/2023/03/how-federal-weed-legalization-would-impact-washington-state#:~:text=Senate%20Bill%205546)
-* [Crosscut](/org/crosscut/) - [New law prepares Washington for interstate cannabis sales | Crosscut](https://crosscut.com/politics/2023/04/new-law-prepares-washington-interstate-cannabis-sales#:~:text=Senate%20Bill%205546)
+* 04/18/2023 [Crosscut](/org/crosscut/) - [New law prepares Washington for interstate cannabis sales | Crosscut](https://crosscut.com/politics/2023/04/new-law-prepares-washington-interstate-cannabis-sales#:~:text=Senate%20Bill%205546)
+* 03/03/2023 [Crosscut](/org/crosscut/) - [How federal weed legalization would impact Washington state | Crosscut](https://crosscut.com/politics/2023/03/how-federal-weed-legalization-would-impact-washington-state#:~:text=Senate%20Bill%205546)
 
 ## Meetings
 ### Tue 03/21 04:00 PM - Regulated Substances & Gaming (RSG): ESSB 5546 Cannabis commission

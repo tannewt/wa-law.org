@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1147](/bill/2023-24/hb/1147/)
 
-# HB 1147
+# HB 1147 - Capital budget
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1147&Year=2023&Initiative=false)
 
 ## Revisions
@@ -8,12 +8,13 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
-* [The Urbanist](/org/the_urbanist/) - [Missing Middle Housing, ADU, and Design Review Reforms Pass Second Chamber | The Urbanist](https://www.theurbanist.org/2023/04/12/missing-middle-housing-adu-and-design-review-reforms-pass-second-chamber/#:~:text=HB%201147)
-* [The Urbanist](/org/the_urbanist/) - [Legislature Advances Narrower TOD and Missing Middle Bills | The Urbanist](https://www.theurbanist.org/2023/04/05/legislature-advances-narrower-tod-and-missing-middle-bills/#:~:text=HB%201147)
-* [House Republicans](/org/house_republicans/) - [State budgets and public safety | Washington State House Republicans](https://houserepublicans.wa.gov/current/state-budgets-and-public-safety/#:~:text=House%20Bill%201147)
-* [The Urbanist](/org/the_urbanist/) - [Striker Amendments Stalk Housing Bills in the Washington Legislature | The Urbanist](https://www.theurbanist.org/2023/03/29/striker-amendments-stalk-housing-bills-in-the-washington-legislature/#:~:text=HB%201147)
-* [The Urbanist](/org/the_urbanist/) - [The Legislative Budget Season Begins in Olympia | The Urbanist](https://www.theurbanist.org/2023/03/22/the-legislative-budget-season-begins-in-olympia/#:~:text=HB%201147)
-* [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=HB%201147)
+* 04/13/2023 [The Urbanist](/org/the_urbanist/) - [Missing Middle Housing, ADU, and Design Review Reforms Pass Second Chamber | The Urbanist](https://www.theurbanist.org/2023/04/12/missing-middle-housing-adu-and-design-review-reforms-pass-second-chamber/#:~:text=HB%201147)
+* 04/05/2023 [The Urbanist](/org/the_urbanist/) - [Legislature Advances Narrower TOD and Missing Middle Bills | The Urbanist](https://www.theurbanist.org/2023/04/05/legislature-advances-narrower-tod-and-missing-middle-bills/#:~:text=HB%201147)
+* 04/01/2023 [House Republicans](/org/house_republicans/) - [State budgets and public safety | Washington State House Republicans](https://houserepublicans.wa.gov/current/state-budgets-and-public-safety/#:~:text=House%20Bill%201147)
+* 03/29/2023 [The Urbanist](/org/the_urbanist/) - [Striker Amendments Stalk Housing Bills in the Washington Legislature | The Urbanist](https://www.theurbanist.org/2023/03/29/striker-amendments-stalk-housing-bills-in-the-washington-legislature/#:~:text=HB%201147)
+* 03/27/2023 [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=HB%201147)
+* 03/24/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 27 - 31, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-27-31-2023/#:~:text=HB%201147)
+* 03/22/2023 [The Urbanist](/org/the_urbanist/) - [The Legislative Budget Season Begins in Olympia | The Urbanist](https://www.theurbanist.org/2023/03/22/the-legislative-budget-season-begins-in-olympia/#:~:text=HB%201147)
 
 ## Meetings
 ### Tue 03/28 08:00 AM - Capital Budget (CB): PSHB 1147 - Concerning the capital budget. (Remote Testimony Available).

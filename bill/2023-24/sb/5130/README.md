@@ -1,10 +1,13 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5130](/bill/2023-24/sb/5130/)
 
-# SB 5130
+# SB 5130 - Assisted outpatient treat.
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5130&Year=2023&Initiative=false)
 
 ## Revisions
 * [Original Bill](1/)
+
+## 📰 Articles
+* 03/02/2023 [Senate Democrats](/org/senate_democrats/) - [Senate unanimously approves Dhingra crisis relief center bill - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/01/senate-approves-dhingra-crisis-relief-center-bill/#:~:text=SB%205130)
 
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): ESB 5130 Assisted outpatient treat.

@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1010](/bill/2023-24/hb/1010/)
 
-# HB 1010
+# HB 1010 - Shellfish sanitary control
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1010&Year=2023&Initiative=false)
 
 ## Revisions
@@ -9,8 +9,8 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 03/03/2023 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: House sends Chapman’s crab sanitary control bill to the Senate for the third time in a row – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/03/legislative-news-house-sends-chapmans-crab-sanitary-control-bill-to-the-senate-for-the-third-time-in-a-row/#:~:text=House%20Bill%201010)
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Environment](https://crosscut.com/voter-guide/2023-legislative-tracker/election/environment#:~:text=House%20Bill%201010)
-* [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: House sends Chapman’s crab sanitary control bill to the Senate for the third time in a row – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/03/legislative-news-house-sends-chapmans-crab-sanitary-control-bill-to-the-senate-for-the-third-time-in-a-row/#:~:text=House%20Bill%201010)
 
 ## Meetings
 ### Mon 03/13 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): 2SHB 1010 Shellfish sanitary control

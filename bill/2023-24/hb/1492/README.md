@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1492](/bill/2023-24/hb/1492/)
 
-# HB 1492
+# HB 1492 - State v. Blake relief
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1492&Year=2023&Initiative=false)
 
 ## Revisions
@@ -9,7 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
-* [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Criminal Justice — Quaker Voice](https://www.quakervoicewa.org/criminal-justice/#:~:text=HB%201492)
+* 02/01/2019 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Criminal Justice — Quaker Voice](https://www.quakervoicewa.org/criminal-justice/#:~:text=HB%201492)
 
 ## Meetings
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1492 State v. Blake relief

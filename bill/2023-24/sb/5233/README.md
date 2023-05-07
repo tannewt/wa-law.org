@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5233](/bill/2023-24/sb/5233/)
 
-# SB 5233
+# SB 5233 - Petroleum storage tanks
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5233&Year=2023&Initiative=false)
 
 ## Revisions

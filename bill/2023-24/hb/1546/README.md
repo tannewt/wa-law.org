@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1546](/bill/2023-24/hb/1546/)
 
-# HB 1546
+# HB 1546 - Chronic pain/good faith
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1546&Year=2023&Initiative=false)
 
 ## Revisions

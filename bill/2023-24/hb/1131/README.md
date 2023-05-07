@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1131](/bill/2023-24/hb/1131/)
 
-# HB 1131
+# HB 1131 - Solid waste management
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1131&Year=2023&Initiative=false)
 
 ## Revisions
@@ -9,11 +9,11 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
-* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201131)
-* [The Urbanist](/org/the_urbanist/) - [The Olympia Waltz Continues for Middle Housing and Other Vital Legislation | The Urbanist](https://www.theurbanist.org/2023/03/09/waleg-week-9-striker-hb1110/#:~:text=HB%201131)
-* [The Urbanist](/org/the_urbanist/) - [Washington Legislature’s New Thinking About Housing | The Urbanist](https://www.theurbanist.org/2023/03/01/washington-legislatures-new-thinking-about-housing/#:~:text=HB%201131)
-* [The Urbanist](/org/the_urbanist/) - [What Groups Around Washington Are Asking from Olympia | The Urbanist](https://www.theurbanist.org/2023/02/22/waleg-week-7-priorities/#:~:text=HB%201131)
-* [The Urbanist](/org/the_urbanist/) - [One Tool to Fight Plastic Pollution? Make Companies Pay for Packaging Waste | The Urbanist](https://www.theurbanist.org/2023/01/06/one-tool-to-fight-plastic-pollution-make-companies-pay-for-packaging-waste/#:~:text=House%20Bill%201131)
+* 05/01/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201131)
+* 03/09/2023 [The Urbanist](/org/the_urbanist/) - [The Olympia Waltz Continues for Middle Housing and Other Vital Legislation | The Urbanist](https://www.theurbanist.org/2023/03/09/waleg-week-9-striker-hb1110/#:~:text=HB%201131)
+* 03/01/2023 [The Urbanist](/org/the_urbanist/) - [Washington Legislature’s New Thinking About Housing | The Urbanist](https://www.theurbanist.org/2023/03/01/washington-legislatures-new-thinking-about-housing/#:~:text=HB%201131)
+* 02/23/2023 [The Urbanist](/org/the_urbanist/) - [What Groups Around Washington Are Asking from Olympia | The Urbanist](https://www.theurbanist.org/2023/02/22/waleg-week-7-priorities/#:~:text=HB%201131)
+* 01/06/2023 [The Urbanist](/org/the_urbanist/) - [One Tool to Fight Plastic Pollution? Make Companies Pay for Packaging Waste | The Urbanist](https://www.theurbanist.org/2023/01/06/one-tool-to-fight-plastic-pollution-make-companies-pay-for-packaging-waste/#:~:text=House%20Bill%201131)
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Environment](https://crosscut.com/voter-guide/2023-legislative-tracker/election/environment#:~:text=House%20Bill%201131)
 
 ## Meetings

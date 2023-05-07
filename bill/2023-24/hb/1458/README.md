@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1458](/bill/2023-24/hb/1458/)
 
-# HB 1458
+# HB 1458 - Apprenticeship programs/UI
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1458&Year=2023&Initiative=false)
 
 ## Revisions
@@ -10,7 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/05/the-house-hot-sheet-for-week-5-of-the-2023-legislative-session/#:~:text=HB%201458)
+* 02/05/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/05/the-house-hot-sheet-for-week-5-of-the-2023-legislative-session/#:~:text=HB%201458)
 
 ## Meetings
 ### Mon 03/13 10:30 AM - Labor & Commerce (LC): SHB 1458 Apprenticeship programs/UI

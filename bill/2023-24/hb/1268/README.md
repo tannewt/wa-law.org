@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1268](/bill/2023-24/hb/1268/)
 
-# HB 1268
+# HB 1268 - Sentencing enhancements
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1268&Year=2023&Initiative=false)
 
 ## Revisions
@@ -8,11 +8,12 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
-* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201268)
-* [House Republicans](/org/house_republicans/) - [House floor debate highlights | Washington State House Republicans](https://houserepublicans.wa.gov/floor-debates/#:~:text=House%20Bill%201268)
-* [MyNorthwest](/org/mynorthwest/) - [Rantz: WA Democrats ban 'hyper-masculine' guns while freeing criminals - MyNorthwest.com](https://mynorthwest.com/3872332/rantz-washington-democrats-ban-guns-violent-criminals-out-of-jail-assault-weapons/#:~:text=HB%201268)
-* [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Criminal Justice — Quaker Voice](https://www.quakervoicewa.org/criminal-justice/#:~:text=HB%201268)
-* [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Priority Bills -- current status — Quaker Voice](https://www.quakervoicewa.org/priority-bills-current-status/#:~:text=1268)
+* 05/01/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201268)
+* 04/26/2023 [House Republicans](/org/house_republicans/) - [House floor debate highlights | Washington State House Republicans](https://houserepublicans.wa.gov/floor-debates/#:~:text=House%20Bill%201268)
+* 04/10/2023 [MyNorthwest](/org/mynorthwest/) - [Rantz: WA Democrats ban 'hyper-masculine' guns while freeing criminals - MyNorthwest.com](https://mynorthwest.com/3872332/rantz-washington-democrats-ban-guns-violent-criminals-out-of-jail-assault-weapons/#:~:text=HB%201268)
+* 03/11/2023 [House Republicans](/org/house_republicans/) - [House of origin cutoff | Washington State House Republicans](https://houserepublicans.wa.gov/current/house-of-origin-cutoff/#:~:text=House%20Bill%201268)
+* 02/22/2023 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Priority Bills -- current status — Quaker Voice](https://www.quakervoicewa.org/priority-bills-current-status/#:~:text=1268)
+* 02/01/2019 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Criminal Justice — Quaker Voice](https://www.quakervoicewa.org/criminal-justice/#:~:text=HB%201268)
 * [MyNorthwest](/org/mynorthwest/) - [Rantz: Democrat bill goes easy on school shooters, campus drug deals - MyNorthwest.com](https://mynorthwest.com/3854363/rantz-democrat-bill-easy-school-shooters-campus-drug-deals/#:~:text=HB%201268)
 
 ## Meetings

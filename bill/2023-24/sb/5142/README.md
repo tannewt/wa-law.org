@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5142](/bill/2023-24/sb/5142/)
 
-# SB 5142
+# SB 5142 - HIV medication rebate rev.
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5142&Year=2023&Initiative=false)
 
 ## Revisions
@@ -11,7 +11,9 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
-* [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=Senate%20Bill%205142)
+* 04/05/2023 [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=Senate%20Bill%205142)
+* 03/24/2023 [Senate Democrats](/org/senate_democrats/) - [Liias bill to increase access to HIV medication heads to governor’s desk  - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/22/liias-bill-to-increase-access-to-hiv-medication-heads-to-governors-desk/#:~:text=Senate%20Bill%205142)
+* 03/03/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead | March 6 - 10, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-6-10-2023/#:~:text=SB%205142)
 
 ## Meetings
 ### Thu 03/09 04:00 PM - Appropriations (APP): ESSB 5142 HIV medication rebate rev.

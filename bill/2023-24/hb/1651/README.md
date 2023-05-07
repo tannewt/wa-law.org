@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1651](/bill/2023-24/hb/1651/)
 
-# HB 1651
+# HB 1651 - Infraction debt
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1651&Year=2023&Initiative=false)
 
 ## Revisions

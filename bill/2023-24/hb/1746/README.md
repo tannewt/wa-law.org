@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1746](/bill/2023-24/hb/1746/)
 
-# HB 1746
+# HB 1746 - State broadband map
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1746&Year=2023&Initiative=false)
 
 ## Revisions
@@ -9,7 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
-* [House Democrats](/org/house_democrats/) - [House Passes Ryu’s State Broadband Map – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/04/house-passes-ryus-state-broadband-map/#:~:text=House%20Bill%201746)
+* 03/04/2023 [House Democrats](/org/house_democrats/) - [House Passes Ryu’s State Broadband Map – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/04/house-passes-ryus-state-broadband-map/#:~:text=House%20Bill%201746)
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): 2SHB 1746 State broadband map

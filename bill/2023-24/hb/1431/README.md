@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1431](/bill/2023-24/hb/1431/)
 
-# HB 1431
+# HB 1431 - Senior living meals/tax
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1431&Year=2023&Initiative=false)
 
 ## Revisions
@@ -9,7 +9,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
-* [House Democrats](/org/house_democrats/) - [Timmons’ Sales Tax Exemption Bill for Seniors in Assisted Living Communities Passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/16/timmons-sales-tax-exemption-bill-for-seniors-in-assisted-living-communities-passes-house/#:~:text=House%20Bill%201431)
+* 03/16/2023 [House Democrats](/org/house_democrats/) - [Timmons’ Sales Tax Exemption Bill for Seniors in Assisted Living Communities Passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/16/timmons-sales-tax-exemption-bill-for-seniors-in-assisted-living-communities-passes-house/#:~:text=House%20Bill%201431)
 
 ## Meetings
 ### Thu 03/23 04:00 PM - Ways & Means (WM): SHB 1431 Senior living meals/tax

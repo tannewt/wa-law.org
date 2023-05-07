@@ -1,6 +1,9 @@
+import arrow
 import datetime
 import utils
 import pathlib
+import rfeed
+from operator import attrgetter
 
 db = utils.get_db(readonly=True)
 
@@ -97,29 +100,38 @@ now = datetime.datetime.now()
 
 for bill_rowid, prefix, bill_number in cur:
     breadcrumb = f"[wa-law.org](/) > [bill](/bill/) > [{biennium}](/bill/{biennium}/) > [{prefix} {bill_number}](/bill/{biennium}/{prefix.lower()}/{bill_number}/)"
+
+    latest_revision = db.cursor()
+    latest_revision.execute("SELECT description FROM revisions WHERE bill_rowid = ? ORDER BY modified_time DESC", (bill_rowid,))
+    description = latest_revision.fetchone()[0]
+
     bill_readme = [
         breadcrumb,
         "",
-        f"# {prefix} {bill_number}",
+        f"# {prefix} {bill_number} - {description}",
         f"[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber={bill_number}&Year=2023&Initiative=false)",
         "",
         "## Revisions"
     ]
 
+    feed_items = []
+
     bill_path = bills_path / prefix.lower() / str(bill_number)
 
     revisions = db.cursor()
-    revisions.execute("SELECT rowid, version, description, source_url FROM revisions WHERE bill_rowid = ? ORDER BY modified_time", (bill_rowid,))
+    revisions.execute("SELECT rowid, version, description, source_url, modified_time FROM revisions WHERE bill_rowid = ? ORDER BY modified_time", (bill_rowid,))
 
-    for revision_rowid, revision, description, source_url in revisions:
+    for revision_rowid, revision, description, source_url, modified_time in revisions:
         if revision not in REVISION_TO_NAME:
             print(bill_number, revision)
         revision_path = bill_path / revision
 
         bill_readme.append(f"* [{REVISION_TO_NAME[revision]}](" + str(revision_path.relative_to(bill_path)) + "/)")
 
+        link = f"/bill/{biennium}/{prefix.lower()}/{bill_number}/{revision}/"
+
         revision_readme = [
-            breadcrumb + f" > [{REVISION_TO_NAME[revision]}](/bill/{biennium}/{prefix.lower()}/{bill_number}/{revision}/)",
+            breadcrumb + f" > [{REVISION_TO_NAME[revision]}]({link})",
             "",
             f"# {prefix} {bill_number} - {description}"
         ]
@@ -139,6 +151,16 @@ for bill_rowid, prefix, bill_number in cur:
                 revision_readme.append(blockquote)
                 revision_readme.append("")
         revision_path.mkdir(parents=True, exist_ok=True)
+        link = "https://wa-law.org" + link
+        modified_time = arrow.get(modified_time.split("+")[0])
+        item = rfeed.Item(
+            title=REVISION_TO_NAME[revision],
+            description=f"New bill revision {REVISION_TO_NAME[revision]} ({revision}).",
+            categories=["revision", revision],
+            link=link,
+            guid=rfeed.Guid(link, isPermaLink=True),
+            pubDate=modified_time,
+        )
         rm = revision_path / "README.md"
         rm.write_text("\n".join(revision_readme))
     bill_readme.append("")
@@ -149,12 +171,26 @@ for bill_rowid, prefix, bill_number in cur:
     if articles:
         bill_readme.append("## 📰 Articles")
         for org, org_slug, url, text_fragment, title, date_posted in articles:
-            # mtime = date_posted
-            # if date_posted:
-            #     mtime = date_posted.strftime("%m/%d/%Y")
+            mtime = date_posted
+            if date_posted:
+                date_posted = arrow.get(date_posted.split("+")[0])
+                mtime = date_posted.strftime("%m/%d/%Y ")
+            else:
+                mtime = ""
             url = url.replace(" ", "%20")
             text_fragment = text_fragment.replace(" ", "%20")
-            bill_readme.append(f"* [{org}](/org/{org_slug}/) - [{title}]({url}{text_fragment})")
+            link = url + text_fragment
+            bill_readme.append(f"* {mtime}[{org}](/org/{org_slug}/) - [{title}]({link})")
+
+            if date_posted:
+                item = rfeed.Item(
+                    title=title,
+                    description=f"News article \"{title}\" from {org}.",
+                    categories=["news"],
+                    guid=rfeed.Guid(link, isPermaLink=True),
+                    pubDate=date_posted.datetime.replace(tzinfo=None),
+                )
+                feed_items.append(item)
         bill_readme.append("")
 
     bill_readme.append("## Meetings")
@@ -192,11 +228,11 @@ for bill_rowid, prefix, bill_number in cur:
             bill_readme.append(f"#### {count} {emoji} - {position}")
 
             testifiers = db.cursor()
-            testifiers.execute("SELECT first_name, last_name, organization FROM testifiers WHERE testifying AND position_rowid = ? AND agenda_item_rowid = ? ORDER BY sign_in_time", (p_rowid, item_rowid))
+            testifiers.execute("SELECT first_name, last_name, organization, sign_in_time FROM testifiers WHERE testifying AND position_rowid = ? AND agenda_item_rowid = ? ORDER BY sign_in_time", (p_rowid, item_rowid))
             testifiers = testifiers.fetchall()
             if testifiers:
                 bill_readme.append("Testifying:")
-                for first_name, last_name, organization in testifiers:
+                for first_name, last_name, organization, sign_in_time in testifiers:
                     lobbyist = db.cursor()
                     lobbyist.execute("SELECT people.rowid, lobbyist_employment.lobbying_firm_rowid FROM people, lobbyist_employment WHERE first_name = ? AND last_name = ? AND people.rowid = lobbyist_employment.person_rowid", (first_name, last_name))
                     lobbyist = lobbyist.fetchone()
@@ -220,9 +256,30 @@ for bill_rowid, prefix, bill_number in cur:
                             slug = org[2]
                             organization = f"[{organization}](/org/{slug}/)"
                         organization = " - " + organization
+                    sign_in_time = datetime.datetime.strptime(sign_in_time.split("+")[0], "%Y-%m-%d %H:%M:%S")
+                    item = rfeed.Item(
+                        title=f"{emoji}{lobbyist}{first_name} {last_name}{organization}",
+                        description=f"Signed up to testify {position}.",
+                        categories=["testifier", position],
+                        guid=rfeed.Guid(f"testifier/{first_name}/{last_name}/{sign_in_time}", isPermaLink=False),
+                        pubDate=sign_in_time.replace(tzinfo=None),
+                    )
+                    feed_items.append(item)
                     bill_readme.append(f"* {lobbyist}{first_name} {last_name}{organization}")
             bill_readme.append("")
 
+    # Set the feed metadata
+    feed = rfeed.Feed(
+        title=description,
+        link=f"https://wa-law.org/{bill_path}/",
+        description=f"Updates about {prefix} {bill_number}",
+        language='en-US',
+        lastBuildDate=now,
+        items=sorted(feed_items, key=attrgetter("pubDate")),
+    )
+
+    with open(bill_path / 'rss.xml', 'w') as f:
+        f.write(feed.rss())
 
     rm = bill_path / "README.md"
     rm.write_text("\n".join(bill_readme))

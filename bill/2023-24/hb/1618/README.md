@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1618](/bill/2023-24/hb/1618/)
 
-# HB 1618
+# HB 1618 - Childhood sexual abuse/SOL
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1618&Year=2023&Initiative=false)
 
 ## Revisions
@@ -9,9 +9,9 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
-* [The Seattle Times](/org/the_seattle_times/) - [Bill to eliminate time limits for child sex-abuse lawsuits stalls in WA Senate | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/bill-to-eliminate-time-limits-for-child-sex-abuse-lawsuits-stalls-in-wa-senate/#:~:text=House%20Bill%201618)
-* [The Seattle Times](/org/the_seattle_times/) - [WA moves to eliminate time limits for child sex abuse lawsuits | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-moves-to-eliminate-time-limits-for-child-sex-abuse-lawsuits/#:~:text=House%20Bill%201618)
-* [House Democrats](/org/house_democrats/) - [Farivar’s Bill Seeking Justice for Child Sex Abuse Victims Passes Out of Committee – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/24/farivars-bill-seeking-justice-for-child-sex-abuse-victims-passes-out-of-committee/#:~:text=House%20Bill%201618)
+* 04/07/2023 [The Seattle Times](/org/the_seattle_times/) - [Bill to eliminate time limits for child sex-abuse lawsuits stalls in WA Senate | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/bill-to-eliminate-time-limits-for-child-sex-abuse-lawsuits-stalls-in-wa-senate/#:~:text=House%20Bill%201618)
+* 03/27/2023 [The Seattle Times](/org/the_seattle_times/) - [WA moves to eliminate time limits for child sex abuse lawsuits | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-moves-to-eliminate-time-limits-for-child-sex-abuse-lawsuits/#:~:text=House%20Bill%201618)
+* 02/24/2023 [House Democrats](/org/house_democrats/) - [Farivar’s Bill Seeking Justice for Child Sex Abuse Victims Passes Out of Committee – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/24/farivars-bill-seeking-justice-for-child-sex-abuse-victims-passes-out-of-committee/#:~:text=House%20Bill%201618)
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): 2SHB 1618 Childhood sexual abuse/SOL

@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1257](/bill/2023-24/hb/1257/)
 
-# HB 1257
+# HB 1257 - Cargo and passenger ports
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1257&Year=2023&Initiative=false)
 
 ## Revisions

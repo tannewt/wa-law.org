@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1282](/bill/2023-24/hb/1282/)
 
-# HB 1282
+# HB 1282 - Public building materials
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1282&Year=2023&Initiative=false)
 
 ## Revisions
@@ -9,7 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
-* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201282)
+* 05/01/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201282)
 
 ## Meetings
 ### Tue 03/28 04:00 PM - Ways & Means (WM): ESHB 1282 Public building materials

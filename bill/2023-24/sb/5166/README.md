@@ -1,10 +1,13 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5166](/bill/2023-24/sb/5166/)
 
-# SB 5166
+# SB 5166 - Cooperative finance org. B&O
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5166&Year=2023&Initiative=false)
 
 ## Revisions
 * [Original Bill](1/)
+
+## 📰 Articles
+* [Senate Republicans](/org/senate_republicans/) - [RETURN AFFORDABILITY - Senate Republican Caucus](https://src.wastateleg.org/hot-topics/return-affordability/#:~:text=SB%205166%20(Boehnke))
 
 ## Meetings
 ### Tue 03/14 08:00 AM - Finance (FIN): SB 5166 Cooperative finance org. B&O

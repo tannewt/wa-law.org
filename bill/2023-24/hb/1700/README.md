@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1700](/bill/2023-24/hb/1700/)
 
-# HB 1700
+# HB 1700 - Eastern Washington landscape
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1700&Year=2023&Initiative=false)
 
 ## Revisions
@@ -9,7 +9,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
-* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1700)
+* 05/02/2023 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1700)
 
 ## Meetings
 ### Fri 03/24 08:00 AM - State Government & Elections (SGE): SHB 1700 Eastern Washington landscape

@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1628](/bill/2023-24/hb/1628/)
 
-# HB 1628
+# HB 1628 - Real estate excise tax
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1628&Year=2023&Initiative=false)
 
 ## Revisions
@@ -9,19 +9,20 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
-* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201628)
-* [House Republicans](/org/house_republicans/) - [An update on the 2023 legislative session | Washington State House Republicans](https://houserepublicans.wa.gov/current/an-update-on-the-2023-legislative-session/#:~:text=House%20Bill%201628)
-* [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers consider tax increases as session nears end | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-lawmakers-eye-tax-increases-as-session-nears-end/#:~:text=House%20Bill%201628)
-* [House Republicans](/org/house_republicans/) - [The homestretch of the 2023 legislative session | Washington State House Republicans](https://houserepublicans.wa.gov/current/the-homestretch-of-the-2023-legislative-session/#:~:text=House%20Bill%201628)
-* [The Seattle Times](/org/the_seattle_times/) - [WA housing advocates, Realtors clash over proposed real estate tax hikes | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-housing-advocates-realtors-clash-over-proposed-real-estate-tax-hikes/#:~:text=House%20Bill%201628)
-* [The Seattle Times](/org/the_seattle_times/) - [Collaboration, funding are key to unlock more affordable housing | The Seattle Times](https://www.seattletimes.com/opinion/collaboration-funding-are-key-to-unlock-more-affordable-housing/#:~:text=House%20Bill%201628,)
-* [House Republicans](/org/house_republicans/) - [State budgets and bad Senate bills | Washington State House Republicans](https://houserepublicans.wa.gov/current/state-budgets-and-bad-senate-bills/#:~:text=House%20Bill%201628)
-* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB%201628)
-* [Crosscut](/org/crosscut/) - [WA looks to address housing shortage with density, zoning changes | Crosscut](https://crosscut.com/politics/2023/03/wa-looks-address-housing-shortage-density-zoning-changes#:~:text=House%20Bill%201628)
+* 05/01/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201628)
+* 04/22/2023 [House Republicans](/org/house_republicans/) - [An update on the 2023 legislative session | Washington State House Republicans](https://houserepublicans.wa.gov/current/an-update-on-the-2023-legislative-session/#:~:text=House%20Bill%201628)
+* 04/17/2023 [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers consider tax increases as session nears end | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-lawmakers-eye-tax-increases-as-session-nears-end/#:~:text=House%20Bill%201628)
+* 04/15/2023 [House Republicans](/org/house_republicans/) - [The homestretch of the 2023 legislative session | Washington State House Republicans](https://houserepublicans.wa.gov/current/the-homestretch-of-the-2023-legislative-session/#:~:text=House%20Bill%201628)
+* 04/14/2023 [Gorge News Center](/org/gorge_news_center/) - [Warnick rejects Democrat tax-hikes on housing](https://gorgenewscenter.com/2023/04/14/warnick-rejects-democrat-tax-hikes-on-housing/#:~:text=House%20Bill%201628)
+* 04/10/2023 [The Seattle Times](/org/the_seattle_times/) - [WA housing advocates, Realtors clash over proposed real estate tax hikes | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-housing-advocates-realtors-clash-over-proposed-real-estate-tax-hikes/#:~:text=House%20Bill%201628)
+* 04/10/2023 [The Seattle Times](/org/the_seattle_times/) - [Collaboration, funding are key to unlock more affordable housing | The Seattle Times](https://www.seattletimes.com/opinion/collaboration-funding-are-key-to-unlock-more-affordable-housing/#:~:text=House%20Bill%201628,)
+* 04/08/2023 [House Republicans](/org/house_republicans/) - [State budgets and bad Senate bills | Washington State House Republicans](https://houserepublicans.wa.gov/current/state-budgets-and-bad-senate-bills/#:~:text=House%20Bill%201628)
+* 03/17/2023 [Crosscut](/org/crosscut/) - [WA looks to address housing shortage with density, zoning changes | Crosscut](https://crosscut.com/politics/2023/03/wa-looks-address-housing-shortage-density-zoning-changes#:~:text=House%20Bill%201628)
+* 02/20/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead | February 20 - 24, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-20-24-2023/#:~:text=HB%201628)
+* 02/20/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB%201628)
+* 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB%201628)
+* 02/05/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/05/the-house-hot-sheet-for-week-5-of-the-2023-legislative-session/#:~:text=HB%201628)
 * [Crosscut](/org/crosscut/) - [WA looks to address housing shortage with density, zoning changes | Crosscut](https://crosscut.com/politics/2023/03/washington-has-shot-passing-massive-housing-reform-package#:~:text=House%20Bill%201628)
-* [Gorge News Center](/org/gorge_news_center/) - [Warnick rejects Democrat tax-hikes on housing](https://gorgenewscenter.com/2023/04/14/warnick-rejects-democrat-tax-hikes-on-housing/#:~:text=House%20Bill%201628)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/05/the-house-hot-sheet-for-week-5-of-the-2023-legislative-session/#:~:text=HB%201628)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB%201628)
 
 ## Meetings
 ### Tue 02/21 08:00 AM - Finance (FIN): HB 1628 Real estate excise tax

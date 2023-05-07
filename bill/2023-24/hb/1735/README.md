@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1735](/bill/2023-24/hb/1735/)
 
-# HB 1735
+# HB 1735 - GMA/net ecological gain
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1735&Year=2023&Initiative=false)
 
 ## Revisions
@@ -8,7 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
-* [House Democrats](/org/house_democrats/) - [Lekanoff hosts lawmakers and tribal leaders to view film on salmon recovery – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/04/lekanoff-hosts-lawmakers-and-tribal-leaders-to-view-film-on-salmon-recovery/#:~:text=HB%201735)
+* 04/04/2023 [House Democrats](/org/house_democrats/) - [Lekanoff hosts lawmakers and tribal leaders to view film on salmon recovery – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/04/lekanoff-hosts-lawmakers-and-tribal-leaders-to-view-film-on-salmon-recovery/#:~:text=HB%201735)
 
 ## Meetings
 ### Tue 02/07 04:00 PM - Environment & Energy (ENVI): HB 1735 GMA/net ecological gain

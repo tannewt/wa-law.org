@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5634](/bill/2023-24/sb/5634/)
 
-# SB 5634
+# SB 5634 - Problem gambling
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5634&Year=2023&Initiative=false)
 
 ## Revisions
@@ -9,6 +9,9 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+
+## 📰 Articles
+* 02/05/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 5: Addressing addiction, fair housing and support for nurses - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/02/05/this-week-in-the-senate-week-5-addressing-addiction-fair-housing-and-support-for-nurses/#:~:text=Senate%20Bill%205634)
 
 ## Meetings
 ### Mon 03/20 01:30 PM - Regulated Substances & Gaming (RSG): E2SSB 5634 Problem gambling

@@ -1,13 +1,13 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5058](/bill/2023-24/sb/5058/)
 
-# SB 5058
+# SB 5058 - Multiunit res. buildings
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5058&Year=2023&Initiative=false)
 
 ## Revisions
 * [Original Bill](1/)
 
 ## 📰 Articles
-* [Gorge News Center](/org/gorge_news_center/) - [Governor signs two Padden bills one week after legislative session ends](https://gorgenewscenter.com/2023/05/04/governor-signs-two-padden-bills-one-week-after-legislative-session-ends/#:~:text=SB%205058)
+* 05/04/2023 [Gorge News Center](/org/gorge_news_center/) - [Governor signs two Padden bills one week after legislative session ends](https://gorgenewscenter.com/2023/05/04/governor-signs-two-padden-bills-one-week-after-legislative-session-ends/#:~:text=SB%205058)
 * [KIRO7](/org/kiro7/) - [‘WA needs 1 million new homes within next 20 years’: Suite of bills target the housing crisis – KIRO 7 News Seattle](https://www.kiro7.com/news/local/wa-needs-1-million-new-homes-within-next-20-years-suite-bills-target-housing-crisis/UDGREATSP5FQXCOF6E5GUFIF5A/#:~:text=SB%205058)
 
 ## Meetings

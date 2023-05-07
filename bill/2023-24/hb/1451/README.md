@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1451](/bill/2023-24/hb/1451/)
 
-# HB 1451
+# HB 1451 - Child care workforce
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1451&Year=2023&Initiative=false)
 
 ## Revisions
@@ -8,7 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB%201451)
+* 01/29/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB%201451)
 
 ## Meetings
 ### Tue 01/31 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1451 Child care workforce

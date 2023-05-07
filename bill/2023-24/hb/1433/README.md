@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1433](/bill/2023-24/hb/1433/)
 
-# HB 1433
+# HB 1433 - Energy labeling/residential
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1433&Year=2023&Initiative=false)
 
 ## Revisions
@@ -9,8 +9,8 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
-* [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Environmental Stewardship Priorities — Quaker Voice](https://www.quakervoicewa.org/environmental-stewardship-priorities/#:~:text=HB%201433)
-* [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Environmental Stewardship — Quaker Voice](https://www.quakervoicewa.org/environmental-stewardship/#:~:text=HB%201433)
+* 02/02/2021 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Environmental Stewardship — Quaker Voice](https://www.quakervoicewa.org/environmental-stewardship/#:~:text=HB%201433)
+* 10/09/2017 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Environmental Stewardship Priorities — Quaker Voice](https://www.quakervoicewa.org/environmental-stewardship-priorities/#:~:text=HB%201433)
 
 ## Meetings
 ### Fri 03/24 08:00 AM - Environment, Energy & Technology (ENET): 2SHB 1433 Energy labeling/residential

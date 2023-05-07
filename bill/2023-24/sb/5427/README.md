@@ -1,14 +1,16 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5427](/bill/2023-24/sb/5427/)
 
-# SB 5427
+# SB 5427 - Hate crimes & bias incidents
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5427&Year=2023&Initiative=false)
 
 ## Revisions
 * [Original Bill](1/)
 
 ## 📰 Articles
-* [The Seattle Times](/org/the_seattle_times/) - [WA has no hate crime hotline, but the idea is gaining traction | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-has-no-hate-crime-hotline-but-the-idea-is-gaining-traction/#:~:text=Senate%20Bill%205427)
-* [House Democrats](/org/house_democrats/) - [Hansen’s Bipartisan Anti-Doxing Bill Clears House, First Piece of Anti-Hate Package  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/27/hansens-bipartisan-anti-doxing-bill-clears-house-first-piece-of-anti-hate-package/#:~:text=SB%205427)
+* 03/13/2023 [The Seattle Times](/org/the_seattle_times/) - [WA has no hate crime hotline, but the idea is gaining traction | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-has-no-hate-crime-hotline-but-the-idea-is-gaining-traction/#:~:text=Senate%20Bill%205427)
+* 02/27/2023 [House Democrats](/org/house_democrats/) - [Hansen’s Bipartisan Anti-Doxing Bill Clears House, First Piece of Anti-Hate Package  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/27/hansens-bipartisan-anti-doxing-bill-clears-house-first-piece-of-anti-hate-package/#:~:text=SB%205427)
+* 02/23/2023 [Senate Democrats](/org/senate_democrats/) - [MOCC Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/moccpriorities/#:~:text=SB%205427)
+* 01/29/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 4: Public safety takes center stage - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/29/this-week-in-the-senate-week-4-public-safety-takes-center-stage/#:~:text=Senate%20Bill%205427)
 
 ## Meetings
 ### Mon 02/20 09:00 AM - Ways & Means (WM): SB 5427 Hate crimes & bias incidents

@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5248](/bill/2023-24/sb/5248/)
 
-# SB 5248
+# SB 5248 - Tutoring & extended learning
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5248&Year=2023&Initiative=false)
 
 ## Revisions
@@ -8,9 +8,11 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
-* [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SB%205248)
-* [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=SB%205248)
-* [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SSB%205248)
+* 02/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SSB%205248)
+* 02/11/2023 [House Republicans](/org/house_republicans/) - [Helping students recover from learning loss | Washington State House Republicans](https://houserepublicans.wa.gov/current/helping-students-recover-from-learning-loss/#:~:text=Senate%20Bill%205248)
+* 02/06/2023 [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SB%205248)
+* 01/23/2023 [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=SB%205248)
+* [Senate Republicans](/org/senate_republicans/) - [REBOOT EDUCATION - Senate Republican Caucus](https://src.wastateleg.org/hot-topics/education-choice-parental-rights/#:~:text=SB%205248%20(Braun):)
 
 ## Meetings
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SSB 5248 Tutoring & extended learning

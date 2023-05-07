@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5120](/bill/2023-24/sb/5120/)
 
-# SB 5120
+# SB 5120 - Crisis relief centers
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5120&Year=2023&Initiative=false)
 
 ## Revisions
@@ -10,7 +10,9 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
-* [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Priority Bills -- current status — Quaker Voice](https://www.quakervoicewa.org/priority-bills-current-status/#:~:text=5120)
+* 03/02/2023 [Senate Democrats](/org/senate_democrats/) - [Senate unanimously approves Dhingra crisis relief center bill - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/01/senate-approves-dhingra-crisis-relief-center-bill/#:~:text=SB%205120)
+* 02/22/2023 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Priority Bills -- current status — Quaker Voice](https://www.quakervoicewa.org/priority-bills-current-status/#:~:text=5120)
+* 01/08/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: WE'RE BACK - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/08/this-week-in-the-senate-week-1-were-back/#:~:text=Senate%20Bill%205120)
 
 ## Meetings
 ### Fri 03/31 01:30 PM - Appropriations (APP): 2SSB 5120 Crisis relief centers

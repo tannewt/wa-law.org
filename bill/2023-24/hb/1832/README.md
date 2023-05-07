@@ -1,15 +1,16 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1832](/bill/2023-24/hb/1832/)
 
-# HB 1832
+# HB 1832 - Vehicle per mile charge
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1832&Year=2023&Initiative=false)
 
 ## Revisions
 * [Original Bill](1/)
 
 ## 📰 Articles
-* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201832)
-* [The Seattle Times](/org/the_seattle_times/) - [What’s still on the table for traffic safety in WA Legislature? | The Seattle Times](https://www.seattletimes.com/seattle-news/transportation/whats-still-on-the-table-for-traffic-safety-in-wa-legislature/#:~:text=House%20Bill%201832)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB%201832)
+* 05/01/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201832)
+* 03/01/2023 [The Seattle Times](/org/the_seattle_times/) - [What’s still on the table for traffic safety in WA Legislature? | The Seattle Times](https://www.seattletimes.com/seattle-news/transportation/whats-still-on-the-table-for-traffic-safety-in-wa-legislature/#:~:text=House%20Bill%201832)
+* 02/20/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead | February 20 - 24, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-20-24-2023/#:~:text=HB%201832)
+* 02/20/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB%201832)
 
 ## Meetings
 ### Thu 02/23 12:00 PM - Transportation (TR): HB 1832 Vehicle per mile charge

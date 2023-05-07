@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1186](/bill/2023-24/hb/1186/)
 
-# HB 1186
+# HB 1186 - Child welfare housing
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1186&Year=2023&Initiative=false)
 
 ## Revisions
@@ -9,9 +9,9 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
-* [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=HB%201186)
-* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Legislative Update - 2023 - Week Two - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate01172023#:~:text=H.B.%201186)
-* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Committee Action Expected on Some Bills This Week - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate012323#:~:text=H.B.%201186)
+* 01/29/2023 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Committee Action Expected on Some Bills This Week - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate012323#:~:text=H.B.%201186)
+* 01/16/2023 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Legislative Update - 2023 - Week Two - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate01172023#:~:text=H.B.%201186)
+* 06/19/2015 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=HB%201186)
 
 ## Meetings
 ### Wed 02/08 04:00 PM - Appropriations (APP): SHB 1186 Child welfare housing

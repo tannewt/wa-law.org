@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1085](/bill/2023-24/hb/1085/)
 
-# HB 1085
+# HB 1085 - Plastic pollution
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1085&Year=2023&Initiative=false)
 
 ## Revisions
@@ -10,12 +10,12 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
-* [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Priority Bills -- current status — Quaker Voice](https://www.quakervoicewa.org/priority-bills-current-status/#:~:text=1085)
-* [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Environmental Stewardship — Quaker Voice](https://www.quakervoicewa.org/environmental-stewardship/#:~:text=HB1085)
+* 04/10/2023 [House Democrats](/org/house_democrats/) - [Mena bill to reduce plastic pollution passes Senate with strong bipartisan support – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/10/mena-bill-to-reduce-plastic-pollution-passes-senate-with-strong-bipartisan-support/#:~:text=House%20Bill%201085)
+* 03/01/2023 [House Democrats](/org/house_democrats/) - [Mena bill to reduce plastic pollution passes House unanimously – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/01/mena-bill-to-reduce-plastic-pollution-passes-house-unanimously/#:~:text=House%20Bill%201085)
+* 02/22/2023 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Priority Bills -- current status — Quaker Voice](https://www.quakervoicewa.org/priority-bills-current-status/#:~:text=1085)
+* 01/09/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/09/the-house-hot-sheet-for-week-1-of-the-2023-legislative-session/#:~:text=HB%201085)
+* 02/02/2021 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Environmental Stewardship — Quaker Voice](https://www.quakervoicewa.org/environmental-stewardship/#:~:text=HB1085)
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Environment](https://crosscut.com/voter-guide/2023-legislative-tracker/election/environment#:~:text=House%20Bill%201085)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/09/the-house-hot-sheet-for-week-1-of-the-2023-legislative-session/#:~:text=HB%201085)
-* [House Democrats](/org/house_democrats/) - [Mena bill to reduce plastic pollution passes House unanimously – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/01/mena-bill-to-reduce-plastic-pollution-passes-house-unanimously/#:~:text=House%20Bill%201085)
-* [House Democrats](/org/house_democrats/) - [Mena bill to reduce plastic pollution passes Senate with strong bipartisan support – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/10/mena-bill-to-reduce-plastic-pollution-passes-senate-with-strong-bipartisan-support/#:~:text=House%20Bill%201085)
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): SHB 1085 Plastic pollution

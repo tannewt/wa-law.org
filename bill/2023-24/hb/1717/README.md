@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1717](/bill/2023-24/hb/1717/)
 
-# HB 1717
+# HB 1717 - Associate development orgs.
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1717&Year=2023&Initiative=false)
 
 ## Revisions
@@ -8,7 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
-* [House Democrats](/org/house_democrats/) - [Rule Passes Two Bills on to the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/08/rule-passes-two-bills-on-to-the-senate/#:~:text=HB%201717)
+* 03/08/2023 [House Democrats](/org/house_democrats/) - [Rule Passes Two Bills on to the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/08/rule-passes-two-bills-on-to-the-senate/#:~:text=HB%201717)
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): SHB 1717 Associate development orgs.

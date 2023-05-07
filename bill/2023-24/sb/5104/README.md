@@ -1,12 +1,13 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5104](/bill/2023-24/sb/5104/)
 
-# SB 5104
+# SB 5104 - Marine shoreline habitat
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5104&Year=2023&Initiative=false)
 
 ## Revisions
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/17/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 20 - 24, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-20-24-2023/#:~:text=SB%205104)
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Environment](https://crosscut.com/voter-guide/2023-legislative-tracker/election/environment#:~:text=Senate%20Bill%205104)
 
 ## Meetings

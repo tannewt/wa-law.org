@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1803](/bill/2023-24/hb/1803/)
 
-# HB 1803
+# HB 1803 - Specialty shop endorsement
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1803&Year=2023&Initiative=false)
 
 ## Revisions

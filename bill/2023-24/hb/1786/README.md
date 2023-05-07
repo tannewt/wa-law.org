@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1786](/bill/2023-24/hb/1786/)
 
-# HB 1786
+# HB 1786 - Milk product haulers
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1786&Year=2023&Initiative=false)
 
 ## Revisions

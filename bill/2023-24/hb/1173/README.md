@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1173](/bill/2023-24/hb/1173/)
 
-# HB 1173
+# HB 1173 - Light pollution
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1173&Year=2023&Initiative=false)
 
 ## Revisions
@@ -10,7 +10,8 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
-* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1173)
+* 05/02/2023 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1173)
+* 01/23/2023 [NW News Network](/org/nw_news_network/) - [Washington bill would restrict blinking nighttime lights on wind turbines | Northwest News Network](https://www.nwnewsnetwork.org/environment-and-planning/2023-01-23/washington-bill-would-restrict-blinking-nighttime-lights-on-wind-turbines#:~:text=H.B.%201173)
 
 ## Meetings
 ### Fri 03/17 08:00 AM - Environment, Energy & Technology (ENET): ESHB 1173 Light pollution

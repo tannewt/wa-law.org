@@ -1,13 +1,14 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5550](/bill/2023-24/sb/5550/)
 
-# SB 5550
+# SB 5550 - Ferry workforce development
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5550&Year=2023&Initiative=false)
 
 ## Revisions
 * [Original Bill](1/)
 
 ## 📰 Articles
-* [House Democrats](/org/house_democrats/) - [House Democrats release state transportation budget / Demócratas de la Cámara de Representantes publican su presupuesto estatal de transporte – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/27/house-democrats-release-state-transportation-budget/#:~:text=SB%205550)
+* 03/27/2023 [House Democrats](/org/house_democrats/) - [House Democrats release state transportation budget / Demócratas de la Cámara de Representantes publican su presupuesto estatal de transporte – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/27/house-democrats-release-state-transportation-budget/#:~:text=SB%205550)
+* 01/16/2023 [Senate Democrats](/org/senate_democrats/) - [Home - Sen. Marko Liias](https://senatedemocrats.wa.gov/blog/team_members/sen-marko-liias/#:~:text=Senate%20Bill%205550)
 
 ## Meetings
 ### Wed 03/15 04:00 PM - Transportation (TR): SB 5550 Ferry workforce development

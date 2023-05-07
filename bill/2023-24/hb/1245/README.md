@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1245](/bill/2023-24/hb/1245/)
 
-# HB 1245
+# HB 1245 - Lot splitting
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1245&Year=2023&Initiative=false)
 
 ## Revisions
@@ -9,20 +9,23 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
-* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201245)
-* [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201245)
-* [The Urbanist](/org/the_urbanist/) - [Missing Middle Housing, ADU, and Design Review Reforms Pass Second Chamber | The Urbanist](https://www.theurbanist.org/2023/04/12/missing-middle-housing-adu-and-design-review-reforms-pass-second-chamber/#:~:text=HB%201245)
-* [The Urbanist](/org/the_urbanist/) - [Legislature Advances Narrower TOD and Missing Middle Bills | The Urbanist](https://www.theurbanist.org/2023/04/05/legislature-advances-narrower-tod-and-missing-middle-bills/#:~:text=HB%201245)
-* [House Republicans](/org/house_republicans/) - [Increase housing options through lot splitting | Washington State House Republicans](https://houserepublicans.wa.gov/increase-housing-options-through-lot-splitting/#:~:text=House%20bill%201245)
-* [The Urbanist](/org/the_urbanist/) - [Striker Amendments Stalk Housing Bills in the Washington Legislature | The Urbanist](https://www.theurbanist.org/2023/03/29/striker-amendments-stalk-housing-bills-in-the-washington-legislature/#:~:text=HB%201245)
-* [The Urbanist](/org/the_urbanist/) - [The Legislative Budget Season Begins in Olympia | The Urbanist](https://www.theurbanist.org/2023/03/22/the-legislative-budget-season-begins-in-olympia/#:~:text=HB%201245)
-* [The Urbanist](/org/the_urbanist/) - [The Olympia Waltz Continues for Middle Housing and Other Vital Legislation | The Urbanist](https://www.theurbanist.org/2023/03/09/waleg-week-9-striker-hb1110/#:~:text=HB%201245)
-* [The Urbanist](/org/the_urbanist/) - [Washington Legislature’s New Thinking About Housing | The Urbanist](https://www.theurbanist.org/2023/03/01/washington-legislatures-new-thinking-about-housing/#:~:text=HB%201245)
-* [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB%201245)
-* [Sightline Institute](/org/sightline_institute/) - [Washington Lot Split Bills Would Create Starter Homes, Support Community Stability - Sightline Institute](https://www.sightline.org/2023/01/24/washington-lot-split-bills-would-create-starter-homes-support-community-stability/#:~:text=(HB%201245))
-* [Crosscut](/org/crosscut/) - [How WA's legislature is addressing the housing crisis in 2023 | Crosscut](https://crosscut.com/politics/2023/01/how-was-legislature-addressing-housing-crisis-2023#:~:text=House%20Bill%201245)
-* [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=House%20Bill%201245)
-* [Crosscut](/org/crosscut/) - [WA looks to address housing shortage with density, zoning changes | Crosscut](https://crosscut.com/politics/2023/03/wa-looks-address-housing-shortage-density-zoning-changes#:~:text=House%20Bill%201245)
+* 05/01/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201245)
+* 04/18/2023 [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201245)
+* 04/13/2023 [The Urbanist](/org/the_urbanist/) - [Missing Middle Housing, ADU, and Design Review Reforms Pass Second Chamber | The Urbanist](https://www.theurbanist.org/2023/04/12/missing-middle-housing-adu-and-design-review-reforms-pass-second-chamber/#:~:text=HB%201245)
+* 04/05/2023 [The Urbanist](/org/the_urbanist/) - [Legislature Advances Narrower TOD and Missing Middle Bills | The Urbanist](https://www.theurbanist.org/2023/04/05/legislature-advances-narrower-tod-and-missing-middle-bills/#:~:text=HB%201245)
+* 04/05/2023 [House Republicans](/org/house_republicans/) - [Increase housing options through lot splitting | Washington State House Republicans](https://houserepublicans.wa.gov/increase-housing-options-through-lot-splitting/#:~:text=House%20bill%201245)
+* 03/29/2023 [The Urbanist](/org/the_urbanist/) - [Striker Amendments Stalk Housing Bills in the Washington Legislature | The Urbanist](https://www.theurbanist.org/2023/03/29/striker-amendments-stalk-housing-bills-in-the-washington-legislature/#:~:text=HB%201245)
+* 03/22/2023 [The Urbanist](/org/the_urbanist/) - [The Legislative Budget Season Begins in Olympia | The Urbanist](https://www.theurbanist.org/2023/03/22/the-legislative-budget-season-begins-in-olympia/#:~:text=HB%201245)
+* 03/18/2023 [House Republicans](/org/house_republicans/) - [The second half of the 2023 legislative session | Washington State House Republicans](https://houserepublicans.wa.gov/current/the-second-half-of-the-2023-legislative-session/#:~:text=House%20Bill%201245)
+* 03/17/2023 [Crosscut](/org/crosscut/) - [WA looks to address housing shortage with density, zoning changes | Crosscut](https://crosscut.com/politics/2023/03/wa-looks-address-housing-shortage-density-zoning-changes#:~:text=House%20Bill%201245)
+* 03/11/2023 [House Republicans](/org/house_republicans/) - [House of origin cutoff | Washington State House Republicans](https://houserepublicans.wa.gov/current/house-of-origin-cutoff/#:~:text=House%20Bill%201245)
+* 03/10/2023 [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=House%20Bill%201245)
+* 03/09/2023 [The Urbanist](/org/the_urbanist/) - [The Olympia Waltz Continues for Middle Housing and Other Vital Legislation | The Urbanist](https://www.theurbanist.org/2023/03/09/waleg-week-9-striker-hb1110/#:~:text=HB%201245)
+* 03/01/2023 [The Urbanist](/org/the_urbanist/) - [Washington Legislature’s New Thinking About Housing | The Urbanist](https://www.theurbanist.org/2023/03/01/washington-legislatures-new-thinking-about-housing/#:~:text=HB%201245)
+* 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB%201245)
+* 01/27/2023 [House Republicans](/org/house_republicans/) - [Bills passed by Democrats that have contributed to our housing crisis | Washington State House Republicans](https://houserepublicans.wa.gov/housing-crisis/#:~:text=House%20Bill%201245)
+* 01/25/2023 [Sightline Institute](/org/sightline_institute/) - [Washington Lot Split Bills Would Create Starter Homes, Support Community Stability - Sightline Institute](https://www.sightline.org/2023/01/24/washington-lot-split-bills-would-create-starter-homes-support-community-stability/#:~:text=(HB%201245))
+* 01/12/2023 [Crosscut](/org/crosscut/) - [How WA's legislature is addressing the housing crisis in 2023 | Crosscut](https://crosscut.com/politics/2023/01/how-was-legislature-addressing-housing-crisis-2023#:~:text=House%20Bill%201245)
 * [Crosscut](/org/crosscut/) - [WA looks to address housing shortage with density, zoning changes | Crosscut](https://crosscut.com/politics/2023/03/washington-has-shot-passing-massive-housing-reform-package#:~:text=House%20Bill%201245)
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Housing & Homelessness](https://crosscut.com/voter-guide/2023-legislative-tracker/election/housing-homelessness#:~:text=House%20Bill%201245)
 

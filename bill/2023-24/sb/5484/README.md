@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5484](/bill/2023-24/sb/5484/)
 
-# SB 5484
+# SB 5484 - Food/environmental steward.
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5484&Year=2023&Initiative=false)
 
 ## Revisions

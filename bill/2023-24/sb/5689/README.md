@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5689](/bill/2023-24/sb/5689/)
 
-# SB 5689
+# SB 5689 - Internet projects/tribes
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5689&Year=2023&Initiative=false)
 
 ## Revisions

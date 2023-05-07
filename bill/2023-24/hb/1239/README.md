@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1239](/bill/2023-24/hb/1239/)
 
-# HB 1239
+# HB 1239 - Educator ethics & complaints
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1239&Year=2023&Initiative=false)
 
 ## Revisions
@@ -9,7 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
-* [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=House%20Bill%201239)
+* 04/05/2023 [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=House%20Bill%201239)
 
 ## Meetings
 ### Mon 02/20 01:30 PM - Appropriations (APP): SHB 1239 Educator ethics & complaints

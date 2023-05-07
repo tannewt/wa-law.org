@@ -1,13 +1,13 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1663](/bill/2023-24/hb/1663/)
 
-# HB 1663
+# HB 1663 - Consolidated port districts
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1663&Year=2023&Initiative=false)
 
 ## Revisions
 * [Original Bill](1/)
 
 ## 📰 Articles
-* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1663)
+* 05/02/2023 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1663)
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): EHB 1663 Consolidated port districts

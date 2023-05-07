@@ -1,11 +1,14 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5651](/bill/2023-24/sb/5651/)
 
-# SB 5651
+# SB 5651 - GMA/equity and env. justice
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5651&Year=2023&Initiative=false)
 
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+
+## 📰 Articles
+* 02/05/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 5: Addressing addiction, fair housing and support for nurses - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/02/05/this-week-in-the-senate-week-5-addressing-addiction-fair-housing-and-support-for-nurses/#:~:text=Senate%20Bill%205651)
 
 ## Meetings
 ### Wed 02/22 01:30 PM - Ways & Means (WM): SSB 5651 GMA/equity and env. justice

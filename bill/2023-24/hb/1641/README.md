@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1641](/bill/2023-24/hb/1641/)
 
-# HB 1641
+# HB 1641 - High-potency cannabis
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1641&Year=2023&Initiative=false)
 
 ## Revisions

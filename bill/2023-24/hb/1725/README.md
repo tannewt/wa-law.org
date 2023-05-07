@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1725](/bill/2023-24/hb/1725/)
 
-# HB 1725
+# HB 1725 - Insulin/access under 21
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1725&Year=2023&Initiative=false)
 
 ## Revisions
@@ -8,7 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
-* [The Seattle Times](/org/the_seattle_times/) - [WA Legislature aims to lower insulin costs, amid federal inaction | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-legislature-aims-to-lower-insulin-costs-amid-federal-inaction/#:~:text=House%20Bill%201725)
+* 02/15/2023 [The Seattle Times](/org/the_seattle_times/) - [WA Legislature aims to lower insulin costs, amid federal inaction | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-legislature-aims-to-lower-insulin-costs-amid-federal-inaction/#:~:text=House%20Bill%201725)
 
 ## Meetings
 ### Wed 02/08 01:30 PM - Health Care & Wellness (HCW): HB 1725 Insulin/access under 21

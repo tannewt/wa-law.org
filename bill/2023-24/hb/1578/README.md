@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1578](/bill/2023-24/hb/1578/)
 
-# HB 1578
+# HB 1578 - Wildland fire safety
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1578&Year=2023&Initiative=false)
 
 ## Revisions
@@ -10,7 +10,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
-* [House Democrats](/org/house_democrats/) - [House addresses increasingly dangerous wildfire seasons – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/06/house-addresses-increasingly-dangerous-wildfire-seasons/#:~:text=HB%201578)
+* 03/06/2023 [House Democrats](/org/house_democrats/) - [House addresses increasingly dangerous wildfire seasons – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/06/house-addresses-increasingly-dangerous-wildfire-seasons/#:~:text=HB%201578)
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [Legislative Priorities | WA - DNR](https://www.dnr.wa.gov/about/legislative#:~:text=HB%201578)
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [‘Cascading Impacts of Wildfire’ Bill Introduced to Address Smoke and Wildfire Risk Statewide | WA - DNR](https://www.dnr.wa.gov/news/%E2%80%98cascading-impacts-wildfire%E2%80%99-bill-introduced-address-smoke-and-wildfire-risk-statewide#:~:text=House%20Bill%201578)
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [‘Cascading Impacts of Wildfire’ Bill Passes House with Unanimous Vote, Heads to Senate | WA - DNR](https://www.dnr.wa.gov/news/%E2%80%98cascading-impacts-wildfire%E2%80%99-bill-passes-house-unanimous-vote-heads-senate#:~:text=House%20Bill%201578)

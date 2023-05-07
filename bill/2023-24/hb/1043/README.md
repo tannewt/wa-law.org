@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1043](/bill/2023-24/hb/1043/)
 
-# HB 1043
+# HB 1043 - Records/comm. associations
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1043&Year=2023&Initiative=false)
 
 ## Revisions
@@ -9,7 +9,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
-* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1043)
+* 05/02/2023 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1043)
 
 ## Meetings
 ### Mon 03/20 10:30 AM - Law & Justice (LAW): SHB 1043 Records/comm. associations

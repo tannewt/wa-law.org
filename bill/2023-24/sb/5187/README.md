@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5187](/bill/2023-24/sb/5187/)
 
-# SB 5187
+# SB 5187 - Operating budget
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5187&Year=2023&Initiative=false)
 
 ## Revisions
@@ -10,16 +10,17 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
-* [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=Senate%20Bill%205187)
-* [The Urbanist](/org/the_urbanist/) - [Missing Middle Housing, ADU, and Design Review Reforms Pass Second Chamber | The Urbanist](https://www.theurbanist.org/2023/04/12/missing-middle-housing-adu-and-design-review-reforms-pass-second-chamber/#:~:text=SB%205187)
-* [House Republicans](/org/house_republicans/) - [State budgets and bad Senate bills | Washington State House Republicans](https://houserepublicans.wa.gov/current/state-budgets-and-bad-senate-bills/#:~:text=Senate%20Bill%205187)
-* [The Urbanist](/org/the_urbanist/) - [Legislature Advances Narrower TOD and Missing Middle Bills | The Urbanist](https://www.theurbanist.org/2023/04/05/legislature-advances-narrower-tod-and-missing-middle-bills/#:~:text=SB%205187)
-* [The Urbanist](/org/the_urbanist/) - [Striker Amendments Stalk Housing Bills in the Washington Legislature | The Urbanist](https://www.theurbanist.org/2023/03/29/striker-amendments-stalk-housing-bills-in-the-washington-legislature/#:~:text=SB%205187)
-* [The Urbanist](/org/the_urbanist/) - [The Legislative Budget Season Begins in Olympia | The Urbanist](https://www.theurbanist.org/2023/03/22/the-legislative-budget-season-begins-in-olympia/#:~:text=SB%205187)
-* [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=SB%205187)
-* [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 12 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate03302023#:~:text=S.B.%205187)
-* [Washington St Pta](/org/washington_st_pta/) - [House Releases 2023-2025 Budgets, Negotiations to Start This Week - WSPTA](https://www.wastatepta.org/house-releases-2023-2025-budgets-negotiations-to-start-this-week/#:~:text=ESSB%205187)
-* [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=SB%205187)
+* 04/18/2023 [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=Senate%20Bill%205187)
+* 04/13/2023 [The Urbanist](/org/the_urbanist/) - [Missing Middle Housing, ADU, and Design Review Reforms Pass Second Chamber | The Urbanist](https://www.theurbanist.org/2023/04/12/missing-middle-housing-adu-and-design-review-reforms-pass-second-chamber/#:~:text=SB%205187)
+* 04/08/2023 [House Republicans](/org/house_republicans/) - [State budgets and bad Senate bills | Washington State House Republicans](https://houserepublicans.wa.gov/current/state-budgets-and-bad-senate-bills/#:~:text=Senate%20Bill%205187)
+* 04/05/2023 [The Urbanist](/org/the_urbanist/) - [Legislature Advances Narrower TOD and Missing Middle Bills | The Urbanist](https://www.theurbanist.org/2023/04/05/legislature-advances-narrower-tod-and-missing-middle-bills/#:~:text=SB%205187)
+* 04/03/2023 [Washington St Pta](/org/washington_st_pta/) - [House Releases 2023-2025 Budgets, Negotiations to Start This Week - WSPTA](https://www.wastatepta.org/house-releases-2023-2025-budgets-negotiations-to-start-this-week/#:~:text=ESSB%205187)
+* 03/30/2023 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 12 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate03302023#:~:text=S.B.%205187)
+* 03/29/2023 [The Urbanist](/org/the_urbanist/) - [Striker Amendments Stalk Housing Bills in the Washington Legislature | The Urbanist](https://www.theurbanist.org/2023/03/29/striker-amendments-stalk-housing-bills-in-the-washington-legislature/#:~:text=SB%205187)
+* 03/27/2023 [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=SB%205187)
+* 03/24/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 12: Another key deadline and budgets start to move - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/24/this-week-in-the-senate-week-12-another-key-deadline-and-budgets-start-to-move/#:~:text=Senate%20Bill%205187)
+* 03/22/2023 [The Urbanist](/org/the_urbanist/) - [The Legislative Budget Season Begins in Olympia | The Urbanist](https://www.theurbanist.org/2023/03/22/the-legislative-budget-season-begins-in-olympia/#:~:text=SB%205187)
+* 03/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=SB%205187)
 
 ## Meetings
 ### Fri 03/24 02:00 PM - Ways & Means (WM): PSSB 5187: All other. (Remote Testimony Available).

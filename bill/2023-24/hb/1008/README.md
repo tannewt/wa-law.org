@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1008](/bill/2023-24/hb/1008/)
 
-# HB 1008
+# HB 1008 - Plan 2 members/insurance
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1008&Year=2023&Initiative=false)
 
 ## Revisions

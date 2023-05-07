@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1626](/bill/2023-24/hb/1626/)
 
-# HB 1626
+# HB 1626 - Colorectal screening tests
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1626&Year=2023&Initiative=false)
 
 ## Revisions

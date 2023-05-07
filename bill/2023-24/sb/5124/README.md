@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5124](/bill/2023-24/sb/5124/)
 
-# SB 5124
+# SB 5124 - Nonrelative kin placement
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5124&Year=2023&Initiative=false)
 
 ## Revisions
@@ -11,7 +11,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
-* [Senate Democrats](/org/senate_democrats/) - [Bill expanding subsidy for guardians signed into law - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/05/01/bill-expanding-subsidy-for-guardians-signed-into-law/#:~:text=Senate%20Bill%205124)
+* 05/01/2023 [Senate Democrats](/org/senate_democrats/) - [Bill expanding subsidy for guardians signed into law - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/05/01/bill-expanding-subsidy-for-guardians-signed-into-law/#:~:text=Senate%20Bill%205124)
+* 01/11/2023 [Senate Democrats](/org/senate_democrats/) - [News - Washington Senate Democrats](https://senatedemocrats.wa.gov/news/#:~:text=Senate%20Bill%205124)
 
 ## Meetings
 ### Fri 03/31 01:30 PM - Appropriations (APP): ESSB 5124 Nonrelative kin placement

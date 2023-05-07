@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1188](/bill/2023-24/hb/1188/)
 
-# HB 1188
+# HB 1188 - Child welfare services/DD
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1188&Year=2023&Initiative=false)
 
 ## Revisions
@@ -11,7 +11,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
-* [House Democrats](/org/house_democrats/) - [Senn Bill to Connect Foster Youth to DD Services Passes Unanimously in the House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/28/senn-bill-to-connect-foster-youth-to-dd-services-passes-unanimously-in-the-house/#:~:text=House%20Bill%201188)
+* 02/28/2023 [House Democrats](/org/house_democrats/) - [Senn Bill to Connect Foster Youth to DD Services Passes Unanimously in the House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/28/senn-bill-to-connect-foster-youth-to-dd-services-passes-unanimously-in-the-house/#:~:text=House%20Bill%201188)
 
 ## Meetings
 ### Tue 03/21 04:00 PM - Ways & Means (WM): E2SHB 1188 Child welfare services/DD

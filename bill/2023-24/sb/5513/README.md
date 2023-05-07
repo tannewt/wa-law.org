@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5513](/bill/2023-24/sb/5513/)
 
-# SB 5513
+# SB 5513 - CTC mental health counseling
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5513&Year=2023&Initiative=false)
 
 ## Revisions

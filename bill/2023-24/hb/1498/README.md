@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1498](/bill/2023-24/hb/1498/)
 
-# HB 1498
+# HB 1498 - Aviation assurance funding
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1498&Year=2023&Initiative=false)
 
 ## Revisions
@@ -10,7 +10,8 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
-* [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1498)
+* 05/02/2023 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1498)
+* 03/18/2023 [House Republicans](/org/house_republicans/) - [The second half of the 2023 legislative session | Washington State House Republicans](https://houserepublicans.wa.gov/current/the-second-half-of-the-2023-legislative-session/#:~:text=House%20Bill%201498)
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): ESHB 1498 Aviation assurance funding

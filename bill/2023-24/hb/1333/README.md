@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1333](/bill/2023-24/hb/1333/)
 
-# HB 1333
+# HB 1333 - Domestic violent extremism
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1333&Year=2023&Initiative=false)
 
 ## Revisions
@@ -8,8 +8,9 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
-* [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201333)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB%201333)
+* 05/01/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201333)
+* 03/11/2023 [House Republicans](/org/house_republicans/) - [House of origin cutoff | Washington State House Republicans](https://houserepublicans.wa.gov/current/house-of-origin-cutoff/#:~:text=House%20Bill%201333)
+* 01/29/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB%201333)
 * [MyNorthwest](/org/mynorthwest/) - [Rantz: AG pushing most dangerous bill in legislative history - MyNorthwest.com](https://mynorthwest.com/3843618/rantz-ag-ferguson-conservative-views-terrifying-extremism-commission/#:~:text=HB%201333)
 
 ## Meetings

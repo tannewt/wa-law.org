@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5367](/bill/2023-24/sb/5367/)
 
-# SB 5367
+# SB 5367 - Products containing THC
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5367&Year=2023&Initiative=false)
 
 ## Revisions
@@ -11,7 +11,8 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
-* [KUOW](/org/kuow/) - [KUOW - 'Social equity' cannabis licenses aim to repair drug law harms to BIPOC communities](https://www.kuow.org/stories/social-equity-cannabis-licenses-aim-to-repair-drug-law-harms-to-bipoc-communities#:~:text=SB%205367)
+* 04/21/2023 [KUOW](/org/kuow/) - [KUOW - 'Social equity' cannabis licenses aim to repair drug law harms to BIPOC communities](https://www.kuow.org/stories/social-equity-cannabis-licenses-aim-to-repair-drug-law-harms-to-bipoc-communities#:~:text=SB%205367)
+* 01/29/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 4: Public safety takes center stage - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/29/this-week-in-the-senate-week-4-public-safety-takes-center-stage/#:~:text=SB%205367)
 
 ## Meetings
 ### Fri 03/31 01:30 PM - Appropriations (APP): E2SSB 5367 Products containing THC

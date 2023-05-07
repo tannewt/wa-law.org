@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1516](/bill/2023-24/hb/1516/)
 
-# HB 1516
+# HB 1516 - Lunar new year
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1516&Year=2023&Initiative=false)
 
 ## Revisions
@@ -8,7 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
-* [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers could make Lunar New Year an official state holiday | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-lawmakers-could-make-lunar-new-year-an-official-state-holiday/#:~:text=House%20Bill%201516)
+* 02/17/2023 [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers could make Lunar New Year an official state holiday | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-lawmakers-could-make-lunar-new-year-an-official-state-holiday/#:~:text=House%20Bill%201516)
 
 ## Meetings
 ### Wed 02/08 01:30 PM - State Government & Tribal Relations (SGOV): HB 1516 Lunar new year

@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1791](/bill/2023-24/hb/1791/)
 
-# HB 1791
+# HB 1791 - Commercial aviation services
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1791&Year=2023&Initiative=false)
 
 ## Revisions
@@ -10,10 +10,11 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
-* [MyNorthwest](/org/mynorthwest/) - [Search for new Washington airport location likely to start over - MyNorthwest.com](https://mynorthwest.com/3874896/search-new-airport-western-washington-starting-over/#:~:text=Engrossed%20Substitute%20House%20Bill%201791)
-* [South Seattle Emerald](/org/south_seattle_emerald/) - [Local and State Legislation Hope to Address Environmental Impacts From Airports | South Seattle Emerald](https://southseattleemerald.com/2023/03/27/local-and-state-legislation-hope-to-address-environmental-impacts-from-airports/#:~:text=House%20Bill%201791)
-* [House Democrats](/org/house_democrats/) - [Fey’s Bill to Form a Working Group to Restart the Airport Process Passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/08/feys-bill-to-form-a-working-group-to-restart-the-airport-process-passes-house/#:~:text=HB%201791)
-* [House Democrats](/org/house_democrats/) - [Fey bill will pause the state’s heated airport debate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/13/fey-bill-will-pause-the-states-heated-airport-debate/#:~:text=HB%201791)
+* 04/13/2023 [MyNorthwest](/org/mynorthwest/) - [Search for new Washington airport location likely to start over - MyNorthwest.com](https://mynorthwest.com/3874896/search-new-airport-western-washington-starting-over/#:~:text=Engrossed%20Substitute%20House%20Bill%201791)
+* 04/13/2023 [House Democrats](/org/house_democrats/) - [Fey bill will pause the state’s heated airport debate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/13/fey-bill-will-pause-the-states-heated-airport-debate/#:~:text=HB%201791)
+* 03/27/2023 [South Seattle Emerald](/org/south_seattle_emerald/) - [Local and State Legislation Hope to Address Environmental Impacts From Airports | South Seattle Emerald](https://southseattleemerald.com/2023/03/27/local-and-state-legislation-hope-to-address-environmental-impacts-from-airports/#:~:text=House%20Bill%201791)
+* 03/08/2023 [House Democrats](/org/house_democrats/) - [Fey’s Bill to Form a Working Group to Restart the Airport Process Passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/08/feys-bill-to-form-a-working-group-to-restart-the-airport-process-passes-house/#:~:text=HB%201791)
+* 02/24/2023 [NW News Network](/org/nw_news_network/) - [New commercial airport site search in WA would get do-over under bill moving through legislature | Northwest News Network](https://www.nwnewsnetwork.org/2023-02-24/new-commercial-airport-site-search-in-wa-would-get-do-over-under-bill-moving-through-legislature#:~:text=House%20Bill%201791)
 
 ## Meetings
 ### Tue 03/21 04:00 PM - Transportation (TRAN): ESHB 1791 Commercial aviation services

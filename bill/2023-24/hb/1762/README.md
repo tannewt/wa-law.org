@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1762](/bill/2023-24/hb/1762/)
 
-# HB 1762
+# HB 1762 - Warehouse employees
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1762&Year=2023&Initiative=false)
 
 ## Revisions
@@ -10,10 +10,11 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
-* [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=House%20Bill%201762)
-* [The Seattle Times](/org/the_seattle_times/) - [WA Legislature can protect warehouse workers when employers won’t | The Seattle Times](https://www.seattletimes.com/opinion/wa-legislature-can-protect-warehouse-workers-when-employers-wont/#:~:text=House%20Bill%201762)
-* [House Democrats](/org/house_democrats/) - [Doglio’s Warehouse Worker Protection Bill Passes in the House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/06/doglios-warehouse-worker-protection-bill-passes-in-the-house/#:~:text=House%20Bill%201762)
-* [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=House%20Bill%201762)
+* 04/27/2023 [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=House%20Bill%201762)
+* 04/27/2023 [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=House%20Bill%201762)
+* 03/11/2023 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 10: Housing, reproductive freedom and support for kids - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/11/this-week-in-the-senate-week-10-housing-reproductive-freedom-and-support-for-kids/#:~:text=House%20Bill%201762)
+* 03/06/2023 [The Seattle Times](/org/the_seattle_times/) - [WA Legislature can protect warehouse workers when employers won’t | The Seattle Times](https://www.seattletimes.com/opinion/wa-legislature-can-protect-warehouse-workers-when-employers-wont/#:~:text=House%20Bill%201762)
+* 03/06/2023 [House Democrats](/org/house_democrats/) - [Doglio’s Warehouse Worker Protection Bill Passes in the House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/06/doglios-warehouse-worker-protection-bill-passes-in-the-house/#:~:text=House%20Bill%201762)
 
 ## Meetings
 ### Thu 03/16 08:00 AM - Labor & Commerce (LC): 2SHB 1762 Warehouse employees

@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5199](/bill/2023-24/sb/5199/)
 
-# SB 5199
+# SB 5199 - Newspaper publishers/tax
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5199&Year=2023&Initiative=false)
 
 ## Revisions
@@ -11,9 +11,10 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
-* [The Seattle Times](/org/the_seattle_times/) - [Free Press roundup: WA legislative progress, Google bullies Canada | The Seattle Times](https://www.seattletimes.com/opinion/free-press-roundup-wa-legislative-progress-google-bullies-canada/#:~:text=Bill%205199)
-* [The Seattle Times](/org/the_seattle_times/) - [A smart way for legislators to help save local news | The Seattle Times](https://www.seattletimes.com/opinion/editorials/a-smart-way-for-legislators-to-help-save-local-news/#:~:text=Senate%20Bill%205199)
-* [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=Senate%20Bill%205199)
+* 03/31/2023 [Senate Democrats](/org/senate_democrats/) - [Newspaper tax break passes Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/31/newspaper-tax-break-passes-senate/#:~:text=SB%205199)
+* 03/01/2023 [The Seattle Times](/org/the_seattle_times/) - [Free Press roundup: WA legislative progress, Google bullies Canada | The Seattle Times](https://www.seattletimes.com/opinion/free-press-roundup-wa-legislative-progress-google-bullies-canada/#:~:text=Bill%205199)
+* 01/17/2023 [The Seattle Times](/org/the_seattle_times/) - [A smart way for legislators to help save local news | The Seattle Times](https://www.seattletimes.com/opinion/editorials/a-smart-way-for-legislators-to-help-save-local-news/#:~:text=Senate%20Bill%205199)
+* 01/11/2016 [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=Senate%20Bill%205199)
 
 ## Meetings
 ### Fri 04/14 08:00 AM - Finance (FIN): E2SSB 5199 Newspaper publishers/tax

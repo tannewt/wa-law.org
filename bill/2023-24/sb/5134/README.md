@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5134](/bill/2023-24/sb/5134/)
 
-# SB 5134
+# SB 5134 - Reentry services & supports
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5134&Year=2023&Initiative=false)
 
 ## Revisions
@@ -10,8 +10,8 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
-* [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Criminal Justice — Quaker Voice](https://www.quakervoicewa.org/criminal-justice/#:~:text=SB%205134)
-* [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=SB%205134)
+* 02/01/2019 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Criminal Justice — Quaker Voice](https://www.quakervoicewa.org/criminal-justice/#:~:text=SB%205134)
+* 06/19/2015 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=SB%205134)
 * [KING5](/org/king5/) - [Bill would increase support, cash for Washington inmates before being released | king5.com](https://www.king5.com/article/news/local/bill-increase-support-cash-washington-inmates/281-de67c91e-5d09-4ea9-820f-2db89ff6253b#:~:text=Senate%20Bill%205134)
 
 ## Meetings

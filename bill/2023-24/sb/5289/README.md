@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5289](/bill/2023-24/sb/5289/)
 
-# SB 5289
+# SB 5289 - Impact fees/law enforcement
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5289&Year=2023&Initiative=false)
 
 ## Revisions

@@ -1,9 +1,13 @@
 from bs4 import BeautifulSoup
 import arrow
+import datetime
 import url_history
 import urllib.robotparser
 import requests
 import urllib3
+import json
+import re
+import sys
 from urllib.parse import urlparse, parse_qs
 
 import utils
@@ -40,7 +44,25 @@ EXCLUDE = {
 
 session = url_history.HistorySession("org-website.db")
 
-after_date = arrow.get(2023, 4, 1)
+# regular expression pattern to match a date in the format yyyy/mm/dd
+DATE_PATTERN = r"(\d{4})/(\d{2})/(\d{2})"
+
+after_date = arrow.get(2022, 12, 1)
+
+def parse_date(content):
+    if not content:
+        return None
+    try:
+        return arrow.get(content).datetime
+    except arrow.parser.ParserError:
+        pass
+    for other_format in ("H:mm A ZZZ MMMM D, YYYY",):
+        try:
+            return arrow.get(content, other_format).datetime
+        except arrow.parser.ParserError:
+            pass
+    print("other parse failed:", content)
+    return None
 
 FETCH_NEW = True
 
@@ -54,6 +76,9 @@ org_cur.execute("SELECT rowid, url FROM organizations WHERE url IS NOT NULL")
 org_cur = org_cur.fetchall()
 i = 0
 for org_rowid, domain in org_cur:
+    if len(sys.argv) > 1 and domain not in sys.argv[1:]:
+        print("skipping", domain)
+        continue
     print(i, len(org_cur), domain)
     i += 1
     url_base = "https://" + domain
@@ -173,10 +198,58 @@ for org_rowid, domain in org_cur:
             print("noindex", page_url)
             continue
 
-        meta_modified_time = page.find("meta", attrs={"property":"article:modified_time"})
+        meta_published_time = page.find("meta", attrs={"property":"article:published_time"})
         modified_time = None
-        if meta_modified_time:
-            modified_time = arrow.get(meta_modified_time["content"]).datetime
+        if not meta_published_time:
+            meta_published_time = page.find("meta", attrs={"property":"og:article:published_time"})
+        if not meta_published_time:
+            meta_published_time = page.find("meta", attrs={"itemprop":"datePublished"})
+        if meta_published_time:
+            content = meta_published_time["content"]
+            modified_time = parse_date(content)
+
+        if not modified_time:
+            ld_json = page.find("script", attrs={"type":"application/ld+json"})
+            if ld_json:
+                try:
+                    ld_json = json.loads(ld_json.text)
+                except json.decoder.JSONDecodeError as e:
+                    print("json parse error:", e)
+                    print(ld_json.text)
+                    ln_json = {}
+                # print(page_url)
+                # print(ld_json)
+                if "@graph" in ld_json:
+                    graph = ld_json["@graph"][0]
+                    for key in ("datePublished", "dateCreated"):
+                        if key in graph:
+                            modified_time = arrow.get(graph[key]).datetime
+                            break
+
+        if not modified_time:
+            meta_modified_time = page.find("meta", attrs={"property":"article:modified_time"})
+            if not meta_modified_time:
+                meta_modified_time = page.find("meta", attrs={"itemprop":"dateModified"})
+            if meta_modified_time:
+                modified_time = parse_date(meta_modified_time["content"])
+
+        if not modified_time:
+            timeago_time = page.find("abbr", attrs={"class":"timeago"})
+            if timeago_time:
+                modified_time = arrow.get(timeago_time["title"]).datetime
+
+        # search for the date in the URL
+        if not modified_time:
+            match = re.search(DATE_PATTERN, page_url)
+            if match:
+                year = int(match.group(1))
+                month = int(match.group(2))
+                day = int(match.group(3))
+                modified_time = datetime.datetime(year=year, month=month, day=day)
+
+        if page_url == "https://www.king5.com/article/news/local/whatcom-county-rail-safety-push/281-ddb560d4-5a36-4eae-860c-6a1c10f6ef7e":
+            print(page_url, modified_time)
+
         # print(page)
         for link in page.find_all("a"):
             href = link.get("href")
@@ -215,7 +288,7 @@ for org_rowid, domain in org_cur:
 
                 if bill_number in link_text:
                     text_fragment = "#:~:text=" + link_text
-                    cur.execute("INSERT OR IGNORE INTO web_articles (organization_rowid, bill_rowid, date_posted, title, url, text_fragment) VALUES (?, ?, ?, ?, ?, ?)", (org_rowid, bill_rowid, modified_time, page.title.string.strip(), page_url, text_fragment))
+                    cur.execute("INSERT INTO web_articles (organization_rowid, bill_rowid, date_posted, title, url, text_fragment) VALUES (?, ?, ?, ?, ?, ?) ON CONFLICT (bill_rowid, url) DO UPDATE SET date_posted = excluded.date_posted", (org_rowid, bill_rowid, modified_time, page.title.string.strip(), page_url, text_fragment))
                     link_count += 1
                     continue
                 nonspecific += 1
@@ -224,9 +297,10 @@ for org_rowid, domain in org_cur:
                 print(link.parent)
                 print()
             else:
-                print(page_url)
-                print(link)
-                print()
+                # print(page_url)
+                # print(link)
+                # print()
+                pass
         db.commit()
 print("bill links", link_count)
 print("leg links", leg_links)

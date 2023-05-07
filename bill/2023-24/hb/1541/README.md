@@ -1,6 +1,6 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1541](/bill/2023-24/hb/1541/)
 
-# HB 1541
+# HB 1541 - Lived experience
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1541&Year=2023&Initiative=false)
 
 ## Revisions
@@ -10,9 +10,10 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
-* [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=HB%201541)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB%201541)
-* [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/05/the-house-hot-sheet-for-week-5-of-the-2023-legislative-session/#:~:text=HB%201541)
+* 03/17/2023 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 11: Gun safety, behavioral health and budget rollouts - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/17/this-week-in-the-senate-week-11-gun-safety-behavioral-health-and-budget-rollouts/#:~:text=House%20Bill%201541)
+* 02/05/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/05/the-house-hot-sheet-for-week-5-of-the-2023-legislative-session/#:~:text=HB%201541)
+* 01/29/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB%201541)
+* 06/19/2015 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=HB%201541)
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): E2SHB 1541 Lived experience
