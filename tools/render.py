@@ -1,4 +1,5 @@
 import pathlib
+import shutil
 import warnings
 
 from markdown_it import MarkdownIt
@@ -100,6 +101,11 @@ if __name__ == "__main__":
                 outpath = outpath.with_name("index.html")
             outpath.parent.mkdir(parents=True, exist_ok=True)
             outpath.write_text(render(subpath.read_text(), path_debug=subpath))
+
+        for subpath in p.glob("**/rss.xml"):
+            outpath = out / subpath
+            outpath.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copyfile(subpath, outpath)
     else:
         outpath = out / p.with_suffix(".html")
         if outpath.name == "README.html":
