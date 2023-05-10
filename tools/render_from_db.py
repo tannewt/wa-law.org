@@ -109,12 +109,24 @@ for bill_rowid, prefix, bill_number in cur:
         breadcrumb,
         "",
         f"# {prefix} {bill_number} - {description}",
-        f"[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber={bill_number}&Year=2023&Initiative=false)",
+        f"[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber={bill_number}&Year=2023&Initiative=false) | [RSS Feed](./rss.xml)",
         "",
         "## Revisions"
     ]
 
     feed_items = []
+
+    bill_history = db.cursor()
+    bill_history.execute("SELECT action_date, history_line FROM bill_history WHERE bill_rowid = ?", (bill_rowid,))
+    for action_date, history_line in bill_history:
+        item = rfeed.Item(
+            title=history_line,
+            description=history_line,
+            categories=["official"],
+            guid=rfeed.Guid(action_date.split()[0]+"/"+history_line, isPermaLink=False),
+            pubDate=arrow.get(action_date.split("+")[0]).datetime.replace(tzinfo=None),
+        )
+        feed_items.append(item)
 
     bill_path = bills_path / prefix.lower() / str(bill_number)
 
@@ -254,18 +266,33 @@ for bill_rowid, prefix, bill_number in cur:
                                 org = canonical.fetchone()
                             vio.add(org[0])
                             slug = org[2]
-                            organization = f"[{organization}](/org/{slug}/)"
-                        organization = " - " + organization
+                            organization_link = f"/org/{slug}/"
+                        else:
+                            organization_link = ""
+                        organization_md = " - " + organization
+                        organization_html = organization
+                        if organization_link:
+                            organization_md = f" - [{organization}]({organization_link})"
+                            organization_html = f"<a href=\"https://wa-law.org{organization_link}\">{organization}</a>"
+                        organization_annotation = " - " + organization
+                    else:
+                        organization_md = ""
+                        organization_html = ""
                     sign_in_time = datetime.datetime.strptime(sign_in_time.split("+")[0], "%Y-%m-%d %H:%M:%S")
+                    description = f"{first_name} {last_name} signed up to testify {position}."
+                    if organization:
+                        description += f" They are signed up to represent {organization_html}."
+                    if lobbyist:
+                        description += " They are a registered lobbyist."
                     item = rfeed.Item(
-                        title=f"{emoji}{lobbyist}{first_name} {last_name}{organization}",
-                        description=f"Signed up to testify {position}.",
+                        title=f"{emoji}{lobbyist}{first_name} {last_name}{organization_annotation}",
+                        description=description,
                         categories=["testifier", position],
                         guid=rfeed.Guid(f"testifier/{first_name}/{last_name}/{sign_in_time}", isPermaLink=False),
                         pubDate=sign_in_time.replace(tzinfo=None),
                     )
                     feed_items.append(item)
-                    bill_readme.append(f"* {lobbyist}{first_name} {last_name}{organization}")
+                    bill_readme.append(f"* {lobbyist}{first_name} {last_name}{organization_md}")
             bill_readme.append("")
 
     # Set the feed metadata
