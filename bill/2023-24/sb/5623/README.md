@@ -1,7 +1,7 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5623](/bill/2023-24/sb/5623/)
 
 # SB 5623 - Hate crimes
-[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5623&Year=2023&Initiative=false)
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5623&Year=2023&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)

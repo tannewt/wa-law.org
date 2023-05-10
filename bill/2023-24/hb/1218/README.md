@@ -1,7 +1,7 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1218](/bill/2023-24/hb/1218/)
 
 # HB 1218 - Caseload forecast/tax credit
-[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1218&Year=2023&Initiative=false)
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1218&Year=2023&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)

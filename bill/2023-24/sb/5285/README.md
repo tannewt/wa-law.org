@@ -1,7 +1,7 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5285](/bill/2023-24/sb/5285/)
 
 # SB 5285 - Caseload forecast/tax credit
-[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5285&Year=2023&Initiative=false)
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5285&Year=2023&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)

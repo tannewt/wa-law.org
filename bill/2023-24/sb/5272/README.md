@@ -1,7 +1,7 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5272](/bill/2023-24/sb/5272/)
 
 # SB 5272 - Speed safety cameras
-[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5272&Year=2023&Initiative=false)
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5272&Year=2023&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)

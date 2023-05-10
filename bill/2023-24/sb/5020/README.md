@@ -1,7 +1,7 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5020](/bill/2023-24/sb/5020/)
 
 # SB 5020 - Education at 6 years of age
-[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5020&Year=2023&Initiative=false)
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5020&Year=2023&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)

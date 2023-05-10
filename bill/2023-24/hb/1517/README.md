@@ -1,7 +1,7 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1517](/bill/2023-24/hb/1517/)
 
 # HB 1517 - Transit-oriented development
-[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1517&Year=2023&Initiative=false)
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1517&Year=2023&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)

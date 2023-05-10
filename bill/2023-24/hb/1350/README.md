@@ -1,7 +1,7 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1350](/bill/2023-24/hb/1350/)
 
 # HB 1350 - Expanding the multifamily tax exemption program to include converting existing multifamily units.
-[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1350&Year=2023&Initiative=false)
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1350&Year=2023&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)

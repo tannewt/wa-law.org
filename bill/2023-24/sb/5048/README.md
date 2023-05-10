@@ -1,7 +1,7 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5048](/bill/2023-24/sb/5048/)
 
 # SB 5048 - College in high school fees
-[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5048&Year=2023&Initiative=false)
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5048&Year=2023&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)

@@ -1,7 +1,7 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1031](/bill/2023-24/hb/1031/)
 
 # HB 1031 - Medal of valor award
-[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1031&Year=2023&Initiative=false)
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1031&Year=2023&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)

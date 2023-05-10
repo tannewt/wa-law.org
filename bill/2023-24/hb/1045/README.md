@@ -1,7 +1,7 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1045](/bill/2023-24/hb/1045/)
 
 # HB 1045 - Basic income pilot program
-[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1045&Year=2023&Initiative=false)
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1045&Year=2023&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
