@@ -11,7 +11,7 @@
 
 ## 📰 Articles
 * 04/18/2023 [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=Senate%20Bill%205187)
-* 04/13/2023 [The Urbanist](/org/the_urbanist/) - [Missing Middle Housing, ADU, and Design Review Reforms Pass Second Chamber | The Urbanist](https://www.theurbanist.org/2023/04/12/missing-middle-housing-adu-and-design-review-reforms-pass-second-chamber/#:~:text=SB%205187)
+* 04/12/2023 [The Urbanist](/org/the_urbanist/) - [Missing Middle Housing, ADU, and Design Review Reforms Pass Second Chamber | The Urbanist](https://www.theurbanist.org/2023/04/12/missing-middle-housing-adu-and-design-review-reforms-pass-second-chamber/#:~:text=SB%205187)
 * 04/08/2023 [House Republicans](/org/house_republicans/) - [State budgets and bad Senate bills | Washington State House Republicans](https://houserepublicans.wa.gov/current/state-budgets-and-bad-senate-bills/#:~:text=Senate%20Bill%205187)
 * 04/05/2023 [The Urbanist](/org/the_urbanist/) - [Legislature Advances Narrower TOD and Missing Middle Bills | The Urbanist](https://www.theurbanist.org/2023/04/05/legislature-advances-narrower-tod-and-missing-middle-bills/#:~:text=SB%205187)
 * 04/03/2023 [Washington St Pta](/org/washington_st_pta/) - [House Releases 2023-2025 Budgets, Negotiations to Start This Week - WSPTA](https://www.wastatepta.org/house-releases-2023-2025-budgets-negotiations-to-start-this-week/#:~:text=ESSB%205187)

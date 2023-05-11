@@ -9,7 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
-* 05/01/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201282)
+* 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201282)
 
 ## Meetings
 ### Tue 03/28 04:00 PM - Ways & Means (WM): ESHB 1282 Public building materials

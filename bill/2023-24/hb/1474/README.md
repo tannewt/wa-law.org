@@ -10,6 +10,9 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 05/09/2023 [PubliCola](/org/publicola/) - [State Legislature Funds Social Services, Will Revisit Drug Policy After Failing to Act - PubliCola](https://publicola.com/2023/05/09/state-legislature-funds-social-services-will-revisit-drug-policy-after-failing-to-act/#:~:text=House%20Bill%201474)
+* 05/09/2023 [The Center Square](/org/the_center_square/) - [Gov. Inslee signs housing discrimination crackdown | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_21faec02-ee94-11ed-a26d-bbe7480292eb.html#:~:text=Second%20Substitute%20House%20Bill%201474)
+* 05/08/2023 [MyNorthwest](/org/mynorthwest/) - [Gov. Inslee signs 10 housing bills into law in WA's 'year of housing' - MyNorthwest.com](https://mynorthwest.com/3886464/inslee-sign-10-housing-bills-law-washington-year-housing/#:~:text=House%20Bill%201474)
 * 05/01/2023 [The Urbanist](/org/the_urbanist/) - [Heroes and Zeroes of the 2023 Washington State Legislature | The Urbanist](https://www.theurbanist.org/2023/05/01/heroes-and-zeroes-of-2023-legislature/#:~:text=HB%201474)
 * 04/27/2023 [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=House%20Bill%201474)
 * 04/27/2023 [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=House%20Bill%201474)

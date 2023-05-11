@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 02/23/2023 [The Urbanist](/org/the_urbanist/) - [What Groups Around Washington Are Asking from Olympia | The Urbanist](https://www.theurbanist.org/2023/02/22/waleg-week-7-priorities/#:~:text=HB%201040)
+* 02/22/2023 [The Urbanist](/org/the_urbanist/) - [What Groups Around Washington Are Asking from Olympia | The Urbanist](https://www.theurbanist.org/2023/02/22/waleg-week-7-priorities/#:~:text=HB%201040)
 
 ## Meetings
 ### Wed 01/11 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1040 Aviation & aerospace cmte.

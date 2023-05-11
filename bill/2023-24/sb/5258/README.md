@@ -11,6 +11,8 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 05/08/2023 [The Center Square](/org/the_center_square/) - ['A million new Washingtonians': Gov. Inslee signs package of housing bills | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a30dd1d6-ede2-11ed-b13c-87df998c6452.html#:~:text=Engrossed%20Second%20Substitute%20Senate%20Bill%205258)
+* 05/08/2023 [Sightline Institute](/org/sightline_institute/) - [How the Washington Legislature Burst the Housing Abundance Dam - Sightline Institute](https://www.sightline.org/2023/05/08/how-the-washington-legislature-burst-the-housing-abundance-dam/#:~:text=SB%205258)
 * 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=SB%205258)
 * 01/22/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 3: Housing, public safety and reproductive freedom take center stage - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/22/this-week-in-the-senate-week-3-housing-public-safety-and-reproductive-freedom-take-center-stage/#:~:text=Senate%20Bill%205258)
 * [KIRO7](/org/kiro7/) - [‘WA needs 1 million new homes within next 20 years’: Suite of bills target the housing crisis – KIRO 7 News Seattle](https://www.kiro7.com/news/local/wa-needs-1-million-new-homes-within-next-20-years-suite-bills-target-housing-crisis/UDGREATSP5FQXCOF6E5GUFIF5A/#:~:text=SB%205258)

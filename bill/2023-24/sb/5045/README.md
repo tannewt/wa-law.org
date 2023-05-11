@@ -11,6 +11,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 05/08/2023 [The Center Square](/org/the_center_square/) - ['A million new Washingtonians': Gov. Inslee signs package of housing bills | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a30dd1d6-ede2-11ed-b13c-87df998c6452.html#:~:text=Engrossed%20Second%20Substitute%20Senate%20Bill%205045)
 * 04/27/2023 [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205045)
 * 04/27/2023 [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205045)
 * 03/19/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 11 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/19/the-house-hot-sheet-for-week-11-of-the-2023-legislative-session/#:~:text=E2SSB%205045)

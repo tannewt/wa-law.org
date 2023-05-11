@@ -7,10 +7,11 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/09/2023 [House Democrats](/org/house_democrats/) - [Washington State Roars with Excitement as Governor Inslee Signs Bill Designating Suciasaurus Rex as Official State Dinosaur – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/05/09/washington-state-roars-with-excitement-as-governor-inslee-signs-bill-designating-suciasaurus-rex-as-official-state-dinosaur/#:~:text=HB%201020)
 * 05/05/2023 [KING5](/org/king5/) - [5 things to know this weekend | king5.com](https://www.king5.com/article/news/local/5-things-know-weekend/281-7f651aa8-d5dd-4d91-a55d-6710456f20e4#:~:text=House%20Bill%201020)
 * 05/05/2023 [KING5](/org/king5/) - [Suciasaurus rex becomes official Washington state dinosaur | king5.com](https://www.king5.com/article/news/politics/state-politics/suciasaurus-rex-official-washington-state-dinosaur/281-71ff3da4-021d-4b01-9a5a-ecda8b24b84e#:~:text=House%20Bill%201020)
 * 04/24/2023 [Crosscut](/org/crosscut/) - [The bills that survived Washington's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/04/bills-survived-washingtons-2023-legislative-session#:~:text=House%20Bill%201020)
-* 04/20/2023 [The Seattle Times](/org/the_seattle_times/) - [Washington soon may have an official state dinosaur | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/washington-soon-to-have-an-official-state-dinosaur/#:~:text=House%20Bill%201020)
+* 04/21/2023 [The Seattle Times](/org/the_seattle_times/) - [Washington soon may have an official state dinosaur | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/washington-soon-to-have-an-official-state-dinosaur/#:~:text=House%20Bill%201020)
 * 04/14/2023 [Crosscut](/org/crosscut/) - [ArtSEA: Dinosaurs, Kraken and fairies come alive in Seattle | Crosscut](https://crosscut.com/culture/2023/04/artsea-dinosaurs-kraken-and-fairies-come-alive-seattle#:~:text=HB%201020)
 * 04/12/2023 [House Democrats](/org/house_democrats/) - [Washington Goes Prehistoric: Suciasaurus Named State Dinosaur – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/12/washington-goes-prehistoric-suciasaurus-named-state-dinosaur/#:~:text=HB%201020)
 * 03/10/2023 [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=House%20Bill%201020)

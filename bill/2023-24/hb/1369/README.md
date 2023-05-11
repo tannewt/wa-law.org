@@ -10,7 +10,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
-* 05/02/2023 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1369)
+* 05/20/2021 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1369)
 
 ## Meetings
 ### Mon 01/30 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1369 Fish and wildlife officers

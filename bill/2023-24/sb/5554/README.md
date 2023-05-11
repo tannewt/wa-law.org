@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 02/13/2023 [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers want to beef up state aid for college students | The Seattle Times](https://www.seattletimes.com/seattle-news/education/wa-lawmakers-want-to-beef-up-state-aid-for-college-students/#:~:text=Senate%20Bill%205554)
+* 02/14/2023 [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers want to beef up state aid for college students | The Seattle Times](https://www.seattletimes.com/seattle-news/education/wa-lawmakers-want-to-beef-up-state-aid-for-college-students/#:~:text=Senate%20Bill%205554)
 
 ## Meetings
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SB 5554 College grant award amounts

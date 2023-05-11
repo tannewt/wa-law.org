@@ -10,7 +10,7 @@
 
 ## 📰 Articles
 * 03/17/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 20 - 24, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-20-24-2023/#:~:text=SB%205523)
-* 03/13/2023 [Senate Democrats](/org/senate_democrats/) - [Senate OKs bill to increase number of doctors who perform autopsies - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/06/senate-oks-bill-to-increase-number-of-doctors-who-perform-autopsies/#:~:text=SB%205523)
+* 03/07/2023 [Senate Democrats](/org/senate_democrats/) - [Senate OKs bill to increase number of doctors who perform autopsies - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/06/senate-oks-bill-to-increase-number-of-doctors-who-perform-autopsies/#:~:text=SB%205523)
 
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): SSB 5523 Forensic pathologists

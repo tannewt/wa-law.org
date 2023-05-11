@@ -11,6 +11,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 05/09/2023 [House Democrats](/org/house_democrats/) - [Expanded Free School Meals Signed into Law – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/05/09/expanded-free-school-meals-signed-into-law/#:~:text=HB%201238)
 * 04/27/2023 [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=House%20Bill%201238)
 * 04/27/2023 [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=House%20Bill%201238)
 * 04/24/2023 [Crosscut](/org/crosscut/) - [The bills that survived Washington's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/04/bills-survived-washingtons-2023-legislative-session#:~:text=House%20Bill%201238)
@@ -29,8 +30,8 @@
 * 02/06/2023 [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=HB%201238)
 * 01/30/2023 [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=HB%201238)
 * 01/29/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB%201238)
+* 01/24/2023 [The Washington Bus](/org/the_washington_bus/) - [Announcing our 2023 Legislative Priorities! – The Washington Bus](http://www.washingtonbus.org/2023/01/23/announcing-our-2023-legislative-priorities/#:~:text=1238)
 * 01/23/2023 [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB%201238)
-* 01/23/2023 [The Washington Bus](/org/the_washington_bus/) - [Announcing our 2023 Legislative Priorities! – The Washington Bus](http://www.washingtonbus.org/2023/01/23/announcing-our-2023-legislative-priorities/#:~:text=1238)
 * 01/22/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/22/the-house-hot-sheet-for-week-3-of-the-2023-legislative-session/#:~:text=HB%201238)
 * 01/12/2023 [Senate Democrats](/org/senate_democrats/) - [Riccelli, Nobles Introduce Free School Meals Bill - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/12/riccelli-nobles-introduce-free-school-meals-bill/#:~:text=HB%201238)
 * 01/11/2023 [House Democrats](/org/house_democrats/) - [Riccelli, Nobles Introduce Free School Meals Bill – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/11/riccelli-nobles-introduce-free-school-meals-bill/#:~:text=HB%201238)

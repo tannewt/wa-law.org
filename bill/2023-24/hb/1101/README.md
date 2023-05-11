@@ -10,7 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
-* 02/03/2023 [The Urbanist](/org/the_urbanist/) - [Pollet, Pedersen, and Blethen Assail State Housing Push | The Urbanist](https://www.theurbanist.org/2023/02/01/waleg-wednesday-week-4/#:~:text=HB%201101)
+* 02/01/2023 [The Urbanist](/org/the_urbanist/) - [Pollet, Pedersen, and Blethen Assail State Housing Push | The Urbanist](https://www.theurbanist.org/2023/02/01/waleg-wednesday-week-4/#:~:text=HB%201101)
 
 ## Meetings
 ### Thu 02/16 08:00 AM - Law & Justice (LAW): SHB 1101 Tenant screening/communities

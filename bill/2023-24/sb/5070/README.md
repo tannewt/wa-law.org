@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 04/21/2023 [Senate Democrats](/org/senate_democrats/) - [Nobles bill makes reimbursement Crime Victims Compensation Program permanent for survivors of strangulation - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/04/20/nobles-bill-makes-crime-victims-compensation-program-permanent/#:~:text=Senate%20Bill%205070)
+* 04/20/2023 [Senate Democrats](/org/senate_democrats/) - [Nobles bill makes reimbursement Crime Victims Compensation Program permanent for survivors of strangulation - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/04/20/nobles-bill-makes-crime-victims-compensation-program-permanent/#:~:text=Senate%20Bill%205070)
 * 01/11/2023 [Senate Democrats](/org/senate_democrats/) - [News - Washington Senate Democrats](https://senatedemocrats.wa.gov/news/#:~:text=Senate%20Bill%205070)
 
 ## Meetings

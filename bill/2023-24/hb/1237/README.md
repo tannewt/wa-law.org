@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 05/02/2023 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1237)
+* 05/20/2021 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1237)
 
 ## Meetings
 ### Thu 03/23 04:00 PM - Transportation (TRAN): HB 1237 VIN inspection fee

@@ -10,7 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
-* 05/02/2023 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1577)
+* 05/20/2021 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1577)
 
 ## Meetings
 ### Tue 03/14 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SHB 1577 Municipal officers/contracts

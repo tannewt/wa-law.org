@@ -296,13 +296,14 @@ for bill_rowid, prefix, bill_number in cur:
             bill_readme.append("")
 
     # Set the feed metadata
+    items = sorted(feed_items, key=attrgetter("pubDate"))
     feed = rfeed.Feed(
         title=description,
         link=f"https://wa-law.org/{bill_path}/",
         description=f"Updates about {prefix} {bill_number}",
         language='en-US',
-        lastBuildDate=now,
-        items=sorted(feed_items, key=attrgetter("pubDate")),
+        lastBuildDate=items[-1].pubDate if items else datetime.datetime(2022, 12, 1),
+        items=items,
     )
 
     with open(bill_path / 'rss.xml', 'w') as f:

@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 02/28/2023 [House Republicans](/org/house_republicans/) - [Real solutions for Washington’s environment: Cooler, cleaner, healthier water | Washington State House Republicans](https://houserepublicans.wa.gov/real-environmental-solutions/#:~:text=House%20Bill%201166)
+* 02/27/2023 [House Republicans](/org/house_republicans/) - [Real solutions for Washington’s environment: Cooler, cleaner, healthier water | Washington State House Republicans](https://houserepublicans.wa.gov/real-environmental-solutions/#:~:text=House%20Bill%201166)
 
 ## Meetings
 ### Mon 01/16 01:30 PM - Environment & Energy (ENVI): HB 1166 Water quality trading prog.

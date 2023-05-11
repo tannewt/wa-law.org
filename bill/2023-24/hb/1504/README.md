@@ -9,7 +9,7 @@
 
 ## 📰 Articles
 * 03/06/2023 [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=SHB%201504)
-* 03/03/2023 [The Seattle Times](/org/the_seattle_times/) - [Recess is a critical part of a child’s education | The Seattle Times](https://www.seattletimes.com/opinion/recess-is-a-critical-part-of-a-childs-education/#:~:text=House%20Bill%201504)
+* 03/05/2023 [The Seattle Times](/org/the_seattle_times/) - [Recess is a critical part of a child’s education | The Seattle Times](https://www.seattletimes.com/opinion/recess-is-a-critical-part-of-a-childs-education/#:~:text=House%20Bill%201504)
 * 02/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB%201504)
 * 02/13/2023 [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=HB%201504)
 * 02/08/2023 [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! February 7, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-february-7-2023/#:~:text=HB%201504)

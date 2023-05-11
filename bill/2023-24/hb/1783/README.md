@@ -9,7 +9,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
-* 05/02/2023 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1783)
+* 05/20/2021 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1783)
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): SHB 1783 Grant writers

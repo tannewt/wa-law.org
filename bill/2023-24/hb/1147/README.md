@@ -8,7 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
-* 04/13/2023 [The Urbanist](/org/the_urbanist/) - [Missing Middle Housing, ADU, and Design Review Reforms Pass Second Chamber | The Urbanist](https://www.theurbanist.org/2023/04/12/missing-middle-housing-adu-and-design-review-reforms-pass-second-chamber/#:~:text=HB%201147)
+* 04/12/2023 [The Urbanist](/org/the_urbanist/) - [Missing Middle Housing, ADU, and Design Review Reforms Pass Second Chamber | The Urbanist](https://www.theurbanist.org/2023/04/12/missing-middle-housing-adu-and-design-review-reforms-pass-second-chamber/#:~:text=HB%201147)
 * 04/05/2023 [The Urbanist](/org/the_urbanist/) - [Legislature Advances Narrower TOD and Missing Middle Bills | The Urbanist](https://www.theurbanist.org/2023/04/05/legislature-advances-narrower-tod-and-missing-middle-bills/#:~:text=HB%201147)
 * 04/01/2023 [House Republicans](/org/house_republicans/) - [State budgets and public safety | Washington State House Republicans](https://houserepublicans.wa.gov/current/state-budgets-and-public-safety/#:~:text=House%20Bill%201147)
 * 03/29/2023 [The Urbanist](/org/the_urbanist/) - [Striker Amendments Stalk Housing Bills in the Washington Legislature | The Urbanist](https://www.theurbanist.org/2023/03/29/striker-amendments-stalk-housing-bills-in-the-washington-legislature/#:~:text=HB%201147)

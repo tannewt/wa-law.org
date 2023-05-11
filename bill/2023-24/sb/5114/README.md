@@ -9,10 +9,14 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 05/09/2023 [Crosscut](/org/crosscut/) - [Seattle might limit gig companies from booting workers off apps | Crosscut](https://crosscut.com/briefs/2023/05/seattle-might-limit-gig-companies-booting-workers-apps#:~:text=Substitute%20Senate%20Bill%205114)
+* 05/09/2023 [Crosscut](/org/crosscut/) - [Gov. Inslee signs bill to help survivors of sex trafficking in WA | Crosscut](https://crosscut.com/briefs/2023/05/gov-inslee-signs-bill-help-survivors-sex-trafficking-wa#:~:text=Substitute%20Senate%20Bill%205114)
+* 05/08/2023 [Crosscut](/org/crosscut/) - [King County's trailhead shuttle for hikers will return May 13 | Crosscut](https://crosscut.com/briefs/2023/05/king-countys-trailhead-shuttle-hikers-will-return-may-13#:~:text=Substitute%20Senate%20Bill%205114)
+* 05/08/2023 [Crosscut](/org/crosscut/) - [Takeaways from Saturday’s ‘Fentanyl’s Fatal Fallout’ session | Crosscut](https://crosscut.com/briefs/2023/05/takeaways-saturdays-fentanyls-fatal-fallout-session#:~:text=Substitute%20Senate%20Bill%205114)
 * 04/05/2023 [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=Senate%20Bill%205114)
 * 03/12/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/12/the-house-hot-sheet-for-week-10-of-the-2023-legislative-session/#:~:text=SB%205114)
 * 03/01/2023 [Senate Democrats](/org/senate_democrats/) - [Wilson bill to support sex trafficking survivors passes Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/01/wilson-bill-to-support-sex-trafficking-survivors-passes-senate/#:~:text=Senate%20Bill%205114)
-* 02/15/2023 [The Seattle Times](/org/the_seattle_times/) - [WA cannot neglect sex trafficking victims | The Seattle Times](https://www.seattletimes.com/opinion/wa-cannot-neglect-sex-trafficking-victims/#:~:text=Senate%20Bill%205114)
+* 02/16/2023 [The Seattle Times](/org/the_seattle_times/) - [WA cannot neglect sex trafficking victims | The Seattle Times](https://www.seattletimes.com/opinion/wa-cannot-neglect-sex-trafficking-victims/#:~:text=Senate%20Bill%205114)
 
 ## Meetings
 ### Fri 03/31 01:30 PM - Appropriations (APP): SSB 5114 Sex trafficking

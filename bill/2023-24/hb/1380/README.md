@@ -7,10 +7,10 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 05/01/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201380)
 * 04/18/2023 [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201380)
-* 02/26/2023 [House Republicans](/org/house_republicans/) - [Put more police officers on the street | Washington State House Republicans](https://houserepublicans.wa.gov/put-more-police-officers-on-the-street/#:~:text=House%20bill%201380)
+* 02/03/2023 [House Republicans](/org/house_republicans/) - [Put more police officers on the street | Washington State House Republicans](https://houserepublicans.wa.gov/put-more-police-officers-on-the-street/#:~:text=House%20bill%201380)
 * 01/28/2023 [House Republicans](/org/house_republicans/) - [Public safety | Washington State House Republicans](https://houserepublicans.wa.gov/current/public-safety/#:~:text=House%20Bill%201380)
+* 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201380)
 
 ## Meetings
 ### Mon 01/30 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1380 Law enf. officer funding

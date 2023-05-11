@@ -9,7 +9,7 @@
 
 ## 📰 Articles
 * 02/23/2023 [Senate Democrats](/org/senate_democrats/) - [MOCC Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/moccpriorities/#:~:text=SB%205202)
-* 01/16/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 2: Housing, Climate Change and MLK Day - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/13/this-week-in-the-senate-week-12-housing-climate-change-and-mlk-day/#:~:text=Senate%20Bill%205202)
+* 01/14/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 2: Housing, Climate Change and MLK Day - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/13/this-week-in-the-senate-week-12-housing-climate-change-and-mlk-day/#:~:text=Senate%20Bill%205202)
 
 ## Meetings
 ### Wed 01/18 01:30 PM - Housing (HSG): SB 5202 Housing/capital expenditures

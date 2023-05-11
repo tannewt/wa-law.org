@@ -10,6 +10,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 05/09/2023 [The Center Square](/org/the_center_square/) - [Gov. Inslee signs ‘deepfake’ disclosure bill into law | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8367fd7e-eeba-11ed-8a23-6ffa859afba5.html#:~:text=Engrossed%20Senate%20Substitute%20Bill%205152)
 * 01/22/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 3: Housing, public safety and reproductive freedom take center stage - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/22/this-week-in-the-senate-week-3-housing-public-safety-and-reproductive-freedom-take-center-stage/#:~:text=SB%205152)
 
 ## Meetings

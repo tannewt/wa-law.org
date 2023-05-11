@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 02/09/2023 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Our legislative priorities for 2023 | ACLU of Washington](http://www.aclu-wa.org/pages/2023-legislative-agenda#:~:text=HB%201440)
+* 11/22/2022 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Our legislative priorities for 2023 | ACLU of Washington](http://www.aclu-wa.org/pages/2023-legislative-agenda#:~:text=HB%201440)
 
 ## Meetings
 ### Fri 02/10 08:00 AM - Human Services, Youth, & Early Learning (HSEL): HB 1440 Juvenile court jurisdiction

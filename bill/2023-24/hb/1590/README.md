@@ -9,7 +9,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
-* 05/02/2023 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1590)
+* 05/20/2021 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1590)
 
 ## Meetings
 ### Mon 03/13 10:30 AM - Human Services (HS): SHB 1590 Oversight board for DCYF

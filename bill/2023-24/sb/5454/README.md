@@ -10,7 +10,8 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
-* 03/14/2023 [Senate Democrats](/org/senate_democrats/) - [Cleveland bill looks to recognize nurses’ pandemic trauma as industrial injury - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/06/cleveland-bill-looks-to-recognize-nurses-pandemic-trauma-as-industrial-injury/#:~:text=Senate%20Bill%205454)
+* 05/09/2023 [Senate Democrats](/org/senate_democrats/) - [Cleveland bill recognizes nurses’ pandemic trauma as industrial injury - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/05/09/cleveland-bill-recognizes-nurses-pandemic-trauma-as-industrial-injury/#:~:text=Senate%20Bill%205454)
+* 03/07/2023 [Senate Democrats](/org/senate_democrats/) - [Cleveland bill looks to recognize nurses’ pandemic trauma as industrial injury - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/06/cleveland-bill-looks-to-recognize-nurses-pandemic-trauma-as-industrial-injury/#:~:text=Senate%20Bill%205454)
 * 03/06/2023 [The Seattle Times](/org/the_seattle_times/) - [New bill would help Washington nurses get treatment for PTSD | The Seattle Times](https://www.seattletimes.com/seattle-news/mental-health/new-proposal-would-help-washington-nurses-get-treatment-for-ptsd/#:~:text=Senate%20Bill%205454)
 
 ## Meetings

@@ -7,6 +7,6 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 04/24/2023 [House Republicans](/org/house_republicans/) - [Emergency powers reform: Restoring balance and trust to state government | Washington State House Republicans](https://houserepublicans.wa.gov/emergency-powers-reform/#:~:text=Senate%20Bill%205063)
+* 09/02/2021 [House Republicans](/org/house_republicans/) - [Emergency powers reform: Restoring balance and trust to state government | Washington State House Republicans](https://houserepublicans.wa.gov/emergency-powers-reform/#:~:text=Senate%20Bill%205063)
 
 ## Meetings

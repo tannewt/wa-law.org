@@ -10,6 +10,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 05/09/2023 [PubliCola](/org/publicola/) - [State Legislature Funds Social Services, Will Revisit Drug Policy After Failing to Act - PubliCola](https://publicola.com/2023/05/09/state-legislature-funds-social-services-will-revisit-drug-policy-after-failing-to-act/#:~:text=HB%201260)
 * 01/31/2023 [Crosscut](/org/crosscut/) - [Homeless services could face cuts in WA's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/01/homeless-services-could-face-cuts-was-2023-legislative-session#:~:text=House%20Bill%201260)
 * [Statewide Poverty Action Network](/org/statewide_poverty_action_network/) - [Bill Tracker – Statewide Poverty Action Network](https://povertyaction.org/bill-tracker/#:~:text=HB%201260)
 

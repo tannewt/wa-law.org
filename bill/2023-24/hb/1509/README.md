@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/10/2023 [Sightline Institute](/org/sightline_institute/) - [The Northwest Needs More Midsize Solar - Sightline Institute](https://www.sightline.org/2023/05/10/the-northwest-needs-more-midsize-solar/#:~:text=House%20Bill%201509)
 * 02/13/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/13/the-house-hot-sheet-for-week-6-of-the-2023-legislative-session/#:~:text=HB%201509)
 * 02/03/2023 [Crosscut](/org/crosscut/) - [By 2050, Washington might need to buy energy from other states | Crosscut](https://crosscut.com/politics/2023/02/2050-washington-might-need-buy-energy-other-states#:~:text=House%20Bill%201509)
 

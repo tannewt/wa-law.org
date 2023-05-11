@@ -9,7 +9,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
-* 05/02/2023 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1457)
+* 05/20/2021 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1457)
 
 ## Meetings
 ### Tue 03/21 04:00 PM - Ways & Means (WM): SHB 1457 Motor carriers/restrooms
