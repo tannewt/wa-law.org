@@ -103,12 +103,12 @@ for bill_rowid, prefix, bill_number in cur:
 
     latest_revision = db.cursor()
     latest_revision.execute("SELECT description FROM revisions WHERE bill_rowid = ? ORDER BY modified_time DESC", (bill_rowid,))
-    description = latest_revision.fetchone()[0]
+    bill_description = latest_revision.fetchone()[0]
 
     bill_readme = [
         breadcrumb,
         "",
-        f"# {prefix} {bill_number} - {description}",
+        f"# {prefix} {bill_number} - {bill_description}",
         f"[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber={bill_number}&Year=2023&Initiative=false) | [RSS Feed](./rss.xml)",
         "",
         "## Revisions"
@@ -298,7 +298,7 @@ for bill_rowid, prefix, bill_number in cur:
     # Set the feed metadata
     items = sorted(feed_items, key=attrgetter("pubDate"))
     feed = rfeed.Feed(
-        title=description,
+        title=f"{prefix} {bill_number} - {bill_description}",
         link=f"https://wa-law.org/{bill_path}/",
         description=f"Updates about {prefix} {bill_number}",
         language='en-US',
