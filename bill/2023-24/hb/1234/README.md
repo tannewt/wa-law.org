@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Thu 03/09 08:00 AM - Law & Justice (LAW): SHB 1234 Civil forfeiture of animals

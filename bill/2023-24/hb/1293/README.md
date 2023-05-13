@@ -10,6 +10,8 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 05/12/2023 [PubliCola](/org/publicola/) - [State Legislature Deals a Blow to Seattle's Dysfunctional Design Review Process - PubliCola](https://publicola.com/2023/05/12/state-legislature-deals-a-blow-to-seattles-dysfunctional-design-review-process/#:~:text=House%20Bill%201293)
+* 05/12/2023 [Crosscut](/org/crosscut/) - [WA lawmakers' 'year of housing' could ease the affordability crisis | Crosscut](https://crosscut.com/politics/2023/05/wa-lawmakers-year-housing-could-ease-affordability-crisis#:~:text=House%20Bill%201293)
 * 05/08/2023 [The Center Square](/org/the_center_square/) - ['A million new Washingtonians': Gov. Inslee signs package of housing bills | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a30dd1d6-ede2-11ed-b13c-87df998c6452.html#:~:text=Engrossed%20Substitute%20House%20Bill%201293)
 * 05/08/2023 [Sightline Institute](/org/sightline_institute/) - [How the Washington Legislature Burst the Housing Abundance Dam - Sightline Institute](https://www.sightline.org/2023/05/08/how-the-washington-legislature-burst-the-housing-abundance-dam/#:~:text=HB%201293)
 * 05/01/2023 [The Urbanist](/org/the_urbanist/) - [Heroes and Zeroes of the 2023 Washington State Legislature | The Urbanist](https://www.theurbanist.org/2023/05/01/heroes-and-zeroes-of-2023-legislature/#:~:text=HB%201293)

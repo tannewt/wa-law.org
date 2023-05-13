@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/11/2023 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 10: Housing, reproductive freedom and support for kids - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/11/this-week-in-the-senate-week-10-housing-reproductive-freedom-and-support-for-kids/#:~:text=House%20Bill%201222)

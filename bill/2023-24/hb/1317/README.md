@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 05/11/2023 [House Democrats](/org/house_democrats/) - [Governor Signs Bill Requiring Transparency in Special Interest “AstroTurf” Lobbying Funding – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/05/11/governor-signs-bill-requiring-transparency-in-special-interest-astroturf-lobbying-funding/#:~:text=House%20Bill%201317)
+
 ## Meetings
 ### Tue 03/21 01:30 PM - State Government & Elections (SGE): HB 1317 Grassroots lobbying
 #### 112 👍 - Pro

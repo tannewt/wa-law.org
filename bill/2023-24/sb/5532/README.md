@@ -9,6 +9,9 @@
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
 
+## 📰 Articles
+* 05/12/2023 [The Center Square](/org/the_center_square/) - [Dr. Raul Garcia announces run for Washington governor | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d5c0f8ec-f0f8-11ed-a3db-f7cdf1e5a3c4.html#:~:text=Senate%20Bill%205532)
+
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): 2SSB 5532 Small rural hospital payment
 #### 173 👍 - Pro

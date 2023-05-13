@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 05/04/2023 [Gorge News Center](/org/gorge_news_center/) - [Governor signs Rep. Waters bill making it legal for short-term rental operators to offer complimentary wine](https://gorgenewscenter.com/2023/05/04/governor-signs-rep-waters-bill-making-it-legal-for-short-term-rental-operators-to-offer-complimentary-wine/#:~:text=House%20Bill%201731)

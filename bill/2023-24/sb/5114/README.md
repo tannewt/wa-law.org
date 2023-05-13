@@ -7,8 +7,13 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/12/2023 [Crosscut](/org/crosscut/) - [Get ready for a hot weekend in Seattle and Western Washington | Crosscut](https://crosscut.com/briefs/2023/05/get-ready-hot-weekend-seattle-and-western-washington#:~:text=Substitute%20Senate%20Bill%205114)
+* 05/11/2023 [Crosscut](/org/crosscut/) - [Washington Supreme Court changes its opinion on race in juries | Crosscut](https://crosscut.com/briefs/2023/05/washington-supreme-court-changes-its-opinion-race-juries#:~:text=Substitute%20Senate%20Bill%205114)
+* 05/11/2023 [Crosscut](/org/crosscut/) - [Washington reports 10 times more flu deaths this season | Crosscut](https://crosscut.com/briefs/2023/05/washington-reports-10-times-more-flu-deaths-season#:~:text=Substitute%20Senate%20Bill%205114)
+* 05/10/2023 [Crosscut](/org/crosscut/) - [Chinook citizens get free tuition at Clatsop Community College | Crosscut](https://crosscut.com/briefs/2023/05/chinook-citizens-get-free-tuition-clatsop-community-college#:~:text=Substitute%20Senate%20Bill%205114)
 * 05/09/2023 [Crosscut](/org/crosscut/) - [Seattle might limit gig companies from booting workers off apps | Crosscut](https://crosscut.com/briefs/2023/05/seattle-might-limit-gig-companies-booting-workers-apps#:~:text=Substitute%20Senate%20Bill%205114)
 * 05/09/2023 [Crosscut](/org/crosscut/) - [Gov. Inslee signs bill to help survivors of sex trafficking in WA | Crosscut](https://crosscut.com/briefs/2023/05/gov-inslee-signs-bill-help-survivors-sex-trafficking-wa#:~:text=Substitute%20Senate%20Bill%205114)
 * 05/08/2023 [Crosscut](/org/crosscut/) - [King County's trailhead shuttle for hikers will return May 13 | Crosscut](https://crosscut.com/briefs/2023/05/king-countys-trailhead-shuttle-hikers-will-return-may-13#:~:text=Substitute%20Senate%20Bill%205114)

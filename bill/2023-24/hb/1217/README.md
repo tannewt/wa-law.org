@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Thu 03/16 08:00 AM - Labor & Commerce (LC): SHB 1217 Wage complaints

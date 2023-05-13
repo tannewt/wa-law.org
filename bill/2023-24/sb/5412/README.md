@@ -10,6 +10,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 05/12/2023 [Crosscut](/org/crosscut/) - [WA lawmakers' 'year of housing' could ease the affordability crisis | Crosscut](https://crosscut.com/politics/2023/05/wa-lawmakers-year-housing-could-ease-affordability-crisis#:~:text=Senate%20Bill%205412)
 * 05/08/2023 [Sightline Institute](/org/sightline_institute/) - [How the Washington Legislature Burst the Housing Abundance Dam - Sightline Institute](https://www.sightline.org/2023/05/08/how-the-washington-legislature-burst-the-housing-abundance-dam/#:~:text=HB%205412)
 * 04/27/2023 [PubliCola](/org/publicola/) - [New State Housing Laws Could Mean Big Changes for Seattle - PubliCola](https://publicola.com/2023/04/27/new-state-housing-laws-could-mean-big-changes-for-seattle/#:~:text=Senate%20Bill%205412)
 * 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB%205412)

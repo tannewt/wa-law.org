@@ -11,6 +11,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 05/11/2023 [Senate Democrats](/org/senate_democrats/) - [Wilson bill will regulate third parties providing special education for students with disabilities - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/05/11/wilson-bill-will-regulate-third-parties-providing-special-education-for-students-with-disabilities/#:~:text=Senate%20Bill%205315)
 * 04/27/2023 [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205315)
 * 04/27/2023 [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205315)
 * 03/27/2023 [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=E2SSB%205315)

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 04/10/2023 [Washington St Pta](/org/washington_st_pta/) - [Senate Passes Preventing Gun Violence Legislation in Week 13 Report - WSPTA](https://www.wastatepta.org/senate-passes-preventing-gun-violence-legislation-in-week-13-report/#:~:text=SSB%205006)

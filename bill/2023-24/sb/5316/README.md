@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/11/2023 [Senate Democrats](/org/senate_democrats/) - [Wilson bill waives burdensome fees for childcare workforce applicants - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/05/11/wilson-bill-waives-burdensome-fees-for-childcare-workforce-applicants/#:~:text=Senate%20Bill%205316)
 * 05/03/2023 [MyNorthwest](/org/mynorthwest/) - [Gov. Inslee increases affordable childcare access with new bill - MyNorthwest.com](https://mynorthwest.com/3884225/inslee-affordable-childcare-access-new-bill/#:~:text=Senate%20Bill%205316)
 * 03/14/2023 [Senate Democrats](/org/senate_democrats/) - [Senate passes Wilson bill to remove unneeded fees hindering childcare workforce applicants - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/14/senate-passes-wilson-bill-to-remove-unneeded-fees-hindering-childcare-workforce-applicants/#:~:text=Senate%20Bill%205316)
 * [KING5](/org/king5/) - [Bill would cover some childcare center fees in Washington | king5.com](https://www.king5.com/article/news/local/washington-state-pick-up-fees-childcare-centers/281-7c2a1ae1-91ed-4482-9776-48f6fc191768#:~:text=Senate%20Bill%205316)

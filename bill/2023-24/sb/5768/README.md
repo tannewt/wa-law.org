@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/11/2023 [Crosscut](/org/crosscut/) - [Washington to invest $21M in abortion, reproductive health care | Crosscut](https://crosscut.com/politics/2023/05/washington-invest-21m-abortion-reproductive-health-care#:~:text=SB%205768)
 * 04/27/2023 [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205768)
 * 04/27/2023 [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205768)
 * 04/27/2023 [The Seattle Times](/org/the_seattle_times/) - [In rebuke to fall of Roe, Gov. Inslee signs WA abortion legislation | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/in-rebuke-to-fall-of-roe-gov-inslee-signs-wa-abortion-legislation/#:~:text=Senate%20Bill%205768)

@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/12/2023 [South Seattle Emerald](/org/south_seattle_emerald/) - [Gov. Inslee Signs Gun Reform Legislation | South Seattle Emerald](https://southseattleemerald.com/2023/05/12/gov-inslee-signs-gun-reform-legislation/#:~:text=Senate%20Bill%205078)
 * 04/27/2023 [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205078)
 * 04/27/2023 [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205078)
 * 04/27/2023 [Crosscut](/org/crosscut/) - [With assault weapons ban, Washington enters a new era of gun reform | Crosscut](https://crosscut.com/politics/2023/04/assault-weapons-ban-washington-enters-new-era-gun-reform#:~:text=Senate%20Bill%205078)

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/12/2023 [Crosscut](/org/crosscut/) - [WA lawmakers' 'year of housing' could ease the affordability crisis | Crosscut](https://crosscut.com/politics/2023/05/wa-lawmakers-year-housing-could-ease-affordability-crisis#:~:text=House%20Bill%201337)
 * 05/08/2023 [MyNorthwest](/org/mynorthwest/) - [Gov. Inslee signs 10 housing bills into law in WA's 'year of housing' - MyNorthwest.com](https://mynorthwest.com/3886464/inslee-sign-10-housing-bills-law-washington-year-housing/#:~:text=House%20Bill%201337)
 * 05/08/2023 [The Center Square](/org/the_center_square/) - ['A million new Washingtonians': Gov. Inslee signs package of housing bills | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a30dd1d6-ede2-11ed-b13c-87df998c6452.html#:~:text=Engrossed%20House%20Bill%201337)
 * 05/08/2023 [Sightline Institute](/org/sightline_institute/) - [How the Washington Legislature Burst the Housing Abundance Dam - Sightline Institute](https://www.sightline.org/2023/05/08/how-the-washington-legislature-burst-the-housing-abundance-dam/#:~:text=HB%201337)

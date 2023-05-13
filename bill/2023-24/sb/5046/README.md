@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 03/24/2023 [Senate Democrats](/org/senate_democrats/) - [Home - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/blog/team_members/sen-rebecca-saldana/#:~:text=SB%205046,)

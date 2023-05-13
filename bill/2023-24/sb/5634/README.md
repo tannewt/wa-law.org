@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 02/05/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 5: Addressing addiction, fair housing and support for nurses - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/02/05/this-week-in-the-senate-week-5-addressing-addiction-fair-housing-and-support-for-nurses/#:~:text=Senate%20Bill%205634)

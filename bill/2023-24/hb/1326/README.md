@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 04/19/2023 [House Democrats](/org/house_democrats/) - [Rep. Cortes Passes Bills to Governor on Homelessness, Police Benefits, Affordable Housing & Statewide Travel – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/19/rep-cortes-passes-bills-to-governor-on-homelessness-police-benefits-affordable-housing-statewide-travel/#:~:text=House%20Bill%201326)
