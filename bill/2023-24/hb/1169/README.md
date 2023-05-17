@@ -10,6 +10,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 05/16/2023 [House Democrats](/org/house_democrats/) - [Years long journey leads to the elimination of mandatory LFOs – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/05/16/years-long-journey-leads-to-the-elimination-of-mandatory-lfos/#:~:text=House%20Bill%201169)
 * 04/22/2023 [House Republicans](/org/house_republicans/) - [An update on the 2023 legislative session | Washington State House Republicans](https://houserepublicans.wa.gov/current/an-update-on-the-2023-legislative-session/#:~:text=House%20Bill%201169)
 * 03/11/2023 [House Republicans](/org/house_republicans/) - [House of origin cutoff | Washington State House Republicans](https://houserepublicans.wa.gov/current/house-of-origin-cutoff/#:~:text=House Bill%201169)
 * 03/04/2023 [House Republicans](/org/house_republicans/) - [Halfway through the 2023 legislative session | Washington State House Republicans](https://houserepublicans.wa.gov/current/halfway-through-the-2023-legislative-session/#:~:text=House%20Bill%201169)

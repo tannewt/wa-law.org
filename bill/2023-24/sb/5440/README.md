@@ -10,6 +10,9 @@
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
 
+## 📰 Articles
+* 05/16/2023 [Senate Democrats](/org/senate_democrats/) - [Legislature prioritizes funding, policy to tackle behavioral health - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/05/16/legislature-prioritizes-funding-policy-to-tackle-behavioral-health/#:~:text=SB%205440)
+
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): E2SSB 5440 Competency evaluations
 #### 5 👍 - Pro

@@ -10,6 +10,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 05/16/2023 [Senate Democrats](/org/senate_democrats/) - [Legislature prioritizes funding, policy to tackle behavioral health - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/05/16/legislature-prioritizes-funding-policy-to-tackle-behavioral-health/#:~:text=SB%205555)
 * 03/27/2023 [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=2SSB%205555)
 * 03/19/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 11 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/19/the-house-hot-sheet-for-week-11-of-the-2023-legislative-session/#:~:text=SB%205555)
 * 03/13/2023 [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=2SSB%205555)

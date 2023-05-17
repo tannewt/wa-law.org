@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 05/16/2023 [Crosscut](/org/crosscut/) - [Washington slates $50M for trees to shade salmon streams | Crosscut](https://crosscut.com/environment/2023/05/washington-slates-50m-trees-shade-salmon-streams#:~:text=House%20Bills%201215)
+
 ## Meetings
 ### Wed 01/18 08:00 AM - Agriculture and Natural Resources (AGNR): HB 1215 Riparian areas
 #### 103 👍 - Pro

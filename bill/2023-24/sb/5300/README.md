@@ -9,6 +9,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 05/16/2023 [Senate Democrats](/org/senate_democrats/) - [Legislature prioritizes funding, policy to tackle behavioral health - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/05/16/legislature-prioritizes-funding-policy-to-tackle-behavioral-health/#:~:text=SB%205300)
+
 ## Meetings
 ### Tue 03/21 01:30 PM - Health Care & Wellness (HCW): SSB 5300 Behavioral health continuity
 #### 30 👍 - Pro

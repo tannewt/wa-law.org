@@ -5,6 +5,8 @@ import url_history
 import urllib.robotparser
 import requests
 import urllib3
+import pathlib
+import pickle
 import json
 import re
 import sys
@@ -65,6 +67,14 @@ def parse_date(content):
     return None
 
 FETCH_NEW = True
+REPARSE = False
+
+parsed_path = pathlib.Path("parsed_urls.pickle")
+if not REPARSE and parsed_path.exists():
+    with parsed_path.open("rb") as f:
+        parsed_urls = pickle.load(f)
+else:
+    parsed_urls = set()
 
 link_count = 0
 leg_links = 0
@@ -164,11 +174,19 @@ for org_rowid, domain in org_cur:
 
     print(f"Fetching {len(pages)} pages")
     count = 0
+    skipped = 0
     while pages:
         page_url = pages.pop()
         count += 1
         if count % 100 == 0:
             print(f"fetched {count} remaining {len(pages)}")
+
+        if page_url in parsed_urls:
+            skipped += 1
+            continue
+        else:
+            parsed_urls.add(page_url)
+
         if not rp.can_fetch("*", page_url):
             print("Can't fetch", page_url)
             continue
@@ -247,9 +265,6 @@ for org_rowid, domain in org_cur:
                 day = int(match.group(3))
                 modified_time = datetime.datetime(year=year, month=month, day=day)
 
-        if page_url == "https://www.king5.com/article/news/local/whatcom-county-rail-safety-push/281-ddb560d4-5a36-4eae-860c-6a1c10f6ef7e":
-            print(page_url, modified_time)
-
         # print(page)
         for link in page.find_all("a"):
             href = link.get("href")
@@ -306,6 +321,11 @@ for org_rowid, domain in org_cur:
                 # print()
                 pass
         db.commit()
+
+    with parsed_path.open("wb") as f:
+        pickle.dump(parsed_urls, f)
+    print(f"{count} urls and skipped {skipped}")
+    print()
 print("bill links", link_count)
 print("leg links", leg_links)
 print("nonspecific", nonspecific)

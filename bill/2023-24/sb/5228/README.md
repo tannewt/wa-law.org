@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/16/2023 [Senate Democrats](/org/senate_democrats/) - [Legislature prioritizes funding, policy to tackle behavioral health - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/05/16/legislature-prioritizes-funding-policy-to-tackle-behavioral-health/#:~:text=SB%205228)
 * 03/27/2023 [The Seattle Times](/org/the_seattle_times/) - [Occupational therapy should be a standard resource for people with mental health needs | Mental Health Perspectives | The Seattle Times](https://www.seattletimes.com/seattle-news/mental-health/occupational-therapy-should-be-a-standard-resource-for-people-with-mental-health-needs-mental-health-perspectives/#:~:text=SB%205228)
 * 03/02/2023 [Senate Democrats](/org/senate_democrats/) - [Senate unanimously approves Dhingra crisis relief center bill - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/01/senate-approves-dhingra-crisis-relief-center-bill/#:~:text=SB%205228)
 

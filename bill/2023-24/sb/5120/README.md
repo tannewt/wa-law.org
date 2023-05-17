@@ -10,6 +10,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 05/16/2023 [Senate Democrats](/org/senate_democrats/) - [Legislature prioritizes funding, policy to tackle behavioral health - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/05/16/legislature-prioritizes-funding-policy-to-tackle-behavioral-health/#:~:text=SB%205120)
 * 03/02/2023 [Senate Democrats](/org/senate_democrats/) - [Senate unanimously approves Dhingra crisis relief center bill - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/01/senate-approves-dhingra-crisis-relief-center-bill/#:~:text=SB%205120)
 * 02/22/2023 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Priority Bills -- current status — Quaker Voice](https://www.quakervoicewa.org/priority-bills-current-status/#:~:text=5120)
 * 01/08/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: WE'RE BACK - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/08/this-week-in-the-senate-week-1-were-back/#:~:text=Senate%20Bill%205120)

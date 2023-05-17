@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/16/2023 [Senate Democrats](/org/senate_democrats/) - [Legislature prioritizes funding, policy to tackle behavioral health - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/05/16/legislature-prioritizes-funding-policy-to-tackle-behavioral-health/#:~:text=HB%201069)
 * 04/25/2023 [House Democrats](/org/house_democrats/) - [Governor Signs Rep. Leavitt’s Workforce Development Bill Package – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/25/rep-leavitt-passes-workforce-development-bill-package-to-governor/#:~:text=House%20Bill%201069)
 * 03/06/2023 [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=SHB%201069)
 * 03/04/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 9: Floor wraps up and a major deadline arrives - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/04/this-week-in-the-senate-week-9-floor-wraps-up-and-a-major-deadline-arrives/#:~:text=House%20Bill%201069)

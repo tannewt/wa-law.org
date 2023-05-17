@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/16/2023 [South Seattle Emerald](/org/south_seattle_emerald/) - [OPINION | The End of Advisory Votes Is a Victory for Immigrant and New Voters | South Seattle Emerald](https://southseattleemerald.com/2023/05/16/opinion-the-end-of-advisory-votes-is-a-victory-for-immigrant-and-new-voters/#:~:text=Senate%20Bill%205082)
 * 04/22/2023 [House Republicans](/org/house_republicans/) - [An update on the 2023 legislative session | Washington State House Republicans](https://houserepublicans.wa.gov/current/an-update-on-the-2023-legislative-session/#:~:text=Senate%20Bill%205082)
 * 04/20/2023 [Senate Democrats](/org/senate_democrats/) - [Home - Sen. Patty Kuderer](https://senatedemocrats.wa.gov/blog/team_members/sen-patty-kuderer/#:~:text=Senate%20Bill%205082)
 * 04/15/2023 [House Republicans](/org/house_republicans/) - [The homestretch of the 2023 legislative session | Washington State House Republicans](https://houserepublicans.wa.gov/current/the-homestretch-of-the-2023-legislative-session/#:~:text=Senate%20Bill%205082)

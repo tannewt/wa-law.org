@@ -11,6 +11,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 05/16/2023 [Senate Democrats](/org/senate_democrats/) - [Legislature prioritizes funding, policy to tackle behavioral health - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/05/16/legislature-prioritizes-funding-policy-to-tackle-behavioral-health/#:~:text=HB%201134)
 * 04/21/2023 [Crosscut](/org/crosscut/) - [Washington to invest more in 988 mental health crisis line | Crosscut](https://crosscut.com/politics/2023/04/washington-invest-more-988-mental-health-crisis-line#:~:text=HB%201134)
 * 03/13/2023 [Crosscut](/org/crosscut/) - [Washington state may boost 988 hotline funding as demand grows | Crosscut](https://crosscut.com/politics/2023/03/washington-state-may-boost-988-hotline-funding-demand-grows#:~:text=House%20Bill%201134)
 * 03/08/2023 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Orwall bill to implement and improve the 988 Suicide and Crisis Lifeline passes House unanimously – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/08/orwall-bill-to-implement-and-improve-the-988-suicide-and-crisis-lifeline-passes-house-unanimously/#:~:text=House%20Bill%201134)
