@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/01/2023 [Senate Democrats](/org/senate_democrats/) - [Nguyễn bill improving candidate filing passes Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/02/28/nguyen-bill-improving-candidate-filing-passes-senate/#:~:text=Senate%20Bill%205182)

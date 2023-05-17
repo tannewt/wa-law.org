@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/15/2023 [KING5](/org/king5/) - [Mother of drowning victim pushes for water safety awareness | king5.com](https://www.king5.com/article/news/local/mother-drowning-victim-water-safety/281-98b6c127-26cc-4cee-9ef6-7c246ff3913f#:~:text=House%20Bill%201750)
 * 05/13/2023 [The Seattle Times](/org/the_seattle_times/) - [How to stay safe on the water as WA heat wave approaches | The Seattle Times](https://www.seattletimes.com/seattle-news/how-to-stay-safe-on-the-water-as-wa-heat-wave-approaches/#:~:text=House%20Bill%201750)
 * 03/08/2023 [House Democrats](/org/house_democrats/) - [House Passes Yori’s Law – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/08/house-passes-yoris-law/#:~:text=House%20Bill%201750,)
 * 02/24/2023 [South Seattle Emerald](/org/south_seattle_emerald/) - [Water Safety Day Proposed to Bring Awareness to Drowning Prevention | South Seattle Emerald](https://southseattleemerald.com/2023/02/24/water-safety-day-proposed-to-bring-awareness-to-drowning-prevention/#:~:text=HB%201750)

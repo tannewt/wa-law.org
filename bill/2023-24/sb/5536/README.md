@@ -8,8 +8,14 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [2nd Engrossed 2nd Substitute](S2.E2/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 05/16/2023 [KIRO7](/org/kiro7/) - [Why a drug decriminalization crisis looms for Washington state lawmakers – KIRO 7 News Seattle](https://www.kiro7.com/news/national/why-drug/OLG464F64XRKY3UIBTXJD7YEAI/#:~:text=Senate%20Bill%205536)
+* 05/15/2023 [MyNorthwest](/org/mynorthwest/) - [Proposed WA drug possession law to make it a gross misdemeanor - MyNorthwest.com](https://mynorthwest.com/3889104/proposed-washington-state-drug-possession-law-gross-misdemeanor/#:~:text=SB%205536)
+* 05/15/2023 [Crosscut](/org/crosscut/) - [WA Legislature special session on drug law begins Tuesday | Crosscut](https://crosscut.com/briefs/2023/05/wa-legislature-special-session-drug-law-begins-tuesday#:~:text=Senate%20Bill%205536)
+* 05/14/2023 [The Seattle Times](/org/the_seattle_times/) - [With looming special session, fix for WA drug laws still unclear | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/with-looming-special-session-fix-for-wa-drug-laws-still-unclear/#:~:text=Senate%20Bill%205536)
 * 05/05/2023 [The Seattle Times](/org/the_seattle_times/) - [WA drug possession reform needs both accountability and compassion | The Seattle Times](https://www.seattletimes.com/opinion/wa-drug-possession-reform-needs-both-accountability-and-compassion/#:~:text=Senate%20Bill%205536)
 * 05/03/2023 [MyNorthwest](/org/mynorthwest/) - [Gov. Inslee announces special legislative session on drug possession laws - MyNorthwest.com](https://mynorthwest.com/3884509/inslee-announces-special-legislative-session-to-pass-drug-possession-laws/#:~:text=Senate%20Bill%205536)
 * 05/02/2023 [MyNorthwest](/org/mynorthwest/) - [Inslee: 'There's cause for optimism' in a special session to pass a new drug law - MyNorthwest.com](https://mynorthwest.com/3884039/inslee-theres-cause-for-optimism-in-a-special-session-to-pass-a-new-drug-law/#:~:text=Senate%20Bill%205536)

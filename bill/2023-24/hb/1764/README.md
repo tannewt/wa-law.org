@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Mon 03/13 04:00 PM - Ways & Means (WM): SHB 1764 Asphalt & agg. valuation

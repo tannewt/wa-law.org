@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Wed 03/22 08:00 AM - Labor & Workplace Standards (LAWS): ESSB 5528 Construction retainage

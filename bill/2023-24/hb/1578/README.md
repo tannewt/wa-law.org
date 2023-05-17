@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 03/06/2023 [House Democrats](/org/house_democrats/) - [House addresses increasingly dangerous wildfire seasons – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/06/house-addresses-increasingly-dangerous-wildfire-seasons/#:~:text=HB%201578)

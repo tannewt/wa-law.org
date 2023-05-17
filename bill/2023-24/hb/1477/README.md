@@ -10,6 +10,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 05/15/2023 [The Center Square](/org/the_center_square/) - [Gov. Inslee signs expansion of Working Families Tax Credit into law | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c863b682-f371-11ed-86b7-430dfb1a0de2.html#:~:text=Second%20Substitute%20House%20Bill%201477)
 * 04/27/2023 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [2023 Session Wrap Up - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04272023#:~:text=H.B.%201477)
 * 03/30/2023 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 12 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate03302023#:~:text=House%20Bill%201477)
 * 02/19/2023 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 7 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02202023#:~:text=H.B.1477)

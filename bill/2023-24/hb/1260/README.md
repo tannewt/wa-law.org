@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 05/09/2023 [PubliCola](/org/publicola/) - [State Legislature Funds Social Services, Will Revisit Drug Policy After Failing to Act - PubliCola](https://publicola.com/2023/05/09/state-legislature-funds-social-services-will-revisit-drug-policy-after-failing-to-act/#:~:text=HB%201260)

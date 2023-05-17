@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 05/09/2023 [Senate Democrats](/org/senate_democrats/) - [Cleveland bill recognizes nurses’ pandemic trauma as industrial injury - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/05/09/cleveland-bill-recognizes-nurses-pandemic-trauma-as-industrial-injury/#:~:text=Senate%20Bill%205454)

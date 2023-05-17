@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/15/2023 [Crosscut](/org/crosscut/) - [WA Legislature special session on drug law begins Tuesday | Crosscut](https://crosscut.com/briefs/2023/05/wa-legislature-special-session-drug-law-begins-tuesday#:~:text=Substitute%20Senate%20Bill%205114)
 * 05/12/2023 [Crosscut](/org/crosscut/) - [Get ready for a hot weekend in Seattle and Western Washington | Crosscut](https://crosscut.com/briefs/2023/05/get-ready-hot-weekend-seattle-and-western-washington#:~:text=Substitute%20Senate%20Bill%205114)
 * 05/11/2023 [Crosscut](/org/crosscut/) - [Washington Supreme Court changes its opinion on race in juries | Crosscut](https://crosscut.com/briefs/2023/05/washington-supreme-court-changes-its-opinion-race-juries#:~:text=Substitute%20Senate%20Bill%205114)
 * 05/11/2023 [Crosscut](/org/crosscut/) - [Washington reports 10 times more flu deaths this season | Crosscut](https://crosscut.com/briefs/2023/05/washington-reports-10-times-more-flu-deaths-season#:~:text=Substitute%20Senate%20Bill%205114)

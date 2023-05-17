@@ -8,8 +8,10 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 05/15/2023 [KING5](/org/king5/) - [New fee, loans aim to right ‘historic wrong’ of racist covenants | king5.com](https://www.king5.com/article/news/community/facing-race/fee-loans-historic-wrong-racist-covenants-seattle/281-f16a39cb-a63e-4a68-923c-cf2a50ed3297#:~:text=House%20Bill%201474)
 * 05/12/2023 [Crosscut](/org/crosscut/) - [WA lawmakers' 'year of housing' could ease the affordability crisis | Crosscut](https://crosscut.com/politics/2023/05/wa-lawmakers-year-housing-could-ease-affordability-crisis#:~:text=House%20Bill%201474)
 * 05/09/2023 [PubliCola](/org/publicola/) - [State Legislature Funds Social Services, Will Revisit Drug Policy After Failing to Act - PubliCola](https://publicola.com/2023/05/09/state-legislature-funds-social-services-will-revisit-drug-policy-after-failing-to-act/#:~:text=House%20Bill%201474)
 * 05/09/2023 [The Center Square](/org/the_center_square/) - [Gov. Inslee signs housing discrimination crackdown | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_21faec02-ee94-11ed-a26d-bbe7480292eb.html#:~:text=Second%20Substitute%20House%20Bill%201474)

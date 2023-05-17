@@ -1,0 +1,8 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5101](/bill/2023-24/sb/5101/) > [Session Law](/bill/2023-24/sb/5101/S.SL/)
+
+# SB 5101 - DOC medical placements
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Session%20Laws/Senate/5101-S.SL.pdf)
+
+## Section 1
+(1) No person incarcerated individual serving a sentence imposed pursuant to this chapter and committed to the custody of the department shall leave the confines of the correctional facility or be released prior to the expiration of the sentence except as follows:

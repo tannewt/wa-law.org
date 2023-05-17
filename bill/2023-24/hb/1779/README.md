@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 05/06/2023 [Gorge News Center](/org/gorge_news_center/) - [Final three of six Mosbrucker bills to pass Legislature receive governor’s signature](https://gorgenewscenter.com/2023/05/06/final-three-of-six-mosbrucker-bills-to-pass-legislature-receive-governors-signature/#:~:text=House%20Bill%201779%20(carbon%20monoxide%20poisoning))

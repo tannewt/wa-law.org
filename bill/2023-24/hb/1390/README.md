@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 05/05/2023 [House Democrats](/org/house_democrats/) - [Governor Signs Bill Improving Building Energy Systems – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/05/05/governor-signs-bill-improving-building-energy-systems/#:~:text=House%20Bill%201390)

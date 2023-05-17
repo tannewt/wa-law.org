@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Thu 03/23 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SHB 1753 Derelict vessel notices

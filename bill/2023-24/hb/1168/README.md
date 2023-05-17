@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): 2SHB 1168 Prenatal substance exposure

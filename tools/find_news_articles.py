@@ -255,7 +255,11 @@ for org_rowid, domain in org_cur:
             href = link.get("href")
             if not href:
                 continue
-            parsed = urlparse(href)
+            try:
+                parsed = urlparse(href)
+            except ValueError:
+                print("parse error", href)
+                continue
             if not parsed.hostname or "leg.wa.gov" not in parsed.hostname or "pages" in parsed.path:
                 continue
             leg_links += 1

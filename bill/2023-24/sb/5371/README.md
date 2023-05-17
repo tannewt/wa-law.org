@@ -10,6 +10,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 05/15/2023 [Senate Democrats](/org/senate_democrats/) - [Lovelett bill protecting endangered southern resident orcas signed into law - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/05/15/lovelett-bill-protecting-endangered-southern-resident-orcas-signed-into-law/#:~:text=Senate%20Bill%205371)
 * 04/24/2023 [Crosscut](/org/crosscut/) - [The bills that survived Washington's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/04/bills-survived-washingtons-2023-legislative-session#:~:text=Senate%20Bill%205371)
 * 04/21/2023 [The Seattle Times](/org/the_seattle_times/) - [Lawmakers vote to keep boaters 1,000 yards from southern resident orcas in WA | The Seattle Times](https://www.seattletimes.com/seattle-news/lawmakers-vote-to-keep-boaters-1000-yards-from-southern-resident-orcas-in-wa/#:~:text=Senate%20Bill%205371)
 * 04/18/2023 [Crosscut](/org/crosscut/) - [To protect orcas, boats in Puget Sound must stay 1,000 yards away | Crosscut](https://crosscut.com/environment/2023/04/protect-orcas-boats-puget-sound-must-stay-1000-yards-away#:~:text=Senate%20Bill%205371)

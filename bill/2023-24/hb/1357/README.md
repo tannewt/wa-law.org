@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 04/12/2023 [House Democrats](/org/house_democrats/) - [Simmons bill to improve patient access to care passes Senate unanimously – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/12/simmons-bill-to-improve-patient-access-to-care-passes-senate-unanimously/#:~:text=House%20Bill%201357)

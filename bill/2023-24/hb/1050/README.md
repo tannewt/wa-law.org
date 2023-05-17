@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 04/21/2023 [House Democrats](/org/house_democrats/) - [Construction Workforce Expanding Under Riccelli Apprenticeship Bill – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/21/construction-workforce-expanding-under-riccelli-apprenticeship-bill/#:~:text=HB%201050)

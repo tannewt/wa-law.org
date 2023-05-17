@@ -17,7 +17,8 @@ for start_year in range(2023, 2025, 2):
     biennium = f"{start_year:4d}-{(start_year+1) % 100:02d}"
     cur.execute("SELECT rowid FROM bienniums WHERE name = ?", (biennium,))
     biennium_rowid = cur.fetchone()[0]
-    cur.execute("SELECT rowid FROM sessions WHERE name = ?", (str(start_year),))
+    session_name = f"{start_year} 1st sp.s."
+    cur.execute("SELECT rowid FROM sessions WHERE name = ?", (session_name,))
     session_rowid = cur.fetchone()[0]
     print(biennium)
     now = arrow.now()

@@ -9,6 +9,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 05/15/2023 [The Center Square](/org/the_center_square/) - [New paid family, medical leave law for rideshare drivers could increase fares | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_64f83082-f362-11ed-b41f-1fdb692ad5b4.html#:~:text=Substitute%20House%20Bill%201570)
 * 04/12/2023 [MyNorthwest](/org/mynorthwest/) - [WA Uber, Lyft drivers getting paid family, medical leave benefits - MyNorthwest.com](https://mynorthwest.com/3874034/uber-lyft-drivers-in-wa-getting-paid-family-medical-leave-benefits/#:~:text=HB%201570)
 * 02/20/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB%201570)
 * 02/05/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/05/the-house-hot-sheet-for-week-5-of-the-2023-legislative-session/#:~:text=HB%201570)

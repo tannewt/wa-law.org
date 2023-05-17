@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 05/09/2023 [The Center Square](/org/the_center_square/) - [Gov. Inslee signs ‘deepfake’ disclosure bill into law | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8367fd7e-eeba-11ed-8a23-6ffa859afba5.html#:~:text=Engrossed%20Senate%20Substitute%20Bill%205152)

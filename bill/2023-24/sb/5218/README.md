@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 05/04/2023 [Gorge News Center](/org/gorge_news_center/) - [Governor signs two Padden bills one week after legislative session ends](https://gorgenewscenter.com/2023/05/04/governor-signs-two-padden-bills-one-week-after-legislative-session-ends/#:~:text=Senate%20Bill%205218)

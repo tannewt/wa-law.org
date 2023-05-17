@@ -10,6 +10,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 05/15/2023 [House Democrats](/org/house_democrats/) - [Dental Therapy Bill Signed by Governor – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/05/15/dental-therapy-bill-signed-by-governor/#:~:text=HB%201678)
 * 04/12/2023 [House Democrats](/org/house_democrats/) - [Dental Therapy Passes Legislature – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/12/dental-therapy-passes-legislature/#:~:text=HB%201678)
 * 03/07/2023 [House Democrats](/org/house_democrats/) - [Riccelli Dental Health Care Bills Pass House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/07/riccelli-dental-health-care-bills-pass-house/#:~:text=HB%201678)
 * 02/20/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB%201678)

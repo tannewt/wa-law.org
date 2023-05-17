@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 05/12/2023 [PubliCola](/org/publicola/) - [State Legislature Deals a Blow to Seattle's Dysfunctional Design Review Process - PubliCola](https://publicola.com/2023/05/12/state-legislature-deals-a-blow-to-seattles-dysfunctional-design-review-process/#:~:text=House%20Bill%201293)

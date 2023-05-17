@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 03/31/2023 [Senate Democrats](/org/senate_democrats/) - [Newspaper tax break passes Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/31/newspaper-tax-break-passes-senate/#:~:text=SB%205199)

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 05/09/2023 [Senate Democrats](/org/senate_democrats/) - [Legislation to protect trans youth seeking life-saving care signed into law - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/05/09/legislation-to-protect-trans-youth-seeking-life-saving-care-signed-into-law/#:~:text=Senate%20Bill%205599)

@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 05/09/2023 [House Democrats](/org/house_democrats/) - [Expanded Free School Meals Signed into Law – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/05/09/expanded-free-school-meals-signed-into-law/#:~:text=HB%201238)

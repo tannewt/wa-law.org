@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 04/06/2023 [House Democrats](/org/house_democrats/) - [Hansen’s bipartisan anti-doxing bill passes WA Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/06/hansens-bipartisan-anti-doxing-bill-passes-wa-senate/#:~:text=House%20Bill%201335)

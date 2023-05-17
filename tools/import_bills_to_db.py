@@ -158,8 +158,9 @@ for start_year in range(2023, 2025, 2):
     cur.execute("SELECT rowid FROM bienniums WHERE name = ?;", (biennium,))
     biennium_rowid = cur.fetchone()[0]
 
-    cur.execute("INSERT OR IGNORE INTO sessions (biennium_rowid, year, name) VALUES (?, ?, ?)", (biennium_rowid, start_year, str(start_year)))
-    cur.execute("SELECT rowid FROM sessions WHERE name = ?;", (str(start_year),))
+    session_name = f"{start_year} 1st sp.s."
+    cur.execute("INSERT OR IGNORE INTO sessions (biennium_rowid, year, name) VALUES (?, ?, ?)", (biennium_rowid, start_year, session_name))
+    cur.execute("SELECT rowid FROM sessions WHERE name = ?;", (session_name,))
     session_rowid = cur.fetchone()[0]
 
     bills_by_status = {"committee": {}, "passed": []}
