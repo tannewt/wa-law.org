@@ -25,7 +25,7 @@
 * [SB 5179](sb/5179) - Death with dignity act 2📰 2025👍 1043👎 6❓ - C 38 L 23
 * [HB 1474](hb/1474) - Covenant homeownership prg. 17📰 2403👍 642👎 8❓ - C 340 L 23
 * [SB 5082](sb/5082) - Advisory votes 17📰 1574👍 1465👎 1❓ - C 109 L 23
-* [SB 5536](sb/5536) - Controlled substances 55📰 365👍 2530👎 81❓ - Del to Gov
+* [SB 5536](sb/5536) - Controlled substances 55📰 365👍 2530👎 81❓ - C 1 L 23 E1
 * [HB 1628](hb/1628) - Real estate excise tax 14📰 1357👍 1518👎 5❓ - H Rules R
 * [SB 5466](sb/5466) - Transit-oriented development 33📰 2545👍 46👎 35❓ - S Rules 3
 * [HB 1832](hb/1832) - Vehicle per mile charge 4📰 62👍 2527👎 34❓ - H Transportation
@@ -114,7 +114,7 @@
 * [HB 1199](hb/1199) - Child care/communities 2📰 799👍 43👎 59❓ - C 203 L 23
 * [HB 1575](hb/1575) - Cultural access programs/tax 4📰 742👍 156👎 1❓ - C 179 L 23
 * [HB 1584](hb/1584) - Nuclear reactor technology 610👍 285👎 4❓ - H Rules 3C
-* [SB 5187](sb/5187) - Operating budget 11📰 104👍 528👎 252❓ - Del to Gov
+* [SB 5187](sb/5187) - Operating budget 11📰 104👍 528👎 252❓ - C 475 L 23
 * [HB 1269](hb/1269) - Rx drug affordability board 1📰 850👍 21👎 9❓ - H Rules R
 * [HB 1489](hb/1489) - Mt. St. Helens license plate 861👍 1👎 0❓ - H Rules C
 * [SB 5697](sb/5697) - Mobile home park rates 552👍 305👎 0❓ - S Ways & Means
@@ -335,7 +335,7 @@
 * [SB 5727](sb/5727) - Common int. comms./consumers 10👍 192👎 2❓ - S Law & Justice
 * [SB 5477](sb/5477) - Murdered indigenous women 1📰 197👍 0👎 1❓ - S Rules 3
 * [SB 5667](sb/5667) - Forestry riparian easements 188👍 7👎 3❓ - S Ag/Water/Natura
-* [SB 5200](sb/5200) - Capital budget 8📰 130👍 34👎 32❓ - Del to Gov
+* [SB 5200](sb/5200) - Capital budget 8📰 130👍 34👎 32❓ - C 474 L 23
 * [SB 5103](sb/5103) - Medicaid patients/discharge 187👍 3👎 5❓ - C 315 L 23
 * [SB 5433](sb/5433) - Derelict aquatic structures 4📰 189👍 2👎 3❓ - C 227 L 23
 * [HB 1405](hb/1405) - Public benefit payments/DCYF 1📰 192👍 1👎 0❓ - H Rules 3C
@@ -378,7 +378,7 @@
 * [HB 1492](hb/1492) - State v. Blake relief 1📰 105👍 45👎 4❓ - H Rules R
 * [HB 1724](hb/1724) - Behavioral health workforce 6📰 137👍 5👎 12❓ - C 425 L 23
 * [HB 1715](hb/1715) - Domestic violence 7📰 76👍 54👎 21❓ - C 462 L 23
-* [HB 1736](hb/1736) - Vehicle odometer readings 1👍 142👎 8❓ - Del to Gov
+* [HB 1736](hb/1736) - Vehicle odometer readings 1👍 142👎 8❓ - Gov vetoed
 * [SB 5438](sb/5438) - Supportive relationships 54👍 57👎 39❓ - S Rules 3
 * [HB 1255](hb/1255) - Health care prof. SUD prg. 132👍 12👎 4❓ - C 141 L 23
 * [HB 1386](hb/1386) - Youth development grants 3📰 117👍 29👎 2❓ - H Approps
@@ -436,7 +436,7 @@
 * [HB 1839](hb/1839) - Train length 103👍 10👎 1❓ - H Rules R
 * [SB 5671](sb/5671) - K-12 experience factors 113👍 0👎 1❓ - S EL/K-12
 * [SB 5699](sb/5699) - Increasing the compensation for members of the fish and wildlife commission. 110👍 4👎 0❓ - S Ag/Water/Natura
-* [HB 1125](hb/1125) - Transportation budget 7📰 61👍 5👎 47❓ - Del to Gov
+* [HB 1125](hb/1125) - Transportation budget 7📰 61👍 5👎 47❓ - C 472 L 23
 * [HB 1534](hb/1534) - Construction consumers 111👍 1👎 1❓ - C 213 L 23
 * [SB 5000](sb/5000) - Americans of Chinese descent 1📰 108👍 1👎 3❓ - C 357 L 23
 * [SB 5124](sb/5124) - Nonrelative kin placement 2📰 108👍 2👎 2❓ - C 221 L 23
@@ -756,7 +756,7 @@
 * [SB 5281](sb/5281) - Aircraft fuel excise tax 19👍 10👎 0❓ - S Transportation
 * [SB 5473](sb/5473) - Project permit timelines 1📰 27👍 1👎 1❓ - S Loc Gov, Land
 * [SB 5576](sb/5576) - Sexual assault procedures 1📰 12👍 14👎 3❓ - S Rules 3
-* [HB 1112](hb/1112) - Negligent driving 7📰 25👍 3👎 0❓ - Del to Gov
+* [HB 1112](hb/1112) - Negligent driving 7📰 25👍 3👎 0❓ - C 471 L 23
 * [HB 1296](hb/1296) - Local permit review 1📰 28👍 0👎 0❓ - H Approps
 * [HB 1449](hb/1449) - Project permits/reports 1📰 23👍 5👎 0❓ - H Rules R
 * [HB 1766](hb/1766) - Protection orders/hope cards 1📰 27👍 0👎 1❓ - C 308 L 23
@@ -1206,7 +1206,7 @@
 * [SB 5705](sb/5705) - Economic dev. committee 3👍 0👎 0❓ - S Rules 3
 * [SB 5734](sb/5734) - ABLE accounts 3👍 0👎 0❓ - S Ways & Means
 * [SB 5750](sb/5750) - Wahkiakum county ferry 3👍 0👎 0❓ - S Rules X
-* [HB 1066](hb/1066) - Technical corrections 2👍 0👎 0❓ - Del to Gov
+* [HB 1066](hb/1066) - Technical corrections 2👍 0👎 0❓ - C 470 L 23
 * [HB 1364](hb/1364) - Nautical NW license plate 2👍 0👎 0❓ - H Rules C
 * [HB 1441](hb/1441) - Automatic renewal/contracts 2👍 0👎 0❓ - H ConsPro&Bus
 * [HB 1486](hb/1486) - Military surplus vehicles 1👍 0👎 1❓ - H Transportation
