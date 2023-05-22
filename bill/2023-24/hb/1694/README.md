@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## Meetings
 ### Fri 03/17 08:00 AM - Health & Long Term Care (HLTC): E2SHB 1694 Home care workforce shortage

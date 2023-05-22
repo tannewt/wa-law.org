@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 * [2nd Engrossed 2nd Substitute](S2.E2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 05/16/2023 [Crosscut](/org/crosscut/) - [Washington lawmakers make drug possession a gross misdemeanor | Crosscut](https://crosscut.com/politics/2023/05/washington-lawmakers-make-drug-possession-gross-misdemeanor#:~:text=Senate%20Bill%205536)

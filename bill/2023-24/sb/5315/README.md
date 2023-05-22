@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 05/11/2023 [Senate Democrats](/org/senate_democrats/) - [Wilson bill will regulate third parties providing special education for students with disabilities - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/05/11/wilson-bill-will-regulate-third-parties-providing-special-education-for-students-with-disabilities/#:~:text=Senate%20Bill%205315)

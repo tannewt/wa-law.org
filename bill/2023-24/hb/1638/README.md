@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 04/11/2023 [House Democrats](/org/house_democrats/) - [State trooper bill passes the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/11/state-trooper-bill-passes-the-senate/#:~:text=HB%201638)

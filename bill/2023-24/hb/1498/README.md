@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/18/2023 [House Republicans](/org/house_republicans/) - [The second half of the 2023 legislative session | Washington State House Republicans](https://houserepublicans.wa.gov/current/the-second-half-of-the-2023-legislative-session/#:~:text=House%20Bill%201498)

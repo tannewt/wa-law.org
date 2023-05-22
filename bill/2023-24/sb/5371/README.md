@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 05/15/2023 [Senate Democrats](/org/senate_democrats/) - [Lovelett bill protecting endangered southern resident orcas signed into law - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/05/15/lovelett-bill-protecting-endangered-southern-resident-orcas-signed-into-law/#:~:text=Senate%20Bill%205371)

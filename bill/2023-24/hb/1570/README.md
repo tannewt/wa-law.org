@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 05/15/2023 [The Center Square](/org/the_center_square/) - [New paid family, medical leave law for rideshare drivers could increase fares | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_64f83082-f362-11ed-b41f-1fdb692ad5b4.html#:~:text=Substitute%20House%20Bill%201570)

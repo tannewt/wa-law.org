@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 04/24/2023 [Washington St Pta](/org/washington_st_pta/) - [Week 15 Report: Sine Die Edition - WSPTA](https://www.wastatepta.org/sine-die-edition/#:~:text=ESHB%201436)

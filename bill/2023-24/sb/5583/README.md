@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 04/24/2023 [The Urbanist](/org/the_urbanist/) - [Legislature Abandons Most Traffic Safety Bills As Fatalities Continue To Mount | The Urbanist](https://www.theurbanist.org/2023/04/24/legislature-abandons-most-traffic-safety-bills-as-fatalities-continue-to-mount/#:~:text=SB%205583)

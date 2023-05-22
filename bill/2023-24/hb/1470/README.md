@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 03/03/2023 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: House passes bill to regulate conditions in private detention facilities / Cámara aprueba proyecto de ley para regular condiciones en centros privados de detención – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/03/legislative-news-house-passes-bill-to-regulate-conditions-in-private-detention-facilities-camara-aprueba-proyecto-de-ley-para-regular-condiciones-en-centros-privados-de-detencion/#:~:text=House%20Bill%201470)

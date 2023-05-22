@@ -1,0 +1,205 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1436](/bill/2023-24/hb/1436/) > [Session Law](/bill/2023-24/hb/1436/S.SL/)
+
+# HB 1436 - Special education funding
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Session%20Laws/House/1436-S.SL.pdf)
+
+## Section 1
+1. The superintendent of public instruction shall annually review data from local education agencies, including the percentage of students receiving special education services, to ensure there is not a disproportionate identification of students, as defined by the superintendent of public instruction in accordance with federal requirements of the individuals with disabilities education act, 20 U.S.C. Sec. 1400.
+
+2. The office of the superintendent of public instruction shall provide technical assistance to school districts experiencing issues related to disproportionality and will make available professional development opportunities statewide to support local education agencies, schools, and community partners in promoting inclusionary teaching practices within a multitiered system of supports framework to help safeguard against over-identification and other issues related to disproportionality.
+
+## Section 2
+1. [Empty]
+
+    a. It is the intent of the legislature to ensure that the state's special education funding formula does not result in a limitation on services or excess cost allocations to which students are entitled. To this end, the legislature acknowledges that a comprehensive review of the special education funding formula to examine the impacts of recent modifications and the potential need for future modifications is overdue, including the need to look at enrollment percent caps and minimum threshold values for access to the safety net.
+
+    b. The legislature also intends to examine the current accounting and reporting methodologies to ensure that they continue to accurately serve their purpose of providing transparency and accountability and enable the legislature to oversee the state's funding of the program of special education.
+
+2. The joint legislative audit and review committee and the state auditor, in consultation with the office of the superintendent of public instruction, must collaborate to conduct a performance audit of the state's system of providing special education services to students with disabilities, including a review of each funding formula component used to allocate resources to school districts for the program of special education and the interplay between those different components. The joint legislative audit and review committee and the state auditor may divide responsibility for the work and reporting required in this section as appropriate, and contract with qualified third-party researchers or higher education institutions to perform any aspect of the report and audit. The report and audit must address:
+
+    a. The prevalence of disabilities and whether the provisions and funding for evaluating students and providing services reflects the prevalence of disabilities, including whether any populations are disparately underevaluated or underserved;
+
+    b. The degree to which changes in funding formulas intended to encourage increased inclusion are successful and whether the state and school districts are utilizing best practices to improve inclusion;
+
+    c. Whether the changes in evaluation timelines or increases in the funded enrollment limit have resulted in funding for students who do not have disabilities or in excess of districts' costs to serve students with disabilities;
+
+    d. Whether districts are appropriately accounting for and reporting use of basic education allocations for students with disabilities, including if statutory expectations for use of funds are being met. As part of this review, the joint legislative audit and review committee shall revisit their special education excess cost accounting and reporting requirements report from February 2006 and determine if the special education excess cost accounting methodology and requirements are still functioning as intended with other changes in funding and service delivery focused on inclusion in a general education setting and if additional modifications are recommended;
+
+    e. The amount of funding from levies or other local sources that school districts continue to utilize under current accounting methodologies in order to meet obligations to provide free and appropriate public education to students with disabilities, the degree to which funding shortfalls will continue following planned increases in multipliers, proposed changes to accounting methodologies, and the elimination of a cap on the percent of students for whom the state provides funding; and, options for additional changes to funding formulas to eliminate shortfalls in state funding for special education;
+
+    f. How the state may improve recruitment and retention of certificated educators, instructional aides, or paraeducators and professionals serving students with disabilities;
+
+    g. How the existing special education funding formula components used to allocate resources to school districts in Washington address the actual funding needs of school districts to fully serve all students with disabilities. This review must include an examination of each individual funding formula component including, but not limited to, the use of multiple student weights, the funded percentage cap, and safety net eligibility requirements. This review must also address how the funding formula components interplay within the overall funding model to address the diverse and variable needs of school district special education programs; and
+
+    h. How Washington's special education funding model compares to different special education funding models used in other states. This review and comparison must identify the strengths and weaknesses of Washington's funding model as compared to other funding models and, at a minimum, review past studies and findings related to Washington's special education funding model. This review must identify which state formulas place a cap or threshold value on the number or percentage of special education students for purposes of generating funding and if those states differ in other ways from the states that do not have a limit, such as using tiered funding formulas or an average dollar allocation per special education student.
+
+3. To develop the appropriate scope, define study questions, and select one or more contractors to complete the performance audit and report, the joint legislative audit and review committee and state auditor shall consult with the office of the superintendent of public instruction, the office of the education ombuds, organizations representing and serving students with disabilities, the Washington state special education advisory council, and labor organizations representing educators providing educational services to students with disabilities in developing study questions and choosing appropriate contractors. To address the study questions, the joint legislative audit and review committee and the state auditor may conduct the audit at a sample of school districts as needed.
+
+4. The performance audit required by this section must include charter schools to the same extent as school districts.
+
+5. Upon request, the office of financial management and any state or local agency must provide the joint legislative audit and review committee and the state auditor with education records necessary to conduct the performance audit required under this section. The joint legislative audit and review committee and the state auditor shall be considered authorized representatives of relevant state education authorities, including the superintendent of public instruction and the department of children, youth, and families, for the purpose of accessing records for this evaluation. The office of financial management and any state or local agency must provide records within four months from the date of an initial request. The office of financial management or agencies contributing data to the education research and data center must notify the joint legislative audit and review committee and the state auditor's office in writing if they determine a request does not comply with the federal educational rights and privacy act, no later than 21 days after the initial request.
+
+6. Prior to the 2024 legislative session, the joint legislative audit and review committee and the state auditor must identify a lead agency for each element of the report and audit defined in subsection (2)(a) through (h) of this section and any aspects of the study that are being conducted by contractors. These designations must be provided to the governor and the committees of the legislature with jurisdiction over fiscal matters and special education by December 31, 2023.
+
+7. The joint legislative audit and review committee and the state auditor must, in accordance with RCW 43.01.036, report the study's findings and recommendations to the governor and the committees of the legislature with jurisdiction over fiscal matters and special education by November 30, 2024.
+
+8. [Empty]
+
+    a. As the joint legislative audit and review committee examines the current special education excess cost accounting and reporting methodologies, the following methodology shall be used by the superintendent of public instruction through the 2026-27 school year: If a school district's percentage used to calculate the state general apportionment revenue allocated to special education is lower than the percentage used for the 2022-23 school year, the superintendent of public instruction must allocate state general apportionment revenue to special education based on the percentage used in the 2022-23 school year, except as provided in (b) of this subsection.
+
+    b. [Empty]
+
+        i. Subsection (8)(a) of this section does not apply to school districts with a percentage used to calculate the state general apportionment revenue allocated to special education greater than 30 percent.
+
+        ii. School districts with a percentage used to calculate the state general apportionment revenue allocated to special education less than 20 percent must be allocated at 20 percent.
+
+        iii. If a school district's percentage of time students eligible for and receiving special education are served in a general education setting is at least five percentage points greater than its 2022-23 percentage in a school year, the school district's percentage used to calculate the state general apportionment revenue allocated to special education may be reduced by one percentage point for that school year from the 2022-23 percentage.
+
+        iv. School districts with enrollments of less than 300 full-time equivalent students are exempt from all provisions of this subsection (8).
+
+9. This section expires December 31, 2026.
+
+## Section 3
+1. The superintendent of public instruction shall submit to each regular session of the legislature during an odd-numbered year a programmed budget request for special education programs for students with disabilities. Funding for programs operated by local school districts shall be on an excess cost basis from appropriations provided by the legislature for special education programs for students with disabilities and shall take account of state funds accruing through RCW 28A.150.260 (4)(a), (5), (6), and (8) and 28A.150.415.
+
+2. The excess cost allocation to school districts shall be based on the following:
+
+    a. A district's annual average headcount enrollment of students ages three and four and those five year olds not yet enrolled in kindergarten who are eligible for and receiving special education, multiplied by the district's base allocation per full-time equivalent student, multiplied by 1.2;
+
+    b. [Empty]
+
+        i. Subject to the limitation in (b)(ii) of this subsection (2), a district's annual average enrollment of resident students who are eligible for and receiving special education, excluding students ages three and four and those five year olds not yet enrolled in kindergarten, multiplied by the district's base allocation per full-time equivalent student, multiplied by the special education cost multiplier rate of:
+
+(A)
+
+Beginning in the 2020-21 school year, either:
+
+(I) 1.0075 for students eligible for and receiving special education and reported to be in the general education setting for 80 percent or more of the school day; or
+
+(II) 0.995 for students eligible for and receiving special education and reported to be in the general education setting for less than 80 percent of the school day;
+
+(B) Beginning in the 2023-24 school year, either:
+
+(I) 1.12 for students eligible for and receiving special education and reported to be in the general education setting for 80 percent or more of the school day; or
+
+(II) 1.06 for students eligible for and receiving special education and reported to be in the general education setting for less than 80 percent of the school day.
+
+        ii. If the enrollment percent exceeds 15 percent, the excess cost allocation calculated under (b)(i) of this subsection must be adjusted by multiplying the allocation by 15 percent divided by the enrollment percent.
+
+3. As used in this section:
+
+    a. "Base allocation" means the total state allocation to all schools in the district generated by the distribution formula under RCW 28A.150.260 (4)(a), (5), (6), and (8) and the allocation under RCW 28A.150.415, to be divided by the district's full-time equivalent enrollment.
+
+    b. "Basic education enrollment" means enrollment of resident students including nonresident students enrolled under RCW 28A.225.225 and students from nonhigh districts enrolled under RCW 28A.225.210 and excluding students residing in another district enrolled as part of an interdistrict cooperative program under RCW 28A.225.250.
+
+    c. "Enrollment percent" means the district's resident annual average enrollment of students who are eligible for and receiving special education, excluding students ages three and four and those five year olds not yet enrolled in kindergarten and students enrolled in institutional education programs, as a percent of the district's annual average full-time equivalent basic education enrollment.
+
+## Section 4
+1. [Empty]
+
+    a. To the extent necessary, funds shall be made available for safety net awards for districts with demonstrated needs for special education funding beyond the amounts provided through the special education funding formula under RCW 28A.150.390.
+
+    b. If the federal safety net awards based on the federal eligibility threshold exceed the federal appropriation in any fiscal year, then the superintendent shall expend all available federal discretionary funds necessary to meet this need.
+
+2. Safety net funds shall be awarded by the state safety net oversight committee subject to the following conditions and limitations:
+
+    a. The committee shall award additional funds for districts that can convincingly demonstrate that all legitimate expenditures for special education exceed all available revenues from state funding formulas.
+
+    b. In the determination of need, the committee shall consider additional available revenues from federal sources.
+
+    c. Differences in program costs attributable to district philosophy, service delivery choice, or accounting practices are not a legitimate basis for safety net awards.
+
+    d. In the determination of need, the committee shall require that districts demonstrate that they are maximizing their eligibility for all state revenues related to services for students eligible for special education and all federal revenues from federal impact aid, medicaid, and the individuals with disabilities education act-Part B and appropriate special projects. Awards associated with (e) and (f) of this subsection shall not exceed the total of a district's specific determination of need.
+
+    e. The committee shall then consider the extraordinary high cost needs of one or more individual students eligible for and receiving special education. Differences in costs attributable to district philosophy, service delivery choice, or accounting practices are not a legitimate basis for safety net awards.
+
+    f. Using criteria developed by the committee, the committee shall then consider extraordinary costs associated with communities that draw a larger number of families with children in need of special education services, which may include consideration of proximity to group homes, military bases, and regional hospitals. Safety net awards under this subsection (2)(f) shall be adjusted to reflect amounts awarded under (e) of this subsection.
+
+    g. The committee shall then consider the extraordinary high cost needs of one or more individual students eligible for and receiving special education served in residential schools , programs for juveniles under the department of corrections, and programs for juveniles operated by city and county jails to the extent they are providing a secondary program of education.
+
+    h. The maximum allowable indirect cost for calculating safety net eligibility may not exceed the federal restricted indirect cost rate for the district plus one percent.
+
+        i. Safety net awards shall be adjusted based on the percent of potential medicaid eligible students billed as calculated by the superintendent of public instruction in accordance with chapter 318, Laws of 1999.
+
+    j. Safety net awards must be adjusted for any audit findings or exceptions related to special education funding.
+
+3. The superintendent of public instruction shall adopt such rules and procedures as are necessary to administer the special education funding and safety net award process. By December 1, 2018, the superintendent shall review and revise the rules to achieve full and complete implementation of the requirements of this subsection and subsection (4) of this section including revisions to rules that provide additional flexibility to access community impact awards. Before revising any standards, procedures, or rules, the superintendent shall consult with the office of financial management and the fiscal committees of the legislature. In adopting and revising the rules, the superintendent shall ensure the application process to access safety net funding is streamlined, timelines for submission are not in conflict, feedback to school districts is timely and provides sufficient information to allow school districts to understand how to correct any deficiencies in a safety net application, and that there is consistency between awards approved by school district and by application period. The office of the superintendent of public instruction shall also provide technical assistance to school districts in preparing and submitting special education safety net applications.
+
+4. On an annual basis, the superintendent shall survey districts regarding their satisfaction with the safety net process and consider feedback from districts to improve the safety net process. Each year by December 1st, the superintendent shall prepare and submit a report to the office of financial management and the appropriate policy and fiscal committees of the legislature that summarizes the survey results and those changes made to the safety net process as a result of the school district feedback.
+
+5. The safety net oversight committee appointed by the superintendent of public instruction shall consist of:
+
+    a. One staff member from the office of the superintendent of public instruction;
+
+    b. Staff of the office of the state auditor who shall be nonvoting members of the committee; and
+
+    c. One or more representatives from school districts or educational service districts knowledgeable of special education programs and funding.
+
+6. [Empty]
+
+    a. Beginning in the 2019-20 school year, a high-need student is eligible for safety net awards from state funding under subsection (2)(e) and (g) of this section if the student's individualized education program costs exceed two and three-tenths times the average per-pupil expenditure as defined in Title 20 U.S.C. Sec. 7801, the every student succeeds act of 2015.
+
+    b. Beginning in the 2023-24 school year, a high-need student is eligible for safety net awards from state funding under subsection (2)(e) and (g) of this section if the student's individualized education program costs exceed:
+
+        i. 2 times the average per-pupil expenditure, for school districts with fewer than 1,000 full-time equivalent students;
+
+        ii. 2.2 times the average per-pupil expenditure, for school districts with 1,000 or more full-time equivalent students.
+
+    c. For purposes of (b) of this subsection, "average per-pupil expenditure" has the same meaning as in 20 U.S.C. Sec. 7801, the every student succeeds act of 2015, and excludes safety net funding provided in this section.
+
+## Section 5
+1. There is hereby created the office of the education ombuds within the office of the governor for the purposes of providing information to parents, students, and others regarding their rights and responsibilities with respect to the state's public elementary and secondary education system, and advocating on behalf of elementary and secondary students.
+
+2. [Empty]
+
+    a. The governor shall appoint an ombuds who shall be a person of recognized judgment, independence, objectivity, and integrity and shall be qualified by training or experience or both in the following areas:
+
+        i. Public education law and policy in this state;
+
+        ii. Dispute resolution or problem resolution techniques, including mediation and negotiation; and
+
+        iii. Community outreach.
+
+    b. The education ombuds may not be an employee of any school district, the office of the superintendent of public instruction, or the state board of education while serving as an education ombuds.
+
+3. Before the appointment of the education ombuds, the governor shall share information regarding the appointment to a six-person legislative committee appointed and comprised as follows:
+
+    a. The committee shall consist of three senators and three members of the house of representatives from the legislature.
+
+    b. The senate members of the committee shall be appointed by the president of the senate. Two members shall represent the majority caucus and one member the minority caucus.
+
+    c. The house of representatives members of the committee shall be appointed by the speaker of the house of representatives. Two members shall represent the majority caucus and one member the minority caucus.
+
+4. If sufficient appropriations are provided, the education ombuds shall delegate and certify regional education ombuds. The education ombuds shall ensure that the regional ombuds selected are appropriate to the community in which they serve and hold the same qualifications as in subsection (2)(a) of this section. The education ombuds may not contract with the superintendent of public instruction, or any school, school district, or current employee of a school, school district, or the office of the superintendent of public instruction for the provision of regional ombuds services.
+
+5. [Empty]
+
+    a. Subject to amounts appropriated for this specific purpose, the education ombuds shall delegate and certify at least one special education ombuds to serve each educational service district region. The education ombuds shall ensure that the special education ombuds selected are appropriate to the community in which they serve and hold the same qualifications as in subsection (2)(a) of this section. The education ombuds may not contract with the superintendent of public instruction, or any school, school district, educational service district, or current employee of a school, school district, educational service district, or the office of the superintendent of public instruction for the provision of special education ombuds services.
+
+    b. Special education ombuds must serve as a resource for students eligible for special education services and their parents, including:
+
+        i. Advocating on behalf of the student for a free and appropriate public education from the public school system that emphasizes special education and related services that are:
+
+(A) Provided in the least restrictive environment;
+
+(B) Designed to meet the student's unique needs;
+
+(C) Appropriately ambitious and reasonably calculated to enable a student to make progress in light of the student's circumstances; and
+
+(D) Addressing the student's further education, employment, and independent living goals.
+
+        ii. Assisting students and parents with individualized education program development, including:
+
+(A) Preparing for a meeting to develop or update a student's individualized education program;
+
+(B) Attending individualized education program meetings to help present the parents' concerns, negotiate components that meet the parents' goals and requests, or otherwise assist the parent in understanding and navigating the individualized education program process; and
+
+(C) Attending an individualized education program meeting to assist in writing an appropriate program when a parent opts out or otherwise cannot attend.
+
+## Section 6
+1. It is the policy of the state that for purposes of state funding allocations, students eligible for and receiving special education generate the full basic education allocation under RCW 28A.150.260 and, as a class, are to receive the benefits of this allocation for the entire school day, as defined in RCW 28A.150.203, whether the student is placed in the general education setting or another setting.
+
+2. The superintendent of public instruction shall develop an allocation and cost accounting methodology that ensures state general apportionment funding for students who receive their basic education services primarily in an alternative classroom or setting are prorated and allocated to the special education program and accounted for before calculating special education excess costs. Nothing in this section requires districts to provide services in a manner inconsistent with the students individualized education program or other than in the least restrictive environment as determined by the individualized education program team.
+
+3. The superintendent of public instruction shall provide the legislature with an accounting of prorated general apportionment allocations provided to special education programs broken down by school district by January 1, 2024, and then every January 1st of odd-numbered years thereafter.

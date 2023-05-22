@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/29/2023 [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers advance bill to block some public employee info from view | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-lawmakers-advance-bill-to-block-some-public-employee-info-from-view/#:~:text=House%20Bill%201533)

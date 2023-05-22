@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 04/12/2023 [The Seattle Times](/org/the_seattle_times/) - [Lawmakers pass bill to change how WA cares for youth stuck in hospitals | The Seattle Times](https://www.seattletimes.com/seattle-news/mental-health/lawmakers-pass-bill-to-change-how-wa-cares-for-youth-stuck-in-hospitals/#:~:text=House%20Bill%201580)

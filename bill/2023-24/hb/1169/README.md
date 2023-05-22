@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 05/16/2023 [House Democrats](/org/house_democrats/) - [Years long journey leads to the elimination of mandatory LFOs – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/05/16/years-long-journey-leads-to-the-elimination-of-mandatory-lfos/#:~:text=House%20Bill%201169)

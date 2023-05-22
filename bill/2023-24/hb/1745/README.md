@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 05/12/2023 [House Democrats](/org/house_democrats/) - [Bill to improve diversity in clinical trials signed by Governor  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/05/12/bill-to-improve-diversity-in-clinical-trials-signed-by-governor/#:~:text=House%20Bill%201745)

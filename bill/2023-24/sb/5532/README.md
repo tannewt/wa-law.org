@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 05/12/2023 [The Center Square](/org/the_center_square/) - [Dr. Raul Garcia announces run for Washington governor | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d5c0f8ec-f0f8-11ed-a3db-f7cdf1e5a3c4.html#:~:text=Senate%20Bill%205532)

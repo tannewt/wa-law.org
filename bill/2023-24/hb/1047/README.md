@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 05/15/2023 [KING5](/org/king5/) - [Gov. Inslee to sign bill banning nine toxic chemicals | king5.com](https://www.king5.com/article/news/politics/state-politics/gov-inslee-sign-bill-banning-toxic-chemicals/281-aa7deb9a-2294-459b-9c4b-2470c6e645d9#:~:text=House%20Bill%201047)

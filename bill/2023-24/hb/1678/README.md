@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 05/15/2023 [House Democrats](/org/house_democrats/) - [Dental Therapy Bill Signed by Governor – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/05/15/dental-therapy-bill-signed-by-governor/#:~:text=HB%201678)

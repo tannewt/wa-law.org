@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 04/13/2023 [MyNorthwest](/org/mynorthwest/) - [Search for new Washington airport location likely to start over - MyNorthwest.com](https://mynorthwest.com/3874896/search-new-airport-western-washington-starting-over/#:~:text=Engrossed%20Substitute%20House%20Bill%201791)

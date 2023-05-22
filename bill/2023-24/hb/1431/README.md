@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/16/2023 [House Democrats](/org/house_democrats/) - [Timmons’ Sales Tax Exemption Bill for Seniors in Assisted Living Communities Passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/16/timmons-sales-tax-exemption-bill-for-seniors-in-assisted-living-communities-passes-house/#:~:text=House%20Bill%201431)

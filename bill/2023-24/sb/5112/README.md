@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 02/21/2023 [The Seattle Times](/org/the_seattle_times/) - [Reach out to voters before reworking their ballots | The Seattle Times](https://www.seattletimes.com/opinion/reach-out-to-voters-before-reworking-their-ballots/#:~:text=Senate%20Bill%205112)

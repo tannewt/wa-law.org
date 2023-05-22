@@ -1,0 +1,412 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1134](/bill/2023-24/hb/1134/) > [Session Law](/bill/2023-24/hb/1134/S2.SL/)
+
+# HB 1134 - 988 system
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Session%20Laws/House/1134-S2.SL.pdf)
+
+## Section 1
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+## Section 2
+(1) The secretary shall license or certify any agency or facility that: (a) Submits payment of the fee established under RCW 43.70.110 and 43.70.250; (b) submits a complete application that demonstrates the ability to comply with requirements for operating and maintaining an agency or facility in statute or rule; and (c) successfully completes the prelicensure inspection requirement.
+
+## Section 3
+The department shall develop informational materials and a social media campaign related to the 988 crisis hotline, including call, text, and chat options, and other crisis hotline lines for veterans, American Indians and Alaska Natives, and other populations. The informational materials must include appropriate information for persons seeking services at behavioral health clinics and medical clinics, as well as media audiences and students at K-12 schools and higher education institutions. The department shall make the informational materials available to behavioral health clinics, medical clinics, media, K-12 schools, higher education institutions, and other relevant settings. The informational materials shall be made available to professionals during training in suicide assessment, treatment, and management under RCW 43.70.442. To tailor the messages of the informational materials and the social media campaign, the department must consult with tribes, the American Indian health commission of Washington state, the native and strong lifeline, the Washington state department of veterans affairs, representatives of agricultural communities, and persons with lived experience related to mental health issues, substance use disorder issues, a suicide attempt, or a suicide loss.
+
+## Section 4
+(1)(a) Each of the following professionals certified or licensed under Title 18 RCW shall, at least once every six years, complete training in suicide assessment, treatment, and management that is approved, in rule, by the relevant disciplining authority:
+
+## Section 5
+1. Establishing the state designated 988 contact hubs and enhancing the crisis response system will require collaborative work between the department and the authority within their respective roles. The department shall have primary responsibility for establishing and designating the designated 988 contact hubs. The authority shall have primary responsibility for developing and implementing the crisis response system and services to support the work of the designated 988 contact hubs. In any instance in which one agency is identified as the lead, the expectation is that agency will be communicating and collaborating with the other to ensure seamless, continuous, and effective service delivery within the statewide crisis response system.
+
+2. The department shall provide adequate funding for the state's crisis call centers to meet an expected increase in the use of the call centers based on the implementation of the 988 crisis hotline. The funding level shall be established at a level anticipated to achieve an in-state call response rate of at least 90 percent by July 22, 2022. The funding level shall be determined by considering standards and cost per call predictions provided by the administrator of the national suicide prevention lifeline, call volume predictions, guidance on crisis call center performance metrics, and necessary technology upgrades. In contracting with the crisis call centers, the department:
+
+    a. May provide funding to support crisis call centers and designated 988 contact hubs to enter into limited on-site partnerships with the public safety answering point to increase the coordination and transfer of behavioral health calls received by certified public safety telecommunicators that are better addressed by clinic interventions provided by the 988 system. Tax revenue may be used to support on-site partnerships;
+
+    b. Shall require that crisis call centers enter into data-sharing agreements, when appropriate, with the department, the authority, and applicable regional behavioral health administrative services organizations to provide reports and client level data regarding 988 crisis hotline calls, as allowed by and in compliance with existing federal and state law governing the sharing and use of protected health information, including dispatch time, arrival time, and disposition of the outreach for each call referred for outreach by each region. The department and the authority shall establish requirements that the crisis call centers report the data identified in this subsection (2)(b) to regional behavioral health administrative services organizations for the purposes of maximizing medicaid reimbursement, as appropriate, and implementing this chapter and chapters 71.05 and 71.34 RCW including, but not limited to, administering crisis services for the assigned regional service area, contracting with a sufficient number of licensed or certified providers for crisis services, establishing and maintaining quality assurance processes, maintaining patient tracking, and developing and implementing strategies to coordinate care for individuals with a history of frequent crisis system utilization.
+
+3. The department shall adopt rules by January 1, 2025, to establish standards for designation of crisis call centers as designated 988 contact hubs. The department shall collaborate with the authority and other agencies to assure coordination and availability of services, and shall consider national guidelines for behavioral health crisis care as determined by the federal substance abuse and mental health services administration, national behavioral health accrediting bodies, and national behavioral health provider associations to the extent they are appropriate, and recommendations from the crisis response improvement strategy committee created in RCW 71.24.892.
+
+4. The department shall designate designated 988 contact hubs by January 1, 2026. The designated 988 contact hubs shall provide crisis intervention services, triage, care coordination, referrals, and connections to individuals contacting the 988 crisis hotline from any jurisdiction within Washington 24 hours a day, seven days a week, using the system platform developed under subsection (5) of this section.
+
+    a. To be designated as a designated 988 contact hub, the applicant must demonstrate to the department the ability to comply with the requirements of this section and to contract to provide designated 988 contact hub services. The department may revoke the designation of any designated 988 contact hub that fails to substantially comply with the contract.
+
+    b. The contracts entered shall require designated 988 contact hubs to:
+
+        i. Have an active agreement with the administrator of the national suicide prevention lifeline for participation within its network;
+
+        ii. Meet the requirements for operational and clinical standards established by the department and based upon the national suicide prevention lifeline best practices guidelines and other recognized best practices;
+
+        iii. Employ highly qualified, skilled, and trained clinical staff who have sufficient training and resources to provide empathy to callers in acute distress, de-escalate crises, assess behavioral health disorders and suicide risk, triage to system partners for callers that need additional clinical interventions, and provide case management and documentation. Call center staff shall be trained to make every effort to resolve cases in the least restrictive environment and without law enforcement involvement whenever possible. Call center staff shall coordinate with certified peer counselors to provide follow-up and outreach to callers in distress as available. It is intended for transition planning to include a pathway for continued employment and skill advancement as needed for experienced crisis call center employees;
+
+        iv. Train employees on agricultural community cultural competencies for suicide prevention, which may include sharing resources with callers that are specific to members from the agricultural community. The training must prepare staff to provide appropriate assessments, interventions, and resources to members of the agricultural community. Employees may make warm transfers and referrals to a crisis hotline that specializes in working with members from the agricultural community, provided that no person contacting 988 shall be transferred or referred to another service if they are currently in crisis and in need of emotional support;
+
+    v. Prominently display 988 crisis hotline information on their websites and social media, including a description of what the caller should expect when contacting the crisis call center and a description of the various options available to the caller, including call lines specialized in the behavioral health needs of veterans, American Indian and Alaska Native persons, Spanish-speaking persons, and LGBTQ populations. The website may also include resources for programs and services related to suicide prevention for the agricultural community;
+
+    vi. Collaborate with the authority, the national suicide prevention lifeline, and veterans crisis line networks to assure consistency of public messaging about the 988 crisis hotline;
+
+    vii. Develop and submit to the department protocols between the designated 988 contact hub and 911 call centers within the region in which the designated crisis call center operates and receive approval of the protocols by the department and the state 911 coordination office;
+
+    viii. Develop, in collaboration with the region's behavioral health administrative services organizations, and jointly submit to the authority protocols related to the dispatching of mobile rapid response crisis teams and community-based crisis teams endorsed under section 9 of this act and receive approval of the protocols by the authority;
+
+        ix. Provide data and reports and participate in evaluations and related quality improvement activities, according to standards established by the department in collaboration with the authority; and
+
+    x. Enter into data-sharing agreements with the department, the authority, and applicable regional behavioral health administrative services organizations to provide reports and client level data regarding 988 crisis hotline calls, as allowed by and in compliance with existing federal and state law governing the sharing and use of protected health information, including dispatch time, arrival time, and disposition of the outreach for each call referred for outreach by each region. The department and the authority shall establish requirements that the designated 988 contact hubs report the data identified in this subsection (4)(b)(x) to regional behavioral health administrative services organizations for the purposes of maximizing medicaid reimbursement, as appropriate, and implementing this chapter and chapters 71.05 and 71.34 RCW including, but not limited to, administering crisis services for the assigned regional service area, contracting with a sufficient number or licensed or certified providers for crisis services, establishing and maintaining quality assurance processes, maintaining patient tracking, and developing and implementing strategies to coordinate care for individuals with a history of frequent crisis system utilization.
+
+    c. The department and the authority shall incorporate recommendations from the crisis response improvement strategy committee created under RCW 71.24.892 in its agreements with designated 988 contact hubs, as appropriate.
+
+5. The department and authority must coordinate to develop the technology and platforms necessary to manage and operate the behavioral health crisis response and suicide prevention system. The department and the authority must include the crisis call centers and designated 988 contact hubs in the decision-making process for selecting any technology platforms that will be used to operate the system. No decisions made by the department or the authority shall interfere with the routing of the 988 crisis hotline calls, texts, or chat as part of Washington's active agreement with the administrator of the national suicide prevention lifeline or 988 administrator that routes 988 contacts into Washington's system. The technologies developed must include:
+
+    a. A new technologically advanced behavioral health and suicide prevention crisis call center system platform  for use in designated 988 contact hubs designated by the department under subsection (4) of this section. This platform, which shall be fully funded by July 1, 2024, shall be developed by the department and must include the capacity to receive crisis assistance requests through phone calls, texts, chats, and other similar methods of communication that may be developed in the future that promote access to the behavioral health crisis system; and
+
+    b. A behavioral health integrated client referral system capable of providing system coordination information to designated 988 contact hubs and the other entities involved in behavioral health care. This system shall be developed by the authority.
+
+6. In developing the new technologies under subsection (5) of this section, the department and the authority must coordinate to designate a primary technology system to provide each of the following:
+
+    a. Access to real-time information relevant to the coordination of behavioral health crisis response and suicide prevention services, including:
+
+        i. Real-time bed availability for all behavioral health bed types, including but not limited to crisis stabilization services, triage facilities, psychiatric inpatient, substance use disorder inpatient, withdrawal management, peer-run respite centers, and crisis respite services, inclusive of both voluntary and involuntary beds, for use by crisis response workers, first responders, health care providers, emergency departments, and individuals in crisis; and
+
+        ii. Real-time information relevant to the coordination of behavioral health crisis response and suicide prevention services for a person, including the means to access:
+
+(A) Information about any less restrictive alternative treatment orders or mental health advance directives related to the person; and
+
+(B) Information necessary to enable the designated 988 contact hub to actively collaborate with emergency departments, primary care providers and behavioral health providers within managed care organizations, behavioral health administrative services organizations, and other health care payers to establish a safety plan for the person in accordance with best practices and provide the next steps for the person's transition to follow-up noncrisis care. To establish information-sharing guidelines that fulfill the intent of this section the authority shall consider input from the confidential information compliance and coordination subcommittee established under RCW 71.24.892;
+
+The means to track the outcome of the 988 call to enable appropriate follow up, cross-system coordination, and accountability, including as appropriate: (i) Any immediate services dispatched and reports generated from the encounter; (ii) the validation of a safety plan established for the caller in accordance with best practices; (iii) the next steps for the caller to follow in transition to noncrisis follow-up care, including a next-day appointment for callers experiencing urgent, symptomatic behavioral health care needs; and (iv) the means to verify and document whether the caller was successful in making the transition to appropriate noncrisis follow-up care indicated in the safety plan for the person, to be completed either by the care coordinator provided through the person's managed care organization, health plan, or behavioral health administrative services organization, or if such a care coordinator is not available or does not follow through, by the staff of the designated 988 contact hub;
+
+    c. A means to facilitate actions to verify and document whether the person's transition to follow up noncrisis care was completed and services offered, to be performed by a care coordinator provided through the person's managed care organization, health plan, or behavioral health administrative services organization, or if such a care coordinator is not available or does not follow through, by the staff of the designated 988 contact hub;
+
+    d. The means to provide geographically, culturally, and linguistically appropriate services to persons who are part of high-risk populations or otherwise have need of specialized services or accommodations, and to document these services or accommodations; and
+
+    e. When appropriate, consultation with tribal governments to ensure coordinated care in government-to-government relationships, and access to dedicated services to tribal members.
+
+7.
+
+The authority shall:
+
+    a. Collaborate with county authorities and behavioral health administrative services organizations to develop procedures to dispatch behavioral health crisis services in coordination with designated 988 contact hubs to effectuate the intent of this section;
+
+    b. Establish formal agreements with managed care organizations and behavioral health administrative services organizations by January 1, 2023, to provide for the services, capacities, and coordination necessary to effectuate the intent of this section, which shall include a requirement to arrange next-day appointments for persons contacting the 988 crisis hotline experiencing urgent, symptomatic behavioral health care needs with geographically, culturally, and linguistically appropriate primary care or behavioral health providers within the person's provider network, or, if uninsured, through the person's behavioral health administrative services organization;
+
+    c. Create best practices guidelines by July 1, 2023, for deployment of appropriate and available crisis response services by designated 988 contact hubs to assist 988 hotline callers to minimize nonessential reliance on emergency room services and the use of law enforcement, considering input from relevant stakeholders and recommendations made by the crisis response improvement strategy committee created under RCW 71.24.892;
+
+    d. Develop procedures to allow appropriate information sharing and communication between and across crisis and emergency response systems for the purpose of real-time crisis care coordination including, but not limited to, deployment of crisis and outgoing services, follow-up care, and linked, flexible services specific to crisis response; and
+
+    e. Establish guidelines to appropriately serve high-risk populations who request crisis services. The authority shall design these guidelines to promote behavioral health equity for all populations with attention to circumstances of race, ethnicity, gender, socioeconomic status, sexual orientation, and geographic location, and include components such as training requirements for call response workers, policies for transferring such callers to an appropriate specialized center or subnetwork within or external to the national suicide prevention lifeline network, and procedures for referring persons who access the 988 crisis hotline to linguistically and culturally competent care.
+
+8. The department shall monitor trends in 988 crisis hotline caller data, as reported by designated 988 contact hubs under subsection (4)(b)(x) of this section, and submit an annual report to the governor and the appropriate committees of the legislature summarizing the data and trends beginning December 1, 2027.
+
+## Section 6
+1. The crisis response improvement strategy committee is established for the purpose of providing advice in developing an integrated behavioral health crisis response and suicide prevention system containing the elements described in this section. The work of the committee shall be received and reviewed by a steering committee, which shall in turn form subcommittees to provide the technical analysis and input needed to formulate system change recommendations.
+
+2. The  behavioral health institute at Harborview medical center shall facilitate and provide staff support to the steering committee and to the crisis response improvement strategy committee. The behavioral health institute may contract for the provision of these services.
+
+3. The steering committee shall consist of the five members specified as serving on the steering committee in this subsection and one additional member who has been appointed to serve pursuant to the criteria in either (j), (k), (l), or (m) of this subsection. The steering committee shall select three cochairs from among its members to lead the crisis response improvement strategy committee. The crisis response improvement strategy committee shall consist of the following members, who shall be appointed or requested by the authority, unless otherwise noted:
+
+    a. The director of the authority, or his or her designee, who shall also serve on the steering committee;
+
+    b. The secretary of the department, or his or her designee, who shall also serve on the steering committee;
+
+    c. A member representing the office of the governor, who shall also serve on the steering committee;
+
+    d. The Washington state insurance commissioner, or his or her designee;
+
+    e. Up to two members representing federally recognized tribes, one from eastern Washington and one from western Washington, who have expertise in behavioral health needs of their communities;
+
+    f. One member from each of the two largest caucuses of the senate, one of whom shall also be designated to participate on the steering committee, to be appointed by the president of the senate;
+
+    g. One member from each of the two largest caucuses of the house of representatives, one of whom shall also be designated to participate on the steering committee, to be appointed by the speaker of the house of representatives;
+
+    h. The director of the Washington state department of veterans affairs, or his or her designee;
+
+        i. The state  911 coordinator, or his or her designee;
+
+    j. A member with lived experience of a suicide attempt;
+
+    k. A member with lived experience of a suicide loss;
+
+    l. A member with experience of participation in the crisis system related to lived experience of a mental health disorder;
+
+    m. A member with experience of participation in the crisis system related to lived experience with a substance use disorder;
+
+    n. A member representing each crisis call center in Washington that is contracted with the national suicide prevention lifeline;
+
+    o. Up to two members representing behavioral health administrative services organizations, one from an urban region and one from a rural region;
+
+    p. A member representing the Washington council for behavioral health;
+
+    q. A member representing the association of alcoholism and addiction programs of Washington state;
+
+    r. A member representing the Washington state hospital association;
+
+    s. A member representing the national alliance on mental illness Washington;
+
+    t. A member representing the behavioral health interests of persons of color recommended by Sea Mar community health centers;
+
+    u. A member representing the behavioral health interests of persons of color recommended by Asian counseling and referral service;
+
+    v. A member representing law enforcement;
+
+    w. A member representing a university-based suicide prevention center of excellence;
+
+    x. A member representing an emergency medical services department with a CARES program;
+
+    y. A member representing medicaid managed care organizations, as recommended by the association of Washington healthcare plans;
+
+    z. A member representing commercial health insurance, as recommended by the association of Washington healthcare plans;
+
+    aa. A member representing the Washington association of designated crisis responders;
+
+    bb. A member representing the children and youth behavioral health work group;
+
+    cc. A member representing a social justice organization addressing police accountability and the use of deadly force; and
+
+    dd. A member representing an organization specializing in facilitating behavioral health services for LGBTQ populations.
+
+4. The crisis response improvement strategy committee shall assist the steering committee to identify potential barriers and make recommendations necessary to implement and effectively monitor the progress of the 988 crisis hotline in Washington and make recommendations for the statewide improvement of behavioral health crisis response and suicide prevention services.
+
+5. The steering committee must develop a comprehensive assessment of the behavioral health crisis response and suicide prevention services system by January 1, 2022, including an inventory of existing statewide and regional behavioral health crisis response, suicide prevention, and crisis stabilization services and resources, and taking into account capital projects which are planned and funded. The comprehensive assessment shall identify:
+
+    a. Statewide and regional insufficiencies and gaps in behavioral health crisis response and suicide prevention services and resources needed to meet population needs;
+
+    b. Quantifiable goals for the provision of statewide and regional behavioral health crisis services and targeted deployment of resources, which consider factors such as reported rates of involuntary commitment detentions, single-bed certifications, suicide attempts and deaths, substance use disorder-related overdoses, overdose or withdrawal-related deaths, and incarcerations due to a behavioral health incident;
+
+    c. A process for establishing outcome measures, benchmarks, and improvement targets, for the crisis response system; and
+
+    d. Potential funding sources to provide statewide and regional behavioral health crisis services and resources.
+
+6. The steering committee, taking into account the comprehensive assessment work under subsection (5) of this section as it becomes available, after discussion with the crisis response improvement strategy committee and hearing reports from the subcommittees, shall report on the following:
+
+    a. A recommended vision for an integrated crisis network in Washington that includes, but is not limited to: An integrated 988 crisis hotline and designated 988 contact hubs; mobile rapid response crisis teams and community-based crisis teams endorsed under section 9 of this act; mobile crisis response units for youth, adult, and geriatric population; a range of crisis stabilization services; an integrated involuntary treatment system; access to peer-run services, including peer-run respite centers; adequate crisis respite services; and data resources;
+
+    b. Recommendations to promote equity in services for individuals of diverse circumstances of culture, race, ethnicity, gender, socioeconomic status, sexual orientation, and for individuals in tribal, urban, and rural communities;
+
+    c. Recommendations for a work plan with timelines to implement appropriate local responses to calls to the 988 crisis hotline within Washington in accordance with the time frames required by the national suicide hotline designation act of 2020;
+
+    d. The necessary components of each of the new technologically advanced behavioral health crisis call center system platform and the new behavioral health integrated client referral system, as provided under RCW 71.24.890, for assigning and tracking response to behavioral health crisis calls and providing real-time bed and outpatient appointment availability to 988 operators, emergency departments, designated crisis responders, and other behavioral health crisis responders, which shall include but not be limited to:
+
+        i. Identification of the components that designated 988 contact hub staff need to effectively coordinate crisis response services and find available beds and available primary care and behavioral health outpatient appointments;
+
+        ii. Evaluation of existing bed tracking models currently utilized by other states and identifying the model most suitable to Washington's crisis behavioral health system;
+
+        iii. Evaluation of whether bed tracking will improve access to all behavioral health bed types and other impacts and benefits; and
+
+        iv. Exploration of how the bed tracking and outpatient appointment availability platform can facilitate more timely access to care and other impacts and benefits;
+
+    e. The necessary systems and capabilities that licensed or certified behavioral health agencies, behavioral health providers, and any other relevant parties will require to report, maintain, and update inpatient and residential bed and outpatient service availability in real time to correspond with the crisis call center system platform or behavioral health integrated client referral system identified in RCW 71.24.890, as appropriate;
+
+    f. A work plan to establish the capacity for the designated 988 contact hubs to integrate Spanish language interpreters and Spanish-speaking call center staff into their operations, and to ensure the availability of resources to meet the unique needs of persons in the agricultural community who are experiencing mental health stresses, which explicitly addresses concerns regarding confidentiality;
+
+    g. A work plan with timelines to enhance and expand the availability of  mobile rapid response crisis teams and community-based crisis teams endorsed under section 9 of this act based in each region, including specialized teams as appropriate to respond to the unique needs of youth, including American Indian and Alaska Native youth and LGBTQ youth, and geriatric populations, including older adults of color and older adults with comorbid dementia;
+
+    h. The identification of other personal and systemic behavioral health challenges which implementation of the 988 crisis hotline has the potential to address in addition to suicide response and behavioral health crises;
+
+        i. The development of a plan for the statewide equitable distribution of crisis stabilization services, behavioral health beds, and peer-run respite services;
+
+    j. Recommendations concerning how health plans, managed care organizations, and behavioral health administrative services organizations shall fulfill requirements to provide assignment of a care coordinator and to provide next-day appointments for enrollees who contact the behavioral health crisis system;
+
+    k. Appropriate allocation of crisis system funding responsibilities among medicaid managed care organizations, commercial insurers, and behavioral health administrative services organizations;
+
+    l. Recommendations for constituting a statewide behavioral health crisis response and suicide prevention oversight board or similar structure for ongoing monitoring of the behavioral health crisis system and where this should be established; and
+
+    m. Cost estimates for each of the components of the integrated behavioral health crisis response and suicide prevention system.
+
+7. The steering committee shall consist only of members appointed to the steering committee under this section. The steering committee shall convene the committee, form subcommittees, assign tasks to the subcommittees, and establish a schedule of meetings and their agendas.
+
+8. The subcommittees of the crisis response improvement strategy committee shall focus on discrete topics. The subcommittees may include participants who are not members of the crisis response improvement strategy committee, as needed to provide professional expertise and community perspectives. Each subcommittee shall have at least one member representing the interests of stakeholders in a rural community, at least one member representing the interests of stakeholders in an urban community, and at least one member representing the interests of youth stakeholders. The steering committee shall form the following subcommittees:
+
+    a. A Washington tribal 988 subcommittee, which shall examine and make recommendations with respect to the needs of tribes related to the 988 system, and which shall include representation from the American Indian health commission;
+
+    b. A credentialing and training subcommittee, to recommend workforce needs and requirements necessary to implement chapter 302, Laws of 2021, including minimum education requirements such as whether it would be appropriate to allow designated 988 contact hubs to employ clinical staff without a bachelor's degree or master's degree based on the person's skills and life or work experience;
+
+    c. A technology subcommittee, to examine issues and requirements related to the technology needed to implement chapter 302, Laws of 2021;
+
+    d. A cross-system crisis response collaboration subcommittee, to examine and define the complementary roles and interactions between mobile rapid response crisis teams and community-based crisis teams endorsed under section 9 of this act, designated crisis responders, law enforcement, emergency medical services teams, 911 and 988 operators, public and private health plans, behavioral health crisis response agencies, nonbehavioral health crisis response agencies, and others needed to implement chapter 302, Laws of 2021;
+
+    e. A confidential information compliance and coordination subcommittee, to examine issues relating to sharing and protection of health information needed to implement chapter 302, Laws of 2021;
+
+    f. A 988 geolocation subcommittee, to examine privacy issues related to federal planning efforts to route 988 crisis hotline calls based on the person's location, rather than area code, including ways to implement the federal efforts in a manner that maintains public and clinical confidence in the 988 crisis hotline. The 988 geolocation subcommittee must include persons with lived experience with behavioral health conditions as well as representatives of crisis call centers, the behavioral health interests of persons of color, and behavioral health providers; and
+
+    g. Any other subcommittee needed to facilitate the work of the committee, at the discretion of the steering committee.
+
+9. The proceedings of the crisis response improvement strategy committee must be open to the public and invite testimony from a broad range of perspectives. The committee shall seek input from tribes, veterans, the LGBTQ community, and communities of color to help discern how well the crisis response system is currently working and recommend ways to improve the crisis response system.
+
+10. Legislative members of the crisis response improvement strategy committee shall be reimbursed for travel expenses in accordance with RCW 44.04.120. Nonlegislative members are not entitled to be reimbursed for travel expenses if they are elected officials or are participating on behalf of an employer, governmental entity, or other organization. Any reimbursement for other nonlegislative members is subject to chapter 43.03 RCW.
+
+11. The steering committee, with the advice of the crisis response improvement strategy committee, shall provide a progress report and the result of its comprehensive assessment under subsection (5) of this section to the governor and appropriate policy and fiscal committee of the legislature by January 1, 2022. The steering committee shall report the crisis response improvement strategy committee's further progress and the steering committee's recommendations related to designated 988 contact hubs to the governor and appropriate policy and fiscal committees of the legislature by January 1, 2023, and January 1, 2024. The steering committee shall provide its final report to the governor and the appropriate policy and fiscal committees of the legislature by January 1, 2025.
+
+12. This section expires June 30, 2025.
+
+## Section 7
+1. When acting in their statutory capacities pursuant to chapter 302, Laws of 2021, the state, department, authority, state  911 coordination office, emergency management division, military department, any other state agency, and their officers, employees, and agents are deemed to be carrying out duties owed to the public in general and not to any individual person or class of persons separate and apart from the public. Nothing contained in chapter 302, Laws of 2021 may be construed to evidence a legislative intent that the duties to be performed by the state, department, authority, state  911 coordination office, emergency management division, military department, any other state agency, and their officers, employees, and agents, as required by chapter 302, Laws of 2021, are owed to any individual person or class of persons separate and apart from the public in general.
+
+2. Each designated 988 contact hub designated by the department under any contract or agreement pursuant to chapter 302, Laws of 2021 shall be deemed to be an independent contractor, separate and apart from the department and the state.
+
+## Section 8
+1. The governor shall appoint a 988 hotline and behavioral health crisis system coordinator to provide project coordination and oversight for the implementation and administration of the 988 crisis hotline, other requirements of chapter 302, Laws of 2021, and other projects supporting the behavioral health crisis system. The coordinator shall:
+
+    a. Oversee the collaboration between the department of health and the health care authority in their respective roles in supporting the crisis call center hubs, providing the necessary support services for 988 callers, and establishing adequate requirements and guidance for their contractors to fulfill the requirements of chapter 302, Laws of 2021;
+
+    b. Ensure coordination and facilitate communication between stakeholders such as crisis call center hub contractors, behavioral health administrative service organizations, county authorities, other crisis hotline centers, managed care organizations, and, in collaboration with the state  911 coordination office, with 911 emergency communications systems;
+
+    c. Review the development of adequate and consistent training for crisis call center personnel and, in coordination with the state  911 coordination office, for 911 operators with respect to their interactions with the crisis hotline center; and
+
+    d. Coordinate implementation of other behavioral health initiatives among state agencies and educational institutions, as appropriate, including coordination of data between agencies.
+
+2. This section expires June 30, 2028.
+
+## Section 9
+1. By April 1, 2024, the authority shall establish standards for issuing an endorsement to any mobile rapid response crisis team or community-based crisis team that meets the criteria under either subsection (2) or (3) of this section, as applicable. The endorsement is a voluntary credential that a mobile rapid response crisis team or community-based crisis team may obtain to signify that it maintains the capacity to respond to persons who are experiencing a significant behavioral health emergency requiring an urgent, in-person response. The attainment of an endorsement allows the mobile rapid response crisis team or community-based crisis team to become eligible for performance payments as provided in subsection (10) of this section.
+
+2. The authority's standards for issuing an endorsement to a mobile rapid response crisis team or a community-based crisis team must consider:
+
+    a. Minimum staffing requirements to effectively respond in-person to individuals experiencing a significant behavioral health emergency. Except as provided in subsection (3) of this section, the team must include appropriately credentialed and supervised staff employed by a licensed or certified behavioral health agency and may include other personnel from participating entities listed in subsection (3) of this section. The team shall include certified peer counselors as a best practice to the extent practicable based on workforce availability. The team may include fire departments, emergency medical services, public health, medical facilities, nonprofit organizations, and city or county governments. The team may not include law enforcement personnel;
+
+    b. Capabilities for transporting an individual experiencing a significant behavioral health emergency to a location providing appropriate level crisis stabilization services, as determined by regional transportation procedures, such as crisis receiving centers, crisis stabilization units, and triage facilities. The standards must include vehicle and equipment requirements, including minimum requirements for vehicles and equipment to be able to safely transport the individual, as well as communication equipment standards. The vehicle standards must allow for an ambulance or aid vehicle licensed under chapter 18.73 RCW to be deemed to meet the standards; and
+
+    c. Standards for the initial and ongoing training of personnel and for providing clinical supervision to personnel.
+
+3. The authority must adjust the standards for issuing an endorsement to a community-based crisis team under subsection (2) of this section if the team is comprised solely of an emergency medical services agency, whether it is part of a fire service agency or a private entity, that is located in a rural county in eastern Washington with a population of less than 60,000 residents. Under the adjusted standards, until January 1, 2030, the authority shall exempt a team from the personnel standards under subsection (2)(a) of this section and issue an endorsement to a team if:
+
+    a. The personnel assigned to the team have met training requirements established by the authority under subsection (2)(c) of this section, as those requirements apply to emergency medical service and fire service personnel, including completion of the three-hour training in suicide assessment, treatment, and management under RCW 43.70.442;
+
+    b. The team operates under a memorandum of understanding with a licensed or certified behavioral health agency to provide direct, real-time consultation through a behavioral health provider employed by a licensed or certified behavioral health agency while the team is responding to a call. The consultation may be provided by telephone, through remote technologies, or, if circumstances allow, in person; and
+
+    c. The team does not include law enforcement personnel.
+
+4. Prior to issuing an initial endorsement or renewing an endorsement, the authority shall conduct an on-site survey of the applicant's operation.
+
+5. An endorsement must be renewed every three years.
+
+6. The authority shall establish forms and procedures for issuing and renewing an endorsement.
+
+7. The authority shall establish procedures for the denial, suspension, or revocation of an endorsement.
+
+8. [Empty]
+
+    a. The decision of a mobile rapid response crisis team or community-based crisis team to seek endorsement is voluntary and does not prohibit a nonendorsed team from participating in the crisis response system when (i) responding to individuals who are not experiencing a significant behavioral health emergency that requires an urgent in-person response or (ii) responding to individuals who are experiencing a significant behavioral health emergency that requires an urgent in-person response when there is not an endorsed team available.
+
+    b. The decision of a mobile rapid response crisis team not to pursue an endorsement under this section does not affect its obligation to comply with any standards adopted by the authority with respect to mobile rapid response crisis teams.
+
+    c. The decision of a mobile rapid response crisis team not to pursue an endorsement under this section does not affect its responsibilities and reimbursement for services as they may be defined in contracts with managed care organizations or behavioral health administrative services organizations.
+
+9. The costs associated with endorsement activities shall be supported with funding from the statewide 988 behavioral health crisis response and suicide prevention line account established in RCW 82.86.050.
+
+10. The authority shall establish an endorsed mobile rapid response crisis team and community-based crisis team performance program with receipts from the statewide 988 behavioral health crisis response and suicide prevention line account.
+
+    a. Subject to funding provided for this specific purpose, the performance program shall:
+
+        i. Issue establishment grants to support mobile rapid response crisis teams and community-based crisis teams seeking to meet the elements necessary to become endorsed under either subsection (2) or (3) of this section;
+
+        ii. Issue performance payments in the form of an enhanced case rate to mobile rapid response crisis teams and community-based crisis teams that have received an endorsement from the authority under either subsection (2) or (3) of this section; and
+
+        iii. Issue supplemental performance payments in the form of an enhanced case rate higher than that available in (a)(ii) of this subsection (10) to mobile rapid response crisis teams and community-based crisis teams that have received an endorsement from the authority under either subsection (2) or (3) of this section and demonstrate to the authority that for the previous three months they met the following response time and in route time standards:
+
+(A) Between January 1, 2025, through December 31, 2026:
+
+(I) Arrive to the individual's location within 30 minutes of being dispatched by the designated 988 contact hub, at least 80 percent of the time in urban areas;
+
+(II) Arrive to the individual's location within 40 minutes of being dispatched by the designated 988 contact hub, at least 80 percent of the time in suburban areas; and
+
+(III) Be in route within 15 minutes of being dispatched by the designated 988 contact hub, at least 80 percent of the time in rural areas; and
+
+(B) On and after January 1, 2027:
+
+(I) Arrive to the individual's location within 20 minutes of being dispatched by the designated 988 contact hub, at least 80 percent of the time in urban areas;
+
+(II) Arrive to the individual's location within 30 minutes of being dispatched by the designated 988 contact hub, at least 80 percent of the time in suburban areas; and
+
+(III) Be in route within 10 minutes of being dispatched by the designated 988 contact hub, at least 80 percent of the time in rural areas.
+
+    b. The authority shall design the program in a manner that maximizes the state's ability to receive federal matching funds.
+
+11. The authority shall contract with the actuaries responsible for development of medicaid managed care rates to conduct an analysis and develop options for payment mechanisms and levels for rate enhancements under subsection (10) of this section. The authority shall consult with staff from the office of financial management and the fiscal committees of the legislature in conducting this analysis. The payment mechanisms must be developed to maximize leverage of allowable federal medicaid match. The analysis must clearly identify assumptions, include cost projections for the rate level options broken out by fund source, and summarize data used for the cost analysis. The cost projections must be based on Washington state specific utilization and cost data. The analysis must identify low, medium, and high ranges of projected costs associated for each option accounting for varying scenarios regarding the numbers of teams estimated to qualify for the enhanced case rates and supplemental performance payments. The analysis must identify costs for both medicaid clients, and for state-funded nonmedicaid clients paid through contracts with behavioral health administrative services organizations. The analysis must account for phasing in of the number of teams that meet endorsement criteria over time and project annual costs for a four-year period associated with each of the scenarios. The authority shall submit a report summarizing the analysis, payment mechanism options, enhanced performance payment and supplemental performance payment rate level options, and related cost estimates to the office of financial management and the appropriate committees of the legislature by December 1, 2023.
+
+12. The authority shall conduct a review of the endorsed community-based crisis teams established under subsection (3) of this section and report to the governor and the health policy committees of the legislature by December 1, 2028. The report shall provide information about the engagement of the community-based crisis teams receiving an endorsement under subsection (3) of this section and their ability to provide a timely and appropriate response to persons experiencing a behavioral health crisis and any recommended changes to the teams to better meet the needs of the community including personnel requirements, training standards, and behavioral health provider consultation.
+
+## Section 10
+1. The statewide 988 behavioral health crisis response and suicide prevention line account is created in the state treasury. All receipts from the statewide 988 behavioral health crisis response and suicide prevention line tax imposed pursuant to this chapter must be deposited into the account. Moneys may only be spent after appropriation.
+
+2. Expenditures from the account may only be used for:
+
+    a. Ensuring the efficient and effective routing of calls made to the 988 crisis hotline to an appropriate crisis hotline center or designated 988 contact hub; and
+
+    b. Personnel and the provision of acute behavioral health, crisis outreach, and crisis stabilization services, as defined in RCW 71.24.025, by directly responding to the 988 crisis hotline and enhancing mobile crisis service standards and performance provided through mobile rapid response crisis teams and community-based crisis teams endorsed under section 9 of this act. Ten percent of the annual receipts from the tax must be dedicated to the establishment grants, performance payments, and supplemental performance payments for mobile rapid response crisis teams and community-based crisis teams endorsed under section 9 of this act and endorsement activities in section 9 of this act, up to 30 percent of which is dedicated to mobile rapid response crisis teams and community-based crisis teams endorsed under section 9 of this act that are affiliated with a tribe in Washington.
+
+3. Moneys in the account may not be used to supplant general fund appropriations for behavioral health services or for medicaid covered services to individuals enrolled in the medicaid program.
+
+## Section 11
+1. The authority and behavioral health administrative services organizations, in collaboration with the University of Washington, the Harborview behavioral health institute, the Washington council for behavioral health, and the statewide 988 coordinator, shall plan for regional collaboration among behavioral health providers and first responders working within the 988 crisis response and suicide prevention system, standardize practices and protocols, and develop a needs assessment for trainings. Under leadership by the authority and behavioral health administrative services organizations this work shall be divided as described in this section.
+
+2. The University of Washington, through the Harborview behavioral health institute, shall develop an assessment of training needs, a mapping of current and future funded crisis response providers, and a comprehensive review of all behavioral health training required in statute and in rule. The training needs assessment, mapping of crisis providers, and research on existing training requirements must be completed by June 30, 2024. The Harborview behavioral health institute may contract for all or any portion of this work. The Harborview behavioral health institute shall consult with, at a minimum, the following key stakeholders:
+
+    a. At least two representatives from the behavioral health administrative services organizations, one from each side of the Cascade crest;
+
+    b. At least three crisis services providers identified by the Washington council for behavioral health, one from each side of the Cascade crest, and one dedicated to serving communities of color;
+
+    c. A representative of crisis call centers;
+
+    d. The authority and the department;
+
+    e. At least two members who are persons with lived experience related to mental health issues, substance use disorder issues, a suicide attempt, or a suicide loss;
+
+    f. A representative of a statewide organization of field experts consisting of first responders, behavioral health professionals, and project managers working in co-response programs in Washington; and
+
+    g. Advocates for and organizations representing persons with developmental disabilities, veterans, American Indians and Alaska Native populations, LGBTQ populations, and persons connected with the agricultural community, as deemed appropriate by each stakeholder group, including persons with lived experience related to mental health issues, substance use disorder issues, a suicide attempt, or a suicide loss.
+
+3. The authority and behavioral health services organizations, in collaboration with the stakeholders specified in subsection (1) of this section, shall develop recommendations for establishing crisis workforce and resilience training collaboratives that would offer voluntary regional trainings for behavioral health providers, peers, first responders, co-responders, 988 contact center personnel, designated 988 contact hub personnel, 911 operators, regional leaders, and interested members of the public, specific to a geographic region and the population they serve as informed by the needs assessment. The collaboratives shall encourage the development of foundational and advanced skills and practices in crisis response as well as foster regional collaboration. The recommendations must:
+
+    a. Include strategies for better coordination and integration of 988-specific training into the broader scope of behavioral health trainings that are already required;
+
+    b. Identify effective trainings to explain how the 988 system works with the 911 emergency response system, trauma-informed care, secondary trauma, suicide protocols and practices for crisis responders, supervisory best practices for first responders, lethal means safety, violence assessments, cultural competency, and essential care for serving individuals with serious mental illness, substance use disorder, or co-occurring disorders;
+
+    c. Identify best practice approaches to working with veterans, intellectually and developmentally disabled populations, youth, LGBTQ populations, communities of color, agricultural communities, and American Indian and Alaska Native populations;
+
+    d. Identify ways to provide the designated 988 contact hubs and other crisis providers with training that is tailored to the agricultural community using training that is agriculture-specific with information relating to the stressors unique to persons connected with the agricultural community such as weather conditions, financial obligations, market conditions, and other relevant issues. When developing the recommendations, consideration must be given to national experts, such as the AgriSafe network and other entities;
+
+    e. Identify ways to promote a better informed and more involved community on topics related to the behavioral health crisis system by increasing public access to and participation in trainings on the topics identified in (b) and (c) of this subsection (3), including through remote audiovisual technology;
+
+    f. Establish suggested protocols for ways to sustain the collaboratives as new mobile rapid response crisis teams and community-based crisis teams endorsed under section 9 of this act, co-responder teams, and crisis facilities are funded and operationalized;
+
+    g. Discuss funding needs to sustain the collaboratives and support participation in attending the trainings; and
+
+    h. Offer a potential timeline for implementing the collaboratives on a region-by-region basis.
+
+4. The authority shall submit a report on the items developed in this section to the governor and the appropriate committees of the legislature by December 31, 2024.
+
+## Section 12
+Behavioral health administrative services organizations in their role as regional behavioral health system leaders, in partnership with the authority, shall convene an annual crisis continuum of care forum, led by the behavioral health administrative services organizations, with participation from partners serving regional service areas, including managed care organizations, behavioral health providers, mobile rapid response crisis teams, 988 call center hubs, counties, tribes, and other regional partners, to identify and develop collaborative regional-based solutions which may include capital infrastructure requests, local capacity building, or community investments including joint funding opportunities, innovative and scalable pilot initiatives, or other funder and stakeholder partnerships. The authority shall provide funding for this annual crisis continuum of care forum. Behavioral health administrative services organizations and the authority shall jointly submit recommendations, as appropriate, supporting these efforts to the joint legislative executive committee on behavioral health.
+
+## Section 13
+1. No act or omission related to the dispatching decisions of any crisis call center staff or designated 988 contact hub staff with endorsed mobile rapid response crisis team and community-based crisis team dispatching responsibilities done or omitted in good faith within the scope of the individual's employment responsibilities with the crisis call center or designated 988 contact hub and in accordance with dispatching procedures adopted both by the behavioral health administrative services organization and the crisis call center or the designated 988 contact hub and approved by the authority shall impose liability upon:
+
+    a. The clinical staff of the crisis call center or designated 988 contact hub or their clinical supervisors;
+
+    b. The crisis call center or designated 988 contact hub or its officers, staff, or employees;
+
+    c. Any member of a mobile rapid response crisis team or community-based crisis team endorsed under section 9 of this act;
+
+    d. The certified public safety telecommunicator or the certified public safety telecommunicator's supervisor; or
+
+    e. The public safety answering point or its officers, staff, or employees.
+
+2. This section shall not apply to any act or omission which constitutes either gross negligence or willful or wanton misconduct.
+
+## Section 14
+1. No act or omission of any certified public safety telecommunicator or crisis call center staff or designated 988 contact hub staff related to the transfer of calls from the 911 line to the 988 crisis hotline or from the 988 crisis hotline to the 911 line, done or omitted in good faith, within the scope of the certified public safety telecommunicator's employment responsibilities with the public safety answering point and the crisis call center or designated 988 contact hub and in accordance with call system transfer protocols adopted by both the department of health and the emergency management division shall impose liability upon:
+
+    a. The certified public safety telecommunicator or the certified public safety telecommunicator's supervisor;
+
+    b. The public safety answering point or its officers, staff, or employees;
+
+    c. The clinical staff of the crisis call center or designated 988 contact hub or their clinical supervisors;
+
+    d. The crisis call center or designated 988 contact hub or its officers, staff, or employees; or
+
+    e. Any member of a mobile rapid response crisis team or community-based crisis team endorsed under section 9 of this act.
+
+2. This section shall not apply to any act or omission which constitutes either gross negligence or willful or wanton misconduct.
+
+## Section 15
+If specific funding for the purposes of this act, referencing this act by bill or chapter number, is not provided by June 30, 2023, in the omnibus appropriations act, this act is null and void.

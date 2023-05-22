@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 05/16/2023 [Senate Democrats](/org/senate_democrats/) - [Legislature prioritizes funding, policy to tackle behavioral health - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/05/16/legislature-prioritizes-funding-policy-to-tackle-behavioral-health/#:~:text=SB%205440)
