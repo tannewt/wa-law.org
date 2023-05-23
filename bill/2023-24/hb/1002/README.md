@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/01/2023 [FOX13](/org/fox13/) - [New state law cracking down on hazing honors WSU student who died in 2019](https://www.fox13seattle.com/news/new-hazing-law-honors-wsu-student-who-died-in-2019#:~:text=House%20Bill%201002)
 * 04/14/2023 [The Seattle Times](/org/the_seattle_times/) - [With 10 days to go, some bills fall by the wayside in Olympia | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/with-10-days-to-go-some-bills-fall-by-the-wayside-in-olympia/#:~:text=House%20Bill%201002)
 * 04/13/2023 [House Democrats](/org/house_democrats/) - [The Sam Martinez Stop Hazing Act Heads to Governor / Ley Sam Martínez para Detener Novatadas se dirige al gobernador – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/13/the-sam-martinez-stop-hazing-act-heads-to-governor/#:~:text=House%20Bill%201002)
 * 02/24/2023 [House Democrats](/org/house_democrats/) - [Representative Mari Leavitt Passes Four Bills to Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/24/representative-mari-leavitt-passes-four-bills-to-senate/#:~:text=House%20Bill%201002)

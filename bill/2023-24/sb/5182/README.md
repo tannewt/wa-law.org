@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/19/2023 [Gorge News Center](/org/gorge_news_center/) - [Secretary of State Steve Hobbs applauds new elections laws](https://gorgenewscenter.com/2023/05/19/secretary-of-state-steve-hobbs-applauds-new-elections-laws/#:~:text=SB%205182)
 * 03/01/2023 [Senate Democrats](/org/senate_democrats/) - [Nguyễn bill improving candidate filing passes Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/02/28/nguyen-bill-improving-candidate-filing-passes-senate/#:~:text=Senate%20Bill%205182)
 
 ## Meetings

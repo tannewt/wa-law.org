@@ -9,6 +9,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 05/12/2023 [FOX13](/org/fox13/) - [Newly passed pet protection bills will help abused & neglected animals rehabilitate, find homes faster](https://www.fox13seattle.com/news/newly-passed-pet-protection-bills-will-help-abused-animals-rehabilitate-find-homes-faster#:~:text=House%20Bill%201234)
+
 ## Meetings
 ### Thu 03/09 08:00 AM - Law & Justice (LAW): SHB 1234 Civil forfeiture of animals
 #### 81 👍 - Pro

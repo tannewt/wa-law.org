@@ -12,6 +12,7 @@
 * 04/24/2023 [Crosscut](/org/crosscut/) - [The bills that survived Washington's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/04/bills-survived-washingtons-2023-legislative-session#:~:text=Senate%20Bill%205514)
 * 03/10/2023 [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=Senate%20Bill%205514)
 * 02/09/2023 [Crosscut](/org/crosscut/) - [A WA bill would lower the legal driving limit to .05% BAC | Crosscut](https://crosscut.com/politics/2023/02/wa-bill-would-lower-legal-driving-limit-05-bac#:~:text=Senate%20Bill%205514)
+* 01/26/2023 [FOX13](/org/fox13/) - [State leaders hope bipartisan effort saves lives, increases traffic safety in Washington](https://www.fox13seattle.com/news/state-leaders-hope-bipartisan-effort-saves-lives-and-increases-traffic-safety-in-washington#:~:text=Senate%20Bill%205514)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Washington may add automated cameras on highways to catch speeders in construction zones | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/01/washington-may-add-automated-cameras-on-highways-t/#:~:text=House%20Bill%201582/Senate%20Bill%205514)
 
 ## Meetings

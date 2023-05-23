@@ -11,6 +11,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/12/2023 [FOX13](/org/fox13/) - [Newly passed pet protection bills will help abused & neglected animals rehabilitate, find homes faster](https://www.fox13seattle.com/news/newly-passed-pet-protection-bills-will-help-abused-animals-rehabilitate-find-homes-faster#:~:text=House%20Bill%201424)
+* 04/13/2023 [FOX13](/org/fox13/) - [Bill could crack down on WA pet stores who source dogs from out-of-state puppy mills](https://www.fox13seattle.com/news/bill-could-crack-down-on-wa-pet-stores-who-source-dogs-from-out-of-state-puppy-mills#:~:text=Amended%20bill%201424)
 * 04/11/2023 [The Seattle Times](/org/the_seattle_times/) - [AG sues Puppyland over alleged false health guarantees, predatory loans | The Seattle Times](https://www.seattletimes.com/seattle-news/law-justice/ag-sues-puppyland-for-alleged-false-health-guarantees-predatory-loans/#:~:text=House%20Bill%201424)
 * 03/02/2023 [House Democrats](/org/house_democrats/) - [House passes Berg bill to prevent animal abuse and predatory lending – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/02/house-passes-berg-bill-to-prevent-animal-abuse-and-predatory-lending/#:~:text=House%20Bill%201424)
 * 02/13/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/13/the-house-hot-sheet-for-week-6-of-the-2023-legislative-session/#:~:text=HB%201424)

@@ -70,7 +70,7 @@ FETCH_NEW = True
 REPARSE = False
 
 parsed_path = pathlib.Path("parsed_urls.pickle")
-if not REPARSE and parsed_path.exists():
+if parsed_path.exists():
     with parsed_path.open("rb") as f:
         parsed_urls = pickle.load(f)
 else:
@@ -181,7 +181,7 @@ for org_rowid, domain in org_cur:
         if count % 100 == 0:
             print(f"fetched {count} remaining {len(pages)}")
 
-        if page_url in parsed_urls:
+        if page_url in parsed_urls and not REPARSE:
             skipped += 1
             continue
         else:
@@ -242,6 +242,11 @@ for org_rowid, domain in org_cur:
                     for key in ("datePublished", "dateCreated"):
                         if key in graph:
                             modified_time = arrow.get(graph[key]).datetime
+                            break
+                if not modified_time:
+                    for key in ("datePublished", "dateCreated", "dateModified"):
+                        if key in ld_json:
+                            modified_time = arrow.get(ld_json[key]).datetime
                             break
 
         if not modified_time:

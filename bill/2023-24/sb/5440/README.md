@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 05/19/2023 [Crosscut](/org/crosscut/) - [Washington overhauls competency system for criminal defendants | Crosscut](https://crosscut.com/briefs/2023/05/washington-overhauls-competency-system-criminal-defendants#:~:text=Senate%20Bill%205440)
 * 05/16/2023 [Senate Democrats](/org/senate_democrats/) - [Legislature prioritizes funding, policy to tackle behavioral health - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/05/16/legislature-prioritizes-funding-policy-to-tackle-behavioral-health/#:~:text=SB%205440)
 
 ## Meetings

@@ -11,6 +11,7 @@
 * 01/20/2023 [Senate Democrats](/org/senate_democrats/) - [WA Senate to hear five abortion protection bills Tuesday - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/20/wa-senate-to-hear-five-abortion-protection-bills-tuesday/#:~:text=SB%205260)
 * 01/13/2023 [Senate Democrats](/org/senate_democrats/) - [Senate Democrats unite to act on protecting reproductive rights  - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/13/senate-democrats-unite-to-act-on-protecting-reproductive-rights/#:~:text=SB%205260)
 * 01/11/2023 [Senate Democrats](/org/senate_democrats/) - [Keiser bill would protect employers who provide reproductive care benefits - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/11/keiser-bill-would-protect-employers-who-provide-reproductive-care-benefits/#:~:text=SB%205260)
+* 01/11/2023 [FOX13](/org/fox13/) - [Proposed bill to protect WA reproductive health care providers from other states' penalties](https://www.fox13seattle.com/news/proposed-bill-to-protect-wa-reproductive-health-care-providers-from-other-states-penalties#:~:text=Senate%20Bill%205260)
 * 01/11/2023 [House Democrats](/org/house_democrats/) - [Berry, Keiser bills would protect employers who provide reproductive care benefits – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/11/berry-keiser-bills-would-protect-employers-who-provide-reproductive-care-benefits/#:~:text=SB%205260)
 
 ## Meetings

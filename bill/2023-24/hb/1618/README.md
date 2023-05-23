@@ -10,6 +10,7 @@
 
 ## 📰 Articles
 * 04/07/2023 [The Seattle Times](/org/the_seattle_times/) - [Bill to eliminate time limits for child sex-abuse lawsuits stalls in WA Senate | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/bill-to-eliminate-time-limits-for-child-sex-abuse-lawsuits-stalls-in-wa-senate/#:~:text=House%20Bill%201618)
+* 03/27/2023 [FOX13](/org/fox13/) - [Washington moves to end child sex abuse lawsuit time limits](https://www.fox13seattle.com/news/washington-moves-to-end-child-sex-abuse-lawsuit-time-limits#:~:text=House%20Bill%201618)
 * 03/27/2023 [The Seattle Times](/org/the_seattle_times/) - [WA moves to eliminate time limits for child sex abuse lawsuits | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-moves-to-eliminate-time-limits-for-child-sex-abuse-lawsuits/#:~:text=House%20Bill%201618)
 * 02/24/2023 [House Democrats](/org/house_democrats/) - [Farivar’s Bill Seeking Justice for Child Sex Abuse Victims Passes Out of Committee – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/24/farivars-bill-seeking-justice-for-child-sex-abuse-victims-passes-out-of-committee/#:~:text=House%20Bill%201618)
 

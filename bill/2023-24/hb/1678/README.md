@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/19/2023 [The Seattle Times](/org/the_seattle_times/) - [WA expands role of dental therapists, hoping to improve oral health | The Seattle Times](https://www.seattletimes.com/seattle-news/health/wa-expands-role-of-dental-therapists-hoping-to-improve-oral-health/#:~:text=House%20Bill%201678)
 * 05/15/2023 [House Democrats](/org/house_democrats/) - [Dental Therapy Bill Signed by Governor – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/05/15/dental-therapy-bill-signed-by-governor/#:~:text=HB%201678)
 * 04/12/2023 [House Democrats](/org/house_democrats/) - [Dental Therapy Passes Legislature – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/12/dental-therapy-passes-legislature/#:~:text=HB%201678)
 * 03/07/2023 [House Democrats](/org/house_democrats/) - [Riccelli Dental Health Care Bills Pass House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/07/riccelli-dental-health-care-bills-pass-house/#:~:text=HB%201678)

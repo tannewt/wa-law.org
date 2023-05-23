@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/19/2023 [Crosscut](/org/crosscut/) - [Washington overhauls competency system for criminal defendants | Crosscut](https://crosscut.com/briefs/2023/05/washington-overhauls-competency-system-criminal-defendants#:~:text=Substitute%20Senate%20Bill%205114)
 * 05/16/2023 [Crosscut](/org/crosscut/) - [CEO Marc Dones resigns from King County homelessness authority | Crosscut](https://crosscut.com/briefs/2023/05/ceo-marc-dones-resigns-king-county-homelessness-authority#:~:text=Substitute%20Senate%20Bill%205114)
 * 05/15/2023 [Crosscut](/org/crosscut/) - [WA Legislature special session on drug law begins Tuesday | Crosscut](https://crosscut.com/briefs/2023/05/wa-legislature-special-session-drug-law-begins-tuesday#:~:text=Substitute%20Senate%20Bill%205114)
 * 05/12/2023 [Crosscut](/org/crosscut/) - [Get ready for a hot weekend in Seattle and Western Washington | Crosscut](https://crosscut.com/briefs/2023/05/get-ready-hot-weekend-seattle-and-western-washington#:~:text=Substitute%20Senate%20Bill%205114)

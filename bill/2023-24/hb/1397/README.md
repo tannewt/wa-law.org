@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 02/21/2023 [NW News Network](/org/nw_news_network/) - [WA bill meant to safeguard foster children appears to have died in committee | Northwest News Network](https://www.nwnewsnetwork.org/2023-02-21/wa-bill-meant-to-safeguard-foster-children-appears-to-have-died-in-committee#:~:text=House%20Bill%201397)
+* 02/17/2023 [FOX13](/org/fox13/) - [Legislators hear emotional testimony on 'Oakley Carlson Act' aimed at protecting children](https://www.fox13seattle.com/news/legislators-hear-emotional-testimony-on-oakley-carlson-act-aimed-at-protecting-children#:~:text=House%20Bill%201397)
 
 ## Meetings
 ### Fri 02/17 08:00 AM - Human Services, Youth, & Early Learning (HSEL): HB 1397 Dependency

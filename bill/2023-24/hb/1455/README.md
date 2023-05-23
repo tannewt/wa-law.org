@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 04/18/2023 [MyNorthwest](/org/mynorthwest/) - [Bill to set minimum marriage age to 18 stalls in Washington - MyNorthwest.com](https://mynorthwest.com/3876621/bill-to-set-minimum-marriage-age-to-18-stalls-in-washington/#:~:text=House%20Bill%201455)
+* 04/17/2023 [FOX13](/org/fox13/) - [Bill to set minimum marriage age of 18 stalls in Washington Legislature](https://www.fox13seattle.com/news/bill-to-set-minimum-marriage-age-of-18-stalls-in-washington-legislature#:~:text=House%20Bill%201455)
 * 04/17/2023 [The Seattle Times](/org/the_seattle_times/) - [Minors can still get married in WA, though some want that to change | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/minors-can-still-get-married-in-wa-though-some-want-that-to-change/#:~:text=House%20Bill%201455)
 * 04/17/2023 [Gorge News Center](/org/gorge_news_center/) - [Bill to set minimum marriage age to 18 stalls in Washington](https://gorgenewscenter.com/2023/04/17/bill-to-set-minimum-marriage-age-to-18-stalls-in-washington/#:~:text=House%20Bill%201455)
 * 02/05/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/05/the-house-hot-sheet-for-week-5-of-the-2023-legislative-session/#:~:text=HB%201455)
