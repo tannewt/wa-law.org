@@ -17,7 +17,7 @@ db = utils.get_db()
 
 session = url_history.HistorySession("wsr.db")
 
-FETCH_NEW = True
+FETCH_NEW = False
 REPARSE = True
 
 parsed_path = pathlib.Path("parsed_wsr_urls.pickle")
@@ -31,6 +31,10 @@ pending_urls = set()
 ROOT = "https://lawfilesext.leg.wa.gov/law/wsr/WsrByIssue.htm"
 pending_urls.add(ROOT)
 
+bill_re = re.compile("[SH]B ([0-9]{4})")
+year_re = re.compile("[SH]B ([0-9]{4}),? \(?(section \d+(\(\d+\))?, )?chapter (\d+), Laws of ([0-9]{4})\)?")
+leg_re = re.compile("(\d{4}) (legis|\w* ?session)")
+wsr_re = re.compile("WSR \d+-\d+-\d+")
 count = 0
 skipped = 0
 while pending_urls:
@@ -41,7 +45,7 @@ while pending_urls:
         with parsed_path.open("wb") as f:
             pickle.dump(parsed_urls, f)
 
-    if page_url in parsed_urls and (not pending_urls and page_url != ROOT):
+    if (page_url in parsed_urls and (not pending_urls and page_url != ROOT)) or (pending_urls and "/2023/" not in page_url):
         skipped += 1
         continue
     else:
@@ -63,9 +67,33 @@ while pending_urls:
         print("failed to parse", page_url)
         continue
 
+    for comment in page.find_all(string=re.compile("WSRRegType")):
+        print("reg type:", comment.next.text)
+
     # print(page)
-    wac_citations = 0
-    rcw_citations = 0
+    wac_citations = set()
+    rcw_citations = set()
+    wsr_citations = set()
+
+    for string in page.find_all(string=wsr_re):
+        print(string.parent)
+        for match in wsr_re.finditer(str(string)):
+            print(match)
+
+    for bill in page.find_all(string=bill_re):
+        print(bill.parent)
+        # print(type(bill), repr(bill))
+        # print(str(bill))
+        match = year_re.search(str(bill))
+        if not match:
+            match = bill_re.search(str(bill))
+            if match:
+                year_match = leg_re.search(str(bill))
+                if year_match:
+                    print("year", year_match.groups())
+        print(match, match.groups())
+        print()
+
     for link in page.find_all("a"):
         href = link.get("href")
         if not href:
@@ -78,17 +106,12 @@ while pending_urls:
         if not parsed.hostname:
             continue
 
-        for bill in page.find_all(string=re.compile("([SH]B [0-9]{4})")):
-            print(repr(bill))
-            print()
-
-
         if "lawfilesext.leg.wa.gov" in parsed.hostname:
             if href in parsed_urls:
                 continue
             if parsed.path.endswith("pdf"):
                 continue
-            # print(parsed)
+            print(link, parsed.path)
             pending_urls.add(href)
 
         elif "leg.wa.gov" in parsed.hostname:
@@ -96,10 +119,12 @@ while pending_urls:
             query = parse_qs(parsed.query)
 
             if parsed.path == "/WAC/default.aspx":
+                print(query)
                 wac_citations += 1
+                rcw_citations.add(query["cite"][0])
                 continue
             elif parsed.path == "/RCW/default.aspx":
-                rcw_citations += 1
+                rcw_citations.add(query["cite"][0])
                 continue
 
             print(parsed)
@@ -143,11 +168,9 @@ while pending_urls:
                 # print(link)
                 # print()
                 pass
-    print(f"citations: {rcw_citations} rcw {wac_citations} wac")
+    print(rcw_citations)
+    print(wac_citations)
+    print(f"citations: {len(rcw_citations)} rcw {len(wac_citations)} wac")
     print()
     db.commit()
-
-print("bill links", link_count)
-print("leg links", leg_links)
-print("nonspecific", nonspecific)
-print("past session", past_session)
+    # break
