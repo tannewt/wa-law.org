@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/24/2023 [The Center Square](/org/the_center_square/) - [Washington to disburse $10 million to Adams, Snohomish, and Spokane Counties | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a9fa2618-fa88-11ed-898c-877127bc0499.html#:~:text=SSB%205229)
 * 01/09/2023 [Senate Democrats](/org/senate_democrats/) - [Home - Sen. Noel Frame](https://senatedemocrats.wa.gov/blog/team_members/sen-noel-frame/#:~:text=SB%205229)
 
 ## Meetings

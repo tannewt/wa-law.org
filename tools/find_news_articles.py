@@ -287,6 +287,17 @@ for org_rowid, domain in org_cur:
             query = parse_qs(parsed.query)
 
             if "Year" in query and "BillNumber" in query:
+                # Crosscut includes briefs in multiple pages so ignore all but
+                # the content.
+                if "crosscut.com" in page_url:
+                    is_content = False
+                    for parent in link.parents:
+                        if parent.get("id", None) == "block-crosscut-content":
+                            is_content = True
+                            break
+                    if not is_content:
+                        continue
+
                 cur = db.cursor()
                 try:
                     year = int(query["Year"][0])
