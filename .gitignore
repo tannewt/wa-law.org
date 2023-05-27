@@ -1,3 +1,2 @@
-site
 *.sqlite
 __pycache__
