@@ -5,11 +5,11 @@
 * [SB 5236](sb/5236) - Hospital staffing standards 15📰 11619👍 1921👎 112❓ - C 114 L 23
 * [HB 1240](hb/1240) - Firearms/assault weapons 55📰 2828👍 10425👎 26❓ - C 162 L 23
 * [HB 1143](hb/1143) - Firearms/purchase & transfer 36📰 3401👍 8858👎 16❓ - C 161 L 23
-* [HB 1469](hb/1469) - Health care services/access 25📰 6406👍 4534👎 9❓ - C 193 L 23
+* [HB 1469](hb/1469) - Health care services/access 26📰 6406👍 4534👎 9❓ - C 193 L 23
 * [SB 5599](sb/5599) - Protected health care/youth 21📰 567👍 9854👎 28❓ - C 408 L 23
 * [SB 5078](sb/5078) - Firearm industry duties 19📰 3527👍 6549👎 3❓ - C 163 L 23
 * [HB 1038](hb/1038) - Anesthesiologist assistants 1📰 2398👍 6105👎 38❓ - H HC/Wellness
-* [HB 1110](hb/1110) - Middle housing 69📰 5096👍 1228👎 53❓ - C 332 L 23
+* [HB 1110](hb/1110) - Middle housing 70📰 5096👍 1228👎 53❓ - C 332 L 23
 * [HB 1333](hb/1333) - Domestic violent extremism 4📰 253👍 5450👎 12❓ - H Rules C
 * [SB 5232](sb/5232) - Firearms/purchase & transfer 7📰 1680👍 3929👎 2❓ - S Ways & Means
 * [HB 1389](hb/1389) - Residential rent increases 22📰 3125👍 2455👎 27❓ - H Rules R
@@ -154,14 +154,14 @@
 * [SB 5169](sb/5169) - Medicare/health care plans 611👍 1👎 3❓ - S Ways & Means
 * [HB 1134](hb/1134) - 988 system 9📰 603👍 2👎 7❓ - C 454 L 23
 * [SB 5114](sb/5114) - Sex trafficking 5📰 599👍 4👎 4❓ - C 268 L 23
-* [HB 1337](hb/1337) - Accessory dwelling units 25📰 566👍 32👎 7❓ - C 334 L 23
+* [HB 1337](hb/1337) - Accessory dwelling units 26📰 566👍 32👎 7❓ - C 334 L 23
 * [HB 1508](hb/1508) - Health care cost board 1📰 472👍 112👎 6❓ - H Rules 3C
 * [HB 1447](hb/1447) - Assistance programs 1📰 561👍 13👎 6❓ - C 418 L 23
 * [HB 1517](hb/1517) - Transit-oriented development 6📰 566👍 6👎 8❓ - H Housing
 * [HB 1416](hb/1416) - Consumer-owned utilities 3📰 190👍 389👎 0❓ - C 233 L 23
 * [HB 1586](hb/1586) - Vehicular pursuits work grp. 498👍 69👎 9❓ - H Rules R
 * [SB 5309](sb/5309) - Petroleum transportation/tax 1📰 421👍 152👎 0❓ - S Rules 3
-* [HB 1169](hb/1169) - Legal financial obligations 5📰 538👍 23👎 8❓ - C 449 L 23
+* [HB 1169](hb/1169) - Legal financial obligations 6📰 538👍 23👎 8❓ - C 449 L 23
 * [HB 1329](hb/1329) - Utility shutoffs/heat 1📰 506👍 19👎 44❓ - C 105 L 23
 * [SB 5532](sb/5532) - Small rural hospital payment 1📰 558👍 1👎 10❓ - C 443 L 23
 * [SB 5093](sb/5093) - Climate response strategy 3📰 538👍 28👎 2❓ - S Rules X
@@ -583,7 +583,7 @@
 * [HB 1097](hb/1097) - Cosmetics tested on animals 57👍 1👎 0❓ - H Rules R
 * [HB 1487](hb/1487) - Right shoulder/motorcycles 56👍 2👎 0❓ - H Transportation
 * [HB 1612](hb/1612) - Products containing THC 29👍 24👎 5❓ - H Reg Subst & Ga
-* [SB 5341](sb/5341) - WA food & ag. products 57👍 1👎 0❓ - C 276 L 23
+* [SB 5341](sb/5341) - WA food & ag. products 2📰 57👍 1👎 0❓ - C 276 L 23
 * [HB 1600](hb/1600) - Firearms/juvenile records 28👍 25👎 4❓ - C 180 L 23
 * [SB 5550](sb/5550) - Ferry workforce development 2📰 55👍 2👎 0❓ - C 188 L 23
 * [HB 1278](hb/1278) - Nonrelative kin placement 54👍 2👎 0❓ - H Rules C
@@ -848,7 +848,7 @@
 * [SB 5251](sb/5251) - Commercial driver's licenses 21👍 0👎 0❓ - S Rules X
 * [SB 5275](sb/5275) - SEBB benefits access 17👍 2👎 2❓ - C 13 L 23
 * [SB 5327](sb/5327) - Intern wages 16👍 3👎 2❓ - S Labor & Comm
-* [SB 5502](sb/5502) - Sub. use disorder treatment 16👍 3👎 2❓ - C 405 L 23
+* [SB 5502](sb/5502) - Sub. use disorder treatment 1📰 16👍 3👎 2❓ - C 405 L 23
 * [SB 5569](sb/5569) - Kidney disease centers 20👍 1👎 0❓ - C 48 L 23
 * [SB 5577](sb/5577) - Capital broadband program 1📰 20👍 0👎 1❓ - S Environment, E
 * [SB 5657](sb/5657) - Kit home permitting 20👍 0👎 1❓ - S Rules X

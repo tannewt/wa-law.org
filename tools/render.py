@@ -92,22 +92,17 @@ def render(text, path_debug=None):
 if __name__ == "__main__":
     import sys
 
-    p = pathlib.Path(sys.argv[-1])
     out = pathlib.Path("site")
+    p = out / pathlib.Path(sys.argv[-1])
     if p.is_dir():
         for subpath in p.glob("**/*.md"):
-            outpath = out / subpath.with_suffix(".html")
+            outpath = subpath.with_suffix(".html")
             if outpath.name == "README.html":
                 outpath = outpath.with_name("index.html")
             outpath.parent.mkdir(parents=True, exist_ok=True)
             outpath.write_text(render(subpath.read_text(), path_debug=subpath))
-
-        for subpath in p.glob("**/rss.xml"):
-            outpath = out / subpath
-            outpath.parent.mkdir(parents=True, exist_ok=True)
-            shutil.copyfile(subpath, outpath)
     else:
-        outpath = out / p.with_suffix(".html")
+        outpath = p.with_suffix(".html")
         if outpath.name == "README.html":
             outpath = outpath.with_name("index.html")
         outpath.parent.mkdir(parents=True, exist_ok=True)

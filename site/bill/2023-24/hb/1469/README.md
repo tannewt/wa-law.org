@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/23/2023 [House Democrats](/org/house_democrats/) - [Legislative update: Accomplishments of the 2023 session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/05/23/legislative-update-accomplishments-of-the-2023-session/#:~:text=HB%201469,)
 * 05/11/2023 [Crosscut](/org/crosscut/) - [Washington to invest $21M in abortion, reproductive health care | Crosscut](https://crosscut.com/politics/2023/05/washington-invest-21m-abortion-reproductive-health-care#:~:text=ESHB%201469)
 * 04/27/2023 [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=House%20Bill%201469)
 * 04/27/2023 [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=House%20Bill%201469)

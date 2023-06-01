@@ -9,7 +9,8 @@ db = utils.get_db(readonly=True)
 
 cur = db.cursor()
 
-bills_path = pathlib.Path("bill/2023-24/")
+site_root = pathlib.Path("site")
+bills_path = site_root / "bill/2023-24/"
 
 biennium = "2023-24"
 
@@ -298,9 +299,10 @@ for bill_rowid, prefix, bill_number in cur:
 
     # Set the feed metadata
     items = sorted(feed_items, key=attrgetter("pubDate"))
+    url_path = bill_path.relative_to(site_root)
     feed = rfeed.Feed(
         title=f"{prefix} {bill_number} - {bill_description}",
-        link=f"https://wa-law.org/{bill_path}/",
+        link=f"https://wa-law.org/{url_path}/",
         description=f"Updates about {prefix} {bill_number}",
         language='en-US',
         lastBuildDate=items[-1].pubDate if items else datetime.datetime(2022, 12, 1),

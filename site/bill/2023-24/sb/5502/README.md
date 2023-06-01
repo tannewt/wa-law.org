@@ -10,6 +10,9 @@
 * [Passed Legislature](S2.PL/)
 * [Session Law](S2.SL/)
 
+## 📰 Articles
+* 05/26/2023 [MyNorthwest](/org/mynorthwest/) - [Gross: State Senator passes law to screen drug offenders prior to release - MyNorthwest.com](https://mynorthwest.com/3893392/gross-state-senator-passes-law-to-screen-drug-offenders-prior-to-release/#:~:text=Senate%20Bill%205502)
+
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): 2SSB 5502 Sub. use disorder treatment
 #### 5 👍 - Pro

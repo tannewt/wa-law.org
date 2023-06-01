@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 05/30/2023 [KING5](/org/king5/) - [Meat, dairy, agriculture products from Washington to get a branding boost under new law | king5.com](https://www.king5.com/article/news/local/state-food-agriculture-products-to-get-branding-marketing-boost/281-903c7c3e-5b31-4477-8509-b1b7454a5bf4#:~:text=Senate%20Bill%205341)
+* 05/03/2023 [KING5](/org/king5/) - [5 things to know this Wednesday | king5.com](https://www.king5.com/article/news/local/5-things-to-know-wednesday/281-c1110bb7-33d2-41e1-aa85-717c45073516#:~:text=Senate%20Bill%205341)
+
 ## Meetings
 ### Fri 03/31 01:30 PM - Appropriations (APP): ESB 5341 WA food & ag. products
 #### 11 👍 - Pro
