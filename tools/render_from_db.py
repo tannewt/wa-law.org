@@ -316,7 +316,7 @@ for bill_rowid, prefix, bill_number in cur:
     rm.write_text("\n".join(bill_readme))
 
 
-orgs_path = pathlib.Path("org/")
+orgs_path = site_root / "org"
 for org_rowid in vio:
     cur = db.cursor()
     cur.execute("SELECT name, canonical_entry, slug FROM organizations WHERE rowid = ?", (org_rowid,))

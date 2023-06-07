@@ -3,13 +3,13 @@
 
 ## Heard bills
 * [SB 5236](sb/5236) - Hospital staffing standards 15📰 11619👍 1921👎 112❓ - C 114 L 23
-* [HB 1240](hb/1240) - Firearms/assault weapons 55📰 2828👍 10425👎 26❓ - C 162 L 23
+* [HB 1240](hb/1240) - Firearms/assault weapons 56📰 2828👍 10425👎 26❓ - C 162 L 23
 * [HB 1143](hb/1143) - Firearms/purchase & transfer 36📰 3401👍 8858👎 16❓ - C 161 L 23
 * [HB 1469](hb/1469) - Health care services/access 26📰 6406👍 4534👎 9❓ - C 193 L 23
 * [SB 5599](sb/5599) - Protected health care/youth 21📰 567👍 9854👎 28❓ - C 408 L 23
 * [SB 5078](sb/5078) - Firearm industry duties 19📰 3527👍 6549👎 3❓ - C 163 L 23
 * [HB 1038](hb/1038) - Anesthesiologist assistants 1📰 2398👍 6105👎 38❓ - H HC/Wellness
-* [HB 1110](hb/1110) - Middle housing 70📰 5096👍 1228👎 53❓ - C 332 L 23
+* [HB 1110](hb/1110) - Middle housing 71📰 5096👍 1228👎 53❓ - C 332 L 23
 * [HB 1333](hb/1333) - Domestic violent extremism 4📰 253👍 5450👎 12❓ - H Rules C
 * [SB 5232](sb/5232) - Firearms/purchase & transfer 7📰 1680👍 3929👎 2❓ - S Ways & Means
 * [HB 1389](hb/1389) - Residential rent increases 22📰 3125👍 2455👎 27❓ - H Rules R
@@ -107,7 +107,7 @@
 * [HB 1394](hb/1394) - Sexual offenses by youth 647👍 290👎 10❓ - C 150 L 23
 * [HB 1258](hb/1258) - Tourism marketing 893👍 50👎 1❓ - C 348 L 23
 * [HB 1784](hb/1784) - Hunger relief 6📰 925👍 3👎 6❓ - C 63 L 23
-* [HB 1589](hb/1589) - Clean energy 4📰 246👍 649👎 33❓ - H Rules 3C
+* [HB 1589](hb/1589) - Clean energy 5📰 246👍 649👎 33❓ - H Rules 3C
 * [SB 5624](sb/5624) - Substance use recovery serv. 3📰 892👍 26👎 10❓ - S Law & Justice
 * [HB 1244](hb/1244) - Enrichment levy authority 5📰 400👍 521👎 2❓ - H Rules C
 * [SB 5489](sb/5489) - Health care services/access 7📰 471👍 434👎 1❓ - S Rules X

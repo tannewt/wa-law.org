@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 06/05/2023 [Crosscut](/org/crosscut/) - [How will ‘missing middle’ zoning impact Seattle housing? | Crosscut](https://crosscut.com/politics/2023/06/how-will-missing-middle-zoning-impact-seattle-housing#:~:text=House%20Bill%201110)
 * 05/30/2023 [South Seattle Emerald](/org/south_seattle_emerald/) - [Advocates Say Housing Levy Is Critical to Keeping Seattle Affordable and Inclusive | South Seattle Emerald](https://southseattleemerald.com/2023/05/30/advocates-say-housing-levy-is-critical-to-keeping-seattle-affordable-and-inclusive/#:~:text=House%20Bill%201110)
 * 05/12/2023 [Crosscut](/org/crosscut/) - [WA lawmakers' 'year of housing' could ease the affordability crisis | Crosscut](https://crosscut.com/politics/2023/05/wa-lawmakers-year-housing-could-ease-affordability-crisis#:~:text=House%20Bill%201110)
 * 05/08/2023 [MyNorthwest](/org/mynorthwest/) - [Gov. Inslee signs 10 housing bills into law in WA's 'year of housing' - MyNorthwest.com](https://mynorthwest.com/3886464/inslee-sign-10-housing-bills-law-washington-year-housing/#:~:text=House%20Bill%201110)
