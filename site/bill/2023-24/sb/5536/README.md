@@ -13,6 +13,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 06/26/2023 [House Republicans](/org/house_republicans/) - [Week Ahead | Washington State House Republicans](https://houserepublicans.wa.gov/stay-connected/week-ahead/#:~:text=SB%205536)
 * 05/22/2023 [House Republicans](/org/house_republicans/) - [How Republican resolve led to stronger state drug possession reforms | Washington State House Republicans](https://houserepublicans.wa.gov/blake/#:~:text=Senate%20Bill%205536)
 * 05/16/2023 [Crosscut](/org/crosscut/) - [Washington lawmakers make drug possession a gross misdemeanor | Crosscut](https://crosscut.com/politics/2023/05/washington-lawmakers-make-drug-possession-gross-misdemeanor#:~:text=Senate%20Bill%205536)
 * 05/16/2023 [Senate Democrats](/org/senate_democrats/) - [Bill to address Supreme Court’s Blake decision signed into law - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/05/16/bill-to-address-supreme-courts-blake-decision-signed-into-law/#:~:text=Senate%20Bill%205536)

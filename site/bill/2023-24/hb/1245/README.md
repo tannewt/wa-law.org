@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 06/21/2023 [Crosscut](/org/crosscut/) - [How WA cities’ lobbying muscle shapes housing, public records bills | Crosscut](https://crosscut.com/politics/2023/06/how-wa-cities-lobbying-muscle-shapes-housing-public-records-bills#:~:text=House%20Bill%201245)
 * 05/08/2023 [Sightline Institute](/org/sightline_institute/) - [How the Washington Legislature Burst the Housing Abundance Dam - Sightline Institute](https://www.sightline.org/2023/05/08/how-the-washington-legislature-burst-the-housing-abundance-dam/#:~:text=HB%201245)
 * 04/18/2023 [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201245)
 * 04/12/2023 [The Urbanist](/org/the_urbanist/) - [Missing Middle Housing, ADU, and Design Review Reforms Pass Second Chamber | The Urbanist](https://www.theurbanist.org/2023/04/12/missing-middle-housing-adu-and-design-review-reforms-pass-second-chamber/#:~:text=HB%201245)

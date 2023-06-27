@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/15/2023 [House Democrats](/org/house_democrats/) - [Celebrating Juneteenth and the fight for racial justice – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/06/15/celebrating-juneteenth-and-the-fight-for-racial-justice/#:~:text=HB%201177)
 * 04/21/2023 [The Seattle Times](/org/the_seattle_times/) - [WA launches cold case unit for missing and murdered Indigenous people | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-launches-cold-case-unit-for-missing-and-murdered-indigenous-people/#:~:text=House%20Bill%201177)
 * 03/17/2023 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 11: Gun safety, behavioral health and budget rollouts - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/17/this-week-in-the-senate-week-11-gun-safety-behavioral-health-and-budget-rollouts/#:~:text=House%20Bill%201177)
 * 02/28/2023 [House Democrats](/org/house_democrats/) - [Lekanoff Bill to Solve Cases of Missing and Murdered Indigenous Women Passes Unanimously in the House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/28/lekanoff-bill-to-solve-cases-of-missing-and-murdered-indigenous-women-passes-unanimously-in-the-house/#:~:text=House%20Bill%201177)

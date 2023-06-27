@@ -10,6 +10,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 06/14/2023 [Crosscut](/org/crosscut/) - [Washington gas stations are leaking toxins into nearby groundwater | Crosscut](https://crosscut.com/environment/2023/06/washington-gas-stations-are-leaking-toxins-nearby-groundwater#:~:text=HB1175)
+
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): ESHB 1175 Petroleum storage tanks
 #### 4 👍 - Pro

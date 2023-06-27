@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 06/26/2023 [The Center Square](/org/the_center_square/) - [Washington Democrat calls for price cap on carbon pollution permits | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_cfc72612-144a-11ee-b0d7-434606118c8b.html#:~:text=SB%205769)
+
 ## Meetings

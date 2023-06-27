@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 06/15/2023 [Senate Democrats](/org/senate_democrats/) - [Sens. Dhingra, Kuderer attend White House event detailing efforts to protect reproductive rights in Washington state  - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/06/15/sens-dhingra-kuderer-attend-white-house-event-detailing-efforts-to-protect-reproductive-rights-in-washington-state/#:~:text=SB%205242)
 * 05/11/2023 [Crosscut](/org/crosscut/) - [Washington to invest $21M in abortion, reproductive health care | Crosscut](https://crosscut.com/politics/2023/05/washington-invest-21m-abortion-reproductive-health-care#:~:text=SB%205242)
 * 04/27/2023 [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205242)
 * 04/27/2023 [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205242)

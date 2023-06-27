@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/26/2023 [House Republicans](/org/house_republicans/) - [Week Ahead | Washington State House Republicans](https://houserepublicans.wa.gov/stay-connected/week-ahead/#:~:text=HB%201125)
 * 04/23/2023 [Senate Democrats](/org/senate_democrats/) - [Transportation budget focused on safety, workforce, green investments heads to governor’s desk  - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/04/22/transportation-budget-focused-on-safety-workforce-green-investments-heads-to-governors-desk/#:~:text=House%20Bill%201125)
 * 04/22/2023 [House Democrats](/org/house_democrats/) - [Final state transportation budget boosts funding for highways, ferries, traffic safety and the Climate Commitment Act / El presupuesto estatal final de transporte impulsa la financiación de carreteras, transbordadores, seguridad vial y la Ley de Compromiso Climático – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/22/final-state-transportation-budget-boosts-funding-for-highways-ferries-traffic-safety-and-the-climate-commitment-act/#:~:text=HB%201125)
 * 04/08/2023 [House Republicans](/org/house_republicans/) - [State budgets and bad Senate bills | Washington State House Republicans](https://houserepublicans.wa.gov/current/state-budgets-and-bad-senate-bills/#:~:text=House%20Bill%201125)

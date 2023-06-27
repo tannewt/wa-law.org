@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/15/2023 [House Democrats](/org/house_democrats/) - [Celebrating Juneteenth and the fight for racial justice – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/06/15/celebrating-juneteenth-and-the-fight-for-racial-justice/#:~:text=HB%201048)
 * 05/04/2023 [Crosscut](/org/crosscut/) - [WA passed a 'Voting Rights Act 2.0' bill. Here's what's in it | Crosscut](https://crosscut.com/politics/2023/05/wa-passed-voting-rights-act-20-bill-heres-whats-it#:~:text=House%20Bill%201048)
 * 05/04/2023 [Crosscut](/org/crosscut/) - [Washington aprueba la “Ley de Derecho de Voto 2.0”. Esto es lo que significa. | Crosscut](https://crosscut.com/politics/2023/05/washington-aprueba-la-ley-de-derecho-de-voto-20-esto-es-lo-que-significa#:~:text=Proyecto%20de%20Ley%201048)
 * 03/11/2023 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 10: Housing, reproductive freedom and support for kids - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/11/this-week-in-the-senate-week-10-housing-reproductive-freedom-and-support-for-kids/#:~:text=HB%201048)

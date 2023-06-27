@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 06/15/2023 [House Democrats](/org/house_democrats/) - [Celebrating Juneteenth and the fight for racial justice – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/06/15/celebrating-juneteenth-and-the-fight-for-racial-justice/#:~:text=HB%201474)
 * 05/23/2023 [MyNorthwest](/org/mynorthwest/) - [Rantz: After Washington reparations law, Democrats vow more racist programs - MyNorthwest.com](https://mynorthwest.com/3890469/rantz-after-washington-reparations-law-democrats-vow-more-racist-programs/#:~:text=House%20Bill%201474)
 * 05/15/2023 [KING5](/org/king5/) - [New fee, loans aim to right ‘historic wrong’ of racist covenants | king5.com](https://www.king5.com/article/news/community/facing-race/fee-loans-historic-wrong-racist-covenants-seattle/281-f16a39cb-a63e-4a68-923c-cf2a50ed3297#:~:text=House%20Bill%201474)
 * 05/12/2023 [Crosscut](/org/crosscut/) - [WA lawmakers' 'year of housing' could ease the affordability crisis | Crosscut](https://crosscut.com/politics/2023/05/wa-lawmakers-year-housing-could-ease-affordability-crisis#:~:text=House%20Bill%201474)

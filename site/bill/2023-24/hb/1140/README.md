@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 06/26/2023 [House Republicans](/org/house_republicans/) - [Week Ahead | Washington State House Republicans](https://houserepublicans.wa.gov/stay-connected/week-ahead/#:~:text=HB%201140)
 * 04/12/2023 [The Urbanist](/org/the_urbanist/) - [Missing Middle Housing, ADU, and Design Review Reforms Pass Second Chamber | The Urbanist](https://www.theurbanist.org/2023/04/12/missing-middle-housing-adu-and-design-review-reforms-pass-second-chamber/#:~:text=HB%201140)
 * 04/05/2023 [The Urbanist](/org/the_urbanist/) - [Legislature Advances Narrower TOD and Missing Middle Bills | The Urbanist](https://www.theurbanist.org/2023/04/05/legislature-advances-narrower-tod-and-missing-middle-bills/#:~:text=HB%201140)
 * 04/01/2023 [House Republicans](/org/house_republicans/) - [State budgets and public safety | Washington State House Republicans](https://houserepublicans.wa.gov/current/state-budgets-and-public-safety/#:~:text=House%20Bill%201140)
