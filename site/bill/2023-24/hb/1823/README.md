@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 06/30/2023 [House Democrats](/org/house_democrats/) - [Congrats to our grads 🎓🏫🍾 – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/06/30/congrats-to-our-grads-%f0%9f%8e%93%f0%9f%8f%ab%f0%9f%8d%be/#:~:text=HB%201823)
 * 04/14/2023 [House Democrats](/org/house_democrats/) - [Two Timmons’ education bills clear the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/14/two-timmons-education-bills-clear-the-senate/#:~:text=HB%201823)
 * 03/27/2023 [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=EHB%201823)
 * 03/06/2023 [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=EHB%201823)

@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/28/2023 [House Democrats](/org/house_democrats/) - [Rep. Thai Attends White House Convening on Reproductive Rights – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/06/28/rep-thai-attends-white-house-convening-on-reproductive-rights/#:~:text=HB%201155)
 * 06/15/2023 [Senate Democrats](/org/senate_democrats/) - [Sens. Dhingra, Kuderer attend White House event detailing efforts to protect reproductive rights in Washington state  - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/06/15/sens-dhingra-kuderer-attend-white-house-event-detailing-efforts-to-protect-reproductive-rights-in-washington-state/#:~:text=HB%201155)
 * 05/11/2023 [Crosscut](/org/crosscut/) - [Washington to invest $21M in abortion, reproductive health care | Crosscut](https://crosscut.com/politics/2023/05/washington-invest-21m-abortion-reproductive-health-care#:~:text=HB%201155)
 * 04/27/2023 [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=House%20Bill%201155)

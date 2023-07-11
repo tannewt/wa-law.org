@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 06/30/2023 [House Democrats](/org/house_democrats/) - [Congrats to our grads 🎓🏫🍾 – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/06/30/congrats-to-our-grads-%f0%9f%8e%93%f0%9f%8f%ab%f0%9f%8d%be/#:~:text=HB%201559)
 * 03/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=2SHB%201559)
 * 03/04/2023 [House Democrats](/org/house_democrats/) - [House Passes Entenman’s Student Basic Needs Act – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/04/house-passes-entenmans-student-basic-needs-act/#:~:text=House%20Bill%201559)
 * 02/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB%201559)

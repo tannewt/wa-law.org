@@ -138,7 +138,7 @@ Testifying:
 * Alexander Wallace
 * Dylan Sluder - Master Builders Association of King and Snohomish Counties
 * Amanda Kost - [University of Washington](/org/university_of_washington/)
-* Andrea Reay - Tacoma-Pierce County Chamber
+* 💵Andrea Reay - Tacoma-Pierce County Chamber
 * Rachel Smith - Seattle Metropolitan Chamber of Commerce
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * Kurt Wilson - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
@@ -249,7 +249,7 @@ Testifying:
 * April Sims - [Washington State Labor Council](/org/washington_state_labor_council/)
 * Girmay Zahilay - King County Councilmember
 * Zack Zappone - [City of Spokane](/org/city_of_spokane/)
-* Andrea Reay - Tacoma Pierce OCUnty Chamber
+* 💵Andrea Reay - Tacoma Pierce OCUnty Chamber
 * Rachel Smith - Seattle Metropolitan Chamber of Commerce
 * Jennifer Gregerson - American Planning Association, Washington, Legislative Committee
 * 💵Bill Clarke - [WA Realtors](/org/washington_association_of_realtors/)

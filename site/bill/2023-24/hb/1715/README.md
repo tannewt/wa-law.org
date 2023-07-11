@@ -12,6 +12,8 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 07/09/2023 [The Seattle Times](/org/the_seattle_times/) - [Why many judges in WA aren’t ordering alleged abusers to turn in guns | The Seattle Times](https://www.seattletimes.com/seattle-news/law-justice/whats-many-judges-in-wa-wont-order-abusers-to-turn-in-guns/#:~:text=House%20Bill%201715)
+* 07/07/2023 [KUOW](/org/kuow/) - [KUOW - Why many judges in WA won’t order abusers to turn in guns](https://www.kuow.org/stories/why-many-judges-in-wa-won-t-order-abusers-to-turn-in-guns#:~:text=House%20Bill%201715)
 * 03/11/2023 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 10: Housing, reproductive freedom and support for kids - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/11/this-week-in-the-senate-week-10-housing-reproductive-freedom-and-support-for-kids/#:~:text=House%20Bill%201715)
 * 02/22/2023 [The Seattle Times](/org/the_seattle_times/) - [WA lawmaker wants stronger domestic violence protections | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-lawmaker-wants-to-enhance-domestic-violence-protections/#:~:text=House%20Bill%201715)
 * 02/20/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB%201715)

@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 07/06/2023 [MyNorthwest](/org/mynorthwest/) - [Seattle City Council passes laws to increase volume of affordable housing - MyNorthwest.com](https://mynorthwest.com/3906076/seattle-city-council-passes-laws-raise-volume-affordable-housing/#:~:text=SB%205412)
 * 05/12/2023 [Crosscut](/org/crosscut/) - [WA lawmakers' 'year of housing' could ease the affordability crisis | Crosscut](https://crosscut.com/politics/2023/05/wa-lawmakers-year-housing-could-ease-affordability-crisis#:~:text=Senate%20Bill%205412)
 * 05/08/2023 [Sightline Institute](/org/sightline_institute/) - [How the Washington Legislature Burst the Housing Abundance Dam - Sightline Institute](https://www.sightline.org/2023/05/08/how-the-washington-legislature-burst-the-housing-abundance-dam/#:~:text=HB%205412)
 * 04/27/2023 [PubliCola](/org/publicola/) - [New State Housing Laws Could Mean Big Changes for Seattle - PubliCola](https://publicola.com/2023/04/27/new-state-housing-laws-could-mean-big-changes-for-seattle/#:~:text=Senate%20Bill%205412)
