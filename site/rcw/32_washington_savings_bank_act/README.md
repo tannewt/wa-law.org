@@ -1,2 +1,16 @@
 # 32 WASHINGTON SAVINGS BANK ACT
 
+* [32.04 - General provisions.](32.04_general_provisions.md)
+* [32.08 - Organization and powers.](32.08_organization_and_powers.md)
+* [32.12 - Deposits—Earnings—Dividends—Interest.](32.12_deposits—earnings—dividends—interest.md)
+* [32.16 - Officers and employees.](32.16_officers_and_employees.md)
+* [32.20 - Investments.](32.20_investments.md)
+* [32.24 - Insolvency and liquidation.](32.24_insolvency_and_liquidation.md)
+* [32.28 - Satellite facilities.](32.28_satellite_facilities.md)
+* [32.30 - Conversion of mutual savings bank to building and loan or savings and loan association.](32.30_conversion_of_mutual_savings_bank_to_building_and_loan_or_savings_and_loan_association.md)
+* [32.32 - Conversion of mutual savings bank to capital stock savings bank.](32.32_conversion_of_mutual_savings_bank_to_capital_stock_savings_bank.md)
+* [32.34 - Merger, consolidation, conversion, etc.](32.34_merger_consolidation_conversion_etc.md)
+* [32.35 - Stock savings banks.](32.35_stock_savings_banks.md)
+* [32.40 - Community credit needs.](32.40_community_credit_needs.md)
+* [32.50 - Supervisory direction by the director of financial institutions.](32.50_supervisory_direction_by_the_director_of_financial_institutions.md)
+* [32.98 - Construction.](32.98_construction.md)
