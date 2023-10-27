@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/10/2023 [The Center Square](/org/the_center_square/) - [Spokane Valley senator wants to crack down on property crime | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9cb2cd98-a99d-11ed-a0e0-0b2a1eef2c8e.html#:~:text=SB%205056)
+
 ## Meetings
 ### Tue 02/07 10:30 AM - Law & Justice (LAW): SB 5056 Habitual property offenders
 #### 69 👍 - Pro

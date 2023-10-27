@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 05/18/2023 [The Center Square](/org/the_center_square/) - [Washington state budget includes $250K for tax transparency website | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6df47e38-f5bb-11ed-aee9-a7ea9f48f4dc.html#:~:text=Senate%20Bill%205158)
+
 ## Meetings
 ### Tue 01/17 04:00 PM - Ways & Means (WM): SB 5158 State & local taxation
 #### 13 👍 - Pro

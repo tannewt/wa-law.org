@@ -27,7 +27,7 @@ Testifying:
 * Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 * Brian Lloyd - Beacon Development Group
 * 💵Joren Clowers - [Washington Association of Sewer & Water Districts](/org/washington_association_of_sewer_&_water_districts/)
-* Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* 💵Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 
 #### 4 ❓ - Other
 Testifying:

@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 07/17/2023 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS / NOTICIAS LEGISLATIVAS: 2023 Session Report from the Washington Latino Democratic Caucus / Informe de la sesión de 2023 del Caucus Demócrata Latino de Washington – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/07/17/legislative-news-noticias-legislativas-2023-session-report-from-the-washington-latino-democratic-caucus-informe-de-la-sesion-de-2023-del-caucus-democrata-latino-de-washington/#:~:text=HB%201047)
 * 05/15/2023 [KING5](/org/king5/) - [Gov. Inslee to sign bill banning nine toxic chemicals | king5.com](https://www.king5.com/article/news/politics/state-politics/gov-inslee-sign-bill-banning-toxic-chemicals/281-aa7deb9a-2294-459b-9c4b-2470c6e645d9#:~:text=House%20Bill%201047)
 * 03/17/2023 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 11: Gun safety, behavioral health and budget rollouts - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/17/this-week-in-the-senate-week-11-gun-safety-behavioral-health-and-budget-rollouts/#:~:text=House%20Bill%201047)
 * 03/10/2023 [The Seattle Times](/org/the_seattle_times/) - [WA Legislature forges ahead on assault weapons ban, new drug law | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-legislature-forges-ahead-on-assault-weapons-ban-new-drug-law/#:~:text=House%20Bill%201047)

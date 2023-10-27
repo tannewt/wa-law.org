@@ -9,6 +9,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 07/25/2023 [The Center Square](/org/the_center_square/) - [New Washington laws now in effect | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f4e9fa48-2b4a-11ee-9484-3b8d16ce3fcc.html#:~:text=Senate%20Bill%205460)
+
 ## Meetings
 ### Thu 03/30 08:00 AM - Finance (FIN): SSB 5460 Irrigation & rehab districts
 #### 2 👍 - Pro

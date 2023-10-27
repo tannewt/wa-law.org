@@ -9,6 +9,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 07/25/2023 [The Center Square](/org/the_center_square/) - [New Washington laws now in effect | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f4e9fa48-2b4a-11ee-9484-3b8d16ce3fcc.html#:~:text=Substitute%20House%20Bill%201267)
+
 ## Meetings
 ### Tue 03/21 04:00 PM - Ways & Means (WM): SHB 1267 Rural public facilities/tax
 #### 29 👍 - Pro

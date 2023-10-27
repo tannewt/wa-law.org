@@ -38,7 +38,7 @@ Testifying:
 #### 703 👎 - Con
 Testifying:
 * Paige Huang
-* Brett Waller - HNN Communities
+* 💵Brett Waller - HNN Communities
 * Patricia Hoendermis - [Yakima Valley Landlords Association](/org/yakima_valley_landlords_association/)
 * Ryan Weatherstone
 * Quinn Posner

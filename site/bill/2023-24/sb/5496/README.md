@@ -16,7 +16,7 @@
 #### 916 👍 - Pro
 Testifying:
 * Michael Brown - Civic Commons
-* Amanda Sandoval - United Way of King County
+* 💵Amanda Sandoval - United Way of King County
 * Patience Malaba - HDC
 * Autrina Martindale - BRE
 * Corinna Obar - Washington State Housing Finance Commission

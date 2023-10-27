@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 02/22/2023 [The Center Square](/org/the_center_square/) - [Proposal seeks to reduce wildfires on utility-owned property | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_964df876-b2f1-11ed-bb01-bf2b42643603.html#:~:text=HB%201032)
 * 05/20/2021 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1032)
 
 ## Meetings

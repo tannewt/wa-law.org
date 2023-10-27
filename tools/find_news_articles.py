@@ -241,8 +241,13 @@ for org_rowid, domain in org_cur:
                     graph = ld_json["@graph"][0]
                     for key in ("datePublished", "dateCreated"):
                         if key in graph:
-                            modified_time = arrow.get(graph[key]).datetime
-                            break
+                            try:
+                                modified_time = arrow.get(graph[key]).datetime
+                                break
+                            except arrow.parser.ParserError:
+                                print("invalid date on", page_url)
+                                print(graph[key])
+                                pass
                 if not modified_time:
                     for key in ("datePublished", "dateCreated", "dateModified"):
                         if key in ld_json:

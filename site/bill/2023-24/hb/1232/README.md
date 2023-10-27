@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 07/11/2023 [Senate Democrats](/org/senate_democrats/) - [Higher Education Chairs Issue Statement on SCOTUS Rulings for Affirmative Action, Loan Forgiveness - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/07/11/higher-education-chairs-issue-statement-on-scotus-rulings-for-affirmative-action-loan-forgiveness/#:~:text=HB%201232)
+* 07/11/2023 [House Democrats](/org/house_democrats/) - [Higher Education Chairs Issue Statement on SCOTUS Rulings for Affirmative Action, Loan Forgiveness  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/07/11/higher-education-chairs-issue-statement-on-scotus-rulings-for-affirmative-action-loan-forgiveness/#:~:text=HB%201232)
 * 06/30/2023 [House Democrats](/org/house_democrats/) - [Congrats to our grads 🎓🏫🍾 – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/06/30/congrats-to-our-grads-%f0%9f%8e%93%f0%9f%8f%ab%f0%9f%8d%be/#:~:text=HB%201232)
 * 03/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=HB%201232)
 * 03/06/2023 [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=HB%201232)

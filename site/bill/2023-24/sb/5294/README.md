@@ -10,6 +10,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 09/20/2023 [The Center Square](/org/the_center_square/) - [Washington public pension system expected to be fully funded by 2027 | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ffe06738-57c9-11ee-afe5-d34b4b7576b4.html#:~:text=Senate%20Bill%205294)
+
 ## Meetings
 ### Thu 03/09 04:00 PM - Appropriations (APP): ESSB 5294 Retirement system funding
 #### 26 👍 - Pro

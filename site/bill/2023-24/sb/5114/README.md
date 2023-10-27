@@ -10,9 +10,11 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/01/2023 [The Center Square](/org/the_center_square/) - [Gov. Inslee raises Pride flag at the Washington State Capitol campus | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_7322dd60-00c8-11ee-84ba-b3300e1ec050.html#:~:text=Senate%20Substitute%20Bill%205114)
 * 05/09/2023 [Crosscut](/org/crosscut/) - [Gov. Inslee signs bill to help survivors of sex trafficking in WA | Crosscut](https://crosscut.com/briefs/2023/05/gov-inslee-signs-bill-help-survivors-sex-trafficking-wa#:~:text=Substitute%20Senate%20Bill%205114)
 * 04/05/2023 [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=Senate%20Bill%205114)
 * 03/12/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/12/the-house-hot-sheet-for-week-10-of-the-2023-legislative-session/#:~:text=SB%205114)
+* 03/02/2023 [The Center Square](/org/the_center_square/) - [Bills to protect young people, help crime victims advance in WA Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1ce009d8-b93c-11ed-bade-8b982e7a07ad.html#:~:text=Senate%20Bill%205114)
 * 03/01/2023 [Senate Democrats](/org/senate_democrats/) - [Wilson bill to support sex trafficking survivors passes Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/01/wilson-bill-to-support-sex-trafficking-survivors-passes-senate/#:~:text=Senate%20Bill%205114)
 * 02/16/2023 [The Seattle Times](/org/the_seattle_times/) - [WA cannot neglect sex trafficking victims | The Seattle Times](https://www.seattletimes.com/opinion/wa-cannot-neglect-sex-trafficking-victims/#:~:text=Senate%20Bill%205114)
 

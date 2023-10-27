@@ -14,6 +14,7 @@
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [Derelict Aquatic Structures Removal Bill Signed into Law | WA - DNR](https://www.dnr.wa.gov/news/derelict-aquatic-structures-removal-bill-signed-law#:~:text=Senate%20Bill%205433)
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [Legislation to Remove Derelict Structures Would Promote Healthier Environment, Communities | WA - DNR](https://www.dnr.wa.gov/news/legislation-remove-derelict-structures-would-promote-healthier-environment-communities#:~:text=Senate%20Bill%205433)
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [Passage of Derelict Structures Legislation Puts Washington’s Aquatic Habitat on Cleaner, Healthier Track, says Commissioner Franz | WA - DNR](https://www.dnr.wa.gov/news/passage-derelict-structures-legislation-puts-washington%E2%80%99s-aquatic-habitat-cleaner-healthier#:~:text=Senate%20Bill%205433)
+* [Department of Natural Resources](/org/department_of_natural_resources/) - [Passage of Derelict Structures Legislation Puts Washington’s Aquatic Habitat on Cleaner, Healthier Track, says Commissioner Franz | WA - DNR](https://www.dnr.wa.gov/news/passage-derelict-structures-legislation-puts-washington’s-aquatic-habitat-cleaner-healthier#:~:text=Senate%20Bill%205433)
 
 ## Meetings
 ### Thu 03/30 08:00 AM - Capital Budget (CB): SSB 5433 Derelict aquatic structures

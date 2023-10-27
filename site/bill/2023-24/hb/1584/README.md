@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 02/08/2023 [The Center Square](/org/the_center_square/) - [Mostly glowing reviews for Washington nuke tech bill at House hearing | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ba1e823a-a7f6-11ed-871f-af5626295dfd.html#:~:text=House%20Bill%201584)
+
 ## Meetings
 ### Fri 03/10 08:00 AM - Environment, Energy & Technology (ENET): ESHB 1584 Nuclear reactor technology
 #### 516 👍 - Pro

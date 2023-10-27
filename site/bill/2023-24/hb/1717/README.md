@@ -51,7 +51,7 @@ Testifying:
 ### Tue 02/07 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1717 Associate development orgs.
 #### 34 👍 - Pro
 Testifying:
-* 💵Lynnette Buffington - Greater Grays Harbor, Inc
+* 💵Lynnette Buffington - [Greater Grays Harbor, Inc](/org/greater_grays_harbor,_inc/)
 * Suzanne Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)
 * 💵Garry Clark - [Economic Alliance Snohomish County](/org/economic_alliance_snohomish_county/)
 * Gina Stark - [Port of Bellingham](/org/port_of_bellingham/)

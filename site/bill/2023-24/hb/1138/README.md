@@ -9,6 +9,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 08/02/2023 [The Center Square](/org/the_center_square/) - [WA Department of Ecology outlines drought declaration, $3 million in grant funding | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_faf810c8-30c2-11ee-abdc-9f4c86e4344a.html#:~:text=House%20Bill%201138)
+
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): SHB 1138 Drought preparedness
 #### 8 👍 - Pro

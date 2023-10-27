@@ -13,7 +13,7 @@
 #### 47 👍 - Pro
 Testifying:
 * Eric Gonzalez Alfaro - [Earthjustice](/org/earthjustice/)
-* Christian Poulsen - King County International Airport Community Coalition
+* 💵Christian Poulsen - King County International Airport Community Coalition
 * Chris Covert-Bowlds - WA Physicians for Social Responsibility
 * Lisa Rivera Smith
 * 💵Paula Sardinas - WBBA (WA Build Back Alliance)
@@ -90,7 +90,7 @@ Testifying:
 * Sameth Mell - KCIACC
 * Velma Veloria
 * Ali Lee
-* Christian Poulsen - Duwamish River Community Coalition, King County International Airport Community Coalition
+* 💵Christian Poulsen - Duwamish River Community Coalition, King County International Airport Community Coalition
 * Brandon Bowersox-Johnson
 * Jeffry Berner
 * Ursula Euler

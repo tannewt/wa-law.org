@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 09/06/2023 [The Center Square](/org/the_center_square/) - [Washington’s new Commercial Aviation Work Group preparing for take-off | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b63272f8-4d0a-11ee-88b9-e7837d306965.html#:~:text=House%20Bill%201791)
 * 04/13/2023 [MyNorthwest](/org/mynorthwest/) - [Search for new Washington airport location likely to start over - MyNorthwest.com](https://mynorthwest.com/3874896/search-new-airport-western-washington-starting-over/#:~:text=Engrossed%20Substitute%20House%20Bill%201791)
 * 04/13/2023 [House Democrats](/org/house_democrats/) - [Fey bill will pause the state’s heated airport debate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/13/fey-bill-will-pause-the-states-heated-airport-debate/#:~:text=HB%201791)
 * 03/27/2023 [South Seattle Emerald](/org/south_seattle_emerald/) - [Local and State Legislation Hope to Address Environmental Impacts From Airports | South Seattle Emerald](https://southseattleemerald.com/2023/03/27/local-and-state-legislation-hope-to-address-environmental-impacts-from-airports/#:~:text=House%20Bill%201791)

@@ -11,10 +11,12 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/21/2023 [The Center Square](/org/the_center_square/) - [Washington state legislators announce $8.9B construction budget | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0108fb58-e096-11ed-916e-3fa14f8fc260.html#:~:text=Senate%20Bill%205200)
 * 04/12/2023 [The Urbanist](/org/the_urbanist/) - [Missing Middle Housing, ADU, and Design Review Reforms Pass Second Chamber | The Urbanist](https://www.theurbanist.org/2023/04/12/missing-middle-housing-adu-and-design-review-reforms-pass-second-chamber/#:~:text=SB%205200)
 * 04/05/2023 [The Urbanist](/org/the_urbanist/) - [Legislature Advances Narrower TOD and Missing Middle Bills | The Urbanist](https://www.theurbanist.org/2023/04/05/legislature-advances-narrower-tod-and-missing-middle-bills/#:~:text=SB%205200)
 * 04/03/2023 [Washington St Pta](/org/washington_st_pta/) - [House Releases 2023-2025 Budgets, Negotiations to Start This Week - WSPTA](https://www.wastatepta.org/house-releases-2023-2025-budgets-negotiations-to-start-this-week/#:~:text=ESSB%205200)
 * 03/29/2023 [The Urbanist](/org/the_urbanist/) - [Striker Amendments Stalk Housing Bills in the Washington Legislature | The Urbanist](https://www.theurbanist.org/2023/03/29/striker-amendments-stalk-housing-bills-in-the-washington-legislature/#:~:text=SB%205200)
+* 03/23/2023 [The Center Square](/org/the_center_square/) - [Senate’s $7.9B capital budget passes out of Ways & Means Committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f169b68e-c99c-11ed-824d-af5863906cfe.html#:~:text=Proposed%20Second%20Substitute%20Bill%205200)
 * 03/22/2023 [The Urbanist](/org/the_urbanist/) - [The Legislative Budget Season Begins in Olympia | The Urbanist](https://www.theurbanist.org/2023/03/22/the-legislative-budget-season-begins-in-olympia/#:~:text=SB%205200)
 * 03/21/2023 [Senate Democrats](/org/senate_democrats/) - [Housing Advocates Testify on Senate Capital Budget Proposal - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/21/housing-advocates-testify-on-senate-capital-budget-proposal/#:~:text=SB%205200)
 * 03/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=SB%205200)
@@ -98,7 +100,7 @@ Testifying:
 * 💵Mike Pugsley - [Ashley House](/org/ashley_house/)
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Michone Preston - Habitat for Humanity of Washington State
-* Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* 💵Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * Jesse Simpson - Housing Development Consortium
 * Dora "Duaa-Rahemaah" Williams
 * Peter Shapiro

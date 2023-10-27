@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 07/19/2023 [House Democrats](/org/house_democrats/) - [Senn Participates in White House States Convening on Child Care – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/07/19/senn-participates-in-white-house-states-convening-on-child-care/#:~:text=House%20Bill%201199)
 * 05/01/2023 [House Democrats](/org/house_democrats/) - [Governor signs Rep. Tana Senn’s bill to protect neighborhood childcares into law – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/05/01/governor-signs-rep-tana-senns-bill-to-protect-neighborhood-childcares-into-law/#:~:text=House%20Bill%201199)
 * 04/27/2023 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [2023 Session Wrap Up - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04272023#:~:text=HB%201199)
 

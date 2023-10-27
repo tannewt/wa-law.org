@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 09/11/2023 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Our legislative priorities for 2024 | ACLU of Washington](http://www.aclu-wa.org/pages/2024-legislative-agenda#:~:text=HB%201324)
 * 04/18/2023 [Crosscut](/org/crosscut/) - [WA may end mandatory sentencing points based on juvenile convictions | Crosscut](https://crosscut.com/politics/2023/04/wa-may-end-mandatory-sentencing-points-based-juvenile-convictions#:~:text=House%20Bill%201324)
 * 04/07/2023 [KUOW](/org/kuow/) - [KUOW - Washington lawmakers debate who benefits from juvenile sentencing reforms](https://www.kuow.org/stories/lawmakers-debate-who-gets-to-benefit-from-juvenile-sentencing-reforms#:~:text=HB%201324)
 * 03/09/2023 [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | Southeast Seattle Schools Launch Fundraiser; Local Authors Featured in Short Story Dispenser | South Seattle Emerald](https://southseattleemerald.com/2023/03/08/news-gleams-southeast-seattle-schools-launch-fundraiser-local-authors-featured-in-short-story-dispenser/#:~:text=HB-1324)

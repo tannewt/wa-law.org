@@ -11,6 +11,9 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 08/01/2023 [The Center Square](/org/the_center_square/) - [College in the High School courses free for students in the 2023-24 school year | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_e415545e-30a1-11ee-8d83-a30dee644a4f.html#:~:text=Second%20Substitute%20Senate%20Bill%205048)
+* 07/11/2023 [Senate Democrats](/org/senate_democrats/) - [Higher Education Chairs Issue Statement on SCOTUS Rulings for Affirmative Action, Loan Forgiveness - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/07/11/higher-education-chairs-issue-statement-on-scotus-rulings-for-affirmative-action-loan-forgiveness/#:~:text=SB%205048)
+* 07/11/2023 [House Democrats](/org/house_democrats/) - [Higher Education Chairs Issue Statement on SCOTUS Rulings for Affirmative Action, Loan Forgiveness  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/07/11/higher-education-chairs-issue-statement-on-scotus-rulings-for-affirmative-action-loan-forgiveness/#:~:text=SB%205048)
 * 04/10/2023 [Washington St Pta](/org/washington_st_pta/) - [Senate Passes Preventing Gun Violence Legislation in Week 13 Report - WSPTA](https://www.wastatepta.org/senate-passes-preventing-gun-violence-legislation-in-week-13-report/#:~:text=2SSB%205048)
 * 03/27/2023 [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=2SSB%205048)
 * 03/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=2SSB%205048)

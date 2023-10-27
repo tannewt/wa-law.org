@@ -12,6 +12,7 @@
 * 03/30/2023 [Gorge News Center](/org/gorge_news_center/) - [Six Mosbrucker bills remain alive, advance in Senate after major legislative policy deadline](https://gorgenewscenter.com/2023/03/30/six-mosbrucker-bills-remain-alive-advance-in-senate-after-major-legislative-policy-deadline/#:~:text=House%20Bill%201114%20–%20Sentencing%20Guidelines%20Commission:)
 * 03/14/2023 [Gorge News Center](/org/gorge_news_center/) - [Six Mosbrucker bills pass House, sent to Senate](https://gorgenewscenter.com/2023/03/14/six-mosbrucker-bills-pass-house-sent-to-senate/#:~:text=House%20Bill%201114%20–%20Sentencing%20Guidelines%20Commission:)
 * 05/20/2021 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1114)
+* [Gorge Radio](/org/gorge_radio/) - [Mosbrucker Bill To Expand SCG Panel Approved In House – Gorge Radio](https://gorgeradio.com/mosbrucker-bill-to-expand-scg-panel-approved-in-house/#:~:text=House%20Bill%201114)
 
 ## Meetings
 ### Thu 03/09 08:00 AM - Law & Justice (LAW): HB 1114 Sentencing comm'n members

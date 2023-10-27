@@ -10,8 +10,10 @@
 
 ## 📰 Articles
 * 06/07/2023 [Sightline Institute](/org/sightline_institute/) - [It’s Time for Cascadia to Start Pruning the Gas System and Electrifying Whole Neighborhoods - Sightline Institute](https://www.sightline.org/2023/06/07/its-time-for-cascadia-to-start-pruning-the-gas-system-and-electrifying-whole-neighborhoods/#:~:text=Washington%20House%20Bill%201589)
+* 04/26/2023 [The Center Square](/org/the_center_square/) - [Natural gas ban bill fails to clear Washington Legislature - for now | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8afda0a8-e478-11ed-85f3-27382afd0889.html#:~:text=HB%201589)
 * 03/27/2023 [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=ESHB%201589)
 * 03/13/2023 [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=ESHB%201589)
+* 02/21/2023 [The Center Square](/org/the_center_square/) - [Bills would ban PSE from offering new natural gas service | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8e702de0-b233-11ed-b068-8f6937e40b20.html#:~:text=HB%201589)
 * 02/06/2023 [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=HB%201589)
 * 10/09/2017 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Environmental Stewardship Priorities — Quaker Voice](https://www.quakervoicewa.org/environmental-stewardship-priorities/#:~:text=HB%201589)
 
@@ -59,7 +61,7 @@ Testifying:
 Testifying:
 * Yochi Zakai - The Energy Project
 * 💵John Seng - [Spark Northwest](/org/spark_northwest/)
-* Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* 💵Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * Charlie Brown - NW Natural & Cascade Natural Gas
 * 💵Kelly Hall - [Climate Solutions](/org/climate_solutions/)
 * Kiki Velez - Natural Resources Defense Council (NRDC)

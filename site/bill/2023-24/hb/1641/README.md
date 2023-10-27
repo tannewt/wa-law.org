@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/03/2023 [The Center Square](/org/the_center_square/) - [Proposed high-potency cannabis tax in Washington would bolster illicit market, critics say | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5c0c284c-a403-11ed-af18-1b8b44911001.html#:~:text=House%20Bill%201641)
+
 ## Meetings
 ### Thu 02/02 08:00 AM - Regulated Substances & Gaming (RSG): HB 1641 High-potency cannabis
 #### 10 👍 - Pro

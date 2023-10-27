@@ -8,8 +8,12 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/02/2023 [The Center Square](/org/the_center_square/) - [Police pursuit reform legislation getting some traction in WA Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b16435cc-b953-11ed-827b-c726320d4510.html#:~:text=Senate%20Bill%205533)
+* 02/28/2023 [The Center Square](/org/the_center_square/) - [‘Path to a hearing’: Sen. Braun more hopeful on police pursuit reform legislation | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_4b953ca2-b7a8-11ed-a4fc-07dc4eb9a1df.html#:~:text=Senate%20Bill%205533)
 * 02/23/2023 [Senate Democrats](/org/senate_democrats/) - [MOCC Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/moccpriorities/#:~:text=SB%205533)
 * 02/17/2023 [PubliCola](/org/publicola/) - [Bill to Allow More Police Pursuits Would Sunset in 2025 - PubliCola](https://publicola.com/2023/02/17/bill-to-allow-more-police-pursuits-would-sunset-in-2025/#:~:text=Senate%20Bill%205533)
+* 02/07/2023 [The Center Square](/org/the_center_square/) - [Washington GOP: police pursuit reform bill going nowhere | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c1266ce6-a742-11ed-bbcc-8be2322da108.html#:~:text=Senate%20Bill%205533)
+* 02/01/2023 [The Center Square](/org/the_center_square/) - [‘Rose-colored driving glasses’: Support grows to roll back restrictions on police pursuits | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0c88e63e-a26e-11ed-99cb-478209ffdd79.html#:~:text=Senate%20Bill%205533)
 * 01/31/2023 [Senate Republicans](/org/senate_republicans/) - [Common sense, accountability needed to fix bad police pursuit law - Senate Republican Caucus](https://src.wastateleg.org/blog/common-sense-accountability-needed-fix-bad-police-pursuit-law/#:~:text=Senate%20Bill%205533)
 * 01/29/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 4: Public safety takes center stage - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/29/this-week-in-the-senate-week-4-public-safety-takes-center-stage/#:~:text=Senate%20Bill%205533)
 * [PubliCola](/org/publicola/) - [PubliCola - News. Politics. Urbanism.](https://publicola.com/#:~:text=Senate%20Bill%205533)

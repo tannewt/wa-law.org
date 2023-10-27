@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/06/2023 [The Center Square](/org/the_center_square/) - [$900 for $100: Bill stopping heavy prison commissary deductions clears WA Senate | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_720548fe-bc6d-11ed-b83c-ab1de2354aa5.html#:~:text=Senate%20Bill%205131)
 * 03/03/2023 [Senate Democrats](/org/senate_democrats/) - [Senate passes Wilson bill to exempt commissary money from high deductions - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/03/senate-passes-wilson-bill-to-exempt-commissary-money-from-high-deductions/#:~:text=Senate%20Bill%205131)
 * 02/01/2019 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Criminal Justice — Quaker Voice](https://www.quakervoicewa.org/criminal-justice/#:~:text=SB%205131)
 

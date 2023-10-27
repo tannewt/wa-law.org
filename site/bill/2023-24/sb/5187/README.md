@@ -11,6 +11,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 08/18/2023 [House Republicans](/org/house_republicans/) - [FAQs: How regressive Democratic policies increased Washington’s gas prices | Washington State House Republicans](https://houserepublicans.wa.gov/wa-gas-prices/#:~:text=Senate%20Bill%205187)
+* 04/28/2023 [The Center Square](/org/the_center_square/) - [Another WA legislative session comes and goes with no emergency powers reform | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_2e21b0f2-e60a-11ed-a23e-b71c1520342e.html#:~:text=ESSB%205187)
 * 04/18/2023 [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=Senate%20Bill%205187)
 * 04/12/2023 [The Urbanist](/org/the_urbanist/) - [Missing Middle Housing, ADU, and Design Review Reforms Pass Second Chamber | The Urbanist](https://www.theurbanist.org/2023/04/12/missing-middle-housing-adu-and-design-review-reforms-pass-second-chamber/#:~:text=SB%205187)
 * 04/08/2023 [House Republicans](/org/house_republicans/) - [State budgets and bad Senate bills | Washington State House Republicans](https://houserepublicans.wa.gov/current/state-budgets-and-bad-senate-bills/#:~:text=Senate%20Bill%205187)

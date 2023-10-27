@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 08/07/2023 [The Center Square](/org/the_center_square/) - [WSU receives portion of Legislature's $12 million student basic needs funding | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_e798f7a0-357b-11ee-88a0-cfb48f1c6801.html#:~:text=SB%205702)
 * 05/08/2023 [The Center Square](/org/the_center_square/) - ['A million new Washingtonians': Gov. Inslee signs package of housing bills | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a30dd1d6-ede2-11ed-b13c-87df998c6452.html#:~:text=Engrossed%20Senate%20Substitute%20Bill%205702)
 * 03/20/2023 [The Seattle Times](/org/the_seattle_times/) - [Foster, homeless college students in WA could get more housing support | The Seattle Times](https://www.seattletimes.com/seattle-news/homeless/foster-homeless-college-students-in-wa-could-get-more-housing-support/#:~:text=Senate%20Bill%205702)
 * 03/13/2023 [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=ESSB%205702)

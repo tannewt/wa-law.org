@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 07/25/2023 [The Center Square](/org/the_center_square/) - [New Washington laws now in effect | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f4e9fa48-2b4a-11ee-9484-3b8d16ce3fcc.html#:~:text=House%20Bill%201317)
 * 05/11/2023 [House Democrats](/org/house_democrats/) - [Governor Signs Bill Requiring Transparency in Special Interest “AstroTurf” Lobbying Funding – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/05/11/governor-signs-bill-requiring-transparency-in-special-interest-astroturf-lobbying-funding/#:~:text=House%20Bill%201317)
 
 ## Meetings

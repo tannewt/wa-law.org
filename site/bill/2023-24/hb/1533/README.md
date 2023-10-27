@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 08/24/2023 [The Center Square](/org/the_center_square/) - [WA Supreme Court rules on disclosure of public employees’ work information | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f7037378-42dc-11ee-971d-07d0c5af0b83.html#:~:text=Engrossed%20Substitute%20House%20Bill%201533)
 * 03/29/2023 [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers advance bill to block some public employee info from view | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-lawmakers-advance-bill-to-block-some-public-employee-info-from-view/#:~:text=House%20Bill%201533)
 * 03/08/2023 [The Seattle Times](/org/the_seattle_times/) - [Tired of public-records shenanigans? Contact state senators | The Seattle Times](https://www.seattletimes.com/opinion/tired-of-public-records-shenanigans-contact-state-senators/#:~:text=HB%201533)
 * 03/03/2023 [The Seattle Times](/org/the_seattle_times/) - [WA Legislature’s secrecy push undermines accountability, trust and civic knowledge | The Seattle Times](https://www.seattletimes.com/opinion/wa-legislatures-secrecy-push-undermines-accountability-trust-and-civic-knowledge/#:~:text=House%20Bill%201533)

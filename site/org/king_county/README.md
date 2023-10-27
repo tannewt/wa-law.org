@@ -378,7 +378,7 @@
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍3  
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍8  
-* 👍 April Putney
+* 👍💵 April Putney
 * 👍💵 Michael White
 * 👍💵 Michael White
 * 👍💵 Michael White
@@ -466,7 +466,7 @@
 ## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍2  
 
 ## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations 👍2 👎1 ❓1
-* 👎 April Putney
+* 👎💵 April Putney
 * ❓💵 Michael White
 * 👍💵 Michael White
 * 👍💵 Michael White

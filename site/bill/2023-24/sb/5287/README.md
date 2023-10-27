@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 03/11/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 13 - 17, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-13-17-2023/#:~:text=SB%205287)
+* 03/02/2023 [The Daily News](/org/the_daily_news/) - [Bills protecting EV stations, tow truck drivers, more move forward in WA Legislature](https://tdn.com/news/local/govt-and-politics/bills-protecting-ev-stations-tow-truck-drivers-more-move-forward-in-wa-legislature/article_9547a582-abf6-11ed-b0aa-7b7eb72b7bc6.html#:~:text=Senate%20Bill%205287)
 
 ## Meetings
 ### Tue 03/14 04:00 PM - Environment & Energy (ENVI): SB 5287 Wind turbine blade recycling

@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/22/2023 [The Center Square](/org/the_center_square/) - [Denied gun sales referred to local police up 179% since 2017 law passed | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_fe8e122c-111f-11ee-96ef-b7923c72772c.html#:~:text=1501)
 * 05/20/2021 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1501)
 
 ## Meetings

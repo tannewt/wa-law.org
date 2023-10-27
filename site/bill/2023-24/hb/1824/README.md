@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/22/2023 [The Center Square](/org/the_center_square/) - [Washington bill would legalize 'betting' for nonprofit shooting contests | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_23074d2e-c8de-11ed-ab5c-bff34dcbd1f2.html#:~:text=House%20Bill%201824)
+
 ## Meetings
 ### Tue 03/21 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): HB 1824 Shooting sweepstakes
 #### 1 👍 - Pro

@@ -10,7 +10,7 @@
 * 05/22/2023 [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | New State Laws Enhance Election Security and Participation | South Seattle Emerald](https://southseattleemerald.com/2023/05/22/news-gleams-new-state-laws-enhance-election-security-and-participation/#:~:text=SB%205459)
 * 05/19/2023 [Gorge News Center](/org/gorge_news_center/) - [Secretary of State Steve Hobbs applauds new elections laws](https://gorgenewscenter.com/2023/05/19/secretary-of-state-steve-hobbs-applauds-new-elections-laws/#:~:text=SB%205459)
 * 05/09/2023 [The Center Square](/org/the_center_square/) - [Washington elections bill ‘more likely to cause insurrection’ | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_7ee4075c-eeb5-11ed-80a2-c38127bb175b.html#:~:text=Senate%20Bill%205459%20into%20law)
-* [The Center Square](/org/the_center_square/) - [Washington elections bill ‘generates more distrust in the system’ | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_770962ba-e9f7-11ed-ab42-1f7e0edc8d65.html#:~:text=Senate%20Bill%205459)
+* 05/03/2023 [The Center Square](/org/the_center_square/) - [Washington elections bill ‘generates more distrust in the system’ | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_770962ba-e9f7-11ed-ab42-1f7e0edc8d65.html#:~:text=Senate%20Bill%205459)
 
 ## Meetings
 ### Wed 03/22 01:30 PM - State Government & Tribal Relations (SGOV): SB 5459 Election info. requests

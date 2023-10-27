@@ -10,9 +10,11 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 07/25/2023 [The Center Square](/org/the_center_square/) - [New Washington laws now in effect | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f4e9fa48-2b4a-11ee-9484-3b8d16ce3fcc.html#:~:text=Senate%20Bill%205208)
 * 05/22/2023 [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | New State Laws Enhance Election Security and Participation | South Seattle Emerald](https://southseattleemerald.com/2023/05/22/news-gleams-new-state-laws-enhance-election-security-and-participation/#:~:text=Senate%20Bill%20(SB)%205208)
 * 05/19/2023 [Gorge News Center](/org/gorge_news_center/) - [Secretary of State Steve Hobbs applauds new elections laws](https://gorgenewscenter.com/2023/05/19/secretary-of-state-steve-hobbs-applauds-new-elections-laws/#:~:text=Senate%20Bill%20(SB)%205208)
 * 01/24/2023 [The Washington Bus](/org/the_washington_bus/) - [Announcing our 2023 Legislative Priorities! – The Washington Bus](http://www.washingtonbus.org/2023/01/23/announcing-our-2023-legislative-priorities/#:~:text=5208)
+* 01/24/2023 [The Washington Bus](/org/the_washington_bus/) - [Announcing our 2023 Legislative Priorities! – The Washington Bus](https://www.washingtonbus.org/2023/01/23/announcing-our-2023-legislative-priorities/#:~:text=5208)
 * [The Washington Bus](/org/the_washington_bus/) - [Uncategorized Archives – The Washington Bus](http://www.washingtonbus.org/category/uncategorized/#:~:text=5208)
 
 ## Meetings

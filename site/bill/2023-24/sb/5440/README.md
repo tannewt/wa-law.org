@@ -92,7 +92,7 @@ Testifying:
 * Council Member Ryan Mello - Washington State Association of Counties and Pierce County
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * anita khandelwal - King County Department of Public Defense
-* April Putney - [King County](/org/king_county/)
+* 💵April Putney - [King County](/org/king_county/)
 * Kelly Rider - King County Department of Community and Human Services
 * Jason Cummings - Snohomish County Prosecuting Attorney
 * Jason Schwarz - [Washington Defender Association](/org/washington_defender_association/)

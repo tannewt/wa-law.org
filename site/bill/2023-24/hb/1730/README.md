@@ -13,6 +13,10 @@
 * 03/08/2023 [Gorge News Center](/org/gorge_news_center/) - [House moves Rep. Waters workforce bill one step closer to becoming law](https://gorgenewscenter.com/2023/03/08/house-moves-rep-waters-workforce-bill-one-step-closer-to-becoming-law/#:~:text=House%20Bill%201730)
 * 02/14/2023 [Gorge News Center](/org/gorge_news_center/) - [Multiple bills from Rep. Waters, including legislation to increase workforce opportunities, pass out of committee](https://gorgenewscenter.com/2023/02/14/multiple-bills-from-rep-waters-including-legislation-to-increase-workforce-opportunities-pass-out-of-committee/#:~:text=House%20Bill%201730)
 * 05/20/2021 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1730)
+* [Gorge Radio](/org/gorge_radio/) - [Three Bills By Waters Pass Senate Committee – Gorge Radio](https://gorgeradio.com/three-bills-by-waters-pass-senate-committee/#:~:text=House%20Bill%201730)
+* [Gorge Radio](/org/gorge_radio/) - [Two Waters Bills Pass Senate – Gorge Radio](https://gorgeradio.com/two-waters-bills-pass-senate/#:~:text=House%20Bill%201730)
+* [Gorge Radio](/org/gorge_radio/) - [Waters Bill Allowing Underage Workers In Certain Situations Signed – Gorge Radio](https://gorgeradio.com/waters-bill-allowing-underage-workers-in-certain-situations-signed/#:~:text=House%20Bill%201730)
+* [Gorge Radio](/org/gorge_radio/) - [Waters Introduces First Bill – Gorge Radio](https://gorgeradio.com/waters-introduces-first-bill/#:~:text=House%20Bill%201730)
 
 ## Meetings
 ### Mon 03/20 10:30 AM - Labor & Commerce (LC): HB 1730 Youth employment/21+ estab.

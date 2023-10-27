@@ -21,6 +21,7 @@
 * 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201388)
 * 01/22/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/22/the-house-hot-sheet-for-week-3-of-the-2023-legislative-session/#:~:text=HB%201388)
 * 01/19/2023 [The Urbanist](/org/the_urbanist/) - [Sawant Announces She’s Leaving City Council to Launch New Workers Party | The Urbanist](https://www.theurbanist.org/2023/01/19/sawant-announces-shes-leaving-city-council-to-launch-new-workers-party/#:~:text=HB%201388)
+* 01/17/2023 [The Center Square](/org/the_center_square/) - [Bills to prevent 'excessive rent' hikes proposed in Washington State House | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_750bd532-96c4-11ed-8a3f-3302e22ff2a0.html#:~:text=House%20Bill%201388)
 * 01/17/2023 [House Democrats](/org/house_democrats/) - [Macri, Ramel Introduce Stability Measures to Stop Excessive Rent Hikes – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/17/macri-ramel-introduce-stability-measures-to-stop-excessive-rent-hikes/#:~:text=HB%201388)
 
 ## Meetings

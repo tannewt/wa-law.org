@@ -66,7 +66,7 @@
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍2  
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
-* 👍 Linda Garcia
+* 👍💵 Linda Garcia
 
 ## [HB 1499](/bill/2023-24/hb/1499/) - Food assistance funding 👍1  
 
@@ -77,7 +77,7 @@
 ## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍1  
 
 ## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy   ❓1
-* ❓ Linda Garcia
+* ❓💵 Linda Garcia
 
 ## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍2  
 
@@ -93,7 +93,7 @@
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍2  
 
 ## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
-* 👍 Linda Garcia
+* 👍💵 Linda Garcia
 
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍1  
 
@@ -122,7 +122,7 @@
 ## [SB 5391](/bill/2023-24/sb/5391/) - Embodied carbon reductions 👍1  
 
 ## [SB 5418](/bill/2023-24/sb/5418/) - Definition of public work  👎1 
-* 👎 Linda Garcia
+* 👎💵 Linda Garcia
 
 ## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍2  
 

@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 10/10/2023 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [2023 Legislative Session Summary – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/resources/2023-legislative-session-summary/#:~:text=SB%205241)
+* 09/11/2023 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Our legislative priorities for 2024 | ACLU of Washington](http://www.aclu-wa.org/pages/2024-legislative-agenda#:~:text=SB%205241)
 * 04/06/2023 [South Seattle Emerald](/org/south_seattle_emerald/) - [After a Key Legislative Cutoff, Bills Protecting Washington Abortion Providers and Patients Are Still in Play | South Seattle Emerald](https://southseattleemerald.com/2023/04/06/after-a-key-legislative-cutoff-bills-protecting-washington-abortion-providers-and-patients-are-still-in-play/#:~:text=SB%205241)
 * 04/05/2023 [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=Senate%20Bill%205241)
 * 02/06/2023 [The Seattle Times](/org/the_seattle_times/) - [Catholic health care restrictions lead WA Legislature to eye changes | The Seattle Times](https://www.seattletimes.com/seattle-news/health/religious-health-care-restrictions-prompt-call-for-wa-merger-oversight/#:~:text=Senate%20Bill%205241)
@@ -73,7 +75,7 @@ Testifying:
 ### Tue 01/24 10:30 AM - Law & Justice (LAW): SB 5241 Health care marketplace
 #### 666 👍 - Pro
 Testifying:
-* April Putney - [King County](/org/king_county/)
+* 💵April Putney - [King County](/org/king_county/)
 * Jody Disney - LWVWA
 * Haylee Anderson - WA State Attorney General's Office
 * Corrine Horvath

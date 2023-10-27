@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 04/05/2023 [The Center Square](/org/the_center_square/) - [Gone in 60 Seconds: Division over 'theft' in catalytic converter theft bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_46349c9a-d3db-11ed-a7c3-6bcb7985790d.html#:~:text=Senate%20Bill%205740)
+
 ## Meetings
 ### Thu 03/30 12:30 PM - Transportation (TRAN): SB 5740 Catalytic converter theft
 #### 5 👍 - Pro

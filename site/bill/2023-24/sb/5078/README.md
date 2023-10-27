@@ -11,6 +11,7 @@
 
 ## 📰 Articles
 * 05/12/2023 [South Seattle Emerald](/org/south_seattle_emerald/) - [Gov. Inslee Signs Gun Reform Legislation | South Seattle Emerald](https://southseattleemerald.com/2023/05/12/gov-inslee-signs-gun-reform-legislation/#:~:text=Senate%20Bill%205078)
+* 04/29/2023 [Wenatchee World](/org/wenatchee_world/) - [With assault weapons ban, Washington enters a new era of gun reform |  | wenatcheeworld.com](https://www.wenatcheeworld.com/with-assault-weapons-ban-washington-enters-a-new-era-of-gun-reform/article_33285b66-e545-11ed-944e-fb8806426d22.html#:~:text=Senate%20Bill%205078)
 * 04/27/2023 [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205078)
 * 04/27/2023 [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205078)
 * 04/27/2023 [Crosscut](/org/crosscut/) - [With assault weapons ban, Washington enters a new era of gun reform | Crosscut](https://crosscut.com/politics/2023/04/assault-weapons-ban-washington-enters-new-era-gun-reform#:~:text=Senate%20Bill%205078)
@@ -29,6 +30,11 @@
 * 01/16/2023 [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=SB%205078)
 * 01/14/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 2: Housing, Climate Change and MLK Day - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/13/this-week-in-the-senate-week-12-housing-climate-change-and-mlk-day/#:~:text=Senate%20Bill%205078)
 * 02/01/2019 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Criminal Justice — Quaker Voice](https://www.quakervoicewa.org/criminal-justice/#:~:text=SB%205078)
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [2023 Legislative Agenda | Washington State](http://www.atg.wa.gov/2023-legislative-agenda#:~:text=SB%205078)
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [Legislative Priorities | Washington State](http://www.atg.wa.gov/legislative-priorities#:~:text=SSB%205078)
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [Legislative Successes | Washington State](http://www.atg.wa.gov/legislative-successes#:~:text=SSB%205078)
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson, Gov. Inslee bill to hold the gun industry responsible passes Legislature | Washington State](http://www.atg.wa.gov/news/news-releases/ag-ferguson-gov-inslee-bill-hold-gun-industry-responsible-passes-legislature#:~:text=Senate%20Bill%205078)
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson, Gov. Inslee bill to hold the gun industry responsible passes Senate | Washington State](http://www.atg.wa.gov/news/news-releases/ag-ferguson-gov-inslee-bill-hold-gun-industry-responsible-passes-senate#:~:text=Senate%20Bill%205078)
 
 ## Meetings
 ### Thu 03/30 01:30 PM - Appropriations (APP): SSB 5078 Firearm industry duties

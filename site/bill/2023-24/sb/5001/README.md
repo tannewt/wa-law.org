@@ -12,7 +12,10 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
-* [Wenatchee World](/org/wenatchee_world/) - [Proposed Regional Sports Complex gains momentum | News | wenatcheeworld.com](https://www.wenatcheeworld.com/news/proposed-regional-sports-complex-gains-momentum/article_7797d4d2-dae3-11ed-b281-a75fc3a588b7.html#:~:text=SB%205001)
+* 05/02/2023 [Wenatchee World](/org/wenatchee_world/) - [Inslee signs Hawkins' public facilities district legislation into law | News | wenatcheeworld.com](https://www.wenatcheeworld.com/news/inslee-signs-hawkins-public-facilities-district-legislation-into-law/article_ae444fca-e906-11ed-b70b-0741b1e9ee9f.html#:~:text=SB%205001)
+* 04/18/2023 [Wenatchee World](/org/wenatchee_world/) - [Proposed Regional Sports Complex gains momentum | News | wenatcheeworld.com](https://www.wenatcheeworld.com/news/proposed-regional-sports-complex-gains-momentum/article_7797d4d2-dae3-11ed-b281-a75fc3a588b7.html#:~:text=SB%205001)
+* 04/12/2023 [Wenatchee World](/org/wenatchee_world/) - [Chelan Douglas Regional Port Authority, partners select firm for Regional Sports Complex study | News | wenatcheeworld.com](https://www.wenatcheeworld.com/news/chelan-douglas-regional-port-authority-partners-select-firm-for-regional-sports-complex-study/article_1f845b36-d952-11ed-9581-d384f2f17e31.html#:~:text=SB%205001)
+* 02/28/2023 [Wenatchee World](/org/wenatchee_world/) - [3 consultant finalists chosen, interlocal agreement started for Regional Sports Complex | News | wenatcheeworld.com](https://www.wenatcheeworld.com/news/3-consultant-finalists-chosen-interlocal-agreement-started-for-regional-sports-complex/article_0553f4c2-b7c6-11ed-8f1a-23bbe8d66bf2.html#:~:text=SB%205001)
 
 ## Meetings
 ### Tue 03/28 08:00 AM - Finance (FIN): E2SSB 5001 Public facility districts

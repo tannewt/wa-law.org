@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 10/10/2023 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [2023 Legislative Session Summary – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/resources/2023-legislative-session-summary/#:~:text=SB%205028)
 * 04/21/2023 [Crosscut](/org/crosscut/) - [A WA bill protecting name change privacy was just signed into law | Crosscut](https://crosscut.com/politics/2023/04/wa-bill-protecting-name-change-privacy-was-just-signed-law#:~:text=SB%205028)
 * 04/05/2023 [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=Senate%20Bill%205028)
 * 03/03/2023 [Crosscut](/org/crosscut/) - [This WA bill could make it easier and safer to change your name | Crosscut](https://crosscut.com/politics/2023/03/wa-bill-could-make-it-easier-and-safer-change-your-name#:~:text=Senate%20Bill%205028)

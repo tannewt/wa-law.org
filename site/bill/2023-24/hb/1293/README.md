@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 07/19/2023 [The Center Square](/org/the_center_square/) - [Study: WA needs more than a quarter-million new housing units to meet demand | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_2acabb02-267d-11ee-b614-2b4d3b7568f9.html#:~:text=HB%201293)
 * 07/06/2023 [MyNorthwest](/org/mynorthwest/) - [Seattle City Council passes laws to increase volume of affordable housing - MyNorthwest.com](https://mynorthwest.com/3906076/seattle-city-council-passes-laws-raise-volume-affordable-housing/#:~:text=HB%201293)
 * 05/12/2023 [PubliCola](/org/publicola/) - [State Legislature Deals a Blow to Seattle's Dysfunctional Design Review Process - PubliCola](https://publicola.com/2023/05/12/state-legislature-deals-a-blow-to-seattles-dysfunctional-design-review-process/#:~:text=House%20Bill%201293)
 * 05/12/2023 [Crosscut](/org/crosscut/) - [WA lawmakers' 'year of housing' could ease the affordability crisis | Crosscut](https://crosscut.com/politics/2023/05/wa-lawmakers-year-housing-could-ease-affordability-crisis#:~:text=House%20Bill%201293)

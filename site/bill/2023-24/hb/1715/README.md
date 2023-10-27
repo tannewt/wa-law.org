@@ -12,6 +12,8 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 10/10/2023 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [2023 Legislative Session Summary – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/resources/2023-legislative-session-summary/#:~:text=HB%201715)
+* 07/21/2023 [Wenatchee World](/org/wenatchee_world/) - [Why many judges in WA won’t order abusers to turn in guns | Northwest | wenatcheeworld.com](https://www.wenatcheeworld.com/news/northwest/why-many-judges-in-wa-won-t-order-abusers-to-turn-in-guns/article_a2ae94c2-266e-11ee-9d1c-43f044565a1c.html#:~:text=House%20Bill%201715)
 * 07/09/2023 [The Seattle Times](/org/the_seattle_times/) - [Why many judges in WA aren’t ordering alleged abusers to turn in guns | The Seattle Times](https://www.seattletimes.com/seattle-news/law-justice/whats-many-judges-in-wa-wont-order-abusers-to-turn-in-guns/#:~:text=House%20Bill%201715)
 * 07/07/2023 [KUOW](/org/kuow/) - [KUOW - Why many judges in WA won’t order abusers to turn in guns](https://www.kuow.org/stories/why-many-judges-in-wa-won-t-order-abusers-to-turn-in-guns#:~:text=House%20Bill%201715)
 * 03/11/2023 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 10: Housing, reproductive freedom and support for kids - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/11/this-week-in-the-senate-week-10-housing-reproductive-freedom-and-support-for-kids/#:~:text=House%20Bill%201715)

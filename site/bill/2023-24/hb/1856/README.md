@@ -8,5 +8,6 @@
 
 ## 📰 Articles
 * 04/20/2023 [Crosscut](/org/crosscut/) - [WA governor's race could decide the fate of state transparency law | Crosscut](https://crosscut.com/politics/2023/04/wa-governors-race-could-decide-fate-state-transparency-law#:~:text=House%20Bill%201856)
+* 04/17/2023 [The Center Square](/org/the_center_square/) - [‘A better process’: WA House bill proposes open government ombuds study | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_e962da9a-dd5d-11ed-8d3e-4354cfe909cc.html#:~:text=House%20Bill%201856)
 
 ## Meetings

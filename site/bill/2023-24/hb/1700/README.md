@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 02/03/2023 [The Center Square](/org/the_center_square/) - [Rep. Kretz wants to plant a tree in Olympia | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ef103f62-a402-11ed-bacb-934e1ce912ea.html#:~:text=House%20Bill%201700)
 * 05/20/2021 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1700)
 
 ## Meetings

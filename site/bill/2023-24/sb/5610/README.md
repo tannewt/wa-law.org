@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [2023 Legislative Agenda | Washington State](http://www.atg.wa.gov/2023-legislative-agenda#:~:text=SB%205610)
+
 ## Meetings
 ### Tue 02/14 10:30 AM - Law & Justice (LAW): SB 5610 Used vehicle warranties
 #### 9 👍 - Pro

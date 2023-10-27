@@ -26,7 +26,7 @@ Testifying:
 * Sara Tasneem - n/a
 * Theresa Harris
 * Finleigh Mork
-* Fraidy Reiss - Unchained At Last
+* 💵Fraidy Reiss - [Unchained At Last](/org/unchained_at_last/)
 * Skylar Faller - Advocacy Club
 
 #### 0 👎 - Con

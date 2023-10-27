@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 08/30/2023 [Wenatchee World](/org/wenatchee_world/) - [Chelan Douglas Regional Port Authority to pay up to $40,000 for postcards on property tax levy | Local News | wenatcheeworld.com](https://www.wenatcheeworld.com/news/local/chelan-douglas-regional-port-authority-to-pay-up-to-40-000-for-postcards-on-property/article_f0648f9c-4765-11ee-a82f-131abc5694e1.html#:~:text=Engrossed%20House%20Bill%201663)
 * 05/20/2021 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1663)
 
 ## Meetings

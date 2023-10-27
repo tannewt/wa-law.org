@@ -16,6 +16,8 @@
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [‘Cascading Impacts of Wildfire’ Bill Introduced to Address Smoke and Wildfire Risk Statewide | WA - DNR](https://www.dnr.wa.gov/news/%E2%80%98cascading-impacts-wildfire%E2%80%99-bill-introduced-address-smoke-and-wildfire-risk-statewide#:~:text=House%20Bill%201578)
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [‘Cascading Impacts of Wildfire’ Bill Passes House with Unanimous Vote, Heads to Senate | WA - DNR](https://www.dnr.wa.gov/news/%E2%80%98cascading-impacts-wildfire%E2%80%99-bill-passes-house-unanimous-vote-heads-senate#:~:text=House%20Bill%201578)
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [Federal Government to Fund $25M in Wildfire Defense Grants in Washington | WA - DNR](https://www.dnr.wa.gov/news/federal-government-fund-25m-wildfire-defense-grants-washington#:~:text=House%20Bill%201578)
+* [Department of Natural Resources](/org/department_of_natural_resources/) - [‘Cascading Impacts of Wildfire’ Bill Introduced to Address Smoke and Wildfire Risk Statewide | WA - DNR](https://www.dnr.wa.gov/news/‘cascading-impacts-wildfire’-bill-introduced-address-smoke-and-wildfire-risk-statewide#:~:text=House%20Bill%201578)
+* [Department of Natural Resources](/org/department_of_natural_resources/) - [‘Cascading Impacts of Wildfire’ Bill Passes House with Unanimous Vote, Heads to Senate | WA - DNR](https://www.dnr.wa.gov/news/‘cascading-impacts-wildfire’-bill-passes-house-unanimous-vote-heads-senate#:~:text=House%20Bill%201578)
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): 2SHB 1578 Wildland fire safety

@@ -14,5 +14,6 @@
 * 01/13/2023 [Senate Democrats](/org/senate_democrats/) - [Senate Democrats unite to act on protecting reproductive rights  - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/13/senate-democrats-unite-to-act-on-protecting-reproductive-rights/#:~:text=SB%205351)
 * 11/22/2022 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Our legislative priorities for 2023 | ACLU of Washington](http://www.aclu-wa.org/pages/2023-legislative-agenda#:~:text=SB%205351)
 * 06/19/2015 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=SB%205351)
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [2023 Legislative Agenda | Washington State](http://www.atg.wa.gov/2023-legislative-agenda#:~:text=SB%205351)
 
 ## Meetings

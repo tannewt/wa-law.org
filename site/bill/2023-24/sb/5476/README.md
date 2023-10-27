@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 02/23/2023 [Crosscut](/org/crosscut/) - [Some farmers question WA state's plan to pay workers overtime | Crosscut](https://crosscut.com/news/2023/02/some-farmers-question-wa-states-plan-pay-workers-overtime#:~:text=Senate%20Bill%205476)
+* 02/16/2023 [The Center Square](/org/the_center_square/) - [Farm groups say Washington senator disrespected, mistranslated worker testimony | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_53ad49ae-ae37-11ed-960f-ebd10fee36c4.html#:~:text=SB%205476)
 
 ## Meetings
 ### Thu 02/09 08:00 AM - Labor & Commerce (LC): SB 5476 Agricultural overtime

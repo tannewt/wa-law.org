@@ -8,5 +8,6 @@
 
 ## 📰 Articles
 * 03/03/2023 [MyNorthwest](/org/mynorthwest/) - [Significant gun legislation advances through WA Senate in tight vote - MyNorthwest.com](https://mynorthwest.com/3850532/gun-legislation-senate-28-21-vote/#:~:text=HB%201130)
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [2023 Legislative Agenda | Washington State](http://www.atg.wa.gov/2023-legislative-agenda#:~:text=HB%201130)
 
 ## Meetings

@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 01/23/2023 [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB%201144)
+* 01/17/2023 [The Center Square](/org/the_center_square/) - [Bill would allow local gun control in Washington state | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_008401be-96b3-11ed-a826-9bc3672af284.html#:~:text=House%20Bill%201144)
 * 01/16/2023 [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=HB%201144)
 
 ## Meetings

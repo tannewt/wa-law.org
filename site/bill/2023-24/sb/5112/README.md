@@ -12,8 +12,11 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 06/12/2023 [The Center Square](/org/the_center_square/) - [Washington study: ineligible voter registration ‘reduced but not eliminated’ | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_25e0f790-0969-11ee-a30e-7f7b581d8116.html#:~:text=Senate%20Bill%205112)
 * 05/22/2023 [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | New State Laws Enhance Election Security and Participation | South Seattle Emerald](https://southseattleemerald.com/2023/05/22/news-gleams-new-state-laws-enhance-election-security-and-participation/#:~:text=SB%205112)
+* 05/19/2023 [The Center Square](/org/the_center_square/) - [The 'presumptive right' to vote in Washington state | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6d147c10-f5b7-11ed-85a7-b33ebcf944d3.html#:~:text=SB%205112)
 * 05/19/2023 [Gorge News Center](/org/gorge_news_center/) - [Secretary of State Steve Hobbs applauds new elections laws](https://gorgenewscenter.com/2023/05/19/secretary-of-state-steve-hobbs-applauds-new-elections-laws/#:~:text=SB%205112)
+* 03/29/2023 [The Center Square](/org/the_center_square/) - [Washington bill would automatically register 'subset of citizens' to vote | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_623656ac-ce65-11ed-a0aa-f742d1722af1.html#:~:text=Senate%20Bill%205112)
 * 02/21/2023 [The Seattle Times](/org/the_seattle_times/) - [Reach out to voters before reworking their ballots | The Seattle Times](https://www.seattletimes.com/opinion/reach-out-to-voters-before-reworking-their-ballots/#:~:text=Senate%20Bill%205112)
 * 01/08/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: WE'RE BACK - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/08/this-week-in-the-senate-week-1-were-back/#:~:text=Senate%20Bill%205112)
 

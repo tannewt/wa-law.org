@@ -9,6 +9,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 08/22/2023 [Gorge News Center](/org/gorge_news_center/) - [A gun goes to a museum for the first time in 9 years, due to Wilson legislation](https://gorgenewscenter.com/2023/08/22/a-gun-goes-to-a-museum-for-the-first-time-in-9-years-due-to-wilson-legislation/#:~:text=SB%205436)
+
 ## Meetings
 ### Tue 03/21 10:30 AM - Civil Rights & Judiciary (CRJ): SSB 5436 Firearm transfers to museums
 #### 6 👍 - Pro

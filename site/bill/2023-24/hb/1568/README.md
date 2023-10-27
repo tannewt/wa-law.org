@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 03/13/2023 [The Center Square](/org/the_center_square/) - [Health care worker shortage bill now relies on Washington state Senate vote | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f27218de-c1e3-11ed-b02f-fbdfe2fe8646.html#:~:text=House%20Bill%201568)
+
 ## Meetings
 ### Thu 03/23 10:30 AM - Health & Long Term Care (HLTC): ESHB 1568 Long-term care professionals
 #### 109 👍 - Pro

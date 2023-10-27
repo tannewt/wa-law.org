@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 07/17/2023 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS / NOTICIAS LEGISLATIVAS: 2023 Session Report from the Washington Latino Democratic Caucus / Informe de la sesión de 2023 del Caucus Demócrata Latino de Washington – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/07/17/legislative-news-noticias-legislativas-2023-session-report-from-the-washington-latino-democratic-caucus-informe-de-la-sesion-de-2023-del-caucus-democrata-latino-de-washington/#:~:text=HB%201169)
 * 06/15/2023 [House Democrats](/org/house_democrats/) - [Celebrating Juneteenth and the fight for racial justice – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/06/15/celebrating-juneteenth-and-the-fight-for-racial-justice/#:~:text=HB%201169)
 * 05/26/2023 [KUOW](/org/kuow/) - [KUOW - New Washington state laws give debt relief to people exiting prison](https://www.kuow.org/stories/new-washington-laws-give-debt-relief-to-people-exiting-prison#:~:text=HB%201169)
 * 05/16/2023 [House Democrats](/org/house_democrats/) - [Years long journey leads to the elimination of mandatory LFOs – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/05/16/years-long-journey-leads-to-the-elimination-of-mandatory-lfos/#:~:text=House%20Bill%201169)

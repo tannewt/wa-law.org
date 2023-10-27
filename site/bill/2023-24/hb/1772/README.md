@@ -12,6 +12,9 @@
 * 03/01/2023 [Gorge News Center](/org/gorge_news_center/) - [House approves Waters’ bill to ban sale, manufacture of liquor combined with THC](https://gorgenewscenter.com/2023/03/01/house-approves-waters-bill-to-ban-sale-manufacture-of-liquor-combined-with-thc/#:~:text=House%20Bill%201772)
 * 02/14/2023 [Gorge News Center](/org/gorge_news_center/) - [Multiple bills from Rep. Waters, including legislation to increase workforce opportunities, pass out of committee](https://gorgenewscenter.com/2023/02/14/multiple-bills-from-rep-waters-including-legislation-to-increase-workforce-opportunities-pass-out-of-committee/#:~:text=House%20Bill%201772)
 * 05/20/2021 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1772)
+* [Gorge Radio](/org/gorge_radio/) - [Three Bills By Waters Pass Senate Committee – Gorge Radio](https://gorgeradio.com/three-bills-by-waters-pass-senate-committee/#:~:text=House%20Bill%201772)
+* [Gorge Radio](/org/gorge_radio/) - [WA House Approves Alcohol/THC Prohibition – Gorge Radio](https://gorgeradio.com/wa-house-approves-alcohol-thc-prohibition/#:~:text=House%20Bill%201772)
+* [Gorge Radio](/org/gorge_radio/) - [Waters Bill Prohibiting Alcohol/THC Combo Products Signed By Inslee – Gorge Radio](https://gorgeradio.com/waters-bill-prohibiting-alcohol-thc-combo-products-signed-by-inslee/#:~:text=House%20Bill%201772)
 
 ## Meetings
 ### Mon 03/20 10:30 AM - Labor & Commerce (LC): HB 1772 Tetrahydrocannabinol & alc.

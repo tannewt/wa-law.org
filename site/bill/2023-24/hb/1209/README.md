@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/05/2023 [The Center Square](/org/the_center_square/) - [Fentanyl pill mill bill headed to Inslee’s desk | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_113b9360-d3e8-11ed-a421-b7ff924dfc6d.html#:~:text=House%20Bill%201209)
+* 03/23/2023 [The Center Square](/org/the_center_square/) - ['Industrious monsters': Washington bill targets fentanyl pill production | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_fea0514e-c9ad-11ed-b785-1b8160c09130.html#:~:text=House%20Bill%201209)
 * 03/23/2023 [House Democrats](/org/house_democrats/) - [Senate Committee Passes Leavitt Bill Addressing Controlled Substance Equipment – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/23/senate-committee-passes-leavitt-bill-addressing-controlled-substance-equipment/#:~:text=House%20Bill%201209)
 * 02/24/2023 [House Democrats](/org/house_democrats/) - [Representative Mari Leavitt Passes Four Bills to Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/24/representative-mari-leavitt-passes-four-bills-to-senate/#:~:text=HB%201209)
 

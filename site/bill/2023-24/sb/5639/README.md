@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/01/2023 [The Center Square](/org/the_center_square/) - [WA Cares bills reignite debate about future of program, exemptions from new tax | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9d48704c-a28f-11ed-803e-a7f480f56cb8.html#:~:text=Senate%20Bill%205639)
+
 ## Meetings

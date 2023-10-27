@@ -14,6 +14,7 @@
 * 02/22/2023 [The Urbanist](/org/the_urbanist/) - [What Groups Around Washington Are Asking from Olympia | The Urbanist](https://www.theurbanist.org/2023/02/22/waleg-week-7-priorities/#:~:text=HB%201026)
 * 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB%201026)
 * 02/08/2023 [The Urbanist](/org/the_urbanist/) - [The Association of Washington Cities’ Local Control Fixation | The Urbanist](https://www.theurbanist.org/2023/02/08/the-association-of-washington-cities-local-control-fixation/#:~:text=HB%201026)
+* 01/31/2023 [The Center Square](/org/the_center_square/) - [‘Big session for housing’: Bipartisan group of lawmakers push for more construction | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a86ce3a0-a1b7-11ed-999e-3b10893492fd.html#:~:text=House%20Bill%201026)
 * 01/27/2023 [PubliCola](/org/publicola/) - [State Proposal Would Ban Design Review—Except for Historic Buildings and Districts - PubliCola](https://publicola.com/2023/01/26/state-proposal-would-ban-design-review-except-for-historic-buildings-and-districts/#:~:text=House%20Bill%201026,)
 * 01/09/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/09/the-house-hot-sheet-for-week-1-of-the-2023-legislative-session/#:~:text=HB%201026)
 

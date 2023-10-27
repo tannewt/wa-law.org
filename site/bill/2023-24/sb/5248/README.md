@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/28/2023 [The Center Square](/org/the_center_square/) - [Tutoring bill blocked in WA Senate; lawmakers look to budget process for funding | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6afe4448-b7b8-11ed-862c-3b45cb9b2e4e.html#:~:text=Substitute%20Senate%20Bill%205248)
 * 02/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SSB%205248)
 * 02/11/2023 [House Republicans](/org/house_republicans/) - [Helping students recover from learning loss | Washington State House Republicans](https://houserepublicans.wa.gov/current/helping-students-recover-from-learning-loss/#:~:text=Senate%20Bill%205248)
 * 02/06/2023 [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SB%205248)

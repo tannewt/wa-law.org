@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 07/20/2023 [Sightline Institute](/org/sightline_institute/) - [From Vermont to Oklahoma, Legislatures Challenge Parking Mandates - Sightline Institute](https://www.sightline.org/2023/07/20/from-vermont-to-oklahoma-legislatures-challenge-parking-mandates/#:~:text=HB%201337)
 * 05/30/2023 [South Seattle Emerald](/org/south_seattle_emerald/) - [Advocates Say Housing Levy Is Critical to Keeping Seattle Affordable and Inclusive | South Seattle Emerald](https://southseattleemerald.com/2023/05/30/advocates-say-housing-levy-is-critical-to-keeping-seattle-affordable-and-inclusive/#:~:text=House%20Bill%201337)
 * 05/12/2023 [Crosscut](/org/crosscut/) - [WA lawmakers' 'year of housing' could ease the affordability crisis | Crosscut](https://crosscut.com/politics/2023/05/wa-lawmakers-year-housing-could-ease-affordability-crisis#:~:text=House%20Bill%201337)
 * 05/08/2023 [MyNorthwest](/org/mynorthwest/) - [Gov. Inslee signs 10 housing bills into law in WA's 'year of housing' - MyNorthwest.com](https://mynorthwest.com/3886464/inslee-sign-10-housing-bills-law-washington-year-housing/#:~:text=House%20Bill%201337)

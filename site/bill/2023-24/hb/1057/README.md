@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 01/30/2023 [The Center Square](/org/the_center_square/) - [Washington’s overfunded public pension system could cost taxpayers, officials say | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_e60872b6-9dba-11ed-a4b2-8f00294f451e.html#:~:text=HB%201057)
+
 ## Meetings
 ### Thu 01/26 04:00 PM - Appropriations (APP): HB 1057 PERS/TRS 1 benefit increase
 #### 1071 👍 - Pro
