@@ -9,6 +9,8 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 11/16/2023 [The Seattle Times](/org/the_seattle_times/) - [Ed Lab en español: Los padres de estudiantes de educación especial que no hablan inglés se enfrentan a otro obstáculo | The Seattle Times](https://www.seattletimes.com/education-lab/ed-lab-en-espanol-los-padres-de-estudiantes-de-educacion-especial-que-no-hablan-ingles-se-enfrentan-a-otro-obstaculo/#:~:text=del%20proyecto%20de%20ley%201305)
+* 10/25/2023 [The Seattle Times](/org/the_seattle_times/) - [Parents of special ed students who don’t speak English face another hurdle | The Seattle Times](https://www.seattletimes.com/education-lab/parents-of-special-ed-students-who-dont-speak-english-face-another-hurdle/#:~:text=House%20Bill%201305)
 * 03/06/2023 [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=2SHB%201305)
 * 02/27/2023 [Washington St Pta](/org/washington_st_pta/) - [Many Bills End Their Journey in 2023 with Fiscal Cutoff - WSPTA](https://www.wastatepta.org/many-bills-end-their-journey-in-2023-with-fiscal-cutoff/#:~:text=2SHB%201305)
 * 02/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB%201305)

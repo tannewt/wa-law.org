@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 11/08/2023 [House Democrats](/org/house_democrats/) - [Slatter visits White House to discuss workforce, higher-ed, & infrastructure – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/11/08/slatter-visits-white-house-to-discuss-workforce-higher-ed-infrastructure-2/#:~:text=House%20Bill%201176)
 * 05/03/2023 [The Center Square](/org/the_center_square/) - [Gov. Inslee signs a slew of climate bills into law from Eastern Washington | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0027a7a6-e9ed-11ed-b77a-7f7862703a86.html#:~:text=House%20Bill%201176)
 * 03/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=2SHB%201176)
 * 03/06/2023 [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=2SHB%201176)

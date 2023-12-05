@@ -12,6 +12,7 @@
 
 ## 📰 Articles
 * 03/24/2023 [Senate Democrats](/org/senate_democrats/) - [Home - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/blog/team_members/sen-rebecca-saldana/#:~:text=SB%205046,)
+* 03/11/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 13 - 17, 2023 | Washington State House Republicans](http://houserepublicans.wa.gov/week/march-13-17-2023/#:~:text=SB%205046)
 * 03/11/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 13 - 17, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-13-17-2023/#:~:text=SB%205046)
 * 02/23/2023 [Senate Democrats](/org/senate_democrats/) - [MOCC Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/moccpriorities/#:~:text=SB%205046)
 * 02/01/2019 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Criminal Justice — Quaker Voice](https://www.quakervoicewa.org/criminal-justice/#:~:text=SB%205046)

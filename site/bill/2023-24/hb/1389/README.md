@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 12/01/2023 [Crosscut](/org/crosscut/) - [Tumwater mobile home tenants lobby against rent hikes | Crosscut](https://crosscut.com/investigations/2023/12/tumwater-mobile-home-tenants-lobby-against-rent-hikes#:~:text=HB%201389)
 * 04/24/2023 [Crosscut](/org/crosscut/) - [The bills that survived Washington's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/04/bills-survived-washingtons-2023-legislative-session#:~:text=House%20Bill%201389)
 * 03/14/2023 [The Urbanist](/org/the_urbanist/) - [Legislature Abandons Rent Stabilization Push | The Urbanist](https://www.theurbanist.org/2023/03/14/legislature-abandons-rent-stabilization-push/#:~:text=House%20Bill%201389)
 * 03/13/2023 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 10 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate031323#:~:text=H.B.%201389)
@@ -28,6 +29,7 @@
 * 02/04/2023 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washingtons Legislative Update - Week 5 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate020623#:~:text=H.B.%201389)
 * 01/29/2023 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Committee Action Expected on Some Bills This Week - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate012323#:~:text=H.B.%201389)
 * 01/26/2023 [The Urbanist](/org/the_urbanist/) - [WALeg Wednesday Gets Wonky with Wealth Taxes and Rent Stabilization | The Urbanist](https://www.theurbanist.org/2023/01/25/waleg-wednesday-week-3/#:~:text=HB%201389)
+* 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](http://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201389)
 * 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201389)
 * 01/22/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/22/the-house-hot-sheet-for-week-3-of-the-2023-legislative-session/#:~:text=HB%201389)
 * 01/17/2023 [The Center Square](/org/the_center_square/) - [Bills to prevent 'excessive rent' hikes proposed in Washington State House | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_750bd532-96c4-11ed-8a3f-3302e22ff2a0.html#:~:text=House%20Bill%201389)

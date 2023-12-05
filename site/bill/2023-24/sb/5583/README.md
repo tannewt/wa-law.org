@@ -12,6 +12,7 @@
 
 ## 📰 Articles
 * 04/24/2023 [The Urbanist](/org/the_urbanist/) - [Legislature Abandons Most Traffic Safety Bills As Fatalities Continue To Mount | The Urbanist](https://www.theurbanist.org/2023/04/24/legislature-abandons-most-traffic-safety-bills-as-fatalities-continue-to-mount/#:~:text=SB%205583)
+* 03/11/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 13 - 17, 2023 | Washington State House Republicans](http://houserepublicans.wa.gov/week/march-13-17-2023/#:~:text=SB%205583)
 * 03/11/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 13 - 17, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-13-17-2023/#:~:text=SB%205583)
 * 03/02/2023 [The Center Square](/org/the_center_square/) - [Bills to protect young people, help crime victims advance in WA Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1ce009d8-b93c-11ed-bade-8b982e7a07ad.html#:~:text=Senate%20Bill%205583)
 * 03/02/2023 [Senate Democrats](/org/senate_democrats/) - [Liias bill to improve young driver safety clears Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/01/liias-bill-to-improve-young-driver-safety-clears-senate/#:~:text=Senate%20Bill%205583)

@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 11/14/2023 [House Democrats](/org/house_democrats/) - [Keeping busy this interim – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/11/14/keeping-busy-this-interim/#:~:text=HB%201247)
 * 08/04/2023 [The Center Square](/org/the_center_square/) - [Washington state strikes a chord licensing a new kind of therapist | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_400d5b08-331d-11ee-9e52-075e82c54d24.html#:~:text=Substitue%20House%20Bill%201247)
 * 02/27/2023 [House Democrats](/org/house_democrats/) - [Reed Bill to License Music Therapists Passes House  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/27/reed-bill-to-license-music-therapists-passes-house/#:~:text=House%20Bill%201247)
 * 01/11/2023 [The Seattle Times](/org/the_seattle_times/) - [Music therapy heals: License its practitioners in WA | The Seattle Times](https://www.seattletimes.com/opinion/music-therapy-heals-license-its-practitioners-in-wa/#:~:text=HB%201247)

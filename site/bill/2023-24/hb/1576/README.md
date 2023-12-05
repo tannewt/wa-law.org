@@ -10,6 +10,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 05/20/2021 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](http://houserepublicans.wa.gov/republican-bills/#:~:text=1576)
+
 ## Meetings
 ### Tue 03/21 08:00 AM - Health & Long Term Care (HLTC): ESHB 1576 Dentist compact
 #### 204 👍 - Pro

@@ -9,6 +9,7 @@
 
 ## 📰 Articles
 * 03/27/2023 [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=SSB%205054)
+* 03/11/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 13 - 17, 2023 | Washington State House Republicans](http://houserepublicans.wa.gov/week/march-13-17-2023/#:~:text=SB%205054)
 * 03/11/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 13 - 17, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-13-17-2023/#:~:text=SB%205054)
 * 02/27/2023 [The Center Square](/org/the_center_square/) - [Bill reducing WA classroom learning by four hours a week working its way through Senate | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_49b957bc-b6f7-11ed-acbb-1b334f81d5c7.html#:~:text=Substitute%20Senate%20Bill%205054)
 * 01/30/2023 [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB%205054)

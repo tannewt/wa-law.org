@@ -11,7 +11,9 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/18/2023 [House Republicans](/org/house_republicans/) - [The second half of the 2023 legislative session | Washington State House Republicans](http://houserepublicans.wa.gov/current/the-second-half-of-the-2023-legislative-session/#:~:text=House%20Bill%201498)
 * 03/18/2023 [House Republicans](/org/house_republicans/) - [The second half of the 2023 legislative session | Washington State House Republicans](https://houserepublicans.wa.gov/current/the-second-half-of-the-2023-legislative-session/#:~:text=House%20Bill%201498)
+* 05/20/2021 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](http://houserepublicans.wa.gov/republican-bills/#:~:text=1498)
 * 05/20/2021 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1498)
 
 ## Meetings

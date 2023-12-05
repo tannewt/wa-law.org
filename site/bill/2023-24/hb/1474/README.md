@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 10/31/2023 [South Seattle Emerald](/org/south_seattle_emerald/) - [‘The Color of Law’: Housing Experts Talk New Book About Segregation Solution and Celebrate Fair Housing Law | South Seattle Emerald](https://southseattleemerald.com/2023/10/31/the-color-of-law-housing-experts-talk-new-book-about-segregation-solution-and-celebrate-fair-housing-law/#:~:text=House%20Bill%201474)
 * 08/01/2023 [The Center Square](/org/the_center_square/) - [Washington state looks to spend more than $1 billion to address homelessness | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5d63bec0-3095-11ee-b28a-cfc88910924b.html#:~:text=House%20Bill%201474)
 * 07/17/2023 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS / NOTICIAS LEGISLATIVAS: 2023 Session Report from the Washington Latino Democratic Caucus / Informe de la sesión de 2023 del Caucus Demócrata Latino de Washington – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/07/17/legislative-news-noticias-legislativas-2023-session-report-from-the-washington-latino-democratic-caucus-informe-de-la-sesion-de-2023-del-caucus-democrata-latino-de-washington/#:~:text=HB%201474)
 * 06/15/2023 [House Democrats](/org/house_democrats/) - [Celebrating Juneteenth and the fight for racial justice – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/06/15/celebrating-juneteenth-and-the-fight-for-racial-justice/#:~:text=HB%201474)

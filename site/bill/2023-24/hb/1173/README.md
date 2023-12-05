@@ -12,6 +12,7 @@
 
 ## 📰 Articles
 * 01/17/2023 [NW News Network](/org/nw_news_network/) - [Washington bill would restrict blinking nighttime lights on wind turbines | Northwest News Network](https://www.nwnewsnetwork.org/environment-and-planning/2023-01-23/washington-bill-would-restrict-blinking-nighttime-lights-on-wind-turbines#:~:text=H.B.%201173)
+* 05/20/2021 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](http://houserepublicans.wa.gov/republican-bills/#:~:text=1173)
 * 05/20/2021 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1173)
 
 ## Meetings

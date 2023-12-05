@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/27/2023 [House Republicans](/org/house_republicans/) - [Real solutions for Washington’s environment: Cooler, cleaner, healthier water | Washington State House Republicans](http://houserepublicans.wa.gov/real-environmental-solutions/#:~:text=House%20Bill%201381)
 * 02/27/2023 [House Republicans](/org/house_republicans/) - [Real solutions for Washington’s environment: Cooler, cleaner, healthier water | Washington State House Republicans](https://houserepublicans.wa.gov/real-environmental-solutions/#:~:text=House%20Bill%201381)
 * 02/02/2021 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Environmental Stewardship — Quaker Voice](https://www.quakervoicewa.org/environmental-stewardship/#:~:text=HB%201381)
 * 10/09/2017 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Environmental Stewardship Priorities — Quaker Voice](https://www.quakervoicewa.org/environmental-stewardship-priorities/#:~:text=HB%201381)

@@ -18,6 +18,7 @@
 * 03/13/2023 [The Center Square](/org/the_center_square/) - [Bill to expand WA's Working Families Tax Credit garners support at Senate hearing | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_e6dd90c6-c219-11ed-ae51-777ef046506b.html#:~:text=Second%20Substitute%20House%20Bill%201477)
 * 02/19/2023 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 7 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02202023#:~:text=H.B.1477)
 * 01/29/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB%201477)
+* 12/15/2022 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Progress - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects/2023-legislative-progress/#:~:text=HB%201477)
 
 ## Meetings
 ### Mon 03/13 04:00 PM - Ways & Means (WM): 2SHB 1477 Working families' tax credit

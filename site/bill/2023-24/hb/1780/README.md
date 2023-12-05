@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 08/18/2023 [House Republicans](/org/house_republicans/) - [FAQs: How regressive Democratic policies increased Washington’s gas prices | Washington State House Republicans](http://houserepublicans.wa.gov/wa-gas-prices/#:~:text=House%20Bill%201780)
 * 08/18/2023 [House Republicans](/org/house_republicans/) - [FAQs: How regressive Democratic policies increased Washington’s gas prices | Washington State House Republicans](https://houserepublicans.wa.gov/wa-gas-prices/#:~:text=House%20Bill%201780)
 
 ## Meetings

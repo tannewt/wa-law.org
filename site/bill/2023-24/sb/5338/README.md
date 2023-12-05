@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/04/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead | February 27 - March 3, 2023 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-february-27-march-3/#:~:text=SB%205338)
 * 03/04/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead | February 27 - March 3, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-27-march-3/#:~:text=SB%205338)
 
 ## Meetings

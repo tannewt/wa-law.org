@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 10/26/2023 [The Center Square](/org/the_center_square/) - [Washington farm worker overtime threshold flaws could lead to supply shortages | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a4b01e12-742f-11ee-b9bf-e7711b79657b.html#:~:text=Senate%20Bill%205476)
+* 10/23/2023 [The Center Square](/org/the_center_square/) - [Washington farm workers say overtime threshold is lowering their pay | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8fc01e1e-71f8-11ee-b2a7-938dee1b2e5e.html#:~:text=Senate%20Bill%205476)
 * 02/23/2023 [Crosscut](/org/crosscut/) - [Some farmers question WA state's plan to pay workers overtime | Crosscut](https://crosscut.com/news/2023/02/some-farmers-question-wa-states-plan-pay-workers-overtime#:~:text=Senate%20Bill%205476)
 * 02/16/2023 [The Center Square](/org/the_center_square/) - [Farm groups say Washington senator disrespected, mistranslated worker testimony | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_53ad49ae-ae37-11ed-960f-ebd10fee36c4.html#:~:text=SB%205476)
 

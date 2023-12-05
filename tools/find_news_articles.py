@@ -133,6 +133,19 @@ for org_rowid, domain in org_cur:
                 # Don't bother with old stuff yet.
                 if lastmod < after_date:
                     continue
+            elif "date=" in subsitemap.loc.text:
+                # Fallback to a date in the sitemap url if available.
+                parsed = urlparse(subsitemap.loc.text)
+                query = parse_qs(parsed.query)
+                if "date" in query and arrow.get(query["date"][0]) < after_date:
+                    continue
+            elif "yearmonth=" in subsitemap.loc.text:
+                # Fallback to a date in the sitemap url if available.
+                parsed = urlparse(subsitemap.loc.text)
+                query = parse_qs(parsed.query)
+                if "yearmonth" in query and arrow.get(query["yearmonth"][0] + "-01") < after_date:
+                    continue
+
             if domain == "www.spokesman.com":
                 parsed = urlparse(subsitemap.loc.text)
                 query = parse_qs(parsed.query)

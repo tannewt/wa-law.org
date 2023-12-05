@@ -158,7 +158,7 @@ for start_year in range(2023, 2025, 2):
     cur.execute("SELECT rowid FROM bienniums WHERE name = ?;", (biennium,))
     biennium_rowid = cur.fetchone()[0]
 
-    session_name = f"{start_year} 1st sp.s."
+    session_name = f"{start_year}"
     cur.execute("INSERT OR IGNORE INTO sessions (biennium_rowid, year, name) VALUES (?, ?, ?)", (biennium_rowid, start_year, session_name))
     cur.execute("SELECT rowid FROM sessions WHERE name = ?;", (session_name,))
     session_rowid = cur.fetchone()[0]

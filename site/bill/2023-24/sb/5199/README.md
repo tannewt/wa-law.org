@@ -21,6 +21,7 @@
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [Legislative Priorities | Washington State](http://www.atg.wa.gov/legislative-priorities#:~:text=E2SSB%205199)
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [Legislative Successes | Washington State](http://www.atg.wa.gov/legislative-successes#:~:text=E2SSB%205199)
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson, Sen. Mullet, Rep. Pollet propose legislation to support local journalism | Washington State](http://www.atg.wa.gov/news/news-releases/ag-ferguson-sen-mullet-rep-pollet-propose-legislation-support-local-journalism#:~:text=Senate%20Bill%205199)
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson, Sen. Mullet, Rep. Pollet propose legislation to support local journalism | Washington State](https://www.atg.wa.gov/news/news-releases/ag-ferguson-sen-mullet-rep-pollet-propose-legislation-support-local-journalism#:~:text=Senate%20Bill%205199)
 
 ## Meetings
 ### Fri 04/14 08:00 AM - Finance (FIN): E2SSB 5199 Newspaper publishers/tax

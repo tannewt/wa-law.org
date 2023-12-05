@@ -18,6 +18,7 @@
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [Legislative Priorities | Washington State](http://www.atg.wa.gov/legislative-priorities#:~:text=SSB%205087)
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [Legislative Successes | Washington State](http://www.atg.wa.gov/legislative-successes#:~:text=SSB%205087)
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [Governor signs AG Ferguson, Sen. Pederson legislation that removes unconstitutional death penalty statute from state law | Washington State](http://www.atg.wa.gov/news/news-releases/governor-signs-ag-ferguson-sen-pederson-legislation-removes-unconstitutional#:~:text=Senate%20Bill%205087)
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [Governor signs AG Ferguson, Sen. Pederson legislation that removes unconstitutional death penalty statute from state law | Washington State](https://www.atg.wa.gov/news/news-releases/governor-signs-ag-ferguson-sen-pederson-legislation-removes-unconstitutional#:~:text=Senate%20Bill%205087)
 
 ## Meetings
 ### Wed 03/15 08:00 AM - Civil Rights & Judiciary (CRJ): SSB 5087 Defects and omissions

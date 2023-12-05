@@ -19,6 +19,7 @@
 * 01/24/2023 [The Seattle Times](/org/the_seattle_times/) - [New WA law would shut the door on puppy-mill suffering | The Seattle Times](https://www.seattletimes.com/opinion/editorials/new-wa-law-would-shut-the-door-on-puppy-mill-suffering/#:~:text=House%20Bill%201424)
 * 01/22/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/22/the-house-hot-sheet-for-week-3-of-the-2023-legislative-session/#:~:text=HB%201424)
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson files lawsuit against Puppyland for misleading marketing of puppies, channeling consumers into predatory loans | Washington State](http://www.atg.wa.gov/news/news-releases/ag-ferguson-files-lawsuit-against-puppyland-misleading-marketing-puppies#:~:text=HB%201424)
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson files lawsuit against Puppyland for misleading marketing of puppies, channeling consumers into predatory loans | Washington State](https://www.atg.wa.gov/news/news-releases/ag-ferguson-files-lawsuit-against-puppyland-misleading-marketing-puppies#:~:text=HB%201424)
 * [The Spokesman-Review](/org/the_spokesman-review/) - [Washington trying to ban out-of-state puppy mills from selling in state | The Spokesman-Review](https://www.spokesman.com/stories/2023/apr/07/washington-bill-to-eliminate-out-of-state-puppy-mi/#:~:text=House%20Bill%201424)
 
 ## Meetings

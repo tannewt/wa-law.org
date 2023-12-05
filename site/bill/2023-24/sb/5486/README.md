@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 11/20/2023 [The Center Square](/org/the_center_square/) - [Washington revenue forecasts yet to feel the effect of Jeff Bezos move | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_da647caa-87e5-11ee-ab4b-b313f335fe9f.html#:~:text=Senate%20Bill%205486)
 * 04/01/2023 [Wenatchee World](/org/wenatchee_world/) - [With WA capital gains case settled, what's next for tax reform? |  | wenatcheeworld.com](https://www.wenatcheeworld.com/with-wa-capital-gains-case-settled-whats-next-for-tax-reform/article_66e4b4ca-cf12-11ed-82e8-e76e7180c0d3.html#:~:text=Senate%20Bill%205486)
 * 03/30/2023 [Crosscut](/org/crosscut/) - [With WA capital gains case settled, what's next for tax reform? | Crosscut](https://crosscut.com/politics/2023/03/wa-capital-gains-case-settled-whats-next-tax-reform#:~:text=Senate%20Bill%205486)
 * 03/10/2023 [The Center Square](/org/the_center_square/) - [Proposed Washington wealth tax debated at Senate public hearing | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6eeb9dc8-bf8b-11ed-a460-2fbd331f64c7.html#:~:text=Senate%20Bill%205486)
@@ -18,6 +19,7 @@
 * 01/24/2023 [The Washington Bus](/org/the_washington_bus/) - [Announcing our 2023 Legislative Priorities! – The Washington Bus](https://www.washingtonbus.org/2023/01/23/announcing-our-2023-legislative-priorities/#:~:text=5486)
 * 01/19/2023 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [PRESS RELEASE: State Lawmakers Introduce the Washington State Wealth Tax  - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/press-release-state-lawmakers-introduce-the-washington-state-wealth-tax/#:~:text=SB%205486)
 * 01/19/2023 [Senate Democrats](/org/senate_democrats/) - [Sen. Frame, Rep. Thai Introduce Washington State Wealth Tax - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/19/sen-frame-rep-thai-introduce-washington-state-wealth-tax/#:~:text=SB%205486)
+* 12/15/2022 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Progress - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects/2023-legislative-progress/#:~:text=SB%205486)
 * 12/15/2022 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/research/2023-legislative-agenda/#:~:text=SB%205486)
 * 01/11/2016 [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=Senate%20Bill%205486)
 * [The Washington Bus](/org/the_washington_bus/) - [Uncategorized Archives – The Washington Bus](http://www.washingtonbus.org/category/uncategorized/#:~:text=5486)

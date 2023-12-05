@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 11/03/2023 [House Democrats](/org/house_democrats/) - [Rep. Leavitt recognized as 2023 Outstanding Service to Veterans Legislator of the Year – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/11/03/rep-leavitt-recognized-as-2023-outstanding-service-to-veterans-legislator-of-the-year/#:~:text=HB%201009)
 * 04/25/2023 [House Democrats](/org/house_democrats/) - [Governor Signs Rep. Leavitt’s Workforce Development Bill Package – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/25/rep-leavitt-passes-workforce-development-bill-package-to-governor/#:~:text=House%20Bill%201009)
 * 02/24/2023 [House Democrats](/org/house_democrats/) - [Representative Mari Leavitt Passes Four Bills to Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/24/representative-mari-leavitt-passes-four-bills-to-senate/#:~:text=HB%201009)
 * 01/29/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB%201009)

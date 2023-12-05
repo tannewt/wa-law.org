@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/11/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 13 - 17, 2023 | Washington State House Republicans](http://houserepublicans.wa.gov/week/march-13-17-2023/#:~:text=SB%205207)
 * 03/11/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 13 - 17, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-13-17-2023/#:~:text=SB%205207)
 * 01/22/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 3: Housing, public safety and reproductive freedom take center stage - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/22/this-week-in-the-senate-week-3-housing-public-safety-and-reproductive-freedom-take-center-stage/#:~:text=Senate%20Bill%205207)
 

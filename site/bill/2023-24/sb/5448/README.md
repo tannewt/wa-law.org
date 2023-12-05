@@ -11,6 +11,7 @@
 
 ## 📰 Articles
 * 04/21/2023 [MyNorthwest](/org/mynorthwest/) - [WA keeps the party going as 'to-go cocktails' become law - MyNorthwest.com](https://mynorthwest.com/3879612/wa-to-go-cocktails-law/#:~:text=Senate%20Bill%205448)
+* 03/17/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 20 - 24, 2023 | Washington State House Republicans](http://houserepublicans.wa.gov/week/march-20-24-2023/#:~:text=SB%205448)
 * 03/17/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 20 - 24, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-20-24-2023/#:~:text=SB%205448)
 
 ## Meetings

@@ -12,5 +12,6 @@
 * 06/19/2015 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=SB%205137)
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [2023 Legislative Agenda | Washington State](http://www.atg.wa.gov/2023-legislative-agenda#:~:text=SB%205137)
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson, Rep. Lekanoff, Sen. Dhingra introduce legislation creating a MMIWP Cold Case Unit in the Attorney General’s Office | Washington State](http://www.atg.wa.gov/news/news-releases/ag-ferguson-rep-lekanoff-sen-dhingra-introduce-legislation-creating-mmiwp-cold#:~:text=Senate%20Bill%205137)
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson, Rep. Lekanoff, Sen. Dhingra introduce legislation creating a MMIWP Cold Case Unit in the Attorney General’s Office | Washington State](https://www.atg.wa.gov/news/news-releases/ag-ferguson-rep-lekanoff-sen-dhingra-introduce-legislation-creating-mmiwp-cold#:~:text=Senate%20Bill%205137)
 
 ## Meetings

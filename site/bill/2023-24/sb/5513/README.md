@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 12/15/2022 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Progress - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects/2023-legislative-progress/#:~:text=SB%205513)
+
 ## Meetings
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SB 5513 CTC mental health counseling
 #### 58 👍 - Pro

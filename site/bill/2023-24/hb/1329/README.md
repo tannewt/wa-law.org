@@ -18,6 +18,8 @@
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [Legislative Successes | Washington State](http://www.atg.wa.gov/legislative-successes#:~:text=ESHB%201329)
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson, Rep. Mena bill protecting Washingtonians from utility shutoffs during extreme heat passes House | Washington State](http://www.atg.wa.gov/news/news-releases/ag-ferguson-rep-mena-bill-protecting-washingtonians-utility-shutoffs-during#:~:text=House%20Bill%201329)
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson, Rep. Mena bill protecting Washingtonians from utility shutoffs during extreme heat signed into law | Washington State](http://www.atg.wa.gov/news/news-releases/ag-ferguson-rep-mena-bill-protecting-washingtonians-utility-shutoffs-during-0#:~:text=House%20Bill%201329)
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson, Rep. Mena bill protecting Washingtonians from utility shutoffs during extreme heat passes House | Washington State](https://www.atg.wa.gov/news/news-releases/ag-ferguson-rep-mena-bill-protecting-washingtonians-utility-shutoffs-during#:~:text=House%20Bill%201329)
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson, Rep. Mena bill protecting Washingtonians from utility shutoffs during extreme heat signed into law | Washington State](https://www.atg.wa.gov/news/news-releases/ag-ferguson-rep-mena-bill-protecting-washingtonians-utility-shutoffs-during-0#:~:text=House%20Bill%201329)
 
 ## Meetings
 ### Tue 03/21 01:30 PM - Environment, Energy & Technology (ENET): ESHB 1329 Utility shutoffs/heat

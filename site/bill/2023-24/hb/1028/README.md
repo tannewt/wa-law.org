@@ -17,6 +17,7 @@
 * 02/20/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB%201028)
 * 01/09/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/09/the-house-hot-sheet-for-week-1-of-the-2023-legislative-session/#:~:text=HB%201028)
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson announces the collection of DNA from more than 2,000 violent and sex offenders | Washington State](http://www.atg.wa.gov/news/news-releases/ag-ferguson-announces-collection-dna-more-2000-violent-and-sex-offenders#:~:text=House%20Bill%201028)
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson announces the collection of DNA from more than 2,000 violent and sex offenders | Washington State](https://www.atg.wa.gov/news/news-releases/ag-ferguson-announces-collection-dna-more-2000-violent-and-sex-offenders#:~:text=House%20Bill%201028)
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): 2SHB 1028 Crime victims & witnesses

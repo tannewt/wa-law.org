@@ -18,6 +18,7 @@
 * 03/12/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/12/the-house-hot-sheet-for-week-10-of-the-2023-legislative-session/#:~:text=SB%205225)
 * 03/03/2023 [Senate Democrats](/org/senate_democrats/) - [Senate passes Wilson bill to increase access to affordable childcare, build up childcare workforce - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/03/senate-passes-wilson-bill-to-increase-access-to-affordable-childcare-build-up-childcare-workforce/#:~:text=Senate%20Bill%205225)
 * 02/23/2023 [Senate Democrats](/org/senate_democrats/) - [MOCC Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/moccpriorities/#:~:text=SB%205225)
+* 12/15/2022 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Progress - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects/2023-legislative-progress/#:~:text=5225)
 * 12/15/2022 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/research/2023-legislative-agenda/#:~:text=5225)
 
 ## Meetings

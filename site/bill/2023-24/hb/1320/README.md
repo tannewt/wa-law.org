@@ -9,6 +9,9 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 
+## 📰 Articles
+* 11/14/2023 [House Democrats](/org/house_democrats/) - [Keeping busy this interim – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/11/14/keeping-busy-this-interim/#:~:text=HB%201320)
+
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): E2SHB 1320 Personnel records
 #### 120 👍 - Pro

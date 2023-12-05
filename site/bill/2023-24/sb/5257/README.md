@@ -13,6 +13,7 @@
 ## 📰 Articles
 * 03/06/2023 [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=ESSB%205257)
 * 03/05/2023 [The Seattle Times](/org/the_seattle_times/) - [Recess is a critical part of a child’s education | The Seattle Times](https://www.seattletimes.com/opinion/recess-is-a-critical-part-of-a-childs-education/#:~:text=Senate%20Bill%205257)
+* 03/04/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead | February 27 - March 3, 2023 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-february-27-march-3/#:~:text=SB%205257)
 * 03/04/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead | February 27 - March 3, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-27-march-3/#:~:text=SB%205257)
 * 02/27/2023 [Washington St Pta](/org/washington_st_pta/) - [Many Bills End Their Journey in 2023 with Fiscal Cutoff - WSPTA](https://www.wastatepta.org/many-bills-end-their-journey-in-2023-with-fiscal-cutoff/#:~:text=SSB%205257)
 * 02/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SSB%205257)

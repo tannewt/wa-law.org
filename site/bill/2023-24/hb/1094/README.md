@@ -14,6 +14,7 @@
 * 01/17/2023 [Hacks and Wonks](/org/hacks_and_wonks/) - [Tackling Poverty with Misha Werschkul of the Washington State Budget & Policy Center — Hacks & Wonks](https://www.officialhacksandwonks.com/blog/misha-werschkul-wa-state-budget-and-policy-center#:~:text=HB%201094)
 * 01/16/2023 [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=HB%201094)
 * 01/15/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/15/the-house-hot-sheet-for-week-2-of-the-2023-legislative-session/#:~:text=HB%201094)
+* 12/15/2022 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Progress - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects/2023-legislative-progress/#:~:text=SHB%201094)
 * 02/11/2020 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2023 Economic Justice Priorities — Quaker Voice](https://www.quakervoicewa.org/additional-2020-economic-justice-priorities/#:~:text=HB%201094/)
 * [Statewide Poverty Action Network](/org/statewide_poverty_action_network/) - [Bill Tracker – Statewide Poverty Action Network](https://povertyaction.org/bill-tracker/#:~:text=HB%201094)
 

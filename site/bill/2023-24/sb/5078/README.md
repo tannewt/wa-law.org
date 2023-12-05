@@ -35,6 +35,8 @@
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [Legislative Successes | Washington State](http://www.atg.wa.gov/legislative-successes#:~:text=SSB%205078)
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson, Gov. Inslee bill to hold the gun industry responsible passes Legislature | Washington State](http://www.atg.wa.gov/news/news-releases/ag-ferguson-gov-inslee-bill-hold-gun-industry-responsible-passes-legislature#:~:text=Senate%20Bill%205078)
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson, Gov. Inslee bill to hold the gun industry responsible passes Senate | Washington State](http://www.atg.wa.gov/news/news-releases/ag-ferguson-gov-inslee-bill-hold-gun-industry-responsible-passes-senate#:~:text=Senate%20Bill%205078)
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson, Gov. Inslee bill to hold the gun industry responsible passes Legislature | Washington State](https://www.atg.wa.gov/news/news-releases/ag-ferguson-gov-inslee-bill-hold-gun-industry-responsible-passes-legislature#:~:text=Senate%20Bill%205078)
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson, Gov. Inslee bill to hold the gun industry responsible passes Senate | Washington State](https://www.atg.wa.gov/news/news-releases/ag-ferguson-gov-inslee-bill-hold-gun-industry-responsible-passes-senate#:~:text=Senate%20Bill%205078)
 
 ## Meetings
 ### Thu 03/30 01:30 PM - Appropriations (APP): SSB 5078 Firearm industry duties

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 12/15/2022 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Progress - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects/2023-legislative-progress/#:~:text=HB%201795)
+
 ## Meetings
 ### Tue 02/14 08:00 AM - Finance (FIN): HB 1795 Estate tax
 #### 31 👍 - Pro

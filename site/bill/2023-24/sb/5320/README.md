@@ -14,6 +14,7 @@
 * 09/07/2023 [The Center Square](/org/the_center_square/) - [Contractors fear new law may short circuit Washington's electrician workforce | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_e666554a-4dc6-11ee-8a7c-7bf7372ce971.html#:~:text=Senate%20Bill%205320)
 * 09/06/2023 [The Center Square](/org/the_center_square/) - [WA electrical contractors jolted by new law they say favors big contractors, unions | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_caa9b360-4cef-11ee-ba0e-5fa52b367eb7.html#:~:text=Senate%20Bill%205320)
 * 04/17/2023 [The Center Square](/org/the_center_square/) - [New WA bill seeks to boost electrician workforce to counter greenhouse gas use | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1d87e486-dd46-11ed-88a4-9328aa5d65c7.html#:~:text=Senate%20Bill%205320)
+* 03/17/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 20 - 24, 2023 | Washington State House Republicans](http://houserepublicans.wa.gov/week/march-20-24-2023/#:~:text=SB%205320)
 * 03/17/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 20 - 24, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-20-24-2023/#:~:text=SB%205320)
 
 ## Meetings

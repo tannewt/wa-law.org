@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/20/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead | February 20 - 24, 2023 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-february-20-24-2023/#:~:text=HB%201807)
 * 02/20/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead | February 20 - 24, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-20-24-2023/#:~:text=HB%201807)
 * 02/20/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB%201807)
 

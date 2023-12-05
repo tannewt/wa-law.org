@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/03/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead | March 6 - 10, 2023 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-6-10-2023/#:~:text=SB%205113)
 * 03/03/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead | March 6 - 10, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-6-10-2023/#:~:text=SB%205113)
 
 ## Meetings

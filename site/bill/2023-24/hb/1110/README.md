@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 11/21/2023 [The Center Square](/org/the_center_square/) - [‘Middle housing’ gets a boost from Spokane City Council | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_36610a24-88d0-11ee-bbdc-a7cc8a39a49b.html#:~:text=House%20Bill%201110)
 * 07/20/2023 [Sightline Institute](/org/sightline_institute/) - [From Vermont to Oklahoma, Legislatures Challenge Parking Mandates - Sightline Institute](https://www.sightline.org/2023/07/20/from-vermont-to-oklahoma-legislatures-challenge-parking-mandates/#:~:text=HB%201110)
 * 06/05/2023 [Crosscut](/org/crosscut/) - [How will ‘missing middle’ zoning impact Seattle housing? | Crosscut](https://crosscut.com/politics/2023/06/how-will-missing-middle-zoning-impact-seattle-housing#:~:text=House%20Bill%201110)
 * 05/30/2023 [South Seattle Emerald](/org/south_seattle_emerald/) - [Advocates Say Housing Levy Is Critical to Keeping Seattle Affordable and Inclusive | South Seattle Emerald](https://southseattleemerald.com/2023/05/30/advocates-say-housing-levy-is-critical-to-keeping-seattle-affordable-and-inclusive/#:~:text=House%20Bill%201110)
@@ -73,6 +74,7 @@
 * 01/25/2023 [PubliCola](/org/publicola/) - [Maybe Metropolis: A Tale of Two Densities - PubliCola](https://publicola.com/2023/01/25/maybe-metropolis-a-tale-of-two-densities/#:~:text=HB%201110)
 * 01/23/2023 [PubliCola](/org/publicola/) - [Sponsors of Pro-Housing Bills in Olympia Emphasize Statewide Affordability Crisis - PubliCola](https://publicola.com/2023/01/23/sponsors-of-pro-housing-bills-in-olympia-emphasize-statewide-affordability-crisis/#:~:text=House%20Bill%201110)
 * 01/21/2023 [Wenatchee World](/org/wenatchee_world/) - [How WA's legislature is addressing the housing crisis in 2023 | Northwest | wenatcheeworld.com](https://www.wenatcheeworld.com/news/northwest/how-was-legislature-is-addressing-the-housing-crisis-in-2023/article_2e16beca-9841-11ed-ba69-7334bd16f7d6.html#:~:text=House%20Bill%201110%20would%20allow%20construction)
+* 01/21/2023 [House Republicans](/org/house_republicans/) - [Fixing our state's housing crisis | Washington State House Republicans](http://houserepublicans.wa.gov/current/fixing-our-states-housing-crisis/#:~:text=House%20Bill%201110)
 * 01/21/2023 [House Republicans](/org/house_republicans/) - [Fixing our state's housing crisis | Washington State House Republicans](https://houserepublicans.wa.gov/current/fixing-our-states-housing-crisis/#:~:text=House%20Bill%201110)
 * 01/15/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/15/the-house-hot-sheet-for-week-2-of-the-2023-legislative-session/#:~:text=HB%201110)
 * 01/12/2023 [The Seattle Times](/org/the_seattle_times/) - [Save our food-producing lands with high-density ‘middle housing’ | The Seattle Times](https://www.seattletimes.com/opinion/save-our-food-producing-lands-with-high-density-middle-housing/#:~:text=HB%201110)

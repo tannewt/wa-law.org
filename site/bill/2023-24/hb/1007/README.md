@@ -9,6 +9,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 11/03/2023 [House Democrats](/org/house_democrats/) - [Rep. Leavitt recognized as 2023 Outstanding Service to Veterans Legislator of the Year – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/11/03/rep-leavitt-recognized-as-2023-outstanding-service-to-veterans-legislator-of-the-year/#:~:text=HB%201007)
+
 ## Meetings
 ### Mon 01/16 04:00 PM - Appropriations (APP): HB 1007 Military service credit
 #### 26 👍 - Pro
