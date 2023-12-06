@@ -8,7 +8,6 @@
 
 ## 📰 Articles
 * 02/22/2023 [The Center Square](/org/the_center_square/) - [Proposed wireless device tax does not compute, critics tell House Finance Committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c0670912-b2f2-11ed-9e73-632b1a3a7bc7.html#:~:text=House%20Bill%201793)
-* 02/20/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead | February 20 - 24, 2023 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-february-20-24-2023/#:~:text=HB%201793)
 * 02/20/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead | February 20 - 24, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-20-24-2023/#:~:text=HB%201793)
 * 02/08/2023 [The Center Square](/org/the_center_square/) - [Proposed $2 wireless device sales tax would fund effort to end Washington’s digital divide | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_7010961c-a80d-11ed-a97b-57714c053532.html#:~:text=House%20Bill%201793)
 

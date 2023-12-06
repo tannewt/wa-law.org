@@ -7,14 +7,10 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 11/07/2023 [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201615)
 * 06/29/2023 [The Center Square](/org/the_center_square/) - [Low test scores used to assail Inslee's school closure during pandemic | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3351c9f4-16cf-11ee-820d-5747875c2db0.html#:~:text=House%20Bill%201615)
 * 04/18/2023 [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201615)
-* 02/11/2023 [House Republicans](/org/house_republicans/) - [Helping students recover from learning loss | Washington State House Republicans](http://houserepublicans.wa.gov/current/helping-students-recover-from-learning-loss/#:~:text=House%20Bill%201615)
 * 02/11/2023 [House Republicans](/org/house_republicans/) - [Helping students recover from learning loss | Washington State House Republicans](https://houserepublicans.wa.gov/current/helping-students-recover-from-learning-loss/#:~:text=House%20Bill%201615)
-* 02/02/2023 [House Republicans](/org/house_republicans/) - [Provide school choice | Washington State House Republicans](http://houserepublicans.wa.gov/provide-school-choice/#:~:text=House%20bill%201615)
 * 02/02/2023 [House Republicans](/org/house_republicans/) - [Provide school choice | Washington State House Republicans](https://houserepublicans.wa.gov/provide-school-choice/#:~:text=House%20bill%201615)
-* 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](http://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201615)
 * 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201615)
 
 ## Meetings

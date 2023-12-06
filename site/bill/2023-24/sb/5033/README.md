@@ -10,7 +10,6 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
-* 03/03/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead | March 6 - 10, 2023 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-march-6-10-2023/#:~:text=SB%205033)
 * 03/03/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead | March 6 - 10, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-6-10-2023/#:~:text=SB%205033)
 * [KING5](/org/king5/) - [Sexually abusive jail guards, police to face harsher penalties under new Washington law | king5.com](https://www.king5.com/article/news/investigations/inslee-signs-kimberly-benders-law/281-20061e37-8cf0-40a4-9379-fc9052cf0907#:~:text=Senate%20Bill%205033)
 

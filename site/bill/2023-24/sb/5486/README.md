@@ -15,14 +15,12 @@
 * 02/01/2023 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [Majority of Washington Residents Support a Tax on the Ultra-Wealthy - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/majority-of-washington-residents-support-a-tax-on-the-ultra-wealthy/#:~:text=SB%205486)
 * 01/31/2023 [House Democrats](/org/house_democrats/) - [Sen. Frame, Rep. Thai Introduce Washington State Wealth Tax – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/31/sen-frame-rep-thai-introduce-washington-state-wealth-tax/#:~:text=SB%205486)
 * 01/26/2023 [The Urbanist](/org/the_urbanist/) - [WALeg Wednesday Gets Wonky with Wealth Taxes and Rent Stabilization | The Urbanist](https://www.theurbanist.org/2023/01/25/waleg-wednesday-week-3/#:~:text=SB%205486)
-* 01/24/2023 [The Washington Bus](/org/the_washington_bus/) - [Announcing our 2023 Legislative Priorities! – The Washington Bus](http://www.washingtonbus.org/2023/01/23/announcing-our-2023-legislative-priorities/#:~:text=5486)
 * 01/24/2023 [The Washington Bus](/org/the_washington_bus/) - [Announcing our 2023 Legislative Priorities! – The Washington Bus](https://www.washingtonbus.org/2023/01/23/announcing-our-2023-legislative-priorities/#:~:text=5486)
 * 01/19/2023 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [PRESS RELEASE: State Lawmakers Introduce the Washington State Wealth Tax  - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/press-release-state-lawmakers-introduce-the-washington-state-wealth-tax/#:~:text=SB%205486)
 * 01/19/2023 [Senate Democrats](/org/senate_democrats/) - [Sen. Frame, Rep. Thai Introduce Washington State Wealth Tax - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/19/sen-frame-rep-thai-introduce-washington-state-wealth-tax/#:~:text=SB%205486)
 * 12/15/2022 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Progress - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects/2023-legislative-progress/#:~:text=SB%205486)
 * 12/15/2022 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/research/2023-legislative-agenda/#:~:text=SB%205486)
 * 01/11/2016 [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=Senate%20Bill%205486)
-* [The Washington Bus](/org/the_washington_bus/) - [Uncategorized Archives – The Washington Bus](http://www.washingtonbus.org/category/uncategorized/#:~:text=5486)
 
 ## Meetings
 ### Thu 03/09 04:00 PM - Ways & Means (WM): SB 5486 Wealth/property tax

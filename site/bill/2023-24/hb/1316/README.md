@@ -26,7 +26,6 @@
 * 01/29/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB%201316)
 * 01/23/2023 [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB%201316)
 * 01/22/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/22/the-house-hot-sheet-for-week-3-of-the-2023-legislative-session/#:~:text=HB%201316)
-* 03/16/2019 [House Republicans](/org/house_republicans/) - [House floor debate highlights | Washington State House Republicans](http://houserepublicans.wa.gov/floor-debates/#:~:text=House%20Bill%201316)
 * 03/16/2019 [House Republicans](/org/house_republicans/) - [House floor debate highlights | Washington State House Republicans](https://houserepublicans.wa.gov/floor-debates/#:~:text=House%20Bill%201316)
 
 ## Meetings

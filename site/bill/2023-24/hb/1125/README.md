@@ -11,17 +11,13 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
-* 06/26/2023 [House Republicans](/org/house_republicans/) - [Week Ahead | Washington State House Republicans](http://houserepublicans.wa.gov/stay-connected/week-ahead/#:~:text=HB%201125)
 * 06/26/2023 [House Republicans](/org/house_republicans/) - [Week Ahead | Washington State House Republicans](https://houserepublicans.wa.gov/stay-connected/week-ahead/#:~:text=HB%201125)
 * 04/24/2023 [The Center Square](/org/the_center_square/) - [Washington Legislature heads home without reforming drug laws | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_abec1e28-e2f9-11ed-89ee-dff56dc51444.html#:~:text=HB%201125)
 * 04/23/2023 [Senate Democrats](/org/senate_democrats/) - [Transportation budget focused on safety, workforce, green investments heads to governor’s desk  - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/04/22/transportation-budget-focused-on-safety-workforce-green-investments-heads-to-governors-desk/#:~:text=House%20Bill%201125)
 * 04/22/2023 [House Democrats](/org/house_democrats/) - [Final state transportation budget boosts funding for highways, ferries, traffic safety and the Climate Commitment Act / El presupuesto estatal final de transporte impulsa la financiación de carreteras, transbordadores, seguridad vial y la Ley de Compromiso Climático – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/22/final-state-transportation-budget-boosts-funding-for-highways-ferries-traffic-safety-and-the-climate-commitment-act/#:~:text=HB%201125)
-* 04/08/2023 [House Republicans](/org/house_republicans/) - [State budgets and bad Senate bills | Washington State House Republicans](http://houserepublicans.wa.gov/current/state-budgets-and-bad-senate-bills/#:~:text=House%20Bill%201125)
 * 04/08/2023 [House Republicans](/org/house_republicans/) - [State budgets and bad Senate bills | Washington State House Republicans](https://houserepublicans.wa.gov/current/state-budgets-and-bad-senate-bills/#:~:text=House%20Bill%201125)
 * 04/05/2023 [Senate Democrats](/org/senate_democrats/) - [Senate passes transportation budget focused on safety, workforce, green investments - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/04/05/senate-passes-transportation-budget-focused-on-safety-workforce-green-investments/#:~:text=House%20Bill%201125)
-* 04/01/2023 [House Republicans](/org/house_republicans/) - [State budgets and public safety | Washington State House Republicans](http://houserepublicans.wa.gov/current/state-budgets-and-public-safety/#:~:text=House%20Bill%201125)
 * 04/01/2023 [House Republicans](/org/house_republicans/) - [State budgets and public safety | Washington State House Republicans](https://houserepublicans.wa.gov/current/state-budgets-and-public-safety/#:~:text=House%20Bill%201125)
-* 03/24/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 27 - 31, 2023 | Washington State House Republicans](http://houserepublicans.wa.gov/week/march-27-31-2023/#:~:text=HB%201125)
 * 03/24/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 27 - 31, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-27-31-2023/#:~:text=HB%201125)
 * 01/11/2023 [Senate Democrats](/org/senate_democrats/) - [News - Washington Senate Democrats](https://senatedemocrats.wa.gov/news/#:~:text=House%20Bill%201125)
 

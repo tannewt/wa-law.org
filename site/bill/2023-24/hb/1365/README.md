@@ -8,7 +8,6 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
-* 02/27/2023 [House Republicans](/org/house_republicans/) - [Real solutions for Washington’s environment: Cooler, cleaner, healthier water | Washington State House Republicans](http://houserepublicans.wa.gov/real-environmental-solutions/#:~:text=House%20Bill%201365)
 * 02/27/2023 [House Republicans](/org/house_republicans/) - [Real solutions for Washington’s environment: Cooler, cleaner, healthier water | Washington State House Republicans](https://houserepublicans.wa.gov/real-environmental-solutions/#:~:text=House%20Bill%201365)
 
 ## Meetings

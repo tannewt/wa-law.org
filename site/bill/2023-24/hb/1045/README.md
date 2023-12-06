@@ -14,9 +14,7 @@
 * 02/22/2023 [The Urbanist](/org/the_urbanist/) - [What Groups Around Washington Are Asking from Olympia | The Urbanist](https://www.theurbanist.org/2023/02/22/waleg-week-7-priorities/#:~:text=HB%201045)
 * 02/22/2023 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Priority Bills -- current status — Quaker Voice](https://www.quakervoicewa.org/priority-bills-current-status/#:~:text=1045)
 * 01/29/2023 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Committee Action Expected on Some Bills This Week - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate012323#:~:text=House%20Bill%201045)
-* 01/24/2023 [The Washington Bus](/org/the_washington_bus/) - [Announcing our 2023 Legislative Priorities! – The Washington Bus](http://www.washingtonbus.org/2023/01/23/announcing-our-2023-legislative-priorities/#:~:text=1045)
 * 01/24/2023 [The Washington Bus](/org/the_washington_bus/) - [Announcing our 2023 Legislative Priorities! – The Washington Bus](https://www.washingtonbus.org/2023/01/23/announcing-our-2023-legislative-priorities/#:~:text=1045)
-* 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](http://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201045)
 * 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201045)
 * 01/20/2023 [The Center Square](/org/the_center_square/) - [House committee takes no action on Evergreen Basic Income Pilot Program – for now | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_e721d024-9906-11ed-a9a8-db6adb197d83.html#:~:text=House%20Bill%201045)
 * 01/17/2023 [Hacks and Wonks](/org/hacks_and_wonks/) - [Tackling Poverty with Misha Werschkul of the Washington State Budget & Policy Center — Hacks & Wonks](https://www.officialhacksandwonks.com/blog/misha-werschkul-wa-state-budget-and-policy-center#:~:text=HB%201045)
@@ -28,7 +26,6 @@
 * 12/15/2022 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/research/2023-legislative-agenda/#:~:text=HB%201045)
 * 02/11/2020 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2023 Economic Justice Priorities — Quaker Voice](https://www.quakervoicewa.org/additional-2020-economic-justice-priorities/#:~:text=HB%201045)
 * 06/19/2015 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=HB%201045)
-* [The Washington Bus](/org/the_washington_bus/) - [Uncategorized Archives – The Washington Bus](http://www.washingtonbus.org/category/uncategorized/#:~:text=1045)
 * [Statewide Poverty Action Network](/org/statewide_poverty_action_network/) - [Bill Tracker – Statewide Poverty Action Network](https://povertyaction.org/bill-tracker/#:~:text=HB%201045)
 
 ## Meetings

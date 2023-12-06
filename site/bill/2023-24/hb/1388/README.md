@@ -9,7 +9,6 @@
 
 ## 📰 Articles
 * 12/01/2023 [Crosscut](/org/crosscut/) - [Tumwater mobile home tenants lobby against rent hikes | Crosscut](https://crosscut.com/investigations/2023/12/tumwater-mobile-home-tenants-lobby-against-rent-hikes#:~:text=HB%201388)
-* 03/11/2023 [House Republicans](/org/house_republicans/) - [House of origin cutoff | Washington State House Republicans](http://houserepublicans.wa.gov/current/house-of-origin-cutoff/#:~:text=House%20Bill%201388)
 * 03/11/2023 [House Republicans](/org/house_republicans/) - [House of origin cutoff | Washington State House Republicans](https://houserepublicans.wa.gov/current/house-of-origin-cutoff/#:~:text=House%20Bill%201388)
 * 03/09/2023 [The Urbanist](/org/the_urbanist/) - [The Olympia Waltz Continues for Middle Housing and Other Vital Legislation | The Urbanist](https://www.theurbanist.org/2023/03/09/waleg-week-9-striker-hb1110/#:~:text=HB%201388)
 * 03/01/2023 [The Urbanist](/org/the_urbanist/) - [Washington Legislature’s New Thinking About Housing | The Urbanist](https://www.theurbanist.org/2023/03/01/washington-legislatures-new-thinking-about-housing/#:~:text=HB%201388)
@@ -20,7 +19,6 @@
 * 02/05/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/05/the-house-hot-sheet-for-week-5-of-the-2023-legislative-session/#:~:text=HB%201388)
 * 01/29/2023 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Committee Action Expected on Some Bills This Week - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate012323#:~:text=H.B.%201388)
 * 01/26/2023 [The Urbanist](/org/the_urbanist/) - [WALeg Wednesday Gets Wonky with Wealth Taxes and Rent Stabilization | The Urbanist](https://www.theurbanist.org/2023/01/25/waleg-wednesday-week-3/#:~:text=HB%201388)
-* 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](http://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201388)
 * 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201388)
 * 01/22/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/22/the-house-hot-sheet-for-week-3-of-the-2023-legislative-session/#:~:text=HB%201388)
 * 01/19/2023 [The Urbanist](/org/the_urbanist/) - [Sawant Announces She’s Leaving City Council to Launch New Workers Party | The Urbanist](https://www.theurbanist.org/2023/01/19/sawant-announces-shes-leaving-city-council-to-launch-new-workers-party/#:~:text=HB%201388)

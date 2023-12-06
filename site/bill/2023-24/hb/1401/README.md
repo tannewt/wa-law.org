@@ -7,18 +7,12 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 11/07/2023 [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201401)
 * 04/18/2023 [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201401)
 * 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB%201401)
-* 02/09/2023 [House Republicans](/org/house_republicans/) - [Fixing our housing crisis | Washington State House Republicans](http://houserepublicans.wa.gov/fixing-housing-crisis/#:~:text=House%20bill%201401)
 * 02/09/2023 [House Republicans](/org/house_republicans/) - [Fixing our housing crisis | Washington State House Republicans](https://houserepublicans.wa.gov/fixing-housing-crisis/#:~:text=House%20bill%201401)
-* 02/03/2023 [House Republicans](/org/house_republicans/) - [Expedite housing permits | Washington State House Republicans](http://houserepublicans.wa.gov/expedite-housing-permits/#:~:text=House%20bill%201401)
 * 02/03/2023 [House Republicans](/org/house_republicans/) - [Expedite housing permits | Washington State House Republicans](https://houserepublicans.wa.gov/expedite-housing-permits/#:~:text=House%20bill%201401)
-* 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](http://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201401)
 * 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201401)
-* 01/21/2023 [House Republicans](/org/house_republicans/) - [Fixing our state's housing crisis | Washington State House Republicans](http://houserepublicans.wa.gov/current/fixing-our-states-housing-crisis/#:~:text=House%20Bill%201401)
 * 01/21/2023 [House Republicans](/org/house_republicans/) - [Fixing our state's housing crisis | Washington State House Republicans](https://houserepublicans.wa.gov/current/fixing-our-states-housing-crisis/#:~:text=House%20Bill%201401)
-* 05/16/2022 [House Republicans](/org/house_republicans/) - [Bills passed by Democrats that have contributed to our housing crisis | Washington State House Republicans](http://houserepublicans.wa.gov/housing-crisis/#:~:text=House%20Bill%201401)
 * 05/16/2022 [House Republicans](/org/house_republicans/) - [Bills passed by Democrats that have contributed to our housing crisis | Washington State House Republicans](https://houserepublicans.wa.gov/housing-crisis/#:~:text=House%20Bill%201401)
 
 ## Meetings

@@ -17,10 +17,6 @@
 * 03/01/2023 [The Seattle Times](/org/the_seattle_times/) - [Free Press roundup: WA legislative progress, Google bullies Canada | The Seattle Times](https://www.seattletimes.com/opinion/free-press-roundup-wa-legislative-progress-google-bullies-canada/#:~:text=Bill%205199)
 * 01/17/2023 [The Seattle Times](/org/the_seattle_times/) - [A smart way for legislators to help save local news | The Seattle Times](https://www.seattletimes.com/opinion/editorials/a-smart-way-for-legislators-to-help-save-local-news/#:~:text=Senate%20Bill%205199)
 * 01/11/2016 [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=Senate%20Bill%205199)
-* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [2023 Legislative Agenda | Washington State](http://www.atg.wa.gov/2023-legislative-agenda#:~:text=SB%205199)
-* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [Legislative Priorities | Washington State](http://www.atg.wa.gov/legislative-priorities#:~:text=E2SSB%205199)
-* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [Legislative Successes | Washington State](http://www.atg.wa.gov/legislative-successes#:~:text=E2SSB%205199)
-* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson, Sen. Mullet, Rep. Pollet propose legislation to support local journalism | Washington State](http://www.atg.wa.gov/news/news-releases/ag-ferguson-sen-mullet-rep-pollet-propose-legislation-support-local-journalism#:~:text=Senate%20Bill%205199)
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson, Sen. Mullet, Rep. Pollet propose legislation to support local journalism | Washington State](https://www.atg.wa.gov/news/news-releases/ag-ferguson-sen-mullet-rep-pollet-propose-legislation-support-local-journalism#:~:text=Senate%20Bill%205199)
 
 ## Meetings

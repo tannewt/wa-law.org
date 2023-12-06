@@ -11,7 +11,6 @@
 
 ## 📰 Articles
 * 11/03/2023 [House Democrats](/org/house_democrats/) - [Rep. Leavitt recognized as 2023 Outstanding Service to Veterans Legislator of the Year – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/11/03/rep-leavitt-recognized-as-2023-outstanding-service-to-veterans-legislator-of-the-year/#:~:text=SB%205358)
-* 03/11/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 13 - 17, 2023 | Washington State House Republicans](http://houserepublicans.wa.gov/week/march-13-17-2023/#:~:text=SB%205358)
 * 03/11/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 13 - 17, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-13-17-2023/#:~:text=SB%205358)
 
 ## Meetings

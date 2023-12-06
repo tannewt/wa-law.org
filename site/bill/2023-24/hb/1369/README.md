@@ -12,7 +12,6 @@
 
 ## 📰 Articles
 * 03/02/2023 [FOX13](/org/fox13/) - [Deadline looms in Olympia for certain bills to be considered or passed out of House](https://www.fox13seattle.com/news/deadline-looms-in-olympia-for-certain-bills-to-be-considered-or-passed-out-of-house#:~:text=House%20Bill%201369)
-* 05/20/2021 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](http://houserepublicans.wa.gov/republican-bills/#:~:text=1369)
 * 05/20/2021 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1369)
 
 ## Meetings

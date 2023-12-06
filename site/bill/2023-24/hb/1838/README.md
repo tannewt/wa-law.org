@@ -10,6 +10,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 12/04/2023 [The Center Square](/org/the_center_square/) - [Gov's Office downplays former state economist's claim of pressure to lie about gas prices | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f8e058fe-92fb-11ee-a42d-bbe6e46bf55b.html#:~:text=House%20Bill%201838)
+
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): ESHB 1838 Transp. revenue forecast
 #### 3 👍 - Pro

@@ -11,11 +11,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
-* 04/22/2023 [House Republicans](/org/house_republicans/) - [An update on the 2023 legislative session | Washington State House Republicans](http://houserepublicans.wa.gov/current/an-update-on-the-2023-legislative-session/#:~:text=Senate%20Bill%205217)
 * 04/22/2023 [House Republicans](/org/house_republicans/) - [An update on the 2023 legislative session | Washington State House Republicans](https://houserepublicans.wa.gov/current/an-update-on-the-2023-legislative-session/#:~:text=Senate%20Bill%205217)
-* 04/08/2023 [House Republicans](/org/house_republicans/) - [State budgets and bad Senate bills | Washington State House Republicans](http://houserepublicans.wa.gov/current/state-budgets-and-bad-senate-bills/#:~:text=Senate%20Bill%205217)
 * 04/08/2023 [House Republicans](/org/house_republicans/) - [State budgets and bad Senate bills | Washington State House Republicans](https://houserepublicans.wa.gov/current/state-budgets-and-bad-senate-bills/#:~:text=Senate%20Bill%205217)
-* 03/11/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 13 - 17, 2023 | Washington State House Republicans](http://houserepublicans.wa.gov/week/march-13-17-2023/#:~:text=SB%205217)
 * 03/11/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 13 - 17, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-13-17-2023/#:~:text=SB%205217)
 
 ## Meetings

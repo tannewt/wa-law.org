@@ -7,9 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 06/26/2023 [House Republicans](/org/house_republicans/) - [Week Ahead | Washington State House Republicans](http://houserepublicans.wa.gov/stay-connected/week-ahead/#:~:text=HB%201849)
 * 06/26/2023 [House Republicans](/org/house_republicans/) - [Week Ahead | Washington State House Republicans](https://houserepublicans.wa.gov/stay-connected/week-ahead/#:~:text=HB%201849)
-* 03/24/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 27 - 31, 2023 | Washington State House Republicans](http://houserepublicans.wa.gov/week/march-27-31-2023/#:~:text=HB%201849)
 * 03/24/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 27 - 31, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-27-31-2023/#:~:text=HB%201849)
 
 ## Meetings

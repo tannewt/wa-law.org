@@ -49,7 +49,7 @@ session = url_history.HistorySession("org-website.db")
 # regular expression pattern to match a date in the format yyyy/mm/dd
 DATE_PATTERN = r"(\d{4})/(\d{2})/(\d{2})"
 
-after_date = arrow.get(2022, 12, 1)
+after_date = arrow.get(2023, 12, 1)
 
 def parse_date(content):
     if not content:

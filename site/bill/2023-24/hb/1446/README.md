@@ -7,9 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 01/28/2023 [House Republicans](/org/house_republicans/) - [Public safety | Washington State House Republicans](http://houserepublicans.wa.gov/current/public-safety/#:~:text=House%20Bill%201446)
 * 01/28/2023 [House Republicans](/org/house_republicans/) - [Public safety | Washington State House Republicans](https://houserepublicans.wa.gov/current/public-safety/#:~:text=House%20Bill%201446)
-* 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](http://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201446)
 * 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201446)
 
 ## Meetings

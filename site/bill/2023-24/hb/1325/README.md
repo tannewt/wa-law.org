@@ -6,8 +6,4 @@
 ## Revisions
 * [Original Bill](1/)
 
-## 📰 Articles
-* 09/11/2023 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Our legislative priorities for 2024 | ACLU of Washington](http://www.aclu-wa.org/pages/2024-legislative-agenda#:~:text=HB%201325)
-* 11/22/2022 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Our legislative priorities for 2023 | ACLU of Washington](http://www.aclu-wa.org/pages/2023-legislative-agenda#:~:text=HB%201325)
-
 ## Meetings

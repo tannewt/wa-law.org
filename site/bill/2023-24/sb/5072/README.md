@@ -11,7 +11,6 @@
 
 ## 📰 Articles
 * 03/06/2023 [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=SSB%205072)
-* 03/04/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead | February 27 - March 3, 2023 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-february-27-march-3/#:~:text=SB%205072)
 * 03/04/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead | February 27 - March 3, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-27-march-3/#:~:text=SB%205072)
 * 02/27/2023 [Washington St Pta](/org/washington_st_pta/) - [Many Bills End Their Journey in 2023 with Fiscal Cutoff - WSPTA](https://www.wastatepta.org/many-bills-end-their-journey-in-2023-with-fiscal-cutoff/#:~:text=SSB%205072)
 * 02/23/2023 [Senate Democrats](/org/senate_democrats/) - [MOCC Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/moccpriorities/#:~:text=SB%205072)

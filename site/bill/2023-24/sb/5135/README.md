@@ -7,7 +7,6 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 11/22/2022 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Our legislative priorities for 2023 | ACLU of Washington](http://www.aclu-wa.org/pages/2023-legislative-agenda#:~:text=SB%205135)
 * 02/01/2019 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Criminal Justice — Quaker Voice](https://www.quakervoicewa.org/criminal-justice/#:~:text=SB%205135)
 
 ## Meetings

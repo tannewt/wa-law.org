@@ -13,7 +13,6 @@
 * 04/10/2023 [MyNorthwest](/org/mynorthwest/) - [Rantz: WA Democrats ban 'hyper-masculine' guns while freeing criminals - MyNorthwest.com](https://mynorthwest.com/3872332/rantz-washington-democrats-ban-guns-violent-criminals-out-of-jail-assault-weapons/#:~:text=HB%201189)
 * 03/28/2023 [The Center Square](/org/the_center_square/) - ['Death of our justice system': Critics object to WA bill on clemency and pardons | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c62568d2-cdb7-11ed-bfd1-a36da1308a75.html#:~:text=House%20Bill%201189)
 * 03/27/2023 [MyNorthwest](/org/mynorthwest/) - [Rantz: Bill by WA Democrats releases scores of murderers from jail early - MyNorthwest.com](https://mynorthwest.com/3861743/rantz-bill-washington-democrat-bill-release-murderers-jail-early/#:~:text=HB%201189)
-* 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](http://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201189)
 * 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201189)
 
 ## Meetings

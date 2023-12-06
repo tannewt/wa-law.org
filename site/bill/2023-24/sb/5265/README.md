@@ -9,6 +9,5 @@
 ## 📰 Articles
 * 04/08/2023 [Senate Democrats](/org/senate_democrats/) - [Assault weapon ban passes Senate, heads back to House for concurrence - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/04/08/assault-weapon-ban-passes-senate-heads-back-to-house-for-concurrence/#:~:text=SB%205265)
 * 01/11/2016 [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=Senate%20Bill%205265)
-* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [2023 Legislative Agenda | Washington State](http://www.atg.wa.gov/2023-legislative-agenda#:~:text=SB%205265)
 
 ## Meetings

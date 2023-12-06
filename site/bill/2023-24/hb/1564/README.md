@@ -18,7 +18,6 @@
 * 03/02/2023 [The Center Square](/org/the_center_square/) - [Bills to protect young people, help crime victims advance in WA Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1ce009d8-b93c-11ed-bade-8b982e7a07ad.html#:~:text=House%20Bill%201564)
 * 02/14/2023 [The Seattle Times](/org/the_seattle_times/) - [WA Legislature considers ban on at-home sexual assault evidence kits | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-legislature-considers-ban-on-at-home-sexual-assault-evidence-kits/#:~:text=House%20Bill%201564)
 * 02/02/2023 [Gorge News Center](/org/gorge_news_center/) - [Mosbrucker bill would ban do-it-yourself rape kits](https://gorgenewscenter.com/2023/02/02/mosbrucker-bill-would-ban-do-it-yourself-rape-kits/#:~:text=House%20Bill%201564)
-* 05/20/2021 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](http://houserepublicans.wa.gov/republican-bills/#:~:text=1564)
 * 05/20/2021 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1564)
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Healthcare](https://crosscut.com/voter-guide/2023-legislative-tracker/election/healthcare#:~:text=House%20Bill%201564)
 

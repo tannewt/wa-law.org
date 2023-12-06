@@ -16,7 +16,6 @@
 * 03/31/2023 [Crosscut](/org/crosscut/) - [WA bill would bring trauma-informed practices to sexual assault cases | Crosscut](https://crosscut.com/politics/2023/03/wa-bill-would-bring-trauma-informed-practices-sexual-assault-cases#:~:text=House%20Bill%201028)
 * 02/20/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB%201028)
 * 01/09/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/09/the-house-hot-sheet-for-week-1-of-the-2023-legislative-session/#:~:text=HB%201028)
-* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson announces the collection of DNA from more than 2,000 violent and sex offenders | Washington State](http://www.atg.wa.gov/news/news-releases/ag-ferguson-announces-collection-dna-more-2000-violent-and-sex-offenders#:~:text=House%20Bill%201028)
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson announces the collection of DNA from more than 2,000 violent and sex offenders | Washington State](https://www.atg.wa.gov/news/news-releases/ag-ferguson-announces-collection-dna-more-2000-violent-and-sex-offenders#:~:text=House%20Bill%201028)
 
 ## Meetings

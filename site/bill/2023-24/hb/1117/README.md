@@ -16,7 +16,6 @@
 * 03/30/2023 [Gorge News Center](/org/gorge_news_center/) - [Six Mosbrucker bills remain alive, advance in Senate after major legislative policy deadline](https://gorgenewscenter.com/2023/03/30/six-mosbrucker-bills-remain-alive-advance-in-senate-after-major-legislative-policy-deadline/#:~:text=House%20Bill%201117%20–%20Power%20supply%20inadequacy:)
 * 03/14/2023 [Gorge News Center](/org/gorge_news_center/) - [Six Mosbrucker bills pass House, sent to Senate](https://gorgenewscenter.com/2023/03/14/six-mosbrucker-bills-pass-house-sent-to-senate/#:~:text=House%20Bill%201117)
 * 03/06/2023 [Gorge News Center](/org/gorge_news_center/) - [Mosbrucker electric grid and motorcycle safety board bills gain unanimous House approval](https://gorgenewscenter.com/2023/03/06/mosbrucker-electric-grid-and-motorcycle-safety-board-bills-gain-unanimous-house-approval/#:~:text=House%20Bill%201117)
-* 05/20/2021 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](http://houserepublicans.wa.gov/republican-bills/#:~:text=1117)
 * 05/20/2021 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1117)
 
 ## Meetings

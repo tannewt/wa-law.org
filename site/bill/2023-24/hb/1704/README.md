@@ -7,15 +7,10 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 11/07/2023 [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201704)
 * 04/18/2023 [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201704)
-* 02/25/2023 [House Republicans](/org/house_republicans/) - [Fiscal committee cutoff | Washington State House Republicans](http://houserepublicans.wa.gov/current/fiscal-committee-cutoff/#:~:text=House%20Bill%201704)
 * 02/25/2023 [House Republicans](/org/house_republicans/) - [Fiscal committee cutoff | Washington State House Republicans](https://houserepublicans.wa.gov/current/fiscal-committee-cutoff/#:~:text=House%20Bill%201704)
-* 02/04/2023 [House Republicans](/org/house_republicans/) - [Tax relief | Washington State House Republicans](http://houserepublicans.wa.gov/current/tax-relief/#:~:text=House%20Bill%201704)
 * 02/04/2023 [House Republicans](/org/house_republicans/) - [Tax relief | Washington State House Republicans](https://houserepublicans.wa.gov/current/tax-relief/#:~:text=House%20Bill%201704)
-* 02/03/2023 [House Republicans](/org/house_republicans/) - [Reducing your cost of living | Washington State House Republicans](http://houserepublicans.wa.gov/sales-tax-relief/#:~:text=House%20bill%201704)
 * 02/03/2023 [House Republicans](/org/house_republicans/) - [Reducing your cost of living | Washington State House Republicans](https://houserepublicans.wa.gov/sales-tax-relief/#:~:text=House%20bill%201704)
-* 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](http://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201704)
 * 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201704)
 
 ## Meetings
