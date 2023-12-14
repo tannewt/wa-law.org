@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 12/11/2023 [FOX13](/org/fox13/) - [Minimum wage, cannabis use, waiting period for guns: New laws going into effect in Washington in 2024](https://www.fox13seattle.com/news/new-laws-washington-state-2024-minimum-wage-sick-leave-gun-laws-voting-rights#:~:text=Senate%20Bill%205123>>)
 * 05/25/2023 [The Center Square](/org/the_center_square/) - [Washington bans pot-based hiring discrimination for most employers | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0f409b04-fb35-11ed-887a-8be49288a110.html#:~:text=Senate%20Bill%205123)
 * 04/27/2023 [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205123)
 * 04/27/2023 [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205123)

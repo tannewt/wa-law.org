@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 12/11/2023 [FOX13](/org/fox13/) - [Minimum wage, cannabis use, waiting period for guns: New laws going into effect in Washington in 2024](https://www.fox13seattle.com/news/new-laws-washington-state-2024-minimum-wage-sick-leave-gun-laws-voting-rights#:~:text=House%20Bill%201048>>)
 * 07/25/2023 [The Center Square](/org/the_center_square/) - [New Washington laws now in effect | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f4e9fa48-2b4a-11ee-9484-3b8d16ce3fcc.html#:~:text=House%20Bill%201048)
 * 07/17/2023 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS / NOTICIAS LEGISLATIVAS: 2023 Session Report from the Washington Latino Democratic Caucus / Informe de la sesión de 2023 del Caucus Demócrata Latino de Washington – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/07/17/legislative-news-noticias-legislativas-2023-session-report-from-the-washington-latino-democratic-caucus-informe-de-la-sesion-de-2023-del-caucus-democrata-latino-de-washington/#:~:text=HB%201048)
 * 06/15/2023 [House Democrats](/org/house_democrats/) - [Celebrating Juneteenth and the fight for racial justice – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/06/15/celebrating-juneteenth-and-the-fight-for-racial-justice/#:~:text=HB%201048)

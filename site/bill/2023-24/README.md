@@ -4,7 +4,7 @@
 ## Heard bills
 * [SB 5236](sb/5236) - Hospital staffing standards 16📰 11619👍 1921👎 112❓ - C 114 L 23
 * [HB 1240](hb/1240) - Firearms/assault weapons 75📰 2828👍 10425👎 26❓ - C 162 L 23
-* [HB 1143](hb/1143) - Firearms/purchase & transfer 41📰 3401👍 8858👎 16❓ - C 161 L 23
+* [HB 1143](hb/1143) - Firearms/purchase & transfer 42📰 3401👍 8858👎 16❓ - C 161 L 23
 * [HB 1469](hb/1469) - Health care services/access 31📰 6406👍 4534👎 9❓ - C 193 L 23
 * [SB 5599](sb/5599) - Protected health care/youth 31📰 567👍 9854👎 28❓ - C 408 L 23
 * [SB 5078](sb/5078) - Firearm industry duties 22📰 3527👍 6549👎 3❓ - C 163 L 23
@@ -74,7 +74,7 @@
 * [SB 5496](sb/5496) - Covenant homeownership prg. 2📰 916👍 364👎 1❓ - S Ways & Means
 * [SB 5203](sb/5203) - Climate change/planning 7📰 1241👍 22👎 2❓ - S Ways & Means
 * [SB 5237](sb/5237) - Education law noncompliance 1📰 16👍 1227👎 6❓ - S Ways & Means
-* [HB 1445](hb/1445) - Law enf. misconduct 3📰 1047👍 193👎 1❓ - H Rules C
+* [HB 1445](hb/1445) - Law enf. misconduct 4📰 1047👍 193👎 1❓ - H Rules C
 * [HB 1459](hb/1459) - PERS & TRS plan 1 adjustment 1📰 1219👍 3👎 11❓ - H Approps
 * [SB 5241](sb/5241) - Health care marketplace 13📰 1138👍 89👎 1❓ - S Rules X
 * [HB 1397](hb/1397) - Dependency 2📰 928👍 295👎 3❓ - H Human Svc, You
@@ -150,7 +150,7 @@
 * [SB 5238](sb/5238) - Academic employee bargaining 611👍 20👎 2❓ - C 115 L 23
 * [SB 5209](sb/5209) - Universal civic duty voting 2📰 33👍 599👎 0❓ - S Rules X
 * [SB 5372](sb/5372) - DNR land 1📰 600👍 11👎 13❓ - S Ways & Means
-* [HB 1048](hb/1048) - Voting rights act 9📰 352👍 267👎 3❓ - C 56 L 23
+* [HB 1048](hb/1048) - Voting rights act 10📰 352👍 267👎 3❓ - C 56 L 23
 * [SB 5169](sb/5169) - Medicare/health care plans 611👍 1👎 3❓ - S Ways & Means
 * [HB 1134](hb/1134) - 988 system 9📰 603👍 2👎 7❓ - C 454 L 23
 * [SB 5114](sb/5114) - Sex trafficking 7📰 599👍 4👎 4❓ - C 268 L 23
@@ -225,7 +225,7 @@
 * [SB 5202](sb/5202) - Housing/capital expenditures 2📰 384👍 14👎 3❓ - S Ways & Means
 * [HB 1129](hb/1129) - Mobile home community sales 5📰 342👍 55👎 0❓ - H Rules R
 * [HB 1849](hb/1849) - Elk management program 2📰 387👍 8👎 1❓ - H Ag&Nr
-* [HB 1580](hb/1580) - Children in crisis 4📰 389👍 2👎 1❓ - C 423 L 23
+* [HB 1580](hb/1580) - Children in crisis 5📰 389👍 2👎 1❓ - C 423 L 23
 * [HB 1268](hb/1268) - Sentencing enhancements 7📰 164👍 218👎 5❓ - H Rules 3C
 * [SB 5235](sb/5235) - Accessory dwelling units 10📰 153👍 215👎 9❓ - S Rules 3
 * [HB 1720](hb/1720) - Riparian grant program 6📰 354👍 8👎 11❓ - H Cap Budget
@@ -659,7 +659,7 @@
 * [HB 1457](hb/1457) - Motor carriers/restrooms 1📰 41👍 0👎 1❓ - C 251 L 23
 * [HB 1593](hb/1593) - RN PTSD/industrial insurance 35👍 1👎 6❓ - H Rules R
 * [HB 1596](hb/1596) - Affordable housing incentive 3📰 41👍 1👎 0❓ - H Rules C
-* [SB 5123](sb/5123) - Cannabis/employment 14📰 20👍 19👎 3❓ - C 359 L 23
+* [SB 5123](sb/5123) - Cannabis/employment 15📰 20👍 19👎 3❓ - C 359 L 23
 * [SB 5299](sb/5299) - Law enf. officer protection 1📰 38👍 4👎 0❓ - S Rules X
 * [SB 5512](sb/5512) - Higher ed. financial reports 42👍 0👎 0❓ - C 98 L 23
 * [SB 5547](sb/5547) - Nursing pool transparency 2📰 42👍 0👎 0❓ - C 100 L 23

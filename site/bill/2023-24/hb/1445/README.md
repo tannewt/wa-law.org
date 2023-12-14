@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 12/06/2023 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [To change bad police department cultures, we need HB 1445 | ACLU of Washington](http://www.aclu-wa.org/story/change-bad-police-department-cultures-we-need-hb-1445#:~:text=House%20Bill%201445)
 * 02/27/2023 [The Center Square](/org/the_center_square/) - [Bill would expand Washington AG's powers against local law enforcement | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_2b0db52a-b6d8-11ed-b30a-e77874c93169.html#:~:text=HB%201445)
 * 02/20/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB%201445)
 * 01/22/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/22/the-house-hot-sheet-for-week-3-of-the-2023-legislative-session/#:~:text=HB%201445)

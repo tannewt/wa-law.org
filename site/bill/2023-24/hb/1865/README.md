@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 12/08/2023 [MyNorthwest](/org/mynorthwest/) - [No auto insurance? 3 strikes could lead to vehicle impound - MyNorthwest.com](https://mynorthwest.com/3942251/no-auto-insurance-3-strikes-could-lead-vehicle-impound/#:~:text=House%20Bill%201865)
+
 ## Meetings

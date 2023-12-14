@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 12/11/2023 [FOX13](/org/fox13/) - [Minimum wage, cannabis use, waiting period for guns: New laws going into effect in Washington in 2024](https://www.fox13seattle.com/news/new-laws-washington-state-2024-minimum-wage-sick-leave-gun-laws-voting-rights#:~:text=House%20Bill%201143>>)
 * 05/12/2023 [South Seattle Emerald](/org/south_seattle_emerald/) - [Gov. Inslee Signs Gun Reform Legislation | South Seattle Emerald](https://southseattleemerald.com/2023/05/12/gov-inslee-signs-gun-reform-legislation/#:~:text=House%20Bill%201143)
 * 04/29/2023 [Wenatchee World](/org/wenatchee_world/) - [With assault weapons ban, Washington enters a new era of gun reform |  | wenatcheeworld.com](https://www.wenatcheeworld.com/with-assault-weapons-ban-washington-enters-a-new-era-of-gun-reform/article_33285b66-e545-11ed-944e-fb8806426d22.html#:~:text=House%20Bill%201143)
 * 04/27/2023 [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=1143)
