@@ -86,6 +86,38 @@ for row in cur:
     bill_path = pathlib.Path(prefix.lower()) / str(bill_number)
     index_lines.append(f"* [{prefix} {bill_number}]({bill_path}) - {description} {articles}{pro}👍 {con}👎 {other}❓ - {status}")
 
+index_lines.append("")
+index_lines.append("## Pending bills")
+cur.execute("SELECT bills.rowid, prefix, number FROM bills LEFT JOIN agenda_items ON bills.rowid = agenda_items.bill_rowid, (SELECT bill_rowid, MIN(modified_time) as modified_time FROM revisions GROUP BY bill_rowid ORDER BY modified_time ASC) as revision ON bills.rowid = revision.bill_rowid WHERE agenda_items.rowid IS NULL ORDER BY revision.modified_time DESC")
+for row in cur:
+    prefix = row[1]
+    bill_number = row[2]
+    status = db.cursor()
+    status.execute("SELECT status from bill_status, bill_statuses WHERE bill_rowid = ? AND bill_status_rowid = bill_statuses.rowid ORDER BY action_date DESC LIMIT 1", (row[0],))
+    status = status.fetchone()
+    if status:
+        status = status[0]
+    else:
+        status = ""
+    latest_revision = db.cursor()
+    latest_revision.execute("SELECT description FROM revisions WHERE bill_rowid = ? ORDER BY modified_time DESC", (row[0],))
+    description = latest_revision.fetchone()[0]
+    
+    articles = db.cursor()
+    articles.execute("SELECT COUNT(web_articles.url) FROM web_articles WHERE bill_rowid = ?", (row[0],))
+    articles = articles.fetchone()[0]
+    if articles > 0:
+        articles = f"{articles}📰 "
+    else:
+        articles = ""
+
+    bill_path = pathlib.Path(prefix.lower()) / str(bill_number)
+    index_lines.append(f"* [{prefix} {bill_number}]({bill_path}) - {description} {articles}- {status}")
+
+
+
+
+
 
 bills_index = bills_path / "README.md"
 bills_index.write_text("\n".join(index_lines))

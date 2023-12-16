@@ -1231,3 +1231,504 @@
 * [SB 5620](sb/5620) - EV charging/line extensions 1👍 0👎 0❓ - S Transportation
 * [SB 5630](sb/5630) - Residential services rate 1👍 0👎 0❓ - S Ways & Means
 * [SB 5677](sb/5677) - Walla Walla sweet onion day 1👍 0👎 0❓ - S Rules X
+
+## Pending bills
+* [SB 5840](sb/5840) - Concerning leases. - S Prefiled
+* [SB 5839](sb/5839) - Modifying the working families' tax credit by clarifying the refundable nature of the credit, the application requirements, and the eligibility verification process. - S Prefiled
+* [SB 5837](sb/5837) - Codifying the state election database to publish, evaluate, and analyze certain election data. - S Prefiled
+* [SB 5838](sb/5838) - Establishing an artificial intelligence task force. - S Prefiled
+* [SB 5836](sb/5836) - Adding an additional superior court judge in Clark county. - S Prefiled
+* [SB 5835](sb/5835) - Concerning transparency in rule making. - S Prefiled
+* [HB 1932](hb/1932) - Shifting general elections for local governments to even-numbered years to increase voter participation. - H Prefiled
+* [HB 1931](hb/1931) - Addressing financial aid grants for incarcerated students. - H Prefiled
+* [HB 1929](hb/1929) - Supporting young adults following inpatient behavioral health treatment. - H Prefiled
+* [HB 1930](hb/1930) - Obtaining and sharing investigative information and aligning provisions with current operations and practices of the office of independent investigations. - H Prefiled
+* [HB 1928](hb/1928) - Regulating service contracts and protection product guarantees. - H Prefiled
+* [SB 5834](sb/5834) - Concerning urban growth areas. - S Prefiled
+* [SB 5833](sb/5833) - Court reorganization notices - S Prefiled
+* [SB 5831](sb/5831) - Vintage snowmobiles - S Prefiled
+* [SB 5832](sb/5832) - Campaign finance/foreign - S Prefiled
+* [SB 5830](sb/5830) - Commission on boys and men - S Prefiled
+* [SB 5829](sb/5829) - Congenital cytomegalovirus - S Prefiled
+* [SB 5827](sb/5827) - Superior court/Whatcom - S Prefiled
+* [SB 5828](sb/5828) - Water rights commissioners - S Prefiled
+* [SB 5826](sb/5826) - Utility bills/CCA charges - S Prefiled
+* [SB 5825](sb/5825) - Guardianship - S Prefiled
+* [SB 5824](sb/5824) - Dissolution of libraries - S Prefiled
+* [SB 5823](sb/5823) - School district elections - S Prefiled
+* [SB 5822](sb/5822) - Physicians health prg. fees - S Prefiled
+* [HB 1927](hb/1927) - Reducing the number of days that a worker's temporary total disability must continue to receive industrial insurance compensation for the day of an injury and the three-day period following the injury. - H Prefiled
+* [HB 1926](hb/1926) - Concerning supervision compliance credit. - H Prefiled
+* [HB 1925](hb/1925) - Expanding the veterans service officer program to increase veteran support statewide. - H Prefiled
+* [HB 1924](hb/1924) - Promoting the integration of fusion technology within state clean energy policies. - H Prefiled
+* [HB 1922](hb/1922) - Vape detectors/schools - H Prefiled
+* [HB 1923](hb/1923) - Adjusting funded special education enrollment. - H Prefiled
+* [HB 1921](hb/1921) - Prohibiting the use of certain substances in food. - H Prefiled
+* [HB 1920](hb/1920) - Public accountancy act - H Prefiled
+* [HB 1919](hb/1919) - Modifying the process by which a private moorage facility may sell an abandoned vessel for failure to pay moorage fees. - H Prefiled
+* [HB 1918](hb/1918) - Limiting the annual percentage rate for payday lending to 36 percent and making other modifications to small loans under the payday lending laws. - H Prefiled
+* [HB 1917](hb/1917) - Physician assistant compact - H Prefiled
+* [HB 1916](hb/1916) - Concerning funding for the early support for infants and toddlers program. - H Prefiled
+* [SB 5821](sb/5821) - Audio-only telemedicine - S Prefiled
+* [SB 5820](sb/5820) - Establishing protections for citizens participating in the initiative and referendum process. 2📰 - S Prefiled
+* [SB 5819](sb/5819) - Financial education - S Prefiled
+* [SB 5818](sb/5818) - Authorizing an exemption to the seashore conservation area for a qualified infrastructure project. - S Prefiled
+* [SB 5816](sb/5816) - Alcohol server permits - S Prefiled
+* [SB 5817](sb/5817) - Economic development info. - S Prefiled
+* [HB 1914](hb/1914) - Improving the education of students with varying abilities by enhancing special education services. - H Prefiled
+* [HB 1915](hb/1915) - Making financial education instruction a graduation prerequisite and a required component of public education. - H Prefiled
+* [HB 1913](hb/1913) - Expiring the international services tax preference. - H Prefiled
+* [HB 1900](hb/1900) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system. - H Prefiled
+* [HB 1896](hb/1896) - Tourism marketing funding - H Prefiled
+* [HB 1885](hb/1885) - Strengthening campaign finance disclosure by prohibiting campaign contributions and expenditures by foreign-influenced corporations. - H Prefiled
+* [SB 5814](sb/5814) - Concerning coverage of prescription drugs for advanced metastatic cancer. - S Prefiled
+* [SB 5815](sb/5815) - Concerning the physician assistant compact. - S Prefiled
+* [SB 5812](sb/5812) - Concerning the response to electric vehicle fires. - S Prefiled
+* [SB 5813](sb/5813) - Mandating instruction on agricultural literacy for students in grades seven through 12. - S Prefiled
+* [SB 5811](sb/5811) - Expanding the definition of family member for individual providers. - S Prefiled
+* [HB 1911](hb/1911) - Concerning activities in which the office of public defense may engage without violating the prohibition on providing direct representation of clients. - H Prefiled
+* [HB 1912](hb/1912) - Requiring state agencies to share information to encourage economic development. - H Prefiled
+* [HB 1910](hb/1910) - Concerning pawnbroker fees and interest rates. - H Prefiled
+* [HB 1908](hb/1908) - Supporting the clean energy transition by providing a framework for financial assistance to utility-scale emission-reducing electricity generation or storage projects. - H Prefiled
+* [HB 1909](hb/1909) - Adjusting the membership of the pharmacy quality assurance commission. - H Prefiled
+* [HB 1906](hb/1906) - Changing the vessel length requirement in obtaining nonresident vessel permits. - H Prefiled
+* [HB 1907](hb/1907) - Creating a medical assistant-EMT certification. - H Prefiled
+* [HB 1905](hb/1905) - Including protected classes in the Washington equal pay and opportunities act. - H Prefiled
+* [HB 1879](hb/1879) - Naming the curriculum used to inform students about tribal history, culture, and government after John McCoy (lulilaš). - H Prefiled
+* [HB 1880](hb/1880) - Architecture licensing exams - H Prefiled
+* [HB 1869](hb/1869) - Enacting the keeping our Washington guard strong act. - H Prefiled
+* [HB 1874](hb/1874) - Protecting consumers from predatory loans. - H Prefiled
+* [HB 1904](hb/1904) - Hybrid electric ferries - H Prefiled
+* [HB 1902](hb/1902) - Firearms/purchase & transfer 1📰 - H Prefiled
+* [HB 1903](hb/1903) - Lost or stolen firearms 1📰 - H Prefiled
+* [HB 1901](hb/1901) - Removing the sunset on changes to the unemployment insurance voluntary contribution program. - H Prefiled
+* [SB 5809](sb/5809) - Charter schools/enrichment - S Prefiled
+* [SB 5810](sb/5810) - Clarifying the collective bargaining unit for interpreters providing language access services to certain state agencies. - S Prefiled
+* [SB 5807](sb/5807) - Housing authorities - S Prefiled
+* [SB 5808](sb/5808) - Granting interest arbitration to certain public safety telecommunicators. - S Prefiled
+* [SB 5805](sb/5805) - Developing a schedule for court appointment of attorneys for children and youth in dependency and termination proceedings. - S Prefiled
+* [SB 5806](sb/5806) - Concerning the confidentiality of insurance company data. - S Prefiled
+* [SB 5803](sb/5803) - Concerning the recruitment and retention of Washington national guard members. - S Prefiled
+* [SB 5804](sb/5804) - Concerning opioid overdose reversal medication in high schools. - S Prefiled
+* [SB 5802](sb/5802) - Providing flexibility in calculation of nursing rates. - S Prefiled
+* [HB 1898](hb/1898) - Concerning unemployment insurance benefit charging. - H Prefiled
+* [HB 1899](hb/1899) - Facilitating reconstruction of communities damaged or destroyed by wildfires. - H Prefiled
+* [HB 1897](hb/1897) - Charter schools/enrichment - H Prefiled
+* [HB 1894](hb/1894) - Modifying provisions of the business licensing service program. - H Prefiled
+* [HB 1895](hb/1895) - Modifying the working families' tax credit by clarifying the refundable nature of the credit, the application requirements, and the eligibility verification process. - H Prefiled
+* [HB 1892](hb/1892) - Concerning the workforce housing accelerator program. - H Prefiled
+* [HB 1893](hb/1893) - Unemp ins/strikes & lockouts - H Prefiled
+* [HB 1890](hb/1890) - Housing authorities - H Prefiled
+* [HB 1891](hb/1891) - Maintaining the safety of children when a parent has a substance use disorder. - H Prefiled
+* [HB 1889](hb/1889) - Allowing persons to receive professional licenses and certifications regardless of immigration or citizenship status. - H Prefiled
+* [HB 1887](hb/1887) - Climate cmit. act/consumers - H Prefiled
+* [HB 1888](hb/1888) - Newborn safe transfer - H Prefiled
+* [HB 1886](hb/1886) - Concerning prearrangement funeral services. - H Prefiled
+* [HB 1884](hb/1884) - Concerning coverage of prescription drugs for advanced metastatic cancer. - H Prefiled
+* [HB 1883](hb/1883) - Concerning employer tax incentives for paying wages to employees during juror service. - H Prefiled
+* [SB 5799](sb/5799) - Sale of halal foods - S Prefiled
+* [SB 5801](sb/5801) - Special deposits - S Prefiled
+* [SB 5800](sb/5800) - Improving access to department of licensing issued documents by clarifying the application requirements for a minor, modifying the requirements for at-cost identicards, and studying the feasibility of reduced-fee identicards. - S Prefiled
+* [SB 5798](sb/5798) - Extending certain insurance notice requirements. - S Prefiled
+* [SB 5797](sb/5797) - Concerning fines levied upon authorized insurers. - S Prefiled
+* [SB 5796](sb/5796) - Common interest communities - S Prefiled
+* [SB 5794](sb/5794) - Architecture licensing exams - S Prefiled
+* [SB 5795](sb/5795) - Year-round Pacific std. time - S Prefiled
+* [SB 5793](sb/5793) - Paid sick leave - S Prefiled
+* [SB 5792](sb/5792) - Concerning the definition of multiunit residential buildings. - S Prefiled
+* [SB 5791](sb/5791) - Concerning the evaluation of the effectiveness of oral fluid roadside information in the enforcement of driving under the influence laws. - S Prefiled
+* [SB 5790](sb/5790) - Bleeding control/schools - S Prefiled
+* [SB 5789](sb/5789) - Concerning the sales and use tax for school construction assistance program capital projects. - S Prefiled
+* [HB 1871](hb/1871) - Concerning the Washington state ferries' treatment of employees and applicants without consideration of COVID-19 vaccines. - H Prefiled
+* [HB 1882](hb/1882) - Even-numbered year elections - H Prefiled
+* [HB 1881](hb/1881) - Establishing a uniform standard for creating an established relationship for the purposes of coverage of audio-only telemedicine services. - H Prefiled
+* [HB 1877](hb/1877) - Improving the Washington state behavioral health system for better coordination and recognition with the Indian behavioral health system. - H Prefiled
+* [HB 1878](hb/1878) - Preserving seniority for state employees who are reemployed. - H Prefiled
+* [HB 1876](hb/1876) - Concerning confidential fisheries information collected by other states and maintaining that confidentiality under the public records act. - H Prefiled
+* [HB 1875](hb/1875) - Increasing protections for child welfare workers. - H Prefiled
+* [HB 1873](hb/1873) - Concerning office of public defense social service workers for parents in child welfare cases. - H Prefiled
+* [HB 1870](hb/1870) - Promoting economic development by increasing opportunities for local communities to secure federal funding. - H Prefiled
+* [HB 1872](hb/1872) - Establishing accountability requirements for homeless housing grant programs. - H Prefiled
+* [HB 1868](hb/1868) - Power equipment emissions - H Prefiled
+* [HB 1867](hb/1867) - Eliminating the estate tax filing requirement for certain estates involving a qualifying familial residence. - H Prefiled
+* [SB 5788](sb/5788) - Service animal training - S Prefiled
+* [SB 5787](sb/5787) - Electronic estate planning - S Prefiled
+* [SB 5785](sb/5785) - Concerning department of fish and wildlife authority with regard to certain nonprofit and volunteer organizations. - S Prefiled
+* [SB 5786](sb/5786) - Business corporations - S Prefiled
+* [SB 5784](sb/5784) - Deer & elk crop damage - S Prefiled
+* [SB 5783](sb/5783) - Climate cmit. act/consumers - S Prefiled
+* [SB 5782](sb/5782) - Evaluating the provision of right to counsel services. - S Prefiled
+* [SB 5780](sb/5780) - Public defense training - S Prefiled
+* [SB 5781](sb/5781) - Establishing a law student rural public defense program. - S Prefiled
+* [SB 5778](sb/5778) - Employer political speech - S Prefiled
+* [SB 5779](sb/5779) - Concerning the public records exemptions accountability committee. - S Prefiled
+* [SB 5777](sb/5777) - Unemp ins/strikes & lockouts - S Prefiled
+* [SB 5775](sb/5775) - Concerning cost-sharing requirements for prescription epinephrine autoinjectors. - S Prefiled
+* [SB 5776](sb/5776) - Accessing an emergency supply of insulin. - S Prefiled
+* [SB 5774](sb/5774) - Increasing the capacity to conduct timely fingerprint-based background checks for prospective child care employees and other programs. - S Prefiled
+* [HB 1865](hb/1865) - Modifying enforcement of motor vehicle liability insurance and fiscal responsibilities. 1📰 - H Prefiled
+* [HB 1866](hb/1866) - Concerning the academic and support needs of children of seasonal farmworkers. - H Prefiled
+* [HB 1863](hb/1863) - Concerning payment for surveys of state-owned aquatic lands by current or prospective lessees of such lands. - H Prefiled
+* [HB 1864](hb/1864) - Limiting the monetary assistance an indigent person may receive from the ignition interlock device revolving account program. - H Prefiled
+* [HB 1862](hb/1862) - Providing tax exemptions for the assistance of disabled veterans and members of the armed forces of the United States of America. - H Prefiled
+* [SB 5773](sb/5773) - Public defense services - S Prefiled
+* [HB 1861](hb/1861) - Improving meaningful access to elections by increasing language assistance. - H State Govt & T
+* [HB 1860](hb/1860) - Establishing stay-to-play requirements.  - H ConsPro&Bus
+* [SB 5772](sb/5772) - Requiring the state building code council to amend the state energy code to comply with the energy policy and conservation act. 1📰 - S State Govt & El
+* [SB 5771](sb/5771) - Providing consumer relief for the climate commitment act. - S Transportation
+* [HB 1859](hb/1859) - Concerning the rights of residents in long-term care facilities. - H HC/Wellness
+* [HB 1858](hb/1858) - Naval Academy license plates - H Transportation
+* [HB 1857](hb/1857) - Low-risk pesticides/B&O tax - H Finance
+* [HB 1856](hb/1856) - Transparency ombuds study 2📰 - H State Govt & Tr
+* [HB 1855](hb/1855) - Preventative health care - H HC/Wellness
+* [SB 5770](sb/5770) - Property tax 9📰 - S Ways & Means
+* [SB 5769](sb/5769) - Climate act price ceiling 1📰 - S Environment, En
+* [HB 1854](hb/1854) - DOC/abortion medications - H Approps
+* [SB 5767](sb/5767) - Hospital exec. excise tax 1📰 - S Ways & Means
+* [HB 1852](hb/1852) - I-5 bridge tolling - H Transportation
+* [HB 1848](hb/1848) - Broadband equipment/tax - H Finance
+* [SB 5762](sb/5762) - State berry, blueberry - S State Govt & El
+* [SB 5761](sb/5761) - Broadband equipment/tax - S Environment, En
+* [HB 1845](hb/1845) - Crime victims ombuds 1📰 - H State Govt & T
+* [SB 5759](sb/5759) - Renewable energy loans - S Environment, E
+* [SB 5758](sb/5758) - Electromagnetic attacks - S Environment, En
+* [HB 1844](hb/1844) - Right of action/officials - H Civil R & Judi
+* [SB 5756](sb/5756) - Fuel tax suspension - S Transportation
+* [HB 1843](hb/1843) - School district elections - H Education
+* [SB 5757](sb/5757) - Transp. revenue forecast - S Transportation
+* [SB 5755](sb/5755) - Unmanned aircraft/government - S Law & Justice
+* [SB 5754](sb/5754) - Agricultural real estate - S Law & Justice
+* [HB 1842](hb/1842) - Ferry system salary comps. - H Labor & Workpl
+* [HB 1841](hb/1841) - Ferries/workforce shortages - H Transportation
+* [HB 1840](hb/1840) - Catalytic converter theft - H Community Safe
+* [HB 1836](hb/1836) - Waste heat - H Env & Energy
+* [HB 1835](hb/1835) - Frontier counties - H Innov, Comm & E
+* [HB 1837](hb/1837) - Contraception vend. machines - H Postsec Ed & W
+* [SB 5752](sb/5752) - Procurement/jt. op. agencies - S Environment, En
+* [SB 5747](sb/5747) - Projectile stun guns - S Law & Justice
+* [SB 5746](sb/5746) - PRA/employee information - S State Govt & E
+* [SB 5744](sb/5744) - Plumbing supervision - S Labor & Comm
+* [HB 1828](hb/1828) - Juveniles/decline hearings - H Human Svc, Yout
+* [HB 1826](hb/1826) - Party preferences 1📰 - H State Govt & Tr
+* [HB 1827](hb/1827) - Vaccination status - H Civil R & Judi
+* [HB 1825](hb/1825) - Teacher comp./state schools - H Approps
+* [SB 5745](sb/5745) - Use of a stolen firearm - S Law & Justice
+* [SB 5739](sb/5739) - Sex. violent predator notice 2📰 - S Human Services
+* [HB 1820](hb/1820) - Local sales tax uses - H Local Govt
+* [HB 1819](hb/1819) - K-12 music instruction - H Education
+* [HB 1809](hb/1809) - Definition of food - H Finance
+* [HB 1816](hb/1816) - Ballot forwarding - H State Govt & T
+* [HB 1814](hb/1814) - Vaccine mandate/reemployment - H Labor & Workpl
+* [HB 1813](hb/1813) - Community transition facs. 1📰 - H Community Safe
+* [SB 5731](sb/5731) - Amateur sports officials - S Law & Justice
+* [HB 1805](hb/1805) - Robbery in the second degree - H Community Safet
+* [HB 1802](hb/1802) - Minors in possession - H Community Safet
+* [HB 1801](hb/1801) - COVID-19 vaccine/state empl. - H Labor & Workpla
+* [HB 1800](hb/1800) - Graffiti - H Community Safet
+* [HB 1798](hb/1798) - Earned release time - H Community Safe
+* [HB 1796](hb/1796) - Mobile homes/prop. tax ex. - H Finance
+* [HB 1794](hb/1794) - Research and development - H Finance
+* [SB 5715](sb/5715) - Senior citizens/prop. taxes - S Ways & Means
+* [HB 1788](hb/1788) - Health care/minors - H HC/Wellness
+* [HB 1780](hb/1780) - Climate comm. act/fuel use 1📰 - H Env & Energy
+* [SB 5728](sb/5728) - Fuels/climate commit. act 1📰 - S Environment, En
+* [SB 5724](sb/5724) - Fire service training - S State Govt & El
+* [SB 5708](sb/5708) - Microenterprise home kitchen - S Ag/Water/Natur
+* [SB 5706](sb/5706) - Employee-union privilege - S Law & Justice
+* [SB 5704](sb/5704) - Fund-raising activities - S Business, Fin
+* [HB 1773](hb/1773) - Apprenticeship objections - H Labor & Workpl
+* [HB 1770](hb/1770) - Unlawful firearm possession - H Civil R & Judi
+* [HB 1769](hb/1769) - Juvenile records - H Human Svc, You
+* [HB 1760](hb/1760) - Disability/civil actions - H Civil R & Judi
+* [SB 5717](sb/5717) - Industrial ins. compliance - S Labor & Comm
+* [SB 5713](sb/5713) - Certain schools/reg. factors - S EL/K-12
+* [SB 5682](sb/5682) - State hospitals/police costs - S Law & Justice
+* [SB 5680](sb/5680) - Seismic safety/schools - S EL/K-12
+* [SB 5681](sb/5681) - Senior property tax/medicare - S Ways & Means
+* [SB 5678](sb/5678) - Firearms safety/K-12 - S EL/K-12
+* [SB 5679](sb/5679) - Property tax exem./income - S Ways & Means
+* [SB 5675](sb/5675) - Fish and wildlife commission - S Ag/Water/Natur
+* [SB 5669](sb/5669) - Firearms/individual right - S Law & Justice
+* [SB 5701](sb/5701) - Expanding the definition of designated forestland. - S Ag/Water/Natura
+* [SB 5698](sb/5698) - Establishing the state cactus. - S State Govt & El
+* [SB 5695](sb/5695) - Eliminating child marriage. - S Law & Justice
+* [SB 5692](sb/5692) - Enrichment levy authority - S EL/K-12
+* [SB 5686](sb/5686) - Senior citizens local tax - S Loc Gov, Land U
+* [SB 5685](sb/5685) - Dental therapy - S Health & Long
+* [HB 1734](hb/1734) - Alt. placement contracting 1📰 - H Community Safe
+* [HB 1721](hb/1721) - Skill center class size - H Approps
+* [HB 1755](hb/1755) - Democracy voucher program 2📰 - H State Govt & Tr
+* [HB 1754](hb/1754) - Evaluating the performance of the department of children, youth, and families in delivering child welfare services. - H Human Svc, Yout
+* [HB 1752](hb/1752) - Modifying the application of the annual consumptive quantity calculation to change applications related to certain water rights held by the United States bureau of reclamation. - H Ag&Nr
+* [HB 1751](hb/1751) - Concerning siting of sex offender and sexually violent predator facilities. - H Community Safet
+* [HB 1749](hb/1749) - Promoting instruction in public schools about the historical and cultural contributions of Filipino Americans. - H Education
+* [HB 1748](hb/1748) - Small rural hospital payment - H HC/Wellness
+* [HB 1747](hb/1747) - Seismic safety/schools 1📰 - H Cap Budget
+* [HB 1741](hb/1741) - Prototypical school formulas 2📰 - H Approps
+* [HB 1719](hb/1719) - I-405 express & HOV lanes - H Transportation
+* [HB 1718](hb/1718) - Parks/health & wellness - H HC/Wellness
+* [HB 1710](hb/1710) - Tutoring & extended learning 1📰 - H Approps
+* [HB 1708](hb/1708) - Ballots/online portal - H State Govt & T
+* [HB 1704](hb/1704) - Sales and use tax rate 5📰 - H Finance
+* [HB 1703](hb/1703) - Local property tax levies - H Local Govt
+* [SB 5676](sb/5676) - Behavioral health siting - S Health & Long T
+* [SB 5643](sb/5643) - Personal data rights charter - S Environment, E
+* [HB 1680](hb/1680) - Rural library districts - H Finance
+* [HB 1697](hb/1697) - Early achievers, voluntary - H Human Svc, You
+* [HB 1689](hb/1689) - Forest practices in cities - H Ag&Nr
+* [HB 1691](hb/1691) - Eluding a police vehicle - H Community Safe
+* [SB 5665](sb/5665) - Hospitals/guardianship - S Law & Justice
+* [SB 5661](sb/5661) - Skill center class sizes - S EL/K-12
+* [SB 5656](sb/5656) - School security grants - S EL/K-12
+* [SB 5653](sb/5653) - Minors & parents/rights - S EL/K-12
+* [SB 5654](sb/5654) - Fur products - S Ag/Water/Natura
+* [SB 5633](sb/5633) - Physician assistant collab. - S Health & Long
+* [SB 5615](sb/5615) - Rent controls/local gov. - S Loc Gov, Land
+* [SB 5612](sb/5612) - Cultural access programs/tax - S Loc Gov, Land
+* [HB 1671](hb/1671) - Military service/false claim - H State Govt & Tr
+* [HB 1662](hb/1662) - Sole community hospitals - H Approps
+* [HB 1659](hb/1659) - Carbon market prices - H Env & Energy
+* [HB 1675](hb/1675) - School safety dashboard - H Education
+* [HB 1672](hb/1672) - Veterans' org./spirits tax - H Reg Subst & Ga
+* [HB 1669](hb/1669) - Auto theft authority account - H Approps
+* [HB 1665](hb/1665) - Pharmacist treatment - H HC/Wellness
+* [HB 1667](hb/1667) - Prevailing wage - H Labor & Workpl
+* [HB 1664](hb/1664) - Env. justice council/rural - H Env & Energy
+* [HB 1654](hb/1654) - Behavior support homes - H Human Svc, You
+* [SB 5646](sb/5646) - Unattended children/vehicle - S Law & Justice
+* [SB 5645](sb/5645) - Stormwater facilities/county - S Loc Gov, Land U
+* [SB 5639](sb/5639) - LTSS trust exemptions/recert 1📰 - S Labor & Comm
+* [SB 5638](sb/5638) - Lake and beach districts - S Loc Gov, Land U
+* [HB 1649](hb/1649) - Prejudgment interest - H Civil R & Judi
+* [HB 1631](hb/1631) - Illegal racing - H Civil R & Judi
+* [SB 5628](sb/5628) - Water right transfers - S Ag/Water/Natura
+* [SB 5587](sb/5587) - Sports wagering 1📰 - S Business, Fin
+* [SB 5585](sb/5585) - Mental health professionals - S Health & Long
+* [SB 5584](sb/5584) - SR 520 tolls - S Transportation
+* [SB 5571](sb/5571) - Public records act requests - S State Govt & E
+* [SB 5568](sb/5568) - Liquor revenue/local gov. - S Labor & Comm
+* [HB 1610](hb/1610) - Public health/consumers - H State Govt & T
+* [HB 1630](hb/1630) - Sports wagering - H Reg Subst & Gam
+* [HB 1629](hb/1629) - Firearm transfers to museums - H Civil R & Judi
+* [HB 1625](hb/1625) - Rent controls/local gov. - H Housing
+* [HB 1616](hb/1616) - Personal data rights charter 1📰 - H Civil R & Judi
+* [HB 1613](hb/1613) - Controlled sub. possession - H Community Safe
+* [HB 1608](hb/1608) - Anaphylaxis meds./schools 1📰 - H Education
+* [HB 1607](hb/1607) - Juvenile statements - H Human Svc, You
+* [HB 1605](hb/1605) - Small districts/skill center - H Approps
+* [HB 1604](hb/1604) - Custom farming/B&O tax - H Finance
+* [HB 1602](hb/1602) - Communications/criminal - H Community Safe
+* [HB 1601](hb/1601) - Parental rights 1📰 - H Civil R & Judi
+* [HB 1598](hb/1598) - Jury diversity - H Civil R & Judi
+* [HB 1597](hb/1597) - Public records act requests 1📰 - H State Govt & T
+* [SB 5608](sb/5608) - Medical use of cannabis - S Labor & Comm
+* [SB 5605](sb/5605) - Lead in cookware - S Environment, E
+* [SB 5596](sb/5596) - Public health/consumers - S Health & Long
+* [SB 5574](sb/5574) - Pay per mile fee system - S Transportation
+* [SB 5544](sb/5544) - Alt. placement contracting 1📰 - S Human Services
+* [SB 5545](sb/5545) - Journey level electricians - S Labor & Comm
+* [HB 1553](hb/1553) - Batteries/environment - H Env & Energy
+* [HB 1549](hb/1549) - AP course options - H Education
+* [HB 1546](hb/1546) - Chronic pain/good faith - H HC/Wellness
+* [HB 1545](hb/1545) - Vaccination/online students - H Postsec Ed & W
+* [HB 1538](hb/1538) - Special district malfeasance - H Community Safe
+* [HB 1535](hb/1535) - Gubernatorial proclamations 13📰 - H State Govt & T
+* [HB 1529](hb/1529) - Horse racing/funding - H Approps
+* [HB 1528](hb/1528) - Adult protective services - H Human Svc, You
+* [SB 5567](sb/5567) - Vol. firefighter pensions - S Ways & Means
+* [SB 5564](sb/5564) - Missing persons reward prg. - S Law & Justice
+* [SB 5556](sb/5556) - Naselle Youth Camp property - S State Govt & El
+* [SB 5558](sb/5558) - Rights of parents - S EL/K-12
+* [SB 5552](sb/5552) - Military exercises/parks - S Ag/Water/Natur
+* [SB 5549](sb/5549) - Electric security alarms - S Loc Gov, Land
+* [HB 1594](hb/1594) - Residential electrician cert - H Labor & Workpla
+* [HB 1592](hb/1592) - Ranked choice pres. primary 1📰 - H State Govt & T
+* [HB 1574](hb/1574) - Methane/agriculture - H Ag&Nr
+* [HB 1571](hb/1571) - Nursing facility rates 1📰 - H Approps
+* [SB 5535](sb/5535) - Air pollution/human health - S Environment, E
+* [SB 5529](sb/5529) - Domestic workers - S Labor & Comm
+* [SB 5525](sb/5525) - Dependency - S Human Services
+* [SB 5519](sb/5519) - Health care cost board 2📰 - S Health & Long
+* [SB 5511](sb/5511) - K-12 education funding 1📰 - S EL/K-12
+* [SB 5510](sb/5510) - Vehicle inspection backlog - S Transportation
+* [HB 1523](hb/1523) - Agricultural overtime - H Labor & Workpl
+* [HB 1520](hb/1520) - Fentanyl - H Community Safe
+* [HB 1502](hb/1502) - PFML job protection study - H Labor & Workpl
+* [HB 1496](hb/1496) - Naselle Youth Camp property - H State Govt & T
+* [HB 1495](hb/1495) - ARNP, PA, & MD reimbursement - H HC/Wellness
+* [SB 5492](sb/5492) - Health care afford./medicare - S Health & Long
+* [SB 5540](sb/5540) - Medicaid reprocurement - S Health & Long T
+* [SB 5521](sb/5521) - RV & park trailers/insignia - S Labor & Comm
+* [HB 1463](hb/1463) - State employee transport. - H State Govt & T
+* [HB 1461](hb/1461) - Eastern WA law enf. training - H Community Safe
+* [HB 1456](hb/1456) - Definition of theft - H Community Safe
+* [SB 5500](sb/5500) - Aircraft maintenance/tax - S Ways & Means
+* [HB 1483](hb/1483) - Providing property tax relief by reducing both parts of the state school levies. 5📰 - H Finance
+* [HB 1472](hb/1472) - Motor vehicle sales tax - H Approps
+* [HB 1467](hb/1467) - Property infill/GMA - H Local Govt
+* [HB 1464](hb/1464) - Ransomware/state - H State Govt & T
+* [SB 5446](sb/5446) - Firearms/local government 1📰 - S Law & Justice
+* [SB 5444](sb/5444) - Firearm sensitive places - S Law & Justice
+* [HB 1429](hb/1429) - Educational employee strikes - H Labor & Workpla
+* [HB 1434](hb/1434) - DOH facilities/enforcement - H HC/Wellness
+* [HB 1423](hb/1423) - Trust land transfer program - H Cap Budget
+* [HB 1415](hb/1415) - Controlled sub. possession 3📰 - H Community Safe
+* [HB 1410](hb/1410) - Hate crimes & bias incidents 2📰 - H Civil R & Judi
+* [HB 1409](hb/1409) - Building code classif. - H Local Govt
+* [HB 1404](hb/1404) - State building code council - H Local Govt
+* [HB 1400](hb/1400) - Property exempt from exec. - H Civil R & Judi
+* [HB 1398](hb/1398) - Economic development info. - H Labor & Workpl
+* [SB 5479](sb/5479) - Long-term care/referendum - S Labor & Comm
+* [SB 5475](sb/5475) - Prior juvenile offenses 1📰 - S Law & Justice
+* [SB 5472](sb/5472) - Hard-to-place job seekers - S Labor & Comm
+* [SB 5469](sb/5469) - Covenant homeownership prg. - S Housing
+* [SB 5463](sb/5463) - Juvenile access to attorney - S Human Services
+* [SB 5461](sb/5461) - WSDOT graffiti removal order - S Law & Justice
+* [SB 5455](sb/5455) - Competitive telecomm. - S Environment, E
+* [SB 5450](sb/5450) - Parenting plans - S Law & Justice
+* [SB 5443](sb/5443) - Lien priority/mortgages - S Law & Justice
+* [SB 5422](sb/5422) - Behavioral health/schools - S Health & Long
+* [SB 5416](sb/5416) - Building code classif. - S State Govt & E
+* [SB 5413](sb/5413) - Housing for essential needs 2📰 - S Human Services
+* [SB 5411](sb/5411) - Naturopathic physician scope - S Health & Long
+* [SB 5410](sb/5410) - Geoduck task force 1📰 - S Ag/Water/Natur
+* [HB 1382](hb/1382) - Comm. transition services - H Human Svc, You
+* [HB 1383](hb/1383) - Early release petitions/juv. - H Community Safe
+* [HB 1379](hb/1379) - Health provider contracting 2📰 - H HC/Wellness
+* [HB 1376](hb/1376) - School practice standards - H Education
+* [HB 1373](hb/1373) - Illegal encampment removal 3📰 - H Housing
+* [HB 1372](hb/1372) - Electrification/gas emission - H State Govt & T
+* [HB 1366](hb/1366) - First-time home buyers - H Cap Budget
+* [SB 5354](sb/5354) - Social worker licensing - S Health & Long
+* [SB 5352](sb/5352) - Vehicular pursuits 44📰 - C 235 L 23
+* [HB 1315](hb/1315) - Legal newspapers - H Civil R & Judi
+* [HB 1314](hb/1314) - Polychlorinated biphenyls - H Env & Energy
+* [HB 1298](hb/1298) - Condos and townhouses 2📰 - H Civil R & Judi
+* [HB 1294](hb/1294) - Plan 1 retiree COLAs - H Approps
+* [HB 1283](hb/1283) - Self-directed investments - H Approps
+* [SB 5404](sb/5404) - Increasing cannabis revenue distributions to local governments. - S Labor & Comm
+* [SB 5400](sb/5400) - Concerning actions by health professions disciplining authorities against license applicants and license holders. 6📰 - S Health & Long T
+* [SB 5384](sb/5384) - Walla Walla water 2050 plan - S Ag/Water/Natura
+* [HB 1353](hb/1353) - School district elections - H Education
+* [HB 1354](hb/1354) - School volunteers/conviction - H Education
+* [HB 1331](hb/1331) - Public use airport dev./tax - H Finance
+* [HB 1328](hb/1328) - Schools & families/funding 4📰 - H Approps
+* [HB 1325](hb/1325) - Long sentences review - H Community Safet
+* [SB 5351](sb/5351) - Consumer health data 6📰 - S Law & Justice
+* [SB 5345](sb/5345) - School buildings/energy 1📰 - S Environment, E
+* [SB 5346](sb/5346) - Student art/school const. 1📰 - S EL/K-12
+* [SB 5335](sb/5335) - Washington health trust 3📰 - S Health & Long
+* [SB 5321](sb/5321) - Personal identifying info. - S Law & Justice
+* [SB 5313](sb/5313) - Murder in the first degree - S Law & Justice
+* [HB 1279](hb/1279) - Firefighters/LEOFF - H Approps
+* [HB 1270](hb/1270) - Commission on boys and men 1📰 - H State Govt & T
+* [HB 1263](hb/1263) - Health care marketplace 6📰 - H Civil R & Judi
+* [HB 1253](hb/1253) - Pharmacy benefit managers - H HC/Wellness
+* [SB 5246](sb/5246) - Supreme court fiscal notes - S Law & Justice
+* [SB 5265](sb/5265) - Firearms/assault weapons 2📰 - S Law & Justice
+* [SB 5288](sb/5288) - Intramuscular needling - S Health & Long
+* [SB 5266](sb/5266) - Riparian areas - S Ag/Water/Natur
+* [SB 5255](sb/5255) - Lump sum reporting system - S Law & Justice
+* [SB 5253](sb/5253) - Fire-resistant materials - S Labor & Comm
+* [SB 5250](sb/5250) - Property tax exemptions 1📰 - S Ways & Means
+* [SB 5298](sb/5298) - Corrections ombuds/DSHS - S Human Services
+* [HB 1227](hb/1227) - Employer health care funding - H Labor & Workpl
+* [HB 1223](hb/1223) - Emissions limits/use - H Env & Energy
+* [HB 1224](hb/1224) - Environmental permitting - H Env & Energy
+* [HB 1233](hb/1233) - Housing of inmates - H Community Safe
+* [SB 5239](sb/5239) - Vapor & tobacco products - S Health & Long
+* [SB 5223](sb/5223) - Sexual exploitation/minors - S Law & Justice
+* [SB 5215](sb/5215) - Water system notices - S Health & Long
+* [SB 5211](sb/5211) - Firearms/purchase & transfer - S Law & Justice
+* [SB 5206](sb/5206) - Intercollegiate athletics - S Higher Ed & Wo
+* [SB 5194](sb/5194) - Insurance commissioner - S State Govt & E
+* [SB 5193](sb/5193) - Firearms/assault weapons - S Law & Justice
+* [SB 5172](sb/5172) - Abortion safety - S Health & Long
+* [SB 5167](sb/5167) - EFSEC/alt. energy processing - S Environment, E
+* [SB 5161](sb/5161) - Fur farming - S Ag/Water/Natur
+* [SB 5157](sb/5157) - Water infra. projects - S Ag/Water/Natur
+* [SB 5149](sb/5149) - Death penalty - S Law & Justice
+* [SB 5148](sb/5148) - Wild and exotic animals - S Ag/Water/Natur
+* [SB 5146](sb/5146) - Hydropower - S Environment, E
+* [SB 5139](sb/5139) - Vaccination refusal - S Health & Long
+* [SB 5138](sb/5138) - Vehicles as homestead - S Housing
+* [SB 5137](sb/5137) - Indigenous women 4📰 - S Law & Justice
+* [SB 5132](sb/5132) - Assaulting law enf. officers - S Law & Justice
+* [SB 5119](sb/5119) - Nonconviction data/auditor - S Law & Justice
+* [SB 5117](sb/5117) - State building code council - S State Govt & E
+* [SB 5108](sb/5108) - Law enf. training/regional - S Law & Justice
+* [SB 5098](sb/5098) - Down syndrome/abortion - S Health & Long
+* [SB 5092](sb/5092) - Hybrid vehicles/tax ex. - S Ways & Means
+* [SB 5076](sb/5076) - Domestic violence arrests - S Law & Justice
+* [SB 5075](sb/5075) - Judicial sentencing database - S Law & Justice
+* [SB 5073](sb/5073) - Three branches/admin. rules - S State Govt & E
+* [SB 5068](sb/5068) - Motor vehicle sales tax - S Ways & Means
+* [SB 5064](sb/5064) - Special ed. excess costs - S EL/K-12
+* [SB 5063](sb/5063) - Gubernatorial emergencies 6📰 - S State Govt & E
+* [SB 5062](sb/5062) - Online marketplaces - S Environment, E
+* [SB 5055](sb/5055) - Private prison contracting 1📰 - S Human Services
+* [SB 5049](sb/5049) - Firearm theft - S Law & Justice
+* [SB 5044](sb/5044) - PT & OT service corporations - S Health & Long
+* [SB 5042](sb/5042) - Vascular neck restraints 1📰 - S Law & Justice
+* [SB 5043](sb/5043) - Power plant long-term policy 1📰 - S Environment, E
+* [SB 5037](sb/5037) - Natural gas/energy code 1📰 - S Environment, E
+* [SB 5034](sb/5034) - Vehicular pursuits - S Law & Justice
+* [SB 5030](sb/5030) - Hog fuel/tax exemption - S Ways & Means
+* [SB 5029](sb/5029) - School district boards 1📰 - S EL/K-12
+* [SB 5021](sb/5021) - Audiology & speech compact - S Health & Long
+* [SB 5018](sb/5018) - Sales tax/transp. projects - S Transportation
+* [SB 5017](sb/5017) - Motor vehicles sales tax use - S Ways & Means
+* [SB 5016](sb/5016) - Homelessness - S Housing
+* [SB 5012](sb/5012) - Columbia river third bridge - S Transportation
+* [SB 5014](sb/5014) - Emergency rules/approval - S State Govt & E
+* [SB 5011](sb/5011) - Persistent offenders/robbery - S Law & Justice
+* [SB 5009](sb/5009) - Sex ed./parent approval 2📰 - S EL/K-12
+* [SB 5008](sb/5008) - K-12 instr. materials/access - S EL/K-12
+* [HB 1220](hb/1220) - Universal civic duty voting 1📰 - H State Govt & Tr
+* [HB 1196](hb/1196) - Criminal plea negotiation 1📰 - H Community Safet
+* [HB 1212](hb/1212) - Outdoor recreation fees - H Innov, Comm & E
+* [HB 1211](hb/1211) - Special education funding 1📰 - H Approps
+* [HB 1193](hb/1193) - Greenhouse gas/building code - H Env & Energy
+* [HB 1198](hb/1198) - PTBA/limited law enforcement - H Community Safet
+* [SB 5244](sb/5244) - Second amendment/legislators - S State Govt & El
+* [HB 1034](hb/1034) - Fur farming - H Ag&Nr
+* [HB 1029](hb/1029) - Vaccine mandate reemployment 2📰 - H Labor & Workpl
+* [HB 1011](hb/1011) - Long-term care/repeal 7📰 - H HC/Wellness
+* [HB 1190](hb/1190) - Climate funding/outdoor rec. 1📰 - H Env & Energy
+* [HB 1183](hb/1183) - Vehicle emissions standards - H Env & Energy
+* [HB 1180](hb/1180) - Firearms/assault weapons 1📰 - H Civil R & Judi
+* [HB 1172](hb/1172) - Working fam. fiscal impacts - H Approps
+* [HB 1162](hb/1162) - Controlled substances - H Community Safe
+* [HB 1161](hb/1161) - Firearm enhancements - H Community Safe
+* [HB 1157](hb/1157) - Wild and exotic animals - H Ag&Nr
+* [HB 1154](hb/1154) - Religious institutions - H State Govt & T
+* [HB 1145](hb/1145) - Orca vessel protection 1📰 - H Ag&Nr
+* [HB 1139](hb/1139) - Harassment/election official - H Community Safe
+* [HB 1130](hb/1130) - Firearm industry duties 1📰 - H Civil R & Judi
+* [HB 1127](hb/1127) - Adult protective services - H Human Svc, You
+* [HB 1123](hb/1123) - Clean energy facility siting - H Env & Energy
+* [HB 1119](hb/1119) - Health care oversight cmte. - H HC/Wellness
+* [HB 1115](hb/1115) - Abortion cost sharing 3📰 - H HC/Wellness
+* [HB 1096](hb/1096) - Amateur sports officials - H Community Safe
+* [HB 1091](hb/1091) - Tax increases/voter approval - H State Govt & T
+* [HB 1090](hb/1090) - Defects and omissions - H Civil R & Judi
+* [HB 1065](hb/1065) - Online marketplaces - H ConsPro&Bus
+* [HB 1062](hb/1062) - Law enf. officers/deception - H Community Safe
+* [HB 1053](hb/1053) - Vehicular pursuits 3📰 - H Community Safe
+* [HB 1036](hb/1036) - Clergy/child abuse reporting 1📰 - H Human Svc, You
+* [SB 5234](sb/5234) - Lien claimants - S Labor & Comm
+* [SB 5227](sb/5227) - Sex-selection abortions - S Health & Long T
+* [HB 1214](hb/1214) - Gender transition/minors - H HC/Wellness
+* [SB 5185](sb/5185) - Abortion - S Health & Long T
+* [SB 5164](sb/5164) - Transportation budget, supp. - S Transportation
+* [HB 1093](hb/1093) - K-12 scholarship program - H Education
+* [HB 1092](hb/1092) - State property tax/valuation - H Finance
+* [SB 5136](sb/5136) - Sales and use tax exemptions - S Ways & Means
+* [HB 1116](hb/1116) - Juveniles/controlled subst. - H Human Svc, Yout
+* [SB 5116](sb/5116) - Bail fund oversight - S Law & Justice
+* [HCR 4401](hcr/4401) - Legislature joint rules - 
+* [ESR 8601](esr/8601) - Senate permanent rules - 
+* [SB 5083](sb/5083) - Conservation easements - S Law & Justice
+* [HB 1063](hb/1063) - Motorcycles on laned roads - H Transportation
+* [SB 5040](sb/5040) - Enhanced docs/citizenship - S Transportation
+* [HCR 4400](hcr/4400) - Joint session/state of state - 
