@@ -58,7 +58,7 @@ def parse_date(content):
         return arrow.get(content).datetime
     except arrow.parser.ParserError:
         pass
-    for other_format in ("H:mm A ZZZ MMMM D, YYYY",):
+    for other_format in ("H:mm A ZZZ MMMM D, YYYY","M/DD/YYYY H:mm:ss A"):
         try:
             return arrow.get(content, other_format).datetime
         except arrow.parser.ParserError:
@@ -255,7 +255,7 @@ for org_rowid, domain in org_cur:
                     for key in ("datePublished", "dateCreated"):
                         if key in graph:
                             try:
-                                modified_time = arrow.get(graph[key]).datetime
+                                modified_time = parse_date(graph[key])
                                 break
                             except arrow.parser.ParserError:
                                 print("invalid date on", page_url)
@@ -264,7 +264,7 @@ for org_rowid, domain in org_cur:
                 if not modified_time:
                     for key in ("datePublished", "dateCreated", "dateModified"):
                         if key in ld_json:
-                            modified_time = arrow.get(ld_json[key]).datetime
+                            modified_time = parse_date(ld_json[key])
                             break
 
         if not modified_time:

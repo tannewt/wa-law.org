@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 12/15/2023 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2024 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects/2024-legislative-agenda/#:~:text=HB%201045)
 * 10/10/2023 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [2023 Legislative Session Summary – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/resources/2023-legislative-session-summary/#:~:text=HB%201045)
 * 03/02/2023 [The Seattle Times](/org/the_seattle_times/) - [WA proposals to address wealth gap die in Legislature | The Seattle Times](https://www.seattletimes.com/seattle-news/wa-proposals-to-address-wealth-gap-die-in-legislature/#:~:text=House%20Bill%201045)
 * 03/01/2023 [The Urbanist](/org/the_urbanist/) - [Washington Legislature’s New Thinking About Housing | The Urbanist](https://www.theurbanist.org/2023/03/01/washington-legislatures-new-thinking-about-housing/#:~:text=HB%201045)

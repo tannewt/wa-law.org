@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 12/15/2023 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2024 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects/2024-legislative-agenda/#:~:text=HB%201477)
 * 10/10/2023 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [2023 Legislative Session Summary – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/resources/2023-legislative-session-summary/#:~:text=HB%201477)
 * 05/15/2023 [The Center Square](/org/the_center_square/) - [Gov. Inslee signs expansion of Working Families Tax Credit into law | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c863b682-f371-11ed-86b7-430dfb1a0de2.html#:~:text=Second%20Substitute%20House%20Bill%201477)
 * 04/27/2023 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [2023 Session Wrap Up - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04272023#:~:text=H.B.%201477)

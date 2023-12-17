@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 12/15/2023 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2024 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects/2024-legislative-agenda/#:~:text=5225)
 * 07/17/2023 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS / NOTICIAS LEGISLATIVAS: 2023 Session Report from the Washington Latino Democratic Caucus / Informe de la sesión de 2023 del Caucus Demócrata Latino de Washington – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/07/17/legislative-news-noticias-legislativas-2023-session-report-from-the-washington-latino-democratic-caucus-informe-de-la-sesion-de-2023-del-caucus-democrata-latino-de-washington/#:~:text=SB%205225)
 * 05/03/2023 [MyNorthwest](/org/mynorthwest/) - [Gov. Inslee increases affordable childcare access with new bill - MyNorthwest.com](https://mynorthwest.com/3884225/inslee-affordable-childcare-access-new-bill/#:~:text=Senate%20bill%205225)
 * 04/27/2023 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [2023 Session Wrap Up - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate04272023#:~:text=SB%205225)

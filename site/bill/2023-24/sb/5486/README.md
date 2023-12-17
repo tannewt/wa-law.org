@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 12/15/2023 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2024 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects/2024-legislative-agenda/#:~:text=SB%205486)
 * 11/20/2023 [The Center Square](/org/the_center_square/) - [Washington revenue forecasts yet to feel the effect of Jeff Bezos move | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_da647caa-87e5-11ee-ab4b-b313f335fe9f.html#:~:text=Senate%20Bill%205486)
 * 04/01/2023 [Wenatchee World](/org/wenatchee_world/) - [With WA capital gains case settled, what's next for tax reform? |  | wenatcheeworld.com](https://www.wenatcheeworld.com/with-wa-capital-gains-case-settled-whats-next-for-tax-reform/article_66e4b4ca-cf12-11ed-82e8-e76e7180c0d3.html#:~:text=Senate%20Bill%205486)
 * 03/30/2023 [Crosscut](/org/crosscut/) - [With WA capital gains case settled, what's next for tax reform? | Crosscut](https://crosscut.com/politics/2023/03/wa-capital-gains-case-settled-whats-next-tax-reform#:~:text=Senate%20Bill%205486)
