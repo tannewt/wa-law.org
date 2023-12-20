@@ -12,7 +12,7 @@
 * [HB 1110](hb/1110) - Middle housing 76📰 5096👍 1228👎 53❓ - C 332 L 23
 * [HB 1333](hb/1333) - Domestic violent extremism 4📰 253👍 5450👎 12❓ - H Rules C
 * [SB 5232](sb/5232) - Firearms/purchase & transfer 7📰 1680👍 3929👎 2❓ - S Ways & Means
-* [HB 1389](hb/1389) - Residential rent increases 24📰 3125👍 2455👎 27❓ - H Rules R
+* [HB 1389](hb/1389) - Residential rent increases 25📰 3125👍 2455👎 27❓ - H Rules R
 * [HB 1181](hb/1181) - Climate change/planning 23📰 4665👍 601👎 16❓ - C 228 L 23
 * [SB 5184](sb/5184) - Anesthesiologist assistants 1📰 1344👍 3437👎 9❓ - S Health & Long
 * [SB 5768](sb/5768) - DOC/abortion medications 20📰 1019👍 3318👎 6❓ - C 195 L 23
@@ -726,7 +726,7 @@
 * [SB 5122](sb/5122) - Ambulance transport fund 1📰 32👍 0👎 0❓ - C 11 L 23
 * [SB 5314](sb/5314) - Electric bicycle use 4👍 26👎 2❓ - S Transportation
 * [SB 5508](sb/5508) - Greenhouses 32👍 0👎 0❓ - S Ag/Water/Natura
-* [SB 5515](sb/5515) - Child abuse and neglect 1📰 21👍 7👎 4❓ - C 441 L 23
+* [SB 5515](sb/5515) - Child abuse and neglect 2📰 21👍 7👎 4❓ - C 441 L 23
 * [SB 5730](sb/5730) - Vehicle residences/impound 20👍 3👎 9❓ - S Rules X
 * [HB 1073](hb/1073) - Medical assistants 6📰 25👍 4👎 2❓ - C 134 L 23
 * [HB 1347](hb/1347) - Integrating community-based health assessments into foundational environmental policies to improve environmental justice. 1📰 11👍 12👎 8❓ - H Env & Energy
@@ -1265,7 +1265,7 @@
 * [HB 1974](hb/1974) - Disposing of human remains. - H Prefiled
 * [HB 1972](hb/1972) - Physicians health prg. fees - H Prefiled
 * [HB 1961](hb/1961) - Animal cruelty/seriousness - H Prefiled
-* [SB 5871](sb/5871) - Definition of veteran - S Prefiled
+* [SB 5871](sb/5871) - Definition of veteran 1📰 - S Prefiled
 * [SB 5870](sb/5870) - Early learning programs - S Prefiled
 * [SB 5868](sb/5868) - Providing information on reporting domestic violence and other unlawful conduct in family court proceedings. - S Prefiled
 * [SB 5866](sb/5866) - Teletherapy - S Prefiled
@@ -1329,13 +1329,13 @@
 * [HB 1937](hb/1937) - Requiring certain health care providers to report suspected victims of human trafficking to law enforcement. - H Prefiled
 * [HB 1938](hb/1938) - Increasing the accessibility of academic reengagement opportunities for eligible students. - H Prefiled
 * [HB 1936](hb/1936) - Tax incentives for farmers - H Prefiled
-* [HB 1934](hb/1934) - AI task force - H Prefiled
+* [HB 1934](hb/1934) - AI task force 2📰 - H Prefiled
 * [HB 1935](hb/1935) - Promoting resource conservation practices that include student education and leadership opportunities in public schools. - H Prefiled
 * [HB 1933](hb/1933) - Supporting the servicing and right to repair of certain products with digital electronics in a secure and reliable manner. - H Prefiled
 * [SB 5840](sb/5840) - Concerning leases. - S Prefiled
 * [SB 5839](sb/5839) - Modifying the working families' tax credit by clarifying the refundable nature of the credit, the application requirements, and the eligibility verification process. - S Prefiled
 * [SB 5837](sb/5837) - Codifying the state election database to publish, evaluate, and analyze certain election data. - S Prefiled
-* [SB 5838](sb/5838) - Establishing an artificial intelligence task force. - S Prefiled
+* [SB 5838](sb/5838) - Establishing an artificial intelligence task force. 2📰 - S Prefiled
 * [SB 5836](sb/5836) - Adding an additional superior court judge in Clark county. - S Prefiled
 * [SB 5835](sb/5835) - Concerning transparency in rule making. - S Prefiled
 * [HB 1932](hb/1932) - Shifting general elections for local governments to even-numbered years to increase voter participation. - H Prefiled
@@ -1357,7 +1357,7 @@
 * [SB 5823](sb/5823) - School district elections - S Prefiled
 * [SB 5822](sb/5822) - Physicians health prg. fees - S Prefiled
 * [HB 1927](hb/1927) - Reducing the number of days that a worker's temporary total disability must continue to receive industrial insurance compensation for the day of an injury and the three-day period following the injury. - H Prefiled
-* [HB 1926](hb/1926) - Concerning supervision compliance credit. - H Prefiled
+* [HB 1926](hb/1926) - Concerning supervision compliance credit. 1📰 - H Prefiled
 * [HB 1925](hb/1925) - Expanding the veterans service officer program to increase veteran support statewide. - H Prefiled
 * [HB 1924](hb/1924) - Promoting the integration of fusion technology within state clean energy policies. - H Prefiled
 * [HB 1922](hb/1922) - Vape detectors/schools - H Prefiled

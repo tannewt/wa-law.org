@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 12/19/2023 [The Urbanist](/org/the_urbanist/) - [Tacoma Voters Pass State’s Strongest Tenant Protections, Inspiring Other Cities to Act - The Urbanist](https://www.theurbanist.org/2023/12/19/tacoma-voters-pass-states-strongest-tenant-protections/#:~:text=House%20Bill%201389)
 * 12/01/2023 [Crosscut](/org/crosscut/) - [Tumwater mobile home tenants lobby against rent hikes | Crosscut](https://crosscut.com/investigations/2023/12/tumwater-mobile-home-tenants-lobby-against-rent-hikes#:~:text=HB%201389)
 * 04/24/2023 [Crosscut](/org/crosscut/) - [The bills that survived Washington's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/04/bills-survived-washingtons-2023-legislative-session#:~:text=House%20Bill%201389)
 * 03/14/2023 [The Urbanist](/org/the_urbanist/) - [Legislature Abandons Rent Stabilization Push | The Urbanist](https://www.theurbanist.org/2023/03/14/legislature-abandons-rent-stabilization-push/#:~:text=House%20Bill%201389)

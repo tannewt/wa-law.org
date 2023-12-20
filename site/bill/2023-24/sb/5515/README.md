@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 12/19/2023 [KREM](/org/krem/) - [New state law allows DCYF to investigate abuse allegations at residential facilities | krem.com](https://www.krem.com/article/news/local/washington/washington-child-abuse-claims-dcyf-investigations/293-a83987a0-0b80-4630-8a31-e2e9b747f204#:~:text=Washington%20State%20Bill%205515)
 * 03/12/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/12/the-house-hot-sheet-for-week-10-of-the-2023-legislative-session/#:~:text=SB%205515)
 
 ## Meetings
