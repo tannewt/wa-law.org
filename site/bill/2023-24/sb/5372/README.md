@@ -30,7 +30,7 @@ Testifying:
 
 #### 13 ❓ - Other
 Testifying:
-* Logan Endres - Washington State School Directors' Association (WSSDA)
+* 💵Logan Endres - Washington State School Directors' Association (WSSDA)
 * 💵Heath Heikkila
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Rod Fleck - City of Forks

@@ -36,7 +36,7 @@ Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Jim Kowalkowski - Rural Education Center
 * Jim Stoffer - Public School Advocate
-* Logan Endres - Washington State School Directors' Association (WSSDA)
+* 💵Logan Endres - Washington State School Directors' Association (WSSDA)
 
 #### 0 👎 - Con
 

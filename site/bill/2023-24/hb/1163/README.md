@@ -24,7 +24,7 @@ Testifying:
 Testifying:
 * 💵Brad Boswell - Seattle Kraken/Climate Pledge Arena
 * Eric Jaeger - Climate Pledge Arena, SVP of Finance
-* Eric Pettigrew - Seattle Kraken, VP of Gov Relations and Outreach
+* 💵Eric Pettigrew - Seattle Kraken, VP of Gov Relations and Outreach
 * Hewan Teshome - Seattle Kraken and CPA, SVP and General Counsel
 
 #### 1 👎 - Con

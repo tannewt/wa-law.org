@@ -34,7 +34,7 @@ Testifying:
 * 💵Carolyn Brotherton - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * David Gamage
 * Charles Mayer - Washington Physicians for Social Responsibility
-* Ginger Kwan - Open Doors for Multicultural Families
+* Ginger Kwan - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
 * Jessie Friedman - YouthCare
 * Naishin Fu - Tech4Housing
 * 💵Shaun Scott - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)

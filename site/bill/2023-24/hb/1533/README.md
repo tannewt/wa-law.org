@@ -38,7 +38,7 @@ Testifying:
 * Rob Curley - The Spokesman-Review newspaper
 * Joe Kunzler - None
 * Neal Boling - KHQ-TV
-* Michael Fancher - Washington Coalition for Open Government
+* Michael Fancher - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)
 * Katherine George - Johnston George LLP
 * Jonathan Martin - [The Seattle Times](/org/the_seattle_times/)
 * Michele Earl-Hubbard - Allied Law Group LLC
@@ -46,7 +46,7 @@ Testifying:
 * Melissa Luck - KXLY-TV
 * 💵Maxford Nelsen - [Freedom Foundation](/org/freedom_foundation/)
 * Jon Bauer - The Daily Herald of Everett
-* Toby Nixon - Washington Coalition for Open Government
+* Toby Nixon - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)
 * Robert McClure
 * 💵Rowland Thompson - Allied Daily Newspapers, WA Newspaper Publishers Assn, and WSABroadcasters
 

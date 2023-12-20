@@ -21,7 +21,7 @@
 ### Mon 01/23 01:30 PM - Early Learning & K-12 Education (EDU): SB 5339 Free school meals
 #### 768 👍 - Pro
 Testifying:
-* Logan Endres - Washington State School Directors' Association (WSSDA)
+* 💵Logan Endres - Washington State School Directors' Association (WSSDA)
 * Nikki Lockwood - Washington State School Directors' Association (WSSDA)
 * 💵Michael Moran - Confederated Tribes of the Colville Reservation
 * Andrea Davis - Coordinated Care

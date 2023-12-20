@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 12/15/2023 [Gorge News Center](/org/gorge_news_center/) - [Wilson proposal would revitalize ‘Sunshine Committee’](https://gorgenewscenter.com/2023/12/15/wilson-proposal-would-revitalize-sunshine-committee/#:~:text=Senate%20Bill%205779)
+
 ## Meetings

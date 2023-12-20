@@ -362,7 +362,7 @@ Testifying:
 * Henterson Carlisle - Center for High School Success
 * 💵Melanie Smith - [Committee for Children](/org/committee_for_children/)
 * Sara Seelmeyer - United Way of King County
-* Logan Endres - Washington State School Directors' Association (WSSDA)
+* 💵Logan Endres - Washington State School Directors' Association (WSSDA)
 * Radu Smintina - OneAmerica
 * 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
 * Gregory King - Washington MESA

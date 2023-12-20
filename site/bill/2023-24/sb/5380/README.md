@@ -31,7 +31,7 @@ Testifying:
 * 💵Mark Riker - Washington State Building & Construction Trades Council
 * 💵John Rothlin - Avista
 * 💵John Traynor - Washington State Labor Council, AFL-CIO
-* Jan Hasselman - [Earthjustice](/org/earthjustice/)
+* 💵Jan Hasselman - [Earthjustice](/org/earthjustice/)
 * 💵John Stuhlmiller - [Washington Public Ports Association](/org/washington_public_ports_association/)
 * 💵Dave Warren - WA Green Hydrogen Aliance
 

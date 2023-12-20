@@ -27,7 +27,7 @@
 Testifying:
 * Rene Price - Washington State PTA
 * Jacob Vigdor - University of Washington Faculty
-* Logan Endres - Washington State School Directors' Association (WSSDA)
+* 💵Logan Endres - Washington State School Directors' Association (WSSDA)
 * Daniel Davidai
 * Ryan Grant
 * Denton Thorbeck - WEA / KEA
@@ -56,7 +56,7 @@ Testifying:
 * Jennifer Bethman - Superintendent, Rochester School District
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 * 💵Juliet Schindler - [College Success Foundation](/org/college_success_foundation/)
-* Logan Endres - Washington State School Directors' Association (WSSDA)
+* 💵Logan Endres - Washington State School Directors' Association (WSSDA)
 
 #### 15 👎 - Con
 

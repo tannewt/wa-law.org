@@ -7,7 +7,7 @@
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
 
 ## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  ❓1
-* 👍 Jan Hasselman
+* 👍💵 Jan Hasselman
 
 ## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍2  
 
@@ -32,7 +32,7 @@
 ## [SB 5371](/bill/2023-24/sb/5371/) - Orca vessel protection 👍2  
 
 ## [SB 5380](/bill/2023-24/sb/5380/) - Clean energy siting 👍1  
-* 👍 Jan Hasselman
+* 👍💵 Jan Hasselman
 
 ## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy   ❓1
 

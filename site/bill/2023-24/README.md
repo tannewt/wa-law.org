@@ -43,7 +43,7 @@
 * [HB 1151](hb/1151) - Fertility services coverage 1📰 1753👍 115👎 2❓ - H Rules 3C
 * [SB 5651](sb/5651) - GMA/equity and env. justice 1📰 1472👍 369👎 11❓ - S Ways & Means
 * [HB 1460](hb/1460) - DNR land 1📰 1807👍 17👎 14❓ - C 383 L 23
-* [HB 1579](hb/1579) - Independent prosecutions 4📰 1515👍 316👎 5❓ - H Rules 3C
+* [HB 1579](hb/1579) - Independent prosecutions 5📰 1515👍 316👎 5❓ - H Rules 3C
 * [HB 1039](hb/1039) - Intramuscular needling 972👍 830👎 21❓ - C 198 L 23
 * [SB 5217](sb/5217) - Musculoskeletal injuries/L&I 3📰 1114👍 603👎 37❓ - C 112 L 23
 * [HB 1829](hb/1829) - LeMay special license plate 1661👍 0👎 14❓ - H Rules C
@@ -1233,6 +1233,61 @@
 * [SB 5677](sb/5677) - Walla Walla sweet onion day 1👍 0👎 0❓ - S Rules X
 
 ## Pending bills
+* [HB 1980](hb/1980) - Concerning ground emergency medical transportation services. - H Prefiled
+* [HB 1985](hb/1985) - PERS/TRS 1 benefit increase - H Prefiled
+* [HB 1963](hb/1963) - License plate covers - H Prefiled
+* [SB 5884](sb/5884) - Concerning court-ordered restitution in environmental criminal cases. - S Prefiled
+* [SB 5882](sb/5882) - Prototypical school staffing - S Prefiled
+* [SB 5883](sb/5883) - Concerning the burden of proof for special education due process hearings. - S Prefiled
+* [SB 5881](sb/5881) - Concerning membership in the public employees' retirement system for certain part-time bus drivers employed full-time by the federal government. - S Prefiled
+* [SB 5879](sb/5879) - Establishing standards for civil proceedings and unprofessional conduct involving child abuse and domestic violence. - S Prefiled
+* [SB 5880](sb/5880) - Establishing a primary certification process for magnetic resonance imaging technologists. - S Prefiled
+* [SB 5878](sb/5878) - Ensuring litter tax funds are used for litter pick up. - S Prefiled
+* [SB 5877](sb/5877) - Providing information about the costs of the climate commitment act to electricity and natural gas customers. - S Prefiled
+* [SB 5874](sb/5874) - Concerning the removal of unauthorized persons. - S Prefiled
+* [SB 5875](sb/5875) - Balancing energy efficiency with consideration of other factors such as housing affordability, development costs, and feasibility in the state energy code for residential structures. - S Prefiled
+* [SB 5876](sb/5876) - Establishing a streamlined grant application process for ecosystem investments. - S Prefiled
+* [SB 5873](sb/5873) - Student transportation - S Prefiled
+* [SB 5872](sb/5872) - Concerning vehicle and operator requirements for autonomous vehicles. - S Prefiled
+* [SB 5869](sb/5869) - Rural fire protection infra. - S Prefiled
+* [HB 1987](hb/1987) - Concerning the use of moneys from the rural public facilities sales and use tax for affordable workforce housing infrastructure and facilities. - H Prefiled
+* [HB 1986](hb/1986) - Adding purposes for the use of existing firefighter safety funding. - H Prefiled
+* [HB 1984](hb/1984) - State clam - H Prefiled
+* [HB 1982](hb/1982) - Broadband loans & grants - H Prefiled
+* [HB 1983](hb/1983) - Criminal justice trtmnt acct - H Prefiled
+* [HB 1981](hb/1981) - Incentivizing clean nuclear energy manufacturing through preferential business and occupation tax rates. - H Prefiled
+* [HB 1979](hb/1979) - Reducing the cost of inhalers and epinephrine autoinjectors. - H Prefiled
+* [HB 1977](hb/1977) - State rock - H Prefiled
+* [HB 1978](hb/1978) - Adding special purpose and junior taxing districts to the intrastate mutual aid system. - H Prefiled
+* [HB 1975](hb/1975) - Relieving individuals from paying interest on certain unemployment insurance overpayment assessments. - H Prefiled
+* [HB 1976](hb/1976) - Changing the incentive structure for tier 1 and tier 2 buildings. - H Prefiled
+* [HB 1973](hb/1973) - Special education safety net - H Prefiled
+* [HB 1974](hb/1974) - Disposing of human remains. - H Prefiled
+* [HB 1972](hb/1972) - Physicians health prg. fees - H Prefiled
+* [HB 1961](hb/1961) - Animal cruelty/seriousness - H Prefiled
+* [SB 5871](sb/5871) - Definition of veteran - S Prefiled
+* [SB 5870](sb/5870) - Early learning programs - S Prefiled
+* [SB 5868](sb/5868) - Providing information on reporting domestic violence and other unlawful conduct in family court proceedings. - S Prefiled
+* [SB 5866](sb/5866) - Teletherapy - S Prefiled
+* [SB 5867](sb/5867) - Banquets - S Prefiled
+* [SB 5865](sb/5865) - Concerning the custody of a child when a parent has a history of domestic violence. - S Prefiled
+* [SB 5864](sb/5864) - Establishing a point of contact for any person diagnosed with a rare disease. - S Prefiled
+* [SB 5862](sb/5862) - Concerning hunting and fishing licenses for nonresident college students. - S Prefiled
+* [SB 5863](sb/5863) - Prohibiting credit reporting on delinquent accounts that are designated to a person in a divorce. - S Prefiled
+* [SB 5861](sb/5861) - Concerning procedures and evidence in civil actions involving domestic relations and protection orders. - S Prefiled
+* [SB 5860](sb/5860) - Spring blade knives - S Prefiled
+* [SB 5859](sb/5859) - Studying the use of separate judges to determine parenting plans and property distribution in marriage dissolution cases. - S Prefiled
+* [SB 5858](sb/5858) - Concerning the just and equitable distribution of real property and liabilities in the dissolution of marriage or domestic partnerships. - S Prefiled
+* [SB 5857](sb/5857) - Campaign disclosure reorg. - S Prefiled
+* [HB 1971](hb/1971) - Rangeland fire pilot - H Prefiled
+* [HB 1970](hb/1970) - DCYF-caregiver communication - H Prefiled
+* [HB 1968](hb/1968) - Requiring defibrillators at fitness centers. - H Prefiled
+* [HB 1969](hb/1969) - Individual providers/family - H Prefiled
+* [HB 1967](hb/1967) - Hit & run/first-time waiver - H Prefiled
+* [HB 1965](hb/1965) - Concerning the allocation of allowances under chapter 70A.65 RCW, the Washington climate commitment act. - H Prefiled
+* [HB 1966](hb/1966) - Exempting manufacturing machinery and equipment from real estate excise tax. - H Prefiled
+* [HB 1964](hb/1964) - Prorate & fuel tax collect. - H Prefiled
+* [HB 1962](hb/1962) - Improving voter registration list accuracy by improving voter address change processes for county election offices and voters. - H Prefiled
 * [SB 5856](sb/5856) - Concerning voter registration challenges. - S Prefiled
 * [SB 5854](sb/5854) - Providing for recreational licensing of smelt, crawfish, and carp. - S Prefiled
 * [SB 5855](sb/5855) - Protecting consumers by requiring summaries for certain agreements and policies presented in an electronic format. - S Prefiled
@@ -1405,7 +1460,7 @@
 * [SB 5780](sb/5780) - Public defense training - S Prefiled
 * [SB 5781](sb/5781) - Establishing a law student rural public defense program. - S Prefiled
 * [SB 5778](sb/5778) - Employer political speech - S Prefiled
-* [SB 5779](sb/5779) - Concerning the public records exemptions accountability committee. - S Prefiled
+* [SB 5779](sb/5779) - Concerning the public records exemptions accountability committee. 1📰 - S Prefiled
 * [SB 5777](sb/5777) - Unemp ins/strikes & lockouts - S Prefiled
 * [SB 5775](sb/5775) - Concerning cost-sharing requirements for prescription epinephrine autoinjectors. - S Prefiled
 * [SB 5776](sb/5776) - Accessing an emergency supply of insulin. - S Prefiled

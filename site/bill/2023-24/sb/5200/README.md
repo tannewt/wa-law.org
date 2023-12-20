@@ -133,7 +133,7 @@ Testifying:
 * DaleAnn Baker - WSPTA
 * Samantha Fogg - Seattle Council PTSA
 * Tyler Muench - Office of Superintendent of Public Instruction
-* Logan Endres - Washington State School Directors' Association (WSSDA)
+* 💵Logan Endres - Washington State School Directors' Association (WSSDA)
 * 💵Mitch Denning - WA Assn of Maintenance & Operation Administrators
 * Charlie Brown - Skills Center Directors and Tacoma School District
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)

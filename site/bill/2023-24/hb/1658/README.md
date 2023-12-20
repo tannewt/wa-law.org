@@ -50,5 +50,5 @@ Testifying:
 #### 3 ❓ - Other
 Testifying:
 * Becky Wallace - Office of Superintendent of Public Instruction (OSPI)
-* Logan Endres - Washington State School Directors' Association (WSSDA)
+* 💵Logan Endres - Washington State School Directors' Association (WSSDA)
 * Alissa Muller - [Washington State Board of Education](/org/washington_state_board_of_education/)

@@ -39,7 +39,7 @@ Testifying:
 
 #### 10 ❓ - Other
 Testifying:
-* Chelsea Martin - Representing Modern Electric Water Company
+* 💵Chelsea Martin - Representing Modern Electric Water Company
 * 💵Jay Balasbas - PacifiCorp
 * Austin Scharff - Washington Department of Commerce
 * Susan Cutrell - Parkland Light & Water Company

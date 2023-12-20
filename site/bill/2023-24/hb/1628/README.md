@@ -34,7 +34,7 @@ Testifying:
 * Sol Villarreal
 * Angela Birney - City of Redmond Mayor
 * Councilmember John Hines - [City of Tacoma](/org/city_of_tacoma/)
-* Ginger Kwan - Open Doors for Multicultural Families
+* Ginger Kwan - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
 * Marc Cote - Parkview Sesrvices
 * Scott Livengood - Alpha Supported Living Services
 * Elizabeth Chamberlain - [City of Walla Walla](/org/city_of_walla_walla/)
@@ -85,7 +85,7 @@ Testifying:
 * Scott Livengood - Community
 * Scott Livengood - [Community Residential Services Association](/org/community_residential_services_association/)
 * Regan Bolli - [City of Covington](/org/city_of_covington/)
-* Ginger Kwan - Open Doors for Multicultural Families
+* Ginger Kwan - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
 * 💵Penny Lipsou - King County Department of Community and Human Services
 
 #### 27 👎 - Con
@@ -113,7 +113,7 @@ Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Nicholas Carr - Association of Washington Housing Authorities/Tacoma Housing Authority
 * Cathy Murahashi - Community Homes
-* Ginger Kwan - Open Doors for Multicultural Families
+* Ginger Kwan - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
 * Marc Cote - Parkview Services
 * Scott Livengood - Alpha Supported Living Services
 * 💵Stacy Dym - The Arc of Washington State

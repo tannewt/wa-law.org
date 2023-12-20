@@ -81,7 +81,7 @@ Testifying:
 * 💵Justin Allegro - [The Nature Conservancy](/org/the_nature_conservancy/)
 * 💵Kelly Hall - [Climate Solutions](/org/climate_solutions/)
 * 💵Tom Wolf - bp America
-* Jan Hasselman - [Earthjustice](/org/earthjustice/)
+* 💵Jan Hasselman - [Earthjustice](/org/earthjustice/)
 * 💵Dave Warren - WA Green Hydrogen Alliance
 * Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
 * 💵John Rothlin - Avista

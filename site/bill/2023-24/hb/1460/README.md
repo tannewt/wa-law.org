@@ -18,7 +18,7 @@
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Heather Whitlock
-* Logan Endres - Washington State School Directors' Association (WSSDA)
+* 💵Logan Endres - Washington State School Directors' Association (WSSDA)
 * Brian Considine - Washington Department of Natural Resources
 * Duane Emmons - Washington Department of Natural Resources
 * Jim Freeburg - Trust Land Transfer Revitalization Coalition
@@ -68,4 +68,4 @@ Testifying:
 #### 7 ❓ - Other
 Testifying:
 * 💵Heath Heikkila - American Forest Resource Council
-* Logan Endres - Washington State School Directors' Association (WSSDA)
+* 💵Logan Endres - Washington State School Directors' Association (WSSDA)

@@ -14,7 +14,7 @@
 #### 26 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
-* Logan Endres - Washington State School Directors' Association (WSSDA)
+* 💵Logan Endres - Washington State School Directors' Association (WSSDA)
 * Jim Kowalkowski - Rural Education Center
 
 #### 0 👎 - Con

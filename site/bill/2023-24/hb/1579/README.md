@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 12/14/2023 [The Center Square](/org/the_center_square/) - ['Worst case scenario' estimate used by Washington AGO for police prosecution bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b36914da-9a00-11ee-a91f-0f5aff45928d.html#:~:text=House%20Bill%201579)
 * 04/14/2023 [The Seattle Times](/org/the_seattle_times/) - [With 10 days to go, some bills fall by the wayside in Olympia | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/with-10-days-to-go-some-bills-fall-by-the-wayside-in-olympia/#:~:text=House%20Bill%201579)
 * 02/28/2023 [The Center Square](/org/the_center_square/) - [Bill would consolidate deadly use of force prosecutions in Washington AG’s office | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_e1eb3f52-b7a4-11ed-ab39-2f175914ab19.html#:~:text=House%20Bill%201579)
 * 02/20/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB%201579)

@@ -23,7 +23,7 @@ Testifying:
 
 #### 32 👎 - Con
 Testifying:
-* Chelsea Martin - Modern Electric Water Company
+* 💵Chelsea Martin - [Modern Electric Water Company](/org/modern_electric_water_company/)
 * Greg Mendonca - Okanogan County Electric Cooperative
 * 💵Paul Griffin - Washington Rural Electric Cooperative Association
 

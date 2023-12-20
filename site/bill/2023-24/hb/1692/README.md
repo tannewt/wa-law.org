@@ -18,7 +18,7 @@ Testifying:
 * Kate Lewis - North Mason School District Student
 * Morgan Thomas - North Mason School District Student School Board Member
 * Fynn Manohchompoo - [Institute for Community Leadership](/org/institute_for_community_leadership/)
-* Logan Endres - Washington State School Directors' Association (WSSDA)
+* 💵Logan Endres - Washington State School Directors' Association (WSSDA)
 * Tejasvini Vijay - Washington State School Directors' Association (WSSDA)
 
 #### 1 👎 - Con

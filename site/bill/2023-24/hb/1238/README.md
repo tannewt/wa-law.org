@@ -69,7 +69,7 @@ Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * 💵Mitch Denning - WA Assn of Maintenance and Operation Administrators
 * Jessica Benton
-* Logan Endres - Washington State School Directors' Association (WSSDA)
+* 💵Logan Endres - Washington State School Directors' Association (WSSDA)
 * Mikhail Cherniske - Office of Superintendent of Public Instruction
 * Dr. Laurie Dent - Sumner-Bonney Lake School District
 * Ben Mitchell - Foundation for Tacoma Students
@@ -94,7 +94,7 @@ Testifying:
 Testifying:
 * 💵Mitch Denning - WA Assn of Maintenance and Operation Administrators
 * Rusanne Modeland
-* Logan Endres - Washington State School Directors' Association (WSSDA)
+* 💵Logan Endres - Washington State School Directors' Association (WSSDA)
 * Alexa Mason - WA Chapter of the American Academy of Pediatrics
 * Shaquita Bell
 * 💵Claire Lane - Anti-Hunger & Nutrition Coalition
@@ -121,7 +121,7 @@ Testifying:
 * 💵Michael Moran - Confederated Tribes of the Colville Reservation
 * Andrea Davis - Coordinated Care
 * Randy Spaulding - [Washington State Board of Education](/org/washington_state_board_of_education/)
-* Logan Endres - Washington State School Directors' Association (WSSDA)
+* 💵Logan Endres - Washington State School Directors' Association (WSSDA)
 * Madhumitha Gandhi - Washington State School Directors' Association (WSSDA)
 * Lelach Rave - Washington Chapter of the American Academy of Pediatrics
 * Natalie Estrada

@@ -22,7 +22,7 @@
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Jim Stoffer - Public School Advocate of Sequim
-* Logan Endres - Washington State School Directors' Association (WSSDA)
+* 💵Logan Endres - Washington State School Directors' Association (WSSDA)
 * Jim Kowalkowski - Rural Education Center
 * 💵Mitch Denning - WA Assn of Maintenance and Operation Administrators
 * Curt Guaglianone - Mt. Adams School District
@@ -35,7 +35,7 @@ Testifying:
 #### 10 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
-* Logan Endres - Washington State School Directors' Association (WSSDA)
+* 💵Logan Endres - Washington State School Directors' Association (WSSDA)
 * 💵Mitch Denning - WA Assn of Maintenance & Operation Administrators
 * Jim Kowalkowski - Rural Education Center
 
@@ -48,7 +48,7 @@ Testifying:
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 * Tyler Muench - Office of Superintendent of Public Instruction
-* Logan Endres - Washington State School Directors' Association (WSSDA)
+* 💵Logan Endres - Washington State School Directors' Association (WSSDA)
 * Viviann Kuehl - Washington State School Directors' Association (WSSDA)
 * 💵Mitch Denning - WA Assn of Maintenance & Operation Administrators
 

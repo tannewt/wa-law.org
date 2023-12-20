@@ -26,7 +26,7 @@
 Testifying:
 * Isaac Emerson - Student for Washington State PTA
 * Michelle Nims - Washington State PTA
-* Logan Endres - Washington State School Directors' Association (WSSDA)
+* 💵Logan Endres - Washington State School Directors' Association (WSSDA)
 * Randy Spaulding - [Washington State Board of Education](/org/washington_state_board_of_education/)
 * 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
 * Bill Oman
@@ -73,4 +73,4 @@ Testifying:
 * Jen Rose - Lake Washington School District
 * Andy Cilley - Lakewood CARES
 * Kim Reykdal - Office of Superintendent of Public Instruction (OSPI)
-* Logan Endres - Washington State School Directors' Association (WSSDA)
+* 💵Logan Endres - Washington State School Directors' Association (WSSDA)
