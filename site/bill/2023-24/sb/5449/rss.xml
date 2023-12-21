@@ -1,2 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>SB 5449 - School buses/other use</title><link>https://wa-law.org/bill/2023-24/sb/5449/</link><description>Updates about SB 5449</description><language>en-US</language><lastBuildDate>Tue, 31 Jan 2023 09:01:06 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>First reading, referred to Transportation.</title><description>First reading, referred to Transportation.</description><pubDate>Wed, 18 Jan 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-01-18/First reading, referred to Transportation.</guid></item><item><title>❓💵Carolyn Logue - WA State Student Transportation Coalition</title><description>Carolyn Logue signed up to testify Other. They are signed up to represent WA State Student Transportation Coalition. They are a registered lobbyist.</description><pubDate>Mon, 30 Jan 2023 03:17:17 GMT</pubDate><category>testifier</category><category>Other</category><guid isPermaLink="false">testifier/Carolyn/Logue/2023-01-30 03:17:17</guid></item><item><title>Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA</title><description>News article "Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA" from Washington St Pta.</description><pubDate>Mon, 30 Jan 2023 18:13:22 GMT</pubDate><category>news</category><guid isPermaLink="true">https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB%205449</guid></item><item><title>👍Joyce Edie - Drive Forward</title><description>Joyce Edie signed up to testify Pro.</description><pubDate>Tue, 31 Jan 2023 09:01:06 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Joyce/Edie/2023-01-31 09:01:06</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 5449 - School buses/other use</title>
+		<link>https://wa-law.org/bill/2023-24/sb/5449/</link>
+		<description>Updates about SB 5449</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 31 Jan 2023 09:01:06 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Transportation.</title>
+			<description>First reading, referred to Transportation.</description>
+			<pubDate>Wed, 18 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-18/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>❓💵Carolyn Logue - WA State Student Transportation Coalition</title>
+			<description>Carolyn Logue signed up to testify Other. They are signed up to represent WA State Student Transportation Coalition. They are a registered lobbyist.</description>
+			<pubDate>Mon, 30 Jan 2023 03:17:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Carolyn/Logue/2023-01-30 03:17:17</guid>
+		</item>
+		<item>
+			<title>Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA</title>
+			<description>News article &quot;Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA&quot; from Washington St Pta.</description>
+			<pubDate>Mon, 30 Jan 2023 18:13:22 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB%205449</guid>
+		</item>
+		<item>
+			<title>👍Joyce Edie - Drive Forward</title>
+			<description>Joyce Edie signed up to testify Pro.</description>
+			<pubDate>Tue, 31 Jan 2023 09:01:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Joyce/Edie/2023-01-31 09:01:06</guid>
+		</item>
+	</channel>
+</rss>

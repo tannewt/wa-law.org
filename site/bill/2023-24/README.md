@@ -1233,6 +1233,41 @@
 * [SB 5677](sb/5677) - Walla Walla sweet onion day 1👍 0👎 0❓ - S Rules X
 
 ## Pending bills
+* [HB 2016](hb/2016) - Allowing certain minors to contract for housing and utilities. - H Prefiled
+* [HB 2015](hb/2015) - Concerning incentivizing adult family homes to increase bed capacity to seven or eight beds. - H Prefiled
+* [HB 2014](hb/2014) - Concerning the definition of veteran and restoring honor to veterans. - H Prefiled
+* [HB 2013](hb/2013) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. - H Prefiled
+* [HB 2012](hb/2012) - Concerning eligibility for a property tax exemption for nonprofits providing affordable rental housing built with city and county funds. - H Prefiled
+* [HB 2010](hb/2010) - Keeping children safe from family violence. - H Prefiled
+* [HB 2011](hb/2011) - Enhancing consumer protections for automobile insurance coverage. - H Prefiled
+* [HB 2009](hb/2009) - Facilitating the use of dental records in missing person investigations. - H Prefiled
+* [HB 2008](hb/2008) - Creating a task force on housing cost driver analysis. - H Prefiled
+* [HB 2006](hb/2006) - Concerning court interpreters. - H Prefiled
+* [HB 2007](hb/2007) - Expanding time limit exemptions applicable to cash assistance programs. - H Prefiled
+* [HB 2005](hb/2005) - Weighted grade point average - H Prefiled
+* [HB 2003](hb/2003) - Housing/public lands leases - H Prefiled
+* [HB 2004](hb/2004) - Military student early reg. - H Prefiled
+* [HB 2002](hb/2002) - Public use of fentanyl, meth - H Prefiled
+* [HB 2001](hb/2001) - Sentence modification - H Prefiled
+* [HB 2000](hb/2000) - International leadership - H Prefiled
+* [SB 5890](sb/5890) - Ballot rejection - S Prefiled
+* [SB 5888](sb/5888) - Health care/confinement - S Prefiled
+* [SB 5889](sb/5889) - Customer voice council - S Prefiled
+* [SB 5886](sb/5886) - Firefighter safety funding - S Prefiled
+* [SB 5887](sb/5887) - Public accountancy act - S Prefiled
+* [SB 5885](sb/5885) - Certificates of annexation - S Prefiled
+* [HB 1998](hb/1998) - Co-living housing - H Prefiled
+* [HB 1999](hb/1999) - Fabricated intimate images - H Prefiled
+* [HB 1997](hb/1997) - Parks and recreation comm. - H Prefiled
+* [HB 1995](hb/1995) - Gate money/early release - H Prefiled
+* [HB 1996](hb/1996) - RV manufacturers and dealers - H Prefiled
+* [HB 1993](hb/1993) - Water rights commissioners - H Prefiled
+* [HB 1994](hb/1994) - Misdemeanor dismissal - H Prefiled
+* [HB 1991](hb/1991) - Paid sick leave - H Prefiled
+* [HB 1992](hb/1992) - Superior court/Whatcom - H Prefiled
+* [HB 1990](hb/1990) - Aerial imagery program - H Prefiled
+* [HB 1989](hb/1989) - Graffiti abatement - H Prefiled
+* [HB 1988](hb/1988) - Customer voice council - H Prefiled
 * [HB 1980](hb/1980) - Concerning ground emergency medical transportation services. - H Prefiled
 * [HB 1985](hb/1985) - PERS/TRS 1 benefit increase - H Prefiled
 * [HB 1963](hb/1963) - License plate covers - H Prefiled

@@ -1,2 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>SB 5495 - Property tax rebates</title><link>https://wa-law.org/bill/2023-24/sb/5495/</link><description>Updates about SB 5495</description><language>en-US</language><lastBuildDate>Tue, 24 Jan 2023 10:49:41 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>First reading, referred to Ways &amp; Means.</title><description>First reading, referred to Ways &amp; Means.</description><pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-01-20/First reading, referred to Ways &amp; Means.</guid></item><item><title>👍Steven Drew - WA Association of Assessors</title><description>Steven Drew signed up to testify Pro. They are signed up to represent WA Association of Assessors.</description><pubDate>Tue, 24 Jan 2023 02:26:24 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Steven/Drew/2023-01-24 02:26:24</guid></item><item><title>❓Jeff Gadman - WA State Association of County Treasurers</title><description>Jeff Gadman signed up to testify Other. They are signed up to represent WA State Association of County Treasurers.</description><pubDate>Tue, 24 Jan 2023 02:34:12 GMT</pubDate><category>testifier</category><category>Other</category><guid isPermaLink="false">testifier/Jeff/Gadman/2023-01-24 02:34:12</guid></item><item><title>👍Senator Frame - SDC</title><description>Senator Frame signed up to testify Pro. They are signed up to represent SDC.</description><pubDate>Tue, 24 Jan 2023 04:20:45 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Senator/Frame/2023-01-24 04:20:45</guid></item><item><title>❓Andy Nicholas - Washington State Budget and Policy Center</title><description>Andy Nicholas signed up to testify Other. They are signed up to represent Washington State Budget and Policy Center.</description><pubDate>Tue, 24 Jan 2023 10:49:41 GMT</pubDate><category>testifier</category><category>Other</category><guid isPermaLink="false">testifier/Andy/Nicholas/2023-01-24 10:49:41</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 5495 - Property tax rebates</title>
+		<link>https://wa-law.org/bill/2023-24/sb/5495/</link>
+		<description>Updates about SB 5495</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 24 Jan 2023 10:49:41 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Ways &amp; Means.</title>
+			<description>First reading, referred to Ways &amp; Means.</description>
+			<pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-20/First reading, referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👍Steven Drew - WA Association of Assessors</title>
+			<description>Steven Drew signed up to testify Pro. They are signed up to represent WA Association of Assessors.</description>
+			<pubDate>Tue, 24 Jan 2023 02:26:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Steven/Drew/2023-01-24 02:26:24</guid>
+		</item>
+		<item>
+			<title>❓Jeff Gadman - WA State Association of County Treasurers</title>
+			<description>Jeff Gadman signed up to testify Other. They are signed up to represent WA State Association of County Treasurers.</description>
+			<pubDate>Tue, 24 Jan 2023 02:34:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jeff/Gadman/2023-01-24 02:34:12</guid>
+		</item>
+		<item>
+			<title>👍Senator Frame - SDC</title>
+			<description>Senator Frame signed up to testify Pro. They are signed up to represent SDC.</description>
+			<pubDate>Tue, 24 Jan 2023 04:20:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Senator/Frame/2023-01-24 04:20:45</guid>
+		</item>
+		<item>
+			<title>❓Andy Nicholas - Washington State Budget and Policy Center</title>
+			<description>Andy Nicholas signed up to testify Other. They are signed up to represent Washington State Budget and Policy Center.</description>
+			<pubDate>Tue, 24 Jan 2023 10:49:41 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Andy/Nicholas/2023-01-24 10:49:41</guid>
+		</item>
+	</channel>
+</rss>

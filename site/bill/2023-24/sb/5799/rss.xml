@@ -1,2 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>SB 5799 - Sale of halal foods</title><link>https://wa-law.org/bill/2023-24/sb/5799/</link><description>Updates about SB 5799</description><language>en-US</language><lastBuildDate>Tue, 05 Dec 2023 00:00:00 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>Prefiled for introduction.</title><description>Prefiled for introduction.</description><pubDate>Tue, 05 Dec 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-12-05/Prefiled for introduction.</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 5799 - Sale of halal foods</title>
+		<link>https://wa-law.org/bill/2023-24/sb/5799/</link>
+		<description>Updates about SB 5799</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 05 Dec 2023 00:00:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>Prefiled for introduction.</title>
+			<description>Prefiled for introduction.</description>
+			<pubDate>Tue, 05 Dec 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-12-05/Prefiled for introduction.</guid>
+		</item>
+	</channel>
+</rss>

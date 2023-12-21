@@ -1,2 +1,119 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>SB 5376 - Cannabis waste</title><link>https://wa-law.org/bill/2023-24/sb/5376/</link><description>Updates about SB 5376</description><language>en-US</language><lastBuildDate>Fri, 10 Mar 2023 00:00:00 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>First reading, referred to Labor &amp; Commerce.</title><description>First reading, referred to Labor &amp; Commerce.</description><pubDate>Fri, 13 Jan 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-01-13/First reading, referred to Labor &amp; Commerce.</guid></item><item><title>👍Jason Lammers - The Cannabis Alliance</title><description>Jason Lammers signed up to testify Pro. They are signed up to represent The Cannabis Alliance.</description><pubDate>Fri, 27 Jan 2023 12:39:18 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Jason/Lammers/2023-01-27 12:39:18</guid></item><item><title>👍💵Ezra Eickmeyer - Producers NW</title><description>Ezra Eickmeyer signed up to testify Pro. They are signed up to represent Producers NW. They are a registered lobbyist.</description><pubDate>Sun, 29 Jan 2023 07:15:28 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Ezra/Eickmeyer/2023-01-29 07:15:28</guid></item><item><title>👍Douglas Henderson - Producers NW</title><description>Douglas Henderson signed up to testify Pro.</description><pubDate>Sun, 29 Jan 2023 09:11:58 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Douglas/Henderson/2023-01-29 09:11:58</guid></item><item><title>👍💵Vicki Christophersen - Washington CannaBusiness Association</title><description>Vicki Christophersen signed up to testify Pro. They are signed up to represent Washington CannaBusiness Association. They are a registered lobbyist.</description><pubDate>Sun, 29 Jan 2023 09:16:30 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Vicki/Christophersen/2023-01-29 09:16:30</guid></item><item><title>👍💵Heather Trim - Zero Waste Washington</title><description>Heather Trim signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/zero_waste_washington/"&gt;Zero Waste Washington&lt;/a&gt;. They are a registered lobbyist.</description><pubDate>Sun, 29 Jan 2023 09:18:10 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Heather/Trim/2023-01-29 09:18:10</guid></item><item><title>👍💵Lukas Hunter - Harmony Farms</title><description>Lukas Hunter signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/harmony_farms/"&gt;Harmony Farms&lt;/a&gt;. They are a registered lobbyist.</description><pubDate>Mon, 30 Jan 2023 08:10:18 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Lukas/Hunter/2023-01-30 08:10:18</guid></item><item><title>❓Kimberly Goetz - Department of Ecology, Hazardous Waste &amp; Toxics Reduction Program</title><description>Kimberly Goetz signed up to testify Other. They are signed up to represent Department of Ecology, Hazardous Waste &amp; Toxics Reduction Program.</description><pubDate>Mon, 30 Jan 2023 08:17:39 GMT</pubDate><category>testifier</category><category>Other</category><guid isPermaLink="false">testifier/Kimberly/Goetz/2023-01-30 08:17:39</guid></item><item><title>And refer to Ways &amp; Means.</title><description>And refer to Ways &amp; Means.</description><pubDate>Tue, 31 Jan 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-01-31/And refer to Ways &amp; Means.</guid></item><item><title>Referred to Ways &amp; Means.</title><description>Referred to Ways &amp; Means.</description><pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-01/Referred to Ways &amp; Means.</guid></item><item><title>👍Caitlein Ryan - THE CANNABIS ALLIANCE</title><description>Caitlein Ryan signed up to testify Pro. They are signed up to represent THE CANNABIS ALLIANCE.</description><pubDate>Sat, 11 Feb 2023 04:00:09 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Caitlein/Ryan/2023-02-11 04:00:09</guid></item><item><title>👍💵Vicki Christophersen - Washington CannaBusiness Association</title><description>Vicki Christophersen signed up to testify Pro. They are signed up to represent Washington CannaBusiness Association. They are a registered lobbyist.</description><pubDate>Sun, 12 Feb 2023 10:20:19 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Vicki/Christophersen/2023-02-12 10:20:19</guid></item><item><title>Passed to Rules Committee for second reading.</title><description>Passed to Rules Committee for second reading.</description><pubDate>Tue, 21 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-21/Passed to Rules Committee for second reading.</guid></item><item><title>Senate Rules "X" file.</title><description>Senate Rules "X" file.</description><pubDate>Fri, 10 Mar 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-03-10/Senate Rules "X" file.</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 5376 - Cannabis waste</title>
+		<link>https://wa-law.org/bill/2023-24/sb/5376/</link>
+		<description>Updates about SB 5376</description>
+		<language>en-US</language>
+		<lastBuildDate>Fri, 10 Mar 2023 00:00:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Labor &amp; Commerce.</title>
+			<description>First reading, referred to Labor &amp; Commerce.</description>
+			<pubDate>Fri, 13 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-13/First reading, referred to Labor &amp; Commerce.</guid>
+		</item>
+		<item>
+			<title>👍Jason Lammers - The Cannabis Alliance</title>
+			<description>Jason Lammers signed up to testify Pro. They are signed up to represent The Cannabis Alliance.</description>
+			<pubDate>Fri, 27 Jan 2023 12:39:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jason/Lammers/2023-01-27 12:39:18</guid>
+		</item>
+		<item>
+			<title>👍💵Ezra Eickmeyer - Producers NW</title>
+			<description>Ezra Eickmeyer signed up to testify Pro. They are signed up to represent Producers NW. They are a registered lobbyist.</description>
+			<pubDate>Sun, 29 Jan 2023 07:15:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ezra/Eickmeyer/2023-01-29 07:15:28</guid>
+		</item>
+		<item>
+			<title>👍Douglas Henderson - Producers NW</title>
+			<description>Douglas Henderson signed up to testify Pro.</description>
+			<pubDate>Sun, 29 Jan 2023 09:11:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Douglas/Henderson/2023-01-29 09:11:58</guid>
+		</item>
+		<item>
+			<title>👍💵Vicki Christophersen - Washington CannaBusiness Association</title>
+			<description>Vicki Christophersen signed up to testify Pro. They are signed up to represent Washington CannaBusiness Association. They are a registered lobbyist.</description>
+			<pubDate>Sun, 29 Jan 2023 09:16:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Vicki/Christophersen/2023-01-29 09:16:30</guid>
+		</item>
+		<item>
+			<title>👍💵Heather Trim - Zero Waste Washington</title>
+			<description>Heather Trim signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/zero_waste_washington/&quot;&gt;Zero Waste Washington&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Sun, 29 Jan 2023 09:18:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Heather/Trim/2023-01-29 09:18:10</guid>
+		</item>
+		<item>
+			<title>👍💵Lukas Hunter - Harmony Farms</title>
+			<description>Lukas Hunter signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/harmony_farms/&quot;&gt;Harmony Farms&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 30 Jan 2023 08:10:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lukas/Hunter/2023-01-30 08:10:18</guid>
+		</item>
+		<item>
+			<title>❓Kimberly Goetz - Department of Ecology, Hazardous Waste &amp; Toxics Reduction Program</title>
+			<description>Kimberly Goetz signed up to testify Other. They are signed up to represent Department of Ecology, Hazardous Waste &amp; Toxics Reduction Program.</description>
+			<pubDate>Mon, 30 Jan 2023 08:17:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Kimberly/Goetz/2023-01-30 08:17:39</guid>
+		</item>
+		<item>
+			<title>And refer to Ways &amp; Means.</title>
+			<description>And refer to Ways &amp; Means.</description>
+			<pubDate>Tue, 31 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-31/And refer to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-01/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👍Caitlein Ryan - THE CANNABIS ALLIANCE</title>
+			<description>Caitlein Ryan signed up to testify Pro. They are signed up to represent THE CANNABIS ALLIANCE.</description>
+			<pubDate>Sat, 11 Feb 2023 04:00:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Caitlein/Ryan/2023-02-11 04:00:09</guid>
+		</item>
+		<item>
+			<title>👍💵Vicki Christophersen - Washington CannaBusiness Association</title>
+			<description>Vicki Christophersen signed up to testify Pro. They are signed up to represent Washington CannaBusiness Association. They are a registered lobbyist.</description>
+			<pubDate>Sun, 12 Feb 2023 10:20:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Vicki/Christophersen/2023-02-12 10:20:19</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Tue, 21 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-21/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Senate Rules &quot;X&quot; file.</title>
+			<description>Senate Rules &quot;X&quot; file.</description>
+			<pubDate>Fri, 10 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-10/Senate Rules &quot;X&quot; file.</guid>
+		</item>
+	</channel>
+</rss>

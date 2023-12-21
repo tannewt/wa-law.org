@@ -1,2 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>SB 5769 - Climate act price ceiling</title><link>https://wa-law.org/bill/2023-24/sb/5769/</link><description>Updates about SB 5769</description><language>en-US</language><lastBuildDate>Mon, 26 Jun 2023 12:56:00 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>First reading, referred to Environment, Energy &amp; Technology.</title><description>First reading, referred to Environment, Energy &amp; Technology.</description><pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-04-07/First reading, referred to Environment, Energy &amp; Technology.</guid></item><item><title>Washington Democrat calls for price cap on carbon pollution permits | Washington | thecentersquare.com</title><description>News article "Washington Democrat calls for price cap on carbon pollution permits | Washington | thecentersquare.com" from The Center Square.</description><pubDate>Mon, 26 Jun 2023 12:56:00 GMT</pubDate><category>news</category><guid isPermaLink="true">https://www.thecentersquare.com/washington/article_cfc72612-144a-11ee-b0d7-434606118c8b.html#:~:text=SB%205769</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 5769 - Climate act price ceiling</title>
+		<link>https://wa-law.org/bill/2023-24/sb/5769/</link>
+		<description>Updates about SB 5769</description>
+		<language>en-US</language>
+		<lastBuildDate>Mon, 26 Jun 2023 12:56:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Environment, Energy &amp; Technology.</title>
+			<description>First reading, referred to Environment, Energy &amp; Technology.</description>
+			<pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-07/First reading, referred to Environment, Energy &amp; Technology.</guid>
+		</item>
+		<item>
+			<title>Washington Democrat calls for price cap on carbon pollution permits | Washington | thecentersquare.com</title>
+			<description>News article &quot;Washington Democrat calls for price cap on carbon pollution permits | Washington | thecentersquare.com&quot; from The Center Square.</description>
+			<pubDate>Mon, 26 Jun 2023 12:56:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_cfc72612-144a-11ee-b0d7-434606118c8b.html#:~:text=SB%205769</guid>
+		</item>
+	</channel>
+</rss>

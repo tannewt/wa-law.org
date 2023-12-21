@@ -1,2 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>HB 1098 - Clergy/child abuse reporting</title><link>https://wa-law.org/bill/2023-24/hb/1098/</link><description>Updates about HB 1098</description><language>en-US</language><lastBuildDate>Tue, 21 Feb 2023 14:48:55 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>Referred to Rules 2 Review.</title><description>Referred to Rules 2 Review.</description><pubDate>Tue, 24 Jan 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-01-24/Referred to Rules 2 Review.</guid></item><item><title>Catholic officials seek loophole in WA bills on child abuse reporting | The Seattle Times</title><description>News article "Catholic officials seek loophole in WA bills on child abuse reporting | The Seattle Times" from The Seattle Times.</description><pubDate>Sat, 11 Feb 2023 06:00:00 GMT</pubDate><category>news</category><guid isPermaLink="true">https://www.seattletimes.com/seattle-news/politics/catholic-officials-seek-loophole-in-wa-bills-on-child-abuse-reporting/#:~:text=House%20Bill%201098</guid></item><item><title>To know abuse without taking action is to condone abuse | The Seattle Times</title><description>News article "To know abuse without taking action is to condone abuse | The Seattle Times" from The Seattle Times.</description><pubDate>Tue, 21 Feb 2023 14:48:55 GMT</pubDate><category>news</category><guid isPermaLink="true">https://www.seattletimes.com/opinion/to-know-abuse-without-taking-action-is-to-condone-abuse/#:~:text=House%20Bill%201098,</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 1098 - Clergy/child abuse reporting</title>
+		<link>https://wa-law.org/bill/2023-24/hb/1098/</link>
+		<description>Updates about HB 1098</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 21 Feb 2023 14:48:55 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Tue, 24 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-24/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>Catholic officials seek loophole in WA bills on child abuse reporting | The Seattle Times</title>
+			<description>News article &quot;Catholic officials seek loophole in WA bills on child abuse reporting | The Seattle Times&quot; from The Seattle Times.</description>
+			<pubDate>Sat, 11 Feb 2023 06:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.seattletimes.com/seattle-news/politics/catholic-officials-seek-loophole-in-wa-bills-on-child-abuse-reporting/#:~:text=House%20Bill%201098</guid>
+		</item>
+		<item>
+			<title>To know abuse without taking action is to condone abuse | The Seattle Times</title>
+			<description>News article &quot;To know abuse without taking action is to condone abuse | The Seattle Times&quot; from The Seattle Times.</description>
+			<pubDate>Tue, 21 Feb 2023 14:48:55 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.seattletimes.com/opinion/to-know-abuse-without-taking-action-is-to-condone-abuse/#:~:text=House%20Bill%201098,</guid>
+		</item>
+	</channel>
+</rss>

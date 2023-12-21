@@ -1,2 +1,93 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>HB 1488 - Working forest license plate</title><link>https://wa-law.org/bill/2023-24/hb/1488/</link><description>Updates about HB 1488</description><language>en-US</language><lastBuildDate>Mon, 13 Mar 2023 00:00:00 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>First reading, referred to Transportation.</title><description>First reading, referred to Transportation.</description><pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-01-20/First reading, referred to Transportation.</guid></item><item><title>👍Tom Davis - Washington Forest Protection Association</title><description>Tom Davis signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_forest_protection_association/"&gt;Washington Forest Protection Association&lt;/a&gt;.</description><pubDate>Sat, 28 Jan 2023 11:41:04 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Tom/Davis/2023-01-28 11:41:04</guid></item><item><title>👍Elaine Oneil - Washington Farm Forestry Association</title><description>Elaine Oneil signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_farm_forestry_association/"&gt;Washington Farm Forestry Association&lt;/a&gt;.</description><pubDate>Tue, 31 Jan 2023 04:44:19 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Elaine/Oneil/2023-01-31 04:44:19</guid></item><item><title>👍Jenny Knoth - Washington Farm Forestry Association</title><description>Jenny Knoth signed up to testify Pro.</description><pubDate>Tue, 31 Jan 2023 04:44:19 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Jenny/Knoth/2023-01-31 04:44:19</guid></item><item><title>👍Ken Miller - Washington Farm Forestry Association</title><description>Ken Miller signed up to testify Pro.</description><pubDate>Tue, 31 Jan 2023 04:44:19 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Ken/Miller/2023-01-31 04:44:19</guid></item><item><title>Minority; without recommendation.</title><description>Minority; without recommendation.</description><pubDate>Thu, 09 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-09/Minority; without recommendation.</guid></item><item><title>TR - Executive action taken by committee.</title><description>TR - Executive action taken by committee.</description><pubDate>Thu, 09 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-09/TR - Executive action taken by committee.</guid></item><item><title>Referred to Rules 2 Review.</title><description>Referred to Rules 2 Review.</description><pubDate>Tue, 14 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-14/Referred to Rules 2 Review.</guid></item><item><title>Rules Committee relieved of further consideration.  Placed on second reading.</title><description>Rules Committee relieved of further consideration.  Placed on second reading.</description><pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-03-03/Rules Committee relieved of further consideration.  Placed on second reading.</guid></item><item><title>Referred to Rules 2 Consideration.</title><description>Referred to Rules 2 Consideration.</description><pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-03-13/Referred to Rules 2 Consideration.</guid></item><item><title>Returned to Rules Committee for second reading.</title><description>Returned to Rules Committee for second reading.</description><pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-03-13/Returned to Rules Committee for second reading.</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 1488 - Working forest license plate</title>
+		<link>https://wa-law.org/bill/2023-24/hb/1488/</link>
+		<description>Updates about HB 1488</description>
+		<language>en-US</language>
+		<lastBuildDate>Mon, 13 Mar 2023 00:00:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Transportation.</title>
+			<description>First reading, referred to Transportation.</description>
+			<pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-20/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>👍Tom Davis - Washington Forest Protection Association</title>
+			<description>Tom Davis signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_forest_protection_association/&quot;&gt;Washington Forest Protection Association&lt;/a&gt;.</description>
+			<pubDate>Sat, 28 Jan 2023 11:41:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tom/Davis/2023-01-28 11:41:04</guid>
+		</item>
+		<item>
+			<title>👍Elaine Oneil - Washington Farm Forestry Association</title>
+			<description>Elaine Oneil signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_farm_forestry_association/&quot;&gt;Washington Farm Forestry Association&lt;/a&gt;.</description>
+			<pubDate>Tue, 31 Jan 2023 04:44:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Elaine/Oneil/2023-01-31 04:44:19</guid>
+		</item>
+		<item>
+			<title>👍Jenny Knoth - Washington Farm Forestry Association</title>
+			<description>Jenny Knoth signed up to testify Pro.</description>
+			<pubDate>Tue, 31 Jan 2023 04:44:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jenny/Knoth/2023-01-31 04:44:19</guid>
+		</item>
+		<item>
+			<title>👍Ken Miller - Washington Farm Forestry Association</title>
+			<description>Ken Miller signed up to testify Pro.</description>
+			<pubDate>Tue, 31 Jan 2023 04:44:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ken/Miller/2023-01-31 04:44:19</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Thu, 09 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-09/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>TR - Executive action taken by committee.</title>
+			<description>TR - Executive action taken by committee.</description>
+			<pubDate>Thu, 09 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-09/TR - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Tue, 14 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-14/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>Rules Committee relieved of further consideration.  Placed on second reading.</title>
+			<description>Rules Committee relieved of further consideration.  Placed on second reading.</description>
+			<pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-03/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Consideration.</title>
+			<description>Referred to Rules 2 Consideration.</description>
+			<pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-13/Referred to Rules 2 Consideration.</guid>
+		</item>
+		<item>
+			<title>Returned to Rules Committee for second reading.</title>
+			<description>Returned to Rules Committee for second reading.</description>
+			<pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-13/Returned to Rules Committee for second reading.</guid>
+		</item>
+	</channel>
+</rss>

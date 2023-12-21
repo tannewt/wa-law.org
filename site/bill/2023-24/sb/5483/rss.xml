@@ -1,2 +1,65 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>SB 5483 - Digital processing services</title><link>https://wa-law.org/bill/2023-24/sb/5483/</link><description>Updates about SB 5483</description><language>en-US</language><lastBuildDate>Fri, 17 Feb 2023 00:00:00 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>First reading, referred to Business, Financial Services, Gaming &amp; Trade.</title><description>First reading, referred to Business, Financial Services, Gaming &amp; Trade.</description><pubDate>Thu, 19 Jan 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-01-19/First reading, referred to Business, Financial Services, Gaming &amp; Trade.</guid></item><item><title>👍Brad Tower - Community Bankers of Washington</title><description>Brad Tower signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/community_bankers_of_washington/"&gt;Community Bankers of Washington&lt;/a&gt;.</description><pubDate>Mon, 23 Jan 2023 12:21:38 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Brad/Tower/2023-01-23 12:21:38</guid></item><item><title>👍💵Joe Adamack - Washington’s Credit Unions</title><description>Joe Adamack signed up to testify Pro. They are signed up to represent Washington’s Credit Unions. They are a registered lobbyist.</description><pubDate>Wed, 25 Jan 2023 06:47:07 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Joe/Adamack/2023-01-25 06:47:07</guid></item><item><title>👎Steve Ewing - Department of Revenue</title><description>Steve Ewing signed up to testify Con. They are signed up to represent Department of Revenue.</description><pubDate>Wed, 25 Jan 2023 09:18:17 GMT</pubDate><category>testifier</category><category>Con</category><guid isPermaLink="false">testifier/Steve/Ewing/2023-01-25 09:18:17</guid></item><item><title>👍Glen Simecek - Washington Bankers Association</title><description>Glen Simecek signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_bankers_association/"&gt;Washington Bankers Association&lt;/a&gt;.</description><pubDate>Wed, 25 Jan 2023 12:41:45 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Glen/Simecek/2023-01-25 12:41:45</guid></item><item><title>Minority; do not pass.</title><description>Minority; do not pass.</description><pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-16/Minority; do not pass.</guid></item><item><title>Referred to Ways &amp; Means.</title><description>Referred to Ways &amp; Means.</description><pubDate>Fri, 17 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-17/Referred to Ways &amp; Means.</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 5483 - Digital processing services</title>
+		<link>https://wa-law.org/bill/2023-24/sb/5483/</link>
+		<description>Updates about SB 5483</description>
+		<language>en-US</language>
+		<lastBuildDate>Fri, 17 Feb 2023 00:00:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Business, Financial Services, Gaming &amp; Trade.</title>
+			<description>First reading, referred to Business, Financial Services, Gaming &amp; Trade.</description>
+			<pubDate>Thu, 19 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-19/First reading, referred to Business, Financial Services, Gaming &amp; Trade.</guid>
+		</item>
+		<item>
+			<title>👍Brad Tower - Community Bankers of Washington</title>
+			<description>Brad Tower signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/community_bankers_of_washington/&quot;&gt;Community Bankers of Washington&lt;/a&gt;.</description>
+			<pubDate>Mon, 23 Jan 2023 12:21:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brad/Tower/2023-01-23 12:21:38</guid>
+		</item>
+		<item>
+			<title>👍💵Joe Adamack - Washington’s Credit Unions</title>
+			<description>Joe Adamack signed up to testify Pro. They are signed up to represent Washington’s Credit Unions. They are a registered lobbyist.</description>
+			<pubDate>Wed, 25 Jan 2023 06:47:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Joe/Adamack/2023-01-25 06:47:07</guid>
+		</item>
+		<item>
+			<title>👎Steve Ewing - Department of Revenue</title>
+			<description>Steve Ewing signed up to testify Con. They are signed up to represent Department of Revenue.</description>
+			<pubDate>Wed, 25 Jan 2023 09:18:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Steve/Ewing/2023-01-25 09:18:17</guid>
+		</item>
+		<item>
+			<title>👍Glen Simecek - Washington Bankers Association</title>
+			<description>Glen Simecek signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_bankers_association/&quot;&gt;Washington Bankers Association&lt;/a&gt;.</description>
+			<pubDate>Wed, 25 Jan 2023 12:41:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Glen/Simecek/2023-01-25 12:41:45</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-16/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Fri, 17 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-17/Referred to Ways &amp; Means.</guid>
+		</item>
+	</channel>
+</rss>

@@ -1,2 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>HB 1822 - Cannabis/short-term rentals</title><link>https://wa-law.org/bill/2023-24/hb/1822/</link><description>Updates about HB 1822</description><language>en-US</language><lastBuildDate>Fri, 17 Feb 2023 00:00:00 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>First reading, referred to Regulated Substances &amp; Gaming.</title><description>First reading, referred to Regulated Substances &amp; Gaming.</description><pubDate>Mon, 13 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-13/First reading, referred to Regulated Substances &amp; Gaming.</guid></item><item><title>👍Bailey Hirschburg - WA National Org for the Reform of Marijuana Laws (NORML)</title><description>Bailey Hirschburg signed up to testify Pro. They are signed up to represent WA National Org for the Reform of Marijuana Laws (NORML).</description><pubDate>Mon, 13 Feb 2023 06:45:42 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Bailey/Hirschburg/2023-02-13 06:45:42</guid></item><item><title>RSG - Executive action taken by committee.</title><description>RSG - Executive action taken by committee.</description><pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-16/RSG - Executive action taken by committee.</guid></item><item><title>Referred to Rules 2 Review.</title><description>Referred to Rules 2 Review.</description><pubDate>Fri, 17 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-17/Referred to Rules 2 Review.</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 1822 - Cannabis/short-term rentals</title>
+		<link>https://wa-law.org/bill/2023-24/hb/1822/</link>
+		<description>Updates about HB 1822</description>
+		<language>en-US</language>
+		<lastBuildDate>Fri, 17 Feb 2023 00:00:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Regulated Substances &amp; Gaming.</title>
+			<description>First reading, referred to Regulated Substances &amp; Gaming.</description>
+			<pubDate>Mon, 13 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-13/First reading, referred to Regulated Substances &amp; Gaming.</guid>
+		</item>
+		<item>
+			<title>👍Bailey Hirschburg - WA National Org for the Reform of Marijuana Laws (NORML)</title>
+			<description>Bailey Hirschburg signed up to testify Pro. They are signed up to represent WA National Org for the Reform of Marijuana Laws (NORML).</description>
+			<pubDate>Mon, 13 Feb 2023 06:45:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bailey/Hirschburg/2023-02-13 06:45:42</guid>
+		</item>
+		<item>
+			<title>RSG - Executive action taken by committee.</title>
+			<description>RSG - Executive action taken by committee.</description>
+			<pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-16/RSG - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Fri, 17 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-17/Referred to Rules 2 Review.</guid>
+		</item>
+	</channel>
+</rss>

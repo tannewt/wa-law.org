@@ -1,2 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>SB 5841 - Requiring individuals convicted of offenses related to driving under the influence to pay financial support to minor children and dependents when the offense results in the death or disability of a parent.</title><link>https://wa-law.org/bill/2023-24/sb/5841/</link><description>Updates about SB 5841</description><language>en-US</language><lastBuildDate>Wed, 13 Dec 2023 00:00:00 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>Prefiled for introduction.</title><description>Prefiled for introduction.</description><pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-12-13/Prefiled for introduction.</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 5841 - Requiring individuals convicted of offenses related to driving under the influence to pay financial support to minor children and dependents when the offense results in the death or disability of a parent.</title>
+		<link>https://wa-law.org/bill/2023-24/sb/5841/</link>
+		<description>Updates about SB 5841</description>
+		<language>en-US</language>
+		<lastBuildDate>Wed, 13 Dec 2023 00:00:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>Prefiled for introduction.</title>
+			<description>Prefiled for introduction.</description>
+			<pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-12-13/Prefiled for introduction.</guid>
+		</item>
+	</channel>
+</rss>

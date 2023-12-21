@@ -1,2 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>SB 5485 - Public employees/child care</title><link>https://wa-law.org/bill/2023-24/sb/5485/</link><description>Updates about SB 5485</description><language>en-US</language><lastBuildDate>Mon, 13 Feb 2023 00:00:00 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>First reading, referred to State Government &amp; Elections.</title><description>First reading, referred to State Government &amp; Elections.</description><pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-01-20/First reading, referred to State Government &amp; Elections.</guid></item><item><title>👍Emi Bushelle - Zero Waste Washington</title><description>Emi Bushelle signed up to testify Pro.</description><pubDate>Thu, 26 Jan 2023 03:10:52 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Emi/Bushelle/2023-01-26 03:10:52</guid></item><item><title>❓Eric Pratt - I, America</title><description>Eric Pratt signed up to testify Other. They are signed up to represent I, America.</description><pubDate>Mon, 30 Jan 2023 09:34:52 GMT</pubDate><category>testifier</category><category>Other</category><guid isPermaLink="false">testifier/Eric/Pratt/2023-01-30 09:34:52</guid></item><item><title>Minority; do not pass.</title><description>Minority; do not pass.</description><pubDate>Fri, 10 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-10/Minority; do not pass.</guid></item><item><title>On motion, referred to Ways &amp; Means.</title><description>On motion, referred to Ways &amp; Means.</description><pubDate>Mon, 13 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-13/On motion, referred to Ways &amp; Means.</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 5485 - Public employees/child care</title>
+		<link>https://wa-law.org/bill/2023-24/sb/5485/</link>
+		<description>Updates about SB 5485</description>
+		<language>en-US</language>
+		<lastBuildDate>Mon, 13 Feb 2023 00:00:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to State Government &amp; Elections.</title>
+			<description>First reading, referred to State Government &amp; Elections.</description>
+			<pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-20/First reading, referred to State Government &amp; Elections.</guid>
+		</item>
+		<item>
+			<title>👍Emi Bushelle - Zero Waste Washington</title>
+			<description>Emi Bushelle signed up to testify Pro.</description>
+			<pubDate>Thu, 26 Jan 2023 03:10:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Emi/Bushelle/2023-01-26 03:10:52</guid>
+		</item>
+		<item>
+			<title>❓Eric Pratt - I, America</title>
+			<description>Eric Pratt signed up to testify Other. They are signed up to represent I, America.</description>
+			<pubDate>Mon, 30 Jan 2023 09:34:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Eric/Pratt/2023-01-30 09:34:52</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Fri, 10 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-10/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>On motion, referred to Ways &amp; Means.</title>
+			<description>On motion, referred to Ways &amp; Means.</description>
+			<pubDate>Mon, 13 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-13/On motion, referred to Ways &amp; Means.</guid>
+		</item>
+	</channel>
+</rss>

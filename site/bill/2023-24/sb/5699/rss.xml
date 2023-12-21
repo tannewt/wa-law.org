@@ -1,2 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>SB 5699 - Increasing the compensation for members of the fish and wildlife commission.</title><link>https://wa-law.org/bill/2023-24/sb/5699/</link><description>Updates about SB 5699</description><language>en-US</language><lastBuildDate>Mon, 13 Feb 2023 09:09:29 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>First reading, referred to Agriculture, Water, Natural Resources &amp; Parks.</title><description>First reading, referred to Agriculture, Water, Natural Resources &amp; Parks.</description><pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-03/First reading, referred to Agriculture, Water, Natural Resources &amp; Parks.</guid></item><item><title>👍💵Samantha Bruegger - Washington Wildlife First</title><description>Samantha Bruegger signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_wildlife_first/"&gt;Washington Wildlife First&lt;/a&gt;. They are a registered lobbyist.</description><pubDate>Fri, 10 Feb 2023 01:50:33 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Samantha/Bruegger/2023-02-10 01:50:33</guid></item><item><title>👎Dale Magart - Washington Wildlife First</title><description>Dale Magart signed up to testify Con.</description><pubDate>Mon, 13 Feb 2023 09:09:29 GMT</pubDate><category>testifier</category><category>Con</category><guid isPermaLink="false">testifier/Dale/Magart/2023-02-13 09:09:29</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 5699 - Increasing the compensation for members of the fish and wildlife commission.</title>
+		<link>https://wa-law.org/bill/2023-24/sb/5699/</link>
+		<description>Updates about SB 5699</description>
+		<language>en-US</language>
+		<lastBuildDate>Mon, 13 Feb 2023 09:09:29 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Agriculture, Water, Natural Resources &amp; Parks.</title>
+			<description>First reading, referred to Agriculture, Water, Natural Resources &amp; Parks.</description>
+			<pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-03/First reading, referred to Agriculture, Water, Natural Resources &amp; Parks.</guid>
+		</item>
+		<item>
+			<title>👍💵Samantha Bruegger - Washington Wildlife First</title>
+			<description>Samantha Bruegger signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_wildlife_first/&quot;&gt;Washington Wildlife First&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Fri, 10 Feb 2023 01:50:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Samantha/Bruegger/2023-02-10 01:50:33</guid>
+		</item>
+		<item>
+			<title>👎Dale Magart - Washington Wildlife First</title>
+			<description>Dale Magart signed up to testify Con.</description>
+			<pubDate>Mon, 13 Feb 2023 09:09:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Dale/Magart/2023-02-13 09:09:29</guid>
+		</item>
+	</channel>
+</rss>

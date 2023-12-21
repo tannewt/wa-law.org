@@ -1,2 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>HB 1780 - Climate comm. act/fuel use</title><link>https://wa-law.org/bill/2023-24/hb/1780/</link><description>Updates about HB 1780</description><language>en-US</language><lastBuildDate>Fri, 18 Aug 2023 22:33:28 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>First reading, referred to Environment &amp; Energy.</title><description>First reading, referred to Environment &amp; Energy.</description><pubDate>Tue, 07 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-07/First reading, referred to Environment &amp; Energy.</guid></item><item><title>FAQs: How regressive Democratic policies increased Washington’s gas prices | Washington State House Republicans</title><description>News article "FAQs: How regressive Democratic policies increased Washington’s gas prices | Washington State House Republicans" from House Republicans.</description><pubDate>Fri, 18 Aug 2023 22:33:28 GMT</pubDate><category>news</category><guid isPermaLink="true">https://houserepublicans.wa.gov/wa-gas-prices/#:~:text=House%20Bill%201780</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 1780 - Climate comm. act/fuel use</title>
+		<link>https://wa-law.org/bill/2023-24/hb/1780/</link>
+		<description>Updates about HB 1780</description>
+		<language>en-US</language>
+		<lastBuildDate>Fri, 18 Aug 2023 22:33:28 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Environment &amp; Energy.</title>
+			<description>First reading, referred to Environment &amp; Energy.</description>
+			<pubDate>Tue, 07 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-07/First reading, referred to Environment &amp; Energy.</guid>
+		</item>
+		<item>
+			<title>FAQs: How regressive Democratic policies increased Washington’s gas prices | Washington State House Republicans</title>
+			<description>News article &quot;FAQs: How regressive Democratic policies increased Washington’s gas prices | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Fri, 18 Aug 2023 22:33:28 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/wa-gas-prices/#:~:text=House%20Bill%201780</guid>
+		</item>
+	</channel>
+</rss>

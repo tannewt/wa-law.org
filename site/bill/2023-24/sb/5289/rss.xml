@@ -1,2 +1,75 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>SB 5289 - Impact fees/law enforcement</title><link>https://wa-law.org/bill/2023-24/sb/5289/</link><description>Updates about SB 5289</description><language>en-US</language><lastBuildDate>Mon, 23 Jan 2023 08:55:03 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>First reading, referred to Local Government, Land Use &amp; Tribal Affairs.</title><description>First reading, referred to Local Government, Land Use &amp; Tribal Affairs.</description><pubDate>Wed, 11 Jan 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-01-11/First reading, referred to Local Government, Land Use &amp; Tribal Affairs.</guid></item><item><title>👍James McMahan - WA Assoc Sheriffs &amp; Police Chiefs</title><description>James McMahan signed up to testify Pro. They are signed up to represent WA Assoc Sheriffs &amp; Police Chiefs.</description><pubDate>Fri, 13 Jan 2023 08:08:12 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/James/McMahan/2023-01-13 08:08:12</guid></item><item><title>👍Kevin Turner - Ferndale Police Department</title><description>Kevin Turner signed up to testify Pro. They are signed up to represent Ferndale Police Department.</description><pubDate>Tue, 17 Jan 2023 11:01:20 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Kevin/Turner/2023-01-17 11:01:20</guid></item><item><title>👎💵Bill Stauffacher - Building Industry Association of Washington</title><description>Bill Stauffacher signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/building_industry_association_of_washington/"&gt;Building Industry Association of Washington&lt;/a&gt;. They are a registered lobbyist.</description><pubDate>Tue, 17 Jan 2023 12:33:47 GMT</pubDate><category>testifier</category><category>Con</category><guid isPermaLink="false">testifier/Bill/Stauffacher/2023-01-17 12:33:47</guid></item><item><title>👎💵Alex Hur - Master Builders Association of King and Snohomish Counties</title><description>Alex Hur signed up to testify Con. They are signed up to represent Master Builders Association of King and Snohomish Counties. They are a registered lobbyist.</description><pubDate>Fri, 20 Jan 2023 03:05:52 GMT</pubDate><category>testifier</category><category>Con</category><guid isPermaLink="false">testifier/Alex/Hur/2023-01-20 03:05:52</guid></item><item><title>👍James McMahan - WA Assoc Sheriffs &amp; Police Chiefs</title><description>James McMahan signed up to testify Pro. They are signed up to represent WA Assoc Sheriffs &amp; Police Chiefs.</description><pubDate>Mon, 23 Jan 2023 07:25:04 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/James/McMahan/2023-01-23 07:25:04</guid></item><item><title>👎💵Bill Stauffacher - Building Industry Association of Washington</title><description>Bill Stauffacher signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/building_industry_association_of_washington/"&gt;Building Industry Association of Washington&lt;/a&gt;. They are a registered lobbyist.</description><pubDate>Mon, 23 Jan 2023 08:09:13 GMT</pubDate><category>testifier</category><category>Con</category><guid isPermaLink="false">testifier/Bill/Stauffacher/2023-01-23 08:09:13</guid></item><item><title>👍Kevin Turner - Ferndale City - Police Department</title><description>Kevin Turner signed up to testify Pro. They are signed up to represent Ferndale City - Police Department.</description><pubDate>Mon, 23 Jan 2023 08:55:03 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Kevin/Turner/2023-01-23 08:55:03</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 5289 - Impact fees/law enforcement</title>
+		<link>https://wa-law.org/bill/2023-24/sb/5289/</link>
+		<description>Updates about SB 5289</description>
+		<language>en-US</language>
+		<lastBuildDate>Mon, 23 Jan 2023 08:55:03 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Local Government, Land Use &amp; Tribal Affairs.</title>
+			<description>First reading, referred to Local Government, Land Use &amp; Tribal Affairs.</description>
+			<pubDate>Wed, 11 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-11/First reading, referred to Local Government, Land Use &amp; Tribal Affairs.</guid>
+		</item>
+		<item>
+			<title>👍James McMahan - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>James McMahan signed up to testify Pro. They are signed up to represent WA Assoc Sheriffs &amp; Police Chiefs.</description>
+			<pubDate>Fri, 13 Jan 2023 08:08:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/James/McMahan/2023-01-13 08:08:12</guid>
+		</item>
+		<item>
+			<title>👍Kevin Turner - Ferndale Police Department</title>
+			<description>Kevin Turner signed up to testify Pro. They are signed up to represent Ferndale Police Department.</description>
+			<pubDate>Tue, 17 Jan 2023 11:01:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kevin/Turner/2023-01-17 11:01:20</guid>
+		</item>
+		<item>
+			<title>👎💵Bill Stauffacher - Building Industry Association of Washington</title>
+			<description>Bill Stauffacher signed up to testify Con. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/building_industry_association_of_washington/&quot;&gt;Building Industry Association of Washington&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 17 Jan 2023 12:33:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Bill/Stauffacher/2023-01-17 12:33:47</guid>
+		</item>
+		<item>
+			<title>👎💵Alex Hur - Master Builders Association of King and Snohomish Counties</title>
+			<description>Alex Hur signed up to testify Con. They are signed up to represent Master Builders Association of King and Snohomish Counties. They are a registered lobbyist.</description>
+			<pubDate>Fri, 20 Jan 2023 03:05:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Alex/Hur/2023-01-20 03:05:52</guid>
+		</item>
+		<item>
+			<title>👍James McMahan - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>James McMahan signed up to testify Pro. They are signed up to represent WA Assoc Sheriffs &amp; Police Chiefs.</description>
+			<pubDate>Mon, 23 Jan 2023 07:25:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/James/McMahan/2023-01-23 07:25:04</guid>
+		</item>
+		<item>
+			<title>👎💵Bill Stauffacher - Building Industry Association of Washington</title>
+			<description>Bill Stauffacher signed up to testify Con. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/building_industry_association_of_washington/&quot;&gt;Building Industry Association of Washington&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 23 Jan 2023 08:09:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Bill/Stauffacher/2023-01-23 08:09:13</guid>
+		</item>
+		<item>
+			<title>👍Kevin Turner - Ferndale City - Police Department</title>
+			<description>Kevin Turner signed up to testify Pro. They are signed up to represent Ferndale City - Police Department.</description>
+			<pubDate>Mon, 23 Jan 2023 08:55:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kevin/Turner/2023-01-23 08:55:03</guid>
+		</item>
+	</channel>
+</rss>

@@ -1,2 +1,81 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>SB 5205 - Parenting plan limitations</title><link>https://wa-law.org/bill/2023-24/sb/5205/</link><description>Updates about SB 5205</description><language>en-US</language><lastBuildDate>Fri, 10 Mar 2023 00:00:00 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>👍Judge Janet Helson - Superior Court Judges' Association</title><description>Judge Janet Helson signed up to testify Pro. They are signed up to represent Superior Court Judges' Association.</description><pubDate>Sat, 14 Jan 2023 10:54:57 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Judge Janet/Helson/2023-01-14 10:54:57</guid></item><item><title>❓Stephen Hicks - National Parents Organization</title><description>Stephen Hicks signed up to testify Other. They are signed up to represent National Parents Organization.</description><pubDate>Mon, 16 Jan 2023 04:12:45 GMT</pubDate><category>testifier</category><category>Other</category><guid isPermaLink="false">testifier/Stephen/Hicks/2023-01-16 04:12:45</guid></item><item><title>❓Stephen Hicks - National Parents Organization</title><description>Stephen Hicks signed up to testify Other. They are signed up to represent National Parents Organization.</description><pubDate>Mon, 16 Jan 2023 05:03:58 GMT</pubDate><category>testifier</category><category>Other</category><guid isPermaLink="false">testifier/Stephen/Hicks/2023-01-16 05:03:58</guid></item><item><title>❓Stephen Hicks - National Parents Organization</title><description>Stephen Hicks signed up to testify Other. They are signed up to represent National Parents Organization.</description><pubDate>Mon, 16 Jan 2023 05:04:49 GMT</pubDate><category>testifier</category><category>Other</category><guid isPermaLink="false">testifier/Stephen/Hicks/2023-01-16 05:04:49</guid></item><item><title>❓Predrag Tosic - National Parents Organization</title><description>Predrag Tosic signed up to testify Other.</description><pubDate>Mon, 16 Jan 2023 10:59:52 GMT</pubDate><category>testifier</category><category>Other</category><guid isPermaLink="false">testifier/Predrag/Tosic/2023-01-16 10:59:52</guid></item><item><title>❓Angel Cruzado - -</title><description>Angel Cruzado signed up to testify Other. They are signed up to represent -.</description><pubDate>Mon, 16 Jan 2023 12:46:35 GMT</pubDate><category>testifier</category><category>Other</category><guid isPermaLink="false">testifier/Angel/Cruzado/2023-01-16 12:46:35</guid></item><item><title>Passed to Rules Committee for second reading.</title><description>Passed to Rules Committee for second reading.</description><pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-01-20/Passed to Rules Committee for second reading.</guid></item><item><title>Placed on second reading by Rules Committee.</title><description>Placed on second reading by Rules Committee.</description><pubDate>Wed, 08 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-08/Placed on second reading by Rules Committee.</guid></item><item><title>Senate Rules "X" file.</title><description>Senate Rules "X" file.</description><pubDate>Fri, 10 Mar 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-03-10/Senate Rules "X" file.</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 5205 - Parenting plan limitations</title>
+		<link>https://wa-law.org/bill/2023-24/sb/5205/</link>
+		<description>Updates about SB 5205</description>
+		<language>en-US</language>
+		<lastBuildDate>Fri, 10 Mar 2023 00:00:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>👍Judge Janet Helson - Superior Court Judges' Association</title>
+			<description>Judge Janet Helson signed up to testify Pro. They are signed up to represent Superior Court Judges' Association.</description>
+			<pubDate>Sat, 14 Jan 2023 10:54:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Judge Janet/Helson/2023-01-14 10:54:57</guid>
+		</item>
+		<item>
+			<title>❓Stephen Hicks - National Parents Organization</title>
+			<description>Stephen Hicks signed up to testify Other. They are signed up to represent National Parents Organization.</description>
+			<pubDate>Mon, 16 Jan 2023 04:12:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Stephen/Hicks/2023-01-16 04:12:45</guid>
+		</item>
+		<item>
+			<title>❓Stephen Hicks - National Parents Organization</title>
+			<description>Stephen Hicks signed up to testify Other. They are signed up to represent National Parents Organization.</description>
+			<pubDate>Mon, 16 Jan 2023 05:03:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Stephen/Hicks/2023-01-16 05:03:58</guid>
+		</item>
+		<item>
+			<title>❓Stephen Hicks - National Parents Organization</title>
+			<description>Stephen Hicks signed up to testify Other. They are signed up to represent National Parents Organization.</description>
+			<pubDate>Mon, 16 Jan 2023 05:04:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Stephen/Hicks/2023-01-16 05:04:49</guid>
+		</item>
+		<item>
+			<title>❓Predrag Tosic - National Parents Organization</title>
+			<description>Predrag Tosic signed up to testify Other.</description>
+			<pubDate>Mon, 16 Jan 2023 10:59:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Predrag/Tosic/2023-01-16 10:59:52</guid>
+		</item>
+		<item>
+			<title>❓Angel Cruzado - -</title>
+			<description>Angel Cruzado signed up to testify Other. They are signed up to represent -.</description>
+			<pubDate>Mon, 16 Jan 2023 12:46:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Angel/Cruzado/2023-01-16 12:46:35</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-20/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Wed, 08 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-08/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Senate Rules &quot;X&quot; file.</title>
+			<description>Senate Rules &quot;X&quot; file.</description>
+			<pubDate>Fri, 10 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-10/Senate Rules &quot;X&quot; file.</guid>
+		</item>
+	</channel>
+</rss>

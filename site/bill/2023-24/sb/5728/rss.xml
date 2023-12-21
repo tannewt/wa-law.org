@@ -1,2 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>SB 5728 - Fuels/climate commit. act</title><link>https://wa-law.org/bill/2023-24/sb/5728/</link><description>Updates about SB 5728</description><language>en-US</language><lastBuildDate>Tue, 14 Nov 2023 18:45:00 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>First reading, referred to Environment, Energy &amp; Technology.</title><description>First reading, referred to Environment, Energy &amp; Technology.</description><pubDate>Wed, 08 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-08/First reading, referred to Environment, Energy &amp; Technology.</guid></item><item><title>Dozier plans to reintroduce fuel carve-outs bill to Washington cap-and-trade law | Washington | thecentersquare.com</title><description>News article "Dozier plans to reintroduce fuel carve-outs bill to Washington cap-and-trade law | Washington | thecentersquare.com" from The Center Square.</description><pubDate>Tue, 14 Nov 2023 18:45:00 GMT</pubDate><category>news</category><guid isPermaLink="true">https://www.thecentersquare.com/washington/article_ae18e2aa-834c-11ee-8924-6ba0313ed51c.html#:~:text=Senate%20Bill%205728</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 5728 - Fuels/climate commit. act</title>
+		<link>https://wa-law.org/bill/2023-24/sb/5728/</link>
+		<description>Updates about SB 5728</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 14 Nov 2023 18:45:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Environment, Energy &amp; Technology.</title>
+			<description>First reading, referred to Environment, Energy &amp; Technology.</description>
+			<pubDate>Wed, 08 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-08/First reading, referred to Environment, Energy &amp; Technology.</guid>
+		</item>
+		<item>
+			<title>Dozier plans to reintroduce fuel carve-outs bill to Washington cap-and-trade law | Washington | thecentersquare.com</title>
+			<description>News article &quot;Dozier plans to reintroduce fuel carve-outs bill to Washington cap-and-trade law | Washington | thecentersquare.com&quot; from The Center Square.</description>
+			<pubDate>Tue, 14 Nov 2023 18:45:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_ae18e2aa-834c-11ee-8924-6ba0313ed51c.html#:~:text=Senate%20Bill%205728</guid>
+		</item>
+	</channel>
+</rss>

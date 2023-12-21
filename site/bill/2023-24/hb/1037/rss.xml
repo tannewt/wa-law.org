@@ -1,2 +1,107 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>HB 1037 - Family burial grounds</title><link>https://wa-law.org/bill/2023-24/hb/1037/</link><description>Updates about HB 1037</description><language>en-US</language><lastBuildDate>Sun, 23 Apr 2023 00:00:00 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>Referred to Rules 2 Review.</title><description>Referred to Rules 2 Review.</description><pubDate>Tue, 24 Jan 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-01-24/Referred to Rules 2 Review.</guid></item><item><title>Placed on second reading suspension calendar by Rules Committee.</title><description>Placed on second reading suspension calendar by Rules Committee.</description><pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-03/Placed on second reading suspension calendar by Rules Committee.</guid></item><item><title>Placed on second reading.</title><description>Placed on second reading.</description><pubDate>Fri, 17 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-17/Placed on second reading.</guid></item><item><title>1st substitute bill substituted.</title><description>1st substitute bill substituted.</description><pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-27/1st substitute bill substituted.</guid></item><item><title>Third reading, passed; yeas, 95; nays, 0; absent, 0; excused, 3.</title><description>Third reading, passed; yeas, 95; nays, 0; absent, 0; excused, 3.</description><pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-27/Third reading, passed; yeas, 95; nays, 0; absent, 0; excused, 3.</guid></item><item><title>Walsh bill to allow family to be buried on private property clears House</title><description>News article "Walsh bill to allow family to be buried on private property clears House" from Gorge News Center.</description><pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate><category>news</category><guid isPermaLink="true">https://gorgenewscenter.com/2023/02/27/walsh-bill-to-allow-family-to-be-buried-on-private-property-clears-house/#:~:text=House%20Bill%201037</guid></item><item><title>First reading, referred to Law &amp; Justice.</title><description>First reading, referred to Law &amp; Justice.</description><pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-03-01/First reading, referred to Law &amp; Justice.</guid></item><item><title>Bills protecting EV stations, tow truck drivers, more move forward in WA Legislature</title><description>News article "Bills protecting EV stations, tow truck drivers, more move forward in WA Legislature" from The Daily News.</description><pubDate>Thu, 02 Mar 2023 15:38:00 GMT</pubDate><category>news</category><guid isPermaLink="true">https://tdn.com/news/local/govt-and-politics/bills-protecting-ev-stations-tow-truck-drivers-more-move-forward-in-wa-legislature/article_9547a582-abf6-11ed-b0aa-7b7eb72b7bc6.html#:~:text=House%20Bill%201037</guid></item><item><title>👎Julie Seitz - People's Memorial Association</title><description>Julie Seitz signed up to testify Con.</description><pubDate>Mon, 13 Mar 2023 03:59:39 GMT</pubDate><category>testifier</category><category>Con</category><guid isPermaLink="false">testifier/Julie/Seitz/2023-03-13 03:59:39</guid></item><item><title>👍Sylvia Miller - Vice Chair, Puyallup Tribe of Indians</title><description>Sylvia Miller signed up to testify Pro. They are signed up to represent Vice Chair, Puyallup Tribe of Indians.</description><pubDate>Mon, 13 Mar 2023 06:42:06 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Sylvia/Miller/2023-03-13 06:42:06</guid></item><item><title>👍Bonnie Bizzell - People's Memorial Association</title><description>Bonnie Bizzell signed up to testify Pro. They are signed up to represent People's Memorial Association.</description><pubDate>Mon, 13 Mar 2023 10:11:28 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Bonnie/Bizzell/2023-03-13 10:11:28</guid></item><item><title>👎Allyson Brooks - Dept of Archaelogy and Historic Preservation</title><description>Allyson Brooks signed up to testify Con. They are signed up to represent Dept of Archaelogy and Historic Preservation.</description><pubDate>Tue, 14 Mar 2023 05:38:01 GMT</pubDate><category>testifier</category><category>Con</category><guid isPermaLink="false">testifier/Allyson/Brooks/2023-03-14 05:38:01</guid></item><item><title>By resolution, returned to House Rules Committee for third reading.</title><description>By resolution, returned to House Rules Committee for third reading.</description><pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-04-23/By resolution, returned to House Rules Committee for third reading.</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 1037 - Family burial grounds</title>
+		<link>https://wa-law.org/bill/2023-24/hb/1037/</link>
+		<description>Updates about HB 1037</description>
+		<language>en-US</language>
+		<lastBuildDate>Sun, 23 Apr 2023 00:00:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Tue, 24 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-24/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>Placed on second reading suspension calendar by Rules Committee.</title>
+			<description>Placed on second reading suspension calendar by Rules Committee.</description>
+			<pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-03/Placed on second reading suspension calendar by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Placed on second reading.</title>
+			<description>Placed on second reading.</description>
+			<pubDate>Fri, 17 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-17/Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>1st substitute bill substituted.</title>
+			<description>1st substitute bill substituted.</description>
+			<pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-27/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 95; nays, 0; absent, 0; excused, 3.</title>
+			<description>Third reading, passed; yeas, 95; nays, 0; absent, 0; excused, 3.</description>
+			<pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-27/Third reading, passed; yeas, 95; nays, 0; absent, 0; excused, 3.</guid>
+		</item>
+		<item>
+			<title>Walsh bill to allow family to be buried on private property clears House</title>
+			<description>News article &quot;Walsh bill to allow family to be buried on private property clears House&quot; from Gorge News Center.</description>
+			<pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2023/02/27/walsh-bill-to-allow-family-to-be-buried-on-private-property-clears-house/#:~:text=House%20Bill%201037</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Law &amp; Justice.</title>
+			<description>First reading, referred to Law &amp; Justice.</description>
+			<pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-01/First reading, referred to Law &amp; Justice.</guid>
+		</item>
+		<item>
+			<title>Bills protecting EV stations, tow truck drivers, more move forward in WA Legislature</title>
+			<description>News article &quot;Bills protecting EV stations, tow truck drivers, more move forward in WA Legislature&quot; from The Daily News.</description>
+			<pubDate>Thu, 02 Mar 2023 15:38:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://tdn.com/news/local/govt-and-politics/bills-protecting-ev-stations-tow-truck-drivers-more-move-forward-in-wa-legislature/article_9547a582-abf6-11ed-b0aa-7b7eb72b7bc6.html#:~:text=House%20Bill%201037</guid>
+		</item>
+		<item>
+			<title>👎Julie Seitz - People's Memorial Association</title>
+			<description>Julie Seitz signed up to testify Con.</description>
+			<pubDate>Mon, 13 Mar 2023 03:59:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Julie/Seitz/2023-03-13 03:59:39</guid>
+		</item>
+		<item>
+			<title>👍Sylvia Miller - Vice Chair, Puyallup Tribe of Indians</title>
+			<description>Sylvia Miller signed up to testify Pro. They are signed up to represent Vice Chair, Puyallup Tribe of Indians.</description>
+			<pubDate>Mon, 13 Mar 2023 06:42:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sylvia/Miller/2023-03-13 06:42:06</guid>
+		</item>
+		<item>
+			<title>👍Bonnie Bizzell - People's Memorial Association</title>
+			<description>Bonnie Bizzell signed up to testify Pro. They are signed up to represent People's Memorial Association.</description>
+			<pubDate>Mon, 13 Mar 2023 10:11:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bonnie/Bizzell/2023-03-13 10:11:28</guid>
+		</item>
+		<item>
+			<title>👎Allyson Brooks - Dept of Archaelogy and Historic Preservation</title>
+			<description>Allyson Brooks signed up to testify Con. They are signed up to represent Dept of Archaelogy and Historic Preservation.</description>
+			<pubDate>Tue, 14 Mar 2023 05:38:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Allyson/Brooks/2023-03-14 05:38:01</guid>
+		</item>
+		<item>
+			<title>By resolution, returned to House Rules Committee for third reading.</title>
+			<description>By resolution, returned to House Rules Committee for third reading.</description>
+			<pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-23/By resolution, returned to House Rules Committee for third reading.</guid>
+		</item>
+	</channel>
+</rss>

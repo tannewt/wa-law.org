@@ -1,2 +1,106 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>SB 5726 - Prevailing wage/public works</title><link>https://wa-law.org/bill/2023-24/sb/5726/</link><description>Updates about SB 5726</description><language>en-US</language><lastBuildDate>Mon, 26 Jun 2023 18:20:59 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>First reading, referred to Labor &amp; Commerce.</title><description>First reading, referred to Labor &amp; Commerce.</description><pubDate>Wed, 08 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-08/First reading, referred to Labor &amp; Commerce.</guid></item><item><title>👍Jerry VanderWood - Associated General Contractors (AGC)</title><description>Jerry VanderWood signed up to testify Pro. They are signed up to represent Associated General Contractors (AGC).</description><pubDate>Wed, 08 Feb 2023 04:00:01 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Jerry/VanderWood/2023-02-08 04:00:01</guid></item><item><title>❓💵Ray Dumas - OPCMIA Local 528</title><description>Ray Dumas signed up to testify Other. They are signed up to represent OPCMIA Local 528. They are a registered lobbyist.</description><pubDate>Wed, 08 Feb 2023 05:52:26 GMT</pubDate><category>testifier</category><category>Other</category><guid isPermaLink="false">testifier/Ray/Dumas/2023-02-08 05:52:26</guid></item><item><title>👎💵Mark Riker - Washington State Building and Construction Trades Council</title><description>Mark Riker signed up to testify Con. They are signed up to represent Washington State Building and Construction Trades Council. They are a registered lobbyist.</description><pubDate>Thu, 09 Feb 2023 06:50:26 GMT</pubDate><category>testifier</category><category>Con</category><guid isPermaLink="false">testifier/Mark/Riker/2023-02-09 06:50:26</guid></item><item><title>Passed to Rules Committee for second reading.</title><description>Passed to Rules Committee for second reading.</description><pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-16/Passed to Rules Committee for second reading.</guid></item><item><title>Placed on second reading by Rules Committee.</title><description>Placed on second reading by Rules Committee.</description><pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-22/Placed on second reading by Rules Committee.</guid></item><item><title>1st substitute bill substituted.</title><description>1st substitute bill substituted.</description><pubDate>Thu, 02 Mar 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-03-02/1st substitute bill substituted.</guid></item><item><title>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</title><description>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</description><pubDate>Thu, 02 Mar 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-03-02/Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</guid></item><item><title>First reading, referred to Labor &amp; Workplace Standards.</title><description>First reading, referred to Labor &amp; Workplace Standards.</description><pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-03-06/First reading, referred to Labor &amp; Workplace Standards.</guid></item><item><title>The Week Ahead: March 20 - 24, 2023 | Washington State House Republicans</title><description>News article "The Week Ahead: March 20 - 24, 2023 | Washington State House Republicans" from House Republicans.</description><pubDate>Fri, 17 Mar 2023 23:21:01 GMT</pubDate><category>news</category><guid isPermaLink="true">https://houserepublicans.wa.gov/week/march-20-24-2023/#:~:text=SB%205726</guid></item><item><title>The Week Ahead: March 27 - 31, 2023 | Washington State House Republicans</title><description>News article "The Week Ahead: March 27 - 31, 2023 | Washington State House Republicans" from House Republicans.</description><pubDate>Fri, 24 Mar 2023 22:48:01 GMT</pubDate><category>news</category><guid isPermaLink="true">https://houserepublicans.wa.gov/week/march-27-31-2023/#:~:text=SB%205726</guid></item><item><title>By resolution, returned to Senate Rules Committee for third reading.</title><description>By resolution, returned to Senate Rules Committee for third reading.</description><pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-04-23/By resolution, returned to Senate Rules Committee for third reading.</guid></item><item><title>Week Ahead | Washington State House Republicans</title><description>News article "Week Ahead | Washington State House Republicans" from House Republicans.</description><pubDate>Mon, 26 Jun 2023 18:20:59 GMT</pubDate><category>news</category><guid isPermaLink="true">https://houserepublicans.wa.gov/stay-connected/week-ahead/#:~:text=SB%205726</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 5726 - Prevailing wage/public works</title>
+		<link>https://wa-law.org/bill/2023-24/sb/5726/</link>
+		<description>Updates about SB 5726</description>
+		<language>en-US</language>
+		<lastBuildDate>Mon, 26 Jun 2023 18:20:59 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Labor &amp; Commerce.</title>
+			<description>First reading, referred to Labor &amp; Commerce.</description>
+			<pubDate>Wed, 08 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-08/First reading, referred to Labor &amp; Commerce.</guid>
+		</item>
+		<item>
+			<title>👍Jerry VanderWood - Associated General Contractors (AGC)</title>
+			<description>Jerry VanderWood signed up to testify Pro. They are signed up to represent Associated General Contractors (AGC).</description>
+			<pubDate>Wed, 08 Feb 2023 04:00:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jerry/VanderWood/2023-02-08 04:00:01</guid>
+		</item>
+		<item>
+			<title>❓💵Ray Dumas - OPCMIA Local 528</title>
+			<description>Ray Dumas signed up to testify Other. They are signed up to represent OPCMIA Local 528. They are a registered lobbyist.</description>
+			<pubDate>Wed, 08 Feb 2023 05:52:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Ray/Dumas/2023-02-08 05:52:26</guid>
+		</item>
+		<item>
+			<title>👎💵Mark Riker - Washington State Building and Construction Trades Council</title>
+			<description>Mark Riker signed up to testify Con. They are signed up to represent Washington State Building and Construction Trades Council. They are a registered lobbyist.</description>
+			<pubDate>Thu, 09 Feb 2023 06:50:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Mark/Riker/2023-02-09 06:50:26</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-16/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-22/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>1st substitute bill substituted.</title>
+			<description>1st substitute bill substituted.</description>
+			<pubDate>Thu, 02 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-02/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</description>
+			<pubDate>Thu, 02 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-02/Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Labor &amp; Workplace Standards.</title>
+			<description>First reading, referred to Labor &amp; Workplace Standards.</description>
+			<pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-06/First reading, referred to Labor &amp; Workplace Standards.</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: March 20 - 24, 2023 | Washington State House Republicans</title>
+			<description>News article &quot;The Week Ahead: March 20 - 24, 2023 | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Fri, 17 Mar 2023 23:21:01 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/march-20-24-2023/#:~:text=SB%205726</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: March 27 - 31, 2023 | Washington State House Republicans</title>
+			<description>News article &quot;The Week Ahead: March 27 - 31, 2023 | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Fri, 24 Mar 2023 22:48:01 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/march-27-31-2023/#:~:text=SB%205726</guid>
+		</item>
+		<item>
+			<title>By resolution, returned to Senate Rules Committee for third reading.</title>
+			<description>By resolution, returned to Senate Rules Committee for third reading.</description>
+			<pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-23/By resolution, returned to Senate Rules Committee for third reading.</guid>
+		</item>
+		<item>
+			<title>Week Ahead | Washington State House Republicans</title>
+			<description>News article &quot;Week Ahead | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Mon, 26 Jun 2023 18:20:59 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/stay-connected/week-ahead/#:~:text=SB%205726</guid>
+		</item>
+	</channel>
+</rss>

@@ -1,2 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>SB 5265 - Firearms/assault weapons</title><link>https://wa-law.org/bill/2023-24/sb/5265/</link><description>Updates about SB 5265</description><language>en-US</language><lastBuildDate>Sat, 08 Apr 2023 23:50:43 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>Advocacy - Northwest Progressive Institute</title><description>News article "Advocacy - Northwest Progressive Institute" from Northwest Progressive Institute.</description><pubDate>Mon, 11 Jan 2016 20:49:29 GMT</pubDate><category>news</category><guid isPermaLink="true">https://www.nwprogressive.org/advocacy/#:~:text=Senate%20Bill%205265</guid></item><item><title>First reading, referred to Law &amp; Justice.</title><description>First reading, referred to Law &amp; Justice.</description><pubDate>Wed, 11 Jan 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-01-11/First reading, referred to Law &amp; Justice.</guid></item><item><title>Assault weapon ban passes Senate, heads back to House for concurrence - Washington Senate Democrats</title><description>News article "Assault weapon ban passes Senate, heads back to House for concurrence - Washington Senate Democrats" from Senate Democrats.</description><pubDate>Sat, 08 Apr 2023 23:50:43 GMT</pubDate><category>news</category><guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2023/04/08/assault-weapon-ban-passes-senate-heads-back-to-house-for-concurrence/#:~:text=SB%205265</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 5265 - Firearms/assault weapons</title>
+		<link>https://wa-law.org/bill/2023-24/sb/5265/</link>
+		<description>Updates about SB 5265</description>
+		<language>en-US</language>
+		<lastBuildDate>Sat, 08 Apr 2023 23:50:43 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>Advocacy - Northwest Progressive Institute</title>
+			<description>News article &quot;Advocacy - Northwest Progressive Institute&quot; from Northwest Progressive Institute.</description>
+			<pubDate>Mon, 11 Jan 2016 20:49:29 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.nwprogressive.org/advocacy/#:~:text=Senate%20Bill%205265</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Law &amp; Justice.</title>
+			<description>First reading, referred to Law &amp; Justice.</description>
+			<pubDate>Wed, 11 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-11/First reading, referred to Law &amp; Justice.</guid>
+		</item>
+		<item>
+			<title>Assault weapon ban passes Senate, heads back to House for concurrence - Washington Senate Democrats</title>
+			<description>News article &quot;Assault weapon ban passes Senate, heads back to House for concurrence - Washington Senate Democrats&quot; from Senate Democrats.</description>
+			<pubDate>Sat, 08 Apr 2023 23:50:43 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2023/04/08/assault-weapon-ban-passes-senate-heads-back-to-house-for-concurrence/#:~:text=SB%205265</guid>
+		</item>
+	</channel>
+</rss>

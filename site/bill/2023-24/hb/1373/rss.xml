@@ -1,2 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>HB 1373 - Illegal encampment removal</title><link>https://wa-law.org/bill/2023-24/hb/1373/</link><description>Updates about HB 1373</description><language>en-US</language><lastBuildDate>Tue, 18 Apr 2023 01:14:35 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>First reading, referred to Housing.</title><description>First reading, referred to Housing.</description><pubDate>Tue, 17 Jan 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-01-17/First reading, referred to Housing.</guid></item><item><title>2023 legislative session: Good and bad House bills | Washington State House Republicans</title><description>News article "2023 legislative session: Good and bad House bills | Washington State House Republicans" from House Republicans.</description><pubDate>Tue, 24 Jan 2023 01:16:42 GMT</pubDate><category>news</category><guid isPermaLink="true">https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201373</guid></item><item><title>Public safety in our communities | Washington State House Republicans</title><description>News article "Public safety in our communities | Washington State House Republicans" from House Republicans.</description><pubDate>Fri, 03 Feb 2023 17:09:16 GMT</pubDate><category>news</category><guid isPermaLink="true">https://houserepublicans.wa.gov/close-encampments/#:~:text=House%20bill%201373</guid></item><item><title>Our Priorities | Washington State House Republicans</title><description>News article "Our Priorities | Washington State House Republicans" from House Republicans.</description><pubDate>Tue, 18 Apr 2023 01:14:35 GMT</pubDate><category>news</category><guid isPermaLink="true">https://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201373</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 1373 - Illegal encampment removal</title>
+		<link>https://wa-law.org/bill/2023-24/hb/1373/</link>
+		<description>Updates about HB 1373</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 18 Apr 2023 01:14:35 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Housing.</title>
+			<description>First reading, referred to Housing.</description>
+			<pubDate>Tue, 17 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-17/First reading, referred to Housing.</guid>
+		</item>
+		<item>
+			<title>2023 legislative session: Good and bad House bills | Washington State House Republicans</title>
+			<description>News article &quot;2023 legislative session: Good and bad House bills | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Tue, 24 Jan 2023 01:16:42 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201373</guid>
+		</item>
+		<item>
+			<title>Public safety in our communities | Washington State House Republicans</title>
+			<description>News article &quot;Public safety in our communities | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Fri, 03 Feb 2023 17:09:16 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/close-encampments/#:~:text=House%20bill%201373</guid>
+		</item>
+		<item>
+			<title>Our Priorities | Washington State House Republicans</title>
+			<description>News article &quot;Our Priorities | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Tue, 18 Apr 2023 01:14:35 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201373</guid>
+		</item>
+	</channel>
+</rss>

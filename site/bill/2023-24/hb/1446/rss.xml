@@ -1,2 +1,97 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>HB 1446 - Law enf. officers/increase</title><link>https://wa-law.org/bill/2023-24/hb/1446/</link><description>Updates about HB 1446</description><language>en-US</language><lastBuildDate>Tue, 14 Feb 2023 05:27:12 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>First reading, referred to Local Government.</title><description>First reading, referred to Local Government.</description><pubDate>Thu, 19 Jan 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-01-19/First reading, referred to Local Government.</guid></item><item><title>2023 legislative session: Good and bad House bills | Washington State House Republicans</title><description>News article "2023 legislative session: Good and bad House bills | Washington State House Republicans" from House Republicans.</description><pubDate>Tue, 24 Jan 2023 01:16:42 GMT</pubDate><category>news</category><guid isPermaLink="true">https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201446</guid></item><item><title>Public safety | Washington State House Republicans</title><description>News article "Public safety | Washington State House Republicans" from House Republicans.</description><pubDate>Sat, 28 Jan 2023 02:36:13 GMT</pubDate><category>news</category><guid isPermaLink="true">https://houserepublicans.wa.gov/current/public-safety/#:~:text=House%20Bill%201446</guid></item><item><title>👍Mark Crider - Walla Walla Sheriffs Office</title><description>Mark Crider signed up to testify Pro. They are signed up to represent Walla Walla Sheriffs Office.</description><pubDate>Fri, 10 Feb 2023 01:16:33 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Mark/Crider/2023-02-10 01:16:33</guid></item><item><title>👍Dana Ralph - Mayor of the City of Kent</title><description>Dana Ralph signed up to testify Pro. They are signed up to represent Mayor of the City of Kent.</description><pubDate>Fri, 10 Feb 2023 01:53:38 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Dana/Ralph/2023-02-10 01:53:38</guid></item><item><title>👍Rafael Padilla - City of Kent Police Chief</title><description>Rafael Padilla signed up to testify Pro. They are signed up to represent City of Kent Police Chief.</description><pubDate>Fri, 10 Feb 2023 01:53:38 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Rafael/Padilla/2023-02-10 01:53:38</guid></item><item><title>👍Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs</title><description>Jeff DeVere signed up to testify Pro. They are signed up to represent WACOPS - Washington Council of Police and Sheriffs.</description><pubDate>Sun, 12 Feb 2023 10:44:40 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Jeff/DeVere/2023-02-12 10:44:40</guid></item><item><title>👍💵Candice Bock - Association of Washington Cities</title><description>Candice Bock signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_cities/"&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description><pubDate>Sun, 12 Feb 2023 12:57:29 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Candice/Bock/2023-02-12 12:57:29</guid></item><item><title>👍Ian Huri - Snohomish County Sheriff's Office</title><description>Ian Huri signed up to testify Pro. They are signed up to represent Snohomish County Sheriff's Office.</description><pubDate>Mon, 13 Feb 2023 09:01:36 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Ian/Huri/2023-02-13 09:01:36</guid></item><item><title>👍💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs</title><description>Taylor Gardner signed up to testify Pro. They are signed up to represent WA Assn of Sheriffs and Police Chiefs. They are a registered lobbyist.</description><pubDate>Tue, 14 Feb 2023 02:12:40 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Taylor/Gardner/2023-02-14 02:12:40</guid></item><item><title>👍Tom Sahlberg - City Council Member - Liberty Lake, 26 years with Spokane P.D. - 20+ as an Academy Instructor</title><description>Tom Sahlberg signed up to testify Pro. They are signed up to represent City Council Member - Liberty Lake, 26 years with Spokane P.D. - 20+ as an Academy Instructor.</description><pubDate>Tue, 14 Feb 2023 05:27:12 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Tom/Sahlberg/2023-02-14 05:27:12</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 1446 - Law enf. officers/increase</title>
+		<link>https://wa-law.org/bill/2023-24/hb/1446/</link>
+		<description>Updates about HB 1446</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 14 Feb 2023 05:27:12 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Local Government.</title>
+			<description>First reading, referred to Local Government.</description>
+			<pubDate>Thu, 19 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-19/First reading, referred to Local Government.</guid>
+		</item>
+		<item>
+			<title>2023 legislative session: Good and bad House bills | Washington State House Republicans</title>
+			<description>News article &quot;2023 legislative session: Good and bad House bills | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Tue, 24 Jan 2023 01:16:42 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201446</guid>
+		</item>
+		<item>
+			<title>Public safety | Washington State House Republicans</title>
+			<description>News article &quot;Public safety | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Sat, 28 Jan 2023 02:36:13 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/current/public-safety/#:~:text=House%20Bill%201446</guid>
+		</item>
+		<item>
+			<title>👍Mark Crider - Walla Walla Sheriffs Office</title>
+			<description>Mark Crider signed up to testify Pro. They are signed up to represent Walla Walla Sheriffs Office.</description>
+			<pubDate>Fri, 10 Feb 2023 01:16:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mark/Crider/2023-02-10 01:16:33</guid>
+		</item>
+		<item>
+			<title>👍Dana Ralph - Mayor of the City of Kent</title>
+			<description>Dana Ralph signed up to testify Pro. They are signed up to represent Mayor of the City of Kent.</description>
+			<pubDate>Fri, 10 Feb 2023 01:53:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dana/Ralph/2023-02-10 01:53:38</guid>
+		</item>
+		<item>
+			<title>👍Rafael Padilla - City of Kent Police Chief</title>
+			<description>Rafael Padilla signed up to testify Pro. They are signed up to represent City of Kent Police Chief.</description>
+			<pubDate>Fri, 10 Feb 2023 01:53:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rafael/Padilla/2023-02-10 01:53:38</guid>
+		</item>
+		<item>
+			<title>👍Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs</title>
+			<description>Jeff DeVere signed up to testify Pro. They are signed up to represent WACOPS - Washington Council of Police and Sheriffs.</description>
+			<pubDate>Sun, 12 Feb 2023 10:44:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jeff/DeVere/2023-02-12 10:44:40</guid>
+		</item>
+		<item>
+			<title>👍💵Candice Bock - Association of Washington Cities</title>
+			<description>Candice Bock signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/association_of_washington_cities/&quot;&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Sun, 12 Feb 2023 12:57:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Candice/Bock/2023-02-12 12:57:29</guid>
+		</item>
+		<item>
+			<title>👍Ian Huri - Snohomish County Sheriff's Office</title>
+			<description>Ian Huri signed up to testify Pro. They are signed up to represent Snohomish County Sheriff's Office.</description>
+			<pubDate>Mon, 13 Feb 2023 09:01:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ian/Huri/2023-02-13 09:01:36</guid>
+		</item>
+		<item>
+			<title>👍💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs</title>
+			<description>Taylor Gardner signed up to testify Pro. They are signed up to represent WA Assn of Sheriffs and Police Chiefs. They are a registered lobbyist.</description>
+			<pubDate>Tue, 14 Feb 2023 02:12:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Taylor/Gardner/2023-02-14 02:12:40</guid>
+		</item>
+		<item>
+			<title>👍Tom Sahlberg - City Council Member - Liberty Lake, 26 years with Spokane P.D. - 20+ as an Academy Instructor</title>
+			<description>Tom Sahlberg signed up to testify Pro. They are signed up to represent City Council Member - Liberty Lake, 26 years with Spokane P.D. - 20+ as an Academy Instructor.</description>
+			<pubDate>Tue, 14 Feb 2023 05:27:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tom/Sahlberg/2023-02-14 05:27:12</guid>
+		</item>
+	</channel>
+</rss>

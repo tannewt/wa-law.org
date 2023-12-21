@@ -1,2 +1,89 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>HB 1049 - County district boundaries</title><link>https://wa-law.org/bill/2023-24/hb/1049/</link><description>Updates about HB 1049</description><language>en-US</language><lastBuildDate>Thu, 04 May 2023 00:00:00 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>Referred to Rules 2 Review.</title><description>Referred to Rules 2 Review.</description><pubDate>Tue, 17 Jan 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-01-17/Referred to Rules 2 Review.</guid></item><item><title>Placed on second reading suspension calendar.</title><description>Placed on second reading suspension calendar.</description><pubDate>Tue, 31 Jan 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-01-31/Placed on second reading suspension calendar.</guid></item><item><title>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</title><description>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</description><pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-01/Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</guid></item><item><title>First reading, referred to Local Government, Land Use &amp; Tribal Affairs.</title><description>First reading, referred to Local Government, Land Use &amp; Tribal Affairs.</description><pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-03/First reading, referred to Local Government, Land Use &amp; Tribal Affairs.</guid></item><item><title>LGLT - Majority; do pass with amendment(s).</title><description>LGLT - Majority; do pass with amendment(s).</description><pubDate>Thu, 09 Mar 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-03-09/LGLT - Majority; do pass with amendment(s).</guid></item><item><title>Passed to Rules Committee for second reading.</title><description>Passed to Rules Committee for second reading.</description><pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-03-13/Passed to Rules Committee for second reading.</guid></item><item><title>Placed on second reading by Rules Committee.</title><description>Placed on second reading by Rules Committee.</description><pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-03-15/Placed on second reading by Rules Committee.</guid></item><item><title>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</title><description>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</description><pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-03-22/Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</guid></item><item><title>Speaker signed.</title><description>Speaker signed.</description><pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-04-14/Speaker signed.</guid></item><item><title>Delivered to Governor.</title><description>Delivered to Governor.</description><pubDate>Tue, 18 Apr 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-04-18/Delivered to Governor.</guid></item><item><title>Effective date 7/23/2023.</title><description>Effective date 7/23/2023.</description><pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-05-04/Effective date 7/23/2023.</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 1049 - County district boundaries</title>
+		<link>https://wa-law.org/bill/2023-24/hb/1049/</link>
+		<description>Updates about HB 1049</description>
+		<language>en-US</language>
+		<lastBuildDate>Thu, 04 May 2023 00:00:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Tue, 17 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-17/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>Placed on second reading suspension calendar.</title>
+			<description>Placed on second reading suspension calendar.</description>
+			<pubDate>Tue, 31 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-31/Placed on second reading suspension calendar.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</title>
+			<description>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</description>
+			<pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-01/Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Local Government, Land Use &amp; Tribal Affairs.</title>
+			<description>First reading, referred to Local Government, Land Use &amp; Tribal Affairs.</description>
+			<pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-03/First reading, referred to Local Government, Land Use &amp; Tribal Affairs.</guid>
+		</item>
+		<item>
+			<title>LGLT - Majority; do pass with amendment(s).</title>
+			<description>LGLT - Majority; do pass with amendment(s).</description>
+			<pubDate>Thu, 09 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-09/LGLT - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-13/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-15/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</description>
+			<pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-22/Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-14/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>Delivered to Governor.</title>
+			<description>Delivered to Governor.</description>
+			<pubDate>Tue, 18 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-18/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Effective date 7/23/2023.</title>
+			<description>Effective date 7/23/2023.</description>
+			<pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-04/Effective date 7/23/2023.</guid>
+		</item>
+	</channel>
+</rss>

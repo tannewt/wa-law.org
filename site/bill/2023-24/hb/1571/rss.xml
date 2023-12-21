@@ -1,2 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>HB 1571 - Nursing facility rates</title><link>https://wa-law.org/bill/2023-24/hb/1571/</link><description>Updates about HB 1571</description><language>en-US</language><lastBuildDate>Wed, 08 Feb 2023 15:06:11 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>First reading, referred to Appropriations.</title><description>First reading, referred to Appropriations.</description><pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-01-25/First reading, referred to Appropriations.</guid></item><item><title>Update WA Medicaid rates to ease long-term care staffing crisis | The Seattle Times</title><description>News article "Update WA Medicaid rates to ease long-term care staffing crisis | The Seattle Times" from The Seattle Times.</description><pubDate>Wed, 08 Feb 2023 15:06:11 GMT</pubDate><category>news</category><guid isPermaLink="true">https://www.seattletimes.com/opinion/update-wa-medicaid-rates-to-ease-long-term-care-staffing-crisis/#:~:text=House%20Bill%201571</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 1571 - Nursing facility rates</title>
+		<link>https://wa-law.org/bill/2023-24/hb/1571/</link>
+		<description>Updates about HB 1571</description>
+		<language>en-US</language>
+		<lastBuildDate>Wed, 08 Feb 2023 15:06:11 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Appropriations.</title>
+			<description>First reading, referred to Appropriations.</description>
+			<pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-25/First reading, referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>Update WA Medicaid rates to ease long-term care staffing crisis | The Seattle Times</title>
+			<description>News article &quot;Update WA Medicaid rates to ease long-term care staffing crisis | The Seattle Times&quot; from The Seattle Times.</description>
+			<pubDate>Wed, 08 Feb 2023 15:06:11 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.seattletimes.com/opinion/update-wa-medicaid-rates-to-ease-long-term-care-staffing-crisis/#:~:text=House%20Bill%201571</guid>
+		</item>
+	</channel>
+</rss>

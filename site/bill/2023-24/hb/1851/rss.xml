@@ -1,2 +1,85 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>HB 1851 - First approach skills prog.</title><link>https://wa-law.org/bill/2023-24/hb/1851/</link><description>Updates about HB 1851</description><language>en-US</language><lastBuildDate>Sun, 23 Apr 2023 00:00:00 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>First reading, referred to Appropriations (Not Officially read and referred until adoption of Introduction report).</title><description>First reading, referred to Appropriations (Not Officially read and referred until adoption of Introduction report).</description><pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-03-28/First reading, referred to Appropriations (Not Officially read and referred until adoption of Introduction report).</guid></item><item><title>First reading, referred to Appropriations.</title><description>First reading, referred to Appropriations.</description><pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-03-28/First reading, referred to Appropriations.</guid></item><item><title>👍MSW, LICSW, Kathryn Boelk - HopeSparks and WCAAP</title><description>MSW, LICSW, Kathryn Boelk signed up to testify Pro. They are signed up to represent HopeSparks and WCAAP.</description><pubDate>Thu, 30 Mar 2023 03:29:50 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/MSW, LICSW, Kathryn/Boelk/2023-03-30 03:29:50</guid></item><item><title>👍MSW, LICSW, Violet Rush - HopeSparks and WCAAP</title><description>MSW, LICSW, Violet Rush signed up to testify Pro. They are signed up to represent HopeSparks and WCAAP.</description><pubDate>Thu, 30 Mar 2023 03:32:56 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/MSW, LICSW, Violet/Rush/2023-03-30 03:32:56</guid></item><item><title>👍MD, FAAP, Robert Hilt - Washington Chapter of the AAP</title><description>MD, FAAP, Robert Hilt signed up to testify Pro. They are signed up to represent Washington Chapter of the AAP.</description><pubDate>Fri, 31 Mar 2023 03:17:54 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/MD, FAAP, Robert/Hilt/2023-03-31 03:17:54</guid></item><item><title>Referred to Rules 2 Review.</title><description>Referred to Rules 2 Review.</description><pubDate>Tue, 04 Apr 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-04-04/Referred to Rules 2 Review.</guid></item><item><title>1st substitute bill substituted.</title><description>1st substitute bill substituted.</description><pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-04-07/1st substitute bill substituted.</guid></item><item><title>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</title><description>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</description><pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-04-07/Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</guid></item><item><title>First reading, referred to Ways &amp; Means.</title><description>First reading, referred to Ways &amp; Means.</description><pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-04-11/First reading, referred to Ways &amp; Means.</guid></item><item><title>By resolution, returned to House Rules Committee for third reading.</title><description>By resolution, returned to House Rules Committee for third reading.</description><pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-04-23/By resolution, returned to House Rules Committee for third reading.</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 1851 - First approach skills prog.</title>
+		<link>https://wa-law.org/bill/2023-24/hb/1851/</link>
+		<description>Updates about HB 1851</description>
+		<language>en-US</language>
+		<lastBuildDate>Sun, 23 Apr 2023 00:00:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Appropriations (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Appropriations (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-28/First reading, referred to Appropriations (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Appropriations.</title>
+			<description>First reading, referred to Appropriations.</description>
+			<pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-28/First reading, referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👍MSW, LICSW, Kathryn Boelk - HopeSparks and WCAAP</title>
+			<description>MSW, LICSW, Kathryn Boelk signed up to testify Pro. They are signed up to represent HopeSparks and WCAAP.</description>
+			<pubDate>Thu, 30 Mar 2023 03:29:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/MSW, LICSW, Kathryn/Boelk/2023-03-30 03:29:50</guid>
+		</item>
+		<item>
+			<title>👍MSW, LICSW, Violet Rush - HopeSparks and WCAAP</title>
+			<description>MSW, LICSW, Violet Rush signed up to testify Pro. They are signed up to represent HopeSparks and WCAAP.</description>
+			<pubDate>Thu, 30 Mar 2023 03:32:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/MSW, LICSW, Violet/Rush/2023-03-30 03:32:56</guid>
+		</item>
+		<item>
+			<title>👍MD, FAAP, Robert Hilt - Washington Chapter of the AAP</title>
+			<description>MD, FAAP, Robert Hilt signed up to testify Pro. They are signed up to represent Washington Chapter of the AAP.</description>
+			<pubDate>Fri, 31 Mar 2023 03:17:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/MD, FAAP, Robert/Hilt/2023-03-31 03:17:54</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Tue, 04 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-04/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>1st substitute bill substituted.</title>
+			<description>1st substitute bill substituted.</description>
+			<pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-07/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</title>
+			<description>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</description>
+			<pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-07/Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Ways &amp; Means.</title>
+			<description>First reading, referred to Ways &amp; Means.</description>
+			<pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-11/First reading, referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>By resolution, returned to House Rules Committee for third reading.</title>
+			<description>By resolution, returned to House Rules Committee for third reading.</description>
+			<pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-23/By resolution, returned to House Rules Committee for third reading.</guid>
+		</item>
+	</channel>
+</rss>

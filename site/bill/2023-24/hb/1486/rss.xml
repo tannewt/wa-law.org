@@ -1,2 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>HB 1486 - Military surplus vehicles</title><link>https://wa-law.org/bill/2023-24/hb/1486/</link><description>Updates about HB 1486</description><language>en-US</language><lastBuildDate>Mon, 13 Feb 2023 02:19:58 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>First reading, referred to Transportation.</title><description>First reading, referred to Transportation.</description><pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-01-20/First reading, referred to Transportation.</guid></item><item><title>❓Mark McKechnie - Washington Traffic Safety Commission</title><description>Mark McKechnie signed up to testify Other. They are signed up to represent Washington Traffic Safety Commission.</description><pubDate>Mon, 13 Feb 2023 02:19:58 GMT</pubDate><category>testifier</category><category>Other</category><guid isPermaLink="false">testifier/Mark/McKechnie/2023-02-13 02:19:58</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 1486 - Military surplus vehicles</title>
+		<link>https://wa-law.org/bill/2023-24/hb/1486/</link>
+		<description>Updates about HB 1486</description>
+		<language>en-US</language>
+		<lastBuildDate>Mon, 13 Feb 2023 02:19:58 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Transportation.</title>
+			<description>First reading, referred to Transportation.</description>
+			<pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-20/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>❓Mark McKechnie - Washington Traffic Safety Commission</title>
+			<description>Mark McKechnie signed up to testify Other. They are signed up to represent Washington Traffic Safety Commission.</description>
+			<pubDate>Mon, 13 Feb 2023 02:19:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Mark/McKechnie/2023-02-13 02:19:58</guid>
+		</item>
+	</channel>
+</rss>

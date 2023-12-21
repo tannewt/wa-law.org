@@ -5,6 +5,8 @@ import pathlib
 import rfeed
 from operator import attrgetter
 
+import xml.dom.minidom
+
 db = utils.get_db(readonly=True)
 
 cur = db.cursor()
@@ -341,8 +343,11 @@ for bill_rowid, prefix, bill_number in cur:
         items=items,
     )
 
+    dom = xml.dom.minidom.parseString(feed.rss())
+    pretty_xml_as_string = dom.toprettyxml()
+
     with open(bill_path / 'rss.xml', 'w') as f:
-        f.write(feed.rss())
+        f.write(pretty_xml_as_string)
 
     rm = bill_path / "README.md"
     rm.write_text("\n".join(bill_readme))

@@ -1,2 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>SB 5693 - Limiting liability for salmon recovery projects performed by regional fisheries enhancement groups.</title><link>https://wa-law.org/bill/2023-24/sb/5693/</link><description>Updates about SB 5693</description><language>en-US</language><lastBuildDate>Mon, 13 Feb 2023 09:41:50 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>First reading, referred to Agriculture, Water, Natural Resources &amp; Parks.</title><description>First reading, referred to Agriculture, Water, Natural Resources &amp; Parks.</description><pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-03/First reading, referred to Agriculture, Water, Natural Resources &amp; Parks.</guid></item><item><title>👍David Crabtree - Dept of Children, Youth and Families</title><description>David Crabtree signed up to testify Pro.</description><pubDate>Thu, 09 Feb 2023 06:00:17 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/David/Crabtree/2023-02-09 06:00:17</guid></item><item><title>👍Margen Carlson - WDFW</title><description>Margen Carlson signed up to testify Pro. They are signed up to represent WDFW.</description><pubDate>Mon, 13 Feb 2023 08:27:42 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Margen/Carlson/2023-02-13 08:27:42</guid></item><item><title>👍💵Brynn Brady - Regional Fisheries Coalition</title><description>Brynn Brady signed up to testify Pro. They are signed up to represent Regional Fisheries Coalition. They are a registered lobbyist.</description><pubDate>Mon, 13 Feb 2023 09:34:14 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Brynn/Brady/2023-02-13 09:34:14</guid></item><item><title>👍Lance Winecka - South Puget Sound Salmon Enhancement Group</title><description>Lance Winecka signed up to testify Pro. They are signed up to represent South Puget Sound Salmon Enhancement Group.</description><pubDate>Mon, 13 Feb 2023 09:41:50 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Lance/Winecka/2023-02-13 09:41:50</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 5693 - Limiting liability for salmon recovery projects performed by regional fisheries enhancement groups.</title>
+		<link>https://wa-law.org/bill/2023-24/sb/5693/</link>
+		<description>Updates about SB 5693</description>
+		<language>en-US</language>
+		<lastBuildDate>Mon, 13 Feb 2023 09:41:50 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Agriculture, Water, Natural Resources &amp; Parks.</title>
+			<description>First reading, referred to Agriculture, Water, Natural Resources &amp; Parks.</description>
+			<pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-03/First reading, referred to Agriculture, Water, Natural Resources &amp; Parks.</guid>
+		</item>
+		<item>
+			<title>👍David Crabtree - Dept of Children, Youth and Families</title>
+			<description>David Crabtree signed up to testify Pro.</description>
+			<pubDate>Thu, 09 Feb 2023 06:00:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/David/Crabtree/2023-02-09 06:00:17</guid>
+		</item>
+		<item>
+			<title>👍Margen Carlson - WDFW</title>
+			<description>Margen Carlson signed up to testify Pro. They are signed up to represent WDFW.</description>
+			<pubDate>Mon, 13 Feb 2023 08:27:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Margen/Carlson/2023-02-13 08:27:42</guid>
+		</item>
+		<item>
+			<title>👍💵Brynn Brady - Regional Fisheries Coalition</title>
+			<description>Brynn Brady signed up to testify Pro. They are signed up to represent Regional Fisheries Coalition. They are a registered lobbyist.</description>
+			<pubDate>Mon, 13 Feb 2023 09:34:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brynn/Brady/2023-02-13 09:34:14</guid>
+		</item>
+		<item>
+			<title>👍Lance Winecka - South Puget Sound Salmon Enhancement Group</title>
+			<description>Lance Winecka signed up to testify Pro. They are signed up to represent South Puget Sound Salmon Enhancement Group.</description>
+			<pubDate>Mon, 13 Feb 2023 09:41:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lance/Winecka/2023-02-13 09:41:50</guid>
+		</item>
+	</channel>
+</rss>

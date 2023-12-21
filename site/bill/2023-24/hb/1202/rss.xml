@@ -1,2 +1,62 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>HB 1202 - Eliminating accounts</title><link>https://wa-law.org/bill/2023-24/hb/1202/</link><description>Updates about HB 1202</description><language>en-US</language><lastBuildDate>Mon, 13 Mar 2023 00:00:00 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>👍K.D. Chapman-See - Office of Financial Management</title><description>K.D. Chapman-See signed up to testify Pro. They are signed up to represent Office of Financial Management.</description><pubDate>Fri, 13 Jan 2023 06:07:30 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/K.D./Chapman-See/2023-01-13 06:07:30</guid></item><item><title>APP - Executive action taken by committee.</title><description>APP - Executive action taken by committee.</description><pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-01-25/APP - Executive action taken by committee.</guid></item><item><title>APP - Majority; do pass.</title><description>APP - Majority; do pass.</description><pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-01-25/APP - Majority; do pass.</guid></item><item><title>Referred to Rules 2 Review.</title><description>Referred to Rules 2 Review.</description><pubDate>Tue, 31 Jan 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-01-31/Referred to Rules 2 Review.</guid></item><item><title>Placed on second reading suspension calendar.</title><description>Placed on second reading suspension calendar.</description><pubDate>Tue, 14 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-14/Placed on second reading suspension calendar.</guid></item><item><title>Referred to Rules 2 Consideration.</title><description>Referred to Rules 2 Consideration.</description><pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-03-13/Referred to Rules 2 Consideration.</guid></item><item><title>Returned to Rules Committee for second reading.</title><description>Returned to Rules Committee for second reading.</description><pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-03-13/Returned to Rules Committee for second reading.</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 1202 - Eliminating accounts</title>
+		<link>https://wa-law.org/bill/2023-24/hb/1202/</link>
+		<description>Updates about HB 1202</description>
+		<language>en-US</language>
+		<lastBuildDate>Mon, 13 Mar 2023 00:00:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>👍K.D. Chapman-See - Office of Financial Management</title>
+			<description>K.D. Chapman-See signed up to testify Pro. They are signed up to represent Office of Financial Management.</description>
+			<pubDate>Fri, 13 Jan 2023 06:07:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/K.D./Chapman-See/2023-01-13 06:07:30</guid>
+		</item>
+		<item>
+			<title>APP - Executive action taken by committee.</title>
+			<description>APP - Executive action taken by committee.</description>
+			<pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-25/APP - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>APP - Majority; do pass.</title>
+			<description>APP - Majority; do pass.</description>
+			<pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-25/APP - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Tue, 31 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-31/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>Placed on second reading suspension calendar.</title>
+			<description>Placed on second reading suspension calendar.</description>
+			<pubDate>Tue, 14 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-14/Placed on second reading suspension calendar.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Consideration.</title>
+			<description>Referred to Rules 2 Consideration.</description>
+			<pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-13/Referred to Rules 2 Consideration.</guid>
+		</item>
+		<item>
+			<title>Returned to Rules Committee for second reading.</title>
+			<description>Returned to Rules Committee for second reading.</description>
+			<pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-13/Returned to Rules Committee for second reading.</guid>
+		</item>
+	</channel>
+</rss>

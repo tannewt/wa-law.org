@@ -1,2 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>HB 1821 - Postsecondary credentials</title><link>https://wa-law.org/bill/2023-24/hb/1821/</link><description>Updates about HB 1821</description><language>en-US</language><lastBuildDate>Fri, 17 Feb 2023 00:00:00 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>First reading, referred to Postsecondary Education &amp; Workforce.</title><description>First reading, referred to Postsecondary Education &amp; Workforce.</description><pubDate>Mon, 13 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-13/First reading, referred to Postsecondary Education &amp; Workforce.</guid></item><item><title>👍Scott Cheney - Confederated Tribes of the Colville Reservation</title><description>Scott Cheney signed up to testify Pro.</description><pubDate>Mon, 13 Feb 2023 06:59:35 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Scott/Cheney/2023-02-13 06:59:35</guid></item><item><title>❓Eleni Papadakis - Workforce Training and Education Coordinating Board</title><description>Eleni Papadakis signed up to testify Other. They are signed up to represent Workforce Training and Education Coordinating Board.</description><pubDate>Mon, 13 Feb 2023 07:24:39 GMT</pubDate><category>testifier</category><category>Other</category><guid isPermaLink="false">testifier/Eleni/Papadakis/2023-02-13 07:24:39</guid></item><item><title>❓Carolyn McKinnon - State Board for Community &amp; Technical Colleges</title><description>Carolyn McKinnon signed up to testify Other. They are signed up to represent State Board for Community &amp; Technical Colleges.</description><pubDate>Tue, 14 Feb 2023 12:53:14 GMT</pubDate><category>testifier</category><category>Other</category><guid isPermaLink="false">testifier/Carolyn/McKinnon/2023-02-14 12:53:14</guid></item><item><title>Referred to Appropriations.</title><description>Referred to Appropriations.</description><pubDate>Fri, 17 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-17/Referred to Appropriations.</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 1821 - Postsecondary credentials</title>
+		<link>https://wa-law.org/bill/2023-24/hb/1821/</link>
+		<description>Updates about HB 1821</description>
+		<language>en-US</language>
+		<lastBuildDate>Fri, 17 Feb 2023 00:00:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Postsecondary Education &amp; Workforce.</title>
+			<description>First reading, referred to Postsecondary Education &amp; Workforce.</description>
+			<pubDate>Mon, 13 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-13/First reading, referred to Postsecondary Education &amp; Workforce.</guid>
+		</item>
+		<item>
+			<title>👍Scott Cheney - Confederated Tribes of the Colville Reservation</title>
+			<description>Scott Cheney signed up to testify Pro.</description>
+			<pubDate>Mon, 13 Feb 2023 06:59:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Scott/Cheney/2023-02-13 06:59:35</guid>
+		</item>
+		<item>
+			<title>❓Eleni Papadakis - Workforce Training and Education Coordinating Board</title>
+			<description>Eleni Papadakis signed up to testify Other. They are signed up to represent Workforce Training and Education Coordinating Board.</description>
+			<pubDate>Mon, 13 Feb 2023 07:24:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Eleni/Papadakis/2023-02-13 07:24:39</guid>
+		</item>
+		<item>
+			<title>❓Carolyn McKinnon - State Board for Community &amp; Technical Colleges</title>
+			<description>Carolyn McKinnon signed up to testify Other. They are signed up to represent State Board for Community &amp; Technical Colleges.</description>
+			<pubDate>Tue, 14 Feb 2023 12:53:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Carolyn/McKinnon/2023-02-14 12:53:14</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Fri, 17 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-17/Referred to Appropriations.</guid>
+		</item>
+	</channel>
+</rss>

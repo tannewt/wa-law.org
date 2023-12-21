@@ -1,2 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>HB 1300 - Assisted reproduction fraud</title><link>https://wa-law.org/bill/2023-24/hb/1300/</link><description>Updates about HB 1300</description><language>en-US</language><lastBuildDate>Fri, 24 Feb 2023 00:00:00 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>First reading, referred to Community Safety, Justice, &amp; Reentry.</title><description>First reading, referred to Community Safety, Justice, &amp; Reentry.</description><pubDate>Fri, 13 Jan 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-01-13/First reading, referred to Community Safety, Justice, &amp; Reentry.</guid></item><item><title>Referred to Appropriations.</title><description>Referred to Appropriations.</description><pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-03/Referred to Appropriations.</guid></item><item><title>👍Stephanie Weichsel - Heritage Distilling Company</title><description>Stephanie Weichsel signed up to testify Pro.</description><pubDate>Fri, 17 Feb 2023 06:59:13 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Stephanie/Weichsel/2023-02-17 06:59:13</guid></item><item><title>👍Kara Rubinstein Deyerin - Heritage Distilling Company</title><description>Kara Rubinstein Deyerin signed up to testify Pro.</description><pubDate>Sat, 18 Feb 2023 07:57:02 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Kara/Rubinstein Deyerin/2023-02-18 07:57:02</guid></item><item><title>👍Leslie Weichsel - Therightoknow</title><description>Leslie Weichsel signed up to testify Pro. They are signed up to represent Therightoknow.</description><pubDate>Sat, 18 Feb 2023 08:29:05 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Leslie/Weichsel/2023-02-18 08:29:05</guid></item><item><title>Referred to Rules 2 Review.</title><description>Referred to Rules 2 Review.</description><pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-24/Referred to Rules 2 Review.</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 1300 - Assisted reproduction fraud</title>
+		<link>https://wa-law.org/bill/2023-24/hb/1300/</link>
+		<description>Updates about HB 1300</description>
+		<language>en-US</language>
+		<lastBuildDate>Fri, 24 Feb 2023 00:00:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Community Safety, Justice, &amp; Reentry.</title>
+			<description>First reading, referred to Community Safety, Justice, &amp; Reentry.</description>
+			<pubDate>Fri, 13 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-13/First reading, referred to Community Safety, Justice, &amp; Reentry.</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-03/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👍Stephanie Weichsel - Heritage Distilling Company</title>
+			<description>Stephanie Weichsel signed up to testify Pro.</description>
+			<pubDate>Fri, 17 Feb 2023 06:59:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Stephanie/Weichsel/2023-02-17 06:59:13</guid>
+		</item>
+		<item>
+			<title>👍Kara Rubinstein Deyerin - Heritage Distilling Company</title>
+			<description>Kara Rubinstein Deyerin signed up to testify Pro.</description>
+			<pubDate>Sat, 18 Feb 2023 07:57:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kara/Rubinstein Deyerin/2023-02-18 07:57:02</guid>
+		</item>
+		<item>
+			<title>👍Leslie Weichsel - Therightoknow</title>
+			<description>Leslie Weichsel signed up to testify Pro. They are signed up to represent Therightoknow.</description>
+			<pubDate>Sat, 18 Feb 2023 08:29:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Leslie/Weichsel/2023-02-18 08:29:05</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-24/Referred to Rules 2 Review.</guid>
+		</item>
+	</channel>
+</rss>

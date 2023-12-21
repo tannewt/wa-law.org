@@ -1,2 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>SB 5406 - Clarifying ambiguities in statutory provisions administered by the department of revenue relating to periodic adjustments.</title><link>https://wa-law.org/bill/2023-24/sb/5406/</link><description>Updates about SB 5406</description><language>en-US</language><lastBuildDate>Tue, 24 Jan 2023 05:53:10 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>First reading, referred to Ways &amp; Means.</title><description>First reading, referred to Ways &amp; Means.</description><pubDate>Mon, 16 Jan 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-01-16/First reading, referred to Ways &amp; Means.</guid></item><item><title>👎💵Greg Hanon - Western States Petroleum Assoc.</title><description>Greg Hanon signed up to testify Con. They are signed up to represent Western States Petroleum Assoc.. They are a registered lobbyist.</description><pubDate>Mon, 23 Jan 2023 01:48:44 GMT</pubDate><category>testifier</category><category>Con</category><guid isPermaLink="false">testifier/Greg/Hanon/2023-01-23 01:48:44</guid></item><item><title>👍Steve Ewing - Department of Revenue</title><description>Steve Ewing signed up to testify Pro. They are signed up to represent Department of Revenue.</description><pubDate>Mon, 23 Jan 2023 04:09:36 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Steve/Ewing/2023-01-23 04:09:36</guid></item><item><title>👍Chris Herman - Washington Public Ports Association</title><description>Chris Herman signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_public_ports_association/"&gt;Washington Public Ports Association&lt;/a&gt;.</description><pubDate>Tue, 24 Jan 2023 05:53:10 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Chris/Herman/2023-01-24 05:53:10</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 5406 - Clarifying ambiguities in statutory provisions administered by the department of revenue relating to periodic adjustments.</title>
+		<link>https://wa-law.org/bill/2023-24/sb/5406/</link>
+		<description>Updates about SB 5406</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 24 Jan 2023 05:53:10 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Ways &amp; Means.</title>
+			<description>First reading, referred to Ways &amp; Means.</description>
+			<pubDate>Mon, 16 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-16/First reading, referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👎💵Greg Hanon - Western States Petroleum Assoc.</title>
+			<description>Greg Hanon signed up to testify Con. They are signed up to represent Western States Petroleum Assoc.. They are a registered lobbyist.</description>
+			<pubDate>Mon, 23 Jan 2023 01:48:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Greg/Hanon/2023-01-23 01:48:44</guid>
+		</item>
+		<item>
+			<title>👍Steve Ewing - Department of Revenue</title>
+			<description>Steve Ewing signed up to testify Pro. They are signed up to represent Department of Revenue.</description>
+			<pubDate>Mon, 23 Jan 2023 04:09:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Steve/Ewing/2023-01-23 04:09:36</guid>
+		</item>
+		<item>
+			<title>👍Chris Herman - Washington Public Ports Association</title>
+			<description>Chris Herman signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_public_ports_association/&quot;&gt;Washington Public Ports Association&lt;/a&gt;.</description>
+			<pubDate>Tue, 24 Jan 2023 05:53:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Chris/Herman/2023-01-24 05:53:10</guid>
+		</item>
+	</channel>
+</rss>

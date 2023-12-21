@@ -1,2 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>SB 5299 - Law enf. officer protection</title><link>https://wa-law.org/bill/2023-24/sb/5299/</link><description>Updates about SB 5299</description><language>en-US</language><lastBuildDate>Fri, 10 Mar 2023 00:00:00 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>First reading, referred to Law &amp; Justice.</title><description>First reading, referred to Law &amp; Justice.</description><pubDate>Thu, 12 Jan 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-01-12/First reading, referred to Law &amp; Justice.</guid></item><item><title>👍Sheldon Beddo - WDFW</title><description>Sheldon Beddo signed up to testify Pro.</description><pubDate>Fri, 27 Jan 2023 02:51:00 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Sheldon/Beddo/2023-01-27 02:51:00</guid></item><item><title>👍💵Teresa Taylor - WACOPS - Washington Council of Police and Sheriffs</title><description>Teresa Taylor signed up to testify Pro. They are signed up to represent WACOPS - Washington Council of Police and Sheriffs. They are a registered lobbyist.</description><pubDate>Sat, 28 Jan 2023 03:39:40 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Teresa/Taylor/2023-01-28 03:39:40</guid></item><item><title>👎David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association</title><description>David Trieweiler signed up to testify Con. They are signed up to represent Washington Association of Criminal Defense Lawyers/Washington Defender Association.</description><pubDate>Mon, 30 Jan 2023 01:31:37 GMT</pubDate><category>testifier</category><category>Con</category><guid isPermaLink="false">testifier/David/Trieweiler/2023-01-30 01:31:37</guid></item><item><title>👍💵Taylor Gardner - WASPC</title><description>Taylor Gardner signed up to testify Pro. They are signed up to represent WASPC. They are a registered lobbyist.</description><pubDate>Mon, 30 Jan 2023 06:46:24 GMT</pubDate><category>testifier</category><category>Pro</category><guid isPermaLink="false">testifier/Taylor/Gardner/2023-01-30 06:46:24</guid></item><item><title>LAW - Majority; 1st substitute bill be substituted, do pass.</title><description>LAW - Majority; 1st substitute bill be substituted, do pass.</description><pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-02/LAW - Majority; 1st substitute bill be substituted, do pass.</guid></item><item><title>Passed to Rules Committee for second reading.</title><description>Passed to Rules Committee for second reading.</description><pubDate>Tue, 07 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-07/Passed to Rules Committee for second reading.</guid></item><item><title>Bill would spotlight assaults on Washington police | Washington | thecentersquare.com</title><description>News article "Bill would spotlight assaults on Washington police | Washington | thecentersquare.com" from The Center Square.</description><pubDate>Thu, 16 Feb 2023 16:32:00 GMT</pubDate><category>news</category><guid isPermaLink="true">https://www.thecentersquare.com/washington/article_d9c2bace-ae3c-11ed-94d1-27574509ec6f.html#:~:text=SB%205299</guid></item><item><title>Placed on second reading by Rules Committee.</title><description>Placed on second reading by Rules Committee.</description><pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-02-22/Placed on second reading by Rules Committee.</guid></item><item><title>Senate Rules "X" file.</title><description>Senate Rules "X" file.</description><pubDate>Fri, 10 Mar 2023 00:00:00 GMT</pubDate><category>official</category><guid isPermaLink="false">2023-03-10/Senate Rules "X" file.</guid></item></channel></rss>
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 5299 - Law enf. officer protection</title>
+		<link>https://wa-law.org/bill/2023-24/sb/5299/</link>
+		<description>Updates about SB 5299</description>
+		<language>en-US</language>
+		<lastBuildDate>Fri, 10 Mar 2023 00:00:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Law &amp; Justice.</title>
+			<description>First reading, referred to Law &amp; Justice.</description>
+			<pubDate>Thu, 12 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-12/First reading, referred to Law &amp; Justice.</guid>
+		</item>
+		<item>
+			<title>👍Sheldon Beddo - WDFW</title>
+			<description>Sheldon Beddo signed up to testify Pro.</description>
+			<pubDate>Fri, 27 Jan 2023 02:51:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sheldon/Beddo/2023-01-27 02:51:00</guid>
+		</item>
+		<item>
+			<title>👍💵Teresa Taylor - WACOPS - Washington Council of Police and Sheriffs</title>
+			<description>Teresa Taylor signed up to testify Pro. They are signed up to represent WACOPS - Washington Council of Police and Sheriffs. They are a registered lobbyist.</description>
+			<pubDate>Sat, 28 Jan 2023 03:39:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Teresa/Taylor/2023-01-28 03:39:40</guid>
+		</item>
+		<item>
+			<title>👎David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association</title>
+			<description>David Trieweiler signed up to testify Con. They are signed up to represent Washington Association of Criminal Defense Lawyers/Washington Defender Association.</description>
+			<pubDate>Mon, 30 Jan 2023 01:31:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/David/Trieweiler/2023-01-30 01:31:37</guid>
+		</item>
+		<item>
+			<title>👍💵Taylor Gardner - WASPC</title>
+			<description>Taylor Gardner signed up to testify Pro. They are signed up to represent WASPC. They are a registered lobbyist.</description>
+			<pubDate>Mon, 30 Jan 2023 06:46:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Taylor/Gardner/2023-01-30 06:46:24</guid>
+		</item>
+		<item>
+			<title>LAW - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>LAW - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-02/LAW - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Tue, 07 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-07/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Bill would spotlight assaults on Washington police | Washington | thecentersquare.com</title>
+			<description>News article &quot;Bill would spotlight assaults on Washington police | Washington | thecentersquare.com&quot; from The Center Square.</description>
+			<pubDate>Thu, 16 Feb 2023 16:32:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_d9c2bace-ae3c-11ed-94d1-27574509ec6f.html#:~:text=SB%205299</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-22/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Senate Rules &quot;X&quot; file.</title>
+			<description>Senate Rules &quot;X&quot; file.</description>
+			<pubDate>Fri, 10 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-10/Senate Rules &quot;X&quot; file.</guid>
+		</item>
+	</channel>
+</rss>
