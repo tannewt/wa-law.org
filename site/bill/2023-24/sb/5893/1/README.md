@@ -1,0 +1,31 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5893](/bill/2023-24/sb/5893/) > [Original Bill](/bill/2023-24/sb/5893/1/)
+
+# SB 5893 - Providing gate money to individuals releasing from custody prior to the expiration of their sentence.
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5893.pdf)
+
+## Section 1
+1. Any person serving a sentence for a term of confinement in a state correctional facility for convicted felons, pursuant to court commitment, who is thereafter released upon an order of parole of the indeterminate sentence review board, or who is discharged from custody upon expiration of sentence, or who is ordered discharged from custody by a court of appropriate jurisdiction, shall be entitled to retain his or her earnings from labor or employment while in confinement and shall be supplied by the superintendent of the state correctional facility with suitable and presentable clothing, the sum of no less than $40 for subsistence, and transportation by the least expensive method of public transportation not to exceed the cost of $100 to his or her place of residence or the place designated in his or her parole plan, or to the place from which committed if such person is being discharged on expiration of sentence, or discharged from custody by a court of appropriate jurisdiction: PROVIDED, That up to an additional $60 may be made available to the parolee for necessary personal and living expenses upon application to and approval by such person's community corrections officer. If in the opinion of the superintendent suitable arrangements have been made to provide the person to be released with suitable clothing and/or the expenses of transportation, the superintendent may consent to such arrangement. If the superintendent has reasonable cause to believe that the person to be released has ample funds, with the exception of earnings from labor or employment while in confinement, to assume the expenses of clothing, transportation, or the expenses for which payments made pursuant to this section or RCW 72.02.110 or any one or more of such expenses, the person released shall be required to assume such expenses.
+
+2. [Empty]
+
+    a. The same requirements of subsection (1) of this section shall apply to any person who is serving a sentence for a term of confinement in a state correctional facility and is:
+
+        i. Transferred to community custody under the supervision of the department of corrections pursuant to RCW 9.94A.501, or in lieu of earned release time under RCW 9.94A.729;
+
+        ii. Transferred from a department correctional facility to partial confinement as home detention in the community as part of the graduated reentry program under RCW 9.94A.733 or the parenting program under RCW 9.94A.6551;
+
+        iii. Transferred from a department correctional facility to partial confinement in lieu of earned early release under RCW 9.94A.729, or as part of the work release program under chapter 72.65 RCW; or
+
+        iv. Conditionally released by the indeterminate sentence review board with conditions of community custody under the supervision of the department pursuant to RCW 9.95.011, 9.95.420, 9.94A.730, or 10.95.030.
+
+    b. The items and arrangements to be supplied by the superintendent of the state correctional facility under this subsection must be provided at the moment of the person's transfer from total confinement to partial confinement, or transfer from total confinement to community custody.
+
+3. [Empty]
+
+    a. The department of corrections may provide temporary housing assistance for a person being released from any state correctional facility through the use of rental vouchers, for a period not to exceed six months, if the department finds that such assistance will support the person's release into the community by preventing housing instability or homelessness. The department's authority to provide vouchers under this section is independent of its authority under RCW 9.94A.729; however, a person may not receive a combined total of rental vouchers in excess of six months for each release from a state correctional facility.
+
+    b. The department shall establish policies for prioritizing funds available for housing vouchers under this section for persons at risk of releasing homeless or becoming homeless without assistance while taking into account risk to reoffend.
+
+## Section 2
+The department shall provide or arrange for transportation for furloughed prisoners to the designated place of residence within the state and shall, in addition, supply funds in the sum of no less than $40 and suitable clothing, such clothing to be returned to the institution on the expiration of furlough.

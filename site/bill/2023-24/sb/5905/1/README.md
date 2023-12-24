@@ -1,0 +1,315 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5905](/bill/2023-24/sb/5905/) > [Original Bill](/bill/2023-24/sb/5905/1/)
+
+# SB 5905 - Concerning certification, background checks, and training requirements for sheriffs, police chiefs, marshals, reserve officers, and volunteers.
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5905.pdf)
+
+## Section 1
+The legislature finds that to further enhance accountability, promote public trust and confidence in law enforcement, and increase community safety, sheriffs, whether elected or appointed, police chiefs, marshals, and reserve officers must meet the same standards for background checks, certification, training, and other provisions of chapter 43.101 RCW as are required for all other peace officers, and the use of volunteers must be prescribed.
+
+## Section 2
+1. As a condition of employment, all Washington peace officers, including sheriffs, marshals, police chiefs, and reserve officers, and all corrections officers, are required to obtain certification  and maintain certification as required by this chapter and the rules of the commission. For the purposes of this section, "peace officer" means a general authority Washington peace officer as defined in RCW 10.93.020, which includes sheriffs, marshals, and police chiefs, and "reserve officer" means a type of specially commissioned Washington peace officer, defined in RCW 10.93.020 as an individual who is an officer of a Washington law enforcement agency who does not serve such agency on a full-time basis, but who, when called by the agency into active service, is fully commissioned on the same basis as full-time peace officers to enforce the criminal laws of the state.
+
+2. [Empty]
+
+    a. Any applicant who has been offered a conditional offer of employment as a peace officer or reserve officer, offered a conditional offer of employment as a corrections officer after July 1, 2021, or offered a conditional offer of employment as a limited authority Washington peace officer who if hired would qualify as a peace officer as defined by RCW 43.101.010 after July 1, 2023, must submit to a background investigation to determine the applicant's suitability for employment. This requirement also applies to any person whose certification has lapsed as a result of a break of more than 24 consecutive months in the officer's service for a reason other than being recalled into military service. Employing agencies and appointing authorities may only make a conditional offer of employment pending completion of the background check and shall verify in writing to the commission that they have complied with all background check requirements prior to making any nonconditional offer of employment.
+
+    b. The background check must include:
+
+        i. A check of criminal history, any national decertification index, commission records, and all disciplinary records by any previous law enforcement or correctional employer, including complaints or investigations of misconduct and the reason for separation from employment. Law enforcement or correctional agencies that previously employed the applicant shall disclose employment information within 30 days of receiving a written request from the employing agency conducting the background investigation, including the reason for the peace officer's or corrections officer's separation from the agency. Complaints or investigations of misconduct must be disclosed regardless of the result of the investigation or whether the complaint was unfounded;
+
+        ii. Inquiry to the local prosecuting authority in any jurisdiction in which the applicant has served as to whether the applicant is on any potential impeachment disclosure list;
+
+        iii. Inquiry into whether the applicant has any past or present affiliations with extremist organizations, as defined by the commission;
+
+        iv. A review of the applicant's social media accounts;
+
+    v. Verification of immigrant or citizenship status as either a citizen of the United States of America or a lawful permanent resident;
+
+    vi. A psychological examination administered by a psychiatrist licensed in the state of Washington pursuant to chapter 18.71 RCW or a psychologist licensed in the state of Washington pursuant to chapter 18.83 RCW, in compliance with standards established in rules of the commission;
+
+    vii. A polygraph or similar assessment administered by an experienced professional with appropriate training and in compliance with standards established in rules of the commission; and
+
+    viii. Except as otherwise provided in this section, any test or assessment to be administered as part of the background investigation shall be administered in compliance with standards established in rules of the commission.
+
+    c. The commission may establish standards for the background check requirements in this section and any other preemployment background check requirement that may be imposed by an employing agency or the commission.
+
+    d. The employing law enforcement agency may require that each person who is required to take a psychological examination and a polygraph or similar test pay a portion of the testing fee based on the actual cost of the test or $400, whichever is less. Employing agencies may establish a payment plan if they determine that the person does not readily have the means to pay the testing fee.
+
+3. [Empty]
+
+    a. The commission shall allow a peace officer or corrections officer to retain status as a certified peace officer or corrections officer as long as the officer: (i) Timely meets the basic training requirements, or is exempted therefrom, in whole or in part, under RCW 43.101.200 or under rule of the commission; (ii) timely meets or is exempted from any other requirements under this chapter as administered under the rules adopted by the commission; (iii) is not denied certification by the commission under this chapter; and (iv) has not had certification suspended or revoked by the commission.
+
+    b. The commission shall certify peace officers who are limited authority Washington peace officers employed on or before July 1, 2023. Thereafter, the commission may revoke certification pursuant to this chapter.
+
+4. As a condition of certification, a peace officer or corrections officer must, on a form devised or adopted by the commission, authorize the release to the employing agency and commission of the officer's personnel files, including disciplinary, termination, civil or criminal investigation, or other records or information that are directly related to a certification matter or decertification matter before the commission. The peace officer or corrections officer must also consent to and facilitate a review of the officer's social media accounts, however, consistent with RCW 49.44.200, the officer is not required to provide login information. The release of information may not be delayed, limited, or precluded by any agreement or contract between the officer, or the officer's union, and the entity responsible for the records or information.
+
+5. The employing agency and commission are authorized to receive criminal history record information that includes nonconviction data for any purpose associated with employment or certification under this chapter. Dissemination or use of nonconviction data for purposes other than that authorized in this section is prohibited.
+
+6. For a national criminal history records check, the commission shall require fingerprints be submitted and searched through the Washington state patrol identification and criminal history section. The Washington state patrol shall forward the fingerprints to the federal bureau of investigation.
+
+7. Prior to certification, the employing agency shall certify to the commission that the agency has completed the background check, no information has been found that would disqualify the applicant from certification, and the applicant is suitable for employment as a peace officer or corrections officer. For sheriffs, chiefs, and marshals, the commission shall provide verification that these standards have been met.
+
+## Section 3
+1. To help prevent misconduct, enhance peace officer, reserve officer, and corrections officer accountability through the imposition of sanctions commensurate to the wrongdoing when misconduct occurs, and enhance public trust and confidence in the criminal justice system, upon request by an officer's employer or on its own initiative, the commission may deny, suspend, or revoke certification of, place on probation, or require remedial training for, an officer as provided in this section, other than for sheriffs, chiefs, and marshals, for whom the commission may only deny or revoke certification. The commission shall provide the officer with written notice and a hearing, if a hearing is timely requested by the officer under RCW 43.101.155. Notice and hearing are not required when an officer voluntarily surrenders certification.
+
+2. The commission must deny or revoke the certification of an applicant or officer if the applicant or officer:
+
+    a. [Empty]
+
+        i. Has been convicted of:
+
+(A) A felony offense;
+
+(B) A gross misdemeanor domestic violence offense;
+
+(C) An offense with sexual motivation as defined in RCW 9.94A.030;
+
+(D) An offense under chapter 9A.44 RCW; or
+
+(E) A federal or out-of-state offense comparable to an offense listed in (a)(i)(A) through (D) of this subsection (2); and
+
+        ii.(A) The offense was not disclosed at the time of application for initial certification; or
+
+(B) The officer was a certified peace officer or corrections officer at the time of the offense; and
+
+        iii. The offense is not one for which the officer was granted a full and unconditional pardon; and
+
+        iv. The offense was not adjudicated as a juvenile and the record sealed;
+
+    b. Has been terminated by the employing agency or otherwise separated from the employing agency after engaging in, or was found by a court to have engaged in, the use of force which resulted in death or serious injury and the use of force violated the law;
+
+    c. Has been terminated by the employing agency or otherwise separated from the employing agency after witnessing, or found by a court to have witnessed, another officer's use of excessive force and:
+
+        i. Was in a position to intervene to end the excessive use of force and failed to do so; or
+
+        ii. Failed to report the use of excessive force in accordance with agency policy or law;
+
+    d. Has been terminated by the employing agency or otherwise separated from the employing agency after knowingly making, or found by a court to have knowingly made, misleading, deceptive, untrue, or fraudulent representations in the practice of being a peace officer or corrections officer including, but not limited to, committing perjury, filing false reports, hiding evidence, or failing to report exonerating information. This subsection (2)(d) does not apply to representations made in the course and for the purposes of an undercover investigation or other lawful law enforcement purpose; or
+
+    e. Is prohibited from possessing weapons by state or federal law or by a permanent court order entered after a hearing.
+
+3. The commission may deny, suspend, or revoke certification or require remedial training of an applicant or officer if the applicant or officer:
+
+    a. Failed to timely meet all requirements for obtaining a certificate of basic law enforcement or corrections training, a certificate of basic law enforcement or corrections training equivalency, or a certificate of exemption from the training;
+
+    b. Was previously issued a certificate through administrative error on the part of the commission;
+
+    c. Knowingly falsified or omitted material information on an application to the employer or for training or certification to the commission;
+
+    d. Interfered with an investigation or action for denial or revocation of certification by:
+
+        i. Knowingly making a materially false statement to the commission;
+
+        ii. Failing to timely and accurately report information to the commission as required by law or policy; or
+
+        iii. In any matter under review or investigation by or otherwise before the commission, tampering with evidence or tampering with or intimidating any witness;
+
+    e. Engaged in a use of force that could reasonably be expected to cause physical injury, and the use of force violated the law or policy of the officer's employer;
+
+    f. Committed sexual harassment as defined by state law;
+
+    g. Through fraud or misrepresentation, has used the position of peace officer or corrections officer for personal gain;
+
+    h. Engaged in conduct including, but not limited to, verbal statements, writings, online posts, recordings, and gestures, involving prejudice or discrimination against a person on the basis of race, religion, creed, color, national origin, immigration status, disability, genetic information, marital status, sex, gender, gender identity, gender expression, age, sexual orientation, or military and veteran status;
+
+        i. Has affiliation with one or more extremist organizations;
+
+    j. Whether occurring on or off duty, has:
+
+        i. Been found to have committed a felony, without regard to conviction;
+
+        ii. Engaged in a pattern of acts showing an intentional or reckless disregard for the rights of others, including but not limited to violation of an individual's constitutional rights under the state or federal Constitution or a violation of RCW 10.93.160;
+
+        iii. Engaged in unsafe practices involving firearms, weapons, or vehicles which indicate either a willful or wanton disregard for the safety of persons or property; or
+
+        iv. Engaged in any conduct or pattern of conduct that: Fails to meet the ethical and professional standards required of a peace officer or corrections officer; disrupts, diminishes, or otherwise jeopardizes public trust or confidence in the law enforcement profession and correctional system; or demonstrates an inability or unwillingness to uphold the officer's sworn oath to enforce the Constitution and laws of the United States and the state of Washington;
+
+    k. Has been suspended or discharged, has resigned or retired in lieu of discharge, or has separated from the agency after the alleged misconduct occurred, for any conduct listed in this section; or
+
+    l. Has voluntarily surrendered the person's certification as a peace officer or corrections officer.
+
+4. In addition to the penalties set forth in subsection (3) of this section, the commission may require mandatory retraining or placement on probation for up to two years, or both, other than for sheriffs, chiefs, and marshals. In determining the appropriate penalty or sanction, the commission shall consider: The findings and conclusions, and the basis for the findings and conclusions, of any due process hearing or disciplinary appeals hearing following an investigation by a law enforcement agency regarding the alleged misconduct, if such hearing has occurred prior to the commission's action; any sanctions or training ordered by the employing agency regarding the alleged misconduct; and whether the employing agency bears any responsibility for the situation.
+
+5. The commission shall deny certification to any applicant who lost certification as a result of a break in service of more than 24 consecutive months if that applicant failed to comply with the requirements set forth in RCW 43.101.080(15) and 43.101.095(2).
+
+6. The fact that the commission has suspended an officer's certification is not, in and of itself, a bar to the employing agency's maintenance of the officer's health and retirement benefits.
+
+7. Any suspension or period of probation imposed by the commission shall run concurrently to any leave or discipline imposed by the employing agency for the same incident.
+
+8. A law enforcement agency may not terminate a peace officer based solely on imposition of suspension or probation by the commission. This subsection does not prohibit a law enforcement agency from terminating a peace officer based on the underlying acts or omissions for which the commission took such action.
+
+9. Any of the misconduct listed in subsections (2) and (3) of this section is grounds for denial, suspension, or revocation of certification of a reserve officer to the same extent as applied to a peace officer, if the reserve officer is certified pursuant to RCW 43.101.095.
+
+## Section 4
+(1) Except as provided in subsection (2) of this section, all law enforcement personnel, except volunteers, and reserve officers whether paid or unpaid, initially employed on or after January 1, 1978, shall engage in basic law enforcement training which complies with standards adopted by the commission pursuant to RCW 43.101.080. For personnel initially employed before January 1, 1990, such training shall be successfully completed during the first fifteen months of employment of such personnel unless otherwise extended or waived by the commission and shall be requisite to the continuation of such employment. Personnel initially employed on or after January 1, 1990, shall commence basic training during the first six months of employment unless the basic training requirement is otherwise waived or extended by the commission. Successful completion of basic training is requisite to the continuation of employment of such personnel initially employed on or after January 1, 1990.
+
+## Section 5
+As used in this chapter, the following terms have the meanings indicated unless the context clearly requires otherwise.
+
+## Section 6
+1. A person seeking appointment to the office of chief of police or marshal, is ineligible for appointment and for remaining in that office unless that person:
+
+    a. Is a citizen of the United States of America;
+
+    b. Has obtained a high school diploma or high school equivalency certificate as provided in RCW 28B.50.536;
+
+    c. Has not been convicted under the laws of this state, another state, or the United States of a felony;
+
+    d. Has not been convicted of a gross misdemeanor or any crime involving moral turpitude within five years of the date of application;
+
+    e. Has received at least a general discharge under honorable conditions from any branch of the armed services for any military service if the person was in the military service;
+
+    f.
+
+Within 12 months of assuming office, must have obtained certification and maintains certification as required by chapter 43.101 RCW and the rules of the criminal justice training commission;
+
+    g. Has completed the background check requirements under RCW 43.101.095. As required for all applicants for law enforcement employment, the background check must indicate whether the applicant has complied with all applicable minimum standards or was determined by the background check to be unsuitable for employment by a law enforcement agency. Prior to appointment, the appointing authority must have received verification from the commission that the candidate met the state's standards, and such verification must be open for public inspection. The appointing authority is responsible for any fees associated with the background check; and
+
+    h. Complies with all other requirements of chapter 43.101 RCW.
+
+2.
+
+A person seeking appointment to the office of chief of police or marshal shall provide a sworn statement under penalty of perjury to the appointing authority stating that the person meets the requirements of this section.
+
+## Section 7
+Before making an appointment in the office of chief of police or marshal, the appointing agency must verify as part of the public record of appointment that the requirements of RCW 35.21.333 have been met.
+
+## Section 8
+The government of a second‑class city shall be vested in a mayor, a city council of seven members, a city attorney, a clerk, a treasurer, all elective; and a chief of police who must meet all of the requirements of RCW 35.21.333 and chapter 43.101 RCW, municipal judge, city engineer, street superintendent, health officer and such other appointive officers as may be provided for by ordinance: PROVIDED, That the council may enact an ordinance providing for the appointment of the city clerk, city attorney, and treasurer by the mayor, which appointment shall be subject to confirmation by a majority vote of the city council. Such ordinance shall be enacted and become effective not later than thirty days prior to the first day allowed for filing declarations of candidacy for such offices when such offices are subject to an approaching city primary election. Elective incumbent city clerks, city attorneys, and city treasurers shall serve for the remainder of their unexpired term notwithstanding any appointment made pursuant to this section and RCW 35.23.051. If a free public library and reading room is established, five library trustees shall be appointed. The city council by ordinance shall prescribe the duties and fix the compensation of all officers and employees: PROVIDED, That the provisions of any such ordinance shall not be inconsistent with any statute: PROVIDED FURTHER, That where the city council finds that the appointment of a full time city engineer is unnecessary, it may in lieu of such appointment, by resolution provide for the performance of necessary engineering services on either a part time, temporary or periodic basis by a qualified engineering firm, pursuant to any reasonable contract.
+
+The mayor shall appoint and at the mayor's pleasure may remove all appointive officers except as otherwise provided herein: PROVIDED, That municipal judges shall be removed only upon conviction of misconduct or malfeasance in office, or because of physical or mental disability rendering the judge incapable of performing the duties of the mayor's office. Every appointment or removal must be in writing signed by the mayor and filed with the city clerk.
+
+## Section 9
+The government of a town shall be vested in a mayor and a council consisting of five members and a treasurer, all elective; the mayor shall appoint a clerk and a marshal; and may appoint a town attorney, pound master, street superintendent, a civil engineer, and such police and other subordinate officers and employees as may be provided for by ordinance. The marshal and police must meet all of the requirements of RCW 35.21.333 and chapter 43.101 RCW. All appointive officers and employees shall hold office at the pleasure of the mayor, subject to any applicable law, rule, or regulation relating to civil service, and shall not be subject to confirmation by the town council.
+
+## Section 10
+A metropolitan park district which contains a city with a population greater than one hundred thousand may commission its own peace officers with full police powers to enforce the laws and regulations of the city or county on metropolitan park district property. Peace officers employed pursuant to this section must meet all of the requirements of chapter 43.101 RCW.
+
+## Section 11
+Every city and town may by ordinance prescribe what acts shall constitute offenses against the purity of its water supply and the punishment or penalties therefor and enforce them. The mayor of each city and town may appoint special police officers, with such compensation as the city or town may fix, who shall, after taking oath, have the powers of constables, and who may arrest with or without warrant any person committing, within the territory over which any city or town is given jurisdiction by this chapter, any offense declared by law or by ordinance, against the purity of the water supply, or which violate any rule or regulation lawfully promulgated by the state board of health for the protection of the purity of such water supply. Every special police officer whose appointment is authorized herein may take any person arrested for any such offense or violation before any court having jurisdiction thereof to be proceeded with according to law. Every such special police officer shall, when on duty wear in plain view a badge or shield bearing the words "special police" and the name of the city or town by which he or she has been appointed. Such police must meet all of the requirements of chapter 43.101 RCW.
+
+## Section 12
+Notwithstanding any other provision of law, the legislative body of any code city, by resolution adopted by a two-thirds vote of the full legislative body, may authorize any of its members to serve as volunteer firefighters, volunteer ambulance personnel, or reserve law enforcement officers, or two or more of such positions, and to receive the same compensation, insurance, and other benefits as are applicable to other volunteer firefighters, volunteer ambulance personnel, or reserve law enforcement officers employed by the code city. Any reserve law enforcement officer must meet all of the requirements of chapter 43.101 RCW. "Reserve law enforcement officer," as used in this section, means the same as "reserve peace officer" in RCW 10.93.020.
+
+## Section 13
+The appointive officers shall be those provided for by charter or ordinance and shall include a city clerk and a chief law enforcement officer. The chief law enforcement officer must meet all of the requirements of RCW 35.21.333 and chapter 43.101 RCW. The office of city clerk may be merged with that of a city treasurer, if any, with an appropriate title designated therefor. Provision shall be made for obtaining legal counsel for the city, either by appointment of a city attorney on a full-time or part-time basis, or by any reasonable contractual arrangement for such professional services. The authority, duties and qualifications of all appointive officers shall be prescribed by charter or ordinance, consistent with the provisions of this title, and any amendments thereto, and the compensation of appointive officers shall be prescribed by ordinance: PROVIDED, That the compensation of an appointed municipal judge shall be within applicable statutory limits.
+
+## Section 14
+The sheriff is the chief executive officer and conservator of the peace of the county. In the execution of their office, the sheriff or their deputies:
+
+1. Shall arrest and commit to prison all persons who break the peace, or attempt to break it, and all persons guilty of public offenses;
+
+2. Shall defend the county against those who, by riot or otherwise, endanger the public peace or safety;
+
+3. Shall execute the process and orders of the courts of justice or judicial officers, when delivered for that purpose, according to law;
+
+4. Shall execute all warrants delivered for that purpose by other public officers, according to the provisions of particular statutes;
+
+5. Shall attend the sessions of the courts of record held within the county, and obey their lawful orders or directions;
+
+6. Shall keep and preserve the peace in their respective counties, and quiet and suppress all affrays, riots, unlawful assemblies and insurrections, effect the service of process in civil or criminal cases, and apprehend and secure any person for felony or breach of the peace;
+
+7. May call to their aid volunteers. The authority of such persons must be set forth in agency policy and regulation, and such persons must work under the direction of a peace officer and be clearly identifiable by the public in a manner distinguishable from peace officers. The use of such persons shall be limited to assisting in natural disasters, search and rescue, missing persons, special events, and other similar purposes. Such persons must comply with all agency policies, and are not authorized to use police powers or carry weapons while serving in this role unless certified under chapter 43.101 RCW. If such persons are provided badges or other identifying insignia, such identification shall only be used while on-duty in this role.
+
+## Section 15
+1. As a condition of holding office, all sheriffs are required to comply with the requirements of chapter 43.101 RCW and, within 12 months of assuming office, must have obtained certification and maintains certification as required by chapter 43.101 RCW and the rules of the criminal justice training commission.
+
+2. A person who files a declaration of candidacy for the office of sheriff, or a person who seeks appointment to the office of sheriff, after January 1, 2025, must also have completed the background check requirements under RCW 43.101.095 as a condition to appear on the ballot or be appointed.
+
+    a. The criminal justice training commission must administer the background check investigation and provide the results to the county auditor of the county in which the candidate seeks to file for election or to the appointing authority.
+
+    b. As required for all applicants for law enforcement employment, the background check must indicate whether the candidate has complied with all applicable minimum standards or was determined by the background check to be unsuitable for employment by a law enforcement agency.
+
+    c. Prior to authorizing a candidate for sheriff to appear on the ballot, the county auditor must have received, or prior to appointment the appointing authority must have received, verification from the commission that the candidate or appointee met the state's standards, and such verification must be open for public inspection. The candidate or the appointing authority is responsible for any fees associated with the background check.
+
+3. A person seeking election or appointment to the office of sheriff must provide a sworn statement under penalty of perjury to the auditor or appointing authority stating that the person meets the requirements of this section and the auditor or appointing authority must verify as part of the public record that the requirements of this section have been met.
+
+## Section 16
+When there is no sheriff of a county because a vacancy has been created, the sheriff has been decertified, or the sheriff is disqualified for cause from discharging any particular duty, it shall be lawful for the county executive of that county to appoint a replacement to fill the office or to execute the same: PROVIDED, That the person so appointed must meet the requirements of RCW 36.28.025.
+
+## Section 17
+A county that appoints its sheriff is subject to the requirements of RCW 36.28.025 and chapter 43.101 RCW, and such sheriff must meet all of the requirements under those sections.
+
+## Section 18
+1. In addition to the general powers conferred in this chapter, and without limitation thereof, a municipality that has established or may hereafter establish airports, restricted landing areas, or other air navigation facilities, or that has acquired or set apart or may hereafter acquire or set apart real property for that purpose or purposes is authorized:
+
+    a. To vest authority for the construction, enlargement, improvement, maintenance, equipment, operation, and regulation thereof in an officer, a board, or body of the municipality by ordinance or resolution that prescribes the powers and duties of the officer, board, or body.
+
+        i. The municipality may also vest authority for the construction, enlargement, improvement, maintenance, equipment, operation, management, industrial and commercial development, and regulation thereof in a municipal airport commission through an ordinance or resolution that includes: (A) The terms of office, which may not exceed six years and which must be staggered so that not more than three terms expire in the same year; (B) the method of appointment and filling vacancies; (C) a provision that there is no compensation, but the provision may provide for a per diem for time spent on commission business of not more than $25 per day plus travel expenses or, in lieu of travel expenses when travel requires overnight lodging, for a per diem payment of not more than the United States general services administration's per diem rates; (D) the powers and duties of the commission; and (E) any other matters necessary to the exercise of the commission's powers. The expense of the construction, enlargement, improvement, maintenance, equipment, industrial and commercial development, operation, management, and regulation are the responsibility of the municipality.
+
+        ii. The commission consists of at least five members appointed by the governing body of the municipality, subject to the following conditions:
+
+(A) In a municipality with a population of 35,000 or greater, members must be residents of the municipality;
+
+(B) In a municipality with a population of fewer than 35,000, at least a majority of members must be residents of the municipality or the county in which the municipality is located, with any remaining members residents of a county or counties adjoining the municipality or the county in which the municipality is located;
+
+(C) A majority of the commissioners must have expertise in: The aviation industry; business administration or operations; finance; accounting; marketing; economic development; commercial real estate development; engineering; planning and construction; law; utilities; or other related experience from industries that have a logical nexus with airport administration, operations, and development;
+
+(D) Immediate family members of the governing body of the municipality, and current and former employees of the municipal airport, may not be appointed to the commission; and
+
+(E) Members must agree to adhere to the ethical standards of conduct adopted by the municipality or the existing municipal airport commission.
+
+        iii. A municipality may vest authority in a municipal airport commission to apply for loans through the public use general aviation airport loan program.
+
+    b. To adopt and amend all needed rules, regulations, and ordinances for the management, government, and use of any properties under its control, whether within or outside the territorial limits of the municipality; to provide fire protection for the airport, including the acquisition and operation of fire protection equipment and facilities, and the right to contract with any private body or political subdivision of the state for the furnishing of such fire protection; to appoint airport guards or police, with full police powers, and such guards or police are subject to all of the requirements of chapter 43.101 RCW; to fix by ordinance or resolution, as may be appropriate, penalties for the violation of the rules, regulations, and ordinances, and enforce those penalties in the same manner in which penalties prescribed by other rules, regulations, and ordinances of the municipality are enforced. For the purposes of such management and government and direction of public use, that part of all highways, roads, streets, avenues, boulevards, and territory that adjoins the limits of any airport or restricted landing area acquired or maintained under the provisions of this chapter is under like control and management of the municipality. It may also adopt and enact rules, regulations, and ordinances designed to safeguard the public upon or beyond the limits of private airports or landing strips within the municipality or its police jurisdiction against the perils and hazards of instrumentalities used in aerial navigation. Rules, regulations, and ordinances shall be published as provided by general law or the charter of the municipality for the publication of similar rules, regulations, and ordinances. They shall conform to and be consistent with the laws of this state and the rules of the state department of transportation and shall be kept in conformity, as nearly as may be, with the then current federal legislation governing aeronautics and the regulations duly promulgated thereunder and the rules and standards issued from time to time pursuant thereto.
+
+    c. To create a special airport fund, and provide that all receipts from the operation of the airport be deposited in the fund, which fund shall remain intact from year to year and may be pledged to the payment of aviation bonds, or kept for future maintenance, construction, or operation of airports or airport facilities.
+
+    d. To lease airports or other air navigation facilities, or real property acquired or set apart for airport purposes, to private parties, any municipal or state government or the national government, or any department thereof, for operation; to lease or assign to private parties, any municipal or state government or the national government, or any department thereof, for operation or use consistent with the purposes of this chapter, space, area, improvements, or equipment of such airports; to authorize its lessees to construct, alter, repair, or improve the leased premises at the cost of the lessee and to reimburse its lessees for such cost, provided the cost is paid solely out of funds fully collected from the airport's tenants; to sell any part of such airports, other air navigation facilities or real property to any municipal or state government, or to the United States or any department or instrumentality thereof, for aeronautical purposes or purposes incidental thereto, and to confer the privileges of concessions of supplying upon its airports goods, commodities, things, services, and facilities: PROVIDED, That in each case in so doing the public is not deprived of its rightful, equal, and uniform use thereof.
+
+    e. Acting through its governing body, to sell or lease any property, real or personal, acquired for airport purposes and belonging to the municipality, which, in the judgment of its governing body, may not be required for aircraft landings, aircraft takeoffs or related aeronautic purposes, in accordance with the laws of this state, or the provisions of the charter of the municipality, governing the sale or leasing of similar municipally owned property. The municipal airport commission, if one has been organized and appointed under (a) of this subsection, may lease any airport property for aircraft landings, aircraft takeoffs, or related aeronautic purposes. If there is a finding by the governing body of the municipality that any airport property, real or personal, is not required for aircraft landings, aircraft takeoffs, or related aeronautic purposes, then the municipal airport commission may lease such space, land, area, or improvements, or construct improvements, or take leases back for financing purposes, grant concessions on such space, land, area, or improvements, all for industrial or commercial purposes, by private negotiation and under such terms and conditions that seem just and proper to the municipal airport commission. Any such lease of real property for aircraft manufacturing or aircraft industrial purposes or to any manufacturer of aircraft or aircraft parts or for any other business, manufacturing, or industrial purpose or operation relating to, identified with, or in any way dependent upon the use, operation, or maintenance of the airport, or for any commercial or industrial purpose may be made for any period not to exceed 75 years, but any such lease of real property made for a longer period than 10 years shall contain provisions requiring the municipality and the lessee to permit the rentals for each five-year period thereafter, to be readjusted at the commencement of each such period if written request for readjustment is given by either party to the other at least 30 days before the commencement of the five-year period for which the readjustment is requested. If the parties cannot agree upon the rentals for the five-year period, they shall submit to have the disputed rentals for the period adjusted by arbitration. The lessee shall pick one arbitrator, and the governing body of the municipality shall pick one, and the two so chosen shall select a third. After a review of all pertinent facts the board of arbitrators may increase or decrease such rentals or continue the previous rate thereof.
+
+The proceeds of the sale of any property the purchase price of which was obtained by the sale of bonds shall be deposited in the bond sinking fund. If all the proceeds of the sale are not needed to pay the principal of bonds remaining unpaid, the remainder shall be paid into the airport fund of the municipality. The proceeds of sales of property the purchase price of which was paid from appropriations of tax funds shall be paid into the airport fund of the municipality.
+
+    f. To determine the charges or rental for the use of any properties under its control and the charges for any services or accommodations, and the terms and conditions under which such properties may be used: PROVIDED, That in all cases the public is not deprived of its rightful, equal, and uniform use of the property. Charges shall be reasonable and uniform for the same class of service and established with due regard to the property and improvements used and the expense of operation to the municipality. The municipality shall have and may enforce liens, as provided by law for liens and enforcement thereof, for repairs to or improvement or storage or care of any personal property, to enforce the payment of any such charges. As used in this subsection (1)(f), the term "charges" does not refer to any minimum labor standard imposed by a municipality pursuant to subsection (2) of this section.
+
+    g. To impose a customer facility charge upon customers of rental car companies accessing the airport for the purposes of financing, designing, constructing, operating, and maintaining consolidated rental car facilities and common use transportation equipment and facilities which are used to transport the customer between the consolidated car rental facilities and other airport facilities. The airport operator may require the rental car companies to collect the facility charges, and any facility charges so collected shall be deposited in a trust account for the benefit of the airport operator and remitted at the direction of the airport operator, but no more often than once per month. The charge shall be calculated on a per-day basis. Facility charges may not exceed the reasonable costs of financing, designing, constructing, operating, and maintaining the consolidated car rental facilities and common use transportation equipment and facilities and may not be used for any other purpose. For the purposes of this subsection (1)(g), if an airport operator makes use of its own funds to finance the consolidated rental car facilities and common use transportation equipment and facilities, the airport operator (i) is entitled to earn a rate of return on such funds no greater than the interest rate that the airport operator would pay to finance such facilities in the appropriate capital market, provided that the airport operator establish the rate of return in consultation with the rental car companies, and (ii) may use the funds earned under (g)(i) of this subsection for purposes other than those associated with the consolidated rental car facilities and common use transportation equipment and facilities.
+
+    h. To make airport property available for less than fair market rental value under very limited conditions provided that prior to the lease or contract authorizing such use the airport operator's board, commission, or council has (i) adopted a policy that establishes that such lease or other contract enhances the public acceptance of the airport and serves the airport's business interest and (ii) adopted procedures for approval of such lease or other contract.
+
+        i. If the airport operator has adopted the policy and procedures under (h) of this subsection, to lease or license the use of property belonging to the municipality and acquired for airport purposes at less than fair market rental value as long as the municipality's council, board, or commission finds that the following conditions are met:
+
+        i. The lease or license of the subject property enhances public acceptance of the airport in a community in the immediate area of the airport;
+
+        ii. The subject property is put to a desired public recreational or other community use by the community in the immediate area of the airport;
+
+        iii. The desired community use and the community goodwill that would be generated by such community use serves the business interest of the airport in ways that can be articulated and demonstrated;
+
+        iv. The desired community use does not adversely affect the capacity, security, safety, or operations of the airport;
+
+    v. At the time the community use is contemplated, the subject property is not reasonably expected to be used by an aeronautical tenant or otherwise be needed for airport operations in the foreseeable future;
+
+    vi. At the time the community use is contemplated, the subject property would not reasonably be expected to produce more than de minimis revenue;
+
+    vii. If the subject property can be reasonably expected to produce more than de minimis revenue, the community use is permitted only where the revenue to be earned from the community use would approximate the revenue that could be generated by an alternate use;
+
+    viii. Leases for community use must not preclude reuse of the subject property for airport purposes if, in the opinion of the airport owner, reuse of the subject property would provide greater benefits to the airport than continuation of the community use;
+
+        ix. The airport owner ensures that airport revenue does not support the capital or operating costs associated with the community use;
+
+    x. The lease or other contract for community use is not to a for‑profit organization or for the benefit of private individuals;
+
+    xi. The lease or other contract for community use is subject to the requirement that if the term of the lease is for a period that exceeds 10 years, the lease must contain a provision allowing for a readjustment of the rent every five years after the initial 10-year term;
+
+    xii. The lease or other contract for community use is subject to the requirement that the term of the lease must not exceed 50 years; and
+
+    xiii. The lease or other contract for community use is subject to the requirement that if the term of the lease exceeds one year, the lease or other contract obligations must be secured by rental insurance, bond, or other security satisfactory to the municipality's board, council, or commission in an amount equal to at least one year's rent, or as consistent with chapter 53.08 RCW. However, the municipality's board, council, or commission may waive the rent security requirement or lower the amount of the rent security requirement for good cause.
+
+    j. To exercise all powers necessarily incidental to the exercise of the general and special powers granted in this section.
+
+2. [Empty]
+
+    a. A municipality that controls or operates an airport having had more than 20,000,000 annual commercial air service passenger enplanements on average over the most recent seven full calendar years that is located within the boundaries of a city that has passed a local law or ordinance setting a minimum labor standard that applies to certain employers operating or providing goods and services at the airport is authorized to enact a minimum labor standard that applies to employees working at the airport, so long as the minimum labor standard meets, but does not exceed, the minimum labor standard in the city's law or ordinance.
+
+    b. A municipality's authority to establish a minimum labor standard pursuant to (a) of this subsection may be imposed only on employers that are excluded from the minimum labor standard established by such city because the type of good or service provided by the employer is expressly excluded in the text of the city's law or ordinance.
+
+    c. This section does not authorize a municipality to establish a minimum labor standard for an employer who was excluded from the city's law or ordinance because it is a certificated air carrier performing services for itself or based on the employer's size or number of employees.
+
+    d. The authority granted under (a) of this subsection shall only apply to employers who provide the goods or services at the airport from facilities that are located on property owned by the municipality and within the boundaries of the city that enacted the minimum labor standard.
+
+## Section 19
+Any port district operating an airport with a police department as authorized by RCW 14.08.120 or designated as a port of entry by the federal government is authorized to appoint peace officers with full police powers to enforce all applicable federal, state, or municipal statutes, rules, regulations, or ordinances upon any port-owned or operated properties or operations. Such peace officers must meet all of the requirements of chapter 43.101 RCW.
+
+## Section 20
+The criminal justice training commission shall have the power to and may in its discretion appoint and commission railroad police officers at the request of any railroad corporation and may revoke any appointment at its pleasure. Any such railroad police officers must meet all of the requirements of chapter 43.101 RCW.

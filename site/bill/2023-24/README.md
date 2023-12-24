@@ -1233,6 +1233,43 @@
 * [SB 5677](sb/5677) - Walla Walla sweet onion day 1👍 0👎 0❓ - S Rules X
 
 ## Pending bills
+* [SB 5905](sb/5905) - Concerning certification, background checks, and training requirements for sheriffs, police chiefs, marshals, reserve officers, and volunteers. - S Prefiled
+* [SB 5904](sb/5904) - Extending the terms of eligibility for financial aid programs. - S Prefiled
+* [SB 5903](sb/5903) - Concerning representation in the educator preparation act. - S Prefiled
+* [SB 5902](sb/5902) - Reinvesting account revenue for the purpose of supporting the state park system. - S Prefiled
+* [SB 5901](sb/5901) - Concerning co-living housing. - S Prefiled
+* [SB 5900](sb/5900) - Concerning construction crane safety. - S Prefiled
+* [SB 5899](sb/5899) - Adding to the list of provisions prohibited from rental agreements. - S Prefiled
+* [HB 2038](hb/2038) - Collecting data on student transfers and withdrawals from public schools and school districts. - H Prefiled
+* [HB 2037](hb/2037) - Concerning Holocaust and genocide education in public schools. - H Prefiled
+* [HB 2036](hb/2036) - Concerning workplace safety and operational standards for adult entertainment establishments. - H Prefiled
+* [HB 2034](hb/2034) - Requiring counties and cities to provide the administrative office of the courts with notice of court reorganizations. - H Prefiled
+* [HB 2035](hb/2035) - Concerning restrictions on the working conditions and hours of sixteen- and seventeen-year olds. - H Prefiled
+* [HB 2032](hb/2032) - Reducing the size of yard signs that are exempt from certain political advertising disclosure requirements. - H Prefiled
+* [HB 2033](hb/2033) - Creating a rent relief incentive program. - H Prefiled
+* [HB 2030](hb/2030) - Revoking a person's voting rights only when convicted of a state crime punishable by death. - H Prefiled
+* [HB 2031](hb/2031) - Recognizing posttraumatic stress disorder as an occupational disease for county coroners, examiners, and investigative personnel. - H Prefiled
+* [HB 2028](hb/2028) - Concerning manufacturer and new dealer franchise agreements. - H Prefiled
+* [HB 2029](hb/2029) - Concerning opioid overdose reversal medication in high schools. - H Prefiled
+* [HB 2026](hb/2026) - Concerning rental income received by people eligible for certain property tax exemption programs. - H Prefiled
+* [HB 2027](hb/2027) - Concerning certification, background checks, and training requirements for sheriffs, police chiefs, marshals, reserve officers, and volunteers. - H Prefiled
+* [HB 2024](hb/2024) - Concerning flexible work policies for law enforcement officers and participation in the law enforcement officers' and firefighters' retirement system plan 2. - H Prefiled
+* [HB 2025](hb/2025) - Modifying placement and salary matching requirements for the state work-study program. - H Prefiled
+* [HB 2022](hb/2022) - Concerning construction crane safety. - H Prefiled
+* [HB 2023](hb/2023) - Improving meaningful access to elections by increasing language assistance. - H Prefiled
+* [HB 2021](hb/2021) - Concerning the disposition of privately owned firearms in the custody of state or local government entities or law enforcement agencies. - H Prefiled
+* [HB 2019](hb/2019) - Establishing a Native American apprentice assistance program. - H Prefiled
+* [HB 2020](hb/2020) - Creating a state administered public infrastructure assistance program within the emergency management division. - H Prefiled
+* [HB 2018](hb/2018) - Improving student outcomes by restricting mobile device use by public school students. - H Prefiled
+* [HB 2017](hb/2017) - Addressing school districts with aged facilities and a history of capital bond failure. - H Prefiled
+* [SB 5898](sb/5898) - Clarifying employment standards for long-term care individual providers. - S Prefiled
+* [SB 5897](sb/5897) - Modifying provisions of the business licensing service program. - S Prefiled
+* [SB 5895](sb/5895) - Concerning collective bargaining for certain employees who are enrolled in academic programs at public institutions of higher education. - S Prefiled
+* [SB 5896](sb/5896) - Extending the terms of eligibility for financial aid programs. - S Prefiled
+* [SB 5894](sb/5894) - Including protected classes in the Washington equal pay and opportunities act. - S Prefiled
+* [SB 5893](sb/5893) - Providing gate money to individuals releasing from custody prior to the expiration of their sentence. - S Prefiled
+* [SB 5892](sb/5892) - Concerning diseased elk. - S Prefiled
+* [SB 5891](sb/5891) - Public school bus trespass - S Prefiled
 * [HB 2016](hb/2016) - Allowing certain minors to contract for housing and utilities. - H Prefiled
 * [HB 2015](hb/2015) - Concerning incentivizing adult family homes to increase bed capacity to seven or eight beds. - H Prefiled
 * [HB 2014](hb/2014) - Concerning the definition of veteran and restoring honor to veterans. - H Prefiled
