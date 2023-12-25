@@ -12,7 +12,7 @@
 * [HB 1110](hb/1110) - Middle housing 76📰 5096👍 1228👎 53❓ - C 332 L 23
 * [HB 1333](hb/1333) - Domestic violent extremism 4📰 253👍 5450👎 12❓ - H Rules C
 * [SB 5232](sb/5232) - Firearms/purchase & transfer 7📰 1680👍 3929👎 2❓ - S Ways & Means
-* [HB 1389](hb/1389) - Residential rent increases 25📰 3125👍 2455👎 27❓ - H Rules R
+* [HB 1389](hb/1389) - Residential rent increases 26📰 3125👍 2455👎 27❓ - H Rules R
 * [HB 1181](hb/1181) - Climate change/planning 23📰 4665👍 601👎 16❓ - C 228 L 23
 * [SB 5184](sb/5184) - Anesthesiologist assistants 1📰 1344👍 3437👎 9❓ - S Health & Long
 * [SB 5768](sb/5768) - DOC/abortion medications 20📰 1019👍 3318👎 6❓ - C 195 L 23
@@ -34,7 +34,7 @@
 * [HB 1513](hb/1513) - Traffic safety 11📰 2025👍 430👎 11❓ - H Rules R
 * [HB 1554](hb/1554) - Lead impacts 359👍 2023👎 26❓ - H Rules 3C
 * [SB 5389](sb/5389) - Optometry 1📰 615👍 1710👎 5❓ - C 400 L 23
-* [SB 5435](sb/5435) - Residential rent increases 9📰 1207👍 1090👎 11❓ - S Housing
+* [SB 5435](sb/5435) - Residential rent increases 10📰 1207👍 1090👎 11❓ - S Housing
 * [HB 1002](hb/1002) - Hazing penalty 10📰 2240👍 12👎 11❓ - C 196 L 23
 * [HB 1340](hb/1340) - Health professions/conduct 23📰 1547👍 650👎 1❓ - C 192 L 23
 * [SB 5371](sb/5371) - Orca vessel protection 11📰 2062👍 23👎 27❓ - C 452 L 23
@@ -51,7 +51,7 @@
 * [SB 5738](sb/5738) - LeMay special license plate 1625👍 1👎 11❓ - S Rules 2
 * [HB 1391](hb/1391) - Energy in buildings 1📰 1465👍 147👎 18❓ - H Rules 3C
 * [HB 1541](hb/1541) - Lived experience 5📰 1104👍 490👎 4❓ - H Rules 3C
-* [SB 5198](sb/5198) - Mobile home community sales 3📰 1403👍 177👎 9❓ - C 40 L 23
+* [SB 5198](sb/5198) - Mobile home community sales 4📰 1403👍 177👎 9❓ - C 40 L 23
 * [HB 1074](hb/1074) - Landlord damage claims 6📰 825👍 743👎 7❓ - C 331 L 23
 * [SB 5154](sb/5154) - Solid waste management 5📰 1475👍 63👎 21❓ - S Ways & Means
 * [SB 5102](sb/5102) - School library info and tech 1510👍 41👎 6❓ - S Rules 3
@@ -117,7 +117,7 @@
 * [SB 5187](sb/5187) - Operating budget 13📰 104👍 528👎 252❓ - C 475 L 23
 * [HB 1269](hb/1269) - Rx drug affordability board 3📰 850👍 21👎 9❓ - H Rules R
 * [HB 1489](hb/1489) - Mt. St. Helens license plate 861👍 1👎 0❓ - H Rules C
-* [SB 5697](sb/5697) - Mobile home park rates 552👍 305👎 0❓ - S Ways & Means
+* [SB 5697](sb/5697) - Mobile home park rates 1📰 552👍 305👎 0❓ - S Ways & Means
 * [SB 5225](sb/5225) - Working conn. child care 10📰 842👍 9👎 2❓ - C 222 L 23
 * [HB 1167](hb/1167) - Residential housing 3📰 567👍 269👎 8❓ - H Rules 3C
 * [SB 5072](sb/5072) - Highly capable students 10📰 818👍 17👎 7❓ - C 265 L 23
@@ -567,7 +567,7 @@
 * [SB 5280](sb/5280) - Clergy/child abuse reporting 10📰 58👍 2👎 4❓ - S Rules 3
 * [HB 1640](hb/1640) - Pardons and commutations 36👍 27👎 0❓ - H Rules R
 * [HB 1114](hb/1114) - Sentencing comm'n members 6📰 62👍 0👎 0❓ - C 241 L 23
-* [HB 1771](hb/1771) - Relocation assistance 2📰 61👍 1👎 0❓ - C 259 L 23
+* [HB 1771](hb/1771) - Relocation assistance 3📰 61👍 1👎 0❓ - C 259 L 23
 * [SB 5277](sb/5277) - Dairy, etc. tax preferences 62👍 0👎 0❓ - S Rules 3
 * [SB 5522](sb/5522) - College grant prg. stipend 1📰 62👍 0👎 0❓ - S Higher Ed & Wo
 * [HB 1725](hb/1725) - Insulin/access under 21 1📰 60👍 0👎 1❓ - H Approps
@@ -1367,7 +1367,7 @@
 * [SB 5851](sb/5851) - Concerning Holocaust and genocide education in public schools. - S Prefiled
 * [SB 5852](sb/5852) - Concerning special education safety net awards. - S Prefiled
 * [SB 5849](sb/5849) - Concerning a computer science competency graduation requirement. - S Prefiled
-* [SB 5850](sb/5850) - Supporting students who are chronically absent and at risk for not graduating high school. - S Prefiled
+* [SB 5850](sb/5850) - Supporting students who are chronically absent and at risk for not graduating high school. 1📰 - S Prefiled
 * [HB 1960](hb/1960) - Increasing prototypical school staffing to better meet student needs. - H Prefiled
 * [HB 1959](hb/1959) - Extending parts of the paid family and medical leave program to employers with fewer than 50 employees. - H Prefiled
 * [HB 1957](hb/1957) - Preserving coverage of preventive services without cost sharing. - H Prefiled

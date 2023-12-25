@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 12/22/2023 [Crosscut](/org/crosscut/) - [What tenant protections will WA lawmakers consider in 2024? | Crosscut](https://crosscut.com/investigations/2023/12/what-tenant-protections-will-wa-lawmakers-consider-2024#:~:text=HB%201124)
 * 10/10/2023 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [2023 Legislative Session Summary – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/resources/2023-legislative-session-summary/#:~:text=HB%201124)
 * 03/14/2023 [The Urbanist](/org/the_urbanist/) - [Legislature Abandons Rent Stabilization Push | The Urbanist](https://www.theurbanist.org/2023/03/14/legislature-abandons-rent-stabilization-push/#:~:text=House%20Bill%201124)
 * 03/14/2023 [PubliCola](/org/publicola/) - [Eight-Month-Old Program to Mitigate Rent Hikes Shows Promise, Areas for Improvement - PubliCola](https://publicola.com/2023/03/14/eight-month-old-program-to-mitigate-rent-hikes-shows-promise-areas-for-improvement/#:~:text=House%20Bill%201124)
