@@ -40,6 +40,10 @@ now = datetime.datetime.now()
 cur.execute("SELECT bills.rowid, prefix, number, COUNT(testifiers.sign_in_time) as ts, meetings.start_time, meetings.mId, committees.acronym FROM committees, bills, testifiers, agenda_items, meetings WHERE datetime(meetings.start_time) > datetime(?) AND committees.rowid = meetings.committee_rowid AND meetings.rowid = agenda_items.meeting_rowid AND bills.rowid = agenda_items.bill_rowid AND agenda_items.rowid = testifiers.agenda_item_rowid GROUP BY testifiers.agenda_item_rowid ORDER BY datetime(start_time) ASC, acronym ASC, ts ASC, number ASC", (now,))
 index_lines = []
 index_lines.append("# 2023-24 Bills")
+index_lines.append("* [Upcoming hearings](#upcoming-hearings)")
+index_lines.append("* [Heard bills](#heard-bills)")
+index_lines.append("* [Pending bills](#pending-bills)")
+index_lines.append("")
 index_lines.append("## Upcoming hearings")
 for row in cur:
     counts = db.cursor()

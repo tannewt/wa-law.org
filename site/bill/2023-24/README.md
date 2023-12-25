@@ -1,4 +1,8 @@
 # 2023-24 Bills
+* [Upcoming hearings](#upcoming-hearings)
+* [Heard bills](#heard-bills)
+* [Pending bills](#pending-bills)
+
 ## Upcoming hearings
 
 ## Heard bills
