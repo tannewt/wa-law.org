@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 12/26/2023 [Crosscut](/org/crosscut/) - [WA rental increases cooling, but an affordability crisis remains | Crosscut](https://crosscut.com/news/2023/12/wa-rental-increases-cooling-affordability-crisis-remains#:~:text=House%20Bill%201389)
 * 12/22/2023 [Crosscut](/org/crosscut/) - [What tenant protections will WA lawmakers consider in 2024? | Crosscut](https://crosscut.com/investigations/2023/12/what-tenant-protections-will-wa-lawmakers-consider-2024#:~:text=HB%201389)
 * 12/19/2023 [The Urbanist](/org/the_urbanist/) - [Tacoma Voters Pass State’s Strongest Tenant Protections, Inspiring Other Cities to Act - The Urbanist](https://www.theurbanist.org/2023/12/19/tacoma-voters-pass-states-strongest-tenant-protections/#:~:text=House%20Bill%201389)
 * 12/01/2023 [Crosscut](/org/crosscut/) - [Tumwater mobile home tenants lobby against rent hikes | Crosscut](https://crosscut.com/investigations/2023/12/tumwater-mobile-home-tenants-lobby-against-rent-hikes#:~:text=HB%201389)

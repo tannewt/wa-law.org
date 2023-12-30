@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 12/28/2023 [KING5](/org/king5/) - [Kent mayor is optimistic as street racing deterrents take effect Jan. 1 | king5.com](https://www.king5.com/article/news/local/kent-mayor-optimistic-street-racing-deterrents-effect-jan-1/281-d7d903a3-1808-4545-b944-51e6ed548011#:~:text=the%20signing%20of%20Senate%20Bill%205606,%20the%20law)
+* 12/28/2023 [KIRO7](/org/kiro7/) - [Street racing among new laws, changes going into effect in Washington in 2024 – KIRO 7 News Seattle](https://www.kiro7.com/news/local/street-racing-among-new-laws-changes-going-into-effect-washington-2024/3BSXTJGYPVAFLFVKXPUYMZOU2A/#:~:text=Senate%20Bill%205606)
+* 12/26/2023 [The Center Square](/org/the_center_square/) - [WA state laws in 2024: minimum wage, firearm sales, employee cannabis use and more | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_64f5489a-a438-11ee-bb84-6798534e51a4.html#:~:text=Senate%20Bill%205606)
 * 05/11/2023 [FOX13](/org/fox13/) - [Bill cracks down on street racing, WSP uses aviation to catch perpatators](https://www.fox13seattle.com/news/wsp-eyes-in-the-sky-helps-to-crack-down-on-street-racing-other-crimes#:~:text=Senate%20Bill%205606)
 * 03/19/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 11 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/19/the-house-hot-sheet-for-week-11-of-the-2023-legislative-session/#:~:text=SB%205606)
 * 03/06/2023 [FOX13](/org/fox13/) - ['Our streets are so unsafe now'; Bill addressing illegal street racing passes Washington Senate](https://www.fox13seattle.com/news/house-discusses-senate-passed-bill-addressing-illegal-street-racing-in-washington#:~:text=Senate%20Bill%205606)

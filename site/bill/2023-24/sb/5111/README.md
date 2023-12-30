@@ -10,6 +10,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 12/26/2023 [The Center Square](/org/the_center_square/) - [WA state laws in 2024: minimum wage, firearm sales, employee cannabis use and more | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_64f5489a-a438-11ee-bb84-6798534e51a4.html#:~:text=Senate%20Bill%205111)
+
 ## Meetings
 ### Wed 03/15 08:00 AM - Labor & Workplace Standards (LAWS): ESSB 5111 Sick leave/construction
 #### 85 👍 - Pro

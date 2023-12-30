@@ -12,6 +12,8 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 12/28/2023 [KIRO7](/org/kiro7/) - [Street racing among new laws, changes going into effect in Washington in 2024 – KIRO 7 News Seattle](https://www.kiro7.com/news/local/street-racing-among-new-laws-changes-going-into-effect-washington-2024/3BSXTJGYPVAFLFVKXPUYMZOU2A/#:~:text=Senate%20Bill%205199)
+* 12/26/2023 [The Center Square](/org/the_center_square/) - [WA state laws in 2024: minimum wage, firearm sales, employee cannabis use and more | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_64f5489a-a438-11ee-bb84-6798534e51a4.html#:~:text=SB%205199)
 * 05/31/2023 [The Center Square](/org/the_center_square/) - [Study: Washington’s local news decline hurts democracy, costs taxpayers | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9dda11f6-fffe-11ed-ae77-abdcc59e18f3.html#:~:text=Senate%20Bill%205199)
 * 03/31/2023 [Senate Democrats](/org/senate_democrats/) - [Newspaper tax break passes Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/31/newspaper-tax-break-passes-senate/#:~:text=SB%205199)
 * 03/01/2023 [The Seattle Times](/org/the_seattle_times/) - [Free Press roundup: WA legislative progress, Google bullies Canada | The Seattle Times](https://www.seattletimes.com/opinion/free-press-roundup-wa-legislative-progress-google-bullies-canada/#:~:text=Bill%205199)

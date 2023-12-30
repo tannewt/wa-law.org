@@ -11,6 +11,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 12/28/2023 [KIRO7](/org/kiro7/) - [Street racing among new laws, changes going into effect in Washington in 2024 – KIRO 7 News Seattle](https://www.kiro7.com/news/local/street-racing-among-new-laws-changes-going-into-effect-washington-2024/3BSXTJGYPVAFLFVKXPUYMZOU2A/#:~:text=House%20Bill%201048)
+* 12/26/2023 [The Center Square](/org/the_center_square/) - [WA state laws in 2024: minimum wage, firearm sales, employee cannabis use and more | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_64f5489a-a438-11ee-bb84-6798534e51a4.html#:~:text=HB%201048)
 * 12/11/2023 [FOX13](/org/fox13/) - [Minimum wage, cannabis use, waiting period for guns: New laws going into effect in Washington in 2024](https://www.fox13seattle.com/news/new-laws-washington-state-2024-minimum-wage-sick-leave-gun-laws-voting-rights#:~:text=House%20Bill%201048>>)
 * 07/25/2023 [The Center Square](/org/the_center_square/) - [New Washington laws now in effect | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f4e9fa48-2b4a-11ee-9484-3b8d16ce3fcc.html#:~:text=House%20Bill%201048)
 * 07/17/2023 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS / NOTICIAS LEGISLATIVAS: 2023 Session Report from the Washington Latino Democratic Caucus / Informe de la sesión de 2023 del Caucus Demócrata Latino de Washington – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/07/17/legislative-news-noticias-legislativas-2023-session-report-from-the-washington-latino-democratic-caucus-informe-de-la-sesion-de-2023-del-caucus-democrata-latino-de-washington/#:~:text=HB%201048)
