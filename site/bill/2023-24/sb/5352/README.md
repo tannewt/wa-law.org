@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 12/29/2023 [The Center Square](/org/the_center_square/) - [WA police org urges legislators to prioritize public safety policies | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_55e1579e-a664-11ee-ae2e-5300bdd55530.html#:~:text=Engrossed%20Senate%20Bill%205352)
 * 06/26/2023 [House Republicans](/org/house_republicans/) - [Week Ahead | Washington State House Republicans](https://houserepublicans.wa.gov/stay-connected/week-ahead/#:~:text=SB%205352)
 * 06/01/2023 [The Seattle Times](/org/the_seattle_times/) - [Everyone says they want compromise in politics, until it happens | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/everyone-says-they-want-compromise-in-politics-until-it-happens/#:~:text=SB%205352)
 * 05/03/2023 [The Center Square](/org/the_center_square/) - [Gov. Inslee signs modified police pursuit reform bill into law | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_027985be-ea02-11ed-9587-176f63fb9a4a.html#:~:text=Engrossed%20Senate%20Bill%205352)

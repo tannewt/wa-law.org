@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 12/29/2023 [The Center Square](/org/the_center_square/) - [New ‘missing middle’ housing law runs into barriers in Spokane | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_eb3f2bc8-a677-11ee-97ca-9bb47eef88bf.html#:~:text=House%20Bill%201110)
 * 11/21/2023 [The Center Square](/org/the_center_square/) - [‘Middle housing’ gets a boost from Spokane City Council | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_36610a24-88d0-11ee-bbdc-a7cc8a39a49b.html#:~:text=House%20Bill%201110)
 * 07/20/2023 [Sightline Institute](/org/sightline_institute/) - [From Vermont to Oklahoma, Legislatures Challenge Parking Mandates - Sightline Institute](https://www.sightline.org/2023/07/20/from-vermont-to-oklahoma-legislatures-challenge-parking-mandates/#:~:text=HB%201110)
 * 06/05/2023 [Crosscut](/org/crosscut/) - [How will ‘missing middle’ zoning impact Seattle housing? | Crosscut](https://crosscut.com/politics/2023/06/how-will-missing-middle-zoning-impact-seattle-housing#:~:text=House%20Bill%201110)

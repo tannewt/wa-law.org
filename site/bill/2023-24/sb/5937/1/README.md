@@ -1,0 +1,445 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5937](/bill/2023-24/sb/5937/) > [Original Bill](/bill/2023-24/sb/5937/1/)
+
+# SB 5937 - Crime victims & witnesses
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5937.pdf)
+
+## Section 1
+The following words and phrases as used in this chapter have the meanings set forth in this section unless the context otherwise requires.
+
+1. "Accredited school" means a school or course of instruction which is:
+
+    a. Approved by the state superintendent of public instruction, the state board of education, or the state board for community and technical colleges; or
+
+    b. Regulated or licensed as to course content by any agency of the state or under any occupational licensing act of the state, or recognized by the apprenticeship council under an agreement registered with the apprenticeship council pursuant to chapter 49.04 RCW.
+
+2. "Average monthly wage" means the average annual wage as determined under RCW 50.04.355 as now or hereafter amended divided by twelve.
+
+3. "Beneficiary" means a husband, wife, registered domestic partner, or child of a victim in whom shall vest a right to receive payment under this chapter, except that a husband or wife of an injured victim, living separate and apart in a state of abandonment, regardless of the party responsible therefor, for more than one year at the time of the injury or subsequently, shall not be a beneficiary. A spouse who has lived separate and apart from the other spouse for the period of two years and who has not, during that time, received or attempted by process of law to collect funds for maintenance, shall be deemed living in a state of abandonment.
+
+4. "Child" means every natural born child, posthumous child, stepchild, child legally adopted prior to the injury, child born after the injury where conception occurred prior to the injury, and dependent child in the legal custody and control of the victim, all while under the age of eighteen years, or under the age of twenty-three years while permanently enrolled as a full-time student in an accredited school, and over the age of eighteen years if the child is a dependent as a result of a disability.
+
+5. "Consumer price index" means the consumer price index compiled by the bureau of labor statistics, United States department of labor for the state of Washington. If the bureau of labor statistics develops more than one consumer price index for areas within the state, the index covering the greatest number of people, covering areas exclusively within the boundaries of the state, and including all items must be used.
+
+6. "Criminal act" means an act committed or attempted in this state, unless otherwise provided in this chapter, which is: (a) Punishable as a federal offense that is comparable to a felony or gross misdemeanor in this state; (b) punishable as a felony or gross misdemeanor under the laws of this state; (c) an act committed outside the state of Washington against a resident of the state of Washington which would be compensable had it occurred inside this state and the crime occurred in a state which does not have a crime victims' compensation program, for which the victim is eligible as set forth in the Washington compensation law; or (d) trafficking as defined in RCW 9A.40.100. A "criminal act" does not include the following:
+
+        i. The operation of a motor vehicle, motorcycle, train, boat, or aircraft in violation of law unless:
+
+(A) The injury or death was intentionally inflicted;
+
+(B) The operation thereof was part of the commission of another nonvehicular criminal act as defined in this section;
+
+(C) The death or injury was the result of the operation of a motor vehicle after July 24, 1983, and one of the following applies:
+
+(I) A preponderance of the evidence establishes that the death was the result of vehicular homicide under RCW 46.61.520;
+
+(II) The victim submits a copy of a certificate of probable cause filed by the prosecutor stating that a vehicular assault under RCW 46.61.522 occurred;
+
+(III) Charges have been filed against the defendant for vehicular assault under RCW 46.61.522;
+
+(IV) A conviction of vehicular assault under RCW 46.61.522 has been obtained; or
+
+(V) In cases where a probable criminal defendant has died in perpetration of vehicular assault or, in cases where the perpetrator of the vehicular assault is unascertainable because he or she left the scene of the accident in violation of RCW 46.52.020 or, because of physical or mental infirmity or disability the perpetrator is incapable of standing trial for vehicular assault, the department may, by a preponderance of the evidence, establish that a vehicular assault had been committed and authorize benefits;
+
+(D) The injury or death was caused by a driver in violation of RCW 46.61.502; or
+
+(E) The injury or death was caused by a driver in violation of RCW 46.61.655(7)(a), failure to secure a load in the first degree;
+
+        ii. Neither an acquittal in a criminal prosecution nor the absence of any such prosecution is admissible in any claim or proceeding under this chapter as evidence of the noncriminal character of the acts giving rise to such claim or proceeding, except as provided for in (d)(i)(C) of this subsection;
+
+        iii. Evidence of a criminal conviction arising from acts which are the basis for a claim or proceeding under this chapter is admissible in such claim or proceeding for the limited purpose of proving the criminal character of the acts; and
+
+        iv. Acts which, but for the insanity or mental irresponsibility of the perpetrator, would constitute criminal conduct are deemed to be criminal conduct within the meaning of this chapter.
+
+7. "Department" means the department of labor and industries.
+
+8. "Financial support for lost wages" means a partial replacement of lost wages due to a temporary or permanent total disability.
+
+9. "Gainfully employed" means engaging on a regular and continuous basis in a lawful activity from which a person derives a livelihood.
+
+10. "Injury" means a sudden and tangible happening, of a traumatic nature, producing an immediate or prompt result, and occurring from without, and such physical conditions as result therefrom.
+
+11. "Invalid" means one who is physically or mentally incapacitated from earning wages.
+
+12. "Permanent total disability" means loss of both legs, or arms, or one leg and one arm, total loss of eyesight, paralysis, or other condition permanently incapacitating the victim from performing any work at any gainful occupation.
+
+13. "Private insurance" means any source of recompense provided by contract available as a result of the claimed injury or death at the time of such injury or death, or which becomes available any time thereafter.
+
+14. "Public insurance" means any source of recompense provided by statute, state or federal, available as a result of the claimed injury or death at the time of such injury or death, or which becomes available any time thereafter.
+
+15. "Temporary total disability" means any condition that temporarily incapacitates a victim from performing any type of gainful employment as certified by the victim's attending physician.
+
+16. "Victim" means a person who suffers bodily injury or death as a proximate result of a criminal act of another person, the victim's own good faith and reasonable effort to prevent a criminal act, or his or her good faith effort to apprehend a person reasonably suspected of engaging in a criminal act. For the purposes of receiving benefits pursuant to this chapter, "victim" is interchangeable with "employee" or "worker" as defined in chapter 51.08 RCW as now or hereafter amended.
+
+## Section 2
+1. Except for applications received pursuant to subsection (5) of this section, no compensation of any kind shall be available under this chapter if:
+
+    a. An application for benefits is not received by the department within three years after the date the criminal act was reported to a local police department or sheriff's office or the date the rights of beneficiaries accrued, unless the director has determined that "good cause" exists to expand the time permitted to receive the application. "Good cause" shall be determined by the department on a case-by-case basis and may extend the period of time in which an application can be received for up to five years after the date the criminal act was reported to a local police department or sheriff's office or the date the rights of beneficiaries accrued; or
+
+    b. The criminal act is not reported by the victim or someone on his or her behalf to a local police department or sheriff's office within twelve months of its occurrence or, if it could not reasonably have been reported within that period, within twelve months of the time when a report could reasonably have been made. In making determinations as to reasonable time limits, the department shall give greatest weight to the needs of the victims.
+
+2. No person or spouse, child, or dependent of such person is eligible for benefits under this chapter when the injury for which benefits are sought was:
+
+    a. The result of consent, provocation, or incitement by the victim, unless an injury resulting from a criminal act caused the death of the victim;
+
+    b. Sustained while the crime victim was engaged in the attempt to commit, or the commission of, a felony; or
+
+    c. Sustained while the victim was confined in any county or city jail, federal jail or prison or in any other federal institution, or any state correctional institution maintained and operated by the department of social and health services or the department of corrections, prior to release from lawful custody; or confined or living in any other institution maintained and operated by the department of social and health services or the department of corrections.
+
+3.
+
+A victim is not eligible for benefits under this chapter if the victim:
+
+    a. Has been convicted of a felony offense within five years preceding the criminal act for which the victim is applying where the felony offense is a violent offense under RCW 9.94A.030 or a crime against persons under RCW 9.94A.411, or is convicted of such a felony offense after the criminal act for which the victim is applying; and
+
+    b. Has not completely satisfied all legal financial obligations owed.
+
+4. Because victims of childhood criminal acts may repress conscious memory of such criminal acts far beyond the age of eighteen, the rights of adult victims of childhood criminal acts shall accrue at the time the victim discovers or reasonably should have discovered the elements of the crime. In making determinations as to reasonable time limits, the department shall give greatest weight to the needs of the victim.
+
+5. [Empty]
+
+    a. Benefits under this chapter are available to any victim of a person against whom the state initiates proceedings under chapter 71.09 RCW. The right created under this subsection shall accrue when the victim is notified of proceedings under chapter 71.09 RCW or the victim is interviewed, deposed, or testifies as a witness in connection with the proceedings. An application for benefits under this subsection must be received by the department within two years after the date the victim's right accrued unless the director determines that good cause exists to expand the time to receive the application. The director shall determine "good cause" on a case-by-case basis and may extend the period of time in which an application can be received for up to five years after the date the right of the victim accrued. Benefits under this subsection shall be limited to compensation for costs or losses incurred on or after the date the victim's right accrues for a claim allowed under this subsection.
+
+    b. A person identified as the "minor" in the charge of commercial sexual abuse of a minor under RCW 9.68A.100, promoting commercial sexual abuse of a minor under RCW 9.68A.101, or promoting travel for commercial sexual abuse of a minor under RCW 9.68A.102 is considered a victim of a criminal act for the purpose of the right to benefits under this chapter even if the person is also charged with prostitution under RCW 9A.88.030.
+
+## Section 3
+1. The department may require that the victim present himself or herself for a special medical examination by a physician or physicians selected by the department, and the department may require that the victim present himself or herself for a personal interview. The costs of the examination or interview, including payment of any reasonable round-trip travel expenses, shall be paid by the department as part of the victim's total claim under RCW 7.68.070(1).
+
+2. The director may establish a medical bureau within the department to perform medical examinations under this section.
+
+3. Where a dispute arises from the handling of any claim before the condition of the injured victim becomes fixed, the victim may request the department to resolve the dispute or the director may initiate an inquiry on his or her own motion. In these cases, the department shall proceed as provided in this section and an order shall issue in accordance with RCW 51.52.050.
+
+## Section 4
+The eligibility for benefits under this chapter and the amount thereof will be governed insofar as is applicable by the provisions contained in this chapter.
+
+1. Each victim injured as a result of a criminal act, including criminal acts committed between July 1, 1981, and January 1, 1983, or the victim's family or beneficiary in case of death of the victim, are eligible for benefits in accordance with this chapter, subject to the limitations under RCW 7.68.015. Except for medical benefits authorized under RCW 7.68.080, no more than forty thousand dollars shall be granted as a result of a single injury or death.
+
+    a. Benefits payable for temporary total disability that results in financial support for lost wages shall not exceed fifteen thousand dollars.
+
+    b. Benefits payable for a permanent total disability or fatality that results in financial support for lost wages shall not exceed forty thousand dollars. After at least twelve monthly payments have been paid, the department shall have the sole discretion to make a final lump sum payment of the balance remaining.
+
+2. If the victim was not gainfully employed at the time of the criminal act, no financial support for lost wages will be paid to the victim or any beneficiaries, unless the victim was gainfully employed for a total of at least twelve weeks in the six months preceding the date of the criminal act.
+
+3. No victim or beneficiary shall receive compensation for or during the day on which the injury was received.
+
+4. If a victim's employer continues to pay the victim's wages that he or she was earning at the time of the crime, the victim shall not receive any financial support for lost wages.
+
+5. When the director determines that a temporary total disability results in a loss of wages, the victim shall receive monthly subject to subsection (1) of this section, during the period of disability, sixty percent of the victim's monthly wage but no more than one hundred percent of the state's average monthly wage as defined in RCW 7.68.020. The minimum monthly payment shall be no less than five hundred dollars. Monthly wages shall be based upon employer wage statements, employment security records, or documents reported to and certified by the internal revenue service. Monthly wages must be determined using the actual documented monthly wage or averaging the total wages earned for up to twelve successive calendar months preceding the injury. In cases where the victim's wages and hours are fixed, they shall be determined by multiplying the daily wage the victim was receiving at the time of the injury:
+
+    a. By five, if the victim was normally employed one day a week;
+
+    b. By nine, if the victim was normally employed two days a week;
+
+    c. By thirteen, if the victim was normally employed three days a week;
+
+    d. By eighteen, if the victim was normally employed four days a week;
+
+    e. By twenty‑two, if the victim was normally employed five days a week;
+
+    f. By twenty‑six, if the victim was normally employed six days a week; or
+
+    g. By thirty, if the victim was normally employed seven days a week.
+
+6. When the director determines that a permanent total disability or death results in a loss of wages, the victim or eligible spouse shall receive the monthly payments established in this subsection, not to exceed forty thousand dollars or the limits established in this chapter.
+
+7. [Empty]
+
+    a. The legal guardian or custodian of a minor victim shall receive up to thirty days of the legal guardian's or custodian's lost wages if the director determines that the legal guardian or custodian has lost wages due to any one or more of the following:
+
+        i. The time where the legal guardian or custodian of a minor victim accompanies the minor victim to medical or counseling services related to the crime; or
+
+        ii. The time where the legal guardian or custodian of a minor victim accompanies the minor victim to criminal justice proceedings related to the crime.
+
+    b. Wages under this subsection shall be based on employer wage statements, employment security records, or documents reported to and certified by the internal revenue service.
+
+8. If the director determines that the victim is voluntarily retired and is no longer attached to the workforce, benefits shall not be paid under this section.
+
+9. In the case of death, if there is no eligible spouse, benefits shall be paid to the child or children of the deceased victim. If there is no spouse or children, no payments shall be made under this section. If the spouse remarries before this benefit is paid in full benefits shall be paid to the victim's child or children and the spouse shall not receive further payment. If there is no child or children no further payments will be made.
+
+10. The benefits for disposition of remains or burial expenses shall not exceed six thousand one hundred seventy dollars per claim. Beginning July 1, 2020, the department shall adjust the amount in this subsection (10) for inflation every three years based upon changes in the consumer price index during that time period. To receive reimbursement for expenses related to the disposition of remains or burial, the department must receive an itemized statement from a provider of services within twenty-four months of the date of the claim allowance. If there is a delay in the recovery of remains or the release of remains for disposition or burial, an itemized statement from a provider of services must be received within twenty-four months of the date of the release of the remains or of the date of the claim allowance, whichever is later.
+
+11. Any person who is responsible for the victim's injuries, or who would otherwise be unjustly enriched as a result of the victim's injuries, shall not be a beneficiary under this chapter.
+
+12. Crime victims' compensation is not available to pay for services covered under chapter 74.09 RCW or Title XIX of the federal social security act.
+
+13. A victim whose crime occurred in another state who qualifies for benefits under RCW 7.68.060(5) may receive appropriate mental health counseling to address distress arising from participation in the civil commitment proceedings. Fees for counseling shall be determined by the department in accordance with RCW 51.04.030, subject to the limitations of RCW 7.68.080.
+
+14. If the provisions of this title relative to compensation for injuries to or death of victims become invalid because of any adjudication, or are repealed, the period intervening between the occurrence of an injury or death, not previously compensated for under this title by lump payment or completed monthly payments, and such repeal or the rendition of the final adjudication of invalidity shall not be computed as a part of the time limited by law for the commencement of any action relating to such injury or death.
+
+15. The benefits established in RCW 51.32.080 for permanent partial disability will not be provided to any crime victim or for any claim submitted on or after July 1, 2011.
+
+## Section 5
+1. When the injury to any victim is so serious as to require the victim's being taken from the place of injury to a place of treatment, reasonable round-trip transportation costs to and from the nearest place of proper treatment shall be reimbursed by the department as part of the victim's total claim under RCW 7.68.070(1).
+
+2. In the case of alleged rape or molestation of a child, the reasonable costs of a colposcopy examination shall be reimbursed by the department. Costs for a colposcopy examination given under this subsection shall not be included as part of the victim's total claim under RCW 7.68.070(1).
+
+3. The director shall adopt rules for fees and charges for hospital, clinic, medical, and other health care services, including fees and costs for durable medical equipment, eyeglasses, hearing aids, and other medically necessary devices for crime victims under this chapter. The director shall set these service levels and fees at a level no lower than those established for comparable services under the workers' compensation program under Title 51 RCW, except the director shall comply with the requirements of RCW 7.68.030(2)(g) (i) through (iii) when setting service levels and fees, including reducing levels and fees when required. In establishing fees for medical and other health care services, the director shall consider the director's duty to purchase health care in a prudent, cost-effective manner. The director shall establish rules adopted in accordance with chapter 34.05 RCW. Nothing in this chapter may be construed to require the payment of interest on any billing, fee, or charge.
+
+4. Whenever the director deems it necessary in order to resolve any medical issue, a victim shall submit to examination by a physician or physicians selected by the director, with the rendition of a report to the person ordering the examination. The department shall provide the physician performing an examination with all relevant medical records from the victim's claim file. The director, in his or her discretion, may charge the cost of such examination or examinations to the crime victims' compensation fund. If the examination is paid for by the victim, then the cost of said examination shall be reimbursed to the victim for reasonable costs connected with the examination as part of the victim's total claim under RCW 7.68.070(1).
+
+5. Victims of sexual assault are eligible to receive appropriate counseling. Fees for such counseling shall be determined by the department. Counseling services may include, if determined appropriate by the department, counseling of members of the victim's immediate family, other than the perpetrator of the assault.
+
+6. [Empty]
+
+    a. Immediate family members of a homicide victim may receive appropriate counseling to assist in dealing with the immediate, near‑term consequences of the related effects of the homicide. Except as provided in (b) of this subsection, up to 12 counseling sessions may be received after the crime victim's claim has been allowed. Fees for counseling shall be determined by the department in accordance with and subject to this section. Payment of counseling benefits under this section may not be provided to the perpetrator of the homicide. The benefits under this subsection may be provided only with respect to homicides committed on or after July 1, 1992.
+
+    b. The immediate family members of a homicide victim may receive more than 12 counseling sessions under this subsection (6) if a licensed mental health provider determines that:
+
+        i. Additional sessions are needed as a direct result of the near-term consequences of the related effects of the homicide; and
+
+        ii. The recipient of the counseling would benefit from additional sessions.
+
+7. Pursuant to RCW 7.68.070(13), a victim of a sex offense that occurred outside of Washington may be eligible to receive mental health counseling related to participation in proceedings to civilly commit a perpetrator.
+
+8. The crime victims' compensation program shall consider payment of benefits solely for the effects of the criminal act.
+
+9. The legislature finds and declares it to be in the public interest of the state of Washington that a proper regulatory and inspection program be instituted in connection with the provision of any services provided to crime victims pursuant to this chapter. In order to effectively accomplish such purpose and to assure that the victim receives such services as are paid for by the state of Washington, the acceptance by the victim of such services, and the request by a provider of services for reimbursement for providing such services, shall authorize the director of the department or the director's authorized representative to inspect and audit all records in connection with the provision of such services. In the conduct of such audits or investigations, the director or the director's authorized representatives may:
+
+    a. Examine all records, or portions thereof, including patient records, for which services were rendered by a health care provider and reimbursed by the department, notwithstanding the provisions of any other statute which may make or purport to make such records privileged or confidential, except that no original patient records shall be removed from the premises of the health care provider, and that the disclosure of any records or information obtained under authority of this section by the department is prohibited and constitutes a violation of RCW 42.52.050, unless such disclosure is directly connected to the official duties of the department. The disclosure of patient information as required under this section shall not subject any physician, licensed advanced registered nurse practitioner, or other health care provider to any liability for breach of any confidential relationships between the provider and the patient. The director or the director's authorized representative shall destroy all copies of patient medical records in their possession upon completion of the audit, investigation, or proceedings;
+
+    b. Approve or deny applications to participate as a provider of services furnished to crime victims pursuant to this title;
+
+    c. Terminate or suspend eligibility to participate as a provider of services furnished to victims pursuant to this title; and
+
+    d. Pursue collection of unpaid overpayments and/or penalties plus interest accrued from health care providers pursuant to RCW 51.32.240(6).
+
+10. When contracting for health care services and equipment, the department, upon request of a contractor, shall keep confidential financial and valuable trade information, which shall be exempt from public inspection and copying under chapter 42.56 RCW.
+
+## Section 6
+1. Any victim eligible to receive any benefits or claiming such under this title shall, if requested by the department submit himself or herself for medical examination, at a time and from time to time, at a place reasonably convenient for the victim as may be provided by the rules of the department. An injured victim, whether an alien or other injured victim, who is not residing in the United States at the time that a medical examination is requested may be required to submit to an examination at any location in the United States determined by the department.
+
+2. If the victim refuses to submit to medical examination, or obstructs the same, or, if any injured victim shall persist in unsanitary or injurious practices which tend to imperil or retard his or her recovery, or shall refuse to submit to such medical or surgical treatment as is reasonably essential to his or her recovery does not cooperate in reasonable efforts at such rehabilitation, the department may suspend any further action on any claim of such victim so long as such refusal, obstruction, noncooperation, or practice continues and thus, the department may reduce, suspend, or deny any compensation for such period. The department may not suspend any further action on any claim of a victim or reduce, suspend, or deny any compensation if a victim has good cause for refusing to submit to or to obstruct any examination, evaluation, treatment, or practice requested by the department or required under this section.
+
+3. If the victim necessarily incurs traveling expenses in attending the examination pursuant to the request of the department, such reasonable round-trip traveling expenses shall be repaid to him or her upon proper voucher and audit.
+
+4. If the medical examination required by this section causes the victim to be absent from his or her work without pay, the victim shall be paid compensation in an amount equal to his or her usual wages for the time lost from work while attending the medical examination when the victim is insured by the department.
+
+## Section 7
+No costs incurred by a hospital or other emergency medical facility for the examination of the victim of a sexual assault, whether such assault occurred in or outside the state of Washington, when such examination is performed for the purposes of gathering evidence for possible prosecution, shall be billed or charged directly or indirectly to the victim of such assault. Such costs shall be paid by the state pursuant to this chapter.
+
+## Section 8
+1. No costs incurred by a hospital or other emergency medical facility for the examination of the victim of domestic violence assault involving nonfatal strangulation, whether such assault occurred in or outside the state of Washington, when such examination is performed for the purposes of gathering evidence for possible prosecution, shall be billed or charged directly or indirectly to the victim of such assault. Such costs shall be paid by the state pursuant to this chapter.
+
+2. The department must notify the office of financial management and the fiscal committees of the legislature if it projects that the cost of services provided under this section exceeds the amount of funding provided by the legislature solely for the purposes of this section.
+
+## Section 9
+1. As used in this section, "other state" and "another state" includes the several states, territories, and possessions of the United States, and the District of Columbia.
+
+2. [Empty]
+
+    a. The director shall enter into an agreement with any other state for reimbursement to the crime victims' compensation fund if a nonresident of the state of Washington who is a victim of a sexual assault that occurred in another state receives an examination in this state pursuant to RCW 7.68.170.
+
+    b. The department shall promptly make a report to the other state showing any costs incurred by a hospital or other emergency medical facility paid by this state pursuant to (a) of this subsection.
+
+3. The director is hereby authorized to receive reimbursements to the crime victims' compensation fund from another state pursuant to this section.
+
+## Section 10
+In recognition of the severe and detrimental impact of crime on victims, survivors of victims, and witnesses of crime and the civic and moral duty of victims, survivors of victims, and witnesses of crimes to fully and voluntarily cooperate with law enforcement and prosecutorial agencies, and in further recognition of the continuing importance of such citizen cooperation to state and local law enforcement efforts and the general effectiveness and well-being of the criminal justice system of this state, the legislature declares its intent, in this chapter, to grant to the victims of crime and the survivors of such victims a significant role, including enhanced accessibility, in the criminal justice system. The legislature further intends to ensure that all victims and witnesses of crime are treated with dignity, respect, courtesy, and sensitivity; ensure that all victims and witnesses are afforded access to justice to participate in criminal justice proceedings, including the opportunity to participate and attend court hearings in person or remotely, including by video or other electronic means; and that the rights extended in this chapter to victims, survivors of victims, and witnesses of crime are honored , protected, and upheld by law enforcement agencies, prosecutors, and judges in a manner no less vigorous than the protections afforded criminal defendants.
+
+## Section 11
+1. There shall be a reasonable effort made to ensure that victims, survivors of victims, and witnesses of crimes have the following rights, which apply to any adult or juvenile criminal proceeding and any civil commitment proceeding under chapter 10.77 or 71.09 RCW:
+
+    a. With respect to victims of violent or sex crimes, to receive, at the time of reporting the crime to law enforcement officials, a written statement of the rights of crime victims as provided in this chapter. The written statement shall include the name, address, and telephone number of a county or local crime victim/witness program, if such a crime victim/witness program exists in the county;
+
+    b. To be informed, by local law enforcement agencies or the prosecuting attorney, that charges have been filed, and of the final disposition of the case, in which the victim, survivor, or witness is involved;
+
+    c. To be notified by the party who issued the subpoena that a court proceeding to which they have been subpoenaed will not occur as scheduled, in order to save the person an unnecessary trip to court;
+
+    d. To receive protection from harm and threats of harm arising out of cooperation with law enforcement and prosecution efforts, and to be provided with information as to the level of protection available;
+
+    e. To be informed of the procedure to be followed to apply for and receive any witness fees to which they are entitled;
+
+    f. To be provided, whenever practical, a secure waiting area during court proceedings that does not require them to be in close proximity to defendants and families or friends of defendants;
+
+    g. To have any stolen or other personal property expeditiously returned by law enforcement agencies or the superior court when no longer needed as evidence. When feasible, all such property, except weapons, currency, contraband, property subject to evidentiary analysis, and property of which ownership is disputed, shall be photographed and returned to the owner within ten days of being taken;
+
+    h. To be provided with appropriate employer intercession services to ensure that employers of victims, survivors of victims, and witnesses of crime will cooperate with the criminal justice process or the civil commitment process under chapter 10.77 or 71.09 RCW in order to minimize an employee's loss of pay and other benefits resulting from court appearance;
+
+        i. To have access to immediate medical assistance and not to be detained for an unreasonable length of time by a law enforcement agency before having such assistance administered. However, an employee of the law enforcement agency may, if necessary, accompany the person to a medical facility to question the person about the criminal incident if the questioning does not hinder the administration of medical assistance. Victims of domestic violence, sexual assault, or stalking, as defined in RCW 49.76.020, shall be notified of their right to reasonable leave from employment under chapter 49.76 RCW;
+
+    j. With respect to victims of violent and sex crimes, to have a crime victim advocate from a crime victim/witness program, or any other support person of the victim's choosing, present at any prosecutorial or defense interviews with the victim, and at any judicial proceedings related to criminal acts committed against the victim. This subsection applies if practical and if the presence of the crime victim advocate or support person does not cause any unnecessary delay in the investigation or prosecution of the case. The role of the crime victim advocate is to provide emotional support to the crime victim;
+
+    k. With respect to victims and survivors of victims, may attend court proceedings or required interviews in person or remotely, including by video or other electronic means, to ensure access to justice to participate in criminal justice proceedings. Remote access is not to circumvent a victim's or survivor of a victim's right to be physically present in court during trial, or if subpoenaed to testify, to be scheduled as early as practical in the proceedings in order to be physically present during trial after testifying and not to be excluded solely because they have testified;
+
+    l. With respect to victims and survivors of victims in any felony case, any case involving domestic violence, or any final determination under chapter 10.77 or 71.09 RCW, to be informed by the prosecuting attorney of the date, time, and place of the trial and of the sentencing hearing or disposition hearing upon request by a victim or survivor;
+
+    m. To submit a victim impact statement or report to the court, with the assistance of the prosecuting attorney if requested, which shall be included in all presentence reports and permanently included in the files and records accompanying the offender committed to the custody of a state agency or institution;
+
+    n. With respect to victims and survivors of victims in any felony case or any case involving domestic violence, to present a statement, personally or by representation, at the sentencing hearing; and
+
+    o. With respect to victims and survivors of victims, to entry of an order of restitution by the court in all felony cases, even when the offender is sentenced to confinement, unless extraordinary circumstances exist which make restitution inappropriate in the court's judgment.
+
+2. If a victim, survivor of a victim, or witness of a crime is denied a right under this section, the person may seek an order directing compliance by the relevant party or parties by filing a petition in the superior court in the county in which the crime occurred and providing notice of the petition to the relevant party or parties. Compliance with the right is the sole available remedy. The court shall expedite consideration of a petition filed under this subsection. The administrative office of the courts shall create a universal petition directing compliance with this section.
+
+## Section 12
+(1) Prosecutions for criminal offenses shall not be commenced after the periods prescribed in this section.
+
+## Section 13
+1. In order to convict a person of any crime defined in this chapter it shall not be necessary that the testimony of the alleged victim be corroborated.
+
+2. Evidence of the victim's past sexual behavior including but not limited to the victim's marital history; divorce history; general reputation for promiscuity, nonchastity, or sexual mores contrary to community standards; or, unless it is related to the alleged offense, social media account, including any text, image, video, or picture, which depict sexual content, sexual history, nudity or partial nudity, intimate sexual activity, communications about sexual activity, communications about sex, sexual fantasies, and other information that appeals to a prurient interest is inadmissible on the issue of credibility and is inadmissible to prove the victim's consent except as provided in subsection (3) of this section, but when the perpetrator and the victim have engaged in sexual intercourse with each other in the past, and when the past behavior is material to the issue of consent, evidence concerning the past behavior between the perpetrator and the victim may be admissible on the issue of consent to the offense.
+
+3. In any prosecution for the crime of rape, trafficking pursuant to RCW 9A.40.100, or any of the offenses in chapter 9.68A RCW, or for an attempt to commit, or an assault with an intent to commit any such crime evidence of the victim's past sexual behavior including but not limited to the victim's marital behavior; divorce history; general reputation for promiscuity, nonchastity, or sexual mores contrary to community standards; or, unless it is related to the alleged offense, social media account, including any text, image, video, or picture, which depict sexual content, sexual history, nudity or partial nudity, intimate sexual activity, communications about sexual activity, communications about sex, sexual fantasies, and other information that appeals to a prurient interest is not admissible if offered to attack the credibility of the victim and is admissible on the issue of consent, except where prohibited in the underlying criminal offense, only pursuant to the following procedure:
+
+    a. A written pretrial motion shall be made in advance of the trial date by the defendant to the court and prosecutor stating that the defense has an offer of proof of the relevancy of evidence of the past sexual behavior of the victim proposed to be presented and its relevancy on the issue of the consent of the victim.
+
+    b. The written motion shall be accompanied by an affidavit or affidavits in which the offer of proof shall be stated.
+
+    c. If the court finds that the offer of proof is sufficient, the court shall order a hearing out of the presence of the jury before the jury is empaneled, if any, and the hearing shall be closed except to the necessary witnesses, the defendant, counsel, and those who have a direct interest in the case or in the work of the court.
+
+    d. At the conclusion of the hearing, if the court finds that the evidence proposed to be offered by the defendant regarding the past sexual behavior of the victim is relevant to the issue of the victim's consent; is not inadmissible because its probative value is substantially outweighed by the probability that its admission will create a substantial danger of undue prejudice; and that its exclusion would result in denial of substantial justice to the defendant; the court shall make an order stating what evidence may be introduced by the defendant, which order may include the nature of the questions to be permitted. The defendant may then offer evidence pursuant to the order of the court.
+
+    e. The victim, the victim's attorney, a lawful representative of the victim, or the prosecutor upon request of the victim, may assert and seek enforcement of the procedures under this section.
+
+4. Nothing in this section shall be construed to prohibit cross-examination of the victim on the issue of past sexual behavior when the prosecution presents evidence in its case in chief tending to prove the nature of the victim's past sexual behavior, but the court may require a hearing pursuant to subsection (3) of this section concerning such evidence.
+
+## Section 14
+1. A person is guilty of rape in the first degree when such person engages in sexual intercourse with another person :
+
+    a. By forcible compulsion where the perpetrator or an accessory:
+
+        i. Uses or threatens to use a deadly weapon or what appears to be a deadly weapon; or
+
+        ii. Kidnaps the victim; or
+
+        iii. Inflicts serious physical injury, including but not limited to physical injury which renders the victim unconscious; or
+
+        iv. Feloniously enters into the building or vehicle where the victim is situated; or
+
+    b. When the victim is incapable of consent by reason of being physically helpless or mentally incapacitated as a result of the perpetrator or an accessory:
+
+        i. Willfully placing any substance in any food, drink, medicine, other edible substance, or vapor product intended or prepared for the use of a human being; or
+
+        ii. Knowingly furnishing any food, drink, medicine, other edible substance, or vapor product containing a substance to the victim, with intent to make physically helpless or mentally incapacitate another person.
+
+2. Rape in the first degree is a class A felony.
+
+3. For purposes of this section, "vapor product" has the same meaning as provided in RCW 70.345.010.
+
+## Section 15
+1. In a criminal proceeding, a depiction of a victim or a victim's genitals that was created during a sexual assault medical forensic examination, regardless of its format:
+
+    a. Shall not be shown in open judicial proceedings; and
+
+    b. Must be filed as a confidential document within the court file.
+
+2. An expert witness in a criminal proceeding may inspect, view, examine, and provide testimony on a depiction of a victim or a victim's genitals that was created during a sexual assault medical forensic examination.
+
+## Section 16
+1. Whenever a depiction of a victim or a victim's genitals that was created during a sexual assault medical forensic examination, regardless of its format, is marked as an exhibit in a criminal proceeding, the prosecutor shall seek an order sealing the exhibit at the close of the trial. Any exhibits sealed under this section shall be sealed with evidence tape in a manner that prevents access to, or viewing of, the depiction of a victim or a victim's genitals that was created during a sexual assault medical forensic examination and shall be labeled so as to identify its contents. Anyone seeking to view such an exhibit must obtain permission from the superior court after providing at least 10 days' notice to the prosecuting attorney. Appellate attorneys for the defendant and the state shall be given access to the exhibit, which must remain in the care and custody of either a law enforcement agency or the court. Any other person moving to view such an exhibit must demonstrate to the court that the person's reason for viewing the exhibit is of sufficient importance to justify another violation of the victim's privacy.
+
+2. Whenever the clerk of the court receives an exhibit of a depiction of a victim or a victim's genitals that was created during a sexual assault medical forensic examination, the clerk shall store the exhibit in a secure location, such as a safe. The clerk may arrange for the transfer of such exhibits to a law enforcement agency evidence room for safekeeping provided the agency agrees not to destroy or dispose of the exhibits without an order of the court.
+
+3. If the criminal proceeding ends in a conviction, the clerk of the court shall destroy any exhibit containing a depiction of a victim or a victim's genitals that was created during a sexual assault medical forensic examination five years after the judgment is final, as determined by the provisions of RCW 10.73.090(3). Before any destruction, the clerk shall contact the prosecuting attorney and verify that there is no collateral attack on the judgment pending in any court. If the criminal proceeding ends in a mistrial, the clerk shall either maintain the exhibit or return it to the law enforcement agency that investigated the criminal charges for safekeeping until the matter is set for retrial. If the criminal proceeding ends in an acquittal, the clerk shall return the exhibit to the law enforcement agency that investigated the criminal charges for either safekeeping or destruction.
+
+## Section 17
+1. The prosecuting attorney of each county in the state of Washington must coordinate the establishment of a multidisciplinary team to address adult sexual assault or coordinate with other local jurisdictions to ensure that resources are available to adult victims of sexual assault.
+
+2. The multidisciplinary team established in subsection (1) of this section must meet at least annually to develop protocols and responses to adult sexual assault.
+
+3. The prosecuting attorney of each county in the state of Washington shall invite the following members to participate in the multidisciplinary team established in subsection (1) of this section:
+
+    a. The sheriff of the county or the sheriff's designee;
+
+    b. One member representing survivors of sexual assault;
+
+    c. One member who is a sexual assault nurse examiner;
+
+    d. One member who is a community-based advocate;
+
+    e. One member from a local hospital or other emergency medical facilities; and
+
+    f. In the discretion of the prosecuting attorney, any other person who would advance the purpose of the multidisciplinary team.
+
+## Section 18
+1. Subject to the availability of amounts appropriated for this specific purpose, the role of statewide forensic nurse coordinator is hereby created at the department of health.
+
+2. The statewide forensic nurse coordinator shall:
+
+    a. Provide technical assistance to adult, adolescent, and pediatric sexual assault nurse examiner programs and forensic nurse examiner programs across the state;
+
+    b. Identify and alleviate barriers faced by hospitals relating to creating, maintaining, or operating adult adolescent, or pediatric sexual assault nurse examiner programs or forensic nurse examiner programs;
+
+    c. Conduct a statewide needs assessment of adult, adolescent, and pediatric sexual assault nurse examiner programs and forensic nurse examiner programs;
+
+    d. Provide and maintain centralized resources for adult, adolescent, and pediatric sexual assault nurse examiners and forensic nurse examiners;
+
+    e. Oversee the supply, distribution, and content of Washington standardized sexual assault kits;
+
+    f. Develop and update standards of care for forensic exams and documentation;
+
+    g. Assess and maintain standards for forensic nurse training curriculum for ongoing and didactic training, including preceptorship, by:
+
+        i. Providing technical assistance to promote consistent trainings across the state with variances as needed;
+
+        ii. Providing information on trauma-informed and cultural competency standards; and
+
+        iii. Facilitating surveys and other mechanisms to provide forensic exam patients the ability to give feedback on the patients' experiences that can be used to enhance forensic nurse training standards;
+
+    h. Coordinate statewide forensic nurse trainings;
+
+        i. Develop standardized forensic nurse training videos for hospitals and perform on-site trainings at hospitals;
+
+    j. Develop plans to ensure statewide coverage and availability of adult, adolescent, and pediatric sexual assault nurse examiners and forensic nurse examiners;
+
+    k. Maintain and collect data on the availability of adult, adolescent, and pediatric sexual assault nurse examiners and forensic nurse examiners;
+
+    l. Coordinate with victim advocacy services;
+
+    m. Provide organizational and capacity building support to adult, adolescent, and pediatric sexual assault nurse examiner programs and forensic nurse examiner programs; and
+
+    n. Develop and maintain a statewide toll-free information and referral hotline for victims of sexual assault.
+
+## Section 19
+1. No person may disclose or be compelled to disclose the identity of any person who has investigated, considered, or requested a test or treatment for a sexually transmitted disease, except as authorized by this section, RCW 70.02.210, or chapter 70.24 RCW.
+
+2. No person may disclose or be compelled to disclose information and records related to sexually transmitted diseases, except as authorized by this section, RCW 70.02.210, 70.02.205, or chapter 70.24 RCW. A person may disclose information related to sexually transmitted diseases about a patient without the patient's authorization, to the extent a recipient needs to know the information, if the disclosure is to:
+
+    a. The subject of the test or the subject's legal representative for health care decisions in accordance with RCW 7.70.065, with the exception of such a representative of a minor 13 years of age or over and otherwise capable of making health care decisions;
+
+    b. The state health officer as defined in RCW 70.24.017, a local public health officer, or the centers for disease control of the United States public health service in accordance with reporting requirements for a diagnosed case of a sexually transmitted disease;
+
+    c. A health facility or health care provider that procures, processes, distributes, or uses: (i) A human body part, tissue, or blood from a deceased person with respect to medical information regarding that person; (ii) semen, including that was provided prior to March 23, 1988, for the purpose of artificial insemination; or (iii) blood specimens;
+
+    d. Any state or local public health officer conducting an investigation pursuant to RCW 70.24.024, so long as the record was obtained by means of court-ordered HIV testing pursuant to RCW 70.24.340 or 70.24.024;
+
+    e. A person allowed access to the record by a court order granted after application showing good cause therefor. In assessing good cause, the court shall weigh the public interest and the need for disclosure against the injury to the patient, to the physician-patient relationship, and to the treatment services. Upon the granting of the order, the court, in determining the extent to which any disclosure of all or any part of the record of any such test is necessary, shall impose appropriate safeguards against unauthorized disclosure. An order authorizing disclosure must: (i) Limit disclosure to those parts of the patient's record deemed essential to fulfill the objective for which the order was granted; (ii) limit disclosure to those persons whose need for information is the basis for the order; and (iii) include any other appropriate measures to keep disclosure to a minimum for the protection of the patient, the physician-patient relationship, and the treatment services;
+
+    f. Persons who, because of their behavioral interaction with the infected individual, have been placed at risk for acquisition of a sexually transmitted disease, as provided in RCW 70.24.022, if the health officer or authorized representative believes that the exposed person was unaware that a risk of disease exposure existed and that the disclosure of the identity of the infected person is necessary;
+
+    g. A law enforcement officer, firefighter, health care provider, health care facility staff person, department of correction's staff person, jail staff person, or other persons as defined by the board of health in rule pursuant to RCW 70.24.340, who has requested a test of a person whose bodily fluids he or she has been substantially exposed to, pursuant to RCW 70.24.340, if a state or local public health officer performs the test;
+
+    h. Claims management personnel employed by or associated with an insurer, health care service contractor, health maintenance organization, self-funded health plan, state administered health care claims payer, or any other payer of health care claims where such disclosure is to be used solely for the prompt and accurate evaluation and payment of medical or related claims. Information released under this subsection must be confidential and may not be released or available to persons who are not involved in handling or determining medical claims payment; and
+
+        i. A department of children, youth, and families worker, a child-placing agency worker, or a guardian ad litem who is responsible for making or reviewing placement or case-planning decisions or recommendations to the court regarding a child, who is less than fourteen years of age, has a sexually transmitted disease, and is in the custody of the department of children, youth, and families or a licensed child-placing agency. This information may also be received by a person responsible for providing residential care for such a child when the department of social and health services, the department of children, youth, and families, or a licensed child-placing agency determines that it is necessary for the provision of child care services.
+
+3. No person to whom the results of a test for a sexually transmitted disease have been disclosed pursuant to subsection (2) of this section may disclose the test results to another person except as authorized by that subsection.
+
+4. The release of sexually transmitted disease information regarding an offender or detained person, except as provided in subsection (2)(d) of this section, is governed as follows:
+
+    a. The sexually transmitted disease status of a department of corrections offender who has had a mandatory test conducted pursuant to RCW 70.24.340, 70.24.360, or 70.24.370 must be made available by department of corrections health care providers and local public health officers to the department of corrections health care administrator or infection control coordinator of the facility in which the offender is housed. The information made available to the health care administrator or the infection control coordinator under this subsection (4)(a) may be used only for disease prevention or control and for protection of the safety and security of the staff, offenders, and the public. The information may be submitted to transporting officers and receiving facilities, including facilities that are not under the department of corrections' jurisdiction according to the provisions of (d) and (e) of this subsection.
+
+    b. The sexually transmitted disease status of a person detained in a jail who has had a mandatory test conducted pursuant to RCW 70.24.340, 70.24.360, or 70.24.370 must be made available by the local public health officer to a jail health care administrator or infection control coordinator. The information made available to a health care administrator under this subsection (4)(b) may be used only for disease prevention or control and for protection of the safety and security of the staff, offenders, detainees, and the public. The information may be submitted to transporting officers and receiving facilities according to the provisions of (d) and (e) of this subsection.
+
+    c. Information regarding the sexually transmitted disease status of an offender or detained person is confidential and may be disclosed by a correctional health care administrator or infection control coordinator or local jail health care administrator or infection control coordinator only as necessary for disease prevention or control and for protection of the safety and security of the staff, offenders, and the public. Unauthorized disclosure of this information to any person may result in disciplinary action, in addition to the penalties prescribed in RCW 70.24.080 or any other penalties as may be prescribed by law.
+
+    d. Notwithstanding the limitations on disclosure contained in (a), (b), and (c) of this subsection, whenever any member of a jail staff or department of corrections staff has been substantially exposed to the bodily fluids of an offender or detained person, then the results of any tests conducted pursuant to RCW 70.24.340, 70.24.360, or 70.24.370, must be immediately disclosed to the staff person in accordance with the Washington Administrative Code rules governing employees' occupational exposure to blood-borne pathogens. Disclosure must be accompanied by appropriate counseling for the staff member, including information regarding follow-up testing and treatment. Disclosure must also include notice that subsequent disclosure of the information in violation of this chapter or use of the information to harass or discriminate against the offender or detainee may result in disciplinary action, in addition to the penalties prescribed in RCW 70.24.080, and imposition of other penalties prescribed by law.
+
+    e. The staff member must also be informed whether the offender or detained person had any other communicable disease, as defined in RCW 72.09.251(3), when the staff person was substantially exposed to the offender's or detainee's bodily fluids.
+
+    f. The test results of voluntary and anonymous HIV testing or HIV-related condition, as defined in RCW 70.24.017, may not be disclosed to a staff person except as provided in this section and RCW 70.02.050(1)(d) and 70.24.340. A health care administrator or infection control coordinator may provide the staff member with information about how to obtain the offender's or detainee's test results under this section and RCW 70.02.050(1)(d) and 70.24.340.
+
+5. The requirements of this section do not apply to the customary methods utilized for the exchange of medical information among health care providers in order to provide health care services to the patient, nor do they apply within health care facilities where there is a need for access to confidential medical information to fulfill professional duties.
+
+6. Upon request of the victim, disclosure of test results under this section to victims of sexual offenses under chapter 9A.44 RCW must be made if the result is negative or positive. The county prosecuting attorney shall notify the victim of the right to such disclosure. The disclosure must be accompanied by appropriate counseling, including information regarding follow-up testing.
+
+7. A person, including a health care facility or health care provider, shall disclose the identity of any person who has investigated, considered, or requested a test or treatment for a sexually transmitted disease and information and records related to sexually transmitted diseases to federal, state, or local public health authorities, to the extent the health care provider is required by law to report health care information; when needed to determine compliance with state or federal certification or registration rules or laws; or when needed to protect the public health. Any health care information obtained under this subsection is exempt from public inspection and copying pursuant to chapter 42.56 RCW.
+
+## Section 20
+A minor 13 years of age or older who may have come in contact with any sexually transmitted disease or suspected sexually transmitted disease may give consent to the furnishing of hospital, medical, and surgical care related to the diagnosis or treatment of such disease; and treatment to avoid HIV infection. Such consent shall not be subject to disaffirmance because of minority. The consent of the parent, parents, or legal guardian of such minor shall not be necessary to authorize hospital, medical, and surgical care related to such disease, and such parent, parents, or legal guardian shall not be liable for payment for any care rendered pursuant to this section.
+
+## Section 21
+Any minor age 13 years or older may consent to a sexual assault forensic examination conducted for the purposes of gathering evidence for possible prosecution, and the minor may provide such consent without the authorization of a parent or other person identified under RCW 7.70.065.
+
+## Section 22
+This act takes effect July 1, 2024.

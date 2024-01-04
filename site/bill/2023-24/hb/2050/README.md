@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 12/29/2023 [The Center Square](/org/the_center_square/) - [WA lawmaker wants drivers to see sticker shock from Climate Commitment Act tax | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6f8ef5ba-a688-11ee-b4fb-8fc689c7c344.html#:~:text=House%20Bill%202050)
+
 ## Meetings
