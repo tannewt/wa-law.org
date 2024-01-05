@@ -31,7 +31,7 @@ Testifying:
 * 💵Paul Griffin - Washington Rural Electric Cooperative Association
 * 💵John Rothlin - Avista
 * 💵Dave Warren - Klickitat PUD and Okanogan PUD
-* Jasmine Vasavada - Dept of Commerce
+* 💵Jasmine Vasavada - Dept of Commerce
 * Jason Lewis - Utilities and Transportation Commission
 * 💵Nicolas Garcia - WPUDA
 
@@ -67,4 +67,4 @@ Testifying:
 * Brian Considine
 * 💵Dave Warren - Klickitat PUD
 * Jim Smith - Klickitat PUD
-* Jasmine Vasavada - Dept of commerce
+* 💵Jasmine Vasavada - Dept of commerce

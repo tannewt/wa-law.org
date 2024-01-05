@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/04/2024 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Pass Traffic Safety For All (HB 1513/SB 5572) | ACLU of Washington](http://www.aclu-wa.org/pages/pass-traffic-safety-all-hb-1513sb-5572#:~:text=HB%201513)
+* 01/04/2024 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Legislative Agenda 2 | ACLU of Washington](http://www.aclu-wa.org/pages/legislative-agenda-2#:~:text=HB%201513)
 * 03/10/2023 [The Seattle Times](/org/the_seattle_times/) - [WA Legislature forges ahead on assault weapons ban, new drug law | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-legislature-forges-ahead-on-assault-weapons-ban-new-drug-law/#:~:text=House%20Bill%201513)
 * 02/22/2023 [The Seattle Times](/org/the_seattle_times/) - [WA could narrow reasons for traffic stops in new police reform effort | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-could-narrow-reasons-for-traffic-stops-in-new-police-reform-effort/#:~:text=House%20Bill%201513)
 * 02/20/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead | February 20 - 24, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-20-24-2023/#:~:text=HB%201513)
@@ -54,7 +56,7 @@ Testifying:
 Testifying:
 * Jeff DeVere - Washington Trucking Associations
 * Neil Weaver - Washington State Patrol
-* Jasmine Vasavada - Dept of Commerce
+* 💵Jasmine Vasavada - Dept of Commerce
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 ### Mon 01/30 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1513 Traffic safety

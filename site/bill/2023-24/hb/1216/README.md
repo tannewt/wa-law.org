@@ -49,7 +49,7 @@ Testifying:
 * 💵Justin Allegro - [The Nature Conservancy](/org/the_nature_conservancy/)
 * Adam Eitmann - WA Dept of Ecology
 * Becky Kelley - Office of Governor Jay Inslee
-* Jasmine Vasavada - WA Dept of Commerce
+* 💵Jasmine Vasavada - WA Dept of Commerce
 * 💵Kate Brouns - [Renewable Northwest](/org/renewable_northwest/)
 
 #### 59 👎 - Con
@@ -92,7 +92,7 @@ Testifying:
 * 💵Mark Riker - Washington State Building & Construction Trades Council
 * Becky Kelley - Office of Governor Jay Inslee
 * Diane Butorac - Department of Ecology
-* Jasmine Vasavada - Department of Commerce
+* 💵Jasmine Vasavada - Department of Commerce
 
 #### 11 👎 - Con
 Testifying:

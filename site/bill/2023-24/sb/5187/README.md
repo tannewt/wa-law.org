@@ -101,7 +101,7 @@ Testifying:
 * Nikki Malcom - Pacific Northwest Aerospace Alliance
 * 💵Rowland Thompson - Allied Daily Newspapers and Washington Newspaper Publishers Association
 * Stacia Rasmussen - Greater Spokane Inc. and Evergreen Bioscience Innovation Cluster
-* Jasmine Vasavada - Dept of Commerce
+* 💵Jasmine Vasavada - Dept of Commerce
 
 ### Fri 03/24 02:00 PM - Ways & Means (WM): PSSB 5187: Early learning. (Remote Testimony Available).
 #### 1 👍 - Pro

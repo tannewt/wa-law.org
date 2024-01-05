@@ -43,4 +43,4 @@ Testifying:
 
 #### 1 ❓ - Other
 Testifying:
-* Jasmine Vasavada - Washington Department of Commerce
+* 💵Jasmine Vasavada - Washington Department of Commerce

@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/04/2024 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Pass Traffic Safety For All (HB 1513/SB 5572) | ACLU of Washington](http://www.aclu-wa.org/pages/pass-traffic-safety-all-hb-1513sb-5572#:~:text=SB%205572)
+* 01/04/2024 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Legislative Agenda 2 | ACLU of Washington](http://www.aclu-wa.org/pages/legislative-agenda-2#:~:text=SB%205572)
+
 ## Meetings
 ### Mon 02/13 04:00 PM - Transportation (TRAN): SB 5572 Traffic safety
 #### 480 👍 - Pro

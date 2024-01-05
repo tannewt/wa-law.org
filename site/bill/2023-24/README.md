@@ -71,7 +71,7 @@
 * [HB 1832](hb/1832) - Vehicle per mile charge 6📰 62👍 2527👎 34❓ - H Transportation
 * [HB 1473](hb/1473) - Wealth/property tax 13📰 2279👍 288👎 1❓ - H Finance
 * [HB 1144](hb/1144) - Firearms/purchase & transfer 3📰 895👍 1660👎 0❓ - H Civil R & Judi
-* [HB 1513](hb/1513) - Traffic safety 11📰 2025👍 430👎 11❓ - H Rules R
+* [HB 1513](hb/1513) - Traffic safety 13📰 2025👍 430👎 11❓ - H Rules R
 * [HB 1554](hb/1554) - Lead impacts 359👍 2023👎 26❓ - H Rules 3C
 * [SB 5389](sb/5389) - Optometry 1📰 615👍 1710👎 5❓ - C 400 L 23
 * [SB 5435](sb/5435) - Residential rent increases 11📰 1207👍 1090👎 11❓ - S Housing
@@ -117,9 +117,9 @@
 * [SB 5496](sb/5496) - Covenant homeownership prg. 2📰 916👍 364👎 1❓ - S Ways & Means
 * [SB 5203](sb/5203) - Climate change/planning 7📰 1241👍 22👎 2❓ - S Ways & Means
 * [SB 5237](sb/5237) - Education law noncompliance 1📰 16👍 1227👎 6❓ - S Ways & Means
-* [HB 1445](hb/1445) - Law enf. misconduct 4📰 1047👍 193👎 1❓ - H Rules C
+* [HB 1445](hb/1445) - Law enf. misconduct 6📰 1047👍 193👎 1❓ - H Rules C
 * [HB 1459](hb/1459) - PERS & TRS plan 1 adjustment 1📰 1219👍 3👎 11❓ - H Approps
-* [SB 5241](sb/5241) - Health care marketplace 14📰 1138👍 89👎 1❓ - S Rules X
+* [SB 5241](sb/5241) - Health care marketplace 16📰 1138👍 89👎 1❓ - S Rules X
 * [HB 1397](hb/1397) - Dependency 2📰 928👍 295👎 3❓ - H Human Svc, You
 * [HB 1176](hb/1176) - Climate-ready communities 9📰 835👍 382👎 2❓ - C 231 L 23
 * [SB 5339](sb/5339) - Free school meals 8📰 768👍 446👎 3❓ - S Ways & Means
@@ -231,7 +231,7 @@
 * [HB 1470](hb/1470) - Private detention facilities 8📰 478👍 25👎 5❓ - C 419 L 23
 * [HB 1533](hb/1533) - PRA/employee information 7📰 460👍 46👎 2❓ - C 458 L 23
 * [SB 5447](sb/5447) - Alternative jet fuel 5📰 204👍 297👎 5❓ - C 232 L 23
-* [SB 5572](sb/5572) - Traffic safety 480👍 14👎 4❓ - S Transportation
+* [SB 5572](sb/5572) - Traffic safety 2📰 480👍 14👎 4❓ - S Transportation
 * [HB 1674](hb/1674) - Roadway users/trucks & SUVs 1📰 203👍 290👎 4❓ - H Exec Action
 * [HB 1035](hb/1035) - Health care restrictions 203👍 290👎 0❓ - H HC/Wellness
 * [HB 1177](hb/1177) - Indigenous women 17📰 488👍 0👎 3❓ - C 104 L 23
@@ -262,7 +262,7 @@
 * [HB 1436](hb/1436) - Special education funding 19📰 390👍 18👎 27❓ - C 417 L 23
 * [HB 1140](hb/1140) - Operating budget 8📰 190👍 13👎 231❓ - H Rules R
 * [HB 1686](hb/1686) - Salmon recovery 1📰 143👍 282👎 0❓ - H Rules R
-* [SB 5451](sb/5451) - Long sentences review 417👍 5👎 0❓ - S Law & Justice
+* [SB 5451](sb/5451) - Long sentences review 2📰 417👍 5👎 0❓ - S Law & Justice
 * [HB 1525](hb/1525) - Apprenticeships/child care 2📰 420👍 0👎 0❓ - C 294 L 23
 * [SB 5020](sb/5020) - Education at 6 years of age 5📰 10👍 409👎 1❓ - S Ways & Means
 * [SB 5383](sb/5383) - Pedestrians/roadways 5📰 398👍 9👎 5❓ - S Rules X
@@ -1312,7 +1312,81 @@
 * [SB 5677](sb/5677) - Walla Walla sweet onion day 1👍 0👎 0❓ - S Rules X
 
 ## Pending bills
-* [HB 2113](hb/2113) - GMA housing element - H Prefiled
+* [HB 2133](hb/2133) - Public school bus trespass - H Prefiled
+* [HB 2136](hb/2136) - Prevailing wage sanctions - H Prefiled
+* [SB 5995](sb/5995) - Creating a professional license for spoken language interpreters and translators. - S Prefiled
+* [SB 5996](sb/5996) - Concerning collecting data on the H-2A worker program and from certain hand harvesters. - S Prefiled
+* [SB 5993](sb/5993) - Voter education - S Prefiled
+* [SB 5994](sb/5994) - Antitrust penalties 1📰 - S Prefiled
+* [SB 5992](sb/5992) - Water supply/energy sites - S Prefiled
+* [SB 5990](sb/5990) - Env. justice/SEPA projects - S Prefiled
+* [SB 5991](sb/5991) - Industrial insurance/duties - S Prefiled
+* [SB 5989](sb/5989) - Confirming property ownership or owner authorization for short-term rentals. - S Prefiled
+* [SB 5987](sb/5987) - Gift certificates - S Prefiled
+* [SB 5988](sb/5988) - Gift certificates/unclaimed - S Prefiled
+* [SB 5985](sb/5985) - Firearms background checks - S Prefiled
+* [SB 5986](sb/5986) - Protecting consumers from out-of-network health care services charges. - S Prefiled
+* [SB 5984](sb/5984) - Addressing nonresident enrollment at institutions of higher education. - S Prefiled
+* [SB 5983](sb/5983) - Allowing medical assistants with telehealth supervision to provide intramuscular injections for syphilis treatment. - S Prefiled
+* [SB 5982](sb/5982) - Vaccine definition - S Prefiled
+* [SB 5980](sb/5980) - Concerning the timeline for issuing a citation for a violation of the Washington industrial safety and health act. - S Prefiled
+* [SB 5981](sb/5981) - Concerning the indeterminate sentence review board. - S Prefiled
+* [SB 5977](sb/5977) - Psilocybin services - S Prefiled
+* [SB 5978](sb/5978) - Authorizing the office of the superintendent of public instruction to act as a guarantor for a county when the county provides a loan to a school district. - S Prefiled
+* [SB 5979](sb/5979) - Concerning accrued leave for construction workers. - S Prefiled
+* [SB 5976](sb/5976) - Dogs at large - S Prefiled
+* [SB 5974](sb/5974) - Concerning the disposition of unenforceable legal financial obligations other than restitution imposed by a court or an agent of the court against a juvenile prior to July 1, 2023. - S Prefiled
+* [SB 5975](sb/5975) - Authorizing use of the housing trust fund and other legislative appropriations to finance social housing. - S Prefiled
+* [SB 5971](sb/5971) - Offender score recalc. 2📰 - S Prefiled
+* [SB 5972](sb/5972) - Neonicotinoid pesticides - S Prefiled
+* [SB 5973](sb/5973) - Heat pumps/CICs - S Prefiled
+* [SB 5969](sb/5969) - Adjusting school districts' authority to contract indebtedness for school construction. - S Prefiled
+* [SB 5970](sb/5970) - Local boards of health - S Prefiled
+* [SB 5968](sb/5968) - Home equity sharing - S Prefiled
+* [SB 5966](sb/5966) - Student restraint, isolation - S Prefiled
+* [SB 5967](sb/5967) - Housing/public lands leases - S Prefiled
+* [SB 5964](sb/5964) - Free school meals - S Prefiled
+* [SB 5965](sb/5965) - Fashion/environmental impact - S Prefiled
+* [SB 5963](sb/5963) - Deadly weapons insurance - S Prefiled
+* [SB 5962](sb/5962) - Fabricated intimate images - S Prefiled
+* [SB 5961](sb/5961) - Residential tenants - S Prefiled
+* [HB 2154](hb/2154) - Persistent offenders - H Prefiled
+* [HB 2153](hb/2153) - Catalytic converter theft - H Prefiled
+* [HB 2152](hb/2152) - Criminal insanity terms - H Prefiled
+* [HB 2150](hb/2150) - Concerning processes regarding the disqualification of candidates who are ineligible for office. - H Prefiled
+* [HB 2151](hb/2151) - Reassigning the accreditation of private cannabis testing laboratories from the department of ecology to the department of agriculture. - H Prefiled
+* [HB 2149](hb/2149) - Protecting consumer personal information. - H Prefiled
+* [HB 2147](hb/2147) - Concerning agriculture pest and disease response. - H Prefiled
+* [HB 2148](hb/2148) - Concerning a comparable wage analysis of public school staff compensation. - H Prefiled
+* [HB 2145](hb/2145) - Concerning medically necessary treatment of a mental health or substance use disorder. - H Prefiled
+* [HB 2146](hb/2146) - Supporting students who are chronically absent and at risk for not graduating high school. - H Prefiled
+* [HB 2144](hb/2144) - Providing for a deposit return program for qualifying beverage containers to be implemented by a distributor responsibility organization. - H Prefiled
+* [HB 2143](hb/2143) - Providing information related to the human rights records of nations that export crude oil to Washington. - H Prefiled
+* [HB 2141](hb/2141) - Promoting affordable housing in unincorporated areas within urban growth areas of large counties. - H Prefiled
+* [HB 2142](hb/2142) - Reading coaches grants - H Prefiled
+* [HB 2140](hb/2140) - Modifying laws related to adverse possession to protect legal owners of property. - H Prefiled
+* [HB 2139](hb/2139) - Concerning the rental of self-service storage facilities. - H Prefiled
+* [HB 2137](hb/2137) - Concerning technical changes to allowable exemptions for tourism promotion area assessments. - H Prefiled
+* [HB 2138](hb/2138) - Outdoor learning/state parks - H Prefiled
+* [HB 2135](hb/2135) - Including federally recognized tribes as part of the Washington emergency management division emergency worker program. - H Prefiled
+* [HB 2134](hb/2134) - Transportation budget, supp. - H Prefiled
+* [HB 2132](hb/2132) - Coroner training costs - H Prefiled
+* [HB 2131](hb/2131) - Thermal energy networks - H Prefiled
+* [HB 2129](hb/2129) - Geothermal energy resources - H Prefiled
+* [HB 2130](hb/2130) - Special education services - H Prefiled
+* [HB 2128](hb/2128) - Certificate of need program - H Prefiled
+* [HB 2127](hb/2127) - Incentives to return to work - H Prefiled
+* [HB 2125](hb/2125) - Concerning the eligibility of state-mandated benefits for contingent faculty at community and technical colleges. - H Prefiled
+* [HB 2126](hb/2126) - Rural area ADUs - H Prefiled
+* [HB 2123](hb/2123) - Running start for the trades - H Prefiled
+* [HB 2124](hb/2124) - Child care prg. eligibility - H Prefiled
+* [HB 2121](hb/2121) - Special education hearings - H Prefiled
+* [HB 2122](hb/2122) - Physician wellness programs - H Prefiled
+* [HB 2120](hb/2120) - Clean energy manufacturers - H Prefiled
+* [HB 2119](hb/2119) - Medical debt garnishment - H Prefiled
+* [HB 2117](hb/2117) - Aerial firefighting/permits - H Prefiled
+* [HB 2118](hb/2118) - Firearms dealers - H Prefiled
+* [HB 2113](hb/2113) - GMA housing element 1📰 - H Prefiled
 * [HB 2099](hb/2099) - State custody/ID cards - H Prefiled
 * [HB 2096](hb/2096) - Ensuring adequate notice to and consideration of local communities when establishing housing options for individuals qualifying for a less restrictive alternative placement. - H Prefiled
 * [HB 2093](hb/2093) - Sexually violent predators - H Prefiled
@@ -1381,7 +1455,7 @@
 * [SB 5920](sb/5920) - Lifting certificate of need requirements for psychiatric hospitals and beds. - S Prefiled
 * [HB 2067](hb/2067) - Congenital cytomegalovirus - H Prefiled
 * [HB 2066](hb/2066) - Health provider contracting - H Prefiled
-* [HB 2065](hb/2065) - Recalculating sentencing ranges for currently incarcerated individuals whose offender score was increased by juvenile convictions. - H Prefiled
+* [HB 2065](hb/2065) - Recalculating sentencing ranges for currently incarcerated individuals whose offender score was increased by juvenile convictions. 2📰 - H Prefiled
 * [HB 2064](hb/2064) - Providing for an exemption from the real estate excise tax for transfers of property to qualifying low-income first-time homebuyers. - H Prefiled
 * [HB 2062](hb/2062) - Concerning exemption of certain personnel of the department of social and health services from civil service. - H Prefiled
 * [HB 2063](hb/2063) - Providing an exemption from the real estate excise tax for transfers of property to qualifying low-income first-time homebuyers. - H Prefiled
@@ -1827,7 +1901,7 @@
 * [HB 1354](hb/1354) - School volunteers/conviction - H Education
 * [HB 1331](hb/1331) - Public use airport dev./tax - H Finance
 * [HB 1328](hb/1328) - Schools & families/funding 4📰 - H Approps
-* [HB 1325](hb/1325) - Long sentences review - H Community Safet
+* [HB 1325](hb/1325) - Long sentences review 2📰 - H Community Safet
 * [SB 5351](sb/5351) - Consumer health data 6📰 - S Law & Justice
 * [SB 5345](sb/5345) - School buildings/energy 1📰 - S Environment, E
 * [SB 5346](sb/5346) - Student art/school const. 1📰 - S EL/K-12
@@ -1836,7 +1910,7 @@
 * [SB 5313](sb/5313) - Murder in the first degree - S Law & Justice
 * [HB 1279](hb/1279) - Firefighters/LEOFF - H Approps
 * [HB 1270](hb/1270) - Commission on boys and men 1📰 - H State Govt & T
-* [HB 1263](hb/1263) - Health care marketplace 7📰 - H Civil R & Judi
+* [HB 1263](hb/1263) - Health care marketplace 9📰 - H Civil R & Judi
 * [HB 1253](hb/1253) - Pharmacy benefit managers - H HC/Wellness
 * [SB 5246](sb/5246) - Supreme court fiscal notes - S Law & Justice
 * [SB 5265](sb/5265) - Firearms/assault weapons 2📰 - S Law & Justice

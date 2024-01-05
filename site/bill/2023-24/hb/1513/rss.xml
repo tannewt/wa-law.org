@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1513/</link>
 		<description>Updates about HB 1513</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 10 Mar 2023 06:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 04 Jan 2024 14:13:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -404,8 +404,8 @@
 			<guid isPermaLink="false">testifier/Ted/Martinell/2023-02-21 06:51:46</guid>
 		</item>
 		<item>
-			<title>❓Jasmine Vasavada - Dept of Commerce</title>
-			<description>Jasmine Vasavada signed up to testify Other. They are signed up to represent Dept of Commerce.</description>
+			<title>❓💵Jasmine Vasavada - Dept of Commerce</title>
+			<description>Jasmine Vasavada signed up to testify Other. They are signed up to represent Dept of Commerce. They are a registered lobbyist.</description>
 			<pubDate>Tue, 21 Feb 2023 08:16:09 GMT</pubDate>
 			<category>testifier</category>
 			<category>Other</category>
@@ -455,6 +455,20 @@
 			<pubDate>Fri, 10 Mar 2023 06:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.seattletimes.com/seattle-news/politics/wa-legislature-forges-ahead-on-assault-weapons-ban-new-drug-law/#:~:text=House%20Bill%201513</guid>
+		</item>
+		<item>
+			<title>Legislative Agenda 2 | ACLU of Washington</title>
+			<description>News article &quot;Legislative Agenda 2 | ACLU of Washington&quot; from American Civil Liberties Union of Washington.</description>
+			<pubDate>Thu, 04 Jan 2024 14:06:05 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://www.aclu-wa.org/pages/legislative-agenda-2#:~:text=HB%201513</guid>
+		</item>
+		<item>
+			<title>Pass Traffic Safety For All (HB 1513/SB 5572) | ACLU of Washington</title>
+			<description>News article &quot;Pass Traffic Safety For All (HB 1513/SB 5572) | ACLU of Washington&quot; from American Civil Liberties Union of Washington.</description>
+			<pubDate>Thu, 04 Jan 2024 14:13:39 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://www.aclu-wa.org/pages/pass-traffic-safety-all-hb-1513sb-5572#:~:text=HB%201513</guid>
 		</item>
 	</channel>
 </rss>

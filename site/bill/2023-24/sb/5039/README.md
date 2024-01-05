@@ -32,5 +32,5 @@ Testifying:
 
 #### 3 ❓ - Other
 Testifying:
-* Jasmine Vasavada - Washington Department of Commerce
+* 💵Jasmine Vasavada - Washington Department of Commerce
 * Brian Considine - Washington State Department of Natural Resources

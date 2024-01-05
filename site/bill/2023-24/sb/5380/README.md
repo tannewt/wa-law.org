@@ -17,7 +17,7 @@
 Testifying:
 * Becky Kelley - Office of Governor Jay Inslee
 * Diane Butorac - WA Department of Ecology
-* Jasmine Vasavada - WA Department of Commerce
+* 💵Jasmine Vasavada - WA Department of Commerce
 * 💵Donny Donovan - IAM 751
 * 💵Clifford Traisman - [Washington Conservation Action](/org/washington_conservation_action/)
 * 💵Kelly Hall - [Climate Solutions](/org/climate_solutions/)
