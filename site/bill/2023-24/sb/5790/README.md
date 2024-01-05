@@ -14,7 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31531&aId=155955&caId=22773&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31531&aId=155955&caId=22773&tId=4)
 
-#### 0 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Barbara Jensen - EvergreenHealth
+* Quinton Hatch - Washington State Committee on Trauma
+* Krestin Bahr - Peninsula School District
+* Tiffany Crabb
+* Rian Alam
+* Maria R Paulsen
 
 #### 0 👎 - Con
 

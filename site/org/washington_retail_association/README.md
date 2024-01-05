@@ -242,3 +242,6 @@
 ## [SB 5740](/bill/2023-24/sb/5740/) - Catalytic converter theft 👍1  ❓1
 * 👍💵 Mark Johnson
 * ❓💵 Mark Johnson
+
+## [SB 5838](/bill/2023-24/sb/5838/) - Establishing an artificial intelligence task force.   ❓1
+* ❓ CRYSTAL LEATHERMAN

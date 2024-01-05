@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5779/</link>
 		<description>Updates about SB 5779</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 15 Dec 2023 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 04 Jan 2024 01:40:50 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,14 @@
 			<pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://gorgenewscenter.com/2023/12/15/wilson-proposal-would-revitalize-sunshine-committee/#:~:text=Senate%20Bill%205779</guid>
+		</item>
+		<item>
+			<title>👍Katherine George - Johnston George LLP</title>
+			<description>Katherine George signed up to testify Pro. They are signed up to represent Johnston George LLP.</description>
+			<pubDate>Thu, 04 Jan 2024 01:40:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Katherine/George/2024-01-04 01:40:50</guid>
 		</item>
 	</channel>
 </rss>

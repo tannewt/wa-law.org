@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2049/</link>
 		<description>Updates about HB 2049</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 03 Jan 2024 11:06:13 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 05 Jan 2024 06:34:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -22,6 +22,46 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Ann/Murphy/2024-01-03 11:06:13</guid>
+		</item>
+		<item>
+			<title>👍Marlene Feist - City of Spokane</title>
+			<description>Marlene Feist signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/city_of_spokane/&quot;&gt;City of Spokane&lt;/a&gt;.</description>
+			<pubDate>Thu, 04 Jan 2024 01:21:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Marlene/Feist/2024-01-04 01:21:38</guid>
+		</item>
+		<item>
+			<title>👎Erin Hall - American Forest &amp; Paper Association</title>
+			<description>Erin Hall signed up to testify Con. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/american_forest_&amp;_paper_association/&quot;&gt;American Forest &amp; Paper Association&lt;/a&gt;.</description>
+			<pubDate>Thu, 04 Jan 2024 02:19:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Erin/Hall/2024-01-04 02:19:10</guid>
+		</item>
+		<item>
+			<title>👍Kate Bailey - The Association of Plastic Recyclers (APR)</title>
+			<description>Kate Bailey signed up to testify Pro. They are signed up to represent The Association of Plastic Recyclers (APR).</description>
+			<pubDate>Thu, 04 Jan 2024 04:49:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kate/Bailey/2024-01-04 04:49:20</guid>
+		</item>
+		<item>
+			<title>👍💵Carl Schroeder - Association of Washington Cities</title>
+			<description>Carl Schroeder signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/association_of_washington_cities/&quot;&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Thu, 04 Jan 2024 05:53:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Carl/Schroeder/2024-01-04 05:53:35</guid>
+		</item>
+		<item>
+			<title>❓💵Andrew Hackman - Serlin Haley LLP</title>
+			<description>Andrew Hackman signed up to testify Other. They are signed up to represent Serlin Haley LLP. They are a registered lobbyist.</description>
+			<pubDate>Fri, 05 Jan 2024 06:34:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Andrew/Hackman/2024-01-05 06:34:26</guid>
 		</item>
 	</channel>
 </rss>

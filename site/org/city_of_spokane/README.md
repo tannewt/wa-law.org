@@ -26,6 +26,9 @@
 
 ## [HB 1575](/bill/2023-24/hb/1575/) - Cultural access programs/tax 👍1  
 
+## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes. 👍1  
+* 👍 Marlene Feist
+
 ## [SB 5058](/bill/2023-24/sb/5058/) - Multiunit res. buildings 👍1  
 * 👍 Council member Betsy Wilkerson
 

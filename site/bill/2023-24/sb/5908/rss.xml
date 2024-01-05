@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5908/</link>
 		<description>Updates about SB 5908</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 03 Jan 2024 05:09:59 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 04 Jan 2024 07:38:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -22,6 +22,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Tara/Urs/2024-01-03 05:09:59</guid>
+		</item>
+		<item>
+			<title>👎Colleen Stark-Bell - DCYF</title>
+			<description>Colleen Stark-Bell signed up to testify Con. They are signed up to represent DCYF.</description>
+			<pubDate>Thu, 04 Jan 2024 07:38:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Colleen/Stark-Bell/2024-01-04 07:38:06</guid>
 		</item>
 	</channel>
 </rss>

@@ -321,3 +321,6 @@
 
 ## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands.   ❓1
 * ❓💵 Paul Jewell
+
+## [SB 5808](/bill/2023-24/sb/5808/) - Granting interest arbitration to certain public safety telecommunicators.   ❓1
+* ❓💵 Mike Hoover

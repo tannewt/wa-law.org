@@ -14,8 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31585&aId=156252&caId=22856&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31585&aId=156252&caId=22856&tId=4)
 
-#### 1 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* 💵Clifford Cawthon - Habitat for Humanity Seattle-King & Kittitas County
 
-#### 0 👎 - Con
+#### 13 👎 - Con
+Testifying:
+* Eric Steven - Eric M. Steven, PS dba Steven Law Office
+* Martina Reid - n/a
+* Thomas McCarthy - WLA member
+* Judith Montgomery - WLA member
 
 #### 0 ❓ - Other

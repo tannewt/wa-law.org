@@ -314,6 +314,12 @@
 
 ## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge   ❓2
 
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
+* ❓💵 Michael White
+
+## [HB 2134](/bill/2023-24/hb/2134/) - Transportation budget, supp.   ❓1
+* ❓💵 Michael White
+
 ## [SB 5006](/bill/2023-24/sb/5006/) - Waiver of firearm rights 👍1  
 
 ## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment 👍1  ❓1
@@ -572,5 +578,11 @@
 ## [SB 5719](/bill/2023-24/sb/5719/) - Student homelessness group 👍1  
 
 ## [SB 5729](/bill/2023-24/sb/5729/) - Insulin cost-sharing cap 👍2  
+
+## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp.   ❓1
+* ❓💵 Michael White
+
+## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental   ❓1
+* ❓💵 Michael White
 
 ## [SJR 8201](/bill/2023-24/sjr/8201/) - Public works account 👍1  

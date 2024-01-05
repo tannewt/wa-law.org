@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5901/</link>
 		<description>Updates about SB 5901</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 02 Jan 2024 15:00:27 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 04 Jan 2024 05:37:56 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,14 @@
 			<pubDate>Tue, 02 Jan 2024 15:00:27 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.theurbanist.org/2024/01/02/get-ready-for-the-year-of-housing-2-0/#:~:text=SB%205901</guid>
+		</item>
+		<item>
+			<title>❓💵Carl Schroeder - Association of Washington Cities</title>
+			<description>Carl Schroeder signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/association_of_washington_cities/&quot;&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Thu, 04 Jan 2024 05:37:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Carl/Schroeder/2024-01-04 05:37:56</guid>
 		</item>
 	</channel>
 </rss>

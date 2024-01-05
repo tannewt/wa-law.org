@@ -169,6 +169,14 @@
 ## [HB 1885](/bill/2023-24/hb/1885/) - Strengthening campaign finance disclosure by prohibiting campaign contributions and expenditures by foreign-influenced corporations. 👍2  
 * 👍💵 Cindy Black
 
+## [HB 1932](/bill/2023-24/hb/1932/) - Shifting general elections for local governments to even-numbered years to increase voter participation. 👍1  
+
+## [HB 1962](/bill/2023-24/hb/1962/) - Improving voter registration list accuracy by improving voter address change processes for county election offices and voters. 👍1  
+
+## [HB 2023](/bill/2023-24/hb/2023/) - Improving meaningful access to elections by increasing language assistance. 👍1  
+
+## [HB 2032](/bill/2023-24/hb/2032/) - Reducing the size of yard signs that are exempt from certain political advertising disclosure requirements. 👍1  
+
 ## [SB 5039](/bill/2023-24/sb/5039/) - Wildfires/electric utilities 👍1  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act 👍1  
@@ -287,3 +295,11 @@
 ## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍1  
 
 ## [SB 5697](/bill/2023-24/sb/5697/) - Mobile home park rates 👍1  
+
+## [SB 5837](/bill/2023-24/sb/5837/) - Codifying the state election database to publish, evaluate, and analyze certain election data. 👍1  
+
+## [SB 5843](/bill/2023-24/sb/5843/) - Election security breaches 👍1  
+
+## [SB 5856](/bill/2023-24/sb/5856/) - Concerning voter registration challenges. 👍1  
+
+## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍1  

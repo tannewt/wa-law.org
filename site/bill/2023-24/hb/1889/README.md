@@ -14,8 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31591&aId=156200&caId=22817&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31591&aId=156200&caId=22817&tId=4)
 
-#### 3 👍 - Pro
+#### 112 👍 - Pro
+Testifying:
+* Flor Reyes
+* Flor Reyes
+* Angelita Cervantes - Communities for Our College
+* Shenina Charlie - Everett Community College
+* Nancy Cruz - Communities for Our College
+* Jesus Buenrostro
+* Karrin Peterson - BCAHE Union at Bellevue College, Adjunct Affairs Officer
+* Daniel Gomez Nava - Latino Community Fund of Washington
+* Aline Aguirre - Latino Community Fund
+* Maria Barrios - Communities for our College
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 8 ❓ - Other

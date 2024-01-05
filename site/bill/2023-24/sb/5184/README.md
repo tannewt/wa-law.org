@@ -19,9 +19,11 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 1 👎 - Con
+#### 13 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Micah Matthews - Washington Medical Commission
 
 ### Tue 01/31 08:00 AM - Health & Long Term Care (HLTC): SB 5184 Anesthesiologist assistants
 #### 1344 👍 - Pro

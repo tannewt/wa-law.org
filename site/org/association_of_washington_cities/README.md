@@ -216,6 +216,25 @@
 * ❓ Brandy DeLange
 * ❓ Brandy DeLange
 
+## [HB 1892](/bill/2023-24/hb/1892/) - Concerning the workforce housing accelerator program. 👍1  
+
+## [HB 1940](/bill/2023-24/hb/1940/) - Employer political speech   ❓1
+* ❓💵 Candice Bock
+
+## [HB 1987](/bill/2023-24/hb/1987/) - Concerning the use of moneys from the rural public facilities sales and use tax for affordable workforce housing infrastructure and facilities. 👍1  
+
+## [HB 1998](/bill/2023-24/hb/1998/) - Co-living housing   ❓1
+* ❓💵 Carl Schroeder
+
+## [HB 2036](/bill/2023-24/hb/2036/) - Concerning workplace safety and operational standards for adult entertainment establishments.   ❓1
+* ❓💵 Candice Bock
+
+## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes. 👍1  
+* 👍💵 Carl Schroeder
+
+## [HB 2144](/bill/2023-24/hb/2144/) - Providing for a deposit return program for qualifying beverage containers to be implemented by a distributor responsibility organization.   ❓1
+* ❓💵 Carl Schroeder
+
 ## [SB 5001](/bill/2023-24/sb/5001/) - Public facility districts 👍1  
 
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍2  
@@ -422,6 +441,24 @@
 ## [SB 5722](/bill/2023-24/sb/5722/) - Traffic cameras, photo tolls 👍1  
 
 ## [SB 5723](/bill/2023-24/sb/5723/) - Even-numbered year elections 👍1  
+
+## [SB 5778](/bill/2023-24/sb/5778/) - Employer political speech   ❓1
+* ❓💵 Candice Bock
+
+## [SB 5807](/bill/2023-24/sb/5807/) - Housing authorities 👍1  
+
+## [SB 5808](/bill/2023-24/sb/5808/) - Granting interest arbitration to certain public safety telecommunicators.   ❓1
+* ❓💵 Candice Bock
+
+## [SB 5834](/bill/2023-24/sb/5834/) - Concerning urban growth areas. 👍1  
+
+## [SB 5901](/bill/2023-24/sb/5901/) - Concerning co-living housing.   ❓1
+* ❓💵 Carl Schroeder
+
+## [SB 5924](/bill/2023-24/sb/5924/) - Concerning access to personnel records   ❓1
+* ❓💵 Candice Bock
+
+## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD 👍1  
 
 ## [SJR 8201](/bill/2023-24/sjr/8201/) - Public works account 👍1  
 * 👍 Brandy DeLange

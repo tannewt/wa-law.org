@@ -89,6 +89,12 @@
 
 ## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge  👎2 
 
+## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍1  
+* 👍 Joe Dacca
+
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  
+* 👍💵 Morgan Hickel
+
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍3  
 * 👍 Joe Dacca
 * 👍 Amanda Kost
@@ -155,3 +161,9 @@
 ## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages 👍2  
 
 ## [SB 5738](/bill/2023-24/sb/5738/) - LeMay special license plate 👍1  
+
+## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  
+* 👍💵 Morgan Hickel
+
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
+* 👍💵 Morgan Hickel

@@ -3,7 +3,7 @@
 ## [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1
 * ❓💵 Traci Underwood
 
-## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 
 ## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍2  
 

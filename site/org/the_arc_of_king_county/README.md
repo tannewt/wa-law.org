@@ -95,7 +95,16 @@
 
 ## [HB 1776](/bill/2023-24/hb/1776/) - Applied behavior analysis  👎1 
 
+## [HB 1905](/bill/2023-24/hb/1905/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
+
 ## [HB 1916](/bill/2023-24/hb/1916/) - Concerning funding for the early support for infants and toddlers program. 👍1  
+
+## [HB 1945](/bill/2023-24/hb/1945/) - Streamlining and enhancing program access for persons eligible for food assistance. 👍1  
+
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
+* ❓💵 Ramona Hattendorf
+
+## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍1  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 
@@ -168,3 +177,8 @@
 ## [SB 5559](/bill/2023-24/sb/5559/) - Student restraint, isolation 👍1  
 
 ## [SB 5734](/bill/2023-24/sb/5734/) - ABLE accounts 👍1  
+
+## [SB 5864](/bill/2023-24/sb/5864/) - Establishing a point of contact for any person diagnosed with a rare disease. 👍1  
+
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍2 👎1 
+* 👍💵 Ramona Hattendorf

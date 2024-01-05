@@ -14,14 +14,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31523&aId=156226&caId=22797&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31523&aId=156226&caId=22797&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Wesley Jessup - Northwest Museum of Arts & Culture (EWSHS- Eastern Washington State Historical Society)
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * 💵Aaron Dickson - [Community Employment Alliance](/org/community_employment_alliance/)
 * Alex Motteler
+* Heather Evans
+* 💵Aaron Dickson - [Community Employment Alliance](/org/community_employment_alliance/)
+* Alex Motteler
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* Linzi Michel - Central Columbia Senior Living
+* Ruth Gollen - Orchard Park Retirement
+* Demas Nesterenko - SEIU775
+* Tammi Elswick - Heritage House Morton
+* Michelle Dube - Beehive Retirement Center
 
 ### Mon 01/08 04:00 PM - Appropriations (APP): HB 2104 Operating budget, supp.
 Sign up to testify:
@@ -30,17 +41,35 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31522&aId=156225&caId=22796&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31522&aId=156225&caId=22796&tId=4)
 
-#### 2 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
 * Marissa Rathbone - Washington State School Directors' Association
+* 💵Morgan Hickel - [University of Washington](/org/university_of_washington/)
+* 💵Melissa Gombosky - Association of Educational Service Districts
+* 💵Joel Anderson - Washington Student Achievement Council
+* 💵Brad Forbes - Alzheimer's Association
+* Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Dawn Marie Rubio - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Steve Gonzalez - Washington State Supreme Court
+* Tyler Muench - Office of Superintendent of Public Instruction
+* Rashi Gupta - UW Medicine
+* Wesley Jessup - Northwest Museum of Arts & Culture (EWSHS- Eastern Washington State Historical Society)
+* Diane Bergt
+* Jim Theofelis - NorthStar Advocates
+* 💵Mike Hoover - Washington State School Directors' Association (WSSDA)
 
-#### 2 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * 💵Aaron Dickson - [Community Employment Alliance](/org/community_employment_alliance/)
 * Alex Motteler
+* Heather Evans
+* 💵Aaron Dickson - [Community Employment Alliance](/org/community_employment_alliance/)
+* Alex Motteler
+* Kate Mallahan
 
-#### 18 ❓ - Other
+#### 31 ❓ - Other
 Testifying:
 * 💵Jill May - Washington Association for Children and Families
 * Zack Wester
@@ -60,3 +89,15 @@ Testifying:
 * Steve DuPont - [Central Washington University](/org/central_washington_university/)
 * Laurie Lippold - Partners for Our Children
 * 💵Michele Thomas - Washington Low Income Housing Alliance
+* Shawn Latham
+* 💵Alan Burke - WSSRA
+* 💵Anna Nepomuceno - NAMI WA
+* 💵Noah Seidel - Office of Developmental Disabilities Ombuds
+* Sandy Lennon - Washington School-Based Health Alliance
+* Sara Frederiksen - Toppenish High School
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* Chris Mulick - Washington State University
+* 💵Michael White - [King County](/org/king_county/)
+* 💵Nora Selander - Western Washington University
+* Kimberly Nyland - Catholic Community Services
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)

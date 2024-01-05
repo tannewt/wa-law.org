@@ -26,6 +26,11 @@
 ## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief   ❓1
 * ❓💵 Sharon Swanson
 
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍3  
+* 👍 Brittany Gregory
+* 👍 Christopher Stanley
+* 👍 Dawn Marie Rubio
+
 ## [SB 5003](/bill/2023-24/sb/5003/) - Snohomish county judges 👍2  
 * 👍 Haily Perkins
 * 👍 Haily Perkins
@@ -57,3 +62,7 @@
 
 ## [SB 5474](/bill/2023-24/sb/5474/) - Juvenile justice   ❓1
 * ❓ Brittany Gregory
+
+## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍2  
+* 👍 Brittany Gregory
+* 👍 Christopher Stanley

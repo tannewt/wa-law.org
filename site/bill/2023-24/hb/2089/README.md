@@ -14,10 +14,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31526&aId=156194&caId=22800&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31526&aId=156194&caId=22800&tId=4)
 
-#### 1 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Steve DuPont - [Central Washington University](/org/central_washington_university/)
+* Darrell Jennings - State Board for Community and Technical Colleges
+* James Lemerond - Bellingham Technical College
+* Matt Seimears - Lower Columbia Community College
+* Joe Dacca - [University of Washington](/org/university_of_washington/)
+* Tyler Muench - Office of Superintendent of Public Instruction
+* Mary Connolly - South Sound Housing Affordability Partners
+* Wesley Jessup - Northwest Museum of Arts & Culture (EWSHS- Eastern Washington State Historical Society)
+* 💵Nora Selander - Western Washington University
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* Mellissa Stone - Washington State PTA
+* Nancy Chamberlain - Washington State PTA
+* Kathryn Gardow - Chair, Public Works Board

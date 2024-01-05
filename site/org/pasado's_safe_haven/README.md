@@ -21,4 +21,6 @@
 
 ## [HB 1653](/bill/2023-24/hb/1653/) - Animal adoption fees/tax 👍1  
 
+## [HB 1961](/bill/2023-24/hb/1961/) - Animal cruelty/seriousness 👍1  
+
 ## [SB 5598](/bill/2023-24/sb/5598/) - Horses/funding  👎2 

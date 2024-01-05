@@ -14,13 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31550&aId=156232&caId=22782&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31550&aId=156232&caId=22782&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Mary Connolly - South Sound Housing Affordability Partners
+* Wesley Jessup - Northwest Museum of Arts & Culture (EWSHS- Eastern Washington State Historical Society)
+* Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Kathryn Gardow - Chair, Public Works Board
+* 💵Michael White - [King County](/org/king_county/)
 
 ### Thu 01/11 04:00 PM - Ways & Means (WM): SB 5949: Higher education. (Remote Testimony Available).
 Sign up to testify:
@@ -29,9 +35,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31550&aId=156229&caId=22779&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31550&aId=156229&caId=22779&tId=4)
 
-#### 1 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Steve DuPont - [Central Washington University](/org/central_washington_university/)
+* Darrell Jennings - State Board for Community and Technical Colleges
+* James Lemerond - Bellingham Technical College
+* Matt Seimears - Lower Columbia Community College
+* 💵Morgan Hickel - [University of Washington](/org/university_of_washington/)
+* 💵Nora Selander - Western Washington University
 
 #### 0 👎 - Con
 
@@ -48,7 +59,9 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 
 ### Thu 01/11 04:00 PM - Ways & Means (WM): SB 5949: K-12 public schools. (Remote Testimony Available).
 Sign up to testify:
@@ -57,7 +70,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31550&aId=156228&caId=22778&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31550&aId=156228&caId=22778&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Tyler Muench - Office of Superintendent of Public Instruction
 
 #### 0 👎 - Con
 

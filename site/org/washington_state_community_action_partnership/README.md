@@ -1,6 +1,6 @@
 # Washington State Community Action Partnership
 
-## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍3  
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 

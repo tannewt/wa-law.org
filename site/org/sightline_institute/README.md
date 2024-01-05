@@ -59,6 +59,14 @@
 
 ## [HB 1611](/bill/2023-24/hb/1611/) - Local government permitting 👍1  
 
+## [HB 1932](/bill/2023-24/hb/1932/) - Shifting general elections for local governments to even-numbered years to increase voter participation. 👍1  
+* 👍 Alan Durning
+
+## [HB 1998](/bill/2023-24/hb/1998/) - Co-living housing 👍1  
+* 👍💵 Dan Bertolet
+
+## [HB 2008](/bill/2023-24/hb/2008/) - Creating a task force on housing cost driver analysis. 👍1  
+
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍1  
 
 ## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍2  

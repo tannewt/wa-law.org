@@ -37,11 +37,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31524&aId=155940&caId=22798&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31524&aId=155940&caId=22798&tId=4)
 
-#### 1 👍 - Pro
+#### 48 👍 - Pro
 
-#### 1 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * Mike Smyth
+* Mary Long - Conservative Ladies of Washington
 
 #### 0 ❓ - Other
 

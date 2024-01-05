@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5882/</link>
 		<description>Updates about SB 5882</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 03 Jan 2024 06:40:54 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 04 Jan 2024 02:08:34 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -22,6 +22,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Julie/Salvi/2024-01-03 06:40:54</guid>
+		</item>
+		<item>
+			<title>❓Oliver Miska - WAESN</title>
+			<description>Oliver Miska signed up to testify Other. They are signed up to represent WAESN.</description>
+			<pubDate>Thu, 04 Jan 2024 02:08:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Oliver/Miska/2024-01-04 02:08:34</guid>
 		</item>
 	</channel>
 </rss>

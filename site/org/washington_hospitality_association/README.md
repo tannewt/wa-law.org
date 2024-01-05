@@ -75,6 +75,8 @@
 ## [HB 1815](/bill/2023-24/hb/1815/) - Payment card processing/tax 👍1  
 * 👍💵 Julia Gorton
 
+## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍1  
+
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI  👎1 
 * 👎💵 Julia Gorton
 
