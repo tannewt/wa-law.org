@@ -2,10 +2,17 @@
 
 ## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍4  
 
-## [HB 1068](/bill/2023-24/hb/1068/) - Injured worker medical exams  👎1 
+## [HB 1033](/bill/2023-24/hb/1033/) - Compostable product usage   ❓1
+* ❓💵 Samantha Louderback
+
+## [HB 1068](/bill/2023-24/hb/1068/) - Injured worker medical exams  👎2 
 * 👎💵 Samantha Louderback
 
-## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍3  
+## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍3 👎1 
+* 👎💵 Samantha Louderback
+
+## [HB 1095](/bill/2023-24/hb/1095/) - Wage replacement  👎1 
+* 👎💵 Julia Gorton
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 
@@ -77,8 +84,12 @@
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 
+## [SB 5089](/bill/2023-24/sb/5089/) - Factory assembled structures 👍1  
+
 ## [SB 5109](/bill/2023-24/sb/5109/) - Wage replacement  👎1 
 * 👎💵 Julia Gorton
+
+## [SB 5110](/bill/2023-24/sb/5110/) - Labor practices/penalties  👎1 
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management  👎1 
 * 👎💵 Samantha Louderback

@@ -3,6 +3,16 @@
 ## [HB 1031](/bill/2023-24/hb/1031/) - Medal of valor award 👍1  
 * 👍 Brian Hatfield
 
+## [HB 1049](/bill/2023-24/hb/1049/) - County district boundaries 👍1  
+* 👍 Brian Hatfield
+
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
+* ❓ Brian Hatfield
+
+## [HB 1158](/bill/2023-24/hb/1158/) - Advisory votes   ❓2
+* ❓ Brian Hatfield
+* ❓ Steve Hobbs
+
 ## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍1  
 * 👍 Steve Hobbs
 
@@ -23,11 +33,13 @@
 
 ## [HB 1715](/bill/2023-24/hb/1715/) - Domestic violence 👍1  
 
-## [SB 5015](/bill/2023-24/sb/5015/) - Productivity board 👍1  
+## [SB 5015](/bill/2023-24/sb/5015/) - Productivity board 👍1  ❓1
+* ❓ Brian Hatfield
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act 👍1  
 
-## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍2  
+## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍3  
+* 👍 Steve Hobbs
 * 👍 Steve Hobbs
 * 👍 Brian Hatfield
 
@@ -45,6 +57,9 @@
 ## [SB 5153](/bill/2023-24/sb/5153/) - Future voters/records 👍1  
 
 ## [SB 5182](/bill/2023-24/sb/5182/) - Candidate filing 👍1  
+
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+* ❓ Brian Hatfield
 
 ## [SB 5208](/bill/2023-24/sb/5208/) - Online voter registration 👍3  
 * 👍 Steve Hobbs

@@ -247,8 +247,182 @@ Testifying:
 * Suzanne Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)
 
 ### Wed 01/11 04:00 PM - Appropriations (APP): HB 1140 Operating budget
-#### 0 👍 - Pro
+#### 113 👍 - Pro
+Testifying:
+* 💵Bob Cooper - WAAssociation of Drug Courts
+* Michael Mirra - Housing & Child Welfare Subcommittee of the Administrative Office of the Court
+* Sam Martin - Washington Coalition on Homeless Youth Advocacy
+* Danni Jo Bechtold
+* Lynda Hall - [Treehouse](/org/treehouse/)
+* Jim Bamberger - Office of Civil Legal Aid
+* Sara Robbins - Seattle / King County Coalition on Homelessness
+* 💵Erica Hallock - Start Early Washington, Empire Health Foundation, Family Impact Network
+* 💵Patricia Hunter - WA State Long Term Care Ombuds Program
+* Jeff Gombosky - [Washington Health Care Association](/org/washington_health_care_association/)
+* 💵Scott Sigmon - LeadingAge Washington
+* Harald Hyllseth - Communities of Concern Commission
+* Josephine Tamayo Murray - Communities of Concern Commission
+* Pastor Carey Anderson - Communities of Concern Commission
+* Heather Moss - Bates Technical College Trustee
+* Paul Francis - State Board for Community and Technical Colleges
+* 💵Brad Forbes - Alzheimer's Association
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Joan Miller - [Washington Council for Behavioral Health](/org/washington_council_for_behavioral_health/)
+* Alicia Kingston - Northwest Justice Project
+* Austin Hsu - Snohomish County Legal Services
+* Quinn Rosborough Dalan - Yakima County Volunteer Legal Services
+* 💵Anna Nepomuceno - NAMI WA
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* Erin Shea McCann - Legal Counsel for Youth and Children (LCYC)
+* 💵Morgan Hickel - [University of Washington](/org/university_of_washington/)
+* Tonia McClanahan
+* 💵Seamus Petrie - [Washington Public Employees Association](/org/washington_public_employees_association/)
+* Pat Meyers
+* 💵Melissa Johnson - DMCJA; WA State Association of Head Start & ECEAP
+* Ken Roske - City of Pasco Police Department
+* Andrew Calkins - [Association of Washington Housing Authorities](/org/association_of_washington_housing_authorities/)
+* 💵Nora Selander - Western Washington University
+* Jacob Vigdor - University of Washington Faculty
+* 💵Brad Banks - Home Care Coalition
+* Sandy Kaiser - The Evergreen State College
+* Dr. Scott Phillips - [Washington Poison Center](/org/washington_poison_center/)
+* 💵Fred Yancey - Washington State School Retirees’ Assn.
+* 💵Julie Patiño - A Way Home Washington
+* Steve DuPont - [Central Washington University](/org/central_washington_university/)
+* Alex Conley
+* Amy Hatch-Winecka
+* 💵Kaylee Galloway - Regional Fisheries Coalition
+* Lance Winecka
+* Mike Lithgow
+* David Buri
+* Demas Nesterenko - SEIU775
+* Brett Anton - Institutional Climate Action: UW
+* Adam Ballout - ABC Law Group
+* 💵Logan Bahr - [Tacoma Public Utilities](/org/tacoma_public_utilities/)
+* Colleen Condon - Washington Childcare Center Association
+* Laura Murphey - Washington Childcare Center Association
+* Nicole Mazen - Amara
+* Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Jennifer Justice - FIRST Clinic
+* Larry Jefferson - Director of the Washington State Office of Public Defense
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Mike Battis - [Washington Ambulance Association](/org/washington_ambulance_association/)
+* Pat McCarthy - Office of the Washington State Auditor
+* 💵Scott Nelson - Office of the Washington State Auditor
+* 💵Ian Goodhew - UW Medicine Healthcare
+* Lynn Urvina - Washington State Kinship Caregiver Oversight Committee
+* Mindy Woods
+* Bob Mohrbacher - Centralia College
+* Jacques White - Long Live the Kings
+* Chris Mulick - Washington State University
+* John Floberg - Washington State Parks Foundation
+* Alexandra Deas - [Equal Justice Coalition](/org/equal_justice_coalition/)
+* César Torres - Northwest Justice Project
+* Preston Dwoskin
+* Harald Hyllseth - Chief Seattle Club/Communities of Concern Commission
+* Josephine Tamayo Murray - Communities of Concern Commission
+* Pastor Carey Anderson - FAME Church/Communities of Concern Commission
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Joel Anderson - University of Washington Graduate and Professional Student Senate
+* 💵Emily Murphy - [Child Care Aware of Washington](/org/child_care_aware_of_washington/)
+* Debbie Ham - SELF (Support for Early Learning & Families)
+* John Dickson - Spokane County United Way
+* Gina Wassemiller - FIRST Legal Clinic
+* Jennifer Justice - FIRST Legal Clinic
+* Taila AyAy - FIRST Legal Clinic
+* Cherish Cronmiller
+* Diana Lian
+* Jeff DeLuca
+* Leslie Naramore
+* Angela Kraemer - AFS
+* 💵Alex Davidson - The Associated Students of the University of Washington
+* Jennifer Smith - WDA/WACDL
+* Kevin Flannery - WDA/WACDL
+* Rachel Da Silva
+* Zona Spaeth
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* Debbie Ham - SELF (Support for Early Learning and Families)
+* Shelly Willis - [Family Education and Support Services](/org/family_education_and_support_services/)
+* Tom Salzer - [Washington Association of Conservation Districts](/org/washington_association_of_conservation_districts/)
+* Anthony Power - WDA/WACDL
+* Greg Link - WDA/WACDL
+* Jason Schwarz - WDA/WACDL
+* 💵Lara Zarowsky - WDA/WACDL
+* Michelle Sells
+* Michelle Sells - Legacy Family Time Services
 
-#### 0 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* Tom Gaulke - Entrust Community Services
+* Jessica Renner - Self Advocates in Leadership (SAIL)
+* Debi Maloney
+* Darlene Schanfald - Friends of Miller Peninsula State Park
+* Nicholle Mineiro - Attorneys for Education Rights
 
-#### 0 ❓ - Other
+#### 65 ❓ - Other
+Testifying:
+* 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
+* Paula Reed - [Children's Advocacy Centers of Washington](/org/children's_advocacy_centers_of_washington/)
+* Marissa Rathbone - Washington State School Directors' Association (WSSDA)
+* Lynsey Gagon - Volunteers Of America
+* Marcia Wright-Soika - Family Works
+* 💵Shrounda Selivanoff - Children's Home Society of Washington
+* Heather Cantamessa - Children's Home Society of Washington
+* Lisa Johnson - Parent 4 Parent
+* Laurie Lippold - Partners for Our Children
+* 💵Melissa Gombosky - Evergreen Public Schools and ESD 112
+* 💵Jill May - Washington Association for Children and Families
+* Jeff Clare - [Washington Association for Children & Families](/org/washington_association_for_children_&_families/)
+* Whitney Carlson - [Washington Association for Children & Families](/org/washington_association_for_children_&_families/)
+* Liz Trautman - Stand for Children Washington
+* 💵Jorge Baron - Northwest Immigrant Rights Project (NWIRP)
+* Adam Swinyard - [Spokane Public Schools](/org/spokane_public_schools/)
+* Jeff Snell - Vancouver Public Schools
+* John Boyd - Evergreen Public Schools
+* 💵Christina Wong - Northwest Harvest
+* Ben Small - Launch NW
+* Rosana Barredo - One America
+* Michelle Price - North Central Educational Service District 171
+* Jim Kowalkowski - Rural Education Center
+* Brent Freeman - Wahkiakum School District
+* 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
+* Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
+* Rob Huff
+* Lisa Greenwald - [Kindering](/org/kindering/)
+* Gian Mitchell
+* Karen STRICKLAND - AFT WASHINGTON
+* Rachael Myers - WA Low Income Housing Alliance
+* 💵Diana Stadden - The Arc of WA State
+* Rick Chisa - Public School Employees of Washington (PSE)
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* 💵Megan Veith - [Building Changes](/org/building_changes/)
+* Deborah Essman
+* Martha Wyckoff
+* Shawn Latham - Allies in Advocacy
+* 💵Christina Wong - Northwest Harvest
+* Lisa Striedinger - Friends without homes
+* LISA STRIEDINGER - Friends without homes
+* Jennifer Crespi - WA State PTA
+* Will White
+* Sean Eagan - [The Northwest Seaport Alliance](/org/the_northwest_seaport_alliance/)
+* Jon Holmen - Lake Washington School District
+* Sue Ann Bube - Mercer Island School District
+* Krista Milhofer - People First of Washington
+* Laura Ellsworth - Council for the Homeless
+* 💵Samantha Bruegger - WA Wildlife First
+* Eric Jensen - Astria Toppenish Hospital
+* Sheila Babb Anderson - [Campion Advocacy Fund](/org/campion_advocacy_fund/)
+* Amanda DeShazo - Tacoma-Pierce County Affordable Housing Consortium
+* Deb Miller - Washington 211
+* Kelli Miller - Washington 211
+* Madelyn Carlson - Washington 211
+* Heather Moss - Pierce County Human Services
+* Charlie Brown - Pierce County Superintendents and Federal Way SD
+* 💵Kristin Wiggins - Imagine Institute
+* Gregory King - Washington MESA
+* Po Leapai
+* Kathleen Knutsen - No
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* 💵Samuel Martin - Washington Community Alliance

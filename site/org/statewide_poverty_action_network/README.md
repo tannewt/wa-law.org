@@ -1,18 +1,26 @@
 # Statewide Poverty Action Network
 
-## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
+## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍2  
 
-## [HB 1051](/bill/2023-24/hb/1051/) - Robocalls & telephone scams 👍1  
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
 
-## [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims 👍1  
+## [HB 1051](/bill/2023-24/hb/1051/) - Robocalls & telephone scams 👍2  
+
+## [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims 👍2  
 
 ## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍2  
 * 👍💵 Shaun Scott
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍2  
 
+## [HB 1095](/bill/2023-24/hb/1095/) - Wage replacement 👍1  
+
+## [HB 1124](/bill/2023-24/hb/1124/) - Residential rent and fees 👍1  
+
 ## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
 * ❓💵 Lianna Kressin
+
+## [HB 1149](/bill/2023-24/hb/1149/) - Housing/capital expenditures 👍1  
 
 ## [HB 1152](/bill/2023-24/hb/1152/) - Consumer products/gender 👍1  
 

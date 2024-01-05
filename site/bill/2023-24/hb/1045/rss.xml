@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1045/</link>
 		<description>Updates about HB 1045</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 15 Dec 2023 16:58:42 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 03 Jan 2024 08:54:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -37,6 +37,46 @@
 			<guid isPermaLink="true">https://www.opportunityinstitute.org/research/2023-legislative-agenda/#:~:text=HB%201045</guid>
 		</item>
 		<item>
+			<title>👎Rebecca Faust - FMSGS / WBBA</title>
+			<description>Rebecca Faust signed up to testify Con.</description>
+			<pubDate>Sat, 07 Jan 2023 08:24:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Rebecca/Faust/2023-01-07 08:24:30</guid>
+		</item>
+		<item>
+			<title>👎Thomas Marabello - FMSGS / WBBA</title>
+			<description>Thomas Marabello signed up to testify Con.</description>
+			<pubDate>Sun, 08 Jan 2023 02:54:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Thomas/Marabello/2023-01-08 02:54:18</guid>
+		</item>
+		<item>
+			<title>👎Janet Large - FMSGS / WBBA</title>
+			<description>Janet Large signed up to testify Con.</description>
+			<pubDate>Sun, 08 Jan 2023 10:31:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Janet/Large/2023-01-08 10:31:54</guid>
+		</item>
+		<item>
+			<title>👎Leah Anaya - Washington Moms For America</title>
+			<description>Leah Anaya signed up to testify Con. They are signed up to represent Washington Moms For America.</description>
+			<pubDate>Sun, 08 Jan 2023 10:38:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Leah/Anaya/2023-01-08 10:38:19</guid>
+		</item>
+		<item>
+			<title>👎Cindy Tucker - Washington Moms For America</title>
+			<description>Cindy Tucker signed up to testify Con.</description>
+			<pubDate>Sun, 08 Jan 2023 12:07:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Cindy/Tucker/2023-01-08 12:07:24</guid>
+		</item>
+		<item>
 			<title>The House Hot Sheet for Week 1 of the 2023 Legislative Session – Washington State House Democrats</title>
 			<description>News article &quot;The House Hot Sheet for Week 1 of the 2023 Legislative Session – Washington State House Democrats&quot; from House Democrats.</description>
 			<pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
@@ -44,11 +84,291 @@
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2023/01/09/the-house-hot-sheet-for-week-1-of-the-2023-legislative-session/#:~:text=HB%201045</guid>
 		</item>
 		<item>
+			<title>👍Councilmember Jim Cooper - City of Olympia</title>
+			<description>Councilmember Jim Cooper signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/city_of_olympia/&quot;&gt;City of Olympia&lt;/a&gt;.</description>
+			<pubDate>Mon, 09 Jan 2023 01:13:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Councilmember Jim/Cooper/2023-01-09 01:13:46</guid>
+		</item>
+		<item>
+			<title>❓Amali Morning Song - America</title>
+			<description>Amali Morning Song signed up to testify Other.</description>
+			<pubDate>Mon, 09 Jan 2023 02:29:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Amali/Morning Song/2023-01-09 02:29:47</guid>
+		</item>
+		<item>
+			<title>👍Robin Von Davies - Washington Physicians for Social Responsibility</title>
+			<description>Robin Von Davies signed up to testify Pro. They are signed up to represent Washington Physicians for Social Responsibility.</description>
+			<pubDate>Mon, 09 Jan 2023 03:19:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Robin/Von Davies/2023-01-09 03:19:48</guid>
+		</item>
+		<item>
+			<title>👍Amirah Harris - Self</title>
+			<description>Amirah Harris signed up to testify Pro. They are signed up to represent Self.</description>
+			<pubDate>Mon, 09 Jan 2023 04:13:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Amirah/Harris/2023-01-09 04:13:31</guid>
+		</item>
+		<item>
+			<title>👎Laurie Layne - Washington Moms For America</title>
+			<description>Laurie Layne signed up to testify Con.</description>
+			<pubDate>Mon, 09 Jan 2023 08:01:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Laurie/Layne/2023-01-09 08:01:37</guid>
+		</item>
+		<item>
+			<title>👍💵Jazmine Smith - The Washington Bus</title>
+			<description>Jazmine Smith signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/the_washington_bus/&quot;&gt;The Washington Bus&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 09 Jan 2023 08:15:08 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jazmine/Smith/2023-01-09 08:15:08</guid>
+		</item>
+		<item>
 			<title>United Ways of the Pacific Northwest - First Legislative Update of 2023 - United Ways of the Pacific Northwest</title>
 			<description>News article &quot;United Ways of the Pacific Northwest - First Legislative Update of 2023 - United Ways of the Pacific Northwest&quot; from United Ways of the Pacific Northwest.</description>
 			<pubDate>Mon, 09 Jan 2023 21:54:14 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.uwpnw.org/legupdate1102023#:~:text=HB%201045</guid>
+		</item>
+		<item>
+			<title>👍Amy Roark - The Washington Bus</title>
+			<description>Amy Roark signed up to testify Pro.</description>
+			<pubDate>Tue, 10 Jan 2023 04:33:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Amy/Roark/2023-01-10 04:33:04</guid>
+		</item>
+		<item>
+			<title>👍💵Tracy Yeung - Washington State Budget &amp; Policy Center</title>
+			<description>Tracy Yeung signed up to testify Pro. They are signed up to represent Washington State Budget &amp; Policy Center. They are a registered lobbyist.</description>
+			<pubDate>Tue, 10 Jan 2023 04:53:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tracy/Yeung/2023-01-10 04:53:13</guid>
+		</item>
+		<item>
+			<title>👍Cherish Cronmiller - Olympic Community Action Programs</title>
+			<description>Cherish Cronmiller signed up to testify Pro. They are signed up to represent Olympic Community Action Programs.</description>
+			<pubDate>Tue, 10 Jan 2023 05:02:08 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Cherish/Cronmiller/2023-01-10 05:02:08</guid>
+		</item>
+		<item>
+			<title>👍Melissa Hornbeck - seiu775</title>
+			<description>Melissa Hornbeck signed up to testify Pro. They are signed up to represent seiu775.</description>
+			<pubDate>Tue, 10 Jan 2023 05:25:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Melissa/Hornbeck/2023-01-10 05:25:34</guid>
+		</item>
+		<item>
+			<title>👎Mary Long - Conservative Ladies of Washington</title>
+			<description>Mary Long signed up to testify Con. They are signed up to represent Conservative Ladies of Washington.</description>
+			<pubDate>Tue, 10 Jan 2023 05:26:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Mary/Long/2023-01-10 05:26:10</guid>
+		</item>
+		<item>
+			<title>👍Kathleen Richmire - seiu775</title>
+			<description>Kathleen Richmire signed up to testify Pro.</description>
+			<pubDate>Tue, 10 Jan 2023 05:28:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kathleen/Richmire/2023-01-10 05:28:55</guid>
+		</item>
+		<item>
+			<title>❓💵Lori Pfingst - WA State Department of Social &amp; Health Services</title>
+			<description>Lori Pfingst signed up to testify Other. They are signed up to represent WA State Department of Social &amp; Health Services. They are a registered lobbyist.</description>
+			<pubDate>Tue, 10 Jan 2023 06:52:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Lori/Pfingst/2023-01-10 06:52:46</guid>
+		</item>
+		<item>
+			<title>👍Abigail Lawson - United Way Pierce County</title>
+			<description>Abigail Lawson signed up to testify Pro. They are signed up to represent United Way Pierce County.</description>
+			<pubDate>Tue, 10 Jan 2023 07:14:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Abigail/Lawson/2023-01-10 07:14:22</guid>
+		</item>
+		<item>
+			<title>👍Debbie Wilkerson - United Way Pierce County</title>
+			<description>Debbie Wilkerson signed up to testify Pro.</description>
+			<pubDate>Tue, 10 Jan 2023 07:14:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Debbie/Wilkerson/2023-01-10 07:14:22</guid>
+		</item>
+		<item>
+			<title>👍💵Shaun Scott - United Way Pierce County</title>
+			<description>Shaun Scott signed up to testify Pro. They are a registered lobbyist.</description>
+			<pubDate>Tue, 10 Jan 2023 07:14:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Shaun/Scott/2023-01-10 07:14:22</guid>
+		</item>
+		<item>
+			<title>👍Abigail Lawson - United Way Pierce County</title>
+			<description>Abigail Lawson signed up to testify Pro.</description>
+			<pubDate>Tue, 10 Jan 2023 07:18:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Abigail/Lawson/2023-01-10 07:18:20</guid>
+		</item>
+		<item>
+			<title>👍Debbie Wilkerson - United Way Pierce County</title>
+			<description>Debbie Wilkerson signed up to testify Pro.</description>
+			<pubDate>Tue, 10 Jan 2023 07:18:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Debbie/Wilkerson/2023-01-10 07:18:20</guid>
+		</item>
+		<item>
+			<title>👍Mayor Victoria Woodards - City of Tacoma/Tacoma City Council</title>
+			<description>Mayor Victoria Woodards signed up to testify Pro. They are signed up to represent City of Tacoma/Tacoma City Council.</description>
+			<pubDate>Tue, 10 Jan 2023 07:18:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mayor Victoria/Woodards/2023-01-10 07:18:20</guid>
+		</item>
+		<item>
+			<title>👍Andrew Guillen - Seattle Indian Health Board/ Chief Public Affairs Officer from Seattle Indian Health Board</title>
+			<description>Andrew Guillen signed up to testify Pro. They are signed up to represent Seattle Indian Health Board/ Chief Public Affairs Officer from Seattle Indian Health Board.</description>
+			<pubDate>Tue, 10 Jan 2023 07:22:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Andrew/Guillen/2023-01-10 07:22:23</guid>
+		</item>
+		<item>
+			<title>👍💵Katrina Johnson - Food Lifeline</title>
+			<description>Katrina Johnson signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/food_lifeline/&quot;&gt;Food Lifeline&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 10 Jan 2023 07:22:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Katrina/Johnson/2023-01-10 07:22:23</guid>
+		</item>
+		<item>
+			<title>👍Robin Hills - Food Lifeline</title>
+			<description>Robin Hills signed up to testify Pro.</description>
+			<pubDate>Tue, 10 Jan 2023 07:22:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Robin/Hills/2023-01-10 07:22:23</guid>
+		</item>
+		<item>
+			<title>👍Stuart Grover - United Way of Pierce County</title>
+			<description>Stuart Grover signed up to testify Pro. They are signed up to represent United Way of Pierce County.</description>
+			<pubDate>Tue, 10 Jan 2023 08:21:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Stuart/Grover/2023-01-10 08:21:52</guid>
+		</item>
+		<item>
+			<title>👎Jeneen Breshears - Conservative Ladies of Washington</title>
+			<description>Jeneen Breshears signed up to testify Con. They are signed up to represent Conservative Ladies of Washington.</description>
+			<pubDate>Tue, 10 Jan 2023 08:25:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jeneen/Breshears/2023-01-10 08:25:36</guid>
+		</item>
+		<item>
+			<title>👎Eric Pratt - America</title>
+			<description>Eric Pratt signed up to testify Con. They are signed up to represent America.</description>
+			<pubDate>Tue, 10 Jan 2023 08:38:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Eric/Pratt/2023-01-10 08:38:18</guid>
+		</item>
+		<item>
+			<title>👍Martha Lucas - Martha Lucas, Insurance Professional</title>
+			<description>Martha Lucas signed up to testify Pro. They are signed up to represent Martha Lucas, Insurance Professional.</description>
+			<pubDate>Tue, 10 Jan 2023 10:08:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Martha/Lucas/2023-01-10 10:08:34</guid>
+		</item>
+		<item>
+			<title>👍💵Paula Sardinas - WA Build Back Black Alliance</title>
+			<description>Paula Sardinas signed up to testify Pro. They are signed up to represent WA Build Back Black Alliance. They are a registered lobbyist.</description>
+			<pubDate>Tue, 10 Jan 2023 11:10:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Paula/Sardinas/2023-01-10 11:10:26</guid>
+		</item>
+		<item>
+			<title>👍💵Katrina Johnson - Food lifeline</title>
+			<description>Katrina Johnson signed up to testify Pro. They are signed up to represent Food lifeline. They are a registered lobbyist.</description>
+			<pubDate>Tue, 10 Jan 2023 12:25:41 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Katrina/Johnson/2023-01-10 12:25:41</guid>
+		</item>
+		<item>
+			<title>👍Patanjali de la Rocha - Hummingbird Indigenous Family Services</title>
+			<description>Patanjali de la Rocha signed up to testify Pro. They are signed up to represent Hummingbird Indigenous Family Services.</description>
+			<pubDate>Tue, 10 Jan 2023 12:31:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Patanjali/de la Rocha/2023-01-10 12:31:45</guid>
+		</item>
+		<item>
+			<title>👍Jennifer Bereskin - Hummingbird Indigenous Family Services</title>
+			<description>Jennifer Bereskin signed up to testify Pro.</description>
+			<pubDate>Wed, 11 Jan 2023 08:12:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jennifer/Bereskin/2023-01-11 08:12:59</guid>
+		</item>
+		<item>
+			<title>👍💵Tracy Yeung - Hummingbird Indigenous Family Services</title>
+			<description>Tracy Yeung signed up to testify Pro. They are a registered lobbyist.</description>
+			<pubDate>Wed, 11 Jan 2023 08:12:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tracy/Yeung/2023-01-11 08:12:59</guid>
+		</item>
+		<item>
+			<title>👍Victoria Woodards - City of Tacoma</title>
+			<description>Victoria Woodards signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/city_of_tacoma/&quot;&gt;City of Tacoma&lt;/a&gt;.</description>
+			<pubDate>Wed, 11 Jan 2023 08:12:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Victoria/Woodards/2023-01-11 08:12:59</guid>
+		</item>
+		<item>
+			<title>👍Shelly Robbins - Parents Organizing for Welfare Economic Rights</title>
+			<description>Shelly Robbins signed up to testify Pro. They are signed up to represent Parents Organizing for Welfare Economic Rights.</description>
+			<pubDate>Wed, 11 Jan 2023 11:21:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Shelly/Robbins/2023-01-11 11:21:19</guid>
+		</item>
+		<item>
+			<title>👍Janice Henry - Parents Organizing for Welfare Economic Rights</title>
+			<description>Janice Henry signed up to testify Pro.</description>
+			<pubDate>Wed, 11 Jan 2023 12:05:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Janice/Henry/2023-01-11 12:05:33</guid>
+		</item>
+		<item>
+			<title>👍Emily Pinckney - FMSGS / WBBA</title>
+			<description>Emily Pinckney signed up to testify Pro. They are signed up to represent FMSGS / WBBA.</description>
+			<pubDate>Wed, 11 Jan 2023 12:24:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Emily/Pinckney/2023-01-11 12:24:48</guid>
 		</item>
 		<item>
 			<title>The House Hot Sheet for Week 2 of the 2023 Legislative Session – Washington State House Democrats</title>
@@ -147,6 +467,14 @@
 			<pubDate>Fri, 15 Dec 2023 16:58:42 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.opportunityinstitute.org/current-projects/2024-legislative-agenda/#:~:text=HB%201045</guid>
+		</item>
+		<item>
+			<title>👎Mike Smyth - Rural Education Center</title>
+			<description>Mike Smyth signed up to testify Con.</description>
+			<pubDate>Wed, 03 Jan 2024 08:54:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Mike/Smyth/2024-01-03 08:54:47</guid>
 		</item>
 	</channel>
 </rss>

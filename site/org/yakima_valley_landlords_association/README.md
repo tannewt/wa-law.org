@@ -15,6 +15,9 @@
 ## [HB 1817](/bill/2023-24/hb/1817/) - Housing gap voucher pilot 👍1  
 * 👍 Patricia Hoendermis
 
+## [SB 5060](/bill/2023-24/sb/5060/) - Rental & vacant properties  👎1 
+* 👎 Patricia Howndermis
+
 ## [SB 5197](/bill/2023-24/sb/5197/) - Eviction processes  👎1 
 * 👎 Patricia Hoendermis
 

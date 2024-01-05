@@ -14,11 +14,15 @@
 
 ## [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims 👍1  
 
+## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
+
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
 
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍3  
 
 ## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍1  
+
+## [HB 1149](/bill/2023-24/hb/1149/) - Housing/capital expenditures 👍1  
 
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
 
@@ -73,7 +77,11 @@
 * 👍💵 Brian Enslow
 * 👍💵 Brian Enslow
 
+## [SB 5060](/bill/2023-24/sb/5060/) - Rental & vacant properties 👍1  
+
 ## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍3  
+
+## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍1  
 
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1  
 

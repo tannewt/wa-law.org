@@ -22,8 +22,15 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Wed 01/11 01:30 PM - Early Learning & K-12 Education (EDU): SB 5065 Bone marrow donation/schools
-#### 0 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Jeana Moore - Jada Bascom Foundation
+* Britney Inglis
+* Leah Couts - Be The Match
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Julie Barrett - Conservative Ladies of Washington
+* Leslie Williams - CLW
 
 #### 0 ❓ - Other

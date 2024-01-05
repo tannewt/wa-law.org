@@ -81,8 +81,21 @@ Testifying:
 * Brian Considine - Washington State Department of Natural Resources
 
 ### Thu 01/12 08:00 AM - Environment & Energy (ENVI): HB 1170 Climate response strategy
-#### 0 👍 - Pro
+#### 124 👍 - Pro
+Testifying:
+* William MCPHERSON - Unitarian Universalist Association, WA
+* Jane Howard
+* Jennifer Hennessey - Washington State Department of Ecology
+* Jim Baumgart - Washington Military Department - Emergency Management Division
+* Rad Cunningham - Washington State Department of Health
+* Crystal Raymond - University of Washington, Climate Impacts Group
+* 💵Justin Allegro - [The Nature Conservancy](/org/the_nature_conservancy/)
 
-#### 0 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* john Worthington - AAMC
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Brian Considine - Washington State Department of Natural Resources
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)

@@ -27,8 +27,24 @@ Testifying:
 #### 1 ❓ - Other
 
 ### Tue 01/10 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1024 Incarcerated persons/labor
-#### 0 👍 - Pro
+#### 221 👍 - Pro
+Testifying:
+* Cher Scarlett
+* Anthony Covert
+* Jim Chambers
+* Raymond Williams
+* David Trieweiler - WACDL/WDA
+* 💵Hannah Woerner - [Columbia Legal Services](/org/columbia_legal_services/)
+* 💵Samuel Martin - Washington for Black Lives
+* Pat Seibert-Love - SBCTC
+* Geoffrey Thomas - Mayor, City of Monroe
+* 💵Kelly Olson - [Civil Survival Project](/org/civil_survival_project/)
+* Lauren Zavrel - Clark College/Larch Corrections Center
+* 💵Alex Davidson - The Associated Students of the University of Washington
 
-#### 0 👎 - Con
+#### 9 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Danielle Armbruster - Department of Corrections
+* Eric Jackson - Department of Corrections

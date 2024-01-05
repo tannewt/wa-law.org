@@ -1,11 +1,17 @@
 # Children's Advocacy Centers of Washington
 
-## [HB 1069](/bill/2023-24/hb/1069/) - Mental health counselor comp 👍1  
+## [HB 1021](/bill/2023-24/hb/1021/) - Social worker licensing 👍1  
 
-## [HB 1077](/bill/2023-24/hb/1077/) - Courthouse facility dogs 👍1  
+## [HB 1059](/bill/2023-24/hb/1059/) - Sexual exploitation/minors 👍1  
+
+## [HB 1069](/bill/2023-24/hb/1069/) - Mental health counselor comp 👍3  
+
+## [HB 1077](/bill/2023-24/hb/1077/) - Courthouse facility dogs 👍1  ❓1
+* ❓ Paula Reed
 * 👍 Paula Reed
 
-## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓2
+* ❓ Paula Reed
 * ❓ Paula Reed
 
 ## [HB 1165](/bill/2023-24/hb/1165/) - Intimate images/civil remedy 👍1  

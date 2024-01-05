@@ -36,7 +36,8 @@
 
 ## [HB 1701](/bill/2023-24/hb/1701/) - Institutional ed. programs   ❓1
 
-## [SB 5019](/bill/2023-24/sb/5019/) - School safety staff 👍2  
+## [SB 5019](/bill/2023-24/sb/5019/) - School safety staff 👍4  
+* 👍 Ellie Bridge
 * 👍💵 Terique Scott
 
 ## [SB 5065](/bill/2023-24/sb/5065/) - Bone marrow donation/schools 👍1  

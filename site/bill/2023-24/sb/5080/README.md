@@ -89,15 +89,47 @@ Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Thu 01/12 08:00 AM - Labor & Commerce (LC): SB 5080 Cannabis social equity
-#### 0 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* 💵Paula Sardinas - WA Build Back Black Alliance
+* City Council, Keith Blocker - [City of Tacoma](/org/city_of_tacoma/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Evan Briggs
 
 ### Tue 01/10 10:30 AM - Labor & Commerce (LC): SB 5080 Cannabis social equity
-#### 0 👍 - Pro
+#### 91 👍 - Pro
+Testifying:
+* Micah Sherman - Washington Sun and Craft Grower's Association (WSCA)
+* peter manning - Black Excellence in cannabis
+* Damian Mims - Black excellence in Cannabis
+* Mike Asai - Black Excellence In Cannabis
+* Council Member Keith Blocker - Tacoma City Council
+* Josh Warren - Emerald City Collective
+* Ricky Lee - Emerald City Collective
+* Justin Nordhorn - Washington State Liquor and Cannabis Board
+* Ollie Garrett - Washington State Liquor and Cannabis Board
+* Rebecca Smith - Washington State Liquor and Cannabis Board
+* Ahmed King - Black Excellence in Cannabis
+* Jonathan Gee
+* Tyler Conway
+* Derek Dukes
+* Albert Hunter - Black excellence in  Cannabis
+* jacq sutton - Black Excellence in Cannabis
+* Keith Blocker - Tacoma City Council
+* Burl Bryson
+* Samir Junejo - [City of Seattle](/org/city_of_seattle/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* john Worthington
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Adán Espino Jr - [Craft Cannabis Coalition](/org/craft_cannabis_coalition/)
+* 💵Vicki Christophersen - Washington CannaBusiness Association
+* DON SKAKIE - HOMEGROW WASHINGTON

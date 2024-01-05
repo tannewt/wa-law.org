@@ -8,8 +8,19 @@
 
 ## Meetings
 ### Thu 01/12 08:00 AM - Environment & Energy (ENVI): HB 1076 Salmon voluntary stewardship
-#### 0 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* 💵Brynn Brady - WA Association of Counties
 
-#### 0 👎 - Con
+#### 33 👎 - Con
+Testifying:
+* john Worthington - AAMC
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* Margen Carlson - WDFW
+* Tom McBride - WDFW
+* john Worthington
+* Lonnie Kirk - Chelan/Douglas Farm Bureau
+* Ron Shultz - WA State Conservation Commission
+* 💵Dan Wood - WA State Dairy Federation

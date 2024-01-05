@@ -1,8 +1,13 @@
 # The Mockingbird Society
 
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
+
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
 ## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
+* 👍 Danni Jo Bechtold
+
+## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
 * 👍 Danni Jo Bechtold
 
 ## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍1  
@@ -25,9 +30,13 @@
 
 ## [HB 1679](/bill/2023-24/hb/1679/) - Student homelessness group 👍1  
 
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
+* ❓ Charles Smith
+
 ## [SB 5124](/bill/2023-24/sb/5124/) - Nonrelative kin placement 👍1  
 
-## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍2  
+* 👍 Jo Bechtold
 * 👍 Jo Bechtold
 
 ## [SB 5230](/bill/2023-24/sb/5230/) - Extended foster care 👍3  
@@ -50,3 +59,6 @@
 * 👍 Sabian Hart
 
 ## [SB 5719](/bill/2023-24/sb/5719/) - Student homelessness group 👍1  
+
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
+* ❓ Charles Smith

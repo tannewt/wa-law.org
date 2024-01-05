@@ -8,6 +8,9 @@
 
 ## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍1  
 
+## [HB 1179](/bill/2023-24/hb/1179/) - Nonconviction data/auditor 👍2  
+* 👍 Leslie Cushman
+
 ## [HB 1333](/bill/2023-24/hb/1333/) - Domestic violent extremism 👍1  
 
 ## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits  👎5 
@@ -45,6 +48,8 @@
 * 👍 Leslie Cushman
 * 👍💵 Paul Benz
 * 👍 Martina Morris
+
+## [HB 2027](/bill/2023-24/hb/2027/) - Concerning certification, background checks, and training requirements for sheriffs, police chiefs, marshals, reserve officers, and volunteers. 👍1  
 
 ## [SB 5361](/bill/2023-24/sb/5361/) - Law enf. officers/increase  👎1 
 * 👎 Leslie Cushman

@@ -13,6 +13,22 @@
 * 04/04/2023 [The Center Square](/org/the_center_square/) - [Truckers undecided on Washington bill to toll new I-5 bridge | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0d4054a0-d314-11ed-b6fa-0b21fa27723a.html#:~:text=Senate%20Bill%205765)
 
 ## Meetings
+### Thu 04/13 12:30 PM - Transportation (TR): SB 5765 I-5 bridge tolling
+#### 18 👍 - Pro
+Testifying:
+* Amber Carte - Identity Clark County and the Port of Vancouver USA
+* Greg Johnson - Interstate Bridge Replacement Program
+* Anne McEnerny-Ogle - Mayor of Vancouver
+* 💵Mark Streuli - Iron Workers District Council of the Pacific Northwest - IMPACT
+
+#### 9 👎 - Con
+Testifying:
+* John Ley
+
+#### 1 ❓ - Other
+Testifying:
+* Dean Suhr - Vote Before Tolls Committee
+
 ### Thu 03/30 12:30 PM - Transportation (TRAN): SB 5765 I-5 bridge tolling
 #### 20 👍 - Pro
 Testifying:

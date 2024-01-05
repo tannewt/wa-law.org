@@ -2,6 +2,11 @@
 
 ## [HB 1032](/bill/2023-24/hb/1032/) - Wildfires/electric utilities 👍3  
 
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
+* 👍 Councilmember Jim Cooper
+
+## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
+
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍4  
@@ -66,14 +71,15 @@
 
 ## [HB 1817](/bill/2023-24/hb/1817/) - Housing gap voucher pilot 👍1  
 
-## [SB 5001](/bill/2023-24/sb/5001/) - Public facility districts 👍2  
+## [SB 5001](/bill/2023-24/sb/5001/) - Public facility districts 👍3  
+* 👍 Paul Simmons
 * 👍 Paul Simmons
 
 ## [SB 5039](/bill/2023-24/sb/5039/) - Wildfires/electric utilities 👍1  
 
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍2  
 
-## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍3  
+## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍4  
 
 ## [SB 5093](/bill/2023-24/sb/5093/) - Climate response strategy 👍2  
 
@@ -123,3 +129,5 @@
 * 👍 Mayor Pro Tem, Clark Gilman
 
 ## [SB 5741](/bill/2023-24/sb/5741/) - Housing gap voucher pilot 👍1  
+
+## [SJR 8201](/bill/2023-24/sjr/8201/) - Public works account 👍1  

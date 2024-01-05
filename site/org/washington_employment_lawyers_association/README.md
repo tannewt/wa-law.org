@@ -14,4 +14,8 @@
 * 👍 Lauren RIchardson-Berg
 * 👍 Jesse Wing
 
+## [SB 5061](/bill/2023-24/sb/5061/) - Personnel records 👍2  
+* 👍 Jesse Wing
+* 👍 Lauren Richardson-Berg
+
 ## [SB 5090](/bill/2023-24/sb/5090/) - Torts  👎1 

@@ -25,7 +25,7 @@ Testifying:
 #### 3 ❓ - Other
 
 ### Thu 02/02 08:00 AM - Human Services (HS): SB 5506 Behavior support homes
-#### 60 👍 - Pro
+#### 84 👍 - Pro
 Testifying:
 * ARZU FOROUGH - Washington Autism Alliance and parent of adult with IDD
 * Deborah Gill
@@ -33,13 +33,21 @@ Testifying:
 * Katrina Davis
 * Beth Florea
 * Josephina García
+* Dawn Sidell - parent and northwest autism center
+* ARZU FOROUGH - Washington Autism Alliance
+* Leslie Moon
+* Katie Omri - Washington Autism Alliance
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Krista Milhofer - People First of Washington
 
-#### 6 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Anita Hawks
 * 💵Noah Seidel - Office of Developmental Disabilities Ombuds
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * 💵Stacy Dym - The Arc of Washington Sate
 * 💵Diana Stadden - The Arc of WA State
+* Ivanova Smith - Self advocate
+* Lillian Gomez

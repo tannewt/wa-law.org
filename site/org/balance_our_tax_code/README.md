@@ -1,5 +1,7 @@
 # Balance Our Tax Code
 
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
+
 ## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
 * ❓ Amanda Kim
 

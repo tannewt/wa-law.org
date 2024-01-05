@@ -17,8 +17,10 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Thu 01/12 08:00 AM - Labor & Commerce (LC): SB 5089 Factory assembled structures
-#### 0 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* Tammy Fellin - Labor & Industries
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

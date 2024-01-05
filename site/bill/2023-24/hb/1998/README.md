@@ -10,3 +10,18 @@
 * 01/02/2024 [The Urbanist](/org/the_urbanist/) - [State Legislators Push for ‘Year of Housing 2.0’ - The Urbanist](https://www.theurbanist.org/2024/01/02/get-ready-for-the-year-of-housing-2-0/#:~:text=HB%201998)
 
 ## Meetings
+### Mon 01/08 01:30 PM - Housing (HOUS): HB 1998 Co-living housing
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31583&aId=156160&caId=22853&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31583&aId=156160&caId=22853&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31583&aId=156160&caId=22853&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31583&aId=156160&caId=22853&tId=4)
+
+#### 6 👍 - Pro
+Testifying:
+* 💵Ben Stuckart - [Spokane Low Income Housing Consortium](/org/spokane_low_income_housing_consortium/)
+* Cynthia Stewart
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

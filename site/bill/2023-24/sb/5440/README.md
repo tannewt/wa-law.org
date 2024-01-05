@@ -80,12 +80,12 @@ Testifying:
 * 💵Michael White - [King County](/org/king_county/)
 
 ### Thu 02/02 08:00 AM - Law & Justice (LAW): SB 5440 Competency evaluations
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Mike Yestramski - Washington Federation of State Employees, WFSE
 * Anne Tarlton - WFSE, Washington Federation of State Employees
 
-#### 26 👎 - Con
+#### 30 👎 - Con
 Testifying:
 * 💵Kimberly Mosolf - [Disability Rights Washington](/org/disability_rights_washington/)
 * Commissioner Rob Coffman - Washington State Association of Counties and Lincoln County
@@ -100,6 +100,8 @@ Testifying:
 * Gordon Hill - King County Department of Public Defense
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Greg Banks - Island County Prosecutor
+* Kari Reardon - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+* Amber Leaders - Office of the Governor
 
 #### 3 ❓ - Other
 Testifying:

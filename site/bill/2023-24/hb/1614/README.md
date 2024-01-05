@@ -28,7 +28,7 @@ Testifying:
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 
 ### Thu 02/02 08:00 AM - Regulated Substances & Gaming (RSG): HB 1614 Home cultivation of cannabis
-#### 89 👍 - Pro
+#### 98 👍 - Pro
 Testifying:
 * Antonio McAfee
 * Leslie La Duke Banionis
@@ -43,11 +43,14 @@ Testifying:
 * Joel Jensen
 * Eric Johnston - Patients and Users for Reasonable Policy
 * Arthur West
+* Branden Bond
+* Jim MacRae - Potential Consumer - testify by phone
 
-#### 6 👎 - Con
+#### 19 👎 - Con
 Testifying:
 * Joel Jensen
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
+* Linda Thompson - Washington Association for Substance Misuse and Violence Prevention (WASAVP)
 
 #### 1 ❓ - Other
 Testifying:

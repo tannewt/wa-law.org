@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1998/</link>
 		<description>Updates about HB 1998</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 02 Jan 2024 15:00:27 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 03 Jan 2024 09:35:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,22 @@
 			<pubDate>Tue, 02 Jan 2024 15:00:27 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.theurbanist.org/2024/01/02/get-ready-for-the-year-of-housing-2-0/#:~:text=HB%201998</guid>
+		</item>
+		<item>
+			<title>👍💵Ben Stuckart - Spokane Low Income Housing Consortium</title>
+			<description>Ben Stuckart signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/spokane_low_income_housing_consortium/&quot;&gt;Spokane Low Income Housing Consortium&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 03 Jan 2024 07:13:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ben/Stuckart/2024-01-03 07:13:12</guid>
+		</item>
+		<item>
+			<title>👍Cynthia Stewart - Spokane Low Income Housing Consortium</title>
+			<description>Cynthia Stewart signed up to testify Pro.</description>
+			<pubDate>Wed, 03 Jan 2024 09:35:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Cynthia/Stewart/2024-01-03 09:35:49</guid>
 		</item>
 	</channel>
 </rss>

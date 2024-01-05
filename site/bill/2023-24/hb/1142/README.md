@@ -9,7 +9,19 @@
 
 ## Meetings
 ### Wed 01/11 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1142 Tenure-track faculty
-#### 0 👍 - Pro
+#### 18 👍 - Pro
+Testifying:
+* Amanda Kost - University of Washington Faculty
+* Jacob Vigdor - University of Washington Faculty
+* Sam Ligon - Eastern Washington University Faculty
+* 💵Carolyn Brotherton - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* 💵Nora Selander - Western Washington University
+* Amy Hagopian - American Association of University Professors, UW Chapter
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* Bill Lyne - United Faculty of Washington State
+* David Shapiro - AFT Washington - Cascadia COllege Federation of Teachers Local 6191
+* Kip Zwolenski - AFT Washington - Yakima Valley College Federation of Teachers Local 4985
+* Michele Jones - AFT Washington - Clover Park Vocational Federattion Local 3913
 
 #### 0 👎 - Con
 

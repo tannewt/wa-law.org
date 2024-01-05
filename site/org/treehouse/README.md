@@ -4,7 +4,8 @@
 
 ## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍1  
 
-## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍2  
+* 👍 Lynda Hall
 * 👍 Lynda Hall
 
 ## [HB 1188](/bill/2023-24/hb/1188/) - Child welfare services/DD 👍4  
@@ -42,7 +43,8 @@
 
 ## [SB 5174](/bill/2023-24/sb/5174/) - Student transportation 👍1  
 
-## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍2  
+* 👍 Lynda Hall
 * 👍 Lynda Hall
 
 ## [SB 5230](/bill/2023-24/sb/5230/) - Extended foster care   ❓1

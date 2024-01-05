@@ -1,5 +1,14 @@
 # Futurewise
 
+## [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review   ❓1
+
+## [HB 1042](/bill/2023-24/hb/1042/) - Use of existing buildings 👍1  
+
+## [HB 1046](/bill/2023-24/hb/1046/) - Housing dev. income limits 👍1  
+
+## [HB 1078](/bill/2023-24/hb/1078/) - Urban forest management   ❓1
+* ❓💵 Bryce Yadon
+
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍9  
 * 👍💵 Bryce Yadon
 
@@ -33,6 +42,13 @@
 
 ## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services 👍1  
 
+## [SB 5027](/bill/2023-24/sb/5027/) - American dream homes  👎1 
+* 👎💵 Bryce Yadon
+
+## [SB 5039](/bill/2023-24/sb/5039/) - Wildfires/electric utilities 👍1  
+
+## [SB 5060](/bill/2023-24/sb/5060/) - Rental & vacant properties 👍1  
+
 ## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍1  
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍5  
@@ -52,7 +68,11 @@
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍1  
 * 👍💵 Bryce Yadon
 
-## [SB 5457](/bill/2023-24/sb/5457/) - Small cities/GMA 👍1  
+## [SB 5456](/bill/2023-24/sb/5456/) - Minimum parking requirements 👍1  
+* 👍💵 Bryce Yadon
+
+## [SB 5457](/bill/2023-24/sb/5457/) - Small cities/GMA 👍2  
+* 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍6  

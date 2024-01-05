@@ -119,8 +119,75 @@ Testifying:
 * Rob Wotton - City of Snoqualmie, Councilmember
 
 ### Thu 01/12 04:00 PM - Transportation (TR): HB 1125 Transportation budget
-#### 0 👍 - Pro
+#### 24 👍 - Pro
+Testifying:
+* 💵Jane Wall - County Road Administration Board
+* Heidi Sickler - bp pulse fleet
+* 💵Noelani Derrickson - [Tesla](/org/tesla/)
+* Tracey Whitten - City of Seattle Office of Sustainability and Environment
+* Andrea Pratt - Volvo Group North America
+* Kevin Maggay - Navistar
+* 💵Michael White - [King County](/org/king_county/)
+* Dawit Habte - Afar Trucking Inc., African Chamber of Commerce of the Pacific Northwest
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* 💵Michael Mann - Clean & Prosperous Washington
+* Orville Thomas - CALSTART
+* DON Schwerin
+* 💵Cristina Mateo
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* 💵Axel Swanson - Washington State Association of County Engineers
+* Genesee Adkins - [City of Bellevue](/org/city_of_bellevue/)
+* Brandy DeLange - Assoc. of Washington Cities
+* Colin Lay - Kenworth
+* Preston Dwoskin
 
-#### 0 👎 - Con
+#### 15 👎 - Con
+Testifying:
+* Katherine Ross - City of Snoqualmie
+* Dawn Sonntag - Stop the Airport
+* 💵Michael Transue - Tacoma Pierce County Chamber, City of Fife
+* Diana Wilhite
 
-#### 0 ❓ - Other
+#### 47 ❓ - Other
+Testifying:
+* Mary Paterson
+* Lael White - Climate Rail Alliance
+* Lael White - Climate Rail Alliance
+* Angela Birney - Mayor of Redmond
+* Thomas White
+* Commissioner Dick Marzano - [The Northwest Seaport Alliance](/org/the_northwest_seaport_alliance/)
+* Bill Moyer - Solutionary Rail
+* Chairman Ron Allen - James Town S'Klallam Tribe
+* David Garlington - [City of Sequim](/org/city_of_sequim/)
+* Mark Ozias - Clallam County Commissioner
+* 💵Debora Munguia - Mason County
+* Bill Adamson - South Sound Military & Communities Partnership Program Manager
+* David Troutt - Nisqually Indian Tribe, Natural Resources Director
+* Marc Daily - Thurston Regional Planning Council, Executive Director
+* Josh Deikmann - [City of Tacoma](/org/city_of_tacoma/)
+* Arvia Morris
+* Edna Shim - Seattle Children's' Hospital
+* Greg Johnson - Wright Runstad & Co
+* 💵Jodie Alberts - [Bellevue Chamber of Commerce](/org/bellevue_chamber_of_commerce/)
+* Kristina Hudson - One Redmond
+* Samantha St. John - Kirkland Chamber of Commerce
+* Edna Shim - Seattle Children's' Hospital
+* Amber Waldref - Spokane County Commissioners Office
+* 💵Cheryl Stewart - Inland Northwest Associated General Contractors
+* Jesse Bank - Northeast Public Development Authority
+* Nadine Woodward - Office of the Mayor of the City of Spokane
+* Brent McFarlane
+* Lacey Jane Wolfe - City of Bellevue, Assistant Director of Intergovernment Relations
+* Tim Gould
+* Licett Garbe - Greater Spokane Valley Chamber of Commerce
+* Sharon Abreu - Executive Director, Irthlingz Arts-Based Environmental Education
+* Jerry VanderWood - Associated General Contractors (AGC)
+* Mike Ennis - AWB
+* 💵Sheri Call - [Washington Trucking Association](/org/washington_trucking_association/)
+* Mayor Geoffery Thomas - [City of Monroe](/org/city_of_monroe/)
+* Ben Lane - Fire Chief, Eastside Fire & Rescue
+* Sean Kelly - Mayor, City of Maple Valley
+* Stanford Le - CEO and President, Snoqualmie Casino
+* Bobby Whittaker
+* Breean Beggs - Spokane City Council President
+* Mariya Frost - Kemper Development Company

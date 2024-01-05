@@ -3,7 +3,11 @@
 ## [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1
 * ❓💵 Traci Underwood
 
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
+
 ## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍2  
+
+## [HB 1095](/bill/2023-24/hb/1095/) - Wage replacement 👍1  
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
 
@@ -12,7 +16,13 @@
 ## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
 * ❓💵 Carolyn Brotherton
 
+## [HB 1142](/bill/2023-24/hb/1142/) - Tenure-track faculty 👍1  
+* 👍💵 Carolyn Brotherton
+
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
+
+## [HB 1158](/bill/2023-24/hb/1158/) - Advisory votes 👍1  
+* 👍💵 Carolyn Brotherton
 
 ## [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board 👍1  
 

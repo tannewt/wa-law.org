@@ -23,8 +23,13 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Thu 01/12 10:30 AM - Health & Long Term Care (HLTC): SB 5036 Audio-only telemedicine
-#### 0 👍 - Pro
+#### 36 👍 - Pro
+Testifying:
+* 💵Carrie Tellefson - Teladoc Health
+* Marissa Ingalls - Coordinated Care
+* 💵Sean Graham - WA State Medical Assn
+* Lucy Laube - [National Psoriasis Foundation](/org/national_psoriasis_foundation/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

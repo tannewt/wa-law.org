@@ -8,9 +8,22 @@
 
 ## Meetings
 ### Thu 02/02 08:00 AM - Regulated Substances & Gaming (RSG): HB 1642 Cannabis concentrates
-#### 1 👍 - Pro
+#### 18 👍 - Pro
+Testifying:
+* 💵Avanti Bergquist
+* 💵Avanti Bergquist - The Washington State Psychiatric Association (WSPA)
+* Beatriz Carlini - Alcohol and Drug Abuse Institute, University of Washington
+* Beth Ebel
+* Don Danielson
+* Erika Danielson
+* Will Jones III
+* Jordan Davidson - Smart Approaches to Marijuana (SAM)
+* Linda Thompson - WASAVP
+* Mary Maas
+* Phoebe Terhaar - Forefront Suicide Prevention
+* Veronica Munro
 
-#### 75 👎 - Con
+#### 108 👎 - Con
 Testifying:
 * 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
 * Drew Davis - Mountain hi
@@ -21,7 +34,13 @@ Testifying:
 * 💵Vicki Christophersen - Washington CannaBusiness Association
 * 💵Vicki Christophersen - Washington CannaBusiness Association
 * Bethany Rondeaux
+* Calvin Christoph
+* Andy Brassington - Evergreen Herbal
 * Matt Jones
+* Burl Bryson - The Cannabis Alliance
+* Bailey Hirschburg - WA National Org for the Reform of Marijuana Laws
 * Arthur West
+* Branden Bond
+* Jim MacRae - Potential Consumer - testify by phone
 
 #### 1 ❓ - Other

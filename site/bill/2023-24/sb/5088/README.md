@@ -17,7 +17,9 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Thu 01/12 08:00 AM - Labor & Commerce (LC): SB 5088 Contractor registration
-#### 0 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Tammy Fellin - Labor & Industries
 
 #### 0 👎 - Con
 

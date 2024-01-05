@@ -8,20 +8,27 @@
 
 ## Meetings
 ### Thu 02/02 01:30 PM - Capital Budget (CB): HB 1342 Embodied carbon reductions
-#### 40 👍 - Pro
+#### 51 👍 - Pro
 Testifying:
 * Matthew Hinck - CalPortland Company
 * Rachael Jamison - [American Wood Council](/org/american_wood_council/)
 * Alex Ianchenko - AIA Washington Council, Architects and Engineers Legislative Council
+* 💵Christine Brewer - [Associated General Contractors of Washington](/org/associated_general_contractors_of_washington/)
+* 💵Bruce Chattin - WA Aggregates & Concrete assn
+* Tom Davis - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 
-#### 12 👎 - Con
+#### 25 👎 - Con
 Testifying:
 * Patrick Jablonski - [Nucor Steel Seattle Inc](/org/nucor_steel_seattle_inc/)
 * John Cross - American Institute of Steel Construction
 * 💵Jessica Koski - BlueGreen Alliance
 * 💵Heather Kurtenbach - Political Director, Iron Workers Local #86
+* 💵Mark Riker - Washington State Building & Construction Trades Council
+* Ed Chadd
 
-#### 3 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Bill Frare - Washington State Department of Enterprise Services
 * Hanna Waterstrat - Department of Commerce
+* 💵Darcy Nonemacher - [Washington Conservation Action](/org/washington_conservation_action/)
+* Kate Simonen - Carbon Leadership Forum, University of Washington

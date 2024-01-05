@@ -63,13 +63,33 @@ Testifying:
 #### 5 ❓ - Other
 
 ### Mon 04/10 12:30 PM - Ways & Means (WM): SB 5768 DOC/abortion medications
-#### 384 👍 - Pro
+#### 805 👍 - Pro
+Testifying:
+* Mercedes Sanchez - [Cedar River Clinics](/org/cedar_river_clinics/)
+* 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
+* 💵Madeline Bishop
+* Jody Disney - LWVWA
+* Cheryl Strange - Department of Corrections
+* Micah Matthews - Washington Medical Commission
+* Molly Voris - Office of Governor Jay Inslee
 
-#### 1450 👎 - Con
+#### 1800 👎 - Con
 Testifying:
 * Rebecca Anderson - Rebecca Anderson
 * Laurie Layne
 * Patti Whitmarsh
 * Judie Williams
+* Veneta Kearns - Teacher
+* Beth Daranciang
+* 💵Mario Villanueva - Washington State Catholic Conference
+* Theresa Schrempp
+* 💵Brad Payne - Family Policy Institute of Washington
+* Pastor David Sellstrom - The Remnant Church
+* Pastor Ken Ramey - Family Policy Institute of Washington
+* Sandy Rozumny
+* Maxine Johnson
+* Erling K Selstad
+* christopher pettit - Church in the Woods
+* Evan Coleman
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

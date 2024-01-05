@@ -1,5 +1,7 @@
 # Washington Water Policy Alliance
 
+## [HB 1138](/bill/2023-24/hb/1138/) - Drought preparedness 👍1  
+
 ## [HB 1322](/bill/2023-24/hb/1322/) - Walla Walla water 2050 plan 👍1  
 
 ## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation 👍1  

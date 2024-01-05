@@ -6,4 +6,6 @@
 
 ## [HB 1693](/bill/2023-24/hb/1693/) - Student homelessness pilot 👍1  
 
+## [SB 5079](/bill/2023-24/sb/5079/) - Tuition establishment date 👍1  
+
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  

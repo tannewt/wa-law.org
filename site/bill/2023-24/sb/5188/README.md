@@ -8,8 +8,14 @@
 
 ## Meetings
 ### Tue 01/10 04:00 PM - Ways & Means (WM): SB 5188 Operating budget, supp.
-#### 0 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* Dr. Scott Phillips - [Washington Poison Center](/org/washington_poison_center/)
+* Adam Ballout - FIRST Legal Clinic
+* Jennifer Justice - FIRST Clinic
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jessica Renner - Self Advocates in Leadership (SAIL)

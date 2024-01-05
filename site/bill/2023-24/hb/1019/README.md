@@ -27,8 +27,20 @@ Testifying:
 * Tanea Stephens - Raptors Are The Solution
 
 ### Fri 01/13 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1019 Pesticide advisory board
-#### 0 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* Jeff Keller - Western Wood Producers Institute
+* Ben Buchholz - WA Friends of Farms and Forests
+* Billy Olesen - Washington State Pest Management Association
+* Larry Treleven
+* Randy Moffat - Washington State Pest Management Association
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Kelly McLain - Washington State Department of Agriculture
+* Joe Crumbley - Tilth Alliance CORA
+* Lauren Jenks - Washington State Department of Health
+* 💵Antonio Ginatta - [Columbia Legal Services](/org/columbia_legal_services/)
+* 💵Christopher Finarelli - The Household & Commercial Products Association (HCPA)

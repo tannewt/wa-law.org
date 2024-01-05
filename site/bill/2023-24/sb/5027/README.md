@@ -12,8 +12,17 @@
 
 ## Meetings
 ### Wed 01/11 01:30 PM - Housing (HSG): SB 5027 American dream homes
-#### 0 👍 - Pro
+#### 76 👍 - Pro
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 0 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Raelene Schifano
+* Dave Andersen - Washington Department of Commerce
+* Stacey Valenzuela

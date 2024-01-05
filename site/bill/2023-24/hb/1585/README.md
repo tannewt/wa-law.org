@@ -7,6 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/09 08:00 AM - Finance (FIN): HB 1585 Local infra. project areas
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31506&aId=155905&caId=22839&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31506&aId=155905&caId=22839&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31506&aId=155905&caId=22839&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31506&aId=155905&caId=22839&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/16 01:30 PM - Finance (FIN): HB 1585 Local infra. project areas
 #### 6 👍 - Pro
 Testifying:

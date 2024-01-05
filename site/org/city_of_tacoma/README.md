@@ -1,10 +1,17 @@
 # City of Tacoma
 
-## [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍1  
+## [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍2  
 
 ## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍1  
 
-## [HB 1069](/bill/2023-24/hb/1069/) - Mental health counselor comp 👍1  
+## [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review   ❓1
+
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
+* 👍 Victoria Woodards
+
+## [HB 1069](/bill/2023-24/hb/1069/) - Mental health counselor comp 👍2  
+
+## [HB 1078](/bill/2023-24/hb/1078/) - Urban forest management   ❓1
 
 ## [HB 1087](/bill/2023-24/hb/1087/) - Solitary confinement 👍1  
 
@@ -12,11 +19,16 @@
 
 ## [HB 1099](/bill/2023-24/hb/1099/) - Public works wages   ❓1
 
+## [HB 1105](/bill/2023-24/hb/1105/) - Public comment notice   ❓1
+
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  ❓1
 * ❓ John Hines
 
 ## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍2  
 * 👍💵 Briahna Murray
+
+## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget   ❓1
+* ❓ Josh Deikmann
 
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍2  
 * 👍 Preston Peck
@@ -74,8 +86,11 @@
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎2 
 
-## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍2  
+## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍3  
+* 👍 City Council, Keith Blocker
 * 👍 Keith Blocker Tacoma City Council
+
+## [SB 5118](/bill/2023-24/sb/5118/) - Multifamily property tax ex.   ❓1
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 

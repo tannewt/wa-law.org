@@ -94,7 +94,14 @@ Testifying:
 * Linda Parlette
 
 ### Thu 01/12 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5001 Public facility districts
-#### 0 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Jerrilea Crawford - City of East Wenatchee
+* Kevin Overbay - Chelan County Commission
+* 💵Blake Baldwin - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
+* Jim Kuntz - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
+* Paul Simmons - [City of Olympia](/org/city_of_olympia/)
+* Frank Kuntz - City of Wenatchee
 
 #### 0 👎 - Con
 

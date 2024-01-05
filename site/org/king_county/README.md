@@ -1,14 +1,31 @@
 # King County
 
-## [HB 1010](/bill/2023-24/hb/1010/) - Shellfish sanitary control 👍2  
+## [HB 1006](/bill/2023-24/hb/1006/) - Drug testing equipment 👍1  
+* 👍 Bradley Finegood
+
+## [HB 1010](/bill/2023-24/hb/1010/) - Shellfish sanitary control 👍3  
 
 ## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 
+## [HB 1019](/bill/2023-24/hb/1019/) - Pesticide advisory board  👎1 
+
+## [HB 1021](/bill/2023-24/hb/1021/) - Social worker licensing 👍1  
+
 ## [HB 1022](/bill/2023-24/hb/1022/) - Support & services levies 👍1  
+
+## [HB 1027](/bill/2023-24/hb/1027/) - Audio-only telemedicine 👍1  
+
+## [HB 1032](/bill/2023-24/hb/1032/) - Wildfires/electric utilities 👍1  
+
+## [HB 1033](/bill/2023-24/hb/1033/) - Compostable product usage 👍1  
 
 ## [HB 1035](/bill/2023-24/hb/1035/) - Health care restrictions 👍1  
 
+## [HB 1041](/bill/2023-24/hb/1041/) - Prescribing psychologists 👍1  
+
 ## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals 👍1  
+
+## [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act 👍1  
 
 ## [HB 1050](/bill/2023-24/hb/1050/) - Apprenticeship utilization 👍3  
 
@@ -16,13 +33,17 @@
 
 ## [HB 1056](/bill/2023-24/hb/1056/) - Postretirement employment 👍2  
 
+## [HB 1069](/bill/2023-24/hb/1069/) - Mental health counselor comp 👍1  
+
 ## [HB 1073](/bill/2023-24/hb/1073/) - Medical assistants 👍1  
 
 ## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 
-## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍2  
+## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍3  
 
 ## [HB 1086](/bill/2023-24/hb/1086/) - Community org. contracts 👍1  
+
+## [HB 1087](/bill/2023-24/hb/1087/) - Solitary confinement   ❓1
 
 ## [HB 1089](/bill/2023-24/hb/1089/) - Sex trafficking 👍1  
 
@@ -34,6 +55,11 @@
 * 👍💵 Michael White
 
 ## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍1  
+
+## [HB 1124](/bill/2023-24/hb/1124/) - Residential rent and fees 👍1  
+
+## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget 👍1  
+* 👍💵 Michael White
 
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍2  
 * 👍 Pat McLaughlin
@@ -48,8 +74,11 @@
 
 ## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍1  
 
-## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
+## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  ❓1
+* ❓💵 Michael White
 * 👍💵 Michael White
+
+## [HB 1149](/bill/2023-24/hb/1149/) - Housing/capital expenditures 👍1  
 
 ## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍3  
 
@@ -158,6 +187,8 @@
 ## [HB 1413](/bill/2023-24/hb/1413/) - Flexible work/peace officers 👍1  
 
 ## [HB 1414](/bill/2023-24/hb/1414/) - RTA vehicle removal 👍1  
+
+## [HB 1422](/bill/2023-24/hb/1422/) - Reusable packing materials 👍1  
 
 ## [HB 1425](/bill/2023-24/hb/1425/) - Municipal annexations 👍2  
 * 👍 Karen Meyering
@@ -289,13 +320,19 @@
 * ❓ Brad Finegood
 * 👍 Bradley Finegood
 
+## [SB 5036](/bill/2023-24/sb/5036/) - Audio-only telemedicine 👍1  
+
+## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍1  
+
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍1  
+
+## [SB 5061](/bill/2023-24/sb/5061/) - Personnel records 👍1  
 
 ## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍4  
 
 ## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍2  
 
-## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍3  
+## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍4  
 
 ## [SB 5087](/bill/2023-24/sb/5087/) - Defects and omissions 👍2  
 
@@ -313,13 +350,16 @@
 
 ## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍2  
 
-## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍4  
+## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍5  
+* 👍 Leo Flor
 * 👍 Sarah Perry
 
 ## [SB 5128](/bill/2023-24/sb/5128/) - Jury diversity 👍1  
 
 ## [SB 5130](/bill/2023-24/sb/5130/) - Assisted outpatient treat. 👍4  
 * 👍💵 Michael White
+
+## [SB 5133](/bill/2023-24/sb/5133/) - Responsible bidder criteria 👍1  
 
 ## [SB 5142](/bill/2023-24/sb/5142/) - HIV medication rebate rev. 👍3  
 
@@ -532,3 +572,5 @@
 ## [SB 5719](/bill/2023-24/sb/5719/) - Student homelessness group 👍1  
 
 ## [SB 5729](/bill/2023-24/sb/5729/) - Insulin cost-sharing cap 👍2  
+
+## [SJR 8201](/bill/2023-24/sjr/8201/) - Public works account 👍1  

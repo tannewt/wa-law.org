@@ -8,8 +8,16 @@
 
 ## Meetings
 ### Tue 01/10 04:00 PM - Regulated Substances & Gaming (RSG): HB 1083 Cannabis retailer payments
-#### 0 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Amber Vaughn - Terpene Transit
+* Michael Block - LeafLink
+* 💵Brooke Davies - Washington CannaBusiness Association
+* Bethany Rondeaux - Falcanna
 
-#### 0 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* Micah Sherman - Washington Sun and Craft Growers Association (WSCA)
+* Burl Bryson - The Cannabis Alliance
 
 #### 0 ❓ - Other

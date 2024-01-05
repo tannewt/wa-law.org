@@ -28,6 +28,10 @@
 
 ## [HB 1591](/bill/2023-24/hb/1591/) - Open adoption agreements 👍1  
 
+## [SB 5028](/bill/2023-24/sb/5028/) - Name changes 👍1  
+
+## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍1  
+
 ## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍1  
 
 ## [SB 5124](/bill/2023-24/sb/5124/) - Nonrelative kin placement 👍2  

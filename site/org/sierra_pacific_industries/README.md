@@ -1,5 +1,9 @@
 # Sierra Pacific Industries
 
+## [HB 1018](/bill/2023-24/hb/1018/) - Hog fuel/tax exemption 👍1  
+
+## [HB 1019](/bill/2023-24/hb/1019/) - Pesticide advisory board 👍1  
+
 ## [HB 1068](/bill/2023-24/hb/1068/) - Injured worker medical exams  👎1 
 
 ## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials  👎2 

@@ -54,7 +54,7 @@ Testifying:
 * Tim Jones
 
 ### Thu 02/02 08:00 AM - Law & Justice (LAW): SB 5232 Firearms/purchase & transfer
-#### 810 👍 - Pro
+#### 912 👍 - Pro
 Testifying:
 * Donnitta Sinclair
 * Lisa Herbold - [City of Seattle](/org/city_of_seattle/)
@@ -63,7 +63,7 @@ Testifying:
 * Gwen Loosmore - Washington State PTA
 * Karyn Brownson - King County Public Health
 
-#### 2260 👎 - Con
+#### 2676 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Emily Smith
@@ -77,5 +77,13 @@ Testifying:
 * Eric Pratt - I, America
 * Matthew Page
 * Sean Yunt
+* Brian Colclough - Black Gun Owners of America
+* Brian Lynn - Sportsmen's Alliance
+* Paula Hazen
+* 💵Aoibheann Cline - [National Rifle Association](/org/national_rifle_association_of_america/)
+* Dan Mitchell - WA Civil Rights Association
+* John Nowels - Spokane County Sheriff
+* Teo Morca
+* Richard Grunewald
 
 #### 0 ❓ - Other

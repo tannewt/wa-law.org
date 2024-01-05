@@ -3,7 +3,8 @@
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 * 👍💵 Jesse Piedfort
 
-## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
+## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍2  
+* 👍 Dylan Plummer
 
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
 

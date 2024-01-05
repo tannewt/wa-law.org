@@ -185,36 +185,139 @@ Testifying:
 * Tom Kollasch
 
 ### Thu 01/12 04:00 PM - Ways & Means (WM): SB 5200: All other. (Remote Testimony Available).
-#### 0 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* Kathryn Gardow - [Public Works Board](/org/public_works_board/)
+* Dani Madrone - American Farmland Trust
+* Wes Jessup - Northwest Museum of Arts and Culture
+* 💵Gary Rowe - Washington State Public Works Board
+* Harald Hyllseth - Chief Seattle Club/Communities of Concern Commission
+* Josephine Tamayo Murray - Communities of Concern Commission
+* Pastor Carey Anderson - FAME Church/Communities of Concern Commission
+* Mary Hall - Thurston County Auditor
+* 💵Kelly Hall
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Chris Maykut - Friends Of Bumping Lake
+* john Worthington
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Andra Kranzler - Tenant Law Center
+* Adrienne Mason - Children's Home Society of Washington
+* Jason Keen - Children's Home Society of Washington
+* AyeNay Abye - [Tubman Center for Health and Freedom](/org/tubman_center_for_health_and_freedom/)
 
 ### Thu 01/12 04:00 PM - Ways & Means (WM): SB 5200: Higher education.  (Remote Testimony Available).
-#### 0 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Chris Bailey - Lower Columbia Community College
+* Darrell Jennings - State Board for Community and Technical Colleges
+* Rebekah Woods - Columbia Basin Community College
+* 💵Morgan Hickel - [University of Washington](/org/university_of_washington/)
+* 💵Nora Selander - Western Washington University
+* Steve DuPont - [Central Washington University](/org/central_washington_university/)
+* David Buri
+* Sandy Kaiser - The Evergreen State College
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Connor Haggerty - Washington State University
 
 ### Thu 01/12 04:00 PM - Ways & Means (WM): SB 5200: Human services. (Remote Testimony Available).
-#### 0 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* 💵Erica Hallock
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* Linda Grant - [Evergreen Recovery Centers](/org/evergreen_recovery_centers/)
+* Maureen Sorenson - Coordinated Care
+* Susan Foster-Dow - Catholic Charities Eastern Washington
+* Tasha Irvine - Principle Allies
+* 💵Ian Goodhew - UW Medicine
+* Andrew Lyons
+* Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* 💵John Seng - [Spark Northwest](/org/spark_northwest/)
+* Steve Gelb - Emerald Cities
+* Amy King - CEO, Pallet/Weld
+* Trudy Soucoup - Homes First
+* Emily Thompson - Coalition For Affordable Housing Development
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 10 ❓ - Other
+Testifying:
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Shawn Latham - Allies in Advocacy
+* Peter Shapiro
+* kimberly Ellefson
+* Amanda DeShazo - Tacoma-Pierce County Affordable Housing Consortium
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* MARK SMITH - Housing Consortium of Everett & Snohomish County
+* 💵Leslie Emerick - WA Sate Hospice and Palliative Care Organization and Home Care Association of WA
+* 💵Jason Gauthier - South Sound Housing Affordability Partners
+* Fawn Schott - Volunteers of America
 
 ### Thu 01/12 04:00 PM - Ways & Means (WM): SB 5200: K-12 public schools. (Remote Testimony Available).
-#### 0 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* Council-Lady Esther Moses-Hyipeer - Yakama Nation
+* Councilman Jeremy Takala - Yakama Nation
+* Jim Kowalkowski - Rural Education Center
+* Tyler Muench - Office of Superintendent of Public Instruction
+* Rebecca Medendorp - Washington State PTA
+* Russ Pfeiffer-Hoyt - Washington State School Directors' Association (WSSDA)
+* Brian Freeman - Eastern WA Quality Schools Coalition
+* Michael Olsen - Kettle Falls School District
+* Chad Prewitt - Davenport School District
+* Steve Jantz - Keller School District
+* Jason Perrins - Chewelah SD
+* 💵Mitch Denning - WA Assn of Maintenance and Operation Administrators
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Jennifer Heine-Withee - WA Parents' Rights in Education
+* Keith Adams Keith Adams - Family Policy Institute of Washington
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Commissioner Kristin Ang - [Port of Tacoma](/org/port_of_tacoma/)
 
 ### Thu 01/12 04:00 PM - Ways & Means (WM): SB 5200: Natural resources. (Remote Testimony Available).
-#### 0 👍 - Pro
+#### 15 👍 - Pro
+Testifying:
+* Lucas Hall - Long Live the Kings
+* Lisa Pelly - [Trout Unlimited](/org/trout_unlimited/)
+* Phil Rigdon - Yakama Nation
+* Urban Eberhart - [Kittitas Reclamation District](/org/kittitas_reclamation_district/)
+* David Blodgett - Yakama Nation
+* Mitsu Iwasaki - [The Trust for Public Land](/org/the_trust_for_public_land/)
+* Amanda McKinney - Yakima County
+* Dave Johnson - Washington Recreation & Park Association
+* Vanessa Kritzer - [Washington Association of Land Trusts](/org/washington_association_of_land_trusts/)
+* Quinault Vice Pres Fawn Sharp - [Quinault Indian Nation](/org/quinault_indian_nation/)
+* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Dave Herrera - Skokomish Tribe, Puget Sound Salmon Recovery Council
+* Mara Zimmerman - Coast Salmon Partnership
+* Mindy Roberts - Washington Conservation Action, Puget Sound Salmon Recovery Council
+* Tom Salzer - [Washington Association of Conservation Districts](/org/washington_association_of_conservation_districts/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* David Ortman - ALPS; FOBL; LCBAS; MidFORC; NCCC; SLK; WW
 
-#### 0 ❓ - Other
+#### 11 ❓ - Other
+Testifying:
+* Brian Shay - City of Hoquiam, City Administrator
+* Jay Gordon - Chehalis Basin Board Member
+* 💵Lynnette Buffington - Greater Grays Harbor, CEO
+* Ruth Clemens - City of Aberdeen, City Administrator
+* Andres Guerrero-Guzman - Climbers of Color
+* 💵Christine Mahler - Washington Wildlife and Recreation Coaliton
+* 💵Jason Spadaro - Washington Forest Protection Agency
+* Dan Wilson (with WWRC panel) - Backcountry Hunters and Anglers (with WWRC panel)
+* Jasmine Zimmer-Stucky - Lower Columbia Estuary Partnership
+* Scott Richards - [The Nature Conservancy](/org/the_nature_conservancy/)
+* Larry Leveen - ForeverGreen Trails

@@ -19,7 +19,13 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Tue 01/10 04:00 PM - Regulated Substances & Gaming (RSG): HB 1182 Wine/alcohol tax exemption
-#### 0 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* Paul Beveridge - Family Wineries of Washington State
+* Perry Preston - Stina's Cellars
+* Sandi Moreno - Leony's Cellars
+* Tom Wark - [National Association of Wine Retailers](/org/national_association_of_wine_retailers/)
+* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 
 #### 0 👎 - Con
 

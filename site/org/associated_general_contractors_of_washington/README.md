@@ -1,6 +1,14 @@
 # Associated General Contractors of Washington
 
-## [HB 1068](/bill/2023-24/hb/1068/) - Injured worker medical exams  👎1 
+## [HB 1068](/bill/2023-24/hb/1068/) - Injured worker medical exams  👎2 
+
+## [HB 1095](/bill/2023-24/hb/1095/) - Wage replacement  👎1 
+
+## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials  👎1 
+* 👎💵 Christine Brewer
+
+## [HB 1342](/bill/2023-24/hb/1342/) - Embodied carbon reductions 👍1  
+* 👍💵 Christine Brewer
 
 ## [HB 1521](/bill/2023-24/hb/1521/) - Industrial insurance/duties  👎2 
 
@@ -29,3 +37,6 @@
 ## [SB 5524](/bill/2023-24/sb/5524/) - Industrial insurance/duties  👎1 
 
 ## [SB 5528](/bill/2023-24/sb/5528/) - Construction retainage 👍1  
+
+## [SJR 8201](/bill/2023-24/sjr/8201/) - Public works account 👍1  
+* 👍💵 Jerry Vanderwood

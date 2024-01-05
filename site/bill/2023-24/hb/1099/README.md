@@ -26,8 +26,21 @@ Testifying:
 * 💵Christine Brewer - The Associated General Contractors of Washington
 
 ### Wed 01/11 08:00 AM - Labor & Workplace Standards (LAWS): HB 1099 Public works wages
-#### 0 👍 - Pro
+#### 38 👍 - Pro
+Testifying:
+* 💵Mark Streuli - Iron Workers District Council of the PNW
+* 💵Mark Riker - Washington State Building & Construction Trades Council
+* Josh Swanson - Operating Engineers L 302
+* Andrew Vander Stoep - Ibew 191
 
-#### 0 👎 - Con
+#### 12 👎 - Con
+Testifying:
+* 💵Sophia Steele - Associated Builders and Contractors
+* Jerry VanderWood - Associated General Contractors (AGC)
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Tammy Fellin - Labor & Industries
+* 💵Axel Swanson - WA State Assoc. of County Engineers
+* Brandy DeLange - Assoc. of Washington Cities
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)

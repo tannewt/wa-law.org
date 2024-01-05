@@ -6,15 +6,24 @@
 
 ## [HB 1032](/bill/2023-24/hb/1032/) - Wildfires/electric utilities 👍1  
 
+## [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act 👍1  
+
+## [HB 1078](/bill/2023-24/hb/1078/) - Urban forest management   ❓1
+* ❓ Joshua Rubenstein
+
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍1  
 
 ## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
 * 👍 Darcy Batura
 
-## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
+## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  ❓1
+* ❓ Scott Richards
 * 👍 Scott Richards
 
-## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍4  
+## [HB 1158](/bill/2023-24/hb/1158/) - Advisory votes 👍1  
+
+## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍5  
+* 👍💵 Justin Allegro
 * 👍 justin allegro
 * 👍 Scott Richards
 
@@ -70,7 +79,7 @@
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1  
 * 👍💵 Justin Allegro
 
-## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
+## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍2  
 
 ## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍3  
 
@@ -88,7 +97,8 @@
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
 * ❓ Darcy Batura
 
-## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
+## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  ❓1
+* ❓ Scott Richards
 * 👍 Scott Richards
 
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍1  

@@ -26,8 +26,15 @@ Testifying:
 * 💵Maxford Nelsen - [Freedom Foundation](/org/freedom_foundation/)
 
 ### Fri 01/13 10:30 AM - Labor & Workplace Standards (LAWS): HB 1122 WMS bargaining
-#### 0 👍 - Pro
+#### 51 👍 - Pro
+Testifying:
+* Dennis Simmons - Teamsters Local 117
+* Heidi Sheridan
+* Matt Merry
+* Mike Martin
+* John Conaty
+* Mike Poston
 
-#### 0 👎 - Con
+#### 7 👎 - Con
 
 #### 0 ❓ - Other

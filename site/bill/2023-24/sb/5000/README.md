@@ -11,7 +11,7 @@
 
 ## Meetings
 ### Tue 03/21 01:30 PM - State Government & Tribal Relations (SGOV): SB 5000 Americans of Chinese descent
-#### 108 👍 - Pro
+#### 110 👍 - Pro
 Testifying:
 * Vivian Dong
 * 💵Kendall Kosai - Commission on Asian Pacific American Affairs
@@ -36,14 +36,40 @@ Testifying:
 * Yancen Lu
 * Shengquan Liang
 * Jie Xie
+* Jimmy Ellie Jie
 * Yun, Xie, Jimmy, Ellie, Jie Yun
+* Yun Yun Xie
 
 #### 1 👎 - Con
 
 #### 3 ❓ - Other
 
 ### Tue 01/10 01:30 PM - State Government & Elections (SGE): SB 5000 Americans of Chinese descent
-#### 0 👍 - Pro
+#### 84 👍 - Pro
+Testifying:
+* Xiao Li
+* Huan Ge
+* York Liang
+* Liang Gang Yu
+* Xiao Liang
+* John Parker - [Central Valley School District](/org/central_valley_school_district/)
+* Hongfei Hou
+* Youlan Wang
+* Joan Zhong
+* Chenxi Wang
+* Jie Xie
+* Jimmy Yun
+* elona Kearney
+* Lauren Ouyang - ACE Foundation
+* Emily Shi
+* Kan Qiu
+* Linda Yang - WA Asians For Equality
+* Yunzhen Li
+* Anthony Cheng
+* Al Rosenthal
+* Wendy Yee
+* Sea Chan - Chinese American Veterans, Cathay Post 196, CACA
+* Allen Acosta
 
 #### 0 👎 - Con
 

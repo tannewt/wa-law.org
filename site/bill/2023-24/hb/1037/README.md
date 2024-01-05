@@ -27,8 +27,13 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Tue 01/10 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1037 Family burial grounds
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Julie Barrett - Conservative Ladies of Washington
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Vicky Dalton - Washington State Association of County Auditors
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

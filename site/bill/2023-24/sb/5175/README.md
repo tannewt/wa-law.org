@@ -28,8 +28,19 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Thu 01/12 01:30 PM - Early Learning & K-12 Education (EDU): SB 5175 School principal contracts
-#### 0 👍 - Pro
+#### 26 👍 - Pro
+Testifying:
+* Dr. Scott Seaman - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
+* 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
+* Brent Osborn - Lakeside High School
+* Carlos Gonzalez - McFarland Middle School
+* Dr. Robert Gary - Madison Middle School
+* Gerrit Kischner - Thornton Creek Elementary
+* Heidi Maurer - Kentlake High School
+* Jason Smith - Rogers High School
+* Justin Hendrickson - South Shore K-8 School
+* Ted Howard
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

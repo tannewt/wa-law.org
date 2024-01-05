@@ -9,6 +9,8 @@
 
 ## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍2  
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
+
 ## [HB 1146](/bill/2023-24/hb/1146/) - Dual credit program notice 👍2  
 
 ## [HB 1207](/bill/2023-24/hb/1207/) - Harassment/schools 👍2  
@@ -66,13 +68,19 @@
 
 ## [HB 1821](/bill/2023-24/hb/1821/) - Postsecondary credentials   ❓1
 
-## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
+## [SB 5020](/bill/2023-24/sb/5020/) - Education at 6 years of age 👍1  
+
+## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍2  
 
 ## [SB 5054](/bill/2023-24/sb/5054/) - Prof. learning communities   ❓1
 * ❓ J. Lee Schultz
 
+## [SB 5071](/bill/2023-24/sb/5071/) - Purple star designation 👍1  
+
 ## [SB 5072](/bill/2023-24/sb/5072/) - Highly capable students 👍2  
 * 👍 Randy Spaulding
+
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
 
 ## [SB 5237](/bill/2023-24/sb/5237/) - Education law noncompliance 👍1  
 

@@ -1,12 +1,16 @@
 # Administrative Office of the Courts
 
-## [HB 1023](/bill/2023-24/hb/1023/) - Wire tap reports/courts 👍1  
+## [HB 1023](/bill/2023-24/hb/1023/) - Wire tap reports/courts 👍2  
+* 👍 Brittany Gregory
 * 👍 Brittany Gregory
 
-## [HB 1102](/bill/2023-24/hb/1102/) - Judge pro tempore compen. 👍1  
+## [HB 1102](/bill/2023-24/hb/1102/) - Judge pro tempore compen. 👍2  
+* 👍 Brittany Gregory
 * 👍 Brittany Gregory
 
-## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍2  
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍4  
+* 👍 Brittany Gregory
+* 👍 Christopher Stanley
 * 👍 Brittany Gregory
 * 👍 Christopher Stanley
 
@@ -22,15 +26,19 @@
 ## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief   ❓1
 * ❓💵 Sharon Swanson
 
-## [SB 5003](/bill/2023-24/sb/5003/) - Snohomish county judges 👍1  
+## [SB 5003](/bill/2023-24/sb/5003/) - Snohomish county judges 👍2  
+* 👍 Haily Perkins
 * 👍 Haily Perkins
 
-## [SB 5128](/bill/2023-24/sb/5128/) - Jury diversity 👍3  
+## [SB 5128](/bill/2023-24/sb/5128/) - Jury diversity 👍4  
+* 👍 Brittany Gregory
 * 👍 Brittany Gregory
 * 👍 Brittany Gregory
 * 👍 Brittany Gregory
 
-## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍3  ❓1
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍5  ❓1
+* 👍 Brittany Gregory
+* 👍 Christopher Stanley
 * 👍 Brittany Gregory
 * 👍 Christopher Stanley
 * 👍 Dawn Marie Rubio

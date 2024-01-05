@@ -76,7 +76,7 @@ Testifying:
 * Tyna Ek - [Washington Schools Risk Management Pool](/org/washington_schools_risk_management_pool/)
 
 ### Tue 01/31 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1618 Childhood sexual abuse/SOL
-#### 155 👍 - Pro
+#### 156 👍 - Pro
 Testifying:
 * Courtney Butler
 * Chris Love - Washington State Association for Justice

@@ -8,8 +8,54 @@
 
 ## Meetings
 ### Fri 01/13 08:00 AM - Health Care & Wellness (HCW): HB 1041 Prescribing psychologists
-#### 0 👍 - Pro
+#### 291 👍 - Pro
+Testifying:
+* Christine White - Retired
+* 💵Anna Nepomuceno - NAMI Wasington
+* David Shearer
+* Keith Petersen
+* Jim Freeburg - Patient Coalition of Washington
+* Jocelynn McLaughlin
+* Steve Curtis
 
-#### 0 👎 - Con
+#### 224 👎 - Con
+Testifying:
+* Joellyn Sheehy
+* Karin Carlson
+* Keith Brown MD
+* Victoria Harris
+* Casey Collins
+* Tatjana Deretic
+* Jane Phelps-Tschang
+* Erik Loraas
+* Amy Burns
+* Kelly Wurzel
+* Thomas Soeprono - Washington State Psychiatric Association
+* swapna vaidya
+* Deborah Kiehlmeier
+* Charles Meredith
+* charles meredith
+* Robin Berger - Washington State Psychiatric Association
+* Tanya Keeble
+* Amelia Wendt
+* Tara James
+* angela toda
+* 💵Amy Brackenbury - Washington State Medical Association (WSMA)
+* 💵Avanti Bergquist - WSPA and Washington State Council of Child and Adolescent Psychiatry (WSCCAP)
+* Katie Kolan - Washington State Psychiatric Association (WSPA)
+* Breck Lebegue MD MPH
+* Marsha Chenoweth - Child and Adolescent Psychiatry of Bellevue
+* Katharine Liang
+* Rebecca Allen
+* Nazin Sedehi
+* Amanda Sekijima
+* Amanda Sekijima - Washington State Psychiatric Association
+* Tanya Tompkins
+* Steven Pearce - Citizens Commission on Human Rights
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Charissa Fotinos - Health Care Authority
+* Kristin Reichl - AVAILABLE FOR QUESTIONS Washington State Department of Health
+* Shawna Fox - AVAILABLE FOR QUESTIONS: Washington State Department of Health
+* Charissa Fotinos - Health Care Authority

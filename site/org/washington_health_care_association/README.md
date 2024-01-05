@@ -1,6 +1,7 @@
 # Washington Health Care Association
 
-## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  ❓1
+* 👍 Jeff Gombosky
 * ❓ Carma Matti-Jackson
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices   ❓1
@@ -16,7 +17,8 @@
 * 👍 Carma Matti-Jackson
 * 👍 Carma Matti-Jackson
 
-## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  ❓1
+* 👍 Jeff Gombosky
 * ❓ Carma Matti-Jackson
 
 ## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I  👎1 

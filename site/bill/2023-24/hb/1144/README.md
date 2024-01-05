@@ -13,7 +13,7 @@
 
 ## Meetings
 ### Tue 01/17 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1144 Firearms/purchase & transfer
-#### 894 👍 - Pro
+#### 895 👍 - Pro
 Testifying:
 * Barbara Serrano
 * 💵Jordan Waits
@@ -36,6 +36,7 @@ Testifying:
 * Victoria Muzyk
 * Liddy Ballard - Brady United
 * Joe Kunzler
+* Representative Amy Walen
 
 #### 1660 👎 - Con
 Testifying:

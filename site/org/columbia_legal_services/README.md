@@ -4,16 +4,30 @@
 * ❓💵 Antonio Ginatta
 * ❓💵 Antonio Ginatta
 
-## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
+## [HB 1006](/bill/2023-24/hb/1006/) - Drug testing equipment 👍1  
+
+## [HB 1019](/bill/2023-24/hb/1019/) - Pesticide advisory board   ❓1
+* ❓💵 Antonio Ginatta
+
+## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍2  
+* 👍💵 Hannah Woerner
 
 ## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍2  
 
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
+
 ## [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act 👍1  
 
-## [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims 👍1  
+## [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims 👍2  
+* 👍💵 Sarah Nagy
 * 👍💵 Sarah Nagy
 
+## [HB 1087](/bill/2023-24/hb/1087/) - Solitary confinement 👍1  
+
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
+
+## [HB 1095](/bill/2023-24/hb/1095/) - Wage replacement 👍1  
+* 👍💵 Antonio Ginatta
 
 ## [HB 1108](/bill/2023-24/hb/1108/) - Persistent offenders 👍1  
 
@@ -27,6 +41,8 @@
 * 👍💵 Hannah Woerner
 * 👍💵 Hannah Woerner
 * 👍💵 Hannah Woerner
+
+## [HB 1174](/bill/2023-24/hb/1174/) - Jail-based voting 👍1  
 
 ## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍1  
 
@@ -99,7 +115,7 @@
 
 ## [HB 1727](/bill/2023-24/hb/1727/) - Transaction fees  👎1 
 
-## [SB 5028](/bill/2023-24/sb/5028/) - Name changes 👍1  
+## [SB 5028](/bill/2023-24/sb/5028/) - Name changes 👍2  
 
 ## [SB 5035](/bill/2023-24/sb/5035/) - Controlled sub. possession  👎1 
 
@@ -109,14 +125,16 @@
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest 👍1  
 
+## [SB 5061](/bill/2023-24/sb/5061/) - Personnel records 👍1  
+
 ## [SB 5101](/bill/2023-24/sb/5101/) - DOC medical placements 👍1  
 
-## [SB 5110](/bill/2023-24/sb/5110/) - Labor practices/penalties 👍2  
+## [SB 5110](/bill/2023-24/sb/5110/) - Labor practices/penalties 👍3  
 * 👍💵 Andrea Schmitt
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 
-## [SB 5128](/bill/2023-24/sb/5128/) - Jury diversity 👍1  
+## [SB 5128](/bill/2023-24/sb/5128/) - Jury diversity 👍3  
 
 ## [SB 5131](/bill/2023-24/sb/5131/) - Commissary funds 👍2  
 

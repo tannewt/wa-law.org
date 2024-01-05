@@ -23,11 +23,12 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Wed 01/25 01:30 PM - Health Care & Wellness (HCW): HB 1275 Athletic trainers
-#### 7 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Charlie Brown - [Washington State Athletic Trainers Association](/org/washington_state_athletic_trainers_association/)
 * Ciara Ashworth - [Washington State Athletic Trainers Association](/org/washington_state_athletic_trainers_association/)
 * Jonathan Huwe - MultiCare Orthopedics and Sports Medicine, Spokane
+* Representative Marcus Riccelli
 
 #### 2 👎 - Con
 Testifying:

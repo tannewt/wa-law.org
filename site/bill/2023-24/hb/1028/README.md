@@ -51,7 +51,16 @@ Testifying:
 #### 1 ❓ - Other
 
 ### Mon 01/09 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1028 Crime victims & witnesses
-#### 0 👍 - Pro
+#### 16 👍 - Pro
+Testifying:
+* Sarah Spier
+* Jason (Jay) Fogelstrom
+* Megan Allen - King County Sexual Assault Resource Center
+* 💵Jennifer Wallace - WA State Criminal Justice Training Commission
+* Jennifer Ritchie
+* Colleen McIngalls - King County Prosecuting Attorneys Office
+* 💵Russell Brown - WA Assoc of Prosecuting Attorneys
+* 💵Michael Moran - Confederated Tribes of the Colville Reservation
 
 #### 0 👎 - Con
 

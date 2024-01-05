@@ -1,5 +1,7 @@
 # Craft Cannabis Coalition
 
+## [HB 1083](/bill/2023-24/hb/1083/) - Cannabis retailer payments 👍1  
+
 ## [HB 1249](/bill/2023-24/hb/1249/) - Retail cannabis products 👍1  
 
 ## [HB 1341](/bill/2023-24/hb/1341/) - Cannabis license ownership 👍1  
@@ -22,7 +24,8 @@
 * ❓ Sheley Anderson
 * ❓ Sheley Anderson
 
-## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity   ❓3
+## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity   ❓4
+* ❓ Adán Espino Jr
 * ❓ Adan Espino Jr
 * ❓ Adán Espino Jr
 * ❓ Adán Espino Jr

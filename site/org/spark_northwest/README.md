@@ -1,5 +1,8 @@
 # Spark Northwest
 
+## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
+* 👍💵 John Seng
+
 ## [HB 1250](/bill/2023-24/hb/1250/) - Low-income home rehab. prg. 👍1  
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍2  
@@ -13,6 +16,9 @@
 
 ## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy   ❓1
 * ❓💵 John Seng
+
+## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
+* 👍💵 John Seng
 
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍1  
 

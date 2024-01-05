@@ -1,5 +1,7 @@
 # Child Care Resources
 
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
+
 ## [HB 1199](/bill/2023-24/hb/1199/) - Child care/communities 👍1  
 
 ## [HB 1451](/bill/2023-24/hb/1451/) - Child care workforce 👍2  

@@ -7,3 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/08 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 2086 Office of indep. invest.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31578&aId=156142&caId=22810&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31578&aId=156142&caId=22810&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31578&aId=156142&caId=22810&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31578&aId=156142&caId=22810&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

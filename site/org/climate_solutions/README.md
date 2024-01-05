@@ -6,11 +6,15 @@
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
 * 👍💵 Leah Missik
 
-## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget 👍2  
+## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget 👍3  
+* 👍💵 Leah Missik
 * 👍💵 Leah Missik
 * 👍💵 Leah Missik
 
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍1  
+
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
+* ❓💵 Leah Missik
 
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍2  
 
@@ -27,7 +31,7 @@
 * 👍💵 Kelly Hall
 * 👍💵 Altinay Karasapan
 
-## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍1  
+## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍2  
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍2  
 * 👍 Megan Larkin

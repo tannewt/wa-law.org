@@ -68,8 +68,17 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Tue 01/10 01:30 PM - State Government & Elections (SGE): SB 5112 Voter registration
-#### 0 👍 - Pro
+#### 214 👍 - Pro
+Testifying:
+* Carol Sullivan - League of Women Voters of WA
+* Jeff Pack - Me
+* 💵Alex Tischenko - Center for Secure and Modern Elections
+* Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
+* 💵Caron Cargill - Center for Secure & Modern Elections
 
-#### 0 👎 - Con
+#### 9 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Eric Pratt - America

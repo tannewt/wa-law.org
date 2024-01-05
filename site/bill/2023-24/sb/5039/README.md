@@ -20,8 +20,17 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Wed 01/11 08:00 AM - Environment, Energy & Technology (ENET): SB 5039 Wildfires/electric utilities
-#### 0 👍 - Pro
+#### 19 👍 - Pro
+Testifying:
+* Sherri Dysart - League of Women Voters of Washington
+* 💵Andy Barth - [Inland Power & Light](/org/inland_power_&_light/)
+* Colin Willenbrock - Pend Oreille
+* Jim Smith - Klickitat PUD
+* 💵John Rothlin - [Avista Corp](/org/avista_corp/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Jasmine Vasavada - Washington Department of Commerce
+* Brian Considine - Washington State Department of Natural Resources

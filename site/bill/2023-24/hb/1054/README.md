@@ -23,8 +23,15 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Mon 01/09 01:30 PM - Housing (HOUS): HB 1054 Occupancy limits
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Toby Nixon
+* Patrick Johansen - RiseUpWA, Housing Justice Committee
 
-#### 0 👎 - Con
+#### 10 👎 - Con
+Testifying:
+* Valerie Oman - Condo Law Group/WSCAI
+* Brian Mackey - Wynbrook II HOA
+* 💵Krystelle Purkey - Washington State Chapter of Community Association Institute
 
 #### 0 ❓ - Other

@@ -1,5 +1,7 @@
 # City of Battle Ground
 
+## [HB 1006](/bill/2023-24/hb/1006/) - Drug testing equipment 👍1  
+
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing  👎2 
 * 👎 Troy McCoy
 

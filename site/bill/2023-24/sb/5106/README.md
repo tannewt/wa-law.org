@@ -9,7 +9,9 @@
 
 ## Meetings
 ### Thu 01/12 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5106 County district boundaries
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Carolina Mejia
 
 #### 0 👎 - Con
 

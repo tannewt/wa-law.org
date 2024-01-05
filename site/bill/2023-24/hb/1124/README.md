@@ -30,8 +30,43 @@
 
 ## Meetings
 ### Thu 01/12 08:00 AM - Housing (HOUS): HB 1124 Residential rent and fees
-#### 0 👍 - Pro
+#### 657 👍 - Pro
+Testifying:
+* Devin Glaser - Tenant Law Center
+* Anne Sadler - Association of Manufactured Home Owners - AMHO
+* 💵Ishbel Dickens - Assoc of Manufactured Home Owners
+* Stacey Valenzuela
+* Amy Kangas
+* Nicole Doyle
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Terri Anderson - Tenants Union of Washington State
+* Linda Asher
+* 💵Cristina Mateo - WA Build Back Black Alliance - (WBBA)
+* Darlene Carmody
+* Saree Adams
+* Jean Poirier
+* Tereasa Staley
+* Erika Bartlett - Tacoma Tenants Union
+* Shannon Corrick
 
-#### 0 👎 - Con
+#### 268 👎 - Con
+Testifying:
+* Jeff Pack - Me
+* Audrey Riddle - [Goodman Real Estate](/org/goodman_real_estate/)
+* Marie Petite
+* Jodi Williams
+* Fei Priddy
+* Ken Ritter
+* Dezda Finn
+* Constance Nelson
+* Bruce Becker - Bruce Becker
+* Allison Moser
+* Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
+* Ryan Erickson - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
+* Cory Brewer
+* Lyle Crews
+* Kevin Glenn
+* Judy Bardin
+* Patricia Hoendermis - Yakima Valley landlords Assoc
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other

@@ -25,8 +25,13 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Thu 01/12 08:00 AM - Housing (HOUS): HB 1070 Property sale and leaseback
-#### 0 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* Mary Hull-Drury - Washington Realtors
+* Phil Harlan - Washington Realtors
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Edmund Witter - [King County Bar Association](/org/king_county_bar_association/)

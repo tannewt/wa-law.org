@@ -6,6 +6,8 @@
 
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍1  
 
+## [HB 1149](/bill/2023-24/hb/1149/) - Housing/capital expenditures 👍1  
+
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍3  

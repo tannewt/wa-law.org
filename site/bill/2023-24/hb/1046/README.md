@@ -28,8 +28,15 @@ Testifying:
 * Stacey Valenzuela
 
 ### Tue 01/10 04:00 PM - Housing (HOUS): HB 1046 Housing dev. income limits
-#### 0 👍 - Pro
+#### 27 👍 - Pro
+Testifying:
+* Andrew Calkins - [King County Housing Authority](/org/king_county_housing_authority/)
+* Dan Watson - [King County Housing Authority](/org/king_county_housing_authority/)
+* Keith James - Inland Group
+* Pamela Parr - Spokane Housing Authority
 
-#### 0 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* john Worthington
 
 #### 0 ❓ - Other

@@ -14,7 +14,8 @@
 * 👍 Lacey Jane Wolfe
 * 👍 Lacey Jane Wolfe
 
-## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget 👍1  
+## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget 👍2  
+* 👍 Genesee Adkins
 * 👍 Lacey Jane Wolfe
 
 ## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  

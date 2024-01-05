@@ -14,3 +14,5 @@
 ## [HB 1527](/bill/2023-24/hb/1527/) - Tax increment financing 👍1  
 
 ## [HB 1585](/bill/2023-24/hb/1585/) - Local infra. project areas 👍1  
+
+## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍1  

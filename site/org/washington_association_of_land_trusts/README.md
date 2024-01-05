@@ -3,7 +3,8 @@
 ## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
 * 👍 Vanessa Kritzer
 
-## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget   ❓1
+## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  ❓1
+* 👍 Vanessa Kritzer
 * ❓ Vanessa Kritzer
 
 ## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍2  
@@ -19,7 +20,8 @@
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
 * ❓ Vanessa Kritzer
 
-## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget   ❓1
+## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  ❓1
+* 👍 Vanessa Kritzer
 * ❓ Vanessa Kritzer
 
 ## [SB 5372](/bill/2023-24/sb/5372/) - DNR land 👍1  

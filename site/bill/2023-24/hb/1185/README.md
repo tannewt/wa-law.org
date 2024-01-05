@@ -26,4 +26,6 @@ Testifying:
 * Charlie Brown - National Electrical Manufacturers Association
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Laurie Davies - Department of Ecology

@@ -16,7 +16,7 @@
 ## [HB 1674](/bill/2023-24/hb/1674/) - Roadway users/trucks & SUVs 👍2  
 * 👍 Tamar Shuhendler
 
-## [HB 1853](/bill/2023-24/hb/1853/) - Transportation resources 👍1  
+## [HB 1853](/bill/2023-24/hb/1853/) - Transportation resources 👍2  
 
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍2  
 
@@ -46,7 +46,7 @@
 ## [SB 5583](/bill/2023-24/sb/5583/) - Young driver safety 👍4  
 * 👍💵 Alex Alston
 
-## [SB 5742](/bill/2023-24/sb/5742/) - DOT grant programs 👍1  
+## [SB 5742](/bill/2023-24/sb/5742/) - DOT grant programs 👍2  
 * 👍 Vicky Clarke
 
 ## [SB 5743](/bill/2023-24/sb/5743/) - Transportation resources 👍2  

@@ -41,13 +41,15 @@
 
 ## [HB 1732](/bill/2023-24/hb/1732/) - K-12 inflation adjustments 👍1  
 
-## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍3  
+## [SB 5020](/bill/2023-24/sb/5020/) - Education at 6 years of age 👍1  
+
+## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍4  
 
 ## [SB 5054](/bill/2023-24/sb/5054/) - Prof. learning communities 👍1  
 
 ## [SB 5072](/bill/2023-24/sb/5072/) - Highly capable students 👍1  
 
-## [SB 5127](/bill/2023-24/sb/5127/) - Student information/PRA 👍1  
+## [SB 5127](/bill/2023-24/sb/5127/) - Student information/PRA 👍2  
 
 ## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍3  
 
@@ -56,6 +58,8 @@
 ## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍1  
 
 ## [SB 5355](/bill/2023-24/sb/5355/) - Sex trafficking prev. ed. 👍3  
+
+## [SB 5408](/bill/2023-24/sb/5408/) - Ninth grade success grants 👍1  
 
 ## [SB 5527](/bill/2023-24/sb/5527/) - Graduation pathway options 👍1  
 

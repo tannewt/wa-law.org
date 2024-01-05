@@ -17,13 +17,14 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Thu 02/02 01:30 PM - Early Learning & K-12 Education (EDU): SB 5403 School depreciation subfunds
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * David Nowotny
 * Rick Chisa - Public School Employees of Washington (PSE)
 
-#### 5 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * Doug Vanderleest - [Franklin Pierce School District](/org/franklin_pierce_school_district/)
+* Meisha Robertson - Riverview School District
 
 #### 0 ❓ - Other

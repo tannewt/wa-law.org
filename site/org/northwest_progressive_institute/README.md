@@ -1,12 +1,22 @@
 # Northwest Progressive Institute
 
+## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
+
 ## [HB 1035](/bill/2023-24/hb/1035/) - Health care restrictions 👍1  
 
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
+
+## [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act 👍1  
+
 ## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
+
+## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
+
+## [HB 1122](/bill/2023-24/hb/1122/) - WMS bargaining 👍1  
 
 ## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
 * 👍 Andrew Villeneuve
@@ -17,6 +27,11 @@
 ## [HB 1144](/bill/2023-24/hb/1144/) - Firearms/purchase & transfer 👍1  
 
 ## [HB 1152](/bill/2023-24/hb/1152/) - Consumer products/gender 👍1  
+
+## [HB 1158](/bill/2023-24/hb/1158/) - Advisory votes 👍2  
+* 👍 Andrew Villeneuve
+
+## [HB 1174](/bill/2023-24/hb/1174/) - Jail-based voting 👍1  
 
 ## [HB 1178](/bill/2023-24/hb/1178/) - Firearms/local government 👍1  
 
@@ -74,11 +89,12 @@
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act 👍1  
 
-## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍2  
+## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍4  
+* 👍 Andrew Villeneuve
 * 👍 Andrew Villeneuve
 * 👍 Kathy Sakahara
 
-## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍4  
+## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍5  
 
 ## [SB 5152](/bill/2023-24/sb/5152/) - Synthetic media 👍3  
 
@@ -93,6 +109,10 @@
 ## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍1  
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍2  
+
+## [SB 5199](/bill/2023-24/sb/5199/) - Newspaper publishers/tax 👍2  
+* 👍 Andrew Villeneuve
+* 👍 Andrew Villeneuve
 
 ## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
 * 👍 Andrew Villeneuve

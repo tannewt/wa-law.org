@@ -1,8 +1,15 @@
 # Building Changes
 
+## [HB 1027](/bill/2023-24/hb/1027/) - Audio-only telemedicine 👍1  
+
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
+
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
 
-## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
+## [HB 1124](/bill/2023-24/hb/1124/) - Residential rent and fees 👍1  
+
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓2
+* ❓💵 Megan Veith
 * ❓💵 Aaron Yared
 
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
@@ -46,7 +53,8 @@
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
 
-## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  ❓1
+* ❓💵 Aaron Yared
 * 👍💵 Aaron Yared
 
 ## [SB 5197](/bill/2023-24/sb/5197/) - Eviction processes 👍1  

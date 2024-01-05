@@ -11,13 +11,25 @@
 
 ## Meetings
 ### Thu 02/02 08:00 AM - Regulated Substances & Gaming (RSG): HB 1641 High-potency cannabis
-#### 10 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * Beatriz Carlini - [University of Washington](/org/university_of_washington/)
 * Asheley Krutsinger
 * Denise Walker
+* 💵Avanti Bergquist
+* 💵Avanti Bergquist - The Washington State Psychiatric Association (WSPA)
+* Beth Ebel - American Academy of Pediatrics
+* Bia Carlini - Alcohol and Drug Abuse Institute, University of WA
+* Don Danielson
+* Erika Danielson
+* Will Jones III - Smart Approaches to Marijuana (SAM)
+* Jordan Davidson - Smart Approaches to Marijuana (SAM)
+* Linda Thompson - Washington Association for Substance Misuse And Violence Prevention (WASAVP)
+* Mary Maas
+* Phoebe Terhaar - Forefront Suicide Prevention
+* Veronica Munro
 
-#### 80 👎 - Con
+#### 115 👎 - Con
 Testifying:
 * 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
 * Drew Davis - Mountain Hi
@@ -26,6 +38,16 @@ Testifying:
 * Micah Sherman - Washington Sun and Craft Growers Association (WSCA)
 * 💵Vicki Christophersen - Washington CannaBusiness Association
 * Bethany Rondeaux - Falcanna
+* Andy Brassington - Evergreen Herbal
+* Burl Bryson - The Cannabis Alliance
+* Neil Juneja
+* Mitzi Vaughn - The Cannabis Alliance
+* Sarah Rasor
 * Arthur West
+* Branden Bond
+* Wesley Abney - Leaf Magazines
+* Jim MacRae - Potential Consumer - testifying by phone
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Bailey Hirschburg - WA National Org for the Reform of Marijuana Laws (NORML)

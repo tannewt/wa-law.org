@@ -160,8 +160,116 @@ Testifying:
 * Dani Madrone - American Farmland Trust
 
 ### Thu 01/12 01:30 PM - Capital Budget (CB): HB 1147 Capital budget
-#### 0 👍 - Pro
+#### 77 👍 - Pro
+Testifying:
+* Danni Jo Bechtold - [The Mockingbird Society](/org/the_mockingbird_society/)
+* Tyler Muench - Office of Superintendent of Public Instruction
+* Kathryn Gardow - [Public Works Board](/org/public_works_board/)
+* 💵Erica Hallock - Start Early Washington
+* Chris Bailey - State Board for Community and Technical Colleges
+* Darrell Jennings - State Board for Community and Technical Colleges
+* Rebekah Woods - State Board for Community and Technical Colleges
+* Harald Hyllseth - Communities of Concern Commission
+* Josephine Tamayo Murray - Communities of Concern Commission
+* Pastor Carey Anderson - Communities of Concern Commission
+* Council-Lady Esther Moses-Hyipeer - Yakama Nation
+* Councilman Jeremy Takala - Yakama Nation
+* Joe Dacca - [University of Washington](/org/university_of_washington/)
+* Linda Grant - [Evergreen Recovery Centers](/org/evergreen_recovery_centers/)
+* Maureen Sorenson - Coordinated Care
+* Susan Foster-Dow - Catholic Charities Eastern Washington
+* Tasha Irvine - Principle Allies
+* Dani Madrone - American Farmland Trust
+* Jim Kowalkowski - Rural Education Center
+* Brian Freeman - Eastern WA Quality Schools Coalition
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* 💵Nora Selander - Western Washington University
+* Carly Colgan - Habitat for Humanity of Washington State
+* Wes Jessup - Northwest Museum of Arts and Culture
+* Wes Jessup - Northwest Museum of Arts and Culture
+* Rebecca Medendorp - Washington State PTA
+* Steve DuPont - [Central Washington University](/org/central_washington_university/)
+* David Buri - Eastern Washington University
+* Gail Emanuel
+* 💵Ian Goodhew - UW Medicine
+* Russ Pfeiffer-Hoyt - Washington State School Directors' Association (WSSDA)
+* Jacques White - Long Live the Kings
+* 💵Gary Rowe - Washington State Public Works Board
+* Harald Hyllseth - Chief Seattle Club/Communities of Concern Commission
+* Josephine Tamayo Murray - Communities of Concern Commission
+* Pastor Carey Anderson - FAME Church/Communities of Concern Commission
+* Michael Olsen - Kettle Falls School District
+* Chad Prewitt - Davenport School District
+* Steve Jantz - Keller School District
+* Jason Perrins - Chewelah SD
+* Lisa Pelly - [Trout Unlimited](/org/trout_unlimited/)
+* Phil Rigdon - Yakama Nation
+* Urban Eberhart - [Kittitas Reclamation District](/org/kittitas_reclamation_district/)
+* David Blodgett - Yakama Nation
+* Mitsu Iwasaki - [The Trust for Public Land](/org/the_trust_for_public_land/)
+* Ahndrea Blue - Making A Difference Foundation/Eloise’s Cooking Pot Food Bank
+* 💵Mitch Denning - WA Assn of Maintenance and Operation Administrators
+* Commissioner Amanda McKinney - Yakima County
+* 💵Paula Sardinas - FMSGS / WBBA
+* 💵Kelly Hall
+* Dave Johnson - Washington Recreation & Park Association
+* Vanessa Kritzer - [Washington Association of Land Trusts](/org/washington_association_of_land_trusts/)
+* Dylan Plummer - [Sierra Club](/org/sierra_club/)
+* Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* 💵John Seng - [Spark Northwest](/org/spark_northwest/)
+* Monica Guevara - Emerald Cities
+* Ross Quigley - [Opportunity Council](/org/opportunity_council/)
+* Quinault Vice Pres Fawn Sharp - [Quinault Indian Nation](/org/quinault_indian_nation/)
+* MARK SMITH - Housing Consortium of Everett & Snohomish County
+* Trudy Soucoup - Homes First
+* 💵Axel Swanson - Washington State Association of County Engineers
+* Emily Thompson - Coalition For Affordable Housing Development
+* Betz Mayer - PNWER
+* Kyle Burleson - American Waterways Operators
+* Brandy DeLange - Assoc. of Washington Cities
+* Preston Dwoskin
+* Tom Salzer - [Washington Association of Conservation Districts](/org/washington_association_of_conservation_districts/)
 
-#### 0 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* john Worthington
+* Jessica Renner - Self Advocates in Leadership (SAIL)
+* Shawn Latham - Allies in Advocacy
+* Chris Maykut - Friends Of Bumping Lake
+* David Ortman - ALPS; FOBL; LCBAS; MidFORC; NCCC; SLK; WW
 
-#### 0 ❓ - Other
+#### 34 ❓ - Other
+Testifying:
+* Ben Wick - City of Spokane Valley Councilmember
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Commissioner Kristin Ang - [Port of Tacoma](/org/port_of_tacoma/)
+* Chad Vaculin - Housing Development Consortium of Seattle-King County
+* Lisa Striedinger - Friends without homes
+* Eric Matthes - None
+* Adrienne Mason - Children's Home Society of Washington
+* Jason Keen - Children's Home Society of Washington
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Brian Shay - City of Hoquiam, City Administrator
+* Jay Gordon - Office of Chehalis Basin, Board Member
+* 💵Lynnette Buffington - Greater Grays Harbor, CEO
+* Ruth Clemens - City of Aberdeen, City Administrator
+* Amanda DeShazo - Tacoma-Pierce County Affordable Housing Consortium
+* Kimberly Ellefson
+* 💵Jude Ahmed - Urban League of Metropolitan Seattle
+* Andres Guerrero-Guzman - Climbers of Color
+* 💵Christine Mahler - Washington Wildlife and Recreation Coaliton
+* Dan Wilson - Backcountry Hunters and Anglers
+* 💵Jason Spadaro - Washington Forest Protection Agency
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* AyeNay Abye - [Tubman Center for Health and Freedom](/org/tubman_center_for_health_and_freedom/)
+* 💵Jason Gauthier - South Sound Housing Affordability Partners
+* robert m wardell - self adovates
+* 💵Connor Haggerty - Washington State University
+* Jasmine Zimmer-Stucky - Lower Columbia Estuary Partnership
+* Scott Richards - [The Nature Conservancy](/org/the_nature_conservancy/)
+* Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
+* MARK SMITH - Housing Consortium of Everett & Snohomish County
+* 💵Michael White - [King County](/org/king_county/)
+* 💵Amber Carter - Port of Vancouver & Identity Clark County
+* Fawn Schott - Volunteers of America
+* Larry Leveen - ForeverGreen Trails

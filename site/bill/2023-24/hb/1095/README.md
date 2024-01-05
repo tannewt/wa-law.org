@@ -13,8 +13,40 @@
 
 ## Meetings
 ### Fri 01/13 10:30 AM - Labor & Workplace Standards (LAWS): HB 1095 Wage replacement
-#### 0 👍 - Pro
+#### 512 👍 - Pro
+Testifying:
+* 💵Giovanni Severino - Progreso: Latino Progress
+* Luis Amado - [Washington Immigrant Solidarity Network](/org/washington_immigrant_solidarity_network/)
+* Yahaira Padilla - Organization- WA Immigrant Solidarity Network
+* Gloria Medina - Fairwork Center
+* Laura Gonzalez - Fairwork Center
+* Lilian Garcia - Fairwork Center
+* Nelly Prieto - SEIU 775
+* 💵Heather Villanueva - Hand in Hand, Employer
+* Audel Ramirez-Interpreter - OneAmerica
+* Ynez Vargas - OneAmerica
+* Juven Ruiz-Garcia Interpreter - OneAmerica
+* Kato Gobe
+* Omar Rodríguez
+* Monica Reichert
+* Fabiola Sanchez
+* 💵Antonio Ginatta - [Columbia Legal Services](/org/columbia_legal_services/)
+* Vicky Barron-Zuniga - WA Immigrant Solidarity Network
+* Kevin Njihia - Nobel caregivers
+* Alejandro Juarez
+* Eber Torres
+* Sonia Moreno
+* Stephanie Moreno
 
-#### 0 👎 - Con
+#### 23 👎 - Con
+Testifying:
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Tom Kwieciak - Building Industry Association of WA
+* Albert Zepeda - Kyle Mathison Orchards/WA Farm Bureau
+* Bob Battles - Association of Washington Business (AWB)
 
-#### 0 ❓ - Other
+#### 12 ❓ - Other
+Testifying:
+* Jon DeVaney - WA State Tree Fruit Association
+* Ramon Santillan Perez
+* Sawsen Mohammed

@@ -31,8 +31,18 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Thu 01/12 08:00 AM - Law & Justice (LAW): SB 5028 Name changes
-#### 0 👍 - Pro
+#### 47 👍 - Pro
+Testifying:
+* Maia Xiao
+* 💵Gabriel Neuman - GSBA
+* Dusty LaMay
+* S. Annie Chung - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
+* Dana Savage - Qlaw Bar Association of Washington
+* Rebekah Gardea - QLaw Foundation
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Josie Delvin - Washington State Association of County Clerks
+* James McMahan - WA Assoc Sheriffs & Police Chiefs

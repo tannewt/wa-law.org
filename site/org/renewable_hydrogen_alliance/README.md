@@ -1,5 +1,7 @@
 # Renewable Hydrogen Alliance
 
+## [HB 1117](/bill/2023-24/hb/1117/) - Power supply inadequacy 👍1  
+
 ## [HB 1236](/bill/2023-24/hb/1236/) - Clean fuel/public transport. 👍2  
 * 👍 Michelle Detwiler
 * 👍 Michelle Detwiler

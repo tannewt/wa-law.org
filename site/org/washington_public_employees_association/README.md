@@ -10,17 +10,22 @@
 
 ## [HB 1056](/bill/2023-24/hb/1056/) - Postretirement employment 👍1  
 
+## [HB 1068](/bill/2023-24/hb/1068/) - Injured worker medical exams 👍1  
+
 ## [HB 1087](/bill/2023-24/hb/1087/) - Solitary confinement  👎1 
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
-## [HB 1106](/bill/2023-24/hb/1106/) - Unemployment/voluntary 👍1  
+## [HB 1099](/bill/2023-24/hb/1099/) - Public works wages 👍1  
+
+## [HB 1106](/bill/2023-24/hb/1106/) - Unemployment/voluntary 👍2  
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
 
 ## [HB 1137](/bill/2023-24/hb/1137/) - Return-to-work opportunities  👎1 
 
-## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  ❓1
+* 👍💵 Seamus Petrie
 * ❓💵 Seamus Petrie
 
 ## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍1  
@@ -70,7 +75,11 @@
 
 ## [HB 1839](/bill/2023-24/hb/1839/) - Train length 👍1  
 
-## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍1  
+## [SB 5061](/bill/2023-24/sb/5061/) - Personnel records 👍1  
+
+## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
+
+## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍2  
 
 ## [SB 5111](/bill/2023-24/sb/5111/) - Sick leave/construction 👍1  
 
@@ -78,9 +87,12 @@
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 
+## [SB 5133](/bill/2023-24/sb/5133/) - Responsible bidder criteria 👍1  
+
 ## [SB 5141](/bill/2023-24/sb/5141/) - WMS bargaining 👍2  
 
-## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  ❓1
+* 👍💵 Seamus Petrie
 * ❓💵 Seamus Petrie
 
 ## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I 👍3  
@@ -122,4 +134,4 @@
 
 ## [SB 5749](/bill/2023-24/sb/5749/) - Rail safety governance/UTC 👍1  
 
-## [SB 5768](/bill/2023-24/sb/5768/) - DOC/abortion medications 👍1  
+## [SB 5768](/bill/2023-24/sb/5768/) - DOC/abortion medications 👍2  

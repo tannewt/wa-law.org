@@ -24,8 +24,13 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Thu 01/12 08:00 AM - Labor & Commerce (LC): SB 5110 Labor practices/penalties
-#### 0 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* 💵Kelli Carson - Washington State Association for Justice
+* 💵John Traynor - Washington State Labor Council, AFL-CIO
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Bob Battles - Association of Washington Business (AWB)
 
 #### 0 ❓ - Other

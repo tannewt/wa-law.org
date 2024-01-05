@@ -1,8 +1,9 @@
 # Pierce Transit
 
-## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍4  
 * 👍 Alexandra Mather
 * 👍 Alexandra Mather
+* 👍💵 Hanna Jones
 
 ## [HB 1050](/bill/2023-24/hb/1050/) - Apprenticeship utilization   ❓1
 

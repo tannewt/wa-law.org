@@ -35,7 +35,16 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Fri 01/13 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1010 Shellfish sanitary control
-#### 0 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* Heather Hall - WDFW
+* Tom McBride - WDFW
+* Larry Thevik - Washington Dumgmess Crab Fishermen's Association
+* Stuart Glasoe - Washington State Board of Health
+* Todd Phillips - Washington State Department of Health
+* 💵Tom Echols - [Purse Seine Vessel Owners Association](/org/purse_seine_vessel_owners_association/)
+* Stuart Glasoe - Washington State Board of Health
+* Dale Beasley - Coalition of Coastal Fisheries and Columbia River Dungeness Crab Fishermens Association
 
 #### 0 👎 - Con
 

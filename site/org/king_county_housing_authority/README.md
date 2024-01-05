@@ -1,10 +1,16 @@
 # King County Housing Authority
 
-## [HB 1046](/bill/2023-24/hb/1046/) - Housing dev. income limits 👍2  
+## [HB 1042](/bill/2023-24/hb/1042/) - Use of existing buildings 👍1  
+
+## [HB 1046](/bill/2023-24/hb/1046/) - Housing dev. income limits 👍4  
+* 👍 Andrew Calkins
+* 👍 Dan Watson
 * 👍 Andrew Calkins
 * 👍 Dan Watson
 
 ## [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍1  
+
+## [HB 1149](/bill/2023-24/hb/1149/) - Housing/capital expenditures 👍1  
 
 ## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍1  
 

@@ -30,9 +30,67 @@
 * [Statewide Poverty Action Network](/org/statewide_poverty_action_network/) - [Bill Tracker – Statewide Poverty Action Network](https://povertyaction.org/bill-tracker/#:~:text=HB%201045)
 
 ## Meetings
-### Wed 01/11 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1045 Basic income pilot program
-#### 0 👍 - Pro
+### Thu 01/11 04:00 PM - Appropriations (APP): SHB 1045 Basic income pilot program
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31524&aId=155940&caId=22798&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31524&aId=155940&caId=22798&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31524&aId=155940&caId=22798&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31524&aId=155940&caId=22798&tId=4)
 
-#### 0 👎 - Con
+#### 1 👍 - Pro
+
+#### 1 👎 - Con
+Testifying:
+* Mike Smyth
 
 #### 0 ❓ - Other
+
+### Wed 01/11 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1045 Basic income pilot program
+#### 932 👍 - Pro
+Testifying:
+* Councilmember Jim Cooper - [City of Olympia](/org/city_of_olympia/)
+* Robin Von Davies - Washington Physicians for Social Responsibility
+* Amirah Harris - Self
+* 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
+* Amy Roark
+* 💵Tracy Yeung - Washington State Budget & Policy Center
+* Cherish Cronmiller - Olympic Community Action Programs
+* Melissa Hornbeck - seiu775
+* Kathleen Richmire
+* Abigail Lawson - United Way Pierce County
+* Debbie Wilkerson
+* 💵Shaun Scott
+* Abigail Lawson
+* Debbie Wilkerson
+* Mayor Victoria Woodards - City of Tacoma/Tacoma City Council
+* Andrew Guillen - Seattle Indian Health Board/ Chief Public Affairs Officer from Seattle Indian Health Board
+* 💵Katrina Johnson - [Food Lifeline](/org/food_lifeline/)
+* Robin Hills
+* Stuart Grover - United Way of Pierce County
+* Martha Lucas - Martha Lucas, Insurance Professional
+* 💵Paula Sardinas - WA Build Back Black Alliance
+* 💵Katrina Johnson - Food lifeline
+* Patanjali de la Rocha - Hummingbird Indigenous Family Services
+* Jennifer Bereskin
+* 💵Tracy Yeung
+* Victoria Woodards - [City of Tacoma](/org/city_of_tacoma/)
+* Shelly Robbins - Parents Organizing for Welfare Economic Rights
+* Janice Henry
+* Emily Pinckney - FMSGS / WBBA
+
+#### 1012 👎 - Con
+Testifying:
+* Rebecca Faust
+* Thomas Marabello
+* Janet Large
+* Leah Anaya - Washington Moms For America
+* Cindy Tucker
+* Laurie Layne
+* Mary Long - Conservative Ladies of Washington
+* Jeneen Breshears - Conservative Ladies of Washington
+* Eric Pratt - America
+
+#### 5 ❓ - Other
+Testifying:
+* Amali Morning Song
+* 💵Lori Pfingst - WA State Department of Social & Health Services

@@ -5,6 +5,9 @@
 
 ## [HB 1690](/bill/2023-24/hb/1690/) - Kidney disease centers 👍1  
 
+## [SB 5181](/bill/2023-24/sb/5181/) - Medical assistants 👍1  
+* 👍💵 Jessica Hostetler
+
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
 * ❓💵 Jessica Hostetler
 

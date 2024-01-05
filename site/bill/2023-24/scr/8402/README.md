@@ -9,8 +9,17 @@
 
 ## Meetings
 ### Fri 01/20 08:00 AM - State Government & Elections (SGE): SCR 8402 Jennifer Belcher Building
-#### 0 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* 💵Christine Mahler - Washington Wildlife and Recreation Coalition
+* Karen Fraser - self
+* Lonnie Johns-Brown
+* Miguel Perez Gibson - [Washington Conservation Action](/org/washington_conservation_action/)
+* Cynthia Stewart - League of Women Voters of WA
+* 💵Kelsey Hulse
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Christopher Ferguson - Department of Enterprise Services

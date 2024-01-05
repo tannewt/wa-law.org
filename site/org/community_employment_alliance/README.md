@@ -11,8 +11,16 @@
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 
-## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓2
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.  👎2 
+* 👎💵 Aaron Dickson
+* 👎💵 Aaron Dickson
+
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget  👎1 ❓2
+* 👎💵 Courtney Williams
 * ❓💵 Courtney Williams
 * ❓💵 Courtney Williams
 
 ## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding  👎1 
+
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.  👎1 
+* 👎💵 Aaron Dickson

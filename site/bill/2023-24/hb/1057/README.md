@@ -29,6 +29,8 @@ Testifying:
 * Bruce Boyer - Washington State School Retirees' Assn.
 * Kristine Kraig - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
 
-#### 2 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Michael McKinley
 
 #### 4 ❓ - Other

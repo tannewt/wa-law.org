@@ -2,8 +2,12 @@
 
 ## [HB 1058](/bill/2023-24/hb/1058/) - Commercial driver's licenses 👍1  
 
-## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget 👍2  
+## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget 👍2  ❓1
+* ❓ Commissioner Dick Marzano
 * 👍 Sean Eagan
+
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
+* ❓ Sean Eagan
 
 ## [HB 1371](/bill/2023-24/hb/1371/) - Freight railroad infra. 👍3  
 
@@ -16,7 +20,8 @@
 * ❓ Sean Eagan
 * ❓ Sean Eagan
 
-## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓2
+* ❓ Sean Eagan
 * ❓ Sean Eagan
 
 ## [SB 5251](/bill/2023-24/sb/5251/) - Commercial driver's licenses 👍1  

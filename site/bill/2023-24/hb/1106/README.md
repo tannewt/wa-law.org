@@ -33,8 +33,15 @@ Testifying:
 #### 13 ❓ - Other
 
 ### Tue 01/10 10:30 AM - Labor & Workplace Standards (LAWS): HB 1106 Unemployment/voluntary
-#### 0 👍 - Pro
+#### 28 👍 - Pro
+Testifying:
+* Anne Paxton - [Unemployment Law Project](/org/unemployment_law_project/)
+* 💵Maggie Humphreys - MomsRising
+* 💵Sybill Hyppolite - Washington State Labor Council, AFL-CIO
 
-#### 0 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* Bob Battles - Association of Washington Business (AWB)
+* 💵Tammie Hetrick - Washington Food Industry Association
 
 #### 0 ❓ - Other

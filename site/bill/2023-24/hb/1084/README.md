@@ -23,9 +23,10 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Thu 01/19 04:00 PM - Transportation (TR): HB 1084 Freight mobility priority
-#### 25 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* 💵Mike Elliott
 
 #### 1 👎 - Con
 Testifying:

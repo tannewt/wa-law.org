@@ -1,9 +1,14 @@
 # College Success Foundation
 
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
+
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
 ## [HB 1146](/bill/2023-24/hb/1146/) - Dual credit program notice 👍1  
 * 👍💵 Juliet Schindler
+
+## [HB 1156](/bill/2023-24/hb/1156/) - College grant eligibility 👍1  
+* 👍 Maria Rebecchi
 
 ## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍1  
 
@@ -49,15 +54,19 @@
 ## [HB 1679](/bill/2023-24/hb/1679/) - Student homelessness group 👍1  
 * 👍💵 Juliet Schindler
 
-## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍2  
+## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍3  
+* 👍💵 Juliet Schindler
 * 👍💵 Juliet Schindler
 
 ## [SB 5072](/bill/2023-24/sb/5072/) - Highly capable students 👍1  
 * 👍💵 Juliet Schindler
 
+## [SB 5079](/bill/2023-24/sb/5079/) - Tuition establishment date 👍2  
+
 ## [SB 5124](/bill/2023-24/sb/5124/) - Nonrelative kin placement 👍2  
 
-## [SB 5174](/bill/2023-24/sb/5174/) - Student transportation 👍2  
+## [SB 5174](/bill/2023-24/sb/5174/) - Student transportation 👍4  
+* 👍💵 Emily Stochel
 
 ## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍1  
 
@@ -77,6 +86,9 @@
 ## [SB 5305](/bill/2023-24/sb/5305/) - Office of career connect WA 👍1  
 
 ## [SB 5397](/bill/2023-24/sb/5397/) - Public benefit payments/DCYF 👍1  
+
+## [SB 5408](/bill/2023-24/sb/5408/) - Ninth grade success grants 👍1  
+* 👍💵 Juliet Schindler
 
 ## [SB 5426](/bill/2023-24/sb/5426/) - Family connections program 👍1  
 

@@ -57,7 +57,13 @@ Testifying:
 * Eric pratt - I, America
 
 ### Tue 01/10 10:30 AM - Law & Justice (LAW): SB 5128 Jury diversity
-#### 0 👍 - Pro
+#### 16 👍 - Pro
+Testifying:
+* Judge Steve Rosen - King County Superior Court
+* 💵Russell Brown - WA Assoc of Prosecuting Attorneys
+* 💵Larry Shannon
+* Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Dr. Dana Raigrodski - Washington State Supreme Court Gender and Justice Commission
 
 #### 0 👎 - Con
 

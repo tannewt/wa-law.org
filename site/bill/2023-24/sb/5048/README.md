@@ -79,8 +79,22 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Wed 01/11 08:00 AM - Higher Education & Workforce Development (HEWD): SB 5048 College in high school fees
-#### 0 👍 - Pro
+#### 42 👍 - Pro
+Testifying:
+* Natalya Yudkovsky - Washington State PTA
+* Jim Kowalkowski - Rural Education Center
+* Tim Stetter - Director - UW in the High School
+* Amanda Kost - University of Washington Faculty
+* Steve DuPont - [Central Washington University](/org/central_washington_university/)
+* Bill Lyne - United Faculty of Washington State
+* 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
+* 💵Juliet Schindler - [College Success Foundation](/org/college_success_foundation/)
+* Terri Standish-Kuon - [Independent Colleges of Washington](/org/independent_colleges_of_washington/)
+* Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Jamie Traugott - State Board for Community & Technical Colleges
+* Michael Reese - Bellevue College in the High School

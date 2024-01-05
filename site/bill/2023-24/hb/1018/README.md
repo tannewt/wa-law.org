@@ -26,8 +26,18 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Tue 01/10 08:00 AM - Finance (FIN): HB 1018 Hog fuel/tax exemption
-#### 0 👍 - Pro
+#### 16 👍 - Pro
+Testifying:
+* Jackie White - Northwest Pulp and Paper Association
+* 💵John Ehrenreich - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
+* 💵Christine Brewer - The Avista Corporation
+* Rep. Mike Chapman
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* John Roskelley
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Sherri Dysart - League of Women Voters of Washington
+* Ed Chadd

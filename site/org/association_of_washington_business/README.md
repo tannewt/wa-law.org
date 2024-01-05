@@ -1,6 +1,6 @@
 # Association of Washington Business
 
-## [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍2  
+## [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍3  
 
 ## [HB 1003](/bill/2023-24/hb/1003/) - Dual credit program access 👍1  
 
@@ -10,7 +10,17 @@
 
 ## [HB 1018](/bill/2023-24/hb/1018/) - Hog fuel/tax exemption 👍1  
 
-## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals  👎3 
+## [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review 👍1  
+* 👍 Mike Ennis
+
+## [HB 1040](/bill/2023-24/hb/1040/) - Aviation & aerospace cmte. 👍1  
+* 👍 Mike Ennis
+
+## [HB 1042](/bill/2023-24/hb/1042/) - Use of existing buildings 👍1  
+* 👍 Mike Ennis
+
+## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals  👎4 
+* 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
@@ -18,22 +28,26 @@
 ## [HB 1058](/bill/2023-24/hb/1058/) - Commercial driver's licenses 👍1  
 * 👍 Mike Ennis
 
-## [HB 1070](/bill/2023-24/hb/1070/) - Property sale and leaseback 👍1  
+## [HB 1070](/bill/2023-24/hb/1070/) - Property sale and leaseback 👍2  
 
 ## [HB 1073](/bill/2023-24/hb/1073/) - Medical assistants 👍1  
 
 ## [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority   ❓1
 * ❓ Mike Ennis
 
-## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍2  
+## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍2 👎1 
+* 👎💵 Peter Godlewski
 * 👍💵 Peter Godlewski
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍4  
 * 👍 Mike Ennis
 * 👍 Mike Ennis
 
-## [HB 1117](/bill/2023-24/hb/1117/) - Power supply inadequacy 👍1  
+## [HB 1117](/bill/2023-24/hb/1117/) - Power supply inadequacy 👍2  
 * 👍💵 Peter Godlewski
+* 👍💵 Peter Godlewski
+
+## [HB 1124](/bill/2023-24/hb/1124/) - Residential rent and fees  👎1 
 
 ## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget   ❓1
 * ❓ Mike Ennis
@@ -52,7 +66,8 @@
 
 ## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍3  
 
-## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy   ❓2
+## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy   ❓3
+* ❓💵 Peter Godlewski
 * ❓💵 Peter Godlewski
 * ❓💵 Peter Godlewski
 
@@ -312,6 +327,9 @@
 
 ## [SB 5103](/bill/2023-24/sb/5103/) - Medicaid patients/discharge 👍2  
 
+## [SB 5118](/bill/2023-24/sb/5118/) - Multifamily property tax ex.   ❓1
+* ❓💵 Michael Ennis
+
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment  👎1 
 * 👎💵 Peter Godlewski
 
@@ -327,6 +345,8 @@
 ## [SB 5166](/bill/2023-24/sb/5166/) - Cooperative finance org. B&O 👍2  
 
 ## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍3  
+
+## [SB 5181](/bill/2023-24/sb/5181/) - Medical assistants 👍1  
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
 
@@ -366,6 +386,8 @@
 ## [SB 5289](/bill/2023-24/sb/5289/) - Impact fees/law enforcement  👎1 
 
 ## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review 👍3  
+
+## [SB 5297](/bill/2023-24/sb/5297/) - Commercial salmon fisheries  👎1 
 
 ## [SB 5302](/bill/2023-24/sb/5302/) - Adult family homes/prop. tax 👍1  
 

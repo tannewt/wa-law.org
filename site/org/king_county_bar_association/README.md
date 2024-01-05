@@ -1,5 +1,12 @@
 # King County Bar Association
 
+## [HB 1070](/bill/2023-24/hb/1070/) - Property sale and leaseback   ❓1
+* ❓💵 Edmund Witter
+
+## [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims 👍1  
+
+## [HB 1124](/bill/2023-24/hb/1124/) - Residential rent and fees 👍1  
+
 ## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍1  
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  

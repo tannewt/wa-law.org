@@ -15,16 +15,20 @@
 
 ## Meetings
 ### Thu 02/02 08:00 AM - Education (ED): HB 1615 Education savings accounts
-#### 88 👍 - Pro
+#### 172 👍 - Pro
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Lonny Ray Williams
 * Leslie Williams
 * Liv Finne - Washington Policy Center
 * Jeannie Magdua - Conservative Ladies of Washington
+* Quentin Orem
+* 💵Suzanne Hanson - Washington Federation of Independent Schools
 
-#### 6 👎 - Con
+#### 15 👎 - Con
 Testifying:
 * Glenn Jenkins
+* Marissa Rathbone - Washington State School Directors' Association (WSSDA)
+* Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
 
 #### 0 ❓ - Other

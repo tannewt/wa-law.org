@@ -34,8 +34,18 @@ Testifying:
 #### 2 ❓ - Other
 
 ### Thu 01/12 08:00 AM - Law & Justice (LAW): SB 5006 Waiver of firearm rights
-#### 0 👍 - Pro
+#### 80 👍 - Pro
+Testifying:
+* Ann Madsen
+* Diane Studley
+* Jane Weiss
 
-#### 0 👎 - Con
+#### 37 👎 - Con
+Testifying:
+* Eric Pratt - America
+* Julie Barrett - Conservative Ladies of Washington
+* Tom Kwieciak - [National Rifle Association](/org/national_rifle_association_of_america/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Josie Delvin - Washington State Association of County Clerks

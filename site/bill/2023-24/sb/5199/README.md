@@ -23,9 +23,18 @@
 
 ## Meetings
 ### Fri 04/14 08:00 AM - Finance (FIN): E2SSB 5199 Newspaper publishers/tax
-#### 0 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* 💵Rowland Thompson - Allied Daily Newspapers of Washington, Washington Newspaper Publishers Association
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* Frank DeVaul - DeVaul Publishing Inc
+* Ben Campbell - The Columbian
+* Rudi Alcott - Herald Media | Sound Publishing, Inc.
+* Chad Taylor - CT Publishing
+* Lunell Haught - LWV WA
+* Rory Paine-Donovan - Attorney General's Office
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Tim Eyman - Concerned citizen
 * Jeff Pack - Washington Citizens Against Unfair Taxes
@@ -46,8 +55,22 @@ Testifying:
 * Ian Doyle - Department of Revenue
 
 ### Thu 01/12 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5199 Newspaper publishers/tax
-#### 0 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* Ben Campbell - The Columbian Publishing Company
+* Joanne Lisosky
+* John Lester - Publisher - Shelton-Mason County Journal
+* Bob Ferguson - WA State Attorney General's Office
+* Joyce Bruce - WA State Attorney General's Office
+* Don Nelson - Publisher, Methow Valley News
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* Carol Rikerd
+* 💵Rowland Thompson - Allied Daily Newspapers of Washington, Washington Newspaper Publishers Association
+* Scott Hunter - The Star newspaper
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Dee Anne Finken - League of Women Voters of WA
+* Lunell Haught - League of Women Voters of WA

@@ -48,8 +48,22 @@ Testifying:
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 
 ### Tue 01/10 10:30 AM - Labor & Commerce (LC): SB 5123 Cannabis/employment
-#### 0 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* Micah Sherman - Raven
+* Burl Bryson - The Cannabis Alliance
 
-#### 0 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* Bob Battles - Association of Washington Business (AWB)
+* Jim King - Independent Business AssociaTION
+* 💵Bruce Chattin - WA Aggregates & Concrete Assoc.
 
-#### 0 ❓ - Other
+#### 10 ❓ - Other
+Testifying:
+* Ahmed King - Black excellence in Cannabis
+* Damian Mims - Black excellence in Cannabis
+* Mike Asai - Black excellence in Cannabis
+* Peter Manning - Black excellence in Cannabis
+* 💵Taylor Gardner - WASPC
+* 💵Matthew Hepner - IBEW/ceww

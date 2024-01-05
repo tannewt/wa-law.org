@@ -1,9 +1,18 @@
 # Washington Council for Behavioral Health
 
+## [HB 1021](/bill/2023-24/hb/1021/) - Social worker licensing 👍1  
+
+## [HB 1027](/bill/2023-24/hb/1027/) - Audio-only telemedicine 👍1  
+
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
+* 👍 Joan Miller
+
 ## [HB 1348](/bill/2023-24/hb/1348/) - Behavioral health support   ❓1
 * ❓ Julia O'Connor
 
 ## [SB 5036](/bill/2023-24/sb/5036/) - Audio-only telemedicine 👍1  
+
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
 
 ## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support   ❓1
 * ❓ Julia O'Connor

@@ -18,7 +18,10 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Tue 01/10 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1066 Technical corrections
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Kathy Buchli - Office of the Code Reviser
+* Mark Lally - Office of the Code Reviser
 
 #### 0 👎 - Con
 

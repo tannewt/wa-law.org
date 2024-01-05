@@ -23,8 +23,14 @@ Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 ### Wed 01/11 01:30 PM - State Government & Tribal Relations (SGOV): HB 1179 Nonconviction data/auditor
-#### 0 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Leslie Cushman - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
+* Sadie Armijo - Office of the Washington State Auditor
+* 💵Scott Nelson - Office of the Washington State Auditor
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs

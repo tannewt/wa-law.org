@@ -2,7 +2,11 @@
 
 ## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 
+## [HB 1041](/bill/2023-24/hb/1041/) - Prescribing psychologists  👎1 
+
 ## [HB 1082](/bill/2023-24/hb/1082/) - PT & OT service corporations 👍1  
+
+## [HB 1087](/bill/2023-24/hb/1087/) - Solitary confinement 👍1  
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 * 👍 Amanda Kost
@@ -12,12 +16,14 @@
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
 * 👍 Jennifer Stuber
 
-## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍2  
+* 👍💵 Morgan Hickel
 * 👍 Joe Dacca
 
 ## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer  👎1 
 
-## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget   ❓1
+## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  ❓1
+* 👍 Joe Dacca
 * ❓💵 Morgan Hickel
 
 ## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍1  
@@ -87,13 +93,14 @@
 * 👍 Joe Dacca
 * 👍 Amanda Kost
 
-## [SB 5079](/bill/2023-24/sb/5079/) - Tuition establishment date 👍1  
+## [SB 5079](/bill/2023-24/sb/5079/) - Tuition establishment date 👍2  
 
 ## [SB 5169](/bill/2023-24/sb/5169/) - Medicare/health care plans 👍2  
 
 ## [SB 5179](/bill/2023-24/sb/5179/) - Death with dignity act 👍1  
 
-## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍2  
+* 👍 Joe Dacca
 * 👍 Joe Dacca
 
 ## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍4  
@@ -104,7 +111,8 @@
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
 
-## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
+## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍2  
+* 👍💵 Morgan Hickel
 * 👍💵 Morgan Hickel
 
 ## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I 👍1  

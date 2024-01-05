@@ -18,7 +18,10 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Wed 01/11 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1102 Judge pro tempore compen.
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Judge Sean O'Donnell - Superior Court Judges' Association
 
 #### 0 👎 - Con
 

@@ -25,8 +25,16 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Mon 01/09 01:30 PM - Housing (HOUS): HB 1043 Records/comm. associations
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Toby Nixon
 
-#### 0 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Valerie Oman - Condo Law Group/WSCAI
+* Brian Mackey - Wynbrook II HOA
+* 💵Krystelle Purkey - Washington State Chapter of Community Association Institute
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Patrick Johansen - RiseUpWA, Housing Justice Committee

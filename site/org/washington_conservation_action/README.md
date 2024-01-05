@@ -2,6 +2,8 @@
 
 ## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals 👍2  
 
+## [HB 1076](/bill/2023-24/hb/1076/) - Salmon voluntary stewardship  👎1 
+
 ## [HB 1081](/bill/2023-24/hb/1081/) - Derelict vessel appeals 👍1  
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
@@ -10,6 +12,8 @@
 
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍3  
 * 👍💵 Clifford Traisman
+
+## [HB 1158](/bill/2023-24/hb/1158/) - Advisory votes 👍1  
 
 ## [HB 1166](/bill/2023-24/hb/1166/) - Water quality trading prog.  👎1 
 
@@ -30,6 +34,9 @@
 * 👍 Rachel Baker
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍2  
+
+## [HB 1342](/bill/2023-24/hb/1342/) - Embodied carbon reductions   ❓1
+* ❓💵 Darcy Nonemacher
 
 ## [HB 1365](/bill/2023-24/hb/1365/) - Puget Sound water quality 👍1  ❓1
 * ❓💵 Darcy Nonemacher
@@ -57,7 +64,7 @@
 
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍4  
 
-## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍3  
+## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍4  
 
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1  
 
@@ -99,3 +106,6 @@
 
 ## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands. 👍2  
 * 👍💵 Darcy Nonemacher
+
+## [SCR 8402](/bill/2023-24/scr/8402/) - Jennifer Belcher Building 👍2  
+* 👍 Miguel Perez Gibson

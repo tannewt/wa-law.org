@@ -1,5 +1,8 @@
 # The Washington Bus
 
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍4  
+* 👍💵 Jazmine Smith
+
 ## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍8  
 * 👍 Adaora Ugwueze
 
@@ -16,10 +19,14 @@
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍6  
 * 👍💵 Jazmine Smith
 
+## [HB 1885](/bill/2023-24/hb/1885/) - Strengthening campaign finance disclosure by prohibiting campaign contributions and expenditures by foreign-influenced corporations. 👍1  
+
+## [HB 1932](/bill/2023-24/hb/1932/) - Shifting general elections for local governments to even-numbered years to increase voter participation. 👍1  
+
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍2  
 * 👍💵 Jazmine Smith
 
-## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍11  
+## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍13  
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
 * ❓💵 Jazmine Smith
@@ -44,3 +51,5 @@
 
 ## [SB 5723](/bill/2023-24/sb/5723/) - Even-numbered year elections 👍6  
 * 👍💵 Jazmine Smith
+
+## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍1  

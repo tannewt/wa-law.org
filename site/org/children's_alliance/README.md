@@ -8,6 +8,8 @@
 
 ## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
 
+## [HB 1158](/bill/2023-24/hb/1158/) - Advisory votes 👍1  
+
 ## [HB 1168](/bill/2023-24/hb/1168/) - Prenatal substance exposure 👍2  
 
 ## [HB 1188](/bill/2023-24/hb/1188/) - Child welfare services/DD 👍2  

@@ -47,13 +47,24 @@ Testifying:
 * Gabriel Wofford - HBM
 
 ### Thu 02/02 10:30 AM - Health & Long Term Care (HLTC): SB 5179 Death with dignity act
-#### 1016 👍 - Pro
+#### 1127 👍 - Pro
 Testifying:
 * Jody Disney - LWVWA
 * Karen Tvedt
+* Nat Dean
+* Cassa Sutherland - [End of Life Washington](/org/end_of_life_washington/)
+* George Hendrickson
+* Heather Jespersen
+* Darrell Owens
+* Deborah North
+* Dick Gibson
 * Gary Norman
+* Alison Riffer
+* Dr. Jess Kaan
+* Cody Solders
+* Marie Eaton
 
-#### 409 👎 - Con
+#### 657 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Conrad Reynoldson - Washington Civil & Disability Advocate
@@ -70,5 +81,6 @@ Testifying:
 * David K DeWolf
 * Joseph Havens
 * MD, Robin Bernhoft
+* Richard Grunewald
 
 #### 2 ❓ - Other

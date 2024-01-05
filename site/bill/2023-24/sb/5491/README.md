@@ -29,14 +29,15 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Thu 02/02 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5491 Residential building exits
-#### 15 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Michael Eliason
 * Scott Bonjukian
+* Matt Hutchins - cast architecture
 
 #### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Stoyan Bumbalov - State Building Code Council

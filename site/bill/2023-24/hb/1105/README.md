@@ -18,8 +18,12 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Wed 01/11 01:30 PM - State Government & Tribal Relations (SGOV): HB 1105 Public comment notice
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Joe Kunzler - None
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)

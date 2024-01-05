@@ -2,6 +2,19 @@
 
 ## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
 
+## [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review 👍1  
+* 👍💵 Josie Cummings
+
+## [HB 1042](/bill/2023-24/hb/1042/) - Use of existing buildings 👍1  
+
+## [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims  👎1 
+
+## [HB 1078](/bill/2023-24/hb/1078/) - Urban forest management  👎2 
+* 👎💵 Brent Ludeman
+
+## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution   ❓1
+* ❓💵 Brent Ludeman
+
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍5  
 * 👍💵 Brent Ludeman
 * 👍💵 Josie Cummings
@@ -117,11 +130,18 @@
 
 ## [HB 1762](/bill/2023-24/hb/1762/) - Warehouse employees  👎1 
 
+## [SB 5027](/bill/2023-24/sb/5027/) - American dream homes  👎1 
+* 👎💵 Jan Himebaugh
+
+## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax  👎1 
+
 ## [SB 5058](/bill/2023-24/sb/5058/) - Multiunit res. buildings 👍2  
 * 👍💵 Josie Cummings
 * 👍💵 Tricia Gullion
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
+
+## [SB 5060](/bill/2023-24/sb/5060/) - Rental & vacant properties  👎1 
 
 ## [SB 5159](/bill/2023-24/sb/5159/) - Shoreline program review 👍2  
 * 👍💵 Josie Cummings

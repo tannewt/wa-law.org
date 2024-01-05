@@ -54,7 +54,7 @@ Testifying:
 * Jordan Palmeri - University of Washington - Carbon Leadership Forum
 
 ### Thu 02/02 01:30 PM - Capital Budget (CB): HB 1282 Public building materials
-#### 383 👍 - Pro
+#### 444 👍 - Pro
 Testifying:
 * Patrick Jablonski - [Nucor Steel Seattle Inc](/org/nucor_steel_seattle_inc/)
 * 💵Donny Donovan - IAM 751
@@ -65,14 +65,22 @@ Testifying:
 * Bill Frare - Washington State Department of Enterprise Services
 * Hanna Waterstrat - Department of Commerce
 * Alex Ianchenko - AIA Washington Council, Architects and Engineers Legislative Council
+* 💵John Traynor - Washington State Labor Council, AFL-CIO
 * 💵Donny Donovan - IAM 751
 * Robin Everett - [Sierra Club](/org/sierra_club/)
 * 💵Heather Kurtenbach - Political Director, Iron Workers Local #86
+* 💵Mark Riker - Washington State Building & Construction Trades Council
+* Zoe Lipman - AFL-CIO
 
-#### 24 👎 - Con
+#### 61 👎 - Con
 Testifying:
 * Rachael Jamison - [American Wood Council](/org/american_wood_council/)
+* 💵Christine Brewer - [Associated General Contractors of Washington](/org/associated_general_contractors_of_washington/)
+* 💵Bruce Chattin - WA aggregates & Concrete Assn
+* Tom Davis - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Stacy Smedley - Building Transparency
+* Kate Simonen - Carbon Leadership Forum, University of Washington
+* Ed Chadd

@@ -11,5 +11,7 @@
 ## [HB 1745](/bill/2023-24/hb/1745/) - Diversity in clinical trials 👍1  
 * 👍 Tamara Clough
 
+## [SB 5036](/bill/2023-24/sb/5036/) - Audio-only telemedicine 👍1  
+
 ## [SB 5365](/bill/2023-24/sb/5365/) - Vapor and tobacco/minors 👍1  
 * 👍 Carol Coram

@@ -54,8 +54,16 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Thu 01/12 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5096 Employee ownership
-#### 0 👍 - Pro
+#### 21 👍 - Pro
+Testifying:
+* Jack Moriarty - Ownership America
+* Mitchell Miller - GreatBanc Trust Company
+* Steve Storkan - Employee Ownership Expansion Network
+* 💵Gabriel Neuman - GSBA
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Keith Swenson - Washington State Department of Commerce
+* Mauri Ingram - Whatcom Community Foundation

@@ -31,7 +31,9 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1728 Statewide resiliency program
-#### 2 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Representative Ryu
 
 #### 2 👎 - Con
 

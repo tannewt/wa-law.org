@@ -12,8 +12,31 @@
 
 ## Meetings
 ### Thu 01/12 01:30 PM - Capital Budget (CB): HB 1149 Housing/capital expenditures
-#### 0 👍 - Pro
+#### 281 👍 - Pro
+Testifying:
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* MARK SMITH - Housing Consortium of Everett & Snohomish County
+* Bilan Aden - [African Community Housing & Development](/org/african_community_housing_&_development/)
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Lisa Vatske - WSHFC
+* 💵Paula Sardinas - FMSGS / WBBA
+* Dennis Sills
+* Naomi Morris - RN, Downtown Emergency Services Center
+* Trudy Soucoup - Homes First
+* 💵Nathan Gorton - Washington realtors
+* Emily Thompson - Coalition For Affordable Housing Development
+* 💵Nick Federici - United Way of King County and United Ways of the Pacific Northwest
 
-#### 0 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* Krista Milhofer - People First of Washington
+* Courtney Thom - self-advocate
+* Mike Raymond - Self Advocate
+* Michael McKinley
+* Ivanova Smith - Self-advocate
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* robert wardell - self adovates
+* 💵Dave Mastin

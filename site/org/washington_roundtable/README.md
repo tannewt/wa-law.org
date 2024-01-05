@@ -30,10 +30,11 @@
 * ❓💵 Neil Strege
 * ❓💵 Neil Strege
 
-## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
+## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍2  
+* 👍💵 Neil Strege
 * 👍💵 Neil Strege
 
-## [SB 5079](/bill/2023-24/sb/5079/) - Tuition establishment date 👍1  
+## [SB 5079](/bill/2023-24/sb/5079/) - Tuition establishment date 👍2  
 
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  
 
@@ -55,4 +56,4 @@
 
 ## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages 👍2  
 
-## [SB 5765](/bill/2023-24/sb/5765/) - I-5 bridge tolling 👍1  
+## [SB 5765](/bill/2023-24/sb/5765/) - I-5 bridge tolling 👍2  

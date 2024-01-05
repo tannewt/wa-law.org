@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Wed 03/15 04:00 PM - Transportation (TR): SB 5531 Milk product haulers
-#### 19 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Jay Gordon - WA State Dairy Federation
 * Kristi Kangas - [Darigold](/org/darigold/)
@@ -16,6 +16,7 @@ Testifying:
 * Kristi Kangas - [Darigold](/org/darigold/)
 * Russ Brandt - [Darigold](/org/darigold/)
 * 💵Sheri Call - Washington Trucking Associations
+* Sen. Sharon Shewmake
 
 #### 3 👎 - Con
 

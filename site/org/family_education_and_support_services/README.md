@@ -1,6 +1,7 @@
 # Family Education and Support Services
 
-## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  ❓2
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍2  ❓2
+* 👍 Shelly Willis
 * ❓ Shelly Willis
 * 👍 Shelly Willis
 

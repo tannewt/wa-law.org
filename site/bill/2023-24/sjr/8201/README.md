@@ -9,7 +9,15 @@
 
 ## Meetings
 ### Thu 02/02 04:00 PM - Ways & Means (WM): SJR 8201 Public works account
-#### 0 👍 - Pro
+#### 23 👍 - Pro
+Testifying:
+* Justin Clary - Member, Public Works Board
+* Kathryn Gardow - Chair, Public Works Board
+* 💵Scott Hazlegrove - WA Association of Sewer & Water Districts
+* Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Marc Powell - Tacoma Water/Tacoma Public Utilities
+* 💵Jerry Vanderwood - [Associated General Contractors of Washington](/org/associated_general_contractors_of_washington/)
+* Van Collins - American Council of Engineering Companies
 
 #### 0 👎 - Con
 

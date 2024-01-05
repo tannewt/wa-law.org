@@ -24,7 +24,7 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Tue 01/17 04:00 PM - Transportation (TRAN): SB 5023 Roadside safety measures
-#### 26 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * Phil Waldner - Fife Towing
 * Corey Wells - TLC Towing
@@ -35,6 +35,7 @@ Testifying:
 * Kris Zachary - Burns Towing
 * 💵Peter Lukevich - [Towing and Recovery Association of Washington](/org/towing_and_recovery_association_of_washington/)
 * Cory Wells - TLC Towing
+* Jake Black - TLC Towing
 * Kris Zachary - Burns Towing
 * 💵Peter Lukevich - [Towing and Recovery Association of Washington](/org/towing_and_recovery_association_of_washington/)
 

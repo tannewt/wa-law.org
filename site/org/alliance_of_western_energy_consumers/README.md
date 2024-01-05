@@ -1,6 +1,6 @@
 # Alliance of Western Energy Consumers
 
-## [HB 1117](/bill/2023-24/hb/1117/) - Power supply inadequacy 👍1  
+## [HB 1117](/bill/2023-24/hb/1117/) - Power supply inadequacy 👍2  
 
 ## [HB 1192](/bill/2023-24/hb/1192/) - Electric transm. planning 👍1  
 

@@ -1,5 +1,7 @@
 # Washington Farm Forestry Association
 
+## [HB 1018](/bill/2023-24/hb/1018/) - Hog fuel/tax exemption 👍1  
+
 ## [HB 1342](/bill/2023-24/hb/1342/) - Embodied carbon reductions 👍1  
 
 ## [HB 1488](/bill/2023-24/hb/1488/) - Working forest license plate 👍4  

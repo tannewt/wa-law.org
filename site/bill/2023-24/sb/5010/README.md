@@ -25,8 +25,14 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Thu 01/12 08:00 AM - Law & Justice (LAW): SB 5010 Synthetic opioids/endanger.
-#### 0 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Erik Podhora - Clark County Prosecuting Attorney's Office
+* Gunnar Skollingsberg - Vancouver Police Department
+* Wayne Phillips - Clark County Sheriff's Office
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* David Trieweiler - WACDL/WDA
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

@@ -1,7 +1,13 @@
 # Sightline Institute
 
-## [HB 1042](/bill/2023-24/hb/1042/) - Use of existing buildings 👍1  
+## [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review 👍2  
 * 👍💵 Dan Bertolet
+
+## [HB 1042](/bill/2023-24/hb/1042/) - Use of existing buildings 👍3  
+* 👍💵 Dan Bertolet
+* 👍💵 Dan Bertolet
+
+## [HB 1046](/bill/2023-24/hb/1046/) - Housing dev. income limits 👍1  
 
 ## [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act 👍1  
 
@@ -73,7 +79,8 @@
 
 ## [SB 5412](/bill/2023-24/sb/5412/) - Land use permitting/local 👍1  
 
-## [SB 5456](/bill/2023-24/sb/5456/) - Minimum parking requirements 👍1  
+## [SB 5456](/bill/2023-24/sb/5456/) - Minimum parking requirements 👍2  
+* 👍 Catie Gould
 * 👍 Catie Gould
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍4  
@@ -82,6 +89,8 @@
 * 👍💵 Dan Bertolet
 
 ## [SB 5473](/bill/2023-24/sb/5473/) - Project permit timelines 👍1  
+
+## [SB 5491](/bill/2023-24/sb/5491/) - Residential building exits 👍1  
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍2  
 

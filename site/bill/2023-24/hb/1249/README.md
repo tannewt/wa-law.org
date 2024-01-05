@@ -20,4 +20,6 @@ Testifying:
 Testifying:
 * Ramsey Doudar - Patients & Users for Reasonable Policy (PURP)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Marc Webster - Washington State Liquor and Cannabis Board

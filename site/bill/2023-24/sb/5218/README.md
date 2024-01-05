@@ -14,7 +14,12 @@
 
 ## Meetings
 ### Fri 04/14 08:00 AM - Finance (FIN): SSB 5218 Mobility enhancing equip/tax
-#### 1 👍 - Pro
+#### 174 👍 - Pro
+Testifying:
+* Donald Whitney - Inland Medical and Rehab/PAMES
+* spencer rowe
+* Shawn Latham - Allies in Advocacy
+* mark challender
 
 #### 0 👎 - Con
 

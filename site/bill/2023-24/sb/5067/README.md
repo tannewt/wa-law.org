@@ -8,7 +8,9 @@
 
 ## Meetings
 ### Thu 01/12 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5067 County legislative meetings
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Jerome Delvin - Benton County
 
 #### 0 👎 - Con
 

@@ -20,6 +20,8 @@
 
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍1  
 
+## [SB 5456](/bill/2023-24/sb/5456/) - Minimum parking requirements  👎1 
+
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  ❓1
 
 ## [SB 5674](/bill/2023-24/sb/5674/) - Surplus property/housing 👍1  

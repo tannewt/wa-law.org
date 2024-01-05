@@ -72,8 +72,23 @@ Testifying:
 #### 2 ❓ - Other
 
 ### Mon 01/09 01:30 PM - Environment & Energy (ENVI): HB 1047 Cosmetic product chemicals
-#### 0 👍 - Pro
+#### 108 👍 - Pro
+Testifying:
+* Ann Murphy - League of Women Voters of Washington
+* Erika Schreder - Toxic-Free Future
+* Megan Liu - Toxic-Free Future
+* Yuwa Vosper - We ACT for Environmental Justice
+* Ashley Evans - Hazardous Waste Management Program, King County
+* Shirlee Tann - King County Health
+* 💵Nick Federici - Toxic Free Future
 
-#### 0 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* Nora Palattao Burnes - [Personal Care Products Council](/org/personal_care_products_council/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* Carlos Gutierrez - Consumer Healthcare Products Association (CHPA)
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Holly Davies - Washington State Dept. of Health
+* Marissa Smith - Washington State Dept. of Ecology

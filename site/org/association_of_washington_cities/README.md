@@ -1,6 +1,7 @@
 # Association of Washington Cities
 
-## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
+* 👍💵 Candice Bock
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
@@ -10,7 +11,14 @@
 * 👎💵 Candice Bock
 * 👎💵 Candice Bock
 
-## [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act   ❓1
+## [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review 👍1  
+* 👍💵 Carl Schroeder
+
+## [HB 1042](/bill/2023-24/hb/1042/) - Use of existing buildings   ❓1
+* ❓💵 Carl Schroeder
+
+## [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act   ❓2
+* ❓💵 Candice Bock
 * ❓💵 Candice Bock
 
 ## [HB 1050](/bill/2023-24/hb/1050/) - Apprenticeship utilization 👍1  ❓1
@@ -19,7 +27,12 @@
 
 ## [HB 1056](/bill/2023-24/hb/1056/) - Postretirement employment 👍2  
 
-## [HB 1080](/bill/2023-24/hb/1080/) - Body worn cameras 👍1  
+## [HB 1076](/bill/2023-24/hb/1076/) - Salmon voluntary stewardship 👍1  
+
+## [HB 1078](/bill/2023-24/hb/1078/) - Urban forest management   ❓1
+* ❓💵 Carl Schroeder
+
+## [HB 1080](/bill/2023-24/hb/1080/) - Body worn cameras 👍2  
 * 👍💵 Lindsey Hueer
 
 ## [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority 👍1  
@@ -28,6 +41,9 @@
 
 ## [HB 1099](/bill/2023-24/hb/1099/) - Public works wages   ❓1
 * ❓ Brandy DeLange
+
+## [HB 1105](/bill/2023-24/hb/1105/) - Public comment notice   ❓1
+* ❓💵 Candice Bock
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓5
 * ❓💵 Carl Schroeder
@@ -43,6 +59,12 @@
 * 👍💵 Carl Schroeder
 
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍2  
+
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
+* 👍💵 Candice Bock
+
+## [HB 1149](/bill/2023-24/hb/1149/) - Housing/capital expenditures 👍1  
+* 👍💵 Carl Schroeder
 
 ## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍1  ❓1
 * ❓💵 Carl Schroeder
@@ -200,6 +222,8 @@
 
 ## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment 👍1  
 
+## [SB 5039](/bill/2023-24/sb/5039/) - Wildfires/electric utilities 👍1  
+
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍1  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
@@ -211,12 +235,17 @@
 * 👎💵 Candice Bock
 * 👎💵 Candice Bock
 
+## [SB 5060](/bill/2023-24/sb/5060/) - Rental & vacant properties   ❓1
+* ❓💵 Carl Schroeder
+
 ## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity   ❓2
 * ❓💵 Lindsey Hueer
 
 ## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍1  
 
 ## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
+
+## [SB 5118](/bill/2023-24/sb/5118/) - Multifamily property tax ex.   ❓1
 
 ## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍3  
 
@@ -230,7 +259,8 @@
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  
 * 👍 Brandy DeLange
 
-## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍2  
+* 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing   ❓1
@@ -392,3 +422,6 @@
 ## [SB 5722](/bill/2023-24/sb/5722/) - Traffic cameras, photo tolls 👍1  
 
 ## [SB 5723](/bill/2023-24/sb/5723/) - Even-numbered year elections 👍1  
+
+## [SJR 8201](/bill/2023-24/sjr/8201/) - Public works account 👍1  
+* 👍 Brandy DeLange

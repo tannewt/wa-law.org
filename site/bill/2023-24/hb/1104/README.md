@@ -26,8 +26,15 @@ Testifying:
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 
 ### Tue 01/10 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1104 Deferred prosecutions
-#### 0 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Julie Mitchell - Association of Alcoholism and Addiction Providers
+* Geoffrey Burg - Washington Defenders Association and Washington Association of Criminal Defense Lawyers
+* Amy Freedheim
+* Linda Thompson - Washington Association for Substance Misuse and Violence Prevention
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* James McMahan - Washington Association of Sheriffs and Police Chiefs

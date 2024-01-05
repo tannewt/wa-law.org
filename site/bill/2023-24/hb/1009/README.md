@@ -60,7 +60,18 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Wed 01/11 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1009 Military spouse employment
-#### 0 👍 - Pro
+#### 41 👍 - Pro
+Testifying:
+* Maria Tobin - South Sound Military & Communities Partnership
+* 💵Aaron Czyzewski - Food Lifeline / WA Military Family Hunger Coalition
+* Breck Lebegue
+* Chantelle Petrone Marker
+* Tammie Perreault - Department of Defense
+* Anthony Varela - Veteran Legislative Coalition
+* Allison Gunta
+* Coryn Davis
+* Barbara Mapes
+* Breck Lebegue
 
 #### 0 👎 - Con
 

@@ -11,10 +11,12 @@
 
 ## Meetings
 ### Tue 01/24 04:00 PM - Environment & Energy (ENVI): HB 1347 Comm.-based health assess.
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation
 * Karen Condon - Confederated Tribes of the Colville Reservation
+* Dr Ron Reid - Confederated Bands and Tribes of the Yakama Nation
+* 💵Dawn Vyvyan - [Puyallup Tribe of Indians](/org/puyallup_tribe_of_indians/)
 
 #### 1 👎 - Con
 Testifying:

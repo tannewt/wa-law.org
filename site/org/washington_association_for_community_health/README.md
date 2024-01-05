@@ -1,5 +1,9 @@
 # Washington Association for Community Health
 
+## [HB 1006](/bill/2023-24/hb/1006/) - Drug testing equipment 👍1  
+
+## [HB 1027](/bill/2023-24/hb/1027/) - Audio-only telemedicine 👍1  
+
 ## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
 * ❓💵 Courtney Smith
 

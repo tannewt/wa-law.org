@@ -5,11 +5,11 @@
 
 ## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍1  
 
-## [HB 1017](/bill/2023-24/hb/1017/) - Cosmetologists, etc/licenses 👍1  
+## [HB 1017](/bill/2023-24/hb/1017/) - Cosmetologists, etc/licenses 👍2  
 
-## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals  👎2 ❓1
+## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals  👎2 ❓2
 
-## [HB 1068](/bill/2023-24/hb/1068/) - Injured worker medical exams  👎1 
+## [HB 1068](/bill/2023-24/hb/1068/) - Injured worker medical exams  👎2 
 * 👎 ROSE GUNDERSEN
 
 ## [HB 1072](/bill/2023-24/hb/1072/) - Motor vehicle length 👍1  
@@ -21,13 +21,18 @@
 * 👍 ROSE GUNDERSEN
 * 👍 ROSE GUNDERSEN
 
+## [HB 1095](/bill/2023-24/hb/1095/) - Wage replacement  👎1 
+
+## [HB 1106](/bill/2023-24/hb/1106/) - Unemployment/voluntary  👎1 
+
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management   ❓2
 * ❓💵 Mark Johnson
 
 ## [HB 1137](/bill/2023-24/hb/1137/) - Return-to-work opportunities 👍1  
 * 👍 ROSE GUNDERSEN
 
-## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍2  
+* 👍💵 Mark Johnson
 
 ## [HB 1152](/bill/2023-24/hb/1152/) - Consumer products/gender   ❓1
 * ❓ ROSE GUNDERSEN
@@ -129,13 +134,16 @@
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 
+## [SB 5061](/bill/2023-24/sb/5061/) - Personnel records   ❓1
+
 ## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍1  
 
 ## [SB 5110](/bill/2023-24/sb/5110/) - Labor practices/penalties  👎1 
 
 ## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍3  
 
-## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍3  
+## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍4  
+* 👍💵 Mark Johnson
 * 👍💵 Mark Johnson
 * 👍💵 Mark Johnson
 
@@ -152,7 +160,8 @@
 ## [SB 5171](/bill/2023-24/sb/5171/) - Consumer products/gender  👎1 
 * 👎 ROSE GUNDERSEN
 
-## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  ❓1
+* 👍💵 Mark Johnson
 * ❓💵 Mark Johnson
 
 ## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍1  

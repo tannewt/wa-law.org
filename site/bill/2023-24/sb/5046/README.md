@@ -74,8 +74,15 @@ Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 ### Thu 01/12 08:00 AM - Law & Justice (LAW): SB 5046 Postconviction counsel
-#### 0 👍 - Pro
+#### 101 👍 - Pro
+Testifying:
+* Larry Jefferson - Director, Washington State Office of Public Defense
+* Jeffrey Ellis - Seattle Clemency Redemption Project
+* Greg Link - WDA/WACDL
+* 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Russell Brown - WA Association of Prosecuting Attorneys

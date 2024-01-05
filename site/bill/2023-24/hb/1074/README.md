@@ -50,8 +50,33 @@ Testifying:
 * Cory Brewer
 
 ### Thu 01/12 08:00 AM - Housing (HOUS): HB 1074 Landlord damage claims
-#### 0 👍 - Pro
+#### 174 👍 - Pro
+Testifying:
+* Devin Glaser - Tenant Law Center
+* 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
+* Violet Lavatai - Tenants Union of WA
+* Kasey Burton - Tenant Law Center
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Terri Anderson - Tenants Union of Washington State
+* Christopher Brunetti - Northwest Justice Project
+* Fonci Richardson - Not as an organization, just as a tenant who has a story worth hearing.
+* Christopher Hale
+* Seth Lockheart
 
-#### 0 👎 - Con
+#### 42 👎 - Con
+Testifying:
+* Marie Petite
+* Fei Priddy
+* Carol Rasmussen
+* Dezda Finn
+* Constance Nelson
+* Patricia Hoendermis - Yakima Valley landlords Association
+* Bruce Becker - Bruce Becker
+* MariLyn Yim
+* Lyle Crews
+* Elisa Lyles
+* Erik Brand
+* Kevin Glenn
+* Richard Hoy
 
 #### 0 ❓ - Other

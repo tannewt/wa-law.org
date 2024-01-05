@@ -9,7 +9,7 @@
 
 ## Meetings
 ### Thu 02/02 08:00 AM - Labor & Commerce (LC): SB 5375 Low-proof beverages/tax
-#### 340 👍 - Pro
+#### 394 👍 - Pro
 Testifying:
 * Bob Turnage - [Republic National Distributing Company](/org/republic_national_distributing_company/)
 * 💵Vicki Christophersen - Association of Washington Spirits and Wine Distributors
@@ -22,11 +22,14 @@ Testifying:
 * Scott Stocum - Southern Glazer's Wine and Spirits
 * 💵David Ducharme - Distilled Spirits Council of the United States
 
-#### 177 👎 - Con
+#### 195 👎 - Con
 Testifying:
 * 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
 * Kevin Quinn - Bale Breaker Brewing Co.
 * 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 * Maggie Elliot - Hop Growers of Washington
+* Scott Waller - WASAVP - Prevention First! for Safe and Healthy Communities
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jim Hedrick - [Washington Distillers Guild](/org/washington_distillers_guild/)

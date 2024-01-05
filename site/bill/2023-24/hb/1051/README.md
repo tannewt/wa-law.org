@@ -36,8 +36,19 @@ Testifying:
 #### 1 ❓ - Other
 
 ### Tue 01/10 01:30 PM - Consumer Protection & Business (CPB): HB 1051 Robocalls & telephone scams
-#### 0 👍 - Pro
+#### 15 👍 - Pro
+Testifying:
+* Mina Shahin - Attorney General's Office
+* David Thompson
+* 💵Shaun Scott
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 7 ❓ - Other
+Testifying:
+* 💵Joe Adamack - GoWest Credit Union Association
+* Bob Battles - Association of Washington Business (AWB)
+* Katie Kolan - Washington State Hospital Association (WSHA)
+* Jeff Gombosky - CTIA
+* Terri Standish-Kuon - [Independent Colleges of Washington](/org/independent_colleges_of_washington/)
+* 💵Kelsi Hamilton - WA Collectors Assoc.

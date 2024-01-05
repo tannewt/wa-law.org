@@ -21,11 +21,11 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Thu 02/02 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5439 Livestock identification
-#### 8 👍 - Pro
+#### 37 👍 - Pro
 Testifying:
 * 💵Mark Streuli - [Washington Cattlemen's Association](/org/washington_cattlemen's_association/)
 * Brennan Kimbel - Washington State Department of Agriculture
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

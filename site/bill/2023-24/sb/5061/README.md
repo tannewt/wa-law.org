@@ -9,8 +9,25 @@
 
 ## Meetings
 ### Thu 01/12 08:00 AM - Labor & Commerce (LC): SB 5061 Personnel records
-#### 0 👍 - Pro
+#### 66 👍 - Pro
+Testifying:
+* Patrick McGah
+* Cher Scarlett
+* Jesse Wing - [Washington Employment Lawyers Association](/org/washington_employment_lawyers_association/)
+* Lauren Richardson-Berg - [Washington Employment Lawyers Association](/org/washington_employment_lawyers_association/)
+* Katherine Mason - Washington State Association for Justice
+* 💵John Traynor - Washington State Labor Council, AFL-CIO
+* Jane Dale - Washington State Association for Justice
 
-#### 0 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* 💵Patrick Connor - NFIB
+* 💵James King - [Independent Business Association](/org/independent_business_association/)
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Bob Battles - Association of Washington Business (AWB)
+* Caitlyn Jekel - WA State Employment Security Dept
+* Tammy Fellin - Labor & Industries
+* 💵Zosia Stanley - Washington State Hospital Association

@@ -4,7 +4,8 @@
 
 ## [HB 1106](/bill/2023-24/hb/1106/) - Unemployment/voluntary 👍1  
 
-## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓2
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  ❓2
+* 👍💵 Emily Murphy
 * ❓💵 Emily Murphy
 * ❓💵 Emily Murphy
 
@@ -20,7 +21,8 @@
 * ❓ Deeann Puffert
 * ❓💵 Emily Murphy
 
-## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓2
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  ❓2
+* 👍💵 Emily Murphy
 * ❓💵 Emily Murphy
 * ❓💵 Emily Murphy
 

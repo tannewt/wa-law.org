@@ -1,12 +1,18 @@
 # Hopelink
 
-## [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims 👍1  
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
+
+## [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims 👍2  
 
 ## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
+## [HB 1124](/bill/2023-24/hb/1124/) - Residential rent and fees 👍1  
+
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍4  
+
+## [HB 1149](/bill/2023-24/hb/1149/) - Housing/capital expenditures 👍1  
 
 ## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍2  
 
@@ -57,7 +63,7 @@
 
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍3  
 
-## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍3  
+## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍4  
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 

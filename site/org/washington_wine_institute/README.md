@@ -4,7 +4,8 @@
 * ❓ Josh McDonald
 * ❓ Josh McDonald
 
-## [HB 1182](/bill/2023-24/hb/1182/) - Wine/alcohol tax exemption 👍1  
+## [HB 1182](/bill/2023-24/hb/1182/) - Wine/alcohol tax exemption 👍2  
+* 👍 Josh McDonald
 * 👍 Josh McDonald
 
 ## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍4  
@@ -39,6 +40,8 @@
 * 👍 Josh McDonald
 
 ## [SB 5341](/bill/2023-24/sb/5341/) - WA food & ag. products 👍2  
+
+## [SB 5375](/bill/2023-24/sb/5375/) - Low-proof beverages/tax  👎1 
 
 ## [SB 5448](/bill/2023-24/sb/5448/) - Delivery of alcohol 👍4  
 * 👍 Jess Zander

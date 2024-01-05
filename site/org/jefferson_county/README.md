@@ -1,5 +1,7 @@
 # Jefferson County
 
+## [HB 1022](/bill/2023-24/hb/1022/) - Support & services levies 👍1  
+
 ## [HB 1267](/bill/2023-24/hb/1267/) - Rural public facilities/tax 👍1  
 * 👍💵 Paul Berendt
 

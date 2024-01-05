@@ -1,6 +1,7 @@
 # Quinault Indian Nation
 
-## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
+## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍2  
+* 👍 Quinault Vice Pres Fawn Sharp
 
 ## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍1  
 
@@ -18,7 +19,8 @@
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
 * ❓💵 Marie Sullivan
 
-## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
+## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍2  
+* 👍 Quinault Vice Pres Fawn Sharp
 * 👍 Ryan Hendricks
 
 ## [SB 5297](/bill/2023-24/sb/5297/) - Commercial salmon fisheries  👎1 

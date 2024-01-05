@@ -21,12 +21,13 @@ Testifying:
 * Kris Tefft - Washington Self-Insurers Association
 
 ### Wed 02/08 08:00 AM - Labor & Workplace Standards (LAWS): HB 1593 RN PTSD/industrial insurance
-#### 17 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * AJ Johnson - Washington State Fire Fighters Council
 * 💵Anna Nepomuceno
 * BSN, RN , Ruby Tan
 * BSN, RN, Emily D'Anna
+* BSN, RN, Ruby Tan
 
 #### 1 👎 - Con
 

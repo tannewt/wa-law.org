@@ -14,7 +14,9 @@
 
 ## Meetings
 ### Wed 01/11 01:30 PM - Consumer Protection & Business (CPB): HB 1060 Mutual insurer reorg.
-#### 0 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Brian Allen - Grange Insurance Assn
 
 #### 0 👎 - Con
 

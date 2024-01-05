@@ -1,6 +1,7 @@
 # Washington Mental Health Counselors Association
 
-## [HB 1069](/bill/2023-24/hb/1069/) - Mental health counselor comp 👍2  
+## [HB 1069](/bill/2023-24/hb/1069/) - Mental health counselor comp 👍4  
+* 👍 Dominique Avery
 * 👍 CMHS, NCC, Shannon Thompson LMHC
 * 👍 PhD, LMHC, NCC, Dominique Avery
 

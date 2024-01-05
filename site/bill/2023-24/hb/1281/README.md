@@ -9,7 +9,7 @@
 
 ## Meetings
 ### Wed 01/25 01:30 PM - Health Care & Wellness (HCW): HB 1281 Death with dignity act
-#### 985 👍 - Pro
+#### 986 👍 - Pro
 Testifying:
 * Nat Dean - Us for Autonomy
 * Cassa Sutherland - [End of Life Washington](/org/end_of_life_washington/)
@@ -22,6 +22,7 @@ Testifying:
 * Judy Kinney - [End of Life Washington](/org/end_of_life_washington/)
 * Dr. Angela Ross - [Washington Association of Naturopathic Physicians](/org/washington_association_of_naturopathic_physicians/)
 * KELLY Thompson
+* Representative Strom Peterson
 * Kathryn Lewandowsky
 
 #### 457 👎 - Con

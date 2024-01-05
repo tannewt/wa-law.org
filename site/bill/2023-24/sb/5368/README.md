@@ -20,10 +20,11 @@ Testifying:
 * 💵Sheri Call - Washington Trucking Associations
 * Tom Kwieciak - Building Industry Association of WA
 
-#### 9 👎 - Con
+#### 12 👎 - Con
 Testifying:
 * Brian Wright - Washington State Association for Justice
 * Kathy Comfort - Washington State Association for Justice
+* Joe Kendo - Washington State Labor Council, AFL-CIO
 
 #### 1 ❓ - Other
 Testifying:

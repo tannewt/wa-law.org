@@ -52,8 +52,28 @@ Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 ### Fri 01/13 08:00 AM - State Government & Tribal Relations (SGOV): HB 1048 Voting rights act
-#### 0 👍 - Pro
+#### 257 👍 - Pro
+Testifying:
+* Carol Sullivan - League of Women Voters of WA
+* 💵Alex Hur - OneAmerica
+* Arlette Lopez - Rural Peoples Voice
+* 💵Colin Cole - More Equitable Democracy
+* 💵Denisse Guerrero - WA Community Alliance
+* Lata Nott - Campaign Legal Center
+* Melissa Rubio - OneAmerica
 
-#### 0 👎 - Con
+#### 617 👎 - Con
+Testifying:
+* Julie Barrett - Conservative Ladies of Washington
+* David Germain
+* David Germain
 
-#### 0 ❓ - Other
+#### 10 ❓ - Other
+Testifying:
+* eric pratt - America
+* Blanche Barajas - Mayor of the City of Pasco
+* 💵Briahna Murray - Lobbyist for City of Pasco
+* 💵Marian Dacca - Washington Public Ports Assn.
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* john Worthington

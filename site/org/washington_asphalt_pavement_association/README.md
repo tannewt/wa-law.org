@@ -2,6 +2,8 @@
 
 ## [HB 1067](/bill/2023-24/hb/1067/) - High-hazard facility wages  👎1 
 
+## [HB 1099](/bill/2023-24/hb/1099/) - Public works wages  👎1 
+
 ## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials  👎1 
 
 ## [HB 1764](/bill/2023-24/hb/1764/) - Asphalt & agg. valuation 👍2  

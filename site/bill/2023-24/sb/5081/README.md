@@ -21,8 +21,11 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Thu 01/12 08:00 AM - Human Services (HS): SB 5081 Victim notification
-#### 0 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Autumn Witten - Washington State Department of Corrections
+* Mac Pevey - Washington State Department of Corrections
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

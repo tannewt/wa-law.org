@@ -1,6 +1,10 @@
 # Independent Colleges of Washington
 
-## [HB 1156](/bill/2023-24/hb/1156/) - College grant eligibility 👍1  
+## [HB 1051](/bill/2023-24/hb/1051/) - Robocalls & telephone scams   ❓1
+* ❓ Terri Standish-Kuon
+
+## [HB 1156](/bill/2023-24/hb/1156/) - College grant eligibility 👍2  
+* 👍 Terri Standish-Kuon
 
 ## [HB 1256](/bill/2023-24/hb/1256/) - Higher ed. matching grants 👍1  
 * 👍 Ph.D., Terri Standish-Kuon
@@ -8,7 +12,8 @@
 ## [HB 1399](/bill/2023-24/hb/1399/) - Native American scholarships   ❓1
 * ❓ Ph.D., Terri Standish-Kuon
 
-## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees   ❓1
+## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  ❓1
+* 👍 Terri Standish-Kuon
 * ❓ Ph.D., Terri Standish-Kuon
 
 ## [SB 5243](/bill/2023-24/sb/5243/) - High school and beyond plans 👍1  

@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Thu 02/02 01:30 PM - Finance (FIN): HB 1005 Military/employer tax incen.
-#### 10 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Sheri Call - Washington Trucking Associations

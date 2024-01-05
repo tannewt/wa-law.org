@@ -23,12 +23,13 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Tue 02/07 04:00 PM - Housing (HOUS): HB 1636 Foreclosure/common interest
-#### 10 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Raelene Schifano - HOA Fightclub nonprofit
 * Patrick Johansen - RiseUpWA, Housing Justice Committee
 * Aaron Lang
 * Patrick McDonald - Washington State Chapter of Community Association Institute
+* Jim Walsh - Representative
 
 #### 0 👎 - Con
 

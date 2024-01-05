@@ -1,5 +1,10 @@
 # City of Monroe
 
+## [HB 1080](/bill/2023-24/hb/1080/) - Body worn cameras 👍1  
+
+## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget   ❓1
+* ❓ Mayor Geoffery Thomas
+
 ## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍1  
 
 ## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records   ❓1

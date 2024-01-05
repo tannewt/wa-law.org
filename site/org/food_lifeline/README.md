@@ -8,14 +8,25 @@
 
 ## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
+* 👍💵 Katrina Johnson
+
+## [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act 👍1  
+
 ## [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎1 
 
 ## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍2  
 
+## [HB 1095](/bill/2023-24/hb/1095/) - Wage replacement 👍1  
+
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 
-## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍2  
 * 👍💵 Aaron Czyzewski
+* 👍💵 Aaron Czyzewski
+
+## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget   ❓1
+* ❓💵 Aaron Czyzewski
 
 ## [HB 1218](/bill/2023-24/hb/1218/) - Caseload forecast/tax credit 👍1  
 
@@ -77,10 +88,12 @@
 ## [SB 5156](/bill/2023-24/sb/5156/) - Farm internship program 👍1  
 * 👍💵 Aaron Czyzewski
 
-## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  ❓1
+* ❓💵 Aaron Czyzewski
 * 👍💵 Aaron Czyzewski
 
-## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
+## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  ❓1
+* ❓💵 Aaron Czyzewski
 * 👍💵 Aaron Czyzewski
 
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍1  

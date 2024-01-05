@@ -20,6 +20,8 @@
 ### Fri 01/13 08:00 AM - State Government & Elections (SGE): SB 5170 Legislative organizations
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Tim Eyman - Permanent Offense
 
 #### 0 ❓ - Other

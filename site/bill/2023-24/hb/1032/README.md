@@ -51,8 +51,20 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Fri 01/13 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1032 Wildfires/electric utilities
-#### 0 👍 - Pro
+#### 129 👍 - Pro
+Testifying:
+* 💵Andy Barth - [Inland Power & Light](/org/inland_power_&_light/)
+* John Sinclair - Fire Chief, Kittitas Valley Fire Rescue
+* 💵Nicolas Garcia - WPUDA
+* 💵John Rothlin - Avista
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Steve Taylor - Okanogan County Public Utility District
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Brian Considine
+* 💵Dave Warren - Klickitat PUD
+* Jim Smith - Klickitat PUD
+* Jasmine Vasavada - Dept of commerce

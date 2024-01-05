@@ -34,8 +34,16 @@ Testifying:
 * Stoyan Bumbalov - State Building Code Council
 
 ### Tue 01/10 04:00 PM - Housing (HOUS): HB 1042 Use of existing buildings
-#### 0 👍 - Pro
+#### 30 👍 - Pro
+Testifying:
+* 💵Greg Hanon - NAIOP
+* Angela Rozmyn - Natural and Built Environments
+* Robert Pantley
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 
-#### 0 👎 - Con
+#### 9 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)

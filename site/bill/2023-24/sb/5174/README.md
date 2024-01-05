@@ -69,8 +69,21 @@ Testifying:
 * FRED YANCEY - [Washington Association of School Administrators](/org/washington_association_of_school_administrators/)
 
 ### Thu 01/12 01:30 PM - Early Learning & K-12 Education (EDU): SB 5174 Student transportation
-#### 0 👍 - Pro
+#### 18 👍 - Pro
+Testifying:
+* Tyler Muench - Office of Superintendent of Public Instruction
+* 💵Melissa Gombosky - Evergreen, Vancouver, Spokane Public Schools and ESD 112
+* Rick Chisa - Public School Employees of Washington (PSE)
+* Zachary Miller - Washington State School Directors' Association
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* Robert Maxewell - Pullman School District - Pullman, WA
+* 💵Emily Stochel - [College Success Foundation](/org/college_success_foundation/)
 
-#### 0 👎 - Con
+#### 33 👎 - Con
+Testifying:
+* Julie Barrett - Conservative Ladies of Washington
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Clifford Traisman - Bellevue, Highline, Olympia, and Seattle Public School Districts
+* Kerry Breakfield - Teamsters 174

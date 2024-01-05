@@ -80,8 +80,25 @@ Testifying:
 #### 1 ❓ - Other
 
 ### Tue 01/10 01:30 PM - State Government & Elections (SGE): SB 5082 Advisory votes
-#### 0 👍 - Pro
+#### 759 👍 - Pro
+Testifying:
+* Carol Sullivan - League of Women Voters of WA
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
+* Peggy Morell
+* Julie Andrzejewski
+* Steve Zemke - MajorityRules.org
+* Julie Wise - King County Director of Elections
+* 💵Carolyn Brotherton
+* Robert Beekman - [Faith Action Network](/org/faith_action_network/)
+* Shasti Conrad
+* 💵Denisse Guerrero - WA Community Alliance
 
-#### 0 👎 - Con
+#### 17 👎 - Con
+Testifying:
+* Aaron Lang
+* Jeff Pack - Me
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Steve Hobbs - Secretary of State

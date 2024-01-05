@@ -17,7 +17,10 @@
 #### 0 ❓ - Other
 
 ### Thu 02/09 04:00 PM - Transportation (TR): HJM 4001 Justin DeRosier highway
-#### 0 👍 - Pro
+#### 20 👍 - Pro
+Testifying:
+* Kelly DeRosier
+* Brad Thurman - Cowlitz County Sheriff
 
 #### 0 👎 - Con
 

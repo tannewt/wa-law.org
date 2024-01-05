@@ -23,7 +23,12 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Wed 01/11 08:00 AM - Higher Education & Workforce Development (HEWD): SB 5079 Tuition establishment date
-#### 0 👍 - Pro
+#### 28 👍 - Pro
+Testifying:
+* Ruben Flores - Council Of Presidents
+* Amanda Kost - University of Washington Faculty
+* 💵Collin Bannister - The Washington Student Association
+* 💵Puneet Birk - Associated Students of the University of Washington, Bothell
 
 #### 0 👎 - Con
 

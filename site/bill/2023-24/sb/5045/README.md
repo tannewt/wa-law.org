@@ -68,8 +68,12 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Wed 01/11 01:30 PM - Housing (HSG): SB 5045 ADU rental/property tax
-#### 0 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Penny Sweet - Mayor, City of Kirkland
+* 💵Michael Moran - Office of Assessments/King County Assessor John Wilson
+* 💵Michele Thomas - Washington Low Income Housing Alliance
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

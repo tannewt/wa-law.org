@@ -1,5 +1,7 @@
 # Alaska Airlines
 
+## [HB 1040](/bill/2023-24/hb/1040/) - Aviation & aerospace cmte. 👍1  
+
 ## [HB 1505](/bill/2023-24/hb/1505/) - Alternative jet fuel 👍2  
 * 👍💵 Bill Stauffacher
 * 👍 Bill Stauffiger

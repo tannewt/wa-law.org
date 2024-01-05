@@ -32,8 +32,14 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Thu 01/12 08:00 AM - Environment & Energy (ENVI): HB 1117 Power supply inadequacy
-#### 0 👍 - Pro
+#### 30 👍 - Pro
+Testifying:
+* 💵Nicolas Garcia - WPUDA
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* Jim Smith - Klickitat Public Utility District
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Glenn Blackmon - Washington Department of Commerce - State Energy Office
 
 #### 0 ❓ - Other

@@ -35,7 +35,11 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Thu 01/12 08:00 AM - Labor & Commerce (LC): SB 5084 Self-insured pensions/fund
-#### 0 👍 - Pro
+#### 18 👍 - Pro
+Testifying:
+* Tammy Fellin - Labor & Industries
+* Joe Kendo - Washington State Labor Council, AFL-CIO
+* Kris Tefft - Washington Self-Insurers Association
 
 #### 0 👎 - Con
 

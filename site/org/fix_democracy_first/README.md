@@ -1,18 +1,28 @@
 # Fix Democracy First
 
+## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
+
 ## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍2  
 
 ## [HB 1032](/bill/2023-24/hb/1032/) - Wildfires/electric utilities 👍1  
 
 ## [HB 1033](/bill/2023-24/hb/1033/) - Compostable product usage 👍1  
 
-## [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act 👍1  
+## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals 👍1  
+
+## [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act 👍2  
 
 ## [HB 1055](/bill/2023-24/hb/1055/) - Pub safety telecommunicators 👍1  
 
 ## [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎1 
 
 ## [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims 👍1  
+
+## [HB 1078](/bill/2023-24/hb/1078/) - Urban forest management 👍1  
+
+## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
+
+## [HB 1087](/bill/2023-24/hb/1087/) - Solitary confinement 👍1  
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
 
@@ -28,11 +38,17 @@
 
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
 
+## [HB 1158](/bill/2023-24/hb/1158/) - Advisory votes 👍2  
+* 👍💵 Cindy Black
+
 ## [HB 1164](/bill/2023-24/hb/1164/) - Appliance management 👍1  
 
 ## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍1  
 
 ## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍1  
+
+## [HB 1174](/bill/2023-24/hb/1174/) - Jail-based voting 👍2  
+* 👍💵 Cindy Black
 
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍2  
 
@@ -150,6 +166,9 @@
 
 ## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge 👍1  
 
+## [HB 1885](/bill/2023-24/hb/1885/) - Strengthening campaign finance disclosure by prohibiting campaign contributions and expenditures by foreign-influenced corporations. 👍2  
+* 👍💵 Cindy Black
+
 ## [SB 5039](/bill/2023-24/sb/5039/) - Wildfires/electric utilities 👍1  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act 👍1  
@@ -158,7 +177,8 @@
 
 ## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍1  
 
-## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
+## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍3  
+* 👍💵 Cindy Black
 * 👍💵 Cindy Black
 
 ## [SB 5093](/bill/2023-24/sb/5093/) - Climate response strategy 👍1  
@@ -171,7 +191,8 @@
 
 ## [SB 5105](/bill/2023-24/sb/5105/) - Digital driver's licenses  👎1 
 
-## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍4  
+## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍6  
+* 👍💵 Cindy Black
 
 ## [SB 5129](/bill/2023-24/sb/5129/) - Nuclear reactor technology  👎1 
 

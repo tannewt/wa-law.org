@@ -1,5 +1,7 @@
 # Downtown Emergency Service Center
 
+## [HB 1149](/bill/2023-24/hb/1149/) - Housing/capital expenditures 👍1  
+
 ## [HB 1242](/bill/2023-24/hb/1242/) - Behavioral health work group 👍1  
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  

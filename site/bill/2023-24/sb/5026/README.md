@@ -8,8 +8,14 @@
 
 ## Meetings
 ### Tue 01/10 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5026 Insurance producer education
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* David Forte - Office of the Insurance Commissioner
+* John Mangan - [American Council of Life Insurers](/org/american_council_of_life_insurers/)
+* Chris Bandoli - National Association of Insurance and Financial Advisors Washington
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵Bill Stauffacher - Independent Insurance Agents and Brokers of Washington
 
 #### 0 ❓ - Other

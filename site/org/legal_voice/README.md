@@ -2,6 +2,8 @@
 
 ## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 
+## [HB 1095](/bill/2023-24/hb/1095/) - Wage replacement 👍1  
+
 ## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍2  
 
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍3  

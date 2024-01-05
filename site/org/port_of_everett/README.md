@@ -9,3 +9,5 @@
 
 ## [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra.   ❓1
 * ❓ Adam LeMieux
+
+## [SB 5742](/bill/2023-24/sb/5742/) - DOT grant programs 👍1  

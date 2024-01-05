@@ -3,6 +3,8 @@
 ## [HB 1050](/bill/2023-24/hb/1050/) - Apprenticeship utilization 👍1  
 * 👍 Joe Kendo
 
+## [HB 1087](/bill/2023-24/hb/1087/) - Solitary confinement  👎1 
+
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 * 👍 April Sims
 
@@ -12,6 +14,8 @@
 ## [HB 1335](/bill/2023-24/hb/1335/) - Personal identifying info. 👍3  
 * 👍 Sybill Hppolite
 * 👍 Joe Kendo
+
+## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
 
 ## [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍1  
 * 👍💵 John Traynor

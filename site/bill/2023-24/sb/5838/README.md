@@ -11,3 +11,15 @@
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson proposes creation of bipartisan Artificial Intelligence Task Force | Washington State](http://www.atg.wa.gov/news/news-releases/ag-ferguson-proposes-creation-bipartisan-artificial-intelligence-task-force#:~:text=Senate%20Bill%205838)
 
 ## Meetings
+### Wed 01/10 08:00 AM - Environment, Energy & Technology (ENET): SB 5838 AI task force
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31528&aId=156247&caId=22743&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31528&aId=156247&caId=22743&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31528&aId=156247&caId=22743&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31528&aId=156247&caId=22743&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

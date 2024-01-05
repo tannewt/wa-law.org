@@ -38,7 +38,17 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Tue 01/10 01:30 PM - State Government & Tribal Relations (SGOV): HB 1020 State dinosaur
-#### 0 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Athena Tauscher
+* Amy Cole - Elmhurst Elementary
+* Owen Rowe - Washington State Parks and Recreation Commission, Policy and Governmental Affairs Director
+* Lyah Sandell - No
+* Kismet Bains - No
+* Sam Hoving - No.
+* Brin Oman
+* Meeka Franks - No
+* Dominick johnston - NO
 
 #### 0 👎 - Con
 

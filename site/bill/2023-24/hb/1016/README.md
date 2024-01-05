@@ -8,8 +8,16 @@
 
 ## Meetings
 ### Mon 01/09 01:30 PM - Regulated Substances & Gaming (RSG): HB 1016 Wine retailer shippers
-#### 0 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Paul Beveridge - Family Wineries of Washington State
+* Tom Wark - [National Association of Wine Retailers](/org/national_association_of_wine_retailers/)
+* Paul Zitarelli - Full Pull Wines
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* John Klein - Executive Vice President, Southern Glazer's Wine & Spirits
+* 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
+* 💵Vicki Christophersen - Association of Washington Spirits and Wine Distributors
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

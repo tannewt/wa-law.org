@@ -70,7 +70,7 @@ Testifying:
 * Chetan Soni - Seattle Student Union
 * 💵Tremayne Edwards
 
-#### 2475 👎 - Con
+#### 2476 👎 - Con
 Testifying:
 * Eric pratt - America
 * Daniel Sklyarov
@@ -91,6 +91,7 @@ Testifying:
 * C Davis
 * Ron Moffatt - 19101054
 * Teo Morca
+* 💵Troy Nichols - National Shooting Sports Foundation
 
 #### 3 ❓ - Other
 
@@ -132,7 +133,7 @@ Testifying:
 * Kristin Beneski - WA State Attorney General's Office
 * Nate Roberts - Washington State Association for Justice
 
-#### 1894 👎 - Con
+#### 1895 👎 - Con
 Testifying:
 * Eric Pratt - America
 * Julie Barrett - Conservative Ladies of Washington
@@ -140,6 +141,7 @@ Testifying:
 * Jeannie Magdua - Conservative Ladies of Washington
 * Brent DeWalt
 * Heidi Lee - Minute Man Ammunition
+* Lawrence Keane - National Shooting Sports Foundation
 * 💵Michael Findlay - National Shooting Sports Foundation
 * Scott Dover - Aero Precision
 * Clint Gillespy - Beyer Barrels

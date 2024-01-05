@@ -1,5 +1,9 @@
 # Bleeding Disorder Foundation of Washington
 
+## [HB 1027](/bill/2023-24/hb/1027/) - Audio-only telemedicine 👍1  
+
+## [HB 1041](/bill/2023-24/hb/1041/) - Prescribing psychologists 👍1  
+
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍3  
 
 ## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍1  
@@ -29,13 +33,15 @@
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
 
-## [SB 5036](/bill/2023-24/sb/5036/) - Audio-only telemedicine 👍1  
+## [SB 5036](/bill/2023-24/sb/5036/) - Audio-only telemedicine 👍2  
+
+## [SB 5065](/bill/2023-24/sb/5065/) - Bone marrow donation/schools 👍1  
 
 ## [SB 5103](/bill/2023-24/sb/5103/) - Medicaid patients/discharge 👍1  
 
 ## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍1  
 
-## [SB 5121](/bill/2023-24/sb/5121/) - Health care oversight cmte. 👍1  
+## [SB 5121](/bill/2023-24/sb/5121/) - Health care oversight cmte. 👍2  
 
 ## [SB 5177](/bill/2023-24/sb/5177/) - Organ transport vehicles 👍1  
 

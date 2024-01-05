@@ -43,7 +43,7 @@ Testifying:
 * Judge Whitney Rivera - District & Municipal Court Judges Association
 
 ### Mon 01/23 04:00 PM - Transportation (TRAN): SB 5272 Speed safety cameras
-#### 43 👍 - Pro
+#### 44 👍 - Pro
 Testifying:
 * Capt. Neil Weaver - Washington State Patrol
 * Mark McKechnie - Washington Traffic Safety Commission
@@ -59,6 +59,7 @@ Testifying:
 * 💵John Traynor - Washington State Labor Council, AFL-CIO
 * Tony Leingang - WSDOT Statewide IRT Program
 * 💵Mark Riker - Washington State Building & Construction Trades Council
+* Brandon Dully - Guy F Atkinson Construction
 
 #### 4 👎 - Con
 

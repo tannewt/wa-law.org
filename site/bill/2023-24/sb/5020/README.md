@@ -15,8 +15,17 @@
 
 ## Meetings
 ### Wed 01/11 01:30 PM - Early Learning & K-12 Education (EDU): SB 5020 Education at 6 years of age
-#### 0 👍 - Pro
+#### 10 👍 - Pro
 
-#### 0 👎 - Con
+#### 409 👎 - Con
+Testifying:
+* Danielle Lankester - Parent / Educator
+* Julie Barrett - Conservative Ladies of Washington
+* Leah Anaya - Washington Moms For America
+* Jen Garrison Stuber - Advocacy Chair, Washington Homeschool Organization
+* Mike Kruse
+* Leslie Williams - CLW
+* Bonnie Ruiz
+* Kayla Abshire
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

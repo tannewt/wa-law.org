@@ -8,8 +8,10 @@
 
 ## Meetings
 ### Wed 01/11 01:30 PM - Early Learning & K-12 Education (EDU): SB 5038 K-12 empl. notice deadlines
-#### 0 👍 - Pro
+#### 6 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)

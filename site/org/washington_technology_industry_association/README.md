@@ -9,6 +9,8 @@
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data   ❓1
 * ❓💵 Kelly Fukai
 
+## [HB 1156](/bill/2023-24/hb/1156/) - College grant eligibility 👍1  
+
 ## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍3  
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
@@ -20,7 +22,7 @@
 ## [HB 1793](/bill/2023-24/hb/1793/) - Wireless devices tax  👎1 
 * 👎💵 Kelly Fukai
 
-## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍3  
+## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍4  
 
 ## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍2  
 

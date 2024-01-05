@@ -17,8 +17,10 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Tue 01/10 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1023 Wire tap reports/courts
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

@@ -14,8 +14,33 @@
 
 ## Meetings
 ### Wed 01/11 01:30 PM - Housing (HSG): SB 5060 Rental & vacant properties
-#### 0 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* 💵Michele Thomas - Washington Low Income Housing Alliance
 
-#### 0 👎 - Con
+#### 295 👎 - Con
+Testifying:
+* yaear benassa
+* Patricia Howndermis - [Yakima Valley Landlords Association](/org/yakima_valley_landlords_association/)
+* Eduard Prokhor
+* Walter Jorgensen
+* Elisa Lyles
+* bushara akbar
+* Clyde Priddy
+* Krishnakumar Regupathy - Krishna Realty
+* Joseph Fisher - NW Property Management Group
+* Bruce Becker
+* Jennifer Lekisch
+* Fei Priddy
+* Lyle Crews
+* Aurangzeb Albar
+* Constance Nelson
+* Lawton Coursey
+* Kevin Glenn - NARPM
+* Daniel Bannon - [Rental Housing Association of Washington](/org/rental_housing_association_of_washington/)
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Tedd Kelleher - Department of Commerce
+* Alexander Zamora - Institute of Real Estate Management WA
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)

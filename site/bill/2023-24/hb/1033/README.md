@@ -27,8 +27,23 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Tue 01/10 04:00 PM - Environment & Energy (ENVI): HB 1033 Compostable product usage
-#### 0 👍 - Pro
+#### 157 👍 - Pro
+Testifying:
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Janet Thoman - Compost Manufacturing Alliance
+* Kate Kurtz - Seattle Public Utilities
+* Karen Dawson - [Cedar Grove](/org/cedar_grove/)
+* Troy Lautenbach - Lautenbach Industries
+* Ann Murphy - League of Women Voters of Washington
+* Ann Murphy - League of Women Voters of Washington
+* 💵Travis Dutton - Washington State Association of Counties and Washington Association of County Solid Waste Managers
+* 💵Ezra Eickmeyer - [Terramer Inc](/org/terramer_inc/)
+* Connor Anderson
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Alex Truelove - Biodegradable Products Institute
+* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Laurie Davies - Washington State Department of Ecology

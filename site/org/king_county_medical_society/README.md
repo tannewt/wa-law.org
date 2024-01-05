@@ -1,5 +1,7 @@
 # King County Medical Society
 
+## [HB 1041](/bill/2023-24/hb/1041/) - Prescribing psychologists  👎1 
+
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
 
 ## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍1  

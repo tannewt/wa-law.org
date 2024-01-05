@@ -18,7 +18,11 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Tue 01/10 10:30 AM - Law & Justice (LAW): SB 5003 Snohomish county judges
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Jennifer Rancourt - Snohomish County District Court (Presiding Judge)
+* Haily Perkins - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Stephanie Wright - Snohomish County
 
 #### 0 👎 - Con
 

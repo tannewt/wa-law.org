@@ -13,6 +13,8 @@
 
 ## [SB 5036](/bill/2023-24/sb/5036/) - Audio-only telemedicine 👍1  
 
+## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍1  
+
 ## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍1  
 
 ## [SB 5213](/bill/2023-24/sb/5213/) - Pharmacy benefit managers  👎1 

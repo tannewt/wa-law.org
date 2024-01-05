@@ -20,8 +20,18 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Fri 01/13 08:00 AM - Consumer Protection & Business (CPB): HB 1017 Cosmetologists, etc/licenses
-#### 0 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* Frank Trieu - Evergreen Beauty College
+* D'Arcy Harrison - [Cosmetologists of Washington United](/org/cosmetologists_of_washington_united/)
+* hannah govea - student
+* Sylvia Garcia
+* 💵Joren Clowers - NW Career Colleges Federation/Associated Day Spas of WA
+* 💵Joren Clowers - NW Career Colleges Federation/Associated Day Spas of WA
+* Sue Rooney - Great Clips Salons
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Evan Briggs

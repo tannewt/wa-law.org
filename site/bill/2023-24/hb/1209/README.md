@@ -14,7 +14,9 @@
 
 ## Meetings
 ### Thu 03/16 08:00 AM - Law & Justice (LAW): EHB 1209 Controlled substance equip.
-#### 5 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Rep. Dan Griffey - Representative District 35 & HRC Member
 
 #### 1 👎 - Con
 

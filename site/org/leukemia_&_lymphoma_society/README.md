@@ -1,5 +1,7 @@
 # Leukemia & Lymphoma Society
 
+## [HB 1027](/bill/2023-24/hb/1027/) - Audio-only telemedicine 👍1  
+
 ## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍2  
 * 👍💵 Adam Zarrin
 
@@ -9,7 +11,7 @@
 * 👍💵 Adam Zarrin
 * 👍💵 Erin Dziedzic
 
-## [SB 5036](/bill/2023-24/sb/5036/) - Audio-only telemedicine 👍1  
+## [SB 5036](/bill/2023-24/sb/5036/) - Audio-only telemedicine 👍2  
 
 ## [SB 5204](/bill/2023-24/sb/5204/) - Fertility services coverage 👍1  
 * 👍💵 Adam Zarrin

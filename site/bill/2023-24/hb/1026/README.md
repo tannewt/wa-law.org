@@ -20,8 +20,16 @@
 
 ## Meetings
 ### Tue 01/10 04:00 PM - Housing (HOUS): HB 1026 Local gov. design review
-#### 0 👍 - Pro
+#### 158 👍 - Pro
+Testifying:
+* 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Todd Beyreuther - Mercer Mass Timber LLC
+* Ian Morrison - NAIOP Washington State
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
+* BILL CLARKE - Washington REALTORS
 
-#### 0 👎 - Con
+#### 8 👎 - Con
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other

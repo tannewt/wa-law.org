@@ -9,12 +9,12 @@
 
 ## Meetings
 ### Thu 02/02 08:00 AM - Law & Justice (LAW): SB 5382 Fish and wildlife officers
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Steve Bear - WDFW
 * Tom McBride - WDFW
 * Erik Olson - Teamsters
 
-#### 0 👎 - Con
+#### 34 👎 - Con
 
 #### 0 ❓ - Other

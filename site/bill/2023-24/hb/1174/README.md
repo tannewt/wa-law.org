@@ -14,8 +14,31 @@
 
 ## Meetings
 ### Fri 01/13 08:00 AM - State Government & Tribal Relations (SGOV): HB 1174 Jail-based voting
-#### 0 👍 - Pro
+#### 220 👍 - Pro
+Testifying:
+* 💵Anthony Blankenship
+* Julian Saucier
+* 💵Jude Ahmed - Urban League of Metropolitan Seattle
+* Carol Sullivan - League of Women Voters of WA
+* Julie Wise - King County Director of Elections
+* Gicola Lane - Campaign Legal Center
+* 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
+* Connor Linse - Office of the Secretary of State
+* David Elliott - Office of the Secretary of State
 
-#### 0 👎 - Con
+#### 132 👎 - Con
+Testifying:
+* Julie Barrett - Conservative Ladies of Washington
+* Richard Dahl
+* Ronald Higginbotham
+* Jeneen Breshears - CONSERVATIVE LADIES OF WASHINGTON
+* Cynthia Stang
+* Laurie Layne
+* Phil Bach
+* Michael Palm
+* Katherine Humphrey
+* Timothy Barrett
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Taylor Gardner - WASPC

@@ -34,7 +34,16 @@ Testifying:
 #### 1 ❓ - Other
 
 ### Fri 01/13 08:00 AM - Postsecondary Education & Workforce (PEW): HB 1069 Mental health counselor comp
-#### 0 👍 - Pro
+#### 125 👍 - Pro
+Testifying:
+* Tom Davis - Veterans Legislative Coalition
+* 💵Alex Davidson - The Associated Students of the University of Washington
+* Tammie Perreault - Department of Defense
+* Dr. Maria Gonzalez - Antioch University
+* Taryn Collura
+* Dominique Avery - [Washington Mental Health Counselors Association](/org/washington_mental_health_counselors_association/)
+* Nichole Ayres - The Steven A. Cohen Military Family Clinic at Valley Cities
+* Dominique Marsalek - American Counseling Association of Washington and American Counseling Association National
 
 #### 0 👎 - Con
 

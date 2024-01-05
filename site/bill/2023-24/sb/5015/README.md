@@ -33,8 +33,12 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Fri 01/13 08:00 AM - State Government & Elections (SGE): SB 5015 Productivity board
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* 💵Dennis Eagle - WA Federation of State Employees
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)

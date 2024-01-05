@@ -31,8 +31,17 @@ Testifying:
 #### 1 ❓ - Other
 
 ### Wed 01/11 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1080 Body worn cameras
-#### 0 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Christina Schuck - Kent Deputy City Attorney
+* Kim Komoto - Kent City Clerk/Public Records Officer
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Katherine George - [Allied Daily Newspapers of Washington](/org/allied_daily_newspapers_of_washington/)
+* 💵Rowland Thompson - Allied Daily Newspapers of WA, WA Newspaper Publishers, Assn, WA State Assn of Broadcasters
+* 💵Russell Brown - WA Assoc of Prosecuting Attorneys
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs

@@ -44,7 +44,12 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Fri 01/13 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1138 Drought preparedness
-#### 0 👍 - Pro
+#### 19 👍 - Pro
+Testifying:
+* James Kraft - Washington Water Trust
+* Ria Berns - Department of Ecology
+* 💵Bill Clarke - WA PUD Association + Pierce County Water Cooperative
+* Jon Culp - State Conservation Commission
 
 #### 0 👎 - Con
 

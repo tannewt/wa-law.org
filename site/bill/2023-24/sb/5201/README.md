@@ -11,6 +11,6 @@
 ### Thu 01/12 04:00 PM - Ways & Means (WM): SB 5201 State gen. obligation bonds
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

@@ -8,8 +8,15 @@
 
 ## Meetings
 ### Wed 01/11 04:00 PM - Appropriations (APP): HB 1141 Operating budget, supp.
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Dr. Scott Phillips - [Washington Poison Center](/org/washington_poison_center/)
+* Mikhail Cherniske - Office of Superintendent of Public Instruction
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Jim Theofelis - NorthStar Advocates
+* robert wardell - self adovates
+* Jessica Renner - Self Advocates in Leadership (SAIL)

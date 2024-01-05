@@ -1,11 +1,13 @@
 # Zero Waste Washington
 
-## [HB 1033](/bill/2023-24/hb/1033/) - Compostable product usage 👍1  
+## [HB 1033](/bill/2023-24/hb/1033/) - Compostable product usage 👍2  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
-## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals 👍2  
+## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals 👍3  
 
-## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍3  
+## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍4  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
@@ -28,6 +30,9 @@
 
 ## [HB 1392](/bill/2023-24/hb/1392/) - Electronics repair 👍3  
 * 👍💵 Heather Trim
+* 👍💵 Heather Trim
+
+## [HB 1422](/bill/2023-24/hb/1422/) - Reusable packing materials 👍1  
 * 👍💵 Heather Trim
 
 ## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  

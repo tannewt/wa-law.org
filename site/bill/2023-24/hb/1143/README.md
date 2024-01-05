@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 01/02/2024 [KUOW](/org/kuow/) - [KUOW - New year, new rules: 2024 brings new laws for Washington state](https://www.kuow.org/stories/new-year-new-laws-2024-brings-new-laws-for-washington-state#:~:text=HB-1143)
 * 01/01/2024 [Crosscut](/org/crosscut/) - [The new year brings new WA laws for guns, minimum wage and more | Crosscut](https://crosscut.com/news/2024/01/new-year-brings-new-wa-laws-guns-minimum-wage-and-more#:~:text=House%20Bill%201143)
 * 12/29/2023 [FOX13](/org/fox13/) - [10-day waiting period to purchase a firearm starts Monday](https://www.fox13seattle.com/news/10-day-waiting-period-to-purchase-a-firearm-starts-monday#:~:text=House%20Bill%201143)
 * 12/28/2023 [KIRO7](/org/kiro7/) - [Street racing among new laws, changes going into effect in Washington in 2024 – KIRO 7 News Seattle](https://www.kiro7.com/news/local/street-racing-among-new-laws-changes-going-into-effect-washington-2024/3BSXTJGYPVAFLFVKXPUYMZOU2A/#:~:text=House%20Bill%201143)
@@ -195,7 +196,7 @@ Testifying:
 * Bill Devriend
 
 ### Tue 01/17 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1143 Firearms/purchase & transfer
-#### 908 👍 - Pro
+#### 909 👍 - Pro
 Testifying:
 * Barbara Serrano - Office of the Governor
 * 💵Jordan Waits
@@ -217,6 +218,7 @@ Testifying:
 * Alexandra Castro
 * Victoria Muzyk
 * Liddy Ballard - Brady United
+* Representative Amy Walen
 
 #### 2322 👎 - Con
 Testifying:

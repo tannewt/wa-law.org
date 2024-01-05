@@ -26,7 +26,16 @@ Testifying:
 * Jen Chong Jewell - PAVE
 
 ### Wed 01/11 01:30 PM - Early Learning & K-12 Education (EDU): SB 5071 Purple star award
-#### 0 👍 - Pro
+#### 18 👍 - Pro
+Testifying:
+* Isidro (Rey) Ornelas - Medical Lake School District
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
+* AmyJo Rotante
+* Tammie Perreault - Department of Defense
+* Brendan Masini - Peninsula School District
+* Krestin Bahr - Peninsula School District
+* Nykita Steward - Steilacoom High School
+* Venus Cariaso - Steilacoom High School
 
 #### 0 👎 - Con
 

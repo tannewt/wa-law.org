@@ -1,6 +1,10 @@
 # Virginia Mason Franciscan Health
 
-## [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍2  
+## [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍1  
+
+## [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍3  
+
+## [HB 1021](/bill/2023-24/hb/1021/) - Social worker licensing 👍1  
 
 ## [HB 1271](/bill/2023-24/hb/1271/) - Organ transport vehicles 👍1  
 
@@ -14,6 +18,8 @@
 
 ## [HB 1643](/bill/2023-24/hb/1643/) - Nurse student loan repayment 👍1  
 
+## [SB 5036](/bill/2023-24/sb/5036/) - Audio-only telemedicine 👍1  
+
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎2 
 
 ## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
@@ -26,6 +32,8 @@
 * 👍💵 Katherine Mahoney
 
 ## [SB 5177](/bill/2023-24/sb/5177/) - Organ transport vehicles 👍1  
+
+## [SB 5181](/bill/2023-24/sb/5181/) - Medical assistants 👍1  
 
 ## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍1  
 

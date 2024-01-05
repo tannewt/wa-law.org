@@ -2,7 +2,8 @@
 
 ## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 
-## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓2
+* ❓💵 Guillermo Rogel
 * ❓💵 Guillermo Rogel
 
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍3  
@@ -34,7 +35,8 @@
 
 ## [SB 5143](/bill/2023-24/sb/5143/) - Pesticide registration comm.  👎1 
 
-## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍2  
+* 👍💵 Guillermo Rogel
 * 👍💵 Guillermo Rogel
 
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍2  

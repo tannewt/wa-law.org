@@ -14,8 +14,21 @@
 
 ## Meetings
 ### Wed 01/11 08:00 AM - Local Government (LG): HB 1078 Urban forest management
-#### 0 👍 - Pro
+#### 178 👍 - Pro
+Testifying:
+* Steve Zemke - Friends of Seattle's Urban Forest
+* Brian Considine - Washington State Department of Natural Resources
 
-#### 0 👎 - Con
+#### 11 👎 - Con
+Testifying:
+* john Worthington
+* 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Brian Holtzclaw - Village Life Homes
+* Michael Ruby
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* Mike Ennis - AWB
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Joshua Rubenstein - [The Nature Conservancy](/org/the_nature_conservancy/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)

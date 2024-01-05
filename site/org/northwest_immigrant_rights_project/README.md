@@ -2,6 +2,10 @@
 
 ## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 
+## [HB 1087](/bill/2023-24/hb/1087/) - Solitary confinement 👍1  
+
+## [HB 1095](/bill/2023-24/hb/1095/) - Wage replacement 👍1  
+
 ## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
 * ❓💵 Jorge Baron
 

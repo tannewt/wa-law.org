@@ -4,7 +4,11 @@
 
 ## [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎1 
 
+## [HB 1087](/bill/2023-24/hb/1087/) - Solitary confinement 👍1  
+
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
+
+## [HB 1106](/bill/2023-24/hb/1106/) - Unemployment/voluntary 👍1  
 
 ## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍5  
 * 👍💵 Ramona Hattendorf
@@ -17,7 +21,8 @@
 
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍2  
 
-## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓2
+* ❓💵 Ramona Hattendorf
 * ❓💵 Ramona Hattendorf
 
 ## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
@@ -90,6 +95,8 @@
 
 ## [HB 1776](/bill/2023-24/hb/1776/) - Applied behavior analysis  👎1 
 
+## [HB 1916](/bill/2023-24/hb/1916/) - Concerning funding for the early support for infants and toddlers program. 👍1  
+
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 
 ## [SB 5097](/bill/2023-24/sb/5097/) - Rare diseases adv. council 👍2  
@@ -112,7 +119,8 @@
 
 ## [SB 5183](/bill/2023-24/sb/5183/) - Personal needs allowance 👍1  
 
-## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓2
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓3
+* ❓💵 Ramona Hattendorf
 * ❓💵 Ramona Hattendorf
 * ❓💵 Ramona Hattendorf
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1479/</link>
 		<description>Updates about HB 1479</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 23 Apr 2023 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 03 Jan 2024 06:24:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -768,6 +768,14 @@
 			<pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-23/By resolution, returned to House Rules Committee for third reading.</guid>
+		</item>
+		<item>
+			<title>👍Richard Pope - Parent of Isolation Survivor</title>
+			<description>Richard Pope signed up to testify Pro. They are signed up to represent Parent of Isolation Survivor.</description>
+			<pubDate>Wed, 03 Jan 2024 06:24:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Richard/Pope/2024-01-03 06:24:04</guid>
 		</item>
 	</channel>
 </rss>

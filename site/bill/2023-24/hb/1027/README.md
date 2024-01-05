@@ -8,7 +8,12 @@
 
 ## Meetings
 ### Wed 01/11 01:30 PM - Health Care & Wellness (HCW): HB 1027 Audio-only telemedicine
-#### 0 👍 - Pro
+#### 38 👍 - Pro
+Testifying:
+* 💵Carrie Tellefson - Teladoc Health
+* Lucy Laube - [National Psoriasis Foundation](/org/national_psoriasis_foundation/)
+* Marissa Ingalls - Coordinated Care
+* 💵Sean Graham - Washington State Medical Association
 
 #### 0 👎 - Con
 

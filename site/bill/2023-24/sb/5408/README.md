@@ -13,12 +13,19 @@
 
 ## Meetings
 ### Thu 02/02 01:30 PM - Early Learning & K-12 Education (EDU): SB 5408 Ninth grade success grants
-#### 107 👍 - Pro
+#### 121 👍 - Pro
 Testifying:
+* Holly Koon - Mt Baker HS
+* Jennifer Wiley - Center for High School Success
+* Jose Rivera - Grandview School District
+* Julia Duncheon
+* Audrey Johnson - North Mason School District
+* Morgan Thomas - North Mason school District
 * Douglas Judge - Center for High School Success
 * Henterson Carlisle - Center for High School Success
 * Thomas Caudle - Lindbergh High School, Renton School District
+* 💵Juliet Schindler - [College Success Foundation](/org/college_success_foundation/)
 
-#### 2 👎 - Con
+#### 29 👎 - Con
 
 #### 0 ❓ - Other

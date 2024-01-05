@@ -22,7 +22,10 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Wed 01/11 08:00 AM - Labor & Workplace Standards (LAWS): HB 1107 "Master" and "servant" terms
-#### 0 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* 💵Sybill Hyppolite - Washington State Labor Council, AFL-CIO
+* Caitlyn Jekel - Employment Security Department
 
 #### 0 👎 - Con
 

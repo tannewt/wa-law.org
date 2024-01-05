@@ -9,15 +9,17 @@
 
 ## Meetings
 ### Thu 02/02 10:30 AM - Health & Long Term Care (HLTC): SB 5481 Uniform telemedicine act
-#### 9 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Michele Radosevich - Uniform Law Commission
 * Mercer May - Teladoc Health
 * Kyle Zebley - ATA Action
+* Tom Mann - ATA Action
 
-#### 20 👎 - Con
+#### 22 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Micah Matthews - Washington Medical Commission
 * 💵Remy Kerr - Washington State Hospital Association
+* 💵Sean Graham - WA State Medical Association (WSMA)

@@ -219,7 +219,7 @@ Testifying:
 * Dana Ralph - Mayor of the City of Kent
 
 ### Tue 01/17 04:00 PM - Housing (HOUS): HB 1110 Middle housing
-#### 1832 👍 - Pro
+#### 1834 👍 - Pro
 Testifying:
 * Joe Kunzler - None
 * Jacob Vigdor - University of Washington Faculty
@@ -267,6 +267,8 @@ Testifying:
 * JOANNA GRIST - AARP
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 * Tiffany Washington - [City of Seattle](/org/city_of_seattle/)
+* Sophia Bowton-Meade
+* Kerri Woehler - Washington State Department of Transportation
 
 #### 103 👎 - Con
 Testifying:

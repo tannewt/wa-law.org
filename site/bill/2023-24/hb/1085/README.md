@@ -57,8 +57,31 @@ Testifying:
 #### 1 ❓ - Other
 
 ### Tue 01/10 04:00 PM - Environment & Energy (ENVI): HB 1085 Plastic pollution
-#### 0 👍 - Pro
+#### 669 👍 - Pro
+Testifying:
+* William Alexander - University Unitarian Church Climate Action Team
+* Jane Howard
+* 💵Blair Englebrecht - Puget Soundkeeper Alliance
+* Nora Nickum - Seattle Aquarium
+* Pam Clough - [Environment Washington](/org/environment_washington/)
+* Annabella (Bella) Hillyer - Oceana
+* 💵Giovanni Severino - Latino Community Fund
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Ann Murphy - League of Women Voters of Washington
+* 💵Ezra Eickmeyer - [Terramer Inc](/org/terramer_inc/)
+* Janice DeLacy
+* Dean Jackson
 
-#### 0 👎 - Con
+#### 215 👎 - Con
+Testifying:
+* john Worthington
+* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* Roman Daniels-Brown - [Northwest Marine Trade Association](/org/northwest_marine_trade_association/)
+* 💵Walter Reiter - EPS Industry Alliance
+* 💵John Stuhlmiller - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Tim Shestek - [American Chemistry Council](/org/american_chemistry_council/)
 
-#### 0 ❓ - Other
+#### 7 ❓ - Other
+Testifying:
+* 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)

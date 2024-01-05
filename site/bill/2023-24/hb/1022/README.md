@@ -11,7 +11,7 @@
 
 ## Meetings
 ### Thu 02/02 01:30 PM - Finance (FIN): HB 1022 Support & services levies
-#### 6 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Randy Johnson - Clallam County Board of Commissioners
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
@@ -20,7 +20,9 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Ed Bowen
 
 ### Wed 01/18 08:00 AM - Local Government (LG): HB 1022 Support & services levies
 #### 15 👍 - Pro

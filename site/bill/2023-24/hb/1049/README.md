@@ -8,7 +8,11 @@
 
 ## Meetings
 ### Wed 01/11 08:00 AM - Local Government (LG): HB 1049 County district boundaries
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Mary Hall - Thurston County Auditor's Office
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Carolina Mejia - [Thurston County](/org/thurston_county/)
 
 #### 0 👎 - Con
 

@@ -2,19 +2,29 @@
 
 ## [HB 1004](/bill/2023-24/hb/1004/) - Bridge jumping signs 👍1  
 
-## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
+## [HB 1006](/bill/2023-24/hb/1006/) - Drug testing equipment 👍1  
+
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍1  
+
+## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍2  
 
 ## [HB 1028](/bill/2023-24/hb/1028/) - Crime victims & witnesses 👍1  
 
-## [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims 👍1  
+## [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims 👍2  
 
 ## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 
+## [HB 1078](/bill/2023-24/hb/1078/) - Urban forest management   ❓1
+
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
+
+## [HB 1095](/bill/2023-24/hb/1095/) - Wage replacement 👍1  
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍4  
 * 👍 Rico Quirindongo
 * 👍 Tiffany Washington
+
+## [HB 1124](/bill/2023-24/hb/1124/) - Residential rent and fees 👍1  
 
 ## [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍1  
 
@@ -29,6 +39,8 @@
 ## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
 * 👍 Gael Tarleton
 
+## [HB 1149](/bill/2023-24/hb/1149/) - Housing/capital expenditures 👍1  
+
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍2  
 
 ## [HB 1156](/bill/2023-24/hb/1156/) - College grant eligibility 👍1  
@@ -38,6 +50,8 @@
 ## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing   ❓1
 
 ## [HB 1170](/bill/2023-24/hb/1170/) - Climate response strategy 👍1  
+
+## [HB 1174](/bill/2023-24/hb/1174/) - Jail-based voting 👍2  
 
 ## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍3  
 
@@ -129,28 +143,31 @@
 
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍1  
 
-## [SB 5006](/bill/2023-24/sb/5006/) - Waiver of firearm rights 👍1  
+## [SB 5006](/bill/2023-24/sb/5006/) - Waiver of firearm rights 👍2  
 
 ## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment 👍2  
 
-## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍1  
+## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍2  
 
-## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍3  
+## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍4  
 
 ## [SB 5052](/bill/2023-24/sb/5052/) - Leasehold tax/arenas, etc. 👍1  
 
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial  👎1 
 
+## [SB 5060](/bill/2023-24/sb/5060/) - Rental & vacant properties 👍1  
+
 ## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍4  
 
-## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍2  
+## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍3  
+* 👍 Samir Junejo
 
 ## [SB 5109](/bill/2023-24/sb/5109/) - Wage replacement 👍1  
 * 👍 Hamdi Mohamed
 
 ## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍1  
 
-## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍3  
+## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍4  
 
 ## [SB 5122](/bill/2023-24/sb/5122/) - Ambulance transport fund 👍1  
 

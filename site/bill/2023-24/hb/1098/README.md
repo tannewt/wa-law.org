@@ -14,7 +14,9 @@
 
 ## Meetings
 ### Fri 01/13 08:00 AM - Human Services, Youth, & Early Learning (HSEL): HB 1098 Clergy/child abuse reporting
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Kristiana de Leon - Association of Secular Elected Officials
 
 #### 0 👎 - Con
 

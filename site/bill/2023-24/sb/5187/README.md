@@ -451,57 +451,231 @@ Testifying:
 * Vanessa Kritzer - [Washington Association of Land Trusts](/org/washington_association_of_land_trusts/)
 
 ### Tue 01/10 04:00 PM - Ways & Means (WM): SB 5187: All other. (Remote Testimony Available).
-#### 0 👍 - Pro
+#### 37 👍 - Pro
+Testifying:
+* Harald Hyllseth - Communities of Concern Commission
+* Josephine Tamayo Murray - Communities of Concern Commission
+* 💵Anna Nepomuceno - NAMI WA
+* Jim Bamberger - Office of Civil Legal Aid
+* 💵Brad Forbes - Alzheimer's Association
+* Erin Shea McCann - Legal Counsel for Youth and Children (LCYC)
+* 💵Melissa Johnson - District & Municipal Court Judges Association
+* Ken Roske - City of Pasco Police Department
+* Mary Ellen Stone - King County Sexual Assault Resource Center
+* 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
+* Dr. Scott Phillips - [Washington Poison Center](/org/washington_poison_center/)
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Sophia Byrd McSherry - Washington State Office of Public Defense
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Mike Battis - [Washington Ambulance Association](/org/washington_ambulance_association/)
+* Pat McCarthy - Office of the Washington State Auditor
+* 💵Scott Nelson - Office of the Washington State Auditor
+* Sarah Beth Huot - Huot Law PLLC
+* Alexandra Deas - [Equal Justice Coalition](/org/equal_justice_coalition/)
+* César Torres - Northwest Justice Project
+* Anthony Powers - WDA/WACDL
+* Greg Link - WDA/WACDL
+* Jason Schwarz - WDA/WACDL
+* Lara Zarawosky - WDA/WACDL
+* Adam Ballout - The FIRST Clinic; ABC Law Group
+* Gina Wassemiller - FIRST Legal Clinic
+* Jennifer Justice - FIRST Legal Clinic
+* Neil Weiss - FIRST Legal Clinic
+* Taila AyAy - FIRST Legal Clinic
+* Jo Bechtold - [The Mockingbird Society](/org/the_mockingbird_society/)
+* Clair Olivers - Retired Public Employees Council of WA
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Debi Maloney
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* 💵Jorge Baron - Northwest Immigrant Rights Project (NWIRP)
+* 💵Eli Goss - One America
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Alexandra Olins - ACRS
 
 ### Tue 01/10 04:00 PM - Ways & Means (WM): SB 5187: Early learning. (Remote Testimony Available).
-#### 0 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* 💵Erica Hallock - Start Early WA
+* 💵Melissa Johnson - WA State Association of Head Start & ECEAP
+* Daisy Cruz
+* Colleen Condon - Washington Childcare Center Association
+* 💵Emily Murphy - [Child Care Aware of Washington](/org/child_care_aware_of_washington/)
+* John Dickson - Spokane County United Way
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Mustapha Kebbeh - [Kindering](/org/kindering/)
 
 ### Tue 01/10 04:00 PM - Ways & Means (WM): SB 5187: Employee compensation. (Remote Testimony Available).
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* 💵Seamus Petrie - [Washington Public Employees Association](/org/washington_public_employees_association/)
+* 💵Brandon Anderson - Washington Federation of State Employees (WFSE)
+* 💵Alan Burke - WSSRA
 
 #### 0 👎 - Con
 
 #### 0 ❓ - Other
 
 ### Tue 01/10 04:00 PM - Ways & Means (WM): SB 5187: Higher education. (Remote Testimony Available).
-#### 0 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Heather Moss - Bates Technical College Trustee
+* Julie White - Pierce College
+* Paul Francis - State Board for Community and Technical Colleges
+* Joe Dacca - [University of Washington](/org/university_of_washington/)
+* 💵Nora Selander - Western Washington University
+* Jacob Vigdor - University of Washington Faculty
+* Sandy Kaiser - The Evergreen State College
+* Chris Mulick - Washington State University
+* Steve DuPont - [Central Washington University](/org/central_washington_university/)
+* David Buri - Eastern Washington University
+* 💵Michael Moran - Self
+* 💵Sopeara Chay - South Puget Sound Community College
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Ben Small - Launch NW
+* 💵Karen Strickland - AFT Washington
 
 ### Tue 01/10 04:00 PM - Ways & Means (WM): SB 5187: Human services. (Remote Testimony Available).
-#### 0 👍 - Pro
+#### 23 👍 - Pro
+Testifying:
+* Michael Mirra - Co-Chair of Housing & Child Welfare Committee of the Administrative Office of the Court
+* Alicia Kingston - Northwest Justice Project
+* Jane Pak - Snohomish County Legal Services
+* 💵Bob Cooper - WA Association of Drug Courts
+* 💵Erica Hallock - [Family Impact Network](/org/family_impact_network/)
+* Jeff Gombosky - [Washington Health Care Association](/org/washington_health_care_association/)
+* 💵Scott Sigmon - LeadingAge Washington
+* Jason Bragg
+* Lisa Wolters - Association of WA Housing Authorities & Seattle Housing Authority
+* 💵Brad Banks - Home Care Coalition
+* 💵Samuel Martin - WACHYA
+* 💵Julie Patiño - A Way Home Washington
+* Cherish Cronmiller
+* Elizabeth Jennings - Community Action of Skagit County
+* Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* Marwan Cameron - Gather Together Grow Together
+* Ross Quigley - [Opportunity Council](/org/opportunity_council/)
+* Demas Nesterenko - SEIU775
+* 💵Patricia Hunter - WA State Long Term Care Ombuds Program
+* Nicole Mazen - Amara
+* 💵Brad Forbes - Alzheimer's Association
+* Angela Kraemer - angelasfamilyservices.com
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Courtney Williams - [Community Employment Alliance](/org/community_employment_alliance/)
+* Sean Swope - [Lewis County](/org/lewis_county/)
 
-#### 0 ❓ - Other
+#### 35 ❓ - Other
+Testifying:
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Lynsey Gagnon - Volunteers of America
+* Marcia Wright-Soika - Family Works
+* 💵Shrounda Selivanoff - Children's Home Society of Washington
+* Heather Cantamessa - Children's Home Society of Washington
+* Lisa Johnson - Parent 4 Parent
+* Laurie Lippold
+* Jim Theofelis - [Northstar Advocates](/org/northstar_advocates/)
+* 💵Diana Stadden - The Arc of WA State
+* 💵Jill May - [Washington Association for Children & Families](/org/washington_association_for_children_&_families/)
+* Jeff Clare - [Washington Association for Children & Families](/org/washington_association_for_children_&_families/)
+* Whitney Carlson - [Washington Association for Children & Families](/org/washington_association_for_children_&_families/)
+* 💵Melissa Johnson - [Community Residential Services Association](/org/community_residential_services_association/)
+* Leanne LaBissoniere - Catholic Charities Serving Central Washington, Kinship Program
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* Rob Huff
+* Gian Mitchell
+* Rachael Myers - WA Low Income Housing Alliance
+* John Stovall - Washington Low Income Housing Alliance
+* 💵Aaron Yared - [Building Changes](/org/building_changes/)
+* Shawn Latham - Allies in Advocacy
+* Diana Sullivan - The Foundation for Homeless and Poverty Management
+* Heather Moss - Pierce County Human Services
+* Mindy Woods
+* Laura Ellsworth - Council for the Homeless
+* Peter Shapiro
+* Eric Jensen - Astria Toppenish Hospital
+* Sheila Babb Anderson - [Campion Advocacy Fund](/org/campion_advocacy_fund/)
+* Amanda DeShazo - Tacoma-Pierce County Affordable Housing Consortium
+* Julie Clark - None
+* Michelle McDaniel - Washington 211
+* Tim Sullivan - Washington 211
 
 ### Tue 01/10 04:00 PM - Ways & Means (WM): SB 5187: K-12 public schools. (Remote Testimony Available).
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Lynda Hall - [Treehouse](/org/treehouse/)
+* 💵Jake Garcia - Northwest Harvest
+* Preston Dwoskin
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 16 ❓ - Other
+Testifying:
+* 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
+* Marissa Rathbone - Washington State School Directors' Association (WSSDA)
+* Jon Holmen - Lake Washington School District
+* 💵Melissa Gombosky - Spokane,Evergreen, Vancouver, Central Valley, RIchland and ESD 105 - school districts
+* Michelle Price - North Central Educational Service District 171
+* John Parker - [Central Valley School District](/org/central_valley_school_district/)
+* Katherine George - Attorneys for Education Rights
+* Lizzy Sebring - Washington State PTA
+* Jim Kowalkowski - Rural Education Center
+* Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
+* Rick Chisa - Public School Employees of Washington (PSE)
+* Sue Ann Bube - Mercer Island School District
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* 💵Mitch Denning - WA Assn of Maintenance and Operation Administrators
+* Charlie Brown - Pierce County Schools Superintendents
+* Liz Trautman - Stand for Children Washington
 
 ### Tue 01/10 04:00 PM - Ways & Means (WM): SB 5187: Mental health. (Remote Testimony Available).
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Clifford Thurston - Worldbridgers
+* Joe Dacca - UW Medicine
+* Joan Miller - WA Council for Behavioral Health
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Brent Freeman - Wahkiakum School District
+* Jim Hedrick - [Daybreak Youth Services](/org/daybreak_youth_services/)
+* Sol Villarreal
 
 ### Tue 01/10 04:00 PM - Ways & Means (WM): SB 5187: Natural resources. (Remote Testimony Available).
-#### 0 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* Alex Conley
+* Amy Hatch-Winecka
+* 💵Kaylee Galloway - Regional Fisheries Coalition
+* Lance Winecka
+* Mike Lithgow
+* Lucas Hall - Long Live the Kings
+* Jennifer Justice - FIRST Clinic
+* RoseMary LaClair - Chair, Nooksack Indian Tribe
+* 💵Isaac Kastama - Clean & Prosperous Washington
+* Tom Salzer - [Washington Association of Conservation Districts](/org/washington_association_of_conservation_districts/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Sean Eagan - [The Northwest Seaport Alliance](/org/the_northwest_seaport_alliance/)
+* Deborah Essman
+* Martha Wyckoff
+* 💵Samantha Bruegger - WA Wildlife First

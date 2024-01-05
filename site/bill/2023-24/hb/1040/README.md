@@ -11,8 +11,20 @@
 
 ## Meetings
 ### Wed 01/11 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1040 Aviation & aerospace cmte.
-#### 0 👍 - Pro
+#### 19 👍 - Pro
+Testifying:
+* Aaron Lang
+* 💵Donny Donovan - IAM 751
+* Darwin Triggs - [Central Washington University](/org/central_washington_university/)
+* John Dobson - President, WA State Aviation Alliance
+* Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 👎 - Con
+#### 45 👎 - Con
+Testifying:
+* Dawn Sonntag - Stop the Airport
+* Ursula Euler
+* Mary Paterson
+* Kym Anton - Enumclaw Plateau Community Association - SAVE the Plateau Airport Opposition Committee Chairman
+* Jake Pool
 
 #### 0 ❓ - Other

@@ -14,8 +14,28 @@
 
 ## Meetings
 ### Wed 01/11 01:30 PM - State Government & Tribal Relations (SGOV): HB 1158 Advisory votes
-#### 0 👍 - Pro
+#### 158 👍 - Pro
+Testifying:
+* Carol Sullivan - League of Women Voters of WA
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
+* Julie Andrzejewski
+* Julie Wise - King County Director of Elections
+* 💵Carolyn Brotherton - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* Shasti Conrad
+* Joseph Lachman - Asian Counseling and Referral Service
+* 💵Giovanni Severino - Progreso: Latino Progress
+* Patrick Schoettmer
+* Mary Hall - Thurston County Auditor
+* Hailey Wu - Asian Counseling and Referral Service
 
-#### 0 👎 - Con
+#### 7 👎 - Con
+Testifying:
+* Tim Eyman - Permanent Offense
+* Michael McKinley
+* Laurie Layne
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)

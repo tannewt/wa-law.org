@@ -12,7 +12,12 @@
 
 ## Meetings
 ### Mon 01/09 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1006 Drug testing equipment
-#### 0 👍 - Pro
+#### 20 👍 - Pro
+Testifying:
+* Bradley Finegood - [King County](/org/king_county/)
+* Genevieve Schofield
+* Milli Militi Jigamian - Mother of Son lost to Fentanyl/Founder of Fentanyl United Crisis Coalition
+* Joshua Wallace - Peer Washington
 
 #### 0 👎 - Con
 

@@ -33,8 +33,41 @@ Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 ### Tue 01/10 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1087 Solitary confinement
-#### 0 👍 - Pro
+#### 473 👍 - Pro
+Testifying:
+* Kyle Payment
+* marie komboukos
+* 💵Anthony Blankenship
+* Jose "Neaners" Garcia
+* Sterling Jarnagin
+* Quest Jolliffe
+* Jay Rosenbaum - Multifaith Coalition for Restorative Justice
+* Rachel Bisbee
+* Ruth Utnage
+* Micaela Romero
+* Christopher Blackwell
+* Kevin Light-Roth
+* Marc Stern
+* 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
+* Micaela Romero
+* 💵Manuel Abrego - La Resistencia
+* Manuel Antonio Abrego - La Resistencia
+* Maru Mora Villalpando - La Resistencia
+* Maru Villalpando - La Resistencia
+* 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
 
-#### 0 👎 - Con
+#### 36 👎 - Con
+Testifying:
+* 💵Brenda Wiest - Teamsters Local 117
+* Jeffrey Rude
+* Sarena Davis - Teamsters 117
+* 💵Heather Kurtenbach
+* Nathan Spoo - Teamsters Local 117
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* Melena Thompson - Department of Corrections
+* Sean Murphy - Department of Corrections
+* David Lovell
+* David Lovell
+* James McMahan - Washington Association of Sheriffs and Police Chiefs

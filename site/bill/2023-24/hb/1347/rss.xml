@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1347/</link>
 		<description>Updates about HB 1347</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 24 Jan 2023 08:46:57 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 26 Jan 2023 10:45:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -111,7 +111,7 @@
 			<guid isPermaLink="true">https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB%201347</guid>
 		</item>
 		<item>
-			<title>👎john Worthington - Confederated Tribes of the Colville Reservation</title>
+			<title>👎john Worthington - Puyallup Tribe of Indians</title>
 			<description>john Worthington signed up to testify Con.</description>
 			<pubDate>Tue, 24 Jan 2023 01:15:45 GMT</pubDate>
 			<category>testifier</category>
@@ -133,6 +133,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Karen/Condon/2023-01-24 08:46:57</guid>
+		</item>
+		<item>
+			<title>👍Dr Ron Reid - Confederated Bands and Tribes of the Yakama Nation</title>
+			<description>Dr Ron Reid signed up to testify Pro. They are signed up to represent Confederated Bands and Tribes of the Yakama Nation.</description>
+			<pubDate>Thu, 26 Jan 2023 10:44:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dr Ron/Reid/2023-01-26 10:44:06</guid>
+		</item>
+		<item>
+			<title>👍💵Dawn Vyvyan - Puyallup Tribe of Indians</title>
+			<description>Dawn Vyvyan signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/puyallup_tribe_of_indians/&quot;&gt;Puyallup Tribe of Indians&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Thu, 26 Jan 2023 10:45:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dawn/Vyvyan/2023-01-26 10:45:04</guid>
 		</item>
 	</channel>
 </rss>

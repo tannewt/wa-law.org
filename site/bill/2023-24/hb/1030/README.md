@@ -22,7 +22,10 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Wed 01/11 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1030 Applied doctorate degrees
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* 💵Nora Selander - Western Washington University
+* David Buri - Eastern Washington University
 
 #### 0 👎 - Con
 

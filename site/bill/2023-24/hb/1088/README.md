@@ -21,8 +21,15 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Wed 01/11 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1088 Uniform family law arbitrat.
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Judge Steve Rosen
+* Paul McVicker - None
+* Patrick Rawnsley - WSBA Family Law Executive Committee
+* Kari Bearman - Uniform Law Commission
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Judge Sean O'Donnell - Superior Court Judges' Association

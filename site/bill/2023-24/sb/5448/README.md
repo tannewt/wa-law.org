@@ -44,14 +44,15 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Thu 02/02 08:00 AM - Labor & Commerce (LC): SB 5448 Delivery of alcohol
-#### 41 👍 - Pro
+#### 45 👍 - Pro
 Testifying:
 * Jess Zander - [Washington Wine Institute](/org/washington_wine_institute/)
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
+* 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 * Derek Baziotis - Bene's, Inferno Wings, and Eagle Bites
 * 💵Riley Smith - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
-#### 13 👎 - Con
+#### 40 👎 - Con
 Testifying:
 * Justin Nordhorn - Liquor & Cannabis Board
 * Mark McKechnie - WA Traffic Safety Commission

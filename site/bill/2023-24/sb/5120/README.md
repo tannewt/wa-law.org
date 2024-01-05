@@ -67,8 +67,34 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Fri 01/13 08:00 AM - Health & Long Term Care (HLTC): SB 5120 23-hr crisis relief centers
-#### 0 👍 - Pro
+#### 44 👍 - Pro
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Levi Van Dyke - Volunteers of America Western Washington
+* Sofia Aragon - City of Burien Mayor
+* Kelli Curtis - City of Kirkland Councilmember
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Gay-Lynn Beighton
+* Katie Kolan - Washington State Hospital Association (WSHA)
+* Bipasha Mukherjee
+* Thai Nguyen
+* 💵Michael Transue - Connections Health Solutions
+* 💵Brad Banks
+* Joan Miller - WA Council for Behavioral Health
+* Kari Reardon - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+* Leo Flor - [King County](/org/king_county/)
+* Sarah Chesemore
+* 💵Todd Carlisle - [Disability Rights Washington](/org/disability_rights_washington/)
+* JERRI CLARK - MOMI--Mothers of the Mentally Ill
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Steven Pearce - Citizens Commission on Human Rights
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Rebecca Faust
+* Christie Spice - Washington State Department of Health
+* Keri Waterland - Washington State Health Care Authority
+* 💵Brad Forbes - Alzheimers Association - WA Chapter
+* 💵Patricia Hunter - WA State Long Term Care Ombuds Program

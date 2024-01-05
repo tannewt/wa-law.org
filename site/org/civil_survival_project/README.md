@@ -1,6 +1,7 @@
 # Civil Survival Project
 
-## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
+## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍3  
+* 👍💵 Kelly Olson
 
 ## [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎1 
 

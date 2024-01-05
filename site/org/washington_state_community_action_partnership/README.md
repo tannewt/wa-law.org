@@ -1,11 +1,16 @@
 # Washington State Community Action Partnership
 
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
+
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
+
+## [HB 1124](/bill/2023-24/hb/1124/) - Residential rent and fees 👍1  
 
 ## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
 * ❓ Jeff DeLuca
 
-## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
+## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍2  
+* 👍 Jeff DeLuca
 * 👍 Jeff DeLuca
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
@@ -87,12 +92,14 @@
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 
-## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  ❓1
+* 👍 Jeff DeLuca
 * ❓ Jeff DeLuca
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍2  
 
-## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
+## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍2  
+* 👍 Jeff DeLuca
 * 👍💵 Linda Garcia
 
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍1  

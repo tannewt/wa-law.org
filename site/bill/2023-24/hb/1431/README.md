@@ -24,7 +24,7 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Thu 02/02 01:30 PM - Finance (FIN): HB 1431 Senior living meals/tax
-#### 14 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Breanne Grubs - Leisure Care
 * Roman Daniels-Brown - WA Health Care Association
@@ -33,4 +33,6 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Steve Ewing - Department of Revenue

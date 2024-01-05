@@ -21,10 +21,11 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Thu 02/02 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5457 Small cities/GMA
-#### 6 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Dave Andersen - Washington Department of Commerce
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
 #### 0 👎 - Con
 

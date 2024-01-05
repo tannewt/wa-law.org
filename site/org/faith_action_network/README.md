@@ -7,6 +7,8 @@
 
 ## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍4  
 
+## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals 👍1  
+
 ## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍4  
 * 👍💵 Kristin Ang
 
@@ -76,7 +78,8 @@
 
 ## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍2  
 
-## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍2  
+## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍3  
+* 👍 Robert Beekman
 
 ## [SB 5087](/bill/2023-24/sb/5087/) - Defects and omissions 👍3  
 
@@ -109,3 +112,5 @@
 ## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍5  
 
 ## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍7  
+
+## [SB 5768](/bill/2023-24/sb/5768/) - DOC/abortion medications 👍1  

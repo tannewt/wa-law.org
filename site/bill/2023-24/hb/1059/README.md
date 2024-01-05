@@ -12,8 +12,16 @@
 
 ## Meetings
 ### Mon 01/09 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1059 Sexual exploitation/minors
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* 💵Michael Moran - Confederated Tribes of the Colville Reservation
 
-#### 0 👎 - Con
+#### 17 👎 - Con
+Testifying:
+* Carol Lee
+* Michelle Cuykendall
+* Jenifer Middlebrooks - USA CITIZEN, WA State Resdient & Voter
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Julie Barrett - Conservative Ladies of Washington

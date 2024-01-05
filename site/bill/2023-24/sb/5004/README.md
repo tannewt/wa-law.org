@@ -20,7 +20,9 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Tue 01/10 10:30 AM - Law & Justice (LAW): SB 5004 Business corporations
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Michael Hutchings - WSBA Corporate Act Revision Committee
 
 #### 0 👎 - Con
 

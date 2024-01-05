@@ -75,8 +75,40 @@ Testifying:
 * 💵Leslie Emerick - WA Acupuncture and Eastern Medicine Association (WAEMA)
 
 ### Wed 01/11 01:30 PM - Health Care & Wellness (HCW): HB 1039 Intramuscular needling
-#### 0 👍 - Pro
+#### 873 👍 - Pro
+Testifying:
+* Todd Gentzler
+* Benjamin Boyle - APTA WA
+* 💵Melissa Johnson - APTA Washington
+* Carol Sayles Rydbom
+* Jacqui Berg
+* Lindsey Thompson
+* Shane Koppenhaver
+* Susanne Michaud
+* David Colescott
+* Hayden Bayley
 
-#### 0 👎 - Con
+#### 338 👎 - Con
+Testifying:
+* Tai Lahans - self
+* Elizabeth Dart
+* Joelle Ghigleri
+* Lisa vanHaagen - Professional member WA DOH AEMP Advisory Committee
+* Sharonne O'Shea - Acorn Acupuncture, PLLC
+* Jaime Chaves
+* Sharonne O'Shea - Acorn Acupuncture, PLLC
+* Carla Corkin
+* Ivaylo Gueorguiev
+* Sandra Broberg
+* Ash Goddard
+* Romi Epstein
+* Ash Goddard - [Washington Acupuncture and Eastern Medicine Association](/org/washington_acupuncture_and_eastern_medicine_association/)
+* Chaiya Sherman - [Washington Acupuncture and Eastern Medicine Association](/org/washington_acupuncture_and_eastern_medicine_association/)
+* Lisa Van Haagen - [Washington Acupuncture and Eastern Medicine Association](/org/washington_acupuncture_and_eastern_medicine_association/)
+* Sharonne O'Shea - [Washington Acupuncture and Eastern Medicine Association](/org/washington_acupuncture_and_eastern_medicine_association/)
+* Jill Braunstein
+* Laura Todd
+* Kellyanna Dalton
+* Serena Emerson
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

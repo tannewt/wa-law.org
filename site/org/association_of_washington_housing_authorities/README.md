@@ -1,5 +1,8 @@
 # Association of Washington Housing Authorities
 
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
+* 👍 Andrew Calkins
+
 ## [HB 1260](/bill/2023-24/hb/1260/) - Work-limiting disability 👍2  
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍3  

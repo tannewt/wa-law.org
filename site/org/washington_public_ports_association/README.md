@@ -1,5 +1,7 @@
 # Washington Public Ports Association
 
+## [HB 1040](/bill/2023-24/hb/1040/) - Aviation & aerospace cmte. 👍1  
+
 ## [HB 1050](/bill/2023-24/hb/1050/) - Apprenticeship utilization   ❓2
 * ❓ Chris Herman
 * ❓ Chris Herman
@@ -10,12 +12,15 @@
 * ❓ Chris Herman
 * 👍💵 Christopher Herman
 
-## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
+## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1 👎1 
+* 👎💵 John Stuhlmiller
 
-## [HB 1099](/bill/2023-24/hb/1099/) - Public works wages   ❓1
+## [HB 1099](/bill/2023-24/hb/1099/) - Public works wages   ❓2
+* ❓ Chris Herman
 * ❓ Chris Herman
 
-## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget 👍1  ❓1
+## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget 👍2  ❓1
+* 👍 Chris Herman
 * 👍 Chris Herman
 
 ## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
@@ -113,6 +118,9 @@
 
 ## [SB 5129](/bill/2023-24/sb/5129/) - Nuclear reactor technology 👍1  
 
+## [SB 5133](/bill/2023-24/sb/5133/) - Responsible bidder criteria   ❓1
+* ❓ Chris Herman
+
 ## [SB 5159](/bill/2023-24/sb/5159/) - Shoreline program review 👍1  
 
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  ❓1
@@ -120,7 +128,8 @@
 
 ## [SB 5192](/bill/2023-24/sb/5192/) - Derelict vessel appeals 👍2  
 
-## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
+## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍2  
+* 👍 Eric ffitch
 * 👍 Eric ffitch
 
 ## [SB 5229](/bill/2023-24/sb/5229/) - Site readiness grants 👍4  
@@ -153,6 +162,8 @@
 
 ## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍1  ❓1
 * ❓💵 John Stuhlmiller
+
+## [SB 5437](/bill/2023-24/sb/5437/) - Special districts/vacancies   ❓1
 
 ## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍4  
 * 👍 Eric ffitch

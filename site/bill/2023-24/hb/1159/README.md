@@ -9,8 +9,19 @@
 
 ## Meetings
 ### Tue 01/10 04:00 PM - Regulated Substances & Gaming (RSG): HB 1159 Interstate cannabis agrmts.
-#### 0 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Micah Sherman
+* Burl Bryson
+* 💵Brooke Davies - Washington CannaBusiness Association
 
-#### 0 👎 - Con
+#### 7 👎 - Con
+Testifying:
+* Peter Manning - Black Excellence In Cannabis
+* Ahmed King - Black Excellence In Cannabis
+* Damian Mims - Black Excellence In Cannabis
+* Maurice Gordan - Black Excellence In Cannabis
+* Tyler Conway - Black Excellence In Cannabis
+* Mike Asai - Black Excellence in Cannabis
 
 #### 0 ❓ - Other

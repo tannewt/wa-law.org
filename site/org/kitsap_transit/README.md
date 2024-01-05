@@ -1,6 +1,6 @@
 # Kitsap Transit
 
-## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget 👍1  
+## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget 👍2  
 
 ## [HB 1236](/bill/2023-24/hb/1236/) - Clean fuel/public transport. 👍2  
 

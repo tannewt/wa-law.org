@@ -40,8 +40,24 @@ Testifying:
 * Brenda Heilman - Labor & Industries
 
 ### Tue 01/10 10:30 AM - Labor & Workplace Standards (LAWS): HB 1068 Injured worker medical exams
-#### 0 👍 - Pro
+#### 21 👍 - Pro
+Testifying:
+* Brian Wright - Washington State Association for Justice
+* Rachel Hamar - Washington State Association for Justice
+* 💵Seth Worley - Plumbers and Steamfitters UA Local Union 598
+* Joe Kendo - Washington State Labor Council, AFL-CIO
+* Chris Carlisle
+* 💵Samantha Grad - Teamsters 117
 
-#### 0 👎 - Con
+#### 33 👎 - Con
+Testifying:
+* Dr Wendy Marlowe
+* Kristin McCoy - MES Solutions
+* 💵Carolyn Logue - Washington IME Coalition
+* Bob Battles - Association of Washington Business (AWB)
+* Breck Lebegue
+* 💵Tammie Hetrick - Washington Food Industry Association
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tammy Fellin - Labor & Industries

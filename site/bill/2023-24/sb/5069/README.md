@@ -47,8 +47,19 @@ Testifying:
 * Scott Waller - WASAVP - Prevention First! for Safe and Healthy Communities
 
 ### Tue 01/10 10:30 AM - Labor & Commerce (LC): SB 5069 Interstate cannabis agrmts.
-#### 0 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* Micah Sherman - Washington Sun and Craft Grower's Association (WSCA)
+* Ann Rivers - Yes. Senator Ann Rivers
+* 💵Ezra Eickmeyer - Producers NW
+* Burl Bryson - The Cannabis Alliance
+* 💵Vicki Christophersen - Washington CannaBusiness Association
 
-#### 0 👎 - Con
+#### 10 👎 - Con
+Testifying:
+* Ahmed King - Black excellence in Cannabis
+* Damian Mims - Black excellence in Cannabis
+* Mike Asai - Black excellence in Cannabis
+* Peter Manning - Black excellence in Cannabis
 
 #### 0 ❓ - Other

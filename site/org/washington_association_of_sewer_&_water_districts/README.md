@@ -1,5 +1,7 @@
 # Washington Association of Sewer & Water Districts
 
+## [HB 1099](/bill/2023-24/hb/1099/) - Public works wages   ❓1
+
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  ❓2
 * ❓💵 Joren Clowers
 * ❓💵 Joren Clowers

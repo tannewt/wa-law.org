@@ -1,6 +1,12 @@
 # Washington Cattlemen's Association
 
+## [HB 1019](/bill/2023-24/hb/1019/) - Pesticide advisory board 👍1  
+
+## [HB 1032](/bill/2023-24/hb/1032/) - Wildfires/electric utilities 👍1  
+
 ## [HB 1072](/bill/2023-24/hb/1072/) - Motor vehicle length 👍1  
+
+## [HB 1138](/bill/2023-24/hb/1138/) - Drought preparedness 👍1  
 
 ## [HB 1698](/bill/2023-24/hb/1698/) - Gray wolf management 👍1  
 * 👍 Jay Holzmiller

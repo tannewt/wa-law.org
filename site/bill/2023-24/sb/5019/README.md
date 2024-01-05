@@ -33,8 +33,17 @@ Testifying:
 * Rick Chisa - Public School Employees of WA/SEIU 1948
 
 ### Wed 01/11 01:30 PM - Early Learning & K-12 Education (EDU): SB 5019 School safety staff
-#### 0 👍 - Pro
+#### 18 👍 - Pro
+Testifying:
+* 💵Bob Cooper - National Assoc of Social Workers WA Chapter
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* Ellie Bridge - [League of Education Voters](/org/league_of_education_voters/)
+* Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Wendy Williams-Gilbert - Washington State School Directors' Association / Medical Lake SD
+* Matt Gillingham - Lake Washington School District
+* Rick Chisa - Public School Employees of WA

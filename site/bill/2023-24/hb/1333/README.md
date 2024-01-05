@@ -22,7 +22,7 @@ Testifying:
 * Kristiana de Leon - Association of Secular Elected Officials
 * Roger Kluck - Projects for a Civil Society
 
-#### 2951 👎 - Con
+#### 2952 👎 - Con
 Testifying:
 * Eric Pratt
 * Laurie Layne
@@ -66,6 +66,7 @@ Testifying:
 * Alan Artru
 * Mark Berggren
 * Leslie Williams
+* Kerry French
 
 #### 7 ❓ - Other
 Testifying:

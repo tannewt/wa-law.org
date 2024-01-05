@@ -8,10 +8,11 @@
 
 ## Meetings
 ### Thu 02/02 08:00 AM - Labor & Commerce (LC): SB 5007 Wine retailer shippers
-#### 2 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * David Parker
 * Tom Wark - [National Association of Wine Retailers](/org/national_association_of_wine_retailers/)
+* Paul Beveridge - Family Wineries of Washington State
 
 #### 4 👎 - Con
 Testifying:

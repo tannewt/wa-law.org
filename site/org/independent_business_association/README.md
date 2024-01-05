@@ -32,10 +32,16 @@
 
 ## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge  👎1 
 
+## [SB 5061](/bill/2023-24/sb/5061/) - Personnel records  👎1 
+* 👎💵 James King
+
 ## [SB 5110](/bill/2023-24/sb/5110/) - Labor practices/penalties  👎1 
 * 👎💵 James King
 
-## [SB 5123](/bill/2023-24/sb/5123/) - Cannabis/employment  👎1 
+## [SB 5123](/bill/2023-24/sb/5123/) - Cannabis/employment  👎2 
+
+## [SB 5133](/bill/2023-24/sb/5133/) - Responsible bidder criteria  👎1 
+* 👎💵 James King
 
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍3 👎1 
 * 👎💵 James King

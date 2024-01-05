@@ -1,13 +1,21 @@
 # Disability Rights Washington
 
+## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
+
 ## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 
-## [HB 1087](/bill/2023-24/hb/1087/) - Solitary confinement 👍1  
+## [HB 1087](/bill/2023-24/hb/1087/) - Solitary confinement 👍3  
+* 👍💵 Rachael Seevers
+* 👍💵 Rachael Seevers
 * 👍💵 Rachael Seevers
 
 ## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍2  
 
+## [HB 1124](/bill/2023-24/hb/1124/) - Residential rent and fees 👍1  
+
 ## [HB 1132](/bill/2023-24/hb/1132/) - Limited authority officers 👍1  
+
+## [HB 1174](/bill/2023-24/hb/1174/) - Jail-based voting 👍1  
 
 ## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍2  
 
@@ -38,13 +46,15 @@
 
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍1  
 
-## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍3  
+## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍4  
+* 👍💵 Rachael Seevers
 
 ## [SB 5101](/bill/2023-24/sb/5101/) - DOC medical placements 👍2  
 * 👍💵 Rachael Seevers
 * 👍💵 Rachael Seevers
 
-## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍1  
+## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍2  
+* 👍💵 Todd Carlisle
 * 👍💵 Todd Carlisle
 
 ## [SB 5130](/bill/2023-24/sb/5130/) - Assisted outpatient treat.  👎2 

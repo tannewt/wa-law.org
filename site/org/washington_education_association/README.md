@@ -1,6 +1,6 @@
 # Washington Education Association
 
-## [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍1  
+## [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍2  
 
 ## [HB 1002](/bill/2023-24/hb/1002/) - Hazing penalty 👍2  
 
@@ -8,10 +8,12 @@
 
 ## [HB 1008](/bill/2023-24/hb/1008/) - Plan 2 members/insurance 👍1  
 
-## [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍2  
+## [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍3  
 
 ## [HB 1015](/bill/2023-24/hb/1015/) - Paraeducator requirements 👍3  
 * 👍💵 Nasue Nishida
+
+## [HB 1021](/bill/2023-24/hb/1021/) - Social worker licensing 👍1  
 
 ## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 
@@ -19,7 +21,7 @@
 
 ## [HB 1046](/bill/2023-24/hb/1046/) - Housing dev. income limits 👍1  
 
-## [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act 👍1  
+## [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act 👍2  
 
 ## [HB 1050](/bill/2023-24/hb/1050/) - Apprenticeship utilization 👍1  
 
@@ -29,7 +31,9 @@
 
 ## [HB 1057](/bill/2023-24/hb/1057/) - PERS/TRS 1 benefit increase 👍1  
 
-## [HB 1068](/bill/2023-24/hb/1068/) - Injured worker medical exams 👍1  
+## [HB 1068](/bill/2023-24/hb/1068/) - Injured worker medical exams 👍2  
+
+## [HB 1069](/bill/2023-24/hb/1069/) - Mental health counselor comp 👍1  
 
 ## [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎1 
 
@@ -41,11 +45,15 @@
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
+## [HB 1095](/bill/2023-24/hb/1095/) - Wage replacement 👍1  
+
+## [HB 1099](/bill/2023-24/hb/1099/) - Public works wages 👍1  
+
 ## [HB 1105](/bill/2023-24/hb/1105/) - Public comment notice 👍1  
 
-## [HB 1106](/bill/2023-24/hb/1106/) - Unemployment/voluntary 👍1  
+## [HB 1106](/bill/2023-24/hb/1106/) - Unemployment/voluntary 👍2  
 
-## [HB 1107](/bill/2023-24/hb/1107/) - "Master" and "servant" terms 👍1  
+## [HB 1107](/bill/2023-24/hb/1107/) - "Master" and "servant" terms 👍2  
 
 ## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍4  
 * 👍💵 Julie Salvi
@@ -56,7 +64,7 @@
 * 👍💵 Nasue Nishida
 * 👍💵 Nasue Nishida
 
-## [HB 1122](/bill/2023-24/hb/1122/) - WMS bargaining 👍1  
+## [HB 1122](/bill/2023-24/hb/1122/) - WMS bargaining 👍2  
 
 ## [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍1  
 
@@ -68,8 +76,12 @@
 
 ## [HB 1137](/bill/2023-24/hb/1137/) - Return-to-work opportunities  👎1 
 
-## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓2
 * ❓💵 Larry Delaney
+* ❓💵 Larry Delaney
+
+## [HB 1142](/bill/2023-24/hb/1142/) - Tenure-track faculty 👍1  
+* 👍💵 Simone Boe
 
 ## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer 👍3  
 
@@ -77,7 +89,8 @@
 
 ## [HB 1146](/bill/2023-24/hb/1146/) - Dual credit program notice 👍2  
 
-## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
+## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  ❓1
+* ❓ Jared Mason-Gere
 * 👍 Jared Mason-Gere
 
 ## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍2  
@@ -86,7 +99,7 @@
 
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data 👍1  
 
-## [HB 1156](/bill/2023-24/hb/1156/) - College grant eligibility 👍1  
+## [HB 1156](/bill/2023-24/hb/1156/) - College grant eligibility 👍2  
 
 ## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing 👍3  
 
@@ -354,9 +367,15 @@
 
 ## [HB 1823](/bill/2023-24/hb/1823/) - WA student loan program 👍3  
 
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  
+* 👍💵 Larry Delaney
+
+## [SB 5000](/bill/2023-24/sb/5000/) - Americans of Chinese descent 👍1  
+
 ## [SB 5010](/bill/2023-24/sb/5010/) - Synthetic opioids/endanger. 👍1  
 
-## [SB 5019](/bill/2023-24/sb/5019/) - School safety staff 👍1  
+## [SB 5019](/bill/2023-24/sb/5019/) - School safety staff 👍2  
+* 👍💵 Julie Salvi
 * 👍💵 Julie Salvi
 
 ## [SB 5023](/bill/2023-24/sb/5023/) - Roadside safety measures 👍1  
@@ -366,22 +385,34 @@
 
 ## [SB 5031](/bill/2023-24/sb/5031/) - Special ed safety net awards 👍2  
 
+## [SB 5038](/bill/2023-24/sb/5038/) - K-12 empl. notice deadlines   ❓1
+* ❓💵 Julie Salvi
+
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act 👍1  
 
-## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍2  
+## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍3  
 
 ## [SB 5054](/bill/2023-24/sb/5054/) - Prof. learning communities 👍3  
 * 👍💵 Nasue Nishida
 
-## [SB 5071](/bill/2023-24/sb/5071/) - Purple star designation 👍1  
+## [SB 5061](/bill/2023-24/sb/5061/) - Personnel records 👍1  
+
+## [SB 5071](/bill/2023-24/sb/5071/) - Purple star designation 👍2  
+* 👍💵 Nasue Nishida
 
 ## [SB 5072](/bill/2023-24/sb/5072/) - Highly capable students 👍2  
 
-## [SB 5079](/bill/2023-24/sb/5079/) - Tuition establishment date 👍1  
+## [SB 5079](/bill/2023-24/sb/5079/) - Tuition establishment date 👍2  
 
-## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
+## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍2  
 
-## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍2  
+## [SB 5084](/bill/2023-24/sb/5084/) - Self-insured pensions/fund 👍4  
+
+## [SB 5085](/bill/2023-24/sb/5085/) - School principals/employment 👍1  
+
+## [SB 5088](/bill/2023-24/sb/5088/) - Contractor registration 👍1  
+
+## [SB 5089](/bill/2023-24/sb/5089/) - Factory assembled structures 👍1  
 
 ## [SB 5102](/bill/2023-24/sb/5102/) - School library info and tech 👍4  
 
@@ -389,7 +420,7 @@
 
 ## [SB 5111](/bill/2023-24/sb/5111/) - Sick leave/construction 👍2  
 
-## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍2  
+## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍3  
 
 ## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍1  
 
@@ -398,6 +429,10 @@
 ## [SB 5123](/bill/2023-24/sb/5123/) - Cannabis/employment 👍1  
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
+
+## [SB 5127](/bill/2023-24/sb/5127/) - Student information/PRA 👍1  
+
+## [SB 5133](/bill/2023-24/sb/5133/) - Responsible bidder criteria 👍1  
 
 ## [SB 5141](/bill/2023-24/sb/5141/) - WMS bargaining 👍2  
 
@@ -409,9 +444,12 @@
 
 ## [SB 5171](/bill/2023-24/sb/5171/) - Consumer products/gender 👍1  
 
-## [SB 5174](/bill/2023-24/sb/5174/) - Student transportation 👍2  ❓1
+## [SB 5174](/bill/2023-24/sb/5174/) - Student transportation 👍3  ❓1
+* 👍💵 Julie Salvi
 * 👍💵 Julie Salvi
 * ❓💵 Julie Salvi
+
+## [SB 5175](/bill/2023-24/sb/5175/) - School principal contracts 👍1  
 
 ## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍3  
 
@@ -421,7 +459,8 @@
 
 ## [SB 5186](/bill/2023-24/sb/5186/) - Contracting/discrimination 👍1  
 
-## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
+## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓2
+* ❓💵 Larry Delaney
 * ❓💵 Larry Delaney
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
@@ -641,3 +680,15 @@
 
 ## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages  👎2 
 * 👎 Sue Nightingale
+
+## [SB 5809](/bill/2023-24/sb/5809/) - Charter schools/enrichment  👎1 
+* 👎💵 Julie Salvi
+
+## [SB 5873](/bill/2023-24/sb/5873/) - Student transportation 👍1  
+* 👍💵 Julie Salvi
+
+## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍1  
+* 👍💵 Julie Salvi
+
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
+* 👍💵 Larry Delaney

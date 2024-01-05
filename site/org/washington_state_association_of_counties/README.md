@@ -1,6 +1,6 @@
 # Washington State Association of Counties
 
-## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
 
 ## [HB 1022](/bill/2023-24/hb/1022/) - Support & services levies 👍2  
 * 👍💵 Juliana Roe
@@ -8,6 +8,12 @@
 
 ## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions  👎1 
 * 👎💵 Mike Hoover
+
+## [HB 1037](/bill/2023-24/hb/1037/) - Family burial grounds   ❓1
+* ❓💵 Paul Jewell
+
+## [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act   ❓1
+* ❓💵 Mike Hoover
 
 ## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
 
@@ -20,7 +26,9 @@
 ## [HB 1133](/bill/2023-24/hb/1133/) - Detached ADUs 👍1  
 * 👍💵 Paul Jewell
 
-## [HB 1138](/bill/2023-24/hb/1138/) - Drought preparedness 👍2  
+## [HB 1138](/bill/2023-24/hb/1138/) - Drought preparedness 👍3  
+
+## [HB 1149](/bill/2023-24/hb/1149/) - Housing/capital expenditures 👍1  
 
 ## [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations   ❓1
 * ❓💵 Juliana Roe
@@ -163,6 +171,9 @@
 * 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 
+## [SB 5027](/bill/2023-24/sb/5027/) - American dream homes 👍1  
+* 👍💵 Paul Jewell
+
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel  👎1 ❓2
 * ❓💵 Juliana Roe
 * 👎💵 Juliana Roe
@@ -175,7 +186,11 @@
 * 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 
-## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍2  ❓1
+## [SB 5061](/bill/2023-24/sb/5061/) - Personnel records   ❓1
+* ❓💵 Mike Hoover
+
+## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍2  ❓2
+* ❓💵 Paul Jewell
 * ❓💵 Paul Jewell
 * 👍💵 Paul Jewell
 
@@ -265,6 +280,8 @@
 ## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎1 ❓1
 * 👎💵 Juliana Roe
 * ❓💵 Juliana Roe
+
+## [SB 5456](/bill/2023-24/sb/5456/) - Minimum parking requirements  👎1 
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development  👎1 
 * 👎💵 Paul Jewell

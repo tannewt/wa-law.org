@@ -1,0 +1,67 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 2092](/bill/2023-24/hb/2092/) > [Original Bill](/bill/2023-24/hb/2092/1/)
+
+# HB 2092 - Concerning school construction assistance program funding for preschool and before-and-after school care program enrollments.
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/2092.pdf)
+
+## Section 1
+The legislature finds that public early learning services funded by school districts, the state government, and the federal government are an essential part of the spectrum of Washington educational services, as early learning in all its forms prepares Washington's youngest learners for kindergarten and beyond. This range of publicly funded services for preschool learners includes programs funded by the state and federal governments and provided under the auspices of the department of children, youth, and families, such as the state-funded early childhood education and assistance program, the working connections child care program, and early support for infants and toddlers with disabilities under RCW 43.216.580, as well as the federally funded head start program. Publicly funded early learning services also include education provided by school districts and funded with school district resources as part of school district programs, including enrollment for three- and four-year-olds in special education, transition to kindergarten programs under RCW 28A.300.072, and preschool and before-and-after school programs under chapter 28A.215 RCW. In many cases, state early learning services funded with state or federal funding are implemented in partnership with school districts, with the services provided in facilities owned and operated by the district either by employees of the school district or by other school district contractors. Because each of these services provided in school district facilities is a part of the continuum of education intended to prepare children for the common schools, the legislature finds that children served in early learning, as well as in before-and-after school programs, operated by school districts or their contractors in school district facilities should be included in construction funding formulas under chapter 28A.525 RCW. By counting these learners toward school district enrollments to allocate state funding for school district capital facilities, the state promotes access to appropriate facilities for those served in both state and school district programs.
+
+## Section 2
+1. Funds appropriated to the superintendent of public instruction from the common school construction fund, and funding from any other source appropriated for the school construction assistance program, shall be allotted by the superintendent of public instruction in accordance with this chapter.
+
+2. No allotment shall be made to a school district until such district has provided local funds equal to or greater than the difference between the total approved project cost and the amount of state funding assistance to the district for financing the project computed pursuant to RCW 28A.525.166, with the following exceptions:
+
+    a. The superintendent of public instruction may waive the local requirement for state funding assistance for districts which have provided funds for school building construction purposes through the authorization of bonds or through the authorization of excess tax levies or both in an amount equivalent to 2.5 percent of the value of its taxable property, as defined in RCW 39.36.015.
+
+    b. No such local funds shall be required as a condition to the allotment of funds from the state for the purpose of making major or minor structural changes to existing school facilities in order to bring such facilities into compliance with the barrier free access requirements of section 504 of the federal rehabilitation act of 1973 (29 U.S.C. Sec. 706) and rules implementing the act.
+
+3. Except as provided for under (a)(v) of this subsection (3), for the purpose of computing the state funding assistance percentage under RCW 28A.525.166 when a school district is granted authority to enter into contracts for school building construction purposes, adjusted valuation per pupil shall be calculated using head count student enrollments from the most recent October enrollment reports submitted by districts to the superintendent of public instruction, adjusted as follows:
+
+    a. In the case of projects for which local bonds were approved after May 11, 1989:
+
+        i. For districts which have been designated as serving high school districts under RCW 28A.540.110, students residing in the nonhigh district so designating shall be excluded from the enrollment count if the student is enrolled in any grade level not offered by the nonhigh district;
+
+        ii. The enrollment of nonhigh school districts shall be increased by the number of students residing within the district who are enrolled in a serving high school district so designated by the nonhigh school district under RCW 28A.540.110, including only students who are enrolled in grade levels not offered by the nonhigh school district;
+
+        iii. Subject to (a)(v) of this subsection (3), the number of preschool-age students enrolled in school district facilities must be included in the enrollment count as one head count student;
+
+        iv. Subject to (a)(v) of this subsection (3), the number of students enrolled in before-and-after school care programs in school district facilities must be included in the enrollment count as one head count student; and
+
+    v. The enrollments counted under (a)(iii) and (iv) of this subsection (3) must be calculated based on districts' most recent annual average enrollment reports as determined by the office of the superintendent of public instruction and must only include students enrolled in programs operated by a school district or its contractor as authorized by chapter 28A.215 RCW and RCW 28A.300.072, 43.216.143, 43.216.556, and 43.216.580;
+
+    b. In the case of construction or modernization of high school facilities in districts serving students from nonhigh school districts, the adjusted valuation per pupil shall be computed using the combined adjusted valuations and enrollments of each district, each weighted by the percentage of the district's resident high school students served by the high school district;
+
+    c. The number of kindergarten students included in the enrollment count shall be counted as one head count student; and
+
+    d. The number of students residing outside the school district who are enrolled in alternative learning experience courses under RCW 28A.232.010 shall be excluded from the total.
+
+4. In lieu of the exclusion in subsection (3)(d) of this section, a district may submit an alternative calculation for excluding students enrolled in alternative learning experience courses. The alternative calculation must show the student head count use of district classroom facilities on a regular basis for a regular duration by out-of-district alternative learning experience students subtracted by the head count of in-district alternative learning experience students not using district classroom facilities on a regular basis for a reasonable duration. The alternative calculation must be submitted in a form approved by the office of the superintendent of public instruction. The office of the superintendent of public instruction must develop rules to define "regular basis" and "reasonable duration."
+
+5. For the purpose of computing student space allocations for preschool-age students and for before-and-after school care students pursuant to the school construction assistance program provided by this section and RCW 28A.525.164 through 28A.525.180, the office of the superintendent of public instruction must use districts' most recent annual average enrollment reports, as determined by the office, adjusted as follows:
+
+    a. Subject to (c) of this subsection, the number of preschool-age students enrolled in school district facilities must be included in the enrollment count as one head count student.
+
+    b. Subject to (c) of this subsection, the number of students enrolled in before-and-after school care programs in school district facilities must be included in the enrollment count as one head count student.
+
+    c. The enrollments counted under (a) and (b) of this subsection must only include students enrolled in programs operated by a school district or its contractor as authorized by chapter 28A.215 RCW and RCW 28A.300.072, 43.216.143, 43.216.556, and 43.216.580.
+
+6. The superintendent of public instruction, considering policy recommendations from the school facilities citizen advisory panel, shall prescribe such rules as are necessary to equate insofar as possible the efforts made by school districts to provide capital funds by the means aforesaid.
+
+7. For the purposes of this section, "preschool-age students" means children ages birth through six years of age, including those who have developmental disabilities and who are entitled to services under RCW 28A.155.010 through 28A.155.100, not yet enrolled in kindergarten or elementary school.
+
+## Section 3
+1. The common school construction fund is to be used exclusively for the purpose of financing the construction of facilities for the common schools. The sources of said fund shall be: (a) Those proceeds derived from sale or appropriation of timber and other crops from school and state land other than those granted for specific purposes; (b) the interest accruing on the permanent common school fund less the allocations to the state treasurer's service fund pursuant to RCW 43.08.190 and the state investment board expense account pursuant to RCW 43.33A.160 together with all rentals and other revenue derived therefrom and from land and other property devoted to the permanent common school fund; (c) all moneys received by the state from the United States under the provisions of section 191, Title 30, United States Code, Annotated, and under section 810, chapter 12, Title 16, (Conservation), United States Code, Annotated, except moneys received before June 30, 2001, and when thirty megawatts of geothermal power is certified as commercially available by the receiving utilities and the department of commerce, eighty percent of such moneys, under the Geothermal Steam Act of 1970 pursuant to RCW 43.140.030; and (d) such other sources as the legislature may direct. That portion of the common school construction fund derived from interest on the permanent common school fund may be used to retire such bonds as may be authorized by law for the purpose of financing the construction of facilities for the common schools.
+
+2. The interest accruing on the permanent common school fund less the allocations to the state treasurer's service fund pursuant to RCW 43.08.190 and the state investment board expense account pursuant to RCW 43.33A.160 together with all rentals and other revenues accruing thereto pursuant to subsection (1)(b) of this section prior to July 1, 1967, shall be exclusively applied to the current use of the common schools.
+
+3. To the extent that the moneys in the common school construction fund are in excess of the amount necessary to allow fulfillment of the purpose of said fund, the excess shall be available for deposit to the credit of the permanent common school fund or available for the current use of the common schools, as the legislature may direct. Any money from the common school construction fund which is made available for the current use of the common schools shall be restored to the fund by appropriation, including interest income forgone, before the end of the next fiscal biennium following such use.
+
+4. For purposes of this section:
+
+    a. "Common schools" includes facilities owned by school districts in which programs are operated by a school district or its contractor to serve preschool-age students and students in before-and-after school care as authorized by chapter 28A.215 RCW and RCW 28A.300.072, 43.216.143, 43.216.556, and 43.216.580; and
+
+    b. "Preschool-age students" has the same meaning as in RCW 28A.525.162.
+
+## Section 4
+Section 2 of this act first applies to school construction assistance program projects provided under RCW 28A.525.162 through 28A.525.180 beginning in fiscal year 2026.

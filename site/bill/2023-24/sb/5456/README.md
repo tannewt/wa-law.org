@@ -12,7 +12,7 @@
 
 ## Meetings
 ### Thu 02/02 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5456 Minimum parking requirements
-#### 212 👍 - Pro
+#### 281 👍 - Pro
 Testifying:
 * 💵Josie Cummings - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Catie Gould - [Sightline Institute](/org/sightline_institute/)
@@ -20,9 +20,14 @@ Testifying:
 * Scott Bonjukian - APA Washington
 * Mike Ennis - AWB
 * Jennifer Gregerson
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Catie Gould - [Sightline Institute](/org/sightline_institute/)
+* Gail Fredlund
+* Brock Howell - Bicycle Security Advisors
 * Angela Rozmyn - Natural and Built Environments
+* Matt Hutchins - cast architecture
 
-#### 13 👎 - Con
+#### 40 👎 - Con
 Testifying:
 * Mary Lou Pauly - Mayor, City of Issaquah
 * Kyle Moore - City of SeaTac

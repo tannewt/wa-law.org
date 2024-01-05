@@ -11,8 +11,13 @@
 
 ## Meetings
 ### Fri 01/13 08:00 AM - Postsecondary Education & Workforce (PEW): HB 1021 Social worker licensing
-#### 0 👍 - Pro
+#### 34 👍 - Pro
+Testifying:
+* Lindsey Arrasmith - Washington State Society for Clinical Social Work
+* 💵Bob Cooper - National Association of social workers WA chapter
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Heidi Worlton

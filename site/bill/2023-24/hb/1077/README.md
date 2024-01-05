@@ -25,8 +25,16 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Wed 01/11 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1077 Courthouse facility dogs
-#### 0 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* Ellen O'Neill-Stephens - Courthouse Dogs Foundation
+* Mark Kloehn - Lutheran Community Services Northwest
+* Jody Hawthorne - Monarch Children's Justice and Advocacy Center
+* Suzi and Valor Fode - New Hope
+* Sue Bucy - Connections A Center for Healthy Families,
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Paula Reed - [Children's Advocacy Centers of Washington](/org/children's_advocacy_centers_of_washington/)

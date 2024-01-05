@@ -1,6 +1,9 @@
 # Unemployment Law Project
 
-## [HB 1106](/bill/2023-24/hb/1106/) - Unemployment/voluntary 👍1  
+## [HB 1095](/bill/2023-24/hb/1095/) - Wage replacement 👍1  
+
+## [HB 1106](/bill/2023-24/hb/1106/) - Unemployment/voluntary 👍2  
+* 👍 Anne Paxton
 * 👍 Anne Paxton
 
 ## [HB 1107](/bill/2023-24/hb/1107/) - "Master" and "servant" terms 👍1  

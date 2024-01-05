@@ -96,5 +96,6 @@
 
 ## [SB 5629](/bill/2023-24/sb/5629/) - Hepatitis B and C 👍2  
 
-## [SB 5768](/bill/2023-24/sb/5768/) - DOC/abortion medications 👍3  
+## [SB 5768](/bill/2023-24/sb/5768/) - DOC/abortion medications 👍4  
+* 👍💵 Nicole Kern
 * 👍💵 Nicole Kern

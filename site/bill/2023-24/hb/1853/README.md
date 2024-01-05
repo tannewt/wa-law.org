@@ -12,9 +12,9 @@
 
 ## Meetings
 ### Wed 04/12 12:30 PM - Transportation (TRAN): SHB 1853 Transportation resources
-#### 1 👍 - Pro
+#### 5 👍 - Pro
 
-#### 0 👎 - Con
+#### 6 👎 - Con
 
 #### 0 ❓ - Other
 

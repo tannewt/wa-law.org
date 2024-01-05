@@ -12,11 +12,12 @@
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): SHB 1012 Extreme weather events
-#### 51 👍 - Pro
+#### 52 👍 - Pro
 Testifying:
 * 💵Brittany Benesi - American Society for the Prevention of Cruelty to Animals
 * Alexandra Mather - [Pierce Transit](/org/pierce_transit/)
 * Jim Baumgart - Washington Military Department
+* 💵Hanna Jones - [Pierce Transit](/org/pierce_transit/)
 
 #### 13 👎 - Con
 
@@ -46,7 +47,11 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Tue 01/10 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1012 Extreme weather events
-#### 0 👍 - Pro
+#### 56 👍 - Pro
+Testifying:
+* Kristina Walker - Tacoma City Council
+* James Baumgart - Washington Military Department
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 0 👎 - Con
 

@@ -9,8 +9,19 @@
 
 ## Meetings
 ### Thu 01/12 01:30 PM - Early Learning & K-12 Education (EDU): SB 5085 School principals/employment
-#### 0 👍 - Pro
+#### 21 👍 - Pro
+Testifying:
+* Dr. Scott Seaman - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
+* 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
+* Brent Osborn - Lakeside High School
+* Carlos Gonzalez - Othello Middle School
+* Dr. Robert Gary - Madison Middle School
+* Gerrit Kischner - Thornton Creek Elementary
+* Heidi Maurer - Kentlake High School
+* Jason Smith - Rogers High School
+* Justin Hendrickson - South Shore K-8 School
+* Ted Howard
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

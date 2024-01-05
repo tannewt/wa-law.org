@@ -18,7 +18,7 @@ Testifying:
 * Dan Steele - WA Assn of School Administrators
 * Tyler Muench - Office of Superintendent of Public Instruction
 
-#### 345 👎 - Con
+#### 386 👎 - Con
 Testifying:
 * Jeannie Magdua - Conservative Ladies of Washington
 * Luz Herrera
@@ -26,7 +26,7 @@ Testifying:
 * Violeta Orozco
 * Violeta Orozco
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * 💵Mike Hoover - Washington State School Directors’ Association

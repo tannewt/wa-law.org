@@ -21,8 +21,12 @@
 #### 0 ❓ - Other
 
 ### Fri 01/13 08:00 AM - State Government & Elections (SGE): SB 5127 Student information/PRA
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Kristin Murphy - Office of Superintendent of Public Instruction (OSPI)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵Rowland Thompson - Allied Daily Newspapers of WA, WA Newspaper Publishers Assn, WA State Assn of Broadcasters
 
 #### 0 ❓ - Other

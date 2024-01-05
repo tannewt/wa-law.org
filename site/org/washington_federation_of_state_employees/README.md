@@ -4,7 +4,8 @@
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 
-## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍2  
+## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍3  
+* 👍 Kati Durkin
 * 👍 Kati Durkin
 * 👍💵 Kurt Spiegel
 

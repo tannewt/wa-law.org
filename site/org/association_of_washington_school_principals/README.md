@@ -1,5 +1,7 @@
 # Association of Washington School Principals
 
+## [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍1  
+
 ## [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍3  
 
 ## [HB 1015](/bill/2023-24/hb/1015/) - Paraeducator requirements 👍2  
@@ -11,6 +13,8 @@
 ## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍4  
 
 ## [HB 1113](/bill/2023-24/hb/1113/) - Prof. educator reprimands 👍1  
+
+## [HB 1156](/bill/2023-24/hb/1156/) - College grant eligibility 👍1  
 
 ## [HB 1207](/bill/2023-24/hb/1207/) - Harassment/schools 👍2  
 
@@ -60,13 +64,25 @@
 
 ## [HB 1732](/bill/2023-24/hb/1732/) - K-12 inflation adjustments 👍1  
 
-## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍3  
+## [SB 5020](/bill/2023-24/sb/5020/) - Education at 6 years of age 👍1  
+
+## [SB 5038](/bill/2023-24/sb/5038/) - K-12 empl. notice deadlines 👍1  
+
+## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍4  
 
 ## [SB 5054](/bill/2023-24/sb/5054/) - Prof. learning communities   ❓1
 
+## [SB 5085](/bill/2023-24/sb/5085/) - School principals/employment 👍2  
+* 👍 Dr. Scott Seaman
+* 👍💵 Roz Thompson
+
 ## [SB 5126](/bill/2023-24/sb/5126/) - Common school trust revenue 👍1  
 
-## [SB 5175](/bill/2023-24/sb/5175/) - School principal contracts 👍2  
+## [SB 5174](/bill/2023-24/sb/5174/) - Student transportation 👍1  
+
+## [SB 5175](/bill/2023-24/sb/5175/) - School principal contracts 👍4  
+* 👍 Dr. Scott Seaman
+* 👍💵 Roz Thompson
 * 👍 Dr. Scott Seaman
 * 👍💵 Roz Thompson
 
@@ -86,6 +102,8 @@
 ## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍2  ❓1
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
+
+## [SB 5408](/bill/2023-24/sb/5408/) - Ninth grade success grants 👍1  
 
 ## [SB 5522](/bill/2023-24/sb/5522/) - College grant prg. stipend 👍1  
 

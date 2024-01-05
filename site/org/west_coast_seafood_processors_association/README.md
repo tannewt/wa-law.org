@@ -1,6 +1,6 @@
 # West Coast Seafood Processors Association
 
-## [HB 1010](/bill/2023-24/hb/1010/) - Shellfish sanitary control 👍1  
+## [HB 1010](/bill/2023-24/hb/1010/) - Shellfish sanitary control 👍2  
 
 ## [SB 5277](/bill/2023-24/sb/5277/) - Dairy, etc. tax preferences 👍1  
 

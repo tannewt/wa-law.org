@@ -1,5 +1,7 @@
 # Washington Association of Juvenile Court Administrators
 
+## [HB 1102](/bill/2023-24/hb/1102/) - Judge pro tempore compen. 👍1  
+
 ## [HB 1432](/bill/2023-24/hb/1432/) - Juvenile justice   ❓1
 * ❓ Jack Murphy
 

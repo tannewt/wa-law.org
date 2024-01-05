@@ -25,14 +25,15 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Thu 02/02 08:00 AM - Labor & Commerce (LC): SB 5586 Paid leave data
-#### 9 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Alexandra Mather - [Pierce Transit](/org/pierce_transit/)
 * Ali Schaafsma
 * Bob Battles - Association of Washington Business (AWB)
+* Joe Kendo - Washington State Labor Council, AFL-CIO
 * 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

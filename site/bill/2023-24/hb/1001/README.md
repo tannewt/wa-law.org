@@ -25,7 +25,16 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Fri 01/13 08:00 AM - Postsecondary Education & Workforce (PEW): HB 1001 Audiology & speech compact
-#### 0 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* 💵Melissa Johnson - Washington Speech-Language-Hearing Association
+* Bethany Davis - Washington Speech-Language-Hearing Association
+* Terra Boulse-Archaro
+* Susan Adams - American Speech-Language-Hearing Association
+* Tammie Perreault - Department of Defense
+* Tom Davis - Veterans Legislative Coalition
+* Vanessa Hurst
+* Allison Gunta
 
 #### 0 👎 - Con
 

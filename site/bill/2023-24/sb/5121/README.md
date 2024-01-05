@@ -22,8 +22,11 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Thu 01/12 10:30 AM - Health & Long Term Care (HLTC): SB 5121 Health care oversight cmte.
-#### 0 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* Jim Freeburg
+* Eileen Cody - self
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

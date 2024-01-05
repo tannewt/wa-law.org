@@ -37,9 +37,10 @@ Testifying:
 #### 1 ❓ - Other
 
 ### Wed 02/08 04:00 PM - Appropriations (APP): SHB 1222 Hearing instruments coverage
-#### 657 👍 - Pro
+#### 658 👍 - Pro
 Testifying:
 * Jill Bujnevicie
+* Jill and Hugo Bujnevicie
 * Cynthia Stewart - Hearing Loss Association - WA
 * August Kotovic
 * Ruby Kotovic

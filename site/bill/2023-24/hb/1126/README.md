@@ -28,6 +28,15 @@ Testifying:
 ### Thu 01/12 04:00 PM - Transportation (TR): HB 1126 Transportation budget, supp.
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* Ursula Euler
+* Brian Jarrell
+* Jake Pool - Coalition Against Graham and Eatonville-Roy Airports
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Arvia Morris
+* Cindy Schexnider - Stop the Airport
+* Dawn Sonntag - Stop the Airport
+* Tim Gould
