@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31537&aId=155973&caId=22718&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31537&aId=155973&caId=22718&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* (Justice) Debra Stephens
+* Dawn Marie Rubio - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Shannon Hinchcliffe - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 
 #### 0 👎 - Con
 

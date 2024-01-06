@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/05/2024 [Sightline Institute](/org/sightline_institute/) - [Washington Bill Would Legalize Low-cost “Co-living” Homes - Sightline Institute](https://www.sightline.org/2024/01/05/washington-bill-would-legalize-low-cost-co-living-homes/#:~:text=SB%205901)
 * 01/02/2024 [The Urbanist](/org/the_urbanist/) - [State Legislators Push for ‘Year of Housing 2.0’ - The Urbanist](https://www.theurbanist.org/2024/01/02/get-ready-for-the-year-of-housing-2-0/#:~:text=SB%205901)
 
 ## Meetings
@@ -17,7 +18,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31542&aId=155994&caId=22714&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31542&aId=155994&caId=22714&tId=4)
 
-#### 3 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* David Neiman - Neiman Taber Architects PLLC
 
 #### 0 👎 - Con
 

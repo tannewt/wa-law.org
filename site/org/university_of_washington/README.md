@@ -89,6 +89,8 @@
 
 ## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge  👎2 
 
+## [HB 2041](/bill/2023-24/hb/2041/) - Concerning physician assistant collaborative practice. 👍1  
+
 ## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍1  
 * 👍 Joe Dacca
 

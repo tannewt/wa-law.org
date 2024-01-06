@@ -14,7 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31531&aId=155956&caId=22774&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31531&aId=155956&caId=22774&tId=4)
 
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Rian Alam
+* Joanna Lymberis - Lake Washington High School
+* Olivia Milstein - Lake Washington High School
+* Sophia Lymberis - Lake Washington High School
+* Theodore Meek - Lake Washington High School
 
 #### 0 👎 - Con
 

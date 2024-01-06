@@ -23,10 +23,11 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Kathryn Gardow - Chair, Public Works Board
 * 💵Michael White - [King County](/org/king_county/)
+* Tsega Desta - Ethiopian Community in Seattle
 
 ### Thu 01/11 04:00 PM - Ways & Means (WM): SB 5949: Higher education. (Remote Testimony Available).
 Sign up to testify:
@@ -70,9 +71,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31550&aId=156228&caId=22778&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31550&aId=156228&caId=22778&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
 #### 0 👎 - Con
 

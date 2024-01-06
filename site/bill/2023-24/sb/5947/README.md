@@ -14,15 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31520&aId=156201&caId=22734&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31520&aId=156201&caId=22734&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * 💵Jane Wall - County Road Administration Board
+* Commissioner Melanie Bacon - [Island County](/org/island_county/)
 
 #### 1 👎 - Con
 Testifying:
 * Mary Paterson
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Michael White - [King County](/org/king_county/)
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)

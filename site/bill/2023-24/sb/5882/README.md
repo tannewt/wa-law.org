@@ -14,12 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31530&aId=155951&caId=22746&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31530&aId=155951&caId=22746&tId=4)
 
-#### 9 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* Tyler Muench - Office of Superintendent of Public Instruction
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Oliver Miska - WAESN
+* Liv Finne - Washington Policy Center

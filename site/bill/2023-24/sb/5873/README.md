@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31530&aId=155950&caId=22745&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31530&aId=155950&caId=22745&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* Tyler Muench - Office of Superintendent of Public Instruction
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Barbara Posthumus - Lake Washington School District

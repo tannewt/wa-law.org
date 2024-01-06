@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%201368)
 * 02/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB%201368)
 * 02/13/2023 [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=HB%201368)
 * 02/13/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/13/the-house-hot-sheet-for-week-6-of-the-2023-legislative-session/#:~:text=HB%201368)
@@ -22,9 +23,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31524&aId=155941&caId=22799&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31524&aId=155941&caId=22799&tId=4)
 
-#### 2 👍 - Pro
+#### 8 👍 - Pro
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -14,8 +14,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31598&aId=156220&caId=22862&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31598&aId=156220&caId=22862&tId=4)
 
-#### 0 👍 - Pro
+#### 19 👍 - Pro
+Testifying:
+* Jennifer ‘Jaye’ Panico
+* Jodi Richey - Bridge of Promise
+* Therese Vafaeezadeh - Parent and Tavon Learning Center
+* Adana Protonentis - Kindred Leaders
+* 💵Adrienne Stuart
+* Moses Perez - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* Laurie Shackelford
+* Damon Heard-Shackelford
+* Gary Stobbe - Medical Director, UW Medicine Adult Autism Clinic
+* Rose Yu
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Lance Morehouse - [Sherwood Community Services](/org/sherwood_community_services/)

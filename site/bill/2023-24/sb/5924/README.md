@@ -18,7 +18,7 @@ Sign up to testify:
 Testifying:
 * Patrick McGah
 
-#### 0 👎 - Con
+#### 26 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

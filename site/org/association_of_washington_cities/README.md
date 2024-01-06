@@ -218,8 +218,14 @@
 
 ## [HB 1892](/bill/2023-24/hb/1892/) - Concerning the workforce housing accelerator program. 👍1  
 
+## [HB 1932](/bill/2023-24/hb/1932/) - Shifting general elections for local governments to even-numbered years to increase voter participation.  👎1 
+* 👎💵 Lindsey Hueer
+
 ## [HB 1940](/bill/2023-24/hb/1940/) - Employer political speech   ❓1
 * ❓💵 Candice Bock
+
+## [HB 1952](/bill/2023-24/hb/1952/) - Concerning long-term community recovery after disasters.   ❓1
+* ❓💵 Lindsey Hueer
 
 ## [HB 1987](/bill/2023-24/hb/1987/) - Concerning the use of moneys from the rural public facilities sales and use tax for affordable workforce housing infrastructure and facilities. 👍1  
 
@@ -444,6 +450,9 @@
 
 ## [SB 5778](/bill/2023-24/sb/5778/) - Employer political speech   ❓1
 * ❓💵 Candice Bock
+
+## [SB 5781](/bill/2023-24/sb/5781/) - Establishing a law student rural public defense program. 👍1  
+* 👍💵 Lindsey Hueer
 
 ## [SB 5807](/bill/2023-24/sb/5807/) - Housing authorities 👍1  
 

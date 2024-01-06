@@ -16,3 +16,6 @@
 ## [SB 5729](/bill/2023-24/sb/5729/) - Insulin cost-sharing cap 👍2  
 * 👍💵 Carissa Kemp
 * 👍💵 Carissa Kemp
+
+## [SB 5776](/bill/2023-24/sb/5776/) - Accessing an emergency supply of insulin. 👍1  
+* 👍💵 Carissa Kemp

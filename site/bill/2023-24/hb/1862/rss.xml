@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1862/</link>
 		<description>Updates about HB 1862</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 04 Dec 2023 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 05 Jan 2024 03:01:36 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,30 @@
 			<pubDate>Mon, 04 Dec 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-12-04/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>👍Jason topEvents - American Lake Veterans Golf Course</title>
+			<description>Jason topEvents signed up to testify Pro. They are signed up to represent American Lake Veterans Golf Course.</description>
+			<pubDate>Fri, 05 Jan 2024 01:43:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jason/topEvents/2024-01-05 01:43:34</guid>
+		</item>
+		<item>
+			<title>👍Bruce Mckenty - AMERICAN LAKE VETERANS GOLF COURSE</title>
+			<description>Bruce Mckenty signed up to testify Pro. They are signed up to represent AMERICAN LAKE VETERANS GOLF COURSE.</description>
+			<pubDate>Fri, 05 Jan 2024 01:59:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bruce/Mckenty/2024-01-05 01:59:20</guid>
+		</item>
+		<item>
+			<title>👍Jessie Baird - Friends of American Lake Veterans Golf Course</title>
+			<description>Jessie Baird signed up to testify Pro. They are signed up to represent Friends of American Lake Veterans Golf Course.</description>
+			<pubDate>Fri, 05 Jan 2024 03:01:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jessie/Baird/2024-01-05 03:01:36</guid>
 		</item>
 	</channel>
 </rss>

@@ -33,6 +33,9 @@
 ## [HB 1723](/bill/2023-24/hb/1723/) - GMA/equity and env. justice 👍1  
 * 👍💵 Guillermo Rogel
 
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
+* ❓💵 Guillermo Rogel
+
 ## [SB 5143](/bill/2023-24/sb/5143/) - Pesticide registration comm.  👎1 
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍2  

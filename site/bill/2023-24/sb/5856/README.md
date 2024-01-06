@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31544&aId=156091&caId=22732&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31544&aId=156091&caId=22732&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Cindy Madigan - League of Women Voters of Washington
+* Mary Hall - Washington State Association of County Auditors (WSACA)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

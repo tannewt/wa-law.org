@@ -104,6 +104,11 @@
 
 ## [HB 1811](/bill/2023-24/hb/1811/) - Insurance/credit exceptions  👎1 
 
+## [HB 1945](/bill/2023-24/hb/1945/) - Streamlining and enhancing program access for persons eligible for food assistance. 👍1  
+
+## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍1  
+* 👍💵 Alex Hur
+
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest 👍2  
 
 ## [SB 5109](/bill/2023-24/sb/5109/) - Wage replacement 👍1  

@@ -18,6 +18,10 @@
 ## [HB 1817](/bill/2023-24/hb/1817/) - Housing gap voucher pilot 👍2  
 * 👍💵 Mike Hoover
 
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants  👎3 
+* 👎 Christy Mays
+* 👎💵 Mike Hoover
+
 ## [SB 5197](/bill/2023-24/sb/5197/) - Eviction processes  👎2 
 
 ## [SB 5198](/bill/2023-24/sb/5198/) - Mobile home community sales  👎1 ❓2
@@ -28,4 +32,8 @@
 * 👎💵 Mike Hoover
 
 ## [SB 5697](/bill/2023-24/sb/5697/) - Mobile home park rates  👎1 
+* 👎💵 Mike Hoover
+
+## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants  👎3 
+* 👎 Beau Harer
 * 👎💵 Mike Hoover

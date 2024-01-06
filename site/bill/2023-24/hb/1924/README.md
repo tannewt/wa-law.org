@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31565&aId=156057&caId=22831&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31565&aId=156057&caId=22831&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Ryan Umstattd - Zap Energy
+* James Conca
+* Jackie Siebens - Helion Energy
 
 #### 0 👎 - Con
 

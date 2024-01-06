@@ -32,6 +32,9 @@
 ## [HB 1693](/bill/2023-24/hb/1693/) - Student homelessness pilot 👍1  
 * 👍 Steve DuPont
 
+## [HB 1889](/bill/2023-24/hb/1889/) - Allowing persons to receive professional licenses and certifications regardless of immigration or citizenship status. 👍1  
+* 👍 Nicholas Villa
+
 ## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍1  
 * 👍 Steve DuPont
 

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%202144)
+
 ## Meetings
 ### Tue 01/09 04:00 PM - Environment & Energy (ENVI): HB 2144 Providing for a deposit return program for qualifying beverage containers to be implemented by a distributor responsibility organization. (Remote Testimony Available). (If measure is referred to committee.)
 Sign up to testify:
@@ -14,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31566&aId=156270&caId=22908&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31566&aId=156270&caId=22908&tId=4)
 
-#### 10 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Kate Bailey - The Association of Plastic Recyclers (APR)
 * Dylan de Thomas - The Recycling Partnership
@@ -27,8 +30,9 @@ Testifying:
 * Fiona Bell - Novelis
 * Hannah Martinez - Indorama Ventures
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)

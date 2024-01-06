@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%201479)
 * 03/28/2023 [The Seattle Times](/org/the_seattle_times/) - [Isolation and restraint of students is abuse | The Seattle Times](https://www.seattletimes.com/opinion/editorials/isolation-and-restraint-of-students-is-abuse/#:~:text=House%20Bill%201479)
 * 03/27/2023 [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=E2SHB%201479)
 * 03/21/2023 [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! March 20, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-march-20-2023/#:~:text=E2SHB%201479)
@@ -33,13 +34,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31561&aId=156030&caId=22824&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31561&aId=156030&caId=22824&tId=4)
 
-#### 7 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Richard Pope - Parent of Isolation Survivor
 * Oliver Miska - WAESN
 * Samantha Fogg - Seattle Council PTSA Immediate Past President
 
-#### 5 👎 - Con
+#### 16 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5823/</link>
 		<description>Updates about SB 5823</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 11 Dec 2023 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 05 Jan 2024 12:44:23 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,22 @@
 			<pubDate>Mon, 11 Dec 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-12-11/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>👍Paul Marquardt - Bethel Schools</title>
+			<description>Paul Marquardt signed up to testify Pro. They are signed up to represent Bethel Schools.</description>
+			<pubDate>Fri, 05 Jan 2024 01:39:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Paul/Marquardt/2024-01-05 01:39:23</guid>
+		</item>
+		<item>
+			<title>👍Tyler Muench - Office of Superintendent of Public Instruction</title>
+			<description>Tyler Muench signed up to testify Pro. They are signed up to represent Office of Superintendent of Public Instruction.</description>
+			<pubDate>Fri, 05 Jan 2024 12:44:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tyler/Muench/2024-01-05 12:44:23</guid>
 		</item>
 	</channel>
 </rss>

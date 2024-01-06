@@ -1,0 +1,150 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 2159](/bill/2023-24/hb/2159/) > [Original Bill](/bill/2023-24/hb/2159/1/)
+
+# HB 2159 - Journey level electricians
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/2159.pdf)
+
+## Section 1
+The definitions in this section apply throughout this subchapter.
+
+1. "Administrator" means a person designated by an electrical contractor to supervise electrical work and electricians in accordance with the rules adopted under this chapter.
+
+2. "Basic electrical work" means the work classified in (a) and (b) of this subsection as class A and class B basic electrical work:
+
+    a. "Class A basic electrical work" means the like-in-kind replacement of a: Contactor, relay, timer, starter, circuit board, or similar control component; household appliance; circuit breaker; fuse; residential luminaire; lamp; snap switch; dimmer; receptacle outlet; thermostat; heating element; luminaire ballast with an exact same ballast; ten horsepower or smaller motor; or wiring, appliances, devices, or equipment as specified by rule.
+
+    b. "Class B basic electrical work" means work other than class A basic electrical work that requires minimal electrical circuit modifications and has limited exposure hazards. Class B basic electrical work includes the following:
+
+        i. Extension of not more than one branch electrical circuit limited to one hundred twenty volts and twenty amps each where:
+
+(A) No cover inspection is necessary; and
+
+(B) The extension does not supply more than two outlets;
+
+        ii. Like-in-kind replacement of a single luminaire not exceeding two hundred seventy-seven volts and twenty amps;
+
+        iii. Like-in-kind replacement of a motor larger than ten horsepower;
+
+        iv. The following low voltage systems:
+
+(A) Repair and replacement of devices not exceeding one hundred volt-amperes in Class 2, Class 3, or power limited low voltage systems in one and two-family dwellings;
+
+(B) Repair and replacement of the following devices not exceeding one hundred volt-amperes in Class 2, Class 3, or power limited low voltage systems in other buildings, provided the equipment is not for fire alarm or nurse call systems and is not located in an area classified as hazardous by the national electrical code; or
+
+    v. Wiring, appliances, devices, or equipment as specified by rule.
+
+3. "Board" means the electrical board under RCW 19.28.311.
+
+4. "Chapter" or "subchapter" means the subchapter, if no chapter number is referenced.
+
+5. "Department" means the department of labor and industries.
+
+6. "Director" means the director of the department or the director's designee.
+
+7. "Electrical construction trade" includes, but is not limited to, installing or maintaining electrical wires and equipment that are used for light, heat, or power and installing and maintaining remote control, signaling, power limited, or communication circuits or systems.
+
+8. "Electrical contractor" means a person, firm, partnership, corporation, or other entity that offers to undertake, undertakes, submits a bid for, or does the work of installing or maintaining wires or equipment that convey electrical current.
+
+9. "Equipment" means any equipment or apparatus that directly uses, conducts, insulates, or is operated by electricity but does not mean: Plug-in appliances; or plug-in equipment as determined by the department by rule.
+
+10. "Industrial control panel" means a factory-wired or user-wired assembly of industrial control equipment such as motor controllers, switches, relays, power supplies, computers, cathode ray tubes, transducers, and auxiliary devices. The panel may include disconnect means and motor branch circuit protective devices.
+
+11. "Journey level electrician" means a person who has been issued a journey level electrician certificate of competency by the department.
+
+12. "Like-in-kind" means having similar characteristics such as voltage requirements, current draw, and function, and being in the same location.
+
+13. "Master electrician" means either a master journey level electrician or master specialty electrician.
+
+14. "Master journey level electrician" means a person who has been issued a master journey level electrician certificate of competency by the department and who may be designated by an electrical contractor to supervise electrical work and electricians in accordance with rules adopted under this chapter.
+
+15. "Master specialty electrician" means a person who has been issued a specialty electrician certificate of competency by the department and who may be designated by an electrical contractor to supervise electrical work and electricians in accordance with rules adopted under this chapter.
+
+16. "Small electrical contractor" means an electrical contractor with 20 or fewer employees.
+
+17. "Specialty electrician" means a person who has been issued a specialty electrician certificate of competency by the department.
+
+## Section 2
+1. Upon receipt of the application, the department shall review the application and determine whether the applicant is eligible to take an examination for the master journey level electrician, journey level electrician, master specialty electrician, or specialty electrician certificate of competency.
+
+    a. To be eligible to take the examination for a master journey level electrician certificate of competency, the applicant must have possessed a valid journey level electrician certificate of competency for four years.
+
+    b. To be eligible to take the examination for a master specialty electrician certificate of competency, the applicant must have possessed a valid specialty electrician certificate of competency, in the specialty applied for, for two years.
+
+    c. To be eligible to take the examination for a journey level certificate of competency, the applicant must have:
+
+        i. Successfully completed the work experience and education requirements of an 8,000 hour electrical construction trade apprenticeship program approved under chapter 49.04 RCW. Four thousand of the hours must be new industrial or commercial electrical installations under the supervision of a master journey level electrician or journey level electrician and not more than a total of 4,000 hours in all specialties under the supervision of a master journey level electrician, journey level electrician, master specialty electrician working in that electrician's specialty, or specialty electrician working in that electrician's specialty. Specialty electricians with less than a 4,000 hour work experience requirement cannot credit the time required to obtain that specialty towards qualifying to become a journey level electrician. The holder of a specialty electrician certificate of competency with a 4,000 hour work experience requirement shall be allowed to credit the work experience required to obtain that certificate towards apprenticeship requirements for qualifying to take the examination for a journey level electrician certificate of competency. An apprenticeship program may grant up to 3,000 hours of experience credit to an applicant who has previously completed at least 3,000 hours of new industrial or commercial electrical installations under the employ and supervision of one or more small electrical contractors pursuant to (c)(v) of this subsection;
+
+        ii. Successfully completed an 8,000 hour electrical construction trade apprenticeship program in another jurisdiction equivalent to an apprenticeship program approved under chapter 49.04 RCW. Four thousand of the hours must be new industrial or commercial electrical installations;
+
+        iii. An out-of-state journey level electrician certificate obtained through examination by a state licensing jurisdiction requiring at least 8,000 hours of supervised experience in the electrical construction trade installing and maintaining electrical wiring and equipment for installations of a type regulated under this chapter. Four thousand of the hours must be new industrial or commercial electrical installations. All experience applied toward qualifying for examination must be experience gained in the state that issued the certificate or military experience not exceeding that allowed under this chapter, or both;
+
+        iv. At least 16,000 hours of out-of-state experience in the electrical construction trade installing and maintaining electrical wiring and equipment for installations of a type regulated under this chapter. Four thousand of the hours must be new industrial or commercial electrical installations;
+
+    v. At least 8,000 hours of trainee experience in the electrical construction trade installing and maintaining electrical wiring and equipment for installations of a type regulated under this chapter, while in the employ, and under the supervision of, one or more small electrical contractors. Four thousand of the hours must be new industrial or commercial electrical installations; or
+
+    vi. Eight thousand hours of experience in the electrical construction trade installing and maintaining electrical wiring and equipment for installations of a type regulated under this chapter while serving in a construction battalion in the armed forces of the United States.
+
+    d. To be eligible to take the examination for a specialty electrician certificate of competency, the applicant must have:
+
+        i. Worked in the residential (as specified in WAC 296-46B-920(2)(a)), pump and irrigation (as specified in WAC 296-46B-920(2)(b)), sign (as specified in WAC 296-46B-920(2)(d)), limited energy (as specified in WAC 296-46B-920(2)(e)), nonresidential maintenance (as specified in WAC 296-46B-920(2)(g)), or other new nonresidential specialties as determined by the department in rule under the supervision of a master journey level electrician, journey level electrician, master specialty electrician working in that electrician's specialty, or specialty electrician working in that electrician's specialty for a minimum of 4,000 hours;
+
+        ii. Worked in the appliance repair specialty as determined by the department in rule, restricted nonresidential maintenance as determined by the department in rule, the equipment repair specialty as determined by the department in rule, the pump and irrigation specialty other than as defined by (d)(i) of this subsection or domestic pump specialty as determined by the department in rule, or a specialty other than the designated specialties in (d)(i) of this subsection for a minimum of the initial ninety days, or longer if set by rule by the department. The restricted nonresidential maintenance specialty is limited to a maximum of 277 volts and 20 amperes for lighting branch circuits and/or a maximum of 250 volts and 60 amperes for other circuits excluding the replacement or repair of circuit breakers. The department may alter the scope of work for the restricted nonresidential maintenance specialty by rule. The initial period must be spent under one hundred percent supervision of a master journey level electrician, journey level electrician, master specialty electrician working in that electrician's specialty, or specialty electrician working in that electrician's specialty. After this initial period, a person may take the specialty examination. If the person passes the examination, the person may work unsupervised for the balance of the minimum hours required for certification. A person may not be certified as a specialty electrician in the appliance repair specialty or in a specialty other than the designated specialties in (d)(i) of this subsection, however, until the person has worked a minimum of 2,000 hours in that specialty, or longer if set by rule by the department;
+
+        iii. Successfully completed an approved apprenticeship program under chapter 49.04 RCW for the applicant's specialty in the electrical construction trade; or
+
+        iv. In meeting the training requirements for the pump and irrigation or domestic pump specialties, the individual shall be allowed to obtain the experience required by this section at the same time the individual is meeting the experience required by RCW 18.106.040(1)(d). After meeting the training requirements provided in this section, the individual may take the examination and upon passing the examination, meeting additional training requirements as may still be required for those seeking a pump and irrigation, or a domestic pump specialty certificate as defined by rule, and paying the applicable fees, the individual must be issued the appropriate certificate. The department may include an examination for specialty plumbing certificate defined in RCW 18.106.010(14)(c) with the examination required by this section. The department, by rule and in consultation with the electrical board, may establish additional equivalent ways to gain the experience requirements required by this subsection. The department shall establish a single document for those who have received both an electrical specialty certification as defined by this subsection and have also met the certification requirements for the specialty plumber as defined by RCW 18.106.010(14)(c), showing that the individual has received both certifications. No other experience or training requirements may be imposed.
+
+    e. Any applicant for a journey level electrician certificate of competency who has successfully completed a two-year program in the electrical construction trade at public community or technical colleges, or not-for-profit nationally accredited technical or trade schools licensed by the workforce training and education coordinating board under chapter 28C.10 RCW, may substitute up to two years of the technical or trade school program for two years of work experience under a master journey level electrician or journey level electrician required under the apprenticeship program. The applicant shall obtain the additional two years of work experience required in industrial or commercial electrical installation prior to the beginning, or after the completion, of the technical school program. Any applicant who has received training in the electrical construction trade in the armed service of the United States may be eligible to apply armed service work experience towards qualification to complete an apprenticeship and take the examination for the journey level electrician certificate of competency.
+
+    f. An applicant for a specialty electrician certificate of competency who, after January 1, 2000, has successfully completed a two-year program in the electrical construction trade at a public community or technical college, or a not-for-profit nationally accredited technical or trade school licensed by the workforce training and education coordinating board under chapter 28C.10 RCW, may substitute up to one year of the technical or trade school program for one year of work experience under a master journey level electrician, journey level electrician, master specialty electrician working in that electrician's specialty, or specialty electrician working in that electrician's specialty. Any applicant who has received training in the electrical construction trade in the armed services of the United States may be eligible to apply armed service work experience towards qualification to take the examination for an appropriate specialty electrician certificate of competency.
+
+    g. The department must determine whether hours of training and experience in the armed services or school program are in the electrical construction trade and appropriate as a substitute for hours of work experience. The department must use the following criteria for evaluating the equivalence of classroom electrical training programs and work in the electrical construction trade:
+
+        i. A two-year electrical training program must consist of 3,000 or more hours.
+
+        ii. In a two-year electrical training program, a minimum of 2,400 hours of student/instructor contact time must be technical electrical instruction directly related to the scope of work of the electrical specialty. Student/instructor contact time includes lecture and in-school lab.
+
+        iii. The department may not allow credit for a program that accepts more than 1,000 hours transferred from another school's program.
+
+        iv. Electrical specialty training school programs of less than two years will have all of the above student/instructor contact time hours proportionately reduced. Such programs may not apply to more than fifty percent of the work experience required to attain certification.
+
+    v. Electrical training programs of less than two years may not be credited towards qualification for journey level electrician unless the training program is used to gain qualification for a 4,000 hour electrical specialty.
+
+    h. No other requirement for eligibility may be imposed.
+
+2. The department shall establish reasonable rules for the examinations to be given applicants for certificates of competency. In establishing the rules, the department shall consult with the board. Upon determination that the applicant is eligible to take the examination, the department shall so notify the applicant, indicating instructions for taking the examination.
+
+3. No noncertified individual may work unsupervised more than one year beyond the date when the trainee would be eligible to test for a certificate of competency if working on a full-time basis after original application for the trainee certificate. For the purposes of this section, "full-time basis" means 2,000 hours.
+
+## Section 3
+1. No person may engage in the electrical construction trade without having a valid master journey level electrician certificate of competency, journey level electrician certificate of competency, master specialty electrician certificate of competency, or specialty electrician certificate of competency issued by the department in accordance with this chapter. Electrician certificate of competency specialties include, but are not limited to: Residential, pump and irrigation, limited energy system, signs, nonresidential maintenance, restricted nonresidential maintenance, and appliance repair.
+
+2. [Empty]
+
+    a. A person may work in the electrical construction trade if supervised by a certified master journey level electrician, journey level electrician, master specialty electrician in that electrician's specialty, or specialty electrician in that electrician's specialty if the person is: (i) Registered in an apprenticeship program approved under chapter 49.04 RCW or equivalent apprenticeship program approved by the department for the electrical construction trade; (ii) learning the electrical construction trade while working in a specialty;  (iii) learning the electrical construction trade in a program described in RCW 19.28.191(1) (e) or (f) ; or (iv) learning the electrical construction trade while working as a trainee under RCW 19.28.191(1)(c)(v).
+
+    b. All apprentices and individuals learning the electrical construction trade shall obtain an electrical training certificate from the department. The certificate shall authorize the holder to learn the electrical construction trade while under the direct supervision of a master journey level electrician, journey level electrician, master specialty electrician working in that electrician's specialty, or specialty electrician working in that electrician's specialty. The certificate may include a photograph of the holder. The holder of the electrical training certificate shall renew the certificate biennially. At the time of renewal, the holder shall provide the department with an accurate list of the holder's employers in the electrical construction industry for the previous biennial period and the number of hours worked for each employer. The holder shall also provide proof of forty-eight hours of: Approved classroom training covering this chapter, the national electrical code, or electrical theory; or equivalent classroom training taken as part of an approved apprenticeship program under chapter 49.04 RCW or an approved electrical training program under RCW 19.28.191(1)(e). A biennial fee shall be charged for the issuance or renewal of the certificate. The department shall set the fee by rule. The fee shall cover but not exceed the cost of administering and enforcing the trainee certification and supervision requirements of this chapter.
+
+    c. [Empty]
+
+        i. Apprentices and individuals learning the electrical construction trade shall have their electrical training certificates in their possession at all times that they are performing electrical work. They shall show their certificates to an authorized representative of the department at the representative's request.
+
+        ii. Unless working in a specialty or as a trainee under RCW 19.28.191(1)(c)(v), apprentices and individuals learning the electrical construction trade must also have in their possession proof of apprenticeship or training program registration. They shall show their apprenticeship or training program registration documents to an authorized representative of the department at the representative's request.
+
+3. Any person who has been issued an electrical training certificate under this chapter may workif the person is: (a) Under supervision; and (b)(i) registered in an approved journey level apprenticeship program, as appropriate;  (ii) learning the electrical construction trade in a program described in RCW 19.28.191(1)(c)(v) or (e) for a journey level certificate of competency; or (iii) working in a specialty. Supervision shall consist of a person being on the same jobsite and under the control of either a certified master journey level electrician, journey level electrician, master specialty electrician working in that electrician's specialty, or specialty electrician working in that electrician's specialty. Either a certified master journey level electrician, journey level electrician, master specialty electrician working in that electrician's specialty, or specialty electrician working in that electrician's specialty shall be on the same jobsite as the noncertified individual for a minimum of seventy-five percent of each working day unless otherwise provided in this chapter.
+
+4. The ratio of noncertified individuals to certified master journey level electricians, journey level electricians, master specialty electricians, or specialty electricians on any one jobsite is as follows:
+
+    a. When working as a specialty electrician, not more than two noncertified individuals for every certified master specialty electrician working in that electrician's specialty, specialty electrician working in that electrician's specialty, master journey level electrician, or journey level electrician, except that the ratio requirements are one certified master specialty electrician working in that electrician's specialty, specialty electrician working in that electrician's specialty, master journey level electrician, or journey level electrician working as a specialty electrician to no more than four students enrolled in and working as part of an electrical construction program at public community or technical colleges, or not-for-profit nationally accredited trade or technical schools licensed by the workforce training and education coordinating board under chapter 28C.10 RCW. In meeting the ratio requirements for students enrolled in an electrical construction program at a trade school, a trade school may receive input and advice from the electrical board; and
+
+    b. When working as a journey level electrician, not more than one noncertified individual for every certified master journey level electrician or journey level electrician, except that the ratio requirements shall be one certified master journey level electrician or journey level electrician to no more than four students enrolled in and working as part of an electrical construction program at public community or technical colleges, or not-for-profit nationally accredited trade or technical schools licensed by the workforce training and education coordinating board under chapter 28C.10 RCW. In meeting the ratio requirements for students enrolled in an electrical construction program at a trade school, a trade school may receive input and advice from the electrical board.
+
+An individual who has a current training certificate and who has successfully completed or is currently enrolled in an approved apprenticeship program or in an electrical construction program at public community or technical colleges, or not-for-profit nationally accredited technical or trade schools licensed by the workforce training and education coordinating board under chapter 28C.10 RCW, may work without direct on-site supervision during the last six months of meeting the practical experience requirements of this chapter.
+
+5. For the residential (as specified in WAC 296-46B-920(2)(a)), pump and irrigation (as specified in WAC 296-46B-920(2)(b)), sign (as specified in WAC 296-46B-920(2)(d)), limited energy (as specified in WAC 296-46B-920(2)(e)), nonresidential maintenance (as specified in WAC 296-46B-920(2)(g)), restricted nonresidential maintenance as determined by the department in rule, or other new nonresidential specialties, not including appliance repair, as determined by the department in rule, either a master journey level electrician, journey level electrician, master specialty electrician working in that electrician's specialty, or specialty electrician working in that electrician's specialty must be on the same jobsite as the noncertified individual for a minimum of seventy-five percent of each working day. Other specialties must meet the requirements specified in RCW 19.28.191(1)(d)(ii). When the ratio of certified electricians to noncertified individuals on a jobsite is one certified electrician to three or four noncertified individuals, the certified electrician must:
+
+    a. Directly supervise and instruct the noncertified individuals and the certified electrician may not directly make or engage in an electrical installation; and
+
+    b. Be on the same jobsite as the noncertified individual for a minimum of one hundred percent of each working day.
+
+6. The electrical contractor shall accurately verify and attest to the electrical trainee hours worked by electrical trainees on behalf of the electrical contractor.

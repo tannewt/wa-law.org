@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%201952)
+
 ## Meetings
 ### Fri 01/12 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1952 Disasters/long-term recovery
 Sign up to testify:
@@ -18,4 +21,6 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)

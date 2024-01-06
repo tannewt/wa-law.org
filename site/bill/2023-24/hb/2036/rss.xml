@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2036/</link>
 		<description>Updates about HB 2036</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 05 Jan 2024 08:24:28 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 05 Jan 2024 23:45:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -102,6 +102,21 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Candice/Bock/2024-01-05 08:24:28</guid>
+		</item>
+		<item>
+			<title>👍Melissa Sims - The Cupcake Girla</title>
+			<description>Melissa Sims signed up to testify Pro. They are signed up to represent The Cupcake Girla.</description>
+			<pubDate>Fri, 05 Jan 2024 11:12:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Melissa/Sims/2024-01-05 11:12:07</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans</title>
+			<description>News article &quot;The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Fri, 05 Jan 2024 23:45:04 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%202036</guid>
 		</item>
 	</channel>
 </rss>

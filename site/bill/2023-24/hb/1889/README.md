@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%201889)
+
 ## Meetings
 ### Tue 01/09 01:30 PM - Consumer Protection & Business (CPB): HB 1889 Professionals/immigration
 Sign up to testify:
@@ -14,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31591&aId=156200&caId=22817&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31591&aId=156200&caId=22817&tId=4)
 
-#### 112 👍 - Pro
+#### 175 👍 - Pro
 Testifying:
 * Flor Reyes
 * Flor Reyes
@@ -26,7 +29,10 @@ Testifying:
 * Daniel Gomez Nava - Latino Community Fund of Washington
 * Aline Aguirre - Latino Community Fund
 * Maria Barrios - Communities for our College
+* Nicholas Villa - [Central Washington University](/org/central_washington_university/)
+* Lina Ulloa - C4C
+* Paul Ryan Villanueva
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 8 ❓ - Other

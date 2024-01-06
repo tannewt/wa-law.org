@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%201885)
+
 ## Meetings
 ### Tue 01/09 01:30 PM - State Government & Tribal Relations (SGOV): HB 1885 Campaign finance/foreign
 Sign up to testify:
@@ -14,13 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31508&aId=156094&caId=22894&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31508&aId=156094&caId=22894&tId=4)
 
-#### 6 👍 - Pro
+#### 329 👍 - Pro
 Testifying:
 * 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
 * Cindy Madigan - League of Women Voters of Washington
+* 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * 💵Conner Edwards - WA Professional Campaign Treasurer
+* Sean Flynn - Public Disclosure Commission

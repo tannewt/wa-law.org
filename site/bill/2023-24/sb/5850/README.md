@@ -17,7 +17,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31531&aId=155959&caId=22777&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31531&aId=155959&caId=22777&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Beatrice Kiraguri - Testifying on behalf of African Young Dreamers Empowerment Program Intl
 
 #### 0 👎 - Con
 

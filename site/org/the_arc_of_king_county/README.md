@@ -101,10 +101,15 @@
 
 ## [HB 1945](/bill/2023-24/hb/1945/) - Streamlining and enhancing program access for persons eligible for food assistance. 👍1  
 
+## [HB 2080](/bill/2023-24/hb/2080/) - Day habilitation services 👍1  
+* 👍💵 Ramona Hattendorf
+
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
 * ❓💵 Ramona Hattendorf
 
 ## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍1  
+
+## [HB 2184](/bill/2023-24/hb/2184/) - DD parental caregivers 👍1  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 

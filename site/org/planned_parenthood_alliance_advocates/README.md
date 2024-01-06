@@ -48,6 +48,22 @@
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
 
+## [HB 1895](/bill/2023-24/hb/1895/) - Modifying the working families' tax credit by clarifying the refundable nature of the credit, the application requirements, and the eligibility verification process. 👍1  
+
+## [HB 1905](/bill/2023-24/hb/1905/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
+
+## [HB 1916](/bill/2023-24/hb/1916/) - Concerning funding for the early support for infants and toddlers program. 👍1  
+
+## [HB 1932](/bill/2023-24/hb/1932/) - Shifting general elections for local governments to even-numbered years to increase voter participation. 👍1  
+
+## [HB 1957](/bill/2023-24/hb/1957/) - Preserving coverage of preventive services without cost sharing. 👍1  
+
+## [HB 1958](/bill/2023-24/hb/1958/) - Concerning nonconsensual removal of or tampering with a sexually protective device. 👍1  
+
+## [HB 2023](/bill/2023-24/hb/2023/) - Improving meaningful access to elections by increasing language assistance. 👍1  
+
+## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
+
 ## [SB 5028](/bill/2023-24/sb/5028/) - Name changes 👍1  
 
 ## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍1  
@@ -99,3 +115,5 @@
 ## [SB 5768](/bill/2023-24/sb/5768/) - DOC/abortion medications 👍4  
 * 👍💵 Nicole Kern
 * 👍💵 Nicole Kern
+
+## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍1  

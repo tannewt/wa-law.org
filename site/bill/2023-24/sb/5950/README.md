@@ -14,9 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156241&caId=22742&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156241&caId=22742&tId=4)
 
-#### 1 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Wesley Jessup - Northwest Museum of Arts & Culture (EWSHS- Eastern Washington State Historical Society)
+* Larry Jefferson - Director, Washington State Office of Public Defense
+* 💵Melissa Johnson - District & Municipal Court Judges Association
+* 💵John Seng - [Spark Northwest](/org/spark_northwest/)
+* Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 
 #### 0 👎 - Con
 
@@ -35,9 +40,11 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Melissa Johnson - Washington State Association of Head Start & ECEAP
+* Pauli Owen
+* 💵Kristin Wiggins - Perigee Fund / P5RHS
 
 ### Tue 01/09 04:00 PM - Ways & Means (WM): SB 5950: Employee compensation. (Remote Testimony Available).
 Sign up to testify:
@@ -59,10 +66,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156235&caId=22736&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156235&caId=22736&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * 💵Morgan Hickel - [University of Washington](/org/university_of_washington/)
 * 💵Joel Anderson - Washington Student Achievement Council
+* Sandy Kaiser - The Evergreen State College
+* Stephanie Winner - State Board for Community and Technical Colleges
 
 #### 0 👎 - Con
 
@@ -92,7 +101,7 @@ Testifying:
 * Nikki Wegner
 * Blake Duarte
 
-#### 16 ❓ - Other
+#### 23 ❓ - Other
 Testifying:
 * Zack Wester
 * Nikki Storms
@@ -110,6 +119,13 @@ Testifying:
 * Sandy Lennon - Washington School-Based Health Alliance
 * 💵Alyssa Odegaard - LeadingAge Washington
 * Laura Dow - Kinship Navigator Program
+* 💵Leslie Emerick - Home Care Association of Washington (HCAW)
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Anthony Ives - Kitsap Community Resources
+* Jeff Guyett - Community Action Council of Whitman County
+* Nathan Daniel
+* Teri Bryant
+* Carolyn Driscoll - The Sequoia Assisted Living Community
 
 ### Tue 01/09 04:00 PM - Ways & Means (WM): SB 5950: K-12 public schools.  (Remote Testimony Available).
 Sign up to testify:
@@ -118,22 +134,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156234&caId=22735&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156234&caId=22735&tId=4)
 
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * 💵Melissa Gombosky - AESD
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
 * Tyler Muench - Office of Superintendent of Public Instruction
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
 #### 0 👎 - Con
 
-#### 5 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Angela Steck - President, Washington State PTA
 * Nancy Chamberlain - Washington State PTA
 * Jeanne Willard - Everett Public Schools
 * 💵Alan Burke - WSSRA
 * Vicki Wolvert - Union High School/Evergreen School District
+* 💵Kia Franklin - Stand for Children WA
 
 ### Tue 01/09 04:00 PM - Ways & Means (WM): SB 5950: Mental health. (Remote Testimony Available).
 Sign up to testify:
@@ -142,7 +160,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156238&caId=22739&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156238&caId=22739&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* 💵Anna Nepomuceno - NAMI Washington
+* Rashi Gupta - UW Medicine
 
 #### 0 👎 - Con
 

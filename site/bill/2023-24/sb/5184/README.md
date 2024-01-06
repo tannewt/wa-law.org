@@ -17,11 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31541&aId=155983&caId=22783&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31541&aId=155983&caId=22783&tId=4)
 
-#### 0 👍 - Pro
+#### 144 👍 - Pro
+Testifying:
+* Patrick Hession - CAA
+* Truc-Anh Tran - CAA
 
 #### 13 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Micah Matthews - Washington Medical Commission
 

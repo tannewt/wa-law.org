@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%201932)
+
 ## Meetings
 ### Tue 01/09 01:30 PM - State Government & Tribal Relations (SGOV): HB 1932 Even-numbered year elections
 Sign up to testify:
@@ -14,13 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31508&aId=156093&caId=22893&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31508&aId=156093&caId=22893&tId=4)
 
-#### 10 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * Alan Durning - [Sightline Institute](/org/sightline_institute/)
 * Zoltan Hajnal - Yankelovich Center for Research, UCSD
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
-#### 1 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * 💵Conner Edwards - WA Professional Campaign Treasurers
+* 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 0 ❓ - Other

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5834/</link>
 		<description>Updates about SB 5834</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 11 Dec 2023 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 05 Jan 2024 11:53:59 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,22 @@
 			<pubDate>Mon, 11 Dec 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-12-11/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>👍Rod Higgins - Councilmember, City of Spokane Valley</title>
+			<description>Rod Higgins signed up to testify Pro. They are signed up to represent Councilmember, City of Spokane Valley.</description>
+			<pubDate>Fri, 05 Jan 2024 03:36:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rod/Higgins/2024-01-05 03:36:07</guid>
+		</item>
+		<item>
+			<title>👍Brett Lucas - City of Cheney</title>
+			<description>Brett Lucas signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/city_of_cheney/&quot;&gt;City of Cheney&lt;/a&gt;.</description>
+			<pubDate>Fri, 05 Jan 2024 11:53:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brett/Lucas/2024-01-05 11:53:59</guid>
 		</item>
 	</channel>
 </rss>

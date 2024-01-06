@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31506&aId=155906&caId=22840&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31506&aId=155906&caId=22840&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Jason topEvents - American Lake Veterans Golf Course
+* Bruce Mckenty - AMERICAN LAKE VETERANS GOLF COURSE
+* Jessie Baird - Friends of American Lake Veterans Golf Course
 
 #### 0 👎 - Con
 

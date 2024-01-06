@@ -1,0 +1,92 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 6013](/bill/2023-24/sb/6013/) > [Original Bill](/bill/2023-24/sb/6013/1/)
+
+# SB 6013 - Homeownership dev. tax ex.
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/6013.pdf)
+
+## Section 1
+1. All real property is exempt from state and local property taxes if owned by :
+
+    a. A nonprofit entity, or  a qualified cooperative association, for the purpose of developing or redeveloping on the real property one or more residences to be sold to low-income households including land to be leased as provided in subsection (9)(f)(ii) of this section; or
+
+    b. A nonprofit entity for the purpose of selling the real property to a low-income household who enters into an agreement with the nonprofit to build, or have built, through a qualified mutual self-help housing program a residence on the real property.
+
+2. The exemption provided in this section expires on or at the earlier of:
+
+    a. (i) For purposes of the exemption provided in subsection (1)(a) of this section, the date on which the nonprofit entity transfers title to the single-family dwelling unit or the date on which the qualified cooperative association first conveys, directly or indirectly through the transfer of an ownership interest in the association, any single-family dwelling unit on the property or any part of the property; or
+
+        ii. For purposes of the exemption provided in subsection (1)(b) of this section, the date on which the nonprofit entity transfers title to the real property to the low-income household;
+
+    b. The date on which the nonprofit entity or qualified cooperative association executes a lease of land described in subsection (9)(f)(ii) of this section;
+
+    c. The end of the seventh consecutive property tax year for which the property is granted an exemption under this section or, if the nonprofit entity or qualified cooperative association has claimed an extension under subsection (4) of this section, the end of the tenth consecutive property tax year for which the property is granted an exemption under this section; or
+
+    d. The property is no longer held for the purpose for which the exemption was granted.
+
+3. The exemption under this section does not expire as a consequence of the real property being transferred by one nonprofit entity to another nonprofit entity or to a qualified cooperative association so long as the transferee timely applies to the department and is approved for a continuation of the exemption.
+
+4. If the nonprofit entity believes that title to the single-family dwelling unit, or title of the real property exempt under subsection (1)(b) of this section, will not be transferred by the end of the sixth consecutive property tax year or if a qualified cooperative association believes that neither a single-family dwelling unit nor any other part of the property will be transferred by the end of the sixth consecutive property tax year, the nonprofit entity or qualified cooperative association may claim a three-year extension of the exemption period by:
+
+    a. Filing a notice of extension with the department on or before March 31st of the sixth consecutive property tax year; and
+
+    b. Providing a filing fee equal to the greater of $200 or 0.1 percent of the real market value of the property as of the most recent assessment date with the notice of extension. The filing fee must be deposited into the state general fund.
+
+5. [Empty]
+
+    a. If the nonprofit entity has not transferred title to the single-family dwelling unit to a low-income household or title to the real property exempt under subsection (1)(b) of this section to a low-income household, or if a qualified cooperative association has not transferred either a single-family dwelling unit or any other property, within the applicable period described in subsection (2)(c) of this section, or if the nonprofit entity or qualified cooperative association has converted the property to a purpose other than the purpose for which the exemption was granted, the property is disqualified from the exemption.
+
+    b. Upon disqualification, the county treasurer must collect an additional tax equal to all taxes that would have been paid on the property but for the existence of the exemption, plus interest at the same rate and computed in the same way as that upon delinquent property taxes.
+
+    c. The additional tax must be distributed by the county treasurer in the same manner in which current property taxes applicable to the subject property are distributed. The additional taxes and interest are due in full 30 days following the date on which the treasurer's statement of additional tax due is issued.
+
+    d. The additional tax and interest is a lien on the property. The lien for additional tax and interest has priority to and must be fully paid and satisfied before any recognizance, mortgage, judgment, debt, obligation, or responsibility to or with which the property may become charged or liable. If a nonprofit entity or qualified cooperative association sells or transfers real property subject to a lien for additional taxes under this subsection, such unpaid additional taxes must be paid by the nonprofit entity or qualified cooperative association at the time of sale or transfer. The county auditor may not accept an instrument of conveyance unless the additional tax has been paid. The nonprofit entity, qualified cooperative association, or the new owner may appeal the assessed values upon which the additional tax is based to the county board of equalization in accordance with the provisions of RCW 84.40.038.
+
+6. [Empty]
+
+    a. Nonprofit entities receiving an exemption under subsection (1)(a) of this section must immediately notify the department when the exempt real property becomes occupied. The notice of occupancy made to the department must include a certification by the nonprofit entity that the occupants are a low-income household and a date when the title to the single-family dwelling unit was or is anticipated to be transferred.
+
+    b. Qualified cooperative associations receiving an exemption under this section must immediately notify the department when any portion of the exempt real property becomes occupied as well as when all of the exempt real property becomes occupied. The notice provided when all the exempt real property becomes occupied must be filed within one year of all exempt real property becoming occupied and demonstrate that the qualified cooperative association does, in fact, meet the requirements for being a qualified cooperative association.
+
+    c. Nonprofit entities receiving an exemption under subsection (1)(b) of this section must immediately notify the department when the exempt real property is sold to the low-income household. The notice must include a date when the title to the real property was or is anticipated to be transferred and a certification by the nonprofit entity that the purchaser is a low-income household.
+
+    d. The department of revenue must make the notices of occupancy and real property transfers under (c) of this subsection available to the joint legislative audit and review committee, upon request by the committee, in order for the committee to complete its review of the tax preference in this section.
+
+7. Upon cessation of the exemption, the value of new construction and improvements to the property, not previously considered as new construction, must be considered as new construction for purposes of calculating levies under chapter 84.55 RCW. The assessed value of the property as it was valued prior to the beginning of the exemption may not be considered as new construction upon cessation of the exemption.
+
+8. Nonprofit entities and qualified cooperative associations receiving an exemption under this section must provide annual financial statements to the joint legislative audit and review committee, upon request by the committee, for the years that the exemption has been claimed. The nonprofit entity or qualified cooperative associations must identify the line or lines on the financial statements that comprise the percentage of revenues dedicated to the development of affordable housing.
+
+9. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Financial statements" means an audited annual financial statement and a completed United States treasury internal revenue service return form 990 for organizations exempt from income tax.
+
+    b. "Low-income household" means a single person, family, or unrelated persons living together whose adjusted income is less than 80 percent of the median family income, adjusted for family size as most recently determined by the federal department of housing and urban development for the county in which the property is located.
+
+    c. "Nonprofit entity" means a nonprofit as defined in RCW 84.36.800 that is exempt from federal income taxation under 26 U.S.C. Sec. 501(c)(3) of the federal internal revenue code of 1986, as amended.
+
+    d. "Qualified cooperative association" means a cooperative association formed under chapter 23.86 or 24.06 RCW that owns the real property for which an exemption is sought under this section and following the completion of the development or redevelopment of such real property:
+
+        i. 60 percent or more of the residences are owned by low-income households; and
+
+        ii. 80 percent or more of the square footage of any improvements to the real property are exclusively used or available for use by the owners of the residences.
+
+    e. "Qualified mutual self-help housing program" is a program dedicated to supporting the building of residences for low-income households in Washington through a mutual self-help construction method by which multiple low-income households use their own labor to reduce total construction costs of their residences. The program must also be:
+
+        i. Operated by a nonprofit entity; and
+
+        ii. Receiving financial support from the United States department of agriculture's mutual self-help housing technical assistance grant program or its successor program.
+
+    f. "Residence" means:
+
+        i. A single-family dwelling unit whether such unit be separate or part of a multiunit dwelling; and
+
+        ii. The land on which a dwelling unit described in (f)(i) of this subsection (9) stands, whether to be sold, or to be leased for life or 99 years, to the low-income household owning such dwelling unit.
+
+10. The department may not accept applications for the initial exemption in this section after December 31, 2027. The exemption in this section may not be approved for and does not apply to taxes due in 2038 and thereafter.
+
+11. This section expires January 1, 2038.
+
+## Section 2
+(1) This section is the tax preference performance statement for the tax preference contained in chapter . . ., Laws of 2024 (this act), chapter 361, Laws of 2019, chapter 103, Laws of 2018, and chapter 217, Laws of 2016. This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.
+
+## Section 3
+This act applies to taxes levied for collection in 2025 and thereafter.

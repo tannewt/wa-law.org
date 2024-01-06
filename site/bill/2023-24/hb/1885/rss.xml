@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1885/</link>
 		<description>Updates about HB 1885</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 04 Jan 2024 07:03:42 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 05 Jan 2024 23:45:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -38,6 +38,37 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Cindy/Madigan/2024-01-04 07:03:42</guid>
+		</item>
+		<item>
+			<title>👍💵Jazmine Smith - The Washington Bus</title>
+			<description>Jazmine Smith signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/the_washington_bus/&quot;&gt;The Washington Bus&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Fri, 05 Jan 2024 09:43:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jazmine/Smith/2024-01-05 09:43:32</guid>
+		</item>
+		<item>
+			<title>❓Sean Flynn - Public Disclosure Commission</title>
+			<description>Sean Flynn signed up to testify Other. They are signed up to represent Public Disclosure Commission.</description>
+			<pubDate>Fri, 05 Jan 2024 09:58:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Sean/Flynn/2024-01-05 09:58:22</guid>
+		</item>
+		<item>
+			<title>👍Andrew Villeneuve - Northwest Progressive Institute</title>
+			<description>Andrew Villeneuve signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/northwest_progressive_institute/&quot;&gt;Northwest Progressive Institute&lt;/a&gt;.</description>
+			<pubDate>Fri, 05 Jan 2024 11:44:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Andrew/Villeneuve/2024-01-05 11:44:13</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans</title>
+			<description>News article &quot;The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Fri, 05 Jan 2024 23:45:04 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%201885</guid>
 		</item>
 	</channel>
 </rss>

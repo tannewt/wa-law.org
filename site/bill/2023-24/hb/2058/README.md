@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%202058)
+
 ## Meetings
 ### Thu 01/11 08:00 AM - Education (ED): HB 2058 Free school meals
 Sign up to testify:
@@ -14,8 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31561&aId=156032&caId=22826&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31561&aId=156032&caId=22826&tId=4)
 
-#### 3 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* melissa spiker - Seattle Special Education PTSA
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Liv Finne - Washington Policy Center

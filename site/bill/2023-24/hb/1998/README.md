@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/05/2024 [Sightline Institute](/org/sightline_institute/) - [Washington Bill Would Legalize Low-cost “Co-living” Homes - Sightline Institute](https://www.sightline.org/2024/01/05/washington-bill-would-legalize-low-cost-co-living-homes/#:~:text=HB%201998)
 * 01/02/2024 [The Urbanist](/org/the_urbanist/) - [State Legislators Push for ‘Year of Housing 2.0’ - The Urbanist](https://www.theurbanist.org/2024/01/02/get-ready-for-the-year-of-housing-2-0/#:~:text=HB%201998)
 
 ## Meetings
@@ -17,16 +18,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31583&aId=156160&caId=22853&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31583&aId=156160&caId=22853&tId=4)
 
-#### 16 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * 💵Ben Stuckart - [Spokane Low Income Housing Consortium](/org/spokane_low_income_housing_consortium/)
 * Cynthia Stewart
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 * Angela Rozmyn - Natural and Built Environments
 * David Neiman - Neiman Taber Architects PLLC
+* Benjamin Maritz - Great Expectations LLC
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Tayten Moore

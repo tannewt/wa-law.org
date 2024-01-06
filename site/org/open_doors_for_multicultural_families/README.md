@@ -19,3 +19,9 @@
 * 👍 Ginger Kwan
 * 👍 Ginger Kwan
 * 👍 Ginger Kwan
+
+## [HB 2080](/bill/2023-24/hb/2080/) - Day habilitation services 👍2  
+* 👍 Moses Perez
+
+## [HB 2184](/bill/2023-24/hb/2184/) - DD parental caregivers 👍2  
+* 👍 Moses Perez

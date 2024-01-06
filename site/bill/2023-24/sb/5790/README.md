@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31531&aId=155955&caId=22773&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31531&aId=155955&caId=22773&tId=4)
 
-#### 6 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Barbara Jensen - EvergreenHealth
 * Quinton Hatch - Washington State Committee on Trauma
@@ -22,6 +22,8 @@ Testifying:
 * Tiffany Crabb
 * Rian Alam
 * Maria R Paulsen
+* Bryce Robinson - Washington Chapter of the American College of Surgeons Committee on Trauma
+* Anna Leslie
 
 #### 0 👎 - Con
 

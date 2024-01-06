@@ -11,7 +11,13 @@
 ## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍3  ❓1
 * ❓ Adam Maxwell
 
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍1  
+
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍2  
+
+## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes. 👍1  
+
+## [HB 2144](/bill/2023-24/hb/2144/) - Providing for a deposit return program for qualifying beverage containers to be implemented by a distributor responsibility organization. 👍1  
 
 ## [SB 5093](/bill/2023-24/sb/5093/) - Climate response strategy 👍1  
 
@@ -26,3 +32,7 @@
 * ❓ Adam Maxwell
 
 ## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands. 👍2  
+
+## [SB 5921](/bill/2023-24/sb/5921/) - Concerning tribal representation on the state conservation commission. 👍1  
+
+## [SB 5934](/bill/2023-24/sb/5934/) - Pollinator habitat 👍1  

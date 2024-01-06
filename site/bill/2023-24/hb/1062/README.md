@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%201062)
+
 ## Meetings
 ### Mon 01/08 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1062 Law enf. officers/deception
 Sign up to testify:
@@ -14,8 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31578&aId=156139&caId=22807&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31578&aId=156139&caId=22807&tId=4)
 
-#### 3 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Ella Ansari - Lake Washington High School
+* Kaitlyn Hentges - Lake Washington High School
+* Kaitlyn Hentges - Lake Washington High School
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 0 ❓ - Other

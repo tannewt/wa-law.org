@@ -8,7 +8,7 @@
 
 ## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 
-## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍3  
 * 👍💵 Katrina Johnson
 
 ## [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act 👍1  

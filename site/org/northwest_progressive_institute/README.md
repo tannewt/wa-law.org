@@ -4,7 +4,7 @@
 
 ## [HB 1035](/bill/2023-24/hb/1035/) - Health care restrictions 👍1  
 
-## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 
 ## [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act 👍1  
 
@@ -87,6 +87,12 @@
 
 ## [HB 1795](/bill/2023-24/hb/1795/) - Estate tax 👍1  
 
+## [HB 1885](/bill/2023-24/hb/1885/) - Strengthening campaign finance disclosure by prohibiting campaign contributions and expenditures by foreign-influenced corporations. 👍1  
+* 👍 Andrew Villeneuve
+
+## [HB 1932](/bill/2023-24/hb/1932/) - Shifting general elections for local governments to even-numbered years to increase voter participation. 👍1  
+* 👍 Andrew Villeneuve
+
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act 👍1  
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍4  
@@ -158,3 +164,15 @@
 
 ## [SB 5723](/bill/2023-24/sb/5723/) - Even-numbered year elections 👍2  
 * 👍 Kathy Sakahara
+
+## [SB 5837](/bill/2023-24/sb/5837/) - Codifying the state election database to publish, evaluate, and analyze certain election data. 👍1  
+* 👍 Andrew Villeneuve
+
+## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍1  
+* 👍 Andrew Villeneuve
+
+## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  
+* 👍 Andrew Villeneuve
+
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
+* 👍 Andrew Villeneuve

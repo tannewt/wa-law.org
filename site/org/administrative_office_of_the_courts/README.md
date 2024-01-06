@@ -26,6 +26,15 @@
 ## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief   ❓1
 * ❓💵 Sharon Swanson
 
+## [HB 2006](/bill/2023-24/hb/2006/) - Concerning court interpreters. 👍1  
+* 👍 Brittany Gregory
+
+## [HB 2034](/bill/2023-24/hb/2034/) - Requiring counties and cities to provide the administrative office of the courts with notice of court reorganizations. 👍1  
+* 👍 Brittany Gregory
+
+## [HB 2056](/bill/2023-24/hb/2056/) - Concerning information sharing and limited investigative authority of supreme court bailiffs. 👍1  
+* 👍 Brittany Gregory
+
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍3  
 * 👍 Brittany Gregory
 * 👍 Christopher Stanley
@@ -63,6 +72,17 @@
 ## [SB 5474](/bill/2023-24/sb/5474/) - Juvenile justice   ❓1
 * ❓ Brittany Gregory
 
+## [SB 5827](/bill/2023-24/sb/5827/) - Superior court/Whatcom 👍2  
+* 👍 Dawn Marie Rubio
+* 👍 Shannon Hinchcliffe
+
+## [SB 5836](/bill/2023-24/sb/5836/) - Adding an additional superior court judge in Clark county. 👍1  
+* 👍 Dawn Marie Rubio
+
 ## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍2  
+* 👍 Brittany Gregory
+* 👍 Christopher Stanley
+
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍2  
 * 👍 Brittany Gregory
 * 👍 Christopher Stanley

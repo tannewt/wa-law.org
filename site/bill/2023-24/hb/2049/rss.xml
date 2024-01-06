@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2049/</link>
 		<description>Updates about HB 2049</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 05 Jan 2024 06:34:26 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 05 Jan 2024 23:45:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -56,12 +56,27 @@
 			<guid isPermaLink="false">testifier/Carl/Schroeder/2024-01-04 05:53:35</guid>
 		</item>
 		<item>
+			<title>❓💵Mark Johnson - Washington Retail Association</title>
+			<description>Mark Johnson signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_retail_association/&quot;&gt;Washington Retail Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Fri, 05 Jan 2024 03:17:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Mark/Johnson/2024-01-05 03:17:27</guid>
+		</item>
+		<item>
 			<title>❓💵Andrew Hackman - Serlin Haley LLP</title>
 			<description>Andrew Hackman signed up to testify Other. They are signed up to represent Serlin Haley LLP. They are a registered lobbyist.</description>
 			<pubDate>Fri, 05 Jan 2024 06:34:26 GMT</pubDate>
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Andrew/Hackman/2024-01-05 06:34:26</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans</title>
+			<description>News article &quot;The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Fri, 05 Jan 2024 23:45:04 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%202049</guid>
 		</item>
 	</channel>
 </rss>

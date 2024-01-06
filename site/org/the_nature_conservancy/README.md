@@ -52,6 +52,8 @@
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍2  
 
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍1  
+
 ## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍3  
 
 ## [HB 1427](/bill/2023-24/hb/1427/) - On-premises energy gen. 👍1  
@@ -78,6 +80,8 @@
 
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1  
 * 👍💵 Justin Allegro
+
+## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes. 👍1  
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍2  
 

@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 01/05/2024 [The Center Square](/org/the_center_square/) - [Lawmakers discuss sobriety checkpoints, highway cameras to combat traffic deaths | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_adb85f18-ac17-11ee-9cd5-9b365ea1d3ec.html#:~:text=Senate%20Bill%205272)
 * 04/27/2023 [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205272)
 * 04/27/2023 [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205272)
 * 04/06/2023 [The Seattle Times](/org/the_seattle_times/) - [Speed cameras will soon be allowed in WA highway work zones | The Seattle Times](https://www.seattletimes.com/seattle-news/transportation/speed-cameras-will-soon-be-allowed-in-wa-highway-work-zones/#:~:text=Senate%20Bill%205272)

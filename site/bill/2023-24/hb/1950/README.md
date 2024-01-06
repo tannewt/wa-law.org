@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31569&aId=156079&caId=22885&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31569&aId=156079&caId=22885&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Amy Wear - Employment Security Department
+* Jessica Manfredi - Washington Student Achievement Council
+* Kaity Cazares - Office of Financial Management
 
 #### 0 👎 - Con
 

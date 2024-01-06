@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%202089)
+
 ## Meetings
 ### Thu 01/11 01:30 PM - Capital Budget (CB): HB 2089 Capital budget, supplemental
 Sign up to testify:
@@ -28,9 +31,10 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * Mellissa Stone - Washington State PTA
 * Nancy Chamberlain - Washington State PTA
 * Kathryn Gardow - Chair, Public Works Board
+* Tsega Desta - Ethiopian Community in Seattle

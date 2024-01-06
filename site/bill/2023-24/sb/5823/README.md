@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31530&aId=155952&caId=22747&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31530&aId=155952&caId=22747&tId=4)
 
-#### 5 👍 - Pro
+#### 15 👍 - Pro
+Testifying:
+* Paul Marquardt - Bethel Schools
+* Tyler Muench - Office of Superintendent of Public Instruction
 
 #### 0 👎 - Con
 

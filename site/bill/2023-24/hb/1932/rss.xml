@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1932/</link>
 		<description>Updates about HB 1932</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 04 Jan 2024 03:27:02 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 05 Jan 2024 23:45:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -38,6 +38,29 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Zoltan/Hajnal/2024-01-04 03:27:02</guid>
+		</item>
+		<item>
+			<title>👍Andrew Villeneuve - Northwest Progressive Institute</title>
+			<description>Andrew Villeneuve signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/northwest_progressive_institute/&quot;&gt;Northwest Progressive Institute&lt;/a&gt;.</description>
+			<pubDate>Fri, 05 Jan 2024 11:42:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Andrew/Villeneuve/2024-01-05 11:42:53</guid>
+		</item>
+		<item>
+			<title>👎💵Lindsey Hueer - Association of Washington Cities</title>
+			<description>Lindsey Hueer signed up to testify Con. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/association_of_washington_cities/&quot;&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Fri, 05 Jan 2024 12:35:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Lindsey/Hueer/2024-01-05 12:35:43</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans</title>
+			<description>News article &quot;The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Fri, 05 Jan 2024 23:45:04 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%201932</guid>
 		</item>
 	</channel>
 </rss>

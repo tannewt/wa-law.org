@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%202104)
+
 ## Meetings
 ### Wed 01/10 04:00 PM - Appropriations (APP): HB 2104 Operating budget, supp.
 Sign up to testify:
@@ -26,13 +29,14 @@ Testifying:
 * 💵Aaron Dickson - [Community Employment Alliance](/org/community_employment_alliance/)
 * Alex Motteler
 
-#### 6 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Linzi Michel - Central Columbia Senior Living
 * Ruth Gollen - Orchard Park Retirement
 * Demas Nesterenko - SEIU775
 * Tammi Elswick - Heritage House Morton
 * Michelle Dube - Beehive Retirement Center
+* Carolyn Driscoll - The Sequoia Assisted Living Community
 
 ### Mon 01/08 04:00 PM - Appropriations (APP): HB 2104 Operating budget, supp.
 Sign up to testify:
@@ -41,7 +45,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31522&aId=156225&caId=22796&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31522&aId=156225&caId=22796&tId=4)
 
-#### 16 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
 * Marissa Rathbone - Washington State School Directors' Association
@@ -58,7 +62,12 @@ Testifying:
 * Wesley Jessup - Northwest Museum of Arts & Culture (EWSHS- Eastern Washington State Historical Society)
 * Diane Bergt
 * Jim Theofelis - NorthStar Advocates
+* Larry Jefferson - Director, Washington State Office of Public Defense
+* 💵Kenny Pittman - Communities of Concern Commission
+* Sandy Kaiser - The Evergreen State College
 * 💵Mike Hoover - Washington State School Directors' Association (WSSDA)
+* 💵John Seng - [Spark Northwest](/org/spark_northwest/)
+* Stephanie Winner - State Board for Community and Technical Colleges
 
 #### 6 👎 - Con
 Testifying:
@@ -69,7 +78,7 @@ Testifying:
 * Alex Motteler
 * Kate Mallahan
 
-#### 31 ❓ - Other
+#### 40 ❓ - Other
 Testifying:
 * 💵Jill May - Washington Association for Children and Families
 * Zack Wester
@@ -101,3 +110,12 @@ Testifying:
 * 💵Nora Selander - Western Washington University
 * Kimberly Nyland - Catholic Community Services
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* Jerry VanderWood - AGC and WA Construction Industry Council
+* 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
+* 💵Leslie Emerick - Home Care Association of Washington (HCAW)
+* Anthony Ives - Kitsap Community Resources
+* Elizabeth Jennings - Community Action of Skagit County
+* Jeff Guyett - Community Action Council of Whitman County
+* Nathan Daniel
+* 💵Kristin Wiggins - Perigee Fund / P5RHS
+* Cate Bridenstein - Imagine Institute
