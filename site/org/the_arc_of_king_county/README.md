@@ -101,8 +101,15 @@
 
 ## [HB 1945](/bill/2023-24/hb/1945/) - Streamlining and enhancing program access for persons eligible for food assistance. 👍1  
 
+## [HB 1969](/bill/2023-24/hb/1969/) - Individual providers/family 👍1  
+
+## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍1  
+
 ## [HB 2080](/bill/2023-24/hb/2080/) - Day habilitation services 👍1  
 * 👍💵 Ramona Hattendorf
+
+## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental   ❓1
+* ❓💵 Ramona Hattendorf
 
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
 * ❓💵 Ramona Hattendorf
@@ -117,6 +124,8 @@
 
 ## [SB 5099](/bill/2023-24/sb/5099/) - Estate tax/extraordinary rev 👍1  
 * 👍💵 Ramona Hattendorf
+
+## [SB 5118](/bill/2023-24/sb/5118/) - Multifamily property tax ex.   ❓1
 
 ## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍1  
 
@@ -183,7 +192,18 @@
 
 ## [SB 5734](/bill/2023-24/sb/5734/) - ABLE accounts 👍1  
 
+## [SB 5853](/bill/2023-24/sb/5853/) - Extending the crisis relief center model to provide behavioral health crisis services for minors. 👍1  
+
 ## [SB 5864](/bill/2023-24/sb/5864/) - Establishing a point of contact for any person diagnosed with a rare disease. 👍1  
+
+## [SB 5873](/bill/2023-24/sb/5873/) - Student transportation 👍1  
+
+## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍1  
+
+## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental   ❓1
+* ❓💵 Ramona Hattendorf
 
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍2 👎1 
 * 👍💵 Ramona Hattendorf
+
+## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍1  

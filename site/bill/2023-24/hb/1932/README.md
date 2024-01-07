@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31508&aId=156093&caId=22893&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31508&aId=156093&caId=22893&tId=4)
 
-#### 31 👍 - Pro
+#### 43 👍 - Pro
 Testifying:
 * Alan Durning - [Sightline Institute](/org/sightline_institute/)
 * Zoltan Hajnal - Yankelovich Center for Research, UCSD

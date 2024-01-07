@@ -17,7 +17,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31593&aId=156205&caId=22821&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31593&aId=156205&caId=22821&tId=4)
 
-#### 4 👍 - Pro
+#### 51 👍 - Pro
+Testifying:
+* Mitch Kramer - FiXCO Phone & Computer Repair
 
 #### 0 👎 - Con
 

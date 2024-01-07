@@ -23,7 +23,7 @@ Testifying:
 Testifying:
 * Mary Paterson
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * 💵Michael White - [King County](/org/king_county/)
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)

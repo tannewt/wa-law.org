@@ -21,6 +21,9 @@
 * ❓ Deeann Puffert
 * ❓💵 Emily Murphy
 
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
+* ❓💵 Emily Murphy
+
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  ❓2
 * 👍💵 Emily Murphy
 * ❓💵 Emily Murphy
@@ -39,3 +42,6 @@
 ## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍2  
 
 ## [SB 5485](/bill/2023-24/sb/5485/) - Public employees/child care 👍1  
+
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
+* ❓💵 Emily Murphy

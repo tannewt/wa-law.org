@@ -60,9 +60,12 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* Maya Hemachandra - United Way of Snohomish County
+* Nora Briggs - Dollywood Foundation
 
 ### Thu 01/11 04:00 PM - Ways & Means (WM): SB 5949: K-12 public schools. (Remote Testimony Available).
 Sign up to testify:
@@ -78,7 +81,10 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Melissa Stone - Washington State PTA
+* Nancy Chamberlain - Washington State PTA
 
 ### Thu 01/11 04:00 PM - Ways & Means (WM): SB 5949: Natural resources.  (Remote Testimony Available).
 Sign up to testify:

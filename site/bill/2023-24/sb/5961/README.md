@@ -14,9 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31515&aId=156251&caId=22791&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31515&aId=156251&caId=22791&tId=4)
 
-#### 211 👍 - Pro
+#### 317 👍 - Pro
 
-#### 20 👎 - Con
+#### 23 👎 - Con
 Testifying:
 * Beau Harer - [Detente Management](/org/detente_management/)
 * 💵Mike Hoover - [Detente Management](/org/detente_management/)

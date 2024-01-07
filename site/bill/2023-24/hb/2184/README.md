@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31598&aId=156285&caId=22925&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31598&aId=156285&caId=22925&tId=4)
 
-#### 9 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * Adana Protonentis - Kindred Leaders
 * 💵Adrienne Stuart
 * Moses Perez - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
+* Deborah Ritter
+* Jill Brown
+* Kayla Scott
 
 #### 0 👎 - Con
 

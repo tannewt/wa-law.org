@@ -34,13 +34,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31561&aId=156030&caId=22824&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31561&aId=156030&caId=22824&tId=4)
 
-#### 20 👍 - Pro
+#### 49 👍 - Pro
 Testifying:
 * Richard Pope - Parent of Isolation Survivor
 * Oliver Miska - WAESN
 * Samantha Fogg - Seattle Council PTSA Immediate Past President
+* 💵Ramona Hattendorf
+* melissa spiker - Seattle Special Education PTSA
+* Michelle Harris - N/A
 
-#### 16 👎 - Con
+#### 18 👎 - Con
 
 #### 0 ❓ - Other
 

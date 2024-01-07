@@ -39,6 +39,8 @@
 
 ## [HB 1804](/bill/2023-24/hb/1804/) - PEBB/subdivision retirees 👍1  
 
+## [HB 1893](/bill/2023-24/hb/1893/) - Unemp ins/strikes & lockouts 👍1  
+
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
 * ❓ Kati Durkin
 
@@ -65,6 +67,8 @@
 ## [SB 5650](/bill/2023-24/sb/5650/) - K-12 inflationary increases 👍1  
 
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  
+
+## [SB 5777](/bill/2023-24/sb/5777/) - Unemp ins/strikes & lockouts 👍1  
 
 ## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp.   ❓1
 * ❓ Kati Durkin

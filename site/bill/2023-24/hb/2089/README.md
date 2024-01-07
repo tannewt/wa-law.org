@@ -31,10 +31,11 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 5 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * Mellissa Stone - Washington State PTA
 * Nancy Chamberlain - Washington State PTA
 * Kathryn Gardow - Chair, Public Works Board
 * Tsega Desta - Ethiopian Community in Seattle
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)

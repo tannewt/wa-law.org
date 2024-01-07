@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31571&aId=156272&caId=22923&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31571&aId=156272&caId=22923&tId=4)
 
-#### 8 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Sandy Kaiser - The Evergreen State College
 * Noreen Light - Information For A Change
+* Dirk van Velzen - Prison Scholar Fund
 
 #### 0 👎 - Con
 

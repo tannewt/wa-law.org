@@ -126,8 +126,12 @@
 
 ## [HB 1885](/bill/2023-24/hb/1885/) - Strengthening campaign finance disclosure by prohibiting campaign contributions and expenditures by foreign-influenced corporations.  👎1 
 
+## [HB 1898](/bill/2023-24/hb/1898/) - Concerning unemployment insurance benefit charging. 👍1  
+
 ## [HB 1900](/bill/2023-24/hb/1900/) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system.   ❓1
 * ❓💵 Mark Johnson
+
+## [HB 1901](/bill/2023-24/hb/1901/) - Removing the sunset on changes to the unemployment insurance voluntary contribution program. 👍1  
 
 ## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes.   ❓1
 * ❓💵 Mark Johnson
@@ -256,7 +260,9 @@
 
 ## [SB 5788](/bill/2023-24/sb/5788/) - Service animal training 👍1  
 
-## [SB 5835](/bill/2023-24/sb/5835/) - Concerning transparency in rule making. 👍1  
+## [SB 5817](/bill/2023-24/sb/5817/) - Economic development info. 👍1  
+
+## [SB 5835](/bill/2023-24/sb/5835/) - Concerning transparency in rule making. 👍2  
 * 👍💵 Mark Johnson
 
 ## [SB 5838](/bill/2023-24/sb/5838/) - Establishing an artificial intelligence task force.   ❓1
@@ -264,3 +270,6 @@
 
 ## [SB 5853](/bill/2023-24/sb/5853/) - Extending the crisis relief center model to provide behavioral health crisis services for minors. 👍1  
 * 👍💵 Mark Johnson
+
+## [SB 5965](/bill/2023-24/sb/5965/) - Fashion/environmental impact  👎1 
+* 👎💵 Mark Johnson

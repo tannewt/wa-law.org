@@ -17,7 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31579&aId=156143&caId=22811&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31579&aId=156143&caId=22811&tId=4)
 
-#### 80 👍 - Pro
+#### 133 👍 - Pro
+Testifying:
+* Dory Crabbe
+* Candice Baughman
+* Melody Simle
 
 #### 0 👎 - Con
 

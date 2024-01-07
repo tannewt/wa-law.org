@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31566&aId=156059&caId=22833&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31566&aId=156059&caId=22833&tId=4)
 
-#### 167 👍 - Pro
+#### 283 👍 - Pro
 Testifying:
 * Ann Murphy - League of Women Voters of Washington
 * Marlene Feist - [City of Spokane](/org/city_of_spokane/)

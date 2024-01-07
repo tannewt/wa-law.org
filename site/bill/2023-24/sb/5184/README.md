@@ -17,12 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31541&aId=155983&caId=22783&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31541&aId=155983&caId=22783&tId=4)
 
-#### 144 👍 - Pro
+#### 239 👍 - Pro
 Testifying:
 * Patrick Hession - CAA
 * Truc-Anh Tran - CAA
 
-#### 13 👎 - Con
+#### 250 👎 - Con
+Testifying:
+* Lisa Egenes
+* Darin Egenes
+* Lisa Egenes
 
 #### 2 ❓ - Other
 Testifying:

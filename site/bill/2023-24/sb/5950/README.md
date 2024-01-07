@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156241&caId=22742&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156241&caId=22742&tId=4)
 
-#### 6 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Wesley Jessup - Northwest Museum of Arts & Culture (EWSHS- Eastern Washington State Historical Society)
 * Larry Jefferson - Director, Washington State Office of Public Defense
@@ -22,6 +22,7 @@ Testifying:
 * 💵John Seng - [Spark Northwest](/org/spark_northwest/)
 * Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Sara Robbins - Office of Civil Legal Aid
 
 #### 0 👎 - Con
 
@@ -40,11 +41,14 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 3 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * 💵Melissa Johnson - Washington State Association of Head Start & ECEAP
 * Pauli Owen
 * 💵Kristin Wiggins - Perigee Fund / P5RHS
+* 💵Emily Murphy - [Child Care Aware of Washington](/org/child_care_aware_of_washington/)
+* Maya Hemachandra - United Way of Snohomish County
+* Nora Briggs - Dollywood Foundation
 
 ### Tue 01/09 04:00 PM - Ways & Means (WM): SB 5950: Employee compensation. (Remote Testimony Available).
 Sign up to testify:
@@ -101,7 +105,7 @@ Testifying:
 * Nikki Wegner
 * Blake Duarte
 
-#### 23 ❓ - Other
+#### 25 ❓ - Other
 Testifying:
 * Zack Wester
 * Nikki Storms
@@ -126,6 +130,8 @@ Testifying:
 * Nathan Daniel
 * Teri Bryant
 * Carolyn Driscoll - The Sequoia Assisted Living Community
+* Galina Volchkova - Volunteers of America Western Washington
+* Stacy Kellogg - People for People
 
 ### Tue 01/09 04:00 PM - Ways & Means (WM): SB 5950: K-12 public schools.  (Remote Testimony Available).
 Sign up to testify:

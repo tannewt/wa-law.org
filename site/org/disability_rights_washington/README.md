@@ -46,6 +46,8 @@
 
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍1  
 
+## [HB 2027](/bill/2023-24/hb/2027/) - Concerning certification, background checks, and training requirements for sheriffs, police chiefs, marshals, reserve officers, and volunteers. 👍1  
+
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍4  
 * 👍💵 Rachael Seevers
 

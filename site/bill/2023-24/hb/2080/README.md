@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31598&aId=156220&caId=22862&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31598&aId=156220&caId=22862&tId=4)
 
-#### 19 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * Jennifer ‘Jaye’ Panico
 * Jodi Richey - Bridge of Promise
@@ -30,6 +30,6 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Lance Morehouse - [Sherwood Community Services](/org/sherwood_community_services/)

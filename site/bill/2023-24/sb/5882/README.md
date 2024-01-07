@@ -14,14 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31530&aId=155951&caId=22746&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31530&aId=155951&caId=22746&tId=4)
 
-#### 22 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Tyler Muench - Office of Superintendent of Public Instruction
+* Charlie Brown - South Sound School Districts
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Andy Cilley
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Oliver Miska - WAESN
 * Liv Finne - Washington Policy Center
+* Joy Gjersvold - Conservative Ladies of Washington
+* Katherine George - Johnston George LLP

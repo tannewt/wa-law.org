@@ -18,9 +18,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31542&aId=155994&caId=22714&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31542&aId=155994&caId=22714&tId=4)
 
-#### 7 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * David Neiman - Neiman Taber Architects PLLC
+* 💵Ben Stuckart - [Spokane Low Income Housing Consortium](/org/spokane_low_income_housing_consortium/)
+* Benjamin Maritz - Great Expectations LLC
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
+* Cynthia Stewart - League of Women Voters of WA
 
 #### 0 👎 - Con
 

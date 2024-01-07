@@ -21,3 +21,6 @@
 * 👍💵 Ben Stuckart
 
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures 👍1  
+
+## [SB 5901](/bill/2023-24/sb/5901/) - Concerning co-living housing. 👍1  
+* 👍💵 Ben Stuckart

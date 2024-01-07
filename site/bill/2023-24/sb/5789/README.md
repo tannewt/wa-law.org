@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31530&aId=155954&caId=22749&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31530&aId=155954&caId=22749&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Oliver Miska
 * Tyler Muench - Office of Superintendent of Public Instruction
+* Charlie Brown - South Sound School Districts
 
 #### 0 👎 - Con
 

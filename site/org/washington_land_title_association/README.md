@@ -9,3 +9,6 @@
 ## [SB 5399](/bill/2023-24/sb/5399/) - Future listing contracts 👍2  
 * 👍 Dwight Bickel
 * 👍 Sean Holland
+
+## [SB 5840](/bill/2023-24/sb/5840/) - Concerning leases. 👍1  
+* 👍 Sean Holland

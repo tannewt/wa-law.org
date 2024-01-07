@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31538&aId=155978&caId=22756&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31538&aId=155978&caId=22756&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Tim Osborn - WSBA Real Property Probate & Trust Section
+* Sean Holland - [Washington Land Title Association](/org/washington_land_title_association/)
 
 #### 0 👎 - Con
 

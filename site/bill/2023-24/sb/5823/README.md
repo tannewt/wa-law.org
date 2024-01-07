@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31530&aId=155952&caId=22747&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31530&aId=155952&caId=22747&tId=4)
 
-#### 15 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Paul Marquardt - Bethel Schools
 * Tyler Muench - Office of Superintendent of Public Instruction
+* Charlie Brown - South Sound School Districts
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

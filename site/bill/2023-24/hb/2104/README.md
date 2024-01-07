@@ -29,7 +29,7 @@ Testifying:
 * 💵Aaron Dickson - [Community Employment Alliance](/org/community_employment_alliance/)
 * Alex Motteler
 
-#### 7 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Linzi Michel - Central Columbia Senior Living
 * Ruth Gollen - Orchard Park Retirement
@@ -37,6 +37,7 @@ Testifying:
 * Tammi Elswick - Heritage House Morton
 * Michelle Dube - Beehive Retirement Center
 * Carolyn Driscoll - The Sequoia Assisted Living Community
+* 💵Emily Murphy - [Child Care Aware of Washington](/org/child_care_aware_of_washington/)
 
 ### Mon 01/08 04:00 PM - Appropriations (APP): HB 2104 Operating budget, supp.
 Sign up to testify:
@@ -45,7 +46,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31522&aId=156225&caId=22796&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31522&aId=156225&caId=22796&tId=4)
 
-#### 21 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
 * Marissa Rathbone - Washington State School Directors' Association
@@ -78,7 +79,7 @@ Testifying:
 * Alex Motteler
 * Kate Mallahan
 
-#### 40 ❓ - Other
+#### 44 ❓ - Other
 Testifying:
 * 💵Jill May - Washington Association for Children and Families
 * Zack Wester
@@ -119,3 +120,7 @@ Testifying:
 * Nathan Daniel
 * 💵Kristin Wiggins - Perigee Fund / P5RHS
 * Cate Bridenstein - Imagine Institute
+* Mark Tucker - Spokane County United Way
+* Nora Briggs - Dollywood Foundation
+* Kate Urwin - People for People / Washington 211
+* Michelle McDaniel - Crisis Connections

@@ -12,6 +12,9 @@
 * 👎 Connie Beauvais
 * 👎 Connie Beauvais
 
+## [HB 1906](/bill/2023-24/hb/1906/) - Changing the vessel length requirement in obtaining nonresident vessel permits. 👍1  
+* 👍 Paul Jarkiewicz
+
 ## [SB 5192](/bill/2023-24/sb/5192/) - Derelict vessel appeals 👍1  
 
 ## [SB 5254](/bill/2023-24/sb/5254/) - Leasing of state lands 👍2  

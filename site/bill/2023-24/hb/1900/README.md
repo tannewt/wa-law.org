@@ -21,7 +21,7 @@ Sign up to testify:
 Testifying:
 * Rodd Pemble - SSC, Inc.
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

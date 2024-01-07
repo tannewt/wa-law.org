@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31565&aId=156058&caId=22832&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31565&aId=156058&caId=22832&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 
-#### 28 👎 - Con
+#### 31 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * eric pratt
+* Dominga Soliz - Environmental and Land Use Hearings Office

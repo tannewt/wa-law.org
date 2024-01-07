@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31583&aId=156162&caId=22854&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31583&aId=156162&caId=22854&tId=4)
 
-#### 4 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Ben Wick - Councilmember, City of Spokane Valley
 

@@ -17,14 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31578&aId=156139&caId=22807&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31578&aId=156139&caId=22807&tId=4)
 
-#### 8 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Ella Ansari - Lake Washington High School
 * Kaitlyn Hentges - Lake Washington High School
 * Kaitlyn Hentges - Lake Washington High School
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 #### 0 ❓ - Other
