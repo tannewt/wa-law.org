@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/07/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: Welcome to the 2024 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/07/this-week-in-the-senate-week-1-welcome-to-the-2024-session/#:~:text=Senate%20Bill%205901)
 * 01/05/2024 [Sightline Institute](/org/sightline_institute/) - [Washington Bill Would Legalize Low-cost “Co-living” Homes - Sightline Institute](https://www.sightline.org/2024/01/05/washington-bill-would-legalize-low-cost-co-living-homes/#:~:text=SB%205901)
 * 01/02/2024 [The Urbanist](/org/the_urbanist/) - [State Legislators Push for ‘Year of Housing 2.0’ - The Urbanist](https://www.theurbanist.org/2024/01/02/get-ready-for-the-year-of-housing-2-0/#:~:text=SB%205901)
 
@@ -18,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31542&aId=155994&caId=22714&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31542&aId=155994&caId=22714&tId=4)
 
-#### 20 👍 - Pro
+#### 96 👍 - Pro
 Testifying:
 * David Neiman - Neiman Taber Architects PLLC
 * 💵Ben Stuckart - [Spokane Low Income Housing Consortium](/org/spokane_low_income_housing_consortium/)
@@ -26,7 +27,7 @@ Testifying:
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 * Cynthia Stewart - League of Women Voters of WA
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

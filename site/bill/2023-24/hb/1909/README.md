@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31511&aId=156046&caId=22844&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31511&aId=156046&caId=22844&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Rick Hughes - Ray's Pharmacy, Orcas Island
+* Jenny Arnold - Washington State Pharmacy Association
 
 #### 0 👎 - Con
 

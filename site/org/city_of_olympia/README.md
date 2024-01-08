@@ -35,7 +35,7 @@
 
 ## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units 👍2  
 
-## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍1  
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍2  
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
 
@@ -70,6 +70,12 @@
 ## [HB 1777](/bill/2023-24/hb/1777/) - Energy contracting 👍1  
 
 ## [HB 1817](/bill/2023-24/hb/1817/) - Housing gap voucher pilot 👍1  
+
+## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍1  
+
+## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍1  
+
+## [HB 1998](/bill/2023-24/hb/1998/) - Co-living housing 👍1  
 
 ## [SB 5001](/bill/2023-24/sb/5001/) - Public facility districts 👍3  
 * 👍 Paul Simmons
@@ -123,11 +129,13 @@
 
 ## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy 👍2  
 
-## [SB 5570](/bill/2023-24/sb/5570/) - Energy efficiency loans 👍1  
+## [SB 5570](/bill/2023-24/sb/5570/) - Energy efficiency loans 👍2  
 
 ## [SB 5636](/bill/2023-24/sb/5636/) - Forest practices in cities 👍1  
 * 👍 Mayor Pro Tem, Clark Gilman
 
 ## [SB 5741](/bill/2023-24/sb/5741/) - Housing gap voucher pilot 👍1  
+
+## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍1  
 
 ## [SJR 8201](/bill/2023-24/sjr/8201/) - Public works account 👍1  

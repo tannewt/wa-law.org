@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/08/2024 [The Seattle Times](/org/the_seattle_times/) - [From a state clam to car tab discounts, lawmakers’ agenda takes shape | The Seattle Times](https://www.seattletimes.com/seattle-news/environment/from-a-state-clam-to-car-tab-discounts-lawmakers-agenda-takes-shape/#:~:text=House%20Bill%201368)
 * 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%201368)
 * 02/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB%201368)
 * 02/13/2023 [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=HB%201368)
@@ -23,9 +24,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31524&aId=155941&caId=22799&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31524&aId=155941&caId=22799&tId=4)
 
-#### 23 👍 - Pro
+#### 39 👍 - Pro
 
-#### 114 👎 - Con
+#### 175 👎 - Con
 
 #### 0 ❓ - Other
 

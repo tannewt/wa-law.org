@@ -223,3 +223,5 @@
 ## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice   ❓2
 * ❓💵 Josie Cummings
 * ❓💵 Bill Stauffacher
+
+## [SB 5835](/bill/2023-24/sb/5835/) - Concerning transparency in rule making. 👍1  

@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31539&aId=155981&caId=22711&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31539&aId=155981&caId=22711&tId=4)
 
-#### 4 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Kate White Tudor - Rayus Radiology
 
 #### 0 👎 - Con
 

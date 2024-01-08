@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/07/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: Welcome to the 2024 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/07/this-week-in-the-senate-week-1-welcome-to-the-2024-session/#:~:text=Senate%20Bill%205804)
+
 ## Meetings
 ### Thu 01/11 01:30 PM - Early Learning & K-12 Education (EDU): SB 5804 Opioid overdose/high schools
 Sign up to testify:
@@ -14,13 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31531&aId=155956&caId=22774&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31531&aId=155956&caId=22774&tId=4)
 
-#### 6 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Rian Alam
 * Joanna Lymberis - Lake Washington High School
 * Olivia Milstein - Lake Washington High School
 * Sophia Lymberis - Lake Washington High School
 * Theodore Meek - Lake Washington High School
+* Caroline Callahan - Lake Washington High School
+* Natalie Gauthier - Lake Washington High School
 
 #### 0 👎 - Con
 

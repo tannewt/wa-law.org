@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31598&aId=156220&caId=22862&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31598&aId=156220&caId=22862&tId=4)
 
-#### 27 👍 - Pro
+#### 54 👍 - Pro
 Testifying:
 * Jennifer ‘Jaye’ Panico
 * Jodi Richey - Bridge of Promise

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31535&aId=156197&caId=22724&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31535&aId=156197&caId=22724&tId=4)
 
-#### 18 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Scott Harm - WA State Board of Architectural Registration - Board Chair
 * Jared Zurn - National Council of Architectural Registration Boards (NCARB)

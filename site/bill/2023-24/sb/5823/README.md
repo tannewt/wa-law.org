@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/07/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: Welcome to the 2024 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/07/this-week-in-the-senate-week-1-welcome-to-the-2024-session/#:~:text=Senate%20Bill%205823)
+
 ## Meetings
 ### Wed 01/10 10:30 AM - Early Learning & K-12 Education (EDU): SB 5823 School district elections
 Sign up to testify:
@@ -14,12 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31530&aId=155952&caId=22747&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31530&aId=155952&caId=22747&tId=4)
 
-#### 21 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * Paul Marquardt - Bethel Schools
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Charlie Brown - South Sound School Districts
+* Kimberly Yee - WSSSDA and Fife School Board
+* Marissa Rathbone - Washington State School Directors' Association (WSSDA)
 
-#### 1 👎 - Con
+#### 23 👎 - Con
+Testifying:
+* Julie Barrett - Conservative Ladies of Washington
 
 #### 0 ❓ - Other

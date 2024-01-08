@@ -34,7 +34,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31561&aId=156030&caId=22824&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31561&aId=156030&caId=22824&tId=4)
 
-#### 49 👍 - Pro
+#### 82 👍 - Pro
 Testifying:
 * Richard Pope - Parent of Isolation Survivor
 * Oliver Miska - WAESN

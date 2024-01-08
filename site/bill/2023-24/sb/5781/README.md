@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31538&aId=156016&caId=22757&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31538&aId=156016&caId=22757&tId=4)
 
-#### 17 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Katrin Johnson - Washington State Office of Public Defense
 
 #### 0 👎 - Con
 

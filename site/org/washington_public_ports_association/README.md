@@ -111,6 +111,8 @@
 
 ## [HB 1839](/bill/2023-24/hb/1839/) - Train length  👎1 
 
+## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍1  
+
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 * ❓ Eric ffitch
 

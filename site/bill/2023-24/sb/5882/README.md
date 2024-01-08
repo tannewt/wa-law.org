@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/07/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: Welcome to the 2024 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/07/this-week-in-the-senate-week-1-welcome-to-the-2024-session/#:~:text=SB%205882)
+
 ## Meetings
 ### Wed 01/10 10:30 AM - Early Learning & K-12 Education (EDU): SB 5882 Prototypical school staffing
 Sign up to testify:
@@ -14,11 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31530&aId=155951&caId=22746&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31530&aId=155951&caId=22746&tId=4)
 
-#### 27 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Charlie Brown - South Sound School Districts
+* Sara Betnel - Washington State School Directors' Association
 
 #### 1 👎 - Con
 Testifying:

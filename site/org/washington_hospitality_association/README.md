@@ -77,6 +77,8 @@
 
 ## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍1  
 
+## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍1  
+
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI  👎1 
 * 👎💵 Julia Gorton
 
@@ -139,3 +141,8 @@
 ## [SB 5733](/bill/2023-24/sb/5733/) - Payment card processing/tax 👍2  
 * 👍💵 Julia Gorton
 * 👍💵 Julia Gorton
+
+## [SB 5788](/bill/2023-24/sb/5788/) - Service animal training   ❓1
+* ❓💵 Samantha Louderback
+
+## [SB 5835](/bill/2023-24/sb/5835/) - Concerning transparency in rule making. 👍1  

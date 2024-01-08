@@ -17,14 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31508&aId=156094&caId=22894&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31508&aId=156094&caId=22894&tId=4)
 
-#### 401 👍 - Pro
+#### 436 👍 - Pro
 Testifying:
 * 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
 * Cindy Madigan - League of Women Voters of Washington
 * 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Tim Eyman - Concerned citizen
 
 #### 10 ❓ - Other
 Testifying:

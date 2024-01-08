@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31530&aId=156245&caId=22750&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31530&aId=156245&caId=22750&tId=4)
 
-#### 124 👍 - Pro
+#### 132 👍 - Pro
 Testifying:
 * Liv Finne - Washington Policy Center
 

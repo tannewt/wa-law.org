@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/07/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: Welcome to the 2024 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/07/this-week-in-the-senate-week-1-welcome-to-the-2024-session/#:~:text=Senate%20Bill%205950)
+
 ## Meetings
 ### Tue 01/09 04:00 PM - Ways & Means (WM): SB 5950: All other. (Remote Testimony Available).
 Sign up to testify:
@@ -41,7 +44,7 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 6 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * 💵Melissa Johnson - Washington State Association of Head Start & ECEAP
 * Pauli Owen
@@ -49,6 +52,7 @@ Testifying:
 * 💵Emily Murphy - [Child Care Aware of Washington](/org/child_care_aware_of_washington/)
 * Maya Hemachandra - United Way of Snohomish County
 * Nora Briggs - Dollywood Foundation
+* 💵Logan Endres - BrightSpark Early Learning
 
 ### Tue 01/09 04:00 PM - Ways & Means (WM): SB 5950: Employee compensation. (Remote Testimony Available).
 Sign up to testify:
@@ -140,17 +144,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156234&caId=22735&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156234&caId=22735&tId=4)
 
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * 💵Melissa Gombosky - AESD
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
 * Tyler Muench - Office of Superintendent of Public Instruction
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* Marissa Rathbone - Washington State School Directors' Association
 
 #### 0 👎 - Con
 
-#### 6 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Angela Steck - President, Washington State PTA
 * Nancy Chamberlain - Washington State PTA
@@ -158,6 +163,8 @@ Testifying:
 * 💵Alan Burke - WSSRA
 * Vicki Wolvert - Union High School/Evergreen School District
 * 💵Kia Franklin - Stand for Children WA
+* Samantha Fogg - Seattle Council PTSA Immediate Past President
+* 💵Mitch Denning - Alliance of Educational Associations
 
 ### Tue 01/09 04:00 PM - Ways & Means (WM): SB 5950: Mental health. (Remote Testimony Available).
 Sign up to testify:
@@ -166,10 +173,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156238&caId=22739&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156238&caId=22739&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * 💵Anna Nepomuceno - NAMI Washington
 * Rashi Gupta - UW Medicine
+* Shannon Dorsey
+* Joan Miller - WA Council for Behavioral Health
 
 #### 0 👎 - Con
 

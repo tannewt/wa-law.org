@@ -14,9 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31578&aId=156141&caId=22809&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31578&aId=156141&caId=22809&tId=4)
 
-#### 151 👍 - Pro
+#### 297 👍 - Pro
+Testifying:
+* Fred Thomas
+* Juan Peralez - Unidos of Snohomish County
+* Kurtis Robinson
+* Leslie Cushman - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
+* Michelle Nijhuis
+* Rick George
+* Shareefah Hoover
 
-#### 4 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Laurie Layne

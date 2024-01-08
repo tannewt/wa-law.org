@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2031/</link>
 		<description>Updates about HB 2031</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 05 Jan 2024 10:40:56 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -22,6 +22,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Patrick/Connor/2024-01-05 10:40:56</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Labor &amp; Workplace Standards (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Labor &amp; Workplace Standards (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Labor &amp; Workplace Standards (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 	</channel>
 </rss>

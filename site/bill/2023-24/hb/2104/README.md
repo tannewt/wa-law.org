@@ -46,7 +46,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31522&aId=156225&caId=22796&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31522&aId=156225&caId=22796&tId=4)
 
-#### 22 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
 * Marissa Rathbone - Washington State School Directors' Association
@@ -69,6 +69,17 @@ Testifying:
 * 💵Mike Hoover - Washington State School Directors' Association (WSSDA)
 * 💵John Seng - [Spark Northwest](/org/spark_northwest/)
 * Stephanie Winner - State Board for Community and Technical Colleges
+* Chloe Gale - [Evergreen Treatment Services](/org/evergreen_treatment_services/)
+* Scott Richards - [The Nature Conservancy](/org/the_nature_conservancy/)
+* Cindy Arends Elsberry - WA Defender Assn/WA Assn of Criminal Defense Lawyers
+* David Buri - EWU
+* Alice Steiner - Unite Us
+* Erin Davis - Kooth
+* Katie Kolan - Unite Us and Kooth
+* 💵Cameron Long - [Evergreen Treatment Services](/org/evergreen_treatment_services/)
+* Joan Miller
+* 💵Paula Sardinas - FMS Global Strategies
+* 💵Albert Sardinas - WBBA
 
 #### 6 👎 - Con
 Testifying:
@@ -79,7 +90,7 @@ Testifying:
 * Alex Motteler
 * Kate Mallahan
 
-#### 44 ❓ - Other
+#### 49 ❓ - Other
 Testifying:
 * 💵Jill May - Washington Association for Children and Families
 * Zack Wester
@@ -120,7 +131,12 @@ Testifying:
 * Nathan Daniel
 * 💵Kristin Wiggins - Perigee Fund / P5RHS
 * Cate Bridenstein - Imagine Institute
+* Cate Bridenstine - Imagine Institute
 * Mark Tucker - Spokane County United Way
 * Nora Briggs - Dollywood Foundation
 * Kate Urwin - People for People / Washington 211
 * Michelle McDaniel - Crisis Connections
+* Samantha Fogg - Seattle Council PTSA Immediate Past President
+* Shannon Dorsey
+* Kate White Tudor - WA Association of Area Agencies on Aging
+* 💵Logan Endres - BrightSpark Early Learning

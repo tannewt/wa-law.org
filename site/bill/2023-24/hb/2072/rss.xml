@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2072/</link>
 		<description>Updates about HB 2072</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 05 Jan 2024 23:45:04 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,21 @@
 			<pubDate>Fri, 05 Jan 2024 23:45:04 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%202072</guid>
+		</item>
+		<item>
+			<title>❓eric pratt - Washington Policy Center</title>
+			<description>eric pratt signed up to testify Other.</description>
+			<pubDate>Sun, 07 Jan 2024 04:27:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/eric/pratt/2024-01-07 04:27:03</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Civil Rights &amp; Judiciary (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Civil Rights &amp; Judiciary (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Civil Rights &amp; Judiciary (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 	</channel>
 </rss>

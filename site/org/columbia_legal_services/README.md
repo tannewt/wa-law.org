@@ -14,7 +14,7 @@
 
 ## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍2  
 
-## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 
 ## [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act 👍1  
 
@@ -115,6 +115,24 @@
 
 ## [HB 1727](/bill/2023-24/hb/1727/) - Transaction fees  👎1 
 
+## [HB 1798](/bill/2023-24/hb/1798/) - Earned release time 👍1  
+
+## [HB 1874](/bill/2023-24/hb/1874/) - Protecting consumers from predatory loans. 👍1  
+
+## [HB 1889](/bill/2023-24/hb/1889/) - Allowing persons to receive professional licenses and certifications regardless of immigration or citizenship status. 👍1  
+
+## [HB 1940](/bill/2023-24/hb/1940/) - Employer political speech 👍1  
+
+## [HB 1945](/bill/2023-24/hb/1945/) - Streamlining and enhancing program access for persons eligible for food assistance. 👍1  
+
+## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍1  
+
+## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
+
+## [HB 2083](/bill/2023-24/hb/2083/) - Payday lending/small loans 👍1  
+
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+
 ## [SB 5028](/bill/2023-24/sb/5028/) - Name changes 👍2  
 
 ## [SB 5035](/bill/2023-24/sb/5035/) - Controlled sub. possession  👎1 
@@ -187,3 +205,9 @@
 
 ## [SB 5737](/bill/2023-24/sb/5737/) - Vehicle residences/impound   ❓1
 * ❓💵 Sarah Nagy
+
+## [SB 5778](/bill/2023-24/sb/5778/) - Employer political speech 👍1  
+
+## [SB 5899](/bill/2023-24/sb/5899/) - Adding to the list of provisions prohibited from rental agreements. 👍1  
+
+## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍1  

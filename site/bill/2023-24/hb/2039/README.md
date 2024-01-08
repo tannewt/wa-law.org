@@ -14,11 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31565&aId=156058&caId=22832&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31565&aId=156058&caId=22832&tId=4)
 
-#### 3 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* 💵Cassie Bordelon - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* 💵Mark Riker - Washington State Building and Construction Trades Council
+* 💵Matthew Hepner - East Wenatchee City Council
+* 💵Isaac Kastama - Clean & Prosperous Washington
 
-#### 31 👎 - Con
+#### 34 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * eric pratt
 * Dominga Soliz - Environmental and Land Use Hearings Office
+* Michael Easton

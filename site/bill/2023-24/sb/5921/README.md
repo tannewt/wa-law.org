@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/08/2024 [The Seattle Times](/org/the_seattle_times/) - [From a state clam to car tab discounts, lawmakers’ agenda takes shape | The Seattle Times](https://www.seattletimes.com/seattle-news/environment/from-a-state-clam-to-car-tab-discounts-lawmakers-agenda-takes-shape/#:~:text=Senate%20Bill%205921)
+
 ## Meetings
 ### Thu 01/11 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5921 Tribal rep./conserv. comm'n
 Sign up to testify:

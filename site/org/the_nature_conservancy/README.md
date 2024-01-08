@@ -83,6 +83,9 @@
 
 ## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes. 👍1  
 
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  
+* 👍 Scott Richards
+
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍2  
 
 ## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍3  
@@ -140,3 +143,6 @@
 
 ## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands. 👍1  
 * 👍💵 Justin Allegro
+
+## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  
+* 👍 Scott Richards

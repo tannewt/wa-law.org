@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/08/2024 [The Seattle Times](/org/the_seattle_times/) - [From a state clam to car tab discounts, lawmakers’ agenda takes shape | The Seattle Times](https://www.seattletimes.com/seattle-news/environment/from-a-state-clam-to-car-tab-discounts-lawmakers-agenda-takes-shape/#:~:text=House%20Bill%202049)
 * 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%202049)
 
 ## Meetings
@@ -17,16 +18,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31566&aId=156059&caId=22833&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31566&aId=156059&caId=22833&tId=4)
 
-#### 283 👍 - Pro
+#### 411 👍 - Pro
 Testifying:
 * Ann Murphy - League of Women Voters of Washington
 * Marlene Feist - [City of Spokane](/org/city_of_spokane/)
 * Kate Bailey - The Association of Plastic Recyclers (APR)
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 5 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * Erin Hall - [American Forest & Paper Association](/org/american_forest_&_paper_association/)
+* 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
+* Brendan Flanagan - [Consumer Brands Association](/org/consumer_brands_association/)
 
 #### 2 ❓ - Other
 Testifying:

@@ -16,7 +16,9 @@ Sign up to testify:
 
 #### 3 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 0 ❓ - Other
 

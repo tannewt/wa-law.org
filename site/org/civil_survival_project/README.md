@@ -25,6 +25,8 @@
 
 ## [HB 1640](/bill/2023-24/hb/1640/) - Pardons and commutations 👍2  
 
+## [HB 1798](/bill/2023-24/hb/1798/) - Earned release time 👍1  
+
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍3  
 * 👍 Charlie Klein
 

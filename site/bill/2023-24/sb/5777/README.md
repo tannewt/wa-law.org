@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/07/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: Welcome to the 2024 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/07/this-week-in-the-senate-week-1-welcome-to-the-2024-session/#:~:text=Senate%20Bill%205777)
+
 ## Meetings
 ### Tue 01/09 10:30 AM - Labor & Commerce (LC): SB 5777 Unemp ins/strikes & lockouts
 Sign up to testify:
@@ -14,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31535&aId=155966&caId=22722&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31535&aId=155966&caId=22722&tId=4)
 
-#### 27 👍 - Pro
+#### 40 👍 - Pro
 
 #### 1 👎 - Con
 

@@ -17,15 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31508&aId=156093&caId=22893&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31508&aId=156093&caId=22893&tId=4)
 
-#### 43 👍 - Pro
+#### 53 👍 - Pro
 Testifying:
 * Alan Durning - [Sightline Institute](/org/sightline_institute/)
 * Zoltan Hajnal - Yankelovich Center for Research, UCSD
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
-#### 6 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * 💵Conner Edwards - WA Professional Campaign Treasurers
 * 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Tim Eyman - Concerned citizen
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31540&aId=156196&caId=22768&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31540&aId=156196&caId=22768&tId=4)
 
-#### 7 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * 💵Leslie Emerick - WA State Hospice and Palliative Care Organization (WSHPCO)
 * MD, Gregg Vandekieft - WA State Hospice and Palliative Care Organization (WSHPCO)

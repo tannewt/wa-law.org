@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31583&aId=156160&caId=22853&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31583&aId=156160&caId=22853&tId=4)
 
-#### 104 👍 - Pro
+#### 207 👍 - Pro
 Testifying:
 * 💵Ben Stuckart - [Spokane Low Income Housing Consortium](/org/spokane_low_income_housing_consortium/)
 * Cynthia Stewart
@@ -26,10 +26,12 @@ Testifying:
 * Angela Rozmyn - Natural and Built Environments
 * David Neiman - Neiman Taber Architects PLLC
 * Benjamin Maritz - Great Expectations LLC
+* Cathy MacCaul - AARP Washington State
+* 💵Bryce Yadon
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Tayten Moore

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1878/</link>
 		<description>Updates about HB 1878</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 05 Dec 2023 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,13 @@
 			<pubDate>Tue, 05 Dec 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-12-05/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Labor &amp; Workplace Standards (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Labor &amp; Workplace Standards (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Labor &amp; Workplace Standards (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 	</channel>
 </rss>

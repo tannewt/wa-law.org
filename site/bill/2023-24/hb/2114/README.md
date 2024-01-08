@@ -17,14 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31585&aId=156252&caId=22856&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31585&aId=156252&caId=22856&tId=4)
 
-#### 358 👍 - Pro
+#### 494 👍 - Pro
 Testifying:
 * 💵Clifford Cawthon - Habitat for Humanity Seattle-King & Kittitas County
 * Terri Anderson - Tenants Union of Washington State
 * Terri Anderson - Tenants Union of Washington State
 * Tamara Rivera
+* Patti Dailey-Shives - Resident, manufactured home community
 
-#### 105 👎 - Con
+#### 110 👎 - Con
 Testifying:
 * Eric Steven - Eric M. Steven, PS dba Steven Law Office
 * Martina Reid - n/a
@@ -43,4 +44,6 @@ Testifying:
 * Christie Malchow
 * DAVID NAGEL
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* David Mumper - No

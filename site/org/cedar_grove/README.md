@@ -5,3 +5,5 @@
 * 👍 Karen Dawson
 
 ## [SB 5551](/bill/2023-24/sb/5551/) - Methane capture 👍1  
+
+## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD 👍1  

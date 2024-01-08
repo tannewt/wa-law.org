@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31562&aId=156035&caId=22801&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31562&aId=156035&caId=22801&tId=4)
 
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * (Judge) Michael Diaz - Interpreter Language and Access Commission
 * Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)

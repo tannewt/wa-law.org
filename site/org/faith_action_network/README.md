@@ -7,6 +7,8 @@
 
 ## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍4  
 
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
+
 ## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals 👍1  
 
 ## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍4  
@@ -76,6 +78,8 @@
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍7  
 
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+
 ## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍2  
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍3  
@@ -114,3 +118,5 @@
 ## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍7  
 
 ## [SB 5768](/bill/2023-24/sb/5768/) - DOC/abortion medications 👍1  
+
+## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍1  

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2038/</link>
 		<description>Updates about HB 2038</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 05 Jan 2024 23:45:04 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,13 @@
 			<pubDate>Fri, 05 Jan 2024 23:45:04 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%202038</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Education (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Education (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Education (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 	</channel>
 </rss>

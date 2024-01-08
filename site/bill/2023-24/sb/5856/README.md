@@ -19,6 +19,13 @@ Testifying:
 * Cindy Madigan - League of Women Voters of Washington
 * Mary Hall - Washington State Association of County Auditors (WSACA)
 
-#### 1 👎 - Con
+#### 84 👎 - Con
+Testifying:
+* David Turner
+* LORILEE GATES
+* James Ware
+* Evelyn Nelson
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* eric pratt

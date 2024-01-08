@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31569&aId=156078&caId=22884&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31569&aId=156078&caId=22884&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Vaughnetta J. Barton - UW School of Social Work
+* Laurie Lippold - Partners for Our Children
 
 #### 0 👎 - Con
 

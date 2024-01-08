@@ -1,6 +1,6 @@
 # Heritage Distilling Company
 
-## [HB 1299](/bill/2023-24/hb/1299/) - Beverage alcohol/workforce 👍2  
+## [HB 1299](/bill/2023-24/hb/1299/) - Beverage alcohol/workforce 👍3  
 * 👍 Justin Stiefel
 
 ## [HB 1344](/bill/2023-24/hb/1344/) - Low-proof beverages/tax 👍4  

@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31541&aId=156268&caId=22906&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31541&aId=156268&caId=22906&tId=4)
 
-#### 9 👍 - Pro
+#### 11 👍 - Pro
 
-#### 399 👎 - Con
+#### 487 👎 - Con
 Testifying:
 * Mary Long - Conservative Ladies of Washington
 * Kim Slinger
+* Natalie Chavez
 * Laurie Layne
 
 #### 1 ❓ - Other

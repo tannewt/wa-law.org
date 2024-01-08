@@ -196,8 +196,9 @@
 
 ## [HB 1635](/bill/2023-24/hb/1635/) - Police dogs/liability 👍1  
 
-## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions  👎2 
+## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions  👎3 
 * 👎💵 Candice Bock
+* 👎💵 Lindsey Hueer
 
 ## [HB 1670](/bill/2023-24/hb/1670/) - Property tax limit factor 👍1  
 * 👍💵 Candice Bock
@@ -451,7 +452,7 @@
 ## [SB 5778](/bill/2023-24/sb/5778/) - Employer political speech   ❓1
 * ❓💵 Candice Bock
 
-## [SB 5781](/bill/2023-24/sb/5781/) - Establishing a law student rural public defense program. 👍1  
+## [SB 5781](/bill/2023-24/sb/5781/) - Establishing a law student rural public defense program. 👍2  
 * 👍💵 Lindsey Hueer
 
 ## [SB 5807](/bill/2023-24/sb/5807/) - Housing authorities 👍1  
@@ -460,6 +461,8 @@
 * ❓💵 Candice Bock
 
 ## [SB 5834](/bill/2023-24/sb/5834/) - Concerning urban growth areas. 👍1  
+
+## [SB 5853](/bill/2023-24/sb/5853/) - Extending the crisis relief center model to provide behavioral health crisis services for minors. 👍2  
 
 ## [SB 5901](/bill/2023-24/sb/5901/) - Concerning co-living housing.   ❓1
 * ❓💵 Carl Schroeder

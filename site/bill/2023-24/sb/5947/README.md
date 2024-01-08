@@ -14,12 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31520&aId=156201&caId=22734&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31520&aId=156201&caId=22734&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * 💵Jane Wall - County Road Administration Board
 * Commissioner Melanie Bacon - [Island County](/org/island_county/)
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Mary Paterson
 

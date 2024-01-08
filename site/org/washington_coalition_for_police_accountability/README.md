@@ -4,6 +4,8 @@
 * 👍 Sonia Joseph
 * 👍💵 Nickeia Hunter
 
+## [HB 1062](/bill/2023-24/hb/1062/) - Law enf. officers/deception 👍1  
+
 ## [HB 1080](/bill/2023-24/hb/1080/) - Body worn cameras   ❓1
 
 ## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍1  
@@ -49,7 +51,8 @@
 * 👍💵 Paul Benz
 * 👍 Martina Morris
 
-## [HB 2027](/bill/2023-24/hb/2027/) - Concerning certification, background checks, and training requirements for sheriffs, police chiefs, marshals, reserve officers, and volunteers. 👍2  
+## [HB 2027](/bill/2023-24/hb/2027/) - Concerning certification, background checks, and training requirements for sheriffs, police chiefs, marshals, reserve officers, and volunteers. 👍3  
+* 👍 Leslie Cushman
 
 ## [SB 5361](/bill/2023-24/sb/5361/) - Law enf. officers/increase  👎1 
 * 👎 Leslie Cushman

@@ -17,16 +17,30 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31541&aId=155983&caId=22783&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31541&aId=155983&caId=22783&tId=4)
 
-#### 239 👍 - Pro
+#### 260 👍 - Pro
 Testifying:
 * Patrick Hession - CAA
 * Truc-Anh Tran - CAA
+* Christy Kohlsaat - Certified Anesthesiologist Assistant
+* 💵Carolyn Logue - WA Academy of Anesthesiologist Assistants
+* Charlie Chase - Certified Anesthesiologist Assistant
 
-#### 250 👎 - Con
+#### 746 👎 - Con
 Testifying:
 * Lisa Egenes
 * Darin Egenes
 * Lisa Egenes
+* Jessica Eisenberg
+* Florina Edery
+* Michele Greenwood
+* Stephen Bertsch
+* Tyler Weber
+* Raymond Grooms
+* Taylor Nix
+* Caroline Willingham
+* Alicia Schultz
+* Kellie Shanholtz
+* Lauren Luchini
 
 #### 2 ❓ - Other
 Testifying:

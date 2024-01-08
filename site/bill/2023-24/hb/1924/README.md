@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/08/2024 [The Seattle Times](/org/the_seattle_times/) - [From a state clam to car tab discounts, lawmakers’ agenda takes shape | The Seattle Times](https://www.seattletimes.com/seattle-news/environment/from-a-state-clam-to-car-tab-discounts-lawmakers-agenda-takes-shape/#:~:text=House%20Bill%201924)
+
 ## Meetings
 ### Mon 01/08 01:30 PM - Environment & Energy (ENVI): HB 1924 Fusion technology policies
 Sign up to testify:
@@ -14,14 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31565&aId=156057&caId=22831&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31565&aId=156057&caId=22831&tId=4)
 
-#### 9 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Ryan Umstattd - Zap Energy
 * James Conca
 * Jackie Siebens - Helion Energy
 
-#### 0 👎 - Con
+#### 121 👎 - Con
+Testifying:
+* Jeannette Mcchesney
+* Kristine Stultz
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * eric pratt
+* Michael Easton

@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31566&aId=156270&caId=22908&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31566&aId=156270&caId=22908&tId=4)
 
-#### 12 👍 - Pro
+#### 82 👍 - Pro
 Testifying:
 * Kate Bailey - The Association of Plastic Recyclers (APR)
 * Dylan de Thomas - The Recycling Partnership
@@ -30,7 +30,9 @@ Testifying:
 * Fiona Bell - Novelis
 * Hannah Martinez - Indorama Ventures
 
-#### 1 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Courtney Criss
 
 #### 2 ❓ - Other
 Testifying:

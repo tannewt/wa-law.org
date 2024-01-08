@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/07/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: Welcome to the 2024 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/07/this-week-in-the-senate-week-1-welcome-to-the-2024-session/#:~:text=Senate%20Bill%205972)
+
 ## Meetings
 ### Thu 01/11 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5972 Neonicotinoid pesticides
 Sign up to testify:

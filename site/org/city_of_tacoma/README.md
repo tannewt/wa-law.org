@@ -81,6 +81,8 @@
 
 ## [HB 1889](/bill/2023-24/hb/1889/) - Allowing persons to receive professional licenses and certifications regardless of immigration or citizenship status. 👍1  
 
+## [HB 1892](/bill/2023-24/hb/1892/) - Concerning the workforce housing accelerator program. 👍1  
+
 ## [HB 2086](/bill/2023-24/hb/2086/) - Updating processes of the office of independent investigations by changing authority to obtain and share investigative information and aligning with current operations and practices. 👍1  
 
 ## [SB 5052](/bill/2023-24/sb/5052/) - Leasehold tax/arenas, etc.   ❓1

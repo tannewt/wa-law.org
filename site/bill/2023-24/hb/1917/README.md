@@ -17,7 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31571&aId=156106&caId=22888&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31571&aId=156106&caId=22888&tId=4)
 
-#### 2 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Joshua Lumsden - [Washington Academy of Physician Assistants](/org/washington_academy_of_physician_assistants/)
+* Allen Acosta - Veteran Legislative Coalition
 
 #### 0 👎 - Con
 

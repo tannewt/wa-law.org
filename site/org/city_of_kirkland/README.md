@@ -71,6 +71,18 @@
 
 ## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍1  
 
+## [HB 1933](/bill/2023-24/hb/1933/) - Supporting the servicing and right to repair of certain products with digital electronics in a secure and reliable manner. 👍1  
+
+## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍1  
+
+## [HB 2008](/bill/2023-24/hb/2008/) - Creating a task force on housing cost driver analysis. 👍1  
+
+## [HB 2039](/bill/2023-24/hb/2039/) - Modifying the appeals process for environmental and land use matters. 👍1  
+
+## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes. 👍1  
+
+## [HB 2051](/bill/2023-24/hb/2051/) - Reducing emissions from small off-road engines. 👍1  
+
 ## [SB 5006](/bill/2023-24/sb/5006/) - Waiver of firearm rights 👍1  
 
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍2  
@@ -80,6 +92,8 @@
 ## [SB 5060](/bill/2023-24/sb/5060/) - Rental & vacant properties 👍1  
 
 ## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍3  
+
+## [SB 5118](/bill/2023-24/sb/5118/) - Multifamily property tax ex. 👍1  
 
 ## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍1  
 
@@ -126,3 +140,9 @@
 ## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍1  
 
 ## [SB 5606](/bill/2023-24/sb/5606/) - Illegal racing 👍1  
+
+## [SB 5823](/bill/2023-24/sb/5823/) - School district elections 👍1  
+
+## [SB 5853](/bill/2023-24/sb/5853/) - Extending the crisis relief center model to provide behavioral health crisis services for minors. 👍1  
+
+## [SB 5899](/bill/2023-24/sb/5899/) - Adding to the list of provisions prohibited from rental agreements. 👍1  

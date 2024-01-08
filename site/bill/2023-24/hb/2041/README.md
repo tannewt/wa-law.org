@@ -14,10 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31511&aId=156049&caId=22847&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31511&aId=156049&caId=22847&tId=4)
 
-#### 187 👍 - Pro
+#### 369 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Stephanie Mason - Washington Medical Commission

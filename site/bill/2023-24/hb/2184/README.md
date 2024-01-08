@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31598&aId=156285&caId=22925&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31598&aId=156285&caId=22925&tId=4)
 
-#### 30 👍 - Pro
+#### 70 👍 - Pro
 Testifying:
 * Adana Protonentis - Kindred Leaders
 * 💵Adrienne Stuart
@@ -22,6 +22,10 @@ Testifying:
 * Deborah Ritter
 * Jill Brown
 * Kayla Scott
+* Lindsey Topping-Schuetz - Unpaid Parent Caregiver and Advocate
+* Angelina Goldwell
+* Heidi Fredericks
+* Debbie Calderon
 
 #### 0 👎 - Con
 

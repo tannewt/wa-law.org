@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5925/</link>
 		<description>Updates about SB 5925</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 29 Dec 2023 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,21 @@
 			<pubDate>Fri, 29 Dec 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-12-29/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>👍Matthew Holm - Association of Washington Cities</title>
+			<description>Matthew Holm signed up to testify Pro.</description>
+			<pubDate>Sun, 07 Jan 2024 09:53:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Matthew/Holm/2024-01-07 09:53:11</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Local Government, Land Use &amp; Tribal Affairs (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Local Government, Land Use &amp; Tribal Affairs (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Local Government, Land Use &amp; Tribal Affairs (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 	</channel>
 </rss>

@@ -17,11 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31579&aId=156143&caId=22811&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31579&aId=156143&caId=22811&tId=4)
 
-#### 133 👍 - Pro
+#### 187 👍 - Pro
 Testifying:
 * Dory Crabbe
 * Candice Baughman
 * Melody Simle
+* 💵Chelsea Moore - ACLU
+* Emijah Smith
+* Heather Kelly - League of Women Voters
+* Micaela Romero
+* Connie Crabbe
 
 #### 0 👎 - Con
 

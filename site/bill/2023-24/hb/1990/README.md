@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31509&aId=156101&caId=22900&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31509&aId=156101&caId=22900&tId=4)
 
-#### 8 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Tom Konis - Spokane County Assessor
 * Steven Drew - WA Assoc of Assessors legislative chair
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* eric pratt

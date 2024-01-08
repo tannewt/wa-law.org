@@ -171,6 +171,9 @@
 * 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 
+## [HB 1932](/bill/2023-24/hb/1932/) - Shifting general elections for local governments to even-numbered years to increase voter participation.   ❓1
+* ❓💵 Mike Hoover
+
 ## [SB 5027](/bill/2023-24/sb/5027/) - American dream homes 👍1  
 * 👍💵 Paul Jewell
 

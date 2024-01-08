@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2040/</link>
 		<description>Updates about HB 2040</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 27 Dec 2023 15:05:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,13 @@
 			<pubDate>Wed, 27 Dec 2023 15:05:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_3a6e88fe-a4e5-11ee-8fd4-fbeea6e0afef.html#:~:text=House%20Bill%202040</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Transportation (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Transportation (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Transportation (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 	</channel>
 </rss>

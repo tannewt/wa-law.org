@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31539&aId=155980&caId=22710&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31539&aId=155980&caId=22710&tId=4)
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Eileen Ravella - [Washington Academy of Physician Assistants](/org/washington_academy_of_physician_assistants/)
 
 #### 0 👎 - Con
 

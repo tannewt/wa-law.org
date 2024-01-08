@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/07/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: Welcome to the 2024 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/07/this-week-in-the-senate-week-1-welcome-to-the-2024-session/#:~:text=SB%205838)
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [2024 Legislative Priorities | Washington State](http://www.atg.wa.gov/2024-legislative-priorities#:~:text=SB%205838)
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson proposes creation of bipartisan Artificial Intelligence Task Force | Washington State](http://www.atg.wa.gov/news/news-releases/ag-ferguson-proposes-creation-bipartisan-artificial-intelligence-task-force#:~:text=Senate%20Bill%205838)
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [2024 Legislative Priorities | Washington State](https://www.atg.wa.gov/2024-legislative-priorities#:~:text=SB%205838)
@@ -19,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31528&aId=156247&caId=22743&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31528&aId=156247&caId=22743&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 
 #### 1 👎 - Con
 

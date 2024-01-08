@@ -13,7 +13,7 @@
 
 ## [HB 1527](/bill/2023-24/hb/1527/) - Tax increment financing 👍1  
 
-## [HB 1585](/bill/2023-24/hb/1585/) - Local infra. project areas 👍1  
+## [HB 1585](/bill/2023-24/hb/1585/) - Local infra. project areas 👍2  
 
 ## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍1  
 * 👍 Jim Hammond

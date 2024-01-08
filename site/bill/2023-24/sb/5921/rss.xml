@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5921/</link>
 		<description>Updates about SB 5921</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 05 Jan 2024 09:56:18 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jan 2024 06:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -22,6 +22,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jarred-Michael/Erickson/2024-01-05 09:56:18</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Agriculture, Water, Natural Resources &amp; Parks (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Agriculture, Water, Natural Resources &amp; Parks (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Agriculture, Water, Natural Resources &amp; Parks (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>From a state clam to car tab discounts, lawmakers’ agenda takes shape | The Seattle Times</title>
+			<description>News article &quot;From a state clam to car tab discounts, lawmakers’ agenda takes shape | The Seattle Times&quot; from The Seattle Times.</description>
+			<pubDate>Mon, 08 Jan 2024 06:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.seattletimes.com/seattle-news/environment/from-a-state-clam-to-car-tab-discounts-lawmakers-agenda-takes-shape/#:~:text=Senate%20Bill%205921</guid>
 		</item>
 	</channel>
 </rss>

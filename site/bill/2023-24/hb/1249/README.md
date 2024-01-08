@@ -17,7 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31553&aId=156282&caId=22917&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31553&aId=156282&caId=22917&tId=4)
 
-#### 3 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Doug Henderson - Painted Rooster Cannabis Company
+* Caitlein Ryan - THE CANNABIS ALLIANCE
 
 #### 0 👎 - Con
 

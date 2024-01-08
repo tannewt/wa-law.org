@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5856/</link>
 		<description>Updates about SB 5856</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 05 Jan 2024 05:02:25 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jan 2024 05:54:57 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,6 +30,53 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Mary/Hall/2024-01-05 05:02:25</guid>
+		</item>
+		<item>
+			<title>❓eric pratt - Washington State Association of County Auditors (WSACA)</title>
+			<description>eric pratt signed up to testify Other.</description>
+			<pubDate>Sun, 07 Jan 2024 04:17:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/eric/pratt/2024-01-07 04:17:27</guid>
+		</item>
+		<item>
+			<title>👎David Turner - Washington State Association of County Auditors (WSACA)</title>
+			<description>David Turner signed up to testify Con.</description>
+			<pubDate>Sun, 07 Jan 2024 07:22:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/David/Turner/2024-01-07 07:22:43</guid>
+		</item>
+		<item>
+			<title>👎LORILEE GATES - Washington State Association of County Auditors (WSACA)</title>
+			<description>LORILEE GATES signed up to testify Con.</description>
+			<pubDate>Sun, 07 Jan 2024 08:42:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/LORILEE/GATES/2024-01-07 08:42:03</guid>
+		</item>
+		<item>
+			<title>👎James Ware - Washington State Association of County Auditors (WSACA)</title>
+			<description>James Ware signed up to testify Con.</description>
+			<pubDate>Sun, 07 Jan 2024 09:12:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/James/Ware/2024-01-07 09:12:18</guid>
+		</item>
+		<item>
+			<title>First reading, referred to State Government &amp; Elections (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to State Government &amp; Elections (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to State Government &amp; Elections (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>👎Evelyn Nelson - Washington State Association of County Auditors (WSACA)</title>
+			<description>Evelyn Nelson signed up to testify Con.</description>
+			<pubDate>Mon, 08 Jan 2024 05:54:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Evelyn/Nelson/2024-01-08 05:54:57</guid>
 		</item>
 	</channel>
 </rss>
