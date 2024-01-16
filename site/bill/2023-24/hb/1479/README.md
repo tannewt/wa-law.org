@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 01/08/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Session Preview: Legislature convenes January 8 for short session - WSPTA](https://www.wastatepta.org/2024-session-preview/#:~:text=E2SHB%201479)
 * 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%201479)
 * 03/28/2023 [The Seattle Times](/org/the_seattle_times/) - [Isolation and restraint of students is abuse | The Seattle Times](https://www.seattletimes.com/opinion/editorials/isolation-and-restraint-of-students-is-abuse/#:~:text=House%20Bill%201479)
 * 03/27/2023 [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=E2SHB%201479)
@@ -28,13 +29,7 @@
 
 ## Meetings
 ### Thu 01/11 08:00 AM - Education (ED): E2SHB 1479 Student restraint, isolation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31561&aId=156030&caId=22824&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31561&aId=156030&caId=22824&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31561&aId=156030&caId=22824&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31561&aId=156030&caId=22824&tId=4)
-
-#### 82 👍 - Pro
+#### 445 👍 - Pro
 Testifying:
 * Richard Pope - Parent of Isolation Survivor
 * Oliver Miska - WAESN
@@ -42,10 +37,30 @@ Testifying:
 * 💵Ramona Hattendorf
 * melissa spiker - Seattle Special Education PTSA
 * Michelle Harris - N/A
+* Kristina De Vadder
+* ivanova smith - Self Advocate leader
+* Heidi Barden - [Treehouse](/org/treehouse/)
+* Olga Caffee
+* Mikhail Cherniske - Office of Superintendent of Public Instruction
+* Jen Chong Jewell - Special Education Advisory Council for OSPI
+* Charissa Keebaugh
+* 💵Karen Pillar - TeamChild
+* Bea Love
+* Sebrena Burr - Seattle Council PTSA
 
-#### 18 👎 - Con
+#### 32 👎 - Con
+Testifying:
+* Jason Perrins - Chewelah SD
 
-#### 0 ❓ - Other
+#### 9 ❓ - Other
+Testifying:
+* Jeffrey Kalles - Lilac City Behavioral Services, Washington Association for Behavior Analysis
+* Sue Ann Bube - Mercer Island School District
+* Preston Dwoskin
+* Jim Kowalkowski - Rural Education Center
+* 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
+* Rick Chisa - Public School Employees of Washington (PSE)
+* Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 
 ### Mon 03/20 01:30 PM - Early Learning & K-12 Education (EDU): E2SHB 1479 Student restraint, isolation
 #### 268 👍 - Pro

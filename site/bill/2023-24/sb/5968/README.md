@@ -8,14 +8,33 @@
 
 ## Meetings
 ### Thu 01/11 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5968 Home equity sharing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31505&aId=156317&caId=22941&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31505&aId=156317&caId=22941&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31505&aId=156317&caId=22941&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31505&aId=156317&caId=22941&tId=4)
+#### 12 👍 - Pro
+Testifying:
+* Andrew Pizor - National Consumer Law Center
+* 💵Emily Murphy - [Northwest Consumer Law Center](/org/northwest_consumer_law_center/)
+* Malena Pinkham - Northwest Justice Project
+* 💵Shaun Scott
+* Riley Benge - Washington REALTORS
+* Blythe Chandler - Terrell Marshall Law Group
+* Mary Veneziani
 
-#### 1 👍 - Pro
+#### 9 👎 - Con
+Testifying:
+* Deepak Kumar - Splitero Inc.
+* Robert McLeod
+* 💵Isaac Kastama - Unlock
+* Jim Milano - McGlinchey PLLC
+* Jim Riccitelli - Unlock
+* Joshua Gaffney - Hometap Equity Partners, LLC
+* Rolando Villanueva
+* ROBERT MCKENNA - On behalf of Point Digital Finance, Inc.
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 7 ❓ - Other
+Testifying:
+* Matthew Windsor - Point Digital Finance, Inc.
+* John Arens - Redwood Trust
+* Laszlo Ladi - Real Estate Equity Exchange, Inc., d/b/a Unison
+* Ryan Downs - Real Estate Equity Exchange, Inc., d/b/a Unison
+* Thomas Sponholtz - Real Estate Equity Exchange, Inc., d/b/a Unison
+* 💵Bill Stauffacher - Unison Equity
+* 💵Rowland Thompson - Unison Equity

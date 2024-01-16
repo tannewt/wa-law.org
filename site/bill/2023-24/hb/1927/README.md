@@ -8,14 +8,18 @@
 
 ## Meetings
 ### Wed 01/10 08:00 AM - Labor & Workplace Standards (LAWS): HB 1927 Temporary total disability
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31572&aId=156186&caId=22878&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31572&aId=156186&caId=22878&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31572&aId=156186&caId=22878&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31572&aId=156186&caId=22878&tId=4)
+#### 24 👍 - Pro
+Testifying:
+* 💵Erin Frasier - Washington State Building & Construction Trades
+* Raymond Dumas - OPCMIA Local 528
+* 💵Chad Campbell - IUOE Local 612
 
-#### 1 👍 - Pro
+#### 49 👎 - Con
+Testifying:
+* Robert (Bob) Battles - Association of Washington Business (AWB)
+* Tom Kwieciak - Building Industry Association of WA
 
-#### 30 👎 - Con
-
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Brenda Heilman - Department of Labor & Industries
+* 💵Rose Gundersen - WA Retail Association

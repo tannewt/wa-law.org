@@ -4,7 +4,7 @@
 
 ## [HB 1035](/bill/2023-24/hb/1035/) - Health care restrictions 👍1  
 
-## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍3  
 
 ## [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act 👍1  
 
@@ -87,11 +87,48 @@
 
 ## [HB 1795](/bill/2023-24/hb/1795/) - Estate tax 👍1  
 
-## [HB 1885](/bill/2023-24/hb/1885/) - Strengthening campaign finance disclosure by prohibiting campaign contributions and expenditures by foreign-influenced corporations. 👍1  
+## [HB 1885](/bill/2023-24/hb/1885/) - Strengthening campaign finance disclosure by prohibiting campaign contributions and expenditures by foreign-influenced corporations. 👍2  
 * 👍 Andrew Villeneuve
 
-## [HB 1932](/bill/2023-24/hb/1932/) - Shifting general elections for local governments to even-numbered years to increase voter participation. 👍1  
+## [HB 1889](/bill/2023-24/hb/1889/) - Allowing persons to receive professional licenses and certifications regardless of immigration or citizenship status. 👍1  
+
+## [HB 1902](/bill/2023-24/hb/1902/) - Firearms/purchase & transfer 👍1  
+
+## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍2  
 * 👍 Andrew Villeneuve
+
+## [HB 1933](/bill/2023-24/hb/1933/) - Supporting the servicing and right to repair of certain products with digital electronics in a secure and reliable manner. 👍1  
+* 👍 Kamil Zaidi
+
+## [HB 1934](/bill/2023-24/hb/1934/) - AI task force 👍1  
+
+## [HB 1940](/bill/2023-24/hb/1940/) - Employer political speech 👍1  
+
+## [HB 1962](/bill/2023-24/hb/1962/) - Improving voter registration list accuracy by improving voter address change processes for county election offices and voters. 👍1  
+
+## [HB 2023](/bill/2023-24/hb/2023/) - Improving meaningful access to elections by increasing language assistance. 👍1  
+* 👍 Subha Vadlamannati
+
+## [HB 2030](/bill/2023-24/hb/2030/) - Revoking a person's voting rights only when convicted of a state crime punishable by death. 👍1  
+
+## [HB 2054](/bill/2023-24/hb/2054/) - Concerning bulk purchases and transfers of firearms. 👍1  
+
+## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
+
+## [HB 2094](/bill/2023-24/hb/2094/) - Gift certificates 👍1  
+
+## [HB 2095](/bill/2023-24/hb/2095/) - Gift certificates/unclaimed 👍1  
+
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍2  
+* 👍 Andrew Villeneuve
+* 👍 Andrew Villeneuve
+
+## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍1  
+
+## [HB 2205](/bill/2023-24/hb/2205/) - Signature gathering/protests  👎1 
+* 👎 Kathy Sakahara
+
+## [HB 2325](/bill/2023-24/hb/2325/) - Legislative employees 👍1  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act 👍1  
 
@@ -165,14 +202,43 @@
 ## [SB 5723](/bill/2023-24/sb/5723/) - Even-numbered year elections 👍2  
 * 👍 Kathy Sakahara
 
-## [SB 5837](/bill/2023-24/sb/5837/) - Codifying the state election database to publish, evaluate, and analyze certain election data. 👍1  
+## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
 * 👍 Andrew Villeneuve
 
-## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍1  
+## [SB 5778](/bill/2023-24/sb/5778/) - Employer political speech 👍1  
+
+## [SB 5809](/bill/2023-24/sb/5809/) - Charter schools/enrichment  👎1 
+
+## [SB 5819](/bill/2023-24/sb/5819/) - Financial education 👍1  
+
+## [SB 5823](/bill/2023-24/sb/5823/) - School district elections 👍1  
+* 👍 Kamil Zaidi
+
+## [SB 5837](/bill/2023-24/sb/5837/) - Codifying the state election database to publish, evaluate, and analyze certain election data. 👍2  
 * 👍 Andrew Villeneuve
+
+## [SB 5843](/bill/2023-24/sb/5843/) - Election security breaches 👍1  
+
+## [SB 5851](/bill/2023-24/sb/5851/) - Concerning Holocaust and genocide education in public schools. 👍1  
+
+## [SB 5856](/bill/2023-24/sb/5856/) - Concerning voter registration challenges. 👍1  
+
+## [SB 5857](/bill/2023-24/sb/5857/) - Campaign disclosure reorg. 👍1  
+
+## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍2  
+* 👍 Andrew Villeneuve
+
+## [SB 5917](/bill/2023-24/sb/5917/) - Concerning criminal penalties for bias-motivated defacement of private or public property. 👍1  
+
+## [SB 5943](/bill/2023-24/sb/5943/) - Resource data tool 👍1  
 
 ## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  
 * 👍 Andrew Villeneuve
 
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
+* 👍 Andrew Villeneuve
+
+## [SB 5987](/bill/2023-24/sb/5987/) - Gift certificates 👍1  
+
+## [SB 6039](/bill/2023-24/sb/6039/) - Geothermal energy resources 👍1  
 * 👍 Andrew Villeneuve

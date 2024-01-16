@@ -8,17 +8,14 @@
 
 ## Meetings
 ### Thu 01/11 08:00 AM - Law & Justice (LAW): SB 5840 Leases
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31538&aId=155978&caId=22756&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31538&aId=155978&caId=22756&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31538&aId=155978&caId=22756&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31538&aId=155978&caId=22756&tId=4)
-
-#### 2 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Tim Osborn - WSBA Real Property Probate & Trust Section
 * Sean Holland - [Washington Land Title Association](/org/washington_land_title_association/)
+* JP Kissling - [Washington Land Title Association](/org/washington_land_title_association/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Elizabeth Powell - N/A
 
 #### 0 ❓ - Other

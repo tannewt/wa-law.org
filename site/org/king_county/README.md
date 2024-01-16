@@ -263,9 +263,10 @@
 
 ## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍3  
 
-## [HB 1585](/bill/2023-24/hb/1585/) - Local infra. project areas 👍2  
+## [HB 1585](/bill/2023-24/hb/1585/) - Local infra. project areas 👍4  
 * 👍 MICHAEL MURPHY
 * 👍 MICHAEL MURPHY
+* 👍 Nicholas Bratton
 
 ## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy 👍1  
 
@@ -314,11 +315,51 @@
 
 ## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge   ❓2
 
+## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍1  
+
+## [HB 1933](/bill/2023-24/hb/1933/) - Supporting the servicing and right to repair of certain products with digital electronics in a secure and reliable manner. 👍1  
+
+## [HB 1935](/bill/2023-24/hb/1935/) - Promoting resource conservation practices that include student education and leadership opportunities in public schools. 👍1  
+
+## [HB 1952](/bill/2023-24/hb/1952/) - Concerning long-term community recovery after disasters. 👍1  
+
+## [HB 2021](/bill/2023-24/hb/2021/) - Concerning the disposition of privately owned firearms in the custody of state or local government entities or law enforcement agencies. 👍1  
+
+## [HB 2044](/bill/2023-24/hb/2044/) - Standardizing limitations on voter-approved property tax levies. 👍1  
+* 👍💵 Michael White
+
+## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes. 👍1  
+* 👍 Pat McLaughlin
+
+## [HB 2051](/bill/2023-24/hb/2051/) - Reducing emissions from small off-road engines. 👍1  
+
+## [HB 2054](/bill/2023-24/hb/2054/) - Concerning bulk purchases and transfers of firearms. 👍1  
+
+## [HB 2073](/bill/2023-24/hb/2073/) - Concerning emissions of greenhouse gases from sources other than methane and carbon dioxide. 👍1  
+
+## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍1  
+* 👍💵 Michael White
+
+## [HB 2101](/bill/2023-24/hb/2101/) - Child care licensing fees 👍1  
+
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
 * ❓💵 Michael White
 
+## [HB 2111](/bill/2023-24/hb/2111/) - Subsidized child care 👍1  
+
+## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍2  
+
 ## [HB 2134](/bill/2023-24/hb/2134/) - Transportation budget, supp.   ❓1
 * ❓💵 Michael White
+
+## [HB 2151](/bill/2023-24/hb/2151/) - Reassigning the accreditation of private cannabis testing laboratories from the department of ecology to the department of agriculture. 👍1  
+
+## [HB 2211](/bill/2023-24/hb/2211/) - Criminal justice local tax 👍1  
+* 👍💵 Michael White
+
+## [HB 2231](/bill/2023-24/hb/2231/) - Law enforcement funding   ❓1
+
+## [HB 2258](/bill/2023-24/hb/2258/) - Regional 911 funding  👎1 
 
 ## [SB 5006](/bill/2023-24/sb/5006/) - Waiver of firearm rights 👍1  
 
@@ -554,6 +595,8 @@
 
 ## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy 👍1  
 
+## [SB 5570](/bill/2023-24/sb/5570/) - Energy efficiency loans 👍1  
+
 ## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍2  
 
 ## [SB 5592](/bill/2023-24/sb/5592/) - Defibrillators/fitness 👍4  
@@ -579,10 +622,28 @@
 
 ## [SB 5729](/bill/2023-24/sb/5729/) - Insulin cost-sharing cap 👍2  
 
+## [SB 5804](/bill/2023-24/sb/5804/) - Concerning opioid overdose reversal medication in high schools. 👍1  
+
+## [SB 5821](/bill/2023-24/sb/5821/) - Audio-only telemedicine 👍1  
+
+## [SB 5853](/bill/2023-24/sb/5853/) - Extending the crisis relief center model to provide behavioral health crisis services for minors. 👍1  
+* 👍 Sarah Perry
+
+## [SB 5908](/bill/2023-24/sb/5908/) - Providing extended foster care services to youth ages 18 to 21. 👍1  
+
+## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD 👍1  
+
 ## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp.   ❓1
 * ❓💵 Michael White
 
 ## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental   ❓1
 * ❓💵 Michael White
+
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
+* ❓💵 Michael White
+
+## [SB 6042](/bill/2023-24/sb/6042/) - Juvenile detention release 👍1  
+
+## [SB 6163](/bill/2023-24/sb/6163/) - Biosolids 👍1  
 
 ## [SJR 8201](/bill/2023-24/sjr/8201/) - Public works account 👍1  

@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/15 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5862 Hunting licenses/students
+#### 2 👍 - Pro
+Testifying:
+* 💵Marie Neumiller - Congressional Sportsmen’s Foundation
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other

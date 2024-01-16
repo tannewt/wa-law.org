@@ -11,7 +11,7 @@
 ## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍4  
 * 👍 Josh McDonald
 
-## [HB 1299](/bill/2023-24/hb/1299/) - Beverage alcohol/workforce 👍1  
+## [HB 1299](/bill/2023-24/hb/1299/) - Beverage alcohol/workforce 👍2  
 * 👍 Josh McDonald
 
 ## [HB 1344](/bill/2023-24/hb/1344/) - Low-proof beverages/tax  👎1 
@@ -23,6 +23,24 @@
 ## [HB 1573](/bill/2023-24/hb/1573/) - Dairy, etc. tax preferences 👍1  
 
 ## [HB 1815](/bill/2023-24/hb/1815/) - Payment card processing/tax 👍1  
+
+## [HB 1900](/bill/2023-24/hb/1900/) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system.   ❓1
+* ❓ Josh McDonald
+
+## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes.   ❓1
+
+## [HB 2094](/bill/2023-24/hb/2094/) - Gift certificates  👎1 
+
+## [HB 2144](/bill/2023-24/hb/2144/) - Providing for a deposit return program for qualifying beverage containers to be implemented by a distributor responsibility organization. 👍1  
+* 👍 Josh McDonald
+
+## [HB 2163](/bill/2023-24/hb/2163/) - Liquor licensee advertising 👍1  
+* 👍 Josh McDonald
+
+## [HB 2204](/bill/2023-24/hb/2204/) - Emergency liquor permits 👍1  
+* 👍 Josh McDonald
+
+## [HB 2260](/bill/2023-24/hb/2260/) - Alcohol sale to minors/civil 👍1  
 
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI  👎2 
 * 👎 Josh McDonald

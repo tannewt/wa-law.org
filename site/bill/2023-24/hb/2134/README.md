@@ -11,20 +11,22 @@
 
 ## Meetings
 ### Wed 01/10 04:00 PM - Transportation (TR): HB 2134 Transportation budget, supp.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31547&aId=156254&caId=22905&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31547&aId=156254&caId=22905&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31547&aId=156254&caId=22905&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31547&aId=156254&caId=22905&tId=4)
-
-#### 2 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * 💵Jane Wall - County Road Administration Board
 * Commissioner Melanie Bacon - [Island County](/org/island_county/)
+* Thomas Bridge - Community Water Taxi
+* Jane Fuller - San Juan County Council
+* Jared Nieuwenhuis - City of Bellevue Councilmember
+* Justin Paulsen - San Juan County Ferry Advisory Committee
+* David Robison
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * 💵Michael White - [King County](/org/king_county/)
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* Sean Eagan - [The Northwest Seaport Alliance](/org/the_northwest_seaport_alliance/)
+* 💵Carolyn Logue - South Sound Chamber of Commerce Legislative Coalition
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)

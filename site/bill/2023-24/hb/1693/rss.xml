@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1693/</link>
 		<description>Updates about HB 1693</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 12 Mar 2023 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -97,6 +97,13 @@
 			<pubDate>Sun, 12 Mar 2023 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2023/03/12/the-house-hot-sheet-for-week-10-of-the-2023-legislative-session/#:~:text=HB%201693</guid>
+		</item>
+		<item>
+			<title>House Rules &quot;X&quot; file.</title>
+			<description>House Rules &quot;X&quot; file.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/House Rules &quot;X&quot; file.</guid>
 		</item>
 	</channel>
 </rss>

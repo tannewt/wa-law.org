@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/15/2024 [House Republicans](/org/house_republicans/) - [Fix the education crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/education/#:~:text=House%20bill%201044)
+* 01/08/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Session Preview: Legislature convenes January 8 for short session - WSPTA](https://www.wastatepta.org/2024-session-preview/#:~:text=HB%201044)
 * 04/24/2023 [Washington St Pta](/org/washington_st_pta/) - [Week 15 Report: Sine Die Edition - WSPTA](https://www.wastatepta.org/sine-die-edition/#:~:text=HB%201044)
 * 04/10/2023 [Washington St Pta](/org/washington_st_pta/) - [Senate Passes Preventing Gun Violence Legislation in Week 13 Report - WSPTA](https://www.wastatepta.org/senate-passes-preventing-gun-violence-legislation-in-week-13-report/#:~:text=SHB%201044)
 * 03/27/2023 [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=SHB%201044)

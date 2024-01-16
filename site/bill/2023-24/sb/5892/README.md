@@ -7,3 +7,21 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/15 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5892 Diseased elk
+#### 380 👍 - Pro
+Testifying:
+* Ron Wesen - Skagit County (Mount Vernon, WA)
+* Jeannette Mcchesney
+* John Mower - Grasslake Farm
+* Tom & Susan Jensen
+* Val Mullen
+* Randy Good - Friends of Skagit County and Skagit County Cattlemens
+* Virginia Henrickson
+* PETER BROWNING - Skagit County Commissioner
+
+#### 14 👎 - Con
+Testifying:
+* Mick Cope - WDFW
+* Teddy Anderson
+
+#### 1 ❓ - Other

@@ -14,6 +14,9 @@
 
 ## [HB 1515](/bill/2023-24/hb/1515/) - Behavioral health contracts 👍1  
 
+## [HB 1902](/bill/2023-24/hb/1902/) - Firearms/purchase & transfer  👎1 
+* 👎 John Nowels
+
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎2 
 
 ## [SB 5258](/bill/2023-24/sb/5258/) - Condos and townhouses 👍1  

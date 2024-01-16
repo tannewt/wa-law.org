@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 6099 - Tribal opioid account</title>
+		<link>https://wa-law.org/bill/2023-24/sb/6099/</link>
+		<description>Updates about SB 6099</description>
+		<language>en-US</language>
+		<lastBuildDate>Mon, 15 Jan 2024 02:31:10 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Ways &amp; Means.</title>
+			<description>First reading, referred to Ways &amp; Means.</description>
+			<pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-09/First reading, referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👍Vice Chair Loni Greninger - Jamestown S'Klallam Tribe</title>
+			<description>Vice Chair Loni Greninger signed up to testify Pro. They are signed up to represent Jamestown S'Klallam Tribe.</description>
+			<pubDate>Fri, 12 Jan 2024 01:51:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Vice Chair Loni/Greninger/2024-01-12 01:51:43</guid>
+		</item>
+		<item>
+			<title>👍Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation</title>
+			<description>Jarred-Michael Erickson signed up to testify Pro. They are signed up to represent Confederated Tribes of the Colville Reservation.</description>
+			<pubDate>Sun, 14 Jan 2024 07:15:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jarred-Michael/Erickson/2024-01-14 07:15:13</guid>
+		</item>
+		<item>
+			<title>👍Council Jeremy Takala - Confederated Tribes and Bands of the Yakama Nation</title>
+			<description>Council Jeremy Takala signed up to testify Pro. They are signed up to represent Confederated Tribes and Bands of the Yakama Nation.</description>
+			<pubDate>Mon, 15 Jan 2024 01:38:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Council Jeremy/Takala/2024-01-15 01:38:50</guid>
+		</item>
+		<item>
+			<title>👍Anthony Hillaire - Lummi Nation</title>
+			<description>Anthony Hillaire signed up to testify Pro. They are signed up to represent Lummi Nation.</description>
+			<pubDate>Mon, 15 Jan 2024 02:31:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Anthony/Hillaire/2024-01-15 02:31:10</guid>
+		</item>
+	</channel>
+</rss>

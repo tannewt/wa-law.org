@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 6087 - Fire srv. training account</title>
+		<link>https://wa-law.org/bill/2023-24/sb/6087/</link>
+		<description>Updates about SB 6087</description>
+		<language>en-US</language>
+		<lastBuildDate>Mon, 15 Jan 2024 09:11:23 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Ways &amp; Means.</title>
+			<description>First reading, referred to Ways &amp; Means.</description>
+			<pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-09/First reading, referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👍State Fire Marshal, Chad Cross - Washington State Patrol</title>
+			<description>State Fire Marshal, Chad Cross signed up to testify Pro. They are signed up to represent Washington State Patrol.</description>
+			<pubDate>Fri, 12 Jan 2024 12:08:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/State Fire Marshal, Chad/Cross/2024-01-12 12:08:28</guid>
+		</item>
+		<item>
+			<title>👍Jeff Faucett - Washington Fire Chiefs</title>
+			<description>Jeff Faucett signed up to testify Pro. They are signed up to represent Washington Fire Chiefs.</description>
+			<pubDate>Sun, 14 Jan 2024 04:31:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jeff/Faucett/2024-01-14 04:31:56</guid>
+		</item>
+		<item>
+			<title>👍TJ Nedrow - WA St Fire Fighters' Association (Volunteers)</title>
+			<description>TJ Nedrow signed up to testify Pro. They are signed up to represent WA St Fire Fighters' Association (Volunteers).</description>
+			<pubDate>Mon, 15 Jan 2024 09:11:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/TJ/Nedrow/2024-01-15 09:11:23</guid>
+		</item>
+	</channel>
+</rss>

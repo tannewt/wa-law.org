@@ -18,6 +18,11 @@
 
 ## [HB 1735](/bill/2023-24/hb/1735/) - GMA/net ecological gain 👍1  
 
+## [HB 1987](/bill/2023-24/hb/1987/) - Concerning the use of moneys from the rural public facilities sales and use tax for affordable workforce housing infrastructure and facilities. 👍1  
+* 👍 Peter Browning
+
+## [HB 2020](/bill/2023-24/hb/2020/) - Creating a state administered public infrastructure assistance program within the emergency management division. 👍1  
+
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  
 * 👍 Lisa Janicki
 

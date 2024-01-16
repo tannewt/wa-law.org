@@ -11,16 +11,11 @@
 
 ## Meetings
 ### Tue 01/09 04:00 PM - Regulated Substances & Gaming (RSG): HB 1249 Retail cannabis products
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31553&aId=156282&caId=22917&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31553&aId=156282&caId=22917&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31553&aId=156282&caId=22917&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31553&aId=156282&caId=22917&tId=4)
-
-#### 6 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Doug Henderson - Painted Rooster Cannabis Company
 * Caitlein Ryan - THE CANNABIS ALLIANCE
+* 💵Jessica Hostetler - [Washington Cannabusiness Association](/org/washington_cannabusiness_association/)
 
 #### 0 👎 - Con
 

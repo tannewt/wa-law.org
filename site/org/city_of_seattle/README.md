@@ -10,6 +10,8 @@
 
 ## [HB 1028](/bill/2023-24/hb/1028/) - Crime victims & witnesses 👍1  
 
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
+
 ## [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims 👍2  
 
 ## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
@@ -93,7 +95,7 @@
 
 ## [HB 1355](/bill/2023-24/hb/1355/) - Property tax exemptions 👍1  
 
-## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍1  
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍2  
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
 
@@ -140,6 +142,48 @@
 ## [HB 1795](/bill/2023-24/hb/1795/) - Estate tax 👍1  
 
 ## [HB 1847](/bill/2023-24/hb/1847/) - Community authority/tax 👍1  
+
+## [HB 1889](/bill/2023-24/hb/1889/) - Allowing persons to receive professional licenses and certifications regardless of immigration or citizenship status. 👍1  
+
+## [HB 1902](/bill/2023-24/hb/1902/) - Firearms/purchase & transfer 👍1  
+
+## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍1  
+
+## [HB 1905](/bill/2023-24/hb/1905/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
+
+## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍1  
+
+## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍1  
+
+## [HB 1945](/bill/2023-24/hb/1945/) - Streamlining and enhancing program access for persons eligible for food assistance. 👍1  
+
+## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍1  
+
+## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍1  
+
+## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍1  
+
+## [HB 2019](/bill/2023-24/hb/2019/) - Establishing a Native American apprentice assistance program. 👍1  
+
+## [HB 2020](/bill/2023-24/hb/2020/) - Creating a state administered public infrastructure assistance program within the emergency management division. 👍1  
+
+## [HB 2021](/bill/2023-24/hb/2021/) - Concerning the disposition of privately owned firearms in the custody of state or local government entities or law enforcement agencies. 👍1  
+
+## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes. 👍1  
+
+## [HB 2054](/bill/2023-24/hb/2054/) - Concerning bulk purchases and transfers of firearms. 👍1  
+
+## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
+
+## [HB 2111](/bill/2023-24/hb/2111/) - Subsidized child care 👍1  
+
+## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention 👍1  
+
+## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍1  
+
+## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍1  
+
+## [HB 2172](/bill/2023-24/hb/2172/) - Vacant state agency property 👍1  
 
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍1  
 
@@ -219,6 +263,8 @@
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍1  
 
+## [SB 5444](/bill/2023-24/sb/5444/) - Firearm sensitive places 👍1  
+
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development   ❓2
 
 ## [SB 5477](/bill/2023-24/sb/5477/) - Murdered indigenous women 👍3  
@@ -246,3 +292,28 @@
 ## [SB 5730](/bill/2023-24/sb/5730/) - Vehicle residences/impound   ❓1
 
 ## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages 👍2  
+
+## [SB 5774](/bill/2023-24/sb/5774/) - Increasing the capacity to conduct timely fingerprint-based background checks for prospective child care employees and other programs. 👍1  
+
+## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave 👍1  
+
+## [SB 5804](/bill/2023-24/sb/5804/) - Concerning opioid overdose reversal medication in high schools. 👍1  
+
+## [SB 5838](/bill/2023-24/sb/5838/) - Establishing an artificial intelligence task force. 👍1  
+
+## [SB 5853](/bill/2023-24/sb/5853/) - Extending the crisis relief center model to provide behavioral health crisis services for minors. 👍1  
+
+## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍1  
+
+## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
+
+## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍1  
+
+## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD 👍1  
+
+## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  
+* 👍 Venu Nemani
+
+## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍1  
+
+## [SB 6024](/bill/2023-24/sb/6024/) - Housing development 👍1  

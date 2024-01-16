@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/10/2024 [MyNorthwest](/org/mynorthwest/) - [Rantz: Wash. Democrats deem ammo a 'privilege' as way to end gun rights - MyNorthwest.com](https://mynorthwest.com/3945835/rantz-wa-democrats-deem-ammo-privilege-ammunition-tax-way-end-gun-rights/#:~:text=HB%201268)
 * 04/10/2023 [MyNorthwest](/org/mynorthwest/) - [Rantz: WA Democrats ban 'hyper-masculine' guns while freeing criminals - MyNorthwest.com](https://mynorthwest.com/3872332/rantz-washington-democrats-ban-guns-violent-criminals-out-of-jail-assault-weapons/#:~:text=HB%201268)
 * 03/11/2023 [House Republicans](/org/house_republicans/) - [House of origin cutoff | Washington State House Republicans](https://houserepublicans.wa.gov/current/house-of-origin-cutoff/#:~:text=House%20Bill%201268)
 * 02/22/2023 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Priority Bills -- current status — Quaker Voice](https://www.quakervoicewa.org/priority-bills-current-status/#:~:text=1268)

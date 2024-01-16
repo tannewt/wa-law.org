@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2041/</link>
 		<description>Updates about HB 2041</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jan 2024 11:43:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -29,6 +29,69 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Health Care &amp; Wellness (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Health Care &amp; Wellness.</title>
+			<description>First reading, referred to Health Care &amp; Wellness.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Health Care &amp; Wellness.</guid>
+		</item>
+		<item>
+			<title>👍Gary Morsch - Docs Who Care</title>
+			<description>Gary Morsch signed up to testify Pro. They are signed up to represent Docs Who Care.</description>
+			<pubDate>Mon, 08 Jan 2024 01:09:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Gary/Morsch/2024-01-08 01:09:36</guid>
+		</item>
+		<item>
+			<title>👍💵Tom Holt - ZoomCare</title>
+			<description>Tom Holt signed up to testify Pro. They are signed up to represent ZoomCare. They are a registered lobbyist.</description>
+			<pubDate>Mon, 08 Jan 2024 01:52:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tom/Holt/2024-01-08 01:52:32</guid>
+		</item>
+		<item>
+			<title>❓💵Alex Wehinger - Washington State Medical Assocation</title>
+			<description>Alex Wehinger signed up to testify Other. They are signed up to represent Washington State Medical Assocation. They are a registered lobbyist.</description>
+			<pubDate>Mon, 08 Jan 2024 08:25:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Alex/Wehinger/2024-01-08 08:25:16</guid>
+		</item>
+		<item>
+			<title>👎Jane Morrow - Washington State Association for Justice</title>
+			<description>Jane Morrow signed up to testify Con. They are signed up to represent Washington State Association for Justice.</description>
+			<pubDate>Mon, 08 Jan 2024 08:39:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jane/Morrow/2024-01-08 08:39:53</guid>
+		</item>
+		<item>
+			<title>👍Ryan Agostinelli - ZoomCare</title>
+			<description>Ryan Agostinelli signed up to testify Pro.</description>
+			<pubDate>Mon, 08 Jan 2024 10:25:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ryan/Agostinelli/2024-01-08 10:25:43</guid>
+		</item>
+		<item>
+			<title>👍💵Chelsea Hager - Contract Lobbyist, Washington Academy of Physician Assistants</title>
+			<description>Chelsea Hager signed up to testify Pro. They are signed up to represent Contract Lobbyist, Washington Academy of Physician Assistants. They are a registered lobbyist.</description>
+			<pubDate>Mon, 08 Jan 2024 11:43:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Chelsea/Hager/2024-01-08 11:43:49</guid>
+		</item>
+		<item>
+			<title>👍Paul Surette - Washington Academy of Physician Assistants</title>
+			<description>Paul Surette signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_academy_of_physician_assistants/&quot;&gt;Washington Academy of Physician Assistants&lt;/a&gt;.</description>
+			<pubDate>Mon, 08 Jan 2024 11:43:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Paul/Surette/2024-01-08 11:43:49</guid>
 		</item>
 	</channel>
 </rss>

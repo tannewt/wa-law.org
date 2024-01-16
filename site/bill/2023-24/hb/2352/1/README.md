@@ -1,0 +1,543 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 2352](/bill/2023-24/hb/2352/) > [Original Bill](/bill/2023-24/hb/2352/1/)
+
+# HB 2352 - College athletes
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/2352.pdf)
+
+## Section 1
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Affiliated medical personnel" means individuals who provide medical, rehabilitation, or athletic training diagnoses, opinions, or services to college athletes, in collaboration with an institution of higher education. "Affiliated medical personnel" include, but are not limited to, physicians, mental health professionals, physical therapists, and athletic trainers. Individuals do not have to receive compensation from an institution of higher education to be affiliated medical personnel.
+
+2. "Aggregate athletic grants" means the total amount of athletic grants that an institution of higher education annually reports pursuant to the federal equity in athletics disclosure act to the United States department of education for each intercollegiate athletics team at the institution. "Aggregate athletic grants" does not include any difference in athletic grant amounts based on cost of attendance disparities between an institution's in-state or out-of-state college athletes.
+
+3. "All revenue" includes revenue that is not allocated by sport pursuant to federal equity in athletics disclosure act reporting standards.
+
+4. "Athletic association" means any organization that is responsible for governing intercollegiate athletic programs.
+
+5. "Athletic grant" means an athletic scholarship or grant that an institution of higher education pays to a college athlete to cover a portion or all of the institution's cost of attendance for a full-time, in-state, on-campus undergraduate student determined pursuant to the federal higher education act of 1965 (Title 20 U.S.C. Sec. 1087ll). An athletic grant may not exceed the institution's cost of attendance.
+
+6. "Athletic program" means an intercollegiate athletic program at an institution of higher education.
+
+7. "College athlete" means a student who is enrolled at an institution of higher education and is listed as a member of an intercollegiate athletic team at the institution. A student's participation in recreational, club, or intramural sports at an institution does not meet the definition of college athlete.
+
+8. "Fair market value compensation" means an amount of compensation for each college athlete who receives an athletic grant that is determined annually by subtracting the intercollegiate athletic team's aggregate athletic grants from one-half of the intercollegiate athletic team's revenue and dividing that difference by the number of athletic grants provided to college athletes on that team. This fair market value compensation calculation does not include revenue that is not allocated by sport.
+
+9. "Fund" means the Washington college athlete protection fund established in section 13 of this act.
+
+10. "Institution of higher education" means any campus of the University of Washington, Washington State University, Eastern Washington University, or any public four-year institution located in Washington that maintains an athletic program.
+
+(l1) "Institutional funds" means the amount of an institution of higher education's revenue that is not derived from any intercollegiate athletics source for an academic year that exceeds the amount of its revenue that did not derive from any intercollegiate athletics source reported for the 2021–22 academic year.
+
+12. "Intercollegiate athlete" means a resident student, as defined in RCW 28B.15.012, who is enrolled at an out-of-state college or university and is listed as a member of an intercollegiate athletics team at the out-of-state college or university. A student's participation in recreational, club, or intramural sports at an out-of-state college or university does not meet the definition of intercollegiate athlete.
+
+13. "Office for civil rights" means the office for civil rights within the United States department of education.
+
+14. "Panel" means the Washington college athlete protection panel established in section 4 of this act.
+
+15. "Program" means the Washington college athlete protection program established in section 4 of this act.
+
+16. "Revenue" means annual intercollegiate athletics revenue as calculated and reported pursuant to the federal equity in athletics disclosure act by an institution of higher education to the United States department of education. "Revenue" includes intercollegiate athletics revenue paid directly by an intercollegiate athletic conference, an athletic association, or a source designated by an institution of higher education, an intercollegiate athletic conference, or an athletic association to cover any athletic program expense or to compensate a college athlete for participating in intercollegiate athletics at the institution.
+
+17. "Title IX" means Title IX of the federal education amendments of 1972 (Title 20 U.S.C. 1681 et seq.).
+
+## Section 2
+1. An institution of higher education shall establish a degree completion fund for its college athletes who receive athletic grants.
+
+2. An institution of higher education shall use degree completion funds to compensate each college athlete who receives an athletic grant at the institution under this chapter.
+
+3. College athletes on the same intercollegiate athletics team at an institution of higher education during the same academic year must be designated an equal payment from that institution's degree completion fund for that academic year.
+
+4. [Empty]
+
+    a. All degree completion funds, up to a maximum of $25,000, must be paid to each college athlete for the college athlete's participation on the intercollegiate athletics team in an academic year.
+
+    b. Commencing on or before July 1, 2025, and every year thereafter, payments described in (a) of this subsection must be made in an amount based on the institution's revenue reported for the previous academic year.
+
+5. An institution of higher education may not use payment designations in its degree completion fund as a reason to reduce or cancel athletic grants provided to any college athlete.
+
+6. [Empty]
+
+    a. All degree completion fund payments determined in subsection (4)(a) of this section must be paid to the college athlete within 60 days of the college athlete earning a baccalaureate degree or submitting proof, as determined by the panel, of having a severe medical condition that prevents the college athlete from completing a baccalaureate degree program.
+
+    b. All degree completion fund payments designated for a college athlete who transferred to another institution of higher education or an out-of-state college or university must be paid to the college athlete within 60 days of the college athlete earning a baccalaureate degree or submitting proof, as determined by the panel, of having a severe medical condition that prevents the athlete from completing a baccalaureate degree program.
+
+7. [Empty]
+
+    a. An institution of higher education shall accurately account its aggregate athletic grants and revenue. An institution may not undercount, overcount, or fail to accurately categorize its aggregate athletic grants or revenue.
+
+    b. The panel may audit an institution of higher education's aggregate athletic grant and revenue accounting methods, materials, and information to ensure compliance with this section. This audit may include review of the institution's aggregate athletic grant and revenue accounting methods reported by the institution in its previous revenue reports. This subsection may only be implemented in a manner that protects the personally identifiable information of college athletes consistent with state and federal privacy laws.
+
+8. All degree completion fund payments determined in subsection (4)(a) of this section designated for a college athlete must be forfeited if the college athlete does not complete a baccalaureate degree program within six years of college enrollment or submit proof, as determined by the panel, of having a severe medical condition that prevents the college athlete from completing a baccalaureate degree program. All forfeited funds must be deposited in the institution's degree completion fund and used for degree completion fund payments to college athletes pursuant to this section.
+
+9. [Empty]
+
+    a. In making annual degree completion fund payment designations under this section, an institution of higher education shall use all revenue reported for an academic year that exceeds all revenue reported for the 2023 academic year. The institution does not have to pay any remaining fair market value compensation owed to a college athlete into the degree completion fund if all the conditions in this subsection and subsection (11) of this section are satisfied.
+
+        i. Except as provided in (a)(vi) of this subsection the institution shall use the difference in revenue calculated under this subsection (9)(a), in its entirety, to make degree completion fund payment designations.
+
+        ii. The institution shall make, in aggregate, for an academic year, one-half of the total amount of degree completion fund payment designations for its female college athletes, and one-half of the total amount of degree completion fund payment designations for its male college athletes.
+
+        iii. From the portion of the total amount allocated for female college athletes pursuant to (a)(ii) of this subsection, the institution shall make degree completion fund payment designations for female college athletes on each women's intercollegiate athletics team who have not received fair market value compensation for the academic year. In making the degree completion fund payment designations, the institution shall:
+
+(A) Determine the percentage of the total fair market value compensation owed to female college athletes on each women's intercollegiate athletics team at the institution that represents the total fair market compensation owed to all female college athletes at the institution, regardless of sport;
+
+(B) Ensure that female college athletes on the same women's intercollegiate athletics team, regardless of sport, collectively receive the percentage determined under (a)(iii)(A) of this subsection of the total amount designated for female college athletes under (a)(ii) of this subsection; and
+
+(C) Pay each of its female college athletes who receive an athletic grant an equal amount of the portion for female college athletes pursuant to (a)(ii) of this subsection if the portion of the total amount allocated for female college athletes pursuant to (a)(ii) of this subsection exceeds the total aggregate fair market value compensation owed to all female college athletes on women's intercollegiate athletics teams at the institution, regardless of sport.
+
+        iv. From the portion of the total amount allocated for male college athletes pursuant to subsection (a)(ii) of this subsection, the institution shall make degree completion fund payment designations for male college athletes on each men's intercollegiate athletics team who have not received fair market compensation. In making the degree completion fund payment designations, the institution shall:
+
+(A) Determine the percentage of the total fair market compensation owed to male college athletes on each men's intercollegiate athletics team at the institution that represents the total fair market compensation owed to all male college athletes at the institution, regardless of sport;
+
+(B) Ensure that male college athletes on the same men's intercollegiate athletics team, regardless of sport, collectively receive the percentage determined pursuant to (a)(iv)(A) of this subsection of the total amount designated for male college athletes pursuant to (a)(ii) of this subsection; and
+
+(C) Pay each of its male college athletes who receive an athletic grant an equal amount of the portion for male college athletes pursuant to (a)(ii) of this subsection if the portion of the total amount allocated for male college athletes pursuant to (a)(ii) of this subsection exceeds the total aggregate fair market value compensation owed to all male college athletes on men's intercollegiate athletics teams at the institution, regardless of sport.
+
+    v. Except to comply with (a)(iii) and (iv) of this subsection and subsection (11) of this section, degree completion fund payment designations may not result in any college athlete being designated more than fair market value compensation for any academic year.
+
+    vi. Notwithstanding (a)(i) of this subsection, an institution of higher education that gives fair market compensation to all of its male and female college athletes and complies with this section may use any remaining revenue for other purposes as determined by the institution.
+
+    vii. An institution may spend institutional funds on intercollegiate athletic expenses without the funds counting as revenue if, within the academic year, the institutional funds are exhausted or the institutional funds are unused and do not remain in an athletic team's or athletic program's budget. This subsection authorizes an institution to increase athletics spending for athletic program needs without including it in revenue directed to degree completion funds pursuant to this section.
+
+    viii. The amount of funds that an institution paid for any athletic team's expenses for the 2023 academic year must be included as revenue for that academic year, even if the institution did not count the funds as revenue for that academic year.
+
+        ix. Notwithstanding (a)(viii) of this subsection, the amount of funds that an institution paid for any athletic team's nonregular capital expenses for the 2023 academic year may not be included as revenue for that academic year, even if the institution counted the funds as revenue for that academic year.
+
+    b. An institution may opt to pay program fees pursuant to this chapter before using revenue described in (a) of this subsection for degree completion fund payment designations for college athletes.
+
+10. Degree completion funds are the property of college athletes and not the property of institutions of higher education. Institutions of higher education shall have a fiduciary duty to their college athletes to manage these funds.
+
+11. Notwithstanding any other subsection of this section, if an institution of higher education deems it necessary, the institution shall adjust the amounts of degree completion fund payment designations to comply with Title IX financial aid proportionality comparisons in athletics. For any adjustment made pursuant to this subsection, the institution shall comply with the following requirements:
+
+    a. The aggregate total amount of degree completion fund payment designations made to the institution's college athletes may not be reduced;
+
+    b. The institution shall comply with Title IX financial aid proportionality comparisons in athletics independent of degree completion fund payment designations; and
+
+    c. On or before January 1, 2025, and every year thereafter, the institution shall publish on its website and submit to the panel a written explanation of why an adjustment made pursuant to this subsection is necessary to comply with Title IX proportionality comparisons in athletics, and include both of the following in this written explanation:
+
+        i. Published communications, determinations, and rulings by the office for civil rights used as the basis for the adjustment, as applicable; and
+
+        ii. The amount of funds in aggregate and per college athlete directed from college athletes in one sport to college athletes in another sport, the names of each sport involved in the adjustment, and the corresponding fair market value compensation paid to college athletes in each sport involved in the adjustment. This subsection may only be implemented in a manner that protects the personally identifiable information of college athletes consistent with state and federal privacy laws.
+
+12. Degree completion fund payment designations or payments may not serve as evidence of an employment relationship.
+
+13. Within 15 days of making degree completion fund payment designations pursuant to this section, each institution of higher education shall submit annually to the panel a list of all college athletes qualifying for a degree completion fund payment designation, each qualifying college athlete's intercollegiate team, the amount paid to each qualifying college athlete, and the aggregate amount paid to qualifying college athletes by team. This subsection may only be implemented in a manner that protects the personally identifiable information of college athletes consistent with state and federal privacy laws.
+
+14. An institution of higher education and its personnel may not make, or attempt to make, formal or informal agreements, policies, or practices with other institutions of higher education, out-of-state colleges and universities, athletic conferences, and athletic associations or their personnel, or other entities with intercollegiate athletics governance powers, to determine degree completion fund payment amounts to college athletes.
+
+15. This section only applies to an institution of higher education with an intercollegiate sports team that participated in a national collegiate athletic association Division I sport on or after January 1, 2023.
+
+## Section 3
+1. An institution of higher education shall distribute a notice to each college athlete at the institution containing the following information:
+
+    a. A college athlete's rights pursuant to Title IX of the federal education amendments of 1972 (Title 20 U.S.C. Sec. 1681 et seq.);
+
+    b. An individual notice stating: "All students have the right to report a sexual assault, without retaliation, to law enforcement, the United States department of justice, the United States department of education's office for civil rights, (insert name of institution) mandated reporters, (insert name of institution) Title IX office, and the program director";
+
+    c. A college athlete's rights pursuant to the federal Jeanne Clery disclosure of campus security policy and campus crime statistics act (Title 20 U.S.C. Sec. 1092(f));
+
+    d. A college athlete's rights under this chapter; and
+
+    e. Any additional rights that Washington affords specifically to college athletes.
+
+2. The notice distributed pursuant to subsection (1) of this section must contain sufficient information to enable a college athlete to file a complaint for a violation of any of the rights identified in the notice. This information must include, but is not limited to:
+
+    a. The telephone number used by the office for civil rights for complaint reporting intake, and the telephone number of the office for civil rights regional enforcement office;
+
+    b. The internet website address of the office for civil rights online complaint form for Title IX complaint reporting;
+
+    c. The internet website address used by the United States department of education for reporting violations of the federal Jeanne Clery disclosure of campus security policy and campus crime statistics act (Title 20 U.S.C. Sec. 1092(f));
+
+    d. A list of the job classifications employed by the institution that are deemed mandated reporters pursuant to RCW 28B.10.846 and the obligations of these mandated reporters;
+
+    e. The telephone number and internet website address for the program, once the program is operational pursuant to this chapter; and
+
+    f. The telephone number of the United States department of justice.
+
+3. An institution of higher education shall post on campus in conspicuous locations frequented by college athletes including, but not limited to, the institution's athletic training facilities, the notice distributed pursuant to this section.
+
+4. Upon the commencement of each academic year, the institution of higher education shall provide each college athlete a copy of the notice described in this section.
+
+## Section 4
+1. The Washington college athlete protection program is hereby established as a program in the student achievement council.
+
+2. The Washington college athlete protection panel shall administer the program. The panel is housed in the student achievement council.
+
+    a. The 11 member panel is appointed as follows:
+
+        i. Five members appointed by the governor;
+
+        ii. Three members appointed by the speaker of the house of representatives; and
+
+        iii. Three members appointed by the president of the senate.
+
+    b. The 11 member panel must consist of at least one former college athlete with experience in college athlete protection advocacy.
+
+3. Panel members must be voluntary positions that receive per diem and paid travel accommodations, as determined by the program director. One member must be appointed by a majority vote of the panel's members to serve as chair of the panel.
+
+4. [Empty]
+
+    a. The student achievement council shall hire and determine compensation for a program director. The director is a full-time position and serves a six-year term that may be renewed with no term limits. The director shall hire additional staff to assist in the implementation and enforcement of this chapter.
+
+    b. The program director shall provide panel members with the information necessary to fulfill their duties pursuant to this chapter.
+
+    c. The panel shall consult with the program director when establishing program regulations, standards, and policies pursuant to this chapter.
+
+    d. The program director may engage with intercollegiate athletics stakeholders, including state and federal legislators and agencies, to provide information and encourage policies and action to support the implementation, operation, and expansion of college athlete rights and protections pursuant to this act.
+
+5. [Empty]
+
+    a. A panel member on the initial 11 member board shall serve a four-year, five-year, or six-year term, as determined by the appointing authority. The 11 member panel's members must serve staggered terms.
+
+    b. All subsequent appointments made after the initial 11 member panel is appointed must be six-year terms with no term limits.
+
+    c. A panel member and the program director may be reappointed to their position or appointed to a new position pursuant to this subsection.
+
+6. If possible, a panel member and the program director should not have served, within five years of being appointed as a panel member or hired as the program director, respectively, as an affiliated medical personnel, employee, or member of a governing body of an institution of higher education, an out-of-state college or university that has an intercollegiate sports program, an intercollegiate sports conference, or an intercollegiate sports association.
+
+7. The racial, ethnic, gender, and geographic diversity of Washington may be considered by the appointing authority when appointing panel members.
+
+8. The panel may consist of the following subpanels:
+
+    a. If established and maintained, the college athlete protection recruiting transparency subpanel, which is encouraged to consist of:
+
+        i. One member with expertise in contract law;
+
+        ii. One member with expertise in college sports recruiting;
+
+        iii. One member with expertise in college athlete publicity rights law; and
+
+        iv. One member who is a former college athlete with experience in the recruiting process.
+
+    b. If established and maintained, the college athlete protection certification subpanel, which is encouraged to consist of:
+
+        i. One member with expertise in sports agent certification;
+
+        ii. One member with expertise in financial advising standards;
+
+        iii. One member with expertise in marketing standards; and
+
+        iv. One member who is a former college athlete with experience in agreements related to college athlete protection certification duties.
+
+    c. If established and maintained, the general college athlete protection subpanel, which is encouraged to consist of:
+
+        i. One member with expertise in health care administration, medical claims, and the federal health insurance portability and accountability act of 1996;
+
+        ii. One member with expertise in compliance with Title IX in athletics;
+
+        iii. One member who is a certified public accountant with expertise in corporate financial audits and corporate compliance investigations;
+
+        iv. One member with expertise in arbitration;
+
+    v. One member with expertise in grievance and appeals processes; and
+
+    vi. One member with expertise in producing educational materials.
+
+9. The panel shall have the following enforcement duties and powers:
+
+    a. Receive, track, and investigate complaints regarding reported violations of this act;
+
+    b. Issue subpoenas, if necessary, to obtain information necessary to carry out its duties pursuant to this act;
+
+    c. Require an institution of higher education and out-of-state college or university that is subject to this act to provide athletic grants, make payments for college athlete medical coverage and expenses, and provide other remedies that the panel deems necessary to ensure compliance with this chapter;
+
+    d. [Empty]
+
+        i. Refer individuals, institutions of higher education, and out-of-state colleges and universities that are subject to this act who do not comply with a panel penalty or remedy imposed pursuant to subsection (10) of this section to the attorney general for prosecution, as appropriate;
+
+        ii. The attorney general may prosecute individuals and entities that do not comply with a panel penalty or remedy, as appropriate;
+
+    e. Determine the best practices guidelines, policies, or other informational materials that may benefit high school athletes and high school sports programs, and make them available and easily accessible to the public;
+
+    f. At its discretion, implement collaborative and cost-reduction efforts with other states, local governments, intercollegiate sports conferences, intercollegiate sports associations, or other stakeholders to help protect the well-being of intercollegiate athletes in other states;
+
+    g. Hold quarterly meetings;
+
+    h. Distribute, on or before December 1, 2025, and each year thereafter, an annual report to each institution of higher education, intercollegiate athletic conference, athletic association, and the legislature pursuant to RCW 43.01.036, on the state of college athlete protections established pursuant to this chapter;
+
+        i. Communicate with the legislature about ways to improve this chapter; and
+
+    j. Upon appropriation by the legislature, use funds in the fund to execute its duties and powers under this act.
+
+10. [Empty]
+
+    a. In addition to any other remedy or penalty authorized by law, individuals who violate this act may be subject to remedies and penalties established pursuant to regulations adopted by the panel. These regulations must include a system to appeal the panel's rulings. Penalties and remedies established by the panel may include one or more of the following:
+
+        i. Training to help prevent future violations;
+
+        ii. Temporary or permanent prohibition from being involved in intercollegiate athletics at any institution of higher education; and
+
+        iii. Other penalties and remedies imposed by the panel.
+
+    b. The panel shall consider the following factors when imposing penalties and remedies for a violation of this act:
+
+        i. The number and duration of violations;
+
+        ii. Whether the violation was the result of an intentional or negligent action; and
+
+        iii. The nature and extent of harm caused by the violation.
+
+## Section 5
+1. [Empty]
+
+    a. An institution of higher education that reports $20,000,000 or more in annual revenue to the United States department of education is financially responsible for the out-of-pocket sports-related medical expenses of each college athlete at the institution, and during the two-year period beginning on the date on which the college athlete officially becomes a former college athlete.
+
+    b. The liability in (a) of this subsection does not apply to a college athlete who transfers to another institution of higher education or out-of-state college or university and participates on an intercollegiate athletics team at that institution.
+
+    c. The liability in (a) of this subsection does not apply to a college athlete's medical expenses for medical conditions unrelated to the college athlete's intercollegiate sports participation that arise after the expiration of the college athlete's intercollegiate athletics eligibility.
+
+2. [Empty]
+
+    a. An institution of higher education that reports $50,000,000 or more in annual revenue to the United States department of education shall:
+
+        i. Offer nationally portable primary medical insurance to each college athlete who is enrolled at the institution. The institution must pay for this insurance. The institution may not discourage a college athlete from accepting this insurance; and
+
+        ii. Pay the out-of-pocket sports-related medical expenses of each college athlete at the institution, and during the four-year period beginning on the date the college athlete officially becomes a former college athlete.
+
+    b. The requirements in (a) of this subsection do not apply to a college athlete that transfers to another institution of higher education or out-of-state college or university and participates on an intercollegiate athletics team at that institution.
+
+    c. The requirements in (a) of this subsection do not apply to a college athlete's medical expenses for medical conditions unrelated to the college athlete's intercollegiate sports participation that arise after the expiration of the college athlete's intercollegiate athletics eligibility.
+
+3. If a college athlete at an institution of higher education that is responsible for the college athlete's medical expenses pursuant to subsection (1) or (2) of this section chooses to receive medical care that is not provided pursuant to subsection (1) or (2) of this section or is not otherwise provided or paid for by the institution, the institution shall offer to the college athlete to pay an amount that is the lesser of the following:
+
+    a. The out-of-pocket expenses for that medical care; or
+
+    b. The amount the institution would have paid if the college athlete had received the medical care provided or paid for by the institution.
+
+4. [Empty]
+
+    a. An institution of higher education shall pay for a college athlete to obtain an independent second opinion on an athletic program-related injury or medical condition endured by the college athlete.
+
+    b. Institution of higher education personnel and affiliated medical personnel may not withhold a college athlete's medical or athletic training records if the college athlete requests that those records be released to obtain an independent second opinion pursuant to (a) of this subsection, or otherwise impede a college athlete's right to obtain an independent second opinion pursuant to (a) of this subsection.
+
+5. [Empty]
+
+    a. No later than three days after the end of a college athlete's team's season in the final year of the college athlete's intercollegiate athletics eligibility, or in the case of a transfer, no later than three days after the institution's receipt of a college athlete's notice of intent to transfer to another college or university, an institution of higher education shall provide the college athlete notice of, and an opportunity to undergo, a physical examination within or independent of the institution for the purpose of diagnosing an athletic program-related injury or medical condition.
+
+    b. Institution of higher education personnel and affiliated medical personnel may not discourage a college athlete or former college athlete from obtaining a physical examination pursuant to (a) of this subsection.
+
+    c. A former college athlete must be provided no less than 60 days to complete a physical examination pursuant to (a) of this subsection.
+
+## Section 6
+1. [Empty]
+
+    a. An institution of higher education that provides a college athlete with an athletic grant shall provide the college athlete with an athletic grant for each subsequent year in which the college athlete is enrolled at the institution for up to six academic years of college attendance, or until the college athlete receives a baccalaureate degree from the institution, whichever occurs first. The athletic grant must be provided regardless of the college athlete's lack of participation due to injury or poor athletic performance on an intercollegiate athletics team at the institution.
+
+    b. The amount of an athletic grant provided to a college athlete each subsequent award year must be no less than the sum of the amount of the athletic grant provided to the college athlete for the previous year plus the amount of any increase in the cost of attendance at the institution from the previous year to the subsequent award year.
+
+2. [Empty]
+
+    a. A college athlete who transfers to an institution of higher education must receive an athletic grant in an amount determined pursuant to subsection (1) of this section for up to one academic year beyond the college athlete's remaining intercollegiate athletics eligibility in which the college athlete is enrolled at the institution, or until the college athlete receives a baccalaureate degree from the institution, whichever occurs first.
+
+    b. Unless a college athlete is granted a leave of absence in accordance with the institution of higher education's leave of absence policies that apply to the general student body, subsection (1) of this section only applies to a college athlete who is enrolled as a full-time or part-time student for each regular academic term of an award year.
+
+    c. Subsection (1) of this section does not apply to a college athlete who provides a written notice of voluntary withdrawal from an intercollegiate athletics team at the institution, or who fails to consistently participate in mandatory team athletics activities for nonmedical reasons after having been fully informed that the athlete's participation in those activities is mandatory.
+
+    d. Subsection (1) of this section does not apply to a college athlete who:
+
+        i. Is found by the institution of higher education to have committed academic fraud or other misconduct that would ordinarily result in expulsion;
+
+        ii. Earns a grade point average of less than the grade point average required for the college athlete to maintain intercollegiate athletics eligibility for two or more semesters;
+
+        iii. Fails to meet intercollegiate athletic association progress toward degree completion requirements; or
+
+        iv. Is found guilty of a criminal act by a court.
+
+3. Subsections (1) and (2) of this section apply only to an institution of higher education with an intercollegiate sports team that participated in a national collegiate athletic association Division I sport on or after January 1, 2023.
+
+4. An individual employed by or volunteering for an athletic program at an institution of higher education may not:
+
+    a. Attempt to discourage or in any way punish a college athlete from selecting a course or an academic major unless it prevents the college athlete from intercollegiate athletic association progress towards baccalaureate or postgraduate degree completion; or
+
+    b. Punish, reduce intercollegiate athletics eligibility, or otherwise retaliate against a college athlete based on the college athlete's selection of any course, academic major, or baccalaureate or postgraduate degree program at the institution.
+
+5. An individual employed by an athletic program at an institution of higher education may not interfere with or discourage any college athlete from securing employment or internships, participating in student groups or events, or serving as a volunteer so long as those activities do not interfere with mandatory class time, examination periods, or the athletic program's mandatory team activities.
+
+6. An institution of higher education may not comply with any athletic association's or athletic conference's policy that does not count completed high school financial education and personal finance coursework toward athletic eligibility standards for incoming college athletes.
+
+7. An institution of higher education may not reduce any discretionary revenue during the academic year below the discretionary revenue reported for the 2022–23 academic year.
+
+8. An institution of higher education may not reduce any aggregate funds for any college athlete's academic, medical, mental health, athletic training, or nutritional support, eliminate roster slots on any intercollegiate athletics team, reduce aggregate athletic grant amounts, or eliminate any intercollegiate athletics sport entirely that existed during the 2022–23 academic year.
+
+9. Subsections (7) and (8) of this section do not apply to an institution of higher education that is unable to generate, for an academic year, all revenue in an amount that meets or exceeds all revenue reported for the 2022-23 academic year due to war, civil unrest, or fire, flood, or other unforeseen disaster or cause beyond the institution's control as determined by the panel.
+
+## Section 7
+1. [Empty]
+
+    a. An institution of higher education or an out-of-state college or university conducting college athlete recruiting activities in the state shall submit, as determined by the panel or, if established and maintained, the recruiting transparency subpanel, the following information to the panel or subpanel:
+
+        i. A complete list of companies and industries that the institution prohibits a prospective college athlete from entering into a name, image, and likeness agreement with as a college athlete or intercollegiate athlete;
+
+        ii. Whether the institution of higher education or out-of-state college or university may interfere with or otherwise attempt to influence a prospective college athlete's, college athlete's, or intercollegiate athlete's choice of athlete representation;
+
+        iii. Whether the institution of higher education or out-of-state college or university may limit a prospective athlete's, college athlete's, or intercollegiate athlete's representation to name, image, and likeness activities; and
+
+        iv. Whether the institution of higher education or out-of-state college or university receives any payment or benefit from an individual or entity in exchange for granting the individual or entity access to their college athletes or intercollegiate athletes for any name, image, and likeness-related purpose.
+
+    b. The panel or, if established and maintained, the recruiting transparency subpanel, shall solicit the information described in subsection (1) of this section and post information obtained on a publicly accessible website for prospective college athletes, college athletes, and intercollegiate athletes. The information described in subsection (1) of this section must be regularly updated.
+
+2. An institution of higher education may only use a document created by the panel or, if established and maintained, the recruiting transparency subpanel to offer an athletic grant or intercollegiate athletics participation opportunity to a prospective college athlete. A document developed pursuant to this section may be annually updated by the panel or, if established and maintained, the recruiting transparency subpanel and must include, but is not limited to, the following disclosures:
+
+    a. The amount of intercollegiate sports grants to be offered to the prospective college athlete, relative to the most recent cost of attendance at the institution, for each academic year of the prospective athlete's intercollegiate athletics eligibility;
+
+    b. The total amount of possible annual education-related compensation allowable in accordance with the United States supreme court decision in National Collegiate Athletic Association v. Alston, 141 S. Ct. 2141 (2021) and the annual amount of education-related compensation to be offered to the prospective college athlete at the institution throughout the prospective college athlete's intercollegiate athletics eligibility;
+
+    c. The amount of an intercollegiate sports grant, if any, that will be provided to assist the prospective college athlete with undergraduate and graduate school degree completion at the institution following the expiration of the college athlete's intercollegiate athletics eligibility;
+
+    d. The percentage of comprehensive medical coverage, including any minimum required coverage to participate in intercollegiate athletics and enroll as a student at the institution, that will be paid for by the institution throughout the college athlete's intercollegiate athletics eligibility;
+
+    e. The percentage of any out-of-pocket sports-related medical expenses, including deductibles, copays, and coinsurance, that will be paid by the institution during the college athlete's intercollegiate athletics eligibility, and the duration for which those expenses will be covered after the prospective athlete's intercollegiate athletics eligibility expires. The percentage of out-of-pocket sports-related medical expenses covered by the institution's in-network and out-of-network services must be stated on the panel's website pursuant to this section;
+
+    f. Whether the institution will pay for a disability insurance policy for the college athlete in order to cover any future loss of earnings by the athlete due to a sports-related injury or medical condition, and any limits to that policy's benefits or coverage, including the maximum possible benefits based on similarly situated college athletes;
+
+    g. A list of all colleges and universities, if any, that the institution will not allow the athlete to freely transfer to once the agreement to attend the institution is executed; and
+
+    h. The information described in subsection (1) of this section, as determined by the panel or, if established and maintained, the recruiting transparency subpanel, at the beginning of the first page of a document provided to a college athlete pursuant to this subsection.
+
+3. This section does not prohibit an institution of higher education or out-of-state college or university that is subject to this section from providing protections or benefits that exceed those required by this section.
+
+## Section 8
+1. The panel or, if established and maintained, the certification subpanel, shall certify an individual or entity to provide intercollegiate athletics agent, marketing, and financial advising services to college athletes.
+
+2. No later than six months after the launch of the panel's or, if established and maintained, the certification subpanel's, certification operations, an individual or entity may not provide intercollegiate athletics agent, marketing, or financial advising services to college athletes without the panel or, if established and maintained, the certification subpanel's certified approval or receipt of other certification to provide those services established under law.
+
+3. The panel or, if established and maintained, the certification subpanel shall develop and adopt standards to:
+
+    a. Certify:
+
+        i. College athlete agents;
+
+        ii. Agencies and entities that employ college athlete agents;
+
+        iii. Attorneys that represent college athletes in name, image, and likeness contracts. This subsection (1)(a)(iii) does not replace or preempt any other state or local regulation of attorneys in the state; and
+
+        iv. Individuals and entities that provide financial advising or marketing services to college athletes. This subsection (1)(a)(iv) does not replace or preempt any federal, state, or local regulation of financial advising or marketing services in the state;
+
+    b. Revoke certifications provided pursuant (a) of this subsection; and
+
+    c. Protect college athletes from unfair fees and conditions for intercollegiate athletics agent, marketing, and financial advising services.
+
+4. [Empty]
+
+    a. The panel or, if established and maintained, the certification subpanel may assess certification fees, certification renewal fees, fines, and penalties on individuals and entities that do not comply with the standards developed and adopted pursuant to subsection (3) of this section. Fees assessed by the panel or, if established and maintained, the certification subpanel pursuant to this section must not exceed the reasonable regulatory costs incurred by the panel or, if established and maintained, the certification subpanel incident to issuing certifications, performing investigations, inspections, and audits related to certification, and the administrative enforcement and adjudication of the certification process.
+
+    b. The panel or, if established and maintained, the certification subpanel shall develop an appeals process for an individual or entity to challenge a certification denial or revocation or any fee, fine, or penalty levied against the individual or entity pursuant to (a) of this subsection.
+
+    c. Fees and fines collected pursuant to this subsection (4) must be deposited in the fund established in section 13 of this act.
+
+5. The panel or, if established and maintained, the certification subpanel may not adopt a standard pursuant to this section that requires an individual to have a baccalaureate degree, an associate's degree, or a graduate degree to provide athletic agency, marketing, or financial advising services to college athletes.
+
+6. Notwithstanding any other provision of this chapter, the panel or, if established and maintained, the certification subpanel may authorize individuals and entities who have college athlete representation certifications issued by other states or entities to operate as college athlete representatives without obtaining certification from the panel or, if established and maintained, the certification subpanel or paying certification fees assessed by the panel or, if established and maintained, the certification subpanel.
+
+    a. The panel or, if established and maintained, the certification subpanel may enter into collaborative college athlete certification program agreements with other states or entities.
+
+    b. To prevent conflicts of interest, the panel or, if established and maintained, the certification subpanel may not certify college athlete representation provided by an institution of higher education, an out-of-state college or university, an intercollegiate athletic conference, or an athletic association.
+
+7. The panel or, if established and maintained, the certification subpanel shall adopt regulations for purposes of implementing and enforcing this chapter, as necessary.
+
+## Section 9
+1. On or before January 15, 2025, and annually thereafter, each institution of higher education with an intercollegiate sports team that participated in a national collegiate athletic association Division I sport on or after January 1, 2023, shall pay an annual fee to the student achievement council, in an amount determined by the panel pursuant to subsection (2) of this section, to cover the reasonable regulatory costs of the program. The annual fees collected pursuant to this section must not exceed $7,000,000 in aggregate per year. The panel may increase the annual fee limit to account for inflation. The annual fees must be deposited in the fund established in section 13 of this act.
+
+2. The panel shall base the annual fees on each institution's total athletics revenue in the most recently published report that was submitted pursuant to the federal equity in athletics disclosure act to the United States department of education. The panel shall establish the annual fees pursuant to the following requirements, and may adjust these fees, without exceeding the annual aggregate limit determined pursuant to subsection (1) of this section:
+
+    a. Institutions of higher education with athletics revenue of less than $2,499,999 shall each pay an annual fee of up to $100;
+
+    b. Institutions of higher education with athletics revenue between $2,500,000 and $19,999,999, inclusive, shall each pay an annual fee of up to 0.01 percent of their total athletics revenue from the previous year;
+
+    c. Institutions of higher education with athletics revenue between $20,000,000 and $29,999,999, inclusive, shall each pay an annual fee of up to 0.1 percent of their total athletics revenue from the previous year;
+
+    d. Institutions of higher education with athletics revenue between $30,000,000 and $59,999,999, inclusive, shall each pay an annual fee of up to 0.3 percent of their total athletics revenue from the previous year;
+
+    e. Institutions of higher education with athletics revenue of at least $60,000,000 shall each pay an annual fee of up to 1.3 percent of their total athletics revenue from the previous year; and
+
+    f. Notwithstanding (a) through (e) of this subsection, two-year institutions of higher education shall each pay an annual fee of up to $100.
+
+3. [Empty]
+
+    a. Notwithstanding subsections (1) and (2) of this section, for the first year in which an annual fee is assessed on institutions of higher education, an institution of higher education's annual fee must be the maximum amount that may be assessed to the institution pursuant to subsection (2) of this section.
+
+    b. [Empty]
+
+        i. If the total amount of annual fees collected pursuant to (a) of this subsection exceeds the reasonable regulatory costs of the program, up to $7,000,000, the program director shall return from the fund, upon appropriation by the legislature, one-half of the annual fee paid by institutions of higher education pursuant to the following priority schedule until the total amount exceeding the reasonable regulatory costs of the program, up to $7,000,000, is returned:
+
+(A) Institutions described in subsection (2)(a) and (f) of this section receive first priority;
+
+(B) Institutions described in subsection (2)(b) of this section receive second priority;
+
+(C) Institutions described in subsection (2)(c) of this section receive third priority;
+
+(D) Institutions described in subsection (2)(d) of this section receive fourth priority; and
+
+(E) Institutions described in subsection (2)(e) of this section receive fifth priority.
+
+        ii. It is the intent of the legislature that the program director return annual fees pursuant to this subsection within 60 days of being hired.
+
+## Section 10
+1. Each institution of higher education with an intercollegiate sports team that participated in a national collegiate athletic association Division I sport on or after January 1, 2023, shall administer a standalone financial and life skills development workshop program that each college athlete at the institution must attend during the college athlete's first and third year of participation in an athletics program at the institution.
+
+2. A program developed pursuant to this section must include, but is not limited to, information on:
+
+    a. The rights of college athletes under this act; and
+
+    b. State and federal tax information, including name, image, and likeness-related taxes, time management skills, personal budgeting, debt management, credit management, and interest rates information.
+
+3. A program developed pursuant to this section may not include any marketing, advertising, referral, or solicitation by providers of commercial products or services.
+
+## Section 11
+An institution of higher education may not uphold any rule, requirement, standard, or other limitation that prevents a college athlete at the institution from fully participating in intercollegiate athletics for any of the following:
+
+1. For receiving food, shelter, medical expenses, or medical or disability insurance from any source;
+
+2. For receiving payment to cover expenses, direct provisions, or in-kind benefits from any source for purposes of transportation, room, board, and incidentals at college, or for purposes of meeting with legislators, providing testimony, or meeting with government agencies regarding intercollegiate athletics; or
+
+3. For a college athlete's family member or friend receiving payment, direct provisions, or in-kind benefits from any source for transportation, room, board, and incidentals to reasonably support the college athlete during any period in which the college athlete is addressing a physical or mental health concern.
+
+## Section 12
+1. An institution of higher education and the institution's employees, coaches, and affiliated medical personnel may not retaliate against a college athlete for filing a complaint or reporting a violation of a college athlete's rights under this act.
+
+2. For purposes of this act, "retaliation" includes:
+
+    a. A reduction in or loss of playing time that is not justified by objective measures of athletic performance or compliance with team or the institution of higher education's policies that do not conflict with this act or any federal or state laws;
+
+    b. A reduction in or loss of any education benefits, including athletic grants, merit-based scholarships, or any other compensation;
+
+    c. A reduction in or loss of any meal benefits provided to the college athlete;
+
+    d. A reduction in or loss of any housing benefits provided to the college athlete, including the relocation of the college athlete's housing owned by the institution of higher education;
+
+    e. A reduction in or loss of athletics or team communications, academic support or records, access to training facilities, or medical treatment;
+
+    f. Pressure to not file a complaint or to withdraw a complaint; or
+
+    g. Threats, ridicule, or physical punishment.
+
+## Section 13
+The Washington college athlete protection fund is hereby established in the custody of the state treasurer. The panel shall administer the fund. The fund serves as the repository for all moneys appropriated or collected pursuant to this act, except for moneys described in section 2 of this act. Moneys in the fund may be used, upon appropriation by the legislature, by the panel or a subpanel established pursuant to section 4 of this act for purposes of implementing and enforcing this act. Up to five percent of moneys in the fund, unless otherwise encumbered, may be used, upon appropriation by the legislature, by the panel or a subpanel established pursuant to section 4 of this act for administrative costs of implementing and enforcing this act.
+
+## Section 14
+The student achievement council may adopt and amend rules as necessary to implement this chapter.
+
+## Section 15
+This chapter does not limit the enforcement authority of any state or federal agency or shield violators of this act from liability.
+
+## Section 16
+This act may be known and cited as the college athlete protection act.
+
+## Section 17
+If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+
+## Section 19
+(1) Money in the treasurer's trust fund may be deposited, invested, and reinvested by the state treasurer in accordance with RCW 43.84.080 in the same manner and to the same extent as if the money were in the state treasury, and may be commingled with moneys in the state treasury for cash management and cash balance purposes.
+
+## Section 20
+(1) Money in the treasurer's trust fund may be deposited, invested, and reinvested by the state treasurer in accordance with RCW 43.84.080 in the same manner and to the same extent as if the money were in the state treasury, and may be commingled with moneys in the state treasury for cash management and cash balance purposes.
+
+## Section 21
+(1) Money in the treasurer's trust fund may be deposited, invested, and reinvested by the state treasurer in accordance with RCW 43.84.080 in the same manner and to the same extent as if the money were in the state treasury, and may be commingled with moneys in the state treasury for cash management and cash balance purposes.
+
+## Section 22
+(2) Section 20 of this act expires July 1, 2030.
+
+## Section 23
+(1) Section 20 of this act takes effect July 1, 2024.

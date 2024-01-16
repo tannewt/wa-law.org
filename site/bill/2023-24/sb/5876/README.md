@@ -7,3 +7,12 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/15 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5876 Ecosystem investment grants
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 2 ❓ - Other
+Testifying:
+* Don Gourlie - Puget Sound Partnership
+* Brock Milliern - Recreation Conservation Office

@@ -1,6 +1,7 @@
 # Harmony Farms
 
-## [HB 1341](/bill/2023-24/hb/1341/) - Cannabis license ownership 👍1  
+## [HB 1341](/bill/2023-24/hb/1341/) - Cannabis license ownership 👍2  
+* 👍💵 Lukas Hunter
 * 👍💵 Lukas Hunter
 
 ## [HB 1453](/bill/2023-24/hb/1453/) - Medical cannabis/tax 👍1  
@@ -18,6 +19,24 @@
 * 👎💵 Lukas Hunter
 
 ## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions 👍1  
+* 👍💵 Lukas Hunter
+
+## [HB 2151](/bill/2023-24/hb/2151/) - Reassigning the accreditation of private cannabis testing laboratories from the department of ecology to the department of agriculture. 👍1  
+* 👍💵 Lukas Hunter
+
+## [HB 2182](/bill/2023-24/hb/2182/) - Regulated substance use data 👍1  
+* 👍💵 Lukas Hunter
+
+## [HB 2194](/bill/2023-24/hb/2194/) - Home cultivation of cannabis 👍1  
+* 👍💵 Lukas Hunter
+
+## [HB 2255](/bill/2023-24/hb/2255/) - Cannabis inversion/diversion 👍1  
+* 👍💵 Lukas Hunter
+
+## [HB 2320](/bill/2023-24/hb/2320/) - High THC cannabis products  👎1 
+* 👎💵 Lukas Hunter
+
+## [HB 2334](/bill/2023-24/hb/2334/) - Cannabis/dept of agriculture 👍1  
 * 👍💵 Lukas Hunter
 
 ## [SB 5069](/bill/2023-24/sb/5069/) - Interstate cannabis agrmts. 👍1  

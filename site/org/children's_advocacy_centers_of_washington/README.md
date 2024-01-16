@@ -30,6 +30,14 @@
 
 ## [HB 1766](/bill/2023-24/hb/1766/) - Protection orders/hope cards 👍2  
 
+## [HB 1999](/bill/2023-24/hb/1999/) - Fabricated intimate images 👍1  
+
+## [HB 2076](/bill/2023-24/hb/2076/) - Addressing crimes involving human trafficking or sexual exploitation. 👍1  
+
+## [HB 2237](/bill/2023-24/hb/2237/) - Parenting plan limitations 👍1  
+
+## [HB 2242](/bill/2023-24/hb/2242/) - Sexual assault/higher ed. 👍1  
+
 ## [SB 5010](/bill/2023-24/sb/5010/) - Synthetic opioids/endanger. 👍1  
 
 ## [SB 5070](/bill/2023-24/sb/5070/) - Nonfatal strangulation 👍1  
@@ -46,3 +54,11 @@
 ## [SB 5355](/bill/2023-24/sb/5355/) - Sex trafficking prev. ed. 👍1  
 
 ## [SB 5453](/bill/2023-24/sb/5453/) - Female genital mutilation 👍4  
+
+## [SB 5937](/bill/2023-24/sb/5937/) - Crime victims & witnesses 👍1  
+* 👍 Paula Reed
+
+## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍1  
+
+## [SB 6109](/bill/2023-24/sb/6109/) - Children and families 👍2  
+* 👍 Paula Reed

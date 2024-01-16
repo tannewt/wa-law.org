@@ -8,16 +8,14 @@
 
 ## Meetings
 ### Thu 01/11 08:00 AM - Law & Justice (LAW): SB 5781 Law student rural PD program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31538&aId=156016&caId=22757&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31538&aId=156016&caId=22757&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31538&aId=156016&caId=22757&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31538&aId=156016&caId=22757&tId=4)
-
-#### 19 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Katrin Johnson - Washington State Office of Public Defense
+* LaDon Linde - Yakima County Board of Commissioners
+* 💵Juliana Roe - Washington State Association of Counties - WSAC
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Paul Kelley - Yakima County Director of Assigned Counsel
 
 #### 0 👎 - Con
 

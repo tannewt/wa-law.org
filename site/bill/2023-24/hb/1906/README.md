@@ -8,19 +8,14 @@
 
 ## Meetings
 ### Wed 01/10 04:00 PM - Transportation (TR): HB 1906 Vessel length/nonresident
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31547&aId=156004&caId=22903&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31547&aId=156004&caId=22903&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31547&aId=156004&caId=22903&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31547&aId=156004&caId=22903&tId=4)
-
-#### 6 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * monique webber - Pacific Yacht Management
 * Lindsey LaPrath - Worth Avenue Yachts
 * Lori Eastes - Worth Avenue Yachts
 * Martin Marchant - Westport Yachts
 * Paul Jarkiewicz - [Port of Port Angeles](/org/port_of_port_angeles/)
+* Roman Daniels-Brown - [Northwest Marine Trade Association](/org/northwest_marine_trade_association/)
 
 #### 0 👎 - Con
 

@@ -8,17 +8,15 @@
 
 ## Meetings
 ### Tue 01/09 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1945 Food assistance access
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31597&aId=156217&caId=22858&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31597&aId=156217&caId=22858&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31597&aId=156217&caId=22858&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31597&aId=156217&caId=22858&tId=4)
-
-#### 11 👍 - Pro
+#### 85 👍 - Pro
 Testifying:
 * 💵Joel Ryan
 * 💵Claire Lane - Anti-Hunger & Nutrition Coalition
 * Maura Baker
+* Jordan Fengler-Mondau
+* Katrina Peters - [Save the Children Action Network](/org/save_the_children_action_network/)
+* Kathryn Sharpe - SCAN
+* Juan Madrigal - Opportunity Council Early Learning and Family Services
 
 #### 0 👎 - Con
 

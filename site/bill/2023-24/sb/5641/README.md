@@ -25,7 +25,7 @@ Testifying:
 #### 6 ❓ - Other
 Testifying:
 * Awa Drammeh - Pacific Northwest Seattle Gambian Association
-* Emijah Smith
+* 💵Emijah Smith
 * Veronica Gichuki - Northwest
 * Bigi Ruhigita - Congolese I intégration network
 * Milinganyo Byakumbu - Congolese integration network

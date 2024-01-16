@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5635/</link>
 		<description>Updates about SB 5635</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 10 Mar 2023 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -128,6 +128,13 @@
 			<pubDate>Fri, 10 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-10/Senate Rules &quot;X&quot; file.</guid>
+		</item>
+		<item>
+			<title>On motion, referred to Rules.</title>
+			<description>On motion, referred to Rules.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/On motion, referred to Rules.</guid>
 		</item>
 	</channel>
 </rss>

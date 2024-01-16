@@ -415,7 +415,7 @@ Testifying:
 Testifying:
 * 💵Samantha Bruegger - [Washington Wildlife First](/org/washington_wildlife_first/)
 * Joe Crumbley - Coalition for Organic and Regenerative Agriculture
-* Rudy Salakory - Friends of the Columbia Gorge
+* Rudy Salakory - [Friends of the Columbia Gorge](/org/friends_of_the_columbia_gorge/)
 * 💵Isaac Kastama - Clean & Prosperous Washington
 * 💵Paula Swedeen - [Conservation Northwest](/org/conservation_northwest/)
 * Jay Gordon - Washington State Dairy Federation

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2172/</link>
 		<description>Updates about HB 2172</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 16 Jan 2024 10:31:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,61 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Housing (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Housing.</title>
+			<description>First reading, referred to Housing.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Housing.</guid>
+		</item>
+		<item>
+			<title>👍Jamie Spinelli - Homeless Response Manager, City of Vancouver</title>
+			<description>Jamie Spinelli signed up to testify Pro. They are signed up to represent Homeless Response Manager, City of Vancouver.</description>
+			<pubDate>Thu, 11 Jan 2024 09:09:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jamie/Spinelli/2024-01-11 09:09:53</guid>
+		</item>
+		<item>
+			<title>👍Darian Lightfoot - City of Olympia</title>
+			<description>Darian Lightfoot signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/city_of_olympia/&quot;&gt;City of Olympia&lt;/a&gt;.</description>
+			<pubDate>Sat, 13 Jan 2024 09:33:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Darian/Lightfoot/2024-01-13 09:33:59</guid>
+		</item>
+		<item>
+			<title>👎Darrell Jennings - State Board for Community and Technical Colleges</title>
+			<description>Darrell Jennings signed up to testify Con. They are signed up to represent State Board for Community and Technical Colleges.</description>
+			<pubDate>Mon, 15 Jan 2024 10:57:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Darrell/Jennings/2024-01-15 10:57:40</guid>
+		</item>
+		<item>
+			<title>👎Jeanne Bennett - Clark College</title>
+			<description>Jeanne Bennett signed up to testify Con. They are signed up to represent Clark College.</description>
+			<pubDate>Mon, 15 Jan 2024 11:16:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jeanne/Bennett/2024-01-15 11:16:07</guid>
+		</item>
+		<item>
+			<title>❓Duane Emmons - Department of Natural Resources</title>
+			<description>Duane Emmons signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/department_of_natural_resources/&quot;&gt;Department of Natural Resources&lt;/a&gt;.</description>
+			<pubDate>Tue, 16 Jan 2024 09:05:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Duane/Emmons/2024-01-16 09:05:03</guid>
+		</item>
+		<item>
+			<title>👎Cristhian Canseco Juarez - Clark College - Board Of Trustee Chair</title>
+			<description>Cristhian Canseco Juarez signed up to testify Con. They are signed up to represent Clark College - Board Of Trustee Chair.</description>
+			<pubDate>Tue, 16 Jan 2024 10:31:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Cristhian/Canseco Juarez/2024-01-16 10:31:32</guid>
 		</item>
 	</channel>
 </rss>

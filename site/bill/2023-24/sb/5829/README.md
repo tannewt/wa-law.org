@@ -8,14 +8,16 @@
 
 ## Meetings
 ### Fri 01/12 08:00 AM - Health & Long Term Care (HLTC): SB 5829 Congenital cytomegalovirus
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31541&aId=155985&caId=22785&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31541&aId=155985&caId=22785&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31541&aId=155985&caId=22785&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31541&aId=155985&caId=22785&tId=4)
+#### 14 👍 - Pro
+Testifying:
+* Cathleen Ackley
+* Lisa Aamot
+* Mallory Baker - Washington CMV Project
+* Kelsey Gellner - WSNA
 
-#### 2 👍 - Pro
-
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* John Thompson - Washington State Department of Health
+* Molly Dinardo - Washington State Board of Health
 
 #### 0 ❓ - Other

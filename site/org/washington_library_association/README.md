@@ -30,3 +30,6 @@
 * 👍💵 Carolyn Logue
 * 👍💵 Carolyn Logue
 * 👍 Lesley Bourne
+
+## [SB 5824](/bill/2023-24/sb/5824/) - Dissolution of libraries 👍1  
+* 👍💵 Carolyn Logue

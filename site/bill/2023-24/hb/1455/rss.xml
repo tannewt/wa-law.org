@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1455/</link>
 		<description>Updates about HB 1455</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 23 Apr 2023 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 13 Jan 2024 22:44:57 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -163,6 +163,34 @@
 			<pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-23/By resolution, returned to House Rules Committee for third reading.</guid>
+		</item>
+		<item>
+			<title>Speaker Jinkins: “Optimistic and determined” about 2024 Legislative Session – Washington State House Democrats</title>
+			<description>News article &quot;Speaker Jinkins: “Optimistic and determined” about 2024 Legislative Session – Washington State House Democrats&quot; from House Democrats.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/01/08/speaker-jinkins-optimistic-and-determined-about-2024-legislative-session/#:~:text=HB%201455</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Law &amp; Justice.</title>
+			<description>First reading, referred to Law &amp; Justice.</description>
+			<pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-10/First reading, referred to Law &amp; Justice.</guid>
+		</item>
+		<item>
+			<title>Rantz: Democrats reject child marriage, but accept their gender reassignment - MyNorthwest.com</title>
+			<description>News article &quot;Rantz: Democrats reject child marriage, but accept their gender reassignment - MyNorthwest.com&quot; from MyNorthwest.</description>
+			<pubDate>Wed, 10 Jan 2024 02:05:11 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/3945913/rantz-democrats-reject-child-marriage-accept-gender-reassignment/#:~:text=House%20Bill%201455</guid>
+		</item>
+		<item>
+			<title>The SMN Interviews: 'Human jukebox' Nikhil Bagga, Rep. Monica Stonier, Rob McKenna - MyNorthwest.com</title>
+			<description>News article &quot;The SMN Interviews: 'Human jukebox' Nikhil Bagga, Rep. Monica Stonier, Rob McKenna - MyNorthwest.com&quot; from MyNorthwest.</description>
+			<pubDate>Sat, 13 Jan 2024 22:44:57 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/3946389/the-smn-interviews-human-jukebox-nikhil-bagga-rep-monica-stonier-rob-mckenna/#:~:text=House%20Bill%201455</guid>
 		</item>
 	</channel>
 </rss>

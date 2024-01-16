@@ -22,3 +22,8 @@
 ## [SB 5402](/bill/2023-24/sb/5402/) - Authorizing public transportation benefit areas to become limited authority Washington law enforcement agencies. 👍1  
 
 ## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍4  
+
+## [SB 5881](/bill/2023-24/sb/5881/) - Concerning membership in the public employees' retirement system for certain part-time bus drivers employed full-time by the federal government. 👍3  
+* 👍 John Clauson
+* 👍 Paul Shinners
+* 👍 wendy sorensen

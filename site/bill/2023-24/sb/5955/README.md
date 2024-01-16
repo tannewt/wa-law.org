@@ -6,4 +6,42 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/15/2024 [Senate Democrats](/org/senate_democrats/) - [Elected officials, residents propose action to cut noise and air pollution near Sea-Tac Airport - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/15/elected-officials-residents-propose-action-to-cut-noise-and-air-pollution-near-sea-tac-airport/#:~:text=SB%205955)
+
 ## Meetings
+### Tue 01/16 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5955 Large port districts
+#### 254 👍 - Pro
+Testifying:
+* Traci Buxton - City of Des Moines WA
+* JC Harris - SeatacNoise.Info
+* Denise Utley
+* Anne Kroeker - No Group
+* Stuart Jenner
+* Kyle Moore - City of SeaTac, Government Relations
+* Senayet Negusse - SeaTac City Councilmember
+* Trung Lee - SeaTac Homeowner
+* Randy Boucher
+* Heather Morton
+* Barbara McMichael
+* Brian Davis
+* Debi Wagner
+* Saundra Mock - Realtor and home owner in the flight path
+* Karen Veloria
+* Maria Batayola - Beacon Hill Council (Seattle Neighborhood)
+* Bob morton Morton - 17th Ave NE
+* Kent Palosaari
+* Sarah Moore
+* Megan Slade - Beacon Hill Council
+* Phillip Hanson
+* Steve Edmiston - Quiet Skies Puget Sound
+
+#### 7 👎 - Con
+Testifying:
+* John Worthington
+* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* John Flanagan - [Port of Seattle](/org/port_of_seattle/)
+
+#### 1 ❓ - Other
+Testifying:
+* Wendy Leonard

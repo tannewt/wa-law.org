@@ -16,6 +16,10 @@
 
 ## [HB 1295](/bill/2023-24/hb/1295/) - DCYF placement agreements 👍2  
 
+## [HB 1325](/bill/2023-24/hb/1325/) - Long sentences review 👍1  
+
+## [HB 1383](/bill/2023-24/hb/1383/) - Early release petitions/juv. 👍1  
+
 ## [HB 1394](/bill/2023-24/hb/1394/) - Sexual offenses by youth 👍2  
 * 👍 Nicholas Oakley
 
@@ -24,9 +28,21 @@
 ## [HB 1440](/bill/2023-24/hb/1440/) - Juvenile court jurisdiction 👍1  
 * 👍 William Hairston
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍1  
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍2  
 
 ## [HB 1591](/bill/2023-24/hb/1591/) - Open adoption agreements 👍1  
+
+## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
+
+## [HB 2076](/bill/2023-24/hb/2076/) - Addressing crimes involving human trafficking or sexual exploitation.   ❓1
+* ❓ Nicholas Oakley
+
+## [HB 2217](/bill/2023-24/hb/2217/) - Juvenile criminal offenses 👍1  
+* 👍 Nicholas Oakley
+
+## [HB 2218](/bill/2023-24/hb/2218/) - Extended foster care 👍1  
+
+## [HB 2251](/bill/2023-24/hb/2251/) - Unenforceable LFOs 👍1  
 
 ## [SB 5028](/bill/2023-24/sb/5028/) - Name changes 👍1  
 
@@ -39,3 +55,9 @@
 ## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍1  
 
 ## [SB 5316](/bill/2023-24/sb/5316/) - DCYF background check fees 👍1  
+
+## [SB 5908](/bill/2023-24/sb/5908/) - Providing extended foster care services to youth ages 18 to 21. 👍1  
+
+## [SB 5974](/bill/2023-24/sb/5974/) - Concerning the disposition of unenforceable legal financial obligations other than restitution imposed by a court or an agent of the court against a juvenile prior to July 1, 2023. 👍1  
+
+## [SB 6063](/bill/2023-24/sb/6063/) - Persistent offenders 👍1  

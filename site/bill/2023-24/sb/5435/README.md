@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/08/2024 [Crosscut](/org/crosscut/) - [The Washington Legislature kicks off. Here’s what to watch. | Crosscut](https://crosscut.com/politics/2024/01/washington-legislature-kicks-heres-what-watch#:~:text=Senate%20Bill%205435)
 * 12/26/2023 [Crosscut](/org/crosscut/) - [WA rental increases cooling, but an affordability crisis remains | Crosscut](https://crosscut.com/news/2023/12/wa-rental-increases-cooling-affordability-crisis-remains#:~:text=Senate%20Bill%205435)
 * 12/22/2023 [Crosscut](/org/crosscut/) - [What tenant protections will WA lawmakers consider in 2024? | Crosscut](https://crosscut.com/investigations/2023/12/what-tenant-protections-will-wa-lawmakers-consider-2024#:~:text=SB%205435)
 * 03/13/2023 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 10 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate031323#:~:text=S.B.%205435)
@@ -18,6 +19,7 @@
 * 02/13/2023 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 6 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02142023#:~:text=S.B.%205435)
 * 02/08/2023 [Crosscut](/org/crosscut/) - [Rising rents are drowning Washington's smaller cities | Crosscut](https://crosscut.com/news/2023/02/rising-rents-are-drowning-washingtons-smaller-cities#:~:text=Senate%20Bill%205435)
 * [Statewide Poverty Action Network](/org/statewide_poverty_action_network/) - [Support Rent Stabilization – Statewide Poverty Action Network](https://povertyaction.org/advocacy-actions/support-rent-stabilization/#:~:text=SB%205435)
+* [Statewide Poverty Action Network](/org/statewide_poverty_action_network/) - [Support Rent Stabilization – Statewide Poverty Action Network](https://povertyaction.org/support-rent-stabilization/#:~:text=SB%205435)
 
 ## Meetings
 ### Fri 01/27 10:30 AM - Housing (HSG): SB 5435 Residential rent increases

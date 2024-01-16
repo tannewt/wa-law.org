@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 01/09 01:30 PM - Consumer Protection & Business (CPB): HB 1889 Professionals/immigration
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31591&aId=156200&caId=22817&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31591&aId=156200&caId=22817&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31591&aId=156200&caId=22817&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31591&aId=156200&caId=22817&tId=4)
-
-#### 234 👍 - Pro
+#### 337 👍 - Pro
 Testifying:
 * Flor Reyes
 * Flor Reyes
@@ -32,7 +26,14 @@ Testifying:
 * Nicholas Villa - [Central Washington University](/org/central_washington_university/)
 * Lina Ulloa - C4C
 * Paul Ryan Villanueva
+* Naydelin Olalde
+* Isela bonilla - ASWSU Vancouver
+* Michelle Carrillo - ASCWU Leg. Liaison
+* Reese Ramirez - Associated Students of UWT
+* Eduardo Blancarte - Communities for Our Colleges
+* Stella Seth - Associated Students of Western Washington University
+* Isaac Marroquin - Washington State Graduate Student
 
-#### 12 👎 - Con
+#### 59 👎 - Con
 
-#### 10 ❓ - Other
+#### 11 ❓ - Other

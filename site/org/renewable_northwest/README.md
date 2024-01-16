@@ -18,6 +18,12 @@
 ## [HB 1756](/bill/2023-24/hb/1756/) - Energy/tax   ❓1
 * ❓💵 Kate Brouns
 
+## [HB 2117](/bill/2023-24/hb/2117/) - Aerial firefighting/permits  👎1 
+* 👎 Jeff Gombosky
+
+## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage 👍1  
+* 👍 Jeff Gombosky
+
 ## [SB 5165](/bill/2023-24/sb/5165/) - Electric transm. planning 👍1  
 * 👍💵 Kate Brouns
 
@@ -31,3 +37,6 @@
 
 ## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy  👎1 
 * 👎💵 Kate Brouns
+
+## [SB 6016](/bill/2023-24/sb/6016/) - Green energy community fund 👍1  
+* 👍💵 Kate Brouns

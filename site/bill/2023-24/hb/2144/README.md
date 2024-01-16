@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 01/09 04:00 PM - Environment & Energy (ENVI): HB 2144 Providing for a deposit return program for qualifying beverage containers to be implemented by a distributor responsibility organization. (Remote Testimony Available). (If measure is referred to committee.)
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31566&aId=156270&caId=22908&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31566&aId=156270&caId=22908&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31566&aId=156270&caId=22908&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31566&aId=156270&caId=22908&tId=4)
-
-#### 82 👍 - Pro
+#### 260 👍 - Pro
 Testifying:
 * Kate Bailey - The Association of Plastic Recyclers (APR)
 * Dylan de Thomas - The Recycling Partnership
@@ -29,12 +23,29 @@ Testifying:
 * Scott DeFife - Glass Packaging Institute
 * Fiona Bell - Novelis
 * Hannah Martinez - Indorama Ventures
+* Emily Gonzalez - Puget Soundkeeper Alliance
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* 💵Rowland Thompson - The Wine Institute
+* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
+* Scott DeFife - Glass Packaging Institute
 
-#### 4 👎 - Con
+#### 38 👎 - Con
 Testifying:
 * Courtney Criss
+* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Katie Beeson - Washington Food Industry Association
+* 💵Jay Balasbas - Sunshine Disposal and Recycling, Basin Disposal
+* 💵Lyset Cadena - WM
+* 💵Vicki Christophersen - Washington Refuse and Recycling Association
+* Wendy Weiker - [Republic Services](/org/republic_services/)
 
-#### 2 ❓ - Other
+#### 10 ❓ - Other
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
+* eric pratt
+* Peter Lyon - Washington State Department of Ecology
+* McKenna Morrigan - Seattle Public Utilities
+* 💵Brad Boswell - [Washington Beverage Association](/org/washington_beverage_association/)
+* 💵Brandon Houskeeper - NW Grocery Association

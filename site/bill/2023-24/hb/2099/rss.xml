@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2099/</link>
 		<description>Updates about HB 2099</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 16 Jan 2024 10:26:51 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,53 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to State Government &amp; Tribal Relations (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to State Government &amp; Tribal Relations.</title>
+			<description>First reading, referred to State Government &amp; Tribal Relations.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to State Government &amp; Tribal Relations.</guid>
+		</item>
+		<item>
+			<title>👍Ronni Batchelor - Association of Washington Business (AWB)</title>
+			<description>Ronni Batchelor signed up to testify Pro.</description>
+			<pubDate>Sun, 14 Jan 2024 11:16:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ronni/Batchelor/2024-01-14 11:16:35</guid>
+		</item>
+		<item>
+			<title>❓Danielle Armbruster - Washington State Department of Corrections</title>
+			<description>Danielle Armbruster signed up to testify Other. They are signed up to represent Washington State Department of Corrections.</description>
+			<pubDate>Mon, 15 Jan 2024 01:44:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Danielle/Armbruster/2024-01-15 01:44:37</guid>
+		</item>
+		<item>
+			<title>👍James McMahan - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>James McMahan signed up to testify Pro. They are signed up to represent WA Assoc Sheriffs &amp; Police Chiefs.</description>
+			<pubDate>Mon, 15 Jan 2024 08:36:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/James/McMahan/2024-01-15 08:36:12</guid>
+		</item>
+		<item>
+			<title>👍💵Kelly Olson - Civil Survival Project</title>
+			<description>Kelly Olson signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/civil_survival_project/&quot;&gt;Civil Survival Project&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 15 Jan 2024 10:26:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kelly/Olson/2024-01-15 10:26:03</guid>
+		</item>
+		<item>
+			<title>👍Christina Mason - Washington Association of Drug Courts</title>
+			<description>Christina Mason signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_association_of_drug_courts/&quot;&gt;Washington Association of Drug Courts&lt;/a&gt;.</description>
+			<pubDate>Tue, 16 Jan 2024 10:26:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Christina/Mason/2024-01-16 10:26:51</guid>
 		</item>
 	</channel>
 </rss>

@@ -7,18 +7,26 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/08/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Session Preview: Legislature convenes January 8 for short session - WSPTA](https://www.wastatepta.org/2024-session-preview/#:~:text=HB%202038)
 * 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%202038)
 
 ## Meetings
 ### Thu 01/11 08:00 AM - Education (ED): HB 2038 Public school transfer data
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31561&aId=156033&caId=22827&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31561&aId=156033&caId=22827&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31561&aId=156033&caId=22827&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31561&aId=156033&caId=22827&tId=4)
+#### 18 👍 - Pro
 
-#### 7 👍 - Pro
+#### 462 👎 - Con
+Testifying:
+* Carol Rich
+* Julie Barrett - Conservative Ladies of Washington
+* Eric Lundberg
+* Rachel Thornley
+* Michael Frazee
+* James Brown
 
-#### 171 👎 - Con
-
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* pratt eric
+* Dana Anderson - Washington School Information Processing Cooperative (WSIPC)
+* Jennifer Garrison Stuber - Washington Homeschool Organization
+* Mikhail Cherniske - Office of Superintendent of Public Instruction
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)

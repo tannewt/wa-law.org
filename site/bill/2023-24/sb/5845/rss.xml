@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5845/</link>
 		<description>Updates about SB 5845</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 16 Jan 2024 10:33:36 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,45 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Ways &amp; Means (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Ways &amp; Means.</title>
+			<description>First reading, referred to Ways &amp; Means.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👎Bill Adamson - South Sound Military &amp; Communities Partnership</title>
+			<description>Bill Adamson signed up to testify Con. They are signed up to represent South Sound Military &amp; Communities Partnership.</description>
+			<pubDate>Sat, 13 Jan 2024 02:31:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Bill/Adamson/2024-01-13 02:31:01</guid>
+		</item>
+		<item>
+			<title>👍Commissioner Jill Johnson - Island County</title>
+			<description>Commissioner Jill Johnson signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/island_county/&quot;&gt;Island County&lt;/a&gt;.</description>
+			<pubDate>Sun, 14 Jan 2024 01:17:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Commissioner Jill/Johnson/2024-01-14 01:17:53</guid>
+		</item>
+		<item>
+			<title>❓COL Kent Parker - Joint Base Lewis-McChord Garrison Commander</title>
+			<description>COL Kent Parker signed up to testify Other. They are signed up to represent Joint Base Lewis-McChord Garrison Commander.</description>
+			<pubDate>Tue, 16 Jan 2024 10:25:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/COL Kent/Parker/2024-01-16 10:25:40</guid>
+		</item>
+		<item>
+			<title>👎Morgan Irwin - Association of Washington Business</title>
+			<description>Morgan Irwin signed up to testify Con. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/association_of_washington_business/&quot;&gt;Association of Washington Business&lt;/a&gt;.</description>
+			<pubDate>Tue, 16 Jan 2024 10:33:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Morgan/Irwin/2024-01-16 10:33:36</guid>
 		</item>
 	</channel>
 </rss>

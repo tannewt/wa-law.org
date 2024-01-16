@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/15 04:00 PM - Transportation (TR): HB 1953 Dept. of licensing documents
+#### 7 👍 - Pro
+Testifying:
+* Beau Perschbacher - WA Dept. of Licensing
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

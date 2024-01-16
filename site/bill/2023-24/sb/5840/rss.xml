@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5840/</link>
 		<description>Updates about SB 5840</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 10 Jan 2024 02:41:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -37,6 +37,29 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Law &amp; Justice (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Law &amp; Justice.</title>
+			<description>First reading, referred to Law &amp; Justice.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Law &amp; Justice.</guid>
+		</item>
+		<item>
+			<title>👎Elizabeth Powell - N/A</title>
+			<description>Elizabeth Powell signed up to testify Con. They are signed up to represent N/A.</description>
+			<pubDate>Tue, 09 Jan 2024 01:25:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Elizabeth/Powell/2024-01-09 01:25:39</guid>
+		</item>
+		<item>
+			<title>👍JP Kissling - Washington Land Title Association</title>
+			<description>JP Kissling signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_land_title_association/&quot;&gt;Washington Land Title Association&lt;/a&gt;.</description>
+			<pubDate>Wed, 10 Jan 2024 02:41:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/JP/Kissling/2024-01-10 02:41:00</guid>
 		</item>
 	</channel>
 </rss>

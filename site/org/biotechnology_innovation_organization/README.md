@@ -6,3 +6,6 @@
 ## [HB 1745](/bill/2023-24/hb/1745/) - Diversity in clinical trials 👍2  
 
 ## [SB 5388](/bill/2023-24/sb/5388/) - Diversity in clinical trials 👍1  
+
+## [SB 5776](/bill/2023-24/sb/5776/) - Accessing an emergency supply of insulin.  👎1 
+* 👎 Brian Warren

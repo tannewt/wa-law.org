@@ -12,7 +12,11 @@
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍3  
 
-## [HB 1957](/bill/2023-24/hb/1957/) - Preserving coverage of preventive services without cost sharing. 👍1  
+## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍1  
+
+## [HB 1957](/bill/2023-24/hb/1957/) - Preventive service coverage 👍1  
+
+## [HB 2115](/bill/2023-24/hb/2115/) - Prescription labels/abortion 👍1  
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
 * ❓ Mercedes Sanchez
@@ -29,3 +33,5 @@
 ## [SB 5768](/bill/2023-24/sb/5768/) - DOC/abortion medications 👍4  
 * 👍 Mercedes Sanchez
 * 👍 Mercedes Sanchez
+
+## [SB 5960](/bill/2023-24/sb/5960/) - Prescription labels/abortion 👍1  

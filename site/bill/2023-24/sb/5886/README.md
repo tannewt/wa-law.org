@@ -7,3 +7,12 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/15 10:30 AM - Labor & Commerce (LC): SB 5886 Firefighter safety funding
+#### 7 👍 - Pro
+Testifying:
+* Tammy Fellin - Department of Labor & Industries
+* MD, MPH, Dave Bonauto - Department of Labor & Industries
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

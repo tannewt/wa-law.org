@@ -8,14 +8,17 @@
 
 ## Meetings
 ### Thu 01/11 08:00 AM - Law & Justice (LAW): SB 5825 Guardianship
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31538&aId=155977&caId=22755&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31538&aId=155977&caId=22755&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31538&aId=155977&caId=22755&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31538&aId=155977&caId=22755&tId=4)
-
-#### 0 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* Robert Nettleton
+* Andi Chatburn - Providence
+* 💵Zosia Stanley - Washington State Hospital Association
+* 💵Madeline Grant - UW Medicine
+* 💵Amy Freeman - WA State Long Term Care Ombuds Program
+* Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)

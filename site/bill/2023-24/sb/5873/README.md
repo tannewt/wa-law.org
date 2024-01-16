@@ -6,23 +6,26 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/08/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Session Preview: Legislature convenes January 8 for short session - WSPTA](https://www.wastatepta.org/2024-session-preview/#:~:text=SB%205873)
+
 ## Meetings
 ### Wed 01/10 10:30 AM - Early Learning & K-12 Education (EDU): SB 5873 Student transportation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31530&aId=155950&caId=22745&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31530&aId=155950&caId=22745&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31530&aId=155950&caId=22745&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31530&aId=155950&caId=22745&tId=4)
-
-#### 8 👍 - Pro
+#### 49 👍 - Pro
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Charlie Brown - Skills Centers, South Sound School Districts
 * 💵Kelsi Hamilton - Washington State School Directors' Association (WSSDA)
+* Bill West
+* Cynthia Campbell
+* 💵Melissa Gombosky - Evergreen, Vancouver, and Spokane Public Schools
+* Earl Johnson - Teamsters 174
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Barbara Posthumus - Lake Washington School District
+* Jeff Baerwald - Nine Mile Falls School District
+* 💵Carolyn Logue - [Washington State Student Transportation Coalition](/org/washington_state_student_transportation_coalition/)

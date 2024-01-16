@@ -24,6 +24,8 @@
 
 ## [HB 1823](/bill/2023-24/hb/1823/) - WA student loan program 👍2  
 
+## [HB 2242](/bill/2023-24/hb/2242/) - Sexual assault/higher ed. 👍2  
+
 ## [SB 5079](/bill/2023-24/sb/5079/) - Tuition establishment date 👍1  
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1

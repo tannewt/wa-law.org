@@ -8,17 +8,16 @@
 
 ## Meetings
 ### Thu 01/11 10:30 AM - Health & Long Term Care (HLTC): SB 5821 Audio-only telemedicine
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31540&aId=155998&caId=22767&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31540&aId=155998&caId=22767&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31540&aId=155998&caId=22767&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31540&aId=155998&caId=22767&tId=4)
-
-#### 6 👍 - Pro
+#### 37 👍 - Pro
 Testifying:
 * Mercer May - Teladoc Health
 * 💵Clark Hansen - ALS Association, Patient Coalition of Washington
+* Tom Mann - ATA Action
+* 💵Carrie Tellefson - Teladoc Health
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* 💵Sean Graham - Washington State Medical Assocation (WSMA)
+* 💵Lisa Thatcher - Washington State Hospital Association
 
 #### 0 ❓ - Other

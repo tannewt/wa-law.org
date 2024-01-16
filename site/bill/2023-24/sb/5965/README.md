@@ -11,16 +11,22 @@
 
 ## Meetings
 ### Fri 01/12 08:00 AM - Environment, Energy & Technology (ENET): SB 5965 Fashion/environmental impact
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31529&aId=156309&caId=22930&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31529&aId=156309&caId=22930&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31529&aId=156309&caId=22930&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31529&aId=156309&caId=22930&tId=4)
+#### 74 👍 - Pro
+Testifying:
+* Annie Agle - Cotopaxi
+* Kenneth Pucker
+* Maxine Bedat - New Standard Institute
+* Maanit Goel - Washington Legislative Youth Advisory Council (LYAC)
+* Brady Walkinshaw
 
-#### 4 👍 - Pro
-
-#### 2 👎 - Con
+#### 183 👎 - Con
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* John Worthington
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Brandon Houskeeper - NW Grocery Assoc
+* Jeannette Mcchesney
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Kimberly Goetz - Department of Ecology

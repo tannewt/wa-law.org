@@ -23,7 +23,10 @@
 ## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge  👎1 
 * 👎💵 Jerry Vanderwood
 
-## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
+## [HB 2127](/bill/2023-24/hb/2127/) - Incentives to return to work 👍1  
+* 👍 Lauren Gubbe
+
+## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎2 
 
 ## [SB 5303](/bill/2023-24/sb/5303/) - Public works trust account 👍1  
 * 👍💵 Jerry Vanderwood
@@ -37,6 +40,8 @@
 ## [SB 5524](/bill/2023-24/sb/5524/) - Industrial insurance/duties  👎1 
 
 ## [SB 5528](/bill/2023-24/sb/5528/) - Construction retainage 👍1  
+
+## [SB 5835](/bill/2023-24/sb/5835/) - Rule making websites 👍1  
 
 ## [SJR 8201](/bill/2023-24/sjr/8201/) - Public works account 👍1  
 * 👍💵 Jerry Vanderwood

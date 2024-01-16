@@ -11,6 +11,13 @@
 * 👍💵 Adam Zarrin
 * 👍💵 Erin Dziedzic
 
+## [HB 1957](/bill/2023-24/hb/1957/) - Preventive service coverage 👍1  
+
+## [HB 2119](/bill/2023-24/hb/2119/) - Medical debt garnishment 👍1  
+* 👍💵 Adam Zarrin
+
+## [HB 2157](/bill/2023-24/hb/2157/) - Vaccine definition 👍1  
+
 ## [SB 5036](/bill/2023-24/sb/5036/) - Audio-only telemedicine 👍2  
 
 ## [SB 5204](/bill/2023-24/sb/5204/) - Fertility services coverage 👍1  
@@ -25,3 +32,11 @@
 * 👍💵 Adam Zarrin
 
 ## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍1  
+
+## [SB 5864](/bill/2023-24/sb/5864/) - Establishing a point of contact for any person diagnosed with a rare disease. 👍1  
+
+## [SB 5936](/bill/2023-24/sb/5936/) - Palliative care work group 👍1  
+
+## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍1  
+
+## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍1  

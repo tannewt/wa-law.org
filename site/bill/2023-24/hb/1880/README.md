@@ -5,18 +5,16 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/09 01:30 PM - Consumer Protection & Business (CPB): HB 1880 Architecture licensing exams
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31591&aId=156199&caId=22816&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31591&aId=156199&caId=22816&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31591&aId=156199&caId=22816&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31591&aId=156199&caId=22816&tId=4)
-
-#### 18 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * Jared Zurn - National Council of Architectural Registration Boards (NCARB)
+* Neha Goel - AIAWA
+* Neha Goel - AIAWA
+* Karen DeLucas - Karen DeLucas Architecture
 
 #### 0 👎 - Con
 

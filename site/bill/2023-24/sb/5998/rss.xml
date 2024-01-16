@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5998/</link>
 		<description>Updates about SB 5998</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 15 Jan 2024 11:49:45 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,45 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Law &amp; Justice (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Law &amp; Justice.</title>
+			<description>First reading, referred to Law &amp; Justice.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Law &amp; Justice.</guid>
+		</item>
+		<item>
+			<title>👍Quinton Baker - Founder, Executive Director | Forge</title>
+			<description>Quinton Baker signed up to testify Pro. They are signed up to represent Founder, Executive Director | Forge.</description>
+			<pubDate>Thu, 11 Jan 2024 01:18:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Quinton/Baker/2024-01-11 01:18:36</guid>
+		</item>
+		<item>
+			<title>👍John alder - Futurewise and Pjals</title>
+			<description>John alder signed up to testify Pro. They are signed up to represent Futurewise and Pjals.</description>
+			<pubDate>Thu, 11 Jan 2024 05:38:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/John/alder/2024-01-11 05:38:55</guid>
+		</item>
+		<item>
+			<title>👍💵Prachi Dave - Civil Survival</title>
+			<description>Prachi Dave signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/civil_survival/&quot;&gt;Civil Survival&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 15 Jan 2024 01:53:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Prachi/Dave/2024-01-15 01:53:23</guid>
+		</item>
+		<item>
+			<title>👍Oscar Aguirre - The King County Bar Association's Records Project</title>
+			<description>Oscar Aguirre signed up to testify Pro. They are signed up to represent The King County Bar Association's Records Project.</description>
+			<pubDate>Mon, 15 Jan 2024 11:49:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Oscar/Aguirre/2024-01-15 11:49:45</guid>
 		</item>
 	</channel>
 </rss>

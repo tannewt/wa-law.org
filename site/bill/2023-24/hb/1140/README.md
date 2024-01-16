@@ -33,7 +33,7 @@ Testifying:
 * Sara Seelmeyer - United Way of King County
 * Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
-* Rudy Salakory - Friends of the Columbia Gorge
+* Rudy Salakory - [Friends of the Columbia Gorge](/org/friends_of_the_columbia_gorge/)
 * 💵Rose Feliciano - Catholic Charities Eastern Washington, First5Fundamentals
 * 💵Christina Wong - Northwest Harvest
 * Ryan Mello - Pierce County Council, District 4

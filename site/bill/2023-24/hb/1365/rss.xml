@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1365/</link>
 		<description>Updates about HB 1365</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Mar 2023 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -108,6 +108,13 @@
 			<pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-13/Returned to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Referred to Environment &amp; Energy.</title>
+			<description>Referred to Environment &amp; Energy.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/Referred to Environment &amp; Energy.</guid>
 		</item>
 	</channel>
 </rss>

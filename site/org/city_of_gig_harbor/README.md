@@ -9,7 +9,7 @@
 
 ## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions  👎1 
 
-## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions  👎1 
+## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions  👎2 
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing  👎1 
 * 👎 Katrina Knutson

@@ -8,17 +8,24 @@
 
 ## Meetings
 ### Fri 01/12 08:00 AM - Health & Long Term Care (HLTC): SB 5986 Protecting consumers from out-of-network health care services charges. (Remote Testimony Available). (If measure is referred to committee.)
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31541&aId=156269&caId=22907&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31541&aId=156269&caId=22907&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31541&aId=156269&caId=22907&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31541&aId=156269&caId=22907&tId=4)
-
-#### 7 👍 - Pro
+#### 469 👍 - Pro
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
 * Sydney Rogalla - Office of the Insurance Commissioner
+* Shaun Ford - Washington Fire Chief's Association
+* Mike Battis - [Washington Ambulance Association](/org/washington_ambulance_association/)
+* Paul Priest - [American Medical Response](/org/american_medical_response/)
+* Shawn Baird - [Olympic Ambulance](/org/olympic_ambulance/)
+* 💵Alex Hamasaki - American Heart Association & Patient Coalition of Washington
+* Christy Shum
+* David Feng
+* Cathy MacCaul - AARP Washington
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* Maribeth Guarino - WASHPIRG
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 
-#### 0 ❓ - Other
+#### 10 ❓ - Other
+Testifying:
+* Chris Bandoli - America's Health Insurance Plans
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans

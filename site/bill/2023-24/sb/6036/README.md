@@ -8,13 +8,13 @@
 
 ## Meetings
 ### Thu 01/11 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 6036 Agriculture pests & diseases
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31534&aId=156304&caId=22934&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31534&aId=156304&caId=22934&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31534&aId=156304&caId=22934&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31534&aId=156304&caId=22934&tId=4)
-
-#### 0 👍 - Pro
+#### 15 👍 - Pro
+Testifying:
+* Amber Itle - WSDA State Veterinarian
+* Maggie Elliot - Washington Hop Commission
+* Tim Hiatt - Washington State Beekeepers Association
+* Tyler West
+* Kelly McLain - Washington State Department of Agriculture
 
 #### 0 👎 - Con
 

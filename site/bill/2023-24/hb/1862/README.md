@@ -8,19 +8,18 @@
 
 ## Meetings
 ### Tue 01/09 08:00 AM - Finance (FIN): HB 1862 Disabled veteran assist./tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31506&aId=155906&caId=22840&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31506&aId=155906&caId=22840&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31506&aId=155906&caId=22840&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31506&aId=155906&caId=22840&tId=4)
-
-#### 6 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Jason topEvents - American Lake Veterans Golf Course
 * Bruce Mckenty - AMERICAN LAKE VETERANS GOLF COURSE
 * Jessie Baird - Friends of American Lake Veterans Golf Course
 * james martinson - American Lake Veterans Golf Course
+* Robert Funseth - American Lake veterans golf course
+* Robert Funseth - American Lake veterans golf course
+* Robert Funseth - American Lake veterans golf course
 * Allen Acosta - Veteran Legislative Coalition
+* J Craig Morris
+* Randy Moen - American Lake Veterans Golf Course
 
 #### 0 👎 - Con
 

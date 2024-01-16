@@ -9,3 +9,6 @@
 
 ## [HB 1619](/bill/2023-24/hb/1619/) - Renewable energy resources 👍1  
 * 👍💵 Dan Kirschner
+
+## [HB 2131](/bill/2023-24/hb/2131/) - Thermal energy networks   ❓1
+* ❓ Natasha Jackson

@@ -8,13 +8,11 @@
 
 ## Meetings
 ### Tue 01/09 10:30 AM - Labor & Workplace Standards (LAWS): HB 1898 Unempl. benefit charging
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31570&aId=156073&caId=22873&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31570&aId=156073&caId=22873&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31570&aId=156073&caId=22873&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31570&aId=156073&caId=22873&tId=4)
-
-#### 2 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Robert (Bob) Battles - Association of Washington Business (AWB)
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Caitlyn Jekel - Employment Security Department
 
 #### 0 👎 - Con
 

@@ -91,7 +91,7 @@ Testifying:
 * Kristina Jorgensen
 * Derrick Martin-Armstead
 * Judy Baker
-* Emijah Smith
+* 💵Emijah Smith
 * 💵Nickeia Hunter
 * Nickia Hunter
 * Nickia Hunter

@@ -97,6 +97,9 @@
 
 ## [HB 1905](/bill/2023-24/hb/1905/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
 
+## [HB 1914](/bill/2023-24/hb/1914/) - Improving the education of students with varying abilities by enhancing special education services.   ❓1
+* ❓💵 Ramona Hattendorf
+
 ## [HB 1916](/bill/2023-24/hb/1916/) - Concerning funding for the early support for infants and toddlers program. 👍1  
 
 ## [HB 1945](/bill/2023-24/hb/1945/) - Streamlining and enhancing program access for persons eligible for food assistance. 👍1  
@@ -114,9 +117,17 @@
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
 * ❓💵 Ramona Hattendorf
 
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+
 ## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍1  
 
+## [HB 2145](/bill/2023-24/hb/2145/) - Concerning medically necessary treatment of a mental health or substance use disorder. 👍1  
+
+## [HB 2180](/bill/2023-24/hb/2180/) - Special education cap 👍1  
+
 ## [HB 2184](/bill/2023-24/hb/2184/) - DD parental caregivers 👍1  
+
+## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 
@@ -192,6 +203,8 @@
 
 ## [SB 5734](/bill/2023-24/sb/5734/) - ABLE accounts 👍1  
 
+## [SB 5811](/bill/2023-24/sb/5811/) - Expanding the definition of family member for individual providers. 👍1  
+
 ## [SB 5853](/bill/2023-24/sb/5853/) - Extending the crisis relief center model to provide behavioral health crisis services for minors. 👍1  
 
 ## [SB 5864](/bill/2023-24/sb/5864/) - Establishing a point of contact for any person diagnosed with a rare disease. 👍1  
@@ -200,6 +213,13 @@
 
 ## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍1  
 
+## [SB 5883](/bill/2023-24/sb/5883/) - Concerning the burden of proof for special education due process hearings. 👍2  
+* 👍💵 Ramona Hattendorf
+
+## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
+
+## [SB 5933](/bill/2023-24/sb/5933/) - Infants and toddlers program 👍1  
+
 ## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental   ❓1
 * ❓💵 Ramona Hattendorf
 
@@ -207,3 +227,7 @@
 * 👍💵 Ramona Hattendorf
 
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍1  
+
+## [SB 6014](/bill/2023-24/sb/6014/) - Special education cap 👍2  
+
+## [SB 6126](/bill/2023-24/sb/6126/) - Respite care 👍1  

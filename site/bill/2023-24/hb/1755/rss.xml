@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1755/</link>
 		<description>Updates about HB 1755</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 01 Nov 2023 12:53:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 16 Jan 2024 15:00:38 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,20 @@
 			<pubDate>Wed, 01 Nov 2023 12:53:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_b373e256-78d2-11ee-be90-7bd8402db8e3.html#:~:text=HB%201755</guid>
+		</item>
+		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
+			<title>Washingtonians May Get a Democracy Upgrade in 2024 - Sightline Institute</title>
+			<description>News article &quot;Washingtonians May Get a Democracy Upgrade in 2024 - Sightline Institute&quot; from Sightline Institute.</description>
+			<pubDate>Tue, 16 Jan 2024 15:00:38 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.sightline.org/2024/01/16/washingtonians-may-get-a-democracy-upgrade-in-2024/#:~:text=HB%201755</guid>
 		</item>
 	</channel>
 </rss>

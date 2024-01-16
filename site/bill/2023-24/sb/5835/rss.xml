@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 5835 - Concerning transparency in rule making.</title>
+		<title>SB 5835 - Rule making websites</title>
 		<link>https://wa-law.org/bill/2023-24/sb/5835/</link>
 		<description>Updates about SB 5835</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 15 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -37,6 +37,21 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to State Government &amp; Elections (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>❓John Worthington - Washington Retail Association</title>
+			<description>John Worthington signed up to testify Other.</description>
+			<pubDate>Mon, 08 Jan 2024 07:49:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/John/Worthington/2024-01-08 07:49:19</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-15/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

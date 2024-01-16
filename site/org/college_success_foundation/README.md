@@ -54,6 +54,10 @@
 ## [HB 1679](/bill/2023-24/hb/1679/) - Student homelessness group 👍1  
 * 👍💵 Juliet Schindler
 
+## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍1  
+
+## [HB 2053](/bill/2023-24/hb/2053/) - Establishing the ninth grade success grant program. 👍1  
+
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍3  
 * 👍💵 Juliet Schindler
 * 👍💵 Juliet Schindler
@@ -117,3 +121,8 @@
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍2  
 
 ## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍1  
+
+## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
+* 👍💵 Emily Stochel
+
+## [SB 5908](/bill/2023-24/sb/5908/) - Providing extended foster care services to youth ages 18 to 21. 👍1  

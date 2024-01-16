@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 6061 - Housing development/SEPA</title>
+		<link>https://wa-law.org/bill/2023-24/sb/6061/</link>
+		<description>Updates about SB 6061</description>
+		<language>en-US</language>
+		<lastBuildDate>Mon, 15 Jan 2024 06:11:19 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Local Government, Land Use &amp; Tribal Affairs.</title>
+			<description>First reading, referred to Local Government, Land Use &amp; Tribal Affairs.</description>
+			<pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-09/First reading, referred to Local Government, Land Use &amp; Tribal Affairs.</guid>
+		</item>
+		<item>
+			<title>❓💵Carl Schroeder - Association of Washington Cities</title>
+			<description>Carl Schroeder signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/association_of_washington_cities/&quot;&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Thu, 11 Jan 2024 05:16:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Carl/Schroeder/2024-01-11 05:16:28</guid>
+		</item>
+		<item>
+			<title>❓💵Scott Hazlegrove - Master Builders Association of King &amp; Snohomish Counties</title>
+			<description>Scott Hazlegrove signed up to testify Other. They are signed up to represent Master Builders Association of King &amp; Snohomish Counties. They are a registered lobbyist.</description>
+			<pubDate>Sat, 13 Jan 2024 11:48:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Scott/Hazlegrove/2024-01-13 11:48:25</guid>
+		</item>
+		<item>
+			<title>👎💵Jan Himebaugh - Building Industry Association of Washington</title>
+			<description>Jan Himebaugh signed up to testify Con. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/building_industry_association_of_washington/&quot;&gt;Building Industry Association of Washington&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 15 Jan 2024 04:07:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jan/Himebaugh/2024-01-15 04:07:27</guid>
+		</item>
+		<item>
+			<title>❓💵Bryce Yadon - Futurewise</title>
+			<description>Bryce Yadon signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/futurewise/&quot;&gt;Futurewise&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 15 Jan 2024 06:11:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Bryce/Yadon/2024-01-15 06:11:19</guid>
+		</item>
+	</channel>
+</rss>

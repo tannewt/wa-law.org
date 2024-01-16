@@ -53,6 +53,10 @@
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
 
+## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
+
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  ❓1
 * ❓💵 Aaron Yared
 * 👍💵 Aaron Yared
@@ -87,3 +91,5 @@
 
 ## [SB 5719](/bill/2023-24/sb/5719/) - Student homelessness group 👍1  
 * 👍💵 Megan Veith
+
+## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍1  

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5662/</link>
 		<description>Updates about SB 5662</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 06 Feb 2023 09:14:29 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -54,6 +54,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Bob/Battles/2023-02-06 09:14:29</guid>
+		</item>
+		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
 		</item>
 	</channel>
 </rss>

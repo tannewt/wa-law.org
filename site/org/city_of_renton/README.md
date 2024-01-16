@@ -16,6 +16,8 @@
 
 ## [HB 1695](/bill/2023-24/hb/1695/) - Surplus property/housing 👍1  
 
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development   ❓1
+
 ## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍1  
 
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍1  
@@ -25,3 +27,5 @@
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  ❓1
 
 ## [SB 5674](/bill/2023-24/sb/5674/) - Surplus property/housing 👍1  
+
+## [SB 6024](/bill/2023-24/sb/6024/) - Housing development   ❓1

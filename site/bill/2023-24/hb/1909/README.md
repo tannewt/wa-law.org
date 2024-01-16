@@ -8,17 +8,13 @@
 
 ## Meetings
 ### Tue 01/09 01:30 PM - Health Care & Wellness (HCW): HB 1909 Pharmacy commission members
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31511&aId=156046&caId=22844&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31511&aId=156046&caId=22844&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31511&aId=156046&caId=22844&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31511&aId=156046&caId=22844&tId=4)
-
-#### 2 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Rick Hughes - Ray's Pharmacy, Orcas Island
 * Jenny Arnold - Washington State Pharmacy Association
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Ken Kenyon - Washington State Pharmacy Quality Assurance Commission
 
 #### 0 ❓ - Other

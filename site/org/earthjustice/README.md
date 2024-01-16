@@ -9,7 +9,7 @@
 ## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  ❓1
 * 👍💵 Jan Hasselman
 
-## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍2  
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍3  
 
 ## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  
 
@@ -18,6 +18,28 @@
 * 👍 Eric Gonzalez Alfaro
 
 ## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy   ❓1
+
+## [HB 1905](/bill/2023-24/hb/1905/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
+
+## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍1  
+
+## [HB 1933](/bill/2023-24/hb/1933/) - Supporting the servicing and right to repair of certain products with digital electronics in a secure and reliable manner. 👍1  
+
+## [HB 1935](/bill/2023-24/hb/1935/) - Promoting resource conservation practices that include student education and leadership opportunities in public schools. 👍1  
+
+## [HB 2068](/bill/2023-24/hb/2068/) - Fashion/environmental impact 👍1  
+
+## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions. 👍1  
+
+## [HB 2082](/bill/2023-24/hb/2082/) - Electrical transmission 👍1  
+
+## [HB 2103](/bill/2023-24/hb/2103/) - Large port districts 👍1  
+
+## [HB 2105](/bill/2023-24/hb/2105/) - Instream resources  👎1 
+
+## [HB 2126](/bill/2023-24/hb/2126/) - Rural area ADUs  👎1 
+
+## [HB 2193](/bill/2023-24/hb/2193/) - Env. restoration accelerator  👎1 
 
 ## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍1  
 
@@ -37,3 +59,11 @@
 ## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy   ❓1
 
 ## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍1  
+
+## [SB 5846](/bill/2023-24/sb/5846/) - Beaver ecosystem management 👍1  
+
+## [SB 5892](/bill/2023-24/sb/5892/) - Concerning diseased elk.  👎1 
+
+## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
+
+## [SB 5921](/bill/2023-24/sb/5921/) - Concerning tribal representation on the state conservation commission. 👍1  

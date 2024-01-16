@@ -26,7 +26,10 @@
 
 ## [HB 1661](/bill/2023-24/hb/1661/) - Mobile crisis intervention 👍1  
 
-## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development  👎1 
+* 👎 Salim Nice
+
+## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎2 
 
 ## [SB 5364](/bill/2023-24/sb/5364/) - Lot splitting   ❓1
 * ❓💵 Luke Esser
@@ -39,3 +42,5 @@
 * ❓ Salim Nice
 
 ## [SB 5509](/bill/2023-24/sb/5509/) - Public infrastructure bank 👍1  
+
+## [SB 6134](/bill/2023-24/sb/6134/) - Opioid use 👍1  

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2100/</link>
 		<description>Updates about HB 2100</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 15 Jan 2024 08:04:40 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,21 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Labor &amp; Workplace Standards (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Labor &amp; Workplace Standards.</title>
+			<description>First reading, referred to Labor &amp; Workplace Standards.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Labor &amp; Workplace Standards.</guid>
+		</item>
+		<item>
+			<title>❓💵Patrick Connor - NFIB</title>
+			<description>Patrick Connor signed up to testify Other. They are signed up to represent NFIB. They are a registered lobbyist.</description>
+			<pubDate>Mon, 15 Jan 2024 08:04:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Patrick/Connor/2024-01-15 08:04:40</guid>
 		</item>
 	</channel>
 </rss>

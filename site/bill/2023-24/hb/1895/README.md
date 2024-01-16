@@ -8,15 +8,10 @@
 
 ## Meetings
 ### Tue 01/09 08:00 AM - Finance (FIN): HB 1895 Working families' tax credit
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31506&aId=155908&caId=22842&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31506&aId=155908&caId=22842&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31506&aId=155908&caId=22842&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31506&aId=155908&caId=22842&tId=4)
-
-#### 5 👍 - Pro
+#### 53 👍 - Pro
 Testifying:
 * Steve Ewing - Dept. of Revenue
+* 💵Tracy Yeung - Washington State Budget and Policy Center
 
 #### 0 👎 - Con
 

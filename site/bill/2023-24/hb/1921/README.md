@@ -6,16 +6,24 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/08/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/08/the-house-hot-sheet-for-week-1-of-the-2024-legislative-session/#:~:text=HB%201921)
+
 ## Meetings
 ### Fri 01/12 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1921 Food/certain substances
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31576&aId=156135&caId=22794&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31576&aId=156135&caId=22794&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31576&aId=156135&caId=22794&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31576&aId=156135&caId=22794&tId=4)
+#### 8 👍 - Pro
+Testifying:
+* Noelle Burianek - Lake Washington High School
+* Noelle Burianek - Lake Washington High School
+* Holly Davies - Washington State Department of Health
 
-#### 2 👍 - Pro
+#### 5 👎 - Con
+Testifying:
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Holly Chisa - [Consumer Brands Association](/org/consumer_brands_association/)
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Kimberly Goetz - Department of Ecology
+* Kelly McLain - Washington State Department of Agriculture
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)

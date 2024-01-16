@@ -7,3 +7,12 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/15 01:30 PM - Regulated Substances & Gaming (RSG): HB 2163 Liquor licensee advertising
+#### 4 👍 - Pro
+Testifying:
+* Benjamin Williams
+* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

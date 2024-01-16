@@ -24,3 +24,5 @@
 ## [SB 5393](/bill/2023-24/sb/5393/) - Health provider contracting 👍1  
 
 ## [SB 5445](/bill/2023-24/sb/5445/) - Prescription cost-sharing  👎1 
+
+## [SB 5821](/bill/2023-24/sb/5821/) - Audio-only telemedicine 👍1  

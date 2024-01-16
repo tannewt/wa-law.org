@@ -8,14 +8,26 @@
 
 ## Meetings
 ### Thu 01/11 08:00 AM - Environment & Energy (ENVI): HB 2073 Greenhouse gas other sources
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31567&aId=156065&caId=22838&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31567&aId=156065&caId=22838&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31567&aId=156065&caId=22838&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31567&aId=156065&caId=22838&tId=4)
+#### 173 👍 - Pro
+Testifying:
+* Ryan Jense
+* Annemarie Dooley - Washington Physicians for Social Responsibility
+* Elizabeth Hansen
+* Adam Lough
+* Kate Tudor - Natural Resources Defense Council
 
-#### 1 👍 - Pro
+#### 80 👎 - Con
+Testifying:
+* Ashley Roden - 2725 pacific ave
+* Billy Olesen - PestStop/Washington State Pest Management Association
+* Larry Treleven - Sprague/Washington Pest Management Association
 
-#### 1 👎 - Con
-
-#### 0 ❓ - Other
+#### 11 ❓ - Other
+Testifying:
+* eric pratt
+* 💵Remy Kerr - Washington State Hospital Association
+* Kelli Camp - WA Assn of Nurse Anesthetists
+* 💵Greg Hanon - [Washington State Veterinary Medical Association](/org/washington_state_veterinary_medical_association/)
+* 💵Amy Brackenbury - Washington State Society of Anesthesiologists
+* Kelly McLain - Washington State Department of Agriculture
+* John Worthington

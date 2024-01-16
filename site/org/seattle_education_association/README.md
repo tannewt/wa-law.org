@@ -15,6 +15,10 @@
 
 ## [HB 1744](/bill/2023-24/hb/1744/) - Charter school oversight 👍1  
 
+## [HB 1985](/bill/2023-24/hb/1985/) - PERS/TRS 1 benefit increase 👍1  
+
+## [HB 2125](/bill/2023-24/hb/2125/) - Concerning the eligibility of state-mandated benefits for contingent faculty at community and technical colleges. 👍1  
+
 ## [SB 5174](/bill/2023-24/sb/5174/) - Student transportation 👍3  
 
 ## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I 👍4  
@@ -31,3 +35,5 @@
 ## [SB 5626](/bill/2023-24/sb/5626/) - K-12 media literacy 👍3  
 
 ## [SB 5650](/bill/2023-24/sb/5650/) - K-12 inflationary increases 👍2  
+
+## [SB 6014](/bill/2023-24/sb/6014/) - Special education cap 👍2  

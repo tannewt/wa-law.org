@@ -10,3 +10,8 @@
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍3  
 
 ## [SB 5371](/bill/2023-24/sb/5371/) - Orca vessel protection 👍2  
+
+## [SB 5846](/bill/2023-24/sb/5846/) - Beaver ecosystem management 👍1  
+
+## [SB 5939](/bill/2023-24/sb/5939/) - Livestock wolf predation  👎2 
+* 👎💵 Kathleen Callaghy

@@ -1,5 +1,7 @@
 # Children's Alliance
 
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
+
 ## [HB 1069](/bill/2023-24/hb/1069/) - Mental health counselor comp 👍1  
 
 ## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
@@ -33,7 +35,7 @@
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍2  
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍2  
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍3  
 
 ## [HB 1511](/bill/2023-24/hb/1511/) - Income/child care programs 👍2  
 
@@ -51,6 +53,16 @@
 * 👍 Stephan Blanford
 
 ## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce 👍3  
+
+## [HB 1916](/bill/2023-24/hb/1916/) - Concerning funding for the early support for infants and toddlers program. 👍1  
+
+## [HB 1945](/bill/2023-24/hb/1945/) - Streamlining and enhancing program access for persons eligible for food assistance. 👍1  
+
+## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
+
+## [HB 2101](/bill/2023-24/hb/2101/) - Child care licensing fees 👍1  
+
+## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍1  
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
 

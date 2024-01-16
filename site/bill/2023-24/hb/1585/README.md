@@ -8,13 +8,11 @@
 
 ## Meetings
 ### Tue 01/09 08:00 AM - Finance (FIN): HB 1585 Local infra. project areas
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31506&aId=155905&caId=22839&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31506&aId=155905&caId=22839&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31506&aId=155905&caId=22839&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31506&aId=155905&caId=22839&tId=4)
-
-#### 1 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Vanessa Kritzer - [Washington Association of Land Trusts](/org/washington_association_of_land_trusts/)
+* Kristi England - Forterra NW
+* Nicholas Bratton - [King County](/org/king_county/)
 
 #### 0 👎 - Con
 

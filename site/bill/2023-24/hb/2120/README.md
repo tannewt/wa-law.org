@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/12/2024 [The Center Square](/org/the_center_square/) - [Tri-Cities lawmakers eye nuclear facilities tax break, wind farm fire concerns | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ebd7f824-b182-11ee-97f3-3f080b13cf66.html#:~:text=HB%202120)
+
 ## Meetings

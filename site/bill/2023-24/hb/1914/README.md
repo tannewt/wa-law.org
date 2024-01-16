@@ -7,18 +7,28 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/08/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Session Preview: Legislature convenes January 8 for short session - WSPTA](https://www.wastatepta.org/2024-session-preview/#:~:text=HB%201914)
 * 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%201914)
 
 ## Meetings
 ### Thu 01/11 08:00 AM - Education (ED): HB 1914 Special education services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31561&aId=156031&caId=22825&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31561&aId=156031&caId=22825&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31561&aId=156031&caId=22825&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31561&aId=156031&caId=22825&tId=4)
+#### 15 👍 - Pro
+Testifying:
+* Preston Dwoskin
+* Shelly Burt - no
+* 💵Karen Pillar - TeamChild
 
-#### 1 👍 - Pro
+#### 2 👎 - Con
+Testifying:
+* Sue Ann Bube - Mercer Island School District
+* Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 7 ❓ - Other
+Testifying:
+* Dana Anderson - Washington School Information Processing Cooperative (WSIPC)
+* Abigail Westbrook - Washington State School Directors' Association (WSSDA)
+* Jen Chong Jewell - Special Education Advisory Council for OSPI
+* Tania May - Office of Superintendent of Public Instruction
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* Katie Howell - Chehalis Schools
+* Erin Okuno - Office of Education Ombuds

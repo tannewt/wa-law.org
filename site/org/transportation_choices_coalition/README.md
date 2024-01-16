@@ -2,6 +2,8 @@
 
 ## [HB 1058](/bill/2023-24/hb/1058/) - Commercial driver's licenses 👍1  
 
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍1  
+
 ## [HB 1414](/bill/2023-24/hb/1414/) - RTA vehicle removal 👍1  
 
 ## [HB 1428](/bill/2023-24/hb/1428/) - Pedestrians/roadways 👍1  ❓1
@@ -48,3 +50,5 @@
 ## [SB 5743](/bill/2023-24/sb/5743/) - Transportation resources 👍2  
 * 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
+
+## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  

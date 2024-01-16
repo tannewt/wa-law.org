@@ -15,6 +15,12 @@
 
 ## [HB 1849](/bill/2023-24/hb/1849/) - Elk management program 👍1  
 
+## [HB 1971](/bill/2023-24/hb/1971/) - Rangeland fire pilot 👍1  
+
+## [HB 2051](/bill/2023-24/hb/2051/) - Reducing emissions from small off-road engines.  👎1 
+
+## [HB 2187](/bill/2023-24/hb/2187/) - Water/family farms 👍1  
+
 ## [SB 5150](/bill/2023-24/sb/5150/) - Beef levied assessment 👍3  
 * 👍💵 Mark Streuli
 * 👍💵 Mark Streuli
@@ -32,3 +38,5 @@
 * 👍💵 Mark Streuli
 
 ## [SB 5551](/bill/2023-24/sb/5551/) - Methane capture 👍1  
+
+## [SB 5784](/bill/2023-24/sb/5784/) - Deer & elk crop damage 👍1  

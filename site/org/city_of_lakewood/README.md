@@ -16,7 +16,7 @@
 
 ## [HB 1527](/bill/2023-24/hb/1527/) - Tax increment financing 👍1  
 
-## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions  👎1 
+## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions  👎2 
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 
@@ -34,3 +34,11 @@
 ## [SB 5539](/bill/2023-24/sb/5539/) - Tax increment financing 👍2  
 
 ## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍2  
+
+## [SB 5780](/bill/2023-24/sb/5780/) - Public defense training 👍1  
+
+## [SB 5845](/bill/2023-24/sb/5845/) - Military housing taxation  👎1 
+
+## [SB 6015](/bill/2023-24/sb/6015/) - Residential parking  👎1 
+
+## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍1  

@@ -10,17 +10,16 @@
 
 ## Meetings
 ### Wed 01/10 10:30 AM - Housing (HSG): 2SSB 5730 Vehicle residences/impound
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31514&aId=155923&caId=22752&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31514&aId=155923&caId=22752&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31514&aId=155923&caId=22752&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31514&aId=155923&caId=22752&tId=4)
+#### 8 👍 - Pro
 
-#### 0 👍 - Pro
+#### 33 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
+* 💵Peter Lukevich - [Towing and Recovery Association of Washington](/org/towing_and_recovery_association_of_washington/)
+* 💵Chester Baldwin - TRAW - Towing & Recovery Assn of WA
 
 ### Tue 02/21 01:30 PM - Transportation (TRAN): SSB 5730 Vehicle residences/impound
 #### 20 👍 - Pro

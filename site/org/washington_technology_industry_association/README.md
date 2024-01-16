@@ -22,6 +22,12 @@
 ## [HB 1793](/bill/2023-24/hb/1793/) - Wireless devices tax  👎1 
 * 👎💵 Kelly Fukai
 
+## [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍1  
+
+## [HB 2008](/bill/2023-24/hb/2008/) - Housing cost task force 👍1  
+
+## [HB 2019](/bill/2023-24/hb/2019/) - Establishing a Native American apprentice assistance program. 👍1  
+
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍4  
 
 ## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍2  
@@ -41,3 +47,11 @@
 ## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍3  
 
 ## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages 👍2  
+
+## [SB 5838](/bill/2023-24/sb/5838/) - Establishing an artificial intelligence task force.   ❓1
+* ❓💵 Kelly Fukai
+
+## [SB 5849](/bill/2023-24/sb/5849/) - Concerning a computer science competency graduation requirement. 👍1  
+* 👍💵 Brittany Jarnot
+
+## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  

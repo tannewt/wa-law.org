@@ -19,3 +19,5 @@
 * 👍💵 Christine Brewer
 
 ## [SB 5569](/bill/2023-24/sb/5569/) - Kidney disease centers 👍1  
+
+## [SB 5821](/bill/2023-24/sb/5821/) - Audio-only telemedicine 👍1  

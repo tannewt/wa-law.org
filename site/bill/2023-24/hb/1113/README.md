@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
 * 01/18/2023 [Gorge News Center](/org/gorge_news_center/) - [Harris bill that would give educators with reprimands another chance receives a hearing](https://gorgenewscenter.com/2023/01/18/harris-bill-that-would-give-educators-with-reprimands-another-chance-receives-a-hearing/#:~:text=House%20Bill%201113)

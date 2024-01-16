@@ -7,3 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/16 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5806 Insurance company data
+#### 4 👍 - Pro
+Testifying:
+* David Forte - Office of the Insurance Commissioner
+
+#### 1 👎 - Con
+
+#### 3 ❓ - Other
+Testifying:
+* 💵Jean Leonard - WA Insurers
+* Kris Tefft - American Property Casualty Insurance Association (APCIA)
+* 💵Kenton Brine - NW Insurance Council

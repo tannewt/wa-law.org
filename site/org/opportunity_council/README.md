@@ -15,6 +15,12 @@
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 
+## [HB 1915](/bill/2023-24/hb/1915/) - Making financial education instruction a graduation prerequisite and a required component of public education. 👍2  
+* 👍 Kevi Veldman
+* 👍 Jennifer Marzocca
+
+## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍1  
+
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
 * 👍 Ross Quigley
 
@@ -23,3 +29,5 @@
 ## [SB 5203](/bill/2023-24/sb/5203/) - Climate change/planning 👍1  
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
+
+## [SB 5870](/bill/2023-24/sb/5870/) - Early learning programs 👍1  

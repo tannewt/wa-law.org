@@ -8,16 +8,27 @@
 
 ## Meetings
 ### Tue 01/09 10:30 AM - Labor & Workplace Standards (LAWS): HB 1893 Unemp ins/strikes & lockouts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31570&aId=156072&caId=22872&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31570&aId=156072&caId=22872&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31570&aId=156072&caId=22872&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31570&aId=156072&caId=22872&tId=4)
-
-#### 38 👍 - Pro
+#### 192 👍 - Pro
 Testifying:
 * Saphir Guth
+* April Sims - Washington State Labor Council, AFL-CIO
+* Bryan Shanafelt - UFCW 367
+* Rachel Ybarra - Starbucks Workers United
+* 💵Brenda Wiest - Teamsters 117
+* Jerry Sinclair - AFA Alaska Airlines
+* Rob Perdue - United Auto Workers
+* Ben Heiselt - IBEW 46
+* Sapir Guth - IBEW 46
+* 💵John Traynor - Washington State Labor Council, AFL-CIO
+* Bill Rudd - IBEW 46
 
-#### 33 👎 - Con
+#### 67 👎 - Con
+Testifying:
+* 💵Brad Boswell - Seattle Metropolitan Chamber of Commerce
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Bob Battles - Association of Wa Business
+* Bruce K Beckett - Wa. Retail Association
+* 💵Bruce Chattin - WA Aggregates & Concrete Assn
+* Jerry VanderWood - AGC of Washington
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other

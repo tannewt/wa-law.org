@@ -8,16 +8,16 @@
 
 ## Meetings
 ### Wed 01/10 01:30 PM - State Government & Tribal Relations (SGOV): HB 2023 Elections/language assist.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31509&aId=156103&caId=22902&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31509&aId=156103&caId=22902&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31509&aId=156103&caId=22902&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31509&aId=156103&caId=22902&tId=4)
+#### 111 👍 - Pro
+Testifying:
+* Subha Vadlamannati - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* Sandy Perkins - Skagit County Auditor
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Marco Morales - North Sound Accountable Community of Health
+* M. Lynn Campbell
 
-#### 4 👍 - Pro
+#### 154 👎 - Con
 
-#### 0 👎 - Con
-
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * eric pratt

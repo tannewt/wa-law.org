@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1949/</link>
 		<description>Updates about HB 1949</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 15 Jan 2024 08:52:57 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,37 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Appropriations (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Appropriations.</title>
+			<description>First reading, referred to Appropriations.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👍Kevin Bovenkamp - DSHS Behavioral Health Administration</title>
+			<description>Kevin Bovenkamp signed up to testify Pro. They are signed up to represent DSHS Behavioral Health Administration.</description>
+			<pubDate>Thu, 11 Jan 2024 04:54:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kevin/Bovenkamp/2024-01-11 04:54:15</guid>
+		</item>
+		<item>
+			<title>👍💵Dane Austreng - SEIU 1199NW</title>
+			<description>Dane Austreng signed up to testify Pro. They are signed up to represent SEIU 1199NW. They are a registered lobbyist.</description>
+			<pubDate>Fri, 12 Jan 2024 11:15:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dane/Austreng/2024-01-12 11:15:43</guid>
+		</item>
+		<item>
+			<title>👍💵Dennis Eagle - WA Federation of State Employees</title>
+			<description>Dennis Eagle signed up to testify Pro. They are signed up to represent WA Federation of State Employees. They are a registered lobbyist.</description>
+			<pubDate>Mon, 15 Jan 2024 08:52:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dennis/Eagle/2024-01-15 08:52:57</guid>
 		</item>
 	</channel>
 </rss>

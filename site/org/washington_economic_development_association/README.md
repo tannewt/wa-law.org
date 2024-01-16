@@ -17,6 +17,11 @@
 * 👍 Suzanne Dale Estey
 * 👍 Suzanne Dale Estey
 
+## [HB 1870](/bill/2023-24/hb/1870/) - Promoting economic development by increasing opportunities for local communities to secure federal funding. 👍1  
+* 👍 Suzanne Dale Estey
+
+## [HB 1892](/bill/2023-24/hb/1892/) - Concerning the workforce housing accelerator program. 👍1  
+
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget  👎1 
 * 👎 Suzanne Dale Estey
 

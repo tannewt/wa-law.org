@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 6060 - Electronic signatures/PERC</title>
+		<link>https://wa-law.org/bill/2023-24/sb/6060/</link>
+		<description>Updates about SB 6060</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 16 Jan 2024 08:55:33 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Labor &amp; Commerce.</title>
+			<description>First reading, referred to Labor &amp; Commerce.</description>
+			<pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-09/First reading, referred to Labor &amp; Commerce.</guid>
+		</item>
+		<item>
+			<title>👎💵Maxford Nelsen - Freedom Foundation</title>
+			<description>Maxford Nelsen signed up to testify Con. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/freedom_foundation/&quot;&gt;Freedom Foundation&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 15 Jan 2024 05:01:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Maxford/Nelsen/2024-01-15 05:01:49</guid>
+		</item>
+		<item>
+			<title>👍Chelsea Nesvig - SEIU 925</title>
+			<description>Chelsea Nesvig signed up to testify Pro. They are signed up to represent SEIU 925.</description>
+			<pubDate>Mon, 15 Jan 2024 09:36:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Chelsea/Nesvig/2024-01-15 09:36:06</guid>
+		</item>
+		<item>
+			<title>👍Ivan Cruz - UAW 4121</title>
+			<description>Ivan Cruz signed up to testify Pro. They are signed up to represent UAW 4121.</description>
+			<pubDate>Mon, 15 Jan 2024 09:36:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ivan/Cruz/2024-01-15 09:36:06</guid>
+		</item>
+		<item>
+			<title>👍Derya Ruggles - Washington Public Employees Association</title>
+			<description>Derya Ruggles signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_public_employees_association/&quot;&gt;Washington Public Employees Association&lt;/a&gt;.</description>
+			<pubDate>Tue, 16 Jan 2024 08:55:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Derya/Ruggles/2024-01-16 08:55:33</guid>
+		</item>
+	</channel>
+</rss>

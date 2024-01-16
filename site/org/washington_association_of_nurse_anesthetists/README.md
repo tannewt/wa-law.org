@@ -17,11 +17,18 @@
 
 ## [HB 1655](/bill/2023-24/hb/1655/) - Provider contract comp. 👍1  
 
-## [SB 5184](/bill/2023-24/sb/5184/) - Anesthesiologist assistants  👎8 
+## [SB 5184](/bill/2023-24/sb/5184/) - Anesthesiologist assistants  👎16 
 * 👎 Adrianna Silva
 * 👎 Ashley Fedan
 * 👎 Kelli Camp
 * 👎 Brad Hemingway
+* 👎 Michael Fisher
+* 👎 Ashley Fedan
+* 👎 Kelli Camp
+* 👎 Mike Fisher
+* 👎 Abigail Carson
+* 👎 Kathryn Gray
+* 👎 Michelle Aube
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1  
 

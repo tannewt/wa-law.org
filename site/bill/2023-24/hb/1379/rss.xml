@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1379/</link>
 		<description>Updates about HB 1379</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 15 Dec 2023 16:58:42 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -35,6 +35,13 @@
 			<pubDate>Fri, 15 Dec 2023 16:58:42 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.opportunityinstitute.org/current-projects/2024-legislative-agenda/#:~:text=HB%201379</guid>
+		</item>
+		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
 		</item>
 	</channel>
 </rss>

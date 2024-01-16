@@ -15,6 +15,10 @@
 ## [HB 1817](/bill/2023-24/hb/1817/) - Housing gap voucher pilot 👍1  
 * 👍 Patricia Hoendermis
 
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants  👎2 
+* 👎 Rick Glenn
+* 👎 Rick Glenn
+
 ## [SB 5060](/bill/2023-24/sb/5060/) - Rental & vacant properties  👎1 
 * 👎 Patricia Howndermis
 
@@ -30,3 +34,6 @@
 
 ## [SB 5707](/bill/2023-24/sb/5707/) - Housing court pilot program  👎1 
 * 👎 Patricia Hoendermis
+
+## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants  👎1 
+* 👎 Rick Glenn

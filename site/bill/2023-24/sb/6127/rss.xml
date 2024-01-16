@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 6127 - HIV prophylaxis</title>
+		<link>https://wa-law.org/bill/2023-24/sb/6127/</link>
+		<description>Updates about SB 6127</description>
+		<language>en-US</language>
+		<lastBuildDate>Mon, 15 Jan 2024 10:52:50 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Health &amp; Long Term Care.</title>
+			<description>First reading, referred to Health &amp; Long Term Care.</description>
+			<pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-10/First reading, referred to Health &amp; Long Term Care.</guid>
+		</item>
+		<item>
+			<title>❓Jane Beyer - Office of the Insurance Commissioner</title>
+			<description>Jane Beyer signed up to testify Other. They are signed up to represent Office of the Insurance Commissioner.</description>
+			<pubDate>Mon, 15 Jan 2024 10:52:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jane/Beyer/2024-01-15 10:52:50</guid>
+		</item>
+	</channel>
+</rss>

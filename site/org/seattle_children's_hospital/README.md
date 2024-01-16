@@ -24,6 +24,13 @@
 
 ## [HB 1745](/bill/2023-24/hb/1745/) - Diversity in clinical trials 👍1  
 
+## [HB 1902](/bill/2023-24/hb/1902/) - Firearms/purchase & transfer 👍1  
+
+## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍1  
+
+## [HB 2157](/bill/2023-24/hb/2157/) - Vaccine definition 👍2  
+* 👍💵 Hugh Ewart
+
 ## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
 
 ## [SB 5097](/bill/2023-24/sb/5097/) - Rare diseases adv. council 👍2  
@@ -38,8 +45,15 @@
 
 ## [SB 5388](/bill/2023-24/sb/5388/) - Diversity in clinical trials 👍1  
 
+## [SB 5444](/bill/2023-24/sb/5444/) - Firearm sensitive places 👍1  
+
 ## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍2  
 
 ## [SB 5506](/bill/2023-24/sb/5506/) - Behavior support homes 👍1  
 
 ## [SB 5537](/bill/2023-24/sb/5537/) - Hospital staffing collab. 👍1  
+
+## [SB 5853](/bill/2023-24/sb/5853/) - Extending the crisis relief center model to provide behavioral health crisis services for minors. 👍1  
+* 👍 Kashi Aurora
+
+## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍2  

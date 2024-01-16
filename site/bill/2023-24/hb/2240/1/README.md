@@ -1,0 +1,50 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 2240](/bill/2023-24/hb/2240/) > [Original Bill](/bill/2023-24/hb/2240/1/)
+
+# HB 2240 - Void covenant redaction
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/2240.pdf)
+
+## Section 1
+1. [Empty]
+
+    a. If a written instrument contains a provision that is void by reason of RCW 49.60.224, the owner, occupant, or tenant of the property which is subject to the provision , the homeowners' association board, or condominium association board may cause the provision to be stricken from the public records by bringing an action in the superior court in the county in which the property is located. The action shall be an in rem, declaratory judgment action whose title shall be the description of the property. The necessary party to the action shall be the owner, occupant, or tenant of the property or any portion thereof, the homeowners' association board, or condominium association board. The party bringing the action shall pay a fee set under RCW 36.18.012.
+
+    b. If the court finds that any provisions of the written instrument are void under RCW 49.60.224, it shall enter an order striking the void provisions from the public records and eliminating the void provisions from the title or lease of the property described in the complaint.
+
+        i. (A) The party bringing the action shall present to the court a proposed order that includes the specific proposed language of the redaction, unattached from the documents. The proposed order must include a list of each document by recording number and date of recordation and set forth verbatim the void provisions.
+
+(B) The party bringing the action shall present a complete copy of any document that would be affected by the proposed order. This copy must be certified by the county auditor or recording official as an official copy of the document recorded in their office. The certified copy shall be on eight and one-half by 11 inch paper and attached to the complaint.
+
+(C) For all documents required to be presented by (b)(i)(B) of this subsection, the party shall also mark their proposed redactions on a separate copy of the documents certified by the county auditor. Such a copy shall be presented to the court in the original recorded size but not filed in the case file. This document will become the redacted property record or corrected document.
+
+(D) If the court approves the redactions as proposed or after edits, the court shall sign the order. If the court approves the redactions, the court will initial the proposed redacted language on the documents, and may require modification prior to initialing. Once approved, the corrected documents with the court's initials must be returned to the party bringing the action and the order filed with the county clerk.
+
+        ii. The party bringing the action shall obtain and deliver a certified copy of the order to the office of the county auditor or, in charter counties, the county official charged with the responsibility for recording instruments in the county records, in the county where the property is located. The party shall also submit to the auditor the redacted property documents that contain the court's initials. The redacted language identified in the court order and the redacted language on the property documents must match in order for the language changes to be valid. The court order shall not be recorded.
+
+        iii. If the redacted language identified in the court order and the redacted language on the documents match, the auditor or recording official shall record the redacted property records that contain the court's initials. An image of each document so corrected shall be placed in the public records. Each corrected document shall contain the following information on the first page or a cover page prepared pursuant to RCW 65.04.047: The auditor's file number or book and page of the original document, a notation that the original document was corrected pursuant to this section, the cause number of the court action, and the date the order was entered.
+
+        iv. After the certified court order and initialed redacted property records have been submitted to the county auditor, the party bringing the action must file with the county clerk an eight and one-half by 11 inch paper copy of each document containing redactions with the court's initials and proof of recording with the auditor or the recording official.
+
+    v. The auditor or official shall update the index of each original document referenced in the order with the auditor's file number of the corrected document. Further, the index will note that the original record is no longer the primary official public record and is removed from the chain of title pursuant to the court order.
+
+    vi. The original document or image and subsequent records of such actions shall be preserved for historical or archival purposes. The documents and records may be separately maintained in the county's records and, at the auditor's or official's discretion, the original document or image may also be transferred to the secretary of state archives division .
+
+    c. For the purposes of this subsection (1), "document" means the title or lease containing the void provisions.
+
+2. [Empty]
+
+    a. As an alternative to the judicial procedure set forth in subsection (1) of this section, the owner of property subject to a written instrument that contains a provision that is void by reason of RCW 49.60.224 may record a restrictive covenant modification document with the county auditor, or in charter counties the county official charged with the responsibility for recording instruments in the county records, in the county in which the property is located.
+
+    b. The modification document shall contain a recording reference to the original written instrument.
+
+    c. The modification document must state, in part:
+
+"The referenced original written instrument contains discriminatory provisions that are void and unenforceable under RCW 49.60.224 and federal law. This document strikes from the referenced original instrument all provisions that are void and unenforceable under law."
+
+    d. The effective date of the modification document shall be the same as the effective date of the original written instrument.
+
+    e. If the owner causes to be recorded a modification document that contains modifications not authorized by this section, the county auditor or recording officer shall not incur liability for recording the document. Any liability that may result is the sole responsibility of the owner who caused the recordation.
+
+    f. No filing or recording fees or otherwise authorized surcharges shall be required for the filing of a modification document pursuant to this section.
+
+3. For the purposes of this section, "restrictive covenant modification document" or "modification document" means a standard form developed and designed by the Washington state association of county auditors.

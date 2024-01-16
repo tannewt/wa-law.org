@@ -8,14 +8,20 @@
 
 ## Meetings
 ### Thu 01/11 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6015 Residential parking
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31533&aId=156306&caId=22927&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31533&aId=156306&caId=22927&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31533&aId=156306&caId=22927&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31533&aId=156306&caId=22927&tId=4)
+#### 91 👍 - Pro
+Testifying:
+* Kevin Maas
+* Angela Rozmyn - Natural and Built Environments
+* Scott Bonjukian
+* Catie Gould - [Sightline Institute](/org/sightline_institute/)
+* Erich Armbruster
+* Ty Stober - Office of Vancouver Councilmember Ty Stober
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 1 👍 - Pro
+#### 5 👎 - Con
+Testifying:
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

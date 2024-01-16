@@ -10,3 +10,17 @@
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [2024 Legislative Priorities | Washington State](https://www.atg.wa.gov/2024-legislative-priorities#:~:text=HB%202136)
 
 ## Meetings
+### Tue 01/16 10:30 AM - Labor & Workplace Standards (LAWS): HB 2136 Prevailing wage sanctions
+#### 30 👍 - Pro
+Testifying:
+* Amanda Goss - Attorney General's Office
+* Rory Paine-Donovan - Attorney General's Office
+* MARK RIKER - Washington State Building & Construction Trades Council
+* 💵Ray Dumas - Cement Masons & Plasterers Local 528
+
+#### 1 👎 - Con
+
+#### 4 ❓ - Other
+Testifying:
+* Robert (Bob) Battles - Association of Washington Business (AWB)
+* Jerry VanderWood - Associated General Contractors (AGC)

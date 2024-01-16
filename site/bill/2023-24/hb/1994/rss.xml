@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1994/</link>
 		<description>Updates about HB 1994</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 09 Jan 2024 11:34:24 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -44,6 +44,69 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Community Safety, Justice, &amp; Reentry (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Community Safety, Justice, &amp; Reentry.</title>
+			<description>First reading, referred to Community Safety, Justice, &amp; Reentry.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Community Safety, Justice, &amp; Reentry.</guid>
+		</item>
+		<item>
+			<title>👍Anita Khandelwal - King County Department of Public Defense</title>
+			<description>Anita Khandelwal signed up to testify Pro. They are signed up to represent King County Department of Public Defense.</description>
+			<pubDate>Mon, 08 Jan 2024 01:01:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Anita/Khandelwal/2024-01-08 01:01:18</guid>
+		</item>
+		<item>
+			<title>❓Commissioner Paul Wohl - District &amp; Municipal Court Judges' Association</title>
+			<description>Commissioner Paul Wohl signed up to testify Other. They are signed up to represent District &amp; Municipal Court Judges' Association.</description>
+			<pubDate>Mon, 08 Jan 2024 04:36:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Commissioner Paul/Wohl/2024-01-08 04:36:53</guid>
+		</item>
+		<item>
+			<title>👎💵Russell Brown - WA Association of Prosecuting Attorneys</title>
+			<description>Russell Brown signed up to testify Con. They are signed up to represent WA Association of Prosecuting Attorneys. They are a registered lobbyist.</description>
+			<pubDate>Mon, 08 Jan 2024 05:19:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Russell/Brown/2024-01-08 05:19:45</guid>
+		</item>
+		<item>
+			<title>❓💵Rowland Thompson - Allied Daily Newspapers of WA, WA Newspaper Publishers Assn, WA State Assn of Broadcasters</title>
+			<description>Rowland Thompson signed up to testify Other. They are signed up to represent Allied Daily Newspapers of WA, WA Newspaper Publishers Assn, WA State Assn of Broadcasters. They are a registered lobbyist.</description>
+			<pubDate>Mon, 08 Jan 2024 06:19:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Rowland/Thompson/2024-01-08 06:19:01</guid>
+		</item>
+		<item>
+			<title>👍Mary Logan - King County Department of Public Defense</title>
+			<description>Mary Logan signed up to testify Pro.</description>
+			<pubDate>Tue, 09 Jan 2024 01:22:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mary/Logan/2024-01-09 01:22:20</guid>
+		</item>
+		<item>
+			<title>❓Megan Allen - King County Sexual Assault Resource Center</title>
+			<description>Megan Allen signed up to testify Other. They are signed up to represent King County Sexual Assault Resource Center.</description>
+			<pubDate>Tue, 09 Jan 2024 11:30:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Megan/Allen/2024-01-09 11:30:30</guid>
+		</item>
+		<item>
+			<title>👎Ann Davison - Seattle City Attorney's Office</title>
+			<description>Ann Davison signed up to testify Con. They are signed up to represent Seattle City Attorney's Office.</description>
+			<pubDate>Tue, 09 Jan 2024 11:34:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Ann/Davison/2024-01-09 11:34:24</guid>
 		</item>
 	</channel>
 </rss>

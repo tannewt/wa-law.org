@@ -1,6 +1,6 @@
 # Hopelink
 
-## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 
 ## [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims 👍2  
 
@@ -59,6 +59,19 @@
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍2  
 
+## [HB 1945](/bill/2023-24/hb/1945/) - Streamlining and enhancing program access for persons eligible for food assistance. 👍1  
+
+## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍1  
+
+## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍1  
+* 👍 Juliana Yenne
+
+## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
+
+## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍1  
+
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍1  
+
 ## [SB 5028](/bill/2023-24/sb/5028/) - Name changes 👍1  
 
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍3  
@@ -106,3 +119,9 @@
 ## [SB 5702](/bill/2023-24/sb/5702/) - Student homelessness pilot 👍3  
 
 ## [SB 5710](/bill/2023-24/sb/5710/) - Behavioral health/youth 👍2  
+
+## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
+
+## [SB 5899](/bill/2023-24/sb/5899/) - Adding to the list of provisions prohibited from rental agreements. 👍1  
+
+## [SB 6024](/bill/2023-24/sb/6024/) - Housing development 👍1  

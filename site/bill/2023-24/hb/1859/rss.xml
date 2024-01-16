@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1859/</link>
 		<description>Updates about HB 1859</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 21 Apr 2023 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 12 Jan 2024 02:42:12 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,37 @@
 			<pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-21/First reading, referred to Health Care &amp; Wellness (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
+			<title>👎Carin Marney - Lane Powell PC</title>
+			<description>Carin Marney signed up to testify Con. They are signed up to represent Lane Powell PC.</description>
+			<pubDate>Fri, 12 Jan 2024 02:42:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Carin/Marney/2024-01-12 02:42:12</guid>
+		</item>
+		<item>
+			<title>👎Carma Matti-Jackson - Washington Health Care Association</title>
+			<description>Carma Matti-Jackson signed up to testify Con. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_health_care_association/&quot;&gt;Washington Health Care Association&lt;/a&gt;.</description>
+			<pubDate>Fri, 12 Jan 2024 02:42:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Carma/Matti-Jackson/2024-01-12 02:42:12</guid>
+		</item>
+		<item>
+			<title>👎💵John Ficker - Adult Family Home Council</title>
+			<description>John Ficker signed up to testify Con. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/adult_family_home_council/&quot;&gt;Adult Family Home Council&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Fri, 12 Jan 2024 02:42:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/John/Ficker/2024-01-12 02:42:12</guid>
 		</item>
 	</channel>
 </rss>

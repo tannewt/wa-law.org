@@ -8,19 +8,28 @@
 
 ## Meetings
 ### Fri 01/12 08:00 AM - Health & Long Term Care (HLTC): SB 5982 Vaccine definition
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31541&aId=156268&caId=22906&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31541&aId=156268&caId=22906&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31541&aId=156268&caId=22906&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31541&aId=156268&caId=22906&tId=4)
+#### 362 👍 - Pro
+Testifying:
+* Janna Bardi
+* Barbara Barrilleaux - Parent
+* Dr. Beth Harvey - Washington Chapter of the American Academy of Pediatrics & Washington Vaccine Association
+* Dr. Tao Kwan-Gett - Washington State Department of Health
+* 💵Carey Morris - Parent
+* Dr. Amy Harley - Whatcom County Community Services, WSALPHO
+* Katie Kolan - Washington State Hospital Association
+* 💵Amy Brackenbury - [Washington State Public Health Association](/org/washington_state_public_health_association/)
+* 💵Jennifer Ziegler - [Association of Washington Healthcare Plans](/org/association_of_washington_healthcare_plans/)
 
-#### 11 👍 - Pro
-
-#### 487 👎 - Con
+#### 1595 👎 - Con
 Testifying:
 * Mary Long - Conservative Ladies of Washington
 * Kim Slinger
 * Natalie Chavez
 * Laurie Layne
+* Virginia Griffiths
+* Jeannette Mcchesney
+* Bob Runnells - Informed Choice Washington
+* Anne Severson
+* HEIDI SCHOR
 
 #### 1 ❓ - Other

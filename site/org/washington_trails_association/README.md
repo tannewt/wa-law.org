@@ -24,3 +24,7 @@
 ## [SB 5471](/bill/2023-24/sb/5471/) - Electric bicycles/disability 👍1  
 
 ## [SB 5590](/bill/2023-24/sb/5590/) - Mt. St. Helens license plate 👍1  
+
+## [SB 5785](/bill/2023-24/sb/5785/) - Concerning department of fish and wildlife authority with regard to certain nonprofit and volunteer organizations. 👍1  
+
+## [SB 5902](/bill/2023-24/sb/5902/) - Reinvesting account revenue for the purpose of supporting the state park system. 👍1  

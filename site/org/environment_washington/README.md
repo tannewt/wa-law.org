@@ -14,6 +14,8 @@
 ## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍1  
 * 👍 Pam Clough
 
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍1  
+
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍2  
 
 ## [HB 1392](/bill/2023-24/hb/1392/) - Electronics repair 👍1  
@@ -23,6 +25,17 @@
 ## [HB 1554](/bill/2023-24/hb/1554/) - Lead impacts 👍1  
 
 ## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy 👍1  
+
+## [HB 1900](/bill/2023-24/hb/1900/) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system.  👎1 
+* 👎💵 Pamela Clough
+
+## [HB 1933](/bill/2023-24/hb/1933/) - Supporting the servicing and right to repair of certain products with digital electronics in a secure and reliable manner. 👍1  
+* 👍 Pam Clough
+
+## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes. 👍1  
+
+## [HB 2051](/bill/2023-24/hb/2051/) - Reducing emissions from small off-road engines. 👍1  
+* 👍💵 Pamela Clough
 
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍1  
 

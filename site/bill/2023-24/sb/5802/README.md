@@ -7,3 +7,12 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/16 08:00 AM - Health & Long Term Care (HLTC): SB 5802 Nursing rate calculation
+#### 15 👍 - Pro
+Testifying:
+* Peter Graham - DSHS/ALTSA
+* 💵Alyssa Odegaard - LeadingAge Washington
+
+#### 0 👎 - Con
+
+#### 2 ❓ - Other

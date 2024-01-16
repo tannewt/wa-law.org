@@ -217,30 +217,95 @@
 * ❓ Brandy DeLange
 * ❓ Brandy DeLange
 
+## [HB 1870](/bill/2023-24/hb/1870/) - Promoting economic development by increasing opportunities for local communities to secure federal funding. 👍1  
+* 👍 Brandy DeLange
+
 ## [HB 1892](/bill/2023-24/hb/1892/) - Concerning the workforce housing accelerator program. 👍1  
 
-## [HB 1932](/bill/2023-24/hb/1932/) - Shifting general elections for local governments to even-numbered years to increase voter participation.  👎1 
+## [HB 1894](/bill/2023-24/hb/1894/) - Modifying provisions of the business licensing service program. 👍1  
+
+## [HB 1900](/bill/2023-24/hb/1900/) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system.  👎1 
+* 👎💵 Carl Schroeder
+
+## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍1  
+
+## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections  👎1 
 * 👎💵 Lindsey Hueer
 
 ## [HB 1940](/bill/2023-24/hb/1940/) - Employer political speech   ❓1
 * ❓💵 Candice Bock
 
-## [HB 1952](/bill/2023-24/hb/1952/) - Concerning long-term community recovery after disasters.   ❓1
+## [HB 1952](/bill/2023-24/hb/1952/) - Concerning long-term community recovery after disasters. 👍1  ❓1
 * ❓💵 Lindsey Hueer
+* 👍 Brandy DeLange
+
+## [HB 1982](/bill/2023-24/hb/1982/) - Broadband loans & grants 👍1  
+
+## [HB 1986](/bill/2023-24/hb/1986/) - Adding purposes for the use of existing firefighter safety funding. 👍1  
 
 ## [HB 1987](/bill/2023-24/hb/1987/) - Concerning the use of moneys from the rural public facilities sales and use tax for affordable workforce housing infrastructure and facilities. 👍1  
+
+## [HB 1990](/bill/2023-24/hb/1990/) - Aerial imagery program 👍1  
 
 ## [HB 1998](/bill/2023-24/hb/1998/) - Co-living housing   ❓1
 * ❓💵 Carl Schroeder
 
+## [HB 2020](/bill/2023-24/hb/2020/) - Creating a state administered public infrastructure assistance program within the emergency management division. 👍1  
+* 👍 Brandy DeLange
+
+## [HB 2026](/bill/2023-24/hb/2026/) - Concerning rental income received by people eligible for certain property tax exemption programs. 👍1  
+
 ## [HB 2036](/bill/2023-24/hb/2036/) - Concerning workplace safety and operational standards for adult entertainment establishments.   ❓1
 * ❓💵 Candice Bock
+
+## [HB 2044](/bill/2023-24/hb/2044/) - Standardizing limitations on voter-approved property tax levies. 👍1  
+* 👍💵 Candice Bock
 
 ## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes. 👍1  
 * 👍💵 Carl Schroeder
 
+## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions.   ❓1
+* ❓💵 Carl Schroeder
+
+## [HB 2071](/bill/2023-24/hb/2071/) - Residential housing   ❓1
+* ❓💵 Carl Schroeder
+
+## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍1  
+* 👍 Brandy DeLange
+
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍2  
+* 👍💵 Candice Bock
+* 👍💵 Candice Bock
+
+## [HB 2105](/bill/2023-24/hb/2105/) - Instream resources   ❓1
+* ❓💵 Carl Schroeder
+
+## [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element  👎1 
+* 👎💵 Carl Schroeder
+
+## [HB 2127](/bill/2023-24/hb/2127/) - Incentives to return to work 👍1  
+
 ## [HB 2144](/bill/2023-24/hb/2144/) - Providing for a deposit return program for qualifying beverage containers to be implemented by a distributor responsibility organization.   ❓1
 * ❓💵 Carl Schroeder
+
+## [HB 2153](/bill/2023-24/hb/2153/) - Catalytic converter theft 👍1  
+
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development  👎1 
+* 👎💵 Carl Schroeder
+
+## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities 👍1  
+
+## [HB 2211](/bill/2023-24/hb/2211/) - Criminal justice local tax 👍1  
+* 👍💵 Lindsey Hueer
+
+## [HB 2231](/bill/2023-24/hb/2231/) - Law enforcement funding 👍1  
+* 👍💵 Lindsey Hueer
+
+## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍1  
+* 👍💵 Lindsey Hueer
+
+## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
+* 👍💵 Carl Schroeder
 
 ## [SB 5001](/bill/2023-24/sb/5001/) - Public facility districts 👍1  
 
@@ -257,7 +322,8 @@
 
 ## [SB 5058](/bill/2023-24/sb/5058/) - Multiunit res. buildings 👍1  
 
-## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎2 
+## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎3 
+* 👎💵 Candice Bock
 * 👎💵 Candice Bock
 * 👎💵 Candice Bock
 
@@ -274,6 +340,9 @@
 ## [SB 5118](/bill/2023-24/sb/5118/) - Multifamily property tax ex.   ❓1
 
 ## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍3  
+
+## [SB 5133](/bill/2023-24/sb/5133/) - Responsible bidder criteria   ❓1
+* ❓ Brandy DeLange
 
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1  
 
@@ -449,8 +518,13 @@
 
 ## [SB 5723](/bill/2023-24/sb/5723/) - Even-numbered year elections 👍1  
 
+## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
+* 👍💵 Candice Bock
+
 ## [SB 5778](/bill/2023-24/sb/5778/) - Employer political speech   ❓1
 * ❓💵 Candice Bock
+
+## [SB 5780](/bill/2023-24/sb/5780/) - Public defense training 👍1  
 
 ## [SB 5781](/bill/2023-24/sb/5781/) - Establishing a law student rural public defense program. 👍2  
 * 👍💵 Lindsey Hueer
@@ -464,6 +538,13 @@
 
 ## [SB 5853](/bill/2023-24/sb/5853/) - Extending the crisis relief center model to provide behavioral health crisis services for minors. 👍2  
 
+## [SB 5885](/bill/2023-24/sb/5885/) - Certificates of annexation 👍1  
+* 👍💵 Carl Schroeder
+
+## [SB 5886](/bill/2023-24/sb/5886/) - Firefighter safety funding 👍1  
+
+## [SB 5897](/bill/2023-24/sb/5897/) - Modifying provisions of the business licensing service program. 👍1  
+
 ## [SB 5901](/bill/2023-24/sb/5901/) - Concerning co-living housing.   ❓1
 * ❓💵 Carl Schroeder
 
@@ -471,6 +552,29 @@
 * ❓💵 Candice Bock
 
 ## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD 👍1  
+
+## [SB 5937](/bill/2023-24/sb/5937/) - Crime victims & witnesses   ❓1
+
+## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental   ❓1
+* ❓ Brandy DeLange
+
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
+* 👍💵 Candice Bock
+
+## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  
+* 👍 Brandy DeLange
+
+## [SB 6015](/bill/2023-24/sb/6015/) - Residential parking  👎1 
+* 👎💵 Carl Schroeder
+
+## [SB 6024](/bill/2023-24/sb/6024/) - Housing development  👎1 
+* 👎💵 Carl Schroeder
+
+## [SB 6061](/bill/2023-24/sb/6061/) - Housing development/SEPA   ❓1
+* ❓💵 Carl Schroeder
+
+## [SB 6105](/bill/2023-24/sb/6105/) - Adult entertainment workers   ❓1
+* ❓💵 Lindsey Hueer
 
 ## [SJR 8201](/bill/2023-24/sjr/8201/) - Public works account 👍1  
 * 👍 Brandy DeLange

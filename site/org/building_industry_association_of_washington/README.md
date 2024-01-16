@@ -130,6 +130,48 @@
 
 ## [HB 1762](/bill/2023-24/hb/1762/) - Warehouse employees  👎1 
 
+## [HB 1885](/bill/2023-24/hb/1885/) - Strengthening campaign finance disclosure by prohibiting campaign contributions and expenditures by foreign-influenced corporations.  👎2 
+
+## [HB 1998](/bill/2023-24/hb/1998/) - Co-living housing 👍1  
+
+## [HB 2008](/bill/2023-24/hb/2008/) - Housing cost task force 👍1  
+
+## [HB 2039](/bill/2023-24/hb/2039/) - Modifying the appeals process for environmental and land use matters.  👎1 
+* 👎💵 Jan Himebaugh
+
+## [HB 2051](/bill/2023-24/hb/2051/) - Reducing emissions from small off-road engines.  👎1 
+* 👎💵 Brent Ludeman
+
+## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions.  👎1 
+* 👎💵 Jan Himebaugh
+
+## [HB 2071](/bill/2023-24/hb/2071/) - Residential housing   ❓1
+* ❓💵 Bill Stauffacher
+
+## [HB 2087](/bill/2023-24/hb/2087/) - Apprenticeship objections 👍1  
+* 👍💵 Tricia Gullion
+
+## [HB 2097](/bill/2023-24/hb/2097/) - Worker wage recovery   ❓1
+* ❓💵 Tricia Gullion
+
+## [HB 2105](/bill/2023-24/hb/2105/) - Instream resources   ❓1
+* ❓💵 Jan Himebaugh
+
+## [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element 👍1  
+* 👍💵 Bill Stauffacher
+
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants  👎1 
+
+## [HB 2126](/bill/2023-24/hb/2126/) - Rural area ADUs 👍1  
+* 👍💵 Bill Stauffacher
+
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development  👎1 
+
+## [HB 2236](/bill/2023-24/hb/2236/) - Tech. ed. core plus programs   ❓1
+
+## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes  👎1 
+* 👎💵 Brent Ludeman
+
 ## [SB 5027](/bill/2023-24/sb/5027/) - American dream homes  👎1 
 * 👎💵 Jan Himebaugh
 
@@ -139,7 +181,7 @@
 * 👍💵 Josie Cummings
 * 👍💵 Tricia Gullion
 
-## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
+## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎2 
 
 ## [SB 5060](/bill/2023-24/sb/5060/) - Rental & vacant properties  👎1 
 
@@ -224,4 +266,24 @@
 * ❓💵 Josie Cummings
 * ❓💵 Bill Stauffacher
 
-## [SB 5835](/bill/2023-24/sb/5835/) - Concerning transparency in rule making. 👍1  
+## [SB 5834](/bill/2023-24/sb/5834/) - Concerning urban growth areas. 👍1  
+* 👍💵 Jan Himebaugh
+
+## [SB 5835](/bill/2023-24/sb/5835/) - Rule making websites 👍1  
+
+## [SB 5901](/bill/2023-24/sb/5901/) - Concerning co-living housing. 👍1  
+
+## [SB 5924](/bill/2023-24/sb/5924/) - Concerning access to personnel records  👎1 
+* 👎💵 Tricia Gullion
+
+## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants  👎1 
+
+## [SB 6015](/bill/2023-24/sb/6015/) - Residential parking 👍1  
+
+## [SB 6024](/bill/2023-24/sb/6024/) - Housing development  👎2 
+
+## [SB 6029](/bill/2023-24/sb/6029/) - Detached ADUs 👍1  
+* 👍💵 Jan Himebaugh
+
+## [SB 6061](/bill/2023-24/sb/6061/) - Housing development/SEPA  👎1 
+* 👎💵 Jan Himebaugh

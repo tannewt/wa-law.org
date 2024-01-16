@@ -19,6 +19,8 @@
 
 ## [HB 1035](/bill/2023-24/hb/1035/) - Health care restrictions 👍1  
 
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
+
 ## [HB 1046](/bill/2023-24/hb/1046/) - Housing dev. income limits 👍1  
 
 ## [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act 👍2  
@@ -207,6 +209,8 @@
 
 ## [HB 1360](/bill/2023-24/hb/1360/) - Alt. professional licensing  👎1 
 
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍1  
+
 ## [HB 1377](/bill/2023-24/hb/1377/) - Continuing education/K-12 👍2  ❓1
 * ❓💵 Nasue Nishida
 
@@ -248,7 +252,8 @@
 
 ## [HB 1478](/bill/2023-24/hb/1478/) - Student rights 👍2  
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation   ❓3
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation   ❓4
+* ❓ Jared Mason-Gere
 * ❓ Jared Mason-Gere
 * ❓ Jared Mason-Gere
 * ❓ Jared Mason-Gere
@@ -305,6 +310,8 @@
 
 ## [HB 1590](/bill/2023-24/hb/1590/) - Oversight board for DCYF 👍1  
 
+## [HB 1608](/bill/2023-24/hb/1608/) - Anaphylaxis meds./schools 👍1  
+
 ## [HB 1609](/bill/2023-24/hb/1609/) - School library info and tech 👍1  
 
 ## [HB 1611](/bill/2023-24/hb/1611/) - Local government permitting 👍1  
@@ -327,7 +334,7 @@
 
 ## [HB 1679](/bill/2023-24/hb/1679/) - Student homelessness group 👍1  
 
-## [HB 1692](/bill/2023-24/hb/1692/) - Student advisory groups 👍1  
+## [HB 1692](/bill/2023-24/hb/1692/) - Student advisory groups 👍2  
 
 ## [HB 1693](/bill/2023-24/hb/1693/) - Student homelessness pilot 👍1  
 
@@ -367,8 +374,102 @@
 
 ## [HB 1823](/bill/2023-24/hb/1823/) - WA student loan program 👍3  
 
+## [HB 1843](/bill/2023-24/hb/1843/) - School district elections   ❓1
+* ❓💵 Simone Boe
+
+## [HB 1862](/bill/2023-24/hb/1862/) - Providing tax exemptions for the assistance of disabled veterans and members of the armed forces of the United States of America. 👍1  
+
+## [HB 1879](/bill/2023-24/hb/1879/) - Naming the curriculum used to inform students about tribal history, culture, and government after John McCoy (lulilaš). 👍1  
+
+## [HB 1889](/bill/2023-24/hb/1889/) - Allowing persons to receive professional licenses and certifications regardless of immigration or citizenship status. 👍1  
+
+## [HB 1893](/bill/2023-24/hb/1893/) - Unemp ins/strikes & lockouts 👍1  
+
+## [HB 1895](/bill/2023-24/hb/1895/) - Modifying the working families' tax credit by clarifying the refundable nature of the credit, the application requirements, and the eligibility verification process. 👍1  
+
+## [HB 1905](/bill/2023-24/hb/1905/) - Including protected classes in the Washington equal pay and opportunities act. 👍2  
+
+## [HB 1914](/bill/2023-24/hb/1914/) - Improving the education of students with varying abilities by enhancing special education services.  👎1 
+* 👎 Jared Mason-Gere
+
+## [HB 1915](/bill/2023-24/hb/1915/) - Making financial education instruction a graduation prerequisite and a required component of public education.   ❓1
+* ❓💵 Nasue Nishida
+
+## [HB 1927](/bill/2023-24/hb/1927/) - Reducing the number of days that a worker's temporary total disability must continue to receive industrial insurance compensation for the day of an injury and the three-day period following the injury. 👍2  
+
+## [HB 1934](/bill/2023-24/hb/1934/) - AI task force 👍1  
+
+## [HB 1940](/bill/2023-24/hb/1940/) - Employer political speech 👍1  
+
+## [HB 1943](/bill/2023-24/hb/1943/) - National guard ed. grants 👍1  
+
+## [HB 1949](/bill/2023-24/hb/1949/) - Including in the public safety employees' retirement system specified competency restoration workers at department of social and health services institutional and residential sites that serve civilly committed residents or serve patients under not guilty by reason of insanity findings. 👍1  
+
+## [HB 1950](/bill/2023-24/hb/1950/) - Concerning the public service loan forgiveness program. 👍2  
+* 👍💵 Simone Boe
+
+## [HB 1969](/bill/2023-24/hb/1969/) - Individual providers/family 👍1  
+
+## [HB 1975](/bill/2023-24/hb/1975/) - Relieving individuals from paying interest on certain unemployment insurance overpayment assessments. 👍1  
+
+## [HB 1982](/bill/2023-24/hb/1982/) - Broadband loans & grants 👍1  
+
+## [HB 1985](/bill/2023-24/hb/1985/) - PERS/TRS 1 benefit increase 👍1  
+* 👍 Jared Mason-Gere
+
+## [HB 1991](/bill/2023-24/hb/1991/) - Paid sick leave 👍1  
+
+## [HB 2013](/bill/2023-24/hb/2013/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍1  
+
+## [HB 2019](/bill/2023-24/hb/2019/) - Establishing a Native American apprentice assistance program. 👍1  
+
+## [HB 2022](/bill/2023-24/hb/2022/) - Concerning construction crane safety. 👍1  
+
+## [HB 2025](/bill/2023-24/hb/2025/) - Modifying placement and salary matching requirements for the state work-study program. 👍1  
+
+## [HB 2038](/bill/2023-24/hb/2038/) - Collecting data on student transfers and withdrawals from public schools and school districts.   ❓1
+* ❓💵 Nasue Nishida
+
+## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍2  
+* 👍 Rebecca Mathews
+* 👍💵 Simone Boe
+
+## [HB 2094](/bill/2023-24/hb/2094/) - Gift certificates 👍1  
+
+## [HB 2095](/bill/2023-24/hb/2095/) - Gift certificates/unclaimed 👍1  
+
+## [HB 2097](/bill/2023-24/hb/2097/) - Worker wage recovery 👍1  
+
+## [HB 2100](/bill/2023-24/hb/2100/) - Mass layoffs 👍1  
+
+## [HB 2102](/bill/2023-24/hb/2102/) - PFML benefits/health info. 👍1  
+
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  
 * 👍💵 Larry Delaney
+
+## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention   ❓1
+* ❓💵 Simone Boe
+
+## [HB 2125](/bill/2023-24/hb/2125/) - Concerning the eligibility of state-mandated benefits for contingent faculty at community and technical colleges. 👍2  
+
+## [HB 2164](/bill/2023-24/hb/2164/) - Postsecondary ed protections 👍1  
+
+## [HB 2180](/bill/2023-24/hb/2180/) - Special education cap 👍1  
+* 👍💵 Julie Salvi
+
+## [HB 2184](/bill/2023-24/hb/2184/) - DD parental caregivers 👍1  
+
+## [HB 2188](/bill/2023-24/hb/2188/) - Health subsidy/retirees 👍1  
+
+## [HB 2209](/bill/2023-24/hb/2209/) - Lunar new year 👍1  
+
+## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍1  
+
+## [HB 2242](/bill/2023-24/hb/2242/) - Sexual assault/higher ed. 👍1  
+
+## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍2  
+
+## [HB 2282](/bill/2023-24/hb/2282/) - African American studies 👍1  
 
 ## [SB 5000](/bill/2023-24/sb/5000/) - Americans of Chinese descent 👍1  
 
@@ -565,7 +666,7 @@
 
 ## [SB 5425](/bill/2023-24/sb/5425/) - Fire sprinkler contractors 👍1  
 
-## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍1  
+## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍3  
 
 ## [SB 5441](/bill/2023-24/sb/5441/) - School district curricula 👍1  
 
@@ -681,8 +782,38 @@
 ## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages  👎2 
 * 👎 Sue Nightingale
 
+## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
+
+## [SB 5774](/bill/2023-24/sb/5774/) - Increasing the capacity to conduct timely fingerprint-based background checks for prospective child care employees and other programs. 👍1  
+
+## [SB 5776](/bill/2023-24/sb/5776/) - Accessing an emergency supply of insulin. 👍1  
+
+## [SB 5777](/bill/2023-24/sb/5777/) - Unemp ins/strikes & lockouts 👍1  
+
+## [SB 5778](/bill/2023-24/sb/5778/) - Employer political speech 👍1  
+
+## [SB 5790](/bill/2023-24/sb/5790/) - Bleeding control/schools 👍1  
+
+## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave 👍1  
+
+## [SB 5804](/bill/2023-24/sb/5804/) - Concerning opioid overdose reversal medication in high schools. 👍1  
+
 ## [SB 5809](/bill/2023-24/sb/5809/) - Charter schools/enrichment  👎1 
 * 👎💵 Julie Salvi
+
+## [SB 5823](/bill/2023-24/sb/5823/) - School district elections 👍2  
+* 👍 Brady Vallala
+* 👍💵 Simone Boe
+
+## [SB 5837](/bill/2023-24/sb/5837/) - Codifying the state election database to publish, evaluate, and analyze certain election data. 👍1  
+
+## [SB 5839](/bill/2023-24/sb/5839/) - Modifying the working families' tax credit by clarifying the refundable nature of the credit, the application requirements, and the eligibility verification process. 👍1  
+
+## [SB 5850](/bill/2023-24/sb/5850/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
+
+## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍1  
+
+## [SB 5853](/bill/2023-24/sb/5853/) - Extending the crisis relief center model to provide behavioral health crisis services for minors. 👍1  
 
 ## [SB 5873](/bill/2023-24/sb/5873/) - Student transportation 👍1  
 * 👍💵 Julie Salvi
@@ -690,5 +821,41 @@
 ## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍1  
 * 👍💵 Julie Salvi
 
+## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
+
+## [SB 5895](/bill/2023-24/sb/5895/) - Concerning collective bargaining for certain employees who are enrolled in academic programs at public institutions of higher education. 👍1  
+
+## [SB 5900](/bill/2023-24/sb/5900/) - Concerning construction crane safety. 👍1  
+
+## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
+
+## [SB 5913](/bill/2023-24/sb/5913/) - Concerning communication between employees of state institutions of higher education and student athletes regarding name, image, and likeness use. 👍2  
+
+## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍1  
+
+## [SB 5924](/bill/2023-24/sb/5924/) - Concerning access to personnel records 👍1  
+
+## [SB 5935](/bill/2023-24/sb/5935/) - Noncompetition covenants 👍1  
+
+## [SB 5946](/bill/2023-24/sb/5946/) - Fallen firefighter memorial 👍1  
+
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
 * 👍💵 Larry Delaney
+
+## [SB 5956](/bill/2023-24/sb/5956/) - Enrichment levies limit 👍1  
+* 👍💵 Julie Salvi
+
+## [SB 5979](/bill/2023-24/sb/5979/) - Concerning accrued leave for construction workers. 👍1  
+
+## [SB 5987](/bill/2023-24/sb/5987/) - Gift certificates 👍1  
+
+## [SB 5988](/bill/2023-24/sb/5988/) - Gift certificates/unclaimed 👍1  
+
+## [SB 6000](/bill/2023-24/sb/6000/) - Military service credit 👍1  
+
+## [SB 6014](/bill/2023-24/sb/6014/) - Special education cap 👍2  
+* 👍💵 Julie Salvi
+
+## [SB 6028](/bill/2023-24/sb/6028/) - Unemployment overpayments 👍1  
+
+## [SB 6060](/bill/2023-24/sb/6060/) - Electronic signatures/PERC 👍1  

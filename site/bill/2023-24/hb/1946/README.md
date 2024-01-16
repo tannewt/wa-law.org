@@ -8,17 +8,19 @@
 
 ## Meetings
 ### Tue 01/09 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1946 Behav. health scholarship
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31569&aId=156078&caId=22884&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31569&aId=156078&caId=22884&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31569&aId=156078&caId=22884&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31569&aId=156078&caId=22884&tId=4)
-
-#### 4 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * Vaughnetta J. Barton - UW School of Social Work
 * Laurie Lippold - Partners for Our Children
+* 💵Anna Nepomuceno - NAMI Washington and Patients Coalition of Washington
+* Lelach Rave - WA Chapter of the American Academy of Pediatrics
+* David Sullivan
+* Breck Lebegue - WA State Psychiatric Association
+* Dr. Kika Kaui - Washington State Psychiatric Association (WSPA)
+* Becky Thompson - Washington Student Achievement Council
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Kathleen Wedemeyer - Citizens Commission on Human Rights
 
 #### 0 ❓ - Other

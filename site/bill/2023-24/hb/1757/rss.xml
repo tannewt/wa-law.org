@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1757/</link>
 		<description>Updates about HB 1757</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 23 Apr 2023 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 15 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -72,6 +72,13 @@
 			<pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-23/By resolution, returned to House Rules Committee for third reading.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Ways &amp; Means.</title>
+			<description>First reading, referred to Ways &amp; Means.</description>
+			<pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-15/First reading, referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

@@ -81,10 +81,22 @@
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1  
 * 👍💵 Justin Allegro
 
+## [HB 1870](/bill/2023-24/hb/1870/) - Promoting economic development by increasing opportunities for local communities to secure federal funding. 👍1  
+
 ## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes. 👍1  
+
+## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions. 👍1  
+* 👍 Jamie Stroble
 
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  
 * 👍 Scott Richards
+
+## [HB 2108](/bill/2023-24/hb/2108/) - Smokey Bear license plates 👍1  
+
+## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage 👍1  
+* 👍 Skippy Shaw
+
+## [HB 2253](/bill/2023-24/hb/2253/) - Community solar 👍1  
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍2  
 
@@ -144,5 +156,10 @@
 ## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands. 👍1  
 * 👍💵 Justin Allegro
 
+## [SB 5846](/bill/2023-24/sb/5846/) - Beaver ecosystem management 👍1  
+
 ## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  
 * 👍 Scott Richards
+
+## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍1  
+* 👍 Skippy Shaw

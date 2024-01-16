@@ -17,7 +17,13 @@
 
 ## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes. 👍1  
 
+## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions. 👍1  
+
 ## [HB 2144](/bill/2023-24/hb/2144/) - Providing for a deposit return program for qualifying beverage containers to be implemented by a distributor responsibility organization. 👍1  
+
+## [HB 2253](/bill/2023-24/hb/2253/) - Community solar 👍1  
+
+## [HB 2336](/bill/2023-24/hb/2336/) - Suitability of lands 👍1  
 
 ## [SB 5093](/bill/2023-24/sb/5093/) - Climate response strategy 👍1  
 
@@ -33,6 +39,10 @@
 
 ## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands. 👍2  
 
-## [SB 5921](/bill/2023-24/sb/5921/) - Concerning tribal representation on the state conservation commission. 👍1  
+## [SB 5921](/bill/2023-24/sb/5921/) - Concerning tribal representation on the state conservation commission. 👍2  
+
+## [SB 5922](/bill/2023-24/sb/5922/) - Modifying the department of fish and wildlife's habitat recovery pilot program. 👍1  
 
 ## [SB 5934](/bill/2023-24/sb/5934/) - Pollinator habitat 👍1  
+
+## [SB 6092](/bill/2023-24/sb/6092/) - Greenhouse gas disclosures 👍1  

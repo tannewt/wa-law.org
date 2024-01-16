@@ -11,14 +11,8 @@
 
 ## Meetings
 ### Mon 01/08 01:30 PM - Regulated Substances & Gaming (RSG): HB 2043 Theater licenses/alcohol
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31552&aId=156188&caId=22891&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31552&aId=156188&caId=22891&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31552&aId=156188&caId=22891&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31552&aId=156188&caId=22891&tId=4)
-
 #### 1 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

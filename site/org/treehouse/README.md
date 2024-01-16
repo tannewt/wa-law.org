@@ -13,6 +13,8 @@
 * 👍💵 Daniel Lugo
 * 👍💵 Daniel Lugo
 
+## [HB 1383](/bill/2023-24/hb/1383/) - Early release petitions/juv. 👍1  
+
 ## [HB 1394](/bill/2023-24/hb/1394/) - Sexual offenses by youth 👍1  
 
 ## [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍2  
@@ -26,7 +28,8 @@
 
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍1  
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍2  
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍7  
+* 👍 Heidi Barden
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
 
@@ -38,6 +41,16 @@
 * 👍💵 Dawn Rains
 
 ## [HB 1701](/bill/2023-24/hb/1701/) - Institutional ed. programs   ❓1
+
+## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍2  
+
+## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
+
+## [HB 2218](/bill/2023-24/hb/2218/) - Extended foster care 👍1  
+* 👍💵 Daniel Lugo
+
+## [HB 2251](/bill/2023-24/hb/2251/) - Unenforceable LFOs 👍3  
+* 👍 Arthur Longworth
 
 ## [SB 5101](/bill/2023-24/sb/5101/) - DOC medical placements 👍1  
 
@@ -74,3 +87,16 @@
 
 ## [SB 5719](/bill/2023-24/sb/5719/) - Student homelessness group 👍1  
 * 👍💵 Dawn Rains
+
+## [SB 5800](/bill/2023-24/sb/5800/) - Improving access to department of licensing issued documents by clarifying the application requirements for a minor, modifying the requirements for at-cost identicards, and studying the feasibility of reduced-fee identicards. 👍1  
+
+## [SB 5850](/bill/2023-24/sb/5850/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
+
+## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍2  
+* 👍 Fred Kingston
+* 👍 Fred Kingston
+
+## [SB 5908](/bill/2023-24/sb/5908/) - Providing extended foster care services to youth ages 18 to 21. 👍2  
+* 👍💵 Daniel Lugo
+
+## [SB 5974](/bill/2023-24/sb/5974/) - Concerning the disposition of unenforceable legal financial obligations other than restitution imposed by a court or an agent of the court against a juvenile prior to July 1, 2023. 👍5  

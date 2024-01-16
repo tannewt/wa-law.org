@@ -36,6 +36,8 @@
 
 ## [HB 1701](/bill/2023-24/hb/1701/) - Institutional ed. programs   ❓1
 
+## [HB 2282](/bill/2023-24/hb/2282/) - African American studies 👍1  
+
 ## [SB 5019](/bill/2023-24/sb/5019/) - School safety staff 👍4  
 * 👍 Ellie Bridge
 * 👍💵 Terique Scott
@@ -66,3 +68,7 @@
 ## [SB 5442](/bill/2023-24/sb/5442/) - Charter schools/enrichment 👍1  
 
 ## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍1  
+
+## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍1  
+
+## [SB 5883](/bill/2023-24/sb/5883/) - Concerning the burden of proof for special education due process hearings. 👍1  

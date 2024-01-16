@@ -75,9 +75,42 @@
 ## [HB 1815](/bill/2023-24/hb/1815/) - Payment card processing/tax 👍1  
 * 👍💵 Julia Gorton
 
+## [HB 1885](/bill/2023-24/hb/1885/) - Strengthening campaign finance disclosure by prohibiting campaign contributions and expenditures by foreign-influenced corporations.  👎1 
+* 👎💵 Julia Gorton
+
+## [HB 1893](/bill/2023-24/hb/1893/) - Unemp ins/strikes & lockouts  👎1 
+* 👎💵 Julia Gorton
+
 ## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍1  
 
+## [HB 1898](/bill/2023-24/hb/1898/) - Concerning unemployment insurance benefit charging. 👍1  
+* 👍💵 Julia Gorton
+
+## [HB 1900](/bill/2023-24/hb/1900/) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system.   ❓1
+* ❓💵 Samantha Louderback
+
+## [HB 1940](/bill/2023-24/hb/1940/) - Employer political speech  👎1 
+* 👎 Montana Miranda
+
 ## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍1  
+
+## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes.  👎1 
+* 👎💵 Samantha Louderback
+
+## [HB 2094](/bill/2023-24/hb/2094/) - Gift certificates  👎1 
+* 👎 Montana Miranda
+
+## [HB 2095](/bill/2023-24/hb/2095/) - Gift certificates/unclaimed  👎2 
+* 👎💵 Julia Gorton
+
+## [HB 2102](/bill/2023-24/hb/2102/) - PFML benefits/health info. 👍1  
+
+## [HB 2144](/bill/2023-24/hb/2144/) - Providing for a deposit return program for qualifying beverage containers to be implemented by a distributor responsibility organization.  👎1 
+* 👎💵 Samantha Louderback
+
+## [HB 2211](/bill/2023-24/hb/2211/) - Criminal justice local tax 👍1  
+
+## [HB 2231](/bill/2023-24/hb/2231/) - Law enforcement funding 👍1  
 
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI  👎1 
 * 👎💵 Julia Gorton
@@ -86,7 +119,7 @@
 
 ## [SB 5056](/bill/2023-24/sb/5056/) - Habitual property offenders 👍1  
 
-## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
+## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎2 
 
 ## [SB 5089](/bill/2023-24/sb/5089/) - Factory assembled structures 👍1  
 
@@ -142,7 +175,27 @@
 * 👍💵 Julia Gorton
 * 👍💵 Julia Gorton
 
+## [SB 5777](/bill/2023-24/sb/5777/) - Unemp ins/strikes & lockouts  👎1 
+* 👎💵 Julia Gorton
+
+## [SB 5778](/bill/2023-24/sb/5778/) - Employer political speech  👎1 
+* 👎 Montana Miranda
+
 ## [SB 5788](/bill/2023-24/sb/5788/) - Service animal training   ❓1
 * ❓💵 Samantha Louderback
 
-## [SB 5835](/bill/2023-24/sb/5835/) - Concerning transparency in rule making. 👍1  
+## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave  👎1 
+* 👎💵 Julia Gorton
+
+## [SB 5835](/bill/2023-24/sb/5835/) - Rule making websites 👍1  
+
+## [SB 5838](/bill/2023-24/sb/5838/) - Establishing an artificial intelligence task force.   ❓1
+
+## [SB 5924](/bill/2023-24/sb/5924/) - Concerning access to personnel records  👎1 
+* 👎💵 Julia Gorton
+
+## [SB 5987](/bill/2023-24/sb/5987/) - Gift certificates  👎1 
+* 👎 Montana Miranda
+
+## [SB 5988](/bill/2023-24/sb/5988/) - Gift certificates/unclaimed  👎1 
+* 👎💵 Julia Gorton

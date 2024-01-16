@@ -6,6 +6,8 @@
 
 ## [HB 1357](/bill/2023-24/hb/1357/) - Prior authorization/health 👍3  
 
+## [HB 1933](/bill/2023-24/hb/1933/) - Supporting the servicing and right to repair of certain products with digital electronics in a secure and reliable manner. 👍1  
+
 ## [SB 5066](/bill/2023-24/sb/5066/) - Health care benefit managers 👍3  
 
 ## [SB 5228](/bill/2023-24/sb/5228/) - Behavioral health OT 👍8  

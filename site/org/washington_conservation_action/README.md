@@ -56,6 +56,19 @@
 * 👎 Rachel Baker
 * 👎 Rachel Baker
 
+## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes. 👍1  
+
+## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions. 👍1  
+
+## [HB 2126](/bill/2023-24/hb/2126/) - Rural area ADUs  👎1 
+
+## [HB 2193](/bill/2023-24/hb/2193/) - Env. restoration accelerator  👎1 
+
+## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage 👍1  
+* 👍💵 Darcy Nonemacher
+
+## [HB 2253](/bill/2023-24/hb/2253/) - Community solar 👍1  
+
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial  👎1 
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
@@ -106,6 +119,13 @@
 
 ## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands. 👍2  
 * 👍💵 Darcy Nonemacher
+
+## [SB 6029](/bill/2023-24/sb/6029/) - Detached ADUs  👎1 
+
+## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍1  
+* 👍💵 Darcy Nonemacher
+
+## [SB 6071](/bill/2023-24/sb/6071/) - Oil exporters/human rights 👍1  
 
 ## [SCR 8402](/bill/2023-24/scr/8402/) - Jennifer Belcher Building 👍2  
 * 👍 Miguel Perez Gibson

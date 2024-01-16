@@ -8,17 +8,13 @@
 
 ## Meetings
 ### Tue 01/09 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2006 Court interpreters
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31562&aId=156035&caId=22801&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31562&aId=156035&caId=22801&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31562&aId=156035&caId=22801&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31562&aId=156035&caId=22801&tId=4)
-
-#### 6 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * (Judge) Michael Diaz - Interpreter Language and Access Commission
 * Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * Luisa Gracia
+* Kristi Cruz - Northwest Justice Project
+* Em Stone - WA State Coalition Against Domestic Violence
 
 #### 0 👎 - Con
 

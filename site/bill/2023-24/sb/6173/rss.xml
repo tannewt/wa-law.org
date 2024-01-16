@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 6173 - Housing sales tax/use</title>
+		<link>https://wa-law.org/bill/2023-24/sb/6173/</link>
+		<description>Updates about SB 6173</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 16 Jan 2024 09:57:06 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Housing.</title>
+			<description>First reading, referred to Housing.</description>
+			<pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-11/First reading, referred to Housing.</guid>
+		</item>
+		<item>
+			<title>👍💵Jason Gauthier - South Sound Housing Affordability Partners</title>
+			<description>Jason Gauthier signed up to testify Pro. They are signed up to represent South Sound Housing Affordability Partners. They are a registered lobbyist.</description>
+			<pubDate>Fri, 12 Jan 2024 03:35:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jason/Gauthier/2024-01-12 03:35:53</guid>
+		</item>
+		<item>
+			<title>👍Kathleen Hosfeld - Homestead Community Land Trust</title>
+			<description>Kathleen Hosfeld signed up to testify Pro. They are signed up to represent Homestead Community Land Trust.</description>
+			<pubDate>Sun, 14 Jan 2024 06:06:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kathleen/Hosfeld/2024-01-14 06:06:00</guid>
+		</item>
+		<item>
+			<title>👍Jet Richardson - Tri-County Partners Habitat for Humanity</title>
+			<description>Jet Richardson signed up to testify Pro. They are signed up to represent Tri-County Partners Habitat for Humanity.</description>
+			<pubDate>Tue, 16 Jan 2024 09:57:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jet/Richardson/2024-01-16 09:57:06</guid>
+		</item>
+	</channel>
+</rss>

@@ -6,16 +6,28 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/11/2024 [NW News Network](/org/nw_news_network/) - [Washington bill aims to reduce 'fast fashion' carbon emissions, pollution | Northwest News Network](https://www.nwnewsnetwork.org/environment-and-planning/2024-01-11/washington-bill-aims-to-reduce-fast-fashion-carbon-emissions-pollution#:~:text=H.B.%202068)
+
 ## Meetings
 ### Thu 01/11 08:00 AM - Environment & Energy (ENVI): HB 2068 Fashion/environmental impact
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31567&aId=156062&caId=22836&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31567&aId=156062&caId=22836&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31567&aId=156062&caId=22836&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31567&aId=156062&caId=22836&tId=4)
+#### 214 👍 - Pro
+Testifying:
+* Kenneth Pucker
+* Annie Agle - Cotopaxi
+* Maxine Bedat - New Standard Institute
+* Brady Walkinshaw
+* Harpreet Kaur
+* Stacy Flynn - Evrnu
 
-#### 7 👍 - Pro
+#### 85 👎 - Con
+Testifying:
+* eric pratt
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Brandon Houskeeper - NW Grocery Assoc
+* John Worthington
 
-#### 2 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Todd Myers - Washington Policy Center

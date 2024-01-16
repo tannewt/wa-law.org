@@ -7,6 +7,36 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/16 04:00 PM - Regulated Substances & Gaming (RSG): HB 1341 Cannabis license ownership
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31620&aId=156937&caId=23271&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31620&aId=156937&caId=23271&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31620&aId=156937&caId=23271&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31620&aId=156937&caId=23271&tId=4)
+
+#### 8 👍 - Pro
+Testifying:
+* 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
+* Andy Brassington - Evergreen Herbal
+* Becca Burghardi - Northwest Cannabis Solutions
+* Douglas Henderson - Painted Rooster Cannabis Co.
+* 💵Brooke Davies - Washington CannaBusiness Association
+* 💵Ezra Eickmeyer - Producers NW
+
+#### 75 👎 - Con
+Testifying:
+* Bill Wagenseller - Washington Bud Company
+* Shawn DeNae Wagenseller - Washington Bud Company
+* Arthur West
+* Christopher Bell - Ever Green Renewable Resources
+* Scott Waller - Washington Association for Substance misuse and Violence Prevention (WASAVP)
+
+#### 3 ❓ - Other
+Testifying:
+* Caitlein Ryan - THE CANNABIS ALLIANCE
+* Bethany Rondeaux - Olympus Horticulture LLC
+* Micah Sherman - Raven
+
 ### Mon 01/23 01:30 PM - Regulated Substances & Gaming (RSG): HB 1341 Cannabis license ownership
 #### 14 👍 - Pro
 Testifying:

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2033/</link>
 		<description>Updates about HB 2033</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 16 Jan 2024 04:51:34 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,20 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Housing (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Housing.</title>
+			<description>First reading, referred to Housing.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Housing.</guid>
+		</item>
+		<item>
+			<title>Fix the housing &amp; homelessness crisis | Washington State House Republicans</title>
+			<description>News article &quot;Fix the housing &amp; homelessness crisis | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Tue, 16 Jan 2024 04:51:34 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/our-priorities/housing/#:~:text=House%20bill%202033</guid>
 		</item>
 	</channel>
 </rss>

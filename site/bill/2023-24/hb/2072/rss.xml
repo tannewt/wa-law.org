@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2072/</link>
 		<description>Updates about HB 2072</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jan 2024 11:50:07 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,7 +23,7 @@
 			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%202072</guid>
 		</item>
 		<item>
-			<title>❓eric pratt - Washington Policy Center</title>
+			<title>❓eric pratt - Attorney General's Office</title>
 			<description>eric pratt signed up to testify Other.</description>
 			<pubDate>Sun, 07 Jan 2024 04:27:03 GMT</pubDate>
 			<category>testifier</category>
@@ -36,6 +36,21 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Civil Rights &amp; Judiciary (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Civil Rights &amp; Judiciary.</title>
+			<description>First reading, referred to Civil Rights &amp; Judiciary.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Civil Rights &amp; Judiciary.</guid>
+		</item>
+		<item>
+			<title>👍Jonathan Mark - Attorney General's Office</title>
+			<description>Jonathan Mark signed up to testify Pro. They are signed up to represent Attorney General's Office.</description>
+			<pubDate>Mon, 08 Jan 2024 11:50:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jonathan/Mark/2024-01-08 11:50:07</guid>
 		</item>
 	</channel>
 </rss>

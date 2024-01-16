@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/08 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 2027 Law enf. certification
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31578&aId=156141&caId=22809&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31578&aId=156141&caId=22809&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31578&aId=156141&caId=22809&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31578&aId=156141&caId=22809&tId=4)
-
-#### 297 👍 - Pro
+#### 390 👍 - Pro
 Testifying:
 * Fred Thomas
 * Juan Peralez - Unidos of Snohomish County
@@ -24,9 +18,11 @@ Testifying:
 * Rick George
 * Shareefah Hoover
 
-#### 9 👎 - Con
+#### 14 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Laurie Layne
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tina Griffin - Washington State Gambling Commission

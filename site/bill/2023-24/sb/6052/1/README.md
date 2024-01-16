@@ -1,0 +1,513 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 6052](/bill/2023-24/sb/6052/) > [Original Bill](/bill/2023-24/sb/6052/1/)
+
+# SB 6052 - Petroleum product supply
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/6052.pdf)
+
+## Section 1
+The state of Washington finds and declares that in the midst of an energy transition away from reliance on fossil fuels, but until that transition is complete, the petroleum-based transportation fuels are of critical importance to the people and businesses of the state. The legislature further finds and declares that the Washington state government requires: At all times a complete and thorough understanding of the operation of petroleum markets, to enable it to respond to possible shortages, price shocks, oversupplies, or other disruptions; and access to timely reporting, assessment, and data collection activities to serve information and policy development needs of the governor, the legislature, public agencies, market participants, and the public.
+
+Washington consumers, state and local agencies, businesses, and policymakers, planners, and enforcement agencies lack access to sufficient pricing and operational information held by refinery operators, fuel suppliers, and others in the supply chain for transportation fuels. Such pricing and operational information for transportation fuels is critical to understanding the cost basis for prices, identifying improper pricing or supply control behaviors in the market, and protecting Washington state consumers, government entities, and businesses. Similar information is already available for other critical fuels, such as electricity.
+
+To protect consumers, Washington state must collect detailed pricing and operational information from refineries, fuel suppliers, and others in the petroleum products supply chain, analyze the data, and provide summarized reports to the public and lawmakers to expose relevant cost and pricing practices in the industry, and to identify market design flaws, market power abuses, and any other manner by which market participants act to harm competition or act contrary to the best interests of consumers in the state.
+
+Furthermore, to ensure that the market for petroleum products is free of anticompetitive and predatory conduct, the legislature finds that additional legal consequences are needed to ensure that petroleum industry prices and practices do not harm consumers.
+
+## Section 2
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Commission" means the utilities and transportation commission.
+
+2. "Destination facility" means any structure, group of structures, equipment, pipeline, or device, other than a vessel, that receives oil in bulk to or from a tank vessel, railroad car, or pipeline, that is used for producing, storing, handling, transferring, processing, or transporting oil in bulk. A "destination facility" does not include any railroad car, motor vehicle, or other rolling stock while transporting oil over the highways or rail lines of this state.
+
+3. "Division" means the division of petroleum market oversight.
+
+4. "Environmental marketing claim" means a claim about the environmental attributes of a product, package, or service in connection with the marketing, offering for sale, or sale of such item or service to individuals, or in business-to-business transactions. These claims include those made in labeling, advertising, promotional materials, and all other forms of marketing in any medium, whether asserted directly or by implication, through words, symbols, logos, depictions, product brand names, or any other means.
+
+5. "Gross transportation fuels refining margin" means the difference, expressed in dollars per barrel, between the volume-weighted average price of wholesale transportation fuels sold by a refiner in the state and the average price of crude oil received by the refinery.
+
+6. "Major marketer" means any person who sells transportation fuels or oil intended for use in Washington in amounts determined by the commission as having a major effect on transportation fuel supplies in Washington.
+
+7. "Net transportation fuels refining margin" means the gross transportation fuels refining margin minus the refinery's operational costs.
+
+8. "Operational costs" means costs, expressed in dollars per barrel, necessarily incurred by the operator of a refinery in the state to produce transportation fuels meeting Washington specifications including, but not limited to, costs of labor, electricity, natural gas, chemicals, maintenance, hydrogen, and other intermediate oil products, federal renewable identification numbers, obligation costs, logistics costs, and additive costs.
+
+9. "Person" means any person, firm, association, organization, partnership, business trust, corporation, limited liability company, or company. "Person" also includes any city, county, public district or agency, the state or any department or agency thereof, and the United States to the extent authorized by federal law.
+
+10. "Planned maintenance" means regular, periodic maintenance or repair of one or more pieces of equipment within a petroleum refinery that reduces output of transportation fuels at a level that may affect market supply.
+
+11. "Refiner" means any person who owns, operates, or controls the operations of one or more refineries in Washington.
+
+12. "Refinery" means any industrial plant, regardless of capacity, processing crude oil feedstock and manufacturing transportation fuels in Washington.
+
+13. "Spot market transaction" means a single bulk transaction involving a maximum of one product and one delivery, with title transfer occurring within one year.
+
+14. "Transportation fuels" means gasoline, gasoline blending components, diesel, or diesel blending components.
+
+15. "Turnaround" means a planned, periodic shutdown, total or partial, of a refinery process unit or plant to perform maintenance, overhaul, and repair operations and to inspect, test, and replace process materials and equipment. "Turnaround" does not include unplanned shutdowns that occur due to emergencies or other unexpected maintenance matters in a process unit or plant. "Turnaround" also does not include planned maintenance as defined in subsection (10) of this section.
+
+16. "Unbranded," as applied to fuel, means gasoline and diesel fuel sold for wholesale or retail distribution to consumers without proprietary additives or marketing under a brand name or trademark owned or controlled by an independent refiner or an integrated refining and marketing company.
+
+17. "Unplanned maintenance" means any maintenance or repair that requires the shutdown of any part of the petroleum refinery that reduces output of transportation fuels at a level that may affect market supply, and was not scheduled as turnaround or planned maintenance.
+
+## Section 3
+The commission shall have responsibility to implement sections 6 through 19 of this act and shall establish a new organizational unit to collect, analyze, and report on operational, pricing, and cost information from fuel suppliers, refineries, and other entities in the supply chain for transportation fuels sold in Washington. In addition, the commission shall provide administrative support to the division created within the commission under RCW 19.86.140 and sections 4 and 5 of this act.
+
+## Section 4
+1. The division of petroleum market oversight is hereby established in the commission.
+
+2. Notwithstanding the commission's structure, the division shall operate with authority independent of the commission's authority.
+
+3. The division must be led by a director, who is appointed by the governor and holds office at the pleasure of the governor.
+
+4. The director shall employ and prescribe the duties of other staff members as necessary to carry out the provisions of this section. The staff must include, when feasible, economists, individuals with expertise in transportation fuels markets, and investigative staff with legal training.
+
+## Section 5
+1. The division shall have the following powers and duties:
+
+    a. Provide independent oversight and analysis of the transportation fuels markets for the protection of consumers by identifying market design flaws, market power abuses, and any other manner by which market participants act to harm competition or act contrary to the best interests of consumers in the state;
+
+    b. Provide guidance and recommendations to the commission relating to the development of the assessment required by section 13 of this act and the transportation fuels transition plan described in section 16 of this act;
+
+    c. Provide guidance and recommendations to the governor, members of the commission, and other divisions of the commission on any other issues related to transportation fuels pricing and transportation decarbonization in Washington; and
+
+    d. Report its findings and recommendations to improve market performance at least annually to the legislature, the governor, the commission, the attorney general, and the department of licensing.
+
+2. The division may subpoena witnesses, compel their attendance and testimony, administer oaths and affirmations, take evidence and require by subpoena the production of any books, papers, records, or other items material to the performance of the division's duties or exercise of its powers including, but not limited to, current and historical pricing and sales data and contracts with other petroleum industry participants.
+
+3. The division may refer potential violations of law to the attorney general confidentially at any time.
+
+## Section 6
+1. Each refiner and major marketer shall submit information each month to the commission in such form and extent as the commission prescribes pursuant to this section. The information must be submitted within 30 days after the end of each monthly reporting period and must include the following:
+
+    a. Refiners shall report, by volume, price, and type, for each of their refineries, feedstock inputs, origin of petroleum receipts, imports of finished petroleum products and blendstocks and ethanol, including the source of those imports, exports out of the state of finished petroleum products and blendstocks and ethanol, including the destination of those exports and the entity receiving those exports, refinery outputs by product type, refinery stocks, finished product supply and distribution, including all gasoline sold unbranded by the refiner, blender, or importer.
+
+    b. Major marketers shall report, by volume, price, and type, on sales of petroleum product intended for use in Washington.
+
+2. Each refiner, major marketer, major transporter, major storer, pipeline operator, or port through which transportation fuel is imported or exported, shall annually submit information to the commission in such form and extent as the commission prescribes pursuant to this section. The information must be submitted within 30 days after the end of each reporting period, and must include the following:
+
+    a. Major transporters shall report on petroleum by reporting the capacities of each major transportation system, the amount transported by each system, and inventories thereof. The commission may prescribe rules and regulations that exclude pipeline and transportation modes operated entirely on property owned by major oil transporters from the reporting requirements of this section if the data or information is not needed to fulfill the purposes of this chapter.
+
+    b. Major storers shall report on storage capacity, inventories, receipts and distributions, and methods of transportation of receipts and distributions.
+
+    c. Refiners shall report on facility capacity, and utilization and method of transportation of refinery receipts and distributions.
+
+    d. Major marketers shall report on facility capacity, methods of transportation and distribution, and all sales of petroleum product intended for use in Washington.
+
+    e. Pipeline operators and port operators shall report their capacities for all pipelines and ports used to transport transportation fuels.
+
+    f. All refiners, major marketers, major transporters, major storers, pipeline operators, or port operators submitting information under this subsection shall include in the report for each reporting period the full names of all persons or entities that directly or indirectly own 10 percent or more of the refiner, major marketer, major transporter, major storer, pipeline operator, or port operator submitting the information.
+
+3. The commission may by order or regulation modify the reporting period as to any individual item of information setting forth in the order or regulation its reason for so doing.
+
+4. [Empty]
+
+    a. The commission shall quarterly prepare and make available to the public a summary report based on the data collected pursuant to subsection (1) of this section. The commission shall aggregate information used in a report prepared under this subsection to the extent necessary to assure confidentiality of all specific confidential information exempt from public disclosure and protected as confidential under section 11 of this act.
+
+    b. The commission may require additional information to be submitted as necessary to perform its responsibilities under this chapter.
+
+5. Any person required to submit information or data under this chapter, in lieu thereof, may submit a report made to any other governmental agency, if:
+
+    a. The alternate report or reports contain all of the information or data required by this chapter; and
+
+    b. The person clearly identifies the specific provision of this chapter to which the alternate report is responsive.
+
+6. Each refiner shall submit to the commission, within 30 days after the end of each monthly reporting period, in such form and extent as the commission prescribes, monthly Washington weighted average prices and sales volumes of finished transportation fuels sold through company-operated retail outlets, to other end users, and to wholesale customers.
+
+7. [Empty]
+
+    a. Beginning August 1, 2024, and each month thereafter, an oil refiner, petroleum product transporter, petroleum product marketer, petroleum product pipeline operator, and terminal operator, as designated by the commission, shall submit a report in the form and extent as the commission prescribes pursuant to this section. The commission may determine the form and extent necessary by order or by regulation.
+
+    b. A report may include any of the following information:
+
+        i. Receipts and inventory levels of crude oil and petroleum products at each refinery and terminal location;
+
+        ii. Amount of transportation fuels imported and exported out of the state;
+
+        iii. Amount of, transportation fuels transported intrastate by marine vessel;
+
+        iv. Amount of crude oil imported, including information identifying the source of the crude oil; or
+
+    v. The regional average of invoiced retailer buying price. This subsection does not preclude or augment the current authority of the commission to collect additional data under subsection (4)(b) of this section.
+
+8. Entities must retain for commission review for three years, but not submit to the commission, copies of all contracts or agreements entered into, or amendments to contracts or agreements, with other oil refiners, petroleum product transporters, petroleum product marketers, petroleum product pipeline operators, terminal operators, or any other entity that trades in petroleum products whether or not those entities take possession of petroleum products, as designated by the commission, during the monthly reporting period, along with records of every transaction made under those contracts or agreements and the prices charged for those transactions.
+
+9. All importers of transportation fuels via marine vessel shall report to the commission, at least 96 hours before the arrival of a marine vessel delivery to Washington, all of the following information:
+
+    a. The name of the product tanker or name of the barge, including associated tug name;
+
+    b. The loading location or locations for cargo;
+
+    c. The volume by each type of transportation fuel, such as gasoline, gasoline blending components, diesel fuel, renewable diesel fuel, jet fuel, sustainable aviation fuel, biodiesel, and ethanol;
+
+    d. The cargo landed cost, including the cost incurred to purchase, load, transport, and all other costs and fees to deliver each type of transportation fuel; and
+
+    e. The status of any transportation fuel as sold before discharge, the identity of the buyer for any presold product, and the sale price of any presold product.
+
+10. Nonrefiners, such as proprietary storage companies, that commercially trade in transportation fuels shall retain for commission review for three years, but not submit to the commission, copies of monthly transportation fuels inventory volume records by type for each position holder by name of company, and copies of all contracts or agreements entered into with any refiners, oil producers, petroleum product transporters, petroleum product marketers, petroleum product pipeline operators, terminal operators, or any other entity that trades in petroleum products whether or not those entities take possession of those products, as designated by the commission.
+
+11. Refiners and nonrefiners that consummate spot market transactions shall submit a monthly report to the commission, starting 30 days after the effective date of this section, that includes all of the following information for each transaction occurring during the preceding month:
+
+    a. The identity of the spot market where the transaction occurred;
+
+    b. Whether the transaction was reported to the oil price information service, or any other price reporting service, and the time of the reporting;
+
+    c. The date of the transaction;
+
+    d. The time of the transaction;
+
+    e. The contract identification number for the transaction;
+
+    f. The position sequence number for the transaction;
+
+    g. The contract position identification number for the transaction;
+
+    h. The name, or nonanonymized identification, of the executing trader for the transaction;
+
+        i. The counterparty for the transaction, including company name and name or nonanonymized identification of the executing trader;
+
+    j. Whether the reporting entity is the seller or buyer;
+
+    k. The broker, including company name and name or nonanonymized identification of the executing broker;
+
+    l. The type of transportation fuel;
+
+    m. The product name for each type of transportation fuel;
+
+    n. The volume of each transaction in thousands of barrels, or specified unit of measurement if unable to be indicated in thousands of barrels;
+
+    o. The invoiced volume of each transaction in thousands of barrels, or specified unit of measurement if unable to be indicated in thousands of barrels;
+
+    p. The time and date the material that is the subject of the transaction is scheduled to be delivered or was delivered;
+
+    q. The delivery location specified in the contract for the transaction and the actual delivery location;
+
+    r. The method of transportation for the delivery, such as pipeline, marine vessel, or truck, and the name of the transport;
+
+    s. The actual title transfer date;
+
+    t. The contract subcycle, including descriptors such as "any," "L3," "FH," "BH," "C1," "C2," "C3," or "C4";
+
+    u. The type of pricing method, including exchange of futures for physical, fixed price, fixed date range, floating date range, reference formula, oil price information service close, event-related date range, such as seven days on and around delivery or discharge, or any other utilized method of pricing;
+
+    v. The contract price formula, including the differential from any contract formula and the unit of measurement for any price differential;
+
+    w. The pricing start and end dates for each contract;
+
+    x. The price value of the contract; and
+
+    y. For exchange of futures for physical contracts, the name of the futures product, the contract month of the futures product expressed as the two-digit month and the two-digit year (MM-YY), and the price value of the futures product.
+
+12. It is the intent of the legislature that all refiners shall, while protecting the health and safety of the public and employees, schedule planned maintenance and turnaround in a manner that ensures minimum levels of transportation fuels in production or reserves necessary to adequately and affordably meet demand. To advance that purpose, refiners shall provide quarterly reports to the commission of planned and unplanned maintenance and turnaround activities that occurred at each refinery during the reporting period.
+
+    a. A refiner's report must include, at a minimum, all of the following information:
+
+        i. A brief description of the completed work;
+
+        ii. The start date;
+
+        iii. The return-to-service date;
+
+        iv. The individual process units involved;
+
+    v. The name and operational capacity of each process unit;
+
+    vi. The daily decrease in output of transportation fuel intended to be used in Washington;
+
+    vii. The quantity of contractual supply obligations for finished transportation fuels due during the planned maintenance event or turnaround;
+
+    viii. The drawdown of inventory levels of transportation fuels and other material or substance produced by the unit that are controlled by the refiner at the refinery and at other storage locations in Washington during the planned maintenance event or turnaround, and the levels of such inventories immediately before the commencement of the planned maintenance event or turnaround;
+
+        ix. Imports of transportation fuels and other material or substance produced by the unit in preparation for or during the planned maintenance event;
+
+    x. Purchases of transportation fuels and other material or substance produced by the unit from other market participants in Washington related to the planned maintenance event;
+
+    xi. Planned reductions of noncontracted sales of transportation fuels or other material or substance produced by the unit related to the planned maintenance event.
+
+    b. For unplanned maintenance resulting in a shutdown of a refinery process of greater than 24 hours, each refiner must submit as part of the quarterly reports all of the following information:
+
+        i. The name and operational capacity of each process unit involved in the unplanned outage;
+
+        ii. The daily decrease in output of transportation fuels from each process unit affected by the unplanned outage;
+
+        iii. The inventory levels of the material or substance produced by the unit affected by the unplanned outage that are controlled by the refiner at the refinery and at other storage locations in Washington during the unplanned maintenance event;
+
+        iv. A description of the reason for the unplanned maintenance or outage;
+
+    v. The duration of production reduction;
+
+    vi. The return-to-service date;
+
+    vii. The total decreased output of transportation fuels from each of the affected process units;
+
+    viii. The total increased output from other process units by type of product to partially compensate for the reduced output from the process units affected by the unplanned outage;
+
+        ix. The amount of material obtained from other sources that compensated for the decrease described in (b)(vii) of this subsection and enabled the refiner to cover for the loss of that production; and
+
+    x. The drawdown of inventory levels of any material or substance produced by the unit that are controlled by the refiner at the refinery and at other storage locations in Washington during the unplanned maintenance event.
+
+    c. Upon receipt of a report under this subsection, the chair of the commission shall review the report and may request any additional information from the refiner that is necessary for the commission to assess the effect of the planned maintenance event on the supply and prices of transportation fuels in the state.
+
+13. [Empty]
+
+    a. Notwithstanding any other law, information in the report provided to the commission by a refiner regarding its planned maintenance, unplanned maintenance, or turnaround, including reports under subsection (12) of this section, is confidential information exempt from public disclosure as provided under section 11 of this act.
+
+    b. The commission may adopt regulations or guidance or both to prescribe the manner in which the director of the commission shall implement subsection (12) of this section.
+
+## Section 7
+1. Beginning August 1, 2024, within 30 days of the end of each calendar month, the operator of each refinery operating in the state that produces transportation fuel meeting Washington specifications shall submit to the commission a report for the refinery containing all of the following information:
+
+    a. The volume, in barrels, of crude oil received in that month, separated into subtotals by country of origin;
+
+    b. The volume-weighted average crude oil acquisition cost paid for crude oil that is received and intended to be refined during that month, separated into crude oil acquisition costs by country of origin;
+
+    c. The volume in barrels of transportation fuels received or imported in that month from entities other than the refiner;
+
+    d. The volume-weighted average cost of any transportation fuels received or imported by a refiner during that month;
+
+    e. The quantity, in barrels, of wholesale transportation fuels meeting Washington specifications sold and the corresponding volume-weighted average prices, less all applicable local, state, and federal taxes, separated by unbranded rack sales, branded rack sales, bulk sales, spot pipeline sales, and dealer tankwagon sales in that month;
+
+    f. The gross transportation fuels refining margin per barrel of gasoline sold in that month;
+
+    g. The operational costs per barrel of gasoline sold in that month, including a complete description and amount of each category of cost identified in (b) of this subsection and any other category of cost; and
+
+    h. The net transportation fuels refining margin per barrel of gasoline sold in Washington that month.
+
+2. Within 45 days of the end of each calendar month, the commission shall post on its internet website all of the following:
+
+    a. The gross transportation fuels refining margin data reported pursuant to this section for that month, and any gross transportation fuels refining margin independently calculated by the commission, as a volume-weighted gross refining margin in aggregate for all the combined refineries in the state;
+
+    b. The gross transportation fuels refining margin data reported for that month, and any gross transportation fuels refining margin independently calculated by the commission, in aggregate for each refiner with more than one refinery operating within Washington;
+
+    c. The net transportation fuels refining margin data reported pursuant to this section for that month, and any net transportation fuels refining margin independently calculated by the commission, as a volume-weighted net refining margin in aggregate for all the combined refineries in the state;
+
+    d. The net transportation fuels refining margin data reported for that month, and any net transportation fuels refining margin independently calculated by the commission, in aggregate for each refiner with more than one refinery operating within the state;
+
+    e. The aggregated data submitted pursuant to (a) through (d) of this subsection, inclusive, for that month; and
+
+    f. The average retail price of gasoline by region, and a breakdown of that average price into retail margin and costs, distribution (from the rack to the stations) margin and costs, wholesale (from the refiner to the rack) margin and costs, and refinery margin and costs.
+
+3. The commission, in consultation with the department of ecology, must adopt a methodology for refiners to use to provide separate quantification of the volume-weighted fees or estimated valuations of costs embedded in all wholesale transportation fuels sales associated with the Washington clean fuels program created pursuant to chapter 70A.535 RCW and the Washington cap and invest program created pursuant to chapter 70A.65 RCW, for each volume-weighted average price for: (a) Unbranded rack sales; (b) branded rack sales; (c) bulk sales; (d) spot pipeline sales; and (e) dealer tankwagon sales. The commission must provide the opportunity for public input regarding the development of the methodology. Beginning 60 days after the commission has adopted the methodology, the quantification must be included in the monthly reports required in this section.
+
+## Section 8
+1. The commission, utilizing its own staff and other support staff having expertise and experience in, or with, the petroleum industry, shall gather, analyze, and interpret the information submitted to it pursuant to section 6 of this act and other information relating to the supply and price of petroleum products, with particular emphasis on motor vehicle fuels including, but not limited to, all of the following:
+
+    a. The nature, cause, and extent of any petroleum or petroleum products shortage or condition affecting supply;
+
+    b. The economic and environmental impacts of any petroleum and petroleum products shortage or condition affecting supply;
+
+    c. Petroleum or petroleum products demand and supply forecasting methodologies utilized by the petroleum industry in Washington;
+
+    d. The prices, with particular emphasis on retail motor fuel prices, including sales to unbranded retail markets, and any significant changes in prices charged by the petroleum industry for petroleum or petroleum products sold in Washington and the reasons for those changes;
+
+    e. The profits, both before and after taxes, of the industry as a whole and of major firms within it, and where in the supply chain these profits are realized, including a comparison with other major industry groups and major firms within them as to profits, return on equity and capital, and price-earnings ratio;
+
+    f. For companies that own a refinery in Washington state and one or more refineries elsewhere in the United States, a comparison of profits at their Washington refinery and each other refinery;
+
+    g. The emerging trends relating to supply, demand, and conservation of petroleum and petroleum products;
+
+    h. The nature and extent of efforts of the petroleum industry to expand refinery capacity and to make acquisitions of additional supplies of petroleum and petroleum products; and
+
+        i. The development of a petroleum and petroleum products information system in a manner that will enable the state to take action to meet and mitigate any petroleum or petroleum products shortage or condition affecting supply.
+
+2. The commission shall analyze the impacts of state and federal policies and regulations upon the supply and pricing of transportation fuels.
+
+## Section 9
+1. Within 70 days after the end of each preceding quarter of each calendar year, the commission shall publish and submit to the governor and the legislature a summary, an analysis, and an interpretation of the information submitted to it pursuant to section 6 of this act, consistent with the confidentiality requirements of section 11 of this act. Any person may submit comments in writing regarding the accuracy or sufficiency of the information submitted.
+
+2. The commission shall prepare a biennial assessment of the information provided pursuant to this chapter.
+
+3. The commission may use reasonable means necessary and available to it to seek and obtain any facts, figures, and other information from any source for the purpose of preparing and providing reports to the governor and the legislature. The commission shall specifically include in the reports its analysis of any unsuccessful attempts in obtaining information from potential sources, including the lack of cooperation or refusal to provide information.
+
+4. Whenever the commission fails to provide any report required pursuant to this section within the specified time, it shall provide to all members of the legislature, within five days of the specified time, a detailed written explanation of the cause of any delay.
+
+## Section 10
+1. The commission shall notify those persons who have failed to timely provide the information specified and required by the commission under this chapter. If, within five business days after being notified of the failure to provide the specified information, the person willfully fails to supply the specified information, the person is subject to a civil penalty of not less than $5,000 nor more than $20,000 per day for each day the submission of information is refused or delayed, up to a maximum penalty of $500,000 per submission.
+
+2. A person who willfully makes any false statement, representation, or certification in any record, report, plan, or other document filed with the commission is subject to a civil penalty not to exceed $40,000, as well as all other civil and criminal liability provided under applicable law.
+
+3. The administration of civil penalties under this section is subject to the procedures provided in section 18 of this act, and to the procedures for judicial review under the administrative procedure act, chapter 34.05 RCW.
+
+4. In addition to any civil penalty provided for by this section, if a person fails to timely provide the information specified and required by the commission under this act, the commission may petition a court for an order compelling the person to provide that information.
+
+5. For purposes of this section, "person" means, in addition to the definition contained in section 2 of this act, any responsible corporate officer.
+
+## Section 11
+1. Because public disclosure of information or data provided under this chapter could result in unfair competitive disadvantage to the person supplying the information or could adversely affect market competition, information provided, disclosed, or presented to the commission or any other state agency, or otherwise obtained by the commission or any other state agency pursuant to this act, is confidential and is exempt from public disclosure. This information must be held in confidence or aggregated to the extent necessary to ensure confidentiality.
+
+2. The information confidential under subsection (1) of this section includes business affairs or trade secrets provided to or otherwise obtained by the department of licensing pursuant to this chapter.
+
+3. Notwithstanding subsection (1) of this section, no information submitted pursuant to this chapter is deemed confidential if the information or data has been made public.
+
+4. Internal agency records developed based on information or data that is confidential under subsection (1) of this section, is confidential and is exempt from public disclosure, although reports or aggregated data made public by the commission or any other state agency pursuant to this act is not confidential.
+
+5. The commission, the division, or any other state agency in possession of information that is confidential under this section, shall aggregate information used in any reports prepared under this chapter to the extent necessary to assure confidentiality of all specific confidential information to the extent necessary to prevent the disclosure of information that would result in unfair competitive disadvantage to the person supplying the information or would adversely affect market competition.
+
+6. With respect to petroleum products and blendstocks reported by type pursuant to section 6(1) (a) or (b) of this act, information provided pursuant to section 6 (6) and (7) of this act, and information provided under section 7 of this act, neither the commission, the department of ecology, the department of licensing, or the attorney general, nor any employee or contractor of those entities, may do any of the following:
+
+    a. Use the information furnished under section 6 (1) (a) or (b), (6), or (7) of this act, or under section 7 of this act, for any purpose other than law enforcement or the statistical purposes for which it is supplied;
+
+    b. Make any publication whereby the information furnished by any particular establishment or individual under section 6 (1) (a) or (b), (6), or (7) of this act, or under section 7 of this act, can be identified; or
+
+    c. Permit anyone other than the commission, the department of ecology, the attorney general, and employees or contractors of those entities to examine the individual reports provided under section 6 (1) (a) or (b), (6), or (7) of this act, or under section 7 of this act.
+
+7. Notwithstanding any other law, the commission may disclose confidential information received pursuant to this act to the department of ecology or the attorney general if the department of ecology or the attorney general agrees to keep the information confidential. With respect to the information it receives, the department of ecology and the attorney general are subject to all pertinent provisions of this section.
+
+8. [Empty]
+
+    a. Notwithstanding any other law, the commission shall, upon request, timely disclose confidential information received pursuant to this act, to the speaker of the house, the senate committee on rules, the appropriate policy committees in the house of representatives or the senate, or staff members of each, provided that the information must be provided only in aggregated or otherwise anonymized form, and each individual person receiving or having access to the information must first agree, in writing, to keep the information confidential. Any person or committee receiving information under this subsection is subject to all pertinent provisions of this section.
+
+    b. Aggregated or otherwise anonymized information disclosed under (a) of this subsection must be made available by the commission to the public no more than quarterly, upon request of the speaker of the house of representatives, the senate committee on rules, or the appropriate policy committees in the house of representatives or the senate, under conditions as the commission may determine are necessary to ensure that public disclosure of the specific information would not result in unfair competitive disadvantage to the person supplying the information or adversely affect market competition.
+
+        i. Notwithstanding any other law, the commission may share confidential information received pursuant to this chapter to the department of ecology, upon request for oil spill planning and preparedness purposes, and to first responders in the event of an accident or spill.
+
+        ii. This section does not apply to aggregate data that are required to be posted on the commission's internet website pursuant to requirements of this act.
+
+## Section 12
+1. The commission is authorized to promulgate rules under the administrative procedure act, chapter 34.05 RCW, to implement this chapter. Although the commission may adopt regulations to further define terms or prescribe reporting procedures or calculation methodologies pursuant to this chapter, or prescribe any other method of implementing this chapter, the provisions of this chapter are self-executing and may not require any implementing regulation to be effective with the exception of section 7(3) of this act.
+
+2. The commission may enter into contracts to implement this chapter.
+
+## Section 13
+1. [Empty]
+
+    a. On or before July 1, 2026, and every three years thereafter, the commission shall submit an assessment to the legislature, and to the governor that does all of the following:
+
+        i. Identifies methods to ensure a reliable supply of affordable and safe transportation fuels in Washington. The assessment shall consider the potential benefits to Washington transportation fuel consumers of creating estimates for the level of transportation fuels at the state level and, to the extent feasible, at regional and local levels, and individual refineries if relevant, that should be held in reserve by refiners to prevent shortages that result in sharp increases in the price of transportation fuels. The assessment must consider all factors causing price fluctuation in retail transportation fuels prices when recommending adequate reserve levels. The commission shall consider all relevant evidence from any reasonably available source including, but not limited to, information about imports, by amount, source, if known, and data received by the commission pursuant to existing laws, economic and business experts, and information from any local, state, and federal agencies. The commission shall transmit to the legislature any proposals it deems appropriate for mandatory reserve levels and the terms of a program to implement reserve levels;
+
+        ii. Evaluates the price of transportation fuels, including branded and unbranded retail prices, alternate formulations of transportation fuels with lower carbon impact, and other products suitable for production from refineries in Washington. This evaluation must consider the market demand for these products at three, seven, 10, and 20-year intervals from the date of the assessment. This evaluation must include both of the following:
+
+(A) An examination of whether branded fuel additives have any impact and, if so, how much on fuel efficiency and vehicle emissions; and
+
+(B) An assessment of the presence and availability of retail outlets, including monitoring changes in availability of retail outlets that contribute to increasing retail prices in local and regional areas;
+
+        iii. Considers different levels of supply conditions and assesses the impact of potential refinery closures in Washington;
+
+        iv. Includes an analysis of the impacts on production of refinery planned maintenance, unplanned maintenance, and turnaround, utilizing the quarterly reports provided by refineries as directed in section 6(12) of this act. The commission and division, in consultation with the department of labor and industries and labor and industry stakeholders, shall consider ways to manage necessary refinery turnarounds and maintenance that would protect the health and safety of employees and the public, and minimize the impact of maintenance-related production losses on fuel prices. Notwithstanding any other law, the department of labor and industries shall disclose to the commission, upon request, any information the department has received to ensure all aspects of refinery safety are incorporated into the analysis. All information designated confidential must be treated as confidential by the commission;
+
+    v. Evaluates the utility and feasibility of alternative methods to maintain adequate supplies of transportation fuels, including delivery alternatives for fuel and components of fuel, such as delivery by rail, a publicly maintained strategic fuel reserve, and other solutions beyond the activities of refineries and petroleum market participants; and
+
+    vi. Proposes solutions to mitigate any impacts described in the assessment. The solutions must include an assessment of the employment impacts and the cost and cost-effectiveness of any proposal, including cost impacts to all impacted sectors, both public and private. The assessment must include recommendations and alternatives.
+
+    b. The first assessment must include the evaluation of transportation fuels refining.
+
+2. The assessment must be developed in a public process. The assessment must be available to the public within the proceeding docket and must be approved by a vote of the commission at its business meeting.
+
+3. The commission may enter into contracts to perform the assessment required by subsection (1) of this section.
+
+4. The division shall provide input to and otherwise support the commission in preparation of the assessment required by subsection (1) of this section.
+
+## Section 14
+1. In connection with any investigation or action authorized under this act, the commission may do any of the following:
+
+    a. Inspect and copy books, records, and other items described in (e) of this subsection;
+
+    b. Hear complaints;
+
+    c. Administer oaths;
+
+    d. Certify to all official acts;
+
+    e. Issue subpoenas for the attendance of witnesses and the production of papers, books, accounts, documents, any writing as defined by the Washington state court rules of evidence, tangible things, and testimony pertinent or material to any inquiry, investigation, hearing, proceeding, or action conducted in any part of the state;
+
+    f. Promulgate interrogatories pertinent or material to any inquiry, investigation, hearing, proceeding, or action;
+
+    g. Divulge information or evidence related to the investigation of unlawful activity discovered from interrogatory answers, papers, books, accounts, documents, and any other item described in (e) of this subsection, or testimony, to the attorney general or to any prosecuting attorney of this state, any other state, or the United States who has a responsibility for investigating the unlawful activity investigated or discovered, or to any governmental agency responsible for enforcing laws related to the unlawful activity investigated or discovered, if the attorney general, prosecuting attorney, or agency to which the information or evidence is divulged agrees to maintain the confidentiality of the information received to the extent required by this section;
+
+    h. Present information or evidence obtained or developed from the investigation of unlawful activity to a court or at an administrative hearing in connection with any action or proceeding.
+
+2. The commission shall use reasonable means necessary and available including, but not limited to, the authority under subsection (1)(e) and (f) of this section, to seek and obtain any facts, figures, and other information from any source for the purpose of preparing the assessment under section 13 of this act. The commission shall specifically report in the assessment any ongoing or unsuccessful attempts to obtain information from potential sources, including the lack of cooperation or refusal to provide information.
+
+3. For purposes of the assessment prepared under section 13 of this act, the commission may impose a civil penalty whenever a person fails to timely provide the information specified in that section and any other information the commission deems necessary to conduct the assessment. A civil penalty under this subsection will be imposed under the procedures set forth in section 10(1) of this act.
+
+4. Section 10 (1) through (3) of this act apply to a person who willfully submits or makes any false statement to the commission.
+
+5. The commission shall conduct a public meeting in December of each year to provide an opportunity for the public to provide input on transportation fuels prices.
+
+## Section 15
+The commission shall aggregate information used in the assessment prepared under section 13 of this act to the extent necessary to ensure confidentiality of the specific information upon which it is based as provided under section 11 of this act.
+
+## Section 16
+On or before December 31, 2025, the commission and the department of ecology, taking into account findings of the assessment conducted under section 13 of this act, shall prepare a transportation fuels transition plan. The commission and the department of ecology shall determine the contents of the plan, but the plan must include, at a minimum, a discussion of how to ensure that the supply of transportation fuels is affordable, reliable, equitable, and adequate to meet demand. The plan must be prepared in consultation with a multistakeholder, multiagency work group convened by the commission and the department of ecology to identify mechanisms to plan for and monitor progress toward the state's reliable, safe, equitable, and affordable transition away from petroleum fuels in line with declining instate petroleum demand and RCW 70A.45.020 and chapter 70A.65 RCW. The work group must consist of members representing interests that include, but are not limited to, environmental justice, labor, environmental protection, land use, and public health, members representing the state's fuel producers and refiners, and members representing relevant state, regional, and local agencies. The division of petroleum market oversight shall provide input to and otherwise support the commission in preparation of the plan.
+
+## Section 17
+1. Information provided to the division is confidential and is not subject to public disclosure as provided under section 11 of this act. The division may not divulge or make known in any manner any information provided to it unless it determines that public disclosure of the specific information would not:
+
+    a. Result in unfair competitive disadvantage to the person supplying the information; or
+
+    b. Adversely affect market competition.
+
+2. If the division makes the determination in subsection (1)(a) or (b) of this section regarding any information, the division will provide 30 days for the party or parties who submitted the information to review the determination and provide written explanation to the division if they disagree with its determination.
+
+3. Notwithstanding any other provision of law, the division may disclose information deemed confidential under this subsection or section 11 of this act to members of the commission, other divisions of the commission, the attorney general, or the department of licensing if the receiving entity agrees to keep the information confidential, except that the attorney general may present the information to a court or administrative tribunal to support an enforcement action but shall submit confidential information under seal where permissible. If the attorney general requests the assistance of the division in connection with any investigation, the division shall provide information to the attorney general under this subsection and any other assistance that is feasible.
+
+4. For purposes of the division's annual reports under section 5 of this act, the division shall aggregate data or otherwise anonymize and generalize information as needed to mitigate the risk that public disclosure of the specific information would result in unfair competitive disadvantage to the person supplying the information or would adversely affect market competition, as provided in section 11 of this act.
+
+## Section 18
+1. The commission may issue a civil penalty to any person or entity on whom an administrative civil penalty may be imposed under this chapter. The notice of appeal must allege the act or failure to act for which the civil penalty is proposed, the provision of law authorizing civil liability, and the civil penalty amount.
+
+2. The notice must be served by personal notice or certified mail, and must inform the party so served that a hearing will be conducted within 60 days after the party has been served. The hearing must be before the commission. An appellant may waive the right to a hearing, in which case the commission may not conduct a hearing.
+
+3. After any hearing, the commission may adopt, with or without revision, the proposed decision and order of the director.
+
+4. Orders setting an administrative civil penalty are effective and final upon issuance thereof, and any payment must be made within 30 days. Copies of these orders must be served by personal service or by registered mail upon the party served with the complaint and upon other persons who appeared at the hearing and requested a copy.
+
+5. In determining the amount of the administrative civil penalty, the commission shall take into consideration the nature, circumstance, extent, and gravity of the violation or violations, whether the violation is susceptible to removal or resolution, the cost to the state in pursuing the enforcement action, and, with respect to the violator, the ability to pay, the effect on ability to continue in business, any voluntary removal or resolution efforts undertaken, any prior history of violations, the degree of culpability, economic savings, if any, resulting from the violation, and such other matters as justice may require.
+
+## Section 19
+1. [Empty]
+
+    a. It is unlawful for a person to make deceptive environmental marketing claims, whether explicit or implied, regarding transportation fuels. For the purpose of this section, "environmental marketing claim" includes, but is not limited to, any claim contained in the guides for the use of environmental marketing claims published by the federal trade commission.
+
+    b. It is a defense to any suit or complaint brought under this section that the person's environmental marketing claims conform to the standards or are consistent with the examples contained in the guides for the use of environmental marketing claims published by the federal trade commission.
+
+2. The legislature finds that the practices covered by this chapter are matters vitally affecting the public interest for the purpose of applying the consumer protection act, chapter 19.86 RCW. A violation of this chapter is not reasonable in relation to the development and preservation of business and is an unfair or deceptive act in trade or commerce and an unfair method of competition for purposes of applying the consumer protection act, chapter 19.86 RCW.
+
+## Section 20
+Every person who shall violate the terms of any injunction issued as in this chapter provided, shall forfeit and pay a civil penalty of not more than $125,000.
+
+Every individual who violates RCW 19.86.030 or 19.86.040 shall pay a civil penalty of not more than $180,000. Every person, other than an individual, who violates RCW 19.86.030 or 19.86.040 shall pay a civil penalty of not more than $900,000.
+
+Every person who violates RCW 19.86.020 shall forfeit and pay a civil penalty of not more than $7,500 for each violation: PROVIDED, That nothing in this paragraph shall apply to any radio or television broadcasting station which broadcasts, or to any publisher, printer or distributor of any newspaper, magazine, billboard or other advertising medium who publishes, prints or distributes, advertising in good faith without knowledge of its false, deceptive or misleading character.
+
+For unlawful acts or practices that target or impact specific individuals or communities based on demographic characteristics including, but not limited to, age, race, national origin, citizenship or immigration status, sex, sexual orientation, presence of any sensory, mental, or physical disability, religion, veteran status, or status as a member of the armed forces, as that term is defined in 10 U.S.C. Sec. 101, an enhanced penalty of $5,000 shall apply. Furthermore, for unlawful acts or practices relating to the sale of transportation fuels, an enhanced penalty of up to three times the profit gained or loss avoided as a result of such unlawful acts or practices shall apply.
+
+For the purpose of this section the superior court issuing any injunction shall retain jurisdiction, and the cause shall be continued, and in such cases the attorney general acting in the name of the state may petition for the recovery of civil penalties.
+
+With respect to violations of RCW 19.86.030 and 19.86.040, the attorney general, acting in the name of the state, may seek recovery of such penalties in a civil action.
+
+By December 1, 2026, and every five years thereafter, the office of the attorney general shall evaluate the efficacy of the maximum civil penalty amounts established in this section in deterring violations of the consumer protection act and the difference, if any, between the current penalty amounts and the penalty amounts adjusted for inflation, and provide the legislature with a report of its findings and any recommendations in compliance with RCW 43.01.036.
+
+## Section 21
+The following information relating to public utilities and transportation is exempt from disclosure under this chapter:
+
+1. Records filed with the utilities and transportation commission or attorney general under RCW 80.04.095, chapter 19.--- RCW (the new chapter created in section 22 of this act), or RCW 81.77.210 that a court has determined are confidential under RCW 80.04.095 or 81.77.210;
+
+2. The addresses, telephone numbers, electronic contact information, and customer-specific utility usage and billing information in increments less than a billing cycle of the customers of a public utility contained in the records or lists held by the public utility of which they are customers, except that this information may be released to the division of child support or the agency or firm providing child support enforcement for another state under Title IV-D of the federal social security act, for the establishment, enforcement, or modification of a support order;
+
+3. The names, residential addresses, residential telephone numbers, and other individually identifiable records held by an agency in relation to a vanpool, carpool, or other ride-sharing program or service. Participants' names, general locations, and point of contact may be disclosed to other persons who apply for ride-matching services and who need that information in order to identify potential riders or drivers with whom to share rides;
+
+4. The personally identifying information of current or former participants or applicants in a paratransit or other transit service operated for the benefit of persons with disabilities or elderly persons;
+
+5. The personally identifying information of persons who acquire and use transit passes or other fare payment media including, but not limited to, stored value smart cards and magnetic strip cards, except that an agency may disclose personally identifying information to a person, employer, educational institution, or other entity that is responsible, in whole or in part, for payment of the cost of acquiring or using a transit pass or other fare payment media for the purpose of preventing fraud. As used in this subsection, "personally identifying information" includes acquisition or use information pertaining to a specific, individual transit pass or fare payment media.
+
+    a. Information regarding the acquisition or use of transit passes or fare payment media may be disclosed in aggregate form if the data does not contain any personally identifying information.
+
+    b. Personally identifying information may be released to law enforcement agencies if the request is accompanied by a court order;
+
+6. Any information obtained by governmental agencies that is collected by the use of a motor carrier intelligent transportation system or any comparable information equipment attached to a truck, tractor, or trailer; however, the information may be given to other governmental agencies or the owners of the truck, tractor, or trailer from which the information is obtained. As used in this subsection, "motor carrier" has the same definition as provided in RCW 81.80.010;
+
+7. The personally identifying information of persons who acquire and use transponders or other technology to facilitate payment of tolls. This information may be disclosed in aggregate form as long as the data does not contain any personally identifying information. For these purposes aggregate data may include the census tract of the account holder as long as any individual personally identifying information is not released. Personally identifying information may be released to law enforcement agencies only for toll enforcement purposes. Personally identifying information may be released to law enforcement agencies for other purposes only if the request is accompanied by a court order;
+
+8. The personally identifying information of persons who acquire and use a driver's license or identicard that includes a radio frequency identification chip or similar technology to facilitate border crossing. This information may be disclosed in aggregate form as long as the data does not contain any personally identifying information. Personally identifying information may be released to law enforcement agencies only for United States customs and border protection enforcement purposes. Personally identifying information may be released to law enforcement agencies for other purposes only if the request is accompanied by a court order; and
+
+9. Personally identifying information included in safety complaints submitted under chapter 81.61 RCW.
+
+## Section 23
+If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+
+## Section 24
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately.
+
+## Section 25
+This act may be known and cited as the oil industry accountability act.

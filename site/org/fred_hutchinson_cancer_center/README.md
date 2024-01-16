@@ -15,6 +15,8 @@
 ## [HB 1745](/bill/2023-24/hb/1745/) - Diversity in clinical trials 👍5  
 * 👍 Dr. Andrew Cowan
 
+## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍1  
+
 ## [SB 5074](/bill/2023-24/sb/5074/) - Biomarker testing coverage 👍2  
 * 👍 MD, MS, Marianne Dubard-Gault
 
@@ -25,3 +27,5 @@
 ## [SB 5396](/bill/2023-24/sb/5396/) - Breast exam cost sharing 👍2  
 
 ## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍2  
+
+## [SB 5936](/bill/2023-24/sb/5936/) - Palliative care work group 👍1  

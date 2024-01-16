@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2074/</link>
 		<description>Updates about HB 2074</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 16 Jan 2024 07:58:44 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,37 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Agriculture and Natural Resources (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Agriculture and Natural Resources.</title>
+			<description>First reading, referred to Agriculture and Natural Resources.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Agriculture and Natural Resources.</guid>
+		</item>
+		<item>
+			<title>👍MICHELE KIESZ - Washington State Department of Agriculture</title>
+			<description>MICHELE KIESZ signed up to testify Pro.</description>
+			<pubDate>Sat, 13 Jan 2024 03:09:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/MICHELE/KIESZ/2024-01-13 03:09:06</guid>
+		</item>
+		<item>
+			<title>👍Robert Hailey - Washington State Department of Agriculture</title>
+			<description>Robert Hailey signed up to testify Pro.</description>
+			<pubDate>Sat, 13 Jan 2024 03:10:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Robert/Hailey/2024-01-13 03:10:09</guid>
+		</item>
+		<item>
+			<title>❓Ria Berns - Washington State Department of Ecology</title>
+			<description>Ria Berns signed up to testify Other. They are signed up to represent Washington State Department of Ecology.</description>
+			<pubDate>Tue, 16 Jan 2024 07:58:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Ria/Berns/2024-01-16 07:58:44</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1650/</link>
 		<description>Updates about HB 1650</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 07 Jan 2024 01:00:21 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 09 Jan 2024 11:32:05 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -84,6 +84,37 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Lindsey/Hueer/2024-01-07 01:00:21</guid>
+		</item>
+		<item>
+			<title>Referred to Regulated Substances &amp; Gaming.</title>
+			<description>Referred to Regulated Substances &amp; Gaming.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/Referred to Regulated Substances &amp; Gaming.</guid>
+		</item>
+		<item>
+			<title>👎💵Paul Jewell - Washington State Association of Counties</title>
+			<description>Paul Jewell signed up to testify Con. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_state_association_of_counties/&quot;&gt;Washington State Association of Counties&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 08 Jan 2024 06:47:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Paul/Jewell/2024-01-08 06:47:32</guid>
+		</item>
+		<item>
+			<title>👎LaDon Linde - Yakima County District 3</title>
+			<description>LaDon Linde signed up to testify Con. They are signed up to represent Yakima County District 3.</description>
+			<pubDate>Mon, 08 Jan 2024 07:06:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/LaDon/Linde/2024-01-08 07:06:38</guid>
+		</item>
+		<item>
+			<title>👍Caitlein Ryan - THE CANNABIS ALLIANCE</title>
+			<description>Caitlein Ryan signed up to testify Pro. They are signed up to represent THE CANNABIS ALLIANCE.</description>
+			<pubDate>Tue, 09 Jan 2024 11:32:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Caitlein/Ryan/2024-01-09 11:32:05</guid>
 		</item>
 	</channel>
 </rss>

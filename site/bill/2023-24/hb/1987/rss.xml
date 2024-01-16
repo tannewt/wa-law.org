@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1987/</link>
 		<description>Updates about HB 1987</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 11 Jan 2024 10:34:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,37 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Local Government (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Local Government.</title>
+			<description>First reading, referred to Local Government.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Local Government.</guid>
+		</item>
+		<item>
+			<title>👍Peter Browning - Skagit County</title>
+			<description>Peter Browning signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/skagit_county/&quot;&gt;Skagit County&lt;/a&gt;.</description>
+			<pubDate>Tue, 09 Jan 2024 10:51:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Peter/Browning/2024-01-09 10:51:28</guid>
+		</item>
+		<item>
+			<title>👍💵Kaylee Galloway - Whatcom County</title>
+			<description>Kaylee Galloway signed up to testify Pro. They are signed up to represent Whatcom County. They are a registered lobbyist.</description>
+			<pubDate>Tue, 09 Jan 2024 11:12:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kaylee/Galloway/2024-01-09 11:12:07</guid>
+		</item>
+		<item>
+			<title>❓Chris Herman - Washington Public Ports Association</title>
+			<description>Chris Herman signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_public_ports_association/&quot;&gt;Washington Public Ports Association&lt;/a&gt;.</description>
+			<pubDate>Thu, 11 Jan 2024 10:34:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Chris/Herman/2024-01-11 10:34:27</guid>
 		</item>
 	</channel>
 </rss>

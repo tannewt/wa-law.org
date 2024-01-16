@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1876/</link>
 		<description>Updates about HB 1876</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 12 Jan 2024 02:06:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,29 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to State Government &amp; Tribal Relations (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to State Government &amp; Tribal Relations.</title>
+			<description>First reading, referred to State Government &amp; Tribal Relations.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to State Government &amp; Tribal Relations.</guid>
+		</item>
+		<item>
+			<title>👍Corey Niles - WDFW</title>
+			<description>Corey Niles signed up to testify Pro. They are signed up to represent WDFW.</description>
+			<pubDate>Fri, 12 Jan 2024 02:06:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Corey/Niles/2024-01-12 02:06:35</guid>
+		</item>
+		<item>
+			<title>👍Tom McBride - WDFW</title>
+			<description>Tom McBride signed up to testify Pro. They are signed up to represent WDFW.</description>
+			<pubDate>Fri, 12 Jan 2024 02:06:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tom/McBride/2024-01-12 02:06:35</guid>
 		</item>
 	</channel>
 </rss>

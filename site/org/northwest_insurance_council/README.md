@@ -1,6 +1,11 @@
 # Northwest Insurance Council
 
-## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
+## [HB 2011](/bill/2023-24/hb/2011/) - Enhancing consumer protections for automobile insurance coverage.  👎1 
+* 👎💵 Kenton Brine
+
+## [HB 2153](/bill/2023-24/hb/2153/) - Catalytic converter theft 👍1  
+
+## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎2 
 
 ## [SB 5319](/bill/2023-24/sb/5319/) - Pet insurance 👍1  
 

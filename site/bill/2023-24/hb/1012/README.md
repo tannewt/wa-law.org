@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/08/2024 [House Democrats](/org/house_democrats/) - [Speaker Jinkins: “Optimistic and determined” about 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/08/speaker-jinkins-optimistic-and-determined-about-2024-legislative-session/#:~:text=SHB%201012)
 * 02/24/2023 [House Democrats](/org/house_democrats/) - [Representative Mari Leavitt Passes Four Bills to Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/24/representative-mari-leavitt-passes-four-bills-to-senate/#:~:text=HB%201012)
 
 ## Meetings

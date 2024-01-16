@@ -7,3 +7,12 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/15 10:30 AM - Law & Justice (LAW): SB 5786 Business corporations
+#### 8 👍 - Pro
+Testifying:
+* Eric DeJong - Corporate Act Revision Committee of the WSBA Business Law Section
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other

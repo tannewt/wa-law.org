@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2199 - CCA tax exemptions</title>
+		<link>https://wa-law.org/bill/2023-24/hb/2199/</link>
+		<description>Updates about HB 2199</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 09 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Finance.</title>
+			<description>First reading, referred to Finance.</description>
+			<pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-09/First reading, referred to Finance.</guid>
+		</item>
+	</channel>
+</rss>

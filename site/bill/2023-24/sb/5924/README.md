@@ -8,18 +8,23 @@
 
 ## Meetings
 ### Thu 01/11 08:00 AM - Labor & Commerce (LC): SB 5924 Access to personnel records
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31536&aId=155971&caId=22760&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31536&aId=155971&caId=22760&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31536&aId=155971&caId=22760&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31536&aId=155971&caId=22760&tId=4)
-
-#### 20 👍 - Pro
+#### 217 👍 - Pro
 Testifying:
 * Patrick McGah
+* Lauren RIchardson-Berg - [Washington Employment Lawyers Association](/org/washington_employment_lawyers_association/)
+* Brian Wright - Washington State Association for Justice
+* Jesse Wing - [Washington Employment Lawyers Association](/org/washington_employment_lawyers_association/)
+* 💵Matthew Hepner - IBEW/ceww
 
-#### 30 👎 - Con
+#### 60 👎 - Con
+Testifying:
+* Bruce K Beckett - Wa Retail Association
+* 💵Carolyn Logue - Washington Food Industry Association
+* Robert (Bob) Battles - Association of Washington Business (AWB)
+* 💵Tricia Gullion - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Tim O'Connell - Washington State Hospital Association

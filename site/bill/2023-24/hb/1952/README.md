@@ -11,16 +11,15 @@
 
 ## Meetings
 ### Fri 01/12 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1952 Disasters/long-term recovery
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31582&aId=156155&caId=22870&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31582&aId=156155&caId=22870&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31582&aId=156155&caId=22870&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31582&aId=156155&caId=22870&tId=4)
-
-#### 1 👍 - Pro
+#### 26 👍 - Pro
+Testifying:
+* Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Terri Cooper - Spokane Region Long Term Recovery Group
+* Nancy Churchill
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Robert Ezelle - Washington Military Department, Emergency Management Division

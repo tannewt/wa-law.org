@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5776/</link>
 		<description>Updates about SB 5776</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 11 Jan 2024 09:14:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -29,6 +29,77 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Health &amp; Long Term Care (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Health &amp; Long Term Care.</title>
+			<description>First reading, referred to Health &amp; Long Term Care.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Health &amp; Long Term Care.</guid>
+		</item>
+		<item>
+			<title>👍Jennifer Perkins - American Diabetes Association</title>
+			<description>Jennifer Perkins signed up to testify Pro.</description>
+			<pubDate>Tue, 09 Jan 2024 10:33:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jennifer/Perkins/2024-01-09 10:33:59</guid>
+		</item>
+		<item>
+			<title>👍Jennifer Arnold - American Diabetes Association</title>
+			<description>Jennifer Arnold signed up to testify Pro.</description>
+			<pubDate>Wed, 10 Jan 2024 01:22:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jennifer/Arnold/2024-01-10 01:22:29</guid>
+		</item>
+		<item>
+			<title>👎💵Emily Wittman - Association of Washington Business</title>
+			<description>Emily Wittman signed up to testify Con. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/association_of_washington_business/&quot;&gt;Association of Washington Business&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 10 Jan 2024 01:44:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Emily/Wittman/2024-01-10 01:44:46</guid>
+		</item>
+		<item>
+			<title>👎Dharia McGrew - Pharmaceutical Research and Manufacturers of America</title>
+			<description>Dharia McGrew signed up to testify Con. They are signed up to represent Pharmaceutical Research and Manufacturers of America.</description>
+			<pubDate>Wed, 10 Jan 2024 03:06:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Dharia/McGrew/2024-01-10 03:06:28</guid>
+		</item>
+		<item>
+			<title>👍💵Matthew Hepner - East Wenatchee city council</title>
+			<description>Matthew Hepner signed up to testify Pro. They are signed up to represent East Wenatchee city council. They are a registered lobbyist.</description>
+			<pubDate>Wed, 10 Jan 2024 06:38:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Matthew/Hepner/2024-01-10 06:38:48</guid>
+		</item>
+		<item>
+			<title>👎Brian Warren - Biotechnology Innovation Organization</title>
+			<description>Brian Warren signed up to testify Con. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/biotechnology_innovation_organization/&quot;&gt;Biotechnology Innovation Organization&lt;/a&gt;.</description>
+			<pubDate>Wed, 10 Jan 2024 10:55:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Brian/Warren/2024-01-10 10:55:24</guid>
+		</item>
+		<item>
+			<title>❓Donna Sullivan - Health Care Authority (HCA)</title>
+			<description>Donna Sullivan signed up to testify Other. They are signed up to represent Health Care Authority (HCA).</description>
+			<pubDate>Thu, 11 Jan 2024 06:10:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Donna/Sullivan/2024-01-11 06:10:36</guid>
+		</item>
+		<item>
+			<title>❓💵Mark Johnson - Washington Retail Association</title>
+			<description>Mark Johnson signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_retail_association/&quot;&gt;Washington Retail Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Thu, 11 Jan 2024 09:14:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Mark/Johnson/2024-01-11 09:14:39</guid>
 		</item>
 	</channel>
 </rss>

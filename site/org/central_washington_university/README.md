@@ -32,7 +32,7 @@
 ## [HB 1693](/bill/2023-24/hb/1693/) - Student homelessness pilot 👍1  
 * 👍 Steve DuPont
 
-## [HB 1889](/bill/2023-24/hb/1889/) - Allowing persons to receive professional licenses and certifications regardless of immigration or citizenship status. 👍1  
+## [HB 1889](/bill/2023-24/hb/1889/) - Allowing persons to receive professional licenses and certifications regardless of immigration or citizenship status. 👍2  
 * 👍 Nicholas Villa
 
 ## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍1  
@@ -40,6 +40,8 @@
 
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
 * ❓ Steve DuPont
+
+## [HB 2242](/bill/2023-24/hb/2242/) - Sexual assault/higher ed. 👍1  
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍4  
 * 👍 Steve DuPont
@@ -67,8 +69,13 @@
 
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  
 
+## [SB 5895](/bill/2023-24/sb/5895/) - Concerning collective bargaining for certain employees who are enrolled in academic programs at public institutions of higher education. 👍2  
+
 ## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  
 * 👍 Steve DuPont
 
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
 * ❓ Steve DuPont
+
+## [SB 6039](/bill/2023-24/sb/6039/) - Geothermal energy resources 👍1  
+* 👍 Steve DuPont

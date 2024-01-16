@@ -11,15 +11,11 @@
 
 ## Meetings
 ### Wed 01/10 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2072 Antitrust penalties
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31563&aId=156042&caId=22806&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31563&aId=156042&caId=22806&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31563&aId=156042&caId=22806&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31563&aId=156042&caId=22806&tId=4)
+#### 6 👍 - Pro
+Testifying:
+* Jonathan Mark - Attorney General's Office
 
-#### 2 👍 - Pro
-
-#### 0 👎 - Con
+#### 6 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

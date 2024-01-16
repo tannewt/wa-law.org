@@ -8,14 +8,15 @@
 
 ## Meetings
 ### Tue 01/09 01:30 PM - Environment, Energy & Technology (ENET): SB 5931 Motorized vehicle tires/6PPD
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31527&aId=156246&caId=22726&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31527&aId=156246&caId=22726&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31527&aId=156246&caId=22726&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31527&aId=156246&caId=22726&tId=4)
+#### 177 👍 - Pro
+Testifying:
+* 💵Alexei Calambokidis - [Trout Unlimited](/org/trout_unlimited/)
 
-#### 67 👍 - Pro
+#### 3 👎 - Con
+Testifying:
+* 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
+* Tracey Norberg - U.S. Tire Manufacturers Association
 
-#### 1 👎 - Con
-
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Kimberly Goetz - Department of Ecology

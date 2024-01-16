@@ -7,3 +7,17 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/16 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1912 Economic development info.
+#### 8 👍 - Pro
+Testifying:
+* Colleen McAleer - North Olympic Legislative Alliance/Clallam EDC
+* Kevin Waters - Washington State Legislature
+
+#### 28 👎 - Con
+Testifying:
+* 💵Emily Shay - Association of Washington Businesses
+
+#### 2 ❓ - Other
+Testifying:
+* Dave Pringle - Dept. of Commerce
+* Arthur West

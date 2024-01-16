@@ -18,6 +18,11 @@
 * 👎 Charlie Klein
 * 👎💵 Kelly Olson
 
+## [HB 1798](/bill/2023-24/hb/1798/) - Earned release time 👍1  
+
+## [HB 2251](/bill/2023-24/hb/2251/) - Unenforceable LFOs 👍1  
+* 👍 Maddisson Alexander
+
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍1  
 
 ## [SB 5134](/bill/2023-24/sb/5134/) - Reentry services & supports 👍1  
@@ -27,3 +32,9 @@
 
 ## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances   ❓1
 * ❓💵 Prachi Dave
+
+## [SB 5974](/bill/2023-24/sb/5974/) - Concerning the disposition of unenforceable legal financial obligations other than restitution imposed by a court or an agent of the court against a juvenile prior to July 1, 2023. 👍1  
+* 👍 Maddisson Alexander
+
+## [SB 5998](/bill/2023-24/sb/5998/) - Nonfelony convict. vacation 👍1  
+* 👍💵 Prachi Dave

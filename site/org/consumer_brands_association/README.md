@@ -4,6 +4,12 @@
 * ❓ Brendan Flanagan
 * ❓💵 Holly Chisa
 
+## [HB 1900](/bill/2023-24/hb/1900/) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system.  👎1 
+* 👎 Brendan Flanagan
+
+## [HB 1921](/bill/2023-24/hb/1921/) - Prohibiting the use of certain substances in food.  👎1 
+* 👎💵 Holly Chisa
+
 ## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes.  👎1 
 * 👎 Brendan Flanagan
 

@@ -72,3 +72,6 @@
 ## [SB 5626](/bill/2023-24/sb/5626/) - K-12 media literacy 👍3  
 
 ## [SB 5647](/bill/2023-24/sb/5647/) - School safety/temp employees 👍1  
+
+## [SB 5956](/bill/2023-24/sb/5956/) - Enrichment levies limit 👍1  
+* 👍 Supt. Kelly Aramaki

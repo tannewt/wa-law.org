@@ -6,4 +6,28 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/14/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 2: MLK, education, gas price transparency - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/14/this-week-in-the-senate-week-2-mlk-education-gas-price-transparency/#:~:text=SB%206021)
+
 ## Meetings
+### Tue 01/16 10:30 AM - Human Services (HS): SB 6021 Correctional fees & expenses
+#### 130 👍 - Pro
+Testifying:
+* Lawrence Jenkins
+* Jerry Thomas
+* jonathan Ejonga-Lihua - DOC
+* Christopher Blackwell
+* Devennice Gaines
+* Darrel Jackson
+* Joseph McClain
+* Andrew Lama - Worth Rises
+* Liz Trautman - Stand for Children
+* Candice Baughman - Underground Ministries
+* Lydia Schoen
+* Hilary Young - Pioneer Human Services and WA Statewide Reentry Council
+
+#### 32 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* Ladarion Roberts - WA DEPARTMENT OF CORRECTIONS-WA CORR CTR FOR WOMEN

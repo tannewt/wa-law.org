@@ -8,15 +8,13 @@
 
 ## Meetings
 ### Wed 01/10 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1943 National guard ed. grants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31571&aId=156107&caId=22889&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31571&aId=156107&caId=22889&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31571&aId=156107&caId=22889&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31571&aId=156107&caId=22889&tId=4)
-
-#### 5 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Bret Daugherty - Washington Military Department
+* Charles Wharton - Veterans Legislative Coalition
+* 💵Collin Bannister - ASWSU
+* Breck Lebegue
+* Charles Barnett - National Guard Association
 
 #### 0 👎 - Con
 

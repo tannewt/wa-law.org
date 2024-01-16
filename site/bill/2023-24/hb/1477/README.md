@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 01/12/2024 [House Democrats](/org/house_democrats/) - [ICYMI: WA improves tax equity based on new report. – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/12/icymi-wa-improves-tax-equity-based-on-new-report/#:~:text=House%20Bill%201477)
 * 12/28/2023 [KIRO7](/org/kiro7/) - [Street racing among new laws, changes going into effect in Washington in 2024 – KIRO 7 News Seattle](https://www.kiro7.com/news/local/street-racing-among-new-laws-changes-going-into-effect-washington-2024/3BSXTJGYPVAFLFVKXPUYMZOU2A/#:~:text=House%20Bill%201477)
 * 12/26/2023 [The Center Square](/org/the_center_square/) - [WA state laws in 2024: minimum wage, firearm sales, employee cannabis use and more | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_64f5489a-a438-11ee-bb84-6798534e51a4.html#:~:text=HB%201477)
 * 12/15/2023 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2024 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects/2024-legislative-agenda/#:~:text=HB%201477)

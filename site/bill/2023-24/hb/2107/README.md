@@ -11,12 +11,6 @@
 
 ## Meetings
 ### Wed 01/10 08:00 AM - Agriculture and Natural Resources (AGNR): HB 2107 Hunting/tribal members
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31575&aId=156243&caId=22793&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31575&aId=156243&caId=22793&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31575&aId=156243&caId=22793&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31575&aId=156243&caId=22793&tId=4)
-
 #### 28 👍 - Pro
 Testifying:
 * Robin Torner - Cowlitz Indian Tribe

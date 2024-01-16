@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5808/</link>
 		<description>Updates about SB 5808</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jan 2024 08:50:48 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -37,6 +37,45 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Labor &amp; Commerce (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Labor &amp; Commerce.</title>
+			<description>First reading, referred to Labor &amp; Commerce.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Labor &amp; Commerce.</guid>
+		</item>
+		<item>
+			<title>👍💵Seamus Petrie - Washington Public Employees Association</title>
+			<description>Seamus Petrie signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_public_employees_association/&quot;&gt;Washington Public Employees Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 08 Jan 2024 04:51:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Seamus/Petrie/2024-01-08 04:51:56</guid>
+		</item>
+		<item>
+			<title>👍Kristin Woodrow - Teamsters 117</title>
+			<description>Kristin Woodrow signed up to testify Pro. They are signed up to represent Teamsters 117.</description>
+			<pubDate>Mon, 08 Jan 2024 05:02:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kristin/Woodrow/2024-01-08 05:02:32</guid>
+		</item>
+		<item>
+			<title>👍Tanya McCambell - Teamsters 117</title>
+			<description>Tanya McCambell signed up to testify Pro. They are signed up to represent Teamsters 117.</description>
+			<pubDate>Mon, 08 Jan 2024 08:21:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tanya/McCambell/2024-01-08 08:21:23</guid>
+		</item>
+		<item>
+			<title>👍Brandy Clift - Teamsters 117</title>
+			<description>Brandy Clift signed up to testify Pro. They are signed up to represent Teamsters 117.</description>
+			<pubDate>Mon, 08 Jan 2024 08:50:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brandy/Clift/2024-01-08 08:50:48</guid>
 		</item>
 	</channel>
 </rss>

@@ -7,3 +7,31 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/16 01:30 PM - Health Care & Wellness (HCW): HB 2176 Preventive dental care
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31658&aId=156562&caId=23166&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31658&aId=156562&caId=23166&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31658&aId=156562&caId=23166&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31658&aId=156562&caId=23166&tId=4)
+
+#### 256 👍 - Pro
+Testifying:
+* Alma Carmona
+* Ardi Pribadi
+* Brittany Dean - Washington State Dental Association
+* Nathan Russell - Washington State Dental Association
+* Christopher Delecki
+* Cynthia Pauley - Washington State Dental Association
+* ALYCE OBRIEN - Alyce O'Brien & Jack Batjer, DDS, PLLC
+
+#### 2113 👎 - Con
+Testifying:
+* Christi Hasbrook - Washington Dental Hygienists' Association
+* Danielle Mora - Washington Dental Hygienists' Association
+* Marilynn Rothen - Washington Dental Hygienists' Association
+* 💵Melissa Johnson - Washington Dental Hygienists' Association
+* Santiago Valdez - Washington Dental Hygienists' Association
+
+#### 14 ❓ - Other
+Testifying:
+* Diane Oakes - Delta Dental of WA

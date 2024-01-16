@@ -6,20 +6,23 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/15/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/15/the-house-hot-sheet-for-week-2-of-the-2024-legislative-session/#:~:text=HB%201892)
+* 01/08/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/08/the-house-hot-sheet-for-week-1-of-the-2024-legislative-session/#:~:text=HB%201892)
+
 ## Meetings
 ### Tue 01/09 04:00 PM - Housing (HOUS): HB 1892 Workforce housing prg.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31584&aId=156164&caId=22855&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31584&aId=156164&caId=22855&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31584&aId=156164&caId=22855&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31584&aId=156164&caId=22855&tId=4)
-
-#### 9 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * 💵Jason Gauthier - South Sound Housing Affordability Partners
 * Nicholas Carr
+* Beau Baker - Southport Financial Services
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* Steve Walker - Washington State Housing Finance Commission
+* 💵Brian Bonlender - [Coalition for Affordable Housing Development](/org/coalition_for_affordable_housing_development/)
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

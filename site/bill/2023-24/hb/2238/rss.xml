@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2238 - Ammunition tax</title>
+		<link>https://wa-law.org/bill/2023-24/hb/2238/</link>
+		<description>Updates about HB 2238</description>
+		<language>en-US</language>
+		<lastBuildDate>Wed, 10 Jan 2024 02:27:14 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Finance.</title>
+			<description>First reading, referred to Finance.</description>
+			<pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-09/First reading, referred to Finance.</guid>
+		</item>
+		<item>
+			<title>Rantz: Wash. Democrats deem ammo a 'privilege' as way to end gun rights - MyNorthwest.com</title>
+			<description>News article &quot;Rantz: Wash. Democrats deem ammo a 'privilege' as way to end gun rights - MyNorthwest.com&quot; from MyNorthwest.</description>
+			<pubDate>Wed, 10 Jan 2024 02:27:14 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/3945835/rantz-wa-democrats-deem-ammo-privilege-ammunition-tax-way-end-gun-rights/#:~:text=House%20Bill%202238</guid>
+		</item>
+	</channel>
+</rss>

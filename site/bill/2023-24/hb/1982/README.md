@@ -8,15 +8,14 @@
 
 ## Meetings
 ### Tue 01/09 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1982 Broadband loans & grants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31577&aId=156138&caId=22865&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31577&aId=156138&caId=22865&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31577&aId=156138&caId=22865&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31577&aId=156138&caId=22865&tId=4)
-
-#### 4 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Jennifer Wray-Keene - Port of Woodland
+* Mike Mason - CERB - Community Economic Revitalization Board
+* Ariane Schmidt - BROADLINC Public Development Authority
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Jr., Glenn Ellis - Makah Tribal Council
+* Steve MacDonald - [City of Spokane](/org/city_of_spokane/)
 
 #### 0 👎 - Con
 

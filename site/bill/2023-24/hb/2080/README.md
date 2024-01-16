@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/10 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2080 Day habilitation services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31598&aId=156220&caId=22862&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31598&aId=156220&caId=22862&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31598&aId=156220&caId=22862&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31598&aId=156220&caId=22862&tId=4)
-
-#### 54 👍 - Pro
+#### 269 👍 - Pro
 Testifying:
 * Jennifer ‘Jaye’ Panico
 * Jodi Richey - Bridge of Promise
@@ -27,9 +21,33 @@ Testifying:
 * Damon Heard-Shackelford
 * Gary Stobbe - Medical Director, UW Medicine Adult Autism Clinic
 * Rose Yu
+* Chloe Frank - Bridge of Promise
+* Natasha Tall - Yes - Bridge of Promise
+* Dawn Sidell - Northwest Autism Center, Spokane WA
+* Laura Escude
+* Jeff Maddison - CEO, Goodwill Industries of the Columbia
+* Ashley Hyatt - Families for Better Lives
+* Kelley Nesbitt - Families for Better Lives
+* Linda Hyatt - Families for Better Lives
+* Ryan Nesbitt - Families for Better Lives
+* Katrina Davis - Parent, Seattle Children's Emergency Dept
+* Alan Gill
+* Katrina Davis - university of washington
+* Susan Adelman - as a parent
+* Darcy Mize - Thurston County Disabilities Coalition
+* Darby Harden
+* Angela Acres
+* Hodan Mohammad - Washington Multicultural Services Link
+* robert wardell - self adovates
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 10 ❓ - Other
 Testifying:
 * 💵Lance Morehouse - [Sherwood Community Services](/org/sherwood_community_services/)
+* ivanova smith - Self Advocate leader
+* Shawn Latham - Self Advocates In Leadership
+* John Lemus - AtWork! Advocacy Manager
+* Tonik Joseph - DSHS Developmental Disabilities Administration
+* Krista Milhofer - People First of Washington
+* robert m wardell - self adovates

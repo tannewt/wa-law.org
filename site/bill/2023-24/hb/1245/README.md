@@ -9,6 +9,9 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 01/16/2024 [House Republicans](/org/house_republicans/) - [Fix the housing & homelessness crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/housing/#:~:text=House%20bill%201245)
+* 01/09/2024 [Crosscut](/org/crosscut/) - [Housing density bill passes WA House on day one of 2024 session | Crosscut](https://crosscut.com/briefs/2024/01/housing-density-bill-passes-wa-house-day-one-2024-session#:~:text=voted%2094-4%20to%20pass%20House%20Bill%201245)
+* 01/08/2024 [House Democrats](/org/house_democrats/) - [Speaker Jinkins: “Optimistic and determined” about 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/08/speaker-jinkins-optimistic-and-determined-about-2024-legislative-session/#:~:text=ESHB%201245)
 * 06/21/2023 [Crosscut](/org/crosscut/) - [How WA cities’ lobbying muscle shapes housing, public records bills | Crosscut](https://crosscut.com/politics/2023/06/how-wa-cities-lobbying-muscle-shapes-housing-public-records-bills#:~:text=House%20Bill%201245)
 * 05/08/2023 [Sightline Institute](/org/sightline_institute/) - [How the Washington Legislature Burst the Housing Abundance Dam - Sightline Institute](https://www.sightline.org/2023/05/08/how-the-washington-legislature-burst-the-housing-abundance-dam/#:~:text=HB%201245)
 * 04/18/2023 [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201245)

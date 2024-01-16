@@ -11,3 +11,6 @@
 
 ## [SB 5474](/bill/2023-24/sb/5474/) - Juvenile justice   ❓1
 * ❓ Jack Murphy
+
+## [SB 6042](/bill/2023-24/sb/6042/) - Juvenile detention release 👍1  
+* 👍 Dennis Rabidou

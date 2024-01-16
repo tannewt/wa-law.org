@@ -7,3 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/15 10:30 AM - Law & Justice (LAW): SB 5858 Property distrib./divorce
+#### 65 👍 - Pro
+Testifying:
+* Dana Tingey - Highground
+* Shira Cole
+* Elizabeth Cooper
+* Rebecca Chadwell
+* Tanya Goodman
+* Christine Allison
+* Tamara Emerson - Tamara Emersonh Homes, Mosaic Real Estate
+* Laura Channel
+* Michael Pollock
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

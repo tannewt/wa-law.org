@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1781/</link>
 		<description>Updates about HB 1781</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 14 Feb 2023 09:13:38 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -126,6 +126,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Suzanne/Britt/2023-02-14 09:13:38</guid>
+		</item>
+		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
 		</item>
 	</channel>
 </rss>

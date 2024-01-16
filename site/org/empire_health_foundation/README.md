@@ -13,7 +13,7 @@
 
 ## [HB 1998](/bill/2023-24/hb/1998/) - Co-living housing 👍1  
 
-## [HB 2008](/bill/2023-24/hb/2008/) - Creating a task force on housing cost driver analysis. 👍1  
+## [HB 2008](/bill/2023-24/hb/2008/) - Housing cost task force 👍1  
 
 ## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
 

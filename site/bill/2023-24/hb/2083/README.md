@@ -8,14 +8,27 @@
 
 ## Meetings
 ### Wed 01/10 01:30 PM - Consumer Protection & Business (CPB): HB 2083 Payday lending/small loans
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31592&aId=156242&caId=22820&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31592&aId=156242&caId=22820&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31592&aId=156242&caId=22820&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31592&aId=156242&caId=22820&tId=4)
+#### 57 👍 - Pro
+Testifying:
+* Andrew Kushner - [Center for Responsible Lending](/org/center_for_responsible_lending/)
+* 💵Shaun Scott
+* Suzy Fonseca - Lower Valley Credit Union, a division of Self Help Federal Credit Union
+* 💵Jean Hill - Washington State Catholic Conference
 
-#### 3 👍 - Pro
+#### 3 👎 - Con
+Testifying:
+* Alice Jacobsohn - PayrollOrg
+* Matt Pierce - Immediate
+* Trent Mason
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 9 ❓ - Other
+Testifying:
+* Ben LaRocco - Earnin
+* 💵Molly Jones - [Payactiv](/org/payactiv/)
+* Ryan Naples - DailyPay
+* 💵Kelsi Hamilton
+* Robert Singleton - Chamber of Progress
+* Phil Goldfeder - American Fintech Council (AFC)
+* Kevin Lefton - Wagestream
+* Angelena Bradfield
+* Garth McAdam - ZayZoon

@@ -12,14 +12,14 @@
 
 ## Meetings
 ### Fri 01/12 08:00 AM - State Government & Elections (SGE): SB 5871 Definition of veteran
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31548&aId=156128&caId=22787&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31548&aId=156128&caId=22787&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31548&aId=156128&caId=22787&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31548&aId=156128&caId=22787&tId=4)
-
-#### 0 👍 - Pro
+#### 16 👍 - Pro
+Testifying:
+* Mariah Hanley - Attorney General's Office
+* Rory Paine-Donovan - Attorney General's Office
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Juliana Roe - Washington State Association of Counties - WSAC
+* David Puente - WA State Department of Veterans Affairs

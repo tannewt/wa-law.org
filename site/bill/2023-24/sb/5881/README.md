@@ -7,3 +7,14 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/15 04:00 PM - Ways & Means (WM): SB 5881 PERS/certain bus drivers
+#### 4 👍 - Pro
+Testifying:
+* Robert Driskell - Teamsters Local 589
+* John Clauson - [Kitsap Transit](/org/kitsap_transit/)
+* Paul Shinners - [Kitsap Transit](/org/kitsap_transit/)
+* wendy sorensen - [Kitsap Transit](/org/kitsap_transit/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

@@ -7,3 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/16 10:30 AM - Law & Justice (LAW): SB 5985 Firearms background checks
+#### 113 👍 - Pro
+Testifying:
+* Kateri Candee - Washington State Patrol
+
+#### 213 👎 - Con
+Testifying:
+* Tom Kwieciak - [National Rifle Association](/org/national_rifle_association_of_america/)
+* Eric pratt - America
+* Julie Barrett - Conservative Ladies of Washington
+
+#### 1 ❓ - Other

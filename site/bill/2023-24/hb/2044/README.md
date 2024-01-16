@@ -7,3 +7,21 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 01/18 01:30 PM - Finance (FIN): HB 2044 Voter-approved property tax
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31609&aId=156373&caId=23163&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31609&aId=156373&caId=23163&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31609&aId=156373&caId=23163&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31609&aId=156373&caId=23163&tId=4)
+
+#### 3 👍 - Pro
+Testifying:
+* 💵Michael White - [King County](/org/king_county/)
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+
+#### 4 👎 - Con
+Testifying:
+* Laurie Layne - Layne Software
+* Tim Eyman - Initiative Activist
+
+#### 0 ❓ - Other

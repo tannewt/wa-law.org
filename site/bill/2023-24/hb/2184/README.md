@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/10 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2184 DD parental caregivers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31598&aId=156285&caId=22925&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31598&aId=156285&caId=22925&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31598&aId=156285&caId=22925&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31598&aId=156285&caId=22925&tId=4)
-
-#### 70 👍 - Pro
+#### 298 👍 - Pro
 Testifying:
 * Adana Protonentis - Kindred Leaders
 * 💵Adrienne Stuart
@@ -26,7 +20,24 @@ Testifying:
 * Angelina Goldwell
 * Heidi Fredericks
 * Debbie Calderon
+* Brittany Huerta
+* Nakul Jinsi
+* Stephanie Raghubeer - Multicare/Mary Bridge Children's
+* Hodan Mohammad - Washington Multicultural Services Link
+* Katie Scheid - Parents Empowering Parents
+* Kristina Smith - Kindred Joy Coaching
+* Savanna Brown
+* Seth Davidson
+* Moses Perez - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
+* Jamie Thompson - PEP - WA, Parents Empowering Parents and Mother to Colby (Medically Complex 14 y/o)
+* Lelach Rave - WA Chapter of the American Academy of Pediatrics
+* Fernanda Mazcot - Nuestras Raíces Community Center
+* Seth Davidson
+* Tonya Cloud
+* Eva Dellis
+* Courtney Hansen - Parent who has lived in multiple states
+* Hodan Mohammad - Washington Multicultural Services Link
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

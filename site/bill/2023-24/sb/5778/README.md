@@ -8,15 +8,18 @@
 
 ## Meetings
 ### Thu 01/11 08:00 AM - Labor & Commerce (LC): SB 5778 Employer political speech
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31536&aId=155968&caId=22758&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31536&aId=155968&caId=22758&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31536&aId=155968&caId=22758&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31536&aId=155968&caId=22758&tId=4)
+#### 123 👍 - Pro
+Testifying:
+* Rebekah Gardea - QLaw Foundation of Washington
+* Helen Stukenborg - WFSE
+* Memo Mogollan - Teamsters 117
+* Nicole Dettore - Starbucks worker
+* 💵John Traynor - Washington State Labor Council, AFL-CIO
 
-#### 23 👍 - Pro
-
-#### 2 👎 - Con
+#### 15 👎 - Con
+Testifying:
+* Bob Battles - [Association of Washington Business](/org/association_of_washington_business/)
+* Montana Miranda - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
 #### 1 ❓ - Other
 Testifying:

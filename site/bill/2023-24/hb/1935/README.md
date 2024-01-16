@@ -7,3 +7,18 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/15 01:30 PM - Education (ED): HB 1935 Schools/resource conserv.
+#### 16 👍 - Pro
+Testifying:
+* Anjali Bergquist - Kennydale Elementary School
+* Eleanor Thomson - Maplewood Heights Elementary School
+* Tyrell Hardtke
+* Sara Betnel - Shoreline School Board
+* Anna Hernandez-French - Office of Superintendent of Public Instruction
+* 💵Brooke Davies - Climate Pledge Arena
+* Brian Considine - [Department of Natural Resources](/org/department_of_natural_resources/)
+* Kathryn Kurtz - [Pacific Education Institute](/org/pacific_education_institute/)
+
+#### 1 👎 - Con
+
+#### 1 ❓ - Other

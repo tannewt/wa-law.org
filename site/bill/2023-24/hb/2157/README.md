@@ -8,16 +8,26 @@
 
 ## Meetings
 ### Fri 01/12 08:00 AM - Health Care & Wellness (HCW): HB 2157 Vaccine definition
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31513&aId=156297&caId=22932&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31513&aId=156297&caId=22932&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31513&aId=156297&caId=22932&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31513&aId=156297&caId=22932&tId=4)
+#### 366 👍 - Pro
+Testifying:
+* 💵Hugh Ewart - Seattle Children's
+* Janna Bardi
+* Ciara Wesen - Parent
+* Dr. Maria Huang - Washington Chapter of the American Academy of Pediatrics & Washington Vaccine Association
+* Lacy Fehrenbach - Washington State Department of Health
+* Dr. Jeff Duchin - Public Health Seattle-King County, WSALPHO
+* Dr. Nari Heshmati - Washington State Medical Association
+* Michelle Davis - Washington State Board of Health
+* Bodden Jaime - WSALPHO
+* Dr. John Dunn - Washington Chapter of the American Academy of Pediatrics & Washington Vaccine Association
+* 💵Hugh Ewart - [Seattle Children's Hospital](/org/seattle_children's_hospital/)
 
-#### 0 👍 - Pro
-
-#### 24 👎 - Con
+#### 631 👎 - Con
 Testifying:
 * Natalie Chavez
+* Julie Barrett - Conservative Ladies of Washington
+* Jennifer Child
+* Bob Runnells - Informed Choice Washington
+* Bob Rogers
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

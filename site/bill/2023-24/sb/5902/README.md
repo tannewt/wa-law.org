@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/15 04:00 PM - Ways & Means (WM): SB 5902 State park system/accounts
+#### 3 👍 - Pro
+Testifying:
+* Owen Rowe - State Parks and Recreation Commission
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

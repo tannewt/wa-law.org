@@ -7,7 +7,7 @@
 
 ## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍4  
 
-## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍4  
 
 ## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals 👍1  
 
@@ -35,10 +35,14 @@
 
 ## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses 👍1  
 
+## [HB 1325](/bill/2023-24/hb/1325/) - Long sentences review 👍6  
+
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍4  
 
 ## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits  👎1 
 * 👎💵 Kristin Ang
+
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍2  
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍5  
 
@@ -78,7 +82,36 @@
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍7  
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+## [HB 1859](/bill/2023-24/hb/1859/) - Concerning the rights of residents in long-term care facilities. 👍5  
+
+## [HB 1895](/bill/2023-24/hb/1895/) - Modifying the working families' tax credit by clarifying the refundable nature of the credit, the application requirements, and the eligibility verification process. 👍1  
+
+## [HB 1902](/bill/2023-24/hb/1902/) - Firearms/purchase & transfer 👍1  
+
+## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍1  
+
+## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍2  
+
+## [HB 2021](/bill/2023-24/hb/2021/) - Concerning the disposition of privately owned firearms in the custody of state or local government entities or law enforcement agencies. 👍1  
+
+## [HB 2030](/bill/2023-24/hb/2030/) - Revoking a person's voting rights only when convicted of a state crime punishable by death. 👍3  
+
+## [HB 2054](/bill/2023-24/hb/2054/) - Concerning bulk purchases and transfers of firearms. 👍1  
+
+## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍3  
+
+## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions. 👍5  
+
+## [HB 2094](/bill/2023-24/hb/2094/) - Gift certificates 👍3  
+
+## [HB 2095](/bill/2023-24/hb/2095/) - Gift certificates/unclaimed 👍4  
+* 👍💵 Kristin Ang
+
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍7  
+
+## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍1  
+
+## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍5  
 
 ## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍2  
 
@@ -119,4 +152,10 @@
 
 ## [SB 5768](/bill/2023-24/sb/5768/) - DOC/abortion medications 👍1  
 
-## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍1  
+## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍5  
+
+## [SB 5987](/bill/2023-24/sb/5987/) - Gift certificates 👍3  
+
+## [SB 5988](/bill/2023-24/sb/5988/) - Gift certificates/unclaimed 👍3  
+
+## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍5  

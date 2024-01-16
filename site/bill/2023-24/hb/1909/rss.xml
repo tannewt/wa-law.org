@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1909/</link>
 		<description>Updates about HB 1909</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 09 Jan 2024 07:08:10 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -37,6 +37,21 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Health Care &amp; Wellness (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Health Care &amp; Wellness.</title>
+			<description>First reading, referred to Health Care &amp; Wellness.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Health Care &amp; Wellness.</guid>
+		</item>
+		<item>
+			<title>👎Ken Kenyon - Washington State Pharmacy Quality Assurance Commission</title>
+			<description>Ken Kenyon signed up to testify Con. They are signed up to represent Washington State Pharmacy Quality Assurance Commission.</description>
+			<pubDate>Tue, 09 Jan 2024 07:08:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Ken/Kenyon/2024-01-09 07:08:10</guid>
 		</item>
 	</channel>
 </rss>

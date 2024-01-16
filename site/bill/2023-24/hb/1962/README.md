@@ -8,16 +8,14 @@
 
 ## Meetings
 ### Tue 01/09 01:30 PM - State Government & Tribal Relations (SGOV): HB 1962 Voter address changes
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31508&aId=156097&caId=22897&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31508&aId=156097&caId=22897&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31508&aId=156097&caId=22897&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31508&aId=156097&caId=22897&tId=4)
-
-#### 251 👍 - Pro
+#### 443 👍 - Pro
 Testifying:
 * Tim Eyman - Concerned citizen
+* 💵Michael Shaw - Washington Association of County Officials (WACO)
+* Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Vicky Dalton - Spokane County Auditor - Washington State Assoc of County Auditors
+* Brian Hatfield - Office of the Secretary of State
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 
 #### 1 ❓ - Other

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1371/</link>
 		<description>Updates about HB 1371</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 23 Apr 2023 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 16 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -236,6 +236,20 @@
 			<pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-23/By resolution, returned to House Rules Committee for third reading.</guid>
+		</item>
+		<item>
+			<title>Referred to Finance.</title>
+			<description>Referred to Finance.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/Referred to Finance.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 3 Consideration.</title>
+			<description>Referred to Rules 3 Consideration.</description>
+			<pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-16/Referred to Rules 3 Consideration.</guid>
 		</item>
 	</channel>
 </rss>

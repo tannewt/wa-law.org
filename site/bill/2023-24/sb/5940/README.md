@@ -8,14 +8,18 @@
 
 ## Meetings
 ### Thu 01/11 10:30 AM - Health & Long Term Care (HLTC): SB 5940 Medical assistant-EMT cert.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31540&aId=156212&caId=22769&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31540&aId=156212&caId=22769&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31540&aId=156212&caId=22769&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31540&aId=156212&caId=22769&tId=4)
-
-#### 1 👍 - Pro
+#### 19 👍 - Pro
+Testifying:
+* Colton Myers - Ferry County Public Hospital District
+* Jennifer Burkhardt - Summit Pacific Medical Center
+* Katie Kolan - Washington State Hospital Association
+* Kelly Thompson - Forks Community Hospital
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Erin Allison - Washington State Nurses Association
+* Dawn Felt - AVAILABLE FOR QUESTIONS: Washington State Department of Health
+* Shawna Fox - Washington State Department of Health
+* 💵Melissa Johnson - Washington State Nurses Association

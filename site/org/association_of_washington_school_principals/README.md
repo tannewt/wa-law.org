@@ -48,7 +48,8 @@
 
 ## [HB 1478](/bill/2023-24/hb/1478/) - Student rights 👍1  
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation   ❓3
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation   ❓4
+* ❓💵 Roz Thompson
 
 ## [HB 1504](/bill/2023-24/hb/1504/) - Elementary school recess   ❓1
 
@@ -63,6 +64,13 @@
 ## [HB 1658](/bill/2023-24/hb/1658/) - Work experience/H.S. credit 👍1  
 
 ## [HB 1732](/bill/2023-24/hb/1732/) - K-12 inflation adjustments 👍1  
+
+## [HB 1956](/bill/2023-24/hb/1956/) - Addressing fentanyl and other substance use prevention education. 👍1  
+* 👍💵 Casey Brown
+
+## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
+
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  
 
 ## [SB 5020](/bill/2023-24/sb/5020/) - Education at 6 years of age 👍1  
 
@@ -127,3 +135,26 @@
 ## [SB 5710](/bill/2023-24/sb/5710/) - Behavioral health/youth 👍1  
 
 ## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍2  
+
+## [SB 5790](/bill/2023-24/sb/5790/) - Bleeding control/schools 👍1  
+
+## [SB 5804](/bill/2023-24/sb/5804/) - Concerning opioid overdose reversal medication in high schools. 👍1  
+
+## [SB 5823](/bill/2023-24/sb/5823/) - School district elections 👍1  
+
+## [SB 5850](/bill/2023-24/sb/5850/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
+
+## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍1  
+
+## [SB 5873](/bill/2023-24/sb/5873/) - Student transportation 👍1  
+
+## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍1  
+
+## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
+
+## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍1  
+* 👍💵 Roz Thompson
+
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
+
+## [SB 6014](/bill/2023-24/sb/6014/) - Special education cap 👍1  

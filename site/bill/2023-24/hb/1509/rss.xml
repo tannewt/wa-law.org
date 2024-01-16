@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1509/</link>
 		<description>Updates about HB 1509</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 10 May 2023 15:24:28 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -251,6 +251,13 @@
 			<pubDate>Wed, 10 May 2023 15:24:28 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.sightline.org/2023/05/10/the-northwest-needs-more-midsize-solar/#:~:text=House%20Bill%201509</guid>
+		</item>
+		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
 		</item>
 	</channel>
 </rss>

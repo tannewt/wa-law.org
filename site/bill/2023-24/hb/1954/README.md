@@ -8,14 +8,16 @@
 
 ## Meetings
 ### Fri 01/12 08:00 AM - Health Care & Wellness (HCW): HB 1954 Health care/certain services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31513&aId=156054&caId=22852&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31513&aId=156054&caId=22852&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31513&aId=156054&caId=22852&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31513&aId=156054&caId=22852&tId=4)
+#### 253 👍 - Pro
+Testifying:
+* Dr. Kate McLean - American College of Obstetricians and Gynecologists, (ACOG)
+* Lorena Gonzalez - American Civil Liberties Union (ACLU) of WA
+* Rebekah Gardea - QLaw Foundation of Washington
 
-#### 23 👍 - Pro
+#### 675 👎 - Con
+Testifying:
+* Julie Barrett - Conservative Ladies of Washington
+* Karilyn Holden
+* Virginia Griffiths
 
-#### 173 👎 - Con
-
-#### 0 ❓ - Other
+#### 2 ❓ - Other

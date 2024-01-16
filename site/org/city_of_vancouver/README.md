@@ -21,6 +21,8 @@
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 * 👍💵 Brian Enslow
 
+## [HB 2253](/bill/2023-24/hb/2253/) - Community solar 👍1  
+
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍2  
 
 ## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  

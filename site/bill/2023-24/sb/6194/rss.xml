@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 6194 - Legislative employees</title>
+		<link>https://wa-law.org/bill/2023-24/sb/6194/</link>
+		<description>Updates about SB 6194</description>
+		<language>en-US</language>
+		<lastBuildDate>Sun, 14 Jan 2024 19:38:19 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Labor &amp; Commerce (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Labor &amp; Commerce (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-12/First reading, referred to Labor &amp; Commerce (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>This Week in the Senate - Week 2: MLK, education, gas price transparency - Washington Senate Democrats</title>
+			<description>News article &quot;This Week in the Senate - Week 2: MLK, education, gas price transparency - Washington Senate Democrats&quot; from Senate Democrats.</description>
+			<pubDate>Sun, 14 Jan 2024 19:38:19 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2024/01/14/this-week-in-the-senate-week-2-mlk-education-gas-price-transparency/#:~:text=Senate%20Bill%206194</guid>
+		</item>
+	</channel>
+</rss>

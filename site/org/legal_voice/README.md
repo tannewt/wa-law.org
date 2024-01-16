@@ -24,6 +24,12 @@
 
 ## [HB 1564](/bill/2023-24/hb/1564/) - OTC sexual assault kits 👍1  
 
+## [HB 2036](/bill/2023-24/hb/2036/) - Concerning workplace safety and operational standards for adult entertainment establishments. 👍2  
+
+## [HB 2115](/bill/2023-24/hb/2115/) - Prescription labels/abortion 👍2  
+
+## [HB 2237](/bill/2023-24/hb/2237/) - Parenting plan limitations 👍2  
+
 ## [SB 5109](/bill/2023-24/sb/5109/) - Wage replacement 👍1  
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
@@ -36,3 +42,11 @@
 * 👍💵 Alizeh Bhojani
 
 ## [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth 👍2  
+
+## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave 👍2  
+
+## [SB 5871](/bill/2023-24/sb/5871/) - Definition of veteran 👍2  
+
+## [SB 6105](/bill/2023-24/sb/6105/) - Adult entertainment workers 👍2  
+
+## [SB 6127](/bill/2023-24/sb/6127/) - HIV prophylaxis 👍1  

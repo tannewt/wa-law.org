@@ -8,16 +8,20 @@
 
 ## Meetings
 ### Thu 01/11 10:30 AM - Health & Long Term Care (HLTC): SB 5776 Insulin emergency supply
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31540&aId=155996&caId=22765&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31540&aId=155996&caId=22765&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31540&aId=155996&caId=22765&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31540&aId=155996&caId=22765&tId=4)
-
-#### 3 👍 - Pro
+#### 99 👍 - Pro
 Testifying:
 * 💵Carissa Kemp - [American Diabetes Association](/org/american_diabetes_association/)
+* Jennifer Perkins
+* Jennifer Arnold
+* 💵Matthew Hepner - East Wenatchee city council
 
-#### 0 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
+* Dharia McGrew - Pharmaceutical Research and Manufacturers of America
+* Brian Warren - [Biotechnology Innovation Organization](/org/biotechnology_innovation_organization/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Donna Sullivan - Health Care Authority (HCA)
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)

@@ -4,6 +4,8 @@
 
 ## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 
+## [HB 1062](/bill/2023-24/hb/1062/) - Law enf. officers/deception 👍1  
+
 ## [HB 1087](/bill/2023-24/hb/1087/) - Solitary confinement 👍3  
 * 👍💵 Rachael Seevers
 * 👍💵 Rachael Seevers
@@ -26,11 +28,13 @@
 
 ## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses 👍2  
 
+## [HB 1325](/bill/2023-24/hb/1325/) - Long sentences review 👍1  
+
 ## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits  👎2 
 
 ## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct 👍1  
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍3  
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍4  
 * 👍💵 Andrea Kadlec
 * 👍💵 Andrea Kadlec
 * 👍💵 Andrea Kadlec
@@ -46,7 +50,18 @@
 
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍1  
 
-## [HB 2027](/bill/2023-24/hb/2027/) - Concerning certification, background checks, and training requirements for sheriffs, police chiefs, marshals, reserve officers, and volunteers. 👍1  
+## [HB 1798](/bill/2023-24/hb/1798/) - Earned release time 👍1  
+
+## [HB 1926](/bill/2023-24/hb/1926/) - Concerning supervision compliance credit.  👎2 
+* 👎💵 Rachael Seevers
+
+## [HB 2027](/bill/2023-24/hb/2027/) - Concerning certification, background checks, and training requirements for sheriffs, police chiefs, marshals, reserve officers, and volunteers. 👍2  
+
+## [HB 2030](/bill/2023-24/hb/2030/) - Revoking a person's voting rights only when convicted of a state crime punishable by death. 👍1  
+
+## [HB 2177](/bill/2023-24/hb/2177/) - Sex offender policy board 👍1  
+
+## [HB 2178](/bill/2023-24/hb/2178/) - Sex offenses/comm. custody 👍1  
 
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍4  
 * 👍💵 Rachael Seevers
@@ -85,4 +100,10 @@
 ## [SB 5533](/bill/2023-24/sb/5533/) - Model vehicle pursuit policy 👍1  
 
 ## [SB 5559](/bill/2023-24/sb/5559/) - Student restraint, isolation 👍1  
+* 👍💵 Andrea Kadlec
+
+## [SB 5825](/bill/2023-24/sb/5825/) - Guardianship   ❓1
+* ❓💵 Chloe Merino
+
+## [SB 5883](/bill/2023-24/sb/5883/) - Concerning the burden of proof for special education due process hearings. 👍2  
 * 👍💵 Andrea Kadlec

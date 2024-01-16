@@ -1,0 +1,51 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 2286](/bill/2023-24/hb/2286/) > [Original Bill](/bill/2023-24/hb/2286/1/)
+
+# HB 2286 - Salmon rec. capital grants
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/2286.pdf)
+
+## Section 1
+The legislature finds that many of the state's salmon and steelhead stocks listed under the federal endangered species act (16 U.S.C. Sec. 1531 et seq.) struggle to recover, despite the myriad of state programs intended to support their recovery. The legislature also finds that the existing, broad-based approach to salmon and steelhead recovery has spread limited resources too thin and the state has not achieved adequate progress for many listed stocks of salmon and steelhead.
+
+Therefore, the legislature intends to create a new capital grant program that will target state investments on watersheds with salmon and steelhead stocks in the following three categories: (1) Stocks listed under the federal endangered species act deemed at highest risk of extinction; (2) stocks deemed at highest risk of being listed under the federal endangered species act; and (3) stocks listed under the federal endangered species act deemed closest to delisting.
+
+The legislature further intends that this new program supplement, not supplant, existing capital grant programs for salmon and steelhead recovery.
+
+## Section 2
+1. The high-risk salmon and steelhead capital grant program is established.
+
+2. Subject to the availability of amounts appropriated for this specific purpose, the recreation and conservation office shall award grants pursuant to this section. Grants awarded in this section must be prioritized by the advisory committee, pursuant to the criteria listed in subsection (6) of this section.
+
+3. [Empty]
+
+    a. Only the following entities are eligible for grants under this section: (i) Tribes; (ii) private landowners; (iii) private institutions; (iv) counties; (v) cities; (vi) towns; (vii) local governmental agencies; (viii) state agencies; (ix) nonprofit organizations; (x) regional fisheries enhancement groups; (xi) lead entities; and (xii) federal agencies.
+
+    b. The primary benefit of projects funded under this section must be directed to watersheds that contain the high-risk salmon and steelhead stocks identified by the advisory committee through the consultation process described in subsection (5) of this section.
+
+    c. Only the following types of projects are eligible for grants under this section: (i) Habitat acquisition; (ii) habitat restoration, including fish passage projects, environmental clean-up projects, and instream habitat improvement projects; (iii) habitat conservation through long-term easements; (iv) irrigation efficiency projects that improve instream flow; (v) emergency response; and (vi) future threat abatement.
+
+4. The recreation and conservation office must appoint an advisory committee to prioritize and award grants pursuant to this section, subject to the availability of funding appropriated for this specific purpose. The recreation and conservation office must invite tribal governments to participate as members of the advisory committee and the recreation and conservation office must also make best efforts to include representation on the advisory committee from each of the following entities: (a) The salmon recovery funding board; (b) the department of fish and wildlife; (c) the department of natural resources; (d) the Washington state association of counties; (e) the association of Washington cities; (f) the lead entities; and (g) the regional fisheries enhancement groups. The recreation and conservation office shall participate in the advisory committee in an administrative and nonvoting capacity.
+
+5. Prior to each application cycle pursuant to this section, the advisory committee shall consult with the department of fish and wildlife and the national oceanic and atmospheric administration to determine the watersheds that contain salmon and steelhead stocks in the following categories: (a) Listed stocks deemed at highest risk of extinction; (b) stocks deemed at highest risk of being listed under the federal endangered species act (16 U.S.C. Sec. 1531 et seq.); and (c) listed stocks deemed closest to delisting. Only the watersheds identified through this consultative process are eligible locations for grant funding in each application cycle under this section. The advisory committee must use this salmon and steelhead stock information to develop the project prioritization process listed under subsection (6) of this section.
+
+6. The advisory committee must develop, by consensus, a grant application prioritization process for ranking the applications in this section that results in the most long-term habitat benefit for the high-risk stocks. The advisory committee must separately prioritize applications for grants under this section according to the three categories of salmon and steelhead stocks identified in subsection (5) of this section. In ranking project applications, the advisory committee must also consider how each project would be situated within the broader framework of existing state and federal salmon and steelhead recovery investments, to maximize project benefits to high-risk stocks. The prioritization criteria developed by the advisory committee must be updated periodically to reflect the department of fish and wildlife's analysis of data collected under subsection (8) of this section, other relevant data collection by state and federal agencies, and changes over time to scientific consensus regarding best practices for salmon and steelhead recovery.
+
+7. Grant applicants under this section must include estimates of the project's effects, including: (a) Fry and smolt survival rates for the relevant highest risk stocks; (b) adult returns for the relevant high-risk stocks; (c) water flow, quality, and temperature, as applicable; and (d) water nutrients and ecology, as applicable.
+
+8. The department of fish and wildlife must assist grant applicants under subsection (7) of this section by providing technical assistance. The department of fish and wildlife must also collect data pursuant to subsection (7) of this section that measure changes in salmon and steelhead survival and habitat quality resulting from projects funded under this section.
+
+9. The recreation and conservation office must propose three lists of prioritized grants pursuant to the salmon and steelhead stock categories listed under subsection (5) of this section and that meet the eligibility requirements of this section to the governor by September 1st of even-numbered years, beginning September 1, 2024. Subject to the availability of viable proposals, the recreation and conservation office and the governor must each propose a total appropriation of at least $50,000,000 in their respective omnibus capital appropriations act requests to support grants under this section. The omnibus capital appropriations act requests of the recreation and conservation office and the governor pursuant to this section must also follow the prioritized lists prepared by the advisory committee under this section unless new information determines that a specific project is no longer viable as proposed.
+
+10. Individual grants awarded under this section may not exceed $5,000,000. Grant applicants in this section must provide matching nonstate funding equal to at least 15 percent of the total project cost.
+
+11. Grants awarded under this section must be used exclusively for salmon and steelhead recovery purposes in the manner formally approved by the advisory committee.
+
+12. The recreation and conservation office may use up to 4.12 percent of any amounts appropriated for the grant program established under this section for administrative purposes.
+
+13. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Advisory committee" means the advisory committee established in subsection (4) of this section.
+
+    b. "High-risk stocks" means those salmon and steelhead stocks described under subsection (5) of this section that are: (i) Listed under the federal endangered species act and deemed at highest risk of extinction; (ii) deemed at highest risk of being listed under the federal endangered species act; and (iii) listed under the federal endangered species act and deemed closest to delisting.
+
+    c. "Listed stocks" means salmon and steelhead stocks listed under the federal endangered species act (16 U.S.C. Sec. 1531 et seq.).

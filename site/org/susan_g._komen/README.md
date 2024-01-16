@@ -10,6 +10,8 @@
 
 ## [HB 1745](/bill/2023-24/hb/1745/) - Diversity in clinical trials 👍4  
 
+## [HB 2119](/bill/2023-24/hb/2119/) - Medical debt garnishment 👍1  
+
 ## [SB 5074](/bill/2023-24/sb/5074/) - Biomarker testing coverage 👍1  
 
 ## [SB 5204](/bill/2023-24/sb/5204/) - Fertility services coverage 👍1  
@@ -25,3 +27,8 @@
 * 👍💵 Kirsten Smith
 * 👍💵 Kirsten Smith
 * 👍💵 Kirsten Smith
+
+## [SB 5814](/bill/2023-24/sb/5814/) - Concerning coverage of prescription drugs for advanced metastatic cancer. 👍1  
+* 👍💵 Kirsten Smith
+
+## [SB 5911](/bill/2023-24/sb/5911/) - Enhancing cancer research funding by dedicating a portion of state sales tax collections in October to the Andy Hill cancer research endowment fund. 👍1  

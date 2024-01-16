@@ -30,6 +30,16 @@
 
 ## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services 👍1  
 
+## [HB 1925](/bill/2023-24/hb/1925/) - Expanding the veterans service officer program to increase veteran support statewide. 👍1  
+
+## [HB 1926](/bill/2023-24/hb/1926/) - Concerning supervision compliance credit. 👍1  
+
+## [HB 2090](/bill/2023-24/hb/2090/) - Local boards of health 👍1  
+
+## [HB 2141](/bill/2023-24/hb/2141/) - Promoting affordable housing in unincorporated areas within urban growth areas of large counties. 👍1  
+
+## [HB 2253](/bill/2023-24/hb/2253/) - Community solar 👍1  
+
 ## [SB 5099](/bill/2023-24/sb/5099/) - Estate tax/extraordinary rev 👍1  
 
 ## [SB 5106](/bill/2023-24/sb/5106/) - County district boundaries 👍1  
@@ -49,3 +59,5 @@
 ## [SB 5627](/bill/2023-24/sb/5627/) - County commissioner salary 👍1  
 
 ## [SB 5649](/bill/2023-24/sb/5649/) - Floodproofing improvements 👍1  
+
+## [SB 5970](/bill/2023-24/sb/5970/) - Local boards of health 👍1  

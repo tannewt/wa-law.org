@@ -8,6 +8,29 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Tue 01/16 04:00 PM - Ways & Means (WM): SSB 5133 Responsible bidder criteria
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31606&aId=156856&caId=23028&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31606&aId=156856&caId=23028&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31606&aId=156856&caId=23028&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31606&aId=156856&caId=23028&tId=4)
+
+#### 22 👍 - Pro
+Testifying:
+* Chris Ellis - Bricklayers and Allied Craftworkers L 1 WA/AK
+* 💵Heather Kurtenbach - Ironworkers L 86
+* MARK RIKER - Washington State Building & Construction Trades Council
+
+#### 10 👎 - Con
+Testifying:
+* Max Martin - Associated Builders and Contractors of WA
+* Jerry VanderWood - AGC of Washington
+
+#### 4 ❓ - Other
+Testifying:
+* Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Axel Swanson - Washington State Association of County Engineers
+
 ### Fri 01/13 08:00 AM - State Government & Elections (SGE): SB 5133 Responsible bidder criteria
 #### 79 👍 - Pro
 Testifying:

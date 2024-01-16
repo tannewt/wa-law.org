@@ -24,8 +24,14 @@
 
 ## [HB 1695](/bill/2023-24/hb/1695/) - Surplus property/housing 👍1  
 
+## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
+
 ## [SB 5198](/bill/2023-24/sb/5198/) - Mobile home community sales 👍1  
 
 ## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍3  
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
+
+## [SB 5807](/bill/2023-24/sb/5807/) - Housing authorities 👍1  
+
+## [SB 6059](/bill/2023-24/sb/6059/) - Mobile home community sales 👍1  

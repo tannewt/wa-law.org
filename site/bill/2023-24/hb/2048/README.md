@@ -8,14 +8,10 @@
 
 ## Meetings
 ### Thu 01/11 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 2048 Domestic violence/sentencing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31580&aId=156148&caId=22814&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31580&aId=156148&caId=22814&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31580&aId=156148&caId=22814&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31580&aId=156148&caId=22814&tId=4)
+#### 17 👍 - Pro
+Testifying:
+* David Martin - KCPAO
 
-#### 0 👍 - Pro
+#### 2 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other

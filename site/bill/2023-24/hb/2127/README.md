@@ -7,3 +7,14 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/16 10:30 AM - Labor & Workplace Standards (LAWS): HB 2127 Incentives to return to work
+#### 10 👍 - Pro
+Testifying:
+* Brenda Heilman - Department of Labor & Industries
+* Bruce K Beckett - [Washington Retail Association](/org/washington_retail_association/)
+* Robert (Bob) Battles - Association of Washington Business (AWB)
+* Lauren Gubbe - [Associated General Contractors of Washington](/org/associated_general_contractors_of_washington/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

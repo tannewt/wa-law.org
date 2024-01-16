@@ -24,6 +24,8 @@
 
 ## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units 👍1  
 
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍1  
+
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍2  
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
@@ -41,6 +43,33 @@
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services  👎2 
 
 ## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services 👍1  
+
+## [HB 1892](/bill/2023-24/hb/1892/) - Concerning the workforce housing accelerator program. 👍1  
+* 👍💵 Bryce Yadon
+
+## [HB 1987](/bill/2023-24/hb/1987/) - Concerning the use of moneys from the rural public facilities sales and use tax for affordable workforce housing infrastructure and facilities. 👍1  
+
+## [HB 2039](/bill/2023-24/hb/2039/) - Modifying the appeals process for environmental and land use matters. 👍1  
+
+## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions. 👍1  
+
+## [HB 2071](/bill/2023-24/hb/2071/) - Residential housing 👍1  
+* 👍💵 Bryce Yadon
+
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍2  
+* 👍💵 Bryce Yadon
+
+## [HB 2126](/bill/2023-24/hb/2126/) - Rural area ADUs  👎3 
+* 👎 Alex Brennan
+* 👎💵 Bryce Yadon
+
+## [HB 2141](/bill/2023-24/hb/2141/) - Promoting affordable housing in unincorporated areas within urban growth areas of large counties.   ❓1
+* ❓💵 Bryce Yadon
+
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍3  
+* 👍💵 Bryce Yadon
+
+## [HB 2187](/bill/2023-24/hb/2187/) - Water/family farms  👎1 
 
 ## [SB 5027](/bill/2023-24/sb/5027/) - American dream homes  👎1 
 * 👎💵 Bryce Yadon
@@ -86,3 +115,27 @@
 
 ## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍3  
 * 👍💵 Bryce Yadon
+
+## [SB 5834](/bill/2023-24/sb/5834/) - Concerning urban growth areas.  👎2 
+* 👎💵 Bryce Yadon
+
+## [SB 5885](/bill/2023-24/sb/5885/) - Certificates of annexation 👍1  
+
+## [SB 5901](/bill/2023-24/sb/5901/) - Concerning co-living housing. 👍1  
+* 👍💵 Bryce Yadon
+
+## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍1  
+* 👍💵 Bryce Yadon
+
+## [SB 6010](/bill/2023-24/sb/6010/) - SEPA/trails and paths 👍1  
+* 👍💵 Bryce Yadon
+
+## [SB 6015](/bill/2023-24/sb/6015/) - Residential parking 👍1  
+* 👍💵 Bryce Yadon
+
+## [SB 6029](/bill/2023-24/sb/6029/) - Detached ADUs  👎2 
+* 👎 Alex Brennan
+* 👎💵 Bryce Yadon
+
+## [SB 6061](/bill/2023-24/sb/6061/) - Housing development/SEPA   ❓1
+* ❓💵 Bryce Yadon

@@ -7,21 +7,26 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/08/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Session Preview: Legislature convenes January 8 for short session - WSPTA](https://www.wastatepta.org/2024-session-preview/#:~:text=SB%205850)
 * 12/20/2023 [Gorge News Center](/org/gorge_news_center/) - [Braun bill aimed at getting chronically absent students to re-engage with classes, resume path to graduation](https://gorgenewscenter.com/2023/12/20/braun-bill-aimed-at-getting-chronically-absent-students-to-re-engage-with-classes-resume-path-to-graduation/#:~:text=Senate%20Bill%205850)
 
 ## Meetings
 ### Thu 01/11 01:30 PM - Early Learning & K-12 Education (EDU): SB 5850 Chronically absent students
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31531&aId=155959&caId=22777&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31531&aId=155959&caId=22777&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31531&aId=155959&caId=22777&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31531&aId=155959&caId=22777&tId=4)
-
-#### 3 👍 - Pro
+#### 37 👍 - Pro
 Testifying:
 * Beatrice Kiraguri - Testifying on behalf of African Young Dreamers Empowerment Program Intl
+* Evelyn Aguilar-Clavel - Lopez Island Family Resource Center
+* Krissy Johnson - OSPI
+* Jeff Engle - [Big Brothers Big Sisters](/org/big_brothers_big_sisters/)
+* Kevin Chase - ESD 105
+* Shaelin Henry
+* Colleen Lang - United Way King County
+* 💵Paula Sardinas - WBBA/UWKC
+* Jimmy Gere - [Tacoma Public Schools](/org/tacoma_public_schools/)
+* Troy Goracke - Washington State Board for Community and Technical Colleges
+* Pete Peterson - Kiona-Benton City School District
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

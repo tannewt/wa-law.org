@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Fri 01/12 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2020 Public infra. assistance prg
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31582&aId=156154&caId=22869&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31582&aId=156154&caId=22869&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31582&aId=156154&caId=22869&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31582&aId=156154&caId=22869&tId=4)
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con
@@ -21,14 +15,15 @@ Sign up to testify:
 #### 0 ❓ - Other
 
 ### Wed 01/10 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2020 Public infra. assistance prg
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31581&aId=156258&caId=22914&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31581&aId=156258&caId=22914&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31581&aId=156258&caId=22914&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31581&aId=156258&caId=22914&tId=4)
+#### 11 👍 - Pro
+Testifying:
+* Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Terri Cooper
+* Greg Hansen - Mayor of Ferndale
+* Sharon Wallace - Washington Military Department, Emergency Management Division
 
-#### 1 👍 - Pro
+#### 2 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)

@@ -8,18 +8,15 @@
 
 ## Meetings
 ### Tue 01/09 01:30 PM - State Government & Elections (SGE): SB 5824 Dissolution of libraries
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31544&aId=156088&caId=22729&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31544&aId=156088&caId=22729&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31544&aId=156088&caId=22729&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31544&aId=156088&caId=22729&tId=4)
-
-#### 4 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * 💵Alex Hur - [Inatai Foundation](/org/inatai_foundation/)
 * Elise Severe - Neighbors United for Progress
+* Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* 💵Carolyn Logue - [Washington Library Association](/org/washington_library_association/)
+* William M Price
 
-#### 0 👎 - Con
+#### 18 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

@@ -7,6 +7,33 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/15 04:00 PM - Ways & Means (WM): SB 5059 Prejudgment interest
+#### 195 👍 - Pro
+Testifying:
+* Colleen Durkin Peterson - Washington State Association for Justice
+* Marshall Casey - Washington State Association for Justice
+* Todd Nichols - Washington State Association for Justice
+* 💵Larry Shannon - WA State Association for Justice
+
+#### 98 👎 - Con
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Derek Bryan - Washington Counties Risk Pool
+* 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Mark Sektnan - American Property Causalty Association
+* Bob Christie - Washington Defense Trial Lawyers Association
+* Bob Battles - [Association of Washington Business](/org/association_of_washington_business/)
+* Kris Tefft - Washington Liability Reform Coalition
+* 💵Sean Graham - WA State Medical Assn
+* 💵Anne Bryant - Physicians Insurance
+* 💵Cara Helmer - Washington State Hospital Association
+
+#### 3 ❓ - Other
+Testifying:
+* 💵Alex Hur - WA Schools Risk Management Pool, Schools Insurance Association of Washington, USIP
+* Pete Talevich - Puget Sound School Coalition
+* Karl Johanson - Non Profit Insurance Program
+
 ### Tue 02/07 04:00 PM - Ways & Means (WM): SB 5059 Prejudgment interest
 #### 189 👍 - Pro
 Testifying:

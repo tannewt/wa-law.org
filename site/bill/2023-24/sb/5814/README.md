@@ -7,3 +7,20 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/16 08:00 AM - Health & Long Term Care (HLTC): SB 5814 Cancer drugs coverage
+#### 19 👍 - Pro
+Testifying:
+* 💵Kirsten Smith - [Susan G. Komen](/org/susan_g._komen/)
+* Sunny Fievez
+* Dr. Blair Irwin - Washington State Medical Oncology Society (WSMOS)
+* 💵Cameron Long - Washington State Medical Oncology Society (WSMOS)
+
+#### 2 👎 - Con
+Testifying:
+* Dr. Nicole Saint Clair - WA Regence BlueShield
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
+
+#### 3 ❓ - Other
+Testifying:
+* Dr. Judy Zerzan-Thul - Health Care Authority (HCA)
+* Jane Beyer - Office of the Insurance Commissioner

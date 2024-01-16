@@ -7,7 +7,23 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%201185)
+
 ## Meetings
+### Thu 01/18 08:00 AM - Environment & Energy (ENVI): SHB 1185 Lighting products
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31612&aId=156387&caId=23154&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31612&aId=156387&caId=23154&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31612&aId=156387&caId=23154&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31612&aId=156387&caId=23154&tId=4)
+
+#### 112 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/23 01:30 PM - Environment & Energy (ENVI): HB 1185 Lighting products
 #### 238 👍 - Pro
 Testifying:

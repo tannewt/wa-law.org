@@ -6,18 +6,23 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/15/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/15/the-house-hot-sheet-for-week-2-of-the-2024-legislative-session/#:~:text=HB%202007)
+* 01/08/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/08/the-house-hot-sheet-for-week-1-of-the-2024-legislative-session/#:~:text=HB%202007)
+
 ## Meetings
 ### Wed 01/10 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2007 Cash assistance time limits
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31598&aId=156219&caId=22861&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31598&aId=156219&caId=22861&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31598&aId=156219&caId=22861&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31598&aId=156219&caId=22861&tId=4)
-
-#### 5 👍 - Pro
+#### 96 👍 - Pro
 Testifying:
 * 💵Alex Hur - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* Juliana Yenne - [Hopelink](/org/hopelink/)
+* Em Stone - WA State Coalition Against Domestic Violence
+* 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* Alina Swart
+* 💵Claire Lane - Anti-Hunger & Nutrition Coalition
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Babs Roberts - Department of Social and Health Services, Economic Services Administration

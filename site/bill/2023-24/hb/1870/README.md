@@ -8,14 +8,16 @@
 
 ## Meetings
 ### Tue 01/09 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1870 Local comm. federal funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31577&aId=156137&caId=22864&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31577&aId=156137&caId=22864&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31577&aId=156137&caId=22864&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31577&aId=156137&caId=22864&tId=4)
+#### 34 👍 - Pro
+Testifying:
+* Richa Sigdel - [City of Pasco](/org/city_of_pasco/)
+* Gary Ballew - Greater Spokane Inc.
+* Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Suzanne Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)
+* Karl Dye - Tri City Development Council (TRIDEC)
 
-#### 4 👍 - Pro
+#### 2 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Brian Young - Washington State Department of Commerce

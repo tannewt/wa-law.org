@@ -8,16 +8,25 @@
 
 ## Meetings
 ### Thu 01/11 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6024 Housing development
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31533&aId=156307&caId=22928&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31533&aId=156307&caId=22928&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31533&aId=156307&caId=22928&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31533&aId=156307&caId=22928&tId=4)
-
-#### 1 👍 - Pro
+#### 78 👍 - Pro
 Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* 💵Bryce Yadon - Futurewise and Transportation Choices Coalition
+* John Flanagan - [Port of Seattle](/org/port_of_seattle/)
+* Megan Slade - Beacon Hill Council
 
-#### 0 👎 - Con
+#### 9 👎 - Con
+Testifying:
+* Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* BILL CLARKE - Washington REALTORS
+* Salim Nice - Mayor, City of Mercer Island
+* McKenzie Darr - NAIOPWA
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Ryan Windish - [City of Sumner](/org/city_of_sumner/)
 
-#### 1 ❓ - Other
+#### 7 ❓ - Other
+Testifying:
+* Angela Birney - Mayor of the City of Redmond
+* 💵Justin Leighton - WA State Transit Association
+* John Worthington
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)

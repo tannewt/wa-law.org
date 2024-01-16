@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Thu 01/11 01:30 PM - Early Learning & K-12 Education (EDU): SB 5804 Opioid overdose/high schools
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31531&aId=155956&caId=22774&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31531&aId=155956&caId=22774&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31531&aId=155956&caId=22774&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31531&aId=155956&caId=22774&tId=4)
-
-#### 8 👍 - Pro
+#### 36 👍 - Pro
 Testifying:
 * Rian Alam
 * Joanna Lymberis - Lake Washington High School
@@ -26,6 +20,9 @@ Testifying:
 * Theodore Meek - Lake Washington High School
 * Caroline Callahan - Lake Washington High School
 * Natalie Gauthier - Lake Washington High School
+* Reese Nyquist - Lake Washington Highschool
+* Scott Waller - Washington Association for Substance misuse and Violence Prevention (WASAVP)
+* Anthony Fletcher - City of Everett, Police Department
 
 #### 0 👎 - Con
 

@@ -4,6 +4,8 @@
 
 ## [HB 1027](/bill/2023-24/hb/1027/) - Audio-only telemedicine 👍1  
 
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
+
 ## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
 * ❓💵 Courtney Smith
 
@@ -36,6 +38,13 @@
 ## [HB 1725](/bill/2023-24/hb/1725/) - Insulin/access under 21   ❓1
 * ❓ Kate White Tudor
 
+## [HB 1889](/bill/2023-24/hb/1889/) - Allowing persons to receive professional licenses and certifications regardless of immigration or citizenship status. 👍1  
+
+## [HB 1957](/bill/2023-24/hb/1957/) - Preventive service coverage 👍1  
+
+## [HB 2102](/bill/2023-24/hb/2102/) - PFML benefits/health info.   ❓1
+* ❓ Kate White Tudor
+
 ## [SB 5213](/bill/2023-24/sb/5213/) - Pharmacy benefit managers 👍1  
 * 👍 Lisa Nelson
 
@@ -44,3 +53,10 @@
 ## [SB 5477](/bill/2023-24/sb/5477/) - Murdered indigenous women 👍1  
 
 ## [SB 5729](/bill/2023-24/sb/5729/) - Insulin cost-sharing cap 👍1  
+
+## [SB 5776](/bill/2023-24/sb/5776/) - Accessing an emergency supply of insulin. 👍1  
+
+## [SB 5912](/bill/2023-24/sb/5912/) - Concerning reentry services and supports. 👍1  
+
+## [SB 5995](/bill/2023-24/sb/5995/) - Creating a professional license for spoken language interpreters and translators.   ❓1
+* ❓ Kate White Tudor

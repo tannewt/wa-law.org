@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1996/</link>
 		<description>Updates about HB 1996</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 13 Jan 2024 12:04:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,11 +16,26 @@
 			<guid isPermaLink="false">2023-12-20/Prefiled for introduction.</guid>
 		</item>
 		<item>
+			<title>First reading, referred to Consumer Protection &amp; Business.</title>
+			<description>First reading, referred to Consumer Protection &amp; Business.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Consumer Protection &amp; Business.</guid>
+		</item>
+		<item>
 			<title>First reading, referred to Transportation (Not Officially read and referred until adoption of Introduction report).</title>
 			<description>First reading, referred to Transportation (Not Officially read and referred until adoption of Introduction report).</description>
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Transportation (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>❓💵Scott Hazlegrove - WA State Auto Dealers Association</title>
+			<description>Scott Hazlegrove signed up to testify Other. They are signed up to represent WA State Auto Dealers Association. They are a registered lobbyist.</description>
+			<pubDate>Sat, 13 Jan 2024 12:04:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Scott/Hazlegrove/2024-01-13 12:04:32</guid>
 		</item>
 	</channel>
 </rss>

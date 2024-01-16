@@ -7,3 +7,16 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/15 10:30 AM - Law & Justice (LAW): SB 5860 Spring blade knives
+#### 279 👍 - Pro
+Testifying:
+* Jeff Pack - Me
+* jonathan caples
+* Todd Rathner - Knife Rights
+* 💵Marie Neumiller - [Congressional Sportsmen's Foundation](/org/congressional_sportsmen's_foundation/)
+
+#### 13 👎 - Con
+Testifying:
+* Tyler Humphrey
+
+#### 2 ❓ - Other

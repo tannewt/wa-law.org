@@ -8,15 +8,10 @@
 
 ## Meetings
 ### Thu 01/11 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5784 Deer & elk crop damage
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31534&aId=155986&caId=22770&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31534&aId=155986&caId=22770&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31534&aId=155986&caId=22770&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31534&aId=155986&caId=22770&tId=4)
-
-#### 3 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Tom McBride - WDFW
+* Mark Charlton - Charlton Farms, Washington Farm Bureau
 
 #### 0 👎 - Con
 

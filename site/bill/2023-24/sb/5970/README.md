@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/16 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5970 Local boards of health
+#### 3 👍 - Pro
+Testifying:
+* Carolina Mejia - Thurston County Board of County Commissioners
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

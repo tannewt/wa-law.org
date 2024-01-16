@@ -27,7 +27,7 @@
 #### 49 👍 - Pro
 Testifying:
 * AyeNay Abye - [Tubman Center for Health and Freedom](/org/tubman_center_for_health_and_freedom/)
-* Emijah Smith - [Tubman Center for Health and Freedom](/org/tubman_center_for_health_and_freedom/)
+* 💵Emijah Smith - [Tubman Center for Health and Freedom](/org/tubman_center_for_health_and_freedom/)
 * Dr. Ben Danielson - [Tubman Center for Health and Freedom](/org/tubman_center_for_health_and_freedom/)
 * SETH MUIR - Sail Sand Point
 * Belinda Louie

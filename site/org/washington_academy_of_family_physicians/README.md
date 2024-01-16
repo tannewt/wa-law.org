@@ -35,3 +35,5 @@
 * ❓ Jonathan Wells
 
 ## [SB 5729](/bill/2023-24/sb/5729/) - Insulin cost-sharing cap 👍2  
+
+## [SB 5960](/bill/2023-24/sb/5960/) - Prescription labels/abortion 👍1  

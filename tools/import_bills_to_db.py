@@ -487,7 +487,7 @@ for start_year in range(2023, 2025, 2):
                                     base_chapter = int(base_section[base_section.index("c") + 1])
                                     base_section = base_section[base_section.index("§") + 1].strip(";.")
                                     cur.execute("SELECT rowid FROM sessions WHERE name = ?", (base_session,))
-                                    base_session_rowid = cur.fetchone()[0]
+                                    # base_session_rowid = cur.fetchone()[0]
                                     # TODO: Create revisions and sections for RCW
                                     # print(rcw_citation, base_session_rowid, base_chapter)
                                     # cur.execute("SELECT rowid FROM revisions WHERE session_rowid = ? AND session_law_chapter = ?;", (base_session_rowid, base_chapter))

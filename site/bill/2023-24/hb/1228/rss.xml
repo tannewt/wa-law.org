@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1228/</link>
 		<description>Updates about HB 1228</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 09 Feb 2023 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -262,6 +262,13 @@
 			<pubDate>Thu, 09 Feb 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-02-09/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>Referred to Education.</title>
+			<description>Referred to Education.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/Referred to Education.</guid>
 		</item>
 	</channel>
 </rss>

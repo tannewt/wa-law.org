@@ -44,7 +44,7 @@
 
 ## [HB 1478](/bill/2023-24/hb/1478/) - Student rights 👍3  
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍2  
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍3  
 
 ## [HB 1504](/bill/2023-24/hb/1504/) - Elementary school recess 👍1  
 
@@ -52,13 +52,15 @@
 
 ## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍2  
 
+## [HB 1608](/bill/2023-24/hb/1608/) - Anaphylaxis meds./schools 👍1  
+
 ## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍2  
 
 ## [HB 1658](/bill/2023-24/hb/1658/) - Work experience/H.S. credit 👍1  ❓1
 * ❓ Alissa Muller
 * 👍 Alissa Muller
 
-## [HB 1692](/bill/2023-24/hb/1692/) - Student advisory groups 👍1  
+## [HB 1692](/bill/2023-24/hb/1692/) - Student advisory groups 👍2  
 
 ## [HB 1714](/bill/2023-24/hb/1714/) - Financial literacy grants 👍1  
 
@@ -67,6 +69,28 @@
 * ❓ Randy Spaulding
 
 ## [HB 1821](/bill/2023-24/hb/1821/) - Postsecondary credentials   ❓1
+
+## [HB 1843](/bill/2023-24/hb/1843/) - School district elections 👍1  
+
+## [HB 1879](/bill/2023-24/hb/1879/) - Naming the curriculum used to inform students about tribal history, culture, and government after John McCoy (lulilaš). 👍1  
+
+## [HB 1956](/bill/2023-24/hb/1956/) - Addressing fentanyl and other substance use prevention education. 👍1  
+
+## [HB 2053](/bill/2023-24/hb/2053/) - Establishing the ninth grade success grant program. 👍1  
+
+## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
+
+## [HB 2110](/bill/2023-24/hb/2110/) - High school graduation 👍1  
+* 👍 J. Lee Schultz
+
+## [HB 2180](/bill/2023-24/hb/2180/) - Special education cap 👍1  
+
+## [HB 2236](/bill/2023-24/hb/2236/) - Tech. ed. core plus programs 👍1  
+
+## [HB 2267](/bill/2023-24/hb/2267/) - Commencement/cultural exp. 👍1  
+
+## [HB 2282](/bill/2023-24/hb/2282/) - African American studies 👍1  
+* 👍 Brooke Brown
 
 ## [SB 5020](/bill/2023-24/sb/5020/) - Education at 6 years of age 👍1  
 
@@ -130,3 +154,29 @@
 ## [SB 5710](/bill/2023-24/sb/5710/) - Behavioral health/youth 👍1  
 
 ## [SB 5719](/bill/2023-24/sb/5719/) - Student homelessness group 👍1  
+
+## [SB 5790](/bill/2023-24/sb/5790/) - Bleeding control/schools 👍1  
+
+## [SB 5804](/bill/2023-24/sb/5804/) - Concerning opioid overdose reversal medication in high schools. 👍1  
+
+## [SB 5813](/bill/2023-24/sb/5813/) - Mandating instruction on agricultural literacy for students in grades seven through 12.   ❓1
+
+## [SB 5819](/bill/2023-24/sb/5819/) - Financial education   ❓1
+* ❓ J. Lee Schultz
+
+## [SB 5823](/bill/2023-24/sb/5823/) - School district elections 👍1  
+
+## [SB 5849](/bill/2023-24/sb/5849/) - Concerning a computer science competency graduation requirement.   ❓1
+* ❓ Alissa Muller
+
+## [SB 5850](/bill/2023-24/sb/5850/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
+
+## [SB 5851](/bill/2023-24/sb/5851/) - Concerning Holocaust and genocide education in public schools. 👍1  
+
+## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍1  
+
+## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍1  
+
+## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍1  
+
+## [SB 6014](/bill/2023-24/sb/6014/) - Special education cap 👍1  

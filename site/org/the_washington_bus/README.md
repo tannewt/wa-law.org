@@ -22,7 +22,18 @@
 ## [HB 1885](/bill/2023-24/hb/1885/) - Strengthening campaign finance disclosure by prohibiting campaign contributions and expenditures by foreign-influenced corporations. 👍2  
 * 👍💵 Jazmine Smith
 
-## [HB 1932](/bill/2023-24/hb/1932/) - Shifting general elections for local governments to even-numbered years to increase voter participation. 👍1  
+## [HB 1889](/bill/2023-24/hb/1889/) - Allowing persons to receive professional licenses and certifications regardless of immigration or citizenship status. 👍1  
+
+## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍2  
+* 👍💵 Jazmine Smith
+
+## [HB 2030](/bill/2023-24/hb/2030/) - Revoking a person's voting rights only when convicted of a state crime punishable by death. 👍1  
+
+## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
+
+## [HB 2095](/bill/2023-24/hb/2095/) - Gift certificates/unclaimed 👍2  
+
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍2  
 * 👍💵 Jazmine Smith
@@ -54,4 +65,7 @@
 * 👍💵 Jazmine Smith
 
 ## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍2  
+* 👍💵 Jazmine Smith
+
+## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍2  
 * 👍💵 Jazmine Smith

@@ -10,5 +10,6 @@
 * 👍 Dwight Bickel
 * 👍 Sean Holland
 
-## [SB 5840](/bill/2023-24/sb/5840/) - Concerning leases. 👍1  
+## [SB 5840](/bill/2023-24/sb/5840/) - Concerning leases. 👍2  
 * 👍 Sean Holland
+* 👍 JP Kissling

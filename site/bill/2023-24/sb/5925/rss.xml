@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5925/</link>
 		<description>Updates about SB 5925</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 09 Jan 2024 10:03:10 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2023-12-29/Prefiled for introduction.</guid>
 		</item>
 		<item>
-			<title>👍Matthew Holm - Association of Washington Cities</title>
+			<title>👍Matthew Holm - Washington State Hospital Association</title>
 			<description>Matthew Holm signed up to testify Pro.</description>
 			<pubDate>Sun, 07 Jan 2024 09:53:11 GMT</pubDate>
 			<category>testifier</category>
@@ -29,6 +29,29 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Local Government, Land Use &amp; Tribal Affairs (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Local Government, Land Use &amp; Tribal Affairs.</title>
+			<description>First reading, referred to Local Government, Land Use &amp; Tribal Affairs.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Local Government, Land Use &amp; Tribal Affairs.</guid>
+		</item>
+		<item>
+			<title>👍ryan spiller - Wa fire commissioners</title>
+			<description>ryan spiller signed up to testify Pro. They are signed up to represent Wa fire commissioners.</description>
+			<pubDate>Mon, 08 Jan 2024 02:15:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/ryan/spiller/2024-01-08 02:15:17</guid>
+		</item>
+		<item>
+			<title>👍Robert Homan - Graham Fire &amp; Rescue</title>
+			<description>Robert Homan signed up to testify Pro. They are signed up to represent Graham Fire &amp; Rescue.</description>
+			<pubDate>Tue, 09 Jan 2024 10:03:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Robert/Homan/2024-01-09 10:03:10</guid>
 		</item>
 	</channel>
 </rss>

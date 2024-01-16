@@ -11,17 +11,20 @@
 
 ## Meetings
 ### Tue 01/09 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1994 Misdemeanor dismissal
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31579&aId=156145&caId=22812&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31579&aId=156145&caId=22812&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31579&aId=156145&caId=22812&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31579&aId=156145&caId=22812&tId=4)
-
-#### 15 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * Damon Shadid - I am a judge but testifying on my own behalf
 * Alexandra Natapoff - Harvard Law School
+* Anita Khandelwal - King County Department of Public Defense
+* Mary Logan
 
-#### 0 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Ann Davison - Seattle City Attorney's Office
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Commissioner Paul Wohl - District & Municipal Court Judges' Association
+* 💵Rowland Thompson - Allied Daily Newspapers of WA, WA Newspaper Publishers Assn, WA State Assn of Broadcasters
+* Megan Allen - King County Sexual Assault Resource Center

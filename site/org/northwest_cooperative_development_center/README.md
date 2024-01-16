@@ -9,3 +9,6 @@
 * 👍 John McNamara
 
 ## [SB 5198](/bill/2023-24/sb/5198/) - Mobile home community sales 👍1  
+
+## [SB 6059](/bill/2023-24/sb/6059/) - Mobile home community sales 👍1  
+* 👍 Victoria OBanion

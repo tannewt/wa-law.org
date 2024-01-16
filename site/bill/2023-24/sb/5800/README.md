@@ -8,16 +8,10 @@
 
 ## Meetings
 ### Tue 01/09 04:00 PM - Transportation (TRAN): SB 5800 Dept. of licensing documents
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31520&aId=156260&caId=22912&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31520&aId=156260&caId=22912&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31520&aId=156260&caId=22912&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31520&aId=156260&caId=22912&tId=4)
-
-#### 3 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Beau Perschbacher - WA Dept. of Licensing
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

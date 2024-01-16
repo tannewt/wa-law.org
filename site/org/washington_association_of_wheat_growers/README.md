@@ -9,6 +9,10 @@
 
 ## [HB 1757](/bill/2023-24/hb/1757/) - Farmers/sales tax remittance 👍1  
 
+## [HB 2051](/bill/2023-24/hb/2051/) - Reducing emissions from small off-road engines.  👎1 
+
+## [HB 2147](/bill/2023-24/hb/2147/) - Concerning agriculture pest and disease response. 👍1  
+
 ## [SB 5156](/bill/2023-24/sb/5156/) - Farm internship program 👍1  
 
 ## [SB 5254](/bill/2023-24/sb/5254/) - Leasing of state lands  👎1 
@@ -19,3 +23,9 @@
 
 ## [SB 5476](/bill/2023-24/sb/5476/) - Agricultural overtime 👍1  
 * 👍 Ryan Poe
+
+## [SB 5784](/bill/2023-24/sb/5784/) - Deer & elk crop damage 👍1  
+
+## [SB 5972](/bill/2023-24/sb/5972/) - Neonicotinoid pesticides  👎1 
+
+## [SB 6036](/bill/2023-24/sb/6036/) - Agriculture pests & diseases 👍1  

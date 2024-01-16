@@ -75,6 +75,15 @@
 
 ## [HB 1839](/bill/2023-24/hb/1839/) - Train length 👍1  
 
+## [HB 1971](/bill/2023-24/hb/1971/) - Rangeland fire pilot   ❓1
+* ❓💵 Seamus Petrie
+
+## [HB 2022](/bill/2023-24/hb/2022/) - Concerning construction crane safety. 👍1  
+
+## [HB 2031](/bill/2023-24/hb/2031/) - Recognizing posttraumatic stress disorder as an occupational disease for county coroners, examiners, and investigative personnel. 👍1  
+
+## [HB 2036](/bill/2023-24/hb/2036/) - Concerning workplace safety and operational standards for adult entertainment establishments. 👍1  
+
 ## [SB 5061](/bill/2023-24/sb/5061/) - Personnel records 👍1  
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
@@ -135,3 +144,19 @@
 ## [SB 5749](/bill/2023-24/sb/5749/) - Rail safety governance/UTC 👍1  
 
 ## [SB 5768](/bill/2023-24/sb/5768/) - DOC/abortion medications 👍2  
+
+## [SB 5777](/bill/2023-24/sb/5777/) - Unemp ins/strikes & lockouts 👍1  
+
+## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave 👍1  
+
+## [SB 5808](/bill/2023-24/sb/5808/) - Granting interest arbitration to certain public safety telecommunicators. 👍1  
+* 👍💵 Seamus Petrie
+
+## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
+
+## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
+
+## [SB 5979](/bill/2023-24/sb/5979/) - Concerning accrued leave for construction workers. 👍1  
+
+## [SB 6060](/bill/2023-24/sb/6060/) - Electronic signatures/PERC 👍1  
+* 👍 Derya Ruggles

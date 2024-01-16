@@ -71,17 +71,33 @@
 
 ## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍1  
 
+## [HB 1894](/bill/2023-24/hb/1894/) - Modifying provisions of the business licensing service program. 👍1  
+
+## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍1  
+
+## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍1  
+
 ## [HB 1933](/bill/2023-24/hb/1933/) - Supporting the servicing and right to repair of certain products with digital electronics in a secure and reliable manner. 👍1  
 
 ## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍1  
 
-## [HB 2008](/bill/2023-24/hb/2008/) - Creating a task force on housing cost driver analysis. 👍1  
+## [HB 2003](/bill/2023-24/hb/2003/) - Housing/public lands leases 👍1  
+
+## [HB 2008](/bill/2023-24/hb/2008/) - Housing cost task force 👍1  
+
+## [HB 2012](/bill/2023-24/hb/2012/) - Concerning eligibility for a property tax exemption for nonprofits providing affordable rental housing built with city and county funds. 👍1  
 
 ## [HB 2039](/bill/2023-24/hb/2039/) - Modifying the appeals process for environmental and land use matters. 👍1  
+
+## [HB 2044](/bill/2023-24/hb/2044/) - Standardizing limitations on voter-approved property tax levies. 👍1  
 
 ## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes. 👍1  
 
 ## [HB 2051](/bill/2023-24/hb/2051/) - Reducing emissions from small off-road engines. 👍1  
+
+## [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element 👍1  
+
+## [HB 2211](/bill/2023-24/hb/2211/) - Criminal justice local tax 👍1  
 
 ## [SB 5006](/bill/2023-24/sb/5006/) - Waiver of firearm rights 👍1  
 
@@ -141,8 +157,18 @@
 
 ## [SB 5606](/bill/2023-24/sb/5606/) - Illegal racing 👍1  
 
+## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
+
 ## [SB 5823](/bill/2023-24/sb/5823/) - School district elections 👍1  
 
 ## [SB 5853](/bill/2023-24/sb/5853/) - Extending the crisis relief center model to provide behavioral health crisis services for minors. 👍1  
 
+## [SB 5897](/bill/2023-24/sb/5897/) - Modifying provisions of the business licensing service program. 👍1  
+
 ## [SB 5899](/bill/2023-24/sb/5899/) - Adding to the list of provisions prohibited from rental agreements. 👍1  
+
+## [SB 5917](/bill/2023-24/sb/5917/) - Concerning criminal penalties for bias-motivated defacement of private or public property. 👍1  
+
+## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  
+
+## [SB 6013](/bill/2023-24/sb/6013/) - Homeownership dev. tax ex. 👍1  

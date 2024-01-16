@@ -2,7 +2,7 @@
 
 ## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍2  
 
-## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍4  
 
 ## [HB 1051](/bill/2023-24/hb/1051/) - Robocalls & telephone scams 👍2  
 
@@ -104,12 +104,41 @@
 
 ## [HB 1811](/bill/2023-24/hb/1811/) - Insurance/credit exceptions  👎1 
 
+## [HB 1874](/bill/2023-24/hb/1874/) - Protecting consumers from predatory loans. 👍1  
+
+## [HB 1895](/bill/2023-24/hb/1895/) - Modifying the working families' tax credit by clarifying the refundable nature of the credit, the application requirements, and the eligibility verification process. 👍2  
+
+## [HB 1933](/bill/2023-24/hb/1933/) - Supporting the servicing and right to repair of certain products with digital electronics in a secure and reliable manner. 👍1  
+
 ## [HB 1945](/bill/2023-24/hb/1945/) - Streamlining and enhancing program access for persons eligible for food assistance. 👍1  
 
-## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍1  
+## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍3  
 * 👍💵 Alex Hur
+* 👍💵 Lianna Kressin
 
-## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest 👍2  
+## [HB 2030](/bill/2023-24/hb/2030/) - Revoking a person's voting rights only when convicted of a state crime punishable by death. 👍1  
+
+## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions. 👍1  
+
+## [HB 2072](/bill/2023-24/hb/2072/) - Antitrust penalties 👍1  
+
+## [HB 2081](/bill/2023-24/hb/2081/) - Home equity sharing 👍1  
+
+## [HB 2083](/bill/2023-24/hb/2083/) - Payday lending/small loans 👍1  
+
+## [HB 2094](/bill/2023-24/hb/2094/) - Gift certificates 👍1  
+
+## [HB 2095](/bill/2023-24/hb/2095/) - Gift certificates/unclaimed 👍1  
+
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+
+## [HB 2119](/bill/2023-24/hb/2119/) - Medical debt garnishment 👍1  
+
+## [HB 2176](/bill/2023-24/hb/2176/) - Preventive dental care  👎1 
+
+## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
+
+## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest 👍3  
 
 ## [SB 5109](/bill/2023-24/sb/5109/) - Wage replacement 👍1  
 
@@ -172,3 +201,23 @@
 ## [SB 5610](/bill/2023-24/sb/5610/) - Used vehicle warranties 👍1  
 
 ## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍1  
+
+## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
+
+## [SB 5819](/bill/2023-24/sb/5819/) - Financial education 👍1  
+
+## [SB 5839](/bill/2023-24/sb/5839/) - Modifying the working families' tax credit by clarifying the refundable nature of the credit, the application requirements, and the eligibility verification process. 👍1  
+
+## [SB 5943](/bill/2023-24/sb/5943/) - Resource data tool 👍1  
+
+## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍1  
+
+## [SB 5968](/bill/2023-24/sb/5968/) - Home equity sharing 👍1  
+
+## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍1  
+
+## [SB 5987](/bill/2023-24/sb/5987/) - Gift certificates 👍1  
+
+## [SB 5988](/bill/2023-24/sb/5988/) - Gift certificates/unclaimed 👍1  
+
+## [SB 6025](/bill/2023-24/sb/6025/) - Predatory loans 👍1  

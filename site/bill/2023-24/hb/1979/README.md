@@ -8,16 +8,15 @@
 
 ## Meetings
 ### Wed 01/10 01:30 PM - Health Care & Wellness (HCW): HB 1979 Inhalers & epinephrine cost
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31512&aId=156052&caId=22850&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31512&aId=156052&caId=22850&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31512&aId=156052&caId=22850&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31512&aId=156052&caId=22850&tId=4)
-
-#### 4 👍 - Pro
+#### 102 👍 - Pro
 Testifying:
 * Amy Garrett - Pediatric Associates of Whidbey Island
+* Jim Freeburg - Patient Coalition of Washington
+* 💵Bob Cooper
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* Evan Klein - Health Care Authority (HCA) - Special Assistant, Legislative & Policy Affairs

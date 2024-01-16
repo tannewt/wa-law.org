@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1964/</link>
 		<description>Updates about HB 1964</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 15 Jan 2024 06:58:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,29 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Transportation (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Transportation.</title>
+			<description>First reading, referred to Transportation.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>👍Beau Perschbacher - WA Dept. of Licensing</title>
+			<description>Beau Perschbacher signed up to testify Pro. They are signed up to represent WA Dept. of Licensing.</description>
+			<pubDate>Thu, 11 Jan 2024 11:38:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Beau/Perschbacher/2024-01-11 11:38:34</guid>
+		</item>
+		<item>
+			<title>👎Laurie Layne - Layne Software</title>
+			<description>Laurie Layne signed up to testify Con. They are signed up to represent Layne Software.</description>
+			<pubDate>Mon, 15 Jan 2024 06:58:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Laurie/Layne/2024-01-15 06:58:27</guid>
 		</item>
 	</channel>
 </rss>

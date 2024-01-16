@@ -8,17 +8,17 @@
 
 ## Meetings
 ### Wed 01/10 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2171 Incarcerated students
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31571&aId=156272&caId=22923&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31571&aId=156272&caId=22923&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31571&aId=156272&caId=22923&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31571&aId=156272&caId=22923&tId=4)
-
-#### 12 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * Sandy Kaiser - The Evergreen State College
 * Noreen Light - Information For A Change
 * Dirk van Velzen - Prison Scholar Fund
+* David Moore
+* Hanan Al-Zubaidy - SBCTC
+* Rose GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)
+* Tanya Quinata - IMAP Incarcerated Mothers Advocacy Project  andFEPPS
+* Jacob Vigdor
+* 💵Vicki Christophersen - [Justice Action Network](/org/justice_action_network/)
 
 #### 0 👎 - Con
 

@@ -7,3 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/15 04:00 PM - Appropriations (APP): HB 2013 Retirement benefits/death
+#### 613 👍 - Pro
+Testifying:
+* 💵Emmett Mills - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
+* Nancy Heley - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
+* David Iseminger - Washington State Health Care Authority
+* Shawn Merchant - Department of Retirement Systems
+* 💵Peter Diedrick - WA State School Retirees' Association
+
+#### 2 👎 - Con
+
+#### 0 ❓ - Other

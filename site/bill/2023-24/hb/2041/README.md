@@ -8,16 +8,19 @@
 
 ## Meetings
 ### Tue 01/09 01:30 PM - Health Care & Wellness (HCW): HB 2041 Physician assistant practice
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31511&aId=156049&caId=22847&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31511&aId=156049&caId=22847&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31511&aId=156049&caId=22847&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31511&aId=156049&caId=22847&tId=4)
+#### 524 👍 - Pro
+Testifying:
+* Gary Morsch - Docs Who Care
+* 💵Tom Holt - ZoomCare
+* Ryan Agostinelli
+* 💵Chelsea Hager - Contract Lobbyist, Washington Academy of Physician Assistants
+* Paul Surette - [Washington Academy of Physician Assistants](/org/washington_academy_of_physician_assistants/)
 
-#### 369 👍 - Pro
+#### 1 👎 - Con
+Testifying:
+* Jane Morrow - Washington State Association for Justice
 
-#### 0 👎 - Con
-
-#### 6 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * Stephanie Mason - Washington Medical Commission
+* 💵Alex Wehinger - Washington State Medical Assocation

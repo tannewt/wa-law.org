@@ -7,3 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/15 01:30 PM - Regulated Substances & Gaming (RSG): HB 2151 Cannabis lab. accreditation
+#### 12 👍 - Pro
+Testifying:
+* Dr. Annette Hoffmann - Department of Ecology
+* 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
+* Caitlein Ryan - THE CANNABIS ALLIANCE
+* Trecia Ehrlich - Washington State Department of Agriculture
+* Nick Mosely - Confidence Analytics
+
+#### 0 👎 - Con
+
+#### 1 ❓ - Other

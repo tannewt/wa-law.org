@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5871/</link>
 		<description>Updates about SB 5871</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 11 Jan 2024 11:38:28 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,45 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to State Government &amp; Elections (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to State Government &amp; Elections.</title>
+			<description>First reading, referred to State Government &amp; Elections.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to State Government &amp; Elections.</guid>
+		</item>
+		<item>
+			<title>❓💵Juliana Roe - Washington State Association of Counties - WSAC</title>
+			<description>Juliana Roe signed up to testify Other. They are signed up to represent Washington State Association of Counties - WSAC. They are a registered lobbyist.</description>
+			<pubDate>Tue, 09 Jan 2024 02:32:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Juliana/Roe/2024-01-09 02:32:12</guid>
+		</item>
+		<item>
+			<title>👍Mariah Hanley - Attorney General's Office</title>
+			<description>Mariah Hanley signed up to testify Pro. They are signed up to represent Attorney General's Office.</description>
+			<pubDate>Wed, 10 Jan 2024 01:51:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mariah/Hanley/2024-01-10 01:51:10</guid>
+		</item>
+		<item>
+			<title>👍Rory Paine-Donovan - Attorney General's Office</title>
+			<description>Rory Paine-Donovan signed up to testify Pro. They are signed up to represent Attorney General's Office.</description>
+			<pubDate>Wed, 10 Jan 2024 01:51:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rory/Paine-Donovan/2024-01-10 01:51:10</guid>
+		</item>
+		<item>
+			<title>❓David Puente - WA State Department of Veterans Affairs</title>
+			<description>David Puente signed up to testify Other. They are signed up to represent WA State Department of Veterans Affairs.</description>
+			<pubDate>Thu, 11 Jan 2024 11:38:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/David/Puente/2024-01-11 11:38:28</guid>
 		</item>
 	</channel>
 </rss>

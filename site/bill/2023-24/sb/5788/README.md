@@ -5,21 +5,16 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/09 10:30 AM - Law & Justice (LAW): SB 5788 Service animal training
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31537&aId=155975&caId=22720&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31537&aId=155975&caId=22720&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31537&aId=155975&caId=22720&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31537&aId=155975&caId=22720&tId=4)
-
-#### 2 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Spencer Lang
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)

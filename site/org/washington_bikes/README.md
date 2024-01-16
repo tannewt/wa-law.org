@@ -9,6 +9,8 @@
 ## [HB 1319](/bill/2023-24/hb/1319/) - Collisions/driver reexam 👍2  
 * 👍 Vicky Clarke
 
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍1  
+
 ## [HB 1428](/bill/2023-24/hb/1428/) - Pedestrians/roadways 👍1  
 
 ## [HB 1582](/bill/2023-24/hb/1582/) - Right turns 👍2  
@@ -50,3 +52,8 @@
 * 👍 Vicky Clarke
 
 ## [SB 5743](/bill/2023-24/sb/5743/) - Transportation resources 👍2  
+
+## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  
+
+## [SB 6010](/bill/2023-24/sb/6010/) - SEPA/trails and paths 👍1  
+* 👍 Lee Lambert

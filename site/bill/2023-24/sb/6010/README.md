@@ -8,13 +8,11 @@
 
 ## Meetings
 ### Thu 01/11 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6010 SEPA/trails and paths
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31533&aId=156305&caId=22926&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31533&aId=156305&caId=22926&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31533&aId=156305&caId=22926&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31533&aId=156305&caId=22926&tId=4)
-
-#### 0 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Katherine Hollis - [Eastrail Partners](/org/eastrail_partners/)
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Lee Lambert - [Washington Bikes](/org/washington_bikes/)
 
 #### 0 👎 - Con
 

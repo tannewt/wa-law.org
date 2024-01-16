@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5779/</link>
 		<description>Updates about SB 5779</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 12:15:23 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 11 Jan 2024 07:30:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -38,12 +38,51 @@
 			<guid isPermaLink="false">2024-01-08/First reading, referred to State Government &amp; Elections (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 		<item>
-			<title>👍Joe Kunzler - Johnston George LLP</title>
+			<title>First reading, referred to State Government &amp; Elections.</title>
+			<description>First reading, referred to State Government &amp; Elections.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to State Government &amp; Elections.</guid>
+		</item>
+		<item>
+			<title>👍💵Rowland Thompson - The Sunshine Committee</title>
+			<description>Rowland Thompson signed up to testify Pro. They are signed up to represent The Sunshine Committee. They are a registered lobbyist.</description>
+			<pubDate>Mon, 08 Jan 2024 06:50:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rowland/Thompson/2024-01-08 06:50:25</guid>
+		</item>
+		<item>
+			<title>👍Tristan Mospan - The Sunshine Committee</title>
+			<description>Tristan Mospan signed up to testify Pro.</description>
+			<pubDate>Mon, 08 Jan 2024 08:53:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tristan/Mospan/2024-01-08 08:53:48</guid>
+		</item>
+		<item>
+			<title>👍Joe Kunzler - The Sunshine Committee</title>
 			<description>Joe Kunzler signed up to testify Pro.</description>
 			<pubDate>Mon, 08 Jan 2024 12:15:23 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Joe/Kunzler/2024-01-08 12:15:23</guid>
+		</item>
+		<item>
+			<title>👍Anthony Mixer - Conservative Advocate</title>
+			<description>Anthony Mixer signed up to testify Pro. They are signed up to represent Conservative Advocate.</description>
+			<pubDate>Wed, 10 Jan 2024 11:28:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Anthony/Mixer/2024-01-10 11:28:23</guid>
+		</item>
+		<item>
+			<title>👍Linda Krese - Conservative Advocate</title>
+			<description>Linda Krese signed up to testify Pro.</description>
+			<pubDate>Thu, 11 Jan 2024 07:30:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Linda/Krese/2024-01-11 07:30:13</guid>
 		</item>
 	</channel>
 </rss>

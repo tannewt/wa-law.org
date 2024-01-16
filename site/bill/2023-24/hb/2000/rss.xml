@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2000/</link>
 		<description>Updates about HB 2000</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 15 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -24,7 +24,7 @@
 			<guid isPermaLink="false">testifier/Geoffrey/Potter/2024-01-03 09:07:52</guid>
 		</item>
 		<item>
-			<title>❓eric pratt - Office of Governor Jay Inslee</title>
+			<title>❓eric pratt - Association of Washington Business</title>
 			<description>eric pratt signed up to testify Other.</description>
 			<pubDate>Sun, 07 Jan 2024 07:36:46 GMT</pubDate>
 			<category>testifier</category>
@@ -37,6 +37,61 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to State Government &amp; Tribal Relations (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>👎John Worthington - Association of Washington Business</title>
+			<description>John Worthington signed up to testify Con.</description>
+			<pubDate>Mon, 08 Jan 2024 07:43:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/John/Worthington/2024-01-08 07:43:16</guid>
+		</item>
+		<item>
+			<title>👍James Rolph - The Lieutenant Governor's Office</title>
+			<description>James Rolph signed up to testify Pro. They are signed up to represent The Lieutenant Governor's Office.</description>
+			<pubDate>Mon, 08 Jan 2024 12:56:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/James/Rolph/2024-01-08 12:56:53</guid>
+		</item>
+		<item>
+			<title>👍Lydia Faitalia - Washington State Commission on Asian Pacific American Affairs</title>
+			<description>Lydia Faitalia signed up to testify Pro. They are signed up to represent Washington State Commission on Asian Pacific American Affairs.</description>
+			<pubDate>Tue, 09 Jan 2024 01:30:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lydia/Faitalia/2024-01-09 01:30:45</guid>
+		</item>
+		<item>
+			<title>👍Karen Hanan - ArtsWA (WA State Arts Commission)</title>
+			<description>Karen Hanan signed up to testify Pro. They are signed up to represent ArtsWA (WA State Arts Commission).</description>
+			<pubDate>Tue, 09 Jan 2024 02:56:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Karen/Hanan/2024-01-09 02:56:19</guid>
+		</item>
+		<item>
+			<title>👍Sarah Clark - Seattle Metro Chamber</title>
+			<description>Sarah Clark signed up to testify Pro. They are signed up to represent Seattle Metro Chamber.</description>
+			<pubDate>Tue, 09 Jan 2024 05:03:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sarah/Clark/2024-01-09 05:03:03</guid>
+		</item>
+		<item>
+			<title>👍💵Amy Anderson - Association of Washington Business</title>
+			<description>Amy Anderson signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/association_of_washington_business/&quot;&gt;Association of Washington Business&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 09 Jan 2024 12:15:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Amy/Anderson/2024-01-09 12:15:57</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-15/Referred to Appropriations.</guid>
 		</item>
 	</channel>
 </rss>

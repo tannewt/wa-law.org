@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/16 10:30 AM - Law & Justice (LAW): SB 5841 DUI/financial support
+#### 6 👍 - Pro
+Testifying:
+* David Yates - Kentucky State Senate, District 37
+
+#### 0 👎 - Con
+
+#### 1 ❓ - Other

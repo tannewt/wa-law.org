@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5841/</link>
 		<description>Updates about SB 5841</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 16 Jan 2024 08:28:29 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,21 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Law &amp; Justice (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Law &amp; Justice.</title>
+			<description>First reading, referred to Law &amp; Justice.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Law &amp; Justice.</guid>
+		</item>
+		<item>
+			<title>👍David Yates - Kentucky State Senate, District 37</title>
+			<description>David Yates signed up to testify Pro. They are signed up to represent Kentucky State Senate, District 37.</description>
+			<pubDate>Tue, 16 Jan 2024 08:28:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/David/Yates/2024-01-16 08:28:29</guid>
 		</item>
 	</channel>
 </rss>

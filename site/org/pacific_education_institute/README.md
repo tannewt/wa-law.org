@@ -22,6 +22,9 @@
 
 ## [HB 1658](/bill/2023-24/hb/1658/) - Work experience/H.S. credit 👍1  
 
+## [HB 1935](/bill/2023-24/hb/1935/) - Promoting resource conservation practices that include student education and leadership opportunities in public schools. 👍1  
+* 👍 Kathryn Kurtz
+
 ## [SB 5229](/bill/2023-24/sb/5229/) - Site readiness grants 👍1  
 
 ## [SB 5247](/bill/2023-24/sb/5247/) - Climate-ready communities 👍1  

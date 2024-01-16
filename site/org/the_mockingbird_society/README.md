@@ -1,6 +1,6 @@
 # The Mockingbird Society
 
-## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍3  
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
@@ -30,8 +30,17 @@
 
 ## [HB 1679](/bill/2023-24/hb/1679/) - Student homelessness group 👍1  
 
+## [HB 1873](/bill/2023-24/hb/1873/) - Concerning office of public defense social service workers for parents in child welfare cases. 👍1  
+
+## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍1  
+
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
 * ❓ Charles Smith
+
+## [HB 2218](/bill/2023-24/hb/2218/) - Extended foster care 👍2  
+* 👍 Charles Smith
+
+## [HB 2251](/bill/2023-24/hb/2251/) - Unenforceable LFOs 👍1  
 
 ## [SB 5124](/bill/2023-24/sb/5124/) - Nonrelative kin placement 👍1  
 
@@ -62,7 +71,12 @@
 
 ## [SB 5800](/bill/2023-24/sb/5800/) - Improving access to department of licensing issued documents by clarifying the application requirements for a minor, modifying the requirements for at-cost identicards, and studying the feasibility of reduced-fee identicards. 👍1  
 
-## [SB 5908](/bill/2023-24/sb/5908/) - Providing extended foster care services to youth ages 18 to 21. 👍2  
+## [SB 5908](/bill/2023-24/sb/5908/) - Providing extended foster care services to youth ages 18 to 21. 👍5  
+* 👍 Charles Smith
 
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
 * ❓ Charles Smith
+
+## [SB 5974](/bill/2023-24/sb/5974/) - Concerning the disposition of unenforceable legal financial obligations other than restitution imposed by a court or an agent of the court against a juvenile prior to July 1, 2023. 👍1  
+
+## [SB 6063](/bill/2023-24/sb/6063/) - Persistent offenders 👍1  

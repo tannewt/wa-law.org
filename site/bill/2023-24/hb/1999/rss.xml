@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1999/</link>
 		<description>Updates about HB 1999</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 15 Jan 2024 10:29:37 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,52 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Community Safety, Justice, &amp; Reentry (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Community Safety, Justice, &amp; Reentry.</title>
+			<description>First reading, referred to Community Safety, Justice, &amp; Reentry.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Community Safety, Justice, &amp; Reentry.</guid>
+		</item>
+		<item>
+			<title>👍Barbara Mack - Washington State Association of Counties</title>
+			<description>Barbara Mack signed up to testify Pro.</description>
+			<pubDate>Fri, 12 Jan 2024 01:43:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Barbara/Mack/2024-01-12 01:43:42</guid>
+		</item>
+		<item>
+			<title>The House Hot Sheet for Week 2 of the 2024 Legislative Session – Washington State House Democrats</title>
+			<description>News article &quot;The House Hot Sheet for Week 2 of the 2024 Legislative Session – Washington State House Democrats&quot; from House Democrats.</description>
+			<pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/01/15/the-house-hot-sheet-for-week-2-of-the-2024-legislative-session/#:~:text=HB%201999</guid>
+		</item>
+		<item>
+			<title>👍Caroline Mullet - Washington State Association of Counties</title>
+			<description>Caroline Mullet signed up to testify Pro.</description>
+			<pubDate>Mon, 15 Jan 2024 10:01:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Caroline/Mullet/2024-01-15 10:01:23</guid>
+		</item>
+		<item>
+			<title>👍James McMahan - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>James McMahan signed up to testify Pro. They are signed up to represent WA Assoc Sheriffs &amp; Police Chiefs.</description>
+			<pubDate>Mon, 15 Jan 2024 10:10:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/James/McMahan/2024-01-15 10:10:46</guid>
+		</item>
+		<item>
+			<title>👍💵Russell Brown - WA Association of Prosecuting Attorneys</title>
+			<description>Russell Brown signed up to testify Pro. They are signed up to represent WA Association of Prosecuting Attorneys. They are a registered lobbyist.</description>
+			<pubDate>Mon, 15 Jan 2024 10:29:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Russell/Brown/2024-01-15 10:29:37</guid>
 		</item>
 	</channel>
 </rss>

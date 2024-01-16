@@ -81,6 +81,14 @@
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍4  
 * 👍 Linda Nageotte
 
+## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍1  
+
+## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
+* 👍💵 Aaron Czyzewski
+
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  
+* 👍💵 Aaron Czyzewski
+
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
 
 ## [SB 5128](/bill/2023-24/sb/5128/) - Jury diversity 👍1  
@@ -120,3 +128,6 @@
 ## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍1  
 
 ## [SB 5572](/bill/2023-24/sb/5572/) - Traffic safety 👍1  
+
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
+* 👍💵 Aaron Czyzewski

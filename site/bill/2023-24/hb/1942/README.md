@@ -8,16 +8,15 @@
 
 ## Meetings
 ### Fri 01/12 10:30 AM - Labor & Workplace Standards (LAWS): HB 1942 Long-term care providers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31573&aId=156081&caId=22879&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31573&aId=156081&caId=22879&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31573&aId=156081&caId=22879&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31573&aId=156081&caId=22879&tId=4)
-
-#### 5 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Bea Rector - Department of Social & Health Services
+* Lynn Kimball - Washington Association of Area Agencies on Aging
+* Ben Bledsoe - Consumer Direct Care Network
+* Sydney Krebsbach - Washington State Developmental Disabilities Council
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Loren Freeman
 
 #### 0 ❓ - Other

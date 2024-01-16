@@ -7,3 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/16 10:30 AM - Law & Justice (LAW): SB 6006 Victims of human trafficking
+#### 28 👍 - Pro
+Testifying:
+* Barbara Mack
+* Rose GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)
+
+#### 0 👎 - Con
+
+#### 2 ❓ - Other
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Russell Brown - WA Association of Prosecuting Attorneys

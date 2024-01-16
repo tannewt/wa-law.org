@@ -65,6 +65,15 @@
 
 ## [HB 1706](/bill/2023-24/hb/1706/) - Microenterprise home kitchen   ❓1
 
+## [HB 2045](/bill/2023-24/hb/2045/) - Creating an adopt a fish barrier program. 👍1  
+
+## [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element  👎1 
+* 👎💵 Briahna Murray
+
+## [HB 2153](/bill/2023-24/hb/2153/) - Catalytic converter theft 👍1  
+
+## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras 👍1  
+
 ## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍3  
 
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍2  
@@ -111,3 +120,11 @@
 * 👍 Lacey Jane Wolfe
 
 ## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages 👍1  
+
+## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  
+
+## [SB 5989](/bill/2023-24/sb/5989/) - Confirming property ownership or owner authorization for short-term rentals.   ❓1
+
+## [SB 6040](/bill/2023-24/sb/6040/) - Public works payments   ❓1
+
+## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍1  

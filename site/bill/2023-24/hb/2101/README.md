@@ -6,16 +6,24 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/08/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/08/the-house-hot-sheet-for-week-1-of-the-2024-legislative-session/#:~:text=HB%202101)
+
 ## Meetings
 ### Tue 01/09 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2101 Child care licensing fees
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31597&aId=156218&caId=22859&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31597&aId=156218&caId=22859&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31597&aId=156218&caId=22859&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31597&aId=156218&caId=22859&tId=4)
+#### 120 👍 - Pro
+Testifying:
+* Alejandra Alarcon
+* Mary Curry - Linked Arms ADOS Association
+* Mary Curry - Linked Arms ADOS Association
+* Mary Curry - Linked Arms ADOS Association
+* 💵Logan Endres - BrightSpark Early Learning
+* 💵Paula Sardinas - WA Build Back Black Alliance
+* 💵Paula Sardinas - WBBA (WA Build Black Alliance)
+* 💵Emily Murphy - [Child Care Aware of Washington](/org/child_care_aware_of_washington/)
+* 💵Donna Christensen - Washington Childcare Center Association
+* Meredith Hayes - Whatcom Child Care Coalition
 
-#### 29 👍 - Pro
-
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

@@ -7,3 +7,42 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/16 04:00 PM - Ways & Means (WM): SB 5988 Gift certificates/unclaimed
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31606&aId=156855&caId=23027&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31606&aId=156855&caId=23027&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31606&aId=156855&caId=23027&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31606&aId=156855&caId=23027&tId=4)
+
+#### 359 👍 - Pro
+Testifying:
+* Dan Olmstead - Poverty Bay Coffee Company
+* Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
+* Michael Johnson
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* 💵Misha Werschkul - Washington State Budget and Policy Center
+* Suresh Chanmugam - [Tech 4 Housing](/org/tech_4_housing/)
+* Tom Sterken - Keller Rohrback L.L.P.
+* Tymmony Keegan
+* Micaela Romero - WashingtonCAN
+* Dan Olmstead - Poverty Bay Coffee Company
+* Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
+* Michael Johnson
+* Suresh Chanmugam - [Tech 4 Housing](/org/tech_4_housing/)
+
+#### 222 👎 - Con
+Testifying:
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* Lars Erickson - Seattle Metropolitan Chamber of Commerce
+* Phillip Rouse - Retail Gift Card Association
+* Cooper Mills - Fire and Vine Hospitality
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Brandon Houskeeper - NW Grocery Association
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* 💵Holly Chisa - InComm Payments
+* 💵Emily Shay - Association of Washington Businesses
+* Patrick Reynolds - Council of State Taxation
+
+#### 2 ❓ - Other
+Testifying:
+* Steve Ewing - Dept. of Revenue

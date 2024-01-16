@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1925/</link>
 		<description>Updates about HB 1925</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 09 Jan 2024 03:21:01 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -29,6 +29,29 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Innovation, Community &amp; Economic Development, &amp; Veterans (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Innovation, Community &amp; Economic Development, &amp; Veterans.</title>
+			<description>First reading, referred to Innovation, Community &amp; Economic Development, &amp; Veterans.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Innovation, Community &amp; Economic Development, &amp; Veterans.</guid>
+		</item>
+		<item>
+			<title>👍💵Juliana Roe - Washington State Association of Counties - WSAC</title>
+			<description>Juliana Roe signed up to testify Pro. They are signed up to represent Washington State Association of Counties - WSAC. They are a registered lobbyist.</description>
+			<pubDate>Tue, 09 Jan 2024 02:29:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Juliana/Roe/2024-01-09 02:29:22</guid>
+		</item>
+		<item>
+			<title>❓David Puente - WA State Department of Veterans Affairs</title>
+			<description>David Puente signed up to testify Other. They are signed up to represent WA State Department of Veterans Affairs.</description>
+			<pubDate>Tue, 09 Jan 2024 03:21:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/David/Puente/2024-01-09 03:21:01</guid>
 		</item>
 	</channel>
 </rss>

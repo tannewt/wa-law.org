@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5806/</link>
 		<description>Updates about SB 5806</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 15 Jan 2024 07:38:29 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,45 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Business, Financial Services, Gaming &amp; Trade (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Business, Financial Services, Gaming &amp; Trade.</title>
+			<description>First reading, referred to Business, Financial Services, Gaming &amp; Trade.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Business, Financial Services, Gaming &amp; Trade.</guid>
+		</item>
+		<item>
+			<title>❓💵Jean Leonard - WA Insurers</title>
+			<description>Jean Leonard signed up to testify Other. They are signed up to represent WA Insurers. They are a registered lobbyist.</description>
+			<pubDate>Mon, 15 Jan 2024 07:28:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jean/Leonard/2024-01-15 07:28:40</guid>
+		</item>
+		<item>
+			<title>❓Kris Tefft - American Property Casualty Insurance Association (APCIA)</title>
+			<description>Kris Tefft signed up to testify Other. They are signed up to represent American Property Casualty Insurance Association (APCIA).</description>
+			<pubDate>Mon, 15 Jan 2024 07:28:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Kris/Tefft/2024-01-15 07:28:40</guid>
+		</item>
+		<item>
+			<title>❓💵Kenton Brine - NW Insurance Council</title>
+			<description>Kenton Brine signed up to testify Other. They are signed up to represent NW Insurance Council. They are a registered lobbyist.</description>
+			<pubDate>Mon, 15 Jan 2024 07:29:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Kenton/Brine/2024-01-15 07:29:47</guid>
+		</item>
+		<item>
+			<title>👍David Forte - Office of the Insurance Commissioner</title>
+			<description>David Forte signed up to testify Pro. They are signed up to represent Office of the Insurance Commissioner.</description>
+			<pubDate>Mon, 15 Jan 2024 07:38:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/David/Forte/2024-01-15 07:38:29</guid>
 		</item>
 	</channel>
 </rss>

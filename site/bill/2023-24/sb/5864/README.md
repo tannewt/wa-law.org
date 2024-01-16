@@ -8,14 +8,8 @@
 
 ## Meetings
 ### Fri 01/12 08:00 AM - Health & Long Term Care (HLTC): SB 5864 Rare disease contact
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31541&aId=155984&caId=22784&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31541&aId=155984&caId=22784&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31541&aId=155984&caId=22784&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31541&aId=155984&caId=22784&tId=4)
-
-#### 2 👍 - Pro
+#### 9 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

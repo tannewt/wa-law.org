@@ -17,6 +17,16 @@
 * 👍 Johanna Standish
 * 👍 Kristine Kraig
 
+## [HB 1985](/bill/2023-24/hb/1985/) - PERS/TRS 1 benefit increase 👍20  
+* 👍 Nancy Heley
+* 👍 Claude Burfect
+
+## [HB 2013](/bill/2023-24/hb/2013/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍3  
+* 👍💵 Emmett Mills
+* 👍 Nancy Heley
+
+## [HB 2188](/bill/2023-24/hb/2188/) - Health subsidy/retirees 👍11  
+
 ## [SB 5169](/bill/2023-24/sb/5169/) - Medicare/health care plans 👍7  
 * 👍 Carol Dotlich
 * 👍 Matt Groshong
@@ -45,3 +55,7 @@
 ## [SB 5625](/bill/2023-24/sb/5625/) - Public employee retirees 👍2  
 
 ## [SB 5696](/bill/2023-24/sb/5696/) - PEBB/subdivision retirees 👍1  
+
+## [SB 6000](/bill/2023-24/sb/6000/) - Military service credit 👍1  
+
+## [SB 6094](/bill/2023-24/sb/6094/) - Retired health subsidy/PEBB   ❓1

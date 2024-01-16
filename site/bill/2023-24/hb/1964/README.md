@@ -7,3 +7,13 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/15 04:00 PM - Transportation (TR): HB 1964 Prorate & fuel tax collect.
+#### 4 👍 - Pro
+Testifying:
+* Beau Perschbacher - WA Dept. of Licensing
+
+#### 1 👎 - Con
+Testifying:
+* Laurie Layne - Layne Software
+
+#### 0 ❓ - Other

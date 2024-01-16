@@ -7,3 +7,9 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/16 08:00 AM - Finance (FIN): HB 1913 International services/tax
+#### 0 👍 - Pro
+
+#### 2 👎 - Con
+
+#### 0 ❓ - Other

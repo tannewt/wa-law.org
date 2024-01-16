@@ -10,6 +10,8 @@
 ## [HB 1348](/bill/2023-24/hb/1348/) - Behavioral health support   ❓1
 * ❓ Julia O'Connor
 
+## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍1  
+
 ## [SB 5036](/bill/2023-24/sb/5036/) - Audio-only telemedicine 👍1  
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
@@ -21,3 +23,7 @@
 
 ## [SB 5555](/bill/2023-24/sb/5555/) - Certified peer specialists   ❓1
 * ❓ Julia O'Connor
+
+## [SB 5853](/bill/2023-24/sb/5853/) - Extending the crisis relief center model to provide behavioral health crisis services for minors.   ❓1
+
+## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍1  

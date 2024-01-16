@@ -7,3 +7,13 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/16 08:00 AM - Finance (FIN): HB 1894 Business licensing service
+#### 6 👍 - Pro
+Testifying:
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Patrick Connor - NFIB
+* Steve Ewing - Dept. of Revenue
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

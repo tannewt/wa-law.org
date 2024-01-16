@@ -7,3 +7,31 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/16 01:30 PM - Consumer Protection & Business (CPB): HB 2156 Solar consumer protections
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31657&aId=156556&caId=23126&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31657&aId=156556&caId=23126&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31657&aId=156556&caId=23126&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31657&aId=156556&caId=23126&tId=4)
+
+#### 196 👍 - Pro
+Testifying:
+* Shari Weir - Seattle City Light
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Cassie Bordelon - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* 💵Paul Griffin - Washington Rural Electric Cooperative Association
+* nora hawkins - Washington Department of Commerce
+* 💵Josie Cummings - Avista
+* Jennifer Langdon - Cowlitz Public Utility District
+* Dever Haffner-Ratliffe - Cowlitz Public Utility District
+* 💵Logan Bahr - Tacoma Public Utilities/Tacoma Power
+
+#### 1 👎 - Con
+Testifying:
+* Brett Bear
+
+#### 3 ❓ - Other
+Testifying:
+* Bill Will - [Washington Solar Energy Industries Association](/org/washington_solar_energy_industries_association/)
+* Gavin Tenold - Northwest Renewables
+* Reeves Clippard - A&R Solar

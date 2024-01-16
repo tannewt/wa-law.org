@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2136/</link>
 		<description>Updates about HB 2136</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 16 Jan 2024 07:42:20 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,61 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Labor &amp; Workplace Standards (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Labor &amp; Workplace Standards.</title>
+			<description>First reading, referred to Labor &amp; Workplace Standards.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Labor &amp; Workplace Standards.</guid>
+		</item>
+		<item>
+			<title>👍Amanda Goss - Attorney General's Office</title>
+			<description>Amanda Goss signed up to testify Pro. They are signed up to represent Attorney General's Office.</description>
+			<pubDate>Fri, 12 Jan 2024 10:18:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Amanda/Goss/2024-01-12 10:18:54</guid>
+		</item>
+		<item>
+			<title>👍Rory Paine-Donovan - Attorney General's Office</title>
+			<description>Rory Paine-Donovan signed up to testify Pro. They are signed up to represent Attorney General's Office.</description>
+			<pubDate>Fri, 12 Jan 2024 10:18:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rory/Paine-Donovan/2024-01-12 10:18:54</guid>
+		</item>
+		<item>
+			<title>❓Robert (Bob) Battles - Association of Washington Business (AWB)</title>
+			<description>Robert (Bob) Battles signed up to testify Other. They are signed up to represent Association of Washington Business (AWB).</description>
+			<pubDate>Mon, 15 Jan 2024 10:43:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Robert (Bob)/Battles/2024-01-15 10:43:24</guid>
+		</item>
+		<item>
+			<title>❓Jerry VanderWood - Associated General Contractors (AGC)</title>
+			<description>Jerry VanderWood signed up to testify Other. They are signed up to represent Associated General Contractors (AGC).</description>
+			<pubDate>Tue, 16 Jan 2024 06:28:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jerry/VanderWood/2024-01-16 06:28:17</guid>
+		</item>
+		<item>
+			<title>👍MARK RIKER - Washington State Building &amp; Construction Trades Council</title>
+			<description>MARK RIKER signed up to testify Pro. They are signed up to represent Washington State Building &amp; Construction Trades Council.</description>
+			<pubDate>Tue, 16 Jan 2024 07:42:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/MARK/RIKER/2024-01-16 07:42:20</guid>
+		</item>
+		<item>
+			<title>👍💵Ray Dumas - Cement Masons &amp; Plasterers Local 528</title>
+			<description>Ray Dumas signed up to testify Pro. They are signed up to represent Cement Masons &amp; Plasterers Local 528. They are a registered lobbyist.</description>
+			<pubDate>Tue, 16 Jan 2024 07:42:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ray/Dumas/2024-01-16 07:42:20</guid>
 		</item>
 	</channel>
 </rss>

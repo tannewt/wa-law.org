@@ -8,14 +8,15 @@
 
 ## Meetings
 ### Wed 01/10 01:30 PM - Health Care & Wellness (HCW): HB 2128 Certificate of need program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31512&aId=156302&caId=22922&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31512&aId=156302&caId=22922&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31512&aId=156302&caId=22922&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31512&aId=156302&caId=22922&tId=4)
-
-#### 2 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Jaimie Cavanaugh - [Institute for Justice](/org/institute_for_justice/)
+* 💵Sean Graham - Washington State Medical Assocation (WSMA)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Christie Spice - Washington State Department of Health
+* 💵Janet Varon - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* 💵Dane Austreng - SEIU 1199NW

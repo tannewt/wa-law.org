@@ -309,6 +309,86 @@
 ## [HB 1839](/bill/2023-24/hb/1839/) - Train length  👎1 
 * 👎 Mike Ennis
 
+## [HB 1892](/bill/2023-24/hb/1892/) - Concerning the workforce housing accelerator program. 👍1  
+* 👍 Morgan Irwin
+
+## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍1  
+
+## [HB 1900](/bill/2023-24/hb/1900/) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system.   ❓1
+* ❓💵 Peter Godlewski
+
+## [HB 1915](/bill/2023-24/hb/1915/) - Making financial education instruction a graduation prerequisite and a required component of public education. 👍2  
+
+## [HB 1916](/bill/2023-24/hb/1916/) - Concerning funding for the early support for infants and toddlers program. 👍1  
+
+## [HB 1921](/bill/2023-24/hb/1921/) - Prohibiting the use of certain substances in food.  👎2 
+* 👎💵 Peter Godlewski
+
+## [HB 1924](/bill/2023-24/hb/1924/) - Promoting the integration of fusion technology within state clean energy policies. 👍1  
+
+## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍1  
+
+## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍1  
+
+## [HB 1940](/bill/2023-24/hb/1940/) - Employer political speech  👎1 
+* 👎 Bob Battles
+
+## [HB 1964](/bill/2023-24/hb/1964/) - Prorate & fuel tax collect. 👍1  
+
+## [HB 1998](/bill/2023-24/hb/1998/) - Co-living housing 👍1  
+* 👍 Morgan Irwin
+
+## [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍1  
+* 👍💵 Amy Anderson
+
+## [HB 2039](/bill/2023-24/hb/2039/) - Modifying the appeals process for environmental and land use matters. 👍1  
+* 👍💵 Peter Godlewski
+
+## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes.  👎1 
+* 👎💵 Peter Godlewski
+
+## [HB 2051](/bill/2023-24/hb/2051/) - Reducing emissions from small off-road engines.  👎1 
+* 👎💵 Peter Godlewski
+
+## [HB 2068](/bill/2023-24/hb/2068/) - Fashion/environmental impact  👎1 
+* 👎💵 Peter Godlewski
+
+## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions.  👎1 
+* 👎💵 Peter Godlewski
+
+## [HB 2101](/bill/2023-24/hb/2101/) - Child care licensing fees 👍1  
+
+## [HB 2103](/bill/2023-24/hb/2103/) - Large port districts  👎1 
+
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants  👎1 
+* 👎 Morgan Irwin
+
+## [HB 2119](/bill/2023-24/hb/2119/) - Medical debt garnishment  👎1 
+* 👎💵 Emily Wittman
+
+## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍1  
+
+## [HB 2126](/bill/2023-24/hb/2126/) - Rural area ADUs 👍1  
+
+## [HB 2156](/bill/2023-24/hb/2156/) - Solar consumer protections 👍1  
+* 👍💵 Peter Godlewski
+
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development  👎1 
+* 👎 Morgan Irwin
+
+## [HB 2172](/bill/2023-24/hb/2172/) - Vacant state agency property 👍1  
+
+## [HB 2176](/bill/2023-24/hb/2176/) - Preventive dental care 👍1  
+
+## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage   ❓1
+* ❓💵 Peter Godlewski
+
+## [HB 2236](/bill/2023-24/hb/2236/) - Tech. ed. core plus programs   ❓1
+* ❓💵 Emily Wittman
+
+## [HB 2253](/bill/2023-24/hb/2253/) - Community solar  👎1 
+* 👎💵 Peter Godlewski
+
 ## [SB 5041](/bill/2023-24/sb/5041/) - Motor carrier safety 👍1  
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍2  
@@ -317,6 +397,9 @@
 * ❓💵 Peter Godlewski
 
 ## [SB 5058](/bill/2023-24/sb/5058/) - Multiunit res. buildings 👍1  
+
+## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
+* 👎 Bob Battles
 
 ## [SB 5091](/bill/2023-24/sb/5091/) - Hydrogen fuel products 👍1  
 
@@ -327,8 +410,9 @@
 
 ## [SB 5103](/bill/2023-24/sb/5103/) - Medicaid patients/discharge 👍2  
 
-## [SB 5118](/bill/2023-24/sb/5118/) - Multifamily property tax ex.   ❓1
+## [SB 5118](/bill/2023-24/sb/5118/) - Multifamily property tax ex.  👎1 ❓1
 * ❓💵 Michael Ennis
+* 👎 Morgan Irwin
 
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment  👎1 
 * 👎💵 Peter Godlewski
@@ -509,3 +593,49 @@
 ## [SB 5733](/bill/2023-24/sb/5733/) - Payment card processing/tax 👍1  
 
 ## [SB 5765](/bill/2023-24/sb/5765/) - I-5 bridge tolling 👍1  
+
+## [SB 5774](/bill/2023-24/sb/5774/) - Increasing the capacity to conduct timely fingerprint-based background checks for prospective child care employees and other programs. 👍1  
+
+## [SB 5776](/bill/2023-24/sb/5776/) - Accessing an emergency supply of insulin.  👎1 
+* 👎💵 Emily Wittman
+
+## [SB 5777](/bill/2023-24/sb/5777/) - Unemp ins/strikes & lockouts  👎1 
+* 👎 Bob Battles
+
+## [SB 5778](/bill/2023-24/sb/5778/) - Employer political speech  👎1 
+* 👎 Bob Battles
+
+## [SB 5795](/bill/2023-24/sb/5795/) - Year-round Pacific std. time 👍1  
+* 👍💵 Peter Godlewski
+
+## [SB 5815](/bill/2023-24/sb/5815/) - Concerning the physician assistant compact. 👍1  
+* 👍💵 Emily Wittman
+
+## [SB 5819](/bill/2023-24/sb/5819/) - Financial education 👍1  
+
+## [SB 5845](/bill/2023-24/sb/5845/) - Military housing taxation  👎1 
+* 👎 Morgan Irwin
+
+## [SB 5901](/bill/2023-24/sb/5901/) - Concerning co-living housing. 👍1  
+* 👍 Morgan Irwin
+
+## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD   ❓1
+
+## [SB 5940](/bill/2023-24/sb/5940/) - Medical assistant-EMT cert. 👍1  
+
+## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras  👎1 
+* 👎 Morgan Irwin
+
+## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants  👎1 
+* 👎 Morgan Irwin
+
+## [SB 5965](/bill/2023-24/sb/5965/) - Fashion/environmental impact  👎1 
+* 👎💵 Peter Godlewski
+
+## [SB 6024](/bill/2023-24/sb/6024/) - Housing development  👎1 
+* 👎 Morgan Irwin
+
+## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage   ❓1
+* ❓💵 Peter Godlewski
+
+## [SB 6101](/bill/2023-24/sb/6101/) - Hospital at-home services 👍1  

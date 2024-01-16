@@ -54,6 +54,36 @@
 
 ## [HB 1706](/bill/2023-24/hb/1706/) - Microenterprise home kitchen  👎1 
 
+## [HB 1873](/bill/2023-24/hb/1873/) - Concerning office of public defense social service workers for parents in child welfare cases. 👍1  
+
+## [HB 1902](/bill/2023-24/hb/1902/) - Firearms/purchase & transfer 👍1  
+
+## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍1  
+
+## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍1  
+
+## [HB 2021](/bill/2023-24/hb/2021/) - Concerning the disposition of privately owned firearms in the custody of state or local government entities or law enforcement agencies. 👍1  
+
+## [HB 2054](/bill/2023-24/hb/2054/) - Concerning bulk purchases and transfers of firearms. 👍1  
+
+## [HB 2115](/bill/2023-24/hb/2115/) - Prescription labels/abortion 👍1  
+
+## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍1  
+
+## [HB 2157](/bill/2023-24/hb/2157/) - Vaccine definition 👍1  
+
+## [HB 2182](/bill/2023-24/hb/2182/) - Regulated substance use data 👍1  
+
+## [HB 2194](/bill/2023-24/hb/2194/) - Home cultivation of cannabis  👎1 
+
+## [HB 2197](/bill/2023-24/hb/2197/) - Medical assist./prevention 👍1  
+
+## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍1  
+
+## [HB 2256](/bill/2023-24/hb/2256/) - Children behavioral health 👍1  
+
+## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
+
 ## [SB 5006](/bill/2023-24/sb/5006/) - Waiver of firearm rights 👍1  
 
 ## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍5  
@@ -72,8 +102,19 @@
 ## [SB 5367](/bill/2023-24/sb/5367/) - Products containing THC 👍2  
 * 👍 Megan Moore
 
+## [SB 5444](/bill/2023-24/sb/5444/) - Firearm sensitive places 👍1  
+
 ## [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍1  
 
 ## [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth 👍1  
 
 ## [SB 5629](/bill/2023-24/sb/5629/) - Hepatitis B and C 👍1  
+
+## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
+
+## [SB 5829](/bill/2023-24/sb/5829/) - Congenital cytomegalovirus 👍1  
+
+## [SB 5933](/bill/2023-24/sb/5933/) - Infants and toddlers program 👍1  
+
+## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍2  
+* 👍💵 Amy Brackenbury

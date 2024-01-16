@@ -16,6 +16,28 @@
 * 01/29/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 4: Public safety takes center stage - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/29/this-week-in-the-senate-week-4-public-safety-takes-center-stage/#:~:text=Senate%20Bill%205427)
 
 ## Meetings
+### Thu 01/18 04:00 PM - Ways & Means (WM): SB 5427 Hate crimes & bias incidents
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31607&aId=156862&caId=23065&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31607&aId=156862&caId=23065&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31607&aId=156862&caId=23065&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31607&aId=156862&caId=23065&tId=4)
+
+#### 81 👍 - Pro
+Testifying:
+* Fay Stetz-Waters - Oregon Department of Justice
+* Fay Stetz Waters - Oregon Department of Justice
+* Jason Cummings - Snohomish County Prosecutor's Office
+* Kyle Kinoshita - Japanese American Citizens League of Seattle
+
+#### 410 👎 - Con
+Testifying:
+* John Coleman - Foundation for Individual Rights and Expression
+
+#### 1 ❓ - Other
+Testifying:
+* Eric pratt - America
+
 ### Mon 02/20 09:00 AM - Ways & Means (WM): SB 5427 Hate crimes & bias incidents
 #### 290 👍 - Pro
 Testifying:

@@ -8,18 +8,15 @@
 
 ## Meetings
 ### Mon 01/08 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1961 Animal cruelty/seriousness
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31578&aId=156140&caId=22808&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31578&aId=156140&caId=22808&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31578&aId=156140&caId=22808&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31578&aId=156140&caId=22808&tId=4)
-
-#### 174 👍 - Pro
+#### 191 👍 - Pro
 Testifying:
 * 💵Brenna Anderst - Pasado's Safe Haven/Education & Advocacy Director
 * Nathaniel Block - Skagit County Prosecuting Attorney's Office
 * Kaitlyn Hentges - Lake Washington High School
+* Mick Szydlowski - PAWS
 
-#### 1 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Ramona Brandes - WACDL?WDA
 
 #### 0 ❓ - Other

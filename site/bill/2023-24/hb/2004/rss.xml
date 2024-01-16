@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2004/</link>
 		<description>Updates about HB 2004</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 12 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,45 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Postsecondary Education &amp; Workforce (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>👍Jordan Caron - University of Washington</title>
+			<description>Jordan Caron signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/university_of_washington/&quot;&gt;University of Washington&lt;/a&gt;.</description>
+			<pubDate>Tue, 09 Jan 2024 03:01:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jordan/Caron/2024-01-09 03:01:15</guid>
+		</item>
+		<item>
+			<title>👍💵Collin Bannister - The Washington Student Association and ASWSU</title>
+			<description>Collin Bannister signed up to testify Pro. They are signed up to represent The Washington Student Association and ASWSU. They are a registered lobbyist.</description>
+			<pubDate>Tue, 09 Jan 2024 10:39:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Collin/Bannister/2024-01-09 10:39:02</guid>
+		</item>
+		<item>
+			<title>👍Tammie Perreault - Department of Defense</title>
+			<description>Tammie Perreault signed up to testify Pro. They are signed up to represent Department of Defense.</description>
+			<pubDate>Tue, 09 Jan 2024 10:57:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tammie/Perreault/2024-01-09 10:57:52</guid>
+		</item>
+		<item>
+			<title>👍Reese Ramirez - Associated Students of UW Tacoma</title>
+			<description>Reese Ramirez signed up to testify Pro. They are signed up to represent Associated Students of UW Tacoma.</description>
+			<pubDate>Wed, 10 Jan 2024 11:02:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Reese/Ramirez/2024-01-10 11:02:26</guid>
+		</item>
+		<item>
+			<title>PEW - Executive action taken by committee.</title>
+			<description>PEW - Executive action taken by committee.</description>
+			<pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-12/PEW - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

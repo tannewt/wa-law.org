@@ -33,6 +33,14 @@
 ## [HB 1723](/bill/2023-24/hb/1723/) - GMA/equity and env. justice 👍1  
 * 👍💵 Guillermo Rogel
 
+## [HB 1895](/bill/2023-24/hb/1895/) - Modifying the working families' tax credit by clarifying the refundable nature of the credit, the application requirements, and the eligibility verification process. 👍1  
+
+## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions. 👍2  
+* 👍💵 Guillermo Rogel
+* 👍💵 Guillermo Rogel
+
+## [HB 2103](/bill/2023-24/hb/2103/) - Large port districts 👍1  
+
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
 * ❓💵 Guillermo Rogel
 

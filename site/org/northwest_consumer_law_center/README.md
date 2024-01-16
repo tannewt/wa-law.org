@@ -9,7 +9,16 @@
 ## [HB 1727](/bill/2023-24/hb/1727/) - Transaction fees  👎1 
 * 👎 Christina Henry
 
-## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest 👍2  
+## [HB 1874](/bill/2023-24/hb/1874/) - Protecting consumers from predatory loans. 👍2  
+* 👍 Sam Leonard
+
+## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest 👍3  
 
 ## [SB 5173](/bill/2023-24/sb/5173/) - Property exempt from exec. 👍2  
 * 👍 Christina Henry
+
+## [SB 5968](/bill/2023-24/sb/5968/) - Home equity sharing 👍2  
+* 👍💵 Emily Murphy
+
+## [SB 6025](/bill/2023-24/sb/6025/) - Predatory loans 👍2  
+* 👍 Sam Leonard

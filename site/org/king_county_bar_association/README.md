@@ -24,3 +24,5 @@
 
 ## [SB 5707](/bill/2023-24/sb/5707/) - Housing court pilot program 👍1  
 * 👍💵 Edmund Witter
+
+## [SB 5899](/bill/2023-24/sb/5899/) - Adding to the list of provisions prohibited from rental agreements. 👍1  

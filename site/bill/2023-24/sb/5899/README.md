@@ -8,16 +8,14 @@
 
 ## Meetings
 ### Fri 01/12 10:30 AM - Housing (HSG): SB 5899 Rental agreement provisions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31515&aId=155925&caId=22790&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31515&aId=155925&caId=22790&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31515&aId=155925&caId=22790&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31515&aId=155925&caId=22790&tId=4)
-
-#### 18 👍 - Pro
+#### 63 👍 - Pro
 Testifying:
 * Mary Marks
 
-#### 1 👎 - Con
+#### 44 👎 - Con
+Testifying:
+* NORTH INC. - Century21 north homes Realty
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Ryan Makinster - Washington Multi-Family Housing Association

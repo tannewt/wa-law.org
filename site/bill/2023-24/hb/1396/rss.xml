@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1396/</link>
 		<description>Updates about HB 1396</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 24 Jan 2023 12:58:37 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 14 Jan 2024 07:11:30 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -88,7 +88,7 @@
 			<guid isPermaLink="false">testifier/Jeffrey/Ellis/2023-01-23 04:13:02</guid>
 		</item>
 		<item>
-			<title>👎Cecilia Conley - Washington State Department of Transportation</title>
+			<title>👎Cecilia Conley - WA Association of Prosecuting Attorneys</title>
 			<description>Cecilia Conley signed up to testify Con.</description>
 			<pubDate>Mon, 23 Jan 2023 06:17:00 GMT</pubDate>
 			<category>testifier</category>
@@ -166,6 +166,52 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Noreen/Light/2023-01-24 12:58:37</guid>
+		</item>
+		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
+			<title>👎Richele Pogreba - Washington State Department of Transportation</title>
+			<description>Richele Pogreba signed up to testify Con.</description>
+			<pubDate>Thu, 11 Jan 2024 09:21:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Richele/Pogreba/2024-01-11 09:21:53</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans</title>
+			<description>News article &quot;The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Fri, 12 Jan 2024 22:16:31 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%201396</guid>
+		</item>
+		<item>
+			<title>❓💵Russell Brown - WA Association of Prosecuting Attorneys</title>
+			<description>Russell Brown signed up to testify Other. They are signed up to represent WA Association of Prosecuting Attorneys. They are a registered lobbyist.</description>
+			<pubDate>Sat, 13 Jan 2024 09:30:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Russell/Brown/2024-01-13 09:30:29</guid>
+		</item>
+		<item>
+			<title>❓Angela Franklin - WA Association of Prosecuting Attorneys</title>
+			<description>Angela Franklin signed up to testify Other.</description>
+			<pubDate>Sun, 14 Jan 2024 01:07:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Angela/Franklin/2024-01-14 01:07:28</guid>
+		</item>
+		<item>
+			<title>❓Douglas Franklin - WA Association of Prosecuting Attorneys</title>
+			<description>Douglas Franklin signed up to testify Other.</description>
+			<pubDate>Sun, 14 Jan 2024 07:11:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Douglas/Franklin/2024-01-14 07:11:30</guid>
 		</item>
 	</channel>
 </rss>

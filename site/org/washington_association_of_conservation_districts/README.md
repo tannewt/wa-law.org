@@ -21,6 +21,10 @@
 ## [HB 1720](/bill/2023-24/hb/1720/) - Riparian grant program 👍1  
 * 👍 Tom Salzer
 
+## [HB 1971](/bill/2023-24/hb/1971/) - Rangeland fire pilot 👍1  
+
+## [HB 2147](/bill/2023-24/hb/2147/) - Concerning agriculture pest and disease response. 👍1  
+
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
 * 👍 Tom Salzer
 
@@ -28,3 +32,5 @@
 * 👍 Tom Salzer
 
 ## [SB 5484](/bill/2023-24/sb/5484/) - Food/environmental steward. 👍1  
+
+## [SB 6036](/bill/2023-24/sb/6036/) - Agriculture pests & diseases 👍1  

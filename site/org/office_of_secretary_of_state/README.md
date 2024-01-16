@@ -33,6 +33,22 @@
 
 ## [HB 1715](/bill/2023-24/hb/1715/) - Domestic violence 👍1  
 
+## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections  👎1 
+* 👎 Brian Hatfield
+
+## [HB 1962](/bill/2023-24/hb/1962/) - Improving voter registration list accuracy by improving voter address change processes for county election offices and voters. 👍1  
+* 👍 Steve Hobbs
+
+## [HB 2023](/bill/2023-24/hb/2023/) - Improving meaningful access to elections by increasing language assistance. 👍1  
+* 👍 Brian Hatfield
+
+## [HB 2030](/bill/2023-24/hb/2030/) - Revoking a person's voting rights only when convicted of a state crime punishable by death.  👎1 
+* 👎 Brian Hatfield
+
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍2  
+* 👍 Steve Hobbs
+* 👍 Brian Hatfield
+
 ## [SB 5015](/bill/2023-24/sb/5015/) - Productivity board 👍1  ❓1
 * ❓ Brian Hatfield
 
@@ -75,3 +91,18 @@
 ## [SB 5414](/bill/2023-24/sb/5414/) - Elections law violation info  👎1 
 
 ## [SB 5459](/bill/2023-24/sb/5459/) - Election info. requests 👍2  
+
+## [SB 5786](/bill/2023-24/sb/5786/) - Business corporations 👍1  
+* 👍 Brian Hatfield
+
+## [SB 5824](/bill/2023-24/sb/5824/) - Dissolution of libraries 👍1  
+* 👍 Steve Hobbs
+
+## [SB 5837](/bill/2023-24/sb/5837/) - Codifying the state election database to publish, evaluate, and analyze certain election data. 👍1  
+
+## [SB 5856](/bill/2023-24/sb/5856/) - Concerning voter registration challenges. 👍1  
+
+## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍1  
+
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
+* 👍 Steve Hobbs

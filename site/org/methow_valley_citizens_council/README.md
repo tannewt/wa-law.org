@@ -27,6 +27,15 @@
 
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍2  
 
+## [HB 2105](/bill/2023-24/hb/2105/) - Instream resources  👎2 
+* 👎 Lorah Super
+
+## [HB 2126](/bill/2023-24/hb/2126/) - Rural area ADUs  👎1 
+
+## [HB 2187](/bill/2023-24/hb/2187/) - Water/family farms  👎1 
+
+## [HB 2253](/bill/2023-24/hb/2253/) - Community solar 👍1  
+
 ## [SB 5039](/bill/2023-24/sb/5039/) - Wildfires/electric utilities 👍1  
 
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial  👎2 
@@ -38,3 +47,5 @@
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management 👍1  
 
 ## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation  👎1 
+
+## [SB 6113](/bill/2023-24/sb/6113/) - Community solar 👍1  

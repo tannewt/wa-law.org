@@ -111,7 +111,45 @@
 
 ## [HB 1839](/bill/2023-24/hb/1839/) - Train length  👎1 
 
+## [HB 1863](/bill/2023-24/hb/1863/) - Concerning payment for surveys of state-owned aquatic lands by current or prospective lessees of such lands. 👍1  
+
+## [HB 1870](/bill/2023-24/hb/1870/) - Promoting economic development by increasing opportunities for local communities to secure federal funding. 👍1  
+
 ## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍1  
+
+## [HB 1906](/bill/2023-24/hb/1906/) - Changing the vessel length requirement in obtaining nonresident vessel permits. 👍1  
+
+## [HB 1912](/bill/2023-24/hb/1912/) - Requiring state agencies to share information to encourage economic development. 👍1  
+
+## [HB 1978](/bill/2023-24/hb/1978/) - Adding special purpose and junior taxing districts to the intrastate mutual aid system. 👍1  
+
+## [HB 1982](/bill/2023-24/hb/1982/) - Broadband loans & grants 👍1  
+* 👍 Chris Herman
+
+## [HB 1987](/bill/2023-24/hb/1987/) - Concerning the use of moneys from the rural public facilities sales and use tax for affordable workforce housing infrastructure and facilities.   ❓1
+* ❓ Chris Herman
+
+## [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍1  
+
+## [HB 2020](/bill/2023-24/hb/2020/) - Creating a state administered public infrastructure assistance program within the emergency management division.   ❓1
+* ❓ Chris Herman
+
+## [HB 2039](/bill/2023-24/hb/2039/) - Modifying the appeals process for environmental and land use matters. 👍1  
+* 👍💵 Carly Michiels
+
+## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions.   ❓1
+* ❓💵 Carly Michiels
+
+## [HB 2087](/bill/2023-24/hb/2087/) - Apprenticeship objections 👍1  
+
+## [HB 2103](/bill/2023-24/hb/2103/) - Large port districts  👎1 
+* 👎 Eric ffitch
+
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
+* ❓💵 Carly Michiels
+
+## [HB 2134](/bill/2023-24/hb/2134/) - Transportation budget, supp.   ❓1
+* ❓ Chris Herman
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 * ❓ Eric ffitch
@@ -189,3 +227,17 @@
 * 👎 Eric ffitch
 
 ## [SB 5726](/bill/2023-24/sb/5726/) - Prevailing wage/public works   ❓1
+
+## [SB 5817](/bill/2023-24/sb/5817/) - Economic development info. 👍1  
+
+## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp.   ❓1
+* ❓ Chris Herman
+
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
+* ❓💵 Carly Michiels
+
+## [SB 5955](/bill/2023-24/sb/5955/) - Large port districts  👎1 
+* 👎 Eric ffitch
+
+## [SJM 8009](/bill/2023-24/sjm/8009/) - Harbor maintenance tax 👍1  
+* 👍 Chris Herman

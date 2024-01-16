@@ -8,14 +8,18 @@
 
 ## Meetings
 ### Wed 01/10 08:00 AM - Environment, Energy & Technology (ENET): SB 6039 Geothermal energy resources
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31528&aId=156313&caId=22935&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31528&aId=156313&caId=22935&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31528&aId=156313&caId=22935&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31528&aId=156313&caId=22935&tId=4)
+#### 88 👍 - Pro
+Testifying:
+* Steve DuPont - [Central Washington University](/org/central_washington_university/)
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* Christine Grant - Whatcom PUD
+* 💵Nicolas Garcia - WPUDA
 
-#### 6 👍 - Pro
+#### 2 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Casey Hanell - WA Dept of Natural Resources
+* Diane Butorac - WA Dept of Ecology
+* Nora Hawkins - WA Dept of Commerce
+* 💵Dawn Vyvyan - Yakama Nation

@@ -11,14 +11,25 @@
 
 ## Meetings
 ### Tue 01/09 10:30 AM - Labor & Commerce (LC): SB 5777 Unemp ins/strikes & lockouts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31535&aId=155966&caId=22722&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31535&aId=155966&caId=22722&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31535&aId=155966&caId=22722&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31535&aId=155966&caId=22722&tId=4)
+#### 181 👍 - Pro
+Testifying:
+* April Sims - Washington State Labor Council, AFL-CIO
+* Bryan Shanafelt - UFCW 367
+* Rachel Ybarra - Starbucks Workers United
+* 💵Brenda Wiest - Teamsters 117
+* Jerry Sinclair - AFA Alaska Airlines
+* Rob Perdue - United Auto Workers 492
+* 💵Kraig Peck
+* Croix Frigo - IBEW 46
 
-#### 40 👍 - Pro
+#### 21 👎 - Con
+Testifying:
+* 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
+* 💵Brad Boswell - Seattle Metropolitan Chamber of Commerce
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Bob Battles - [Association of Washington Business](/org/association_of_washington_business/)
+* Bruce K Beckett - Wa. Retail Association
+* Jerry VanderWood - AGC of Washington
+* 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
 
-#### 1 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other

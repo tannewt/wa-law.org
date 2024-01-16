@@ -59,13 +59,29 @@
 
 ## [HB 1611](/bill/2023-24/hb/1611/) - Local government permitting 👍1  
 
-## [HB 1932](/bill/2023-24/hb/1932/) - Shifting general elections for local governments to even-numbered years to increase voter participation. 👍1  
+## [HB 1892](/bill/2023-24/hb/1892/) - Concerning the workforce housing accelerator program. 👍1  
+
+## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍1  
 * 👍 Alan Durning
 
 ## [HB 1998](/bill/2023-24/hb/1998/) - Co-living housing 👍1  
 * 👍💵 Dan Bertolet
 
-## [HB 2008](/bill/2023-24/hb/2008/) - Creating a task force on housing cost driver analysis. 👍1  
+## [HB 2008](/bill/2023-24/hb/2008/) - Housing cost task force 👍1  
+
+## [HB 2071](/bill/2023-24/hb/2071/) - Residential housing 👍1  
+* 👍💵 Dan Bertolet
+
+## [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element 👍1  
+* 👍💵 Dan Bertolet
+
+## [HB 2126](/bill/2023-24/hb/2126/) - Rural area ADUs 👍1  
+
+## [HB 2131](/bill/2023-24/hb/2131/) - Thermal energy networks 👍1  
+* 👍💵 Laura Feinstein
+
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development   ❓1
+* ❓💵 Dan Bertolet
 
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍1  
 
@@ -107,3 +123,11 @@
 
 ## [SB 5901](/bill/2023-24/sb/5901/) - Concerning co-living housing. 👍1  
 * 👍💵 Dan Bertolet
+
+## [SB 6015](/bill/2023-24/sb/6015/) - Residential parking 👍1  
+* 👍 Catie Gould
+
+## [SB 6024](/bill/2023-24/sb/6024/) - Housing development   ❓1
+* ❓💵 Dan Bertolet
+
+## [SB 6029](/bill/2023-24/sb/6029/) - Detached ADUs 👍1  

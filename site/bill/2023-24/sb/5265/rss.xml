@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5265/</link>
 		<description>Updates about SB 5265</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 08 Apr 2023 23:50:43 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,13 @@
 			<pubDate>Sat, 08 Apr 2023 23:50:43 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2023/04/08/assault-weapon-ban-passes-senate-heads-back-to-house-for-concurrence/#:~:text=SB%205265</guid>
+		</item>
+		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
 		</item>
 	</channel>
 </rss>

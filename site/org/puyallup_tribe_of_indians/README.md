@@ -29,3 +29,5 @@
 ## [SB 5622](/bill/2023-24/sb/5622/) - Municipal water supply  👎1 
 
 ## [SB 5634](/bill/2023-24/sb/5634/) - Problem gambling 👍1  
+
+## [SB 5846](/bill/2023-24/sb/5846/) - Beaver ecosystem management 👍1  

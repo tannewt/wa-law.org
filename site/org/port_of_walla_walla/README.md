@@ -21,3 +21,5 @@
 ## [SB 5379](/bill/2023-24/sb/5379/) - Associate development orgs. 👍1  
 
 ## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍4  
+
+## [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra. 👍1  

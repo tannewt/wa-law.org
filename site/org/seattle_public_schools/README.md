@@ -12,3 +12,7 @@
 ## [SB 5102](/bill/2023-24/sb/5102/) - School library info and tech 👍4  
 
 ## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍1  
+
+## [SB 5956](/bill/2023-24/sb/5956/) - Enrichment levies limit 👍1  
+
+## [SB 6115](/bill/2023-24/sb/6115/) - Speed safety cameras 👍1  

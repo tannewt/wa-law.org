@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5989/</link>
 		<description>Updates about SB 5989</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 15 Jan 2024 10:27:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,21 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Housing (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Housing.</title>
+			<description>First reading, referred to Housing.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Housing.</guid>
+		</item>
+		<item>
+			<title>👍Ryan Makinster - Washington Multi-Family Housing Association</title>
+			<description>Ryan Makinster signed up to testify Pro. They are signed up to represent Washington Multi-Family Housing Association.</description>
+			<pubDate>Mon, 15 Jan 2024 10:27:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ryan/Makinster/2024-01-15 10:27:02</guid>
 		</item>
 	</channel>
 </rss>

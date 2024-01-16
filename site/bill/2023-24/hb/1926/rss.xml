@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1926/</link>
 		<description>Updates about HB 1926</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 09 Jan 2024 01:13:23 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,29 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Community Safety, Justice, &amp; Reentry (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Community Safety, Justice, &amp; Reentry.</title>
+			<description>First reading, referred to Community Safety, Justice, &amp; Reentry.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Community Safety, Justice, &amp; Reentry.</guid>
+		</item>
+		<item>
+			<title>👍Nathan Olson - Attorney General's Office</title>
+			<description>Nathan Olson signed up to testify Pro. They are signed up to represent Attorney General's Office.</description>
+			<pubDate>Mon, 08 Jan 2024 12:57:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Nathan/Olson/2024-01-08 12:57:28</guid>
+		</item>
+		<item>
+			<title>👎💵Rachael Seevers - Disability Rights Washington</title>
+			<description>Rachael Seevers signed up to testify Con. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/disability_rights_washington/&quot;&gt;Disability Rights Washington&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 09 Jan 2024 01:13:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Rachael/Seevers/2024-01-09 01:13:23</guid>
 		</item>
 	</channel>
 </rss>

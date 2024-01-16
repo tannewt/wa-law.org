@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2147/</link>
 		<description>Updates about HB 2147</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 11 Jan 2024 07:42:41 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,53 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Agriculture and Natural Resources (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Agriculture and Natural Resources.</title>
+			<description>First reading, referred to Agriculture and Natural Resources.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Agriculture and Natural Resources.</guid>
+		</item>
+		<item>
+			<title>👍Amber Itle - wsda</title>
+			<description>Amber Itle signed up to testify Pro. They are signed up to represent wsda.</description>
+			<pubDate>Mon, 08 Jan 2024 04:20:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Amber/Itle/2024-01-08 04:20:48</guid>
+		</item>
+		<item>
+			<title>👍Maggie Elliot - Washington Hop Commission</title>
+			<description>Maggie Elliot signed up to testify Pro. They are signed up to represent Washington Hop Commission.</description>
+			<pubDate>Mon, 08 Jan 2024 12:26:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Maggie/Elliot/2024-01-08 12:26:33</guid>
+		</item>
+		<item>
+			<title>👍Rosa Dekker - East Columbia Basin Irrigation District</title>
+			<description>Rosa Dekker signed up to testify Pro. They are signed up to represent East Columbia Basin Irrigation District.</description>
+			<pubDate>Tue, 09 Jan 2024 01:48:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rosa/Dekker/2024-01-09 01:48:04</guid>
+		</item>
+		<item>
+			<title>👍Tyler West - East Columbia Basin Irrigation District</title>
+			<description>Tyler West signed up to testify Pro.</description>
+			<pubDate>Tue, 09 Jan 2024 01:53:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tyler/West/2024-01-09 01:53:29</guid>
+		</item>
+		<item>
+			<title>👍Kelly McLain - Washington State Department of Agriculture</title>
+			<description>Kelly McLain signed up to testify Pro. They are signed up to represent Washington State Department of Agriculture.</description>
+			<pubDate>Thu, 11 Jan 2024 07:42:41 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kelly/McLain/2024-01-11 07:42:41</guid>
 		</item>
 	</channel>
 </rss>

@@ -1,0 +1,74 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 2316](/bill/2023-24/hb/2316/) > [Original Bill](/bill/2023-24/hb/2316/1/)
+
+# HB 2316 - PERS/certain bus drivers
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/2316.pdf)
+
+## Section 1
+Membership in the retirement system shall consist of all regularly compensated employees and appointive and elective officials of employers, as defined in this chapter, with the following exceptions:
+
+1. Persons in ineligible positions;
+
+2. Employees of the legislature except the officers thereof elected by the members of the senate and the house and legislative committees, unless membership of such employees be authorized by the said committee;
+
+3. [Empty]
+
+    a. Persons holding elective offices or persons appointed directly by the governor: PROVIDED, That such persons shall have the option of applying for membership during such periods of employment: AND PROVIDED FURTHER, That any persons holding or who have held elective offices or persons appointed by the governor who are members in the retirement system and who have, prior to becoming such members, previously held an elective office, and did not at the start of such initial or successive terms of office exercise their option to become members, may apply for membership to be effective during such term or terms of office, and shall be allowed to establish the service credit applicable to such term or terms of office upon payment of the employee contributions therefor by the employee with interest as determined by the director and employer contributions therefor by the employer or employee with interest as determined by the director: AND PROVIDED FURTHER, That all contributions with interest submitted by the employee under this subsection shall be placed in the employee's individual account in the employee's savings fund and be treated as any other contribution made by the employee, with the exception that any contributions submitted by the employee in payment of the employer's obligation, together with the interest the director may apply to the employer's contribution, shall not be considered part of the member's annuity for any purpose except withdrawal of contributions;
+
+    b. A member holding elective office who has elected to apply for membership pursuant to (a) of this subsection and who later wishes to be eligible for a retirement allowance shall have the option of ending his or her membership in the retirement system. A member wishing to end his or her membership under this subsection must file, on a form supplied by the department, a statement indicating that the member agrees to irrevocably abandon any claim for service for future periods served as an elected official. A member who receives more than fifteen thousand dollars per year in compensation for his or her elective service, adjusted annually for inflation by the director, is not eligible for the option provided by this subsection (3)(b);
+
+4. Employees holding membership in, or receiving pension benefits under, any retirement plan operated wholly or in part by an agency of the state or political subdivision thereof, or who are by reason of their current employment contributing to or otherwise establishing the right to receive benefits from any such retirement plan except as follows:
+
+    a. In any case where the retirement system has in existence an agreement with another retirement system in connection with exchange of service credit or an agreement whereby members can retain service credit in more than one system, such an employee shall be allowed membership rights should the agreement so provide;
+
+    b. An employee shall be allowed membership if otherwise eligible while receiving survivor's benefits;
+
+    c. An employee shall not either before or after June 7, 1984, be excluded from membership or denied service credit pursuant to this subsection solely on account of: (i) Membership in the plan created under chapter 2.14 RCW; or (ii) enrollment under the relief and compensation provisions or the pension provisions of the volunteer firefighters'  relief and pension principal fund or the reserve officers' relief and pension principal fund under chapter 41.24 RCW;
+
+    d. Except as provided in RCW 41.40.109, on or after July 25, 1999, an employee shall not be excluded from membership or denied service credit pursuant to this subsection solely on account of participation in a defined contribution pension plan qualified under section 401 of the internal revenue code;
+
+    e. Employees who have been reported in the retirement system prior to July 25, 1999, and who participated during the same period of time in a defined contribution pension plan qualified under section 401 of the internal revenue code and operated wholly or in part by the employer, shall not be excluded from previous retirement system membership and service credit on account of such participation;
+
+5. Patient and inmate help in state charitable, penal, and correctional institutions;
+
+6. "Members" of a state veterans' home or state soldiers' home;
+
+7. Persons employed by an institution of higher learning or community college, primarily as an incident to and in furtherance of their education or training, or the education or training of a spouse;
+
+8. Employees of an institution of higher learning or community college during the period of service necessary to establish eligibility for membership in the retirement plans operated by such institutions;
+
+9. Persons rendering professional services to an employer on a fee, retainer, or contract basis or when the income from these services is less than fifty percent of the gross income received from the person's practice of a profession;
+
+10. Persons appointed after April 1, 1963, by the liquor and cannabis board as contract liquor store managers;
+
+11. Employees of a labor guild, association, or organization: PROVIDED, That elective officials and employees of a labor guild, association, or organization which qualifies as an employer within this chapter shall have the option of applying for membership;
+
+12. Retirement system retirees: PROVIDED, That following reemployment in an eligible position, a retiree may elect to prospectively become a member of the retirement system if otherwise eligible;
+
+13. Persons employed by or appointed or elected as an official of a first-class city that has its own retirement system: PROVIDED, That any member elected or appointed to an elective office on or after April 1, 1971, shall have the option of continuing as a member of this system in lieu of becoming a member of the city system. A member who elects to continue as a member of this system shall pay the appropriate member contributions and the city shall pay the employer contributions at the rates prescribed by this chapter. The city shall also transfer to this system all of such member's accumulated contributions together with such further amounts as necessary to equal all employee and employer contributions which would have been paid into this system on account of such service with the city and thereupon the member shall be granted credit for all such service. Any city that becomes an employer as defined in RCW 41.40.010(13) as the result of an individual's election under this subsection shall not be required to have all employees covered for retirement under the provisions of this chapter. Nothing in this subsection shall prohibit a city of the first class with its own retirement system from: (a) Transferring all of its current employees to the retirement system established under this chapter, or (b) allowing newly hired employees the option of continuing coverage under the retirement system established by this chapter.
+
+Notwithstanding any other provision of this chapter, persons transferring from employment with a first-class city of over four hundred thousand population that has its own retirement system to employment with the state department of agriculture may elect to remain within the retirement system of such city and the state shall pay the employer contributions for such persons at like rates as prescribed for employers of other members of such system;
+
+14. Employees who (a) are not citizens of the United States, (b) do not reside in the United States, and (c) perform duties outside of the United States;
+
+15. Employees who (a) are not citizens of the United States, (b) are not covered by chapter 41.48 RCW, (c) are not excluded from membership under this chapter or chapter 41.04 RCW, (d) are residents of this state, and (e) make an irrevocable election to be excluded from membership, in writing, which is submitted to the director within thirty days after employment in an eligible position;
+
+16. Employees who are citizens of the United States and who reside and perform duties for an employer outside of the United States: PROVIDED, That unless otherwise excluded under this chapter or chapter 41.04 RCW, the employee may apply for membership (a) within thirty days after employment in an eligible position and membership service credit shall be granted from the first day of membership service, and (b) after this thirty-day period, but membership service credit shall be granted only if payment is made for the noncredited membership service under RCW 41.50.165(2), otherwise service shall be from the date of application;
+
+17. The city manager or chief administrative officer of a city or town, other than a retiree, who serves at the pleasure of an appointing authority: PROVIDED, That such persons shall have the option of applying for membership within thirty days from date of their appointment to such positions. Persons serving in such positions as of April 4, 1986, shall continue to be members in the retirement system unless they notify the director in writing prior to December 31, 1986, of their desire to withdraw from membership in the retirement system. A member who withdraws from membership in the system under this section shall receive a refund of the member's accumulated contributions.
+
+Persons serving in such positions who have not opted for membership within the specified thirty days, may do so by paying the amount required under RCW 41.50.165(2) for the period from the date of their appointment to the date of acceptance into membership;
+
+18. Persons serving as: (a) The chief administrative officer of a public utility district as defined in RCW 54.16.100; (b) the chief administrative officer of a port district formed under chapter 53.04 RCW; or (c) the chief administrative officer of a county who serves at the pleasure of an appointing authority: PROVIDED, That such persons shall have the option of applying for membership within thirty days from the date of their appointment to such positions. Persons serving in such positions as of July 25, 1999, shall continue to be members in the retirement system unless they notify the director in writing prior to December 31, 1999, of their desire to withdraw from membership in the retirement system. A member who withdraws from membership in the system under this section shall receive a refund of the member's accumulated contributions upon termination of employment or as otherwise consistent with the plan's tax qualification status as defined in internal revenue code section 401.
+
+Persons serving in such positions who have not opted for membership within the specified thirty days, may do so at a later date by paying the amount required under RCW 41.50.165(2) for the period from the date of their appointment to the date of acceptance into membership;
+
+19. Persons enrolled in state-approved apprenticeship programs, authorized under chapter 49.04 RCW, and who are employed by local governments to earn hours to complete such apprenticeship programs, if the employee is a member of a union-sponsored retirement plan and is making contributions to such a retirement plan or if the employee is a member of a Taft-Hartley retirement plan;
+
+20. Beginning on July 22, 2001, persons employed exclusively as trainers or trainees in resident apprentice training programs operated by housing authorities authorized under chapter 35.82 RCW, (a) if the trainer or trainee is a member of a union-sponsored retirement plan and is making contributions to such a retirement plan or (b) if the employee is a member of a Taft-Hartley retirement plan;
+
+21. Employees who are removed from membership under RCW 41.40.823 or 41.40.633;
+
+22. Persons employed as the state director of fire protection under RCW 43.43.938 who were previously members of the law enforcement officers' and firefighters' retirement system plan 2 under chapter 41.26 RCW may continue as a member of the law enforcement officers' and firefighters' retirement system in lieu of becoming a member of this system; and
+
+23. Persons hired on or after the effective date of this section employed by a public transportation benefit area as defined in RCW 36.57A.010 as part-time bus drivers serving naval shipyards if the employee is simultaneously employed on a full-time basis with an employer of the federal government and is making contributions to the federal employees' retirement system.

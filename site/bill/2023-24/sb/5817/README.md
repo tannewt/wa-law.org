@@ -7,13 +7,28 @@
 * [Original Bill](1/)
 
 ## Meetings
-### Thu 01/11 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5817 Economic development info.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31505&aId=156316&caId=22940&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31505&aId=156316&caId=22940&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31505&aId=156316&caId=22940&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31505&aId=156316&caId=22940&tId=4)
+### Tue 01/16 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5817 Economic development info.
+#### 9 👍 - Pro
+Testifying:
+* Colleen McAleer - North Olympic Legislative Alliance - Clallam EDC
+* Kate Dean - North Olympic Legislative Alliance/Jefferson County
+* Mark Ozias - North Olympic Legislative Alliance/Clallam County
 
+#### 454 👎 - Con
+Testifying:
+* Jeannette Mcchesney
+* Teddy Anderson
+* Christina Nelson - TBPM
+* James Guerin
+* Brianna Stewart
+* 💵Emily Shay - Association of Washington Businesses
+* 💵Emily Wittman - AWB
+
+#### 2 ❓ - Other
+Testifying:
+* Dave Pringle - Dept. of Commerce
+
+### Thu 01/11 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5817 Economic development info.
 #### 1 👍 - Pro
 
 #### 0 👎 - Con

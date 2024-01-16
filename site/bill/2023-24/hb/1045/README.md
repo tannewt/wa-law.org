@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/08/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/08/the-house-hot-sheet-for-week-1-of-the-2024-legislative-session/#:~:text=SHB%201045)
 * 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%201045)
 * 12/15/2023 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2024 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects/2024-legislative-agenda/#:~:text=HB%201045)
 * 10/10/2023 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [2023 Legislative Session Summary – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/resources/2023-legislative-session-summary/#:~:text=HB%201045)
@@ -32,20 +33,30 @@
 
 ## Meetings
 ### Thu 01/11 04:00 PM - Appropriations (APP): SHB 1045 Basic income pilot program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31524&aId=155940&caId=22798&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31524&aId=155940&caId=22798&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31524&aId=155940&caId=22798&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31524&aId=155940&caId=22798&tId=4)
+#### 1358 👍 - Pro
+Testifying:
+* Victoria Woodards - Mayor of the City of Tacoma
+* Lily Cowen
+* Jacob Squirrel - Quaker Voice on Washington Public Policy
+* Amari Leach - Lavender Rights Project
+* Mary Beth Bennett - Washington Chapter of the American Academy of Pediatrics
+* 💵Tracy Yeung - Washington State Budget and Policy Center
 
-#### 174 👍 - Pro
-
-#### 203 👎 - Con
+#### 1549 👎 - Con
 Testifying:
 * Mike Smyth
 * Mary Long - Conservative Ladies of Washington
+* Sharon Damoff
+* Kim Slinger
+* jeremy a randall - moms for liberty
+* jeremy Randall
+* Laurie Layne - Layne Software
+* Jeannette Mcchesney
+* LORILEE GATES
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* 💵Lori Pfingst - Department of Social & Health Services
 
 ### Wed 01/11 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1045 Basic income pilot program
 #### 932 👍 - Pro

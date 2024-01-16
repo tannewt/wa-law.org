@@ -21,6 +21,8 @@
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
 * 👍 Mayor Mary Lou Pauly
 
+## [HB 1900](/bill/2023-24/hb/1900/) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system. 👍1  
+
 ## [SB 5058](/bill/2023-24/sb/5058/) - Multiunit res. buildings 👍1  
 
 ## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍2  

@@ -7,3 +7,18 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 01/17 01:30 PM - State Government & Tribal Relations (SGOV): HB 1876 Confidential fisheries info.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31632&aId=156737&caId=23234&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31632&aId=156737&caId=23234&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31632&aId=156737&caId=23234&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31632&aId=156737&caId=23234&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* Corey Niles - WDFW
+* Tom McBride - WDFW
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

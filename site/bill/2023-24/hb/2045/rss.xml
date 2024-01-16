@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2045/</link>
 		<description>Updates about HB 2045</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 15 Jan 2024 07:18:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,29 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Agriculture and Natural Resources (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Agriculture and Natural Resources.</title>
+			<description>First reading, referred to Agriculture and Natural Resources.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Agriculture and Natural Resources.</guid>
+		</item>
+		<item>
+			<title>👎John Worthington - WA Forest Protection Association</title>
+			<description>John Worthington signed up to testify Con.</description>
+			<pubDate>Sat, 13 Jan 2024 05:20:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/John/Worthington/2024-01-13 05:20:57</guid>
+		</item>
+		<item>
+			<title>👍Tom Davis - WA Forest Protection Association</title>
+			<description>Tom Davis signed up to testify Pro. They are signed up to represent WA Forest Protection Association.</description>
+			<pubDate>Mon, 15 Jan 2024 07:18:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tom/Davis/2024-01-15 07:18:26</guid>
 		</item>
 	</channel>
 </rss>

@@ -7,3 +7,13 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/15 04:00 PM - Appropriations (APP): HB 1949 DSHS competency rest./PSERS
+#### 8 👍 - Pro
+Testifying:
+* Kevin Bovenkamp - DSHS Behavioral Health Administration
+* 💵Dane Austreng - SEIU 1199NW
+* 💵Dennis Eagle - WA Federation of State Employees
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

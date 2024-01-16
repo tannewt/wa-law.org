@@ -37,6 +37,10 @@
 * 👎 Mariska Kecskes
 * 👎 Mariska Kecskes
 
+## [HB 2023](/bill/2023-24/hb/2023/) - Improving meaningful access to elections by increasing language assistance. 👍1  
+
+## [HB 2134](/bill/2023-24/hb/2134/) - Transportation budget, supp. 👍1  
+
 ## [SB 5129](/bill/2023-24/sb/5129/) - Nuclear reactor technology  👎1 
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  

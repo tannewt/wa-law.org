@@ -10,3 +10,5 @@
 * 👍 Ellen Ta
 * 👍 Ellen Ta
 * 👍 Kathleen Barry Johnson
+
+## [HB 2030](/bill/2023-24/hb/2030/) - Revoking a person's voting rights only when convicted of a state crime punishable by death. 👍1  

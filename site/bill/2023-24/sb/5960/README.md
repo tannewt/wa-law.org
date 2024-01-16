@@ -6,4 +6,19 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/14/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 2: MLK, education, gas price transparency - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/14/this-week-in-the-senate-week-2-mlk-education-gas-price-transparency/#:~:text=Senate%20Bill%205960)
+
 ## Meetings
+### Tue 01/16 08:00 AM - Health & Long Term Care (HLTC): SB 5960 Prescription labels/abortion
+#### 197 👍 - Pro
+Testifying:
+* Dr Jennifer Chin - American College of Obstetricians and Gynecologists (ACOG)
+* Dr. Erin Berry - Planned Parenthood Greater Northwest
+* Jenny Arnold - Washington State Pharmacy Association
+
+#### 20 👎 - Con
+Testifying:
+* Mary Long - Conservative Ladies of Washington
+
+#### 0 ❓ - Other

@@ -33,6 +33,19 @@
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
 
+## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍1  
+
+## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍1  
+
+## [HB 1957](/bill/2023-24/hb/1957/) - Preventive service coverage 👍1  
+* 👍💵 Stephanie Simpson
+
+## [HB 2041](/bill/2023-24/hb/2041/) - Concerning physician assistant collaborative practice. 👍1  
+
+## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
+
+## [HB 2157](/bill/2023-24/hb/2157/) - Vaccine definition 👍1  
+
 ## [SB 5036](/bill/2023-24/sb/5036/) - Audio-only telemedicine 👍2  
 
 ## [SB 5065](/bill/2023-24/sb/5065/) - Bone marrow donation/schools 👍1  
@@ -68,3 +81,13 @@
 ## [SB 5393](/bill/2023-24/sb/5393/) - Health provider contracting 👍2  
 
 ## [SB 5421](/bill/2023-24/sb/5421/) - Benefit enrollment info. 👍1  
+
+## [SB 5821](/bill/2023-24/sb/5821/) - Audio-only telemedicine 👍1  
+
+## [SB 5853](/bill/2023-24/sb/5853/) - Extending the crisis relief center model to provide behavioral health crisis services for minors. 👍1  
+
+## [SB 5864](/bill/2023-24/sb/5864/) - Establishing a point of contact for any person diagnosed with a rare disease. 👍1  
+
+## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍1  
+
+## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍1  

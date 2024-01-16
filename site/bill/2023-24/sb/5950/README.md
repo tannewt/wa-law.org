@@ -7,17 +7,12 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/08/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Session Preview: Legislature convenes January 8 for short session - WSPTA](https://www.wastatepta.org/2024-session-preview/#:~:text=SB%205950)
 * 01/07/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: Welcome to the 2024 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/07/this-week-in-the-senate-week-1-welcome-to-the-2024-session/#:~:text=Senate%20Bill%205950)
 
 ## Meetings
 ### Tue 01/09 04:00 PM - Ways & Means (WM): SB 5950: All other. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156241&caId=22742&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156241&caId=22742&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156241&caId=22742&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156241&caId=22742&tId=4)
-
-#### 7 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Wesley Jessup - Northwest Museum of Arts & Culture (EWSHS- Eastern Washington State Historical Society)
 * Larry Jefferson - Director, Washington State Office of Public Defense
@@ -26,21 +21,28 @@ Testifying:
 * Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * Sara Robbins - Office of Civil Legal Aid
+* Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Cindy Arends Elsberry - WA Defender Assn/WA Assn of Criminal Defense Lawyers
+* Daniel Poppe
+* David Reddy
+* Megan Larkin - [Climate Solutions](/org/climate_solutions/)
+* 💵Preston Parish - Washington State Budget and Policy Center
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* John Worthington
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Diane Bergt
+* 💵Michael White - [King County](/org/king_county/)
+* Mike Fancher - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)
 
 ### Tue 01/09 04:00 PM - Ways & Means (WM): SB 5950: Early learning. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156236&caId=22737&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156236&caId=22737&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156236&caId=22737&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156236&caId=22737&tId=4)
-
-#### 1 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Cathy Murahashi - The Arc of Washington
 
 #### 0 👎 - Con
 
@@ -55,31 +57,24 @@ Testifying:
 * 💵Logan Endres - BrightSpark Early Learning
 
 ### Tue 01/09 04:00 PM - Ways & Means (WM): SB 5950: Employee compensation. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156237&caId=22738&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156237&caId=22738&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156237&caId=22738&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156237&caId=22738&tId=4)
-
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Clair Olivers - Retired Public Employees Council of WA
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Peter Diedrick - WA State School Retirees' Association
 
 ### Tue 01/09 04:00 PM - Ways & Means (WM): SB 5950: Higher education. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156235&caId=22736&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156235&caId=22736&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156235&caId=22736&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156235&caId=22736&tId=4)
-
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * 💵Morgan Hickel - [University of Washington](/org/university_of_washington/)
 * 💵Joel Anderson - Washington Student Achievement Council
 * Sandy Kaiser - The Evergreen State College
 * Stephanie Winner - State Board for Community and Technical Colleges
+* David Buri - Eastern Washington University
 
 #### 0 👎 - Con
 
@@ -90,16 +85,12 @@ Testifying:
 * 💵Nora Selander - Western Washington University
 
 ### Tue 01/09 04:00 PM - Ways & Means (WM): SB 5950: Human services. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156239&caId=22740&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156239&caId=22740&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156239&caId=22740&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156239&caId=22740&tId=4)
-
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * 💵Brad Forbes - Alzheimer's Association
 * Jim Theofelis - NorthStar Advocates
+* Cathy Knight - WA Association of Area Agencies on Aging (W4A)
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 
 #### 6 👎 - Con
 Testifying:
@@ -109,7 +100,7 @@ Testifying:
 * Nikki Wegner
 * Blake Duarte
 
-#### 25 ❓ - Other
+#### 29 ❓ - Other
 Testifying:
 * Zack Wester
 * Nikki Storms
@@ -136,15 +127,12 @@ Testifying:
 * Carolyn Driscoll - The Sequoia Assisted Living Community
 * Galina Volchkova - Volunteers of America Western Washington
 * Stacy Kellogg - People for People
+* 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* 💵Noah Seidel - Office of Developmental Disabilities Ombuds
+* Nicole Kiddoo - LMT AAA
 
 ### Tue 01/09 04:00 PM - Ways & Means (WM): SB 5950: K-12 public schools.  (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156234&caId=22735&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156234&caId=22735&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156234&caId=22735&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156234&caId=22735&tId=4)
-
-#### 6 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * 💵Melissa Gombosky - AESD
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
@@ -155,7 +143,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 8 ❓ - Other
+#### 10 ❓ - Other
 Testifying:
 * Angela Steck - President, Washington State PTA
 * Nancy Chamberlain - Washington State PTA
@@ -165,34 +153,35 @@ Testifying:
 * 💵Kia Franklin - Stand for Children WA
 * Samantha Fogg - Seattle Council PTSA Immediate Past President
 * 💵Mitch Denning - Alliance of Educational Associations
+* 💵Bob Cooper - National Association of Social Workers WA Chapter
+* Henterson Carlisle - Center for High School Success
 
 ### Tue 01/09 04:00 PM - Ways & Means (WM): SB 5950: Mental health. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156238&caId=22739&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156238&caId=22739&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156238&caId=22739&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156238&caId=22739&tId=4)
-
-#### 4 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * 💵Anna Nepomuceno - NAMI Washington
 * Rashi Gupta - UW Medicine
 * Shannon Dorsey
 * Joan Miller - WA Council for Behavioral Health
+* Katie Kolan - Unite Us and Kooth
+* 💵Cameron Long - [Evergreen Treatment Services](/org/evergreen_treatment_services/)
+* Chloe Gale - [Evergreen Treatment Services](/org/evergreen_treatment_services/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Heidi Suarez
+* Jim Polo - WA Chapter of the American Academy of Pediatrics
 
 ### Tue 01/09 04:00 PM - Ways & Means (WM): SB 5950: Natural resources.  (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156240&caId=22741&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156240&caId=22741&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156240&caId=22741&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31551&aId=156240&caId=22741&tId=4)
-
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* 💵Graham Taylor - NPCA
+* John Floberg - Washington State Parks Foundation
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Carly Michiels - [Washington Public Ports Association](/org/washington_public_ports_association/)

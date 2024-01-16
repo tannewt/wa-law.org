@@ -7,26 +7,29 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/08/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/08/the-house-hot-sheet-for-week-1-of-the-2024-legislative-session/#:~:text=HB%201062)
 * 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%201062)
 
 ## Meetings
 ### Mon 01/08 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1062 Law enf. officers/deception
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31578&aId=156139&caId=22807&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31578&aId=156139&caId=22807&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31578&aId=156139&caId=22807&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31578&aId=156139&caId=22807&tId=4)
-
-#### 70 👍 - Pro
+#### 106 👍 - Pro
 Testifying:
 * Ella Ansari - Lake Washington High School
 * Kaitlyn Hentges - Lake Washington High School
 * Kaitlyn Hentges - Lake Washington High School
+* James Trainum
+* David Thompson - Wicklander Zulawski
+* James Trainum
+* Amanda Knox
+* 💵Lara Zarowsky - [Washington Innocence Project](/org/washington_innocence_project/)
+* Ted Bradford - [Washington Innocence Project](/org/washington_innocence_project/)
+* Brian Flaherty - King County Department of Public Defense
 
-#### 11 👎 - Con
+#### 84 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * Julie Barrett - Conservative Ladies of Washington
+* eric pratt
 
 #### 0 ❓ - Other

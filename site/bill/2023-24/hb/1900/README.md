@@ -12,20 +12,41 @@
 
 ## Meetings
 ### Thu 01/11 08:00 AM - Environment & Energy (ENVI): HB 1900 Recycling rates
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31567&aId=156064&caId=22837&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31567&aId=156064&caId=22837&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31567&aId=156064&caId=22837&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31567&aId=156064&caId=22837&tId=4)
-
-#### 2 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * Rodd Pemble - SSC, Inc.
 * Christopher Reigelsperger - WM
+* 💵Vicki Christophersen - Washington Refuse and Recycling Association
+* Steve Wulf - Sunshine Disposal and Recycling
+* Rebecca Francik - Basin Disposal inc.
+* Alissa Campbell - [Recology](/org/recology/)
+* Wendy Weiker - [Republic Services](/org/republic_services/)
+* Rick Vahl - Waste Connections
 
-#### 2 👎 - Con
+#### 141 👎 - Con
+Testifying:
+* 💵Pamela Clough - [Environment Washington](/org/environment_washington/)
+* John Richard - Flexible Packaging Association
+* Brendan Flanagan - [Consumer Brands Association](/org/consumer_brands_association/)
+* 💵Brad Boswell - [Washington Beverage Association](/org/washington_beverage_association/)
+* Michael Connors - [Washington Potato & Onion Association](/org/washington_potato_&_onion_association/)
+* Melissa Stuart - Redmond City Councilmember
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Lauren Aguilar - AMERIPEN
+* Dylan de Thomas - The Recycling Partnership
+* Scott DeFife - Glass Packaging Institute
 
-#### 2 ❓ - Other
+#### 13 ❓ - Other
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
+* Kate Bailey - The Association of Plastic Recyclers (APR)
+* eric pratt
+* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
+* 💵Jacob Cassady - Association of Home Appliance Manufacturers
+* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Peter Lyon - Washington State Department of Ecology
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* 💵Brandon Houskeeper - NW Grocery Assoc.

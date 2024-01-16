@@ -8,18 +8,18 @@
 
 ## Meetings
 ### Tue 01/09 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5834 Urban growth areas
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31542&aId=155992&caId=22712&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31542&aId=155992&caId=22712&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31542&aId=155992&caId=22712&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31542&aId=155992&caId=22712&tId=4)
-
-#### 4 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Rod Higgins - Councilmember, City of Spokane Valley
 * Brett Lucas - [City of Cheney](/org/city_of_cheney/)
+* Deborah Pedersen
+* 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 1 👎 - Con
+#### 111 👎 - Con
+Testifying:
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* John Worthington
 
 #### 1 ❓ - Other
 Testifying:

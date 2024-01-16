@@ -7,3 +7,14 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/16 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2074 Landowner's lessee/penalties
+#### 4 👍 - Pro
+Testifying:
+* MICHELE KIESZ
+* Robert Hailey
+
+#### 0 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* Ria Berns - Washington State Department of Ecology

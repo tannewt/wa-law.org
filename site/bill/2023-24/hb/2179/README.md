@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/11/2024 [House Republicans](/org/house_republicans/) - [Fix the child care crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/child-care/#:~:text=House%20bill%202179)
+
 ## Meetings

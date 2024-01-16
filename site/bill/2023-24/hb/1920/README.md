@@ -8,13 +8,11 @@
 
 ## Meetings
 ### Tue 01/09 01:30 PM - Consumer Protection & Business (CPB): HB 1920 Public accountancy act
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31591&aId=156198&caId=22815&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31591&aId=156198&caId=22815&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31591&aId=156198&caId=22815&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31591&aId=156198&caId=22815&tId=4)
-
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Thomas Neill - Washington Society of CPAs
+* 💵Lisa Thatcher - Washington Society of Certified Public Accountants
+* Michael Paquette - Washington State BOA
 
 #### 0 👎 - Con
 

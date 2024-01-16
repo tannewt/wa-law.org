@@ -8,15 +8,11 @@
 
 ## Meetings
 ### Tue 01/09 08:00 AM - Health & Long Term Care (HLTC): SB 5815 Physician assistant compact
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31539&aId=155980&caId=22710&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31539&aId=155980&caId=22710&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31539&aId=155980&caId=22710&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31539&aId=155980&caId=22710&tId=4)
-
-#### 5 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Eileen Ravella - [Washington Academy of Physician Assistants](/org/washington_academy_of_physician_assistants/)
+* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
+* Carl Sims - The Council of State Governments
 
 #### 0 👎 - Con
 

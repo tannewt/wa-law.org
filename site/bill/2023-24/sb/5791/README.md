@@ -8,17 +8,15 @@
 
 ## Meetings
 ### Tue 01/09 04:00 PM - Transportation (TRAN): SB 5791 DUI/oral fluid evaluation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31520&aId=156259&caId=22911&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31520&aId=156259&caId=22911&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31520&aId=156259&caId=22911&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31520&aId=156259&caId=22911&tId=4)
-
-#### 2 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Chuck DeWeese - Responsibility.Org Contractor
 * Christopher Kirby - Indiana Criminal Justice Institute
+* Ashley Bonus
+* Deion Glover - Washington State Patrol
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Mark McKechnie - Washington Traffic Safety Commission

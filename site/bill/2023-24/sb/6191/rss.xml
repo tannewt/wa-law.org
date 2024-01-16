@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 6191 - Housing/taxes</title>
+		<link>https://wa-law.org/bill/2023-24/sb/6191/</link>
+		<description>Updates about SB 6191</description>
+		<language>en-US</language>
+		<lastBuildDate>Sun, 14 Jan 2024 17:29:21 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Ways &amp; Means.</title>
+			<description>First reading, referred to Ways &amp; Means.</description>
+			<pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-11/First reading, referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>Supplemental Budget Looms Large in 2024 Legislation Session - United Ways of the Pacific Northwest</title>
+			<description>News article &quot;Supplemental Budget Looms Large in 2024 Legislation Session - United Ways of the Pacific Northwest&quot; from United Ways of the Pacific Northwest.</description>
+			<pubDate>Sun, 14 Jan 2024 17:29:21 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.uwpnw.org/legupdate01152024#:~:text=SB%206191</guid>
+		</item>
+	</channel>
+</rss>

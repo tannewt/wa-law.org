@@ -7,29 +7,34 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/08/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Session Preview: Legislature convenes January 8 for short session - WSPTA](https://www.wastatepta.org/2024-session-preview/#:~:text=HB%202104)
 * 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%202104)
 
 ## Meetings
 ### Wed 01/10 04:00 PM - Appropriations (APP): HB 2104 Operating budget, supp.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31523&aId=156226&caId=22797&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31523&aId=156226&caId=22797&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31523&aId=156226&caId=22797&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31523&aId=156226&caId=22797&tId=4)
-
-#### 1 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Wesley Jessup - Northwest Museum of Arts & Culture (EWSHS- Eastern Washington State Historical Society)
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Preston Dwoskin
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* Megan Larkin - [Climate Solutions](/org/climate_solutions/)
+* LINDA THOMPSON - Washington Association for Substance misuse and Violence Prevention (WASAVP)
+* Clair Olivers - Retired Public Employees Council of WA
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* Jason Biermann - Snohomish County
+* Sara Robbins - Director, Office of Civil Legal Aid
 
-#### 5 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * 💵Aaron Dickson - [Community Employment Alliance](/org/community_employment_alliance/)
 * Alex Motteler
 * Heather Evans
 * 💵Aaron Dickson - [Community Employment Alliance](/org/community_employment_alliance/)
 * Alex Motteler
+* John Worthington
 
-#### 8 ❓ - Other
+#### 16 ❓ - Other
 Testifying:
 * Linzi Michel - Central Columbia Senior Living
 * Ruth Gollen - Orchard Park Retirement
@@ -38,15 +43,17 @@ Testifying:
 * Michelle Dube - Beehive Retirement Center
 * Carolyn Driscoll - The Sequoia Assisted Living Community
 * 💵Emily Murphy - [Child Care Aware of Washington](/org/child_care_aware_of_washington/)
+* 💵John Ficker - [Adult Family Home Council](/org/adult_family_home_council/)
+* Oliver Miska
+* Shannon Dorsey
+* Beth Ebel - WA Chapter of the American Academy of Pediatrics
+* Heidi Suarez
+* 💵Bob Cooper - National Association of Social Workers WA Chapter
+* 💵Logan Endres - BrightSpark Early Learning
+* Linda Bookey
 
 ### Mon 01/08 04:00 PM - Appropriations (APP): HB 2104 Operating budget, supp.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31522&aId=156225&caId=22796&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31522&aId=156225&caId=22796&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31522&aId=156225&caId=22796&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31522&aId=156225&caId=22796&tId=4)
-
-#### 33 👍 - Pro
+#### 43 👍 - Pro
 Testifying:
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
 * Marissa Rathbone - Washington State School Directors' Association
@@ -78,8 +85,16 @@ Testifying:
 * Katie Kolan - Unite Us and Kooth
 * 💵Cameron Long - [Evergreen Treatment Services](/org/evergreen_treatment_services/)
 * Joan Miller
+* LINDA THOMPSON - Washington Association for Substance misuse and Violence Prevention (WASAVP)
+* Megan Larkin - [Climate Solutions](/org/climate_solutions/)
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * 💵Paula Sardinas - FMS Global Strategies
 * 💵Albert Sardinas - WBBA
+* Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Preston Parish - Washington State Budget and Policy Center
+* Choi Halladay - State Board for Community and Technical Colleges
 
 #### 6 👎 - Con
 Testifying:
@@ -90,7 +105,7 @@ Testifying:
 * Alex Motteler
 * Kate Mallahan
 
-#### 49 ❓ - Other
+#### 55 ❓ - Other
 Testifying:
 * 💵Jill May - Washington Association for Children and Families
 * Zack Wester
@@ -140,3 +155,7 @@ Testifying:
 * Shannon Dorsey
 * Kate White Tudor - WA Association of Area Agencies on Aging
 * 💵Logan Endres - BrightSpark Early Learning
+* Dr. Beth Ebel - WA Chapter of the American Academy of Pediatrics
+* Heidi Suarez
+* Juli Bunting - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)
+* 💵Carly Michiels - [Washington Public Ports Association](/org/washington_public_ports_association/)

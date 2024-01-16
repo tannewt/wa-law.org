@@ -36,7 +36,8 @@
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍2  
 * 👍 Megan Larkin
 
-## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍1  
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍2  
+* 👍💵 Leah Missik
 * 👍💵 Leah Missik
 
 ## [HB 1390](/bill/2023-24/hb/1390/) - District energy systems 👍4  
@@ -70,6 +71,34 @@
 
 ## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge 👍1  
 * 👍💵 Leah Missik
+
+## [HB 1955](/bill/2023-24/hb/1955/) - Repealing the greenhouse gas content disclosure provision. 👍1  
+
+## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍1  
+
+## [HB 2039](/bill/2023-24/hb/2039/) - Modifying the appeals process for environmental and land use matters. 👍1  
+* 👍💵 Altinay Karasapan
+
+## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes. 👍1  
+
+## [HB 2051](/bill/2023-24/hb/2051/) - Reducing emissions from small off-road engines. 👍1  
+* 👍💵 Leah Missik
+
+## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions. 👍1  
+
+## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍1  
+* 👍💵 Leah Missik
+
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍2  
+* 👍 Megan Larkin
+* 👍 Megan Larkin
+
+## [HB 2117](/bill/2023-24/hb/2117/) - Aerial firefighting/permits   ❓1
+
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍1  
+
+## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage 👍1  
+* 👍💵 Kelly Hall
 
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial  👎1 
 
@@ -119,3 +148,11 @@
 
 ## [SB 5659](/bill/2023-24/sb/5659/) - Gas companies/renewable res.   ❓1
 * ❓💵 Kelly Hall
+
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
+* 👍 Megan Larkin
+
+## [SB 6024](/bill/2023-24/sb/6024/) - Housing development 👍1  
+
+## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍1  
+* 👍💵 Kelly Hall

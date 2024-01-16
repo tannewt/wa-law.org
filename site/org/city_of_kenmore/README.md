@@ -37,3 +37,8 @@
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍2  
 
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
+
+## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD 👍1  
+
+## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  
+* 👍 Rob Karlinsey

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5907/</link>
 		<description>Updates about SB 5907</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 16 Jan 2024 09:13:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,45 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Agriculture, Water, Natural Resources &amp; Parks (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Agriculture, Water, Natural Resources &amp; Parks.</title>
+			<description>First reading, referred to Agriculture, Water, Natural Resources &amp; Parks.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Agriculture, Water, Natural Resources &amp; Parks.</guid>
+		</item>
+		<item>
+			<title>❓James Luce - Friends of Vancouver Lake</title>
+			<description>James Luce signed up to testify Other. They are signed up to represent Friends of Vancouver Lake.</description>
+			<pubDate>Fri, 12 Jan 2024 04:27:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/James/Luce/2024-01-12 04:27:34</guid>
+		</item>
+		<item>
+			<title>❓Robin Torner - Cowlitz Indian Tribe</title>
+			<description>Robin Torner signed up to testify Other. They are signed up to represent Cowlitz Indian Tribe.</description>
+			<pubDate>Mon, 15 Jan 2024 05:15:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Robin/Torner/2024-01-15 05:15:49</guid>
+		</item>
+		<item>
+			<title>👍Charlene Hurst - WDFW</title>
+			<description>Charlene Hurst signed up to testify Pro. They are signed up to represent WDFW.</description>
+			<pubDate>Tue, 16 Jan 2024 09:13:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Charlene/Hurst/2024-01-16 09:13:35</guid>
+		</item>
+		<item>
+			<title>👍Jeff Wickersham - WDFW</title>
+			<description>Jeff Wickersham signed up to testify Pro. They are signed up to represent WDFW.</description>
+			<pubDate>Tue, 16 Jan 2024 09:13:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jeff/Wickersham/2024-01-16 09:13:35</guid>
 		</item>
 	</channel>
 </rss>

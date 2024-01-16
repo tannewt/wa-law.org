@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/16 08:00 AM - Health & Long Term Care (HLTC): SB 5811 Individual providers/family
+#### 24 👍 - Pro
+Testifying:
+* Catherine Kinnaman - Department of Social & Health Services
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

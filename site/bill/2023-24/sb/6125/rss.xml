@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 6125 - Lakeland Village records</title>
+		<link>https://wa-law.org/bill/2023-24/sb/6125/</link>
+		<description>Updates about SB 6125</description>
+		<language>en-US</language>
+		<lastBuildDate>Wed, 10 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to State Government &amp; Elections.</title>
+			<description>First reading, referred to State Government &amp; Elections.</description>
+			<pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-10/First reading, referred to State Government &amp; Elections.</guid>
+		</item>
+	</channel>
+</rss>

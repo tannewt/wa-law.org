@@ -7,26 +7,31 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/08/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Session Preview: Legislature convenes January 8 for short session - WSPTA](https://www.wastatepta.org/2024-session-preview/#:~:text=SB%205823)
 * 01/07/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: Welcome to the 2024 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/07/this-week-in-the-senate-week-1-welcome-to-the-2024-session/#:~:text=Senate%20Bill%205823)
 
 ## Meetings
 ### Wed 01/10 10:30 AM - Early Learning & K-12 Education (EDU): SB 5823 School district elections
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31530&aId=155952&caId=22747&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31530&aId=155952&caId=22747&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31530&aId=155952&caId=22747&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31530&aId=155952&caId=22747&tId=4)
-
-#### 27 👍 - Pro
+#### 82 👍 - Pro
 Testifying:
 * Paul Marquardt - Bethel Schools
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Charlie Brown - South Sound School Districts
 * Kimberly Yee - WSSSDA and Fife School Board
 * Marissa Rathbone - Washington State School Directors' Association (WSSDA)
+* Michelle Nims - Washington State PTA
+* Barbara Posthumus - Puget Sound School Coalition
+* Brady Vallala - [Washington Education Association](/org/washington_education_association/)
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* Jim Kowalkowski - Rural Education Center
+* Joe Greenheron
+* Kamil Zaidi - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
-#### 23 👎 - Con
+#### 305 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
+* Jeannette Mcchesney - Anacortes School District
+* Mary Jo Warren
+* Eric pratt - America
 
 #### 0 ❓ - Other

@@ -1,6 +1,6 @@
 # Washington State Community Action Partnership
 
-## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍3  
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍4  
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
@@ -90,6 +90,18 @@
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍2  
 
+## [HB 1874](/bill/2023-24/hb/1874/) - Protecting consumers from predatory loans. 👍1  
+
+## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍2  
+
+## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
+
+## [HB 2083](/bill/2023-24/hb/2083/) - Payday lending/small loans 👍1  
+
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+
+## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
+
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  ❓1
@@ -148,3 +160,7 @@
 ## [SB 5609](/bill/2023-24/sb/5609/) - Housing approval 👍1  
 
 ## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍2  
+
+## [SB 5899](/bill/2023-24/sb/5899/) - Adding to the list of provisions prohibited from rental agreements. 👍1  
+
+## [SB 5943](/bill/2023-24/sb/5943/) - Resource data tool 👍1  

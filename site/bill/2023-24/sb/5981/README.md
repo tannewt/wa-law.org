@@ -6,4 +6,28 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/14/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 2: MLK, education, gas price transparency - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/14/this-week-in-the-senate-week-2-mlk-education-gas-price-transparency/#:~:text=Senate%20Bill%205981)
+
 ## Meetings
+### Mon 01/15 10:30 AM - Human Services (HS): SB 5981 Early release petitions
+#### 53 👍 - Pro
+Testifying:
+* Alexis Hale
+* Lola Luna - Justice for Girls Coalition
+* Maryanne Atkins - Justice for Girls Coalition
+* Caya Lenay - Green Hill Capitol Classroom
+* Chris Ativalu-Ford - Green Hill Capitol Classroom
+* Edgar Calixto - Green Hill School Capitol Classroom
+* Ronald Ackerson Jr - Green Hill School Capitol Classroom
+* Gordon Hill - King County Department of Public Defense
+* Anthony Smith - Department of Corrections - Washington Corrections Center
+
+#### 3 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+
+#### 1 ❓ - Other
+Testifying:
+* Kecia Rongen - Indeterminate Sentence Review Board

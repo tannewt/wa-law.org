@@ -4,3 +4,9 @@
 * 👎 Superintendent, Patrick Murphy
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
+
+## [SB 5956](/bill/2023-24/sb/5956/) - Enrichment levies limit 👍1  
+* 👍 Kate Davis
+
+## [SB 6014](/bill/2023-24/sb/6014/) - Special education cap 👍2  
+* 👍 DARCY HUFFMAN

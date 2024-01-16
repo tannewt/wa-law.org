@@ -37,6 +37,19 @@
 
 ## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  
 
+## [HB 1933](/bill/2023-24/hb/1933/) - Supporting the servicing and right to repair of certain products with digital electronics in a secure and reliable manner. 👍1  
+* 👍💵 Heather Trim
+
+## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes. 👍1  
+* 👍💵 Heather Trim
+
+## [HB 2068](/bill/2023-24/hb/2068/) - Fashion/environmental impact 👍1  
+
+## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions. 👍2  
+
+## [HB 2144](/bill/2023-24/hb/2144/) - Providing for a deposit return program for qualifying beverage containers to be implemented by a distributor responsibility organization. 👍1  
+* 👍💵 Heather Trim
+
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍1  
 
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍4  
@@ -85,4 +98,11 @@
 ## [SB 5579](/bill/2023-24/sb/5579/) - Hydrofluorocarbons/supply  👎1 
 
 ## [SB 5607](/bill/2023-24/sb/5607/) - Fashion/env. policies 👍1  
+* 👍💵 Heather Trim
+
+## [SB 5844](/bill/2023-24/sb/5844/) - Dilapidated RV disposal   ❓1
+
+## [SB 5965](/bill/2023-24/sb/5965/) - Fashion/environmental impact 👍1  
+
+## [SB 6163](/bill/2023-24/sb/6163/) - Biosolids 👍1  
 * 👍💵 Heather Trim

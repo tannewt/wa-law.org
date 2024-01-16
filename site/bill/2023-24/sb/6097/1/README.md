@@ -1,0 +1,35 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 6097](/bill/2023-24/sb/6097/) > [Original Bill](/bill/2023-24/sb/6097/1/)
+
+# SB 6097 - Dental services contracts
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/6097.pdf)
+
+## Section 1
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+## Section 2
+1. A payor offering a stand-alone dental plan shall permit a dental services provider to choose not to:
+
+    a. Participate in third-party access to a dental services provider contract;
+
+    b. Accept a proposed material dental services amendment; and
+
+    c. Enter into a contract directly with a payor offering a stand-alone dental plan that acquires a dental services provider contract.
+
+2. When initially contracting with a dental services provider, a payor offering a stand-alone dental plan shall accept a dental services provider who otherwise meets the legitimate selection criteria of the payor even if the dental services provider does not accept provisions in the provider contract that would permit a third party access to the dental services provider contract or provider compensation agreement, or to the dental services provider's dental services.
+
+3. A payor offering a stand-alone dental plan shall provide no less than 60 days' notice to a dental services provider of any proposed material dental services amendment to the dental services provider contract with the payor.
+
+4. Any material dental services amendment to a dental services provider contract must be clearly defined in a notice to the dental services provider from the payor offering a stand-alone dental plan as being a material change to the contract and must describe the third party being granted access to the dental services provider's dental services or provider compensation agreement, before the provider's notice period begins. The notice also must inform the dental services provider that the proposed material dental services amendment will not be effective unless and until the dental services provider affirmatively agrees through written or electronic means to accept the material dental services amendment.
+
+5. A material dental services amendment is not effective, regardless of the notice period, unless the dental services provider affirmatively agrees through written or electronic means to accept such material dental services amendment.
+
+6. A dental services provider's rejection or nonacceptance of a material dental services amendment does not affect the terms of the dental services provider's existing dental services contract with the payor offering a stand-alone dental plan. If a dental services provider does not accept a material dental services amendment, the payor offering a stand-alone dental plan may not cancel or otherwise end the existing provider contract with the dental services provider.
+
+7. A failure to comply with the terms of subsections (3) through (6) of this section shall void the effectiveness of the material dental services amendment.
+
+8. Subsections (1) through (7) of this section do not apply to a dental services provider contract if:
+
+    a. Access to a dental services provider contract or provider compensation agreement is granted to a payor operating in accordance with the same brand licensee program as the payor offering the stand-alone dental plan, or a payor that is an affiliate, as defined in RCW 48.31B.005, of the payor offering stand-alone dental plans. A list of payors operating under the same brand licensee program or as affiliates must be made available to a dental services provider on the website of the payor and must be updated at least once every 90 days; or
+
+    b. The dental services provider contract is for dental services provided to beneficiaries of state-sponsored health programs such as medicaid and the children's health insurance program.

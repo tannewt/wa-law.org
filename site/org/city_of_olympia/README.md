@@ -2,7 +2,7 @@
 
 ## [HB 1032](/bill/2023-24/hb/1032/) - Wildfires/electric utilities 👍3  
 
-## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 * 👍 Councilmember Jim Cooper
 
 ## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
@@ -71,11 +71,24 @@
 
 ## [HB 1817](/bill/2023-24/hb/1817/) - Housing gap voucher pilot 👍1  
 
+## [HB 1902](/bill/2023-24/hb/1902/) - Firearms/purchase & transfer 👍1  
+
+## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍1  
+
 ## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍1  
 
 ## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍1  
 
 ## [HB 1998](/bill/2023-24/hb/1998/) - Co-living housing 👍1  
+
+## [HB 2021](/bill/2023-24/hb/2021/) - Concerning the disposition of privately owned firearms in the custody of state or local government entities or law enforcement agencies. 👍1  
+
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+
+## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍1  
+
+## [HB 2172](/bill/2023-24/hb/2172/) - Vacant state agency property 👍1  
+* 👍 Darian Lightfoot
 
 ## [SB 5001](/bill/2023-24/sb/5001/) - Public facility districts 👍3  
 * 👍 Paul Simmons
@@ -136,6 +149,15 @@
 
 ## [SB 5741](/bill/2023-24/sb/5741/) - Housing gap voucher pilot 👍1  
 
-## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍1  
+## [SB 5960](/bill/2023-24/sb/5960/) - Prescription labels/abortion 👍1  
+
+## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍2  
+* 👍 Christa Lenssen
+
+## [SB 5975](/bill/2023-24/sb/5975/) - Authorizing use of the housing trust fund and other legislative appropriations to finance social housing. 👍1  
+
+## [SB 5985](/bill/2023-24/sb/5985/) - Firearms background checks 👍1  
+
+## [SB 6013](/bill/2023-24/sb/6013/) - Homeownership dev. tax ex. 👍1  
 
 ## [SJR 8201](/bill/2023-24/sjr/8201/) - Public works account 👍1  

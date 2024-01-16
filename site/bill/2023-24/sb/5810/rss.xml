@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5810/</link>
 		<description>Updates about SB 5810</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 11 Jan 2024 08:43:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,29 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Labor &amp; Commerce (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Labor &amp; Commerce.</title>
+			<description>First reading, referred to Labor &amp; Commerce.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Labor &amp; Commerce.</guid>
+		</item>
+		<item>
+			<title>👍💵Dennis Eagle - WA Federation of State Employees</title>
+			<description>Dennis Eagle signed up to testify Pro. They are signed up to represent WA Federation of State Employees. They are a registered lobbyist.</description>
+			<pubDate>Wed, 10 Jan 2024 02:19:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dennis/Eagle/2024-01-10 02:19:35</guid>
+		</item>
+		<item>
+			<title>👍💵John Traynor - Washington State Labor Council, AFL-CIO</title>
+			<description>John Traynor signed up to testify Pro. They are signed up to represent Washington State Labor Council, AFL-CIO. They are a registered lobbyist.</description>
+			<pubDate>Thu, 11 Jan 2024 08:43:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/John/Traynor/2024-01-11 08:43:47</guid>
 		</item>
 	</channel>
 </rss>

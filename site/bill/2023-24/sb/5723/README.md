@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/16/2024 [Sightline Institute](/org/sightline_institute/) - [Washingtonians May Get a Democracy Upgrade in 2024 - Sightline Institute](https://www.sightline.org/2024/01/16/washingtonians-may-get-a-democracy-upgrade-in-2024/#:~:text=SB%205723)
 * 11/30/2023 [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | Record-Low Turnout in Recent Washington State Elections; Vacant Building Fire in Columbia City | South Seattle Emerald](https://southseattleemerald.com/2023/11/29/news-gleams-record-low-turnout-in-recent-washington-state-elections-vacant-building-fire-in-columbia-city/#:~:text=Senate%20Bill%205723)
 * 11/25/2023 [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers revive call to let cities have elections in even-numbered years | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-lawmakers-revive-call-to-let-cities-hold-elections-in-even-numbered-years/#:~:text=Senate%20Bill%205723)
 * 11/10/2023 [House Democrats](/org/house_democrats/) - [Valdez and Farivar team up to improve voter turnout – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/11/10/valdez-and-farivar-team-up-to-improve-voter-turnout/#:~:text=Senate%20Bill%205723)

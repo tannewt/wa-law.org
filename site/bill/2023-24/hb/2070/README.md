@@ -10,3 +10,62 @@
 * 01/08/2024 [The Seattle Times](/org/the_seattle_times/) - [From a state clam to car tab discounts, lawmakers’ agenda takes shape | The Seattle Times](https://www.seattletimes.com/seattle-news/environment/from-a-state-clam-to-car-tab-discounts-lawmakers-agenda-takes-shape/#:~:text=House%20Bill%202070)
 
 ## Meetings
+### Tue 01/16 04:00 PM - Environment & Energy (ENVI): HB 2070 Env. justice/SEPA projects
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31611&aId=156384&caId=23150&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31611&aId=156384&caId=23150&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31611&aId=156384&caId=23150&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31611&aId=156384&caId=23150&tId=4)
+
+#### 1095 👍 - Pro
+Testifying:
+* 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
+* Lindsey Farmer - Eastside Catholic School
+* Mary Sorensen
+* Karen Smith - Holy Family Catholic Church Kirkland
+* Judith Byron
+* Nealane Riem
+* Lorraine Hartmann - Catholic
+* Travis Vandervort - parishioner of St. Madeleine Sophie Church
+* Kelly Campbell - [Columbia Riverkeeper](/org/columbia_riverkeeper/)
+* Diana Boyle - St. John Vianney Kirkland
+* Aaron Erlandson
+* Maria Luisa Duque-Barroga - Parishioner of St. Madeleine Sophie Church
+* Ralph Grummer - Parishioner of Christ the King Parish
+* Jacob Pederson
+* Anisa Ralls
+* Frances Pavlas Bose - Parishioner of Sacred Heart Catholic church -Pullman
+* Katherine Burghardt - Parishioner of St Nicholas  Church
+* 💵Christian Poulsen - Duwamish River Community Coalition
+* 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
+* Paul Tabayoyon - APIC Yakima
+* Jennifer Kelly
+* 💵Kristin Ang - Faith Action Network (FAN)
+* 💵Adrienne Joyce - Washington State Catholic Conference
+* Loretta Olsen - St pius x parish
+* Loretta Olsen - St pius x parish
+* Byron Brunelle
+* Jamie Stroble - [The Nature Conservancy](/org/the_nature_conservancy/)
+* Kate Donohue - none
+* Paula Walsh
+* Thomas Raabe - Catholic Church
+* Maria Batayola - Beacon Hill Council (Seattle Neighborhood)
+* Sept Gernez - Sierra Club, Washington State
+
+#### 78 👎 - Con
+Testifying:
+* John Haley
+* ROY SCOTT
+* John Worthington
+* 💵Scott Hazlegrove - Master Builders Association of King & Snohomish Counties
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+
+#### 11 ❓ - Other
+Testifying:
+* Eric pratt - America
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Carly Michiels - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Adam Eitmann - Washington State Department of Ecology
+* Ahmer Nizam - Washington State Department of Transportation

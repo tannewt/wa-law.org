@@ -18,6 +18,16 @@
 
 ## [HB 1643](/bill/2023-24/hb/1643/) - Nurse student loan repayment 👍1  
 
+## [HB 1917](/bill/2023-24/hb/1917/) - Physician assistant compact 👍1  
+
+## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍1  
+
+## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍1  
+
+## [HB 2041](/bill/2023-24/hb/2041/) - Concerning physician assistant collaborative practice. 👍1  
+
+## [HB 2076](/bill/2023-24/hb/2076/) - Addressing crimes involving human trafficking or sexual exploitation. 👍1  
+
 ## [SB 5036](/bill/2023-24/sb/5036/) - Audio-only telemedicine 👍1  
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎2 
@@ -59,3 +69,13 @@
 
 ## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍1  
 * 👍💵 Katherine Mahoney
+
+## [SB 5814](/bill/2023-24/sb/5814/) - Concerning coverage of prescription drugs for advanced metastatic cancer. 👍1  
+
+## [SB 5880](/bill/2023-24/sb/5880/) - Establishing a primary certification process for magnetic resonance imaging technologists. 👍1  
+
+## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍1  
+
+## [SB 6101](/bill/2023-24/sb/6101/) - Hospital at-home services 👍2  
+* 👍💵 Katherine Mahoney
+* 👍 Megha Shah

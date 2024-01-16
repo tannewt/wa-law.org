@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1998/</link>
 		<description>Updates about HB 1998</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 06:36:51 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 15 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -109,12 +109,73 @@
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Housing (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 		<item>
+			<title>The House Hot Sheet for Week 1 of the 2024 Legislative Session – Washington State House Democrats</title>
+			<description>News article &quot;The House Hot Sheet for Week 1 of the 2024 Legislative Session – Washington State House Democrats&quot; from House Democrats.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/01/08/the-house-hot-sheet-for-week-1-of-the-2024-legislative-session/#:~:text=HB%201998</guid>
+		</item>
+		<item>
+			<title>👍Rep. Andrew Barkis - AARP Washington State</title>
+			<description>Rep. Andrew Barkis signed up to testify Pro.</description>
+			<pubDate>Mon, 08 Jan 2024 01:57:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rep. Andrew/Barkis/2024-01-08 01:57:38</guid>
+		</item>
+		<item>
 			<title>👍💵Bryce Yadon - AARP Washington State</title>
 			<description>Bryce Yadon signed up to testify Pro. They are a registered lobbyist.</description>
 			<pubDate>Mon, 08 Jan 2024 06:36:51 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Bryce/Yadon/2024-01-08 06:36:51</guid>
+		</item>
+		<item>
+			<title>👎Laurie Layne - Layne Software</title>
+			<description>Laurie Layne signed up to testify Con. They are signed up to represent Layne Software.</description>
+			<pubDate>Mon, 08 Jan 2024 09:36:08 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Laurie/Layne/2024-01-08 09:36:08</guid>
+		</item>
+		<item>
+			<title>❓💵Paul Jewell - Washington State Association of Counties</title>
+			<description>Paul Jewell signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_state_association_of_counties/&quot;&gt;Washington State Association of Counties&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 08 Jan 2024 10:26:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Paul/Jewell/2024-01-08 10:26:19</guid>
+		</item>
+		<item>
+			<title>👍Morgan Irwin - Association of Washington Business</title>
+			<description>Morgan Irwin signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/association_of_washington_business/&quot;&gt;Association of Washington Business&lt;/a&gt;.</description>
+			<pubDate>Mon, 08 Jan 2024 10:29:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Morgan/Irwin/2024-01-08 10:29:49</guid>
+		</item>
+		<item>
+			<title>👍Tedd Kelleher - Department of Commerce</title>
+			<description>Tedd Kelleher signed up to testify Pro. They are signed up to represent Department of Commerce.</description>
+			<pubDate>Mon, 08 Jan 2024 11:40:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tedd/Kelleher/2024-01-08 11:40:54</guid>
+		</item>
+		<item>
+			<title>Micro-apartments Could Become Fully Legal in Washington, Again - The Urbanist</title>
+			<description>News article &quot;Micro-apartments Could Become Fully Legal in Washington, Again - The Urbanist&quot; from The Urbanist.</description>
+			<pubDate>Tue, 09 Jan 2024 21:40:11 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2024/01/09/micro-apartments-could-become-fully-legal-in-washington-again/#:~:text=House%20Bill%201998</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-15/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

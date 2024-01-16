@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5887/</link>
 		<description>Updates about SB 5887</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 15 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,37 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Business, Financial Services, Gaming &amp; Trade (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>👍Thomas Neill - Washington Society of CPAs</title>
+			<description>Thomas Neill signed up to testify Pro. They are signed up to represent Washington Society of CPAs.</description>
+			<pubDate>Mon, 08 Jan 2024 02:07:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Thomas/Neill/2024-01-08 02:07:09</guid>
+		</item>
+		<item>
+			<title>👍💵Lisa Thatcher - Washington Society of Certified Public Accountants</title>
+			<description>Lisa Thatcher signed up to testify Pro. They are signed up to represent Washington Society of Certified Public Accountants. They are a registered lobbyist.</description>
+			<pubDate>Mon, 08 Jan 2024 10:25:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lisa/Thatcher/2024-01-08 10:25:10</guid>
+		</item>
+		<item>
+			<title>👍Michael Paquette - Washington State BOA</title>
+			<description>Michael Paquette signed up to testify Pro. They are signed up to represent Washington State BOA.</description>
+			<pubDate>Mon, 08 Jan 2024 12:49:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Michael/Paquette/2024-01-08 12:49:20</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-15/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

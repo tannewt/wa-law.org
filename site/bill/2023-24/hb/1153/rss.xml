@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1153/</link>
 		<description>Updates about HB 1153</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 17 Feb 2023 16:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -227,6 +227,13 @@
 			<pubDate>Fri, 17 Feb 2023 16:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_03d9fb18-af0c-11ed-8955-0bdf499e72bb.html#:~:text=House%20Bill%201153</guid>
+		</item>
+		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
 		</item>
 	</channel>
 </rss>

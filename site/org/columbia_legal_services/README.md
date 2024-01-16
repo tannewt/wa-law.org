@@ -69,11 +69,15 @@
 
 ## [HB 1324](/bill/2023-24/hb/1324/) - Prior juvenile offenses 👍2  
 
+## [HB 1325](/bill/2023-24/hb/1325/) - Long sentences review 👍1  
+
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍2  
 
 ## [HB 1338](/bill/2023-24/hb/1338/) - DOC ed. and vocational prgs. 👍1  
 
 ## [HB 1345](/bill/2023-24/hb/1345/) - Concerning the contribution to costs of privileges by incarcerated individuals. 👍2  
+
+## [HB 1383](/bill/2023-24/hb/1383/) - Early release petitions/juv. 👍1  
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
 * 👍💵 Sarah Nagy
@@ -125,13 +129,24 @@
 
 ## [HB 1945](/bill/2023-24/hb/1945/) - Streamlining and enhancing program access for persons eligible for food assistance. 👍1  
 
+## [HB 1953](/bill/2023-24/hb/1953/) - Improving access to department of licensing issued documents by clarifying the application requirements for a minor, modifying the requirements for at-cost identicards, and studying the feasibility of reduced-fee identicards. 👍1  
+
 ## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍1  
+
+## [HB 2030](/bill/2023-24/hb/2030/) - Revoking a person's voting rights only when convicted of a state crime punishable by death. 👍1  
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
 ## [HB 2083](/bill/2023-24/hb/2083/) - Payday lending/small loans 👍1  
 
+## [HB 2097](/bill/2023-24/hb/2097/) - Worker wage recovery 👍1  
+* 👍💵 Andrea Schmitt
+
 ## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+
+## [HB 2119](/bill/2023-24/hb/2119/) - Medical debt garnishment 👍1  
+
+## [HB 2251](/bill/2023-24/hb/2251/) - Unenforceable LFOs 👍1  
 
 ## [SB 5028](/bill/2023-24/sb/5028/) - Name changes 👍2  
 
@@ -141,7 +156,7 @@
 
 ## [SB 5056](/bill/2023-24/sb/5056/) - Habitual property offenders  👎1 
 
-## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest 👍1  
+## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest 👍2  
 
 ## [SB 5061](/bill/2023-24/sb/5061/) - Personnel records 👍1  
 
@@ -200,7 +215,8 @@
 
 ## [SB 5697](/bill/2023-24/sb/5697/) - Mobile home park rates 👍1  
 
-## [SB 5730](/bill/2023-24/sb/5730/) - Vehicle residences/impound   ❓1
+## [SB 5730](/bill/2023-24/sb/5730/) - Vehicle residences/impound   ❓2
+* ❓💵 Sarah Nagy
 * ❓💵 Sarah Nagy
 
 ## [SB 5737](/bill/2023-24/sb/5737/) - Vehicle residences/impound   ❓1
@@ -210,4 +226,18 @@
 
 ## [SB 5899](/bill/2023-24/sb/5899/) - Adding to the list of provisions prohibited from rental agreements. 👍1  
 
+## [SB 5912](/bill/2023-24/sb/5912/) - Concerning reentry services and supports. 👍1  
+
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍1  
+
+## [SB 5974](/bill/2023-24/sb/5974/) - Concerning the disposition of unenforceable legal financial obligations other than restitution imposed by a court or an agent of the court against a juvenile prior to July 1, 2023. 👍1  
+
+## [SB 5981](/bill/2023-24/sb/5981/) - Concerning the indeterminate sentence review board. 👍1  
+
+## [SB 6021](/bill/2023-24/sb/6021/) - Correctional fees & expenses 👍1  
+
+## [SB 6025](/bill/2023-24/sb/6025/) - Predatory loans 👍1  
+
+## [SB 6063](/bill/2023-24/sb/6063/) - Persistent offenders 👍1  
+
+## [SB 6166](/bill/2023-24/sb/6166/) - Pesticide application comm. 👍1  

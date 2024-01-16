@@ -19,8 +19,15 @@
 * 👍💵 John Ficker
 * 👍💵 John Ficker
 
-## [HB 2015](/bill/2023-24/hb/2015/) - Concerning incentivizing adult family homes to increase bed capacity to seven or eight beds. 👍1  
+## [HB 1859](/bill/2023-24/hb/1859/) - Concerning the rights of residents in long-term care facilities.  👎1 
+* 👎💵 John Ficker
+
+## [HB 2015](/bill/2023-24/hb/2015/) - Adult family homes capacity 👍2  
 * 👍💵 John Ficker
+* 👍💵 Amina Abdalla
+
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
+* ❓💵 John Ficker
 
 ## [SB 5103](/bill/2023-24/sb/5103/) - Medicaid patients/discharge 👍1  
 

@@ -126,6 +126,12 @@
 
 ## [HB 1885](/bill/2023-24/hb/1885/) - Strengthening campaign finance disclosure by prohibiting campaign contributions and expenditures by foreign-influenced corporations.  👎1 
 
+## [HB 1894](/bill/2023-24/hb/1894/) - Modifying provisions of the business licensing service program. 👍1  
+* 👍💵 Mark Johnson
+
+## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍1  
+* 👍💵 Mark Johnson
+
 ## [HB 1898](/bill/2023-24/hb/1898/) - Concerning unemployment insurance benefit charging. 👍1  
 
 ## [HB 1900](/bill/2023-24/hb/1900/) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system.   ❓1
@@ -133,11 +139,50 @@
 
 ## [HB 1901](/bill/2023-24/hb/1901/) - Removing the sunset on changes to the unemployment insurance voluntary contribution program. 👍1  
 
+## [HB 1919](/bill/2023-24/hb/1919/) - Modifying the process by which a private moorage facility may sell an abandoned vessel for failure to pay moorage fees. 👍1  
+
+## [HB 1921](/bill/2023-24/hb/1921/) - Prohibiting the use of certain substances in food.  👎1 
+
+## [HB 1934](/bill/2023-24/hb/1934/) - AI task force   ❓1
+* ❓💵 Crystal Leatherman
+
+## [HB 1951](/bill/2023-24/hb/1951/) - Algorithmic discrimination  👎1 
+* 👎💵 Crystal Leatherman
+
+## [HB 1959](/bill/2023-24/hb/1959/) - Extending parts of the paid family and medical leave program to employers with fewer than 50 employees.  👎1 
+* 👎 Bruce K Beckett
+
+## [HB 1991](/bill/2023-24/hb/1991/) - Paid sick leave  👎1 
+* 👎 Bruce K Beckett
+
 ## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes.   ❓1
 * ❓💵 Mark Johnson
 
+## [HB 2051](/bill/2023-24/hb/2051/) - Reducing emissions from small off-road engines.   ❓1
+* ❓💵 Crystal Leatherman
+
+## [HB 2068](/bill/2023-24/hb/2068/) - Fashion/environmental impact  👎1 
+* 👎💵 Crystal Leatherman
+
+## [HB 2094](/bill/2023-24/hb/2094/) - Gift certificates  👎1 
+* 👎💵 Crystal Leatherman
+
+## [HB 2095](/bill/2023-24/hb/2095/) - Gift certificates/unclaimed  👎1 
+* 👎💵 Crystal Leatherman
+
+## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍1  
+
+## [HB 2127](/bill/2023-24/hb/2127/) - Incentives to return to work 👍1  
+* 👍 Bruce K Beckett
+
 ## [HB 2144](/bill/2023-24/hb/2144/) - Providing for a deposit return program for qualifying beverage containers to be implemented by a distributor responsibility organization.   ❓1
 * ❓💵 Mark Johnson
+
+## [HB 2153](/bill/2023-24/hb/2153/) - Catalytic converter theft   ❓1
+* ❓💵 Mark Johnson
+
+## [HB 2171](/bill/2023-24/hb/2171/) - Incarcerated students 👍1  
+* 👍 Rose GUNDERSEN
 
 ## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment 👍1  
 
@@ -147,7 +192,7 @@
 ## [SB 5056](/bill/2023-24/sb/5056/) - Habitual property offenders 👍1  
 * 👍💵 Mark Johnson
 
-## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
+## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎2 
 
 ## [SB 5061](/bill/2023-24/sb/5061/) - Personnel records   ❓1
 
@@ -258,11 +303,20 @@
 * 👍💵 Mark Johnson
 * ❓💵 Mark Johnson
 
+## [SB 5774](/bill/2023-24/sb/5774/) - Increasing the capacity to conduct timely fingerprint-based background checks for prospective child care employees and other programs. 👍1  
+* 👍💵 Crystal Leatherman
+
+## [SB 5776](/bill/2023-24/sb/5776/) - Accessing an emergency supply of insulin.   ❓1
+* ❓💵 Mark Johnson
+
 ## [SB 5788](/bill/2023-24/sb/5788/) - Service animal training 👍1  
+
+## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave  👎1 
+* 👎 Rose Gunderson
 
 ## [SB 5817](/bill/2023-24/sb/5817/) - Economic development info. 👍1  
 
-## [SB 5835](/bill/2023-24/sb/5835/) - Concerning transparency in rule making. 👍2  
+## [SB 5835](/bill/2023-24/sb/5835/) - Rule making websites 👍2  
 * 👍💵 Mark Johnson
 
 ## [SB 5838](/bill/2023-24/sb/5838/) - Establishing an artificial intelligence task force.   ❓1
@@ -271,5 +325,30 @@
 ## [SB 5853](/bill/2023-24/sb/5853/) - Extending the crisis relief center model to provide behavioral health crisis services for minors. 👍1  
 * 👍💵 Mark Johnson
 
+## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act.   ❓1
+* ❓ Rose GUNDERSEN
+
+## [SB 5897](/bill/2023-24/sb/5897/) - Modifying provisions of the business licensing service program. 👍1  
+* 👍💵 Mark Johnson
+
+## [SB 5958](/bill/2023-24/sb/5958/) - Career skills grant program 👍1  
+* 👍 Rose GUNDERSEN
+
 ## [SB 5965](/bill/2023-24/sb/5965/) - Fashion/environmental impact  👎1 
 * 👎💵 Mark Johnson
+
+## [SB 5987](/bill/2023-24/sb/5987/) - Gift certificates  👎1 
+* 👎💵 Crystal Leatherman
+
+## [SB 5988](/bill/2023-24/sb/5988/) - Gift certificates/unclaimed  👎1 
+* 👎💵 Crystal Leatherman
+
+## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍1  
+* 👍 Rose GUNDERSEN
+
+## [SB 6080](/bill/2023-24/sb/6080/) - Tourism marketing funding 👍1  
+* 👍💵 Mark Johnson
+
+## [SB 6112](/bill/2023-24/sb/6112/) - Donated food items/B&O tax 👍2  
+* 👍💵 Mark Johnson
+* 👍💵 Mark Johnson

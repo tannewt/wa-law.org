@@ -7,3 +7,16 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/16 10:30 AM - Law & Justice (LAW): SB 5828 Water rights commissioners
+#### 4 👍 - Pro
+Testifying:
+* Shannon Hinchcliffe - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* (Judge) David Freeman - Whatcom County Superior Court
+* Robin McPherson - Department of Ecology
+
+#### 50 👎 - Con
+
+#### 4 ❓ - Other
+Testifying:
+* 💵Bill Clarke - Whatcom Ag Water Board
+* Lisa Wilson - Lummi Nation

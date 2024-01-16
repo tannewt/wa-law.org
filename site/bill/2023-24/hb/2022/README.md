@@ -8,14 +8,19 @@
 
 ## Meetings
 ### Fri 01/12 10:30 AM - Labor & Workplace Standards (LAWS): HB 2022 Construction crane safety
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31573&aId=156159&caId=22881&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31573&aId=156159&caId=22881&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31573&aId=156159&caId=22881&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31573&aId=156159&caId=22881&tId=4)
+#### 27 👍 - Pro
+Testifying:
+* 💵Heather Kurtenbach - Ironworkers Local 86
+* Santosh Devasia
+* William Singhose
+* Andrea/Henry Wang/Wong
 
-#### 0 👍 - Pro
+#### 1 👎 - Con
+Testifying:
+* 💵Amber Carter - Columbia River Steamship Operators Assn.
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Dean Stoneburner
+* Josh Swanson
+* Jerry VanderWood - AGC of Washington

@@ -8,14 +8,14 @@
 
 ## Meetings
 ### Fri 01/12 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2147 Agriculture pests & diseases
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31576&aId=156301&caId=22924&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31576&aId=156301&caId=22924&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31576&aId=156301&caId=22924&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31576&aId=156301&caId=22924&tId=4)
+#### 32 👍 - Pro
+Testifying:
+* Amber Itle - wsda
+* Maggie Elliot - Washington Hop Commission
+* Rosa Dekker - East Columbia Basin Irrigation District
+* Tyler West
+* Kelly McLain - Washington State Department of Agriculture
 
-#### 0 👍 - Pro
-
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

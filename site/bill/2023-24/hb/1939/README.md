@@ -5,24 +5,26 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
+
+## 📰 Articles
+* 01/08/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/08/the-house-hot-sheet-for-week-1-of-the-2024-legislative-session/#:~:text=on%20HB%201939)
 
 ## Meetings
 ### Wed 01/10 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1939 Social work compact
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31571&aId=156105&caId=22887&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31571&aId=156105&caId=22887&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31571&aId=156105&caId=22887&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31571&aId=156105&caId=22887&tId=4)
-
-#### 7 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * 💵Bob Cooper - National Asociation of Social Workers
 * Tammie Perreault - Department of Defense
 * Jeremy Arp - National Association of Social Workers - Washington Chapter
 * Kaitlyn Bison - The Council of State Governments
+* Charles Wharton - Veterans Legislative Coalition
+* Breck Lebegue - Washington State Psychiatric Association
+* Breck Lebegue - WA State Psychiatric Association
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Kaitlyn Bison - The Council of State Governments
+* Shawna Fox - Washington State Department of Health

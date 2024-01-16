@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5549/</link>
 		<description>Updates about SB 5549</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 25 Jan 2023 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,13 @@
 			<pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-01-25/First reading, referred to Local Government, Land Use &amp; Tribal Affairs.</guid>
+		</item>
+		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
 		</item>
 	</channel>
 </rss>

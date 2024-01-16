@@ -7,3 +7,17 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 01/17 01:30 PM - Health Care & Wellness (HCW): HB 1941 Health home serv./children
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31659&aId=156565&caId=23170&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31659&aId=156565&caId=23170&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31659&aId=156565&caId=23170&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31659&aId=156565&caId=23170&tId=4)
+
+#### 74 👍 - Pro
+Testifying:
+* Michele Hagerstrom - MultiCare Mary Bridge Children's Hospital
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

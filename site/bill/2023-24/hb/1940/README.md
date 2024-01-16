@@ -6,17 +6,23 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/15/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/15/the-house-hot-sheet-for-week-2-of-the-2024-legislative-session/#:~:text=HB%201940)
+* 01/08/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/08/the-house-hot-sheet-for-week-1-of-the-2024-legislative-session/#:~:text=The%20Employee%20Free%20Choice%20Act%20(HB%201940))
+
 ## Meetings
 ### Wed 01/10 08:00 AM - Labor & Workplace Standards (LAWS): HB 1940 Employer political speech
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31572&aId=156076&caId=22876&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31572&aId=156076&caId=22876&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31572&aId=156076&caId=22876&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31572&aId=156076&caId=22876&tId=4)
+#### 131 👍 - Pro
+Testifying:
+* 💵John Traynor - WSLC, AFL-CIO
+* Maria Torres - Teamsters 117
+* Nicole Dettore - Starbucks worker
 
-#### 26 👍 - Pro
-
-#### 1 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* Robert (Bob) Battles - Association of Washington Business (AWB)
+* Bob Battles - [Association of Washington Business](/org/association_of_washington_business/)
+* Montana Miranda - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
 #### 1 ❓ - Other
 Testifying:

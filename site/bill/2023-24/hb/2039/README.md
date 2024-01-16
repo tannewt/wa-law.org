@@ -8,20 +8,20 @@
 
 ## Meetings
 ### Mon 01/08 01:30 PM - Environment & Energy (ENVI): HB 2039 Env. & land use appeals
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31565&aId=156058&caId=22832&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31565&aId=156058&caId=22832&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31565&aId=156058&caId=22832&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31565&aId=156058&caId=22832&tId=4)
-
-#### 11 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * 💵Cassie Bordelon - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 * 💵Mark Riker - Washington State Building and Construction Trades Council
 * 💵Matthew Hepner - East Wenatchee City Council
 * 💵Isaac Kastama - Clean & Prosperous Washington
+* Diane Butorac - Department of Ecology
+* 💵Carly Michiels - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* 💵Altinay Karasapan - [Climate Solutions](/org/climate_solutions/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 34 👎 - Con
+#### 60 👎 - Con
+Testifying:
+* 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
 #### 3 ❓ - Other
 Testifying:

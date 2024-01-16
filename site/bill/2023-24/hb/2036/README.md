@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Fri 01/12 10:30 AM - Labor & Workplace Standards (LAWS): HB 2036 Adult entertainment
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31573&aId=156187&caId=22882&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31573&aId=156187&caId=22882&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31573&aId=156187&caId=22882&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31573&aId=156187&caId=22882&tId=4)
-
-#### 12 👍 - Pro
+#### 58 👍 - Pro
 Testifying:
 * Madison Zack-Wu - Strippers Are Workers
 * Amy-Marie Merrell - The Cupcake Girls
@@ -30,9 +24,16 @@ Testifying:
 * Madison Zack-Wu - Strippers Are Workers
 * Thea O - Strippers Are Workers
 * Melissa Sims - The Cupcake Girla
+* Rosemary T - SAW
+* Emma Ecker - Freedom Network USA
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* JERI MOOMAW - [Innovations Human Trafficking Collaborative](/org/innovations_human_trafficking_collaborative/)
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* robin miller - Sex Trade Survivor Caucus
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Isaac Kastama - [Expressive Rights Alliance](/org/expressive_rights_alliance/)

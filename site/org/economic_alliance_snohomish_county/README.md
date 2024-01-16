@@ -4,6 +4,8 @@
 * 👍💵 Garry Clark
 * 👍💵 Garry Clark
 
+## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍1  
+
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget  👎1 
@@ -12,3 +14,7 @@
 * 👍💵 Garry Clark
 
 ## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  
+
+## [SB 5835](/bill/2023-24/sb/5835/) - Rule making websites 👍1  
+
+## [SB 5838](/bill/2023-24/sb/5838/) - Establishing an artificial intelligence task force. 👍1  

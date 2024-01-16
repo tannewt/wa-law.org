@@ -17,6 +17,9 @@
 * 👍 Carma Matti-Jackson
 * 👍 Carma Matti-Jackson
 
+## [HB 1859](/bill/2023-24/hb/1859/) - Concerning the rights of residents in long-term care facilities.  👎1 
+* 👎 Carma Matti-Jackson
+
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  ❓1
 * 👍 Jeff Gombosky
 * ❓ Carma Matti-Jackson
@@ -47,3 +50,5 @@
 
 ## [SB 5640](/bill/2023-24/sb/5640/) - Independent living residents 👍1  
 * 👍 Jeff Gombosky
+
+## [SB 5802](/bill/2023-24/sb/5802/) - Providing flexibility in calculation of nursing rates. 👍1  

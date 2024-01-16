@@ -8,16 +8,18 @@
 
 ## Meetings
 ### Wed 01/10 01:30 PM - Consumer Protection & Business (CPB): HB 1910 Pawnbroker fees, int. rates
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31592&aId=156203&caId=22818&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31592&aId=156203&caId=22818&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31592&aId=156203&caId=22818&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31592&aId=156203&caId=22818&tId=4)
-
-#### 7 👍 - Pro
+#### 49 👍 - Pro
 Testifying:
 * Kevin Opdahl - Cascade Loan
+* 💵Karen Strickland - [Pawn 1](/org/pawn_1/)
+* Nika Mihailov - Kittitas County Trading Co.
+* Brian Fleck - Pawn 1 Inc.
+* Sam Lax - Pawn 1 Inc
+* 💵Tamara Rancore - WA. St Pawnbrokers Association
+* Matthew Gartz - Pawn 1 Inc.
+* Tearin Higdon - [Pawn 1](/org/pawn_1/)
+* Dave Griffiths - The Consultants, LLC dba AML Gurus
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

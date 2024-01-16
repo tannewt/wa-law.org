@@ -8,23 +8,21 @@
 
 ## Meetings
 ### Tue 01/09 01:30 PM - State Government & Elections (SGE): SB 5856 Voter reg. challenges
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31544&aId=156091&caId=22732&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31544&aId=156091&caId=22732&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31544&aId=156091&caId=22732&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31544&aId=156091&caId=22732&tId=4)
-
-#### 4 👍 - Pro
+#### 107 👍 - Pro
 Testifying:
 * Cindy Madigan - League of Women Voters of Washington
 * Mary Hall - Washington State Association of County Auditors (WSACA)
 
-#### 84 👎 - Con
+#### 380 👎 - Con
 Testifying:
 * David Turner
 * LORILEE GATES
 * James Ware
+* Suzanne Rohner
 * Evelyn Nelson
+* Jeannette Mcchesney
+* Douglas Carey
+* Val Mullen
 
 #### 1 ❓ - Other
 Testifying:

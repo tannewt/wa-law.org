@@ -21,8 +21,21 @@
 * ❓ Deeann Puffert
 * ❓💵 Emily Murphy
 
-## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
+## [HB 1916](/bill/2023-24/hb/1916/) - Concerning funding for the early support for infants and toddlers program. 👍1  
+
+## [HB 1945](/bill/2023-24/hb/1945/) - Streamlining and enhancing program access for persons eligible for food assistance. 👍1  
+
+## [HB 2101](/bill/2023-24/hb/2101/) - Child care licensing fees 👍1  
+* 👍💵 Emily Murphy
+
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  ❓1
 * ❓💵 Emily Murphy
+
+## [HB 2111](/bill/2023-24/hb/2111/) - Subsidized child care 👍1  
+
+## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍1  
+
+## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities 👍1  
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  ❓2
 * 👍💵 Emily Murphy
@@ -42,6 +55,8 @@
 ## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍2  
 
 ## [SB 5485](/bill/2023-24/sb/5485/) - Public employees/child care 👍1  
+
+## [SB 5774](/bill/2023-24/sb/5774/) - Increasing the capacity to conduct timely fingerprint-based background checks for prospective child care employees and other programs. 👍1  
 
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
 * ❓💵 Emily Murphy

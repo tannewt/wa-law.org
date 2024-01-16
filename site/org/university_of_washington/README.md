@@ -35,6 +35,9 @@
 ## [HB 1307](/bill/2023-24/hb/1307/) - Physician bargaining 👍1  
 * 👍 Emily Marre
 
+## [HB 1325](/bill/2023-24/hb/1325/) - Long sentences review 👍2  
+* 👍 Dr. Katherine Beckett
+
 ## [HB 1348](/bill/2023-24/hb/1348/) - Behavioral health support 👍2  
 * 👍 Anna Ratzliff
 * 👍 Hoa Appel
@@ -89,6 +92,13 @@
 
 ## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge  👎2 
 
+## [HB 1859](/bill/2023-24/hb/1859/) - Concerning the rights of residents in long-term care facilities. 👍1  
+
+## [HB 1889](/bill/2023-24/hb/1889/) - Allowing persons to receive professional licenses and certifications regardless of immigration or citizenship status. 👍1  
+
+## [HB 2004](/bill/2023-24/hb/2004/) - Military student early reg. 👍1  
+* 👍 Jordan Caron
+
 ## [HB 2041](/bill/2023-24/hb/2041/) - Concerning physician assistant collaborative practice. 👍1  
 
 ## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍1  
@@ -96,6 +106,11 @@
 
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  
 * 👍💵 Morgan Hickel
+
+## [HB 2111](/bill/2023-24/hb/2111/) - Subsidized child care 👍1  
+
+## [HB 2242](/bill/2023-24/hb/2242/) - Sexual assault/higher ed. 👍1  
+* 👍 Amanda Kost
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍3  
 * 👍 Joe Dacca
@@ -164,8 +179,18 @@
 
 ## [SB 5738](/bill/2023-24/sb/5738/) - LeMay special license plate 👍1  
 
+## [SB 5795](/bill/2023-24/sb/5795/) - Year-round Pacific std. time  👎1 
+* 👎 Laura Prugh
+
+## [SB 5883](/bill/2023-24/sb/5883/) - Concerning the burden of proof for special education due process hearings. 👍1  
+
+## [SB 5913](/bill/2023-24/sb/5913/) - Concerning communication between employees of state institutions of higher education and student athletes regarding name, image, and likeness use. 👍1  
+* 👍 Joe Dacca
+
 ## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  
 * 👍💵 Morgan Hickel
 
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
 * 👍💵 Morgan Hickel
+
+## [SB 6021](/bill/2023-24/sb/6021/) - Correctional fees & expenses 👍1  

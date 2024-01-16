@@ -14,6 +14,9 @@
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax  👎2 
 
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants  👎1 
+* 👎 Brad Tower
+
 ## [SB 5060](/bill/2023-24/sb/5060/) - Rental & vacant properties  👎1 
 
 ## [SB 5303](/bill/2023-24/sb/5303/) - Public works trust account 👍1  
@@ -28,5 +31,8 @@
 * 👎 Brad Tower
 
 ## [SB 5509](/bill/2023-24/sb/5509/) - Public infrastructure bank  👎1 
+
+## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants  👎1 
+* 👎 Brad Tower
 
 ## [SJR 8201](/bill/2023-24/sjr/8201/) - Public works account 👍1  

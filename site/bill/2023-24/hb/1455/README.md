@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/13/2024 [MyNorthwest](/org/mynorthwest/) - [The SMN Interviews: 'Human jukebox' Nikhil Bagga, Rep. Monica Stonier, Rob McKenna - MyNorthwest.com](https://mynorthwest.com/3946389/the-smn-interviews-human-jukebox-nikhil-bagga-rep-monica-stonier-rob-mckenna/#:~:text=House%20Bill%201455)
+* 01/10/2024 [MyNorthwest](/org/mynorthwest/) - [Rantz: Democrats reject child marriage, but accept their gender reassignment - MyNorthwest.com](https://mynorthwest.com/3945913/rantz-democrats-reject-child-marriage-accept-gender-reassignment/#:~:text=House%20Bill%201455)
+* 01/08/2024 [House Democrats](/org/house_democrats/) - [Speaker Jinkins: “Optimistic and determined” about 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/08/speaker-jinkins-optimistic-and-determined-about-2024-legislative-session/#:~:text=HB%201455)
 * 04/18/2023 [MyNorthwest](/org/mynorthwest/) - [Bill to set minimum marriage age to 18 stalls in Washington - MyNorthwest.com](https://mynorthwest.com/3876621/bill-to-set-minimum-marriage-age-to-18-stalls-in-washington/#:~:text=House%20Bill%201455)
 * 04/17/2023 [FOX13](/org/fox13/) - [Bill to set minimum marriage age of 18 stalls in Washington Legislature](https://www.fox13seattle.com/news/bill-to-set-minimum-marriage-age-of-18-stalls-in-washington-legislature#:~:text=House%20Bill%201455)
 * 04/17/2023 [The Seattle Times](/org/the_seattle_times/) - [Minors can still get married in WA, though some want that to change | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/minors-can-still-get-married-in-wa-though-some-want-that-to-change/#:~:text=House%20Bill%201455)

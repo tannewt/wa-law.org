@@ -6,20 +6,28 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/11/2024 [The Center Square](/org/the_center_square/) - [Charter school supporters again asking Washington lawmakers for equal funding | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ae2e81c6-b0c1-11ee-ba16-3f826e4811a2.html#:~:text=Senate%20Bill%205809.)
+
 ## Meetings
 ### Wed 01/10 10:30 AM - Early Learning & K-12 Education (EDU): SB 5809 Charter schools/enrichment
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31530&aId=156245&caId=22750&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31530&aId=156245&caId=22750&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31530&aId=156245&caId=22750&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31530&aId=156245&caId=22750&tId=4)
-
-#### 132 👍 - Pro
+#### 303 👍 - Pro
 Testifying:
 * Liv Finne - Washington Policy Center
+* Andrena Wilson - Why Not You Academy
+* Marcus Harden - Why Not You Academy
+* Rochelle Jeffries - Why Not You Academy
+* Dan Effland - Summit Atlas High School
+* Karen Lobos - Rainier Prep
+* Taryn Majors - Impact Commencement Bay Elementary
+* Baionne Coleman - Rainier Valley Leadership Academy
+* Betzy Espinoza - Pinnacles Prep
+* Josie Boone - PRIDE Schools
 
-#### 18 👎 - Con
+#### 54 👎 - Con
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* Melissa Westbrook - Seattle Schools Community Forum ( not part of SPS)
+* Robert Cruickshank - Washington's Paramount Duty
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

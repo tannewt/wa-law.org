@@ -32,6 +32,16 @@
 ## [HB 1850](/bill/2023-24/hb/1850/) - Hospital safety net program   ❓1
 * ❓💵 Emily Brice
 
+## [HB 1957](/bill/2023-24/hb/1957/) - Preventive service coverage 👍1  
+* 👍💵 Emily Brice
+
+## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
+
+## [HB 2128](/bill/2023-24/hb/2128/) - Certificate of need program   ❓1
+* ❓💵 Janet Varon
+
+## [HB 2188](/bill/2023-24/hb/2188/) - Health subsidy/retirees 👍1  
+
 ## [SB 5169](/bill/2023-24/sb/5169/) - Medicare/health care plans 👍1  
 
 ## [SB 5183](/bill/2023-24/sb/5183/) - Personal needs allowance 👍1  
@@ -64,3 +74,6 @@
 
 ## [SB 5764](/bill/2023-24/sb/5764/) - Hospital safety net program   ❓1
 * ❓💵 Emily Brice
+
+## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍1  
+* 👍💵 Emily Brice

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5913/</link>
 		<description>Updates about SB 5913</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 15 Jan 2024 11:21:30 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,37 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to State Government &amp; Elections (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to State Government &amp; Elections.</title>
+			<description>First reading, referred to State Government &amp; Elections.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to State Government &amp; Elections.</guid>
+		</item>
+		<item>
+			<title>👍Joe Dacca - University of Washington</title>
+			<description>Joe Dacca signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/university_of_washington/&quot;&gt;University of Washington&lt;/a&gt;.</description>
+			<pubDate>Thu, 11 Jan 2024 01:44:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Joe/Dacca/2024-01-11 01:44:25</guid>
+		</item>
+		<item>
+			<title>👍Kiley Strong - Sr. Associate Athletic Director for Compliance, UW Athletics</title>
+			<description>Kiley Strong signed up to testify Pro. They are signed up to represent Sr. Associate Athletic Director for Compliance, UW Athletics.</description>
+			<pubDate>Thu, 11 Jan 2024 01:44:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kiley/Strong/2024-01-11 01:44:25</guid>
+		</item>
+		<item>
+			<title>👍Chris Mulick - Washington State University</title>
+			<description>Chris Mulick signed up to testify Pro. They are signed up to represent Washington State University.</description>
+			<pubDate>Mon, 15 Jan 2024 11:21:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Chris/Mulick/2024-01-15 11:21:30</guid>
 		</item>
 	</channel>
 </rss>

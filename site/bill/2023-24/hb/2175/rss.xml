@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2175/</link>
 		<description>Updates about HB 2175</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jan 2024 18:50:05 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,20 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Appropriations (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Appropriations.</title>
+			<description>First reading, referred to Appropriations.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>2024 Session Preview: Legislature convenes January 8 for short session - WSPTA</title>
+			<description>News article &quot;2024 Session Preview: Legislature convenes January 8 for short session - WSPTA&quot; from Washington St Pta.</description>
+			<pubDate>Mon, 08 Jan 2024 18:50:05 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/2024-session-preview/#:~:text=HB%202175</guid>
 		</item>
 	</channel>
 </rss>

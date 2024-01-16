@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5740/</link>
 		<description>Updates about SB 5740</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 05 Apr 2023 14:50:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -148,6 +148,13 @@
 			<pubDate>Wed, 05 Apr 2023 14:50:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_46349c9a-d3db-11ed-a7c3-6bcb7985790d.html#:~:text=Senate%20Bill%205740</guid>
+		</item>
+		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
 		</item>
 	</channel>
 </rss>

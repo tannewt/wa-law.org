@@ -40,6 +40,8 @@
 * ❓💵 Paul Jewell
 * ❓💵 Paul Jewell
 
+## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍1  
+
 ## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍1  
 
 ## [HB 1187](/bill/2023-24/hb/1187/) - Employee-union privilege  👎1 ❓1
@@ -143,7 +145,8 @@
 
 ## [HB 1645](/bill/2023-24/hb/1645/) - County legislative meetings 👍1  
 
-## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions  👎1 
+## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions  👎2 
+* 👎💵 Paul Jewell
 
 ## [HB 1670](/bill/2023-24/hb/1670/) - Property tax limit factor 👍1  
 * 👍💵 Paul Jewell
@@ -171,8 +174,55 @@
 * 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 
-## [HB 1932](/bill/2023-24/hb/1932/) - Shifting general elections for local governments to even-numbered years to increase voter participation.   ❓1
+## [HB 1900](/bill/2023-24/hb/1900/) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system.   ❓1
+* ❓💵 Travis Dutton
+
+## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections   ❓1
 * ❓💵 Mike Hoover
+
+## [HB 1933](/bill/2023-24/hb/1933/) - Supporting the servicing and right to repair of certain products with digital electronics in a secure and reliable manner. 👍1  
+
+## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍1  
+
+## [HB 1987](/bill/2023-24/hb/1987/) - Concerning the use of moneys from the rural public facilities sales and use tax for affordable workforce housing infrastructure and facilities. 👍2  
+
+## [HB 1990](/bill/2023-24/hb/1990/) - Aerial imagery program 👍1  
+* 👍💵 Mike Hoover
+
+## [HB 1998](/bill/2023-24/hb/1998/) - Co-living housing   ❓1
+* ❓💵 Paul Jewell
+
+## [HB 2008](/bill/2023-24/hb/2008/) - Housing cost task force 👍1  
+
+## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes.   ❓1
+* ❓💵 Travis Dutton
+
+## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions.   ❓1
+* ❓💵 Paul Jewell
+
+## [HB 2071](/bill/2023-24/hb/2071/) - Residential housing   ❓1
+* ❓💵 Paul Jewell
+
+## [HB 2105](/bill/2023-24/hb/2105/) - Instream resources   ❓1
+* ❓💵 Paul Jewell
+
+## [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element  👎1 
+* 👎💵 Paul Jewell
+
+## [HB 2117](/bill/2023-24/hb/2117/) - Aerial firefighting/permits 👍1  
+* 👍💵 Paul Jewell
+
+## [HB 2126](/bill/2023-24/hb/2126/) - Rural area ADUs 👍1  
+* 👍💵 Paul Jewell
+
+## [HB 2141](/bill/2023-24/hb/2141/) - Promoting affordable housing in unincorporated areas within urban growth areas of large counties. 👍1  
+* 👍💵 Paul Jewell
+
+## [HB 2211](/bill/2023-24/hb/2211/) - Criminal justice local tax   ❓1
+* ❓💵 Juliana Roe
+
+## [HB 2258](/bill/2023-24/hb/2258/) - Regional 911 funding  👎1 
+* 👎💵 Mike Hoover
 
 ## [SB 5027](/bill/2023-24/sb/5027/) - American dream homes 👍1  
 * 👍💵 Paul Jewell
@@ -188,6 +238,9 @@
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial 👍2  
 * 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
+
+## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
+* 👎💵 Mike Hoover
 
 ## [SB 5061](/bill/2023-24/sb/5061/) - Personnel records   ❓1
 * ❓💵 Mike Hoover
@@ -327,3 +380,25 @@
 
 ## [SB 5808](/bill/2023-24/sb/5808/) - Granting interest arbitration to certain public safety telecommunicators.   ❓1
 * ❓💵 Mike Hoover
+
+## [SB 5834](/bill/2023-24/sb/5834/) - Concerning urban growth areas. 👍1  
+* 👍💵 Paul Jewell
+
+## [SB 5844](/bill/2023-24/sb/5844/) - Dilapidated RV disposal   ❓1
+* ❓💵 Travis Dutton
+
+## [SB 5869](/bill/2023-24/sb/5869/) - Rural fire protection infra.   ❓1
+* ❓💵 Paul Jewell
+
+## [SB 5901](/bill/2023-24/sb/5901/) - Concerning co-living housing.   ❓1
+* ❓💵 Paul Jewell
+
+## [SB 6015](/bill/2023-24/sb/6015/) - Residential parking   ❓1
+* ❓💵 Paul Jewell
+
+## [SB 6016](/bill/2023-24/sb/6016/) - Green energy community fund 👍1  
+
+## [SB 6029](/bill/2023-24/sb/6029/) - Detached ADUs 👍1  
+* 👍💵 Paul Jewell
+
+## [SB 6206](/bill/2023-24/sb/6206/) - Water system receivership 👍1  

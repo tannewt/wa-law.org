@@ -9,6 +9,8 @@
 
 ## [HB 1745](/bill/2023-24/hb/1745/) - Diversity in clinical trials 👍2  
 
+## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
+
 ## [SB 5388](/bill/2023-24/sb/5388/) - Diversity in clinical trials 👍2  
 
 ## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍1  

@@ -11,16 +11,31 @@
 
 ## Meetings
 ### Fri 01/12 08:00 AM - Consumer Protection & Business (CPB): HB 1933 Digital electronics/repair
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31593&aId=156205&caId=22821&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31593&aId=156205&caId=22821&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31593&aId=156205&caId=22821&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31593&aId=156205&caId=22821&tId=4)
-
-#### 80 👍 - Pro
+#### 543 👍 - Pro
 Testifying:
 * Mitch Kramer - FiXCO Phone & Computer Repair
+* Kamil Zaidi - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* Eileen Aparis - Evergreen Goodwill
+* Kathleen Kannenberg
+* Aiden Rouhani - Shoreline School Board
+* Andrew Lee - Seattle Public Utilities
+* Marsha Cutting - Governor's Committee on Disabilities & Employment; The Washington Paralysis Network
+* Pam Clough - [Environment Washington](/org/environment_washington/)
+* Stacey Higginbothom - [Consumer Reports](/org/consumer_reports/)
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* 💵Patrick Connor - [National Federation of Independent Business](/org/national_federation_of_independent_business/)
+* Nathan Proctor - U.S. PIRG
+* Kathryn Dunn
 
-#### 0 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* Eric Wareham - North American Equipment Dealers Association
+* Ian Carey - RDO Equipment Co.
+* Bre Elsey - WA Farm Bureau
+* 💵Ashley Sutton - TechNet
+* 💵Rachel Fischer - National Marine Manufacturers Association
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* 💵Michael Transue - [Oregon Biosciences Association](/org/oregon_biosciences_association/)
+* 💵Darbi Gottlieb - AdvaMed

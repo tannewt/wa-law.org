@@ -11,23 +11,31 @@
 
 ## Meetings
 ### Tue 01/09 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1798 Earned release time
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31579&aId=156143&caId=22811&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31579&aId=156143&caId=22811&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31579&aId=156143&caId=22811&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31579&aId=156143&caId=22811&tId=4)
-
-#### 187 👍 - Pro
+#### 334 👍 - Pro
 Testifying:
 * Dory Crabbe
 * Candice Baughman
 * Melody Simle
 * 💵Chelsea Moore - ACLU
-* Emijah Smith
+* 💵Emijah Smith
 * Heather Kelly - League of Women Voters
 * Micaela Romero
 * Connie Crabbe
+* 💵Brooke Davies - [Justice Action Network](/org/justice_action_network/)
+* Whitney Westerfield - [Justice Action Network](/org/justice_action_network/)
+* Edgar Calixto - Green Hill
+* Marco Rodriguez
+* David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
+* Karen Peacey
+* Travis Comeslast
+* Trisha Newport - Washington State Department of Corrections
+* Yen Huynh - Washington State Department of Corrections
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Charles Longshore - Department of Corrections - Washington Corrections Center

@@ -7,4 +7,6 @@
 
 ## [HB 1476](/bill/2023-24/hb/1476/) - Impact fees/law enforcement 👍1  
 
+## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍1  
+
 ## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍1  

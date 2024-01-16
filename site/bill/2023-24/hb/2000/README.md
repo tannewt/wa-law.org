@@ -5,20 +5,22 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/10 01:30 PM - State Government & Tribal Relations (SGOV): HB 2000 International leadership
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31509&aId=156102&caId=22901&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31509&aId=156102&caId=22901&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31509&aId=156102&caId=22901&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31509&aId=156102&caId=22901&tId=4)
-
-#### 1 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Geoffrey Potter - Office of Governor Jay Inslee
+* James Rolph - The Lieutenant Governor's Office
+* Lydia Faitalia - Washington State Commission on Asian Pacific American Affairs
+* Karen Hanan - ArtsWA (WA State Arts Commission)
+* Sarah Clark - Seattle Metro Chamber
+* 💵Amy Anderson - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 👎 - Con
+#### 331 👎 - Con
+Testifying:
+* John Worthington
 
 #### 1 ❓ - Other
 Testifying:

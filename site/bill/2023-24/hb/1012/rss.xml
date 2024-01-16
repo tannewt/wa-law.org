@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1012/</link>
 		<description>Updates about HB 1012</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 23 Apr 2023 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 10 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -189,6 +189,20 @@
 			<pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-23/By resolution, returned to House Rules Committee for third reading.</guid>
+		</item>
+		<item>
+			<title>Speaker Jinkins: “Optimistic and determined” about 2024 Legislative Session – Washington State House Democrats</title>
+			<description>News article &quot;Speaker Jinkins: “Optimistic and determined” about 2024 Legislative Session – Washington State House Democrats&quot; from House Democrats.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/01/08/speaker-jinkins-optimistic-and-determined-about-2024-legislative-session/#:~:text=SHB%201012</guid>
+		</item>
+		<item>
+			<title>First reading, referred to State Government &amp; Elections.</title>
+			<description>First reading, referred to State Government &amp; Elections.</description>
+			<pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-10/First reading, referred to State Government &amp; Elections.</guid>
 		</item>
 	</channel>
 </rss>

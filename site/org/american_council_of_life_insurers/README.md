@@ -14,3 +14,5 @@
 
 ## [SB 5210](/bill/2023-24/sb/5210/) - Annuity transactions 👍1  
 * 👍 John Mangan
+
+## [SB 6027](/bill/2023-24/sb/6027/) - Insurance holding companies 👍1  

@@ -32,6 +32,9 @@
 
 ## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge  👎1 
 
+## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes.  👎1 
+* 👎 gary smith
+
 ## [SB 5061](/bill/2023-24/sb/5061/) - Personnel records  👎1 
 * 👎💵 James King
 
@@ -78,3 +81,6 @@
 ## [SB 5740](/bill/2023-24/sb/5740/) - Catalytic converter theft  👎2 
 * 👎💵 James King
 * 👎💵 James King
+
+## [SB 5844](/bill/2023-24/sb/5844/) - Dilapidated RV disposal   ❓1
+* ❓💵 Gary Smith

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2048/</link>
 		<description>Updates about HB 2048</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 11 Jan 2024 10:30:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,21 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Community Safety, Justice, &amp; Reentry (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Community Safety, Justice, &amp; Reentry.</title>
+			<description>First reading, referred to Community Safety, Justice, &amp; Reentry.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Community Safety, Justice, &amp; Reentry.</guid>
+		</item>
+		<item>
+			<title>👍David Martin - KCPAO</title>
+			<description>David Martin signed up to testify Pro. They are signed up to represent KCPAO.</description>
+			<pubDate>Thu, 11 Jan 2024 10:30:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/David/Martin/2024-01-11 10:30:32</guid>
 		</item>
 	</channel>
 </rss>

@@ -49,6 +49,14 @@
 ## [HB 1850](/bill/2023-24/hb/1850/) - Hospital safety net program   ❓1
 * ❓ Sam Hatzenbeler
 
+## [HB 1895](/bill/2023-24/hb/1895/) - Modifying the working families' tax credit by clarifying the refundable nature of the credit, the application requirements, and the eligibility verification process. 👍1  
+
+## [HB 1905](/bill/2023-24/hb/1905/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
+* 👍💵 Gabriela Quintana
+
+## [HB 2102](/bill/2023-24/hb/2102/) - PFML benefits/health info. 👍1  
+* 👍💵 Gabriela Quintana
+
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍2  
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
@@ -88,3 +96,8 @@
 
 ## [SB 5712](/bill/2023-24/sb/5712/) - College grant/promise prg. 👍1  
 * 👍💵 Carolyn Brotherton
+
+## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave 👍1  
+* 👍💵 Gabriela Quintana
+
+## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  

@@ -1,0 +1,155 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 2207](/bill/2023-24/hb/2207/) > [Original Bill](/bill/2023-24/hb/2207/1/)
+
+# HB 2207 - Solid waste dumping
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/2207.pdf)
+
+## Section 1
+1. The legislature finds that, despite a modern waste disposal infrastructure, the occurrences of unlawful solid waste dumping are an increasing problem on open spaces such as privately and publicly owned forestlands. This irresponsible waste dumping, which often includes hazardous materials, asbestos, derelict boats, junk vehicles, appliances, furniture, and household garbage not only creates significant costs for the landowner, but also creates immediate, and sometimes lasting, environmental and habitat damage and degradation of recreational and aesthetic opportunities.
+
+2. The legislature further finds that the current enforcement system, which relies on the criminalization of illegal dumping, may not be the most effective, efficient, or just penalty system. Converting illegal dumping from a criminal act to a civil infraction creates a system of deterrence and penalties that better reflects the magnitude of the act, avoids criminal records for individuals who may be unable to afford appropriate waste management options, and reduces the burden on local criminal justice systems and infrastructures.
+
+3. The legislature further finds that appropriate waste disposal can create a financial barrier for some individuals. In an effort to divert illegal dumping, a portion of the existing litter cleanup restitution payment should be diverted from direct payments to landowners to funding efforts to mitigate the costs of proper disposal, restitution, or environmental damages.
+
+4. The legislature further finds that landowners often discover derelict and abandoned maritime vessels on forestlands and other upland areas. These vessels often create an environmental hazard and always create a significant disposal cost for the landowner. The department of natural resources has administered a successful and legally tested vessel removal program for two decades. However, that program is limited to vessels found on or above aquatic lands. New or expanded tools are required for vessel owners avoiding the penalties inherent in the existing derelict vessel program by unlawfully disposing of their vessels on dry land.
+
+## Section 2
+1. It is a violation of this section to :
+
+    a. Abandon a junk vehicle upon any property;
+
+    b. Throw, drop, deposit, discard, or otherwise dispose of litter upon any public property in the state or upon private property in this state not owned by him or her or in the waters of this state whether from a vehicle or otherwise including but not limited to any public highway, public park, beach, campground, forestland, recreational area, trailer park, highway, road, street, or alley except:
+
+        i. When the property is designated by the state or its agencies or political subdivisions for the disposal of garbage and refuse, and the person is authorized to use such property for that purpose;
+
+        ii. Into a litter receptacle in a manner that will prevent litter from being carried away or deposited by the elements upon any part of the private or public property or waters.
+
+2. Except as provided in subsection (7) of this section, it is a class 3 civil infraction as provided in RCW 7.80.120 for a person to litter in an amount less than or equal to 50 pounds.
+
+3. It is a natural resource infraction under chapter 7.84 RCW for a person to litter in an amount greater than 50 pounds.
+
+4. [Empty]
+
+    a. A person found liable under this section shall, in addition to the penalties provided in RCW 7.84.100, also pay a litter cleanup restitution payment equal to four times the actual cost of cleanup. The court shall distribute one-half of the restitution payment to the waste reduction, recycling, and litter control account created in RCW 70A.200.140 and one-half of the restitution payment to the law enforcement agency investigating the incident.
+
+    b. The court may, in addition to or in lieu of part or all of the cleanup restitution payment, order the person to pick up and remove litter from the property, with prior permission of the legal owner or, in the case of public property, of the agency managing the property.
+
+    c. The court may suspend or modify the litter cleanup restitution payment for a first-time offender under this section, if the person cleans up and properly disposes of the litter.
+
+5. If a junk vehicle is abandoned in violation of this section, RCW 46.55.230 governs the vehicle's removal, disposal, and sale, and the penalties that may be imposed against the person who abandoned the vehicle.
+
+6. If the violation occurs in a state park, the court shall, in addition to any other penalties assessed, order the person to perform 24 hours of community restitution in the state park where the violation occurred if the state park has stated an intent to participate as provided in RCW 79A.05.050.
+
+7. It is a class 1 civil infraction as provided in RCW 7.80.120 for a person to discard, in violation of this section, potentially dangerous litter in any amount.
+
+## Section 3
+1. A person found to have committed an infraction shall be assessed a monetary penalty. No penalty may exceed $500 for each offense unless specifically authorized by statute.
+
+2. The supreme court may prescribe by rule a schedule of monetary penalties for designated infractions. The legislature requests the supreme court to adjust this schedule every two years for inflation. Except as otherwise provided, the maximum penalty imposed by the schedule shall be $500 per infraction and the minimum penalty imposed by the schedule shall be $10 per infraction. This schedule may be periodically reviewed by the legislature and is subject to its revision.
+
+3. Penalties for violations of RCW 70A.200.060 are as follows:
+
+    a. Up to $250 for a person found liable of littering less than 500 pounds of material;
+
+    b. Up to $750 for a person found liable of littering more than 500 pounds and less than 1,000 pounds of material;
+
+    c. Up to $1,000 for a person found liable of littering more than 1,000 pounds of material.
+
+4. Whenever a monetary penalty is imposed by a court under this chapter, it is immediately payable. If the person is unable to pay at that time, the court may, in its discretion, grant an extension of the period in which the penalty may be paid.
+
+5. [Empty]
+
+    a. The county treasurer shall remit 75 percent of the money received under RCW 79A.80.080(5) to the state treasurer.
+
+    b. Money remitted under this subsection to the state treasurer must be deposited in the recreation access pass account established under RCW 79A.80.090. The balance of the noninterest money received by the county treasurer must be deposited in the county current expense fund.
+
+## Section 4
+1. There is hereby created an account within the state treasury to be known as the waste reduction, recycling, and litter control account. Moneys in the account may be spent only after appropriation. Expenditures from the waste reduction, recycling, and litter control account shall be used as follows:
+
+    a. 40 percent of receipts from taxes imposed in RCW 82.19.010 to the department of ecology, primarily for use by the departments of ecology, natural resources, revenue, transportation, and corrections, and the parks and recreation commission, for litter collection programs under RCW 70A.200.170. The amount to the department of ecology shall also be used for a central coordination function for litter control efforts statewide; to support employment of youth in litter cleanup as intended in RCW 70A.200.020, and for litter pick up using other authorized agencies; and for statewide public awareness programs under RCW 70A.200.150(7). The amount to the department shall also be used to defray the costs of administering the funding, coordination, and oversight of local government programs for waste reduction, litter control, recycling, and composting so that local governments can apply one hundred percent of their funding to achieving program goals. The amount to the department of revenue shall be used to enforce compliance with the litter tax imposed in chapter 82.19 RCW;
+
+    b. [Empty]
+
+        i. 20 percent of receipts from taxes imposed in RCW 82.19.010 to the department for local government funding programs for waste reduction, litter control, recycling activities, and composting activities by cities and counties under RCW 70A.200.190, to be administered by the department of ecology; (ii) any unspent funds under (b)(i) of this subsection may be used to create and pay for a matching fund competitive grant program to be used by local governments for the development and implementation of contamination reduction and outreach plans for inclusion in comprehensive solid waste management plans or by local governments and nonprofit organizations for local or statewide education programs designed to help the public with litter control, waste reduction, recycling, and composting of primarily the products taxed under chapter 82.19 RCW. Recipients under this subsection include programs to reduce wasted food and food waste that are designed to achieve the goals established in RCW 70A.205.715(1) and that are consistent with the plan developed in RCW 70A.205.715(3). Grants must adhere to the following requirements: (A) No grant may exceed $60,000; (B) grant recipients shall match the grant funding allocated by the department by an amount equal to 25 percent of eligible expenses. A local government's share of these costs may be met by cash or contributed services; (C) the obligation of the department to make grant payments is contingent upon the availability of the amount of money appropriated for this subsection (1)(b); and (D) grants are managed under the guidelines for existing grant programs;
+
+    c. 40 percent of receipts from taxes imposed in RCW 82.19.010 to the department of ecology to: (i) Implement activities under RCW 70A.200.150 for waste reduction, recycling, and composting efforts; (ii) provide technical assistance to local governments and commercial businesses to increase recycling markets and recycling and composting programs primarily for the products taxed under chapter 82.19 RCW designed to educate citizens about waste reduction, litter control, and recyclable and compostable products and programs; (iii) increase access to waste reduction, composting, and recycling programs, particularly for food packaging and plastic bags and appropriate composting techniques; and (iv) for programs to reduce wasted food and food waste that are designed to achieve the goals established in RCW 70A.205.715(1) and that are consistent with the plan developed in RCW 70A.205.715(3); and
+
+    d. 100 percent of receipts from litter cleanup restitution payments as provided in RCW 70A.200.060(4), in addition to any legislative appropriations made to the account for these specific purposes, to the department of ecology to award grants to local governments or nonprofit organizations designed to reduce illegal dumping on public or private forestlands or other open spaces. The grants must be awarded for project descriptions aimed at reducing outdoor dumping or reducing the cost of legal waste disposal, such as education campaigns, free or reduced-cost collection days, income-based waste disposal coupons or vouchers, communication and funding partnerships with other entities such as landowners or collection companies, funding emphasis enforcement, funding information rewards, mitigation money to assist landowners with removing large items or a substantial quantity of illegally dumped material, and other measures reasonably targeted at reducing illegal dumping. The department may implement this subsection (1)(d) by including any funding and activities in existing or related programs managed by the department.
+
+2. All taxes imposed in RCW 82.19.010 and fines and bail forfeitures collected or received pursuant to this chapter shall be deposited in the waste reduction, recycling, and litter control account and used for the programs under subsection (1) of this section.
+
+3. Not less than five percent and no more than 10 percent of the amount appropriated into the waste reduction, recycling, and litter control account every biennium shall be reserved for capital needs, including the purchase of vehicles for transporting crews and for collecting litter and solid waste. Capital funds shall be distributed among state agencies and local governments according to the same criteria provided in RCW 70A.200.170 for the remainder of the funds, so that the most effective waste reduction, litter control, recycling, and composting programs receive the most funding. The intent of this subsection is to provide funds for the purchase of equipment that will enable the department to account for the greatest return on investment in terms of reaching a zero litter goal.
+
+4. Funds in the waste reduction, recycling, and litter control account, collected under chapter 82.19 RCW, must be prioritized for the products identified under RCW 82.19.020 solely for the purposes of recycling, composting, and litter collection, reduction, and control programs.
+
+5. During the 2021-2023 fiscal biennium, Washington State University may use funds in the waste reduction, recycling, and litter control account, collected under chapter 82.19 RCW, to conduct an organic waste study.
+
+6. During the 2021-2023 fiscal biennium, and as an exception to the distribution of expenditures otherwise required in this section, the department of ecology may use funds in the waste reduction, recycling, and litter control account to continue a series of food waste reduction campaigns, to continue to invest in litter prevention campaigns, to conduct a recycling study, and to increase litter control on state highways.
+
+## Section 5
+1. The model toxics control operating account is hereby created in the state treasury.
+
+2. Moneys in the model toxics control operating account must be used only to carry out the purposes of this chapter, including but not limited to the following:
+
+    a. The state's responsibility for hazardous waste planning, management, regulation, enforcement, technical assistance, and public education required under chapter 70A.300 RCW;
+
+    b. The state's responsibility for solid waste planning, management, regulation, enforcement, technical assistance, and public education required under chapter 70A.205 RCW;
+
+    c. The hazardous waste clean-up program required under this chapter;
+
+    d. State matching funds required under federal cleanup law;
+
+    e. Financial assistance for local programs and plans, including local solid waste financial assistance, in accordance with chapters 70A.405, 70A.205, 70A.214, 70A.224, and 70A.300 RCW;
+
+    f. State government programs for the safe reduction, recycling, or disposal of paint and hazardous wastes from households, small businesses, and agriculture;
+
+    g. Oil and hazardous materials spill prevention, preparedness, training, and response activities;
+
+    h. Water and environmental health protection and monitoring programs;
+
+        i. Programs authorized under chapter 70A.135 RCW;
+
+    j. A public participation program;
+
+    k. Development and demonstration of alternative management technologies designed to carry out the hazardous waste management priorities of RCW 70A.300.260;
+
+    l. State agriculture and health programs for the safe use, reduction, recycling, or disposal of pesticides;
+
+    m. Funding requirements to maintain receipt of federal funds under the federal solid waste disposal act (42 U.S.C. Sec. 6901 et seq.);
+
+    n. Air quality programs and actions for reducing public exposure to toxic air pollution;
+
+    o. Petroleum-based plastic or expanded polystyrene foam debris clean-up activities in fresh or marine waters; and
+
+    p. For the 2021-2023 fiscal biennium, and solely to continue the policy of previous biennia, forest practices at the department of natural resources.
+
+3. Except for unanticipated receipts under RCW 43.79.260 through 43.79.282, moneys in model toxics control operating account may be spent only after appropriation by statute.
+
+4. [Empty]
+
+    a. One percent of the moneys collected under RCW 82.21.030 must be allocated only for public participation grants to persons who may be adversely affected by a release or threatened release of a hazardous substance and to not-for-profit public interest organizations. The primary purpose of these grants is to facilitate the participation by persons and organizations in the investigation and remedying of releases or threatened releases of hazardous substances and to implement the state's solid and hazardous waste management priorities. No grant may exceed $60,000. Grants may be renewed annually. Moneys appropriated for public participation that are not expended at the close of any biennium revert to the model toxics control operating account.
+
+    b. For the 2025-2027 and 2027-2029 fiscal bienniums only, an additional 0.25 percent of the moneys collected under RCW 82.21.030 must be used for public participation grants that focus on public education efforts in rural, forested communities targeted at reducing illegal dumping of hazardous materials or petroleum-containing products on public and private forestland.
+
+5. The department must adopt rules for grant or loan issuance and performance.
+
+6. During the 2023-2025 fiscal biennium, the legislature may direct the state treasurer to make transfers of moneys in the model toxics control operating account to the state general fund.
+
+## Section 6
+1. Until June 30, 2029, the department shall operate a terrestrial derelict vessel removal pilot project focused on removing vessels that are illegally dumped and found derelict in areas other than above aquatic lands. All authorities and responsibilities as provided in this chapter apply to vessels identified by the department for inclusion in the pilot project.
+
+2. By January 1, 2028, the department shall issue a report to the legislature, consistent with RCW 43.01.036, that details total vessels removed under the pilot project, identifies limitations discovered in the implementation of the pilot project, and makes a recommendation as to whether to continue, expand, or modify the pilot project.
+
+## Section 7
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+## Section 8
+1. An authorized public entity has the authority, subject to the processes and limitations of this chapter, to store, strip, use, auction, sell, salvage, scrap, or dispose of an abandoned or derelict vessel found on or above aquatic lands within the jurisdiction of the authorized public entity or, for the purposes of the pilot project established in section 6 of this act, on terrestrial lands within the jurisdiction of the authorized public entity. A vessel disposal must be done in an environmentally sound manner and in accordance with all federal, state, and local laws, including the state solid waste disposal provisions provided for in chapter 70A.205 RCW. Scuttling or sinking of a vessel is only permissible after obtaining the express permission of the owner or owners of the aquatic lands below where the scuttling or sinking would occur, and obtaining all necessary state and federal permits or licenses.
+
+2. [Empty]
+
+    a. The primary responsibility to remove a derelict or abandoned vessel belongs to the owner, operator, or lessee of the moorage facility or the aquatic lands where the vessel is located. If the authorized public entity with the primary responsibility is unwilling or unable to exercise the authority granted by this section, it may request the department to assume the authorized public entity's authority for a particular vessel. The department may at its discretion assume the authorized public entity's authority for a particular vessel after being requested to do so.
+
+    b. For vessels not at a moorage facility, an authorized public entity with jurisdiction over the aquatic lands where the vessel is located or, for the purposes of the pilot project established in section 6 of this act, terrestrial lands where a derelict vessel is located may, at its discretion, request to assume primary responsibility for that particular vessel from the owner of the aquatic or terrestrial lands where the vessel is located.
+
+3. The authority granted by this chapter is permissive, and no authorized public entity has a duty to exercise the authority. No liability attaches to an authorized public entity that chooses not to exercise this authority. An authorized public entity, in the good faith performance of the actions authorized under this chapter, is not liable for civil damages resulting from any act or omission in the performance of the actions other than acts or omissions constituting gross negligence or willful or wanton misconduct. Any person whose assistance has been requested by an authorized public entity, who has entered into a written agreement pursuant to RCW 79.100.070, and who, in good faith, renders assistance or advice with respect to activities conducted by an authorized public entity pursuant to this chapter, is not liable for civil damages resulting from any act or omission in the rendering of the assistance or advice, other than acts or omissions constituting gross negligence or willful or wanton misconduct.

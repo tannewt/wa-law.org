@@ -1,5 +1,7 @@
 # Puget Sound Advocates for Retirement Action
 
+## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
+
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
@@ -27,6 +29,20 @@
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍4  
+
+## [HB 1859](/bill/2023-24/hb/1859/) - Concerning the rights of residents in long-term care facilities. 👍1  
+
+## [HB 1893](/bill/2023-24/hb/1893/) - Unemp ins/strikes & lockouts 👍1  
+
+## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes. 👍1  
+
+## [HB 2102](/bill/2023-24/hb/2102/) - PFML benefits/health info. 👍1  
+
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+
+## [HB 2188](/bill/2023-24/hb/2188/) - Health subsidy/retirees 👍1  
+
+## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 
@@ -61,4 +77,10 @@
 
 ## [SB 5768](/bill/2023-24/sb/5768/) - DOC/abortion medications 👍1  
 
-## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍1  
+## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave 👍1  
+
+## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
+
+## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍2  
+
+## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍1  

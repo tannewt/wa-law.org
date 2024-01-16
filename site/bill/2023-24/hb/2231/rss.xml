@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2231 - Law enforcement funding</title>
+		<link>https://wa-law.org/bill/2023-24/hb/2231/</link>
+		<description>Updates about HB 2231</description>
+		<language>en-US</language>
+		<lastBuildDate>Mon, 15 Jan 2024 11:11:40 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Local Government.</title>
+			<description>First reading, referred to Local Government.</description>
+			<pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-09/First reading, referred to Local Government.</guid>
+		</item>
+		<item>
+			<title>👍💵Lindsey Hueer - Association of Washington Cities</title>
+			<description>Lindsey Hueer signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/association_of_washington_cities/&quot;&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Thu, 11 Jan 2024 11:32:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lindsey/Hueer/2024-01-11 11:32:26</guid>
+		</item>
+		<item>
+			<title>👍Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs</title>
+			<description>Jeff DeVere signed up to testify Pro. They are signed up to represent WACOPS - Washington Council of Police and Sheriffs.</description>
+			<pubDate>Sat, 13 Jan 2024 02:51:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jeff/DeVere/2024-01-13 02:51:15</guid>
+		</item>
+		<item>
+			<title>👍Scott Engle - Puyallup Police Dept</title>
+			<description>Scott Engle signed up to testify Pro. They are signed up to represent Puyallup Police Dept.</description>
+			<pubDate>Mon, 15 Jan 2024 11:11:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Scott/Engle/2024-01-15 11:11:40</guid>
+		</item>
+		<item>
+			<title>👍Steve Strachan - WA Assn of Sheriffs and Police Chiefs</title>
+			<description>Steve Strachan signed up to testify Pro. They are signed up to represent WA Assn of Sheriffs and Police Chiefs.</description>
+			<pubDate>Mon, 15 Jan 2024 11:11:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Steve/Strachan/2024-01-15 11:11:40</guid>
+		</item>
+	</channel>
+</rss>

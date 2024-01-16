@@ -8,7 +8,11 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/15/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/15/the-house-hot-sheet-for-week-2-of-the-2024-legislative-session/#:~:text=SHB%201368)
+* 01/11/2024 [House Democrats](/org/house_democrats/) - [Senn Bill to Electrify School Buses Receives Early Hearing  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/11/senn-bill-to-electrify-school-buses-receives-early-hearing/#:~:text=House%20Bill%201368)
+* 01/08/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Session Preview: Legislature convenes January 8 for short session - WSPTA](https://www.wastatepta.org/2024-session-preview/#:~:text=SHB%201368)
 * 01/08/2024 [The Seattle Times](/org/the_seattle_times/) - [From a state clam to car tab discounts, lawmakers’ agenda takes shape | The Seattle Times](https://www.seattletimes.com/seattle-news/environment/from-a-state-clam-to-car-tab-discounts-lawmakers-agenda-takes-shape/#:~:text=House%20Bill%201368)
+* 01/08/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/08/the-house-hot-sheet-for-week-1-of-the-2024-legislative-session/#:~:text=SHB%201368)
 * 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%201368)
 * 02/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB%201368)
 * 02/13/2023 [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=HB%201368)
@@ -18,17 +22,45 @@
 
 ## Meetings
 ### Thu 01/11 04:00 PM - Appropriations (APP): SHB 1368 Zero emission school buses
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31524&aId=155941&caId=22799&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31524&aId=155941&caId=22799&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31524&aId=155941&caId=22799&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31524&aId=155941&caId=22799&tId=4)
+#### 417 👍 - Pro
+Testifying:
+* Alexandra Perkins
+* 💵Carolyn Logue - WA State Student Transportation Coalition
+* Moa Valentin
+* Alona Steinke
+* Jon Holmen - Lake Washington School District
+* Elizah DeMartini
+* Aliya Murphy
+* Brigid Bennett
+* Cassia Colombara
+* Sarah Lo
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* 💵Nicole Grant - IBEW Local 46
+* Greg Newman - First Student, Inc.
+* Devon Kellogg - WSPTA
+* Cynthia Stewart - League of Women Voters of WA, Transportation
+* Molly Spiller - Washington State Department of Ecology
+* Wes Stewart - Sierra Club Washington
+* 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 
-#### 39 👍 - Pro
+#### 318 👎 - Con
+Testifying:
+* Mary Long - Conservative Ladies of Washington
+* Nicole Daltoso - Evergreen Public School
+* Sharon Damoff
+* Trish Huddleston
+* Robert Bowman - Naches Valley School District
+* Travis Hanson - Mead School District
+* Paul Marquardt - Bethel Schools
+* Jim Kowalkowski - Rural Education Center
+* Art Rodriguez - Yakima School District - Tranportation Director
 
-#### 175 👎 - Con
-
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* 💵Mike Hoover - Washington State School Directors’ Association (WSSDA)
+* Kyle Hood - Tahoma School District
+* BELLE TROMP - Snoqualmie Valley School District
+* Tyler Muench - Office of Superintendent of Public Instruction
 
 ### Tue 02/07 04:00 PM - Environment & Energy (ENVI): HB 1368 Zero emission school buses
 #### 64 👍 - Pro

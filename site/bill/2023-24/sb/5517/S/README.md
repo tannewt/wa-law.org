@@ -1,0 +1,178 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5517](/bill/2023-24/sb/5517/) > [Substitute Bill](/bill/2023-24/sb/5517/S/)
+
+# SB 5517 - Water resource mitigation
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Senate%20Bills/5517-S.pdf)
+
+## Section 1
+1. The rights to appropriate the surface waters of the state and the rights acquired by the appropriation and use of surface waters shall not be affected or impaired by any of the provisions of this supplementary chapter and, to the extent that any underground water is part of or tributary to the source of any surface stream or lake, or that the withdrawal of groundwater may affect the flow of any spring, water course, lake, or other body of surface water, the right of an appropriator and owner of surface water shall be superior to any subsequent right hereby authorized to be acquired in or to groundwater.
+
+2. Hydraulic continuity between groundwater and a surface water source with unmet minimum flows or that is closed to further appropriation is not, in and of itself, a basis on which to deny an application to withdraw groundwater.
+
+3. When the department considers a proposed appropriation of public groundwater, it must determine whether such a groundwater withdrawal would impair surface water rights or adversely affect surface water sources closed to further appropriations, utilizing the procedures and standards in this act.
+
+4. If the department relies on a groundwater model in considering a proposed appropriation of public groundwater, the creation and use of the model must comply with the provisions of RCW 90.44.060 and the rule adopted by the department under section 4 of this act.
+
+5. If the department determines that any proposed groundwater withdrawal would impair a minimum surface water flow or level set by rule or adversely affect a surface water source closed to further appropriation, the department may authorize such a groundwater withdrawal in reliance upon water resource mitigation measures under the following mitigation sequence:
+
+    a. Avoiding impacts by: (i) Complying with mitigation required in adopted rules that set forth minimum flows, levels, or closures; or (ii) making the groundwater withdrawal subject to applicable minimum flows or levels;
+
+    b. Where avoidance of adverse impacts is not reasonably attainable, minimizing impacts by providing permanent replacement water supply resulting in no net annual increase in the quantity of water withdrawn from the surface water body and no net detrimental impacts to fish and related aquatic resources;
+
+    c. Where avoidance and minimization are not reasonably attainable, compensating for adverse impacts by providing in-kind or out-of-kind mitigation that improves the function and productivity of affected fish populations and related aquatic habitat in the water resource inventory area. Out-of-kind mitigation may include instream or out-of-stream measures that improve or enhance existing water quality, riparian habitat, or other instream functions and values for which minimum instream flows or closures were established in the water resource inventory area. Out-of-kind mitigation must be considered when the options identified in this subsection (5)(c), including reasonable conservation measures, have been implemented, or there is a capital plan approved to implement conservation measures; or
+
+    d. As an alternative to providing mitigation under (c) of this subsection, the applicant may agree to participate in a fee in lieu of mitigation program within the area where adverse impacts to adopted state instream flows have been identified. The department, in collaboration with the applicant, the department of fish and wildlife, and tribes, may develop a mitigation agreement through which the applicant agrees to provide funding for mitigation measures to be implemented.
+
+6. If an applicant is defined as a municipal water supplier under RCW 90.03.015 and proposes mitigation under subsection (5)(b) or (c) of this section, prior to the department's evaluation the applicant shall obtain a determination from the department of health that the water system for which additional water rights are being sought is in compliance with or is exercising appropriate effort to achieve all applicable water conservation requirements under RCW 70A.125.170 and rules adopted by the department of health.
+
+7. The mitigation sequence in subsection (5) of this section applies to mitigation relating to minimum surface water flows or levels set by rule or of a surface water source closed to further appropriation. Nothing in this section is intended to affect or modify impairment or mitigation standards for impacts to appropriative water rights.
+
+## Section 2
+1. Whenever an application for a permit to make beneficial use of public waters is approved relating to a stream or other water body for which minimum flows or levels have been adopted and are in effect at the time of approval, the permit shall be conditioned to: (a) Protect the levels or flows;  (b) require water resource mitigation of impacts to instream flows and closed surface water bodies for water resource mitigation pilot projects authorized under RCW 90.94.090; or (c) require water resource mitigation of impacts to instream flows or closed surface water bodies under the procedures and standards in RCW 90.44.030.
+
+2. No agency may establish minimum flows and levels or similar water flow or level restrictions for any stream or lake of the state other than the department of ecology whose authority to establish is exclusive, as provided in this chapter  and RCW 90.22.010 and 90.54.040. The provisions of other statutes, including but not limited to chapter 43.21C RCW, may not be interpreted in a manner that is inconsistent with this section. In establishing such minimum flows, levels, or similar restrictions, the department shall, during all stages of development by the department of ecology of minimum flow proposals, consult with, and carefully consider the recommendations of, the department of fish and wildlife, the department of commerce, the department of agriculture, and representatives of the affected Indian tribes. Nothing herein shall preclude the department of fish and wildlife, the department of commerce, or the department of agriculture from presenting its views on minimum flow needs at any public hearing or to any person or agency, and the department of fish and wildlife, the department of commerce, and the department of agriculture are each empowered to participate in proceedings of the federal energy regulatory commission and other agencies to present its views on minimum flow needs.
+
+## Section 3
+1. Applications for permits for appropriation of underground water shall be made in the same form and manner provided in RCW 90.03.250 through 90.03.340, as amended, the provisions of which sections are hereby extended to govern and to apply to groundwater, or groundwater right certificates and to all permits that shall be issued pursuant to such applications, and the rights to the withdrawal of groundwater acquired thereby shall be governed by RCW 90.03.250 through 90.03.340, inclusive: PROVIDED, That each application to withdraw public groundwater by means of a well or wells shall set forth the following additional information:
+
+    a. The name and post office address of the applicant;
+
+    b. The name and post office address of the owner of the land on which such well or wells or works will be located;
+
+    c. The location of the proposed well or wells or other works for the proposed withdrawal;
+
+    d. The groundwater area, sub-area, or zone from which withdrawal is proposed, provided the department has designated such area, sub-area, or zone in accord with RCW 90.44.130;
+
+    e. The amount of water proposed to be withdrawn, in gallons a minute and in acre feet a year, or millions of gallons a year;
+
+    f. The depth and type of construction proposed for the well or wells or other works; and
+
+    g. The new, existing, or modified groundwater model, if any, proposed for evaluating the effects of the proposed withdrawal on surface water flows and levels: AND PROVIDED FURTHER, That any permit issued pursuant to an application for constructing a well or wells to withdraw public groundwater may specify an approved type and manner of construction for the purposes of preventing waste of said public waters and of conserving their head.
+
+2. The department shall consider the use of new analytical or numerical models in the groundwater application process under the rule adopted pursuant to section 4 of this act.
+
+3. Before the department uses an existing regional groundwater model for predicting the effects of a proposed groundwater withdrawal on surface water flows and levels, the department shall review the model and determine that the model's:
+
+    a. Boundaries, vertical and horizontal discretization, scope, and purpose are suitable for determining the effects of the proposed withdrawal on surface water flows and levels; and
+
+    b. Accuracy for its intended use, which may be defined as the model's margin of error, is clearly identified by the model creator or a licensed hydrogeologist familiar with the model.
+
+4. The department's determination of model suitability must be included in any preliminary permit issued under RCW 90.03.290(2) and must reflect any model revisions proposed on behalf of the applicant by a licensed hydrogeologist in order to make an existing regional groundwater model perform in a scientifically suitable manner for evaluation of the proposed withdrawals.
+
+5. A modeled effect on surface water shall not be considered an impairment of a minimum instream flow set by rule or an adverse impact to a surface water source closed to further appropriation if the modeled effect is within the model's uncertainty or margin of error.
+
+## Section 4
+1. The department shall adopt a rule establishing requirements for the creation, modification, and use of groundwater models used in groundwater application decisions. The rule must incorporate the standard that a modeled effect on surface water may not be considered an impairment of a minimum instream flow set by rule or an adverse impact to a surface water source closed to further appropriation if it is within the model uncertainty or its margin of error. The rule must include:
+
+    a. A list of alternative model types and their appropriate hydrogeologic settings;
+
+    b. Guidance on the use and application of various types of modeling applications and calculation of margin of error;
+
+    c. Professional license and experience requirements for modelers;
+
+    d. A process for public input and transparency for the creation and application of models through the posting of preliminary permit decisions on the department's website in the same manner as draft and final reports of examination.
+
+2. As part of the rule-making process, the department shall convene a technical advisory committee. The technical advisory committee consists of individuals with expertise in developing and applying groundwater models in the water right permitting and mitigation process. A majority of the members of the technical advisory committee must be licensed hydrogeologists employed by firms that are on the department's list of prequalified firms for cost-reimbursement work under RCW 90.03.265.
+
+## Section 5
+1. It is the intent of the legislature that the department establish water use efficiency requirements designed to ensure efficient use of water while maintaining water system financial viability, improving affordability of supplies, and enhancing system reliability.
+
+2. The requirements of this section shall apply to all municipal water suppliers and shall be tailored to be appropriate to system size, forecasted system demand, and system supply characteristics.
+
+3. For the purposes of this section:
+
+    a. Water use efficiency includes conservation planning requirements, water distribution system leakage standards, and water conservation performance reporting requirements; and
+
+    b. "Municipal water supplier" and "municipal water supply purposes" have the meanings provided by RCW 90.03.015.
+
+4. To accomplish the purposes of this section, the department shall adopt rules necessary to implement this section by December 31, 2005. The department shall:
+
+    a. Develop conservation planning requirements that ensure municipal water suppliers are: (i) Implementing programs to integrate conservation with water system operation and management; and (ii) identifying how to appropriately fund and implement conservation activities. Requirements shall apply to the conservation element of water system plans and small water system management programs developed pursuant to chapter 43.20 RCW. In establishing the conservation planning requirements the department shall review the current department conservation planning guidelines and include those elements that are appropriate for rule. Conservation planning requirements shall include but not be limited to:
+
+(A) Selection of cost-effective measures to achieve a system's water conservation objectives. Requirements shall allow the municipal water supplier to select and schedule implementation of the best methods for achieving its conservation objectives;
+
+(B) Evaluation of the feasibility of adopting and implementing water delivery rate structures that encourage water conservation;
+
+(C) Evaluation of each system's water distribution system leakage and, if necessary, identification of steps necessary for achieving water distribution system leakage standards developed under (b) of this subsection;
+
+(D) Collection and reporting of water consumption and source production and/or water purchase data. Data collection and reporting requirements shall be sufficient to identify water use patterns among utility customer classes, where applicable, and evaluate the effectiveness of each system's conservation program. Requirements, including reporting frequency, shall be appropriate to system size and complexity. Reports shall be available to the public; and
+
+(E) Establishment of minimum requirements for water demand forecast methodologies such that demand forecasts prepared by municipal water suppliers are sufficient for use in determining reasonably anticipated future water needs;
+
+    b. Develop water distribution system leakage standards to ensure that municipal water suppliers are taking appropriate steps to reduce water system leakage rates or are maintaining their water distribution systems in a condition that results in leakage rates in compliance with the standards. Limits shall be developed in terms of percentage of total water produced and/or purchased and shall not be lower than ten percent. The department may consider alternatives to the percentage of total water supplied where alternatives provide a better evaluation of the water system's leakage performance. The department shall institute a graduated system of requirements based on levels of water system leakage. A municipal water supplier shall select one or more control methods appropriate for addressing leakage in its water system;
+
+    c. Establish minimum requirements for water conservation performance reporting to assure that municipal water suppliers are regularly evaluating and reporting their water conservation performance. The objective of setting conservation goals is to enhance the efficient use of water by the water system customers. Performance reporting shall include:
+
+        i. Requirements that municipal water suppliers adopt and achieve water conservation goals. The elected governing board or governing body of the water system shall set water conservation goals for the system. In setting water conservation goals the water supplier may consider historic conservation performance and conservation investment, customer base demographics, regional climate variations, forecasted demand and system supply characteristics, system financial viability, system reliability, and affordability of water rates. Conservation goals shall be established by the municipal water supplier in an open public forum;
+
+        ii. Requirements that the municipal water supplier adopt schedules for implementing conservation program elements and achieving conservation goals to ensure that progress is being made toward adopted conservation goals;
+
+        iii. A reporting system for regular reviews of conservation performance against adopted goals. Performance reports shall be available to customers and the public. Requirements, including reporting frequency, shall be appropriate to system size and complexity;
+
+        iv. Requirements that any system not meeting its water conservation goals shall develop a plan for modifying its conservation program to achieve its goals along with procedures for reporting performance to the department;
+
+    v. If a municipal water supplier determines that further reductions in consumption are not reasonably achievable, it shall identify how current consumption levels will be maintained;
+
+    d. Adopt rules that, to the maximum extent practical, utilize existing mechanisms and simplified procedures in order to minimize the cost and complexity of implementation and to avoid placing unreasonable financial burden on smaller municipal systems.
+
+5. The department shall provide technical assistance upon request to municipal water suppliers and local governments regarding water conservation, which may include development of best management practices for water conservation programs, conservation landscape ordinances, conservation rate structures for public water systems, and general public education programs on water conservation.
+
+6. To ensure compliance with this section, the department shall establish a compliance process that incorporates a graduated approach employing the full range of compliance mechanisms available to the department.
+
+7. Prior to completion of rule making required in subsection (4) of this section, municipal water suppliers shall continue to meet the existing conservation requirements of the department and shall continue to implement their current water conservation programs.
+
+8. For a water right applicant that is a municipal water supplier seeking to utilize mitigation under RCW 90.44.030(5) (b) or (c), the department shall review and make a determination of whether the water system for which additional water rights are being sought is in compliance with or is exercising appropriate effort to achieve the requirements of this subsection and of the rule adopted by the department. Such a review and determination must be provided to the applicant and the department of ecology. If the department determines that the municipal water supplier is not in compliance with this section or the appropriate rule, it shall identify any actions that must be taken by the municipal water supplier to achieve compliance.
+
+## Section 6
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Department" means the department of ecology.
+
+2. "Director" means the director of ecology.
+
+3. "Municipal water supplier" means an entity that supplies water for municipal water supply purposes.
+
+4. "Municipal water supply purposes" means a beneficial use of water: (a) For residential purposes through 15 or more residential service connections or for providing residential use of water for a nonresidential population that is, on average, at least 25 people for at least 60 days a year; (b) for governmental or governmental proprietary purposes by a city, town, public utility district, county, sewer district, or water district; or (c) indirectly for the purposes in (a) or (b) of this subsection through the delivery of treated or raw water to a public water system for such use. If water is beneficially used under a water right for the purposes listed in (a), (b), or (c) of this subsection, any other beneficial use of water under the right generally associated with the use of water within a municipality is also for "municipal water supply purposes," including, but not limited to, beneficial use for commercial, industrial, irrigation of parks and open spaces, institutional, landscaping, fire flow, water system maintenance and repair, or related purposes. If a governmental entity holds a water right that is for the purposes listed in (a), (b), or (c) of this subsection, its use of water or its delivery of water for any other beneficial use generally associated with the use of water within a municipality is also for "municipal water supply purposes," including, but not limited to, beneficial use for commercial, industrial, irrigation of parks and open spaces, institutional, landscaping, fire flow, water system maintenance and repair, or related purposes.
+
+5. "Person" means any firm, association, water users' association, corporation, irrigation district, or municipal corporation, as well as an individual.
+
+6. "Withdrawal" means the appropriation of water for beneficial use through withdrawal of groundwater authorized under RCW 90.44.060 or diversion of surface water authorized under RCW 90.03.290. A withdrawal may be either temporary or permanent.
+
+## Section 7
+Utilization and management of the waters of the state shall be guided by the following general declaration of fundamentals:
+
+1. Uses of water for domestic, stock watering, industrial, commercial, agricultural, irrigation, hydroelectric power production, mining, fish and wildlife maintenance and enhancement, recreational, and thermal power production purposes, and preservation of environmental and aesthetic values, and all other uses compatible with the enjoyment of the public waters of the state, are declared to be beneficial.
+
+2. Allocation of waters among potential uses and users shall be based generally on the securing of the maximum net benefits for the people of the state. Maximum net benefits shall constitute total benefits less costs including opportunities lost.
+
+3. The quality of the natural environment shall be protected and, where possible, enhanced as follows:
+
+    a. Perennial rivers and streams of the state shall be retained with base flows necessary to provide for preservation of wildlife, fish, scenic, aesthetic and other environmental values, and navigational values. Lakes and ponds shall be retained substantially in their natural condition. Permanent or temporary appropriations of water that would have adverse impacts on instream values protected by rules adopted pursuant to this chapter or chapter 90.22 RCW may be authorized only with appropriate mitigation, or where it is clear that overriding considerations of the public interest will be served.
+
+    b. Waters of the state shall be of high quality. Regardless of the quality of the waters of the state, all wastes and other materials and substances proposed for entry into said waters shall be provided with all known, available, and reasonable methods of treatment prior to entry. Notwithstanding that standards of quality established for the waters of the state would not be violated, wastes and other materials and substances shall not be allowed to enter such waters which will reduce the existing quality thereof, except in those situations where it is clear that overriding considerations of the public interest will be served. Technology-based effluent limitations or standards for discharges for municipal water treatment plants located on the Chehalis, Columbia, Cowlitz, Lewis, or Skagit river shall be adjusted to reflect credit for substances removed from the plant intake water if:
+
+        i. The municipality demonstrates that the intake water is drawn from the same body of water into which the discharge is made; and
+
+        ii. The municipality demonstrates that no violation of receiving water quality standards or appreciable environmental degradation will result.
+
+4. The development of multipurpose water storage facilities shall be a high priority for programs of water allocation, planning, management, and efficiency. The department, other state agencies, and local governments shall evaluate the potential for the development of new storage projects and the benefits and effects of storage in reducing damage to stream banks and property, increasing the use of land, providing water for municipal, industrial, agricultural, power generation, and other beneficial uses, and improving streamflow regimes for fisheries and other instream uses.
+
+5. Adequate and safe supplies of water shall be preserved and protected in potable condition to satisfy human domestic needs.
+
+6. Multiple-purpose impoundment structures are to be preferred over single-purpose structures. Due regard shall be given to means and methods for protection of fishery resources in the planning for and construction of water impoundment structures and other artificial obstructions.
+
+7. Federal, state, and local governments, individuals, corporations, groups and other entities shall be encouraged to carry out practices of conservation as they relate to the use of the waters of the state. In addition to traditional development approaches, improved water use efficiency, conservation, and use of reclaimed water shall be emphasized in the management of the state's water resources and in some cases will be a potential new source of water with which to meet future needs throughout the state. Use of reclaimed water shall be encouraged through state and local planning and programs with incentives for state financial assistance recognizing programs and plans that encourage the use of conservation and reclaimed water use, and state agencies shall continue to review and reduce regulatory barriers and streamline permitting for the use of reclaimed water where appropriate.
+
+8. Development of water supply systems, whether publicly or privately owned, which provide water to the public generally in regional areas within the state shall be encouraged. Development of water supply systems for multiple domestic use which will not serve the public generally shall be discouraged where water supplies are available from water systems serving the public.
+
+9. Full recognition shall be given in the administration of water allocation and use programs to the natural interrelationships of surface and groundwaters.
+
+10. Expressions of the public interest will be sought at all stages of water planning and allocation discussions.
+
+11. Water management programs, including but not limited to, water quality, flood control, drainage, erosion control and storm runoff are deemed to be in the public interest.
+
+## Section 8
+This act applies to applications for withdrawals of groundwater filed both before and after the effective date of this section. To this extent, this act applies retroactively, but in all other respects it applies prospectively.
+
+## Section 9
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately.

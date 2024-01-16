@@ -5,15 +5,10 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/09 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5801 Special deposits
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31504&aId=155912&caId=22707&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31504&aId=155912&caId=22707&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31504&aId=155912&caId=22707&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31504&aId=155912&caId=22707&tId=4)
-
 #### 2 👍 - Pro
 Testifying:
 * Patrick Guida - Uniform Law Commission (Chair of the Uniform Special Deposits Act Drafting Committee)

@@ -6,4 +6,27 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202153)
+
 ## Meetings
+### Tue 01/16 01:30 PM - Consumer Protection & Business (CPB): HB 2153 Catalytic converter theft
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31657&aId=156555&caId=23125&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31657&aId=156555&caId=23125&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31657&aId=156555&caId=23125&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31657&aId=156555&caId=23125&tId=4)
+
+#### 10 👍 - Pro
+Testifying:
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
+* Brad Tower - Radius Recycling
+* 💵Holly Chisa - Institute of Scrap Recycling Industries
+
+#### 0 👎 - Con
+
+#### 3 ❓ - Other
+Testifying:
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Jeff Gombosky - [Carvana](/org/carvana/)
+* 💵Scott Hazlegrove - WA State Auto Dealers Association

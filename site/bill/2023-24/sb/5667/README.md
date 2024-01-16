@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 02/09 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5667 Forestry riparian easements

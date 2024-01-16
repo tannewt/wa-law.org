@@ -13,3 +13,7 @@
 * 👎 Kadi Bizyayeva
 
 ## [SB 5482](/bill/2023-24/sb/5482/) - Margin tax  👎1 
+
+## [SB 5892](/bill/2023-24/sb/5892/) - Concerning diseased elk.  👎1 
+
+## [SB 5921](/bill/2023-24/sb/5921/) - Concerning tribal representation on the state conservation commission. 👍1  

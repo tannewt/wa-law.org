@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1981/</link>
 		<description>Updates about HB 1981</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 12 Jan 2024 14:16:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,20 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Finance (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Finance.</title>
+			<description>First reading, referred to Finance.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Finance.</guid>
+		</item>
+		<item>
+			<title>Tri-Cities lawmakers eye nuclear facilities tax break, wind farm fire concerns | Washington | thecentersquare.com</title>
+			<description>News article &quot;Tri-Cities lawmakers eye nuclear facilities tax break, wind farm fire concerns | Washington | thecentersquare.com&quot; from The Center Square.</description>
+			<pubDate>Fri, 12 Jan 2024 14:16:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_ebd7f824-b182-11ee-97f3-3f080b13cf66.html#:~:text=HB%201981</guid>
 		</item>
 	</channel>
 </rss>

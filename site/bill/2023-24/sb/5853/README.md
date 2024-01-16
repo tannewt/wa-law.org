@@ -8,28 +8,28 @@
 
 ## Meetings
 ### Thu 01/11 10:30 AM - Health & Long Term Care (HLTC): SB 5853 Behav crisis services/minors
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31540&aId=155997&caId=22766&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31540&aId=155997&caId=22766&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31540&aId=155997&caId=22766&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31540&aId=155997&caId=22766&tId=4)
-
-#### 5 👍 - Pro
+#### 50 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Neal Black - Council member,  City of Kirkland
+* 💵Anna Nepomuceno - NAMI Washington and Patients Coalition of Washington
+* Robin Berger - Washington State Psychiatric Association
+* Sarah Perry - [King County](/org/king_county/)
+* Kimberlee Hauff - WA Chapter of the American Academy of Pediatrics
+* Dr. Jeff Eisen - Multicare
+* Kashi Aurora - [Seattle Children's Hospital](/org/seattle_children's_hospital/)
+* Katie Kolan - Washington State Hospital Association
+* Beckett Leeson
+* Parth Parashar
+* 💵Michael Transue - Connections Health Solutions
 
-#### 0 👎 - Con
+#### 15 👎 - Con
+Testifying:
+* Steven Pearce - Citizens Commission on Human Rights
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 01/11 08:00 AM - Human Services (HS): SB 5853 Behav crisis services/minors
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31543&aId=156022&caId=22754&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31543&aId=156022&caId=22754&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31543&aId=156022&caId=22754&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31543&aId=156022&caId=22754&tId=4)
-
 #### 6 👍 - Pro
 
 #### 0 👎 - Con

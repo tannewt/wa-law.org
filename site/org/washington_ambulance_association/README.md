@@ -15,3 +15,6 @@
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards  👎1 
 * 👎 Mike Battis
+
+## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍1  
+* 👍 Mike Battis

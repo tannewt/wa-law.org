@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/15 04:00 PM - Ways & Means (WM): SB 6000 Military service credit
+#### 9 👍 - Pro
+Testifying:
+* Kurt Shevalier
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
