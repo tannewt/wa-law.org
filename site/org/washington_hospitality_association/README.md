@@ -92,7 +92,13 @@
 ## [HB 1940](/bill/2023-24/hb/1940/) - Employer political speech  👎1 
 * 👎 Montana Miranda
 
+## [HB 1959](/bill/2023-24/hb/1959/) - Extending parts of the paid family and medical leave program to employers with fewer than 50 employees.  👎1 
+* 👎💵 Julia Gorton
+
 ## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍1  
+
+## [HB 1991](/bill/2023-24/hb/1991/) - Paid sick leave  👎1 
+* 👎💵 Julia Gorton
 
 ## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes.  👎1 
 * 👎💵 Samantha Louderback

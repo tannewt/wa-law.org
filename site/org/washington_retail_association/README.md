@@ -184,6 +184,9 @@
 ## [HB 2171](/bill/2023-24/hb/2171/) - Incarcerated students 👍1  
 * 👍 Rose GUNDERSEN
 
+## [HB 2231](/bill/2023-24/hb/2231/) - Law enforcement funding 👍1  
+* 👍💵 Mark Johnson
+
 ## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment 👍1  
 
 ## [SB 5035](/bill/2023-24/sb/5035/) - Controlled sub. possession 👍1  
@@ -322,7 +325,7 @@
 ## [SB 5838](/bill/2023-24/sb/5838/) - Establishing an artificial intelligence task force.   ❓1
 * ❓ CRYSTAL LEATHERMAN
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Extending the crisis relief center model to provide behavioral health crisis services for minors. 👍1  
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
 * 👍💵 Mark Johnson
 
 ## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act.   ❓1

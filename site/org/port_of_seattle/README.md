@@ -66,4 +66,7 @@
 
 ## [SB 6080](/bill/2023-24/sb/6080/) - Tourism marketing funding 👍1  
 
+## [SB 6136](/bill/2023-24/sb/6136/) - Rental property B&O tax   ❓1
+* ❓ John Flanagan
+
 ## [SJM 8009](/bill/2023-24/sjm/8009/) - Harbor maintenance tax 👍1  

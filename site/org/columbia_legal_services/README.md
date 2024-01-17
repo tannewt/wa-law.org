@@ -146,6 +146,9 @@
 
 ## [HB 2119](/bill/2023-24/hb/2119/) - Medical debt garnishment 👍1  
 
+## [HB 2226](/bill/2023-24/hb/2226/) - H-2A worker program data 👍1  
+* 👍💵 Andrea Schmitt
+
 ## [HB 2251](/bill/2023-24/hb/2251/) - Unenforceable LFOs 👍1  
 
 ## [SB 5028](/bill/2023-24/sb/5028/) - Name changes 👍2  

@@ -11,20 +11,14 @@
 
 ## Meetings
 ### Tue 01/16 04:00 PM - Housing (HOUS): HB 2126 Rural area ADUs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31686&aId=156780&caId=23180&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31686&aId=156780&caId=23180&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31686&aId=156780&caId=23180&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31686&aId=156780&caId=23180&tId=4)
-
-#### 70 👍 - Pro
+#### 71 👍 - Pro
 Testifying:
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Bill Clarke - Kittitas County + WA Realtors
 
-#### 177 👎 - Con
+#### 181 👎 - Con
 Testifying:
 * D. James McCubbin - Friends of the San Juans
 * Alex Brennan - [Futurewise](/org/futurewise/)

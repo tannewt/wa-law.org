@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31629&aId=156450&caId=23082&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31629&aId=156450&caId=23082&tId=4)
 
-#### 9 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Victoria OBanion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
 * 💵Mike Hoover - [Detente Management](/org/detente_management/)
 * 💵Ishbel Dickens - Assoc of Manufactured Home Owners
+* Brigid Henderson - Washington State Department of Commerce
 
 #### 0 👎 - Con
 

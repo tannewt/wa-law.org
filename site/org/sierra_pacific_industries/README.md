@@ -21,6 +21,8 @@
 * 👎 Bill Turner
 * 👍 Bill Turner
 
+## [HB 2045](/bill/2023-24/hb/2045/) - Creating an adopt a fish barrier program. 👍1  
+
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓2
 * ❓ Jacquelin Earley
 * ❓ Dave Arbaugh

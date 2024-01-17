@@ -19,9 +19,10 @@ Testifying:
 * Charlene Hurst - WDFW
 * Jeff Wickersham - WDFW
 
-#### 0 👎 - Con
+#### 8 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * James Luce - Friends of Vancouver Lake
 * Robin Torner - Cowlitz Indian Tribe
+* Ty Swartout - Moses Lake Watershed Council

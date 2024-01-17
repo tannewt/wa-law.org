@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31588&aId=156184&caId=23039&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31588&aId=156184&caId=23039&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Steve Horvath - HOA United
 * Raelene Schifano - HOA United
 * Joel Gilman
+* Nathan Luce
 
 #### 2 👎 - Con
 Testifying:

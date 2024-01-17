@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Wed 01/17 08:00 AM - Local Government (LG): HB 2090 Local boards of health
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31670&aId=156638&caId=23212&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31670&aId=156638&caId=23212&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31670&aId=156638&caId=23212&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31670&aId=156638&caId=23212&tId=4)
-
 #### 2 👍 - Pro
 Testifying:
 * Tye Menser - Thurston County Board of County Commissioners

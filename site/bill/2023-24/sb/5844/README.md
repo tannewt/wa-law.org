@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Tue 01/16 01:30 PM - Environment, Energy & Technology (ENET): SB 5844 Dilapidated RV disposal
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31679&aId=156863&caId=23022&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31679&aId=156863&caId=23022&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31679&aId=156863&caId=23022&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31679&aId=156863&caId=23022&tId=4)
-
 #### 3 👍 - Pro
 Testifying:
 * 💵Jason Callahan - Green Diamond Resource Company

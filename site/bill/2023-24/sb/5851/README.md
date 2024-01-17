@@ -11,29 +11,80 @@
 
 ## Meetings
 ### Wed 01/17 10:30 AM - Early Learning & K-12 Education (EDU): SB 5851 Holocaust and genocide edu.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31667&aId=156622&caId=23037&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31667&aId=156622&caId=23037&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31667&aId=156622&caId=23037&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31667&aId=156622&caId=23037&tId=4)
-
-#### 44 👍 - Pro
+#### 880 👍 - Pro
 Testifying:
 * Elsa Jones
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* Joe A Kunzler
+* Stephanie Ung - Khmer Community of Seattle King County
+* Cammie Allen
+* Dee Simon - Holocaust Center for Humanity
+* Ingrid Steppic
+* Paul Regelbrugge - Holocaust Center for Humanity
+* Emmanuel Turaturanye
+* 💵Maxima Patashnik - Jewish Community Relations Council of the Jewish Federation of Greater Seattle
+* Rose Nelson
+* 💵Hannah Lidman - Parent
 * William Clark - Peace Catalyst International
+* Ari Hoffman
+* Branda Anderson
+* Linda Clifton
+* Gabriela Varela
+* Jesse Salomon - WA State Senator
 
-#### 10 👎 - Con
+#### 87 👎 - Con
 Testifying:
 * Tracy Dr. Castro-Gill - Washington Ethnic Studies Now
 * Oliver Miska
 * Mohamad Bin Bin Zohor - Rohingya
+* Omar Mehilba
+* Ahmed Nada
+* Maher Joudi
+* Rebekah Erev
+* Ahmed Ashour
+* Amina Mansour
+* Mahwish Nadeem
+* Tazia mehdi
+* Muhammad Mehdi
+* heidi Ahmed
+* Alaa Shaker
+* Enas Fayed
+* Hasan Usmani
+* Mohammad Omar
+* Nivin Ashraf
+* Hebah Fisher
+* Asmaa Mohammad
+* Sherif Abdelwahab
+* Mahitab Abdelsalam
+* Hend Barry
 * Haneen Alattal
+* Sam La
+* Ayman Elmenshawy
+* Esraa Hamza
+* Nour Fakhreldin
+* Islam Atta
+* Lubna Alzaroo
+* Omar Khalafalla
+* Dina Hamdan
+* Osama Emara
+* Maryam Sajid
+* Ruba Zayed
+* BELAL RIYAD
+* Ala Hassan
+* Yasmin Mohamed
 
-#### 7 ❓ - Other
+#### 39 ❓ - Other
 Testifying:
 * Hena Zuberi - Justice For All
 * Selma Porca
 * Samna Chheng-Mikula
 * Admir Kelemis
 * Yasir Zaidan
+* SARAH KARIM
+* Tarik Kunduklija
+* Luay Joudeh
+* Luay Joudeh
+* Nizama Djuderija
 * Rabi Yuguda
+* Gabriel Jacobs
+* Sallie Shawl

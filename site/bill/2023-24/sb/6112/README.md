@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31607&aId=156931&caId=23247&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31607&aId=156931&caId=23247&tId=4)
 
-#### 7 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Brice Liu - Lake Washington High School
+* Philomène Hudry - Lake Washington High School
+* Sarah Bali - Lake Washington High School
 
 #### 0 👎 - Con
 

@@ -138,6 +138,8 @@
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
+## [HB 2360](/bill/2023-24/hb/2360/) - Digital workforce 👍1  
+
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest 👍3  
 
 ## [SB 5109](/bill/2023-24/sb/5109/) - Wage replacement 👍1  

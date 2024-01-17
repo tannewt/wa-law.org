@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 01/12/2024 [Crosscut](/org/crosscut/) - [WA Legislature reviews joining CA, Quebec carbon pricing program | Crosscut](https://crosscut.com/briefs/2024/01/wa-legislature-reviews-joining-ca-quebec-carbon-pricing-program#:~:text=Senate%20Bill%206058)
+* 01/07/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: Welcome to the 2024 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/07/this-week-in-the-senate-week-1-welcome-to-the-2024-session/#:~:text=Senate%20Bill%206058)
 
 ## Meetings
 ### Fri 01/12 08:00 AM - Environment, Energy & Technology (ENET): SB 6058 Carbon market linkage

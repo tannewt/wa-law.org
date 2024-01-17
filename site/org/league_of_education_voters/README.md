@@ -36,6 +36,10 @@
 
 ## [HB 1701](/bill/2023-24/hb/1701/) - Institutional ed. programs   ❓1
 
+## [HB 2053](/bill/2023-24/hb/2053/) - Establishing the ninth grade success grant program. 👍1  
+
+## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍1  
+
 ## [HB 2282](/bill/2023-24/hb/2282/) - African American studies 👍1  
 
 ## [SB 5019](/bill/2023-24/sb/5019/) - School safety staff 👍4  
@@ -68,6 +72,8 @@
 ## [SB 5442](/bill/2023-24/sb/5442/) - Charter schools/enrichment 👍1  
 
 ## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍1  
+
+## [SB 5819](/bill/2023-24/sb/5819/) - Financial education   ❓1
 
 ## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍1  
 

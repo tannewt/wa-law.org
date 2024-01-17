@@ -6,9 +6,6 @@
 ## Revisions
 * [Original Bill](1/)
 
-## 📰 Articles
-* 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202325)
-
 ## Meetings
 ### Fri 01/19 10:30 AM - Labor & Workplace Standards (LAWS): HB 2325 Legislative employees
 Sign up to testify:
@@ -21,4 +18,4 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other

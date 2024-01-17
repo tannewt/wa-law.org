@@ -28,6 +28,10 @@
 
 ## [HB 2019](/bill/2023-24/hb/2019/) - Establishing a Native American apprentice assistance program. 👍1  
 
+## [HB 2155](/bill/2023-24/hb/2155/) - Credential registry 👍1  
+
+## [HB 2360](/bill/2023-24/hb/2360/) - Digital workforce 👍1  
+
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍4  
 
 ## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍2  
@@ -55,3 +59,5 @@
 * 👍💵 Brittany Jarnot
 
 ## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
+
+## [SB 6168](/bill/2023-24/sb/6168/) - International leadership 👍1  

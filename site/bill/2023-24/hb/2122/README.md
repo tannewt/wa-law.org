@@ -14,8 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31659&aId=156567&caId=23172&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31659&aId=156567&caId=23172&tId=4)
 
-#### 4 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* Dr. Anne-Marie E. Amies Oelschlager - American College of Obstetricians and Gynecologists (ACOG)
+* Dr. Jennifer Chin - American College of Obstetricians and Gynecologists (ACOG)
+* Dr. Katina Rue - WA State Medical Association (WSMA)
+* Dr. Tamara Chang
+* 💵Alex Wehinger - WA State Medical Association (WSMA)
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Larry Shannon - Washington State Association for Justice

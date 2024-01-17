@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5799/</link>
 		<description>Updates about SB 5799</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 15 Jan 2024 04:34:25 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 16 Jan 2024 07:19:19 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -68,6 +68,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Mary/Huff/2024-01-15 04:34:25</guid>
+		</item>
+		<item>
+			<title>❓Ahsan Khokhar - NW Insurance Council</title>
+			<description>Ahsan Khokhar signed up to testify Other.</description>
+			<pubDate>Tue, 16 Jan 2024 07:19:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Ahsan/Khokhar/2024-01-16 07:19:19</guid>
 		</item>
 	</channel>
 </rss>

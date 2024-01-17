@@ -15,11 +15,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31617&aId=156408&caId=23244&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31617&aId=156408&caId=23244&tId=4)
 
-#### 2 👍 - Pro
+#### 899 👍 - Pro
+Testifying:
+* Gary Yamamoto
+* 💵Michael Transue - LeMay - America's Car Museum
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other
 
 ### Mon 02/20 01:30 PM - Transportation (TR): HB 1829 LeMay special license plate
 #### 1661 👍 - Pro

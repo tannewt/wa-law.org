@@ -6,9 +6,6 @@
 ## Revisions
 * [Original Bill](1/)
 
-## 📰 Articles
-* 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202205)
-
 ## Meetings
 ### Wed 01/17 01:30 PM - State Government & Tribal Relations (SGOV): HB 2205 Signature gathering/protests
 Sign up to testify:
@@ -17,14 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31632&aId=156884&caId=23238&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31632&aId=156884&caId=23238&tId=4)
 
-#### 19 👍 - Pro
+#### 142 👍 - Pro
 Testifying:
 * Laurie Layne - Layne Software
 * Tim Eyman - Initiative Activist
 * Brandi Kruse
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Jennifer Heine-Withee - Family Policy Institute of Washington
 
-#### 3 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * Kathy Sakahara - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Charlie Brown - Fred Meyer Stores
+* 💵Carolyn Logue - Washington Food Industry Association

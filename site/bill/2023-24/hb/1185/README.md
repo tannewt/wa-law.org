@@ -7,9 +7,6 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
-## 📰 Articles
-* 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%201185)
-
 ## Meetings
 ### Thu 01/18 08:00 AM - Environment & Energy (ENVI): SHB 1185 Lighting products
 Sign up to testify:
@@ -18,7 +15,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31612&aId=156387&caId=23154&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31612&aId=156387&caId=23154&tId=4)
 
-#### 112 👍 - Pro
+#### 192 👍 - Pro
+Testifying:
+* Alessandra De la Torre - [Northwest Energy Coalition](/org/northwest_energy_coalition/)
 
 #### 0 👎 - Con
 

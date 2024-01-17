@@ -8,18 +8,16 @@
 
 ## Meetings
 ### Wed 01/17 08:00 AM - Agriculture and Natural Resources (AGNR): HB 2045 Adopt a fish barrier program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31635&aId=156466&caId=23088&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31635&aId=156466&caId=23088&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31635&aId=156466&caId=23088&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31635&aId=156466&caId=23088&tId=4)
-
-#### 3 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Tom Davis - WA Forest Protection Association
+* 💵Jason Callahan - Green Diamond Resource Company
 
 #### 1 👎 - Con
 Testifying:
 * John Worthington
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Don Gourlie - Puget Sound Partnership
+* Brock Milliern - Recreation Conservation Office

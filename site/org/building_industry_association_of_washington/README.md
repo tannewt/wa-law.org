@@ -287,3 +287,5 @@
 
 ## [SB 6061](/bill/2023-24/sb/6061/) - Housing development/SEPA  👎1 
 * 👎💵 Jan Himebaugh
+
+## [SB 6136](/bill/2023-24/sb/6136/) - Rental property B&O tax  👎1 

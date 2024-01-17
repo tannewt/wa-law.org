@@ -56,7 +56,7 @@
 
 ## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍1  
 
-## [HB 2053](/bill/2023-24/hb/2053/) - Establishing the ninth grade success grant program. 👍1  
+## [HB 2053](/bill/2023-24/hb/2053/) - Establishing the ninth grade success grant program. 👍2  
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍3  
 * 👍💵 Juliet Schindler

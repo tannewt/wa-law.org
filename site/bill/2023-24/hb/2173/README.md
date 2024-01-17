@@ -14,8 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31632&aId=156740&caId=23237&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31632&aId=156740&caId=23237&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Buddy Stanavich - [City of Ellensburg](/org/city_of_ellensburg/)
+* Heidi Behrends Cerniwey - [City of Ellensburg](/org/city_of_ellensburg/)
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

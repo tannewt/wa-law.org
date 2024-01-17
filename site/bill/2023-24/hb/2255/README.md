@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31621&aId=156939&caId=23273&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31621&aId=156939&caId=23273&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
 * 💵Ezra Eickmeyer - Producers NW
+* 💵Vicki Christophersen - Washington CannaBusiness Association
 
 #### 1 👎 - Con
 

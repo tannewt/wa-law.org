@@ -76,6 +76,9 @@
 
 ## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍1  
 
+## [HB 2028](/bill/2023-24/hb/2028/) - Concerning manufacturer and new dealer franchise agreements.  👎1 
+* 👎💵 Leah Missik
+
 ## [HB 2039](/bill/2023-24/hb/2039/) - Modifying the appeals process for environmental and land use matters. 👍1  
 * 👍💵 Altinay Karasapan
 
@@ -94,6 +97,8 @@
 * 👍 Megan Larkin
 
 ## [HB 2117](/bill/2023-24/hb/2117/) - Aerial firefighting/permits   ❓1
+
+## [HB 2131](/bill/2023-24/hb/2131/) - Thermal energy networks 👍1  
 
 ## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍1  
 
@@ -154,5 +159,11 @@
 
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development 👍1  
 
+## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  
+* 👍💵 Leah Missik
+
 ## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍1  
 * 👍💵 Kelly Hall
+
+## [SB 6071](/bill/2023-24/sb/6071/) - Oil exporters/human rights 👍1  
+* 👍💵 Leah Missik

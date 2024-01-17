@@ -17,9 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31668&aId=156624&caId=23055&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31668&aId=156624&caId=23055&tId=4)
 
-#### 107 👍 - Pro
+#### 118 👍 - Pro
 Testifying:
 * 💵Joel Ryan - Washington State Association of Head Start & ECEAP
+* 💵Claire Lane - Anti-Hunger & Nutrition Coalition
 
 #### 0 👎 - Con
 

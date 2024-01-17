@@ -44,6 +44,8 @@
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
 * ❓💵 Guillermo Rogel
 
+## [HB 2226](/bill/2023-24/hb/2226/) - H-2A worker program data 👍1  
+
 ## [SB 5143](/bill/2023-24/sb/5143/) - Pesticide registration comm.  👎1 
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍2  

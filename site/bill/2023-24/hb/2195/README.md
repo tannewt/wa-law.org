@@ -17,9 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31674&aId=156665&caId=23105&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31674&aId=156665&caId=23105&tId=4)
 
-#### 41 👍 - Pro
+#### 52 👍 - Pro
+Testifying:
+* Genevieve Stokes - Child Care Aware of WA
+* 💵Ruth Kagi - Retired State Representative
+* Joel Ing - Edge Developers
+* Kerra Bower - Little Scholars Development Center and Raze Development
+* Melissa Denlinger - Happy Feet Academy
+* Susan Yang - Denise Louie Education Center
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 

@@ -14,15 +14,31 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31661&aId=156571&caId=23130&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31661&aId=156571&caId=23130&tId=4)
 
-#### 5 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Mary Veneziani
+* Malena Pinkham - Northwest Justice Project
+* Blythe Chandler - Terrell Marshall Law Group
+* Mary Veneziani
+* 💵Emily Murphy - [Northwest Consumer Law Center](/org/northwest_consumer_law_center/)
+* Andrew Pizor - National Consumer Law Center
+* Carl Smith
 
-#### 1 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Deepak Kumar - Splitero Inc.
+* Cobi Clark
+* Joshua Gaffney - Hometap Equity Partners, LLC
+* 💵Isaac Kastama - Unlock Technologies
+* James Riccitelli - Unlock Technologies
+* Rolando Villanueva
 
-#### 2 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Matthew Windsor - Point Digital Finance, Inc.
 * John Arens - Redwood Trust
+* Gary Weiman - Homeowner
+* 💵Rowland Thompson - Unison
+* Ryan Downs - Unison
+* Laszlo Ladi - Unison
+* Thomas Sponholtz - Unison

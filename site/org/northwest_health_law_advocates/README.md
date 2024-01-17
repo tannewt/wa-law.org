@@ -37,6 +37,11 @@
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
+## [HB 2066](/bill/2023-24/hb/2066/) - Health provider contracting 👍1  
+* 👍💵 Emily Brice
+
+## [HB 2119](/bill/2023-24/hb/2119/) - Medical debt garnishment 👍1  
+
 ## [HB 2128](/bill/2023-24/hb/2128/) - Certificate of need program   ❓1
 * ❓💵 Janet Varon
 

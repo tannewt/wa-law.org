@@ -14,12 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31639&aId=156478&caId=23189&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31639&aId=156478&caId=23189&tId=4)
 
-#### 6 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * Katie Hurley - King County Department of Public Defense
+* Julissa Sanchez - CHOOSE 180
+* Maureen McKee - Minority & Justice Commission
+* Zaheed Lynch
 * Judge Jennifer Forbes - Superior Court Judges' Association
 * Nicholas Oakley - [Center for Children & Youth Justice](/org/center_for_children_&_youth_justice/)
+* Matthew Murphy - Collective Justice Program Director, Restorative Dialogues
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Cameron Miller
 
 #### 0 ❓ - Other

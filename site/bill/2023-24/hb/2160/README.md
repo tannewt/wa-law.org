@@ -5,8 +5,10 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/17/2024 [PubliCola](/org/publicola/) - [State Rep Says Inclusionary Zoning Near Transit Will Prevent Displacement, SPD General Counsel Filed Initial Complaint Against Laughing Cop - PubliCola](https://publicola.com/2024/01/17/spd-general-counsel-filed-initial-complaint-against-laughing-cop-rep-reed-says-inclusionary-zoning-near-transit-will-prevent-displacement/#:~:text=(HB%202160)
 * 01/15/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/15/the-house-hot-sheet-for-week-2-of-the-2024-legislative-session/#:~:text=HB%202160)
 * 01/08/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/08/the-house-hot-sheet-for-week-1-of-the-2024-legislative-session/#:~:text=HB%202160)
 

@@ -6,9 +6,15 @@
 
 ## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍3  
 
-## [HB 1489](/bill/2023-24/hb/1489/) - Mt. St. Helens license plate 👍1  
+## [HB 1489](/bill/2023-24/hb/1489/) - Mt. St. Helens license plate 👍2  
 
 ## [HB 1504](/bill/2023-24/hb/1504/) - Elementary school recess 👍1  
+
+## [HB 1997](/bill/2023-24/hb/1997/) - Parks and recreation comm. 👍1  
+
+## [HB 2108](/bill/2023-24/hb/2108/) - Smokey Bear license plates 👍1  
+
+## [HB 2138](/bill/2023-24/hb/2138/) - Outdoor learning/state parks 👍1  
 
 ## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍2  
 

@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31632&aId=156738&caId=23235&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31632&aId=156738&caId=23235&tId=4)
 
-#### 1 👍 - Pro
+#### 19 👍 - Pro
+Testifying:
+* Grace Yoo - Washington State Women's Commission
+* Quinn Dalan - Washington State Women's Commission
+* 💵Vicki Lowe - Washington State Women's Commission
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

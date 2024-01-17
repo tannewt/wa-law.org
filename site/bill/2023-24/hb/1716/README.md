@@ -6,9 +6,6 @@
 ## Revisions
 * [Original Bill](1/)
 
-## 📰 Articles
-* 01/11/2024 [House Republicans](/org/house_republicans/) - [Fix the child care crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/child-care/#:~:text=House%20Bill%201716)
-
 ## Meetings
 ### Thu 03/23 01:30 PM - Finance (FIN): HB 1716 Child care B&O credit
 #### 7 👍 - Pro

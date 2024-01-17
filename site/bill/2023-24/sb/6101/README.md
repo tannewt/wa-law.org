@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31647&aId=156601&caId=23051&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31647&aId=156601&caId=23051&tId=4)
 
-#### 10 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Christopher Dale - Providence
 * Jessica Van Fleet-Green - MultiCare Health System

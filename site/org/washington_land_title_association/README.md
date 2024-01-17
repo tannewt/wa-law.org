@@ -13,3 +13,6 @@
 ## [SB 5840](/bill/2023-24/sb/5840/) - Concerning leases. 👍2  
 * 👍 Sean Holland
 * 👍 JP Kissling
+
+## [SB 6034](/bill/2023-24/sb/6034/) - Document fees/excise tax 👍1  
+* 👍 Jay Carey

@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 01/16 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2242 Sexual assault/higher ed.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31671&aId=156718&caId=23219&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31671&aId=156718&caId=23219&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31671&aId=156718&caId=23219&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31671&aId=156718&caId=23219&tId=4)
-
-#### 440 👍 - Pro
+#### 448 👍 - Pro
 Testifying:
 * Charlotte Fithian - Lake Washington High School
 * Charlotte Moskowitz - Lake Washington High School
@@ -37,6 +31,8 @@ Testifying:
 * Meredith Massey
 * Jacob Feleke - ASUW-President
 * Ellis Andrews - Vice President Of ASUW
+* Sophia Bowton-Meade
+* Sophia Bowton-Meade
 
 #### 0 👎 - Con
 

@@ -8,17 +8,18 @@
 
 ## Meetings
 ### Wed 01/17 08:00 AM - Labor & Workplace Standards (LAWS): HB 1991 Paid sick leave
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31664&aId=156588&caId=23204&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31664&aId=156588&caId=23204&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31664&aId=156588&caId=23204&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31664&aId=156588&caId=23204&tId=4)
+#### 181 👍 - Pro
+Testifying:
+* Rebekah Gardea - QLaw Foundation of Washington
+* 💵Maggie Humphreys - MomsRising
+* 💵Sybill Hyppolite - Washington State Labor Council AFL-CIO
+* 💵Daniel Goodman - Washington State Association for Justice
 
-#### 150 👍 - Pro
-
-#### 50 👎 - Con
+#### 78 👎 - Con
 Testifying:
 * Bruce K Beckett - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Carolyn Logue - Washington Food Industry Association
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
 #### 1 ❓ - Other
 Testifying:

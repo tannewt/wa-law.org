@@ -8,17 +8,10 @@
 
 ## 📰 Articles
 * 01/16/2024 [Sightline Institute](/org/sightline_institute/) - [Washingtonians May Get a Democracy Upgrade in 2024 - Sightline Institute](https://www.sightline.org/2024/01/16/washingtonians-may-get-a-democracy-upgrade-in-2024/#:~:text=HB%202030)
-* 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202030)
 
 ## Meetings
 ### Tue 01/16 01:30 PM - State Government & Tribal Relations (SGOV): HB 2030 Voting rights/convictions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31631&aId=156736&caId=23233&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31631&aId=156736&caId=23233&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31631&aId=156736&caId=23233&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31631&aId=156736&caId=23233&tId=4)
-
-#### 506 👍 - Pro
+#### 517 👍 - Pro
 Testifying:
 * Cindy Madigan - League of Women Voters of Washington
 * Reginald Thedford - Campaign Legal Center
@@ -32,7 +25,7 @@ Testifying:
 * Larry Jefferson - Director, Washington State Office of Public Defense
 * 💵Kristin Ang - Faith Action Network (FAN)
 
-#### 485 👎 - Con
+#### 488 👎 - Con
 Testifying:
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Jeannette Mcchesney

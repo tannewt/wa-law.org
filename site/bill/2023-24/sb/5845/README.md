@@ -8,21 +8,16 @@
 
 ## Meetings
 ### Tue 01/16 04:00 PM - Ways & Means (WM): SB 5845 Military housing taxation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31606&aId=156852&caId=23024&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31606&aId=156852&caId=23024&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31606&aId=156852&caId=23024&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31606&aId=156852&caId=23024&tId=4)
-
 #### 1 👍 - Pro
 Testifying:
 * Commissioner Jill Johnson - [Island County](/org/island_county/)
 
-#### 8 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * Bill Adamson - South Sound Military & Communities Partnership
 * Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Jake Mayson - Greater Spokane Incorporated & Forward Fairchild
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * COL Kent Parker - Joint Base Lewis-McChord Garrison Commander

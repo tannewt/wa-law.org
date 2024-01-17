@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Tue 01/16 01:30 PM - State Government & Elections (SGE): SB 5913 Student athlete NIL/ethics
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31677&aId=156692&caId=23016&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31677&aId=156692&caId=23016&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31677&aId=156692&caId=23016&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31677&aId=156692&caId=23016&tId=4)
-
 #### 8 👍 - Pro
 Testifying:
 * Joe Dacca - [University of Washington](/org/university_of_washington/)

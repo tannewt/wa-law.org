@@ -11,6 +11,8 @@
 
 ## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions  👎2 
 
+## [HB 2231](/bill/2023-24/hb/2231/) - Law enforcement funding 👍1  
+
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing  👎1 
 * 👎 Katrina Knutson
 
@@ -20,3 +22,5 @@
 
 ## [SB 5722](/bill/2023-24/sb/5722/) - Traffic cameras, photo tolls 👍1  
 * 👍 Kelly Busey
+
+## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  

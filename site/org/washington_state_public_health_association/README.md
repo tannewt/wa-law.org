@@ -62,9 +62,13 @@
 
 ## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍1  
 
+## [HB 2019](/bill/2023-24/hb/2019/) - Establishing a Native American apprentice assistance program. 👍1  
+
 ## [HB 2021](/bill/2023-24/hb/2021/) - Concerning the disposition of privately owned firearms in the custody of state or local government entities or law enforcement agencies. 👍1  
 
 ## [HB 2054](/bill/2023-24/hb/2054/) - Concerning bulk purchases and transfers of firearms. 👍1  
+
+## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention 👍1  
 
 ## [HB 2115](/bill/2023-24/hb/2115/) - Prescription labels/abortion 👍1  
 
@@ -77,6 +81,8 @@
 ## [HB 2194](/bill/2023-24/hb/2194/) - Home cultivation of cannabis  👎1 
 
 ## [HB 2197](/bill/2023-24/hb/2197/) - Medical assist./prevention 👍1  
+
+## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍1  
 
 ## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍1  
 
@@ -118,3 +124,7 @@
 
 ## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍2  
 * 👍💵 Amy Brackenbury
+
+## [SB 6095](/bill/2023-24/sb/6095/) - Secretary of health orders 👍1  
+
+## [SB 6127](/bill/2023-24/sb/6127/) - HIV prophylaxis 👍1  

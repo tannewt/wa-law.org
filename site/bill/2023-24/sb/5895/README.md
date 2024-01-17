@@ -14,14 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31643&aId=156872&caId=23044&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31643&aId=156872&caId=23044&tId=4)
 
-#### 268 👍 - Pro
+#### 338 👍 - Pro
 Testifying:
 * Ethan Martez - Lark Bellingham
 * Bill Lyne - United Faculty of Washington State
+* Alice Rosewater
 * 💵Emily Myers - UAW
 * Kaylee Thomas - WAWU-UAW
 * Olene Togiailua - Working Wildcats - UAW
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Mike Sellars - Public Employment Relations Commission

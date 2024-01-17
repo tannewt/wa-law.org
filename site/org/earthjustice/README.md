@@ -29,7 +29,8 @@
 
 ## [HB 2068](/bill/2023-24/hb/2068/) - Fashion/environmental impact 👍1  
 
-## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions. 👍1  
+## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions. 👍2  
+* 👍 Eric Gonzalez Alfaro
 
 ## [HB 2082](/bill/2023-24/hb/2082/) - Electrical transmission 👍1  
 
@@ -39,7 +40,11 @@
 
 ## [HB 2126](/bill/2023-24/hb/2126/) - Rural area ADUs  👎1 
 
+## [HB 2138](/bill/2023-24/hb/2138/) - Outdoor learning/state parks 👍1  
+
 ## [HB 2193](/bill/2023-24/hb/2193/) - Env. restoration accelerator  👎1 
+
+## [HB 2226](/bill/2023-24/hb/2226/) - H-2A worker program data 👍1  
 
 ## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍1  
 
@@ -67,3 +72,7 @@
 ## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
 
 ## [SB 5921](/bill/2023-24/sb/5921/) - Concerning tribal representation on the state conservation commission. 👍1  
+
+## [SB 5939](/bill/2023-24/sb/5939/) - Livestock wolf predation  👎1 
+
+## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  

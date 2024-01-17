@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2173/</link>
 		<description>Updates about HB 2173</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 16 Jan 2024 12:08:20 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,22 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to State Government &amp; Tribal Relations.</guid>
+		</item>
+		<item>
+			<title>👍Buddy Stanavich - City of Ellensburg</title>
+			<description>Buddy Stanavich signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/city_of_ellensburg/&quot;&gt;City of Ellensburg&lt;/a&gt;.</description>
+			<pubDate>Tue, 16 Jan 2024 12:08:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Buddy/Stanavich/2024-01-16 12:08:20</guid>
+		</item>
+		<item>
+			<title>👍Heidi Behrends Cerniwey - City of Ellensburg</title>
+			<description>Heidi Behrends Cerniwey signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/city_of_ellensburg/&quot;&gt;City of Ellensburg&lt;/a&gt;.</description>
+			<pubDate>Tue, 16 Jan 2024 12:08:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Heidi/Behrends Cerniwey/2024-01-16 12:08:20</guid>
 		</item>
 	</channel>
 </rss>

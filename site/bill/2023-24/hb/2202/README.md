@@ -6,7 +6,4 @@
 ## Revisions
 * [Original Bill](1/)
 
-## 📰 Articles
-* 01/15/2024 [House Republicans](/org/house_republicans/) - [Fix the public safety crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/public-safety/#:~:text=House%20bill%202202)
-
 ## Meetings

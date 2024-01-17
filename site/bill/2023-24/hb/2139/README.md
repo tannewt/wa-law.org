@@ -14,10 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31661&aId=156570&caId=23129&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31661&aId=156570&caId=23129&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Kristi Tripple - Rowley Properties, Inc.
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Emi Koyama - Coalition for Rights & Safety for People in the Sex Trade
+* Lance Baker - Washington State Self Storage Association - Treasurer and Urban Self Storage - VP Business Developem
+* PATRICK GILROY - STOR-HOUSE

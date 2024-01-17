@@ -24,6 +24,8 @@
 ## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage 👍1  
 * 👍 Jeff Gombosky
 
+## [HB 2253](/bill/2023-24/hb/2253/) - Community solar 👍1  
+
 ## [SB 5165](/bill/2023-24/sb/5165/) - Electric transm. planning 👍1  
 * 👍💵 Kate Brouns
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2025/</link>
 		<description>Updates about HB 2025</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 15 Jan 2024 08:07:18 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 16 Jan 2024 04:47:22 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -36,6 +36,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Bill/Lyne/2024-01-15 08:07:18</guid>
+		</item>
+		<item>
+			<title>👍Ben Mitchell - Foundation for Tacoma Students / High School Success Coalition</title>
+			<description>Ben Mitchell signed up to testify Pro. They are signed up to represent Foundation for Tacoma Students / High School Success Coalition.</description>
+			<pubDate>Tue, 16 Jan 2024 04:47:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ben/Mitchell/2024-01-16 04:47:22</guid>
+		</item>
+		<item>
+			<title>👍💵Neil Strege - Washington Roundtable / High School Success Coalition</title>
+			<description>Neil Strege signed up to testify Pro. They are signed up to represent Washington Roundtable / High School Success Coalition. They are a registered lobbyist.</description>
+			<pubDate>Tue, 16 Jan 2024 04:47:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Neil/Strege/2024-01-16 04:47:22</guid>
+		</item>
+		<item>
+			<title>👍💵Yessenia Rivera - Stand for Children Washington / High School Success Coalition</title>
+			<description>Yessenia Rivera signed up to testify Pro. They are signed up to represent Stand for Children Washington / High School Success Coalition. They are a registered lobbyist.</description>
+			<pubDate>Tue, 16 Jan 2024 04:47:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Yessenia/Rivera/2024-01-16 04:47:22</guid>
 		</item>
 	</channel>
 </rss>

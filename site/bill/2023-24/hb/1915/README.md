@@ -8,7 +8,6 @@
 
 ## 📰 Articles
 * 01/16/2024 [Washington St Pta](/org/washington_st_pta/) - [WSPTA Testifies: Students and Leaders Convene in Olympia for Focus on Advocacy Day - WSPTA](https://www.wastatepta.org/wspta-testifies-foa-24/#:~:text=HB%201915)
-* 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%201915)
 * 01/12/2024 [The Center Square](/org/the_center_square/) - [Students in Washington could need to pass a financial literacy class to graduate | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_416a4c8a-b177-11ee-b237-9f1cc940f2a1.html#:~:text=HB%201915)
 
 ## Meetings

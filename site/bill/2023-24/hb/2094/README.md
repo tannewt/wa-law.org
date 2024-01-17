@@ -6,18 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
-## 📰 Articles
-* 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202094)
-
 ## Meetings
 ### Tue 01/16 01:30 PM - Consumer Protection & Business (CPB): HB 2094 Gift certificates
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31657&aId=156558&caId=23128&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31657&aId=156558&caId=23128&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31657&aId=156558&caId=23128&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31657&aId=156558&caId=23128&tId=4)
-
-#### 1772 👍 - Pro
+#### 1930 👍 - Pro
 Testifying:
 * Brenda Morgan - SEIU 775
 * Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
@@ -30,7 +21,7 @@ Testifying:
 * Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
 * Michael Johnson
 
-#### 240 👎 - Con
+#### 244 👎 - Con
 Testifying:
 * Lars Erickson - Seattle Metropolitan Chamber of Commerce
 * D'Arcy Harrison - COSMETOLOGISTS OF WASHINGTON UNITED

@@ -158,7 +158,8 @@
 
 ## [SB 5129](/bill/2023-24/sb/5129/) - Nuclear reactor technology 👍1  
 
-## [SB 5133](/bill/2023-24/sb/5133/) - Responsible bidder criteria   ❓1
+## [SB 5133](/bill/2023-24/sb/5133/) - Responsible bidder criteria   ❓2
+* ❓ Chris Herman
 * ❓ Chris Herman
 
 ## [SB 5159](/bill/2023-24/sb/5159/) - Shoreline program review 👍1  
@@ -238,6 +239,9 @@
 
 ## [SB 5955](/bill/2023-24/sb/5955/) - Large port districts  👎1 
 * 👎 Eric ffitch
+
+## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply   ❓1
+* ❓💵 Carly Michiels
 
 ## [SJM 8009](/bill/2023-24/sjm/8009/) - Harbor maintenance tax 👍1  
 * 👍 Chris Herman

@@ -161,7 +161,7 @@
 
 ## [SB 5823](/bill/2023-24/sb/5823/) - School district elections 👍1  
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Extending the crisis relief center model to provide behavioral health crisis services for minors. 👍1  
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
 
 ## [SB 5897](/bill/2023-24/sb/5897/) - Modifying provisions of the business licensing service program. 👍1  
 

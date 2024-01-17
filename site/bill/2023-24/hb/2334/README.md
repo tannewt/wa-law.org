@@ -14,11 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31621&aId=156942&caId=23276&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31621&aId=156942&caId=23276&tId=4)
 
-#### 5 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Caitlein Ryan - THE CANNABIS ALLIANCE
 * 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
+* Damian Mims - Black Excellence In Cannabis
+* Mike Asai - Black Excellence In Cannabis
+* Peter Manning - Black Excellence In Cannabis
+* Micah Sherman - Washington Sun and Craft Growers Association
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Marc Webster - Washington State Liquor and Cannabis Board
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Kelly McLain - Washington State Department of Agriculture

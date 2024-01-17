@@ -14,12 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31639&aId=156475&caId=23186&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31639&aId=156475&caId=23186&tId=4)
 
-#### 5 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Katie Hurley - King County Department of Public Defense
+* Dominique Davis - Community Passageways
+* Nicole McGrath - Legal Counsel for Youth and Children (LCYC)
+* Julian Cooper - TeamChild
 * Judge Jennifer Forbes - Superior Court Judges' Association
+* Richard Mendel - The Sentencing Project
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 #### 1 ❓ - Other
 Testifying:

@@ -19,9 +19,11 @@ Testifying:
 * 💵Michael White - [King County](/org/king_county/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 4 👎 - Con
+#### 11 👎 - Con
 Testifying:
 * Laurie Layne - Layne Software
 * Tim Eyman - Initiative Activist
+* Jeff Pack - Washington Citizens Against Unfair Taxes
+* Dave Kimble - Citizens Supporting South Kitsap Schools
 
 #### 0 ❓ - Other

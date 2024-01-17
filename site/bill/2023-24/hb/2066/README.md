@@ -17,12 +17,28 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31659&aId=156566&caId=23171&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31659&aId=156566&caId=23171&tId=4)
 
-#### 131 👍 - Pro
+#### 191 👍 - Pro
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
+* Chris Bandoli - NABIP WA
+* 💵Gary Strannigan - Premera
+* 💵Jennifer Muhm - Regence BlueShield
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* Jim Freeburg - Patient Coalition of Washington
+* Bill Kramer - Purchaser Business Group on Health
+* Evan Klein - Health Care Authority (HCA) - Special Assistant, Legislative & Policy Affairs
+* JD, Leah Hole-Marshall - WA Health Benefit Exchange, General Counsel and Chief Strategist
 
-#### 38 👎 - Con
+#### 126 👎 - Con
+Testifying:
+* Alex Town - samaritan healthcare
+* Bill Robertson - MultiCare Health System
+* 💵Chelene Whiteaker - Washington State Hospital Association
+* Doug Ross
+* Ettore Palazzo - Evergreenhealth
+* 💵Sean Graham - Washington State Medical Assocation (WSMA)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Lori Grassi - WA State Chiropractic Association

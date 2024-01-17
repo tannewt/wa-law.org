@@ -344,6 +344,8 @@
 ## [HB 2039](/bill/2023-24/hb/2039/) - Modifying the appeals process for environmental and land use matters. 👍1  
 * 👍💵 Peter Godlewski
 
+## [HB 2045](/bill/2023-24/hb/2045/) - Creating an adopt a fish barrier program. 👍1  
+
 ## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes.  👎1 
 * 👎💵 Peter Godlewski
 
@@ -383,11 +385,19 @@
 ## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage   ❓1
 * ❓💵 Peter Godlewski
 
+## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍1  
+
 ## [HB 2236](/bill/2023-24/hb/2236/) - Tech. ed. core plus programs   ❓1
 * ❓💵 Emily Wittman
 
 ## [HB 2253](/bill/2023-24/hb/2253/) - Community solar  👎1 
 * 👎💵 Peter Godlewski
+
+## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes  👎1 
+* 👎💵 Emily Shay
+
+## [HB 2360](/bill/2023-24/hb/2360/) - Digital workforce 👍1  
+* 👍💵 Emily Wittman
 
 ## [SB 5041](/bill/2023-24/sb/5041/) - Motor carrier safety 👍1  
 
@@ -547,7 +557,7 @@
 ## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax  👎1 
 * 👎💵 Emily Shay
 
-## [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra. 👍1  
+## [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra. 👍2  
 
 ## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍3  
 * 👍💵 Amy Anderson
@@ -608,12 +618,12 @@
 ## [SB 5795](/bill/2023-24/sb/5795/) - Year-round Pacific std. time 👍1  
 * 👍💵 Peter Godlewski
 
-## [SB 5815](/bill/2023-24/sb/5815/) - Concerning the physician assistant compact. 👍1  
+## [SB 5815](/bill/2023-24/sb/5815/) - Physician assistant compact 👍1  
 * 👍💵 Emily Wittman
 
 ## [SB 5819](/bill/2023-24/sb/5819/) - Financial education 👍1  
 
-## [SB 5845](/bill/2023-24/sb/5845/) - Military housing taxation  👎1 
+## [SB 5845](/bill/2023-24/sb/5845/) - Military housing taxation  👎1 ❓1
 * 👎 Morgan Irwin
 
 ## [SB 5901](/bill/2023-24/sb/5901/) - Concerning co-living housing. 👍1  
@@ -638,4 +648,9 @@
 ## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage   ❓1
 * ❓💵 Peter Godlewski
 
+## [SB 6092](/bill/2023-24/sb/6092/) - Greenhouse gas disclosures  👎1 
+* 👎💵 Peter Godlewski
+
 ## [SB 6101](/bill/2023-24/sb/6101/) - Hospital at-home services 👍1  
+
+## [SB 6136](/bill/2023-24/sb/6136/) - Rental property B&O tax  👎1 

@@ -54,8 +54,16 @@
 ## [HB 1905](/bill/2023-24/hb/1905/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
 * 👍💵 Gabriela Quintana
 
+## [HB 1959](/bill/2023-24/hb/1959/) - Extending parts of the paid family and medical leave program to employers with fewer than 50 employees. 👍1  
+
+## [HB 1991](/bill/2023-24/hb/1991/) - Paid sick leave 👍1  
+
 ## [HB 2102](/bill/2023-24/hb/2102/) - PFML benefits/health info. 👍1  
 * 👍💵 Gabriela Quintana
+
+## [HB 2119](/bill/2023-24/hb/2119/) - Medical debt garnishment 👍1  
+
+## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍2  
 

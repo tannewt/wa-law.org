@@ -7,9 +7,9 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/16/2024 [The Center Square](/org/the_center_square/) - [Spokane lawmaker resurrects $86 million taxpayer-funded school lunch plan | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_dafbd75e-b4cb-11ee-a5a5-b7c4f5d22d7e.html#:~:text=House%20Bill%202058)
 * 01/08/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Session Preview: Legislature convenes January 8 for short session - WSPTA](https://www.wastatepta.org/2024-session-preview/#:~:text=HB%202058)
 * 01/08/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/08/the-house-hot-sheet-for-week-1-of-the-2024-legislative-session/#:~:text=HB%202058)
-* 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%202058)
 
 ## Meetings
 ### Thu 01/11 08:00 AM - Education (ED): HB 2058 Free school meals

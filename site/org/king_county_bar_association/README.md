@@ -13,6 +13,8 @@
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍2  
 
+## [HB 2237](/bill/2023-24/hb/2237/) - Parenting plan limitations 👍1  
+
 ## [SB 5197](/bill/2023-24/sb/5197/) - Eviction processes 👍2  
 * 👍💵 Edmund Witter
 * 👍💵 Edmund Witter

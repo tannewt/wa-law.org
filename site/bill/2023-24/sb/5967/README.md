@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31629&aId=156447&caId=23079&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31629&aId=156447&caId=23079&tId=4)
 
-#### 5 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Jet Richardson - Tri-County Partners Habitat for Humanity
+* Jonathan Thomas - South Puget Sound Habitat for Humanity
 
 #### 1 👎 - Con
 Testifying:

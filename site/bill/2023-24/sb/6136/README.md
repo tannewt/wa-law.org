@@ -11,18 +11,18 @@
 
 ## Meetings
 ### Wed 01/17 10:30 AM - Housing (HSG): SB 6136 Rental property B&O tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31628&aId=156823&caId=23033&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31628&aId=156823&caId=23033&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31628&aId=156823&caId=23033&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31628&aId=156823&caId=23033&tId=4)
-
-#### 5 👍 - Pro
+#### 65 👍 - Pro
 Testifying:
 * Matthew Lang - Transit Riders Union
 * 💵Ishbel Dickens - Assoc of Manufactured Home Owners
+* Terri Anderson - Tenants Union of Washington State
+* 💵Edith Baltazar - Firelands Workers Action/Acción de Trabajadores
+* Kate Rubin - Be:Seattle
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Debbie Lacy - Eastside For All
+* Talauna Reed - Tenants Union of Washington State
 
-#### 549 👎 - Con
+#### 925 👎 - Con
 Testifying:
 * Christina Nelson - TBPM
 * Kristopher Murphy
@@ -32,10 +32,34 @@ Testifying:
 * Doug Anderson
 * Geoffrey Arthur - Northwest Realty Associates, LLC
 * Bruce Becker
+* zoya sushinskiy - Megateam, LLC
+* RUSS MILLARD - LEISURE ESTATES LLC
+* Sheri Goldman
+* Ian Randall
+* Lindee Stanford
+* Cindy Neary - Cindy's Rental
+* Sheri Druckman - Legacy Partners
+* carl haglund - Columbia Modern Living
+* Tim Eyman - Initiative Activist
+* Alex Arwine
+* Christa Connolly - MHCW
+* Jake Bond - GSC Investments
+* Mike Simonitch - Shelter Properties
 * Ryan Erickson - Commonwealth Real Estate
 * Nancy Trucano
 * William Shadbolt - [Washington Business Properties Association](/org/washington_business_properties_association/)
 * Barbara Korducki
+* Elisa Lyles
 * Susan Watkins - self, Landlord for 100+ individual homes for 40 + years.
+* Debby Herbert
+* Sam Spiegelman - Citizen Action Defense Fund
+* Mohamed Dobashi
+* Patricia Hoendermis - Yakima Valley Landlords Assoc.
+* Jennifer Lekisch
+* Beth Daranciang
+* Larry Seto
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* RUSS MILLARD - Signature Home Sales, LLC
+* John Flanagan - [Port of Seattle](/org/port_of_seattle/)

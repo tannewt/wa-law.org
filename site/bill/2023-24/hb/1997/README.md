@@ -8,16 +8,10 @@
 
 ## Meetings
 ### Wed 01/17 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1997 Parks and recreation comm.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31650&aId=156524&caId=23195&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31650&aId=156524&caId=23195&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31650&aId=156524&caId=23195&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31650&aId=156524&caId=23195&tId=4)
-
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Owen Rowe - State Parks and Recreation Commission
 
-#### 1 👎 - Con
+#### 31 👎 - Con
 
 #### 0 ❓ - Other

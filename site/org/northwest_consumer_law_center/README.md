@@ -12,6 +12,11 @@
 ## [HB 1874](/bill/2023-24/hb/1874/) - Protecting consumers from predatory loans. 👍2  
 * 👍 Sam Leonard
 
+## [HB 2081](/bill/2023-24/hb/2081/) - Home equity sharing 👍1  
+* 👍💵 Emily Murphy
+
+## [HB 2119](/bill/2023-24/hb/2119/) - Medical debt garnishment 👍1  
+
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest 👍3  
 
 ## [SB 5173](/bill/2023-24/sb/5173/) - Property exempt from exec. 👍2  

@@ -6,18 +6,25 @@
 ## Revisions
 * [Original Bill](1/)
 
-## 📰 Articles
-* 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202019)
-
 ## Meetings
-### Tue 01/16 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2019 Native American apprentices
+### Wed 01/17 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2019 Native American apprentices
 Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31671&aId=156643&caId=23216&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31671&aId=156643&caId=23216&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31671&aId=156643&caId=23216&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31671&aId=156643&caId=23216&tId=4)
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31672&aId=157483&caId=23289&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31672&aId=157483&caId=23289&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31672&aId=157483&caId=23289&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31672&aId=157483&caId=23289&tId=4)
 
-#### 91 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* 💵Heather Kurtenbach - Ironworkers Local 86
+* 💵Erin Frasier - Washington State Building & Construction Trades Council
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Tue 01/16 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2019 Native American apprentices
+#### 92 👍 - Pro
 Testifying:
 * 💵Charles Adkins - The Tulalip Tribes
 * Andrew Vander Stoep - IBEW L 191

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31661&aId=156573&caId=23132&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31661&aId=156573&caId=23132&tId=4)
 
-#### 214 👍 - Pro
+#### 265 👍 - Pro
 Testifying:
 * Adam Reich
 * Arun Vaidyanathan - Brotherton Cadillac
@@ -22,7 +22,26 @@ Testifying:
 * Miles Richardson - University VW/Audi
 * 💵Scott Hazlegrove - WA State Auto Dealers Association
 * Stephen Moore - Vehicle Technician
+* Jen Moran - Carter Motors
+* Cindy Goodwin
+* 💵Paula Sardinas - WBBA/FMSGS
 
-#### 0 👎 - Con
+#### 356 👎 - Con
+Testifying:
+* Curt Augustine - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)
+* Jeff Perry - General Motors
+* Thomas Lawson - Ford
+* Tom Trisdale - Toyota Motor, North America
+* Mark Prentice
+* Terrence Yip
+* Beau Whiteman - Rivian
+* Hannah Steinweg - Rivian
+* David Schripsema
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* 💵Paula Sardinas - WBBA & EV Advisory Counsel Co-Chair (TES)
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Jeff Gombosky - [Tesla](/org/tesla/)
+* Steven Hershkowtiz - Washington Department of Commerce
+* 💵Isaac Kastama - Clean & Prosperous Washington

@@ -8,16 +8,13 @@
 
 ## Meetings
 ### Wed 01/17 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2254 Child support schedule
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31688&aId=156792&caId=23114&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31688&aId=156792&caId=23114&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31688&aId=156792&caId=23114&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31688&aId=156792&caId=23114&tId=4)
-
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Brady Horenstein - Family Law Attorney
+* Sharon Redmond - Division of Child Support, Washington State Department of Social and Health Services
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵James Clark - I am a member of the 2023 Child Support Schedule Workgroup.
 
 #### 0 ❓ - Other

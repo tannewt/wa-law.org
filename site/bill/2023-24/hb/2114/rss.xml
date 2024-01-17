@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2114/</link>
 		<description>Updates about HB 2114</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 12 Jan 2024 00:01:21 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 16 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -150,13 +150,6 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Mike/Hoover/2024-01-05 10:41:51</guid>
-		</item>
-		<item>
-			<title>The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans</title>
-			<description>News article &quot;The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans&quot; from House Republicans.</description>
-			<pubDate>Fri, 05 Jan 2024 23:45:04 GMT</pubDate>
-			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%202114</guid>
 		</item>
 		<item>
 			<title>👎Christie Malchow - Detente Management</title>
@@ -1081,6 +1074,13 @@
 			<pubDate>Fri, 12 Jan 2024 00:01:21 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.nwnewsnetwork.org/government-and-politics/2024-01-11/wa-lawmakers-weigh-proposal-to-slow-rising-rental-costs-amid-ongoing-housing-crisis#:~:text=House%20Bill%202114</guid>
+		</item>
+		<item>
+			<title>HOUS - Executive action taken by committee.</title>
+			<description>HOUS - Executive action taken by committee.</description>
+			<pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-16/HOUS - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

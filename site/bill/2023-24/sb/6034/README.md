@@ -14,8 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31645&aId=156936&caId=23261&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31645&aId=156936&caId=23261&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
+* Jay Carey - [Washington Land Title Association](/org/washington_land_title_association/)
 * Jesse Hamilton - Pioneer Title Company
 
 #### 0 👎 - Con

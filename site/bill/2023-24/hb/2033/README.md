@@ -6,7 +6,4 @@
 ## Revisions
 * [Original Bill](1/)
 
-## 📰 Articles
-* 01/16/2024 [House Republicans](/org/house_republicans/) - [Fix the housing & homelessness crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/housing/#:~:text=House%20bill%202033)
-
 ## Meetings

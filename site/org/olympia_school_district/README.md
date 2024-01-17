@@ -3,6 +3,9 @@
 ## [HB 1436](/bill/2023-24/hb/1436/) - Special education funding  👎1 
 * 👎 Superintendent, Patrick Murphy
 
+## [HB 2180](/bill/2023-24/hb/2180/) - Special education cap 👍1  
+* 👍 DARCY HUFFMAN
+
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
 
 ## [SB 5956](/bill/2023-24/sb/5956/) - Enrichment levies limit 👍1  

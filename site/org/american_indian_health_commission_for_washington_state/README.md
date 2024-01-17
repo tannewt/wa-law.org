@@ -12,6 +12,8 @@
 
 ## [HB 2019](/bill/2023-24/hb/2019/) - Establishing a Native American apprentice assistance program. 👍1  
 
+## [HB 2098](/bill/2023-24/hb/2098/) - Women's commission/gifts 👍1  
+
 ## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention 👍1  
 
 ## [HB 2157](/bill/2023-24/hb/2157/) - Vaccine definition 👍1  

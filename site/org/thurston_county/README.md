@@ -30,7 +30,7 @@
 
 ## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services 👍1  
 
-## [HB 1925](/bill/2023-24/hb/1925/) - Expanding the veterans service officer program to increase veteran support statewide. 👍1  
+## [HB 1925](/bill/2023-24/hb/1925/) - Veterans service officers 👍1  
 
 ## [HB 1926](/bill/2023-24/hb/1926/) - Concerning supervision compliance credit. 👍1  
 

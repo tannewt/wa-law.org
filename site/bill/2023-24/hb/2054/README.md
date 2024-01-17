@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/16/2024 [KING5](/org/king5/) - [Gun-related bill proposals include permits, purchase limits in Washington | king5.com](https://www.king5.com/article/news/local/gun-related-proposals-permits-purchase-limits/281-b54240bc-62d3-4914-bee4-86c6ef49d5f5#:~:text=House%20Bill%202054)
+
 ## Meetings
 ### Tue 01/16 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2054 Firearm bulk purchases
 #### 843 👍 - Pro

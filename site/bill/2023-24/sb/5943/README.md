@@ -17,10 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31615&aId=156397&caId=23046&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31615&aId=156397&caId=23046&tId=4)
 
-#### 26 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * Aundrea Jackson - WA211 and Crisis Connections
 * TIM SULLIVAN - Washington 211
+* Joyce Newsom - People For People
+* Deb Miller - Action Health Partners
 
 #### 0 👎 - Con
 

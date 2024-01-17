@@ -161,6 +161,8 @@
 
 ## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍1  
 
+## [HB 1986](/bill/2023-24/hb/1986/) - Adding purposes for the use of existing firefighter safety funding. 👍1  
+
 ## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍1  
 
 ## [HB 2019](/bill/2023-24/hb/2019/) - Establishing a Native American apprentice assistance program. 👍1  
@@ -184,6 +186,8 @@
 ## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍1  
 
 ## [HB 2172](/bill/2023-24/hb/2172/) - Vacant state agency property 👍1  
+
+## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍1  
 
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍1  
 
@@ -301,7 +305,7 @@
 
 ## [SB 5838](/bill/2023-24/sb/5838/) - Establishing an artificial intelligence task force. 👍1  
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Extending the crisis relief center model to provide behavioral health crisis services for minors. 👍1  
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
 
 ## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍1  
 
@@ -317,3 +321,5 @@
 ## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍1  
 
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development 👍1  
+
+## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  

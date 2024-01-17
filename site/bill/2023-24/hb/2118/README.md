@@ -7,8 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/16/2024 [KING5](/org/king5/) - [Gun-related bill proposals include permits, purchase limits in Washington | king5.com](https://www.king5.com/article/news/local/gun-related-proposals-permits-purchase-limits/281-b54240bc-62d3-4914-bee4-86c6ef49d5f5#:~:text=House%20Bill%202118)
 * 01/15/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/15/the-house-hot-sheet-for-week-2-of-the-2024-legislative-session/#:~:text=HB%202118)
-* 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202118)
 
 ## Meetings
 ### Tue 01/16 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2118 Firearms dealers

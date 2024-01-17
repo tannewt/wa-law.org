@@ -7,7 +7,6 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson calls for increase in Washington’s penalty for price-fixing | Washington State](http://www.atg.wa.gov/news/news-releases/ag-ferguson-calls-increase-washington-s-penalty-price-fixing#:~:text=SB%205994)
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [2024 Legislative Priorities | Washington State](https://www.atg.wa.gov/2024-legislative-priorities#:~:text=SB%205994)
 
 ## Meetings

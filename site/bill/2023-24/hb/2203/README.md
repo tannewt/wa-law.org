@@ -11,14 +11,9 @@
 
 ## Meetings
 ### Wed 01/17 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2203 Incarcerated veterans pilot
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31650&aId=156525&caId=23196&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31650&aId=156525&caId=23196&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31650&aId=156525&caId=23196&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31650&aId=156525&caId=23196&tId=4)
-
-#### 6 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
+* Larry Jefferson - Washington State Office of Public Defense/Washington State Reentry Council
 * Dennis Gibb - Edmonds College
 
 #### 0 👎 - Con

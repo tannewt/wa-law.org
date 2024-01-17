@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31640&aId=156898&caId=23257&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31640&aId=156898&caId=23257&tId=4)
 
-#### 13 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Shawn Sandquist
 * Serry Bauer
@@ -27,6 +27,7 @@ Testifying:
 * Seth Barronian - Brain Injury Community Alliance
 * Michele Kauffman - no
 * Andrea Gray
+* Daniella Clark
 
 #### 0 👎 - Con
 

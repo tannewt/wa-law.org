@@ -1,0 +1,203 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 2409](/bill/2023-24/hb/2409/) > [Original Bill](/bill/2023-24/hb/2409/1/)
+
+# HB 2409 - Safe excavation practices
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/2409.pdf)
+
+## Section 1
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Bar hole" means a hole made in the soil or pavement with a hand-operated bar for the specific purpose of testing the subsurface atmosphere with a combustible gas indicator.
+
+2. "Business day" means any day other than Saturday, Sunday, or a legal local, state, or federal holiday.
+
+3. "Commission" means the utilities and transportation commission.
+
+4. "Damage" includes the substantial weakening of structural or lateral support of an underground facility, penetration, impairment, or destruction of any underground protective coating, housing, or other protective device, or the severance, partial or complete, of any underground facility to the extent that the project owner or the affected facility operator determines that repairs are required.
+
+5. "Emergency" means any condition constituting a clear and present danger to life or property, or a customer service outage.
+
+6. "End user" means any utility customer or consumer of utility services or commodities provided by a facility operator.
+
+7. "Equipment operator" means an individual conducting an excavation.
+
+8. "Excavation" and "excavate" means any operation, including the installation of signs, in which earth, rock, or other material on or below the ground is moved or otherwise displaced by any means.
+
+9. "Excavation confirmation code" means a code or ticket issued by a one-number locator service for the site where an excavation is planned. The code must be accompanied by the date and time it was issued.
+
+10. "Excavator" means any person who engages directly in excavation.
+
+11. "Facility operator" means any person who owns an underground facility or is in the business of supplying any utility service or commodity for compensation. "Facility operator" does not include a utility customer who owns a service lateral that terminates at a facility operator's main utility line.
+
+12. "Gas" means natural gas, flammable gas, or toxic or corrosive gas.
+
+13. "Hard Surface" means an area covered with asphalt, concrete, interlocking brick or block, solid stone, wood or any similar impervious or nonporous material on the surface of the ground.
+
+14. "Hazardous liquid" means:
+
+    a. Petroleum, petroleum products, or anhydrous ammonia as those terms are defined in 49 C.F.R. Part 195 as in effect on March 1, 1998;
+
+    b. Carbon dioxide; and
+
+    c. Other substances designated as hazardous by the secretary of transportation and incorporated by reference by the commission by rule.
+
+15. "Identified but unlocatable underground facility" means an underground facility which has been identified but cannot be located with reasonable accuracy.
+
+16. "Large project" means a project that exceeds seven hundred linear feet.
+
+17. "Locatable underground facility" means an underground facility which can be marked with reasonable accuracy.
+
+18. "Marking" means the use of stakes, paint, or other clearly identifiable materials to show the field location of underground facilities, in accordance with the current color code standard of the American public works association. Markings shall include identification letters indicating the specific type of the underground facility. Locate marks are not required to indicate the depth of the underground facility given the potential change of topography over time.
+
+19. "Notice" or "notify" means contact in person or by telephone or other electronic method, and, with respect to contact of a one-number locator service, also results in the receipt of a valid excavation confirmation code.
+
+20. "One-number locator service" means a service through which a person can notify facility operators and request marking of underground facilities.
+
+21. "Person" means an individual, partnership, franchise holder, association, corporation, the state, a city, a county, a town, or any subdivision or instrumentality of the state, including any unit of local government, and its employees, agents, or legal representatives.
+
+22. "Pipeline" or "pipeline system" means all or parts of a pipeline facility through which hazardous liquid or gas moves in transportation, including, but not limited to, line pipe, valves, and other appurtenances connected to line pipe, pumping units, fabricated assemblies associated with pumping or compressor units, metering and delivery stations and fabricated assemblies therein, and breakout tanks. "Pipeline" or "pipeline system" does not include process or transfer pipelines.
+
+23. "Pipeline company" means a person or entity constructing, owning, or operating a pipeline for transporting hazardous liquid or gas. "Pipeline company" does not include:
+
+    a. Distribution systems owned and operated under franchise for the sale, delivery, or distribution of natural gas at retail; or
+
+    b. Excavation contractors or other contractors that contract with a pipeline company.
+
+24. "Positive Response" is a notification from the facility owner or operator or their authorized locating contractor to the one number locate center that the facility owner or operator or their contractor has completed marking or providing information in response to a notice.
+
+25. "Reasonable accuracy" means a location within 24 horizontal inches of the lateral sides of an underground facility.
+
+26. "Service lateral" means an underground water, stormwater, or sewer facility located in a public right-of-way or utility easement that connects an end user's building or property to a facility operator's underground facility, and terminates beyond the public right-of-way or utility easement.
+
+27. "Transfer pipeline" means a buried or aboveground pipeline used to carry hazardous liquid between a tank vessel or transmission pipeline and the first valve inside secondary containment at a facility, provided that any discharge on the facility side of the first valve will not directly impact waters of the state. "Transfer pipeline" includes valves and other appurtenances connected to the pipeline, pumping units, and fabricated assemblies associated with pumping units. "Transfer pipeline" does not include process pipelines, pipelines carrying ballast or bilge water, transmission pipelines, or tank vessel or storage tanks.
+
+28. "Transmission pipeline" means a pipeline that transports hazardous liquid or gas within a storage field, or transports hazardous liquid or gas from an interstate pipeline or storage facility to a distribution main or a large volume hazardous liquid or gas user, or operates at a hoop stress of twenty percent or more of the specified minimum yield strength.
+
+29. "Underground facility" means any item buried or placed below ground for use in connection with the storage or conveyance of water, sewage, electronic, telephonic or telegraphic communications, cablevision, electric energy, petroleum products, gas, gaseous vapors, hazardous liquids, or other substances and including but not limited to pipes, sewers, conduits, cables, valves, lines, wires, manholes, attachments, and those parts of poles or anchors that are below ground. This definition does not include pipelines as defined in subsection (22) of this section, but does include distribution systems owned and operated under franchise for the sale, delivery, or distribution of natural gas at retail.
+
+30. "Unlocatable underground facility" means, subject to the provisions of RCW 19.122.030, an underground facility that cannot be marked with reasonable accuracy using available information to designate the location of an underground facility. "Unlocatable underground facility" includes, but is not limited to, service laterals, storm drains, and nonconductive and nonmetallic underground facilities that do not contain trace wires.
+
+31. "Utility easement" means a right held by a facility operator to install, maintain, and access an underground facility or pipeline.
+
+## Section 2
+1. Unless exempted under RCW 19.122.031, before commencing any excavation, an excavator must mark the boundary of the excavation area using white lining, or, when necessary, pin flags with white paint applied on the ground of the worksite, then provide notice of the scheduled commencement of excavation to all facility operators through a one-number locator service.
+
+2. An excavator must provide the notice required by subsection (1) of this section to a one-number locator service not less than two full business days and not more than 10 full business days before the scheduled date for commencement of excavation, unless otherwise agreed by written agreement between the excavator and facility operators. If an excavator intends to work at multiple sites or at a large project, the excavator must take reasonable steps to confer with facility operators to enable them to locate underground facilities reasonably in advance of the start of excavation for each phase of the work.
+
+3. Upon receipt of the notice provided for in subsection (1) of this section, a facility operator must, with respect to:
+
+    a. The facility operator's locatable underground facilities within the boundary of the white lined area, provide the excavator with reasonably accurate information by marking their location. Facility operators that do not have underground facilities within the boundaries of the excavation area will provide a positive response to inform excavators the area is clear of their buried facilities;
+
+    b. The facility operator's unlocatable or identified but unlocatable underground facilities, provide the excavator with available information as to their location; and
+
+    c. Service laterals, designate their presence or location, if the service laterals:
+
+        i. Connect end users to the facility operator's main utility line; and
+
+        ii. Are within a public right-of-way or utility easement and the boundary of the excavation area identified under subsection (1) of this section.
+
+4. [Empty]
+
+    a. A facility operator must provide information to an excavator pursuant to subsection (3) of this section no later than the work to begin date after the receipt of the notice provided for in subsection (1) of this section , unless otherwise agreed by the parties.
+
+    b. A facility operator complying with subsection (3)(b) and (c) of this section may do so in a manner that includes any of the following methods:
+
+        i. Placing within a proposed excavation area a triangular mark at the main utility line pointing at the building, structure, or property in question, indicating the presence of an unlocatable or identified but unlocatable underground facility, including a service lateral;
+
+        ii. Arranging to meet an excavator at a worksite to provide available information about the location of service laterals; or
+
+        iii. Providing copies of the best reasonably available records by electronic message, mail, facsimile, or other delivery method.
+
+    c. A facility operator's good faith attempt to comply with subsection (3)(b) and (c) of this section:
+
+        i. Constitutes full compliance with the requirements of this section, and no person may be found liable for damages or injuries that may result from such compliance, apart from liability for arranging for repairs or relocation as provided in RCW 19.122.050(2); and
+
+        ii. Does not constitute any assertion of ownership or operation of a service lateral by the facility operator.
+
+    d. An end user is responsible for determining the location of a service lateral on their property or a service lateral that they own. Nothing in this section may be interpreted to require an end user to subscribe to a one-number locator service or to locate a service lateral within a right-of-way or utility easement.
+
+5. An excavator must not excavate until all known facility operators have marked or provided information regarding underground facilities as provided in this section.
+
+6. [Empty]
+
+    a. Once marked by a facility operator, an excavator is responsible for maintaining the accuracy of the facility operator's markings of underground facilities for the lesser of:
+
+        i. Forty-five calendar days from the date that the excavator provided notice to a one-number locator service pursuant to subsection (1) of this section; or
+
+        ii. The duration of the project.
+
+    b. An excavator that makes repeated requests for location of underground facilities due to its failure to maintain the accuracy of a facility operator's markings as required by this subsection (6) may be charged by the facility operator for services provided.
+
+    c. A facility operator's markings of underground utilities expire forty-five calendar days from the date that the excavator provided notice to a one-number locator service pursuant to subsection (1) of this section. For excavation occurring after that date, an excavator must provide additional notice to a one-number locator service pursuant to subsection (1) of this section.
+
+7. An excavator has the right to receive reasonable compensation from a facility operator for costs incurred by the excavator if the facility operator does not locate its underground facilities in accordance with the requirements specified in this section.
+
+8. A facility operator has the right to receive reasonable compensation from an excavator for costs incurred by the facility operator if the excavator does not comply with the requirements specified in this section.
+
+9. A facility operator is not required to comply with subsection (4) of this section with respect to service laterals conveying only water if their presence can be determined from other visible water facilities, such as water meters, water valve covers, and junction boxes in or adjacent to the boundary of an excavation area identified under subsection (1) of this section.
+
+10. If an excavator discovers underground facilities that are not identified, the excavator must cease excavating in the vicinity of the underground facilities and immediately notify the facility operator or a one-number locator service. If an excavator discovers identified but unlocatable underground facilities, the excavator must notify the facility operator. Upon notification by a one-number locator service or an excavator, a facility operator must allow for location of the uncovered portion of an underground facility identified by the excavator, and may accept location information from the excavator for marking of the underground facility.
+
+## Section 3
+1. Project owners shall indicate in bid or contract documents the existence of underground facilities known by the project owner to be located within the proposed area of excavation. The following are deemed to be changed or differing site conditions:
+
+    a. An underground facility not identified as required by this chapter or other provision of law; or
+
+    b. An underground facility not located, as required by this chapter or other provision of law, by the project owner, facility operator, or excavator if the project owner or excavator is also a facility operator.
+
+2. An excavator shall use reasonable care to avoid damaging underground facilities, including while removing hard surfaces. An excavator must:
+
+    a. Determine the precise location of underground facilities which have been marked;
+
+    b. Plan the excavation to avoid damage to or minimize interference with underground facilities in and near the excavation area; and
+
+    c. Provide such support for underground facilities in and near the construction area, including during backfill operations, as may be reasonably necessary for the protection of such facilities.
+
+3. If an underground facility is damaged and such damage is the consequence of the failure to fulfill an obligation under this chapter, the party failing to perform that obligation is liable for any damages. Any clause in an excavation contract which attempts to allocate liability, or requires indemnification to shift the economic consequences of liability, that differs from the provisions of this chapter is against public policy and unenforceable. Nothing in this chapter prevents the parties to an excavation contract from contracting with respect to the allocation of risk for changed or differing site conditions.
+
+4. In any action brought under this section, the prevailing party is entitled to reasonable attorneys' fees.
+
+## Section 4
+1. The commission must contract with a statewide, nonprofit entity whose purpose is to reduce damages to underground and above ground facilities, promote safe excavation practices, and review complaints of alleged violations of this chapter. The contract must not obligate funding by the commission for activities performed by the nonprofit entity or the safety committee under this section.
+
+2. The contracting entity must create a safety committee to:
+
+    a. Advise the commission and other state agencies, the legislature, and local governments on best practices and training to prevent damage to underground utilities, and policies to enhance worker and public safety; and
+
+    b. Review complaints alleging violations of this chapter involving practices related to underground facilities. The safety committee does not have authority to review downtime or other claim disputes between facility operators and excavators.
+
+3. [Empty]
+
+    a. The safety committee will consist of thirteen members, who must be nominated by represented groups and appointed by the contracting entity to staggered three-year terms. The safety committee must include representatives of:
+
+        i. Local governments;
+
+        ii. A natural gas utility subject to regulation under Titles 80 and 81 RCW;
+
+        iii. Contractors;
+
+        iv. Excavators;
+
+    v. An electric utility subject to regulation under Title 80 RCW;
+
+    vi. A consumer-owned utility, as defined in RCW 19.27A.140;
+
+    vii. A pipeline company;
+
+    viii. A water-sewer district subject to regulation under Title 57 RCW;
+
+        ix. The commission; and
+
+    x. A telecommunications company.
+
+    b. The safety committee may pass bylaws and provide for those organizational processes that are necessary to complete the safety committee's tasks.
+
+4. The safety committee must meet at least once every three months.
+
+5. The safety committee may review complaints of alleged violations of this chapter involving practices related to underground facilities. Any person may bring a complaint to the safety committee regarding an alleged violation occurring on or after January 1, 2013.
+
+6. To review complaints of alleged violations, the safety committee must appoint at least three and not more than five members as a review committee. The review committee must be a balanced group, including at least one excavator and one facility operator.
+
+7. Before reviewing a complaint alleging a violation of this chapter, the review committee must notify the person making the complaint and the alleged violator of its review and of the opportunity to participate.
+
+8. The safety committee may provide written notification to the commission, with supporting documentation, that a person has likely committed a violation of this chapter, and recommend remedial action that may include a penalty amount, training, or education to improve public safety, or some combination thereof.

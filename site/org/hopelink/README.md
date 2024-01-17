@@ -68,9 +68,13 @@
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
+## [HB 2119](/bill/2023-24/hb/2119/) - Medical debt garnishment 👍1  
+
 ## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍1  
 
 ## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍1  
+
+## [HB 2256](/bill/2023-24/hb/2256/) - Children behavioral health 👍1  
 
 ## [SB 5028](/bill/2023-24/sb/5028/) - Name changes 👍1  
 
@@ -125,3 +129,5 @@
 ## [SB 5899](/bill/2023-24/sb/5899/) - Adding to the list of provisions prohibited from rental agreements. 👍1  
 
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development 👍1  
+
+## [SB 6136](/bill/2023-24/sb/6136/) - Rental property B&O tax 👍1  

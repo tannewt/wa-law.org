@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31683&aId=156813&caId=23059&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31683&aId=156813&caId=23059&tId=4)
 
-#### 51 👍 - Pro
+#### 57 👍 - Pro
 Testifying:
 * Amna Qazi
 * Hamdia Isahaq
@@ -24,4 +24,6 @@ Testifying:
 
 #### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Ahsan Khokhar

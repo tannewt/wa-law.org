@@ -37,6 +37,10 @@
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
 * ❓ Charles Smith
 
+## [HB 2186](/bill/2023-24/hb/2186/) - Juv. deferred adjudications 👍1  
+
+## [HB 2217](/bill/2023-24/hb/2217/) - Juvenile criminal offenses 👍1  
+
 ## [HB 2218](/bill/2023-24/hb/2218/) - Extended foster care 👍2  
 * 👍 Charles Smith
 

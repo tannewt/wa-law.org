@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2274/</link>
 		<description>Updates about HB 2274</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 10 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 17 Jan 2024 06:34:37 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,14 @@
 			<pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-10/First reading, referred to Consumer Protection &amp; Business.</guid>
+		</item>
+		<item>
+			<title>👍Riley Benge - Washington REALTORS</title>
+			<description>Riley Benge signed up to testify Pro. They are signed up to represent Washington REALTORS.</description>
+			<pubDate>Wed, 17 Jan 2024 06:34:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Riley/Benge/2024-01-17 06:34:37</guid>
 		</item>
 	</channel>
 </rss>

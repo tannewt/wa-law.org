@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31659&aId=156565&caId=23170&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31659&aId=156565&caId=23170&tId=4)
 
-#### 74 👍 - Pro
+#### 86 👍 - Pro
 Testifying:
+* MD, Mike Barsotti - Providence
+* 💵Hugh Ewart - Seattle Children's
 * Michele Hagerstrom - MultiCare Mary Bridge Children's Hospital
+* Paige Killelea - WA Chapter of the American Academy of Pediatrics
 
 #### 0 👎 - Con
 

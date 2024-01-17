@@ -21,6 +21,9 @@
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 * 👍💵 Brian Enslow
 
+## [HB 2172](/bill/2023-24/hb/2172/) - Vacant state agency property 👍1  
+* 👍💵 Brian Enslow
+
 ## [HB 2253](/bill/2023-24/hb/2253/) - Community solar 👍1  
 
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍2  

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/16/2024 [KING5](/org/king5/) - [Gun-related bill proposals include permits, purchase limits in Washington | king5.com](https://www.king5.com/article/news/local/gun-related-proposals-permits-purchase-limits/281-b54240bc-62d3-4914-bee4-86c6ef49d5f5#:~:text=House%20Bill%201903)
 * 12/15/2023 [MyNorthwest](/org/mynorthwest/) - [State Rep proposes bill requiring live-fire training for gun ownership - MyNorthwest.com](https://mynorthwest.com/3943153/olympia-bill-proposes-live-fire-training-for-firearm-permit-acquisition/#:~:text=HB%201903)
 * 12/13/2023 [House Democrats](/org/house_democrats/) - [Rep. Liz Berry to attend White House Legislative Convening on Gun Violence Prevention  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/12/13/rep-liz-berry-to-attend-white-house-legislative-convening-on-gun-violence-prevention/#:~:text=HB%201903)
 

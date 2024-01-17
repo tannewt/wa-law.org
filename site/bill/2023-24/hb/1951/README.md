@@ -14,17 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31662&aId=156578&caId=23135&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31662&aId=156578&caId=23135&tId=4)
 
-#### 7 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * Robert Eleveld - Transparency Coalition.ai
 * Jai Jaisimha - Transparency Coalition
 * Emi Koyama - Coalition for Rights & Safety for People in the Sex Trade
 * Chirag Shah
 
-#### 6 👎 - Con
+#### 525 👎 - Con
 Testifying:
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 
-#### 1 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
+* Tatiana Rice - Future of Privacy Forum

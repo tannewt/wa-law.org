@@ -5,6 +5,8 @@
 
 ## [HB 1117](/bill/2023-24/hb/1117/) - Power supply inadequacy 👍2  
 
+## [HB 2156](/bill/2023-24/hb/2156/) - Solar consumer protections 👍1  
+
 ## [SB 5039](/bill/2023-24/sb/5039/) - Wildfires/electric utilities 👍1  
 * 👍💵 Andy Barth
 

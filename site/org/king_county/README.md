@@ -94,7 +94,7 @@
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍2  
 
-## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍1  
+## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍2  
 
 ## [HB 1188](/bill/2023-24/hb/1188/) - Child welfare services/DD 👍1  
 
@@ -323,6 +323,10 @@
 
 ## [HB 1952](/bill/2023-24/hb/1952/) - Concerning long-term community recovery after disasters. 👍1  
 
+## [HB 1956](/bill/2023-24/hb/1956/) - Addressing fentanyl and other substance use prevention education. 👍1  
+
+## [HB 2012](/bill/2023-24/hb/2012/) - Concerning eligibility for a property tax exemption for nonprofits providing affordable rental housing built with city and county funds. 👍1  
+
 ## [HB 2021](/bill/2023-24/hb/2021/) - Concerning the disposition of privately owned firearms in the custody of state or local government entities or law enforcement agencies. 👍1  
 
 ## [HB 2044](/bill/2023-24/hb/2044/) - Standardizing limitations on voter-approved property tax levies. 👍1  
@@ -352,14 +356,30 @@
 ## [HB 2134](/bill/2023-24/hb/2134/) - Transportation budget, supp.   ❓1
 * ❓💵 Michael White
 
+## [HB 2145](/bill/2023-24/hb/2145/) - Concerning medically necessary treatment of a mental health or substance use disorder. 👍1  
+
 ## [HB 2151](/bill/2023-24/hb/2151/) - Reassigning the accreditation of private cannabis testing laboratories from the department of ecology to the department of agriculture. 👍1  
+
+## [HB 2186](/bill/2023-24/hb/2186/) - Juv. deferred adjudications 👍1  
+
+## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities 👍1  
 
 ## [HB 2211](/bill/2023-24/hb/2211/) - Criminal justice local tax 👍1  
 * 👍💵 Michael White
 
 ## [HB 2231](/bill/2023-24/hb/2231/) - Law enforcement funding   ❓1
 
+## [HB 2234](/bill/2023-24/hb/2234/) - Low-income energy assistance 👍1  
+
+## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍1  
+
+## [HB 2256](/bill/2023-24/hb/2256/) - Children behavioral health 👍1  
+
 ## [HB 2258](/bill/2023-24/hb/2258/) - Regional 911 funding  👎1 
+
+## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
+
+## [HB 2297](/bill/2023-24/hb/2297/) - Solar energy systems/schools 👍1  
 
 ## [SB 5006](/bill/2023-24/sb/5006/) - Waiver of firearm rights 👍1  
 
@@ -622,16 +642,23 @@
 
 ## [SB 5729](/bill/2023-24/sb/5729/) - Insulin cost-sharing cap 👍2  
 
+## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
+* 👍 Dwight Dively
+
 ## [SB 5804](/bill/2023-24/sb/5804/) - Concerning opioid overdose reversal medication in high schools. 👍1  
 
 ## [SB 5821](/bill/2023-24/sb/5821/) - Audio-only telemedicine 👍1  
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Extending the crisis relief center model to provide behavioral health crisis services for minors. 👍1  
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
 * 👍 Sarah Perry
 
 ## [SB 5908](/bill/2023-24/sb/5908/) - Providing extended foster care services to youth ages 18 to 21. 👍1  
 
 ## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD 👍1  
+
+## [SB 5933](/bill/2023-24/sb/5933/) - Infants and toddlers program 👍1  
+
+## [SB 5941](/bill/2023-24/sb/5941/) - Subsidized child care 👍1  
 
 ## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp.   ❓1
 * ❓💵 Michael White
@@ -641,6 +668,8 @@
 
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
 * ❓💵 Michael White
+
+## [SB 5983](/bill/2023-24/sb/5983/) - Allowing medical assistants with telehealth supervision to provide intramuscular injections for syphilis treatment. 👍1  
 
 ## [SB 6042](/bill/2023-24/sb/6042/) - Juvenile detention release 👍1  
 

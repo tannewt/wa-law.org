@@ -17,7 +17,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31617&aId=156410&caId=23245&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31617&aId=156410&caId=23245&tId=4)
 
-#### 10 👍 - Pro
+#### 27 👍 - Pro
+Testifying:
+* Hilary Franz - [Department of Natural Resources](/org/department_of_natural_resources/)
 
 #### 1 👎 - Con
 

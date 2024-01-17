@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/16 04:00 PM - Ways & Means (WM): SB 5988 Gift certificates/unclaimed
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31606&aId=156855&caId=23027&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31606&aId=156855&caId=23027&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31606&aId=156855&caId=23027&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31606&aId=156855&caId=23027&tId=4)
-
-#### 359 👍 - Pro
+#### 852 👍 - Pro
 Testifying:
 * Dan Olmstead - Poverty Bay Coffee Company
 * Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
@@ -30,7 +24,7 @@ Testifying:
 * Michael Johnson
 * Suresh Chanmugam - [Tech 4 Housing](/org/tech_4_housing/)
 
-#### 222 👎 - Con
+#### 230 👎 - Con
 Testifying:
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * Lars Erickson - Seattle Metropolitan Chamber of Commerce

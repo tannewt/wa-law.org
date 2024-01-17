@@ -11,22 +11,32 @@
 
 ## Meetings
 ### Wed 01/17 08:00 AM - Environment, Energy & Technology (ENET): SB 6052 Petroleum product supply
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31680&aId=156755&caId=23031&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31680&aId=156755&caId=23031&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31680&aId=156755&caId=23031&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31680&aId=156755&caId=23031&tId=4)
-
-#### 417 👍 - Pro
+#### 921 👍 - Pro
 Testifying:
 * Barbara Steller
+* 💵Clifford Traisman - [Washington Conservation Action](/org/washington_conservation_action/)
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* Skippy Shaw - [The Nature Conservancy](/org/the_nature_conservancy/)
+* 💵Brian Bonlender - [Center for Sustainable Energy](/org/center_for_sustainable_energy/)
 * Becky Kelley - Office of the Governor
 * Jason Lewis - Utilities and Transportation Commission
+* 💵Matthew Hepner - IBEW/ceww
 
-#### 271 👎 - Con
+#### 404 👎 - Con
 Testifying:
 * Jeff Pack - Me
 * 💵Greg Hanon - Western States Petroleum Association
 * 💵Jessica Spiegel - Western States Petroleum Association
+* 💵Peter Godlewski - Association of Washington Business (AWB)
+* Robert (Bob) Battles - Association of Washington Business (AWB)
+* 💵Diana Carlen - Washington Oil Marketers Association (aka Washington Independent Distributors of Energy)
+* Nick Schoenfelder - Coleman Oil
+* Steve Clark - Genesee Energy
+* Steve Snider - Snider Energy
+* Travis Coulter - Washington Oil Marketers Association (aka Washington Independent Distributors of Energy)/Connell Oil
+* Arthur West
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* 💵Carly Michiels - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* 💵Tom Wolf - bp America

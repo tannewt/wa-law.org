@@ -1,6 +1,7 @@
 # Harmony Farms
 
-## [HB 1341](/bill/2023-24/hb/1341/) - Cannabis license ownership 👍2  
+## [HB 1341](/bill/2023-24/hb/1341/) - Cannabis license ownership 👍3  
+* 👍💵 Lukas Hunter
 * 👍💵 Lukas Hunter
 * 👍💵 Lukas Hunter
 

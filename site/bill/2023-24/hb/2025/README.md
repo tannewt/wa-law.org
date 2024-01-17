@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31672&aId=156651&caId=23220&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31672&aId=156651&caId=23220&tId=4)
 
-#### 5 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Bill Lyne - United Faculty of Washington State
+* Ben Mitchell - Foundation for Tacoma Students / High School Success Coalition
+* 💵Neil Strege - Washington Roundtable / High School Success Coalition
+* 💵Yessenia Rivera - Stand for Children Washington / High School Success Coalition
 
 #### 0 👎 - Con
 

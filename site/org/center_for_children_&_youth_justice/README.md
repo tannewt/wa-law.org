@@ -32,12 +32,16 @@
 
 ## [HB 1591](/bill/2023-24/hb/1591/) - Open adoption agreements 👍1  
 
+## [HB 1970](/bill/2023-24/hb/1970/) - DCYF-caregiver communication 👍1  
+
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
 ## [HB 2076](/bill/2023-24/hb/2076/) - Addressing crimes involving human trafficking or sexual exploitation.   ❓1
 * ❓ Nicholas Oakley
 
-## [HB 2217](/bill/2023-24/hb/2217/) - Juvenile criminal offenses 👍1  
+## [HB 2186](/bill/2023-24/hb/2186/) - Juv. deferred adjudications 👍1  
+
+## [HB 2217](/bill/2023-24/hb/2217/) - Juvenile criminal offenses 👍2  
 * 👍 Nicholas Oakley
 
 ## [HB 2218](/bill/2023-24/hb/2218/) - Extended foster care 👍1  
@@ -57,6 +61,8 @@
 ## [SB 5316](/bill/2023-24/sb/5316/) - DCYF background check fees 👍1  
 
 ## [SB 5908](/bill/2023-24/sb/5908/) - Providing extended foster care services to youth ages 18 to 21. 👍1  
+
+## [SB 5933](/bill/2023-24/sb/5933/) - Infants and toddlers program 👍1  
 
 ## [SB 5974](/bill/2023-24/sb/5974/) - Concerning the disposition of unenforceable legal financial obligations other than restitution imposed by a court or an agent of the court against a juvenile prior to July 1, 2023. 👍1  
 

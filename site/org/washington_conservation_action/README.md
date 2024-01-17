@@ -122,6 +122,9 @@
 
 ## [SB 6029](/bill/2023-24/sb/6029/) - Detached ADUs  👎1 
 
+## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  
+* 👍💵 Clifford Traisman
+
 ## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍1  
 * 👍💵 Darcy Nonemacher
 

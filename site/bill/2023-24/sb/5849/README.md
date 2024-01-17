@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Wed 01/17 10:30 AM - Early Learning & K-12 Education (EDU): SB 5849 Computer science/graduation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31667&aId=156621&caId=23036&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31667&aId=156621&caId=23036&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31667&aId=156621&caId=23036&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31667&aId=156621&caId=23036&tId=4)
-
-#### 18 👍 - Pro
+#### 37 👍 - Pro
 Testifying:
 * Dave Brown - CS Forward
 * Chad Magendanz - CSTA
@@ -26,12 +20,20 @@ Testifying:
 * Kylee Seibel - Sammamish Robotics
 * Rediet Tassew - Sammamish High School
 * Linda Yang
+* Victor Wong - Hazen Robotics
 * 💵Brittany Jarnot - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
+* Kan Qiu - American Coalition for Equality
+* 💵Maggie Glennon - [Code.org](/org/code.org/)
 
-#### 2 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Steven Bock
+* Katharine Rouse
+* Megan Klamik - Lake Washington High School
 
-#### 3 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Natalya Yudkovsky - Roosevelt High School PTSA
 * Susan Baird-Joshi - Federal Legislative Chair for Washington State PTA
 * Alissa Muller - [Washington State Board of Education](/org/washington_state_board_of_education/)
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)

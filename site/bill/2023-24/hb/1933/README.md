@@ -6,9 +6,6 @@
 ## Revisions
 * [Original Bill](1/)
 
-## 📰 Articles
-* 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%201933)
-
 ## Meetings
 ### Fri 01/12 08:00 AM - Consumer Protection & Business (CPB): HB 1933 Digital electronics/repair
 #### 543 👍 - Pro

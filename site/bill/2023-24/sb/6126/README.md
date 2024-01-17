@@ -14,14 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31615&aId=156879&caId=23048&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31615&aId=156879&caId=23048&tId=4)
 
-#### 45 👍 - Pro
+#### 77 👍 - Pro
 Testifying:
 * 💵Adrienne Stuart
 * Moses Perez - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
 * Sandra Gruberg
 * Cathy Murahashi - The Arc of Washington
+* Linda Hyatt
 * Ivanova Smith - Atwork!
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

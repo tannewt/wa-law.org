@@ -11,18 +11,21 @@
 
 ## Meetings
 ### Wed 01/17 08:00 AM - Environment, Energy & Technology (ENET): SB 6092 Greenhouse gas disclosures
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31680&aId=156756&caId=23032&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31680&aId=156756&caId=23032&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31680&aId=156756&caId=23032&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31680&aId=156756&caId=23032&tId=4)
+#### 55 👍 - Pro
+Testifying:
+* P.E. (retired), Donna Albert
+* Joe Nguyen
 
-#### 33 👍 - Pro
-
-#### 262 👎 - Con
+#### 416 👎 - Con
 Testifying:
 * Jeannette Mcchesney
+* Melissa Lachance
+* 💵Jay Balasbas - PacifiCorp
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * John Worthington
+* John Worthington
+* 💵Remy Kerr - Washington State Hospital Association

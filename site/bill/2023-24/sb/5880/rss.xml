@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 5880 - Establishing a primary certification process for magnetic resonance imaging technologists.</title>
+		<title>SB 5880 - MRI technologists</title>
 		<link>https://wa-law.org/bill/2023-24/sb/5880/</link>
 		<description>Updates about SB 5880</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 12:57:10 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 16 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -52,6 +52,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Kristin/Kessler/2024-01-08 12:57:10</guid>
+		</item>
+		<item>
+			<title>HLTC - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>HLTC - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-16/HLTC - Majority; 1st substitute bill be substituted, do pass.</guid>
 		</item>
 	</channel>
 </rss>

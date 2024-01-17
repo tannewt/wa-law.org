@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31651&aId=156996&caId=23283&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31651&aId=156996&caId=23283&tId=4)
 
-#### 8 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* Jason Reinfeld - Chelan County Sheriff's Office
 
 #### 0 👎 - Con
 

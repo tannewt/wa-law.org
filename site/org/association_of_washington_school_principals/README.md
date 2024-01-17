@@ -65,12 +65,20 @@
 
 ## [HB 1732](/bill/2023-24/hb/1732/) - K-12 inflation adjustments 👍1  
 
+## [HB 1879](/bill/2023-24/hb/1879/) - Naming the curriculum used to inform students about tribal history, culture, and government after John McCoy (lulilaš). 👍1  
+
 ## [HB 1956](/bill/2023-24/hb/1956/) - Addressing fentanyl and other substance use prevention education. 👍1  
 * 👍💵 Casey Brown
+
+## [HB 2053](/bill/2023-24/hb/2053/) - Establishing the ninth grade success grant program. 👍1  
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  
+
+## [HB 2180](/bill/2023-24/hb/2180/) - Special education cap 👍1  
+
+## [HB 2267](/bill/2023-24/hb/2267/) - Commencement/cultural exp. 👍1  
 
 ## [SB 5020](/bill/2023-24/sb/5020/) - Education at 6 years of age 👍1  
 
@@ -140,7 +148,14 @@
 
 ## [SB 5804](/bill/2023-24/sb/5804/) - Concerning opioid overdose reversal medication in high schools. 👍1  
 
+## [SB 5813](/bill/2023-24/sb/5813/) - Mandating instruction on agricultural literacy for students in grades seven through 12.   ❓1
+* ❓💵 Roz Thompson
+
+## [SB 5819](/bill/2023-24/sb/5819/) - Financial education   ❓1
+
 ## [SB 5823](/bill/2023-24/sb/5823/) - School district elections 👍1  
+
+## [SB 5849](/bill/2023-24/sb/5849/) - Concerning a computer science competency graduation requirement.   ❓1
 
 ## [SB 5850](/bill/2023-24/sb/5850/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
 

@@ -6,9 +6,6 @@
 ## Revisions
 * [Original Bill](1/)
 
-## 📰 Articles
-* 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%202134)
-
 ## Meetings
 ### Wed 01/10 04:00 PM - Transportation (TR): HB 2134 Transportation budget, supp.
 #### 11 👍 - Pro

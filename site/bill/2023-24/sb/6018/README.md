@@ -17,10 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31668&aId=156627&caId=23058&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31668&aId=156627&caId=23058&tId=4)
 
-#### 9 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * John Welch - Association of Educational Service Districts
+* Kristi Dominguez - Superintendent
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

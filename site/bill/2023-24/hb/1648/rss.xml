@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1648/</link>
 		<description>Updates about HB 1648</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 16 Jan 2024 11:21:11 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 16 Jan 2024 12:11:29 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -168,13 +168,6 @@
 			<guid isPermaLink="false">testifier/Kevin/Erickson/2024-01-12 01:25:46</guid>
 		</item>
 		<item>
-			<title>The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans</title>
-			<description>News article &quot;The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans&quot; from House Republicans.</description>
-			<pubDate>Fri, 12 Jan 2024 22:16:31 GMT</pubDate>
-			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%201648</guid>
-		</item>
-		<item>
 			<title>❓Jeff Gombosky - Live Nation</title>
 			<description>Jeff Gombosky signed up to testify Other. They are signed up to represent Live Nation.</description>
 			<pubDate>Mon, 15 Jan 2024 01:31:10 GMT</pubDate>
@@ -237,6 +230,14 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/David/Touhey/2024-01-16 11:21:11</guid>
+		</item>
+		<item>
+			<title>👍Michael O'Neil - Vivid Seats</title>
+			<description>Michael O'Neil signed up to testify Pro. They are signed up to represent Vivid Seats.</description>
+			<pubDate>Tue, 16 Jan 2024 12:11:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Michael/O'Neil/2024-01-16 12:11:29</guid>
 		</item>
 	</channel>
 </rss>

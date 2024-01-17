@@ -24,7 +24,11 @@
 
 ## [HB 1564](/bill/2023-24/hb/1564/) - OTC sexual assault kits 👍1  
 
+## [HB 1959](/bill/2023-24/hb/1959/) - Extending parts of the paid family and medical leave program to employers with fewer than 50 employees. 👍2  
+
 ## [HB 2036](/bill/2023-24/hb/2036/) - Concerning workplace safety and operational standards for adult entertainment establishments. 👍2  
+
+## [HB 2098](/bill/2023-24/hb/2098/) - Women's commission/gifts 👍2  
 
 ## [HB 2115](/bill/2023-24/hb/2115/) - Prescription labels/abortion 👍2  
 

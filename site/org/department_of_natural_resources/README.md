@@ -24,6 +24,9 @@
 
 ## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions.   ❓1
 
+## [HB 2108](/bill/2023-24/hb/2108/) - Smokey Bear license plates 👍1  
+* 👍 Hilary Franz
+
 ## [HB 2117](/bill/2023-24/hb/2117/) - Aerial firefighting/permits 👍1  
 
 ## [HB 2172](/bill/2023-24/hb/2172/) - Vacant state agency property   ❓1

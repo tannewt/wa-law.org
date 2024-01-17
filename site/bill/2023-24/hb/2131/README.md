@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/16 04:00 PM - Environment & Energy (ENVI): HB 2131 Thermal energy networks
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31611&aId=156385&caId=23151&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31611&aId=156385&caId=23151&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31611&aId=156385&caId=23151&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31611&aId=156385&caId=23151&tId=4)
-
-#### 221 👍 - Pro
+#### 232 👍 - Pro
 Testifying:
 * 💵Laura Feinstein - [Sightline Institute](/org/sightline_institute/)
 * Ania Camargo - Building Decarbonization Center and HEET

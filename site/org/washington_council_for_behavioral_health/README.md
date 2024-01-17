@@ -24,6 +24,6 @@
 ## [SB 5555](/bill/2023-24/sb/5555/) - Certified peer specialists   ❓1
 * ❓ Julia O'Connor
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Extending the crisis relief center model to provide behavioral health crisis services for minors.   ❓1
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors   ❓1
 
 ## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍1  

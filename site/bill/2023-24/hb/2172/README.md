@@ -8,22 +8,18 @@
 
 ## Meetings
 ### Tue 01/16 04:00 PM - Housing (HOUS): HB 2172 Vacant state agency property
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31686&aId=156782&caId=23182&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31686&aId=156782&caId=23182&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31686&aId=156782&caId=23182&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31686&aId=156782&caId=23182&tId=4)
-
-#### 9 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Jamie Spinelli - Homeless Response Manager, City of Vancouver
 * Darian Lightfoot - [City of Olympia](/org/city_of_olympia/)
+* 💵Brian Enslow - [City of Vancouver](/org/city_of_vancouver/)
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Darrell Jennings - State Board for Community and Technical Colleges
 * Jeanne Bennett - Clark College
 * Cristhian Canseco Juarez - Clark College - Board Of Trustee Chair
+* Michael Wilson - Community Colleges Spokane
 
 #### 1 ❓ - Other
 Testifying:

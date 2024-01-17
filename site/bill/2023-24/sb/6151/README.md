@@ -19,8 +19,9 @@ Testifying:
 * John Doe
 * Jane Doe
 
-#### 574 👎 - Con
+#### 646 👎 - Con
 Testifying:
 * Mary Long - Conservative Ladies of Washington
+* Jonathan Clemens - ErgoCare Clinic
 
 #### 0 ❓ - Other

@@ -8,21 +8,24 @@
 
 ## Meetings
 ### Tue 01/16 04:00 PM - Regulated Substances & Gaming (RSG): HB 2320 High THC cannabis products
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31620&aId=156938&caId=23272&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31620&aId=156938&caId=23272&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31620&aId=156938&caId=23272&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31620&aId=156938&caId=23272&tId=4)
-
-#### 7 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * John Daviau - Smart Approaches to Marijuana
+* Rose Souza - Bridges
+* Ryan Orrison - Bridges
 * Dr. Beatriz Carlini - UW Addictions, Drug & Alcohol Institute
 * Dr. Beth Ebel - President, WA Chapter of the American Academy of Pediatrics
 * Dr. Denise Walker - Director, UW Innovative Programs Research Group
 * Fmr State Rep. Mary Lou Dickerson - Former State Representative, 36th LD
+* John Daviau - Smart Approaches to Marijuana (SAM)
+* Jordan Davidson - Smart Approaches to Marijuana (SAM)
+* Linda Thompson - Washington Association for Substance Misuse And Violence Prevention (WASAVP)
+* David Coffey - Recovery Cafe
+* John Daviau - Smart Approaches to Marijuana (SAM)
+* Jordan Davidson - Smart Approaches to Marijuana (SAM)
+* Linda Thompson - Washington Association for Substance Misuse And Violence Prevention (WASAVP)
 
-#### 44 👎 - Con
+#### 47 👎 - Con
 Testifying:
 * Caitlein Ryan - THE CANNABIS ALLIANCE
 * 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)

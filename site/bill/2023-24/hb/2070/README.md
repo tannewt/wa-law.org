@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 01/16 04:00 PM - Environment & Energy (ENVI): HB 2070 Env. justice/SEPA projects
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31611&aId=156384&caId=23150&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31611&aId=156384&caId=23150&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31611&aId=156384&caId=23150&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31611&aId=156384&caId=23150&tId=4)
-
-#### 1095 👍 - Pro
+#### 1154 👍 - Pro
 Testifying:
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
 * Lindsey Farmer - Eastside Catholic School
@@ -48,11 +42,12 @@ Testifying:
 * Jamie Stroble - [The Nature Conservancy](/org/the_nature_conservancy/)
 * Kate Donohue - none
 * Paula Walsh
+* Eric Gonzalez Alfaro - [Earthjustice](/org/earthjustice/)
 * Thomas Raabe - Catholic Church
 * Maria Batayola - Beacon Hill Council (Seattle Neighborhood)
 * Sept Gernez - Sierra Club, Washington State
 
-#### 78 👎 - Con
+#### 82 👎 - Con
 Testifying:
 * John Haley
 * ROY SCOTT

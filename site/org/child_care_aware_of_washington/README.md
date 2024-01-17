@@ -37,6 +37,8 @@
 
 ## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities 👍1  
 
+## [HB 2256](/bill/2023-24/hb/2256/) - Children behavioral health 👍1  
+
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  ❓2
 * 👍💵 Emily Murphy
 * ❓💵 Emily Murphy

@@ -11,19 +11,15 @@
 
 ## Meetings
 ### Wed 01/17 08:00 AM - Agriculture and Natural Resources (AGNR): HB 2336 Suitability of lands
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31635&aId=156998&caId=23285&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31635&aId=156998&caId=23285&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31635&aId=156998&caId=23285&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31635&aId=156998&caId=23285&tId=4)
-
-#### 6 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * Amanda McKinney - Yakima County
+* Reni Storm
+* Brian Considine
 * Dani Madrone - American Farmland Trust
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Kelly McLain - Washington State Department of Agriculture

@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/16/2024 [KING5](/org/king5/) - [Gun-related bill proposals include permits, purchase limits in Washington | king5.com](https://www.king5.com/article/news/local/gun-related-proposals-permits-purchase-limits/281-b54240bc-62d3-4914-bee4-86c6ef49d5f5#:~:text=House%20Bill%202021)
+* 01/16/2024 [House Democrats](/org/house_democrats/) - [“We don’t want WA state to be an arms dealer:” Senn’s HB 2021 Heard in Committee – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/16/we-dont-want-wa-state-to-be-an-arms-dealer-senns-hb-2021-heard-in-committee/#:~:text=House%20Bill%202021)
 * 01/15/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/15/the-house-hot-sheet-for-week-2-of-the-2024-legislative-session/#:~:text=HB%202021)
 
 ## Meetings

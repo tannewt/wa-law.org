@@ -49,6 +49,8 @@
 
 ## [HB 1927](/bill/2023-24/hb/1927/) - Reducing the number of days that a worker's temporary total disability must continue to receive industrial insurance compensation for the day of an injury and the three-day period following the injury. 👍1  
 
+## [HB 1970](/bill/2023-24/hb/1970/) - DCYF-caregiver communication  👎1 
+
 ## [HB 2020](/bill/2023-24/hb/2020/) - Creating a state administered public infrastructure assistance program within the emergency management division. 👍1  
 
 ## [HB 2022](/bill/2023-24/hb/2022/) - Concerning construction crane safety. 👍1  
@@ -73,9 +75,9 @@
 
 ## [HB 2136](/bill/2023-24/hb/2136/) - Prevailing wage sanctions 👍1  
 
-## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
+## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍2  
 
-## [HB 2325](/bill/2023-24/hb/2325/) - Legislative employees 👍1  
+## [HB 2325](/bill/2023-24/hb/2325/) - Legislative employees 👍1  ❓1
 
 ## [SB 5010](/bill/2023-24/sb/5010/) - Synthetic opioids/endanger. 👍1  
 
@@ -123,3 +125,8 @@
 ## [SB 5988](/bill/2023-24/sb/5988/) - Gift certificates/unclaimed 👍1  
 
 ## [SB 6060](/bill/2023-24/sb/6060/) - Electronic signatures/PERC 👍1  
+
+## [SB 6109](/bill/2023-24/sb/6109/) - Children and families   ❓1
+* ❓ Kati Durkin
+
+## [SB 6194](/bill/2023-24/sb/6194/) - Legislative employees   ❓1

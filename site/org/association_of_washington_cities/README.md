@@ -264,6 +264,8 @@
 ## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes. 👍1  
 * 👍💵 Carl Schroeder
 
+## [HB 2066](/bill/2023-24/hb/2066/) - Health provider contracting 👍1  
+
 ## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions.   ❓1
 * ❓💵 Carl Schroeder
 
@@ -298,7 +300,7 @@
 ## [HB 2211](/bill/2023-24/hb/2211/) - Criminal justice local tax 👍1  
 * 👍💵 Lindsey Hueer
 
-## [HB 2231](/bill/2023-24/hb/2231/) - Law enforcement funding 👍1  
+## [HB 2231](/bill/2023-24/hb/2231/) - Law enforcement funding 👍2  
 * 👍💵 Lindsey Hueer
 
 ## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍1  
@@ -536,7 +538,7 @@
 
 ## [SB 5834](/bill/2023-24/sb/5834/) - Concerning urban growth areas. 👍1  
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Extending the crisis relief center model to provide behavioral health crisis services for minors. 👍2  
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
 
 ## [SB 5885](/bill/2023-24/sb/5885/) - Certificates of annexation 👍1  
 * 👍💵 Carl Schroeder

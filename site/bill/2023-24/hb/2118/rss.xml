@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2118/</link>
 		<description>Updates about HB 2118</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 16 Jan 2024 09:29:45 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 16 Jan 2024 18:26:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -140,13 +140,6 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Tim/Eyman/2024-01-12 08:32:01</guid>
-		</item>
-		<item>
-			<title>The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans</title>
-			<description>News article &quot;The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans&quot; from House Republicans.</description>
-			<pubDate>Fri, 12 Jan 2024 22:16:31 GMT</pubDate>
-			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202118</guid>
 		</item>
 		<item>
 			<title>👎David Steyh - Initiative Activist</title>
@@ -362,6 +355,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Justin/Whitaker/2024-01-16 09:29:45</guid>
+		</item>
+		<item>
+			<title>Gun-related bill proposals include permits, purchase limits in Washington | king5.com</title>
+			<description>News article &quot;Gun-related bill proposals include permits, purchase limits in Washington | king5.com&quot; from KING5.</description>
+			<pubDate>Tue, 16 Jan 2024 18:26:13 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.king5.com/article/news/local/gun-related-proposals-permits-purchase-limits/281-b54240bc-62d3-4914-bee4-86c6ef49d5f5#:~:text=House%20Bill%202118</guid>
 		</item>
 	</channel>
 </rss>

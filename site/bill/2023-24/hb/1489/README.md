@@ -14,9 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31617&aId=156406&caId=23243&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31617&aId=156406&caId=23243&tId=4)
 
-#### 5 👍 - Pro
+#### 100 👍 - Pro
+Testifying:
+* Raymond Yurkewycz - [Mount St. Helens Institute](/org/mount_st._helens_institute/)
+* William Iyall
+* Andrea Repka
+* Roderick Hooker
 
-#### 1 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Matt Sloan
 
 #### 0 ❓ - Other
 

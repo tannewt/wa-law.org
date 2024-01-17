@@ -19,6 +19,6 @@ Testifying:
 * Andrew Colvin - Department of Social and Health Services, Human Resources Division
 * Johanna Tatarian - Department of Social and Health Services, Human Resources Division
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31661&aId=156572&caId=23131&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31661&aId=156572&caId=23131&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Chris Michaelson - Fife RV Center
+* James Harvey - Speedway RV Center
+* Mike Ochs - RV Industry Association
 
 #### 0 👎 - Con
 

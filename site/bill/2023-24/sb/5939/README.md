@@ -14,15 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31683&aId=156815&caId=23061&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31683&aId=156815&caId=23061&tId=4)
 
-#### 51 👍 - Pro
+#### 85 👍 - Pro
+Testifying:
+* Jeff Dawson - Livestock Producer
 
-#### 88 👎 - Con
+#### 508 👎 - Con
 Testifying:
 * David Linn - None
 * John Rosapepe - Endangered Species Coalition
+* Brian Barcus
 * Lloyd Lytle
 * 💵Kathleen Callaghy - [Defenders of Wildlife](/org/defenders_of_wildlife/)
+* PHD, Susan D Kane-Ronning - Washington Sierra Club Wildlife Committee
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Julia Smith - WDFW

@@ -6,9 +6,6 @@
 ## Revisions
 * [Original Bill](1/)
 
-## 📰 Articles
-* 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202053)
-
 ## Meetings
 ### Wed 01/17 04:00 PM - Appropriations (APP): HB 2053 Ninth grade success grants
 Sign up to testify:
@@ -17,10 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31603&aId=156726&caId=23097&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31603&aId=156726&caId=23097&tId=4)
 
-#### 29 👍 - Pro
+#### 70 👍 - Pro
 Testifying:
 * Melissa Spiker - Seattle Special Education PTSA / Advocacy Chair
+* Ashlye Triebs
+* Kefi Andersen - Office of Superintendent of Public Instruction
+* 💵Kia Franklin - Stand for Children Washington
+* Kim Casey - Prosser School District
+* Shaun Doffing - Meridian High School
+* Thomas Caudle - Lindbergh High School
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

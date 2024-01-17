@@ -7,6 +7,16 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 01/17 08:00 AM - Local Government (LG): HB 2231 Law enforcement funding
+#### 6 👍 - Pro
+Testifying:
+* Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/16 10:30 AM - Local Government (LG): HB 2231 Law enforcement funding
 #### 43 👍 - Pro
 Testifying:

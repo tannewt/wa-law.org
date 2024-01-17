@@ -242,3 +242,5 @@
 
 ## [SB 6039](/bill/2023-24/sb/6039/) - Geothermal energy resources 👍1  
 * 👍 Andrew Villeneuve
+
+## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  

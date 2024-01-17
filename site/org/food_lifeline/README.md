@@ -89,6 +89,8 @@
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  
 * 👍💵 Aaron Czyzewski
 
+## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍1  
+
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
 
 ## [SB 5128](/bill/2023-24/sb/5128/) - Jury diversity 👍1  

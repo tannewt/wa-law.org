@@ -6,9 +6,6 @@
 ## Revisions
 * [Original Bill](1/)
 
-## 📰 Articles
-* 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%202036)
-
 ## Meetings
 ### Fri 01/12 10:30 AM - Labor & Workplace Standards (LAWS): HB 2036 Adult entertainment
 #### 58 👍 - Pro

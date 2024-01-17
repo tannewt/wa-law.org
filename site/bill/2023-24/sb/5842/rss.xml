@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5842/</link>
 		<description>Updates about SB 5842</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 16 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,13 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Business, Financial Services, Gaming &amp; Trade.</guid>
+		</item>
+		<item>
+			<title>BFGT - Majority; do pass.</title>
+			<description>BFGT - Majority; do pass.</description>
+			<pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-16/BFGT - Majority; do pass.</guid>
 		</item>
 	</channel>
 </rss>

@@ -14,14 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31615&aId=156530&caId=23047&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31615&aId=156530&caId=23047&tId=4)
 
-#### 6 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Georgia Spiropoulos - Equiscript
+* Lisa Wahl - No
 * Joyce Gilbert - Child Advocacy Centers of Washington (CACWA)
 * Paula Reed - [Children's Advocacy Centers of Washington](/org/children's_advocacy_centers_of_washington/)
 
 #### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * 💵Giovanni Severino - Latino Community Fund
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* MD, Benjamin Danielson
+* Laurie Lippold - Partners for Our Children
+* Patrick Dowd - WA State Office of the Family and Children's Ombuds

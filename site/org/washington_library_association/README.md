@@ -9,6 +9,10 @@
 
 ## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍2  
 
+## [HB 2106](/bill/2023-24/hb/2106/) - Library district annexation   ❓1
+
+## [HB 2360](/bill/2023-24/hb/2360/) - Digital workforce 👍1  
+
 ## [SB 5054](/bill/2023-24/sb/5054/) - Prof. learning communities 👍1  
 
 ## [SB 5102](/bill/2023-24/sb/5102/) - School library info and tech 👍10  

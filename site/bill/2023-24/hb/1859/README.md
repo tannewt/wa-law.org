@@ -14,12 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31660&aId=156716&caId=23176&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31660&aId=156716&caId=23176&tId=4)
 
-#### 345 👍 - Pro
+#### 400 👍 - Pro
 
-#### 738 👎 - Con
+#### 1018 👎 - Con
 Testifying:
 * Carin Marney - Lane Powell PC
 * Carma Matti-Jackson - [Washington Health Care Association](/org/washington_health_care_association/)
 * 💵John Ficker - [Adult Family Home Council](/org/adult_family_home_council/)
 
-#### 22 ❓ - Other
+#### 38 ❓ - Other
+Testifying:
+* Miranda Calmjoy - WA State Board of Health

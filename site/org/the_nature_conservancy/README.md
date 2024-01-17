@@ -161,5 +161,10 @@
 ## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  
 * 👍 Scott Richards
 
+## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  
+* 👍 Skippy Shaw
+
 ## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍1  
 * 👍 Skippy Shaw
+
+## [SB 6121](/bill/2023-24/sb/6121/) - Biochar production 👍1  

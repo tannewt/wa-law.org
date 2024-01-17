@@ -12,3 +12,5 @@
 
 ## [HB 2131](/bill/2023-24/hb/2131/) - Thermal energy networks   ❓1
 * ❓ Natasha Jackson
+
+## [HB 2173](/bill/2023-24/hb/2173/) - Natural gas utilities/OPMA 👍1  

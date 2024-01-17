@@ -53,7 +53,7 @@
 
 ## [SB 5537](/bill/2023-24/sb/5537/) - Hospital staffing collab. 👍1  
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Extending the crisis relief center model to provide behavioral health crisis services for minors. 👍1  
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
 * 👍 Kashi Aurora
 
 ## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍2  

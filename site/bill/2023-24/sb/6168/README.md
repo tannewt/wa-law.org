@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31645&aId=156935&caId=23260&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31645&aId=156935&caId=23260&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * James Rolph - The Lieutenant Governor's Office
+* Geoffrey Potter - Office of Governor Jay Inslee
 
 #### 2 👎 - Con
 Testifying:

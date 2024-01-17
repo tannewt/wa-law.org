@@ -14,13 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31640&aId=156897&caId=23256&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31640&aId=156897&caId=23256&tId=4)
 
-#### 19 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * David Poland
 * Cynthia Stewart - Hearing Loss Association - WA
 * Brett Gramer
 * Laura Gramer
 * Elsa Jones
+* Angela Theriault - DeafBlind Services Center
+* Anna Mansell Karagiannis
+* Ariele Belo - Hearing, Speech and Deaf Center
+* Patty Liang - Deaf Spotlight
+* Whitney Hill
 
 #### 0 👎 - Con
 

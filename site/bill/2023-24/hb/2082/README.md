@@ -14,8 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31672&aId=156652&caId=23221&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31672&aId=156652&caId=23221&tId=4)
 
-#### 6 👍 - Pro
+#### 19 👍 - Pro
+Testifying:
+* Byron Allen - IBEW Local 483
+* Byron Allen - IBEW 483
+* 💵Jason Hudson - IBEW LU 77
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* stephanie Scott - Washington Department of Commerce

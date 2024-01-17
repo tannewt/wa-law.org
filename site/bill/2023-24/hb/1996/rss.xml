@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1996/</link>
 		<description>Updates about HB 1996</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 13 Jan 2024 12:04:32 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 16 Jan 2024 06:00:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -36,6 +36,30 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Scott/Hazlegrove/2024-01-13 12:04:32</guid>
+		</item>
+		<item>
+			<title>👍Chris Michaelson - Fife RV Center</title>
+			<description>Chris Michaelson signed up to testify Pro. They are signed up to represent Fife RV Center.</description>
+			<pubDate>Tue, 16 Jan 2024 06:00:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Chris/Michaelson/2024-01-16 06:00:49</guid>
+		</item>
+		<item>
+			<title>👍James Harvey - Speedway RV Center</title>
+			<description>James Harvey signed up to testify Pro. They are signed up to represent Speedway RV Center.</description>
+			<pubDate>Tue, 16 Jan 2024 06:00:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/James/Harvey/2024-01-16 06:00:49</guid>
+		</item>
+		<item>
+			<title>👍Mike Ochs - RV Industry Association</title>
+			<description>Mike Ochs signed up to testify Pro. They are signed up to represent RV Industry Association.</description>
+			<pubDate>Tue, 16 Jan 2024 06:00:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mike/Ochs/2024-01-16 06:00:49</guid>
 		</item>
 	</channel>
 </rss>

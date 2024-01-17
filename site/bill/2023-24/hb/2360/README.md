@@ -14,8 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31672&aId=156955&caId=23284&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31672&aId=156955&caId=23284&tId=4)
 
-#### 0 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
+* Eileen Aparis
+* RT Tomilin - Evergreen Goodwill
+* Will Durden - State Board for Community and Technical Colleges
+* Eleni Papadakis - Workforce Board
+* 💵Larry Brown - Co-Chair - Workforce Board
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

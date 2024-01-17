@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2054/</link>
 		<description>Updates about HB 2054</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 16 Jan 2024 09:28:43 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 16 Jan 2024 18:26:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -340,6 +340,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Justin/Whitaker/2024-01-16 09:28:43</guid>
+		</item>
+		<item>
+			<title>Gun-related bill proposals include permits, purchase limits in Washington | king5.com</title>
+			<description>News article &quot;Gun-related bill proposals include permits, purchase limits in Washington | king5.com&quot; from KING5.</description>
+			<pubDate>Tue, 16 Jan 2024 18:26:13 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.king5.com/article/news/local/gun-related-proposals-permits-purchase-limits/281-b54240bc-62d3-4914-bee4-86c6ef49d5f5#:~:text=House%20Bill%202054</guid>
 		</item>
 	</channel>
 </rss>

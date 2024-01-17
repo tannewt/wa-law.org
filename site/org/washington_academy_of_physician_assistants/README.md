@@ -12,6 +12,8 @@
 ## [HB 2041](/bill/2023-24/hb/2041/) - Concerning physician assistant collaborative practice. 👍2  
 * 👍 Paul Surette
 
+## [HB 2122](/bill/2023-24/hb/2122/) - Physician wellness programs 👍1  
+
 ## [SB 5006](/bill/2023-24/sb/5006/) - Waiver of firearm rights 👍2  
 
 ## [SB 5179](/bill/2023-24/sb/5179/) - Death with dignity act 👍2  
@@ -20,5 +22,5 @@
 
 ## [SB 5629](/bill/2023-24/sb/5629/) - Hepatitis B and C   ❓1
 
-## [SB 5815](/bill/2023-24/sb/5815/) - Concerning the physician assistant compact. 👍2  
+## [SB 5815](/bill/2023-24/sb/5815/) - Physician assistant compact 👍2  
 * 👍 Eileen Ravella

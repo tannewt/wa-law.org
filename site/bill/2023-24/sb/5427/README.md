@@ -23,16 +23,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31607&aId=156862&caId=23065&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31607&aId=156862&caId=23065&tId=4)
 
-#### 81 👍 - Pro
+#### 91 👍 - Pro
 Testifying:
 * Fay Stetz-Waters - Oregon Department of Justice
 * Fay Stetz Waters - Oregon Department of Justice
 * Jason Cummings - Snohomish County Prosecutor's Office
 * Kyle Kinoshita - Japanese American Citizens League of Seattle
+* Lisa Gardner - Spokane NAACP
 
-#### 410 👎 - Con
+#### 683 👎 - Con
 Testifying:
 * John Coleman - Foundation for Individual Rights and Expression
+* Jeannette Mcchesney
+* Amanda McKinney - Yakima County
+* Liv Finne - Washington Policy Center
 
 #### 1 ❓ - Other
 Testifying:

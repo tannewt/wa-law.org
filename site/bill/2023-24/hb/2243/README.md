@@ -6,9 +6,6 @@
 ## Revisions
 * [Original Bill](1/)
 
-## 📰 Articles
-* 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202243)
-
 ## Meetings
 ### Fri 01/19 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2243 Social equity land trust
 Sign up to testify:
@@ -17,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31630&aId=156717&caId=23091&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31630&aId=156717&caId=23091&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * 💵Lauren Hipp - MomsRising
 
-#### 5 👎 - Con
+#### 21 👎 - Con
 Testifying:
 * John Worthington
 

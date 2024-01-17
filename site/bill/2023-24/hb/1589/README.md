@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 01/16/2024 [The Center Square](/org/the_center_square/) - [Washington lawmakers may revive Puget Sound Energy natural gas bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c927188e-b4af-11ee-9d08-6ba89fcb41d3.html#:~:text=House%20Bill%201589)
 * 06/07/2023 [Sightline Institute](/org/sightline_institute/) - [It’s Time for Cascadia to Start Pruning the Gas System and Electrifying Whole Neighborhoods - Sightline Institute](https://www.sightline.org/2023/06/07/its-time-for-cascadia-to-start-pruning-the-gas-system-and-electrifying-whole-neighborhoods/#:~:text=Washington%20House%20Bill%201589)
 * 04/26/2023 [The Center Square](/org/the_center_square/) - [Natural gas ban bill fails to clear Washington Legislature - for now | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8afda0a8-e478-11ed-85f3-27382afd0889.html#:~:text=HB%201589)
 * 03/27/2023 [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=ESHB%201589)

@@ -17,11 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31668&aId=156625&caId=23056&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31668&aId=156625&caId=23056&tId=4)
 
-#### 84 👍 - Pro
+#### 130 👍 - Pro
 Testifying:
 * Colleen Fuchs - Joya Child & Family Development
 * Gloria Wang Shawber - ESIT Parent
 * Janet Zamzow Bliss - [Children's Therapy Center](/org/children's_therapy_center/)
+* Magan Cromar - King County Developmental Disabilities and Early Childhood Supports Division
 
 #### 0 👎 - Con
 

@@ -18,6 +18,6 @@ Sign up to testify:
 Testifying:
 * Beau Perschbacher - WA Dept. of Licensing
 
-#### 0 👎 - Con
+#### 6 👎 - Con
 
 #### 0 ❓ - Other

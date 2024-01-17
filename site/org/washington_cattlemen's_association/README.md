@@ -40,3 +40,5 @@
 ## [SB 5551](/bill/2023-24/sb/5551/) - Methane capture 👍1  
 
 ## [SB 5784](/bill/2023-24/sb/5784/) - Deer & elk crop damage 👍1  
+
+## [SB 5813](/bill/2023-24/sb/5813/) - Mandating instruction on agricultural literacy for students in grades seven through 12. 👍1  

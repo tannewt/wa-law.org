@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/16/2024 [The Center Square](/org/the_center_square/) - [Spokane lawmaker resurrects $86 million taxpayer-funded school lunch plan | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_dafbd75e-b4cb-11ee-a5a5-b7c4f5d22d7e.html#:~:text=Senate%20Bill%205964)
+
 ## Meetings

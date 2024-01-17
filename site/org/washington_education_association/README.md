@@ -408,6 +408,9 @@
 ## [HB 1950](/bill/2023-24/hb/1950/) - Concerning the public service loan forgiveness program. 👍2  
 * 👍💵 Simone Boe
 
+## [HB 1956](/bill/2023-24/hb/1956/) - Addressing fentanyl and other substance use prevention education. 👍1  
+* 👍💵 Simone Boe
+
 ## [HB 1969](/bill/2023-24/hb/1969/) - Individual providers/family 👍1  
 
 ## [HB 1975](/bill/2023-24/hb/1975/) - Relieving individuals from paying interest on certain unemployment insurance overpayment assessments. 👍1  
@@ -430,6 +433,8 @@
 ## [HB 2038](/bill/2023-24/hb/2038/) - Collecting data on student transfers and withdrawals from public schools and school districts.   ❓1
 * ❓💵 Nasue Nishida
 
+## [HB 2053](/bill/2023-24/hb/2053/) - Establishing the ninth grade success grant program. 👍1  
+
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍2  
 * 👍 Rebecca Mathews
 * 👍💵 Simone Boe
@@ -447,8 +452,9 @@
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  
 * 👍💵 Larry Delaney
 
-## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention   ❓1
+## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention 👍1  ❓1
 * ❓💵 Simone Boe
+* 👍💵 Simone Boe
 
 ## [HB 2125](/bill/2023-24/hb/2125/) - Concerning the eligibility of state-mandated benefits for contingent faculty at community and technical colleges. 👍2  
 
@@ -801,6 +807,12 @@
 ## [SB 5809](/bill/2023-24/sb/5809/) - Charter schools/enrichment  👎1 
 * 👎💵 Julie Salvi
 
+## [SB 5813](/bill/2023-24/sb/5813/) - Mandating instruction on agricultural literacy for students in grades seven through 12.   ❓1
+* ❓💵 Nasue Nishida
+
+## [SB 5819](/bill/2023-24/sb/5819/) - Financial education   ❓1
+* ❓💵 Nasue Nishida
+
 ## [SB 5823](/bill/2023-24/sb/5823/) - School district elections 👍2  
 * 👍 Brady Vallala
 * 👍💵 Simone Boe
@@ -809,11 +821,17 @@
 
 ## [SB 5839](/bill/2023-24/sb/5839/) - Modifying the working families' tax credit by clarifying the refundable nature of the credit, the application requirements, and the eligibility verification process. 👍1  
 
+## [SB 5849](/bill/2023-24/sb/5849/) - Concerning a computer science competency graduation requirement.   ❓1
+* ❓💵 Nasue Nishida
+
 ## [SB 5850](/bill/2023-24/sb/5850/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
+
+## [SB 5851](/bill/2023-24/sb/5851/) - Concerning Holocaust and genocide education in public schools. 👍1  
+* 👍💵 Simone Boe
 
 ## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍1  
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Extending the crisis relief center model to provide behavioral health crisis services for minors. 👍1  
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
 
 ## [SB 5873](/bill/2023-24/sb/5873/) - Student transportation 👍1  
 * 👍💵 Julie Salvi
