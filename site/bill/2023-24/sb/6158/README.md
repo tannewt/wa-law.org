@@ -14,7 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31653&aId=157011&caId=23278&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31653&aId=157011&caId=23278&tId=4)
 
-#### 0 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Betty Erickson - Cowlitz County PFD, Chiar AWSFPD Board
+* Jim Hedrick - Association of Washington State Public Facility Districts (AWSPFD)
+* Corey Pierson - Executive Director Three Rivers Convention Center
+* Janet Pope - Lynnwood Public Facilities District
 
 #### 0 👎 - Con
 

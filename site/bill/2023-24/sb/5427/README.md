@@ -23,24 +23,30 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31607&aId=156862&caId=23065&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31607&aId=156862&caId=23065&tId=4)
 
-#### 91 👍 - Pro
+#### 234 👍 - Pro
 Testifying:
 * Fay Stetz-Waters - Oregon Department of Justice
 * Fay Stetz Waters - Oregon Department of Justice
 * Jason Cummings - Snohomish County Prosecutor's Office
 * Kyle Kinoshita - Japanese American Citizens League of Seattle
+* 💵Gabriel Neuman - GSBA, Washington State’s LGBTQ+ & Allied Chamber of Commerce
+* 💵Kendall Kosai - Organization of Chinese Americans
+* 💵Stephen Paolini - ADL
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 * Lisa Gardner - Spokane NAACP
 
-#### 683 👎 - Con
+#### 1010 👎 - Con
 Testifying:
 * John Coleman - Foundation for Individual Rights and Expression
 * Jeannette Mcchesney
+* Julie Barrett - Conservative Ladies of Washington
 * Amanda McKinney - Yakima County
 * Liv Finne - Washington Policy Center
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Eric pratt - America
+* 💵Taylor Gardner - WA Assn of Sheriffs and Chiefs
 
 ### Mon 02/20 09:00 AM - Ways & Means (WM): SB 5427 Hate crimes & bias incidents
 #### 290 👍 - Pro

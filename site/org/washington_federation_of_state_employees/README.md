@@ -77,7 +77,8 @@
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍2  
 
-## [HB 2325](/bill/2023-24/hb/2325/) - Legislative employees 👍1  ❓1
+## [HB 2325](/bill/2023-24/hb/2325/) - Legislative employees 👍1  ❓2
+* ❓ Kati Durkin
 
 ## [SB 5010](/bill/2023-24/sb/5010/) - Synthetic opioids/endanger. 👍1  
 
@@ -106,7 +107,7 @@
 
 ## [SB 5778](/bill/2023-24/sb/5778/) - Employer political speech 👍1  
 
-## [SB 5808](/bill/2023-24/sb/5808/) - Granting interest arbitration to certain public safety telecommunicators. 👍1  
+## [SB 5808](/bill/2023-24/sb/5808/) - Safety telecom/interest arb. 👍1  
 
 ## [SB 5814](/bill/2023-24/sb/5814/) - Concerning coverage of prescription drugs for advanced metastatic cancer. 👍1  
 

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/17 01:30 PM - Consumer Protection & Business (CPB): HB 2081 Home equity sharing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31661&aId=156571&caId=23130&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31661&aId=156571&caId=23130&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31661&aId=156571&caId=23130&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31661&aId=156571&caId=23130&tId=4)
-
-#### 14 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Mary Veneziani
 * Malena Pinkham - Northwest Justice Project
@@ -23,6 +17,7 @@ Testifying:
 * 💵Emily Murphy - [Northwest Consumer Law Center](/org/northwest_consumer_law_center/)
 * Andrew Pizor - National Consumer Law Center
 * Carl Smith
+* 💵Shaun Scott
 
 #### 6 👎 - Con
 Testifying:
@@ -35,7 +30,7 @@ Testifying:
 
 #### 7 ❓ - Other
 Testifying:
-* Matthew Windsor - Point Digital Finance, Inc.
+* Matthew Windsor - [Point Digital Finance, Inc.](/org/point_digital_finance,_inc./)
 * John Arens - Redwood Trust
 * Gary Weiman - Homeowner
 * 💵Rowland Thompson - Unison

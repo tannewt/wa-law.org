@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31656&aId=156548&caId=23147&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31656&aId=156548&caId=23147&tId=4)
 
-#### 137 👍 - Pro
+#### 183 👍 - Pro
 Testifying:
 * James Lewis - Snohomish County - Health Officer
 * Maria Petty
@@ -32,6 +32,7 @@ Testifying:
 * Maddy Thompson - Office of the Governor
 * Mikhail Cherniske - Office of Superintendent of Public Instruction
 * Anthony Fletcher - City of Everett, Police Department
+* Travis Sugarman - Available for Questions: Washington State Department of Health
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 
 #### 2 👎 - Con

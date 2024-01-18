@@ -26,6 +26,7 @@ REVISION_TO_NAME = {
     "S.PL": "Passed Legislature",
     "S2.PL": "Passed Legislature",
     "S2.SL": "Session Law",
+    "S.E2": "Second Engrossed Substitute",
     "S2.E2": "2nd Engrossed 2nd Substitute"
 }
 

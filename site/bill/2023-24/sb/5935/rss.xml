@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5935/</link>
 		<description>Updates about SB 5935</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 17 Jan 2024 08:35:32 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 17 Jan 2024 12:22:48 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,12 +30,60 @@
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Labor &amp; Commerce.</guid>
 		</item>
 		<item>
+			<title>👍💵Sybill Hyppolite - Washington State Labor Council, AFL-CIO</title>
+			<description>Sybill Hyppolite signed up to testify Pro. They are signed up to represent Washington State Labor Council, AFL-CIO. They are a registered lobbyist.</description>
+			<pubDate>Wed, 17 Jan 2024 01:25:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sybill/Hyppolite/2024-01-17 01:25:04</guid>
+		</item>
+		<item>
+			<title>👍Lawrence Cock - WA Employment Lawyers Association (WELA)</title>
+			<description>Lawrence Cock signed up to testify Pro. They are signed up to represent WA Employment Lawyers Association (WELA).</description>
+			<pubDate>Wed, 17 Jan 2024 05:38:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lawrence/Cock/2024-01-17 05:38:40</guid>
+		</item>
+		<item>
+			<title>👍Sung Shin - WA Employment Lawyers Association (WELA)</title>
+			<description>Sung Shin signed up to testify Pro.</description>
+			<pubDate>Wed, 17 Jan 2024 05:50:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sung/Shin/2024-01-17 05:50:50</guid>
+		</item>
+		<item>
+			<title>👍Elizabeth Sowa - WA Employment Lawyers Association (WELA)</title>
+			<description>Elizabeth Sowa signed up to testify Pro.</description>
+			<pubDate>Wed, 17 Jan 2024 06:03:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Elizabeth/Sowa/2024-01-17 06:03:56</guid>
+		</item>
+		<item>
 			<title>👍Jesse Wing - Washington State Association for Justice</title>
 			<description>Jesse Wing signed up to testify Pro. They are signed up to represent Washington State Association for Justice.</description>
 			<pubDate>Wed, 17 Jan 2024 08:35:32 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jesse/Wing/2024-01-17 08:35:32</guid>
+		</item>
+		<item>
+			<title>👎Keith Shipman - Washington State Association of Broadcasters</title>
+			<description>Keith Shipman signed up to testify Con. They are signed up to represent Washington State Association of Broadcasters.</description>
+			<pubDate>Wed, 17 Jan 2024 09:36:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Keith/Shipman/2024-01-17 09:36:18</guid>
+		</item>
+		<item>
+			<title>👎Robert (Bob) Battles - Association of Washington Business (AWB)</title>
+			<description>Robert (Bob) Battles signed up to testify Con. They are signed up to represent Association of Washington Business (AWB).</description>
+			<pubDate>Wed, 17 Jan 2024 12:22:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Robert (Bob)/Battles/2024-01-17 12:22:48</guid>
 		</item>
 	</channel>
 </rss>

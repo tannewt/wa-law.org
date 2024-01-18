@@ -11,6 +11,21 @@
 * 03/08/2023 [House Democrats](/org/house_democrats/) - [Rule Passes Two Bills on to the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/08/rule-passes-two-bills-on-to-the-senate/#:~:text=HB%201717)
 
 ## Meetings
+### Tue 01/23 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SHB 1717 Associate development orgs.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31727&aId=157167&caId=23328&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31727&aId=157167&caId=23328&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31727&aId=157167&caId=23328&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31727&aId=157167&caId=23328&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* Nathan Daum - [City of Shoreline](/org/city_of_shoreline/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 03/31 12:30 PM - Ways & Means (WM): SHB 1717 Associate development orgs.
 #### 45 👍 - Pro
 Testifying:

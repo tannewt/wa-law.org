@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31640&aId=156898&caId=23257&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31640&aId=156898&caId=23257&tId=4)
 
-#### 14 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Shawn Sandquist
 * Serry Bauer
@@ -29,6 +29,8 @@ Testifying:
 * Andrea Gray
 * Daniella Clark
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* robert wardell - self adovates
 
 #### 0 ❓ - Other

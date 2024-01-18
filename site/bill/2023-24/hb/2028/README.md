@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Wed 01/17 01:30 PM - Consumer Protection & Business (CPB): HB 2028 Vehicle dealers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31661&aId=156573&caId=23132&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31661&aId=156573&caId=23132&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31661&aId=156573&caId=23132&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31661&aId=156573&caId=23132&tId=4)
-
 #### 265 👍 - Pro
 Testifying:
 * Adam Reich
@@ -26,7 +20,7 @@ Testifying:
 * Cindy Goodwin
 * 💵Paula Sardinas - WBBA/FMSGS
 
-#### 356 👎 - Con
+#### 359 👎 - Con
 Testifying:
 * Curt Augustine - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)
 * Jeff Perry - General Motors
@@ -39,6 +33,7 @@ Testifying:
 * David Schripsema
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 * 💵Paula Sardinas - WBBA & EV Advisory Counsel Co-Chair (TES)
+* 💵Matthew Hepner - IBEW/ceww
 
 #### 3 ❓ - Other
 Testifying:

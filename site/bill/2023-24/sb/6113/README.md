@@ -14,8 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31681&aId=156950&caId=23269&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31681&aId=156950&caId=23269&tId=4)
 
-#### 259 👍 - Pro
+#### 354 👍 - Pro
+Testifying:
+* 💵Mason Rolph - [Olympia Community Solar](/org/olympia_community_solar/)
+* Derek Chernow - [Coalition for Community Solar Access](/org/coalition_for_community_solar_access/)
+* James Feinstein - Arcadia Power
+* 💵Charlee Thompson - NW Energy Coalition
 
-#### 3 👎 - Con
+#### 7 👎 - Con
+Testifying:
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Cassie Bordelon - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* 💵Jay Balasbas - PacifiCorp
+* 💵Josie Cummings - Avista
 
 #### 0 ❓ - Other

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6127/</link>
 		<description>Updates about SB 6127</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 15 Jan 2024 10:52:50 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 17 Jan 2024 08:46:36 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -22,6 +22,46 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Jane/Beyer/2024-01-15 10:52:50</guid>
+		</item>
+		<item>
+			<title>👍Dr. Erin Berry - Planned Parenthood Greater Northwest</title>
+			<description>Dr. Erin Berry signed up to testify Pro. They are signed up to represent Planned Parenthood Greater Northwest.</description>
+			<pubDate>Wed, 17 Jan 2024 03:16:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dr. Erin/Berry/2024-01-17 03:16:23</guid>
+		</item>
+		<item>
+			<title>❓Jenny Arnold - Washington State Pharmacy Association</title>
+			<description>Jenny Arnold signed up to testify Other. They are signed up to represent Washington State Pharmacy Association.</description>
+			<pubDate>Wed, 17 Jan 2024 05:53:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jenny/Arnold/2024-01-17 05:53:57</guid>
+		</item>
+		<item>
+			<title>❓💵Jennifer Ziegler - Association of Washington Health Care Plans</title>
+			<description>Jennifer Ziegler signed up to testify Other. They are signed up to represent Association of Washington Health Care Plans. They are a registered lobbyist.</description>
+			<pubDate>Wed, 17 Jan 2024 08:02:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jennifer/Ziegler/2024-01-17 08:02:56</guid>
+		</item>
+		<item>
+			<title>👍Joanna Shelton - Planned Parenthood Greater Northwest</title>
+			<description>Joanna Shelton signed up to testify Pro.</description>
+			<pubDate>Wed, 17 Jan 2024 08:46:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Joanna/Shelton/2024-01-17 08:46:36</guid>
+		</item>
+		<item>
+			<title>👍💵Jonathan Frochtzwajg - Cascade AIDS Project</title>
+			<description>Jonathan Frochtzwajg signed up to testify Pro. They are signed up to represent Cascade AIDS Project. They are a registered lobbyist.</description>
+			<pubDate>Wed, 17 Jan 2024 08:46:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jonathan/Frochtzwajg/2024-01-17 08:46:36</guid>
 		</item>
 	</channel>
 </rss>

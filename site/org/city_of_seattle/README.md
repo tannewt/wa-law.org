@@ -159,6 +159,8 @@
 
 ## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍1  
 
+## [HB 1956](/bill/2023-24/hb/1956/) - Addressing fentanyl and other substance use prevention education. 👍1  
+
 ## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍1  
 
 ## [HB 1986](/bill/2023-24/hb/1986/) - Adding purposes for the use of existing firefighter safety funding. 👍1  
@@ -170,6 +172,8 @@
 ## [HB 2020](/bill/2023-24/hb/2020/) - Creating a state administered public infrastructure assistance program within the emergency management division. 👍1  
 
 ## [HB 2021](/bill/2023-24/hb/2021/) - Concerning the disposition of privately owned firearms in the custody of state or local government entities or law enforcement agencies. 👍1  
+
+## [HB 2044](/bill/2023-24/hb/2044/) - Standardizing limitations on voter-approved property tax levies. 👍1  
 
 ## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes. 👍1  
 
@@ -187,7 +191,18 @@
 
 ## [HB 2172](/bill/2023-24/hb/2172/) - Vacant state agency property 👍1  
 
+## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities 👍1  
+
+## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍1  
+
 ## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍1  
+
+## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
+
+## [HB 2360](/bill/2023-24/hb/2360/) - Digital workforce 👍1  
+
+## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras 👍1  
+* 👍 Tim Burgess
 
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍1  
 
@@ -263,7 +278,7 @@
 
 ## [SB 5383](/bill/2023-24/sb/5383/) - Pedestrians/roadways 👍1  
 
-## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍1  
+## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍2  
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍1  
 
@@ -297,15 +312,21 @@
 
 ## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages 👍2  
 
-## [SB 5774](/bill/2023-24/sb/5774/) - Increasing the capacity to conduct timely fingerprint-based background checks for prospective child care employees and other programs. 👍1  
+## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
+
+## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍1  
 
 ## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave 👍1  
 
-## [SB 5804](/bill/2023-24/sb/5804/) - Concerning opioid overdose reversal medication in high schools. 👍1  
+## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose/high schools 👍1  
+
+## [SB 5812](/bill/2023-24/sb/5812/) - Concerning the response to electric vehicle fires. 👍1  
 
 ## [SB 5838](/bill/2023-24/sb/5838/) - Establishing an artificial intelligence task force. 👍1  
 
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
+
+## [SB 5870](/bill/2023-24/sb/5870/) - Early learning programs 👍1  
 
 ## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍1  
 
@@ -315,6 +336,8 @@
 
 ## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD 👍1  
 
+## [SB 5933](/bill/2023-24/sb/5933/) - Infants and toddlers program 👍1  
+
 ## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  
 * 👍 Venu Nemani
 
@@ -323,3 +346,5 @@
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development 👍1  
 
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  
+
+## [ESJM 8006](/bill/2023-24/esjm/8006/) - Universal health care 👍1  

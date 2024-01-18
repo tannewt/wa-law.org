@@ -38,5 +38,5 @@ Testifying:
 
 #### 2 ❓ - Other
 Testifying:
-* Lynda Hall - [Treehouse](/org/treehouse/)
+* 💵Lynda Hall - [Treehouse](/org/treehouse/)
 * 💵Allison Krutsinger - Dept of Children, Youth, and Families

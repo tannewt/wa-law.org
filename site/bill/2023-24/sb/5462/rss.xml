@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5462/</link>
 		<description>Updates about SB 5462</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 09 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 17 Jan 2024 23:57:28 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -284,6 +284,20 @@
 			<pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-09/Placed on third reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 29; nays, 19; absent, 0; excused, 1.</title>
+			<description>Passed final passage; yeas, 29; nays, 19; absent, 0; excused, 1.</description>
+			<pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-17/Passed final passage; yeas, 29; nays, 19; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>Liias’ inclusive learning bill approved by Senate - Washington Senate Democrats</title>
+			<description>News article &quot;Liias’ inclusive learning bill approved by Senate - Washington Senate Democrats&quot; from Senate Democrats.</description>
+			<pubDate>Wed, 17 Jan 2024 23:57:28 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2024/01/17/liias-inclusive-learning-bill-approved-by-senate/#:~:text=SB%205462</guid>
 		</item>
 	</channel>
 </rss>

@@ -66,6 +66,8 @@
 ## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍1  
 * 👍 Juliana Yenne
 
+## [HB 2012](/bill/2023-24/hb/2012/) - Concerning eligibility for a property tax exemption for nonprofits providing affordable rental housing built with city and county funds. 👍1  
+
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
 ## [HB 2119](/bill/2023-24/hb/2119/) - Medical debt garnishment 👍1  
@@ -74,7 +76,11 @@
 
 ## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍1  
 
+## [HB 2234](/bill/2023-24/hb/2234/) - Low-income energy assistance 👍1  
+
 ## [HB 2256](/bill/2023-24/hb/2256/) - Children behavioral health 👍1  
+
+## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
 ## [SB 5028](/bill/2023-24/sb/5028/) - Name changes 👍1  
 

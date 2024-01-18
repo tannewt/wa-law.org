@@ -10,3 +10,15 @@
 * 01/16/2024 [Sightline Institute](/org/sightline_institute/) - [Washingtonians May Get a Democracy Upgrade in 2024 - Sightline Institute](https://www.sightline.org/2024/01/16/washingtonians-may-get-a-democracy-upgrade-in-2024/#:~:text=HB%202250)
 
 ## Meetings
+### Wed 01/24 01:30 PM - State Government & Tribal Relations (SGOV): HB 2250 Local elections
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31747&aId=157226&caId=23529&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31747&aId=157226&caId=23529&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31747&aId=157226&caId=23529&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31747&aId=157226&caId=23529&tId=4)
+
+#### 3 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other

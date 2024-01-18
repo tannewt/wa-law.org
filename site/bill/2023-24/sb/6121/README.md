@@ -14,8 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31681&aId=156876&caId=23078&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31681&aId=156876&caId=23078&tId=4)
 
-#### 79 👍 - Pro
+#### 159 👍 - Pro
+Testifying:
+* Kelpie Wilson - Wilson Biochar, LLC.
+* Jake Dailey - U.S. Rake Force
+* Jill Silver - 10,000 Years Institute
+* Tony Craven
+* Kathryn Alexander
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Jeff Johnston - Olympic Regional Clean Air Agency
+* Kathy Taylor - Washington Dept. of Ecology
+* Margaret Miller - Oregon Forestry Resources Institute

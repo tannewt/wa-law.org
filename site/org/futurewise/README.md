@@ -71,6 +71,8 @@
 
 ## [HB 2187](/bill/2023-24/hb/2187/) - Water/family farms  👎1 
 
+## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
+
 ## [SB 5027](/bill/2023-24/sb/5027/) - American dream homes  👎1 
 * 👎💵 Bryce Yadon
 
@@ -138,4 +140,7 @@
 * 👎💵 Bryce Yadon
 
 ## [SB 6061](/bill/2023-24/sb/6061/) - Housing development/SEPA   ❓1
+* ❓💵 Bryce Yadon
+
+## [SB 6140](/bill/2023-24/sb/6140/) - Intensive rural development   ❓1
 * ❓💵 Bryce Yadon

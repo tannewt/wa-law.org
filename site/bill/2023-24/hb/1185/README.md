@@ -15,13 +15,28 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31612&aId=156387&caId=23154&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31612&aId=156387&caId=23154&tId=4)
 
-#### 192 👍 - Pro
+#### 283 👍 - Pro
 Testifying:
 * Alessandra De la Torre - [Northwest Energy Coalition](/org/northwest_energy_coalition/)
+* Brian Fadie - Appliance Standards Awareness Project (ASAP)
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Pam Clough - [Environment Washington](/org/environment_washington/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Maggie Yuse - Seattle Public Utilities
+* Rick Gilbert - Kitsap County Solid Waste Division
+* Preston Peck - [City of Tacoma](/org/city_of_tacoma/)
+* 💵Joanna Grist - Hazardous Waste Management Program of Seattle King County
 
-#### 0 👎 - Con
+#### 12 👎 - Con
+Testifying:
+* Susanna Jones
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Peter Lyon - Washington State Department of Ecology
+* Charlie Brown - National Electrical Manufacturers Association
+* Curt Augustine - Allinace for Automotive Innovation
 
 ### Mon 01/23 01:30 PM - Environment & Energy (ENVI): HB 1185 Lighting products
 #### 238 👍 - Pro

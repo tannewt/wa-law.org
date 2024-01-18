@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/18/2024 [MyNorthwest](/org/mynorthwest/) - [Holocaust education bill proposed as antisemitic incidents increase - MyNorthwest.com](https://mynorthwest.com/3946929/holocaust-education-bill-proposed-antisemitic-incidents-increase/#:~:text=Senate%20Bill%205851)
+* 01/17/2024 [KING5](/org/king5/) - [Holocaust, genocide history lessons could be mandated by 2027-28 school year | king5.com](https://www.king5.com/article/news/education/holocaust-genocide-history-lessons-mandate-2027/281-928076dd-8046-48bf-a033-34563369d6f2#:~:text=Senate%20Bill%205851)
 * 01/14/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 2: MLK, education, gas price transparency - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/14/this-week-in-the-senate-week-2-mlk-education-gas-price-transparency/#:~:text=SB%205851)
 
 ## Meetings

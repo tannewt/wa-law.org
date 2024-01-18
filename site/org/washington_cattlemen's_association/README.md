@@ -21,7 +21,7 @@
 
 ## [HB 2187](/bill/2023-24/hb/2187/) - Water/family farms 👍1  
 
-## [SB 5150](/bill/2023-24/sb/5150/) - Beef levied assessment 👍3  
+## [SB 5150](/bill/2023-24/sb/5150/) - Beef commission 👍3  
 * 👍💵 Mark Streuli
 * 👍💵 Mark Streuli
 

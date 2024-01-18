@@ -14,10 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31647&aId=156866&caId=23052&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31647&aId=156866&caId=23052&tId=4)
 
-#### 71 👍 - Pro
+#### 83 👍 - Pro
+Testifying:
+* Dr. Erin Berry - Planned Parenthood Greater Northwest
+* Joanna Shelton
+* 💵Jonathan Frochtzwajg - Cascade AIDS Project
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
+* Jenny Arnold - Washington State Pharmacy Association
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans

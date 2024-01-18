@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2325/</link>
 		<description>Updates about HB 2325</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 12 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 17 Jan 2024 05:29:57 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,38 @@
 			<pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-12/First reading, referred to Labor &amp; Workplace Standards.</guid>
+		</item>
+		<item>
+			<title>👍Sarah Tucker - Washington Sun and Craft Growers Association</title>
+			<description>Sarah Tucker signed up to testify Pro.</description>
+			<pubDate>Wed, 17 Jan 2024 01:22:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sarah/Tucker/2024-01-17 01:22:17</guid>
+		</item>
+		<item>
+			<title>👍💵Daniel Lugo - Washington Sun and Craft Growers Association</title>
+			<description>Daniel Lugo signed up to testify Pro. They are a registered lobbyist.</description>
+			<pubDate>Wed, 17 Jan 2024 02:28:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Daniel/Lugo/2024-01-17 02:28:02</guid>
+		</item>
+		<item>
+			<title>❓Kati Durkin - Washington Federation of State Employees</title>
+			<description>Kati Durkin signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_federation_of_state_employees/&quot;&gt;Washington Federation of State Employees&lt;/a&gt;.</description>
+			<pubDate>Wed, 17 Jan 2024 02:57:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Kati/Durkin/2024-01-17 02:57:22</guid>
+		</item>
+		<item>
+			<title>❓Joe Kendo - Washington State Labor Council, AFL-CIO</title>
+			<description>Joe Kendo signed up to testify Other. They are signed up to represent Washington State Labor Council, AFL-CIO.</description>
+			<pubDate>Wed, 17 Jan 2024 05:29:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Joe/Kendo/2024-01-17 05:29:57</guid>
 		</item>
 	</channel>
 </rss>

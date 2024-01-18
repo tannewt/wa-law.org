@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Wed 01/17 01:30 PM - Health Care & Wellness (HCW): HB 2066 Health provider contracting
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31659&aId=156566&caId=23171&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31659&aId=156566&caId=23171&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31659&aId=156566&caId=23171&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31659&aId=156566&caId=23171&tId=4)
-
-#### 191 👍 - Pro
+#### 194 👍 - Pro
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
 * Chris Bandoli - NABIP WA
@@ -29,8 +23,9 @@ Testifying:
 * Bill Kramer - Purchaser Business Group on Health
 * Evan Klein - Health Care Authority (HCA) - Special Assistant, Legislative & Policy Affairs
 * JD, Leah Hole-Marshall - WA Health Benefit Exchange, General Counsel and Chief Strategist
+* 💵Sybill Hyppolite - WA State Labor Council
 
-#### 126 👎 - Con
+#### 128 👎 - Con
 Testifying:
 * Alex Town - samaritan healthcare
 * Bill Robertson - MultiCare Health System

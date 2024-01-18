@@ -128,3 +128,5 @@
 ## [SB 6095](/bill/2023-24/sb/6095/) - Secretary of health orders 👍1  
 
 ## [SB 6127](/bill/2023-24/sb/6127/) - HIV prophylaxis 👍1  
+
+## [ESJM 8006](/bill/2023-24/esjm/8006/) - Universal health care 👍1  

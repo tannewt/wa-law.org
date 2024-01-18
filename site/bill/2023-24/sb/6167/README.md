@@ -14,10 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31653&aId=156988&caId=23267&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31653&aId=156988&caId=23267&tId=4)
 
-#### 1 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Janice Zahn
+* Keith Michele
+* 💵Michael Transue - Mechanical Contractors Association of SWestern WA
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * 💵Scott Hazlegrove - WA Association of Sewer & Water Districts
+* 💵Joren Clowers - Sno-King Water District Coalition
 
 #### 0 ❓ - Other

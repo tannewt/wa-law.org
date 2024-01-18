@@ -11,7 +11,7 @@
 
 ## Meetings
 ### Wed 01/17 10:30 AM - Early Learning & K-12 Education (EDU): SB 5849 Computer science/graduation
-#### 37 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * Dave Brown - CS Forward
 * Chad Magendanz - CSTA
@@ -24,6 +24,7 @@ Testifying:
 * 💵Brittany Jarnot - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
 * Kan Qiu - American Coalition for Equality
 * 💵Maggie Glennon - [Code.org](/org/code.org/)
+* Anna Hernandez-French - Office of Superintendent of Public Instruction
 
 #### 5 👎 - Con
 Testifying:

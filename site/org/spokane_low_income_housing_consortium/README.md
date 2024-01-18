@@ -20,6 +20,8 @@
 ## [HB 1998](/bill/2023-24/hb/1998/) - Co-living housing 👍1  
 * 👍💵 Ben Stuckart
 
+## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
+
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures 👍1  
 
 ## [SB 5901](/bill/2023-24/sb/5901/) - Concerning co-living housing. 👍1  

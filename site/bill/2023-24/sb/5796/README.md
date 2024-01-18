@@ -14,17 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31588&aId=156184&caId=23039&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31588&aId=156184&caId=23039&tId=4)
 
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Steve Horvath - HOA United
 * Raelene Schifano - HOA United
 * Joel Gilman
 * Nathan Luce
+* Theresa Torgesen
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Phil Landesberg
 * Janet Landesberg
+* Natalie Whitcomb
+* Patrick Johansen - RiseUpWA
 
 #### 2 ❓ - Other
 Testifying:

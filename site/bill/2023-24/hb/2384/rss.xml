@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2384/</link>
 		<description>Updates about HB 2384</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 17 Jan 2024 08:02:10 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 17 Jan 2024 08:53:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -63,12 +63,36 @@
 			<guid isPermaLink="false">testifier/Rob/Karlinsey/2024-01-16 11:25:24</guid>
 		</item>
 		<item>
+			<title>👎David Sedelmeier - City of Seattle</title>
+			<description>David Sedelmeier signed up to testify Con.</description>
+			<pubDate>Wed, 17 Jan 2024 01:09:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/David/Sedelmeier/2024-01-17 01:09:02</guid>
+		</item>
+		<item>
+			<title>❓James McMahan - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>James McMahan signed up to testify Other. They are signed up to represent WA Assoc Sheriffs &amp; Police Chiefs.</description>
+			<pubDate>Wed, 17 Jan 2024 06:49:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/James/McMahan/2024-01-17 06:49:38</guid>
+		</item>
+		<item>
 			<title>👍💵Axel Swanson - Washington State Association of County Engineers</title>
 			<description>Axel Swanson signed up to testify Pro. They are signed up to represent Washington State Association of County Engineers. They are a registered lobbyist.</description>
 			<pubDate>Wed, 17 Jan 2024 08:02:10 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Axel/Swanson/2024-01-17 08:02:10</guid>
+		</item>
+		<item>
+			<title>👍Tim Burgess - City of Seattle</title>
+			<description>Tim Burgess signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/city_of_seattle/&quot;&gt;City of Seattle&lt;/a&gt;.</description>
+			<pubDate>Wed, 17 Jan 2024 08:53:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tim/Burgess/2024-01-17 08:53:16</guid>
 		</item>
 	</channel>
 </rss>

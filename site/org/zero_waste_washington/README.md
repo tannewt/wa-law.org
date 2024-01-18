@@ -18,7 +18,8 @@
 ## [HB 1164](/bill/2023-24/hb/1164/) - Appliance management 👍1  
 * 👍💵 Heather Trim
 
-## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍1  
+## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍2  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
 ## [HB 1213](/bill/2023-24/hb/1213/) - Wipe labeling  👎1 
@@ -49,6 +50,8 @@
 
 ## [HB 2144](/bill/2023-24/hb/2144/) - Providing for a deposit return program for qualifying beverage containers to be implemented by a distributor responsibility organization. 👍1  
 * 👍💵 Heather Trim
+
+## [HB 2207](/bill/2023-24/hb/2207/) - Solid waste dumping 👍1  
 
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍1  
 

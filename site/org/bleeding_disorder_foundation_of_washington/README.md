@@ -88,6 +88,8 @@
 
 ## [SB 5421](/bill/2023-24/sb/5421/) - Benefit enrollment info. 👍1  
 
+## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
+
 ## [SB 5821](/bill/2023-24/sb/5821/) - Audio-only telemedicine 👍1  
 
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  

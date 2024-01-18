@@ -11,7 +11,8 @@
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍1  
 * 👍 Pam Clough
 
-## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍1  
+## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍2  
+* 👍 Pam Clough
 * 👍 Pam Clough
 
 ## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍1  

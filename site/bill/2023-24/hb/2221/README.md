@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31640&aId=156897&caId=23256&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31640&aId=156897&caId=23256&tId=4)
 
-#### 33 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * David Poland
 * Cynthia Stewart - Hearing Loss Association - WA
@@ -25,6 +25,7 @@ Testifying:
 * Anna Mansell Karagiannis
 * Ariele Belo - Hearing, Speech and Deaf Center
 * Patty Liang - Deaf Spotlight
+* Earnest Covington - Washington Office of Deaf and Hard of Hearing
 * Whitney Hill
 
 #### 0 👎 - Con

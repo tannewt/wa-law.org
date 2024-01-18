@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Wed 03/22 08:00 AM - Civil Rights & Judiciary (CRJ): SSB 5589 Probate

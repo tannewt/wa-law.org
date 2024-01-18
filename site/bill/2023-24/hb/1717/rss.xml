@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1717/</link>
 		<description>Updates about HB 1717</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 15 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 17 Jan 2024 05:27:37 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -258,6 +258,14 @@
 			<pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-15/First reading, referred to Business, Financial Services, Gaming &amp; Trade.</guid>
+		</item>
+		<item>
+			<title>👍Nathan Daum - City of Shoreline</title>
+			<description>Nathan Daum signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/city_of_shoreline/&quot;&gt;City of Shoreline&lt;/a&gt;.</description>
+			<pubDate>Wed, 17 Jan 2024 05:27:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Nathan/Daum/2024-01-17 05:27:37</guid>
 		</item>
 	</channel>
 </rss>

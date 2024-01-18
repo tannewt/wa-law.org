@@ -180,6 +180,8 @@
 
 ## [HB 2032](/bill/2023-24/hb/2032/) - Reducing the size of yard signs that are exempt from certain political advertising disclosure requirements. 👍1  
 
+## [HB 2250](/bill/2023-24/hb/2250/) - Local elections 👍1  
+
 ## [SB 5039](/bill/2023-24/sb/5039/) - Wildfires/electric utilities 👍1  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act 👍1  
@@ -306,3 +308,5 @@
 ## [SB 5856](/bill/2023-24/sb/5856/) - Concerning voter registration challenges. 👍1  
 
 ## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍1  
+
+## [ESJM 8006](/bill/2023-24/esjm/8006/) - Universal health care 👍1  

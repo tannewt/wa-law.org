@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31621&aId=156940&caId=23274&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31621&aId=156940&caId=23274&tId=4)
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Marc Webster - Washington State Liquor and Cannabis Board
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Scott Waller - Washington Association for Substance misuse and Violence Prevention (WASAVP)
 
 #### 1 👎 - Con
 

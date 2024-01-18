@@ -645,7 +645,7 @@
 ## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
 * 👍 Dwight Dively
 
-## [SB 5804](/bill/2023-24/sb/5804/) - Concerning opioid overdose reversal medication in high schools. 👍1  
+## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose/high schools 👍1  
 
 ## [SB 5821](/bill/2023-24/sb/5821/) - Audio-only telemedicine 👍1  
 
@@ -672,6 +672,8 @@
 ## [SB 5983](/bill/2023-24/sb/5983/) - Allowing medical assistants with telehealth supervision to provide intramuscular injections for syphilis treatment. 👍1  
 
 ## [SB 6042](/bill/2023-24/sb/6042/) - Juvenile detention release 👍1  
+
+## [SB 6144](/bill/2023-24/sb/6144/) - Prescribing psychologists 👍1  
 
 ## [SB 6163](/bill/2023-24/sb/6163/) - Biosolids 👍1  
 

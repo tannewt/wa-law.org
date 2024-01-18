@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/17/2024 [The Center Square](/org/the_center_square/) - [WA Paid Medical Leave could soon apply to small employers and 'Chosen Families' | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_bfba68f8-b597-11ee-a1f8-b76c15976ea9.html#:~:text=HB%201959%20.)
+
 ## Meetings
 ### Wed 01/17 08:00 AM - Labor & Workplace Standards (LAWS): HB 1959 PFML/small employers
 #### 22 👍 - Pro

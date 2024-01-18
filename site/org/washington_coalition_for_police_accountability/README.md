@@ -66,3 +66,5 @@
 
 ## [SB 5572](/bill/2023-24/sb/5572/) - Traffic safety 👍3  
 * 👍 Tonya Isabell
+
+## [SB 6009](/bill/2023-24/sb/6009/) - Hog-tying 👍1  

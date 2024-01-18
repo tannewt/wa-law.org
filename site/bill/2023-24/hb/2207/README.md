@@ -14,8 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31612&aId=156864&caId=23156&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31612&aId=156864&caId=23156&tId=4)
 
-#### 2 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* 💵Holli Johnson - [Rayonier](/org/rayonier/)
+* 💵Jason Callahan - Green Diamond Resource Company
+* Tom Davis - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Peter Lyon - Washington State Department of Ecology
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Brian Considine - [Department of Natural Resources](/org/department_of_natural_resources/)
+* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

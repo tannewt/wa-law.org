@@ -289,3 +289,6 @@
 * 👎💵 Jan Himebaugh
 
 ## [SB 6136](/bill/2023-24/sb/6136/) - Rental property B&O tax  👎1 
+
+## [SB 6140](/bill/2023-24/sb/6140/) - Intensive rural development 👍1  
+* 👍💵 Tricia Gullion

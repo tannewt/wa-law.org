@@ -44,8 +44,9 @@
 ## [HB 1184](/bill/2023-24/hb/1184/) - Used vehicle warranties   ❓1
 * ❓💵 Mark Johnson
 
-## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products  👎1 
+## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products  👎2 
 * 👎💵 Mark Johnson
+* 👎💵 Crystal Leatherman
 
 ## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍4  
 
@@ -306,7 +307,7 @@
 * 👍💵 Mark Johnson
 * ❓💵 Mark Johnson
 
-## [SB 5774](/bill/2023-24/sb/5774/) - Increasing the capacity to conduct timely fingerprint-based background checks for prospective child care employees and other programs. 👍1  
+## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍1  
 * 👍💵 Crystal Leatherman
 
 ## [SB 5776](/bill/2023-24/sb/5776/) - Accessing an emergency supply of insulin.   ❓1

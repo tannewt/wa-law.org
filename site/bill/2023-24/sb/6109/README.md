@@ -14,19 +14,36 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31615&aId=156530&caId=23047&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31615&aId=156530&caId=23047&tId=4)
 
-#### 7 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Georgia Spiropoulos - Equiscript
 * Lisa Wahl - No
 * Joyce Gilbert - Child Advocacy Centers of Washington (CACWA)
 * Paula Reed - [Children's Advocacy Centers of Washington](/org/children's_advocacy_centers_of_washington/)
+* Jason Cummings - Snohomish County Prosecuting Attorney
+* Lori Vanderburg - Dawson Place Child Advocacy Center (CAC)
+* Jeanette Obelcz - WFSE Member
 
-#### 1 👎 - Con
+#### 22 👎 - Con
+Testifying:
+* Melissa Moore - Drug Policy Alliance
+* Everett Maroon - Blue Mountain Heart to Heart
+* 💵Malika Lamont - Purpose Dignity Action (PDA)
+* Jacob D'Annunzio - WA State Office of Public Defense
+* Carra Wetzel Chubb - Harm Reduction Doula Collective
 
-#### 7 ❓ - Other
+#### 21 ❓ - Other
 Testifying:
 * 💵Giovanni Severino - Latino Community Fund
+* Tara Urs - King County Department of Public Defense
+* 💵Allison Krutsinger - Dept of Children, Youth, and Families
+* Kathleen Biron
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * MD, Benjamin Danielson
 * Laurie Lippold - Partners for Our Children
 * Patrick Dowd - WA State Office of the Family and Children's Ombuds
+* Jerry Milner - Family Justice Group
+* Mishka Terplan MD MPH,FACOG,DFAS
+* Jennifer Justice
+* 💵Shrounda Selivanoff
+* Teshara Villaluz

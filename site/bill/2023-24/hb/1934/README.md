@@ -24,7 +24,7 @@ Testifying:
 * Jai Jaisimha - Transparency Coalition.ai
 * 💵Tathagata Pal - Legislative Liaison, Graduate and Professional Student Association in WSU
 
-#### 17 👎 - Con
+#### 39 👎 - Con
 Testifying:
 * eric pratt
 

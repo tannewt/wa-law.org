@@ -7,6 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/23 08:00 AM - Health & Long Term Care (HLTC): SB 5095 Parks/health & wellness
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31743&aId=157512&caId=23331&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31743&aId=157512&caId=23331&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31743&aId=157512&caId=23331&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31743&aId=157512&caId=23331&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/16 04:00 PM - Ways & Means (WM): SB 5095 Parks/health & wellness
 #### 50 👍 - Pro
 Testifying:

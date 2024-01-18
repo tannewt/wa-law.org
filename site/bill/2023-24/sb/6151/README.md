@@ -14,14 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31648&aId=156868&caId=23074&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31648&aId=156868&caId=23074&tId=4)
 
-#### 10 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * John Doe
 * Jane Doe
 
-#### 646 👎 - Con
+#### 848 👎 - Con
 Testifying:
 * Mary Long - Conservative Ladies of Washington
 * Jonathan Clemens - ErgoCare Clinic
+* Susanna Jones
+* Jeannette Mcchesney
+* AMY MYERS
 
 #### 0 ❓ - Other

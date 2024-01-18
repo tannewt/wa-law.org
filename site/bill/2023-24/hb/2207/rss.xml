@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2207/</link>
 		<description>Updates about HB 2207</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 09 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 17 Jan 2024 12:29:59 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,62 @@
 			<pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-09/First reading, referred to Environment &amp; Energy.</guid>
+		</item>
+		<item>
+			<title>❓Peter Lyon - Washington State Department of Ecology</title>
+			<description>Peter Lyon signed up to testify Other. They are signed up to represent Washington State Department of Ecology.</description>
+			<pubDate>Wed, 17 Jan 2024 02:07:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Peter/Lyon/2024-01-17 02:07:30</guid>
+		</item>
+		<item>
+			<title>❓James McMahan - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>James McMahan signed up to testify Other. They are signed up to represent WA Assoc Sheriffs &amp; Police Chiefs.</description>
+			<pubDate>Wed, 17 Jan 2024 06:43:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/James/McMahan/2024-01-17 06:43:14</guid>
+		</item>
+		<item>
+			<title>❓Brian Considine - Department of Natural Resources</title>
+			<description>Brian Considine signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/department_of_natural_resources/&quot;&gt;Department of Natural Resources&lt;/a&gt;.</description>
+			<pubDate>Wed, 17 Jan 2024 07:39:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Brian/Considine/2024-01-17 07:39:54</guid>
+		</item>
+		<item>
+			<title>❓💵Travis Dutton - Washington State Association of Counties</title>
+			<description>Travis Dutton signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_state_association_of_counties/&quot;&gt;Washington State Association of Counties&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 17 Jan 2024 07:53:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Travis/Dutton/2024-01-17 07:53:06</guid>
+		</item>
+		<item>
+			<title>👍💵Holli Johnson - Rayonier</title>
+			<description>Holli Johnson signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/rayonier/&quot;&gt;Rayonier&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 17 Jan 2024 12:29:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Holli/Johnson/2024-01-17 12:29:59</guid>
+		</item>
+		<item>
+			<title>👍💵Jason Callahan - Green Diamond Resource Company</title>
+			<description>Jason Callahan signed up to testify Pro. They are signed up to represent Green Diamond Resource Company. They are a registered lobbyist.</description>
+			<pubDate>Wed, 17 Jan 2024 12:29:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jason/Callahan/2024-01-17 12:29:59</guid>
+		</item>
+		<item>
+			<title>👍Tom Davis - Washington Forest Protection Association</title>
+			<description>Tom Davis signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_forest_protection_association/&quot;&gt;Washington Forest Protection Association&lt;/a&gt;.</description>
+			<pubDate>Wed, 17 Jan 2024 12:29:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tom/Davis/2024-01-17 12:29:59</guid>
 		</item>
 	</channel>
 </rss>

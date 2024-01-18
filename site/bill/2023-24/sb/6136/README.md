@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/17/2024 [The Center Square](/org/the_center_square/) - [Critics warn that Washington landlord tax will backfire | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5f20fe68-b57d-11ee-b1b3-5bd603ad5f7c.html#:~:text=HB%206136)
 * 01/14/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 2: MLK, education, gas price transparency - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/14/this-week-in-the-senate-week-2-mlk-education-gas-price-transparency/#:~:text=Senate%20Bill%206136)
 
 ## Meetings

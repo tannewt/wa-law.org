@@ -344,7 +344,7 @@ Testifying:
 Testifying:
 * Chase Buffington - Washington Outdoor School Coalition
 * MEGAN KARCH - WASHINGTON OUTDOOR SCHOOL COALITION
-* Lynda Hall - [Treehouse](/org/treehouse/)
+* 💵Lynda Hall - [Treehouse](/org/treehouse/)
 
 #### 10 👎 - Con
 Testifying:
@@ -617,7 +617,7 @@ Testifying:
 ### Tue 01/10 04:00 PM - Ways & Means (WM): SB 5187: K-12 public schools. (Remote Testimony Available).
 #### 5 👍 - Pro
 Testifying:
-* Lynda Hall - [Treehouse](/org/treehouse/)
+* 💵Lynda Hall - [Treehouse](/org/treehouse/)
 * 💵Jake Garcia - Northwest Harvest
 * Preston Dwoskin
 

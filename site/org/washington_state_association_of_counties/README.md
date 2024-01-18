@@ -218,6 +218,9 @@
 ## [HB 2141](/bill/2023-24/hb/2141/) - Promoting affordable housing in unincorporated areas within urban growth areas of large counties. 👍1  
 * 👍💵 Paul Jewell
 
+## [HB 2207](/bill/2023-24/hb/2207/) - Solid waste dumping   ❓1
+* ❓💵 Travis Dutton
+
 ## [HB 2211](/bill/2023-24/hb/2211/) - Criminal justice local tax   ❓1
 * ❓💵 Juliana Roe
 
@@ -378,7 +381,9 @@
 ## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands.   ❓1
 * ❓💵 Paul Jewell
 
-## [SB 5808](/bill/2023-24/sb/5808/) - Granting interest arbitration to certain public safety telecommunicators.   ❓1
+## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
+
+## [SB 5808](/bill/2023-24/sb/5808/) - Safety telecom/interest arb.   ❓1
 * ❓💵 Mike Hoover
 
 ## [SB 5834](/bill/2023-24/sb/5834/) - Concerning urban growth areas. 👍1  
@@ -399,6 +404,9 @@
 ## [SB 6016](/bill/2023-24/sb/6016/) - Green energy community fund 👍1  
 
 ## [SB 6029](/bill/2023-24/sb/6029/) - Detached ADUs 👍1  
+* 👍💵 Paul Jewell
+
+## [SB 6120](/bill/2023-24/sb/6120/) - Wildland urban interface 👍1  
 * 👍💵 Paul Jewell
 
 ## [SB 6206](/bill/2023-24/sb/6206/) - Water system receivership 👍1  

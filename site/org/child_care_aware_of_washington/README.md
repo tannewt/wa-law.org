@@ -58,7 +58,16 @@
 
 ## [SB 5485](/bill/2023-24/sb/5485/) - Public employees/child care 👍1  
 
-## [SB 5774](/bill/2023-24/sb/5774/) - Increasing the capacity to conduct timely fingerprint-based background checks for prospective child care employees and other programs. 👍1  
+## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍1  
+
+## [SB 5870](/bill/2023-24/sb/5870/) - Early learning programs 👍1  
+
+## [SB 5933](/bill/2023-24/sb/5933/) - Infants and toddlers program 👍1  
+
+## [SB 5941](/bill/2023-24/sb/5941/) - Subsidized child care 👍1  
 
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
 * ❓💵 Emily Murphy
+
+## [SB 6018](/bill/2023-24/sb/6018/) - Early learning coordinators 👍1  
+* 👍💵 Emily Murphy

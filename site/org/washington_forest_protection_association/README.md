@@ -35,6 +35,9 @@
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1 👎1 
 * 👍 Tom Davis
 
+## [HB 2207](/bill/2023-24/hb/2207/) - Solid waste dumping 👍1  
+* 👍 Tom Davis
+
 ## [SB 5247](/bill/2023-24/sb/5247/) - Climate-ready communities 👍1  
 
 ## [SB 5322](/bill/2023-24/sb/5322/) - Public building materials  👎1 

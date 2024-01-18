@@ -26,7 +26,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31607&aId=156860&caId=23063&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31607&aId=156860&caId=23063&tId=4)
 
-#### 240 👍 - Pro
+#### 314 👍 - Pro
 Testifying:
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * Ben Zarlingo - [City of Everett](/org/city_of_everett/)
@@ -40,13 +40,16 @@ Testifying:
 * 💵Ian Goodhew - UW Medicine-Harborview Medical Center
 * Dwight Dively - [King County](/org/king_county/)
 * Girmay Zahilay - King County Council District 2
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Kim Roscoe - Mayor, City of Fife
+* 💵Axel Swanson - Washington State Association of County Engineers
 * Tyler Breier - WSNA
 * Brian Shinn - Asotin County Commissioners
 * Kate Dean - Jefferson County Commissioners
 * Tye Menser - Thurston County Commissioners
 * Wes McCart - Stevens County Commissioners
 
-#### 728 👎 - Con
+#### 1203 👎 - Con
 Testifying:
 * Tim Eyman - Concerned citizen
 * Jeffrey Pack - Washington Citizens Against Unfair Taxes
@@ -75,8 +78,22 @@ Testifying:
 * barbara korducki
 * Lorrie Wilson
 * Michael Avila
+* Gary Siemion - Individual/ Chinook Rental LLC
+* Karen Kraft
+* Susanna Jones
+* Gordon Haggerty
+* Gordon Haggerty
+* 💵Cindy Alia - Citizens' Alliance for Property Rights
+* William Weber
 * Brittany Dayley - 2611 South Bay Road NE
+* Michael Frost
+* Ganapathi Raman
+* Doug Anderson
 * Constance Nelson
+* Susan Watkins
 * Margaret Plumb
+* Patricia Hoendermis - Yakima Valley Landlords Assoc.
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Julie Murray - Pierce County Council

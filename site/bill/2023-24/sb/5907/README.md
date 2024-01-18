@@ -21,8 +21,9 @@ Testifying:
 
 #### 8 👎 - Con
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * James Luce - Friends of Vancouver Lake
 * Robin Torner - Cowlitz Indian Tribe
 * Ty Swartout - Moses Lake Watershed Council
+* James Luce - Friends of Vancouver Lake

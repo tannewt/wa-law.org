@@ -76,6 +76,9 @@
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍2  
 * 👍💵 Carl Schroeder
 
+## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍1  
+* 👍💵 Carl Schroeder
+
 ## [HB 1187](/bill/2023-24/hb/1187/) - Employee-union privilege   ❓2
 * ❓💵 Candice Bock
 * ❓💵 Candice Bock
@@ -520,7 +523,8 @@
 
 ## [SB 5723](/bill/2023-24/sb/5723/) - Even-numbered year elections 👍1  
 
-## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
+## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍2  
+* 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
 ## [SB 5778](/bill/2023-24/sb/5778/) - Employer political speech   ❓1
@@ -533,7 +537,7 @@
 
 ## [SB 5807](/bill/2023-24/sb/5807/) - Housing authorities 👍1  
 
-## [SB 5808](/bill/2023-24/sb/5808/) - Granting interest arbitration to certain public safety telecommunicators.   ❓1
+## [SB 5808](/bill/2023-24/sb/5808/) - Safety telecom/interest arb.   ❓1
 * ❓💵 Candice Bock
 
 ## [SB 5834](/bill/2023-24/sb/5834/) - Concerning urban growth areas. 👍1  
@@ -577,6 +581,11 @@
 
 ## [SB 6105](/bill/2023-24/sb/6105/) - Adult entertainment workers   ❓1
 * ❓💵 Lindsey Hueer
+
+## [SB 6158](/bill/2023-24/sb/6158/) - Public facilities districts 👍1  
+
+## [SB 6167](/bill/2023-24/sb/6167/) - Local government procurement 👍1  
+* 👍 Brandy DeLange
 
 ## [SJR 8201](/bill/2023-24/sjr/8201/) - Public works account 👍1  
 * 👍 Brandy DeLange

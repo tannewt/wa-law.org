@@ -14,10 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31618&aId=156930&caId=23250&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31618&aId=156930&caId=23250&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Deion Glover - Washington State Patrol
+* Travis Snell - Washington State Department of Transportation
 
-#### 3 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* David Sedelmeier
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs

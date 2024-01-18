@@ -14,14 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31648&aId=156869&caId=23075&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31648&aId=156869&caId=23075&tId=4)
 
-#### 429 👍 - Pro
+#### 495 👍 - Pro
 Testifying:
 * Shantaa Watkins
 * Liliana Baciuc
 * Gerald Purkey
+* Katherine Wright - N/A
 * Steven Brown
 
-#### 451 👎 - Con
+#### 696 👎 - Con
 Testifying:
 * Robin Berger - Washington State Psychiatric Association
 * Breck Lebegue
@@ -44,8 +45,11 @@ Testifying:
 * 💵Amy Brackenbury - Washington State Medical Association (WSMA)
 * Dr. Robin Berger - Washington State Psychiatric Association (WSPA)
 * Katie Kolan - Washington State Psychiatric Association (WSPA)
+* Maya Ojalehto
+* Jeannette Mcchesney
 * Scott Ferguson - American Medical Association
 * Kelly Richardson - CCHR Washington State
+* Cynthia Wilson - Ross Wilson Enterprises, LLC
 * Petros Levounis - American Psychiatric Association
 * Adam Hinzey
 * Dawn Sonntag - Family Alliance for Mental Health

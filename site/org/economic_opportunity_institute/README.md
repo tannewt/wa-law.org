@@ -58,6 +58,8 @@
 
 ## [HB 1991](/bill/2023-24/hb/1991/) - Paid sick leave 👍1  
 
+## [HB 2066](/bill/2023-24/hb/2066/) - Health provider contracting 👍1  
+
 ## [HB 2102](/bill/2023-24/hb/2102/) - PFML benefits/health info. 👍1  
 * 👍💵 Gabriela Quintana
 

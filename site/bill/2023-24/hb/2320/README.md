@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/17/2024 [The Center Square](/org/the_center_square/) - [Not your father’s weed: Davis-Dent bill limits high-potency cannabis products | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_454a0874-b580-11ee-a130-639c8a443c5b.html#:~:text=House%20Bill%202320)
+
 ## Meetings
 ### Tue 01/16 04:00 PM - Regulated Substances & Gaming (RSG): HB 2320 High THC cannabis products
 #### 16 👍 - Pro

@@ -43,6 +43,9 @@
 * 👍 Christopher Stanley
 * 👍 Dawn Marie Rubio
 
+## [HB 2149](/bill/2023-24/hb/2149/) - Protecting consumer personal information.   ❓1
+* ❓ Brittany Gregory
+
 ## [SB 5003](/bill/2023-24/sb/5003/) - Snohomish county judges 👍2  
 * 👍 Haily Perkins
 * 👍 Haily Perkins

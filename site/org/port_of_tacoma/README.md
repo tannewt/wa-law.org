@@ -22,4 +22,6 @@
 
 ## [SB 5606](/bill/2023-24/sb/5606/) - Illegal racing 👍1  
 
+## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
+
 ## [SB 5840](/bill/2023-24/sb/5840/) - Concerning leases. 👍1  

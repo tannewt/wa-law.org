@@ -31,7 +31,7 @@ Testifying:
 
 #### 7 ❓ - Other
 Testifying:
-* Matthew Windsor - Point Digital Finance, Inc.
+* Matthew Windsor - [Point Digital Finance, Inc.](/org/point_digital_finance,_inc./)
 * John Arens - Redwood Trust
 * Laszlo Ladi - Real Estate Equity Exchange, Inc., d/b/a Unison
 * Ryan Downs - Real Estate Equity Exchange, Inc., d/b/a Unison

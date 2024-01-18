@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5890/</link>
 		<description>Updates about SB 5890</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 16 Jan 2024 15:00:38 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 17 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -98,6 +98,13 @@
 			<pubDate>Tue, 16 Jan 2024 15:00:38 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.sightline.org/2024/01/16/washingtonians-may-get-a-democracy-upgrade-in-2024/#:~:text=SB%205890</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-17/Placed on second reading by Rules Committee.</guid>
 		</item>
 	</channel>
 </rss>

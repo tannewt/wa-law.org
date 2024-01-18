@@ -14,13 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31629&aId=156984&caId=23270&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31629&aId=156984&caId=23270&tId=4)
 
-#### 10 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * 💵Jason Gauthier - South Sound Housing Affordability Partners
 * Kathleen Hosfeld - Homestead Community Land Trust
 * Jet Richardson - Tri-County Partners Habitat for Humanity
+* Heather Moss - Pierce County Human Services
 * Liz Crouse - Tacoma/Pierce County Habitat for Humanity
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

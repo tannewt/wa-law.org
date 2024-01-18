@@ -12,3 +12,6 @@
 * 👍💵 Mason Rolph
 
 ## [HB 2297](/bill/2023-24/hb/2297/) - Solar energy systems/schools 👍1  
+
+## [SB 6113](/bill/2023-24/sb/6113/) - Community solar 👍2  
+* 👍💵 Mason Rolph

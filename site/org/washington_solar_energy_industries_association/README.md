@@ -15,6 +15,9 @@
 ## [HB 2156](/bill/2023-24/hb/2156/) - Solar consumer protections   ❓1
 * ❓ Bill Will
 
+## [HB 2234](/bill/2023-24/hb/2234/) - Low-income energy assistance 👍1  
+* 👍 Bill Will
+
 ## [HB 2253](/bill/2023-24/hb/2253/) - Community solar 👍1  
 
 ## [SB 5570](/bill/2023-24/sb/5570/) - Energy efficiency loans 👍1  

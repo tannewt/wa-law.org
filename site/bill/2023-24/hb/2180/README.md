@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Wed 01/17 04:00 PM - Appropriations (APP): HB 2180 Special education cap
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31603&aId=156727&caId=23098&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31603&aId=156727&caId=23098&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31603&aId=156727&caId=23098&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31603&aId=156727&caId=23098&tId=4)
-
-#### 139 👍 - Pro
+#### 203 👍 - Pro
 Testifying:
 * Brian Fechter - Office of Financial Management
 * Maddy Thompson - Governor's Office
@@ -27,10 +21,12 @@ Testifying:
 * DARCY HUFFMAN - [Olympia School District](/org/olympia_school_district/)
 * 💵Troy Nichols - Capital Region ESD 113
 * 💵Mitch Denning - Alliance of Educational Associations
+* Charlie Brown - South Sound Superintendents
 * Mikhail Cherniske - Office of Superintendent of Public Instruction
 
 #### 0 👎 - Con
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Amy Moses-Lagos
+* Jana Parker - Seattle Special Education PTSA, Co-President

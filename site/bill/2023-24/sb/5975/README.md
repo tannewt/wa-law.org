@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31629&aId=156841&caId=23083&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31629&aId=156841&caId=23083&tId=4)
 
-#### 168 👍 - Pro
+#### 179 👍 - Pro
 Testifying:
 * Georgia Spiropoulos - Equiscript
 * Tiffani McCoy - House Our Neighbors
 
-#### 1 👎 - Con
+#### 123 👎 - Con
 
 #### 0 ❓ - Other

@@ -26,6 +26,8 @@
 
 ## [HB 1810](/bill/2023-24/hb/1810/) - Mobile home rental assist. 👍1  
 
+## [HB 2044](/bill/2023-24/hb/2044/) - Standardizing limitations on voter-approved property tax levies. 👍1  
+
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍1  
 
 ## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  

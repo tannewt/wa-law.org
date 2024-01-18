@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1341/</link>
 		<description>Updates about HB 1341</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 17 Jan 2024 09:37:51 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 17 Jan 2024 12:12:56 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -311,6 +311,46 @@
 			<guid isPermaLink="false">testifier/Peter/Manning/2024-01-17 01:31:10</guid>
 		</item>
 		<item>
+			<title>❓Bethany Rondeaux - Olympus Horticulture</title>
+			<description>Bethany Rondeaux signed up to testify Other. They are signed up to represent Olympus Horticulture.</description>
+			<pubDate>Wed, 17 Jan 2024 04:42:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Bethany/Rondeaux/2024-01-17 04:42:03</guid>
+		</item>
+		<item>
+			<title>👎Bill Wagenseller - Washington Bud Company</title>
+			<description>Bill Wagenseller signed up to testify Con. They are signed up to represent Washington Bud Company.</description>
+			<pubDate>Wed, 17 Jan 2024 05:23:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Bill/Wagenseller/2024-01-17 05:23:18</guid>
+		</item>
+		<item>
+			<title>👎Shawn DeNae Wagenseller - Washington Bud Company</title>
+			<description>Shawn DeNae Wagenseller signed up to testify Con. They are signed up to represent Washington Bud Company.</description>
+			<pubDate>Wed, 17 Jan 2024 05:23:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Shawn DeNae/Wagenseller/2024-01-17 05:23:18</guid>
+		</item>
+		<item>
+			<title>👍Doug Henderson - Painted Rooster</title>
+			<description>Doug Henderson signed up to testify Pro. They are signed up to represent Painted Rooster.</description>
+			<pubDate>Wed, 17 Jan 2024 05:23:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Doug/Henderson/2024-01-17 05:23:48</guid>
+		</item>
+		<item>
+			<title>👍Jamie Hoffman - Craft Elixirs</title>
+			<description>Jamie Hoffman signed up to testify Pro. They are signed up to represent Craft Elixirs.</description>
+			<pubDate>Wed, 17 Jan 2024 05:27:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jamie/Hoffman/2024-01-17 05:27:58</guid>
+		</item>
+		<item>
 			<title>👍💵Brooke Davies - Washington CannaBusiness Association</title>
 			<description>Brooke Davies signed up to testify Pro. They are signed up to represent Washington CannaBusiness Association. They are a registered lobbyist.</description>
 			<pubDate>Wed, 17 Jan 2024 07:30:22 GMT</pubDate>
@@ -351,12 +391,20 @@
 			<guid isPermaLink="false">testifier/Lukas/Hunter/2024-01-17 09:28:06</guid>
 		</item>
 		<item>
-			<title>❓Micah Sherman - Black Excellence In Cannabis</title>
+			<title>❓Micah Sherman - Olympus Horticulture</title>
 			<description>Micah Sherman signed up to testify Other.</description>
 			<pubDate>Wed, 17 Jan 2024 09:37:51 GMT</pubDate>
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Micah/Sherman/2024-01-17 09:37:51</guid>
+		</item>
+		<item>
+			<title>👎Scott Waller - Washington Association for Substance misuse and Violence Prevention (WASAVP)</title>
+			<description>Scott Waller signed up to testify Con. They are signed up to represent Washington Association for Substance misuse and Violence Prevention (WASAVP).</description>
+			<pubDate>Wed, 17 Jan 2024 12:12:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Scott/Waller/2024-01-17 12:12:56</guid>
 		</item>
 	</channel>
 </rss>

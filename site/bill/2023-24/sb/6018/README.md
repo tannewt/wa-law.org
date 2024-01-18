@@ -17,11 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31668&aId=156627&caId=23058&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31668&aId=156627&caId=23058&tId=4)
 
-#### 13 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * John Welch - Association of Educational Service Districts
+* Jim Kowalkowski - Rural Education Center
+* 💵Emily Murphy - [Child Care Aware of Washington](/org/child_care_aware_of_washington/)
+* Samantha Bowen - Office of Superintendent of Public Instruction (OSPI)
 * Kristi Dominguez - Superintendent
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

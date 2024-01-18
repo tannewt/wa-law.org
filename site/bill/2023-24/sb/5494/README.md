@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31645&aId=156839&caId=23054&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31645&aId=156839&caId=23054&tId=4)
 
-#### 11 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Ross Lane - Puget Sound & Pacific Railroad Company
+* Ryan Pidde - Mickelson & Company
+* Matt Hoobler - Watco -- Great Northwest Railroad / Palouse River & Coulee City Railroad
+* Adam LeMieux - [Port of Everett](/org/port_of_everett/)
 
 #### 1 👎 - Con
 

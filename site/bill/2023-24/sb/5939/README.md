@@ -14,11 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31683&aId=156815&caId=23061&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31683&aId=156815&caId=23061&tId=4)
 
-#### 85 👍 - Pro
+#### 222 👍 - Pro
 Testifying:
+* Schatzie Harvey
+* Jeff Flood - Stevens County Sheriff Department
+* Susanna Jones
+* Samee Charriere
+* Kathy McKay - K Diamond K Guest Ranch / Washington Farm Bureau
 * Jeff Dawson - Livestock Producer
+* Sam Orozco
 
-#### 508 👎 - Con
+#### 578 👎 - Con
 Testifying:
 * David Linn - None
 * John Rosapepe - Endangered Species Coalition

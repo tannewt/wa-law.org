@@ -14,7 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31647&aId=156513&caId=23050&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31647&aId=156513&caId=23050&tId=4)
 
-#### 2 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* 💵Jaime Bodden - WSALPHO
+* Dr. Alan Melnick - Clark County Public Health
+* Dr. James Lewis - Snohomish County Health Department
+* Dr. Matthew Golden - Public Health Seattle King County
+* Dr. Scott Lindquist - WA State Department of Health
+* Heather Hill - Benton-Franklin Health District
+* Patty Hayes - WA State Board of Health
 
 #### 8 👎 - Con
 

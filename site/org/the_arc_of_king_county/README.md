@@ -129,6 +129,10 @@
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
+## [HB 2279](/bill/2023-24/hb/2279/) - Dev. disabilities waiver use 👍1  
+
+## [HB 2365](/bill/2023-24/hb/2365/) - Respite care 👍1  
+
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 
 ## [SB 5097](/bill/2023-24/sb/5097/) - Rare diseases adv. council 👍2  
@@ -208,6 +212,8 @@
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
 
 ## [SB 5864](/bill/2023-24/sb/5864/) - Establishing a point of contact for any person diagnosed with a rare disease. 👍1  
+
+## [SB 5870](/bill/2023-24/sb/5870/) - Early learning programs 👍1  
 
 ## [SB 5873](/bill/2023-24/sb/5873/) - Student transportation 👍1  
 

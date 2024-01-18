@@ -51,7 +51,7 @@ Testifying:
 * 💵Kurt Spiegel - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * 💵Alex Hur - NW Education Access/Statewide Poverty Action Network
 * Carlos Caguiat - [Washington Continuing Care Residents Association](/org/washington_continuing_care_residents_association/)
-* Lynda Hall - [Treehouse](/org/treehouse/)
+* 💵Lynda Hall - [Treehouse](/org/treehouse/)
 * Steve DuPont - [Central Washington University](/org/central_washington_university/)
 * Radu Smintina - OneAmerica
 * Caroline Cress - Association of Washington Assistant Attorneys General (AWAAG), WFSE Local 5297
@@ -253,7 +253,7 @@ Testifying:
 * Michael Mirra - Housing & Child Welfare Subcommittee of the Administrative Office of the Court
 * Sam Martin - Washington Coalition on Homeless Youth Advocacy
 * Danni Jo Bechtold
-* Lynda Hall - [Treehouse](/org/treehouse/)
+* 💵Lynda Hall - [Treehouse](/org/treehouse/)
 * Jim Bamberger - Office of Civil Legal Aid
 * Sara Robbins - Seattle / King County Coalition on Homelessness
 * 💵Erica Hallock - Start Early Washington, Empire Health Foundation, Family Impact Network

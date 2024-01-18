@@ -14,12 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31645&aId=156935&caId=23260&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31645&aId=156935&caId=23260&tId=4)
 
-#### 4 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * James Rolph - The Lieutenant Governor's Office
+* Karl Dye - TRIDEC
+* Lydia Faitalia - Washington State Commission on Asian Pacific American Affairs
 * Geoffrey Potter - Office of Governor Jay Inslee
+* Schuyler Hoss - Former Director of International Relations and Protocol
 
-#### 2 👎 - Con
+#### 12 👎 - Con
 Testifying:
 * John Worthington
 

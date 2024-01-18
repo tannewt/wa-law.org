@@ -15,6 +15,9 @@
 
 ## [HB 1585](/bill/2023-24/hb/1585/) - Local infra. project areas 👍2  
 
+## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  
+* 👍 Nathan Daum
+
 ## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍1  
 * 👍 Jim Hammond
 

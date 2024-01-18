@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31674&aId=156665&caId=23105&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31674&aId=156665&caId=23105&tId=4)
 
-#### 52 👍 - Pro
+#### 71 👍 - Pro
 Testifying:
 * Genevieve Stokes - Child Care Aware of WA
 * 💵Ruth Kagi - Retired State Representative
@@ -26,7 +26,7 @@ Testifying:
 * Melissa Denlinger - Happy Feet Academy
 * Susan Yang - Denise Louie Education Center
 
-#### 5 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 

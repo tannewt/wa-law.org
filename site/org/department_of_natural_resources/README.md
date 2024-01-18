@@ -34,5 +34,8 @@
 
 ## [HB 2187](/bill/2023-24/hb/2187/) - Water/family farms   ❓1
 
+## [HB 2207](/bill/2023-24/hb/2207/) - Solid waste dumping   ❓1
+* ❓ Brian Considine
+
 ## [HB 2273](/bill/2023-24/hb/2273/) - Functional recovery building 👍1  
 * 👍 Corina Allen

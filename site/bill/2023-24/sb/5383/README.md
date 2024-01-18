@@ -15,6 +15,21 @@
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Other Topics](https://crosscut.com/voter-guide/2023-legislative-tracker/election/other-topics#:~:text=Senate%20Bill%205383)
 
 ## Meetings
+### Tue 01/23 04:00 PM - Transportation (TRAN): SSB 5383 Pedestrians/roadways
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31695&aId=157472&caId=23362&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31695&aId=157472&caId=23362&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31695&aId=157472&caId=23362&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31695&aId=157472&caId=23362&tId=4)
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+Testifying:
+* David Sedelmeier
+
+#### 0 ❓ - Other
+
 ### Mon 02/13 04:00 PM - Transportation (TRAN): SB 5383 Pedestrians/roadways
 #### 398 👍 - Pro
 Testifying:

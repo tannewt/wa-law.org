@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31607&aId=156931&caId=23247&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31607&aId=156931&caId=23247&tId=4)
 
-#### 14 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
@@ -23,6 +23,8 @@ Testifying:
 * Philomène Hudry - Lake Washington High School
 * Sarah Bali - Lake Washington High School
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)

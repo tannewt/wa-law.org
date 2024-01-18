@@ -14,15 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31612&aId=156825&caId=23155&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31612&aId=156825&caId=23155&tId=4)
 
-#### 22 👍 - Pro
+#### 48 👍 - Pro
 Testifying:
 * Georgia Spiropoulos - Equiscript
 * Georgia Spiropoulos - Equiscript
+* 💵Nicolas Garcia - WPUDA
+* Bill Will - [Washington Solar Energy Industries Association](/org/washington_solar_energy_industries_association/)
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Alessandra De la Torre - [Northwest Energy Coalition](/org/northwest_energy_coalition/)
+* 💵Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Chelsea Martin - [Modern Electric Water Company](/org/modern_electric_water_company/)
+* Austin Scharff - Washington State Dept. of Commerce
+* Austin Scharff - Washington Department of Commerce
+* Austin Scharff - Washington Department of Commerce

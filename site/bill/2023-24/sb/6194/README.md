@@ -17,8 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31643&aId=156878&caId=23045&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31643&aId=156878&caId=23045&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Sarah Tucker
+* 💵Daniel Lugo
 
 #### 0 👎 - Con
 
-#### 5 ❓ - Other
+#### 14 ❓ - Other
+Testifying:
+* Abbie Hart
+* Joe Kendo - Washington State Labor Council, AFL-CIO
+* 💵Seamus Petrie - [Washington Public Employees Association](/org/washington_public_employees_association/)

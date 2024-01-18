@@ -18,7 +18,7 @@ Sign up to testify:
 Testifying:
 * 💵Lauren Hipp - MomsRising
 
-#### 21 👎 - Con
+#### 31 👎 - Con
 Testifying:
 * John Worthington
 

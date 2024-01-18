@@ -100,6 +100,9 @@
 
 ## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
 
+## [HB 2234](/bill/2023-24/hb/2234/) - Low-income energy assistance  👎1 
+* 👎💵 Linda Garcia
+
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 

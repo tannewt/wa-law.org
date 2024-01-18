@@ -18,6 +18,9 @@
 ## [HB 2095](/bill/2023-24/hb/2095/) - Gift certificates/unclaimed 👍1  
 * 👍 Emma Scalzo
 
+## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
+* 👍 Emma Scalzo
+
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1

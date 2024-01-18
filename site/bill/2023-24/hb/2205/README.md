@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/17 01:30 PM - State Government & Tribal Relations (SGOV): HB 2205 Signature gathering/protests
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31632&aId=156884&caId=23238&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31632&aId=156884&caId=23238&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31632&aId=156884&caId=23238&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31632&aId=156884&caId=23238&tId=4)
-
-#### 142 👍 - Pro
+#### 144 👍 - Pro
 Testifying:
 * Laurie Layne - Layne Software
 * Tim Eyman - Initiative Activist

@@ -17,10 +17,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31668&aId=156624&caId=23055&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31668&aId=156624&caId=23055&tId=4)
 
-#### 118 👍 - Pro
+#### 154 👍 - Pro
 Testifying:
 * 💵Joel Ryan - Washington State Association of Head Start & ECEAP
 * 💵Claire Lane - Anti-Hunger & Nutrition Coalition
+* Stacie Marez - ESD 105
+* Juan Madrigal - Opportunity Council Early Learning and Family Services
+* Ronda Hull - Mid-Columbia Children's Council
+* Jessica Heavner - Parent
+* Mary Curry - Yes for Early Success
+* Roxy Magno - Multicultural Child and Family Hope Center
+* Colleen Condon - Washington Childcare Center Association
+* Kathy Carmen
+* Mary Curry - YES for Early Success
+* 💵Yessenia Rivera - FMS Global Strategies
 
 #### 0 👎 - Con
 

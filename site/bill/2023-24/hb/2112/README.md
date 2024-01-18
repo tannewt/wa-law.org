@@ -11,16 +11,11 @@
 
 ## Meetings
 ### Wed 01/17 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2112 Higher ed. opioid prevention
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31672&aId=157484&caId=23290&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31672&aId=157484&caId=23290&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31672&aId=157484&caId=23290&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31672&aId=157484&caId=23290&tId=4)
-
-#### 6 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * Melissa Beard - Council of Presidents
+* Reese Ramirez - UW Tacoma Students
 * Amanda Kost - University of Washington Faculty
 
 #### 0 👎 - Con

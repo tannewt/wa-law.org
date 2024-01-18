@@ -16,8 +16,10 @@ Sign up to testify:
 
 #### 2 👍 - Pro
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * 💵Lisa Thatcher - Washington State Hospital Association
+* Neil Lacanlale - South Sound Behavioral Hospital
+* Austin Martin - [Smokey Point Behavioral Hospital](/org/smokey_point_behavioral_hospital/)
 
 #### 0 ❓ - Other

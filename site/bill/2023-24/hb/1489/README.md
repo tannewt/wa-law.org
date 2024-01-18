@@ -8,17 +8,12 @@
 
 ## Meetings
 ### Wed 01/17 04:00 PM - Transportation (TR): HB 1489 Mt. St. Helens license plate
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31617&aId=156406&caId=23243&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31617&aId=156406&caId=23243&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31617&aId=156406&caId=23243&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31617&aId=156406&caId=23243&tId=4)
-
-#### 100 👍 - Pro
+#### 105 👍 - Pro
 Testifying:
 * Raymond Yurkewycz - [Mount St. Helens Institute](/org/mount_st._helens_institute/)
 * William Iyall
 * Andrea Repka
+* Brandon Paul
 * Roderick Hooker
 
 #### 2 👎 - Con

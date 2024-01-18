@@ -14,16 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31618&aId=156991&caId=23281&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31618&aId=156991&caId=23281&tId=4)
 
-#### 8 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Debbie Driver - Office of Governor Jay Inslee
 * Mark McKechnie - Washington Traffic Safety Commission
 * 💵Briahna Murray - [City of Tacoma](/org/city_of_tacoma/)
 * Rob Karlinsey - City Manager, City of Kenmore
 * 💵Axel Swanson - Washington State Association of County Engineers
+* Tim Burgess - [City of Seattle](/org/city_of_seattle/)
 
-#### 3 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* David Sedelmeier
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
+* James McMahan - WA Assoc Sheriffs & Police Chiefs

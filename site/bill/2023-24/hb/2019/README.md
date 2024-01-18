@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/17 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2019 Native American apprentices
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31672&aId=157483&caId=23289&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31672&aId=157483&caId=23289&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31672&aId=157483&caId=23289&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31672&aId=157483&caId=23289&tId=4)
-
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * 💵Heather Kurtenbach - Ironworkers Local 86
 * 💵Erin Frasier - Washington State Building & Construction Trades Council

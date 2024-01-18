@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31609&aId=156666&caId=23164&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31609&aId=156666&caId=23164&tId=4)
 
-#### 987 👍 - Pro
+#### 1168 👍 - Pro
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
@@ -30,12 +30,15 @@ Testifying:
 * Georgia Spiropoulos - Equiscript
 * Shawn Latham - Self Advocates In Leadership
 * Marty Miller - Office of Rural and Farmworker Housing (ORFH)
+* Treasure. Mackley - Invest in Washington Now
+* Joseph Wilson
 * Andy Silver - Vancouver Housing Authority
 * Marty Miller - Office of Rural & Farmworker Housing
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Peter Wolf
+* Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
 
-#### 175 👎 - Con
+#### 228 👎 - Con
 Testifying:
 * 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Tim Eyman - Initiative Activist
@@ -44,5 +47,7 @@ Testifying:
 * Sheri Druckman - Legacy Partners
 * 💵Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
 * William Shadbolt - [Washington Business Properties Association](/org/washington_business_properties_association/)
+* Patricia Hoendermis - Yakima Valley Landlords Assoc.
+* Reza MARASHI - NAIOP-WA
 
-#### 4 ❓ - Other
+#### 6 ❓ - Other

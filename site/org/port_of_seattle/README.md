@@ -14,6 +14,8 @@
 
 ## [HB 1505](/bill/2023-24/hb/1505/) - Alternative jet fuel 👍1  
 
+## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍1  
+
 ## [HB 1906](/bill/2023-24/hb/1906/) - Changing the vessel length requirement in obtaining nonresident vessel permits. 👍1  
 
 ## [HB 1912](/bill/2023-24/hb/1912/) - Requiring state agencies to share information to encourage economic development. 👍1  
@@ -49,6 +51,8 @@
 * 👍 Ryan Calkins
 
 ## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍2  
+
+## [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra. 👍1  
 
 ## [SB 5817](/bill/2023-24/sb/5817/) - Economic development info. 👍1  
 

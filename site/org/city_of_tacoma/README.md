@@ -37,6 +37,9 @@
 
 ## [HB 1167](/bill/2023-24/hb/1167/) - Residential housing   ❓1
 
+## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍1  
+* 👍 Preston Peck
+
 ## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records   ❓2
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  

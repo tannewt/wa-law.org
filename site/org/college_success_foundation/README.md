@@ -56,7 +56,13 @@
 
 ## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍1  
 
+## [HB 2025](/bill/2023-24/hb/2025/) - Modifying placement and salary matching requirements for the state work-study program. 👍1  
+* 👍💵 Juliet Schindler
+
 ## [HB 2053](/bill/2023-24/hb/2053/) - Establishing the ninth grade success grant program. 👍2  
+
+## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍1  
+* 👍💵 Juliet Schindler
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍3  
 * 👍💵 Juliet Schindler

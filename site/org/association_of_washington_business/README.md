@@ -604,7 +604,7 @@
 
 ## [SB 5765](/bill/2023-24/sb/5765/) - I-5 bridge tolling 👍1  
 
-## [SB 5774](/bill/2023-24/sb/5774/) - Increasing the capacity to conduct timely fingerprint-based background checks for prospective child care employees and other programs. 👍1  
+## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍1  
 
 ## [SB 5776](/bill/2023-24/sb/5776/) - Accessing an emergency supply of insulin.  👎1 
 * 👎💵 Emily Wittman
@@ -626,12 +626,18 @@
 ## [SB 5845](/bill/2023-24/sb/5845/) - Military housing taxation  👎1 ❓1
 * 👎 Morgan Irwin
 
+## [SB 5870](/bill/2023-24/sb/5870/) - Early learning programs 👍1  
+
 ## [SB 5901](/bill/2023-24/sb/5901/) - Concerning co-living housing. 👍1  
 * 👍 Morgan Irwin
 
 ## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD   ❓1
 
+## [SB 5933](/bill/2023-24/sb/5933/) - Infants and toddlers program 👍1  
+
 ## [SB 5940](/bill/2023-24/sb/5940/) - Medical assistant-EMT cert. 👍1  
+
+## [SB 5941](/bill/2023-24/sb/5941/) - Subsidized child care 👍1  
 
 ## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras  👎1 
 * 👎 Morgan Irwin
@@ -641,6 +647,8 @@
 
 ## [SB 5965](/bill/2023-24/sb/5965/) - Fashion/environmental impact  👎1 
 * 👎💵 Peter Godlewski
+
+## [SB 6018](/bill/2023-24/sb/6018/) - Early learning coordinators 👍1  
 
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development  👎1 
 * 👎 Morgan Irwin
@@ -652,5 +660,8 @@
 * 👎💵 Peter Godlewski
 
 ## [SB 6101](/bill/2023-24/sb/6101/) - Hospital at-home services 👍1  
+
+## [SB 6113](/bill/2023-24/sb/6113/) - Community solar  👎1 
+* 👎💵 Peter Godlewski
 
 ## [SB 6136](/bill/2023-24/sb/6136/) - Rental property B&O tax  👎1 

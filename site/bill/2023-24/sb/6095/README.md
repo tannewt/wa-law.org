@@ -14,11 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31647&aId=156867&caId=23053&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31647&aId=156867&caId=23053&tId=4)
 
-#### 5 👍 - Pro
+#### 15 👍 - Pro
+Testifying:
+* Jenny Arnold - Washington State Pharmacy Association
+* Scott Lindquist - Available for Questions; Washington State Department of Health
+* Umair Shah - Washington State Department of Health
 
-#### 313 👎 - Con
+#### 484 👎 - Con
 Testifying:
 * Maya Ojalehto
 * Jeannette Mcchesney
+* Bob Runnells - Informed Choice Washington
+* Susanna Jones
+* Timothy O'Clair
+* Benjamin Gifford
 
 #### 0 ❓ - Other

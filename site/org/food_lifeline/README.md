@@ -133,3 +133,6 @@
 
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
 * 👍💵 Aaron Czyzewski
+
+## [SB 6112](/bill/2023-24/sb/6112/) - Donated food items/B&O tax   ❓1
+* ❓💵 Aaron Czyzewski

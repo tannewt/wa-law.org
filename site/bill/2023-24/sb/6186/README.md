@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31615&aId=157109&caId=23287&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31615&aId=157109&caId=23287&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Dawn Pullin - Washington State Patrol
+* Barbara Serrano - Office of the Governor
+* Patricia Gosch - No/former WSP; new hire at Des Moines PD
 
 #### 0 👎 - Con
 
