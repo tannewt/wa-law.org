@@ -167,3 +167,7 @@
 ## [SB 5899](/bill/2023-24/sb/5899/) - Adding to the list of provisions prohibited from rental agreements. 👍1  
 
 ## [SB 5943](/bill/2023-24/sb/5943/) - Resource data tool 👍1  
+
+## [SB 6113](/bill/2023-24/sb/6113/) - Community solar 👍1  
+
+## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍1  

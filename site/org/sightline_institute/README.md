@@ -59,7 +59,7 @@
 
 ## [HB 1611](/bill/2023-24/hb/1611/) - Local government permitting 👍1  
 
-## [HB 1892](/bill/2023-24/hb/1892/) - Concerning the workforce housing accelerator program. 👍1  
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍1  
 
 ## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍1  
 * 👍 Alan Durning
@@ -131,3 +131,8 @@
 * ❓💵 Dan Bertolet
 
 ## [SB 6029](/bill/2023-24/sb/6029/) - Detached ADUs 👍1  
+
+## [SB 6138](/bill/2023-24/sb/6138/) - Thermal energy networks 👍1  
+* 👍💵 Laura Feinstein
+
+## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍1  

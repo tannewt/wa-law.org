@@ -223,7 +223,7 @@
 ## [HB 1870](/bill/2023-24/hb/1870/) - Promoting economic development by increasing opportunities for local communities to secure federal funding. 👍1  
 * 👍 Brandy DeLange
 
-## [HB 1892](/bill/2023-24/hb/1892/) - Concerning the workforce housing accelerator program. 👍1  
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍1  
 
 ## [HB 1894](/bill/2023-24/hb/1894/) - Modifying provisions of the business licensing service program. 👍1  
 
@@ -253,7 +253,7 @@
 ## [HB 1998](/bill/2023-24/hb/1998/) - Co-living housing   ❓1
 * ❓💵 Carl Schroeder
 
-## [HB 2020](/bill/2023-24/hb/2020/) - Creating a state administered public infrastructure assistance program within the emergency management division. 👍1  
+## [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg 👍1  
 * 👍 Brandy DeLange
 
 ## [HB 2026](/bill/2023-24/hb/2026/) - Concerning rental income received by people eligible for certain property tax exemption programs. 👍1  
@@ -274,6 +274,9 @@
 
 ## [HB 2071](/bill/2023-24/hb/2071/) - Residential housing   ❓1
 * ❓💵 Carl Schroeder
+
+## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍1  
+* 👍💵 Lindsey Hueer
 
 ## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍1  
 * 👍 Brandy DeLange
@@ -311,6 +314,9 @@
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 * 👍💵 Carl Schroeder
+
+## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras 👍1  
+* 👍 Brandy DeLange
 
 ## [SB 5001](/bill/2023-24/sb/5001/) - Public facility districts 👍1  
 
@@ -586,6 +592,9 @@
 
 ## [SB 6167](/bill/2023-24/sb/6167/) - Local government procurement 👍1  
 * 👍 Brandy DeLange
+
+## [SB 6242](/bill/2023-24/sb/6242/) - Law enforcement training 👍1  
+* 👍💵 Lindsey Hueer
 
 ## [SJR 8201](/bill/2023-24/sjr/8201/) - Public works account 👍1  
 * 👍 Brandy DeLange

@@ -19,8 +19,9 @@
 * 👍💵 John Ficker
 * 👍💵 John Ficker
 
-## [HB 1859](/bill/2023-24/hb/1859/) - Concerning the rights of residents in long-term care facilities.  👎1 
+## [HB 1859](/bill/2023-24/hb/1859/) - Concerning the rights of residents in long-term care facilities.  👎2 
 * 👎💵 John Ficker
+* 👎💵 Amina Abdalla
 
 ## [HB 2015](/bill/2023-24/hb/2015/) - Adult family homes capacity 👍2  
 * 👍💵 John Ficker

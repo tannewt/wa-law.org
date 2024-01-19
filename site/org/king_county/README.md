@@ -381,6 +381,9 @@
 
 ## [HB 2297](/bill/2023-24/hb/2297/) - Solar energy systems/schools 👍1  
 
+## [HB 2368](/bill/2023-24/hb/2368/) - Refugee & immigrant assist. 👍1  
+* 👍 Michael Padilla Ocampo
+
 ## [SB 5006](/bill/2023-24/sb/5006/) - Waiver of firearm rights 👍1  
 
 ## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment 👍1  ❓1
@@ -642,7 +645,7 @@
 
 ## [SB 5729](/bill/2023-24/sb/5729/) - Insulin cost-sharing cap 👍2  
 
-## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
+## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1 👎1 
 * 👍 Dwight Dively
 
 ## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose/high schools 👍1  
@@ -652,7 +655,7 @@
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
 * 👍 Sarah Perry
 
-## [SB 5908](/bill/2023-24/sb/5908/) - Providing extended foster care services to youth ages 18 to 21. 👍1  
+## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍1  
 
 ## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD 👍1  
 

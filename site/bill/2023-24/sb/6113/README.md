@@ -14,18 +14,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31681&aId=156950&caId=23269&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31681&aId=156950&caId=23269&tId=4)
 
-#### 354 👍 - Pro
+#### 507 👍 - Pro
 Testifying:
 * 💵Mason Rolph - [Olympia Community Solar](/org/olympia_community_solar/)
 * Derek Chernow - [Coalition for Community Solar Access](/org/coalition_for_community_solar_access/)
 * James Feinstein - Arcadia Power
 * 💵Charlee Thompson - NW Energy Coalition
+* Don Steinke - Climate Action of Southwest Washington
+* TERRY NELSON - Skagit Valley Clean Energy Cooperative
+* Bailey Cunningham
+* Bill Garry
 
-#### 7 👎 - Con
+#### 12 👎 - Con
 Testifying:
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Cassie Bordelon - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 * 💵Jay Balasbas - PacifiCorp
 * 💵Josie Cummings - Avista
+* 💵Dave Warren - Okanogan PUD, Klickitat PUD
+* Dever Haffner-Ratliffe - Cowlitz PUD
+* 💵Nicolas Garcia - WA PUD Association
 
 #### 0 ❓ - Other

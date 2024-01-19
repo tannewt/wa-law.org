@@ -64,6 +64,8 @@
 ## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍1  
 * 👍💵 Juliet Schindler
 
+## [HB 2342](/bill/2023-24/hb/2342/) - Dependent youth financial ed 👍1  
+
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍3  
 * 👍💵 Juliet Schindler
 * 👍💵 Juliet Schindler
@@ -131,4 +133,4 @@
 ## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
 * 👍💵 Emily Stochel
 
-## [SB 5908](/bill/2023-24/sb/5908/) - Providing extended foster care services to youth ages 18 to 21. 👍1  
+## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍1  

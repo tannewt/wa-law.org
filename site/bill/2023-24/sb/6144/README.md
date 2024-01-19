@@ -14,15 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31648&aId=156869&caId=23075&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31648&aId=156869&caId=23075&tId=4)
 
-#### 495 👍 - Pro
+#### 557 👍 - Pro
 Testifying:
 * Shantaa Watkins
 * Liliana Baciuc
 * Gerald Purkey
 * Katherine Wright - N/A
 * Steven Brown
+* 💵Anna Nepomuceno - NAMI Washington
+* Dr. David Shearer
+* Dr. John Edwards
+* Dr. Jaime Wilson
+* Jocelynn McLaughlin
+* Phillip Hughes
 
-#### 696 👎 - Con
+#### 908 👎 - Con
 Testifying:
 * Robin Berger - Washington State Psychiatric Association
 * Breck Lebegue
@@ -53,5 +59,11 @@ Testifying:
 * Petros Levounis - American Psychiatric Association
 * Adam Hinzey
 * Dawn Sonntag - Family Alliance for Mental Health
+* Deborah Johnson - Washington State Urology Society
+* Susanna Jones
+* Thomas Soeprono - Washington State Psychiatric Association
+* Marsha Haley - Physicians for Patient Protection
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Shawna Fox - AVAILABLE FOR QUESTIONS: Washington State Department of Health

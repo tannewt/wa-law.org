@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31724&aId=157103&caId=23356&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31724&aId=157103&caId=23356&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Jay Blazey - [Cedar Grove](/org/cedar_grove/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Rose GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)

@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Thu 01/18 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 2210 DOC wild horse program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31627&aId=156445&caId=23122&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31627&aId=156445&caId=23122&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31627&aId=156445&caId=23122&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31627&aId=156445&caId=23122&tId=4)
-
 #### 18 👍 - Pro
 
 #### 2 👎 - Con

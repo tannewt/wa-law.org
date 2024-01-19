@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31752&aId=157238&caId=23456&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31752&aId=157238&caId=23456&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Brad Banks - Co-Responder Outreach Alliance (CROA)
 
 #### 0 👎 - Con
 

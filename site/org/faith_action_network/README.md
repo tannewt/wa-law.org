@@ -133,7 +133,7 @@
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍3  
 * 👍💵 Kristin Ang
 
-## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍6  
+## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍7  
 * 👍💵 Kristin Ang
 
 ## [SB 5480](/bill/2023-24/sb/5480/) - Work-limiting disability 👍3  

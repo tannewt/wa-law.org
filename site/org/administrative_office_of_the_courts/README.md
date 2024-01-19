@@ -43,7 +43,7 @@
 * 👍 Christopher Stanley
 * 👍 Dawn Marie Rubio
 
-## [HB 2149](/bill/2023-24/hb/2149/) - Protecting consumer personal information.   ❓1
+## [HB 2149](/bill/2023-24/hb/2149/) - Protecting consumer personal information.   ❓2
 * ❓ Brittany Gregory
 
 ## [SB 5003](/bill/2023-24/sb/5003/) - Snohomish county judges 👍2  
@@ -81,15 +81,17 @@
 ## [SB 5825](/bill/2023-24/sb/5825/) - Guardianship 👍1  
 * 👍 Christopher Stanley
 
-## [SB 5827](/bill/2023-24/sb/5827/) - Superior court/Whatcom 👍2  
+## [SB 5827](/bill/2023-24/sb/5827/) - Superior court/Whatcom 👍3  
 * 👍 Dawn Marie Rubio
 * 👍 Shannon Hinchcliffe
+* 👍 Christopher Stanley
 
 ## [SB 5828](/bill/2023-24/sb/5828/) - Water rights commissioners 👍1  
 * 👍 Shannon Hinchcliffe
 
-## [SB 5836](/bill/2023-24/sb/5836/) - Adding an additional superior court judge in Clark county. 👍1  
+## [SB 5836](/bill/2023-24/sb/5836/) - Adding an additional superior court judge in Clark county. 👍2  
 * 👍 Dawn Marie Rubio
+* 👍 Christopher Stanley
 
 ## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍2  
 * 👍 Brittany Gregory

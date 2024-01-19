@@ -7,6 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/22 04:00 PM - Appropriations (APP): HB 1946 Behav. health scholarship
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31716&aId=157552&caId=23577&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31716&aId=157552&caId=23577&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31716&aId=157552&caId=23577&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31716&aId=157552&caId=23577&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/09 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1946 Behav. health scholarship
 #### 33 👍 - Pro
 Testifying:

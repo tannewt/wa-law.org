@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31648&aId=156871&caId=23077&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31648&aId=156871&caId=23077&tId=4)
 
-#### 152 👍 - Pro
+#### 155 👍 - Pro
+Testifying:
+* Roman Daniels-Brown - [Association of Dental Support Organizations](/org/association_of_dental_support_organizations/)
+* John Gibbons - Immediate Past President, Washington State Dental Association
+* 💵Kevin Schilling - Washington State Dental Association
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

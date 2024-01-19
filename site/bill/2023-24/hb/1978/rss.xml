@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1978/</link>
 		<description>Updates about HB 1978</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 16 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -65,6 +65,13 @@
 			<pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-16/ICEV - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-18/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

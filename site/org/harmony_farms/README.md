@@ -31,7 +31,8 @@
 ## [HB 2194](/bill/2023-24/hb/2194/) - Home cultivation of cannabis 👍1  
 * 👍💵 Lukas Hunter
 
-## [HB 2255](/bill/2023-24/hb/2255/) - Cannabis inversion/diversion 👍1  
+## [HB 2255](/bill/2023-24/hb/2255/) - Cannabis inversion/diversion 👍2  
+* 👍💵 Lukas Hunter
 * 👍💵 Lukas Hunter
 
 ## [HB 2320](/bill/2023-24/hb/2320/) - High THC cannabis products  👎1 
@@ -55,4 +56,13 @@
 * 👍💵 Lukas Hunter
 
 ## [SB 5546](/bill/2023-24/sb/5546/) - Cannabis commission  👎1 
+* 👎💵 Lukas Hunter
+
+## [SB 6118](/bill/2023-24/sb/6118/) - Vapor product directory   ❓1
+* ❓💵 Lukas Hunter
+
+## [SB 6220](/bill/2023-24/sb/6220/) - High THC cannabis products  👎1 
+* 👎💵 Lukas Hunter
+
+## [SB 6271](/bill/2023-24/sb/6271/) - Cannabis excise tax/THC  👎1 
 * 👎💵 Lukas Hunter

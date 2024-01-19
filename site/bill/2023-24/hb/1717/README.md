@@ -18,11 +18,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31727&aId=157167&caId=23328&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31727&aId=157167&caId=23328&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Nathan Daum - [City of Shoreline](/org/city_of_shoreline/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

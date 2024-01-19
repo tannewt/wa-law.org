@@ -31,3 +31,5 @@
 
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
 * 👍💵 John Seng
+
+## [SB 6113](/bill/2023-24/sb/6113/) - Community solar 👍1  

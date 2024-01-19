@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31749&aId=157204&caId=23306&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31749&aId=157204&caId=23306&tId=4)
 
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Jessica Ng - CLEAR
+* Tyler Blackney - Amazon
+* Robert Singleton - Chamber of Progress
+* Shannon Patch - Delaware North, concessions operator at Climate Pledge Arena
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

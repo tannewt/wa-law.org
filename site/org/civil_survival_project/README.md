@@ -54,11 +54,11 @@
 
 ## [SB 5474](/bill/2023-24/sb/5474/) - Juvenile justice 👍1  
 
-## [SB 5893](/bill/2023-24/sb/5893/) - Providing gate money to individuals releasing from custody prior to the expiration of their sentence. 👍1  
+## [SB 5893](/bill/2023-24/sb/5893/) - Gate money/early release 👍1  
 
 ## [SB 5912](/bill/2023-24/sb/5912/) - Concerning reentry services and supports. 👍2  
 
-## [SB 5974](/bill/2023-24/sb/5974/) - Concerning the disposition of unenforceable legal financial obligations other than restitution imposed by a court or an agent of the court against a juvenile prior to July 1, 2023. 👍1  
+## [SB 5974](/bill/2023-24/sb/5974/) - Unenforceable LFOs 👍1  
 
 ## [SB 5981](/bill/2023-24/sb/5981/) - Concerning the indeterminate sentence review board. 👍1  
 

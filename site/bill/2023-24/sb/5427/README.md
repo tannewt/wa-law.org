@@ -17,13 +17,7 @@
 
 ## Meetings
 ### Thu 01/18 04:00 PM - Ways & Means (WM): SB 5427 Hate crimes & bias incidents
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31607&aId=156862&caId=23065&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31607&aId=156862&caId=23065&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31607&aId=156862&caId=23065&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31607&aId=156862&caId=23065&tId=4)
-
-#### 234 👍 - Pro
+#### 271 👍 - Pro
 Testifying:
 * Fay Stetz-Waters - Oregon Department of Justice
 * Fay Stetz Waters - Oregon Department of Justice
@@ -32,18 +26,26 @@ Testifying:
 * 💵Gabriel Neuman - GSBA, Washington State’s LGBTQ+ & Allied Chamber of Commerce
 * 💵Kendall Kosai - Organization of Chinese Americans
 * 💵Stephen Paolini - ADL
+* James McMahan - WA Assn of Sheriffs and Police Chiefs
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 * Lisa Gardner - Spokane NAACP
+* 💵Kristin Ang - Faith Action Network (FAN)
+* Jarrall Haynes - City of Spokane, Director of the Office of Civil Rights, Equity, and Inclusion
+* Lisa Gardner - Spokane NAACP President
+* Paul Schneider - Spokane Human Rights Taskforce President
 
-#### 1010 👎 - Con
+#### 1154 👎 - Con
 Testifying:
 * John Coleman - Foundation for Individual Rights and Expression
 * Jeannette Mcchesney
 * Julie Barrett - Conservative Ladies of Washington
 * Amanda McKinney - Yakima County
 * Liv Finne - Washington Policy Center
+* Teo Morca
+* Sharon Damoff
+* Amanda McKinney - Yakima County
 
-#### 3 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Eric pratt - America
 * 💵Taylor Gardner - WA Assn of Sheriffs and Chiefs

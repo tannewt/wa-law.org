@@ -96,7 +96,7 @@
 * 👍 Fred Kingston
 * 👍 Fred Kingston
 
-## [SB 5908](/bill/2023-24/sb/5908/) - Providing extended foster care services to youth ages 18 to 21. 👍2  
+## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍2  
 * 👍💵 Daniel Lugo
 
-## [SB 5974](/bill/2023-24/sb/5974/) - Concerning the disposition of unenforceable legal financial obligations other than restitution imposed by a court or an agent of the court against a juvenile prior to July 1, 2023. 👍5  
+## [SB 5974](/bill/2023-24/sb/5974/) - Unenforceable LFOs 👍5  

@@ -18,3 +18,5 @@
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget   ❓2
 * ❓ Elizabeth Chamberlain
 * ❓ Ki Bealey
+
+## [SB 6059](/bill/2023-24/sb/6059/) - Mobile home community sales 👍1  

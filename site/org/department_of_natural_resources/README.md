@@ -29,6 +29,8 @@
 
 ## [HB 2117](/bill/2023-24/hb/2117/) - Aerial firefighting/permits 👍1  
 
+## [HB 2170](/bill/2023-24/hb/2170/) - Budget stabilization account 👍1  
+
 ## [HB 2172](/bill/2023-24/hb/2172/) - Vacant state agency property   ❓1
 * ❓ Duane Emmons
 
@@ -37,5 +39,23 @@
 ## [HB 2207](/bill/2023-24/hb/2207/) - Solid waste dumping   ❓1
 * ❓ Brian Considine
 
+## [HB 2243](/bill/2023-24/hb/2243/) - Social equity land trust 👍2  
+* 👍 Hilary Franz
+* 👍 Ryan Murphy
+
 ## [HB 2273](/bill/2023-24/hb/2273/) - Functional recovery building 👍1  
 * 👍 Corina Allen
+
+## [SB 5946](/bill/2023-24/sb/5946/) - Fallen firefighter memorial 👍2  
+* 👍 Brian Considine
+* 👍 George Geissler
+
+## [SB 5967](/bill/2023-24/sb/5967/) - Housing/public lands leases 👍2  
+* 👍 Krosbie Carter
+* 👍 Michael Kearney
+
+## [SB 6062](/bill/2023-24/sb/6062/) - DNR trust asset leasing 👍2  
+* 👍 Christina Frantz
+* 👍 Duane Emmons
+
+## [SB 6121](/bill/2023-24/sb/6121/) - Biochar production 👍1  

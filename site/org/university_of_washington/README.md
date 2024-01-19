@@ -194,3 +194,6 @@
 * 👍💵 Morgan Hickel
 
 ## [SB 6021](/bill/2023-24/sb/6021/) - Correctional fees & expenses 👍1  
+
+## [SB 6220](/bill/2023-24/sb/6220/) - High THC cannabis products 👍1  
+* 👍 Beatriz Carlini

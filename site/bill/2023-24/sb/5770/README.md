@@ -20,13 +20,7 @@
 
 ## Meetings
 ### Thu 01/18 04:00 PM - Ways & Means (WM): SB 5770 Property tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31607&aId=156860&caId=23063&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31607&aId=156860&caId=23063&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31607&aId=156860&caId=23063&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31607&aId=156860&caId=23063&tId=4)
-
-#### 314 👍 - Pro
+#### 516 👍 - Pro
 Testifying:
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * Ben Zarlingo - [City of Everett](/org/city_of_everett/)
@@ -48,8 +42,13 @@ Testifying:
 * Kate Dean - Jefferson County Commissioners
 * Tye Menser - Thurston County Commissioners
 * Wes McCart - Stevens County Commissioners
+* Dan Templeman - [City of Everett](/org/city_of_everett/)
+* Megan Dunn - Snohomish County
+* 💵Samantha Grad - Teamsters 117
+* Roxanne Miles - Washington Recreation and Parks Association
+* 💵Sybill Hyppolite - Washington State Labor Council, AFL-CIO
 
-#### 1203 👎 - Con
+#### 7579 👎 - Con
 Testifying:
 * Tim Eyman - Concerned citizen
 * Jeffrey Pack - Washington Citizens Against Unfair Taxes
@@ -92,8 +91,21 @@ Testifying:
 * Constance Nelson
 * Susan Watkins
 * Margaret Plumb
+* Alex Arwine
+* eric pratt
+* Jeff Daily
 * Patricia Hoendermis - Yakima Valley Landlords Assoc.
+* Leslie Boeshart
+* Paolo Villanueva
+* Teresa Grenz - Self-Employed
+* Helen Ho
+* Larry Seto
+* Debby Herbert
+* Henry Ho
+* VALERIE Norman
+* Jennifer Heine-Withee
 
-#### 2 ❓ - Other
+#### 203 ❓ - Other
 Testifying:
 * Julie Murray - Pierce County Council
+* MARK HARMSWORTH - Washington Policy Center

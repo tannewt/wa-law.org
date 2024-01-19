@@ -8,19 +8,17 @@
 
 ## Meetings
 ### Thu 01/18 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6206 Water system receivership
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31653&aId=157012&caId=23279&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31653&aId=157012&caId=23279&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31653&aId=157012&caId=23279&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31653&aId=157012&caId=23279&tId=4)
-
-#### 8 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Wes McCart - Stevens County - Commissioner
 * Mark Ozias
+* Nancy Grunewald
 
-#### 1 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * 💵Scott Hazlegrove - WA Association of Sewer and Water Districts
+* Darrel Hawes - Stevens PUD
+* 💵Liz Anderson - Washington PUD Association
+* Darrel Hawes - Stevens County PUD
 
 #### 0 ❓ - Other

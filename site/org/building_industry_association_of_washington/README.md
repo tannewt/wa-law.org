@@ -266,6 +266,8 @@
 * ❓💵 Josie Cummings
 * ❓💵 Bill Stauffacher
 
+## [SB 5770](/bill/2023-24/sb/5770/) - Property tax  👎1 
+
 ## [SB 5834](/bill/2023-24/sb/5834/) - Concerning urban growth areas. 👍1  
 * 👍💵 Jan Himebaugh
 

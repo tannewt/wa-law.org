@@ -16,6 +16,10 @@ Sign up to testify:
 
 #### 4 👍 - Pro
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* 💵Kelly Fukai - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
+* Robert (Bob) Battles - Association of Washington Business (AWB)
+* Travis Frazier - Association of National Advertisers
 
 #### 0 ❓ - Other

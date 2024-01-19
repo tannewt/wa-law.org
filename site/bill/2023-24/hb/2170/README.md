@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 01/18 04:00 PM - Appropriations (APP): HB 2170 Budget stabilization account
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31604&aId=156730&caId=23101&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31604&aId=156730&caId=23101&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31604&aId=156730&caId=23101&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31604&aId=156730&caId=23101&tId=4)
-
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * K.D. Chapman-See - Office of Financial Management
 

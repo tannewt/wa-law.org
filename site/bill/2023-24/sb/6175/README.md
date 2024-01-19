@@ -18,4 +18,6 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Steven MacDonald - [City of Spokane](/org/city_of_spokane/)

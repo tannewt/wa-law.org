@@ -14,18 +14,29 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31662&aId=156578&caId=23135&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31662&aId=156578&caId=23135&tId=4)
 
-#### 28 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * Robert Eleveld - Transparency Coalition.ai
 * Jai Jaisimha - Transparency Coalition
 * Emi Koyama - Coalition for Rights & Safety for People in the Sex Trade
 * Chirag Shah
+* Subhadra Vadlamannati - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
-#### 594 👎 - Con
+#### 676 👎 - Con
 Testifying:
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Ashley Sutton - TechNet
+* Matthew Scherer - [Center for Democracy & Technology](/org/center_for_democracy_&_technology/)
+* Maya Morales - WA People's Privacy
+* Raquel Clavette - Indivisible Whidbey
+* Tee Sannon - ACLU-WA
+* Robert (Bob) Battles - Association of Washington Business (AWB)
+* 💵Kelly Fukai - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
+* Brendan Donckers - Washington Employment Lawyers Ass'n (WELA)
+* Christina Mason - [Washington Association of Drug Courts](/org/washington_association_of_drug_courts/)
 
-#### 7 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
 * Tatiana Rice - Future of Privacy Forum
+* 💵Larry Shannon - Washington State Association for Justice

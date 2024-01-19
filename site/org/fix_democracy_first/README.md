@@ -307,6 +307,10 @@
 
 ## [SB 5856](/bill/2023-24/sb/5856/) - Concerning voter registration challenges. 👍1  
 
+## [SB 5857](/bill/2023-24/sb/5857/) - Campaign disclosure reorg. 👍1  
+
 ## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍1  
+
+## [SB 5993](/bill/2023-24/sb/5993/) - Voter education  👎1 
 
 ## [ESJM 8006](/bill/2023-24/esjm/8006/) - Universal health care 👍1  

@@ -74,7 +74,11 @@
 
 ## [SB 5880](/bill/2023-24/sb/5880/) - MRI technologists 👍1  
 
+## [SB 5983](/bill/2023-24/sb/5983/) - Allowing medical assistants with telehealth supervision to provide intramuscular injections for syphilis treatment. 👍1  
+
 ## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍1  
+
+## [SB 6095](/bill/2023-24/sb/6095/) - Secretary of health orders 👍1  
 
 ## [SB 6101](/bill/2023-24/sb/6101/) - Hospital at-home services 👍2  
 * 👍💵 Katherine Mahoney

@@ -14,12 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31630&aId=156717&caId=23091&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31630&aId=156717&caId=23091&tId=4)
 
-#### 2 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * 💵Lauren Hipp - MomsRising
+* Suzette Espinoza-Cruz - Save the Children WA
+* Sarah Clark - Seattle Metro Chamber
+* 💵Amy Anderson - [Association of Washington Business](/org/association_of_washington_business/)
+* Hilary Franz - [Department of Natural Resources](/org/department_of_natural_resources/)
+* Ryan Murphy - [Department of Natural Resources](/org/department_of_natural_resources/)
 
-#### 31 👎 - Con
+#### 59 👎 - Con
 Testifying:
 * John Worthington
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Rod Fleck - City of Forks

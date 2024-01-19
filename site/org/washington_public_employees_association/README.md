@@ -86,6 +86,9 @@
 
 ## [HB 2108](/bill/2023-24/hb/2108/) - Smokey Bear license plates 👍1  
 
+## [HB 2325](/bill/2023-24/hb/2325/) - Legislative employees   ❓1
+* ❓💵 Seamus Petrie
+
 ## [SB 5061](/bill/2023-24/sb/5061/) - Personnel records 👍1  
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  

@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31691&aId=156903&caId=23300&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31691&aId=156903&caId=23300&tId=4)
 
-#### 15 👍 - Pro
+#### 22 👍 - Pro
+Testifying:
+* Victoria Woodards - Mayor of the City of Tacoma
+* Jamika Scott - Tacoma City Councilmember
 
 #### 1 👎 - Con
 

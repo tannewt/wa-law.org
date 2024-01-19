@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Thu 01/18 08:00 AM - Regulated Substances & Gaming (RSG): HB 2260 Alcohol sale to minors/civil
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31621&aId=156940&caId=23274&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31621&aId=156940&caId=23274&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31621&aId=156940&caId=23274&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31621&aId=156940&caId=23274&tId=4)
-
 #### 5 👍 - Pro
 Testifying:
 * Marc Webster - Washington State Liquor and Cannabis Board

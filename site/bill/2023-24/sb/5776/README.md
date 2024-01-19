@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/18/2024 [Senate Democrats](/org/senate_democrats/) - [Keiser earns praise, continues fight to lower cost of insulin further - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/18/keiser-earns-praise-continues-fight-to-lower-cost-of-insulin-further/#:~:text=SB%205776)
+
 ## Meetings
 ### Thu 01/11 10:30 AM - Health & Long Term Care (HLTC): SB 5776 Insulin emergency supply
 #### 99 👍 - Pro

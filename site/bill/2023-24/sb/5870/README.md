@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Thu 01/18 01:30 PM - Early Learning & K-12 Education (EDU): SB 5870 Early learning programs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31668&aId=156624&caId=23055&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31668&aId=156624&caId=23055&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31668&aId=156624&caId=23055&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31668&aId=156624&caId=23055&tId=4)
-
-#### 154 👍 - Pro
+#### 167 👍 - Pro
 Testifying:
 * 💵Joel Ryan - Washington State Association of Head Start & ECEAP
 * 💵Claire Lane - Anti-Hunger & Nutrition Coalition
@@ -31,6 +25,9 @@ Testifying:
 * Kathy Carmen
 * Mary Curry - YES for Early Success
 * 💵Yessenia Rivera - FMS Global Strategies
+* Mary Curry - YES for Early Success
+* Trenise Rogers - Linked Arms
+* 💵Yessenia Rivera - WBBA
 
 #### 0 👎 - Con
 

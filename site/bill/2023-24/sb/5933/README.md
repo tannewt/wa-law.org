@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Thu 01/18 01:30 PM - Early Learning & K-12 Education (EDU): SB 5933 Infants and toddlers program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31668&aId=156625&caId=23056&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31668&aId=156625&caId=23056&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31668&aId=156625&caId=23056&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31668&aId=156625&caId=23056&tId=4)
-
-#### 153 👍 - Pro
+#### 188 👍 - Pro
 Testifying:
 * Colleen Fuchs - Joya Child & Family Development
 * Gloria Wang Shawber - ESIT Parent
@@ -26,6 +20,6 @@ Testifying:
 * Stephanie Budrus - Dept of Children, Youth, and Families
 * Magan Cromar - King County Developmental Disabilities and Early Childhood Supports Division
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

@@ -17,7 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31741&aId=157504&caId=23414&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31741&aId=157504&caId=23414&tId=4)
 
-#### 0 👍 - Pro
+#### 36 👍 - Pro
+Testifying:
+* Cathy Murahashi - The Arc of Washington
+* Marc Cote - Parkview Services
+* Scott Livengood - Alpha Supported Living
 
 #### 0 👎 - Con
 

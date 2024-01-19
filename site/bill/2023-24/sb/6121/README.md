@@ -14,15 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31681&aId=156876&caId=23078&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31681&aId=156876&caId=23078&tId=4)
 
-#### 159 👍 - Pro
+#### 235 👍 - Pro
 Testifying:
 * Kelpie Wilson - Wilson Biochar, LLC.
 * Jake Dailey - U.S. Rake Force
 * Jill Silver - 10,000 Years Institute
 * Tony Craven
 * Kathryn Alexander
+* 💵Jason Callahan - Green Diamond Resource Company
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 3 ❓ - Other
 Testifying:

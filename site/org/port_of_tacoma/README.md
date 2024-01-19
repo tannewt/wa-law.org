@@ -24,4 +24,4 @@
 
 ## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
 
-## [SB 5840](/bill/2023-24/sb/5840/) - Concerning leases. 👍1  
+## [SB 5840](/bill/2023-24/sb/5840/) - Leases 👍1  

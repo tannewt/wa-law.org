@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31629&aId=156841&caId=23083&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31629&aId=156841&caId=23083&tId=4)
 
-#### 179 👍 - Pro
+#### 183 👍 - Pro
 Testifying:
 * Georgia Spiropoulos - Equiscript
 * Tiffani McCoy - House Our Neighbors
+* Waldo Waldron-Ramsey - [Washington Community Action Network](/org/washington_community_action_network/)
 
-#### 123 👎 - Con
+#### 328 👎 - Con
+Testifying:
+* Merridith Back
 
 #### 0 ❓ - Other

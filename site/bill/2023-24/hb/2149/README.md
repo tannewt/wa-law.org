@@ -16,8 +16,12 @@ Sign up to testify:
 
 #### 1 👍 - Pro
 
-#### 38 👎 - Con
+#### 42 👎 - Con
+Testifying:
+* 💵Kelly Fukai - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
+* Robert (Bob) Battles - Association of Washington Business (AWB)
+* Kevin Underwood - Washington Collectors Assn
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)

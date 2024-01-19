@@ -398,6 +398,9 @@
 ## [SB 5901](/bill/2023-24/sb/5901/) - Concerning co-living housing.   ❓1
 * ❓💵 Paul Jewell
 
+## [SB 6013](/bill/2023-24/sb/6013/) - Homeownership dev. tax ex.  👎1 
+* 👎💵 Paul Jewell
+
 ## [SB 6015](/bill/2023-24/sb/6015/) - Residential parking   ❓1
 * ❓💵 Paul Jewell
 
@@ -408,5 +411,8 @@
 
 ## [SB 6120](/bill/2023-24/sb/6120/) - Wildland urban interface 👍1  
 * 👍💵 Paul Jewell
+
+## [SB 6140](/bill/2023-24/sb/6140/) - Intensive rural development 👍1  
+* 👍💵 Travis Dutton
 
 ## [SB 6206](/bill/2023-24/sb/6206/) - Water system receivership 👍1  

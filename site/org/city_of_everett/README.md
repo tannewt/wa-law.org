@@ -8,7 +8,7 @@
 
 ## [HB 1446](/bill/2023-24/hb/1446/) - Law enf. officers/increase 👍1  
 
-## [HB 1892](/bill/2023-24/hb/1892/) - Concerning the workforce housing accelerator program. 👍1  
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍1  
 
 ## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍1  
 
@@ -32,5 +32,6 @@
 
 ## [SB 5672](/bill/2023-24/sb/5672/) - Auto theft authority account 👍1  
 
-## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
+## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍3  
 * 👍 Ben Zarlingo
+* 👍 Dan Templeman

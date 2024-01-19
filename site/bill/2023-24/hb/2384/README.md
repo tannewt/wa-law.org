@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 01/18 04:00 PM - Transportation (TR): HB 2384 Traffic safety cameras
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31618&aId=156991&caId=23281&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31618&aId=156991&caId=23281&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31618&aId=156991&caId=23281&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31618&aId=156991&caId=23281&tId=4)
-
-#### 12 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Debbie Driver - Office of Governor Jay Inslee
 * Mark McKechnie - Washington Traffic Safety Commission
@@ -22,8 +16,10 @@ Testifying:
 * Rob Karlinsey - City Manager, City of Kenmore
 * 💵Axel Swanson - Washington State Association of County Engineers
 * Tim Burgess - [City of Seattle](/org/city_of_seattle/)
+* David Jones - Cooper Jones ATSAC
+* Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 4 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * David Sedelmeier
 

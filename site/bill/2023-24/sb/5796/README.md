@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Thu 01/18 08:00 AM - Law & Justice (LAW): SB 5796 Common interest communities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31588&aId=156184&caId=23039&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31588&aId=156184&caId=23039&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31588&aId=156184&caId=23039&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31588&aId=156184&caId=23039&tId=4)
-
 #### 5 👍 - Pro
 Testifying:
 * Steve Horvath - HOA United
@@ -22,14 +16,15 @@ Testifying:
 * Nathan Luce
 * Theresa Torgesen
 
-#### 5 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Phil Landesberg
 * Janet Landesberg
 * Natalie Whitcomb
 * Patrick Johansen - RiseUpWA
+* Annette Fitzsimmons - Washington State Bar Assoc Real Property Section
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Bea Nahon
 * Steve Brilling

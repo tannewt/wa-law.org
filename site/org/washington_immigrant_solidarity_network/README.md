@@ -3,7 +3,13 @@
 ## [HB 1095](/bill/2023-24/hb/1095/) - Wage replacement 👍2  
 * 👍 Luis Amado
 
+## [HB 1228](/bill/2023-24/hb/1228/) - Dual & tribal language edu. 👍1  
+
 ## [HB 1889](/bill/2023-24/hb/1889/) - Allowing persons to receive professional licenses and certifications regardless of immigration or citizenship status. 👍1  
+
+## [HB 2309](/bill/2023-24/hb/2309/) - Washington 13 free guarantee 👍1  
+
+## [HB 2374](/bill/2023-24/hb/2374/) - Washington promise program 👍1  
 
 ## [SB 5109](/bill/2023-24/sb/5109/) - Wage replacement 👍1  
 

@@ -172,3 +172,5 @@
 ## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  
 
 ## [SB 6013](/bill/2023-24/sb/6013/) - Homeownership dev. tax ex. 👍1  
+
+## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍1  

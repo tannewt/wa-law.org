@@ -6,15 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/18/2024 [Senate Democrats](/org/senate_democrats/) - [Nobles bill would establish collective bargaining rights for student employees - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/18/nobles-bill-would-establish-collective-bargaining-rights-for-student-employees/#:~:text=Senate%20Bill%205895)
+
 ## Meetings
 ### Thu 01/18 08:00 AM - Labor & Commerce (LC): SB 5895 Academic employee bargaining
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31643&aId=156872&caId=23044&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31643&aId=156872&caId=23044&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31643&aId=156872&caId=23044&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31643&aId=156872&caId=23044&tId=4)
-
-#### 378 👍 - Pro
+#### 402 👍 - Pro
 Testifying:
 * Ethan Martez - Lark Bellingham
 * Bill Lyne - United Faculty of Washington State
@@ -22,6 +19,9 @@ Testifying:
 * 💵Emily Myers - UAW
 * Kaylee Thomas - WAWU-UAW
 * Olene Togiailua - Working Wildcats - UAW
+* 💵Nora Selander - Western Washington University
+* Juniper Campbell - Geoduck Student Union of The Evergreen State College
+* Stella Seth - Legislative Liaison, Associated Students, Western Washington University
 
 #### 1 👎 - Con
 

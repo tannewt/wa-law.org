@@ -11,3 +11,6 @@
 ## [SB 5551](/bill/2023-24/sb/5551/) - Methane capture 👍1  
 
 ## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD 👍1  
+
+## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management 👍1  
+* 👍 Jay Blazey

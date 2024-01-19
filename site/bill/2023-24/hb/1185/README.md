@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Thu 01/18 08:00 AM - Environment & Energy (ENVI): SHB 1185 Lighting products
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31612&aId=156387&caId=23154&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31612&aId=156387&caId=23154&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31612&aId=156387&caId=23154&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31612&aId=156387&caId=23154&tId=4)
-
-#### 283 👍 - Pro
+#### 288 👍 - Pro
 Testifying:
 * Alessandra De la Torre - [Northwest Energy Coalition](/org/northwest_energy_coalition/)
 * Brian Fadie - Appliance Standards Awareness Project (ASAP)
@@ -27,16 +21,17 @@ Testifying:
 * Preston Peck - [City of Tacoma](/org/city_of_tacoma/)
 * 💵Joanna Grist - Hazardous Waste Management Program of Seattle King County
 
-#### 12 👎 - Con
+#### 19 👎 - Con
 Testifying:
 * Susanna Jones
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 
-#### 3 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Peter Lyon - Washington State Department of Ecology
 * Charlie Brown - National Electrical Manufacturers Association
 * Curt Augustine - Allinace for Automotive Innovation
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 ### Mon 01/23 01:30 PM - Environment & Energy (ENVI): HB 1185 Lighting products
 #### 238 👍 - Pro

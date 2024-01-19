@@ -17,18 +17,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31662&aId=156577&caId=23134&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31662&aId=156577&caId=23134&tId=4)
 
-#### 28 👍 - Pro
+#### 37 👍 - Pro
 Testifying:
 * Joyce Bruce - Attorney General's Office
 * Robert Eleveld - Yes, - Transparency Coalition.ai, a 501c4 non-profit
 * Jai Jaisimha - Transparency Coalition.ai
 * 💵Tathagata Pal - Legislative Liaison, Graduate and Professional Student Association in WSU
+* 💵Paula Sardinas - WBBA/FMSGS
+* Rosa Mai - Attorney General's Office
+* Matthew Lenz - BSA | The Software Association
 
-#### 39 👎 - Con
+#### 51 👎 - Con
 Testifying:
 * eric pratt
 
-#### 2 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * Joy Gjersvold - Conservative Ladies of Washington
+* 💵Ashley Sutton - TechNet
+* Robert (Bob) Battles - Association of Washington Business (AWB)
+* 💵Kelly Fukai - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
+* 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)

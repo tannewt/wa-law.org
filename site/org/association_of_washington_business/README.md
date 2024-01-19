@@ -78,8 +78,9 @@
 * 👍💵 Peter Godlewski
 * 👍💵 Peter Godlewski
 
-## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products  👎1 
+## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products  👎1 ❓1
 * 👎💵 Peter Godlewski
+* ❓💵 Peter Godlewski
 
 ## [HB 1191](/bill/2023-24/hb/1191/) - Cooperative finance org. B&O 👍1  
 
@@ -309,7 +310,7 @@
 ## [HB 1839](/bill/2023-24/hb/1839/) - Train length  👎1 
 * 👎 Mike Ennis
 
-## [HB 1892](/bill/2023-24/hb/1892/) - Concerning the workforce housing accelerator program. 👍1  
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍1  
 * 👍 Morgan Irwin
 
 ## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍1  
@@ -324,7 +325,7 @@
 ## [HB 1921](/bill/2023-24/hb/1921/) - Prohibiting the use of certain substances in food.  👎2 
 * 👎💵 Peter Godlewski
 
-## [HB 1924](/bill/2023-24/hb/1924/) - Promoting the integration of fusion technology within state clean energy policies. 👍1  
+## [HB 1924](/bill/2023-24/hb/1924/) - Fusion technology policies 👍1  
 
 ## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍1  
 
@@ -340,6 +341,9 @@
 
 ## [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍1  
 * 👍💵 Amy Anderson
+
+## [HB 2026](/bill/2023-24/hb/2026/) - Concerning rental income received by people eligible for certain property tax exemption programs. 👍1  
+* 👍 Morgan Irwin
 
 ## [HB 2039](/bill/2023-24/hb/2039/) - Modifying the appeals process for environmental and land use matters. 👍1  
 * 👍💵 Peter Godlewski
@@ -382,6 +386,9 @@
 
 ## [HB 2176](/bill/2023-24/hb/2176/) - Preventive dental care 👍1  
 
+## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities   ❓1
+* ❓💵 Amy Anderson
+
 ## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage   ❓1
 * ❓💵 Peter Godlewski
 
@@ -390,13 +397,17 @@
 ## [HB 2236](/bill/2023-24/hb/2236/) - Tech. ed. core plus programs   ❓1
 * ❓💵 Emily Wittman
 
+## [HB 2243](/bill/2023-24/hb/2243/) - Social equity land trust 👍1  
+* 👍💵 Amy Anderson
+
 ## [HB 2253](/bill/2023-24/hb/2253/) - Community solar  👎1 
 * 👎💵 Peter Godlewski
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes  👎1 
 * 👎💵 Emily Shay
 
-## [HB 2360](/bill/2023-24/hb/2360/) - Digital workforce 👍1  
+## [HB 2360](/bill/2023-24/hb/2360/) - Digital workforce 👍2  
+* 👍💵 Emily Wittman
 * 👍💵 Emily Wittman
 
 ## [SB 5041](/bill/2023-24/sb/5041/) - Motor carrier safety 👍1  
@@ -665,3 +676,6 @@
 * 👎💵 Peter Godlewski
 
 ## [SB 6136](/bill/2023-24/sb/6136/) - Rental property B&O tax  👎1 
+
+## [SB 6168](/bill/2023-24/sb/6168/) - International leadership 👍1  
+* 👍💵 Amy Anderson

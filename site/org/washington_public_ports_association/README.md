@@ -115,7 +115,7 @@
 
 ## [HB 1870](/bill/2023-24/hb/1870/) - Promoting economic development by increasing opportunities for local communities to secure federal funding. 👍1  
 
-## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍1  
+## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍2  
 
 ## [HB 1906](/bill/2023-24/hb/1906/) - Changing the vessel length requirement in obtaining nonresident vessel permits. 👍1  
 
@@ -131,7 +131,7 @@
 
 ## [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍1  
 
-## [HB 2020](/bill/2023-24/hb/2020/) - Creating a state administered public infrastructure assistance program within the emergency management division.   ❓1
+## [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg   ❓1
 * ❓ Chris Herman
 
 ## [HB 2039](/bill/2023-24/hb/2039/) - Modifying the appeals process for environmental and land use matters. 👍1  
@@ -215,6 +215,9 @@
 ## [SB 5482](/bill/2023-24/sb/5482/) - Margin tax  👎1 
 * 👎 Chris Herman
 
+## [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra. 👍1  
+* 👍 Chris Herman
+
 ## [SB 5539](/bill/2023-24/sb/5539/) - Tax increment financing 👍1  
 * 👍 Eric ffitch
 
@@ -229,6 +232,8 @@
 
 ## [SB 5726](/bill/2023-24/sb/5726/) - Prevailing wage/public works   ❓1
 
+## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
+
 ## [SB 5817](/bill/2023-24/sb/5817/) - Economic development info. 👍1  
 
 ## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp.   ❓1
@@ -242,6 +247,8 @@
 
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply   ❓1
 * ❓💵 Carly Michiels
+
+## [SB 6168](/bill/2023-24/sb/6168/) - International leadership 👍1  
 
 ## [SJM 8009](/bill/2023-24/sjm/8009/) - Harbor maintenance tax 👍1  
 * 👍 Chris Herman

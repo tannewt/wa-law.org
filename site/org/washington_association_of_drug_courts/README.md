@@ -1,5 +1,8 @@
 # Washington Association of Drug Courts
 
+## [HB 1951](/bill/2023-24/hb/1951/) - Algorithmic discrimination  👎1 
+* 👎 Christina Mason
+
 ## [HB 1983](/bill/2023-24/hb/1983/) - Criminal justice trtmnt acct 👍1  
 * 👍 Alison McPeek
 

@@ -44,3 +44,5 @@
 ## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations 👍1  
 
 ## [SB 5523](/bill/2023-24/sb/5523/) - Forensic pathologists 👍3  
+
+## [SB 6144](/bill/2023-24/sb/6144/) - Prescribing psychologists  👎1 

@@ -23,5 +23,5 @@
 * 👍 Alexandra Narvaez
 * 👍 Alexandra Narvaez
 
-## [SB 5908](/bill/2023-24/sb/5908/) - Providing extended foster care services to youth ages 18 to 21. 👍1  
+## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍1  
 * 👍 S. Annie Chung

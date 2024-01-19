@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157498&caId=23367&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157498&caId=23367&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* 💵John Scott - [The Pew Charitable Trusts](/org/the_pew_charitable_trusts/)
 
 #### 0 👎 - Con
 

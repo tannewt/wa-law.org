@@ -32,6 +32,8 @@
 ## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes. 👍1  
 * 👍 Marlene Feist
 
+## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
+
 ## [SB 5058](/bill/2023-24/sb/5058/) - Multiunit res. buildings 👍1  
 * 👍 Council member Betsy Wilkerson
 
@@ -49,3 +51,6 @@
 * 👍 Council President Breean Beggs
 
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍1  
+
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing   ❓1
+* ❓ Steven MacDonald

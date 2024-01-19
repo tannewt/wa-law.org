@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 01/18 08:00 AM - Human Services (HS): SB 6126 Respite care
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31615&aId=156879&caId=23048&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31615&aId=156879&caId=23048&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31615&aId=156879&caId=23048&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31615&aId=156879&caId=23048&tId=4)
-
-#### 104 👍 - Pro
+#### 107 👍 - Pro
 Testifying:
 * 💵Adrienne Stuart
 * Moses Perez - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
@@ -25,6 +19,7 @@ Testifying:
 * Kelley Nesbitt
 * Ryan Nesbitt
 * Adana Protonentis - Kindred
+* Lelach Rave - WCAAP
 
 #### 0 👎 - Con
 

@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Thu 01/18 08:00 AM - Education (ED): HB 1956 Substance use prevention ed.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31656&aId=156548&caId=23147&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31656&aId=156548&caId=23147&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31656&aId=156548&caId=23147&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31656&aId=156548&caId=23147&tId=4)
-
-#### 183 👍 - Pro
+#### 190 👍 - Pro
 Testifying:
 * James Lewis - Snohomish County - Health Officer
 * Maria Petty
@@ -39,4 +33,4 @@ Testifying:
 Testifying:
 * John Worthington - AAMC
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

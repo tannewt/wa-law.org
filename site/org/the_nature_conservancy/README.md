@@ -158,6 +158,8 @@
 
 ## [SB 5846](/bill/2023-24/sb/5846/) - Beaver ecosystem management 👍1  
 
+## [SB 5946](/bill/2023-24/sb/5946/) - Fallen firefighter memorial 👍1  
+
 ## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  
 * 👍 Scott Richards
 

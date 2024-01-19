@@ -11,12 +11,6 @@
 
 ## Meetings
 ### Thu 01/18 08:00 AM - Labor & Commerce (LC): SB 6194 Legislative employees
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31643&aId=156878&caId=23045&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31643&aId=156878&caId=23045&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31643&aId=156878&caId=23045&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31643&aId=156878&caId=23045&tId=4)
-
 #### 4 👍 - Pro
 Testifying:
 * Sarah Tucker
@@ -24,7 +18,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 14 ❓ - Other
+#### 16 ❓ - Other
 Testifying:
 * Abbie Hart
 * Joe Kendo - Washington State Labor Council, AFL-CIO

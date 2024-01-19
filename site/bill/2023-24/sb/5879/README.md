@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/18/2024 [FOX13](/org/fox13/) - [Advocates want to know why local lawmakers won’t consider unlocking federal dollars available to train judges](https://www.fox13seattle.com/news/advocates-want-to-know-why-local-lawmakers-wont-consider-unlocking-federal-dollars-available-to-train-judges#:~:text=SB%205879)
+
 ## Meetings

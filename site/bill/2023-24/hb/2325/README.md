@@ -14,14 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31665&aId=156877&caId=23207&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31665&aId=156877&caId=23207&tId=4)
 
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Sarah Tucker
 * 💵Daniel Lugo
+* Kendra Coburn
 
 #### 0 👎 - Con
 
-#### 12 ❓ - Other
+#### 18 ❓ - Other
 Testifying:
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Joe Kendo - Washington State Labor Council, AFL-CIO
+* 💵Seamus Petrie - [Washington Public Employees Association](/org/washington_public_employees_association/)

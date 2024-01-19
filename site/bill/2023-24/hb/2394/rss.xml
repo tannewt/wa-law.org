@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2394/</link>
 		<description>Updates about HB 2394</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 16 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jan 2024 11:07:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,22 @@
 			<pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-16/First reading, referred to Local Government.</guid>
+		</item>
+		<item>
+			<title>👍Lee Lambert - Washington Bikes</title>
+			<description>Lee Lambert signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_bikes/&quot;&gt;Washington Bikes&lt;/a&gt;.</description>
+			<pubDate>Thu, 18 Jan 2024 11:01:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lee/Lambert/2024-01-18 11:01:31</guid>
+		</item>
+		<item>
+			<title>👍Katherine Hollis - Eastrail Partners</title>
+			<description>Katherine Hollis signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/eastrail_partners/&quot;&gt;Eastrail Partners&lt;/a&gt;.</description>
+			<pubDate>Thu, 18 Jan 2024 11:07:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Katherine/Hollis/2024-01-18 11:07:47</guid>
 		</item>
 	</channel>
 </rss>

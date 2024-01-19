@@ -35,6 +35,13 @@
 
 ## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
 
+## [HB 2250](/bill/2023-24/hb/2250/) - Local elections 👍2  
+* 👍💵 Jazmine Smith
+
+## [HB 2309](/bill/2023-24/hb/2309/) - Washington 13 free guarantee 👍1  
+
+## [HB 2374](/bill/2023-24/hb/2374/) - Washington promise program 👍1  
+
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍2  
 * 👍💵 Jazmine Smith
 

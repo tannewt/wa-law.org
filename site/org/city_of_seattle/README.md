@@ -167,9 +167,12 @@
 
 ## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍1  
 
+## [HB 2012](/bill/2023-24/hb/2012/) - Concerning eligibility for a property tax exemption for nonprofits providing affordable rental housing built with city and county funds. 👍1  
+* 👍 Kelli Larsen
+
 ## [HB 2019](/bill/2023-24/hb/2019/) - Establishing a Native American apprentice assistance program. 👍1  
 
-## [HB 2020](/bill/2023-24/hb/2020/) - Creating a state administered public infrastructure assistance program within the emergency management division. 👍1  
+## [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg 👍1  
 
 ## [HB 2021](/bill/2023-24/hb/2021/) - Concerning the disposition of privately owned firearms in the custody of state or local government entities or law enforcement agencies. 👍1  
 

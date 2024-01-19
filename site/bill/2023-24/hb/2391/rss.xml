@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2391/</link>
 		<description>Updates about HB 2391</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 16 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jan 2024 03:21:42 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,22 @@
 			<pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-16/First reading, referred to Local Government.</guid>
+		</item>
+		<item>
+			<title>👍Jani Hitchen - Pierce County Council</title>
+			<description>Jani Hitchen signed up to testify Pro. They are signed up to represent Pierce County Council.</description>
+			<pubDate>Thu, 18 Jan 2024 03:21:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jani/Hitchen/2024-01-18 03:21:42</guid>
+		</item>
+		<item>
+			<title>👍Jen Tetatzin - Pierce County</title>
+			<description>Jen Tetatzin signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/pierce_county/&quot;&gt;Pierce County&lt;/a&gt;.</description>
+			<pubDate>Thu, 18 Jan 2024 03:21:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jen/Tetatzin/2024-01-18 03:21:42</guid>
 		</item>
 	</channel>
 </rss>

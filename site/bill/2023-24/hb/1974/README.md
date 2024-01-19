@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31753&aId=157244&caId=23509&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31753&aId=157244&caId=23509&tId=4)
 
-#### 0 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Robert Goff - Washington State Funeral Director Association
 
 #### 0 👎 - Con
 

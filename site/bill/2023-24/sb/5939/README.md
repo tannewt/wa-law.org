@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 01/18 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5939 Livestock wolf predation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31683&aId=156815&caId=23061&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31683&aId=156815&caId=23061&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31683&aId=156815&caId=23061&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31683&aId=156815&caId=23061&tId=4)
-
-#### 222 👍 - Pro
+#### 348 👍 - Pro
 Testifying:
 * Schatzie Harvey
 * Jeff Flood - Stevens County Sheriff Department
@@ -23,8 +17,9 @@ Testifying:
 * Kathy McKay - K Diamond K Guest Ranch / Washington Farm Bureau
 * Jeff Dawson - Livestock Producer
 * Sam Orozco
+* Travis Todd
 
-#### 578 👎 - Con
+#### 621 👎 - Con
 Testifying:
 * David Linn - None
 * John Rosapepe - Endangered Species Coalition
@@ -32,7 +27,13 @@ Testifying:
 * Lloyd Lytle
 * 💵Kathleen Callaghy - [Defenders of Wildlife](/org/defenders_of_wildlife/)
 * PHD, Susan D Kane-Ronning - Washington Sierra Club Wildlife Committee
+* Amy Porter - [Wolf Haven International](/org/wolf_haven_international/)
+* Dan Paul - [Humane Society of the United States](/org/humane_society_of_the_united_states/)
+* 💵Paula Swedeen - [Conservation Northwest](/org/conservation_northwest/)
+* Adrian Treves - Carnivore Coexistence Lab
+* Claire Davis - [Washington Wildlife First](/org/washington_wildlife_first/)
+* 💵Kathleen Callaghy - [Defenders of Wildlife](/org/defenders_of_wildlife/)
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Julia Smith - WDFW

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
 * 02/16/2023 [The Center Square](/org/the_center_square/) - [Bill would spotlight assaults on Washington police | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d9c2bace-ae3c-11ed-94d1-27574509ec6f.html#:~:text=SB%205299)

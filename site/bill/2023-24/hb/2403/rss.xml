@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2403/</link>
 		<description>Updates about HB 2403</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 16 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jan 2024 01:58:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,21 @@
 			<pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-16/First reading, referred to Local Government.</guid>
+		</item>
+		<item>
+			<title>After 2 fires at dog daycare businesses, proposed bill aims to increase pet safety at kennels | king5.com</title>
+			<description>News article &quot;After 2 fires at dog daycare businesses, proposed bill aims to increase pet safety at kennels | king5.com&quot; from KING5.</description>
+			<pubDate>Wed, 17 Jan 2024 23:24:44 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.king5.com/article/news/local/seattle-dog-daycares-proposed-bill-increase-pet-safety/281-fea6c495-c18c-4a42-a13b-cf0705dcff00#:~:text=House%20Bill%202403</guid>
+		</item>
+		<item>
+			<title>👍Allison Scarborough - Eastrail Partners</title>
+			<description>Allison Scarborough signed up to testify Pro.</description>
+			<pubDate>Thu, 18 Jan 2024 01:58:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Allison/Scarborough/2024-01-18 01:58:16</guid>
 		</item>
 	</channel>
 </rss>

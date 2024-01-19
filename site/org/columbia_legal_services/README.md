@@ -233,7 +233,7 @@
 
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍1  
 
-## [SB 5974](/bill/2023-24/sb/5974/) - Concerning the disposition of unenforceable legal financial obligations other than restitution imposed by a court or an agent of the court against a juvenile prior to July 1, 2023. 👍1  
+## [SB 5974](/bill/2023-24/sb/5974/) - Unenforceable LFOs 👍1  
 
 ## [SB 5981](/bill/2023-24/sb/5981/) - Concerning the indeterminate sentence review board. 👍1  
 

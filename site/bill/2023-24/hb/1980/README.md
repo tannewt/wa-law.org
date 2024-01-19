@@ -16,6 +16,8 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Patrick McElligott - IAFF Local 31- Tacoma Firefighters
 
 #### 0 ❓ - Other

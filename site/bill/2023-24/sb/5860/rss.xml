@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5860/</link>
 		<description>Updates about SB 5860</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 15 Jan 2024 08:51:10 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -68,6 +68,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Tyler/Humphrey/2024-01-15 08:51:10</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-18/Minority; do not pass.</guid>
 		</item>
 	</channel>
 </rss>

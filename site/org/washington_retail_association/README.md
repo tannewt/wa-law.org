@@ -188,6 +188,9 @@
 ## [HB 2231](/bill/2023-24/hb/2231/) - Law enforcement funding 👍1  
 * 👍💵 Mark Johnson
 
+## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management   ❓1
+* ❓ Rose GUNDERSEN
+
 ## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment 👍1  
 
 ## [SB 5035](/bill/2023-24/sb/5035/) - Controlled sub. possession 👍1  
@@ -356,3 +359,6 @@
 ## [SB 6112](/bill/2023-24/sb/6112/) - Donated food items/B&O tax 👍2  
 * 👍💵 Mark Johnson
 * 👍💵 Mark Johnson
+
+## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management   ❓1
+* ❓ Rose GUNDERSEN

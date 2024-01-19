@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Thu 01/18 08:00 AM - Human Services (HS): SB 6109 Children and families
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31615&aId=156530&caId=23047&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31615&aId=156530&caId=23047&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31615&aId=156530&caId=23047&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31615&aId=156530&caId=23047&tId=4)
-
 #### 11 👍 - Pro
 Testifying:
 * Georgia Spiropoulos - Equiscript
@@ -24,7 +18,7 @@ Testifying:
 * Lori Vanderburg - Dawson Place Child Advocacy Center (CAC)
 * Jeanette Obelcz - WFSE Member
 
-#### 22 👎 - Con
+#### 29 👎 - Con
 Testifying:
 * Melissa Moore - Drug Policy Alliance
 * Everett Maroon - Blue Mountain Heart to Heart
@@ -32,7 +26,7 @@ Testifying:
 * Jacob D'Annunzio - WA State Office of Public Defense
 * Carra Wetzel Chubb - Harm Reduction Doula Collective
 
-#### 21 ❓ - Other
+#### 22 ❓ - Other
 Testifying:
 * 💵Giovanni Severino - Latino Community Fund
 * Tara Urs - King County Department of Public Defense

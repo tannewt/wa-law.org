@@ -17,8 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31747&aId=157226&caId=23529&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31747&aId=157226&caId=23529&tId=4)
 
-#### 3 👍 - Pro
+#### 247 👍 - Pro
+Testifying:
+* Cindy Madigan - League of Women Voters of Washington
+* 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
 
-#### 1 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Cemal Richards
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

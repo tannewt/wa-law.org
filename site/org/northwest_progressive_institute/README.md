@@ -104,6 +104,9 @@
 
 ## [HB 1940](/bill/2023-24/hb/1940/) - Employer political speech 👍1  
 
+## [HB 1951](/bill/2023-24/hb/1951/) - Algorithmic discrimination 👍1  
+* 👍 Subhadra Vadlamannati
+
 ## [HB 1962](/bill/2023-24/hb/1962/) - Improving voter registration list accuracy by improving voter address change processes for county election offices and voters. 👍1  
 
 ## [HB 2023](/bill/2023-24/hb/2023/) - Improving meaningful access to elections by increasing language assistance. 👍1  

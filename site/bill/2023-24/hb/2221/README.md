@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31640&aId=156897&caId=23256&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31640&aId=156897&caId=23256&tId=4)
 
-#### 41 👍 - Pro
+#### 65 👍 - Pro
 Testifying:
 * David Poland
 * Cynthia Stewart - Hearing Loss Association - WA
@@ -27,6 +27,8 @@ Testifying:
 * Patty Liang - Deaf Spotlight
 * Earnest Covington - Washington Office of Deaf and Hard of Hearing
 * Whitney Hill
+* 💵Nora Selander - Western Washington University
+* Steve DuPont - [Central Washington University](/org/central_washington_university/)
 
 #### 0 👎 - Con
 

@@ -8,22 +8,17 @@
 
 ## Meetings
 ### Thu 01/18 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5494 Freight railroad infra.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31645&aId=156839&caId=23054&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31645&aId=156839&caId=23054&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31645&aId=156839&caId=23054&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31645&aId=156839&caId=23054&tId=4)
-
-#### 24 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * Ross Lane - Puget Sound & Pacific Railroad Company
 * Ryan Pidde - Mickelson & Company
 * Matt Hoobler - Watco -- Great Northwest Railroad / Palouse River & Coulee City Railroad
 * Adam LeMieux - [Port of Everett](/org/port_of_everett/)
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 02/02 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5494 Freight railroad infra.
 #### 39 👍 - Pro

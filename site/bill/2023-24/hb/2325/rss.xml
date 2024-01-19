@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2325/</link>
 		<description>Updates about HB 2325</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 17 Jan 2024 05:29:57 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jan 2024 09:21:07 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -46,6 +46,22 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Joe/Kendo/2024-01-17 05:29:57</guid>
+		</item>
+		<item>
+			<title>👍Kendra Coburn - Washington Sun and Craft Growers Association</title>
+			<description>Kendra Coburn signed up to testify Pro.</description>
+			<pubDate>Thu, 18 Jan 2024 08:35:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kendra/Coburn/2024-01-18 08:35:19</guid>
+		</item>
+		<item>
+			<title>❓💵Seamus Petrie - Washington Public Employees Association</title>
+			<description>Seamus Petrie signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_public_employees_association/&quot;&gt;Washington Public Employees Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Thu, 18 Jan 2024 09:21:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Seamus/Petrie/2024-01-18 09:21:07</guid>
 		</item>
 	</channel>
 </rss>

@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Thu 01/18 08:00 AM - Human Services (HS): SB 5943 Resource data tool
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31615&aId=156397&caId=23046&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31615&aId=156397&caId=23046&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31615&aId=156397&caId=23046&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31615&aId=156397&caId=23046&tId=4)
-
-#### 36 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * Aundrea Jackson - WA211 and Crisis Connections
 * TIM SULLIVAN - Washington 211
@@ -26,4 +20,6 @@ Testifying:
 
 #### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* robert wardell - self adovates

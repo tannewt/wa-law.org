@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31724&aId=157102&caId=23355&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31724&aId=157102&caId=23355&tId=4)
 
-#### 1 👍 - Pro
+#### 65 👍 - Pro
 Testifying:
 * Melissa Stuart - Redmond City Councilmember
+* Kate Bailey - The Association of Plastic Recyclers (APR)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

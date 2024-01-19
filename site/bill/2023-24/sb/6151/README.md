@@ -14,17 +14,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31648&aId=156868&caId=23074&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31648&aId=156868&caId=23074&tId=4)
 
-#### 11 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * John Doe
 * Jane Doe
+* 💵Esther Ripplinger - [Human Life of Washington](/org/human_life_of_washington/)
 
-#### 848 👎 - Con
+#### 1093 👎 - Con
 Testifying:
 * Mary Long - Conservative Ladies of Washington
 * Jonathan Clemens - ErgoCare Clinic
 * Susanna Jones
 * Jeannette Mcchesney
 * AMY MYERS
+* James Ware
+* Susanna Jones
+* Darlene Elenbaas
+* Sandra Smith
 
 #### 0 ❓ - Other

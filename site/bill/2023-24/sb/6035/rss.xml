@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6035/</link>
 		<description>Updates about SB 6035</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,13 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Higher Education &amp; Workforce Development.</guid>
+		</item>
+		<item>
+			<title>On motion, referred to Rules Committee for second reading.</title>
+			<description>On motion, referred to Rules Committee for second reading.</description>
+			<pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-18/On motion, referred to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

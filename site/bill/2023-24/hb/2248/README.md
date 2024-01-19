@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31640&aId=156898&caId=23257&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31640&aId=156898&caId=23257&tId=4)
 
-#### 15 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Shawn Sandquist
 * Serry Bauer
@@ -28,8 +28,9 @@ Testifying:
 * Michele Kauffman - no
 * Andrea Gray
 * Daniella Clark
+* Lynn A Holmes - Imaginal Network TBI Support Group
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * robert wardell - self adovates
 

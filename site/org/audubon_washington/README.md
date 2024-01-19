@@ -46,3 +46,7 @@
 ## [SB 5934](/bill/2023-24/sb/5934/) - Pollinator habitat 👍1  
 
 ## [SB 6092](/bill/2023-24/sb/6092/) - Greenhouse gas disclosures 👍1  
+
+## [SB 6113](/bill/2023-24/sb/6113/) - Community solar 👍1  
+
+## [SB 6237](/bill/2023-24/sb/6237/) - Wildlife safe passages 👍1  

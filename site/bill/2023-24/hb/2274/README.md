@@ -8,9 +8,10 @@
 
 ## Meetings
 ### Wed 01/17 01:30 PM - Consumer Protection & Business (CPB): HB 2274 Solicited real estate
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Riley Benge - Washington REALTORS
+* 💵Tony Sermonti
 
 #### 0 👎 - Con
 

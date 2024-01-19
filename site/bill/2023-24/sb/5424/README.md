@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 01/18/2024 [KIRO7](/org/kiro7/) - [State bill that would allow flexible work schedule for police officers passes senate – KIRO 7 News Seattle](https://www.kiro7.com/news/local/state-bill-that-would-allow-flexible-work-schedule-police-officers-passes-senate/KSLPOEZJ6NEL7NRUXJ6K6GXX3Y/#:~:text=SB%205424)
+
 ## Meetings
 ### Mon 03/13 01:30 PM - Community Safety, Justice, & Reentry (CSJR): SSB 5424 Flexible work/peace officers
 #### 14 👍 - Pro

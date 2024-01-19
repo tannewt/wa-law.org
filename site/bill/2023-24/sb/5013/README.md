@@ -10,6 +10,19 @@
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Other Topics](https://crosscut.com/voter-guide/2023-legislative-tracker/election/other-topics#:~:text=Senate%20Bill%205013)
 
 ## Meetings
+### Thu 01/25 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5013 Wine/alcohol tax exemption
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31728&aId=157578&caId=23569&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31728&aId=157578&caId=23569&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31728&aId=157578&caId=23569&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31728&aId=157578&caId=23569&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/19 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5013 Wine/alcohol tax exemption
 #### 14 👍 - Pro
 Testifying:

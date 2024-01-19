@@ -45,3 +45,6 @@
 
 ## [SB 5846](/bill/2023-24/sb/5846/) - Beaver ecosystem management 👍1  
 * 👍 Nadine Nadow
+
+## [SB 5939](/bill/2023-24/sb/5939/) - Livestock wolf predation  👎1 
+* 👎💵 Paula Swedeen

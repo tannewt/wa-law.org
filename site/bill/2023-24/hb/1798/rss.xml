@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1798/</link>
 		<description>Updates about HB 1798</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 12:42:24 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -181,6 +181,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Yen/Huynh/2024-01-08 12:42:24</guid>
+		</item>
+		<item>
+			<title>CSJR - Executive action taken by committee.</title>
+			<description>CSJR - Executive action taken by committee.</description>
+			<pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-18/CSJR - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

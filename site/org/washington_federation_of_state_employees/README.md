@@ -43,15 +43,18 @@
 
 ## [HB 1873](/bill/2023-24/hb/1873/) - Concerning office of public defense social service workers for parents in child welfare cases.  👎1 
 
-## [HB 1892](/bill/2023-24/hb/1892/) - Concerning the workforce housing accelerator program. 👍1  
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍1  
 
 ## [HB 1893](/bill/2023-24/hb/1893/) - Unemp ins/strikes & lockouts 👍1  
 
 ## [HB 1927](/bill/2023-24/hb/1927/) - Reducing the number of days that a worker's temporary total disability must continue to receive industrial insurance compensation for the day of an injury and the three-day period following the injury. 👍1  
 
+## [HB 1934](/bill/2023-24/hb/1934/) - AI task force   ❓1
+* ❓💵 Nicole Gomez
+
 ## [HB 1970](/bill/2023-24/hb/1970/) - DCYF-caregiver communication  👎1 
 
-## [HB 2020](/bill/2023-24/hb/2020/) - Creating a state administered public infrastructure assistance program within the emergency management division. 👍1  
+## [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg 👍1  
 
 ## [HB 2022](/bill/2023-24/hb/2022/) - Concerning construction crane safety. 👍1  
 

@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31630&aId=156999&caId=23286&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31630&aId=156999&caId=23286&tId=4)
 
-#### 26 👍 - Pro
+#### 29 👍 - Pro
 
-#### 3 👎 - Con
+#### 26 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Stephanie Harrington - College of the Environment - University of Washington

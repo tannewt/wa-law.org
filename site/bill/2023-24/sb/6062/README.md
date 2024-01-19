@@ -8,14 +8,13 @@
 
 ## Meetings
 ### Thu 01/18 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 6062 DNR trust asset leasing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31683&aId=156816&caId=23062&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31683&aId=156816&caId=23062&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31683&aId=156816&caId=23062&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31683&aId=156816&caId=23062&tId=4)
+#### 15 👍 - Pro
+Testifying:
+* Christina Frantz - [Department of Natural Resources](/org/department_of_natural_resources/)
+* Duane Emmons - [Department of Natural Resources](/org/department_of_natural_resources/)
 
-#### 12 👍 - Pro
+#### 1 👎 - Con
 
-#### 0 👎 - Con
-
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Dawn Vyvyan - Yakama Nation

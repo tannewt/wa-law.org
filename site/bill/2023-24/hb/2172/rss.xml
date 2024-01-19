@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2172/</link>
 		<description>Updates about HB 2172</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 16 Jan 2024 12:23:36 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -92,6 +92,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Michael/Wilson/2024-01-16 12:23:36</guid>
+		</item>
+		<item>
+			<title>HOUS - Executive action taken by committee.</title>
+			<description>HOUS - Executive action taken by committee.</description>
+			<pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-18/HOUS - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

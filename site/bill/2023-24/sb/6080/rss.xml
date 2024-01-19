@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6080/</link>
 		<description>Updates about SB 6080</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 15 Jan 2024 10:02:36 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,6 +30,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Ian/Doyle/2024-01-15 10:02:36</guid>
+		</item>
+		<item>
+			<title>And refer to Ways &amp; Means.</title>
+			<description>And refer to Ways &amp; Means.</description>
+			<pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-18/And refer to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

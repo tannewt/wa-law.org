@@ -47,6 +47,9 @@
 
 ## [HB 2188](/bill/2023-24/hb/2188/) - Health subsidy/retirees 👍1  
 
+## [HB 2361](/bill/2023-24/hb/2361/) - Standardized health plans 👍1  
+* 👍💵 Emily Brice
+
 ## [SB 5169](/bill/2023-24/sb/5169/) - Medicare/health care plans 👍1  
 
 ## [SB 5183](/bill/2023-24/sb/5183/) - Personal needs allowance 👍1  

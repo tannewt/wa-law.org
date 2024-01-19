@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2037/</link>
 		<description>Updates about HB 2037</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jan 2024 12:25:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,54 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Education.</guid>
+		</item>
+		<item>
+			<title>👎Naveed Siddiqui - Expressive Rights Alliance</title>
+			<description>Naveed Siddiqui signed up to testify Con.</description>
+			<pubDate>Thu, 18 Jan 2024 04:16:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Naveed/Siddiqui/2024-01-18 04:16:33</guid>
+		</item>
+		<item>
+			<title>👎Ala Hassan - Expressive Rights Alliance</title>
+			<description>Ala Hassan signed up to testify Con.</description>
+			<pubDate>Thu, 18 Jan 2024 05:22:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Ala/Hassan/2024-01-18 05:22:10</guid>
+		</item>
+		<item>
+			<title>❓Luay Joudeh - Washington Ethnic Studies Now</title>
+			<description>Luay Joudeh signed up to testify Other.</description>
+			<pubDate>Thu, 18 Jan 2024 09:34:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Luay/Joudeh/2024-01-18 09:34:25</guid>
+		</item>
+		<item>
+			<title>❓Luay Joudeh - Washington Ethnic Studies Now</title>
+			<description>Luay Joudeh signed up to testify Other.</description>
+			<pubDate>Thu, 18 Jan 2024 10:12:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Luay/Joudeh/2024-01-18 10:12:43</guid>
+		</item>
+		<item>
+			<title>👎Leslie Maxwell - Expressive Rights Alliance</title>
+			<description>Leslie Maxwell signed up to testify Con.</description>
+			<pubDate>Thu, 18 Jan 2024 11:10:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Leslie/Maxwell/2024-01-18 11:10:15</guid>
+		</item>
+		<item>
+			<title>👎Oliver Miska - Washington Ethnic Studies Now</title>
+			<description>Oliver Miska signed up to testify Con. They are signed up to represent Washington Ethnic Studies Now.</description>
+			<pubDate>Thu, 18 Jan 2024 12:25:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Oliver/Miska/2024-01-18 12:25:17</guid>
 		</item>
 	</channel>
 </rss>

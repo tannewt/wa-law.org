@@ -16,8 +16,12 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 6 👎 - Con
+#### 80 👎 - Con
 Testifying:
 * Shaun D’Sylva - Washington Smoke Free
+* Kollin Esslinger
+* Alyssa Marsh Webb
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)

@@ -81,7 +81,7 @@
 ## [HB 1893](/bill/2023-24/hb/1893/) - Unemp ins/strikes & lockouts  👎1 
 * 👎💵 Julia Gorton
 
-## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍1  
+## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍2  
 
 ## [HB 1898](/bill/2023-24/hb/1898/) - Concerning unemployment insurance benefit charging. 👍1  
 * 👍💵 Julia Gorton

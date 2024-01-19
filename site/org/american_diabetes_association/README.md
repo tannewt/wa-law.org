@@ -21,3 +21,6 @@
 
 ## [SB 5776](/bill/2023-24/sb/5776/) - Accessing an emergency supply of insulin. 👍1  
 * 👍💵 Carissa Kemp
+
+## [SB 6182](/bill/2023-24/sb/6182/) - Obesity Rx coverage 👍1  
+* 👍💵 Carissa Kemp

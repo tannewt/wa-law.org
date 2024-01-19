@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 01/18 04:00 PM - Ways & Means (WM): SB 6112 Donated food items/B&O tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31607&aId=156931&caId=23247&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31607&aId=156931&caId=23247&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31607&aId=156931&caId=23247&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31607&aId=156931&caId=23247&tId=4)
-
-#### 15 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
@@ -22,9 +16,13 @@ Testifying:
 * Brice Liu - Lake Washington High School
 * Philomène Hudry - Lake Washington High School
 * Sarah Bali - Lake Washington High School
+* Brice Liu - Lake Washington High School
+* Philomène Hudry - Lake Washington High School
+* Sarah Bali - Lake Washington High School
 
-#### 1 👎 - Con
+#### 13 👎 - Con
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* Joe Gruber - University District Food Bank

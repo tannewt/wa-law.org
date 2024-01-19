@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 2020 - Creating a state administered public infrastructure assistance program within the emergency management division.</title>
+		<title>HB 2020 - Public infra. assistance prg</title>
 		<link>https://wa-law.org/bill/2023-24/hb/2020/</link>
 		<description>Updates about HB 2020</description>
 		<language>en-US</language>
@@ -75,6 +75,13 @@
 			<pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-16/ICEV - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>ICEV - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>ICEV - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-16/ICEV - Majority; 1st substitute bill be substituted, do pass.</guid>
 		</item>
 	</channel>
 </rss>

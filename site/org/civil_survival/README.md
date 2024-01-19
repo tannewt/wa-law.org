@@ -33,7 +33,7 @@
 ## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances   ❓1
 * ❓💵 Prachi Dave
 
-## [SB 5974](/bill/2023-24/sb/5974/) - Concerning the disposition of unenforceable legal financial obligations other than restitution imposed by a court or an agent of the court against a juvenile prior to July 1, 2023. 👍1  
+## [SB 5974](/bill/2023-24/sb/5974/) - Unenforceable LFOs 👍1  
 * 👍 Maddisson Alexander
 
 ## [SB 5998](/bill/2023-24/sb/5998/) - Nonfelony convict. vacation 👍1  

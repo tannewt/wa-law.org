@@ -75,12 +75,14 @@
 
 ## [SB 5800](/bill/2023-24/sb/5800/) - Improving access to department of licensing issued documents by clarifying the application requirements for a minor, modifying the requirements for at-cost identicards, and studying the feasibility of reduced-fee identicards. 👍1  
 
-## [SB 5908](/bill/2023-24/sb/5908/) - Providing extended foster care services to youth ages 18 to 21. 👍5  
+## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍5  
 * 👍 Charles Smith
 
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
 * ❓ Charles Smith
 
-## [SB 5974](/bill/2023-24/sb/5974/) - Concerning the disposition of unenforceable legal financial obligations other than restitution imposed by a court or an agent of the court against a juvenile prior to July 1, 2023. 👍1  
+## [SB 5974](/bill/2023-24/sb/5974/) - Unenforceable LFOs 👍1  
 
 ## [SB 6063](/bill/2023-24/sb/6063/) - Persistent offenders 👍1  
+
+## [SB 6109](/bill/2023-24/sb/6109/) - Children and families  👎1 

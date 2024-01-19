@@ -60,10 +60,10 @@
 
 ## [SB 5316](/bill/2023-24/sb/5316/) - DCYF background check fees 👍1  
 
-## [SB 5908](/bill/2023-24/sb/5908/) - Providing extended foster care services to youth ages 18 to 21. 👍1  
+## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍1  
 
 ## [SB 5933](/bill/2023-24/sb/5933/) - Infants and toddlers program 👍1  
 
-## [SB 5974](/bill/2023-24/sb/5974/) - Concerning the disposition of unenforceable legal financial obligations other than restitution imposed by a court or an agent of the court against a juvenile prior to July 1, 2023. 👍1  
+## [SB 5974](/bill/2023-24/sb/5974/) - Unenforceable LFOs 👍1  
 
 ## [SB 6063](/bill/2023-24/sb/6063/) - Persistent offenders 👍1  

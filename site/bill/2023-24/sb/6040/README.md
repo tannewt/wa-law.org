@@ -14,8 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31678&aId=156703&caId=23073&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31678&aId=156703&caId=23073&tId=4)
 
-#### 10 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* 💵Brian Sims - [Tabor 100](/org/tabor_100/)
+* Darci Henderson - [Tabor 100](/org/tabor_100/)
+* 💵Albert Sardinas - WBBA
 
-#### 1 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Van Collins - ACEC Washington
+* Jerry VanderWood - Associated General Contractors (AGC)
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* William Frare - Washington State Department of Enterprise Services
+* Janice Zahn - CPARB Chair

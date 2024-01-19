@@ -12,6 +12,8 @@
 
 ## [HB 2119](/bill/2023-24/hb/2119/) - Medical debt garnishment 👍1  
 
+## [HB 2355](/bill/2023-24/hb/2355/) - MRI technologists 👍1  
+
 ## [SB 5074](/bill/2023-24/sb/5074/) - Biomarker testing coverage 👍1  
 
 ## [SB 5204](/bill/2023-24/sb/5204/) - Fertility services coverage 👍1  

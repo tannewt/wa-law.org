@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31780&aId=157423&caId=23500&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31780&aId=157423&caId=23500&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Rose GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)

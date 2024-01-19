@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6134/</link>
 		<description>Updates about SB 6134</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 16 Jan 2024 02:56:27 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jan 2024 04:59:40 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,6 +30,22 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Robert/Emerson/2024-01-16 02:56:27</guid>
+		</item>
+		<item>
+			<title>❓💵Cameron Long - Washington State Hospital Association (WSHA)</title>
+			<description>Cameron Long signed up to testify Other. They are signed up to represent Washington State Hospital Association (WSHA). They are a registered lobbyist.</description>
+			<pubDate>Thu, 18 Jan 2024 01:50:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Cameron/Long/2024-01-18 01:50:04</guid>
+		</item>
+		<item>
+			<title>👍Christian Crowell - Conservative Ladies of Washington</title>
+			<description>Christian Crowell signed up to testify Pro.</description>
+			<pubDate>Thu, 18 Jan 2024 04:59:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Christian/Crowell/2024-01-18 04:59:40</guid>
 		</item>
 	</channel>
 </rss>

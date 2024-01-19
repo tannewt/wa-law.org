@@ -467,6 +467,8 @@
 
 ## [HB 2188](/bill/2023-24/hb/2188/) - Health subsidy/retirees 👍1  
 
+## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities   ❓1
+
 ## [HB 2209](/bill/2023-24/hb/2209/) - Lunar new year 👍1  
 
 ## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍1  

@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 5893 - Providing gate money to individuals releasing from custody prior to the expiration of their sentence.</title>
+		<title>SB 5893 - Gate money/early release</title>
 		<link>https://wa-law.org/bill/2023-24/sb/5893/</link>
 		<description>Updates about SB 5893</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 15 Jan 2024 01:43:05 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -51,6 +51,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Danielle/Armbruster/2024-01-15 01:43:05</guid>
+		</item>
+		<item>
+			<title>And refer to Ways &amp; Means.</title>
+			<description>And refer to Ways &amp; Means.</description>
+			<pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-18/And refer to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

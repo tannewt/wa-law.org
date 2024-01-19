@@ -14,8 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157548&caId=23564&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157548&caId=23564&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 0 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Naveed Siddiqui
+* Ala Hassan
+* Leslie Maxwell
+* Oliver Miska - Washington Ethnic Studies Now
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Luay Joudeh
+* Luay Joudeh

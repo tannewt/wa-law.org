@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31768&aId=157317&caId=23442&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31768&aId=157317&caId=23442&tId=4)
 
-#### 281 👍 - Pro
+#### 692 👍 - Pro
+Testifying:
+* Noreen Light - Information For A Change
 
 #### 1 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other

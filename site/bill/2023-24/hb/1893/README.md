@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/18/2024 [The Center Square](/org/the_center_square/) - [Washington lawmakers propose unemployment benefit deemed too pricey for California | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_43c6de48-b63c-11ee-a08a-cbe86537f50d.html#:~:text=House%20Bill%201893)
+
 ## Meetings
 ### Tue 01/09 10:30 AM - Labor & Workplace Standards (LAWS): HB 1893 Unemp ins/strikes & lockouts
 #### 192 👍 - Pro

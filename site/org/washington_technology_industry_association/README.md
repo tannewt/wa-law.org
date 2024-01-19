@@ -22,13 +22,25 @@
 ## [HB 1793](/bill/2023-24/hb/1793/) - Wireless devices tax  👎1 
 * 👎💵 Kelly Fukai
 
+## [HB 1934](/bill/2023-24/hb/1934/) - AI task force   ❓1
+* ❓💵 Kelly Fukai
+
+## [HB 1951](/bill/2023-24/hb/1951/) - Algorithmic discrimination  👎1 
+* 👎💵 Kelly Fukai
+
 ## [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍1  
 
 ## [HB 2008](/bill/2023-24/hb/2008/) - Housing cost task force 👍1  
 
 ## [HB 2019](/bill/2023-24/hb/2019/) - Establishing a Native American apprentice assistance program. 👍1  
 
+## [HB 2149](/bill/2023-24/hb/2149/) - Protecting consumer personal information.  👎1 
+* 👎💵 Kelly Fukai
+
 ## [HB 2155](/bill/2023-24/hb/2155/) - Credential registry 👍1  
+
+## [HB 2277](/bill/2023-24/hb/2277/) - Data brokering  👎1 
+* 👎💵 Kelly Fukai
 
 ## [HB 2360](/bill/2023-24/hb/2360/) - Digital workforce 👍1  
 

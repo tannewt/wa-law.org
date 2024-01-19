@@ -8,21 +8,17 @@
 
 ## Meetings
 ### Thu 01/18 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6168 International leadership
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31645&aId=156935&caId=23260&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31645&aId=156935&caId=23260&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31645&aId=156935&caId=23260&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31645&aId=156935&caId=23260&tId=4)
-
-#### 7 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * James Rolph - The Lieutenant Governor's Office
 * Karl Dye - TRIDEC
 * Lydia Faitalia - Washington State Commission on Asian Pacific American Affairs
 * Geoffrey Potter - Office of Governor Jay Inslee
 * Schuyler Hoss - Former Director of International Relations and Protocol
+* John Flanagan - [Port of Seattle](/org/port_of_seattle/)
+* 💵Amy Anderson - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 12 👎 - Con
+#### 24 👎 - Con
 Testifying:
 * John Worthington
 

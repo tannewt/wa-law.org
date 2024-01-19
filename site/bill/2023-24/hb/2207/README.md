@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Thu 01/18 08:00 AM - Environment & Energy (ENVI): HB 2207 Solid waste dumping
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31612&aId=156864&caId=23156&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31612&aId=156864&caId=23156&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31612&aId=156864&caId=23156&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31612&aId=156864&caId=23156&tId=4)
-
 #### 11 👍 - Pro
 Testifying:
 * 💵Holli Johnson - [Rayonier](/org/rayonier/)

@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31750&aId=157439&caId=23353&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31750&aId=157439&caId=23353&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Mark Scoccolo - Contractor and Boad of Director of the National Utility Contractors Association
+* Shane Webley - Johansen Construction Company
+* Michael Pellitteri - PELLCO Construction, Inc
 
 #### 0 👎 - Con
 

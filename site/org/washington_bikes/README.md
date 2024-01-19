@@ -22,6 +22,9 @@
 
 ## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras 👍1  
 
+## [HB 2394](/bill/2023-24/hb/2394/) - SEPA/trails and paths 👍1  
+* 👍 Lee Lambert
+
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍2  
 
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  

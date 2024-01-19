@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6118/</link>
 		<description>Updates about SB 6118</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 17 Jan 2024 06:55:29 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jan 2024 12:42:24 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -22,6 +22,30 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Shaun/D’Sylva/2024-01-17 06:55:29</guid>
+		</item>
+		<item>
+			<title>👎Kollin Esslinger - Washington Smoke Free</title>
+			<description>Kollin Esslinger signed up to testify Con.</description>
+			<pubDate>Thu, 18 Jan 2024 02:57:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kollin/Esslinger/2024-01-18 02:57:52</guid>
+		</item>
+		<item>
+			<title>❓💵Lukas Hunter - Harmony Farms</title>
+			<description>Lukas Hunter signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/harmony_farms/&quot;&gt;Harmony Farms&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Thu, 18 Jan 2024 11:55:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Lukas/Hunter/2024-01-18 11:55:22</guid>
+		</item>
+		<item>
+			<title>👎Alyssa Marsh Webb - Washington Smoke Free</title>
+			<description>Alyssa Marsh Webb signed up to testify Con.</description>
+			<pubDate>Thu, 18 Jan 2024 12:42:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Alyssa/Marsh Webb/2024-01-18 12:42:24</guid>
 		</item>
 	</channel>
 </rss>

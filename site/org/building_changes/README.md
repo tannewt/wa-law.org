@@ -92,4 +92,6 @@
 ## [SB 5719](/bill/2023-24/sb/5719/) - Student homelessness group 👍1  
 * 👍💵 Megan Veith
 
+## [SB 5943](/bill/2023-24/sb/5943/) - Resource data tool 👍1  
+
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍1  

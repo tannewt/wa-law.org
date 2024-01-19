@@ -14,12 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31648&aId=156870&caId=23076&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31648&aId=156870&caId=23076&tId=4)
 
-#### 79 👍 - Pro
+#### 92 👍 - Pro
 Testifying:
 * Mary Long - Conservative Ladies of Washington
+* Christian Crowell
 
 #### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Robert Emerson - For the friends and family that I and others have lost.
+* 💵Cameron Long - Washington State Hospital Association (WSHA)

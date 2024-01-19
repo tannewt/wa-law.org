@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Thu 01/18 08:00 AM - Regulated Substances & Gaming (RSG): HB 2369 Private club liquor permit
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31621&aId=156943&caId=23277&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31621&aId=156943&caId=23277&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31621&aId=156943&caId=23277&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31621&aId=156943&caId=23277&tId=4)
-
 #### 1 👍 - Pro
 
 #### 1 👎 - Con

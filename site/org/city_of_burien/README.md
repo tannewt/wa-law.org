@@ -21,6 +21,8 @@
 
 ## [HB 1670](/bill/2023-24/hb/1670/) - Property tax limit factor 👍1  
 
+## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
+
 ## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍2  
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  

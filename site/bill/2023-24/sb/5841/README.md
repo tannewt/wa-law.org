@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/18/2024 [KING5](/org/king5/) - [DUI drivers could be ordered to financially support minor children of people they kill or disable under proposed bill | king5.com](https://www.king5.com/article/news/politics/state-politics/dui-drivers-pay-children-of-victims-killed-or-disabled-parents/281-8e2fac29-6e00-446f-a97f-5e4a5cd23751#:~:text=Senate%20Bill%205841)
+
 ## Meetings
 ### Tue 01/16 10:30 AM - Law & Justice (LAW): SB 5841 DUI/financial support
 #### 6 👍 - Pro

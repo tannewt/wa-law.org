@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/18/2024 [The Center Square](/org/the_center_square/) - [Washington bill would allow highest-risk sex offenders to end state supervision | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5f2c7d66-b63a-11ee-9b97-4f32f22ef84e.html#:~:text=HB%202178)
+
 ## Meetings
 ### Tue 01/16 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 2178 Sex offenses/comm. custody
 #### 817 👍 - Pro

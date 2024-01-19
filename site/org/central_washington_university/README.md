@@ -41,6 +41,9 @@
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
 * ❓ Steve DuPont
 
+## [HB 2221](/bill/2023-24/hb/2221/) - Sign language work group 👍1  
+* 👍 Steve DuPont
+
 ## [HB 2242](/bill/2023-24/hb/2242/) - Sexual assault/higher ed. 👍1  
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍4  
@@ -69,7 +72,7 @@
 
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  
 
-## [SB 5895](/bill/2023-24/sb/5895/) - Concerning collective bargaining for certain employees who are enrolled in academic programs at public institutions of higher education. 👍2  
+## [SB 5895](/bill/2023-24/sb/5895/) - Concerning collective bargaining for certain employees who are enrolled in academic programs at public institutions of higher education. 👍3  
 
 ## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  
 * 👍 Steve DuPont

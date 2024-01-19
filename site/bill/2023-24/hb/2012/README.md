@@ -8,14 +8,12 @@
 
 ## Meetings
 ### Thu 01/18 01:30 PM - Finance (FIN): HB 2012 Rental housing/nonprofits
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31609&aId=156371&caId=23161&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31609&aId=156371&caId=23161&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31609&aId=156371&caId=23161&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31609&aId=156371&caId=23161&tId=4)
+#### 172 👍 - Pro
+Testifying:
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Kelli Larsen - [City of Seattle](/org/city_of_seattle/)
+* Jon Grant - Low Income Housing Institute
 
-#### 161 👍 - Pro
-
-#### 7 👎 - Con
+#### 20 👎 - Con
 
 #### 0 ❓ - Other

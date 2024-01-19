@@ -14,12 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31629&aId=156447&caId=23079&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31629&aId=156447&caId=23079&tId=4)
 
-#### 9 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Jet Richardson - Tri-County Partners Habitat for Humanity
 * Jonathan Thomas - South Puget Sound Habitat for Humanity
+* Krosbie Carter - [Department of Natural Resources](/org/department_of_natural_resources/)
+* Michael Kearney - [Department of Natural Resources](/org/department_of_natural_resources/)
+* 💵Michele Thomas - Washington Low Income Housing Alliance
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Christina Nelson - TBPM
 

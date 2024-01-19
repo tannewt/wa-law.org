@@ -16,3 +16,5 @@
 * 👍 John Mangan
 
 ## [SB 6027](/bill/2023-24/sb/6027/) - Insurance holding companies 👍1  
+
+## [SB 6097](/bill/2023-24/sb/6097/) - Dental services contracts  👎1 

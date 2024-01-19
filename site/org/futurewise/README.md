@@ -44,7 +44,7 @@
 
 ## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services 👍1  
 
-## [HB 1892](/bill/2023-24/hb/1892/) - Concerning the workforce housing accelerator program. 👍1  
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍1  
 * 👍💵 Bryce Yadon
 
 ## [HB 1987](/bill/2023-24/hb/1987/) - Concerning the use of moneys from the rural public facilities sales and use tax for affordable workforce housing infrastructure and facilities. 👍1  

@@ -21,3 +21,5 @@
 ## [HB 2253](/bill/2023-24/hb/2253/) - Community solar 👍1  
 
 ## [SB 5570](/bill/2023-24/sb/5570/) - Energy efficiency loans 👍1  
+
+## [SB 6113](/bill/2023-24/sb/6113/) - Community solar 👍1  

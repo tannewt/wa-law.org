@@ -32,7 +32,7 @@
 
 ## [HB 1885](/bill/2023-24/hb/1885/) - Strengthening campaign finance disclosure by prohibiting campaign contributions and expenditures by foreign-influenced corporations.  👎1 
 
-## [HB 1892](/bill/2023-24/hb/1892/) - Concerning the workforce housing accelerator program. 👍1  
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍1  
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍2  
 * 👍💵 Neil Strege

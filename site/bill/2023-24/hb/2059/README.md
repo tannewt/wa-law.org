@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31630&aId=156754&caId=23092&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31630&aId=156754&caId=23092&tId=4)
 
-#### 8 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Mohammed Ahmed Shams Pirbhai - IFB MARKET
+* Najma Osman - CAIR WASHINGTON
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* MUHAMAMD NAZIR

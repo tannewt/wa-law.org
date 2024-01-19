@@ -14,7 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31673&aId=157542&caId=23426&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31673&aId=157542&caId=23426&tId=4)
 
-#### 1 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* eleni papadakis - Workforce Training and Education Coordinating Board
+* Will Durden - SBCTC
+* Eileen Aparis - Evergreen Goodwill
+* RT Tomilin - Evergreen Goodwill
+* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 0 👎 - Con
 

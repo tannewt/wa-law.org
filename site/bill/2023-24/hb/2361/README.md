@@ -14,7 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31660&aId=156975&caId=23280&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31660&aId=156975&caId=23280&tId=4)
 
-#### 0 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Neil Angst - Health Insurance Solutions NW
+* Evan Klein - Health Care Authority
+* Ingrid Ulrey - Washington Health Benefit Exchange
+* Jane Beyer - Washington State Office of the Insurance Commissioner
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 
 #### 0 👎 - Con
 

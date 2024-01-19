@@ -16,6 +16,8 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 15 👎 - Con
+Testifying:
+* Cindy Madigan - League of Women Voters of Washington
 
 #### 0 ❓ - Other

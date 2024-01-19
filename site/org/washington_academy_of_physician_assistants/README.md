@@ -9,6 +9,8 @@
 
 ## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍1  
 
+## [HB 1972](/bill/2023-24/hb/1972/) - Physicians health prg. fees 👍1  
+
 ## [HB 2041](/bill/2023-24/hb/2041/) - Concerning physician assistant collaborative practice. 👍2  
 * 👍 Paul Surette
 

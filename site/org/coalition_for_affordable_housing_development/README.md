@@ -9,7 +9,7 @@
 
 ## [HB 1149](/bill/2023-24/hb/1149/) - Housing/capital expenditures 👍1  
 
-## [HB 1892](/bill/2023-24/hb/1892/) - Concerning the workforce housing accelerator program. 👍1  
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍1  
 * 👍💵 Brian Bonlender
 
 ## [SB 5198](/bill/2023-24/sb/5198/) - Mobile home community sales 👍1  

@@ -8,13 +8,10 @@
 
 ## Meetings
 ### Thu 01/18 01:30 PM - Finance (FIN): HB 2026 Rental income/property tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31609&aId=156372&caId=23162&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31609&aId=156372&caId=23162&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31609&aId=156372&caId=23162&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31609&aId=156372&caId=23162&tId=4)
-
-#### 6 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* Brian Windrope - Senior Services for South Sound
+* Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 4 👎 - Con
 Testifying:

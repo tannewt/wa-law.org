@@ -14,4 +14,4 @@
 * ❓ Mustapha Kebbeh
 * ❓ Mustapha Kebbeh
 
-## [SB 5933](/bill/2023-24/sb/5933/) - Infants and toddlers program 👍2  
+## [SB 5933](/bill/2023-24/sb/5933/) - Infants and toddlers program 👍3  

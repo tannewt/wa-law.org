@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31769&aId=157320&caId=23503&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31769&aId=157320&caId=23503&tId=4)
 
-#### 3 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Andre Penalver
+* Larry Jefferson - Director, Washington State Office of Public Defense
 
 #### 0 👎 - Con
 

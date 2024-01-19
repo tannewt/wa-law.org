@@ -14,7 +14,8 @@
 
 ## [HB 1505](/bill/2023-24/hb/1505/) - Alternative jet fuel 👍1  
 
-## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍1  
+## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍2  
+* 👍 Fred Felleman
 
 ## [HB 1906](/bill/2023-24/hb/1906/) - Changing the vessel length requirement in obtaining nonresident vessel permits. 👍1  
 
@@ -72,5 +73,8 @@
 
 ## [SB 6136](/bill/2023-24/sb/6136/) - Rental property B&O tax   ❓1
 * ❓ John Flanagan
+
+## [SB 6168](/bill/2023-24/sb/6168/) - International leadership 👍1  
+* 👍 John Flanagan
 
 ## [SJM 8009](/bill/2023-24/sjm/8009/) - Harbor maintenance tax 👍1  
