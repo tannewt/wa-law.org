@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 01/19 08:00 AM - Postsecondary Education & Workforce (PEW): HB 2360 Digital workforce
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31673&aId=157542&caId=23426&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31673&aId=157542&caId=23426&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31673&aId=157542&caId=23426&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31673&aId=157542&caId=23426&tId=4)
-
-#### 9 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * eleni papadakis - Workforce Training and Education Coordinating Board
 * Will Durden - SBCTC

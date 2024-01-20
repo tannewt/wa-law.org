@@ -14,6 +14,9 @@
 
 ## [HB 1515](/bill/2023-24/hb/1515/) - Behavioral health contracts 👍1  
 
+## [HB 1899](/bill/2023-24/hb/1899/) - Facilitating reconstruction of communities damaged or destroyed by wildfires. 👍1  
+* 👍 Josh Kerns
+
 ## [HB 1902](/bill/2023-24/hb/1902/) - Firearms/purchase & transfer  👎1 
 * 👎 John Nowels
 

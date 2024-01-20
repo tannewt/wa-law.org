@@ -117,7 +117,7 @@
 
 ## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍2  
 
-## [HB 1906](/bill/2023-24/hb/1906/) - Changing the vessel length requirement in obtaining nonresident vessel permits. 👍1  
+## [HB 1906](/bill/2023-24/hb/1906/) - Vessel length/nonresident 👍1  
 
 ## [HB 1912](/bill/2023-24/hb/1912/) - Requiring state agencies to share information to encourage economic development. 👍1  
 
@@ -150,6 +150,12 @@
 
 ## [HB 2134](/bill/2023-24/hb/2134/) - Transportation budget, supp.   ❓1
 * ❓ Chris Herman
+
+## [HB 2341](/bill/2023-24/hb/2341/) - Offshore wind dev. study   ❓1
+* ❓ Eric ffitch
+
+## [HB 2393](/bill/2023-24/hb/2393/) - Unleaded aircraft fuel/tax 👍1  
+* 👍 Chris Herman
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 * ❓ Eric ffitch
@@ -244,6 +250,9 @@
 
 ## [SB 5955](/bill/2023-24/sb/5955/) - Large port districts  👎1 
 * 👎 Eric ffitch
+
+## [SB 6040](/bill/2023-24/sb/6040/) - Public works payments   ❓1
+* ❓ Chris Herman
 
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply   ❓1
 * ❓💵 Carly Michiels

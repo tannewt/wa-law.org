@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2219/</link>
 		<description>Updates about HB 2219</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 09 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 19 Jan 2024 12:07:21 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,22 @@
 			<pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-09/First reading, referred to Finance.</guid>
+		</item>
+		<item>
+			<title>👍Maureen Fife - Tacoma-Pierce Co Habitat for Humanity</title>
+			<description>Maureen Fife signed up to testify Pro. They are signed up to represent Tacoma-Pierce Co Habitat for Humanity.</description>
+			<pubDate>Fri, 19 Jan 2024 12:03:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Maureen/Fife/2024-01-19 12:03:14</guid>
+		</item>
+		<item>
+			<title>👍Michelle Girardot - Habitat for Humanity Spokane</title>
+			<description>Michelle Girardot signed up to testify Pro. They are signed up to represent Habitat for Humanity Spokane.</description>
+			<pubDate>Fri, 19 Jan 2024 12:07:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Michelle/Girardot/2024-01-19 12:07:21</guid>
 		</item>
 	</channel>
 </rss>

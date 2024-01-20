@@ -401,7 +401,7 @@
 
 ## [HB 1940](/bill/2023-24/hb/1940/) - Employer political speech 👍1  
 
-## [HB 1943](/bill/2023-24/hb/1943/) - National guard ed. grants 👍1  
+## [HB 1943](/bill/2023-24/hb/1943/) - National guard ed. grants 👍2  
 
 ## [HB 1949](/bill/2023-24/hb/1949/) - Including in the public safety employees' retirement system specified competency restoration workers at department of social and health services institutional and residential sites that serve civilly committed residents or serve patients under not guilty by reason of insanity findings. 👍1  
 
@@ -429,6 +429,9 @@
 ## [HB 2022](/bill/2023-24/hb/2022/) - Concerning construction crane safety. 👍1  
 
 ## [HB 2025](/bill/2023-24/hb/2025/) - Modifying placement and salary matching requirements for the state work-study program. 👍1  
+
+## [HB 2037](/bill/2023-24/hb/2037/) - Concerning Holocaust and genocide education in public schools. 👍1  
+* 👍💵 Simone Boe
 
 ## [HB 2038](/bill/2023-24/hb/2038/) - Collecting data on student transfers and withdrawals from public schools and school districts.   ❓1
 * ❓💵 Nasue Nishida
@@ -475,9 +478,17 @@
 
 ## [HB 2242](/bill/2023-24/hb/2242/) - Sexual assault/higher ed. 👍1  
 
+## [HB 2246](/bill/2023-24/hb/2246/) - Vacation leave accrual 👍1  
+
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍2  
 
 ## [HB 2282](/bill/2023-24/hb/2282/) - African American studies 👍1  
+
+## [HB 2309](/bill/2023-24/hb/2309/) - Washington 13 free guarantee 👍1  
+
+## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
+
+## [HB 2374](/bill/2023-24/hb/2374/) - Washington promise program 👍1  
 
 ## [SB 5000](/bill/2023-24/sb/5000/) - Americans of Chinese descent 👍1  
 
@@ -741,7 +752,7 @@
 
 ## [SB 5586](/bill/2023-24/sb/5586/) - Paid leave data 👍1  
 
-## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍1  
+## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍2  
 
 ## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍5  
 * 👍💵 Simone Boe
@@ -819,7 +830,7 @@
 * 👍 Brady Vallala
 * 👍💵 Simone Boe
 
-## [SB 5837](/bill/2023-24/sb/5837/) - Codifying the state election database to publish, evaluate, and analyze certain election data. 👍1  
+## [SB 5837](/bill/2023-24/sb/5837/) - Codifying the state election database to publish, evaluate, and analyze certain election data. 👍2  
 
 ## [SB 5839](/bill/2023-24/sb/5839/) - Modifying the working families' tax credit by clarifying the refundable nature of the credit, the application requirements, and the eligibility verification process. 👍1  
 
@@ -862,8 +873,13 @@
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
 * 👍💵 Larry Delaney
 
+## [SB 5953](/bill/2023-24/sb/5953/) - Incarcerated student grants 👍1  
+
 ## [SB 5956](/bill/2023-24/sb/5956/) - Enrichment levies limit 👍1  
 * 👍💵 Julie Salvi
+
+## [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation 👍1  
+* 👍 Jared Mason-Gere
 
 ## [SB 5979](/bill/2023-24/sb/5979/) - Concerning accrued leave for construction workers. 👍1  
 
@@ -873,9 +889,19 @@
 
 ## [SB 6000](/bill/2023-24/sb/6000/) - Military service credit 👍1  
 
+## [SB 6007](/bill/2023-24/sb/6007/) - Grocery workers 👍1  
+
 ## [SB 6014](/bill/2023-24/sb/6014/) - Special education cap 👍2  
 * 👍💵 Julie Salvi
 
 ## [SB 6028](/bill/2023-24/sb/6028/) - Unemployment overpayments 👍1  
 
 ## [SB 6060](/bill/2023-24/sb/6060/) - Electronic signatures/PERC 👍1  
+
+## [SB 6082](/bill/2023-24/sb/6082/) - Paraeducator compensation 👍1  
+* 👍💵 Julie Salvi
+
+## [SB 6123](/bill/2023-24/sb/6123/) - Classified school employees 👍1  
+* 👍💵 Julie Salvi
+
+## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  

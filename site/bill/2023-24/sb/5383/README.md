@@ -22,9 +22,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31695&aId=157472&caId=23362&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31695&aId=157472&caId=23362&tId=4)
 
-#### 0 👍 - Pro
+#### 80 👍 - Pro
 
-#### 1 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * David Sedelmeier
 

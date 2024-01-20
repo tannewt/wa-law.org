@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31716&aId=157552&caId=23577&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31716&aId=157552&caId=23577&tId=4)
 
-#### 1 👍 - Pro
+#### 42 👍 - Pro
+Testifying:
+* Erica Munsey
+* Vaughnetta J. Barton - UW School of Social Work - Washington State Behavioral Health Workforce Development Initiative
 
 #### 0 👎 - Con
 

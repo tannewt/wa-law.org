@@ -403,8 +403,17 @@
 ## [HB 2253](/bill/2023-24/hb/2253/) - Community solar  👎1 
 * 👎💵 Peter Godlewski
 
+## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍1  
+* 👍 Morgan Irwin
+
+## [HB 2275](/bill/2023-24/hb/2275/) - Senior independent living 👍1  
+
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes  👎1 
 * 👎💵 Emily Shay
+
+## [HB 2308](/bill/2023-24/hb/2308/) - Existing structures/housing 👍1  
+
+## [HB 2321](/bill/2023-24/hb/2321/) - Middle housing requirements 👍1  
 
 ## [HB 2360](/bill/2023-24/hb/2360/) - Digital workforce 👍2  
 * 👍💵 Emily Wittman
@@ -675,7 +684,11 @@
 ## [SB 6113](/bill/2023-24/sb/6113/) - Community solar  👎1 
 * 👎💵 Peter Godlewski
 
+## [SB 6121](/bill/2023-24/sb/6121/) - Biochar production 👍1  
+
 ## [SB 6136](/bill/2023-24/sb/6136/) - Rental property B&O tax  👎1 
 
 ## [SB 6168](/bill/2023-24/sb/6168/) - International leadership 👍1  
 * 👍💵 Amy Anderson
+
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍1  

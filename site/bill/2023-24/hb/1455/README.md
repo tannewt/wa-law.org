@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/20/2024 [NW News Network](/org/nw_news_network/) - [AI, guns, and initiatives: highlights from Week 2 of Washington's 2024 legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-19/ai-guns-and-initiatives-highlights-from-week-2-of-washingtons-2024-legislative-session#:~:text=House%20Bill%201455)
+* 01/19/2024 [The Seattle Times](/org/the_seattle_times/) - [Protesters urge WA lawmakers to end child marriage | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/protesters-urge-wa-lawmakers-to-end-child-marriage/#:~:text=House%20Bill%201455)
 * 01/13/2024 [MyNorthwest](/org/mynorthwest/) - [The SMN Interviews: 'Human jukebox' Nikhil Bagga, Rep. Monica Stonier, Rob McKenna - MyNorthwest.com](https://mynorthwest.com/3946389/the-smn-interviews-human-jukebox-nikhil-bagga-rep-monica-stonier-rob-mckenna/#:~:text=House%20Bill%201455)
 * 01/10/2024 [MyNorthwest](/org/mynorthwest/) - [Rantz: Democrats reject child marriage, but accept their gender reassignment - MyNorthwest.com](https://mynorthwest.com/3945913/rantz-democrats-reject-child-marriage-accept-gender-reassignment/#:~:text=House%20Bill%201455)
 * 01/08/2024 [House Democrats](/org/house_democrats/) - [Speaker Jinkins: “Optimistic and determined” about 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/08/speaker-jinkins-optimistic-and-determined-about-2024-legislative-session/#:~:text=HB%201455)

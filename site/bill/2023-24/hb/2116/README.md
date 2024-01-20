@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202116)
+
 ## Meetings
 ### Wed 01/24 01:30 PM - Health Care & Wellness (HCW): HB 2116 Pharmacist prescriptive auth
 Sign up to testify:

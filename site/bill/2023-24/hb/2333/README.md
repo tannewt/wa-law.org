@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202333)
+
 ## Meetings
 ### Mon 01/22 01:30 PM - Environment & Energy (ENVI): HB 2333 Carbon seq./state lands
 Sign up to testify:
@@ -16,6 +19,10 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* John Worthington
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Harriet Morgan - WDFW

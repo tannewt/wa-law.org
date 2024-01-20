@@ -111,6 +111,8 @@
 
 ## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍1  
 
+## [HB 2239](/bill/2023-24/hb/2239/) - Social-emotional instruction 👍1  
+
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍5  
 
 ## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍2  
@@ -158,4 +160,16 @@
 
 ## [SB 5988](/bill/2023-24/sb/5988/) - Gift certificates/unclaimed 👍3  
 
+## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍2  
+
+## [SB 6007](/bill/2023-24/sb/6007/) - Grocery workers 👍2  
+
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍6  
+
+## [SB 6135](/bill/2023-24/sb/6135/) - TANF transitional assistance 👍1  
+
+## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍2  
+
+## [SB 6216](/bill/2023-24/sb/6216/) - Student mental health net. 👍3  
+
+## [SB 6251](/bill/2023-24/sb/6251/) - Behavioral crisis coord. 👍1  

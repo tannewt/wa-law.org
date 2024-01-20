@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1087/</link>
 		<description>Updates about HB 1087</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 20 Jan 2024 01:59:57 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -352,6 +352,13 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
+			<title>2024 Quaker Voice Priorities — Quaker Voice</title>
+			<description>News article &quot;2024 Quaker Voice Priorities — Quaker Voice&quot; from Quaker Voice On Washington Public Policy.</description>
+			<pubDate>Sat, 20 Jan 2024 01:59:57 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.quakervoicewa.org/2024-quaker-voice-priorities/#:~:text=HB%201087</guid>
 		</item>
 	</channel>
 </rss>

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 01/19 08:00 AM - Human Services, Youth, & Early Learning (HSEL): HB 2221 Sign language work group
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31640&aId=156897&caId=23256&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31640&aId=156897&caId=23256&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31640&aId=156897&caId=23256&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31640&aId=156897&caId=23256&tId=4)
-
-#### 65 👍 - Pro
+#### 72 👍 - Pro
 Testifying:
 * David Poland
 * Cynthia Stewart - Hearing Loss Association - WA

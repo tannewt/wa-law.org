@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31710&aId=157066&caId=23447&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31710&aId=157066&caId=23447&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Reema Griffith - Wash. State Transportation Commission
+* Jennifer Lindsay - Mayor Pro Tem, City of Ridgefield
+* Steve Stuart - City Manager, City of Ridgefield
 
 #### 0 👎 - Con
 

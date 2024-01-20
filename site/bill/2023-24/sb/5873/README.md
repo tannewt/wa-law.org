@@ -17,11 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157501&caId=23370&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157501&caId=23370&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Barbara Posthumus - Lake Washington School District
 
 ### Wed 01/10 10:30 AM - Early Learning & K-12 Education (EDU): SB 5873 Student transportation
 #### 49 👍 - Pro

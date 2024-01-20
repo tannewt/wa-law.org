@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202065)
+
 ## Meetings
 ### Mon 01/22 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 2065 Offender score recalc.
 Sign up to testify:
@@ -14,10 +17,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31768&aId=157317&caId=23442&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31768&aId=157317&caId=23442&tId=4)
 
-#### 692 👍 - Pro
+#### 983 👍 - Pro
 Testifying:
 * Noreen Light - Information For A Change
+* Troy williams - Testify @washington state correctional center
+* nahtasha phillips
+* tawnya sapp
+* Bridgette Strong
+* Travis Comeslast
+* Gracie Pakosz - University of Washington Race and Justice Clinic
+* Avery Doutre
+* Dr. Katherine Beckett - [University of Washington](/org/university_of_washington/)
+* Judge André Peñalver
+* Patrick Brown
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other

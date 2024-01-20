@@ -129,7 +129,7 @@
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
-## [HB 2279](/bill/2023-24/hb/2279/) - Dev. disabilities waiver use 👍1  
+## [HB 2279](/bill/2023-24/hb/2279/) - Dev. disabilities waiver use 👍2  
 
 ## [HB 2365](/bill/2023-24/hb/2365/) - Respite care 👍1  
 
@@ -234,6 +234,12 @@
 
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍1  
 
+## [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation  👎2 
+* 👎💵 Ramona Hattendorf
+
 ## [SB 6014](/bill/2023-24/sb/6014/) - Special education cap 👍2  
 
 ## [SB 6126](/bill/2023-24/sb/6126/) - Respite care 👍1  
+
+## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
+* 👍💵 Ramona Hattendorf

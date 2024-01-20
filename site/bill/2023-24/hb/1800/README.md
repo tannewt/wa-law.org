@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%201800)
 * 12/29/2023 [The Center Square](/org/the_center_square/) - [Rep. Andrew Barkis introduces a pair of bills to crack down on graffiti | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_7078f46a-a680-11ee-a936-77e2c1025ada.html#:~:text=House%20Bill%201800)
 
 ## Meetings
@@ -17,8 +18,8 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157383&caId=23546&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157383&caId=23546&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

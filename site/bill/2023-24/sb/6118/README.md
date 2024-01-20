@@ -14,13 +14,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31749&aId=157205&caId=23307&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31749&aId=157205&caId=23307&tId=4)
 
-#### 0 👍 - Pro
+#### 52 👍 - Pro
+Testifying:
+* Kerry Schulz - Creekside Market
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* Chong Sullivan - Korean American Grocers Association
 
-#### 80 👎 - Con
+#### 349 👎 - Con
 Testifying:
 * Shaun D’Sylva - Washington Smoke Free
 * Kollin Esslinger
 * Alyssa Marsh Webb
+* Chontae Lockett
+* Aaron Kisman
+* Mindi Pinedo
+* Marc Howser
+* James Hoy
 
 #### 1 ❓ - Other
 Testifying:

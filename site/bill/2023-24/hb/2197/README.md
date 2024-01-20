@@ -8,14 +8,14 @@
 
 ## Meetings
 ### Fri 01/19 08:00 AM - Health Care & Wellness (HCW): HB 2197 Medical assist./prevention
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31660&aId=156569&caId=23175&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31660&aId=156569&caId=23175&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31660&aId=156569&caId=23175&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31660&aId=156569&caId=23175&tId=4)
-
-#### 6 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Dominique Davis - Community Passageways
+* Eleuthera Lisch - King County Regional Office of Gun Violence Prevention
+* Kyle Fischer - The Health Alliance for Violence Intervention
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Dr. Christopher Chen - Health Care Authority (HCA)

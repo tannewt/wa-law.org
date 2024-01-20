@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31768&aId=157314&caId=23439&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31768&aId=157314&caId=23439&tId=4)
 
-#### 5 👍 - Pro
+#### 38 👍 - Pro
+Testifying:
+* Hilary Young - Washington Statewide Reentry Council
 
 #### 0 👎 - Con
 

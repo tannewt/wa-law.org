@@ -99,7 +99,12 @@
 ## [HB 2004](/bill/2023-24/hb/2004/) - Military student early reg. 👍1  
 * 👍 Jordan Caron
 
+## [HB 2037](/bill/2023-24/hb/2037/) - Concerning Holocaust and genocide education in public schools. 👍1  
+
 ## [HB 2041](/bill/2023-24/hb/2041/) - Concerning physician assistant collaborative practice. 👍1  
+
+## [HB 2065](/bill/2023-24/hb/2065/) - Recalculating sentencing ranges for currently incarcerated individuals whose offender score was increased by juvenile convictions. 👍1  
+* 👍 Dr. Katherine Beckett
 
 ## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍1  
 * 👍 Joe Dacca

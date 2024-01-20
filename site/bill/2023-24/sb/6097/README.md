@@ -8,18 +8,14 @@
 
 ## Meetings
 ### Fri 01/19 08:00 AM - Health & Long Term Care (HLTC): SB 6097 Dental services contracts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31648&aId=156871&caId=23077&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31648&aId=156871&caId=23077&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31648&aId=156871&caId=23077&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31648&aId=156871&caId=23077&tId=4)
-
-#### 155 👍 - Pro
+#### 158 👍 - Pro
 Testifying:
 * Roman Daniels-Brown - [Association of Dental Support Organizations](/org/association_of_dental_support_organizations/)
 * John Gibbons - Immediate Past President, Washington State Dental Association
 * 💵Kevin Schilling - Washington State Dental Association
+* Siobhan Whitney - [Delta Dental of Washington](/org/delta_dental_of_washington/)
+* Gary Pickard - Pacific Dental Services (PDS)
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

@@ -8,18 +8,20 @@
 
 ## Meetings
 ### Fri 01/19 08:00 AM - Consumer Protection & Business (CPB): HB 2277 Data brokering
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31662&aId=156904&caId=23249&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31662&aId=156904&caId=23249&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31662&aId=156904&caId=23249&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31662&aId=156904&caId=23249&tId=4)
+#### 8 👍 - Pro
+Testifying:
+* Cathy MacCaul
 
-#### 4 👍 - Pro
-
-#### 4 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * 💵Kelly Fukai - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
 * Robert (Bob) Battles - Association of Washington Business (AWB)
+* Anton van Seventer - Software & Information Industry Association (SIIA)
+* Traci Eccles - N/A (private citizen)
+* Montana Miranda - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Travis Frazier - Association of National Advertisers
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* Richard Varn - Coalition for Sensible Public Records Access

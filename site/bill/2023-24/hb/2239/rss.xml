@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2239/</link>
 		<description>Updates about HB 2239</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 09 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 20 Jan 2024 00:04:24 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,21 @@
 			<pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-09/First reading, referred to Education.</guid>
+		</item>
+		<item>
+			<title>👍Takiyah Ward - Citizen and Director at National Parents Organization of Washington</title>
+			<description>Takiyah Ward signed up to testify Pro.</description>
+			<pubDate>Fri, 19 Jan 2024 09:21:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Takiyah/Ward/2024-01-19 09:21:26</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans</title>
+			<description>News article &quot;The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Sat, 20 Jan 2024 00:04:24 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202239</guid>
 		</item>
 	</channel>
 </rss>

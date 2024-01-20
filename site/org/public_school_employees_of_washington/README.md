@@ -6,3 +6,5 @@
 * 👍 Trudi Hobbs
 * 👍 Trudi Hobbs
 * 👍 Trudi Hobbs
+
+## [SB 6123](/bill/2023-24/sb/6123/) - Classified school employees 👍1  

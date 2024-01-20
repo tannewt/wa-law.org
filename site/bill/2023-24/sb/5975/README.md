@@ -8,20 +8,17 @@
 
 ## Meetings
 ### Fri 01/19 10:30 AM - Housing (HSG): SB 5975 Social housing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31629&aId=156841&caId=23083&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31629&aId=156841&caId=23083&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31629&aId=156841&caId=23083&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31629&aId=156841&caId=23083&tId=4)
-
-#### 183 👍 - Pro
+#### 191 👍 - Pro
 Testifying:
 * Georgia Spiropoulos - Equiscript
 * Tiffani McCoy - House Our Neighbors
 * Waldo Waldron-Ramsey - [Washington Community Action Network](/org/washington_community_action_network/)
 
-#### 328 👎 - Con
+#### 406 👎 - Con
 Testifying:
 * Merridith Back
+* Sharon Damoff
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Michele Thomas - Washington Low Income Housing Alliance

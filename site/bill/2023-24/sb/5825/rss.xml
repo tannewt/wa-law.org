@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5825/</link>
 		<description>Updates about SB 5825</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 10 Jan 2024 11:06:21 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -84,6 +84,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Christopher/Stanley/2024-01-10 11:06:21</guid>
+		</item>
+		<item>
+			<title>And refer to Ways &amp; Means.</title>
+			<description>And refer to Ways &amp; Means.</description>
+			<pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-18/And refer to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

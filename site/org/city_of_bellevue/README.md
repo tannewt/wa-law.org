@@ -74,6 +74,8 @@
 
 ## [HB 2153](/bill/2023-24/hb/2153/) - Catalytic converter theft 👍1  
 
+## [HB 2308](/bill/2023-24/hb/2308/) - Existing structures/housing 👍1  
+
 ## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras 👍1  
 
 ## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍3  
@@ -130,3 +132,5 @@
 ## [SB 6040](/bill/2023-24/sb/6040/) - Public works payments   ❓1
 
 ## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍1  
+
+## [SB 6230](/bill/2023-24/sb/6230/) - Tax increment areas  👎1 

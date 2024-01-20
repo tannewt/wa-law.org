@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157500&caId=23369&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157500&caId=23369&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* 💵Michael Duchemin - [Retired Firefighters of Washington](/org/retired_firefighters_of_washington/)
 
 #### 0 👎 - Con
 

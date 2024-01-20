@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2184/</link>
 		<description>Updates about HB 2184</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 10 Jan 2024 06:42:48 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 19 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -244,6 +244,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Hodan/Mohammad/2024-01-10 06:42:48</guid>
+		</item>
+		<item>
+			<title>HSEL - Executive action taken by committee.</title>
+			<description>HSEL - Executive action taken by committee.</description>
+			<pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-19/HSEL - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

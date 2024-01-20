@@ -104,6 +104,8 @@
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
+## [HB 2395](/bill/2023-24/hb/2395/) - Strangulation & suffocation  👎1 
+
 ## [SB 5028](/bill/2023-24/sb/5028/) - Name changes 👍1  
 
 ## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍1  
@@ -175,3 +177,5 @@
 ## [SB 6127](/bill/2023-24/sb/6127/) - HIV prophylaxis 👍1  
 
 ## [SB 6151](/bill/2023-24/sb/6151/) - Ultrasound 👍1  
+
+## [SB 6208](/bill/2023-24/sb/6208/) - Public school materials 👍1  

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/09 04:00 PM - Regulated Substances & Gaming (RSG): HB 1650 Cannabis prohibitions

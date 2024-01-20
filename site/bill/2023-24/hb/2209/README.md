@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/19/2024 [House Democrats](/org/house_democrats/) - [Committee Passes Bill Recognizing Lunar New Year – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/19/committee-passes-bill-recognizing-lunar-new-year/#:~:text=House%20Bill%202209)
+
 ## Meetings
 ### Tue 01/16 01:30 PM - State Government & Tribal Relations (SGOV): HB 2209 Lunar new year
 #### 475 👍 - Pro

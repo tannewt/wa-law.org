@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5873/</link>
 		<description>Updates about SB 5873</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 15 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 19 Jan 2024 08:32:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -123,6 +123,14 @@
 			<pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-15/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>❓Barbara Posthumus - Lake Washington School District</title>
+			<description>Barbara Posthumus signed up to testify Other. They are signed up to represent Lake Washington School District.</description>
+			<pubDate>Fri, 19 Jan 2024 08:32:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Barbara/Posthumus/2024-01-19 08:32:02</guid>
 		</item>
 	</channel>
 </rss>

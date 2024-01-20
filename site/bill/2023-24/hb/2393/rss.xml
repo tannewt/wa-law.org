@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2393/</link>
 		<description>Updates about HB 2393</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 16 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 19 Jan 2024 10:46:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,22 @@
 			<pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-16/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>👍Brad Schuster - Aircraft Owners and Pilots Association (AOPA) / Northwest Mountain Regional Manager</title>
+			<description>Brad Schuster signed up to testify Pro. They are signed up to represent Aircraft Owners and Pilots Association (AOPA) / Northwest Mountain Regional Manager.</description>
+			<pubDate>Fri, 19 Jan 2024 02:50:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brad/Schuster/2024-01-19 02:50:37</guid>
+		</item>
+		<item>
+			<title>👍Chris Herman - Washington Public Ports Association</title>
+			<description>Chris Herman signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_public_ports_association/&quot;&gt;Washington Public Ports Association&lt;/a&gt;.</description>
+			<pubDate>Fri, 19 Jan 2024 10:46:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Chris/Herman/2024-01-19 10:46:49</guid>
 		</item>
 	</channel>
 </rss>

@@ -56,7 +56,7 @@
 
 ## [SB 5776](/bill/2023-24/sb/5776/) - Accessing an emergency supply of insulin. 👍1  
 
-## [SB 5912](/bill/2023-24/sb/5912/) - Concerning reentry services and supports. 👍1  
+## [SB 5912](/bill/2023-24/sb/5912/) - Reentry services & supports 👍1  
 
 ## [SB 5995](/bill/2023-24/sb/5995/) - Creating a professional license for spoken language interpreters and translators.   ❓1
 * ❓ Kate White Tudor

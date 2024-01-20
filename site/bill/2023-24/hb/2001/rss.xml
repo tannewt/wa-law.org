@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2001/</link>
 		<description>Updates about HB 2001</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 18 Jan 2024 04:12:07 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 20 Jan 2024 10:14:29 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -44,6 +44,61 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Larry/Jefferson/2024-01-18 04:12:07</guid>
+		</item>
+		<item>
+			<title>👍Kimonti Carter - Director, Washington State Office of Public Defense</title>
+			<description>Kimonti Carter signed up to testify Pro.</description>
+			<pubDate>Thu, 18 Jan 2024 05:31:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kimonti/Carter/2024-01-18 05:31:22</guid>
+		</item>
+		<item>
+			<title>👎Sam Spiegelman - Citizen Action Defense Fund</title>
+			<description>Sam Spiegelman signed up to testify Con. They are signed up to represent Citizen Action Defense Fund.</description>
+			<pubDate>Fri, 19 Jan 2024 04:17:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sam/Spiegelman/2024-01-19 04:17:32</guid>
+		</item>
+		<item>
+			<title>👍Sarah Leon - Director, Washington State Office of Public Defense</title>
+			<description>Sarah Leon signed up to testify Pro.</description>
+			<pubDate>Fri, 19 Jan 2024 05:43:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sarah/Leon/2024-01-19 05:43:26</guid>
+		</item>
+		<item>
+			<title>👍Charles Longshore - Director, Washington State Office of Public Defense</title>
+			<description>Charles Longshore signed up to testify Pro.</description>
+			<pubDate>Fri, 19 Jan 2024 11:29:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Charles/Longshore/2024-01-19 11:29:59</guid>
+		</item>
+		<item>
+			<title>👍Ralph Dunuan - Director, Washington State Office of Public Defense</title>
+			<description>Ralph Dunuan signed up to testify Pro.</description>
+			<pubDate>Fri, 19 Jan 2024 11:31:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ralph/Dunuan/2024-01-19 11:31:35</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans</title>
+			<description>News article &quot;The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Sat, 20 Jan 2024 00:04:24 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202001</guid>
+		</item>
+		<item>
+			<title>👍Maureen McKee - Director, Washington State Office of Public Defense</title>
+			<description>Maureen McKee signed up to testify Pro.</description>
+			<pubDate>Sat, 20 Jan 2024 10:14:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Maureen/McKee/2024-01-20 10:14:29</guid>
 		</item>
 	</channel>
 </rss>

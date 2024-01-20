@@ -63,7 +63,7 @@
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
 
-## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation  👎2 
+## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation  👎3 
 * 👎💵 Bruce Wishart
 
 ## [SB 5622](/bill/2023-24/sb/5622/) - Municipal water supply  👎1 

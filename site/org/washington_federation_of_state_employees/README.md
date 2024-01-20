@@ -80,6 +80,9 @@
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍2  
 
+## [HB 2323](/bill/2023-24/hb/2323/) - Rent payments/credit reports 👍1  
+* 👍💵 Nicole Gomez
+
 ## [HB 2325](/bill/2023-24/hb/2325/) - Legislative employees 👍1  ❓2
 * ❓ Kati Durkin
 
@@ -99,6 +102,8 @@
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1  
 
 ## [SB 5273](/bill/2023-24/sb/5273/) - Employee information/unions 👍1  
+
+## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍1  
 
 ## [SB 5650](/bill/2023-24/sb/5650/) - K-12 inflationary increases 👍1  
 
@@ -132,5 +137,7 @@
 
 ## [SB 6109](/bill/2023-24/sb/6109/) - Children and families   ❓1
 * ❓ Kati Durkin
+
+## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
 
 ## [SB 6194](/bill/2023-24/sb/6194/) - Legislative employees   ❓1

@@ -20,6 +20,8 @@
 
 ## [HB 1853](/bill/2023-24/hb/1853/) - Transportation resources 👍2  
 
+## [HB 2196](/bill/2023-24/hb/2196/) - Alcohol concentration/DUI 👍1  
+
 ## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras 👍1  
 
 ## [HB 2394](/bill/2023-24/hb/2394/) - SEPA/trails and paths 👍1  
@@ -39,7 +41,7 @@
 
 ## [SB 5272](/bill/2023-24/sb/5272/) - Speed safety cameras 👍1  
 
-## [SB 5383](/bill/2023-24/sb/5383/) - Pedestrians/roadways 👍1  
+## [SB 5383](/bill/2023-24/sb/5383/) - Pedestrians/roadways 👍2  
 
 ## [SB 5430](/bill/2023-24/sb/5430/) - Driver training/low-income 👍1  
 

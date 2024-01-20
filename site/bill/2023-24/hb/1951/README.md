@@ -8,21 +8,16 @@
 
 ## Meetings
 ### Fri 01/19 08:00 AM - Consumer Protection & Business (CPB): HB 1951 Algorithmic discrimination
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31662&aId=156578&caId=23135&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31662&aId=156578&caId=23135&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31662&aId=156578&caId=23135&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31662&aId=156578&caId=23135&tId=4)
-
-#### 33 👍 - Pro
+#### 36 👍 - Pro
 Testifying:
 * Robert Eleveld - Transparency Coalition.ai
 * Jai Jaisimha - Transparency Coalition
 * Emi Koyama - Coalition for Rights & Safety for People in the Sex Trade
 * Chirag Shah
 * Subhadra Vadlamannati - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* Natalie Johnson - Augmented Reality Transformation™
 
-#### 676 👎 - Con
+#### 707 👎 - Con
 Testifying:
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Ashley Sutton - TechNet
@@ -33,6 +28,8 @@ Testifying:
 * Robert (Bob) Battles - Association of Washington Business (AWB)
 * 💵Kelly Fukai - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
 * Brendan Donckers - Washington Employment Lawyers Ass'n (WELA)
+* Kris Tefft - Washington Liability Reform Coalition
+* Montana Miranda - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Christina Mason - [Washington Association of Drug Courts](/org/washington_association_of_drug_courts/)
 
 #### 9 ❓ - Other

@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31761&aId=157385&caId=23311&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31761&aId=157385&caId=23311&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Joe Verdoes
+* Aaron Dufault - WDFW
 
-#### 1 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Kyle Crews - Puget sound shrimp association
 

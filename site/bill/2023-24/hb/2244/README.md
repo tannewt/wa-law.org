@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202244)
+
 ## Meetings
 ### Tue 01/23 01:30 PM - Consumer Protection & Business (CPB): HB 2244 Retirement savings
 Sign up to testify:
@@ -14,11 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31707&aId=157043&caId=23484&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31707&aId=157043&caId=23484&tId=4)
 
-#### 2 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * 💵John Scott - [The Pew Charitable Trusts](/org/the_pew_charitable_trusts/)
 * Scott Baxter
+* 💵Aaron Keating - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* Mike Pelliciotti - State Treasurer
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

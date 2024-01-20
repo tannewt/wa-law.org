@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202001)
+
 ## Meetings
 ### Tue 01/23 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 2001 Sentence modification
 Sign up to testify:
@@ -14,11 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31769&aId=157320&caId=23503&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31769&aId=157320&caId=23503&tId=4)
 
-#### 9 👍 - Pro
+#### 97 👍 - Pro
 Testifying:
 * Andre Penalver
 * Larry Jefferson - Director, Washington State Office of Public Defense
+* Kimonti Carter
+* Sarah Leon
+* Charles Longshore
+* Ralph Dunuan
+* Maureen McKee
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Sam Spiegelman - Citizen Action Defense Fund
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

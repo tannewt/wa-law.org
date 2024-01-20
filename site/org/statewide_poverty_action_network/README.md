@@ -223,3 +223,6 @@
 ## [SB 5988](/bill/2023-24/sb/5988/) - Gift certificates/unclaimed 👍1  
 
 ## [SB 6025](/bill/2023-24/sb/6025/) - Predatory loans 👍1  
+
+## [SB 6135](/bill/2023-24/sb/6135/) - TANF transitional assistance 👍2  
+* 👍💵 Lianna Kressin

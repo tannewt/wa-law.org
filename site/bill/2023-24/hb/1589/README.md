@@ -71,9 +71,9 @@ Testifying:
 * Jessica Niekrasz - American Biogas Council
 
 ### Wed 03/15 08:00 AM - Environment, Energy & Technology (ENET): ESHB 1589 Clean energy
-#### 11 👍 - Pro
+#### 44 👍 - Pro
 
-#### 0 👎 - Con
+#### 71 👎 - Con
 
 #### 0 ❓ - Other
 

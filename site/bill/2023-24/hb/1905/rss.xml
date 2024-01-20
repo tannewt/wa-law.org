@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1905/</link>
 		<description>Updates about HB 1905</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 15 Jan 2024 18:37:01 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 19 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -129,6 +129,13 @@
 			<pubDate>Mon, 15 Jan 2024 18:37:01 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2024/01/15/nobles-bill-would-expand-wage-discrimination-protections-in-wa-equal-pay-opportunities-act/#:~:text=HB%201905</guid>
+		</item>
+		<item>
+			<title>LAWS - Executive action taken by committee.</title>
+			<description>LAWS - Executive action taken by committee.</description>
+			<pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-19/LAWS - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

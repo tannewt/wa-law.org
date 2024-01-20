@@ -64,6 +64,8 @@
 
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍1  
 
+## [SB 5383](/bill/2023-24/sb/5383/) - Pedestrians/roadways 👍1  
+
 ## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍6  
 * 👍 Sierra Suafoa-McClain
 * 👍 Deric Gruen

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2253/</link>
 		<description>Updates about HB 2253</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 16 Jan 2024 06:46:13 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 20 Jan 2024 01:59:57 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -134,6 +134,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Dave/Warren/2024-01-16 06:46:13</guid>
+		</item>
+		<item>
+			<title>2024 Quaker Voice Priorities — Quaker Voice</title>
+			<description>News article &quot;2024 Quaker Voice Priorities — Quaker Voice&quot; from Quaker Voice On Washington Public Policy.</description>
+			<pubDate>Sat, 20 Jan 2024 01:59:57 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.quakervoicewa.org/2024-quaker-voice-priorities/#:~:text=HB%202253</guid>
 		</item>
 	</channel>
 </rss>

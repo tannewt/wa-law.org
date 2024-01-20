@@ -17,12 +17,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31741&aId=157504&caId=23414&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31741&aId=157504&caId=23414&tId=4)
 
-#### 36 👍 - Pro
+#### 188 👍 - Pro
 Testifying:
 * Cathy Murahashi - The Arc of Washington
 * Marc Cote - Parkview Services
 * Scott Livengood - Alpha Supported Living
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* Shawn Latham - Self Advocates In Leadership
+* 💵Adrienne Stuart
+* Moses Perez
+* Robert Wardell
 
-#### 0 👎 - Con
+#### 60 👎 - Con
 
 #### 0 ❓ - Other

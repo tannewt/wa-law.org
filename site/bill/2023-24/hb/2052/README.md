@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31773&aId=157348&caId=23471&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31773&aId=157348&caId=23471&tId=4)
 
-#### 2 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Anna Bonjukian
+* Alexandra Johnson
 
 #### 0 👎 - Con
 

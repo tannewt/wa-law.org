@@ -8,16 +8,16 @@
 
 ## Meetings
 ### Fri 01/19 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2341 Offshore wind dev. study
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31630&aId=156999&caId=23286&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31630&aId=156999&caId=23286&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31630&aId=156999&caId=23286&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31630&aId=156999&caId=23286&tId=4)
+#### 36 👍 - Pro
+Testifying:
+* Dale Beasley - Coaliton of Coastal Fisheries and Columbia River Dungeness Crab Assn
+* 💵Brian Blake
 
-#### 29 👍 - Pro
+#### 317 👎 - Con
+Testifying:
+* Jeannette Mcchesney
 
-#### 26 👎 - Con
-
-#### 1 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Stephanie Harrington - College of the Environment - University of Washington
+* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)

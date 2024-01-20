@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202330)
+
 ## Meetings
 ### Wed 01/24 01:30 PM - Consumer Protection & Business (CPB): HB 2330 Wildfire protection
 Sign up to testify:

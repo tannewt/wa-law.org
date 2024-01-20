@@ -14,8 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31721&aId=157559&caId=23572&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31721&aId=157559&caId=23572&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Mary Curry - YES For Early Success
+* Jerred Michael Erickson - Chairman, Confederated Tribes of the Colville Reservation
+* 💵Michael Moran - Confederated Tribes of the Colville Reservation
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* David Linn - None
 
 #### 0 ❓ - Other

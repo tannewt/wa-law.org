@@ -65,6 +65,9 @@
 
 ## [HB 2119](/bill/2023-24/hb/2119/) - Medical debt garnishment 👍1  
 
+## [HB 2244](/bill/2023-24/hb/2244/) - Retirement savings 👍1  
+* 👍💵 Aaron Keating
+
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍2  

@@ -203,6 +203,8 @@
 ## [HB 2071](/bill/2023-24/hb/2071/) - Residential housing   ❓1
 * ❓💵 Paul Jewell
 
+## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍1  
+
 ## [HB 2105](/bill/2023-24/hb/2105/) - Instream resources   ❓1
 * ❓💵 Paul Jewell
 
@@ -224,8 +226,14 @@
 ## [HB 2211](/bill/2023-24/hb/2211/) - Criminal justice local tax   ❓1
 * ❓💵 Juliana Roe
 
+## [HB 2250](/bill/2023-24/hb/2250/) - Local elections   ❓1
+* ❓💵 Mike Hoover
+
 ## [HB 2258](/bill/2023-24/hb/2258/) - Regional 911 funding  👎1 
 * 👎💵 Mike Hoover
+
+## [HB 2307](/bill/2023-24/hb/2307/) - Public records reviews 👍1  
+* 👍💵 Mike Hoover
 
 ## [SB 5027](/bill/2023-24/sb/5027/) - American dream homes 👍1  
 * 👍💵 Paul Jewell
@@ -409,6 +417,8 @@
 ## [SB 6029](/bill/2023-24/sb/6029/) - Detached ADUs 👍1  
 * 👍💵 Paul Jewell
 
+## [SB 6079](/bill/2023-24/sb/6079/) - Juv. detention/health recs. 👍1  
+
 ## [SB 6120](/bill/2023-24/sb/6120/) - Wildland urban interface 👍1  
 * 👍💵 Paul Jewell
 
@@ -416,3 +426,12 @@
 * 👍💵 Travis Dutton
 
 ## [SB 6206](/bill/2023-24/sb/6206/) - Water system receivership 👍1  
+
+## [SB 6210](/bill/2023-24/sb/6210/) - Unlawful detainer actions 👍1  
+
+## [SB 6222](/bill/2023-24/sb/6222/) - District court judges 👍1  
+
+## [SB 6242](/bill/2023-24/sb/6242/) - Law enforcement training 👍1  
+* 👍💵 Juliana Roe
+
+## [SB 6251](/bill/2023-24/sb/6251/) - Behavioral crisis coord. 👍1  

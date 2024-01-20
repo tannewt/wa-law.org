@@ -16,6 +16,8 @@
 
 ## [HB 2138](/bill/2023-24/hb/2138/) - Outdoor learning/state parks 👍1  
 
+## [HB 2257](/bill/2023-24/hb/2257/) - Back country search & rescue 👍1  
+
 ## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍2  
 
 ## [SB 5247](/bill/2023-24/sb/5247/) - Climate-ready communities 👍1  
@@ -31,6 +33,6 @@
 
 ## [SB 5590](/bill/2023-24/sb/5590/) - Mt. St. Helens license plate 👍1  
 
-## [SB 5785](/bill/2023-24/sb/5785/) - Concerning department of fish and wildlife authority with regard to certain nonprofit and volunteer organizations. 👍1  
+## [SB 5785](/bill/2023-24/sb/5785/) - WDFW/volunteer organizations 👍1  
 
 ## [SB 5902](/bill/2023-24/sb/5902/) - Reinvesting account revenue for the purpose of supporting the state park system. 👍1  

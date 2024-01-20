@@ -34,5 +34,9 @@
 * 👍 Moses Perez
 * 👍 Moses Perez
 
+## [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation 👍2  
+* 👍 Khalid Sirad
+* 👍 Peter Musante
+
 ## [SB 6126](/bill/2023-24/sb/6126/) - Respite care 👍1  
 * 👍 Moses Perez

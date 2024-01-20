@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5184/</link>
 		<description>Updates about SB 5184</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 12 Jan 2024 06:22:57 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1108,6 +1108,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Chase/Buehler/2024-01-12 06:22:57</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-18/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

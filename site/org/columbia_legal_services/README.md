@@ -229,7 +229,7 @@
 
 ## [SB 5899](/bill/2023-24/sb/5899/) - Adding to the list of provisions prohibited from rental agreements. 👍1  
 
-## [SB 5912](/bill/2023-24/sb/5912/) - Concerning reentry services and supports. 👍1  
+## [SB 5912](/bill/2023-24/sb/5912/) - Reentry services & supports 👍1  
 
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍1  
 
@@ -244,3 +244,6 @@
 ## [SB 6063](/bill/2023-24/sb/6063/) - Persistent offenders 👍1  
 
 ## [SB 6166](/bill/2023-24/sb/6166/) - Pesticide application comm. 👍1  
+
+## [SB 6189](/bill/2023-24/sb/6189/) - Jail system 👍1  
+* 👍 Laurel Jones

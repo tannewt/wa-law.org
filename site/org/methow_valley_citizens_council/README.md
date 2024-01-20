@@ -46,6 +46,6 @@
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management 👍1  
 
-## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation  👎1 
+## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation  👎2 
 
 ## [SB 6113](/bill/2023-24/sb/6113/) - Community solar 👍1  

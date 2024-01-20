@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 01/11 08:00 AM - Law & Justice (LAW): SB 5825 Guardianship

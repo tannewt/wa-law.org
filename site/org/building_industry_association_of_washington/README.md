@@ -165,6 +165,8 @@
 ## [HB 2126](/bill/2023-24/hb/2126/) - Rural area ADUs 👍1  
 * 👍💵 Bill Stauffacher
 
+## [HB 2149](/bill/2023-24/hb/2149/) - Protecting consumer personal information.  👎1 
+
 ## [HB 2160](/bill/2023-24/hb/2160/) - Housing development  👎1 
 
 ## [HB 2236](/bill/2023-24/hb/2236/) - Tech. ed. core plus programs   ❓1

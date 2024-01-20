@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202158)
+
 ## Meetings
 ### Thu 01/25 08:00 AM - Housing (HOUS): HB 2158 Urban growth area boundaries
 Sign up to testify:
@@ -14,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31778&aId=157405&caId=23538&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31778&aId=157405&caId=23538&tId=4)
 
-#### 0 👍 - Pro
+#### 31 👍 - Pro
 
 #### 0 👎 - Con
 

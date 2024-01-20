@@ -4,3 +4,6 @@
 
 ## [HB 1503](/bill/2023-24/hb/1503/) - Health care licenses/info. 👍1  
 * 👍 LoLinda Turner
+
+## [SB 6097](/bill/2023-24/sb/6097/) - Dental services contracts 👍1  
+* 👍 Siobhan Whitney

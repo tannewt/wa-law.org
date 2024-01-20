@@ -12,6 +12,10 @@
 
 ## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍1  
 
+## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍1  
+
+## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍1  
+
 ## [SB 5036](/bill/2023-24/sb/5036/) - Audio-only telemedicine 👍1  
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  

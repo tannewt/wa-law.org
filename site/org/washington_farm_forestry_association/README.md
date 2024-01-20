@@ -27,3 +27,5 @@
 
 ## [SB 5673](/bill/2023-24/sb/5673/) - Forest practices board 👍1  
 * 👍 Ken Miller
+
+## [SB 6219](/bill/2023-24/sb/6219/) - Agritourism 👍1  

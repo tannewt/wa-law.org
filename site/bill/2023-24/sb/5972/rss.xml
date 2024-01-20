@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5972/</link>
 		<description>Updates about SB 5972</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 12 Jan 2024 18:02:19 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 19 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -178,6 +178,13 @@
 			<pubDate>Fri, 12 Jan 2024 18:02:19 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2024/01/12/liias-bill-will-keep-bees-safe-from-dangerous-pesticides/#:~:text=Senate%20Bill%205972</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-19/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

@@ -32,3 +32,6 @@
 ## [SB 5689](/bill/2023-24/sb/5689/) - Internet projects/tribes 👍2  
 * 👍 Tyson Johnston
 * 👍 Tyson Johnston
+
+## [SB 5818](/bill/2023-24/sb/5818/) - Authorizing an exemption to the seashore conservation area for a qualified infrastructure project. 👍1  
+* 👍 Tyson Johnston

@@ -17,7 +17,7 @@
 ## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍2  
 * 👍 Fred Felleman
 
-## [HB 1906](/bill/2023-24/hb/1906/) - Changing the vessel length requirement in obtaining nonresident vessel permits. 👍1  
+## [HB 1906](/bill/2023-24/hb/1906/) - Vessel length/nonresident 👍1  
 
 ## [HB 1912](/bill/2023-24/hb/1912/) - Requiring state agencies to share information to encourage economic development. 👍1  
 

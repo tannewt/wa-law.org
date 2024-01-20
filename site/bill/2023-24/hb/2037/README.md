@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202037)
+
 ## Meetings
 ### Tue 01/23 04:00 PM - Education (ED): HB 2037 Holocaust and genocide edu.
 Sign up to testify:
@@ -14,16 +17,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157548&caId=23564&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157548&caId=23564&tId=4)
 
-#### 1 👍 - Pro
+#### 44 👍 - Pro
+Testifying:
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 
-#### 5 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * Naveed Siddiqui
 * Ala Hassan
 * Leslie Maxwell
 * Oliver Miska - Washington Ethnic Studies Now
+* Zahid Chaudhry
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Luay Joudeh
 * Luay Joudeh
+* Rae Levine

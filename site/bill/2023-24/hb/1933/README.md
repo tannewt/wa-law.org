@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/20/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Quaker Voice Priorities — Quaker Voice](https://www.quakervoicewa.org/2024-quaker-voice-priorities/#:~:text=HB%201933)
+
 ## Meetings
 ### Fri 01/12 08:00 AM - Consumer Protection & Business (CPB): HB 1933 Digital electronics/repair
 #### 543 👍 - Pro

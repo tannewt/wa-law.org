@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31768&aId=157316&caId=23441&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31768&aId=157316&caId=23441&tId=4)
 
-#### 2 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Tom Ewell - Quaker Voice
 
 #### 0 👎 - Con
 

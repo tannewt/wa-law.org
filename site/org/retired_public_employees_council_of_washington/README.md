@@ -27,6 +27,8 @@
 
 ## [HB 2188](/bill/2023-24/hb/2188/) - Health subsidy/retirees 👍11  
 
+## [HB 2244](/bill/2023-24/hb/2244/) - Retirement savings 👍1  
+
 ## [SB 5169](/bill/2023-24/sb/5169/) - Medicare/health care plans 👍7  
 * 👍 Carol Dotlich
 * 👍 Matt Groshong
@@ -57,5 +59,7 @@
 ## [SB 5696](/bill/2023-24/sb/5696/) - PEBB/subdivision retirees 👍1  
 
 ## [SB 6000](/bill/2023-24/sb/6000/) - Military service credit 👍1  
+
+## [SB 6069](/bill/2023-24/sb/6069/) - Retirement savings 👍1  
 
 ## [SB 6094](/bill/2023-24/sb/6094/) - Retired health subsidy/PEBB   ❓1

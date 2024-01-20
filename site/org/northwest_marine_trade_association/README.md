@@ -7,7 +7,7 @@
 
 ## [HB 1510](/bill/2023-24/hb/1510/) - Community preservation auth.  👎1 
 
-## [HB 1906](/bill/2023-24/hb/1906/) - Changing the vessel length requirement in obtaining nonresident vessel permits. 👍2  
+## [HB 1906](/bill/2023-24/hb/1906/) - Vessel length/nonresident 👍2  
 * 👍 Roman Daniels-Brown
 
 ## [HB 1919](/bill/2023-24/hb/1919/) - Modifying the process by which a private moorage facility may sell an abandoned vessel for failure to pay moorage fees. 👍2  

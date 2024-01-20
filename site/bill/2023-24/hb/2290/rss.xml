@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2290/</link>
 		<description>Updates about HB 2290</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 10 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 20 Jan 2024 07:20:59 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,21 @@
 			<pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-10/First reading, referred to Environment &amp; Energy.</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans</title>
+			<description>News article &quot;The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Sat, 20 Jan 2024 00:04:24 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202290</guid>
+		</item>
+		<item>
+			<title>👎John Worthington - Quaker Voice</title>
+			<description>John Worthington signed up to testify Con.</description>
+			<pubDate>Sat, 20 Jan 2024 07:20:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/John/Worthington/2024-01-20 07:20:59</guid>
 		</item>
 	</channel>
 </rss>

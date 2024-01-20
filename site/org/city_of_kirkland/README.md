@@ -99,6 +99,8 @@
 
 ## [HB 2211](/bill/2023-24/hb/2211/) - Criminal justice local tax 👍1  
 
+## [HB 2308](/bill/2023-24/hb/2308/) - Existing structures/housing 👍1  
+
 ## [SB 5006](/bill/2023-24/sb/5006/) - Waiver of firearm rights 👍1  
 
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍2  
@@ -159,6 +161,8 @@
 
 ## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
 
+## [SB 5792](/bill/2023-24/sb/5792/) - Concerning the definition of multiunit residential buildings. 👍1  
+
 ## [SB 5823](/bill/2023-24/sb/5823/) - School district elections 👍1  
 
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
@@ -171,6 +175,10 @@
 
 ## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  
 
+## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
+
 ## [SB 6013](/bill/2023-24/sb/6013/) - Homeownership dev. tax ex. 👍1  
+
+## [SB 6030](/bill/2023-24/sb/6030/) - ADU tax exemptions 👍1  
 
 ## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍1  

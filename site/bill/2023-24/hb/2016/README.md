@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202016)
+
 ## Meetings
 ### Wed 01/24 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2016 Minors/contracts for housing
 Sign up to testify:
@@ -14,8 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31753&aId=157241&caId=23506&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31753&aId=157241&caId=23506&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
-#### 0 👎 - Con
+#### 17 👎 - Con
+Testifying:
+* Julie Barrett - Parent
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Karen Pillar - TeamChild
+* Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
+* Erin Shea McCann - Legal Counsel for Youth and Children (LCYC)

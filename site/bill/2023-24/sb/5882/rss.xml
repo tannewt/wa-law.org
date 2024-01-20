@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5882/</link>
 		<description>Updates about SB 5882</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 10 Jan 2024 17:56:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 19 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -217,6 +217,13 @@
 			<pubDate>Wed, 10 Jan 2024 17:56:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_0bc54d8e-aff4-11ee-ad96-c3e5190b03ba.html#:~:text=Senate%20Bill%205882</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-19/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

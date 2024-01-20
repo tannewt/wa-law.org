@@ -14,11 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31747&aId=157227&caId=23530&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31747&aId=157227&caId=23530&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 4 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * Joe Kunzler
 * Arthur West
+* Katherine George - WA Coalition for Open Government
+* Juli Bunting - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)
+* John Worthington
 
 #### 0 ❓ - Other

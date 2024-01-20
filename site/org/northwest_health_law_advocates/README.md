@@ -32,6 +32,8 @@
 ## [HB 1850](/bill/2023-24/hb/1850/) - Hospital safety net program   ❓1
 * ❓💵 Emily Brice
 
+## [HB 1859](/bill/2023-24/hb/1859/) - Concerning the rights of residents in long-term care facilities. 👍1  
+
 ## [HB 1957](/bill/2023-24/hb/1957/) - Preventive service coverage 👍1  
 * 👍💵 Emily Brice
 
@@ -85,3 +87,5 @@
 
 ## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍1  
 * 👍💵 Emily Brice
+
+## [SB 6144](/bill/2023-24/sb/6144/) - Prescribing psychologists 👍1  

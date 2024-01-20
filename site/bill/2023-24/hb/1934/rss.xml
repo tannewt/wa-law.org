@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1934/</link>
 		<description>Updates about HB 1934</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 18 Jan 2024 12:46:26 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 20 Jan 2024 00:58:55 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -134,12 +134,35 @@
 			<guid isPermaLink="false">testifier/Matthew/Lenz/2024-01-18 09:14:47</guid>
 		</item>
 		<item>
+			<title>👍Susanna Jones - BSA | The Software Association</title>
+			<description>Susanna Jones signed up to testify Pro.</description>
+			<pubDate>Thu, 18 Jan 2024 09:15:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Susanna/Jones/2024-01-18 09:15:03</guid>
+		</item>
+		<item>
 			<title>❓💵Nicole Gomez - Washington Federation of State Employees</title>
 			<description>Nicole Gomez signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_federation_of_state_employees/&quot;&gt;Washington Federation of State Employees&lt;/a&gt;. They are a registered lobbyist.</description>
 			<pubDate>Thu, 18 Jan 2024 12:46:26 GMT</pubDate>
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Nicole/Gomez/2024-01-18 12:46:26</guid>
+		</item>
+		<item>
+			<title>❓Montana Miranda - Washington Hospitality Association</title>
+			<description>Montana Miranda signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_hospitality_association/&quot;&gt;Washington Hospitality Association&lt;/a&gt;.</description>
+			<pubDate>Fri, 19 Jan 2024 01:33:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Montana/Miranda/2024-01-19 01:33:44</guid>
+		</item>
+		<item>
+			<title>AI, guns, and initiatives: highlights from Week 2 of Washington's 2024 legislative session | Northwest News Network</title>
+			<description>News article &quot;AI, guns, and initiatives: highlights from Week 2 of Washington's 2024 legislative session | Northwest News Network&quot; from NW News Network.</description>
+			<pubDate>Sat, 20 Jan 2024 00:58:55 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.nwnewsnetwork.org/government-and-politics/2024-01-19/ai-guns-and-initiatives-highlights-from-week-2-of-washingtons-2024-legislative-session#:~:text=House%20Bill%201934</guid>
 		</item>
 	</channel>
 </rss>

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 01/19 08:00 AM - Health & Long Term Care (HLTC): SB 6144 Prescribing psychologists
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31648&aId=156869&caId=23075&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31648&aId=156869&caId=23075&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31648&aId=156869&caId=23075&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31648&aId=156869&caId=23075&tId=4)
-
-#### 557 👍 - Pro
+#### 575 👍 - Pro
 Testifying:
 * Shantaa Watkins
 * Liliana Baciuc
@@ -28,7 +22,7 @@ Testifying:
 * Jocelynn McLaughlin
 * Phillip Hughes
 
-#### 908 👎 - Con
+#### 998 👎 - Con
 Testifying:
 * Robin Berger - Washington State Psychiatric Association
 * Breck Lebegue
@@ -61,9 +55,11 @@ Testifying:
 * Dawn Sonntag - Family Alliance for Mental Health
 * Deborah Johnson - Washington State Urology Society
 * Susanna Jones
+* Lelach Rave - WA Chapter of the American Academy of Pediatrics
 * Thomas Soeprono - Washington State Psychiatric Association
 * Marsha Haley - Physicians for Patient Protection
+* JD, Jennifer Piel MD
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Shawna Fox - AVAILABLE FOR QUESTIONS: Washington State Department of Health

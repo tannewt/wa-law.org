@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/16 10:30 AM - Law & Justice (LAW): SB 6006 Victims of human trafficking

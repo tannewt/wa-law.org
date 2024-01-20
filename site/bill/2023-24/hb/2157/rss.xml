@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2157/</link>
 		<description>Updates about HB 2157</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 12 Jan 2024 05:41:57 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 19 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2024-01-05/Prefiled for introduction.</guid>
 		</item>
 		<item>
-			<title>👎Natalie Chavez - Seattle Children's Hospital</title>
+			<title>👎Natalie Chavez - WSALPHO</title>
 			<description>Natalie Chavez signed up to testify Con.</description>
 			<pubDate>Sun, 07 Jan 2024 04:37:44 GMT</pubDate>
 			<category>testifier</category>
@@ -142,6 +142,14 @@
 			<guid isPermaLink="false">testifier/Hugh/Ewart/2024-01-11 08:38:56</guid>
 		</item>
 		<item>
+			<title>👍💵Jaime Bodden - WSALPHO</title>
+			<description>Jaime Bodden signed up to testify Pro. They are signed up to represent WSALPHO. They are a registered lobbyist.</description>
+			<pubDate>Thu, 11 Jan 2024 08:38:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jaime/Bodden/2024-01-11 08:38:56</guid>
+		</item>
+		<item>
 			<title>👎Bob Runnells - Informed Choice Washington</title>
 			<description>Bob Runnells signed up to testify Con. They are signed up to represent Informed Choice Washington.</description>
 			<pubDate>Thu, 11 Jan 2024 09:11:57 GMT</pubDate>
@@ -156,6 +164,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Bob/Rogers/2024-01-12 05:41:57</guid>
+		</item>
+		<item>
+			<title>HCW - Executive action taken by committee.</title>
+			<description>HCW - Executive action taken by committee.</description>
+			<pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-19/HCW - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

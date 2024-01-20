@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Fri 01/12 08:00 AM - Health Care & Wellness (HCW): HB 2157 Vaccine definition
-#### 366 👍 - Pro
+#### 367 👍 - Pro
 Testifying:
 * 💵Hugh Ewart - Seattle Children's
 * Janna Bardi
@@ -21,6 +21,7 @@ Testifying:
 * Bodden Jaime - WSALPHO
 * Dr. John Dunn - Washington Chapter of the American Academy of Pediatrics & Washington Vaccine Association
 * 💵Hugh Ewart - [Seattle Children's Hospital](/org/seattle_children's_hospital/)
+* 💵Jaime Bodden - WSALPHO
 
 #### 631 👎 - Con
 Testifying:

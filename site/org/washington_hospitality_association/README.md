@@ -89,7 +89,13 @@
 ## [HB 1900](/bill/2023-24/hb/1900/) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system.   ❓1
 * ❓💵 Samantha Louderback
 
+## [HB 1934](/bill/2023-24/hb/1934/) - AI task force   ❓1
+* ❓ Montana Miranda
+
 ## [HB 1940](/bill/2023-24/hb/1940/) - Employer political speech  👎1 
+* 👎 Montana Miranda
+
+## [HB 1951](/bill/2023-24/hb/1951/) - Algorithmic discrimination  👎1 
 * 👎 Montana Miranda
 
 ## [HB 1959](/bill/2023-24/hb/1959/) - Extending parts of the paid family and medical leave program to employers with fewer than 50 employees.  👎1 
@@ -114,9 +120,14 @@
 ## [HB 2144](/bill/2023-24/hb/2144/) - Providing for a deposit return program for qualifying beverage containers to be implemented by a distributor responsibility organization.  👎1 
 * 👎💵 Samantha Louderback
 
+## [HB 2149](/bill/2023-24/hb/2149/) - Protecting consumer personal information.   ❓1
+
 ## [HB 2211](/bill/2023-24/hb/2211/) - Criminal justice local tax 👍1  
 
 ## [HB 2231](/bill/2023-24/hb/2231/) - Law enforcement funding 👍1  
+
+## [HB 2277](/bill/2023-24/hb/2277/) - Data brokering  👎1 
+* 👎 Montana Miranda
 
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI  👎1 
 * 👎💵 Julia Gorton

@@ -96,6 +96,8 @@
 ## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage 👍1  
 * 👍 Skippy Shaw
 
+## [HB 2243](/bill/2023-24/hb/2243/) - Social equity land trust 👍1  
+
 ## [HB 2253](/bill/2023-24/hb/2253/) - Community solar 👍1  
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍2  

@@ -16,8 +16,10 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 1 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Scott Goodrich - Port of Vancouver USA
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Steve Stuart - City Manager, City of Ridgefield
 
 #### 0 ❓ - Other

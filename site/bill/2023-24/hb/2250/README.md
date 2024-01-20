@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202250)
 * 01/16/2024 [Sightline Institute](/org/sightline_institute/) - [Washingtonians May Get a Democracy Upgrade in 2024 - Sightline Institute](https://www.sightline.org/2024/01/16/washingtonians-may-get-a-democracy-upgrade-in-2024/#:~:text=HB%202250)
 
 ## Meetings
@@ -17,13 +18,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31747&aId=157226&caId=23529&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31747&aId=157226&caId=23529&tId=4)
 
-#### 247 👍 - Pro
+#### 717 👍 - Pro
 Testifying:
 * Cindy Madigan - League of Women Voters of Washington
 * 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
 
-#### 5 👎 - Con
+#### 356 👎 - Con
 Testifying:
 * Cemal Richards
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

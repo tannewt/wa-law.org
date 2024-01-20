@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 01/19 10:30 AM - Housing (HSG): SB 6059 Mobile home community sales
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31629&aId=156450&caId=23082&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31629&aId=156450&caId=23082&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31629&aId=156450&caId=23082&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31629&aId=156450&caId=23082&tId=4)
-
-#### 13 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Victoria OBanion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
 * 💵Mike Hoover - [Detente Management](/org/detente_management/)

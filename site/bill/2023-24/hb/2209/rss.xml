@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2209/</link>
 		<description>Updates about HB 2209</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 16 Jan 2024 10:23:44 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 19 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -70,6 +70,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Iris/Deng/2024-01-16 10:23:44</guid>
+		</item>
+		<item>
+			<title>SGOV - Executive action taken by committee.</title>
+			<description>SGOV - Executive action taken by committee.</description>
+			<pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-19/SGOV - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Committee Passes Bill Recognizing Lunar New Year – Washington State House Democrats</title>
+			<description>News article &quot;Committee Passes Bill Recognizing Lunar New Year – Washington State House Democrats&quot; from House Democrats.</description>
+			<pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/01/19/committee-passes-bill-recognizing-lunar-new-year/#:~:text=House%20Bill%202209</guid>
 		</item>
 	</channel>
 </rss>

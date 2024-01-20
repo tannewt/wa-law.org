@@ -78,3 +78,6 @@
 ## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍1  
 
 ## [SB 5883](/bill/2023-24/sb/5883/) - Concerning the burden of proof for special education due process hearings. 👍1  
+
+## [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation  👎1 
+* 👎 Eric Holzapfel

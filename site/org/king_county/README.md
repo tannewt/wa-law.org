@@ -339,6 +339,8 @@
 
 ## [HB 2054](/bill/2023-24/hb/2054/) - Concerning bulk purchases and transfers of firearms. 👍1  
 
+## [HB 2065](/bill/2023-24/hb/2065/) - Recalculating sentencing ranges for currently incarcerated individuals whose offender score was increased by juvenile convictions. 👍1  
+
 ## [HB 2073](/bill/2023-24/hb/2073/) - Concerning emissions of greenhouse gases from sources other than methane and carbon dioxide. 👍1  
 
 ## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍1  
@@ -381,6 +383,8 @@
 
 ## [HB 2297](/bill/2023-24/hb/2297/) - Solar energy systems/schools 👍1  
 
+## [HB 2361](/bill/2023-24/hb/2361/) - Standardized health plans 👍1  
+
 ## [HB 2368](/bill/2023-24/hb/2368/) - Refugee & immigrant assist. 👍1  
 * 👍 Michael Padilla Ocampo
 
@@ -410,7 +414,7 @@
 
 ## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍1  
 
-## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍2  
+## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍3  
 
 ## [SB 5100](/bill/2023-24/sb/5100/) - Breast & chest wall surgery 👍1  
 
@@ -679,5 +683,7 @@
 ## [SB 6144](/bill/2023-24/sb/6144/) - Prescribing psychologists 👍1  
 
 ## [SB 6163](/bill/2023-24/sb/6163/) - Biosolids 👍1  
+
+## [SB 6220](/bill/2023-24/sb/6220/) - High THC cannabis products 👍1  
 
 ## [SJR 8201](/bill/2023-24/sjr/8201/) - Public works account 👍1  

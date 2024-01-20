@@ -21,6 +21,8 @@
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
+## [HB 2331](/bill/2023-24/hb/2331/) - Public school materials 👍1  
+
 ## [SB 5174](/bill/2023-24/sb/5174/) - Student transportation 👍3  
 
 ## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I 👍4  
@@ -39,3 +41,9 @@
 ## [SB 5650](/bill/2023-24/sb/5650/) - K-12 inflationary increases 👍2  
 
 ## [SB 6014](/bill/2023-24/sb/6014/) - Special education cap 👍2  
+
+## [SB 6082](/bill/2023-24/sb/6082/) - Paraeducator compensation 👍1  
+
+## [SB 6123](/bill/2023-24/sb/6123/) - Classified school employees 👍1  
+
+## [SB 6208](/bill/2023-24/sb/6208/) - Public school materials 👍1  

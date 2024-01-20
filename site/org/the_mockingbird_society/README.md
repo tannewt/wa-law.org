@@ -34,6 +34,9 @@
 
 ## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍1  
 
+## [HB 2016](/bill/2023-24/hb/2016/) - Allowing certain minors to contract for housing and utilities.   ❓1
+* ❓ Charles Smith
+
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
 * ❓ Charles Smith
 
@@ -45,6 +48,8 @@
 * 👍 Charles Smith
 
 ## [HB 2251](/bill/2023-24/hb/2251/) - Unenforceable LFOs 👍1  
+
+## [HB 2342](/bill/2023-24/hb/2342/) - Dependent youth financial ed 👍3  
 
 ## [SB 5124](/bill/2023-24/sb/5124/) - Nonrelative kin placement 👍1  
 
@@ -64,7 +69,7 @@
 
 ## [SB 5543](/bill/2023-24/sb/5543/) - Sexual offenses by youth 👍1  
 
-## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍4  
+## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍7  
 * 👍 Sam Martin
 
 ## [SB 5644](/bill/2023-24/sb/5644/) - Juvenile records 👍3  

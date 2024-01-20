@@ -30,6 +30,8 @@
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
 * ❓💵 John Ficker
 
+## [HB 2347](/bill/2023-24/hb/2347/) - Adult family home info. 👍3  
+
 ## [SB 5103](/bill/2023-24/sb/5103/) - Medicaid patients/discharge 👍1  
 
 ## [SB 5147](/bill/2023-24/sb/5147/) - A/C in adult family homes 👍1  

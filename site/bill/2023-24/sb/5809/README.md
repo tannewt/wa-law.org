@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/11/2024 [The Center Square](/org/the_center_square/) - [Charter school supporters again asking Washington lawmakers for equal funding | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ae2e81c6-b0c1-11ee-ba16-3f826e4811a2.html#:~:text=Senate%20Bill%205809.)

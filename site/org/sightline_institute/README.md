@@ -83,6 +83,8 @@
 ## [HB 2160](/bill/2023-24/hb/2160/) - Housing development   ❓1
 * ❓💵 Dan Bertolet
 
+## [HB 2219](/bill/2023-24/hb/2219/) - Affordable housing/tax ex. 👍1  
+
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍1  
 
 ## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍2  

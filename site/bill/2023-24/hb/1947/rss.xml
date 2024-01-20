@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1947/</link>
 		<description>Updates about HB 1947</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 10 Jan 2024 10:09:49 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 19 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -52,6 +52,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Axel/Rowe/2024-01-10 10:09:49</guid>
+		</item>
+		<item>
+			<title>SGOV - Executive action taken by committee.</title>
+			<description>SGOV - Executive action taken by committee.</description>
+			<pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-19/SGOV - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

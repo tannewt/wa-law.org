@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2287/</link>
 		<description>Updates about HB 2287</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 10 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 19 Jan 2024 01:26:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,14 @@
 			<pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-10/First reading, referred to Community Safety, Justice, &amp; Reentry.</guid>
+		</item>
+		<item>
+			<title>👍Tom Ewell - Quaker Voice</title>
+			<description>Tom Ewell signed up to testify Pro. They are signed up to represent Quaker Voice.</description>
+			<pubDate>Fri, 19 Jan 2024 01:26:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tom/Ewell/2024-01-19 01:26:02</guid>
 		</item>
 	</channel>
 </rss>

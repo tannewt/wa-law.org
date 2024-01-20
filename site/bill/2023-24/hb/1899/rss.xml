@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1899/</link>
 		<description>Updates about HB 1899</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 20 Jan 2024 00:04:24 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,29 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Local Government.</guid>
+		</item>
+		<item>
+			<title>👍Josh Kerns - Spokane County</title>
+			<description>Josh Kerns signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/spokane_county/&quot;&gt;Spokane County&lt;/a&gt;.</description>
+			<pubDate>Fri, 19 Jan 2024 04:00:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Josh/Kerns/2024-01-19 04:00:11</guid>
+		</item>
+		<item>
+			<title>❓Todd Myers - Washington Policy Center</title>
+			<description>Todd Myers signed up to testify Other. They are signed up to represent Washington Policy Center.</description>
+			<pubDate>Fri, 19 Jan 2024 04:38:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Todd/Myers/2024-01-19 04:38:48</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans</title>
+			<description>News article &quot;The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Sat, 20 Jan 2024 00:04:24 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%201899</guid>
 		</item>
 	</channel>
 </rss>

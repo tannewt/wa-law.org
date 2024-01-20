@@ -39,9 +39,10 @@
 ## [HB 2207](/bill/2023-24/hb/2207/) - Solid waste dumping   ❓1
 * ❓ Brian Considine
 
-## [HB 2243](/bill/2023-24/hb/2243/) - Social equity land trust 👍2  
+## [HB 2243](/bill/2023-24/hb/2243/) - Social equity land trust 👍3  
 * 👍 Hilary Franz
 * 👍 Ryan Murphy
+* 👍 Duane Emmons
 
 ## [HB 2273](/bill/2023-24/hb/2273/) - Functional recovery building 👍1  
 * 👍 Corina Allen

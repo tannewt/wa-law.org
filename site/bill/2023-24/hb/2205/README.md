@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/20/2024 [NW News Network](/org/nw_news_network/) - [AI, guns, and initiatives: highlights from Week 2 of Washington's 2024 legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-19/ai-guns-and-initiatives-highlights-from-week-2-of-washingtons-2024-legislative-session#:~:text=House%20Bill%202205)
+* 01/19/2024 [The Center Square](/org/the_center_square/) - [Washington bill would protect signature gatherers from harassment | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_679bc772-b6fd-11ee-afcb-8f9c76b1adef.html#:~:text=House%20Bill%202205)
+
 ## Meetings
 ### Wed 01/17 01:30 PM - State Government & Tribal Relations (SGOV): HB 2205 Signature gathering/protests
 #### 144 👍 - Pro

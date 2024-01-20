@@ -77,7 +77,7 @@
 
 ## [HB 1670](/bill/2023-24/hb/1670/) - Property tax limit factor 👍2  
 
-## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  
+## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍2  
 
 ## [HB 1790](/bill/2023-24/hb/1790/) - Cannabis social equity 👍1  
 * 👍 Councilmember Keith Blocker
@@ -94,7 +94,9 @@
 
 ## [HB 2012](/bill/2023-24/hb/2012/) - Concerning eligibility for a property tax exemption for nonprofits providing affordable rental housing built with city and county funds. 👍1  
 
-## [HB 2086](/bill/2023-24/hb/2086/) - Updating processes of the office of independent investigations by changing authority to obtain and share investigative information and aligning with current operations and practices. 👍1  
+## [HB 2086](/bill/2023-24/hb/2086/) - Office of indep. invest. 👍1  
+
+## [HB 2322](/bill/2023-24/hb/2322/) - Child care/tax preferences 👍1  
 
 ## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras 👍1  
 * 👍💵 Briahna Murray
@@ -109,6 +111,8 @@
 ## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍3  
 * 👍 City Council, Keith Blocker
 * 👍 Keith Blocker Tacoma City Council
+
+## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
 
 ## [SB 5118](/bill/2023-24/sb/5118/) - Multifamily property tax ex.   ❓1
 
@@ -160,9 +164,13 @@
 
 ## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
 
+## [SB 5792](/bill/2023-24/sb/5792/) - Concerning the definition of multiunit residential buildings. 👍1  
+
 ## [SB 5817](/bill/2023-24/sb/5817/) - Economic development info. 👍1  
 
 ## [SB 5924](/bill/2023-24/sb/5924/) - Concerning access to personnel records   ❓1
 
 ## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  
 * 👍💵 Briahna Murray
+
+## [SB 6242](/bill/2023-24/sb/6242/) - Law enforcement training 👍1  

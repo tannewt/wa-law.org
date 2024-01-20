@@ -29,6 +29,8 @@
 ## [HB 2296](/bill/2023-24/hb/2296/) - Comprehensive plan revisions 👍1  
 * 👍 Rebecca Kennedy
 
+## [HB 2354](/bill/2023-24/hb/2354/) - Tax increment areas  👎1 
+
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍2  
 
 ## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
@@ -42,5 +44,9 @@
 
 ## [SB 5539](/bill/2023-24/sb/5539/) - Tax increment financing 👍1  
 
+## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
+
 ## [SB 6150](/bill/2023-24/sb/6150/) - Comprehensive plan revisions 👍1  
 * 👍 Rebecca Kennedy
+
+## [SB 6230](/bill/2023-24/sb/6230/) - Tax increment areas  👎1 

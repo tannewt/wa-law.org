@@ -315,6 +315,12 @@
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 * 👍💵 Carl Schroeder
 
+## [HB 2307](/bill/2023-24/hb/2307/) - Public records reviews 👍1  
+* 👍💵 Candice Bock
+
+## [HB 2354](/bill/2023-24/hb/2354/) - Tax increment areas  👎1 
+* 👎💵 Candice Bock
+
 ## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras 👍1  
 * 👍 Brandy DeLange
 
@@ -582,16 +588,27 @@
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development  👎1 
 * 👎💵 Carl Schroeder
 
+## [SB 6040](/bill/2023-24/sb/6040/) - Public works payments   ❓1
+* ❓ Brandy DeLange
+
 ## [SB 6061](/bill/2023-24/sb/6061/) - Housing development/SEPA   ❓1
 * ❓💵 Carl Schroeder
 
 ## [SB 6105](/bill/2023-24/sb/6105/) - Adult entertainment workers   ❓1
 * ❓💵 Lindsey Hueer
 
+## [SB 6146](/bill/2023-24/sb/6146/) - Tribal warrants   ❓1
+
 ## [SB 6158](/bill/2023-24/sb/6158/) - Public facilities districts 👍1  
 
 ## [SB 6167](/bill/2023-24/sb/6167/) - Local government procurement 👍1  
 * 👍 Brandy DeLange
+
+## [SB 6202](/bill/2023-24/sb/6202/) - Tourism promotion exemptions 👍1  
+* 👍💵 Candice Bock
+
+## [SB 6230](/bill/2023-24/sb/6230/) - Tax increment areas  👎1 
+* 👎💵 Candice Bock
 
 ## [SB 6242](/bill/2023-24/sb/6242/) - Law enforcement training 👍1  
 * 👍💵 Lindsey Hueer

@@ -13,4 +13,4 @@
 ## [SB 5314](/bill/2023-24/sb/5314/) - Electric bicycle use  👎1 
 * 👎 Yvonne Kraus
 
-## [SB 5785](/bill/2023-24/sb/5785/) - Concerning department of fish and wildlife authority with regard to certain nonprofit and volunteer organizations. 👍1  
+## [SB 5785](/bill/2023-24/sb/5785/) - WDFW/volunteer organizations 👍1  

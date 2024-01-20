@@ -153,6 +153,8 @@
 
 ## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍1  
 
+## [HB 1934](/bill/2023-24/hb/1934/) - AI task force 👍1  
+
 ## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍1  
 
 ## [HB 1945](/bill/2023-24/hb/1945/) - Streamlining and enhancing program access for persons eligible for food assistance. 👍1  
@@ -191,6 +193,8 @@
 ## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍1  
 
 ## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍1  
+
+## [HB 2145](/bill/2023-24/hb/2145/) - Concerning medically necessary treatment of a mental health or substance use disorder. 👍1  
 
 ## [HB 2172](/bill/2023-24/hb/2172/) - Vacant state agency property 👍1  
 
@@ -347,6 +351,9 @@
 ## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍1  
 
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development 👍1  
+
+## [SB 6040](/bill/2023-24/sb/6040/) - Public works payments 👍1  
+* 👍 Miguel Beltran
 
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  
 

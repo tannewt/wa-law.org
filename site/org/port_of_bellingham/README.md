@@ -6,7 +6,7 @@
 
 ## [HB 1267](/bill/2023-24/hb/1267/) - Rural public facilities/tax 👍1  
 
-## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  
+## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍2  
 * 👍 Gina Stark
 
 ## [HB 1982](/bill/2023-24/hb/1982/) - Broadband loans & grants 👍1  

@@ -6,15 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/20/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Quaker Voice Priorities — Quaker Voice](https://www.quakervoicewa.org/2024-quaker-voice-priorities/#:~:text=SB%206113)
+
 ## Meetings
 ### Fri 01/19 08:00 AM - Environment, Energy & Technology (ENET): SB 6113 Community solar
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31681&aId=156950&caId=23269&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31681&aId=156950&caId=23269&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31681&aId=156950&caId=23269&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31681&aId=156950&caId=23269&tId=4)
-
-#### 507 👍 - Pro
+#### 566 👍 - Pro
 Testifying:
 * 💵Mason Rolph - [Olympia Community Solar](/org/olympia_community_solar/)
 * Derek Chernow - [Coalition for Community Solar Access](/org/coalition_for_community_solar_access/)
@@ -23,9 +20,12 @@ Testifying:
 * Don Steinke - Climate Action of Southwest Washington
 * TERRY NELSON - Skagit Valley Clean Energy Cooperative
 * Bailey Cunningham
+* Rachel Schmidt - Homes First
 * Bill Garry
+* Dean ENELL - Whidbey Climate Action
+* Rep. Hackney
 
-#### 12 👎 - Con
+#### 18 👎 - Con
 Testifying:
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Cassie Bordelon - [Puget Sound Energy](/org/puget_sound_energy_inc/)
@@ -35,4 +35,4 @@ Testifying:
 * Dever Haffner-Ratliffe - Cowlitz PUD
 * 💵Nicolas Garcia - WA PUD Association
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

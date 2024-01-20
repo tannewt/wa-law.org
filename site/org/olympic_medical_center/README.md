@@ -1,5 +1,7 @@
 # Olympic Medical Center
 
+## [HB 2065](/bill/2023-24/hb/2065/) - Recalculating sentencing ranges for currently incarcerated individuals whose offender score was increased by juvenile convictions. 👍1  
+
 ## [HB 2066](/bill/2023-24/hb/2066/) - Health provider contracting  👎1 
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍4 👎3 

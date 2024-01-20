@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/19/2024 [House Democrats](/org/house_democrats/) - [Fey bill aims to retain experienced Washington State Patrol troopers – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/19/fey-bill-aims-to-retain-experienced-washington-state-patrol-troopers/#:~:text=House%20Bill%202357)
+
 ## Meetings
 ### Mon 01/22 04:00 PM - Transportation (TR): HB 2357 State patrol longevity bonus
 Sign up to testify:
@@ -18,6 +21,6 @@ Sign up to testify:
 Testifying:
 * spike Unruh - Washington State Patrol Troopers Association
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

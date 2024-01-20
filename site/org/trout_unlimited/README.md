@@ -22,7 +22,7 @@
 ## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation  👎1 
 * 👎💵 Alexei Calambokidis
 
-## [SB 5785](/bill/2023-24/sb/5785/) - Concerning department of fish and wildlife authority with regard to certain nonprofit and volunteer organizations. 👍1  
+## [SB 5785](/bill/2023-24/sb/5785/) - WDFW/volunteer organizations 👍1  
 
 ## [SB 5846](/bill/2023-24/sb/5846/) - Beaver ecosystem management 👍2  
 

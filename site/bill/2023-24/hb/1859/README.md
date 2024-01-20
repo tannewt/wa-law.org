@@ -7,14 +7,21 @@
 * [Original Bill](1/)
 
 ## Meetings
-### Fri 01/19 08:00 AM - Health Care & Wellness (HCW): HB 1859 Long-term care residents
+### Tue 01/23 01:30 PM - Health Care & Wellness (HCW): HB 1859 Long-term care residents
 Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31660&aId=156716&caId=23176&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31660&aId=156716&caId=23176&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31660&aId=156716&caId=23176&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31660&aId=156716&caId=23176&tId=4)
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31704&aId=157710&caId=23598&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31704&aId=157710&caId=23598&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31704&aId=157710&caId=23598&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31704&aId=157710&caId=23598&tId=4)
 
-#### 1016 👍 - Pro
+#### 8 👍 - Pro
+
+#### 141 👎 - Con
+
+#### 0 ❓ - Other
+
+### Fri 01/19 08:00 AM - Health Care & Wellness (HCW): HB 1859 Long-term care residents
+#### 1123 👍 - Pro
 Testifying:
 * 💵Joanna Grist - AARP
 * 💵Patricia Hunter - WA State Long Term Care Ombuds
@@ -23,8 +30,10 @@ Testifying:
 * Nola Sterling
 * Susan Harter
 * 💵Brad Forbes - Alzheimer's Association
+* Cathy MacCaul - AARP Washington State
+* robert wardell - self adovates
 
-#### 1487 👎 - Con
+#### 1615 👎 - Con
 Testifying:
 * Carin Marney - Lane Powell PC
 * Carma Matti-Jackson - [Washington Health Care Association](/org/washington_health_care_association/)
@@ -34,7 +43,11 @@ Testifying:
 * Nikki Storms - Chehalis West Assisted Living
 * Nicholas Karino
 * Nicholas Karino
+* Bereket Tameru
+* Senkensh Gebreselase - Brook AFH
+* Tameru Tadesse
+* Samson Woldemedhin
 
-#### 74 ❓ - Other
+#### 79 ❓ - Other
 Testifying:
 * Miranda Calmjoy - WA State Board of Health

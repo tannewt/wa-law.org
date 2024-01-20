@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31776&aId=157401&caId=23433&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31776&aId=157401&caId=23433&tId=4)
 
-#### 3 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * Scott Bonjukian
 

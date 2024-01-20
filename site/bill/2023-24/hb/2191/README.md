@@ -14,7 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31710&aId=157065&caId=23446&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31710&aId=157065&caId=23446&tId=4)
 
-#### 1 👍 - Pro
+#### 16 👍 - Pro
+Testifying:
+* Harry Kiick
+* Judy Jones
+* Kristina Sawyckyj
+* Lindsey Schromen-Wawrin
+* Amin "Tony" Hester
+* 💵Anna Zivarts - [Disability Rights Washington](/org/disability_rights_washington/)
+* Kris Colcock
+* Kyle Parrish
+* Joe Kunzler
 
 #### 0 👎 - Con
 

@@ -15,9 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31738&aId=157497&caId=23326&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31738&aId=157497&caId=23326&tId=4)
 
-#### 1 👍 - Pro
+#### 6 👍 - Pro
 
-#### 0 👎 - Con
+#### 9 👎 - Con
+Testifying:
+* Trish Rolfe - [Center for Environmental Law & Policy](/org/center_for_environmental_law_&_policy/)
 
 #### 0 ❓ - Other
 

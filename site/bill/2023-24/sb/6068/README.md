@@ -19,3 +19,18 @@ Sign up to testify:
 #### 0 👎 - Con
 
 #### 0 ❓ - Other
+
+### Mon 01/22 10:30 AM - Human Services (HS): SB 6068 Dependency outcome reporting
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31697&aId=157608&caId=23589&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31697&aId=157608&caId=23589&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31697&aId=157608&caId=23589&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31697&aId=157608&caId=23589&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* Tara Urs - King County Department of Public Defense
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other

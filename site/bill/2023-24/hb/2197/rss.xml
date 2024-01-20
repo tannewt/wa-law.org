@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2197/</link>
 		<description>Updates about HB 2197</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 09 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jan 2024 07:33:19 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,38 @@
 			<pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-09/First reading, referred to Health Care &amp; Wellness.</guid>
+		</item>
+		<item>
+			<title>❓Dr. Christopher Chen - Health Care Authority (HCA)</title>
+			<description>Dr. Christopher Chen signed up to testify Other. They are signed up to represent Health Care Authority (HCA).</description>
+			<pubDate>Thu, 18 Jan 2024 05:57:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Dr. Christopher/Chen/2024-01-18 05:57:26</guid>
+		</item>
+		<item>
+			<title>👍Dominique Davis - Community Passageways</title>
+			<description>Dominique Davis signed up to testify Pro. They are signed up to represent Community Passageways.</description>
+			<pubDate>Thu, 18 Jan 2024 07:33:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dominique/Davis/2024-01-18 07:33:19</guid>
+		</item>
+		<item>
+			<title>👍Eleuthera Lisch - King County Regional Office of Gun Violence Prevention</title>
+			<description>Eleuthera Lisch signed up to testify Pro. They are signed up to represent King County Regional Office of Gun Violence Prevention.</description>
+			<pubDate>Thu, 18 Jan 2024 07:33:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Eleuthera/Lisch/2024-01-18 07:33:19</guid>
+		</item>
+		<item>
+			<title>👍Kyle Fischer - The Health Alliance for Violence Intervention</title>
+			<description>Kyle Fischer signed up to testify Pro. They are signed up to represent The Health Alliance for Violence Intervention.</description>
+			<pubDate>Thu, 18 Jan 2024 07:33:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kyle/Fischer/2024-01-18 07:33:19</guid>
 		</item>
 	</channel>
 </rss>

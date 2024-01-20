@@ -4,6 +4,6 @@
 * 👍 Kimberly Hickman
 * 👍 Carlos Caguiat
 
-## [HB 1859](/bill/2023-24/hb/1859/) - Concerning the rights of residents in long-term care facilities. 👍1  
+## [HB 1859](/bill/2023-24/hb/1859/) - Concerning the rights of residents in long-term care facilities. 👍2  
 
 ## [SB 5748](/bill/2023-24/sb/5748/) - Senior living meals/tax 👍1  

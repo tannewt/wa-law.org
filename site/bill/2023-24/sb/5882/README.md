@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/10/2024 [The Center Square](/org/the_center_square/) - [Reykdal defends public education during annual state of K-12 address | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0bc54d8e-aff4-11ee-ad96-c3e5190b03ba.html#:~:text=Senate%20Bill%205882)

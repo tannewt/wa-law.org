@@ -55,6 +55,8 @@
 ## [HB 1926](/bill/2023-24/hb/1926/) - Concerning supervision compliance credit.  👎2 
 * 👎💵 Rachael Seevers
 
+## [HB 2001](/bill/2023-24/hb/2001/) - Sentence modification 👍1  
+
 ## [HB 2027](/bill/2023-24/hb/2027/) - Concerning certification, background checks, and training requirements for sheriffs, police chiefs, marshals, reserve officers, and volunteers. 👍2  
 
 ## [HB 2030](/bill/2023-24/hb/2030/) - Revoking a person's voting rights only when convicted of a state crime punishable by death. 👍1  
@@ -64,6 +66,9 @@
 ## [HB 2177](/bill/2023-24/hb/2177/) - Sex offender policy board 👍1  
 
 ## [HB 2178](/bill/2023-24/hb/2178/) - Sex offenses/comm. custody 👍1  
+
+## [HB 2191](/bill/2023-24/hb/2191/) - PTBA governing body members 👍1  
+* 👍💵 Anna Zivarts
 
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍4  
 * 👍💵 Rachael Seevers
@@ -109,6 +114,11 @@
 
 ## [SB 5883](/bill/2023-24/sb/5883/) - Concerning the burden of proof for special education due process hearings. 👍2  
 * 👍💵 Andrea Kadlec
+
+## [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation  👎2 
+* 👎💵 Andrea Kadlec
+
+## [SB 6009](/bill/2023-24/sb/6009/) - Hog-tying 👍1  
 
 ## [SB 6189](/bill/2023-24/sb/6189/) - Jail system 👍1  
 * 👍 Heather McKimmie

@@ -18,9 +18,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31771&aId=157390&caId=23360&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31771&aId=157390&caId=23360&tId=4)
 
-#### 15 👍 - Pro
+#### 54 👍 - Pro
 
-#### 339 👎 - Con
+#### 442 👎 - Con
+Testifying:
+* elona kearney
+* John Worthington
 
 #### 0 ❓ - Other
 

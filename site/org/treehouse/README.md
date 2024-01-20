@@ -52,6 +52,8 @@
 ## [HB 2251](/bill/2023-24/hb/2251/) - Unenforceable LFOs 👍3  
 * 👍 Arthur Longworth
 
+## [HB 2342](/bill/2023-24/hb/2342/) - Dependent youth financial ed 👍1  
+
 ## [SB 5101](/bill/2023-24/sb/5101/) - DOC medical placements 👍1  
 
 ## [SB 5174](/bill/2023-24/sb/5174/) - Student transportation 👍1  
@@ -81,7 +83,7 @@
 
 ## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍1  
 
-## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍1  
+## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍2  
 
 ## [SB 5644](/bill/2023-24/sb/5644/) - Juvenile records 👍1  
 
@@ -100,3 +102,5 @@
 * 👍💵 Daniel Lugo
 
 ## [SB 5974](/bill/2023-24/sb/5974/) - Unenforceable LFOs 👍5  
+
+## [SB 6079](/bill/2023-24/sb/6079/) - Juv. detention/health recs. 👍1  

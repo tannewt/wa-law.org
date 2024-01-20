@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31740&aId=157176&caId=23336&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31740&aId=157176&caId=23336&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 
-#### 1 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * Scott Goodrich - Port of Vancouver USA
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Steve Stuart - City Manager, City of Ridgefield
 
 #### 0 ❓ - Other

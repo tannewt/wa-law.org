@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%201981)
 * 01/12/2024 [The Center Square](/org/the_center_square/) - [Tri-Cities lawmakers eye nuclear facilities tax break, wind farm fire concerns | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ebd7f824-b182-11ee-97f3-3f080b13cf66.html#:~:text=HB%201981)
 
 ## Meetings
@@ -17,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31703&aId=157037&caId=23547&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31703&aId=157037&caId=23547&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 

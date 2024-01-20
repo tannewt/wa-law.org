@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%201239)
 * 04/05/2023 [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=House%20Bill%201239)
 
 ## Meetings
@@ -19,12 +20,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31755&aId=157254&caId=23428&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31755&aId=157254&caId=23428&tId=4)
 
-#### 17 👍 - Pro
+#### 86 👍 - Pro
 Testifying:
 * Laura Marie Rivera - Self
+* Sebrena Burr
+* Marianne Bryan
 * Julianna Hillard - Seattle Council PTSA
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Gabriel Jacobs
 
 #### 0 ❓ - Other
 

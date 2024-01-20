@@ -17,3 +17,5 @@
 * 👍 Dr. Scott Phillips
 
 ## [SB 6099](/bill/2023-24/sb/6099/) - Tribal opioid account 👍1  
+
+## [SB 6134](/bill/2023-24/sb/6134/) - Opioid use 👍1  

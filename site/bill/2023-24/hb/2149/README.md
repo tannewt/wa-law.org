@@ -8,20 +8,16 @@
 
 ## Meetings
 ### Fri 01/19 08:00 AM - Consumer Protection & Business (CPB): HB 2149 Consumer personal info.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31662&aId=156579&caId=23136&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31662&aId=156579&caId=23136&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31662&aId=156579&caId=23136&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31662&aId=156579&caId=23136&tId=4)
+#### 2 👍 - Pro
 
-#### 1 👍 - Pro
-
-#### 42 👎 - Con
+#### 44 👎 - Con
 Testifying:
 * 💵Kelly Fukai - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
 * Robert (Bob) Battles - Association of Washington Business (AWB)
 * Kevin Underwood - Washington Collectors Assn
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 
-#### 4 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* 💵Joe Adamack - Washington's Credit Unions - GWCUA

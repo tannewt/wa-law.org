@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6085/</link>
 		<description>Updates about SB 6085</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 09 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 19 Jan 2024 04:21:57 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,22 @@
 			<pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-09/First reading, referred to Labor &amp; Commerce.</guid>
+		</item>
+		<item>
+			<title>👍Adam Yoest - Washington State Conference of Mason Contractors</title>
+			<description>Adam Yoest signed up to testify Pro. They are signed up to represent Washington State Conference of Mason Contractors.</description>
+			<pubDate>Fri, 19 Jan 2024 04:21:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Adam/Yoest/2024-01-19 04:21:57</guid>
+		</item>
+		<item>
+			<title>👍💵Christopher Ellis - Bricklayers &amp; Allied Craftworkers Local 1</title>
+			<description>Christopher Ellis signed up to testify Pro. They are signed up to represent Bricklayers &amp; Allied Craftworkers Local 1. They are a registered lobbyist.</description>
+			<pubDate>Fri, 19 Jan 2024 04:21:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Christopher/Ellis/2024-01-19 04:21:57</guid>
 		</item>
 	</channel>
 </rss>

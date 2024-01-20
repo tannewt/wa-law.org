@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6249/</link>
 		<description>Updates about SB 6249</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 16 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 19 Jan 2024 01:32:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,22 @@
 			<pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-16/First reading, referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👍John Wilson - Office of Assessments/King County Assessor John Wilson</title>
+			<description>John Wilson signed up to testify Pro. They are signed up to represent Office of Assessments/King County Assessor John Wilson.</description>
+			<pubDate>Fri, 19 Jan 2024 01:32:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/John/Wilson/2024-01-19 01:32:39</guid>
+		</item>
+		<item>
+			<title>👍💵Michael Moran - Office of Assessments/King County Assessor John Wilson</title>
+			<description>Michael Moran signed up to testify Pro. They are signed up to represent Office of Assessments/King County Assessor John Wilson. They are a registered lobbyist.</description>
+			<pubDate>Fri, 19 Jan 2024 01:32:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Michael/Moran/2024-01-19 01:32:39</guid>
 		</item>
 	</channel>
 </rss>

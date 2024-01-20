@@ -129,4 +129,10 @@
 
 ## [SB 6127](/bill/2023-24/sb/6127/) - HIV prophylaxis 👍1  
 
+## [SB 6220](/bill/2023-24/sb/6220/) - High THC cannabis products 👍1  
+* 👍 Megan Moore
+
+## [SB 6271](/bill/2023-24/sb/6271/) - Cannabis excise tax/THC 👍1  
+* 👍 Megan Moore
+
 ## [ESJM 8006](/bill/2023-24/esjm/8006/) - Universal health care 👍1  

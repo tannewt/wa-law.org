@@ -14,11 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31749&aId=157443&caId=23309&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31749&aId=157443&caId=23309&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Megan Moore - [Washington State Public Health Association](/org/washington_state_public_health_association/)
 
-#### 3 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * 💵Ezra Eickmeyer - Producers NW
 * 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Sarah Ross-Viles - Public Health - Seattle & King County

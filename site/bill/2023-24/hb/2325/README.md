@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 01/19 10:30 AM - Labor & Workplace Standards (LAWS): HB 2325 Legislative employees
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31665&aId=156877&caId=23207&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31665&aId=156877&caId=23207&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31665&aId=156877&caId=23207&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31665&aId=156877&caId=23207&tId=4)
-
-#### 6 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Sarah Tucker
 * 💵Daniel Lugo
@@ -22,7 +16,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 18 ❓ - Other
+#### 22 ❓ - Other
 Testifying:
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Joe Kendo - Washington State Labor Council, AFL-CIO

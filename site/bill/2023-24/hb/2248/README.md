@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 01/19 08:00 AM - Human Services, Youth, & Early Learning (HSEL): HB 2248 Traumatic brain injuries
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31640&aId=156898&caId=23257&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31640&aId=156898&caId=23257&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31640&aId=156898&caId=23257&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31640&aId=156898&caId=23257&tId=4)
-
-#### 18 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Shawn Sandquist
 * Serry Bauer
@@ -29,8 +23,10 @@ Testifying:
 * Andrea Gray
 * Daniella Clark
 * Lynn A Holmes - Imaginal Network TBI Support Group
+* Gabriella Ottoboni
+* Kristina Sawyckyj
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * robert wardell - self adovates
 

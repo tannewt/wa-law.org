@@ -13,6 +13,8 @@
 
 ## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  
 
+## [HB 2354](/bill/2023-24/hb/2354/) - Tax increment areas  👎1 
+
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget   ❓1
 * ❓ Pat Reay
 
@@ -23,3 +25,5 @@
 ## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍4  
 
 ## [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra. 👍1  
+
+## [SB 6230](/bill/2023-24/sb/6230/) - Tax increment areas  👎1 

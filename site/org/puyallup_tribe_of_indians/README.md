@@ -31,3 +31,5 @@
 ## [SB 5634](/bill/2023-24/sb/5634/) - Problem gambling 👍1  
 
 ## [SB 5846](/bill/2023-24/sb/5846/) - Beaver ecosystem management 👍1  
+
+## [SB 6143](/bill/2023-24/sb/6143/) - Salmon habitat planning 👍1  

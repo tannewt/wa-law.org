@@ -6,6 +6,9 @@
 ## [HB 2187](/bill/2023-24/hb/2187/) - Water/family farms  👎1 
 * 👎 Trish Rolfe
 
+## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation  👎1 
+* 👎 Trish Rolfe
+
 ## [SB 5622](/bill/2023-24/sb/5622/) - Municipal water supply  👎1 
 * 👎 Maggie Franquemont
 

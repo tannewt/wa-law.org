@@ -15,3 +15,5 @@
 ## [SB 5924](/bill/2023-24/sb/5924/) - Concerning access to personnel records   ❓1
 
 ## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  
+
+## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍1  
