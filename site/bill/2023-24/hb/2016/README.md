@@ -17,9 +17,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31753&aId=157241&caId=23506&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31753&aId=157241&caId=23506&tId=4)
 
-#### 31 👍 - Pro
+#### 49 👍 - Pro
 
-#### 161 👎 - Con
+#### 320 👎 - Con
 Testifying:
 * Julie Barrett - Parent
 

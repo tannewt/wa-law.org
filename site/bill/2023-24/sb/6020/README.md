@@ -21,8 +21,10 @@ Testifying:
 * Daniel Sund - WDFW
 * Brian Mackey
 
-#### 8 👎 - Con
+#### 13 👎 - Con
 Testifying:
 * Kyle Crews - Puget sound shrimp association
+* Cy Fenton - Puget sound shrimp association
+* Kevin Nihart - Puget sound shrimp association
 
 #### 0 ❓ - Other

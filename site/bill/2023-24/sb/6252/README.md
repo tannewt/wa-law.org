@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31727&aId=157569&caId=23567&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31727&aId=157569&caId=23567&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* David Forte - Office of the Insurance Commissioner
+* Jeff Butler - Collision Consulting of Washington
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Catalina Jelkh Pareja - LKQ Corporation
 
 #### 0 ❓ - Other

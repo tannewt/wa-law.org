@@ -104,7 +104,7 @@
 
 ## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍3  
 
-## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
+## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍2  
 
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍3  
 
@@ -160,10 +160,14 @@
 
 ## [SB 5846](/bill/2023-24/sb/5846/) - Beaver ecosystem management 👍1  
 
+## [SB 5910](/bill/2023-24/sb/5910/) - Creating the state department of natural resources' Smokey Bear special license plates. 👍1  
+
 ## [SB 5946](/bill/2023-24/sb/5946/) - Fallen firefighter memorial 👍1  
 
 ## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  
 * 👍 Scott Richards
+
+## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
 
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  
 * 👍 Skippy Shaw
@@ -172,3 +176,5 @@
 * 👍 Skippy Shaw
 
 ## [SB 6121](/bill/2023-24/sb/6121/) - Biochar production 👍1  
+
+## [SB 6237](/bill/2023-24/sb/6237/) - Wildlife safe passages 👍1  

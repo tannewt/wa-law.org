@@ -17,12 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31716&aId=157551&caId=23576&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31716&aId=157551&caId=23576&tId=4)
 
-#### 6 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * JAMES Derouin
 * Charles Wharton - Veterans Legislative Coalition
 * Breck Lebegue
 * Breck Lebegue
+* Paula Sardiñas - WBBA
+* Reese Ramirez - Associated Students of UW Tacoma
 
 #### 0 👎 - Con
 

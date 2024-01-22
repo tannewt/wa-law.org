@@ -69,3 +69,5 @@
 ## [SB 5974](/bill/2023-24/sb/5974/) - Unenforceable LFOs 👍1  
 
 ## [SB 6063](/bill/2023-24/sb/6063/) - Persistent offenders 👍1  
+
+## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍1  

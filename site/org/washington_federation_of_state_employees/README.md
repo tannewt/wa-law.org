@@ -64,6 +64,8 @@
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
+## [HB 2084](/bill/2023-24/hb/2084/) - Establishing an oversight committee to improve construction-related training and pathways to state registered apprenticeships in state correctional facilities. 👍1  
+
 ## [HB 2095](/bill/2023-24/hb/2095/) - Gift certificates/unclaimed 👍1  
 
 ## [HB 2097](/bill/2023-24/hb/2097/) - Worker wage recovery 👍1  
@@ -73,18 +75,36 @@
 
 ## [HB 2127](/bill/2023-24/hb/2127/) - Incentives to return to work 👍1  
 
+## [HB 2133](/bill/2023-24/hb/2133/) - Public school bus trespass 👍1  
+
 ## [HB 2134](/bill/2023-24/hb/2134/) - Transportation budget, supp.   ❓1
 * ❓ Kati Durkin
 
 ## [HB 2136](/bill/2023-24/hb/2136/) - Prevailing wage sanctions 👍1  
 
+## [HB 2224](/bill/2023-24/hb/2224/) - Child abuse referral tool 👍1  
+
+## [HB 2246](/bill/2023-24/hb/2246/) - Vacation leave accrual 👍1  
+* 👍 Kati Durkin
+
+## [HB 2266](/bill/2023-24/hb/2266/) - Construction/sanitary cond. 👍1  
+
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍2  
+
+## [HB 2283](/bill/2023-24/hb/2283/) - Shared leave/disasters 👍1  
+
+## [HB 2311](/bill/2023-24/hb/2311/) - First responder wellness 👍1  
 
 ## [HB 2323](/bill/2023-24/hb/2323/) - Rent payments/credit reports 👍1  
 * 👍💵 Nicole Gomez
 
 ## [HB 2325](/bill/2023-24/hb/2325/) - Legislative employees 👍1  ❓2
 * ❓ Kati Durkin
+
+## [HB 2382](/bill/2023-24/hb/2382/) - TNC driver death benefits 👍1  
+
+## [HB 2407](/bill/2023-24/hb/2407/) - Child welfare workers 👍1  
+* 👍 Kati Durkin
 
 ## [SB 5010](/bill/2023-24/sb/5010/) - Synthetic opioids/endanger. 👍1  
 
@@ -119,6 +139,10 @@
 
 ## [SB 5814](/bill/2023-24/sb/5814/) - Concerning coverage of prescription drugs for advanced metastatic cancer. 👍1  
 
+## [SB 5873](/bill/2023-24/sb/5873/) - Student transportation 👍1  
+
+## [SB 5891](/bill/2023-24/sb/5891/) - Public school bus trespass 👍1  
+
 ## [SB 5900](/bill/2023-24/sb/5900/) - Concerning construction crane safety. 👍1  
 
 ## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
@@ -133,10 +157,18 @@
 
 ## [SB 5988](/bill/2023-24/sb/5988/) - Gift certificates/unclaimed 👍1  
 
+## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
+
+## [SB 6007](/bill/2023-24/sb/6007/) - Grocery workers 👍1  
+
 ## [SB 6060](/bill/2023-24/sb/6060/) - Electronic signatures/PERC 👍1  
+
+## [SB 6085](/bill/2023-24/sb/6085/) - Underground economy 👍1  
 
 ## [SB 6109](/bill/2023-24/sb/6109/) - Children and families   ❓1
 * ❓ Kati Durkin
+
+## [SB 6114](/bill/2023-24/sb/6114/) - Sustainable aviation fuel 👍1  
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
 

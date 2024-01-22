@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31740&aId=157175&caId=23335&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31740&aId=157175&caId=23335&tId=4)
 
-#### 13 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * Andrew Miller
+* LARRY JENSEN - Washington Farm Bureau  (Skagit County)
+* Commissioner Amanda McKinney - Yakima County District 1
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

@@ -17,10 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157546&caId=23562&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157546&caId=23562&tId=4)
 
-#### 173 👍 - Pro
+#### 260 👍 - Pro
+Testifying:
+* 💵Carolyn Logue - [Washington Library Association](/org/washington_library_association/)
+* Justin McKaughan - National Board Certified Teacher Librarian
+* Anna Hernandez-French - Office of Superintendent of Public Instruction
 
-#### 158 👎 - Con
+#### 424 👎 - Con
 Testifying:
 * Andy Cilley
+* Liv Finne - Washington Policy Center
 
 #### 3 ❓ - Other

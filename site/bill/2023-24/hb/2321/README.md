@@ -14,12 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31776&aId=157401&caId=23433&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31776&aId=157401&caId=23433&tId=4)
 
-#### 40 👍 - Pro
+#### 65 👍 - Pro
 Testifying:
 * Scott Bonjukian
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* 💵Briahna Murray - Cities of Tacoma, Bellevue, Redmond, and Kent
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)

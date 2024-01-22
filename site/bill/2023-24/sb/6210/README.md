@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31723&aId=157100&caId=23424&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31723&aId=157100&caId=23424&tId=4)
 
-#### 68 👍 - Pro
+#### 89 👍 - Pro
 Testifying:
 * Constance Nelson
+* Jeffrey Wright - Small Landlord
 
 #### 9 👎 - Con
 

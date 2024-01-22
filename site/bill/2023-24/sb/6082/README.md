@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31766&aId=157304&caId=23376&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31766&aId=157304&caId=23376&tId=4)
 
-#### 175 👍 - Pro
+#### 201 👍 - Pro
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* Leslie Maxwell
+* Chris Reykdal - Office of Superintendent of Public Instruction (OSPI)
 
 #### 2 👎 - Con
 Testifying:

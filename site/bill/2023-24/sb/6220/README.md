@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/22 10:30 AM - Labor & Commerce (LC): SB 6220 High THC cannabis products
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31749&aId=157206&caId=23308&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31749&aId=157206&caId=23308&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31749&aId=157206&caId=23308&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31749&aId=157206&caId=23308&tId=4)
-
-#### 28 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * Mary Lou Dickerson
 * Denise Walker
@@ -25,10 +19,16 @@ Testifying:
 * Beth Ebel - Washington Chapter of the American Academy of Pediatrics
 * Beth Ebel - WCAAP
 
-#### 9 👎 - Con
+#### 23 👎 - Con
 Testifying:
 * 💵Ezra Eickmeyer
 * 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
 * Micah Sherman - Washington Sun and Craft Growers Association
+* Caitlein Ryan - THE CANNABIS ALLIANCE
+* Joshua Rutherford
+* 💵Vicki Christophersen - Washington CannaBusiness Association
+* Don Skakie - Homegrow Washington
+* Bailey Hirschburg - Washington chapter- Nat. Org. For the Reform of Marijuana Laws (WA NORML)
+* Sage Prengel
 
 #### 0 ❓ - Other

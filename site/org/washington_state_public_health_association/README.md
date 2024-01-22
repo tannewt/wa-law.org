@@ -94,6 +94,8 @@
 
 ## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍5  
 
+## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
+
 ## [SB 5232](/bill/2023-24/sb/5232/) - Firearms/purchase & transfer 👍3  
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍4  
@@ -127,7 +129,11 @@
 
 ## [SB 6095](/bill/2023-24/sb/6095/) - Secretary of health orders 👍1  
 
+## [SB 6122](/bill/2023-24/sb/6122/) - Alcohol delivery  👎1 
+
 ## [SB 6127](/bill/2023-24/sb/6127/) - HIV prophylaxis 👍1  
+
+## [SB 6201](/bill/2023-24/sb/6201/) - Alcohol sale to minors/civil 👍1  
 
 ## [SB 6220](/bill/2023-24/sb/6220/) - High THC cannabis products 👍1  
 * 👍 Megan Moore

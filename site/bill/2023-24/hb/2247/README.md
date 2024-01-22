@@ -14,12 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31704&aId=157053&caId=23476&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31704&aId=157053&caId=23476&tId=4)
 
-#### 41 👍 - Pro
+#### 64 👍 - Pro
 Testifying:
 * Laurie Lippold - Partners for Our Children
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Bob Cooper
+* Joan Miller - WA Council for Behavioral Health
+* 💵Bob Cooper - National Association of Social Workers WA Chapter
+* Jeremy Arp - National Associaion of Social Workers WA Chapter

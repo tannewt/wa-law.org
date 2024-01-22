@@ -105,6 +105,10 @@
 ## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage 👍1  
 * 👍💵 Kelly Hall
 
+## [HB 2376](/bill/2023-24/hb/2376/) - CCA public entity oblig.  👎1 
+
+## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases 👍1  
+
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial  👎1 
 
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍3  
@@ -157,6 +161,8 @@
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
 * 👍 Megan Larkin
 
+## [SB 5973](/bill/2023-24/sb/5973/) - Heat pumps/CICs 👍1  
+
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development 👍1  
 
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  
@@ -167,3 +173,6 @@
 
 ## [SB 6071](/bill/2023-24/sb/6071/) - Oil exporters/human rights 👍1  
 * 👍💵 Leah Missik
+
+## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management 👍1  
+* 👍 Deepa Sivarajan

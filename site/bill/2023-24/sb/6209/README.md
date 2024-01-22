@@ -14,10 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31761&aId=157388&caId=23313&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31761&aId=157388&caId=23313&tId=4)
 
-#### 2 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Jessica Tonani - Verda Bio
+* Paul Fletcher - Fairwinds
+* Azmyth Kaminski - Science Under Nature
+* Bonny Jo Peterson - Industrial Hemp Association of WA
+* Dylan Summers - [Lazarus Naturals](/org/lazarus_naturals/)
 
-#### 1 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Vicki Christophersen - Washington CannaBusiness Association
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Kelly McLain - Washington State Department of Agriculture

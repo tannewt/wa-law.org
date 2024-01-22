@@ -28,6 +28,8 @@
 
 ## [HB 2076](/bill/2023-24/hb/2076/) - Addressing crimes involving human trafficking or sexual exploitation. 👍1  
 
+## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍1  
+
 ## [SB 5036](/bill/2023-24/sb/5036/) - Audio-only telemedicine 👍1  
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎2 

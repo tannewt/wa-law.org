@@ -40,7 +40,7 @@
 
 ## [HB 2102](/bill/2023-24/hb/2102/) - PFML benefits/health info. 👍1  
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍2  
 
 ## [HB 2188](/bill/2023-24/hb/2188/) - Health subsidy/retirees 👍1  
 
@@ -86,6 +86,8 @@
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍2  
 
 ## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍1  
+
+## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
 
 ## [SB 6007](/bill/2023-24/sb/6007/) - Grocery workers 👍1  
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1075/</link>
 		<description>Updates about HB 1075</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 08:37:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -201,6 +201,22 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
+			<title>👍💵Kristin Ang - Faith Action Network (FAN)</title>
+			<description>Kristin Ang signed up to testify Pro. They are signed up to represent Faith Action Network (FAN). They are a registered lobbyist.</description>
+			<pubDate>Mon, 22 Jan 2024 02:40:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kristin/Ang/2024-01-22 02:40:46</guid>
+		</item>
+		<item>
+			<title>👍Ryan Davis - Financial Empowerment Network</title>
+			<description>Ryan Davis signed up to testify Pro. They are signed up to represent Financial Empowerment Network.</description>
+			<pubDate>Mon, 22 Jan 2024 08:37:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ryan/Davis/2024-01-22 08:37:47</guid>
 		</item>
 	</channel>
 </rss>

@@ -9,6 +9,8 @@
 ## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  ❓1
 * 👍💵 Jan Hasselman
 
+## [HB 1228](/bill/2023-24/hb/1228/) - Dual & tribal language edu. 👍2  
+
 ## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍3  
 
 ## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  
@@ -60,6 +62,8 @@
 
 ## [SB 5380](/bill/2023-24/sb/5380/) - Clean energy siting 👍1  
 * 👍💵 Jan Hasselman
+
+## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation  👎1 
 
 ## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy   ❓1
 

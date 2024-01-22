@@ -195,6 +195,8 @@
 
 ## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍1  
 
+## [HB 2262](/bill/2023-24/hb/2262/) - Tire rolling resistance  👎1 
+
 ## [HB 2277](/bill/2023-24/hb/2277/) - Data brokering   ❓1
 * ❓💵 Crystal Leatherman
 

@@ -17,10 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31719&aId=157088&caId=23462&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31719&aId=157088&caId=23462&tId=4)
 
-#### 34 👍 - Pro
+#### 51 👍 - Pro
+Testifying:
+* James wilcox  JR - Wilcox Family Farms
 
-#### 0 👎 - Con
+#### 14 👎 - Con
+Testifying:
+* David Moskowitz - The Conservation Angler
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Hannah Anderson - WDFW
+* Adam Maxwell - [Audubon Washington](/org/audubon_washington/)

@@ -58,6 +58,8 @@
 ## [HB 2206](/bill/2023-24/hb/2206/) - Voter registration database  👎1 
 * 👎 Brian Hatfield
 
+## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
+
 ## [SB 5015](/bill/2023-24/sb/5015/) - Productivity board 👍1  ❓1
 * ❓ Brian Hatfield
 

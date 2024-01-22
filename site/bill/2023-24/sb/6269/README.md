@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31771&aId=157448&caId=23361&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31771&aId=157448&caId=23361&tId=4)
 
-#### 77 👍 - Pro
+#### 94 👍 - Pro
 Testifying:
 * William Cavecche - King County Elections
 
-#### 169 👎 - Con
+#### 378 👎 - Con
+Testifying:
+* Theresa Schrempp
+* Kim Slinger
 
 #### 0 ❓ - Other

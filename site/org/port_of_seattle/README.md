@@ -14,6 +14,8 @@
 
 ## [HB 1505](/bill/2023-24/hb/1505/) - Alternative jet fuel 👍1  
 
+## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  
+
 ## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍2  
 * 👍 Fred Felleman
 

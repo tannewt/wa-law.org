@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31751&aId=157211&caId=23391&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31751&aId=157211&caId=23391&tId=4)
 
-#### 75 👍 - Pro
+#### 110 👍 - Pro
 Testifying:
 * KEVIN JOHNSON - CAR PROS KIA RENTON
+* Kyle Sullivan
+* Brian Piper - I-5 Cars
+* Kamal Yeam - I-5 Cars
 
-#### 0 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other

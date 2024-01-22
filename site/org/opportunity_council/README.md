@@ -31,3 +31,5 @@
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
 
 ## [SB 5870](/bill/2023-24/sb/5870/) - Early learning programs 👍1  
+
+## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  

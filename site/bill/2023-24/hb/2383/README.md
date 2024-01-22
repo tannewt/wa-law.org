@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31752&aId=157481&caId=23458&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31752&aId=157481&caId=23458&tId=4)
 
-#### 7 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Tara Urs - King County Department of Public Defense
 * Laurie Lippold - Partners for Our Children

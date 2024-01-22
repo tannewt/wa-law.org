@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31765&aId=157298&caId=23316&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31765&aId=157298&caId=23316&tId=4)
 
-#### 2 👍 - Pro
+#### 16 👍 - Pro
 
-#### 2 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Preston Dwoskin
 
 #### 1 ❓ - Other
 Testifying:

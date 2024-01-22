@@ -12,6 +12,8 @@
 
 ## [HB 1679](/bill/2023-24/hb/1679/) - Student homelessness group 👍1  
 
+## [HB 2239](/bill/2023-24/hb/2239/) - Social-emotional instruction 👍1  
+
 ## [SB 5124](/bill/2023-24/sb/5124/) - Nonrelative kin placement 👍3  
 
 ## [SB 5248](/bill/2023-24/sb/5248/) - Tutoring & extended learning 👍1  
@@ -26,3 +28,5 @@
 
 ## [SB 5850](/bill/2023-24/sb/5850/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
 * 👍 Jeff Engle
+
+## [SB 6216](/bill/2023-24/sb/6216/) - Student mental health net. 👍1  

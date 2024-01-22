@@ -318,6 +318,14 @@
 ## [HB 2307](/bill/2023-24/hb/2307/) - Public records reviews 👍1  
 * 👍💵 Candice Bock
 
+## [HB 2308](/bill/2023-24/hb/2308/) - Existing structures/housing 👍1  
+* 👍💵 Carl Schroeder
+
+## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
+
+## [HB 2321](/bill/2023-24/hb/2321/) - Middle housing requirements   ❓1
+* ❓💵 Carl Schroeder
+
 ## [HB 2354](/bill/2023-24/hb/2354/) - Tax increment areas  👎1 
 * 👎💵 Candice Bock
 
@@ -486,7 +494,8 @@
 ## [SB 5509](/bill/2023-24/sb/5509/) - Public infrastructure bank 👍1  
 * 👍💵 Candice Bock
 
-## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation 👍1  
+## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation 👍2  
+* 👍💵 Carl Schroeder
 * 👍💵 Carl Schroeder
 
 ## [SB 5524](/bill/2023-24/sb/5524/) - Industrial insurance/duties  👎1 

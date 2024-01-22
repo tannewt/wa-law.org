@@ -53,6 +53,12 @@
 
 ## [HB 2207](/bill/2023-24/hb/2207/) - Solid waste dumping 👍1  
 
+## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management 👍1  
+* 👍💵 Heather Trim
+
+## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases 👍1  
+* 👍💵 Heather Trim
+
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍1  
 
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍4  
@@ -108,4 +114,7 @@
 ## [SB 5965](/bill/2023-24/sb/5965/) - Fashion/environmental impact 👍1  
 
 ## [SB 6163](/bill/2023-24/sb/6163/) - Biosolids 👍1  
+* 👍💵 Heather Trim
+
+## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management 👍1  
 * 👍💵 Heather Trim

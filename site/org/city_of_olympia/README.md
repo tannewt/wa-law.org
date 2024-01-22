@@ -83,12 +83,18 @@
 
 ## [HB 2021](/bill/2023-24/hb/2021/) - Concerning the disposition of privately owned firearms in the custody of state or local government entities or law enforcement agencies. 👍1  
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍2  
 
 ## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍1  
 
 ## [HB 2172](/bill/2023-24/hb/2172/) - Vacant state agency property 👍1  
 * 👍 Darian Lightfoot
+
+## [HB 2219](/bill/2023-24/hb/2219/) - Affordable housing/tax ex. 👍1  
+
+## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍1  
+
+## [HB 2250](/bill/2023-24/hb/2250/) - Local elections 👍1  
 
 ## [HB 2321](/bill/2023-24/hb/2321/) - Middle housing requirements 👍1  
 

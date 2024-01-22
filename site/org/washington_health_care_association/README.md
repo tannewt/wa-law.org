@@ -17,7 +17,8 @@
 * 👍 Carma Matti-Jackson
 * 👍 Carma Matti-Jackson
 
-## [HB 1859](/bill/2023-24/hb/1859/) - Concerning the rights of residents in long-term care facilities.  👎1 
+## [HB 1859](/bill/2023-24/hb/1859/) - Concerning the rights of residents in long-term care facilities.  👎2 
+* 👎 Carma Matti-Jackson
 * 👎 Carma Matti-Jackson
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  ❓1

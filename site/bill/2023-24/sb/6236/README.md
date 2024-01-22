@@ -14,9 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31766&aId=157308&caId=23380&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31766&aId=157308&caId=23380&tId=4)
 
-#### 24 👍 - Pro
+#### 44 👍 - Pro
 
-#### 178 👎 - Con
+#### 452 👎 - Con
 Testifying:
 * Jennifer Garrison Stuber - Washington Homeschool Organization
 

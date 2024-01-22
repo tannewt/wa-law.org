@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31716&aId=157111&caId=23445&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31716&aId=157111&caId=23445&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Robert Driskell - Teamsters Local 589
 * John Clauson - [Kitsap Transit](/org/kitsap_transit/)

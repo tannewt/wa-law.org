@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31766&aId=157306&caId=23378&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31766&aId=157306&caId=23378&tId=4)
 
-#### 143 👍 - Pro
-
-#### 146 👎 - Con
+#### 205 👍 - Pro
 Testifying:
+* Anna Hernandez-French - Office of Superintendent of Public Instruction
+
+#### 411 👎 - Con
+Testifying:
+* Leslie Maxwell
 * Andy Cilley
 
 #### 1 ❓ - Other

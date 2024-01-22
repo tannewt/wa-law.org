@@ -17,11 +17,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31773&aId=157347&caId=23470&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31773&aId=157347&caId=23470&tId=4)
 
-#### 11 👍 - Pro
+#### 64 👍 - Pro
 Testifying:
 * Josh Kerns - [Spokane County](/org/spokane_county/)
+* Al French - Spokane county Commissioner
+* Al Merkel - Councilmember, City of Spokane Valley
+* Terri Cooper - City of Medical Lake
+* 💵Lukas Garcia - Greater Spokane Valley Chamber of Commerce
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* David Forte - Office of the Insurance Commissioner
 
 #### 1 ❓ - Other
 Testifying:

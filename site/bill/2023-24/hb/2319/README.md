@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31704&aId=157054&caId=23477&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31704&aId=157054&caId=23477&tId=4)
 
-#### 12 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Shaena Garberich - Oxford Fundraising Chair Chapter 30
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Jessica Molberg - Coordinated Care
+* Eileen Newton - [Evergreen Recovery Centers](/org/evergreen_recovery_centers/)
 
 #### 0 ❓ - Other

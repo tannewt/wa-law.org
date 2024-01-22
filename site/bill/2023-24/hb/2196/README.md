@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157325&caId=23544&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157325&caId=23544&tId=4)
 
-#### 13 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Beth Ebel - WCAAP
 * Dennis Maughan - MADD Washington
@@ -30,6 +30,8 @@ Testifying:
 * Shelly Baldwin - Washington Traffic Safety Commission
 * Tao Kwan-Gett
 
-#### 21 👎 - Con
+#### 23 👎 - Con
+Testifying:
+* Jason Lantz - Washington Association of Criminal Defense Lawyers and Washington Defender Association
 
 #### 0 ❓ - Other

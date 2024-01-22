@@ -18,6 +18,6 @@ Sign up to testify:
 Testifying:
 * Bob Kehoe - Purse Seine Vessel Owners' Association
 
-#### 1 👎 - Con
+#### 8 👎 - Con
 
 #### 0 ❓ - Other

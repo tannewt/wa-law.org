@@ -10,10 +10,12 @@
 
 ## [HB 1817](/bill/2023-24/hb/1817/) - Housing gap voucher pilot 👍1  
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants  👎1 
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants  👎2 
 * 👎 Audrey Riddle
 
 ## [SB 5118](/bill/2023-24/sb/5118/) - Multifamily property tax ex.  👎1 
 
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants  👎2 
 * 👎 Audrey Riddle
+
+## [SB 6064](/bill/2023-24/sb/6064/) - Pet fees, deposits  👎1 

@@ -18,10 +18,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31727&aId=157167&caId=23328&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31727&aId=157167&caId=23328&tId=4)
 
-#### 13 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * Nathan Daum - [City of Shoreline](/org/city_of_shoreline/)
 * 💵Emily Shay - Association of Washington Businesses
+* Roni Holder-Diefenbach - Economic Alliance (ADO for Okanogan County)
+* Suzanne Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)
+* Vaughn Taylor - Seattle Metropolitan Chamber of Commerce (ADO for King County)
 
 #### 2 👎 - Con
 

@@ -16,6 +16,8 @@ Sign up to testify:
 
 #### 2 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵Carolyn Logue - Washington Food Industry Association
 
 #### 0 ❓ - Other

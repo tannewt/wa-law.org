@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2283/</link>
 		<description>Updates about HB 2283</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 10 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 10:23:07 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,14 @@
 			<pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-10/First reading, referred to State Government &amp; Tribal Relations.</guid>
+		</item>
+		<item>
+			<title>👍Mike Yestramski - President, Washington Federation of State Employees</title>
+			<description>Mike Yestramski signed up to testify Pro. They are signed up to represent President, Washington Federation of State Employees.</description>
+			<pubDate>Mon, 22 Jan 2024 10:23:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mike/Yestramski/2024-01-22 10:23:07</guid>
 		</item>
 	</channel>
 </rss>

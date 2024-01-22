@@ -27,10 +27,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31720&aId=157561&caId=23570&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31720&aId=157561&caId=23570&tId=4)
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * 💵Isaac Kastama - Clean & Prosperous Washington
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

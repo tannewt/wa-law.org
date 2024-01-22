@@ -26,6 +26,8 @@
 
 ## [HB 2253](/bill/2023-24/hb/2253/) - Community solar 👍1  
 
+## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍1  
+
 ## [HB 2296](/bill/2023-24/hb/2296/) - Comprehensive plan revisions 👍1  
 * 👍 Rebecca Kennedy
 

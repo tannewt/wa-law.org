@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 5791 - Concerning the evaluation of the effectiveness of oral fluid roadside information in the enforcement of driving under the influence laws.</title>
+		<title>SB 5791 - DUI/oral fluid evaluation</title>
 		<link>https://wa-law.org/bill/2023-24/sb/5791/</link>
 		<description>Updates about SB 5791</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 09 Jan 2024 05:36:30 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -68,6 +68,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Deion/Glover/2024-01-09 05:36:30</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-18/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

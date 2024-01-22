@@ -17,13 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157548&caId=23564&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157548&caId=23564&tId=4)
 
-#### 71 👍 - Pro
+#### 100 👍 - Pro
 Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * Anfal Jneidi
 * Elsa Sjunneson Jones - Seattle Council PTSA, President
+* Liam Krol - The Forgotten Europe Project
 
-#### 15 👎 - Con
+#### 17 👎 - Con
 Testifying:
 * Naveed Siddiqui
 * Ala Hassan

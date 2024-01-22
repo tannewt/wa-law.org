@@ -4,4 +4,6 @@
 * 👍 Buddy Stanavich
 * 👍 Heidi Behrends Cerniwey
 
+## [HB 2376](/bill/2023-24/hb/2376/) - CCA public entity oblig. 👍1  
+
 ## [SB 5245](/bill/2023-24/sb/5245/) - Biosolids  👎1 

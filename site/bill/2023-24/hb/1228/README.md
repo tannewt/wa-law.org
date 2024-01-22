@@ -23,11 +23,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31755&aId=157253&caId=23427&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31755&aId=157253&caId=23427&tId=4)
 
-#### 62 👍 - Pro
+#### 101 👍 - Pro
 Testifying:
 * Karen Condon - Confederated Tribes of the Colville Reservation
+* Pamela Grossman
+* Athena Jimenez-Manalo
+* Chitra Bhardwaj
+* Erica Marbet
+* Radu Smintina - OneAmerica
+* Anna Hernandez-French - Office of Superintendent of Public Instruction
+* Christine Marbet
+* 💵Zackary Turner - PESB
+* Brian Freeman - Inchelium School District #70
 
-#### 0 👎 - Con
+#### 19 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

@@ -14,9 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31768&aId=157314&caId=23439&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31768&aId=157314&caId=23439&tId=4)
 
-#### 54 👍 - Pro
+#### 114 👍 - Pro
 Testifying:
 * Hilary Young - Washington Statewide Reentry Council
+* Hanan Al-Zubaidy - SBCTC
+* Darrell pryor
+* Bruce Carley
+* 💵Ray Dumas - OPCMIA Local 528
+* 💵Erin Frasier - Washington State Building & Construction Trades Council
+* Minna Long - Washington State Building & Construction Trades Council
+* Eric Sanchez - Ironworkers L 86
+* 💵John Traynor - Washington State Labor Council, AFL-CIO
 
 #### 0 👎 - Con
 

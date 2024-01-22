@@ -14,13 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31768&aId=157316&caId=23441&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31768&aId=157316&caId=23441&tId=4)
 
-#### 32 👍 - Pro
+#### 68 👍 - Pro
 Testifying:
 * Tom Ewell - Quaker Voice
 * Jacob Schmitt - Just Us Solutions, LLC
 * Kehaulani Walker - FOTi and PUA
 * Qudaffi Howell
 * Melody Simle
+* 💵Paul Benz - WA Partners for Social Change
 
 #### 1 👎 - Con
 

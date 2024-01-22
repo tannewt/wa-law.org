@@ -31,7 +31,7 @@
 ## [HB 2157](/bill/2023-24/hb/2157/) - Vaccine definition 👍2  
 * 👍💵 Hugh Ewart
 
-## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
+## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍2  
 
 ## [SB 5097](/bill/2023-24/sb/5097/) - Rare diseases adv. council 👍2  
 
@@ -57,3 +57,5 @@
 * 👍 Kashi Aurora
 
 ## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍2  
+
+## [SB 6220](/bill/2023-24/sb/6220/) - High THC cannabis products 👍1  

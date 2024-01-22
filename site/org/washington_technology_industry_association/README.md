@@ -15,9 +15,9 @@
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
 
-## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍4  
+## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍5  
 
-## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍4  
+## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍5  
 
 ## [HB 1793](/bill/2023-24/hb/1793/) - Wireless devices tax  👎1 
 * 👎💵 Kelly Fukai
@@ -42,7 +42,11 @@
 ## [HB 2277](/bill/2023-24/hb/2277/) - Data brokering  👎1 
 * 👎💵 Kelly Fukai
 
+## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
+
 ## [HB 2360](/bill/2023-24/hb/2360/) - Digital workforce 👍1  
+
+## [HB 2382](/bill/2023-24/hb/2382/) - TNC driver death benefits  👎1 
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍4  
 
@@ -72,4 +76,9 @@
 
 ## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
 
+## [SB 6012](/bill/2023-24/sb/6012/) - Teacher preparation programs 👍1  
+
 ## [SB 6168](/bill/2023-24/sb/6168/) - International leadership 👍1  
+
+## [SB 6179](/bill/2023-24/sb/6179/) - Liquor biometric age verif. 👍1  
+* 👍💵 Kelly Fukai

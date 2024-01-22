@@ -14,13 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31738&aId=157491&caId=23320&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31738&aId=157491&caId=23320&tId=4)
 
-#### 84 👍 - Pro
+#### 108 👍 - Pro
 Testifying:
 * Jacob Grumbach - Washington State Election Database & Mail Ballot Rejections Project
 * 💵Eli Goss - OneAmerica
 * Scott Allard - Evans School of Public Policy & Governance, University of Washington
 
-#### 1 👎 - Con
+#### 23 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -8,22 +8,21 @@
 
 ## Meetings
 ### Mon 01/22 10:30 AM - Labor & Commerce (LC): SB 6179 Liquor biometric age verif.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31749&aId=157204&caId=23306&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31749&aId=157204&caId=23306&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31749&aId=157204&caId=23306&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31749&aId=157204&caId=23306&tId=4)
-
-#### 7 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Jessica Ng - CLEAR
 * Tyler Blackney - Amazon
 * Robert Singleton - Chamber of Progress
 * Shannon Patch - Delaware North, concessions operator at Climate Pledge Arena
+* Robert (Bob) Battles - Association of Washington Business (AWB)
+* Shannon Patch - Delaware North, concessions operator at Climate Pledge Arena
+* 💵Kelly Fukai - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
 
-#### 351 👎 - Con
+#### 464 👎 - Con
 Testifying:
 * Jeannette Mcchesney
 * James Ware
+* Judith Wiersma
+* Susanna Jones
 
 #### 2 ❓ - Other

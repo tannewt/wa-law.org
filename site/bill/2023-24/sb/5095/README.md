@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31743&aId=157512&caId=23331&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31743&aId=157512&caId=23331&tId=4)
 
-#### 25 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * Hunter George - Metro Parks Tacoma
 * Pooja Tandon

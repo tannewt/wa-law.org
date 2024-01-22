@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31713&aId=157075&caId=23483&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31713&aId=157075&caId=23483&tId=4)
 
-#### 77 👍 - Pro
+#### 91 👍 - Pro
 Testifying:
 * Lina Ulloa - Communities for Our Colleges
 * Maria Barrios - Communities for Our Colleges
@@ -27,6 +27,6 @@ Testifying:
 * Angela Pierce-Ngo - NW Education Access
 * Natalya Yudkovsky - Washington State PTA
 
-#### 20 👎 - Con
+#### 36 👎 - Con
 
 #### 0 ❓ - Other

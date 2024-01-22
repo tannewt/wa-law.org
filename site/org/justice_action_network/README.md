@@ -15,6 +15,8 @@
 * 👍💵 Brooke Davies
 * 👍 Whitney Westerfield
 
+## [HB 2065](/bill/2023-24/hb/2065/) - Recalculating sentencing ranges for currently incarcerated individuals whose offender score was increased by juvenile convictions. 👍1  
+
 ## [HB 2171](/bill/2023-24/hb/2171/) - Incarcerated students 👍1  
 * 👍💵 Vicki Christophersen
 

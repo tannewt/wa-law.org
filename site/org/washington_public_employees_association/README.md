@@ -84,7 +84,14 @@
 
 ## [HB 2036](/bill/2023-24/hb/2036/) - Concerning workplace safety and operational standards for adult entertainment establishments. 👍1  
 
+## [HB 2091](/bill/2023-24/hb/2091/) - Fallen firefighter memorial 👍1  
+
 ## [HB 2108](/bill/2023-24/hb/2108/) - Smokey Bear license plates 👍1  
+
+## [HB 2246](/bill/2023-24/hb/2246/) - Vacation leave accrual 👍1  
+* 👍💵 Seamus Petrie
+
+## [HB 2283](/bill/2023-24/hb/2283/) - Shared leave/disasters 👍1  
 
 ## [HB 2325](/bill/2023-24/hb/2325/) - Legislative employees   ❓1
 * ❓💵 Seamus Petrie

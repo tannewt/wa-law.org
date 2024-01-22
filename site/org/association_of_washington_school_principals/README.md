@@ -172,4 +172,6 @@
 
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
 
+## [SB 6012](/bill/2023-24/sb/6012/) - Teacher preparation programs 👍1  
+
 ## [SB 6014](/bill/2023-24/sb/6014/) - Special education cap 👍1  

@@ -17,12 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31735&aId=157158&caId=23463&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31735&aId=157158&caId=23463&tId=4)
 
-#### 16 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * 💵Paula Sardinas - FMS Global Strategies, LLC
 * 💵Yessenia Rivera - WBBA (WA BUILD BACK BLACK ALLIANCE)
 * Danica Noble - Washington State PTA
 * 💵Carolyn Logue - [Washington Library Association](/org/washington_library_association/)
+* Mikhail Cherniske - Office of Superintendent of Public Instruction
 
 #### 0 👎 - Con
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6208/</link>
 		<description>Updates about SB 6208</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 21 Jan 2024 10:13:33 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 08:48:37 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,12 +16,28 @@
 			<guid isPermaLink="false">2024-01-12/First reading, referred to Early Learning &amp; K-12 Education (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 		<item>
-			<title>👎Andy Cilley - Stevens County PUD</title>
+			<title>👎Leslie Maxwell - Office of Superintendent of Public Instruction</title>
+			<description>Leslie Maxwell signed up to testify Con.</description>
+			<pubDate>Sun, 21 Jan 2024 06:49:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Leslie/Maxwell/2024-01-21 06:49:15</guid>
+		</item>
+		<item>
+			<title>👎Andy Cilley - Office of Superintendent of Public Instruction</title>
 			<description>Andy Cilley signed up to testify Con.</description>
 			<pubDate>Sun, 21 Jan 2024 10:13:33 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Andy/Cilley/2024-01-21 10:13:33</guid>
+		</item>
+		<item>
+			<title>👍Anna Hernandez-French - Office of Superintendent of Public Instruction</title>
+			<description>Anna Hernandez-French signed up to testify Pro. They are signed up to represent Office of Superintendent of Public Instruction.</description>
+			<pubDate>Mon, 22 Jan 2024 08:48:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Anna/Hernandez-French/2024-01-22 08:48:37</guid>
 		</item>
 	</channel>
 </rss>

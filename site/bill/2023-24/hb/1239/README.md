@@ -20,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31755&aId=157254&caId=23428&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31755&aId=157254&caId=23428&tId=4)
 
-#### 101 👍 - Pro
+#### 116 👍 - Pro
 Testifying:
 * Laura Marie Rivera - Self
 * Sebrena Burr
@@ -31,7 +31,10 @@ Testifying:
 Testifying:
 * Gabriel Jacobs
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 
 ### Mon 02/20 01:30 PM - Appropriations (APP): SHB 1239 Educator ethics & complaints
 #### 65 👍 - Pro

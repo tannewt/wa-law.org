@@ -21,8 +21,10 @@ Testifying:
 * 💵Michael Moran - Confederated Tribes of the Colville Reservation
 * Mel Tonasket - Confederated Tribes of the Colville Reservation
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * David Linn - None
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tom McBride - WDFW

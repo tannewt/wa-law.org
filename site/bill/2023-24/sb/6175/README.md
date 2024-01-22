@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31722&aId=157097&caId=23382&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31722&aId=157097&caId=23382&tId=4)
 
-#### 6 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Marc Angelillo - Urban Housing Ventures
 * Tim Cavanaugh - Urban Housing Ventures
+* Jonathan Bingle
 
 #### 0 👎 - Con
 

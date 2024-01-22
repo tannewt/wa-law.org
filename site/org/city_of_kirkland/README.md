@@ -101,6 +101,8 @@
 
 ## [HB 2308](/bill/2023-24/hb/2308/) - Existing structures/housing 👍1  
 
+## [HB 2322](/bill/2023-24/hb/2322/) - Child care/tax preferences 👍1  
+
 ## [SB 5006](/bill/2023-24/sb/5006/) - Waiver of firearm rights 👍1  
 
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍2  

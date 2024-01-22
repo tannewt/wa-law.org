@@ -19,7 +19,9 @@
 * 👍💵 John Ficker
 * 👍💵 John Ficker
 
-## [HB 1859](/bill/2023-24/hb/1859/) - Concerning the rights of residents in long-term care facilities.  👎2 
+## [HB 1859](/bill/2023-24/hb/1859/) - Concerning the rights of residents in long-term care facilities.  👎5 
+* 👎💵 John Ficker
+* 👎💵 Amina Abdalla
 * 👎💵 John Ficker
 * 👎💵 Amina Abdalla
 
@@ -30,7 +32,13 @@
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
 * ❓💵 John Ficker
 
-## [HB 2347](/bill/2023-24/hb/2347/) - Adult family home info. 👍3  
+## [HB 2339](/bill/2023-24/hb/2339/) - Cert. renewal/nursing assist 👍2  
+* 👍 Amina Abdall
+* 👍💵 Amina Abdalla
+
+## [HB 2347](/bill/2023-24/hb/2347/) - Adult family home info. 👍5  
+* 👍💵 Amina Abdalla
+* 👍💵 John Ficker
 
 ## [SB 5103](/bill/2023-24/sb/5103/) - Medicaid patients/discharge 👍1  
 

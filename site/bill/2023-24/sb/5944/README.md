@@ -8,15 +8,11 @@
 
 ## Meetings
 ### Mon 01/22 10:30 AM - Law & Justice (LAW): SB 5944 Prosecutorial filing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31691&aId=156900&caId=23298&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31691&aId=156900&caId=23298&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31691&aId=156900&caId=23298&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31691&aId=156900&caId=23298&tId=4)
-
-#### 6 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Sheldon Beddo
+* James Schrimpsher - Washington State Fraternal Order of Police
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 0 👎 - Con
 

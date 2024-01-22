@@ -18,6 +18,8 @@
 
 ## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions  👎2 
 
+## [HB 2321](/bill/2023-24/hb/2321/) - Middle housing requirements   ❓1
+
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 
 ## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍1  

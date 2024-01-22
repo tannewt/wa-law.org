@@ -14,13 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157498&caId=23367&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157498&caId=23367&tId=4)
 
-#### 11 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * 💵John Scott - [The Pew Charitable Trusts](/org/the_pew_charitable_trusts/)
 * Jill Nelson
 * Mike Pelliciotti - State Treasurer
 * Travis Rosenthal - Pike Street Hospitality Group
 
-#### 12 👎 - Con
+#### 27 👎 - Con
 
 #### 0 ❓ - Other

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2333/</link>
 		<description>Updates about HB 2333</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 21 Jan 2024 01:04:15 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 10:27:40 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -31,7 +31,7 @@
 			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202333</guid>
 		</item>
 		<item>
-			<title>👎John Worthington - Clean &amp; Prosperous Washington</title>
+			<title>👎John Worthington - Department of Natural Resources</title>
 			<description>John Worthington signed up to testify Con.</description>
 			<pubDate>Sat, 20 Jan 2024 07:22:03 GMT</pubDate>
 			<category>testifier</category>
@@ -45,6 +45,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Isaac/Kastama/2024-01-21 01:04:15</guid>
+		</item>
+		<item>
+			<title>👍Susanna Jones - Clean &amp; Prosperous Washington</title>
+			<description>Susanna Jones signed up to testify Pro.</description>
+			<pubDate>Sun, 21 Jan 2024 11:12:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Susanna/Jones/2024-01-21 11:12:22</guid>
+		</item>
+		<item>
+			<title>👍Brian Considine - Department of Natural Resources</title>
+			<description>Brian Considine signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/department_of_natural_resources/&quot;&gt;Department of Natural Resources&lt;/a&gt;.</description>
+			<pubDate>Mon, 22 Jan 2024 09:28:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brian/Considine/2024-01-22 09:28:36</guid>
+		</item>
+		<item>
+			<title>❓💵Heath Heikkila - American Forest Resource Council</title>
+			<description>Heath Heikkila signed up to testify Other. They are signed up to represent American Forest Resource Council. They are a registered lobbyist.</description>
+			<pubDate>Mon, 22 Jan 2024 10:27:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Heath/Heikkila/2024-01-22 10:27:40</guid>
 		</item>
 	</channel>
 </rss>

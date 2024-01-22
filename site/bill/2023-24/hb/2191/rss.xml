@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2191/</link>
 		<description>Updates about HB 2191</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 20 Jan 2024 09:35:11 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 09:20:28 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -108,6 +108,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Joe/Kunzler/2024-01-20 09:35:11</guid>
+		</item>
+		<item>
+			<title>❓Chelsea Ongaro - Community Transit</title>
+			<description>Chelsea Ongaro signed up to testify Other. They are signed up to represent Community Transit.</description>
+			<pubDate>Mon, 22 Jan 2024 09:20:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Chelsea/Ongaro/2024-01-22 09:20:28</guid>
+		</item>
+		<item>
+			<title>❓Maureen McCarthy - Whatcom Transportation Authority</title>
+			<description>Maureen McCarthy signed up to testify Other. They are signed up to represent Whatcom Transportation Authority.</description>
+			<pubDate>Mon, 22 Jan 2024 09:20:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Maureen/McCarthy/2024-01-22 09:20:28</guid>
+		</item>
+		<item>
+			<title>❓Sanjay Bhatt - Kitsap Transit</title>
+			<description>Sanjay Bhatt signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/kitsap_transit/&quot;&gt;Kitsap Transit&lt;/a&gt;.</description>
+			<pubDate>Mon, 22 Jan 2024 09:20:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Sanjay/Bhatt/2024-01-22 09:20:28</guid>
 		</item>
 	</channel>
 </rss>

@@ -16,3 +16,7 @@
 ## [SB 5624](/bill/2023-24/sb/5624/) - Substance use recovery serv. 👍1  
 
 ## [SB 5785](/bill/2023-24/sb/5785/) - WDFW/volunteer organizations 👍1  
+
+## [SB 5910](/bill/2023-24/sb/5910/) - Creating the state department of natural resources' Smokey Bear special license plates. 👍1  
+
+## [SB 6237](/bill/2023-24/sb/6237/) - Wildlife safe passages 👍1  

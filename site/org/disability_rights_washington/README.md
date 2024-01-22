@@ -21,6 +21,8 @@
 
 ## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍2  
 
+## [HB 1239](/bill/2023-24/hb/1239/) - Educator ethics & complaints 👍1  
+
 ## [HB 1305](/bill/2023-24/hb/1305/) - Students with disabilities 👍2  
 
 ## [HB 1313](/bill/2023-24/hb/1313/) - Health care afford./medicare 👍1  
@@ -69,6 +71,8 @@
 
 ## [HB 2191](/bill/2023-24/hb/2191/) - PTBA governing body members 👍1  
 * 👍💵 Anna Zivarts
+
+## [HB 2287](/bill/2023-24/hb/2287/) - Corrections ombuds adv board 👍1  
 
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍4  
 * 👍💵 Rachael Seevers

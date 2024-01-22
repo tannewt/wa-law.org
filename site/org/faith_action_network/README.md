@@ -11,7 +11,7 @@
 
 ## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals 👍1  
 
-## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍4  
+## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍6  
 * 👍💵 Kristin Ang
 
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍4  

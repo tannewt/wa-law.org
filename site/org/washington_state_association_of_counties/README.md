@@ -192,10 +192,16 @@
 ## [HB 1998](/bill/2023-24/hb/1998/) - Co-living housing   ❓1
 * ❓💵 Paul Jewell
 
+## [HB 2001](/bill/2023-24/hb/2001/) - Sentence modification  👎1 
+* 👎💵 Juliana Roe
+
 ## [HB 2008](/bill/2023-24/hb/2008/) - Housing cost task force 👍1  
 
 ## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes.   ❓1
 * ❓💵 Travis Dutton
+
+## [HB 2065](/bill/2023-24/hb/2065/) - Recalculating sentencing ranges for currently incarcerated individuals whose offender score was increased by juvenile convictions.  👎1 
+* 👎💵 Juliana Roe
 
 ## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions.   ❓1
 * ❓💵 Paul Jewell

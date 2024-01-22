@@ -259,5 +259,7 @@
 
 ## [SB 6168](/bill/2023-24/sb/6168/) - International leadership 👍1  
 
+## [SB 6202](/bill/2023-24/sb/6202/) - Tourism promotion exemptions 👍1  
+
 ## [SJM 8009](/bill/2023-24/sjm/8009/) - Harbor maintenance tax 👍1  
 * 👍 Chris Herman

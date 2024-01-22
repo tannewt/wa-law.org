@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31692&aId=157004&caId=23348&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31692&aId=157004&caId=23348&tId=4)
 
-#### 2 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * David Talley - King County Prosecuting Attorney's Office
+* David Talley - King County Prosecuting Attorney
+* Gabrielle Charlton - King County Prosecuting Attorney
 
 #### 0 👎 - Con
 

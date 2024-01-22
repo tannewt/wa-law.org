@@ -29,6 +29,8 @@
 ## [HB 2160](/bill/2023-24/hb/2160/) - Housing development  👎1 
 * 👎 Salim Nice
 
+## [HB 2307](/bill/2023-24/hb/2307/) - Public records reviews 👍1  
+
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎2 
 
 ## [SB 5364](/bill/2023-24/sb/5364/) - Lot splitting   ❓1

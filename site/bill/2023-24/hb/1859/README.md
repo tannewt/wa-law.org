@@ -14,14 +14,27 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31704&aId=157710&caId=23598&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31704&aId=157710&caId=23598&tId=4)
 
-#### 10 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* 💵Brad Forbes - Alzheimer's Association
 
-#### 228 👎 - Con
+#### 563 👎 - Con
 Testifying:
 * Ribka Mengesha
+* Rosemary Maseva
 * EMMAH KANYORA - Blessings AFH
 * Kenneth Kagona - Wholeness AFHLLC
 * Lydia Waweru - Emerald Park AFH
+* Meri Jankovic-Pjanic
+* Jaspreet Kaur
+* Jaspreet Kaur
+* Jaspreet Kaur
+* Carin Marney - Lane Powell PC
+* Carma Matti-Jackson - [Washington Health Care Association](/org/washington_health_care_association/)
+* 💵John Ficker - [Adult Family Home Council](/org/adult_family_home_council/)
+* 💵Amina Abdalla - [Adult Family Home Council](/org/adult_family_home_council/)
+* Jen Broeckel - The Courtyard at Colfax Assisted Living
+* Nikki Storms - Chehalis West Assisted Living
 
 #### 1 ❓ - Other
 

@@ -53,6 +53,8 @@
 
 ## [HB 2383](/bill/2023-24/hb/2383/) - Dependency outcome reporting 👍1  
 
+## [HB 2447](/bill/2023-24/hb/2447/) - Children and families   ❓1
+
 ## [SB 5124](/bill/2023-24/sb/5124/) - Nonrelative kin placement 👍1  
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍2  

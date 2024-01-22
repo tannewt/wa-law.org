@@ -17,11 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31702&aId=157029&caId=23449&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31702&aId=157029&caId=23449&tId=4)
 
-#### 1 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * 💵Erica Hallock - Start Early WA
+* 💵Emily Shay - Association of Washington Buisness
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

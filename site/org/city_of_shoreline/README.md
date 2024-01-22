@@ -18,7 +18,7 @@
 ## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  
 * 👍 Nathan Daum
 
-## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍1  
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍2  
 * 👍 Jim Hammond
 
 ## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍1  

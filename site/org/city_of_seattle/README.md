@@ -159,7 +159,7 @@
 
 ## [HB 1945](/bill/2023-24/hb/1945/) - Streamlining and enhancing program access for persons eligible for food assistance. 👍1  
 
-## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍1  
+## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍2  
 
 ## [HB 1956](/bill/2023-24/hb/1956/) - Addressing fentanyl and other substance use prevention education. 👍1  
 
@@ -205,6 +205,11 @@
 ## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍1  
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
+
+## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management 👍1  
+* 👍 Kate Kurtz
+
+## [HB 2308](/bill/2023-24/hb/2308/) - Existing structures/housing 👍1  
 
 ## [HB 2360](/bill/2023-24/hb/2360/) - Digital workforce 👍1  
 
@@ -356,5 +361,9 @@
 * 👍 Miguel Beltran
 
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  
+
+## [SB 6135](/bill/2023-24/sb/6135/) - TANF transitional assistance 👍1  
+
+## [SB 6242](/bill/2023-24/sb/6242/) - Law enforcement training 👍1  
 
 ## [ESJM 8006](/bill/2023-24/esjm/8006/) - Universal health care 👍1  

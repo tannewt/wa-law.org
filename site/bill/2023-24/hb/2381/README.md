@@ -14,8 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31755&aId=157272&caId=23431&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31755&aId=157272&caId=23431&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
+* Jim Kowalkowski - Rural Education Center
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

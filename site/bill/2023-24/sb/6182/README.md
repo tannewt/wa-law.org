@@ -18,6 +18,6 @@ Sign up to testify:
 Testifying:
 * 💵Carissa Kemp - [American Diabetes Association](/org/american_diabetes_association/)
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

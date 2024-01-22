@@ -12,7 +12,8 @@
 
 ## [HB 1527](/bill/2023-24/hb/1527/) - Tax increment financing 👍1  
 
-## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍3  
+## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍4  
+* 👍 Suzanne Dale Estey
 * 👍 Suzanne Dale Estey
 * 👍 Suzanne Dale Estey
 * 👍 Suzanne Dale Estey

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6271/</link>
 		<description>Updates about SB 6271</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 19 Jan 2024 12:36:51 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 09:20:10 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -46,6 +46,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Megan/Moore/2024-01-19 12:36:51</guid>
+		</item>
+		<item>
+			<title>👍Caitlein Ryan - THE CANNABIS ALLIANCE</title>
+			<description>Caitlein Ryan signed up to testify Pro. They are signed up to represent THE CANNABIS ALLIANCE.</description>
+			<pubDate>Sun, 21 Jan 2024 06:18:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Caitlein/Ryan/2024-01-21 06:18:29</guid>
+		</item>
+		<item>
+			<title>👍💵Vicki Christophersen - Washington CannaBusiness Association</title>
+			<description>Vicki Christophersen signed up to testify Pro. They are signed up to represent Washington CannaBusiness Association. They are a registered lobbyist.</description>
+			<pubDate>Mon, 22 Jan 2024 07:45:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Vicki/Christophersen/2024-01-22 07:45:43</guid>
+		</item>
+		<item>
+			<title>👎Sage Prengel - 2536 28th ave nw</title>
+			<description>Sage Prengel signed up to testify Con. They are signed up to represent 2536 28th ave nw.</description>
+			<pubDate>Mon, 22 Jan 2024 09:20:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sage/Prengel/2024-01-22 09:20:10</guid>
 		</item>
 	</channel>
 </rss>

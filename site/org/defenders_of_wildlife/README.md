@@ -16,3 +16,6 @@
 ## [SB 5939](/bill/2023-24/sb/5939/) - Livestock wolf predation  👎3 
 * 👎💵 Kathleen Callaghy
 * 👎💵 Kathleen Callaghy
+
+## [SB 6237](/bill/2023-24/sb/6237/) - Wildlife safe passages 👍1  
+* 👍💵 Kathleen Callaghy

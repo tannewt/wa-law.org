@@ -127,7 +127,7 @@
 
 ## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍2  
 
-## [HB 1228](/bill/2023-24/hb/1228/) - Dual & tribal language edu. 👍1  
+## [HB 1228](/bill/2023-24/hb/1228/) - Dual & tribal language edu. 👍2  
 
 ## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍1  
 
@@ -142,7 +142,8 @@
 * 👍 Juliana Morena
 * 👍💵 Simone Boe
 
-## [HB 1239](/bill/2023-24/hb/1239/) - Educator ethics & complaints   ❓1
+## [HB 1239](/bill/2023-24/hb/1239/) - Educator ethics & complaints   ❓2
+* ❓💵 Nasue Nishida
 * ❓💵 Nasue Nishida
 
 ## [HB 1240](/bill/2023-24/hb/1240/) - Firearms/assault weapons 👍2  
@@ -302,7 +303,7 @@
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍3  
 * 👍💵 Simone Boe
 
-## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍6  
+## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍7  
 * 👍💵 Nasue Nishida
 * 👍💵 Nasue Nishida
 
@@ -442,6 +443,8 @@
 * 👍 Rebecca Mathews
 * 👍💵 Simone Boe
 
+## [HB 2084](/bill/2023-24/hb/2084/) - Establishing an oversight committee to improve construction-related training and pathways to state registered apprenticeships in state correctional facilities. 👍1  
+
 ## [HB 2094](/bill/2023-24/hb/2094/) - Gift certificates 👍1  
 
 ## [HB 2095](/bill/2023-24/hb/2095/) - Gift certificates/unclaimed 👍1  
@@ -482,6 +485,8 @@
 
 ## [HB 2246](/bill/2023-24/hb/2246/) - Vacation leave accrual 👍1  
 
+## [HB 2266](/bill/2023-24/hb/2266/) - Construction/sanitary cond. 👍1  
+
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍2  
 
 ## [HB 2282](/bill/2023-24/hb/2282/) - African American studies 👍1  
@@ -493,6 +498,8 @@
 ## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
 
 ## [HB 2374](/bill/2023-24/hb/2374/) - Washington promise program 👍1  
+
+## [HB 2381](/bill/2023-24/hb/2381/) - School calendar waivers   ❓1
 
 ## [SB 5000](/bill/2023-24/sb/5000/) - Americans of Chinese descent 👍1  
 
@@ -862,6 +869,9 @@
 
 ## [SB 5900](/bill/2023-24/sb/5900/) - Concerning construction crane safety. 👍1  
 
+## [SB 5903](/bill/2023-24/sb/5903/) - Concerning representation in the educator preparation act. 👍1  
+* 👍💵 Simone Boe
+
 ## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
 
 ## [SB 5913](/bill/2023-24/sb/5913/) - Concerning communication between employees of state institutions of higher education and student athletes regarding name, image, and likeness use. 👍2  
@@ -887,6 +897,8 @@
 
 ## [SB 5969](/bill/2023-24/sb/5969/) - Adjusting school districts' authority to contract indebtedness for school construction. 👍1  
 
+## [SB 5978](/bill/2023-24/sb/5978/) - Authorizing the office of the superintendent of public instruction to act as a guarantor for a county when the county provides a loan to a school district. 👍1  
+
 ## [SB 5979](/bill/2023-24/sb/5979/) - Concerning accrued leave for construction workers. 👍1  
 
 ## [SB 5987](/bill/2023-24/sb/5987/) - Gift certificates 👍1  
@@ -897,6 +909,9 @@
 
 ## [SB 6007](/bill/2023-24/sb/6007/) - Grocery workers 👍1  
 
+## [SB 6012](/bill/2023-24/sb/6012/) - Teacher preparation programs 👍1  
+* 👍💵 Simone Boe
+
 ## [SB 6014](/bill/2023-24/sb/6014/) - Special education cap 👍2  
 * 👍💵 Julie Salvi
 
@@ -904,8 +919,12 @@
 
 ## [SB 6060](/bill/2023-24/sb/6060/) - Electronic signatures/PERC 👍1  
 
+## [SB 6072](/bill/2023-24/sb/6072/) - LTSS commission recs. 👍1  
+
 ## [SB 6082](/bill/2023-24/sb/6082/) - Paraeducator compensation 👍1  
 * 👍💵 Julie Salvi
+
+## [SB 6085](/bill/2023-24/sb/6085/) - Underground economy 👍1  
 
 ## [SB 6123](/bill/2023-24/sb/6123/) - Classified school employees 👍1  
 * 👍💵 Julie Salvi

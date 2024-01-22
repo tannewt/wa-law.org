@@ -109,6 +109,9 @@
 ## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes.  👎1 
 * 👎💵 Samantha Louderback
 
+## [HB 2052](/bill/2023-24/hb/2052/) - Increasing the availability of baby diaper changing stations.   ❓1
+* ❓💵 Samantha Louderback
+
 ## [HB 2094](/bill/2023-24/hb/2094/) - Gift certificates  👎1 
 * 👎 Montana Miranda
 
@@ -125,6 +128,8 @@
 ## [HB 2211](/bill/2023-24/hb/2211/) - Criminal justice local tax 👍1  
 
 ## [HB 2231](/bill/2023-24/hb/2231/) - Law enforcement funding 👍1  
+
+## [HB 2252](/bill/2023-24/hb/2252/) - Small businesses/residential 👍1  
 
 ## [HB 2277](/bill/2023-24/hb/2277/) - Data brokering  👎1 
 * 👎 Montana Miranda
@@ -216,3 +221,6 @@
 
 ## [SB 5988](/bill/2023-24/sb/5988/) - Gift certificates/unclaimed  👎1 
 * 👎💵 Julia Gorton
+
+## [SB 6122](/bill/2023-24/sb/6122/) - Alcohol delivery 👍1  
+* 👍💵 Julia Gorton

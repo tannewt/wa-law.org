@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31768&aId=157315&caId=23440&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31768&aId=157315&caId=23440&tId=4)
 
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Kelsey Engstrom - Amend at UCSF
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 0 👎 - Con
 

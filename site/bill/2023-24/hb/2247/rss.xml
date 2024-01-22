@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2247/</link>
 		<description>Updates about HB 2247</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 21 Jan 2024 09:53:45 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 08:10:56 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -24,12 +24,36 @@
 			<guid isPermaLink="false">testifier/Bob/Cooper/2024-01-21 02:29:39</guid>
 		</item>
 		<item>
+			<title>❓Joan Miller - WA Council for Behavioral Health</title>
+			<description>Joan Miller signed up to testify Other. They are signed up to represent WA Council for Behavioral Health.</description>
+			<pubDate>Sun, 21 Jan 2024 08:37:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Joan/Miller/2024-01-21 08:37:23</guid>
+		</item>
+		<item>
 			<title>👍Laurie Lippold - Partners for Our Children</title>
 			<description>Laurie Lippold signed up to testify Pro. They are signed up to represent Partners for Our Children.</description>
 			<pubDate>Sun, 21 Jan 2024 09:53:45 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Laurie/Lippold/2024-01-21 09:53:45</guid>
+		</item>
+		<item>
+			<title>❓💵Bob Cooper - National Association of Social Workers WA Chapter</title>
+			<description>Bob Cooper signed up to testify Other. They are signed up to represent National Association of Social Workers WA Chapter. They are a registered lobbyist.</description>
+			<pubDate>Mon, 22 Jan 2024 08:10:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Bob/Cooper/2024-01-22 08:10:56</guid>
+		</item>
+		<item>
+			<title>❓Jeremy Arp - National Associaion of Social Workers WA Chapter</title>
+			<description>Jeremy Arp signed up to testify Other. They are signed up to represent National Associaion of Social Workers WA Chapter.</description>
+			<pubDate>Mon, 22 Jan 2024 08:10:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jeremy/Arp/2024-01-22 08:10:56</guid>
 		</item>
 	</channel>
 </rss>

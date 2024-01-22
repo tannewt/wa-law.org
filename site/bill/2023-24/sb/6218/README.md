@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31744&aId=157192&caId=23400&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31744&aId=157192&caId=23400&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Liselotte Black - Henager Black Salesky Dentistry
+* John Gibbons - Immediate Past President, Washington State Dental Association
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jane Beyer - Office of the Insurance Commissioner

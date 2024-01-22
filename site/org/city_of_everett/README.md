@@ -8,7 +8,7 @@
 
 ## [HB 1446](/bill/2023-24/hb/1446/) - Law enf. officers/increase 👍1  
 
-## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍1  
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍2  
 
 ## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍1  
 

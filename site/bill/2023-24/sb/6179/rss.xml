@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6179/</link>
 		<description>Updates about SB 6179</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 19 Jan 2024 09:35:10 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 07:24:42 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -48,7 +48,7 @@
 			<guid isPermaLink="false">testifier/Shannon/Patch/2024-01-18 12:32:44</guid>
 		</item>
 		<item>
-			<title>👎Jeannette Mcchesney - Delaware North, concessions operator at Climate Pledge Arena</title>
+			<title>👎Jeannette Mcchesney - Washington Technology Industry Association</title>
 			<description>Jeannette Mcchesney signed up to testify Con.</description>
 			<pubDate>Fri, 19 Jan 2024 06:50:20 GMT</pubDate>
 			<category>testifier</category>
@@ -56,12 +56,52 @@
 			<guid isPermaLink="false">testifier/Jeannette/Mcchesney/2024-01-19 06:50:20</guid>
 		</item>
 		<item>
-			<title>👎James Ware - Delaware North, concessions operator at Climate Pledge Arena</title>
+			<title>👎James Ware - Washington Technology Industry Association</title>
 			<description>James Ware signed up to testify Con.</description>
 			<pubDate>Fri, 19 Jan 2024 09:35:10 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/James/Ware/2024-01-19 09:35:10</guid>
+		</item>
+		<item>
+			<title>👎Judith Wiersma - Washington Technology Industry Association</title>
+			<description>Judith Wiersma signed up to testify Con.</description>
+			<pubDate>Sun, 21 Jan 2024 04:49:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Judith/Wiersma/2024-01-21 04:49:39</guid>
+		</item>
+		<item>
+			<title>👍Robert (Bob) Battles - Association of Washington Business (AWB)</title>
+			<description>Robert (Bob) Battles signed up to testify Pro. They are signed up to represent Association of Washington Business (AWB).</description>
+			<pubDate>Sun, 21 Jan 2024 08:20:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Robert (Bob)/Battles/2024-01-21 08:20:00</guid>
+		</item>
+		<item>
+			<title>👎Susanna Jones - Washington Technology Industry Association</title>
+			<description>Susanna Jones signed up to testify Con.</description>
+			<pubDate>Sun, 21 Jan 2024 11:07:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Susanna/Jones/2024-01-21 11:07:28</guid>
+		</item>
+		<item>
+			<title>👍Shannon Patch - Delaware North, concessions operator at Climate Pledge Arena</title>
+			<description>Shannon Patch signed up to testify Pro. They are signed up to represent Delaware North, concessions operator at Climate Pledge Arena.</description>
+			<pubDate>Mon, 22 Jan 2024 07:17:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Shannon/Patch/2024-01-22 07:17:44</guid>
+		</item>
+		<item>
+			<title>👍💵Kelly Fukai - Washington Technology Industry Association</title>
+			<description>Kelly Fukai signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_technology_industry_association/&quot;&gt;Washington Technology Industry Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 22 Jan 2024 07:24:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kelly/Fukai/2024-01-22 07:24:42</guid>
 		</item>
 	</channel>
 </rss>

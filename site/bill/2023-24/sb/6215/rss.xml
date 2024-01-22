@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6215/</link>
 		<description>Updates about SB 6215</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 15 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 09:21:10 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,14 @@
 			<pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-15/First reading, referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👍💵Emily Shay - Association of Washington Buisness</title>
+			<description>Emily Shay signed up to testify Pro. They are signed up to represent Association of Washington Buisness. They are a registered lobbyist.</description>
+			<pubDate>Mon, 22 Jan 2024 09:21:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Emily/Shay/2024-01-22 09:21:10</guid>
 		</item>
 	</channel>
 </rss>

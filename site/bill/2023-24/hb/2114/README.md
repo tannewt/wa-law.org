@@ -20,11 +20,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31717&aId=157728&caId=23615&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31717&aId=157728&caId=23615&tId=4)
 
-#### 123 👍 - Pro
+#### 238 👍 - Pro
 Testifying:
 * Stacey Valenzuela
+* J Kelley Rinehart
+* 💵Kristin Ang - Faith Action Network (FAN)
 
-#### 0 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Tim Eyman - Initiative Activist
+* Jeffrey Pack - Washington Citizens Against Unfair Taxes
 
 #### 0 ❓ - Other
 

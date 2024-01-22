@@ -60,5 +60,11 @@
 
 ## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍1  
 
+## [SB 6056](/bill/2023-24/sb/6056/) - Human trafficking/hotels 👍1  
+
 ## [SB 6109](/bill/2023-24/sb/6109/) - Children and families 👍2  
 * 👍 Paula Reed
+
+## [SB 6135](/bill/2023-24/sb/6135/) - TANF transitional assistance 👍1  
+
+## [SB 6216](/bill/2023-24/sb/6216/) - Student mental health net. 👍1  

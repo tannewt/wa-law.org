@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2363/</link>
 		<description>Updates about HB 2363</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 21 Jan 2024 03:18:17 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 10:34:42 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -38,6 +38,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Josh/McDonald/2024-01-21 03:18:17</guid>
+		</item>
+		<item>
+			<title>❓Joshua Rutherford - Cockrell Cider</title>
+			<description>Joshua Rutherford signed up to testify Other.</description>
+			<pubDate>Mon, 22 Jan 2024 07:43:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Joshua/Rutherford/2024-01-22 07:43:32</guid>
+		</item>
+		<item>
+			<title>👍Rhyan Cockrell - Cockrell Cider</title>
+			<description>Rhyan Cockrell signed up to testify Pro. They are signed up to represent Cockrell Cider.</description>
+			<pubDate>Mon, 22 Jan 2024 10:34:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rhyan/Cockrell/2024-01-22 10:34:42</guid>
+		</item>
+		<item>
+			<title>👍Richard Cockrell - Cockrell Cider</title>
+			<description>Richard Cockrell signed up to testify Pro. They are signed up to represent Cockrell Cider.</description>
+			<pubDate>Mon, 22 Jan 2024 10:34:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Richard/Cockrell/2024-01-22 10:34:42</guid>
 		</item>
 	</channel>
 </rss>

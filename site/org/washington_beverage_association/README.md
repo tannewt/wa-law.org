@@ -18,3 +18,6 @@
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management   ❓1
 * ❓💵 Brad Boswell
+
+## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management  👎1 
+* 👎💵 Brad Boswell

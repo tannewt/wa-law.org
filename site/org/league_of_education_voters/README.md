@@ -79,5 +79,7 @@
 
 ## [SB 5883](/bill/2023-24/sb/5883/) - Concerning the burden of proof for special education due process hearings. 👍1  
 
+## [SB 5903](/bill/2023-24/sb/5903/) - Concerning representation in the educator preparation act. 👍1  
+
 ## [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation  👎1 
 * 👎 Eric Holzapfel

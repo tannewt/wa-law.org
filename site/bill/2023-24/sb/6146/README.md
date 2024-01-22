@@ -8,19 +8,20 @@
 
 ## Meetings
 ### Mon 01/22 10:30 AM - Law & Justice (LAW): SB 6146 Tribal warrants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31691&aId=156902&caId=23299&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31691&aId=156902&caId=23299&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31691&aId=156902&caId=23299&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31691&aId=156902&caId=23299&tId=4)
-
-#### 4 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
+* Brian Kilgore - Tulalip Tribes of WA
+* Chairwoman, Teri Gobin - Tulalip Tribes of WA
 * Police Chief Mike Lasnier - The Suquamish Tribe
 * Ben Brueseke - The Suquamish Tribe
+* Ronald Whitener
+* Margaret Finkbonner - Victim Advocate for the Swinomish Indian Tribal Community
+* Melissa Simonsen - Prosecuting Attorney for the Swinomish Indian Tribal Community
+* Chelsea Sayles - Tribal Attorney for the Quileute Tribe
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
+* James McMahan - WA Assoc Sheriffs & Police Chiefs

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2169/</link>
 		<description>Updates about HB 2169</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 20 Jan 2024 05:06:49 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 08:45:12 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -52,6 +52,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Kelsey/Engstrom/2024-01-20 05:06:49</guid>
+		</item>
+		<item>
+			<title>👍James McMahan - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>James McMahan signed up to testify Pro. They are signed up to represent WA Assoc Sheriffs &amp; Police Chiefs.</description>
+			<pubDate>Mon, 22 Jan 2024 08:45:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/James/McMahan/2024-01-22 08:45:12</guid>
 		</item>
 	</channel>
 </rss>

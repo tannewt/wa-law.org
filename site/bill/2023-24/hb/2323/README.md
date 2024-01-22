@@ -14,13 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31778&aId=157406&caId=23539&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31778&aId=157406&caId=23539&tId=4)
 
-#### 2 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
-#### 57 👎 - Con
+#### 72 👎 - Con
 Testifying:
 * Constance Nelson
 * Shane Mcgraw - No
+* Siddhant Bahadur
+* Patricia Hoendermis - Yakima Valley Landlords Assoc.
 
 #### 0 ❓ - Other

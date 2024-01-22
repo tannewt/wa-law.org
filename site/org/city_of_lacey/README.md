@@ -5,4 +5,6 @@
 
 ## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services 👍1  
 
+## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍1  
+
 ## [SB 5324](/bill/2023-24/sb/5324/) - Defense compatibility acct. 👍1  

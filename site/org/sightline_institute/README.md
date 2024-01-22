@@ -85,6 +85,10 @@
 
 ## [HB 2219](/bill/2023-24/hb/2219/) - Affordable housing/tax ex. 👍1  
 
+## [HB 2252](/bill/2023-24/hb/2252/) - Small businesses/residential 👍1  
+
+## [HB 2308](/bill/2023-24/hb/2308/) - Existing structures/housing 👍1  
+
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍1  
 
 ## [SB 5112](/bill/2023-24/sb/5112/) - Voter registration 👍2  

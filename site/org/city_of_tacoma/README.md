@@ -173,4 +173,6 @@
 ## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  
 * 👍💵 Briahna Murray
 
+## [SB 6009](/bill/2023-24/sb/6009/) - Hog-tying 👍1  
+
 ## [SB 6242](/bill/2023-24/sb/6242/) - Law enforcement training 👍1  

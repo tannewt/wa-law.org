@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2255/</link>
 		<description>Updates about HB 2255</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 18 Jan 2024 05:33:04 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 07:46:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -70,6 +70,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Ezra/Eickmeyer/2024-01-18 05:33:04</guid>
+		</item>
+		<item>
+			<title>👍Scott Waller - Washington Association for Substance misuse and Violence Prevention (WASAVP)</title>
+			<description>Scott Waller signed up to testify Pro. They are signed up to represent Washington Association for Substance misuse and Violence Prevention (WASAVP).</description>
+			<pubDate>Mon, 22 Jan 2024 01:27:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Scott/Waller/2024-01-22 01:27:46</guid>
+		</item>
+		<item>
+			<title>👎Joshua Rutherford - Washington CannaBusiness Association</title>
+			<description>Joshua Rutherford signed up to testify Con.</description>
+			<pubDate>Mon, 22 Jan 2024 07:37:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Joshua/Rutherford/2024-01-22 07:37:33</guid>
+		</item>
+		<item>
+			<title>👍💵Brooke Davies - Washington CannaBusiness Association</title>
+			<description>Brooke Davies signed up to testify Pro. They are signed up to represent Washington CannaBusiness Association. They are a registered lobbyist.</description>
+			<pubDate>Mon, 22 Jan 2024 07:46:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brooke/Davies/2024-01-22 07:46:13</guid>
 		</item>
 	</channel>
 </rss>

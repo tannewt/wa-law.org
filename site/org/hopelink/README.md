@@ -76,6 +76,8 @@
 
 ## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍1  
 
+## [HB 2191](/bill/2023-24/hb/2191/) - PTBA governing body members 👍1  
+
 ## [HB 2234](/bill/2023-24/hb/2234/) - Low-income energy assistance 👍1  
 
 ## [HB 2256](/bill/2023-24/hb/2256/) - Children behavioral health 👍1  
@@ -137,5 +139,7 @@
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development 👍1  
 
 ## [SB 6112](/bill/2023-24/sb/6112/) - Donated food items/B&O tax  👎1 
+
+## [SB 6135](/bill/2023-24/sb/6135/) - TANF transitional assistance 👍1  
 
 ## [SB 6136](/bill/2023-24/sb/6136/) - Rental property B&O tax 👍1  

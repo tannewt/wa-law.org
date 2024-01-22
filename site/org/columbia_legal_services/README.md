@@ -131,6 +131,8 @@
 
 ## [HB 1953](/bill/2023-24/hb/1953/) - Improving access to department of licensing issued documents by clarifying the application requirements for a minor, modifying the requirements for at-cost identicards, and studying the feasibility of reduced-fee identicards. 👍1  
 
+## [HB 2001](/bill/2023-24/hb/2001/) - Sentence modification 👍1  
+
 ## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍1  
 
 ## [HB 2030](/bill/2023-24/hb/2030/) - Revoking a person's voting rights only when convicted of a state crime punishable by death. 👍1  
@@ -142,7 +144,7 @@
 ## [HB 2097](/bill/2023-24/hb/2097/) - Worker wage recovery 👍1  
 * 👍💵 Andrea Schmitt
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍2  
 
 ## [HB 2119](/bill/2023-24/hb/2119/) - Medical debt garnishment 👍1  
 
@@ -150,6 +152,8 @@
 * 👍💵 Andrea Schmitt
 
 ## [HB 2251](/bill/2023-24/hb/2251/) - Unenforceable LFOs 👍1  
+
+## [HB 2323](/bill/2023-24/hb/2323/) - Rent payments/credit reports 👍1  
 
 ## [SB 5028](/bill/2023-24/sb/5028/) - Name changes 👍2  
 
@@ -231,6 +235,8 @@
 
 ## [SB 5912](/bill/2023-24/sb/5912/) - Reentry services & supports 👍1  
 
+## [SB 5953](/bill/2023-24/sb/5953/) - Incarcerated student grants 👍1  
+
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍1  
 
 ## [SB 5974](/bill/2023-24/sb/5974/) - Unenforceable LFOs 👍1  
@@ -247,3 +253,7 @@
 
 ## [SB 6189](/bill/2023-24/sb/6189/) - Jail system 👍1  
 * 👍 Laurel Jones
+
+## [SB 6212](/bill/2023-24/sb/6212/) - Rent payments/credit reports 👍1  
+
+## [SB 6226](/bill/2023-24/sb/6226/) - DSHS fraud office reporting 👍1  

@@ -345,6 +345,8 @@
 ## [HB 2026](/bill/2023-24/hb/2026/) - Concerning rental income received by people eligible for certain property tax exemption programs. 👍1  
 * 👍 Morgan Irwin
 
+## [HB 2035](/bill/2023-24/hb/2035/) - Concerning restrictions on the working conditions and hours of sixteen- and seventeen-year olds. 👍1  
+
 ## [HB 2039](/bill/2023-24/hb/2039/) - Modifying the appeals process for environmental and land use matters. 👍1  
 * 👍💵 Peter Godlewski
 
@@ -361,6 +363,8 @@
 
 ## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions.  👎1 
 * 👎💵 Peter Godlewski
+
+## [HB 2077](/bill/2023-24/hb/2077/) - GET program participation 👍1  
 
 ## [HB 2101](/bill/2023-24/hb/2101/) - Child care licensing fees 👍1  
 
@@ -394,6 +398,8 @@
 
 ## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍1  
 
+## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍1  
+
 ## [HB 2236](/bill/2023-24/hb/2236/) - Tech. ed. core plus programs   ❓1
 * ❓💵 Emily Wittman
 
@@ -410,6 +416,8 @@
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes  👎1 
 * 👎💵 Emily Shay
+
+## [HB 2295](/bill/2023-24/hb/2295/) - Hospital at-home services 👍1  
 
 ## [HB 2308](/bill/2023-24/hb/2308/) - Existing structures/housing 👍1  
 
@@ -692,3 +700,7 @@
 * 👍💵 Amy Anderson
 
 ## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍1  
+
+## [SB 6257](/bill/2023-24/sb/6257/) - Hospital charity/residency 👍1  
+
+## [SB 6258](/bill/2023-24/sb/6258/) - Standardized health plans  👎1 

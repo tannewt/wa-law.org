@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31765&aId=157301&caId=23319&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31765&aId=157301&caId=23319&tId=4)
 
-#### 46 👍 - Pro
+#### 70 👍 - Pro
 Testifying:
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 * Khalid Sirad - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
@@ -22,8 +22,9 @@ Testifying:
 * ivanova Smith
 * Katie McGrew
 * Amy Jones
+* Becky Ramsey - [Spokane Public Schools](/org/spokane_public_schools/)
 
-#### 328 👎 - Con
+#### 446 👎 - Con
 Testifying:
 * Eric Holzapfel - [League of Education Voters](/org/league_of_education_voters/)
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
@@ -36,12 +37,16 @@ Testifying:
 * Marian Chacon
 * Sarah Butcher - Roots of Inclusion
 * Jeannette Mcchesney
+* Leslie Maxwell - Preschool Special Education Paraeducator
 * ARZU FOROUGH - Washington Autism Alliance
+* Russ Hamerly
 
-#### 30 ❓ - Other
+#### 38 ❓ - Other
 Testifying:
 * Shannon Hitch - Lake Washington School District
 * Tawni Barlow - Medical Lake School District
 * Erin Smelser - paraeducator at LaCenter School District
 * Cheryl Pirozok - Cheryl Pirozok
 * Rick Chisa - Public School Employees of WA/SEIU 1948
+* Howard Bowman
+* Mikhail Cherniske - Office of Superintendent of Public Instruction

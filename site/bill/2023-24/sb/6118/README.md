@@ -8,22 +8,19 @@
 
 ## Meetings
 ### Mon 01/22 10:30 AM - Labor & Commerce (LC): SB 6118 Vapor product directory
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31749&aId=157205&caId=23307&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31749&aId=157205&caId=23307&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31749&aId=157205&caId=23307&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31749&aId=157205&caId=23307&tId=4)
-
-#### 58 👍 - Pro
+#### 63 👍 - Pro
 Testifying:
 * Kerry Schulz - Creekside Market
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * Chong Sullivan - Korean American Grocers Association
 * John Haberman - Wentachee Valley Truck Stop
+* Mike Palelek - CoreMark
 * Gloria Grylls - United Pacific
 * Carol Sanker
+* Stefan Bjes - Blue Line Spectrum Safety Law Enforcement Consulting
+* Dave Dobbins - Altria Client Services
 
-#### 578 👎 - Con
+#### 625 👎 - Con
 Testifying:
 * Shaun D’Sylva - Washington Smoke Free
 * Kollin Esslinger
@@ -35,7 +32,11 @@ Testifying:
 * James Hoy
 * Jaimey Brower
 * Ramadan Ramadan
+* Gregory Conley - Director of External Affairs American Vapor Manufacturers
+* 💵Sara Stewart - WA Smoke Free Association
+* Shaun D'Sylva - WA Smoke Free Assocation
 
-#### 3 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
+* Nitin Moudgill

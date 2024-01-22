@@ -47,6 +47,11 @@
 ## [HB 2273](/bill/2023-24/hb/2273/) - Functional recovery building 👍1  
 * 👍 Corina Allen
 
+## [HB 2333](/bill/2023-24/hb/2333/) - Carbon seq./state lands 👍1  
+* 👍 Brian Considine
+
+## [SB 5667](/bill/2023-24/sb/5667/) - Forestry riparian easements 👍1  
+
 ## [SB 5946](/bill/2023-24/sb/5946/) - Fallen firefighter memorial 👍2  
 * 👍 Brian Considine
 * 👍 George Geissler
@@ -58,5 +63,7 @@
 ## [SB 6062](/bill/2023-24/sb/6062/) - DNR trust asset leasing 👍2  
 * 👍 Christina Frantz
 * 👍 Duane Emmons
+
+## [SB 6100](/bill/2023-24/sb/6100/) - Budget stabilization account 👍1  
 
 ## [SB 6121](/bill/2023-24/sb/6121/) - Biochar production 👍1  

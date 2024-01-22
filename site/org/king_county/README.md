@@ -321,6 +321,8 @@
 
 ## [HB 1935](/bill/2023-24/hb/1935/) - Promoting resource conservation practices that include student education and leadership opportunities in public schools. 👍1  
 
+## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍1  
+
 ## [HB 1952](/bill/2023-24/hb/1952/) - Concerning long-term community recovery after disasters. 👍1  
 
 ## [HB 1956](/bill/2023-24/hb/1956/) - Addressing fentanyl and other substance use prevention education. 👍1  
@@ -343,6 +345,8 @@
 
 ## [HB 2073](/bill/2023-24/hb/2073/) - Concerning emissions of greenhouse gases from sources other than methane and carbon dioxide. 👍1  
 
+## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍1  
+
 ## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍1  
 * 👍💵 Michael White
 
@@ -362,6 +366,8 @@
 
 ## [HB 2151](/bill/2023-24/hb/2151/) - Reassigning the accreditation of private cannabis testing laboratories from the department of ecology to the department of agriculture. 👍1  
 
+## [HB 2158](/bill/2023-24/hb/2158/) - Urban growth area boundaries  👎1 
+
 ## [HB 2186](/bill/2023-24/hb/2186/) - Juv. deferred adjudications 👍1  
 
 ## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities 👍1  
@@ -369,24 +375,36 @@
 ## [HB 2211](/bill/2023-24/hb/2211/) - Criminal justice local tax 👍1  
 * 👍💵 Michael White
 
+## [HB 2219](/bill/2023-24/hb/2219/) - Affordable housing/tax ex. 👍1  
+
 ## [HB 2231](/bill/2023-24/hb/2231/) - Law enforcement funding   ❓1
 
 ## [HB 2234](/bill/2023-24/hb/2234/) - Low-income energy assistance 👍1  
 
 ## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍1  
 
+## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍1  
+
 ## [HB 2256](/bill/2023-24/hb/2256/) - Children behavioral health 👍1  
 
 ## [HB 2258](/bill/2023-24/hb/2258/) - Regional 911 funding  👎1 
+
+## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍1  
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
 ## [HB 2297](/bill/2023-24/hb/2297/) - Solar energy systems/schools 👍1  
 
+## [HB 2347](/bill/2023-24/hb/2347/) - Adult family home info. 👍1  
+
 ## [HB 2361](/bill/2023-24/hb/2361/) - Standardized health plans 👍1  
 
 ## [HB 2368](/bill/2023-24/hb/2368/) - Refugee & immigrant assist. 👍1  
 * 👍 Michael Padilla Ocampo
+
+## [HB 2394](/bill/2023-24/hb/2394/) - SEPA/trails and paths 👍1  
+
+## [HB 2403](/bill/2023-24/hb/2403/) - Kennel fire safety standards 👍1  
 
 ## [SB 5006](/bill/2023-24/sb/5006/) - Waiver of firearm rights 👍1  
 
@@ -414,7 +432,7 @@
 
 ## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍1  
 
-## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍3  
+## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍4  
 
 ## [SB 5100](/bill/2023-24/sb/5100/) - Breast & chest wall surgery 👍1  
 
@@ -641,6 +659,8 @@
 
 ## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍1  
 
+## [SB 5660](/bill/2023-24/sb/5660/) - Mental health adv directives 👍1  
+
 ## [SB 5696](/bill/2023-24/sb/5696/) - PEBB/subdivision retirees 👍2  
 
 ## [SB 5702](/bill/2023-24/sb/5702/) - Student homelessness pilot 👍1  
@@ -685,5 +705,11 @@
 ## [SB 6163](/bill/2023-24/sb/6163/) - Biosolids 👍1  
 
 ## [SB 6220](/bill/2023-24/sb/6220/) - High THC cannabis products 👍1  
+
+## [SB 6242](/bill/2023-24/sb/6242/) - Law enforcement training 👍1  
+
+## [SB 6269](/bill/2023-24/sb/6269/) - Alt. voter verification 👍1  
+
+## [SB 6276](/bill/2023-24/sb/6276/) - Digital electronics/repair 👍1  
 
 ## [SJR 8201](/bill/2023-24/sjr/8201/) - Public works account 👍1  

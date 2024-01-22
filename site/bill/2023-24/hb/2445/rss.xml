@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 2445 - Leasing/state parks comm.</title>
+		<link>https://wa-law.org/bill/2023-24/hb/2445/</link>
+		<description>Updates about HB 2445</description>
+		<language>en-US</language>
+		<lastBuildDate>Mon, 22 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>👍Owen Rowe - State Parks and Recreation Commission</title>
+			<description>Owen Rowe signed up to testify Pro. They are signed up to represent State Parks and Recreation Commission.</description>
+			<pubDate>Sun, 21 Jan 2024 05:41:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Owen/Rowe/2024-01-21 05:41:26</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Innovation, Community &amp; Economic Development, &amp; Veterans (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Innovation, Community &amp; Economic Development, &amp; Veterans (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-22/First reading, referred to Innovation, Community &amp; Economic Development, &amp; Veterans (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+	</channel>
+</rss>

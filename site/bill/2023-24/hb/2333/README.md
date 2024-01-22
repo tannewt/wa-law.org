@@ -17,14 +17,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31779&aId=157416&caId=23437&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31779&aId=157416&caId=23437&tId=4)
 
-#### 1 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * 💵Isaac Kastama - Clean & Prosperous Washington
+* Susanna Jones
+* Brian Considine - [Department of Natural Resources](/org/department_of_natural_resources/)
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * John Worthington
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Harriet Morgan - WDFW
+* 💵Heath Heikkila - American Forest Resource Council

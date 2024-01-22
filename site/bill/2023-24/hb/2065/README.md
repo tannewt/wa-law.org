@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31768&aId=157317&caId=23442&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31768&aId=157317&caId=23442&tId=4)
 
-#### 1088 👍 - Pro
+#### 1301 👍 - Pro
 Testifying:
 * Noreen Light - Information For A Change
 * Troy williams - Testify @washington state correctional center
@@ -30,9 +30,12 @@ Testifying:
 * Dr. Katherine Beckett - [University of Washington](/org/university_of_washington/)
 * Judge André Peñalver
 * Patrick Brown
+* Vice Chair Misty Napeahi - Tulalip Tribes
 
-#### 6 👎 - Con
+#### 11 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
+* 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 4 ❓ - Other

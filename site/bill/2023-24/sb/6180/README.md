@@ -14,12 +14,27 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31724&aId=157103&caId=23356&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31724&aId=157103&caId=23356&tId=4)
 
-#### 42 👍 - Pro
+#### 166 👍 - Pro
 Testifying:
 * Jay Blazey - [Cedar Grove](/org/cedar_grove/)
 * Andrea Collins - NRDC (Natural Resources Defense Council)
+* Deepa Sivarajan - [Climate Solutions](/org/climate_solutions/)
+* Tori Oto - Food Law and Policy Clinic, Harvard Law School
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* Tom French - Northwest Food Alliance
+* Janet` Thoman - Compost Manufacturing Alliance LLC
+* Troy Lautenbach - Skagit Soils
+* Jim Holbery - Nvirovate Materials, Inc.
+* Kate Kurtz - Seattle Public Utilities
+* Liv Johansson - Washington Organic Recycling Council (WORC)
+* Scott Smithline - Mill Industries
+* Brian Pontious - Ingevity
 
-#### 11 👎 - Con
+#### 21 👎 - Con
+Testifying:
+* 💵Brandon Houskeeper - NW Grocery Assoc.
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
 
 #### 2 ❓ - Other
 Testifying:

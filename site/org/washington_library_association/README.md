@@ -14,6 +14,9 @@
 ## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
 * 👍💵 Carolyn Logue
 
+## [HB 2331](/bill/2023-24/hb/2331/) - Public school materials 👍1  
+* 👍💵 Carolyn Logue
+
 ## [HB 2360](/bill/2023-24/hb/2360/) - Digital workforce 👍1  
 
 ## [HB 2398](/bill/2023-24/hb/2398/) - Instruct. materials/parents 👍1  

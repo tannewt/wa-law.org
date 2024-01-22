@@ -14,13 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31722&aId=157096&caId=23381&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31722&aId=157096&caId=23381&tId=4)
 
-#### 41 👍 - Pro
+#### 44 👍 - Pro
+Testifying:
+* Julie McCabe - Seattle Humane Socity
+* 💵Susan Riggs - ASPCA
 
-#### 148 👎 - Con
+#### 178 👎 - Con
 Testifying:
 * Constance Nelson
 * Barbara Korducki
 * Siddhant Bahadur
 * Donna Walters
+* Marlene Scheffer
 
 #### 0 ❓ - Other

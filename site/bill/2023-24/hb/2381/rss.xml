@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2381/</link>
 		<description>Updates about HB 2381</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 16 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 08:59:53 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,22 @@
 			<pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-16/First reading, referred to Education.</guid>
+		</item>
+		<item>
+			<title>👍Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)</title>
+			<description>Jenny Plaja signed up to testify Pro. They are signed up to represent Office of Superintendent of Public Instruction (OSPI).</description>
+			<pubDate>Sun, 21 Jan 2024 09:33:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jenny/Plaja/2024-01-21 09:33:34</guid>
+		</item>
+		<item>
+			<title>👍Jim Kowalkowski - Rural Education Center</title>
+			<description>Jim Kowalkowski signed up to testify Pro. They are signed up to represent Rural Education Center.</description>
+			<pubDate>Mon, 22 Jan 2024 08:59:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jim/Kowalkowski/2024-01-22 08:59:53</guid>
 		</item>
 	</channel>
 </rss>

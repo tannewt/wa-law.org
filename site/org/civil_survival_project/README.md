@@ -34,6 +34,8 @@
 ## [HB 2030](/bill/2023-24/hb/2030/) - Revoking a person's voting rights only when convicted of a state crime punishable by death. 👍2  
 * 👍💵 Anthony Blankenship
 
+## [HB 2065](/bill/2023-24/hb/2065/) - Recalculating sentencing ranges for currently incarcerated individuals whose offender score was increased by juvenile convictions. 👍2  
+
 ## [HB 2084](/bill/2023-24/hb/2084/) - Establishing an oversight committee to improve construction-related training and pathways to state registered apprenticeships in state correctional facilities. 👍1  
 
 ## [HB 2099](/bill/2023-24/hb/2099/) - State custody/ID cards 👍3  

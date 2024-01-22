@@ -167,7 +167,7 @@
 
 ## [HB 2149](/bill/2023-24/hb/2149/) - Protecting consumer personal information.  👎1 
 
-## [HB 2160](/bill/2023-24/hb/2160/) - Housing development  👎1 
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development  👎2 
 
 ## [HB 2236](/bill/2023-24/hb/2236/) - Tech. ed. core plus programs   ❓1
 
@@ -176,6 +176,8 @@
 
 ## [HB 2321](/bill/2023-24/hb/2321/) - Middle housing requirements 👍1  
 * 👍💵 Bill Stauffacher
+
+## [HB 2353](/bill/2023-24/hb/2353/) - Residential targeted areas 👍1  
 
 ## [SB 5027](/bill/2023-24/sb/5027/) - American dream homes  👎1 
 * 👎💵 Jan Himebaugh
@@ -258,7 +260,7 @@
 
 ## [SB 5491](/bill/2023-24/sb/5491/) - Residential building exits 👍2  
 
-## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation 👍1  
+## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation 👍2  
 
 ## [SB 5609](/bill/2023-24/sb/5609/) - Housing approval 👍3  
 * 👍💵 Josie Cummings

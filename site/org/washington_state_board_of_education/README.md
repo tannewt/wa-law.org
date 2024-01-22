@@ -15,7 +15,7 @@
 
 ## [HB 1207](/bill/2023-24/hb/1207/) - Harassment/schools 👍2  
 
-## [HB 1228](/bill/2023-24/hb/1228/) - Dual & tribal language edu. 👍1  
+## [HB 1228](/bill/2023-24/hb/1228/) - Dual & tribal language edu. 👍2  
 
 ## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍1  
 
@@ -91,6 +91,8 @@
 
 ## [HB 2282](/bill/2023-24/hb/2282/) - African American studies 👍1  
 * 👍 Brooke Brown
+
+## [HB 2335](/bill/2023-24/hb/2335/) - State-tribal edu. compacts 👍1  
 
 ## [SB 5020](/bill/2023-24/sb/5020/) - Education at 6 years of age 👍1  
 
@@ -177,6 +179,11 @@
 
 ## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍1  
 
+## [SB 5903](/bill/2023-24/sb/5903/) - Concerning representation in the educator preparation act. 👍1  
+
 ## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍1  
+
+## [SB 6012](/bill/2023-24/sb/6012/) - Teacher preparation programs 👍1  
+* 👍 Alissa Muller
 
 ## [SB 6014](/bill/2023-24/sb/6014/) - Special education cap 👍1  

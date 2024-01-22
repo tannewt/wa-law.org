@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31766&aId=157307&caId=23379&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31766&aId=157307&caId=23379&tId=4)
 
-#### 99 👍 - Pro
+#### 134 👍 - Pro
+Testifying:
+* Jake Tyrell
+* Kevin Chase
+* 💵Melissa Gombosky - Association of Educational Service District (AESD)
+* Mikhail Cherniske - Office of Superintendent of Public Instruction
 
-#### 141 👎 - Con
+#### 400 👎 - Con
 
 #### 0 ❓ - Other

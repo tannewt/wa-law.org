@@ -16,6 +16,8 @@
 
 ## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍1  
 
+## [HB 2408](/bill/2023-24/hb/2408/) - Crisis response comm methods 👍1  
+
 ## [SB 5036](/bill/2023-24/sb/5036/) - Audio-only telemedicine 👍1  
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  

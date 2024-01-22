@@ -49,6 +49,9 @@
 ## [HB 2218](/bill/2023-24/hb/2218/) - Extended foster care 👍1  
 * 👍💵 Daniel Lugo
 
+## [HB 2224](/bill/2023-24/hb/2224/) - Child abuse referral tool 👍1  
+* 👍 Fred Kingston
+
 ## [HB 2251](/bill/2023-24/hb/2251/) - Unenforceable LFOs 👍3  
 * 👍 Arthur Longworth
 

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31702&aId=157165&caId=23453&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31702&aId=157165&caId=23453&tId=4)
 
-#### 6 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * 💵John Rothlin - Avista
 * Charlie Brown - Cascade Government Affairs

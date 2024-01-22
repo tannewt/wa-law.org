@@ -17,10 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31779&aId=157414&caId=23435&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31779&aId=157414&caId=23435&tId=4)
 
-#### 1 👍 - Pro
+#### 62 👍 - Pro
+Testifying:
+* Susanna Jones
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * John Worthington
+* 💵Scott Hazlegrove - WA Association of Sewer & Water Districts
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Adam Eitmann - Department of Ecology

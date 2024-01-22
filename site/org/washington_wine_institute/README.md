@@ -78,4 +78,6 @@
 
 ## [SB 5733](/bill/2023-24/sb/5733/) - Payment card processing/tax 👍1  
 
+## [SB 6122](/bill/2023-24/sb/6122/) - Alcohol delivery 👍1  
+
 ## [SB 6219](/bill/2023-24/sb/6219/) - Agritourism 👍1  

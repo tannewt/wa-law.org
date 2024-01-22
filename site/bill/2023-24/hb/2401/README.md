@@ -17,11 +17,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31779&aId=157417&caId=23438&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31779&aId=157417&caId=23438&tId=4)
 
-#### 33 👍 - Pro
+#### 168 👍 - Pro
+Testifying:
+* Bobby Farris - Total Reclaim, Inc.
+* 💵Mike Armstrong - A-Gas
+* Richie Kaur - Natural Resources Defense Council
+* Christina Starr - Environmental Investigation Agency
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Ruth Ivory-Moore - Hudson Technologies
 
-#### 1 👎 - Con
+#### 21 👎 - Con
+Testifying:
+* Susanna Jones
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Peter Lyon - Washington State Department of Ecology
 * 💵Jacob Cassady - Association of Home Appliance Manufacturers (AHAM)
+* 💵Carolyn Logue - WA Air Conditioning Contractors Association

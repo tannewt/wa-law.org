@@ -14,12 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31758&aId=157594&caId=23575&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31758&aId=157594&caId=23575&tId=4)
 
-#### 3 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
 * 💵Ezra Eickmeyer
+* Scott Waller - Washington Association for Substance misuse and Violence Prevention (WASAVP)
+* 💵Brooke Davies - Washington CannaBusiness Association
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Joshua Rutherford
 
 #### 0 ❓ - Other
 

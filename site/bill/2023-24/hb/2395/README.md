@@ -18,8 +18,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31769&aId=157322&caId=23505&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31769&aId=157322&caId=23505&tId=4)
 
-#### 1 👍 - Pro
+#### 22 👍 - Pro
 
-#### 14 👎 - Con
+#### 19 👎 - Con
+Testifying:
+* Kate Stewart - Director, Sex Positive Washington
 
 #### 1 ❓ - Other

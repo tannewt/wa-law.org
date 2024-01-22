@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31740&aId=157174&caId=23334&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31740&aId=157174&caId=23334&tId=4)
 
-#### 30 👍 - Pro
+#### 36 👍 - Pro
 Testifying:
 * Anne McEnerny-Ogle - Mayor of Vancouver
 * Constance Nelson
 
-#### 15 👎 - Con
+#### 16 👎 - Con
 
 #### 0 ❓ - Other

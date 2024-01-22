@@ -17,8 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157324&caId=23543&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157324&caId=23543&tId=4)
 
-#### 3 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Bob West - Umpires and Referees Stopping Assaults For Ever (www.ur-safe.org)
 
-#### 0 👎 - Con
+#### 6 👎 - Con
 
 #### 0 ❓ - Other

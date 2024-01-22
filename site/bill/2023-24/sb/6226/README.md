@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31701&aId=157024&caId=23386&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31701&aId=157024&caId=23386&tId=4)
 
-#### 5 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * April Mazur - Benefits Legal Assistance at Solid Ground
 

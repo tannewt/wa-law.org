@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 1910 - Concerning pawnbroker fees and interest rates.</title>
+		<title>HB 1910 - Pawnbroker fees, int. rates</title>
 		<link>https://wa-law.org/bill/2023-24/hb/1910/</link>
 		<description>Updates about HB 1910</description>
 		<language>en-US</language>
@@ -107,6 +107,13 @@
 			<pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-19/CPB - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>CPB - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>CPB - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-19/CPB - Majority; 1st substitute bill be substituted, do pass.</guid>
 		</item>
 	</channel>
 </rss>

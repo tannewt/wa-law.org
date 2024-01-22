@@ -14,3 +14,6 @@
 
 ## [SB 6136](/bill/2023-24/sb/6136/) - Rental property B&O tax  👎1 
 * 👎 William Shadbolt
+
+## [SB 6203](/bill/2023-24/sb/6203/) - Self-service storage rental 👍2  
+* 👍 William Shadbolt

@@ -1,6 +1,6 @@
 # Child Care Aware of Washington
 
-## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
+## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍2  
 
 ## [HB 1106](/bill/2023-24/hb/1106/) - Unemployment/voluntary 👍1  
 
@@ -71,3 +71,5 @@
 
 ## [SB 6018](/bill/2023-24/sb/6018/) - Early learning coordinators 👍1  
 * 👍💵 Emily Murphy
+
+## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍1  

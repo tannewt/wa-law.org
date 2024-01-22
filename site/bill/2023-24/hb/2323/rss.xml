@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2323/</link>
 		<description>Updates about HB 2323</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 21 Jan 2024 02:42:44 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 10:01:51 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -38,6 +38,22 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Shane/Mcgraw/2024-01-21 02:42:44</guid>
+		</item>
+		<item>
+			<title>👎Siddhant Bahadur - No</title>
+			<description>Siddhant Bahadur signed up to testify Con.</description>
+			<pubDate>Sun, 21 Jan 2024 09:57:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Siddhant/Bahadur/2024-01-21 09:57:54</guid>
+		</item>
+		<item>
+			<title>👎Patricia Hoendermis - Yakima Valley Landlords Assoc.</title>
+			<description>Patricia Hoendermis signed up to testify Con. They are signed up to represent Yakima Valley Landlords Assoc..</description>
+			<pubDate>Mon, 22 Jan 2024 10:01:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Patricia/Hoendermis/2024-01-22 10:01:51</guid>
 		</item>
 	</channel>
 </rss>

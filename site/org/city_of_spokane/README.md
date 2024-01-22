@@ -34,6 +34,9 @@
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
+## [HB 2308](/bill/2023-24/hb/2308/) - Existing structures/housing 👍1  
+* 👍 Teri Stripes
+
 ## [SB 5058](/bill/2023-24/sb/5058/) - Multiunit res. buildings 👍1  
 * 👍 Council member Betsy Wilkerson
 

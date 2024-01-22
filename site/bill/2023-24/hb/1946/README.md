@@ -14,13 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31716&aId=157552&caId=23577&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31716&aId=157552&caId=23577&tId=4)
 
-#### 62 👍 - Pro
+#### 84 👍 - Pro
 Testifying:
 * Erica Munsey
 * Vaughnetta J. Barton - UW School of Social Work - Washington State Behavioral Health Workforce Development Initiative
 * Laurie Lippold - Partners for Our Children
 * 💵Bob Cooper - National Association of Social Workers WA Chapter
 * Breck Lebegue - WA State Psychiatric Association
+* 💵Anna Nepomuceno - NAMI Washington and Patients Coalition of Washington
 
 #### 0 👎 - Con
 

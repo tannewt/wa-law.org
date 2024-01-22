@@ -21,7 +21,11 @@
 
 ## [HB 1670](/bill/2023-24/hb/1670/) - Property tax limit factor 👍1  
 
+## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍1  
+
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
+
+## [HB 2348](/bill/2023-24/hb/2348/) - County hospital funding 👍1  
 
 ## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍2  
 
@@ -36,3 +40,9 @@
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
 
 ## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  
+
+## [SB 6157](/bill/2023-24/sb/6157/) - Civil service 👍1  
+
+## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
+
+## [SB 6242](/bill/2023-24/sb/6242/) - Law enforcement training 👍1  
