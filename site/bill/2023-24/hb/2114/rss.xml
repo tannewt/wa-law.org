@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2114/</link>
 		<description>Updates about HB 2114</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 20 Jan 2024 01:59:57 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 20 Jan 2024 06:21:05 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1109,6 +1109,14 @@
 			<pubDate>Sat, 20 Jan 2024 01:59:57 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.quakervoicewa.org/2024-quaker-voice-priorities/#:~:text=HB%202114</guid>
+		</item>
+		<item>
+			<title>👍Stacey Valenzuela - City of Bellevue</title>
+			<description>Stacey Valenzuela signed up to testify Pro.</description>
+			<pubDate>Sat, 20 Jan 2024 06:21:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Stacey/Valenzuela/2024-01-20 06:21:05</guid>
 		</item>
 	</channel>
 </rss>

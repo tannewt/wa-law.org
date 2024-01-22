@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31713&aId=157074&caId=23482&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31713&aId=157074&caId=23482&tId=4)
 
-#### 65 👍 - Pro
+#### 75 👍 - Pro
 Testifying:
 * Angelita Cervantes - Communities for Our Colleges
 * Benjamin Gonzalez - Communities for Our Colleges
@@ -25,6 +25,8 @@ Testifying:
 * Nicholas Dumouchel - Communities for Our Colleges
 * LeeAnn Hall - Alliance for a Just Society
 
-#### 1 👎 - Con
+#### 94 👎 - Con
+Testifying:
+* Jeannette Mcchesney
 
 #### 0 ❓ - Other

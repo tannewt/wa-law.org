@@ -16,11 +16,13 @@ Sign up to testify:
 
 #### 3 👍 - Pro
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * 💵Anna Powell - DoorDash
+* 💵Allison Ford
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Katie Beeson - Washington Food Industry Association
 * 💵Marian Dacca - Northwest Grocery Assn
+* 💵Bill Stauffacher - Washington Beer and Wine Distributors Association

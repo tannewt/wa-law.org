@@ -23,3 +23,6 @@
 * 👍 Dr. Erica Hernandez-Scott
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
+
+## [SB 5903](/bill/2023-24/sb/5903/) - Concerning representation in the educator preparation act. 👍1  
+* 👍 Anna Corinne Huffman

@@ -174,6 +174,9 @@
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes  👎1 
 * 👎💵 Brent Ludeman
 
+## [HB 2321](/bill/2023-24/hb/2321/) - Middle housing requirements 👍1  
+* 👍💵 Bill Stauffacher
+
 ## [SB 5027](/bill/2023-24/sb/5027/) - American dream homes  👎1 
 * 👎💵 Jan Himebaugh
 
@@ -292,7 +295,13 @@
 ## [SB 6061](/bill/2023-24/sb/6061/) - Housing development/SEPA  👎1 
 * 👎💵 Jan Himebaugh
 
+## [SB 6081](/bill/2023-24/sb/6081/) - Consumer contracts  👎1 
+* 👎💵 Brent Ludeman
+
 ## [SB 6136](/bill/2023-24/sb/6136/) - Rental property B&O tax  👎1 
 
 ## [SB 6140](/bill/2023-24/sb/6140/) - Intensive rural development 👍1  
 * 👍💵 Tricia Gullion
+
+## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes  👎1 
+* 👎💵 Brent Ludeman

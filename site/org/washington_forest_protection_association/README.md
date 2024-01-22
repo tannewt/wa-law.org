@@ -38,9 +38,11 @@
 ## [HB 2207](/bill/2023-24/hb/2207/) - Solid waste dumping 👍1  
 * 👍 Tom Davis
 
-## [HB 2289](/bill/2023-24/hb/2289/) - Salmon recovery projects/tax 👍1  
+## [HB 2286](/bill/2023-24/hb/2286/) - Salmon rec. capital grants 👍1  
 
-## [HB 2293](/bill/2023-24/hb/2293/) - Avian predation/salmon 👍1  
+## [HB 2289](/bill/2023-24/hb/2289/) - Salmon recovery projects/tax 👍2  
+
+## [HB 2293](/bill/2023-24/hb/2293/) - Avian predation/salmon 👍2  
 
 ## [SB 5247](/bill/2023-24/sb/5247/) - Climate-ready communities 👍1  
 

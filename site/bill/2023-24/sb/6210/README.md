@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31723&aId=157100&caId=23424&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31723&aId=157100&caId=23424&tId=4)
 
-#### 52 👍 - Pro
+#### 68 👍 - Pro
 Testifying:
 * Constance Nelson
 
-#### 7 👎 - Con
+#### 9 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

@@ -23,11 +23,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31755&aId=157253&caId=23427&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31755&aId=157253&caId=23427&tId=4)
 
-#### 51 👍 - Pro
+#### 62 👍 - Pro
+Testifying:
+* Karen Condon - Confederated Tribes of the Colville Reservation
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Laura Gramer
+* Lucas Gramer
 
 ### Tue 01/24 04:00 PM - Education (ED): HB 1228 Dual & tribal language edu.
 #### 105 👍 - Pro

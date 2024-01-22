@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31768&aId=157317&caId=23442&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31768&aId=157317&caId=23442&tId=4)
 
-#### 983 👍 - Pro
+#### 1088 👍 - Pro
 Testifying:
 * Noreen Light - Information For A Change
 * Troy williams - Testify @washington state correctional center
@@ -31,6 +31,8 @@ Testifying:
 * Judge André Peñalver
 * Patrick Brown
 
-#### 2 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 #### 4 ❓ - Other

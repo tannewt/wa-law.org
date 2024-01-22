@@ -17,10 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31757&aId=157264&caId=23537&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31757&aId=157264&caId=23537&tId=4)
 
-#### 37 👍 - Pro
+#### 98 👍 - Pro
 Testifying:
 * Takiyah Ward
 
-#### 4 👎 - Con
+#### 157 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

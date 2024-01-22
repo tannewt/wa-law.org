@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1943/</link>
 		<description>Updates about HB 1943</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 20 Jan 2024 00:04:24 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 21 Jan 2024 12:14:22 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -90,6 +90,38 @@
 			<pubDate>Sat, 20 Jan 2024 00:04:24 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%201943</guid>
+		</item>
+		<item>
+			<title>❓Bret Daugherty - Washington Military Department</title>
+			<description>Bret Daugherty signed up to testify Other. They are signed up to represent Washington Military Department.</description>
+			<pubDate>Sun, 21 Jan 2024 01:11:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Bret/Daugherty/2024-01-21 01:11:05</guid>
+		</item>
+		<item>
+			<title>👍Charles Wharton - Veterans Legislative Coalition</title>
+			<description>Charles Wharton signed up to testify Pro. They are signed up to represent Veterans Legislative Coalition.</description>
+			<pubDate>Sun, 21 Jan 2024 02:42:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Charles/Wharton/2024-01-21 02:42:17</guid>
+		</item>
+		<item>
+			<title>👍Breck Lebegue - Veterans Legislative Coalition</title>
+			<description>Breck Lebegue signed up to testify Pro.</description>
+			<pubDate>Sun, 21 Jan 2024 12:07:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Breck/Lebegue/2024-01-21 12:07:55</guid>
+		</item>
+		<item>
+			<title>👍Breck Lebegue - Veterans Legislative Coalition</title>
+			<description>Breck Lebegue signed up to testify Pro.</description>
+			<pubDate>Sun, 21 Jan 2024 12:14:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Breck/Lebegue/2024-01-21 12:14:22</guid>
 		</item>
 	</channel>
 </rss>

@@ -17,8 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157547&caId=23563&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157547&caId=23563&tId=4)
 
-#### 261 👍 - Pro
+#### 439 👍 - Pro
+Testifying:
+* Sarah Logan - [Washington Library Association](/org/washington_library_association/)
 
-#### 6 👎 - Con
+#### 35 👎 - Con
 
 #### 0 ❓ - Other

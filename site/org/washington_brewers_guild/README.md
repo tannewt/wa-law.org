@@ -8,10 +8,13 @@
 ## [HB 1375](/bill/2023-24/hb/1375/) - Delivery of alcohol 👍1  
 * 👍💵 Daniel Olson
 
-## [HB 2144](/bill/2023-24/hb/2144/) - Providing for a deposit return program for qualifying beverage containers to be implemented by a distributor responsibility organization.   ❓1
+## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg.   ❓1
 * ❓💵 Daniel Olson
 
 ## [HB 2204](/bill/2023-24/hb/2204/) - Emergency liquor permits 👍1  
+* 👍💵 Daniel Olson
+
+## [HB 2363](/bill/2023-24/hb/2363/) - Alcohol/pop-up retail sales 👍1  
 * 👍💵 Daniel Olson
 
 ## [SB 5375](/bill/2023-24/sb/5375/) - Low-proof beverages/tax  👎1 

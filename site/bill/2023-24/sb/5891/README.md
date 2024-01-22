@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31692&aId=156906&caId=23345&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31692&aId=156906&caId=23345&tId=4)
 
-#### 3 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Nancy Lenhart - Widow/Community Member
+* Russell Shjerven - Secretary-Treasurer,  Teamsters Local Union No. 839
+* Tamara Pearson - Bus Driver with Pasco School District & Chief Union Steward, Teamsters Local 839
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

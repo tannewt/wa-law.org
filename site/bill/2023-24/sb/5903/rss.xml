@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5903/</link>
 		<description>Updates about SB 5903</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 21 Jan 2024 01:02:44 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,14 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Early Learning &amp; K-12 Education.</guid>
+		</item>
+		<item>
+			<title>👍Anna Corinne Huffman - Professional Educator Standards Board</title>
+			<description>Anna Corinne Huffman signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/professional_educator_standards_board/&quot;&gt;Professional Educator Standards Board&lt;/a&gt;.</description>
+			<pubDate>Sun, 21 Jan 2024 01:02:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Anna Corinne/Huffman/2024-01-21 01:02:44</guid>
 		</item>
 	</channel>
 </rss>

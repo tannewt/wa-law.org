@@ -90,6 +90,8 @@
 ## [HB 2172](/bill/2023-24/hb/2172/) - Vacant state agency property 👍1  
 * 👍 Darian Lightfoot
 
+## [HB 2321](/bill/2023-24/hb/2321/) - Middle housing requirements 👍1  
+
 ## [SB 5001](/bill/2023-24/sb/5001/) - Public facility districts 👍3  
 * 👍 Paul Simmons
 * 👍 Paul Simmons

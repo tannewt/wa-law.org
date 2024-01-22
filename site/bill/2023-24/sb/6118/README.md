@@ -14,13 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31749&aId=157205&caId=23307&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31749&aId=157205&caId=23307&tId=4)
 
-#### 52 👍 - Pro
+#### 58 👍 - Pro
 Testifying:
 * Kerry Schulz - Creekside Market
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * Chong Sullivan - Korean American Grocers Association
+* John Haberman - Wentachee Valley Truck Stop
+* Gloria Grylls - United Pacific
+* Carol Sanker
 
-#### 349 👎 - Con
+#### 578 👎 - Con
 Testifying:
 * Shaun D’Sylva - Washington Smoke Free
 * Kollin Esslinger
@@ -30,7 +33,9 @@ Testifying:
 * Mindi Pinedo
 * Marc Howser
 * James Hoy
+* Jaimey Brower
+* Ramadan Ramadan
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)

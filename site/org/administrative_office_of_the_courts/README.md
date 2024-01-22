@@ -46,6 +46,9 @@
 ## [HB 2149](/bill/2023-24/hb/2149/) - Protecting consumer personal information.   ❓2
 * ❓ Brittany Gregory
 
+## [HB 2383](/bill/2023-24/hb/2383/) - Dependency outcome reporting 👍1  
+* 👍 Kelly Warner-King
+
 ## [SB 5003](/bill/2023-24/sb/5003/) - Snohomish county judges 👍2  
 * 👍 Haily Perkins
 * 👍 Haily Perkins
@@ -100,3 +103,6 @@
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍2  
 * 👍 Brittany Gregory
 * 👍 Christopher Stanley
+
+## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍1  
+* 👍 Kelly Warner-King

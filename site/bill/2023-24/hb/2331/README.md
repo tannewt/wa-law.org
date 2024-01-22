@@ -17,8 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157546&caId=23562&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157546&caId=23562&tId=4)
 
-#### 63 👍 - Pro
+#### 173 👍 - Pro
 
-#### 12 👎 - Con
+#### 158 👎 - Con
+Testifying:
+* Andy Cilley
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other

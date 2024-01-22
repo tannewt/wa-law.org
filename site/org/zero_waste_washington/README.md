@@ -48,7 +48,7 @@
 
 ## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions. 👍2  
 
-## [HB 2144](/bill/2023-24/hb/2144/) - Providing for a deposit return program for qualifying beverage containers to be implemented by a distributor responsibility organization. 👍1  
+## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg. 👍1  
 * 👍💵 Heather Trim
 
 ## [HB 2207](/bill/2023-24/hb/2207/) - Solid waste dumping 👍1  

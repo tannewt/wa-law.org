@@ -14,10 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31772&aId=157342&caId=23420&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31772&aId=157342&caId=23420&tId=4)
 
-#### 30 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Kara Whittaker - WDFW
+* Andrea Smith - BIA of WA
+* 💵Alex Hur - MBA King Snohomish Counties
+* Andrea Smith - BIAW
+* 💵Bill Stauffacher
 
 #### 0 👎 - Con
 

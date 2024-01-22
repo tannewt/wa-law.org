@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1716/</link>
 		<description>Updates about HB 1716</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 20 Jan 2024 00:04:24 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 21 Jan 2024 02:22:41 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -52,6 +52,14 @@
 			<pubDate>Sat, 20 Jan 2024 00:04:24 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%201716</guid>
+		</item>
+		<item>
+			<title>👍💵Erica Hallock - Start Early WA</title>
+			<description>Erica Hallock signed up to testify Pro. They are signed up to represent Start Early WA. They are a registered lobbyist.</description>
+			<pubDate>Sun, 21 Jan 2024 02:22:41 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Erica/Hallock/2024-01-21 02:22:41</guid>
 		</item>
 	</channel>
 </rss>

@@ -19,7 +19,7 @@
 
 ## [HB 1906](/bill/2023-24/hb/1906/) - Vessel length/nonresident 👍1  
 
-## [HB 1912](/bill/2023-24/hb/1912/) - Requiring state agencies to share information to encourage economic development. 👍1  
+## [HB 1912](/bill/2023-24/hb/1912/) - Economic development info. 👍1  
 
 ## [HB 2039](/bill/2023-24/hb/2039/) - Modifying the appeals process for environmental and land use matters. 👍1  
 

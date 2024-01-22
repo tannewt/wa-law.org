@@ -52,7 +52,7 @@
 
 ## [HB 1798](/bill/2023-24/hb/1798/) - Earned release time 👍1  
 
-## [HB 1926](/bill/2023-24/hb/1926/) - Concerning supervision compliance credit.  👎2 
+## [HB 1926](/bill/2023-24/hb/1926/) - Supervision compliance  👎2 
 * 👎💵 Rachael Seevers
 
 ## [HB 2001](/bill/2023-24/hb/2001/) - Sentence modification 👍1  

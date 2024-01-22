@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6189/</link>
 		<description>Updates about SB 6189</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 20 Jan 2024 08:54:55 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 21 Jan 2024 02:59:46 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -80,12 +80,28 @@
 			<guid isPermaLink="false">testifier/Jordan/Landry/2024-01-19 10:28:28</guid>
 		</item>
 		<item>
+			<title>👍Chanel Rhymes - Northwest Community Bail Fund</title>
+			<description>Chanel Rhymes signed up to testify Pro. They are signed up to represent Northwest Community Bail Fund.</description>
+			<pubDate>Sat, 20 Jan 2024 02:38:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Chanel/Rhymes/2024-01-20 02:38:04</guid>
+		</item>
+		<item>
 			<title>👎Penelope Sapp - Kitsap County Sheriff's Office</title>
 			<description>Penelope Sapp signed up to testify Con. They are signed up to represent Kitsap County Sheriff's Office.</description>
 			<pubDate>Sat, 20 Jan 2024 08:54:55 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Penelope/Sapp/2024-01-20 08:54:55</guid>
+		</item>
+		<item>
+			<title>👎Jose Briones - Island County Sheriff’s Office</title>
+			<description>Jose Briones signed up to testify Con. They are signed up to represent Island County Sheriff’s Office.</description>
+			<pubDate>Sun, 21 Jan 2024 02:59:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jose/Briones/2024-01-21 02:59:46</guid>
 		</item>
 	</channel>
 </rss>

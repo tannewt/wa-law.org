@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 2144](/bill/2023-24/hb/2144/)
 
-# HB 2144 - Providing for a deposit return program for qualifying beverage containers to be implemented by a distributor responsibility organization.
+# HB 2144 - Beverage deposit return prg.
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=2144&Year=2023&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/09 04:00 PM - Environment & Energy (ENVI): HB 2144 Providing for a deposit return program for qualifying beverage containers to be implemented by a distributor responsibility organization. (Remote Testimony Available). (If measure is referred to committee.)

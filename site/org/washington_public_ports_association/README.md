@@ -119,7 +119,7 @@
 
 ## [HB 1906](/bill/2023-24/hb/1906/) - Vessel length/nonresident 👍1  
 
-## [HB 1912](/bill/2023-24/hb/1912/) - Requiring state agencies to share information to encourage economic development. 👍1  
+## [HB 1912](/bill/2023-24/hb/1912/) - Economic development info. 👍1  
 
 ## [HB 1978](/bill/2023-24/hb/1978/) - Adding special purpose and junior taxing districts to the intrastate mutual aid system. 👍1  
 

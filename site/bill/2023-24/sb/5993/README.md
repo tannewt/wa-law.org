@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31771&aId=157338&caId=23357&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31771&aId=157338&caId=23357&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 
-#### 79 👎 - Con
+#### 98 👎 - Con
 Testifying:
 * Cindy Madigan - League of Women Voters of Washington
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)

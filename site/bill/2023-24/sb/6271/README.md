@@ -18,7 +18,7 @@ Sign up to testify:
 Testifying:
 * Megan Moore - [Washington State Public Health Association](/org/washington_state_public_health_association/)
 
-#### 6 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * 💵Ezra Eickmeyer - Producers NW
 * 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)

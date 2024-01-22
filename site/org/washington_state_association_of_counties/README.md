@@ -232,8 +232,18 @@
 ## [HB 2258](/bill/2023-24/hb/2258/) - Regional 911 funding  👎1 
 * 👎💵 Mike Hoover
 
+## [HB 2289](/bill/2023-24/hb/2289/) - Salmon recovery projects/tax  👎1 
+* 👎💵 Paul Jewell
+
+## [HB 2296](/bill/2023-24/hb/2296/) - Comprehensive plan revisions 👍1  
+
 ## [HB 2307](/bill/2023-24/hb/2307/) - Public records reviews 👍1  
 * 👍💵 Mike Hoover
+
+## [HB 2348](/bill/2023-24/hb/2348/) - County hospital funding 👍1  
+
+## [HB 2353](/bill/2023-24/hb/2353/) - Residential targeted areas 👍1  
+* 👍💵 Paul Jewell
 
 ## [SB 5027](/bill/2023-24/sb/5027/) - American dream homes 👍1  
 * 👍💵 Paul Jewell
@@ -406,6 +416,8 @@
 ## [SB 5901](/bill/2023-24/sb/5901/) - Concerning co-living housing.   ❓1
 * ❓💵 Paul Jewell
 
+## [SB 5992](/bill/2023-24/sb/5992/) - Water supply/energy sites 👍1  
+
 ## [SB 6013](/bill/2023-24/sb/6013/) - Homeownership dev. tax ex.  👎1 
 * 👎💵 Paul Jewell
 
@@ -417,6 +429,8 @@
 ## [SB 6029](/bill/2023-24/sb/6029/) - Detached ADUs 👍1  
 * 👍💵 Paul Jewell
 
+## [SB 6055](/bill/2023-24/sb/6055/) - Natural resource indus. dev. 👍1  
+
 ## [SB 6079](/bill/2023-24/sb/6079/) - Juv. detention/health recs. 👍1  
 
 ## [SB 6120](/bill/2023-24/sb/6120/) - Wildland urban interface 👍1  
@@ -424,6 +438,8 @@
 
 ## [SB 6140](/bill/2023-24/sb/6140/) - Intensive rural development 👍1  
 * 👍💵 Travis Dutton
+
+## [SB 6150](/bill/2023-24/sb/6150/) - Comprehensive plan revisions 👍1  
 
 ## [SB 6206](/bill/2023-24/sb/6206/) - Water system receivership 👍1  
 
@@ -435,3 +451,5 @@
 * 👍💵 Juliana Roe
 
 ## [SB 6251](/bill/2023-24/sb/6251/) - Behavioral crisis coord. 👍1  
+
+## [SB 6276](/bill/2023-24/sb/6276/) - Digital electronics/repair 👍1  

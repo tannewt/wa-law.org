@@ -23,6 +23,8 @@
 ## [HB 2251](/bill/2023-24/hb/2251/) - Unenforceable LFOs 👍1  
 * 👍 Maddisson Alexander
 
+## [HB 2287](/bill/2023-24/hb/2287/) - Corrections ombuds adv board 👍1  
+
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍1  
 
 ## [SB 5134](/bill/2023-24/sb/5134/) - Reentry services & supports 👍1  

@@ -49,7 +49,9 @@
 
 ## [HB 2251](/bill/2023-24/hb/2251/) - Unenforceable LFOs 👍1  
 
-## [HB 2342](/bill/2023-24/hb/2342/) - Dependent youth financial ed 👍3  
+## [HB 2342](/bill/2023-24/hb/2342/) - Dependent youth financial ed 👍4  
+
+## [HB 2383](/bill/2023-24/hb/2383/) - Dependency outcome reporting 👍1  
 
 ## [SB 5124](/bill/2023-24/sb/5124/) - Nonrelative kin placement 👍1  
 
@@ -69,7 +71,7 @@
 
 ## [SB 5543](/bill/2023-24/sb/5543/) - Sexual offenses by youth 👍1  
 
-## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍7  
+## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍8  
 * 👍 Sam Martin
 
 ## [SB 5644](/bill/2023-24/sb/5644/) - Juvenile records 👍3  
@@ -89,5 +91,7 @@
 ## [SB 5974](/bill/2023-24/sb/5974/) - Unenforceable LFOs 👍1  
 
 ## [SB 6063](/bill/2023-24/sb/6063/) - Persistent offenders 👍1  
+
+## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍1  
 
 ## [SB 6109](/bill/2023-24/sb/6109/) - Children and families  👎1 

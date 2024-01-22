@@ -54,6 +54,9 @@
 
 ## [HB 2342](/bill/2023-24/hb/2342/) - Dependent youth financial ed 👍1  
 
+## [HB 2383](/bill/2023-24/hb/2383/) - Dependency outcome reporting 👍1  
+* 👍💵 Daniel Lugo
+
 ## [SB 5101](/bill/2023-24/sb/5101/) - DOC medical placements 👍1  
 
 ## [SB 5174](/bill/2023-24/sb/5174/) - Student transportation 👍1  
@@ -101,6 +104,13 @@
 ## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍2  
 * 👍💵 Daniel Lugo
 
+## [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation  👎2 
+* 👎 Marshelle Jordan
+* 👎 Heidi Barden
+
 ## [SB 5974](/bill/2023-24/sb/5974/) - Unenforceable LFOs 👍5  
+
+## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍1  
+* 👍💵 Daniel Lugo
 
 ## [SB 6079](/bill/2023-24/sb/6079/) - Juv. detention/health recs. 👍1  

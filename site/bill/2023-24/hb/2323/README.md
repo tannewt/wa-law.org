@@ -18,8 +18,9 @@ Sign up to testify:
 Testifying:
 * 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
-#### 35 👎 - Con
+#### 57 👎 - Con
 Testifying:
 * Constance Nelson
+* Shane Mcgraw - No
 
 #### 0 ❓ - Other

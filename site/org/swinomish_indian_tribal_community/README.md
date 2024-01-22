@@ -30,7 +30,7 @@
 
 ## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍2  
 
-## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation  👎1 
+## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation  👎2 
 
 ## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands. 👍1  
 * 👍 JJ Wilbur

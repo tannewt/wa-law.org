@@ -2,6 +2,8 @@
 
 ## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
 
+## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
+
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
@@ -84,3 +86,7 @@
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍2  
 
 ## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍1  
+
+## [SB 6007](/bill/2023-24/sb/6007/) - Grocery workers 👍1  
+
+## [SB 6069](/bill/2023-24/sb/6069/) - Retirement savings 👍1  

@@ -97,7 +97,7 @@
 
 ## [HB 1905](/bill/2023-24/hb/1905/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
 
-## [HB 1914](/bill/2023-24/hb/1914/) - Improving the education of students with varying abilities by enhancing special education services.   ❓1
+## [HB 1914](/bill/2023-24/hb/1914/) - Special education services   ❓1
 * ❓💵 Ramona Hattendorf
 
 ## [HB 1916](/bill/2023-24/hb/1916/) - Concerning funding for the early support for infants and toddlers program. 👍1  

@@ -107,11 +107,11 @@
 ## [HB 2095](/bill/2023-24/hb/2095/) - Gift certificates/unclaimed 👍4  
 * 👍💵 Kristin Ang
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍7  
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍8  
 
 ## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍1  
 
-## [HB 2239](/bill/2023-24/hb/2239/) - Social-emotional instruction 👍1  
+## [HB 2239](/bill/2023-24/hb/2239/) - Social-emotional instruction 👍5  
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍5  
 
@@ -160,16 +160,16 @@
 
 ## [SB 5988](/bill/2023-24/sb/5988/) - Gift certificates/unclaimed 👍3  
 
-## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍2  
+## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍5  
 
-## [SB 6007](/bill/2023-24/sb/6007/) - Grocery workers 👍2  
+## [SB 6007](/bill/2023-24/sb/6007/) - Grocery workers 👍4  
 
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍6  
 
 ## [SB 6135](/bill/2023-24/sb/6135/) - TANF transitional assistance 👍1  
 
-## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍2  
+## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍6  
 
-## [SB 6216](/bill/2023-24/sb/6216/) - Student mental health net. 👍3  
+## [SB 6216](/bill/2023-24/sb/6216/) - Student mental health net. 👍7  
 
-## [SB 6251](/bill/2023-24/sb/6251/) - Behavioral crisis coord. 👍1  
+## [SB 6251](/bill/2023-24/sb/6251/) - Behavioral crisis coord. 👍4  

@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31769&aId=157320&caId=23503&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31769&aId=157320&caId=23503&tId=4)
 
-#### 97 👍 - Pro
+#### 130 👍 - Pro
 Testifying:
 * Andre Penalver
 * Larry Jefferson - Director, Washington State Office of Public Defense
@@ -25,7 +25,11 @@ Testifying:
 * Sarah Leon
 * Charles Longshore
 * Ralph Dunuan
+* Emily Gause
+* J Wesley Saint Clair - Sentencing Guidelines Commission
 * Maureen McKee
+* Cindy Elsberry - WDA
+* Vidal Vincent - Freedom Project
 
 #### 2 👎 - Con
 Testifying:

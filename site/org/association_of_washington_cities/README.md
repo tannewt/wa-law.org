@@ -293,7 +293,7 @@
 
 ## [HB 2127](/bill/2023-24/hb/2127/) - Incentives to return to work 👍1  
 
-## [HB 2144](/bill/2023-24/hb/2144/) - Providing for a deposit return program for qualifying beverage containers to be implemented by a distributor responsibility organization.   ❓1
+## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg.   ❓1
 * ❓💵 Carl Schroeder
 
 ## [HB 2153](/bill/2023-24/hb/2153/) - Catalytic converter theft 👍1  
@@ -581,6 +581,9 @@
 
 ## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  
 * 👍 Brandy DeLange
+
+## [SB 5993](/bill/2023-24/sb/5993/) - Voter education   ❓1
+* ❓💵 Lindsey Hueer
 
 ## [SB 6015](/bill/2023-24/sb/6015/) - Residential parking  👎1 
 * 👎💵 Carl Schroeder

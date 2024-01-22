@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6020/</link>
 		<description>Updates about SB 6020</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 19 Jan 2024 12:34:01 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 21 Jan 2024 05:56:45 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -52,6 +52,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Aaron/Dufault/2024-01-19 12:34:01</guid>
+		</item>
+		<item>
+			<title>👍Daniel Sund - WDFW</title>
+			<description>Daniel Sund signed up to testify Pro. They are signed up to represent WDFW.</description>
+			<pubDate>Sun, 21 Jan 2024 03:38:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Daniel/Sund/2024-01-21 03:38:33</guid>
+		</item>
+		<item>
+			<title>👍Brian Mackey - WDFW</title>
+			<description>Brian Mackey signed up to testify Pro.</description>
+			<pubDate>Sun, 21 Jan 2024 05:56:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brian/Mackey/2024-01-21 05:56:45</guid>
 		</item>
 	</channel>
 </rss>

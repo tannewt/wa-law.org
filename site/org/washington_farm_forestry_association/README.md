@@ -21,7 +21,7 @@
 
 ## [SB 5391](/bill/2023-24/sb/5391/) - Embodied carbon reductions 👍1  
 
-## [SB 5667](/bill/2023-24/sb/5667/) - Forestry riparian easements 👍2  
+## [SB 5667](/bill/2023-24/sb/5667/) - Forestry riparian easements 👍4  
 * 👍 Elaine Oneil
 * 👍 Ken Miller
 

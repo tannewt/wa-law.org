@@ -21,9 +21,9 @@ Testifying:
 * Robert Singleton - Chamber of Progress
 * Shannon Patch - Delaware North, concessions operator at Climate Pledge Arena
 
-#### 235 👎 - Con
+#### 351 👎 - Con
 Testifying:
 * Jeannette Mcchesney
 * James Ware
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

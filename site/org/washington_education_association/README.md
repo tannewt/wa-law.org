@@ -41,7 +41,7 @@
 
 ## [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims 👍1  
 
-## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍2  
+## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍3  
 
 ## [HB 1086](/bill/2023-24/hb/1086/) - Community org. contracts  👎1 
 
@@ -377,7 +377,7 @@
 ## [HB 1843](/bill/2023-24/hb/1843/) - School district elections   ❓1
 * ❓💵 Simone Boe
 
-## [HB 1862](/bill/2023-24/hb/1862/) - Providing tax exemptions for the assistance of disabled veterans and members of the armed forces of the United States of America. 👍1  
+## [HB 1862](/bill/2023-24/hb/1862/) - Disabled veteran assist./tax 👍1  
 
 ## [HB 1879](/bill/2023-24/hb/1879/) - Naming the curriculum used to inform students about tribal history, culture, and government after John McCoy (lulilaš). 👍1  
 
@@ -389,7 +389,7 @@
 
 ## [HB 1905](/bill/2023-24/hb/1905/) - Including protected classes in the Washington equal pay and opportunities act. 👍2  
 
-## [HB 1914](/bill/2023-24/hb/1914/) - Improving the education of students with varying abilities by enhancing special education services.  👎1 
+## [HB 1914](/bill/2023-24/hb/1914/) - Special education services  👎1 
 * 👎 Jared Mason-Gere
 
 ## [HB 1915](/bill/2023-24/hb/1915/) - Making financial education instruction a graduation prerequisite and a required component of public education.   ❓1
@@ -476,6 +476,8 @@
 
 ## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍1  
 
+## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍1  
+
 ## [HB 2242](/bill/2023-24/hb/2242/) - Sexual assault/higher ed. 👍1  
 
 ## [HB 2246](/bill/2023-24/hb/2246/) - Vacation leave accrual 👍1  
@@ -483,6 +485,8 @@
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍2  
 
 ## [HB 2282](/bill/2023-24/hb/2282/) - African American studies 👍1  
+
+## [HB 2283](/bill/2023-24/hb/2283/) - Shared leave/disasters 👍1  
 
 ## [HB 2309](/bill/2023-24/hb/2309/) - Washington 13 free guarantee 👍1  
 
@@ -846,7 +850,7 @@
 
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
 
-## [SB 5873](/bill/2023-24/sb/5873/) - Student transportation 👍1  
+## [SB 5873](/bill/2023-24/sb/5873/) - Student transportation 👍2  
 * 👍💵 Julie Salvi
 
 ## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍1  
@@ -881,6 +885,8 @@
 ## [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation 👍1  
 * 👍 Jared Mason-Gere
 
+## [SB 5969](/bill/2023-24/sb/5969/) - Adjusting school districts' authority to contract indebtedness for school construction. 👍1  
+
 ## [SB 5979](/bill/2023-24/sb/5979/) - Concerning accrued leave for construction workers. 👍1  
 
 ## [SB 5987](/bill/2023-24/sb/5987/) - Gift certificates 👍1  
@@ -905,3 +911,5 @@
 * 👍💵 Julie Salvi
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
+
+## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍1  

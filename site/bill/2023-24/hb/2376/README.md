@@ -19,6 +19,6 @@ Testifying:
 * Jan Molinaro - City of Enumclaw
 * Chris Searcy - City of Enumclaw
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

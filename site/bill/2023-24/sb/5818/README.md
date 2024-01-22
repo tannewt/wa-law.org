@@ -18,7 +18,7 @@ Sign up to testify:
 Testifying:
 * Tyson Johnston - [Quinault Indian Nation](/org/quinault_indian_nation/)
 
-#### 178 👎 - Con
+#### 286 👎 - Con
 Testifying:
 * Jeannette Mcchesney
 

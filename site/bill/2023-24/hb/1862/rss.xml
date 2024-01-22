@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 1862 - Providing tax exemptions for the assistance of disabled veterans and members of the armed forces of the United States of America.</title>
+		<title>HB 1862 - Disabled veteran assist./tax</title>
 		<link>https://wa-law.org/bill/2023-24/hb/1862/</link>
 		<description>Updates about HB 1862</description>
 		<language>en-US</language>
@@ -115,6 +115,13 @@
 			<pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-18/FIN - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>FIN - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>FIN - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-18/FIN - Majority; 1st substitute bill be substituted, do pass.</guid>
 		</item>
 	</channel>
 </rss>

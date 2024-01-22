@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6073/</link>
 		<description>Updates about SB 6073</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 20 Jan 2024 10:39:07 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 21 Jan 2024 09:40:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -22,6 +22,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/David/DeWolf/2024-01-20 10:39:07</guid>
+		</item>
+		<item>
+			<title>❓Judge Sean O'Donnell - Superior Court Judges' Association</title>
+			<description>Judge Sean O'Donnell signed up to testify Other. They are signed up to represent Superior Court Judges' Association.</description>
+			<pubDate>Sun, 21 Jan 2024 09:40:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Judge Sean/O'Donnell/2024-01-21 09:40:02</guid>
 		</item>
 	</channel>
 </rss>

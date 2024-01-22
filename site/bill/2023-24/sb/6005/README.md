@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31724&aId=157102&caId=23355&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31724&aId=157102&caId=23355&tId=4)
 
-#### 196 👍 - Pro
+#### 306 👍 - Pro
 Testifying:
 * Melissa Stuart - Redmond City Councilmember
 * Kate Bailey - The Association of Plastic Recyclers (APR)
@@ -27,7 +27,7 @@ Testifying:
 * Peter Lyon - Washington State Department of Ecology
 * Lynne Robinson - Mayor of the City of Bellevue
 
-#### 5 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * Terry Grill - Sealed Air Corporation
 

@@ -14,11 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31704&aId=157710&caId=23598&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31704&aId=157710&caId=23598&tId=4)
 
-#### 8 👍 - Pro
+#### 10 👍 - Pro
 
-#### 141 👎 - Con
+#### 228 👎 - Con
+Testifying:
+* Ribka Mengesha
+* EMMAH KANYORA - Blessings AFH
+* Kenneth Kagona - Wholeness AFHLLC
+* Lydia Waweru - Emerald Park AFH
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Fri 01/19 08:00 AM - Health Care & Wellness (HCW): HB 1859 Long-term care residents
 #### 1123 👍 - Pro

@@ -36,6 +36,8 @@
 
 ## [HB 2253](/bill/2023-24/hb/2253/) - Community solar 👍1  
 
+## [HB 2330](/bill/2023-24/hb/2330/) - Wildfire protection 👍1  
+
 ## [SB 5039](/bill/2023-24/sb/5039/) - Wildfires/electric utilities 👍1  
 
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial  👎2 
@@ -46,6 +48,8 @@
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management 👍1  
 
-## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation  👎2 
+## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation  👎3 
 
 ## [SB 6113](/bill/2023-24/sb/6113/) - Community solar 👍1  
+
+## [SB 6237](/bill/2023-24/sb/6237/) - Wildlife safe passages 👍1  

@@ -14,12 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31766&aId=157304&caId=23376&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31766&aId=157304&caId=23376&tId=4)
 
-#### 122 👍 - Pro
+#### 175 👍 - Pro
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Dan Steele - WA Assn of School Administrators & WA Assn of School Business Officials
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

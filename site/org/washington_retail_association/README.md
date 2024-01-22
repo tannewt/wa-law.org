@@ -171,12 +171,14 @@
 ## [HB 2095](/bill/2023-24/hb/2095/) - Gift certificates/unclaimed  👎1 
 * 👎💵 Crystal Leatherman
 
+## [HB 2116](/bill/2023-24/hb/2116/) - Pharmacist prescriptive auth 👍1  
+
 ## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍1  
 
 ## [HB 2127](/bill/2023-24/hb/2127/) - Incentives to return to work 👍1  
 * 👍 Bruce K Beckett
 
-## [HB 2144](/bill/2023-24/hb/2144/) - Providing for a deposit return program for qualifying beverage containers to be implemented by a distributor responsibility organization.   ❓1
+## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg.   ❓1
 * ❓💵 Mark Johnson
 
 ## [HB 2149](/bill/2023-24/hb/2149/) - Protecting consumer personal information.  👎1 
@@ -191,11 +193,15 @@
 ## [HB 2231](/bill/2023-24/hb/2231/) - Law enforcement funding 👍1  
 * 👍💵 Mark Johnson
 
+## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍1  
+
 ## [HB 2277](/bill/2023-24/hb/2277/) - Data brokering   ❓1
 * ❓💵 Crystal Leatherman
 
 ## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management   ❓1
 * ❓ Rose GUNDERSEN
+
+## [HB 2319](/bill/2023-24/hb/2319/) - Substance use treatment 👍1  
 
 ## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment 👍1  
 
@@ -369,5 +375,10 @@
 ## [SB 6118](/bill/2023-24/sb/6118/) - Vapor product directory 👍1  
 * 👍💵 Crystal Leatherman
 
+## [SB 6122](/bill/2023-24/sb/6122/) - Alcohol delivery   ❓1
+
 ## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management   ❓1
 * ❓ Rose GUNDERSEN
+
+## [SB 6242](/bill/2023-24/sb/6242/) - Law enforcement training 👍1  
+* 👍💵 Mark Johnson

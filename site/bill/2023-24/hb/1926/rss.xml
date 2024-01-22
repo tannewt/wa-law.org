@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 1926 - Concerning supervision compliance credit.</title>
+		<title>HB 1926 - Supervision compliance</title>
 		<link>https://wa-law.org/bill/2023-24/hb/1926/</link>
 		<description>Updates about HB 1926</description>
 		<language>en-US</language>
@@ -51,6 +51,13 @@
 			<pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-18/CSJR - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>CSJR - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>CSJR - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-18/CSJR - Majority; 1st substitute bill be substituted, do pass.</guid>
 		</item>
 	</channel>
 </rss>

@@ -4,232 +4,261 @@
 * [Pending bills](#pending-bills)
 
 ## Upcoming hearings
-* [HS Mon 01/22 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31697) [SB 6186](sb/6186) - Missing persons/pub. assist. 4👍 0👎 0❓
-* [HS Mon 01/22 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31697) [SB 6068](sb/6068) - Dependency outcome reporting 2👍 1👎 0❓
+* [HS Mon 01/22 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31697) [SB 6186](sb/6186) - Missing persons/pub. assist. 6👍 0👎 0❓
 * [HS Mon 01/22 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31697) [SB 6079](sb/6079) - Juv. detention/health recs. 4👍 0👎 0❓
-* [HS Mon 01/22 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31697) [SB 6189](sb/6189) - Jail system 33👍 1👎 0❓
-* [HS Mon 01/22 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31697) [SB 6135](sb/6135) - TANF transitional assistance 40👍 1👎 1❓
-* [LAW Mon 01/22 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31691) [SB 6146](sb/6146) - Tribal warrants 0👍 0👎 1❓
+* [HS Mon 01/22 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31697) [SB 6068](sb/6068) - Dependency outcome reporting 9👍 1👎 0❓
+* [HS Mon 01/22 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31697) [SB 6189](sb/6189) - Jail system 54👍 4👎 1❓
+* [HS Mon 01/22 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31697) [SB 6135](sb/6135) - TANF transitional assistance 61👍 1👎 1❓
 * [LAW Mon 01/22 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31691) [SB 6181](sb/6181) - Law enf. officer definition 1👍 1👎 0❓
-* [LAW Mon 01/22 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31691) [SB 5944](sb/5944) - Prosecutorial filing 3👍 0👎 0❓
 * [LAW Mon 01/22 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31691) [SB 5973](sb/5973) - Heat pumps/CICs 3👍 0👎 0❓
-* [LAW Mon 01/22 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31691) [SB 6073](sb/6073) - AI use in court filings 3👍 2👎 0❓
-* [LAW Mon 01/22 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31691) [SB 6009](sb/6009) - Hog-tying 85👍 1👎 0❓
+* [LAW Mon 01/22 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31691) [SB 6146](sb/6146) - Tribal warrants 4👍 0👎 2❓
+* [LAW Mon 01/22 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31691) [SB 5944](sb/5944) - Prosecutorial filing 6👍 0👎 1❓
+* [LAW Mon 01/22 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31691) [SB 6073](sb/6073) - AI use in court filings 16👍 2👎 1❓
+* [LAW Mon 01/22 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31691) [SB 6009](sb/6009) - Hog-tying 190👍 4👎 1❓
 * [LC Mon 01/22 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31749) [SB 6201](sb/6201) - Alcohol sale to minors/civil 3👍 0👎 0❓
-* [LC Mon 01/22 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31749) [SB 6122](sb/6122) - Alcohol delivery 3👍 1👎 2❓
-* [LC Mon 01/22 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31749) [SB 6271](sb/6271) - Cannabis excise tax/THC 1👍 6👎 1❓
-* [LC Mon 01/22 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31749) [SB 6220](sb/6220) - High THC cannabis products 20👍 6👎 0❓
-* [LC Mon 01/22 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31749) [SB 6179](sb/6179) - Liquor biometric age verif. 7👍 235👎 1❓
-* [LC Mon 01/22 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31749) [SB 6118](sb/6118) - Vapor product directory 52👍 349👎 1❓
-* [AWNP Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31761) [SB 6209](sb/6209) - Hemp consumable products 1👍 0👎 0❓
-* [AWNP Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31761) [SB 6147](sb/6147) - Salmon purse seine fishing 3👍 0👎 0❓
-* [AWNP Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31761) [SB 6020](sb/6020) - Nonspot shrimp pot license 2👍 8👎 0❓
-* [AWNP Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31761) [SB 5818](sb/5818) - Authorizing an exemption to the seashore conservation area for a qualified infrastructure project. 1👍 178👎 0❓
-* [CSJR Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31768) [HB 2169](hb/2169) - DOC healthy env. pilot 3👍 0👎 2❓
-* [CSJR Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31768) [HB 2287](hb/2287) - Corrections ombuds adv board 9👍 0👎 0❓
-* [CSJR Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31768) [HB 2084](hb/2084) - Establishing an oversight committee to improve construction-related training and pathways to state registered apprenticeships in state correctional facilities. 38👍 0👎 0❓
-* [CSJR Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31768) [HB 2065](hb/2065) - Recalculating sentencing ranges for currently incarcerated individuals whose offender score was increased by juvenile convictions. 983👍 2👎 4❓
+* [LC Mon 01/22 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31749) [SB 6122](sb/6122) - Alcohol delivery 3👍 2👎 4❓
+* [LC Mon 01/22 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31749) [SB 6271](sb/6271) - Cannabis excise tax/THC 1👍 8👎 1❓
+* [LC Mon 01/22 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31749) [SB 6220](sb/6220) - High THC cannabis products 28👍 9👎 0❓
+* [LC Mon 01/22 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31749) [SB 6179](sb/6179) - Liquor biometric age verif. 7👍 351👎 2❓
+* [LC Mon 01/22 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31749) [SB 6118](sb/6118) - Vapor product directory 58👍 578👎 3❓
+* [AWNP Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31761) [SB 6209](sb/6209) - Hemp consumable products 2👍 1👎 0❓
+* [AWNP Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31761) [SB 6147](sb/6147) - Salmon purse seine fishing 3👍 1👎 0❓
+* [AWNP Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31761) [SB 6020](sb/6020) - Nonspot shrimp pot license 4👍 8👎 0❓
+* [AWNP Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31761) [SB 5818](sb/5818) - Authorizing an exemption to the seashore conservation area for a qualified infrastructure project. 1👍 286👎 0❓
+* [CSJR Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31768) [HB 2169](hb/2169) - DOC healthy env. pilot 4👍 0👎 2❓
+* [CSJR Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31768) [HB 2287](hb/2287) - Corrections ombuds adv board 32👍 1👎 0❓
+* [CSJR Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31768) [HB 2084](hb/2084) - Establishing an oversight committee to improve construction-related training and pathways to state registered apprenticeships in state correctional facilities. 54👍 0👎 1❓
+* [CSJR Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31768) [HB 2065](hb/2065) - Recalculating sentencing ranges for currently incarcerated individuals whose offender score was increased by juvenile convictions. 1088👍 6👎 4❓
 * [ED Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31755) [HB 1565](hb/1565) - Prof. education workforce 490👍 40👎 0❓
 * [ED Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31755) [HB 2381](hb/2381) - School calendar waivers 2👍 0👎 0❓
-* [ED Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31755) [HB 1228](hb/1228) - Dual & tribal language edu. 156👍 5👎 0❓
-* [ED Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31755) [HB 1239](hb/1239) - Educator ethics & complaints 357👍 487👎 2❓
-* [EDU Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31765) [SB 5978](sb/5978) - Authorizing the office of the superintendent of public instruction to act as a guarantor for a county when the county provides a loan to a school district. 0👍 0👎 1❓
-* [EDU Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31765) [SB 5903](sb/5903) - Concerning representation in the educator preparation act. 2👍 0👎 0❓
-* [EDU Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31765) [SB 6012](sb/6012) - Teacher preparation programs 2👍 0👎 0❓
-* [EDU Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31765) [SB 5969](sb/5969) - Adjusting school districts' authority to contract indebtedness for school construction. 6👍 0👎 0❓
-* [EDU Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31765) [SB 5966](sb/5966) - Student restraint, isolation 27👍 181👎 20❓
-* [ENVI Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31779) [HB 2290](hb/2290) - Untreated sewage discharges 0👍 1👎 0❓
-* [ENVI Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31779) [HB 2333](hb/2333) - Carbon seq./state lands 0👍 1👎 1❓
-* [ENVI Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31779) [HB 2376](hb/2376) - CCA public entity oblig. 2👍 0👎 0❓
-* [ENVI Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31779) [HB 2401](hb/2401) - Refrigerant gases 0👍 1👎 2❓
-* [HOUS Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31776) [HB 2353](hb/2353) - Residential targeted areas 2👍 0👎 0❓
-* [HOUS Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31776) [HB 2308](hb/2308) - Existing structures/housing 7👍 0👎 0❓
-* [HOUS Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31776) [HB 2321](hb/2321) - Middle housing requirements 33👍 0👎 0❓
-* [RSG Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31758) [HB 2363](hb/2363) - Alcohol/pop-up retail sales 1👍 0👎 1❓
-* [RSG Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31758) [HB 2255](hb/2255) - Cannabis inversion/diversion 14👍 4👎 0❓
-* [APP Mon 01/22 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31716) [HB 1943](hb/1943) - National guard ed. grants 18👍 0👎 0❓
-* [APP Mon 01/22 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31716) [HB 1980](hb/1980) - Concerning ground emergency medical transportation services. 1👍 1👎 0❓
+* [ED Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31755) [HB 1228](hb/1228) - Dual & tribal language edu. 167👍 5👎 2❓
+* [ED Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31755) [HB 1239](hb/1239) - Educator ethics & complaints 372👍 487👎 2❓
+* [EDU Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31765) [SB 5903](sb/5903) - Concerning representation in the educator preparation act. 3👍 0👎 0❓
+* [EDU Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31765) [SB 6012](sb/6012) - Teacher preparation programs 3👍 0👎 0❓
+* [EDU Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31765) [SB 5978](sb/5978) - Authorizing the office of the superintendent of public instruction to act as a guarantor for a county when the county provides a loan to a school district. 2👍 2👎 1❓
+* [EDU Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31765) [SB 5969](sb/5969) - Adjusting school districts' authority to contract indebtedness for school construction. 8👍 12👎 0❓
+* [EDU Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31765) [SB 5966](sb/5966) - Student restraint, isolation 46👍 328👎 30❓
+* [ENVI Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31779) [HB 2290](hb/2290) - Untreated sewage discharges 1👍 1👎 0❓
+* [ENVI Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31779) [HB 2333](hb/2333) - Carbon seq./state lands 1👍 2👎 1❓
+* [ENVI Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31779) [HB 2376](hb/2376) - CCA public entity oblig. 2👍 3👎 0❓
+* [ENVI Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31779) [HB 2401](hb/2401) - Refrigerant gases 33👍 1👎 2❓
+* [HOUS Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31776) [HB 2353](hb/2353) - Residential targeted areas 4👍 1👎 0❓
+* [HOUS Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31776) [HB 2308](hb/2308) - Existing structures/housing 10👍 0👎 0❓
+* [HOUS Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31776) [HB 2321](hb/2321) - Middle housing requirements 40👍 0👎 0❓
+* [RSG Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31758) [HB 2255](hb/2255) - Cannabis inversion/diversion 15👍 4👎 0❓
+* [RSG Mon 01/22 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31758) [HB 2363](hb/2363) - Alcohol/pop-up retail sales 3👍 0👎 1❓
+* [APP Mon 01/22 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31716) [HB 1980](hb/1980) - Concerning ground emergency medical transportation services. 2👍 1👎 0❓
 * [APP Mon 01/22 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31716) [HB 2316](hb/2316) - PERS/certain bus drivers 3👍 0👎 0❓
-* [APP Mon 01/22 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31716) [HB 1946](hb/1946) - Creating the Washington health corps behavioral health scholarship program. 75👍 1👎 0❓
-* [TR Mon 01/22 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31710) [HB 2357](hb/2357) - State patrol longevity bonus 1👍 1👎 0❓
+* [APP Mon 01/22 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31716) [HB 1943](hb/1943) - National guard ed. grants 22👍 0👎 1❓
+* [APP Mon 01/22 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31716) [HB 1946](hb/1946) - Creating the Washington health corps behavioral health scholarship program. 95👍 1👎 0❓
 * [TR Mon 01/22 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31710) [HB 2318](hb/2318) - State route number 501 3👍 0👎 0❓
-* [TR Mon 01/22 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31710) [HB 2191](hb/2191) - PTBA governing body members 16👍 0👎 0❓
-* [WM Mon 01/22 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31738) [SB 5667](sb/5667) - Forestry riparian easements 191👍 7👎 3❓
-* [WM Mon 01/22 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31738) [SB 5836](sb/5836) - Adding an additional superior court judge in Clark county. 9👍 0👎 0❓
-* [WM Mon 01/22 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31738) [SB 6242](sb/6242) - Law enforcement training 4👍 0👎 0❓
-* [WM Mon 01/22 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31738) [SB 5827](sb/5827) - Superior court/Whatcom 15👍 1👎 0❓
-* [WM Mon 01/22 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31738) [SB 5517](sb/5517) - Water resource mitigation 49👍 598👎 4❓
-* [WM Mon 01/22 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31738) [SB 5837](sb/5837) - Codifying the state election database to publish, evaluate, and analyze certain election data. 109👍 195👎 1❓
+* [TR Mon 01/22 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31710) [HB 2357](hb/2357) - State patrol longevity bonus 2👍 1👎 0❓
+* [TR Mon 01/22 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31710) [HB 2191](hb/2191) - PTBA governing body members 24👍 0👎 0❓
+* [WM Mon 01/22 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31738) [SB 5836](sb/5836) - Adding an additional superior court judge in Clark county. 10👍 0👎 0❓
+* [WM Mon 01/22 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31738) [SB 6242](sb/6242) - Law enforcement training 7👍 0👎 0❓
+* [WM Mon 01/22 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31738) [SB 5827](sb/5827) - Superior court/Whatcom 20👍 1👎 0❓
+* [WM Mon 01/22 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31738) [SB 5837](sb/5837) - Codifying the state election database to publish, evaluate, and analyze certain election data. 131👍 195👎 1❓
+* [WM Mon 01/22 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31738) [SB 5517](sb/5517) - Water resource mitigation 54👍 674👎 4❓
+* [WM Mon 01/22 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31738) [SB 5667](sb/5667) - Forestry riparian easements 336👍 8👎 3❓
 * [BFGT Tue 01/23 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31727) [SB 6252](sb/6252) - Automobile insurance 1👍 0👎 0❓
 * [BFGT Tue 01/23 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31727) [SB 5863](sb/5863) - Prohibiting credit reporting on delinquent accounts that are designated to a person in a divorce. 1👍 1👎 0❓
-* [BFGT Tue 01/23 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31727) [HB 1717](hb/1717) - Associate development orgs. 216👍 2👎 0❓
-* [FIN Tue 01/23 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31702) [HB 2289](hb/2289) - Salmon recovery projects/tax 3👍 0👎 0❓
-* [FIN Tue 01/23 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31702) [HB 2199](hb/2199) - CCA tax exemptions 5👍 0👎 0❓
-* [FIN Tue 01/23 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31702) [HB 2322](hb/2322) - Child care/tax preferences 12👍 0👎 0❓
-* [HLTC Tue 01/23 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31743) [SB 6228](sb/6228) - Substance use treatment 1👍 0👎 0❓
+* [BFGT Tue 01/23 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31727) [HB 1717](hb/1717) - Associate development orgs. 217👍 2👎 0❓
+* [FIN Tue 01/23 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31702) [HB 1716](hb/1716) - Child care B&O credit 8👍 3👎 1❓
+* [FIN Tue 01/23 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31702) [HB 1936](hb/1936) - Tax incentives for farmers 2👍 0👎 0❓
+* [FIN Tue 01/23 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31702) [HB 2199](hb/2199) - CCA tax exemptions 6👍 0👎 0❓
+* [FIN Tue 01/23 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31702) [HB 2322](hb/2322) - Child care/tax preferences 18👍 0👎 0❓
+* [FIN Tue 01/23 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31702) [HB 2289](hb/2289) - Salmon recovery projects/tax 43👍 1👎 0❓
+* [HLTC Tue 01/23 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31743) [SB 6228](sb/6228) - Substance use treatment 2👍 0👎 0❓
 * [HLTC Tue 01/23 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31743) [SB 6182](sb/6182) - Obesity Rx coverage 3👍 1👎 0❓
-* [HLTC Tue 01/23 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31743) [SB 5095](sb/5095) - Parks/health & wellness 111👍 0👎 0❓
-* [HLTC Tue 01/23 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31743) [SB 6251](sb/6251) - Behavioral crisis coord. 24👍 0👎 0❓
-* [LGLT Tue 01/23 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31740) [SB 6150](sb/6150) - Comprehensive plan revisions 1👍 0👎 0❓
-* [LGLT Tue 01/23 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31740) [SB 6231](sb/6231) - Hostile architecture 1👍 1👎 0❓
-* [LGLT Tue 01/23 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31740) [SB 6219](sb/6219) - Agritourism 7👍 0👎 0❓
-* [LGLT Tue 01/23 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31740) [SB 6230](sb/6230) - Tax increment areas 3👍 9👎 0❓
-* [LGLT Tue 01/23 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31740) [SB 6152](sb/6152) - Housing needs gap 24👍 11👎 0❓
+* [HLTC Tue 01/23 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31743) [SB 5095](sb/5095) - Parks/health & wellness 117👍 0👎 0❓
+* [HLTC Tue 01/23 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31743) [SB 6251](sb/6251) - Behavioral crisis coord. 46👍 0👎 0❓
+* [LGLT Tue 01/23 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31740) [SB 6055](sb/6055) - Natural resource indus. dev. 2👍 0👎 0❓
+* [LGLT Tue 01/23 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31740) [SB 6150](sb/6150) - Comprehensive plan revisions 3👍 0👎 0❓
+* [LGLT Tue 01/23 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31740) [SB 6231](sb/6231) - Hostile architecture 3👍 1👎 0❓
+* [LGLT Tue 01/23 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31740) [SB 6219](sb/6219) - Agritourism 13👍 0👎 0❓
+* [LGLT Tue 01/23 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31740) [SB 6230](sb/6230) - Tax increment areas 4👍 11👎 0❓
+* [LGLT Tue 01/23 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31740) [SB 6152](sb/6152) - Housing needs gap 30👍 15👎 0❓
 * [AGNR Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31719) [HB 2312](hb/2312) - Tribal interlocal agreements 0👍 1👎 0❓
-* [AGNR Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31719) [HB 2286](hb/2286) - Salmon rec. capital grants 2👍 1👎 0❓
-* [AGNR Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31719) [HB 2293](hb/2293) - Avian predation/salmon 2👍 0👎 1❓
-* [CRJ Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31752) [HB 2140](hb/2140) - Modifying laws related to adverse possession to protect legal owners of property. 2👍 0👎 0❓
-* [CRJ Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31752) [HB 2383](hb/2383) - Dependency outcome reporting 2👍 0👎 0❓
+* [AGNR Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31719) [HB 2293](hb/2293) - Avian predation/salmon 34👍 0👎 1❓
+* [AGNR Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31719) [HB 2286](hb/2286) - Salmon rec. capital grants 50👍 82👎 0❓
+* [CRJ Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31752) [HB 2140](hb/2140) - Modifying laws related to adverse possession to protect legal owners of property. 3👍 0👎 0❓
 * [CRJ Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31752) [HB 2152](hb/2152) - Criminal insanity terms 1👍 0👎 2❓
-* [CRJ Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31752) [HB 2088](hb/2088) - Crisis teams/liability 7👍 0👎 0❓
+* [CRJ Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31752) [HB 1877](hb/1877) - Improving the Washington state behavioral health system for better coordination and recognition with the Indian behavioral health system. 6👍 0👎 0❓
+* [CRJ Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31752) [HB 2383](hb/2383) - Dependency outcome reporting 7👍 0👎 0❓
+* [CRJ Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31752) [HB 2088](hb/2088) - Crisis teams/liability 10👍 0👎 0❓
 * [HS Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31698) [SB 5938](sb/5938) - Modifying the community parenting alternative for eligible participants in the residential parenting program at the department of corrections. 2👍 0👎 0❓
-* [HS Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31698) [SB 5953](sb/5953) - Incarcerated student grants 2👍 0👎 0❓
-* [ICEV Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31735) [HB 2313](hb/2313) - Digital equity 12👍 0👎 0❓
+* [HS Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31698) [SB 5953](sb/5953) - Incarcerated student grants 3👍 0👎 0❓
+* [ICEV Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31735) [HB 2313](hb/2313) - Digital equity 16👍 0👎 0❓
 * [LAW Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31692) [SB 6032](sb/6032) - Religious schools/law enf. 0👍 1👎 0❓
 * [LAW Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31692) [SB 6227](sb/6227) - Protection order/insanity 2👍 0👎 0❓
-* [LAW Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31692) [SB 6081](sb/6081) - Consumer contracts 2👍 1👎 0❓
-* [LAW Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31692) [SB 5891](sb/5891) - Public school bus trespass 3👍 1👎 0❓
-* [LAW Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31692) [SB 5792](sb/5792) - Concerning the definition of multiunit residential buildings. 34👍 0👎 0❓
-* [LAWS Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31729) [HB 2246](hb/2246) - Vacation leave accrual 1👍 0👎 0❓
-* [LAWS Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31729) [HB 2035](hb/2035) - Concerning restrictions on the working conditions and hours of sixteen- and seventeen-year olds. 31👍 0👎 0❓
-* [LC Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31750) [SB 6265](sb/6265) - Grocery coupons 1👍 0👎 0❓
+* [LAW Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31692) [SB 6081](sb/6081) - Consumer contracts 2👍 2👎 0❓
+* [LAW Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31692) [SB 5891](sb/5891) - Public school bus trespass 6👍 2👎 0❓
+* [LAW Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31692) [SB 5792](sb/5792) - Concerning the definition of multiunit residential buildings. 36👍 0👎 0❓
+* [LAWS Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31729) [HB 2382](hb/2382) - TNC driver death benefits 2👍 0👎 0❓
+* [LAWS Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31729) [HB 2061](hb/2061) - Defining an employee of a health care facility for purposes of mandatory overtime provisions. 3👍 0👎 0❓
+* [LAWS Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31729) [HB 2246](hb/2246) - Vacation leave accrual 4👍 0👎 0❓
+* [LAWS Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31729) [HB 2035](hb/2035) - Concerning restrictions on the working conditions and hours of sixteen- and seventeen-year olds. 35👍 2👎 0❓
+* [LC Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31750) [SB 6088](sb/6088) - Baseball players/employment 2👍 0👎 0❓
+* [LC Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31750) [SB 6265](sb/6265) - Grocery coupons 2👍 0👎 0❓
 * [LC Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31750) [SB 6192](sb/6192) - Construction change orders 3👍 0👎 0❓
-* [LC Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31750) [SB 6085](sb/6085) - Underground economy 4👍 0👎 0❓
-* [LG Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31773) [HB 2296](hb/2296) - Comprehensive plan revisions 1👍 0👎 0❓
-* [LG Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31773) [HB 2394](hb/2394) - SEPA/trails and paths 5👍 0👎 0❓
-* [LG Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31773) [HB 1899](hb/1899) - Facilitating reconstruction of communities damaged or destroyed by wildfires. 4👍 1👎 1❓
+* [LC Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31750) [SB 6085](sb/6085) - Underground economy 6👍 0👎 1❓
+* [LG Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31773) [HB 2296](hb/2296) - Comprehensive plan revisions 3👍 0👎 0❓
+* [LG Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31773) [HB 2394](hb/2394) - SEPA/trails and paths 6👍 0👎 0❓
+* [LG Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31773) [HB 1899](hb/1899) - Facilitating reconstruction of communities damaged or destroyed by wildfires. 11👍 1👎 1❓
 * [LG Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31773) [HB 2052](hb/2052) - Increasing the availability of baby diaper changing stations. 14👍 0👎 0❓
-* [LG Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31773) [HB 2252](hb/2252) - Small businesses/residential 37👍 1👎 0❓
-* [LG Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31773) [HB 2403](hb/2403) - Kennel fire safety standards 76👍 0👎 0❓
+* [LG Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31773) [HB 2252](hb/2252) - Small businesses/residential 75👍 1👎 0❓
+* [LG Tue 01/23 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31773) [HB 2403](hb/2403) - Kennel fire safety standards 106👍 0👎 0❓
 * [CPB Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31707) [HB 2437](hb/2437) - Retirement savings 0👍 1👎 0❓
-* [CPB Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31707) [HB 2244](hb/2244) - Retirement savings 5👍 1👎 0❓
-* [ENET Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31724) [SB 6180](sb/6180) - Waste material management 15👍 5👎 2❓
-* [ENET Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31724) [SB 6005](sb/6005) - Solid waste management 196👍 5👎 0❓
-* [HCW Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31704) [HB 2247](hb/2247) - Behavioral health providers 1👍 0👎 0❓
+* [CPB Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31707) [HB 2244](hb/2244) - Retirement savings 7👍 14👎 0❓
+* [ENET Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31724) [SB 6180](sb/6180) - Waste material management 42👍 11👎 2❓
+* [ENET Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31724) [SB 6005](sb/6005) - Solid waste management 306👍 9👎 0❓
 * [HCW Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31704) [HB 2355](hb/2355) - MRI technologists 1👍 0👎 0❓
 * [HCW Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31704) [HB 2408](hb/2408) - Crisis response comm methods 1👍 0👎 0❓
-* [HCW Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31704) [HB 2319](hb/2319) - Substance use treatment 8👍 1👎 0❓
-* [HCW Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31704) [HB 1859](hb/1859) - Concerning the rights of residents in long-term care facilities. 1131👍 1756👎 79❓
-* [HCW Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31704) [HB 2347](hb/2347) - Adult family home info. 487👍 23👎 3❓
-* [HSEL Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31732) [HB 1891](hb/1891) - Maintaining the safety of children when a parent has a substance use disorder. 1👍 0👎 0❓
+* [HCW Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31704) [HB 2319](hb/2319) - Substance use treatment 12👍 2👎 0❓
+* [HCW Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31704) [HB 2247](hb/2247) - Behavioral health providers 41👍 0👎 1❓
+* [HCW Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31704) [HB 1859](hb/1859) - Concerning the rights of residents in long-term care facilities. 1133👍 1843👎 80❓
+* [HCW Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31704) [HB 2347](hb/2347) - Adult family home info. 533👍 29👎 3❓
+* [HSEL Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31732) [HB 1891](hb/1891) - Maintaining the safety of children when a parent has a substance use disorder. 1👍 2👎 0❓
+* [HSEL Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31732) [HB 2224](hb/2224) - Child abuse referral tool 3👍 0👎 0❓
 * [HSEL Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31732) [HB 2407](hb/2407) - Child welfare workers 1👍 0👎 3❓
-* [PEW Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31713) [HB 2309](hb/2309) - Washington 13 free guarantee 65👍 1👎 0❓
-* [PEW Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31713) [HB 2374](hb/2374) - Washington promise program 68👍 1👎 0❓
+* [PEW Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31713) [HB 2374](hb/2374) - Washington promise program 77👍 20👎 0❓
+* [PEW Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31713) [HB 2309](hb/2309) - Washington 13 free guarantee 75👍 94👎 0❓
 * [SGE Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31771) [SB 6232](sb/6232) - Public records portal pilot 2👍 0👎 0❓
-* [SGE Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31771) [SB 6269](sb/6269) - Alt. voter verification 44👍 2👎 0❓
-* [SGE Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31771) [SB 5993](sb/5993) - Voter education 1👍 79👎 0❓
-* [SGE Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31771) [SB 5209](sb/5209) - Universal civic duty voting 87👍 1041👎 0❓
-* [SGOV Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31746) [HB 2283](hb/2283) - Shared leave/disasters 1👍 0👎 0❓
-* [SGOV Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31746) [HB 2346](hb/2346) - Health disparities council 0👍 1👎 0❓
-* [CSJR Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31769) [HB 2311](hb/2311) - First responder wellness 2👍 0👎 0❓
+* [SGE Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31771) [SB 5993](sb/5993) - Voter education 2👍 98👎 1❓
+* [SGE Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31771) [SB 6269](sb/6269) - Alt. voter verification 77👍 169👎 0❓
+* [SGE Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31771) [SB 5209](sb/5209) - Universal civic duty voting 125👍 1321👎 0❓
+* [SGOV Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31746) [HB 2346](hb/2346) - Health disparities council 2👍 1👎 0❓
+* [SGOV Tue 01/23 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31746) [HB 2283](hb/2283) - Shared leave/disasters 5👍 0👎 0❓
 * [CSJR Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31769) [HB 2390](hb/2390) - Eluding & resisting arrest 2👍 0👎 0❓
-* [CSJR Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31769) [HB 2395](hb/2395) - Strangulation & suffocation 1👍 9👎 0❓
-* [CSJR Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31769) [HB 2001](hb/2001) - Sentence modification 97👍 2👎 1❓
-* [ED Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31802) [HB 2018](hb/2018) - Improving student outcomes by restricting mobile device use by public school students. 4👍 1👎 0❓
-* [ED Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31802) [HB 2037](hb/2037) - Concerning Holocaust and genocide education in public schools. 44👍 10👎 3❓
-* [ED Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31802) [HB 2331](hb/2331) - Public school materials 63👍 12👎 1❓
-* [ED Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31802) [HB 2398](hb/2398) - Instruct. materials/parents 261👍 6👎 0❓
-* [ENVI Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31780) [HB 2069](hb/2069) - Biogenic carbon dioxide 1👍 0👎 0❓
-* [ENVI Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31780) [HB 2301](hb/2301) - Waste material management 15👍 5👎 2❓
+* [CSJR Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31769) [HB 2311](hb/2311) - First responder wellness 5👍 0👎 0❓
+* [CSJR Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31769) [HB 2395](hb/2395) - Strangulation & suffocation 1👍 14👎 1❓
+* [CSJR Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31769) [HB 2001](hb/2001) - Sentence modification 130👍 2👎 1❓
+* [ED Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31802) [HB 2018](hb/2018) - Improving student outcomes by restricting mobile device use by public school students. 4👍 3👎 0❓
+* [ED Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31802) [HB 2037](hb/2037) - Concerning Holocaust and genocide education in public schools. 71👍 15👎 5❓
+* [ED Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31802) [HB 2331](hb/2331) - Public school materials 173👍 158👎 3❓
+* [ED Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31802) [HB 2398](hb/2398) - Instruct. materials/parents 439👍 35👎 0❓
+* [ENVI Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31780) [HB 2069](hb/2069) - Biogenic carbon dioxide 2👍 1👎 0❓
+* [ENVI Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31780) [HB 2301](hb/2301) - Waste material management 43👍 13👎 2❓
 * [HOUS Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31777) [HB 2275](hb/2275) - Senior independent living 3👍 0👎 0❓
-* [HOUS Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31777) [HB 2270](hb/2270) - Department of housing 33👍 3👎 0❓
-* [TRAN Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31695) [SB 5383](sb/5383) - Pedestrians/roadways 478👍 14👎 5❓
-* [TRAN Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31695) [SB 6237](sb/6237) - Wildlife safe passages 418👍 0👎 0❓
-* [WM Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31739) [SB 6197](sb/6197) - LEOFF plan 2 1👍 0👎 0❓
-* [WM Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31739) [SB 5660](sb/5660) - Mental health adv directives 13👍 0👎 1❓
+* [HOUS Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31777) [HB 2270](hb/2270) - Department of housing 47👍 6👎 1❓
+* [TRAN Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31695) [SB 6114](sb/6114) - Sustainable aviation fuel 2👍 0👎 0❓
+* [TRAN Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31695) [SB 5383](sb/5383) - Pedestrians/roadways 500👍 14👎 5❓
+* [TRAN Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31695) [SB 6237](sb/6237) - Wildlife safe passages 541👍 0👎 0❓
+* [WM Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31739) [SB 6198](sb/6198) - LEOFF 2 board employees 2👍 0👎 0❓
 * [WM Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31739) [SB 6263](sb/6263) - Firefighter death benefits 2👍 0👎 0❓
+* [WM Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31739) [SB 5660](sb/5660) - Mental health adv directives 14👍 0👎 1❓
 * [WM Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31739) [SB 6106](sb/6106) - DSHS competency rest./PSERS 3👍 0👎 0❓
-* [WM Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31739) [SB 5873](sb/5873) - Student transportation 53👍 1👎 4❓
-* [WM Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31739) [SB 6069](sb/6069) - Retirement savings 5👍 0👎 0❓
-* [WM Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31739) [SB 5591](sb/5591) - Dependent youth financial ed 66👍 38👎 1❓
-* [AGNR Wed 01/24 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31720) [HB 1574](hb/1574) - Methane/agriculture 1👍 0👎 0❓
+* [WM Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31739) [SB 6197](sb/6197) - LEOFF plan 2 3👍 0👎 0❓
+* [WM Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31739) [SB 5873](sb/5873) - Student transportation 59👍 1👎 4❓
+* [WM Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31739) [SB 6069](sb/6069) - Retirement savings 11👍 12👎 0❓
+* [WM Tue 01/23 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31739) [SB 5591](sb/5591) - Dependent youth financial ed 79👍 38👎 1❓
 * [AGNR Wed 01/24 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31720) [HB 1752](hb/1752) - Modifying the application of the annual consumptive quantity calculation to change applications related to certain water rights held by the United States bureau of reclamation. 0👍 0👎 1❓
+* [AGNR Wed 01/24 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31720) [HB 1574](hb/1574) - Methane/agriculture 3👍 0👎 0❓
+* [CRJ Wed 01/24 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31753) [HB 2055](hb/2055) - Creating a gambling treatment diversion court pilot program to be conducted by the administrative office of the courts. 1👍 0👎 0❓
 * [CRJ Wed 01/24 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31753) [HB 1974](hb/1974) - Disposing of human remains. 10👍 0👎 0❓
-* [CRJ Wed 01/24 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31753) [HB 2016](hb/2016) - Allowing certain minors to contract for housing and utilities. 2👍 17👎 3❓
-* [ENET Wed 01/24 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31725) [SB 6276](sb/6276) - Digital electronics/repair 1👍 0👎 0❓
+* [CRJ Wed 01/24 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31753) [HB 2016](hb/2016) - Allowing certain minors to contract for housing and utilities. 31👍 161👎 3❓
 * [ENET Wed 01/24 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31725) [SB 5826](sb/5826) - Utility bills/CCA charges 1👍 0👎 1❓
-* [ENET Wed 01/24 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31725) [SB 5992](sb/5992) - Water supply/energy sites 3👍 0👎 0❓
-* [ENET Wed 01/24 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31725) [SB 6138](sb/6138) - Thermal energy networks 54👍 0👎 0❓
-* [HEWD Wed 01/24 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31699) [SB 6254](sb/6254) - Student navigational support 2👍 0👎 0❓
+* [ENET Wed 01/24 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31725) [SB 6276](sb/6276) - Digital electronics/repair 2👍 0👎 0❓
+* [ENET Wed 01/24 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31725) [SB 5992](sb/5992) - Water supply/energy sites 4👍 0👎 0❓
+* [ENET Wed 01/24 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31725) [SB 6138](sb/6138) - Thermal energy networks 93👍 0👎 0❓
+* [HEWD Wed 01/24 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31699) [SB 6254](sb/6254) - Student navigational support 3👍 0👎 0❓
+* [LG Wed 01/24 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31774) [HB 2348](hb/2348) - County hospital funding 1👍 0👎 0❓
 * [LG Wed 01/24 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31774) [HB 2391](hb/2391) - County ferries 3👍 0👎 0❓
 * [LG Wed 01/24 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31774) [HB 2354](hb/2354) - Tax increment areas 0👍 8👎 0❓
-* [EDU Wed 01/24 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31766) [SB 6236](sb/6236) - Home-based instruction decl. 1👍 5👎 0❓
-* [EDU Wed 01/24 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31766) [SB 6216](sb/6216) - Student mental health net. 39👍 2👎 0❓
-* [EDU Wed 01/24 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31766) [SB 6208](sb/6208) - Public school materials 50👍 11👎 0❓
-* [EDU Wed 01/24 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31766) [SB 6123](sb/6123) - Classified school employees 84👍 0👎 0❓
-* [EDU Wed 01/24 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31766) [SB 6082](sb/6082) - Paraeducator compensation 122👍 1👎 0❓
+* [EDU Wed 01/24 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31766) [SB 6123](sb/6123) - Classified school employees 119👍 0👎 1❓
+* [EDU Wed 01/24 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31766) [SB 6082](sb/6082) - Paraeducator compensation 175👍 2👎 1❓
+* [EDU Wed 01/24 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31766) [SB 6236](sb/6236) - Home-based instruction decl. 24👍 178👎 1❓
+* [EDU Wed 01/24 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31766) [SB 6216](sb/6216) - Student mental health net. 99👍 141👎 0❓
+* [EDU Wed 01/24 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31766) [SB 6208](sb/6208) - Public school materials 143👍 146👎 1❓
+* [HSG Wed 01/24 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31722) [SB 6199](sb/6199) - Housing authority notices 1👍 0👎 0❓
 * [HSG Wed 01/24 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31722) [SB 6212](sb/6212) - Rent payments/credit reports 1👍 1👎 0❓
-* [HSG Wed 01/24 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31722) [SB 6175](sb/6175) - Existing structures/housing 3👍 0👎 1❓
-* [HSG Wed 01/24 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31722) [SB 6064](sb/6064) - Pet fees, deposits 41👍 115👎 0❓
+* [HSG Wed 01/24 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31722) [SB 6175](sb/6175) - Existing structures/housing 6👍 0👎 1❓
+* [HSG Wed 01/24 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31722) [SB 6064](sb/6064) - Pet fees, deposits 41👍 148👎 0❓
 * [CPB Wed 01/24 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31708) [HB 2329](hb/2329) - Insurance market/housing 3👍 0👎 0❓
-* [HCW Wed 01/24 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31705) [HB 2116](hb/2116) - Pharmacist prescriptive auth 1👍 0👎 0❓
-* [HCW Wed 01/24 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31705) [HB 2416](hb/2416) - ARNP legal title 4👍 0👎 0❓
-* [HSEL Wed 01/24 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31733) [HB 2230](hb/2230) - Economic security grants 2👍 0👎 0❓
-* [HSEL Wed 01/24 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31733) [HB 2279](hb/2279) - Dev. disabilities waiver use 5👍 0👎 0❓
-* [HSEL Wed 01/24 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31733) [HB 2342](hb/2342) - Dependent youth financial ed 11👍 0👎 0❓
-* [HSEL Wed 01/24 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31733) [HB 2368](hb/2368) - Refugee & immigrant assist. 30👍 4👎 0❓
-* [HSEL Wed 01/24 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31733) [HB 2365](hb/2365) - Respite care 45👍 0👎 0❓
-* [SGOV Wed 01/24 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31747) [HB 2091](hb/2091) - Fallen firefighter memorial 1👍 0👎 0❓
-* [SGOV Wed 01/24 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31747) [HB 2216](hb/2216) - State employee degree reqs. 2👍 1👎 0❓
+* [CPB Wed 01/24 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31708) [HB 2330](hb/2330) - Wildfire protection 11👍 0👎 0❓
+* [HCW Wed 01/24 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31705) [HB 2295](hb/2295) - Hospital at-home services 1👍 0👎 0❓
+* [HCW Wed 01/24 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31705) [HB 1655](hb/1655) - Provider contract comp. 679👍 6👎 0❓
+* [HCW Wed 01/24 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31705) [HB 2116](hb/2116) - Pharmacist prescriptive auth 3👍 0👎 0❓
+* [HCW Wed 01/24 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31705) [HB 2416](hb/2416) - ARNP legal title 6👍 0👎 0❓
+* [HSEL Wed 01/24 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31733) [HB 2230](hb/2230) - Economic security grants 3👍 0👎 0❓
+* [HSEL Wed 01/24 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31733) [HB 2279](hb/2279) - Dev. disabilities waiver use 6👍 0👎 0❓
+* [HSEL Wed 01/24 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31733) [HB 2342](hb/2342) - Dependent youth financial ed 21👍 0👎 0❓
+* [HSEL Wed 01/24 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31733) [HB 2368](hb/2368) - Refugee & immigrant assist. 42👍 6👎 0❓
+* [HSEL Wed 01/24 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31733) [HB 2365](hb/2365) - Respite care 106👍 0👎 0❓
+* [SGOV Wed 01/24 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31747) [HB 2091](hb/2091) - Fallen firefighter memorial 3👍 0👎 0❓
+* [SGOV Wed 01/24 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31747) [HB 2216](hb/2216) - State employee degree reqs. 3👍 1👎 0❓
 * [SGOV Wed 01/24 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31747) [HB 2392](hb/2392) - Kimchi day 4👍 0👎 0❓
-* [SGOV Wed 01/24 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31747) [HB 2307](hb/2307) - Public records reviews 2👍 9👎 0❓
-* [SGOV Wed 01/24 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31747) [HB 2250](hb/2250) - Local elections 717👍 356👎 3❓
-* [APP Wed 01/24 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31717) [HB 1972](hb/1972) - Physicians health prg. fees 15👍 2👎 0❓
+* [SGOV Wed 01/24 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31747) [HB 2307](hb/2307) - Public records reviews 2👍 11👎 0❓
+* [SGOV Wed 01/24 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31747) [HB 2250](hb/2250) - Local elections 799👍 558👎 3❓
+* [APP Wed 01/24 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31717) [HB 2006](hb/2006) - Concerning court interpreters. 15👍 1👎 0❓
+* [APP Wed 01/24 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31717) [HB 1972](hb/1972) - Physicians health prg. fees 16👍 3👎 0❓
+* [APP Wed 01/24 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31717) [HB 2114](hb/2114) - Residential tenants 2136👍 635👎 11❓
+* [TR Wed 01/24 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31711) [HB 2385](hb/2385) - State ferry fuel purchasing 1👍 0👎 0❓
 * [TR Wed 01/24 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31711) [HB 2262](hb/2262) - Tire rolling resistance 1👍 1👎 0❓
-* [CSJR Thu 01/25 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31770) [HB 2133](hb/2133) - Public school bus trespass 1👍 0👎 0❓
 * [CSJR Thu 01/25 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31770) [HB 1800](hb/1800) - Graffiti 1👍 1👎 0❓
-* [CSJR Thu 01/25 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31770) [HB 2079](hb/2079) - Improving school safety by extending and increasing penalties for interference by, or intimidation by threat of, force or violence at schools and athletic activities. 2👍 0👎 0❓
-* [CSJR Thu 01/25 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31770) [HB 2196](hb/2196) - Alcohol concentration/DUI 8👍 18👎 0❓
-* [ED Thu 01/25 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31757) [HB 2130](hb/2130) - Special education services 30👍 4👎 0❓
-* [ED Thu 01/25 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31757) [HB 2239](hb/2239) - Social-emotional instruction 37👍 4👎 0❓
+* [CSJR Thu 01/25 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31770) [HB 2079](hb/2079) - Improving school safety by extending and increasing penalties for interference by, or intimidation by threat of, force or violence at schools and athletic activities. 3👍 0👎 0❓
+* [CSJR Thu 01/25 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31770) [HB 2133](hb/2133) - Public school bus trespass 6👍 0👎 0❓
+* [CSJR Thu 01/25 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31770) [HB 2196](hb/2196) - Alcohol concentration/DUI 13👍 21👎 0❓
+* [ED Thu 01/25 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31757) [HB 2130](hb/2130) - Special education services 39👍 5👎 0❓
+* [ED Thu 01/25 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31757) [HB 2239](hb/2239) - Social-emotional instruction 98👍 157👎 1❓
 * [ENVI Thu 01/25 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31781) [HB 2249](hb/2249) - CCA market impacts 0👍 1👎 0❓
-* [HOUS Thu 01/25 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31778) [HB 2158](hb/2158) - Urban growth area boundaries 31👍 0👎 0❓
-* [HOUS Thu 01/25 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31778) [HB 2323](hb/2323) - Rent payments/credit reports 2👍 35👎 0❓
-* [HS Thu 01/25 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31701) [SB 6226](sb/6226) - DSHS fraud office reporting 3👍 0👎 0❓
+* [HOUS Thu 01/25 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31778) [HB 2158](hb/2158) - Urban growth area boundaries 34👍 0👎 0❓
+* [HOUS Thu 01/25 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31778) [HB 2323](hb/2323) - Rent payments/credit reports 2👍 57👎 0❓
+* [HS Thu 01/25 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31701) [SB 6110](sb/6110) - Child fatalities 1👍 0👎 0❓
+* [HS Thu 01/25 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31701) [SB 6226](sb/6226) - DSHS fraud office reporting 5👍 0👎 0❓
 * [LAW Thu 01/25 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31693) [SB 6222](sb/6222) - District court judges 1👍 0👎 0❓
 * [LAW Thu 01/25 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31693) [SB 5976](sb/5976) - Dogs at large 0👍 3👎 0❓
 * [LC Thu 01/25 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31751) [SB 6256](sb/6256) - Solar consumer protections 2👍 0👎 0❓
-* [LC Thu 01/25 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31751) [SB 5980](sb/5980) - Concerning the timeline for issuing a citation for a violation of the Washington industrial safety and health act. 25👍 0👎 0❓
-* [LC Thu 01/25 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31751) [SB 6007](sb/6007) - Grocery workers 27👍 0👎 0❓
-* [LC Thu 01/25 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31751) [SB 5945](sb/5945) - Vehicle dealers 64👍 0👎 0❓
+* [LC Thu 01/25 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31751) [SB 5980](sb/5980) - Concerning the timeline for issuing a citation for a violation of the Washington industrial safety and health act. 30👍 0👎 0❓
+* [LC Thu 01/25 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31751) [SB 6007](sb/6007) - Grocery workers 64👍 1👎 0❓
+* [LC Thu 01/25 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31751) [SB 5945](sb/5945) - Vehicle dealers 75👍 0👎 0❓
 * [BFGT Thu 01/25 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31728) [SB 5013](sb/5013) - Wine/alcohol tax exemption 15👍 2👎 0❓
-* [BFGT Thu 01/25 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31728) [SB 6240](sb/6240) - Jet fuel tax preferences 0👍 1👎 0❓
+* [BFGT Thu 01/25 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31728) [SB 6137](sb/6137) - Semiconductor tax incentives 0👍 1👎 0❓
+* [BFGT Thu 01/25 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31728) [SB 6243](sb/6243) - Technology manuf./B&O tax 0👍 1👎 0❓
+* [BFGT Thu 01/25 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31728) [SB 6240](sb/6240) - Jet fuel tax preferences 0👍 2👎 0❓
 * [BFGT Thu 01/25 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31728) [SB 6202](sb/6202) - Tourism promotion exemptions 3👍 0👎 0❓
 * [HLTC Thu 01/25 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31744) [SB 6234](sb/6234) - Newborn screening for BCKDK 0👍 1👎 0❓
 * [HLTC Thu 01/25 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31744) [SB 6218](sb/6218) - Dental only plans 2👍 0👎 0❓
-* [HLTC Thu 01/25 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31744) [SB 6257](sb/6257) - Hospital charity/residency 14👍 10👎 0❓
+* [HLTC Thu 01/25 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31744) [SB 6257](sb/6257) - Hospital charity/residency 31👍 20👎 1❓
 * [AWNP Thu 01/25 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31762) [SB 6043](sb/6043) - Recreational use fees 1👍 0👎 0❓
-* [AWNP Thu 01/25 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31762) [SB 6278](sb/6278) - Organic agriculture 1👍 0👎 0❓
 * [AWNP Thu 01/25 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31762) [SB 6281](sb/6281) - Reforestation grants 1👍 0👎 0❓
 * [AWNP Thu 01/25 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31762) [SB 6143](sb/6143) - Salmon habitat planning 2👍 0👎 1❓
-* [CB Thu 01/25 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31763) [HB 1892](hb/1892) - Workforce housing prg. 42👍 3👎 0❓
+* [AWNP Thu 01/25 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31762) [SB 6278](sb/6278) - Organic agriculture 3👍 0👎 0❓
+* [CB Thu 01/25 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31763) [HB 2299](hb/2299) - DNR trust asset leasing 0👍 2👎 0❓
+* [CB Thu 01/25 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31763) [HB 1892](hb/1892) - Workforce housing prg. 44👍 3👎 0❓
 * [CB Thu 01/25 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31763) [HB 2310](hb/2310) - State park heritage center 3👍 0👎 0❓
-* [CB Thu 01/25 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31763) [HB 2372](hb/2372) - Tribes/health facilities 3👍 0👎 0❓
-* [CB Thu 01/25 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31763) [HB 2160](hb/2160) - Housing development 220👍 12👎 8❓
+* [CB Thu 01/25 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31763) [HB 2372](hb/2372) - Tribes/health facilities 4👍 0👎 0❓
 * [CB Thu 01/25 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31763) [HB 2411](hb/2411) - School construction debt 5👍 0👎 0❓
+* [CB Thu 01/25 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31763) [HB 2160](hb/2160) - Housing development 263👍 12👎 8❓
 * [EDU Thu 01/25 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31767) [SB 6031](sb/6031) - Student transp. allocation 2👍 1👎 0❓
 * [EDU Thu 01/25 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31767) [SB 6264](sb/6264) - Competency-based education 3👍 0👎 0❓
 * [EDU Thu 01/25 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31767) [SB 6205](sb/6205) - Pledge of allegiance instr. 5👍 0👎 0❓
 * [EDU Thu 01/25 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31767) [SB 6045](sb/6045) - School district efficiencies 0👍 9👎 0❓
-* [FIN Thu 01/25 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31703) [HB 1981](hb/1981) - Incentivizing clean nuclear energy manufacturing through preferential business and occupation tax rates. 1👍 0👎 0❓
-* [FIN Thu 01/25 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31703) [HB 2120](hb/2120) - Clean energy manufacturers 2👍 0👎 0❓
-* [FIN Thu 01/25 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31703) [HB 2219](hb/2219) - Affordable housing/tax ex. 20👍 0👎 0❓
-* [APP Thu 01/25 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31718) [HB 1969](hb/1969) - Individual providers/family 31👍 2👎 0❓
+* [FIN Thu 01/25 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31703) [HB 1981](hb/1981) - Incentivizing clean nuclear energy manufacturing through preferential business and occupation tax rates. 2👍 0👎 0❓
+* [FIN Thu 01/25 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31703) [HB 2120](hb/2120) - Clean energy manufacturers 5👍 0👎 0❓
+* [FIN Thu 01/25 01:30 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31703) [HB 2219](hb/2219) - Affordable housing/tax ex. 45👍 0👎 0❓
+* [APP Thu 01/25 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31718) [HB 2000](hb/2000) - International leadership 12👍 334👎 1❓
+* [APP Thu 01/25 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31718) [HB 1969](hb/1969) - Individual providers/family 33👍 3👎 0❓
+* [APP Thu 01/25 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31718) [HB 1075](hb/1075) - Working families' tax credit 345👍 20👎 0❓
 * [TR Thu 01/25 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31712) [HB 2393](hb/2393) - Unleaded aircraft fuel/tax 5👍 0👎 0❓
 * [TRAN Thu 01/25 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31696) [SB 6195](sb/6195) - Vehicle inspection backlog 2👍 0👎 0❓
-* [WM Thu 01/25 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31741) [SB 6038](sb/6038) - Child care tax preference 2👍 0👎 0❓
+* [TRAN Thu 01/25 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31696) [SB 6277](sb/6277) - Transportation partnerships 2👍 0👎 0❓
+* [WM Thu 01/25 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31741) [SB 6238](sb/6238) - Property tax/veteran widows 1👍 0👎 0❓
 * [WM Thu 01/25 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31741) [SB 6249](sb/6249) - Homeowner property tax ex. 2👍 0👎 0❓
-* [WM Thu 01/25 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31741) [SB 6030](sb/6030) - ADU tax exemptions 3👍 0👎 0❓
-* [WM Thu 01/25 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31741) [SB 6191](sb/6191) - Housing/taxes 188👍 60👎 0❓
+* [WM Thu 01/25 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31741) [SB 6030](sb/6030) - ADU tax exemptions 5👍 0👎 0❓
+* [WM Thu 01/25 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31741) [SB 6038](sb/6038) - Child care tax preference 8👍 0👎 0❓
+* [WM Thu 01/25 04:00 PM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31741) [SB 6191](sb/6191) - Housing/taxes 294👍 78👎 1❓
 * [HCW Fri 01/26 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31706) [HB 1450](hb/1450) - Biomarker testing coverage 42👍 3👎 0❓
-* [HLTC Fri 01/26 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31745) [SB 6258](sb/6258) - Standardized health plans 18👍 0👎 0❓
+* [HCW Fri 01/26 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31706) [HB 2396](hb/2396) - Synthetic opioids 0👍 1👎 0❓
+* [HLTC Fri 01/26 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31745) [SB 6258](sb/6258) - Standardized health plans 39👍 2👎 0❓
+* [SGE Fri 01/26 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31772) [SB 6157](sb/6157) - Civil service 2👍 0👎 0❓
 * [SGE Fri 01/26 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31772) [SB 6262](sb/6262) - State park heritage center 2👍 0👎 0❓
-* [SGE Fri 01/26 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31772) [SB 6120](sb/6120) - Wildland urban interface 30👍 0👎 0❓
-* [AGNR Fri 01/26 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31721) [HB 2424](hb/2424) - State-tribe coop./wildlife 2👍 1👎 0❓
-* [AGNR Fri 01/26 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31721) [HB 2423](hb/2423) - Gray wolf management 4👍 1👎 0❓
+* [SGE Fri 01/26 08:00 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31772) [SB 6120](sb/6120) - Wildland urban interface 39👍 0👎 0❓
+* [AGNR Fri 01/26 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31721) [HB 2424](hb/2424) - State-tribe coop./wildlife 7👍 2👎 0❓
+* [AGNR Fri 01/26 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31721) [HB 2423](hb/2423) - Gray wolf management 10👍 3👎 0❓
 * [HSG Fri 01/26 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31723) [SB 6211](sb/6211) - Mobile home rent increases 2👍 0👎 0❓
-* [HSG Fri 01/26 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31723) [SB 6210](sb/6210) - Unlawful detainer actions 52👍 7👎 1❓
-* [LAWS Fri 01/26 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31731) [HB 2266](hb/2266) - Construction/sanitary cond. 26👍 34👎 0❓
+* [HSG Fri 01/26 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31723) [SB 6210](sb/6210) - Unlawful detainer actions 68👍 9👎 1❓
+* [LAWS Fri 01/26 10:30 AM](https://app.leg.wa.gov/committeeschedules/Home/Agenda/31731) [HB 2266](hb/2266) - Construction/sanitary cond. 36👍 41👎 0❓
 
 ## Heard bills
 * [SB 5236](sb/5236) - Hospital staffing standards 19📰 11619👍 1922👎 112❓ - C 114 L 23
@@ -261,8 +290,8 @@
 * [HB 1039](hb/1039) - Intramuscular needling 1845👍 1168👎 22❓ - C 198 L 23
 * [SB 5536](sb/5536) - Controlled substances 70📰 365👍 2530👎 81❓ - C 1 L 23 E1
 * [HB 1628](hb/1628) - Real estate excise tax 17📰 1357👍 1518👎 5❓ - H Rules X
-* [HB 1859](hb/1859) - Concerning the rights of residents in long-term care facilities. 1131👍 1756👎 79❓ - H HC/Wellness
-* [HB 2114](hb/2114) - Residential tenants 4📰 2013👍 635👎 11❓ - H Approps
+* [HB 1859](hb/1859) - Concerning the rights of residents in long-term care facilities. 1133👍 1843👎 80❓ - H HC/Wellness
+* [HB 2114](hb/2114) - Residential tenants 4📰 2136👍 635👎 11❓ - H Approps
 * [SB 5427](sb/5427) - Hate crimes & bias incidents 7📰 648👍 1982👎 7❓ - S Ways & Means
 * [SB 5466](sb/5466) - Transit-oriented development 35📰 2545👍 46👎 35❓ - S Rules X
 * [HB 1832](hb/1832) - Vehicle per mile charge 6📰 62👍 2527👎 34❓ - H Transportation
@@ -358,7 +387,7 @@
 * [HB 2030](hb/2030) - Revoking a person's voting rights only when convicted of a state crime punishable by death. 4📰 517👍 488👎 1❓ - H State Govt & Tr
 * [SB 5851](sb/5851) - Concerning Holocaust and genocide education in public schools. 4📰 880👍 87👎 39❓ - S EL/K-12
 * [SB 5987](sb/5987) - Gift certificates 1📰 775👍 227👎 0❓ - S Business, Fin S
-* [HB 2157](hb/2157) - Vaccine definition 367👍 631👎 2❓ - H Exec Action
+* [HB 2157](hb/2157) - Vaccine definition 367👍 631👎 2❓ - H HCWDP
 * [HB 1195](hb/1195) - Weapons/parks & hospitals 2📰 513👍 483👎 0❓ - H Civil R & Judi
 * [SB 6136](sb/6136) - Rental property B&O tax 2📰 65👍 925👎 3❓ - S Housing
 * [HB 1424](hb/1424) - Dogs and cats/consumers 9📰 823👍 149👎 15❓ - C 208 L 23
@@ -375,7 +404,7 @@
 * [HB 1087](hb/1087) - Solitary confinement 6📰 889👍 44👎 9❓ - H Approps
 * [HB 1784](hb/1784) - Hunger relief 6📰 925👍 3👎 6❓ - C 63 L 23
 * [HB 1170](hb/1170) - Climate response strategy 10📰 867👍 60👎 6❓ - C 169 L 23
-* [HB 1954](hb/1954) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 253👍 675👎 2❓ - H Exec Action
+* [HB 1954](hb/1954) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 253👍 675👎 2❓ - H HCWDP
 * [HB 1124](hb/1124) - Residential rent and fees 19📰 657👍 268👎 4❓ - H Rules C
 * [SB 5624](sb/5624) - Substance use recovery serv. 3📰 892👍 26👎 10❓ - S Law & Justice
 * [HB 1244](hb/1244) - Enrichment levy authority 5📰 400👍 521👎 2❓ - H Rules C
@@ -400,7 +429,7 @@
 * [SB 5688](sb/5688) - Providing carbon sequestration and ecosystem services in the management of public lands. 7📰 369👍 408👎 7❓ - S Ways & Means
 * [HB 1785](hb/1785) - COVID-19/occupational 34👍 733👎 1❓ - H Labor & Workpl
 * [SB 5442](sb/5442) - Charter schools/enrichment 1📰 595👍 169👎 4❓ - S EL/K-12
-* [HB 1239](hb/1239) - Educator ethics & complaints 2📰 357👍 487👎 2❓ - H Education
+* [HB 1239](hb/1239) - Educator ethics & complaints 2📰 372👍 487👎 2❓ - H Education
 * [SB 5598](sb/5598) - Horses/funding 552👍 205👎 1❓ - S Ways & Means
 * [HB 1951](hb/1951) - Algorithmic discrimination 36👍 707👎 9❓ - H ConsPro&Bus
 * [HB 1885](hb/1885) - Strengthening campaign finance disclosure by prohibiting campaign contributions and expenditures by foreign-influenced corporations. 2📰 713👍 21👎 13❓ - H State Govt & Tr
@@ -413,17 +442,17 @@
 * [SB 5459](sb/5459) - Election info. requests 4📰 58👍 646👎 3❓ - C 404 L 23
 * [SB 5562](sb/5562) - Clean energy 3📰 347👍 342👎 14❓ - S Ways & Means
 * [SB 5322](sb/5322) - Public building materials 591👍 90👎 4❓ - S Ways & Means
-* [HB 1655](hb/1655) - Provider contract comp. 677👍 5👎 0❓ - H HC/Wellness
+* [HB 1655](hb/1655) - Provider contract comp. 679👍 6👎 0❓ - H HC/Wellness
 * [HB 1094](hb/1094) - Future fund program 10📰 386👍 288👎 0❓ - H Approps
 * [SB 5425](sb/5425) - Fire sprinkler contractors 1📰 636👍 29👎 8❓ - C 329 L 23
 * [HB 1047](hb/1047) - Cosmetic product chemicals 7📰 618👍 38👎 9❓ - C 455 L 23
 * [SB 5204](sb/5204) - Fertility services coverage 1📰 625👍 40👎 0❓ - S Health & Long
 * [SB 5035](sb/5035) - Controlled sub. possession 2📰 533👍 115👎 4❓ - S Law & Justice
 * [SB 5047](sb/5047) - Voting rights act 2📰 207👍 438👎 6❓ - S Rules X
-* [SB 5517](sb/5517) - Water resource mitigation 49👍 598👎 4❓ - S Ways & Means
+* [SB 5517](sb/5517) - Water resource mitigation 54👍 674👎 4❓ - S Ways & Means
 * [HB 1676](hb/1676) - Special ed. early support 1📰 632👍 0👎 2❓ - H Approps
 * [SB 5238](sb/5238) - Academic employee bargaining 611👍 20👎 2❓ - C 115 L 23
-* [SB 5209](sb/5209) - Universal civic duty voting 2📰 87👍 1041👎 0❓ - S State Govt & El
+* [SB 5209](sb/5209) - Universal civic duty voting 2📰 125👍 1321👎 0❓ - S State Govt & El
 * [HB 2028](hb/2028) - Concerning manufacturer and new dealer franchise agreements. 265👍 359👎 3❓ - H ConsPro&Bus
 * [SB 5372](sb/5372) - DNR land 1📰 600👍 11👎 13❓ - S Ways & Means
 * [HB 2013](hb/2013) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 613👍 2👎 0❓ - H Approps
@@ -457,7 +486,7 @@
 * [HB 2166](hb/2166) - POLST access 551👍 0👎 1❓ - H HC/Wellness
 * [HB 1310](hb/1310) - Physician assistant collab. 541👍 5👎 4❓ - H HC/Wellness
 * [HB 1095](hb/1095) - Wage replacement 2📰 512👍 23👎 12❓ - H Approps
-* [HB 2209](hb/2209) - Lunar new year 1📰 475👍 6👎 55❓ - H Exec Action
+* [HB 2209](hb/2209) - Lunar new year 1📰 475👍 6👎 55❓ - H SGOVDP
 * [HB 2041](hb/2041) - Concerning physician assistant collaborative practice. 524👍 1👎 9❓ - H Exec Action
 * [SB 5453](sb/5453) - Female genital mutilation 6📰 523👍 3👎 7❓ - C 122 L 23
 * [HB 2087](hb/2087) - Apprenticeship objections 329👍 194👎 8❓ - H Labor & Workpla
@@ -500,7 +529,7 @@
 * [SB 5431](sb/5431) - Zero emission school buses 2📰 403👍 50👎 9❓ - S EL/K-12
 * [HB 1344](hb/1344) - Low-proof beverages/tax 330👍 127👎 1❓ - H Reg Subst & Ga
 * [SB 6014](sb/6014) - Special education cap 3📰 449👍 1👎 5❓ - S Ways & Means
-* [HB 2058](hb/2058) - Increasing student access to free meals served at public schools. 3📰 422👍 29👎 3❓ - H Exec Action
+* [HB 2058](hb/2058) - Increasing student access to free meals served at public schools. 3📰 422👍 29👎 3❓ - H EDDP
 * [HB 2242](hb/2242) - Sexual assault/higher ed. 1📰 448👍 0👎 6❓ - H Postsec Ed & W
 * [HB 1032](hb/1032) - Wildfires/electric utilities 2📰 442👍 2👎 5❓ - C 132 L 23
 * [SB 5080](sb/5080) - Cannabis social equity 10📰 342👍 90👎 17❓ - C 220 L 23
@@ -519,8 +548,8 @@
 * [SB 5451](sb/5451) - Long sentences review 417👍 5👎 0❓ - S Law & Justice
 * [HB 1525](hb/1525) - Apprenticeships/child care 2📰 420👍 0👎 0❓ - C 294 L 23
 * [SB 5020](sb/5020) - Education at 6 years of age 5📰 10👍 409👎 1❓ - S Ways & Means
-* [HB 1608](hb/1608) - Anaphylaxis meds./schools 2📰 413👍 0👎 1❓ - H Education
-* [SB 5383](sb/5383) - Pedestrians/roadways 5📰 478👍 14👎 5❓ - S Transportation
+* [HB 1608](hb/1608) - Anaphylaxis meds./schools 2📰 413👍 0👎 1❓ - H EDDPS
+* [SB 5383](sb/5383) - Pedestrians/roadways 5📰 500👍 14👎 5❓ - S Transportation
 * [SB 5533](sb/5533) - Model vehicle pursuit policy 9📰 386👍 10👎 13❓ - S Ways & Means
 * [HB 1168](hb/1168) - Prenatal substance exposure 406👍 2👎 0❓ - C 288 L 23
 * [HB 1215](hb/1215) - Riparian areas 1📰 103👍 285👎 20❓ - H Ag&Nr
@@ -556,18 +585,18 @@
 * [SB 5555](sb/5555) - Certified peer specialists 10📰 53👍 298👎 4❓ - C 469 L 23
 * [HB 1174](hb/1174) - Jail-based voting 3📰 220👍 132👎 1❓ - H Approps
 * [HB 1478](hb/1478) - Student rights 4📰 59👍 293👎 1❓ - H Rules 3C
-* [HB 1075](hb/1075) - Working families' tax credit 10📰 332👍 20👎 0❓ - H Approps
+* [HB 1075](hb/1075) - Working families' tax credit 10📰 345👍 20👎 0❓ - H Approps
 * [HB 1089](hb/1089) - Sex trafficking 2📰 348👍 0👎 4❓ - H Approps
 * [SB 5590](sb/5590) - Mt. St. Helens license plate 351👍 0👎 1❓ - S 3rd Reading
 * [HB 2177](hb/2177) - Sex offender policy board 343👍 5👎 2❓ - H Community Safet
 * [SB 5140](sb/5140) - Election security testing 337👍 10👎 2❓ - S State Govt & E
 * [HB 1082](hb/1082) - PT & OT service corporations 348👍 0👎 0❓ - C 60 L 23
 * [HB 1055](hb/1055) - Pub safety telecommunicators 1📰 343👍 1👎 1❓ - C 199 L 23
-* [HB 2000](hb/2000) - International leadership 12👍 331👎 1❓ - H Approps
+* [HB 2000](hb/2000) - International leadership 12👍 334👎 1❓ - H Approps
 * [SB 5546](sb/5546) - Cannabis commission 2📰 196👍 143👎 5❓ - S Rules 3
 * [SB 5592](sb/5592) - Defibrillators/fitness 342👍 0👎 1❓ - S Rules 3
 * [SB 5537](sb/5537) - Hospital staffing collab. 1📰 308👍 34👎 0❓ - S Ways & Means
-* [HB 1798](hb/1798) - Earned release time 1📰 334👍 3👎 4❓ - H Exec Action
+* [HB 1798](hb/1798) - Earned release time 1📰 334👍 3👎 4❓ - H CSJRDPS
 * [HB 1644](hb/1644) - Margin tax 1📰 12👍 318👎 6❓ - H Finance
 * [HB 1272](hb/1272) - Voters' pamphlets 74👍 259👎 1❓ - H 2nd Reading
 * [SB 5135](sb/5135) - Solitary confinement 2📰 313👍 13👎 8❓ - S Human Services
@@ -588,7 +617,7 @@
 * [HB 1793](hb/1793) - Wireless devices tax 3📰 9👍 302👎 2❓ - H Finance
 * [SB 5269](sb/5269) - Manufacturing 1📰 264👍 46👎 2❓ - C 322 L 23
 * [HB 1509](hb/1509) - Community solar 3📰 286👍 17👎 7❓ - H Env & Energy
-* [HB 2144](hb/2144) - Providing for a deposit return program for qualifying beverage containers to be implemented by a distributor responsibility organization. 260👍 38👎 10❓ - H Exec Action
+* [HB 2144](hb/2144) - Beverage deposit return prg. 260👍 38👎 10❓ - H ENVIDPS
 * [HB 2237](hb/2237) - Parenting plan limitations 172👍 130👎 6❓ - H Civil R & Judi
 * [SB 5364](sb/5364) - Lot splitting 3📰 303👍 1👎 4❓ - S Rules X
 * [HB 1652](hb/1652) - Child support pass through 303👍 1👎 3❓ - S Law & Justice
@@ -625,7 +654,7 @@
 * [SB 5278](sb/5278) - Home care aide certification 2📰 260👍 1👎 8❓ - C 323 L 23
 * [HB 1135](hb/1135) - Impact fee use 253👍 15👎 0❓ - H Rules X
 * [HB 1729](hb/1729) - Hydrogen fuel products 1📰 31👍 236👎 1❓ - H Rules 3C
-* [HB 2023](hb/2023) - Improving meaningful access to elections by increasing language assistance. 111👍 154👎 2❓ - H Exec Action
+* [HB 2023](hb/2023) - Improving meaningful access to elections by increasing language assistance. 111👍 154👎 2❓ - H SGOVDP
 * [SB 5707](sb/5707) - Housing court pilot program 21👍 242👎 4❓ - S Law & Justice
 * [HB 2073](hb/2073) - Concerning emissions of greenhouse gases from sources other than methane and carbon dioxide. 173👍 80👎 11❓ - H Env & Energy
 * [SB 5125](sb/5125) - Future fund program 9📰 187👍 76👎 1❓ - S Ways & Means
@@ -644,7 +673,7 @@
 * [SB 5263](sb/5263) - Psilocybin 5📰 190👍 33👎 30❓ - C 364 L 23
 * [SB 5474](sb/5474) - Juvenile justice 1📰 235👍 11👎 7❓ - S Ways & Means
 * [SB 5703](sb/5703) - College grant/bridge grants 3📰 253👍 0👎 0❓ - S Ways & Means
-* [HB 2126](hb/2126) - Rural area ADUs 1📰 71👍 181👎 0❓ - H Exec Action
+* [HB 2126](hb/2126) - Rural area ADUs 1📰 71👍 181👎 0❓ - H HOUSDP
 * [HB 1694](hb/1694) - Home care workforce shortage 246👍 1👎 4❓ - C 424 L 23
 * [HB 1378](hb/1378) - Derelict aquatic structures 4📰 246👍 1👎 3❓ - H Rules X
 * [SB 5087](sb/5087) - Defects and omissions 6📰 236👍 11👎 1❓ - C 102 L 23
@@ -655,10 +684,10 @@
 * [HB 2119](hb/2119) - Medical debt garnishment 57👍 185👎 0❓ - H Civil R & Judi
 * [SB 5593](sb/5593) - Student data transfer 113👍 127👎 2❓ - C 406 L 23
 * [SB 5614](sb/5614) - Adult entertainment 4📰 36👍 199👎 7❓ - S Rules X
-* [SB 5837](sb/5837) - Codifying the state election database to publish, evaluate, and analyze certain election data. 109👍 195👎 1❓ - S Ways & Means
+* [SB 5837](sb/5837) - Codifying the state election database to publish, evaluate, and analyze certain election data. 131👍 195👎 1❓ - S Ways & Means
 * [HB 2131](hb/2131) - Thermal energy networks 232👍 1👎 4❓ - H Env & Energy
 * [SB 5131](sb/5131) - Commissary funds 3📰 233👍 0👎 4❓ - C 111 L 23
-* [HB 2160](hb/2160) - Housing development 3📰 220👍 12👎 8❓ - H Cap Budget
+* [HB 2160](hb/2160) - Housing development 3📰 263👍 12👎 8❓ - H Cap Budget
 * [SB 5333](sb/5333) - Sport special license plate 227👍 0👎 9❓ - S Transportation
 * [SB 5741](sb/5741) - Housing gap voucher pilot 1📰 85👍 151👎 0❓ - S Housing
 * [HB 1173](hb/1173) - Light pollution 2📰 221👍 7👎 5❓ - C 344 L 23
@@ -688,13 +717,13 @@
 * [HB 1505](hb/1505) - Alternative jet fuel 58👍 144👎 5❓ - H Env & Energy
 * [HB 1307](hb/1307) - Physician bargaining 202👍 4👎 0❓ - H Approps
 * [HB 2156](hb/2156) - Solar consumer protections 202👍 1👎 3❓ - H Exec Action
-* [HB 1717](hb/1717) - Associate development orgs. 1📰 216👍 2👎 0❓ - S Business, Fin S
+* [HB 1717](hb/1717) - Associate development orgs. 1📰 217👍 2👎 0❓ - S Business, Fin S
 * [SB 5727](sb/5727) - Common int. comms./consumers 10👍 192👎 2❓ - S Law & Justice
 * [SB 5777](sb/5777) - Unemp ins/strikes & lockouts 1📰 181👍 21👎 1❓ - S Rules 2
 * [HB 1125](hb/1125) - Transportation budget 9📰 85👍 20👎 94❓ - C 472 L 23
 * [SB 5000](sb/5000) - Americans of Chinese descent 1📰 194👍 1👎 3❓ - C 357 L 23
 * [SB 5477](sb/5477) - Murdered indigenous women 1📰 197👍 0👎 1❓ - S Rules X
-* [SB 5667](sb/5667) - Forestry riparian easements 191👍 7👎 3❓ - S Ways & Means
+* [SB 5667](sb/5667) - Forestry riparian easements 336👍 8👎 3❓ - S Ways & Means
 * [HB 1078](hb/1078) - Urban forest management 3📰 178👍 11👎 6❓ - H Approps
 * [SB 5103](sb/5103) - Medicaid patients/discharge 187👍 3👎 5❓ - C 315 L 23
 * [HB 1956](hb/1956) - Addressing fentanyl and other substance use prevention education. 1📰 190👍 2👎 2❓ - H Education
@@ -702,7 +731,7 @@
 * [SB 5883](sb/5883) - Concerning the burden of proof for special education due process hearings. 190👍 2👎 2❓ - S Rules 2
 * [HB 1405](hb/1405) - Public benefit payments/DCYF 1📰 192👍 1👎 0❓ - H Human Svc, Yout
 * [HB 1900](hb/1900) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system. 1📰 39👍 141👎 13❓ - H Env & Energy
-* [HB 1961](hb/1961) - Animal cruelty/seriousness 191👍 2👎 0❓ - H Exec Action
+* [HB 1961](hb/1961) - Animal cruelty/seriousness 191👍 2👎 0❓ - H CSJRDP
 * [HB 2012](hb/2012) - Concerning eligibility for a property tax exemption for nonprofits providing affordable rental housing built with city and county funds. 172👍 20👎 0❓ - H Finance
 * [HB 1407](hb/1407) - Dev. disability/eligibility 2📰 191👍 0👎 0❓ - C 207 L 23
 * [HB 1062](hb/1062) - Law enf. officers/deception 2📰 106👍 84👎 0❓ - H Community Safe
@@ -713,7 +742,7 @@
 * [HB 1432](hb/1432) - Juvenile justice 179👍 4👎 5❓ - H Human Svc, You
 * [HB 1522](hb/1522) - Sexual misconduct/assocs. 2📰 165👍 18👎 4❓ - C 79 L 23
 * [HB 1615](hb/1615) - Education savings accounts 5📰 172👍 15👎 0❓ - H Education
-* [HB 2115](hb/2115) - Prescription labels/abortion 1📰 155👍 32👎 0❓ - H Exec Action
+* [HB 2115](hb/2115) - Prescription labels/abortion 1📰 155👍 32👎 0❓ - H HCWDPS
 * [SB 5480](sb/5480) - Work-limiting disability 2📰 187👍 0👎 0❓ - S Ways & Means
 * [HB 1504](hb/1504) - Elementary school recess 6📰 181👍 1👎 4❓ - H Rules X
 * [SB 5328](sb/5328) - Pub safety telecommunicators 185👍 0👎 1❓ - S Rules X
@@ -849,7 +878,7 @@
 * [SB 5506](sb/5506) - Behavior support homes 3📰 99👍 2👎 11❓ - S Ways & Means
 * [HB 1511](hb/1511) - Income/child care programs 1📰 111👍 0👎 0❓ - H Approps
 * [SB 5386](sb/5386) - Document recording fees 94👍 14👎 3❓ - C 277 L 23
-* [HB 1228](hb/1228) - Dual & tribal language edu. 6📰 156👍 5👎 0❓ - H Education
+* [HB 1228](hb/1228) - Dual & tribal language edu. 6📰 167👍 5👎 2❓ - H Education
 * [SB 5899](sb/5899) - Adding to the list of provisions prohibited from rental agreements. 63👍 44👎 3❓ - S Housing
 * [SB 5173](sb/5173) - Property exempt from exec. 1📰 75👍 32👎 2❓ - C 393 L 23
 * [SB 5254](sb/5254) - Leasing of state lands 98👍 10👎 1❓ - S Rules X
@@ -894,7 +923,7 @@
 * [SB 5775](sb/5775) - Concerning cost-sharing requirements for prescription epinephrine autoinjectors. 1📰 95👍 0👎 3❓ - S Health & Long
 * [SB 6015](sb/6015) - Residential parking 91👍 5👎 2❓ - S Loc Gov, Land U
 * [HB 2007](hb/2007) - Expanding time limit exemptions applicable to cash assistance programs. 2📰 96👍 0👎 1❓ - H Exec Action
-* [HB 2125](hb/2125) - Concerning the eligibility of state-mandated benefits for contingent faculty at community and technical colleges. 97👍 0👎 0❓ - H Exec Action
+* [HB 2125](hb/2125) - Concerning the eligibility of state-mandated benefits for contingent faculty at community and technical colleges. 97👍 0👎 0❓ - H PEWDP
 * [HB 1488](hb/1488) - Working forest license plate 96👍 0👎 0❓ - H Transportation
 * [HB 1542](hb/1542) - AEDs/high voltage work 1📰 96👍 0👎 0❓ - C 253 L 23
 * [SB 5396](sb/5396) - Breast exam cost sharing 91👍 5👎 0❓ - C 366 L 23
@@ -909,7 +938,7 @@
 * [SB 5440](sb/5440) - Competency evaluations 2📰 25👍 42👎 26❓ - C 453 L 23
 * [SB 6127](sb/6127) - HIV prophylaxis 88👍 0👎 5❓ - S Health & Long
 * [HB 1795](hb/1795) - Estate tax 2📰 31👍 59👎 2❓ - H Finance
-* [SB 5095](sb/5095) - Parks/health & wellness 111👍 0👎 0❓ - S Health & Long T
+* [SB 5095](sb/5095) - Parks/health & wellness 117👍 0👎 0❓ - S Health & Long T
 * [SB 5609](sb/5609) - Housing approval 2📰 71👍 18👎 1❓ - S Ways & Means
 * [HB 1276](hb/1276) - Accessory dwelling units 4📰 28👍 55👎 6❓ - H Housing
 * [HB 1319](hb/1319) - Collisions/driver reexam 1📰 87👍 2👎 0❓ - C 29 L 23
@@ -946,7 +975,7 @@
 * [HB 1543](hb/1543) - Horse program/Coyote Ridge 1📰 81👍 0👎 0❓ - H Rules X
 * [HB 1781](hb/1781) - Boater safety and education 3👍 77👎 1❓ - H Innov, Comm &
 * [SB 5230](sb/5230) - Extended foster care 2📰 72👍 7👎 2❓ - S Ways & Means
-* [SB 5591](sb/5591) - Dependent youth financial ed 66👍 38👎 1❓ - S Ways & Means
+* [SB 5591](sb/5591) - Dependent youth financial ed 79👍 38👎 1❓ - S Ways & Means
 * [HB 1498](hb/1498) - Aviation assurance funding 2📰 74👍 2👎 4❓ - C 457 L 23
 * [HB 1706](hb/1706) - Microenterprise home kitchen 66👍 12👎 2❓ - H Approps
 * [SB 5061](sb/5061) - Personnel records 66👍 8👎 6❓ - S Ways & Means
@@ -1078,7 +1107,7 @@
 * [SB 5445](sb/5445) - Prescription cost-sharing 39👍 13👎 1❓ - S Health & Long
 * [SB 5721](sb/5721) - Advanced aerospace training 52👍 0👎 1❓ - S Ways & Means
 * [SB 5852](sb/5852) - Concerning special education safety net awards. 52👍 1👎 0❓ - S Ways & Means
-* [SB 5873](sb/5873) - Student transportation 1📰 53👍 1👎 4❓ - S Ways & Means
+* [SB 5873](sb/5873) - Student transportation 1📰 59👍 1👎 4❓ - S Ways & Means
 * [HB 1326](hb/1326) - Utility connection charges 4📰 52👍 0👎 0❓ - C 249 L 23
 * [HB 1377](hb/1377) - Continuing education/K-12 50👍 0👎 2❓ - H 3rd Reading
 * [HB 1421](hb/1421) - Voluntary stewardship prog. 50👍 0👎 2❓ - H Rules X
@@ -1134,7 +1163,7 @@
 * [HB 1403](hb/1403) - Water & sewage system access 34👍 10👎 0❓ - H Local Govt
 * [HB 1450](hb/1450) - Biomarker testing coverage 42👍 3👎 0❓ - H HC/Wellness
 * [HB 1626](hb/1626) - Colorectal screening tests 44👍 0👎 0❓ - C 299 L 23
-* [HB 1892](hb/1892) - Workforce housing prg. 2📰 42👍 3👎 0❓ - H Cap Budget
+* [HB 1892](hb/1892) - Workforce housing prg. 2📰 44👍 3👎 0❓ - H Cap Budget
 * [HB 2032](hb/2032) - Reducing the size of yard signs that are exempt from certain political advertising disclosure requirements. 40👍 3👎 1❓ - H Rules R
 * [SB 5439](sb/5439) - Livestock identification 43👍 1👎 0❓ - C 46 L 23
 * [SB 5560](sb/5560) - Older driver safety 1📰 9👍 32👎 3❓ - S Transportation
@@ -1168,7 +1197,7 @@
 * [SB 5923](sb/5923) - Substance use prevention ed. 2📰 40👍 0👎 1❓ - S Ways & Means
 * [SB 6061](sb/6061) - Housing development/SEPA 1👍 34👎 6❓ - S Loc Gov, Land U
 * [HB 1194](hb/1194) - Renewable energy workforce 1📰 25👍 14👎 1❓ - H Postsec Ed & W
-* [HB 1994](hb/1994) - Misdemeanor dismissal 32👍 5👎 3❓ - H Exec Action
+* [HB 1994](hb/1994) - Misdemeanor dismissal 32👍 5👎 3❓ - H CSJRDPS
 * [SB 5074](sb/5074) - Biomarker testing coverage 37👍 3👎 0❓ - S Health & Long
 * [SB 5382](sb/5382) - Fish and wildlife officers 6👍 34👎 0❓ - S Rules X
 * [SB 5606](sb/5606) - Illegal racing 7📰 35👍 5👎 0❓ - C 283 L 23
@@ -1186,7 +1215,7 @@
 * [HB 1295](hb/1295) - DCYF placement agreements 37👍 1👎 1❓ - H Approps
 * [HB 1375](hb/1375) - Delivery of alcohol 26👍 3👎 10❓ - H Approps
 * [HB 1573](hb/1573) - Dairy, etc. tax preferences 2📰 39👍 0👎 0❓ - C 422 L 23
-* [HB 1912](hb/1912) - Requiring state agencies to share information to encourage economic development. 9👍 28👎 2❓ - H Exec Action
+* [HB 1912](hb/1912) - Economic development info. 9👍 28👎 2❓ - H ICEVDPS
 * [SB 5199](sb/5199) - Newspaper publishers/tax 9📰 30👍 6👎 3❓ - C 286 L 23
 * [SB 5534](sb/5534) - Workforce investment board 39👍 0👎 0❓ - C 282 L 23
 * [SB 5666](sb/5666) - CTC student housing pilot 31👍 8👎 0❓ - S Ways & Means
@@ -1240,10 +1269,10 @@
 * [SB 6017](sb/6017) - Border area fuel tax use 35👍 0👎 0❓ - S Transportation
 * [HB 1206](hb/1206) - Newspaper publishers/tax 2📰 32👍 1👎 1❓ - H Finance
 * [HB 1939](hb/1939) - Social work compact 1📰 32👍 0👎 2❓ - H Rules R
-* [HB 1946](hb/1946) - Creating the Washington health corps behavioral health scholarship program. 75👍 1👎 0❓ - H Approps
+* [HB 1946](hb/1946) - Creating the Washington health corps behavioral health scholarship program. 95👍 1👎 0❓ - H Approps
 * [HB 1997](hb/1997) - Parks and recreation comm. 3👍 31👎 0❓ - H Innov, Comm & E
 * [HB 2044](hb/2044) - Standardizing limitations on voter-approved property tax levies. 15👍 18👎 1❓ - H Finance
-* [HB 2147](hb/2147) - Concerning agriculture pest and disease response. 32👍 2👎 0❓ - H Exec Action
+* [HB 2147](hb/2147) - Concerning agriculture pest and disease response. 32👍 2👎 0❓ - H AGNRDP
 * [SB 5358](sb/5358) - Veterans' services 2📰 32👍 1👎 1❓ - C 224 L 23
 * [SB 5542](sb/5542) - EV supply equipment 34👍 0👎 0❓ - C 125 L 23
 * [SB 6040](sb/6040) - Public works payments 23👍 4👎 7❓ - S State Govt & El
@@ -1261,7 +1290,7 @@
 * [HB 1104](hb/1104) - Deferred prosecutions 21👍 4👎 7❓ - H Rules 3C
 * [HB 1412](hb/1412) - Ag. land/foreign ownership 25👍 5👎 2❓ - H Civil R & Judi
 * [HB 1701](hb/1701) - Institutional ed. programs 3📰 25👍 1👎 6❓ - C 303 L 23
-* [HB 1969](hb/1969) - Individual providers/family 1📰 31👍 2👎 0❓ - H Approps
+* [HB 1969](hb/1969) - Individual providers/family 1📰 33👍 3👎 0❓ - H Approps
 * [HB 1987](hb/1987) - Concerning the use of moneys from the rural public facilities sales and use tax for affordable workforce housing infrastructure and facilities. 27👍 4👎 1❓ - H Exec Action
 * [HB 1990](hb/1990) - Aerial imagery program 27👍 3👎 2❓ - H Exec Action
 * [HB 2022](hb/2022) - Concerning construction crane safety. 27👍 1👎 4❓ - H Exec Action
@@ -1380,7 +1409,7 @@
 * [HB 1713](hb/1713) - Health care/rural areas 24👍 0👎 0❓ - H HC/Wellness
 * [HB 1757](hb/1757) - Farmers/sales tax remittance 23👍 1👎 0❓ - S Ways & Means
 * [HB 1774](hb/1774) - Public empl. salary surveys 24👍 0👎 0❓ - H State Govt & T
-* [HB 1914](hb/1914) - Improving the education of students with varying abilities by enhancing special education services. 1📰 15👍 2👎 7❓ - H Exec Action
+* [HB 1914](hb/1914) - Special education services 1📰 15👍 2👎 7❓ - H Exec Action
 * [HB 1948](hb/1948) - Ensuring that methods for calculating the electric load of utilities under the energy independence act do not have the effect of discouraging voluntary investments in renewable power. 22👍 0👎 2❓ - H Rules R
 * [HB 2334](hb/2334) - Cannabis/dept of agriculture 19👍 3👎 2❓ - H Reg Subst & Ga
 * [SB 5121](sb/5121) - Health care oversight cmte. 22👍 2👎 0❓ - C 10 L 23
@@ -1458,7 +1487,7 @@
 * [HB 1873](hb/1873) - Concerning office of public defense social service workers for parents in child welfare cases. 17👍 1👎 2❓ - H Human Svc, Yout
 * [HB 1919](hb/1919) - Modifying the process by which a private moorage facility may sell an abandoned vessel for failure to pay moorage fees. 19👍 1👎 0❓ - H Ag&Nr
 * [HB 2048](hb/2048) - Domestic violence/sentencing 17👍 2👎 1❓ - H CSJRDPS
-* [HB 2098](hb/2098) - Women's commission/gifts 19👍 1👎 0❓ - H Exec Action
+* [HB 2098](hb/2098) - Women's commission/gifts 19👍 1👎 0❓ - H SGOVDPS
 * [HB 2210](hb/2210) - DOC wild horse program 18👍 2👎 0❓ - H CSJRDP
 * [SB 5089](sb/5089) - Factory assembled structures 17👍 3👎 0❓ - C 36 L 23
 * [SB 5264](sb/5264) - Paraeducator requirements 1📰 20👍 0👎 0❓ - S EL/K-12
@@ -1528,8 +1557,8 @@
 * [HB 1309](hb/1309) - Contractor registration 17👍 0👎 0❓ - H Rules X
 * [HB 1395](hb/1395) - Aircraft fuel tax distrib. 12👍 5👎 0❓ - H Transportation
 * [HB 1636](hb/1636) - Foreclosure/common interest 1📰 17👍 0👎 0❓ - C 214 L 23
-* [HB 1862](hb/1862) - Providing tax exemptions for the assistance of disabled veterans and members of the armed forces of the United States of America. 17👍 0👎 0❓ - H Exec Action
-* [HB 2172](hb/2172) - Vacant state agency property 12👍 4👎 1❓ - H Exec Action
+* [HB 1862](hb/1862) - Disabled veteran assist./tax 17👍 0👎 0❓ - H FINDPS
+* [HB 2172](hb/2172) - Vacant state agency property 12👍 4👎 1❓ - H HOUSDPS
 * [HB 2277](hb/2277) - Data brokering 8👍 7👎 2❓ - H ConsPro&Bus
 * [SB 5031](sb/5031) - Special ed safety net awards 6📰 16👍 0👎 1❓ - S Ways & Means
 * [SB 5081](sb/5081) - Victim notification 15👍 2👎 0❓ - C 391 L 23
@@ -1557,9 +1586,9 @@
 * [HB 1681](hb/1681) - Problem gambling 1📰 13👍 0👎 3❓ - H Rules X
 * [HB 1696](hb/1696) - Stalking-related offenses 3📰 14👍 2👎 0❓ - C 461 L 23
 * [HB 1921](hb/1921) - Prohibiting the use of certain substances in food. 1📰 8👍 5👎 3❓ - H Ag&Nr
-* [HB 1926](hb/1926) - Concerning supervision compliance credit. 1📰 12👍 4👎 0❓ - H Exec Action
+* [HB 1926](hb/1926) - Supervision compliance 1📰 12👍 4👎 0❓ - H CSJRDPS
 * [HB 1942](hb/1942) - Clarifying employment standards for long-term care individual providers. 15👍 1👎 0❓ - H Exec Action
-* [HB 1943](hb/1943) - National guard ed. grants 1📰 18👍 0👎 0❓ - H Approps
+* [HB 1943](hb/1943) - National guard ed. grants 1📰 22👍 0👎 1❓ - H Approps
 * [HB 2025](hb/2025) - Modifying placement and salary matching requirements for the state work-study program. 16👍 0👎 0❓ - H Exec Action
 * [HB 2134](hb/2134) - Transportation budget, supp. 11👍 0👎 5❓ - H Transportation
 * [HB 2207](hb/2207) - Solid waste dumping 11👍 0👎 5❓ - H Env & Energy
@@ -1589,12 +1618,12 @@
 * [HB 1764](hb/1764) - Asphalt & agg. valuation 13👍 0👎 2❓ - C 307 L 23
 * [HB 1815](hb/1815) - Payment card processing/tax 13👍 0👎 2❓ - H Finance
 * [HB 2004](hb/2004) - Military student early reg. 15👍 0👎 0❓ - H Rules R
-* [HB 2006](hb/2006) - Concerning court interpreters. 1📰 15👍 0👎 0❓ - H Approps
+* [HB 2006](hb/2006) - Concerning court interpreters. 1📰 15👍 1👎 0❓ - H Approps
 * [HB 2026](hb/2026) - Concerning rental income received by people eligible for certain property tax exemption programs. 11👍 4👎 0❓ - H Finance
 * [HB 2045](hb/2045) - Creating an adopt a fish barrier program. 12👍 1👎 2❓ - H Ag&Nr
 * [HB 2138](hb/2138) - Outdoor learning/state parks 14👍 0👎 1❓ - H Innov, Comm & E
 * [HB 2197](hb/2197) - Medical assist./prevention 14👍 0👎 1❓ - H HC/Wellness
-* [HB 2255](hb/2255) - Cannabis inversion/diversion 14👍 4👎 0❓ - H Reg Subst & Ga
+* [HB 2255](hb/2255) - Cannabis inversion/diversion 15👍 4👎 0❓ - H Reg Subst & Ga
 * [HB 2317](hb/2317) - Unlicensed bingo, etc. 15👍 0👎 0❓ - H Reg Subst & Ga
 * [SB 5177](sb/5177) - Organ transport vehicles 15👍 0👎 0❓ - S Ways & Means
 * [SB 5548](sb/5548) - Vehicle service fees 11👍 2👎 2❓ - S Transportation
@@ -1641,7 +1670,7 @@
 * [HB 1821](hb/1821) - Postsecondary credentials 10👍 0👎 3❓ - H Approps
 * [HB 1853](hb/1853) - Transportation resources 7👍 6👎 0❓ - C 431 L 23
 * [HB 1970](hb/1970) - DCYF-caregiver communication 5👍 8👎 0❓ - H Human Svc, Yout
-* [HB 1972](hb/1972) - Physicians health prg. fees 1📰 15👍 2👎 0❓ - H Approps
+* [HB 1972](hb/1972) - Physicians health prg. fees 1📰 16👍 3👎 0❓ - H Approps
 * [HB 1983](hb/1983) - Criminal justice trtmnt acct 13👍 0👎 0❓ - H Approps
 * [HB 2003](hb/2003) - Housing/public lands leases 13👍 0👎 0❓ - H Finance
 * [HB 2072](hb/2072) - Antitrust penalties 6👍 6👎 1❓ - H Exec Action
@@ -1676,7 +1705,7 @@
 * [SB 5279](sb/5279) - Housing equity property 1📰 8👍 4👎 0❓ - S Ways & Means
 * [SB 5342](sb/5342) - Transit interlocal agree. 12👍 0👎 0❓ - C 43 L 23
 * [SB 5516](sb/5516) - Clay targets/sales tax 9👍 3👎 0❓ - S Ways & Means
-* [SB 5660](sb/5660) - Mental health adv directives 1📰 13👍 0👎 1❓ - S Ways & Means
+* [SB 5660](sb/5660) - Mental health adv directives 1📰 14👍 0👎 1❓ - S Ways & Means
 * [SB 5684](sb/5684) - Small works rosters 6👍 3👎 3❓ - S Rules 2
 * [SB 5825](sb/5825) - Guardianship 11👍 0👎 1❓ - S RecComm
 * [SB 5847](sb/5847) - Enhancing prorate and fuel tax collections by improving taxpayer compliance, providing additional enforcement mechanisms, and protecting confidential taxpayer information. 4👍 7👎 1❓ - S Transportation
@@ -1694,12 +1723,12 @@
 * [HB 1588](hb/1588) - Ambulance personnel 10👍 1👎 0❓ - H HC/Wellness
 * [HB 1661](hb/1661) - Mobile crisis intervention 8👍 1👎 2❓ - H Approps
 * [HB 1714](hb/1714) - Financial literacy grants 11👍 0👎 0❓ - H Rules 3C
-* [HB 1716](hb/1716) - Child care B&O credit 1📰 7👍 3👎 1❓ - H Finance
+* [HB 1716](hb/1716) - Child care B&O credit 1📰 8👍 3👎 1❓ - H Finance
 * [SB 5052](sb/5052) - Leasehold tax/arenas, etc. 8👍 2👎 1❓ - S Ways & Means
 * [SB 5285](sb/5285) - Caseload forecast/tax credit 11👍 0👎 0❓ - S Rules X
 * [SB 5370](sb/5370) - Adult protective services 10👍 0👎 1❓ - C 44 L 23
 * [SB 5405](sb/5405) - LCB subpoena authority 1📰 4👍 7👎 0❓ - S Rules 3
-* [SB 5827](sb/5827) - Superior court/Whatcom 15👍 1👎 0❓ - S Ways & Means
+* [SB 5827](sb/5827) - Superior court/Whatcom 20👍 1👎 0❓ - S Ways & Means
 * [SB 6027](sb/6027) - Insurance holding companies 11👍 0👎 0❓ - S Rules 2
 * [HB 1014](hb/1014) - Fire protection projects 1📰 10👍 0👎 0❓ - H Cap Budget
 * [HB 1221](hb/1221) - Lottery players/PRA 1📰 10👍 0👎 0❓ - C 346 L 23
@@ -1718,7 +1747,7 @@
 * [HB 1986](hb/1986) - Adding purposes for the use of existing firefighter safety funding. 10👍 0👎 0❓ - H Labor & Workpla
 * [HB 2086](hb/2086) - Office of indep. invest. 9👍 0👎 1❓ - H CSJRDPS
 * [HB 2127](hb/2127) - Incentives to return to work 10👍 0👎 0❓ - H Labor & Workpla
-* [HB 2155](hb/2155) - Credential registry 6👍 2👎 2❓ - H Exec Action
+* [HB 2155](hb/2155) - Credential registry 6👍 2👎 2❓ - H PEWDP
 * [HB 2267](hb/2267) - Commencement/cultural exp. 10👍 0👎 0❓ - H Education
 * [SB 5003](sb/5003) - Snohomish county judges 10👍 0👎 0❓ - C 5 L 23
 * [SB 5330](sb/5330) - Pesticide application 10👍 0👎 0❓ - C 186 L 23
@@ -1774,7 +1803,7 @@
 * [HB 1700](hb/1700) - Eastern Washington landscape 2📰 6👍 0👎 2❓ - C 302 L 23
 * [HB 1808](hb/1808) - Parentage/sexual assault 6👍 1👎 1❓ - H Civil R & Judi
 * [HB 1898](hb/1898) - Concerning unemployment insurance benefit charging. 8👍 0👎 0❓ - H Rules R
-* [HB 1947](hb/1947) - Technology governance 2👍 4👎 2❓ - H Exec Action
+* [HB 1947](hb/1947) - Technology governance 2👍 4👎 2❓ - H SGOVDPS
 * [HB 1949](hb/1949) - Including in the public safety employees' retirement system specified competency restoration workers at department of social and health services institutional and residential sites that serve civilly committed residents or serve patients under not guilty by reason of insanity findings. 8👍 0👎 0❓ - H Exec Action
 * [HB 1996](hb/1996) - RV manufacturers and dealers 7👍 0👎 1❓ - H ConsPro&Bus
 * [HB 2014](hb/2014) - Concerning the definition of veteran and restoring honor to veterans. 4👍 2👎 2❓ - H Exec Action
@@ -1834,7 +1863,7 @@
 * [HB 1673](hb/1673) - Child welfare workers 6👍 0👎 0❓ - H Human Svc, You
 * [HB 1731](hb/1731) - Short-term rentals/liquor 9📰 3👍 2👎 1❓ - C 257 L 23
 * [HB 1833](hb/1833) - Ferry fuel surcharges 2👍 2👎 2❓ - H Transportation
-* [HB 1894](hb/1894) - Modifying provisions of the business licensing service program. 6👍 0👎 0❓ - H Exec Action
+* [HB 1894](hb/1894) - Modifying provisions of the business licensing service program. 6👍 0👎 0❓ - H FINDP
 * [HB 1978](hb/1978) - Adding special purpose and junior taxing districts to the intrastate mutual aid system. 6👍 0👎 0❓ - H Rules R
 * [HB 1988](hb/1988) - Customer voice council 6👍 0👎 0❓ - H Human Svc, Yout
 * [HB 2106](hb/2106) - Library district annexation 2👍 0👎 4❓ - H Local Govt
@@ -1849,7 +1878,7 @@
 * [SB 5565](sb/5565) - Tax and revenue laws 6👍 0👎 0❓ - C 374 L 23
 * [SB 5714](sb/5714) - Property tax payments 1📰 5👍 0👎 1❓ - C 376 L 23
 * [SB 5732](sb/5732) - Property tax exemptions 6👍 0👎 0❓ - S Rules X
-* [SB 5836](sb/5836) - Adding an additional superior court judge in Clark county. 9👍 0👎 0❓ - S Ways & Means
+* [SB 5836](sb/5836) - Adding an additional superior court judge in Clark county. 10👍 0👎 0❓ - S Ways & Means
 * [SB 5897](sb/5897) - Modifying provisions of the business licensing service program. 6👍 0👎 0❓ - S Ways & Means
 * [SB 5919](sb/5919) - Concerning the sale of biogenic carbon dioxide and other coproducts of biogas processing. 4👍 2👎 0❓ - S Environment, En
 * [HB 1061](hb/1061) - Insurance producer education 4👍 1👎 0❓ - C 21 L 23
@@ -1901,8 +1930,8 @@
 * [HB 1656](hb/1656) - Unemployment ins. appeals 1📰 4👍 0👎 0❓ - C 85 L 23
 * [HB 1782](hb/1782) - Wahkiakum county ferry 1📰 4👍 0👎 0❓ - C 428 L 23
 * [HB 1822](hb/1822) - Cannabis/short-term rentals 3👍 0👎 1❓ - H Rules R
-* [HB 1867](hb/1867) - Eliminating the estate tax filing requirement for certain estates involving a qualifying familial residence. 3👍 1👎 0❓ - H Exec Action
-* [HB 1886](hb/1886) - Concerning prearrangement funeral services. 3👍 0👎 1❓ - H Exec Action
+* [HB 1867](hb/1867) - Eliminating the estate tax filing requirement for certain estates involving a qualifying familial residence. 3👍 1👎 0❓ - H FINDP
+* [HB 1886](hb/1886) - Concerning prearrangement funeral services. 3👍 0👎 1❓ - H CPBDP
 * [HB 2060](hb/2060) - Creating an establishment private club license. 2👍 2👎 0❓ - H Reg Subst & Gam
 * [HB 2163](hb/2163) - Liquor licensee advertising 4👍 0👎 0❓ - H Reg Subst & Gam
 * [HB 2204](hb/2204) - Emergency liquor permits 3👍 1👎 0❓ - H Reg Subst & Gam
@@ -1962,7 +1991,7 @@
 * [SB 5902](sb/5902) - Reinvesting account revenue for the purpose of supporting the state park system. 3👍 0👎 0❓ - S Ways & Means
 * [SB 5970](sb/5970) - Local boards of health 3👍 0👎 0❓ - S Loc Gov, Land U
 * [SB 6084](sb/6084) - Collector vehicles/trailers 3👍 0👎 0❓ - S Transportation
-* [SB 6186](sb/6186) - Missing persons/pub. assist. 4👍 0👎 0❓ - S Human Services
+* [SB 6186](sb/6186) - Missing persons/pub. assist. 6👍 0👎 0❓ - S Human Services
 * [HB 1364](hb/1364) - Nautical NW license plate 2👍 0👎 0❓ - H Transportation
 * [HB 1441](hb/1441) - Automatic renewal/contracts 2👍 0👎 0❓ - H ConsPro&Bus
 * [HB 1486](hb/1486) - Military surplus vehicles 1👍 0👎 1❓ - H Transportation
@@ -2097,7 +2126,6 @@
 * [HB 2327](hb/2327) - Digital equity/revenue - H Finance
 * [HB 2324](hb/2324) - Narcotics enforcement - H Community Safe
 * [SB 6214](sb/6214) - Animal cruelty/seriousness - S Law & Justice
-* [SB 6190](sb/6190) - Fund-raising activities - S Business, Fin
 * [SB 6188](sb/6188) - Aerial firefighting/permits 1📰 - S Environment, En
 * [SB 6185](sb/6185) - PTBA governing body members - S Transportation
 * [SB 6184](sb/6184) - Deepfake AI material/minors - S Law & Justice

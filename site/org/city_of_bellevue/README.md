@@ -65,6 +65,8 @@
 
 ## [HB 1706](/bill/2023-24/hb/1706/) - Microenterprise home kitchen   ❓1
 
+## [HB 1980](/bill/2023-24/hb/1980/) - Concerning ground emergency medical transportation services. 👍1  
+
 ## [HB 2044](/bill/2023-24/hb/2044/) - Standardizing limitations on voter-approved property tax levies. 👍1  
 
 ## [HB 2045](/bill/2023-24/hb/2045/) - Creating an adopt a fish barrier program. 👍1  

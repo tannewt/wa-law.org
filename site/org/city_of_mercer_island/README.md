@@ -44,3 +44,5 @@
 ## [SB 5509](/bill/2023-24/sb/5509/) - Public infrastructure bank 👍1  
 
 ## [SB 6134](/bill/2023-24/sb/6134/) - Opioid use 👍1  
+
+## [SB 6242](/bill/2023-24/sb/6242/) - Law enforcement training 👍1  

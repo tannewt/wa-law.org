@@ -21,6 +21,6 @@ Sign up to testify:
 Testifying:
 * Eric Sobotta - Reardan-Edwall School District
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

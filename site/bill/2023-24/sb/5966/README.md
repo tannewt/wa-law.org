@@ -14,25 +14,34 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31765&aId=157301&caId=23319&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31765&aId=157301&caId=23319&tId=4)
 
-#### 27 👍 - Pro
+#### 46 👍 - Pro
 Testifying:
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 * Khalid Sirad - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
 * Peter Musante - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
 * ivanova Smith
+* Katie McGrew
+* Amy Jones
 
-#### 181 👎 - Con
+#### 328 👎 - Con
 Testifying:
 * Eric Holzapfel - [League of Education Voters](/org/league_of_education_voters/)
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * 💵Roxana Gomez - ACLU of Washington
 * 💵Karen Pillar - TeamChild
 * 💵Andrea Kadlec - [Disability Rights Washington](/org/disability_rights_washington/)
+* Marshelle Jordan - [Treehouse](/org/treehouse/)
+* Heidi Barden - [Treehouse](/org/treehouse/)
 * Marian Chacon
 * Marian Chacon
+* Sarah Butcher - Roots of Inclusion
 * Jeannette Mcchesney
+* ARZU FOROUGH - Washington Autism Alliance
 
-#### 20 ❓ - Other
+#### 30 ❓ - Other
 Testifying:
 * Shannon Hitch - Lake Washington School District
 * Tawni Barlow - Medical Lake School District
+* Erin Smelser - paraeducator at LaCenter School District
+* Cheryl Pirozok - Cheryl Pirozok
+* Rick Chisa - Public School Employees of WA/SEIU 1948

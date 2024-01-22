@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2001/</link>
 		<description>Updates about HB 2001</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 20 Jan 2024 10:14:29 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 20 Jan 2024 11:03:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -93,12 +93,44 @@
 			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202001</guid>
 		</item>
 		<item>
-			<title>👍Maureen McKee - Director, Washington State Office of Public Defense</title>
+			<title>👍Emily Gause - Director, Washington State Office of Public Defense</title>
+			<description>Emily Gause signed up to testify Pro.</description>
+			<pubDate>Sat, 20 Jan 2024 04:13:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Emily/Gause/2024-01-20 04:13:05</guid>
+		</item>
+		<item>
+			<title>👍J Wesley Saint Clair - Sentencing Guidelines Commission</title>
+			<description>J Wesley Saint Clair signed up to testify Pro. They are signed up to represent Sentencing Guidelines Commission.</description>
+			<pubDate>Sat, 20 Jan 2024 06:23:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/J Wesley/Saint Clair/2024-01-20 06:23:21</guid>
+		</item>
+		<item>
+			<title>👍Maureen McKee - Sentencing Guidelines Commission</title>
 			<description>Maureen McKee signed up to testify Pro.</description>
 			<pubDate>Sat, 20 Jan 2024 10:14:29 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Maureen/McKee/2024-01-20 10:14:29</guid>
+		</item>
+		<item>
+			<title>👍Cindy Elsberry - WDA</title>
+			<description>Cindy Elsberry signed up to testify Pro. They are signed up to represent WDA.</description>
+			<pubDate>Sat, 20 Jan 2024 10:21:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Cindy/Elsberry/2024-01-20 10:21:38</guid>
+		</item>
+		<item>
+			<title>👍Vidal Vincent - Freedom Project</title>
+			<description>Vidal Vincent signed up to testify Pro. They are signed up to represent Freedom Project.</description>
+			<pubDate>Sat, 20 Jan 2024 11:03:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Vidal/Vincent/2024-01-20 11:03:47</guid>
 		</item>
 	</channel>
 </rss>

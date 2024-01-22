@@ -17,13 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31716&aId=157551&caId=23576&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31716&aId=157551&caId=23576&tId=4)
 
-#### 2 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * JAMES Derouin
+* Charles Wharton - Veterans Legislative Coalition
+* Breck Lebegue
+* Breck Lebegue
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Bret Daugherty - Washington Military Department
 
 ### Wed 01/10 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1943 National guard ed. grants
 #### 16 👍 - Pro

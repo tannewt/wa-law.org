@@ -17,20 +17,27 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157548&caId=23564&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157548&caId=23564&tId=4)
 
-#### 44 👍 - Pro
+#### 71 👍 - Pro
 Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* Anfal Jneidi
+* Elsa Sjunneson Jones - Seattle Council PTSA, President
 
-#### 10 👎 - Con
+#### 15 👎 - Con
 Testifying:
 * Naveed Siddiqui
 * Ala Hassan
 * Leslie Maxwell
 * Oliver Miska - Washington Ethnic Studies Now
 * Zahid Chaudhry
+* Osama Emara
+* Khaled Mohamed
+* Khaled Mohamed
+* Zahid Chaudhry
 
-#### 3 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Luay Joudeh
 * Luay Joudeh
 * Rae Levine
+* Anfal Jneidi

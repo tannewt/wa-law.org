@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31751&aId=157211&caId=23391&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31751&aId=157211&caId=23391&tId=4)
 
-#### 64 👍 - Pro
+#### 75 👍 - Pro
 Testifying:
 * KEVIN JOHNSON - CAR PROS KIA RENTON
 

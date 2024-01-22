@@ -14,12 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31780&aId=157423&caId=23500&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31780&aId=157423&caId=23500&tId=4)
 
-#### 15 👍 - Pro
+#### 43 👍 - Pro
 Testifying:
 * Jay Blazey - [Cedar Grove](/org/cedar_grove/)
 * Andrea Collins - NRDC (Natural Resources Defense Council)
 
-#### 5 👎 - Con
+#### 13 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

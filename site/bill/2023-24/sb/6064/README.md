@@ -16,9 +16,11 @@ Sign up to testify:
 
 #### 41 👍 - Pro
 
-#### 115 👎 - Con
+#### 148 👎 - Con
 Testifying:
 * Constance Nelson
 * Barbara Korducki
+* Siddhant Bahadur
+* Donna Walters
 
 #### 0 ❓ - Other

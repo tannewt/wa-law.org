@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2357/</link>
 		<description>Updates about HB 2357</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 19 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 21 Jan 2024 01:52:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -29,6 +29,14 @@
 			<pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/01/19/fey-bill-aims-to-retain-experienced-washington-state-patrol-troopers/#:~:text=House%20Bill%202357</guid>
+		</item>
+		<item>
+			<title>👍Jason Linn - Washington State Patrol Troopers Association</title>
+			<description>Jason Linn signed up to testify Pro.</description>
+			<pubDate>Sun, 21 Jan 2024 01:52:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jason/Linn/2024-01-21 01:52:17</guid>
 		</item>
 	</channel>
 </rss>

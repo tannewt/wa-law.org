@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31765&aId=157299&caId=23317&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31765&aId=157299&caId=23317&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Anna Corinne Huffman - [Professional Educator Standards Board](/org/professional_educator_standards_board/)
 
 #### 0 👎 - Con
 

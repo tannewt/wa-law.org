@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31697&aId=157113&caId=23296&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31697&aId=157113&caId=23296&tId=4)
 
-#### 33 👍 - Pro
+#### 54 👍 - Pro
 Testifying:
 * Hailey Ockinga - Beyond These Walls
 * Heather McKimmie - [Disability Rights Washington](/org/disability_rights_washington/)
@@ -24,9 +24,11 @@ Testifying:
 * 💵Anthony Blankenship - [Civil Survival Project](/org/civil_survival_project/)
 * Laurel Jones - [Columbia Legal Services](/org/columbia_legal_services/)
 * Jordan Landry
+* Chanel Rhymes - Northwest Community Bail Fund
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Penelope Sapp - Kitsap County Sheriff's Office
+* Jose Briones - Island County Sheriff’s Office
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

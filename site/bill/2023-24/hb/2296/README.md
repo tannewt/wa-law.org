@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31773&aId=157350&caId=23473&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31773&aId=157350&caId=23473&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Rebecca Kennedy - [City of Vancouver](/org/city_of_vancouver/)
+* Ashley Arai - [Thurston County](/org/thurston_county/)
 
 #### 0 👎 - Con
 

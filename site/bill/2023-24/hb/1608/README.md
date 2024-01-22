@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/19/2024 [House Democrats](/org/house_democrats/) - [Bronoske bill to expand access to anaphylaxis meds in schools passed out of committee – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/19/bronoske-bill-to-expand-access-to-anaphylaxis-meds-in-schools-passed-out-of-committee/#:~:text=House%20Bill%201608)

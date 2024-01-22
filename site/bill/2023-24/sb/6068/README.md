@@ -27,9 +27,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31697&aId=157608&caId=23589&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31697&aId=157608&caId=23589&tId=4)
 
-#### 2 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Tara Urs - King County Department of Public Defense
+* Kelly Warner-King - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Jim Chambers
+* Laurie Lippold - Partners for Our Children
+* 💵Daniel Lugo - [Treehouse](/org/treehouse/)
 
 #### 1 👎 - Con
 

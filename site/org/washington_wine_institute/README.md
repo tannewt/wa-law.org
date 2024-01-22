@@ -31,7 +31,7 @@
 
 ## [HB 2094](/bill/2023-24/hb/2094/) - Gift certificates  👎1 
 
-## [HB 2144](/bill/2023-24/hb/2144/) - Providing for a deposit return program for qualifying beverage containers to be implemented by a distributor responsibility organization. 👍1  
+## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg. 👍1  
 * 👍 Josh McDonald
 
 ## [HB 2163](/bill/2023-24/hb/2163/) - Liquor licensee advertising 👍1  
@@ -41,6 +41,9 @@
 * 👍 Josh McDonald
 
 ## [HB 2260](/bill/2023-24/hb/2260/) - Alcohol sale to minors/civil 👍1  
+
+## [HB 2363](/bill/2023-24/hb/2363/) - Alcohol/pop-up retail sales 👍1  
+* 👍 Josh McDonald
 
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI  👎2 
 * 👎 Josh McDonald
@@ -74,3 +77,5 @@
 ## [SB 5476](/bill/2023-24/sb/5476/) - Agricultural overtime 👍1  
 
 ## [SB 5733](/bill/2023-24/sb/5733/) - Payment card processing/tax 👍1  
+
+## [SB 6219](/bill/2023-24/sb/6219/) - Agritourism 👍1  
