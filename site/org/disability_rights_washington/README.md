@@ -54,6 +54,8 @@
 
 ## [HB 1798](/bill/2023-24/hb/1798/) - Earned release time 👍1  
 
+## [HB 1859](/bill/2023-24/hb/1859/) - Concerning the rights of residents in long-term care facilities. 👍1  
+
 ## [HB 1926](/bill/2023-24/hb/1926/) - Supervision compliance  👎2 
 * 👎💵 Rachael Seevers
 
@@ -112,6 +114,8 @@
 
 ## [SB 5559](/bill/2023-24/sb/5559/) - Student restraint, isolation 👍1  
 * 👍💵 Andrea Kadlec
+
+## [SB 5660](/bill/2023-24/sb/5660/) - Mental health adv directives 👍1  
 
 ## [SB 5825](/bill/2023-24/sb/5825/) - Guardianship   ❓1
 * ❓💵 Chloe Merino

@@ -205,6 +205,9 @@
 
 ## [HB 2319](/bill/2023-24/hb/2319/) - Substance use treatment 👍1  
 
+## [HB 2390](/bill/2023-24/hb/2390/) - Eluding & resisting arrest 👍1  
+* 👍💵 Crystal Leatherman
+
 ## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment 👍1  
 
 ## [SB 5035](/bill/2023-24/sb/5035/) - Controlled sub. possession 👍1  
@@ -340,7 +343,7 @@
 ## [SB 5835](/bill/2023-24/sb/5835/) - Rule making websites 👍2  
 * 👍💵 Mark Johnson
 
-## [SB 5838](/bill/2023-24/sb/5838/) - Establishing an artificial intelligence task force.   ❓1
+## [SB 5838](/bill/2023-24/sb/5838/) - AI task force   ❓1
 * ❓ CRYSTAL LEATHERMAN
 
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  

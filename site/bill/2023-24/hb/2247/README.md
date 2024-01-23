@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31704&aId=157053&caId=23476&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31704&aId=157053&caId=23476&tId=4)
 
-#### 64 👍 - Pro
+#### 93 👍 - Pro
 Testifying:
 * Laurie Lippold - Partners for Our Children
+* 💵Melanie Smith - WA State Psychological Association
+* Jake Eakin - [Yakima Neighborhood Health Services](/org/yakima_neighborhood_health_services/)
+* Kate White Tudor - WA Association for Community Health
 
 #### 0 👎 - Con
 

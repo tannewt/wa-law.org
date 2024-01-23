@@ -211,7 +211,7 @@
 
 ## [SB 5835](/bill/2023-24/sb/5835/) - Rule making websites 👍1  
 
-## [SB 5838](/bill/2023-24/sb/5838/) - Establishing an artificial intelligence task force.   ❓1
+## [SB 5838](/bill/2023-24/sb/5838/) - AI task force   ❓1
 
 ## [SB 5924](/bill/2023-24/sb/5924/) - Concerning access to personnel records  👎1 
 * 👎💵 Julia Gorton

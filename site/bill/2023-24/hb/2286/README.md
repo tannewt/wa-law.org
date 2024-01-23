@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31719&aId=157086&caId=23460&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31719&aId=157086&caId=23460&tId=4)
 
-#### 70 👍 - Pro
+#### 75 👍 - Pro
 Testifying:
 * James  T Wilcox  JR - Wilcox Family Farms
 
-#### 298 👎 - Con
+#### 330 👎 - Con
 Testifying:
 * John Worthington
 * Jeannette Mcchesney

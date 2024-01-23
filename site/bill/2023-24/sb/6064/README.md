@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/22/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 3: Criminal justice reform, education, tax cuts for housing - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/21/this-week-in-the-senate-week-3-criminal-justice-reform-education-tax-cuts-for-housing/#:~:text=Senate%20Bill%206064)
+
 ## Meetings
 ### Wed 01/24 10:30 AM - Housing (HSG): SB 6064 Pet fees, deposits
 Sign up to testify:
@@ -14,17 +17,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31722&aId=157096&caId=23381&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31722&aId=157096&caId=23381&tId=4)
 
-#### 44 👍 - Pro
+#### 48 👍 - Pro
 Testifying:
+* Whitney Bowerman
 * Julie McCabe - Seattle Humane Socity
 * 💵Susan Riggs - ASPCA
+* Kim Schulze
 
-#### 178 👎 - Con
+#### 192 👎 - Con
 Testifying:
 * Constance Nelson
 * Barbara Korducki
 * Siddhant Bahadur
 * Donna Walters
 * Marlene Scheffer
+* William Shadbolt - [Washington Business Properties Association](/org/washington_business_properties_association/)
 
 #### 0 ❓ - Other

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/17/2024 [Gorge News Center](/org/gorge_news_center/) - [Bipartisan legislation from Rep. Kevin Waters to help remove fish barriers receives a hearing](https://gorgenewscenter.com/2024/01/17/bipartisan-legislation-from-rep-kevin-waters-to-help-remove-fish-barriers-receives-a-hearing/#:~:text=House%20Bill%202045)
+
 ## Meetings
 ### Wed 01/17 08:00 AM - Agriculture and Natural Resources (AGNR): HB 2045 Adopt a fish barrier program
 #### 12 👍 - Pro

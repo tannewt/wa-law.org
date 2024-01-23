@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 01/11/2024 [Gorge News Center](/org/gorge_news_center/) - [Harris bill to reevaluate teacher reprimands unanimously passes off the House floor, for the second time](https://gorgenewscenter.com/2024/01/11/harris-bill-to-reevaluate-teacher-reprimands-unanimously-passes-off-the-house-floor-for-the-second-time/#:~:text=House%20Bill%201113)
 * 01/18/2023 [Gorge News Center](/org/gorge_news_center/) - [Harris bill that would give educators with reprimands another chance receives a hearing](https://gorgenewscenter.com/2023/01/18/harris-bill-that-would-give-educators-with-reprimands-another-chance-receives-a-hearing/#:~:text=House%20Bill%201113)
 * [Gorge Radio](/org/gorge_radio/) - [Harris Bill For Educator Reprimand Removal Passes House – Gorge Radio](https://gorgeradio.com/harris-bill-for-educator-reprimand-removal-passes-house/#:~:text=House%20Bill%201113)
 * [Gorge Radio](/org/gorge_radio/) - [Harris Bill Would Give Reprimanded Educators Second Chance – Gorge Radio](https://gorgeradio.com/harris-bill-would-give-reprimanded-educators-second-chance/#:~:text=House%20Bill%201113)

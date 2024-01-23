@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1054/</link>
 		<description>Updates about HB 1054</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 16 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -134,6 +134,13 @@
 			<pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-16/Rules Committee relieved of further consideration.  Placed on third reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 68; nays, 29; absent, 0; excused, 1.</title>
+			<description>Third reading, passed; yeas, 68; nays, 29; absent, 0; excused, 1.</description>
+			<pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-22/Third reading, passed; yeas, 68; nays, 29; absent, 0; excused, 1.</guid>
 		</item>
 	</channel>
 </rss>

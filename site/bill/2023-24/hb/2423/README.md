@@ -21,7 +21,7 @@ Testifying:
 * 💵Michael Moran - Confederated Tribes of the Colville Reservation
 * Mel Tonasket - Confederated Tribes of the Colville Reservation
 
-#### 4 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * David Linn - None
 

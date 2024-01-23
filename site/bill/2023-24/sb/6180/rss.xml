@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6180/</link>
 		<description>Updates about SB 6180</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 10:30:54 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 11:11:38 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -46,6 +46,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Peter/Lyon/2024-01-19 02:43:25</guid>
+		</item>
+		<item>
+			<title>This Week in the Senate - Week 3: Criminal justice reform, education, tax cuts for housing - Washington Senate Democrats</title>
+			<description>News article &quot;This Week in the Senate - Week 3: Criminal justice reform, education, tax cuts for housing - Washington Senate Democrats&quot; from Senate Democrats.</description>
+			<pubDate>Mon, 22 Jan 2024 00:36:55 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2024/01/21/this-week-in-the-senate-week-3-criminal-justice-reform-education-tax-cuts-for-housing/#:~:text=SB%206180</guid>
 		</item>
 		<item>
 			<title>👍Deepa Sivarajan - Climate Solutions</title>
@@ -158,6 +165,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Brian/Pontious/2024-01-22 10:30:54</guid>
+		</item>
+		<item>
+			<title>❓Lewis Griffith - City of Tacoma Environmental Services Division Manager of Solid Waste Management</title>
+			<description>Lewis Griffith signed up to testify Other. They are signed up to represent City of Tacoma Environmental Services Division Manager of Solid Waste Management.</description>
+			<pubDate>Mon, 22 Jan 2024 10:41:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Lewis/Griffith/2024-01-22 10:41:40</guid>
+		</item>
+		<item>
+			<title>👍Jay Kang - Thurston County Food Bank</title>
+			<description>Jay Kang signed up to testify Pro. They are signed up to represent Thurston County Food Bank.</description>
+			<pubDate>Mon, 22 Jan 2024 11:09:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jay/Kang/2024-01-22 11:09:44</guid>
+		</item>
+		<item>
+			<title>👎Scott Howarth - Sinclair</title>
+			<description>Scott Howarth signed up to testify Con. They are signed up to represent Sinclair.</description>
+			<pubDate>Mon, 22 Jan 2024 11:11:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Scott/Howarth/2024-01-22 11:11:38</guid>
 		</item>
 	</channel>
 </rss>

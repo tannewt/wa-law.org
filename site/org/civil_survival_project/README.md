@@ -29,7 +29,8 @@
 
 ## [HB 1798](/bill/2023-24/hb/1798/) - Earned release time 👍2  
 
-## [HB 2001](/bill/2023-24/hb/2001/) - Sentence modification 👍1  
+## [HB 2001](/bill/2023-24/hb/2001/) - Sentence modification 👍2  
+* 👍💵 Kelly Olson
 
 ## [HB 2030](/bill/2023-24/hb/2030/) - Revoking a person's voting rights only when convicted of a state crime punishable by death. 👍2  
 * 👍💵 Anthony Blankenship

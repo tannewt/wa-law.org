@@ -34,7 +34,7 @@
 * 👍 Moses Perez
 * 👍 Moses Perez
 
-## [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation 👍2  
+## [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation 👍2 👎2 
 * 👍 Khalid Sirad
 * 👍 Peter Musante
 

@@ -8,20 +8,16 @@
 
 ## Meetings
 ### Mon 01/22 01:30 PM - Housing (HOUS): HB 2308 Existing structures/housing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31776&aId=157400&caId=23432&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31776&aId=157400&caId=23432&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31776&aId=157400&caId=23432&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31776&aId=157400&caId=23432&tId=4)
-
-#### 23 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * Marc Angelillo - Urban Housing Ventures
 * Tim Cavanaugh - Urban Housing Ventures
+* Rep. Spencer Hutchins
 * 💵Briahna Murray - Urban Housing Ventures
 * CHRIS BATTEN - 135
 * Teri Stripes - [City of Spokane](/org/city_of_spokane/)
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Angela Rozmyn - Natural and Built Environments
 
 #### 0 👎 - Con
 

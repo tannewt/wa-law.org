@@ -15,16 +15,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31738&aId=157497&caId=23326&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31738&aId=157497&caId=23326&tId=4)
 
-#### 71 👍 - Pro
+#### 88 👍 - Pro
 Testifying:
 * Susanna Jones
+* Mo McKenna
 * 💵Bill Clarke - WA PUD Association + Regional Water Cooperative of Pierce County
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Bill Zimmerman - Bi-Zi Farms
+* Joe Zimmerman - Bi-Zi Farms
+* 💵Jeffrey Johnson - Regional Water Cooperative of Pierce County
 
-#### 144 👎 - Con
+#### 163 👎 - Con
 Testifying:
 * Trish Rolfe - [Center for Environmental Law & Policy](/org/center_for_environmental_law_&_policy/)
 * Council Jeremy Takala - Confederated Tribes and Bands of the Yakama Nation
+* 💵Alexei Calambokidis - [Trout Unlimited](/org/trout_unlimited/)
 
 #### 1 ❓ - Other
 Testifying:

@@ -17,14 +17,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31707&aId=157043&caId=23484&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31707&aId=157043&caId=23484&tId=4)
 
-#### 19 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * 💵John Scott - [The Pew Charitable Trusts](/org/the_pew_charitable_trusts/)
 * Scott Baxter
 * 💵Aaron Keating - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * Mike Pelliciotti - State Treasurer
+* Donna Albert
 * 💵Paula Sardinas - WBBA (WA Build Black Alliance)
+* Karim Lessard
 
-#### 32 👎 - Con
+#### 33 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Patrick Connor - NFIB
+* John Mangan - [American Council of Life Insurers](/org/american_council_of_life_insurers/)

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157326&caId=23545&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157326&caId=23545&tId=4)
 
-#### 20 👍 - Pro
+#### 49 👍 - Pro
 Testifying:
 * Leslie Maxwell
 * 💵Carolyn Logue - WA State Student Transportation Coalition

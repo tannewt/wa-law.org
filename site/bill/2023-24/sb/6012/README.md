@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/22 01:30 PM - Early Learning & K-12 Education (EDU): SB 6012 Teacher preparation programs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31765&aId=157300&caId=23318&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31765&aId=157300&caId=23318&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31765&aId=157300&caId=23318&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31765&aId=157300&caId=23318&tId=4)
-
-#### 11 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Adam Aguilera - PESB, Chair
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)

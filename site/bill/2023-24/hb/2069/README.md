@@ -18,6 +18,6 @@ Sign up to testify:
 Testifying:
 * Jim Smith - Klickitat PUD
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

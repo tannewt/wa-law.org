@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31773&aId=157351&caId=23474&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31773&aId=157351&caId=23474&tId=4)
 
-#### 9 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Lee Lambert - [Washington Bikes](/org/washington_bikes/)
 * Katherine Hollis - [Eastrail Partners](/org/eastrail_partners/)

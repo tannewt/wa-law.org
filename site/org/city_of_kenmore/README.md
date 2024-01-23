@@ -28,6 +28,10 @@
 
 ## [HB 2044](/bill/2023-24/hb/2044/) - Standardizing limitations on voter-approved property tax levies. 👍1  
 
+## [HB 2219](/bill/2023-24/hb/2219/) - Affordable housing/tax ex. 👍1  
+
+## [HB 2445](/bill/2023-24/hb/2445/) - Leasing/state parks comm. 👍1  
+
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍1  
 
 ## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  

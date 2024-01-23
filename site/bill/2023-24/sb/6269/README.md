@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31771&aId=157448&caId=23361&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31771&aId=157448&caId=23361&tId=4)
 
-#### 94 👍 - Pro
+#### 105 👍 - Pro
 Testifying:
 * William Cavecche - King County Elections
+* Jake García - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
 
-#### 378 👎 - Con
+#### 434 👎 - Con
 Testifying:
 * Theresa Schrempp
 * Kim Slinger

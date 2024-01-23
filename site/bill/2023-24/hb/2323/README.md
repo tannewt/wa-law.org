@@ -18,11 +18,12 @@ Sign up to testify:
 Testifying:
 * 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
-#### 72 👎 - Con
+#### 85 👎 - Con
 Testifying:
 * Constance Nelson
 * Shane Mcgraw - No
 * Siddhant Bahadur
 * Patricia Hoendermis - Yakima Valley Landlords Assoc.
+* William Shadbolt - [Washington Business Properties Association](/org/washington_business_properties_association/)
 
 #### 0 ❓ - Other

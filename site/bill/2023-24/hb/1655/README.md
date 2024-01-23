@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31705&aId=157711&caId=23599&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31705&aId=157711&caId=23599&tId=4)
 
-#### 6 👍 - Pro
+#### 60 👍 - Pro
+Testifying:
+* Nicholas Jankowski - [Optometric Physicians of Washington](/org/optometric_physicians_of_washington/)
 
 #### 1 👎 - Con
 

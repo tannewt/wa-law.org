@@ -8,18 +8,14 @@
 
 ## Meetings
 ### Mon 01/22 01:30 PM - Environment & Energy (ENVI): HB 2376 CCA public entity oblig.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31779&aId=157415&caId=23436&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31779&aId=157415&caId=23436&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31779&aId=157415&caId=23436&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31779&aId=157415&caId=23436&tId=4)
-
-#### 20 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Jan Molinaro - City of Enumclaw
 * Chris Searcy - City of Enumclaw
 * Susanna Jones
 
-#### 5 👎 - Con
+#### 7 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Adam Eitmann - Department of Ecology

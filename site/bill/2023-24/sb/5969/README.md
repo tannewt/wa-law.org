@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Mon 01/22 01:30 PM - Early Learning & K-12 Education (EDU): SB 5969 School construction debt
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31765&aId=157297&caId=23315&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31765&aId=157297&caId=23315&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31765&aId=157297&caId=23315&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31765&aId=157297&caId=23315&tId=4)
-
 #### 21 👍 - Pro
 Testifying:
 * Barbara Posthumus - Lake Washington School District/School Alliance
@@ -23,6 +17,6 @@ Testifying:
 * Cynthia Weed - [School Alliance](/org/school_alliance/)
 * 💵Grace Yuan - [School Alliance](/org/school_alliance/)
 
-#### 21 👎 - Con
+#### 22 👎 - Con
 
 #### 0 ❓ - Other

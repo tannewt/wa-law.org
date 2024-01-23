@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31733&aId=157151&caId=23526&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31733&aId=157151&caId=23526&tId=4)
 
-#### 112 👍 - Pro
+#### 116 👍 - Pro
 Testifying:
 * Liliana Villanueva
 * Kim Mcleod

@@ -21,6 +21,10 @@
 * ❓ Elizabeth Chamberlain
 * ❓ Ki Bealey
 
+## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
+
 ## [SB 6059](/bill/2023-24/sb/6059/) - Mobile home community sales 👍2  
+
+## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management 👍1  
 
 ## [SB 6230](/bill/2023-24/sb/6230/) - Tax increment areas  👎2 

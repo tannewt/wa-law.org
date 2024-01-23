@@ -14,12 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31732&aId=157598&caId=23588&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31732&aId=157598&caId=23588&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Jeanette Obelcz - WFSE Member
+* Chelsea Burroughs - WFSE Member
 
 #### 2 👎 - Con
 Testifying:
 * Everett Maroon - Blue Mountain Heart to Heart
 
-#### 4 ❓ - Other
+#### 10 ❓ - Other
 Testifying:
 * 💵Giovanni Severino - Latino Community Fund
+* 💵Shrounda Selivanoff
+* Teshara Villaluz
+* Mishka Terplan MD MPH,FACOG,DFAS
+* Jennifer Justice
+* Laurie Lippold
+* Tara Urs

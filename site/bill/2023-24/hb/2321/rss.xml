@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2321/</link>
 		<description>Updates about HB 2321</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 09:45:11 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 12:21:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -62,6 +62,30 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Carl/Schroeder/2024-01-22 09:45:11</guid>
+		</item>
+		<item>
+			<title>❓Steve Zemke - Friends of Seattle's Urban Forest, TreePAC</title>
+			<description>Steve Zemke signed up to testify Other. They are signed up to represent Friends of Seattle's Urban Forest, TreePAC.</description>
+			<pubDate>Mon, 22 Jan 2024 11:37:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Steve/Zemke/2024-01-22 11:37:36</guid>
+		</item>
+		<item>
+			<title>❓Suzanne Grant - Friends of Seattle's Urban Forest, TreePAC</title>
+			<description>Suzanne Grant signed up to testify Other.</description>
+			<pubDate>Mon, 22 Jan 2024 12:10:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Suzanne/Grant/2024-01-22 12:10:56</guid>
+		</item>
+		<item>
+			<title>❓Iskra Johnson - Friends of Seattle's Urban Forest, TreePAC</title>
+			<description>Iskra Johnson signed up to testify Other.</description>
+			<pubDate>Mon, 22 Jan 2024 12:21:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Iskra/Johnson/2024-01-22 12:21:47</guid>
 		</item>
 	</channel>
 </rss>

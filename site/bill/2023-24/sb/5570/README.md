@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/09 01:30 PM - Environment, Energy & Technology (ENET): SB 5570 Energy efficiency loans

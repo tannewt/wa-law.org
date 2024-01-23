@@ -21,4 +21,6 @@ Testifying:
 
 #### 16 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Dave Andersen - Washington Department of Commerce

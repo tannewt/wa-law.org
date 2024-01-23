@@ -50,7 +50,7 @@
 
 ## [HB 1536](/bill/2023-24/hb/1536/) - H.S. diplomas/withholding 👍2  
 
-## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍2  
+## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍3  
 
 ## [HB 1608](/bill/2023-24/hb/1608/) - Anaphylaxis meds./schools 👍1  
 

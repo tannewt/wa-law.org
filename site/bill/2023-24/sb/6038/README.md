@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31741&aId=157506&caId=23416&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31741&aId=157506&caId=23416&tId=4)
 
-#### 26 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * 💵Tathagata Pal - Legislative Liaison, Graduate and Professional Student Association at the WSU
 

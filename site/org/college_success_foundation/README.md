@@ -64,7 +64,12 @@
 ## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍1  
 * 👍💵 Juliet Schindler
 
+## [HB 2224](/bill/2023-24/hb/2224/) - Child abuse referral tool 👍2  
+* 👍💵 Emily Stochel
+
 ## [HB 2342](/bill/2023-24/hb/2342/) - Dependent youth financial ed 👍1  
+
+## [HB 2383](/bill/2023-24/hb/2383/) - Dependency outcome reporting 👍1  
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍3  
 * 👍💵 Juliet Schindler
@@ -114,7 +119,7 @@
 
 ## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍2  
 
-## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍2  
+## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍3  
 * 👍💵 Emily Stochel
 
 ## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍2  
@@ -134,3 +139,5 @@
 * 👍💵 Emily Stochel
 
 ## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍1  
+
+## [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation 👍1  

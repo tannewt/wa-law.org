@@ -19,8 +19,9 @@ Sign up to testify:
 
 #### 3 👍 - Pro
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Patrick McElligott - IAFF Local 31- Tacoma Firefighters
+* AJ Johnson - 1069 Adams St
 
 #### 0 ❓ - Other

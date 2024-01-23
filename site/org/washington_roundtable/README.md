@@ -34,6 +34,8 @@
 
 ## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍1  
 
+## [HB 2308](/bill/2023-24/hb/2308/) - Existing structures/housing 👍1  
+
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍2  
 * 👍💵 Neil Strege
 * 👍💵 Neil Strege

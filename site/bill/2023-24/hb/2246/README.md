@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31729&aId=157130&caId=23468&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31729&aId=157130&caId=23468&tId=4)
 
-#### 16 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * 💵Seamus Petrie - [Washington Public Employees Association](/org/washington_public_employees_association/)
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)

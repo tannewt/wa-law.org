@@ -28,8 +28,10 @@
 
 ## [HB 1947](/bill/2023-24/hb/1947/) - Technology governance   ❓1
 
-## [HB 2006](/bill/2023-24/hb/2006/) - Concerning court interpreters. 👍1  
+## [HB 2006](/bill/2023-24/hb/2006/) - Concerning court interpreters. 👍3  
 * 👍 Brittany Gregory
+* 👍 Brittany Gregory
+* 👍 James Wells
 
 ## [HB 2034](/bill/2023-24/hb/2034/) - Requiring counties and cities to provide the administrative office of the courts with notice of court reorganizations. 👍1  
 * 👍 Brittany Gregory

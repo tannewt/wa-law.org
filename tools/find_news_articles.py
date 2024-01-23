@@ -58,7 +58,7 @@ def parse_date(content):
         return arrow.get(content).datetime
     except arrow.parser.ParserError:
         pass
-    for other_format in ("H:mm A ZZZ MMMM D, YYYY","M/DD/YYYY H:mm:ss A"):
+    for other_format in ("H:mm A ZZZ MMMM D, YYYY","M/DD/YYYY H:mm:ss A", "M/D/YYYY H:mm:ss A"):
         try:
             return arrow.get(content, other_format).datetime
         except arrow.parser.ParserError:
@@ -156,6 +156,8 @@ for org_rowid, domain in org_cur:
 
         for url in sitemap.find_all("url"):
             url_text = url.loc.text
+            if url.find("video"):
+                continue
             if domain in EXCLUDE:
                 include = True
                 for exclude in EXCLUDE[domain]:
@@ -173,9 +175,9 @@ for org_rowid, domain in org_cur:
                 if lastmod < after_date:
                     continue
             url_loc = url.loc.text
-            if "capitolhill" in url_loc and "/2023/" not in url_loc:
+            if "capitolhill" in url_loc and "/2024/" not in url_loc:
                 continue
-            if "gorgenewscenter.com" in url_loc and "/2023/" not in url_loc:
+            if "gorgenewscenter.com" in url_loc and "/2024/" not in url_loc:
                 continue
             if "kuow.org" in url_loc and url_loc.count("http") > 1:
                 url_loc = url_loc[url_loc.index("http", 6):]

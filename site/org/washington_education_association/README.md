@@ -497,6 +497,8 @@
 
 ## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
 
+## [HB 2321](/bill/2023-24/hb/2321/) - Middle housing requirements 👍1  
+
 ## [HB 2374](/bill/2023-24/hb/2374/) - Washington promise program 👍1  
 
 ## [HB 2381](/bill/2023-24/hb/2381/) - School calendar waivers   ❓1

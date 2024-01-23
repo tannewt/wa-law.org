@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31723&aId=157100&caId=23424&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31723&aId=157100&caId=23424&tId=4)
 
-#### 89 👍 - Pro
+#### 100 👍 - Pro
 Testifying:
 * Constance Nelson
 * Jeffrey Wright - Small Landlord
+* Patricia Hoendermis - Yakima Valley Landlords Assoc.
+* William Shadbolt - [Washington Business Properties Association](/org/washington_business_properties_association/)
 
 #### 9 👎 - Con
 

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/22 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 2084 Construction training/DOC
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31768&aId=157314&caId=23439&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31768&aId=157314&caId=23439&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31768&aId=157314&caId=23439&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31768&aId=157314&caId=23439&tId=4)
-
-#### 114 👍 - Pro
+#### 123 👍 - Pro
 Testifying:
 * Hilary Young - Washington Statewide Reentry Council
 * Hanan Al-Zubaidy - SBCTC

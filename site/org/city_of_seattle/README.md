@@ -334,7 +334,7 @@
 
 ## [SB 5812](/bill/2023-24/sb/5812/) - Concerning the response to electric vehicle fires. 👍1  
 
-## [SB 5838](/bill/2023-24/sb/5838/) - Establishing an artificial intelligence task force. 👍1  
+## [SB 5838](/bill/2023-24/sb/5838/) - AI task force 👍1  
 
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
 

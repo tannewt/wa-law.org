@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31780&aId=157423&caId=23500&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31780&aId=157423&caId=23500&tId=4)
 
-#### 145 👍 - Pro
+#### 204 👍 - Pro
 Testifying:
 * Jay Blazey - [Cedar Grove](/org/cedar_grove/)
 * Andrea Collins - NRDC (Natural Resources Defense Council)
@@ -28,13 +28,15 @@ Testifying:
 * Kate Kurtz - [City of Seattle](/org/city_of_seattle/)
 * Liv Johansson - Washington Organic Recycling Council (WORC)
 * Scott Smithline - Mill Industries
+* Jay Kang - Thurston County Food Bank
 
-#### 20 👎 - Con
+#### 21 👎 - Con
 Testifying:
 * 💵Brandon Houskeeper - NW Grocery Assoc
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Scott Howarth - Sinclair
 
-#### 2 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * Rose GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)
 * Peter Lyon - Washington State Department of Ecology

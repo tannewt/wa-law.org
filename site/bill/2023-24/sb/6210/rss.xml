@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6210/</link>
 		<description>Updates about SB 6210</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 21 Jan 2024 04:36:31 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 12:40:36 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -38,6 +38,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jeffrey/Wright/2024-01-21 04:36:31</guid>
+		</item>
+		<item>
+			<title>👍Patricia Hoendermis - Yakima Valley Landlords Assoc.</title>
+			<description>Patricia Hoendermis signed up to testify Pro. They are signed up to represent Yakima Valley Landlords Assoc..</description>
+			<pubDate>Mon, 22 Jan 2024 10:44:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Patricia/Hoendermis/2024-01-22 10:44:51</guid>
+		</item>
+		<item>
+			<title>👍William Shadbolt - Washington Business Properties Association</title>
+			<description>William Shadbolt signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_business_properties_association/&quot;&gt;Washington Business Properties Association&lt;/a&gt;.</description>
+			<pubDate>Mon, 22 Jan 2024 12:40:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/William/Shadbolt/2024-01-22 12:40:36</guid>
 		</item>
 	</channel>
 </rss>

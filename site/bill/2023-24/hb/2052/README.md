@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/22/2024 [The Seattle Times](/org/the_seattle_times/) - [WA could require diaper changing stations for both moms and dads | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-could-require-diaper-changing-stations-for-both-moms-and-dads/#:~:text=House%20Bill%202052)
+
 ## Meetings
 ### Tue 01/23 10:30 AM - Local Government (LG): HB 2052 Diaper changing stations
 Sign up to testify:

@@ -8,7 +8,7 @@
 
 ## [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims 👍2  
 
-## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍2  
+## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍4  
 * 👍💵 Shaun Scott
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍2  
@@ -136,6 +136,8 @@
 
 ## [HB 2176](/bill/2023-24/hb/2176/) - Preventive dental care  👎1 
 
+## [HB 2244](/bill/2023-24/hb/2244/) - Retirement savings 👍1  
+
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
 ## [HB 2360](/bill/2023-24/hb/2360/) - Digital workforce 👍1  
@@ -210,6 +212,8 @@
 
 ## [SB 5839](/bill/2023-24/sb/5839/) - Modifying the working families' tax credit by clarifying the refundable nature of the credit, the application requirements, and the eligibility verification process. 👍1  
 
+## [SB 5863](/bill/2023-24/sb/5863/) - Prohibiting credit reporting on delinquent accounts that are designated to a person in a divorce. 👍1  
+
 ## [SB 5943](/bill/2023-24/sb/5943/) - Resource data tool 👍1  
 
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍1  
@@ -224,5 +228,13 @@
 
 ## [SB 6025](/bill/2023-24/sb/6025/) - Predatory loans 👍1  
 
+## [SB 6069](/bill/2023-24/sb/6069/) - Retirement savings 👍1  
+
 ## [SB 6135](/bill/2023-24/sb/6135/) - TANF transitional assistance 👍2  
 * 👍💵 Lianna Kressin
+
+## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
+
+## [SB 6226](/bill/2023-24/sb/6226/) - DSHS fraud office reporting 👍1  
+
+## [SB 6276](/bill/2023-24/sb/6276/) - Digital electronics/repair 👍1  

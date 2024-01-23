@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31699&aId=157641&caId=23592&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31699&aId=157641&caId=23592&tId=4)
 
-#### 23 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * Dr. Joyce Loveday - Clover Park Technical College
 * Dr. Tafona Ervin - Foundation for Tacoma Students
 * Celva Boon - Clover Park Technical College
+* Megan Clark - 5923 S I St
 
 #### 0 👎 - Con
 

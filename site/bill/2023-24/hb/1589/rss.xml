@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1589/</link>
 		<description>Updates about HB 1589</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 16 Jan 2024 17:49:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -642,6 +642,13 @@
 			<pubDate>Tue, 16 Jan 2024 17:49:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_c927188e-b4af-11ee-9d08-6ba89fcb41d3.html#:~:text=House%20Bill%201589</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 52; nays, 45; absent, 0; excused, 1.</title>
+			<description>Third reading, passed; yeas, 52; nays, 45; absent, 0; excused, 1.</description>
+			<pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-22/Third reading, passed; yeas, 52; nays, 45; absent, 0; excused, 1.</guid>
 		</item>
 	</channel>
 </rss>

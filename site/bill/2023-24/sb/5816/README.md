@@ -12,4 +12,6 @@
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Marc Webster - Washington State Liquor and Cannabis Board

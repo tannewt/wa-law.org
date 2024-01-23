@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/22/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 3: Criminal justice reform, education, tax cuts for housing - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/21/this-week-in-the-senate-week-3-criminal-justice-reform-education-tax-cuts-for-housing/#:~:text=SB%206180)
+
 ## Meetings
 ### Tue 01/23 01:30 PM - Environment, Energy & Technology (ENET): SB 6180 Waste material management
 Sign up to testify:
@@ -14,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31724&aId=157103&caId=23356&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31724&aId=157103&caId=23356&tId=4)
 
-#### 166 👍 - Pro
+#### 248 👍 - Pro
 Testifying:
 * Jay Blazey - [Cedar Grove](/org/cedar_grove/)
 * Andrea Collins - NRDC (Natural Resources Defense Council)
@@ -30,13 +33,16 @@ Testifying:
 * Liv Johansson - Washington Organic Recycling Council (WORC)
 * Scott Smithline - Mill Industries
 * Brian Pontious - Ingevity
+* Jay Kang - Thurston County Food Bank
 
-#### 21 👎 - Con
+#### 23 👎 - Con
 Testifying:
 * 💵Brandon Houskeeper - NW Grocery Assoc.
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Scott Howarth - Sinclair
 
-#### 2 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * Rose GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)
 * Peter Lyon - Washington State Department of Ecology
+* Lewis Griffith - City of Tacoma Environmental Services Division Manager of Solid Waste Management

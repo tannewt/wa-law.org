@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/22 01:30 PM - Housing (HOUS): HB 2321 Middle housing requirements
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31776&aId=157401&caId=23433&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31776&aId=157401&caId=23433&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31776&aId=157401&caId=23433&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31776&aId=157401&caId=23433&tId=4)
-
-#### 65 👍 - Pro
+#### 73 👍 - Pro
 Testifying:
 * Scott Bonjukian
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
@@ -23,7 +17,10 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 4 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * 💵Briahna Murray - Cities of Tacoma, Bellevue, Redmond, and Kent
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Steve Zemke - Friends of Seattle's Urban Forest, TreePAC
+* Suzanne Grant
+* Iskra Johnson

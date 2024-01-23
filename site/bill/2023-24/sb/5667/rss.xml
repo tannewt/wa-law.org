@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5667/</link>
 		<description>Updates about SB 5667</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 21 Jan 2024 11:15:52 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 11:30:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2023-02-01/First reading, referred to Agriculture, Water, Natural Resources &amp; Parks.</guid>
 		</item>
 		<item>
-			<title>👍Gene Jones - South Puget Sound Community College</title>
+			<title>👍Gene Jones - Washington Farm Forestry Association</title>
 			<description>Gene Jones signed up to testify Pro.</description>
 			<pubDate>Mon, 06 Feb 2023 02:25:20 GMT</pubDate>
 			<category>testifier</category>
@@ -24,7 +24,7 @@
 			<guid isPermaLink="false">testifier/Gene/Jones/2023-02-06 02:25:20</guid>
 		</item>
 		<item>
-			<title>👍Sally Bronow - South Puget Sound Community College</title>
+			<title>👍Sally Bronow - Washington Farm Forestry Association</title>
 			<description>Sally Bronow signed up to testify Pro.</description>
 			<pubDate>Mon, 06 Feb 2023 02:43:19 GMT</pubDate>
 			<category>testifier</category>
@@ -32,7 +32,7 @@
 			<guid isPermaLink="false">testifier/Sally/Bronow/2023-02-06 02:43:19</guid>
 		</item>
 		<item>
-			<title>👍Glenn Beach - South Puget Sound Community College</title>
+			<title>👍Glenn Beach - Washington Farm Forestry Association</title>
 			<description>Glenn Beach signed up to testify Pro.</description>
 			<pubDate>Mon, 06 Feb 2023 03:06:20 GMT</pubDate>
 			<category>testifier</category>
@@ -805,6 +805,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Susanna/Jones/2024-01-21 11:15:52</guid>
+		</item>
+		<item>
+			<title>👍Ken Miller - Ken &amp; Bonnie Miller's Family Forest</title>
+			<description>Ken Miller signed up to testify Pro. They are signed up to represent Ken &amp; Bonnie Miller's Family Forest.</description>
+			<pubDate>Mon, 22 Jan 2024 11:30:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ken/Miller/2024-01-22 11:30:11</guid>
+		</item>
+		<item>
+			<title>👍Nora Palattao Burnes - Washington Farm Forestry Association</title>
+			<description>Nora Palattao Burnes signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_farm_forestry_association/&quot;&gt;Washington Farm Forestry Association&lt;/a&gt;.</description>
+			<pubDate>Mon, 22 Jan 2024 11:30:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Nora/Palattao Burnes/2024-01-22 11:30:11</guid>
+		</item>
+		<item>
+			<title>👍Orv Mowry - Washington Farm Forestry Association</title>
+			<description>Orv Mowry signed up to testify Pro.</description>
+			<pubDate>Mon, 22 Jan 2024 11:30:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Orv/Mowry/2024-01-22 11:30:11</guid>
 		</item>
 	</channel>
 </rss>

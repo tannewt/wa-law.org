@@ -92,3 +92,5 @@
 ## [SB 6007](/bill/2023-24/sb/6007/) - Grocery workers 👍1  
 
 ## [SB 6069](/bill/2023-24/sb/6069/) - Retirement savings 👍1  
+
+## [SB 6072](/bill/2023-24/sb/6072/) - LTSS commission recs. 👍1  

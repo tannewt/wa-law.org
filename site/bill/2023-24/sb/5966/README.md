@@ -6,15 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/22/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 3: Criminal justice reform, education, tax cuts for housing - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/21/this-week-in-the-senate-week-3-criminal-justice-reform-education-tax-cuts-for-housing/#:~:text=Senate%20Bill%205966)
+
 ## Meetings
 ### Mon 01/22 01:30 PM - Early Learning & K-12 Education (EDU): SB 5966 Student restraint, isolation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31765&aId=157301&caId=23319&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31765&aId=157301&caId=23319&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31765&aId=157301&caId=23319&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31765&aId=157301&caId=23319&tId=4)
-
-#### 70 👍 - Pro
+#### 75 👍 - Pro
 Testifying:
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 * Khalid Sirad - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
@@ -24,7 +21,7 @@ Testifying:
 * Amy Jones
 * Becky Ramsey - [Spokane Public Schools](/org/spokane_public_schools/)
 
-#### 446 👎 - Con
+#### 463 👎 - Con
 Testifying:
 * Eric Holzapfel - [League of Education Voters](/org/league_of_education_voters/)
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
@@ -40,8 +37,9 @@ Testifying:
 * Leslie Maxwell - Preschool Special Education Paraeducator
 * ARZU FOROUGH - Washington Autism Alliance
 * Russ Hamerly
+* Robert Maxwell - Pullman School District - Pullman, WA
 
-#### 38 ❓ - Other
+#### 42 ❓ - Other
 Testifying:
 * Shannon Hitch - Lake Washington School District
 * Tawni Barlow - Medical Lake School District

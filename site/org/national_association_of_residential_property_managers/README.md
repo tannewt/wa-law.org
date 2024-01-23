@@ -11,6 +11,10 @@
 
 ## [HB 1817](/bill/2023-24/hb/1817/) - Housing gap voucher pilot 👍1  
 
+## [HB 2321](/bill/2023-24/hb/2321/) - Middle housing requirements 👍1  
+
+## [HB 2353](/bill/2023-24/hb/2353/) - Residential targeted areas 👍1  
+
 ## [SB 5060](/bill/2023-24/sb/5060/) - Rental & vacant properties  👎1 
 
 ## [SB 5197](/bill/2023-24/sb/5197/) - Eviction processes  👎1 

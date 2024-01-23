@@ -249,6 +249,8 @@
 
 ## [SB 6063](/bill/2023-24/sb/6063/) - Persistent offenders 👍1  
 
+## [SB 6064](/bill/2023-24/sb/6064/) - Pet fees, deposits 👍1  
+
 ## [SB 6166](/bill/2023-24/sb/6166/) - Pesticide application comm. 👍1  
 
 ## [SB 6189](/bill/2023-24/sb/6189/) - Jail system 👍1  

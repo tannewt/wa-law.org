@@ -14,6 +14,8 @@
 
 ## [HB 1740](/bill/2023-24/hb/1740/) - Forestry riparian easements  👎1 
 
+## [HB 2065](/bill/2023-24/hb/2065/) - Recalculating sentencing ranges for currently incarcerated individuals whose offender score was increased by juvenile convictions. 👍1  
+
 ## [HB 2105](/bill/2023-24/hb/2105/) - Instream resources  👎1 
 
 ## [SB 5086](/bill/2023-24/sb/5086/) - Tribal police training 👍1  

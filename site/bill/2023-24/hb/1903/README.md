@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/20/2024 [KING5](/org/king5/) - [WA could expand speed camera use amid rise in deadly crashes | king5.com](https://www.king5.com/article/news/politics/in-session/session-washington-state-expand-speed-camera-rise-deadly-crashes/281-76104cf1-aee1-43e2-a0a3-cfb8b8ba0b6b#:~:text=House%20Bill%201903)
 * 01/20/2024 [NW News Network](/org/nw_news_network/) - [AI, guns, and initiatives: highlights from Week 2 of Washington's 2024 legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-19/ai-guns-and-initiatives-highlights-from-week-2-of-washingtons-2024-legislative-session#:~:text=House%20Bill%201903)
 * 01/16/2024 [KING5](/org/king5/) - [Gun-related bill proposals include permits, purchase limits in Washington | king5.com](https://www.king5.com/article/news/local/gun-related-proposals-permits-purchase-limits/281-b54240bc-62d3-4914-bee4-86c6ef49d5f5#:~:text=House%20Bill%201903)
 * 12/15/2023 [MyNorthwest](/org/mynorthwest/) - [State Rep proposes bill requiring live-fire training for gun ownership - MyNorthwest.com](https://mynorthwest.com/3943153/olympia-bill-proposes-live-fire-training-for-firearm-permit-acquisition/#:~:text=HB%201903)

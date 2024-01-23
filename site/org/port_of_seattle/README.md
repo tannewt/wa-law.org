@@ -14,6 +14,8 @@
 
 ## [HB 1505](/bill/2023-24/hb/1505/) - Alternative jet fuel 👍1  
 
+## [HB 1716](/bill/2023-24/hb/1716/) - Child care B&O credit 👍1  
+
 ## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  
 
 ## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍2  
@@ -40,6 +42,10 @@
 ## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage 👍1  
 
 ## [HB 2236](/bill/2023-24/hb/2236/) - Tech. ed. core plus programs 👍1  
+
+## [HB 2286](/bill/2023-24/hb/2286/) - Salmon rec. capital grants 👍1  
+
+## [HB 2289](/bill/2023-24/hb/2289/) - Salmon recovery projects/tax 👍1  
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 

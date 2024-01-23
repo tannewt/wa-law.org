@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2247/</link>
 		<description>Updates about HB 2247</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 08:10:56 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 12:55:51 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2024-01-09/First reading, referred to Health Care &amp; Wellness.</guid>
 		</item>
 		<item>
-			<title>❓💵Bob Cooper - Partners for Our Children</title>
+			<title>❓💵Bob Cooper - WA Association for Community Health</title>
 			<description>Bob Cooper signed up to testify Other. They are a registered lobbyist.</description>
 			<pubDate>Sun, 21 Jan 2024 02:29:39 GMT</pubDate>
 			<category>testifier</category>
@@ -40,6 +40,14 @@
 			<guid isPermaLink="false">testifier/Laurie/Lippold/2024-01-21 09:53:45</guid>
 		</item>
 		<item>
+			<title>👍💵Melanie Smith - WA State Psychological Association</title>
+			<description>Melanie Smith signed up to testify Pro. They are signed up to represent WA State Psychological Association. They are a registered lobbyist.</description>
+			<pubDate>Mon, 22 Jan 2024 01:01:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Melanie/Smith/2024-01-22 01:01:03</guid>
+		</item>
+		<item>
 			<title>❓💵Bob Cooper - National Association of Social Workers WA Chapter</title>
 			<description>Bob Cooper signed up to testify Other. They are signed up to represent National Association of Social Workers WA Chapter. They are a registered lobbyist.</description>
 			<pubDate>Mon, 22 Jan 2024 08:10:56 GMT</pubDate>
@@ -54,6 +62,22 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Jeremy/Arp/2024-01-22 08:10:56</guid>
+		</item>
+		<item>
+			<title>👍Jake Eakin - Yakima Neighborhood Health Services</title>
+			<description>Jake Eakin signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/yakima_neighborhood_health_services/&quot;&gt;Yakima Neighborhood Health Services&lt;/a&gt;.</description>
+			<pubDate>Mon, 22 Jan 2024 12:55:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jake/Eakin/2024-01-22 12:55:51</guid>
+		</item>
+		<item>
+			<title>👍Kate White Tudor - WA Association for Community Health</title>
+			<description>Kate White Tudor signed up to testify Pro. They are signed up to represent WA Association for Community Health.</description>
+			<pubDate>Mon, 22 Jan 2024 12:55:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kate/White Tudor/2024-01-22 12:55:51</guid>
 		</item>
 	</channel>
 </rss>

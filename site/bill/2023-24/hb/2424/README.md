@@ -21,7 +21,7 @@ Testifying:
 * Mel Tonasket - Confederated Tribes of the Colville Reservation
 * Tom McBride - WDFW
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * David Linn - None
 

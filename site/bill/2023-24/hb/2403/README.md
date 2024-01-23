@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/21/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/21/the-house-hot-sheet-for-week-3-of-the-2024-legislative-session/#:~:text=HB%202403)
 * 01/17/2024 [KING5](/org/king5/) - [After 2 fires at dog daycare businesses, proposed bill aims to increase pet safety at kennels | king5.com](https://www.king5.com/article/news/local/seattle-dog-daycares-proposed-bill-increase-pet-safety/281-fea6c495-c18c-4a42-a13b-cf0705dcff00#:~:text=House%20Bill%202403)
 
 ## Meetings
@@ -17,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31773&aId=157352&caId=23475&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31773&aId=157352&caId=23475&tId=4)
 
-#### 113 👍 - Pro
+#### 115 👍 - Pro
 Testifying:
 * Allison Scarborough
 * Dan Paul - The Humane Society of the United States

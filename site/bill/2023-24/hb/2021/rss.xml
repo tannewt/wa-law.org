@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2021/</link>
 		<description>Updates about HB 2021</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 19 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 20 Jan 2024 13:32:59 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -216,6 +216,13 @@
 			<pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-19/CRJ - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>WA could expand speed camera use amid rise in deadly crashes | king5.com</title>
+			<description>News article &quot;WA could expand speed camera use amid rise in deadly crashes | king5.com&quot; from KING5.</description>
+			<pubDate>Sat, 20 Jan 2024 13:32:59 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.king5.com/article/news/politics/in-session/session-washington-state-expand-speed-camera-rise-deadly-crashes/281-76104cf1-aee1-43e2-a0a3-cfb8b8ba0b6b#:~:text=House%20Bill%202021</guid>
 		</item>
 	</channel>
 </rss>

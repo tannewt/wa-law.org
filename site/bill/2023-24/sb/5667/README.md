@@ -15,9 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31738&aId=157496&caId=23325&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31738&aId=157496&caId=23325&tId=4)
 
-#### 228 👍 - Pro
+#### 241 👍 - Pro
 Testifying:
 * Susanna Jones
+* Ken Miller - Ken & Bonnie Miller's Family Forest
+* Nora Palattao Burnes - [Washington Farm Forestry Association](/org/washington_farm_forestry_association/)
+* Orv Mowry
 
 #### 1 👎 - Con
 

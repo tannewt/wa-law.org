@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31777&aId=157403&caId=23498&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31777&aId=157403&caId=23498&tId=4)
 
-#### 57 👍 - Pro
+#### 59 👍 - Pro
 Testifying:
 * Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 * DANE AUSTRENG - SEIU Healthcare 1199NW

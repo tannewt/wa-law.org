@@ -17,17 +17,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157501&caId=23370&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157501&caId=23370&tId=4)
 
-#### 25 👍 - Pro
+#### 52 👍 - Pro
 Testifying:
 * Ronda Litzenberger - Washington State School Directors' Association (WSSDA)
 * Dylan Norman - Student Representative for Eatonville School District
 * Heather Segars - Washington state PTA
+* Martin Turney - [Issaquah School District](/org/issaquah_school_district/)
+* Cynthia Campbell
+* Charles West
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Barbara Posthumus - Lake Washington School District
+* 💵Carolyn Logue - [Washington State Student Transportation Coalition](/org/washington_state_student_transportation_coalition/)
+* Jeff Baerwald - Nine Mile Falls School District
+* 💵Grace Yuan - Puget Sound School Coalition
 
 ### Wed 01/10 10:30 AM - Early Learning & K-12 Education (EDU): SB 5873 Student transportation
 #### 49 👍 - Pro

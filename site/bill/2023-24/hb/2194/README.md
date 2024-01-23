@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/21/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/21/the-house-hot-sheet-for-week-3-of-the-2024-legislative-session/#:~:text=HB%202194)
+
 ## Meetings
 ### Tue 01/16 04:00 PM - Regulated Substances & Gaming (RSG): HB 2194 Home cultivation of cannabis
 #### 115 👍 - Pro

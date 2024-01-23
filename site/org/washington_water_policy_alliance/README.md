@@ -6,7 +6,7 @@
 
 ## [HB 2105](/bill/2023-24/hb/2105/) - Instream resources   ❓1
 
-## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation 👍1  
+## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation 👍2  
 * 👍💵 Kathleen Collins
 
 ## [SB 5622](/bill/2023-24/sb/5622/) - Municipal water supply 👍1  

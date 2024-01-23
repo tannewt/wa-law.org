@@ -18,9 +18,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31771&aId=157390&caId=23360&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31771&aId=157390&caId=23360&tId=4)
 
-#### 123 👍 - Pro
+#### 134 👍 - Pro
+Testifying:
+* Miles Rapoport - 100% Democracy: An Initiative for Universal Voting
+* Raaheela Ahmed - 100% Democracy
 
-#### 1180 👎 - Con
+#### 1267 👎 - Con
 Testifying:
 * elona kearney
 * John Worthington

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2157/</link>
 		<description>Updates about HB 2157</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 19 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 14:17:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -178,6 +178,20 @@
 			<pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-19/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-22/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>Washington bill would redefine ‘vaccine’ for state to purchase RSV immunization | Washington | thecentersquare.com</title>
+			<description>News article &quot;Washington bill would redefine ‘vaccine’ for state to purchase RSV immunization | Washington | thecentersquare.com&quot; from The Center Square.</description>
+			<pubDate>Mon, 22 Jan 2024 14:17:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_95b20954-b95b-11ee-8508-53fc25807fdd.html#:~:text=House%20Bill%202157</guid>
 		</item>
 	</channel>
 </rss>

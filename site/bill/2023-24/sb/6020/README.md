@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Mon 01/22 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 6020 Nonspot shrimp pot license
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31761&aId=157385&caId=23311&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31761&aId=157385&caId=23311&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31761&aId=157385&caId=23311&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31761&aId=157385&caId=23311&tId=4)
-
 #### 4 👍 - Pro
 Testifying:
 * Joe Verdoes
@@ -21,10 +15,11 @@ Testifying:
 * Daniel Sund - WDFW
 * Brian Mackey
 
-#### 13 👎 - Con
+#### 15 👎 - Con
 Testifying:
 * Kyle Crews - Puget sound shrimp association
 * Cy Fenton - Puget sound shrimp association
 * Kevin Nihart - Puget sound shrimp association
+* Brian Haling
 
 #### 0 ❓ - Other

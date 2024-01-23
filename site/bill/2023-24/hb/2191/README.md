@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31710&aId=157065&caId=23446&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31710&aId=157065&caId=23446&tId=4)
 
-#### 42 👍 - Pro
+#### 54 👍 - Pro
 Testifying:
 * Harry Kiick
 * Judy Jones
@@ -29,8 +29,9 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 4 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
+* Charles Prestrud - Washington Policy Center
 * Chelsea Ongaro - Community Transit
 * Maureen McCarthy - Whatcom Transportation Authority
 * Sanjay Bhatt - [Kitsap Transit](/org/kitsap_transit/)

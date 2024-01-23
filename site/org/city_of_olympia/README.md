@@ -168,4 +168,6 @@
 
 ## [SB 6013](/bill/2023-24/sb/6013/) - Homeownership dev. tax ex. 👍1  
 
+## [SB 6064](/bill/2023-24/sb/6064/) - Pet fees, deposits 👍1  
+
 ## [SJR 8201](/bill/2023-24/sjr/8201/) - Public works account 👍1  

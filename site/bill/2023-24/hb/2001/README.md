@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31769&aId=157320&caId=23503&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31769&aId=157320&caId=23503&tId=4)
 
-#### 187 👍 - Pro
+#### 208 👍 - Pro
 Testifying:
 * Andre Penalver
 * Larry Jefferson - Director, Washington State Office of Public Defense
@@ -30,10 +30,14 @@ Testifying:
 * Maureen McKee
 * Cindy Elsberry - WDA
 * Vidal Vincent - Freedom Project
+* Rory Andes
+* Kehaulani Walker - FOTi and PUA
 * Na'Quel Walker
 * Andrea Shotwell
+* Heather Wehrwood - WA State Coalition Against Domestic Violence
+* 💵Kelly Olson - [Civil Survival Project](/org/civil_survival_project/)
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Sam Spiegelman - Citizen Action Defense Fund
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

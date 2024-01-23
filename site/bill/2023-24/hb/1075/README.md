@@ -27,7 +27,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31718&aId=157734&caId=23619&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31718&aId=157734&caId=23619&tId=4)
 
-#### 31 👍 - Pro
+#### 71 👍 - Pro
 Testifying:
 * 💵Kristin Ang - Faith Action Network (FAN)
 * Ryan Davis - Financial Empowerment Network

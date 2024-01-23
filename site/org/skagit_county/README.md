@@ -23,6 +23,8 @@
 
 ## [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg 👍1  
 
+## [HB 2391](/bill/2023-24/hb/2391/) - County ferries 👍1  
+
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  
 * 👍 Lisa Janicki
 

@@ -55,7 +55,7 @@
 
 ## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍1  
 
-## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍4  
+## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍5  
 * 👍💵 Roz Thompson
 * 👍💵 Roz Thompson
 
@@ -171,6 +171,8 @@
 * 👍💵 Roz Thompson
 
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
+
+## [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation   ❓1
 
 ## [SB 6012](/bill/2023-24/sb/6012/) - Teacher preparation programs 👍1  
 

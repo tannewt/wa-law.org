@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6208/</link>
 		<description>Updates about SB 6208</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 08:48:37 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 11:31:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2024-01-12/First reading, referred to Early Learning &amp; K-12 Education (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 		<item>
-			<title>👎Leslie Maxwell - Office of Superintendent of Public Instruction</title>
+			<title>👎Leslie Maxwell - MomsRising</title>
 			<description>Leslie Maxwell signed up to testify Con.</description>
 			<pubDate>Sun, 21 Jan 2024 06:49:15 GMT</pubDate>
 			<category>testifier</category>
@@ -24,12 +24,20 @@
 			<guid isPermaLink="false">testifier/Leslie/Maxwell/2024-01-21 06:49:15</guid>
 		</item>
 		<item>
-			<title>👎Andy Cilley - Office of Superintendent of Public Instruction</title>
+			<title>👎Andy Cilley - MomsRising</title>
 			<description>Andy Cilley signed up to testify Con.</description>
 			<pubDate>Sun, 21 Jan 2024 10:13:33 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Andy/Cilley/2024-01-21 10:13:33</guid>
+		</item>
+		<item>
+			<title>👎Joy Gjersvold - Conservative Ladies of Washington</title>
+			<description>Joy Gjersvold signed up to testify Con. They are signed up to represent Conservative Ladies of Washington.</description>
+			<pubDate>Mon, 22 Jan 2024 01:08:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Joy/Gjersvold/2024-01-22 01:08:33</guid>
 		</item>
 		<item>
 			<title>👍Anna Hernandez-French - Office of Superintendent of Public Instruction</title>
@@ -38,6 +46,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Anna/Hernandez-French/2024-01-22 08:48:37</guid>
+		</item>
+		<item>
+			<title>👍💵Carolyn Logue - Washington Library Association</title>
+			<description>Carolyn Logue signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_library_association/&quot;&gt;Washington Library Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 22 Jan 2024 11:31:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Carolyn/Logue/2024-01-22 11:31:04</guid>
+		</item>
+		<item>
+			<title>👍Gavin Downing - High School Librarian and WLA Intellectual Freedom Chair</title>
+			<description>Gavin Downing signed up to testify Pro. They are signed up to represent High School Librarian and WLA Intellectual Freedom Chair.</description>
+			<pubDate>Mon, 22 Jan 2024 11:31:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Gavin/Downing/2024-01-22 11:31:04</guid>
+		</item>
+		<item>
+			<title>👍Kristen Marsh - MomsRising</title>
+			<description>Kristen Marsh signed up to testify Pro. They are signed up to represent MomsRising.</description>
+			<pubDate>Mon, 22 Jan 2024 11:31:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kristen/Marsh/2024-01-22 11:31:04</guid>
 		</item>
 	</channel>
 </rss>

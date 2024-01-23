@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/21/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/21/the-house-hot-sheet-for-week-3-of-the-2024-legislative-session/#:~:text=HB%202114)
 * 01/20/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Quaker Voice Priorities — Quaker Voice](https://www.quakervoicewa.org/2024-quaker-voice-priorities/#:~:text=HB%202114)
 * 01/20/2024 [NW News Network](/org/nw_news_network/) - [AI, guns, and initiatives: highlights from Week 2 of Washington's 2024 legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-19/ai-guns-and-initiatives-highlights-from-week-2-of-washingtons-2024-legislative-session#:~:text=House%20Bill%202114)
 * 01/12/2024 [NW News Network](/org/nw_news_network/) - [WA lawmakers weigh proposal to slow rising rental costs amid ongoing housing crisis | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-11/wa-lawmakers-weigh-proposal-to-slow-rising-rental-costs-amid-ongoing-housing-crisis#:~:text=House%20Bill%202114)
@@ -20,18 +21,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31717&aId=157728&caId=23615&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31717&aId=157728&caId=23615&tId=4)
 
-#### 238 👍 - Pro
+#### 420 👍 - Pro
 Testifying:
 * Stacey Valenzuela
 * J Kelley Rinehart
 * 💵Kristin Ang - Faith Action Network (FAN)
 
-#### 5 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Jeffrey Pack - Washington Citizens Against Unfair Taxes
+* William Shadbolt - [Washington Business Properties Association](/org/washington_business_properties_association/)
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
 
 ### Thu 01/11 08:00 AM - Housing (HOUS): HB 2114 Residential tenants
 #### 2013 👍 - Pro

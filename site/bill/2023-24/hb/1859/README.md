@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31704&aId=157710&caId=23598&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31704&aId=157710&caId=23598&tId=4)
 
-#### 12 👍 - Pro
+#### 36 👍 - Pro
 Testifying:
 * 💵Brad Forbes - Alzheimer's Association
 
-#### 563 👎 - Con
+#### 938 👎 - Con
 Testifying:
 * Ribka Mengesha
 * Rosemary Maseva
@@ -35,8 +35,12 @@ Testifying:
 * 💵Amina Abdalla - [Adult Family Home Council](/org/adult_family_home_council/)
 * Jen Broeckel - The Courtyard at Colfax Assisted Living
 * Nikki Storms - Chehalis West Assisted Living
+* Bereket Tameru
+* Senkensh Gebeselase - BrookAFH
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Miranda Calmjoy - WA State Board of Health
 
 ### Fri 01/19 08:00 AM - Health Care & Wellness (HCW): HB 1859 Long-term care residents
 #### 1123 👍 - Pro

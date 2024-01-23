@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/10 08:00 AM - Environment, Energy & Technology (ENET): SB 6039 Geothermal energy resources

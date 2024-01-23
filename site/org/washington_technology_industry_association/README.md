@@ -68,7 +68,7 @@
 
 ## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages 👍2  
 
-## [SB 5838](/bill/2023-24/sb/5838/) - Establishing an artificial intelligence task force.   ❓1
+## [SB 5838](/bill/2023-24/sb/5838/) - AI task force   ❓1
 * ❓💵 Kelly Fukai
 
 ## [SB 5849](/bill/2023-24/sb/5849/) - Concerning a computer science competency graduation requirement. 👍1  

@@ -14,13 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157498&caId=23367&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157498&caId=23367&tId=4)
 
-#### 21 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * 💵John Scott - [The Pew Charitable Trusts](/org/the_pew_charitable_trusts/)
 * Jill Nelson
 * Mike Pelliciotti - State Treasurer
 * Travis Rosenthal - Pike Street Hospitality Group
+* 💵Paula Sardinas - WBBA (WA Build Back Alliance)
 
-#### 27 👎 - Con
+#### 28 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* John Mangan - [American Council of Life Insurers](/org/american_council_of_life_insurers/)

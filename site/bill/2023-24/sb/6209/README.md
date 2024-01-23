@@ -8,24 +8,19 @@
 
 ## Meetings
 ### Mon 01/22 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 6209 Hemp consumable products
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31761&aId=157388&caId=23313&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31761&aId=157388&caId=23313&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31761&aId=157388&caId=23313&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31761&aId=157388&caId=23313&tId=4)
-
-#### 15 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Jessica Tonani - Verda Bio
 * Paul Fletcher - Fairwinds
 * Azmyth Kaminski - Science Under Nature
 * Bonny Jo Peterson - Industrial Hemp Association of WA
 * Dylan Summers - [Lazarus Naturals](/org/lazarus_naturals/)
+* Caitlein Ryan - THE CANNABIS ALLIANCE
 
-#### 2 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * 💵Vicki Christophersen - Washington CannaBusiness Association
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Kelly McLain - Washington State Department of Agriculture

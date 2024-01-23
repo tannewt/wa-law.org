@@ -7,6 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 01/19/2024 [Gorge News Center](/org/gorge_news_center/) - [A bill from Rep. Paul Harris that would assist the homeless during an emergency approved in committee](https://gorgenewscenter.com/2024/01/19/a-bill-from-rep-paul-harris-that-would-assist-the-homeless-during-an-emergency-approved-in-committee-2/#:~:text=House%20Bill%202172)
+* 01/18/2024 [Gorge News Center](/org/gorge_news_center/) - [A bill from Rep. Paul Harris that would assist the homeless during an emergency approved in committee](https://gorgenewscenter.com/2024/01/18/a-bill-from-rep-paul-harris-that-would-assist-the-homeless-during-an-emergency-approved-in-committee/#:~:text=House%20Bill%202172)
+
 ## Meetings
 ### Tue 01/16 04:00 PM - Housing (HOUS): HB 2172 Vacant state agency property
 #### 12 👍 - Pro

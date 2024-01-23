@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2396/</link>
 		<description>Updates about HB 2396</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 16 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 12:00:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,14 @@
 			<pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-16/First reading, referred to Health Care &amp; Wellness.</guid>
+		</item>
+		<item>
+			<title>👍Melissa Howtopat - Director, Sex Positive Washington</title>
+			<description>Melissa Howtopat signed up to testify Pro.</description>
+			<pubDate>Mon, 22 Jan 2024 12:00:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Melissa/Howtopat/2024-01-22 12:00:16</guid>
 		</item>
 	</channel>
 </rss>

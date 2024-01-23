@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31704&aId=157055&caId=23478&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31704&aId=157055&caId=23478&tId=4)
 
-#### 574 👍 - Pro
+#### 589 👍 - Pro
 Testifying:
 * David Forte - Office of the Insurance Commissioner
 * 💵Amina Abdalla - [Adult Family Home Council](/org/adult_family_home_council/)
@@ -22,6 +22,6 @@ Testifying:
 * Ezibon Njuguna - Brighten Adult Family Home
 * Tienyoung Hua - Sunshine Adult Family Home
 
-#### 40 👎 - Con
+#### 41 👎 - Con
 
 #### 3 ❓ - Other

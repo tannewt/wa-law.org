@@ -100,6 +100,8 @@
 
 ## [HB 2253](/bill/2023-24/hb/2253/) - Community solar 👍1  
 
+## [HB 2333](/bill/2023-24/hb/2333/) - Carbon seq./state lands 👍1  
+
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍2  
 
 ## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍3  

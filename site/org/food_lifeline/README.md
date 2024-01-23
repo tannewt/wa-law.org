@@ -15,7 +15,7 @@
 
 ## [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎1 
 
-## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍2  
+## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍5  
 
 ## [HB 1095](/bill/2023-24/hb/1095/) - Wage replacement 👍1  
 

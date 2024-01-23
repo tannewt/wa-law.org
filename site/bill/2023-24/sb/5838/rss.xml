@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 5838 - Establishing an artificial intelligence task force.</title>
+		<title>SB 5838 - AI task force</title>
 		<link>https://wa-law.org/bill/2023-24/sb/5838/</link>
 		<description>Updates about SB 5838</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 09 Jan 2024 11:57:37 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -123,6 +123,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Ashley/Sutton/2024-01-09 11:57:37</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-22/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

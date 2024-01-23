@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Mon 01/22 01:30 PM - Regulated Substances & Gaming (RSG): HB 2255 Cannabis inversion/diversion
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31758&aId=157594&caId=23575&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31758&aId=157594&caId=23575&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31758&aId=157594&caId=23575&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31758&aId=157594&caId=23575&tId=4)
-
 #### 8 👍 - Pro
 Testifying:
 * 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
@@ -21,7 +15,7 @@ Testifying:
 * Scott Waller - Washington Association for Substance misuse and Violence Prevention (WASAVP)
 * 💵Brooke Davies - Washington CannaBusiness Association
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Joshua Rutherford
 

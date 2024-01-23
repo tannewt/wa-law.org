@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/22/2024 [The Center Square](/org/the_center_square/) - [Washington bill would redefine ‘vaccine’ for state to purchase RSV immunization | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_95b20954-b95b-11ee-8508-53fc25807fdd.html#:~:text=House%20Bill%202157)
+
 ## Meetings
 ### Fri 01/12 08:00 AM - Health Care & Wellness (HCW): HB 2157 Vaccine definition
 #### 367 👍 - Pro

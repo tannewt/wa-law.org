@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/22/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 3: Criminal justice reform, education, tax cuts for housing - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/21/this-week-in-the-senate-week-3-criminal-justice-reform-education-tax-cuts-for-housing/#:~:text=Senate%20Bill%206231)
+
 ## Meetings
 ### Tue 01/23 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6231 Hostile architecture
 Sign up to testify:
@@ -16,6 +19,6 @@ Sign up to testify:
 
 #### 5 👍 - Pro
 
-#### 2 👎 - Con
+#### 95 👎 - Con
 
 #### 0 ❓ - Other

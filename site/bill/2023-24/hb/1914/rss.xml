@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1914/</link>
 		<description>Updates about HB 1914</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 18 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -145,6 +145,13 @@
 			<pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-18/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-22/Referred to Appropriations.</guid>
 		</item>
 	</channel>
 </rss>

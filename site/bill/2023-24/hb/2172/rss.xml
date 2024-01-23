@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2172/</link>
 		<description>Updates about HB 2172</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 18 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -106,6 +106,27 @@
 			<pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-18/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>A bill from Rep. Paul Harris that would assist the homeless during an emergency approved in committee</title>
+			<description>News article &quot;A bill from Rep. Paul Harris that would assist the homeless during an emergency approved in committee&quot; from Gorge News Center.</description>
+			<pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2024/01/18/a-bill-from-rep-paul-harris-that-would-assist-the-homeless-during-an-emergency-approved-in-committee/#:~:text=House%20Bill%202172</guid>
+		</item>
+		<item>
+			<title>A bill from Rep. Paul Harris that would assist the homeless during an emergency approved in committee</title>
+			<description>News article &quot;A bill from Rep. Paul Harris that would assist the homeless during an emergency approved in committee&quot; from Gorge News Center.</description>
+			<pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2024/01/19/a-bill-from-rep-paul-harris-that-would-assist-the-homeless-during-an-emergency-approved-in-committee-2/#:~:text=House%20Bill%202172</guid>
+		</item>
+		<item>
+			<title>Referred to Capital Budget.</title>
+			<description>Referred to Capital Budget.</description>
+			<pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-22/Referred to Capital Budget.</guid>
 		</item>
 	</channel>
 </rss>

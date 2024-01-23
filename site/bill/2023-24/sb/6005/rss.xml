@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6005/</link>
 		<description>Updates about SB 6005</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 07:32:27 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 11:50:30 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -109,6 +109,21 @@
 			<guid isPermaLink="false">testifier/Brad/Boswell/2024-01-21 08:57:45</guid>
 		</item>
 		<item>
+			<title>This Week in the Senate - Week 3: Criminal justice reform, education, tax cuts for housing - Washington Senate Democrats</title>
+			<description>News article &quot;This Week in the Senate - Week 3: Criminal justice reform, education, tax cuts for housing - Washington Senate Democrats&quot; from Senate Democrats.</description>
+			<pubDate>Mon, 22 Jan 2024 00:36:55 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2024/01/21/this-week-in-the-senate-week-3-criminal-justice-reform-education-tax-cuts-for-housing/#:~:text=Senate%20Bill%206005</guid>
+		</item>
+		<item>
+			<title>👎Brendan Flanagan - Consumer Brands Association</title>
+			<description>Brendan Flanagan signed up to testify Con. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/consumer_brands_association/&quot;&gt;Consumer Brands Association&lt;/a&gt;.</description>
+			<pubDate>Mon, 22 Jan 2024 01:22:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Brendan/Flanagan/2024-01-22 01:22:14</guid>
+		</item>
+		<item>
 			<title>👍💵Kristin Ang - Faith Action Network (FAN)</title>
 			<description>Kristin Ang signed up to testify Pro. They are signed up to represent Faith Action Network (FAN). They are a registered lobbyist.</description>
 			<pubDate>Mon, 22 Jan 2024 02:25:41 GMT</pubDate>
@@ -123,6 +138,14 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Andrew/Hackman/2024-01-22 07:32:27</guid>
+		</item>
+		<item>
+			<title>👎Nora Palattao Burnes - Washington Beer and Wine Distributors Assn.</title>
+			<description>Nora Palattao Burnes signed up to testify Con. They are signed up to represent Washington Beer and Wine Distributors Assn..</description>
+			<pubDate>Mon, 22 Jan 2024 11:50:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Nora/Palattao Burnes/2024-01-22 11:50:30</guid>
 		</item>
 	</channel>
 </rss>

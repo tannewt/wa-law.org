@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2001/</link>
 		<description>Updates about HB 2001</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 09:45:32 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 11:50:21 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -141,7 +141,23 @@
 			<guid isPermaLink="false">testifier/Juliana/Roe/2024-01-21 06:08:06</guid>
 		</item>
 		<item>
-			<title>👍Na'Quel Walker - Freedom Project</title>
+			<title>👍Rory Andes - Freedom Project</title>
+			<description>Rory Andes signed up to testify Pro.</description>
+			<pubDate>Mon, 22 Jan 2024 01:25:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rory/Andes/2024-01-22 01:25:59</guid>
+		</item>
+		<item>
+			<title>👍Kehaulani Walker - FOTi and PUA</title>
+			<description>Kehaulani Walker signed up to testify Pro. They are signed up to represent FOTi and PUA.</description>
+			<pubDate>Mon, 22 Jan 2024 01:52:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kehaulani/Walker/2024-01-22 01:52:33</guid>
+		</item>
+		<item>
+			<title>👍Na'Quel Walker - FOTi and PUA</title>
 			<description>Na'Quel Walker signed up to testify Pro.</description>
 			<pubDate>Mon, 22 Jan 2024 08:07:52 GMT</pubDate>
 			<category>testifier</category>
@@ -149,12 +165,28 @@
 			<guid isPermaLink="false">testifier/Na'Quel/Walker/2024-01-22 08:07:52</guid>
 		</item>
 		<item>
-			<title>👍Andrea Shotwell - Freedom Project</title>
+			<title>👍Andrea Shotwell - FOTi and PUA</title>
 			<description>Andrea Shotwell signed up to testify Pro.</description>
 			<pubDate>Mon, 22 Jan 2024 09:45:32 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Andrea/Shotwell/2024-01-22 09:45:32</guid>
+		</item>
+		<item>
+			<title>👍Heather Wehrwood - WA State Coalition Against Domestic Violence</title>
+			<description>Heather Wehrwood signed up to testify Pro. They are signed up to represent WA State Coalition Against Domestic Violence.</description>
+			<pubDate>Mon, 22 Jan 2024 11:49:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Heather/Wehrwood/2024-01-22 11:49:17</guid>
+		</item>
+		<item>
+			<title>👍💵Kelly Olson - Civil Survival Project</title>
+			<description>Kelly Olson signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/civil_survival_project/&quot;&gt;Civil Survival Project&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 22 Jan 2024 11:50:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kelly/Olson/2024-01-22 11:50:21</guid>
 		</item>
 	</channel>
 </rss>

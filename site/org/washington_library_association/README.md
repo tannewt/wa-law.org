@@ -46,3 +46,6 @@
 
 ## [SB 5824](/bill/2023-24/sb/5824/) - Dissolution of libraries 👍1  
 * 👍💵 Carolyn Logue
+
+## [SB 6208](/bill/2023-24/sb/6208/) - Public school materials 👍1  
+* 👍💵 Carolyn Logue

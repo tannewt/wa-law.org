@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/21/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/21/the-house-hot-sheet-for-week-3-of-the-2024-legislative-session/#:~:text=HB%202219)
+
 ## Meetings
 ### Thu 01/25 01:30 PM - Finance (FIN): HB 2219 Affordable housing/tax ex.
 Sign up to testify:
@@ -14,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31703&aId=157040&caId=23549&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31703&aId=157040&caId=23549&tId=4)
 
-#### 104 👍 - Pro
+#### 126 👍 - Pro
 Testifying:
 * Maureen Fife - Tacoma-Pierce Co Habitat for Humanity
 * Michelle Girardot - Habitat for Humanity Spokane

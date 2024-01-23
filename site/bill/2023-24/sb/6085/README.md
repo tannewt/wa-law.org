@@ -14,13 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31750&aId=157209&caId=23351&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31750&aId=157209&caId=23351&tId=4)
 
-#### 23 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * Adam Yoest - Washington State Conference of Mason Contractors
 * 💵Christopher Ellis - Bricklayers & Allied Craftworkers Local 1
 
 #### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Tom Kwieciak - Building Industry Association of WA
+* 💵Patrick Connor - NFIB

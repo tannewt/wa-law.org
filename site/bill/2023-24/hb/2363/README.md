@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/22 01:30 PM - Regulated Substances & Gaming (RSG): HB 2363 Alcohol/pop-up retail sales
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31758&aId=157273&caId=23443&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31758&aId=157273&caId=23443&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31758&aId=157273&caId=23443&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31758&aId=157273&caId=23443&tId=4)
-
-#### 9 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Todd Krivoshein - Page Cellars
 * 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
@@ -24,6 +18,7 @@ Testifying:
 
 #### 1 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Joshua Rutherford
+* Jim Hedrick - [Washington Distillers Guild](/org/washington_distillers_guild/)

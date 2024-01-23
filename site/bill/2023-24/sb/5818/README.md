@@ -8,17 +8,11 @@
 
 ## Meetings
 ### Mon 01/22 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5818 Seashore conserv. exemption
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31761&aId=157384&caId=23310&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31761&aId=157384&caId=23310&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31761&aId=157384&caId=23310&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31761&aId=157384&caId=23310&tId=4)
-
 #### 3 👍 - Pro
 Testifying:
 * Tyson Johnston - [Quinault Indian Nation](/org/quinault_indian_nation/)
 
-#### 383 👎 - Con
+#### 388 👎 - Con
 Testifying:
 * Jeannette Mcchesney
 

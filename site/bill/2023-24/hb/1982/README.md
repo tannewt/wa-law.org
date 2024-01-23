@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/16/2024 [Gorge News Center](/org/gorge_news_center/) - [A bill from Rep. Kevin Waters that would help further rural broadband expansion in Washington unanimously passes committee](https://gorgenewscenter.com/2024/01/16/a-bill-from-rep-kevin-waters-that-would-help-further-rural-broadband-expansion-in-washington-unanimously-passes-committee/#:~:text=House%20Bill%201982)
+* 01/09/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. Waters introduces bipartisan legislation that would help further rural broadband expansion](https://gorgenewscenter.com/2024/01/09/rep-waters-introduces-bipartisan-legislation-that-would-help-further-rural-broadband-expansion/#:~:text=House%20Bill%201982)
+
 ## Meetings
 ### Tue 01/09 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1982 Broadband loans & grants
 #### 19 👍 - Pro

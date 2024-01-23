@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1798/</link>
 		<description>Updates about HB 1798</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 20 Jan 2024 01:59:57 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -202,6 +202,13 @@
 			<pubDate>Sat, 20 Jan 2024 01:59:57 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.quakervoicewa.org/2024-quaker-voice-priorities/#:~:text=HB%201798</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-22/Referred to Appropriations.</guid>
 		</item>
 	</channel>
 </rss>

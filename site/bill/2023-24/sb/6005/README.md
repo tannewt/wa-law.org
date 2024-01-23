@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/22/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 3: Criminal justice reform, education, tax cuts for housing - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/21/this-week-in-the-senate-week-3-criminal-justice-reform-education-tax-cuts-for-housing/#:~:text=Senate%20Bill%206005)
 * 01/20/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Quaker Voice Priorities — Quaker Voice](https://www.quakervoicewa.org/2024-quaker-voice-priorities/#:~:text=SB%206005)
 
 ## Meetings
@@ -17,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31724&aId=157102&caId=23355&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31724&aId=157102&caId=23355&tId=4)
 
-#### 461 👍 - Pro
+#### 574 👍 - Pro
 Testifying:
 * Melissa Stuart - Redmond City Councilmember
 * Kate Bailey - The Association of Plastic Recyclers (APR)
@@ -28,10 +29,12 @@ Testifying:
 * Lynne Robinson - Mayor of the City of Bellevue
 * 💵Kristin Ang - Faith Action Network (FAN)
 
-#### 10 👎 - Con
+#### 20 👎 - Con
 Testifying:
 * Terry Grill - Sealed Air Corporation
 * 💵Brad Boswell - [Washington Beverage Association](/org/washington_beverage_association/)
+* Brendan Flanagan - [Consumer Brands Association](/org/consumer_brands_association/)
+* Nora Palattao Burnes - Washington Beer and Wine Distributors Assn.
 
 #### 1 ❓ - Other
 Testifying:

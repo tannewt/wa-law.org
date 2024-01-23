@@ -69,6 +69,10 @@
 
 ## [HB 2253](/bill/2023-24/hb/2253/) - Community solar 👍1  
 
+## [HB 2290](/bill/2023-24/hb/2290/) - Untreated sewage discharges   ❓1
+
+## [HB 2376](/bill/2023-24/hb/2376/) - CCA public entity oblig.  👎1 
+
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial  👎1 
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  

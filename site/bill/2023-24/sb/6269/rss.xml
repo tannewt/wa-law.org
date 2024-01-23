@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6269/</link>
 		<description>Updates about SB 6269</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 10:14:26 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 10:47:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -31,7 +31,7 @@
 			<guid isPermaLink="false">testifier/William/Cavecche/2024-01-19 02:57:16</guid>
 		</item>
 		<item>
-			<title>👎Theresa Schrempp - King County Elections</title>
+			<title>👎Theresa Schrempp - Latino Community Fund of Washington State</title>
 			<description>Theresa Schrempp signed up to testify Con.</description>
 			<pubDate>Sun, 21 Jan 2024 05:15:43 GMT</pubDate>
 			<category>testifier</category>
@@ -39,12 +39,20 @@
 			<guid isPermaLink="false">testifier/Theresa/Schrempp/2024-01-21 05:15:43</guid>
 		</item>
 		<item>
-			<title>👎Kim Slinger - King County Elections</title>
+			<title>👎Kim Slinger - Latino Community Fund of Washington State</title>
 			<description>Kim Slinger signed up to testify Con.</description>
 			<pubDate>Mon, 22 Jan 2024 10:14:26 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Kim/Slinger/2024-01-22 10:14:26</guid>
+		</item>
+		<item>
+			<title>👍Jake García - Latino Community Fund of Washington State</title>
+			<description>Jake García signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/latino_community_fund_of_washington_state/&quot;&gt;Latino Community Fund of Washington State&lt;/a&gt;.</description>
+			<pubDate>Mon, 22 Jan 2024 10:47:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jake/García/2024-01-22 10:47:04</guid>
 		</item>
 	</channel>
 </rss>

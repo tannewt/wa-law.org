@@ -17,10 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31773&aId=157347&caId=23470&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31773&aId=157347&caId=23470&tId=4)
 
-#### 64 👍 - Pro
+#### 76 👍 - Pro
 Testifying:
 * Josh Kerns - [Spokane County](/org/spokane_county/)
 * Al French - Spokane county Commissioner
+* Michael Bissell - Campbell & Bissell, PLLC
 * Al Merkel - Councilmember, City of Spokane Valley
 * Terri Cooper - City of Medical Lake
 * 💵Lukas Garcia - Greater Spokane Valley Chamber of Commerce

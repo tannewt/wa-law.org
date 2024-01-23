@@ -21,4 +21,7 @@ Sign up to testify:
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Patrick Connor - NFIB
+* John Mangan - [American Council of Life Insurers](/org/american_council_of_life_insurers/)

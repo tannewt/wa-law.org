@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/11/2024 [Gorge News Center](/org/gorge_news_center/) - [Public hearing Friday on Rep. Dent’s bill to create wildfire prevention partnerships between landowners and firefighters](https://gorgenewscenter.com/2024/01/11/public-hearing-friday-on-rep-dents-bill-to-create-wildfire-prevention-partnerships-between-landowners-and-firefighters/#:~:text=House%20Bill%201971)
+
 ## Meetings
 ### Fri 01/12 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1971 Rangeland fire pilot
 #### 31 👍 - Pro

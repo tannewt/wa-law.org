@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31729&aId=157128&caId=23466&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31729&aId=157128&caId=23466&tId=4)
 
-#### 60 👍 - Pro
+#### 66 👍 - Pro
 Testifying:
 * Tom Kwieciak - Building Industry Association of WA
 * Nick Massi - Rotschy Inc. / SW WA Contractors Assoc.
