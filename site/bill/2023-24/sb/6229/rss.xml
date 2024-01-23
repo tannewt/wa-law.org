@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6229/</link>
 		<description>Updates about SB 6229</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 15 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2024 08:12:30 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,22 @@
 			<pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-15/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>👍💵Justin Leighton - Washington State Transit Association</title>
+			<description>Justin Leighton signed up to testify Pro. They are signed up to represent Washington State Transit Association. They are a registered lobbyist.</description>
+			<pubDate>Mon, 22 Jan 2024 07:57:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Justin/Leighton/2024-01-22 07:57:30</guid>
+		</item>
+		<item>
+			<title>👍💵Justin Leighton - Washington State Transit Association</title>
+			<description>Justin Leighton signed up to testify Pro. They are signed up to represent Washington State Transit Association. They are a registered lobbyist.</description>
+			<pubDate>Tue, 23 Jan 2024 08:12:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Justin/Leighton/2024-01-23 08:12:30</guid>
 		</item>
 	</channel>
 </rss>

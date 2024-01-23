@@ -264,7 +264,7 @@
 ## [HB 2044](/bill/2023-24/hb/2044/) - Standardizing limitations on voter-approved property tax levies. 👍1  
 * 👍💵 Candice Bock
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes. 👍1  
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍1  
 * 👍💵 Carl Schroeder
 
 ## [HB 2066](/bill/2023-24/hb/2066/) - Health provider contracting 👍1  
@@ -296,9 +296,13 @@
 ## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg.   ❓1
 * ❓💵 Carl Schroeder
 
+## [HB 2152](/bill/2023-24/hb/2152/) - Criminal insanity terms   ❓1
+* ❓💵 Lindsey Hueer
+
 ## [HB 2153](/bill/2023-24/hb/2153/) - Catalytic converter theft 👍1  
 
-## [HB 2160](/bill/2023-24/hb/2160/) - Housing development  👎1 
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development  👎2 
+* 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 
 ## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities 👍1  
@@ -312,8 +316,13 @@
 ## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍1  
 * 👍💵 Lindsey Hueer
 
+## [HB 2252](/bill/2023-24/hb/2252/) - Small businesses/residential   ❓1
+* ❓💵 Carl Schroeder
+
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 * 👍💵 Carl Schroeder
+
+## [HB 2296](/bill/2023-24/hb/2296/) - Comprehensive plan revisions 👍1  
 
 ## [HB 2307](/bill/2023-24/hb/2307/) - Public records reviews 👍1  
 * 👍💵 Candice Bock
@@ -321,16 +330,24 @@
 ## [HB 2308](/bill/2023-24/hb/2308/) - Existing structures/housing 👍1  
 * 👍💵 Carl Schroeder
 
+## [HB 2311](/bill/2023-24/hb/2311/) - First responder wellness 👍1  
+
 ## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
 
 ## [HB 2321](/bill/2023-24/hb/2321/) - Middle housing requirements   ❓1
 * ❓💵 Carl Schroeder
+
+## [HB 2330](/bill/2023-24/hb/2330/) - Wildfire protection 👍1  
 
 ## [HB 2354](/bill/2023-24/hb/2354/) - Tax increment areas  👎1 
 * 👎💵 Candice Bock
 
 ## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras 👍1  
 * 👍 Brandy DeLange
+
+## [HB 2390](/bill/2023-24/hb/2390/) - Eluding & resisting arrest 👍1  
+
+## [HB 2394](/bill/2023-24/hb/2394/) - SEPA/trails and paths 👍1  
 
 ## [SB 5001](/bill/2023-24/sb/5001/) - Public facility districts 👍1  
 
@@ -446,6 +463,9 @@
 ## [SB 5368](/bill/2023-24/sb/5368/) - Stay-at-work program 👍2  
 
 ## [SB 5374](/bill/2023-24/sb/5374/) - County critical areas 👍1  
+
+## [SB 5383](/bill/2023-24/sb/5383/) - Pedestrians/roadways   ❓1
+* ❓ Brandy DeLange
 
 ## [SB 5412](/bill/2023-24/sb/5412/) - Land use permitting/local 👍3  
 * 👍💵 Carl Schroeder
@@ -594,6 +614,9 @@
 ## [SB 5993](/bill/2023-24/sb/5993/) - Voter education   ❓1
 * ❓💵 Lindsey Hueer
 
+## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
+* 👍💵 Carl Schroeder
+
 ## [SB 6015](/bill/2023-24/sb/6015/) - Residential parking  👎1 
 * 👎💵 Carl Schroeder
 
@@ -611,16 +634,30 @@
 
 ## [SB 6146](/bill/2023-24/sb/6146/) - Tribal warrants   ❓1
 
+## [SB 6150](/bill/2023-24/sb/6150/) - Comprehensive plan revisions 👍1  
+
+## [SB 6152](/bill/2023-24/sb/6152/) - Housing needs gap 👍1  
+* 👍💵 Carl Schroeder
+
 ## [SB 6158](/bill/2023-24/sb/6158/) - Public facilities districts 👍1  
 
 ## [SB 6167](/bill/2023-24/sb/6167/) - Local government procurement 👍1  
 * 👍 Brandy DeLange
+
+## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management   ❓1
+* ❓💵 Carl Schroeder
+
+## [SB 6192](/bill/2023-24/sb/6192/) - Construction change orders   ❓1
+* ❓ Brandy DeLange
 
 ## [SB 6202](/bill/2023-24/sb/6202/) - Tourism promotion exemptions 👍1  
 * 👍💵 Candice Bock
 
 ## [SB 6230](/bill/2023-24/sb/6230/) - Tax increment areas  👎1 
 * 👎💵 Candice Bock
+
+## [SB 6231](/bill/2023-24/sb/6231/) - Hostile architecture   ❓1
+* ❓💵 Carl Schroeder
 
 ## [SB 6242](/bill/2023-24/sb/6242/) - Law enforcement training 👍1  
 * 👍💵 Lindsey Hueer

@@ -21,17 +21,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31717&aId=157728&caId=23615&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31717&aId=157728&caId=23615&tId=4)
 
-#### 420 👍 - Pro
+#### 882 👍 - Pro
 Testifying:
 * Stacey Valenzuela
+* 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* Rebekah Gardea - QLaw Foundation of Washington
 * J Kelley Rinehart
 * 💵Kristin Ang - Faith Action Network (FAN)
 
-#### 10 👎 - Con
+#### 104 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
+* Bruce Becker
+* Carl Haglund - Columbia modern living
 * Jeffrey Pack - Washington Citizens Against Unfair Taxes
+* Mike Morris
 * William Shadbolt - [Washington Business Properties Association](/org/washington_business_properties_association/)
+* Constance Nelson
+* 💵Mike Hoover - [Detente Management](/org/detente_management/)
 
 #### 5 ❓ - Other
 

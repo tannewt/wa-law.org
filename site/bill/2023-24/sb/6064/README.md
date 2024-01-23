@@ -17,20 +17,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31722&aId=157096&caId=23381&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31722&aId=157096&caId=23381&tId=4)
 
-#### 48 👍 - Pro
+#### 55 👍 - Pro
 Testifying:
 * Whitney Bowerman
 * Julie McCabe - Seattle Humane Socity
 * 💵Susan Riggs - ASPCA
 * Kim Schulze
 
-#### 192 👎 - Con
+#### 216 👎 - Con
 Testifying:
 * Constance Nelson
 * Barbara Korducki
 * Siddhant Bahadur
 * Donna Walters
 * Marlene Scheffer
+* Bruce Becker
 * William Shadbolt - [Washington Business Properties Association](/org/washington_business_properties_association/)
+* Mike Morris
 
 #### 0 ❓ - Other

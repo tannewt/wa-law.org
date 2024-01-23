@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6064/</link>
 		<description>Updates about SB 6064</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 12:48:40 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2024 08:20:08 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -71,6 +71,14 @@
 			<guid isPermaLink="false">testifier/Whitney/Bowerman/2024-01-22 01:56:43</guid>
 		</item>
 		<item>
+			<title>👎Bruce Becker - ASPCA</title>
+			<description>Bruce Becker signed up to testify Con.</description>
+			<pubDate>Mon, 22 Jan 2024 05:30:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Bruce/Becker/2024-01-22 05:30:46</guid>
+		</item>
+		<item>
 			<title>👍Julie McCabe - Seattle Humane Socity</title>
 			<description>Julie McCabe signed up to testify Pro. They are signed up to represent Seattle Humane Socity.</description>
 			<pubDate>Mon, 22 Jan 2024 09:13:04 GMT</pubDate>
@@ -101,6 +109,14 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/William/Shadbolt/2024-01-22 12:48:40</guid>
+		</item>
+		<item>
+			<title>👎Mike Morris - Washington Business Properties Association</title>
+			<description>Mike Morris signed up to testify Con.</description>
+			<pubDate>Tue, 23 Jan 2024 08:20:08 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Mike/Morris/2024-01-23 08:20:08</guid>
 		</item>
 	</channel>
 </rss>

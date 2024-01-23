@@ -41,7 +41,7 @@
 ## [HB 1933](/bill/2023-24/hb/1933/) - Supporting the servicing and right to repair of certain products with digital electronics in a secure and reliable manner. 👍1  
 * 👍💵 Heather Trim
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes. 👍1  
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍1  
 * 👍💵 Heather Trim
 
 ## [HB 2068](/bill/2023-24/hb/2068/) - Fashion/environmental impact 👍1  
@@ -112,6 +112,9 @@
 ## [SB 5844](/bill/2023-24/sb/5844/) - Dilapidated RV disposal   ❓1
 
 ## [SB 5965](/bill/2023-24/sb/5965/) - Fashion/environmental impact 👍1  
+
+## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
+* 👍💵 Heather Trim
 
 ## [SB 6163](/bill/2023-24/sb/6163/) - Biosolids 👍1  
 * 👍💵 Heather Trim

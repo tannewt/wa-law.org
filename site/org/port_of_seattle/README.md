@@ -27,7 +27,7 @@
 
 ## [HB 2039](/bill/2023-24/hb/2039/) - Modifying the appeals process for environmental and land use matters. 👍1  
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes. 👍1  
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍1  
 
 ## [HB 2076](/bill/2023-24/hb/2076/) - Addressing crimes involving human trafficking or sexual exploitation. 👍1  
 
@@ -46,6 +46,8 @@
 ## [HB 2286](/bill/2023-24/hb/2286/) - Salmon rec. capital grants 👍1  
 
 ## [HB 2289](/bill/2023-24/hb/2289/) - Salmon recovery projects/tax 👍1  
+
+## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management 👍1  
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 
@@ -70,6 +72,8 @@
 ## [SB 5955](/bill/2023-24/sb/5955/) - Large port districts  👎1 
 * 👎 John Flanagan
 
+## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
+
 ## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍1  
 
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development 👍1  
@@ -83,6 +87,11 @@
 * ❓ John Flanagan
 
 ## [SB 6168](/bill/2023-24/sb/6168/) - International leadership 👍1  
+* 👍 John Flanagan
+
+## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management 👍1  
+
+## [SB 6230](/bill/2023-24/sb/6230/) - Tax increment areas 👍1  
 * 👍 John Flanagan
 
 ## [SJM 8009](/bill/2023-24/sjm/8009/) - Harbor maintenance tax 👍1  

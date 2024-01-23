@@ -4,6 +4,8 @@
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍2  
 
+## [HB 1655](/bill/2023-24/hb/1655/) - Provider contract comp. 👍1  
+
 ## [HB 1917](/bill/2023-24/hb/1917/) - Physician assistant compact 👍2  
 * 👍 Joshua Lumsden
 
@@ -11,7 +13,7 @@
 
 ## [HB 1972](/bill/2023-24/hb/1972/) - Physicians health prg. fees 👍1  
 
-## [HB 2041](/bill/2023-24/hb/2041/) - Concerning physician assistant collaborative practice. 👍2  
+## [HB 2041](/bill/2023-24/hb/2041/) - Physician assistant practice 👍2  
 * 👍 Paul Surette
 
 ## [HB 2122](/bill/2023-24/hb/2122/) - Physician wellness programs 👍1  

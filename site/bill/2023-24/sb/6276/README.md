@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31725&aId=157692&caId=23593&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31725&aId=157692&caId=23593&tId=4)
 
-#### 7 👍 - Pro
+#### 84 👍 - Pro
+Testifying:
+* 💵Dan Wood - WA State Dairy Federation
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Charlie Brown - Consumer Technology Association
 * Eric Wareham - North American Equipment Dealers Association
+* Dustin Brighton - Repair Done Right Coalition
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

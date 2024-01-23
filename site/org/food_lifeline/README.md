@@ -91,7 +91,7 @@
 
 ## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍1  
 
-## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management 👍1  
+## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management 👍2  
 * 👍💵 Aaron Czyzewski
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
@@ -142,5 +142,5 @@
 ## [SB 6112](/bill/2023-24/sb/6112/) - Donated food items/B&O tax   ❓1
 * ❓💵 Aaron Czyzewski
 
-## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management 👍1  
+## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management 👍2  
 * 👍💵 Aaron Czyzewski

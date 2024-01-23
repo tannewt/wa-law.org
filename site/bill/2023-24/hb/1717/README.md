@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Tue 01/23 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SHB 1717 Associate development orgs.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31727&aId=157167&caId=23328&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31727&aId=157167&caId=23328&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31727&aId=157167&caId=23328&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31727&aId=157167&caId=23328&tId=4)
-
-#### 30 👍 - Pro
+#### 67 👍 - Pro
 Testifying:
 * Nathan Daum - [City of Shoreline](/org/city_of_shoreline/)
 * 💵Emily Shay - Association of Washington Businesses

@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Mon 01/22 04:00 PM - Appropriations (APP): HB 2316 PERS/certain bus drivers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31716&aId=157111&caId=23445&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31716&aId=157111&caId=23445&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31716&aId=157111&caId=23445&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31716&aId=157111&caId=23445&tId=4)
-
 #### 4 👍 - Pro
 Testifying:
 * Robert Driskell - Teamsters Local 589

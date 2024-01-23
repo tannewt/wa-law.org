@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6246/</link>
 		<description>Updates about SB 6246</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 16 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2024 07:52:57 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,30 @@
 			<pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-16/First reading, referred to Law &amp; Justice.</guid>
+		</item>
+		<item>
+			<title>❓Kari Reardon - WDA/WACDL</title>
+			<description>Kari Reardon signed up to testify Other. They are signed up to represent WDA/WACDL.</description>
+			<pubDate>Mon, 22 Jan 2024 08:18:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Kari/Reardon/2024-01-22 08:18:44</guid>
+		</item>
+		<item>
+			<title>👎💵Aoibheann Cline - National Rifle Association</title>
+			<description>Aoibheann Cline signed up to testify Con. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/national_rifle_association_of_america/&quot;&gt;National Rifle Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 22 Jan 2024 09:16:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Aoibheann/Cline/2024-01-22 09:16:02</guid>
+		</item>
+		<item>
+			<title>👍Kimberly Wyatt - King County Prosecuting Attorney's Office</title>
+			<description>Kimberly Wyatt signed up to testify Pro. They are signed up to represent King County Prosecuting Attorney's Office.</description>
+			<pubDate>Tue, 23 Jan 2024 07:52:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kimberly/Wyatt/2024-01-23 07:52:57</guid>
 		</item>
 	</channel>
 </rss>

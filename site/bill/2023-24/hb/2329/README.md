@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31708&aId=157048&caId=23521&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31708&aId=157048&caId=23521&tId=4)
 
-#### 6 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Dan Wise - Catholic Community Services
+* Flo Beaumon - [Catholic Community Services of Western Washington](/org/catholic_community_services_of_western_washington/)
+* Fawn Schott - Volunteers of America Eastern WA & Northern ID
+* Andrew Davis - Office of the Insurance Commissioner
 
 #### 0 👎 - Con
 

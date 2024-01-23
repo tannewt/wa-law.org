@@ -1,0 +1,192 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 2464](/bill/2023-24/hb/2464/) > [Original Bill](/bill/2023-24/hb/2464/1/)
+
+# HB 2464 - Concerning the development of new manufactured/mobile homes and new manufactured/mobile home communities.
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/2464.pdf)
+
+## Section 1
+1. The legislature finds that:
+
+    a. It is the policy of this state to encourage affordable homeownership, including manufactured/mobile home community living.
+
+    b. Manufactured/mobile home communities provide a significant source of homeownership opportunities for Washington residents. However, the increasing closure and conversion of manufactured/mobile home communities to other uses, combined with increasing manufactured/mobile home lot rents, low vacancy rates in existing manufactured/mobile home communities, and the extremely high cost of moving homes when manufactured/mobile home communities close, increasingly justifies incentives to make manufactured/mobile home community living more secure for tenants of manufactured/mobile home lots.
+
+    c. Many tenants who reside in manufactured/mobile home communities are part of low-income households and senior citizens and are, therefore, those residents most in need of reasonable security in the siting of their manufactured/mobile homes because such tenants experience adverse impacts on their health, safety, and welfare when forced to move due to closure, change of use, or discontinuance of manufactured/mobile home communities.
+
+2. The legislature finds that a state of emergency exists within Washington state with regard to a shortage of housing in many parts of the state. As a result, it is the intent of the legislature to establish a pilot program to authorize counties to allow new manufactured/mobile home communities in areas outside of urban growth areas, for the purpose of providing affordable housing, if the areas are currently served by utilities sufficient to allow the communities to function without additional utility resources.
+
+## Section 2
+A county required or choosing to plan under RCW 36.70A.040 may establish a process as part of its urban growth areas, that are designated under RCW 36.70A.110, for reviewing proposals to authorize new fully contained communities or manufactured/mobile home communities located outside of the initially designated urban growth areas.
+
+1. A new fully contained community or manufactured/mobile home community may be approved in a county planning under this chapter if criteria including but not limited to the following are met:
+
+    a. New infrastructure is provided for and impact fees are established consistent with the requirements of RCW 82.02.050;
+
+    b. Transit-oriented site planning and traffic demand management programs are implemented;
+
+    c. Buffers are provided between the new  communities and adjacent urban development;
+
+    d. A mix of uses is provided to offer jobs, housing, and services to the residents of the new community;
+
+    e. Affordable housing is provided within the new community for a broad range of income levels;
+
+    f. Environmental protection has been addressed and provided for;
+
+    g. Development regulations are established to ensure urban growth will not occur in adjacent nonurban areas;
+
+    h. Provision is made to mitigate impacts on designated agricultural lands, forestlands, and mineral resource lands;
+
+        i. The plan for the new  community is consistent with the development regulations established for the protection of critical areas by the county pursuant to RCW 36.70A.170.
+
+2. [Empty]
+
+    a. New fully contained communities may be approved outside established urban growth areas only if a county reserves a portion of the twenty-year population projection and offsets the urban growth area accordingly for allocation to new fully contained communities that meet the requirements of this chapter. Any county electing to establish a new community reserve shall do so no more often than once every five years as a part of the designation or review of urban growth areas required by this chapter. The new community reserve shall be allocated on a project-by-project basis, only after specific project approval procedures have been adopted pursuant to this chapter as a development regulation. When a new community reserve is established, urban growth areas designated pursuant to this chapter shall accommodate the unreserved portion of the twenty-year population projection. This subsection (2)(a) does not apply to proposals for new manufactured/mobile home communities under this section.
+
+    b. Final approval of an application for a new fully contained community or manufactured/mobile home community shall be considered an adopted amendment to the comprehensive plan prepared pursuant to RCW 36.70A.070 designating the new fully contained community or manufactured/mobile home community as an urban growth area.
+
+3. For the purposes of this section, "manufactured/mobile home community" has the same meaning as in RCW 59.20.030.
+
+## Section 3
+1. Each county that is required or chooses to plan under RCW 36.70A.040 shall designate an urban growth area or areas within which urban growth shall be encouraged and outside of which growth can occur only if it is not urban in nature. Each city that is located in such a county shall be included within an urban growth area. An urban growth area may include more than a single city. An urban growth area may include territory that is located outside of a city only if such territory already is characterized by urban growth whether or not the urban growth area includes a city, or is adjacent to territory already characterized by urban growth, or is a designated new fully contained community or manufactured/mobile home community as defined by RCW 36.70A.350. When a federally recognized Indian tribe whose reservation or ceded lands lie within the county or city has voluntarily chosen to participate in the planning process pursuant to RCW 36.70A.040, the county or city and the tribe shall coordinate their planning efforts for any areas planned for urban growth consistent with the terms outlined in the memorandum of agreement provided for in RCW 36.70A.040(8).
+
+2. Based upon the growth management population projection made for the county by the office of financial management, the county and each city within the county shall include areas and densities sufficient to permit the urban growth that is projected to occur in the county or city for the succeeding twenty-year period, except for those urban growth areas contained totally within a national historical reserve. As part of this planning process, each city within the county must include areas sufficient to accommodate the broad range of needs and uses that will accompany the projected urban growth including, as appropriate, medical, governmental, institutional, commercial, service, retail, and other nonresidential uses.
+
+Each urban growth area shall permit urban densities and shall include greenbelt and open space areas. In the case of urban growth areas contained totally within a national historical reserve, the city may restrict densities, intensities, and forms of urban growth as determined to be necessary and appropriate to protect the physical, cultural, or historic integrity of the reserve. An urban growth area determination may include a reasonable land market supply factor and shall permit a range of urban densities and uses. In determining this market factor, cities and counties may consider local circumstances. Cities and counties have discretion in their comprehensive plans to make many choices about accommodating growth.
+
+Within one year of July 1, 1990, each county that as of June 1, 1991, was required or chose to plan under RCW 36.70A.040, shall begin consulting with each city located within its boundaries and each city shall propose the location of an urban growth area. Within sixty days of the date the county legislative authority of a county adopts its resolution of intention or of certification by the office of financial management, all other counties that are required or choose to plan under RCW 36.70A.040 shall begin this consultation with each city located within its boundaries. The county shall attempt to reach agreement with each city on the location of an urban growth area within which the city is located. If such an agreement is not reached with each city located within the urban growth area, the county shall justify in writing why it so designated the area an urban growth area. A city may object formally with the department over the designation of the urban growth area within which it is located. Where appropriate, the department shall attempt to resolve the conflicts, including the use of mediation services.
+
+3. Urban growth should be located first in areas already characterized by urban growth that have adequate existing public facility and service capacities to serve such development, second in areas already characterized by urban growth that will be served adequately by a combination of both existing public facilities and services and any additional needed public facilities and services that are provided by either public or private sources, and third in the remaining portions of the urban growth areas. Urban growth may also be located in designated new fully contained communities or manufactured/mobile home communities as defined by RCW 36.70A.350.
+
+4. In general, cities are the units of local government most appropriate to provide urban governmental services. In general, it is not appropriate that urban governmental services be extended to or expanded in rural areas except in those limited circumstances shown to be necessary to protect basic public health and safety and the environment and when such services are financially supportable at rural densities and do not permit urban development.
+
+5. On or before October 1, 1993, each county that was initially required to plan under RCW 36.70A.040(1) shall adopt development regulations designating interim urban growth areas under this chapter. Within three years and three months of the date the county legislative authority of a county adopts its resolution of intention or of certification by the office of financial management, all other counties that are required or choose to plan under RCW 36.70A.040 shall adopt development regulations designating interim urban growth areas under this chapter. Adoption of the interim urban growth areas may only occur after public notice; public hearing; and compliance with the state environmental policy act, chapter 43.21C RCW, and under this section. Such action may be appealed to the growth management hearings board under RCW 36.70A.280. Final urban growth areas shall be adopted at the time of comprehensive plan adoption under this chapter.
+
+6. Each county shall include designations of urban growth areas in its comprehensive plan.
+
+7. An urban growth area designated in accordance with this section may include within its boundaries urban service areas or potential annexation areas designated for specific cities or towns within the county.
+
+8. [Empty]
+
+    a. Except as provided in (b) of this subsection, the expansion of an urban growth area is prohibited into the one hundred year floodplain of any river or river segment that: (i) Is located west of the crest of the Cascade mountains; and (ii) has a mean annual flow of one thousand or more cubic feet per second as determined by the department of ecology.
+
+    b. Subsection (8)(a) of this section does not apply to:
+
+        i. Urban growth areas that are fully contained within a floodplain and lack adjacent buildable areas outside the floodplain;
+
+        ii. Urban growth areas where expansions are precluded outside floodplains because:
+
+(A) Urban governmental services cannot be physically provided to serve areas outside the floodplain; or
+
+(B) Expansions outside the floodplain would require a river or estuary crossing to access the expansion; or
+
+        iii. Urban growth area expansions where:
+
+(A) Public facilities already exist within the floodplain and the expansion of an existing public facility is only possible on the land to be included in the urban growth area and located within the floodplain; or
+
+(B) Urban development already exists within a floodplain as of July 26, 2009, and is adjacent to, but outside of, the urban growth area, and the expansion of the urban growth area is necessary to include such urban development within the urban growth area; or
+
+(C) The land is owned by a jurisdiction planning under this chapter or the rights to the development of the land have been permanently extinguished, and the following criteria are met:
+
+(I) The permissible use of the land is limited to one of the following: Outdoor recreation; environmentally beneficial projects, including but not limited to habitat enhancement or environmental restoration; stormwater facilities; flood control facilities; or underground conveyances; and
+
+(II) The development and use of such facilities or projects will not decrease flood storage, increase stormwater runoff, discharge pollutants to fresh or salt waters during normal operations or floods, or increase hazards to people and property.
+
+    c. For the purposes of this subsection (8), "one hundred year floodplain" means the same as "special flood hazard area" as set forth in WAC 173-158-040 as it exists on July 26, 2009.
+
+9. If a county, city, or utility has adopted a capital facility plan or utilities element to provide sewer service within the urban growth areas during the twenty-year planning period, nothing in this chapter obligates counties, cities, or utilities to install sanitary sewer systems to properties within urban growth areas designated under subsection (2) of this section by the end of the twenty-year planning period when those properties:
+
+    a. [Empty]
+
+        i. Have existing, functioning, nonpolluting on-site sewage systems;
+
+        ii. Have a periodic inspection program by a public agency to verify the on-site sewage systems function properly and do not pollute surface or groundwater; and
+
+        iii. Have no redevelopment capacity; or
+
+    b. Do not require sewer service because development densities are limited due to wetlands, floodplains, fish and wildlife habitats, or geological hazards.
+
+## Section 4
+The initial effective date of an action that expands an urban growth area designated under RCW 36.70A.110, removes the designation of agricultural, forest, or mineral resource lands designated under RCW 36.70A.170, creates or expands a limited area of more intensive rural development designated under RCW 36.70A.070(5)(d), establishes a new fully contained community or manufactured/mobile home community under RCW 36.70A.350, or creates or expands a master planned resort designated under RCW 36.70A.360, is after the latest of the following dates:
+
+1. 60 days after the date of publication of notice of adoption of the comprehensive plan, development regulation, or amendment to the plan or regulation, implementing the action, as provided in RCW 36.70A.290(2); or
+
+2. If a petition for review to the growth management hearings board is timely filed, upon issuance of the board's final order.
+
+## Section 5
+1. A code city may not adopt an ordinance that has the effect, directly or indirectly, of discriminating against consumers' choices in the placement or use of a home in such a manner that is not equally applicable to all homes. Homes built to 42 U.S.C. Sec. 5401-5403 standards (as amended in 2000) must be regulated for the purposes of siting in the same manner as site built homes, factory built homes, or homes built to any other state construction or local design standard. However, except as provided in subsection (2) of this section, any code city may require that:
+
+    a. A manufactured home be a new manufactured home;
+
+    b. The manufactured home be set upon a permanent foundation, as specified by the manufacturer, and that the space from the bottom of the home to the ground be enclosed by concrete or an approved concrete product which can be either load bearing or decorative;
+
+    c. The manufactured home comply with all local design standards applicable to all other homes within the neighborhood in which the manufactured home is to be located;
+
+    d. The home is thermally equivalent to the state energy code; and
+
+    e. The manufactured home otherwise meets all other requirements for a designated manufactured home as defined in RCW 35.63.160.
+
+A code city with a population of one hundred thirty-five thousand or more may choose to designate its building official as the person responsible for issuing all permits, including department of labor and industries permits issued under chapter 43.22 RCW in accordance with an interlocal agreement under chapter 39.34 RCW, for alterations, remodeling, or expansion of manufactured housing located within the city limits under this section.
+
+2. [Empty]
+
+    a. A code city may not adopt an ordinance that has the effect, directly or indirectly, of restricting the location of manufactured/mobile homes in manufactured/mobile home communities that were legally in existence before June 12, 2008, based exclusively on the age or dimensions of the manufactured/mobile home.
+
+    b. A code city may not prohibit the siting of a manufactured/mobile home on an existing lot based solely on lack of compliance with existing separation and setback requirements that regulate the distance between homes.
+
+    c. A code city is not precluded by (a) or (b) of this subsection from restricting the location of a manufactured/mobile home in manufactured/mobile home communities for any other reason including, but not limited to, failure to comply with fire, safety, or other local ordinances or state laws related to manufactured/mobile homes.
+
+3. Except as provided under subsection (4) of this section, a code city may not adopt an ordinance that has the effect, directly or indirectly, of preventing the entry or requiring the removal of a recreational vehicle used as a primary residence in manufactured/mobile home communities.
+
+4. Subsection (3) of this section does not apply to any local ordinance or state law that:
+
+    a. Imposes fire, safety, or other regulations related to recreational vehicles;
+
+    b. Requires utility hookups in manufactured/mobile home communities to meet state or federal building code standards for manufactured/mobile home communities or recreational vehicle parks; or
+
+    c. Includes both of the following provisions:
+
+        i. A recreational vehicle must contain at least one internal toilet and at least one internal shower; and
+
+        ii. If the requirement in (c)(i) of this subsection is not met, a manufactured/mobile home community must provide toilets and showers.
+
+5. A code city must act in good faith to approve the addition of manufactured/mobile homes or park models within manufactured/mobile home communities. Except as expressly preempted by any state agency's requirements related to the siting of manufactured/mobile homes or park models, the siting of a new or used manufactured/mobile home or park model of any size and its appurtenances must be authorized on a manufactured/mobile home lot within a manufactured/mobile home community unless the siting of the manufactured/mobile home or park model expressly violates health and safety standards.
+
+6. For the purposes of this section, "manufactured/mobile home community" and "park model" have the same meanings as in RCW 59.20.030.
+
+7. This section does not override any legally recorded covenants or deed restrictions of record.
+
+8. This section does not affect the authority granted under chapter 43.22 RCW.
+
+## Section 6
+(1) A city or town may not adopt an ordinance that has the effect, directly or indirectly, of discriminating against consumers' choices in the placement or use of a home in such a manner that is not equally applicable to all homes. Homes built to 42 U.S.C. Sec. 5401-5403 standards (as amended in 2000) must be regulated for the purposes of siting in the same manner as site built homes, factory built homes, or homes built to any other state construction or local design standard. However, except as provided in subsection (2) of this section, any city or town may require that:
+
+## Section 7
+1. A county may not adopt an ordinance that has the effect, directly or indirectly, of discriminating against consumers' choices in the placement or use of a home in such a manner that is not equally applicable to all homes. Homes built to 42 U.S.C. Sec. 5401-5403 standards (as amended in 2000) must be regulated for the purposes of siting in the same manner as site built homes, factory built homes, or homes built to any other state construction or local design standard. However, except as provided in subsection (2) of this section, any county may require that:
+
+    a. A manufactured home be a new manufactured home;
+
+    b. The manufactured home be set upon a permanent foundation, as specified by the manufacturer, and that the space from the bottom of the home to the ground be enclosed by concrete or an approved concrete product which can be either load bearing or decorative;
+
+    c. The manufactured home comply with all local design standards applicable to all other homes within the neighborhood in which the manufactured home is to be located;
+
+    d. The home is thermally equivalent to the state energy code; and
+
+    e. The manufactured home otherwise meets all other requirements for a designated manufactured home as defined in RCW 35.63.160.
+
+2. [Empty]
+
+    a. A county may not adopt an ordinance that has the effect, directly or indirectly, of restricting the location of manufactured/mobile homes in manufactured/mobile home communities, as defined in RCW 59.20.030, which were legally in existence before June 12, 2008, based exclusively on the age or dimensions of the manufactured/mobile home.
+
+    b. A county may not prohibit the siting of a manufactured/mobile home on an existing lot based solely on lack of compliance with existing separation and setback requirements that regulate the distance between homes.
+
+    c. A county is not precluded by (a) or (b) of this subsection from restricting the location of a manufactured/mobile home in manufactured/mobile home communities for any other reason including, but not limited to, failure to comply with fire, safety, or other local ordinances or state laws related to manufactured/mobile homes.
+
+3. A county may not adopt an ordinance that has the effect, directly or indirectly, of preventing the entry or requiring the removal of a recreational vehicle used as a primary residence in manufactured/mobile home communities, as defined in RCW 59.20.030, unless the recreational vehicle fails to comply with the fire, safety, or other local ordinances or state laws related to recreational vehicles.
+
+4. A county must act in good faith to approve the addition of manufactured/mobile homes or park models within manufactured/mobile home communities. Except as expressly preempted by any state agency's requirements related to the siting of manufactured/mobile homes or park models, the siting of a new or used manufactured/mobile home or park model of any size and its appurtenances must be authorized on a manufactured/mobile home lot within a manufactured/mobile home community unless the siting of the manufactured/mobile home or park model expressly violates health and safety standards.
+
+5. This section does not override any legally recorded covenants or deed restrictions of record.
+
+6. This section does not affect the authority granted under chapter 43.22 RCW.
+
+7. For the purposes of this section, "manufactured/mobile home community" and "park model" have the same meanings as in RCW 59.20.030.

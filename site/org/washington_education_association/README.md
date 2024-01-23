@@ -388,7 +388,7 @@
 
 ## [HB 1895](/bill/2023-24/hb/1895/) - Modifying the working families' tax credit by clarifying the refundable nature of the credit, the application requirements, and the eligibility verification process. 👍1  
 
-## [HB 1905](/bill/2023-24/hb/1905/) - Including protected classes in the Washington equal pay and opportunities act. 👍2  
+## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍2  
 
 ## [HB 1914](/bill/2023-24/hb/1914/) - Special education services  👎1 
 * 👎 Jared Mason-Gere
@@ -427,9 +427,9 @@
 
 ## [HB 2019](/bill/2023-24/hb/2019/) - Establishing a Native American apprentice assistance program. 👍1  
 
-## [HB 2022](/bill/2023-24/hb/2022/) - Concerning construction crane safety. 👍1  
+## [HB 2022](/bill/2023-24/hb/2022/) - Construction crane safety 👍1  
 
-## [HB 2025](/bill/2023-24/hb/2025/) - Modifying placement and salary matching requirements for the state work-study program. 👍1  
+## [HB 2025](/bill/2023-24/hb/2025/) - State work-study program 👍1  
 
 ## [HB 2037](/bill/2023-24/hb/2037/) - Concerning Holocaust and genocide education in public schools. 👍1  
 * 👍💵 Simone Boe
@@ -483,6 +483,8 @@
 
 ## [HB 2242](/bill/2023-24/hb/2242/) - Sexual assault/higher ed. 👍1  
 
+## [HB 2244](/bill/2023-24/hb/2244/) - Retirement savings 👍1  
+
 ## [HB 2246](/bill/2023-24/hb/2246/) - Vacation leave accrual 👍1  
 
 ## [HB 2266](/bill/2023-24/hb/2266/) - Construction/sanitary cond. 👍1  
@@ -499,9 +501,17 @@
 
 ## [HB 2321](/bill/2023-24/hb/2321/) - Middle housing requirements 👍1  
 
+## [HB 2322](/bill/2023-24/hb/2322/) - Child care/tax preferences 👍1  
+
+## [HB 2331](/bill/2023-24/hb/2331/) - Public school materials 👍1  
+* 👍💵 Nasue Nishida
+
 ## [HB 2374](/bill/2023-24/hb/2374/) - Washington promise program 👍1  
 
 ## [HB 2381](/bill/2023-24/hb/2381/) - School calendar waivers   ❓1
+
+## [HB 2398](/bill/2023-24/hb/2398/) - Instruct. materials/parents   ❓1
+* ❓💵 Nasue Nishida
 
 ## [SB 5000](/bill/2023-24/sb/5000/) - Americans of Chinese descent 👍1  
 
@@ -919,6 +929,8 @@
 
 ## [SB 6028](/bill/2023-24/sb/6028/) - Unemployment overpayments 👍1  
 
+## [SB 6030](/bill/2023-24/sb/6030/) - ADU tax exemptions 👍1  
+
 ## [SB 6060](/bill/2023-24/sb/6060/) - Electronic signatures/PERC 👍1  
 
 ## [SB 6072](/bill/2023-24/sb/6072/) - LTSS commission recs. 👍1  
@@ -926,11 +938,13 @@
 ## [SB 6082](/bill/2023-24/sb/6082/) - Paraeducator compensation 👍1  
 * 👍💵 Julie Salvi
 
-## [SB 6085](/bill/2023-24/sb/6085/) - Underground economy 👍1  
+## [SB 6085](/bill/2023-24/sb/6085/) - Underground economy 👍2  
 
 ## [SB 6123](/bill/2023-24/sb/6123/) - Classified school employees 👍1  
 * 👍💵 Julie Salvi
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
+
+## [SB 6230](/bill/2023-24/sb/6230/) - Tax increment areas 👍1  
 
 ## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍1  

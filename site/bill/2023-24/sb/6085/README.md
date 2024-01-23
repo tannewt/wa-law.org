@@ -14,14 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31750&aId=157209&caId=23351&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31750&aId=157209&caId=23351&tId=4)
 
-#### 28 👍 - Pro
+#### 52 👍 - Pro
 Testifying:
 * Adam Yoest - Washington State Conference of Mason Contractors
 * 💵Christopher Ellis - Bricklayers & Allied Craftworkers Local 1
+* Drew Payne - International Union of Painters and Allied Trades - DC 5
+* 💵Mark Streuli - International Union of Painters and Allied Trades (IUPAT) DC 5
+* Susan Bittner - President and CEO of Fryer-Knowles, Inc.
 
-#### 1 👎 - Con
+#### 26 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Tom Kwieciak - Building Industry Association of WA
 * 💵Patrick Connor - NFIB

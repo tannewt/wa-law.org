@@ -17,18 +17,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157546&caId=23562&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157546&caId=23562&tId=4)
 
-#### 285 👍 - Pro
+#### 335 👍 - Pro
 Testifying:
 * 💵Carolyn Logue - [Washington Library Association](/org/washington_library_association/)
 * Justin McKaughan - National Board Certified Teacher Librarian
+* Carolyn Solitaire - MomsRising
 * Anna Hernandez-French - Office of Superintendent of Public Instruction
+* Sarah Logan - [Washington Library Association](/org/washington_library_association/)
+* Carrie Bellecourt - Riverview Education Association and WEA
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 
-#### 520 👎 - Con
+#### 738 👎 - Con
 Testifying:
 * Andy Cilley
 * Joy Gjersvold - Conservative Ladies of Washington
+* Sharon Damoff
 * Liv Finne - Washington Policy Center
+* Jennifer Heine-Withee
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Marissa Rathbone - Washington State School Directors' Association

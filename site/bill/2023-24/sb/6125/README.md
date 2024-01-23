@@ -14,9 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31771&aId=157340&caId=23359&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31771&aId=157340&caId=23359&tId=4)
 
-#### 6 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
+* Leslie Widing
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Carrie Davidson
+* Ashley Cowan D'Ambrosio
+* Monica Thomas
 * 💵Stacy Dym - The Arc of Washington State
+* Ryan Grant
 
 #### 0 👎 - Con
 

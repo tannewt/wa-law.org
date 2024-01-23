@@ -14,12 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31771&aId=157338&caId=23357&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31771&aId=157338&caId=23357&tId=4)
 
-#### 5 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
-#### 293 👎 - Con
+#### 356 👎 - Con
 Testifying:
 * Cindy Madigan - League of Women Voters of Washington
+* Sharon Damoff
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)

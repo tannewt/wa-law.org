@@ -16,7 +16,7 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 13 👎 - Con
+#### 29 👎 - Con
 Testifying:
 * Tim Garchow - Washington State School Directors' Association (WSSDA)
 * Jim Kowalkowski - Rural Education Center

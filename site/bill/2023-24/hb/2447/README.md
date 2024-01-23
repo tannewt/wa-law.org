@@ -14,17 +14,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31732&aId=157598&caId=23588&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31732&aId=157598&caId=23588&tId=4)
 
-#### 4 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
+* Paula Reed - [Children's Advocacy Centers of Washington](/org/children's_advocacy_centers_of_washington/)
+* 💵Allison Krutsinger - Dept of Children, Youth, and Families
 * Jeanette Obelcz - WFSE Member
 * Chelsea Burroughs - WFSE Member
 
-#### 2 👎 - Con
+#### 44 👎 - Con
 Testifying:
 * Everett Maroon - Blue Mountain Heart to Heart
+* Jacob D'Annunzio - WA State OPD
+* Melissa Moore - Drug Policy Alliance
+* 💵Malika Lamont - VOCAL-WA
 
-#### 10 ❓ - Other
+#### 16 ❓ - Other
 Testifying:
+* Ph.D., Susan Stoner
+* Patrick Dowd - WA State Office of the Family & Children's Ombuds
+* Christina Faucett
 * 💵Giovanni Severino - Latino Community Fund
 * 💵Shrounda Selivanoff
 * Teshara Villaluz
@@ -32,3 +40,4 @@ Testifying:
 * Jennifer Justice
 * Laurie Lippold
 * Tara Urs
+* Jim Walsh

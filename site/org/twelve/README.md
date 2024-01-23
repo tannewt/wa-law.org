@@ -11,3 +11,6 @@
 ## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍2  
 * 👍 Derek Phelps
 * 👍 Derek Phelps
+
+## [SB 6240](/bill/2023-24/sb/6240/) - Jet fuel tax preferences 👍1  
+* 👍 Derek Phelps

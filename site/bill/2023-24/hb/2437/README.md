@@ -17,9 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31707&aId=157579&caId=23583&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31707&aId=157579&caId=23583&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 1 👎 - Con
+#### 20 👎 - Con
+Testifying:
+* Chris Bandoli - National Association of Insurance and Financial Advisors Washington
 
 #### 2 ❓ - Other
 Testifying:

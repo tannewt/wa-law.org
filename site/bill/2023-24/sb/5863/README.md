@@ -8,16 +8,12 @@
 
 ## Meetings
 ### Tue 01/23 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5863 Credit reporting/divorce
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31727&aId=157166&caId=23327&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31727&aId=157166&caId=23327&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31727&aId=157166&caId=23327&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31727&aId=157166&caId=23327&tId=4)
-
 #### 2 👍 - Pro
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * 💵Kelsi Hamilton - Washington Collectors Assoc.
+* 💵Bill Stauffacher - [Consumer Data Industry Association](/org/consumer_data_industry_association/)
+* Andrew Roskam - [Receivables Management Association International](/org/receivables_management_association_international/)
 
 #### 0 ❓ - Other

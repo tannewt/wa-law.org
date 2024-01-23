@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31769&aId=157320&caId=23503&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31769&aId=157320&caId=23503&tId=4)
 
-#### 208 👍 - Pro
+#### 254 👍 - Pro
 Testifying:
 * Andre Penalver
 * Larry Jefferson - Director, Washington State Office of Public Defense
@@ -32,14 +32,19 @@ Testifying:
 * Vidal Vincent - Freedom Project
 * Rory Andes
 * Kehaulani Walker - FOTi and PUA
+* Laura Robinett
+* Judge Sharonda Amamilo - Sentencing Guidelines Commission
 * Na'Quel Walker
 * Andrea Shotwell
 * Heather Wehrwood - WA State Coalition Against Domestic Violence
 * 💵Kelly Olson - [Civil Survival Project](/org/civil_survival_project/)
 
-#### 4 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * Sam Spiegelman - Citizen Action Defense Fund
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Ramona Womack - Fatherhood The Foundation, LLC

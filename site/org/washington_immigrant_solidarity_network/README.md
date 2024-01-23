@@ -9,6 +9,8 @@
 
 ## [HB 2309](/bill/2023-24/hb/2309/) - Washington 13 free guarantee 👍1  
 
+## [HB 2368](/bill/2023-24/hb/2368/) - Refugee & immigrant assist. 👍1  
+
 ## [HB 2374](/bill/2023-24/hb/2374/) - Washington promise program 👍1  
 
 ## [SB 5109](/bill/2023-24/sb/5109/) - Wage replacement 👍1  
@@ -18,3 +20,5 @@
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍2  
 
 ## [SB 6127](/bill/2023-24/sb/6127/) - HIV prophylaxis 👍1  
+
+## [SB 6245](/bill/2023-24/sb/6245/) - Refugee & immigrant assist. 👍1  

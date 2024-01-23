@@ -14,11 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31773&aId=157351&caId=23474&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31773&aId=157351&caId=23474&tId=4)
 
-#### 23 👍 - Pro
+#### 54 👍 - Pro
 Testifying:
 * Lee Lambert - [Washington Bikes](/org/washington_bikes/)
 * Katherine Hollis - [Eastrail Partners](/org/eastrail_partners/)
+* Larry Leveen - FOREVERGREEN TRAILS
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* 💵Dawn Vyvyan - Yakama Nation
+* Ryan Miller - Tulalip Tribes of WA
+* Kate Valdez - Confederated Tribes and Bands of the Yakama Nation
 
 #### 0 ❓ - Other

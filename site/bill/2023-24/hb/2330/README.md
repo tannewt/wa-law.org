@@ -17,8 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31708&aId=157049&caId=23522&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31708&aId=157049&caId=23522&tId=4)
 
-#### 28 👍 - Pro
+#### 36 👍 - Pro
+Testifying:
+* David Forte - Office of the Insurance Commissioner
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

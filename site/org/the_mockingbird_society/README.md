@@ -49,7 +49,9 @@
 
 ## [HB 2251](/bill/2023-24/hb/2251/) - Unenforceable LFOs 👍1  
 
-## [HB 2342](/bill/2023-24/hb/2342/) - Dependent youth financial ed 👍4  
+## [HB 2342](/bill/2023-24/hb/2342/) - Dependent youth financial ed 👍6  
+* 👍 Sam Martin
+* 👍 Charles Smith
 
 ## [HB 2383](/bill/2023-24/hb/2383/) - Dependency outcome reporting 👍1  
 
@@ -73,8 +75,10 @@
 
 ## [SB 5543](/bill/2023-24/sb/5543/) - Sexual offenses by youth 👍1  
 
-## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍8  
+## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍12  
 * 👍 Sam Martin
+* 👍 Sam Martin
+* 👍 Charles Smith
 
 ## [SB 5644](/bill/2023-24/sb/5644/) - Juvenile records 👍3  
 * 👍 Danni Jo Bechtold

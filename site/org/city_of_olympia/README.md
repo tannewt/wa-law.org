@@ -5,6 +5,8 @@
 ## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 * 👍 Councilmember Jim Cooper
 
+## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
+
 ## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
@@ -81,11 +83,13 @@
 
 ## [HB 1998](/bill/2023-24/hb/1998/) - Co-living housing 👍1  
 
-## [HB 2021](/bill/2023-24/hb/2021/) - Concerning the disposition of privately owned firearms in the custody of state or local government entities or law enforcement agencies. 👍1  
+## [HB 2021](/bill/2023-24/hb/2021/) - Firearm disposition 👍1  
 
 ## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍2  
 
 ## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍1  
+
+## [HB 2158](/bill/2023-24/hb/2158/) - Urban growth area boundaries  👎1 
 
 ## [HB 2172](/bill/2023-24/hb/2172/) - Vacant state agency property 👍1  
 * 👍 Darian Lightfoot
@@ -96,7 +100,15 @@
 
 ## [HB 2250](/bill/2023-24/hb/2250/) - Local elections 👍1  
 
+## [HB 2296](/bill/2023-24/hb/2296/) - Comprehensive plan revisions 👍1  
+
 ## [HB 2321](/bill/2023-24/hb/2321/) - Middle housing requirements 👍1  
+
+## [HB 2323](/bill/2023-24/hb/2323/) - Rent payments/credit reports 👍1  
+
+## [HB 2375](/bill/2023-24/hb/2375/) - Senior property tax ex./ADUs 👍1  
+
+## [HB 2425](/bill/2023-24/hb/2425/) - Rental support program 👍1  
 
 ## [SB 5001](/bill/2023-24/sb/5001/) - Public facility districts 👍3  
 * 👍 Paul Simmons
@@ -169,5 +181,7 @@
 ## [SB 6013](/bill/2023-24/sb/6013/) - Homeownership dev. tax ex. 👍1  
 
 ## [SB 6064](/bill/2023-24/sb/6064/) - Pet fees, deposits 👍1  
+
+## [SB 6150](/bill/2023-24/sb/6150/) - Comprehensive plan revisions 👍1  
 
 ## [SJR 8201](/bill/2023-24/sjr/8201/) - Public works account 👍1  

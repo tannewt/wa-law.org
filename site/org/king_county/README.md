@@ -329,12 +329,12 @@
 
 ## [HB 2012](/bill/2023-24/hb/2012/) - Concerning eligibility for a property tax exemption for nonprofits providing affordable rental housing built with city and county funds. 👍1  
 
-## [HB 2021](/bill/2023-24/hb/2021/) - Concerning the disposition of privately owned firearms in the custody of state or local government entities or law enforcement agencies. 👍1  
+## [HB 2021](/bill/2023-24/hb/2021/) - Firearm disposition 👍1  
 
 ## [HB 2044](/bill/2023-24/hb/2044/) - Standardizing limitations on voter-approved property tax levies. 👍1  
 * 👍💵 Michael White
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes. 👍1  
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍1  
 * 👍 Pat McLaughlin
 
 ## [HB 2051](/bill/2023-24/hb/2051/) - Reducing emissions from small off-road engines. 👍1  
@@ -385,6 +385,8 @@
 
 ## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍1  
 
+## [HB 2250](/bill/2023-24/hb/2250/) - Local elections 👍1  
+
 ## [HB 2256](/bill/2023-24/hb/2256/) - Children behavioral health 👍1  
 
 ## [HB 2258](/bill/2023-24/hb/2258/) - Regional 911 funding  👎1 
@@ -394,6 +396,8 @@
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
 ## [HB 2297](/bill/2023-24/hb/2297/) - Solar energy systems/schools 👍1  
+
+## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management 👍1  
 
 ## [HB 2347](/bill/2023-24/hb/2347/) - Adult family home info. 👍1  
 
@@ -698,11 +702,18 @@
 
 ## [SB 5983](/bill/2023-24/sb/5983/) - Allowing medical assistants with telehealth supervision to provide intramuscular injections for syphilis treatment. 👍1  
 
+## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
+* 👍 Pat McLaughlin
+
 ## [SB 6042](/bill/2023-24/sb/6042/) - Juvenile detention release 👍1  
 
 ## [SB 6144](/bill/2023-24/sb/6144/) - Prescribing psychologists 👍1  
 
+## [SB 6152](/bill/2023-24/sb/6152/) - Housing needs gap 👍1  
+
 ## [SB 6163](/bill/2023-24/sb/6163/) - Biosolids 👍1  
+
+## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management 👍1  
 
 ## [SB 6220](/bill/2023-24/sb/6220/) - High THC cannabis products 👍1  
 

@@ -17,10 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31752&aId=157239&caId=23457&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31752&aId=157239&caId=23457&tId=4)
 
-#### 29 👍 - Pro
+#### 51 👍 - Pro
 Testifying:
 * SAM SPIEGELMAN - Citizen Action Defense Fund
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Sean Holland - [Washington Land Title Association](/org/washington_land_title_association/)
 
 #### 0 ❓ - Other

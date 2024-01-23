@@ -8,20 +8,22 @@
 
 ## Meetings
 ### Tue 01/23 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6252 Automobile insurance
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31727&aId=157569&caId=23567&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31727&aId=157569&caId=23567&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31727&aId=157569&caId=23567&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31727&aId=157569&caId=23567&tId=4)
-
-#### 5 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
+* Justin Lewis - Washington Independent Collision Repairers Association
+* Ron Mondragon
+* Mark Buchanan
 * David Forte - Office of the Insurance Commissioner
 * Jeff Butler - Collision Consulting of Washington
+* Adrian Delgado Zambrano
+* Anthony Holmquist
 * Ralph Carpenter
 
-#### 2 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * Catalina Jelkh Pareja - LKQ Corporation
+* 💵Brent Ludeman - LKQ Corporation - Auto Parts
+* Kris Tefft - [American Property Casualty Insurance Association](/org/american_property_casualty_insurance_association/)
+* 💵Kenton Brine - [Northwest Insurance Council](/org/northwest_insurance_council/)
 
 #### 0 ❓ - Other

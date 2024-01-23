@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31733&aId=157150&caId=23525&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31733&aId=157150&caId=23525&tId=4)
 
-#### 52 👍 - Pro
+#### 87 👍 - Pro
+Testifying:
+* Sam Martin - [The Mockingbird Society](/org/the_mockingbird_society/)
+* Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
+* Erin Shea McCann - Legal Counsel for Youth and Children (LCYC)
+* 💵Emily Stochel - [College Success Foundation](/org/college_success_foundation/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

@@ -51,7 +51,7 @@
 
 ## [HB 1895](/bill/2023-24/hb/1895/) - Modifying the working families' tax credit by clarifying the refundable nature of the credit, the application requirements, and the eligibility verification process. 👍1  
 
-## [HB 1905](/bill/2023-24/hb/1905/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
+## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍1  
 * 👍💵 Gabriela Quintana
 
 ## [HB 1959](/bill/2023-24/hb/1959/) - Extending parts of the paid family and medical leave program to employers with fewer than 50 employees. 👍1  
@@ -70,7 +70,11 @@
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
+## [HB 2309](/bill/2023-24/hb/2309/) - Washington 13 free guarantee 👍1  
+
 ## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
+
+## [HB 2374](/bill/2023-24/hb/2374/) - Washington promise program 👍1  
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍2  
 
@@ -116,3 +120,5 @@
 * 👍💵 Gabriela Quintana
 
 ## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
+
+## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  

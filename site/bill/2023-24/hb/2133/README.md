@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157326&caId=23545&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157326&caId=23545&tId=4)
 
-#### 49 👍 - Pro
+#### 55 👍 - Pro
 Testifying:
 * Leslie Maxwell
 * 💵Carolyn Logue - WA State Student Transportation Coalition
@@ -22,6 +22,6 @@ Testifying:
 * Russell Shjerven - Secretary-Treasurer Teamsters Local Union No. 839
 * Tamara Pearson - Bus Driver with Pasco School District and Chief Union Steward, Teamsters Local 839
 
-#### 7 👎 - Con
+#### 10 👎 - Con
 
 #### 0 ❓ - Other

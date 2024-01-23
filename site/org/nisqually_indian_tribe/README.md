@@ -20,7 +20,16 @@
 
 ## [HB 2253](/bill/2023-24/hb/2253/) - Community solar 👍1  
 
+## [HB 2286](/bill/2023-24/hb/2286/) - Salmon rec. capital grants 👍1  
+* 👍 David Troutt
+
+## [HB 2289](/bill/2023-24/hb/2289/) - Salmon recovery projects/tax 👍1  
+* 👍 David Troutt
+
 ## [HB 2290](/bill/2023-24/hb/2290/) - Untreated sewage discharges 👍1  
+
+## [HB 2293](/bill/2023-24/hb/2293/) - Avian predation/salmon 👍1  
+* 👍 David Troutt
 
 ## [SB 5324](/bill/2023-24/sb/5324/) - Defense compatibility acct. 👍3  
 

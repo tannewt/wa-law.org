@@ -56,7 +56,7 @@
 * 👎 Rachel Baker
 * 👎 Rachel Baker
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes. 👍1  
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍1  
 
 ## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions. 👍1  
 
@@ -123,6 +123,8 @@
 
 ## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands. 👍2  
 * 👍💵 Darcy Nonemacher
+
+## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
 
 ## [SB 6029](/bill/2023-24/sb/6029/) - Detached ADUs  👎1 
 

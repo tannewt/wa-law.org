@@ -14,13 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31722&aId=157099&caId=23384&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31722&aId=157099&caId=23384&tId=4)
 
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * 💵Nicole Gomez
 
-#### 4 👎 - Con
+#### 23 👎 - Con
 Testifying:
 * barb Korducki
+* Bruce Becker
 * William Shadbolt - [Washington Business Properties Association](/org/washington_business_properties_association/)
 
 #### 0 ❓ - Other

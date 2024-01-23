@@ -16,7 +16,7 @@ Testifying:
 #### 5 👎 - Con
 Testifying:
 * 💵Lisa Thatcher - Washington State Hospital Association
-* Neil Lacanlale - South Sound Behavioral Hospital
+* Neil Lacanlale - [South Sound Behavioral Hospital](/org/south_sound_behavioral_hospital/)
 * Austin Martin - [Smokey Point Behavioral Hospital](/org/smokey_point_behavioral_hospital/)
 
 #### 0 ❓ - Other

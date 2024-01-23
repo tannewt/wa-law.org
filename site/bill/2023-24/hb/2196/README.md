@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157325&caId=23544&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157325&caId=23544&tId=4)
 
-#### 15 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Beth Ebel - WCAAP
 * Dennis Maughan - MADD Washington
@@ -30,8 +30,11 @@ Testifying:
 * Debbie Driver - Governor Inslee's Office
 * Shelly Baldwin - Washington Traffic Safety Commission
 * Tao Kwan-Gett
+* Beth Ebel - WCAAP
+* Anthony Gomez
+* Amy Freedheim - King County Prosecuting Attorney's Office
 
-#### 27 👎 - Con
+#### 49 👎 - Con
 Testifying:
 * Jason Lantz - Washington Association of Criminal Defense Lawyers and Washington Defender Association
 

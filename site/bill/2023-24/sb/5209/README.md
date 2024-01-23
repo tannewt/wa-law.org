@@ -18,22 +18,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31771&aId=157390&caId=23360&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31771&aId=157390&caId=23360&tId=4)
 
-#### 134 👍 - Pro
+#### 145 👍 - Pro
 Testifying:
 * Miles Rapoport - 100% Democracy: An Initiative for Universal Voting
 * Raaheela Ahmed - 100% Democracy
 
-#### 1267 👎 - Con
+#### 1512 👎 - Con
 Testifying:
 * elona kearney
 * John Worthington
 * Jeannette Mcchesney
 * Theresa Schrempp
+* Sharon Damoff
+* Mary Long - Conservative Ladies of Washington
 * James Ware
 * LORILEE GATES
 * Kim Slinger
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/31 01:30 PM - State Government & Elections (SGE): SB 5209 Universal civic duty voting
 #### 33 👍 - Pro

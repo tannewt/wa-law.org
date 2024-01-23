@@ -14,10 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31773&aId=157349&caId=23472&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31773&aId=157349&caId=23472&tId=4)
 
-#### 102 👍 - Pro
+#### 131 👍 - Pro
 Testifying:
 * Scott Bonjukian
+* Paul Woods
 
-#### 3 👎 - Con
+#### 5 👎 - Con
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)

@@ -16,7 +16,9 @@ Sign up to testify:
 
 #### 4 👍 - Pro
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 1 ❓ - Other
 Testifying:

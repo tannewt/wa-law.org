@@ -38,6 +38,9 @@
 
 ## [HB 2242](/bill/2023-24/hb/2242/) - Sexual assault/higher ed. 👍1  
 
+## [HB 2447](/bill/2023-24/hb/2447/) - Children and families 👍1  
+* 👍 Paula Reed
+
 ## [SB 5010](/bill/2023-24/sb/5010/) - Synthetic opioids/endanger. 👍1  
 
 ## [SB 5070](/bill/2023-24/sb/5070/) - Nonfatal strangulation 👍1  

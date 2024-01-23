@@ -18,8 +18,9 @@
 ## [HB 1817](/bill/2023-24/hb/1817/) - Housing gap voucher pilot 👍2  
 * 👍💵 Mike Hoover
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants  👎4 
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants  👎5 
 * 👎 Christy Mays
+* 👎💵 Mike Hoover
 * 👎💵 Mike Hoover
 
 ## [SB 5197](/bill/2023-24/sb/5197/) - Eviction processes  👎2 

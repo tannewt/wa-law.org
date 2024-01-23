@@ -12,16 +12,11 @@
 
 ## Meetings
 ### Mon 01/22 04:00 PM - Transportation (TR): HB 2357 State patrol longevity bonus
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31710&aId=157067&caId=23448&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31710&aId=157067&caId=23448&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31710&aId=157067&caId=23448&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31710&aId=157067&caId=23448&tId=4)
-
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * spike Unruh - Washington State Patrol Troopers Association
 * Jason Linn
+* Representative Andrew Barkis
 
 #### 1 👎 - Con
 

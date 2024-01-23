@@ -14,13 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31752&aId=157238&caId=23456&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31752&aId=157238&caId=23456&tId=4)
 
-#### 28 👍 - Pro
+#### 56 👍 - Pro
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Brad Banks - Co-Responder Outreach Alliance (CROA)
 * Penny Sweet - Council Member,  City of Kirkland
+* Shawn O'Neill - Health Care Authority (HCA)
+* Kimberly Hendrickson - [City of Poulsbo](/org/city_of_poulsbo/)
+* Michael & Transue - National Alliance on Mental Illness & Connections Health Solutions
+* Amy Smith - [City of Seattle](/org/city_of_seattle/)
 * Brook Buettner - Regional Crisis Response Agency
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

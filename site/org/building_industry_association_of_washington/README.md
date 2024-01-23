@@ -132,6 +132,9 @@
 
 ## [HB 1885](/bill/2023-24/hb/1885/) - Strengthening campaign finance disclosure by prohibiting campaign contributions and expenditures by foreign-influenced corporations.  👎2 
 
+## [HB 1899](/bill/2023-24/hb/1899/) - Facilitating reconstruction of communities damaged or destroyed by wildfires. 👍1  
+* 👍💵 Jan Himebaugh
+
 ## [HB 1998](/bill/2023-24/hb/1998/) - Co-living housing 👍1  
 
 ## [HB 2008](/bill/2023-24/hb/2008/) - Housing cost task force 👍1  
@@ -173,6 +176,10 @@
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes  👎1 
 * 👎💵 Brent Ludeman
+
+## [HB 2286](/bill/2023-24/hb/2286/) - Salmon rec. capital grants 👍1  
+
+## [HB 2289](/bill/2023-24/hb/2289/) - Salmon recovery projects/tax 👍1  
 
 ## [HB 2321](/bill/2023-24/hb/2321/) - Middle housing requirements 👍1  
 * 👍💵 Bill Stauffacher
@@ -275,6 +282,9 @@
 
 ## [SB 5770](/bill/2023-24/sb/5770/) - Property tax  👎1 
 
+## [SB 5792](/bill/2023-24/sb/5792/) - Concerning the definition of multiunit residential buildings. 👍1  
+* 👍💵 Tricia Gullion
+
 ## [SB 5834](/bill/2023-24/sb/5834/) - Concerning urban growth areas. 👍1  
 * 👍💵 Jan Himebaugh
 
@@ -304,6 +314,8 @@
 
 ## [SB 6140](/bill/2023-24/sb/6140/) - Intensive rural development 👍1  
 * 👍💵 Tricia Gullion
+
+## [SB 6152](/bill/2023-24/sb/6152/) - Housing needs gap 👍1  
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes  👎1 
 * 👎💵 Brent Ludeman

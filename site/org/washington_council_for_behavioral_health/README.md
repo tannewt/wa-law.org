@@ -16,6 +16,8 @@
 
 ## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍1  
 
+## [HB 2319](/bill/2023-24/hb/2319/) - Substance use treatment   ❓1
+
 ## [HB 2408](/bill/2023-24/hb/2408/) - Crisis response comm methods 👍1  
 
 ## [SB 5036](/bill/2023-24/sb/5036/) - Audio-only telemedicine 👍1  
@@ -36,3 +38,5 @@
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors   ❓1
 
 ## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍1  
+
+## [SB 6228](/bill/2023-24/sb/6228/) - Substance use treatment 👍1  

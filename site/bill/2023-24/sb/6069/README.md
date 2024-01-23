@@ -14,16 +14,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157498&caId=23367&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157498&caId=23367&tId=4)
 
-#### 26 👍 - Pro
+#### 50 👍 - Pro
 Testifying:
 * 💵John Scott - [The Pew Charitable Trusts](/org/the_pew_charitable_trusts/)
 * Jill Nelson
 * Mike Pelliciotti - State Treasurer
 * Travis Rosenthal - Pike Street Hospitality Group
 * 💵Paula Sardinas - WBBA (WA Build Back Alliance)
+* Nathan Glassey - [American Retirement Association](/org/american_retirement_association/)
+* Petros Koumantaros - Spectrum Pension Consultants
+* Cathy MacCaul - AARP Washington State
 
-#### 28 👎 - Con
-
-#### 1 ❓ - Other
+#### 110 👎 - Con
 Testifying:
+* Chris Bandoli - National Association of Insurance and Financial Advisors Washington
+
+#### 3 ❓ - Other
+Testifying:
+* John Suk - Portalus
 * John Mangan - [American Council of Life Insurers](/org/american_council_of_life_insurers/)

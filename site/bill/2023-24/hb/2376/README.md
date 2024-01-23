@@ -14,7 +14,9 @@ Testifying:
 * Chris Searcy - City of Enumclaw
 * Susanna Jones
 
-#### 7 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* Joel Creswell - Department of Ecology
 
 #### 2 ❓ - Other
 Testifying:

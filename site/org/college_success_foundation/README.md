@@ -56,7 +56,7 @@
 
 ## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍1  
 
-## [HB 2025](/bill/2023-24/hb/2025/) - Modifying placement and salary matching requirements for the state work-study program. 👍1  
+## [HB 2025](/bill/2023-24/hb/2025/) - State work-study program 👍1  
 * 👍💵 Juliet Schindler
 
 ## [HB 2053](/bill/2023-24/hb/2053/) - Establishing the ninth grade success grant program. 👍2  
@@ -67,7 +67,8 @@
 ## [HB 2224](/bill/2023-24/hb/2224/) - Child abuse referral tool 👍2  
 * 👍💵 Emily Stochel
 
-## [HB 2342](/bill/2023-24/hb/2342/) - Dependent youth financial ed 👍1  
+## [HB 2342](/bill/2023-24/hb/2342/) - Dependent youth financial ed 👍2  
+* 👍💵 Emily Stochel
 
 ## [HB 2383](/bill/2023-24/hb/2383/) - Dependency outcome reporting 👍1  
 
@@ -119,7 +120,8 @@
 
 ## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍2  
 
-## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍3  
+## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍4  
+* 👍💵 Emily Stochel
 * 👍💵 Emily Stochel
 
 ## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍2  

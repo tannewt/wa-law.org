@@ -14,13 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31719&aId=157086&caId=23460&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31719&aId=157086&caId=23460&tId=4)
 
-#### 75 👍 - Pro
+#### 162 👍 - Pro
 Testifying:
+* David Troutt - [Nisqually Indian Tribe](/org/nisqually_indian_tribe/)
+* Susanna Jones
 * James  T Wilcox  JR - Wilcox Family Farms
+* William M Price
 
-#### 330 👎 - Con
+#### 418 👎 - Con
 Testifying:
 * John Worthington
 * Jeannette Mcchesney
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Todd Myers - Washington Policy Center
+* Brock Milliern - Recreation Conservation Office

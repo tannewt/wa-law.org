@@ -18,11 +18,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157503&caId=23372&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157503&caId=23372&tId=4)
 
-#### 11 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Todd Crooks - Chad's Legacy Project
 * Gail Kogle
 * Julia O'Connor - [Washington Council for Behavioral Health](/org/washington_council_for_behavioral_health/)
+* 💵Michael Transue - Matinal Alliance on Mental Illness - NAMI
 
 #### 0 👎 - Con
 

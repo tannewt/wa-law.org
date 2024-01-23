@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31699&aId=157640&caId=23591&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31699&aId=157640&caId=23591&tId=4)
 
-#### 2 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* Rachel Bjork
+* Hannah Thompson-Garner - Northwest Animal Rights Network (NARN)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Darwin Roberts - Individual University of Washington Institutional Animal Care and Use Committee volunteer members

@@ -42,7 +42,8 @@
 
 ## [HB 2309](/bill/2023-24/hb/2309/) - Washington 13 free guarantee 👍1  
 
-## [HB 2374](/bill/2023-24/hb/2374/) - Washington promise program 👍1  
+## [HB 2374](/bill/2023-24/hb/2374/) - Washington promise program 👍2  
+* 👍💵 Jazmine Smith
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍2  
 * 👍💵 Jazmine Smith

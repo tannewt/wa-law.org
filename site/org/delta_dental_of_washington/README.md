@@ -7,3 +7,5 @@
 
 ## [SB 6097](/bill/2023-24/sb/6097/) - Dental services contracts 👍1  
 * 👍 Siobhan Whitney
+
+## [SB 6218](/bill/2023-24/sb/6218/) - Dental only plans  👎7 

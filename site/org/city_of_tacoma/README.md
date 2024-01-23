@@ -96,6 +96,9 @@
 
 ## [HB 2086](/bill/2023-24/hb/2086/) - Office of indep. invest. 👍1  
 
+## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management   ❓1
+* ❓ Lewis Griffith
+
 ## [HB 2322](/bill/2023-24/hb/2322/) - Child care/tax preferences 👍1  
 
 ## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras 👍1  
@@ -174,5 +177,8 @@
 * 👍💵 Briahna Murray
 
 ## [SB 6009](/bill/2023-24/sb/6009/) - Hog-tying 👍1  
+
+## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management   ❓1
+* ❓ Lewis Griffith
 
 ## [SB 6242](/bill/2023-24/sb/6242/) - Law enforcement training 👍1  

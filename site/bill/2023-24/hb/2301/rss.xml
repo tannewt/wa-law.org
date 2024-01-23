@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2301/</link>
 		<description>Updates about HB 2301</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 11:11:15 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2024 09:34:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -46,6 +46,38 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Peter/Lyon/2024-01-19 02:45:29</guid>
+		</item>
+		<item>
+			<title>❓Lewis Griffith - City of Tacoma</title>
+			<description>Lewis Griffith signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/city_of_tacoma/&quot;&gt;City of Tacoma&lt;/a&gt;.</description>
+			<pubDate>Mon, 22 Jan 2024 03:50:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Lewis/Griffith/2024-01-22 03:50:07</guid>
+		</item>
+		<item>
+			<title>❓💵Vicki Christophersen - Washington Refuse and Recycling Association</title>
+			<description>Vicki Christophersen signed up to testify Other. They are signed up to represent Washington Refuse and Recycling Association. They are a registered lobbyist.</description>
+			<pubDate>Mon, 22 Jan 2024 05:03:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Vicki/Christophersen/2024-01-22 05:03:47</guid>
+		</item>
+		<item>
+			<title>👍💵David Richey - Divert</title>
+			<description>David Richey signed up to testify Pro. They are signed up to represent Divert. They are a registered lobbyist.</description>
+			<pubDate>Mon, 22 Jan 2024 05:20:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/David/Richey/2024-01-22 05:20:15</guid>
+		</item>
+		<item>
+			<title>👎💵Samantha Louderback - Washington Hospitality Association</title>
+			<description>Samantha Louderback signed up to testify Con. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_hospitality_association/&quot;&gt;Washington Hospitality Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 22 Jan 2024 07:47:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Samantha/Louderback/2024-01-22 07:47:07</guid>
 		</item>
 		<item>
 			<title>👍Tori Oto - Food Law and Policy Clinic, Harvard Law School</title>
@@ -144,6 +176,14 @@
 			<guid isPermaLink="false">testifier/Scott/Smithline/2024-01-22 09:42:50</guid>
 		</item>
 		<item>
+			<title>❓Trish Twomey - Washington Food Coalition</title>
+			<description>Trish Twomey signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_food_coalition/&quot;&gt;Washington Food Coalition&lt;/a&gt;.</description>
+			<pubDate>Mon, 22 Jan 2024 10:18:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Trish/Twomey/2024-01-22 10:18:03</guid>
+		</item>
+		<item>
 			<title>👎Scott Howarth - Sinclair</title>
 			<description>Scott Howarth signed up to testify Con. They are signed up to represent Sinclair.</description>
 			<pubDate>Mon, 22 Jan 2024 11:06:08 GMT</pubDate>
@@ -158,6 +198,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jay/Kang/2024-01-22 11:11:15</guid>
+		</item>
+		<item>
+			<title>❓Chris Cary - Food Northwest</title>
+			<description>Chris Cary signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/food_northwest/&quot;&gt;Food Northwest&lt;/a&gt;.</description>
+			<pubDate>Tue, 23 Jan 2024 08:04:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Chris/Cary/2024-01-23 08:04:04</guid>
+		</item>
+		<item>
+			<title>👎💵Peter Godlewski - Association of Washington Business</title>
+			<description>Peter Godlewski signed up to testify Con. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/association_of_washington_business/&quot;&gt;Association of Washington Business&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 23 Jan 2024 09:34:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Peter/Godlewski/2024-01-23 09:34:04</guid>
 		</item>
 	</channel>
 </rss>

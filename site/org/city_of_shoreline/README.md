@@ -21,4 +21,8 @@
 ## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍2  
 * 👍 Jim Hammond
 
+## [HB 2354](/bill/2023-24/hb/2354/) - Tax increment areas  👎1 
+
 ## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍1  
+
+## [SB 6230](/bill/2023-24/sb/6230/) - Tax increment areas  👎1 

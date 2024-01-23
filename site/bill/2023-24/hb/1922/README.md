@@ -17,8 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157550&caId=23566&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157550&caId=23566&tId=4)
 
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 
-#### 6 👎 - Con
+#### 18 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Alex Hamasaki - [American Heart Association](/org/american_heart_association/)
+* 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)

@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31692&aId=156908&caId=23346&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31692&aId=156908&caId=23346&tId=4)
 
-#### 60 👍 - Pro
+#### 69 👍 - Pro
 Testifying:
 * Rod Higgins - Councilmember, City of Spokane Valley
 * Council President Betsy Wilkerson - City of Spokane Council President
+* Riley Benge - Washington REALTORS
+* Jim Frank
+* 💵Tricia Gullion - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
 #### 0 👎 - Con
 

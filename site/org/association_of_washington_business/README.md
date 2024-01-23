@@ -310,7 +310,8 @@
 ## [HB 1839](/bill/2023-24/hb/1839/) - Train length  👎1 
 * 👎 Mike Ennis
 
-## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍1  
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍2  
+* 👍 Morgan Irwin
 * 👍 Morgan Irwin
 
 ## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍1  
@@ -352,7 +353,7 @@
 
 ## [HB 2045](/bill/2023-24/hb/2045/) - Creating an adopt a fish barrier program. 👍1  
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes.  👎1 
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management  👎1 
 * 👎💵 Peter Godlewski
 
 ## [HB 2051](/bill/2023-24/hb/2051/) - Reducing emissions from small off-road engines.  👎1 
@@ -360,6 +361,9 @@
 
 ## [HB 2068](/bill/2023-24/hb/2068/) - Fashion/environmental impact  👎1 
 * 👎💵 Peter Godlewski
+
+## [HB 2069](/bill/2023-24/hb/2069/) - Biogenic carbon dioxide   ❓1
+* ❓💵 Peter Godlewski
 
 ## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions.  👎1 
 * 👎💵 Peter Godlewski
@@ -418,6 +422,9 @@
 * 👎💵 Emily Shay
 
 ## [HB 2295](/bill/2023-24/hb/2295/) - Hospital at-home services 👍1  
+
+## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management  👎1 
+* 👎💵 Peter Godlewski
 
 ## [HB 2308](/bill/2023-24/hb/2308/) - Existing structures/housing 👍1  
 
@@ -539,7 +546,7 @@
 
 ## [SB 5379](/bill/2023-24/sb/5379/) - Associate development orgs. 👍1  
 
-## [SB 5383](/bill/2023-24/sb/5383/) - Pedestrians/roadways  👎1 
+## [SB 5383](/bill/2023-24/sb/5383/) - Pedestrians/roadways  👎2 
 
 ## [SB 5391](/bill/2023-24/sb/5391/) - Embodied carbon reductions 👍1  
 * 👍 Mike Ennis
@@ -595,7 +602,7 @@
 
 ## [SB 5509](/bill/2023-24/sb/5509/) - Public infrastructure bank  👎1 
 
-## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation 👍1  
+## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation 👍2  
 * 👍💵 Peter Godlewski
 
 ## [SB 5522](/bill/2023-24/sb/5522/) - College grant prg. stipend 👍1  
@@ -643,6 +650,8 @@
 ## [SB 5778](/bill/2023-24/sb/5778/) - Employer political speech  👎1 
 * 👎 Bob Battles
 
+## [SB 5792](/bill/2023-24/sb/5792/) - Concerning the definition of multiunit residential buildings. 👍1  
+
 ## [SB 5795](/bill/2023-24/sb/5795/) - Year-round Pacific std. time 👍1  
 * 👍💵 Peter Godlewski
 
@@ -676,10 +685,15 @@
 ## [SB 5965](/bill/2023-24/sb/5965/) - Fashion/environmental impact  👎1 
 * 👎💵 Peter Godlewski
 
+## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management  👎1 
+* 👎💵 Peter Godlewski
+
 ## [SB 6018](/bill/2023-24/sb/6018/) - Early learning coordinators 👍1  
 
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development  👎1 
 * 👎 Morgan Irwin
+
+## [SB 6055](/bill/2023-24/sb/6055/) - Natural resource indus. dev. 👍1  
 
 ## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage   ❓1
 * ❓💵 Peter Godlewski
@@ -689,17 +703,30 @@
 
 ## [SB 6101](/bill/2023-24/sb/6101/) - Hospital at-home services 👍1  
 
+## [SB 6108](/bill/2023-24/sb/6108/) - Construction retainage 👍1  
+
 ## [SB 6113](/bill/2023-24/sb/6113/) - Community solar  👎1 
 * 👎💵 Peter Godlewski
+
+## [SB 6114](/bill/2023-24/sb/6114/) - Sustainable aviation fuel  👎1 
+* 👎 Morgan Irwin
 
 ## [SB 6121](/bill/2023-24/sb/6121/) - Biochar production 👍1  
 
 ## [SB 6136](/bill/2023-24/sb/6136/) - Rental property B&O tax  👎1 
 
+## [SB 6143](/bill/2023-24/sb/6143/) - Salmon habitat planning  👎1 
+* 👎 Morgan Irwin
+
 ## [SB 6168](/bill/2023-24/sb/6168/) - International leadership 👍1  
 * 👍💵 Amy Anderson
 
 ## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍1  
+
+## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management  👎1 
+* 👎💵 Peter Godlewski
+
+## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍1  
 
 ## [SB 6257](/bill/2023-24/sb/6257/) - Hospital charity/residency 👍1  
 

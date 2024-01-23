@@ -17,12 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31769&aId=157321&caId=23504&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31769&aId=157321&caId=23504&tId=4)
 
-#### 10 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 6 👎 - Con
+#### 11 👎 - Con
 Testifying:
 * Emily Gause
+* Ramona Brandes - WACDL/WDA
 
 #### 0 ❓ - Other

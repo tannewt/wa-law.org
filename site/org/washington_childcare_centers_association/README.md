@@ -2,10 +2,14 @@
 
 ## [HB 1199](/bill/2023-24/hb/1199/) - Child care/communities 👍2  
 
+## [HB 1716](/bill/2023-24/hb/1716/) - Child care B&O credit 👍1  
+
 ## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities 👍1  
 
 ## [HB 2243](/bill/2023-24/hb/2243/) - Social equity land trust 👍2  
 * 👍 Colleen Condon
+
+## [HB 2322](/bill/2023-24/hb/2322/) - Child care/tax preferences 👍1  
 
 ## [SB 5225](/bill/2023-24/sb/5225/) - Working conn. child care 👍2  
 

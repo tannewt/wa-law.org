@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31724&aId=157102&caId=23355&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31724&aId=157102&caId=23355&tId=4)
 
-#### 574 👍 - Pro
+#### 889 👍 - Pro
 Testifying:
 * Melissa Stuart - Redmond City Councilmember
 * Kate Bailey - The Association of Plastic Recyclers (APR)
@@ -28,14 +28,31 @@ Testifying:
 * Peter Lyon - Washington State Department of Ecology
 * Lynne Robinson - Mayor of the City of Bellevue
 * 💵Kristin Ang - Faith Action Network (FAN)
+* Dave Hamilton - [City of Bellevue](/org/city_of_bellevue/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Kamiya Jacob
+* Peter Steelquist - Surfrider
+* Pat McLaughlin - [King County](/org/king_county/)
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Elian Bayas - Friday Harbor High School Eco club
+* Dylan de Thomas - The Recycling Partnership
 
-#### 20 👎 - Con
+#### 44 👎 - Con
 Testifying:
 * Terry Grill - Sealed Air Corporation
 * 💵Brad Boswell - [Washington Beverage Association](/org/washington_beverage_association/)
 * Brendan Flanagan - [Consumer Brands Association](/org/consumer_brands_association/)
+* 💵Jay Balasbas - Sunshine Disposal and Recycling and Basin Disposal
+* 💵Lyset Cadena
+* 💵Vicki Christophersen - Washington Refuse and Recycling Association
+* Wendy Weiker - [Republic Services](/org/republic_services/)
 * Nora Palattao Burnes - Washington Beer and Wine Distributors Assn.
+* 💵Diana Carlen - [Washington Potato & Onion Association](/org/washington_potato_&_onion_association/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 1 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
+* Rose GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * 💵Andrew Hackman - AMERIPEN
+* 💵Brandon Houskeeper - NW Grocery Assoc.

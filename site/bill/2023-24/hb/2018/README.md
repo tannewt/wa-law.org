@@ -17,10 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157549&caId=23565&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157549&caId=23565&tId=4)
 
-#### 27 👍 - Pro
+#### 49 👍 - Pro
 Testifying:
 * Eric Sobotta - Reardan-Edwall School District
+* 💵Kelsi Hamilton - Chehalis School Board
 
-#### 7 👎 - Con
+#### 11 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

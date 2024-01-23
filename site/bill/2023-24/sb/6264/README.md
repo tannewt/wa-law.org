@@ -17,9 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31767&aId=157327&caId=23411&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31767&aId=157327&caId=23411&tId=4)
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Kimberly Headrick - Medical Lake School District
+* Melissa Beard - Council of Presidents
+* Alissa Muller - [Washington State Board of Education](/org/washington_state_board_of_education/)
 * Melissa Beard - Council of Presidents
 
 #### 0 👎 - Con

@@ -14,14 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31752&aId=157236&caId=23454&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31752&aId=157236&caId=23454&tId=4)
 
-#### 6 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Judge Michael Finkle - District & Municipal Court Judges' Association
+* 💵Michael Transue - National Alliance on Mental Illness (NAMI)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Rebecca Vasquez - King County Prosecuting Attorney's Office
 
-#### 3 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Jennifer Bartlett - Washington State Office of Public Defense
 * Kari Reardon - WDA/WACDL
+* 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 * 💵Chloe Merino
+* MD, JD, Jennifer Piel

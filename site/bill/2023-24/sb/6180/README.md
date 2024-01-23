@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31724&aId=157103&caId=23356&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31724&aId=157103&caId=23356&tId=4)
 
-#### 248 👍 - Pro
+#### 458 👍 - Pro
 Testifying:
 * Jay Blazey - [Cedar Grove](/org/cedar_grove/)
 * Andrea Collins - NRDC (Natural Resources Defense Council)
@@ -35,14 +35,24 @@ Testifying:
 * Brian Pontious - Ingevity
 * Jay Kang - Thurston County Food Bank
 
-#### 23 👎 - Con
+#### 33 👎 - Con
 Testifying:
+* Wendy Weiker - [Republic Services](/org/republic_services/)
+* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Brandon Houskeeper - NW Grocery Assoc.
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Scott Howarth - Sinclair
+* Mikey Hanks - Washington Fruit & Produce Co.
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 9 ❓ - Other
+#### 24 ❓ - Other
 Testifying:
 * Rose GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)
 * Peter Lyon - Washington State Department of Ecology
+* Lewis Griffith - [City of Tacoma](/org/city_of_tacoma/)
+* 💵Vicki Christophersen - Washington Refuse and Recycling Association
+* Trish Twomey - [Washington Food Coalition](/org/washington_food_coalition/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Lewis Griffith - City of Tacoma Environmental Services Division Manager of Solid Waste Management
+* Chris Cary - [Food Northwest](/org/food_northwest/)
+* Rick Vahl - Waste Connections

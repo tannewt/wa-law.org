@@ -95,7 +95,7 @@
 
 ## [HB 1776](/bill/2023-24/hb/1776/) - Applied behavior analysis  👎1 
 
-## [HB 1905](/bill/2023-24/hb/1905/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
+## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍1  
 
 ## [HB 1914](/bill/2023-24/hb/1914/) - Special education services   ❓1
 * ❓💵 Ramona Hattendorf
@@ -238,6 +238,8 @@
 * 👎💵 Ramona Hattendorf
 
 ## [SB 6014](/bill/2023-24/sb/6014/) - Special education cap 👍2  
+
+## [SB 6125](/bill/2023-24/sb/6125/) - Lakeland Village records 👍1  
 
 ## [SB 6126](/bill/2023-24/sb/6126/) - Respite care 👍1  
 

@@ -47,6 +47,10 @@
 ## [HB 2273](/bill/2023-24/hb/2273/) - Functional recovery building 👍1  
 * 👍 Corina Allen
 
+## [HB 2312](/bill/2023-24/hb/2312/) - Tribal interlocal agreements 👍2  
+* 👍 Brian Considine
+* 👍 Patrick DePoe
+
 ## [HB 2333](/bill/2023-24/hb/2333/) - Carbon seq./state lands 👍1  
 * 👍 Brian Considine
 

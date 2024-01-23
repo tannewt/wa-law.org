@@ -16,6 +16,8 @@
 
 ## [HB 2226](/bill/2023-24/hb/2226/) - H-2A worker program data 👍1  
 
+## [HB 2250](/bill/2023-24/hb/2250/) - Local elections 👍1  
+
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
 ## [HB 2309](/bill/2023-24/hb/2309/) - Washington 13 free guarantee 👍1  

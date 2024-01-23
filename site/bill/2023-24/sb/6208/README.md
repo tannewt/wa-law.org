@@ -14,17 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31766&aId=157306&caId=23378&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31766&aId=157306&caId=23378&tId=4)
 
-#### 229 👍 - Pro
+#### 270 👍 - Pro
 Testifying:
 * Anna Hernandez-French - Office of Superintendent of Public Instruction
 * 💵Carolyn Logue - [Washington Library Association](/org/washington_library_association/)
 * Gavin Downing - High School Librarian and WLA Intellectual Freedom Chair
 * Kristen Marsh - MomsRising
 
-#### 507 👎 - Con
+#### 707 👎 - Con
 Testifying:
 * Leslie Maxwell
 * Andy Cilley
 * Joy Gjersvold - Conservative Ladies of Washington
+* Jennifer Heine-Withee - Self
+* Kyle Yancey - Kinwell Health
 
 #### 1 ❓ - Other

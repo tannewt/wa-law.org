@@ -84,6 +84,10 @@
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
+## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
+
+## [HB 2346](/bill/2023-24/hb/2346/) - Health disparities council 👍1  
+
 ## [SB 5028](/bill/2023-24/sb/5028/) - Name changes 👍1  
 
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍3  
@@ -106,7 +110,7 @@
 
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍1  
 
-## [SB 5383](/bill/2023-24/sb/5383/) - Pedestrians/roadways 👍1  
+## [SB 5383](/bill/2023-24/sb/5383/) - Pedestrians/roadways 👍2  
 
 ## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍2  
 

@@ -67,6 +67,9 @@
 
 ## [HB 1879](/bill/2023-24/hb/1879/) - Naming the curriculum used to inform students about tribal history, culture, and government after John McCoy (lulilaš). 👍1  
 
+## [HB 1922](/bill/2023-24/hb/1922/) - Vape detectors/schools   ❓1
+* ❓💵 Roz Thompson
+
 ## [HB 1956](/bill/2023-24/hb/1956/) - Addressing fentanyl and other substance use prevention education. 👍1  
 * 👍💵 Casey Brown
 
@@ -79,6 +82,10 @@
 ## [HB 2180](/bill/2023-24/hb/2180/) - Special education cap 👍1  
 
 ## [HB 2267](/bill/2023-24/hb/2267/) - Commencement/cultural exp. 👍1  
+
+## [HB 2309](/bill/2023-24/hb/2309/) - Washington 13 free guarantee 👍1  
+
+## [HB 2374](/bill/2023-24/hb/2374/) - Washington promise program 👍1  
 
 ## [SB 5020](/bill/2023-24/sb/5020/) - Education at 6 years of age 👍1  
 
@@ -161,7 +168,7 @@
 
 ## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍1  
 
-## [SB 5873](/bill/2023-24/sb/5873/) - Student transportation 👍1  
+## [SB 5873](/bill/2023-24/sb/5873/) - Student transportation 👍2  
 
 ## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍1  
 
@@ -177,3 +184,5 @@
 ## [SB 6012](/bill/2023-24/sb/6012/) - Teacher preparation programs 👍1  
 
 ## [SB 6014](/bill/2023-24/sb/6014/) - Special education cap 👍1  
+
+## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍1  

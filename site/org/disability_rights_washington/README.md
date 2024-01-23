@@ -128,5 +128,7 @@
 
 ## [SB 6009](/bill/2023-24/sb/6009/) - Hog-tying 👍1  
 
+## [SB 6125](/bill/2023-24/sb/6125/) - Lakeland Village records 👍1  
+
 ## [SB 6189](/bill/2023-24/sb/6189/) - Jail system 👍1  
 * 👍 Heather McKimmie

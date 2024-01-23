@@ -82,7 +82,7 @@
 ## [HB 2039](/bill/2023-24/hb/2039/) - Modifying the appeals process for environmental and land use matters. 👍1  
 * 👍💵 Altinay Karasapan
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes. 👍1  
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍1  
 
 ## [HB 2051](/bill/2023-24/hb/2051/) - Reducing emissions from small off-road engines. 👍1  
 * 👍💵 Leah Missik
@@ -174,5 +174,9 @@
 ## [SB 6071](/bill/2023-24/sb/6071/) - Oil exporters/human rights 👍1  
 * 👍💵 Leah Missik
 
+## [SB 6114](/bill/2023-24/sb/6114/) - Sustainable aviation fuel 👍1  
+
 ## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management 👍1  
 * 👍 Deepa Sivarajan
+
+## [SB 6229](/bill/2023-24/sb/6229/) - Green transp. grants/match 👍1  

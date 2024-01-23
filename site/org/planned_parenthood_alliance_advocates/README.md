@@ -50,13 +50,15 @@
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
 
+## [HB 1859](/bill/2023-24/hb/1859/) - Concerning the rights of residents in long-term care facilities. 👍1  
+
 ## [HB 1895](/bill/2023-24/hb/1895/) - Modifying the working families' tax credit by clarifying the refundable nature of the credit, the application requirements, and the eligibility verification process. 👍1  
 
 ## [HB 1902](/bill/2023-24/hb/1902/) - Firearms/purchase & transfer 👍1  
 
 ## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍1  
 
-## [HB 1905](/bill/2023-24/hb/1905/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
+## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍1  
 
 ## [HB 1916](/bill/2023-24/hb/1916/) - Concerning funding for the early support for infants and toddlers program. 👍1  
 
@@ -72,7 +74,7 @@
 
 ## [HB 1999](/bill/2023-24/hb/1999/) - Fabricated intimate images 👍1  
 
-## [HB 2021](/bill/2023-24/hb/2021/) - Concerning the disposition of privately owned firearms in the custody of state or local government entities or law enforcement agencies. 👍1  
+## [HB 2021](/bill/2023-24/hb/2021/) - Firearm disposition 👍1  
 
 ## [HB 2023](/bill/2023-24/hb/2023/) - Improving meaningful access to elections by increasing language assistance. 👍1  
 
@@ -83,6 +85,8 @@
 ## [HB 2054](/bill/2023-24/hb/2054/) - Concerning bulk purchases and transfers of firearms. 👍1  
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
+
+## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍1  
 
 ## [HB 2098](/bill/2023-24/hb/2098/) - Women's commission/gifts 👍1  
 
@@ -100,9 +104,15 @@
 
 ## [HB 2205](/bill/2023-24/hb/2205/) - Signature gathering/protests  👎1 
 
+## [HB 2239](/bill/2023-24/hb/2239/) - Social-emotional instruction 👍1  
+
 ## [HB 2256](/bill/2023-24/hb/2256/) - Children behavioral health 👍1  
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
+
+## [HB 2331](/bill/2023-24/hb/2331/) - Public school materials 👍1  
+
+## [HB 2348](/bill/2023-24/hb/2348/) - County hospital funding 👍1  
 
 ## [HB 2395](/bill/2023-24/hb/2395/) - Strangulation & suffocation  👎1 
 
@@ -178,4 +188,10 @@
 
 ## [SB 6151](/bill/2023-24/sb/6151/) - Ultrasound 👍1  
 
-## [SB 6208](/bill/2023-24/sb/6208/) - Public school materials 👍1  
+## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
+
+## [SB 6208](/bill/2023-24/sb/6208/) - Public school materials 👍2  
+
+## [SB 6216](/bill/2023-24/sb/6216/) - Student mental health net. 👍1  
+
+## [SB 6257](/bill/2023-24/sb/6257/) - Hospital charity/residency  👎1 

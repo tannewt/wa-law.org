@@ -56,7 +56,7 @@
 
 ## [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg 👍1  
 
-## [HB 2022](/bill/2023-24/hb/2022/) - Concerning construction crane safety. 👍1  
+## [HB 2022](/bill/2023-24/hb/2022/) - Construction crane safety 👍1  
 
 ## [HB 2031](/bill/2023-24/hb/2031/) - Recognizing posttraumatic stress disorder as an occupational disease for county coroners, examiners, and investigative personnel. 👍1  
 
@@ -72,6 +72,9 @@
 
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
 * ❓ Kati Durkin
+
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+* 👍💵 Nicole Gomez
 
 ## [HB 2127](/bill/2023-24/hb/2127/) - Incentives to return to work 👍1  
 
@@ -105,6 +108,8 @@
 
 ## [HB 2407](/bill/2023-24/hb/2407/) - Child welfare workers 👍1  
 * 👍 Kati Durkin
+
+## [HB 2447](/bill/2023-24/hb/2447/) - Children and families 👍1  
 
 ## [SB 5010](/bill/2023-24/sb/5010/) - Synthetic opioids/endanger. 👍1  
 

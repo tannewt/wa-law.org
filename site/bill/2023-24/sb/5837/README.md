@@ -8,17 +8,12 @@
 
 ## Meetings
 ### Mon 01/22 04:00 PM - Ways & Means (WM): SB 5837 State election database
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31738&aId=157491&caId=23320&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31738&aId=157491&caId=23320&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31738&aId=157491&caId=23320&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31738&aId=157491&caId=23320&tId=4)
-
-#### 119 👍 - Pro
+#### 121 👍 - Pro
 Testifying:
 * Jacob Grumbach - Washington State Election Database & Mail Ballot Rejections Project
 * 💵Eli Goss - OneAmerica
 * Scott Allard - Evans School of Public Policy & Governance, University of Washington
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
 #### 32 👎 - Con
 

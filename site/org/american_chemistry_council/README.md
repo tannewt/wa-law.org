@@ -10,7 +10,7 @@
 * 👎 Tim Shestek
 * 👎 Tim Shestek
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes.  👎2 
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management  👎2 
 * 👎 Tim Shestek
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management  👎1 

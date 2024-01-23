@@ -8,6 +8,8 @@
 
 ## [HB 1446](/bill/2023-24/hb/1446/) - Law enf. officers/increase 👍1  
 
+## [HB 1716](/bill/2023-24/hb/1716/) - Child care B&O credit 👍1  
+
 ## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍2  
 
 ## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍1  
@@ -16,12 +18,20 @@
 
 ## [HB 1983](/bill/2023-24/hb/1983/) - Criminal justice trtmnt acct 👍1  
 
-## [HB 2021](/bill/2023-24/hb/2021/) - Concerning the disposition of privately owned firearms in the custody of state or local government entities or law enforcement agencies. 👍1  
+## [HB 2021](/bill/2023-24/hb/2021/) - Firearm disposition 👍1  
 * 👍 Dan Templeman
+
+## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍1  
 
 ## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities 👍1  
 
 ## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍1  
+
+## [HB 2307](/bill/2023-24/hb/2307/) - Public records reviews 👍1  
+
+## [HB 2311](/bill/2023-24/hb/2311/) - First responder wellness 👍1  
+
+## [HB 2390](/bill/2023-24/hb/2390/) - Eluding & resisting arrest 👍1  
 
 ## [SB 5118](/bill/2023-24/sb/5118/) - Multifamily property tax ex. 👍1  
 
@@ -35,3 +45,9 @@
 ## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍3  
 * 👍 Ben Zarlingo
 * 👍 Dan Templeman
+
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍1  
+
+## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
+
+## [SB 6202](/bill/2023-24/sb/6202/) - Tourism promotion exemptions 👍1  

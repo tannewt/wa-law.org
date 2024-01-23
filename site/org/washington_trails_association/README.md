@@ -18,7 +18,7 @@
 
 ## [HB 2257](/bill/2023-24/hb/2257/) - Back country search & rescue 👍1  
 
-## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍2  
+## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍3  
 
 ## [SB 5247](/bill/2023-24/sb/5247/) - Climate-ready communities 👍1  
 

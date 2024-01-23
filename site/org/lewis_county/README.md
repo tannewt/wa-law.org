@@ -7,7 +7,10 @@
 
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services  👎1 
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes.  👎1 
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management  👎1 
+
+## [HB 2296](/bill/2023-24/hb/2296/) - Comprehensive plan revisions 👍1  
+* 👍 Mindy Brooks
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget  👎1 
 * 👎 Sean Swope

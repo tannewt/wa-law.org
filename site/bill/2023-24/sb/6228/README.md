@@ -11,17 +11,15 @@
 
 ## Meetings
 ### Tue 01/23 08:00 AM - Health & Long Term Care (HLTC): SB 6228 Substance use treatment
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31743&aId=157191&caId=23330&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31743&aId=157191&caId=23330&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31743&aId=157191&caId=23330&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31743&aId=157191&caId=23330&tId=4)
-
-#### 3 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Robert Emerson - For the still suffering addict.
+* Julie Mitchell - Lakeside Milam Recovery Centers
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Dr. Sasha Waring
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
 #### 1 ❓ - Other
 Testifying:

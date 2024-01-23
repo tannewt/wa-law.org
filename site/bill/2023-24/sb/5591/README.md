@@ -15,7 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157502&caId=23371&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157502&caId=23371&tId=4)
 
-#### 77 👍 - Pro
+#### 127 👍 - Pro
+Testifying:
+* Sam Martin - [The Mockingbird Society](/org/the_mockingbird_society/)
+* Colleen Shea-Brown - Legal Counsel for Youth and Children (LCYC)
+* Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
+* 💵Emily Stochel - [College Success Foundation](/org/college_success_foundation/)
+* Clinton Taylor - Your Money Matters Financial Mentoring
 
 #### 0 👎 - Con
 

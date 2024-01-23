@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Mon 01/22 04:00 PM - Ways & Means (WM): SSB 5517 Water resource mitigation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31738&aId=157497&caId=23326&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31738&aId=157497&caId=23326&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31738&aId=157497&caId=23326&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31738&aId=157497&caId=23326&tId=4)
-
-#### 88 👍 - Pro
+#### 90 👍 - Pro
 Testifying:
 * Susanna Jones
 * Mo McKenna
@@ -25,7 +19,7 @@ Testifying:
 * Joe Zimmerman - Bi-Zi Farms
 * 💵Jeffrey Johnson - Regional Water Cooperative of Pierce County
 
-#### 163 👎 - Con
+#### 167 👎 - Con
 Testifying:
 * Trish Rolfe - [Center for Environmental Law & Policy](/org/center_for_environmental_law_&_policy/)
 * Council Jeremy Takala - Confederated Tribes and Bands of the Yakama Nation

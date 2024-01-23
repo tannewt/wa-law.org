@@ -14,13 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31692&aId=156906&caId=23345&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31692&aId=156906&caId=23345&tId=4)
 
-#### 42 👍 - Pro
+#### 52 👍 - Pro
 Testifying:
 * 💵Carolyn Logue - WA State Student Transportation Coalition
 * Nancy Lenhart - Widow/Community Member
 * Russell Shjerven - Secretary-Treasurer,  Teamsters Local Union No. 839
 * Tamara Pearson - Bus Driver with Pasco School District & Chief Union Steward, Teamsters Local 839
 
-#### 6 👎 - Con
+#### 15 👎 - Con
+Testifying:
+* Ramona Brandes - WACDL/WDA
+* 💵Karen Pillar - TeamChild
+* Brian Flaherty - King County Department of Public Defense
 
 #### 0 ❓ - Other

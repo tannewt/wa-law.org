@@ -17,13 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31704&aId=157054&caId=23477&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31704&aId=157054&caId=23477&tId=4)
 
-#### 16 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Shaena Garberich - Oxford Fundraising Chair Chapter 30
+* Joe Barrett - [Key Recovery & Life Skills Center](/org/key_recovery_&_life_skills_center/)
 
-#### 3 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Jessica Molberg - Coordinated Care
 * Eileen Newton - [Evergreen Recovery Centers](/org/evergreen_recovery_centers/)
+* Dr. Sasha Waring
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Katie Kolan - Washington State Hospital Association (WSHA)

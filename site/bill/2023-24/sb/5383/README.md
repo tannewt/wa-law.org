@@ -22,13 +22,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31695&aId=157472&caId=23362&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31695&aId=157472&caId=23362&tId=4)
 
-#### 158 👍 - Pro
+#### 216 👍 - Pro
+Testifying:
+* 💵Bryce Yadon - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
+* DeAndre Anderson - Self
+* Ethan Campbell - TCC Research Partner
+* 💵Paula Sardinas - FMS Global/BBB
+* Jaime Torres - Tri-Cities Justice Alliance
 
-#### 6 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * David Sedelmeier
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Michele Willms - Associated Geneal Contractors (AGC)
+* Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 ### Mon 02/13 04:00 PM - Transportation (TRAN): SB 5383 Pedestrians/roadways
 #### 398 👍 - Pro

@@ -101,7 +101,7 @@
 
 ## [HB 2037](/bill/2023-24/hb/2037/) - Concerning Holocaust and genocide education in public schools. 👍1  
 
-## [HB 2041](/bill/2023-24/hb/2041/) - Concerning physician assistant collaborative practice. 👍1  
+## [HB 2041](/bill/2023-24/hb/2041/) - Physician assistant practice 👍1  
 
 ## [HB 2065](/bill/2023-24/hb/2065/) - Recalculating sentencing ranges for currently incarcerated individuals whose offender score was increased by juvenile convictions. 👍1  
 * 👍 Dr. Katherine Beckett
@@ -116,6 +116,10 @@
 
 ## [HB 2242](/bill/2023-24/hb/2242/) - Sexual assault/higher ed. 👍1  
 * 👍 Amanda Kost
+
+## [HB 2309](/bill/2023-24/hb/2309/) - Washington 13 free guarantee 👍2  
+
+## [HB 2374](/bill/2023-24/hb/2374/) - Washington promise program 👍1  
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍3  
 * 👍 Joe Dacca

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5945/</link>
 		<description>Updates about SB 5945</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 11:33:16 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2024 09:41:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -38,7 +38,47 @@
 			<guid isPermaLink="false">testifier/KEVIN/JOHNSON/2024-01-19 02:39:34</guid>
 		</item>
 		<item>
-			<title>👍Kyle Sullivan - CAR PROS KIA RENTON</title>
+			<title>👍Tony Pho - Volkswagen of Kirkland</title>
+			<description>Tony Pho signed up to testify Pro. They are signed up to represent Volkswagen of Kirkland.</description>
+			<pubDate>Mon, 22 Jan 2024 05:05:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tony/Pho/2024-01-22 05:05:00</guid>
+		</item>
+		<item>
+			<title>👎Curt Augustine - Alliance for Automotive Innovation</title>
+			<description>Curt Augustine signed up to testify Con. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/alliance_for_automotive_innovation/&quot;&gt;Alliance for Automotive Innovation&lt;/a&gt;.</description>
+			<pubDate>Mon, 22 Jan 2024 08:05:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Curt/Augustine/2024-01-22 08:05:25</guid>
+		</item>
+		<item>
+			<title>👎💵Jeffrey Perry - General Motors</title>
+			<description>Jeffrey Perry signed up to testify Con. They are signed up to represent General Motors. They are a registered lobbyist.</description>
+			<pubDate>Mon, 22 Jan 2024 08:05:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jeffrey/Perry/2024-01-22 08:05:25</guid>
+		</item>
+		<item>
+			<title>👎Nicolina Hernandez - Toyota Motor North America</title>
+			<description>Nicolina Hernandez signed up to testify Con. They are signed up to represent Toyota Motor North America.</description>
+			<pubDate>Mon, 22 Jan 2024 08:05:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Nicolina/Hernandez/2024-01-22 08:05:25</guid>
+		</item>
+		<item>
+			<title>👎Thomas Lawson - Ford Motor Company</title>
+			<description>Thomas Lawson signed up to testify Con. They are signed up to represent Ford Motor Company.</description>
+			<pubDate>Mon, 22 Jan 2024 08:05:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Thomas/Lawson/2024-01-22 08:05:25</guid>
+		</item>
+		<item>
+			<title>👍Kyle Sullivan - Volkswagen of Kirkland</title>
 			<description>Kyle Sullivan signed up to testify Pro.</description>
 			<pubDate>Mon, 22 Jan 2024 08:27:59 GMT</pubDate>
 			<category>testifier</category>
@@ -76,6 +116,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/DAVE/ANDERSON/2024-01-22 11:33:16</guid>
+		</item>
+		<item>
+			<title>❓Jeff Gombosky - Tesla</title>
+			<description>Jeff Gombosky signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/tesla/&quot;&gt;Tesla&lt;/a&gt;.</description>
+			<pubDate>Tue, 23 Jan 2024 08:07:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jeff/Gombosky/2024-01-23 08:07:29</guid>
+		</item>
+		<item>
+			<title>👍Antonio Olivares - Lee Johnson Kia (Technician)</title>
+			<description>Antonio Olivares signed up to testify Pro. They are signed up to represent Lee Johnson Kia (Technician).</description>
+			<pubDate>Tue, 23 Jan 2024 09:41:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Antonio/Olivares/2024-01-23 09:41:39</guid>
 		</item>
 	</channel>
 </rss>

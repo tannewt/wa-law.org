@@ -13,7 +13,7 @@
 ## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍1  
 * 👍 Jennifer Dolan-Waldman
 
-## [HB 2021](/bill/2023-24/hb/2021/) - Concerning the disposition of privately owned firearms in the custody of state or local government entities or law enforcement agencies. 👍1  
+## [HB 2021](/bill/2023-24/hb/2021/) - Firearm disposition 👍1  
 * 👍 Jennifer Dolan-Waldman
 
 ## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍1  

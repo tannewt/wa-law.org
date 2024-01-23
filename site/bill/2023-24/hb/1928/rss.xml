@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 1928 - Regulating service contracts and protection product guarantees.</title>
+		<title>HB 1928 - Service contracts</title>
 		<link>https://wa-law.org/bill/2023-24/hb/1928/</link>
 		<description>Updates about HB 1928</description>
 		<language>en-US</language>
@@ -59,6 +59,13 @@
 			<pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-19/CPB - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-19/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

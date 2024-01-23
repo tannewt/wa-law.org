@@ -14,13 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31705&aId=157711&caId=23599&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31705&aId=157711&caId=23599&tId=4)
 
-#### 60 👍 - Pro
+#### 591 👍 - Pro
 Testifying:
+* Benjamin Boyle - APTA WA
+* Ben Boyle - APT Washington
+* Chad Hurst - WA State Chiropractic Association
+* 💵Lori Grassi - WA State Chiropractic Association
 * Nicholas Jankowski - [Optometric Physicians of Washington](/org/optometric_physicians_of_washington/)
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
 
 ### Fri 02/10 08:00 AM - Health Care & Wellness (HCW): HB 1655 Provider contract comp.
 #### 677 👍 - Pro

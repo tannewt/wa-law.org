@@ -14,17 +14,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31747&aId=157227&caId=23530&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31747&aId=157227&caId=23530&tId=4)
 
-#### 6 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Glenn Johnson
+* Deanna Syron - City of North Bonneville
 
-#### 17 👎 - Con
+#### 26 👎 - Con
 Testifying:
 * Joe Kunzler
 * Arthur West
 * Katherine George - WA Coalition for Open Government
 * Juli Bunting - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)
 * John Worthington
+* Mike Fancher
+* Robert McClure
+* Hannah Marcley
 
 #### 0 ❓ - Other

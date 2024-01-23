@@ -17,10 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31752&aId=157237&caId=23455&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31752&aId=157237&caId=23455&tId=4)
 
-#### 10 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Alison Ball - Confederated Tribes of the Colville Reservation
+* Vice Chair, Misty Napeahi - Tulalip Tribes of WA
+* 💵Vicki Lowe - American Indian Health Commission and Washington State Women's Commission
+* Rosalee Revey-Jacobs - Lummi Nation, Councilwoman
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Aren Sparck - Health Care Authority (HCA)

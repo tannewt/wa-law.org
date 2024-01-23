@@ -14,17 +14,28 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31704&aId=157710&caId=23598&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31704&aId=157710&caId=23598&tId=4)
 
-#### 36 👍 - Pro
+#### 141 👍 - Pro
 Testifying:
+* Rex Johnson - Washington Advocates for Patient Safety
+* 💵Noah Seidel - Office of Developmental Disabilities Ombuds
+* Adam Chromy - Northwest Justice Project
+* Cathy McCaul - AARP
+* 💵Noah Seidel - Office of Developmental Disability Ombuds
+* Neil Degerstedt - Southwest Washington LTC Ombuds
+* Nola Sterling
+* Susan Harter
 * 💵Brad Forbes - Alzheimer's Association
 
-#### 938 👎 - Con
+#### 1636 👎 - Con
 Testifying:
 * Ribka Mengesha
 * Rosemary Maseva
 * EMMAH KANYORA - Blessings AFH
 * Kenneth Kagona - Wholeness AFHLLC
 * Lydia Waweru - Emerald Park AFH
+* Adina Puravet - Bellevue Elderly Care LLC
+* Netsanet Kifle
+* Larry Enyart
 * Meri Jankovic-Pjanic
 * Jaspreet Kaur
 * Jaspreet Kaur
@@ -35,10 +46,15 @@ Testifying:
 * 💵Amina Abdalla - [Adult Family Home Council](/org/adult_family_home_council/)
 * Jen Broeckel - The Courtyard at Colfax Assisted Living
 * Nikki Storms - Chehalis West Assisted Living
+* Mhret Gezehay
+* Aregawi Yekunno - 11024 Meridian Ave S
+* Zelealem Kebede - 11024 Meridian Ave S
+* Laura Tanasescu
 * Bereket Tameru
 * Senkensh Gebeselase - BrookAFH
+* Dan Puravet - Bellevue Elderly Care LLC
 
-#### 3 ❓ - Other
+#### 18 ❓ - Other
 Testifying:
 * Miranda Calmjoy - WA State Board of Health
 

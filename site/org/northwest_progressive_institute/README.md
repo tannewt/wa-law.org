@@ -131,6 +131,10 @@
 ## [HB 2205](/bill/2023-24/hb/2205/) - Signature gathering/protests  👎1 
 * 👎 Kathy Sakahara
 
+## [HB 2250](/bill/2023-24/hb/2250/) - Local elections 👍1  
+
+## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
+
 ## [HB 2325](/bill/2023-24/hb/2325/) - Legislative employees 👍1  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act 👍1  
@@ -217,7 +221,8 @@
 ## [SB 5823](/bill/2023-24/sb/5823/) - School district elections 👍1  
 * 👍 Kamil Zaidi
 
-## [SB 5837](/bill/2023-24/sb/5837/) - Codifying the state election database to publish, evaluate, and analyze certain election data. 👍2  
+## [SB 5837](/bill/2023-24/sb/5837/) - Codifying the state election database to publish, evaluate, and analyze certain election data. 👍3  
+* 👍 Andrew Villeneuve
 * 👍 Andrew Villeneuve
 
 ## [SB 5843](/bill/2023-24/sb/5843/) - Election security breaches 👍1  
@@ -247,3 +252,5 @@
 * 👍 Andrew Villeneuve
 
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  
+
+## [SB 6269](/bill/2023-24/sb/6269/) - Alt. voter verification 👍1  

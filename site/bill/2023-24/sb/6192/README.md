@@ -14,13 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31750&aId=157439&caId=23353&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31750&aId=157439&caId=23353&tId=4)
 
-#### 4 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Mark Scoccolo - Contractor and Boad of Director of the National Utility Contractors Association
 * Shane Webley - Johansen Construction Company
 * Michael Pellitteri - PELLCO Construction, Inc
+* Jerry VanderWood - AGC of Washington
 * John Gehlsen
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵Scott Hazlegrove - WA Association of Sewer & Water Districts
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* William Frare - Washington State Department of Enterprise Services

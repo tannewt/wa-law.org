@@ -11,17 +11,11 @@
 
 ## Meetings
 ### Mon 01/22 04:00 PM - Appropriations (APP): HB 1980 Ground EMT services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31716&aId=157110&caId=23444&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31716&aId=157110&caId=23444&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31716&aId=157110&caId=23444&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31716&aId=157110&caId=23444&tId=4)
-
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 
 #### 3 👎 - Con
 Testifying:
 * Patrick McElligott - IAFF Local 31- Tacoma Firefighters
 * AJ Johnson - 1069 Adams St
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

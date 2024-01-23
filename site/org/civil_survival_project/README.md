@@ -48,6 +48,8 @@
 
 ## [HB 2251](/bill/2023-24/hb/2251/) - Unenforceable LFOs 👍1  
 
+## [HB 2447](/bill/2023-24/hb/2447/) - Children and families  👎1 
+
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍3  
 * 👍 Charlie Klein
 

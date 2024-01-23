@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31695&aId=157476&caId=23366&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31695&aId=157476&caId=23366&tId=4)
 
-#### 683 👍 - Pro
+#### 770 👍 - Pro
 Testifying:
 * Julia Michalak - WDFW
 * John Rosapepe - Endangered Species Coalition
@@ -26,7 +26,8 @@ Testifying:
 * 💵Kathleen Callaghy - [Defenders of Wildlife](/org/defenders_of_wildlife/)
 * 💵Paula Swedeen - [Conservation Northwest](/org/conservation_northwest/)
 * Robert Long - Woodland Park Zoo
+* Ahmer Nizam - Washington State Department of Transportation
 
-#### 1 👎 - Con
+#### 23 👎 - Con
 
 #### 1 ❓ - Other

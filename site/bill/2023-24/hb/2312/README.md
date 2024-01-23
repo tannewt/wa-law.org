@@ -14,10 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31719&aId=157087&caId=23461&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31719&aId=157087&caId=23461&tId=4)
 
-#### 0 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Brian Considine - [Department of Natural Resources](/org/department_of_natural_resources/)
+* Patrick DePoe - [Department of Natural Resources](/org/department_of_natural_resources/)
 
 #### 1 👎 - Con
 Testifying:
 * John Worthington
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Vice Chair Loni Greninger - Jamestown S'Klallam Tribe

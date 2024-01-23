@@ -17,14 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157547&caId=23563&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157547&caId=23563&tId=4)
 
-#### 875 👍 - Pro
+#### 1104 👍 - Pro
 Testifying:
 * Sarah Logan - [Washington Library Association](/org/washington_library_association/)
+* Sharon Damoff
 * Liv Finne - Washington Policy Center
+* Jennifer Heine-Withee - Self
+* Julie Barrett - Conservative Ladies of Washington
 
-#### 64 👎 - Con
+#### 82 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Marissa Rathbone - Washington State School Directors' Association
 * Andy Cilley
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)

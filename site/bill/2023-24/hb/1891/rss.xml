@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1891/</link>
 		<description>Updates about HB 1891</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 07:16:36 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,30 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Human Services, Youth, &amp; Early Learning.</guid>
+		</item>
+		<item>
+			<title>❓Patrick Dowd - WA State Office of the Family &amp; Children's Ombuds</title>
+			<description>Patrick Dowd signed up to testify Other. They are signed up to represent WA State Office of the Family &amp; Children's Ombuds.</description>
+			<pubDate>Mon, 22 Jan 2024 03:54:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Patrick/Dowd/2024-01-22 03:54:52</guid>
+		</item>
+		<item>
+			<title>👎Flint Stebbins - Washington State Graduate Student</title>
+			<description>Flint Stebbins signed up to testify Con.</description>
+			<pubDate>Mon, 22 Jan 2024 05:11:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Flint/Stebbins/2024-01-22 05:11:37</guid>
+		</item>
+		<item>
+			<title>👎💵Allison Krutsinger - Dept of Children, Youth, and Families</title>
+			<description>Allison Krutsinger signed up to testify Con. They are signed up to represent Dept of Children, Youth, and Families. They are a registered lobbyist.</description>
+			<pubDate>Mon, 22 Jan 2024 07:16:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Allison/Krutsinger/2024-01-22 07:16:36</guid>
 		</item>
 	</channel>
 </rss>

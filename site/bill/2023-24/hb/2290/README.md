@@ -11,9 +11,10 @@
 
 ## Meetings
 ### Mon 01/22 01:30 PM - Environment & Energy (ENVI): HB 2290 Untreated sewage discharges
-#### 69 👍 - Pro
+#### 70 👍 - Pro
 Testifying:
 * Susanna Jones
+* Representative J.T. Wilcox
 
 #### 4 👎 - Con
 Testifying:

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2403/</link>
 		<description>Updates about HB 2403</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 21 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2024 08:25:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -51,6 +51,30 @@
 			<pubDate>Sun, 21 Jan 2024 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/01/21/the-house-hot-sheet-for-week-3-of-the-2024-legislative-session/#:~:text=HB%202403</guid>
+		</item>
+		<item>
+			<title>👍AJ Johnson - Wscff</title>
+			<description>AJ Johnson signed up to testify Pro. They are signed up to represent Wscff.</description>
+			<pubDate>Mon, 22 Jan 2024 08:49:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/AJ/Johnson/2024-01-22 08:49:13</guid>
+		</item>
+		<item>
+			<title>👍Rachel Quinn - Wscff</title>
+			<description>Rachel Quinn signed up to testify Pro.</description>
+			<pubDate>Mon, 22 Jan 2024 08:50:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rachel/Quinn/2024-01-22 08:50:49</guid>
+		</item>
+		<item>
+			<title>👎Sam Mcentire - Dog business owners</title>
+			<description>Sam Mcentire signed up to testify Con. They are signed up to represent Dog business owners.</description>
+			<pubDate>Tue, 23 Jan 2024 08:25:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sam/Mcentire/2024-01-23 08:25:14</guid>
 		</item>
 	</channel>
 </rss>

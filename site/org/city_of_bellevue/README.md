@@ -71,12 +71,16 @@
 
 ## [HB 2045](/bill/2023-24/hb/2045/) - Creating an adopt a fish barrier program. 👍1  
 
+## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍1  
+
 ## [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element  👎1 
 * 👎💵 Briahna Murray
 
 ## [HB 2153](/bill/2023-24/hb/2153/) - Catalytic converter theft 👍1  
 
 ## [HB 2308](/bill/2023-24/hb/2308/) - Existing structures/housing 👍1  
+
+## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
 
 ## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras 👍1  
 
@@ -99,6 +103,8 @@
 * ❓ Lacey Jane Wolfe
 
 ## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍1  
+
+## [SB 5383](/bill/2023-24/sb/5383/) - Pedestrians/roadways   ❓1
 
 ## [SB 5418](/bill/2023-24/sb/5418/) - Definition of public work  👎1 
 
@@ -131,8 +137,13 @@
 
 ## [SB 5989](/bill/2023-24/sb/5989/) - Confirming property ownership or owner authorization for short-term rentals.   ❓1
 
+## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
+* 👍 Dave Hamilton
+
 ## [SB 6040](/bill/2023-24/sb/6040/) - Public works payments   ❓1
 
 ## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍1  
+
+## [SB 6192](/bill/2023-24/sb/6192/) - Construction change orders   ❓1
 
 ## [SB 6230](/bill/2023-24/sb/6230/) - Tax increment areas  👎1 

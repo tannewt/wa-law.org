@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31746&aId=157221&caId=23489&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31746&aId=157221&caId=23489&tId=4)
 
-#### 22 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * Mike Yestramski - President, Washington Federation of State Employees
 * Ashley Fueston - VP, Washington Federation of State Employees

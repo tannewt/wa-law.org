@@ -11,13 +11,10 @@
 
 ## Meetings
 ### Tue 01/23 08:00 AM - Finance (FIN): HB 2322 Child care/tax preferences
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31702&aId=157033&caId=23452&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31702&aId=157033&caId=23452&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31702&aId=157033&caId=23452&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31702&aId=157033&caId=23452&tId=4)
-
-#### 24 👍 - Pro
+#### 36 👍 - Pro
+Testifying:
+* 💵Maggie Humphreys - MomsRising
+* 💵Erin Haick - SEIU 925
 
 #### 0 👎 - Con
 

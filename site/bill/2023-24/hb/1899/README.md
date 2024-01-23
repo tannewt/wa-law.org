@@ -17,18 +17,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31773&aId=157347&caId=23470&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31773&aId=157347&caId=23470&tId=4)
 
-#### 76 👍 - Pro
+#### 146 👍 - Pro
 Testifying:
 * Josh Kerns - [Spokane County](/org/spokane_county/)
 * Al French - Spokane county Commissioner
 * Michael Bissell - Campbell & Bissell, PLLC
 * Al Merkel - Councilmember, City of Spokane Valley
 * Terri Cooper - City of Medical Lake
+* Lisa Johnson
+* Susan Brown
 * 💵Lukas Garcia - Greater Spokane Valley Chamber of Commerce
+* Meegan Ware
+* 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 3 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * David Forte - Office of the Insurance Commissioner
+* 💵Kenton Brine - [Northwest Insurance Council](/org/northwest_insurance_council/)
 
 #### 1 ❓ - Other
 Testifying:

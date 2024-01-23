@@ -15,4 +15,6 @@
 
 ## [SB 5956](/bill/2023-24/sb/5956/) - Enrichment levies limit 👍1  
 
+## [SB 6082](/bill/2023-24/sb/6082/) - Paraeducator compensation 👍1  
+
 ## [SB 6115](/bill/2023-24/sb/6115/) - Speed safety cameras 👍1  

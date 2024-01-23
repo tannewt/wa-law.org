@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 2022 - Concerning construction crane safety.</title>
+		<title>HB 2022 - Construction crane safety</title>
 		<link>https://wa-law.org/bill/2023-24/hb/2022/</link>
 		<description>Updates about HB 2022</description>
 		<language>en-US</language>
@@ -99,6 +99,13 @@
 			<pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-19/LAWS - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-19/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

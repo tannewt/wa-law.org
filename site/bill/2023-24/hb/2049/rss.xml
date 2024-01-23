@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 2049 - Improving Washington's solid waste management outcomes.</title>
+		<title>HB 2049 - Solid waste management</title>
 		<link>https://wa-law.org/bill/2023-24/hb/2049/</link>
 		<description>Updates about HB 2049</description>
 		<language>en-US</language>
@@ -393,6 +393,13 @@
 			<pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-18/ENVI - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-18/Minority; do not pass.</guid>
 		</item>
 		<item>
 			<title>2024 Quaker Voice Priorities — Quaker Voice</title>

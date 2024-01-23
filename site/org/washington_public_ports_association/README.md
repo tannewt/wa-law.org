@@ -79,7 +79,7 @@
 
 ## [HB 1663](/bill/2023-24/hb/1663/) - Consolidated port districts 👍4  
 
-## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍2  
+## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍3  
 
 ## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍5  
 * 👍 Chris Herman
@@ -150,6 +150,8 @@
 
 ## [HB 2134](/bill/2023-24/hb/2134/) - Transportation budget, supp.   ❓1
 * ❓ Chris Herman
+
+## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
 
 ## [HB 2341](/bill/2023-24/hb/2341/) - Offshore wind dev. study   ❓1
 * ❓ Eric ffitch
@@ -257,7 +259,12 @@
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply   ❓1
 * ❓💵 Carly Michiels
 
+## [SB 6055](/bill/2023-24/sb/6055/) - Natural resource indus. dev. 👍1  
+
 ## [SB 6168](/bill/2023-24/sb/6168/) - International leadership 👍1  
+
+## [SB 6192](/bill/2023-24/sb/6192/) - Construction change orders   ❓1
+* ❓ Chris Herman
 
 ## [SB 6202](/bill/2023-24/sb/6202/) - Tourism promotion exemptions 👍1  
 

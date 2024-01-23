@@ -18,11 +18,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31773&aId=157352&caId=23475&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31773&aId=157352&caId=23475&tId=4)
 
-#### 115 👍 - Pro
+#### 138 👍 - Pro
 Testifying:
 * Allison Scarborough
 * Dan Paul - The Humane Society of the United States
+* AJ Johnson - Wscff
+* Rachel Quinn
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Sam Mcentire - Dog business owners
 
 #### 0 ❓ - Other

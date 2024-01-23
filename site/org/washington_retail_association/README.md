@@ -100,8 +100,9 @@
 ## [HB 1661](/bill/2023-24/hb/1661/) - Mobile crisis intervention 👍1  
 * 👍💵 Mark Johnson
 
-## [HB 1716](/bill/2023-24/hb/1716/) - Child care B&O credit 👍1  
+## [HB 1716](/bill/2023-24/hb/1716/) - Child care B&O credit 👍2  
 * 👍💵 Mark Johnson
+* 👍💵 Crystal Leatherman
 
 ## [HB 1742](/bill/2023-24/hb/1742/) - Nontax statutes/DOR 👍2  
 * 👍💵 Mark Johnson
@@ -156,7 +157,7 @@
 ## [HB 1991](/bill/2023-24/hb/1991/) - Paid sick leave  👎1 
 * 👎 Bruce K Beckett
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes.   ❓1
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management   ❓1
 * ❓💵 Mark Johnson
 
 ## [HB 2051](/bill/2023-24/hb/2051/) - Reducing emissions from small off-road engines.   ❓1
@@ -367,6 +368,9 @@
 ## [SB 5988](/bill/2023-24/sb/5988/) - Gift certificates/unclaimed  👎1 
 * 👎💵 Crystal Leatherman
 
+## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management   ❓1
+* ❓ Rose GUNDERSEN
+
 ## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍1  
 * 👍 Rose GUNDERSEN
 
@@ -387,3 +391,7 @@
 
 ## [SB 6242](/bill/2023-24/sb/6242/) - Law enforcement training 👍1  
 * 👍💵 Mark Johnson
+
+## [SB 6265](/bill/2023-24/sb/6265/) - Grocery coupons  👎1 
+
+## [SB 6294](/bill/2023-24/sb/6294/) - Fur products   ❓1

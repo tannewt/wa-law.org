@@ -13,6 +13,8 @@
 
 ## [HB 2231](/bill/2023-24/hb/2231/) - Law enforcement funding 👍1  
 
+## [HB 2390](/bill/2023-24/hb/2390/) - Eluding & resisting arrest 👍1  
+
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing  👎1 
 * 👎 Katrina Knutson
 

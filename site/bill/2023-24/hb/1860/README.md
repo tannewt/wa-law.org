@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31707&aId=157044&caId=23485&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31707&aId=157044&caId=23485&tId=4)
 
-#### 19 👍 - Pro
+#### 37 👍 - Pro
 
-#### 3 👎 - Con
+#### 75 👎 - Con
+Testifying:
+* Beth Knox - [Seattle Sports Commission](/org/seattle_sports_commission/)
+* April Stark - Pacific Northwest Qualifier
+* Tammy Dunn - Snohomish County Sports Commission
 
 #### 0 ❓ - Other

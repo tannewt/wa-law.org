@@ -14,3 +14,6 @@
 ## [SB 5720](/bill/2023-24/sb/5720/) - Risk mitigation 👍2  
 * 👍💵 Mark Sektnan
 * 👍 Kris Tefft
+
+## [SB 6252](/bill/2023-24/sb/6252/) - Automobile insurance  👎1 
+* 👎 Kris Tefft

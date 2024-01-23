@@ -40,7 +40,7 @@
 ## [HB 1957](/bill/2023-24/hb/1957/) - Preventive service coverage 👍1  
 * 👍💵 Stephanie Simpson
 
-## [HB 2041](/bill/2023-24/hb/2041/) - Concerning physician assistant collaborative practice. 👍1  
+## [HB 2041](/bill/2023-24/hb/2041/) - Physician assistant practice 👍1  
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
@@ -51,6 +51,8 @@
 ## [HB 2157](/bill/2023-24/hb/2157/) - Vaccine definition 👍1  
 
 ## [HB 2256](/bill/2023-24/hb/2256/) - Children behavioral health 👍1  
+
+## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
 
 ## [HB 2361](/bill/2023-24/hb/2361/) - Standardized health plans 👍1  
 

@@ -83,10 +83,12 @@
 
 ## [HB 1870](/bill/2023-24/hb/1870/) - Promoting economic development by increasing opportunities for local communities to secure federal funding. 👍1  
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes. 👍1  
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍1  
 
 ## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions. 👍1  
 * 👍 Jamie Stroble
+
+## [HB 2091](/bill/2023-24/hb/2091/) - Fallen firefighter memorial 👍1  
 
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  
 * 👍 Scott Richards
@@ -99,6 +101,10 @@
 ## [HB 2243](/bill/2023-24/hb/2243/) - Social equity land trust 👍1  
 
 ## [HB 2253](/bill/2023-24/hb/2253/) - Community solar 👍1  
+
+## [HB 2262](/bill/2023-24/hb/2262/) - Tire rolling resistance 👍1  
+
+## [HB 2330](/bill/2023-24/hb/2330/) - Wildfire protection 👍1  
 
 ## [HB 2333](/bill/2023-24/hb/2333/) - Carbon seq./state lands 👍1  
 

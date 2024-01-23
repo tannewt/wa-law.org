@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6152/</link>
 		<description>Updates about SB 6152</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 01:11:29 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 07:56:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -38,6 +38,14 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Dave/Andersen/2024-01-22 01:11:29</guid>
+		</item>
+		<item>
+			<title>👍💵Carl Schroeder - Association of Washington Cities</title>
+			<description>Carl Schroeder signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/association_of_washington_cities/&quot;&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 22 Jan 2024 07:56:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Carl/Schroeder/2024-01-22 07:56:00</guid>
 		</item>
 	</channel>
 </rss>

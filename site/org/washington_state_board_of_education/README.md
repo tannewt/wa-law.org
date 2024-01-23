@@ -76,6 +76,8 @@
 
 ## [HB 1956](/bill/2023-24/hb/1956/) - Addressing fentanyl and other substance use prevention education. 👍1  
 
+## [HB 2037](/bill/2023-24/hb/2037/) - Concerning Holocaust and genocide education in public schools. 👍1  
+
 ## [HB 2053](/bill/2023-24/hb/2053/) - Establishing the ninth grade success grant program. 👍1  
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
@@ -91,6 +93,8 @@
 
 ## [HB 2282](/bill/2023-24/hb/2282/) - African American studies 👍1  
 * 👍 Brooke Brown
+
+## [HB 2331](/bill/2023-24/hb/2331/) - Public school materials 👍1  
 
 ## [HB 2335](/bill/2023-24/hb/2335/) - State-tribal edu. compacts 👍1  
 
@@ -187,3 +191,6 @@
 * 👍 Alissa Muller
 
 ## [SB 6014](/bill/2023-24/sb/6014/) - Special education cap 👍1  
+
+## [SB 6264](/bill/2023-24/sb/6264/) - Competency-based education 👍1  
+* 👍 Alissa Muller

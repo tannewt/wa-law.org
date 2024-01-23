@@ -14,14 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31771&aId=157448&caId=23361&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31771&aId=157448&caId=23361&tId=4)
 
-#### 105 👍 - Pro
+#### 116 👍 - Pro
 Testifying:
 * William Cavecche - King County Elections
 * Jake García - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
 
-#### 434 👎 - Con
+#### 542 👎 - Con
 Testifying:
 * Theresa Schrempp
+* Mary Long - Conservative Ladies of Washington
+* Sharon Damoff
+* Leslie Williams - Conservative Ladies of WA
 * Kim Slinger
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)

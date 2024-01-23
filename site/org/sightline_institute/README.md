@@ -85,6 +85,9 @@
 
 ## [HB 2219](/bill/2023-24/hb/2219/) - Affordable housing/tax ex. 👍1  
 
+## [HB 2250](/bill/2023-24/hb/2250/) - Local elections 👍1  
+* 👍💵 Shannon Grimes
+
 ## [HB 2252](/bill/2023-24/hb/2252/) - Small businesses/residential 👍1  
 
 ## [HB 2308](/bill/2023-24/hb/2308/) - Existing structures/housing 👍1  

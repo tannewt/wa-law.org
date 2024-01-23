@@ -14,7 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31753&aId=157245&caId=23510&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31753&aId=157245&caId=23510&tId=4)
 
-#### 0 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Kai Lightner
+* Tom Vogl - The Mountaineers
+* MICHAEL LARY - [Washington Indoor Climbing Coalition](/org/washington_indoor_climbing_coalition/)
+* Michele Lang - Insight Climbing & Movement
+* Tod Bloxham - Edgeworks Climbing
+* Marc Norman - USA Climbing
 
 #### 0 👎 - Con
 

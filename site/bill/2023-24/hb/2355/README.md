@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31704&aId=157056&caId=23479&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31704&aId=157056&caId=23479&tId=4)
 
-#### 6 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* Kate Tudor - Rayus Radiology
+* Kristin Kessler - Rayus Radiology
+* Douglas Seiler - TRA Medical Imaging
 
 #### 0 👎 - Con
 

@@ -17,16 +17,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157548&caId=23564&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157548&caId=23564&tId=4)
 
-#### 213 👍 - Pro
+#### 1089 👍 - Pro
 Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * Anfal Jneidi
 * Elsa Sjunneson Jones - Seattle Council PTSA, President
 * Jeffrey Slotnick - Setracon Inc.
+* Sharon Damoff
+* Cammie Allen
+* Ingrid Steppic
+* Paul Regelbrugge - Holocaust Center for Humanity
+* Rose Nelson
+* Emmanuel Turaturanye
 * Liam Krol - The Forgotten Europe Project
 * Beryl Emberson-Nash
+* Jeffrey Slotnick - Jewish Federation of Greater Seattle and SAFE Washington
 
-#### 17 👎 - Con
+#### 73 👎 - Con
 Testifying:
 * Naveed Siddiqui
 * Ala Hassan
@@ -37,10 +44,22 @@ Testifying:
 * Khaled Mohamed
 * Khaled Mohamed
 * Zahid Chaudhry
+* Tracy Dr. Castro-Gill - Washington Ethnic Studies Now
+* Nizama Djuderija
+* Muhammed Ibrahim
+* Hira Niaz
+* Julie Barrett - Conservative Ladies of Washington
 
-#### 8 ❓ - Other
+#### 25 ❓ - Other
 Testifying:
 * Luay Joudeh
 * Luay Joudeh
 * Rae Levine
 * Anfal Jneidi
+* Nizama Djuderija - Department of Public Defense - DPD TDA Division
+* Cheap Lim
+* Stephanie Ung - Khmer Community of Seattle/King County
+* Tessavan Ros
+* Touch Pong
+* Amna Qazi
+* Sallie Shawl

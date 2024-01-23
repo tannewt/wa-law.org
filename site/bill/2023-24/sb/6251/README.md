@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/23 08:00 AM - Health & Long Term Care (HLTC): SB 6251 Behavioral crisis coord.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31743&aId=157513&caId=23332&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31743&aId=157513&caId=23332&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31743&aId=157513&caId=23332&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31743&aId=157513&caId=23332&tId=4)
-
-#### 70 👍 - Pro
+#### 94 👍 - Pro
 Testifying:
 * 💵Brad Banks - Behavioral Health Administrative Services Organizations
 * Jennifer Stuber - UW School of Social Work
@@ -22,4 +16,6 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Michele Roberts - Washington State Department of Health

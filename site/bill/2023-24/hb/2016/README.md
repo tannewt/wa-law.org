@@ -17,13 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31753&aId=157241&caId=23506&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31753&aId=157241&caId=23506&tId=4)
 
-#### 54 👍 - Pro
+#### 68 👍 - Pro
+Testifying:
+* Tina Cruz
 
-#### 359 👎 - Con
+#### 435 👎 - Con
 Testifying:
 * Julie Barrett - Parent
+* Mary Long - Conservative Ladies of Washington
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Karen Pillar - TeamChild
 * Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)

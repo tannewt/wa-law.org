@@ -1,5 +1,8 @@
 # Northwest Insurance Council
 
+## [HB 1899](/bill/2023-24/hb/1899/) - Facilitating reconstruction of communities damaged or destroyed by wildfires.  👎1 
+* 👎💵 Kenton Brine
+
 ## [HB 2011](/bill/2023-24/hb/2011/) - Enhancing consumer protections for automobile insurance coverage.  👎1 
 * 👎💵 Kenton Brine
 
@@ -19,3 +22,6 @@
 * 👎 KENTON BRINE
 
 ## [SB 5720](/bill/2023-24/sb/5720/) - Risk mitigation 👍1  
+
+## [SB 6252](/bill/2023-24/sb/6252/) - Automobile insurance  👎1 
+* 👎💵 Kenton Brine

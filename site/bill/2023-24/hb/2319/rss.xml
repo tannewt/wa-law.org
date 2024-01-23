@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2319/</link>
 		<description>Updates about HB 2319</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 09:37:19 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2024 09:46:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -39,12 +39,44 @@
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/01/21/the-house-hot-sheet-for-week-3-of-the-2024-legislative-session/#:~:text=HB%202319</guid>
 		</item>
 		<item>
+			<title>❓Katie Kolan - Washington State Hospital Association (WSHA)</title>
+			<description>Katie Kolan signed up to testify Other. They are signed up to represent Washington State Hospital Association (WSHA).</description>
+			<pubDate>Mon, 22 Jan 2024 05:09:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Katie/Kolan/2024-01-22 05:09:20</guid>
+		</item>
+		<item>
 			<title>👎Eileen Newton - Evergreen Recovery Centers</title>
 			<description>Eileen Newton signed up to testify Con. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/evergreen_recovery_centers/&quot;&gt;Evergreen Recovery Centers&lt;/a&gt;.</description>
 			<pubDate>Mon, 22 Jan 2024 09:37:19 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Eileen/Newton/2024-01-22 09:37:19</guid>
+		</item>
+		<item>
+			<title>👎Dr. Sasha Waring - Evergreen Recovery Centers</title>
+			<description>Dr. Sasha Waring signed up to testify Con.</description>
+			<pubDate>Tue, 23 Jan 2024 09:27:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Dr. Sasha/Waring/2024-01-23 09:27:46</guid>
+		</item>
+		<item>
+			<title>👎💵Jennifer Ziegler - Association of Washington Health Care Plans</title>
+			<description>Jennifer Ziegler signed up to testify Con. They are signed up to represent Association of Washington Health Care Plans. They are a registered lobbyist.</description>
+			<pubDate>Tue, 23 Jan 2024 09:27:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jennifer/Ziegler/2024-01-23 09:27:46</guid>
+		</item>
+		<item>
+			<title>👍Joe Barrett - Key Recovery &amp; Life Skills Center</title>
+			<description>Joe Barrett signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/key_recovery_&amp;_life_skills_center/&quot;&gt;Key Recovery &amp; Life Skills Center&lt;/a&gt;.</description>
+			<pubDate>Tue, 23 Jan 2024 09:46:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Joe/Barrett/2024-01-23 09:46:11</guid>
 		</item>
 	</channel>
 </rss>

@@ -14,7 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31733&aId=157148&caId=23523&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31733&aId=157148&caId=23523&tId=4)
 
-#### 7 👍 - Pro
+#### 15 👍 - Pro
+Testifying:
+* Caitlyn Jekel - WA State Employment Security Dept
+* Amy Martinez - South Central Workforce
+* Bernadette Marquez - The Opportunity Council
+* John Traugott - [Washington Workforce Association](/org/washington_workforce_association/)
+* Domenico Tedeschi - [Confluence Health](/org/confluence_health/)
+* Lisa Romaine - SkillSource
+* Tracy Doriot - Doriot Construction
 
 #### 0 👎 - Con
 

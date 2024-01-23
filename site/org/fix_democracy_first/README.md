@@ -182,6 +182,8 @@
 
 ## [HB 2250](/bill/2023-24/hb/2250/) - Local elections 👍1  
 
+## [HB 2459](/bill/2023-24/hb/2459/) - Alt. measure disclosures 👍1  
+
 ## [SB 5039](/bill/2023-24/sb/5039/) - Wildfires/electric utilities 👍1  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act 👍1  

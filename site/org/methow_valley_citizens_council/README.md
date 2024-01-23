@@ -52,4 +52,4 @@
 
 ## [SB 6113](/bill/2023-24/sb/6113/) - Community solar 👍1  
 
-## [SB 6237](/bill/2023-24/sb/6237/) - Wildlife safe passages 👍2  
+## [SB 6237](/bill/2023-24/sb/6237/) - Wildlife safe passages 👍3  

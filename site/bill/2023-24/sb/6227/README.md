@@ -14,12 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31692&aId=157004&caId=23348&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31692&aId=157004&caId=23348&tId=4)
 
-#### 5 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * David Talley - King County Prosecuting Attorney's Office
 * David Talley - King County Prosecuting Attorney
 * Gabrielle Charlton - King County Prosecuting Attorney
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Kari Reardon - WDA/WACDL
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Melissa Johnson - District & Municipal Court Judges' Association

@@ -91,7 +91,7 @@
 
 ## [HB 2044](/bill/2023-24/hb/2044/) - Standardizing limitations on voter-approved property tax levies. 👍1  
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes. 👍1  
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍1  
 
 ## [HB 2051](/bill/2023-24/hb/2051/) - Reducing emissions from small off-road engines. 👍1  
 
@@ -102,6 +102,9 @@
 ## [HB 2308](/bill/2023-24/hb/2308/) - Existing structures/housing 👍1  
 
 ## [HB 2322](/bill/2023-24/hb/2322/) - Child care/tax preferences 👍1  
+
+## [HB 2354](/bill/2023-24/hb/2354/) - Tax increment areas  👎1 
+* 👎 Michael Olson
 
 ## [SB 5006](/bill/2023-24/sb/5006/) - Waiver of firearm rights 👍1  
 
@@ -184,3 +187,6 @@
 ## [SB 6030](/bill/2023-24/sb/6030/) - ADU tax exemptions 👍1  
 
 ## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍1  
+
+## [SB 6230](/bill/2023-24/sb/6230/) - Tax increment areas  👎1 
+* 👎 Michael Olson

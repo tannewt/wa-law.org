@@ -14,8 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31746&aId=157222&caId=23490&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31746&aId=157222&caId=23490&tId=4)
 
-#### 7 👍 - Pro
+#### 38 👍 - Pro
+Testifying:
+* Courtney Cecale - WA State Department of Ecology
+* Linh Huynh - Governor's Interagency Coordinating Council on Health Disparities
+* Lydia Faitalia - WA State Commission on Asian Pacific American Affairs
+* Sili Savusa - Pacific Islander Community Association of Washington
+* Fa'aluaina Pritchard - [Asia Pacific Cultural Center](/org/asia_pacific_cultural_center/)
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

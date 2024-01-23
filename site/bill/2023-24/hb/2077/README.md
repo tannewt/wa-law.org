@@ -17,8 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31714&aId=157077&caId=23519&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31714&aId=157077&caId=23519&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Jacob Vigdor - University of Washington Faculty
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Dana Anderson - Washington School Information Processing Cooperative (WSIPC)
+* Ruben Flores - Council Of Presidents

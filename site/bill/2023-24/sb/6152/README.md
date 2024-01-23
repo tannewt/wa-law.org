@@ -8,18 +8,13 @@
 
 ## Meetings
 ### Tue 01/23 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6152 Housing needs gap
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31740&aId=157174&caId=23334&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31740&aId=157174&caId=23334&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31740&aId=157174&caId=23334&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31740&aId=157174&caId=23334&tId=4)
-
-#### 36 👍 - Pro
+#### 47 👍 - Pro
 Testifying:
 * Anne McEnerny-Ogle - Mayor of Vancouver
 * Constance Nelson
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 16 👎 - Con
+#### 17 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

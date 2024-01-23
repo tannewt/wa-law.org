@@ -26,3 +26,9 @@
 ## [SB 5445](/bill/2023-24/sb/5445/) - Prescription cost-sharing  👎1 
 
 ## [SB 5821](/bill/2023-24/sb/5821/) - Audio-only telemedicine 👍1  
+
+## [SB 6182](/bill/2023-24/sb/6182/) - Obesity Rx coverage  👎1 
+
+## [SB 6218](/bill/2023-24/sb/6218/) - Dental only plans  👎1 
+
+## [SB 6258](/bill/2023-24/sb/6258/) - Standardized health plans  👎1 

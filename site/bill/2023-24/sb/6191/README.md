@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31741&aId=157504&caId=23414&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31741&aId=157504&caId=23414&tId=4)
 
-#### 461 👍 - Pro
+#### 658 👍 - Pro
 Testifying:
 * Cathy Murahashi - The Arc of Washington
 * Marc Cote - Parkview Services
@@ -30,12 +30,13 @@ Testifying:
 * Robert Wardell
 * Kari Cunningham-Rosvik
 
-#### 122 👎 - Con
+#### 140 👎 - Con
 Testifying:
 * 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Emily Shay - Association of Washington Buisness
 * Patricia Hoendermis - Yakima Valley Landlords Assoc.
 * Debby Herbert
 * William Shadbolt - [Washington Business Properties Association](/org/washington_business_properties_association/)
+* Mike Morris
 
 #### 2 ❓ - Other

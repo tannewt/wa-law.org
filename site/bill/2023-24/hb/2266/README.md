@@ -14,13 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31731&aId=157136&caId=23560&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31731&aId=157136&caId=23560&tId=4)
 
-#### 142 👍 - Pro
+#### 232 👍 - Pro
 
-#### 92 👎 - Con
+#### 106 👎 - Con
 Testifying:
 * Mitch Neeley
 * America George - Safety Site Solutions
 * 💵Carolyn Logue - Associated Builders & Contractors of Washington
 * Brody Stohr
+* Ryan Wallin
+* SHELLY MUENSCHER
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

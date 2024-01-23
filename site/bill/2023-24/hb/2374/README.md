@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31713&aId=157075&caId=23483&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31713&aId=157075&caId=23483&tId=4)
 
-#### 134 👍 - Pro
+#### 208 👍 - Pro
 Testifying:
 * Lina Ulloa - Communities for Our Colleges
 * Maria Barrios - Communities for Our Colleges
@@ -28,8 +28,21 @@ Testifying:
 * Angela Pierce-Ngo - NW Education Access
 * Natalya Yudkovsky - Washington State PTA
 * Daniel Ngoy - Associated Students of Bellevue College and the Communities for our Colleges Coalition
+* 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
+* Dafne Pinon - Communities for Our Colleges
+* Lucero Mendez - Communities for Our Colleges
+* Jackson Feaster - Communities for Our Colleges
+* Nancy Cruz - Communities for Our Colleges
 * Sean Behl - Associated Students of Bellevue College and the Communities for our Colleges Coalition
 
-#### 107 👎 - Con
+#### 421 👎 - Con
+Testifying:
+* Jeannette Mcchesney
+* Ashvin Sanghvi - microsoft
+* Teddy Anderson
+* James Ware
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Ruben Flores - Council Of Presidents
+* Christina "Luna" Nguyen - Seattle Colleges Student

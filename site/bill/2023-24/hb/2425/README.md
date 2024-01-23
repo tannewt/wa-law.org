@@ -14,12 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31778&aId=157735&caId=23620&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31778&aId=157735&caId=23620&tId=4)
 
-#### 6 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * Frederick Chavre - NA
 * 💵Chester Baldwin - Rental Housing Assn Coalition
 * William Shadbolt - [Washington Business Properties Association](/org/washington_business_properties_association/)
+* Sydney Pertl
+* Jennifer Ballard
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Mayacine Gueye

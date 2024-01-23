@@ -8,14 +8,14 @@
 
 ## Meetings
 ### Tue 01/23 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6230 Tax increment areas
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31740&aId=157176&caId=23336&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31740&aId=157176&caId=23336&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31740&aId=157176&caId=23336&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31740&aId=157176&caId=23336&tId=4)
-
-#### 30 👍 - Pro
+#### 68 👍 - Pro
 Testifying:
+* Dylan Doty - Wa Fire Chiefs
+* Robert Homan - Graham Fire and Rescue
+* ryan spiller - Wa fire commissioners
+* John Flanagan - [Port of Seattle](/org/port_of_seattle/)
+* Sean Eagan - [Port of Tacoma](/org/port_of_tacoma/)
+* 💵Bud Sizemore - WSCFF
 * Brandon Asher - Fire Chief, Chelan Fire & Rescue
 * John Nohr - Fire Chief, Clark-Cowlitz Fire & Rescue
 * Steve Brooks - Chief, Lacey Fire; President, Washington Fire Chiefs Association
@@ -23,12 +23,13 @@ Testifying:
 * Larry Bartel - Clark/Cowlitz Fire Rescue
 * Aaron Edwards - Lake Chelan Health, CEO
 
-#### 22 👎 - Con
+#### 32 👎 - Con
 Testifying:
 * Scott Goodrich - Port of Vancouver USA
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Steve Stuart - City Manager, City of Ridgefield
 * Tim Eyman - Initiative Activist
 * Darcy Buckley - City of Pasco, Finance Director
+* Michael Olson - [City of Kirkland](/org/city_of_kirkland/)
 
 #### 0 ❓ - Other

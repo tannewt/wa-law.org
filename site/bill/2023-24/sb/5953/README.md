@@ -17,12 +17,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31698&aId=157019&caId=23341&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31698&aId=157019&caId=23341&tId=4)
 
-#### 7 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
+* Danielle Armbruster - Washington State Department of Corrections
+* Kristen Morgan - Washington State Department of Corrections
 * kelley messinger - Consultant Reentry Division Department of Corrections
+* Becky Thompson - Washington Student Achievement Council
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Hanan Al-Zubaidy - SBCTC
+* 💵Brooke Davies - [Justice Action Network](/org/justice_action_network/)
+* Bryce McKibben - The Hope Center at Temple University

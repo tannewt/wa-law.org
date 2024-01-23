@@ -149,7 +149,7 @@
 
 ## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍1  
 
-## [HB 1905](/bill/2023-24/hb/1905/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
+## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍1  
 
 ## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍1  
 
@@ -176,15 +176,18 @@
 
 ## [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg 👍1  
 
-## [HB 2021](/bill/2023-24/hb/2021/) - Concerning the disposition of privately owned firearms in the custody of state or local government entities or law enforcement agencies. 👍1  
+## [HB 2021](/bill/2023-24/hb/2021/) - Firearm disposition 👍1  
 
 ## [HB 2044](/bill/2023-24/hb/2044/) - Standardizing limitations on voter-approved property tax levies. 👍1  
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes. 👍1  
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍1  
 
 ## [HB 2054](/bill/2023-24/hb/2054/) - Concerning bulk purchases and transfers of firearms. 👍1  
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
+
+## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍1  
+* 👍 Amy Smith
 
 ## [HB 2111](/bill/2023-24/hb/2111/) - Subsidized child care 👍1  
 
@@ -204,6 +207,10 @@
 
 ## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍1  
 
+## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍1  
+
+## [HB 2252](/bill/2023-24/hb/2252/) - Small businesses/residential   ❓1
+
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
 ## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management 👍1  
@@ -211,7 +218,21 @@
 
 ## [HB 2308](/bill/2023-24/hb/2308/) - Existing structures/housing 👍1  
 
+## [HB 2309](/bill/2023-24/hb/2309/) - Washington 13 free guarantee 👍1  
+
+## [HB 2311](/bill/2023-24/hb/2311/) - First responder wellness 👍1  
+
+## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
+
+## [HB 2319](/bill/2023-24/hb/2319/) - Substance use treatment 👍1  
+
+## [HB 2346](/bill/2023-24/hb/2346/) - Health disparities council 👍1  
+
 ## [HB 2360](/bill/2023-24/hb/2360/) - Digital workforce 👍1  
+
+## [HB 2374](/bill/2023-24/hb/2374/) - Washington promise program 👍1  
+
+## [HB 2382](/bill/2023-24/hb/2382/) - TNC driver death benefits 👍1  
 
 ## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras 👍1  
 * 👍 Tim Burgess
@@ -236,6 +257,8 @@
 
 ## [SB 5080](/bill/2023-24/sb/5080/) - Cannabis social equity 👍3  
 * 👍 Samir Junejo
+
+## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
 
 ## [SB 5109](/bill/2023-24/sb/5109/) - Wage replacement 👍1  
 * 👍 Hamdi Mohamed
@@ -353,6 +376,8 @@
 ## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  
 * 👍 Venu Nemani
 
+## [SB 5993](/bill/2023-24/sb/5993/) - Voter education   ❓1
+
 ## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍1  
 
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development 👍1  
@@ -363,6 +388,8 @@
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  
 
 ## [SB 6135](/bill/2023-24/sb/6135/) - TANF transitional assistance 👍1  
+
+## [SB 6228](/bill/2023-24/sb/6228/) - Substance use treatment 👍1  
 
 ## [SB 6242](/bill/2023-24/sb/6242/) - Law enforcement training 👍1  
 

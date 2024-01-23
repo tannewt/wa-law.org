@@ -17,12 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31719&aId=157088&caId=23462&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31719&aId=157088&caId=23462&tId=4)
 
-#### 53 👍 - Pro
+#### 63 👍 - Pro
 Testifying:
+* David Troutt - [Nisqually Indian Tribe](/org/nisqually_indian_tribe/)
 * James wilcox  JR - Wilcox Family Farms
+* 💵Thomas Nelson - The Outdoor Line LLC
 
-#### 20 👎 - Con
+#### 60 👎 - Con
 Testifying:
+* Ann Prezyna - [Washington Wildlife First](/org/washington_wildlife_first/)
 * David Moskowitz - The Conservation Angler
 
 #### 3 ❓ - Other

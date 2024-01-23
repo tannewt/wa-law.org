@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31713&aId=157074&caId=23482&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31713&aId=157074&caId=23482&tId=4)
 
-#### 128 👍 - Pro
+#### 203 👍 - Pro
 Testifying:
 * Angelita Cervantes - Communities for Our Colleges
 * Benjamin Gonzalez - Communities for Our Colleges
@@ -26,14 +26,24 @@ Testifying:
 * Nicholas Dumouchel - Communities for Our Colleges
 * LeeAnn Hall - Alliance for a Just Society
 * Sean Behl - Associated Students of Bellevue College and the Communities for our Colleges (C4C) Coalition
+* Josie Saccio-Devine - State Board for Community and Technical Colleges
+* Brisa Torres
+* Jessica Rebolledo - Communities for Our Colleges
+* Sienna Jarrard - Associated Students of Bellevue College
 * Sienna Jarrard - Associated Students of Bellevue College
 * Mollie Kuwahara - State Board for Community and Technical Colleges
 * Paul Francis - State board for Community and Technical Colleges
 * Rosie Rimando-Chareunsap - Seattle Community Colleges
 
-#### 345 👎 - Con
+#### 466 👎 - Con
 Testifying:
 * Jeannette Mcchesney
 * James Ware
+* Ashvin Sanghvi - microsoft
+* Mary Anne Rasmussen
+* Cynthia Radtke - US
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Ruben Flores - Council Of Presidents
+* Christina "Luna" Nguyen

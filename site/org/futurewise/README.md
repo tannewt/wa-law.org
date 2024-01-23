@@ -71,16 +71,25 @@
 
 ## [HB 2187](/bill/2023-24/hb/2187/) - Water/family farms  👎1 
 
+## [HB 2252](/bill/2023-24/hb/2252/) - Small businesses/residential   ❓1
+* ❓💵 Bryce Yadon
+
 ## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing   ❓1
 * ❓💵 Bryce Yadon
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
+
+## [HB 2296](/bill/2023-24/hb/2296/) - Comprehensive plan revisions   ❓1
+* ❓💵 Bryce Yadon
 
 ## [HB 2321](/bill/2023-24/hb/2321/) - Middle housing requirements 👍1  
 * 👍💵 Bryce Yadon
 
 ## [HB 2353](/bill/2023-24/hb/2353/) - Residential targeted areas  👎1 
 * 👎💵 Bryce Yadon
+
+## [HB 2394](/bill/2023-24/hb/2394/) - SEPA/trails and paths 👍1  
+* 👍💵 Bryce Yadon
 
 ## [SB 5027](/bill/2023-24/sb/5027/) - American dream homes  👎1 
 * 👎💵 Bryce Yadon
@@ -148,8 +157,17 @@
 * 👎 Alex Brennan
 * 👎💵 Bryce Yadon
 
+## [SB 6055](/bill/2023-24/sb/6055/) - Natural resource indus. dev.  👎1 
+* 👎💵 Bryce Yadon
+
 ## [SB 6061](/bill/2023-24/sb/6061/) - Housing development/SEPA   ❓1
 * ❓💵 Bryce Yadon
 
 ## [SB 6140](/bill/2023-24/sb/6140/) - Intensive rural development   ❓1
 * ❓💵 Bryce Yadon
+
+## [SB 6150](/bill/2023-24/sb/6150/) - Comprehensive plan revisions   ❓1
+* ❓💵 Bryce Yadon
+
+## [SB 6219](/bill/2023-24/sb/6219/) - Agritourism  👎1 
+* 👎💵 Bryce Yadon

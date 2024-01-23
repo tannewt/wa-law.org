@@ -39,6 +39,10 @@
 
 ## [HB 2155](/bill/2023-24/hb/2155/) - Credential registry 👍1  
 
+## [HB 2244](/bill/2023-24/hb/2244/) - Retirement savings   ❓1
+
+## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍1  
+
 ## [HB 2277](/bill/2023-24/hb/2277/) - Data brokering  👎1 
 * 👎💵 Kelly Fukai
 
@@ -77,6 +81,8 @@
 ## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
 
 ## [SB 6012](/bill/2023-24/sb/6012/) - Teacher preparation programs 👍1  
+
+## [SB 6069](/bill/2023-24/sb/6069/) - Retirement savings   ❓1
 
 ## [SB 6168](/bill/2023-24/sb/6168/) - International leadership 👍1  
 

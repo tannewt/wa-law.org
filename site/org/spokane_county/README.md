@@ -27,3 +27,7 @@
 ## [SB 5364](/bill/2023-24/sb/5364/) - Lot splitting 👍1  
 
 ## [SB 5459](/bill/2023-24/sb/5459/) - Election info. requests 👍1  
+
+## [SB 5792](/bill/2023-24/sb/5792/) - Concerning the definition of multiunit residential buildings. 👍1  
+
+## [SB 6202](/bill/2023-24/sb/6202/) - Tourism promotion exemptions 👍1  

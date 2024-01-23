@@ -27,7 +27,7 @@
 ## [HB 1900](/bill/2023-24/hb/1900/) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system.   ❓1
 * ❓ Josh McDonald
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes.   ❓1
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management   ❓1
 
 ## [HB 2094](/bill/2023-24/hb/2094/) - Gift certificates  👎1 
 

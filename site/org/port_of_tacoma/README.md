@@ -13,6 +13,10 @@
 
 ## [HB 2051](/bill/2023-24/hb/2051/) - Reducing emissions from small off-road engines. 👍1  
 
+## [HB 2286](/bill/2023-24/hb/2286/) - Salmon rec. capital grants 👍1  
+
+## [HB 2289](/bill/2023-24/hb/2289/) - Salmon recovery projects/tax 👍1  
+
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 
 ## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget   ❓1
@@ -25,3 +29,6 @@
 ## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
 
 ## [SB 5840](/bill/2023-24/sb/5840/) - Leases 👍1  
+
+## [SB 6230](/bill/2023-24/sb/6230/) - Tax increment areas 👍1  
+* 👍 Sean Eagan

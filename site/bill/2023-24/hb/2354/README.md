@@ -14,14 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31774&aId=157356&caId=23514&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31774&aId=157356&caId=23514&tId=4)
 
-#### 24 👍 - Pro
+#### 52 👍 - Pro
 Testifying:
 * 💵Matthew Ellsworth - Association of Washington Public Hospital Districts (AWPHD)
 
-#### 14 👎 - Con
+#### 25 👎 - Con
 Testifying:
 * Scott Goodrich - Port of Vancouver USA
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Steve Stuart - City Manager, City of Ridgefield
+* Darcy Buckley - City of Pasco - Finance Director
+* Michael Olson - [City of Kirkland](/org/city_of_kirkland/)
 
 #### 0 ❓ - Other

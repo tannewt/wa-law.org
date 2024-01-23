@@ -78,7 +78,7 @@
 ## [HB 1971](/bill/2023-24/hb/1971/) - Rangeland fire pilot   ❓1
 * ❓💵 Seamus Petrie
 
-## [HB 2022](/bill/2023-24/hb/2022/) - Concerning construction crane safety. 👍1  
+## [HB 2022](/bill/2023-24/hb/2022/) - Construction crane safety 👍1  
 
 ## [HB 2031](/bill/2023-24/hb/2031/) - Recognizing posttraumatic stress disorder as an occupational disease for county coroners, examiners, and investigative personnel. 👍1  
 

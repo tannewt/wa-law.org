@@ -106,7 +106,9 @@
 ## [HB 1991](/bill/2023-24/hb/1991/) - Paid sick leave  👎1 
 * 👎💵 Julia Gorton
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Improving Washington's solid waste management outcomes.  👎1 
+## [HB 2035](/bill/2023-24/hb/2035/) - Concerning restrictions on the working conditions and hours of sixteen- and seventeen-year olds. 👍1  
+
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management  👎1 
 * 👎💵 Samantha Louderback
 
 ## [HB 2052](/bill/2023-24/hb/2052/) - Increasing the availability of baby diaper changing stations.   ❓1
@@ -133,6 +135,9 @@
 
 ## [HB 2277](/bill/2023-24/hb/2277/) - Data brokering  👎1 
 * 👎 Montana Miranda
+
+## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management  👎1 
+* 👎💵 Samantha Louderback
 
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI  👎1 
 * 👎💵 Julia Gorton
@@ -222,5 +227,10 @@
 ## [SB 5988](/bill/2023-24/sb/5988/) - Gift certificates/unclaimed  👎1 
 * 👎💵 Julia Gorton
 
+## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management  👎1 
+
 ## [SB 6122](/bill/2023-24/sb/6122/) - Alcohol delivery 👍1  
 * 👍💵 Julia Gorton
+
+## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management  👎1 
+* 👎💵 Samantha Louderback

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/16 01:30 PM - Consumer Protection & Business (CPB): HB 2156 Solar consumer protections

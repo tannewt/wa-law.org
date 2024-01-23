@@ -8,18 +8,19 @@
 
 ## Meetings
 ### Tue 01/23 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6219 Agritourism
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31740&aId=157175&caId=23335&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31740&aId=157175&caId=23335&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31740&aId=157175&caId=23335&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31740&aId=157175&caId=23335&tId=4)
-
-#### 39 👍 - Pro
+#### 56 👍 - Pro
 Testifying:
 * Andrew Miller
 * LARRY JENSEN - Washington Farm Bureau  (Skagit County)
+* Sandi Gienger
+* Brian Anderson - Knutson Farms Inc
 * Commissioner Amanda McKinney - Yakima County District 1
+* Hilary Jensen - Jensen Farms
 
-#### 3 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Dave Andersen - Washington Department of Commerce

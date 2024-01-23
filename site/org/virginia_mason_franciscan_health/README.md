@@ -24,7 +24,7 @@
 
 ## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍1  
 
-## [HB 2041](/bill/2023-24/hb/2041/) - Concerning physician assistant collaborative practice. 👍1  
+## [HB 2041](/bill/2023-24/hb/2041/) - Physician assistant practice 👍1  
 
 ## [HB 2076](/bill/2023-24/hb/2076/) - Addressing crimes involving human trafficking or sexual exploitation. 👍1  
 
@@ -34,7 +34,7 @@
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎2 
 
-## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
+## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍2  
 
 ## [SB 5103](/bill/2023-24/sb/5103/) - Medicaid patients/discharge 👍1  
 

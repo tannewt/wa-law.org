@@ -21,7 +21,7 @@
 
 ## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy   ❓1
 
-## [HB 1905](/bill/2023-24/hb/1905/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
+## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍1  
 
 ## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍1  
 
@@ -47,6 +47,8 @@
 ## [HB 2193](/bill/2023-24/hb/2193/) - Env. restoration accelerator  👎1 
 
 ## [HB 2226](/bill/2023-24/hb/2226/) - H-2A worker program data 👍1  
+
+## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management 👍1  
 
 ## [HB 2376](/bill/2023-24/hb/2376/) - CCA public entity oblig.  👎1 
 
@@ -81,4 +83,10 @@
 
 ## [SB 5939](/bill/2023-24/sb/5939/) - Livestock wolf predation  👎1 
 
+## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
+
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  
+
+## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management 👍1  
+
+## [SB 6237](/bill/2023-24/sb/6237/) - Wildlife safe passages 👍1  

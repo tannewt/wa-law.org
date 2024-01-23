@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31695&aId=157475&caId=23365&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31695&aId=157475&caId=23365&tId=4)
 
-#### 10 👍 - Pro
+#### 37 👍 - Pro
+Testifying:
+* 💵Justin Leighton - Washington State Transit Association
+* 💵Justin Leighton - Washington State Transit Association
 
 #### 1 👎 - Con
 

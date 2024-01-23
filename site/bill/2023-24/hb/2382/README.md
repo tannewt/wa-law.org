@@ -14,12 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31729&aId=157131&caId=23469&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31729&aId=157131&caId=23469&tId=4)
 
-#### 21 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
+* 💵Brenda Wiest - Teamsters 117
 * Anwar Abdella
 * Khadija Mohamed
 * Mohamud Adan - Drivers Union
+* Michael Wolfe - [Drive Forward](/org/drive_forward/)
 
-#### 1 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Robert (Bob) Battles - Association of Washington Business (AWB)
 
 #### 0 ❓ - Other

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31721&aId=157560&caId=23573&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31721&aId=157560&caId=23573&tId=4)
 
-#### 10 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Jerred Michael Erickson - Chairman, Confederated Tribes of the Colville Reservation
 * 💵Michael Moran - Confederated Tribes of the Colville Reservation
@@ -25,4 +25,6 @@ Testifying:
 Testifying:
 * David Linn - None
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* John Worthington

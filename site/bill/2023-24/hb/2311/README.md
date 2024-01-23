@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31769&aId=157319&caId=23502&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31769&aId=157319&caId=23502&tId=4)
 
-#### 23 👍 - Pro
+#### 46 👍 - Pro
 Testifying:
 * Jason Fritz - Washington Chapter of APCO and NENA
 * Casey Novak - Battalion Chief for Tacoma Fire Department
 * Lacey Ledford - Washington State Criminal Justice Training Commission
+* B.J. Myers - King County Sheriff's Office
+* Steve Johnson - Code 4 NW
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 0 👎 - Con
 

@@ -8,6 +8,9 @@
 ## [HB 1699](/bill/2023-24/hb/1699/) - Fish & wildlife salaries 👍1  
 * 👍💵 Samantha Bruegger
 
+## [HB 2293](/bill/2023-24/hb/2293/) - Avian predation/salmon  👎2 
+* 👎 Ann Prezyna
+
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
 * 👍💵 Samantha Bruegger
 

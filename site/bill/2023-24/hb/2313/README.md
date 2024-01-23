@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31735&aId=157158&caId=23463&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31735&aId=157158&caId=23463&tId=4)
 
-#### 35 👍 - Pro
+#### 60 👍 - Pro
 Testifying:
 * 💵Paula Sardinas - FMS Global Strategies, LLC
 * 💵Yessenia Rivera - WBBA (WA BUILD BACK BLACK ALLIANCE)
@@ -26,7 +26,13 @@ Testifying:
 * 💵Carolyn Logue - [Washington Library Association](/org/washington_library_association/)
 * Mikhail Cherniske - Office of Superintendent of Public Instruction
 * Sabrina Roach - Washington Digital Equity Partners
+* Frank Corbin - Chair, Lewis County Broadband Action Team (LCBAT)
+* 💵Paula Sardinas - WBBA/FMS
+* Kristopher Larsen - Filipino Community of Seattle
 
-#### 0 👎 - Con
+#### 25 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Dave Pringle - Department of Commerce
+* Megan Matthews - Director, Office of Equity

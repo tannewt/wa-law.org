@@ -5,6 +5,8 @@
 
 ## [HB 1215](/bill/2023-24/hb/1215/) - Riparian areas 👍1  
 
+## [HB 2293](/bill/2023-24/hb/2293/) - Avian predation/salmon 👍1  
+
 ## [SB 5297](/bill/2023-24/sb/5297/) - Commercial salmon fisheries  👎1 
 * 👎 Dale Beasley
 
