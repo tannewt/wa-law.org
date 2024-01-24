@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Tue 01/23 04:00 PM - Ways & Means (WM): SSB 5591 Dependent youth financial ed
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157502&caId=23371&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157502&caId=23371&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157502&caId=23371&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157502&caId=23371&tId=4)
-
-#### 127 👍 - Pro
+#### 151 👍 - Pro
 Testifying:
 * Sam Martin - [The Mockingbird Society](/org/the_mockingbird_society/)
 * Colleen Shea-Brown - Legal Counsel for Youth and Children (LCYC)

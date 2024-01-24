@@ -56,7 +56,8 @@
 ## [HB 2071](/bill/2023-24/hb/2071/) - Residential housing 👍1  
 * 👍💵 Bryce Yadon
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍2  
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍3  
+* 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 
 ## [HB 2126](/bill/2023-24/hb/2126/) - Rural area ADUs  👎3 
@@ -66,7 +67,7 @@
 ## [HB 2141](/bill/2023-24/hb/2141/) - Promoting affordable housing in unincorporated areas within urban growth areas of large counties.   ❓1
 * ❓💵 Bryce Yadon
 
-## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍4  
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍6  
 * 👍💵 Bryce Yadon
 
 ## [HB 2187](/bill/2023-24/hb/2187/) - Water/family farms  👎1 
@@ -168,6 +169,8 @@
 
 ## [SB 6150](/bill/2023-24/sb/6150/) - Comprehensive plan revisions   ❓1
 * ❓💵 Bryce Yadon
+
+## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
 
 ## [SB 6219](/bill/2023-24/sb/6219/) - Agritourism  👎1 
 * 👎💵 Bryce Yadon

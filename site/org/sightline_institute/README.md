@@ -85,12 +85,15 @@
 
 ## [HB 2219](/bill/2023-24/hb/2219/) - Affordable housing/tax ex. 👍1  
 
-## [HB 2250](/bill/2023-24/hb/2250/) - Local elections 👍1  
+## [HB 2250](/bill/2023-24/hb/2250/) - Local elections 👍2  
+* 👍💵 Shannon Grimes
 * 👍💵 Shannon Grimes
 
 ## [HB 2252](/bill/2023-24/hb/2252/) - Small businesses/residential 👍1  
 
 ## [HB 2308](/bill/2023-24/hb/2308/) - Existing structures/housing 👍1  
+
+## [HB 2425](/bill/2023-24/hb/2425/) - Rental support program 👍1  
 
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍1  
 
@@ -145,3 +148,5 @@
 * 👍💵 Laura Feinstein
 
 ## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍1  
+
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍1  

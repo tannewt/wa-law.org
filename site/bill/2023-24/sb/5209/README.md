@@ -12,12 +12,12 @@
 
 ## Meetings
 ### Tue 01/23 01:30 PM - State Government & Elections (SGE): SB 5209 Universal civic duty voting
-#### 145 👍 - Pro
+#### 150 👍 - Pro
 Testifying:
 * Miles Rapoport - 100% Democracy: An Initiative for Universal Voting
 * Raaheela Ahmed - 100% Democracy
 
-#### 1512 👎 - Con
+#### 1587 👎 - Con
 Testifying:
 * elona kearney
 * John Worthington
@@ -28,8 +28,10 @@ Testifying:
 * James Ware
 * LORILEE GATES
 * Kim Slinger
+* Janis Meneatrice Clark
+* Theresa Schrempp
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Tue 01/31 01:30 PM - State Government & Elections (SGE): SB 5209 Universal civic duty voting
 #### 33 👍 - Pro

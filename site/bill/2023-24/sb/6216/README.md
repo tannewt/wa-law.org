@@ -14,15 +14,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31766&aId=157307&caId=23379&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31766&aId=157307&caId=23379&tId=4)
 
-#### 190 👍 - Pro
+#### 296 👍 - Pro
 Testifying:
 * Jake Tyrell
 * Kevin Chase
 * 💵Melissa Gombosky - Association of Educational Service District (AESD)
 * Mikhail Cherniske - Office of Superintendent of Public Instruction
+* Mark Beddes - Surprise Lake Middle School
+* Kim Hauff - WA Chapter of the American Academy of Pediatrics
+* Stephan Blanford - [Children's Alliance](/org/children's_alliance/)
+* Chetan Soi - WA Youth Alliance
+* Mahi Malladi - WA Youth Alliance
+* Saeran Dewar - WA Youth Alliance
+* Meral Kandymova - WA Chapter National Alliance on Mental Illness
+* 💵Michael Transue - WA Chapter - National Alliance on Mental Illness
 
-#### 652 👎 - Con
+#### 739 👎 - Con
 Testifying:
 * Joy Gjersvold - Conservative Ladies of Washington
+* Kathleen Wedemeyer - Citizens Commission on Human Rights
+* Susanna Jones
 
 #### 0 ❓ - Other

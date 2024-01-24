@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1752/</link>
 		<description>Updates about HB 1752</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 19 Jan 2024 04:25:42 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2024 10:15:18 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -29,6 +29,22 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Tom/Tebb/2024-01-19 04:25:42</guid>
+		</item>
+		<item>
+			<title>👍Mike Schwisow - Columbia Basin Project Irrigation Districts / WA ST Water Resources Assn.</title>
+			<description>Mike Schwisow signed up to testify Pro. They are signed up to represent Columbia Basin Project Irrigation Districts / WA ST Water Resources Assn..</description>
+			<pubDate>Tue, 23 Jan 2024 04:02:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mike/Schwisow/2024-01-23 04:02:55</guid>
+		</item>
+		<item>
+			<title>👍Susanna Jones - Columbia Basin Project Irrigation Districts / WA ST Water Resources Assn.</title>
+			<description>Susanna Jones signed up to testify Pro.</description>
+			<pubDate>Tue, 23 Jan 2024 10:15:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Susanna/Jones/2024-01-23 10:15:18</guid>
 		</item>
 	</channel>
 </rss>

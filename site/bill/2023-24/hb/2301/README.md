@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/23 04:00 PM - Environment & Energy (ENVI): HB 2301 Waste material management
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31780&aId=157423&caId=23500&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31780&aId=157423&caId=23500&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31780&aId=157423&caId=23500&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31780&aId=157423&caId=23500&tId=4)
-
-#### 382 👍 - Pro
+#### 414 👍 - Pro
 Testifying:
 * Jay Blazey - [Cedar Grove](/org/cedar_grove/)
 * Andrea Collins - NRDC (Natural Resources Defense Council)
@@ -30,8 +24,10 @@ Testifying:
 * Liv Johansson - Washington Organic Recycling Council (WORC)
 * Scott Smithline - Mill Industries
 * Jay Kang - Thurston County Food Bank
+* 💵Ezra Eickmeyer - AWHP
+* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 31 👎 - Con
+#### 32 👎 - Con
 Testifying:
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Brandon Houskeeper - NW Grocery Assoc
@@ -39,11 +35,15 @@ Testifying:
 * Scott Howarth - Sinclair
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 23 ❓ - Other
+#### 27 ❓ - Other
 Testifying:
 * Rose GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)
 * Peter Lyon - Washington State Department of Ecology
 * Lewis Griffith - [City of Tacoma](/org/city_of_tacoma/)
 * 💵Vicki Christophersen - Washington Refuse and Recycling Association
 * Trish Twomey - [Washington Food Coalition](/org/washington_food_coalition/)
+* Rick Vahl - Waste Connections
 * Chris Cary - [Food Northwest](/org/food_northwest/)
+* Alex Truelove - Biodegradable Products Institute
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Diana Carlen - [Washington Potato & Onion Association](/org/washington_potato_&_onion_association/)

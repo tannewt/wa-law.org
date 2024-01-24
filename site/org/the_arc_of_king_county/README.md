@@ -104,7 +104,7 @@
 
 ## [HB 1945](/bill/2023-24/hb/1945/) - Streamlining and enhancing program access for persons eligible for food assistance. 👍1  
 
-## [HB 1969](/bill/2023-24/hb/1969/) - Individual providers/family 👍1  
+## [HB 1969](/bill/2023-24/hb/1969/) - Individual providers/family 👍2  
 
 ## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍1  
 
@@ -117,9 +117,11 @@
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
 * ❓💵 Ramona Hattendorf
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍2  
 
 ## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍1  
+
+## [HB 2130](/bill/2023-24/hb/2130/) - Special education services 👍1  
 
 ## [HB 2145](/bill/2023-24/hb/2145/) - Concerning medically necessary treatment of a mental health or substance use disorder. 👍1  
 
@@ -130,6 +132,8 @@
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
 ## [HB 2279](/bill/2023-24/hb/2279/) - Dev. disabilities waiver use 👍2  
+
+## [HB 2331](/bill/2023-24/hb/2331/) - Public school materials 👍1  
 
 ## [HB 2365](/bill/2023-24/hb/2365/) - Respite care 👍1  
 
@@ -239,9 +243,15 @@
 
 ## [SB 6014](/bill/2023-24/sb/6014/) - Special education cap 👍2  
 
+## [SB 6082](/bill/2023-24/sb/6082/) - Paraeducator compensation 👍1  
+
 ## [SB 6125](/bill/2023-24/sb/6125/) - Lakeland Village records 👍1  
 
 ## [SB 6126](/bill/2023-24/sb/6126/) - Respite care 👍1  
 
-## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
+## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍2  
 * 👍💵 Ramona Hattendorf
+
+## [SB 6208](/bill/2023-24/sb/6208/) - Public school materials 👍1  
+
+## [SB 6216](/bill/2023-24/sb/6216/) - Student mental health net. 👍1  

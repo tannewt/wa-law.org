@@ -12,7 +12,7 @@
 
 ## Meetings
 ### Tue 01/23 01:30 PM - Environment, Energy & Technology (ENET): SB 6005 Solid waste management
-#### 889 👍 - Pro
+#### 949 👍 - Pro
 Testifying:
 * Melissa Stuart - Redmond City Councilmember
 * Kate Bailey - The Association of Plastic Recyclers (APR)
@@ -30,8 +30,10 @@ Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * Elian Bayas - Friday Harbor High School Eco club
 * Dylan de Thomas - The Recycling Partnership
+* 💵Samantha Grad - Teamsters 117
+* Anne Dickerson
 
-#### 44 👎 - Con
+#### 45 👎 - Con
 Testifying:
 * Terry Grill - Sealed Air Corporation
 * 💵Brad Boswell - [Washington Beverage Association](/org/washington_beverage_association/)
@@ -44,7 +46,7 @@ Testifying:
 * 💵Diana Carlen - [Washington Potato & Onion Association](/org/washington_potato_&_onion_association/)
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 5 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Rose GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)

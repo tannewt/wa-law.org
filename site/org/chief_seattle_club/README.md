@@ -15,6 +15,9 @@
 ## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍1  
 * 👍💵 James Lovell
 
+## [HB 2329](/bill/2023-24/hb/2329/) - Insurance market/housing 👍1  
+* 👍💵 James Lovell
+
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍1  

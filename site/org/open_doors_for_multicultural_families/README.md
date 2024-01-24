@@ -34,9 +34,22 @@
 * 👍 Moses Perez
 * 👍 Moses Perez
 
+## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍1  
+* 👍 Angela Jovel
+
+## [HB 2365](/bill/2023-24/hb/2365/) - Respite care 👍1  
+
+## [HB 2368](/bill/2023-24/hb/2368/) - Refugee & immigrant assist. 👍2  
+
 ## [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation 👍2 👎2 
 * 👍 Khalid Sirad
 * 👍 Peter Musante
 
+## [SB 6082](/bill/2023-24/sb/6082/) - Paraeducator compensation 👍3  
+* 👍 Khalid Sirad
+* 👍 Mahad Dahir
+
 ## [SB 6126](/bill/2023-24/sb/6126/) - Respite care 👍1  
 * 👍 Moses Perez
+
+## [SB 6276](/bill/2023-24/sb/6276/) - Digital electronics/repair 👍1  

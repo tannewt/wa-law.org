@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2247/</link>
 		<description>Updates about HB 2247</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 12:55:51 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2024 11:45:54 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2024-01-09/First reading, referred to Health Care &amp; Wellness.</guid>
 		</item>
 		<item>
-			<title>❓💵Bob Cooper - WA Association for Community Health</title>
+			<title>❓💵Bob Cooper - Open Doors for Multicultural Families</title>
 			<description>Bob Cooper signed up to testify Other. They are a registered lobbyist.</description>
 			<pubDate>Sun, 21 Jan 2024 02:29:39 GMT</pubDate>
 			<category>testifier</category>
@@ -94,6 +94,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Kate/White Tudor/2024-01-22 12:55:51</guid>
+		</item>
+		<item>
+			<title>👍Angela Jovel - Open Doors for Multicultural Families</title>
+			<description>Angela Jovel signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/open_doors_for_multicultural_families/&quot;&gt;Open Doors for Multicultural Families&lt;/a&gt;.</description>
+			<pubDate>Tue, 23 Jan 2024 10:14:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Angela/Jovel/2024-01-23 10:14:52</guid>
+		</item>
+		<item>
+			<title>❓💵Sara Stewart - Washington Mental Health Counselors Assocation</title>
+			<description>Sara Stewart signed up to testify Other. They are signed up to represent Washington Mental Health Counselors Assocation. They are a registered lobbyist.</description>
+			<pubDate>Tue, 23 Jan 2024 11:45:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Sara/Stewart/2024-01-23 11:45:54</guid>
 		</item>
 	</channel>
 </rss>

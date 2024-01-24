@@ -8,7 +8,7 @@
 
 ## [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act 👍1  
 
-## [HB 1078](/bill/2023-24/hb/1078/) - Urban forest management   ❓1
+## [HB 1078](/bill/2023-24/hb/1078/) - Urban forest management 👍1  ❓1
 * ❓ Joshua Rubenstein
 
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍1  

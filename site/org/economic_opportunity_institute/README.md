@@ -122,3 +122,6 @@
 ## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
+
+## [SB 6258](/bill/2023-24/sb/6258/) - Standardized health plans 👍1  
+* 👍 Sam Hatzenbeler

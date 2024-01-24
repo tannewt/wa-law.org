@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5821/</link>
 		<description>Updates about SB 5821</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 10 Jan 2024 12:18:42 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -76,6 +76,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Lisa/Thatcher/2024-01-10 12:18:42</guid>
+		</item>
+		<item>
+			<title>HLTC - Majority; do pass.</title>
+			<description>HLTC - Majority; do pass.</description>
+			<pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-23/HLTC - Majority; do pass.</guid>
 		</item>
 	</channel>
 </rss>

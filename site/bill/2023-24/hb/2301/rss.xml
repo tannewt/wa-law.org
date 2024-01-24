@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2301/</link>
 		<description>Updates about HB 2301</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 23 Jan 2024 09:34:04 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2024 12:35:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -200,6 +200,14 @@
 			<guid isPermaLink="false">testifier/Jay/Kang/2024-01-22 11:11:15</guid>
 		</item>
 		<item>
+			<title>❓Rick Vahl - Waste Connections</title>
+			<description>Rick Vahl signed up to testify Other. They are signed up to represent Waste Connections.</description>
+			<pubDate>Tue, 23 Jan 2024 01:08:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Rick/Vahl/2024-01-23 01:08:56</guid>
+		</item>
+		<item>
 			<title>❓Chris Cary - Food Northwest</title>
 			<description>Chris Cary signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/food_northwest/&quot;&gt;Food Northwest&lt;/a&gt;.</description>
 			<pubDate>Tue, 23 Jan 2024 08:04:04 GMT</pubDate>
@@ -214,6 +222,46 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Peter/Godlewski/2024-01-23 09:34:04</guid>
+		</item>
+		<item>
+			<title>❓Alex Truelove - Biodegradable Products Institute</title>
+			<description>Alex Truelove signed up to testify Other. They are signed up to represent Biodegradable Products Institute.</description>
+			<pubDate>Tue, 23 Jan 2024 09:53:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Alex/Truelove/2024-01-23 09:53:53</guid>
+		</item>
+		<item>
+			<title>❓💵Carl Schroeder - Association of Washington Cities</title>
+			<description>Carl Schroeder signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/association_of_washington_cities/&quot;&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 23 Jan 2024 10:48:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Carl/Schroeder/2024-01-23 10:48:30</guid>
+		</item>
+		<item>
+			<title>❓💵Diana Carlen - Washington Potato &amp; Onion Association</title>
+			<description>Diana Carlen signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_potato_&amp;_onion_association/&quot;&gt;Washington Potato &amp; Onion Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 23 Jan 2024 11:34:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Diana/Carlen/2024-01-23 11:34:43</guid>
+		</item>
+		<item>
+			<title>👍💵Ezra Eickmeyer - AWHP</title>
+			<description>Ezra Eickmeyer signed up to testify Pro. They are signed up to represent AWHP. They are a registered lobbyist.</description>
+			<pubDate>Tue, 23 Jan 2024 12:26:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ezra/Eickmeyer/2024-01-23 12:26:45</guid>
+		</item>
+		<item>
+			<title>👍💵Travis Dutton - Washington State Association of Counties</title>
+			<description>Travis Dutton signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_state_association_of_counties/&quot;&gt;Washington State Association of Counties&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 23 Jan 2024 12:35:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Travis/Dutton/2024-01-23 12:35:43</guid>
 		</item>
 	</channel>
 </rss>

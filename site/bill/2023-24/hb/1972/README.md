@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31717&aId=157553&caId=23578&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31717&aId=157553&caId=23578&tId=4)
 
-#### 7 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Christopher Bundy - Washington Physicians Health Progra,
 

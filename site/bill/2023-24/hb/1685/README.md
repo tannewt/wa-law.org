@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## Meetings
 ### Tue 02/14 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1685 Resource & assess. centers

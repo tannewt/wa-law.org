@@ -16,29 +16,25 @@
 
 ## Meetings
 ### Tue 01/23 04:00 PM - Transportation (TRAN): SSB 5383 Pedestrians/roadways
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31695&aId=157472&caId=23362&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31695&aId=157472&caId=23362&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31695&aId=157472&caId=23362&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31695&aId=157472&caId=23362&tId=4)
-
-#### 216 👍 - Pro
+#### 298 👍 - Pro
 Testifying:
 * 💵Bryce Yadon - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
 * DeAndre Anderson - Self
 * Ethan Campbell - TCC Research Partner
 * 💵Paula Sardinas - FMS Global/BBB
 * Jaime Torres - Tri-Cities Justice Alliance
+* 💵Albert Sardinas - WBBA
 
-#### 9 👎 - Con
+#### 13 👎 - Con
 Testifying:
 * David Sedelmeier
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 
-#### 3 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * 💵Michele Willms - Associated Geneal Contractors (AGC)
 * Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Mark McKechnie - Washington Traffic Safety Commission
 
 ### Mon 02/13 04:00 PM - Transportation (TRAN): SB 5383 Pedestrians/roadways
 #### 398 👍 - Pro

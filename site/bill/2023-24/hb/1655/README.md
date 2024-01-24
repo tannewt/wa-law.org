@@ -14,17 +14,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31705&aId=157711&caId=23599&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31705&aId=157711&caId=23599&tId=4)
 
-#### 591 👍 - Pro
+#### 1900 👍 - Pro
 Testifying:
 * Benjamin Boyle - APTA WA
 * Ben Boyle - APT Washington
 * Chad Hurst - WA State Chiropractic Association
 * 💵Lori Grassi - WA State Chiropractic Association
 * Nicholas Jankowski - [Optometric Physicians of Washington](/org/optometric_physicians_of_washington/)
+* Dr. Megan Wagoner - WA State Psychological Association
+* Kendra Holloway - WA Speech-Language-Hearing Association
+* Sonya Mahmood
+* PMHNP-BC, Katherine Ko - Association of Advanced Practice Psychiatric Nurses (AAPPN)
+* PMHNP, Sarah Applegate - Association of Advanced Practice Psychiatric Nurses (AAPPN)
 
-#### 1 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* Chris Bandoli - National Association of Benefits and Insurance Professionals Washington
 
-#### 3 ❓ - Other
+#### 9 ❓ - Other
 
 ### Fri 02/10 08:00 AM - Health Care & Wellness (HCW): HB 1655 Provider contract comp.
 #### 677 👍 - Pro

@@ -28,7 +28,7 @@ Testifying:
 * Marty Miller - Office of Rural and Farmworker Housing (ORFH)
 * Treasure. Mackley - Invest in Washington Now
 * Joseph Wilson
-* Andy Silver - Vancouver Housing Authority
+* Andy Silver - [Vancouver Housing Authority](/org/vancouver_housing_authority/)
 * Marty Miller - Office of Rural & Farmworker Housing
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Peter Wolf

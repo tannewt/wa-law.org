@@ -8,13 +8,10 @@
 
 ## Meetings
 ### Wed 01/24 08:00 AM - Local Government (LG): HB 2343 Property owners/projects
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31774&aId=157353&caId=23511&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31774&aId=157353&caId=23511&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31774&aId=157353&caId=23511&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31774&aId=157353&caId=23511&tId=4)
-
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* 💵David Toyer - Toyer Strategic Advisors, Inc.
 
 #### 0 👎 - Con
 

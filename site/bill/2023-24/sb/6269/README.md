@@ -8,18 +8,19 @@
 
 ## Meetings
 ### Tue 01/23 01:30 PM - State Government & Elections (SGE): SB 6269 Alt. voter verification
-#### 116 👍 - Pro
+#### 123 👍 - Pro
 Testifying:
 * William Cavecche - King County Elections
 * Jake García - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
 
-#### 542 👎 - Con
+#### 561 👎 - Con
 Testifying:
 * Theresa Schrempp
 * Mary Long - Conservative Ladies of Washington
 * Sharon Damoff
 * Leslie Williams - Conservative Ladies of WA
 * Kim Slinger
+* Theresa Schrempp
 
 #### 1 ❓ - Other
 Testifying:

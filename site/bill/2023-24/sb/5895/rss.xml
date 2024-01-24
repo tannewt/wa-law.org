@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5895/</link>
 		<description>Updates about SB 5895</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 18 Jan 2024 16:38:26 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -115,6 +115,13 @@
 			<pubDate>Thu, 18 Jan 2024 16:38:26 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2024/01/18/nobles-bill-would-establish-collective-bargaining-rights-for-student-employees/#:~:text=Senate%20Bill%205895</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-23/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

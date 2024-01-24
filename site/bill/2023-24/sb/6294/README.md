@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31728&aId=157723&caId=23612&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31728&aId=157723&caId=23612&tId=4)
 
-#### 42 👍 - Pro
+#### 104 👍 - Pro
 Testifying:
 * Josh Diamond
 * Amanda Fox
@@ -22,10 +22,13 @@ Testifying:
 * Hannah Thompson-Garner - Northwest Animal Rights Network (NARN)
 * Liz Cabrera Holtz - World Animal Protection
 
-#### 49 👎 - Con
+#### 192 👎 - Con
 Testifying:
 * Daniel Hodun
 * DJ Donahugh - [Natural Fibers Alliance](/org/natural_fibers_alliance/)
+* Kim Salvo
 * Challis Hobbs - Fur Commission USA
+* Jillian Bentley
+* Bruce Vandervort - Washington State Trappers Association
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

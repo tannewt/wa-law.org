@@ -17,10 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31778&aId=157405&caId=23538&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31778&aId=157405&caId=23538&tId=4)
 
-#### 79 👍 - Pro
+#### 115 👍 - Pro
 Testifying:
+* Theresa Richlardson - [City of Richland](/org/city_of_richland/)
 * Mike Nykreim - Newport West LLC
 
-#### 2 👎 - Con
+#### 7 👎 - Con
+Testifying:
+* Addie Candib - American Farmland Trust
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 0 ❓ - Other

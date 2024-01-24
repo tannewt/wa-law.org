@@ -16,7 +16,13 @@
 ## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management  👎1 
 * 👎 Michael Connors
 
+## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management   ❓1
+* ❓💵 Diana Carlen
+
 ## [SB 5476](/bill/2023-24/sb/5476/) - Agricultural overtime 👍1  
 
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management  👎1 
 * 👎💵 Diana Carlen
+
+## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management   ❓1
+* ❓💵 Diana Carlen

@@ -10,9 +10,10 @@
 ### Tue 01/23 10:30 AM - Labor & Commerce (LC): SB 6265 Grocery coupons
 #### 4 👍 - Pro
 
-#### 4 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * 💵Carolyn Logue - Washington Food Industry Association
 * 💵Brandon Houskeeper - NW Grocery Assoc.
+* 💵Katie Beeson - WFIA
 
 #### 0 ❓ - Other

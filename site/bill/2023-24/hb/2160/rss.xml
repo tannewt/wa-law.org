@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2160/</link>
 		<description>Updates about HB 2160</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 10:54:56 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2024 10:04:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -217,7 +217,7 @@
 			<guid isPermaLink="true">https://publicola.com/2024/01/17/spd-general-counsel-filed-initial-complaint-against-laughing-cop-rep-reed-says-inclusionary-zoning-near-transit-will-prevent-displacement/#:~:text=(HB%202160</guid>
 		</item>
 		<item>
-			<title>👍David Bart - Newport West LLC</title>
+			<title>👍David Bart - Washington State Association of Counties</title>
 			<description>David Bart signed up to testify Pro.</description>
 			<pubDate>Sat, 20 Jan 2024 09:15:25 GMT</pubDate>
 			<category>testifier</category>
@@ -231,6 +231,22 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Carl/Schroeder/2024-01-22 10:54:56</guid>
+		</item>
+		<item>
+			<title>👎Salim Nice - Mayor Mercer Island</title>
+			<description>Salim Nice signed up to testify Con. They are signed up to represent Mayor Mercer Island.</description>
+			<pubDate>Tue, 23 Jan 2024 03:37:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Salim/Nice/2024-01-23 03:37:57</guid>
+		</item>
+		<item>
+			<title>👍Noha Mahgoub - Washington State Association of Counties</title>
+			<description>Noha Mahgoub signed up to testify Pro.</description>
+			<pubDate>Tue, 23 Jan 2024 10:04:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Noha/Mahgoub/2024-01-23 10:04:00</guid>
 		</item>
 	</channel>
 </rss>

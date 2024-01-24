@@ -78,6 +78,8 @@
 
 ## [HB 2153](/bill/2023-24/hb/2153/) - Catalytic converter theft 👍1  
 
+## [HB 2219](/bill/2023-24/hb/2219/) - Affordable housing/tax ex. 👍1  
+
 ## [HB 2308](/bill/2023-24/hb/2308/) - Existing structures/housing 👍1  
 
 ## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
@@ -104,7 +106,7 @@
 
 ## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍1  
 
-## [SB 5383](/bill/2023-24/sb/5383/) - Pedestrians/roadways   ❓1
+## [SB 5383](/bill/2023-24/sb/5383/) - Pedestrians/roadways   ❓2
 
 ## [SB 5418](/bill/2023-24/sb/5418/) - Definition of public work  👎1 
 
@@ -144,6 +146,10 @@
 
 ## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍1  
 
+## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management   ❓1
+
 ## [SB 6192](/bill/2023-24/sb/6192/) - Construction change orders   ❓1
+
+## [SB 6202](/bill/2023-24/sb/6202/) - Tourism promotion exemptions 👍1  
 
 ## [SB 6230](/bill/2023-24/sb/6230/) - Tax increment areas  👎1 

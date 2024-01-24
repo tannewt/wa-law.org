@@ -8,19 +8,17 @@
 
 ## Meetings
 ### Wed 01/24 08:00 AM - Higher Education & Workforce Development (HEWD): SB 6221 UW primate research center
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31699&aId=157640&caId=23591&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31699&aId=157640&caId=23591&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31699&aId=157640&caId=23591&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31699&aId=157640&caId=23591&tId=4)
-
-#### 17 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * Rachel Bjork
 * Hannah Thompson-Garner - Northwest Animal Rights Network (NARN)
+* Gregory Engel
+* Lisa Jones-Engel - People for the Ethical Treatment of Animals
+* Michele Earl-Hubbard
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Darwin Roberts - Individual University of Washington Institutional Animal Care and Use Committee volunteer members
+* 💵Morgan Hickel - [University of Washington](/org/university_of_washington/)

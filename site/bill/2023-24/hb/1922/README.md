@@ -11,15 +11,11 @@
 
 ## Meetings
 ### Tue 01/23 04:00 PM - Education (ED): HB 1922 Vape detectors/schools
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157550&caId=23566&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157550&caId=23566&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157550&caId=23566&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157550&caId=23566&tId=4)
+#### 8 👍 - Pro
 
-#### 6 👍 - Pro
-
-#### 18 👎 - Con
+#### 24 👎 - Con
+Testifying:
+* Scott Waller - Washington Association for Substance misuse and Violence Prevention (WASAVP)
 
 #### 2 ❓ - Other
 Testifying:

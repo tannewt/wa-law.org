@@ -11,3 +11,5 @@
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
 
 ## [SB 5474](/bill/2023-24/sb/5474/) - Juvenile justice 👍1  
+
+## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍1  

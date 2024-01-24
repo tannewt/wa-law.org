@@ -40,6 +40,9 @@
 ## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy  👎1 
 * 👎💵 Kate Brouns
 
+## [SB 5992](/bill/2023-24/sb/5992/) - Water supply/energy sites  👎1 
+* 👎💵 Kate Brouns
+
 ## [SB 6016](/bill/2023-24/sb/6016/) - Green energy community fund 👍1  
 * 👍💵 Kate Brouns
 

@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Tue 01/23 01:30 PM - State Government & Tribal Relations (SGOV): HB 2283 Shared leave/disasters
-#### 33 👍 - Pro
+#### 36 👍 - Pro
 Testifying:
 * Mike Yestramski - President, Washington Federation of State Employees
 * Ashley Fueston - VP, Washington Federation of State Employees

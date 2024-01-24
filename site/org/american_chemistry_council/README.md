@@ -18,3 +18,5 @@
 
 ## [SB 5369](/bill/2023-24/sb/5369/) - Polychlorinated biphenyls   ❓1
 * ❓ Tim Shestek
+
+## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management  👎1 

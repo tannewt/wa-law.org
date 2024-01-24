@@ -8,11 +8,15 @@
 
 ## Meetings
 ### Tue 01/23 01:30 PM - State Government & Tribal Relations (SGOV): HB 2459 Alt. measure disclosures
-#### 3 👍 - Pro
+#### 36 👍 - Pro
+Testifying:
+* Kathy Sakahara - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
-#### 753 👎 - Con
+#### 1171 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Eric pratt - America
+* Laurie Layne - Layne Software
+* Pete Serrano
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

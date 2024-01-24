@@ -15,11 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31706&aId=157714&caId=23600&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31706&aId=157714&caId=23600&tId=4)
 
-#### 9 👍 - Pro
+#### 13 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jane Beyer - Office of the Insurance Commissioner
 
 ### Tue 01/31 01:30 PM - Health Care & Wellness (HCW): HB 1450 Biomarker testing coverage
 #### 41 👍 - Pro

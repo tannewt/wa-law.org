@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2196/</link>
 		<description>Updates about HB 2196</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 23 Jan 2024 07:58:23 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2024 08:21:30 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -126,7 +126,15 @@
 			<guid isPermaLink="false">testifier/Beth/Ebel/2024-01-22 03:19:19</guid>
 		</item>
 		<item>
-			<title>👍Anthony Gomez - WCAAP</title>
+			<title>👍LINDA THOMPSON - Washington Association for Substance misuse and Violence Prevention (WASAVP)</title>
+			<description>LINDA THOMPSON signed up to testify Pro. They are signed up to represent Washington Association for Substance misuse and Violence Prevention (WASAVP).</description>
+			<pubDate>Tue, 23 Jan 2024 06:58:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/LINDA/THOMPSON/2024-01-23 06:58:30</guid>
+		</item>
+		<item>
+			<title>👍Anthony Gomez - Washington Association for Substance misuse and Violence Prevention (WASAVP)</title>
 			<description>Anthony Gomez signed up to testify Pro.</description>
 			<pubDate>Tue, 23 Jan 2024 07:46:13 GMT</pubDate>
 			<category>testifier</category>
@@ -140,6 +148,38 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Amy/Freedheim/2024-01-23 07:58:23</guid>
+		</item>
+		<item>
+			<title>👍Ashley Bonus - King County Prosecuting Attorney's Office</title>
+			<description>Ashley Bonus signed up to testify Pro.</description>
+			<pubDate>Tue, 23 Jan 2024 08:21:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ashley/Bonus/2024-01-23 08:21:09</guid>
+		</item>
+		<item>
+			<title>👍Sam Arbabi - King County Prosecuting Attorney's Office</title>
+			<description>Sam Arbabi signed up to testify Pro.</description>
+			<pubDate>Tue, 23 Jan 2024 10:56:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sam/Arbabi/2024-01-23 10:56:07</guid>
+		</item>
+		<item>
+			<title>👍Alaina Dahlquist - National Safety Council</title>
+			<description>Alaina Dahlquist signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/national_safety_council/&quot;&gt;National Safety Council&lt;/a&gt;.</description>
+			<pubDate>Tue, 23 Jan 2024 12:33:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Alaina/Dahlquist/2024-01-23 12:33:16</guid>
+		</item>
+		<item>
+			<title>👍Lori Markowitz - The Josh Fund</title>
+			<description>Lori Markowitz signed up to testify Pro. They are signed up to represent The Josh Fund.</description>
+			<pubDate>Wed, 24 Jan 2024 08:21:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lori/Markowitz/2024-01-24 08:21:30</guid>
 		</item>
 	</channel>
 </rss>

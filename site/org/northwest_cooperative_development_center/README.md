@@ -3,6 +3,8 @@
 ## [HB 1743](/bill/2023-24/hb/1743/) - Employee ownership 👍1  
 * 👍 John McNamara
 
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍1  
+
 ## [SB 5096](/bill/2023-24/sb/5096/) - Employee ownership 👍6  
 * 👍 John McNamara
 * 👍💵 Miles Nowlin

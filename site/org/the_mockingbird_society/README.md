@@ -40,6 +40,8 @@
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
 * ❓ Charles Smith
 
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+
 ## [HB 2186](/bill/2023-24/hb/2186/) - Juv. deferred adjudications 👍1  
 
 ## [HB 2217](/bill/2023-24/hb/2217/) - Juvenile criminal offenses 👍1  
@@ -49,7 +51,7 @@
 
 ## [HB 2251](/bill/2023-24/hb/2251/) - Unenforceable LFOs 👍1  
 
-## [HB 2342](/bill/2023-24/hb/2342/) - Dependent youth financial ed 👍6  
+## [HB 2342](/bill/2023-24/hb/2342/) - Dependent youth financial ed 👍9  
 * 👍 Sam Martin
 * 👍 Charles Smith
 
@@ -75,7 +77,7 @@
 
 ## [SB 5543](/bill/2023-24/sb/5543/) - Sexual offenses by youth 👍1  
 
-## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍12  
+## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍17  
 * 👍 Sam Martin
 * 👍 Sam Martin
 * 👍 Charles Smith
@@ -101,3 +103,5 @@
 ## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍1  
 
 ## [SB 6109](/bill/2023-24/sb/6109/) - Children and families  👎1 
+
+## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  

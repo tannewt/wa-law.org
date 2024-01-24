@@ -8,3 +8,6 @@
 
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat  👎1 
 * 👎💵 Chelsea Martin
+
+## [SB 6256](/bill/2023-24/sb/6256/) - Solar consumer protections 👍1  
+* 👍💵 Chelsea Martin

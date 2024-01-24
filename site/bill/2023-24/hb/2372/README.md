@@ -18,8 +18,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31763&aId=157296&caId=23554&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31763&aId=157296&caId=23554&tId=4)
 
-#### 6 👍 - Pro
+#### 9 👍 - Pro
 
-#### 0 👎 - Con
+#### 235 👎 - Con
+Testifying:
+* Jeannette Mcchesney
+* Sharon Bierach
 
 #### 0 ❓ - Other

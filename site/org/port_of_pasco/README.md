@@ -7,6 +7,8 @@
 
 ## [HB 1584](/bill/2023-24/hb/1584/) - Nuclear reactor technology 👍1  
 
+## [HB 1860](/bill/2023-24/hb/1860/) - Establishing stay-to-play requirements.   👎1 
+
 ## [SB 5229](/bill/2023-24/sb/5229/) - Site readiness grants 👍1  
 
 ## [SB 5277](/bill/2023-24/sb/5277/) - Dairy, etc. tax preferences 👍1  

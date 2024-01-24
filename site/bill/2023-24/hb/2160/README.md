@@ -20,13 +20,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31763&aId=157618&caId=23606&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31763&aId=157618&caId=23606&tId=4)
 
-#### 235 👍 - Pro
+#### 499 👍 - Pro
 Testifying:
 * David Bart
+* Noha Mahgoub
 
-#### 8 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Salim Nice - Mayor Mercer Island
 
 #### 0 ❓ - Other
 

@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 01/23 04:00 PM - Transportation (TRAN): SB 6237 Wildlife safe passages
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31695&aId=157476&caId=23366&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31695&aId=157476&caId=23366&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31695&aId=157476&caId=23366&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31695&aId=157476&caId=23366&tId=4)
-
-#### 770 👍 - Pro
+#### 804 👍 - Pro
 Testifying:
 * Julia Michalak - WDFW
 * John Rosapepe - Endangered Species Coalition
@@ -28,6 +22,6 @@ Testifying:
 * Robert Long - Woodland Park Zoo
 * Ahmer Nizam - Washington State Department of Transportation
 
-#### 23 👎 - Con
+#### 24 👎 - Con
 
 #### 1 ❓ - Other

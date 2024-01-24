@@ -98,7 +98,8 @@
 
 ## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍1  
 
-## [HB 2250](/bill/2023-24/hb/2250/) - Local elections 👍1  
+## [HB 2250](/bill/2023-24/hb/2250/) - Local elections 👍2  
+* 👍 Lisa Parshley
 
 ## [HB 2296](/bill/2023-24/hb/2296/) - Comprehensive plan revisions 👍1  
 

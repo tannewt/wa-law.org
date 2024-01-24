@@ -12,3 +12,6 @@
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
 
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍1  
+
+## [SB 6190](/bill/2023-24/sb/6190/) - Fund-raising activities 👍1  
+* 👍💵 Tiffany Brace

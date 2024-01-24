@@ -11,17 +11,18 @@
 
 ## Meetings
 ### Wed 01/24 08:00 AM - Environment, Energy & Technology (ENET): SB 5826 Utility bills/CCA charges
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31725&aId=157105&caId=23374&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31725&aId=157105&caId=23374&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31725&aId=157105&caId=23374&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31725&aId=157105&caId=23374&tId=4)
-
-#### 8 👍 - Pro
+#### 61 👍 - Pro
 Testifying:
 * 💵Bryan Ricker - Schweitzer Engineering Laboratories, Inc.: SEL
+* Natasha Jackson - [Northwest Gas Association](/org/northwest_gas_association/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* Susanna Jones
+* eric pratt
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Lauren McCloy - NW Energy Coalition
 
 #### 1 ❓ - Other
 Testifying:

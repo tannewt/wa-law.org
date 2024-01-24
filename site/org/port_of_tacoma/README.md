@@ -17,6 +17,9 @@
 
 ## [HB 2289](/bill/2023-24/hb/2289/) - Salmon recovery projects/tax 👍1  
 
+## [HB 2354](/bill/2023-24/hb/2354/) - Tax increment areas 👍1  
+* 👍 Sean Eagan
+
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 
 ## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget   ❓1

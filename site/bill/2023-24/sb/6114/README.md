@@ -8,16 +8,13 @@
 
 ## Meetings
 ### Tue 01/23 04:00 PM - Transportation (TRAN): SB 6114 Sustainable aviation fuel
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31695&aId=157474&caId=23364&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31695&aId=157474&caId=23364&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31695&aId=157474&caId=23364&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31695&aId=157474&caId=23364&tId=4)
-
-#### 27 👍 - Pro
+#### 30 👍 - Pro
 
 #### 4 👎 - Con
 Testifying:
 * Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Chris Herman - WPPA
+* John Flanagan - [Port of Seattle](/org/port_of_seattle/)

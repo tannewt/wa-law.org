@@ -24,6 +24,10 @@
 
 ## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions.   ❓1
 
+## [HB 2091](/bill/2023-24/hb/2091/) - Fallen firefighter memorial 👍2  
+* 👍 Brian Considine
+* 👍 George Geissler
+
 ## [HB 2108](/bill/2023-24/hb/2108/) - Smokey Bear license plates 👍1  
 * 👍 Hilary Franz
 
@@ -50,6 +54,8 @@
 ## [HB 2312](/bill/2023-24/hb/2312/) - Tribal interlocal agreements 👍2  
 * 👍 Brian Considine
 * 👍 Patrick DePoe
+
+## [HB 2330](/bill/2023-24/hb/2330/) - Wildfire protection 👍1  
 
 ## [HB 2333](/bill/2023-24/hb/2333/) - Carbon seq./state lands 👍1  
 * 👍 Brian Considine

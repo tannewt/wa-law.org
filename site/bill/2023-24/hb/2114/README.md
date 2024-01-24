@@ -24,15 +24,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31717&aId=157728&caId=23615&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31717&aId=157728&caId=23615&tId=4)
 
-#### 882 👍 - Pro
+#### 1346 👍 - Pro
 Testifying:
 * Stacey Valenzuela
 * 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Rebekah Gardea - QLaw Foundation of Washington
 * J Kelley Rinehart
 * 💵Kristin Ang - Faith Action Network (FAN)
+* Andrew Mark Carlos
+* PRO), Kraig Peck (landlord - (willing to be on a PRO panel)
+* Kelley Rinehart
+* Monica Zazueta
+* Sol Villareal
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Chris Walker
+* Mayor Thomas Strobehn
+* Deborah Wilson
 
-#### 104 👎 - Con
+#### 304 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Bruce Becker
@@ -40,10 +49,20 @@ Testifying:
 * Jeffrey Pack - Washington Citizens Against Unfair Taxes
 * Mike Morris
 * William Shadbolt - [Washington Business Properties Association](/org/washington_business_properties_association/)
+* Patricia Hoendermis - Yakima Valley Landlords Assoc.
+* Monica Grant - [Manufactured Housing Communities of Washington](/org/manufactured_housing_communities_of_washington/)
+* Michael Frost
+* Morgan Shook - ECOnorthwest
+* Ph.D., Ike Brannon - Jack Kemp Foundation
+* Riley Benge - Washington REALTORS
 * Constance Nelson
 * 💵Mike Hoover - [Detente Management](/org/detente_management/)
+* Sam Spiegelman - Citizen Action Defense Fund
+* Saint Newton
+* 💵Andrea Reay
+* Laurie Layne
 
-#### 5 ❓ - Other
+#### 12 ❓ - Other
 
 ### Thu 01/11 08:00 AM - Housing (HOUS): HB 2114 Residential tenants
 #### 2013 👍 - Pro

@@ -11,7 +11,7 @@
 
 ## Meetings
 ### Tue 01/23 01:30 PM - Environment, Energy & Technology (ENET): SB 6180 Waste material management
-#### 458 👍 - Pro
+#### 483 👍 - Pro
 Testifying:
 * Jay Blazey - [Cedar Grove](/org/cedar_grove/)
 * Andrea Collins - NRDC (Natural Resources Defense Council)
@@ -28,8 +28,11 @@ Testifying:
 * Scott Smithline - Mill Industries
 * Brian Pontious - Ingevity
 * Jay Kang - Thurston County Food Bank
+* Anne Dickerson
+* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Ezra Eickmeyer - AWHP
 
-#### 33 👎 - Con
+#### 34 👎 - Con
 Testifying:
 * Wendy Weiker - [Republic Services](/org/republic_services/)
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
@@ -39,7 +42,7 @@ Testifying:
 * Mikey Hanks - Washington Fruit & Produce Co.
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 24 ❓ - Other
+#### 27 ❓ - Other
 Testifying:
 * Rose GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)
 * Peter Lyon - Washington State Department of Ecology
@@ -50,3 +53,5 @@ Testifying:
 * Lewis Griffith - City of Tacoma Environmental Services Division Manager of Solid Waste Management
 * Chris Cary - [Food Northwest](/org/food_northwest/)
 * Rick Vahl - Waste Connections
+* Brendan Flanagan - [Consumer Brands Association](/org/consumer_brands_association/)
+* 💵Diana Carlen - [Washington Potato & Onion Association](/org/washington_potato_&_onion_association/)

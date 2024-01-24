@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1891/</link>
 		<description>Updates about HB 1891</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 07:16:36 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2024 10:09:57 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -52,6 +52,22 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Allison/Krutsinger/2024-01-22 07:16:36</guid>
+		</item>
+		<item>
+			<title>👎Brett Ballew - Dept of Children, Youth, and Families</title>
+			<description>Brett Ballew signed up to testify Con.</description>
+			<pubDate>Tue, 23 Jan 2024 10:09:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Brett/Ballew/2024-01-23 10:09:57</guid>
+		</item>
+		<item>
+			<title>👎Tonia McClanahan - Washington State Office of Public Defense</title>
+			<description>Tonia McClanahan signed up to testify Con. They are signed up to represent Washington State Office of Public Defense.</description>
+			<pubDate>Tue, 23 Jan 2024 10:09:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Tonia/McClanahan/2024-01-23 10:09:57</guid>
 		</item>
 	</channel>
 </rss>

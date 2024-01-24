@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/17 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1997 Parks and recreation comm.

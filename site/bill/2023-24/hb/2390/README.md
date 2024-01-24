@@ -11,18 +11,12 @@
 
 ## Meetings
 ### Tue 01/23 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 2390 Eluding & resisting arrest
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31769&aId=157321&caId=23504&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31769&aId=157321&caId=23504&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31769&aId=157321&caId=23504&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31769&aId=157321&caId=23504&tId=4)
-
-#### 21 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 11 👎 - Con
+#### 16 👎 - Con
 Testifying:
 * Emily Gause
 * Ramona Brandes - WACDL/WDA

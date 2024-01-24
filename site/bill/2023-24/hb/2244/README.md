@@ -12,7 +12,7 @@
 
 ## Meetings
 ### Tue 01/23 01:30 PM - Consumer Protection & Business (CPB): HB 2244 Retirement savings
-#### 50 👍 - Pro
+#### 53 👍 - Pro
 Testifying:
 * 💵John Scott - [The Pew Charitable Trusts](/org/the_pew_charitable_trusts/)
 * Scott Baxter
@@ -24,8 +24,9 @@ Testifying:
 * 💵Paula Sardinas - WBBA (WA Build Black Alliance)
 * Karim Lessard
 * 💵Joanna Grist - AARP
+* 💵Paula Sardinas - WBBA/FMS Global Strategies
 
-#### 113 👎 - Con
+#### 131 👎 - Con
 Testifying:
 * Mark Ingersoll - National Association of Insurance and Financial Advisors
 

@@ -14,11 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31723&aId=157700&caId=23590&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31723&aId=157700&caId=23590&tId=4)
 
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * William Shadbolt - [Washington Business Properties Association](/org/washington_business_properties_association/)
 * Kristi Tripple - Rowley Properties
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* PATRICK GILROY - Washington Self Storage Association
+* Lance Baker - Washington State Self Storage Association - Treasurer / Urban Self Storage VP Business Development
+* PATRICK GILROY - STOR-HOUSE

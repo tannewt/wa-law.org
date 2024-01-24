@@ -14,7 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31701&aId=157022&caId=23385&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31701&aId=157022&caId=23385&tId=4)
 
-#### 2 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* 💵Jaime Bodden - WSALPHO
+* Erica Whares - Kitsap Public Health District
+* LaRhonda Osborn - Tacoma-Pierce County Health Department
+* Lisa Ostler - Thurston County Health and Human Services
 
 #### 0 👎 - Con
 

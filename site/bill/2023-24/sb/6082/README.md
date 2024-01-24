@@ -14,14 +14,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31766&aId=157304&caId=23376&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31766&aId=157304&caId=23376&tId=4)
 
-#### 259 👍 - Pro
+#### 352 👍 - Pro
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Leslie Maxwell
 * Chris Reykdal - Office of Superintendent of Public Instruction (OSPI)
+* Bay Knight
+* Charlotte Shindler - President Public School Employees of Washinton
+* Leslie Maxwell
+* Khalid Sirad - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
+* Leonardo Salas Ramos
+* Mahad Dahir - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
+* Davina Diaz
+* Christy Tautfest - paraeducator, Marysville Schools
 
 #### 6 👎 - Con
 Testifying:
 * Dan Steele - WA Assn of School Administrators & WA Assn of School Business Officials
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other

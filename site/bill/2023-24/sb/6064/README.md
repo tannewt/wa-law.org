@@ -17,14 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31722&aId=157096&caId=23381&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31722&aId=157096&caId=23381&tId=4)
 
-#### 55 👍 - Pro
+#### 114 👍 - Pro
 Testifying:
 * Whitney Bowerman
 * Julie McCabe - Seattle Humane Socity
 * 💵Susan Riggs - ASPCA
 * Kim Schulze
+* Talauna Reed - Tenants Union of Washington State
+* Talauna Reed - Tenants Union of Washington State
+* Terri Anderson - Tenants Union of Washington State
+* Amber Abrahamson - Tenants Union Of Washington State
 
-#### 216 👎 - Con
+#### 484 👎 - Con
 Testifying:
 * Constance Nelson
 * Barbara Korducki
@@ -33,6 +37,11 @@ Testifying:
 * Marlene Scheffer
 * Bruce Becker
 * William Shadbolt - [Washington Business Properties Association](/org/washington_business_properties_association/)
+* Patricia Hoendermis - Yakima Valley Landlords Assoc.
 * Mike Morris
+* JIM HENDERSON - National Association of Residential Property Managers and Benton Franklin County Rental Owners Assoc
+* Katie Phelan-Chostner - Executive Vice-President, 1UP Floors
+* Lauren Trujillo - Regional Manager, Equity Residential
+* Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

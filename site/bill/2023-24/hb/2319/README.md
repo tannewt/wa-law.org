@@ -11,12 +11,16 @@
 
 ## Meetings
 ### Tue 01/23 01:30 PM - Health Care & Wellness (HCW): HB 2319 Substance use treatment
-#### 21 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Shaena Garberich - Oxford Fundraising Chair Chapter 30
 * Joe Barrett - [Key Recovery & Life Skills Center](/org/key_recovery_&_life_skills_center/)
+* Jennifer Hutchinson
+* Lindsey Arrington - Hope Soldiers
+* Paulette Chaussee - Washington Recovery Alliance
+* Teri Hardy - Valley Cities
 
-#### 8 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * Jessica Molberg - Coordinated Care
 * Eileen Newton - [Evergreen Recovery Centers](/org/evergreen_recovery_centers/)

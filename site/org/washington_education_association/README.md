@@ -445,6 +445,8 @@
 
 ## [HB 2084](/bill/2023-24/hb/2084/) - Establishing an oversight committee to improve construction-related training and pathways to state registered apprenticeships in state correctional facilities. 👍1  
 
+## [HB 2091](/bill/2023-24/hb/2091/) - Fallen firefighter memorial 👍1  
+
 ## [HB 2094](/bill/2023-24/hb/2094/) - Gift certificates 👍1  
 
 ## [HB 2095](/bill/2023-24/hb/2095/) - Gift certificates/unclaimed 👍1  
@@ -462,7 +464,11 @@
 * ❓💵 Simone Boe
 * 👍💵 Simone Boe
 
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+
 ## [HB 2125](/bill/2023-24/hb/2125/) - Concerning the eligibility of state-mandated benefits for contingent faculty at community and technical colleges. 👍2  
+
+## [HB 2133](/bill/2023-24/hb/2133/) - Public school bus trespass 👍1  
 
 ## [HB 2164](/bill/2023-24/hb/2164/) - Postsecondary ed protections 👍1  
 
@@ -493,7 +499,7 @@
 
 ## [HB 2282](/bill/2023-24/hb/2282/) - African American studies 👍1  
 
-## [HB 2283](/bill/2023-24/hb/2283/) - Shared leave/disasters 👍1  
+## [HB 2283](/bill/2023-24/hb/2283/) - Shared leave/disasters 👍2  
 
 ## [HB 2309](/bill/2023-24/hb/2309/) - Washington 13 free guarantee 👍1  
 
@@ -512,6 +518,12 @@
 
 ## [HB 2398](/bill/2023-24/hb/2398/) - Instruct. materials/parents   ❓1
 * ❓💵 Nasue Nishida
+
+## [HB 2407](/bill/2023-24/hb/2407/) - Child welfare workers 👍1  
+
+## [HB 2437](/bill/2023-24/hb/2437/) - Retirement savings 👍1  
+
+## [HB 2459](/bill/2023-24/hb/2459/) - Alt. measure disclosures 👍1  
 
 ## [SB 5000](/bill/2023-24/sb/5000/) - Americans of Chinese descent 👍1  
 
@@ -940,11 +952,23 @@
 
 ## [SB 6085](/bill/2023-24/sb/6085/) - Underground economy 👍2  
 
-## [SB 6123](/bill/2023-24/sb/6123/) - Classified school employees 👍1  
+## [SB 6123](/bill/2023-24/sb/6123/) - Classified school employees 👍2  
 * 👍💵 Julie Salvi
+* 👍 Jenna Slott
+
+## [SB 6157](/bill/2023-24/sb/6157/) - Civil service 👍1  
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
+
+## [SB 6197](/bill/2023-24/sb/6197/) - LEOFF plan 2 👍1  
+
+## [SB 6198](/bill/2023-24/sb/6198/) - LEOFF 2 board employees 👍1  
+
+## [SB 6208](/bill/2023-24/sb/6208/) - Public school materials 👍1  
+* 👍💵 Nasue Nishida
 
 ## [SB 6230](/bill/2023-24/sb/6230/) - Tax increment areas 👍1  
 
 ## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍1  
+
+## [SB 6300](/bill/2023-24/sb/6300/) - College grant/public assist. 👍1  

@@ -11,7 +11,7 @@
 
 ## [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals 👍1  
 
-## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍8  
+## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍9  
 * 👍💵 Kristin Ang
 
 ## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍4  
@@ -168,7 +168,7 @@
 
 ## [SB 6135](/bill/2023-24/sb/6135/) - TANF transitional assistance 👍1  
 
-## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍6  
+## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍7  
 
 ## [SB 6216](/bill/2023-24/sb/6216/) - Student mental health net. 👍7  
 

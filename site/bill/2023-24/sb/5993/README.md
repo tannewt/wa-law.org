@@ -12,7 +12,7 @@
 Testifying:
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
-#### 356 👎 - Con
+#### 366 👎 - Con
 Testifying:
 * Cindy Madigan - League of Women Voters of Washington
 * Sharon Damoff

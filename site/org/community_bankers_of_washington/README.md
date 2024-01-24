@@ -14,7 +14,7 @@
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax  👎2 
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants  👎1 
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants  👎2 
 * 👎 Brad Tower
 
 ## [SB 5060](/bill/2023-24/sb/5060/) - Rental & vacant properties  👎1 

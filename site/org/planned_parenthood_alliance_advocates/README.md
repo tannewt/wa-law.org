@@ -7,6 +7,8 @@
 ## [HB 1073](/bill/2023-24/hb/1073/) - Medical assistants 👍2  
 * 👍💵 Nicole Kern
 
+## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
+
 ## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
 
 ## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
@@ -34,7 +36,7 @@
 
 ## [HB 1408](/bill/2023-24/hb/1408/) - HIV medication rebate rev. 👍1  
 
-## [HB 1450](/bill/2023-24/hb/1450/) - Biomarker testing coverage 👍1  
+## [HB 1450](/bill/2023-24/hb/1450/) - Biomarker testing coverage 👍2  
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍3  
 
@@ -113,6 +115,8 @@
 ## [HB 2331](/bill/2023-24/hb/2331/) - Public school materials 👍1  
 
 ## [HB 2348](/bill/2023-24/hb/2348/) - County hospital funding 👍1  
+
+## [HB 2390](/bill/2023-24/hb/2390/) - Eluding & resisting arrest  👎1 
 
 ## [HB 2395](/bill/2023-24/hb/2395/) - Strangulation & suffocation  👎1 
 

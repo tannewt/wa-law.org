@@ -14,7 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31745&aId=157516&caId=23419&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31745&aId=157516&caId=23419&tId=4)
 
-#### 44 👍 - Pro
+#### 53 👍 - Pro
+Testifying:
+* Evan Klein - Health Care Authority
+* Ingrid Ulrey - Washington Health Benefit Exchange
+* Jane Beyer - WA Office of the Insurance Commissioner
+* Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* Neil Angst
 
 #### 4 👎 - Con
 

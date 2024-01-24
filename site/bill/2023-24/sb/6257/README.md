@@ -14,8 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31744&aId=157515&caId=23404&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31744&aId=157515&caId=23404&tId=4)
 
-#### 60 👍 - Pro
+#### 69 👍 - Pro
 
-#### 35 👎 - Con
+#### 44 👎 - Con
+Testifying:
+* Paul McLain - SOS Health Services
+* Kali Curtis
 
 #### 1 ❓ - Other

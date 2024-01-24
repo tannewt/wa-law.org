@@ -19,6 +19,6 @@ Testifying:
 * Derek Phelps - [Twelve](/org/twelve/)
 * 💵Donny Donovan - IAM 751
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

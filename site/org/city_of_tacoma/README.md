@@ -92,7 +92,7 @@
 
 ## [HB 1956](/bill/2023-24/hb/1956/) - Addressing fentanyl and other substance use prevention education. 👍1  
 
-## [HB 2012](/bill/2023-24/hb/2012/) - Concerning eligibility for a property tax exemption for nonprofits providing affordable rental housing built with city and county funds. 👍1  
+## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍1  
 
 ## [HB 2086](/bill/2023-24/hb/2086/) - Office of indep. invest. 👍1  
 
@@ -100,6 +100,8 @@
 * ❓ Lewis Griffith
 
 ## [HB 2322](/bill/2023-24/hb/2322/) - Child care/tax preferences 👍1  
+
+## [HB 2368](/bill/2023-24/hb/2368/) - Refugee & immigrant assist. 👍1  
 
 ## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras 👍1  
 * 👍💵 Briahna Murray
@@ -178,7 +180,11 @@
 
 ## [SB 6009](/bill/2023-24/sb/6009/) - Hog-tying 👍1  
 
+## [SB 6120](/bill/2023-24/sb/6120/) - Wildland urban interface 👍1  
+
 ## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management   ❓1
 * ❓ Lewis Griffith
 
 ## [SB 6242](/bill/2023-24/sb/6242/) - Law enforcement training 👍1  
+
+## [SB 6245](/bill/2023-24/sb/6245/) - Refugee & immigrant assist. 👍1  

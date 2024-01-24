@@ -46,6 +46,8 @@
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
+## [HB 2130](/bill/2023-24/hb/2130/) - Special education services 👍1  
+
 ## [HB 2218](/bill/2023-24/hb/2218/) - Extended foster care 👍1  
 * 👍💵 Daniel Lugo
 
@@ -117,3 +119,5 @@
 * 👍💵 Daniel Lugo
 
 ## [SB 6079](/bill/2023-24/sb/6079/) - Juv. detention/health recs. 👍1  
+
+## [SB 6216](/bill/2023-24/sb/6216/) - Student mental health net. 👍1  

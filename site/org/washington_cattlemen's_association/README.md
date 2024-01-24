@@ -23,6 +23,10 @@
 
 ## [HB 2289](/bill/2023-24/hb/2289/) - Salmon recovery projects/tax 👍1  
 
+## [HB 2423](/bill/2023-24/hb/2423/) - Gray wolf management 👍1  
+
+## [HB 2424](/bill/2023-24/hb/2424/) - State-tribe coop./wildlife 👍1  
+
 ## [SB 5150](/bill/2023-24/sb/5150/) - Beef commission 👍3  
 * 👍💵 Mark Streuli
 * 👍💵 Mark Streuli

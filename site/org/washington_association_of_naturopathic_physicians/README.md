@@ -10,5 +10,5 @@
 
 ## [HB 1452](/bill/2023-24/hb/1452/) - Medical reserve corps 👍1  
 
-## [HB 1655](/bill/2023-24/hb/1655/) - Provider contract comp. 👍1  
+## [HB 1655](/bill/2023-24/hb/1655/) - Provider contract comp. 👍2  
 * 👍 Dr. Angela Ross

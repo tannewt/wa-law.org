@@ -120,7 +120,7 @@ Testifying:
 * 💵Stacy Dym - The Arc of Washington State
 * Regan Bolli - [City of Covington](/org/city_of_covington/)
 * Kelli Curtis - Council member,  City of Kirkland
-* Corey Cabrera - Vancouver Housing Authority
+* Corey Cabrera - [Vancouver Housing Authority](/org/vancouver_housing_authority/)
 * Sunaree Marshall - [King County](/org/king_county/)
 * Councilmember Janice Zahn - [City of Bellevue](/org/city_of_bellevue/)
 * Mayor Mason Thompson

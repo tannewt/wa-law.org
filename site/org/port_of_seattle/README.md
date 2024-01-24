@@ -49,6 +49,11 @@
 
 ## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management 👍1  
 
+## [HB 2354](/bill/2023-24/hb/2354/) - Tax increment areas 👍1  
+* 👍 John Flanagan
+
+## [HB 2368](/bill/2023-24/hb/2368/) - Refugee & immigrant assist. 👍1  
+
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 
 ## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍2  
@@ -82,6 +87,9 @@
 ## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍1  
 
 ## [SB 6080](/bill/2023-24/sb/6080/) - Tourism marketing funding 👍1  
+
+## [SB 6114](/bill/2023-24/sb/6114/) - Sustainable aviation fuel   ❓1
+* ❓ John Flanagan
 
 ## [SB 6136](/bill/2023-24/sb/6136/) - Rental property B&O tax   ❓1
 * ❓ John Flanagan

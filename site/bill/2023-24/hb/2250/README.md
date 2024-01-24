@@ -18,14 +18,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31747&aId=157226&caId=23529&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31747&aId=157226&caId=23529&tId=4)
 
-#### 1235 👍 - Pro
+#### 1654 👍 - Pro
 Testifying:
 * Cindy Madigan - League of Women Voters of Washington
 * 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
 * Carol Sullivan - self
+* 💵Giovanni Severino
 * 💵Shannon Grimes - [Sightline Institute](/org/sightline_institute/)
+* Nilu Jenks - FairVote Washington
+* 💵Shannon Grimes - [Sightline Institute](/org/sightline_institute/)
+* Cindy Madigan - League of Women Voters
+* 💵Colin Cole - More Equitable Democracy
+* Jason Grenn - FairVote Washington
+* 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
+* Lisa Parshley - [City of Olympia](/org/city_of_olympia/)
 
-#### 1384 👎 - Con
+#### 1768 👎 - Con
 Testifying:
 * Cemal Richards
 * Theresa Schrempp
@@ -34,7 +42,13 @@ Testifying:
 * Tim Eyman - Initiative Activist
 * James Ware
 * Kim Slinger
+* Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Tim Eyman - Initiative Activist
+* Laurie Layne
+* Eryn Jordan - Washington Election Integrity Coalition United
+* Mary Long - Conservative Ladies of Washington
+* Sharon Hanek
 
-#### 3 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

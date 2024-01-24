@@ -30,6 +30,9 @@
 
 ## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍1  
 
+## [HB 2295](/bill/2023-24/hb/2295/) - Hospital at-home services 👍1  
+* 👍💵 Katherine Mahoney
+
 ## [SB 5036](/bill/2023-24/sb/5036/) - Audio-only telemedicine 👍1  
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎2 
@@ -76,7 +79,7 @@
 
 ## [SB 5880](/bill/2023-24/sb/5880/) - MRI technologists 👍1  
 
-## [SB 5983](/bill/2023-24/sb/5983/) - Allowing medical assistants with telehealth supervision to provide intramuscular injections for syphilis treatment. 👍1  
+## [SB 5983](/bill/2023-24/sb/5983/) - Syphilis treat. supervision 👍1  
 
 ## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍1  
 

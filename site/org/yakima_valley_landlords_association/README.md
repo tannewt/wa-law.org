@@ -37,3 +37,5 @@
 
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants  👎1 
 * 👎 Rick Glenn
+
+## [SB 6064](/bill/2023-24/sb/6064/) - Pet fees, deposits  👎1 

@@ -85,7 +85,7 @@
 
 ## [HB 2008](/bill/2023-24/hb/2008/) - Housing cost task force 👍1  
 
-## [HB 2012](/bill/2023-24/hb/2012/) - Concerning eligibility for a property tax exemption for nonprofits providing affordable rental housing built with city and county funds. 👍1  
+## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍1  
 
 ## [HB 2039](/bill/2023-24/hb/2039/) - Modifying the appeals process for environmental and land use matters. 👍1  
 
@@ -105,6 +105,8 @@
 
 ## [HB 2354](/bill/2023-24/hb/2354/) - Tax increment areas  👎1 
 * 👎 Michael Olson
+
+## [HB 2411](/bill/2023-24/hb/2411/) - School construction debt 👍1  
 
 ## [SB 5006](/bill/2023-24/sb/5006/) - Waiver of firearm rights 👍1  
 

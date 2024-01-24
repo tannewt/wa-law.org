@@ -18,10 +18,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31703&aId=157037&caId=23547&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31703&aId=157037&caId=23547&tId=4)
 
-#### 6 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
+* KARL DYE - TRIDEC
 * 💵Emily Shay - Association of Washington Buisness
 
-#### 0 👎 - Con
+#### 27 👎 - Con
 
 #### 0 ❓ - Other

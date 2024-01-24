@@ -19,3 +19,5 @@
 
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
 * ❓💵 Melissa Johnson
+
+## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  

@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Tue 01/23 01:30 PM - State Government & Tribal Relations (SGOV): HB 2346 Health disparities council
-#### 38 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * Courtney Cecale - WA State Department of Ecology
 * Linh Huynh - Governor's Interagency Coordinating Council on Health Disparities

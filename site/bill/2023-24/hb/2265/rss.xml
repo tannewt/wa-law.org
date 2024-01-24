@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2265/</link>
 		<description>Updates about HB 2265</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 23 Jan 2024 08:22:41 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2024 10:38:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2024-01-10/First reading, referred to Civil Rights &amp; Judiciary.</guid>
 		</item>
 		<item>
-			<title>👍Kai Lightner - None</title>
+			<title>👍Kai Lightner - Association of Washington Business</title>
 			<description>Kai Lightner signed up to testify Pro.</description>
 			<pubDate>Mon, 22 Jan 2024 02:43:47 GMT</pubDate>
 			<category>testifier</category>
@@ -56,12 +56,36 @@
 			<guid isPermaLink="false">testifier/Tod/Bloxham/2024-01-22 11:25:45</guid>
 		</item>
 		<item>
+			<title>👍Garnet Moore - Climbing Wall Association</title>
+			<description>Garnet Moore signed up to testify Pro. They are signed up to represent Climbing Wall Association.</description>
+			<pubDate>Tue, 23 Jan 2024 04:41:08 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Garnet/Moore/2024-01-23 04:41:08</guid>
+		</item>
+		<item>
+			<title>👍DON NGUYEN - Climbers of Color</title>
+			<description>DON NGUYEN signed up to testify Pro. They are signed up to represent Climbers of Color.</description>
+			<pubDate>Tue, 23 Jan 2024 07:06:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/DON/NGUYEN/2024-01-23 07:06:54</guid>
+		</item>
+		<item>
 			<title>👍Marc Norman - USA Climbing</title>
 			<description>Marc Norman signed up to testify Pro. They are signed up to represent USA Climbing.</description>
 			<pubDate>Tue, 23 Jan 2024 08:22:41 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Marc/Norman/2024-01-23 08:22:41</guid>
+		</item>
+		<item>
+			<title>👎Darrell Cochran - Washington State Association for Justice</title>
+			<description>Darrell Cochran signed up to testify Con. They are signed up to represent Washington State Association for Justice.</description>
+			<pubDate>Tue, 23 Jan 2024 10:38:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Darrell/Cochran/2024-01-23 10:38:13</guid>
 		</item>
 	</channel>
 </rss>

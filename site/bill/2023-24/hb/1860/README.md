@@ -8,12 +8,13 @@
 
 ## Meetings
 ### Tue 01/23 01:30 PM - Consumer Protection & Business (CPB): HB 1860 Stay-to-play
-#### 37 👍 - Pro
+#### 41 👍 - Pro
 
-#### 75 👎 - Con
+#### 99 👎 - Con
 Testifying:
 * Beth Knox - [Seattle Sports Commission](/org/seattle_sports_commission/)
 * April Stark - Pacific Northwest Qualifier
 * Tammy Dunn - Snohomish County Sports Commission
+* Cherie Gwinn - Spokane Sports
 
 #### 0 ❓ - Other

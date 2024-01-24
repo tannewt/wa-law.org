@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Tue 01/23 01:30 PM - State Government & Elections (SGE): SB 6125 Lakeland Village records
-#### 26 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * Leslie Widing
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
@@ -16,6 +16,7 @@ Testifying:
 * Ashley Cowan D'Ambrosio
 * Monica Thomas
 * 💵Stacy Dym - The Arc of Washington State
+* Heather Hirotaka - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Ryan Grant
 
 #### 0 👎 - Con

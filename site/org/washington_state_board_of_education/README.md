@@ -89,6 +89,8 @@
 
 ## [HB 2236](/bill/2023-24/hb/2236/) - Tech. ed. core plus programs 👍1  
 
+## [HB 2239](/bill/2023-24/hb/2239/) - Social-emotional instruction 👍1  
+
 ## [HB 2267](/bill/2023-24/hb/2267/) - Commencement/cultural exp. 👍1  
 
 ## [HB 2282](/bill/2023-24/hb/2282/) - African American studies 👍1  
@@ -191,6 +193,14 @@
 * 👍 Alissa Muller
 
 ## [SB 6014](/bill/2023-24/sb/6014/) - Special education cap 👍1  
+
+## [SB 6082](/bill/2023-24/sb/6082/) - Paraeducator compensation 👍1  
+
+## [SB 6123](/bill/2023-24/sb/6123/) - Classified school employees 👍1  
+
+## [SB 6208](/bill/2023-24/sb/6208/) - Public school materials 👍1  
+
+## [SB 6216](/bill/2023-24/sb/6216/) - Student mental health net. 👍1  
 
 ## [SB 6264](/bill/2023-24/sb/6264/) - Competency-based education 👍1  
 * 👍 Alissa Muller

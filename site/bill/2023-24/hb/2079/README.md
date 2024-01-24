@@ -17,11 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157324&caId=23543&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157324&caId=23543&tId=4)
 
-#### 14 👍 - Pro
+#### 49 👍 - Pro
 Testifying:
 * Bob West - Umpires and Referees Stopping Assaults For Ever (www.ur-safe.org)
 * Brandi Peetz
+* Preston Dwoskin
 
-#### 11 👎 - Con
+#### 15 👎 - Con
+Testifying:
+* David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 
 #### 0 ❓ - Other

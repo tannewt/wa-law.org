@@ -14,13 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31733&aId=157149&caId=23524&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31733&aId=157149&caId=23524&tId=4)
 
-#### 10 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Shawn Latham - Self Advocates In Leadership
 * Kim McLeod
 * 💵Noah Seidel - Office of Developmental Disabilities Ombuds
 * 💵Stacy Dym - The Arc of Washington State
+* Todd H Carlisle - [Disability Rights Washington](/org/disability_rights_washington/)
+* Todd H Carlisle - [Disability Rights Washington](/org/disability_rights_washington/)
+* Linda Hyatt - Families for Better Lives
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Kris Pederson - DSHS Developmental Disabilities Administration
+* Jaime Bond - DSHS Developmental Disabilities Administration

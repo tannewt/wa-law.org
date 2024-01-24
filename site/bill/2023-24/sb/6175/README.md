@@ -14,13 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31722&aId=157097&caId=23382&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31722&aId=157097&caId=23382&tId=4)
 
-#### 14 👍 - Pro
+#### 35 👍 - Pro
 Testifying:
 * Marc Angelillo - Urban Housing Ventures
 * Tim Cavanaugh - Urban Housing Ventures
 * CHRIS BATTEN - 135
 * Andrew Rolwes - Downtown Spokane Partnership
 * Jonathan Bingle
+* Angela Rozmyn - Natural and Built Environments
+* 💵Briahna Murray - Urban Housing Ventures
+* Chris Moore - [Washington Trust for Historic Preservation](/org/washington_trust_for_historic_preservation/)
 
 #### 0 👎 - Con
 

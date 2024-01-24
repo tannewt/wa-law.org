@@ -11,3 +11,19 @@
 * 12/11/2023 [Gorge News Center](/org/gorge_news_center/) - [Legislature must protect signature gatherers from harassment](https://gorgenewscenter.com/2023/12/11/legislature-must-protect-signature-gatherers-from-harassment/#:~:text=Senate%20Bill%205820)
 
 ## Meetings
+### Fri 01/26 08:00 AM - State Government & Elections (SGE): SB 5820 Signature gathering/protests
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31772&aId=158022&caId=23630&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31772&aId=158022&caId=23630&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31772&aId=158022&caId=23630&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31772&aId=158022&caId=23630&tId=4)
+
+#### 3 👍 - Pro
+Testifying:
+* Tim Eyman - Initiative Activist
+
+#### 0 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* 💵Carolyn Logue - Washington Food Industry Association

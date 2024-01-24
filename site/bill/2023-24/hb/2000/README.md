@@ -15,10 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31718&aId=157733&caId=23618&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31718&aId=157733&caId=23618&tId=4)
 
-#### 5 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Sarah Clark - Seattle Metropolitan Chamber of Commerce
 * James Rolph - The Lieutenant Governor's Office
+* Michelle Detwiler
 
 #### 3 👎 - Con
 

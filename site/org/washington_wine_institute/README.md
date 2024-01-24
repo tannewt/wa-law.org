@@ -51,7 +51,8 @@
 
 ## [SB 5007](/bill/2023-24/sb/5007/) - Wine retailer shippers   ❓1
 
-## [SB 5013](/bill/2023-24/sb/5013/) - Wine/alcohol tax exemption 👍1  
+## [SB 5013](/bill/2023-24/sb/5013/) - Wine/alcohol tax exemption 👍2  
+* 👍 Josh McDonald
 * 👍 Josh McDonald
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management   ❓1

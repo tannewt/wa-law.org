@@ -42,6 +42,8 @@
 
 ## [HB 2282](/bill/2023-24/hb/2282/) - African American studies 👍1  
 
+## [HB 2331](/bill/2023-24/hb/2331/) - Public school materials 👍1  
+
 ## [SB 5019](/bill/2023-24/sb/5019/) - School safety staff 👍4  
 * 👍 Ellie Bridge
 * 👍💵 Terique Scott
@@ -77,9 +79,13 @@
 
 ## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍1  
 
+## [SB 5873](/bill/2023-24/sb/5873/) - Student transportation 👍1  
+
 ## [SB 5883](/bill/2023-24/sb/5883/) - Concerning the burden of proof for special education due process hearings. 👍1  
 
 ## [SB 5903](/bill/2023-24/sb/5903/) - Concerning representation in the educator preparation act. 👍1  
 
 ## [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation  👎1 
 * 👎 Eric Holzapfel
+
+## [SB 6123](/bill/2023-24/sb/6123/) - Classified school employees 👍1  

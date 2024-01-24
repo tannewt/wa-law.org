@@ -34,3 +34,5 @@
 ## [SB 5780](/bill/2023-24/sb/5780/) - Public defense training 👍1  
 
 ## [SB 6134](/bill/2023-24/sb/6134/) - Opioid use 👍1  
+
+## [SB 6202](/bill/2023-24/sb/6202/) - Tourism promotion exemptions 👍1  

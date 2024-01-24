@@ -12,17 +12,14 @@
 
 ## Meetings
 ### Tue 01/23 04:00 PM - Education (ED): HB 2018 Schools/mobile device use
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157549&caId=23565&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157549&caId=23565&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157549&caId=23565&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157549&caId=23565&tId=4)
-
-#### 49 👍 - Pro
+#### 62 👍 - Pro
 Testifying:
 * Eric Sobotta - Reardan-Edwall School District
 * 💵Kelsi Hamilton - Chehalis School Board
+* Preston Dwoskin
 
 #### 11 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Jeannie Magdua - Conservative Ladies of Washington

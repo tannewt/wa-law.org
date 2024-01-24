@@ -12,6 +12,8 @@
 * 👍 Teresa Dr. Girolami
 * 👍 Nancy Belcher
 
+## [HB 1450](/bill/2023-24/hb/1450/) - Biomarker testing coverage 👍1  
+
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
 
 ## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  
@@ -31,6 +33,8 @@
 ## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍1  
 
 ## [HB 2132](/bill/2023-24/hb/2132/) - Coroner training costs  👎1 
+
+## [HB 2416](/bill/2023-24/hb/2416/) - ARNP legal title 👍1  
 
 ## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍1  
 * 👍 Nancy Belcher

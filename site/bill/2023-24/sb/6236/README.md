@@ -14,13 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31766&aId=157308&caId=23380&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31766&aId=157308&caId=23380&tId=4)
 
-#### 59 👍 - Pro
+#### 64 👍 - Pro
 
-#### 718 👎 - Con
+#### 816 👎 - Con
 Testifying:
 * Jennifer Garrison Stuber - Washington Homeschool Organization
 * Kevin Boden - Home School Legal Defense Association
 * Jennifer Child - Homeschool Mom
 * Julie Barrett - Parent
+* Susanna Jones
+* Jennifer Heine-Withee
 
 #### 1 ❓ - Other

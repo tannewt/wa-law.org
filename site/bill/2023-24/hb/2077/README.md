@@ -17,13 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31714&aId=157077&caId=23519&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31714&aId=157077&caId=23519&tId=4)
 
-#### 3 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Jacob Vigdor - University of Washington Faculty
+* Bill Lyne - United Faculty of Washington State
+* Jenee Myers Twitchell - Washington STEM
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Dana Anderson - Washington School Information Processing Cooperative (WSIPC)
 * Ruben Flores - Council Of Presidents
+* Jana Jaraysi - Eastern Washington University
+* Julie Garver - Council of Presidents
+* Ruben Flores - Council of Presidents

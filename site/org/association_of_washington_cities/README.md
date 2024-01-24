@@ -256,7 +256,7 @@
 ## [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg 👍1  
 * 👍 Brandy DeLange
 
-## [HB 2026](/bill/2023-24/hb/2026/) - Concerning rental income received by people eligible for certain property tax exemption programs. 👍1  
+## [HB 2026](/bill/2023-24/hb/2026/) - Rental income/property tax 👍1  
 
 ## [HB 2036](/bill/2023-24/hb/2036/) - Concerning workplace safety and operational standards for adult entertainment establishments.   ❓1
 * ❓💵 Candice Bock
@@ -324,6 +324,9 @@
 
 ## [HB 2296](/bill/2023-24/hb/2296/) - Comprehensive plan revisions 👍1  
 
+## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management   ❓1
+* ❓💵 Carl Schroeder
+
 ## [HB 2307](/bill/2023-24/hb/2307/) - Public records reviews 👍1  
 * 👍💵 Candice Bock
 
@@ -338,6 +341,8 @@
 * ❓💵 Carl Schroeder
 
 ## [HB 2330](/bill/2023-24/hb/2330/) - Wildfire protection 👍1  
+
+## [HB 2343](/bill/2023-24/hb/2343/) - Property owners/projects 👍1  
 
 ## [HB 2354](/bill/2023-24/hb/2354/) - Tax increment areas  👎1 
 * 👎💵 Candice Bock
@@ -644,8 +649,13 @@
 ## [SB 6167](/bill/2023-24/sb/6167/) - Local government procurement 👍1  
 * 👍 Brandy DeLange
 
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍1  
+
 ## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management   ❓1
 * ❓💵 Carl Schroeder
+
+## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
+* 👍💵 Carl Schroeder
 
 ## [SB 6192](/bill/2023-24/sb/6192/) - Construction change orders   ❓1
 * ❓ Brandy DeLange

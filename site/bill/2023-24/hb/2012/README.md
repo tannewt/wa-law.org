@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 2012](/bill/2023-24/hb/2012/)
 
-# HB 2012 - Concerning eligibility for a property tax exemption for nonprofits providing affordable rental housing built with city and county funds.
+# HB 2012 - Rental housing/nonprofits
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=2012&Year=2023&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 01/18 01:30 PM - Finance (FIN): HB 2012 Rental housing/nonprofits

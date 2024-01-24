@@ -8,15 +8,10 @@
 
 ## Meetings
 ### Tue 01/23 04:00 PM - Ways & Means (WM): SB 6197 LEOFF plan 2
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157500&caId=23369&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157500&caId=23369&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157500&caId=23369&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157500&caId=23369&tId=4)
-
-#### 16 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * 💵Michael Duchemin - [Retired Firefighters of Washington](/org/retired_firefighters_of_washington/)
+* Jacob White - LEOFF 2 Board
 
 #### 0 👎 - Con
 

@@ -73,6 +73,8 @@
 ## [HB 1956](/bill/2023-24/hb/1956/) - Addressing fentanyl and other substance use prevention education. 👍1  
 * 👍💵 Casey Brown
 
+## [HB 2018](/bill/2023-24/hb/2018/) - Improving student outcomes by restricting mobile device use by public school students.   ❓1
+
 ## [HB 2053](/bill/2023-24/hb/2053/) - Establishing the ninth grade success grant program. 👍1  
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
@@ -85,7 +87,11 @@
 
 ## [HB 2309](/bill/2023-24/hb/2309/) - Washington 13 free guarantee 👍1  
 
+## [HB 2331](/bill/2023-24/hb/2331/) - Public school materials 👍1  
+
 ## [HB 2374](/bill/2023-24/hb/2374/) - Washington promise program 👍1  
+
+## [HB 2398](/bill/2023-24/hb/2398/) - Instruct. materials/parents   ❓1
 
 ## [SB 5020](/bill/2023-24/sb/5020/) - Education at 6 years of age 👍1  
 
@@ -184,5 +190,11 @@
 ## [SB 6012](/bill/2023-24/sb/6012/) - Teacher preparation programs 👍1  
 
 ## [SB 6014](/bill/2023-24/sb/6014/) - Special education cap 👍1  
+
+## [SB 6123](/bill/2023-24/sb/6123/) - Classified school employees 👍1  
+
+## [SB 6208](/bill/2023-24/sb/6208/) - Public school materials 👍1  
+
+## [SB 6216](/bill/2023-24/sb/6216/) - Student mental health net. 👍1  
 
 ## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍1  

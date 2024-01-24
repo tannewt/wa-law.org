@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31762&aId=157393&caId=23407&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31762&aId=157393&caId=23407&tId=4)
 
-#### 4 👍 - Pro
+#### 34 👍 - Pro
 
-#### 3 👎 - Con
+#### 36 👎 - Con
 Testifying:
+* 💵Dan Wood - WA State Dairy Federation
 * Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 1 ❓ - Other
 Testifying:

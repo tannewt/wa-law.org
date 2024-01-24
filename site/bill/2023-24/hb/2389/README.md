@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31778&aId=157613&caId=23602&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31778&aId=157613&caId=23602&tId=4)
 
-#### 2 👍 - Pro
+#### 44 👍 - Pro
+Testifying:
+* JIM HENDERSON - National Association of Residential Property Managers and Benton Franklin County Rental Owners Assoc
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* 💵Edmund Witter - [King County Bar Association](/org/king_county_bar_association/)
 
 #### 0 ❓ - Other

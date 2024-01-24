@@ -136,6 +136,8 @@
 
 ## [HB 2176](/bill/2023-24/hb/2176/) - Preventive dental care  👎1 
 
+## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍1  
+
 ## [HB 2244](/bill/2023-24/hb/2244/) - Retirement savings 👍1  
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
@@ -235,6 +237,7 @@
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
 
-## [SB 6226](/bill/2023-24/sb/6226/) - DSHS fraud office reporting 👍1  
+## [SB 6226](/bill/2023-24/sb/6226/) - DSHS fraud office reporting 👍2  
+* 👍💵 Lianna Kressin
 
 ## [SB 6276](/bill/2023-24/sb/6276/) - Digital electronics/repair 👍1  

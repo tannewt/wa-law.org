@@ -17,10 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31708&aId=157049&caId=23522&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31708&aId=157049&caId=23522&tId=4)
 
-#### 36 👍 - Pro
+#### 54 👍 - Pro
 Testifying:
 * David Forte - Office of the Insurance Commissioner
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* 💵Brandon Vick - National Association of Mutual Insurance Companies (NAMIC)
+* 💵Jean Leonard - WA Insurers
+* 💵Kenton Brine - NW Insurance Council
+* Kris Tefft - American Property Casualty Insurance Association (APCIA)

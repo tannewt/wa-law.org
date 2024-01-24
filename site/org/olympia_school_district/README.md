@@ -8,6 +8,8 @@
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
 
+## [SB 5873](/bill/2023-24/sb/5873/) - Student transportation 👍1  
+
 ## [SB 5956](/bill/2023-24/sb/5956/) - Enrichment levies limit 👍1  
 * 👍 Kate Davis
 

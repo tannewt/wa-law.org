@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2219/</link>
 		<description>Updates about HB 2219</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 21 Jan 2024 04:43:07 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2024 09:28:58 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -53,6 +53,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Kiara/Daniels/2024-01-21 04:43:07</guid>
+		</item>
+		<item>
+			<title>👎💵Paul Jewell - Washington State Association of Counties</title>
+			<description>Paul Jewell signed up to testify Con. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_state_association_of_counties/&quot;&gt;Washington State Association of Counties&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 24 Jan 2024 08:25:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Paul/Jewell/2024-01-24 08:25:36</guid>
+		</item>
+		<item>
+			<title>👍Sarah Clark - Seattle Metro Chamber</title>
+			<description>Sarah Clark signed up to testify Pro. They are signed up to represent Seattle Metro Chamber.</description>
+			<pubDate>Wed, 24 Jan 2024 09:28:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sarah/Clark/2024-01-24 09:28:58</guid>
 		</item>
 	</channel>
 </rss>

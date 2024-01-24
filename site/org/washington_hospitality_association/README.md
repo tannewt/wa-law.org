@@ -75,6 +75,8 @@
 ## [HB 1815](/bill/2023-24/hb/1815/) - Payment card processing/tax 👍1  
 * 👍💵 Julia Gorton
 
+## [HB 1860](/bill/2023-24/hb/1860/) - Establishing stay-to-play requirements.   👎1 
+
 ## [HB 1885](/bill/2023-24/hb/1885/) - Strengthening campaign finance disclosure by prohibiting campaign contributions and expenditures by foreign-influenced corporations.  👎1 
 * 👎💵 Julia Gorton
 
@@ -228,6 +230,9 @@
 * 👎💵 Julia Gorton
 
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management  👎1 
+
+## [SB 6056](/bill/2023-24/sb/6056/) - Human trafficking/hotels   ❓1
+* ❓ Montana Miranda
 
 ## [SB 6122](/bill/2023-24/sb/6122/) - Alcohol delivery 👍1  
 * 👍💵 Julia Gorton

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5945/</link>
 		<description>Updates about SB 5945</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 23 Jan 2024 09:41:39 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2024 11:32:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -126,12 +126,60 @@
 			<guid isPermaLink="false">testifier/Jeff/Gombosky/2024-01-23 08:07:29</guid>
 		</item>
 		<item>
+			<title>👎Hannah Steinweg - Rivian</title>
+			<description>Hannah Steinweg signed up to testify Con. They are signed up to represent Rivian.</description>
+			<pubDate>Tue, 23 Jan 2024 08:50:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Hannah/Steinweg/2024-01-23 08:50:33</guid>
+		</item>
+		<item>
 			<title>👍Antonio Olivares - Lee Johnson Kia (Technician)</title>
 			<description>Antonio Olivares signed up to testify Pro. They are signed up to represent Lee Johnson Kia (Technician).</description>
 			<pubDate>Tue, 23 Jan 2024 09:41:39 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Antonio/Olivares/2024-01-23 09:41:39</guid>
+		</item>
+		<item>
+			<title>👍Andy Yale - Titus-Will</title>
+			<description>Andy Yale signed up to testify Pro. They are signed up to represent Titus-Will.</description>
+			<pubDate>Tue, 23 Jan 2024 09:54:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Andy/Yale/2024-01-23 09:54:30</guid>
+		</item>
+		<item>
+			<title>👍Jen Moran - Carter Motors</title>
+			<description>Jen Moran signed up to testify Pro. They are signed up to represent Carter Motors.</description>
+			<pubDate>Tue, 23 Jan 2024 09:54:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jen/Moran/2024-01-23 09:54:30</guid>
+		</item>
+		<item>
+			<title>👍Miles Richardson - University VW/Audi</title>
+			<description>Miles Richardson signed up to testify Pro. They are signed up to represent University VW/Audi.</description>
+			<pubDate>Tue, 23 Jan 2024 09:54:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Miles/Richardson/2024-01-23 09:54:30</guid>
+		</item>
+		<item>
+			<title>👍💵Scott Hazlegrove - WA State Auto Dealers Association</title>
+			<description>Scott Hazlegrove signed up to testify Pro. They are signed up to represent WA State Auto Dealers Association. They are a registered lobbyist.</description>
+			<pubDate>Tue, 23 Jan 2024 09:54:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Scott/Hazlegrove/2024-01-23 09:54:30</guid>
+		</item>
+		<item>
+			<title>👍EVAN REESE - WA State Auto Dealers Association</title>
+			<description>EVAN REESE signed up to testify Pro.</description>
+			<pubDate>Tue, 23 Jan 2024 11:32:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/EVAN/REESE/2024-01-23 11:32:02</guid>
 		</item>
 	</channel>
 </rss>

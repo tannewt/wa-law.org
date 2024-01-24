@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2113/</link>
 		<description>Updates about HB 2113</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 15 Jan 2024 11:36:50 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -186,6 +186,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/McKenzie/Darr/2024-01-15 11:36:50</guid>
+		</item>
+		<item>
+			<title>HOUS - Executive action taken by committee.</title>
+			<description>HOUS - Executive action taken by committee.</description>
+			<pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-23/HOUS - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

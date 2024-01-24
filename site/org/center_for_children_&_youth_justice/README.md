@@ -34,6 +34,8 @@
 
 ## [HB 1970](/bill/2023-24/hb/1970/) - DCYF-caregiver communication 👍1  
 
+## [HB 2001](/bill/2023-24/hb/2001/) - Sentence modification 👍1  
+
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
 ## [HB 2065](/bill/2023-24/hb/2065/) - Recalculating sentencing ranges for currently incarcerated individuals whose offender score was increased by juvenile convictions. 👍1  
@@ -50,6 +52,8 @@
 
 ## [HB 2251](/bill/2023-24/hb/2251/) - Unenforceable LFOs 👍1  
 
+## [HB 2342](/bill/2023-24/hb/2342/) - Dependent youth financial ed 👍1  
+
 ## [SB 5028](/bill/2023-24/sb/5028/) - Name changes 👍1  
 
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍1  
@@ -61,6 +65,8 @@
 ## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍1  
 
 ## [SB 5316](/bill/2023-24/sb/5316/) - DCYF background check fees 👍1  
+
+## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍1  
 
 ## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍1  
 

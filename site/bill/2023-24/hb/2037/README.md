@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 01/23 04:00 PM - Education (ED): HB 2037 Holocaust and genocide edu.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157548&caId=23564&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157548&caId=23564&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157548&caId=23564&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157548&caId=23564&tId=4)
-
-#### 1089 👍 - Pro
+#### 1307 👍 - Pro
 Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * Anfal Jneidi
@@ -31,9 +25,15 @@ Testifying:
 * Emmanuel Turaturanye
 * Liam Krol - The Forgotten Europe Project
 * Beryl Emberson-Nash
+* 💵Brad Payne - Family Policy Institute of Washington
+* Representative Tana Senn
 * Jeffrey Slotnick - Jewish Federation of Greater Seattle and SAFE Washington
+* Darrell Bredehoeft
+* Paul Karemara
+* Paul karemara
+* Paul Karemara
 
-#### 73 👎 - Con
+#### 180 👎 - Con
 Testifying:
 * Naveed Siddiqui
 * Ala Hassan
@@ -49,8 +49,10 @@ Testifying:
 * Muhammed Ibrahim
 * Hira Niaz
 * Julie Barrett - Conservative Ladies of Washington
+* Haneen Ali
+* Anne Anne Paxton - None
 
-#### 25 ❓ - Other
+#### 42 ❓ - Other
 Testifying:
 * Luay Joudeh
 * Luay Joudeh
@@ -63,3 +65,11 @@ Testifying:
 * Touch Pong
 * Amna Qazi
 * Sallie Shawl
+* Nisreen Ghussein
+* Cheap Lim
+* Oun Yeav - Khmer Community of Seattle King County
+* Stephanie Ung - Khmer Community of Seattle King County
+* Tessavan Ros - Khmer Community of Seattle King County
+* Touch Pong - Khmer Community of Seattle King County
+* Rebekah Erev
+* Michelle Ryder

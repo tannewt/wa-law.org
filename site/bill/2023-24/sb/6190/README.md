@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31728&aId=157724&caId=23613&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31728&aId=157724&caId=23613&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Maggie Hines - Ducks Unlimited, Inc.
+* 💵Tiffany Brace - [Nonprofit Association of Washington](/org/nonprofit_association_of_washington/)
+* Kirk Struble - [Ducks Unlimited](/org/ducks_unlimited/)
 
 #### 0 👎 - Con
 

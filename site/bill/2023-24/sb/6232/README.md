@@ -8,10 +8,11 @@
 
 ## Meetings
 ### Tue 01/23 01:30 PM - State Government & Elections (SGE): SB 6232 Public records portal pilot
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Joe Kunzler
+* 💵Rowland Thompson - Allied Daily Newspapers, WA Newspaper Publishers Assn,and WSABroadcasters
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

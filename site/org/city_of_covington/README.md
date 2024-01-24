@@ -13,5 +13,9 @@
 
 ## [HB 2211](/bill/2023-24/hb/2211/) - Criminal justice local tax 👍1  
 
+## [HB 2307](/bill/2023-24/hb/2307/) - Public records reviews 👍1  
+
 ## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍1  
 * 👍 Regan Bolli
+
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍1  

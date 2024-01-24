@@ -3,7 +3,7 @@
 ## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍4  
 * 👍💵 Jazmine Smith
 
-## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
+## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍2  
 
 ## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍8  
 * 👍 Adaora Ugwueze
@@ -37,7 +37,8 @@
 
 ## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍2  
 
-## [HB 2250](/bill/2023-24/hb/2250/) - Local elections 👍2  
+## [HB 2250](/bill/2023-24/hb/2250/) - Local elections 👍3  
+* 👍💵 Jazmine Smith
 * 👍💵 Jazmine Smith
 
 ## [HB 2309](/bill/2023-24/hb/2309/) - Washington 13 free guarantee 👍1  

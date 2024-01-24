@@ -12,7 +12,7 @@
 
 ## Meetings
 ### Tue 01/23 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2374 Washington promise program
-#### 208 👍 - Pro
+#### 221 👍 - Pro
 Testifying:
 * Lina Ulloa - Communities for Our Colleges
 * Maria Barrios - Communities for Our Colleges
@@ -29,12 +29,13 @@ Testifying:
 * Nancy Cruz - Communities for Our Colleges
 * Sean Behl - Associated Students of Bellevue College and the Communities for our Colleges Coalition
 
-#### 421 👎 - Con
+#### 443 👎 - Con
 Testifying:
 * Jeannette Mcchesney
 * Ashvin Sanghvi - microsoft
 * Teddy Anderson
 * James Ware
+* Joanne McLain
 
 #### 5 ❓ - Other
 Testifying:

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2073/</link>
 		<description>Updates about HB 2073</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 11 Jan 2024 04:52:01 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -148,6 +148,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/John/Worthington/2024-01-11 04:52:01</guid>
+		</item>
+		<item>
+			<title>ENVI - Executive action taken by committee.</title>
+			<description>ENVI - Executive action taken by committee.</description>
+			<pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-23/ENVI - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

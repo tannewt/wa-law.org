@@ -23,3 +23,7 @@
 ## [SB 5570](/bill/2023-24/sb/5570/) - Energy efficiency loans 👍1  
 
 ## [SB 6113](/bill/2023-24/sb/6113/) - Community solar 👍1  
+
+## [SB 6256](/bill/2023-24/sb/6256/) - Solar consumer protections 👍3  
+* 👍 Bill Will
+* 👍 Gavin Tenold

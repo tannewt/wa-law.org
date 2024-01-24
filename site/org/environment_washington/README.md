@@ -48,3 +48,8 @@
 ## [SB 5371](/bill/2023-24/sb/5371/) - Orca vessel protection 👍3  
 
 ## [SB 5562](/bill/2023-24/sb/5562/) - Clean energy 👍1  
+
+## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
+
+## [SB 6276](/bill/2023-24/sb/6276/) - Digital electronics/repair 👍1  
+* 👍 Pam Clough

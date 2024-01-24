@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/17 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2256 Children behavioral health

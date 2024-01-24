@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31763&aId=157616&caId=23605&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31763&aId=157616&caId=23605&tId=4)
 
-#### 46 👍 - Pro
+#### 61 👍 - Pro
 Testifying:
 * Hunter George - South Sound Housing Affordability Partnership
 * Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)

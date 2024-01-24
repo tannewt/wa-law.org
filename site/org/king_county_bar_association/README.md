@@ -15,6 +15,9 @@
 
 ## [HB 2237](/bill/2023-24/hb/2237/) - Parenting plan limitations 👍1  
 
+## [HB 2389](/bill/2023-24/hb/2389/) - Service of notice/tenants  👎1 
+* 👎💵 Edmund Witter
+
 ## [SB 5197](/bill/2023-24/sb/5197/) - Eviction processes 👍2  
 * 👍💵 Edmund Witter
 * 👍💵 Edmund Witter
@@ -28,3 +31,6 @@
 * 👍💵 Edmund Witter
 
 ## [SB 5899](/bill/2023-24/sb/5899/) - Adding to the list of provisions prohibited from rental agreements. 👍1  
+
+## [SB 6210](/bill/2023-24/sb/6210/) - Unlawful detainer actions  👎1 
+* 👎💵 Edmund Witter

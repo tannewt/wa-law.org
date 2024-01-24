@@ -15,7 +15,7 @@
 
 ## [HB 1593](/bill/2023-24/hb/1593/) - RN PTSD/industrial insurance 👍2  
 
-## [HB 1655](/bill/2023-24/hb/1655/) - Provider contract comp. 👍1  
+## [HB 1655](/bill/2023-24/hb/1655/) - Provider contract comp. 👍2  
 
 ## [HB 2416](/bill/2023-24/hb/2416/) - ARNP legal title 👍1  
 

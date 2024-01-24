@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31705&aId=157382&caId=23518&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31705&aId=157382&caId=23518&tId=4)
 
-#### 12 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Alison Bradywood - Washington State Board of Nursing
+* PhD, MN, ARNP, Louise Kaplan - ARNPs United of Washington State
 
 #### 0 👎 - Con
 

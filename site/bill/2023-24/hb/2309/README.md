@@ -12,7 +12,7 @@
 
 ## Meetings
 ### Tue 01/23 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2309 Washington 13 free guarantee
-#### 203 👍 - Pro
+#### 210 👍 - Pro
 Testifying:
 * Angelita Cervantes - Communities for Our Colleges
 * Benjamin Gonzalez - Communities for Our Colleges
@@ -28,8 +28,9 @@ Testifying:
 * Mollie Kuwahara - State Board for Community and Technical Colleges
 * Paul Francis - State board for Community and Technical Colleges
 * Rosie Rimando-Chareunsap - Seattle Community Colleges
+* Josie Saccio-Devine - Washington State Board for Community and Technical Colleges
 
-#### 466 👎 - Con
+#### 480 👎 - Con
 Testifying:
 * Jeannette Mcchesney
 * James Ware

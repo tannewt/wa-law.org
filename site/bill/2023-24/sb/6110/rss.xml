@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6110/</link>
 		<description>Updates about SB 6110</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 10 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2024 04:54:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,38 @@
 			<pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-10/First reading, referred to Human Services.</guid>
+		</item>
+		<item>
+			<title>👍💵Jaime Bodden - WSALPHO</title>
+			<description>Jaime Bodden signed up to testify Pro. They are signed up to represent WSALPHO. They are a registered lobbyist.</description>
+			<pubDate>Tue, 23 Jan 2024 04:48:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jaime/Bodden/2024-01-23 04:48:29</guid>
+		</item>
+		<item>
+			<title>👍Erica Whares - Kitsap Public Health District</title>
+			<description>Erica Whares signed up to testify Pro. They are signed up to represent Kitsap Public Health District.</description>
+			<pubDate>Tue, 23 Jan 2024 04:54:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Erica/Whares/2024-01-23 04:54:17</guid>
+		</item>
+		<item>
+			<title>👍LaRhonda Osborn - Tacoma-Pierce County Health Department</title>
+			<description>LaRhonda Osborn signed up to testify Pro. They are signed up to represent Tacoma-Pierce County Health Department.</description>
+			<pubDate>Tue, 23 Jan 2024 04:54:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/LaRhonda/Osborn/2024-01-23 04:54:17</guid>
+		</item>
+		<item>
+			<title>👍Lisa Ostler - Thurston County Health and Human Services</title>
+			<description>Lisa Ostler signed up to testify Pro. They are signed up to represent Thurston County Health and Human Services.</description>
+			<pubDate>Tue, 23 Jan 2024 04:54:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lisa/Ostler/2024-01-23 04:54:17</guid>
 		</item>
 	</channel>
 </rss>

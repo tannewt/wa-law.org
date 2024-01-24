@@ -10,5 +10,7 @@
 ## [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information  👎1 
 * 👎💵 Maxford Nelsen
 
+## [HB 2307](/bill/2023-24/hb/2307/) - Public records reviews  👎1 
+
 ## [SB 6060](/bill/2023-24/sb/6060/) - Electronic signatures/PERC  👎1 
 * 👎💵 Maxford Nelsen

@@ -8,17 +8,22 @@
 
 ## Meetings
 ### Wed 01/24 08:00 AM - Local Government (LG): HB 2354 Tax increment areas
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31774&aId=157356&caId=23514&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31774&aId=157356&caId=23514&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31774&aId=157356&caId=23514&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31774&aId=157356&caId=23514&tId=4)
-
-#### 52 👍 - Pro
+#### 72 👍 - Pro
 Testifying:
 * 💵Matthew Ellsworth - Association of Washington Public Hospital Districts (AWPHD)
+* robert homan - graham fire and rescue
+* ryan spiller - WA fire commissioners
+* Larry Bartel - Clark/Cowlitz Fire Rescue
+* Dylan Doty - Washington Fire Chiefs Association
+* John Flanagan - [Port of Seattle](/org/port_of_seattle/)
+* Sean Eagan - [Port of Tacoma](/org/port_of_tacoma/)
+* Jordana LaPorte - Board Chair, Lake Chelan Health (Chelan County Public Hospital #2)
+* Aaron Edwards - Lake Chelan Health, CEO
+* Brandon Asher - Chelan Fire & Rescue
+* John Nohr - Clark-Cowlitz Fire & Rescue
+* Steve Brooks - Fire Chief, Lacey Fire; President, Washington Fire Chiefs Associatio
 
-#### 25 👎 - Con
+#### 27 👎 - Con
 Testifying:
 * Scott Goodrich - Port of Vancouver USA
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)

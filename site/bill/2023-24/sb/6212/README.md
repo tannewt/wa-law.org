@@ -14,14 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31722&aId=157099&caId=23384&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31722&aId=157099&caId=23384&tId=4)
 
-#### 5 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * 💵Nicole Gomez
+* Angela Rozmyn - Natural and Built Environments
 
-#### 23 👎 - Con
+#### 93 👎 - Con
 Testifying:
 * barb Korducki
 * Bruce Becker
 * William Shadbolt - [Washington Business Properties Association](/org/washington_business_properties_association/)
+* Chris Dukelow - Chief of Stuff, CredHub Inc.
+* Sheri Druckman - Regional Vice President, Legacy Partners
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* JIM HENDERSON - National Association of Residential Property Managers and Benton Franklin County Rental Owners Assoc

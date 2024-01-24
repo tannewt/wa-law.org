@@ -8,12 +8,14 @@
 
 ## Meetings
 ### Tue 01/23 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1891 Parent substance use
-#### 18 👍 - Pro
+#### 20 👍 - Pro
 
-#### 18 👎 - Con
+#### 20 👎 - Con
 Testifying:
 * Flint Stebbins
 * 💵Allison Krutsinger - Dept of Children, Youth, and Families
+* Brett Ballew
+* Tonia McClanahan - Washington State Office of Public Defense
 
 #### 2 ❓ - Other
 Testifying:

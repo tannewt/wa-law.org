@@ -11,22 +11,19 @@
 
 ## Meetings
 ### Wed 01/24 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2016 Minors/contracts for housing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31753&aId=157241&caId=23506&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31753&aId=157241&caId=23506&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31753&aId=157241&caId=23506&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31753&aId=157241&caId=23506&tId=4)
-
-#### 68 👍 - Pro
+#### 90 👍 - Pro
 Testifying:
+* Kelsey Potter
 * Tina Cruz
+* Susanna Jones
 
-#### 435 👎 - Con
+#### 482 👎 - Con
 Testifying:
 * Julie Barrett - Parent
 * Mary Long - Conservative Ladies of Washington
+* eric pratt
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * 💵Karen Pillar - TeamChild
 * Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)

@@ -137,6 +137,9 @@
 
 ## [HB 2325](/bill/2023-24/hb/2325/) - Legislative employees 👍1  
 
+## [HB 2459](/bill/2023-24/hb/2459/) - Alt. measure disclosures 👍1  
+* 👍 Kathy Sakahara
+
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act 👍1  
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍4  

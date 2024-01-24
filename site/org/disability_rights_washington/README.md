@@ -74,6 +74,12 @@
 ## [HB 2191](/bill/2023-24/hb/2191/) - PTBA governing body members 👍1  
 * 👍💵 Anna Zivarts
 
+## [HB 2250](/bill/2023-24/hb/2250/) - Local elections 👍1  
+
+## [HB 2279](/bill/2023-24/hb/2279/) - Dev. disabilities waiver use 👍2  
+* 👍 Todd H Carlisle
+* 👍 Todd H Carlisle
+
 ## [HB 2287](/bill/2023-24/hb/2287/) - Corrections ombuds adv board 👍1  
 
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍4  

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5788/</link>
 		<description>Updates about SB 5788</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 17 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -51,6 +51,13 @@
 			<pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-17/Placed on second reading consent calendar.</guid>
+		</item>
+		<item>
+			<title>Placed on second reading.</title>
+			<description>Placed on second reading.</description>
+			<pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-23/Placed on second reading.</guid>
 		</item>
 	</channel>
 </rss>

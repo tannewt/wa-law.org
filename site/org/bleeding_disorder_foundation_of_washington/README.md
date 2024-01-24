@@ -105,3 +105,5 @@
 ## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍1  
 
 ## [SB 6144](/bill/2023-24/sb/6144/) - Prescribing psychologists 👍1  
+
+## [SB 6216](/bill/2023-24/sb/6216/) - Student mental health net. 👍1  

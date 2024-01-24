@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 2151 - Reassigning the accreditation of private cannabis testing laboratories from the department of ecology to the department of agriculture.</title>
+		<title>HB 2151 - Cannabis lab. accreditation</title>
 		<link>https://wa-law.org/bill/2023-24/hb/2151/</link>
 		<description>Updates about HB 2151</description>
 		<language>en-US</language>
@@ -75,6 +75,13 @@
 			<pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-22/RSG - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>RSG - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>RSG - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-22/RSG - Majority; 1st substitute bill be substituted, do pass.</guid>
 		</item>
 	</channel>
 </rss>

@@ -14,9 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31747&aId=157563&caId=23581&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31747&aId=157563&caId=23581&tId=4)
 
-#### 11 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Patrick McElligott - IAFF Local 31- Tacoma Fire
+* 💵Bud Sizemore - WSCFF
+* Jeff Faucett - Washington Fire Chiefs
+* Brian Considine - [Department of Natural Resources](/org/department_of_natural_resources/)
+* George Geissler - [Department of Natural Resources](/org/department_of_natural_resources/)
 
 #### 0 👎 - Con
 

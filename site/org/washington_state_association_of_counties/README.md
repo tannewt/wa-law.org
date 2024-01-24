@@ -202,6 +202,9 @@
 ## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management   ❓1
 * ❓💵 Travis Dutton
 
+## [HB 2063](/bill/2023-24/hb/2063/) - Providing an exemption from the real estate excise tax for transfers of property to qualifying low-income first-time homebuyers.  👎1 
+* 👎💵 Paul Jewell
+
 ## [HB 2065](/bill/2023-24/hb/2065/) - Recalculating sentencing ranges for currently incarcerated individuals whose offender score was increased by juvenile convictions.  👎1 
 * 👎💵 Juliana Roe
 
@@ -228,11 +231,17 @@
 ## [HB 2141](/bill/2023-24/hb/2141/) - Promoting affordable housing in unincorporated areas within urban growth areas of large counties. 👍1  
 * 👍💵 Paul Jewell
 
+## [HB 2158](/bill/2023-24/hb/2158/) - Urban growth area boundaries  👎1 
+* 👎💵 Paul Jewell
+
 ## [HB 2207](/bill/2023-24/hb/2207/) - Solid waste dumping   ❓1
 * ❓💵 Travis Dutton
 
 ## [HB 2211](/bill/2023-24/hb/2211/) - Criminal justice local tax   ❓1
 * ❓💵 Juliana Roe
+
+## [HB 2219](/bill/2023-24/hb/2219/) - Affordable housing/tax ex.  👎1 
+* 👎💵 Paul Jewell
 
 ## [HB 2250](/bill/2023-24/hb/2250/) - Local elections   ❓1
 * ❓💵 Mike Hoover
@@ -245,6 +254,9 @@
 
 ## [HB 2296](/bill/2023-24/hb/2296/) - Comprehensive plan revisions 👍1  
 
+## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management 👍1  
+* 👍💵 Travis Dutton
+
 ## [HB 2307](/bill/2023-24/hb/2307/) - Public records reviews 👍1  
 * 👍💵 Mike Hoover
 
@@ -252,6 +264,12 @@
 
 ## [HB 2353](/bill/2023-24/hb/2353/) - Residential targeted areas 👍1  
 * 👍💵 Paul Jewell
+
+## [HB 2391](/bill/2023-24/hb/2391/) - County ferries 👍1  
+* 👍💵 Paul Jewell
+
+## [HB 2393](/bill/2023-24/hb/2393/) - Unleaded aircraft fuel/tax  👎1 
+* 👎💵 Paul Jewell
 
 ## [SB 5027](/bill/2023-24/sb/5027/) - American dream homes 👍1  
 * 👍💵 Paul Jewell
@@ -441,13 +459,20 @@
 
 ## [SB 6079](/bill/2023-24/sb/6079/) - Juv. detention/health recs. 👍1  
 
-## [SB 6120](/bill/2023-24/sb/6120/) - Wildland urban interface 👍1  
+## [SB 6120](/bill/2023-24/sb/6120/) - Wildland urban interface 👍2  
 * 👍💵 Paul Jewell
+* 👍💵 Travis Dutton
 
 ## [SB 6140](/bill/2023-24/sb/6140/) - Intensive rural development 👍1  
 * 👍💵 Travis Dutton
 
+## [SB 6143](/bill/2023-24/sb/6143/) - Salmon habitat planning  👎1 
+* 👎💵 Paul Jewell
+
 ## [SB 6150](/bill/2023-24/sb/6150/) - Comprehensive plan revisions 👍1  
+
+## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management 👍1  
+* 👍💵 Travis Dutton
 
 ## [SB 6206](/bill/2023-24/sb/6206/) - Water system receivership 👍1  
 

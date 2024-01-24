@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Tue 01/23 01:30 PM - Health Care & Wellness (HCW): HB 2347 Adult family home info.
-#### 626 👍 - Pro
+#### 643 👍 - Pro
 Testifying:
 * David Forte - Office of the Insurance Commissioner
 * 💵Amina Abdalla - [Adult Family Home Council](/org/adult_family_home_council/)
@@ -16,9 +16,10 @@ Testifying:
 * Ezibon Njuguna - Brighten Adult Family Home
 * Tienyoung Hua - Sunshine Adult Family Home
 
-#### 47 👎 - Con
+#### 48 👎 - Con
 Testifying:
 * 💵Noah Seidel - Office of Developmental Disabilities Ombuds
 * 💵Amy Freeman - WA State Long Term Care Ombuds Program
+* 💵Patricia Hunter - WA State LTC Ombuds
 
 #### 3 ❓ - Other

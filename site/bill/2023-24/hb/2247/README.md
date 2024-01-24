@@ -8,16 +8,17 @@
 
 ## Meetings
 ### Tue 01/23 01:30 PM - Health Care & Wellness (HCW): HB 2247 Behavioral health providers
-#### 161 👍 - Pro
+#### 171 👍 - Pro
 Testifying:
 * Laurie Lippold - Partners for Our Children
 * 💵Melanie Smith - WA State Psychological Association
 * Jake Eakin - [Yakima Neighborhood Health Services](/org/yakima_neighborhood_health_services/)
 * Kate White Tudor - WA Association for Community Health
+* Angela Jovel - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
 
 #### 0 👎 - Con
 
-#### 6 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * 💵Bob Cooper
 * Joan Miller - WA Council for Behavioral Health
@@ -25,3 +26,4 @@ Testifying:
 * Shawna Fox - Washington State Department of Health
 * 💵Bob Cooper - National Association of Social Workers WA Chapter
 * Jeremy Arp - National Associaion of Social Workers WA Chapter
+* 💵Sara Stewart - Washington Mental Health Counselors Assocation

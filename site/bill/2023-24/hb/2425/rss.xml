@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2425/</link>
 		<description>Updates about HB 2425</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 23 Jan 2024 09:30:22 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2024 10:42:10 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -24,7 +24,7 @@
 			<guid isPermaLink="false">testifier/Frederick/Chavre/2024-01-22 03:23:47</guid>
 		</item>
 		<item>
-			<title>❓Mayacine Gueye - Washington Business Properties Association</title>
+			<title>❓Mayacine Gueye - Natural and Built Environments</title>
 			<description>Mayacine Gueye signed up to testify Other.</description>
 			<pubDate>Mon, 22 Jan 2024 04:46:12 GMT</pubDate>
 			<category>testifier</category>
@@ -48,7 +48,15 @@
 			<guid isPermaLink="false">testifier/William/Shadbolt/2024-01-22 12:54:26</guid>
 		</item>
 		<item>
-			<title>👍Sydney Pertl - Washington Business Properties Association</title>
+			<title>👍Angela Rozmyn - Natural and Built Environments</title>
+			<description>Angela Rozmyn signed up to testify Pro. They are signed up to represent Natural and Built Environments.</description>
+			<pubDate>Tue, 23 Jan 2024 04:09:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Angela/Rozmyn/2024-01-23 04:09:14</guid>
+		</item>
+		<item>
+			<title>👍Sydney Pertl - Natural and Built Environments</title>
 			<description>Sydney Pertl signed up to testify Pro.</description>
 			<pubDate>Tue, 23 Jan 2024 09:29:27 GMT</pubDate>
 			<category>testifier</category>
@@ -56,12 +64,44 @@
 			<guid isPermaLink="false">testifier/Sydney/Pertl/2024-01-23 09:29:27</guid>
 		</item>
 		<item>
-			<title>👍Jennifer Ballard - Washington Business Properties Association</title>
+			<title>👍Jennifer Ballard - Natural and Built Environments</title>
 			<description>Jennifer Ballard signed up to testify Pro.</description>
 			<pubDate>Tue, 23 Jan 2024 09:30:22 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jennifer/Ballard/2024-01-23 09:30:22</guid>
+		</item>
+		<item>
+			<title>👍Marella Mylet - Natural and Built Environments</title>
+			<description>Marella Mylet signed up to testify Pro.</description>
+			<pubDate>Tue, 23 Jan 2024 09:56:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Marella/Mylet/2024-01-23 09:56:54</guid>
+		</item>
+		<item>
+			<title>👍Angela Rozmyn - Natural and Built Environments</title>
+			<description>Angela Rozmyn signed up to testify Pro. They are signed up to represent Natural and Built Environments.</description>
+			<pubDate>Tue, 23 Jan 2024 10:42:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Angela/Rozmyn/2024-01-23 10:42:10</guid>
+		</item>
+		<item>
+			<title>👍Mia Kloppmann - Natural &amp; Built Environments</title>
+			<description>Mia Kloppmann signed up to testify Pro. They are signed up to represent Natural &amp; Built Environments.</description>
+			<pubDate>Tue, 23 Jan 2024 10:42:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mia/Kloppmann/2024-01-23 10:42:10</guid>
+		</item>
+		<item>
+			<title>👍Robert Pantley - Natural and Built Environments</title>
+			<description>Robert Pantley signed up to testify Pro. They are signed up to represent Natural and Built Environments.</description>
+			<pubDate>Tue, 23 Jan 2024 10:42:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Robert/Pantley/2024-01-23 10:42:10</guid>
 		</item>
 	</channel>
 </rss>

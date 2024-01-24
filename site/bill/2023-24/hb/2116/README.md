@@ -17,10 +17,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31705&aId=157058&caId=23516&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31705&aId=157058&caId=23516&tId=4)
 
-#### 9 👍 - Pro
+#### 120 👍 - Pro
 Testifying:
+* Cherie Hope-Jurado - Walmart
 * Tim Lynch - MultiCare Health System
+* Rebecca West
+* Anthony Paton - Walmart
+* Jenny Arnold - Washington State Pharmacy Association
+* Ryan Oftebro - Kelley-Ross Pharmacy
+* Veronica Vann
 
-#### 35 👎 - Con
+#### 53 👎 - Con
+Testifying:
+* 💵Amy Brackenbury - Washington State Medical Assocation (WSMA)
+* Dr. Katina Rue - WA State Medical Association (WSMA)
 
 #### 0 ❓ - Other

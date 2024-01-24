@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31751&aId=157211&caId=23391&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31751&aId=157211&caId=23391&tId=4)
 
-#### 375 👍 - Pro
+#### 503 👍 - Pro
 Testifying:
 * KEVIN JOHNSON - CAR PROS KIA RENTON
 * Tony Pho - Volkswagen of Kirkland
@@ -24,13 +24,19 @@ Testifying:
 * 💵Timothy Thompson - I-5 CARS
 * DAVE ANDERSON - I-5 CARS
 * Antonio Olivares - Lee Johnson Kia (Technician)
+* Andy Yale - Titus-Will
+* Jen Moran - Carter Motors
+* Miles Richardson - University VW/Audi
+* 💵Scott Hazlegrove - WA State Auto Dealers Association
+* EVAN REESE
 
-#### 11 👎 - Con
+#### 15 👎 - Con
 Testifying:
 * Curt Augustine - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)
 * 💵Jeffrey Perry - General Motors
 * Nicolina Hernandez - Toyota Motor North America
 * Thomas Lawson - Ford Motor Company
+* Hannah Steinweg - Rivian
 
 #### 1 ❓ - Other
 Testifying:

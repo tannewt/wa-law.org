@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31728&aId=157577&caId=23568&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31728&aId=157577&caId=23568&tId=4)
 
-#### 5 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * 💵Adam Day - [First Mode](/org/first_mode/)
 * 💵Emily Shay - Association of Washington Buisness
+* Michelle Detwiler - [Renewable Hydrogen Alliance](/org/renewable_hydrogen_alliance/)
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Steve Ewing - Dept. of Revenue

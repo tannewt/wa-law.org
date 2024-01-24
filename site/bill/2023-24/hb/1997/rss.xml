@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1997/</link>
 		<description>Updates about HB 1997</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 14 Jan 2024 12:24:09 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -36,6 +36,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Owen/Rowe/2024-01-14 12:24:09</guid>
+		</item>
+		<item>
+			<title>ICEV - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>ICEV - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-23/ICEV - Majority; 1st substitute bill be substituted, do pass.</guid>
 		</item>
 	</channel>
 </rss>

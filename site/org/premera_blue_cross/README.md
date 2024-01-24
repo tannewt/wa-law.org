@@ -22,4 +22,6 @@
 
 ## [SB 5821](/bill/2023-24/sb/5821/) - Audio-only telemedicine 👍1  
 
+## [SB 6218](/bill/2023-24/sb/6218/) - Dental only plans  👎1 
+
 ## [SB 6257](/bill/2023-24/sb/6257/) - Hospital charity/residency 👍1  

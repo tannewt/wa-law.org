@@ -11,7 +11,7 @@
 
 ## Meetings
 ### Tue 01/23 01:30 PM - Health Care & Wellness (HCW): HB 1859 Long-term care residents
-#### 141 👍 - Pro
+#### 198 👍 - Pro
 Testifying:
 * Rex Johnson - Washington Advocates for Patient Safety
 * 💵Noah Seidel - Office of Developmental Disabilities Ombuds
@@ -23,7 +23,7 @@ Testifying:
 * Susan Harter
 * 💵Brad Forbes - Alzheimer's Association
 
-#### 1636 👎 - Con
+#### 1774 👎 - Con
 Testifying:
 * Ribka Mengesha
 * Rosemary Maseva
@@ -51,7 +51,7 @@ Testifying:
 * Senkensh Gebeselase - BrookAFH
 * Dan Puravet - Bellevue Elderly Care LLC
 
-#### 18 ❓ - Other
+#### 27 ❓ - Other
 Testifying:
 * Miranda Calmjoy - WA State Board of Health
 

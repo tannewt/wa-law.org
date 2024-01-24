@@ -19,3 +19,5 @@
 
 ## [SB 5860](/bill/2023-24/sb/5860/) - Spring blade knives 👍1  
 * 👍💵 Marie Neumiller
+
+## [SB 6237](/bill/2023-24/sb/6237/) - Wildlife safe passages 👍1  

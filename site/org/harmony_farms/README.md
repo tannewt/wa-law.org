@@ -22,7 +22,7 @@
 ## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions 👍1  
 * 👍💵 Lukas Hunter
 
-## [HB 2151](/bill/2023-24/hb/2151/) - Reassigning the accreditation of private cannabis testing laboratories from the department of ecology to the department of agriculture. 👍1  
+## [HB 2151](/bill/2023-24/hb/2151/) - Cannabis lab. accreditation 👍1  
 * 👍💵 Lukas Hunter
 
 ## [HB 2182](/bill/2023-24/hb/2182/) - Regulated substance use data 👍1  

@@ -343,7 +343,7 @@
 ## [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍1  
 * 👍💵 Amy Anderson
 
-## [HB 2026](/bill/2023-24/hb/2026/) - Concerning rental income received by people eligible for certain property tax exemption programs. 👍1  
+## [HB 2026](/bill/2023-24/hb/2026/) - Rental income/property tax 👍1  
 * 👍 Morgan Irwin
 
 ## [HB 2035](/bill/2023-24/hb/2035/) - Concerning restrictions on the working conditions and hours of sixteen- and seventeen-year olds. 👍1  
@@ -374,7 +374,7 @@
 
 ## [HB 2103](/bill/2023-24/hb/2103/) - Large port districts  👎1 
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants  👎1 
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants  👎2 
 * 👎 Morgan Irwin
 
 ## [HB 2119](/bill/2023-24/hb/2119/) - Medical debt garnishment  👎1 
@@ -413,6 +413,9 @@
 ## [HB 2253](/bill/2023-24/hb/2253/) - Community solar  👎1 
 * 👎💵 Peter Godlewski
 
+## [HB 2262](/bill/2023-24/hb/2262/) - Tire rolling resistance  👎1 
+* 👎 Morgan Irwin
+
 ## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍1  
 * 👍 Morgan Irwin
 
@@ -433,6 +436,8 @@
 ## [HB 2360](/bill/2023-24/hb/2360/) - Digital workforce 👍2  
 * 👍💵 Emily Wittman
 * 👍💵 Emily Wittman
+
+## [HB 2373](/bill/2023-24/hb/2373/) - Adopt-a-highway program  👎1 
 
 ## [SB 5041](/bill/2023-24/sb/5041/) - Motor carrier safety 👍1  
 
@@ -660,6 +665,9 @@
 
 ## [SB 5819](/bill/2023-24/sb/5819/) - Financial education 👍1  
 
+## [SB 5826](/bill/2023-24/sb/5826/) - Utility bills/CCA charges 👍1  
+* 👍💵 Peter Godlewski
+
 ## [SB 5845](/bill/2023-24/sb/5845/) - Military housing taxation  👎1 ❓1
 * 👎 Morgan Irwin
 
@@ -698,6 +706,9 @@
 ## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage   ❓1
 * ❓💵 Peter Godlewski
 
+## [SB 6064](/bill/2023-24/sb/6064/) - Pet fees, deposits  👎1 
+* 👎 Morgan Irwin
+
 ## [SB 6092](/bill/2023-24/sb/6092/) - Greenhouse gas disclosures  👎1 
 * 👎💵 Peter Godlewski
 
@@ -715,6 +726,9 @@
 
 ## [SB 6136](/bill/2023-24/sb/6136/) - Rental property B&O tax  👎1 
 
+## [SB 6137](/bill/2023-24/sb/6137/) - Semiconductor tax incentives 👍1  
+* 👍💵 Emily Shay
+
 ## [SB 6143](/bill/2023-24/sb/6143/) - Salmon habitat planning  👎1 
 * 👎 Morgan Irwin
 
@@ -725,6 +739,8 @@
 
 ## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management  👎1 
 * 👎💵 Peter Godlewski
+
+## [SB 6212](/bill/2023-24/sb/6212/) - Rent payments/credit reports  👎1 
 
 ## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍1  
 

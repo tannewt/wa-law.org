@@ -68,3 +68,5 @@
 * 👎💵 Neil Strege
 
 ## [SB 5809](/bill/2023-24/sb/5809/) - Charter schools/enrichment 👍1  
+
+## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍1  

@@ -8,14 +8,14 @@
 
 ## Meetings
 ### Tue 01/23 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2447 Children and families
-#### 17 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Paula Reed - [Children's Advocacy Centers of Washington](/org/children's_advocacy_centers_of_washington/)
 * 💵Allison Krutsinger - Dept of Children, Youth, and Families
 * Jeanette Obelcz - WFSE Member
 * Chelsea Burroughs - WFSE Member
 
-#### 44 👎 - Con
+#### 54 👎 - Con
 Testifying:
 * Everett Maroon - Blue Mountain Heart to Heart
 * Jacob D'Annunzio - WA State OPD

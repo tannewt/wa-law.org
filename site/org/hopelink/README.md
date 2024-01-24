@@ -66,7 +66,7 @@
 ## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍1  
 * 👍 Juliana Yenne
 
-## [HB 2012](/bill/2023-24/hb/2012/) - Concerning eligibility for a property tax exemption for nonprofits providing affordable rental housing built with city and county funds. 👍1  
+## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍1  
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
@@ -77,6 +77,8 @@
 ## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍1  
 
 ## [HB 2191](/bill/2023-24/hb/2191/) - PTBA governing body members 👍1  
+
+## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍1  
 
 ## [HB 2234](/bill/2023-24/hb/2234/) - Low-income energy assistance 👍1  
 
@@ -142,8 +144,12 @@
 
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development 👍1  
 
+## [SB 6064](/bill/2023-24/sb/6064/) - Pet fees, deposits 👍1  
+
 ## [SB 6112](/bill/2023-24/sb/6112/) - Donated food items/B&O tax  👎1 
 
 ## [SB 6135](/bill/2023-24/sb/6135/) - TANF transitional assistance 👍1  
 
 ## [SB 6136](/bill/2023-24/sb/6136/) - Rental property B&O tax 👍1  
+
+## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍1  

@@ -14,13 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31708&aId=157048&caId=23521&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31708&aId=157048&caId=23521&tId=4)
 
-#### 11 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Dan Wise - Catholic Community Services
 * Flo Beaumon - [Catholic Community Services of Western Washington](/org/catholic_community_services_of_western_washington/)
+* 💵James Lovell - [Chief Seattle Club](/org/chief_seattle_club/)
+* A Calkins - [Association of Washington Housing Authorities](/org/association_of_washington_housing_authorities/)
 * Fawn Schott - Volunteers of America Eastern WA & Northern ID
 * Andrew Davis - Office of the Insurance Commissioner
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Jean Leonard - WA Insurers
+* Kris Tefft - American Property Casualty Insurance Association (APCIA)

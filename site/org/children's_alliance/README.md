@@ -89,3 +89,6 @@
 ## [SB 5559](/bill/2023-24/sb/5559/) - Student restraint, isolation 👍1  
 
 ## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍2  
+
+## [SB 6216](/bill/2023-24/sb/6216/) - Student mental health net. 👍1  
+* 👍 Stephan Blanford

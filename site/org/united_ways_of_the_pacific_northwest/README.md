@@ -8,6 +8,8 @@
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
 
+## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍1  
+
 ## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
 * 👍💵 Nick Federici
 

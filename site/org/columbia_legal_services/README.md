@@ -155,6 +155,8 @@
 
 ## [HB 2302](/bill/2023-24/hb/2302/) - Pesticide application comm. 👍1  
 
+## [HB 2307](/bill/2023-24/hb/2307/) - Public records reviews  👎1 
+
 ## [HB 2323](/bill/2023-24/hb/2323/) - Rent payments/credit reports 👍1  
 
 ## [SB 5028](/bill/2023-24/sb/5028/) - Name changes 👍2  

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6114/</link>
 		<description>Updates about SB 6114</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 23 Jan 2024 09:15:23 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2024 10:23:21 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -22,6 +22,22 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Morgan/Irwin/2024-01-23 09:15:23</guid>
+		</item>
+		<item>
+			<title>❓Chris Herman - WPPA</title>
+			<description>Chris Herman signed up to testify Other. They are signed up to represent WPPA.</description>
+			<pubDate>Tue, 23 Jan 2024 10:23:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Chris/Herman/2024-01-23 10:23:21</guid>
+		</item>
+		<item>
+			<title>❓John Flanagan - Port of Seattle</title>
+			<description>John Flanagan signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/port_of_seattle/&quot;&gt;Port of Seattle&lt;/a&gt;.</description>
+			<pubDate>Tue, 23 Jan 2024 10:23:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/John/Flanagan/2024-01-23 10:23:21</guid>
 		</item>
 	</channel>
 </rss>

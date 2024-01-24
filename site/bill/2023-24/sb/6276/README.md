@@ -8,20 +8,32 @@
 
 ## Meetings
 ### Wed 01/24 08:00 AM - Environment, Energy & Technology (ENET): SB 6276 Digital electronics/repair
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31725&aId=157692&caId=23593&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31725&aId=157692&caId=23593&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31725&aId=157692&caId=23593&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31725&aId=157692&caId=23593&tId=4)
-
-#### 84 👍 - Pro
+#### 161 👍 - Pro
 Testifying:
 * 💵Dan Wood - WA State Dairy Federation
+* Steven Rhine
+* Emily Do
+* Aspen Kvicala - Methow Recycles
+* Laura Cohen
+* Mitch Kramer - FixCo
+* Pam Clough - [Environment Washington](/org/environment_washington/)
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Maggie Yuse - Seattle Public Utilities
+* Marsha Cutting - Governor's Committee on Disabilities and Employment; the Washington Paralysis Network
+* 💵Patrick Connor - National Federation of Independent Business (NFIB)
+* Nathan Proctor - PIRG
+* Stacey Higginbotham - [Consumer Reports](/org/consumer_reports/)
 
-#### 3 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * Charlie Brown - Consumer Technology Association
 * Eric Wareham - North American Equipment Dealers Association
+* Jeff Gombosky - CTIA - The Wireless Association
 * Dustin Brighton - Repair Done Right Coalition
+* 💵Ashley Sutton - TechNet
+* Nora Palattao Burnes - TechNet
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Darbi Gottlieb - AdvaMed
+* 💵Michael Transue - Oregon Bioscience Association

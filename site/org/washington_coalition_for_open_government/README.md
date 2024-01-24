@@ -14,3 +14,5 @@
 
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
 * ❓ Mike Fancher
+
+## [SB 6232](/bill/2023-24/sb/6232/) - Public records portal pilot   ❓1

@@ -16,6 +16,10 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Lynell Poole - Adopt-A-Highway Litter Removal Service of America
+* PATRICIA NELSON - President
+* PATRICIA NELSON - Adopt A Highway Maintenance Corp
 
 #### 0 ❓ - Other

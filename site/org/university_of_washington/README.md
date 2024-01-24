@@ -206,3 +206,6 @@
 
 ## [SB 6220](/bill/2023-24/sb/6220/) - High THC cannabis products 👍1  
 * 👍 Beatriz Carlini
+
+## [SB 6221](/bill/2023-24/sb/6221/) - UW primate research center   ❓1
+* ❓💵 Morgan Hickel

@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Tue 01/23 04:00 PM - Ways & Means (WM): SSB 5660 Mental health adv directives
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157503&caId=23372&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157503&caId=23372&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157503&caId=23372&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157503&caId=23372&tId=4)
-
-#### 23 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Todd Crooks - Chad's Legacy Project
 * Gail Kogle

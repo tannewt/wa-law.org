@@ -18,6 +18,8 @@
 ## [HB 1567](/bill/2023-24/hb/1567/) - Conserv. district elections   ❓1
 * ❓ Tom Salzer
 
+## [HB 1574](/bill/2023-24/hb/1574/) - Methane/agriculture 👍1  
+
 ## [HB 1720](/bill/2023-24/hb/1720/) - Riparian grant program 👍1  
 * 👍 Tom Salzer
 

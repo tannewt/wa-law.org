@@ -17,12 +17,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31711&aId=157068&caId=23532&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31711&aId=157068&caId=23532&tId=4)
 
-#### 18 👍 - Pro
+#### 69 👍 - Pro
 Testifying:
 * Craig Henderson
 * Steven Nadel - ACEEE
 * Annie Phillips - None
+* George Chapman - Energy Solutions
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Kate White Tudor - Natural Resources Defense Council
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* Steven Hershkowitz - Washington State Department of Commerce
 
-#### 3 👎 - Con
+#### 11 👎 - Con
+Testifying:
+* 💵Jennifer Ziegler - Les Schwab
+* 💵Bill Stauffacher - United States Tire Manufacturers Association
+* Tracey Norberg - United States Tire Manufacturers Association
+* Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 0 ❓ - Other

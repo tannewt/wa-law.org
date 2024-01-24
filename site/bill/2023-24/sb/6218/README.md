@@ -14,14 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31744&aId=157192&caId=23400&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31744&aId=157192&caId=23400&tId=4)
 
-#### 320 👍 - Pro
+#### 358 👍 - Pro
 Testifying:
 * Ryan Lemke - Wallingford Family Dentistry
 * Liselotte Black - Henager Black Salesky Dentistry
 * John Gibbons - Immediate Past President, Washington State Dental Association
 
-#### 33 👎 - Con
+#### 120 👎 - Con
+Testifying:
+* Owen Urech - National Association of Dental Plans
+* 💵Melissa Johnson - Willamette Dental Group
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner

@@ -96,7 +96,8 @@
 
 ## [HB 2283](/bill/2023-24/hb/2283/) - Shared leave/disasters 👍1  
 
-## [HB 2311](/bill/2023-24/hb/2311/) - First responder wellness 👍1  
+## [HB 2311](/bill/2023-24/hb/2311/) - First responder wellness 👍1  ❓1
+* ❓ Kati Durkin
 
 ## [HB 2323](/bill/2023-24/hb/2323/) - Rent payments/credit reports 👍1  
 * 👍💵 Nicole Gomez
@@ -104,12 +105,16 @@
 ## [HB 2325](/bill/2023-24/hb/2325/) - Legislative employees 👍1  ❓2
 * ❓ Kati Durkin
 
+## [HB 2342](/bill/2023-24/hb/2342/) - Dependent youth financial ed 👍1  
+
 ## [HB 2382](/bill/2023-24/hb/2382/) - TNC driver death benefits 👍1  
 
 ## [HB 2407](/bill/2023-24/hb/2407/) - Child welfare workers 👍1  
 * 👍 Kati Durkin
 
 ## [HB 2447](/bill/2023-24/hb/2447/) - Children and families 👍1  
+
+## [HB 2459](/bill/2023-24/hb/2459/) - Alt. measure disclosures 👍1  
 
 ## [SB 5010](/bill/2023-24/sb/5010/) - Synthetic opioids/endanger. 👍1  
 

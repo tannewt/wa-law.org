@@ -32,7 +32,7 @@
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
 * ❓💵 John Ficker
 
-## [HB 2339](/bill/2023-24/hb/2339/) - Cert. renewal/nursing assist 👍2  
+## [HB 2339](/bill/2023-24/hb/2339/) - Cert. renewal/nursing assist 👍3  
 * 👍 Amina Abdall
 * 👍💵 Amina Abdalla
 

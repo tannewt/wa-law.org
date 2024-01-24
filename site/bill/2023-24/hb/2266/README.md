@@ -14,9 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31731&aId=157136&caId=23560&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31731&aId=157136&caId=23560&tId=4)
 
-#### 232 👍 - Pro
+#### 293 👍 - Pro
 
-#### 106 👎 - Con
+#### 118 👎 - Con
 Testifying:
 * Mitch Neeley
 * America George - Safety Site Solutions
@@ -25,4 +25,4 @@ Testifying:
 * Ryan Wallin
 * SHELLY MUENSCHER
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other

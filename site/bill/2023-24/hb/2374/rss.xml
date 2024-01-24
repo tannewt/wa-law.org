@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2374/</link>
 		<description>Updates about HB 2374</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 23 Jan 2024 09:13:14 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2024 09:49:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -188,6 +188,14 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Christina &quot;Luna&quot;/Nguyen/2024-01-23 09:13:14</guid>
+		</item>
+		<item>
+			<title>👎Joanne McLain - microsoft</title>
+			<description>Joanne McLain signed up to testify Con.</description>
+			<pubDate>Tue, 23 Jan 2024 09:49:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Joanne/McLain/2024-01-23 09:49:02</guid>
 		</item>
 	</channel>
 </rss>

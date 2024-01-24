@@ -169,7 +169,7 @@
 
 ## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍1  
 
-## [HB 2012](/bill/2023-24/hb/2012/) - Concerning eligibility for a property tax exemption for nonprofits providing affordable rental housing built with city and county funds. 👍1  
+## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍1  
 * 👍 Kelli Larsen
 
 ## [HB 2019](/bill/2023-24/hb/2019/) - Establishing a Native American apprentice assistance program. 👍1  
@@ -226,9 +226,15 @@
 
 ## [HB 2319](/bill/2023-24/hb/2319/) - Substance use treatment 👍1  
 
+## [HB 2329](/bill/2023-24/hb/2329/) - Insurance market/housing 👍1  
+
 ## [HB 2346](/bill/2023-24/hb/2346/) - Health disparities council 👍1  
 
+## [HB 2348](/bill/2023-24/hb/2348/) - County hospital funding 👍1  
+
 ## [HB 2360](/bill/2023-24/hb/2360/) - Digital workforce 👍1  
+
+## [HB 2368](/bill/2023-24/hb/2368/) - Refugee & immigrant assist. 👍1  
 
 ## [HB 2374](/bill/2023-24/hb/2374/) - Washington promise program 👍1  
 
@@ -388,6 +394,10 @@
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  
 
 ## [SB 6135](/bill/2023-24/sb/6135/) - TANF transitional assistance 👍1  
+
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍1  
+
+## [SB 6212](/bill/2023-24/sb/6212/) - Rent payments/credit reports 👍1  
 
 ## [SB 6228](/bill/2023-24/sb/6228/) - Substance use treatment 👍1  
 

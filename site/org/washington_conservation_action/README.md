@@ -67,6 +67,8 @@
 ## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage 👍1  
 * 👍💵 Darcy Nonemacher
 
+## [HB 2250](/bill/2023-24/hb/2250/) - Local elections 👍1  
+
 ## [HB 2253](/bill/2023-24/hb/2253/) - Community solar 👍1  
 
 ## [HB 2290](/bill/2023-24/hb/2290/) - Untreated sewage discharges   ❓1

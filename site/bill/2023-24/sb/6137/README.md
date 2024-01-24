@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31728&aId=157126&caId=23397&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31728&aId=157126&caId=23397&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * 💵Emily Shay - Association of Washington Buisness
 * 💵Jennifer Baker - Columbia River Economic Development Council
 * 💵Jennifer Baker - Columbia River Economic Development Council
+* 💵Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 1 👎 - Con
 

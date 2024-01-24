@@ -11,9 +11,9 @@
 
 ## Meetings
 ### Tue 01/23 01:30 PM - Consumer Protection & Business (CPB): HB 2437 Retirement savings
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 
-#### 20 👎 - Con
+#### 21 👎 - Con
 Testifying:
 * Chris Bandoli - National Association of Insurance and Financial Advisors Washington
 

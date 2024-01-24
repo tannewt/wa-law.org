@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2323/</link>
 		<description>Updates about HB 2323</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 12:52:47 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2024 10:12:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -24,7 +24,7 @@
 			<guid isPermaLink="false">testifier/Nicole/Gomez/2024-01-19 03:01:44</guid>
 		</item>
 		<item>
-			<title>👎Constance Nelson - Washington Federation of State Employees</title>
+			<title>👎Constance Nelson - Natural and Built Environments</title>
 			<description>Constance Nelson signed up to testify Con.</description>
 			<pubDate>Fri, 19 Jan 2024 09:37:58 GMT</pubDate>
 			<category>testifier</category>
@@ -78,6 +78,54 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/William/Shadbolt/2024-01-22 12:52:47</guid>
+		</item>
+		<item>
+			<title>👎Debby Herbert - Aquarius Utilities</title>
+			<description>Debby Herbert signed up to testify Con. They are signed up to represent Aquarius Utilities.</description>
+			<pubDate>Tue, 23 Jan 2024 01:27:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Debby/Herbert/2024-01-23 01:27:58</guid>
+		</item>
+		<item>
+			<title>👍Angela Rozmyn - Natural and Built Environments</title>
+			<description>Angela Rozmyn signed up to testify Pro. They are signed up to represent Natural and Built Environments.</description>
+			<pubDate>Tue, 23 Jan 2024 04:11:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Angela/Rozmyn/2024-01-23 04:11:09</guid>
+		</item>
+		<item>
+			<title>👎Chris Dukelow - Chief of Stuff, CredHub Inc.</title>
+			<description>Chris Dukelow signed up to testify Con. They are signed up to represent Chief of Stuff, CredHub Inc..</description>
+			<pubDate>Tue, 23 Jan 2024 07:11:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Chris/Dukelow/2024-01-23 07:11:54</guid>
+		</item>
+		<item>
+			<title>👎Sheri Druckman - Regional Vice President, Legacy Partners</title>
+			<description>Sheri Druckman signed up to testify Con. They are signed up to represent Regional Vice President, Legacy Partners.</description>
+			<pubDate>Tue, 23 Jan 2024 07:11:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sheri/Druckman/2024-01-23 07:11:54</guid>
+		</item>
+		<item>
+			<title>❓JIM HENDERSON - National Association of Residential Property Managers and Benton Franklin County Rental Owners Assoc</title>
+			<description>JIM HENDERSON signed up to testify Other. They are signed up to represent National Association of Residential Property Managers and Benton Franklin County Rental Owners Assoc.</description>
+			<pubDate>Tue, 23 Jan 2024 09:24:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/JIM/HENDERSON/2024-01-23 09:24:28</guid>
+		</item>
+		<item>
+			<title>👎Monica Grant - Regional Vice President, Legacy Partners</title>
+			<description>Monica Grant signed up to testify Con.</description>
+			<pubDate>Tue, 23 Jan 2024 10:12:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Monica/Grant/2024-01-23 10:12:26</guid>
 		</item>
 	</channel>
 </rss>

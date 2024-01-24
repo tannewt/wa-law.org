@@ -163,7 +163,7 @@
 ## [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element 👍1  
 * 👍💵 Bill Stauffacher
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants  👎1 
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants  👎2 
 
 ## [HB 2126](/bill/2023-24/hb/2126/) - Rural area ADUs 👍1  
 * 👍💵 Bill Stauffacher
@@ -307,6 +307,8 @@
 ## [SB 6061](/bill/2023-24/sb/6061/) - Housing development/SEPA  👎1 
 * 👎💵 Jan Himebaugh
 
+## [SB 6064](/bill/2023-24/sb/6064/) - Pet fees, deposits  👎1 
+
 ## [SB 6081](/bill/2023-24/sb/6081/) - Consumer contracts  👎1 
 * 👎💵 Brent Ludeman
 
@@ -319,3 +321,5 @@
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes  👎1 
 * 👎💵 Brent Ludeman
+
+## [SB 6212](/bill/2023-24/sb/6212/) - Rent payments/credit reports  👎1 

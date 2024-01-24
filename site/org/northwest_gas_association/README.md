@@ -14,3 +14,9 @@
 * ❓ Natasha Jackson
 
 ## [HB 2173](/bill/2023-24/hb/2173/) - Natural gas utilities/OPMA 👍1  
+
+## [SB 5826](/bill/2023-24/sb/5826/) - Utility bills/CCA charges 👍1  
+* 👍 Natasha Jackson
+
+## [SB 6138](/bill/2023-24/sb/6138/) - Thermal energy networks 👍1  
+* 👍 Natasha Jackson

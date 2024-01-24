@@ -20,9 +20,12 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* LINDA THOMPSON - Washington Association for Substance misuse and Violence Prevention (WASAVP)
+* 💵Scott Hazlegrove - National Association of Theatre Owners
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Mon 01/08 01:30 PM - Regulated Substances & Gaming (RSG): HB 2043 Theater licenses/alcohol
 #### 1 👍 - Pro

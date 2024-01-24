@@ -17,12 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31757&aId=157264&caId=23537&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31757&aId=157264&caId=23537&tId=4)
 
-#### 230 👍 - Pro
+#### 277 👍 - Pro
 Testifying:
 * Takiyah Ward
 
-#### 704 👎 - Con
+#### 780 👎 - Con
 Testifying:
 * Kim Slinger
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Angelee Brown - 1288 1st Ave S

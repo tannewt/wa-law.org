@@ -8,16 +8,14 @@
 
 ## Meetings
 ### Wed 01/24 08:00 AM - Environment, Energy & Technology (ENET): SB 5992 Water supply/energy sites
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31725&aId=157106&caId=23375&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31725&aId=157106&caId=23375&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31725&aId=157106&caId=23375&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31725&aId=157106&caId=23375&tId=4)
-
-#### 8 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Commissioner Amanda McKinney - Yakima County Board of Commissioners
+* Cory Wright - Kittitas County
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Kate Brouns - [Renewable Northwest](/org/renewable_northwest/)
+* 💵Vicki Christophersen - Northwest and Intermountain Power Producers Coalition
 
 #### 0 ❓ - Other

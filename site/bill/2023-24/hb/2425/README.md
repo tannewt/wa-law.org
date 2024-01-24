@@ -14,15 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31778&aId=157735&caId=23620&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31778&aId=157735&caId=23620&tId=4)
 
-#### 34 👍 - Pro
+#### 97 👍 - Pro
 Testifying:
 * Frederick Chavre - NA
 * 💵Chester Baldwin - Rental Housing Assn Coalition
 * William Shadbolt - [Washington Business Properties Association](/org/washington_business_properties_association/)
+* Angela Rozmyn - Natural and Built Environments
 * Sydney Pertl
 * Jennifer Ballard
+* Marella Mylet
+* Angela Rozmyn - Natural and Built Environments
+* Mia Kloppmann - Natural & Built Environments
+* Robert Pantley - Natural and Built Environments
 
-#### 1 👎 - Con
+#### 5 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

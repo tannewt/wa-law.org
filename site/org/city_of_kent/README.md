@@ -13,6 +13,8 @@
 
 ## [HB 1651](/bill/2023-24/hb/1651/) - Infraction debt  👎1 
 
+## [HB 2055](/bill/2023-24/hb/2055/) - Creating a gambling treatment diversion court pilot program to be conducted by the administrative office of the courts. 👍1  
+
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat   ❓1
 * ❓ Paula Painter
 

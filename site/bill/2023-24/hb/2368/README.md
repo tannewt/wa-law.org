@@ -14,12 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31733&aId=157152&caId=23527&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31733&aId=157152&caId=23527&tId=4)
 
-#### 56 👍 - Pro
+#### 73 👍 - Pro
 Testifying:
 * Sandra Rodarte - Latino Civic Alliance
 * Michael Padilla Ocampo - [King County](/org/king_county/)
 * Alexandra Olins - ACRS
+* Thomas McLeod - [City of Tukwila](/org/city_of_tukwila/)
+* 💵Alex Hur - OneAmerica
 
-#### 8 👎 - Con
+#### 12 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Babs Roberts - DSHS - Economic Services Administration
+* Sarah Peterson - DSHS - ESA - Office of Refugee and Immigrant Assistance

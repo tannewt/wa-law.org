@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/23 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 2311 First responder wellness
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31769&aId=157319&caId=23502&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31769&aId=157319&caId=23502&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31769&aId=157319&caId=23502&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31769&aId=157319&caId=23502&tId=4)
-
-#### 46 👍 - Pro
+#### 51 👍 - Pro
 Testifying:
 * Jason Fritz - Washington Chapter of APCO and NENA
 * Casey Novak - Battalion Chief for Tacoma Fire Department
@@ -22,7 +16,11 @@ Testifying:
 * B.J. Myers - King County Sheriff's Office
 * Steve Johnson - Code 4 NW
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Mac Pevey - Washington State Department of Corrections
+* Charlie Scoma - Seattle Police Wellness Unit
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)

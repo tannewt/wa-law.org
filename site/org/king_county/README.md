@@ -327,7 +327,7 @@
 
 ## [HB 1956](/bill/2023-24/hb/1956/) - Addressing fentanyl and other substance use prevention education. 👍1  
 
-## [HB 2012](/bill/2023-24/hb/2012/) - Concerning eligibility for a property tax exemption for nonprofits providing affordable rental housing built with city and county funds. 👍1  
+## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍1  
 
 ## [HB 2021](/bill/2023-24/hb/2021/) - Firearm disposition 👍1  
 
@@ -364,7 +364,7 @@
 
 ## [HB 2145](/bill/2023-24/hb/2145/) - Concerning medically necessary treatment of a mental health or substance use disorder. 👍1  
 
-## [HB 2151](/bill/2023-24/hb/2151/) - Reassigning the accreditation of private cannabis testing laboratories from the department of ecology to the department of agriculture. 👍1  
+## [HB 2151](/bill/2023-24/hb/2151/) - Cannabis lab. accreditation 👍1  
 
 ## [HB 2158](/bill/2023-24/hb/2158/) - Urban growth area boundaries  👎1 
 
@@ -398,6 +398,8 @@
 ## [HB 2297](/bill/2023-24/hb/2297/) - Solar energy systems/schools 👍1  
 
 ## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management 👍1  
+
+## [HB 2329](/bill/2023-24/hb/2329/) - Insurance market/housing 👍1  
 
 ## [HB 2347](/bill/2023-24/hb/2347/) - Adult family home info. 👍1  
 
@@ -700,7 +702,7 @@
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
 * ❓💵 Michael White
 
-## [SB 5983](/bill/2023-24/sb/5983/) - Allowing medical assistants with telehealth supervision to provide intramuscular injections for syphilis treatment. 👍1  
+## [SB 5983](/bill/2023-24/sb/5983/) - Syphilis treat. supervision 👍1  
 
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
 * 👍 Pat McLaughlin
@@ -718,6 +720,9 @@
 ## [SB 6220](/bill/2023-24/sb/6220/) - High THC cannabis products 👍1  
 
 ## [SB 6242](/bill/2023-24/sb/6242/) - Law enforcement training 👍1  
+
+## [SB 6245](/bill/2023-24/sb/6245/) - Refugee & immigrant assist. 👍1  
+* 👍 Michael Padilla Ocampo
 
 ## [SB 6269](/bill/2023-24/sb/6269/) - Alt. voter verification 👍1  
 

@@ -13,6 +13,8 @@
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 * 👍 Elizabeth Chamberlain
 
+## [HB 2307](/bill/2023-24/hb/2307/) - Public records reviews 👍1  
+
 ## [HB 2354](/bill/2023-24/hb/2354/) - Tax increment areas  👎2 
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 

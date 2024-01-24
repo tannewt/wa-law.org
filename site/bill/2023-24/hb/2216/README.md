@@ -17,9 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31747&aId=157225&caId=23528&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31747&aId=157225&caId=23528&tId=4)
 
-#### 5 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Arthur West
+* K.D. Chapman-See - Office of Financial Management
 
 #### 1 👎 - Con
 

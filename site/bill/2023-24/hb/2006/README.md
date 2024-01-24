@@ -17,11 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31717&aId=157554&caId=23579&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31717&aId=157554&caId=23579&tId=4)
 
-#### 6 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * (Judge) Michael Diaz - Interpreter and Language Access Commission
 * Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * James Wells - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Keysi Severino-Gomez
 * Em Stone - WA State Coalition Against Domestic Violence
 
 #### 1 👎 - Con

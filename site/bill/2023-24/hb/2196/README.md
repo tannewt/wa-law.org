@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157325&caId=23544&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157325&caId=23544&tId=4)
 
-#### 20 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * Beth Ebel - WCAAP
 * Dennis Maughan - MADD Washington
@@ -31,10 +31,15 @@ Testifying:
 * Shelly Baldwin - Washington Traffic Safety Commission
 * Tao Kwan-Gett
 * Beth Ebel - WCAAP
+* LINDA THOMPSON - Washington Association for Substance misuse and Violence Prevention (WASAVP)
 * Anthony Gomez
 * Amy Freedheim - King County Prosecuting Attorney's Office
+* Ashley Bonus
+* Sam Arbabi
+* Alaina Dahlquist - [National Safety Council](/org/national_safety_council/)
+* Lori Markowitz - The Josh Fund
 
-#### 49 👎 - Con
+#### 324 👎 - Con
 Testifying:
 * Jason Lantz - Washington Association of Criminal Defense Lawyers and Washington Defender Association
 

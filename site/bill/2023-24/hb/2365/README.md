@@ -14,13 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31733&aId=157151&caId=23526&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31733&aId=157151&caId=23526&tId=4)
 
-#### 129 👍 - Pro
+#### 144 👍 - Pro
 Testifying:
 * Liliana Villanueva
 * Kim Mcleod
 * Cathy Murahashi - The Arc of Washington
 * Zachary St. John - Parkview Services
+* Jodi Richey - Bridge of Promise
+* Jamie Kautz - MultiCare Health System
+* Kelley Nesbitt
+* Therese Vafaeezadeh - Tavon Learning Center
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

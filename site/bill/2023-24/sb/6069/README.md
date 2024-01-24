@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 01/23 04:00 PM - Ways & Means (WM): SB 6069 Retirement savings
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157498&caId=23367&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157498&caId=23367&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157498&caId=23367&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157498&caId=23367&tId=4)
-
-#### 50 👍 - Pro
+#### 55 👍 - Pro
 Testifying:
 * 💵John Scott - [The Pew Charitable Trusts](/org/the_pew_charitable_trusts/)
 * Jill Nelson
@@ -28,7 +22,7 @@ Testifying:
 * Petros Koumantaros - Spectrum Pension Consultants
 * Cathy MacCaul - AARP Washington State
 
-#### 110 👎 - Con
+#### 135 👎 - Con
 Testifying:
 * Chris Bandoli - National Association of Insurance and Financial Advisors Washington
 

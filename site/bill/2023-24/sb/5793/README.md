@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 01/15 10:30 AM - Labor & Commerce (LC): SB 5793 Paid sick leave

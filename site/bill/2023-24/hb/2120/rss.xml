@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2120/</link>
 		<description>Updates about HB 2120</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 12:05:47 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2024 07:53:59 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -51,6 +51,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Emily/Shay/2024-01-22 12:05:47</guid>
+		</item>
+		<item>
+			<title>👍KARL DYE - TRIDEC</title>
+			<description>KARL DYE signed up to testify Pro. They are signed up to represent TRIDEC.</description>
+			<pubDate>Tue, 23 Jan 2024 01:18:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/KARL/DYE/2024-01-23 01:18:49</guid>
+		</item>
+		<item>
+			<title>👍Commissioner Jerome Delvin - Benton County</title>
+			<description>Commissioner Jerome Delvin signed up to testify Pro. They are signed up to represent Benton County.</description>
+			<pubDate>Tue, 23 Jan 2024 07:53:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Commissioner Jerome/Delvin/2024-01-23 07:53:59</guid>
 		</item>
 	</channel>
 </rss>

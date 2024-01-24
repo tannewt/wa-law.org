@@ -24,3 +24,6 @@
 ## [SB 5431](/bill/2023-24/sb/5431/) - Zero emission school buses 👍1  
 
 ## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍1  
+
+## [SB 6243](/bill/2023-24/sb/6243/) - Technology manuf./B&O tax 👍1  
+* 👍 Michelle Detwiler

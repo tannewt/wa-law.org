@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31778&aId=157406&caId=23539&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31778&aId=157406&caId=23539&tId=4)
 
-#### 6 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* Angela Rozmyn - Natural and Built Environments
 
-#### 100 👎 - Con
+#### 184 👎 - Con
 Testifying:
 * Constance Nelson
 * Shane Mcgraw - No
@@ -27,5 +28,11 @@ Testifying:
 * Bruce Becker
 * Patricia Hoendermis - Yakima Valley Landlords Assoc.
 * William Shadbolt - [Washington Business Properties Association](/org/washington_business_properties_association/)
+* Debby Herbert - Aquarius Utilities
+* Chris Dukelow - Chief of Stuff, CredHub Inc.
+* Sheri Druckman - Regional Vice President, Legacy Partners
+* Monica Grant
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* JIM HENDERSON - National Association of Residential Property Managers and Benton Franklin County Rental Owners Assoc

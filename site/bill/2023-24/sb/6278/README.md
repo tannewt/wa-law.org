@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31762&aId=157712&caId=23603&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31762&aId=157712&caId=23603&tId=4)
 
-#### 60 👍 - Pro
+#### 520 👍 - Pro
+Testifying:
+* Melissa Spear - [Tilth Alliance](/org/tilth_alliance/)
+* Harold Austin - CORA
 
 #### 0 👎 - Con
 

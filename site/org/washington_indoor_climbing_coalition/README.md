@@ -1,4 +1,4 @@
 # Washington Indoor Climbing Coalition
 
-## [HB 2265](/bill/2023-24/hb/2265/) - Climbing facilities 👍1  
+## [HB 2265](/bill/2023-24/hb/2265/) - Climbing facilities 👍2  
 * 👍 MICHAEL LARY

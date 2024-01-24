@@ -14,9 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31751&aId=157529&caId=23396&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31751&aId=157529&caId=23396&tId=4)
 
-#### 8 👍 - Pro
+#### 50 👍 - Pro
 Testifying:
+* Jennifer Langdon - Cowlitz Public Utility District
+* DEVER HAFFNER-RATLIFFE - Cowlitz PUD
+* 💵Josie Cummings - Avista
+* 💵Chelsea Martin - [Modern Electric Water Company](/org/modern_electric_water_company/)
 * Ralph Ibarra
+* Shari Weir - Seattle City Light
+* Bill Will - [Washington Solar Energy Industries Association](/org/washington_solar_energy_industries_association/)
+* Gavin Tenold - [Washington Solar Energy Industries Association](/org/washington_solar_energy_industries_association/)
+* Reeves Clippard - A&R Solar
 
 #### 0 👎 - Con
 

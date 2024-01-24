@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31741&aId=157504&caId=23414&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31741&aId=157504&caId=23414&tId=4)
 
-#### 658 👍 - Pro
+#### 1256 👍 - Pro
 Testifying:
 * Cathy Murahashi - The Arc of Washington
 * Marc Cote - Parkview Services
@@ -29,8 +29,15 @@ Testifying:
 * Moses Perez
 * Robert Wardell
 * Kari Cunningham-Rosvik
+* Patience Malaba - Housing Development Consortium of Seattle-King County
+* Marty Miller - Office of Rural & Farmworker Housing
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Pam Hurst - Realtor
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Latrice Williams - Realtor
+* Sarah Dickmeyer - Plymouth Housing
 
-#### 140 👎 - Con
+#### 218 👎 - Con
 Testifying:
 * 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Emily Shay - Association of Washington Buisness
@@ -38,5 +45,6 @@ Testifying:
 * Debby Herbert
 * William Shadbolt - [Washington Business Properties Association](/org/washington_business_properties_association/)
 * Mike Morris
+* Rod Kauffman - BOMA - Building Owners & Managers Assn
 
 #### 2 ❓ - Other

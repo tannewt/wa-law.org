@@ -105,6 +105,11 @@
 ## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage 👍1  
 * 👍💵 Kelly Hall
 
+## [HB 2262](/bill/2023-24/hb/2262/) - Tire rolling resistance 👍1  
+* 👍💵 Leah Missik
+
+## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management 👍1  
+
 ## [HB 2376](/bill/2023-24/hb/2376/) - CCA public entity oblig.  👎1 
 
 ## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases 👍1  
@@ -158,6 +163,8 @@
 ## [SB 5659](/bill/2023-24/sb/5659/) - Gas companies/renewable res.   ❓1
 * ❓💵 Kelly Hall
 
+## [SB 5826](/bill/2023-24/sb/5826/) - Utility bills/CCA charges  👎1 
+
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
 * 👍 Megan Larkin
 
@@ -175,6 +182,8 @@
 * 👍💵 Leah Missik
 
 ## [SB 6114](/bill/2023-24/sb/6114/) - Sustainable aviation fuel 👍1  
+
+## [SB 6138](/bill/2023-24/sb/6138/) - Thermal energy networks 👍1  
 
 ## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management 👍1  
 * 👍 Deepa Sivarajan

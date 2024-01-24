@@ -18,4 +18,6 @@ Sign up to testify:
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Montana Miranda - [Washington Hospitality Association](/org/washington_hospitality_association/)

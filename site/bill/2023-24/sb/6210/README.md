@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31723&aId=157100&caId=23424&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31723&aId=157100&caId=23424&tId=4)
 
-#### 112 👍 - Pro
+#### 203 👍 - Pro
 Testifying:
 * Constance Nelson
 * Jeffrey Wright - Small Landlord
@@ -23,8 +23,11 @@ Testifying:
 * William Shadbolt - [Washington Business Properties Association](/org/washington_business_properties_association/)
 * Derek Vanderwood - Clark County Superior Court
 
-#### 9 👎 - Con
+#### 16 👎 - Con
+Testifying:
+* 💵Edmund Witter - [King County Bar Association](/org/king_county_bar_association/)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Philippe Knab - WA State Office of Civil Legal Aid
+* Matt Taylor - Northwest Justice Project

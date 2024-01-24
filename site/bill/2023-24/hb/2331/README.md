@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 01/23 04:00 PM - Education (ED): HB 2331 Public school materials
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157546&caId=23562&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157546&caId=23562&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157546&caId=23562&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31802&aId=157546&caId=23562&tId=4)
-
-#### 335 👍 - Pro
+#### 350 👍 - Pro
 Testifying:
 * 💵Carolyn Logue - [Washington Library Association](/org/washington_library_association/)
 * Justin McKaughan - National Board Certified Teacher Librarian
@@ -27,13 +21,14 @@ Testifying:
 * Carrie Bellecourt - Riverview Education Association and WEA
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 
-#### 738 👎 - Con
+#### 788 👎 - Con
 Testifying:
 * Andy Cilley
 * Joy Gjersvold - Conservative Ladies of Washington
 * Sharon Damoff
 * Liv Finne - Washington Policy Center
 * Jennifer Heine-Withee
+* Sarah Garriott
 
 #### 5 ❓ - Other
 Testifying:

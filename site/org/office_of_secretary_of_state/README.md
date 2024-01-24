@@ -58,6 +58,9 @@
 ## [HB 2206](/bill/2023-24/hb/2206/) - Voter registration database  👎1 
 * 👎 Brian Hatfield
 
+## [HB 2250](/bill/2023-24/hb/2250/) - Local elections  👎1 
+* 👎 Steve Hobbs
+
 ## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
 
 ## [SB 5015](/bill/2023-24/sb/5015/) - Productivity board 👍1  ❓1
@@ -121,8 +124,9 @@
 ## [SB 5993](/bill/2023-24/sb/5993/) - Voter education 👍1  
 * 👍 Steve Hobbs
 
-## [SB 6125](/bill/2023-24/sb/6125/) - Lakeland Village records 👍1  
+## [SB 6125](/bill/2023-24/sb/6125/) - Lakeland Village records 👍2  
 * 👍 Brian Hatfield
+* 👍 Heather Hirotaka
 
 ## [SB 6269](/bill/2023-24/sb/6269/) - Alt. voter verification   ❓1
 * ❓ Brian Hatfield

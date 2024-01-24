@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 01/23 04:00 PM - Ways & Means (WM): SB 5873 Student transportation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157501&caId=23370&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157501&caId=23370&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157501&caId=23370&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31739&aId=157501&caId=23370&tId=4)
-
-#### 82 👍 - Pro
+#### 131 👍 - Pro
 Testifying:
 * Ronda Litzenberger - Washington State School Directors' Association (WSSDA)
 * Dylan Norman - Student Representative for Eatonville School District
@@ -30,7 +24,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 5 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Barbara Posthumus - Lake Washington School District
 * Andi Tress - Everett School District

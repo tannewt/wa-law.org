@@ -11,7 +11,7 @@
 #### 26 👍 - Pro
 Testifying:
 * Jamie Pascal - Chamber of Progress
-* Jeff Farrah - Autonomous Vehicle Industry Association
+* Jeff Farrah - [Autonomous Vehicle Industry Association](/org/autonomous_vehicle_industry_association/)
 * ryan spiller - Alliance for automotive innovation
 * Bruce Agnew - ACES NW Network
 * 💵Ashley Sutton - TechNet

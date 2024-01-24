@@ -8,18 +8,13 @@
 
 ## Meetings
 ### Tue 01/23 04:00 PM - Environment & Energy (ENVI): HB 2069 Biogenic carbon dioxide
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31780&aId=157424&caId=23501&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31780&aId=157424&caId=23501&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31780&aId=157424&caId=23501&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31780&aId=157424&caId=23501&tId=4)
-
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Jim Smith - Klickitat PUD
 
 #### 2 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* Adam Eitmann - Department of Ecology

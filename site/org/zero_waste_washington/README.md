@@ -38,6 +38,8 @@
 
 ## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  
 
+## [HB 1574](/bill/2023-24/hb/1574/) - Methane/agriculture 👍1  
+
 ## [HB 1933](/bill/2023-24/hb/1933/) - Supporting the servicing and right to repair of certain products with digital electronics in a secure and reliable manner. 👍1  
 * 👍💵 Heather Trim
 
@@ -52,6 +54,9 @@
 * 👍💵 Heather Trim
 
 ## [HB 2207](/bill/2023-24/hb/2207/) - Solid waste dumping 👍1  
+
+## [HB 2262](/bill/2023-24/hb/2262/) - Tire rolling resistance 👍1  
+* 👍💵 Heather Trim
 
 ## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management 👍1  
 * 👍💵 Heather Trim
@@ -120,4 +125,7 @@
 * 👍💵 Heather Trim
 
 ## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management 👍1  
+* 👍💵 Heather Trim
+
+## [SB 6276](/bill/2023-24/sb/6276/) - Digital electronics/repair 👍1  
 * 👍💵 Heather Trim

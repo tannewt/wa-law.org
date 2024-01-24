@@ -12,6 +12,8 @@
 
 ## [HB 2066](/bill/2023-24/hb/2066/) - Health provider contracting  👎1 
 
+## [HB 2116](/bill/2023-24/hb/2116/) - Pharmacist prescriptive auth  👎1 
+
 ## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍1  
 * 👍 Domenico Tedeschi
 

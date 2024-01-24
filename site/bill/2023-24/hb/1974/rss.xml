@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1974/</link>
 		<description>Updates about HB 1974</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 08:10:35 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2024 12:30:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -51,6 +51,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Travis/Locke/2024-01-22 08:10:35</guid>
+		</item>
+		<item>
+			<title>👍💵Michael Shaw - Washington Association of County Officials (WACO)</title>
+			<description>Michael Shaw signed up to testify Pro. They are signed up to represent Washington Association of County Officials (WACO). They are a registered lobbyist.</description>
+			<pubDate>Tue, 23 Jan 2024 07:41:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Michael/Shaw/2024-01-23 07:41:35</guid>
+		</item>
+		<item>
+			<title>👍Warren McLeod - Washington Assoc. of Coroners &amp; Medical Examiners (WACME)</title>
+			<description>Warren McLeod signed up to testify Pro. They are signed up to represent Washington Assoc. of Coroners &amp; Medical Examiners (WACME).</description>
+			<pubDate>Tue, 23 Jan 2024 12:30:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Warren/McLeod/2024-01-23 12:30:27</guid>
 		</item>
 	</channel>
 </rss>

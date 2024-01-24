@@ -58,5 +58,5 @@
 
 ## [SB 5912](/bill/2023-24/sb/5912/) - Reentry services & supports 👍1  
 
-## [SB 5995](/bill/2023-24/sb/5995/) - Creating a professional license for spoken language interpreters and translators.   ❓1
+## [SB 5995](/bill/2023-24/sb/5995/) - Interpreters and translators   ❓1
 * ❓ Kate White Tudor

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2260/</link>
 		<description>Updates about HB 2260</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 17 Jan 2024 12:13:56 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -38,6 +38,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Scott/Waller/2024-01-17 12:13:56</guid>
+		</item>
+		<item>
+			<title>RSG - Executive action taken by committee.</title>
+			<description>RSG - Executive action taken by committee.</description>
+			<pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-23/RSG - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

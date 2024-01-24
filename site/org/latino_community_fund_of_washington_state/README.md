@@ -12,7 +12,7 @@
 
 ## [HB 2108](/bill/2023-24/hb/2108/) - Smokey Bear license plates 👍1  
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍2  
 
 ## [HB 2226](/bill/2023-24/hb/2226/) - H-2A worker program data 👍1  
 

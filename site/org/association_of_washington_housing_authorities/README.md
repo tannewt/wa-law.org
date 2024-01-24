@@ -15,6 +15,9 @@
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
+## [HB 2329](/bill/2023-24/hb/2329/) - Insurance market/housing 👍1  
+* 👍 A Calkins
+
 ## [SB 5198](/bill/2023-24/sb/5198/) - Mobile home community sales 👍2  
 
 ## [SB 5418](/bill/2023-24/sb/5418/) - Definition of public work  👎1 

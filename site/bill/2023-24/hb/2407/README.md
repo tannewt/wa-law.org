@@ -11,7 +11,7 @@
 
 ## Meetings
 ### Tue 01/23 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2407 Child welfare workers
-#### 13 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 

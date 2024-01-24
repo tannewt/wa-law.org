@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 2012 - Concerning eligibility for a property tax exemption for nonprofits providing affordable rental housing built with city and county funds.</title>
+		<title>HB 2012 - Rental housing/nonprofits</title>
 		<link>https://wa-law.org/bill/2023-24/hb/2012/</link>
 		<description>Updates about HB 2012</description>
 		<language>en-US</language>
@@ -59,6 +59,13 @@
 			<pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-23/FIN - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-23/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

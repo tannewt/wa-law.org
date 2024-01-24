@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Tue 01/23 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 2001 Sentence modification
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31769&aId=157320&caId=23503&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31769&aId=157320&caId=23503&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31769&aId=157320&caId=23503&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31769&aId=157320&caId=23503&tId=4)
-
-#### 254 👍 - Pro
+#### 282 👍 - Pro
 Testifying:
 * Andre Penalver
 * Larry Jefferson - Director, Washington State Office of Public Defense
@@ -39,6 +33,10 @@ Testifying:
 * Andrea Shotwell
 * Heather Wehrwood - WA State Coalition Against Domestic Violence
 * 💵Kelly Olson - [Civil Survival Project](/org/civil_survival_project/)
+* Ramona Womack
+* Antoine Coleman - AEJG/Freeminds Bookclub
+* Travis Comeslast
+* Jacob Schmitt - Just Us Solutions, LLC
 
 #### 7 👎 - Con
 Testifying:
@@ -46,6 +44,6 @@ Testifying:
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Ramona Womack - Fatherhood The Foundation, LLC

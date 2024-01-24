@@ -53,9 +53,15 @@
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
 
+## [HB 2016](/bill/2023-24/hb/2016/) - Allowing certain minors to contract for housing and utilities. 👍1  
+
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍2  
+
+## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍1  
+
+## [HB 2342](/bill/2023-24/hb/2342/) - Dependent youth financial ed 👍1  
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  ❓1
 * ❓💵 Aaron Yared
@@ -85,6 +91,8 @@
 ## [SB 5581](/bill/2023-24/sb/5581/) - Maternal support services 👍3  
 * 👍💵 Megan Veith
 
+## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍1  
+
 ## [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth 👍2  
 * 👍💵 Megan Veith
 * 👍💵 Megan Veith
@@ -95,3 +103,5 @@
 ## [SB 5943](/bill/2023-24/sb/5943/) - Resource data tool 👍1  
 
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍1  
+
+## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍2  
