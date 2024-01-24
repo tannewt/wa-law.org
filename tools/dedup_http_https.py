@@ -11,6 +11,8 @@ for rowid, url, text_fragment in cur:
     delete.execute("SELECT COUNT(url) FROM web_articles WHERE url = ? and text_fragment = ?", (https, text_fragment))
     count = delete.fetchone()[0]
     print(rowid, url, text_fragment, count)
+    if count == 0:
+        continue
 
     delete.execute("DELETE FROM web_articles WHERE rowid = ?", (rowid,))
 db.commit()

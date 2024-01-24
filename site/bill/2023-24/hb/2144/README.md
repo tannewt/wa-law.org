@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%202144)
+
 ## Meetings
 ### Tue 01/09 04:00 PM - Environment & Energy (ENVI): HB 2144 Providing for a deposit return program for qualifying beverage containers to be implemented by a distributor responsibility organization. (Remote Testimony Available). (If measure is referred to committee.)
 #### 260 👍 - Pro

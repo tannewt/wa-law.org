@@ -5,9 +5,16 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1704/</link>
 		<description>Updates about HB 1704</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 11 Jan 2024 18:23:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>2023 legislative session: Good and bad House bills | Washington State House Republicans</title>
+			<description>News article &quot;2023 legislative session: Good and bad House bills | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Tue, 24 Jan 2023 01:16:42 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201704</guid>
+		</item>
 		<item>
 			<title>2023 legislative session: Good and bad House bills | Washington State House Republicans</title>
 			<description>News article &quot;2023 legislative session: Good and bad House bills | Washington State House Republicans&quot; from House Republicans.</description>
@@ -51,11 +58,25 @@
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201704</guid>
 		</item>
 		<item>
+			<title>Our Priorities | Washington State House Republicans</title>
+			<description>News article &quot;Our Priorities | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Tue, 07 Nov 2023 18:10:11 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201704</guid>
+		</item>
+		<item>
 			<title>By resolution, reintroduced and retained in present status.</title>
 			<description>By resolution, reintroduced and retained in present status.</description>
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
+			<title>Fix the affordability crisis | Washington State House Republicans</title>
+			<description>News article &quot;Fix the affordability crisis | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Thu, 11 Jan 2024 18:23:14 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/our-priorities/affordability/#:~:text=House%20Bill%201704</guid>
 		</item>
 	</channel>
 </rss>

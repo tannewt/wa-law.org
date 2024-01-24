@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202076)
+
 ## Meetings
 ### Tue 01/16 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 2076 Human trafficking crimes
 #### 125 👍 - Pro

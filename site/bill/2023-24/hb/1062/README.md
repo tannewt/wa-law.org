@@ -10,6 +10,7 @@
 * 01/21/2024 [MyNorthwest](/org/mynorthwest/) - [Amanda Knox testifies in Olympia about police interrogation bill - MyNorthwest.com](https://mynorthwest.com/3947284/amanda-knox-testifies-about-police-interrogation-bill/#:~:text=House%20Bill%201062)
 * 01/17/2024 [Crosscut](/org/crosscut/) - [Amanda Knox testifies in Olympia for stricter interrogation laws | Crosscut](https://crosscut.com/politics/2024/01/amanda-knox-testifies-olympia-stricter-interrogation-laws#:~:text=House%20Bill%201062)
 * 01/08/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/08/the-house-hot-sheet-for-week-1-of-the-2024-legislative-session/#:~:text=HB%201062)
+* 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%201062)
 
 ## Meetings
 ### Mon 01/08 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1062 Law enf. officers/deception

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/22/2024 [The Center Square](/org/the_center_square/) - [Washington bill would require a convicted sex offender serve on state policy board | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3ff4fa30-b96f-11ee-a95b-4f1f66eccefb.html#:~:text=House%20Bill%202177)
+
 ## Meetings
 ### Tue 01/16 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 2177 Sex offender policy board
 #### 343 👍 - Pro

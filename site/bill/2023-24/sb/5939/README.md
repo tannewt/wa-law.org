@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/22/2024 [The Center Square](/org/the_center_square/) - [Lawmakers hunting for a solution to wolf predation in Washington | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b85cee54-b967-11ee-91c4-7f485b8b5358.html#:~:text=Senate%20Bill%205939)
+
 ## Meetings
 ### Thu 01/18 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5939 Livestock wolf predation
 #### 348 👍 - Pro

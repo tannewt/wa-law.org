@@ -6,14 +6,11 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/22/2024 [House Democrats](/org/house_democrats/) - [Two Simmons bills hear public testimony in the House Health Care & Wellness Committee – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/22/two-simmons-bills-hear-public-testimony-in-the-house-health-care-wellness-committee/#:~:text=House%20Bill%201859)
+
 ## Meetings
 ### Tue 01/23 01:30 PM - Health Care & Wellness (HCW): HB 1859 Long-term care residents
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31704&aId=157710&caId=23598&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31704&aId=157710&caId=23598&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31704&aId=157710&caId=23598&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31704&aId=157710&caId=23598&tId=4)
-
 #### 141 👍 - Pro
 Testifying:
 * Rex Johnson - Washington Advocates for Patient Safety

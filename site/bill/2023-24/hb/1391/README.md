@@ -10,6 +10,7 @@
 
 ## 📰 Articles
 * 03/04/2023 [House Democrats](/org/house_democrats/) - [Ramel Bills to Improve Building Energy Systems Pass House of Representatives – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/04/ramel-bills-to-improve-building-energy-systems-pass-house-of-representatives/#:~:text=House%20Bill%201391)
+* [Cascadia Daily News](/org/cascadia_daily_news/) - [Fentanyl, housing, public safety top priorities for Washington Legislature](https://cascadiadaily.com/news/2024/jan/04/fentanyl-housing-public-safety-top-priorities-in-2024-legislative-session/#:~:text=House%20Bill%201391)
 
 ## Meetings
 ### Fri 03/24 08:00 AM - Environment, Energy & Technology (ENET): 2SHB 1391 Energy in buildings

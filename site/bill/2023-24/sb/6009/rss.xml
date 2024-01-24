@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6009/</link>
 		<description>Updates about SB 6009</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 08:44:32 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2024 04:03:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -107,6 +107,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/James/McMahan/2024-01-22 08:44:32</guid>
+		</item>
+		<item>
+			<title>Bill proposes statewide ban on police from hogtying suspects - MyNorthwest.com</title>
+			<description>News article &quot;Bill proposes statewide ban on police from hogtying suspects - MyNorthwest.com&quot; from MyNorthwest.</description>
+			<pubDate>Tue, 23 Jan 2024 04:03:02 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/3947538/proposed-statewide-ban-hogtying-police/#:~:text=Senate%20Bill%206009</guid>
 		</item>
 	</channel>
 </rss>

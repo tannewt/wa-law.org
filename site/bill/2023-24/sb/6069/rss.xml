@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6069/</link>
 		<description>Updates about SB 6069</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 11:38:38 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 22:24:33 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -102,6 +102,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/John/Mangan/2024-01-22 11:38:38</guid>
+		</item>
+		<item>
+			<title>Will Washington Saves Close The Retirement Gap? Economic Opportunity Institute</title>
+			<description>News article &quot;Will Washington Saves Close The Retirement Gap? Economic Opportunity Institute&quot; from Economic Opportunity Institute.</description>
+			<pubDate>Mon, 22 Jan 2024 22:24:33 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.opportunityinstitute.org/blog/post/washington-saves-auto-ira-retirement-gap/#:~:text=SB%206069</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1373/</link>
 		<description>Updates about HB 1373</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 16 Jan 2024 04:51:34 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,13 @@
 			<pubDate>Tue, 17 Jan 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-01-17/First reading, referred to Housing.</guid>
+		</item>
+		<item>
+			<title>2023 legislative session: Good and bad House bills | Washington State House Republicans</title>
+			<description>News article &quot;2023 legislative session: Good and bad House bills | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Tue, 24 Jan 2023 01:16:42 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201373</guid>
 		</item>
 		<item>
 			<title>2023 legislative session: Good and bad House bills | Washington State House Republicans</title>
@@ -37,11 +44,46 @@
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201373</guid>
 		</item>
 		<item>
+			<title>Our Priorities | Washington State House Republicans</title>
+			<description>News article &quot;Our Priorities | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Tue, 07 Nov 2023 18:10:11 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201373</guid>
+		</item>
+		<item>
 			<title>By resolution, reintroduced and retained in present status.</title>
 			<description>By resolution, reintroduced and retained in present status.</description>
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
+			<title>Fix the child care crisis | Washington State House Republicans</title>
+			<description>News article &quot;Fix the child care crisis | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Thu, 11 Jan 2024 18:29:53 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/our-priorities/child-care/#:~:text=House%20bill%201373</guid>
+		</item>
+		<item>
+			<title>Fix the drug crisis | Washington State House Republicans</title>
+			<description>News article &quot;Fix the drug crisis | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Sun, 14 Jan 2024 22:06:55 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/our-priorities/drugs/#:~:text=House%20bill%201373</guid>
+		</item>
+		<item>
+			<title>Fix the education crisis | Washington State House Republicans</title>
+			<description>News article &quot;Fix the education crisis | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Mon, 15 Jan 2024 23:02:40 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/our-priorities/education/#:~:text=House%20bill%201373</guid>
+		</item>
+		<item>
+			<title>Fix the housing &amp; homelessness crisis | Washington State House Republicans</title>
+			<description>News article &quot;Fix the housing &amp; homelessness crisis | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Tue, 16 Jan 2024 04:51:34 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/our-priorities/housing/#:~:text=House%20bill%201373</guid>
 		</item>
 	</channel>
 </rss>

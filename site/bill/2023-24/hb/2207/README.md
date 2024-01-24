@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/22/2024 [NW News Network](/org/nw_news_network/) - [Washington bill creates civil fines, could reduce illegal dumping | Northwest News Network](https://www.nwnewsnetwork.org/environment-and-planning/2024-01-22/washington-bill-illegal-dumping-waste-trash-fines#:~:text=H.B.%202207)
+
 ## Meetings
 ### Thu 01/18 08:00 AM - Environment & Energy (ENVI): HB 2207 Solid waste dumping
 #### 11 👍 - Pro

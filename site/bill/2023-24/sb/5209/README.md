@@ -12,12 +12,6 @@
 
 ## Meetings
 ### Tue 01/23 01:30 PM - State Government & Elections (SGE): SB 5209 Universal civic duty voting
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31771&aId=157390&caId=23360&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31771&aId=157390&caId=23360&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31771&aId=157390&caId=23360&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31771&aId=157390&caId=23360&tId=4)
-
 #### 145 👍 - Pro
 Testifying:
 * Miles Rapoport - 100% Democracy: An Initiative for Universal Voting

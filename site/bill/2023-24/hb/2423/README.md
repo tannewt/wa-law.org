@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/22/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. Joel Kretz offers alternative to governor’s proposal on gray wolf management](https://gorgenewscenter.com/2024/01/22/rep-joel-kretz-offers-alternative-to-governors-proposal-on-gray-wolf-management/#:~:text=House%20Bill%202423)
+
 ## Meetings
 ### Fri 01/26 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2423 Gray wolf management
 Sign up to testify:

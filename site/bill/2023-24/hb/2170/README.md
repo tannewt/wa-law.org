@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202170)
+
 ## Meetings
 ### Thu 01/18 04:00 PM - Appropriations (APP): HB 2170 Budget stabilization account
 #### 3 👍 - Pro

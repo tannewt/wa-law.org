@@ -19,7 +19,7 @@ Testifying:
 Testifying:
 * Shira Cole - People Advancing Youth Safety And Equity
 * Rasham Nassar
-* Evangeline Stratton - Family Violence Appellate Project
+* 💵Evangeline Stratton - [Family Violence Appellate Project](/org/family_violence_appellate_project/)
 
 #### 0 ❓ - Other
 

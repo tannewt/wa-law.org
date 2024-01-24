@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 01/20/2024 [Gorge News Center](/org/gorge_news_center/) - [Spokane’s Rep. Mike Volz gains bipartisan support with bill to better equip communities recovering from wildfires](https://gorgenewscenter.com/2024/01/20/spokanes-rep-mike-volz-gains-bipartisan-support-with-bill-to-better-equip-communities-recovering-from-wildfires/#:~:text=House%20Bill%201952)
+* 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%201952)
 
 ## Meetings
 ### Fri 01/12 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1952 Disasters/long-term recovery

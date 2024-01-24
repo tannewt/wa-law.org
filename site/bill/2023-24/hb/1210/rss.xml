@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1210/</link>
 		<description>Updates about HB 1210</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Apr 2023 01:14:35 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 07 Nov 2023 18:10:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -46,6 +46,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Rob/Roettger/2023-01-17 09:28:13</guid>
+		</item>
+		<item>
+			<title>2023 legislative session: Good and bad House bills | Washington State House Republicans</title>
+			<description>News article &quot;2023 legislative session: Good and bad House bills | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Tue, 24 Jan 2023 01:16:42 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201210</guid>
 		</item>
 		<item>
 			<title>2023 legislative session: Good and bad House bills | Washington State House Republicans</title>
@@ -198,6 +205,13 @@
 			<pubDate>Tue, 18 Apr 2023 01:14:35 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201210</guid>
+		</item>
+		<item>
+			<title>Our Priorities | Washington State House Republicans</title>
+			<description>News article &quot;Our Priorities | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Tue, 07 Nov 2023 18:10:11 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201210</guid>
 		</item>
 	</channel>
 </rss>

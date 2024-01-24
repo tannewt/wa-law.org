@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/22/2024 [House Democrats](/org/house_democrats/) - [Two Simmons bills hear public testimony in the House Health Care & Wellness Committee – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/22/two-simmons-bills-hear-public-testimony-in-the-house-health-care-wellness-committee/#:~:text=House%20Bill%202145)
 * 01/15/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/15/the-house-hot-sheet-for-week-2-of-the-2024-legislative-session/#:~:text=HB%202145)
 
 ## Meetings

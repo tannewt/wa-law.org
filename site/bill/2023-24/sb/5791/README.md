@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 01/22/2024 [Gorge News Center](/org/gorge_news_center/) - [Senate committee passes Padden bill to reduce impaired driving](https://gorgenewscenter.com/2024/01/22/senate-committee-passes-padden-bill-to-reduce-impaired-driving/#:~:text=Senate%20Bill%205791)
+
 ## Meetings
 ### Tue 01/09 04:00 PM - Transportation (TRAN): SB 5791 DUI/oral fluid evaluation
 #### 7 👍 - Pro

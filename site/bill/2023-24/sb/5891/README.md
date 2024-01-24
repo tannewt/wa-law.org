@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Tue 01/23 10:30 AM - Law & Justice (LAW): SB 5891 Public school bus trespass
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31692&aId=156906&caId=23345&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31692&aId=156906&caId=23345&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31692&aId=156906&caId=23345&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31692&aId=156906&caId=23345&tId=4)
-
 #### 52 👍 - Pro
 Testifying:
 * 💵Carolyn Logue - WA State Student Transportation Coalition

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202019)
+
 ## Meetings
 ### Wed 01/17 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2019 Native American apprentices
 #### 6 👍 - Pro

@@ -9,6 +9,7 @@
 ## 📰 Articles
 * 01/20/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Quaker Voice Priorities — Quaker Voice](https://www.quakervoicewa.org/2024-quaker-voice-priorities/#:~:text=SB%205961)
 * 01/07/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: Welcome to the 2024 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/07/this-week-in-the-senate-week-1-welcome-to-the-2024-session/#:~:text=Senate%20Bill%205961)
+* [Cascadia Daily News](/org/cascadia_daily_news/) - [Rent-cap bill gets second chance in Olympia](https://cascadiadaily.com/news/2024/jan/15/rent-cap-bill-gets-second-chance-in-olympia/#:~:text=Senate%20Bill%205961)
 
 ## Meetings
 ### Fri 01/12 10:30 AM - Housing (HSG): SB 5961 Residential tenants

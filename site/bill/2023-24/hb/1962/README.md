@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* [Cascadia Daily News](/org/cascadia_daily_news/) - [Fentanyl, housing, public safety top priorities for Washington Legislature](https://cascadiadaily.com/news/2024/jan/04/fentanyl-housing-public-safety-top-priorities-in-2024-legislative-session/#:~:text=House%20Bill%201962)
+
 ## Meetings
 ### Tue 01/09 01:30 PM - State Government & Tribal Relations (SGOV): HB 1962 Voter address changes
 #### 443 👍 - Pro

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/22/2024 [The Center Square](/org/the_center_square/) - [Washington legislation would ban student cell phones in most cases | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1779dc04-b962-11ee-a99f-8ff018564139.html#:~:text=House%20Bill%202018)
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202018)
 
 ## Meetings

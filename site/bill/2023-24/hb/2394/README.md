@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Tue 01/23 10:30 AM - Local Government (LG): HB 2394 SEPA/trails and paths
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31773&aId=157351&caId=23474&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31773&aId=157351&caId=23474&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31773&aId=157351&caId=23474&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31773&aId=157351&caId=23474&tId=4)
-
 #### 54 👍 - Pro
 Testifying:
 * Lee Lambert - [Washington Bikes](/org/washington_bikes/)

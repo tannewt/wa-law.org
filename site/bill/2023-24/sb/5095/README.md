@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/23/2024 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to provide prescribed access to outdoor recreation heard in committee - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/23/nobles-bill-to-provide-prescribed-access-to-outdoor-recreation-heard-in-committee/#:~:text=Senate%20Bill%205095)
+
 ## Meetings
 ### Tue 01/23 08:00 AM - Health & Long Term Care (HLTC): SB 5095 Parks/health & wellness
 #### 54 👍 - Pro

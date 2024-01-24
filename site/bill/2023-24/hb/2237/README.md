@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202237)
+
 ## Meetings
 ### Wed 01/17 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2237 Parenting plan limitations
 #### 172 👍 - Pro
@@ -29,7 +32,7 @@ Testifying:
 * Tamara Ohman
 * Tina Swithin - One Mom's Battle
 * Nicole Belt
-* Evangeline Stratton - Family Violence Appellate Project
+* 💵Evangeline Stratton - [Family Violence Appellate Project](/org/family_violence_appellate_project/)
 * Elizabeth Cooper
 * Kimberly Kerr
 * Michael Pollock

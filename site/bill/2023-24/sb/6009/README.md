@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/23/2024 [MyNorthwest](/org/mynorthwest/) - [Bill proposes statewide ban on police from hogtying suspects - MyNorthwest.com](https://mynorthwest.com/3947538/proposed-statewide-ban-hogtying-police/#:~:text=Senate%20Bill%206009)
 * 01/22/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 3: Criminal justice reform, education, tax cuts for housing - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/21/this-week-in-the-senate-week-3-criminal-justice-reform-education-tax-cuts-for-housing/#:~:text=Senate%20Bill%206009)
 
 ## Meetings

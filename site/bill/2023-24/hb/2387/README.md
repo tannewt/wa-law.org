@@ -8,5 +8,6 @@
 
 ## 📰 Articles
 * 01/19/2024 [The Center Square](/org/the_center_square/) - [Washington lawmakers seek to help fight learning loss after COVID-19 shutdowns | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5a74fe68-b66e-11ee-871a-ef1bedb08849.html#:~:text=House%20Bill%202387)
+* 01/15/2024 [House Republicans](/org/house_republicans/) - [Fix the education crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/education/#:~:text=House%20bill%202387)
 
 ## Meetings

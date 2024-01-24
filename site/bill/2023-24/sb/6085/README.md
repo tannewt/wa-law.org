@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Tue 01/23 10:30 AM - Labor & Commerce (LC): SB 6085 Underground economy
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31750&aId=157209&caId=23351&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31750&aId=157209&caId=23351&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31750&aId=157209&caId=23351&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31750&aId=157209&caId=23351&tId=4)
-
 #### 52 👍 - Pro
 Testifying:
 * Adam Yoest - Washington State Conference of Mason Contractors

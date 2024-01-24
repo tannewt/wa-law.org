@@ -11,12 +11,6 @@
 
 ## Meetings
 ### Tue 01/23 10:30 AM - Human Services (HS): SB 5953 Incarcerated student grants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31698&aId=157019&caId=23341&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31698&aId=157019&caId=23341&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31698&aId=157019&caId=23341&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31698&aId=157019&caId=23341&tId=4)
-
 #### 14 👍 - Pro
 Testifying:
 * Danielle Armbruster - Washington State Department of Corrections

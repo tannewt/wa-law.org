@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202234)
+
 ## Meetings
 ### Thu 01/18 08:00 AM - Environment & Energy (ENVI): HB 2234 Low-income energy assistance
 #### 52 👍 - Pro

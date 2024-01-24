@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202235)
+
 ## Meetings
 ### Tue 01/16 04:00 PM - Environment & Energy (ENVI): HB 2235 Water quality data/salmon
 #### 53 👍 - Pro

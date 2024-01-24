@@ -8,5 +8,11 @@
 
 ## 📰 Articles
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [Fix the public safety crisis | Washington State House Republicans](http://houserepublicans.wa.gov/current/fix-the-public-safety-crisis/#:~:text=House%20Bill%201456)
+* 01/16/2024 [House Republicans](/org/house_republicans/) - [Fix the housing & homelessness crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/housing/#:~:text=House%20bill%201456)
+* 01/15/2024 [House Republicans](/org/house_republicans/) - [Fix the public safety crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/public-safety/#:~:text=House%20bill%201456)
+* 01/15/2024 [House Republicans](/org/house_republicans/) - [Fix the education crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/education/#:~:text=House%20bill%201456)
+* 01/14/2024 [House Republicans](/org/house_republicans/) - [Fix the drug crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/drugs/#:~:text=House%20bill%201456)
+* 01/11/2024 [House Republicans](/org/house_republicans/) - [Fix the child care crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/child-care/#:~:text=House%20bill%201456)
+* 01/11/2024 [House Republicans](/org/house_republicans/) - [Fix the affordability crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/affordability/#:~:text=House%20bill%201456)
 
 ## Meetings

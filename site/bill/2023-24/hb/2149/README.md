@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202149)
+
 ## Meetings
 ### Fri 01/19 08:00 AM - Consumer Protection & Business (CPB): HB 2149 Consumer personal info.
 #### 2 👍 - Pro

@@ -37,7 +37,7 @@ Testifying:
 
 #### 2 ❓ - Other
 Testifying:
-* Evangeline Stratton - Family Violence Appellate Project
+* 💵Evangeline Stratton - [Family Violence Appellate Project](/org/family_violence_appellate_project/)
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 ### Thu 03/16 08:00 AM - Law & Justice (LAW): E2SHB 1715 Domestic violence
@@ -60,7 +60,7 @@ Testifying:
 Testifying:
 * Rick Torrance - Department of Commerce
 * Ramona Brandes - WACDL and WDA
-* Evangeline Stratton - Family Violence Appellate Project
+* 💵Evangeline Stratton - [Family Violence Appellate Project](/org/family_violence_appellate_project/)
 
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1715 Domestic violence
 #### 15 👍 - Pro

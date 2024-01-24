@@ -12,6 +12,7 @@
 ## 📰 Articles
 * 01/19/2024 [The Center Square](/org/the_center_square/) - [Washington lawmakers seek to help fight learning loss after COVID-19 shutdowns | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5a74fe68-b66e-11ee-871a-ef1bedb08849.html#:~:text=House%20Bill%201479)
 * 01/08/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Session Preview: Legislature convenes January 8 for short session - WSPTA](https://www.wastatepta.org/2024-session-preview/#:~:text=E2SHB%201479)
+* 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%201479)
 * 03/28/2023 [The Seattle Times](/org/the_seattle_times/) - [Isolation and restraint of students is abuse | The Seattle Times](https://www.seattletimes.com/opinion/editorials/isolation-and-restraint-of-students-is-abuse/#:~:text=House%20Bill%201479)
 * 03/27/2023 [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=E2SHB%201479)
 * 03/21/2023 [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! March 20, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-march-20-2023/#:~:text=E2SHB%201479)

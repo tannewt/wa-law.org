@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/22/2024 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [Will Washington Saves Close The Retirement Gap? Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/washington-saves-auto-ira-retirement-gap/#:~:text=SB%206069)
+
 ## Meetings
 ### Tue 01/23 04:00 PM - Ways & Means (WM): SB 6069 Retirement savings
 Sign up to testify:

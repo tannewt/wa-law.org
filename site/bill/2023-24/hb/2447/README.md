@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Tue 01/23 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2447 Children and families
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31732&aId=157598&caId=23588&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31732&aId=157598&caId=23588&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31732&aId=157598&caId=23588&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31732&aId=157598&caId=23588&tId=4)
-
 #### 17 👍 - Pro
 Testifying:
 * Paula Reed - [Children's Advocacy Centers of Washington](/org/children's_advocacy_centers_of_washington/)

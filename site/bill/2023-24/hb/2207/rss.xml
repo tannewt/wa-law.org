@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2207/</link>
 		<description>Updates about HB 2207</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 17 Jan 2024 12:29:59 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jan 2024 23:56:15 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -70,6 +70,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Tom/Davis/2024-01-17 12:29:59</guid>
+		</item>
+		<item>
+			<title>Washington bill creates civil fines, could reduce illegal dumping | Northwest News Network</title>
+			<description>News article &quot;Washington bill creates civil fines, could reduce illegal dumping | Northwest News Network&quot; from NW News Network.</description>
+			<pubDate>Mon, 22 Jan 2024 23:56:15 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.nwnewsnetwork.org/environment-and-planning/2024-01-22/washington-bill-illegal-dumping-waste-trash-fines#:~:text=H.B.%202207</guid>
 		</item>
 	</channel>
 </rss>
