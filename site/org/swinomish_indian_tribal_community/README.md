@@ -24,6 +24,9 @@
 
 ## [HB 2187](/bill/2023-24/hb/2187/) - Water/family farms  👎1 
 
+## [HB 2299](/bill/2023-24/hb/2299/) - DNR trust asset leasing  👎1 
+* 👎💵 James Paribello
+
 ## [SB 5371](/bill/2023-24/sb/5371/) - Orca vessel protection 👍1  
 
 ## [SB 5372](/bill/2023-24/sb/5372/) - DNR land 👍1  

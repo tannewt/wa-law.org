@@ -20,11 +20,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31718&aId=157731&caId=23616&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31718&aId=157731&caId=23616&tId=4)
 
-#### 5 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* Steve Zemke - Friends of Urban Forests and TreePAC
+* Joshua Morris - Birds Connect Seattle
 
-#### 0 👎 - Con
+#### 24 👎 - Con
+Testifying:
+* Lynn Fitz-Hugh - Restoring Earth Connection
+* Susanna Jones
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Ruth Williams
 
 ### Wed 01/11 08:00 AM - Local Government (LG): HB 1078 Urban forest management
 #### 178 👍 - Pro

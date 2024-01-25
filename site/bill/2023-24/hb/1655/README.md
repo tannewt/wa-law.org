@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/24 01:30 PM - Health Care & Wellness (HCW): HB 1655 Provider contract comp.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31705&aId=157711&caId=23599&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31705&aId=157711&caId=23599&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31705&aId=157711&caId=23599&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31705&aId=157711&caId=23599&tId=4)
-
-#### 1900 👍 - Pro
+#### 2262 👍 - Pro
 Testifying:
 * Benjamin Boyle - APTA WA
 * Ben Boyle - APT Washington
@@ -26,13 +20,14 @@ Testifying:
 * Sonya Mahmood
 * PMHNP-BC, Katherine Ko - Association of Advanced Practice Psychiatric Nurses (AAPPN)
 * PMHNP, Sarah Applegate - Association of Advanced Practice Psychiatric Nurses (AAPPN)
+* Joe Angulo - None
 
 #### 5 👎 - Con
 Testifying:
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
 * Chris Bandoli - National Association of Benefits and Insurance Professionals Washington
 
-#### 9 ❓ - Other
+#### 12 ❓ - Other
 
 ### Fri 02/10 08:00 AM - Health Care & Wellness (HCW): HB 1655 Provider contract comp.
 #### 677 👍 - Pro

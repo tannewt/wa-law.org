@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6190/</link>
 		<description>Updates about SB 6190</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 23 Jan 2024 12:26:37 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2024 05:07:20 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -38,6 +38,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Kirk/Struble/2024-01-23 12:26:37</guid>
+		</item>
+		<item>
+			<title>❓Tina Griffin - Washington State Gambling Commission</title>
+			<description>Tina Griffin signed up to testify Other. They are signed up to represent Washington State Gambling Commission.</description>
+			<pubDate>Wed, 24 Jan 2024 02:18:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Tina/Griffin/2024-01-24 02:18:23</guid>
+		</item>
+		<item>
+			<title>👍💵Matt Little - Ducks Unlimited</title>
+			<description>Matt Little signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/ducks_unlimited/&quot;&gt;Ducks Unlimited&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 24 Jan 2024 05:07:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Matt/Little/2024-01-24 05:07:20</guid>
 		</item>
 	</channel>
 </rss>

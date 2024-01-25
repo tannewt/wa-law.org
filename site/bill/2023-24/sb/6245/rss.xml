@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6245/</link>
 		<description>Updates about SB 6245</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 24 Jan 2024 08:39:21 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2024 08:41:31 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,12 +23,44 @@
 			<guid isPermaLink="false">2024-01-16/First reading, referred to Human Services.</guid>
 		</item>
 		<item>
+			<title>👍Thomas Miles - City of Tukwila</title>
+			<description>Thomas Miles signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/city_of_tukwila/&quot;&gt;City of Tukwila&lt;/a&gt;.</description>
+			<pubDate>Wed, 24 Jan 2024 01:43:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Thomas/Miles/2024-01-24 01:43:57</guid>
+		</item>
+		<item>
+			<title>👍💵Eli Goss - OneAmerica</title>
+			<description>Eli Goss signed up to testify Pro. They are signed up to represent OneAmerica. They are a registered lobbyist.</description>
+			<pubDate>Wed, 24 Jan 2024 03:09:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Eli/Goss/2024-01-24 03:09:28</guid>
+		</item>
+		<item>
 			<title>👍Michael Padilla Ocampo - King County</title>
 			<description>Michael Padilla Ocampo signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/king_county/&quot;&gt;King County&lt;/a&gt;.</description>
 			<pubDate>Wed, 24 Jan 2024 08:39:21 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Michael/Padilla Ocampo/2024-01-24 08:39:21</guid>
+		</item>
+		<item>
+			<title>❓Babs Roberts - DSHS - Economic Services Administration - Community Services Division (Director)</title>
+			<description>Babs Roberts signed up to testify Other. They are signed up to represent DSHS - Economic Services Administration - Community Services Division (Director).</description>
+			<pubDate>Wed, 24 Jan 2024 08:41:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Babs/Roberts/2024-01-24 08:41:31</guid>
+		</item>
+		<item>
+			<title>❓Sarah Peterson - DSHS - ESA - CSD - Office of Refugee and Immigrant Assistance</title>
+			<description>Sarah Peterson signed up to testify Other. They are signed up to represent DSHS - ESA - CSD - Office of Refugee and Immigrant Assistance.</description>
+			<pubDate>Wed, 24 Jan 2024 08:41:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Sarah/Peterson/2024-01-24 08:41:31</guid>
 		</item>
 	</channel>
 </rss>

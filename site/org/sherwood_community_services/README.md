@@ -9,4 +9,6 @@
 ## [HB 2080](/bill/2023-24/hb/2080/) - Day habilitation services   ❓1
 * ❓💵 Lance Morehouse
 
+## [HB 2130](/bill/2023-24/hb/2130/) - Special education services 👍1  
+
 ## [SB 6126](/bill/2023-24/sb/6126/) - Respite care 👍1  

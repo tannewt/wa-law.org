@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1531/</link>
 		<description>Updates about HB 1531</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 25 Jan 2024 06:03:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -74,6 +74,30 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
+			<title>👍Genevieve Howard - State Board for Community and Technical Colleges</title>
+			<description>Genevieve Howard signed up to testify Pro. They are signed up to represent State Board for Community and Technical Colleges.</description>
+			<pubDate>Wed, 24 Jan 2024 02:37:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Genevieve/Howard/2024-01-24 02:37:23</guid>
+		</item>
+		<item>
+			<title>❓Dave Pringle - Dept. of Commerce</title>
+			<description>Dave Pringle signed up to testify Other. They are signed up to represent Dept. of Commerce.</description>
+			<pubDate>Wed, 24 Jan 2024 07:12:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Dave/Pringle/2024-01-24 07:12:40</guid>
+		</item>
+		<item>
+			<title>❓Genevieve Howard - State Board for Community and Technical Colleges</title>
+			<description>Genevieve Howard signed up to testify Other. They are signed up to represent State Board for Community and Technical Colleges.</description>
+			<pubDate>Thu, 25 Jan 2024 06:03:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Genevieve/Howard/2024-01-25 06:03:06</guid>
 		</item>
 	</channel>
 </rss>

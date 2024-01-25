@@ -14,11 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31762&aId=157712&caId=23603&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31762&aId=157712&caId=23603&tId=4)
 
-#### 520 👍 - Pro
+#### 861 👍 - Pro
 Testifying:
 * Melissa Spear - [Tilth Alliance](/org/tilth_alliance/)
 * Harold Austin - CORA
+* Anne SCHWARTZ - Coalition for Organic and Regenerative Agriculture
+* Mike Dill - Organically Grown Company & Coalition for Organic and Regenerative Agriculture (CORA)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Brenda Book - WSDA Organic Program

@@ -100,7 +100,7 @@
 
 ## [HB 2131](/bill/2023-24/hb/2131/) - Thermal energy networks 👍1  
 
-## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍1  
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍2  
 
 ## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage 👍1  
 * 👍💵 Kelly Hall
@@ -164,6 +164,9 @@
 * ❓💵 Kelly Hall
 
 ## [SB 5826](/bill/2023-24/sb/5826/) - Utility bills/CCA charges  👎1 
+
+## [SB 5945](/bill/2023-24/sb/5945/) - Vehicle dealers  👎1 
+* 👎💵 Leah Missik
 
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
 * 👍 Megan Larkin

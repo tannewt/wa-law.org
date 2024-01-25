@@ -17,10 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31767&aId=157309&caId=23408&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31767&aId=157309&caId=23408&tId=4)
 
-#### 9 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * 💵Carolyn Logue - [Washington State Student Transportation Coalition](/org/washington_state_student_transportation_coalition/)
 * Greg Price - Columbia School District
+* Jim Kowalkowski - Rural Education Center
 
 #### 1 👎 - Con
 

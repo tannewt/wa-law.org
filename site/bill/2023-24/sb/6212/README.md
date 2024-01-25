@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Wed 01/24 10:30 AM - Housing (HSG): SB 6212 Rent payments/credit reports
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31722&aId=157099&caId=23384&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31722&aId=157099&caId=23384&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31722&aId=157099&caId=23384&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31722&aId=157099&caId=23384&tId=4)
-
 #### 10 👍 - Pro
 Testifying:
 * 💵Nicole Gomez

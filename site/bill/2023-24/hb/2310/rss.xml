@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2310/</link>
 		<description>Updates about HB 2310</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 24 Jan 2024 07:38:45 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 25 Jan 2024 08:32:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -45,6 +45,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/John/Hughes/2024-01-24 07:38:45</guid>
+		</item>
+		<item>
+			<title>❓Owen Rowe - Washington State Parks and Recreation Commission</title>
+			<description>Owen Rowe signed up to testify Other. They are signed up to represent Washington State Parks and Recreation Commission.</description>
+			<pubDate>Wed, 24 Jan 2024 11:27:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Owen/Rowe/2024-01-24 11:27:56</guid>
+		</item>
+		<item>
+			<title>👎STETSON PALMER - Mayor, Town of Cathlamet</title>
+			<description>STETSON PALMER signed up to testify Con.</description>
+			<pubDate>Thu, 25 Jan 2024 07:19:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/STETSON/PALMER/2024-01-25 07:19:56</guid>
+		</item>
+		<item>
+			<title>👎Jim King - Mayor, Town of Cathlamet</title>
+			<description>Jim King signed up to testify Con.</description>
+			<pubDate>Thu, 25 Jan 2024 08:32:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jim/King/2024-01-25 08:32:09</guid>
 		</item>
 	</channel>
 </rss>

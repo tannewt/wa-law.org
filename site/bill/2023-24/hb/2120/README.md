@@ -17,13 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31703&aId=157042&caId=23551&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31703&aId=157042&caId=23551&tId=4)
 
-#### 19 👍 - Pro
+#### 53 👍 - Pro
 Testifying:
 * Theresa Richardson - City of Richland (Mayor)
 * 💵Emily Shay - Association of Washington Buisness
 * KARL DYE - TRIDEC
 * Commissioner Jerome Delvin - Benton County
+* Lance Stephens - Framatome Inc
 
-#### 23 👎 - Con
+#### 170 👎 - Con
 
 #### 0 ❓ - Other

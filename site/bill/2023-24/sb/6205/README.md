@@ -14,10 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31767&aId=157310&caId=23409&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31767&aId=157310&caId=23409&tId=4)
 
-#### 188 👍 - Pro
+#### 873 👍 - Pro
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
+* Susanna Jones
+* Alex Hansen - Eatonville Middle School
+* Blake Pool
+* Elijah Whatley
+* Layla Clark
+* Troy Smith
 
-#### 2 👎 - Con
+#### 6 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other

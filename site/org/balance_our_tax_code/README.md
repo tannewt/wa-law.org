@@ -38,3 +38,5 @@
 ## [SB 5988](/bill/2023-24/sb/5988/) - Gift certificates/unclaimed 👍2  
 * 👍 Emma Scalzo
 * 👍 Emma Scalzo
+
+## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍1  

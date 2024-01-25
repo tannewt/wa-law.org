@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2323/</link>
 		<description>Updates about HB 2323</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 23 Jan 2024 10:12:26 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2024 10:26:45 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -126,6 +126,38 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Monica/Grant/2024-01-23 10:12:26</guid>
+		</item>
+		<item>
+			<title>👎Brian Bouchard - 707LLC</title>
+			<description>Brian Bouchard signed up to testify Con. They are signed up to represent 707LLC.</description>
+			<pubDate>Wed, 24 Jan 2024 01:39:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Brian/Bouchard/2024-01-24 01:39:16</guid>
+		</item>
+		<item>
+			<title>👎Carl Haglund - Columbia modern living</title>
+			<description>Carl Haglund signed up to testify Con. They are signed up to represent Columbia modern living.</description>
+			<pubDate>Wed, 24 Jan 2024 04:07:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Carl/Haglund/2024-01-24 04:07:18</guid>
+		</item>
+		<item>
+			<title>👎Susanna Jones - Columbia modern living</title>
+			<description>Susanna Jones signed up to testify Con.</description>
+			<pubDate>Wed, 24 Jan 2024 07:06:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Susanna/Jones/2024-01-24 07:06:21</guid>
+		</item>
+		<item>
+			<title>👎Russ Millard - Manufactured Housing Communities of Washington</title>
+			<description>Russ Millard signed up to testify Con. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/manufactured_housing_communities_of_washington/&quot;&gt;Manufactured Housing Communities of Washington&lt;/a&gt;.</description>
+			<pubDate>Wed, 24 Jan 2024 10:26:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Russ/Millard/2024-01-24 10:26:45</guid>
 		</item>
 	</channel>
 </rss>

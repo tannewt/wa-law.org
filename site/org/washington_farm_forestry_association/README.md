@@ -15,7 +15,7 @@
 * 👍 Elaine Oneil
 * 👍 Ken Miller
 
-## [HB 2045](/bill/2023-24/hb/2045/) - Creating an adopt a fish barrier program. 👍2  
+## [HB 2045](/bill/2023-24/hb/2045/) - Adopt a fish barrier program 👍2  
 
 ## [SB 5254](/bill/2023-24/sb/5254/) - Leasing of state lands 👍1  
 

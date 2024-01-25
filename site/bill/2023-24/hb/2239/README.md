@@ -11,20 +11,27 @@
 
 ## Meetings
 ### Thu 01/25 08:00 AM - Education (ED): HB 2239 Social-emotional instruction
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31757&aId=157264&caId=23537&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31757&aId=157264&caId=23537&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31757&aId=157264&caId=23537&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31757&aId=157264&caId=23537&tId=4)
-
-#### 277 👍 - Pro
+#### 364 👍 - Pro
 Testifying:
 * Takiyah Ward
+* Charlotte Plouse
+* Marin Marks - Washington School Counselor Association (WSCA)
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
+* Nigar Suleman - WA State PTA
+* Martin Shain
+* Sarah Butcher
+* 💵Anna Nepomuceno - NAMI Washington
+* Brooke Lewis - NAMI Eastside Youth Ambassador
+* Cora Hoyt - Vancouver Public School Student
+* Meral Kandymova - NAMI Washington
 
-#### 780 👎 - Con
+#### 837 👎 - Con
 Testifying:
 * Kim Slinger
+* Susanna Jones
+* Patti Julagay - Conservative Ladies of Washington
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Angelee Brown - 1288 1st Ave S
+* pratt eric

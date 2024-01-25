@@ -24,6 +24,8 @@
 
 ## [HB 1695](/bill/2023-24/hb/1695/) - Surplus property/housing 👍1  
 
+## [HB 2219](/bill/2023-24/hb/2219/) - Affordable housing/tax ex. 👍1  
+
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
 ## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2097/</link>
 		<description>Updates about HB 2097</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 15 Jan 2024 10:16:16 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -76,6 +76,20 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Robert (Bob)/Battles/2024-01-15 10:16:16</guid>
+		</item>
+		<item>
+			<title>LAWS - Executive action taken by committee.</title>
+			<description>LAWS - Executive action taken by committee.</description>
+			<pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-24/LAWS - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>LAWS - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>LAWS - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-24/LAWS - Majority; 1st substitute bill be substituted, do pass.</guid>
 		</item>
 	</channel>
 </rss>

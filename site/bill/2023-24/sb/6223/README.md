@@ -6,4 +6,21 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/24/2024 [The Seattle Times](/org/the_seattle_times/) - [Bill aims to increase WA school board pay for first time since 1987 | The Seattle Times](https://www.seattletimes.com/education-lab/bill-aims-to-increase-wa-school-board-pay-for-first-time-since-1987/#:~:text=SB%206223)
+
 ## Meetings
+### Mon 01/29 01:30 PM - Early Learning & K-12 Education (EDU): SB 6223 School director compensation
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31812&aId=157795&caId=23646&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31812&aId=157795&caId=23646&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31812&aId=157795&caId=23646&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31812&aId=157795&caId=23646&tId=4)
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+Testifying:
+* John Axtell
+
+#### 0 ❓ - Other

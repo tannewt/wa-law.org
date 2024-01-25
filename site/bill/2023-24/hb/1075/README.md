@@ -27,12 +27,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31718&aId=157734&caId=23619&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31718&aId=157734&caId=23619&tId=4)
 
-#### 260 👍 - Pro
+#### 426 👍 - Pro
 Testifying:
 * 💵Kristin Ang - Faith Action Network (FAN)
 * Ryan Davis - Financial Empowerment Network
+* 💵Claire Lane - Anti-Hunger and Nutrition Coalition
+* Mayauna Renae - Mockingbird Youth Advocacy Team
+* 💵Tracy Yeung - Washington State Budget and Policy Center
+* 💵Jean Hill - Washington State Catholic Conference
 
-#### 0 👎 - Con
+#### 21 👎 - Con
+Testifying:
+* Susanna Jones
 
 #### 0 ❓ - Other
 

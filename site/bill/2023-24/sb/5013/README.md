@@ -17,12 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31728&aId=157578&caId=23569&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31728&aId=157578&caId=23569&tId=4)
 
-#### 4 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * Commissioner Amanda McKinney - Yakima County District 1
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
+* Paul Beveridge - Family Wineries of Washington State
+* Sandi Moreno - Family Wineries of Washington State
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

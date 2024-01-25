@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5594/</link>
 		<description>Updates about SB 5594</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 25 Jan 2024 08:46:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -181,6 +181,14 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
+			<title>👍Jeff Farrah - Autonomous Vehicle Industry Association</title>
+			<description>Jeff Farrah signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/autonomous_vehicle_industry_association/&quot;&gt;Autonomous Vehicle Industry Association&lt;/a&gt;.</description>
+			<pubDate>Thu, 25 Jan 2024 08:46:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jeff/Farrah/2024-01-25 08:46:14</guid>
 		</item>
 	</channel>
 </rss>

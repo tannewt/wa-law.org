@@ -79,9 +79,15 @@
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
+## [HB 2079](/bill/2023-24/hb/2079/) - Improving school safety by extending and increasing penalties for interference by, or intimidation by threat of, force or violence at schools and athletic activities. 👍1  
+
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  
 
+## [HB 2133](/bill/2023-24/hb/2133/) - Public school bus trespass 👍1  
+
 ## [HB 2180](/bill/2023-24/hb/2180/) - Special education cap 👍1  
+
+## [HB 2239](/bill/2023-24/hb/2239/) - Social-emotional instruction 👍1  
 
 ## [HB 2267](/bill/2023-24/hb/2267/) - Commencement/cultural exp. 👍1  
 

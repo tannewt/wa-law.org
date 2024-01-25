@@ -8,6 +8,8 @@
 
 ## 📰 Articles
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202065)
+* 01/04/2024 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Pass Juvenile Points (HB 2065/SB 5971) | ACLU of Washington](http://www.aclu-wa.org/pages/pass-juvenile-points-hb-2065sb-5971#:~:text=HB%202065)
+* 01/04/2024 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Legislative Agenda 2024 | ACLU of Washington](http://www.aclu-wa.org/pages/legislative-agenda-2024#:~:text=HB%202065)
 
 ## Meetings
 ### Mon 01/22 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 2065 Offender score recalc.

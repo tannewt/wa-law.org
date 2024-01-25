@@ -343,7 +343,7 @@
 
 ## [HB 2065](/bill/2023-24/hb/2065/) - Recalculating sentencing ranges for currently incarcerated individuals whose offender score was increased by juvenile convictions. 👍1  
 
-## [HB 2073](/bill/2023-24/hb/2073/) - Concerning emissions of greenhouse gases from sources other than methane and carbon dioxide. 👍1  
+## [HB 2073](/bill/2023-24/hb/2073/) - Greenhouse gas other sources 👍1  
 
 ## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍1  
 

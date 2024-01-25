@@ -15,11 +15,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31718&aId=157732&caId=23617&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31718&aId=157732&caId=23617&tId=4)
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Genevieve Howard - State Board for Community and Technical Colleges
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Dave Pringle - Dept. of Commerce
+* Genevieve Howard - State Board for Community and Technical Colleges
 
 ### Wed 02/01 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1531 Aerospace industry dev.
 #### 14 👍 - Pro

@@ -11,19 +11,19 @@
 
 ## Meetings
 ### Thu 01/25 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 2079 Schools/threats
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157324&caId=23543&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157324&caId=23543&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157324&caId=23543&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157324&caId=23543&tId=4)
-
-#### 49 👍 - Pro
+#### 90 👍 - Pro
 Testifying:
 * Bob West - Umpires and Referees Stopping Assaults For Ever (www.ur-safe.org)
 * Brandi Peetz
 * Preston Dwoskin
+* LINDA THOMPSON - Washington Association for Substance misuse and Violence Prevention (WASAVP)
+* Wade Harris - Cowlitz County Soccer Officials
+* Keith Smith
+* Albert Merkel
+* Misty Griffith
+* LUKAS GARCIA - Greater Spokane Valley Chamber of Commerce
 
-#### 15 👎 - Con
+#### 23 👎 - Con
 Testifying:
 * David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 

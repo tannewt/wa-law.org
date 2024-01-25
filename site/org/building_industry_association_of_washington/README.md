@@ -170,7 +170,12 @@
 
 ## [HB 2149](/bill/2023-24/hb/2149/) - Protecting consumer personal information.  👎1 
 
+## [HB 2158](/bill/2023-24/hb/2158/) - Urban growth area boundaries 👍1  
+* 👍💵 Jan Himebaugh
+
 ## [HB 2160](/bill/2023-24/hb/2160/) - Housing development  👎2 
+
+## [HB 2219](/bill/2023-24/hb/2219/) - Affordable housing/tax ex.  👎1 
 
 ## [HB 2236](/bill/2023-24/hb/2236/) - Tech. ed. core plus programs   ❓1
 
@@ -292,7 +297,7 @@
 
 ## [SB 5901](/bill/2023-24/sb/5901/) - Concerning co-living housing. 👍1  
 
-## [SB 5924](/bill/2023-24/sb/5924/) - Concerning access to personnel records  👎1 
+## [SB 5924](/bill/2023-24/sb/5924/) - Access to personnel records  👎1 
 * 👎💵 Tricia Gullion
 
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants  👎1 
@@ -316,6 +321,9 @@
 
 ## [SB 6140](/bill/2023-24/sb/6140/) - Intensive rural development 👍1  
 * 👍💵 Tricia Gullion
+
+## [SB 6143](/bill/2023-24/sb/6143/) - Salmon habitat planning  👎1 
+* 👎💵 Tricia Gullion
 
 ## [SB 6152](/bill/2023-24/sb/6152/) - Housing needs gap 👍1  
 

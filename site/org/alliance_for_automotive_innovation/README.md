@@ -9,5 +9,6 @@
 ## [SB 5504](/bill/2023-24/sb/5504/) - Open vehicle safety recalls 👍1  
 * 👍 Curt Augustine
 
-## [SB 5945](/bill/2023-24/sb/5945/) - Vehicle dealers  👎1 
+## [SB 5945](/bill/2023-24/sb/5945/) - Vehicle dealers 👍1 👎1 
 * 👎 Curt Augustine
+* 👍 David Bright

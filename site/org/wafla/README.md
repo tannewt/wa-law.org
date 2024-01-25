@@ -6,3 +6,5 @@
 
 ## [HB 2226](/bill/2023-24/hb/2226/) - H-2A worker program data  👎1 
 * 👎💵 Scott Dilley
+
+## [SB 6072](/bill/2023-24/sb/6072/) - LTSS commission recs. 👍1  

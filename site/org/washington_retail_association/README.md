@@ -141,7 +141,7 @@
 
 ## [HB 1901](/bill/2023-24/hb/1901/) - Removing the sunset on changes to the unemployment insurance voluntary contribution program. 👍1  
 
-## [HB 1919](/bill/2023-24/hb/1919/) - Modifying the process by which a private moorage facility may sell an abandoned vessel for failure to pay moorage fees. 👍1  
+## [HB 1919](/bill/2023-24/hb/1919/) - Private moorage/abandonment 👍1  
 
 ## [HB 1921](/bill/2023-24/hb/1921/) - Prohibiting the use of certain substances in food.  👎1 
 
@@ -208,6 +208,9 @@
 
 ## [HB 2390](/bill/2023-24/hb/2390/) - Eluding & resisting arrest 👍1  
 * 👍💵 Crystal Leatherman
+
+## [HB 2430](/bill/2023-24/hb/2430/) - Business licensing fees 👍1  
+* 👍💵 Mark Johnson
 
 ## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment 👍1  
 
@@ -374,6 +377,9 @@
 ## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍1  
 * 👍 Rose GUNDERSEN
 
+## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍1  
+* 👍💵 Crystal Leatherman
+
 ## [SB 6080](/bill/2023-24/sb/6080/) - Tourism marketing funding 👍1  
 * 👍💵 Mark Johnson
 
@@ -389,9 +395,14 @@
 ## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management   ❓1
 * ❓ Rose GUNDERSEN
 
+## [SB 6218](/bill/2023-24/sb/6218/) - Dental only plans 👍1  
+
 ## [SB 6242](/bill/2023-24/sb/6242/) - Law enforcement training 👍1  
 * 👍💵 Mark Johnson
 
 ## [SB 6265](/bill/2023-24/sb/6265/) - Grocery coupons  👎1 
 
 ## [SB 6294](/bill/2023-24/sb/6294/) - Fur products   ❓1
+
+## [SB 6296](/bill/2023-24/sb/6296/) - Establishing a retail industry work group. 👍1  
+* 👍 Rose GUNDERSEN

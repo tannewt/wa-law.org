@@ -18,13 +18,7 @@
 
 ## Meetings
 ### Wed 01/24 04:00 PM - Appropriations (APP): HB 2114 Residential tenants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31717&aId=157728&caId=23615&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31717&aId=157728&caId=23615&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31717&aId=157728&caId=23615&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31717&aId=157728&caId=23615&tId=4)
-
-#### 1346 👍 - Pro
+#### 1582 👍 - Pro
 Testifying:
 * Stacey Valenzuela
 * 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
@@ -39,9 +33,11 @@ Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * Chris Walker
 * Mayor Thomas Strobehn
+* 💵Tathagata Pal - Legislative Liaison, Graduate and Professional Student Association at WSU
 * Deborah Wilson
+* Tonya Hennen
 
-#### 304 👎 - Con
+#### 376 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Bruce Becker
@@ -58,11 +54,18 @@ Testifying:
 * Constance Nelson
 * 💵Mike Hoover - [Detente Management](/org/detente_management/)
 * Sam Spiegelman - Citizen Action Defense Fund
+* Beth Daranciang
+* Susan Watkins - self
+* Brad Augustine - Madrona Real Estate Services, LLC
+* Doris McConnell
+* Larry Seto
 * Saint Newton
 * 💵Andrea Reay
 * Laurie Layne
+* Russ Millard - [Manufactured Housing Communities of Washington](/org/manufactured_housing_communities_of_washington/)
+* DAVID NAGEL
 
-#### 12 ❓ - Other
+#### 14 ❓ - Other
 
 ### Thu 01/11 08:00 AM - Housing (HOUS): HB 2114 Residential tenants
 #### 2013 👍 - Pro

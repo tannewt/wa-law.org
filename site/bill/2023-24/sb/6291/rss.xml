@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6291/</link>
 		<description>Updates about SB 6291</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2024 01:14:10 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,22 @@
 			<pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-22/First reading, referred to State Government &amp; Elections.</guid>
+		</item>
+		<item>
+			<title>👍Andrea Smith - BIAW</title>
+			<description>Andrea Smith signed up to testify Pro. They are signed up to represent BIAW.</description>
+			<pubDate>Wed, 24 Jan 2024 01:14:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Andrea/Smith/2024-01-24 01:14:10</guid>
+		</item>
+		<item>
+			<title>👍💵Bill Stauffacher - BIAW</title>
+			<description>Bill Stauffacher signed up to testify Pro. They are a registered lobbyist.</description>
+			<pubDate>Wed, 24 Jan 2024 01:14:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bill/Stauffacher/2024-01-24 01:14:10</guid>
 		</item>
 	</channel>
 </rss>

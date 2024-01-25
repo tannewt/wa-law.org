@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 01/25 08:00 AM - Labor & Commerce (LC): SB 5945 Vehicle dealers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31751&aId=157211&caId=23391&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31751&aId=157211&caId=23391&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31751&aId=157211&caId=23391&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31751&aId=157211&caId=23391&tId=4)
-
-#### 503 👍 - Pro
+#### 772 👍 - Pro
 Testifying:
 * KEVIN JOHNSON - CAR PROS KIA RENTON
 * Tony Pho - Volkswagen of Kirkland
@@ -29,15 +23,27 @@ Testifying:
 * Miles Richardson - University VW/Audi
 * 💵Scott Hazlegrove - WA State Auto Dealers Association
 * EVAN REESE
+* justin irwin
+* David Moreno
+* VONDA HADALLER
+* John Goodwin
+* Nancy Novak - Carter Subaru Shoreline, Sales Consultant
+* David Bright - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)
 
-#### 15 👎 - Con
+#### 66 👎 - Con
 Testifying:
 * Curt Augustine - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)
 * 💵Jeffrey Perry - General Motors
 * Nicolina Hernandez - Toyota Motor North America
 * Thomas Lawson - Ford Motor Company
 * Hannah Steinweg - Rivian
+* Mark Prentice
+* 💵Paula Sardinas - WBBA & EV Advisory Counsel Co-Chair (TES)
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* Scott Moser - Rivian
+* KEVIN BURNS - Rivian
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Jeff Gombosky - [Tesla](/org/tesla/)
+* Steven Hershkowitz - Washington State Department of Commerce

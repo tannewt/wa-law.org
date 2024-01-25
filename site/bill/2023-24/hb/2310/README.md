@@ -17,12 +17,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31763&aId=157295&caId=23553&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31763&aId=157295&caId=23553&tId=4)
 
-#### 7 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Julie O'Neil
 * David Olson - Mayor, Town of Cathlamet
 * John Hughes
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* STETSON PALMER
+* Jim King
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Owen Rowe - Washington State Parks and Recreation Commission

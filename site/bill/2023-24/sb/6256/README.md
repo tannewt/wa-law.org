@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 01/25 08:00 AM - Labor & Commerce (LC): SB 6256 Solar consumer protections
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31751&aId=157529&caId=23396&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31751&aId=157529&caId=23396&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31751&aId=157529&caId=23396&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31751&aId=157529&caId=23396&tId=4)
-
-#### 50 👍 - Pro
+#### 153 👍 - Pro
 Testifying:
 * Jennifer Langdon - Cowlitz Public Utility District
 * DEVER HAFFNER-RATLIFFE - Cowlitz PUD
@@ -25,6 +19,7 @@ Testifying:
 * Bill Will - [Washington Solar Energy Industries Association](/org/washington_solar_energy_industries_association/)
 * Gavin Tenold - [Washington Solar Energy Industries Association](/org/washington_solar_energy_industries_association/)
 * Reeves Clippard - A&R Solar
+* Nora Hawkins - Washington State Department of Commerce
 
 #### 0 👎 - Con
 

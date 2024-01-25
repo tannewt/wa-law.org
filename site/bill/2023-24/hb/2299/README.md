@@ -14,8 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31763&aId=157294&caId=23552&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31763&aId=157294&caId=23552&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Christina Frantz - [Department of Natural Resources](/org/department_of_natural_resources/)
+* Duane Emmons - [Department of Natural Resources](/org/department_of_natural_resources/)
 
-#### 3 👎 - Con
+#### 13 👎 - Con
+Testifying:
+* Claire Newman - Port Gamble S'Klallam Tribe
+* 💵James Paribello - [Swinomish Indian Tribal Community](/org/swinomish_indian_tribal_community/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Trish Rolfe - [Center for Environmental Law & Policy](/org/center_for_environmental_law_&_policy/)
+* Dwan Vyvyan - Yakama Nation

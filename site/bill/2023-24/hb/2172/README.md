@@ -12,6 +12,19 @@
 * 01/18/2024 [Gorge News Center](/org/gorge_news_center/) - [A bill from Rep. Paul Harris that would assist the homeless during an emergency approved in committee](https://gorgenewscenter.com/2024/01/18/a-bill-from-rep-paul-harris-that-would-assist-the-homeless-during-an-emergency-approved-in-committee/#:~:text=House%20Bill%202172)
 
 ## Meetings
+### Thu 02/01 08:00 AM - Capital Budget (CB): SHB 2172 Vacant state agency property
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158011&caId=23704&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158011&caId=23704&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158011&caId=23704&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158011&caId=23704&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/16 04:00 PM - Housing (HOUS): HB 2172 Vacant state agency property
 #### 12 👍 - Pro
 Testifying:

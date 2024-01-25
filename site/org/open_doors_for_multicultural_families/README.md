@@ -37,7 +37,8 @@
 ## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍1  
 * 👍 Angela Jovel
 
-## [HB 2365](/bill/2023-24/hb/2365/) - Respite care 👍1  
+## [HB 2365](/bill/2023-24/hb/2365/) - Respite care 👍2  
+* 👍 Minh Nguyen
 
 ## [HB 2368](/bill/2023-24/hb/2368/) - Refugee & immigrant assist. 👍2  
 

@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31741&aId=157507&caId=23417&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31741&aId=157507&caId=23417&tId=4)
 
-#### 1 👍 - Pro
+#### 28 👍 - Pro
+Testifying:
+* Susanna Jones
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

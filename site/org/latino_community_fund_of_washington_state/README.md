@@ -2,6 +2,8 @@
 
 ## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 
+## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
+
 ## [HB 1889](/bill/2023-24/hb/1889/) - Allowing persons to receive professional licenses and certifications regardless of immigration or citizenship status. 👍1  
 
 ## [HB 1945](/bill/2023-24/hb/1945/) - Streamlining and enhancing program access for persons eligible for food assistance. 👍1  
@@ -27,6 +29,8 @@
 ## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave 👍1  
 
 ## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
+
+## [SB 5910](/bill/2023-24/sb/5910/) - Creating the state department of natural resources' Smokey Bear special license plates. 👍1  
 
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍1  
 

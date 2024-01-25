@@ -50,6 +50,8 @@
 
 ## [HB 2157](/bill/2023-24/hb/2157/) - Vaccine definition 👍1  
 
+## [HB 2239](/bill/2023-24/hb/2239/) - Social-emotional instruction 👍1  
+
 ## [HB 2256](/bill/2023-24/hb/2256/) - Children behavioral health 👍1  
 
 ## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
@@ -107,3 +109,5 @@
 ## [SB 6144](/bill/2023-24/sb/6144/) - Prescribing psychologists 👍1  
 
 ## [SB 6216](/bill/2023-24/sb/6216/) - Student mental health net. 👍1  
+
+## [SB 6258](/bill/2023-24/sb/6258/) - Standardized health plans 👍1  

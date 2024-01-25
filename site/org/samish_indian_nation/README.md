@@ -17,6 +17,8 @@
 
 ## [HB 1753](/bill/2023-24/hb/1753/) - Derelict vessel notices 👍1  
 
+## [HB 2372](/bill/2023-24/hb/2372/) - Tribes/health facilities 👍1  
+
 ## [SB 5033](/bill/2023-24/sb/5033/) - Custodial sexual misconduct 👍1  
 
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍2  
@@ -41,3 +43,7 @@
 ## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍3  
 
 ## [SB 5683](/bill/2023-24/sb/5683/) - Foster care/Indian children 👍1  
+
+## [SB 5910](/bill/2023-24/sb/5910/) - Creating the state department of natural resources' Smokey Bear special license plates. 👍1  
+
+## [SB 6143](/bill/2023-24/sb/6143/) - Salmon habitat planning 👍1  

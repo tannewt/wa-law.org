@@ -14,9 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31731&aId=157136&caId=23560&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31731&aId=157136&caId=23560&tId=4)
 
-#### 293 👍 - Pro
+#### 321 👍 - Pro
+Testifying:
+* Cameron Bowers - Seattle Area Pipe Trades Apprenticeship & as a peer ally
+* Grace Yoo - Washington State Women's Commission
+* Heather Winfrey - Seattle Area Pipe Trades Apprenticeship
+* Justin Coghill - Laborer
 
-#### 118 👎 - Con
+#### 385 👎 - Con
 Testifying:
 * Mitch Neeley
 * America George - Safety Site Solutions
@@ -24,5 +29,9 @@ Testifying:
 * Brody Stohr
 * Ryan Wallin
 * SHELLY MUENSCHER
+* Grace Pizzey - Holaday Parks
+* 💵Michele Willms - [Associated General Contractors of Washington](/org/associated_general_contractors_of_washington/)
+* Tammy Birklid - Merit Construction
+* Jeannette Mcchesney
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other

@@ -114,6 +114,8 @@
 
 ## [HB 2111](/bill/2023-24/hb/2111/) - Subsidized child care 👍1  
 
+## [HB 2116](/bill/2023-24/hb/2116/) - Pharmacist prescriptive auth 👍1  
+
 ## [HB 2242](/bill/2023-24/hb/2242/) - Sexual assault/higher ed. 👍1  
 * 👍 Amanda Kost
 

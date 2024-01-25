@@ -17,13 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31763&aId=157517&caId=23555&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31763&aId=157517&caId=23555&tId=4)
 
-#### 6 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Barbara Posthumus - Lake Washington School District/School Alliance
 * Eric Laliberte - Lake Washington School District Board of Directors
 * Jon Holmen - Lake Washington School District
 * 💵Grace Yuan - [School Alliance](/org/school_alliance/)
 
-#### 9 👎 - Con
+#### 17 👎 - Con
 
 #### 0 ❓ - Other

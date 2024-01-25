@@ -26,3 +26,5 @@
 * 👍 Abigail Cooper
 * 👍💵 Kate Baber
 * 👍 Abigail Cooper
+
+## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  

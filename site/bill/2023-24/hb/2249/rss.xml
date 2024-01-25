@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2249/</link>
 		<description>Updates about HB 2249</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 23 Jan 2024 02:05:32 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 25 Jan 2024 06:47:54 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,12 +23,76 @@
 			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202249</guid>
 		</item>
 		<item>
-			<title>👎Jeannette Mcchesney - self adovates</title>
+			<title>👎Jeannette Mcchesney - Association Of Washington Business</title>
 			<description>Jeannette Mcchesney signed up to testify Con.</description>
 			<pubDate>Tue, 23 Jan 2024 02:05:32 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Jeannette/Mcchesney/2024-01-23 02:05:32</guid>
+		</item>
+		<item>
+			<title>👍Paul Katovich - Highline Grain Growers, Inc.</title>
+			<description>Paul Katovich signed up to testify Pro. They are signed up to represent Highline Grain Growers, Inc..</description>
+			<pubDate>Wed, 24 Jan 2024 02:55:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Paul/Katovich/2024-01-24 02:55:14</guid>
+		</item>
+		<item>
+			<title>👍💵Jessica Spiegel - WSPA</title>
+			<description>Jessica Spiegel signed up to testify Pro. They are signed up to represent WSPA. They are a registered lobbyist.</description>
+			<pubDate>Wed, 24 Jan 2024 04:11:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jessica/Spiegel/2024-01-24 04:11:48</guid>
+		</item>
+		<item>
+			<title>👍Susanna Jones - WSPA</title>
+			<description>Susanna Jones signed up to testify Pro.</description>
+			<pubDate>Wed, 24 Jan 2024 07:01:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Susanna/Jones/2024-01-24 07:01:15</guid>
+		</item>
+		<item>
+			<title>👎Adam Eitmann - Department of Ecology</title>
+			<description>Adam Eitmann signed up to testify Con. They are signed up to represent Department of Ecology.</description>
+			<pubDate>Wed, 24 Jan 2024 07:13:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Adam/Eitmann/2024-01-24 07:13:36</guid>
+		</item>
+		<item>
+			<title>👍Jackson Maynard - Citizen Action Defense Fund</title>
+			<description>Jackson Maynard signed up to testify Pro. They are signed up to represent Citizen Action Defense Fund.</description>
+			<pubDate>Wed, 24 Jan 2024 08:06:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jackson/Maynard/2024-01-24 08:06:45</guid>
+		</item>
+		<item>
+			<title>👎💵Isaac Kastama - Clean &amp; Prosperous Washington</title>
+			<description>Isaac Kastama signed up to testify Con. They are signed up to represent Clean &amp; Prosperous Washington. They are a registered lobbyist.</description>
+			<pubDate>Wed, 24 Jan 2024 09:47:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Isaac/Kastama/2024-01-24 09:47:12</guid>
+		</item>
+		<item>
+			<title>👍eric pratt - Citizen Action Defense Fund</title>
+			<description>eric pratt signed up to testify Pro.</description>
+			<pubDate>Thu, 25 Jan 2024 06:25:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/eric/pratt/2024-01-25 06:25:04</guid>
+		</item>
+		<item>
+			<title>👍💵Peter Godlewski - Association Of Washington Business</title>
+			<description>Peter Godlewski signed up to testify Pro. They are signed up to represent Association Of Washington Business. They are a registered lobbyist.</description>
+			<pubDate>Thu, 25 Jan 2024 06:47:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Peter/Godlewski/2024-01-25 06:47:54</guid>
 		</item>
 	</channel>
 </rss>

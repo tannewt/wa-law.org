@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31741&aId=157505&caId=23415&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31741&aId=157505&caId=23415&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * 💵Emily Shay - Association of Washington Buisness
+* Steve Ewing - Dept. of Revenue
 
 #### 0 👎 - Con
 

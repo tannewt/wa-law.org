@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 01/18 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6168 International leadership

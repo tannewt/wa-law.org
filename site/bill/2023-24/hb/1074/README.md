@@ -14,7 +14,6 @@
 * 03/04/2023 [House Republicans](/org/house_republicans/) - [Halfway through the 2023 legislative session | Washington State House Republicans](https://houserepublicans.wa.gov/current/halfway-through-the-2023-legislative-session/#:~:text=House%20Bill%201074)
 * 03/02/2023 [House Democrats](/org/house_democrats/) - [House passes Thai bill addressing landlord damage claims – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/02/house-passes-thai-bill-addressing-landlord-damage-claims/#:~:text=HB%201074)
 * 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB%201074)
-* 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](http://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201074)
 * 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201074)
 * [KIRO7](/org/kiro7/) - [‘WA needs 1 million new homes within next 20 years’: Suite of bills target the housing crisis – KIRO 7 News Seattle](https://www.kiro7.com/news/local/wa-needs-1-million-new-homes-within-next-20-years-suite-bills-target-housing-crisis/UDGREATSP5FQXCOF6E5GUFIF5A/#:~:text=HB%201074)
 

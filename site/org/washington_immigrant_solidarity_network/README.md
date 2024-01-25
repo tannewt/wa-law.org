@@ -7,6 +7,8 @@
 
 ## [HB 1889](/bill/2023-24/hb/1889/) - Allowing persons to receive professional licenses and certifications regardless of immigration or citizenship status. 👍1  
 
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+
 ## [HB 2309](/bill/2023-24/hb/2309/) - Washington 13 free guarantee 👍1  
 
 ## [HB 2368](/bill/2023-24/hb/2368/) - Refugee & immigrant assist. 👍1  

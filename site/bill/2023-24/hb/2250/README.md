@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Wed 01/24 01:30 PM - State Government & Tribal Relations (SGOV): HB 2250 Local elections
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31747&aId=157226&caId=23529&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31747&aId=157226&caId=23529&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31747&aId=157226&caId=23529&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31747&aId=157226&caId=23529&tId=4)
-
-#### 1654 👍 - Pro
+#### 1709 👍 - Pro
 Testifying:
 * Cindy Madigan - League of Women Voters of Washington
 * 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
@@ -33,7 +27,7 @@ Testifying:
 * 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
 * Lisa Parshley - [City of Olympia](/org/city_of_olympia/)
 
-#### 1768 👎 - Con
+#### 1843 👎 - Con
 Testifying:
 * Cemal Richards
 * Theresa Schrempp
@@ -48,6 +42,7 @@ Testifying:
 * Eryn Jordan - Washington Election Integrity Coalition United
 * Mary Long - Conservative Ladies of Washington
 * Sharon Hanek
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
 #### 5 ❓ - Other
 Testifying:

@@ -14,7 +14,7 @@
 
 ## [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims 👍2  
 
-## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
+## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍2  
 
 ## [HB 1078](/bill/2023-24/hb/1078/) - Urban forest management   ❓1
 
@@ -167,6 +167,8 @@
 
 ## [HB 1986](/bill/2023-24/hb/1986/) - Adding purposes for the use of existing firefighter safety funding. 👍1  
 
+## [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍1  
+
 ## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍1  
 
 ## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍1  
@@ -186,6 +188,8 @@
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
+## [HB 2063](/bill/2023-24/hb/2063/) - Providing an exemption from the real estate excise tax for transfers of property to qualifying low-income first-time homebuyers. 👍1  
+
 ## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍1  
 * 👍 Amy Smith
 
@@ -204,6 +208,8 @@
 ## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities 👍1  
 
 ## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍1  
+
+## [HB 2219](/bill/2023-24/hb/2219/) - Affordable housing/tax ex. 👍1  
 
 ## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍1  
 
@@ -225,6 +231,8 @@
 ## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
 
 ## [HB 2319](/bill/2023-24/hb/2319/) - Substance use treatment 👍1  
+
+## [HB 2323](/bill/2023-24/hb/2323/) - Rent payments/credit reports 👍1  
 
 ## [HB 2329](/bill/2023-24/hb/2329/) - Insurance market/housing 👍1  
 
@@ -386,6 +394,8 @@
 
 ## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍1  
 
+## [SB 6007](/bill/2023-24/sb/6007/) - Grocery workers 👍1  
+
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development 👍1  
 
 ## [SB 6040](/bill/2023-24/sb/6040/) - Public works payments 👍1  
@@ -395,12 +405,20 @@
 
 ## [SB 6135](/bill/2023-24/sb/6135/) - TANF transitional assistance 👍1  
 
+## [SB 6157](/bill/2023-24/sb/6157/) - Civil service 👍1  
+
 ## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍1  
+
+## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
 
 ## [SB 6212](/bill/2023-24/sb/6212/) - Rent payments/credit reports 👍1  
 
 ## [SB 6228](/bill/2023-24/sb/6228/) - Substance use treatment 👍1  
 
 ## [SB 6242](/bill/2023-24/sb/6242/) - Law enforcement training 👍1  
+
+## [SB 6245](/bill/2023-24/sb/6245/) - Refugee & immigrant assist. 👍1  
+
+## [SB 6300](/bill/2023-24/sb/6300/) - College grant/public assist. 👍1  
 
 ## [ESJM 8006](/bill/2023-24/esjm/8006/) - Universal health care 👍1  

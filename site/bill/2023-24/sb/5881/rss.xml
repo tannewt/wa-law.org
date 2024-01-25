@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5881/</link>
 		<description>Updates about SB 5881</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 12 Jan 2024 09:28:21 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -60,6 +60,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/wendy/sorensen/2024-01-12 09:28:21</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-24/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

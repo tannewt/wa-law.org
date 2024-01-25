@@ -13,6 +13,8 @@
 ## [HB 1870](/bill/2023-24/hb/1870/) - Promoting economic development by increasing opportunities for local communities to secure federal funding. 👍1  
 * 👍 Richa Sigdel
 
+## [HB 2307](/bill/2023-24/hb/2307/) - Public records reviews 👍2  
+
 ## [SB 5160](/bill/2023-24/sb/5160/) - Organized retail theft 👍1  
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing   ❓1

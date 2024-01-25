@@ -8,16 +8,15 @@
 
 ## Meetings
 ### Thu 01/25 08:00 AM - Human Services (HS): SB 6245 Refugee & immigrant assist.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31701&aId=157858&caId=23622&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31701&aId=157858&caId=23622&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31701&aId=157858&caId=23622&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31701&aId=157858&caId=23622&tId=4)
-
-#### 6 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
+* Thomas Miles - [City of Tukwila](/org/city_of_tukwila/)
+* 💵Eli Goss - OneAmerica
 * Michael Padilla Ocampo - [King County](/org/king_county/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Babs Roberts - DSHS - Economic Services Administration - Community Services Division (Director)
+* Sarah Peterson - DSHS - ESA - CSD - Office of Refugee and Immigrant Assistance

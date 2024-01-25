@@ -8,14 +8,12 @@
 
 ## Meetings
 ### Thu 01/25 08:00 AM - Law & Justice (LAW): SB 5976 Dogs at large
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31693&aId=156923&caId=23387&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31693&aId=156923&caId=23387&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31693&aId=156923&caId=23387&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31693&aId=156923&caId=23387&tId=4)
+#### 5 👍 - Pro
+Testifying:
+* Ray Maycumber - Ferry County Sheriff
 
-#### 2 👍 - Pro
-
-#### 8 👎 - Con
+#### 32 👎 - Con
+Testifying:
+* 💵Carey Morris - [Humane Society of the United States](/org/humane_society_of_the_united_states/)
 
 #### 0 ❓ - Other

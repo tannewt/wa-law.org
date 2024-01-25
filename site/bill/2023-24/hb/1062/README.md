@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/21/2024 [MyNorthwest](/org/mynorthwest/) - [Amanda Knox testifies in Olympia about police interrogation bill - MyNorthwest.com](https://mynorthwest.com/3947284/amanda-knox-testifies-about-police-interrogation-bill/#:~:text=House%20Bill%201062)

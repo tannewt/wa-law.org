@@ -340,7 +340,7 @@
 ## [HB 1998](/bill/2023-24/hb/1998/) - Co-living housing 👍1  
 * 👍 Morgan Irwin
 
-## [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍1  
+## [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍2  
 * 👍💵 Amy Anderson
 
 ## [HB 2026](/bill/2023-24/hb/2026/) - Rental income/property tax 👍1  
@@ -351,7 +351,7 @@
 ## [HB 2039](/bill/2023-24/hb/2039/) - Modifying the appeals process for environmental and land use matters. 👍1  
 * 👍💵 Peter Godlewski
 
-## [HB 2045](/bill/2023-24/hb/2045/) - Creating an adopt a fish barrier program. 👍1  
+## [HB 2045](/bill/2023-24/hb/2045/) - Adopt a fish barrier program 👍1  
 
 ## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management  👎1 
 * 👎💵 Peter Godlewski
@@ -386,6 +386,9 @@
 
 ## [HB 2156](/bill/2023-24/hb/2156/) - Solar consumer protections 👍1  
 * 👍💵 Peter Godlewski
+
+## [HB 2158](/bill/2023-24/hb/2158/) - Urban growth area boundaries 👍1  
+* 👍 Morgan Irwin
 
 ## [HB 2160](/bill/2023-24/hb/2160/) - Housing development  👎1 
 * 👎 Morgan Irwin
@@ -433,11 +436,16 @@
 
 ## [HB 2321](/bill/2023-24/hb/2321/) - Middle housing requirements 👍1  
 
+## [HB 2323](/bill/2023-24/hb/2323/) - Rent payments/credit reports  👎1 
+
 ## [HB 2360](/bill/2023-24/hb/2360/) - Digital workforce 👍2  
 * 👍💵 Emily Wittman
 * 👍💵 Emily Wittman
 
 ## [HB 2373](/bill/2023-24/hb/2373/) - Adopt-a-highway program  👎1 
+
+## [HB 2425](/bill/2023-24/hb/2425/) - Rental support program   ❓1
+* ❓ Morgan Irwin
 
 ## [SB 5041](/bill/2023-24/sb/5041/) - Motor carrier safety 👍1  
 
@@ -701,6 +709,8 @@
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development  👎1 
 * 👎 Morgan Irwin
 
+## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍1  
+
 ## [SB 6055](/bill/2023-24/sb/6055/) - Natural resource indus. dev. 👍1  
 
 ## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage   ❓1
@@ -747,3 +757,7 @@
 ## [SB 6257](/bill/2023-24/sb/6257/) - Hospital charity/residency 👍1  
 
 ## [SB 6258](/bill/2023-24/sb/6258/) - Standardized health plans  👎1 
+
+## [SB 6296](/bill/2023-24/sb/6296/) - Establishing a retail industry work group. 👍1  
+
+## [SB 6300](/bill/2023-24/sb/6300/) - College grant/public assist. 👍1  

@@ -23,6 +23,8 @@
 * ❓💵 Bryce Yadon
 * ❓💵 Bryce Yadon
 
+## [HB 2425](/bill/2023-24/hb/2425/) - Rental support program 👍1  
+
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  
 * 👍💵 Bryce Yadon
 

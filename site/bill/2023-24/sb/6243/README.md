@@ -14,14 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31728&aId=157577&caId=23568&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31728&aId=157577&caId=23568&tId=4)
 
-#### 11 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * 💵Adam Day - [First Mode](/org/first_mode/)
 * 💵Emily Shay - Association of Washington Buisness
 * Michelle Detwiler - [Renewable Hydrogen Alliance](/org/renewable_hydrogen_alliance/)
+* Sarah Clark - Seattle Metropolitan Chamber of Commerce
+* 💵Isaac Kastama - Clean & Prosperous Washington
+* KARL DYE - TRIDEC
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Steve Ewing - Dept. of Revenue
+* Chris Green - Commerce

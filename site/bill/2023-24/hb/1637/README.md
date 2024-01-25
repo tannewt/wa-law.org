@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
 * 04/10/2023 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Orwall’s foreclosure protections measures head to Governor – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/10/legislative-news-orwalls-foreclosure-protections-measures-head-to-governor/#:~:text=HB%201637)

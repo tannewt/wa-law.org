@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1272/</link>
 		<description>Updates about HB 1272</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 16 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -167,6 +167,20 @@
 			<pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-16/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>2nd substitute bill substituted.</title>
+			<description>2nd substitute bill substituted.</description>
+			<pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-24/2nd substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 57; nays, 33; absent, 0; excused, 8.</title>
+			<description>Third reading, passed; yeas, 57; nays, 33; absent, 0; excused, 8.</description>
+			<pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-24/Third reading, passed; yeas, 57; nays, 33; absent, 0; excused, 8.</guid>
 		</item>
 	</channel>
 </rss>

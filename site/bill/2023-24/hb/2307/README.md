@@ -8,20 +8,16 @@
 
 ## Meetings
 ### Wed 01/24 01:30 PM - State Government & Tribal Relations (SGOV): HB 2307 Public records reviews
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31747&aId=157227&caId=23530&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31747&aId=157227&caId=23530&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31747&aId=157227&caId=23530&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31747&aId=157227&caId=23530&tId=4)
-
-#### 30 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Glenn Johnson
 * Deanna Syron - City of North Bonneville
+* David M Leath - City of Davenport
+* Janet Pope - Lynnwood Public Facilities District
 
-#### 42 👎 - Con
+#### 49 👎 - Con
 Testifying:
 * Joe Kunzler
 * Arthur West
@@ -35,5 +31,7 @@ Testifying:
 * Colleen McAleer - Laurelhurst Community Club Council
 * Elizabeth Weeks
 * Tom Thiersch
+* Francesca Lyman
+* 💵Rowland Thompson - Allied Daily Newspapers, WA Newspaper Publishers Assn, and WSABroadcasters
 
 #### 0 ❓ - Other

@@ -21,6 +21,9 @@
 * 👎 Carma Matti-Jackson
 * 👎 Carma Matti-Jackson
 
+## [HB 2467](/bill/2023-24/hb/2467/) - Increasing access to the long-term services and supports trust. 👍1  
+* 👍 Lauri St. Ours
+
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  ❓1
 * 👍 Jeff Gombosky
 * ❓ Carma Matti-Jackson

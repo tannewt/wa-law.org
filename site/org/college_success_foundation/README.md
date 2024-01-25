@@ -143,3 +143,5 @@
 ## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍1  
 
 ## [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation 👍1  
+
+## [SB 6300](/bill/2023-24/sb/6300/) - College grant/public assist. 👍1  

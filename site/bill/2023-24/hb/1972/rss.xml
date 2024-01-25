@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1972/</link>
 		<description>Updates about HB 1972</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 05:50:26 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2024 01:56:31 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -75,6 +75,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Christopher/Bundy/2024-01-22 05:50:26</guid>
+		</item>
+		<item>
+			<title>👍Salah Ansary - Lutheran Community Services Northwest</title>
+			<description>Salah Ansary signed up to testify Pro. They are signed up to represent Lutheran Community Services Northwest.</description>
+			<pubDate>Wed, 24 Jan 2024 01:56:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Salah/Ansary/2024-01-24 01:56:31</guid>
 		</item>
 	</channel>
 </rss>

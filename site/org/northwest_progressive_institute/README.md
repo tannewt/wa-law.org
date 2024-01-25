@@ -256,4 +256,7 @@
 
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  
 
+## [SB 6249](/bill/2023-24/sb/6249/) - Homeowner property tax ex. 👍1  
+* 👍 Andrew Villeneuve
+
 ## [SB 6269](/bill/2023-24/sb/6269/) - Alt. voter verification 👍1  

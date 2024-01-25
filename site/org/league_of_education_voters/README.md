@@ -38,7 +38,11 @@
 
 ## [HB 2053](/bill/2023-24/hb/2053/) - Establishing the ninth grade success grant program. 👍1  
 
+## [HB 2130](/bill/2023-24/hb/2130/) - Special education services 👍1  
+
 ## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍1  
+
+## [HB 2239](/bill/2023-24/hb/2239/) - Social-emotional instruction 👍1  
 
 ## [HB 2282](/bill/2023-24/hb/2282/) - African American studies 👍1  
 
@@ -87,5 +91,7 @@
 
 ## [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation  👎1 
 * 👎 Eric Holzapfel
+
+## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍1  
 
 ## [SB 6123](/bill/2023-24/sb/6123/) - Classified school employees 👍1  

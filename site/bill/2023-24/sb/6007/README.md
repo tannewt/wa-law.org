@@ -8,16 +8,17 @@
 
 ## Meetings
 ### Thu 01/25 08:00 AM - Labor & Commerce (LC): SB 6007 Grocery workers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31751&aId=157210&caId=23390&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31751&aId=157210&caId=23390&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31751&aId=157210&caId=23390&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31751&aId=157210&caId=23390&tId=4)
-
-#### 275 👍 - Pro
+#### 526 👍 - Pro
 Testifying:
 * Isaac Wagnitz - UFCW Local 367
+* Celeste Rogers
+* Tom Lambro - UFCW 3000
+* Yasmin Ashur
+* James Perez
+* Michael Whalen - UFCW367
 
-#### 4 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* 💵Katie Beeson - Washington Food Industry Association
 
-#### 0 ❓ - Other
+#### 9 ❓ - Other

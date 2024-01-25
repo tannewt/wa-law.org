@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Thu 02/02 10:30 AM - Health & Long Term Care (HLTC): SB 5481 Uniform telemedicine act

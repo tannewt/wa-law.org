@@ -11,16 +11,17 @@
 
 ## Meetings
 ### Thu 01/25 08:00 AM - Education (ED): HB 2130 Special education services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31757&aId=157263&caId=23536&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31757&aId=157263&caId=23536&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31757&aId=157263&caId=23536&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31757&aId=157263&caId=23536&tId=4)
-
-#### 56 👍 - Pro
+#### 70 👍 - Pro
 Testifying:
 * Hodan Mohamed - Washington Multicultural Link and Seattle Council PTSA
+* Lara Hruska - Cedar Law PLLC
+* Ian Crosby
+* Marin Marks - Washington School Counselor Association (WSCA)
+* Alyssa Fairbanks - Office of Superintendent of Public Instruction
+* Greg Crowder
 
 #### 6 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Franklin Day - Cheney School District

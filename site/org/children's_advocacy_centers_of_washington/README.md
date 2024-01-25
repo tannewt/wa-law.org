@@ -68,6 +68,10 @@
 ## [SB 6109](/bill/2023-24/sb/6109/) - Children and families 👍2  
 * 👍 Paula Reed
 
+## [SB 6110](/bill/2023-24/sb/6110/) - Child fatalities 👍1  
+
 ## [SB 6135](/bill/2023-24/sb/6135/) - TANF transitional assistance 👍1  
 
 ## [SB 6216](/bill/2023-24/sb/6216/) - Student mental health net. 👍1  
+
+## [SB 6298](/bill/2023-24/sb/6298/) - Concerning the duty of the clergy to report child abuse or neglect. 👍1  

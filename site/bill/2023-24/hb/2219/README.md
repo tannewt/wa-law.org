@@ -17,15 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31703&aId=157040&caId=23549&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31703&aId=157040&caId=23549&tId=4)
 
-#### 197 👍 - Pro
+#### 224 👍 - Pro
 Testifying:
 * Maureen Fife - Tacoma-Pierce Co Habitat for Humanity
 * Michelle Girardot - Habitat for Humanity Spokane
 * Colleen Carmichael - Quixote Communities
 * Kiara Daniels - Northwest Community Land Trust
 * Sarah Clark - Seattle Metro Chamber
+* Tina Tate - Skagit Habitat for Humanity
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 

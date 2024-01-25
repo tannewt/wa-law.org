@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1648/</link>
 		<description>Updates about HB 1648</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 16 Jan 2024 12:11:29 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2024 10:40:46 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -245,6 +245,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Michael/O'Neil/2024-01-16 12:11:29</guid>
+		</item>
+		<item>
+			<title>'TSWIFT' bill proposal would make ticket-buying easier in WA | king5.com</title>
+			<description>News article &quot;'TSWIFT' bill proposal would make ticket-buying easier in WA | king5.com&quot; from KING5.</description>
+			<pubDate>Wed, 24 Jan 2024 10:40:46 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.king5.com/article/news/politics/state-politics/taylor-swift-bill-proposal-ticket-buying-easier/281-9a8f5e89-9f0f-4019-8970-8849f7d886ee#:~:text=House%20Bill%201648</guid>
 		</item>
 	</channel>
 </rss>

@@ -43,7 +43,7 @@
 
 ## [HB 1873](/bill/2023-24/hb/1873/) - Concerning office of public defense social service workers for parents in child welfare cases.  👎1 
 
-## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍1  
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍2  
 
 ## [HB 1893](/bill/2023-24/hb/1893/) - Unemp ins/strikes & lockouts 👍1  
 

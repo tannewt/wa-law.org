@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31723&aId=157100&caId=23424&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31723&aId=157100&caId=23424&tId=4)
 
-#### 203 👍 - Pro
+#### 239 👍 - Pro
 Testifying:
 * Constance Nelson
 * Jeffrey Wright - Small Landlord
@@ -22,8 +22,10 @@ Testifying:
 * Patricia Hoendermis - Yakima Valley Landlords Assoc.
 * William Shadbolt - [Washington Business Properties Association](/org/washington_business_properties_association/)
 * Derek Vanderwood - Clark County Superior Court
+* Yugala Priti Wright
+* Leslie Boeshart
 
-#### 16 👎 - Con
+#### 20 👎 - Con
 Testifying:
 * 💵Edmund Witter - [King County Bar Association](/org/king_county_bar_association/)
 

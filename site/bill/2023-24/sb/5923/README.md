@@ -12,6 +12,21 @@
 * 01/07/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: Welcome to the 2024 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/07/this-week-in-the-senate-week-1-welcome-to-the-2024-session/#:~:text=SB%205923)
 
 ## Meetings
+### Tue 01/30 04:00 PM - Ways & Means (WM): SSB 5923 Substance use prevention ed.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158155&caId=23682&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158155&caId=23682&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158155&caId=23682&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158155&caId=23682&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* Salim Nice - Mayor Mercer Island
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/11 01:30 PM - Early Learning & K-12 Education (EDU): SB 5923 Substance use prevention ed.
 #### 1 👍 - Pro
 Testifying:

@@ -10,3 +10,15 @@
 * 01/16/2024 [The Center Square](/org/the_center_square/) - [Spokane lawmaker resurrects $86 million taxpayer-funded school lunch plan | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_dafbd75e-b4cb-11ee-a5a5-b7c4f5d22d7e.html#:~:text=Senate%20Bill%205964)
 
 ## Meetings
+### Mon 01/29 01:30 PM - Early Learning & K-12 Education (EDU): SB 5964 Free school meals
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31812&aId=157796&caId=23647&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31812&aId=157796&caId=23647&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31812&aId=157796&caId=23647&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31812&aId=157796&caId=23647&tId=4)
+
+#### 3 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

@@ -26,6 +26,9 @@
 ## [HB 2127](/bill/2023-24/hb/2127/) - Incentives to return to work 👍1  
 * 👍 Lauren Gubbe
 
+## [HB 2266](/bill/2023-24/hb/2266/) - Construction/sanitary cond.  👎1 
+* 👎💵 Michele Willms
+
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎2 
 
 ## [SB 5303](/bill/2023-24/sb/5303/) - Public works trust account 👍1  

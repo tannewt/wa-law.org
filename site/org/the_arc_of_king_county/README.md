@@ -129,6 +129,8 @@
 
 ## [HB 2184](/bill/2023-24/hb/2184/) - DD parental caregivers 👍1  
 
+## [HB 2239](/bill/2023-24/hb/2239/) - Social-emotional instruction 👍1  
+
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
 ## [HB 2279](/bill/2023-24/hb/2279/) - Dev. disabilities waiver use 👍2  
@@ -249,7 +251,8 @@
 
 ## [SB 6126](/bill/2023-24/sb/6126/) - Respite care 👍1  
 
-## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍2  
+## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍3  
+* 👍💵 Ramona Hattendorf
 * 👍💵 Ramona Hattendorf
 
 ## [SB 6208](/bill/2023-24/sb/6208/) - Public school materials 👍1  

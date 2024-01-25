@@ -1,5 +1,7 @@
 # Front and Centered
 
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍1  
+
 ## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍2  
 
 ## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓2

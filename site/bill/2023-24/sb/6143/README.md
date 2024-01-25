@@ -14,14 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31762&aId=157393&caId=23407&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31762&aId=157393&caId=23407&tId=4)
 
-#### 34 👍 - Pro
+#### 160 👍 - Pro
 
-#### 36 👎 - Con
+#### 533 👎 - Con
 Testifying:
 * 💵Dan Wood - WA State Dairy Federation
 * Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Tricia Gullion - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* John Worthington
+* Susanna Jones
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Lisa Sanford
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Chris Conklin - WDFW

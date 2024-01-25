@@ -10,7 +10,7 @@
 ### Wed 01/10 01:30 PM - Consumer Protection & Business (CPB): HB 2083 Payday lending/small loans
 #### 57 👍 - Pro
 Testifying:
-* Andrew Kushner - [Center for Responsible Lending](/org/center_for_responsible_lending/)
+* 💵Andrew Kushner - [Center for Responsible Lending](/org/center_for_responsible_lending/)
 * 💵Shaun Scott
 * Suzy Fonseca - Lower Valley Credit Union, a division of Self Help Federal Credit Union
 * 💵Jean Hill - Washington State Catholic Conference

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6298/</link>
 		<description>Updates about SB 6298</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 23 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2024 11:45:05 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -37,6 +37,46 @@
 			<pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-23/First reading, referred to Human Services.</guid>
+		</item>
+		<item>
+			<title>❓💵Jean Hill - Washington State Catholic Conference</title>
+			<description>Jean Hill signed up to testify Other. They are signed up to represent Washington State Catholic Conference. They are a registered lobbyist.</description>
+			<pubDate>Wed, 24 Jan 2024 01:09:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jean/Hill/2024-01-24 01:09:46</guid>
+		</item>
+		<item>
+			<title>👍Christopher Marino Hardin - Association of Secular Elected Officials</title>
+			<description>Christopher Marino Hardin signed up to testify Pro.</description>
+			<pubDate>Wed, 24 Jan 2024 01:32:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Christopher Marino/Hardin/2024-01-24 01:32:20</guid>
+		</item>
+		<item>
+			<title>👍💵Larry Shannon - Washington State Association for Justice</title>
+			<description>Larry Shannon signed up to testify Pro. They are signed up to represent Washington State Association for Justice. They are a registered lobbyist.</description>
+			<pubDate>Wed, 24 Jan 2024 01:43:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Larry/Shannon/2024-01-24 01:43:50</guid>
+		</item>
+		<item>
+			<title>👍Mitch Melin - Washington State Association for Justice</title>
+			<description>Mitch Melin signed up to testify Pro.</description>
+			<pubDate>Wed, 24 Jan 2024 05:19:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mitch/Melin/2024-01-24 05:19:12</guid>
+		</item>
+		<item>
+			<title>❓Timothy LAW - Law &amp; Law</title>
+			<description>Timothy LAW signed up to testify Other. They are signed up to represent Law &amp; Law.</description>
+			<pubDate>Wed, 24 Jan 2024 11:45:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Timothy/LAW/2024-01-24 11:45:05</guid>
 		</item>
 	</channel>
 </rss>

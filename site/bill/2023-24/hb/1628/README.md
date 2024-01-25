@@ -24,7 +24,6 @@
 * 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB%201628)
 * 02/08/2023 [The Center Square](/org/the_center_square/) - ['Bizarre incentives': Critics warn real estate tax bill would warp Washington housing market | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_7c6b50b6-a739-11ed-b450-efe71155c7f6.html#:~:text=HB%201628)
 * 02/05/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/05/the-house-hot-sheet-for-week-5-of-the-2023-legislative-session/#:~:text=HB%201628)
-* 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](http://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201628)
 * 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201628)
 * [Crosscut](/org/crosscut/) - [WA looks to address housing shortage with density, zoning changes | Crosscut](https://crosscut.com/politics/2023/03/washington-has-shot-passing-massive-housing-reform-package#:~:text=House%20Bill%201628)
 
@@ -117,7 +116,7 @@ Testifying:
 * Ginger Kwan - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
 * Marc Cote - Parkview Services
 * Scott Livengood - Alpha Supported Living Services
-* 💵Stacy Dym - The Arc of Washington State
+* 💵Stacy Dym - [The Arc of Washington State](/org/the_arc_of_washington_state/)
 * Regan Bolli - [City of Covington](/org/city_of_covington/)
 * Kelli Curtis - Council member,  City of Kirkland
 * Corey Cabrera - [Vancouver Housing Authority](/org/vancouver_housing_authority/)

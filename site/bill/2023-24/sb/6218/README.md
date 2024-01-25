@@ -14,17 +14,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31744&aId=157192&caId=23400&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31744&aId=157192&caId=23400&tId=4)
 
-#### 358 👍 - Pro
+#### 383 👍 - Pro
 Testifying:
 * Ryan Lemke - Wallingford Family Dentistry
 * Liselotte Black - Henager Black Salesky Dentistry
 * John Gibbons - Immediate Past President, Washington State Dental Association
+* 💵Kevin Schilling - Washington State Dental Association
 
-#### 120 👎 - Con
+#### 199 👎 - Con
 Testifying:
+* MaryAnne Lindeblad - Arcora Foundation
+* Luzmila Freese - Latino Community Fund
 * Owen Urech - National Association of Dental Plans
 * 💵Melissa Johnson - Willamette Dental Group
+* 💵Paula Sardinas - FMS Global Strategies /WBBA
+* Jeff Album - Dentegra Insurance Company
+* Carol Nelson - Delta Dental of WA
+* Eric Lo - Delta Dental of WA
+* 💵Sean Pickard - Delta Dental of WA
+* 💵Albert Sardinas - WBBA
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner

@@ -37,6 +37,9 @@
 ## [HB 2163](/bill/2023-24/hb/2163/) - Liquor licensee advertising 👍1  
 * 👍 Josh McDonald
 
+## [HB 2196](/bill/2023-24/hb/2196/) - Alcohol concentration/DUI  👎1 
+* 👎 Josh McDonald
+
 ## [HB 2204](/bill/2023-24/hb/2204/) - Emergency liquor permits 👍1  
 * 👍 Josh McDonald
 

@@ -13,6 +13,6 @@
 
 #### 68 👎 - Con
 Testifying:
-* 💵Stacy Dym - The Arc of Washington State
+* 💵Stacy Dym - [The Arc of Washington State](/org/the_arc_of_washington_state/)
 
 #### 1 ❓ - Other

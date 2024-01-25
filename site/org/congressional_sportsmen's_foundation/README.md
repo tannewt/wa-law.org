@@ -21,3 +21,6 @@
 * 👍💵 Marie Neumiller
 
 ## [SB 6237](/bill/2023-24/sb/6237/) - Wildlife safe passages 👍1  
+
+## [SB 6294](/bill/2023-24/sb/6294/) - Fur products   ❓1
+* ❓💵 Marie Neumiller

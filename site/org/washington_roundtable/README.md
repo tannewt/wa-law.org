@@ -34,6 +34,9 @@
 
 ## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍1  
 
+## [HB 2077](/bill/2023-24/hb/2077/) - GET program participation 👍1  
+* 👍💵 Neil Strege
+
 ## [HB 2308](/bill/2023-24/hb/2308/) - Existing structures/housing 👍1  
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍2  
@@ -70,3 +73,5 @@
 ## [SB 5809](/bill/2023-24/sb/5809/) - Charter schools/enrichment 👍1  
 
 ## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍1  
+
+## [SB 6277](/bill/2023-24/sb/6277/) - Transportation partnerships 👍1  

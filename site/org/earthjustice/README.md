@@ -52,6 +52,8 @@
 
 ## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management 👍1  
 
+## [HB 2372](/bill/2023-24/hb/2372/) - Tribes/health facilities 👍1  
+
 ## [HB 2376](/bill/2023-24/hb/2376/) - CCA public entity oblig.  👎1 
 
 ## [HB 2423](/bill/2023-24/hb/2423/) - Gray wolf management  👎1 
@@ -83,6 +85,8 @@
 
 ## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
 
+## [SB 5910](/bill/2023-24/sb/5910/) - Creating the state department of natural resources' Smokey Bear special license plates. 👍1  
+
 ## [SB 5921](/bill/2023-24/sb/5921/) - Concerning tribal representation on the state conservation commission. 👍1  
 
 ## [SB 5939](/bill/2023-24/sb/5939/) - Livestock wolf predation  👎1 
@@ -90,6 +94,8 @@
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
 
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  
+
+## [SB 6143](/bill/2023-24/sb/6143/) - Salmon habitat planning 👍1  
 
 ## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management 👍1  
 

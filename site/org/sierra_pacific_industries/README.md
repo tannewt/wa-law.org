@@ -21,7 +21,7 @@
 * 👎 Bill Turner
 * 👍 Bill Turner
 
-## [HB 2045](/bill/2023-24/hb/2045/) - Creating an adopt a fish barrier program. 👍1  
+## [HB 2045](/bill/2023-24/hb/2045/) - Adopt a fish barrier program 👍1  
 
 ## [HB 2207](/bill/2023-24/hb/2207/) - Solid waste dumping 👍1  
 

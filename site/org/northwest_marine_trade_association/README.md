@@ -10,7 +10,7 @@
 ## [HB 1906](/bill/2023-24/hb/1906/) - Vessel length/nonresident 👍2  
 * 👍 Roman Daniels-Brown
 
-## [HB 1919](/bill/2023-24/hb/1919/) - Modifying the process by which a private moorage facility may sell an abandoned vessel for failure to pay moorage fees. 👍2  
+## [HB 1919](/bill/2023-24/hb/1919/) - Private moorage/abandonment 👍2  
 * 👍 Roman Daniels-Brown
 
 ## [HB 1959](/bill/2023-24/hb/1959/) - Extending parts of the paid family and medical leave program to employers with fewer than 50 employees.  👎1 

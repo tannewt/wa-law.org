@@ -11,6 +11,21 @@
 * 01/19/2024 [MyNorthwest](/org/mynorthwest/) - [Bill proposing child removal from homes with fentanyl gets emotional - MyNorthwest.com](https://mynorthwest.com/3947163/bill-proposes-child-removal-homes-fentanyl-sparks-charged-debate/#:~:text=Senate%20Bill%206109)
 
 ## Meetings
+### Mon 01/29 04:00 PM - Ways & Means (WM): SSB 6109 Children and families
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158143&caId=23649&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158143&caId=23649&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158143&caId=23649&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158143&caId=23649&tId=4)
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+Testifying:
+* 💵Malika Lamont - VOCAL-WA
+
+#### 0 ❓ - Other
+
 ### Thu 01/18 08:00 AM - Human Services (HS): SB 6109 Children and families
 #### 11 👍 - Pro
 Testifying:

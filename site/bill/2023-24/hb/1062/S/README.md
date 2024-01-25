@@ -1,0 +1,51 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1062](/bill/2023-24/hb/1062/) > [Substitute Bill](/bill/2023-24/hb/1062/S/)
+
+# HB 1062 - Law enf. officers/deception
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1062-S.pdf)
+
+## Section 1
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Custodial interrogation" means express questioning or other actions or words by a law enforcement officer which are reasonably likely to elicit an incriminating response from an individual and occurs when reasonable individuals in the same circumstances would consider themselves in custody. A "custodial interrogation" does not include any circumstances where the court finds that the officer was not required to give the individual a warning and advise the individual of his or her rights before eliciting a response, including but not limited to questioning, actions, or words by the officer during a traffic stop, sting operation, or routine booking process.
+
+2. "Deception" means the knowing communication of false facts about evidence or unauthorized statements regarding leniency by a law enforcement officer to a person who is the subject of custodial interrogation, except where the officer has a reasonable belief that using such tactics is necessary to:
+
+    a. Protect the integrity of a previous or ongoing undercover law enforcement operation;
+
+    b. Protect the integrity of an ongoing criminal investigation;
+
+    c. Protect the identity or ensure the safety of an officer, confidential informant, witness, victim, or other individual; or
+
+    d. Confirm the existence, identity, or whereabouts of a suspected victim or victims that the officer reasonably believes the subject of the custodial interrogation is attempting to conceal information about.
+
+3. "Law enforcement officer" means a general authority Washington peace officer or limited authority Washington peace officer as defined in RCW 10.93.020.
+
+4. "Person" means an individual, corporation, business trust, statutory trust, estate, trust, partnership, limited liability company, association, joint venture, public corporation, or government; governmental subdivision, agency, or instrumentality; or any other legal or commercial entity.
+
+5. "Statement" means a communication whether oral, written, electronic, or nonverbal.
+
+## Section 2
+1. A statement made by a person during a custodial interrogation conducted by a law enforcement officer is presumed to be inadmissible if the court determines that the officer intentionally engaged in deception in obtaining the statement and the statement was made in relation to an investigation of a misdemeanor or a felony, or, in the case of a juvenile, an allegation that the person being interrogated committed an act that would constitute a misdemeanor or a felony if committed by an adult.
+
+2. The prosecution may overcome the presumption of inadmissibility if it proves by clear and convincing evidence that the person's statement was voluntary and not made in response to the officer's use of deception.
+
+## Section 3
+1. Subject to the availability of amounts appropriated for this specific purpose, the commission shall contract with an expert or organization with expertise in interrogation tactics to develop, administer, and periodically revise a training in evidence-based, noncoercive interrogation techniques for law enforcement personnel.
+
+2. The training must include, but is not limited to, instruction on the use of the following interrogation techniques:
+
+    a. The preparation and planning, engage and explain, account, closure and evaluate method;
+
+    b. The strategic use of evidence;
+
+    c. The cognitive interview; and
+
+    d. The trauma-informed interview.
+
+3. After development of the training is completed, the commission shall make the training available at no cost to all law enforcement personnel and law enforcement agencies in the state.
+
+4. The commission shall begin offering the training by July 1, 2025.
+
+## Section 5
+Sections 1, 2, and 4 of this act take effect December 1, 2025.

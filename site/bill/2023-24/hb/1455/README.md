@@ -21,6 +21,25 @@
 * [KING5](/org/king5/) - [Bill to ban child marriage in Washington stalls again in the Senate | king5.com](https://www.king5.com/article/news/politics/bill-ban-child-marriage-stalls-again/281-4085f98b-12a4-4921-b457-917d50d5fb77#:~:text=House%20Bill%201455)
 
 ## Meetings
+### Tue 01/30 10:30 AM - Law & Justice (LAW): HB 1455 Child marriage
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=157580&caId=23660&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=157580&caId=23660&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=157580&caId=23660&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=157580&caId=23660&tId=4)
+
+#### 8 👍 - Pro
+Testifying:
+* Cleland Katherine - Zonta (Please note that Katherine will be in person)
+* 💵Fraidy Reiss - [Unchained At Last](/org/unchained_at_last/)
+* Michele Hanash - AHA Foundation
+* Kate Yang
+* Sara Tasneem
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/31 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1455 Child marriage
 #### 73 👍 - Pro
 Testifying:

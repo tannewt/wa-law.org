@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31712&aId=157511&caId=23557&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31712&aId=157511&caId=23557&tId=4)
 
-#### 8 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Brad Schuster - Aircraft Owners and Pilots Association (AOPA) / Northwest Mountain Regional Manager
 * Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)

@@ -4,7 +4,7 @@
 
 ## [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims 👍2  
 
-## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
+## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍2  
 
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
@@ -74,7 +74,7 @@
 
 ## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍1  
 
-## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍1  
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍2  
 
 ## [HB 2191](/bill/2023-24/hb/2191/) - PTBA governing body members 👍1  
 
@@ -87,6 +87,8 @@
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
 ## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
+
+## [HB 2323](/bill/2023-24/hb/2323/) - Rent payments/credit reports 👍1  
 
 ## [HB 2346](/bill/2023-24/hb/2346/) - Health disparities council 👍1  
 
@@ -151,5 +153,7 @@
 ## [SB 6135](/bill/2023-24/sb/6135/) - TANF transitional assistance 👍1  
 
 ## [SB 6136](/bill/2023-24/sb/6136/) - Rental property B&O tax 👍1  
+
+## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
 
 ## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍1  

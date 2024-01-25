@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Wed 01/24 01:30 PM - Health Care & Wellness (HCW): HB 2116 Pharmacist prescriptive auth
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31705&aId=157058&caId=23516&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31705&aId=157058&caId=23516&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31705&aId=157058&caId=23516&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31705&aId=157058&caId=23516&tId=4)
-
-#### 120 👍 - Pro
+#### 171 👍 - Pro
 Testifying:
 * Cherie Hope-Jurado - Walmart
 * Tim Lynch - MultiCare Health System
@@ -26,10 +20,11 @@ Testifying:
 * Jenny Arnold - Washington State Pharmacy Association
 * Ryan Oftebro - Kelley-Ross Pharmacy
 * Veronica Vann
+* Abdul-Nasser Charara - St Michael medical center
 
-#### 53 👎 - Con
+#### 79 👎 - Con
 Testifying:
 * 💵Amy Brackenbury - Washington State Medical Assocation (WSMA)
 * Dr. Katina Rue - WA State Medical Association (WSMA)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

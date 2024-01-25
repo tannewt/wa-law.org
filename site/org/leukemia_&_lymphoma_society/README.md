@@ -42,3 +42,5 @@
 ## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍1  
 
 ## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍1  
+
+## [SB 6258](/bill/2023-24/sb/6258/) - Standardized health plans 👍1  

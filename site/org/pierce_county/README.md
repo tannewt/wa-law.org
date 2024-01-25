@@ -18,6 +18,8 @@
 
 ## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services 👍1  
 
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍1  
+
 ## [HB 2391](/bill/2023-24/hb/2391/) - County ferries 👍1  
 * 👍 Jen Tetatzin
 

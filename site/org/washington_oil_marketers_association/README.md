@@ -6,4 +6,6 @@
 * 👍💵 Diana Carlen
 * 👍💵 Diana Carlen
 
+## [HB 2249](/bill/2023-24/hb/2249/) - CCA market impacts 👍1  
+
 ## [SB 5309](/bill/2023-24/sb/5309/) - Petroleum transportation/tax  👎1 

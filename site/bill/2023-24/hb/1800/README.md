@@ -12,16 +12,10 @@
 
 ## Meetings
 ### Thu 01/25 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 1800 Graffiti
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157383&caId=23546&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157383&caId=23546&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157383&caId=23546&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157383&caId=23546&tId=4)
-
-#### 46 👍 - Pro
+#### 51 👍 - Pro
 Testifying:
 * Victor Lombardi
 
-#### 19 👎 - Con
+#### 20 👎 - Con
 
 #### 0 ❓ - Other

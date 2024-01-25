@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 01/24/2024 [KING5](/org/king5/) - ['TSWIFT' bill proposal would make ticket-buying easier in WA | king5.com](https://www.king5.com/article/news/politics/state-politics/taylor-swift-bill-proposal-ticket-buying-easier/281-9a8f5e89-9f0f-4019-8970-8849f7d886ee#:~:text=House%20Bill%201648)
 * 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%201648)
 * 02/13/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/13/the-house-hot-sheet-for-week-6-of-the-2023-legislative-session/#:~:text=TSWIFT%20Consumer%20Protection%20Act%20(HB%201648))
 * 02/05/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/05/the-house-hot-sheet-for-week-5-of-the-2023-legislative-session/#:~:text=TSWIFT%20Consumer%20Protection%20Act%20(HB%201648))

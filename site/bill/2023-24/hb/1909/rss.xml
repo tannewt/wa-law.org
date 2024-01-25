@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1909/</link>
 		<description>Updates about HB 1909</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 09 Jan 2024 07:08:10 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -52,6 +52,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Ken/Kenyon/2024-01-09 07:08:10</guid>
+		</item>
+		<item>
+			<title>HCW - Executive action taken by committee.</title>
+			<description>HCW - Executive action taken by committee.</description>
+			<pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-24/HCW - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

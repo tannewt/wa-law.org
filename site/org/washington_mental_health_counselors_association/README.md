@@ -5,6 +5,8 @@
 * 👍 CMHS, NCC, Shannon Thompson LMHC
 * 👍 PhD, LMHC, NCC, Dominique Avery
 
+## [HB 1655](/bill/2023-24/hb/1655/) - Provider contract comp. 👍1  
+
 ## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce 👍1  ❓1
 * ❓ Dominique Avery
 * 👍 Dominique Avery

@@ -129,6 +129,9 @@
 
 ## [HB 2149](/bill/2023-24/hb/2149/) - Protecting consumer personal information.   ❓1
 
+## [HB 2196](/bill/2023-24/hb/2196/) - Alcohol concentration/DUI  👎1 
+* 👎💵 Julia Gorton
+
 ## [HB 2211](/bill/2023-24/hb/2211/) - Criminal justice local tax 👍1  
 
 ## [HB 2231](/bill/2023-24/hb/2231/) - Law enforcement funding 👍1  
@@ -220,7 +223,7 @@
 
 ## [SB 5838](/bill/2023-24/sb/5838/) - AI task force   ❓1
 
-## [SB 5924](/bill/2023-24/sb/5924/) - Concerning access to personnel records  👎1 
+## [SB 5924](/bill/2023-24/sb/5924/) - Access to personnel records  👎1 
 * 👎💵 Julia Gorton
 
 ## [SB 5987](/bill/2023-24/sb/5987/) - Gift certificates  👎1 

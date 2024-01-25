@@ -11,20 +11,20 @@
 
 ## Meetings
 ### Thu 01/25 08:00 AM - Housing (HOUS): HB 2158 Urban growth area boundaries
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31778&aId=157405&caId=23538&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31778&aId=157405&caId=23538&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31778&aId=157405&caId=23538&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31778&aId=157405&caId=23538&tId=4)
-
-#### 115 👍 - Pro
+#### 221 👍 - Pro
 Testifying:
 * Theresa Richlardson - [City of Richland](/org/city_of_richland/)
 * Mike Nykreim - Newport West LLC
+* Mary Hull-Drury - Washington Realtors
+* Susanna Jones
+* 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 7 👎 - Con
+#### 131 👎 - Con
 Testifying:
 * Addie Candib - American Farmland Trust
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Jeannette Mcchesney
 
 #### 0 ❓ - Other

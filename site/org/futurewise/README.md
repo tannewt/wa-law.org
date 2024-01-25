@@ -44,7 +44,8 @@
 
 ## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services 👍1  
 
-## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍1  
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍2  
+* 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 
 ## [HB 1987](/bill/2023-24/hb/1987/) - Concerning the use of moneys from the rural public facilities sales and use tax for affordable workforce housing infrastructure and facilities. 👍1  
@@ -67,7 +68,11 @@
 ## [HB 2141](/bill/2023-24/hb/2141/) - Promoting affordable housing in unincorporated areas within urban growth areas of large counties.   ❓1
 * ❓💵 Bryce Yadon
 
-## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍6  
+## [HB 2158](/bill/2023-24/hb/2158/) - Urban growth area boundaries  👎1 
+* 👎💵 Bryce Yadon
+
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍7  
+* 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 
 ## [HB 2187](/bill/2023-24/hb/2187/) - Water/family farms  👎1 

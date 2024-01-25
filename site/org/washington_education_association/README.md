@@ -412,7 +412,7 @@
 ## [HB 1956](/bill/2023-24/hb/1956/) - Addressing fentanyl and other substance use prevention education. 👍1  
 * 👍💵 Simone Boe
 
-## [HB 1969](/bill/2023-24/hb/1969/) - Individual providers/family 👍1  
+## [HB 1969](/bill/2023-24/hb/1969/) - Individual providers/family 👍2  
 
 ## [HB 1975](/bill/2023-24/hb/1975/) - Relieving individuals from paying interest on certain unemployment insurance overpayment assessments. 👍1  
 
@@ -468,6 +468,8 @@
 
 ## [HB 2125](/bill/2023-24/hb/2125/) - Concerning the eligibility of state-mandated benefits for contingent faculty at community and technical colleges. 👍2  
 
+## [HB 2130](/bill/2023-24/hb/2130/) - Special education services 👍1  
+
 ## [HB 2133](/bill/2023-24/hb/2133/) - Public school bus trespass 👍1  
 
 ## [HB 2164](/bill/2023-24/hb/2164/) - Postsecondary ed protections 👍1  
@@ -486,6 +488,9 @@
 ## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍1  
 
 ## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍1  
+
+## [HB 2239](/bill/2023-24/hb/2239/) - Social-emotional instruction 👍1  
+* 👍💵 Nasue Nishida
 
 ## [HB 2242](/bill/2023-24/hb/2242/) - Sexual assault/higher ed. 👍1  
 
@@ -902,7 +907,7 @@
 
 ## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍1  
 
-## [SB 5924](/bill/2023-24/sb/5924/) - Concerning access to personnel records 👍1  
+## [SB 5924](/bill/2023-24/sb/5924/) - Access to personnel records 👍1  
 
 ## [SB 5935](/bill/2023-24/sb/5935/) - Noncompetition covenants 👍1  
 

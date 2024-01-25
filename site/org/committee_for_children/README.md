@@ -17,7 +17,7 @@
 
 ## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍2  
 
-## [HB 2239](/bill/2023-24/hb/2239/) - Social-emotional instruction 👍3  
+## [HB 2239](/bill/2023-24/hb/2239/) - Social-emotional instruction 👍4  
 
 ## [SB 5019](/bill/2023-24/sb/5019/) - School safety staff 👍2  
 * 👍💵 Melanie Smith

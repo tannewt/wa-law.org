@@ -8,17 +8,17 @@
 
 ## Meetings
 ### Thu 01/25 08:00 AM - Human Services (HS): SB 6298 Concerning the duty of the clergy to report child abuse or neglect. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31701&aId=157860&caId=23624&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31701&aId=157860&caId=23624&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31701&aId=157860&caId=23624&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31701&aId=157860&caId=23624&tId=4)
-
-#### 10 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Kristiana de Leon - Association of Secular Elected Officials
 * Alex Ashley
+* Christopher Marino Hardin
+* 💵Larry Shannon - Washington State Association for Justice
+* Mitch Melin
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Jean Hill - Washington State Catholic Conference
+* Timothy LAW - Law & Law

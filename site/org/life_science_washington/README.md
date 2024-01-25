@@ -5,7 +5,7 @@
 
 ## [HB 1374](/bill/2023-24/hb/1374/) - Office of career connect WA 👍1  
 
-## [HB 1450](/bill/2023-24/hb/1450/) - Biomarker testing coverage 👍2  
+## [HB 1450](/bill/2023-24/hb/1450/) - Biomarker testing coverage 👍3  
 
 ## [HB 1745](/bill/2023-24/hb/1745/) - Diversity in clinical trials 👍1  
 

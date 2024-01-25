@@ -51,6 +51,10 @@
 ## [HB 2273](/bill/2023-24/hb/2273/) - Functional recovery building 👍1  
 * 👍 Corina Allen
 
+## [HB 2299](/bill/2023-24/hb/2299/) - DNR trust asset leasing 👍2  
+* 👍 Christina Frantz
+* 👍 Duane Emmons
+
 ## [HB 2312](/bill/2023-24/hb/2312/) - Tribal interlocal agreements 👍2  
 * 👍 Brian Considine
 * 👍 Patrick DePoe
@@ -61,6 +65,9 @@
 * 👍 Brian Considine
 
 ## [SB 5667](/bill/2023-24/sb/5667/) - Forestry riparian easements 👍1  
+
+## [SB 5910](/bill/2023-24/sb/5910/) - Creating the state department of natural resources' Smokey Bear special license plates. 👍1  
+* 👍 Hilary Franz
 
 ## [SB 5946](/bill/2023-24/sb/5946/) - Fallen firefighter memorial 👍2  
 * 👍 Brian Considine
@@ -77,3 +84,6 @@
 ## [SB 6100](/bill/2023-24/sb/6100/) - Budget stabilization account 👍1  
 
 ## [SB 6121](/bill/2023-24/sb/6121/) - Biochar production 👍1  
+
+## [SB 6281](/bill/2023-24/sb/6281/) - Reforestation grants 👍1  
+* 👍 Csenka Favorini-Csorba

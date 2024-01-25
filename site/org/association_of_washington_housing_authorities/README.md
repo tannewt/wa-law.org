@@ -22,3 +22,5 @@
 
 ## [SB 5418](/bill/2023-24/sb/5418/) - Definition of public work  👎1 
 * 👎 Andrew Calkins
+
+## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  

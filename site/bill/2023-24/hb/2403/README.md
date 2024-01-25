@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/24/2024 [KIRO7](/org/kiro7/) - [New bill would increase fire safety standards at pet kennels  – KIRO 7 News Seattle](https://www.kiro7.com/news/local/new-bill-would-increase-fire-safety-standards-pet-kennels-businesses/QSRBGJAKIBGXDIMWIGDKGEOLII/#:~:text=House%20Bill%202403)
 * 01/21/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/21/the-house-hot-sheet-for-week-3-of-the-2024-legislative-session/#:~:text=HB%202403)
 * 01/17/2024 [KING5](/org/king5/) - [After 2 fires at dog daycare businesses, proposed bill aims to increase pet safety at kennels | king5.com](https://www.king5.com/article/news/local/seattle-dog-daycares-proposed-bill-increase-pet-safety/281-fea6c495-c18c-4a42-a13b-cf0705dcff00#:~:text=House%20Bill%202403)
 

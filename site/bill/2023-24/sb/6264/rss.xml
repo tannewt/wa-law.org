@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6264/</link>
 		<description>Updates about SB 6264</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 23 Jan 2024 02:17:03 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 25 Jan 2024 09:30:29 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -68,6 +68,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Troy/Goracke/2024-01-23 02:17:03</guid>
+		</item>
+		<item>
+			<title>👍Carrie McKenzie - Washington State PTA</title>
+			<description>Carrie McKenzie signed up to testify Pro. They are signed up to represent Washington State PTA.</description>
+			<pubDate>Wed, 24 Jan 2024 09:59:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Carrie/McKenzie/2024-01-24 09:59:27</guid>
+		</item>
+		<item>
+			<title>❓Andy Cilley - Conservative Ladies of Washington</title>
+			<description>Andy Cilley signed up to testify Other.</description>
+			<pubDate>Thu, 25 Jan 2024 03:40:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Andy/Cilley/2024-01-25 03:40:33</guid>
+		</item>
+		<item>
+			<title>👎Julie Barrett - Conservative Ladies of Washington</title>
+			<description>Julie Barrett signed up to testify Con. They are signed up to represent Conservative Ladies of Washington.</description>
+			<pubDate>Thu, 25 Jan 2024 09:30:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Julie/Barrett/2024-01-25 09:30:29</guid>
 		</item>
 	</channel>
 </rss>

@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31706&aId=157802&caId=23625&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31706&aId=157802&caId=23625&tId=4)
 
-#### 7 👍 - Pro
+#### 92 👍 - Pro
+Testifying:
+* Lauri St. Ours - [Washington Health Care Association](/org/washington_health_care_association/)
+* Laura Cepoi - Olympic Area Agency on Aging
 
 #### 0 👎 - Con
 

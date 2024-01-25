@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/24/2024 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to increase financial aid accessibility, postsecondary enrollment heard in committee - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/24/nobles-bill-to-increase-financial-aid-accessibility-postsecondary-enrollment-heard-in-committee/#:~:text=Senate%20Bill%206254)
+
 ## Meetings
 ### Wed 01/24 08:00 AM - Higher Education & Workforce Development (HEWD): SB 6254 Student navigational support
 #### 68 👍 - Pro

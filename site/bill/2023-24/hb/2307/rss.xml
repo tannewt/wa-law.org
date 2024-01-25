@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2307/</link>
 		<description>Updates about HB 2307</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 24 Jan 2024 08:14:52 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2024 12:08:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2024-01-11/First reading, referred to State Government &amp; Tribal Relations.</guid>
 		</item>
 		<item>
-			<title>👎Joe Kunzler - City of North Bonneville</title>
+			<title>👎Joe Kunzler - Lynnwood Public Facilities District</title>
 			<description>Joe Kunzler signed up to testify Con.</description>
 			<pubDate>Wed, 17 Jan 2024 06:22:34 GMT</pubDate>
 			<category>testifier</category>
@@ -24,7 +24,7 @@
 			<guid isPermaLink="false">testifier/Joe/Kunzler/2024-01-17 06:22:34</guid>
 		</item>
 		<item>
-			<title>👎Arthur West - City of North Bonneville</title>
+			<title>👎Arthur West - Lynnwood Public Facilities District</title>
 			<description>Arthur West signed up to testify Con.</description>
 			<pubDate>Thu, 18 Jan 2024 03:33:52 GMT</pubDate>
 			<category>testifier</category>
@@ -142,6 +142,38 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Tom/Thiersch/2024-01-24 08:14:52</guid>
+		</item>
+		<item>
+			<title>👍David M Leath - City of Davenport</title>
+			<description>David M Leath signed up to testify Pro. They are signed up to represent City of Davenport.</description>
+			<pubDate>Wed, 24 Jan 2024 10:44:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/David/M Leath/2024-01-24 10:44:04</guid>
+		</item>
+		<item>
+			<title>👎Francesca Lyman - Laurelhurst Community Club Council</title>
+			<description>Francesca Lyman signed up to testify Con.</description>
+			<pubDate>Wed, 24 Jan 2024 11:22:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Francesca/Lyman/2024-01-24 11:22:03</guid>
+		</item>
+		<item>
+			<title>👎💵Rowland Thompson - Allied Daily Newspapers, WA Newspaper Publishers Assn, and WSABroadcasters</title>
+			<description>Rowland Thompson signed up to testify Con. They are signed up to represent Allied Daily Newspapers, WA Newspaper Publishers Assn, and WSABroadcasters. They are a registered lobbyist.</description>
+			<pubDate>Wed, 24 Jan 2024 11:52:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Rowland/Thompson/2024-01-24 11:52:29</guid>
+		</item>
+		<item>
+			<title>👍Janet Pope - Lynnwood Public Facilities District</title>
+			<description>Janet Pope signed up to testify Pro. They are signed up to represent Lynnwood Public Facilities District.</description>
+			<pubDate>Wed, 24 Jan 2024 12:08:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Janet/Pope/2024-01-24 12:08:06</guid>
 		</item>
 	</channel>
 </rss>

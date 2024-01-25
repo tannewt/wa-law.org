@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2470/</link>
 		<description>Updates about HB 2470</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 23 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 25 Jan 2024 07:01:01 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,14 @@
 			<pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-23/First reading, referred to Local Government.</guid>
+		</item>
+		<item>
+			<title>👎Julie Barrett - Conservative Ladies of Washington</title>
+			<description>Julie Barrett signed up to testify Con. They are signed up to represent Conservative Ladies of Washington.</description>
+			<pubDate>Thu, 25 Jan 2024 07:01:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Julie/Barrett/2024-01-25 07:01:01</guid>
 		</item>
 	</channel>
 </rss>

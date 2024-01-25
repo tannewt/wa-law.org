@@ -18,12 +18,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31772&aId=158022&caId=23630&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31772&aId=158022&caId=23630&tId=4)
 
-#### 3 👍 - Pro
+#### 445 👍 - Pro
 Testifying:
 * Tim Eyman - Initiative Activist
+* Laurie Layne
+* Julie Barrett - Conservative Ladies of Washington
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Carolyn Logue - Washington Food Industry Association

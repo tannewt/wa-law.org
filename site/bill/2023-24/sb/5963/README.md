@@ -7,3 +7,18 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/29 10:30 AM - Law & Justice (LAW): SB 5963 Deadly weapons insurance
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31787&aId=157454&caId=23637&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31787&aId=157454&caId=23637&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31787&aId=157454&caId=23637&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31787&aId=157454&caId=23637&tId=4)
+
+#### 0 👍 - Pro
+
+#### 33 👎 - Con
+Testifying:
+* Julie Barrett - Conservative Ladies of Washington
+* eric pratt
+
+#### 0 ❓ - Other

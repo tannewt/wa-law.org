@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31700&aId=158008&caId=23631&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31700&aId=158008&caId=23631&tId=4)
 
-#### 0 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Carolyn McKinnon - SBCTC
+* Rose GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)
 
 #### 0 👎 - Con
 

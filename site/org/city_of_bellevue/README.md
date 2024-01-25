@@ -69,7 +69,7 @@
 
 ## [HB 2044](/bill/2023-24/hb/2044/) - Standardizing limitations on voter-approved property tax levies. 👍1  
 
-## [HB 2045](/bill/2023-24/hb/2045/) - Creating an adopt a fish barrier program. 👍1  
+## [HB 2045](/bill/2023-24/hb/2045/) - Adopt a fish barrier program 👍1  
 
 ## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍1  
 

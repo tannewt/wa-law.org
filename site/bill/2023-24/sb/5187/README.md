@@ -11,7 +11,6 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
-* 11/07/2023 [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/#:~:text=Senate%20Bill%205187)
 * 08/18/2023 [House Republicans](/org/house_republicans/) - [FAQs: How regressive Democratic policies increased Washington’s gas prices | Washington State House Republicans](https://houserepublicans.wa.gov/wa-gas-prices/#:~:text=Senate%20Bill%205187)
 * 04/28/2023 [The Center Square](/org/the_center_square/) - [Another WA legislative session comes and goes with no emergency powers reform | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_2e21b0f2-e60a-11ed-a23e-b71c1520342e.html#:~:text=ESSB%205187)
 * 04/18/2023 [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=Senate%20Bill%205187)
@@ -245,7 +244,7 @@ Testifying:
 * Robert Washbond - Stafford at Belmont
 * Tonja Myers
 * Jacqueline Kinley - Unified Residential Care and Main Residential Care
-* 💵Stacy Dym - The Arc of Washington State
+* 💵Stacy Dym - [The Arc of Washington State](/org/the_arc_of_washington_state/)
 * 💵Emily Stone - WA State Coalition Against Domestic Violence
 * 💵Patricia Hunter - WA State Long Term Care Ombuds
 * Shawn Latham - Allies in Advocacy

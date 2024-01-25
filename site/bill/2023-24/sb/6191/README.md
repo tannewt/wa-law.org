@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31741&aId=157504&caId=23414&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31741&aId=157504&caId=23414&tId=4)
 
-#### 1256 👍 - Pro
+#### 1636 👍 - Pro
 Testifying:
 * Cathy Murahashi - The Arc of Washington
 * Marc Cote - Parkview Services
@@ -36,8 +36,13 @@ Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Latrice Williams - Realtor
 * Sarah Dickmeyer - Plymouth Housing
+* Joeseph Wilson
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* Jesse Simpson - Housing Development Consortium
+* robert m wardell - self adovates
+* 💵Preston Parish - Washington State Budget and Policy Center
 
-#### 218 👎 - Con
+#### 248 👎 - Con
 Testifying:
 * 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Emily Shay - Association of Washington Buisness
@@ -46,5 +51,9 @@ Testifying:
 * William Shadbolt - [Washington Business Properties Association](/org/washington_business_properties_association/)
 * Mike Morris
 * Rod Kauffman - BOMA - Building Owners & Managers Assn
+* Leslie Boeshart
+* Craig Soehren - WA State Commercial Association of Realtors & Commercial Brokers Association
+* Mary Hull-Drury - Washington Realtors
+* Terry Wollam - Haven Development Corporation
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other

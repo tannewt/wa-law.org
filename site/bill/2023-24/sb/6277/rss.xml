@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6277/</link>
 		<description>Updates about SB 6277</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 02:22:28 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2024 07:29:51 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -24,12 +24,20 @@
 			<guid isPermaLink="false">testifier/Reema/Griffith/2024-01-21 11:49:30</guid>
 		</item>
 		<item>
-			<title>❓Breck Lebegue - Wash. State Transportation Commission</title>
+			<title>❓Breck Lebegue - Solutionary Rail</title>
 			<description>Breck Lebegue signed up to testify Other.</description>
 			<pubDate>Mon, 22 Jan 2024 02:22:28 GMT</pubDate>
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Breck/Lebegue/2024-01-22 02:22:28</guid>
+		</item>
+		<item>
+			<title>👎Bill Moyer - Solutionary Rail</title>
+			<description>Bill Moyer signed up to testify Con. They are signed up to represent Solutionary Rail.</description>
+			<pubDate>Wed, 24 Jan 2024 07:29:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Bill/Moyer/2024-01-24 07:29:51</guid>
 		</item>
 	</channel>
 </rss>

@@ -186,3 +186,5 @@
 ## [SB 6121](/bill/2023-24/sb/6121/) - Biochar production 👍1  
 
 ## [SB 6237](/bill/2023-24/sb/6237/) - Wildlife safe passages 👍1  
+
+## [SB 6278](/bill/2023-24/sb/6278/) - Organic agriculture 👍1  

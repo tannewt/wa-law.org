@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Thu 01/25 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 2196 Alcohol concentration/DUI
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157325&caId=23544&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157325&caId=23544&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157325&caId=23544&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157325&caId=23544&tId=4)
-
-#### 29 👍 - Pro
+#### 37 👍 - Pro
 Testifying:
 * Beth Ebel - WCAAP
 * Dennis Maughan - MADD Washington
@@ -37,10 +31,15 @@ Testifying:
 * Ashley Bonus
 * Sam Arbabi
 * Alaina Dahlquist - [National Safety Council](/org/national_safety_council/)
+* Ernest Franz
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Lori Markowitz - The Josh Fund
 
-#### 324 👎 - Con
+#### 414 👎 - Con
 Testifying:
 * Jason Lantz - Washington Association of Criminal Defense Lawyers and Washington Defender Association
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
+* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

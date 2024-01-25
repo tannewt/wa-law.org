@@ -10,3 +10,6 @@
 
 ## [SB 5939](/bill/2023-24/sb/5939/) - Livestock wolf predation  👎1 
 * 👎 Dan Paul
+
+## [SB 5976](/bill/2023-24/sb/5976/) - Dogs at large  👎1 
+* 👎💵 Carey Morris

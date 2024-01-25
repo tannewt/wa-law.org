@@ -46,6 +46,8 @@
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
+## [HB 2467](/bill/2023-24/hb/2467/) - Increasing access to the long-term services and supports trust. 👍1  
+
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 
 ## [SB 5169](/bill/2023-24/sb/5169/) - Medicare/health care plans 👍1  
@@ -93,4 +95,6 @@
 
 ## [SB 6069](/bill/2023-24/sb/6069/) - Retirement savings 👍1  
 
-## [SB 6072](/bill/2023-24/sb/6072/) - LTSS commission recs. 👍1  
+## [SB 6072](/bill/2023-24/sb/6072/) - LTSS commission recs. 👍2  
+
+## [SB 6249](/bill/2023-24/sb/6249/) - Homeowner property tax ex. 👍1  

@@ -8,16 +8,10 @@
 
 ## Meetings
 ### Thu 01/25 08:00 AM - Law & Justice (LAW): SB 6222 District court judges
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31693&aId=157013&caId=23389&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31693&aId=157013&caId=23389&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31693&aId=157013&caId=23389&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31693&aId=157013&caId=23389&tId=4)
-
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Judge Jennifer Rancourt - District & Municipal Court Judges' Association
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

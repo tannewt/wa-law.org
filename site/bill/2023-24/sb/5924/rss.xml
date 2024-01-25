@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 5924 - Concerning access to personnel records</title>
+		<title>SB 5924 - Access to personnel records</title>
 		<link>https://wa-law.org/bill/2023-24/sb/5924/</link>
 		<description>Updates about SB 5924</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 10 Jan 2024 06:44:57 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -124,6 +124,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Matthew/Hepner/2024-01-10 06:44:57</guid>
+		</item>
+		<item>
+			<title>On motion, referred to Ways &amp; Means.</title>
+			<description>On motion, referred to Ways &amp; Means.</description>
+			<pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-24/On motion, referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

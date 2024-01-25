@@ -16,6 +16,8 @@
 ## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍1  
 * 👍 Steve Hobbs
 
+## [HB 1241](/bill/2023-24/hb/1241/) - Harassment 👍1  
+
 ## [HB 1259](/bill/2023-24/hb/1259/) - Secretary of state exec team 👍2  
 * 👍 Brian Hatfield
 * 👍 Brian Hatfield
@@ -58,10 +60,13 @@
 ## [HB 2206](/bill/2023-24/hb/2206/) - Voter registration database  👎1 
 * 👎 Brian Hatfield
 
-## [HB 2250](/bill/2023-24/hb/2250/) - Local elections  👎1 
+## [HB 2250](/bill/2023-24/hb/2250/) - Local elections  👎2 
 * 👎 Steve Hobbs
+* 👎 Brian Hatfield
 
 ## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
+
+## [HB 2455](/bill/2023-24/hb/2455/) - Competing ballot measures 👍1  
 
 ## [SB 5015](/bill/2023-24/sb/5015/) - Productivity board 👍1  ❓1
 * ❓ Brian Hatfield

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/16 04:00 PM - Environment & Energy (ENVI): HB 2131 Thermal energy networks

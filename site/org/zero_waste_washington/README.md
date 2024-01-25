@@ -129,3 +129,5 @@
 
 ## [SB 6276](/bill/2023-24/sb/6276/) - Digital electronics/repair 👍1  
 * 👍💵 Heather Trim
+
+## [SB 6278](/bill/2023-24/sb/6278/) - Organic agriculture 👍1  

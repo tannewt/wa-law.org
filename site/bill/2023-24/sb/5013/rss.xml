@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5013/</link>
 		<description>Updates about SB 5013</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 23 Jan 2024 11:23:04 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2024 08:22:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -77,6 +77,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Josh/McDonald/2024-01-23 11:23:04</guid>
+		</item>
+		<item>
+			<title>👍Paul Beveridge - Family Wineries of Washington State</title>
+			<description>Paul Beveridge signed up to testify Pro. They are signed up to represent Family Wineries of Washington State.</description>
+			<pubDate>Wed, 24 Jan 2024 08:22:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Paul/Beveridge/2024-01-24 08:22:02</guid>
+		</item>
+		<item>
+			<title>👍Sandi Moreno - Family Wineries of Washington State</title>
+			<description>Sandi Moreno signed up to testify Pro. They are signed up to represent Family Wineries of Washington State.</description>
+			<pubDate>Wed, 24 Jan 2024 08:22:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sandi/Moreno/2024-01-24 08:22:02</guid>
 		</item>
 	</channel>
 </rss>

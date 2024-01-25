@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 01/25 08:00 AM - Law & Justice (LAW): SB 6154 Corporation process service
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31693&aId=157010&caId=23388&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31693&aId=157010&caId=23388&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31693&aId=157010&caId=23388&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31693&aId=157010&caId=23388&tId=4)
-
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Scott Douglas - Office of the Secretary of State
 

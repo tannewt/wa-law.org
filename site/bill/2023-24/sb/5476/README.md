@@ -13,6 +13,19 @@
 * 02/16/2023 [The Center Square](/org/the_center_square/) - [Farm groups say Washington senator disrespected, mistranslated worker testimony | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_53ad49ae-ae37-11ed-960f-ebd10fee36c4.html#:~:text=SB%205476)
 
 ## Meetings
+### Tue 01/30 10:30 AM - Labor & Commerce (LC): SB 5476 Agricultural overtime
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157974&caId=23667&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157974&caId=23667&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157974&caId=23667&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157974&caId=23667&tId=4)
+
+#### 2 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/09 08:00 AM - Labor & Commerce (LC): SB 5476 Agricultural overtime
 #### 1079 👍 - Pro
 Testifying:

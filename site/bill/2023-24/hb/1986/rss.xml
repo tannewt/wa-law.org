@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1986/</link>
 		<description>Updates about HB 1986</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 16 Jan 2024 08:41:27 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -36,6 +36,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/MD, MPH, Dave/Bonauto/2024-01-16 08:41:27</guid>
+		</item>
+		<item>
+			<title>LAWS - Executive action taken by committee.</title>
+			<description>LAWS - Executive action taken by committee.</description>
+			<pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-24/LAWS - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>LAWS - Majority; do pass.</title>
+			<description>LAWS - Majority; do pass.</description>
+			<pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-24/LAWS - Majority; do pass.</guid>
 		</item>
 	</channel>
 </rss>

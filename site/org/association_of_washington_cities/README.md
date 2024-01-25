@@ -223,7 +223,8 @@
 ## [HB 1870](/bill/2023-24/hb/1870/) - Promoting economic development by increasing opportunities for local communities to secure federal funding. 👍1  
 * 👍 Brandy DeLange
 
-## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍1  
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍2  
+* 👍💵 Carl Schroeder
 
 ## [HB 1894](/bill/2023-24/hb/1894/) - Modifying provisions of the business licensing service program. 👍1  
 
@@ -301,7 +302,10 @@
 
 ## [HB 2153](/bill/2023-24/hb/2153/) - Catalytic converter theft 👍1  
 
-## [HB 2160](/bill/2023-24/hb/2160/) - Housing development  👎2 
+## [HB 2158](/bill/2023-24/hb/2158/) - Urban growth area boundaries  👎1 
+
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development  👎3 
+* 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 
@@ -353,6 +357,8 @@
 ## [HB 2390](/bill/2023-24/hb/2390/) - Eluding & resisting arrest 👍1  
 
 ## [HB 2394](/bill/2023-24/hb/2394/) - SEPA/trails and paths 👍1  
+
+## [HB 2466](/bill/2023-24/hb/2466/) - Addressing ambulance wait times. 👍1  
 
 ## [SB 5001](/bill/2023-24/sb/5001/) - Public facility districts 👍1  
 
@@ -600,7 +606,7 @@
 ## [SB 5901](/bill/2023-24/sb/5901/) - Concerning co-living housing.   ❓1
 * ❓💵 Carl Schroeder
 
-## [SB 5924](/bill/2023-24/sb/5924/) - Concerning access to personnel records   ❓1
+## [SB 5924](/bill/2023-24/sb/5924/) - Access to personnel records   ❓1
 * ❓💵 Candice Bock
 
 ## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD 👍1  
@@ -662,6 +668,8 @@
 
 ## [SB 6202](/bill/2023-24/sb/6202/) - Tourism promotion exemptions 👍1  
 * 👍💵 Candice Bock
+
+## [SB 6222](/bill/2023-24/sb/6222/) - District court judges 👍1  
 
 ## [SB 6230](/bill/2023-24/sb/6230/) - Tax increment areas  👎1 
 * 👎💵 Candice Bock

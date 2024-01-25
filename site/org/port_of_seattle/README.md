@@ -25,6 +25,8 @@
 
 ## [HB 1912](/bill/2023-24/hb/1912/) - Economic development info. 👍1  
 
+## [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍1  
+
 ## [HB 2039](/bill/2023-24/hb/2039/) - Modifying the appeals process for environmental and land use matters. 👍1  
 
 ## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍1  
@@ -36,7 +38,7 @@
 ## [HB 2103](/bill/2023-24/hb/2103/) - Large port districts  👎1 
 * 👎 John Flanagan
 
-## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍2  
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍3  
 * 👍💵 Trent House
 
 ## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage 👍1  
@@ -84,6 +86,10 @@
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development 👍1  
 * 👍 John Flanagan
 
+## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍1  
+
+## [SB 6056](/bill/2023-24/sb/6056/) - Human trafficking/hotels 👍1  
+
 ## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍1  
 
 ## [SB 6080](/bill/2023-24/sb/6080/) - Tourism marketing funding 👍1  
@@ -99,7 +105,13 @@
 
 ## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management 👍1  
 
+## [SB 6202](/bill/2023-24/sb/6202/) - Tourism promotion exemptions 👍1  
+
 ## [SB 6230](/bill/2023-24/sb/6230/) - Tax increment areas 👍1  
 * 👍 John Flanagan
+
+## [SB 6243](/bill/2023-24/sb/6243/) - Technology manuf./B&O tax 👍1  
+
+## [SB 6245](/bill/2023-24/sb/6245/) - Refugee & immigrant assist. 👍1  
 
 ## [SJM 8009](/bill/2023-24/sjm/8009/) - Harbor maintenance tax 👍1  

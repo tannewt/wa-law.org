@@ -15,7 +15,7 @@ Testifying:
 * Carrie Davidson
 * Ashley Cowan D'Ambrosio
 * Monica Thomas
-* 💵Stacy Dym - The Arc of Washington State
+* 💵Stacy Dym - [The Arc of Washington State](/org/the_arc_of_washington_state/)
 * Heather Hirotaka - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Ryan Grant
 

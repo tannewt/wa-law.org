@@ -15,3 +15,5 @@
 ## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍1  
 
 ## [SB 5807](/bill/2023-24/sb/5807/) - Housing authorities 👍1  
+
+## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  

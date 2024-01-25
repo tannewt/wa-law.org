@@ -14,14 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31745&aId=157516&caId=23419&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31745&aId=157516&caId=23419&tId=4)
 
-#### 53 👍 - Pro
+#### 82 👍 - Pro
 Testifying:
 * Evan Klein - Health Care Authority
 * Ingrid Ulrey - Washington Health Benefit Exchange
 * Jane Beyer - WA Office of the Insurance Commissioner
 * Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* Sara Abbott - Better Health Together
+* Jim Freeburg - Patient Coalition of Washington
 * Neil Angst
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 
-#### 4 👎 - Con
+#### 8 👎 - Con
 
 #### 0 ❓ - Other

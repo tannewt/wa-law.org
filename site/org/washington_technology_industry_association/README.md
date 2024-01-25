@@ -28,7 +28,7 @@
 ## [HB 1951](/bill/2023-24/hb/1951/) - Algorithmic discrimination  👎1 
 * 👎💵 Kelly Fukai
 
-## [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍1  
+## [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍2  
 
 ## [HB 2008](/bill/2023-24/hb/2008/) - Housing cost task force 👍1  
 
@@ -83,6 +83,8 @@
 ## [SB 6012](/bill/2023-24/sb/6012/) - Teacher preparation programs 👍1  
 
 ## [SB 6069](/bill/2023-24/sb/6069/) - Retirement savings   ❓1
+
+## [SB 6137](/bill/2023-24/sb/6137/) - Semiconductor tax incentives 👍1  
 
 ## [SB 6168](/bill/2023-24/sb/6168/) - International leadership 👍1  
 

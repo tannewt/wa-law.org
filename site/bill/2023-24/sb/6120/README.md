@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31772&aId=157342&caId=23420&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31772&aId=157342&caId=23420&tId=4)
 
-#### 70 👍 - Pro
+#### 82 👍 - Pro
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Kara Whittaker - WDFW
@@ -23,6 +23,11 @@ Testifying:
 * Andrea Smith - BIAW
 * 💵Bill Stauffacher
 * Kevin Russell - The Seamus ( pronounced “shamus”) Group Inc.
+* Andrea Smith - BIAW
+* 💵Bill Stauffacher
+* Adam Yoest - WA State Conference of Mason Contractors
+* Chris Ellis - Bricklayers and Allied Craftworkers Local 1 - WA/AK
+* Cory Wright - Kittitas County Commissioner
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 0 👎 - Con

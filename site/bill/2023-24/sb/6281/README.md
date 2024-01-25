@@ -14,10 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31762&aId=157713&caId=23604&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31762&aId=157713&caId=23604&tId=4)
 
-#### 2 👍 - Pro
+#### 69 👍 - Pro
 Testifying:
 * Tom Davis - WA Forest Protection Association
+* 💵Heath Heikkila - American Forest Resource Council
+* Csenka Favorini-Csorba - [Department of Natural Resources](/org/department_of_natural_resources/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* John Worthington

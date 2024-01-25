@@ -17,3 +17,5 @@
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍3  
 
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍3  
+
+## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  

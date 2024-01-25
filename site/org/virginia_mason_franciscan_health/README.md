@@ -30,6 +30,8 @@
 
 ## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍1  
 
+## [HB 2116](/bill/2023-24/hb/2116/) - Pharmacist prescriptive auth 👍1  
+
 ## [HB 2295](/bill/2023-24/hb/2295/) - Hospital at-home services 👍1  
 * 👍💵 Katherine Mahoney
 

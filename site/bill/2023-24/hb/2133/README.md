@@ -8,20 +8,18 @@
 
 ## Meetings
 ### Thu 01/25 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 2133 Public school bus trespass
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157326&caId=23545&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157326&caId=23545&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157326&caId=23545&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31770&aId=157326&caId=23545&tId=4)
-
-#### 59 👍 - Pro
+#### 73 👍 - Pro
 Testifying:
 * Leslie Maxwell
 * 💵Carolyn Logue - WA State Student Transportation Coalition
 * Nancy Lenhart - Widow/Community Member
 * Russell Shjerven - Secretary-Treasurer Teamsters Local Union No. 839
 * Tamara Pearson - Bus Driver with Pasco School District and Chief Union Steward, Teamsters Local 839
+* Michelle Whitney - Pasco School District-Superintendent
+* Superintendent Michelle Whitney - Pasco School District-Superintendent
 
-#### 13 👎 - Con
+#### 15 👎 - Con
+Testifying:
+* David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 
 #### 0 ❓ - Other

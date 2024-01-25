@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5935/</link>
 		<description>Updates about SB 5935</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 17 Jan 2024 12:22:48 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -84,6 +84,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Robert (Bob)/Battles/2024-01-17 12:22:48</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-24/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

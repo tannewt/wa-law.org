@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/24 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2365 Respite care
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31733&aId=157151&caId=23526&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31733&aId=157151&caId=23526&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31733&aId=157151&caId=23526&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31733&aId=157151&caId=23526&tId=4)
-
-#### 144 👍 - Pro
+#### 147 👍 - Pro
 Testifying:
 * Liliana Villanueva
 * Kim Mcleod
@@ -24,6 +18,7 @@ Testifying:
 * Jamie Kautz - MultiCare Health System
 * Kelley Nesbitt
 * Therese Vafaeezadeh - Tavon Learning Center
+* Minh Nguyen - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
 
 #### 0 👎 - Con
 

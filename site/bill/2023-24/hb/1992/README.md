@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31754&aId=157745&caId=23627&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31754&aId=157745&caId=23627&tId=4)
 
-#### 3 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* (Judge) David Freeman - Whatcom County Superior Court
+* Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Shannon Hinchcliffe - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 
 #### 0 👎 - Con
 

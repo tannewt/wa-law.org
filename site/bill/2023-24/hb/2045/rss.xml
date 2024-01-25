@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 2045 - Creating an adopt a fish barrier program.</title>
+		<title>HB 2045 - Adopt a fish barrier program</title>
 		<link>https://wa-law.org/bill/2023-24/hb/2045/</link>
 		<description>Updates about HB 2045</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 17 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -75,6 +75,20 @@
 			<pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://gorgenewscenter.com/2024/01/17/bipartisan-legislation-from-rep-kevin-waters-to-help-remove-fish-barriers-receives-a-hearing/#:~:text=House%20Bill%202045</guid>
+		</item>
+		<item>
+			<title>AGNR - Executive action taken by committee.</title>
+			<description>AGNR - Executive action taken by committee.</description>
+			<pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-24/AGNR - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>AGNR - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>AGNR - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-24/AGNR - Majority; 1st substitute bill be substituted, do pass.</guid>
 		</item>
 	</channel>
 </rss>

@@ -11,19 +11,14 @@
 
 ## Meetings
 ### Wed 01/24 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2077 Guaranteed admissions prg.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31714&aId=157077&caId=23519&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31714&aId=157077&caId=23519&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31714&aId=157077&caId=23519&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31714&aId=157077&caId=23519&tId=4)
-
-#### 9 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Jacob Vigdor - University of Washington Faculty
 * Bill Lyne - United Faculty of Washington State
 * Jenee Myers Twitchell - Washington STEM
+* 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 5 ❓ - Other
 Testifying:

@@ -11,7 +11,7 @@
 #### 190 👍 - Pro
 Testifying:
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
-* 💵Stacy Dym - The Arc of Washington State
+* 💵Stacy Dym - [The Arc of Washington State](/org/the_arc_of_washington_state/)
 * Samantha Fogg - Seattle Council PTSA Immediate Past President
 * Melissa Spiker - Seattle Special Education PTSA / Advocacy Chair
 * Michele Campbell

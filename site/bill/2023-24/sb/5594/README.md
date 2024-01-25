@@ -7,6 +7,21 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/30 04:00 PM - Transportation (TRAN): SB 5594 Fully autonomous vehicles
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31805&aId=158134&caId=23676&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31805&aId=158134&caId=23676&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31805&aId=158134&caId=23676&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31805&aId=158134&caId=23676&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* Jeff Farrah - [Autonomous Vehicle Industry Association](/org/autonomous_vehicle_industry_association/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/07 04:00 PM - Transportation (TRAN): SB 5594 Fully autonomous vehicles
 #### 26 👍 - Pro
 Testifying:

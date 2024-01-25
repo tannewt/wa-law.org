@@ -28,6 +28,10 @@
 
 ## [HB 1947](/bill/2023-24/hb/1947/) - Technology governance   ❓1
 
+## [HB 1992](/bill/2023-24/hb/1992/) - Superior court/Whatcom 👍2  
+* 👍 Brittany Gregory
+* 👍 Shannon Hinchcliffe
+
 ## [HB 2006](/bill/2023-24/hb/2006/) - Concerning court interpreters. 👍3  
 * 👍 Brittany Gregory
 * 👍 Brittany Gregory
