@@ -8,17 +8,13 @@
 
 ## Meetings
 ### Fri 01/26 08:00 AM - Health & Long Term Care (HLTC): SB 6286 Nurse anesthetist workforce
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31745&aId=157622&caId=23594&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31745&aId=157622&caId=23594&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31745&aId=157622&caId=23594&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31745&aId=157622&caId=23594&tId=4)
-
-#### 8 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * 💵Amy Brackenbury - WA State Society of Anesthesiologists
 * 💵Carolyn Logue - WA Academy of Anesthesiologist Assistants
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Dee Bender - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)

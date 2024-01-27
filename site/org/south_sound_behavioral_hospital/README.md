@@ -1,4 +1,4 @@
 # South Sound Behavioral Hospital
 
-## [SB 5920](/bill/2023-24/sb/5920/) - Lifting certificate of need requirements for psychiatric hospitals and beds.  👎1 
+## [SB 5920](/bill/2023-24/sb/5920/) - Psychiatric/cert. of need  👎1 
 * 👎 Neil Lacanlale

@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Thu 01/25 01:30 PM - Capital Budget (CB): SHB 1892 Workforce housing prg.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31763&aId=157616&caId=23605&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31763&aId=157616&caId=23605&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31763&aId=157616&caId=23605&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31763&aId=157616&caId=23605&tId=4)
-
-#### 115 👍 - Pro
+#### 137 👍 - Pro
 Testifying:
 * Hunter George - South Sound Housing Affordability Partnership
 * Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)

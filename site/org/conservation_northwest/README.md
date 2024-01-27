@@ -13,6 +13,9 @@
 * 👎 Mitch Friedman
 * 👎💵 Paula Swedeen
 
+## [HB 2456](/bill/2023-24/hb/2456/) - Wildlife safe passages 👍1  
+* 👍💵 Paula Swedeen
+
 ## [SB 5093](/bill/2023-24/sb/5093/) - Climate response strategy 👍1  
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management 👍1  
@@ -52,4 +55,7 @@
 ## [SB 6113](/bill/2023-24/sb/6113/) - Community solar 👍1  
 
 ## [SB 6237](/bill/2023-24/sb/6237/) - Wildlife safe passages 👍2  
+* 👍💵 Paula Swedeen
+
+## [SB 6281](/bill/2023-24/sb/6281/) - Reforestation grants 👍1  
 * 👍💵 Paula Swedeen

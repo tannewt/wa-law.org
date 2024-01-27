@@ -1,6 +1,6 @@
 # City of Poulsbo
 
-## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍1  
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 * 👍 Kimberly Hendrickson
 
 ## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits 👍1  

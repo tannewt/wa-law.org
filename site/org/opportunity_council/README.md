@@ -15,7 +15,7 @@
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 
-## [HB 1915](/bill/2023-24/hb/1915/) - Making financial education instruction a graduation prerequisite and a required component of public education. 👍2  
+## [HB 1915](/bill/2023-24/hb/1915/) - Financial education 👍2  
 * 👍 Kevi Veldman
 * 👍 Jennifer Marzocca
 

@@ -28,7 +28,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=157580&caId=23660&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=157580&caId=23660&tId=4)
 
-#### 8 👍 - Pro
+#### 47 👍 - Pro
 Testifying:
 * Cleland Katherine - Zonta (Please note that Katherine will be in person)
 * 💵Fraidy Reiss - [Unchained At Last](/org/unchained_at_last/)

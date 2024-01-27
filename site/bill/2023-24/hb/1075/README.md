@@ -21,13 +21,7 @@
 
 ## Meetings
 ### Thu 01/25 04:00 PM - Appropriations (APP): SHB 1075 Working families' tax credit
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31718&aId=157734&caId=23619&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31718&aId=157734&caId=23619&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31718&aId=157734&caId=23619&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31718&aId=157734&caId=23619&tId=4)
-
-#### 426 👍 - Pro
+#### 473 👍 - Pro
 Testifying:
 * 💵Kristin Ang - Faith Action Network (FAN)
 * Ryan Davis - Financial Empowerment Network

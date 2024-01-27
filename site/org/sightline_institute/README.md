@@ -133,7 +133,7 @@
 ## [SB 5723](/bill/2023-24/sb/5723/) - Even-numbered year elections 👍2  
 * 👍💵 Anna Fahey
 
-## [SB 5901](/bill/2023-24/sb/5901/) - Concerning co-living housing. 👍1  
+## [SB 5901](/bill/2023-24/sb/5901/) - Co-living housing 👍1  
 * 👍💵 Dan Bertolet
 
 ## [SB 6015](/bill/2023-24/sb/6015/) - Residential parking 👍1  

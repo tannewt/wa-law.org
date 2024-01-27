@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 01/26 08:00 AM - Health & Long Term Care (HLTC): SB 6258 Standardized health plans
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31745&aId=157516&caId=23419&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31745&aId=157516&caId=23419&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31745&aId=157516&caId=23419&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31745&aId=157516&caId=23419&tId=4)
-
-#### 82 👍 - Pro
+#### 158 👍 - Pro
 Testifying:
 * Evan Klein - Health Care Authority
 * Ingrid Ulrey - Washington Health Benefit Exchange
@@ -25,6 +19,10 @@ Testifying:
 * Neil Angst
 * 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 
-#### 8 👎 - Con
+#### 12 👎 - Con
+Testifying:
+* Chris Bandoli - NABIP WA
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* Greg Seifert
 
 #### 0 ❓ - Other

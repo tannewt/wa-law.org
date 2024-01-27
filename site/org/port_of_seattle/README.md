@@ -27,7 +27,7 @@
 
 ## [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍1  
 
-## [HB 2039](/bill/2023-24/hb/2039/) - Modifying the appeals process for environmental and land use matters. 👍1  
+## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍1  
 
 ## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍1  
 

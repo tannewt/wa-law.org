@@ -81,4 +81,10 @@
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍2  
 * 👍💵 Jazmine Smith
 
+## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍2  
+* 👍💵 Jazmine Smith
+
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
+
+## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍1  
+* 👍💵 Jazmine Smith

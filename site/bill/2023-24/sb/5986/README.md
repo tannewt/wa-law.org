@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158145&caId=23651&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158145&caId=23651&tId=4)
 
-#### 0 👍 - Pro
+#### 67 👍 - Pro
+Testifying:
+* Shaun Ford - Washington Fire Chief's Association
+* Mike Battis - Ballard Ambulance
+* Shawn Ballard - Cascade Ambulance
 
 #### 0 👎 - Con
 

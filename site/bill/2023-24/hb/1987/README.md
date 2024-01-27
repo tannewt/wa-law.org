@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31807&aId=157746&caId=23711&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31807&aId=157746&caId=23711&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Councilmember Todd Donovan - Whatcom County
+* Kayla Schott-Bresler - Whatcom County
+* Commissioner Ron Wesen - [Skagit County](/org/skagit_county/)
 
 #### 0 👎 - Con
 

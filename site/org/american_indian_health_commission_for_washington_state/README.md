@@ -6,9 +6,9 @@
 
 ## [HB 1879](/bill/2023-24/hb/1879/) - Naming the curriculum used to inform students about tribal history, culture, and government after John McCoy (lulilaš). 👍1  
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍1  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
 
-## [HB 1956](/bill/2023-24/hb/1956/) - Addressing fentanyl and other substance use prevention education. 👍1  
+## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
 
 ## [HB 2019](/bill/2023-24/hb/2019/) - Establishing a Native American apprentice assistance program. 👍1  
 
@@ -21,6 +21,8 @@
 ## [HB 2172](/bill/2023-24/hb/2172/) - Vacant state agency property 👍1  
 
 ## [HB 2218](/bill/2023-24/hb/2218/) - Extended foster care 👍1  
+
+## [HB 2469](/bill/2023-24/hb/2469/) - Concerning involuntary treatment. 👍1  
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍1  
 

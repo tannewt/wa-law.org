@@ -11,19 +11,15 @@
 
 ## Meetings
 ### Thu 01/25 04:00 PM - Ways & Means (WM): SB 6249 Homeowner property tax ex.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31741&aId=157508&caId=23418&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31741&aId=157508&caId=23418&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31741&aId=157508&caId=23418&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31741&aId=157508&caId=23418&tId=4)
-
-#### 46 👍 - Pro
+#### 91 👍 - Pro
 Testifying:
 * John Wilson - Office of Assessments/King County Assessor John Wilson
 * 💵Michael Moran - Office of Assessments/King County Assessor John Wilson
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* June BlueSpruce - June BlueSpruce
+* Linda Hjelle - Snohomish County Assessor
 
-#### 24 👎 - Con
+#### 26 👎 - Con
 Testifying:
 * Eric Myhre
 

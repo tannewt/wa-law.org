@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6189/</link>
 		<description>Updates about SB 6189</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 07:00:24 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 26 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -125,6 +125,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Taylor/Gardner/2024-01-22 07:00:24</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-26/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

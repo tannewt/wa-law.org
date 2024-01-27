@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1618/</link>
 		<description>Updates about HB 1618</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 16 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 25 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -444,6 +444,13 @@
 			<pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-16/Rules Committee relieved of further consideration.  Placed on third reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 93; nays, 0; absent, 0; excused, 5.</title>
+			<description>Third reading, passed; yeas, 93; nays, 0; absent, 0; excused, 5.</description>
+			<pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-25/Third reading, passed; yeas, 93; nays, 0; absent, 0; excused, 5.</guid>
 		</item>
 	</channel>
 </rss>

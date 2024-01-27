@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1835/</link>
 		<description>Updates about HB 1835</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 20 Jan 2024 00:04:24 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 26 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,13 @@
 			<pubDate>Sat, 20 Jan 2024 00:04:24 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%201835</guid>
+		</item>
+		<item>
+			<title>ICEV - Executive action taken by committee.</title>
+			<description>ICEV - Executive action taken by committee.</description>
+			<pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-26/ICEV - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

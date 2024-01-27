@@ -11,23 +11,19 @@
 
 ## Meetings
 ### Thu 01/25 01:30 PM - Capital Budget (CB): HB 2310 State park heritage center
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31763&aId=157295&caId=23553&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31763&aId=157295&caId=23553&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31763&aId=157295&caId=23553&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31763&aId=157295&caId=23553&tId=4)
-
-#### 8 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Julie O'Neil
 * David Olson - Mayor, Town of Cathlamet
 * John Hughes
+* Lee Tischer - Wahkiakum County Commissioner
 
 #### 3 👎 - Con
 Testifying:
 * STETSON PALMER
 * Jim King
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Owen Rowe - Washington State Parks and Recreation Commission
+* Chris Moore - [Washington Trust for Historic Preservation](/org/washington_trust_for_historic_preservation/)

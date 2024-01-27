@@ -90,7 +90,7 @@
 
 ## [HB 1912](/bill/2023-24/hb/1912/) - Economic development info. 👍1  
 
-## [HB 1956](/bill/2023-24/hb/1956/) - Addressing fentanyl and other substance use prevention education. 👍1  
+## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
 
 ## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍1  
 

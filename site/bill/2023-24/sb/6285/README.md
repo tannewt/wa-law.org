@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158166&caId=23698&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158166&caId=23698&tId=4)
 
-#### 0 👍 - Pro
+#### 20 👍 - Pro
+Testifying:
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Dave Andersen - Washington Department of Commerce
 
 #### 0 ❓ - Other

@@ -74,7 +74,7 @@
 
 ## [HB 1879](/bill/2023-24/hb/1879/) - Naming the curriculum used to inform students about tribal history, culture, and government after John McCoy (lulilaš). 👍1  
 
-## [HB 1956](/bill/2023-24/hb/1956/) - Addressing fentanyl and other substance use prevention education. 👍1  
+## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
 
 ## [HB 2037](/bill/2023-24/hb/2037/) - Concerning Holocaust and genocide education in public schools. 👍1  
 
@@ -174,12 +174,12 @@
 
 ## [SB 5823](/bill/2023-24/sb/5823/) - School district elections 👍1  
 
-## [SB 5849](/bill/2023-24/sb/5849/) - Concerning a computer science competency graduation requirement.   ❓1
+## [SB 5849](/bill/2023-24/sb/5849/) - Computer science/graduation   ❓1
 * ❓ Alissa Muller
 
 ## [SB 5850](/bill/2023-24/sb/5850/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
 
-## [SB 5851](/bill/2023-24/sb/5851/) - Concerning Holocaust and genocide education in public schools. 👍1  
+## [SB 5851](/bill/2023-24/sb/5851/) - Holocaust and genocide edu. 👍1  
 
 ## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍1  
 

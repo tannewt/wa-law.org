@@ -17,11 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158151&caId=23678&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158151&caId=23678&tId=4)
 
-#### 1 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * 💵Joel Anderson - Washington Student Achievement Council
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

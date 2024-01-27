@@ -8,17 +8,14 @@
 
 ## Meetings
 ### Fri 01/26 08:00 AM - Health Care & Wellness (HCW): HB 2467 Increasing access to the long-term services and supports trust. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31706&aId=157802&caId=23625&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31706&aId=157802&caId=23625&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31706&aId=157802&caId=23625&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31706&aId=157802&caId=23625&tId=4)
-
-#### 92 👍 - Pro
+#### 117 👍 - Pro
 Testifying:
 * Lauri St. Ours - [Washington Health Care Association](/org/washington_health_care_association/)
 * Laura Cepoi - Olympic Area Agency on Aging
+* Cathy MacCaul - AARP Washington State
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Elizabeth Hovde - Washington Policy Center

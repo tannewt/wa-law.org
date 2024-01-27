@@ -116,6 +116,8 @@
 ## [SB 5712](/bill/2023-24/sb/5712/) - College grant/promise prg. 👍1  
 * 👍💵 Carolyn Brotherton
 
+## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍1  
+
 ## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave 👍1  
 * 👍💵 Gabriela Quintana
 

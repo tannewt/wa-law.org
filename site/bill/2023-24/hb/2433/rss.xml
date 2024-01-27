@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2433/</link>
 		<description>Updates about HB 2433</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 19 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 26 Jan 2024 03:05:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,14 @@
 			<pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-19/First reading, referred to Local Government.</guid>
+		</item>
+		<item>
+			<title>👍Bryan Kuykendall - Lewis County Parks &amp; Recreation</title>
+			<description>Bryan Kuykendall signed up to testify Pro. They are signed up to represent Lewis County Parks &amp; Recreation.</description>
+			<pubDate>Fri, 26 Jan 2024 03:05:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bryan/Kuykendall/2024-01-26 03:05:27</guid>
 		</item>
 	</channel>
 </rss>

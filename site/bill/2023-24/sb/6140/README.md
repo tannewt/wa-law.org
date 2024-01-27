@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 01/18 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6140 Intensive rural development

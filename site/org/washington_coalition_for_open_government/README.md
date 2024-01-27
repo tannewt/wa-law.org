@@ -10,7 +10,7 @@
 ## [HB 2307](/bill/2023-24/hb/2307/) - Public records reviews  👎2 
 * 👎 Juli Bunting
 
-## [SB 5779](/bill/2023-24/sb/5779/) - Concerning the public records exemptions accountability committee. 👍1  
+## [SB 5779](/bill/2023-24/sb/5779/) - Sunshine committee 👍1  
 
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
 * ❓ Mike Fancher

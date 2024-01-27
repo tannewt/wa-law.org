@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2457/</link>
 		<description>Updates about HB 2457</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 23 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 26 Jan 2024 01:18:20 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,14 @@
 			<pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-23/First reading, referred to Housing.</guid>
+		</item>
+		<item>
+			<title>❓Sarah Kendall - WA State Coalition Against Domestic Violence</title>
+			<description>Sarah Kendall signed up to testify Other. They are signed up to represent WA State Coalition Against Domestic Violence.</description>
+			<pubDate>Fri, 26 Jan 2024 01:18:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Sarah/Kendall/2024-01-26 01:18:20</guid>
 		</item>
 	</channel>
 </rss>

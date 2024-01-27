@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6107/</link>
 		<description>Updates about SB 6107</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 10 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 26 Jan 2024 11:14:40 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,30 @@
 			<pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-10/First reading, referred to Labor &amp; Commerce.</guid>
+		</item>
+		<item>
+			<title>👍Jeffery Whaley - DSHS Behavioral Health Administration</title>
+			<description>Jeffery Whaley signed up to testify Pro.</description>
+			<pubDate>Fri, 26 Jan 2024 08:29:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jeffery/Whaley/2024-01-26 08:29:19</guid>
+		</item>
+		<item>
+			<title>👎America George - Safety Site Solutions</title>
+			<description>America George signed up to testify Con. They are signed up to represent Safety Site Solutions.</description>
+			<pubDate>Fri, 26 Jan 2024 11:14:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/America/George/2024-01-26 11:14:40</guid>
+		</item>
+		<item>
+			<title>👎💵Carolyn Logue - Associated Builders &amp; Contractors of WA</title>
+			<description>Carolyn Logue signed up to testify Con. They are signed up to represent Associated Builders &amp; Contractors of WA. They are a registered lobbyist.</description>
+			<pubDate>Fri, 26 Jan 2024 11:14:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Carolyn/Logue/2024-01-26 11:14:40</guid>
 		</item>
 	</channel>
 </rss>

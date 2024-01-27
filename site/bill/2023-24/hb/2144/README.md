@@ -18,11 +18,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31808&aId=158123&caId=23716&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31808&aId=158123&caId=23716&tId=4)
 
-#### 0 👍 - Pro
+#### 67 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Miriam Gordon - The Story of Stuff
 
 ### Tue 01/09 04:00 PM - Environment & Energy (ENVI): HB 2144 Providing for a deposit return program for qualifying beverage containers to be implemented by a distributor responsibility organization. (Remote Testimony Available). (If measure is referred to committee.)
 #### 260 👍 - Pro

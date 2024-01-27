@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31808&aId=158122&caId=23715&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31808&aId=158122&caId=23715&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Matt Ewers - IEDS
+* Craig Smith - Far West Agribusiness Assn.
+* 💵Emily Shay - Association of Washington Buisness
 
 #### 0 👎 - Con
 

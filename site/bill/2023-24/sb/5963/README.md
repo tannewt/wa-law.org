@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31787&aId=157454&caId=23637&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31787&aId=157454&caId=23637&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
-#### 33 👎 - Con
+#### 60 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * eric pratt
+* Jeffrey Garretson
+* 💵Aoibheann Cline - NRA
 
 #### 0 ❓ - Other

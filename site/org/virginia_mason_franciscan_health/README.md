@@ -20,7 +20,7 @@
 
 ## [HB 1917](/bill/2023-24/hb/1917/) - Physician assistant compact 👍1  
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍1  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
 
 ## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍1  
 

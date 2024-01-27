@@ -75,7 +75,7 @@
 ## [SB 5838](/bill/2023-24/sb/5838/) - AI task force   ❓1
 * ❓💵 Kelly Fukai
 
-## [SB 5849](/bill/2023-24/sb/5849/) - Concerning a computer science competency graduation requirement. 👍1  
+## [SB 5849](/bill/2023-24/sb/5849/) - Computer science/graduation 👍1  
 * 👍💵 Brittany Jarnot
 
 ## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  

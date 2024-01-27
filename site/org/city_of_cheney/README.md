@@ -14,5 +14,5 @@
 
 ## [SB 5575](/bill/2023-24/sb/5575/) - PTBA governing bodies  👎1 
 
-## [SB 5834](/bill/2023-24/sb/5834/) - Concerning urban growth areas. 👍1  
+## [SB 5834](/bill/2023-24/sb/5834/) - Urban growth areas 👍1  
 * 👍 Brett Lucas

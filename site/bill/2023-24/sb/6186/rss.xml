@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6186/</link>
 		<description>Updates about SB 6186</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 20 Jan 2024 04:41:14 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 26 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -54,6 +54,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Barbara/Serrano/2024-01-20 04:41:14</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-26/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

@@ -60,7 +60,7 @@
 
 ## [HB 2031](/bill/2023-24/hb/2031/) - Recognizing posttraumatic stress disorder as an occupational disease for county coroners, examiners, and investigative personnel. 👍1  
 
-## [HB 2039](/bill/2023-24/hb/2039/) - Modifying the appeals process for environmental and land use matters. 👍1  
+## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍1  
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
@@ -90,7 +90,7 @@
 ## [HB 2246](/bill/2023-24/hb/2246/) - Vacation leave accrual 👍1  
 * 👍 Kati Durkin
 
-## [HB 2266](/bill/2023-24/hb/2266/) - Construction/sanitary cond. 👍1  
+## [HB 2266](/bill/2023-24/hb/2266/) - Construction/sanitary cond. 👍2  
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍2  
 
@@ -139,7 +139,7 @@
 
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  
 
-## [SB 5776](/bill/2023-24/sb/5776/) - Accessing an emergency supply of insulin. 👍1  
+## [SB 5776](/bill/2023-24/sb/5776/) - Insulin emergency supply 👍1  
 
 ## [SB 5777](/bill/2023-24/sb/5777/) - Unemp ins/strikes & lockouts 👍2  
 

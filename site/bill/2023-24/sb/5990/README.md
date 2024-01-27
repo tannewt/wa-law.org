@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31818&aId=157833&caId=23668&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31818&aId=157833&caId=23668&tId=4)
 
-#### 1 👍 - Pro
+#### 430 👍 - Pro
 
-#### 0 👎 - Con
+#### 22 👎 - Con
+Testifying:
+* 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* John Worthington

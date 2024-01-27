@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Thu 01/25 04:00 PM - Ways & Means (WM): SB 6191 Housing/taxes
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31741&aId=157504&caId=23414&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31741&aId=157504&caId=23414&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31741&aId=157504&caId=23414&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31741&aId=157504&caId=23414&tId=4)
-
-#### 1636 👍 - Pro
+#### 1726 👍 - Pro
 Testifying:
 * Cathy Murahashi - The Arc of Washington
 * Marc Cote - Parkview Services
@@ -42,7 +36,7 @@ Testifying:
 * robert m wardell - self adovates
 * 💵Preston Parish - Washington State Budget and Policy Center
 
-#### 248 👎 - Con
+#### 262 👎 - Con
 Testifying:
 * 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Emily Shay - Association of Washington Buisness
@@ -55,5 +49,6 @@ Testifying:
 * Craig Soehren - WA State Commercial Association of Realtors & Commercial Brokers Association
 * Mary Hull-Drury - Washington Realtors
 * Terry Wollam - Haven Development Corporation
+* Kim Faust - MainStreet Property Group, LLC
 
 #### 4 ❓ - Other

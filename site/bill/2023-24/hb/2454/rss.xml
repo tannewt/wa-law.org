@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2454/</link>
 		<description>Updates about HB 2454</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 23 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 25 Jan 2024 02:13:53 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,30 @@
 			<pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-23/First reading, referred to Finance.</guid>
+		</item>
+		<item>
+			<title>👍Matt Ewers - IEDS</title>
+			<description>Matt Ewers signed up to testify Pro. They are signed up to represent IEDS.</description>
+			<pubDate>Thu, 25 Jan 2024 01:55:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Matt/Ewers/2024-01-25 01:55:07</guid>
+		</item>
+		<item>
+			<title>👍Craig Smith - Far West Agribusiness Assn.</title>
+			<description>Craig Smith signed up to testify Pro. They are signed up to represent Far West Agribusiness Assn..</description>
+			<pubDate>Thu, 25 Jan 2024 01:58:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Craig/Smith/2024-01-25 01:58:02</guid>
+		</item>
+		<item>
+			<title>👍💵Emily Shay - Association of Washington Buisness</title>
+			<description>Emily Shay signed up to testify Pro. They are signed up to represent Association of Washington Buisness. They are a registered lobbyist.</description>
+			<pubDate>Thu, 25 Jan 2024 02:13:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Emily/Shay/2024-01-25 02:13:53</guid>
 		</item>
 	</channel>
 </rss>

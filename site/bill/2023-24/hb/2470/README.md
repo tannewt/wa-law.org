@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157990&caId=23731&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157990&caId=23731&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
 
-#### 42 👎 - Con
+#### 309 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
+* Jennifer Kaslow
+* Shaun D’Sylva
 
 #### 0 ❓ - Other

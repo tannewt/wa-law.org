@@ -148,7 +148,7 @@
 
 ## [HB 1240](/bill/2023-24/hb/1240/) - Firearms/assault weapons 👍2  
 
-## [HB 1241](/bill/2023-24/hb/1241/) - Harassment 👍1  
+## [HB 1241](/bill/2023-24/hb/1241/) - Harassment 👍2  
 
 ## [HB 1242](/bill/2023-24/hb/1242/) - Behavioral health work group 👍1  
 * 👍 Jared Mason-Gere
@@ -393,7 +393,7 @@
 ## [HB 1914](/bill/2023-24/hb/1914/) - Special education services  👎1 
 * 👎 Jared Mason-Gere
 
-## [HB 1915](/bill/2023-24/hb/1915/) - Making financial education instruction a graduation prerequisite and a required component of public education.   ❓1
+## [HB 1915](/bill/2023-24/hb/1915/) - Financial education   ❓1
 * ❓💵 Nasue Nishida
 
 ## [HB 1927](/bill/2023-24/hb/1927/) - Reducing the number of days that a worker's temporary total disability must continue to receive industrial insurance compensation for the day of an injury and the three-day period following the injury. 👍2  
@@ -409,14 +409,14 @@
 ## [HB 1950](/bill/2023-24/hb/1950/) - Concerning the public service loan forgiveness program. 👍2  
 * 👍💵 Simone Boe
 
-## [HB 1956](/bill/2023-24/hb/1956/) - Addressing fentanyl and other substance use prevention education. 👍1  
+## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
 * 👍💵 Simone Boe
 
 ## [HB 1969](/bill/2023-24/hb/1969/) - Individual providers/family 👍2  
 
 ## [HB 1975](/bill/2023-24/hb/1975/) - Relieving individuals from paying interest on certain unemployment insurance overpayment assessments. 👍1  
 
-## [HB 1982](/bill/2023-24/hb/1982/) - Broadband loans & grants 👍1  
+## [HB 1982](/bill/2023-24/hb/1982/) - Broadband loans & grants 👍2  
 
 ## [HB 1985](/bill/2023-24/hb/1985/) - PERS/TRS 1 benefit increase 👍1  
 * 👍 Jared Mason-Gere
@@ -525,6 +525,8 @@
 * ❓💵 Nasue Nishida
 
 ## [HB 2407](/bill/2023-24/hb/2407/) - Child welfare workers 👍1  
+
+## [HB 2411](/bill/2023-24/hb/2411/) - School construction debt 👍1  
 
 ## [HB 2437](/bill/2023-24/hb/2437/) - Retirement savings 👍1  
 
@@ -845,7 +847,7 @@
 
 ## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍1  
 
-## [SB 5776](/bill/2023-24/sb/5776/) - Accessing an emergency supply of insulin. 👍1  
+## [SB 5776](/bill/2023-24/sb/5776/) - Insulin emergency supply 👍1  
 
 ## [SB 5777](/bill/2023-24/sb/5777/) - Unemp ins/strikes & lockouts 👍1  
 
@@ -872,14 +874,16 @@
 
 ## [SB 5837](/bill/2023-24/sb/5837/) - Codifying the state election database to publish, evaluate, and analyze certain election data. 👍2  
 
+## [SB 5838](/bill/2023-24/sb/5838/) - AI task force 👍1  
+
 ## [SB 5839](/bill/2023-24/sb/5839/) - Modifying the working families' tax credit by clarifying the refundable nature of the credit, the application requirements, and the eligibility verification process. 👍1  
 
-## [SB 5849](/bill/2023-24/sb/5849/) - Concerning a computer science competency graduation requirement.   ❓1
+## [SB 5849](/bill/2023-24/sb/5849/) - Computer science/graduation   ❓1
 * ❓💵 Nasue Nishida
 
 ## [SB 5850](/bill/2023-24/sb/5850/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
 
-## [SB 5851](/bill/2023-24/sb/5851/) - Concerning Holocaust and genocide education in public schools. 👍1  
+## [SB 5851](/bill/2023-24/sb/5851/) - Holocaust and genocide edu. 👍1  
 * 👍💵 Simone Boe
 
 ## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍1  
@@ -894,18 +898,18 @@
 
 ## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
 
-## [SB 5895](/bill/2023-24/sb/5895/) - Concerning collective bargaining for certain employees who are enrolled in academic programs at public institutions of higher education. 👍1  
+## [SB 5895](/bill/2023-24/sb/5895/) - Concerning collective bargaining for certain employees who are enrolled in academic programs at public institutions of higher education. 👍2  
 
 ## [SB 5900](/bill/2023-24/sb/5900/) - Concerning construction crane safety. 👍1  
 
 ## [SB 5903](/bill/2023-24/sb/5903/) - Concerning representation in the educator preparation act. 👍1  
 * 👍💵 Simone Boe
 
-## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
+## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍2  
 
 ## [SB 5913](/bill/2023-24/sb/5913/) - Concerning communication between employees of state institutions of higher education and student athletes regarding name, image, and likeness use. 👍2  
 
-## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍1  
+## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍2  
 
 ## [SB 5924](/bill/2023-24/sb/5924/) - Access to personnel records 👍1  
 
@@ -921,6 +925,8 @@
 ## [SB 5956](/bill/2023-24/sb/5956/) - Enrichment levies limit 👍1  
 * 👍💵 Julie Salvi
 
+## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  
+
 ## [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation 👍1  
 * 👍 Jared Mason-Gere
 
@@ -933,6 +939,8 @@
 ## [SB 5987](/bill/2023-24/sb/5987/) - Gift certificates 👍1  
 
 ## [SB 5988](/bill/2023-24/sb/5988/) - Gift certificates/unclaimed 👍1  
+
+## [SB 5999](/bill/2023-24/sb/5999/) - Financial aid eligibility 👍1  
 
 ## [SB 6000](/bill/2023-24/sb/6000/) - Military service credit 👍1  
 
@@ -964,6 +972,8 @@
 ## [SB 6157](/bill/2023-24/sb/6157/) - Civil service 👍1  
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
+
+## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍1  
 
 ## [SB 6197](/bill/2023-24/sb/6197/) - LEOFF plan 2 👍1  
 

@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Thu 01/25 10:30 AM - Health & Long Term Care (HLTC): SB 6257 Hospital charity/residency
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31744&aId=157515&caId=23404&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31744&aId=157515&caId=23404&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31744&aId=157515&caId=23404&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31744&aId=157515&caId=23404&tId=4)
-
 #### 69 👍 - Pro
 
 #### 44 👎 - Con

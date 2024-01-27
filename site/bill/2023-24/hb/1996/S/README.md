@@ -1,0 +1,269 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1996](/bill/2023-24/hb/1996/) > [Substitute Bill](/bill/2023-24/hb/1996/S/)
+
+# HB 1996 - RV manufacturers and dealers
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/1996-S.pdf)
+
+## Section 1
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Area of sales responsibility" means the geographical area agreed to by the dealer and the manufacturer in the manufacturer/dealer agreement within which the dealer has the exclusive right to display or sell the manufacturer's new recreational vehicles of a particular line-make.
+
+2. "Component manufacturer" means any person, firm, corporation, or business entity that engages in the manufacturing of components, accessories, or parts used in manufacturing recreational vehicles.
+
+3. "Dealer" means any person, firm, corporation, or business entity licensed or required to be licensed that sells new recreational vehicles at retail in the state of Washington.
+
+4. "Distributor" means any person, firm, corporation, or business entity that purchases new recreational vehicles for resale to dealers.
+
+5. "Factory campaign" means an effort on the part of a warrantor to contact recreational vehicle owners or dealers in order to address a part or equipment issue.
+
+6. "Family member" means a spouse, child, grandchild, parent, sibling, niece, or nephew, or the spouse thereof.
+
+7. "Line-make" means a specific series of recreational vehicle products that:
+
+    a. Are targeted to a particular market segment as determined by their décor, features, equipment, size, weight, and price range;
+
+    b. Have lengths and interior floor plans that distinguish the recreational vehicles from other recreational vehicles with substantially the same décor, equipment, features, price, and weight;
+
+    c. Belong to a single, distinct classification of recreational vehicle product type having a substantial degree of commonality in the construction of the chassis, frame, and body; and
+
+    d. The manufacturer/dealer agreement authorizes a dealer to sell.
+
+8. "Manufacturer" means any person, firm, corporation, or business entity that engages in the manufacturing of recreational vehicles.
+
+9. "Manufacturer/dealer agreement" means a written agreement or contract entered into between a manufacturer and a dealer that fixes the rights and responsibilities of the parties and pursuant to which the dealer sells new recreational vehicles.
+
+10. "Model" is a series of recreational vehicle products identified by a common series trade name or trademark that is a subset of a line-make.
+
+11. "Proprietary part" means any part manufactured by or for and sold exclusively by the manufacturer.
+
+12. "Recreational vehicle" means a vehicle that is towed by a consumer-owned tow vehicle and designed to provide temporary living quarters for recreational, camping, or travel use, including only travel trailers, fifth-wheel travel trailers, truck campers, and folding camping trailers.
+
+13. "Transient customer" means a customer who is temporarily traveling through a dealer's area of sales responsibility.
+
+14. "Warrantor" means any person, firm, corporation, or business entity that gives a warranty in connection with a new recreational vehicle or parts, accessories, or components thereof. "Warrantor" does not include service contracts, mechanical or other insurance, or extended warranties sold for separate consideration by a dealer or other person not controlled by a manufacturer.
+
+## Section 2
+1. A manufacturer or distributor may not sell a new recreational vehicle in this state to or through a dealer without having first entered into a manufacturer/dealer agreement with a dealer that has been signed by both parties.
+
+2. The manufacturer shall designate the area of sales responsibility exclusively assigned to a dealer in the manufacturer/dealer agreement and may not change such area or contract with another dealer for sale of the same line-make in the designated area during the duration of the agreement.
+
+3. The terms of the manufacturer/dealer agreement, including the area of sales responsibility, may not be reviewed or changed during the duration of the manufacturer/dealer agreement without the written mutual consent of the parties. The duration of the manufacturer/dealer agreement must be stated in the dealer agreement.
+
+4. A recreational vehicle dealer may not sell a new recreational vehicle in this state without having first entered into a manufacturer/dealer agreement with a manufacturer or distributor and may not sell outside of the area of sales responsibility designated in the agreement.
+
+5. A manufacturer may not unilaterally issue a policy or procedure that violates or substantially alters a provision of the manufacturer/dealer agreement during the duration of such agreement.
+
+6. A manufacturer will distribute new recreational vehicles to its dealers in a fair and equitable manner. If requested, a manufacturer will provide information on its manner of distribution.
+
+7. A manufacturer agrees to provide the dealer with adequate technical data to perform proper service and repairs.
+
+## Section 3
+1. A manufacturer or distributor, directly or through any officer, agent, or employee, may only terminate, cancel, or fail to renew a model, line-make, or entire manufacturer/dealer agreement with good cause, and, upon renewal, may not require additional inventory stocking requirements or increased retail sales targets in excess of the market growth in the dealer's area of sales responsibility.
+
+    a. The manufacturer or distributor has the burden of showing good cause for terminating, canceling, or failing to renew a model, line-make, or manufacturer/dealer agreement with a dealer. For purposes of determining whether there is good cause for the proposed action, any of the following factors may be considered:
+
+        i. The extent of the affected dealer's penetration in the relevant market area for the relevant model or line-make;
+
+        ii. The nature and extent of the dealer's investment in its business;
+
+        iii. The adequacy of the dealer's service facilities, equipment, parts, supplies, and personnel;
+
+        iv. The effect of the proposed action on the community;
+
+    v. The extent and quality of the dealer's service under recreational vehicle warranties;
+
+    vi. The failure to follow agreed-upon, reasonable procedures or standards related to the overall operation of the dealership consistent with the law and the manufacturer/dealer agreement; or
+
+    vii. The dealer's performance under the terms of its manufacturer/dealer agreement.
+
+    b. Except as otherwise provided in this section, a manufacturer or distributor shall provide a dealer with at least 120 days prior written notice of termination, cancellation, or nonrenewal of a model, line-make, or the entire manufacturer/dealer agreement.
+
+        i. The notice must state all reasons for the proposed termination, cancellation, or nonrenewal and must further state that if, within 30 days following receipt of the notice, the dealer provides to the manufacturer or distributor a written notice of intent to cure all claimed deficiencies, the dealer will then have 120 days following receipt of the notice to rectify the deficiencies. If the deficiencies are rectified within 120 days, the manufacturer's or distributor's notice is voided. If the dealer fails to provide the notice of intent to cure the deficiencies in the prescribed time period, the termination, cancellation, or nonrenewal takes effect 30 days after the dealer's receipt of the notice unless the dealer has new and untitled inventory on hand that may be disposed of pursuant to subsection (3) of this section.
+
+        ii. The notice period may be reduced to 30 days if the grounds for termination, cancellation, or nonrenewal are due to:
+
+(A) A dealer or one of its owners being convicted of, or entering a plea of nolo contendere to, a felony;
+
+(B) The abandonment or closing of the business operations of the dealer for 10 consecutive business days unless the closing is due to an act of God, strike, labor difficulty, or other cause over which the dealer has no control;
+
+(C) A significant misrepresentation by the dealer materially affecting the business relationship; or
+
+(D) A suspension or revocation of the dealer's license, or refusal to renew the dealer's license, by the department.
+
+        iii. The notice provisions of this subsection (1)(b) do not apply if the reason for termination, cancellation, or nonrenewal is insolvency, the occurrence of an assignment for the benefit of creditors, or bankruptcy.
+
+2. A dealer may terminate, cancel, or not renew a model, line-make, or the entire manufacturer/dealer agreement with a manufacturer or distributor with or without good cause at any time by giving 30 days written notice to the manufacturer. If the termination, cancellation, or nonrenewal is for good cause, the dealer has the burden of showing good cause. Any of the following items, among others, may be deemed good cause for the proposed action by a dealer:
+
+    a. A manufacturer being convicted of, or entering a plea of nolo contendere to, a felony;
+
+    b. The business operations of the manufacturer have been abandoned or closed for 10 consecutive business days, unless the closing is due to an act of God, strike, labor difficulty, or other cause over which the manufacturer has no control;
+
+    c. A significant misrepresentation by the manufacturer materially affecting the business relationship;
+
+    d. A material violation of this act, which is not cured within 30 days after written notice by the dealer;
+
+    e. A declaration by the manufacturer of bankruptcy, insolvency, or the occurrence of an assignment for the benefit of creditors or bankruptcy;
+
+    f. A material violation of the manufacturer/dealer agreement that is not cured within 120 days after written notice by the dealer;
+
+    g. Manufacturer coercion of dealer; or
+
+    h. A manufacturer violation of area of sales responsibility protections, or allowing other dealers to violate such protections.
+
+3. If the manufacturer/dealer agreement is terminated, canceled, or not renewed by the dealer for good cause, the manufacturer shall, at the election of the dealer and within 45 days after termination, cancellation, or nonrenewal, repurchase:
+
+    a. All new, untitled recreational vehicles that were acquired from the manufacturer or distributor within 18 months before the date of the notice of termination, cancellation, or nonrenewal that have not been used, except for demonstration purposes, and that have not been altered or damaged, at 100 percent of the net invoice cost, including transportation, less applicable rebates and discounts to the dealer. If any of the recreational vehicles repurchased are damaged, the amount due to the dealer shall be reduced by the cost to repair the damaged recreational vehicle. Damage prior to delivery to the dealer will not disqualify repurchase under this subsection. Any repurchased recreational vehicle must be paid in full before the vehicle is removed from the dealer's premises. Upon payment, the recreational vehicle must be immediately surrendered to the manufacturer;
+
+    b. All undamaged accessories and proprietary parts sold to the dealer for resale within the 12 months prior to termination, cancellation, or nonrenewal, if accompanied by the original invoice, at 105 percent of the original net price paid to the manufacturer or distributor to compensate the dealer for handling, packing, and shipping the parts; and
+
+    c. Any properly functioning diagnostic equipment, special tools, current signage, and other equipment and machinery at 100 percent of the dealer's net cost, plus freight, destination, delivery, and distribution charges and sales taxes, if any, if it was purchased by the dealer within five years before termination, cancellation, or nonrenewal and upon the manufacturer's or distributor's request and can no longer be used in the normal course of the dealer's ongoing business.
+
+4. If the manufacturer/dealer agreement is terminated, canceled, or not renewed by the manufacturer or distributor without good cause, in violation of subsection (1) of this section, then the manufacturer or distributor shall repurchase dealer inventory, equipment, parts, etc. as provided in subsection (3) of this section.
+
+5. When selling the remaining inventory after termination:
+
+    a. A dealer is not prohibited from selling the remaining in-stock inventory of a particular line-make after a manufacturer/dealer agreement has been terminated, canceled, or not renewed by the manufacturer or distributor.
+
+    b. If recreational vehicles of a line-make subject to the terminated manufacturer/dealer agreement are not repurchased or required to be repurchased by the manufacturer or distributor, the dealer may continue to sell such recreational vehicles that are subject to the terminated manufacturer/dealer agreement and are currently in stock until those recreational vehicles are no longer in the dealer's inventory.
+
+6. When taking on an additional line-make of a recreational vehicle, a dealer shall notify in writing any manufacturer with whom the dealer has a manufacturer/dealer agreement of the same line-make at least 30 days prior to entering into a manufacturer/dealer agreement with the manufacturer of the additional line-make.
+
+## Section 4
+1. If a dealer desires to make a change in ownership by the sale of the business assets, stock transfer, or otherwise, the dealer shall give the manufacturer or distributor written notice at least 10 business days before the closing, including all supporting documentation as may be reasonably required by the manufacturer or distributor to determine if an objection to the sale may be made. In the absence of a breach by the selling dealer of its dealer agreement or this chapter, the manufacturer or distributor shall not object to the proposed change in ownership unless the prospective transferee:
+
+    a. Has previously been terminated for cause by the manufacturer;
+
+    b. Has been convicted of a felony or any crime of fraud, deceit, or moral turpitude;
+
+    c. Lacks any license required by law;
+
+    d. Does not have an active line of credit sufficient to purchase a manufacturer's product; or
+
+    e. Has undergone in the last 10 years bankruptcy, insolvency, a general assignment for the benefit of creditors, or the appointment of a receiver, trustee, or conservator to take possession of the transferee's business or property.
+
+2. If the manufacturer or distributor objects to a proposed change of ownership, the manufacturer or distributor shall give written notice of its reasons to the dealer within seven business days after receipt of the dealer's notification and complete documentation. The manufacturer or distributor has the burden of proof with regard to its objection. If the manufacturer or distributor does not give timely notice of its objection, the change or sale shall be deemed approved.
+
+3. [Empty]
+
+    a. It is unlawful for a manufacturer or distributor to fail to provide a dealer an opportunity to designate, in writing, a family member as a successor to the dealership in the event of the death, incapacity, or retirement of the dealer. It is unlawful to prevent or refuse to honor the succession to a dealership by a family member of the deceased, incapacitated, or retired dealer unless the manufacturer or distributor has provided to the dealer written notice of its objections within 10 business days after receipt of the dealer's modification of the dealer's succession plan. In the absence of a breach of the dealer agreement, the manufacturer may object to the succession for the following reasons only:
+
+        i. Conviction of the successor of a felony or any crime of fraud, deceit, or moral turpitude;
+
+        ii. Bankruptcy or insolvency of the successor during the past 10 years;
+
+        iii. Prior termination by the manufacturer of the successor for breach of a manufacturer/dealer agreement;
+
+        iv. The lack of an active line of credit for the successor sufficient to purchase the manufacturer's product; or
+
+    v. The lack of any license for the successor required by law.
+
+    b. The manufacturer or distributor has the burden of proof regarding its objection. However, a family member may not succeed to a dealership if the succession involves, without the manufacturer's or distributor's consent, a relocation of the business or an alteration of the terms and conditions of the manufacturer/dealer agreement.
+
+## Section 5
+1. Each warrantor shall:
+
+    a. Specify in writing to each of its dealers, the dealer's obligations, if any, for preparation, delivery, and warranty service on its products based on the warrantor's stated policies that must be reasonable and customary in the recreational vehicle industry;
+
+    b. Compensate the dealer for warranty service performed by the dealer that is covered by the warrantor's own warranty;
+
+    c. Provide the dealer the schedule of compensation to be paid and the time allowances for the performance of any work and service. The schedule of compensation must include reasonable compensation for diagnostic work as well as warranty labor. If the schedule of compensation required by this section does not include a particular repair, the warrantor will reimburse the dealer for warranty service for the actual time expended unless the warrantor demonstrates that the actual time was not reasonable. In such event, the dealer will be paid a reasonable sum.
+
+2. Time allowances for the diagnosis and performance of warranty labor must be reasonable for the work to be performed. The compensation of a dealer for warranty labor may not be less than the lowest retail labor rate actually charged by the dealer in the ordinary course of business for like nonwarranty labor as long as such rate is reasonable in the dealer's market.
+
+3. The warrantor shall reimburse the dealer for any warranty part, accessory, or complete component at actual wholesale cost plus a minimum 30 percent handling charge and the cost, if any, of freight to return such part, component, or accessory to the warrantor. If a part is sent to the dealer at no cost, the dealer is entitled to payment of 30 percent of the wholesale cost of the part from the warrantor as a handling charge. The maximum handling charge for a product sent to the dealer at no cost shall not exceed $300. The warrantor will also reimburse the dealer the cost of freight to return a warranty part, accessory, or complete component to the warrantor.
+
+4. Warranty audits of dealer records may be conducted by the warrantor on a reasonable basis, and dealer claims for warranty compensation may not be denied except for cause, such as performance of nonwarranty repairs, material noncompliance with the warrantor's published policies and procedures, lack of material documentation, fraud, or misrepresentation.
+
+5. The dealer shall submit warranty claims within 45 days after completing the work.
+
+6. The dealer shall notify the warrantor as soon as is reasonably possible, verbally or in writing, if the dealer is unable or unwilling to perform material or repetitive warranty repairs.
+
+7. The warrantor shall disapprove warranty claims in writing within 45 days after the date of submission by the dealer in the manner and form prescribed by the warrantor. Claims not specifically disapproved in writing within 45 days shall be construed to be approved and must be paid within 60 days.
+
+8. It is a violation of this chapter for any warrantor to:
+
+    a. Fail to perform any of its warranty obligations with respect to its warranted products;
+
+    b. Fail to include, in written notices of factory campaigns to recreational vehicle owners and dealers, the expected date by which necessary parts and equipment, including tires and chassis or chassis parts, will be available to dealers to perform the campaign work. The warrantor may ship parts to the dealer to affect the campaign work, and, if such parts are in excess of the dealer's requirements, the dealer may return unused parts to the warrantor for credit after completion of the campaign;
+
+    c. Fail to compensate any of its dealers for authorized repairs effected by the dealer of merchandise damaged in manufacture or transit to the dealer, if the carrier is designated by the warrantor, factory branch, distributor, or distributor branch;
+
+    d. Fail to compensate any of its dealers for authorized warranty service in accordance with the time allowances set forth in the schedule of compensation if performed in a timely and competent manner;
+
+    e. Intentionally misrepresent in any way to purchasers of recreational vehicles that warranties with respect to the manufacture, performance, or design of the vehicle are made by the dealer as warrantor or cowarrantor; or
+
+    f. Require the dealer to make warranties to customers in any manner related to the manufacture of the recreational vehicle.
+
+9. It is a violation of this chapter for any dealer to:
+
+    a. Fail to perform predelivery inspection functions, as specified by the warrantor, in a competent and timely manner;
+
+    b. Fail to perform warranty service work authorized by the warrantor in a reasonably competent and timely manner on any transient customer's vehicle of the same line-make unless the dealer determines that the customer is acting in a manner detrimental to its business;
+
+    c. Fail to track actual time expended to perform warranty work not governed by time allowances in the schedule of compensation;
+
+    d. Claim an agency relationship with warrantor or manufacturer; or
+
+    e. Misrepresent the terms of any warranty.
+
+10. Notwithstanding the terms of any manufacturer/dealer agreement, it is a violation of this chapter for:
+
+    a. A warrantor to fail to indemnify, defend, and hold harmless its dealer against any losses or damages to the extent such losses or damages are caused by the negligence or willful misconduct of the warrantor. The dealer may not be denied indemnification or a defense for failing to discover, disclose, or remedy a defect in the design or manufacturing of the recreational vehicle. The dealer shall provide to the warrantor a copy of any suit in which allegations are made that come within this subsection within 10 days after receiving such suit. This subsection shall continue to apply even after the recreational vehicle is titled. Indemnification must include court costs, reasonable attorneys' fees, and expert witness fees incurred by the dealer.
+
+    b. A dealer to fail to indemnify, defend, and hold harmless its warrantor against any losses or damages to the extent such losses or damages are caused by the negligence or willful misconduct of the dealer. The warrantor shall provide to the dealer a copy of any suit in which allegations are made that come within this subsection within 10 days after receiving such suit. This subsection shall continue to apply even after the recreational vehicle is titled. Indemnification must include court costs, reasonable attorneys' fees, and expert witness fees incurred by the warrantor.
+
+## Section 6
+1. [Empty]
+
+    a. Whenever a new recreational vehicle is damaged prior to transit to the dealer or is damaged in transit to the dealer when the carrier or means of transportation has been selected by the manufacturer or distributor, the dealer shall notify the manufacturer or distributor of the damage within the time frame specified in the manufacturer/dealer agreement and:
+
+        i. Request from the manufacturer or distributor authorization to replace the components, parts, and accessories damaged or otherwise correct the damage; or
+
+        ii. Reject the vehicle within the time frame set forth in subsection (3) of this section.
+
+    b. If the manufacturer or distributor refuses or fails to authorize repair of such damage within 10 days after receipt of notification or if the dealer rejects the recreational vehicle because of damage, ownership of the new recreational vehicle reverts to the manufacturer or distributor.
+
+2. The dealer shall exercise due care in custody of the damaged recreational vehicle, but the dealer shall have no other obligations, financial or otherwise, with respect to that recreational vehicle.
+
+3. The time frame for inspection and rejection by the dealer must be part of the manufacturer/dealer agreement and may not be less than two business days after the physical delivery of the recreational vehicle.
+
+## Section 7
+1. A manufacturer or distributor may not coerce or attempt to coerce a dealer to:
+
+    a. Purchase a product that the dealer did not order;
+
+    b. Enter into an agreement with the manufacturer or distributor;
+
+    c. Take any action that is unfair or unreasonable to the dealer;
+
+    d. Enter into an agreement that requires the dealer to submit its disputes to binding arbitration or otherwise waive rights or responsibilities provided under this chapter; or
+
+    e. Forego exercising a right authorized by a manufacturer/dealer agreement or any law governing the manufacturer/dealer relationship.
+
+2. As used in this section, the term "coerce" includes, but is not limited to, threatening to terminate, cancel, or not renew a manufacturer/dealer agreement without good cause or threatening to withhold product lines or delay product delivery as an inducement to amending the manufacturer/dealer agreement.
+
+3. The dealer bears the burden of proof regarding the prohibited acts described in this section.
+
+## Section 8
+1. A dealer, manufacturer, distributor, or warrantor injured by another party's violation of this chapter may bring a civil action in superior court to recover actual damages. The court shall award attorneys' fees and costs to the prevailing party in such action. Venue for any civil action authorized by this section must exclusively be in the county in which the dealership is located. In an action involving more than one dealer, the venue may be in any county in which a dealer who is party to the action is located.
+
+2. Before bringing suit under this section, the party bringing suit for an alleged violation shall serve a written demand for mediation upon the offending party. This subsection does not apply to a proceeding for injunctive relief.
+
+    a. The demand for mediation shall be served upon the offending party via certified mail at the address stated within the agreement between the parties or, if the address is not contained in the agreement or the address is no longer valid, the address on the offending party's license filed with the state. In the event of a civil action between two dealers, the demand must be mailed to the address on the dealer's license filed with the state.
+
+    b. The demand for mediation must contain a brief statement of the dispute and the relief sought by the party filing the demand.
+
+    c. Within 20 days after the date a demand for mediation is served, the parties shall mutually select an independent mediator and meet with the mediator for the purpose of attempting to resolve the dispute. The meeting place must be in this state in a location selected by the mediator. The mediator may extend the date of the meeting for good cause shown by either party or upon stipulation of both parties.
+
+    d. The service of a demand for mediation under this subsection stays the time for the filing of any complaint, petition, protest, or action under this chapter until representatives of both parties have met with a mutually selected mediator for the purpose of attempting to resolve the dispute. If a complaint, petition, protest, or action is filed before that meeting, the court shall enter an order suspending the proceeding or action until the meeting has occurred and may, upon written stipulation of all parties to the proceeding or action that they wish to continue to mediate under this subsection, enter an order suspending the proceeding or action for as long a period as the court considers appropriate. A suspension order issued under this subsection may be revoked by the court.
+
+    e. The parties to the mediation shall bear their own costs for attorneys' fees and divide equally the cost of the mediator.
+
+3. In addition to the remedies provided in this section and notwithstanding the existence of any additional remedy at law, a dealer or manufacturer may apply to a superior court for the grant, upon a hearing and for cause shown, of a temporary or permanent injunction, or both, restraining any person from acting as a dealer, manufacturer, or distributor without being properly licensed pursuant to this chapter, from violating or continuing to violate any of the provisions of this chapter, or from failing or refusing to comply with the requirements of this chapter. Such injunction shall be issued without bond. A single act in violation of any of the provisions of this chapter is sufficient to authorize the issuance of an injunction.
+
+## Section 9
+This state may suspend or revoke any dealer, manufacturer, or distributor license upon a finding that any such party violated any provision of this chapter. The department may impose, levy, and collect by legal process fines, in an amount not to exceed $1,000 for each violation, against any person if it finds that such person has violated any provision of this chapter. Such person is entitled to an administrative hearing or other proceeding authorized under state law to contest the action or fine levied, or about to be levied, against the person.
+
+## Section 10
+In addition to the definitions contained in RCW 46.70.011, which are incorporated by reference into this chapter, the definitions set forth in this section apply only for the purposes of this chapter.

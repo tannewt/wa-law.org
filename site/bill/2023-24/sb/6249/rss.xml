@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6249/</link>
 		<description>Updates about SB 6249</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 24 Jan 2024 02:33:50 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 25 Jan 2024 10:27:51 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -54,12 +54,28 @@
 			<guid isPermaLink="false">testifier/Andrew/Villeneuve/2024-01-24 02:32:47</guid>
 		</item>
 		<item>
-			<title>👎Eric Myhre - Northwest Progressive Institute</title>
+			<title>👎Eric Myhre - Snohomish County Assessor</title>
 			<description>Eric Myhre signed up to testify Con.</description>
 			<pubDate>Wed, 24 Jan 2024 02:33:50 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Eric/Myhre/2024-01-24 02:33:50</guid>
+		</item>
+		<item>
+			<title>👍June BlueSpruce - June BlueSpruce</title>
+			<description>June BlueSpruce signed up to testify Pro. They are signed up to represent June BlueSpruce.</description>
+			<pubDate>Thu, 25 Jan 2024 01:25:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/June/BlueSpruce/2024-01-25 01:25:10</guid>
+		</item>
+		<item>
+			<title>👍Linda Hjelle - Snohomish County Assessor</title>
+			<description>Linda Hjelle signed up to testify Pro. They are signed up to represent Snohomish County Assessor.</description>
+			<pubDate>Thu, 25 Jan 2024 10:27:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Linda/Hjelle/2024-01-25 10:27:51</guid>
 		</item>
 	</channel>
 </rss>

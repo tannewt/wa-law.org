@@ -75,7 +75,7 @@
 
 ## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍1  
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍1  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
 
 ## [HB 1933](/bill/2023-24/hb/1933/) - Supporting the servicing and right to repair of certain products with digital electronics in a secure and reliable manner. 👍1  
 
@@ -87,7 +87,7 @@
 
 ## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍1  
 
-## [HB 2039](/bill/2023-24/hb/2039/) - Modifying the appeals process for environmental and land use matters. 👍1  
+## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍1  
 
 ## [HB 2044](/bill/2023-24/hb/2044/) - Standardizing limitations on voter-approved property tax levies. 👍1  
 
@@ -178,7 +178,7 @@
 
 ## [SB 5899](/bill/2023-24/sb/5899/) - Adding to the list of provisions prohibited from rental agreements. 👍1  
 
-## [SB 5917](/bill/2023-24/sb/5917/) - Concerning criminal penalties for bias-motivated defacement of private or public property. 👍1  
+## [SB 5917](/bill/2023-24/sb/5917/) - Bias-motivated defacement 👍1  
 
 ## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  
 

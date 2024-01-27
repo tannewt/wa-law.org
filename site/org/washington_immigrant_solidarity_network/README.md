@@ -1,5 +1,7 @@
 # Washington Immigrant Solidarity Network
 
+## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
+
 ## [HB 1095](/bill/2023-24/hb/1095/) - Wage replacement 👍2  
 * 👍 Luis Amado
 

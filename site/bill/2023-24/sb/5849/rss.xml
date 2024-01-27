@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 5849 - Concerning a computer science competency graduation requirement.</title>
+		<title>SB 5849 - Computer science/graduation</title>
 		<link>https://wa-law.org/bill/2023-24/sb/5849/</link>
 		<description>Updates about SB 5849</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 17 Jan 2024 11:50:01 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 26 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -187,6 +187,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Anna/Hernandez-French/2024-01-17 11:50:01</guid>
+		</item>
+		<item>
+			<title>On motion, referred to Ways &amp; Means.</title>
+			<description>On motion, referred to Ways &amp; Means.</description>
+			<pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-26/On motion, referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

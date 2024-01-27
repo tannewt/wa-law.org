@@ -319,7 +319,7 @@
 ## [HB 1900](/bill/2023-24/hb/1900/) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system.   ❓1
 * ❓💵 Peter Godlewski
 
-## [HB 1915](/bill/2023-24/hb/1915/) - Making financial education instruction a graduation prerequisite and a required component of public education. 👍2  
+## [HB 1915](/bill/2023-24/hb/1915/) - Financial education 👍2  
 
 ## [HB 1916](/bill/2023-24/hb/1916/) - Concerning funding for the early support for infants and toddlers program. 👍1  
 
@@ -328,7 +328,7 @@
 
 ## [HB 1924](/bill/2023-24/hb/1924/) - Fusion technology policies 👍1  
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍1  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
 
 ## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍1  
 
@@ -348,7 +348,7 @@
 
 ## [HB 2035](/bill/2023-24/hb/2035/) - Concerning restrictions on the working conditions and hours of sixteen- and seventeen-year olds. 👍1  
 
-## [HB 2039](/bill/2023-24/hb/2039/) - Modifying the appeals process for environmental and land use matters. 👍1  
+## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍1  
 * 👍💵 Peter Godlewski
 
 ## [HB 2045](/bill/2023-24/hb/2045/) - Adopt a fish barrier program 👍1  
@@ -390,7 +390,7 @@
 ## [HB 2158](/bill/2023-24/hb/2158/) - Urban growth area boundaries 👍1  
 * 👍 Morgan Irwin
 
-## [HB 2160](/bill/2023-24/hb/2160/) - Housing development  👎1 
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development  👎2 
 * 👎 Morgan Irwin
 
 ## [HB 2172](/bill/2023-24/hb/2172/) - Vacant state agency property 👍1  
@@ -654,7 +654,7 @@
 
 ## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍1  
 
-## [SB 5776](/bill/2023-24/sb/5776/) - Accessing an emergency supply of insulin.  👎1 
+## [SB 5776](/bill/2023-24/sb/5776/) - Insulin emergency supply  👎1 
 * 👎💵 Emily Wittman
 
 ## [SB 5777](/bill/2023-24/sb/5777/) - Unemp ins/strikes & lockouts  👎1 
@@ -681,8 +681,10 @@
 
 ## [SB 5870](/bill/2023-24/sb/5870/) - Early learning programs 👍1  
 
-## [SB 5901](/bill/2023-24/sb/5901/) - Concerning co-living housing. 👍1  
+## [SB 5901](/bill/2023-24/sb/5901/) - Co-living housing 👍1  
 * 👍 Morgan Irwin
+
+## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
 
 ## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD   ❓1
 
@@ -700,6 +702,8 @@
 
 ## [SB 5965](/bill/2023-24/sb/5965/) - Fashion/environmental impact  👎1 
 * 👎💵 Peter Godlewski
+
+## [SB 5999](/bill/2023-24/sb/5999/) - Financial aid eligibility 👍1  
 
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management  👎1 
 * 👎💵 Peter Godlewski
@@ -749,6 +753,8 @@
 
 ## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management  👎1 
 * 👎💵 Peter Godlewski
+
+## [SB 6211](/bill/2023-24/sb/6211/) - Mobile home rent increases  👎1 
 
 ## [SB 6212](/bill/2023-24/sb/6212/) - Rent payments/credit reports  👎1 
 

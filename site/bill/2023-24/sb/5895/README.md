@@ -10,6 +10,19 @@
 * 01/18/2024 [Senate Democrats](/org/senate_democrats/) - [Nobles bill would establish collective bargaining rights for student employees - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/18/nobles-bill-would-establish-collective-bargaining-rights-for-student-employees/#:~:text=Senate%20Bill%205895)
 
 ## Meetings
+### Fri 02/02 01:30 PM - Ways & Means (WM): SB 5895 Academic employee bargaining
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158268&caId=23746&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158268&caId=23746&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158268&caId=23746&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158268&caId=23746&tId=4)
+
+#### 13 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/18 08:00 AM - Labor & Commerce (LC): SB 5895 Academic employee bargaining
 #### 402 👍 - Pro
 Testifying:

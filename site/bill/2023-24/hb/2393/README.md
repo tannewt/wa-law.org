@@ -8,19 +8,15 @@
 
 ## Meetings
 ### Thu 01/25 04:00 PM - Transportation (TR): HB 2393 Unleaded aircraft fuel/tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31712&aId=157511&caId=23557&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31712&aId=157511&caId=23557&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31712&aId=157511&caId=23557&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31712&aId=157511&caId=23557&tId=4)
-
-#### 9 👍 - Pro
+#### 120 👍 - Pro
 Testifying:
 * Brad Schuster - Aircraft Owners and Pilots Association (AOPA) / Northwest Mountain Regional Manager
 * Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* 💵Warren Hendrickson - Washington Aviation Alliance
+* John Dobson - Washington State Aviation Alliance
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

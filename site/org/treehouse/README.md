@@ -42,7 +42,7 @@
 
 ## [HB 1701](/bill/2023-24/hb/1701/) - Institutional ed. programs   ❓1
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍2  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍2  
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
@@ -106,8 +106,10 @@
 * 👍 Fred Kingston
 * 👍 Fred Kingston
 
-## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍2  
+## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍3  
 * 👍💵 Daniel Lugo
+
+## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  
 
 ## [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation  👎2 
 * 👎 Marshelle Jordan

@@ -230,7 +230,7 @@
 
 ## [SB 5843](/bill/2023-24/sb/5843/) - Election security breaches 👍1  
 
-## [SB 5851](/bill/2023-24/sb/5851/) - Concerning Holocaust and genocide education in public schools. 👍1  
+## [SB 5851](/bill/2023-24/sb/5851/) - Holocaust and genocide edu. 👍1  
 
 ## [SB 5856](/bill/2023-24/sb/5856/) - Concerning voter registration challenges. 👍1  
 
@@ -239,7 +239,7 @@
 ## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍2  
 * 👍 Andrew Villeneuve
 
-## [SB 5917](/bill/2023-24/sb/5917/) - Concerning criminal penalties for bias-motivated defacement of private or public property. 👍1  
+## [SB 5917](/bill/2023-24/sb/5917/) - Bias-motivated defacement 👍1  
 
 ## [SB 5943](/bill/2023-24/sb/5943/) - Resource data tool 👍1  
 

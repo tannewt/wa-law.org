@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 5925 - Concerning fire protection district commissioner per diem compensation.</title>
+		<title>SB 5925 - Fire commissioner comp.</title>
 		<link>https://wa-law.org/bill/2023-24/sb/5925/</link>
 		<description>Updates about SB 5925</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 09 Jan 2024 10:03:10 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 26 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -52,6 +52,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Robert/Homan/2024-01-09 10:03:10</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-26/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

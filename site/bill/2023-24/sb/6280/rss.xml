@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6280/</link>
 		<description>Updates about SB 6280</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 19 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 26 Jan 2024 09:47:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,22 @@
 			<pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-19/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>👍Scott Bigger - K9kavalry</title>
+			<description>Scott Bigger signed up to testify Pro. They are signed up to represent K9kavalry.</description>
+			<pubDate>Fri, 26 Jan 2024 08:47:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Scott/Bigger/2024-01-26 08:47:03</guid>
+		</item>
+		<item>
+			<title>👍Dan Regester - K9 Kavalry 501(c)3</title>
+			<description>Dan Regester signed up to testify Pro. They are signed up to represent K9 Kavalry 501(c)3.</description>
+			<pubDate>Fri, 26 Jan 2024 09:47:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dan/Regester/2024-01-26 09:47:47</guid>
 		</item>
 	</channel>
 </rss>

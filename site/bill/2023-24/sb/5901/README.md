@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [SB 5901](/bill/2023-24/sb/5901/)
 
-# SB 5901 - Concerning co-living housing.
+# SB 5901 - Co-living housing
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5901&Year=2023&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/09/2024 [The Urbanist](/org/the_urbanist/) - [Micro-apartments Could Become Fully Legal in Washington, Again - The Urbanist](https://www.theurbanist.org/2024/01/09/micro-apartments-could-become-fully-legal-in-washington-again/#:~:text=Senate%20Bill%205901)

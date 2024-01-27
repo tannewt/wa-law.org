@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157987&caId=23728&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157987&caId=23728&tId=4)
 
-#### 0 👍 - Pro
+#### 21 👍 - Pro
+Testifying:
+* Brian Holtzclaw - Master Builders Association of King and Snohomish Counties
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Dave Andersen - Washington Department of Commerce
 
 #### 0 ❓ - Other

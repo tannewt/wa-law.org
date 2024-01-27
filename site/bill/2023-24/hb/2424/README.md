@@ -8,23 +8,26 @@
 
 ## Meetings
 ### Fri 01/26 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2424 State-tribe coop./wildlife
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31721&aId=157560&caId=23573&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31721&aId=157560&caId=23573&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31721&aId=157560&caId=23573&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31721&aId=157560&caId=23573&tId=4)
-
-#### 73 👍 - Pro
+#### 278 👍 - Pro
 Testifying:
 * Jerred Michael Erickson - Chairman, Confederated Tribes of the Colville Reservation
 * 💵Michael Moran - Confederated Tribes of the Colville Reservation
 * Mel Tonasket - Confederated Tribes of the Colville Reservation
 * Tom McBride - WDFW
+* Jeff Flood - Stevens County Sheriffs Office
+* Scott Nielsen - [Cattle Producers of Washington](/org/cattle_producers_of_washington/)
+* John Axtell
+* Kent Clark - Okanogan County Cattlemen's Association
+* Chris Branch - Okanogan County
+* Andy Hover
 
-#### 26 👎 - Con
+#### 186 👎 - Con
 Testifying:
 * David Linn - None
+* Claire Davis - [Washington Wildlife First](/org/washington_wildlife_first/)
+* John Rosapepe - Endangered Species Coalition
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * John Worthington
+* Dave Hedrick

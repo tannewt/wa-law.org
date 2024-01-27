@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 01/25 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 6278 Organic agriculture
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31762&aId=157712&caId=23603&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31762&aId=157712&caId=23603&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31762&aId=157712&caId=23603&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31762&aId=157712&caId=23603&tId=4)
-
-#### 861 👍 - Pro
+#### 907 👍 - Pro
 Testifying:
 * Melissa Spear - [Tilth Alliance](/org/tilth_alliance/)
 * Harold Austin - CORA

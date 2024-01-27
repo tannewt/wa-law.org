@@ -54,7 +54,7 @@
 
 ## [SB 5729](/bill/2023-24/sb/5729/) - Insulin cost-sharing cap 👍1  
 
-## [SB 5776](/bill/2023-24/sb/5776/) - Accessing an emergency supply of insulin. 👍1  
+## [SB 5776](/bill/2023-24/sb/5776/) - Insulin emergency supply 👍1  
 
 ## [SB 5912](/bill/2023-24/sb/5912/) - Reentry services & supports 👍1  
 

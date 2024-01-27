@@ -1,5 +1,7 @@
 # Department of Natural Resources
 
+## [HB 1078](/bill/2023-24/hb/1078/) - Urban forest management 👍1  
+
 ## [HB 1132](/bill/2023-24/hb/1132/) - Limited authority officers 👍2  
 * 👍 Brian Considine
 * 👍 Brian Considine
@@ -82,6 +84,9 @@
 * 👍 Duane Emmons
 
 ## [SB 6100](/bill/2023-24/sb/6100/) - Budget stabilization account 👍1  
+
+## [SB 6120](/bill/2023-24/sb/6120/) - Wildland urban interface 👍1  
+* 👍 Brian Considine
 
 ## [SB 6121](/bill/2023-24/sb/6121/) - Biochar production 👍1  
 

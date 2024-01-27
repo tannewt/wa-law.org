@@ -112,8 +112,9 @@
 ## [HB 1578](/bill/2023-24/hb/1578/) - Wildland fire safety   ❓1
 * ❓💵 Jan Himebaugh
 
-## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy  👎1 
+## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy  👎2 
 * 👎💵 Josie Cummings
+* 👎💵 Brent Ludeman
 
 ## [HB 1611](/bill/2023-24/hb/1611/) - Local government permitting  👎2 
 * 👎💵 Bill Stauffacher
@@ -139,7 +140,7 @@
 
 ## [HB 2008](/bill/2023-24/hb/2008/) - Housing cost task force 👍1  
 
-## [HB 2039](/bill/2023-24/hb/2039/) - Modifying the appeals process for environmental and land use matters.  👎1 
+## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals  👎1 
 * 👎💵 Jan Himebaugh
 
 ## [HB 2051](/bill/2023-24/hb/2051/) - Reducing emissions from small off-road engines.  👎1 
@@ -178,6 +179,9 @@
 ## [HB 2219](/bill/2023-24/hb/2219/) - Affordable housing/tax ex.  👎1 
 
 ## [HB 2236](/bill/2023-24/hb/2236/) - Tech. ed. core plus programs   ❓1
+
+## [HB 2266](/bill/2023-24/hb/2266/) - Construction/sanitary cond.  👎1 
+* 👎💵 Tricia Gullion
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes  👎1 
 * 👎💵 Brent Ludeman
@@ -290,17 +294,20 @@
 ## [SB 5792](/bill/2023-24/sb/5792/) - Concerning the definition of multiunit residential buildings. 👍1  
 * 👍💵 Tricia Gullion
 
-## [SB 5834](/bill/2023-24/sb/5834/) - Concerning urban growth areas. 👍1  
+## [SB 5834](/bill/2023-24/sb/5834/) - Urban growth areas 👍1  
 * 👍💵 Jan Himebaugh
 
 ## [SB 5835](/bill/2023-24/sb/5835/) - Rule making websites 👍1  
 
-## [SB 5901](/bill/2023-24/sb/5901/) - Concerning co-living housing. 👍1  
+## [SB 5901](/bill/2023-24/sb/5901/) - Co-living housing 👍1  
 
 ## [SB 5924](/bill/2023-24/sb/5924/) - Access to personnel records  👎1 
 * 👎💵 Tricia Gullion
 
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants  👎1 
+
+## [SB 5990](/bill/2023-24/sb/5990/) - Env. justice/SEPA projects  👎1 
+* 👎💵 Brent Ludeman
 
 ## [SB 6015](/bill/2023-24/sb/6015/) - Residential parking 👍1  
 
@@ -329,5 +336,9 @@
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes  👎1 
 * 👎💵 Brent Ludeman
+
+## [SB 6210](/bill/2023-24/sb/6210/) - Unlawful detainer actions 👍1  
+
+## [SB 6211](/bill/2023-24/sb/6211/) - Mobile home rent increases  👎1 
 
 ## [SB 6212](/bill/2023-24/sb/6212/) - Rent payments/credit reports  👎1 

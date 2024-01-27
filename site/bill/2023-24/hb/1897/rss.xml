@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1897/</link>
 		<description>Updates about HB 1897</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 26 Jan 2024 12:46:29 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,14 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👎Kristiana de Leon - Dept. of Revenue</title>
+			<description>Kristiana de Leon signed up to testify Con.</description>
+			<pubDate>Fri, 26 Jan 2024 12:46:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kristiana/de Leon/2024-01-26 12:46:29</guid>
 		</item>
 	</channel>
 </rss>

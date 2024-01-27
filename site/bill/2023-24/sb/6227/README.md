@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/23 10:30 AM - Law & Justice (LAW): SB 6227 Protection order/insanity

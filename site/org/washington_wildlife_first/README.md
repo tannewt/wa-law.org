@@ -11,6 +11,12 @@
 ## [HB 2293](/bill/2023-24/hb/2293/) - Avian predation/salmon  👎2 
 * 👎 Ann Prezyna
 
+## [HB 2423](/bill/2023-24/hb/2423/) - Gray wolf management  👎1 
+* 👎 Claire Davis
+
+## [HB 2424](/bill/2023-24/hb/2424/) - State-tribe coop./wildlife  👎2 
+* 👎 Claire Davis
+
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
 * 👍💵 Samantha Bruegger
 

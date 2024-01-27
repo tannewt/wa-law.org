@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 01/22 10:30 AM - Human Services (HS): SB 6135 TANF transitional assistance

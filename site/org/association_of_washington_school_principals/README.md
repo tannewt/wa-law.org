@@ -70,7 +70,7 @@
 ## [HB 1922](/bill/2023-24/hb/1922/) - Vape detectors/schools   ❓1
 * ❓💵 Roz Thompson
 
-## [HB 1956](/bill/2023-24/hb/1956/) - Addressing fentanyl and other substance use prevention education. 👍1  
+## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
 * 👍💵 Casey Brown
 
 ## [HB 2018](/bill/2023-24/hb/2018/) - Improving student outcomes by restricting mobile device use by public school students.   ❓1
@@ -174,7 +174,7 @@
 
 ## [SB 5823](/bill/2023-24/sb/5823/) - School district elections 👍1  
 
-## [SB 5849](/bill/2023-24/sb/5849/) - Concerning a computer science competency graduation requirement.   ❓1
+## [SB 5849](/bill/2023-24/sb/5849/) - Computer science/graduation   ❓1
 
 ## [SB 5850](/bill/2023-24/sb/5850/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
 
@@ -204,3 +204,5 @@
 ## [SB 6216](/bill/2023-24/sb/6216/) - Student mental health net. 👍1  
 
 ## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍1  
+
+## [SB 6300](/bill/2023-24/sb/6300/) - College grant/public assist. 👍1  

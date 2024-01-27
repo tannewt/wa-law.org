@@ -8,20 +8,34 @@
 
 ## Meetings
 ### Fri 01/26 10:30 AM - Labor & Workplace Standards (LAWS): HB 2266 Construction/sanitary cond.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31731&aId=157136&caId=23560&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31731&aId=157136&caId=23560&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31731&aId=157136&caId=23560&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31731&aId=157136&caId=23560&tId=4)
-
-#### 321 👍 - Pro
+#### 403 👍 - Pro
 Testifying:
+* April Sims - [Washington State Labor Council](/org/washington_state_labor_council/)
+* MARK RIKER - Washington State Building & Construction Trades Council
+* 💵Nicole Grant - IBEW Local 46
+* Jaye Jones - IBEW Local 46
+* Misty Wheeler - IBEW Local 46
+* Ashley Ruiz - McKinstry
 * Cameron Bowers - Seattle Area Pipe Trades Apprenticeship & as a peer ally
 * Grace Yoo - Washington State Women's Commission
 * Heather Winfrey - Seattle Area Pipe Trades Apprenticeship
 * Justin Coghill - Laborer
+* Bob Abbott - LIUNA NW Regional Vice President and Manager
+* 💵Heather Kurtenbach - Ironworkers Local 86
+* Tawny Sayers - Retired LIUNA Apprenticeship Coordinator
+* Aubrey Russell - Journeyworker Ironworkers Local 86
+* Mallorie Davies - Washington & N. Idaho District Council of Laborers
+* Tirhas Gebru - Journeyworker Bricklayers and Allied Craftworkers Local 1
+* Andrea Ornelas
+* Jeffery Whaley
+* Samuel Garcia - Liuna
+* russell robinson
+* Nina Wurz
+* Carliss Bussey
+* Madison Stewart - Skanska Civil West
+* stephanie tiburcio
 
-#### 385 👎 - Con
+#### 479 👎 - Con
 Testifying:
 * Mitch Neeley
 * America George - Safety Site Solutions
@@ -33,5 +47,10 @@ Testifying:
 * 💵Michele Willms - [Associated General Contractors of Washington](/org/associated_general_contractors_of_washington/)
 * Tammy Birklid - Merit Construction
 * Jeannette Mcchesney
+* Scott Rogers - Retired
+* Daimon Doyle
+* Eric Wallin - retired
+* 💵Tricia Gullion - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Teddy Anderson
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other

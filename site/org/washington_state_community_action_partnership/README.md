@@ -2,6 +2,8 @@
 
 ## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍4  
 
+## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
+
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
 ## [HB 1124](/bill/2023-24/hb/1124/) - Residential rent and fees 👍1  
@@ -173,3 +175,5 @@
 ## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍1  
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
+
+## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍1  

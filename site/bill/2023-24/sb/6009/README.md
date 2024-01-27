@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/23/2024 [MyNorthwest](/org/mynorthwest/) - [Bill proposes statewide ban on police from hogtying suspects - MyNorthwest.com](https://mynorthwest.com/3947538/proposed-statewide-ban-hogtying-police/#:~:text=Senate%20Bill%206009)

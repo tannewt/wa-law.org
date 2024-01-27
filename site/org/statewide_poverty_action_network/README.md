@@ -237,6 +237,8 @@
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
 
+## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍2  
+
 ## [SB 6226](/bill/2023-24/sb/6226/) - DSHS fraud office reporting 👍2  
 * 👍💵 Lianna Kressin
 

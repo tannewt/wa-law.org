@@ -40,3 +40,7 @@
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍2  
 
 ## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍2  
+
+## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
+
+## [SB 5999](/bill/2023-24/sb/5999/) - Financial aid eligibility 👍1  

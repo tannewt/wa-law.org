@@ -8,16 +8,16 @@
 
 ## Meetings
 ### Fri 01/26 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2469 Concerning involuntary treatment. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31754&aId=157855&caId=23628&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31754&aId=157855&caId=23628&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31754&aId=157855&caId=23628&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31754&aId=157855&caId=23628&tId=4)
-
-#### 1 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Jon Ehrenfeld - Seattle Fire Department - Mobile Integrated Health Program
+* Jamie Ellertsen - Be a Better You Counseling
+* Judge Karen Donohue - King County Superior Court
+* Paulette Chaussee - Washington Recovery Alliance
+* Steve Schlecht
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Laura Van Tosh
 
 #### 0 ❓ - Other

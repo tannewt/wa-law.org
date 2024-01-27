@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Third Substitute](S3/)
 
 ## 📰 Articles
 * 12/14/2023 [The Center Square](/org/the_center_square/) - ['Worst case scenario' estimate used by Washington AGO for police prosecution bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b36914da-9a00-11ee-a91f-0f5aff45928d.html#:~:text=House%20Bill%201579)

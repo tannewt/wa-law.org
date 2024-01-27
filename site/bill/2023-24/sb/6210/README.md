@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 01/26 10:30 AM - Housing (HSG): SB 6210 Unlawful detainer actions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31723&aId=157100&caId=23424&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31723&aId=157100&caId=23424&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31723&aId=157100&caId=23424&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31723&aId=157100&caId=23424&tId=4)
-
-#### 239 👍 - Pro
+#### 306 👍 - Pro
 Testifying:
 * Constance Nelson
 * Jeffrey Wright - Small Landlord
@@ -24,12 +18,22 @@ Testifying:
 * Derek Vanderwood - Clark County Superior Court
 * Yugala Priti Wright
 * Leslie Boeshart
+* 💵Brett Waller - General Counsel, Devco Residential Group
+* Suzanne Koval - Senior Asset Manager, GMD Development
+* Judge Ketu Shah - Superior Court Judges' Association
+* Judge Alicia Burton - Superior Court Judges' Association
+* Judge Timothy Fennessy - Superior Court Judges' Association
+* Jason Roth - Rental Housing Assn Coalition
+* Jimmy Singh - Rental Housing Assn Coalition
+* Kaitlyn Jackson - Williams Kastner & gibbs
+* Sharon Cunnington
+* Constance Nelson
 
 #### 20 👎 - Con
 Testifying:
 * 💵Edmund Witter - [King County Bar Association](/org/king_county_bar_association/)
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Philippe Knab - WA State Office of Civil Legal Aid
 * Matt Taylor - Northwest Justice Project

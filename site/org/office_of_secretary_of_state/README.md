@@ -114,6 +114,9 @@
 ## [SB 5786](/bill/2023-24/sb/5786/) - Business corporations 👍1  
 * 👍 Brian Hatfield
 
+## [SB 5820](/bill/2023-24/sb/5820/) - Establishing protections for citizens participating in the initiative and referendum process. 👍1  
+* 👍 Brian Hatfield
+
 ## [SB 5824](/bill/2023-24/sb/5824/) - Dissolution of libraries 👍1  
 * 👍 Steve Hobbs
 

@@ -82,7 +82,7 @@
 
 ## [HB 2031](/bill/2023-24/hb/2031/) - Recognizing posttraumatic stress disorder as an occupational disease for county coroners, examiners, and investigative personnel. 👍1  
 
-## [HB 2036](/bill/2023-24/hb/2036/) - Concerning workplace safety and operational standards for adult entertainment establishments. 👍1  
+## [HB 2036](/bill/2023-24/hb/2036/) - Adult entertainment 👍1  
 
 ## [HB 2091](/bill/2023-24/hb/2091/) - Fallen firefighter memorial 👍1  
 

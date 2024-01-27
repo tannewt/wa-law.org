@@ -12,20 +12,17 @@
 
 ## Meetings
 ### Fri 01/26 08:00 AM - State Government & Elections (SGE): SB 5820 Signature gathering/protests
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31772&aId=158022&caId=23630&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31772&aId=158022&caId=23630&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31772&aId=158022&caId=23630&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31772&aId=158022&caId=23630&tId=4)
-
-#### 445 👍 - Pro
+#### 521 👍 - Pro
 Testifying:
 * Tim Eyman - Initiative Activist
 * Laurie Layne
 * Julie Barrett - Conservative Ladies of Washington
+* Anthony Mixer - Washington State Young Republicans
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Dawn Land - Mom who filed Referendum 101
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Carolyn Logue - Washington Food Industry Association

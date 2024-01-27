@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/23 10:30 AM - Human Services (HS): SB 6187 DOC body scanner pilot

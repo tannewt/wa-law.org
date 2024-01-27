@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2201/</link>
 		<description>Updates about HB 2201</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 15 Jan 2024 11:53:55 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 25 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -205,6 +205,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Peter/Godlewski/2024-01-15 11:53:55</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-25/Minority; do not pass.</guid>
 		</item>
 	</channel>
 </rss>

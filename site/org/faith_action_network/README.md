@@ -74,7 +74,7 @@
 * 👍💵 Kristin Ang
 * 👍💵 Kristin Ang
 
-## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍1  
+## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍2  
 
 ## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍2  
 
@@ -154,7 +154,11 @@
 
 ## [SB 5768](/bill/2023-24/sb/5768/) - DOC/abortion medications 👍1  
 
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
+
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍5  
+
+## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍2  
 
 ## [SB 5987](/bill/2023-24/sb/5987/) - Gift certificates 👍3  
 

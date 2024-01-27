@@ -151,7 +151,7 @@
 
 ## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍1  
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍1  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
 
 ## [HB 1934](/bill/2023-24/hb/1934/) - AI task force 👍1  
 
@@ -161,7 +161,7 @@
 
 ## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍2  
 
-## [HB 1956](/bill/2023-24/hb/1956/) - Addressing fentanyl and other substance use prevention education. 👍1  
+## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
 
 ## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍1  
 
@@ -203,6 +203,8 @@
 
 ## [HB 2145](/bill/2023-24/hb/2145/) - Concerning medically necessary treatment of a mental health or substance use disorder. 👍1  
 
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍1  
+
 ## [HB 2172](/bill/2023-24/hb/2172/) - Vacant state agency property 👍1  
 
 ## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities 👍1  
@@ -216,6 +218,8 @@
 ## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍1  
 
 ## [HB 2252](/bill/2023-24/hb/2252/) - Small businesses/residential   ❓1
+
+## [HB 2266](/bill/2023-24/hb/2266/) - Construction/sanitary cond. 👍1  
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
@@ -250,6 +254,8 @@
 
 ## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras 👍1  
 * 👍 Tim Burgess
+
+## [HB 2469](/bill/2023-24/hb/2469/) - Concerning involuntary treatment. 👍1  
 
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI 👍1  
 

@@ -18,7 +18,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158010&caId=23703&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158010&caId=23703&tId=4)
 
-#### 0 👍 - Pro
+#### 26 👍 - Pro
+Testifying:
+* Ariane Schmidt - Broadlinc PDA of Spokane
 
 #### 0 👎 - Con
 

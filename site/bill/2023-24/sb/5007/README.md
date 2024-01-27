@@ -18,9 +18,12 @@ Sign up to testify:
 Testifying:
 * Tom Wark - [National Association of Wine Retailers](/org/national_association_of_wine_retailers/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Andrea McNeely - Association of Washington Spirits and Wine Distributors
+* Brandon High - [Southern Glazer's Wine & Spirits](/org/southern_glazer's_wine_&_spirits/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 02/02 08:00 AM - Labor & Commerce (LC): SB 5007 Wine retailer shippers
 #### 8 👍 - Pro

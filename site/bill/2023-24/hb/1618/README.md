@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
 * 04/07/2023 [The Seattle Times](/org/the_seattle_times/) - [Bill to eliminate time limits for child sex-abuse lawsuits stalls in WA Senate | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/bill-to-eliminate-time-limits-for-child-sex-abuse-lawsuits-stalls-in-wa-senate/#:~:text=House%20Bill%201618)
@@ -15,6 +16,19 @@
 * 02/24/2023 [House Democrats](/org/house_democrats/) - [Farivar’s Bill Seeking Justice for Child Sex Abuse Victims Passes Out of Committee – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/24/farivars-bill-seeking-justice-for-child-sex-abuse-victims-passes-out-of-committee/#:~:text=House%20Bill%201618)
 
 ## Meetings
+### Tue 01/30 10:30 AM - Law & Justice (LAW): E2SHB 1618 Childhood sexual abuse/SOL
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=158282&caId=23750&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=158282&caId=23750&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=158282&caId=23750&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=158282&caId=23750&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 03/30 12:30 PM - Ways & Means (WM): 2SHB 1618 Childhood sexual abuse/SOL
 #### 250 👍 - Pro
 Testifying:

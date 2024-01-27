@@ -14,24 +14,22 @@
 
 ## Meetings
 ### Thu 01/25 04:00 PM - Appropriations (APP): SHB 1078 Urban forest management
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31718&aId=157731&caId=23616&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31718&aId=157731&caId=23616&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31718&aId=157731&caId=23616&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31718&aId=157731&caId=23616&tId=4)
-
-#### 12 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Steve Zemke - Friends of Urban Forests and TreePAC
 * Joshua Morris - Birds Connect Seattle
 
-#### 24 👎 - Con
+#### 26 👎 - Con
 Testifying:
 * Lynn Fitz-Hugh - Restoring Earth Connection
 * Susanna Jones
+* John Worthington
 
-#### 1 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
+* Robin Thomas - Whatcom Million Trees Project
+* Martha Baskin
+* Kathleen Russell
 * Ruth Williams
 
 ### Wed 01/11 08:00 AM - Local Government (LG): HB 1078 Urban forest management

@@ -78,7 +78,7 @@
 * 👍 Josh McDonald
 * 👍 Josh McDonald
 
-## [SB 5476](/bill/2023-24/sb/5476/) - Agricultural overtime 👍1  
+## [SB 5476](/bill/2023-24/sb/5476/) - Agricultural overtime 👍2  
 
 ## [SB 5733](/bill/2023-24/sb/5733/) - Payment card processing/tax 👍1  
 

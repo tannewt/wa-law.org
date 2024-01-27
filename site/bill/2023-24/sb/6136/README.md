@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/17/2024 [The Center Square](/org/the_center_square/) - [Critics warn that Washington landlord tax will backfire | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5f20fe68-b57d-11ee-b1b3-5bd603ad5f7c.html#:~:text=HB%206136)

@@ -8,15 +8,9 @@
 
 ## Meetings
 ### Thu 01/25 01:30 PM - Early Learning & K-12 Education (EDU): SB 6045 School district efficiencies
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31767&aId=157311&caId=23410&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31767&aId=157311&caId=23410&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31767&aId=157311&caId=23410&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31767&aId=157311&caId=23410&tId=4)
-
 #### 1 👍 - Pro
 
-#### 47 👎 - Con
+#### 50 👎 - Con
 Testifying:
 * Tim Garchow - Washington State School Directors' Association (WSSDA)
 * Jim Kowalkowski - Rural Education Center

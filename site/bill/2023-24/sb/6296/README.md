@@ -8,16 +8,11 @@
 
 ## Meetings
 ### Fri 01/26 10:30 AM - Higher Education & Workforce Development (HEWD): SB 6296 Retail industry work group
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31700&aId=158008&caId=23631&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31700&aId=158008&caId=23631&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31700&aId=158008&caId=23631&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31700&aId=158008&caId=23631&tId=4)
-
-#### 8 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Carolyn McKinnon - SBCTC
 * Rose GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)
+* Ryan Reygers
 
 #### 0 👎 - Con
 

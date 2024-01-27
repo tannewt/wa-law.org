@@ -54,7 +54,7 @@
 ## [HB 1679](/bill/2023-24/hb/1679/) - Student homelessness group 👍1  
 * 👍💵 Juliet Schindler
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍1  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
 
 ## [HB 2025](/bill/2023-24/hb/2025/) - State work-study program 👍1  
 * 👍💵 Juliet Schindler
@@ -137,10 +137,10 @@
 
 ## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍1  
 
-## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
+## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍2  
 * 👍💵 Emily Stochel
 
-## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍1  
+## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍2  
 
 ## [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation 👍1  
 

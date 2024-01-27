@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2296/</link>
 		<description>Updates about HB 2296</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 06:40:14 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 26 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -54,6 +54,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Bryce/Yadon/2024-01-22 06:40:14</guid>
+		</item>
+		<item>
+			<title>LG - Executive action taken by committee.</title>
+			<description>LG - Executive action taken by committee.</description>
+			<pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-26/LG - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

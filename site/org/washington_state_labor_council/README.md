@@ -18,6 +18,9 @@
 ## [HB 2087](/bill/2023-24/hb/2087/) - Apprenticeship objections  👎1 
 * 👎 April Sims
 
+## [HB 2266](/bill/2023-24/hb/2266/) - Construction/sanitary cond. 👍1  
+* 👍 April Sims
+
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
 
 ## [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍1  

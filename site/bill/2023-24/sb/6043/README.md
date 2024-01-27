@@ -14,21 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31821&aId=158069&caId=23645&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31821&aId=158069&caId=23645&tId=4)
 
-#### 1 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Nathaniel Rees - The Mountaineers
+* Eric Brown - Whatcom Mountain Bike Coalition
+* philip wolff
+* philip wolff
 
 #### 0 👎 - Con
 
 #### 0 ❓ - Other
 
 ### Thu 01/25 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 6043 Recreational use fees
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31762&aId=157392&caId=23406&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31762&aId=157392&caId=23406&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31762&aId=157392&caId=23406&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31762&aId=157392&caId=23406&tId=4)
-
 #### 1 👍 - Pro
 
 #### 0 👎 - Con

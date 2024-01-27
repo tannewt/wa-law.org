@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/17 01:30 PM - Consumer Protection & Business (CPB): HB 1996 RV manufacturers and dealers

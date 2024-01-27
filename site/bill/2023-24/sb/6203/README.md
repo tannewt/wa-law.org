@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 01/26 10:30 AM - Housing (HSG): SB 6203 Self-service storage rental
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31723&aId=157700&caId=23590&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31723&aId=157700&caId=23590&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31723&aId=157700&caId=23590&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31723&aId=157700&caId=23590&tId=4)
-
-#### 6 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * William Shadbolt - [Washington Business Properties Association](/org/washington_business_properties_association/)
 * Kristi Tripple - Rowley Properties

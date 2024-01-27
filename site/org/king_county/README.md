@@ -315,7 +315,7 @@
 
 ## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge   ❓2
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍1  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
 
 ## [HB 1933](/bill/2023-24/hb/1933/) - Supporting the servicing and right to repair of certain products with digital electronics in a secure and reliable manner. 👍1  
 
@@ -325,7 +325,7 @@
 
 ## [HB 1952](/bill/2023-24/hb/1952/) - Concerning long-term community recovery after disasters. 👍1  
 
-## [HB 1956](/bill/2023-24/hb/1956/) - Addressing fentanyl and other substance use prevention education. 👍1  
+## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
 
 ## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍1  
 
@@ -716,6 +716,8 @@
 ## [SB 6163](/bill/2023-24/sb/6163/) - Biosolids 👍1  
 
 ## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management 👍1  
+
+## [SB 6210](/bill/2023-24/sb/6210/) - Unlawful detainer actions 👍1  
 
 ## [SB 6220](/bill/2023-24/sb/6220/) - High THC cannabis products 👍1  
 

@@ -48,7 +48,8 @@
 
 ## [HB 2226](/bill/2023-24/hb/2226/) - H-2A worker program data 👍1  
 
-## [HB 2299](/bill/2023-24/hb/2299/) - DNR trust asset leasing  👎1 
+## [HB 2299](/bill/2023-24/hb/2299/) - DNR trust asset leasing  👎2 
+* 👎 Eric Gonzalez Alfaro
 
 ## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management 👍1  
 
@@ -90,6 +91,8 @@
 ## [SB 5921](/bill/2023-24/sb/5921/) - Concerning tribal representation on the state conservation commission. 👍1  
 
 ## [SB 5939](/bill/2023-24/sb/5939/) - Livestock wolf predation  👎1 
+
+## [SB 5990](/bill/2023-24/sb/5990/) - Env. justice/SEPA projects 👍1  
 
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
 

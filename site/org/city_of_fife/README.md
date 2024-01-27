@@ -10,7 +10,7 @@
 
 ## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍1  
 
-## [SB 5901](/bill/2023-24/sb/5901/) - Concerning co-living housing.   ❓1
+## [SB 5901](/bill/2023-24/sb/5901/) - Co-living housing   ❓1
 
 ## [SB 5924](/bill/2023-24/sb/5924/) - Access to personnel records   ❓1
 

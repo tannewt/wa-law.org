@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/23/2024 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to provide prescribed access to outdoor recreation heard in committee - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/23/nobles-bill-to-provide-prescribed-access-to-outdoor-recreation-heard-in-committee/#:~:text=Senate%20Bill%205095)

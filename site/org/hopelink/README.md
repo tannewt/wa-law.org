@@ -154,6 +154,6 @@
 
 ## [SB 6136](/bill/2023-24/sb/6136/) - Rental property B&O tax 👍1  
 
-## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
+## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍2 👎1 
 
 ## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍1  

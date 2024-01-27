@@ -9,15 +9,22 @@
 
 ## Meetings
 ### Fri 01/26 08:00 AM - Health Care & Wellness (HCW): SHB 1450 Biomarker testing coverage
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31706&aId=157714&caId=23600&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31706&aId=157714&caId=23600&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31706&aId=157714&caId=23600&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31706&aId=157714&caId=23600&tId=4)
+#### 96 👍 - Pro
+Testifying:
+* Allanda Christenson
+* Dr. Blair Irwin - [Washington State Medical Oncology Society](/org/washington_state_medical_oncology_society/)
+* Katie Kolan - [Washington State Medical Oncology Society](/org/washington_state_medical_oncology_society/)
+* 💵Matthew Helder - ACS CAN
+* 💵Clark Hansen - ALS Association
+* Dr. Thomas McElrath - Harvard School of Medicine
+* Kara Boeldt - End Preeclampsia
+* 💵Cameron Long - [Genentech](/org/genentech/)
+* Valerie Daggett - AltPep
+* Delika Steele - Office of the Insurance Commissioner
 
-#### 63 👍 - Pro
-
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
 #### 1 ❓ - Other
 Testifying:

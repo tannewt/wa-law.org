@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 1915 - Making financial education instruction a graduation prerequisite and a required component of public education.</title>
+		<title>HB 1915 - Financial education</title>
 		<link>https://wa-law.org/bill/2023-24/hb/1915/</link>
 		<description>Updates about HB 1915</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 16 Jan 2024 17:28:34 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 25 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -417,6 +417,13 @@
 			<pubDate>Tue, 16 Jan 2024 17:28:34 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/wspta-testifies-foa-24/#:~:text=HB%201915</guid>
+		</item>
+		<item>
+			<title>ED - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>ED - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-25/ED - Majority; 1st substitute bill be substituted, do pass.</guid>
 		</item>
 	</channel>
 </rss>

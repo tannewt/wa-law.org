@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157973&caId=23666&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157973&caId=23666&tId=4)
 
-#### 2 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Jeffery Whaley
 
-#### 0 👎 - Con
+#### 19 👎 - Con
+Testifying:
+* America George - Safety Site Solutions
+* 💵Carolyn Logue - Associated Builders & Contractors of WA
 
 #### 0 ❓ - Other

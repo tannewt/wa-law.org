@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 1909 - Adjusting the membership of the pharmacy quality assurance commission.</title>
+		<title>HB 1909 - Pharmacy commission members</title>
 		<link>https://wa-law.org/bill/2023-24/hb/1909/</link>
 		<description>Updates about HB 1909</description>
 		<language>en-US</language>
@@ -59,6 +59,13 @@
 			<pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-24/HCW - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>HCW - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>HCW - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-24/HCW - Majority; 1st substitute bill be substituted, do pass.</guid>
 		</item>
 	</channel>
 </rss>

@@ -18,8 +18,9 @@
 
 ## [HB 1735](/bill/2023-24/hb/1735/) - GMA/net ecological gain 👍1  
 
-## [HB 1987](/bill/2023-24/hb/1987/) - Concerning the use of moneys from the rural public facilities sales and use tax for affordable workforce housing infrastructure and facilities. 👍1  
+## [HB 1987](/bill/2023-24/hb/1987/) - Concerning the use of moneys from the rural public facilities sales and use tax for affordable workforce housing infrastructure and facilities. 👍2  
 * 👍 Peter Browning
+* 👍 Commissioner Ron Wesen
 
 ## [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg 👍1  
 

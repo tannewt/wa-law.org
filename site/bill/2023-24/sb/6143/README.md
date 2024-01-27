@@ -8,15 +8,9 @@
 
 ## Meetings
 ### Thu 01/25 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 6143 Salmon habitat planning
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31762&aId=157393&caId=23407&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31762&aId=157393&caId=23407&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31762&aId=157393&caId=23407&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31762&aId=157393&caId=23407&tId=4)
+#### 176 👍 - Pro
 
-#### 160 👍 - Pro
-
-#### 533 👎 - Con
+#### 556 👎 - Con
 Testifying:
 * 💵Dan Wood - WA State Dairy Federation
 * Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
@@ -26,6 +20,7 @@ Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Lisa Sanford
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Chris Conklin - WDFW
+* Don Gourlie - Puget Sound Partnership

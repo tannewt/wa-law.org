@@ -2,6 +2,8 @@
 
 ## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 
+## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍2  
+
 ## [HB 1095](/bill/2023-24/hb/1095/) - Wage replacement 👍1  
 
 ## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍2  
@@ -26,7 +28,7 @@
 
 ## [HB 1959](/bill/2023-24/hb/1959/) - Extending parts of the paid family and medical leave program to employers with fewer than 50 employees. 👍2  
 
-## [HB 2036](/bill/2023-24/hb/2036/) - Concerning workplace safety and operational standards for adult entertainment establishments. 👍2  
+## [HB 2036](/bill/2023-24/hb/2036/) - Adult entertainment 👍2  
 
 ## [HB 2098](/bill/2023-24/hb/2098/) - Women's commission/gifts 👍2  
 

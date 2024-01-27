@@ -50,7 +50,7 @@
 
 ## [HB 1987](/bill/2023-24/hb/1987/) - Concerning the use of moneys from the rural public facilities sales and use tax for affordable workforce housing infrastructure and facilities. 👍1  
 
-## [HB 2039](/bill/2023-24/hb/2039/) - Modifying the appeals process for environmental and land use matters. 👍1  
+## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍1  
 
 ## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions. 👍1  
 
@@ -71,9 +71,10 @@
 ## [HB 2158](/bill/2023-24/hb/2158/) - Urban growth area boundaries  👎1 
 * 👎💵 Bryce Yadon
 
-## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍7  
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍8  
 * 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
+* 👍 Kristiana de Leon
 
 ## [HB 2187](/bill/2023-24/hb/2187/) - Water/family farms  👎1 
 
@@ -142,12 +143,12 @@
 ## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍3  
 * 👍💵 Bryce Yadon
 
-## [SB 5834](/bill/2023-24/sb/5834/) - Concerning urban growth areas.  👎2 
+## [SB 5834](/bill/2023-24/sb/5834/) - Urban growth areas  👎2 
 * 👎💵 Bryce Yadon
 
 ## [SB 5885](/bill/2023-24/sb/5885/) - Certificates of annexation 👍1  
 
-## [SB 5901](/bill/2023-24/sb/5901/) - Concerning co-living housing. 👍1  
+## [SB 5901](/bill/2023-24/sb/5901/) - Co-living housing 👍1  
 * 👍💵 Bryce Yadon
 
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍1  

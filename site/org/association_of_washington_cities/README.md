@@ -1,6 +1,7 @@
 # Association of Washington Cities
 
-## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍4  
+* 👍💵 Candice Bock
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
@@ -231,7 +232,7 @@
 ## [HB 1900](/bill/2023-24/hb/1900/) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system.  👎1 
 * 👎💵 Carl Schroeder
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍1  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
 
 ## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections  👎1 
 * 👎💵 Lindsey Hueer
@@ -259,7 +260,7 @@
 
 ## [HB 2026](/bill/2023-24/hb/2026/) - Rental income/property tax 👍1  
 
-## [HB 2036](/bill/2023-24/hb/2036/) - Concerning workplace safety and operational standards for adult entertainment establishments.   ❓1
+## [HB 2036](/bill/2023-24/hb/2036/) - Adult entertainment   ❓1
 * ❓💵 Candice Bock
 
 ## [HB 2044](/bill/2023-24/hb/2044/) - Standardizing limitations on voter-approved property tax levies. 👍1  
@@ -359,6 +360,8 @@
 ## [HB 2394](/bill/2023-24/hb/2394/) - SEPA/trails and paths 👍1  
 
 ## [HB 2466](/bill/2023-24/hb/2466/) - Addressing ambulance wait times. 👍1  
+
+## [HB 2469](/bill/2023-24/hb/2469/) - Concerning involuntary treatment. 👍1  
 
 ## [SB 5001](/bill/2023-24/sb/5001/) - Public facility districts 👍1  
 
@@ -592,7 +595,7 @@
 ## [SB 5808](/bill/2023-24/sb/5808/) - Safety telecom/interest arb.   ❓1
 * ❓💵 Candice Bock
 
-## [SB 5834](/bill/2023-24/sb/5834/) - Concerning urban growth areas. 👍1  
+## [SB 5834](/bill/2023-24/sb/5834/) - Urban growth areas 👍1  
 
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
 
@@ -603,8 +606,10 @@
 
 ## [SB 5897](/bill/2023-24/sb/5897/) - Modifying provisions of the business licensing service program. 👍1  
 
-## [SB 5901](/bill/2023-24/sb/5901/) - Concerning co-living housing.   ❓1
+## [SB 5901](/bill/2023-24/sb/5901/) - Co-living housing   ❓1
 * ❓💵 Carl Schroeder
+
+## [SB 5906](/bill/2023-24/sb/5906/) - Implementing a statewide drug overdose prevention and education campaign. 👍1  
 
 ## [SB 5924](/bill/2023-24/sb/5924/) - Access to personnel records   ❓1
 * ❓💵 Candice Bock
@@ -643,6 +648,8 @@
 ## [SB 6105](/bill/2023-24/sb/6105/) - Adult entertainment workers   ❓1
 * ❓💵 Lindsey Hueer
 
+## [SB 6120](/bill/2023-24/sb/6120/) - Wildland urban interface 👍1  
+
 ## [SB 6146](/bill/2023-24/sb/6146/) - Tribal warrants   ❓1
 
 ## [SB 6150](/bill/2023-24/sb/6150/) - Comprehensive plan revisions 👍1  
@@ -650,10 +657,16 @@
 ## [SB 6152](/bill/2023-24/sb/6152/) - Housing needs gap 👍1  
 * 👍💵 Carl Schroeder
 
+## [SB 6157](/bill/2023-24/sb/6157/) - Civil service 👍1  
+* 👍💵 Lindsey Hueer
+
 ## [SB 6158](/bill/2023-24/sb/6158/) - Public facilities districts 👍1  
 
 ## [SB 6167](/bill/2023-24/sb/6167/) - Local government procurement 👍1  
 * 👍 Brandy DeLange
+
+## [SB 6171](/bill/2023-24/sb/6171/) - Criminal justice/child care   ❓1
+* ❓💵 Lindsey Hueer
 
 ## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍1  
 
@@ -679,6 +692,8 @@
 
 ## [SB 6242](/bill/2023-24/sb/6242/) - Law enforcement training 👍1  
 * 👍💵 Lindsey Hueer
+
+## [SB 6295](/bill/2023-24/sb/6295/) - Behavioral health/high users 👍1  
 
 ## [SJR 8201](/bill/2023-24/sjr/8201/) - Public works account 👍1  
 * 👍 Brandy DeLange

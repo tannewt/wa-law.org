@@ -134,7 +134,7 @@
 ## [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg   ❓1
 * ❓ Chris Herman
 
-## [HB 2039](/bill/2023-24/hb/2039/) - Modifying the appeals process for environmental and land use matters. 👍1  
+## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍1  
 * 👍💵 Carly Michiels
 
 ## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions.   ❓1

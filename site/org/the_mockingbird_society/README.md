@@ -2,6 +2,8 @@
 
 ## [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍3  
 
+## [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
+
 ## [HB 1094](/bill/2023-24/hb/1094/) - Future fund program 👍1  
 
 ## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
@@ -32,7 +34,7 @@
 
 ## [HB 1873](/bill/2023-24/hb/1873/) - Concerning office of public defense social service workers for parents in child welfare cases. 👍1  
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍1  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
 
 ## [HB 2016](/bill/2023-24/hb/2016/) - Allowing certain minors to contract for housing and utilities.   ❓1
 * ❓ Charles Smith
@@ -90,7 +92,7 @@
 
 ## [SB 5800](/bill/2023-24/sb/5800/) - Improving access to department of licensing issued documents by clarifying the application requirements for a minor, modifying the requirements for at-cost identicards, and studying the feasibility of reduced-fee identicards. 👍1  
 
-## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍5  
+## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍8  
 * 👍 Charles Smith
 
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
@@ -104,4 +106,6 @@
 
 ## [SB 6109](/bill/2023-24/sb/6109/) - Children and families  👎1 
 
-## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
+## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍2  
+
+## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍1  

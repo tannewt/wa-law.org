@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6288/</link>
 		<description>Updates about SB 6288</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 25 Jan 2024 10:45:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,14 @@
 			<pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-22/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>👎David Sedelmeier - Washington Association of Nurse Anesthetists</title>
+			<description>David Sedelmeier signed up to testify Con.</description>
+			<pubDate>Thu, 25 Jan 2024 10:45:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/David/Sedelmeier/2024-01-25 10:45:27</guid>
 		</item>
 	</channel>
 </rss>

@@ -82,6 +82,8 @@
 
 ## [HB 2287](/bill/2023-24/hb/2287/) - Corrections ombuds adv board 👍1  
 
+## [HB 2469](/bill/2023-24/hb/2469/) - Concerning involuntary treatment.  👎1 
+
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍4  
 * 👍💵 Rachael Seevers
 

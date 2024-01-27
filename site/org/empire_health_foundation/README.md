@@ -24,6 +24,6 @@
 
 ## [SB 5899](/bill/2023-24/sb/5899/) - Adding to the list of provisions prohibited from rental agreements. 👍1  
 
-## [SB 5901](/bill/2023-24/sb/5901/) - Concerning co-living housing. 👍1  
+## [SB 5901](/bill/2023-24/sb/5901/) - Co-living housing 👍1  
 
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍1  

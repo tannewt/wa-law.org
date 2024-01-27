@@ -11,23 +11,32 @@
 
 ## Meetings
 ### Fri 01/26 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2423 Gray wolf management
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31721&aId=157559&caId=23572&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31721&aId=157559&caId=23572&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31721&aId=157559&caId=23572&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31721&aId=157559&caId=23572&tId=4)
-
-#### 75 👍 - Pro
+#### 315 👍 - Pro
 Testifying:
 * Mary Curry - YES For Early Success
 * Jerred Michael Erickson - Chairman, Confederated Tribes of the Colville Reservation
 * 💵Michael Moran - Confederated Tribes of the Colville Reservation
 * Mel Tonasket - Confederated Tribes of the Colville Reservation
+* Jeff Flood - Stevens County Sheriff's Office
+* Scott Nielsen - Member, Cattle Producers of Washington
+* John Axtell
+* Sheila M Shockey - The Rusty Shoe Creations
+* Kent Clark - Okanogan County Cattlemen's Association
+* Christa Levine
+* Kathleen McKay - K-Diamond-K Guest Ranch
+* Brian Smiley - Pend Orielle County Commissioner
+* Julienne Loveall - Official representative
+* Chris Branch - Okanogan County
+* Andy Hover
+* Rachel McClure
+* Julienne Loveall - Blue Point Dairy
 
-#### 33 👎 - Con
+#### 223 👎 - Con
 Testifying:
 * David Linn - None
+* Claire Davis - [Washington Wildlife First](/org/washington_wildlife_first/)
+* John Rosapepe - Endangered Species Coalition
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Tom McBride - WDFW

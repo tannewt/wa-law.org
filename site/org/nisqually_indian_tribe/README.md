@@ -12,7 +12,7 @@
 
 ## [HB 1879](/bill/2023-24/hb/1879/) - Naming the curriculum used to inform students about tribal history, culture, and government after John McCoy (lulilaš). 👍1  
 
-## [HB 1956](/bill/2023-24/hb/1956/) - Addressing fentanyl and other substance use prevention education. 👍1  
+## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
 
 ## [HB 2105](/bill/2023-24/hb/2105/) - Instream resources  👎1 
 
@@ -42,3 +42,5 @@
 ## [SB 6099](/bill/2023-24/sb/6099/) - Tribal opioid account 👍1  
 
 ## [SB 6113](/bill/2023-24/sb/6113/) - Community solar 👍1  
+
+## [SB 6143](/bill/2023-24/sb/6143/) - Salmon habitat planning 👍1  

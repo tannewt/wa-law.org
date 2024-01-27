@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1969/</link>
 		<description>Updates about HB 1969</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 20 Jan 2024 00:04:24 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 25 Jan 2024 02:11:34 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -74,6 +74,14 @@
 			<pubDate>Sat, 20 Jan 2024 00:04:24 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%201969</guid>
+		</item>
+		<item>
+			<title>👍Bea Rector - Dept. of Social and Health Services</title>
+			<description>Bea Rector signed up to testify Pro. They are signed up to represent Dept. of Social and Health Services.</description>
+			<pubDate>Thu, 25 Jan 2024 02:11:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bea/Rector/2024-01-25 02:11:34</guid>
 		</item>
 	</channel>
 </rss>

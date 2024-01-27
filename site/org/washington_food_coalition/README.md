@@ -15,5 +15,7 @@
 ## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management   ❓1
 * ❓ Trish Twomey
 
+## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  
+
 ## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management   ❓1
 * ❓ Trish Twomey

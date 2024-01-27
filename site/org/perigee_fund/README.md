@@ -10,3 +10,5 @@
 * 👍💵 Kristin Wiggins
 
 ## [SB 5870](/bill/2023-24/sb/5870/) - Early learning programs 👍1  
+
+## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍1  

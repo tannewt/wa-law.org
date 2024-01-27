@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6135/</link>
 		<description>Updates about SB 6135</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 19 Jan 2024 02:53:21 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 26 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -38,6 +38,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Krystina/Morton/2024-01-19 02:53:21</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-26/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

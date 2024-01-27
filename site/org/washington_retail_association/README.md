@@ -179,7 +179,7 @@
 ## [HB 2127](/bill/2023-24/hb/2127/) - Incentives to return to work 👍1  
 * 👍 Bruce K Beckett
 
-## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg.   ❓1
+## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg.  👎1 ❓1
 * ❓💵 Mark Johnson
 
 ## [HB 2149](/bill/2023-24/hb/2149/) - Protecting consumer personal information.  👎1 
@@ -211,6 +211,8 @@
 
 ## [HB 2430](/bill/2023-24/hb/2430/) - Business licensing fees 👍1  
 * 👍💵 Mark Johnson
+
+## [SB 5007](/bill/2023-24/sb/5007/) - Wine retailer shippers   ❓1
 
 ## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment 👍1  
 
@@ -334,7 +336,7 @@
 ## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍1  
 * 👍💵 Crystal Leatherman
 
-## [SB 5776](/bill/2023-24/sb/5776/) - Accessing an emergency supply of insulin.   ❓1
+## [SB 5776](/bill/2023-24/sb/5776/) - Insulin emergency supply   ❓1
 * ❓💵 Mark Johnson
 
 ## [SB 5788](/bill/2023-24/sb/5788/) - Service animal training 👍1  
@@ -350,7 +352,7 @@
 ## [SB 5838](/bill/2023-24/sb/5838/) - AI task force   ❓1
 * ❓ CRYSTAL LEATHERMAN
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
 * 👍💵 Mark Johnson
 
 ## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act.   ❓1
@@ -380,7 +382,8 @@
 ## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍1  
 * 👍💵 Crystal Leatherman
 
-## [SB 6080](/bill/2023-24/sb/6080/) - Tourism marketing funding 👍1  
+## [SB 6080](/bill/2023-24/sb/6080/) - Tourism marketing funding 👍2  
+* 👍💵 Mark Johnson
 * 👍💵 Mark Johnson
 
 ## [SB 6112](/bill/2023-24/sb/6112/) - Donated food items/B&O tax 👍2  
@@ -391,6 +394,8 @@
 * 👍💵 Crystal Leatherman
 
 ## [SB 6122](/bill/2023-24/sb/6122/) - Alcohol delivery   ❓1
+
+## [SB 6133](/bill/2023-24/sb/6133/) - Cannabis retail robberies 👍1  
 
 ## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management   ❓1
 * ❓ Rose GUNDERSEN
@@ -406,3 +411,7 @@
 
 ## [SB 6296](/bill/2023-24/sb/6296/) - Establishing a retail industry work group. 👍1  
 * 👍 Rose GUNDERSEN
+
+## [SB 6301](/bill/2023-24/sb/6301/) - Basic law enf. academy 👍1  
+
+## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍1  

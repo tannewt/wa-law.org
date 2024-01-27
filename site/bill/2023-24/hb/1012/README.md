@@ -19,7 +19,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31864&aId=158028&caId=23670&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31864&aId=158028&caId=23670&tId=4)
 
-#### 1 👍 - Pro
+#### 79 👍 - Pro
+Testifying:
+* Cynthia Stewart - League of Women Voters of WA
+* 💵Brittany Benesi - American Society for the Prevention of Cruelty to Animals
+* Kristina Walker - City of Tacoma Councilmember
+* Georgia Hymmen
+* Clare Fogelsong - [City of Bellingham](/org/city_of_bellingham/)
+* Tom McBride - [City of Bellingham](/org/city_of_bellingham/)
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Bob Rilling-Smith - American Kennel Club
+* Melissa Gragg
+* Bob Rilling-Smith - American Kennel Club
+* Markis Dee Stidham - Serenity Outreach Services
 
 #### 0 👎 - Con
 

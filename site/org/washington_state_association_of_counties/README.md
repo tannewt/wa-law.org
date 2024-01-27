@@ -184,7 +184,7 @@
 
 ## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍1  
 
-## [HB 1987](/bill/2023-24/hb/1987/) - Concerning the use of moneys from the rural public facilities sales and use tax for affordable workforce housing infrastructure and facilities. 👍2  
+## [HB 1987](/bill/2023-24/hb/1987/) - Concerning the use of moneys from the rural public facilities sales and use tax for affordable workforce housing infrastructure and facilities. 👍3  
 
 ## [HB 1990](/bill/2023-24/hb/1990/) - Aerial imagery program 👍1  
 * 👍💵 Mike Hoover
@@ -270,6 +270,8 @@
 
 ## [HB 2393](/bill/2023-24/hb/2393/) - Unleaded aircraft fuel/tax  👎1 
 * 👎💵 Paul Jewell
+
+## [HB 2415](/bill/2023-24/hb/2415/) - Economic assistance/TANF 👍1  
 
 ## [SB 5027](/bill/2023-24/sb/5027/) - American dream homes 👍1  
 * 👍💵 Paul Jewell
@@ -430,7 +432,7 @@
 ## [SB 5808](/bill/2023-24/sb/5808/) - Safety telecom/interest arb.   ❓1
 * ❓💵 Mike Hoover
 
-## [SB 5834](/bill/2023-24/sb/5834/) - Concerning urban growth areas. 👍1  
+## [SB 5834](/bill/2023-24/sb/5834/) - Urban growth areas 👍1  
 * 👍💵 Paul Jewell
 
 ## [SB 5844](/bill/2023-24/sb/5844/) - Dilapidated RV disposal   ❓1
@@ -439,7 +441,7 @@
 ## [SB 5869](/bill/2023-24/sb/5869/) - Rural fire protection infra.   ❓1
 * ❓💵 Paul Jewell
 
-## [SB 5901](/bill/2023-24/sb/5901/) - Concerning co-living housing.   ❓1
+## [SB 5901](/bill/2023-24/sb/5901/) - Co-living housing   ❓1
 * ❓💵 Paul Jewell
 
 ## [SB 5992](/bill/2023-24/sb/5992/) - Water supply/energy sites 👍1  
@@ -476,7 +478,7 @@
 
 ## [SB 6206](/bill/2023-24/sb/6206/) - Water system receivership 👍1  
 
-## [SB 6210](/bill/2023-24/sb/6210/) - Unlawful detainer actions 👍1  
+## [SB 6210](/bill/2023-24/sb/6210/) - Unlawful detainer actions 👍2  
 
 ## [SB 6222](/bill/2023-24/sb/6222/) - District court judges 👍1  
 

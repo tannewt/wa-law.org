@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2170/</link>
 		<description>Updates about HB 2170</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 12 Jan 2024 22:16:31 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 25 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -43,6 +43,13 @@
 			<pubDate>Fri, 12 Jan 2024 22:16:31 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202170</guid>
+		</item>
+		<item>
+			<title>APP - Executive action taken by committee.</title>
+			<description>APP - Executive action taken by committee.</description>
+			<pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-25/APP - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

@@ -39,3 +39,6 @@
 ## [SB 5454](/bill/2023-24/sb/5454/) - RN PTSD/industrial insurance 👍1  
 
 ## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure  👎1 
+
+## [SB 6286](/bill/2023-24/sb/6286/) - Nurse anesthetist workforce   ❓1
+* ❓ Dee Bender

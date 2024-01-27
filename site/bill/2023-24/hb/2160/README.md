@@ -14,29 +14,29 @@
 
 ## Meetings
 ### Thu 01/25 01:30 PM - Capital Budget (CB): SHB 2160 Housing development
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31763&aId=157618&caId=23606&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31763&aId=157618&caId=23606&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31763&aId=157618&caId=23606&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31763&aId=157618&caId=23606&tId=4)
-
-#### 671 👍 - Pro
+#### 688 👍 - Pro
 Testifying:
 * David Bart
 * Noha Mahgoub
 * Jesse Simpson - Housing Development Consortium
 * Penny Sweet - Kirkland City Councilmember
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Representative Jake Fey - Washington State Legislature
+* Kristiana de Leon - [Futurewise](/org/futurewise/)
+* 💵Michele Thomas - Washington Low Income Housing Alliance
 
-#### 12 👎 - Con
+#### 15 👎 - Con
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Salim Nice - Mayor Mercer Island
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 4 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Genesee Adkins - City of Bellevue, Chief of External Affairs
+* Judy Bendich - Friends of Ravenna-Cowen
+* Steve Zemke - TreePAC and Friends of Urban Forests
+* Thomas White
 
 ### Tue 01/09 04:00 PM - Housing (HOUS): HB 2160 Housing development
 #### 217 👍 - Pro

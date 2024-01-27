@@ -14,7 +14,7 @@
 
 ## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍1  
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍1  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
 
 ## [HB 1983](/bill/2023-24/hb/1983/) - Criminal justice trtmnt acct 👍1  
 
@@ -32,6 +32,8 @@
 ## [HB 2311](/bill/2023-24/hb/2311/) - First responder wellness 👍1  
 
 ## [HB 2390](/bill/2023-24/hb/2390/) - Eluding & resisting arrest 👍1  
+
+## [HB 2466](/bill/2023-24/hb/2466/) - Addressing ambulance wait times. 👍1  
 
 ## [SB 5118](/bill/2023-24/sb/5118/) - Multifamily property tax ex. 👍1  
 

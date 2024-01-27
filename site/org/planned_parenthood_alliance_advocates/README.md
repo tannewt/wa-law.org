@@ -64,7 +64,7 @@
 
 ## [HB 1916](/bill/2023-24/hb/1916/) - Concerning funding for the early support for infants and toddlers program. 👍1  
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Supporting young adults following inpatient behavioral health treatment. 👍1  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
 
 ## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍1  
 
@@ -82,7 +82,7 @@
 
 ## [HB 2030](/bill/2023-24/hb/2030/) - Revoking a person's voting rights only when convicted of a state crime punishable by death. 👍1  
 
-## [HB 2036](/bill/2023-24/hb/2036/) - Concerning workplace safety and operational standards for adult entertainment establishments. 👍1  
+## [HB 2036](/bill/2023-24/hb/2036/) - Adult entertainment 👍1  
 
 ## [HB 2054](/bill/2023-24/hb/2054/) - Concerning bulk purchases and transfers of firearms. 👍1  
 
@@ -110,11 +110,13 @@
 
 ## [HB 2256](/bill/2023-24/hb/2256/) - Children behavioral health 👍1  
 
+## [HB 2266](/bill/2023-24/hb/2266/) - Construction/sanitary cond. 👍1  
+
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
 ## [HB 2331](/bill/2023-24/hb/2331/) - Public school materials 👍1  
 
-## [HB 2348](/bill/2023-24/hb/2348/) - County hospital funding 👍1  
+## [HB 2348](/bill/2023-24/hb/2348/) - County hospital funding 👍2  
 
 ## [HB 2390](/bill/2023-24/hb/2390/) - Eluding & resisting arrest  👎1 
 
@@ -181,6 +183,8 @@
 ## [SB 5933](/bill/2023-24/sb/5933/) - Infants and toddlers program 👍1  
 
 ## [SB 5960](/bill/2023-24/sb/5960/) - Prescription labels/abortion 👍1  
+
+## [SB 5963](/bill/2023-24/sb/5963/) - Deadly weapons insurance 👍1  
 
 ## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍2  
 

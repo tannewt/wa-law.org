@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2254/</link>
 		<description>Updates about HB 2254</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 16 Jan 2024 12:39:44 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 26 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -38,6 +38,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/James/Clark/2024-01-16 12:39:44</guid>
+		</item>
+		<item>
+			<title>CRJ - Executive action taken by committee.</title>
+			<description>CRJ - Executive action taken by committee.</description>
+			<pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-26/CRJ - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

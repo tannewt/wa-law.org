@@ -22,6 +22,24 @@
 * 10/09/2017 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Environmental Stewardship Priorities — Quaker Voice](https://www.quakervoicewa.org/environmental-stewardship-priorities/#:~:text=HB%201589)
 
 ## Meetings
+### Wed 01/31 08:00 AM - Environment, Energy & Technology (ENET): ESHB 1589 Clean energy
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31819&aId=158260&caId=23739&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31819&aId=158260&caId=23739&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31819&aId=158260&caId=23739&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31819&aId=158260&caId=23739&tId=4)
+
+#### 40 👍 - Pro
+Testifying:
+* Anna Lising - Governor's office
+* Jason Lewis - Utilities and Transportation Commission
+
+#### 69 👎 - Con
+Testifying:
+* 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+
+#### 1 ❓ - Other
+
 ### Fri 03/17 08:00 AM - Environment, Energy & Technology (ENET): ESHB 1589 Clean energy
 #### 98 👍 - Pro
 Testifying:

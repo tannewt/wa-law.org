@@ -79,7 +79,7 @@
 ## [HB 2028](/bill/2023-24/hb/2028/) - Concerning manufacturer and new dealer franchise agreements.  👎1 
 * 👎💵 Leah Missik
 
-## [HB 2039](/bill/2023-24/hb/2039/) - Modifying the appeals process for environmental and land use matters. 👍1  
+## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍1  
 * 👍💵 Altinay Karasapan
 
 ## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍1  
@@ -192,3 +192,5 @@
 * 👍 Deepa Sivarajan
 
 ## [SB 6229](/bill/2023-24/sb/6229/) - Green transp. grants/match 👍1  
+
+## [SB 6291](/bill/2023-24/sb/6291/) - State building code council   ❓1

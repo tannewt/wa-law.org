@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Tue 01/17 01:30 PM - Consumer Protection & Business (CPB): HB 1097 Cosmetics tested on animals

@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 5920 - Lifting certificate of need requirements for psychiatric hospitals and beds.</title>
+		<title>SB 5920 - Psychiatric/cert. of need</title>
 		<link>https://wa-law.org/bill/2023-24/sb/5920/</link>
 		<description>Updates about SB 5920</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 18 Jan 2024 08:16:49 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 25 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -68,6 +68,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Elizabeth/Hovde/2024-01-18 08:16:49</guid>
+		</item>
+		<item>
+			<title>HLTC - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>HLTC - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-25/HLTC - Majority; 1st substitute bill be substituted, do pass.</guid>
 		</item>
 	</channel>
 </rss>
