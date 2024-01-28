@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2468/</link>
 		<description>Updates about HB 2468</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 26 Jan 2024 02:14:12 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 27 Jan 2024 08:39:25 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -29,6 +29,14 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Tiffany/Speir/2024-01-26 02:14:12</guid>
+		</item>
+		<item>
+			<title>❓Erika Snell - Around The Clock Child Care Center Inc.</title>
+			<description>Erika Snell signed up to testify Other. They are signed up to represent Around The Clock Child Care Center Inc..</description>
+			<pubDate>Sat, 27 Jan 2024 08:39:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Erika/Snell/2024-01-27 08:39:25</guid>
 		</item>
 	</channel>
 </rss>

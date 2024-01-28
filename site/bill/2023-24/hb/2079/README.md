@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/26/2024 [MyNorthwest](/org/mynorthwest/) - ['I quit breathing': Bill raises penalties for attacks on referees, school staff - MyNorthwest.com](https://mynorthwest.com/3948047/house-bill-raises-penalties-attacks-sports-referees-school-staff/#:~:text=House%20Bill%202079)
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202079)
 
 ## Meetings

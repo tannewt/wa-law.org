@@ -1,6 +1,6 @@
 # City of Kirkland
 
-## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍1  
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 
 ## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions  👎1 
 
@@ -10,7 +10,7 @@
 
 ## [HB 1052](/bill/2023-24/hb/1052/) - Nonprofit housing/tax ex. 👍1  
 
-## [HB 1054](/bill/2023-24/hb/1054/) - Occupancy limits 👍1  
+## [HB 1054](/bill/2023-24/hb/1054/) - Occupancy limits 👍2  
 
 ## [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims 👍1  
 
@@ -97,6 +97,8 @@
 
 ## [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element 👍1  
 
+## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg. 👍1  
+
 ## [HB 2211](/bill/2023-24/hb/2211/) - Criminal justice local tax 👍1  
 
 ## [HB 2308](/bill/2023-24/hb/2308/) - Existing structures/housing 👍1  
@@ -108,6 +110,8 @@
 
 ## [HB 2411](/bill/2023-24/hb/2411/) - School construction debt 👍1  
 
+## [HB 2474](/bill/2023-24/hb/2474/) - Concerning compliance with siting requirements for transitional housing, permanent supportive housing, indoor emergency shelters, and indoor emergency housing. 👍1  
+
 ## [SB 5006](/bill/2023-24/sb/5006/) - Waiver of firearm rights 👍1  
 
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍2  
@@ -118,7 +122,7 @@
 
 ## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍3  
 
-## [SB 5118](/bill/2023-24/sb/5118/) - Multifamily property tax ex. 👍1  
+## [SB 5118](/bill/2023-24/sb/5118/) - Multifamily property tax ex. 👍2  
 
 ## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍1  
 
@@ -182,13 +186,19 @@
 
 ## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  
 
+## [SB 5972](/bill/2023-24/sb/5972/) - Neonicotinoid pesticides 👍1  
+
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
 
-## [SB 6013](/bill/2023-24/sb/6013/) - Homeownership dev. tax ex. 👍1  
+## [SB 6013](/bill/2023-24/sb/6013/) - Homeownership dev. tax ex. 👍2  
 
 ## [SB 6030](/bill/2023-24/sb/6030/) - ADU tax exemptions 👍1  
+
+## [SB 6076](/bill/2023-24/sb/6076/) - Criminal justice local tax 👍1  
 
 ## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍1  
 
 ## [SB 6230](/bill/2023-24/sb/6230/) - Tax increment areas  👎1 
 * 👎 Michael Olson
+
+## [SB 6285](/bill/2023-24/sb/6285/) - Use of impact fees  👎1 

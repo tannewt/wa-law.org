@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/24/2024 [Gorge News Center](/org/gorge_news_center/) - [Legislation that would help beverage producers during an emergency among three bills from Rep. Kevin Waters unanimously voted out of committee](https://gorgenewscenter.com/2024/01/24/legislation-that-would-help-beverage-producers-during-an-emergency-among-three-bills-from-rep-kevin-waters-unanimously-voted-out-of-committee/#:~:text=House%20Bill%202204)
+
 ## Meetings
 ### Thu 01/18 08:00 AM - Regulated Substances & Gaming (RSG): HB 2204 Emergency liquor permits
 #### 3 👍 - Pro

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/27/2024 [NW News Network](/org/nw_news_network/) - [Natural gas, opioids and DUIs: Highlights from week 3 of Washington's legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-26/natural-gas-opioids-and-duis-highlights-from-week-3-of-washingtons-legislative-session#:~:text=House%20Bill%202065)
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202065)
 * 01/04/2024 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Pass Juvenile Points (HB 2065/SB 5971) | ACLU of Washington](http://www.aclu-wa.org/pages/pass-juvenile-points-hb-2065sb-5971#:~:text=HB%202065)
 * 01/04/2024 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Legislative Agenda 2024 | ACLU of Washington](http://www.aclu-wa.org/pages/legislative-agenda-2024#:~:text=HB%202065)

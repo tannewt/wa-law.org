@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/25/2024 [The Center Square](/org/the_center_square/) - [Washington landlords push back on proposed rent control bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_e214113c-bbbf-11ee-9517-037a1febb6d3.html#:~:text=House%20Bill%202114)
 * 01/21/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/21/the-house-hot-sheet-for-week-3-of-the-2024-legislative-session/#:~:text=HB%202114)
 * 01/20/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Quaker Voice Priorities — Quaker Voice](https://www.quakervoicewa.org/2024-quaker-voice-priorities/#:~:text=HB%202114)
 * 01/20/2024 [NW News Network](/org/nw_news_network/) - [AI, guns, and initiatives: highlights from Week 2 of Washington's 2024 legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-19/ai-guns-and-initiatives-highlights-from-week-2-of-washingtons-2024-legislative-session#:~:text=House%20Bill%202114)

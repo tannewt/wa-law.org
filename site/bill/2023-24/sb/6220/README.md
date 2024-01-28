@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/24/2024 [The Seattle Times](/org/the_seattle_times/) - [Don’t let efforts to regulate high-potency pot go up in smoke | The Seattle Times](https://www.seattletimes.com/opinion/editorials/dont-let-efforts-to-regulate-high-potency-pot-go-up-in-smoke/#:~:text=SB%206220)
 * 01/22/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 3: Criminal justice reform, education, tax cuts for housing - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/21/this-week-in-the-senate-week-3-criminal-justice-reform-education-tax-cuts-for-housing/#:~:text=SB%206220)
 
 ## Meetings

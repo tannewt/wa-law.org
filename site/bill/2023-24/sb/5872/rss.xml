@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5872/</link>
 		<description>Updates about SB 5872</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 26 Jan 2024 04:26:13 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 27 Jan 2024 11:51:51 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -52,6 +52,30 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Jim/Restucci/2024-01-26 04:26:13</guid>
+		</item>
+		<item>
+			<title>👎Jeff Gombosky - Tesla</title>
+			<description>Jeff Gombosky signed up to testify Con. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/tesla/&quot;&gt;Tesla&lt;/a&gt;.</description>
+			<pubDate>Sat, 27 Jan 2024 02:01:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jeff/Gombosky/2024-01-27 02:01:21</guid>
+		</item>
+		<item>
+			<title>❓William Widen - Wash. State Transportation Commission</title>
+			<description>William Widen signed up to testify Other.</description>
+			<pubDate>Sat, 27 Jan 2024 06:23:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/William/Widen/2024-01-27 06:23:05</guid>
+		</item>
+		<item>
+			<title>❓Philip Koopman - Carnegie Mellon University</title>
+			<description>Philip Koopman signed up to testify Other. They are signed up to represent Carnegie Mellon University.</description>
+			<pubDate>Sat, 27 Jan 2024 11:51:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Philip/Koopman/2024-01-27 11:51:51</guid>
 		</item>
 	</channel>
 </rss>

@@ -7,9 +7,11 @@
 
 ## [HB 2138](/bill/2023-24/hb/2138/) - Outdoor learning/state parks 👍2  
 
-## [HB 2210](/bill/2023-24/hb/2210/) - DOC wild horse program 👍1  
+## [HB 2210](/bill/2023-24/hb/2210/) - DOC wild horse program 👍2  
 
 ## [HB 2257](/bill/2023-24/hb/2257/) - Back country search & rescue 👍2  
+
+## [HB 2456](/bill/2023-24/hb/2456/) - Wildlife safe passages 👍1  
 
 ## [SB 5598](/bill/2023-24/sb/5598/) - Horses/funding 👍1  
 
@@ -19,5 +21,7 @@
 
 ## [SB 5910](/bill/2023-24/sb/5910/) - Creating the state department of natural resources' Smokey Bear special license plates. 👍3  
 * 👍 Joan Fleming
+
+## [SB 6043](/bill/2023-24/sb/6043/) - Recreational use fees 👍1  
 
 ## [SB 6237](/bill/2023-24/sb/6237/) - Wildlife safe passages 👍1  

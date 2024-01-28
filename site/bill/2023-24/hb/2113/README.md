@@ -11,6 +11,19 @@
 * 01/04/2024 [The Urbanist](/org/the_urbanist/) - [‘Housing Accountability Act’ Seeks to Push Local Governments to Boost Homebuilding - The Urbanist](https://www.theurbanist.org/2024/01/04/housing-accountability-act-seeks-to-push-local-governments-to-boost-homebuilding/#:~:text=House%20Bill%202113)
 
 ## Meetings
+### Thu 02/01 10:30 AM - Appropriations (APP): SHB 2113 GMA housing element
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158368&caId=23775&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158368&caId=23775&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158368&caId=23775&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158368&caId=23775&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/15 01:30 PM - Housing (HOUS): HB 2113 GMA housing element
 #### 209 👍 - Pro
 Testifying:

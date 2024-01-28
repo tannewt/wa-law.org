@@ -2,7 +2,7 @@
 
 ## [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍2  
 
-## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing  👎1 ❓2
 * ❓ Tiffany Speir

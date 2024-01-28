@@ -14,8 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158137&caId=23684&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158137&caId=23684&tId=4)
 
-#### 3 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
+* Holly Mehlenbeck
 * Scott Bigger - K9kavalry
 * Dan Regester - K9 Kavalry 501(c)3
 

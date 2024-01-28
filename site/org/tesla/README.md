@@ -9,5 +9,8 @@
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  
 * 👍 Jeff Gombosky
 
+## [SB 5872](/bill/2023-24/sb/5872/) - Concerning vehicle and operator requirements for autonomous vehicles.  👎1 
+* 👎 Jeff Gombosky
+
 ## [SB 5945](/bill/2023-24/sb/5945/) - Vehicle dealers   ❓1
 * ❓ Jeff Gombosky

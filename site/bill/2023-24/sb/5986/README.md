@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/26/2024 [The Seattle Times](/org/the_seattle_times/) - [How recent WA legislative changes could save you money on health care | The Seattle Times](https://www.seattletimes.com/seattle-news/health/how-recent-wa-legislative-changes-could-save-you-money-on-health-care/#:~:text=Senate%20Bill%205986)
+
 ## Meetings
 ### Mon 01/29 04:00 PM - Ways & Means (WM): SB 5986 Out-of-network health costs
 Sign up to testify:
@@ -14,11 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158145&caId=23651&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158145&caId=23651&tId=4)
 
-#### 67 👍 - Pro
+#### 81 👍 - Pro
 Testifying:
 * Shaun Ford - Washington Fire Chief's Association
 * Mike Battis - Ballard Ambulance
 * Shawn Ballard - Cascade Ambulance
+* Chris Cato - EMS Division Chief
+* Jane Beyer - Office of the Insurance Commissioner
 
 #### 0 👎 - Con
 

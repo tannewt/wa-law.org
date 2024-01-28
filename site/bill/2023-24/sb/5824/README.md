@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/26/2024 [The Center Square](/org/the_center_square/) - [Washington bill addresses library dissolution efforts | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d73888b4-bc83-11ee-9ca3-4b9f40ed7981.html#:~:text=SB%205824)
+* 01/25/2024 [NW News Network](/org/nw_news_network/) - [Washington state bill could change how rural communities can close a library | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-24/washington-state-bill-could-change-how-rural-communities-can-close-a-library#:~:text=Engrossed%20Senate%20Bill%205824)
+
 ## Meetings
 ### Tue 01/09 01:30 PM - State Government & Elections (SGE): SB 5824 Dissolution of libraries
 #### 21 👍 - Pro

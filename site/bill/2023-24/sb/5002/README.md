@@ -9,6 +9,8 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 01/26/2024 [MyNorthwest](/org/mynorthwest/) - [State lawmakers try again to lower legal blood alcohol limit for DUIs - MyNorthwest.com](https://mynorthwest.com/3948088/state-lawmakers-try-again-lower-legal-blood-alcohol-limit/#:~:text=Senate%20Bill%205002)
+* 01/25/2024 [KING5](/org/king5/) - [.05 BAC limit proposal has public hearing in state House | king5.com](https://www.king5.com/article/news/politics/state-politics/bill-lower-washington-bac-05-08-hearing-legislature-blood-alcohol-content/281-4c6a5d14-839a-4b68-81f1-2ecb537137c0#:~:text=SB%205002)
 * 04/24/2023 [Crosscut](/org/crosscut/) - [The bills that survived Washington's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/04/bills-survived-washingtons-2023-legislative-session#:~:text=Senate%20Bill%205002)
 * 03/17/2023 [FOX13](/org/fox13/) - [Washington State Patrol braces for high DUI arrests numbers St. Patrick's Day weekend](https://www.fox13seattle.com/news/washington-state-patrol-anticipates-high-dui-arrests-numbers-st-patricks-day-weekend#:~:text=Senate%20Bill%205002)
 * 03/10/2023 [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=Senate%20Bill%205002)

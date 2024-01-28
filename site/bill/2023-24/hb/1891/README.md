@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/25/2024 [The Center Square](/org/the_center_square/) - [Bill would lengthen state supervision of parents recovering from substance abuse | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ee9c6e62-bbd9-11ee-9833-770993c0974f.html#:~:text=House%20Bill%201891)
+
 ## Meetings
 ### Tue 01/23 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1891 Parent substance use
 #### 20 👍 - Pro

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/24/2024 [Gorge News Center](/org/gorge_news_center/) - [Legislation that would help beverage producers during an emergency among three bills from Rep. Kevin Waters unanimously voted out of committee](https://gorgenewscenter.com/2024/01/24/legislation-that-would-help-beverage-producers-during-an-emergency-among-three-bills-from-rep-kevin-waters-unanimously-voted-out-of-committee/#:~:text=House%20Bill%202255)
+
 ## Meetings
 ### Mon 01/22 01:30 PM - Regulated Substances & Gaming (RSG): HB 2255 Cannabis inversion/diversion
 #### 8 👍 - Pro

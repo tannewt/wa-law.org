@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/26/2024 [The Seattle Times](/org/the_seattle_times/) - [How recent WA legislative changes could save you money on health care | The Seattle Times](https://www.seattletimes.com/seattle-news/health/how-recent-wa-legislative-changes-could-save-you-money-on-health-care/#:~:text=Senate%20Bill%205242)
 * 10/10/2023 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [2023 Legislative Session Summary – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/resources/2023-legislative-session-summary/#:~:text=SB%205242)
 * 06/28/2023 [House Democrats](/org/house_democrats/) - [Rep. Thai Attends White House Convening on Reproductive Rights – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/06/28/rep-thai-attends-white-house-convening-on-reproductive-rights/#:~:text=SB%205242)
 * 06/15/2023 [Senate Democrats](/org/senate_democrats/) - [Sens. Dhingra, Kuderer attend White House event detailing efforts to protect reproductive rights in Washington state  - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/06/15/sens-dhingra-kuderer-attend-white-house-event-detailing-efforts-to-protect-reproductive-rights-in-washington-state/#:~:text=SB%205242)

@@ -9,6 +9,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 01/26/2024 [The Seattle Times](/org/the_seattle_times/) - [How recent WA legislative changes could save you money on health care | The Seattle Times](https://www.seattletimes.com/seattle-news/health/how-recent-wa-legislative-changes-could-save-you-money-on-health-care/#:~:text=Senate%20Bill%205396)
+
 ## Meetings
 ### Wed 03/22 04:00 PM - Appropriations (APP): SSB 5396 Breast exam cost sharing
 #### 13 👍 - Pro

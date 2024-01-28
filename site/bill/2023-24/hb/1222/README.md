@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 01/26/2024 [The Seattle Times](/org/the_seattle_times/) - [How recent WA legislative changes could save you money on health care | The Seattle Times](https://www.seattletimes.com/seattle-news/health/how-recent-wa-legislative-changes-could-save-you-money-on-health-care/#:~:text=House%20Bill%201222)
 * 03/11/2023 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 10: Housing, reproductive freedom and support for kids - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/11/this-week-in-the-senate-week-10-housing-reproductive-freedom-and-support-for-kids/#:~:text=House%20Bill%201222)
 * 02/28/2023 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Orwall’s insurance coverage for hearing aids passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/28/legislative-news-orwalls-insurance-coverage-for-hearing-aids-passes-house/#:~:text=House%20Bill%201222)
 

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/26/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 29 - Feb. 2, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-29-feb-2-2024/#:~:text=HB%202417)
+
 ## Meetings
 ### Thu 02/01 08:00 AM - Capital Budget (CB): HB 2417 Renewable energy loans
 Sign up to testify:
@@ -14,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158012&caId=23705&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158012&caId=23705&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 
 #### 0 👎 - Con
 

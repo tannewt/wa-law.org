@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/26/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 29 - Feb. 2, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-29-feb-2-2024/#:~:text=HB%202446)
+
 ## Meetings
 ### Thu 02/01 08:00 AM - Capital Budget (CB): HB 2446 Reforestation grants
 Sign up to testify:

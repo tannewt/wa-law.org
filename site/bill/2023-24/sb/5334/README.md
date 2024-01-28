@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 01/26/2024 [Crosscut](/org/crosscut/) - [WA Senate passes tax proposal to boost affordable-housing funding | Crosscut](https://crosscut.com/briefs/2024/01/wa-senate-passes-tax-proposal-boost-affordable-housing-funding#:~:text=Senate%20Bill%205334)
 * 03/17/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 20 - 24, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-20-24-2023/#:~:text=SB%205334)
 * 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=SB%205334)
 

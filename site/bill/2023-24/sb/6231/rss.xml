@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6231/</link>
 		<description>Updates about SB 6231</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 11:06:48 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 25 Jan 2024 16:15:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -93,6 +93,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Michele/Thomas/2024-01-22 11:06:48</guid>
+		</item>
+		<item>
+			<title>Senate bill aims to prohibit use of hostile architecture preventing homeless camps - MyNorthwest.com</title>
+			<description>News article &quot;Senate bill aims to prohibit use of hostile architecture preventing homeless camps - MyNorthwest.com&quot; from MyNorthwest.</description>
+			<pubDate>Thu, 25 Jan 2024 16:15:04 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/3947875/senate-bill-aims-prohibit-use-hostile-architecture-prevent-homeless-camps/#:~:text=Senate%20Bill%206231</guid>
 		</item>
 	</channel>
 </rss>

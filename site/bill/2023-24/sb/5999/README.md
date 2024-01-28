@@ -14,11 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158152&caId=23679&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158152&caId=23679&tId=4)
 
-#### 326 👍 - Pro
+#### 574 👍 - Pro
 Testifying:
 * Sean Graves
 * Margaret Kanyoko - Whitman College
+* Thomas Lovitt - UW Tacoma Student
+* Hannah Neir - UW Tacoma Student
+* Jaismeen Kaur - UW Tacoma
+* Zoie Navarro - UW Tacoma Student
+* Erica Olson - University of Washington graduate student
+* Cher Aguilar Henriquez
+* Quinn Sukys
+* Calvin Beardemphl - UW Tacoma Student
+* Lucy Munoz - University of Washington, Tacoma
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other

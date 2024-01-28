@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31864&aId=158028&caId=23670&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31864&aId=158028&caId=23670&tId=4)
 
-#### 79 👍 - Pro
+#### 108 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 * 💵Brittany Benesi - American Society for the Prevention of Cruelty to Animals

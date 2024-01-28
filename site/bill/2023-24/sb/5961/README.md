@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/27/2024 [NW News Network](/org/nw_news_network/) - [Natural gas, opioids and DUIs: Highlights from week 3 of Washington's legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-26/natural-gas-opioids-and-duis-highlights-from-week-3-of-washingtons-legislative-session#:~:text=Senate%20Bill%205961)
 * 01/20/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Quaker Voice Priorities — Quaker Voice](https://www.quakervoicewa.org/2024-quaker-voice-priorities/#:~:text=SB%205961)
 * 01/07/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: Welcome to the 2024 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/07/this-week-in-the-senate-week-1-welcome-to-the-2024-session/#:~:text=Senate%20Bill%205961)
 * [Cascadia Daily News](/org/cascadia_daily_news/) - [Rent-cap bill gets second chance in Olympia](https://cascadiadaily.com/news/2024/jan/15/rent-cap-bill-gets-second-chance-in-olympia/#:~:text=Senate%20Bill%205961)

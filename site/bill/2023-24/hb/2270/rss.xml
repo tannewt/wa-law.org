@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2270/</link>
 		<description>Updates about HB 2270</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 23 Jan 2024 07:13:58 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jan 2024 22:56:55 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -62,6 +62,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Michele/Thomas/2024-01-23 07:13:58</guid>
+		</item>
+		<item>
+			<title>WA Legislature considers establishing a new state housing agency | Crosscut</title>
+			<description>News article &quot;WA Legislature considers establishing a new state housing agency | Crosscut&quot; from Crosscut.</description>
+			<pubDate>Wed, 24 Jan 2024 22:56:55 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://crosscut.com/briefs/2024/01/wa-legislature-considers-establishing-new-state-housing-agency#:~:text=House%20Bill%202270</guid>
 		</item>
 	</channel>
 </rss>

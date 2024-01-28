@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2447/</link>
 		<description>Updates about HB 2447</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 23 Jan 2024 09:26:13 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jan 2024 17:53:18 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -173,6 +173,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Jim/Walsh/2024-01-23 09:26:13</guid>
+		</item>
+		<item>
+			<title>State law makes intervention for drugs difficult for child protective services, attorney says</title>
+			<description>News article &quot;State law makes intervention for drugs difficult for child protective services, attorney says&quot; from FOX13.</description>
+			<pubDate>Tue, 23 Jan 2024 17:53:18 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/state-law-makes-drug-intervention-difficult-for-child#:~:text=House%20Bill%202447.</guid>
 		</item>
 	</channel>
 </rss>

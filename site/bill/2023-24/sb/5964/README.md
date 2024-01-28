@@ -17,12 +17,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31812&aId=157796&caId=23647&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31812&aId=157796&caId=23647&tId=4)
 
-#### 98 👍 - Pro
+#### 490 👍 - Pro
 Testifying:
 * 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
 * Danica Noble - Washington State PTA
 * Sandra Conradi - WSNA/Yelm Community Schools
 
-#### 2 👎 - Con
+#### 306 👎 - Con
+Testifying:
+* John Axtell
+* Teddy Anderson
+* Jeannette Mcchesney
+* Nicole Wells
 
 #### 0 ❓ - Other

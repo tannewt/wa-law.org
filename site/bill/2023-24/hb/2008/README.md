@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 01/25/2024 [The Center Square](/org/the_center_square/) - [Washington landlords push back on proposed rent control bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_e214113c-bbbf-11ee-9517-037a1febb6d3.html#:~:text=House%20Bill%202008)
+
 ## Meetings
 ### Mon 01/08 01:30 PM - Housing (HOUS): HB 2008 Housing cost task force
 #### 56 👍 - Pro

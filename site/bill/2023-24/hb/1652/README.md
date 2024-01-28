@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 01/25/2024 [Crosscut](/org/crosscut/) - [WA intercepts millions in child support for low-income families | Crosscut](https://crosscut.com/investigations/2024/01/wa-intercepts-millions-child-support-low-income-families#:~:text=House%20Bill%201652)
+
 ## Meetings
 ### Tue 01/30 10:30 AM - Law & Justice (LAW): ESHB 1652 Child support pass through
 Sign up to testify:
@@ -16,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=157581&caId=23661&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=157581&caId=23661&tId=4)
 
-#### 22 👍 - Pro
+#### 81 👍 - Pro
 
 #### 0 👎 - Con
 

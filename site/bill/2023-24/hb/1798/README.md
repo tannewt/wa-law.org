@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/26/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 29 - Feb. 2, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-29-feb-2-2024/#:~:text=HB%201798)
 * 01/20/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Quaker Voice Priorities — Quaker Voice](https://www.quakervoicewa.org/2024-quaker-voice-priorities/#:~:text=HB%201798)
 * 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%201798)
 
@@ -19,13 +20,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31824&aId=157887&caId=23701&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31824&aId=157887&caId=23701&tId=4)
 
-#### 58 👍 - Pro
+#### 117 👍 - Pro
 
-#### 3 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 ### Tue 01/09 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1798 Earned release time
 #### 334 👍 - Pro

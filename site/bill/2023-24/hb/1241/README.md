@@ -20,12 +20,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31787&aId=157614&caId=23638&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31787&aId=157614&caId=23638&tId=4)
 
-#### 128 👍 - Pro
+#### 180 👍 - Pro
 Testifying:
 * Mary Hall - Washington Association of County Auditors (WSACA)
 * Carolyn Fundingsland - Washington State Association of County Auditors (WSACA)
+* 💵Jennifer Wallace - WA Assoc of County Officials
 
-#### 2 👎 - Con
+#### 53 👎 - Con
 
 #### 0 ❓ - Other
 

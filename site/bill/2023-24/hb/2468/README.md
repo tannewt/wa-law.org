@@ -20,4 +20,6 @@ Sign up to testify:
 Testifying:
 * Tiffany Speir - [City of Lakewood](/org/city_of_lakewood/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Erika Snell - Around The Clock Child Care Center Inc.

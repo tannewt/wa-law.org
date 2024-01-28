@@ -92,3 +92,5 @@
 
 ## [SB 6216](/bill/2023-24/sb/6216/) - Student mental health net. 👍1  
 * 👍 Stephan Blanford
+
+## [SB 6223](/bill/2023-24/sb/6223/) - School director compensation 👍1  

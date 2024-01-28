@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2409/</link>
 		<description>Updates about HB 2409</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 17 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 27 Jan 2024 11:03:46 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,30 @@
 			<pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-17/First reading, referred to Local Government.</guid>
+		</item>
+		<item>
+			<title>👍Kemp Garcia - Linescape of WA, NUCA of WA</title>
+			<description>Kemp Garcia signed up to testify Pro. They are signed up to represent Linescape of WA, NUCA of WA.</description>
+			<pubDate>Sat, 27 Jan 2024 04:22:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kemp/Garcia/2024-01-27 04:22:02</guid>
+		</item>
+		<item>
+			<title>👍Mark Scoccolo - SCI Infrastructure</title>
+			<description>Mark Scoccolo signed up to testify Pro. They are signed up to represent SCI Infrastructure.</description>
+			<pubDate>Sat, 27 Jan 2024 04:22:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mark/Scoccolo/2024-01-27 04:22:02</guid>
+		</item>
+		<item>
+			<title>👍Don Evans - WA 811</title>
+			<description>Don Evans signed up to testify Pro. They are signed up to represent WA 811.</description>
+			<pubDate>Sat, 27 Jan 2024 11:03:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Don/Evans/2024-01-27 11:03:46</guid>
 		</item>
 	</channel>
 </rss>

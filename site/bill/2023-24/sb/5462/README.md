@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/26/2024 [The Seattle Times](/org/the_seattle_times/) - [WA could require public schools teach LGBTQ+ history under proposed bill | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-could-require-public-schools-teach-lgbtq-history-under-proposed-bill/#:~:text=Senate%20Bill%205462)
 * 01/17/2024 [Senate Democrats](/org/senate_democrats/) - [Liias’ inclusive learning bill approved by Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/17/liias-inclusive-learning-bill-approved-by-senate/#:~:text=SB%205462)
 * 04/05/2023 [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=Senate%20Bill%205462)
 * 03/27/2023 [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=ESB%205462)

@@ -14,6 +14,19 @@
 * 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%201062)
 
 ## Meetings
+### Thu 02/01 10:30 AM - Appropriations (APP): SHB 1062 Law enf. officers/deception
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158363&caId=23770&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158363&caId=23770&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158363&caId=23770&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158363&caId=23770&tId=4)
+
+#### 2 👍 - Pro
+
+#### 2 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/08 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1062 Law enf. officers/deception
 #### 106 👍 - Pro
 Testifying:

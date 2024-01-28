@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/27/2024 [NW News Network](/org/nw_news_network/) - [Natural gas, opioids and DUIs: Highlights from week 3 of Washington's legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-26/natural-gas-opioids-and-duis-highlights-from-week-3-of-washingtons-legislative-session#:~:text=House%20Bill%201877)
 * 01/21/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/21/the-house-hot-sheet-for-week-3-of-the-2024-legislative-session/#:~:text=HB%201877)
 
 ## Meetings

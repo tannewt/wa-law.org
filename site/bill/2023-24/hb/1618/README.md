@@ -10,6 +10,8 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 01/27/2024 [NW News Network](/org/nw_news_network/) - [Natural gas, opioids and DUIs: Highlights from week 3 of Washington's legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-26/natural-gas-opioids-and-duis-highlights-from-week-3-of-washingtons-legislative-session#:~:text=House%20Bill%201618)
+* 01/25/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Bill Seeking Justice for Child Sex Abuse Victims Passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/25/legislative-news-bill-seeking-justice-for-child-sex-abuse-victims-passes-house/#:~:text=House%20Bill%201618)
 * 04/07/2023 [The Seattle Times](/org/the_seattle_times/) - [Bill to eliminate time limits for child sex-abuse lawsuits stalls in WA Senate | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/bill-to-eliminate-time-limits-for-child-sex-abuse-lawsuits-stalls-in-wa-senate/#:~:text=House%20Bill%201618)
 * 03/27/2023 [FOX13](/org/fox13/) - [Washington moves to end child sex abuse lawsuit time limits](https://www.fox13seattle.com/news/washington-moves-to-end-child-sex-abuse-lawsuit-time-limits#:~:text=House%20Bill%201618)
 * 03/27/2023 [The Seattle Times](/org/the_seattle_times/) - [WA moves to eliminate time limits for child sex abuse lawsuits | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-moves-to-eliminate-time-limits-for-child-sex-abuse-lawsuits/#:~:text=House%20Bill%201618)
@@ -23,9 +25,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=158282&caId=23750&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=158282&caId=23750&tId=4)
 
-#### 1 👍 - Pro
+#### 30 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

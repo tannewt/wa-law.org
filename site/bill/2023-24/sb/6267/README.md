@@ -14,9 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31846&aId=157933&caId=23659&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31846&aId=157933&caId=23659&tId=4)
 
-#### 7 👍 - Pro
+#### 57 👍 - Pro
 Testifying:
 * Whitney Stohr
+* Claudia Sanderson
+* Angela Ramos
+* 💵Darci Ladwig
+* Jamie Thompson
+* Katie Scheid
+* Lindsey Topping-Schuetz
+* MariClaire Eastabrooks
 
 #### 0 👎 - Con
 

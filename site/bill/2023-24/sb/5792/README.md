@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/26/2024 [Gorge News Center](/org/gorge_news_center/) - [Senate committee passes another Padden bill removing red tape from construction of smaller condominiums](https://gorgenewscenter.com/2024/01/26/senate-committee-passes-another-padden-bill-removing-red-tape-from-construction-of-smaller-condominiums/#:~:text=Senate%20Bill%205792)
+
 ## Meetings
 ### Tue 01/23 10:30 AM - Law & Justice (LAW): SB 5792 Multiunit res./definition
 #### 69 👍 - Pro

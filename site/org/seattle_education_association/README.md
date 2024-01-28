@@ -40,6 +40,10 @@
 
 ## [SB 5650](/bill/2023-24/sb/5650/) - K-12 inflationary increases 👍2  
 
+## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍5  
+
+## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍6  
+
 ## [SB 6014](/bill/2023-24/sb/6014/) - Special education cap 👍2  
 
 ## [SB 6082](/bill/2023-24/sb/6082/) - Paraeducator compensation 👍1  

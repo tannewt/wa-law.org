@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/26/2024 [The Center Square](/org/the_center_square/) - [King County officials support proposed bill to lift cap on property tax increases | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_4a8da876-bc75-11ee-a77d-43b0d8fcba45.html#:~:text=Senate%20Bill%205770)
+* 01/25/2024 [The Center Square](/org/the_center_square/) - [Bipartisan bills call for state to share liquor, cannabis revenues with local governments | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ab87f188-bbd3-11ee-9eef-5b82c2a521f1.html#:~:text=Senate%20Bill%205770)
 * 01/15/2024 [The Center Square](/org/the_center_square/) - [Republican Senate leader decries bill that would triple property tax lid | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9d5615ac-b3dd-11ee-9e47-3f895f6fdf00.html#:~:text=Senate%20Bill%205770)
 * 04/25/2023 [The Center Square](/org/the_center_square/) - [Democratic legislative leaders eye tax increases in the 2024 session | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_7baa9df8-e3a7-11ed-8fba-63da7f24bc2a.html#:~:text=SB%205770)
 * 04/22/2023 [House Republicans](/org/house_republicans/) - [An update on the 2023 legislative session | Washington State House Republicans](https://houserepublicans.wa.gov/current/an-update-on-the-2023-legislative-session/#:~:text=Senate%20Bill%205770)

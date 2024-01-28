@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/24/2024 [The Seattle Times](/org/the_seattle_times/) - [Don’t let efforts to regulate high-potency pot go up in smoke | The Seattle Times](https://www.seattletimes.com/opinion/editorials/dont-let-efforts-to-regulate-high-potency-pot-go-up-in-smoke/#:~:text=House%20Bill%202320)
 * 01/17/2024 [The Center Square](/org/the_center_square/) - [Not your father’s weed: Davis-Dent bill limits high-potency cannabis products | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_454a0874-b580-11ee-a130-639c8a443c5b.html#:~:text=House%20Bill%202320)
 
 ## Meetings

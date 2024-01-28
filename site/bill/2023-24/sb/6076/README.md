@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158266&caId=23744&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158266&caId=23744&tId=4)
 
-#### 10 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Dana Ralph - City of Kent - Mayor
 * Brian Carson - Puget Sound Regional Fire Authority - Chief
@@ -24,6 +24,7 @@ Testifying:
 * Satwinder Kaur - City of Kent Councilmember
 * Zandria Michaud - City of Kent Councilmember
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Eric Holmes - City Manager, City of Vancouver
 
 #### 0 👎 - Con
 

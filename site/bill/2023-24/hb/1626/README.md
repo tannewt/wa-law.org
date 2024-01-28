@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/26/2024 [The Seattle Times](/org/the_seattle_times/) - [How recent WA legislative changes could save you money on health care | The Seattle Times](https://www.seattletimes.com/seattle-news/health/how-recent-wa-legislative-changes-could-save-you-money-on-health-care/#:~:text=House%20Bill%201626)
+
 ## Meetings
 ### Thu 03/23 04:00 PM - Ways & Means (WM): HB 1626 Colorectal screening tests
 #### 13 👍 - Pro

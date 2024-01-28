@@ -14,13 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31787&aId=157454&caId=23637&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31787&aId=157454&caId=23637&tId=4)
 
-#### 2 👍 - Pro
+#### 213 👍 - Pro
+Testifying:
+* Bryon Welch - Office of the Insurance Commissioner
 
-#### 60 👎 - Con
+#### 229 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * eric pratt
 * Jeffrey Garretson
+* Michael McKinley
+* Daniel Mitchell - Sporting Systems Vancouver
+* Jeremy Ball
 * 💵Aoibheann Cline - NRA
+* Teo Morca
 
 #### 0 ❓ - Other

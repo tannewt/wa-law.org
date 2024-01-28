@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/26/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 29 - Feb. 2, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-29-feb-2-2024/#:~:text=HB%202351)
+
 ## Meetings
 ### Wed 01/31 01:30 PM - Health Care & Wellness (HCW): HB 2351 Essential worker health care
 Sign up to testify:
@@ -20,4 +23,6 @@ Testifying:
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jane Beyer - Office of the Insurance Commissioner

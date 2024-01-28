@@ -195,6 +195,12 @@
 
 ## [HB 2353](/bill/2023-24/hb/2353/) - Residential targeted areas 👍1  
 
+## [HB 2451](/bill/2023-24/hb/2451/) - Impact fees 👍1  
+* 👍💵 Bill Stauffacher
+
+## [HB 2465](/bill/2023-24/hb/2465/) - Streamlining the state building code council operating procedures by establishing criteria for statewide amendments to the state building code. 👍1  
+* 👍💵 Bill Stauffacher
+
 ## [SB 5027](/bill/2023-24/sb/5027/) - American dream homes  👎1 
 * 👎💵 Jan Himebaugh
 

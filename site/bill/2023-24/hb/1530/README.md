@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/25/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Cortes Bill to Expand Law Enforcement and Prosecutor Pool Passes House  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/25/legislative-news-cortes-bill-to-expand-law-enforcement-and-prosecutor-pool-passes-house/#:~:text=House%20Bill%201530)
+
 ## Meetings
 ### Tue 01/30 10:30 AM - Law & Justice (LAW): HB 1530 Law enf. employ. eligibility
 Sign up to testify:

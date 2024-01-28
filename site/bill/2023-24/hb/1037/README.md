@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 01/26/2024 [Gorge News Center](/org/gorge_news_center/) - [House passes Walsh legislation that allows private property family burials](https://gorgenewscenter.com/2024/01/26/house-passes-walsh-legislation-that-allows-private-property-family-burials/#:~:text=House%20Bill%201037)
 * 03/02/2023 [The Daily News](/org/the_daily_news/) - [Bills protecting EV stations, tow truck drivers, more move forward in WA Legislature](https://tdn.com/news/local/govt-and-politics/bills-protecting-ev-stations-tow-truck-drivers-more-move-forward-in-wa-legislature/article_9547a582-abf6-11ed-b0aa-7b7eb72b7bc6.html#:~:text=House%20Bill%201037)
 * 02/27/2023 [Gorge News Center](/org/gorge_news_center/) - [Walsh bill to allow family to be buried on private property clears House](https://gorgenewscenter.com/2023/02/27/walsh-bill-to-allow-family-to-be-buried-on-private-property-clears-house/#:~:text=House%20Bill%201037)
 

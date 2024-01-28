@@ -18,10 +18,12 @@ Sign up to testify:
 Testifying:
 * Tom Wark - [National Association of Wine Retailers](/org/national_association_of_wine_retailers/)
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 Testifying:
+* 💵Bill Stauffacher - [Washington Beer & Wine Distributors Association](/org/washington_beer_&_wine_distributors_association/)
 * Andrea McNeely - Association of Washington Spirits and Wine Distributors
 * Brandon High - [Southern Glazer's Wine & Spirits](/org/southern_glazer's_wine_&_spirits/)
+* Kelly Rhodes - [Republic National Distributing Company](/org/republic_national_distributing_company/)
 
 #### 1 ❓ - Other
 

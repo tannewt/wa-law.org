@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 01/27/2024 [NW News Network](/org/nw_news_network/) - [Natural gas, opioids and DUIs: Highlights from week 3 of Washington's legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-26/natural-gas-opioids-and-duis-highlights-from-week-3-of-washingtons-legislative-session#:~:text=House%20Bill%201589)
 * 01/23/2024 [The Center Square](/org/the_center_square/) - [Washington House passes PSE natural gas ban days after cold snap hits energy grid | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f1782926-ba23-11ee-b3a3-27e1b8c62a45.html#:~:text=HB%201589)
 * 01/23/2024 [MyNorthwest](/org/mynorthwest/) - [Bill to ban natural gas revived, passes in Washington House - MyNorthwest.com](https://mynorthwest.com/3947555/bill-ban-natural-gas-revived-passes-washington-house/#:~:text=House%20Bill%201589)
 * 01/23/2024 [Gorge News Center](/org/gorge_news_center/) - [State House Republicans unite against bill that would ban new natural gas lines in Washington](https://gorgenewscenter.com/2024/01/23/state-house-republicans-unite-against-bill-that-would-ban-new-natural-gas-lines-in-washington/#:~:text=House%20Bill%201589)
@@ -29,12 +30,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31819&aId=158260&caId=23739&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31819&aId=158260&caId=23739&tId=4)
 
-#### 40 👍 - Pro
+#### 65 👍 - Pro
 Testifying:
 * Anna Lising - Governor's office
 * Jason Lewis - Utilities and Transportation Commission
 
-#### 69 👎 - Con
+#### 115 👎 - Con
 Testifying:
 * 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 

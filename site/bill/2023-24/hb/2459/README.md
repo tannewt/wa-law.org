@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/24/2024 [The Center Square](/org/the_center_square/) - [Washington House fast-tracking bill targeting tax repealing initiatives | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_4d6b6bd2-baef-11ee-816c-1fcc58d692da.html#:~:text=House%20Bill%202459)
+
 ## Meetings
 ### Tue 01/23 01:30 PM - State Government & Tribal Relations (SGOV): HB 2459 Alt. measure disclosures
 #### 36 👍 - Pro

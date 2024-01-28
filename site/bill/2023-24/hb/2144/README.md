@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/24/2024 [The Center Square](/org/the_center_square/) - [Trash talk: Legislation intends to boost Washington state’s recycling rate | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_2967b294-baff-11ee-a57a-9357d74e4990.html#:~:text=House%20Bill%202144)
 * 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%202144)
 
 ## Meetings
@@ -18,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31808&aId=158123&caId=23716&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31808&aId=158123&caId=23716&tId=4)
 
-#### 67 👍 - Pro
+#### 91 👍 - Pro
 
 #### 1 👎 - Con
 

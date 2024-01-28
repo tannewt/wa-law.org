@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2474/</link>
 		<description>Updates about HB 2474</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 26 Jan 2024 12:13:46 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 27 Jan 2024 08:22:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,12 +23,20 @@
 			<guid isPermaLink="false">2024-01-24/First reading, referred to Housing.</guid>
 		</item>
 		<item>
-			<title>👎Salim Nice - Conservative Ladies of Washington</title>
+			<title>👎Salim Nice - Catholic Community Services</title>
 			<description>Salim Nice signed up to testify Con.</description>
 			<pubDate>Fri, 26 Jan 2024 12:13:46 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Salim/Nice/2024-01-26 12:13:46</guid>
+		</item>
+		<item>
+			<title>👍Dan Wise - Catholic Community Services</title>
+			<description>Dan Wise signed up to testify Pro. They are signed up to represent Catholic Community Services.</description>
+			<pubDate>Sat, 27 Jan 2024 08:22:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dan/Wise/2024-01-27 08:22:32</guid>
 		</item>
 	</channel>
 </rss>

@@ -14,12 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31805&aId=158134&caId=23676&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31805&aId=158134&caId=23676&tId=4)
 
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Jeff Farrah - [Autonomous Vehicle Industry Association](/org/autonomous_vehicle_industry_association/)
 * Robert Singleton - Chamber of Progress
+* Jeff Gombosky
 
-#### 0 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* William Widen
+* Philip Koopman
 
 #### 1 ❓ - Other
 Testifying:

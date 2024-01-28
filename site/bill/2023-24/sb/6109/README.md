@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/25/2024 [PubliCola](/org/publicola/) - [KCRHA Plans More Focused Homelessness Count, Council President Supports Bills That Would Make It Easier To Take Away Drug Users' Kids - PubliCola](https://publicola.com/2024/01/25/kcrha-plans-more-focused-homelessness-count-council-president-supports-bills-that-would-make-it-easier-to-take-away-drug-users-kids/#:~:text=SB%206109)
 * 01/19/2024 [MyNorthwest](/org/mynorthwest/) - [Bill proposing child removal from homes with fentanyl gets emotional - MyNorthwest.com](https://mynorthwest.com/3947163/bill-proposes-child-removal-homes-fentanyl-sparks-charged-debate/#:~:text=Senate%20Bill%206109)
 
 ## Meetings
@@ -18,13 +19,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158143&caId=23649&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158143&caId=23649&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * 💵Malika Lamont - VOCAL-WA
+* Austin Field - SEIU 925
 
-#### 1 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* Kelly Warner-King - Washington State Administrative Office of the Courts
+* Atharshna Singarajah
+* Ph.D., Susan Stoner - Department of Psychiatry & Behavioral Sciences Addictions, Drug & Alcohol Institute
+* Tara Urs - King County Department of Public Defense
 
 ### Thu 01/18 08:00 AM - Human Services (HS): SB 6109 Children and families
 #### 11 👍 - Pro

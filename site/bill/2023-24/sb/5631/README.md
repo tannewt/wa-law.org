@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/26/2024 [The Seattle Times](/org/the_seattle_times/) - [GOP senator’s bill to support DACA recipients advances in Olympia | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/senate-republican-bill-to-support-daca-recipients-unanimously-passes/#:~:text=Senate%20Bill%205631)
+
 ## Meetings
 ### Wed 01/31 01:30 PM - State Government & Tribal Relations (SGOV): SB 5631 DACA/state agency acceptance
 Sign up to testify:
@@ -14,9 +17,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31835&aId=157871&caId=23733&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31835&aId=157871&caId=23733&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * John Worthington
 

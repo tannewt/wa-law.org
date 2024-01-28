@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/26/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 29 - Feb. 2, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-29-feb-2-2024/#:~:text=HB%202129)
+
 ## Meetings
 ### Mon 01/29 01:30 PM - Environment & Energy (ENVI): HB 2129 Geothermal energy resources
 Sign up to testify:
@@ -14,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31865&aId=158088&caId=23710&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31865&aId=158088&caId=23710&tId=4)
 
-#### 3 👍 - Pro
+#### 6 👍 - Pro
 
 #### 1 👎 - Con
 

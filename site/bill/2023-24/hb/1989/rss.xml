@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1989/</link>
 		<description>Updates about HB 1989</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 15 Jan 2024 07:48:25 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 25 Jan 2024 21:01:31 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -50,6 +50,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Tony/Leingang/2024-01-15 07:48:25</guid>
+		</item>
+		<item>
+			<title>Washington lawmakers discuss new bill that would increase consequences for graffiti, tagging</title>
+			<description>News article &quot;Washington lawmakers discuss new bill that would increase consequences for graffiti, tagging&quot; from FOX13.</description>
+			<pubDate>Thu, 25 Jan 2024 21:01:31 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/washington-lawmakers-discuss-new-bill-that-would-increase-consequences-for-graffiti-tagging#:~:text=House%20Bill%201989</guid>
 		</item>
 	</channel>
 </rss>

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/26/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 29 - Feb. 2, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-29-feb-2-2024/#:~:text=HB%202306)
+
 ## Meetings
 ### Fri 02/02 08:00 AM - Finance (FIN): HB 2306 Main street tax credits
 Sign up to testify:
@@ -14,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31809&aId=158125&caId=23718&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31809&aId=158125&caId=23718&tId=4)
 
-#### 5 👍 - Pro
+#### 9 👍 - Pro
 
 #### 0 👎 - Con
 

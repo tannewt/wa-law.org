@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/26/2024 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to create Smokey Bear license plate to support human-caused wildfire prevention - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/25/nobles-bill-to-create-smokey-bear-license-plate-to-support-efforts-to-prevent-human-caused-wildfires-in-wa/#:~:text=Senate%20Bill%205910)
 * 01/17/2024 [House Democrats](/org/house_democrats/) - [Smokey Bear license plate hears public testimony; needs public support – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/17/smokey-bear-license-plate-hears-public-testimony-needs-public-support/#:~:text=Senate%20Bill%205910)
 * 01/08/2024 [The Seattle Times](/org/the_seattle_times/) - [From a state clam to car tab discounts, lawmakers’ agenda takes shape | The Seattle Times](https://www.seattletimes.com/seattle-news/environment/from-a-state-clam-to-car-tab-discounts-lawmakers-agenda-takes-shape/#:~:text=Senate%20Bill%205910)
 

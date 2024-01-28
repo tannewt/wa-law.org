@@ -14,13 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31867&aId=158054&caId=23723&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31867&aId=158054&caId=23723&tId=4)
 
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Christa Connelly - West Prairie Village MHP
 * Dan Piantanida - Clearview East, MHP
 * Monica Grant - Oak Hallow MHP
 * Mike Simonitch - Snug Harbor MHP
 * Russ Millard - [Manufactured Housing Communities of Washington](/org/manufactured_housing_communities_of_washington/)
+* Jake Bond
 
 #### 2 👎 - Con
 Testifying:

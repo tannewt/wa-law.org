@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/24/2024 [South Seattle Emerald](/org/south_seattle_emerald/) - [OPINION | Conservative WA Lawmakers Start 2024 With Reactionary Attacks on Gender-Affirming Care | South Seattle Emerald](https://southseattleemerald.com/2024/01/24/opinion-conservative-wa-lawmakers-start-2024-with-reactionary-attacks-on-gender-affirming-care/#:~:text=House%20Bill%202241)
+
 ## Meetings

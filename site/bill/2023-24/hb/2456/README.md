@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31829&aId=157982&caId=23735&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31829&aId=157982&caId=23735&tId=4)
 
-#### 4 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * 💵Marie Neumiller - Congressional Sportsmen’s Foundation
+* Julia Michalak - WDFW
 * 💵Paula Swedeen - [Conservation Northwest](/org/conservation_northwest/)
 
-#### 0 👎 - Con
+#### 268 👎 - Con
+Testifying:
+* Teddy Anderson
 
 #### 0 ❓ - Other

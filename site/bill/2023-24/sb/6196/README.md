@@ -14,14 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31846&aId=157932&caId=23658&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31846&aId=157932&caId=23658&tId=4)
 
-#### 158 👍 - Pro
+#### 330 👍 - Pro
 Testifying:
 * Victoria Woodards - Mayor of the City of Tacoma
 * 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
 * Lisa Parshley - Olympia City Council
 
-#### 6 👎 - Con
+#### 49 👎 - Con
 Testifying:
 * Mary Long - Conservative Ladies of Washington
+* Sharon Damoff
 
 #### 0 ❓ - Other

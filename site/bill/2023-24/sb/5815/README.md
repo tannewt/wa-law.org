@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 01/25/2024 [Gorge News Center](/org/gorge_news_center/) - [Senate approves Muzzall health-care workforce legislation](https://gorgenewscenter.com/2024/01/25/senate-approves-muzzall-health-care-workforce-legislation/#:~:text=Senate%20Bill%205815)
+
 ## Meetings
 ### Tue 01/09 08:00 AM - Health & Long Term Care (HLTC): SB 5815 Physician assistant compact
 #### 19 👍 - Pro

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/24/2024 [Crosscut](/org/crosscut/) - [WA Legislature considers establishing a new state housing agency | Crosscut](https://crosscut.com/briefs/2024/01/wa-legislature-considers-establishing-new-state-housing-agency#:~:text=House%20Bill%202270)
+
 ## Meetings
 ### Tue 01/23 04:00 PM - Housing (HOUS): HB 2270 Department of housing
 #### 78 👍 - Pro

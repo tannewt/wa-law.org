@@ -24,6 +24,8 @@
 
 ## [HB 1859](/bill/2023-24/hb/1859/) - Concerning the rights of residents in long-term care facilities. 👍1  
 
+## [HB 1897](/bill/2023-24/hb/1897/) - Charter schools/enrichment 👍1  
+
 ## [HB 2080](/bill/2023-24/hb/2080/) - Day habilitation services 👍3  
 * 👍 Moses Perez
 

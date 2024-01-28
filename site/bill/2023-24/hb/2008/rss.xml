@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2008/</link>
 		<description>Updates about HB 2008</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 16 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 25 Jan 2024 17:45:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -51,6 +51,13 @@
 			<pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-16/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>Washington landlords push back on proposed rent control bill | Washington | thecentersquare.com</title>
+			<description>News article &quot;Washington landlords push back on proposed rent control bill | Washington | thecentersquare.com&quot; from The Center Square.</description>
+			<pubDate>Thu, 25 Jan 2024 17:45:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_e214113c-bbbf-11ee-9517-037a1febb6d3.html#:~:text=House%20Bill%202008</guid>
 		</item>
 	</channel>
 </rss>

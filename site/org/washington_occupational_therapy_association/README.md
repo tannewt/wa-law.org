@@ -13,3 +13,5 @@
 ## [SB 5228](/bill/2023-24/sb/5228/) - Behavioral health OT 👍8  
 * 👍 Kate White Tudor
 * 👍 Diane Norell
+
+## [SB 6267](/bill/2023-24/sb/6267/) - DD parental caregivers 👍1  

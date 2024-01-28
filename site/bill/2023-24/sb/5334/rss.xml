@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5334/</link>
 		<description>Updates about SB 5334</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 24 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 26 Jan 2024 21:42:58 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -171,6 +171,13 @@
 			<pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-24/Third reading, passed; yeas, 29; nays, 20; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>WA Senate passes tax proposal to boost affordable-housing funding | Crosscut</title>
+			<description>News article &quot;WA Senate passes tax proposal to boost affordable-housing funding | Crosscut&quot; from Crosscut.</description>
+			<pubDate>Fri, 26 Jan 2024 21:42:58 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://crosscut.com/briefs/2024/01/wa-senate-passes-tax-proposal-boost-affordable-housing-funding#:~:text=Senate%20Bill%205334</guid>
 		</item>
 	</channel>
 </rss>

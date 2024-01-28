@@ -909,7 +909,7 @@
 
 ## [SB 5913](/bill/2023-24/sb/5913/) - Concerning communication between employees of state institutions of higher education and student athletes regarding name, image, and likeness use. 👍2  
 
-## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍2  
+## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍4  
 
 ## [SB 5924](/bill/2023-24/sb/5924/) - Access to personnel records 👍1  
 
@@ -925,7 +925,7 @@
 ## [SB 5956](/bill/2023-24/sb/5956/) - Enrichment levies limit 👍1  
 * 👍💵 Julie Salvi
 
-## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  
+## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍4  
 
 ## [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation 👍1  
 * 👍 Jared Mason-Gere

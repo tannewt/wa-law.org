@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2396/</link>
 		<description>Updates about HB 2396</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 26 Jan 2024 09:16:50 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 27 Jan 2024 06:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -29,6 +29,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Melissa/Howtopat/2024-01-22 12:00:16</guid>
+		</item>
+		<item>
+			<title>Rep. Gina Mosbrucker leads the fight for added protections from fentanyl</title>
+			<description>News article &quot;Rep. Gina Mosbrucker leads the fight for added protections from fentanyl&quot; from Gorge News Center.</description>
+			<pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2024/01/24/rep-gina-mosbrucker-leads-the-fight-for-added-protections-from-fentanyl/#:~:text=House%20Bill%202396</guid>
 		</item>
 		<item>
 			<title>👍Katie Kolan - Washington State Hospital Association (WSHA)</title>
@@ -77,6 +84,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jordan/Foley/2024-01-26 09:16:50</guid>
+		</item>
+		<item>
+			<title>'Can you please just help us?' WA lawmakers bill to address the fentanyl crisis | Washington | thecentersquare.com</title>
+			<description>News article &quot;'Can you please just help us?' WA lawmakers bill to address the fentanyl crisis | Washington | thecentersquare.com&quot; from The Center Square.</description>
+			<pubDate>Fri, 26 Jan 2024 15:24:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_84dcd208-bc80-11ee-ba76-0bf71aa1a635.html#:~:text=House%20Bill%202396</guid>
+		</item>
+		<item>
+			<title>Ivan’s Law would promote fentanyl prevention, services, testing | The Seattle Times</title>
+			<description>News article &quot;Ivan’s Law would promote fentanyl prevention, services, testing | The Seattle Times&quot; from The Seattle Times.</description>
+			<pubDate>Sat, 27 Jan 2024 06:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.seattletimes.com/seattle-news/politics/ivans-law-would-promote-fentanyl-prevention-services-testing/#:~:text=House%20Bill%202396</guid>
 		</item>
 	</channel>
 </rss>

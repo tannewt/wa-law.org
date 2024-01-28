@@ -72,3 +72,6 @@
 * 👍 Sierra Suafoa-McClain
 * 👍 Deric Gruen
 * 👍💵 Guillermo Rogel
+
+## [SB 6185](/bill/2023-24/sb/6185/) - PTBA governing body members 👍1  
+* 👍💵 Guillermo Rogel

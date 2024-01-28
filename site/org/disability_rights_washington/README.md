@@ -138,5 +138,8 @@
 
 ## [SB 6125](/bill/2023-24/sb/6125/) - Lakeland Village records 👍1  
 
+## [SB 6185](/bill/2023-24/sb/6185/) - PTBA governing body members 👍1  
+* 👍💵 Anna Zivarts
+
 ## [SB 6189](/bill/2023-24/sb/6189/) - Jail system 👍1  
 * 👍 Heather McKimmie

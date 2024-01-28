@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31852&aId=157968&caId=23642&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31852&aId=157968&caId=23642&tId=4)
 
-#### 1 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* Elizabeth Strater - United Farm Workers
 
-#### 12 👎 - Con
+#### 25 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:
