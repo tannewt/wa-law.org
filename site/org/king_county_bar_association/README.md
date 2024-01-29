@@ -18,6 +18,9 @@
 ## [HB 2389](/bill/2023-24/hb/2389/) - Service of notice/tenants  👎1 
 * 👎💵 Edmund Witter
 
+## [HB 2455](/bill/2023-24/hb/2455/) - Competing ballot measures 👍1  
+* 👍 Rory O'Sullivan
+
 ## [SB 5197](/bill/2023-24/sb/5197/) - Eviction processes 👍2  
 * 👍💵 Edmund Witter
 * 👍💵 Edmund Witter

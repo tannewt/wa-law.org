@@ -86,11 +86,12 @@
 
 ## [HB 1651](/bill/2023-24/hb/1651/) - Infraction debt 👍1  
 
-## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍9  
+## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍10  
 * 👍💵 Alex Hur
 * 👍💵 Alex Hur
 * 👍💵 Lianna Kressin
 * 👍💵 Lianna Kressin
+* 👍💵 Alex Hur
 * 👍💵 Alex Hur
 
 ## [HB 1666](/bill/2023-24/hb/1666/) - Fee and debt collection 👍1  
@@ -110,9 +111,9 @@
 
 ## [HB 1933](/bill/2023-24/hb/1933/) - Supporting the servicing and right to repair of certain products with digital electronics in a secure and reliable manner. 👍1  
 
-## [HB 1945](/bill/2023-24/hb/1945/) - Streamlining and enhancing program access for persons eligible for food assistance. 👍1  
+## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
 
-## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍3  
+## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍4  
 * 👍💵 Alex Hur
 * 👍💵 Lianna Kressin
 
@@ -216,9 +217,13 @@
 
 ## [SB 5863](/bill/2023-24/sb/5863/) - Prohibiting credit reporting on delinquent accounts that are designated to a person in a divorce. 👍1  
 
+## [SB 5893](/bill/2023-24/sb/5893/) - Gate money/early release 👍1  
+
 ## [SB 5943](/bill/2023-24/sb/5943/) - Resource data tool 👍1  
 
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍1  
+
+## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  
 
 ## [SB 5968](/bill/2023-24/sb/5968/) - Home equity sharing 👍1  
 

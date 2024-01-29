@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2018/</link>
 		<description>Updates about HB 2018</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 23 Jan 2024 10:08:52 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 28 Jan 2024 01:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -74,6 +74,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Preston/Dwoskin/2024-01-23 10:08:52</guid>
+		</item>
+		<item>
+			<title>Tough cell: Washington Legislature considers bill to restrict phone use in schools, but students say current restrictions often aren't enforced | The Spokesman-Review</title>
+			<description>News article &quot;Tough cell: Washington Legislature considers bill to restrict phone use in schools, but students say current restrictions often aren't enforced | The Spokesman-Review&quot; from The Spokesman-Review.</description>
+			<pubDate>Sun, 28 Jan 2024 01:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.spokesman.com/stories/2024/jan/28/tough-cell-washington-legislature-considers-bill-t/#:~:text=House%20Bill%202018</guid>
 		</item>
 	</channel>
 </rss>

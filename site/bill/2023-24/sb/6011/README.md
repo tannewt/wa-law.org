@@ -14,13 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31821&aId=158068&caId=23644&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31821&aId=158068&caId=23644&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Kadi Bizyayeva - [Stillaguamish Tribe of Indians](/org/stillaguamish_tribe_of_indians/)
 
 #### 1 👎 - Con
 Testifying:
 * John Worthington
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Vice Chairwoman Loni Greninger - Jamestown S'Klallam Tribe
 
 ### Thu 01/25 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 6011 Tribal interlocal agreements
 #### 0 👍 - Pro

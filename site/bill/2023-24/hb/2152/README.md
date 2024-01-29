@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/23 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2152 Criminal insanity terms

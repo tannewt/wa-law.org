@@ -102,11 +102,13 @@
 
 ## [HB 1916](/bill/2023-24/hb/1916/) - Concerning funding for the early support for infants and toddlers program. 👍1  
 
-## [HB 1945](/bill/2023-24/hb/1945/) - Streamlining and enhancing program access for persons eligible for food assistance. 👍1  
+## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
 
 ## [HB 1969](/bill/2023-24/hb/1969/) - Individual providers/family 👍2  
 
 ## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍1  
+
+## [HB 2023](/bill/2023-24/hb/2023/) - Improving meaningful access to elections by increasing language assistance. 👍1  
 
 ## [HB 2080](/bill/2023-24/hb/2080/) - Day habilitation services 👍1  
 * 👍💵 Ramona Hattendorf
@@ -146,7 +148,7 @@
 ## [SB 5099](/bill/2023-24/sb/5099/) - Estate tax/extraordinary rev 👍1  
 * 👍💵 Ramona Hattendorf
 
-## [SB 5118](/bill/2023-24/sb/5118/) - Multifamily property tax ex.   ❓1
+## [SB 5118](/bill/2023-24/sb/5118/) - Multifamily property tax ex.   ❓2
 
 ## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍1  
 
@@ -213,9 +215,11 @@
 
 ## [SB 5734](/bill/2023-24/sb/5734/) - ABLE accounts 👍1  
 
-## [SB 5811](/bill/2023-24/sb/5811/) - Expanding the definition of family member for individual providers. 👍1  
+## [SB 5811](/bill/2023-24/sb/5811/) - Expanding the definition of family member for individual providers. 👍2  
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
+## [SB 5850](/bill/2023-24/sb/5850/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
+
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
 
 ## [SB 5864](/bill/2023-24/sb/5864/) - Establishing a point of contact for any person diagnosed with a rare disease. 👍1  
 
@@ -229,6 +233,8 @@
 * 👍💵 Ramona Hattendorf
 
 ## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
+
+## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍1  
 
 ## [SB 5933](/bill/2023-24/sb/5933/) - Infants and toddlers program 👍1  
 
@@ -249,7 +255,7 @@
 
 ## [SB 6125](/bill/2023-24/sb/6125/) - Lakeland Village records 👍1  
 
-## [SB 6126](/bill/2023-24/sb/6126/) - Respite care 👍1  
+## [SB 6126](/bill/2023-24/sb/6126/) - Respite care 👍2  
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍3  
 * 👍💵 Ramona Hattendorf
@@ -258,3 +264,5 @@
 ## [SB 6208](/bill/2023-24/sb/6208/) - Public school materials 👍1  
 
 ## [SB 6216](/bill/2023-24/sb/6216/) - Student mental health net. 👍1  
+
+## [SB 6267](/bill/2023-24/sb/6267/) - DD parental caregivers 👍1  

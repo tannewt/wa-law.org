@@ -38,3 +38,5 @@
 ## [SB 5902](/bill/2023-24/sb/5902/) - Reinvesting account revenue for the purpose of supporting the state park system. 👍1  
 
 ## [SB 5910](/bill/2023-24/sb/5910/) - Creating the state department of natural resources' Smokey Bear special license plates. 👍1  
+
+## [SB 6043](/bill/2023-24/sb/6043/) - Recreational use fees 👍1  

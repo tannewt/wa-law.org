@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31852&aId=157965&caId=23640&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31852&aId=157965&caId=23640&tId=4)
 
-#### 2 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Tom Wark - [National Association of Wine Retailers](/org/national_association_of_wine_retailers/)
+* PAUL BEVERIDGE - Wilridge Winery
 
 #### 4 👎 - Con
 Testifying:

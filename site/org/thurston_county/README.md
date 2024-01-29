@@ -34,9 +34,11 @@
 
 ## [HB 1926](/bill/2023-24/hb/1926/) - Supervision compliance 👍1  
 
+## [HB 1982](/bill/2023-24/hb/1982/) - Broadband loans & grants 👍1  
+
 ## [HB 2090](/bill/2023-24/hb/2090/) - Local boards of health 👍1  
 
-## [HB 2141](/bill/2023-24/hb/2141/) - Promoting affordable housing in unincorporated areas within urban growth areas of large counties. 👍1  
+## [HB 2141](/bill/2023-24/hb/2141/) - Promoting affordable housing in unincorporated areas within urban growth areas of large counties. 👍2  
 
 ## [HB 2253](/bill/2023-24/hb/2253/) - Community solar 👍1  
 

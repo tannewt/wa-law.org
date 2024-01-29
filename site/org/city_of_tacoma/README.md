@@ -84,7 +84,7 @@
 
 ## [HB 1829](/bill/2023-24/hb/1829/) - LeMay special license plate 👍1  
 
-## [HB 1889](/bill/2023-24/hb/1889/) - Allowing persons to receive professional licenses and certifications regardless of immigration or citizenship status. 👍1  
+## [HB 1889](/bill/2023-24/hb/1889/) - Professionals/immigration 👍1  
 
 ## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍1  
 

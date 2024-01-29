@@ -143,7 +143,7 @@
 
 ## [HB 1847](/bill/2023-24/hb/1847/) - Community authority/tax 👍1  
 
-## [HB 1889](/bill/2023-24/hb/1889/) - Allowing persons to receive professional licenses and certifications regardless of immigration or citizenship status. 👍1  
+## [HB 1889](/bill/2023-24/hb/1889/) - Professionals/immigration 👍1  
 
 ## [HB 1902](/bill/2023-24/hb/1902/) - Firearms/purchase & transfer 👍1  
 
@@ -157,7 +157,7 @@
 
 ## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍1  
 
-## [HB 1945](/bill/2023-24/hb/1945/) - Streamlining and enhancing program access for persons eligible for food assistance. 👍1  
+## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
 
 ## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍2  
 
@@ -387,6 +387,8 @@
 
 ## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
 
+## [SB 5906](/bill/2023-24/sb/5906/) - Implementing a statewide drug overdose prevention and education campaign. 👍1  
+
 ## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍1  
 
 ## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD 👍1  
@@ -395,6 +397,8 @@
 
 ## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  
 * 👍 Venu Nemani
+
+## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍1  
 
 ## [SB 5993](/bill/2023-24/sb/5993/) - Voter education   ❓1
 

@@ -9,7 +9,7 @@
 
 ## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  
 
-## [HB 1945](/bill/2023-24/hb/1945/) - Streamlining and enhancing program access for persons eligible for food assistance. 👍2  
+## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍2  
 * 👍 Katrina Peters
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  

@@ -36,7 +36,9 @@
 
 ## [HB 1893](/bill/2023-24/hb/1893/) - Unemp ins/strikes & lockouts 👍1  
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍1  
+## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍1  
+
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍2  
 
 ## [HB 2102](/bill/2023-24/hb/2102/) - PFML benefits/health info. 👍1  
 
@@ -87,7 +89,7 @@
 
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍2  
 
-## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍1  
+## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍2  
 
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
 

@@ -1,0 +1,96 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 2242](/bill/2023-24/hb/2242/) > [Substitute Bill](/bill/2023-24/hb/2242/S/)
+
+# HB 2242 - Sexual assault/higher ed.
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/2242-S.pdf)
+
+## Section 1
+The legislature recognizes that policies concerning sex-based violence and harassment have evolved into a survivor-focused, victim-centered approach on a state level. While college campuses have been working in this area, this approach has not been fully realized on college campuses, and sex-based violence and harassment remain a major barrier for students working to achieve their educational goals. Postsecondary students lack adequate protections against sex-based violence and harassment as well as avenues for justice. Survivors at postsecondary institutions should be entitled to certain protections, resources, and accommodations to help them navigate the aftermath of traumatic sex-based violence and harassment.
+
+The legislature has previously found in section 1, chapter 335, Laws of 2020 that nondisclosure agreements, which prevent an institution from disclosing that an employee has committed sexual misconduct, create a high potential for students in jeopardy of being victimized. Therefore, the legislature finds such nondisclosure agreements between an employee and institution, pursuant to which the institution agrees not to disclose findings of sexual misconduct supported by a preponderance of evidence or not to complete an investigation, are against public policy and should not be entered into by any Washington postsecondary educational institution and should not be enforced by Washington courts.
+
+The legislature also finds that the same public policy to protect students, faculty, and staff from serial sexual misconduct should extend to nondisclosure agreements proposed by a postsecondary educational institution to a student who has filed a Title IX complaint, other civil action, or criminal complaint arising from the alleged sexual misconduct of a student or employee of the institution.
+
+## Section 2
+1. In addition to all other rights provided in law, a student at an institution of higher education in Washington who is a survivor of sex-based violence and harassment has the right to:
+
+    a. Engage with staff who have been trained in trauma-informed care throughout the entirety of the disclosing process. Institutional staff who are trained in trauma-informed care must be listed on each institution of higher education's website in an easily accessible place. Title IX staff at each institution of higher education who may interact with a survivor of sex-based violence and harassment must receive at least three hours of training on relationship violence, abuse dynamics, impacts of trauma on the body, and other forms of violence. The institution of higher education shall provide the training in accordance with section 4 of this act;
+
+    b. A quick and timely institutional investigation process not to exceed six months from the date an investigation is initiated, unless extenuating circumstances exist. Students must be kept informed on the status of the investigation throughout the entirety of the process;
+
+    c. In-person or live electronic education on reporting sex-based violence and harassment at institutions of higher education and available resources, including confidential advocates, for students who have experienced sex-based violence and harassment on campus. Education must be provided at the beginning of each academic term;
+
+    d. Protection from legal retaliation for reporting sex-based violence and harassment on campus, including strategic lawsuit against public participation lawsuits advanced by a person being accused of sex-based violence and harassment. Institutions of higher education must have a policy against legal retaliation for reporting sex-based violence and harassment;
+
+    e. Mental health or counseling services, on campus or off-site, regardless of whether the student chooses to make a formal report through Title IX or to law enforcement. The institution of higher education shall make a good faith effort to ensure students have access to no less than six visits with the same mental health provider either in person or electronically via telehealth;
+
+    f. Access to confidential support services, which may include peer advocates, confidential advocates, and gender-based violence support groups. Beginning with the 2025-26 academic year, institutions of higher education must hire and train confidential advocates. A confidential advocate trained in trauma-informed care must be available within two business days of a report being made. Beginning with the 2027-28 academic year, the state college, state universities, and regional universities that serve 8,000 or more students shall provide students on campus and within a one-mile radius of campus 24/7 transportation access to sexual assault nurse examiners and forensic medical services on campus or at a medical facility. Survivors must have the option to be accompanied by a confidential advocate or peer advocate trained in trauma-informed care. Peer advocates must be trained in trauma-informed care and have 40 hours of basic advocacy training provided by the institution. Confidential advocates may include personnel from the institution or from a partnership with a local victim's advocacy organization;
+
+    g. Academic adjustments to prevent academic harm. Title IX staff or a confidential advocate must be available to a survivor and that survivor's instructors or supervisors to assist with the adjustment request. Survivors must be permitted to participate in academic activities through alternate means where feasible. Once an adjustment is requested under this subsection, the confidential advocate shall collaborate with instructors or supervisors to identify the means of adjustment that best preserves the benefits of the academic activity for the survivor. Adjustments must be available to sexual assault survivors regardless of whether the student requesting adjustments has made a formal report through Title IX. Confidential advocates may not disclose any information regarding the survivor's experience to faculty in the course of negotiating academic adjustments under this subsection;
+
+    h. Have court-issued no-contact and restraining orders honored and reported to university police and security services by a trained employee such as a confidential advocate when they become aware of such an order; and
+
+        i. Be made aware by an employee if the employee is a Title IX mandatory reporter and to whom the employee reports.
+
+2. Unless otherwise stated, this section applies to (a) the state universities, the regional universities, and the state college as defined in RCW 28B.10.016 and (b) all community and technical colleges that serve 8,000 or more students.
+
+## Section 3
+1. The state universities, the regional universities, and the state college as defined in RCW 28B.10.016, and all community and technical colleges that serve 8,000 or more students shall establish or expand an existing committee to include a student health and safety committee that includes representatives from various groups, such as admissions, counseling, health care, student advocates, and professors. The committee shall evaluate barriers that impact survivors of sex-based violence and harassment and their ability to access services and obtain accommodations at institutions of higher education, and may collaborate with outside organizations and entities focused on survivors of sex-based violence and harassment.
+
+2. The student health and safety committee shall:
+
+    a. Evaluate existing accommodations and make recommendations on how to facilitate existing processes to better serve survivors in requesting accommodations;
+
+    b. Form community partnerships with local victims' advocacy organizations; and
+
+    c. Annually report its recommendations to the appropriate committees of the legislature in accordance with RCW 43.01.036.
+
+3. Beginning with the 2025-26 academic year, the state college, the state universities, and the regional universities as defined in RCW 28B.10.016 that serve 8,000 or more students shall conduct surveys and outreach to collect student feedback on relevant issues, including on the availability of 24/7 transportation to a hospital or medical facility with sexual assault nurse examiners provided by institutions.
+
+## Section 4
+1. Beginning in the 2025 fall academic term, each state university, regional university, and the state college as defined in RCW 28B.10.016, and all community and technical colleges that serve 8,000 or more students, shall provide at least three hours of education on the Title IX reporting process for sex-based violence and harassment, accessing support services, consent, and the availability and role of confidential advocates as defined in section 2 of this act either in person or electronically at the beginning of each academic term. Additionally, institutions shall ensure that the education is made available throughout the academic year. Institutions shall make a good-faith effort to include perspectives from sexual assault survivors.
+
+2. The education required in subsection (1) of this section must be provided to all students and any employee of the institution of higher education who may interact with a survivor of sex-based violence and harassment.
+
+## Section 5
+Postsecondary educational institutions may not propose, request, or pressure a student reporting sexual misconduct in a complaint filed with the institution under Title IX or otherwise, law enforcement, or in a civil court action to enter into a nondisclosure agreement relating to the alleged sexual misconduct by another student or employee of the institution.
+
+## Section 6
+1. The Title IX process may not exceed 180 business days from the date a report is made unless extenuating circumstances exist. The timeline for each step of the Title IX process is as follows:
+
+    a. The institution of higher education must provide to the student information on available resources, including information on the Title IX process, counseling services, and confidential advocates, within two business days of making a report;
+
+    b. The initial assessment must be completed within 10 business days of the student meeting with Title IX personnel and providing the necessary information to complete an assessment, including whether the investigation will proceed under Title IX or the institution of higher education's internal process;
+
+    c. The investigation must be completed within 120 business days of the initial report or disclosure. This process includes the final decision and subsequent hearings; and
+
+    d. If a sanction is issued it must be determined and administered within 10 business days of the final decision.
+
+2. If the process will take longer than 180 business days due to extenuating circumstances, the institution of higher education shall provide a written explanation to the student including the reason for the delay and when the process is expected to be completed.
+
+3. Students must be kept informed on the status of the investigation and, if conducted, the hearing, throughout the entirety of the Title IX process. Beginning with the 2027-28 academic year, all state universities, regional universities, and the state college as defined in RCW 28B.10.016 that serve 8,000 or more students shall provide an online tool for students to track the process of the investigation and, if conducted, the hearing. All institutions of higher education are encouraged to provide the online tracking tool.
+
+## Section 7
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Applicant" means a person applying for employment as faculty, instructor, staff, advisor, counselor, coach, athletic department staff, and any position in which the applicant will likely have direct ongoing contact with students in a supervisory role or position of authority. "Applicant" does not include enrolled students who are applying for temporary student employment with the postsecondary educational institutions, unless the student is a graduate student applying for a position in which the graduate student will have a supervisory role or position of authority over other students. "Applicant" does not include a person applying for employment as medical staff or for employment with an affiliated organization, entity, or extension of a postsecondary educational institution, unless the applicant will have a supervisory role or position of authority over students.
+
+2. "Association" means a scholarly or professional organization or learned society that sponsors activities or events for the benefit of individuals affiliated with postsecondary educational institutions, with a code of conduct forbidding sexual misconduct at such activities or events, and established investigative procedures for allegations that the code of conduct has been violated.
+
+3. "Employee" means a person who is receiving or has received wages as an employee from the postsecondary educational institutions and includes current and former workers, whether the person is classified as an employee, independent contractor, or consultant, and is in, or had, a position with direct ongoing contact with students in a supervisory role or position of authority. "Employee" does not include a person who was employed by the institution in temporary student employment while the person was an enrolled student unless the student, at the time of employment, is or was a graduate student in a position in which the graduate student has or had a supervisory role or authority over other students. "Employee" does not include a person employed as medical staff or with an affiliated organization, entity, or extension of a postsecondary educational institution, unless the employee has or had a supervisory role or position of authority over students. A person who would be considered an "employee" under this subsection, remains an "employee" even if the person enrolls in classes under an institution's employee tuition waiver program or similar program that allows faculty, staff, or other employees to take classes.
+
+4. "Employer" includes postsecondary educational institutions in this or any other state.
+
+5. "Investigation" means a procedure initiated in response to a formal complaint, as defined in 34 C.F.R. Sec. 106.30, provided that the procedure fully complies with the provisions of 34 C.F.R. Sec. 106.45.
+
+6. "Postsecondary educational institution" means an institution of higher education as defined in RCW 28B.10.016, a degree-granting institution as defined in RCW 28B.85.010, a private vocational school as defined in RCW 28C.10.020, or school as defined in RCW 18.16.020, that participates in the state student financial aid program.
+
+7. "Sexual misconduct" includes, but is not limited to, unwelcome sexual contact, unwelcome sexual advances, requests for sexual favors, other unwelcome verbal, nonverbal, electronic, or physical conduct of a sexual nature, sexual harassment, and any misconduct of a sexual nature that is in violation of the postsecondary educational institution's policies or has been determined to constitute sex discrimination pursuant to state or federal law.
+
+8. "Student" means a person enrolled at an institution and for whom educational records are maintained.
+
+9. "Substantiated findings" means a written determination regarding responsibility as described in 34 C.F.R. Sec. 106.45(b)(7) prepared at the conclusion of an investigation, as amended by any appeals process.
+
+10. "Confidential advocate" means a person trained in trauma-informed care to provide a safe and confidential space to help survivors of sex-based violence and harassment identify what steps to take, what resources they need, what their rights and options are, and what options they have for reporting on campus and to law enforcement. Confidential advocates do not report incidents to the university.
+
+11. "Sex-based violence and harassment" includes sexual or sex-based harassment, including hostile environments or quid-pro-quo harassment, sexual exploitation, stalking, domestic violence, relationship and dating violence, and sexual assault.

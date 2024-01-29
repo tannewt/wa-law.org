@@ -14,20 +14,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31805&aId=158134&caId=23676&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31805&aId=158134&caId=23676&tId=4)
 
-#### 6 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Jeff Farrah - [Autonomous Vehicle Industry Association](/org/autonomous_vehicle_industry_association/)
 * Robert Singleton - Chamber of Progress
 * Jeff Gombosky
+* 💵Isaac Kastama - Clean & Prosperous Washington
 
-#### 5 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * William Widen
 * Philip Koopman
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Jim Restucci - Wash. State Transportation Commission
+* 💵Scott Hazlegrove - WA State Auto Dealers Association
 
 ### Tue 02/07 04:00 PM - Transportation (TRAN): SB 5594 Fully autonomous vehicles
 #### 26 👍 - Pro

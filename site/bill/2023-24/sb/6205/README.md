@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/27/2024 [Gorge News Center](/org/gorge_news_center/) - [McCune’s ‘Understanding the Pledge’ bill receives committee hearing](https://gorgenewscenter.com/2024/01/27/mccunes-understanding-the-pledge-bill-receives-committee-hearing/#:~:text=Senate%20Bill%206205)
+
 ## Meetings
 ### Thu 01/25 01:30 PM - Early Learning & K-12 Education (EDU): SB 6205 Pledge of allegiance instr.
 #### 903 👍 - Pro

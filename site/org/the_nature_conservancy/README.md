@@ -1,6 +1,6 @@
 # The Nature Conservancy
 
-## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍4  
 
 ## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 
@@ -95,6 +95,8 @@
 
 ## [HB 2108](/bill/2023-24/hb/2108/) - Smokey Bear license plates 👍1  
 
+## [HB 2129](/bill/2023-24/hb/2129/) - Geothermal energy resources 👍1  
+
 ## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage 👍1  
 * 👍 Skippy Shaw
 
@@ -107,6 +109,8 @@
 ## [HB 2330](/bill/2023-24/hb/2330/) - Wildfire protection 👍1  
 
 ## [HB 2333](/bill/2023-24/hb/2333/) - Carbon seq./state lands 👍1  
+
+## [HB 2456](/bill/2023-24/hb/2456/) - Wildlife safe passages 👍1  
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍2  
 
@@ -175,7 +179,11 @@
 ## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  
 * 👍 Scott Richards
 
+## [SB 5990](/bill/2023-24/sb/5990/) - Env. justice/SEPA projects 👍1  
+
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
+
+## [SB 6043](/bill/2023-24/sb/6043/) - Recreational use fees 👍1  
 
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  
 * 👍 Skippy Shaw

@@ -28,3 +28,5 @@
 
 ## [SB 5815](/bill/2023-24/sb/5815/) - Physician assistant compact 👍2  
 * 👍 Eileen Ravella
+
+## [SB 6161](/bill/2023-24/sb/6161/) - Provider contract comp. 👍1  

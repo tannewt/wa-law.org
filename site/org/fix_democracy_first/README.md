@@ -62,6 +62,8 @@
 
 ## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍1  
 
+## [HB 1241](/bill/2023-24/hb/1241/) - Harassment 👍1  
+
 ## [HB 1255](/bill/2023-24/hb/1255/) - Health care prof. SUD prg. 👍1  
 
 ## [HB 1272](/bill/2023-24/hb/1272/) - Voters' pamphlets 👍1  

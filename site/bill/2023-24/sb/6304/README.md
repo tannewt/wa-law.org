@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158141&caId=23688&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158141&caId=23688&tId=4)
 
-#### 3 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* 💵Isaac Kastama - Clean & Prosperous Washington
 
-#### 22 👎 - Con
+#### 27 👎 - Con
+Testifying:
+* 💵Scott Hazlegrove - WA State Auto Dealers Association
 
 #### 0 ❓ - Other

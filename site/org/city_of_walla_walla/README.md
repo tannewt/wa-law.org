@@ -17,6 +17,8 @@
 
 ## [HB 2354](/bill/2023-24/hb/2354/) - Tax increment areas  👎2 
 
+## [HB 2474](/bill/2023-24/hb/2474/) - Concerning compliance with siting requirements for transitional housing, permanent supportive housing, indoor emergency shelters, and indoor emergency housing.  👎1 
+
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget   ❓2

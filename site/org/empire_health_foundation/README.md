@@ -7,7 +7,7 @@
 
 ## [HB 1870](/bill/2023-24/hb/1870/) - Promoting economic development by increasing opportunities for local communities to secure federal funding. 👍1  
 
-## [HB 1889](/bill/2023-24/hb/1889/) - Allowing persons to receive professional licenses and certifications regardless of immigration or citizenship status. 👍1  
+## [HB 1889](/bill/2023-24/hb/1889/) - Professionals/immigration 👍1  
 
 ## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍1  
 

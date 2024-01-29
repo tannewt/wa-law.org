@@ -25,6 +25,8 @@
 
 ## [HB 2425](/bill/2023-24/hb/2425/) - Rental support program 👍1  
 
+## [HB 2456](/bill/2023-24/hb/2456/) - Wildlife safe passages 👍1  
+
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  
 * 👍💵 Bryce Yadon
 

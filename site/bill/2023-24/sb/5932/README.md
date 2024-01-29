@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=158295&caId=23749&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=158295&caId=23749&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* 💵Billy Wallace - Northwest District Council of Laborers
+* Josh Swanson - Operating Engineers Local 302
 
-#### 4 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Tom Kwieciak - Building Industry Association of WA
 

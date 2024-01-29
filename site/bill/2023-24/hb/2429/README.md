@@ -17,11 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31865&aId=158087&caId=23709&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31865&aId=158087&caId=23709&tId=4)
 
-#### 3 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Commissioner Amanda McKinney - Yakima County
 * Jerome Delvin - Commissioner, Benton County
+* Chairman Gerald Lewis - Confederated Tribes and Bands of the Yakama Nation
+* Councilman Christopher Wallahee - Confederated Tribes and Bands of the Yakama Naition
+* Shona Voelckers
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 01/19 08:00 AM - Human Services, Youth, & Early Learning (HSEL): HB 2248 Traumatic brain injuries

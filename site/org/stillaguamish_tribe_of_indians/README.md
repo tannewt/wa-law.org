@@ -17,3 +17,6 @@
 ## [SB 5892](/bill/2023-24/sb/5892/) - Concerning diseased elk.  👎1 
 
 ## [SB 5921](/bill/2023-24/sb/5921/) - Concerning tribal representation on the state conservation commission. 👍1  
+
+## [SB 6011](/bill/2023-24/sb/6011/) - Tribal interlocal agreements 👍1  
+* 👍 Kadi Bizyayeva

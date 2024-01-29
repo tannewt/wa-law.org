@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/25/2024 [House Democrats](/org/house_democrats/) - [Timmons’ bill to provide a cost-of-living increase to retirees passes out of committee – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/25/timmons-bill-to-provide-a-cost-of-living-increase-to-retirees-passes-out-of-committee/#:~:text=House%20Bill%201985)

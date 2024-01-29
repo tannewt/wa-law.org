@@ -124,7 +124,8 @@
 
 ## [HB 2102](/bill/2023-24/hb/2102/) - PFML benefits/health info. 👍1  
 
-## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg.  👎1 
+## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg.  👎2 
+* 👎💵 Samantha Louderback
 * 👎💵 Samantha Louderback
 
 ## [HB 2149](/bill/2023-24/hb/2149/) - Protecting consumer personal information.   ❓1

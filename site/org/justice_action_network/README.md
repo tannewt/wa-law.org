@@ -11,9 +11,10 @@
 * 👍💵 Vicki Christophersen
 * 👍💵 Noah Bein
 
-## [HB 1798](/bill/2023-24/hb/1798/) - Earned release time 👍2  
+## [HB 1798](/bill/2023-24/hb/1798/) - Earned release time 👍3  
 * 👍💵 Brooke Davies
 * 👍 Whitney Westerfield
+* 👍💵 Vicki Christophersen
 
 ## [HB 2065](/bill/2023-24/hb/2065/) - Recalculating sentencing ranges for currently incarcerated individuals whose offender score was increased by juvenile convictions. 👍1  
 

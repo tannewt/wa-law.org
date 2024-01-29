@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 1889 - Allowing persons to receive professional licenses and certifications regardless of immigration or citizenship status.</title>
+		<title>HB 1889 - Professionals/immigration</title>
 		<link>https://wa-law.org/bill/2023-24/hb/1889/</link>
 		<description>Updates about HB 1889</description>
 		<language>en-US</language>
@@ -202,6 +202,13 @@
 			<pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-26/CPB - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-26/Minority; do not pass.</guid>
 		</item>
 	</channel>
 </rss>

@@ -412,6 +412,9 @@
 
 ## [HB 2403](/bill/2023-24/hb/2403/) - Kennel fire safety standards 👍1  
 
+## [HB 2474](/bill/2023-24/hb/2474/) - Concerning compliance with siting requirements for transitional housing, permanent supportive housing, indoor emergency shelters, and indoor emergency housing. 👍1  
+* 👍💵 Michael White
+
 ## [SB 5006](/bill/2023-24/sb/5006/) - Waiver of firearm rights 👍1  
 
 ## [SB 5022](/bill/2023-24/sb/5022/) - Fentanyl testing equipment 👍1  ❓1

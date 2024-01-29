@@ -123,11 +123,11 @@
 
 ## [HB 1874](/bill/2023-24/hb/1874/) - Protecting consumers from predatory loans. 👍1  
 
-## [HB 1889](/bill/2023-24/hb/1889/) - Allowing persons to receive professional licenses and certifications regardless of immigration or citizenship status. 👍1  
+## [HB 1889](/bill/2023-24/hb/1889/) - Professionals/immigration 👍1  
 
 ## [HB 1940](/bill/2023-24/hb/1940/) - Employer political speech 👍1  
 
-## [HB 1945](/bill/2023-24/hb/1945/) - Streamlining and enhancing program access for persons eligible for food assistance. 👍1  
+## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
 
 ## [HB 1953](/bill/2023-24/hb/1953/) - Improving access to department of licensing issued documents by clarifying the application requirements for a minor, modifying the requirements for at-cost identicards, and studying the feasibility of reduced-fee identicards. 👍1  
 
@@ -246,6 +246,9 @@
 ## [SB 5974](/bill/2023-24/sb/5974/) - Unenforceable LFOs 👍1  
 
 ## [SB 5981](/bill/2023-24/sb/5981/) - Concerning the indeterminate sentence review board. 👍1  
+
+## [SB 5996](/bill/2023-24/sb/5996/) - Concerning collecting data on the H-2A worker program and from certain hand harvesters. 👍1  
+* 👍💵 Andrea Schmitt
 
 ## [SB 6021](/bill/2023-24/sb/6021/) - Correctional fees & expenses 👍1  
 

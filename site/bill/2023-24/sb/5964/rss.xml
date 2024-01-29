@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5964/</link>
 		<description>Updates about SB 5964</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 27 Jan 2024 08:38:40 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 28 Jan 2024 09:25:34 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -61,7 +61,7 @@
 			<guid isPermaLink="false">testifier/Sandra/Conradi/2024-01-26 02:40:21</guid>
 		</item>
 		<item>
-			<title>👎John Axtell - WSNA/Yelm Community Schools</title>
+			<title>👎John Axtell - WA Education Assoc.</title>
 			<description>John Axtell signed up to testify Con.</description>
 			<pubDate>Fri, 26 Jan 2024 05:47:44 GMT</pubDate>
 			<category>testifier</category>
@@ -69,7 +69,7 @@
 			<guid isPermaLink="false">testifier/John/Axtell/2024-01-26 05:47:44</guid>
 		</item>
 		<item>
-			<title>👎Teddy Anderson - WSNA/Yelm Community Schools</title>
+			<title>👎Teddy Anderson - WA Education Assoc.</title>
 			<description>Teddy Anderson signed up to testify Con.</description>
 			<pubDate>Fri, 26 Jan 2024 09:27:47 GMT</pubDate>
 			<category>testifier</category>
@@ -77,7 +77,7 @@
 			<guid isPermaLink="false">testifier/Teddy/Anderson/2024-01-26 09:27:47</guid>
 		</item>
 		<item>
-			<title>👎Jeannette Mcchesney - WSNA/Yelm Community Schools</title>
+			<title>👎Jeannette Mcchesney - WA Education Assoc.</title>
 			<description>Jeannette Mcchesney signed up to testify Con.</description>
 			<pubDate>Fri, 26 Jan 2024 11:27:40 GMT</pubDate>
 			<category>testifier</category>
@@ -85,12 +85,44 @@
 			<guid isPermaLink="false">testifier/Jeannette/Mcchesney/2024-01-26 11:27:40</guid>
 		</item>
 		<item>
-			<title>👎Nicole Wells - WSNA/Yelm Community Schools</title>
+			<title>👎Nicole Wells - WA Education Assoc.</title>
 			<description>Nicole Wells signed up to testify Con.</description>
 			<pubDate>Sat, 27 Jan 2024 08:38:40 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Nicole/Wells/2024-01-27 08:38:40</guid>
+		</item>
+		<item>
+			<title>👍Emily Bianconi - Washington Chapter of the American Academy of Pediatrics</title>
+			<description>Emily Bianconi signed up to testify Pro. They are signed up to represent Washington Chapter of the American Academy of Pediatrics.</description>
+			<pubDate>Sun, 28 Jan 2024 01:26:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Emily/Bianconi/2024-01-28 01:26:32</guid>
+		</item>
+		<item>
+			<title>👍Michal Frisen - Parent</title>
+			<description>Michal Frisen signed up to testify Pro. They are signed up to represent Parent.</description>
+			<pubDate>Sun, 28 Jan 2024 09:25:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Michal/Frisen/2024-01-28 09:25:34</guid>
+		</item>
+		<item>
+			<title>👍Nikki Lockwood - WSSDA</title>
+			<description>Nikki Lockwood signed up to testify Pro. They are signed up to represent WSSDA.</description>
+			<pubDate>Sun, 28 Jan 2024 09:25:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Nikki/Lockwood/2024-01-28 09:25:34</guid>
+		</item>
+		<item>
+			<title>👍Sean Foster - WA Education Assoc.</title>
+			<description>Sean Foster signed up to testify Pro. They are signed up to represent WA Education Assoc..</description>
+			<pubDate>Sun, 28 Jan 2024 09:25:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sean/Foster/2024-01-28 09:25:34</guid>
 		</item>
 	</channel>
 </rss>

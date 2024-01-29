@@ -25,7 +25,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=158282&caId=23750&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=158282&caId=23750&tId=4)
 
-#### 30 👍 - Pro
+#### 61 👍 - Pro
+Testifying:
+* Christene Hansen
+* Pennie Saum
+* Skylar Schmitt
+* Bridget Grotz - Washington State Association for Justice
+* Courtney Butler
+* Darrell Cochran - Washington State Association for Justice
 
 #### 2 👎 - Con
 

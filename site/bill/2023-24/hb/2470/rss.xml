@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2470/</link>
 		<description>Updates about HB 2470</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 26 Jan 2024 06:41:20 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 28 Jan 2024 12:57:59 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -45,6 +45,46 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Shaun/D’Sylva/2024-01-26 06:41:20</guid>
+		</item>
+		<item>
+			<title>👍Judge Rachelle Anderson - Superior Court Judges' Association</title>
+			<description>Judge Rachelle Anderson signed up to testify Pro. They are signed up to represent Superior Court Judges' Association.</description>
+			<pubDate>Sun, 28 Jan 2024 02:59:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Judge Rachelle/Anderson/2024-01-28 02:59:39</guid>
+		</item>
+		<item>
+			<title>👍Judge Sean O'Donnell - Superior Court Judges' Association</title>
+			<description>Judge Sean O'Donnell signed up to testify Pro. They are signed up to represent Superior Court Judges' Association.</description>
+			<pubDate>Sun, 28 Jan 2024 02:59:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Judge Sean/O'Donnell/2024-01-28 02:59:39</guid>
+		</item>
+		<item>
+			<title>👎Steve Coleman - Conservative Ladies of Washington</title>
+			<description>Steve Coleman signed up to testify Con.</description>
+			<pubDate>Sun, 28 Jan 2024 07:24:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Steve/Coleman/2024-01-28 07:24:00</guid>
+		</item>
+		<item>
+			<title>👎Lesleyanm Pedro - Conservative Ladies of Washington</title>
+			<description>Lesleyanm Pedro signed up to testify Con.</description>
+			<pubDate>Sun, 28 Jan 2024 09:06:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Lesleyanm/Pedro/2024-01-28 09:06:32</guid>
+		</item>
+		<item>
+			<title>❓💵Juliana Roe - Washington State Association of Counties</title>
+			<description>Juliana Roe signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_state_association_of_counties/&quot;&gt;Washington State Association of Counties&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Sun, 28 Jan 2024 12:57:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Juliana/Roe/2024-01-28 12:57:59</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5594/</link>
 		<description>Updates about SB 5594</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 27 Jan 2024 11:47:57 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 28 Jan 2024 10:21:54 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -215,7 +215,7 @@
 			<guid isPermaLink="false">testifier/Jeff/Gombosky/2024-01-27 02:00:07</guid>
 		</item>
 		<item>
-			<title>👎William Widen - Chamber of Progress</title>
+			<title>👎William Widen - Clean &amp; Prosperous Washington</title>
 			<description>William Widen signed up to testify Con.</description>
 			<pubDate>Sat, 27 Jan 2024 06:19:59 GMT</pubDate>
 			<category>testifier</category>
@@ -223,12 +223,28 @@
 			<guid isPermaLink="false">testifier/William/Widen/2024-01-27 06:19:59</guid>
 		</item>
 		<item>
-			<title>👎Philip Koopman - Chamber of Progress</title>
+			<title>👎Philip Koopman - Clean &amp; Prosperous Washington</title>
 			<description>Philip Koopman signed up to testify Con.</description>
 			<pubDate>Sat, 27 Jan 2024 11:47:57 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Philip/Koopman/2024-01-27 11:47:57</guid>
+		</item>
+		<item>
+			<title>👍💵Isaac Kastama - Clean &amp; Prosperous Washington</title>
+			<description>Isaac Kastama signed up to testify Pro. They are signed up to represent Clean &amp; Prosperous Washington. They are a registered lobbyist.</description>
+			<pubDate>Sun, 28 Jan 2024 09:13:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Isaac/Kastama/2024-01-28 09:13:57</guid>
+		</item>
+		<item>
+			<title>❓💵Scott Hazlegrove - WA State Auto Dealers Association</title>
+			<description>Scott Hazlegrove signed up to testify Other. They are signed up to represent WA State Auto Dealers Association. They are a registered lobbyist.</description>
+			<pubDate>Sun, 28 Jan 2024 10:21:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Scott/Hazlegrove/2024-01-28 10:21:54</guid>
 		</item>
 	</channel>
 </rss>

@@ -19,19 +19,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158143&caId=23649&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158143&caId=23649&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * 💵Malika Lamont - VOCAL-WA
 * Austin Field - SEIU 925
 
-#### 6 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * Kelly Warner-King - Washington State Administrative Office of the Courts
 * Atharshna Singarajah
 * Ph.D., Susan Stoner - Department of Psychiatry & Behavioral Sciences Addictions, Drug & Alcohol Institute
 * Tara Urs - King County Department of Public Defense
+* 💵Allison Krutsinger - Dept of Children, Youth, and Families
 
 ### Thu 01/18 08:00 AM - Human Services (HS): SB 6109 Children and families
 #### 11 👍 - Pro

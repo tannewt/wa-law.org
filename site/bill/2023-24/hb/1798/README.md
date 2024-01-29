@@ -20,13 +20,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31824&aId=157887&caId=23701&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31824&aId=157887&caId=23701&tId=4)
 
-#### 117 👍 - Pro
+#### 180 👍 - Pro
+Testifying:
+* David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
+* Sen. Whitney Westerfield - Senator - Kentucky Legislature
+* 💵Vicki Christophersen - [Justice Action Network](/org/justice_action_network/)
+* Vidal Vincent - Freedom Project
 
-#### 6 👎 - Con
+#### 113 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 

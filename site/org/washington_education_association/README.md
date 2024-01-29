@@ -382,13 +382,16 @@
 
 ## [HB 1879](/bill/2023-24/hb/1879/) - Naming the curriculum used to inform students about tribal history, culture, and government after John McCoy (lulilaš). 👍1  
 
-## [HB 1889](/bill/2023-24/hb/1889/) - Allowing persons to receive professional licenses and certifications regardless of immigration or citizenship status. 👍1  
+## [HB 1889](/bill/2023-24/hb/1889/) - Professionals/immigration 👍1  
 
 ## [HB 1893](/bill/2023-24/hb/1893/) - Unemp ins/strikes & lockouts 👍1  
 
 ## [HB 1895](/bill/2023-24/hb/1895/) - Modifying the working families' tax credit by clarifying the refundable nature of the credit, the application requirements, and the eligibility verification process. 👍1  
 
-## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍2  
+## [HB 1897](/bill/2023-24/hb/1897/) - Charter schools/enrichment  👎1 
+* 👎💵 Julie Salvi
+
+## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍3  
 
 ## [HB 1914](/bill/2023-24/hb/1914/) - Special education services  👎1 
 * 👎 Jared Mason-Gere
@@ -429,6 +432,8 @@
 
 ## [HB 2022](/bill/2023-24/hb/2022/) - Construction crane safety 👍1  
 
+## [HB 2023](/bill/2023-24/hb/2023/) - Improving meaningful access to elections by increasing language assistance. 👍1  
+
 ## [HB 2025](/bill/2023-24/hb/2025/) - State work-study program 👍1  
 
 ## [HB 2037](/bill/2023-24/hb/2037/) - Concerning Holocaust and genocide education in public schools. 👍1  
@@ -460,8 +465,9 @@
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  
 * 👍💵 Larry Delaney
 
-## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention 👍1  ❓1
+## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention 👍2  ❓1
 * ❓💵 Simone Boe
+* 👍💵 Simone Boe
 * 👍💵 Simone Boe
 
 ## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
@@ -485,7 +491,7 @@
 
 ## [HB 2209](/bill/2023-24/hb/2209/) - Lunar new year 👍1  
 
-## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍1  
+## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍2  
 
 ## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍1  
 
@@ -862,6 +868,8 @@
 ## [SB 5809](/bill/2023-24/sb/5809/) - Charter schools/enrichment  👎1 
 * 👎💵 Julie Salvi
 
+## [SB 5811](/bill/2023-24/sb/5811/) - Expanding the definition of family member for individual providers. 👍1  
+
 ## [SB 5813](/bill/2023-24/sb/5813/) - Mandating instruction on agricultural literacy for students in grades seven through 12.   ❓1
 * ❓💵 Nasue Nishida
 
@@ -907,11 +915,15 @@
 
 ## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍2  
 
+## [SB 5906](/bill/2023-24/sb/5906/) - Implementing a statewide drug overdose prevention and education campaign. 👍1  
+
 ## [SB 5913](/bill/2023-24/sb/5913/) - Concerning communication between employees of state institutions of higher education and student athletes regarding name, image, and likeness use. 👍2  
 
 ## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍4  
 
 ## [SB 5924](/bill/2023-24/sb/5924/) - Access to personnel records 👍1  
+
+## [SB 5932](/bill/2023-24/sb/5932/) - Temporary total disability 👍1  
 
 ## [SB 5935](/bill/2023-24/sb/5935/) - Noncompetition covenants 👍1  
 
@@ -925,7 +937,7 @@
 ## [SB 5956](/bill/2023-24/sb/5956/) - Enrichment levies limit 👍1  
 * 👍💵 Julie Salvi
 
-## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍4  
+## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍5  
 
 ## [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation 👍1  
 * 👍 Jared Mason-Gere

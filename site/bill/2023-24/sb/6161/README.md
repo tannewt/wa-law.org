@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31851&aId=157964&caId=23657&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31851&aId=157964&caId=23657&tId=4)
 
-#### 516 👍 - Pro
+#### 648 👍 - Pro
 Testifying:
 * Therese Santana
 * Meg Curtin Rey-Bear
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

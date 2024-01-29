@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 1945 - Streamlining and enhancing program access for persons eligible for food assistance.</title>
+		<title>HB 1945 - Food assistance access</title>
 		<link>https://wa-law.org/bill/2023-24/hb/1945/</link>
 		<description>Updates about HB 1945</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 09:14:25 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 26 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -84,6 +84,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Juan/Madrigal/2024-01-08 09:14:25</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-26/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

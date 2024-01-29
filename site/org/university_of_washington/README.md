@@ -94,7 +94,7 @@
 
 ## [HB 1859](/bill/2023-24/hb/1859/) - Concerning the rights of residents in long-term care facilities. 👍1  
 
-## [HB 1889](/bill/2023-24/hb/1889/) - Allowing persons to receive professional licenses and certifications regardless of immigration or citizenship status. 👍1  
+## [HB 1889](/bill/2023-24/hb/1889/) - Professionals/immigration 👍1  
 
 ## [HB 2004](/bill/2023-24/hb/2004/) - Military student early reg. 👍1  
 * 👍 Jordan Caron
@@ -204,6 +204,9 @@
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
 * 👍💵 Morgan Hickel
 
+## [SB 5999](/bill/2023-24/sb/5999/) - Financial aid eligibility 👍1  
+* 👍 Adrienne Delossantos
+
 ## [SB 6021](/bill/2023-24/sb/6021/) - Correctional fees & expenses 👍1  
 
 ## [SB 6220](/bill/2023-24/sb/6220/) - High THC cannabis products 👍1  
@@ -211,3 +214,5 @@
 
 ## [SB 6221](/bill/2023-24/sb/6221/) - UW primate research center   ❓1
 * ❓💵 Morgan Hickel
+
+## [SB 6267](/bill/2023-24/sb/6267/) - DD parental caregivers 👍1  

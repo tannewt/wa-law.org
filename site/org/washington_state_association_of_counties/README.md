@@ -275,6 +275,9 @@
 
 ## [HB 2415](/bill/2023-24/hb/2415/) - Economic assistance/TANF 👍1  
 
+## [HB 2470](/bill/2023-24/hb/2470/) - Creating a local sales and use tax to address gender-based violence.   ❓1
+* ❓💵 Juliana Roe
+
 ## [SB 5027](/bill/2023-24/sb/5027/) - American dream homes 👍1  
 * 👍💵 Paul Jewell
 
@@ -446,6 +449,9 @@
 ## [SB 5901](/bill/2023-24/sb/5901/) - Co-living housing   ❓1
 * ❓💵 Paul Jewell
 
+## [SB 5990](/bill/2023-24/sb/5990/) - Env. justice/SEPA projects   ❓1
+* ❓💵 Paul Jewell
+
 ## [SB 5992](/bill/2023-24/sb/5992/) - Water supply/energy sites 👍1  
 
 ## [SB 6013](/bill/2023-24/sb/6013/) - Homeownership dev. tax ex.  👎1 
@@ -460,6 +466,9 @@
 * 👍💵 Paul Jewell
 
 ## [SB 6055](/bill/2023-24/sb/6055/) - Natural resource indus. dev. 👍1  
+
+## [SB 6076](/bill/2023-24/sb/6076/) - Criminal justice local tax 👍1  
+* 👍💵 Juliana Roe
 
 ## [SB 6079](/bill/2023-24/sb/6079/) - Juv. detention/health recs. 👍1  
 

@@ -59,7 +59,7 @@
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍2  
 
-## [HB 1945](/bill/2023-24/hb/1945/) - Streamlining and enhancing program access for persons eligible for food assistance. 👍1  
+## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
 
 ## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍1  
 
@@ -143,6 +143,8 @@
 ## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
 
 ## [SB 5899](/bill/2023-24/sb/5899/) - Adding to the list of provisions prohibited from rental agreements. 👍1  
+
+## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  
 
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development 👍1  
 

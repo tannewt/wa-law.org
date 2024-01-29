@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31787&aId=157449&caId=23634&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31787&aId=157449&caId=23634&tId=4)
 
-#### 17 👍 - Pro
+#### 36 👍 - Pro
+Testifying:
+* Allen Acosta - Veterans Legislative Coalition
+* Brandon Pruett
 
-#### 4 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Brandon Pruett
 
 #### 0 ❓ - Other

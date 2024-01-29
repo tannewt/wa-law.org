@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31846&aId=157933&caId=23659&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31846&aId=157933&caId=23659&tId=4)
 
-#### 57 👍 - Pro
+#### 141 👍 - Pro
 Testifying:
 * Whitney Stohr
 * Claudia Sanderson
@@ -24,6 +24,8 @@ Testifying:
 * Katie Scheid
 * Lindsey Topping-Schuetz
 * MariClaire Eastabrooks
+* Colleen Grove
+* Fernanda Mazcot - Executive Director, Nuestras Raíces Community Center
 
 #### 0 👎 - Con
 

@@ -13,6 +13,8 @@
 
 ## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍2  
 
+## [HB 1982](/bill/2023-24/hb/1982/) - Broadband loans & grants 👍1  
+
 ## [HB 2354](/bill/2023-24/hb/2354/) - Tax increment areas  👎1 
 
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget   ❓1

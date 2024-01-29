@@ -14,12 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31852&aId=157968&caId=23642&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31852&aId=157968&caId=23642&tId=4)
 
-#### 10 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Elizabeth Strater - United Farm Workers
+* 💵Andrea Schmitt - [Columbia Legal Services](/org/columbia_legal_services/)
 
-#### 25 👎 - Con
+#### 37 👎 - Con
+Testifying:
+* Nora Palattao Burnes - [Washington Growers League](/org/washington_growers_league/)
+* 💵Scott Dilley - [Wafla](/org/wafla/)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Caitlyn Jekel - WA State Employment Security Dept

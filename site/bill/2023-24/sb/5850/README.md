@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158154&caId=23681&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158154&caId=23681&tId=4)
 
-#### 21 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * Troy Goracke - Washington State Board for Community and Technical Colleges
 * 💵Paula Sardinas - WBBA/UWKC

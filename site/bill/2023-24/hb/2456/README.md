@@ -14,13 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31829&aId=157982&caId=23735&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31829&aId=157982&caId=23735&tId=4)
 
-#### 12 👍 - Pro
+#### 50 👍 - Pro
 Testifying:
 * 💵Marie Neumiller - Congressional Sportsmen’s Foundation
 * Julia Michalak - WDFW
 * 💵Paula Swedeen - [Conservation Northwest](/org/conservation_northwest/)
+* PHD, Susan D Kane-Ronning - Washington Sierra Club Wildlife Committee
 
-#### 268 👎 - Con
+#### 369 👎 - Con
 Testifying:
 * Teddy Anderson
 

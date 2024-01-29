@@ -20,11 +20,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157974&caId=23667&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157974&caId=23667&tId=4)
 
-#### 234 👍 - Pro
+#### 262 👍 - Pro
 
-#### 13 👎 - Con
+#### 22 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 02/09 08:00 AM - Labor & Commerce (LC): SB 5476 Agricultural overtime
 #### 1079 👍 - Pro

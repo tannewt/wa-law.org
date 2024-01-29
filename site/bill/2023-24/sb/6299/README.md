@@ -14,8 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31852&aId=157969&caId=23643&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31852&aId=157969&caId=23643&tId=4)
 
-#### 14 👍 - Pro
+#### 34 👍 - Pro
 
-#### 2 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* 💵Crystal Leatherman
+* Robert (Bob) Battles - Association of Washington Business (AWB)
 
 #### 0 ❓ - Other

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6133/</link>
 		<description>Updates about SB 6133</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 10 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 28 Jan 2024 12:01:25 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,30 @@
 			<pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-10/First reading, referred to Law &amp; Justice.</guid>
+		</item>
+		<item>
+			<title>👍💵Brooke Davies - Washington CannaBusiness Association</title>
+			<description>Brooke Davies signed up to testify Pro. They are signed up to represent Washington CannaBusiness Association. They are a registered lobbyist.</description>
+			<pubDate>Sun, 28 Jan 2024 11:55:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brooke/Davies/2024-01-28 11:55:46</guid>
+		</item>
+		<item>
+			<title>👍Amber Vaughn - Terpene Transit</title>
+			<description>Amber Vaughn signed up to testify Pro. They are signed up to represent Terpene Transit.</description>
+			<pubDate>Sun, 28 Jan 2024 11:59:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Amber/Vaughn/2024-01-28 11:59:25</guid>
+		</item>
+		<item>
+			<title>👍Troy Peterson - Apex Cannabis</title>
+			<description>Troy Peterson signed up to testify Pro. They are signed up to represent Apex Cannabis.</description>
+			<pubDate>Sun, 28 Jan 2024 12:01:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Troy/Peterson/2024-01-28 12:01:25</guid>
 		</item>
 	</channel>
 </rss>

@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31834&aId=158092&caId=23732&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31834&aId=158092&caId=23732&tId=4)
 
-#### 14 👍 - Pro
+#### 35 👍 - Pro
 Testifying:
 * 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
+* Rory O'Sullivan - [King County Bar Association](/org/king_county_bar_association/)
 
-#### 42 👎 - Con
+#### 251 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

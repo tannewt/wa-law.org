@@ -14,12 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31867&aId=158055&caId=23724&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31867&aId=158055&caId=23724&tId=4)
 
-#### 23 👍 - Pro
+#### 42 👍 - Pro
 Testifying:
 * Dan Wise - Catholic Community Services
+* 💵Michael White - [King County](/org/king_county/)
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Jon Culver
 
-#### 1 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * Salim Nice
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

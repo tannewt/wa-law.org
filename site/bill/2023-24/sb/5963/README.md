@@ -14,11 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31787&aId=157454&caId=23637&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31787&aId=157454&caId=23637&tId=4)
 
-#### 213 👍 - Pro
+#### 573 👍 - Pro
 Testifying:
 * Bryon Welch - Office of the Insurance Commissioner
+* Craig Reynolds
+* Ryan Moinazad
+* Ed Humble
+* Jane Weiss
+* Rebecca Elbaum - Moms Demand Action
+* Ann Madsen
+* Diane Studley
+* Jeannie Shu
 
-#### 229 👎 - Con
+#### 819 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * eric pratt
@@ -28,5 +36,9 @@ Testifying:
 * Jeremy Ball
 * 💵Aoibheann Cline - NRA
 * Teo Morca
+* Marc Lein
+* Ronald Guidry
+* Jonathan Nelson
+* Robert Dickenson
 
 #### 0 ❓ - Other

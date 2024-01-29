@@ -59,6 +59,8 @@
 
 ## [HB 2423](/bill/2023-24/hb/2423/) - Gray wolf management  👎1 
 
+## [HB 2456](/bill/2023-24/hb/2456/) - Wildlife safe passages 👍1  
+
 ## [SB 5094](/bill/2023-24/sb/5094/) - Water system plans/climate 👍1  
 
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍1  
@@ -73,6 +75,8 @@
 
 ## [SB 5380](/bill/2023-24/sb/5380/) - Clean energy siting 👍1  
 * 👍💵 Jan Hasselman
+
+## [SB 5476](/bill/2023-24/sb/5476/) - Agricultural overtime  👎1 
 
 ## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation  👎1 
 

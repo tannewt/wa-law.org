@@ -21,9 +21,9 @@
 * ❓ Deeann Puffert
 * ❓💵 Emily Murphy
 
-## [HB 1916](/bill/2023-24/hb/1916/) - Concerning funding for the early support for infants and toddlers program. 👍1  
+## [HB 1916](/bill/2023-24/hb/1916/) - Concerning funding for the early support for infants and toddlers program. 👍2  
 
-## [HB 1945](/bill/2023-24/hb/1945/) - Streamlining and enhancing program access for persons eligible for food assistance. 👍1  
+## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
 
 ## [HB 2101](/bill/2023-24/hb/2101/) - Child care licensing fees 👍1  
 * 👍💵 Emily Murphy

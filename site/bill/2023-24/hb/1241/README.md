@@ -20,13 +20,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31787&aId=157614&caId=23638&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31787&aId=157614&caId=23638&tId=4)
 
-#### 180 👍 - Pro
+#### 440 👍 - Pro
 Testifying:
 * Mary Hall - Washington Association of County Auditors (WSACA)
 * Carolyn Fundingsland - Washington State Association of County Auditors (WSACA)
 * 💵Jennifer Wallace - WA Assoc of County Officials
+* Cindy Madigan - League of Women Voters of Washington
+* Lori Larsen - President, Washington Association of County Auditors
+* Linda Farmer - Pierce County Auditor's Office
 
-#### 53 👎 - Con
+#### 319 👎 - Con
+Testifying:
+* Teo Morca
 
 #### 0 ❓ - Other
 

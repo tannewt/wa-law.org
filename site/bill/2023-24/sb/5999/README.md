@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158152&caId=23679&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158152&caId=23679&tId=4)
 
-#### 574 👍 - Pro
+#### 627 👍 - Pro
 Testifying:
 * Sean Graves
 * Margaret Kanyoko - Whitman College
@@ -27,6 +27,9 @@ Testifying:
 * Quinn Sukys
 * Calvin Beardemphl - UW Tacoma Student
 * Lucy Munoz - University of Washington, Tacoma
+* Hieu Doan - UW Tacoma Student
+* Adrienne Delossantos - [University of Washington](/org/university_of_washington/)
+* Brenda Flores - University Of Washington -  - Seattle, WA
 
 #### 3 👎 - Con
 

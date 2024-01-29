@@ -19,7 +19,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158158&caId=23690&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158158&caId=23690&tId=4)
 
-#### 15 👍 - Pro
+#### 65 👍 - Pro
+Testifying:
+* Erin Sullivan - Woodland Park Zoo
 
 #### 1 👎 - Con
 

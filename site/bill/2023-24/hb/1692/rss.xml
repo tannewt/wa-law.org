@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1692/</link>
 		<description>Updates about HB 1692</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 15 Jan 2024 10:55:47 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 26 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -136,6 +136,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Natasha/Kalombo/2024-01-15 10:55:47</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-26/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

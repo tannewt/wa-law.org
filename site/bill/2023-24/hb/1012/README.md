@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31864&aId=158028&caId=23670&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31864&aId=158028&caId=23670&tId=4)
 
-#### 108 👍 - Pro
+#### 224 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 * 💵Brittany Benesi - American Society for the Prevention of Cruelty to Animals
@@ -35,7 +35,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Fri 03/31 12:30 PM - Ways & Means (WM): SHB 1012 Extreme weather events
 #### 52 👍 - Pro

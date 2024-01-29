@@ -63,7 +63,7 @@
 ## [HB 1575](/bill/2023-24/hb/1575/) - Cultural access programs/tax 👍1  
 * 👍 Cheryl Selby
 
-## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy 👍2  
+## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy 👍3  
 
 ## [HB 1670](/bill/2023-24/hb/1670/) - Property tax limit factor 👍1  
 
@@ -179,10 +179,12 @@
 
 ## [SB 5985](/bill/2023-24/sb/5985/) - Firearms background checks 👍1  
 
-## [SB 6013](/bill/2023-24/sb/6013/) - Homeownership dev. tax ex. 👍1  
+## [SB 6013](/bill/2023-24/sb/6013/) - Homeownership dev. tax ex. 👍2  
 
 ## [SB 6064](/bill/2023-24/sb/6064/) - Pet fees, deposits 👍1  
 
 ## [SB 6150](/bill/2023-24/sb/6150/) - Comprehensive plan revisions 👍1  
+
+## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍1  
 
 ## [SJR 8201](/bill/2023-24/sjr/8201/) - Public works account 👍1  

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6205/</link>
 		<description>Updates about SB 6205</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 24 Jan 2024 12:09:28 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 27 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -70,6 +70,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Troy/Smith/2024-01-24 12:09:28</guid>
+		</item>
+		<item>
+			<title>McCune’s ‘Understanding the Pledge’ bill receives committee hearing</title>
+			<description>News article &quot;McCune’s ‘Understanding the Pledge’ bill receives committee hearing&quot; from Gorge News Center.</description>
+			<pubDate>Sat, 27 Jan 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2024/01/27/mccunes-understanding-the-pledge-bill-receives-committee-hearing/#:~:text=Senate%20Bill%206205</guid>
 		</item>
 	</channel>
 </rss>

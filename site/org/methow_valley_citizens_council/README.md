@@ -38,6 +38,8 @@
 
 ## [HB 2330](/bill/2023-24/hb/2330/) - Wildfire protection 👍1  
 
+## [HB 2456](/bill/2023-24/hb/2456/) - Wildlife safe passages 👍1  
+
 ## [SB 5039](/bill/2023-24/sb/5039/) - Wildfires/electric utilities 👍1  
 
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial  👎2 
