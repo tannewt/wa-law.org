@@ -26,6 +26,8 @@
 
 ## [HB 2253](/bill/2023-24/hb/2253/) - Community solar 👍1  
 
+## [HB 2429](/bill/2023-24/hb/2429/) - Energy facility eval process   ❓1
+
 ## [SB 5165](/bill/2023-24/sb/5165/) - Electric transm. planning 👍1  
 * 👍💵 Kate Brouns
 

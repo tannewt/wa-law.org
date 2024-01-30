@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Mon 01/29 01:30 PM - Early Learning & K-12 Education (EDU): SB 5964 Free school meals
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31812&aId=157796&caId=23647&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31812&aId=157796&caId=23647&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31812&aId=157796&caId=23647&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31812&aId=157796&caId=23647&tId=4)
-
-#### 992 👍 - Pro
+#### 1265 👍 - Pro
 Testifying:
 * 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
 * Danica Noble - Washington State PTA
@@ -26,12 +20,17 @@ Testifying:
 * Michal Frisen - Parent
 * Nikki Lockwood - WSSDA
 * Sean Foster - WA Education Assoc.
+* Rahul Sharma - Legislative Youth Advisory Council
+* Mikhail Cherniske - Office of Superintendent of Public Instruction
+* Lily Fredericks - Student Representative, Shoreline School Board
 
-#### 453 👎 - Con
+#### 526 👎 - Con
 Testifying:
 * John Axtell
 * Teddy Anderson
 * Jeannette Mcchesney
 * Nicole Wells
+* Sharon Damoff
+* Jennifer Heine-Withee
 
-#### 4 ❓ - Other
+#### 7 ❓ - Other

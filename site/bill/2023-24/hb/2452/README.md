@@ -8,14 +8,14 @@
 
 ## Meetings
 ### Mon 01/29 01:30 PM - Housing (HOUS): HB 2452 Manuf housing/building codes
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31867&aId=158052&caId=23721&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31867&aId=158052&caId=23721&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31867&aId=158052&caId=23721&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31867&aId=158052&caId=23721&tId=4)
+#### 24 👍 - Pro
+Testifying:
+* Lance Clark - Northwest Housing Association
+* 💵Trevor Justin - Northwest Housing Association
+* Derrick Rock - Clayton Homes
 
-#### 7 👍 - Pro
+#### 4 👎 - Con
 
-#### 1 👎 - Con
-
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Stoyan Bumbalov - State Building Code Council

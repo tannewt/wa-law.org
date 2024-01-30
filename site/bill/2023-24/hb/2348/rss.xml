@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2348/</link>
 		<description>Updates about HB 2348</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 26 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 29 Jan 2024 10:35:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -67,6 +67,53 @@
 			<pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-26/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Referred to Finance.</title>
+			<description>Referred to Finance.</description>
+			<pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-29/Referred to Finance.</guid>
+		</item>
+		<item>
+			<title>👍💵Ian Goodhew - WA State LTC Ombuds</title>
+			<description>Ian Goodhew signed up to testify Pro. They are a registered lobbyist.</description>
+			<pubDate>Mon, 29 Jan 2024 06:26:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ian/Goodhew/2024-01-29 06:26:12</guid>
+		</item>
+		<item>
+			<title>👍Meredith Kriebel - WA State LTC Ombuds</title>
+			<description>Meredith Kriebel signed up to testify Pro.</description>
+			<pubDate>Mon, 29 Jan 2024 06:26:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Meredith/Kriebel/2024-01-29 06:26:12</guid>
+		</item>
+		<item>
+			<title>👍💵Michael White - WA State LTC Ombuds</title>
+			<description>Michael White signed up to testify Pro. They are a registered lobbyist.</description>
+			<pubDate>Mon, 29 Jan 2024 06:26:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Michael/White/2024-01-29 06:26:12</guid>
+		</item>
+		<item>
+			<title>👍Meredith Kriebel - RN (Harborview Respite Program) - SEIU 1199NW</title>
+			<description>Meredith Kriebel signed up to testify Pro. They are signed up to represent RN (Harborview Respite Program) - SEIU 1199NW.</description>
+			<pubDate>Mon, 29 Jan 2024 06:57:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Meredith/Kriebel/2024-01-29 06:57:04</guid>
+		</item>
+		<item>
+			<title>👎Tim Eyman - Initiative Activist</title>
+			<description>Tim Eyman signed up to testify Con. They are signed up to represent Initiative Activist.</description>
+			<pubDate>Mon, 29 Jan 2024 10:35:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Tim/Eyman/2024-01-29 10:35:14</guid>
 		</item>
 	</channel>
 </rss>

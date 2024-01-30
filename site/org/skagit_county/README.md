@@ -26,6 +26,8 @@
 
 ## [HB 2391](/bill/2023-24/hb/2391/) - County ferries 👍2  
 
+## [HB 2463](/bill/2023-24/hb/2463/) - Conducting a review of salmon planning and recovery efforts. 👍1  
+
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  
 * 👍 Lisa Janicki
 

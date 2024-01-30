@@ -14,16 +14,30 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31846&aId=157932&caId=23658&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31846&aId=157932&caId=23658&tId=4)
 
-#### 522 👍 - Pro
+#### 1276 👍 - Pro
 Testifying:
 * Victoria Woodards - Mayor of the City of Tacoma
 * 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
 * Lisa Parshley - Olympia City Council
+* Alexa Mason - Washington Chapter of the American Academy of Pediatrics
+* Camie Goldhammer - Hummingbird Indigenous Family Services
+* Mariam Ahmed - YWCA Seattle | King | Snohomish
+* Cherish Cronmiller - Olympic Community Action Programs
+* 💵Tracy Yeung - Washington State Budget and Policy Center
+* Stephan Blanford - [Children's Alliance](/org/children's_alliance/)
+* 💵Jacob Squirrel - Quaker Voice on Washington Public Policy
 
-#### 771 👎 - Con
+#### 1547 👎 - Con
 Testifying:
 * Mary Long - Conservative Ladies of Washington
 * Sharon Damoff
 * Jeannette Mcchesney
+* bobbi moody
+* Theresa Schrempp
+* Jill Warne
+* Ronald Warne Jr
+* Kristy Welles
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Lori Pfingst - WA State Department of Social & Health Services

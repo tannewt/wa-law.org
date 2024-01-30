@@ -17,9 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31807&aId=157748&caId=23712&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31807&aId=157748&caId=23712&tId=4)
 
-#### 3 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* 💵Ian Goodhew
+* Meredith Kriebel
+* 💵Michael White
+* Meredith Kriebel - RN (Harborview Respite Program) - SEIU 1199NW
 
-#### 1 👎 - Con
+#### 14 👎 - Con
+Testifying:
+* Tim Eyman - Initiative Activist
 
 #### 0 ❓ - Other
 

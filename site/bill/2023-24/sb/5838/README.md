@@ -20,13 +20,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158156&caId=23683&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158156&caId=23683&tId=4)
 
-#### 47 👍 - Pro
+#### 84 👍 - Pro
 Testifying:
 * 💵Tathagata Pal - Legislative Liaison, Graduate and Professional Student Association at WSU
+* 💵Larry Shannon - Washington State Association for Justice
+* Rosa Mai - Attorney General's Office
+* 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
-#### 263 👎 - Con
+#### 460 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Joy Gjersvold - Conservative Ladies of Washington
+* Robert (Bob) Battles - Association of Washington Business (AWB)
+* Joy Gjersvold - Conservative Ladies of Washington
 
 ### Wed 01/10 08:00 AM - Environment, Energy & Technology (ENET): SB 5838 AI task force
 #### 29 👍 - Pro

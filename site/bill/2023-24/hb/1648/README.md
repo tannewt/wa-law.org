@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Third Substitute](S3/)
 
 ## 📰 Articles
 * 01/26/2024 [Crosscut](/org/crosscut/) - [Swifties hope their cruel summer leads to WA concert ticket laws | Crosscut](https://crosscut.com/briefs/2024/01/swifties-hope-their-cruel-summer-leads-wa-concert-ticket-laws#:~:text=House%20Bill%201648)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2320/</link>
 		<description>Updates about HB 2320</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 24 Jan 2024 14:08:50 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 29 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -204,6 +204,13 @@
 			<pubDate>Wed, 24 Jan 2024 14:08:50 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.seattletimes.com/opinion/editorials/dont-let-efforts-to-regulate-high-potency-pot-go-up-in-smoke/#:~:text=House%20Bill%202320</guid>
+		</item>
+		<item>
+			<title>RSG - Executive action taken by committee.</title>
+			<description>RSG - Executive action taken by committee.</description>
+			<pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-29/RSG - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

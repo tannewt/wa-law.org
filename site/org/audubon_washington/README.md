@@ -28,6 +28,10 @@
 
 ## [HB 2336](/bill/2023-24/hb/2336/) - Suitability of lands 👍1  
 
+## [HB 2429](/bill/2023-24/hb/2429/) - Energy facility eval process   ❓1
+
+## [HB 2456](/bill/2023-24/hb/2456/) - Wildlife safe passages 👍1  
+
 ## [SB 5093](/bill/2023-24/sb/5093/) - Climate response strategy 👍1  
 
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍3  

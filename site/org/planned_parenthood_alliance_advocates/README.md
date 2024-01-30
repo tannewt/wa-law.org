@@ -62,7 +62,7 @@
 
 ## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍1  
 
-## [HB 1916](/bill/2023-24/hb/1916/) - Concerning funding for the early support for infants and toddlers program. 👍1  
+## [HB 1916](/bill/2023-24/hb/1916/) - Concerning funding for the early support for infants and toddlers program. 👍2  
 
 ## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
 
@@ -178,13 +178,19 @@
 
 ## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
 
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
+
 ## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍1  
 
 ## [SB 5933](/bill/2023-24/sb/5933/) - Infants and toddlers program 👍1  
 
+## [SB 5943](/bill/2023-24/sb/5943/) - Resource data tool 👍1  
+
 ## [SB 5960](/bill/2023-24/sb/5960/) - Prescription labels/abortion 👍1  
 
 ## [SB 5963](/bill/2023-24/sb/5963/) - Deadly weapons insurance 👍1  
+
+## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  
 
 ## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍2  
 
@@ -192,11 +198,15 @@
 
 ## [SB 6105](/bill/2023-24/sb/6105/) - Adult entertainment workers 👍1  
 
+## [SB 6107](/bill/2023-24/sb/6107/) - Construction/sanitary cond. 👍1  
+
 ## [SB 6127](/bill/2023-24/sb/6127/) - HIV prophylaxis 👍1  
 
 ## [SB 6151](/bill/2023-24/sb/6151/) - Ultrasound 👍1  
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
+
+## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍1  
 
 ## [SB 6208](/bill/2023-24/sb/6208/) - Public school materials 👍2  
 

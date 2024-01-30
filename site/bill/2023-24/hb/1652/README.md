@@ -19,13 +19,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=157581&caId=23661&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=157581&caId=23661&tId=4)
 
-#### 100 👍 - Pro
+#### 197 👍 - Pro
 Testifying:
 * 💵Alex Hur - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* 💵James Clark - National Parents Organization
+* 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* Amy Roark
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Sharon Redmond - DSHS - Economic Services Administration - Division of Child Support
 
 ### Thu 03/30 12:30 PM - Ways & Means (WM): ESHB 1652 Child support pass through
 #### 22 👍 - Pro

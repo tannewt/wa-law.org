@@ -37,7 +37,7 @@ Testifying:
 #### 485 👍 - Pro
 Testifying:
 * Joseph Gaydos - UC Davis / SeaDoc Society
-* Frances Robertson - San Juan County
+* Frances Robertson - [San Juan County](/org/san_juan_county/)
 * Todd Woodard - [Samish Indian Nation](/org/samish_indian_nation/)
 * Donna Sandstrom - The Whale Trail
 * Timothy Ragen

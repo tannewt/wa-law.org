@@ -17,3 +17,5 @@
 
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures 👍2  
 * 👍 Greg Dunfield
+
+## [SB 5967](/bill/2023-24/sb/5967/) - Housing/public lands leases 👍1  

@@ -14,13 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157973&caId=23666&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157973&caId=23666&tId=4)
 
-#### 46 👍 - Pro
+#### 149 👍 - Pro
 Testifying:
 * Jeffery Whaley
+* Ashley Ruiz - McKinstry
 
-#### 220 👎 - Con
+#### 436 👎 - Con
 Testifying:
 * America George - Safety Site Solutions
 * 💵Carolyn Logue - Associated Builders & Contractors of WA
+* 💵Tricia Gullion - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Michele Willms - Associated General Contractors of Washington (AGC)
+* Isobel Hutchings
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

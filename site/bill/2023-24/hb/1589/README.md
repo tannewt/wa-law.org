@@ -31,20 +31,35 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31819&aId=158260&caId=23739&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31819&aId=158260&caId=23739&tId=4)
 
-#### 90 👍 - Pro
+#### 126 👍 - Pro
 Testifying:
 * Anna Lising - Governor's office
 * Jason Lewis - Utilities and Transportation Commission
 * 💵Isaac Kastama - Clean & Prosperous Washington
 * 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* Laurel Schandelmier
+* Donna Albert
+* 💵John Traynor - Washington State Labor Council, AFL-CIO
+* 💵Mark Riker - Washington State Building and Construction Trades Council
+* 💵Matthew Hepner - IBEW/CEWW
+* 💵Neil Hartman - Washington State Association Of UA Plumbers & Pipefitters
+* Sam Hem - NWRC SMART Local 66
 
-#### 145 👎 - Con
+#### 800 👎 - Con
 Testifying:
 * 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
 * 💵Scott Hazlegrove - Master Builders Association of King & Snohomish Counties
+* James Ware
+* Kim Slinger
+* Jeannette Mcchesney
+* 💵Carolyn Logue - NW Hearth, Patio & Barbecue Association
+* William Shadbolt - [Washington Business Properties Association](/org/washington_business_properties_association/)
+* Swen Nater
 
-#### 2 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* 💵Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 
 ### Fri 03/17 08:00 AM - Environment, Energy & Technology (ENET): ESHB 1589 Clean energy
 #### 98 👍 - Pro

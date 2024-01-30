@@ -133,7 +133,7 @@
 
 ## [HB 1885](/bill/2023-24/hb/1885/) - Strengthening campaign finance disclosure by prohibiting campaign contributions and expenditures by foreign-influenced corporations.  👎2 
 
-## [HB 1899](/bill/2023-24/hb/1899/) - Facilitating reconstruction of communities damaged or destroyed by wildfires. 👍1  
+## [HB 1899](/bill/2023-24/hb/1899/) - Wildfire reconstruction 👍1  
 * 👍💵 Jan Himebaugh
 
 ## [HB 1998](/bill/2023-24/hb/1998/) - Co-living housing 👍1  
@@ -330,6 +330,9 @@
 ## [SB 6081](/bill/2023-24/sb/6081/) - Consumer contracts  👎1 
 * 👎💵 Brent Ludeman
 
+## [SB 6107](/bill/2023-24/sb/6107/) - Construction/sanitary cond.  👎1 
+* 👎💵 Tricia Gullion
+
 ## [SB 6136](/bill/2023-24/sb/6136/) - Rental property B&O tax  👎1 
 
 ## [SB 6140](/bill/2023-24/sb/6140/) - Intensive rural development 👍1  
@@ -348,3 +351,6 @@
 ## [SB 6211](/bill/2023-24/sb/6211/) - Mobile home rent increases  👎1 
 
 ## [SB 6212](/bill/2023-24/sb/6212/) - Rent payments/credit reports  👎1 
+
+## [SB 6285](/bill/2023-24/sb/6285/) - Use of impact fees 👍1  
+* 👍💵 Tricia Gullion

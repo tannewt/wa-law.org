@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [2024 Legislative Priorities | Washington State](https://www.atg.wa.gov/2024-legislative-priorities#:~:text=HB%202136)

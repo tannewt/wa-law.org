@@ -14,19 +14,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157990&caId=23731&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157990&caId=23731&tId=4)
 
-#### 31 👍 - Pro
+#### 42 👍 - Pro
 Testifying:
 * Judge Rachelle Anderson - Superior Court Judges' Association
 * Judge Sean O'Donnell - Superior Court Judges' Association
+* Sarah Rumbaugh - Tacoma City Councilmember
 
-#### 611 👎 - Con
+#### 833 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Jennifer Kaslow
 * Shaun D’Sylva
 * Steve Coleman
 * Lesleyanm Pedro
+* Chris Welch
+* Jill Warne
+* Ronald Warne Jr
+* Dawn Ault
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
+* eric pratt

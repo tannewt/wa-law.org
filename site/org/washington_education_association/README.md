@@ -428,7 +428,7 @@
 
 ## [HB 2013](/bill/2023-24/hb/2013/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍1  
 
-## [HB 2019](/bill/2023-24/hb/2019/) - Establishing a Native American apprentice assistance program. 👍1  
+## [HB 2019](/bill/2023-24/hb/2019/) - Establishing a Native American apprentice assistance program. 👍2  
 
 ## [HB 2022](/bill/2023-24/hb/2022/) - Construction crane safety 👍1  
 
@@ -815,7 +815,7 @@
 
 ## [SB 5626](/bill/2023-24/sb/5626/) - K-12 media literacy 👍3  
 
-## [SB 5631](/bill/2023-24/sb/5631/) - DACA/state agency acceptance 👍1  
+## [SB 5631](/bill/2023-24/sb/5631/) - DACA/state agency acceptance 👍2  
 
 ## [SB 5632](/bill/2023-24/sb/5632/) - Labor disputes/health care 👍2  
 
@@ -851,7 +851,7 @@
 
 ## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
 
-## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍1  
+## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍2  
 
 ## [SB 5776](/bill/2023-24/sb/5776/) - Insulin emergency supply 👍1  
 
@@ -889,14 +889,14 @@
 ## [SB 5849](/bill/2023-24/sb/5849/) - Computer science/graduation   ❓1
 * ❓💵 Nasue Nishida
 
-## [SB 5850](/bill/2023-24/sb/5850/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
+## [SB 5850](/bill/2023-24/sb/5850/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍2  
 
 ## [SB 5851](/bill/2023-24/sb/5851/) - Holocaust and genocide edu. 👍1  
 * 👍💵 Simone Boe
 
 ## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍1  
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
 
 ## [SB 5873](/bill/2023-24/sb/5873/) - Student transportation 👍2  
 * 👍💵 Julie Salvi
@@ -971,6 +971,8 @@
 ## [SB 6060](/bill/2023-24/sb/6060/) - Electronic signatures/PERC 👍1  
 
 ## [SB 6072](/bill/2023-24/sb/6072/) - LTSS commission recs. 👍1  
+
+## [SB 6074](/bill/2023-24/sb/6074/) - TNC driver death benefits 👍1  
 
 ## [SB 6082](/bill/2023-24/sb/6082/) - Paraeducator compensation 👍1  
 * 👍💵 Julie Salvi

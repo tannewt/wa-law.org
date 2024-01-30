@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2363/</link>
 		<description>Updates about HB 2363</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 10:42:43 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 29 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -70,6 +70,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Jim/Hedrick/2024-01-22 10:42:43</guid>
+		</item>
+		<item>
+			<title>RSG - Executive action taken by committee.</title>
+			<description>RSG - Executive action taken by committee.</description>
+			<pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-29/RSG - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

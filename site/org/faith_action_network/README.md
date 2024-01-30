@@ -74,7 +74,7 @@
 * 👍💵 Kristin Ang
 * 👍💵 Kristin Ang
 
-## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍4  
+## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍7  
 
 ## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍2  
 
@@ -154,17 +154,17 @@
 
 ## [SB 5768](/bill/2023-24/sb/5768/) - DOC/abortion medications 👍1  
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍4  
 
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍5  
 
-## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍4  
+## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍6  
 
 ## [SB 5987](/bill/2023-24/sb/5987/) - Gift certificates 👍3  
 
 ## [SB 5988](/bill/2023-24/sb/5988/) - Gift certificates/unclaimed 👍3  
 
-## [SB 5990](/bill/2023-24/sb/5990/) - Env. justice/SEPA projects 👍1  
+## [SB 5990](/bill/2023-24/sb/5990/) - Env. justice/SEPA projects 👍4  
 
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍5  
 
@@ -176,7 +176,7 @@
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍8  
 
-## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍2  
+## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍7  
 
 ## [SB 6216](/bill/2023-24/sb/6216/) - Student mental health net. 👍7  
 

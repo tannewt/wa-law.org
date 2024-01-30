@@ -11,15 +11,15 @@
 
 ## Meetings
 ### Mon 01/29 01:30 PM - Environment & Energy (ENVI): HB 2129 Geothermal energy resources
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31865&aId=158088&caId=23710&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31865&aId=158088&caId=23710&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31865&aId=158088&caId=23710&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31865&aId=158088&caId=23710&tId=4)
+#### 96 👍 - Pro
+Testifying:
+* Casey Hanell - [Department of Natural Resources](/org/department_of_natural_resources/)
+* 💵Scott Hazlegrove - Whatcom PUD
+* 💵Nicolas Garcia - WPUDA
+* RoseMary LaClair - Chair, Nooksack Indian Tribe
+* Ben Serrurier - Fervo Energy
 
-#### 40 👍 - Pro
-
-#### 1 👎 - Con
+#### 3 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

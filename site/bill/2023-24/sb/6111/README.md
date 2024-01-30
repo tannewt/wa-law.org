@@ -14,8 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157971&caId=23664&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157971&caId=23664&tId=4)
 
-#### 6 👍 - Pro
+#### 26 👍 - Pro
+Testifying:
+* Amanda Goss - Attorney General's Office
+* Rory Paine-Donovan - Attorney General's Office
+* MARK RIKER - Washington State Building & Construction Trades Council
+* 💵Ray Dumas - Cement Masons & Plasterers Local 528
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Jerry VanderWood - AGC of Washington
+* 💵Carolyn Logue - Associated Builders & Contractors

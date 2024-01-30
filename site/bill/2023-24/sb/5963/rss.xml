@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5963/</link>
 		<description>Updates about SB 5963</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 28 Jan 2024 07:25:58 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 29 Jan 2024 09:11:12 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -196,6 +196,38 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Robert/Dickenson/2024-01-28 07:25:58</guid>
+		</item>
+		<item>
+			<title>👎MITCH CANTU - NRA</title>
+			<description>MITCH CANTU signed up to testify Con.</description>
+			<pubDate>Mon, 29 Jan 2024 08:12:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/MITCH/CANTU/2024-01-29 08:12:04</guid>
+		</item>
+		<item>
+			<title>👎Amanda McKinney - Yakima County</title>
+			<description>Amanda McKinney signed up to testify Con. They are signed up to represent Yakima County.</description>
+			<pubDate>Mon, 29 Jan 2024 08:16:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Amanda/McKinney/2024-01-29 08:16:48</guid>
+		</item>
+		<item>
+			<title>👎Michael Easton - Yakima County</title>
+			<description>Michael Easton signed up to testify Con.</description>
+			<pubDate>Mon, 29 Jan 2024 08:22:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Michael/Easton/2024-01-29 08:22:43</guid>
+		</item>
+		<item>
+			<title>👎Ralph Rieger - Yakima County</title>
+			<description>Ralph Rieger signed up to testify Con.</description>
+			<pubDate>Mon, 29 Jan 2024 09:11:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Ralph/Rieger/2024-01-29 09:11:12</guid>
 		</item>
 	</channel>
 </rss>

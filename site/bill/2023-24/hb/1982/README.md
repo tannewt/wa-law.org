@@ -19,11 +19,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158010&caId=23703&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158010&caId=23703&tId=4)
 
-#### 45 👍 - Pro
+#### 54 👍 - Pro
 Testifying:
 * Ariane Schmidt - Broadlinc PDA of Spokane
+* Michael Echanove - CERB - Community Economic Revitalization Board
+* Mike Mason - CERB - Community Economic Revitalization Board
+* David Ripp - Port of Camas-Washougal
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

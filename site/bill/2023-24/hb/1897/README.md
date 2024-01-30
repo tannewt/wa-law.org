@@ -17,9 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=157963&caId=23702&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=157963&caId=23702&tId=4)
 
-#### 189 👍 - Pro
+#### 219 👍 - Pro
+Testifying:
+* Liv Finne - Washington Policy Center
+* Shane Martin - Seattle University
 
-#### 35 👎 - Con
+#### 46 👎 - Con
 Testifying:
 * Kristiana de Leon
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/26/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Committee Passes Legislation Empowering H-2A Workers – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/26/legislative-news-committee-passes-legislation-empowering-h-2a-workers/#:~:text=House%20Bill%202226)

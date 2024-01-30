@@ -15,6 +15,8 @@
 
 ## [HB 2390](/bill/2023-24/hb/2390/) - Eluding & resisting arrest 👍1  
 
+## [HB 2474](/bill/2023-24/hb/2474/) - Concerning compliance with siting requirements for transitional housing, permanent supportive housing, indoor emergency shelters, and indoor emergency housing.  👎1 
+
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing  👎1 
 * 👎 Katrina Knutson
 

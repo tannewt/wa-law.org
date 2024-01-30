@@ -14,12 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157989&caId=23730&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157989&caId=23730&tId=4)
 
-#### 4 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Dana Christiansen - Washington Childcare Center Association
+* John Otto - Small Faces Child Development Center
+* Kim Pressel - Midlands Kiddie Korral Inc.
 
 #### 1 👎 - Con
 Testifying:
 * Tiffany Speir - [City of Lakewood](/org/city_of_lakewood/)
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Erika Snell - Around The Clock Child Care Center Inc.
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)

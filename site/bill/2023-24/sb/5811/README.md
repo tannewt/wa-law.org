@@ -8,17 +8,15 @@
 
 ## Meetings
 ### Mon 01/29 04:00 PM - Ways & Means (WM): SB 5811 Individual providers/family
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158147&caId=23653&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158147&caId=23653&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158147&caId=23653&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158147&caId=23653&tId=4)
-
-#### 33 👍 - Pro
+#### 62 👍 - Pro
+Testifying:
+* Catherine Kinnaman - Dept. of Social and Health Services Aging and Long-Term Supports Administration (DSHS ALTSA)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* De Anna Winterrose - Benton County Parent Coalition
 
 ### Tue 01/16 08:00 AM - Health & Long Term Care (HLTC): SB 5811 Individual providers/family
 #### 24 👍 - Pro

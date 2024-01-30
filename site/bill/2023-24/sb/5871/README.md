@@ -12,13 +12,9 @@
 
 ## Meetings
 ### Mon 01/29 04:00 PM - Ways & Means (WM): SSB 5871 Definition of veteran
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158149&caId=23655&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158149&caId=23655&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158149&caId=23655&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158149&caId=23655&tId=4)
-
-#### 3 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Rory Paine-Donovan - Attorney General's Office
 
 #### 0 👎 - Con
 

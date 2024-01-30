@@ -11,6 +11,10 @@
 ## [HB 2329](/bill/2023-24/hb/2329/) - Insurance market/housing 👍2  
 * 👍 Flo Beaumon
 
+## [HB 2351](/bill/2023-24/hb/2351/) - Essential worker health care 👍1  
+
+## [HB 2474](/bill/2023-24/hb/2474/) - Concerning compliance with siting requirements for transitional housing, permanent supportive housing, indoor emergency shelters, and indoor emergency housing. 👍1  
+
 ## [SB 5716](/bill/2023-24/sb/5716/) - In-home services surveys 👍1  
 * 👍 Peter Nazzal
 

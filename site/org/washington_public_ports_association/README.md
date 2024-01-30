@@ -126,7 +126,7 @@
 ## [HB 1982](/bill/2023-24/hb/1982/) - Broadband loans & grants 👍1  
 * 👍 Chris Herman
 
-## [HB 1987](/bill/2023-24/hb/1987/) - Concerning the use of moneys from the rural public facilities sales and use tax for affordable workforce housing infrastructure and facilities.   ❓1
+## [HB 1987](/bill/2023-24/hb/1987/) - Concerning the use of moneys from the rural public facilities sales and use tax for affordable workforce housing infrastructure and facilities.   ❓2
 * ❓ Chris Herman
 
 ## [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍1  
@@ -253,6 +253,9 @@
 ## [SB 5955](/bill/2023-24/sb/5955/) - Large port districts  👎1 
 * 👎 Eric ffitch
 
+## [SB 5990](/bill/2023-24/sb/5990/) - Env. justice/SEPA projects   ❓1
+* ❓💵 Carly Michiels
+
 ## [SB 6040](/bill/2023-24/sb/6040/) - Public works payments   ❓1
 * ❓ Chris Herman
 
@@ -260,6 +263,8 @@
 * ❓💵 Carly Michiels
 
 ## [SB 6055](/bill/2023-24/sb/6055/) - Natural resource indus. dev. 👍1  
+
+## [SB 6080](/bill/2023-24/sb/6080/) - Tourism marketing funding 👍1  
 
 ## [SB 6168](/bill/2023-24/sb/6168/) - International leadership 👍1  
 

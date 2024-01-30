@@ -151,7 +151,7 @@
 ## [HB 1951](/bill/2023-24/hb/1951/) - Algorithmic discrimination  👎1 
 * 👎💵 Crystal Leatherman
 
-## [HB 1959](/bill/2023-24/hb/1959/) - Extending parts of the paid family and medical leave program to employers with fewer than 50 employees.  👎1 
+## [HB 1959](/bill/2023-24/hb/1959/) - PFML/small employers  👎1 
 * 👎 Bruce K Beckett
 
 ## [HB 1991](/bill/2023-24/hb/1991/) - Paid sick leave  👎1 
@@ -333,7 +333,8 @@
 * 👍💵 Mark Johnson
 * ❓💵 Mark Johnson
 
-## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍1  
+## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍2  
+* 👍💵 Crystal Leatherman
 * 👍💵 Crystal Leatherman
 
 ## [SB 5776](/bill/2023-24/sb/5776/) - Insulin emergency supply   ❓1
@@ -360,6 +361,8 @@
 
 ## [SB 5897](/bill/2023-24/sb/5897/) - Modifying provisions of the business licensing service program. 👍1  
 * 👍💵 Mark Johnson
+
+## [SB 5932](/bill/2023-24/sb/5932/) - Temporary total disability  👎1 
 
 ## [SB 5958](/bill/2023-24/sb/5958/) - Career skills grant program 👍1  
 * 👍 Rose GUNDERSEN

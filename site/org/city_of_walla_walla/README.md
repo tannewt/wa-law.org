@@ -13,9 +13,14 @@
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 * 👍 Elizabeth Chamberlain
 
+## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg. 👍1  
+
 ## [HB 2307](/bill/2023-24/hb/2307/) - Public records reviews 👍1  
 
 ## [HB 2354](/bill/2023-24/hb/2354/) - Tax increment areas  👎2 
+
+## [HB 2428](/bill/2023-24/hb/2428/) - Sales and use tax sharing 👍1  
+* 👍 Elizabeth Chamberlain
 
 ## [HB 2474](/bill/2023-24/hb/2474/) - Concerning compliance with siting requirements for transitional housing, permanent supportive housing, indoor emergency shelters, and indoor emergency housing.  👎1 
 

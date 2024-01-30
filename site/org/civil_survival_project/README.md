@@ -27,7 +27,7 @@
 
 ## [HB 1640](/bill/2023-24/hb/1640/) - Pardons and commutations 👍2  
 
-## [HB 1798](/bill/2023-24/hb/1798/) - Earned release time 👍2  
+## [HB 1798](/bill/2023-24/hb/1798/) - Earned release time 👍4  
 
 ## [HB 2001](/bill/2023-24/hb/2001/) - Sentence modification 👍2  
 * 👍💵 Kelly Olson
@@ -39,7 +39,7 @@
 
 ## [HB 2084](/bill/2023-24/hb/2084/) - Establishing an oversight committee to improve construction-related training and pathways to state registered apprenticeships in state correctional facilities. 👍1  
 
-## [HB 2099](/bill/2023-24/hb/2099/) - State custody/ID cards 👍3  
+## [HB 2099](/bill/2023-24/hb/2099/) - State custody/ID cards 👍4  
 * 👍💵 Kelly Olson
 
 ## [HB 2171](/bill/2023-24/hb/2171/) - Incarcerated students 👍1  
@@ -63,7 +63,7 @@
 
 ## [SB 5474](/bill/2023-24/sb/5474/) - Juvenile justice 👍1  
 
-## [SB 5893](/bill/2023-24/sb/5893/) - Gate money/early release 👍1  
+## [SB 5893](/bill/2023-24/sb/5893/) - Gate money/early release 👍2  
 
 ## [SB 5912](/bill/2023-24/sb/5912/) - Reentry services & supports 👍2  
 
@@ -73,7 +73,7 @@
 
 ## [SB 5998](/bill/2023-24/sb/5998/) - Nonfelony convict. vacation 👍1  
 
-## [SB 6021](/bill/2023-24/sb/6021/) - Correctional fees & expenses 👍2  
+## [SB 6021](/bill/2023-24/sb/6021/) - Correctional fees & expenses 👍3  
 
 ## [SB 6189](/bill/2023-24/sb/6189/) - Jail system 👍2  
 * 👍💵 Anthony Blankenship

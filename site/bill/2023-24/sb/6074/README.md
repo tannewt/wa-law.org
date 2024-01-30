@@ -14,8 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157970&caId=23663&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157970&caId=23663&tId=4)
 
-#### 9 👍 - Pro
+#### 41 👍 - Pro
+Testifying:
+* Demitu Argo - Family of Amare Geda
+* Michael Wolfe - [Drive Forward](/org/drive_forward/)
+* Anwar Abdella
+* Khadija Mohamed
+* Mohamud Adan - Driver Union
 
-#### 0 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Robert (Bob) Battles - Association of Washington Business (AWB)
+* Ahmed Mumin - The Seattle Rideshare Drivers Association
+* Ahmed Mumin - The Seattle Rideshare Drivers Association
 
 #### 0 ❓ - Other

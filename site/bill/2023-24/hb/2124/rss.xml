@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2124/</link>
 		<description>Updates about HB 2124</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 17 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 29 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -83,6 +83,20 @@
 			<pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-17/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Health Care &amp; Wellness.</title>
+			<description>First reading, referred to Health Care &amp; Wellness.</description>
+			<pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-29/First reading, referred to Health Care &amp; Wellness.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Labor &amp; Commerce.</title>
+			<description>First reading, referred to Labor &amp; Commerce.</description>
+			<pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-29/First reading, referred to Labor &amp; Commerce.</guid>
 		</item>
 	</channel>
 </rss>

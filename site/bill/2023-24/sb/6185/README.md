@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31805&aId=158131&caId=23673&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31805&aId=158131&caId=23673&tId=4)
 
-#### 22 👍 - Pro
+#### 89 👍 - Pro
 Testifying:
 * Joe Kunzler
 * Harry Kiick
@@ -28,6 +28,8 @@ Testifying:
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
 * Lindsey Schromen-Wawrin, - Port Angeles City Councilmember
 
-#### 0 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* Tim Eyman - Initiative Activist
 
 #### 0 ❓ - Other

@@ -8,17 +8,12 @@
 
 ## Meetings
 ### Mon 01/29 10:30 AM - Labor & Commerce (LC): SB 6299 Employees/digital technology
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31852&aId=157969&caId=23643&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31852&aId=157969&caId=23643&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31852&aId=157969&caId=23643&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31852&aId=157969&caId=23643&tId=4)
+#### 47 👍 - Pro
 
-#### 34 👍 - Pro
-
-#### 4 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * 💵Crystal Leatherman
 * Robert (Bob) Battles - Association of Washington Business (AWB)
+* Montana Miranda - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
 #### 0 ❓ - Other

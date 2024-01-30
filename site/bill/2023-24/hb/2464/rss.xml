@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2464/</link>
 		<description>Updates about HB 2464</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 28 Jan 2024 06:19:03 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 29 Jan 2024 11:46:23 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -101,6 +101,22 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Bryce/Yadon/2024-01-28 06:19:03</guid>
+		</item>
+		<item>
+			<title>👍Morgan Irwin - Association of Washington Business</title>
+			<description>Morgan Irwin signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/association_of_washington_business/&quot;&gt;Association of Washington Business&lt;/a&gt;.</description>
+			<pubDate>Mon, 29 Jan 2024 09:11:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Morgan/Irwin/2024-01-29 09:11:35</guid>
+		</item>
+		<item>
+			<title>❓💵Paul Jewell - Washington State Association of Counties</title>
+			<description>Paul Jewell signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_state_association_of_counties/&quot;&gt;Washington State Association of Counties&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 29 Jan 2024 11:46:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Paul/Jewell/2024-01-29 11:46:23</guid>
 		</item>
 	</channel>
 </rss>

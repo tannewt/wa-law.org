@@ -86,5 +86,5 @@
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
 
-## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍1  
+## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍3  
 * 👍💵 Jazmine Smith

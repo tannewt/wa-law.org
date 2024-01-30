@@ -22,11 +22,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158360&caId=23767&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158360&caId=23767&tId=4)
 
-#### 105 👍 - Pro
+#### 302 👍 - Pro
+Testifying:
+* Kate Bailey - The Association of Plastic Recyclers (APR)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Scott DeFife - Glass Packaging Institute
 
 ### Tue 01/09 04:00 PM - Environment & Energy (ENVI): HB 2049 Solid waste management
 #### 789 👍 - Pro

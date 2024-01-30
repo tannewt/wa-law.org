@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31878&aId=158216&caId=23738&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31878&aId=158216&caId=23738&tId=4)
 
-#### 18 👍 - Pro
+#### 29 👍 - Pro
+Testifying:
+* Babs Roberts - Department of Social and Health Services, Economic Services Administration
 
 #### 0 👎 - Con
 

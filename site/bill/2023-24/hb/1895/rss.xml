@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1895/</link>
 		<description>Updates about HB 1895</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 23 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 29 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -65,6 +65,13 @@
 			<pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-23/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.</title>
+			<description>Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.</description>
+			<pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-29/Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.</guid>
 		</item>
 	</channel>
 </rss>

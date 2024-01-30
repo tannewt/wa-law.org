@@ -118,7 +118,7 @@
 
 ## [HB 1240](/bill/2023-24/hb/1240/) - Firearms/assault weapons 👍2  
 
-## [HB 1241](/bill/2023-24/hb/1241/) - Harassment 👍1  
+## [HB 1241](/bill/2023-24/hb/1241/) - Harassment 👍2  
 
 ## [HB 1242](/bill/2023-24/hb/1242/) - Behavioral health work group 👍1  
 
@@ -238,7 +238,7 @@
 ## [HB 1515](/bill/2023-24/hb/1515/) - Behavioral health contracts 👍4  
 * 👍 Kelly Rider
 
-## [HB 1530](/bill/2023-24/hb/1530/) - Law enf. employ. eligibility 👍1  
+## [HB 1530](/bill/2023-24/hb/1530/) - Law enf. employ. eligibility 👍2  
 
 ## [HB 1531](/bill/2023-24/hb/1531/) - Aerospace industry dev. 👍1  
 
@@ -358,6 +358,8 @@
 ## [HB 2111](/bill/2023-24/hb/2111/) - Subsidized child care 👍1  
 
 ## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍2  
+
+## [HB 2129](/bill/2023-24/hb/2129/) - Geothermal energy resources 👍1  
 
 ## [HB 2134](/bill/2023-24/hb/2134/) - Transportation budget, supp.   ❓1
 * ❓💵 Michael White
@@ -685,16 +687,18 @@
 
 ## [SB 5821](/bill/2023-24/sb/5821/) - Audio-only telemedicine 👍1  
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
 * 👍 Sarah Perry
 
-## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍1  
+## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍2  
 
 ## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD 👍1  
 
 ## [SB 5933](/bill/2023-24/sb/5933/) - Infants and toddlers program 👍1  
 
 ## [SB 5941](/bill/2023-24/sb/5941/) - Subsidized child care 👍1  
+
+## [SB 5943](/bill/2023-24/sb/5943/) - Resource data tool 👍1  
 
 ## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp.   ❓1
 * ❓💵 Michael White
@@ -704,6 +708,10 @@
 
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
 * ❓💵 Michael White
+
+## [SB 5963](/bill/2023-24/sb/5963/) - Deadly weapons insurance 👍1  
+
+## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  
 
 ## [SB 5983](/bill/2023-24/sb/5983/) - Syphilis treat. supervision 👍1  
 
@@ -719,6 +727,8 @@
 ## [SB 6163](/bill/2023-24/sb/6163/) - Biosolids 👍1  
 
 ## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management 👍1  
+
+## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍1  
 
 ## [SB 6210](/bill/2023-24/sb/6210/) - Unlawful detainer actions 👍1  
 

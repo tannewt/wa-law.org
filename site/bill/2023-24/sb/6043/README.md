@@ -8,18 +8,14 @@
 
 ## Meetings
 ### Mon 01/29 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 6043 Recreational use fees
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31821&aId=158069&caId=23645&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31821&aId=158069&caId=23645&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31821&aId=158069&caId=23645&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31821&aId=158069&caId=23645&tId=4)
-
-#### 19 👍 - Pro
+#### 43 👍 - Pro
 Testifying:
 * Nathaniel Rees - The Mountaineers
 * Eric Brown - Whatcom Mountain Bike Coalition
 * philip wolff
 * philip wolff
+* Yvonne Kraus - [Evergreen Mountain Bike Alliance](/org/evergreen_mountain_bike_alliance/)
+* Andrea Martin - [Department of Natural Resources](/org/department_of_natural_resources/)
 
 #### 1 👎 - Con
 

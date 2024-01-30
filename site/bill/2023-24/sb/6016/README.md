@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/16 01:30 PM - Environment, Energy & Technology (ENET): SB 6016 Green energy community fund

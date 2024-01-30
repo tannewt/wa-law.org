@@ -59,3 +59,5 @@
 ## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍2  
 
 ## [SB 6220](/bill/2023-24/sb/6220/) - High THC cannabis products 👍1  
+
+## [SB 6267](/bill/2023-24/sb/6267/) - DD parental caregivers 👍1  

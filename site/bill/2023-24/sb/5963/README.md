@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/29 10:30 AM - Law & Justice (LAW): SB 5963 Deadly weapons insurance
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31787&aId=157454&caId=23637&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31787&aId=157454&caId=23637&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31787&aId=157454&caId=23637&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31787&aId=157454&caId=23637&tId=4)
-
-#### 573 👍 - Pro
+#### 786 👍 - Pro
 Testifying:
 * Bryon Welch - Office of the Insurance Commissioner
 * Craig Reynolds
@@ -26,7 +20,7 @@ Testifying:
 * Diane Studley
 * Jeannie Shu
 
-#### 819 👎 - Con
+#### 1179 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * eric pratt
@@ -40,5 +34,9 @@ Testifying:
 * Ronald Guidry
 * Jonathan Nelson
 * Robert Dickenson
+* MITCH CANTU
+* Amanda McKinney - Yakima County
+* Michael Easton
+* Ralph Rieger
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

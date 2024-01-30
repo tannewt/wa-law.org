@@ -14,13 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31834&aId=158092&caId=23732&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31834&aId=158092&caId=23732&tId=4)
 
-#### 35 👍 - Pro
+#### 96 👍 - Pro
 Testifying:
 * 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
 * Rory O'Sullivan - [King County Bar Association](/org/king_county_bar_association/)
+* Benjamin Byers
+* Toby Thaler
+* 💵Lisa Ayrault - FairVote Washington
 
-#### 251 👎 - Con
+#### 1217 👎 - Con
+Testifying:
+* Laurie Layne
+* Tim Eyman - Initiative Activist
+* Theresa Schrempp
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
+* eric pratt

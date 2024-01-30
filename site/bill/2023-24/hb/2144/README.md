@@ -19,9 +19,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31808&aId=158123&caId=23716&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31808&aId=158123&caId=23716&tId=4)
 
-#### 161 👍 - Pro
+#### 206 👍 - Pro
 
-#### 2 👎 - Con
+#### 23 👎 - Con
 Testifying:
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
 

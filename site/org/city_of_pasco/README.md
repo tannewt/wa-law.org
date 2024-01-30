@@ -10,6 +10,8 @@
 ## [HB 1527](/bill/2023-24/hb/1527/) - Tax increment financing 👍2  
 * 👍💵 Briahna Murray
 
+## [HB 1530](/bill/2023-24/hb/1530/) - Law enf. employ. eligibility 👍1  
+
 ## [HB 1870](/bill/2023-24/hb/1870/) - Promoting economic development by increasing opportunities for local communities to secure federal funding. 👍1  
 * 👍 Richa Sigdel
 

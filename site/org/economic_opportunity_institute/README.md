@@ -54,7 +54,7 @@
 ## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍1  
 * 👍💵 Gabriela Quintana
 
-## [HB 1959](/bill/2023-24/hb/1959/) - Extending parts of the paid family and medical leave program to employers with fewer than 50 employees. 👍1  
+## [HB 1959](/bill/2023-24/hb/1959/) - PFML/small employers 👍1  
 
 ## [HB 1991](/bill/2023-24/hb/1991/) - Paid sick leave 👍1  
 
@@ -123,9 +123,15 @@
 
 ## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
 
+## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
+
+## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍1  
+
+## [SB 5999](/bill/2023-24/sb/5999/) - Financial aid eligibility 👍1  
+
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
 
-## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍1  
+## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍2  
 
 ## [SB 6258](/bill/2023-24/sb/6258/) - Standardized health plans 👍1  
 * 👍 Sam Hatzenbeler

@@ -17,12 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158151&caId=23678&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158151&caId=23678&tId=4)
 
-#### 33 👍 - Pro
+#### 54 👍 - Pro
 Testifying:
 * 💵Joel Anderson - Washington Student Achievement Council
 * Cher Aguilar Henriquez
+* Liz Trautman - High School Success Coalition
+* Jacob Vigdor - University of Washington Faculty
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

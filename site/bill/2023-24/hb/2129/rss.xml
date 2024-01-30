@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2129/</link>
 		<description>Updates about HB 2129</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 26 Jan 2024 20:36:55 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 29 Jan 2024 12:15:24 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -51,6 +51,46 @@
 			<pubDate>Fri, 26 Jan 2024 20:36:55 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-29-feb-2-2024/#:~:text=HB%202129</guid>
+		</item>
+		<item>
+			<title>👍Casey Hanell - Department of Natural Resources</title>
+			<description>Casey Hanell signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/department_of_natural_resources/&quot;&gt;Department of Natural Resources&lt;/a&gt;.</description>
+			<pubDate>Mon, 29 Jan 2024 09:15:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Casey/Hanell/2024-01-29 09:15:07</guid>
+		</item>
+		<item>
+			<title>👍💵Scott Hazlegrove - Whatcom PUD</title>
+			<description>Scott Hazlegrove signed up to testify Pro. They are signed up to represent Whatcom PUD. They are a registered lobbyist.</description>
+			<pubDate>Mon, 29 Jan 2024 09:21:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Scott/Hazlegrove/2024-01-29 09:21:51</guid>
+		</item>
+		<item>
+			<title>👍💵Nicolas Garcia - WPUDA</title>
+			<description>Nicolas Garcia signed up to testify Pro. They are signed up to represent WPUDA. They are a registered lobbyist.</description>
+			<pubDate>Mon, 29 Jan 2024 10:32:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Nicolas/Garcia/2024-01-29 10:32:06</guid>
+		</item>
+		<item>
+			<title>👍RoseMary LaClair - Chair, Nooksack Indian Tribe</title>
+			<description>RoseMary LaClair signed up to testify Pro. They are signed up to represent Chair, Nooksack Indian Tribe.</description>
+			<pubDate>Mon, 29 Jan 2024 11:38:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/RoseMary/LaClair/2024-01-29 11:38:13</guid>
+		</item>
+		<item>
+			<title>👍Ben Serrurier - Fervo Energy</title>
+			<description>Ben Serrurier signed up to testify Pro. They are signed up to represent Fervo Energy.</description>
+			<pubDate>Mon, 29 Jan 2024 12:15:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ben/Serrurier/2024-01-29 12:15:24</guid>
 		</item>
 	</channel>
 </rss>

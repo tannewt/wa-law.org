@@ -8,17 +8,12 @@
 
 ## Meetings
 ### Mon 01/29 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 6011 Tribal interlocal agreements
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31821&aId=158068&caId=23644&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31821&aId=158068&caId=23644&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31821&aId=158068&caId=23644&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31821&aId=158068&caId=23644&tId=4)
-
-#### 3 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Kadi Bizyayeva - [Stillaguamish Tribe of Indians](/org/stillaguamish_tribe_of_indians/)
+* Jayanna Marshall - [Department of Natural Resources](/org/department_of_natural_resources/)
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * John Worthington
 

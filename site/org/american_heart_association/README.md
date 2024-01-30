@@ -22,3 +22,7 @@
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
 
 ## [SB 5365](/bill/2023-24/sb/5365/) - Vapor and tobacco/minors 👍1  
+
+## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍2  
+
+## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍1  

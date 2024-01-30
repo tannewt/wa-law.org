@@ -18,11 +18,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158270&caId=23748&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158270&caId=23748&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 01/18 08:00 AM - Human Services (HS): SB 5943 Resource data tool
 #### 38 👍 - Pro

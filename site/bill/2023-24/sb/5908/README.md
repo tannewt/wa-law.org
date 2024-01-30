@@ -9,20 +9,18 @@
 
 ## Meetings
 ### Mon 01/29 04:00 PM - Ways & Means (WM): SSB 5908 Extended foster care
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158142&caId=23648&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158142&caId=23648&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158142&caId=23648&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158142&caId=23648&tId=4)
-
-#### 137 👍 - Pro
+#### 195 👍 - Pro
 Testifying:
 * 💵Alex Hur - A Way Home Washington
 * Lelach Rave - WA Chapter of the American Academy of Pediatrics
 * Tai Tave
 * Jim Theofelis - NorthStar Advocates
+* Emiko Tajima - Director, Partners for Our Children  University of Washington  School of Social Work
+* Tara Urs - King County Dept. of Public Defense
+* Deonate Cruz - A Way Home Washington
+* Crystal Shen - Washington Chapter of the American Academy of Pediatrics
 
-#### 1 👎 - Con
+#### 13 👎 - Con
 
 #### 0 ❓ - Other
 

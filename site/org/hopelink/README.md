@@ -53,6 +53,8 @@
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
 
+## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍1  
+
 ## [HB 1693](/bill/2023-24/hb/1693/) - Student homelessness pilot 👍1  
 
 ## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce 👍1  
@@ -91,6 +93,8 @@
 ## [HB 2323](/bill/2023-24/hb/2323/) - Rent payments/credit reports 👍1  
 
 ## [HB 2346](/bill/2023-24/hb/2346/) - Health disparities council 👍1  
+
+## [HB 2415](/bill/2023-24/hb/2415/) - Economic assistance/TANF 👍1  
 
 ## [SB 5028](/bill/2023-24/sb/5028/) - Name changes 👍1  
 
@@ -156,6 +160,10 @@
 
 ## [SB 6136](/bill/2023-24/sb/6136/) - Rental property B&O tax 👍1  
 
+## [SB 6185](/bill/2023-24/sb/6185/) - PTBA governing body members 👍1  
+
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍2 👎1 
+
+## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍1  
 
 ## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍1  

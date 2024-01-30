@@ -126,6 +126,9 @@
 ## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands. 👍2  
 * 👍💵 Darcy Nonemacher
 
+## [SB 5990](/bill/2023-24/sb/5990/) - Env. justice/SEPA projects 👍1  
+* 👍💵 Darcy Nonemacher
+
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
 
 ## [SB 6029](/bill/2023-24/sb/6029/) - Detached ADUs  👎1 

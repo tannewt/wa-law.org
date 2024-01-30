@@ -19,11 +19,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158011&caId=23704&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158011&caId=23704&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Jamie Spinelli - Homeless Response Manager, City of Vancouver
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Arlen Harris - State Board for Community and Technical Colleges
+* Dr. Karin Edwards - Clark College
+* Dr. Kevin Brockbank - Community Colleges of Spokane
 
 #### 0 ❓ - Other
 

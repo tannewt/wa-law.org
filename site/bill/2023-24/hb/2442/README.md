@@ -14,8 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158013&caId=23706&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158013&caId=23706&tId=4)
 
-#### 0 👍 - Pro
+#### 27 👍 - Pro
+Testifying:
+* Josh Harris
+* Karen Shuey
+* Michael Wray
+* Steve Williams
 
-#### 31 👎 - Con
+#### 96 👎 - Con
+Testifying:
+* Katherine DeRosier
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

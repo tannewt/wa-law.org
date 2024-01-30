@@ -13,7 +13,7 @@
 
 ## [HB 1957](/bill/2023-24/hb/1957/) - Preventive service coverage 👍1  
 
-## [HB 1959](/bill/2023-24/hb/1959/) - Extending parts of the paid family and medical leave program to employers with fewer than 50 employees. 👍1  
+## [HB 1959](/bill/2023-24/hb/1959/) - PFML/small employers 👍1  
 
 ## [HB 2119](/bill/2023-24/hb/2119/) - Medical debt garnishment 👍1  
 * 👍💵 Adam Zarrin

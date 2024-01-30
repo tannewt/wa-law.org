@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/29 10:30 AM - Human Services (HS): SB 6171 Criminal justice/child care
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31845&aId=157931&caId=23633&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31845&aId=157931&caId=23633&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31845&aId=157931&caId=23633&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31845&aId=157931&caId=23633&tId=4)
-
-#### 6 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Tanya Wollstein - Vancouver Police Department
@@ -23,6 +17,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Michael Transue - WA Fraternal Order of Police

@@ -14,3 +14,6 @@
 * 👎 Yvonne Kraus
 
 ## [SB 5785](/bill/2023-24/sb/5785/) - WDFW/volunteer organizations 👍1  
+
+## [SB 6043](/bill/2023-24/sb/6043/) - Recreational use fees 👍1  
+* 👍 Yvonne Kraus

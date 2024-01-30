@@ -447,6 +447,9 @@
 ## [HB 2425](/bill/2023-24/hb/2425/) - Rental support program   ❓1
 * ❓ Morgan Irwin
 
+## [HB 2464](/bill/2023-24/hb/2464/) - Concerning the development of new manufactured/mobile homes and new manufactured/mobile home communities. 👍1  
+* 👍 Morgan Irwin
+
 ## [SB 5041](/bill/2023-24/sb/5041/) - Motor carrier safety 👍1  
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍2  
@@ -652,7 +655,7 @@
 
 ## [SB 5765](/bill/2023-24/sb/5765/) - I-5 bridge tolling 👍1  
 
-## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍1  
+## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍2  
 
 ## [SB 5776](/bill/2023-24/sb/5776/) - Insulin emergency supply  👎1 
 * 👎💵 Emily Wittman
@@ -701,6 +704,9 @@
 * 👎 Morgan Irwin
 
 ## [SB 5965](/bill/2023-24/sb/5965/) - Fashion/environmental impact  👎1 
+* 👎💵 Peter Godlewski
+
+## [SB 5990](/bill/2023-24/sb/5990/) - Env. justice/SEPA projects  👎1 
 * 👎💵 Peter Godlewski
 
 ## [SB 5999](/bill/2023-24/sb/5999/) - Financial aid eligibility 👍1  

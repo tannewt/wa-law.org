@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1982/</link>
 		<description>Updates about HB 1982</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 26 Jan 2024 20:36:55 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 29 Jan 2024 11:35:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -126,6 +126,30 @@
 			<pubDate>Fri, 26 Jan 2024 20:36:55 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-29-feb-2-2024/#:~:text=HB%201982</guid>
+		</item>
+		<item>
+			<title>👍Michael Echanove - CERB - Community Economic Revitalization Board</title>
+			<description>Michael Echanove signed up to testify Pro. They are signed up to represent CERB - Community Economic Revitalization Board.</description>
+			<pubDate>Mon, 29 Jan 2024 05:38:08 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Michael/Echanove/2024-01-29 05:38:08</guid>
+		</item>
+		<item>
+			<title>👍Mike Mason - CERB - Community Economic Revitalization Board</title>
+			<description>Mike Mason signed up to testify Pro. They are signed up to represent CERB - Community Economic Revitalization Board.</description>
+			<pubDate>Mon, 29 Jan 2024 05:38:08 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mike/Mason/2024-01-29 05:38:08</guid>
+		</item>
+		<item>
+			<title>👍David Ripp - Port of Camas-Washougal</title>
+			<description>David Ripp signed up to testify Pro. They are signed up to represent Port of Camas-Washougal.</description>
+			<pubDate>Mon, 29 Jan 2024 11:35:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/David/Ripp/2024-01-29 11:35:27</guid>
 		</item>
 	</channel>
 </rss>

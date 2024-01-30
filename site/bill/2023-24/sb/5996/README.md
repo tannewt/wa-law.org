@@ -8,18 +8,14 @@
 
 ## Meetings
 ### Mon 01/29 10:30 AM - Labor & Commerce (LC): SB 5996 H-2A worker program data
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31852&aId=157968&caId=23642&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31852&aId=157968&caId=23642&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31852&aId=157968&caId=23642&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31852&aId=157968&caId=23642&tId=4)
-
-#### 21 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * Elizabeth Strater - United Farm Workers
 * 💵Andrea Schmitt - [Columbia Legal Services](/org/columbia_legal_services/)
+* Benito Lopez - Familias Unidas por la Justicia
+* Rosalinda Guillen - Community to Community Development Projects
 
-#### 37 👎 - Con
+#### 55 👎 - Con
 Testifying:
 * Nora Palattao Burnes - [Washington Growers League](/org/washington_growers_league/)
 * 💵Scott Dilley - [Wafla](/org/wafla/)

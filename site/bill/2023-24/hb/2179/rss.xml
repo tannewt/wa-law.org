@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2179/</link>
 		<description>Updates about HB 2179</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 26 Jan 2024 20:36:55 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 29 Jan 2024 11:30:24 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -50,6 +50,22 @@
 			<pubDate>Fri, 26 Jan 2024 20:36:55 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-29-feb-2-2024/#:~:text=HB%202179</guid>
+		</item>
+		<item>
+			<title>👎💵Allison Krutsinger - Dept of Children, Youth, and Families</title>
+			<description>Allison Krutsinger signed up to testify Con. They are signed up to represent Dept of Children, Youth, and Families. They are a registered lobbyist.</description>
+			<pubDate>Mon, 29 Jan 2024 08:02:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Allison/Krutsinger/2024-01-29 08:02:39</guid>
+		</item>
+		<item>
+			<title>❓💵Jaime Bodden - Washington State Association of Counties</title>
+			<description>Jaime Bodden signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_state_association_of_counties/&quot;&gt;Washington State Association of Counties&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 29 Jan 2024 11:30:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jaime/Bodden/2024-01-29 11:30:24</guid>
 		</item>
 	</channel>
 </rss>

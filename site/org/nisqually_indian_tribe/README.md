@@ -31,6 +31,8 @@
 ## [HB 2293](/bill/2023-24/hb/2293/) - Avian predation/salmon 👍1  
 * 👍 David Troutt
 
+## [HB 2429](/bill/2023-24/hb/2429/) - Energy facility eval process 👍1  
+
 ## [SB 5324](/bill/2023-24/sb/5324/) - Defense compatibility acct. 👍3  
 
 ## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍1  

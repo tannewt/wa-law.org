@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158266&caId=23744&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158266&caId=23744&tId=4)
 
-#### 16 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Dana Ralph - City of Kent - Mayor
 * Brian Carson - Puget Sound Regional Fire Authority - Chief
@@ -26,7 +26,8 @@ Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Eric Holmes - City Manager, City of Vancouver
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Councilmember Megan Dunn - Snohomish County Executive and Council
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

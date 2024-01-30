@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Mon 01/29 10:30 AM - Law & Justice (LAW): SHB 1241 Harassment
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31787&aId=157614&caId=23638&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31787&aId=157614&caId=23638&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31787&aId=157614&caId=23638&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31787&aId=157614&caId=23638&tId=4)
-
-#### 440 👍 - Pro
+#### 565 👍 - Pro
 Testifying:
 * Mary Hall - Washington Association of County Auditors (WSACA)
 * Carolyn Fundingsland - Washington State Association of County Auditors (WSACA)
@@ -28,10 +22,12 @@ Testifying:
 * Cindy Madigan - League of Women Voters of Washington
 * Lori Larsen - President, Washington Association of County Auditors
 * Linda Farmer - Pierce County Auditor's Office
+* Carolyn Fundingsland - WSACA - Washington State Association of County Auditors
 
-#### 319 👎 - Con
+#### 429 👎 - Con
 Testifying:
 * Teo Morca
+* Julie Barrett - Conservative Ladies of Washington
 
 #### 0 ❓ - Other
 

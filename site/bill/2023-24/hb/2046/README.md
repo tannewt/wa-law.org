@@ -17,10 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31878&aId=158214&caId=23736&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31878&aId=158214&caId=23736&tId=4)
 
-#### 2 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Jen Sandvig - Sagebrush Montessori
 
-#### 3 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* Susan Lee - Child Care Provider
+* 💵Allison Krutsinger - Dept of Children, Youth, and Families
 
 #### 0 ❓ - Other

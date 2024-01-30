@@ -141,6 +141,8 @@
 
 ## [HB 2365](/bill/2023-24/hb/2365/) - Respite care 👍1  
 
+## [HB 2415](/bill/2023-24/hb/2415/) - Economic assistance/TANF 👍1  
+
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 
 ## [SB 5097](/bill/2023-24/sb/5097/) - Rare diseases adv. council 👍2  

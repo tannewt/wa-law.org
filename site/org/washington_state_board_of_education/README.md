@@ -189,6 +189,8 @@
 
 ## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍1  
 
+## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  
+
 ## [SB 6012](/bill/2023-24/sb/6012/) - Teacher preparation programs 👍1  
 * 👍 Alissa Muller
 

@@ -1,8 +1,8 @@
 # Pacific Whale Watch Association
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍1  
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍2  
 
-## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg. 👍1  
+## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg. 👍2  
 
 ## [SB 5371](/bill/2023-24/sb/5371/) - Orca vessel protection   ❓2
 * ❓ Erin Gless

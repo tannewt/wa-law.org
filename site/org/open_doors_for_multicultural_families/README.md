@@ -44,6 +44,8 @@
 
 ## [HB 2368](/bill/2023-24/hb/2368/) - Refugee & immigrant assist. 👍2  
 
+## [SB 5811](/bill/2023-24/sb/5811/) - Expanding the definition of family member for individual providers. 👍2  
+
 ## [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation 👍2 👎2 
 * 👍 Khalid Sirad
 * 👍 Peter Musante
@@ -52,7 +54,7 @@
 * 👍 Khalid Sirad
 * 👍 Mahad Dahir
 
-## [SB 6126](/bill/2023-24/sb/6126/) - Respite care 👍1  
+## [SB 6126](/bill/2023-24/sb/6126/) - Respite care 👍3  
 * 👍 Moses Perez
 
 ## [SB 6276](/bill/2023-24/sb/6276/) - Digital electronics/repair 👍1  

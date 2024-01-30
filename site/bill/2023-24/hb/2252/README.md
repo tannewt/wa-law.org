@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/27/2024 [The Urbanist](/org/the_urbanist/) - [Legislature Advances Proposal Allowing Cafes in More Neighborhoods - The Urbanist](https://www.theurbanist.org/2024/01/27/legislature-advances-proposal-allowing-cafes-in-more-neighborhoods/#:~:text=House%20Bill%202252)

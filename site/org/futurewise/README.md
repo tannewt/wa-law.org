@@ -101,6 +101,12 @@
 ## [HB 2464](/bill/2023-24/hb/2464/) - Concerning the development of new manufactured/mobile homes and new manufactured/mobile home communities.  👎1 
 * 👎💵 Bryce Yadon
 
+## [HB 2468](/bill/2023-24/hb/2468/) - Concerning the siting of child care facilities.   ❓1
+* ❓💵 Bryce Yadon
+
+## [HB 2474](/bill/2023-24/hb/2474/) - Concerning compliance with siting requirements for transitional housing, permanent supportive housing, indoor emergency shelters, and indoor emergency housing. 👍1  
+* 👍💵 Bryce Yadon
+
 ## [SB 5027](/bill/2023-24/sb/5027/) - American dream homes  👎1 
 * 👎💵 Bryce Yadon
 

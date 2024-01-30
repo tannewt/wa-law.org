@@ -40,5 +40,8 @@
 
 ## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure  👎1 
 
+## [SB 6161](/bill/2023-24/sb/6161/) - Provider contract comp. 👍1  
+* 👍 Aaron Eastman
+
 ## [SB 6286](/bill/2023-24/sb/6286/) - Nurse anesthetist workforce   ❓1
 * ❓ Dee Bender

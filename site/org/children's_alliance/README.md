@@ -30,6 +30,8 @@
 
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍1  
 
+## [HB 1455](/bill/2023-24/hb/1455/) - Child marriage 👍1  
+
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍2  
 * 👍 Stephan Blanford
 
@@ -89,6 +91,13 @@
 ## [SB 5559](/bill/2023-24/sb/5559/) - Student restraint, isolation 👍1  
 
 ## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍2  
+
+## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍1  
+
+## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  
+
+## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍2  
+* 👍 Stephan Blanford
 
 ## [SB 6216](/bill/2023-24/sb/6216/) - Student mental health net. 👍1  
 * 👍 Stephan Blanford

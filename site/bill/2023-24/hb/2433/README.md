@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157988&caId=23729&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157988&caId=23729&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Bryan Kuykendall - Lewis County Parks & Recreation
+* Erika Snell - Around The Clock Child Care Center Inc.
 
 #### 0 👎 - Con
 

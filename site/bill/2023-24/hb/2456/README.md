@@ -8,21 +8,20 @@
 
 ## Meetings
 ### Mon 01/29 04:00 PM - Transportation (TR): HB 2456 Wildlife safe passages
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31829&aId=157982&caId=23735&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31829&aId=157982&caId=23735&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31829&aId=157982&caId=23735&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31829&aId=157982&caId=23735&tId=4)
-
-#### 50 👍 - Pro
+#### 347 👍 - Pro
 Testifying:
 * 💵Marie Neumiller - Congressional Sportsmen’s Foundation
 * Julia Michalak - WDFW
 * 💵Paula Swedeen - [Conservation Northwest](/org/conservation_northwest/)
 * PHD, Susan D Kane-Ronning - Washington Sierra Club Wildlife Committee
+* David Ellenberger - Wildlands Network
+* Josh Rosenau - [Mountain Lion Foundation](/org/mountain_lion_foundation/)
+* John Rosapepe - Endangered Species Coalition
 
-#### 369 👎 - Con
+#### 427 👎 - Con
 Testifying:
 * Teddy Anderson
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Amir Nizam - WSDOT

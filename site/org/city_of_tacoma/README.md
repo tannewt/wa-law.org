@@ -173,6 +173,8 @@
 
 ## [SB 5817](/bill/2023-24/sb/5817/) - Economic development info. 👍1  
 
+## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍1  
+
 ## [SB 5924](/bill/2023-24/sb/5924/) - Access to personnel records   ❓1
 
 ## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  

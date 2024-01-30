@@ -35,6 +35,9 @@
 
 ## [HB 2117](/bill/2023-24/hb/2117/) - Aerial firefighting/permits 👍1  
 
+## [HB 2129](/bill/2023-24/hb/2129/) - Geothermal energy resources 👍1  
+* 👍 Casey Hanell
+
 ## [HB 2170](/bill/2023-24/hb/2170/) - Budget stabilization account 👍1  
 
 ## [HB 2172](/bill/2023-24/hb/2172/) - Vacant state agency property   ❓1
@@ -78,6 +81,12 @@
 ## [SB 5967](/bill/2023-24/sb/5967/) - Housing/public lands leases 👍2  
 * 👍 Krosbie Carter
 * 👍 Michael Kearney
+
+## [SB 6011](/bill/2023-24/sb/6011/) - Tribal interlocal agreements 👍1  
+* 👍 Jayanna Marshall
+
+## [SB 6043](/bill/2023-24/sb/6043/) - Recreational use fees 👍1  
+* 👍 Andrea Martin
 
 ## [SB 6062](/bill/2023-24/sb/6062/) - DNR trust asset leasing 👍2  
 * 👍 Christina Frantz

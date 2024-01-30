@@ -38,6 +38,8 @@
 ## [HB 2051](/bill/2023-24/hb/2051/) - Reducing emissions from small off-road engines. 👍1  
 * 👍💵 Pamela Clough
 
+## [HB 2456](/bill/2023-24/hb/2456/) - Wildlife safe passages 👍1  
+
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍1  
 
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍1  

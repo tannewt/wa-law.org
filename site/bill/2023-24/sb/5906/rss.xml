@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5906/</link>
 		<description>Updates about SB 5906</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 27 Jan 2024 06:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 29 Jan 2024 12:59:37 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -56,6 +56,14 @@
 			<pubDate>Sat, 27 Jan 2024 06:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.seattletimes.com/seattle-news/politics/ivans-law-would-promote-fentanyl-prevention-services-testing/#:~:text=Senate%20Bill%205906</guid>
+		</item>
+		<item>
+			<title>👍LINDA THOMPSON - Washington Association for Substance misuse and Violence Prevention (WASAVP)</title>
+			<description>LINDA THOMPSON signed up to testify Pro. They are signed up to represent Washington Association for Substance misuse and Violence Prevention (WASAVP).</description>
+			<pubDate>Mon, 29 Jan 2024 12:59:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/LINDA/THOMPSON/2024-01-29 12:59:37</guid>
 		</item>
 	</channel>
 </rss>

@@ -1,6 +1,6 @@
 # Methow Valley Citizens Council
 
-## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
 
 ## [HB 1032](/bill/2023-24/hb/1032/) - Wildfires/electric utilities 👍2  
 
@@ -38,7 +38,7 @@
 
 ## [HB 2330](/bill/2023-24/hb/2330/) - Wildfire protection 👍1  
 
-## [HB 2456](/bill/2023-24/hb/2456/) - Wildlife safe passages 👍1  
+## [HB 2456](/bill/2023-24/hb/2456/) - Wildlife safe passages 👍2  
 
 ## [SB 5039](/bill/2023-24/sb/5039/) - Wildfires/electric utilities 👍1  
 
@@ -51,6 +51,8 @@
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management 👍1  
 
 ## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation  👎3 
+
+## [SB 5990](/bill/2023-24/sb/5990/) - Env. justice/SEPA projects 👍1  
 
 ## [SB 6113](/bill/2023-24/sb/6113/) - Community solar 👍1  
 

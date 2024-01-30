@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6223/</link>
 		<description>Updates about SB 6223</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 28 Jan 2024 11:23:49 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 29 Jan 2024 11:51:20 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,7 +23,7 @@
 			<guid isPermaLink="true">https://www.seattletimes.com/education-lab/bill-aims-to-increase-wa-school-board-pay-for-first-time-since-1987/#:~:text=SB%206223</guid>
 		</item>
 		<item>
-			<title>👎John Axtell - Washington State School Directors' Association</title>
+			<title>👎John Axtell - South Sound Superintendents</title>
 			<description>John Axtell signed up to testify Con.</description>
 			<pubDate>Thu, 25 Jan 2024 08:45:04 GMT</pubDate>
 			<category>testifier</category>
@@ -53,6 +53,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Sara/Betnel/2024-01-28 11:23:49</guid>
+		</item>
+		<item>
+			<title>👍Mikhail Cherniske - Office of Superintendent of Public Instruction</title>
+			<description>Mikhail Cherniske signed up to testify Pro. They are signed up to represent Office of Superintendent of Public Instruction.</description>
+			<pubDate>Mon, 29 Jan 2024 07:28:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mikhail/Cherniske/2024-01-29 07:28:46</guid>
+		</item>
+		<item>
+			<title>👍Dr. Stephan Blanford - Office of Superintendent of Public Instruction</title>
+			<description>Dr. Stephan Blanford signed up to testify Pro.</description>
+			<pubDate>Mon, 29 Jan 2024 10:24:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dr. Stephan/Blanford/2024-01-29 10:24:27</guid>
+		</item>
+		<item>
+			<title>👍Charlie Brown - South Sound Superintendents</title>
+			<description>Charlie Brown signed up to testify Pro. They are signed up to represent South Sound Superintendents.</description>
+			<pubDate>Mon, 29 Jan 2024 11:51:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Charlie/Brown/2024-01-29 11:51:20</guid>
 		</item>
 	</channel>
 </rss>

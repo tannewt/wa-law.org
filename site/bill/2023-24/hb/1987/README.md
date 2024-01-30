@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31807&aId=157746&caId=23711&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31807&aId=157746&caId=23711&tId=4)
 
-#### 4 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Councilmember Todd Donovan - Whatcom County
 * Kayla Schott-Bresler - Whatcom County
@@ -22,7 +22,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Fri 01/12 10:30 AM - Local Government (LG): HB 1987 Public facilities tax use
 #### 27 👍 - Pro

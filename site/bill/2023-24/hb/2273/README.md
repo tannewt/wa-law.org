@@ -18,7 +18,9 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Robert Ezelle - Washington Military Department, Emergency Management Division
 
 ### Tue 01/16 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2273 Functional recovery building
 #### 3 👍 - Pro

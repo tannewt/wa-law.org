@@ -20,7 +20,7 @@
 * 👍 PAULA REED
 * 👍 Paula Reed
 
-## [HB 1455](/bill/2023-24/hb/1455/) - Child marriage 👍1  
+## [HB 1455](/bill/2023-24/hb/1455/) - Child marriage 👍2  
 
 ## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍2  
 
@@ -60,14 +60,18 @@
 
 ## [SB 5453](/bill/2023-24/sb/5453/) - Female genital mutilation 👍4  
 
+## [SB 5906](/bill/2023-24/sb/5906/) - Implementing a statewide drug overdose prevention and education campaign. 👍1  
+
+## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍1  
+
 ## [SB 5937](/bill/2023-24/sb/5937/) - Crime victims & witnesses 👍1  
 * 👍 Paula Reed
 
-## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍1  
+## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍2  
 
 ## [SB 6056](/bill/2023-24/sb/6056/) - Human trafficking/hotels 👍1  
 
-## [SB 6109](/bill/2023-24/sb/6109/) - Children and families 👍2  
+## [SB 6109](/bill/2023-24/sb/6109/) - Children and families 👍3  
 * 👍 Paula Reed
 
 ## [SB 6110](/bill/2023-24/sb/6110/) - Child fatalities 👍1  

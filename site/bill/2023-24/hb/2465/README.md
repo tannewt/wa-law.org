@@ -14,11 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157983&caId=23725&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157983&caId=23725&tId=4)
 
-#### 31 👍 - Pro
+#### 56 👍 - Pro
 Testifying:
 * Brian Holtzclaw - Master Builders Association of King and Snohomish Counties
 * 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Josie Cummings - Avista
+* 💵Carolyn Logue - NWHPBA & WA Air Conditioning Contractors Association
+* Bob Card - International Institute of Building Enclosure Consultants
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Stoyan Bumbalov - State Building Code Council

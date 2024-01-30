@@ -4,7 +4,7 @@
 
 ## [HB 1006](/bill/2023-24/hb/1006/) - Drug testing equipment 👍1  
 
-## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍1  
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 
 ## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍2  
 
@@ -122,6 +122,8 @@
 ## [HB 1499](/bill/2023-24/hb/1499/) - Food assistance funding 👍1  
 
 ## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍2  
+
+## [HB 1530](/bill/2023-24/hb/1530/) - Law enf. employ. eligibility 👍1  
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍3  
 
@@ -242,7 +244,7 @@
 
 ## [HB 2346](/bill/2023-24/hb/2346/) - Health disparities council 👍1  
 
-## [HB 2348](/bill/2023-24/hb/2348/) - County hospital funding 👍1  
+## [HB 2348](/bill/2023-24/hb/2348/) - County hospital funding 👍2  
 
 ## [HB 2360](/bill/2023-24/hb/2360/) - Digital workforce 👍1  
 
@@ -254,6 +256,12 @@
 
 ## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras 👍1  
 * 👍 Tim Burgess
+
+## [HB 2415](/bill/2023-24/hb/2415/) - Economic assistance/TANF 👍1  
+
+## [HB 2455](/bill/2023-24/hb/2455/) - Competing ballot measures 👍1  
+
+## [HB 2457](/bill/2023-24/hb/2457/) - Domestic violence/housing 👍1  
 
 ## [HB 2469](/bill/2023-24/hb/2469/) - Concerning involuntary treatment. 👍1  
 
@@ -355,7 +363,7 @@
 
 ## [SB 5513](/bill/2023-24/sb/5513/) - CTC mental health counseling 👍1  
 
-## [SB 5594](/bill/2023-24/sb/5594/) - Fully autonomous vehicles   ❓1
+## [SB 5594](/bill/2023-24/sb/5594/) - Fully autonomous vehicles   ❓2
 
 ## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍1  
 
@@ -369,15 +377,15 @@
 
 ## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
 
-## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍1  
+## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍2  
 
 ## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave 👍1  
 
 ## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose/high schools 👍1  
 
-## [SB 5812](/bill/2023-24/sb/5812/) - Concerning the response to electric vehicle fires. 👍1  
+## [SB 5812](/bill/2023-24/sb/5812/) - Electric vehicle fires 👍1  
 
-## [SB 5838](/bill/2023-24/sb/5838/) - AI task force 👍1  
+## [SB 5838](/bill/2023-24/sb/5838/) - AI task force 👍2  
 
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
 
@@ -389,14 +397,18 @@
 
 ## [SB 5906](/bill/2023-24/sb/5906/) - Implementing a statewide drug overdose prevention and education campaign. 👍1  
 
-## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍1  
+## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍2  
 
 ## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD 👍1  
 
 ## [SB 5933](/bill/2023-24/sb/5933/) - Infants and toddlers program 👍1  
 
+## [SB 5957](/bill/2023-24/sb/5957/) - AI use guidelines 👍1  
+
 ## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  
 * 👍 Venu Nemani
+
+## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  
 
 ## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍1  
 
@@ -413,13 +425,21 @@
 
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  
 
+## [SB 6074](/bill/2023-24/sb/6074/) - TNC driver death benefits 👍1  
+
+## [SB 6107](/bill/2023-24/sb/6107/) - Construction/sanitary cond. 👍1  
+
 ## [SB 6135](/bill/2023-24/sb/6135/) - TANF transitional assistance 👍1  
 
 ## [SB 6157](/bill/2023-24/sb/6157/) - Civil service 👍1  
 
+## [SB 6171](/bill/2023-24/sb/6171/) - Criminal justice/child care 👍1  
+
 ## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍1  
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
+
+## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍1  
 
 ## [SB 6212](/bill/2023-24/sb/6212/) - Rent payments/credit reports 👍1  
 

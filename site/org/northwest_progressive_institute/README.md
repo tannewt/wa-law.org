@@ -71,6 +71,9 @@
 
 ## [HB 1443](/bill/2023-24/hb/1443/) - Online voter registration 👍2  
 
+## [HB 1455](/bill/2023-24/hb/1455/) - Child marriage 👍1  
+* 👍 Andrew Villeneuve
+
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍2  
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  

@@ -212,7 +212,8 @@
 
 ## [SB 5474](/bill/2023-24/sb/5474/) - Juvenile justice 👍1  
 
-## [SB 5476](/bill/2023-24/sb/5476/) - Agricultural overtime  👎1 
+## [SB 5476](/bill/2023-24/sb/5476/) - Agricultural overtime  👎2 
+* 👎💵 Andrea Schmitt
 * 👎💵 Andrea Schmitt
 
 ## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances  👎2 

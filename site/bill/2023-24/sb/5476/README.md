@@ -20,11 +20,31 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157974&caId=23667&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157974&caId=23667&tId=4)
 
-#### 262 👍 - Pro
+#### 498 👍 - Pro
+Testifying:
+* Alejandro Anita - Knutson Farms, Inc.
+* April Clayton - Red Apple Orchards
+* Miguel Beltran - Limon & Sons Orchards, Inc.
+* Rosella Mosby - Washington Farm Bureau
+* Sean Tudor - Tudor Hills Vineyard
+* Tim Rogan
+* Curtiss Ickes
+* Esmeralda Escoto
+* John McQuaig - Waterworks, LLC
+* Ernesto Del Rosario - Northwestern Orchards
+* Heidi Morris - Washington Fruit & Produce Co.
 
-#### 22 👎 - Con
+#### 43 👎 - Con
+Testifying:
+* 💵Andrea Schmitt - [Columbia Legal Services](/org/columbia_legal_services/)
+* Fortino Lopez
+* Jose Martinez
+* 💵Ellicott Dandy - Frank Freed Subit & Thomas LLP
+* Alfredo Juarez - Familias Unidas por La Justicia
+* Edgar Franks - Familias Unidas por la Justicia
+* 💵Sybill Hyppolite - Washington State Labor Council, AFL-CIO
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Thu 02/09 08:00 AM - Labor & Commerce (LC): SB 5476 Agricultural overtime
 #### 1079 👍 - Pro

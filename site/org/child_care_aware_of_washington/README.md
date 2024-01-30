@@ -58,7 +58,8 @@
 
 ## [SB 5485](/bill/2023-24/sb/5485/) - Public employees/child care 👍1  
 
-## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍1  
+## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍2  
+* 👍💵 Emily Murphy
 
 ## [SB 5870](/bill/2023-24/sb/5870/) - Early learning programs 👍1  
 

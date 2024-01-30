@@ -359,9 +359,18 @@
 
 ## [HB 2394](/bill/2023-24/hb/2394/) - SEPA/trails and paths 👍1  
 
+## [HB 2451](/bill/2023-24/hb/2451/) - Impact fees  👎1 
+* 👎💵 Carl Schroeder
+
 ## [HB 2466](/bill/2023-24/hb/2466/) - Addressing ambulance wait times. 👍1  
 
 ## [HB 2469](/bill/2023-24/hb/2469/) - Concerning involuntary treatment. 👍1  
+
+## [HB 2470](/bill/2023-24/hb/2470/) - Creating a local sales and use tax to address gender-based violence.   ❓1
+* ❓💵 Lindsey Hueer
+
+## [HB 2474](/bill/2023-24/hb/2474/) - Concerning compliance with siting requirements for transitional housing, permanent supportive housing, indoor emergency shelters, and indoor emergency housing.  👎1 
+* 👎💵 Carl Schroeder
 
 ## [SB 5001](/bill/2023-24/sb/5001/) - Public facility districts 👍1  
 
@@ -599,6 +608,8 @@
 
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
 
+## [SB 5872](/bill/2023-24/sb/5872/) - Concerning vehicle and operator requirements for autonomous vehicles. 👍1  
+
 ## [SB 5885](/bill/2023-24/sb/5885/) - Certificates of annexation 👍1  
 * 👍💵 Carl Schroeder
 
@@ -692,6 +703,9 @@
 
 ## [SB 6242](/bill/2023-24/sb/6242/) - Law enforcement training 👍1  
 * 👍💵 Lindsey Hueer
+
+## [SB 6285](/bill/2023-24/sb/6285/) - Use of impact fees  👎1 
+* 👎💵 Carl Schroeder
 
 ## [SB 6295](/bill/2023-24/sb/6295/) - Behavioral health/high users 👍1  
 

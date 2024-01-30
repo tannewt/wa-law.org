@@ -14,12 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158141&caId=23688&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158141&caId=23688&tId=4)
 
-#### 11 👍 - Pro
+#### 50 👍 - Pro
 Testifying:
 * 💵Isaac Kastama - Clean & Prosperous Washington
+* 💵Paula Sardinas - WBBA (WA Build Back Black Alliance)
 
-#### 27 👎 - Con
+#### 171 👎 - Con
 Testifying:
 * 💵Scott Hazlegrove - WA State Auto Dealers Association
+* John Goodwin
+* Cindy Goodwin
+* Fransico Hunt
 
 #### 0 ❓ - Other

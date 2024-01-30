@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/29 01:30 PM - Housing (HOUS): HB 2464 New manuf. & mobile homes
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31867&aId=158054&caId=23723&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31867&aId=158054&caId=23723&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31867&aId=158054&caId=23723&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31867&aId=158054&caId=23723&tId=4)
-
-#### 11 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * Christa Connelly - West Prairie Village MHP
 * Dan Piantanida - Clearview East, MHP
@@ -22,13 +16,15 @@ Testifying:
 * Mike Simonitch - Snug Harbor MHP
 * Russ Millard - [Manufactured Housing Communities of Washington](/org/manufactured_housing_communities_of_washington/)
 * Jake Bond
+* Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 4 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Dave Andersen - Washington Department of Commerce
 * 💵Ishbel Dickens - Assoc of Manufactured Home Owners
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Victoria OBanion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

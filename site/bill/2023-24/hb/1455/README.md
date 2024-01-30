@@ -28,17 +28,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=157580&caId=23660&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=157580&caId=23660&tId=4)
 
-#### 105 👍 - Pro
+#### 146 👍 - Pro
 Testifying:
 * Cleland Katherine - Zonta (Please note that Katherine will be in person)
 * 💵Fraidy Reiss - [Unchained At Last](/org/unchained_at_last/)
 * Michele Hanash - AHA Foundation
 * Kate Yang
 * Sara Tasneem
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Michael Brunson
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/31 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1455 Child marriage
 #### 73 👍 - Pro

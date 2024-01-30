@@ -17,11 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=158197&caId=23662&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=158197&caId=23662&tId=4)
 
-#### 98 👍 - Pro
+#### 126 👍 - Pro
 
-#### 4 👎 - Con
+#### 11 👎 - Con
 Testifying:
 * Steve Horvath - HOA United
+* Valerie Oman - Condominium Law Group, PLLC
 
 #### 0 ❓ - Other
 

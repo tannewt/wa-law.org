@@ -121,6 +121,8 @@
 
 ## [HB 2309](/bill/2023-24/hb/2309/) - Washington 13 free guarantee 👍2  
 
+## [HB 2348](/bill/2023-24/hb/2348/) - County hospital funding 👍1  
+
 ## [HB 2374](/bill/2023-24/hb/2374/) - Washington promise program 👍1  
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍3  
@@ -204,7 +206,7 @@
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
 * 👍💵 Morgan Hickel
 
-## [SB 5999](/bill/2023-24/sb/5999/) - Financial aid eligibility 👍1  
+## [SB 5999](/bill/2023-24/sb/5999/) - Financial aid eligibility 👍3  
 * 👍 Adrienne Delossantos
 
 ## [SB 6021](/bill/2023-24/sb/6021/) - Correctional fees & expenses 👍1  

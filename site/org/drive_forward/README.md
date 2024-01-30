@@ -8,3 +8,6 @@
 
 ## [SB 5448](/bill/2023-24/sb/5448/) - Delivery of alcohol   ❓1
 * ❓ Michael Wolfe
+
+## [SB 6074](/bill/2023-24/sb/6074/) - TNC driver death benefits 👍1  
+* 👍 Michael Wolfe

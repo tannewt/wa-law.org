@@ -4,6 +4,9 @@
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 
+## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy  👎3 
+* 👎 William Shadbolt
+
 ## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants  👎3 
 * 👎 William Shadbolt
 

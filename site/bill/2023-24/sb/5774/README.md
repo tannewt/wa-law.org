@@ -9,15 +9,11 @@
 
 ## Meetings
 ### Mon 01/29 04:00 PM - Ways & Means (WM): SSB 5774 Fingerprint backgr. checks
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158144&caId=23650&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158144&caId=23650&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158144&caId=23650&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158144&caId=23650&tId=4)
-
-#### 71 👍 - Pro
+#### 106 👍 - Pro
 Testifying:
 * Stephanie Smith - Learning to Grow
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Emily Murphy - [Child Care Aware of Washington](/org/child_care_aware_of_washington/)
 
 #### 0 👎 - Con
 

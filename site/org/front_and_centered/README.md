@@ -73,5 +73,8 @@
 * 👍 Deric Gruen
 * 👍💵 Guillermo Rogel
 
+## [SB 5990](/bill/2023-24/sb/5990/) - Env. justice/SEPA projects 👍2  
+* 👍💵 Guillermo Rogel
+
 ## [SB 6185](/bill/2023-24/sb/6185/) - PTBA governing body members 👍1  
 * 👍💵 Guillermo Rogel

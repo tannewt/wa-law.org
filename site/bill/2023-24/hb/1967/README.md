@@ -8,7 +8,9 @@
 
 ## Meetings
 ### Thu 01/25 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 1967 Hit & run/first-time waiver
-#### 38 👍 - Pro
+#### 39 👍 - Pro
+Testifying:
+* Maggie O'grady
 
 #### 9 👎 - Con
 

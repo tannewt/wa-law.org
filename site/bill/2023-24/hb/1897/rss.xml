@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1897/</link>
 		<description>Updates about HB 1897</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 28 Jan 2024 05:33:46 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 29 Jan 2024 08:05:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,7 +30,7 @@
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Appropriations.</guid>
 		</item>
 		<item>
-			<title>👎Kristiana de Leon - Dept. of Revenue</title>
+			<title>👎Kristiana de Leon - Seattle University</title>
 			<description>Kristiana de Leon signed up to testify Con.</description>
 			<pubDate>Fri, 26 Jan 2024 12:46:29 GMT</pubDate>
 			<category>testifier</category>
@@ -51,6 +51,22 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Julie/Salvi/2024-01-28 05:33:46</guid>
+		</item>
+		<item>
+			<title>👍Liv Finne - Washington Policy Center</title>
+			<description>Liv Finne signed up to testify Pro. They are signed up to represent Washington Policy Center.</description>
+			<pubDate>Mon, 29 Jan 2024 01:14:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Liv/Finne/2024-01-29 01:14:19</guid>
+		</item>
+		<item>
+			<title>👍Shane Martin - Seattle University</title>
+			<description>Shane Martin signed up to testify Pro. They are signed up to represent Seattle University.</description>
+			<pubDate>Mon, 29 Jan 2024 08:05:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Shane/Martin/2024-01-29 08:05:47</guid>
 		</item>
 	</channel>
 </rss>

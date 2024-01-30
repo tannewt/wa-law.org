@@ -27,6 +27,9 @@
 
 ## [SB 5821](/bill/2023-24/sb/5821/) - Audio-only telemedicine 👍1  
 
+## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges.   ❓1
+* ❓💵 Jane Douthit
+
 ## [SB 6182](/bill/2023-24/sb/6182/) - Obesity Rx coverage  👎1 
 
 ## [SB 6218](/bill/2023-24/sb/6218/) - Dental only plans  👎1 

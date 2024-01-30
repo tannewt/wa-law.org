@@ -32,6 +32,8 @@
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
 * 👍💵 John Seng
 
+## [SB 5990](/bill/2023-24/sb/5990/) - Env. justice/SEPA projects 👍1  
+
 ## [SB 6113](/bill/2023-24/sb/6113/) - Community solar 👍1  
 
 ## [SB 6256](/bill/2023-24/sb/6256/) - Solar consumer protections 👍1  

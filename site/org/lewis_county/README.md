@@ -12,6 +12,8 @@
 ## [HB 2296](/bill/2023-24/hb/2296/) - Comprehensive plan revisions 👍1  
 * 👍 Mindy Brooks
 
+## [HB 2429](/bill/2023-24/hb/2429/) - Energy facility eval process 👍1  
+
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget  👎1 
 * 👎 Sean Swope
 

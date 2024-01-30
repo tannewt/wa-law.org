@@ -86,6 +86,8 @@
 
 ## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras 👍1  
 
+## [HB 2468](/bill/2023-24/hb/2468/) - Concerning the siting of child care facilities.   ❓1
+
 ## [SB 5114](/bill/2023-24/sb/5114/) - Sex trafficking 👍3  
 
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍2  
@@ -125,7 +127,8 @@
 
 ## [SB 5553](/bill/2023-24/sb/5553/) - Temporary emergency shelters 👍2  
 
-## [SB 5594](/bill/2023-24/sb/5594/) - Fully autonomous vehicles   ❓1
+## [SB 5594](/bill/2023-24/sb/5594/) - Fully autonomous vehicles   ❓2
+* ❓ Chris Long
 * ❓ Chris Long
 
 ## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍2  
@@ -136,6 +139,8 @@
 ## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages 👍1  
 
 ## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  
+
+## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  
 
 ## [SB 5989](/bill/2023-24/sb/5989/) - Confirming property ownership or owner authorization for short-term rentals.   ❓1
 

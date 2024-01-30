@@ -236,6 +236,9 @@
 ## [HB 2158](/bill/2023-24/hb/2158/) - Urban growth area boundaries  👎1 
 * 👎💵 Paul Jewell
 
+## [HB 2179](/bill/2023-24/hb/2179/) - Child care local licensing   ❓1
+* ❓💵 Jaime Bodden
+
 ## [HB 2207](/bill/2023-24/hb/2207/) - Solid waste dumping   ❓1
 * ❓💵 Travis Dutton
 
@@ -274,6 +277,9 @@
 * 👎💵 Paul Jewell
 
 ## [HB 2415](/bill/2023-24/hb/2415/) - Economic assistance/TANF 👍1  
+
+## [HB 2464](/bill/2023-24/hb/2464/) - Concerning the development of new manufactured/mobile homes and new manufactured/mobile home communities.   ❓1
+* ❓💵 Paul Jewell
 
 ## [HB 2470](/bill/2023-24/hb/2470/) - Creating a local sales and use tax to address gender-based violence.   ❓1
 * ❓💵 Juliana Roe

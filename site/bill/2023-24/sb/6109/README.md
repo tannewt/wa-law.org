@@ -13,26 +13,24 @@
 
 ## Meetings
 ### Mon 01/29 04:00 PM - Ways & Means (WM): SSB 6109 Children and families
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158143&caId=23649&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158143&caId=23649&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158143&caId=23649&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31841&aId=158143&caId=23649&tId=4)
+#### 14 👍 - Pro
 
-#### 4 👍 - Pro
-
-#### 4 👎 - Con
+#### 17 👎 - Con
 Testifying:
 * 💵Malika Lamont - VOCAL-WA
 * Austin Field - SEIU 925
+* Deaunte Damper - Vocal wa
 
-#### 9 ❓ - Other
+#### 21 ❓ - Other
 Testifying:
 * Kelly Warner-King - Washington State Administrative Office of the Courts
 * Atharshna Singarajah
 * Ph.D., Susan Stoner - Department of Psychiatry & Behavioral Sciences Addictions, Drug & Alcohol Institute
 * Tara Urs - King County Department of Public Defense
 * 💵Allison Krutsinger - Dept of Children, Youth, and Families
+* Gabe Cisneros-Lassey
+* Chelsea Burroughs - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* 💵Mary Fischer - [Institute for Family Development](/org/institute_for_family_development/)
 
 ### Thu 01/18 08:00 AM - Human Services (HS): SB 6109 Children and families
 #### 11 👍 - Pro

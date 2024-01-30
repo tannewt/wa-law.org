@@ -137,11 +137,15 @@
 
 ## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍1  
 
-## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍2  
+## [SB 5850](/bill/2023-24/sb/5850/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
+
+## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍3  
 * 👍💵 Emily Stochel
 
 ## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍2  
 
 ## [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation 👍1  
+
+## [SB 5999](/bill/2023-24/sb/5999/) - Financial aid eligibility 👍1  
 
 ## [SB 6300](/bill/2023-24/sb/6300/) - College grant/public assist. 👍1  

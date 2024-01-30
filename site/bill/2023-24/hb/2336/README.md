@@ -18,7 +18,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158332&caId=23755&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158332&caId=23755&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Commissioner Amanda McKinney - Yakima County
+* Dani Madrone - American Farmland Trust
 
 #### 0 👎 - Con
 

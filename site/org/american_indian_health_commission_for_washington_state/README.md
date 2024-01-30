@@ -10,11 +10,11 @@
 
 ## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
 
-## [HB 2019](/bill/2023-24/hb/2019/) - Establishing a Native American apprentice assistance program. 👍1  
+## [HB 2019](/bill/2023-24/hb/2019/) - Establishing a Native American apprentice assistance program. 👍2  
 
 ## [HB 2098](/bill/2023-24/hb/2098/) - Women's commission/gifts 👍1  
 
-## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention 👍1  
+## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention 👍2  
 
 ## [HB 2157](/bill/2023-24/hb/2157/) - Vaccine definition 👍1  
 
@@ -32,7 +32,17 @@
 
 ## [SB 5588](/bill/2023-24/sb/5588/) - Mental health sentencing alt 👍1  
 
+## [SB 5811](/bill/2023-24/sb/5811/) - Expanding the definition of family member for individual providers. 👍1  
+
 ## [SB 5821](/bill/2023-24/sb/5821/) - Audio-only telemedicine 👍1  
+
+## [SB 5825](/bill/2023-24/sb/5825/) - Guardianship 👍1  
+
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
+
+## [SB 5906](/bill/2023-24/sb/5906/) - Implementing a statewide drug overdose prevention and education campaign. 👍1  
+
+## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍1  
 
 ## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍1  
 

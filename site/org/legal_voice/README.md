@@ -26,7 +26,7 @@
 
 ## [HB 1564](/bill/2023-24/hb/1564/) - OTC sexual assault kits 👍1  
 
-## [HB 1959](/bill/2023-24/hb/1959/) - Extending parts of the paid family and medical leave program to employers with fewer than 50 employees. 👍2  
+## [HB 1959](/bill/2023-24/hb/1959/) - PFML/small employers 👍2  
 
 ## [HB 2036](/bill/2023-24/hb/2036/) - Adult entertainment 👍2  
 
@@ -58,3 +58,5 @@
 ## [SB 6105](/bill/2023-24/sb/6105/) - Adult entertainment workers 👍2  
 
 ## [SB 6127](/bill/2023-24/sb/6127/) - HIV prophylaxis 👍1  
+
+## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍2  

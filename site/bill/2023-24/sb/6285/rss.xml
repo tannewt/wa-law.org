@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6285/</link>
 		<description>Updates about SB 6285</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 28 Jan 2024 03:41:11 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 29 Jan 2024 09:14:29 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -53,6 +53,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Alex/Hur/2024-01-28 03:41:11</guid>
+		</item>
+		<item>
+			<title>👎💵Axel Swanson - Washington State Association of County Engineers</title>
+			<description>Axel Swanson signed up to testify Con. They are signed up to represent Washington State Association of County Engineers. They are a registered lobbyist.</description>
+			<pubDate>Mon, 29 Jan 2024 01:53:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Axel/Swanson/2024-01-29 01:53:20</guid>
+		</item>
+		<item>
+			<title>👍💵Tricia Gullion - Building Industry Association of Washington</title>
+			<description>Tricia Gullion signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/building_industry_association_of_washington/&quot;&gt;Building Industry Association of Washington&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 29 Jan 2024 03:26:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tricia/Gullion/2024-01-29 03:26:58</guid>
+		</item>
+		<item>
+			<title>👎💵Carl Schroeder - Association of Washington Cities</title>
+			<description>Carl Schroeder signed up to testify Con. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/association_of_washington_cities/&quot;&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 29 Jan 2024 09:14:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Carl/Schroeder/2024-01-29 09:14:29</guid>
 		</item>
 	</channel>
 </rss>

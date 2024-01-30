@@ -18,11 +18,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158154&caId=23681&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158154&caId=23681&tId=4)
 
-#### 30 👍 - Pro
+#### 104 👍 - Pro
 Testifying:
 * Troy Goracke - Washington State Board for Community and Technical Colleges
 * 💵Paula Sardinas - WBBA/UWKC
 * Joy Sebe - United Way of King County
+* Danielle Mincey White
+* CYNTHIA DAMPIER - NS Services LLC
+* Sherrilla Bivens
+* Michele Anderson
+* Estrella Sung
+* Anna Hernandez-French - Office of Superintendent of Public Instruction
+* 💵Brian Sims
 
 #### 0 👎 - Con
 

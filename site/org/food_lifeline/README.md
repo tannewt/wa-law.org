@@ -137,6 +137,8 @@
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
 * 👍💵 Aaron Czyzewski
 
+## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍4  
+
 ## [SB 6009](/bill/2023-24/sb/6009/) - Hog-tying 👍1  
 
 ## [SB 6112](/bill/2023-24/sb/6112/) - Donated food items/B&O tax   ❓1

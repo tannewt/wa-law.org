@@ -92,7 +92,7 @@
 
 ## [SB 5800](/bill/2023-24/sb/5800/) - Improving access to department of licensing issued documents by clarifying the application requirements for a minor, modifying the requirements for at-cost identicards, and studying the feasibility of reduced-fee identicards. 👍1  
 
-## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍8  
+## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍15  
 * 👍 Charles Smith
 
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
@@ -104,7 +104,7 @@
 
 ## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍1  
 
-## [SB 6109](/bill/2023-24/sb/6109/) - Children and families  👎1 
+## [SB 6109](/bill/2023-24/sb/6109/) - Children and families  👎1 ❓1
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍2  
 

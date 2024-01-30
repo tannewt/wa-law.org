@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1241/</link>
 		<description>Updates about HB 1241</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 28 Jan 2024 09:36:37 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 29 Jan 2024 07:21:41 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -136,7 +136,7 @@
 			<guid isPermaLink="false">testifier/Cindy/Madigan/2024-01-28 04:18:30</guid>
 		</item>
 		<item>
-			<title>👎Teo Morca - Pierce County Auditor's Office</title>
+			<title>👎Teo Morca - WSACA - Washington State Association of County Auditors</title>
 			<description>Teo Morca signed up to testify Con.</description>
 			<pubDate>Sun, 28 Jan 2024 05:34:17 GMT</pubDate>
 			<category>testifier</category>
@@ -158,6 +158,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Linda/Farmer/2024-01-28 09:36:37</guid>
+		</item>
+		<item>
+			<title>👎Julie Barrett - Conservative Ladies of Washington</title>
+			<description>Julie Barrett signed up to testify Con. They are signed up to represent Conservative Ladies of Washington.</description>
+			<pubDate>Mon, 29 Jan 2024 04:55:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Julie/Barrett/2024-01-29 04:55:39</guid>
+		</item>
+		<item>
+			<title>👍Carolyn Fundingsland - WSACA - Washington State Association of County Auditors</title>
+			<description>Carolyn Fundingsland signed up to testify Pro. They are signed up to represent WSACA - Washington State Association of County Auditors.</description>
+			<pubDate>Mon, 29 Jan 2024 07:21:41 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Carolyn/Fundingsland/2024-01-29 07:21:41</guid>
 		</item>
 	</channel>
 </rss>

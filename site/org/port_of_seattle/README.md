@@ -21,6 +21,8 @@
 ## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍2  
 * 👍 Fred Felleman
 
+## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍1  
+
 ## [HB 1906](/bill/2023-24/hb/1906/) - Vessel length/nonresident 👍1  
 
 ## [HB 1912](/bill/2023-24/hb/1912/) - Economic development info. 👍1  
@@ -29,7 +31,7 @@
 
 ## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍1  
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍1  
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍2  
 
 ## [HB 2076](/bill/2023-24/hb/2076/) - Addressing crimes involving human trafficking or sexual exploitation. 👍1  
 
@@ -72,6 +74,8 @@
 
 ## [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra. 👍1  
 
+## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍1  
+
 ## [SB 5817](/bill/2023-24/sb/5817/) - Economic development info. 👍1  
 
 ## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
@@ -92,7 +96,9 @@
 
 ## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍1  
 
-## [SB 6080](/bill/2023-24/sb/6080/) - Tourism marketing funding 👍1  
+## [SB 6080](/bill/2023-24/sb/6080/) - Tourism marketing funding 👍2  
+
+## [SB 6107](/bill/2023-24/sb/6107/) - Construction/sanitary cond. 👍1  
 
 ## [SB 6114](/bill/2023-24/sb/6114/) - Sustainable aviation fuel   ❓1
 * ❓ John Flanagan

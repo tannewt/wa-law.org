@@ -13,7 +13,7 @@
 ## [HB 1919](/bill/2023-24/hb/1919/) - Private moorage/abandonment 👍2  
 * 👍 Roman Daniels-Brown
 
-## [HB 1959](/bill/2023-24/hb/1959/) - Extending parts of the paid family and medical leave program to employers with fewer than 50 employees.  👎1 
+## [HB 1959](/bill/2023-24/hb/1959/) - PFML/small employers  👎1 
 
 ## [SB 5192](/bill/2023-24/sb/5192/) - Derelict vessel appeals 👍1  
 

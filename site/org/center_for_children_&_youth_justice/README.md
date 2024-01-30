@@ -68,7 +68,7 @@
 
 ## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍1  
 
-## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍1  
+## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍2  
 
 ## [SB 5933](/bill/2023-24/sb/5933/) - Infants and toddlers program 👍1  
 
@@ -81,3 +81,5 @@
 ## [SB 6063](/bill/2023-24/sb/6063/) - Persistent offenders 👍1  
 
 ## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍1  
+
+## [SB 6109](/bill/2023-24/sb/6109/) - Children and families   ❓1

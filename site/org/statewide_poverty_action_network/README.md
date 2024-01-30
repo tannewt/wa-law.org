@@ -86,13 +86,14 @@
 
 ## [HB 1651](/bill/2023-24/hb/1651/) - Infraction debt 👍1  
 
-## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍10  
+## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍12  
 * 👍💵 Alex Hur
 * 👍💵 Alex Hur
 * 👍💵 Lianna Kressin
 * 👍💵 Lianna Kressin
 * 👍💵 Alex Hur
 * 👍💵 Alex Hur
+* 👍💵 Lianna Kressin
 
 ## [HB 1666](/bill/2023-24/hb/1666/) - Fee and debt collection 👍1  
 
@@ -227,11 +228,13 @@
 
 ## [SB 5968](/bill/2023-24/sb/5968/) - Home equity sharing 👍1  
 
-## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍1  
+## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍2  
 
 ## [SB 5987](/bill/2023-24/sb/5987/) - Gift certificates 👍1  
 
 ## [SB 5988](/bill/2023-24/sb/5988/) - Gift certificates/unclaimed 👍1  
+
+## [SB 5990](/bill/2023-24/sb/5990/) - Env. justice/SEPA projects 👍1  
 
 ## [SB 6025](/bill/2023-24/sb/6025/) - Predatory loans 👍1  
 
@@ -242,7 +245,7 @@
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
 
-## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍2  
+## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍3  
 
 ## [SB 6226](/bill/2023-24/sb/6226/) - DSHS fraud office reporting 👍2  
 * 👍💵 Lianna Kressin

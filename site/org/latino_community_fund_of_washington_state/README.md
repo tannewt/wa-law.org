@@ -26,6 +26,8 @@
 
 ## [HB 2447](/bill/2023-24/hb/2447/) - Children and families   ❓1
 
+## [SB 5476](/bill/2023-24/sb/5476/) - Agricultural overtime  👎1 
+
 ## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave 👍1  
 
 ## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  

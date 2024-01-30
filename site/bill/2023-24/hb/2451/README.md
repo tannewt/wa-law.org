@@ -14,14 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157987&caId=23728&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157987&caId=23728&tId=4)
 
-#### 31 👍 - Pro
+#### 49 👍 - Pro
 Testifying:
 * Brian Holtzclaw - Master Builders Association of King and Snohomish Counties
 * Sam Spiegelman - Citizen Action Defense Fund
 * 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Dave Andersen - Washington Department of Commerce
+* 💵Axel Swanson - Washington State Association of County Engineers
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 1 ❓ - Other

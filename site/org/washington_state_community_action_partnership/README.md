@@ -83,7 +83,8 @@
 
 ## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍1  
 
-## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy   ❓1
+## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy   ❓2
+* ❓💵 Linda Garcia
 * ❓💵 Linda Garcia
 
 ## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍2  
@@ -176,4 +177,4 @@
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
 
-## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍1  
+## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍2  

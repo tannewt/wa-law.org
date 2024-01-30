@@ -114,6 +114,8 @@
 
 ## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases 👍1  
 
+## [HB 2465](/bill/2023-24/hb/2465/) - Streamlining the state building code council operating procedures by establishing criteria for statewide amendments to the state building code.   ❓1
+
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial  👎1 
 
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍3  
@@ -172,6 +174,8 @@
 * 👍 Megan Larkin
 
 ## [SB 5973](/bill/2023-24/sb/5973/) - Heat pumps/CICs 👍1  
+
+## [SB 5990](/bill/2023-24/sb/5990/) - Env. justice/SEPA projects 👍1  
 
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development 👍1  
 

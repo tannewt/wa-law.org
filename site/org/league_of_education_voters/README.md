@@ -89,6 +89,8 @@
 
 ## [SB 5903](/bill/2023-24/sb/5903/) - Concerning representation in the educator preparation act. 👍1  
 
+## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  
+
 ## [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation  👎1 
 * 👎 Eric Holzapfel
 

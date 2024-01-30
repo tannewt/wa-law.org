@@ -8,21 +8,21 @@
 
 ## Meetings
 ### Mon 01/29 01:30 PM - Housing (HOUS): HB 2474 Concerning compliance with siting requirements for transitional housing, permanent supportive housing, indoor emergency shelters, and indoor emergency housing. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31867&aId=158055&caId=23724&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31867&aId=158055&caId=23724&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31867&aId=158055&caId=23724&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31867&aId=158055&caId=23724&tId=4)
-
-#### 42 👍 - Pro
+#### 204 👍 - Pro
 Testifying:
 * Dan Wise - Catholic Community Services
 * 💵Michael White - [King County](/org/king_county/)
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Jon Culver
+* Benjamin Maritz - 1112 federal Ave e
+* 💵Melanie Smith - Seattle / King County Coalition on Homelessness
+* Elizabeth Murphy - Plymouth Housing
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* David Dorrian
 
-#### 10 👎 - Con
+#### 32 👎 - Con
 Testifying:
 * Salim Nice
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

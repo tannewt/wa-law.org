@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158155&caId=23682&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158155&caId=23682&tId=4)
 
-#### 241 👍 - Pro
+#### 280 👍 - Pro
 Testifying:
 * Salim Nice - Mayor Mercer Island
 * Maddy Thompson
@@ -29,6 +29,7 @@ Testifying:
 * Eric Beavers
 * Sharmaine Gibbons
 * Hilary Smith
+* Aayush Muthuswamy - [Seattle Public Schools](/org/seattle_public_schools/)
 
 #### 0 👎 - Con
 

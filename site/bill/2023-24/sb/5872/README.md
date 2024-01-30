@@ -14,15 +14,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31805&aId=158135&caId=23677&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31805&aId=158135&caId=23677&tId=4)
 
-#### 7 👍 - Pro
+#### 69 👍 - Pro
+Testifying:
+* Jessie Elliott - Air Line Pilots Association, International (ALPA)
+* 💵Larry Shannon - Washington State Association for Justice
+* Salah Mcalin
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
+* 💵Sybill Hyppolite - Washington State Labor Council, AFL-CIO
 
-#### 7 👎 - Con
+#### 13 👎 - Con
 Testifying:
 * Jeff Farrah - [Autonomous Vehicle Industry Association](/org/autonomous_vehicle_industry_association/)
 * Robert Singleton - Chamber of Progress
 * Jeff Gombosky - [Tesla](/org/tesla/)
+* 💵Brandon Houskeeper - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)
 
-#### 3 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Jim Restucci - Wash. State Transportation Commission
 * William Widen

@@ -27,6 +27,8 @@
 ## [HB 2299](/bill/2023-24/hb/2299/) - DNR trust asset leasing  👎1 
 * 👎💵 James Paribello
 
+## [HB 2429](/bill/2023-24/hb/2429/) - Energy facility eval process 👍1  
+
 ## [SB 5371](/bill/2023-24/sb/5371/) - Orca vessel protection 👍1  
 
 ## [SB 5372](/bill/2023-24/sb/5372/) - DNR land 👍1  
@@ -39,5 +41,9 @@
 * 👍 JJ Wilbur
 
 ## [SB 5892](/bill/2023-24/sb/5892/) - Concerning diseased elk.  👎1 
+
+## [SB 6011](/bill/2023-24/sb/6011/) - Tribal interlocal agreements 👍1  
+
+## [SB 6043](/bill/2023-24/sb/6043/) - Recreational use fees 👍1  
 
 ## [SB 6143](/bill/2023-24/sb/6143/) - Salmon habitat planning 👍1  

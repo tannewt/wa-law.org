@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31864&aId=158028&caId=23670&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31864&aId=158028&caId=23670&tId=4)
 
-#### 224 👍 - Pro
+#### 362 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 * 💵Brittany Benesi - American Society for the Prevention of Cruelty to Animals
@@ -32,8 +32,11 @@ Testifying:
 * Melissa Gragg
 * Bob Rilling-Smith - American Kennel Club
 * Markis Dee Stidham - Serenity Outreach Services
+* Alex Fay - Washington Physicians for Social Responsibility
+* Breck Lebegue - Washington Physicians for Social Responsibility
+* Michael Soman - Washington Physicians for Social Responsibility
 
-#### 0 👎 - Con
+#### 11 👎 - Con
 
 #### 1 ❓ - Other
 

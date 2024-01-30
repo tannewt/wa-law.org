@@ -39,6 +39,8 @@
 
 ## [HB 1762](/bill/2023-24/hb/1762/) - Warehouse employees 👍1  
 
+## [HB 1798](/bill/2023-24/hb/1798/) - Earned release time 👍1  
+
 ## [HB 1804](/bill/2023-24/hb/1804/) - PEBB/subdivision retirees 👍1  
 
 ## [HB 1873](/bill/2023-24/hb/1873/) - Concerning office of public defense social service workers for parents in child welfare cases.  👎1 
@@ -149,6 +151,9 @@
 
 ## [SB 5814](/bill/2023-24/sb/5814/) - Concerning coverage of prescription drugs for advanced metastatic cancer. 👍1  
 
+## [SB 5838](/bill/2023-24/sb/5838/) - AI task force 👍1  
+* 👍💵 Nicole Gomez
+
 ## [SB 5873](/bill/2023-24/sb/5873/) - Student transportation 👍1  
 
 ## [SB 5891](/bill/2023-24/sb/5891/) - Public school bus trespass 👍1  
@@ -156,6 +161,8 @@
 ## [SB 5900](/bill/2023-24/sb/5900/) - Concerning construction crane safety. 👍1  
 
 ## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
+
+## [SB 5932](/bill/2023-24/sb/5932/) - Temporary total disability 👍1  
 
 ## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp.   ❓1
 * ❓ Kati Durkin
@@ -175,8 +182,11 @@
 
 ## [SB 6085](/bill/2023-24/sb/6085/) - Underground economy 👍1  
 
-## [SB 6109](/bill/2023-24/sb/6109/) - Children and families   ❓1
+## [SB 6107](/bill/2023-24/sb/6107/) - Construction/sanitary cond. 👍1  
+
+## [SB 6109](/bill/2023-24/sb/6109/) - Children and families   ❓2
 * ❓ Kati Durkin
+* ❓ Chelsea Burroughs
 
 ## [SB 6114](/bill/2023-24/sb/6114/) - Sustainable aviation fuel 👍1  
 

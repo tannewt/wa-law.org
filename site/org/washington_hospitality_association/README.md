@@ -100,7 +100,7 @@
 ## [HB 1951](/bill/2023-24/hb/1951/) - Algorithmic discrimination  👎1 
 * 👎 Montana Miranda
 
-## [HB 1959](/bill/2023-24/hb/1959/) - Extending parts of the paid family and medical leave program to employers with fewer than 50 employees.  👎1 
+## [HB 1959](/bill/2023-24/hb/1959/) - PFML/small employers  👎1 
 * 👎💵 Julia Gorton
 
 ## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍1  
@@ -130,8 +130,9 @@
 
 ## [HB 2149](/bill/2023-24/hb/2149/) - Protecting consumer personal information.   ❓1
 
-## [HB 2196](/bill/2023-24/hb/2196/) - Alcohol concentration/DUI  👎1 
+## [HB 2196](/bill/2023-24/hb/2196/) - Alcohol concentration/DUI  👎2 
 * 👎💵 Julia Gorton
+* 👎💵 Trent House
 
 ## [HB 2211](/bill/2023-24/hb/2211/) - Criminal justice local tax 👍1  
 
@@ -243,3 +244,6 @@
 
 ## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management  👎1 
 * 👎💵 Samantha Louderback
+
+## [SB 6299](/bill/2023-24/sb/6299/) - Employees/digital technology  👎1 
+* 👎 Montana Miranda
