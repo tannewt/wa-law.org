@@ -9,5 +9,6 @@
 
 ## [SB 5388](/bill/2023-24/sb/5388/) - Diversity in clinical trials 👍1  
 
-## [SB 5776](/bill/2023-24/sb/5776/) - Insulin emergency supply  👎1 
+## [SB 5776](/bill/2023-24/sb/5776/) - Insulin emergency supply  👎2 
+* 👎 Brian Warren
 * 👎 Brian Warren

@@ -8,18 +8,12 @@
 
 ## Meetings
 ### Tue 01/30 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2463 Salmon planning review
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31847&aId=158114&caId=23699&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31847&aId=158114&caId=23699&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31847&aId=158114&caId=23699&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31847&aId=158114&caId=23699&tId=4)
-
-#### 8 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Lisa Wilson - Lummi Nation
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * John Worthington

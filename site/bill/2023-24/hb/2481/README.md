@@ -14,8 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31825&aId=158356&caId=23763&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31825&aId=158356&caId=23763&tId=4)
 
-#### 2 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* Dave Iseminger - Washington State Health Care Authority
+* Matt Groshong - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

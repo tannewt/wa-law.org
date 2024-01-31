@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5955/</link>
 		<description>Updates about SB 5955</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 17 Jan 2024 18:20:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 30 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -257,6 +257,13 @@
 			<pubDate>Wed, 17 Jan 2024 18:20:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_896d9216-b58d-11ee-b707-2f05aad421ae.html#:~:text=Senate%20Bill%205955</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-30/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

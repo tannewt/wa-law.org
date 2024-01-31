@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Tue 01/30 01:30 PM - State Government & Elections (SGE): SHB 1012 Extreme weather events
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31864&aId=158028&caId=23670&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31864&aId=158028&caId=23670&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31864&aId=158028&caId=23670&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31864&aId=158028&caId=23670&tId=4)
-
-#### 362 👍 - Pro
+#### 379 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 * 💵Brittany Benesi - American Society for the Prevention of Cruelty to Animals
@@ -36,9 +30,11 @@ Testifying:
 * Breck Lebegue - Washington Physicians for Social Responsibility
 * Michael Soman - Washington Physicians for Social Responsibility
 
-#### 11 👎 - Con
+#### 32 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Jim Baumgart - Washington Military Department
 
 ### Fri 03/31 12:30 PM - Ways & Means (WM): SHB 1012 Extreme weather events
 #### 52 👍 - Pro

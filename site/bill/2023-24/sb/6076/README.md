@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158266&caId=23744&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158266&caId=23744&tId=4)
 
-#### 20 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Dana Ralph - City of Kent - Mayor
 * Brian Carson - Puget Sound Regional Fire Authority - Chief
@@ -27,7 +27,11 @@ Testifying:
 * Eric Holmes - City Manager, City of Vancouver
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Councilmember Megan Dunn - Snohomish County Executive and Council
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 1 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Jeffrey Pack - Washington Citizens Against Unfair Taxes
+* Tim Eyman - Initiative Activist
 
 #### 0 ❓ - Other

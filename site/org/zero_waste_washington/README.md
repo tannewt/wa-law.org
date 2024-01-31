@@ -48,9 +48,9 @@
 
 ## [HB 2068](/bill/2023-24/hb/2068/) - Fashion/environmental impact 👍1  
 
-## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions. 👍2  
+## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects 👍2  
 
-## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg. 👍1  
+## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg. 👍2  
 * 👍💵 Heather Trim
 
 ## [HB 2207](/bill/2023-24/hb/2207/) - Solid waste dumping 👍1  
@@ -75,7 +75,7 @@
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management 👍1  
 * 👍💵 Heather Trim
 
-## [SB 5178](/bill/2023-24/sb/5178/) - Highways/large debris 👍1  ❓1
+## [SB 5178](/bill/2023-24/sb/5178/) - Highways/large debris 👍2  ❓1
 * ❓💵 Heather Trim
 * 👍💵 Heather Trim
 
@@ -123,6 +123,8 @@
 
 ## [SB 6163](/bill/2023-24/sb/6163/) - Biosolids 👍1  
 * 👍💵 Heather Trim
+
+## [SB 6174](/bill/2023-24/sb/6174/) - Highways/mowing & litter 👍1  
 
 ## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management 👍1  
 * 👍💵 Heather Trim

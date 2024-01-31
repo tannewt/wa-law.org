@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5594/</link>
 		<description>Updates about SB 5594</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 29 Jan 2024 11:56:43 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 30 Jan 2024 09:39:50 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -215,7 +215,7 @@
 			<guid isPermaLink="false">testifier/Jeff/Gombosky/2024-01-27 02:00:07</guid>
 		</item>
 		<item>
-			<title>👎William Widen - Alliance for Automitve Innovation</title>
+			<title>👎William Widen - TechNet</title>
 			<description>William Widen signed up to testify Con.</description>
 			<pubDate>Sat, 27 Jan 2024 06:19:59 GMT</pubDate>
 			<category>testifier</category>
@@ -223,7 +223,7 @@
 			<guid isPermaLink="false">testifier/William/Widen/2024-01-27 06:19:59</guid>
 		</item>
 		<item>
-			<title>👎Philip Koopman - Alliance for Automitve Innovation</title>
+			<title>👎Philip Koopman - TechNet</title>
 			<description>Philip Koopman signed up to testify Con.</description>
 			<pubDate>Sat, 27 Jan 2024 11:47:57 GMT</pubDate>
 			<category>testifier</category>
@@ -301,6 +301,54 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Chris/Long/2024-01-29 11:56:43</guid>
+		</item>
+		<item>
+			<title>👎Ken Price - Amalgamated Transit Union 587</title>
+			<description>Ken Price signed up to testify Con. They are signed up to represent Amalgamated Transit Union 587.</description>
+			<pubDate>Tue, 30 Jan 2024 02:36:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Ken/Price/2024-01-30 02:36:52</guid>
+		</item>
+		<item>
+			<title>👍Paul Escobar - Zoox</title>
+			<description>Paul Escobar signed up to testify Pro. They are signed up to represent Zoox.</description>
+			<pubDate>Tue, 30 Jan 2024 07:37:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Paul/Escobar/2024-01-30 07:37:14</guid>
+		</item>
+		<item>
+			<title>👍💵Ashley Sutton - TechNet</title>
+			<description>Ashley Sutton signed up to testify Pro. They are signed up to represent TechNet. They are a registered lobbyist.</description>
+			<pubDate>Tue, 30 Jan 2024 08:13:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ashley/Sutton/2024-01-30 08:13:59</guid>
+		</item>
+		<item>
+			<title>👎💵Samantha Grad - Teamsters 117</title>
+			<description>Samantha Grad signed up to testify Con. They are signed up to represent Teamsters 117. They are a registered lobbyist.</description>
+			<pubDate>Tue, 30 Jan 2024 08:51:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Samantha/Grad/2024-01-30 08:51:18</guid>
+		</item>
+		<item>
+			<title>❓Brandy DeLange - Association of Washington Cities</title>
+			<description>Brandy DeLange signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/association_of_washington_cities/&quot;&gt;Association of Washington Cities&lt;/a&gt;.</description>
+			<pubDate>Tue, 30 Jan 2024 09:26:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Brandy/DeLange/2024-01-30 09:26:29</guid>
+		</item>
+		<item>
+			<title>❓Beau Perschbacher - WA Dept. of Licensing</title>
+			<description>Beau Perschbacher signed up to testify Other. They are signed up to represent WA Dept. of Licensing.</description>
+			<pubDate>Tue, 30 Jan 2024 09:39:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Beau/Perschbacher/2024-01-30 09:39:50</guid>
 		</item>
 	</channel>
 </rss>

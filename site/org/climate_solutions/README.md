@@ -58,9 +58,10 @@
 
 ## [HB 1526](/bill/2023-24/hb/1526/) - Electrical inspector salary 👍1  
 
-## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy   ❓2
+## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy 👍1  ❓2
 * ❓💵 Kelly Hall
 * ❓💵 Kelly Hall
+* 👍💵 Kelly Hall
 
 ## [HB 1619](/bill/2023-24/hb/1619/) - Renewable energy resources   ❓1
 * ❓💵 Kelly Hall
@@ -72,6 +73,8 @@
 ## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge 👍1  
 * 👍💵 Leah Missik
 
+## [HB 1899](/bill/2023-24/hb/1899/) - Wildfire reconstruction 👍1  
+
 ## [HB 1955](/bill/2023-24/hb/1955/) - Repealing the greenhouse gas content disclosure provision. 👍1  
 
 ## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍1  
@@ -82,12 +85,12 @@
 ## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍1  
 * 👍💵 Altinay Karasapan
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍1  
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍2  
 
 ## [HB 2051](/bill/2023-24/hb/2051/) - Reducing emissions from small off-road engines. 👍1  
 * 👍💵 Leah Missik
 
-## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions. 👍1  
+## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects 👍1  
 
 ## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍1  
 * 👍💵 Leah Missik

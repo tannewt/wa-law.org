@@ -2,6 +2,8 @@
 
 ## [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act   ❓1
 
+## [HB 1105](/bill/2023-24/hb/1105/) - Public comment notice  👎1 
+
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓1
 * ❓ Adam Lincoln
 

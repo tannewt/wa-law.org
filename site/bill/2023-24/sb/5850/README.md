@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Tue 01/30 04:00 PM - Ways & Means (WM): SB 5850 Chronically absent students
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158154&caId=23681&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158154&caId=23681&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158154&caId=23681&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158154&caId=23681&tId=4)
-
-#### 104 👍 - Pro
+#### 161 👍 - Pro
 Testifying:
 * Troy Goracke - Washington State Board for Community and Technical Colleges
 * 💵Paula Sardinas - WBBA/UWKC
@@ -30,6 +24,13 @@ Testifying:
 * Estrella Sung
 * Anna Hernandez-French - Office of Superintendent of Public Instruction
 * 💵Brian Sims
+* 💵Paula Sardinas - WBBA/FMSGS
+* Linda Hood
+* Gayle Sommers
+* Jonté Robinson - Just Here 2 HELP LLC
+* Donesha Hall - Empower Electric Llc
+* Lauren Mendez - [Washington School Counselor Association](/org/washington_school_counselor_association/)
+* Beth Salaguinto - Greater Seattle Chapter of the National Coalition of 100 Black Women
 
 #### 0 👎 - Con
 

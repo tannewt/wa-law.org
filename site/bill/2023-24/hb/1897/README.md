@@ -17,12 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=157963&caId=23702&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=157963&caId=23702&tId=4)
 
-#### 219 👍 - Pro
+#### 254 👍 - Pro
 Testifying:
 * Liv Finne - Washington Policy Center
 * Shane Martin - Seattle University
+* Kadin Coleman - Rainier Valley Leadership Academy
+* Marcus Harden - Why Not You Academy
+* Taryn Major - Impact | Commencement Bay Elementary
+* Dan Effland - Summit Atlas High School
+* Jaxon Rowland - Why Not You Academy
+* Manuela Slye - Summit Atlas High School parent
 
-#### 46 👎 - Con
+#### 47 👎 - Con
 Testifying:
 * Kristiana de Leon
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)

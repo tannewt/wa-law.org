@@ -57,4 +57,6 @@
 ## [SB 6126](/bill/2023-24/sb/6126/) - Respite care 👍3  
 * 👍 Moses Perez
 
+## [SB 6267](/bill/2023-24/sb/6267/) - DD parental caregivers 👍1  
+
 ## [SB 6276](/bill/2023-24/sb/6276/) - Digital electronics/repair 👍1  

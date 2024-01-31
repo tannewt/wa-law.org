@@ -200,8 +200,9 @@
 
 ## [HB 1635](/bill/2023-24/hb/1635/) - Police dogs/liability 👍1  
 
-## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions  👎3 
+## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions  👎4 
 * 👎💵 Candice Bock
+* 👎💵 Lindsey Hueer
 * 👎💵 Lindsey Hueer
 
 ## [HB 1670](/bill/2023-24/hb/1670/) - Property tax limit factor 👍1  
@@ -232,7 +233,7 @@
 ## [HB 1900](/bill/2023-24/hb/1900/) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system.  👎1 
 * 👎💵 Carl Schroeder
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍2  
 
 ## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections  👎1 
 * 👎💵 Lindsey Hueer
@@ -271,7 +272,7 @@
 
 ## [HB 2066](/bill/2023-24/hb/2066/) - Health provider contracting 👍1  
 
-## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions.   ❓1
+## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects   ❓1
 * ❓💵 Carl Schroeder
 
 ## [HB 2071](/bill/2023-24/hb/2071/) - Residential housing   ❓1
@@ -318,7 +319,8 @@
 ## [HB 2231](/bill/2023-24/hb/2231/) - Law enforcement funding 👍2  
 * 👍💵 Lindsey Hueer
 
-## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍1  
+## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍2  
+* 👍💵 Lindsey Hueer
 * 👍💵 Lindsey Hueer
 
 ## [HB 2252](/bill/2023-24/hb/2252/) - Small businesses/residential   ❓1
@@ -364,9 +366,12 @@
 
 ## [HB 2466](/bill/2023-24/hb/2466/) - Addressing ambulance wait times. 👍1  
 
+## [HB 2468](/bill/2023-24/hb/2468/) - Concerning the siting of child care facilities.   ❓1
+* ❓💵 Carl Schroeder
+
 ## [HB 2469](/bill/2023-24/hb/2469/) - Concerning involuntary treatment. 👍1  
 
-## [HB 2470](/bill/2023-24/hb/2470/) - Creating a local sales and use tax to address gender-based violence.   ❓1
+## [HB 2470](/bill/2023-24/hb/2470/) - Creating a local sales and use tax to address gender-based violence.   ❓2
 * ❓💵 Lindsey Hueer
 
 ## [HB 2474](/bill/2023-24/hb/2474/) - Concerning compliance with siting requirements for transitional housing, permanent supportive housing, indoor emergency shelters, and indoor emergency housing.  👎1 
@@ -564,6 +569,9 @@
 
 ## [SB 5586](/bill/2023-24/sb/5586/) - Paid leave data 👍2  
 
+## [SB 5594](/bill/2023-24/sb/5594/) - Fully autonomous vehicles   ❓1
+* ❓ Brandy DeLange
+
 ## [SB 5606](/bill/2023-24/sb/5606/) - Illegal racing 👍2  
 
 ## [SB 5609](/bill/2023-24/sb/5609/) - Housing approval  👎2 
@@ -656,6 +664,9 @@
 ## [SB 6061](/bill/2023-24/sb/6061/) - Housing development/SEPA   ❓1
 * ❓💵 Carl Schroeder
 
+## [SB 6076](/bill/2023-24/sb/6076/) - Criminal justice local tax 👍1  
+* 👍💵 Candice Bock
+
 ## [SB 6105](/bill/2023-24/sb/6105/) - Adult entertainment workers   ❓1
 * ❓💵 Lindsey Hueer
 
@@ -676,7 +687,7 @@
 ## [SB 6167](/bill/2023-24/sb/6167/) - Local government procurement 👍1  
 * 👍 Brandy DeLange
 
-## [SB 6171](/bill/2023-24/sb/6171/) - Criminal justice/child care   ❓1
+## [SB 6171](/bill/2023-24/sb/6171/) - Child care/nonstandard hours   ❓1
 * ❓💵 Lindsey Hueer
 
 ## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍1  

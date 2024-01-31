@@ -29,6 +29,9 @@
 
 ## [HB 2244](/bill/2023-24/hb/2244/) - Retirement savings 👍1  
 
+## [HB 2481](/bill/2023-24/hb/2481/) - Waiving health benefit premiums in the public employees' benefits board. 👍2  
+* 👍 Matt Groshong
+
 ## [SB 5169](/bill/2023-24/sb/5169/) - Medicare/health care plans 👍7  
 * 👍 Carol Dotlich
 * 👍 Matt Groshong

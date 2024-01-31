@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 01/25 08:00 AM - Labor & Commerce (LC): SB 6056 Human trafficking/hotels

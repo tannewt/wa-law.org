@@ -72,13 +72,16 @@
 
 ## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages 👍2  
 
-## [SB 5838](/bill/2023-24/sb/5838/) - AI task force   ❓1
+## [SB 5838](/bill/2023-24/sb/5838/) - AI task force   ❓2
+* ❓💵 Kelly Fukai
 * ❓💵 Kelly Fukai
 
 ## [SB 5849](/bill/2023-24/sb/5849/) - Computer science/graduation 👍1  
 * 👍💵 Brittany Jarnot
 
-## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
+## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍2  
+
+## [SB 5999](/bill/2023-24/sb/5999/) - Financial aid eligibility 👍1  
 
 ## [SB 6012](/bill/2023-24/sb/6012/) - Teacher preparation programs 👍1  
 

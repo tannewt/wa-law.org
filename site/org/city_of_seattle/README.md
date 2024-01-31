@@ -153,6 +153,8 @@
 
 ## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍1  
 
+## [HB 1916](/bill/2023-24/hb/1916/) - Concerning funding for the early support for infants and toddlers program. 👍1  
+
 ## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
 
 ## [HB 1934](/bill/2023-24/hb/1934/) - AI task force 👍1  
@@ -393,7 +395,7 @@
 
 ## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍1  
 
-## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
+## [SB 5894](/bill/2023-24/sb/5894/) - Equal pay/protected classes 👍1  
 
 ## [SB 5906](/bill/2023-24/sb/5906/) - Implementing a statewide drug overdose prevention and education campaign. 👍1  
 
@@ -433,7 +435,7 @@
 
 ## [SB 6157](/bill/2023-24/sb/6157/) - Civil service 👍1  
 
-## [SB 6171](/bill/2023-24/sb/6171/) - Criminal justice/child care 👍1  
+## [SB 6171](/bill/2023-24/sb/6171/) - Child care/nonstandard hours 👍1  
 
 ## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍1  
 

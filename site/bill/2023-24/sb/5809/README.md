@@ -18,11 +18,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158432&caId=23793&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158432&caId=23793&tId=4)
 
-#### 0 👍 - Pro
+#### 130 👍 - Pro
 
-#### 1 👎 - Con
+#### 6 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Wed 01/10 10:30 AM - Early Learning & K-12 Education (EDU): SB 5809 Charter schools/enrichment
 #### 303 👍 - Pro

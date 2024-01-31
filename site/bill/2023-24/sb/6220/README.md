@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/24/2024 [The Seattle Times](/org/the_seattle_times/) - [Don’t let efforts to regulate high-potency pot go up in smoke | The Seattle Times](https://www.seattletimes.com/opinion/editorials/dont-let-efforts-to-regulate-high-potency-pot-go-up-in-smoke/#:~:text=SB%206220)

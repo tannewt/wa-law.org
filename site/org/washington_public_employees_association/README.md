@@ -147,7 +147,7 @@
 
 ## [SB 5454](/bill/2023-24/sb/5454/) - RN PTSD/industrial insurance 👍1  
 
-## [SB 5476](/bill/2023-24/sb/5476/) - Agricultural overtime  👎1 
+## [SB 5476](/bill/2023-24/sb/5476/) - Agricultural overtime  👎2 
 
 ## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍1  
 
@@ -164,7 +164,7 @@
 ## [SB 5808](/bill/2023-24/sb/5808/) - Safety telecom/interest arb. 👍1  
 * 👍💵 Seamus Petrie
 
-## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
+## [SB 5894](/bill/2023-24/sb/5894/) - Equal pay/protected classes 👍1  
 
 ## [SB 5895](/bill/2023-24/sb/5895/) - Concerning collective bargaining for certain employees who are enrolled in academic programs at public institutions of higher education. 👍1  
 
@@ -174,6 +174,8 @@
 
 ## [SB 6060](/bill/2023-24/sb/6060/) - Electronic signatures/PERC 👍1  
 * 👍 Derya Ruggles
+
+## [SB 6074](/bill/2023-24/sb/6074/) - TNC driver death benefits 👍1  
 
 ## [SB 6194](/bill/2023-24/sb/6194/) - Legislative employees   ❓1
 * ❓💵 Seamus Petrie

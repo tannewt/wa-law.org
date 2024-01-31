@@ -18,4 +18,4 @@
 
 ## [SB 5388](/bill/2023-24/sb/5388/) - Diversity in clinical trials 👍3  
 
-## [SB 5864](/bill/2023-24/sb/5864/) - Establishing a point of contact for any person diagnosed with a rare disease. 👍1  
+## [SB 5864](/bill/2023-24/sb/5864/) - Rare disease supports 👍1  

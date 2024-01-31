@@ -19,13 +19,7 @@
 
 ## Meetings
 ### Tue 01/30 10:30 AM - Law & Justice (LAW): E2SHB 1618 Childhood sexual abuse/SOL
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=158282&caId=23750&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=158282&caId=23750&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=158282&caId=23750&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=158282&caId=23750&tId=4)
-
-#### 92 👍 - Pro
+#### 99 👍 - Pro
 Testifying:
 * Christene Hansen
 * Pennie Saum

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/30 10:30 AM - Local Government (LG): HB 2428 Sales and use tax sharing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157986&caId=23727&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157986&caId=23727&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157986&caId=23727&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157986&caId=23727&tId=4)
-
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Michael Rizzitiello - [City of College Place](/org/city_of_college_place/)
 * Elizabeth Chamberlain - [City of Walla Walla](/org/city_of_walla_walla/)

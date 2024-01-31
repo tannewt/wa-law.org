@@ -19,7 +19,8 @@
 * 👍💵 Carissa Kemp
 * 👍💵 Carissa Kemp
 
-## [SB 5776](/bill/2023-24/sb/5776/) - Insulin emergency supply 👍1  
+## [SB 5776](/bill/2023-24/sb/5776/) - Insulin emergency supply 👍2  
+* 👍💵 Carissa Kemp
 * 👍💵 Carissa Kemp
 
 ## [SB 6182](/bill/2023-24/sb/6182/) - Obesity Rx coverage 👍1  

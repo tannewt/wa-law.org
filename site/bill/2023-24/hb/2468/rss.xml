@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2468/</link>
 		<description>Updates about HB 2468</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 29 Jan 2024 06:43:11 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 30 Jan 2024 12:31:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -69,6 +69,22 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Bryce/Yadon/2024-01-29 06:43:11</guid>
+		</item>
+		<item>
+			<title>❓💵Carl Schroeder - Association of Washington Cities</title>
+			<description>Carl Schroeder signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/association_of_washington_cities/&quot;&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 30 Jan 2024 03:05:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Carl/Schroeder/2024-01-30 03:05:25</guid>
+		</item>
+		<item>
+			<title>👍Amber Rosier - Midlands Kiddie Korral Inc.</title>
+			<description>Amber Rosier signed up to testify Pro.</description>
+			<pubDate>Tue, 30 Jan 2024 12:31:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Amber/Rosier/2024-01-30 12:31:32</guid>
 		</item>
 	</channel>
 </rss>

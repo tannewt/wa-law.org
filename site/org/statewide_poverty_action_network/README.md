@@ -114,13 +114,15 @@
 
 ## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
 
-## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍4  
+## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍6  
 * 👍💵 Alex Hur
 * 👍💵 Lianna Kressin
+* 👍💵 Lianna Kressin
+* 👍💵 Alex Hur
 
 ## [HB 2030](/bill/2023-24/hb/2030/) - Revoking a person's voting rights only when convicted of a state crime punishable by death. 👍1  
 
-## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions. 👍1  
+## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects 👍1  
 
 ## [HB 2072](/bill/2023-24/hb/2072/) - Antitrust penalties 👍1  
 
@@ -240,7 +242,8 @@
 
 ## [SB 6069](/bill/2023-24/sb/6069/) - Retirement savings 👍1  
 
-## [SB 6135](/bill/2023-24/sb/6135/) - TANF transitional assistance 👍2  
+## [SB 6135](/bill/2023-24/sb/6135/) - TANF transitional assistance 👍3  
+* 👍💵 Lianna Kressin
 * 👍💵 Lianna Kressin
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  

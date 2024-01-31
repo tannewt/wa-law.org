@@ -8,23 +8,19 @@
 
 ## Meetings
 ### Tue 01/30 10:30 AM - Local Government (LG): HB 2468 Child care facility siting
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157989&caId=23730&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157989&caId=23730&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157989&caId=23730&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157989&caId=23730&tId=4)
-
-#### 9 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Dana Christiansen - Washington Childcare Center Association
 * John Otto - Small Faces Child Development Center
 * Kim Pressel - Midlands Kiddie Korral Inc.
+* Amber Rosier
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Tiffany Speir - [City of Lakewood](/org/city_of_lakewood/)
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Erika Snell - Around The Clock Child Care Center Inc.
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)

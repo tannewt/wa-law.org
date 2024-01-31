@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Tue 01/30 10:30 AM - Labor & Commerce (LC): SB 5476 Agricultural overtime
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157974&caId=23667&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157974&caId=23667&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157974&caId=23667&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157974&caId=23667&tId=4)
-
-#### 498 👍 - Pro
+#### 545 👍 - Pro
 Testifying:
 * Alejandro Anita - Knutson Farms, Inc.
 * April Clayton - Red Apple Orchards
@@ -33,8 +27,10 @@ Testifying:
 * John McQuaig - Waterworks, LLC
 * Ernesto Del Rosario - Northwestern Orchards
 * Heidi Morris - Washington Fruit & Produce Co.
+* Timothy Pitz - Mt Adams Fruit
+* Maia Espinoza - Center for Latino Leadership
 
-#### 43 👎 - Con
+#### 56 👎 - Con
 Testifying:
 * 💵Andrea Schmitt - [Columbia Legal Services](/org/columbia_legal_services/)
 * Fortino Lopez
@@ -44,7 +40,7 @@ Testifying:
 * Edgar Franks - Familias Unidas por la Justicia
 * 💵Sybill Hyppolite - Washington State Labor Council, AFL-CIO
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 
 ### Thu 02/09 08:00 AM - Labor & Commerce (LC): SB 5476 Agricultural overtime
 #### 1079 👍 - Pro

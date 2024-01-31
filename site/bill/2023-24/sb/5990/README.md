@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/30 01:30 PM - Environment, Energy & Technology (ENET): SB 5990 Env. justice/SEPA projects
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31818&aId=157833&caId=23668&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31818&aId=157833&caId=23668&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31818&aId=157833&caId=23668&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31818&aId=157833&caId=23668&tId=4)
-
-#### 1235 👍 - Pro
+#### 1330 👍 - Pro
 Testifying:
 * 💵Christian Poulsen - Duwamish River Community Coalition
 * 💵Eric Gonzalez - Earth Justice
@@ -24,12 +18,13 @@ Testifying:
 * 💵Darcy Nonemacher - [Washington Conservation Action](/org/washington_conservation_action/)
 * 💵Adrienne Joyce - Washington State Catholic Conference
 
-#### 515 👎 - Con
+#### 641 👎 - Con
 Testifying:
 * 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* Marian LaFountaine
 
-#### 8 ❓ - Other
+#### 13 ❓ - Other
 Testifying:
 * John Worthington
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

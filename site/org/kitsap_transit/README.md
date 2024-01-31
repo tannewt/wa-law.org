@@ -33,3 +33,6 @@
 * 👍 John Clauson
 * 👍 Paul Shinners
 * 👍 wendy sorensen
+
+## [SB 6185](/bill/2023-24/sb/6185/) - PTBA governing body members   ❓1
+* ❓ Sanjay Bhatt

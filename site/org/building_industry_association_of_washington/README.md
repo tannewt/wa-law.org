@@ -146,7 +146,7 @@
 ## [HB 2051](/bill/2023-24/hb/2051/) - Reducing emissions from small off-road engines.  👎1 
 * 👎💵 Brent Ludeman
 
-## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions.  👎1 
+## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects  👎1 
 * 👎💵 Jan Himebaugh
 
 ## [HB 2071](/bill/2023-24/hb/2071/) - Residential housing   ❓1

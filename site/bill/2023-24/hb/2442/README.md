@@ -14,15 +14,27 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158013&caId=23706&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158013&caId=23706&tId=4)
 
-#### 27 👍 - Pro
+#### 158 👍 - Pro
 Testifying:
 * Josh Harris
 * Karen Shuey
 * Michael Wray
 * Steve Williams
+* Dianne Bernhard - Concerns of Police Survivors (COPS)
+* Jennifer Bautista - Lynden Inc
+* Jennifer Bautista - Concerns of police survivors
+* Jessica Wray - Concerns of police survivor
+* Michael Wray - Concerns of police survivors
+* Lisa Wray
 
-#### 96 👎 - Con
+#### 359 👎 - Con
 Testifying:
 * Katherine DeRosier
+* Calden Santiago
+* Melissa Sager
+* Carey Nolan
+* Crystal Linville
+* Jolin Lowry - Widow of Officer William Lowry
+* Haley Livezey
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/30 10:30 AM - Local Government (LG): HB 2433 Southwest WA fair admin.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157988&caId=23729&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157988&caId=23729&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157988&caId=23729&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157988&caId=23729&tId=4)
-
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Bryan Kuykendall - Lewis County Parks & Recreation
 * Erika Snell - Around The Clock Child Care Center Inc.

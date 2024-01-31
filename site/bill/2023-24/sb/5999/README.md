@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/30 04:00 PM - Ways & Means (WM): SB 5999 Financial aid eligibility
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158152&caId=23679&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158152&caId=23679&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158152&caId=23679&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158152&caId=23679&tId=4)
-
-#### 1009 👍 - Pro
+#### 1149 👍 - Pro
 Testifying:
 * Sean Graves
 * Margaret Kanyoko - Whitman College
@@ -35,7 +29,12 @@ Testifying:
 * Anastasia Hetman - UW Tacoma Student
 * Max Zivin
 * Elisia Reaves - US Tacoma student
+* Holly Wetzel - Associated Students of the University of Washingtion Tacoma
+* Michelle Carrillo - Associated Students of Central Washington University
+* 💵Puneet Birk - Washington Student Association and Associated Students of the University of Washington Bothell
+* Sean Behl - Bellevue College Associated Student Government
+* Elias Bonilla
 
-#### 5 👎 - Con
+#### 35 👎 - Con
 
-#### 11 ❓ - Other
+#### 12 ❓ - Other

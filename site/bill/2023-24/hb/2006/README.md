@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 2006](/bill/2023-24/hb/2006/)
 
-# HB 2006 - Concerning court interpreters.
+# HB 2006 - Court interpreters
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=2006&Year=2023&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202006)

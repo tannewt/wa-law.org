@@ -9,7 +9,7 @@
 
 ## [SB 5476](/bill/2023-24/sb/5476/) - Agricultural overtime 👍1  
 
-## [SB 5996](/bill/2023-24/sb/5996/) - Concerning collecting data on the H-2A worker program and from certain hand harvesters.  👎1 
+## [SB 5996](/bill/2023-24/sb/5996/) - H-2A worker program data  👎1 
 * 👎💵 Scott Dilley
 
 ## [SB 6072](/bill/2023-24/sb/6072/) - LTSS commission recs. 👍1  

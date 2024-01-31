@@ -22,7 +22,10 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Delika Steele - Office of the Insurance Commissioner
+* Jane Beyer - Office of the Insurance Commissioner
 
 ### Tue 01/23 08:00 AM - Health & Long Term Care (HLTC): SB 6228 Substance use treatment
 #### 15 👍 - Pro

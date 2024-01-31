@@ -53,7 +53,8 @@
 ## [HB 1570](/bill/2023-24/hb/1570/) - TNC insurance programs 👍2  
 * 👍💵 Julia Gorton
 
-## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy 👍1 👎1 
+## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy 👍1 👎2 
+* 👎💵 Samantha Louderback
 * 👎💵 Samantha Louderback
 
 ## [HB 1638](/bill/2023-24/hb/1638/) - State trooper recruitment 👍1  
@@ -223,10 +224,14 @@
 
 ## [SB 5835](/bill/2023-24/sb/5835/) - Rule making websites 👍1  
 
-## [SB 5838](/bill/2023-24/sb/5838/) - AI task force   ❓1
+## [SB 5838](/bill/2023-24/sb/5838/) - AI task force   ❓2
+* ❓ Montana Miranda
 
 ## [SB 5924](/bill/2023-24/sb/5924/) - Access to personnel records  👎1 
 * 👎💵 Julia Gorton
+
+## [SB 5957](/bill/2023-24/sb/5957/) - AI use guidelines   ❓1
+* ❓ Montana Miranda
 
 ## [SB 5987](/bill/2023-24/sb/5987/) - Gift certificates  👎1 
 * 👎 Montana Miranda

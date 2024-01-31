@@ -13,7 +13,8 @@
 ## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management  👎1 
 * 👎💵 Brad Boswell
 
-## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg.   ❓1
+## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg.   ❓2
+* ❓💵 Brad Boswell
 * ❓💵 Brad Boswell
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management   ❓1

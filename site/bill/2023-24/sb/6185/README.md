@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 01/30 04:00 PM - Transportation (TRAN): SB 6185 PTBA governing body members
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31805&aId=158131&caId=23673&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31805&aId=158131&caId=23673&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31805&aId=158131&caId=23673&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31805&aId=158131&caId=23673&tId=4)
-
-#### 89 👍 - Pro
+#### 110 👍 - Pro
 Testifying:
 * Joe Kunzler
 * Harry Kiick
@@ -27,9 +21,14 @@ Testifying:
 * 💵Anna Zivarts - [Disability Rights Washington](/org/disability_rights_washington/)
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
 * Lindsey Schromen-Wawrin, - Port Angeles City Councilmember
+* Kris Colcock
 
-#### 6 👎 - Con
+#### 24 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Maureen McCarthy - Whatcom Transportation Authority
+* Chelsea Ongaro - Community Transit
+* Sanjay Bhatt - [Kitsap Transit](/org/kitsap_transit/)

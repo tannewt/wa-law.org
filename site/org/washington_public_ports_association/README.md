@@ -137,7 +137,7 @@
 ## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍1  
 * 👍💵 Carly Michiels
 
-## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions.   ❓1
+## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects   ❓1
 * ❓💵 Carly Michiels
 
 ## [HB 2087](/bill/2023-24/hb/2087/) - Apprenticeship objections 👍1  

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 01/18 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 6062 DNR trust asset leasing

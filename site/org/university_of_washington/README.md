@@ -99,7 +99,7 @@
 ## [HB 2004](/bill/2023-24/hb/2004/) - Military student early reg. 👍1  
 * 👍 Jordan Caron
 
-## [HB 2037](/bill/2023-24/hb/2037/) - Concerning Holocaust and genocide education in public schools. 👍1  
+## [HB 2037](/bill/2023-24/hb/2037/) - Holocaust and genocide edu. 👍1  
 
 ## [HB 2041](/bill/2023-24/hb/2041/) - Physician assistant practice 👍1  
 

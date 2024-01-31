@@ -8,17 +8,13 @@
 
 ## Meetings
 ### Tue 01/30 01:30 PM - Environment, Energy & Technology (ENET): SB 5957 AI use guidelines
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31818&aId=157834&caId=23669&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31818&aId=157834&caId=23669&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31818&aId=157834&caId=23669&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31818&aId=157834&caId=23669&tId=4)
-
-#### 31 👍 - Pro
+#### 43 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Katy Ruckle - WaTech
 * Robert (Bob) Battles - Association of Washington Business (AWB)
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* Montana Miranda - [Washington Hospitality Association](/org/washington_hospitality_association/)

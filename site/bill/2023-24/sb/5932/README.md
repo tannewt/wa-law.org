@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/30 10:30 AM - Labor & Commerce (LC): SB 5932 Temporary total disability
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=158295&caId=23749&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=158295&caId=23749&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=158295&caId=23749&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=158295&caId=23749&tId=4)
-
-#### 18 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * 💵Billy Wallace - Northwest District Council of Laborers
 * Josh Swanson - Operating Engineers Local 302
@@ -22,7 +16,7 @@ Testifying:
 * MARK RIKER - Washington State Building & Construction Trades Council
 * 💵Ray Dumas - Cement Masons & Plasterers Local 528
 
-#### 17 👎 - Con
+#### 31 👎 - Con
 Testifying:
 * Tom Kwieciak - Building Industry Association of WA
 * Robert (Bob) Battles - Association of Washington Business (AWB)

@@ -8,19 +8,14 @@
 
 ## Meetings
 ### Tue 01/30 10:30 AM - Local Government (LG): HB 2470 Gender-based violence tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157990&caId=23731&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157990&caId=23731&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157990&caId=23731&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157990&caId=23731&tId=4)
-
-#### 42 👍 - Pro
+#### 46 👍 - Pro
 Testifying:
 * Judge Rachelle Anderson - Superior Court Judges' Association
 * Judge Sean O'Donnell - Superior Court Judges' Association
 * Sarah Rumbaugh - Tacoma City Councilmember
+* 💵Carey Morris - WA State Coalition Against Domestic Violence
 
-#### 833 👎 - Con
+#### 883 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Jennifer Kaslow
@@ -32,7 +27,7 @@ Testifying:
 * Ronald Warne Jr
 * Dawn Ault
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)

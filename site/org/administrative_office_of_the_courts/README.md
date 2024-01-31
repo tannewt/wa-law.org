@@ -32,7 +32,7 @@
 * 👍 Brittany Gregory
 * 👍 Shannon Hinchcliffe
 
-## [HB 2006](/bill/2023-24/hb/2006/) - Concerning court interpreters. 👍3  
+## [HB 2006](/bill/2023-24/hb/2006/) - Court interpreters 👍3  
 * 👍 Brittany Gregory
 * 👍 Brittany Gregory
 * 👍 James Wells
@@ -87,7 +87,8 @@
 ## [SB 5474](/bill/2023-24/sb/5474/) - Juvenile justice   ❓1
 * ❓ Brittany Gregory
 
-## [SB 5825](/bill/2023-24/sb/5825/) - Guardianship 👍1  
+## [SB 5825](/bill/2023-24/sb/5825/) - Guardianship 👍2  
+* 👍 Christopher Stanley
 * 👍 Christopher Stanley
 
 ## [SB 5827](/bill/2023-24/sb/5827/) - Superior court/Whatcom 👍3  
@@ -95,8 +96,9 @@
 * 👍 Shannon Hinchcliffe
 * 👍 Christopher Stanley
 
-## [SB 5828](/bill/2023-24/sb/5828/) - Water rights commissioners 👍1  
+## [SB 5828](/bill/2023-24/sb/5828/) - Water rights commissioners 👍2  
 * 👍 Shannon Hinchcliffe
+* 👍 Christopher Stanley
 
 ## [SB 5836](/bill/2023-24/sb/5836/) - Adding an additional superior court judge in Clark county. 👍2  
 * 👍 Dawn Marie Rubio

@@ -51,4 +51,6 @@
 
 ## [SB 5523](/bill/2023-24/sb/5523/) - Forensic pathologists 👍3  
 
+## [SB 5838](/bill/2023-24/sb/5838/) - AI task force 👍1  
+
 ## [SB 6144](/bill/2023-24/sb/6144/) - Prescribing psychologists  👎1 

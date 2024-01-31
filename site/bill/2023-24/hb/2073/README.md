@@ -15,15 +15,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158361&caId=23768&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158361&caId=23768&tId=4)
 
-#### 14 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Elizabeth Hansen
 * Ruth Williams
 * Adam Lough
+* Kate White Tudor - Natural Resources Defense Council
+* Annemarie Dooley - Washington Physicians for Social Responsibility
 
-#### 0 👎 - Con
+#### 304 👎 - Con
+Testifying:
+* Jeannette Mcchesney
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* John Gibbons - Immediate Past President of WSDA
 
 ### Thu 01/11 08:00 AM - Environment & Energy (ENVI): HB 2073 Greenhouse gas other sources
 #### 173 👍 - Pro

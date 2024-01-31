@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/23 08:00 AM - Health & Long Term Care (HLTC): SB 6251 Behavioral crisis coord.

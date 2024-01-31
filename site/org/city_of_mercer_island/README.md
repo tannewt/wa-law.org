@@ -48,3 +48,5 @@
 ## [SB 6134](/bill/2023-24/sb/6134/) - Opioid use 👍1  
 
 ## [SB 6242](/bill/2023-24/sb/6242/) - Law enforcement training 👍1  
+
+## [SB 6304](/bill/2023-24/sb/6304/) - Implementing certain recommendations of the transportation electrification strategy. 👍1  

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6105/</link>
 		<description>Updates about SB 6105</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 14 Jan 2024 19:38:19 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 30 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -133,6 +133,13 @@
 			<pubDate>Sun, 14 Jan 2024 19:38:19 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2024/01/14/this-week-in-the-senate-week-2-mlk-education-gas-price-transparency/#:~:text=SB%206105</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-30/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

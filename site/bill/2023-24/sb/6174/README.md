@@ -8,14 +8,8 @@
 
 ## Meetings
 ### Tue 01/30 04:00 PM - Transportation (TRAN): SB 6174 Highways/mowing & litter
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31805&aId=158133&caId=23675&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31805&aId=158133&caId=23675&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31805&aId=158133&caId=23675&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31805&aId=158133&caId=23675&tId=4)
+#### 43 👍 - Pro
 
-#### 22 👍 - Pro
-
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

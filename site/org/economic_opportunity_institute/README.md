@@ -76,6 +76,9 @@
 
 ## [HB 2374](/bill/2023-24/hb/2374/) - Washington promise program 👍1  
 
+## [HB 2378](/bill/2023-24/hb/2378/) - Health care facility fees 👍1  
+* 👍 Sam Hatzenbeler
+
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍2  
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
@@ -121,7 +124,7 @@
 ## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave 👍1  
 * 👍💵 Gabriela Quintana
 
-## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
+## [SB 5894](/bill/2023-24/sb/5894/) - Equal pay/protected classes 👍1  
 
 ## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
 

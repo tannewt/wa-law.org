@@ -9,7 +9,7 @@
 
 ## [HB 2210](/bill/2023-24/hb/2210/) - DOC wild horse program 👍3  
 
-## [HB 2257](/bill/2023-24/hb/2257/) - Back country search & rescue 👍2  
+## [HB 2257](/bill/2023-24/hb/2257/) - Back country search & rescue 👍3  
 
 ## [HB 2456](/bill/2023-24/hb/2456/) - Wildlife safe passages 👍2  
 

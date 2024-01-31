@@ -75,6 +75,10 @@
 
 ## [SB 5809](/bill/2023-24/sb/5809/) - Charter schools/enrichment 👍1  
 
+## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
+
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍1  
+
 ## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍1  
 
 ## [SB 6277](/bill/2023-24/sb/6277/) - Transportation partnerships 👍1  

@@ -31,7 +31,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31819&aId=158260&caId=23739&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31819&aId=158260&caId=23739&tId=4)
 
-#### 126 👍 - Pro
+#### 247 👍 - Pro
 Testifying:
 * Anna Lising - Governor's office
 * Jason Lewis - Utilities and Transportation Commission
@@ -44,8 +44,51 @@ Testifying:
 * 💵Matthew Hepner - IBEW/CEWW
 * 💵Neil Hartman - Washington State Association Of UA Plumbers & Pipefitters
 * Sam Hem - NWRC SMART Local 66
+* Ruth Sawyer
+* Therese Livella
+* Donald Auguston - Retired
+* Dylan Plummer - [Sierra Club](/org/sierra_club/)
+* 💵Kelly Hall - [Climate Solutions](/org/climate_solutions/)
+* Lauren McCloy - NW Energy Coalition
+* Richard Kolber
+* Peter Fels - none
+* Gothard Grey
+* Lori Benton
+* Carrie Shook - citizen
+* Val Alexander
+* Dave Miller
+* Richard Marshall
+* Frances Foley
+* John Harrington
+* Cathryn Chudy
+* Jim Byrne - None
+* Ben Bierman
+* Mona McNeil
+* Susan Saul
+* Diana Perez
+* Steven Campana
+* Diana Gordon
+* Marie Durbin
+* Evalyn Baker
+* Arthur Ungar
+* Kristin PRICE
+* Alan Mitchell
+* Gary Seeman
+* Diane Adkin
+* 💵Kate Brouns - [Renewable Northwest](/org/renewable_northwest/)
+* Kate White Tudor - National Resources Defense Council
+* Kathleen Saul
+* Nancy Helget
+* BEVERLY BASSETT - none
+* Patricia Freiberg - self
+* ELizabeth Harris
+* Mark Blessley
+* Sandra Griebe
+* Joann Derie - Self
+* Mike Ellison
+* Sarah Martin
 
-#### 800 👎 - Con
+#### 1358 👎 - Con
 Testifying:
 * 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
@@ -56,10 +99,25 @@ Testifying:
 * 💵Carolyn Logue - NW Hearth, Patio & Barbecue Association
 * William Shadbolt - [Washington Business Properties Association](/org/washington_business_properties_association/)
 * Swen Nater
+* 💵Katie Beeson - Washington Food Industry Association
+* Patrick Husting
+* Robert Greer
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* Taylor Underwood
+* Brenda Oster
+* Marian LaFountaine
+* Ryo Izawa - Samurai Noodle
+* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Michael Lindsay - Eatonville
+* Matthew \Gilbert
+* David Sedelmeier
 
-#### 6 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * 💵Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* 💵John Rothlin - Avista
+* 💵Vicki Christophersen - Northwest and Intermountain Power Producers Coalition
+* Marcus Carter
 
 ### Fri 03/17 08:00 AM - Environment, Energy & Technology (ENET): ESHB 1589 Clean energy
 #### 98 👍 - Pro

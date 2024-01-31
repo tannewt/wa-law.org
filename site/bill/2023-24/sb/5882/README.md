@@ -13,6 +13,22 @@
 * 01/07/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: Welcome to the 2024 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/07/this-week-in-the-senate-week-1-welcome-to-the-2024-session/#:~:text=SB%205882)
 
 ## Meetings
+### Sat 02/03 09:00 AM - Ways & Means (WM): SSB 5882 Prototypical school staffing
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158529&caId=23806&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158529&caId=23806&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158529&caId=23806&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158529&caId=23806&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* Marissa Rathbone - Washington State School Directors' Association
+* Malorie Larson - Washington State PTA
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/10 10:30 AM - Early Learning & K-12 Education (EDU): SB 5882 Prototypical school staffing
 #### 117 👍 - Pro
 Testifying:

@@ -14,16 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31830&aId=158341&caId=23753&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31830&aId=158341&caId=23753&tId=4)
 
-#### 10 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Deion Glover - Washington State Patrol
 * Dongho Chang - WSDOT
 * Mark McKechnie - Washington Safety Traffic Commission
 
-#### 274 👎 - Con
+#### 501 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Jeannette Mcchesney
 * Jeff Pack - Washington Citizens Against Unfair Taxes
+* Marian LaFountaine
 
 #### 0 ❓ - Other

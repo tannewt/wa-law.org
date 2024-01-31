@@ -17,7 +17,7 @@ Testifying:
 * Todd Mitchell - Heat & Frost Insulators L 7
 * 💵Cory Elliott - NW Carpenters / NWNCA
 * 💵Luke Esser - Boilermakers
-* Tracey Eixenberger - Boilermakers Local 502
+* Tracey Eixenberger - [Boilermakers Local 502](/org/boilermakers_local_502/)
 
 #### 44 👎 - Con
 Testifying:

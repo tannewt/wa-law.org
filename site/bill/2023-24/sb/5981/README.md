@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158165&caId=23697&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158165&caId=23697&tId=4)
 
-#### 26 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * Chris Ativalu-Ford - TVW's Capitol Classroom
 * Edgar Calixto - TVW's Capitol Classroom

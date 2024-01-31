@@ -52,7 +52,7 @@
 
 ## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍1  
 
-## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions. 👍1  
+## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects 👍1  
 
 ## [HB 2071](/bill/2023-24/hb/2071/) - Residential housing 👍1  
 * 👍💵 Bryce Yadon

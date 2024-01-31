@@ -20,9 +20,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158369&caId=23776&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158369&caId=23776&tId=4)
 
-#### 37 👍 - Pro
+#### 44 👍 - Pro
 
-#### 2 👎 - Con
+#### 7 👎 - Con
+Testifying:
+* 💵Michael Lindsay - Eatonville
 
 #### 0 ❓ - Other
 

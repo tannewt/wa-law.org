@@ -13,6 +13,8 @@
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 * 👍 Elizabeth Chamberlain
 
+## [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element  👎1 
+
 ## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg. 👍1  
 
 ## [HB 2307](/bill/2023-24/hb/2307/) - Public records reviews 👍1  

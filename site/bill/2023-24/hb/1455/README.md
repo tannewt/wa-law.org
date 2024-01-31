@@ -22,13 +22,7 @@
 
 ## Meetings
 ### Tue 01/30 10:30 AM - Law & Justice (LAW): HB 1455 Child marriage
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=157580&caId=23660&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=157580&caId=23660&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=157580&caId=23660&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=157580&caId=23660&tId=4)
-
-#### 146 👍 - Pro
+#### 157 👍 - Pro
 Testifying:
 * Cleland Katherine - Zonta (Please note that Katherine will be in person)
 * 💵Fraidy Reiss - [Unchained At Last](/org/unchained_at_last/)
@@ -36,6 +30,10 @@ Testifying:
 * Kate Yang
 * Sara Tasneem
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* Rebecca Faust
+* Beth Ebel - WA Chapter of the American Academy of Pediatrics
+* Stephanie Warren
+* Preston Dwoskin
 
 #### 2 👎 - Con
 Testifying:

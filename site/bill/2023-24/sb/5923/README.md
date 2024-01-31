@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Tue 01/30 04:00 PM - Ways & Means (WM): SSB 5923 Substance use prevention ed.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158155&caId=23682&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158155&caId=23682&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158155&caId=23682&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158155&caId=23682&tId=4)
-
-#### 280 👍 - Pro
+#### 296 👍 - Pro
 Testifying:
 * Salim Nice - Mayor Mercer Island
 * Maddy Thompson
@@ -30,8 +24,9 @@ Testifying:
 * Sharmaine Gibbons
 * Hilary Smith
 * Aayush Muthuswamy - [Seattle Public Schools](/org/seattle_public_schools/)
+* LINDA THOMPSON - Washington Association for Substance misuse and Violence Prevention (WASAVP)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

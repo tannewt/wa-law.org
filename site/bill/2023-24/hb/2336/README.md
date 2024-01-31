@@ -18,14 +18,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158332&caId=23755&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158332&caId=23755&tId=4)
 
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Commissioner Amanda McKinney - Yakima County
 * Dani Madrone - American Farmland Trust
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 01/17 08:00 AM - Agriculture and Natural Resources (AGNR): HB 2336 Suitability of lands
 #### 30 👍 - Pro

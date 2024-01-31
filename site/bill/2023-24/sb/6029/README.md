@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/16 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6029 Detached ADUs

@@ -7,7 +7,7 @@
 ## [HB 1509](/bill/2023-24/hb/1509/) - Community solar 👍1  
 * 👍 Markus Virta
 
-## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions. 👍1  
+## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects 👍1  
 
 ## [HB 2087](/bill/2023-24/hb/2087/) - Apprenticeship objections 👍1  
 * 👍 Bill Will

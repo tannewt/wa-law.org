@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 01/19 08:00 AM - Environment, Energy & Technology (ENET): SB 6121 Biochar production

@@ -8,15 +8,11 @@
 
 ## Meetings
 ### Tue 01/30 04:00 PM - Ways & Means (WM): SB 6080 Tourism marketing funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158153&caId=23680&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158153&caId=23680&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158153&caId=23680&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158153&caId=23680&tId=4)
-
-#### 9 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Steve Ewing - Dept. of Revenue
+* Sarah Clark - Seattle Metro Chamber
 
 #### 0 👎 - Con
 

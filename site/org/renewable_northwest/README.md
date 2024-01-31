@@ -12,8 +12,9 @@
 ## [HB 1509](/bill/2023-24/hb/1509/) - Community solar 👍1  
 * 👍 Kate Browns
 
-## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy  👎1 
+## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy 👍1 👎1 
 * 👎 Jeff Gombosky
+* 👍💵 Kate Brouns
 
 ## [HB 1756](/bill/2023-24/hb/1756/) - Energy/tax   ❓1
 * ❓💵 Kate Brouns

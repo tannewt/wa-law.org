@@ -14,16 +14,28 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158141&caId=23688&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158141&caId=23688&tId=4)
 
-#### 50 👍 - Pro
+#### 137 👍 - Pro
 Testifying:
 * 💵Isaac Kastama - Clean & Prosperous Washington
 * 💵Paula Sardinas - WBBA (WA Build Back Black Alliance)
+* Hannah Steinweg - Rivian
+* joset torres - apple valley honda
+* Mark Prentice
+* 💵Charlee Thompson - NW Energy Coalition
 
-#### 171 👎 - Con
+#### 458 👎 - Con
 Testifying:
 * 💵Scott Hazlegrove - WA State Auto Dealers Association
 * John Goodwin
 * Cindy Goodwin
 * Fransico Hunt
+* Mike Gonzalez - Apple Valley Honda
+* Tracey Norberg - U.S. Tire Manufacturers Association
+* MICHAEL BANNAN - Sales Manager - I-5 Cars
+* Anthony Montemayor
+* BEN FLEMING
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Brian Bonlender - [Electric Vehicle Charging Association](/org/electric_vehicle_charging_association/)
+* 💵Dave Warren - WA Green Hydrogen Alliance

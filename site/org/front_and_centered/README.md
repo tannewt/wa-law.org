@@ -37,7 +37,7 @@
 
 ## [HB 1895](/bill/2023-24/hb/1895/) - Modifying the working families' tax credit by clarifying the refundable nature of the credit, the application requirements, and the eligibility verification process. 👍1  
 
-## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions. 👍2  
+## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects 👍2  
 * 👍💵 Guillermo Rogel
 * 👍💵 Guillermo Rogel
 

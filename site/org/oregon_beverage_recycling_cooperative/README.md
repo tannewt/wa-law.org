@@ -5,7 +5,8 @@
 * 👍💵 Alex Hur
 * 👍 Eric Chambers
 
-## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg. 👍1  
+## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg. 👍2  
+* 👍 Eric Chambers
 * 👍 Eric Chambers
 
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management   ❓1

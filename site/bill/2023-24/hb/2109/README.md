@@ -11,6 +11,19 @@
 * 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202109)
 
 ## Meetings
+### Fri 02/02 10:30 AM - Appropriations (APP): SHB 2109 Permanent cosmetics
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31827&aId=158485&caId=23817&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31827&aId=158485&caId=23817&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31827&aId=158485&caId=23817&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31827&aId=158485&caId=23817&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/16 01:30 PM - Consumer Protection & Business (CPB): HB 2109 Permanent cosmetics
 #### 6 👍 - Pro
 Testifying:

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2055/</link>
 		<description>Updates about HB 2055</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 23 Jan 2024 08:09:51 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 30 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -36,6 +36,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Tina/Griffin/2024-01-23 08:09:51</guid>
+		</item>
+		<item>
+			<title>CRJ - Executive action taken by committee.</title>
+			<description>CRJ - Executive action taken by committee.</description>
+			<pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-30/CRJ - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

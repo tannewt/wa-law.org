@@ -11,17 +11,13 @@
 
 ## Meetings
 ### Tue 01/30 10:30 AM - Law & Justice (LAW): HB 1054 Occupancy limits
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=158197&caId=23662&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=158197&caId=23662&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=158197&caId=23662&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31789&aId=158197&caId=23662&tId=4)
+#### 132 👍 - Pro
 
-#### 126 👍 - Pro
-
-#### 11 👎 - Con
+#### 31 👎 - Con
 Testifying:
 * Steve Horvath - HOA United
+* Omar Nur - [Innis Arden Club](/org/innis_arden_club/)
+* Michael Feinberg - Sheridan Beach Community Club
 * Valerie Oman - Condominium Law Group, PLLC
 
 #### 0 ❓ - Other

@@ -8,16 +8,12 @@
 
 ## Meetings
 ### Tue 01/30 10:30 AM - Labor & Commerce (LC): SB 5898 Long-term care providers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157972&caId=23665&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157972&caId=23665&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157972&caId=23665&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157972&caId=23665&tId=4)
-
-#### 7 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Lynn Kimball - Washington Association of Area Agencies on Aging
 * Ben Bledsoe - Consumer Direct Care Network
+* Bea Rector - Dept. of Social and Health Services Aging and Long-Term Supports Administration (DSHS ALTSA)
+* 💵Alexa Silver - Consumer Direct of Washington
 
 #### 1 👎 - Con
 Testifying:

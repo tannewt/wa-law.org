@@ -33,10 +33,12 @@
 ## [HB 1933](/bill/2023-24/hb/1933/) - Supporting the servicing and right to repair of certain products with digital electronics in a secure and reliable manner. 👍1  
 * 👍 Pam Clough
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍1  
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍2  
 
 ## [HB 2051](/bill/2023-24/hb/2051/) - Reducing emissions from small off-road engines. 👍1  
 * 👍💵 Pamela Clough
+
+## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg. 👍1  
 
 ## [HB 2456](/bill/2023-24/hb/2456/) - Wildlife safe passages 👍1  
 

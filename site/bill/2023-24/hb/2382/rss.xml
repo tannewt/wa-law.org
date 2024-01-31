@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2382/</link>
 		<description>Updates about HB 2382</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 23 Jan 2024 18:44:34 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 30 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -76,6 +76,13 @@
 			<pubDate>Tue, 23 Jan 2024 18:44:34 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.king5.com/article/news/local/proposed-bill-expands-death-benefits-families-slain-rideshare-drivers/281-0b744664-84fa-4804-a56d-f8aba3d9b006#:~:text=House%20Bill%202382</guid>
+		</item>
+		<item>
+			<title>LAWS - Executive action taken by committee.</title>
+			<description>LAWS - Executive action taken by committee.</description>
+			<pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-30/LAWS - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

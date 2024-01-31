@@ -8,26 +8,26 @@
 
 ## Meetings
 ### Tue 01/30 04:00 PM - Transportation (TRAN): SB 5872 Autonomous vehicles
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31805&aId=158135&caId=23677&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31805&aId=158135&caId=23677&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31805&aId=158135&caId=23677&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31805&aId=158135&caId=23677&tId=4)
-
-#### 69 👍 - Pro
+#### 118 👍 - Pro
 Testifying:
 * Jessie Elliott - Air Line Pilots Association, International (ALPA)
 * 💵Larry Shannon - Washington State Association for Justice
 * Salah Mcalin
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 * 💵Sybill Hyppolite - Washington State Labor Council, AFL-CIO
+* Ken Price - Amalgamated Transit Union 587
+* Kris DeBuck - Teamsters Local 174
+* 💵Brenda Wiest - Teamsters 117
+* AJ Johnson - Washington state council of firefighters
+* 💵Anna Zivarts
 
-#### 13 👎 - Con
+#### 23 👎 - Con
 Testifying:
 * Jeff Farrah - [Autonomous Vehicle Industry Association](/org/autonomous_vehicle_industry_association/)
 * Robert Singleton - Chamber of Progress
 * Jeff Gombosky - [Tesla](/org/tesla/)
 * 💵Brandon Houskeeper - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)
+* 💵Ashley Sutton - TechNet
 
 #### 5 ❓ - Other
 Testifying:

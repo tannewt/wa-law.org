@@ -37,7 +37,7 @@
 
 ## [HB 2065](/bill/2023-24/hb/2065/) - Recalculating sentencing ranges for currently incarcerated individuals whose offender score was increased by juvenile convictions. 👍2  
 
-## [HB 2084](/bill/2023-24/hb/2084/) - Establishing an oversight committee to improve construction-related training and pathways to state registered apprenticeships in state correctional facilities. 👍1  
+## [HB 2084](/bill/2023-24/hb/2084/) - Construction training/DOC 👍1  
 
 ## [HB 2099](/bill/2023-24/hb/2099/) - State custody/ID cards 👍4  
 * 👍💵 Kelly Olson

@@ -210,7 +210,7 @@
 ## [HB 2065](/bill/2023-24/hb/2065/) - Recalculating sentencing ranges for currently incarcerated individuals whose offender score was increased by juvenile convictions.  👎1 
 * 👎💵 Juliana Roe
 
-## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions.   ❓1
+## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects   ❓1
 * ❓💵 Paul Jewell
 
 ## [HB 2071](/bill/2023-24/hb/2071/) - Residential housing   ❓1
@@ -449,7 +449,7 @@
 ## [SB 5844](/bill/2023-24/sb/5844/) - Dilapidated RV disposal   ❓1
 * ❓💵 Travis Dutton
 
-## [SB 5869](/bill/2023-24/sb/5869/) - Rural fire protection infra.   ❓1
+## [SB 5869](/bill/2023-24/sb/5869/) - Rural fire district stations   ❓1
 * ❓💵 Paul Jewell
 
 ## [SB 5901](/bill/2023-24/sb/5901/) - Co-living housing   ❓1

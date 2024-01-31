@@ -18,6 +18,8 @@
 
 ## [HB 1558](/bill/2023-24/hb/1558/) - Self-insured pensions/fund 👍1  
 
+## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy  👎1 
+
 ## [HB 1785](/bill/2023-24/hb/1785/) - COVID-19/occupational  👎1 
 
 ## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge  👎1 

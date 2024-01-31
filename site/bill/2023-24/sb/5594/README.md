@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/30 04:00 PM - Transportation (TRAN): SB 5594 Fully autonomous vehicles
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31805&aId=158134&caId=23676&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31805&aId=158134&caId=23676&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31805&aId=158134&caId=23676&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31805&aId=158134&caId=23676&tId=4)
-
-#### 13 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * Jeff Farrah - [Autonomous Vehicle Industry Association](/org/autonomous_vehicle_industry_association/)
 * Robert Singleton - Chamber of Progress
@@ -22,21 +16,27 @@ Testifying:
 * 💵Isaac Kastama - Clean & Prosperous Washington
 * 💵Brent Ludeman - Waymo
 * 💵Brandon Houskeeper - Alliance for Automitve Innovation
+* Paul Escobar - Zoox
+* 💵Ashley Sutton - TechNet
 
-#### 93 👎 - Con
+#### 162 👎 - Con
 Testifying:
 * William Widen
 * Philip Koopman
 * Alex Dietz - Washington State Association for Justice
 * Katie Kolan - WA Insurers
 * 💵Kenton Brine - NW Insurance Council
+* Ken Price - Amalgamated Transit Union 587
+* 💵Samantha Grad - Teamsters 117
 
-#### 7 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * Jim Restucci - Wash. State Transportation Commission
 * 💵Scott Hazlegrove - WA State Auto Dealers Association
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 * Chris Long - [City of Bellevue](/org/city_of_bellevue/)
+* Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Beau Perschbacher - WA Dept. of Licensing
 
 ### Tue 02/07 04:00 PM - Transportation (TRAN): SB 5594 Fully autonomous vehicles
 #### 26 👍 - Pro

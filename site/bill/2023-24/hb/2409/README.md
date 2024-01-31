@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Tue 01/30 10:30 AM - Local Government (LG): HB 2409 Safe excavation practices
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157984&caId=23726&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157984&caId=23726&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157984&caId=23726&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157984&caId=23726&tId=4)
-
 #### 11 👍 - Pro
 Testifying:
 * Kemp Garcia - Linescape of WA, NUCA of WA
@@ -22,7 +16,7 @@ Testifying:
 
 #### 1 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Jason Lewis - Utilities & Transportation Commission
 * 💵Josie Cummings - Avista

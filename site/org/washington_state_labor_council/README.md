@@ -37,3 +37,6 @@
 
 ## [SB 5632](/bill/2023-24/sb/5632/) - Labor disputes/health care 👍1  
 * 👍 april sims
+
+## [SB 6107](/bill/2023-24/sb/6107/) - Construction/sanitary cond. 👍1  
+* 👍 April Sims

@@ -43,6 +43,8 @@
 
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍5  
 
+## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy 👍1  
+
 ## [HB 1735](/bill/2023-24/hb/1735/) - GMA/net ecological gain 👍1  
 * 👍 Mindy Roberts
 
@@ -58,7 +60,7 @@
 
 ## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍1  
 
-## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions. 👍1  
+## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects 👍1  
 
 ## [HB 2126](/bill/2023-24/hb/2126/) - Rural area ADUs  👎1 
 

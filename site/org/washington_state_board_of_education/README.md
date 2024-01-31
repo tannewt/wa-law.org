@@ -76,7 +76,7 @@
 
 ## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
 
-## [HB 2037](/bill/2023-24/hb/2037/) - Concerning Holocaust and genocide education in public schools. 👍1  
+## [HB 2037](/bill/2023-24/hb/2037/) - Holocaust and genocide edu. 👍1  
 
 ## [HB 2053](/bill/2023-24/hb/2053/) - Establishing the ninth grade success grant program. 👍1  
 
@@ -187,7 +187,7 @@
 
 ## [SB 5903](/bill/2023-24/sb/5903/) - Concerning representation in the educator preparation act. 👍1  
 
-## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍1  
+## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍2  
 
 ## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  
 

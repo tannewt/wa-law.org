@@ -14,26 +14,26 @@
 
 ## Meetings
 ### Tue 01/30 04:00 PM - Ways & Means (WM): SSB 5838 AI task force
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158156&caId=23683&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158156&caId=23683&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158156&caId=23683&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158156&caId=23683&tId=4)
-
-#### 84 👍 - Pro
+#### 111 👍 - Pro
 Testifying:
 * 💵Tathagata Pal - Legislative Liaison, Graduate and Professional Student Association at WSU
 * 💵Larry Shannon - Washington State Association for Justice
 * Rosa Mai - Attorney General's Office
 * 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
-#### 460 👎 - Con
+#### 493 👎 - Con
+Testifying:
+* eric pratt
 
-#### 3 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Joy Gjersvold - Conservative Ladies of Washington
 * Robert (Bob) Battles - Association of Washington Business (AWB)
 * Joy Gjersvold - Conservative Ladies of Washington
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Ashley Sutton - TechNet
+* Montana Miranda - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Kelly Fukai - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
 
 ### Wed 01/10 08:00 AM - Environment, Energy & Technology (ENET): SB 5838 AI task force
 #### 29 👍 - Pro

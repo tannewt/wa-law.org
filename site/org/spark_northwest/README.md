@@ -17,7 +17,7 @@
 ## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy   ❓1
 * ❓💵 John Seng
 
-## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions. 👍1  
+## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects 👍1  
 
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  
 * 👍💵 John Seng

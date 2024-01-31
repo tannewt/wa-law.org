@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5993/</link>
 		<description>Updates about SB 5993</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 23 Jan 2024 03:53:42 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 30 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -60,6 +60,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Sharon/Damoff/2024-01-23 03:53:42</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-30/Minority; do not pass.</guid>
 		</item>
 	</channel>
 </rss>

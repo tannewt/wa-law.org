@@ -7,7 +7,7 @@
 ## [HB 1503](/bill/2023-24/hb/1503/) - Health care licenses/info. 👍1  
 * 👍 LoLinda Turner
 
-## [SB 5850](/bill/2023-24/sb/5850/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍2  
+## [SB 5850](/bill/2023-24/sb/5850/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍3  
 
 ## [SB 6097](/bill/2023-24/sb/6097/) - Dental services contracts 👍1  
 * 👍 Siobhan Whitney

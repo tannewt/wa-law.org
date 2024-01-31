@@ -11,6 +11,23 @@
 * 01/29/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 4: Public safety takes center stage - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/29/this-week-in-the-senate-week-4-public-safety-takes-center-stage/#:~:text=Senate%20Bill%205209)
 
 ## Meetings
+### Thu 02/01 01:30 PM - Transportation (TRAN): SB 5209 Universal civic duty voting
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158488&caId=23799&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158488&caId=23799&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158488&caId=23799&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158488&caId=23799&tId=4)
+
+#### 0 👍 - Pro
+
+#### 6 👎 - Con
+Testifying:
+* Tim Eyman - INITIATIVE ACTIVIST
+* Jeffrey Pack - Washington Citizens Against Unfair Taxes
+* Mary Long - Conservative Ladies of Washington
+
+#### 0 ❓ - Other
+
 ### Tue 01/23 01:30 PM - State Government & Elections (SGE): SB 5209 Universal civic duty voting
 #### 150 👍 - Pro
 Testifying:

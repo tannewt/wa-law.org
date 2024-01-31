@@ -30,7 +30,7 @@
 
 ## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave 👍1  
 
-## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
+## [SB 5894](/bill/2023-24/sb/5894/) - Equal pay/protected classes 👍1  
 
 ## [SB 5910](/bill/2023-24/sb/5910/) - Creating the state department of natural resources' Smokey Bear special license plates. 👍1  
 
@@ -38,7 +38,7 @@
 
 ## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  
 
-## [SB 5996](/bill/2023-24/sb/5996/) - Concerning collecting data on the H-2A worker program and from certain hand harvesters. 👍1  
+## [SB 5996](/bill/2023-24/sb/5996/) - H-2A worker program data 👍1  
 
 ## [SB 5999](/bill/2023-24/sb/5999/) - Financial aid eligibility 👍1  
 

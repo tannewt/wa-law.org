@@ -48,6 +48,8 @@
 * 👍 Ben Zarlingo
 * 👍 Dan Templeman
 
+## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍1  
+
 ## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍1  
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  

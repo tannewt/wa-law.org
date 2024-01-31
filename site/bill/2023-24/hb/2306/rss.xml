@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2306/</link>
 		<description>Updates about HB 2306</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 26 Jan 2024 20:36:55 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 30 Jan 2024 11:04:50 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,22 @@
 			<pubDate>Fri, 26 Jan 2024 20:36:55 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-29-feb-2-2024/#:~:text=HB%202306</guid>
+		</item>
+		<item>
+			<title>👍Chris Moore - Washington Trust for Historic Preservation</title>
+			<description>Chris Moore signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_trust_for_historic_preservation/&quot;&gt;Washington Trust for Historic Preservation&lt;/a&gt;.</description>
+			<pubDate>Tue, 30 Jan 2024 01:11:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Chris/Moore/2024-01-30 01:11:42</guid>
+		</item>
+		<item>
+			<title>👍Erin McCardle - City of Chelan</title>
+			<description>Erin McCardle signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/city_of_chelan/&quot;&gt;City of Chelan&lt;/a&gt;.</description>
+			<pubDate>Tue, 30 Jan 2024 11:04:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Erin/McCardle/2024-01-30 11:04:50</guid>
 		</item>
 	</channel>
 </rss>

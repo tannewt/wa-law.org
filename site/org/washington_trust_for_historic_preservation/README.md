@@ -4,6 +4,9 @@
 
 ## [HB 1575](/bill/2023-24/hb/1575/) - Cultural access programs/tax 👍2  
 
+## [HB 2306](/bill/2023-24/hb/2306/) - Main street tax credits 👍1  
+* 👍 Chris Moore
+
 ## [HB 2310](/bill/2023-24/hb/2310/) - State park heritage center   ❓1
 * ❓ Chris Moore
 

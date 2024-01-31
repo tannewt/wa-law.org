@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/23 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6150 Comprehensive plan revisions

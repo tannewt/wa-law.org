@@ -8,21 +8,17 @@
 
 ## Meetings
 ### Tue 01/30 10:30 AM - Labor & Commerce (LC): SB 6074 TNC driver death benefits
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157970&caId=23663&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157970&caId=23663&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157970&caId=23663&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157970&caId=23663&tId=4)
-
-#### 41 👍 - Pro
+#### 56 👍 - Pro
 Testifying:
 * Demitu Argo - Family of Amare Geda
 * Michael Wolfe - [Drive Forward](/org/drive_forward/)
 * Anwar Abdella
 * Khadija Mohamed
 * Mohamud Adan - Driver Union
+* 💵Brenda Wiest - Teamsters 117
+* Sukhchain Banwait - Drivers Union
 
-#### 5 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Robert (Bob) Battles - Association of Washington Business (AWB)
 * Ahmed Mumin - The Seattle Rideshare Drivers Association

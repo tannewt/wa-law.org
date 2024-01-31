@@ -223,7 +223,7 @@
 
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
 
-## [SB 5864](/bill/2023-24/sb/5864/) - Establishing a point of contact for any person diagnosed with a rare disease. 👍1  
+## [SB 5864](/bill/2023-24/sb/5864/) - Rare disease supports 👍1  
 
 ## [SB 5870](/bill/2023-24/sb/5870/) - Early learning programs 👍1  
 
@@ -234,7 +234,7 @@
 ## [SB 5883](/bill/2023-24/sb/5883/) - Concerning the burden of proof for special education due process hearings. 👍2  
 * 👍💵 Ramona Hattendorf
 
-## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
+## [SB 5894](/bill/2023-24/sb/5894/) - Equal pay/protected classes 👍1  
 
 ## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍1  
 

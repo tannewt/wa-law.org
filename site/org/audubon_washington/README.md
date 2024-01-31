@@ -17,7 +17,7 @@
 
 ## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍1  
 
-## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions. 👍1  
+## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects 👍1  
 
 ## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg. 👍1  
 

@@ -17,6 +17,9 @@
 
 ## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍1  
 
+## [HB 2378](/bill/2023-24/hb/2378/) - Health care facility fees  👎1 
+* 👎💵 Alicia Eyler
+
 ## [SB 5074](/bill/2023-24/sb/5074/) - Biomarker testing coverage 👍2  
 * 👍 MD, MS, Marianne Dubard-Gault
 

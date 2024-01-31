@@ -11,20 +11,18 @@
 
 ## Meetings
 ### Tue 01/30 04:00 PM - Ways & Means (WM): SB 5904 Financial aid terms
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158151&caId=23678&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158151&caId=23678&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158151&caId=23678&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31842&aId=158151&caId=23678&tId=4)
-
-#### 54 👍 - Pro
+#### 72 👍 - Pro
 Testifying:
 * 💵Joel Anderson - Washington Student Achievement Council
 * Cher Aguilar Henriquez
 * Liz Trautman - High School Success Coalition
 * Jacob Vigdor - University of Washington Faculty
+* 💵Mirian Mencias - Legislative Liaison, Associated Student ,UW Seattle
+* 💵Juliet Schindler - [College Success Foundation](/org/college_success_foundation/)
+* 💵Paula Sardinas - WBBA
+* 💵Collin Bannister - The Washington Stusent Association
 
-#### 3 👎 - Con
+#### 29 👎 - Con
 
 #### 0 ❓ - Other
 

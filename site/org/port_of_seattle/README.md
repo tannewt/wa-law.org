@@ -78,7 +78,7 @@
 
 ## [SB 5817](/bill/2023-24/sb/5817/) - Economic development info. 👍1  
 
-## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
+## [SB 5894](/bill/2023-24/sb/5894/) - Equal pay/protected classes 👍1  
 
 ## [SB 5955](/bill/2023-24/sb/5955/) - Large port districts  👎1 
 * 👎 John Flanagan

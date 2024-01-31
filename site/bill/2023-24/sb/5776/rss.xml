@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5776/</link>
 		<description>Updates about SB 5776</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 26 Jan 2024 10:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 30 Jan 2024 11:32:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -121,6 +121,38 @@
 			<pubDate>Fri, 26 Jan 2024 10:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.seattletimes.com/seattle-news/health/how-recent-wa-legislative-changes-could-save-you-money-on-health-care/#:~:text=Senate%20Bill%205776</guid>
+		</item>
+		<item>
+			<title>👍Madison Johnson - Washington #insulin4all</title>
+			<description>Madison Johnson signed up to testify Pro. They are signed up to represent Washington #insulin4all.</description>
+			<pubDate>Tue, 30 Jan 2024 05:44:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Madison/Johnson/2024-01-30 05:44:56</guid>
+		</item>
+		<item>
+			<title>👍💵Carissa Kemp - American Diabetes Association</title>
+			<description>Carissa Kemp signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/american_diabetes_association/&quot;&gt;American Diabetes Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 30 Jan 2024 07:59:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Carissa/Kemp/2024-01-30 07:59:52</guid>
+		</item>
+		<item>
+			<title>👎💵Emily Wittman - Association of Washington Business</title>
+			<description>Emily Wittman signed up to testify Con. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/association_of_washington_business/&quot;&gt;Association of Washington Business&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 30 Jan 2024 08:32:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Emily/Wittman/2024-01-30 08:32:38</guid>
+		</item>
+		<item>
+			<title>👎Brian Warren - Biotechnology Innovation Organization</title>
+			<description>Brian Warren signed up to testify Con. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/biotechnology_innovation_organization/&quot;&gt;Biotechnology Innovation Organization&lt;/a&gt;.</description>
+			<pubDate>Tue, 30 Jan 2024 11:32:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Brian/Warren/2024-01-30 11:32:35</guid>
 		</item>
 	</channel>
 </rss>

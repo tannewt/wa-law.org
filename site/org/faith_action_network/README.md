@@ -100,7 +100,7 @@
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍3  
 
-## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions. 👍5  
+## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects 👍5  
 
 ## [HB 2094](/bill/2023-24/hb/2094/) - Gift certificates 👍3  
 
@@ -176,7 +176,7 @@
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍8  
 
-## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍7  
+## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍8  
 
 ## [SB 6216](/bill/2023-24/sb/6216/) - Student mental health net. 👍7  
 

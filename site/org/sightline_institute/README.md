@@ -55,6 +55,8 @@
 ## [HB 1517](/bill/2023-24/hb/1517/) - Transit-oriented development 👍1  
 * 👍💵 Dan Bertolet
 
+## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy 👍1  
+
 ## [HB 1596](/bill/2023-24/hb/1596/) - Affordable housing incentive 👍1  
 
 ## [HB 1611](/bill/2023-24/hb/1611/) - Local government permitting 👍1  
@@ -77,7 +79,8 @@
 
 ## [HB 2126](/bill/2023-24/hb/2126/) - Rural area ADUs 👍1  
 
-## [HB 2131](/bill/2023-24/hb/2131/) - Thermal energy networks 👍1  
+## [HB 2131](/bill/2023-24/hb/2131/) - Thermal energy networks 👍2  
+* 👍💵 Laura Feinstein
 * 👍💵 Laura Feinstein
 
 ## [HB 2160](/bill/2023-24/hb/2160/) - Housing development   ❓1

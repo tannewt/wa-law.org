@@ -31,7 +31,7 @@
 
 ## [HB 2068](/bill/2023-24/hb/2068/) - Fashion/environmental impact 👍1  
 
-## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions. 👍2  
+## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects 👍2  
 * 👍 Eric Gonzalez Alfaro
 
 ## [HB 2082](/bill/2023-24/hb/2082/) - Electrical transmission 👍1  
@@ -88,7 +88,7 @@
 
 ## [SB 5892](/bill/2023-24/sb/5892/) - Concerning diseased elk.  👎1 
 
-## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
+## [SB 5894](/bill/2023-24/sb/5894/) - Equal pay/protected classes 👍1  
 
 ## [SB 5910](/bill/2023-24/sb/5910/) - Creating the state department of natural resources' Smokey Bear special license plates. 👍1  
 

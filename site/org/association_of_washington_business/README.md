@@ -243,7 +243,8 @@
 ## [HB 1584](/bill/2023-24/hb/1584/) - Nuclear reactor technology 👍1  
 * 👍💵 Peter Godlewski
 
-## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy  👎1 
+## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy  👎2 
+* 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 
 ## [HB 1617](/bill/2023-24/hb/1617/) - Universal services program 👍1  
@@ -316,6 +317,8 @@
 
 ## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍1  
 
+## [HB 1897](/bill/2023-24/hb/1897/) - Charter schools/enrichment 👍1  
+
 ## [HB 1900](/bill/2023-24/hb/1900/) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system.   ❓1
 * ❓💵 Peter Godlewski
 
@@ -336,6 +339,8 @@
 * 👎 Bob Battles
 
 ## [HB 1964](/bill/2023-24/hb/1964/) - Prorate & fuel tax collect. 👍1  
+
+## [HB 1987](/bill/2023-24/hb/1987/) - Concerning the use of moneys from the rural public facilities sales and use tax for affordable workforce housing infrastructure and facilities. 👍1  
 
 ## [HB 1998](/bill/2023-24/hb/1998/) - Co-living housing 👍1  
 * 👍 Morgan Irwin
@@ -365,7 +370,7 @@
 ## [HB 2069](/bill/2023-24/hb/2069/) - Biogenic carbon dioxide   ❓1
 * ❓💵 Peter Godlewski
 
-## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions.  👎1 
+## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects  👎1 
 * 👎💵 Peter Godlewski
 
 ## [HB 2077](/bill/2023-24/hb/2077/) - GET program participation 👍1  
@@ -422,7 +427,7 @@
 ## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍1  
 * 👍 Morgan Irwin
 
-## [HB 2275](/bill/2023-24/hb/2275/) - Senior independent living 👍1  
+## [HB 2275](/bill/2023-24/hb/2275/) - Senior independent housing 👍1  
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes  👎1 
 * 👎💵 Emily Shay
@@ -447,8 +452,15 @@
 ## [HB 2425](/bill/2023-24/hb/2425/) - Rental support program   ❓1
 * ❓ Morgan Irwin
 
+## [HB 2451](/bill/2023-24/hb/2451/) - Impact fees 👍1  
+* 👍 Morgan Irwin
+
 ## [HB 2464](/bill/2023-24/hb/2464/) - Concerning the development of new manufactured/mobile homes and new manufactured/mobile home communities. 👍1  
 * 👍 Morgan Irwin
+
+## [HB 2465](/bill/2023-24/hb/2465/) - Streamlining the state building code council operating procedures by establishing criteria for statewide amendments to the state building code. 👍1  
+
+## [HB 2468](/bill/2023-24/hb/2468/) - Concerning the siting of child care facilities. 👍1  
 
 ## [SB 5041](/bill/2023-24/sb/5041/) - Motor carrier safety 👍1  
 
@@ -488,6 +500,8 @@
 * ❓ Mike Ennis
 
 ## [SB 5166](/bill/2023-24/sb/5166/) - Cooperative finance org. B&O 👍2  
+
+## [SB 5178](/bill/2023-24/sb/5178/) - Highways/large debris 👍1  
 
 ## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍3  
 
@@ -657,7 +671,8 @@
 
 ## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍2  
 
-## [SB 5776](/bill/2023-24/sb/5776/) - Insulin emergency supply  👎1 
+## [SB 5776](/bill/2023-24/sb/5776/) - Insulin emergency supply  👎2 
+* 👎💵 Emily Wittman
 * 👎💵 Emily Wittman
 
 ## [SB 5777](/bill/2023-24/sb/5777/) - Unemp ins/strikes & lockouts  👎1 
@@ -670,6 +685,8 @@
 
 ## [SB 5795](/bill/2023-24/sb/5795/) - Year-round Pacific std. time 👍1  
 * 👍💵 Peter Godlewski
+
+## [SB 5809](/bill/2023-24/sb/5809/) - Charter schools/enrichment 👍1  
 
 ## [SB 5815](/bill/2023-24/sb/5815/) - Physician assistant compact 👍1  
 * 👍💵 Emily Wittman

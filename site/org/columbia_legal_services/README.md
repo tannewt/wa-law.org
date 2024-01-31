@@ -248,7 +248,7 @@
 
 ## [SB 5981](/bill/2023-24/sb/5981/) - Concerning the indeterminate sentence review board. 👍1  
 
-## [SB 5996](/bill/2023-24/sb/5996/) - Concerning collecting data on the H-2A worker program and from certain hand harvesters. 👍1  
+## [SB 5996](/bill/2023-24/sb/5996/) - H-2A worker program data 👍1  
 * 👍💵 Andrea Schmitt
 
 ## [SB 6021](/bill/2023-24/sb/6021/) - Correctional fees & expenses 👍1  

@@ -1,0 +1,171 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 2130](/bill/2023-24/hb/2130/) > [Substitute Bill](/bill/2023-24/hb/2130/S/)
+
+# HB 2130 - Special education services
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Bills/2130-S.pdf)
+
+## Section 1
+The legislature finds that students eligible for special education services may uniquely benefit from extra individualized education and related services. For that reason, the legislature intends to extend eligibility for special education services to the end of the school year in which a student eligible for special education services turns 22 years of age. The legislature does not intend for this extension of special education services to reduce or supplant any other services a student with disabilities is eligible for.
+
+## Section 2
+1. By October 30, 2024, the office of the superintendent of public instruction, the department of social and health services, the department of services for the blind, and any other state agency working with individuals with disabilities must collaborate to develop an implementation plan for extending special education services to the end of the school year in which students with disabilities turn 22 years of age. In developing the implementation plan, the state agencies must consult with nonprofit providers of high school transition services and advocates for students with individualized education programs.
+
+2. This section expires August 1, 2025.
+
+## Section 3
+There is established in the office of the superintendent of public instruction an administrative section or unit for the education of children with disabilities who require special education.
+
+Students with disabilities are those children whether enrolled in school or not who through an evaluation process are determined eligible for special education due to a disability.
+
+In accordance with part B of the federal individuals with disabilities education improvement act and any other federal or state laws relating to the provision of special education services, the superintendent of public instruction shall require each school district in the state to insure an appropriate educational opportunity for all students with disabilities beginning at three years of age and concluding at the end of the school year in which the student turns 22 years of age. The superintendent of public instruction, by rule, shall establish for the purpose of excess cost funding, as provided in RCW 28A.150.390, 28A.160.030, and 28A.155.010 through 28A.155.160, functional definitions of special education, the various types of disabling conditions, and eligibility criteria for special education programs for children with disabilities, including referral procedures, use of positive behavior interventions, the education curriculum and statewide or district‑wide assessments, parent and district requests for special education due process hearings, and procedural safeguards. For the purposes of RCW 28A.155.010 through 28A.155.160, an appropriate education is defined as an education directed to the unique needs, abilities, and limitations of the children with disabilities who are enrolled either full time or part time in a school district. School districts are strongly encouraged to provide parental training in the care and education of the children and to involve parents in the classroom.
+
+Nothing in this section shall prohibit the establishment or continuation of existing cooperative programs between school districts or contracts with other agencies approved by the superintendent of public instruction, which can meet the obligations of school districts to provide education for children with disabilities, or prohibit the continuation of needed related services to school districts by the department of social and health services.
+
+This section shall not be construed as in any way limiting the powers of local school districts set forth in RCW 28A.155.070.
+
+## Section 4
+1. In order for students to have the opportunity to develop the basic education knowledge and skills under RCW 28A.150.210, school districts must provide instruction of sufficient quantity and quality and give students the opportunity to complete graduation requirements that are intended to prepare them for postsecondary education, gainful employment, and citizenship. The program established under this section shall be the minimum instructional program of basic education offered by school districts.
+
+2. Each school district shall make available to students the following minimum instructional offering each school year:
+
+    a. For students enrolled in grades one through twelve, at least a district-wide annual average of one thousand hours, which shall be increased beginning in the 2015-16 school year to at least one thousand eighty instructional hours for students enrolled in grades nine through twelve and at least one thousand instructional hours for students in grades one through eight, all of which may be calculated by a school district using a district-wide annual average of instructional hours over grades one through twelve; and
+
+    b. For students enrolled in kindergarten, at least four hundred fifty instructional hours, which shall be increased to at least one thousand instructional hours according to the implementation schedule under RCW 28A.150.315.
+
+3. The instructional program of basic education provided by each school district shall include:
+
+    a. Instruction in the state learning standards under RCW 28A.655.070;
+
+    b. Instruction that provides students the opportunity to complete twenty-four credits for high school graduation, beginning with the graduating class of 2019 or as otherwise provided in RCW 28A.230.090. Course distribution requirements may be established by the state board of education under RCW 28A.230.090;
+
+    c. If the state learning standards include a requirement of languages other than English, the requirement may be met by students receiving instruction in one or more American Indian languages;
+
+    d. Supplemental instruction and services for students who are not meeting academic standards through the learning assistance program under RCW 28A.165.005 through 28A.165.065;
+
+    e. Supplemental instruction and services for eligible and enrolled students and exited students whose primary language is other than English through the transitional bilingual instruction program under RCW 28A.180.010 through 28A.180.080;
+
+    f. The opportunity for an appropriate education at public expense as defined by RCW 28A.155.020 for all eligible students with disabilities as defined in RCW 28A.155.020; and
+
+    g. Programs for highly capable students under RCW 28A.185.010 through 28A.185.030.
+
+4. Nothing contained in this section shall be construed to require individual students to attend school for any particular number of hours per day or to take any particular courses.
+
+5. [Empty]
+
+    a. Except as provided for students with disabilities under RCW 28A.155.020, each school district's kindergarten through twelfth grade basic educational program shall be accessible to all students who are five years of age, as provided by RCW 28A.225.160, and less than twenty-one years of age and shall consist of a minimum of one hundred eighty school days per school year in such grades as are conducted by a school district, and one hundred eighty half-days of instruction, or equivalent, in kindergarten, to be increased to a minimum of one hundred eighty school days per school year according to the implementation schedule under RCW 28A.150.315.
+
+    b. Schools administering the Washington kindergarten inventory of developing skills may use up to three school days at the beginning of the school year to meet with parents and families as required in the parent involvement component of the inventory.
+
+    c. In the case of students who are graduating from high school, a school district may schedule the last five school days of the one hundred eighty day school year for noninstructional purposes including, but not limited to, the observance of graduation and early release from school upon the request of a student. All such students may be claimed as a full‑time equivalent student to the extent they could otherwise have been so claimed for the purposes of RCW 28A.150.250 and 28A.150.260. Any hours scheduled by a school district for noninstructional purposes during the last five school days for such students shall count toward the instructional hours requirement in subsection (2)(a) of this section.
+
+6. Subject to RCW 28A.150.276, nothing in this section precludes a school district from enriching the instructional program of basic education, such as offering additional instruction or providing additional services, programs, or activities that the school district determines to be appropriate for the education of the school district's students.
+
+7. The state board of education shall adopt rules to implement and ensure compliance with the program requirements imposed by this section, RCW 28A.150.250 and 28A.150.260, and such related supplemental program approval requirements as the state board may establish.
+
+## Section 5
+1. Each school district that operates a high school shall establish a policy and procedures that permit any student who is receiving special education or related services under an individualized education program pursuant to state and federal law  to participate in the graduation ceremony and activities after four years of high school attendance with his or her age-appropriate peers and receive a certificate of attendance.
+
+2. Participation in a graduation ceremony and receipt of a certificate of attendance under this section does not preclude a student from continuing to receive special education and related services under an individualized education program beyond the graduation ceremony.
+
+3. A student's participation in a graduation ceremony and receipt of a certificate of attendance under this section shall not be construed as the student's receipt of a high school diploma pursuant to RCW 28A.230.120.
+
+## Section 6
+1. The office of the superintendent of public instruction must establish interagency agreements with the department of social and health services, the department of services for the blind, and any other state agency that provides high school transition services for special education students. Such interagency agreements shall not interfere with existing individualized education programs, nor override any individualized education program team's decision-making power. The purpose of the interagency agreements is to foster effective collaboration among the multiple agencies providing transition services for individualized education program-eligible special education students from the beginning of transition planning, as soon as educationally and developmentally appropriate, through the end of the school year in which the student turns 22 years of age, or through high school graduation, whichever occurs first. Interagency agreements are also intended to streamline services and programs, promote efficiencies, and establish a uniform focus on improved outcomes related to self-sufficiency.
+
+2. [Empty]
+
+    a. When educationally and developmentally appropriate, the interagency responsibilities and linkages with transition services under subsection (1) of this section must be addressed in a transition plan to a postsecondary setting in the individualized education program of a student with disabilities.
+
+    b. Transition planning shall be based upon educationally and developmentally appropriate transition assessments that outline the student's individual needs, strengths, preferences, and interests. Transition assessments may include observations, interviews, inventories, situational assessments, formal and informal assessments, as well as academic assessments.
+
+    c. The transition services that the transition plan must address include activities needed to assist the student in reaching postsecondary goals and courses of study to support postsecondary goals.
+
+    d. Transition activities that the transition plan may address include instruction, related services, community experience, employment and other adult living objectives, daily living skills, and functional vocational evaluation.
+
+    e. When educationally and developmentally appropriate, a discussion must take place with the student and parents, and others as needed, to determine the postsecondary goals or postschool vision for the student. This discussion may be included as part of an annual individualized education program review, high school and beyond plan meeting, or any other meeting that includes parents, students, and educators. The postsecondary goals included in the transition plan shall be goals that are measurable and must be based on appropriate transition assessments related to training, education, employment, and independent living skills, when necessary. The goals must also be based on the student's needs, while considering the strengths, preferences, and interests of the student.
+
+    f. As the student gets older, changes in the transition plan may be noted in the annual update of the student's individualized education program.
+
+    g. A transition plan required under this subsection (2) must be aligned with a student's high school and beyond plan.
+
+3. To the extent that data is available through data-sharing agreements established by the education data center under RCW 43.41.400, the education data center must monitor the following outcomes for individualized education program-eligible special education students after high school graduation:
+
+    a. The number of students who, within one year of high school graduation:
+
+        i. Enter integrated employment paid at the greater of minimum wage or competitive wage for the type of employment, with access to related employment and health benefits; or
+
+        ii. Enter a postsecondary education or training program focused on leading to integrated employment;
+
+    b. The wages and number of hours worked per pay period;
+
+    c. The impact of employment on any state and federal benefits for individuals with disabilities;
+
+    d. Indicators of the types of settings in which students who previously received transition services primarily reside;
+
+    e. Indicators of improved economic status and self-sufficiency;
+
+    f. Data on those students for whom a postsecondary or integrated employment outcome does not occur within one year of high school graduation, including:
+
+        i. Information on the reasons that the desired outcome has not occurred;
+
+        ii. The number of months the student has not achieved the desired outcome; and
+
+        iii. The efforts made to ensure the student achieves the desired outcome.
+
+4. To the extent that the data elements in subsection (3) of this section are available to the education data center through data-sharing agreements, the office of the superintendent of public instruction must prepare an annual report using existing resources and submit the report to the legislature.
+
+5. To minimize gaps in services through the transition process, no later than three years before students receiving special education services leave the school system, the office of the superintendent of public instruction shall transmit a list of potentially eligible students to the department of social and health services, the counties, the department of services for the blind, and any other state agency working with individuals with intellectual and developmental disabilities. The office of the superintendent of public instruction shall ensure that consent be obtained prior to the release of this information as required in accordance with state and federal requirements.
+
+## Section 7
+Each school district within which there is located a residential school shall, singly or in concert with another school district pursuant to RCW 28A.335.160 and 28A.225.250 or pursuant to chapter 39.34 RCW, conduct a program of education, including related student activities, for residents of the residential school. Except as otherwise provided for by contract pursuant to RCW 28A.190.050, the duties and authority of a school district and its employees to conduct such a program shall be limited to the following:
+
+1. The employment, supervision and control of administrators, teachers, specialized personnel and other persons, deemed necessary by the school district for the conduct of the program of education;
+
+2. The purchase, lease or rental and provision of textbooks, maps, audiovisual equipment, paper, writing instruments, physical education equipment and other instructional equipment, materials and supplies, deemed necessary by the school district for the conduct of the program of education;
+
+3. The development and implementation, in consultation with the superintendent or chief administrator of the residential school or his or her designee, of the curriculum;
+
+4. The conduct of a program of education, including related student activities, for residents who are three years of age and less than twenty-one years of age and who have not met high school graduation requirements as now or hereafter established by the state board of education and the school district and for students with disabilities as defined in RCW 28A.155.020, which includes:
+
+    a. Not less than one hundred and eighty school days each school year;
+
+    b. Special education pursuant to RCW 28A.155.010 through 28A.155.100, and vocational education, as necessary to address the unique needs and limitations of residents; and
+
+    c. Such courses of instruction and school related student activities as are provided by the school district for nonresidential school students to the extent it is practical and judged appropriate for the residents by the school district after consultation with the superintendent or chief administrator of the residential school: PROVIDED, That a preschool special education program may be provided for residential school students with disabilities;
+
+5. The control of students while participating in a program of education conducted pursuant to this section and the discipline, suspension or expulsion of students for violation of reasonable rules of conduct adopted by the school district; and
+
+6. The expenditure of funds for the direct and indirect costs of maintaining and operating the program of education that are appropriated by the legislature and allocated by the superintendent of public instruction for the exclusive purpose of maintaining and operating residential school programs of education, and funds from federal and private grants, bequests and gifts made for the purpose of maintaining and operating the program of education.
+
+## Section 8
+1. Except as provided in subsection (3) of this section, for students with disabilities under RCW 28A.155.020, and otherwise provided by law, it is the general policy of the state that the common schools shall be open to the admission of all persons who are five years of age and less than 21 years residing in that school district. Except as otherwise provided by law or rules adopted by the superintendent of public instruction, districts may establish uniform entry qualifications, including but not limited to requirements, for admission to kindergarten and first grade programs of the common schools. Such rules may provide for individualized exceptions based upon the ability, or the need, or both, of an individual student. Nothing in this section authorizes school districts, public schools, or the superintendent of public instruction to create state-funded programs based on entry qualification exceptions except as otherwise expressly provided by law.
+
+2. For the purpose of complying with any rule adopted by the superintendent of public instruction that authorizes a preadmission screening process as a prerequisite to granting individualized exceptions to the uniform entry qualifications, a school district may collect fees to cover expenses incurred in the administration of any preadmission screening process: PROVIDED, That in so establishing such fee or fees, the district shall adopt rules for waiving and reducing such fees in the cases of those persons whose families, by reason of their low income, would have difficulty in paying the entire amount of such fees.
+
+3. A student who meets the definition of a child of a military family in transition under Article II of RCW 28A.705.010 shall be permitted to continue enrollment at the grade level in the common schools commensurate with the grade level of the student when attending school in the sending state as defined in Article II of RCW 28A.705.010, regardless of age or birthdate requirements.
+
+## Section 9
+1. The decision of a school district within which a student under the age of twenty-one years resides or of a school district within which such a student under the age of twenty-one years was last enrolled and is considered to be a resident for attendance purposes by operation of law, to deny such student's request for release to a nonresident school district pursuant to RCW 28A.225.220 may be appealed to the superintendent of public instruction or his or her designee: PROVIDED, That the school district of proposed transfer is willing to accept the student.
+
+2. The superintendent of public instruction or his or her designee shall hear the appeal and examine the evidence. The superintendent of public instruction may order the resident district to release such a student who is under the age of twenty-one years if the requirements of RCW 28A.225.220 have been met. The decision of the superintendent of public instruction may be appealed to superior court pursuant to chapter 34.05 RCW, the administrative procedure act, as now or hereafter amended.
+
+3. The decision of a school district to deny the request for accepting the transfer of a nonresident student under RCW 28A.225.225 may be appealed to the superintendent of public instruction or his or her designee. The superintendent or his or her designee shall hear the appeal and examine the evidence. The superintendent of public instruction may order the district to accept the nonresident student if the district did not comply with the standards and procedures adopted under RCW 28A.225.225. The decision of the superintendent of public instruction may be appealed to the superior court under chapter 34.05 RCW.
+
+4. The provisions of this section applicable to students under the age of 21 years also apply to students with disabilities as defined in RCW 28A.155.020.
+
+## Section 10
+1. If a student under the age of twenty-one years is allowed to enroll in any common school outside the school district within which the student resides or a school district of which the student is considered to be a resident for attendance purposes by operation of law, the student's attendance shall be credited to the nonresident school district of enrollment for state apportionment and all other purposes.
+
+2. The provisions of this section applicable to students under the age of 21 years also apply to students with disabilities as defined in RCW 28A.155.020.
+
+## Section 11
+1. The schools shall be free to residents of the state beginning at three years of age and concluding at the end of the school year in which the resident turns 22 years of age, who are blind/visually impaired or deaf/hearing impaired, or with other disabilities where a vision or hearing disability is the major need for services.
+
+2. The schools may provide nonresidential services to children ages birth through three who meet the eligibility criteria in this section, subject to available funding.
+
+3. Each school shall admit and retain students on a space available basis according to criteria developed and published by each school superintendent in consultation with each board of trustees and school faculty: PROVIDED, That students who do not meet the admission requirements under subsection (1) of this section and who are otherwise qualified may be retained at the school, if in the discretion of the superintendent in consultation with the faculty they are proper persons to receive further training given at the school and the facilities are adequate for proper care, education, and training.
+
+4. The admission and retention criteria developed and published by each school superintendent shall contain a provision allowing the schools to refuse to admit or retain a student who is an adjudicated sex offender except that the schools shall not admit or retain a student who is an adjudicated level III sex offender as provided in RCW 13.40.217(3).
+
+## Section 12
+It shall be the duty of all school districts in the state, to report to their respective educational service districts the names of all visually or hearing impaired youth residing within their respective school districts who are between the ages of three and 22 years.

@@ -21,9 +21,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158363&caId=23770&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158363&caId=23770&tId=4)
 
-#### 71 👍 - Pro
+#### 98 👍 - Pro
+Testifying:
+* Brooks Holland - Gonzaga University School of Law - CENTER FOR CIVIL & HUMAN RIGHTS
+* Carol Velazquez - Gonzaga University School of Law - CENTER FOR CIVIL & HUMAN RIGHTS
 
-#### 4 👎 - Con
+#### 253 👎 - Con
+Testifying:
+* Jeannette Mcchesney
+* 💵Michael Lindsay - Eatonville
+* LORILEE GATES
 
 #### 0 ❓ - Other
 

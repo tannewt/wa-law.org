@@ -18,12 +18,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158368&caId=23775&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158368&caId=23775&tId=4)
 
-#### 12 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * MATT HUTCHINS
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Salim Nice
 

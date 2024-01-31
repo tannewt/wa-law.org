@@ -18,7 +18,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158395&caId=23779&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158395&caId=23779&tId=4)
 
-#### 10 👍 - Pro
+#### 27 👍 - Pro
+Testifying:
+* 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* 💵Alex Hur - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 
 #### 0 👎 - Con
 

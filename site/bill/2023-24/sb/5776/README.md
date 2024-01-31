@@ -19,9 +19,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158434&caId=23795&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158434&caId=23795&tId=4)
 
-#### 0 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* Madison Johnson - Washington #insulin4all
+* 💵Carissa Kemp - [American Diabetes Association](/org/american_diabetes_association/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
+* Brian Warren - [Biotechnology Innovation Organization](/org/biotechnology_innovation_organization/)
 
 #### 0 ❓ - Other
 

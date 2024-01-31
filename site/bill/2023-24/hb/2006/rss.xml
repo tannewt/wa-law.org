@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 2006 - Concerning court interpreters.</title>
+		<title>HB 2006 - Court interpreters</title>
 		<link>https://wa-law.org/bill/2023-24/hb/2006/</link>
 		<description>Updates about HB 2006</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 23 Jan 2024 08:07:21 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 29 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -129,6 +129,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Em/Stone/2024-01-23 08:07:21</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-29/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

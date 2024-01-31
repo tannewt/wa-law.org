@@ -85,7 +85,7 @@
 
 ## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍1  
 
-## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions. 👍1  
+## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects 👍1  
 * 👍 Jamie Stroble
 
 ## [HB 2091](/bill/2023-24/hb/2091/) - Fallen firefighter memorial 👍1  
@@ -196,3 +196,5 @@
 ## [SB 6237](/bill/2023-24/sb/6237/) - Wildlife safe passages 👍1  
 
 ## [SB 6278](/bill/2023-24/sb/6278/) - Organic agriculture 👍1  
+
+## [SB 6304](/bill/2023-24/sb/6304/) - Implementing certain recommendations of the transportation electrification strategy. 👍1  

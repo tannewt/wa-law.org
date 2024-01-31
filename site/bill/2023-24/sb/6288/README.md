@@ -16,8 +16,9 @@ Sign up to testify:
 
 #### 3 👍 - Pro
 
-#### 21 👎 - Con
+#### 40 👎 - Con
 Testifying:
+* David Sedelmeier
 * David Sedelmeier
 
 #### 0 ❓ - Other

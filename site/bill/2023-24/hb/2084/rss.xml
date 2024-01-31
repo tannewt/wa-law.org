@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 2084 - Establishing an oversight committee to improve construction-related training and pathways to state registered apprenticeships in state correctional facilities.</title>
+		<title>HB 2084 - Construction training/DOC</title>
 		<link>https://wa-law.org/bill/2023-24/hb/2084/</link>
 		<description>Updates about HB 2084</description>
 		<language>en-US</language>
@@ -115,6 +115,13 @@
 			<pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-29/CSJR - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-29/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

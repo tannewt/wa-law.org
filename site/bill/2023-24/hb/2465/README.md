@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/30 10:30 AM - Local Government (LG): HB 2465 State building code council
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157983&caId=23725&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157983&caId=23725&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157983&caId=23725&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31857&aId=157983&caId=23725&tId=4)
-
-#### 56 👍 - Pro
+#### 79 👍 - Pro
 Testifying:
 * Brian Holtzclaw - Master Builders Association of King and Snohomish Counties
 * 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
@@ -24,6 +18,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Stoyan Bumbalov - State Building Code Council
+* Alessandra De la Torre - [Northwest Energy Coalition](/org/northwest_energy_coalition/)

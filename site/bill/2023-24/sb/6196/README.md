@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/30 10:30 AM - Human Services (HS): SB 6196 Basic income pilot program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31846&aId=157932&caId=23658&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31846&aId=157932&caId=23658&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31846&aId=157932&caId=23658&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31846&aId=157932&caId=23658&tId=4)
-
-#### 1276 👍 - Pro
+#### 1441 👍 - Pro
 Testifying:
 * Victoria Woodards - Mayor of the City of Tacoma
 * 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
@@ -26,8 +20,9 @@ Testifying:
 * 💵Tracy Yeung - Washington State Budget and Policy Center
 * Stephan Blanford - [Children's Alliance](/org/children's_alliance/)
 * 💵Jacob Squirrel - Quaker Voice on Washington Public Policy
+* Victoria Woodards - Mayor of Tacoma
 
-#### 1547 👎 - Con
+#### 1689 👎 - Con
 Testifying:
 * Mary Long - Conservative Ladies of Washington
 * Sharon Damoff
@@ -37,6 +32,9 @@ Testifying:
 * Jill Warne
 * Ronald Warne Jr
 * Kristy Welles
+* Richard Schilling
+* Marian LaFountaine
+* Kim Slinger
 
 #### 3 ❓ - Other
 Testifying:

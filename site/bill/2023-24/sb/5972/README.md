@@ -19,13 +19,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158158&caId=23690&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158158&caId=23690&tId=4)
 
-#### 120 👍 - Pro
+#### 184 👍 - Pro
 Testifying:
 * Erin Sullivan - Woodland Park Zoo
+* Rosemary Malfi - The Xerces Society for Invertebrate Conservation
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Justin Gulino - National Caucus of Environmental Legislators
 
 ### Thu 01/11 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5972 Neonicotinoid pesticides
 #### 74 👍 - Pro

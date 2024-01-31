@@ -90,6 +90,8 @@
 * 👍💵 Mark Johnson
 * ❓💵 Mark Johnson
 
+## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy  👎1 
+
 ## [HB 1638](/bill/2023-24/hb/1638/) - State trooper recruitment 👍2  
 * 👍💵 Mark Johnson
 * 👍💵 Mark Johnson
@@ -350,19 +352,23 @@
 ## [SB 5835](/bill/2023-24/sb/5835/) - Rule making websites 👍2  
 * 👍💵 Mark Johnson
 
-## [SB 5838](/bill/2023-24/sb/5838/) - AI task force   ❓1
+## [SB 5838](/bill/2023-24/sb/5838/) - AI task force   ❓2
 * ❓ CRYSTAL LEATHERMAN
+* ❓💵 Crystal Leatherman
 
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
 * 👍💵 Mark Johnson
 
-## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act.   ❓1
+## [SB 5894](/bill/2023-24/sb/5894/) - Equal pay/protected classes   ❓1
 * ❓ Rose GUNDERSEN
 
 ## [SB 5897](/bill/2023-24/sb/5897/) - Modifying provisions of the business licensing service program. 👍1  
 * 👍💵 Mark Johnson
 
 ## [SB 5932](/bill/2023-24/sb/5932/) - Temporary total disability  👎1 
+
+## [SB 5957](/bill/2023-24/sb/5957/) - AI use guidelines   ❓1
+* ❓💵 Crystal Leatherman
 
 ## [SB 5958](/bill/2023-24/sb/5958/) - Career skills grant program 👍1  
 * 👍 Rose GUNDERSEN
@@ -379,7 +385,7 @@
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management   ❓1
 * ❓ Rose GUNDERSEN
 
-## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍1  
+## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍2  
 * 👍 Rose GUNDERSEN
 
 ## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍1  

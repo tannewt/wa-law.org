@@ -26,3 +26,5 @@
 
 ## [SB 5901](/bill/2023-24/sb/5901/) - Co-living housing 👍1  
 * 👍💵 Ben Stuckart
+
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍1  

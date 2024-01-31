@@ -17,16 +17,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31817&aId=157825&caId=23719&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31817&aId=157825&caId=23719&tId=4)
 
-#### 39 👍 - Pro
+#### 108 👍 - Pro
 Testifying:
 * Andrew Loomis - Avamere Skilled Advisors
 * Carl Tabor - Avamere Health Services
 * Jessica Field
 * Rosario Tafoya - Nursing Home worker
 * Tina Bonner-Mitchell - Nursing Home worker
+* Daniel Klein - NewGen Administrative Services
+* Carma Matti-Jackson - [Washington Health Care Association](/org/washington_health_care_association/)
+* Jeff Hyatt - Avventura Senior Living
 
 #### 3 👎 - Con
 
-#### 8 ❓ - Other
+#### 10 ❓ - Other
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner

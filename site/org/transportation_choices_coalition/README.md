@@ -49,11 +49,15 @@
 ## [SB 5573](/bill/2023-24/sb/5573/) - Vehicle licensing options 👍1  
 * 👍💵 Bryce Yadon
 
-## [SB 5594](/bill/2023-24/sb/5594/) - Fully autonomous vehicles  👎1 
+## [SB 5594](/bill/2023-24/sb/5594/) - Fully autonomous vehicles  👎2 
 * 👎💵 Bryce Yadon
 
 ## [SB 5743](/bill/2023-24/sb/5743/) - Transportation resources 👍2  
 * 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 
+## [SB 5872](/bill/2023-24/sb/5872/) - Concerning vehicle and operator requirements for autonomous vehicles. 👍1  
+
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  
+
+## [SB 6283](/bill/2023-24/sb/6283/) - Connecting communities prg. 👍1  

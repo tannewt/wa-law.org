@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/16 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6025 Predatory loans

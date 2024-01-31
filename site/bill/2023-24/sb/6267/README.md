@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/30 10:30 AM - Human Services (HS): SB 6267 DD parental caregivers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31846&aId=157933&caId=23659&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31846&aId=157933&caId=23659&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31846&aId=157933&caId=23659&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31846&aId=157933&caId=23659&tId=4)
-
-#### 210 👍 - Pro
+#### 255 👍 - Pro
 Testifying:
 * Whitney Stohr
 * Claudia Sanderson
@@ -32,6 +26,10 @@ Testifying:
 * Liliana Villanueva - As a impacted parent
 * Hodan Mohammad - Washington Multicultural Services Link
 * 💵Adrienne Stuart
+* Seth Davidson
+* Tonya Cloud
+* Patrick Calpito
+* Kristina Smith
 
 #### 0 👎 - Con
 

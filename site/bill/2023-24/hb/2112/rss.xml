@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2112/</link>
 		<description>Updates about HB 2112</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 28 Jan 2024 05:30:22 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 30 Jan 2024 01:07:20 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -167,6 +167,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Simone/Boe/2024-01-28 05:30:22</guid>
+		</item>
+		<item>
+			<title>👍Lauren Hibbs - 1300 Quince Street</title>
+			<description>Lauren Hibbs signed up to testify Pro. They are signed up to represent 1300 Quince Street.</description>
+			<pubDate>Tue, 30 Jan 2024 01:07:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lauren/Hibbs/2024-01-30 01:07:20</guid>
 		</item>
 	</channel>
 </rss>

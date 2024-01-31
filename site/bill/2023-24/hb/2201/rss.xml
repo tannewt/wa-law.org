@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2201/</link>
 		<description>Updates about HB 2201</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 29 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 30 Jan 2024 09:10:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -219,6 +219,14 @@
 			<pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-29/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👍💵Tom Wolf - bp America</title>
+			<description>Tom Wolf signed up to testify Pro. They are signed up to represent bp America. They are a registered lobbyist.</description>
+			<pubDate>Tue, 30 Jan 2024 09:10:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tom/Wolf/2024-01-30 09:10:09</guid>
 		</item>
 	</channel>
 </rss>

@@ -23,6 +23,8 @@
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍2  
 
+## [SB 5476](/bill/2023-24/sb/5476/) - Agricultural overtime  👎1 
+
 ## [SB 6127](/bill/2023-24/sb/6127/) - HIV prophylaxis 👍1  
 
 ## [SB 6245](/bill/2023-24/sb/6245/) - Refugee & immigrant assist. 👍1  

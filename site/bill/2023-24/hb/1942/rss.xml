@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1942/</link>
 		<description>Updates about HB 1942</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 23 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 30 Jan 2024 05:04:38 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -89,6 +89,14 @@
 			<pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-23/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👎Loren Freeman - None</title>
+			<description>Loren Freeman signed up to testify Con. They are signed up to represent None.</description>
+			<pubDate>Tue, 30 Jan 2024 05:04:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Loren/Freeman/2024-01-30 05:04:38</guid>
 		</item>
 	</channel>
 </rss>

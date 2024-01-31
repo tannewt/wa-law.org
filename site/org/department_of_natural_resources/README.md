@@ -24,7 +24,7 @@
 
 ## [HB 2051](/bill/2023-24/hb/2051/) - Reducing emissions from small off-road engines.   ❓1
 
-## [HB 2070](/bill/2023-24/hb/2070/) - Integrating environmental justice considerations into certain project decisions.   ❓1
+## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects   ❓1
 
 ## [HB 2091](/bill/2023-24/hb/2091/) - Fallen firefighter memorial 👍2  
 * 👍 Brian Considine
@@ -81,6 +81,8 @@
 ## [SB 5967](/bill/2023-24/sb/5967/) - Housing/public lands leases 👍2  
 * 👍 Krosbie Carter
 * 👍 Michael Kearney
+
+## [SB 5990](/bill/2023-24/sb/5990/) - Env. justice/SEPA projects   ❓1
 
 ## [SB 6011](/bill/2023-24/sb/6011/) - Tribal interlocal agreements 👍1  
 * 👍 Jayanna Marshall

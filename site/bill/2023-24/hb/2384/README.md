@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Thu 01/18 04:00 PM - Transportation (TR): HB 2384 Traffic safety cameras
-#### 15 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Debbie Driver - Office of Governor Jay Inslee
 * Mark McKechnie - Washington Traffic Safety Commission
@@ -18,6 +18,7 @@ Testifying:
 * Tim Burgess - [City of Seattle](/org/city_of_seattle/)
 * David Jones - Cooper Jones ATSAC
 * Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
+* John Butler - 2nd cycle
 
 #### 6 👎 - Con
 Testifying:

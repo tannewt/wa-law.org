@@ -657,6 +657,8 @@
 
 ## [SB 5592](/bill/2023-24/sb/5592/) - Defibrillators/fitness 👍4  
 
+## [SB 5594](/bill/2023-24/sb/5594/) - Fully autonomous vehicles  👎1 
+
 ## [SB 5601](/bill/2023-24/sb/5601/) - Youth development office 👍1  
 
 ## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍1  
@@ -690,6 +692,8 @@
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
 * 👍 Sarah Perry
 
+## [SB 5872](/bill/2023-24/sb/5872/) - Concerning vehicle and operator requirements for autonomous vehicles. 👍1  
+
 ## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍2  
 
 ## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD 👍1  
@@ -719,6 +723,8 @@
 * 👍 Pat McLaughlin
 
 ## [SB 6042](/bill/2023-24/sb/6042/) - Juvenile detention release 👍1  
+
+## [SB 6076](/bill/2023-24/sb/6076/) - Criminal justice local tax 👍1  
 
 ## [SB 6144](/bill/2023-24/sb/6144/) - Prescribing psychologists 👍1  
 

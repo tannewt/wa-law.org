@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6179/</link>
 		<description>Updates about SB 6179</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 07:24:42 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 30 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -102,6 +102,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Kelly/Fukai/2024-01-22 07:24:42</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-30/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

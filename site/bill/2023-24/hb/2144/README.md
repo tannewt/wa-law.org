@@ -19,15 +19,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31808&aId=158123&caId=23716&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31808&aId=158123&caId=23716&tId=4)
 
-#### 206 👍 - Pro
+#### 240 👍 - Pro
+Testifying:
+* Jonathan Smith - Issaquah Volunteer Litter Clean-up Group
+* Eric Chambers - [Oregon Beverage Recycling Cooperative](/org/oregon_beverage_recycling_cooperative/)
+* Dylan de Thomas - The Recycling Partnership
+* Scott DeFife - Glass Packaging Institute
+* Fiona Bell - Novelis
+* Liz Donohue - BlueTriton Brands
+* 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
 
-#### 23 👎 - Con
+#### 49 👎 - Con
 Testifying:
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Tad Sommerville
+* 💵Katie Beeson - Washington Food Industry Association
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Miriam Gordon - The Story of Stuff
+* 💵Brad Boswell - [Washington Beverage Association](/org/washington_beverage_association/)
 
 ### Tue 01/09 04:00 PM - Environment & Energy (ENVI): HB 2144 Providing for a deposit return program for qualifying beverage containers to be implemented by a distributor responsibility organization. (Remote Testimony Available). (If measure is referred to committee.)
 #### 260 👍 - Pro

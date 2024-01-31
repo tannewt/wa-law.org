@@ -32,6 +32,9 @@
 
 ## [HB 1584](/bill/2023-24/hb/1584/) - Nuclear reactor technology  👎1 
 
+## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy 👍1  
+* 👍 Dylan Plummer
+
 ## [HB 1698](/bill/2023-24/hb/1698/) - Gray wolf management  👎1 
 
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1 👎2 

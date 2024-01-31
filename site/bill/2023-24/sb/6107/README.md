@@ -8,23 +8,24 @@
 
 ## Meetings
 ### Tue 01/30 10:30 AM - Labor & Commerce (LC): SB 6107 Construction/sanitary cond.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157973&caId=23666&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157973&caId=23666&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157973&caId=23666&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31853&aId=157973&caId=23666&tId=4)
-
-#### 149 👍 - Pro
+#### 191 👍 - Pro
 Testifying:
 * Jeffery Whaley
 * Ashley Ruiz - McKinstry
+* April Sims - [Washington State Labor Council](/org/washington_state_labor_council/)
+* Madison Stewart - Skanska Civil
+* 💵Mark Riker - Washington State Building and Construction Trades Council
+* Aubrey Russell - Journeyworker Ironworkers Local 86
+* 💵Heather Kurtenbach - Ironworkers Local 86
+* Mallorie Davies - Washington & Northern Idaho District Council of Laborers
 
-#### 436 👎 - Con
+#### 497 👎 - Con
 Testifying:
 * America George - Safety Site Solutions
 * 💵Carolyn Logue - Associated Builders & Contractors of WA
 * 💵Tricia Gullion - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Michele Willms - Associated General Contractors of Washington (AGC)
 * Isobel Hutchings
+* Marian LaFountaine
 
 #### 1 ❓ - Other

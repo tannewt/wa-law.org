@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1899/</link>
 		<description>Updates about HB 1899</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 26 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 30 Jan 2024 01:32:38 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -153,6 +153,21 @@
 			<pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-26/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-30/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>❓💵Lukas Garcia - Greater Spokane Valley Chamber of Commerce</title>
+			<description>Lukas Garcia signed up to testify Other. They are signed up to represent Greater Spokane Valley Chamber of Commerce. They are a registered lobbyist.</description>
+			<pubDate>Tue, 30 Jan 2024 01:32:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Lukas/Garcia/2024-01-30 01:32:38</guid>
 		</item>
 	</channel>
 </rss>

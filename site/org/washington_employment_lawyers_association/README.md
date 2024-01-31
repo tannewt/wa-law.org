@@ -20,7 +20,7 @@
 
 ## [SB 5090](/bill/2023-24/sb/5090/) - Torts  👎1 
 
-## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
+## [SB 5894](/bill/2023-24/sb/5894/) - Equal pay/protected classes 👍1  
 * 👍 Kathleen Barnard
 
 ## [SB 5924](/bill/2023-24/sb/5924/) - Access to personnel records 👍2  

@@ -436,7 +436,7 @@
 
 ## [HB 2025](/bill/2023-24/hb/2025/) - State work-study program 👍1  
 
-## [HB 2037](/bill/2023-24/hb/2037/) - Concerning Holocaust and genocide education in public schools. 👍1  
+## [HB 2037](/bill/2023-24/hb/2037/) - Holocaust and genocide edu. 👍1  
 * 👍💵 Simone Boe
 
 ## [HB 2038](/bill/2023-24/hb/2038/) - Collecting data on student transfers and withdrawals from public schools and school districts.   ❓1
@@ -448,7 +448,7 @@
 * 👍 Rebecca Mathews
 * 👍💵 Simone Boe
 
-## [HB 2084](/bill/2023-24/hb/2084/) - Establishing an oversight committee to improve construction-related training and pathways to state registered apprenticeships in state correctional facilities. 👍1  
+## [HB 2084](/bill/2023-24/hb/2084/) - Construction training/DOC 👍1  
 
 ## [HB 2091](/bill/2023-24/hb/2091/) - Fallen firefighter memorial 👍1  
 
@@ -469,6 +469,8 @@
 * ❓💵 Simone Boe
 * 👍💵 Simone Boe
 * 👍💵 Simone Boe
+
+## [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element 👍1  
 
 ## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
 
@@ -904,7 +906,7 @@
 ## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍1  
 * 👍💵 Julie Salvi
 
-## [SB 5894](/bill/2023-24/sb/5894/) - Including protected classes in the Washington equal pay and opportunities act. 👍1  
+## [SB 5894](/bill/2023-24/sb/5894/) - Equal pay/protected classes 👍1  
 
 ## [SB 5895](/bill/2023-24/sb/5895/) - Concerning collective bargaining for certain employees who are enrolled in academic programs at public institutions of higher education. 👍2  
 
