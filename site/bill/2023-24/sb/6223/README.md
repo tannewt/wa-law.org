@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=SB%206223)
 * 01/24/2024 [The Seattle Times](/org/the_seattle_times/) - [Bill aims to increase WA school board pay for first time since 1987 | The Seattle Times](https://www.seattletimes.com/education-lab/bill-aims-to-increase-wa-school-board-pay-for-first-time-since-1987/#:~:text=SB%206223)
 
 ## Meetings

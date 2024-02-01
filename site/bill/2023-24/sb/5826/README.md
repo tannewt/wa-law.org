@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/29/2024 [The Center Square](/org/the_center_square/) - [Washington bill would show impact of Climate Commitment Act on energy prices | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_649b5b04-bee2-11ee-9d9e-bb1a0485775b.html#:~:text=SB%205826)
 * 01/25/2024 [MyNorthwest](/org/mynorthwest/) - [New bill demands transparency for Puget Sound Energy customers - MyNorthwest.com](https://mynorthwest.com/3947865/new-gas-energy-bill-demands-transparency-puget-sound-energy-pse-customers/#:~:text=SB%205826)
 * 01/24/2024 [Crosscut](/org/crosscut/) - [WA lawmakers argue for more transparency in utility bills | Crosscut](https://crosscut.com/briefs/2024/01/wa-lawmakers-argue-more-transparency-utility-bills#:~:text=Senate%20Bill%205826)
 * 12/29/2023 [The Center Square](/org/the_center_square/) - [Legislation would require utilities to line item cap-and-trade costs in bills | Energy | thecentersquare.com](https://www.thecentersquare.com/issues/energy/article_966f2d6a-a5b8-11ee-903e-8b482eb3d35c.html#:~:text=Senate%20Bill%205826)

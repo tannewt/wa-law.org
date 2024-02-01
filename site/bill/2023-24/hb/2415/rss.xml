@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2415/</link>
 		<description>Updates about HB 2415</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 29 Jan 2024 12:51:42 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -22,6 +22,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Babs/Roberts/2024-01-29 12:51:42</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-31/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

@@ -6,25 +6,27 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/30/2024 [KIRO7](/org/kiro7/) - [Bill proposes testing automated speed cameras along state highways – KIRO 7 News Seattle](https://www.kiro7.com/news/local/bill-proposes-testing-automated-speed-cameras-along-state-highways/L3RFNWAJJFFLXGCHZ56X7K7Y4I/#:~:text=House%20Bill%202485)
+* 01/29/2024 [FOX13](/org/fox13/) - [Speed cameras on Washington highways; Lawmakers hope to curb number of crashes](https://www.fox13seattle.com/news/proposed-law-looks-to-add-speed-cams-to-washington-state-highways#:~:text=House%20Bill%202485)
+
 ## Meetings
 ### Wed 01/31 04:00 PM - Transportation (TR): HB 2485 Speed safety camera pilot
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31830&aId=158341&caId=23753&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31830&aId=158341&caId=23753&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31830&aId=158341&caId=23753&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31830&aId=158341&caId=23753&tId=4)
-
-#### 11 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Deion Glover - Washington State Patrol
 * Dongho Chang - WSDOT
 * Mark McKechnie - Washington Safety Traffic Commission
 
-#### 501 👎 - Con
+#### 544 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Jeannette Mcchesney
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Marian LaFountaine
+* Tad Sommerville
+* Laurie Layne
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs

@@ -13,7 +13,9 @@
 ## 📰 Articles
 * 05/05/2023 [House Democrats](/org/house_democrats/) - [Governor Signs Bill Improving Building Energy Systems – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/05/05/governor-signs-bill-improving-building-energy-systems/#:~:text=House%20Bill%201390)
 * 03/04/2023 [House Democrats](/org/house_democrats/) - [Ramel Bills to Improve Building Energy Systems Pass House of Representatives – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/04/ramel-bills-to-improve-building-energy-systems-pass-house-of-representatives/#:~:text=House%20Bill%201390)
+* 02/28/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Could a district heating system work for WWU? | Cascadia Daily News](https://www.cascadiadaily.com/2023/feb/28/could-a-district-heating-system-work-for-wwu/#:~:text=House%20Bill%201390)
 * 02/20/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead | February 20 - 24, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-february-20-24-2023/#:~:text=HB%201390)
+* 02/20/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Local lawmakers advance bills on environment, children | Cascadia Daily News](https://www.cascadiadaily.com/2023/feb/20/local-lawmakers-advance-bills-on-environment-children/#:~:text=House%20Bill%201390)
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): 2SHB 1390 District energy systems

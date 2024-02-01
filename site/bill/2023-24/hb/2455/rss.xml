@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2455/</link>
 		<description>Updates about HB 2455</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 30 Jan 2024 12:23:02 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -117,6 +117,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Cindy/Madigan/2024-01-30 12:23:02</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-31/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

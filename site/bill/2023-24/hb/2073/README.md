@@ -15,19 +15,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158361&caId=23768&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158361&caId=23768&tId=4)
 
-#### 24 👍 - Pro
+#### 304 👍 - Pro
 Testifying:
 * Elizabeth Hansen
 * Ruth Williams
 * Adam Lough
 * Kate White Tudor - Natural Resources Defense Council
 * Annemarie Dooley - Washington Physicians for Social Responsibility
+* 💵Amy Brackenbury - Washington State Society of Anesthesiologists
 
-#### 304 👎 - Con
+#### 497 👎 - Con
 Testifying:
 * Jeannette Mcchesney
+* James Ware
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * John Gibbons - Immediate Past President of WSDA
 

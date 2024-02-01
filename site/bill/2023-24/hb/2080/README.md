@@ -46,7 +46,7 @@ Testifying:
 Testifying:
 * 💵Lance Morehouse - [Sherwood Community Services](/org/sherwood_community_services/)
 * ivanova smith - Self Advocate leader
-* Shawn Latham - Self Advocates In Leadership
+* 💵Shawn Latham - Self Advocates In Leadership
 * John Lemus - AtWork! Advocacy Manager
 * Tonik Joseph - DSHS Developmental Disabilities Administration
 * Krista Milhofer - People First of Washington

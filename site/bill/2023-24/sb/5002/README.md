@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 01/29/2024 [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers try again to lower blood alcohol limit as DUI deaths rise | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/as-death-toll-rises-washington-lawmakers-look-to-lower-legal-limit-for-driving-drunk/#:~:text=Senate%20Bill%205002)
 * 01/26/2024 [MyNorthwest](/org/mynorthwest/) - [State lawmakers try again to lower legal blood alcohol limit for DUIs - MyNorthwest.com](https://mynorthwest.com/3948088/state-lawmakers-try-again-lower-legal-blood-alcohol-limit/#:~:text=Senate%20Bill%205002)
 * 01/25/2024 [KING5](/org/king5/) - [.05 BAC limit proposal has public hearing in state House | king5.com](https://www.king5.com/article/news/politics/state-politics/bill-lower-washington-bac-05-08-hearing-legislature-blood-alcohol-content/281-4c6a5d14-839a-4b68-81f1-2ecb537137c0#:~:text=SB%205002)
 * 04/24/2023 [Crosscut](/org/crosscut/) - [The bills that survived Washington's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/04/bills-survived-washingtons-2023-legislative-session#:~:text=Senate%20Bill%205002)

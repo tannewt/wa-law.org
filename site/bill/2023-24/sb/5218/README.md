@@ -18,7 +18,7 @@
 Testifying:
 * Donald Whitney - Inland Medical and Rehab/PAMES
 * spencer rowe
-* Shawn Latham - Allies in Advocacy
+* 💵Shawn Latham - Allies in Advocacy
 * mark challender
 
 #### 0 👎 - Con
@@ -30,7 +30,7 @@ Testifying:
 Testifying:
 * Donald Whitney - Inland Medical and Rehab
 * Bryce Schaffner - Bellevue Healthcare - Home Medical Equipment Provider
-* Shawn Latham - Allies in Advocacy
+* 💵Shawn Latham - Allies in Advocacy
 * mark challender
 * Tanner Williams
 

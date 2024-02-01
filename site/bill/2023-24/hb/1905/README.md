@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=House%20Bill%201905)
+* 01/28/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/28/the-house-hot-sheet-for-week-4-of-the-2024-legislative-session/#:~:text=HB%201905)
 * 01/15/2024 [Senate Democrats](/org/senate_democrats/) - [Nobles bill would expand wage discrimination protections in WA Equal Pay, Opportunities Act - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/15/nobles-bill-would-expand-wage-discrimination-protections-in-wa-equal-pay-opportunities-act/#:~:text=HB%201905)
 * 01/15/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/15/the-house-hot-sheet-for-week-2-of-the-2024-legislative-session/#:~:text=HB%201905)
 * 01/08/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/08/the-house-hot-sheet-for-week-1-of-the-2024-legislative-session/#:~:text=HB%201905)
@@ -20,11 +22,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158369&caId=23776&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158369&caId=23776&tId=4)
 
-#### 44 👍 - Pro
+#### 48 👍 - Pro
 
-#### 7 👎 - Con
+#### 281 👎 - Con
 Testifying:
 * 💵Michael Lindsay - Eatonville
+* Jeannette Mcchesney
 
 #### 0 ❓ - Other
 

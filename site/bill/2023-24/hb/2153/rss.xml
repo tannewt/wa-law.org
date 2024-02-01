@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2153/</link>
 		<description>Updates about HB 2153</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 30 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2024 06:56:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -85,11 +85,41 @@
 			<guid isPermaLink="false">testifier/Holly/Chisa/2024-01-15 09:34:21</guid>
 		</item>
 		<item>
+			<title>The House Hot Sheet for Week 4 of the 2024 Legislative Session – Washington State House Democrats</title>
+			<description>News article &quot;The House Hot Sheet for Week 4 of the 2024 Legislative Session – Washington State House Democrats&quot; from House Democrats.</description>
+			<pubDate>Sun, 28 Jan 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/01/28/the-house-hot-sheet-for-week-4-of-the-2024-legislative-session/#:~:text=HB%202153</guid>
+		</item>
+		<item>
 			<title>CPB - Executive action taken by committee.</title>
 			<description>CPB - Executive action taken by committee.</description>
 			<pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-30/CPB - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-30/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>👍💵Holly Chisa - Institute of Scrap Metal Industries</title>
+			<description>Holly Chisa signed up to testify Pro. They are signed up to represent Institute of Scrap Metal Industries. They are a registered lobbyist.</description>
+			<pubDate>Wed, 31 Jan 2024 05:23:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Holly/Chisa/2024-01-31 05:23:55</guid>
+		</item>
+		<item>
+			<title>👍💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs</title>
+			<description>Taylor Gardner signed up to testify Pro. They are signed up to represent WA Assn of Sheriffs and Police Chiefs. They are a registered lobbyist.</description>
+			<pubDate>Wed, 31 Jan 2024 06:56:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Taylor/Gardner/2024-01-31 06:56:04</guid>
 		</item>
 	</channel>
 </rss>

@@ -149,8 +149,9 @@
 ## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects  👎1 
 * 👎💵 Jan Himebaugh
 
-## [HB 2071](/bill/2023-24/hb/2071/) - Residential housing   ❓1
+## [HB 2071](/bill/2023-24/hb/2071/) - Residential housing 👍1  ❓1
 * ❓💵 Bill Stauffacher
+* 👍💵 Bill Stauffacher
 
 ## [HB 2087](/bill/2023-24/hb/2087/) - Apprenticeship objections 👍1  
 * 👍💵 Tricia Gullion

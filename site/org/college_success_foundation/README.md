@@ -54,7 +54,7 @@
 ## [HB 1679](/bill/2023-24/hb/1679/) - Student homelessness group 👍1  
 * 👍💵 Juliet Schindler
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍2  
 
 ## [HB 2025](/bill/2023-24/hb/2025/) - State work-study program 👍1  
 * 👍💵 Juliet Schindler
@@ -70,7 +70,7 @@
 ## [HB 2342](/bill/2023-24/hb/2342/) - Dependent youth financial ed 👍2  
 * 👍💵 Emily Stochel
 
-## [HB 2383](/bill/2023-24/hb/2383/) - Dependency outcome reporting 👍1  
+## [HB 2383](/bill/2023-24/hb/2383/) - Dependency outcome reporting 👍2  
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍3  
 * 👍💵 Juliet Schindler
@@ -138,6 +138,8 @@
 ## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍1  
 
 ## [SB 5850](/bill/2023-24/sb/5850/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
+
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
 
 ## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍4  
 * 👍💵 Emily Stochel

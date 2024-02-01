@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/28/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Shewmake: We can deliver on affordable housing | Cascadia Daily News](https://www.cascadiadaily.com/2023/feb/28/shewmake-we-can-deliver-on-affordable-housing/#:~:text=SB%205674)
 * 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=SB%205674)
 
 ## Meetings

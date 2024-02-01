@@ -19,7 +19,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158264&caId=23742&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158264&caId=23742&tId=4)
 
-#### 3 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* Angela Rozmyn - Natural and Built Environments
+* Robert Pantley - Natural and Built Environments
 
 #### 1 👎 - Con
 

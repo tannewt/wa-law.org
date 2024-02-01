@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1992/</link>
 		<description>Updates about HB 1992</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 30 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -54,11 +54,25 @@
 			<guid isPermaLink="false">testifier/Shannon/Hinchcliffe/2024-01-25 09:30:13</guid>
 		</item>
 		<item>
+			<title>The House Hot Sheet for Week 4 of the 2024 Legislative Session – Washington State House Democrats</title>
+			<description>News article &quot;The House Hot Sheet for Week 4 of the 2024 Legislative Session – Washington State House Democrats&quot; from House Democrats.</description>
+			<pubDate>Sun, 28 Jan 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/01/28/the-house-hot-sheet-for-week-4-of-the-2024-legislative-session/#:~:text=HB%201992</guid>
+		</item>
+		<item>
 			<title>CRJ - Majority; do pass.</title>
 			<description>CRJ - Majority; do pass.</description>
 			<pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-30/CRJ - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-31/Referred to Appropriations.</guid>
 		</item>
 	</channel>
 </rss>

@@ -28,6 +28,8 @@
 
 ## [HB 2054](/bill/2023-24/hb/2054/) - Concerning bulk purchases and transfers of firearms. 👍1  
 
+## [HB 2073](/bill/2023-24/hb/2073/) - Greenhouse gas other sources 👍1  
+
 ## [HB 2116](/bill/2023-24/hb/2116/) - Pharmacist prescriptive auth  👎1 
 
 ## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍1  

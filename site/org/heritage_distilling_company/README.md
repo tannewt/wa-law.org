@@ -13,6 +13,8 @@
 
 ## [HB 2095](/bill/2023-24/hb/2095/) - Gift certificates/unclaimed  👎4 
 
+## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg.  👎1 
+
 ## [HB 2163](/bill/2023-24/hb/2163/) - Liquor licensee advertising 👍1  
 
 ## [HB 2363](/bill/2023-24/hb/2363/) - Alcohol/pop-up retail sales   ❓1

@@ -19,17 +19,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158011&caId=23704&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158011&caId=23704&tId=4)
 
-#### 3 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Jamie Spinelli - Homeless Response Manager, City of Vancouver
+* Michael Lynch
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Arlen Harris - State Board for Community and Technical Colleges
 * Dr. Karin Edwards - Clark College
 * Dr. Kevin Brockbank - Community Colleges of Spokane
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/16 04:00 PM - Housing (HOUS): HB 2172 Vacant state agency property
 #### 12 👍 - Pro

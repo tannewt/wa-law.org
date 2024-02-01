@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 01/29/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Fosse Bill Expands Construction Apprenticeship Opportunities for Incarcerated Individuals – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/29/legislative-news-fosse-bill-expands-construction-apprenticeship-opportunities-for-incarcerated-individuals/#:~:text=House%20Bill%202084)
+
 ## Meetings
 ### Mon 01/22 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 2084 Construction training/DOC
 #### 123 👍 - Pro

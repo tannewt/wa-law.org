@@ -7,22 +7,22 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 01/28/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/28/the-house-hot-sheet-for-week-4-of-the-2024-legislative-session/#:~:text=SHB%202022)
+
 ## Meetings
 ### Wed 01/31 04:00 PM - Appropriations (APP): SHB 2022 Construction crane safety
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31825&aId=158351&caId=23758&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31825&aId=158351&caId=23758&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31825&aId=158351&caId=23758&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31825&aId=158351&caId=23758&tId=4)
-
-#### 41 👍 - Pro
+#### 44 👍 - Pro
 Testifying:
 * 💵Heather Kurtenbach - Ironworkers Local 86
 * Andrea and Henry Wang/Wong
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Jerry VanderWood - AGC of Washington
+* Josh Swanson - IUOE Local 302
 
 ### Fri 01/12 10:30 AM - Labor & Workplace Standards (LAWS): HB 2022 Construction crane safety
 #### 27 👍 - Pro

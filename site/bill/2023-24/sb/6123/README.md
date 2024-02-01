@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=SB%206123)
+
 ## Meetings
 ### Wed 01/24 10:30 AM - Early Learning & K-12 Education (EDU): SB 6123 Classified school employees
 #### 217 👍 - Pro

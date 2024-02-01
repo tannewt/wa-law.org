@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6005/</link>
 		<description>Updates about SB 6005</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 23 Jan 2024 11:59:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2024 00:02:30 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -298,6 +298,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Anne/Dickerson/2024-01-23 11:59:00</guid>
+		</item>
+		<item>
+			<title>2024 Current Status of Priority Bills — Quaker Voice</title>
+			<description>News article &quot;2024 Current Status of Priority Bills — Quaker Voice&quot; from Quaker Voice On Washington Public Policy.</description>
+			<pubDate>Wed, 31 Jan 2024 00:02:30 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.quakervoicewa.org/2024-current-status-of-priority-bills/#:~:text=SB%206005</guid>
 		</item>
 	</channel>
 </rss>

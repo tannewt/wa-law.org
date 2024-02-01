@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 05/02/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Legislature unanimously passes Nooksack adjudication bill | Cascadia Daily News](https://www.cascadiadaily.com/2023/may/02/legislature-unanimously-passes-nooksack-adjudication-bill/#:~:text=House%20Bill%201789)
 * 02/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB%201789)
 * 02/14/2023 [KUOW](/org/kuow/) - [KUOW - Washington state has a new carbon credit market. What does that mean?](https://www.kuow.org/stories/washington-state-has-a-new-carbon-credit-market-what-does-that-mean#:~:text=House%20Bill%201789)
 * 02/13/2023 [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=HB%201789)

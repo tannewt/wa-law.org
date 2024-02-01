@@ -114,7 +114,7 @@
 
 ## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
 
-## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍6  
+## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍7  
 * 👍💵 Alex Hur
 * 👍💵 Lianna Kressin
 * 👍💵 Lianna Kressin
@@ -242,7 +242,7 @@
 
 ## [SB 6069](/bill/2023-24/sb/6069/) - Retirement savings 👍1  
 
-## [SB 6135](/bill/2023-24/sb/6135/) - TANF transitional assistance 👍3  
+## [SB 6135](/bill/2023-24/sb/6135/) - TANF transitional assistance 👍5  
 * 👍💵 Lianna Kressin
 * 👍💵 Lianna Kressin
 

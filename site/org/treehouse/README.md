@@ -42,7 +42,7 @@
 
 ## [HB 1701](/bill/2023-24/hb/1701/) - Institutional ed. programs   ❓1
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍2  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍3  
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 

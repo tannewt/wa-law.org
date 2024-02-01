@@ -19,3 +19,5 @@
 ## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍1  
 
 ## [SB 6242](/bill/2023-24/sb/6242/) - Law enforcement training 👍1  
+
+## [SB 6285](/bill/2023-24/sb/6285/) - Use of impact fees  👎1 

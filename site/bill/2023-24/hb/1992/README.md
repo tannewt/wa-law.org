@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/28/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/28/the-house-hot-sheet-for-week-4-of-the-2024-legislative-session/#:~:text=HB%201992)
+
 ## Meetings
 ### Fri 01/26 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1992 Superior court/Whatcom
 #### 7 👍 - Pro

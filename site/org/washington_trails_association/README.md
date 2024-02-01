@@ -16,7 +16,7 @@
 
 ## [HB 2138](/bill/2023-24/hb/2138/) - Outdoor learning/state parks 👍1  
 
-## [HB 2257](/bill/2023-24/hb/2257/) - Back country search & rescue 👍1  
+## [HB 2257](/bill/2023-24/hb/2257/) - Back country search & rescue 👍2  
 
 ## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍3  
 

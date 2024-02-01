@@ -15,7 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158454&caId=23814&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158454&caId=23814&tId=4)
 
-#### 1 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* 💵Alexa Silver - Consumer Direct of Washington
+* Bea Rector - Dept. of Social and Health Services
+* Cathy Knight - WA Assn of Area Agencies on Aging (W4A)
 
 #### 1 👎 - Con
 Testifying:

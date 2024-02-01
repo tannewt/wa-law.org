@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=HB%201946)
+
 ## Meetings
 ### Mon 01/22 04:00 PM - Appropriations (APP): HB 1946 Behav. health scholarship
 #### 109 👍 - Pro

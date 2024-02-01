@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5972/</link>
 		<description>Updates about SB 5972</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 30 Jan 2024 08:23:21 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2024 12:58:45 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -209,6 +209,30 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Justin/Gulino/2024-01-30 08:23:21</guid>
+		</item>
+		<item>
+			<title>❓💵Christopher Finarelli - National Caucus of Environmental Legislators</title>
+			<description>Christopher Finarelli signed up to testify Other. They are a registered lobbyist.</description>
+			<pubDate>Wed, 31 Jan 2024 04:13:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Christopher/Finarelli/2024-01-31 04:13:42</guid>
+		</item>
+		<item>
+			<title>❓Kelly McLain - Washington State Department of Agriculture</title>
+			<description>Kelly McLain signed up to testify Other. They are signed up to represent Washington State Department of Agriculture.</description>
+			<pubDate>Wed, 31 Jan 2024 10:22:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Kelly/McLain/2024-01-31 10:22:15</guid>
+		</item>
+		<item>
+			<title>❓John Roskelley - Washington State Department of Agriculture</title>
+			<description>John Roskelley signed up to testify Other.</description>
+			<pubDate>Wed, 31 Jan 2024 12:58:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/John/Roskelley/2024-01-31 12:58:45</guid>
 		</item>
 	</channel>
 </rss>

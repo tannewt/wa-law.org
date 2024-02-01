@@ -7,13 +7,16 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Current Status of Priority Bills — Quaker Voice](https://www.quakervoicewa.org/2024-current-status-of-priority-bills/#:~:text=HB%202114)
 * 01/25/2024 [The Center Square](/org/the_center_square/) - [Washington landlords push back on proposed rent control bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_e214113c-bbbf-11ee-9517-037a1febb6d3.html#:~:text=House%20Bill%202114)
 * 01/21/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/21/the-house-hot-sheet-for-week-3-of-the-2024-legislative-session/#:~:text=HB%202114)
 * 01/20/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Quaker Voice Priorities — Quaker Voice](https://www.quakervoicewa.org/2024-quaker-voice-priorities/#:~:text=HB%202114)
 * 01/20/2024 [NW News Network](/org/nw_news_network/) - [AI, guns, and initiatives: highlights from Week 2 of Washington's 2024 legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-19/ai-guns-and-initiatives-highlights-from-week-2-of-washingtons-2024-legislative-session#:~:text=House%20Bill%202114)
+* 01/15/2024 [Cascadia Daily News](/org/cascadia_daily_news/) - [Rent-cap bill gets second chance in Olympia | Cascadia Daily News](https://www.cascadiadaily.com/2024/jan/15/rent-cap-bill-gets-second-chance-in-olympia/#:~:text=House%20Bill%202114)
 * 01/12/2024 [NW News Network](/org/nw_news_network/) - [WA lawmakers weigh proposal to slow rising rental costs amid ongoing housing crisis | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-11/wa-lawmakers-weigh-proposal-to-slow-rising-rental-costs-amid-ongoing-housing-crisis#:~:text=House%20Bill%202114)
 * 01/08/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/08/the-house-hot-sheet-for-week-1-of-the-2024-legislative-session/#:~:text=HB%202114)
 * 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%202114)
+* 01/04/2024 [Cascadia Daily News](/org/cascadia_daily_news/) - [Fentanyl, housing, public safety top priorities for Washington Legislature | Cascadia Daily News](https://www.cascadiadaily.com/2024/jan/04/fentanyl-housing-public-safety-top-priorities-in-2024-legislative-session/#:~:text=House%20Bill%202114)
 * [Cascadia Daily News](/org/cascadia_daily_news/) - [Fentanyl, housing, public safety top priorities for Washington Legislature](https://cascadiadaily.com/news/2024/jan/04/fentanyl-housing-public-safety-top-priorities-in-2024-legislative-session/#:~:text=House%20Bill%202114)
 * [Cascadia Daily News](/org/cascadia_daily_news/) - [Rent-cap bill gets second chance in Olympia](https://cascadiadaily.com/news/2024/jan/15/rent-cap-bill-gets-second-chance-in-olympia/#:~:text=House%20Bill%202114)
 

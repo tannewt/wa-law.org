@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/30/2024 [Hacks and Wonks](/org/hacks_and_wonks/) - [Pairing Advocacy and Research for Progress with Andrew Villeneuve of the Northwest Progressive Institute — Hacks & Wonks](https://www.officialhacksandwonks.com/blog/andrew-villeneuve-northwest-progressive-institute#:~:text=HB%201932)
 * 01/16/2024 [Sightline Institute](/org/sightline_institute/) - [Washingtonians May Get a Democracy Upgrade in 2024 - Sightline Institute](https://www.sightline.org/2024/01/16/washingtonians-may-get-a-democracy-upgrade-in-2024/#:~:text=HB%201932)
 * 01/09/2024 [The Center Square](/org/the_center_square/) - [Washington bill could ban some cities from having odd-numbered year elections | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9f78faa4-af49-11ee-b019-7ffdbc40415f.html#:~:text=House%20Bill%201932)
 * 01/08/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/08/the-house-hot-sheet-for-week-1-of-the-2024-legislative-session/#:~:text=HB%201932)

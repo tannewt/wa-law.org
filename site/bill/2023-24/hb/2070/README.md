@@ -22,7 +22,7 @@ Testifying:
 * Nealane Riem
 * Lorraine Hartmann - Catholic
 * Travis Vandervort - parishioner of St. Madeleine Sophie Church
-* Kelly Campbell - [Columbia Riverkeeper](/org/columbia_riverkeeper/)
+* 💵Kelly Campbell - [Columbia Riverkeeper](/org/columbia_riverkeeper/)
 * Diana Boyle - St. John Vianney Kirkland
 * Aaron Erlandson
 * Maria Luisa Duque-Barroga - Parishioner of St. Madeleine Sophie Church

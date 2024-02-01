@@ -10,7 +10,7 @@
 
 ## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍1  
 
-## [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element 👍1  
+## [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element 👍2  
 
 ## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍1  
 

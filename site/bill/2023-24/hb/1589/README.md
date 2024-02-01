@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=ESHB%201589)
 * 01/27/2024 [MyNorthwest](/org/mynorthwest/) - [Limits on natural gas may get stripped out of new state bill - MyNorthwest.com](https://mynorthwest.com/3948225/limits-natural-gas-may-get-stripped-out-state-bill/#:~:text=House%20Bill%201589)
 * 01/27/2024 [NW News Network](/org/nw_news_network/) - [Natural gas, opioids and DUIs: Highlights from week 3 of Washington's legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-26/natural-gas-opioids-and-duis-highlights-from-week-3-of-washingtons-legislative-session#:~:text=House%20Bill%201589)
 * 01/23/2024 [The Center Square](/org/the_center_square/) - [Washington House passes PSE natural gas ban days after cold snap hits energy grid | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f1782926-ba23-11ee-b3a3-27e1b8c62a45.html#:~:text=HB%201589)
@@ -25,13 +26,7 @@
 
 ## Meetings
 ### Wed 01/31 08:00 AM - Environment, Energy & Technology (ENET): ESHB 1589 Clean energy
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31819&aId=158260&caId=23739&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31819&aId=158260&caId=23739&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31819&aId=158260&caId=23739&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31819&aId=158260&caId=23739&tId=4)
-
-#### 247 👍 - Pro
+#### 263 👍 - Pro
 Testifying:
 * Anna Lising - Governor's office
 * Jason Lewis - Utilities and Transportation Commission
@@ -87,8 +82,10 @@ Testifying:
 * Joann Derie - Self
 * Mike Ellison
 * Sarah Martin
+* Joe Chasse
+* Mark Leed
 
-#### 1358 👎 - Con
+#### 1463 👎 - Con
 Testifying:
 * 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)

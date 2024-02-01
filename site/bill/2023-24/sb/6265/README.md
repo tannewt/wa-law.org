@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 01/31/2024 [MyNorthwest](/org/mynorthwest/) - [Coupon discrimination by large grocery stores targeted in Senate bill - MyNorthwest.com](https://mynorthwest.com/3948646/senate-bill-targets-coupon-discrimination-large-grocery-stores/#:~:text=Senate%20Bill%206265)
+
 ## Meetings
 ### Tue 01/23 10:30 AM - Labor & Commerce (LC): SB 6265 Grocery coupons
 #### 4 👍 - Pro

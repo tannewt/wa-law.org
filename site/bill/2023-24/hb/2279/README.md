@@ -10,7 +10,7 @@
 ### Wed 01/24 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2279 Dev. disabilities waiver use
 #### 16 👍 - Pro
 Testifying:
-* Shawn Latham - Self Advocates In Leadership
+* 💵Shawn Latham - Self Advocates In Leadership
 * Kim McLeod
 * 💵Noah Seidel - Office of Developmental Disabilities Ombuds
 * 💵Stacy Dym - [The Arc of Washington State](/org/the_arc_of_washington_state/)

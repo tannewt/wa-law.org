@@ -15,6 +15,8 @@
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
+
 ## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍3  
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1

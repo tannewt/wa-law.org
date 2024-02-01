@@ -15,11 +15,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158451&caId=23811&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158451&caId=23811&tId=4)
 
-#### 4 👍 - Pro
+#### 70 👍 - Pro
 Testifying:
 * 💵Anna Nepomuceno - NAMI Washington and Patients Coalition of Washington
 * Jim Theofelis - NorthStar Advocates
 * Sarah Spier - NorthStar Advocates
+* James Lee Amell - NAMI Lewis County
+* Jason McGill - Northwest Youth Services
+* Vy Vu - NorthStar Advocates & The Mockingbird Society
 
 #### 0 👎 - Con
 

@@ -17,10 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158014&caId=23707&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158014&caId=23707&tId=4)
 
-#### 4 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Tom Davis - WA Forest Protection Association
+* Csenka Favorini-Csorba - [Department of Natural Resources](/org/department_of_natural_resources/)
 
-#### 2 👎 - Con
+#### 6 👎 - Con
 
 #### 0 ❓ - Other

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6133/</link>
 		<description>Updates about SB 6133</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 30 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -45,6 +45,20 @@
 			<pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-30/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Pot shop robbery penalties would increase under bill proposal | king5.com</title>
+			<description>News article &quot;Pot shop robbery penalties would increase under bill proposal | king5.com&quot; from KING5.</description>
+			<pubDate>Tue, 30 Jan 2024 12:58:13 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.king5.com/article/news/crime/pot-shop-robbery-penalties-increase-proposed-bill/281-fd4d6cb9-36a8-4003-994c-bed52d5eebd0#:~:text=SB%206133</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-31/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

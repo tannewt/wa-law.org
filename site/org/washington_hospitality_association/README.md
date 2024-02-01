@@ -111,10 +111,11 @@
 
 ## [HB 2035](/bill/2023-24/hb/2035/) - Concerning restrictions on the working conditions and hours of sixteen- and seventeen-year olds. 👍1  
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management  👎1 
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management  👎2 
+* 👎💵 Samantha Louderback
 * 👎💵 Samantha Louderback
 
-## [HB 2052](/bill/2023-24/hb/2052/) - Increasing the availability of baby diaper changing stations.   ❓1
+## [HB 2052](/bill/2023-24/hb/2052/) - Diaper changing stations   ❓1
 * ❓💵 Samantha Louderback
 
 ## [HB 2094](/bill/2023-24/hb/2094/) - Gift certificates  👎1 

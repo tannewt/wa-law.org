@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2422/</link>
 		<description>Updates about HB 2422</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 26 Jan 2024 20:36:55 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2024 02:56:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,14 @@
 			<pubDate>Fri, 26 Jan 2024 20:36:55 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-29-feb-2-2024/#:~:text=HB%202422</guid>
+		</item>
+		<item>
+			<title>👍💵Travis Dutton - Washington State Association of Counties</title>
+			<description>Travis Dutton signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_state_association_of_counties/&quot;&gt;Washington State Association of Counties&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 31 Jan 2024 02:56:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Travis/Dutton/2024-01-31 02:56:17</guid>
 		</item>
 	</channel>
 </rss>

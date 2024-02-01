@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=Senate%20Bill%205894)
 * 01/15/2024 [Senate Democrats](/org/senate_democrats/) - [Nobles bill would expand wage discrimination protections in WA Equal Pay, Opportunities Act - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/15/nobles-bill-would-expand-wage-discrimination-protections-in-wa-equal-pay-opportunities-act/#:~:text=Senate%20Bill%205894)
 * 01/14/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 2: MLK, education, gas price transparency - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/14/this-week-in-the-senate-week-2-mlk-education-gas-price-transparency/#:~:text=SB%205894)
 

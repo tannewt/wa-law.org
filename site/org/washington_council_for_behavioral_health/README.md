@@ -18,7 +18,7 @@
 
 ## [HB 2319](/bill/2023-24/hb/2319/) - Substance use treatment   ❓1
 
-## [HB 2408](/bill/2023-24/hb/2408/) - Crisis response comm methods 👍1  
+## [HB 2408](/bill/2023-24/hb/2408/) - Crisis response comm methods 👍2  
 
 ## [SB 5036](/bill/2023-24/sb/5036/) - Audio-only telemedicine 👍1  
 

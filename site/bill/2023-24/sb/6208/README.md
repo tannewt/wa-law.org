@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=Senate%20Bill%206208)
 * 01/24/2024 [Senate Democrats](/org/senate_democrats/) - [Nobles’ education bills heard in committee - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/24/nobles-education-bills-heard-in-committee/#:~:text=Senate%20Bill%206208)
 
 ## Meetings

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/17/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Legislature passes several bills to support higher education | Cascadia Daily News](https://www.cascadiadaily.com/2023/apr/17/legislature-passes-several-bills-to-support-higher-education/#:~:text=Senate%20Bill%205079)
 * 03/06/2023 [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=SB%205079)
 
 ## Meetings

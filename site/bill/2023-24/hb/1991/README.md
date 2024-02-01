@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=House%20Bill%201991)
 * 01/17/2024 [The Center Square](/org/the_center_square/) - [WA Paid Medical Leave could soon apply to small employers and 'Chosen Families' | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_bfba68f8-b597-11ee-a1f8-b76c15976ea9.html#:~:text=HB-1991)
 
 ## Meetings

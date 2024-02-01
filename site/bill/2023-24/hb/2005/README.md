@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=HB%202005)
+
 ## Meetings
 ### Tue 01/16 04:00 PM - Education (ED): HB 2005 Weighted grade point average
 #### 5 👍 - Pro

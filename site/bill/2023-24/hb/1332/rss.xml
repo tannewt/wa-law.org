@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1332/</link>
 		<description>Updates about HB 1332</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 09 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -111,6 +111,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Anna/Hernandez-French/2023-02-20 07:25:41</guid>
+		</item>
+		<item>
+			<title>Local lawmakers advance bills on environment, children | Cascadia Daily News</title>
+			<description>News article &quot;Local lawmakers advance bills on environment, children | Cascadia Daily News&quot; from Cascadia Daily News.</description>
+			<pubDate>Mon, 20 Feb 2023 16:47:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadiadaily.com/2023/feb/20/local-lawmakers-advance-bills-on-environment-children/#:~:text=House%20Bill%201332</guid>
 		</item>
 		<item>
 			<title>Referred to Rules 2 Review.</title>
@@ -235,6 +242,13 @@
 			<pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-09/Rules Committee relieved of further consideration.  Placed on third reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</title>
+			<description>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</description>
+			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-31/Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</guid>
 		</item>
 	</channel>
 </rss>

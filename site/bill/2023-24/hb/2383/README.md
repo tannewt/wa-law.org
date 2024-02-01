@@ -18,7 +18,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158455&caId=23815&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158455&caId=23815&tId=4)
 
-#### 1 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* Tara Urs - King County Department of Public Defense
+* Kelly Warner-King - Washington State Administrative Office of the Courts
 
 #### 0 👎 - Con
 

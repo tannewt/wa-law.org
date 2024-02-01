@@ -10,6 +10,9 @@
 * [Passed Legislature](S2.PL/)
 * [Session Law](S2.SL/)
 
+## 📰 Articles
+* 04/17/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Legislature passes several bills to support higher education | Cascadia Daily News](https://www.cascadiadaily.com/2023/apr/17/legislature-passes-several-bills-to-support-higher-education/#:~:text=Senate%20Bill%205593)
+
 ## Meetings
 ### Fri 03/31 01:30 PM - Appropriations (APP): 2SSB 5593 Student data transfer
 #### 24 👍 - Pro

@@ -58,7 +58,7 @@
 * 👎 Rachel Baker
 * 👎 Rachel Baker
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍1  
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍2  
 
 ## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects 👍1  
 
@@ -66,7 +66,7 @@
 
 ## [HB 2193](/bill/2023-24/hb/2193/) - Env. restoration accelerator  👎1 
 
-## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage 👍1  
+## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage 👍2  
 * 👍💵 Darcy Nonemacher
 
 ## [HB 2250](/bill/2023-24/hb/2250/) - Local elections 👍1  
@@ -138,10 +138,12 @@
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  
 * 👍💵 Clifford Traisman
 
-## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍1  
+## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍2  
 * 👍💵 Darcy Nonemacher
 
 ## [SB 6071](/bill/2023-24/sb/6071/) - Oil exporters/human rights 👍1  
+
+## [SB 6304](/bill/2023-24/sb/6304/) - Implementing certain recommendations of the transportation electrification strategy. 👍1  
 
 ## [SCR 8402](/bill/2023-24/scr/8402/) - Jennifer Belcher Building 👍2  
 * 👍 Miguel Perez Gibson

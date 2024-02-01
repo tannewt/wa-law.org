@@ -101,7 +101,7 @@
 
 ## [HB 2117](/bill/2023-24/hb/2117/) - Aerial firefighting/permits   ❓1
 
-## [HB 2131](/bill/2023-24/hb/2131/) - Thermal energy networks 👍1  
+## [HB 2131](/bill/2023-24/hb/2131/) - Thermal energy networks 👍2  
 
 ## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍2  
 
@@ -201,3 +201,6 @@
 ## [SB 6229](/bill/2023-24/sb/6229/) - Green transp. grants/match 👍1  
 
 ## [SB 6291](/bill/2023-24/sb/6291/) - State building code council   ❓1
+
+## [SB 6304](/bill/2023-24/sb/6304/) - Implementing certain recommendations of the transportation electrification strategy. 👍1  
+* 👍💵 Leah Missik

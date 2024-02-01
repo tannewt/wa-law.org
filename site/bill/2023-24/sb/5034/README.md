@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/15/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Sedro-Woolley officer returns to force after killing motorist; lawsuit looms | Cascadia Daily News](https://www.cascadiadaily.com/2023/jan/15/sedro-woolley-officer-returns-to-force-after-killing-motorist-lawsuit-looms/#:~:text=5034)
+
 ## Meetings

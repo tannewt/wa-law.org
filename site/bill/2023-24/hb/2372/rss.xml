@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2372/</link>
 		<description>Updates about HB 2372</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 24 Jan 2024 07:13:15 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 28 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -52,6 +52,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Susanna/Jones/2024-01-24 07:13:15</guid>
+		</item>
+		<item>
+			<title>The House Hot Sheet for Week 4 of the 2024 Legislative Session – Washington State House Democrats</title>
+			<description>News article &quot;The House Hot Sheet for Week 4 of the 2024 Legislative Session – Washington State House Democrats&quot; from House Democrats.</description>
+			<pubDate>Sun, 28 Jan 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/01/28/the-house-hot-sheet-for-week-4-of-the-2024-legislative-session/#:~:text=HB%202372</guid>
 		</item>
 	</channel>
 </rss>

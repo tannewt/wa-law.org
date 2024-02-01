@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31808&aId=158123&caId=23716&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31808&aId=158123&caId=23716&tId=4)
 
-#### 240 👍 - Pro
+#### 435 👍 - Pro
 Testifying:
 * Jonathan Smith - Issaquah Volunteer Litter Clean-up Group
 * Eric Chambers - [Oregon Beverage Recycling Cooperative](/org/oregon_beverage_recycling_cooperative/)
@@ -28,17 +28,25 @@ Testifying:
 * Fiona Bell - Novelis
 * Liz Donohue - BlueTriton Brands
 * 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
+* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 
-#### 49 👎 - Con
+#### 62 👎 - Con
 Testifying:
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Tad Sommerville
 * 💵Katie Beeson - Washington Food Industry Association
+* Wendy Weiker - [Republic Services](/org/republic_services/)
+* 💵Jay Balasbas - Sunshine Disposal and Recycling, Basin Disposal
+* Jim Hedrick - Washington Ditillers Guild
+* Mark Lanter - Yakima Waste 2195 Waste Connections
+* 💵Vicki Christophersen - Washington Refuse and Recycling Association
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Miriam Gordon - The Story of Stuff
 * 💵Brad Boswell - [Washington Beverage Association](/org/washington_beverage_association/)
+* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 
 ### Tue 01/09 04:00 PM - Environment & Energy (ENVI): HB 2144 Providing for a deposit return program for qualifying beverage containers to be implemented by a distributor responsibility organization. (Remote Testimony Available). (If measure is referred to committee.)
 #### 260 👍 - Pro

@@ -14,6 +14,9 @@
 
 ## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍1  
 
+## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention   ❓1
+* ❓ Ph.D., Terri Standish-Kuon
+
 ## [HB 2441](/bill/2023-24/hb/2441/) - College in the HS fees 👍1  
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  ❓1

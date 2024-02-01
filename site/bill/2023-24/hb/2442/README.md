@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158013&caId=23706&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158013&caId=23706&tId=4)
 
-#### 158 👍 - Pro
+#### 208 👍 - Pro
 Testifying:
 * Josh Harris
 * Karen Shuey
@@ -26,8 +26,9 @@ Testifying:
 * Jessica Wray - Concerns of police survivor
 * Michael Wray - Concerns of police survivors
 * Lisa Wray
+* Dave Upthegrove
 
-#### 359 👎 - Con
+#### 1388 👎 - Con
 Testifying:
 * Katherine DeRosier
 * Calden Santiago
@@ -36,5 +37,11 @@ Testifying:
 * Crystal Linville
 * Jolin Lowry - Widow of Officer William Lowry
 * Haley Livezey
+* Shauna Treseder
+* Charles Berg
+* Jodie Sharp
+* Brian Johnston - [Behind the Badge Foundation](/org/behind_the_badge_foundation/)
+* Dyllon Miller
+* Mike Lester
 
-#### 3 ❓ - Other
+#### 5 ❓ - Other

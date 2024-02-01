@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2354/</link>
 		<description>Updates about HB 2354</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 23 Jan 2024 12:48:38 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -150,6 +150,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Steve/Brooks/2024-01-23 12:48:38</guid>
+		</item>
+		<item>
+			<title>LG - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>LG - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-31/LG - Majority; 1st substitute bill be substituted, do pass.</guid>
 		</item>
 	</channel>
 </rss>

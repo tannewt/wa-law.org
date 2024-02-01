@@ -44,6 +44,8 @@
 
 ## [HB 2023](/bill/2023-24/hb/2023/) - Improving meaningful access to elections by increasing language assistance. 👍1  
 
+## [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element 👍1  
+
 ## [HB 2134](/bill/2023-24/hb/2134/) - Transportation budget, supp. 👍1  
 
 ## [SB 5129](/bill/2023-24/sb/5129/) - Nuclear reactor technology  👎1 

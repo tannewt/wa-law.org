@@ -151,7 +151,7 @@
 
 ## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍1  
 
-## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍1  
+## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍2  
 
 ## [HB 1916](/bill/2023-24/hb/1916/) - Concerning funding for the early support for infants and toddlers program. 👍1  
 
@@ -209,7 +209,7 @@
 
 ## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍1  
 
-## [HB 2172](/bill/2023-24/hb/2172/) - Vacant state agency property 👍1  
+## [HB 2172](/bill/2023-24/hb/2172/) - Vacant state agency property 👍2  
 
 ## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities 👍1  
 

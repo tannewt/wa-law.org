@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## Meetings
 ### Fri 01/26 08:00 AM - Health Care & Wellness (HCW): SHB 1450 Biomarker testing coverage

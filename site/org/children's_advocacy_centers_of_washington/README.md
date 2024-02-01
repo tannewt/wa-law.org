@@ -32,7 +32,7 @@
 
 ## [HB 1999](/bill/2023-24/hb/1999/) - Fabricated intimate images 👍1  
 
-## [HB 2076](/bill/2023-24/hb/2076/) - Addressing crimes involving human trafficking or sexual exploitation. 👍1  
+## [HB 2076](/bill/2023-24/hb/2076/) - Human trafficking crimes 👍1  
 
 ## [HB 2237](/bill/2023-24/hb/2237/) - Parenting plan limitations 👍1  
 

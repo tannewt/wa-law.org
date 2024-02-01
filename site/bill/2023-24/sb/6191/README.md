@@ -18,7 +18,7 @@ Testifying:
 * Marc Cote - Parkview Services
 * Scott Livengood - Alpha Supported Living
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
-* Shawn Latham - Self Advocates In Leadership
+* 💵Shawn Latham - Self Advocates In Leadership
 * 💵Adrienne Stuart
 * Moses Perez
 * Robert Wardell

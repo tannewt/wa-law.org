@@ -159,6 +159,8 @@
 ## [HB 2393](/bill/2023-24/hb/2393/) - Unleaded aircraft fuel/tax 👍1  
 * 👍 Chris Herman
 
+## [HB 2417](/bill/2023-24/hb/2417/) - Renewable energy loans 👍1  
+
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 * ❓ Eric ffitch
 

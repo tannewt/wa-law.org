@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=SB%205978)
+
 ## Meetings
 ### Mon 01/22 01:30 PM - Early Learning & K-12 Education (EDU): SB 5978 School district-county loans
 #### 18 👍 - Pro

@@ -267,7 +267,8 @@
 ## [HB 2044](/bill/2023-24/hb/2044/) - Standardizing limitations on voter-approved property tax levies. 👍1  
 * 👍💵 Candice Bock
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍1  
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍2  
+* 👍💵 Carl Schroeder
 * 👍💵 Carl Schroeder
 
 ## [HB 2066](/bill/2023-24/hb/2066/) - Health provider contracting 👍1  
@@ -291,7 +292,8 @@
 ## [HB 2105](/bill/2023-24/hb/2105/) - Instream resources   ❓1
 * ❓💵 Carl Schroeder
 
-## [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element  👎1 
+## [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element  👎2 
+* 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 
 ## [HB 2127](/bill/2023-24/hb/2127/) - Incentives to return to work 👍1  
@@ -302,7 +304,7 @@
 ## [HB 2152](/bill/2023-24/hb/2152/) - Criminal insanity terms   ❓1
 * ❓💵 Lindsey Hueer
 
-## [HB 2153](/bill/2023-24/hb/2153/) - Catalytic converter theft 👍1  
+## [HB 2153](/bill/2023-24/hb/2153/) - Catalytic converter theft 👍2  
 
 ## [HB 2158](/bill/2023-24/hb/2158/) - Urban growth area boundaries  👎1 
 
@@ -690,7 +692,7 @@
 ## [SB 6171](/bill/2023-24/sb/6171/) - Child care/nonstandard hours   ❓1
 * ❓💵 Lindsey Hueer
 
-## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍1  
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍2  
 
 ## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management   ❓1
 * ❓💵 Carl Schroeder

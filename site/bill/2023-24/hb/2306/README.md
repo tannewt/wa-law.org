@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31809&aId=158125&caId=23718&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31809&aId=158125&caId=23718&tId=4)
 
-#### 15 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Chris Moore - [Washington Trust for Historic Preservation](/org/washington_trust_for_historic_preservation/)
 * Erin McCardle - [City of Chelan](/org/city_of_chelan/)

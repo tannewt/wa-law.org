@@ -40,6 +40,8 @@
 
 ## [SB 5650](/bill/2023-24/sb/5650/) - K-12 inflationary increases 👍2  
 
+## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍2  
+
 ## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍8  
 
 ## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍9  

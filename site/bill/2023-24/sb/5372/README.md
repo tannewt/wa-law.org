@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 05/02/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Legislature unanimously passes Nooksack adjudication bill | Cascadia Daily News](https://www.cascadiadaily.com/2023/may/02/legislature-unanimously-passes-nooksack-adjudication-bill/#:~:text=Senate%20Bill%205372)
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [Legislative Priorities | WA - DNR](https://www.dnr.wa.gov/about/legislative#:~:text=SB%205372)
 
 ## Meetings

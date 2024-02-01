@@ -5,8 +5,11 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/30/2024 [The Seattle Times](/org/the_seattle_times/) - [Proposed bill would provide benefits for survivors of ride-share drivers killed on the job | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/proposed-bill-would-provide-benefits-for-survivors-of-ride-share-drivers-killed-on-the-job/#:~:text=HB%202382)
+* 01/28/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/28/the-house-hot-sheet-for-week-4-of-the-2024-legislative-session/#:~:text=HB%202382)
 * 01/23/2024 [KING5](/org/king5/) - [Proposed bill expands death benefits for families of slain rideshare drivers | king5.com](https://www.king5.com/article/news/local/proposed-bill-expands-death-benefits-families-slain-rideshare-drivers/281-0b744664-84fa-4804-a56d-f8aba3d9b006#:~:text=House%20Bill%202382)
 
 ## Meetings

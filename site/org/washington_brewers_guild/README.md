@@ -8,7 +8,10 @@
 ## [HB 1375](/bill/2023-24/hb/1375/) - Delivery of alcohol 👍1  
 * 👍💵 Daniel Olson
 
-## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg.   ❓1
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management  👎1 
+
+## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg.   ❓2
+* ❓💵 Daniel Olson
 * ❓💵 Daniel Olson
 
 ## [HB 2196](/bill/2023-24/hb/2196/) - Alcohol concentration/DUI  👎2 

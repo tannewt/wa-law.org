@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/30/2024 [House Democrats](/org/house_democrats/) - [Protecting Our Environment, One Cubic Yard at a Time  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/30/protecting-our-environment-one-cubic-yard-at-a-time/#:~:text=House%20Bill%202207)
 * 01/24/2024 [KING5](/org/king5/) - [WA bill proposed to deter illegal dumping | king5.com](https://www.king5.com/article/news/politics/state-politics/washington-bill-proposed-deter-illegal-dumping/281-f9d29f27-265b-4314-bd3b-0e143d299a1f#:~:text=House%20Bill%202207)
 * 01/23/2024 [KUOW](/org/kuow/) - [KUOW - Washington bill creates civil fines, could reduce illegal dumping](https://www.kuow.org/stories/washington-bill-creates-civil-fines-could-reduce-illegal-dumping#:~:text=H.B.%202207)
 * 01/22/2024 [NW News Network](/org/nw_news_network/) - [Washington bill creates civil fines, could reduce illegal dumping | Northwest News Network](https://www.nwnewsnetwork.org/environment-and-planning/2024-01-22/washington-bill-illegal-dumping-waste-trash-fines#:~:text=H.B.%202207)

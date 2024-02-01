@@ -148,7 +148,7 @@ Testifying:
 * Hollianne Monson - Catholic Community Services- Volunteer Services
 * Tom Carroll - Catholic Charities of Eastern Washington- Volunteer Services
 * 💵Susan Barbeau - First 5 FUNdamentals
-* Shawn Latham - Allies in Advocacy
+* 💵Shawn Latham - Allies in Advocacy
 * Jessica Renner - Self Advocates in Leadership (SAIL)
 * 💵Anna Nepomuceno - NAMI Washington
 * Sonya Shine
@@ -400,7 +400,7 @@ Testifying:
 * 💵Megan Veith - [Building Changes](/org/building_changes/)
 * Deborah Essman
 * Martha Wyckoff
-* Shawn Latham - Allies in Advocacy
+* 💵Shawn Latham - Allies in Advocacy
 * 💵Christina Wong - Northwest Harvest
 * Lisa Striedinger - Friends without homes
 * LISA STRIEDINGER - Friends without homes

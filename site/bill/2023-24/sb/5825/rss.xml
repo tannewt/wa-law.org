@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5825/</link>
 		<description>Updates about SB 5825</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 30 Jan 2024 01:14:15 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2024 03:34:41 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,7 +30,7 @@
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Law &amp; Justice.</guid>
 		</item>
 		<item>
-			<title>👍Robert Nettleton - Administrative Office of the Courts</title>
+			<title>👍Robert Nettleton - self adovates</title>
 			<description>Robert Nettleton signed up to testify Pro.</description>
 			<pubDate>Mon, 08 Jan 2024 02:07:00 GMT</pubDate>
 			<category>testifier</category>
@@ -100,7 +100,7 @@
 			<guid isPermaLink="false">2024-01-22/Referred to Ways &amp; Means.</guid>
 		</item>
 		<item>
-			<title>👎Michael Brunson - Administrative Office of the Courts</title>
+			<title>👎Michael Brunson - self adovates</title>
 			<description>Michael Brunson signed up to testify Con.</description>
 			<pubDate>Mon, 29 Jan 2024 12:56:54 GMT</pubDate>
 			<category>testifier</category>
@@ -114,6 +114,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Christopher/Stanley/2024-01-30 01:14:15</guid>
+		</item>
+		<item>
+			<title>👍robert m wardell - self adovates</title>
+			<description>robert m wardell signed up to testify Pro. They are signed up to represent self adovates.</description>
+			<pubDate>Wed, 31 Jan 2024 03:34:41 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/robert m/wardell/2024-01-31 03:34:41</guid>
 		</item>
 	</channel>
 </rss>

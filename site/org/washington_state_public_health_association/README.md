@@ -56,7 +56,7 @@
 
 ## [HB 1873](/bill/2023-24/hb/1873/) - Concerning office of public defense social service workers for parents in child welfare cases. 👍1  
 
-## [HB 1877](/bill/2023-24/hb/1877/) - Improving the Washington state behavioral health system for better coordination and recognition with the Indian behavioral health system. 👍1  
+## [HB 1877](/bill/2023-24/hb/1877/) - Behavioral health/tribes 👍1  
 
 ## [HB 1902](/bill/2023-24/hb/1902/) - Firearms/purchase & transfer 👍1  
 
@@ -69,6 +69,8 @@
 ## [HB 2021](/bill/2023-24/hb/2021/) - Firearm disposition 👍1  
 
 ## [HB 2054](/bill/2023-24/hb/2054/) - Concerning bulk purchases and transfers of firearms. 👍1  
+
+## [HB 2073](/bill/2023-24/hb/2073/) - Greenhouse gas other sources 👍1  
 
 ## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention 👍1  
 

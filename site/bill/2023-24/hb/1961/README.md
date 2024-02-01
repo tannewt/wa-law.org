@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/30/2024 [MyNorthwest](/org/mynorthwest/) - [Bill toughening animal abuse punishments passes Washington House - MyNorthwest.com](https://mynorthwest.com/3948447/bill-toughening-animal-abuse-punishments-passes-washington-house/#:~:text=House%20Bill%201961)
+
 ## Meetings
 ### Mon 01/08 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1961 Animal cruelty/seriousness
 #### 191 👍 - Pro

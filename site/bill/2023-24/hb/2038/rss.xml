@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 2038 - Collecting data on student transfers and withdrawals from public schools and school districts.</title>
+		<title>HB 2038 - Public school transfer data</title>
 		<link>https://wa-law.org/bill/2023-24/hb/2038/</link>
 		<description>Updates about HB 2038</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 11 Jan 2024 12:32:34 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 30 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -130,6 +130,20 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/James/Brown/2024-01-11 12:32:34</guid>
+		</item>
+		<item>
+			<title>2024 Legislative Session: Policy Cutoff Approaches - WSPTA</title>
+			<description>News article &quot;2024 Legislative Session: Policy Cutoff Approaches - WSPTA&quot; from Washington St Pta.</description>
+			<pubDate>Mon, 29 Jan 2024 16:53:14 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=HB%202038</guid>
+		</item>
+		<item>
+			<title>ED - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>ED - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-30/ED - Majority; 1st substitute bill be substituted, do pass.</guid>
 		</item>
 	</channel>
 </rss>

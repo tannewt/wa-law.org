@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/31/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Current Status of Priority Bills — Quaker Voice](https://www.quakervoicewa.org/2024-current-status-of-priority-bills/#:~:text=SJM%208006)
+
 ## Meetings
 ### Fri 03/24 08:00 AM - Health Care & Wellness (HCW): SJM 8006 Universal health care
 #### 584 👍 - Pro

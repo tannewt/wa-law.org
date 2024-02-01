@@ -388,8 +388,9 @@
 
 ## [HB 1895](/bill/2023-24/hb/1895/) - Modifying the working families' tax credit by clarifying the refundable nature of the credit, the application requirements, and the eligibility verification process. 👍1  
 
-## [HB 1897](/bill/2023-24/hb/1897/) - Charter schools/enrichment  👎1 
+## [HB 1897](/bill/2023-24/hb/1897/) - Charter schools/enrichment  👎2 
 * 👎💵 Julie Salvi
+* 👎 Shawna Moore
 
 ## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍3  
 
@@ -439,7 +440,7 @@
 ## [HB 2037](/bill/2023-24/hb/2037/) - Holocaust and genocide edu. 👍1  
 * 👍💵 Simone Boe
 
-## [HB 2038](/bill/2023-24/hb/2038/) - Collecting data on student transfers and withdrawals from public schools and school districts.   ❓1
+## [HB 2038](/bill/2023-24/hb/2038/) - Public school transfer data   ❓1
 * ❓💵 Nasue Nishida
 
 ## [HB 2053](/bill/2023-24/hb/2053/) - Establishing the ninth grade success grant program. 👍1  
@@ -867,7 +868,8 @@
 
 ## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose/high schools 👍1  
 
-## [SB 5809](/bill/2023-24/sb/5809/) - Charter schools/enrichment  👎1 
+## [SB 5809](/bill/2023-24/sb/5809/) - Charter schools/enrichment  👎2 
+* 👎💵 Julie Salvi
 * 👎💵 Julie Salvi
 
 ## [SB 5811](/bill/2023-24/sb/5811/) - Expanding the definition of family member for individual providers. 👍1  
@@ -893,17 +895,19 @@
 
 ## [SB 5850](/bill/2023-24/sb/5850/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍2  
 
-## [SB 5851](/bill/2023-24/sb/5851/) - Holocaust and genocide edu. 👍1  
+## [SB 5851](/bill/2023-24/sb/5851/) - Holocaust and genocide edu. 👍2  
+* 👍💵 Simone Boe
 * 👍💵 Simone Boe
 
-## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍1  
+## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍2  
 
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
 
 ## [SB 5873](/bill/2023-24/sb/5873/) - Student transportation 👍2  
 * 👍💵 Julie Salvi
 
-## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍1  
+## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍3  
+* 👍💵 Julie Salvi
 * 👍💵 Julie Salvi
 
 ## [SB 5894](/bill/2023-24/sb/5894/) - Equal pay/protected classes 👍1  
@@ -934,7 +938,7 @@
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
 * 👍💵 Larry Delaney
 
-## [SB 5953](/bill/2023-24/sb/5953/) - Incarcerated student grants 👍1  
+## [SB 5953](/bill/2023-24/sb/5953/) - Incarcerated student grants 👍2  
 
 ## [SB 5956](/bill/2023-24/sb/5956/) - Enrichment levies limit 👍1  
 * 👍💵 Julie Salvi
@@ -944,7 +948,7 @@
 ## [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation 👍1  
 * 👍 Jared Mason-Gere
 
-## [SB 5969](/bill/2023-24/sb/5969/) - Adjusting school districts' authority to contract indebtedness for school construction. 👍1  
+## [SB 5969](/bill/2023-24/sb/5969/) - School construction debt 👍1  
 
 ## [SB 5978](/bill/2023-24/sb/5978/) - Authorizing the office of the superintendent of public instruction to act as a guarantor for a county when the county provides a loan to a school district. 👍1  
 

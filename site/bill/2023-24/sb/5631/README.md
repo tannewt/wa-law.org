@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Wed 01/31 01:30 PM - State Government & Tribal Relations (SGOV): SB 5631 DACA/state agency acceptance
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31835&aId=157871&caId=23733&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31835&aId=157871&caId=23733&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31835&aId=157871&caId=23733&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31835&aId=157871&caId=23733&tId=4)
-
-#### 8 👍 - Pro
+#### 10 👍 - Pro
 
 #### 4 👎 - Con
 Testifying:

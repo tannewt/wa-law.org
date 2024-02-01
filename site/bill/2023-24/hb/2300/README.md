@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/29/2024 [The Center Square](/org/the_center_square/) - [Lawmaker blames state agency for no hearing on his child care provider bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_e378a816-bee0-11ee-bfa5-4f3bb0944f8e.html#:~:text=House%20Bill%202300)
+
 ## Meetings

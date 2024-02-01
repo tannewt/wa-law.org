@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/30/2024 [MyNorthwest](/org/mynorthwest/) - [Bill toughening animal abuse punishments passes Washington House - MyNorthwest.com](https://mynorthwest.com/3948447/bill-toughening-animal-abuse-punishments-passes-washington-house/#:~:text=Senate%20Bill%206214)
+
 ## Meetings

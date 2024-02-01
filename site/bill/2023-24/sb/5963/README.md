@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/30/2024 [MyNorthwest](/org/mynorthwest/) - [Should you be required to have liability insurance if you own a gun? - MyNorthwest.com](https://mynorthwest.com/3948515/should-you-be-required-to-have-liability-insurance-if-you-own-a-gun/#:~:text=Senate%20Bill%205963)
+* 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=SB%205963)
+
 ## Meetings
 ### Mon 01/29 10:30 AM - Law & Justice (LAW): SB 5963 Deadly weapons insurance
 #### 786 👍 - Pro

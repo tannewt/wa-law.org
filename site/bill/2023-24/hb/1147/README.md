@@ -234,7 +234,7 @@ Testifying:
 Testifying:
 * john Worthington
 * Jessica Renner - Self Advocates in Leadership (SAIL)
-* Shawn Latham - Allies in Advocacy
+* 💵Shawn Latham - Allies in Advocacy
 * Chris Maykut - Friends Of Bumping Lake
 * David Ortman - ALPS; FOBL; LCBAS; MidFORC; NCCC; SLK; WW
 

@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 2052 - Increasing the availability of baby diaper changing stations.</title>
+		<title>HB 2052 - Diaper changing stations</title>
 		<link>https://wa-law.org/bill/2023-24/hb/2052/</link>
 		<description>Updates about HB 2052</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 06:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -67,6 +67,13 @@
 			<pubDate>Mon, 22 Jan 2024 06:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.seattletimes.com/seattle-news/politics/wa-could-require-diaper-changing-stations-for-both-moms-and-dads/#:~:text=House%20Bill%202052</guid>
+		</item>
+		<item>
+			<title>LG - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>LG - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-31/LG - Majority; 1st substitute bill be substituted, do pass.</guid>
 		</item>
 	</channel>
 </rss>

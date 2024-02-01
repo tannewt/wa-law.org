@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Second Engrossed Substitute](S.E2/)
 
 ## Meetings
 ### Tue 03/21 01:30 PM - State Government & Elections (SGE): ESHB 1362 Reports

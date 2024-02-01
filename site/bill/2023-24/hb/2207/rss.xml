@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2207/</link>
 		<description>Updates about HB 2207</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 24 Jan 2024 10:15:19 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 30 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -91,6 +91,20 @@
 			<pubDate>Wed, 24 Jan 2024 10:15:19 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.king5.com/article/news/politics/state-politics/washington-bill-proposed-deter-illegal-dumping/281-f9d29f27-265b-4314-bd3b-0e143d299a1f#:~:text=House%20Bill%202207</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-30/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Protecting Our Environment, One Cubic Yard at a Time  – Washington State House Democrats</title>
+			<description>News article &quot;Protecting Our Environment, One Cubic Yard at a Time  – Washington State House Democrats&quot; from House Democrats.</description>
+			<pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/01/30/protecting-our-environment-one-cubic-yard-at-a-time/#:~:text=House%20Bill%202207</guid>
 		</item>
 	</channel>
 </rss>

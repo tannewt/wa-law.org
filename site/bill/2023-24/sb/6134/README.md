@@ -11,6 +11,19 @@
 * 01/25/2024 [PubliCola](/org/publicola/) - [KCRHA Plans More Focused Homelessness Count, Council President Supports Bills That Would Make It Easier To Take Away Drug Users' Kids - PubliCola](https://publicola.com/2024/01/25/kcrha-plans-more-focused-homelessness-count-council-president-supports-bills-that-would-make-it-easier-to-take-away-drug-users-kids/#:~:text=SB%206134)
 
 ## Meetings
+### Sat 02/03 09:00 AM - Ways & Means (WM): SSB 6134 Opioid use
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158540&caId=23829&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158540&caId=23829&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158540&caId=23829&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158540&caId=23829&tId=4)
+
+#### 2 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/19 08:00 AM - Health & Long Term Care (HLTC): SB 6134 Opioid use
 #### 104 👍 - Pro
 Testifying:

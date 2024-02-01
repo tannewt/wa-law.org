@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2368/</link>
 		<description>Updates about HB 2368</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 24 Jan 2024 12:22:08 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -78,6 +78,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Sandra/Rodarte/2024-01-24 12:22:08</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-31/Minority; do not pass.</guid>
 		</item>
 	</channel>
 </rss>

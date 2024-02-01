@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=House%20Bill%202218)
+
 ## Meetings
 ### Tue 01/16 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2218 Extended foster care
 #### 139 👍 - Pro

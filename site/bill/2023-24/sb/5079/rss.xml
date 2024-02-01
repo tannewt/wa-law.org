@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5079/</link>
 		<description>Updates about SB 5079</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 30 Mar 2023 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Apr 2023 05:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -155,6 +155,13 @@
 			<pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-30/Effective date 7/23/2023.</guid>
+		</item>
+		<item>
+			<title>Legislature passes several bills to support higher education | Cascadia Daily News</title>
+			<description>News article &quot;Legislature passes several bills to support higher education | Cascadia Daily News&quot; from Cascadia Daily News.</description>
+			<pubDate>Mon, 17 Apr 2023 05:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadiadaily.com/2023/apr/17/legislature-passes-several-bills-to-support-higher-education/#:~:text=Senate%20Bill%205079</guid>
 		</item>
 	</channel>
 </rss>

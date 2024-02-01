@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=Senate%20Bill%206127)
+
 ## Meetings
 ### Thu 01/18 10:30 AM - Health & Long Term Care (HLTC): SB 6127 HIV prophylaxis
 #### 88 👍 - Pro

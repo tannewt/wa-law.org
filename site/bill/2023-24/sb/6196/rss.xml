@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6196/</link>
 		<description>Updates about SB 6196</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 30 Jan 2024 09:22:20 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2024 00:02:30 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -69,6 +69,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Jeannette/Mcchesney/2024-01-28 08:28:43</guid>
+		</item>
+		<item>
+			<title>This Week in the Senate - Week 4: Public safety, free school lunches and a major cutoff arrives - Washington Senate Democrats</title>
+			<description>News article &quot;This Week in the Senate - Week 4: Public safety, free school lunches and a major cutoff arrives - Washington Senate Democrats&quot; from Senate Democrats.</description>
+			<pubDate>Sun, 28 Jan 2024 20:58:42 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2024/01/28/this-week-in-the-senate-week-4-public-safety-free-school-lunches-and-a-major-cutoff-arrives/#:~:text=Senate%20Bill%206196</guid>
 		</item>
 		<item>
 			<title>👍Alexa Mason - Washington Chapter of the American Academy of Pediatrics</title>
@@ -205,6 +212,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Kim/Slinger/2024-01-30 09:22:20</guid>
+		</item>
+		<item>
+			<title>2024 Current Status of Priority Bills — Quaker Voice</title>
+			<description>News article &quot;2024 Current Status of Priority Bills — Quaker Voice&quot; from Quaker Voice On Washington Public Policy.</description>
+			<pubDate>Wed, 31 Jan 2024 00:02:30 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.quakervoicewa.org/2024-current-status-of-priority-bills/#:~:text=SB%206196</guid>
 		</item>
 	</channel>
 </rss>

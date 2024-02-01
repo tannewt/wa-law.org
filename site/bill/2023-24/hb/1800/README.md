@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/25/2024 [FOX13](/org/fox13/) - [Washington lawmakers discuss new bill that would increase consequences for graffiti, tagging](https://www.fox13seattle.com/news/washington-lawmakers-discuss-new-bill-that-would-increase-consequences-for-graffiti-tagging#:~:text=House%20Bill%201800)

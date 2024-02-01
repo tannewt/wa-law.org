@@ -24,7 +24,7 @@
 ## [HB 2351](/bill/2023-24/hb/2351/) - Essential worker health care 👍1  
 * 👍 Carma Matti-Jackson
 
-## [HB 2467](/bill/2023-24/hb/2467/) - Increasing access to the long-term services and supports trust. 👍1  
+## [HB 2467](/bill/2023-24/hb/2467/) - LTSS trust access 👍1  
 * 👍 Lauri St. Ours
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  ❓1

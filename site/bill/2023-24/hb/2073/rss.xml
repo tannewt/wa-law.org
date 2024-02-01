@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2073/</link>
 		<description>Updates about HB 2073</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 30 Jan 2024 11:53:18 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2024 12:50:28 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -195,7 +195,7 @@
 			<guid isPermaLink="false">testifier/Adam/Lough/2024-01-29 06:48:56</guid>
 		</item>
 		<item>
-			<title>👎Jeannette Mcchesney - Washington Physicians for Social Responsibility</title>
+			<title>👎Jeannette Mcchesney - Washington State Society of Anesthesiologists</title>
 			<description>Jeannette Mcchesney signed up to testify Con.</description>
 			<pubDate>Tue, 30 Jan 2024 01:53:35 GMT</pubDate>
 			<category>testifier</category>
@@ -225,6 +225,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Annemarie/Dooley/2024-01-30 11:53:18</guid>
+		</item>
+		<item>
+			<title>👎James Ware - Washington State Society of Anesthesiologists</title>
+			<description>James Ware signed up to testify Con.</description>
+			<pubDate>Wed, 31 Jan 2024 05:38:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/James/Ware/2024-01-31 05:38:13</guid>
+		</item>
+		<item>
+			<title>👍💵Amy Brackenbury - Washington State Society of Anesthesiologists</title>
+			<description>Amy Brackenbury signed up to testify Pro. They are signed up to represent Washington State Society of Anesthesiologists. They are a registered lobbyist.</description>
+			<pubDate>Wed, 31 Jan 2024 12:50:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Amy/Brackenbury/2024-01-31 12:50:28</guid>
 		</item>
 	</channel>
 </rss>

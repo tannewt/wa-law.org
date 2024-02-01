@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 01/22 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 2287 Corrections ombuds adv board

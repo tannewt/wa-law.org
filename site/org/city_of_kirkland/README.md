@@ -75,11 +75,13 @@
 
 ## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍1  
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍2  
 
 ## [HB 1933](/bill/2023-24/hb/1933/) - Supporting the servicing and right to repair of certain products with digital electronics in a secure and reliable manner. 👍1  
 
 ## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍1  
+
+## [HB 1952](/bill/2023-24/hb/1952/) - Concerning long-term community recovery after disasters. 👍1  
 
 ## [HB 2003](/bill/2023-24/hb/2003/) - Housing/public lands leases 👍1  
 
@@ -91,15 +93,17 @@
 
 ## [HB 2044](/bill/2023-24/hb/2044/) - Standardizing limitations on voter-approved property tax levies. 👍1  
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍1  
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍2  
 
 ## [HB 2051](/bill/2023-24/hb/2051/) - Reducing emissions from small off-road engines. 👍1  
 
 ## [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element 👍1  
 
-## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg. 👍1  
+## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg. 👍2  
 
 ## [HB 2211](/bill/2023-24/hb/2211/) - Criminal justice local tax 👍1  
+
+## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍1  
 
 ## [HB 2308](/bill/2023-24/hb/2308/) - Existing structures/housing 👍1  
 
@@ -122,7 +126,7 @@
 
 ## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍3  
 
-## [SB 5118](/bill/2023-24/sb/5118/) - Multifamily property tax ex. 👍2  
+## [SB 5118](/bill/2023-24/sb/5118/) - Multifamily property tax ex. 👍3  
 
 ## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍1  
 
@@ -176,7 +180,7 @@
 
 ## [SB 5823](/bill/2023-24/sb/5823/) - School district elections 👍1  
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
 
 ## [SB 5897](/bill/2023-24/sb/5897/) - Modifying provisions of the business licensing service program. 👍1  
 
@@ -186,19 +190,23 @@
 
 ## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  
 
-## [SB 5972](/bill/2023-24/sb/5972/) - Neonicotinoid pesticides 👍1  
+## [SB 5967](/bill/2023-24/sb/5967/) - Housing/public lands leases 👍1  
+
+## [SB 5972](/bill/2023-24/sb/5972/) - Neonicotinoid pesticides 👍2  
 
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
 
-## [SB 6013](/bill/2023-24/sb/6013/) - Homeownership dev. tax ex. 👍2  
+## [SB 6013](/bill/2023-24/sb/6013/) - Homeownership dev. tax ex. 👍3  
 
 ## [SB 6030](/bill/2023-24/sb/6030/) - ADU tax exemptions 👍1  
 
-## [SB 6076](/bill/2023-24/sb/6076/) - Criminal justice local tax 👍1  
+## [SB 6076](/bill/2023-24/sb/6076/) - Criminal justice local tax 👍2  
 
 ## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍1  
+
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍1  
 
 ## [SB 6230](/bill/2023-24/sb/6230/) - Tax increment areas  👎1 
 * 👎 Michael Olson
 
-## [SB 6285](/bill/2023-24/sb/6285/) - Use of impact fees  👎1 
+## [SB 6285](/bill/2023-24/sb/6285/) - Use of impact fees  👎2 

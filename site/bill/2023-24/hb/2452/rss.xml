@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2452/</link>
 		<description>Updates about HB 2452</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 29 Jan 2024 11:40:56 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 30 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -53,6 +53,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Derrick/Rock/2024-01-29 11:40:56</guid>
+		</item>
+		<item>
+			<title>HOUS - Majority; do pass.</title>
+			<description>HOUS - Majority; do pass.</description>
+			<pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-30/HOUS - Majority; do pass.</guid>
 		</item>
 	</channel>
 </rss>

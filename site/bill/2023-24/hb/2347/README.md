@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/23 01:30 PM - Health Care & Wellness (HCW): HB 2347 Adult family home info.

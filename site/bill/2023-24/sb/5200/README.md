@@ -119,7 +119,7 @@ Testifying:
 * Adrienne Mason - Children's Home Society of Washington
 * Jessica Renner - Self Advocates in Leadership (SAIL)
 * Amy King - Weld Seattle
-* Shawn Latham - Allies in Advocacy
+* 💵Shawn Latham - Allies in Advocacy
 * Tracy Turner - Self Advocate
 * Katie Nash - Self Advocate
 * 💵Diana Stadden - The Arc of WA State
@@ -250,7 +250,7 @@ Testifying:
 #### 10 ❓ - Other
 Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
-* Shawn Latham - Allies in Advocacy
+* 💵Shawn Latham - Allies in Advocacy
 * Peter Shapiro
 * kimberly Ellefson
 * Amanda DeShazo - Tacoma-Pierce County Affordable Housing Consortium

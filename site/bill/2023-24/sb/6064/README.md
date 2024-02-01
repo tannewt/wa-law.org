@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/30/2024 [MyNorthwest](/org/mynorthwest/) - [Rantz: Washington Democrats' bill will ban rentals to pet owners or raise rents - MyNorthwest.com](https://mynorthwest.com/3948397/rantz-washington-democrats-bill-will-ban-rentals-pet-owners-raise-rents/#:~:text=Senate%20Bill%206064)
 * 01/22/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 3: Criminal justice reform, education, tax cuts for housing - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/21/this-week-in-the-senate-week-3-criminal-justice-reform-education-tax-cuts-for-housing/#:~:text=Senate%20Bill%206064)
 
 ## Meetings

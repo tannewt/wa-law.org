@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/31/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Current Status of Priority Bills — Quaker Voice](https://www.quakervoicewa.org/2024-current-status-of-priority-bills/#:~:text=HB%202049)
 * 01/24/2024 [The Center Square](/org/the_center_square/) - [Trash talk: Legislation intends to boost Washington state’s recycling rate | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_2967b294-baff-11ee-a57a-9357d74e4990.html#:~:text=House%20Bill%202049)
 * 01/20/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Quaker Voice Priorities — Quaker Voice](https://www.quakervoicewa.org/2024-quaker-voice-priorities/#:~:text=HB%202049)
 * 01/08/2024 [The Seattle Times](/org/the_seattle_times/) - [From a state clam to car tab discounts, lawmakers’ agenda takes shape | The Seattle Times](https://www.seattletimes.com/seattle-news/environment/from-a-state-clam-to-car-tab-discounts-lawmakers-agenda-takes-shape/#:~:text=House%20Bill%202049)
@@ -22,16 +23,74 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158360&caId=23767&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158360&caId=23767&tId=4)
 
-#### 433 👍 - Pro
+#### 865 👍 - Pro
 Testifying:
 * Kate Bailey - The Association of Plastic Recyclers (APR)
+* Gloria McClintock
+* Brent Paul
+* Cornelia Teed - - None -
+* Peggy Butler
+* Dylan de Thomas - The Recycling Partnership
+* Sophia Keller
+* 💵Andrew Hackman - AMERIPEN
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Matthew Hepner - [Certified Electrical Workers of Washington](/org/certified_electrical_workers_of_washington/)
+* Peter Steelquist - Surfrider Foundation
+* Barbara0 Gohl
+* Jim Byrne - None
+* Celeste Maris
+* Alora McGavin
+* Lon Dickerson
+* candace smith
+* Melissa Roberts
+* Cheryl Biale
+* Anne Kroeker - Washington Conservation Action member
+* Joe Wiederhold
+* Bjorn Lunde
+* Gwen Vernon
+* Kristi Skanderup
+* Anne Dickerson
+* Caroline Sévilla
+* Shirlee Evans - Methow Recycles Board Member
+* Linda Cohan
+* Desiree Nagyfy
+* David Randall
+* Katherine Hansen
+* Bill Arthur - Not Employed
+* sidonie wittman
+* John Garner
+* Janet McDermott
+* Natalie Valentine
+* Amy Hyland
+* Debbie McDonald
+* Jennifer Horner
+* Natalie Franz
+* Aspen Kvicala
+* Whitney Stohr
+* Deborah Hodack
+* Amber Coffman
+* Heather Millar
 
-#### 8 👎 - Con
+#### 26 👎 - Con
+Testifying:
+* Wendy Weiker - [Republic Services](/org/republic_services/)
+* Mark Lanter - Yakima Waste 2195 Waste Connections
+* 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
+* 💵Brad Boswell - [Washington Beverage Association](/org/washington_beverage_association/)
+* 💵Bill Stauffacher - [American Forest & Paper Association](/org/american_forest_&_paper_association/)
+* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Jay Balasbas - Sunshine Disposal and Recycling, Basin Disposal
+* 💵Lyset Cadena - WM
+* 💵Vicki Christophersen - Washington Refuse and Recycling Association
 
-#### 2 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Scott DeFife - Glass Packaging Institute
 * 💵Jacob Cassady - Association of Home Appliance Manufacturers (AHAM)
+* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Holly Chisa - Consumer Brands Assn
+* 💵Katie Beeson - Washington Food Industry Association
+* 💵Christopher Finarelli - The Household & Commercial Products Association
 
 ### Tue 01/09 04:00 PM - Environment & Energy (ENVI): HB 2049 Solid waste management
 #### 789 👍 - Pro

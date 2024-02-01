@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 2076 - Addressing crimes involving human trafficking or sexual exploitation.</title>
+		<title>HB 2076 - Human trafficking crimes</title>
 		<link>https://wa-law.org/bill/2023-24/hb/2076/</link>
 		<description>Updates about HB 2076</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 29 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 30 Jan 2024 22:13:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -82,6 +82,20 @@
 			<pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-29/CSJR - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>CSJR - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>CSJR - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-29/CSJR - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>2024 LGBTQ Priorities - Washington Senate Democrats</title>
+			<description>News article &quot;2024 LGBTQ Priorities - Washington Senate Democrats&quot; from Senate Democrats.</description>
+			<pubDate>Tue, 30 Jan 2024 22:13:16 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=House%20Bill%202076</guid>
 		</item>
 	</channel>
 </rss>

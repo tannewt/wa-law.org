@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 01/25 08:00 AM - Housing (HOUS): HB 2389 Service of notice/tenants

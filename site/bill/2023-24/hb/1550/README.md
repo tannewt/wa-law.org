@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 05/02/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Legislature codifies 'Transition to Kindergarten' | Cascadia Daily News](https://www.cascadiadaily.com/2023/may/02/legislature-codifies-transition-to-kindergarten/#:~:text=House%20Bill%201550)
 * 04/24/2023 [Washington St Pta](/org/washington_st_pta/) - [Week 15 Report: Sine Die Edition - WSPTA](https://www.wastatepta.org/sine-die-edition/#:~:text=2SHB%201550)
 * 04/17/2023 [Washington St Pta](/org/washington_st_pta/) - [One Week Left in 68th Legislative Session - WSPTA](https://www.wastatepta.org/one-week-left-in-68th-legislative-session/#:~:text=2SHB%201550)
 * 04/10/2023 [Washington St Pta](/org/washington_st_pta/) - [Senate Passes Preventing Gun Violence Legislation in Week 13 Report - WSPTA](https://www.wastatepta.org/senate-passes-preventing-gun-violence-legislation-in-week-13-report/#:~:text=E2SHB%201550)

@@ -34,7 +34,7 @@
 
 ## [HB 1873](/bill/2023-24/hb/1873/) - Concerning office of public defense social service workers for parents in child welfare cases. 👍1  
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍7  
 
 ## [HB 2016](/bill/2023-24/hb/2016/) - Allowing certain minors to contract for housing and utilities.   ❓1
 * ❓ Charles Smith
@@ -57,7 +57,7 @@
 * 👍 Sam Martin
 * 👍 Charles Smith
 
-## [HB 2383](/bill/2023-24/hb/2383/) - Dependency outcome reporting 👍1  
+## [HB 2383](/bill/2023-24/hb/2383/) - Dependency outcome reporting 👍2  
 
 ## [HB 2447](/bill/2023-24/hb/2447/) - Children and families   ❓1
 
@@ -102,7 +102,7 @@
 
 ## [SB 6063](/bill/2023-24/sb/6063/) - Persistent offenders 👍1  
 
-## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍2  
+## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍4  
 
 ## [SB 6109](/bill/2023-24/sb/6109/) - Children and families  👎1 ❓1
 

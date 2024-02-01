@@ -21,9 +21,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158527&caId=23804&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158527&caId=23804&tId=4)
 
-#### 2 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Meera Badari
 
 #### 0 ❓ - Other
 

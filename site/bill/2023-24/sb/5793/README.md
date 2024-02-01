@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=Senate%20Bill%205793)
+
 ## Meetings
 ### Mon 01/15 10:30 AM - Labor & Commerce (LC): SB 5793 Paid sick leave
 #### 189 👍 - Pro

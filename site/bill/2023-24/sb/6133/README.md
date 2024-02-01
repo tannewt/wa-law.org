@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/30/2024 [KING5](/org/king5/) - [Pot shop robbery penalties would increase under bill proposal | king5.com](https://www.king5.com/article/news/crime/pot-shop-robbery-penalties-increase-proposed-bill/281-fd4d6cb9-36a8-4003-994c-bed52d5eebd0#:~:text=SB%206133)
+
 ## Meetings
 ### Mon 01/29 10:30 AM - Law & Justice (LAW): SB 6133 Cannabis retail robberies
 #### 45 👍 - Pro

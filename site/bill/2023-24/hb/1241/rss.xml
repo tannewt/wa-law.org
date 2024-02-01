@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1241/</link>
 		<description>Updates about HB 1241</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 30 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -160,6 +160,13 @@
 			<guid isPermaLink="false">testifier/Linda/Farmer/2024-01-28 09:36:37</guid>
 		</item>
 		<item>
+			<title>This Week in the Senate - Week 4: Public safety, free school lunches and a major cutoff arrives - Washington Senate Democrats</title>
+			<description>News article &quot;This Week in the Senate - Week 4: Public safety, free school lunches and a major cutoff arrives - Washington Senate Democrats&quot; from Senate Democrats.</description>
+			<pubDate>Sun, 28 Jan 2024 20:58:42 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2024/01/28/this-week-in-the-senate-week-4-public-safety-free-school-lunches-and-a-major-cutoff-arrives/#:~:text=House%20Bill%201241</guid>
+		</item>
+		<item>
 			<title>👎Julie Barrett - Conservative Ladies of Washington</title>
 			<description>Julie Barrett signed up to testify Con. They are signed up to represent Conservative Ladies of Washington.</description>
 			<pubDate>Mon, 29 Jan 2024 04:55:39 GMT</pubDate>
@@ -181,6 +188,20 @@
 			<pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-30/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Penalties for in-person harassment of election workers debated - MyNorthwest.com</title>
+			<description>News article &quot;Penalties for in-person harassment of election workers debated - MyNorthwest.com&quot; from MyNorthwest.</description>
+			<pubDate>Tue, 30 Jan 2024 07:42:45 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/3948469/senate-debating-stiffer-penalties-in-person-harassment-election-workers/#:~:text=Senate%20Bill%201241</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-31/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

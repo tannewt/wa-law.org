@@ -331,7 +331,7 @@
 
 ## [HB 1924](/bill/2023-24/hb/1924/) - Fusion technology policies 👍1  
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍2  
 
 ## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍1  
 
@@ -408,7 +408,7 @@
 ## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage   ❓1
 * ❓💵 Peter Godlewski
 
-## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍1  
+## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍2  
 
 ## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍1  
 

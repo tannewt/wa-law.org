@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/28/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/28/the-house-hot-sheet-for-week-4-of-the-2024-legislative-session/#:~:text=HB%202320)
 * 01/24/2024 [The Seattle Times](/org/the_seattle_times/) - [Don’t let efforts to regulate high-potency pot go up in smoke | The Seattle Times](https://www.seattletimes.com/opinion/editorials/dont-let-efforts-to-regulate-high-potency-pot-go-up-in-smoke/#:~:text=House%20Bill%202320)
 * 01/17/2024 [The Center Square](/org/the_center_square/) - [Not your father’s weed: Davis-Dent bill limits high-potency cannabis products | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_454a0874-b580-11ee-a130-639c8a443c5b.html#:~:text=House%20Bill%202320)
 

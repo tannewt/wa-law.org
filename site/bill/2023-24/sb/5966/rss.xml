@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5966/</link>
 		<description>Updates about SB 5966</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 11:22:27 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 29 Jan 2024 16:53:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -267,6 +267,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Robert/Maxwell/2024-01-22 11:22:27</guid>
+		</item>
+		<item>
+			<title>2024 Legislative Session: Policy Cutoff Approaches - WSPTA</title>
+			<description>News article &quot;2024 Legislative Session: Policy Cutoff Approaches - WSPTA&quot; from Washington St Pta.</description>
+			<pubDate>Mon, 29 Jan 2024 16:53:14 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=SB%205966</guid>
 		</item>
 	</channel>
 </rss>

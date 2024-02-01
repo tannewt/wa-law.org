@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1000/</link>
 		<description>Updates about HB 1000</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 30 Jan 2024 06:06:22 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -103,6 +103,13 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
+			<title>Fix the affordability crisis | Washington State House Republicans</title>
+			<description>News article &quot;Fix the affordability crisis | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Tue, 30 Jan 2024 06:06:22 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/current/fix-the-affordability-crisis/#:~:text=House%20Bill%201000</guid>
 		</item>
 	</channel>
 </rss>

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/29/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: House Passes Bill Proposing Accountability For Fuel Tax Evasion – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/29/legislative-news-washington-lawmakers-propose-accountability-for-fuel-tax-evasion/#:~:text=House%20Bill%201964)
+
 ## Meetings
 ### Mon 01/15 04:00 PM - Transportation (TR): HB 1964 Prorate & fuel tax collect.
 #### 4 👍 - Pro

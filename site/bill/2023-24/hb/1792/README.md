@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 05/02/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Legislature unanimously passes Nooksack adjudication bill | Cascadia Daily News](https://www.cascadiadaily.com/2023/may/02/legislature-unanimously-passes-nooksack-adjudication-bill/#:~:text=House%20Bill%201792)
+
 ## Meetings
 ### Thu 03/16 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): HB 1792 Water rights procedures
 #### 7 👍 - Pro

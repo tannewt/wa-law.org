@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2243/</link>
 		<description>Updates about HB 2243</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 20 Jan 2024 00:58:55 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -140,6 +140,13 @@
 			<pubDate>Sat, 20 Jan 2024 00:58:55 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.nwnewsnetwork.org/government-and-politics/2024-01-19/ai-guns-and-initiatives-highlights-from-week-2-of-washingtons-2024-legislative-session#:~:text=House%20Bill%202243</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-31/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

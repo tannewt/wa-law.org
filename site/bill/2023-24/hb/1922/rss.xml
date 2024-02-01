@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1922/</link>
 		<description>Updates about HB 1922</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 23 Jan 2024 11:32:19 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 30 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -59,6 +59,20 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Scott/Waller/2024-01-23 11:32:19</guid>
+		</item>
+		<item>
+			<title>2024 Legislative Session: Policy Cutoff Approaches - WSPTA</title>
+			<description>News article &quot;2024 Legislative Session: Policy Cutoff Approaches - WSPTA&quot; from Washington St Pta.</description>
+			<pubDate>Mon, 29 Jan 2024 16:53:14 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=HB%201922</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-30/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

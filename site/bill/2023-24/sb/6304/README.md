@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158141&caId=23688&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158141&caId=23688&tId=4)
 
-#### 137 👍 - Pro
+#### 218 👍 - Pro
 Testifying:
 * 💵Isaac Kastama - Clean & Prosperous Washington
 * 💵Paula Sardinas - WBBA (WA Build Back Black Alliance)
@@ -22,8 +22,13 @@ Testifying:
 * joset torres - apple valley honda
 * Mark Prentice
 * 💵Charlee Thompson - NW Energy Coalition
+* Mya Robinson - IBEW Local 46
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* Anthony Geren
+* Sim Guth
+* Croix Frigo - IBEW Local 46
 
-#### 458 👎 - Con
+#### 565 👎 - Con
 Testifying:
 * 💵Scott Hazlegrove - WA State Auto Dealers Association
 * John Goodwin
@@ -34,6 +39,8 @@ Testifying:
 * MICHAEL BANNAN - Sales Manager - I-5 Cars
 * Anthony Montemayor
 * BEN FLEMING
+* Jeff DeVere - Washington Trucking Associations
+* 💵Jennifer Ziegler - Les Schwab
 
 #### 3 ❓ - Other
 Testifying:

@@ -13,6 +13,7 @@
 ## 📰 Articles
 * 04/24/2023 [Washington St Pta](/org/washington_st_pta/) - [Week 15 Report: Sine Die Edition - WSPTA](https://www.wastatepta.org/sine-die-edition/#:~:text=ESHB%201436)
 * 04/22/2023 [House Democrats](/org/house_democrats/) - [Pollet Boosts Special Education Funding – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/22/pollet-boosts-special-education-funding/#:~:text=House%20Bill%201436)
+* 04/18/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Education bills will expand free meals, special ed funding | Cascadia Daily News](https://www.cascadiadaily.com/2023/apr/18/legislation-passes-bills-expanding-free-meals-special-ed-funding/#:~:text=House%20Bill%201436)
 * 04/17/2023 [Washington St Pta](/org/washington_st_pta/) - [One Week Left in 68th Legislative Session - WSPTA](https://www.wastatepta.org/one-week-left-in-68th-legislative-session/#:~:text=ESHB%201436)
 * 04/10/2023 [Washington St Pta](/org/washington_st_pta/) - [Senate Passes Preventing Gun Violence Legislation in Week 13 Report - WSPTA](https://www.wastatepta.org/senate-passes-preventing-gun-violence-legislation-in-week-13-report/#:~:text=ESHB%201436)
 * 03/27/2023 [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=ESHB%201436)

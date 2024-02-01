@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2024 [MyNorthwest](/org/mynorthwest/) - [Rantz: Democrats target effective tool to clear deadly homeless encampments - MyNorthwest.com](https://mynorthwest.com/3948017/rantz-democrats-target-tool-clear-deadly-homeless-encampments/#:~:text=Senate%20Bill%206231)
 * 01/25/2024 [MyNorthwest](/org/mynorthwest/) - [Senate bill aims to prohibit use of hostile architecture preventing homeless camps - MyNorthwest.com](https://mynorthwest.com/3947875/senate-bill-aims-prohibit-use-hostile-architecture-prevent-homeless-camps/#:~:text=Senate%20Bill%206231)
 * 01/22/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 3: Criminal justice reform, education, tax cuts for housing - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/21/this-week-in-the-senate-week-3-criminal-justice-reform-education-tax-cuts-for-housing/#:~:text=Senate%20Bill%206231)
 

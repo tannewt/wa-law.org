@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2178/</link>
 		<description>Updates about HB 2178</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 18 Jan 2024 14:15:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 30 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -162,6 +162,13 @@
 			<pubDate>Thu, 18 Jan 2024 14:15:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_5f2c7d66-b63a-11ee-9b97-4f32f22ef84e.html#:~:text=HB%202178</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-30/Minority; do not pass.</guid>
 		</item>
 	</channel>
 </rss>

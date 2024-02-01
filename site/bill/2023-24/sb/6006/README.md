@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=Senate%20Bill%206006)
 * 01/22/2024 [KIRO7](/org/kiro7/) - [New bill would improve human trafficking laws as Washington gets C grade – KIRO 7 News Seattle](https://www.kiro7.com/news/local/new-bill-would-improve-human-trafficking-laws-washington-gets-c-grade/P765H4NLHNGSNENZNIMIOUKKYU/#:~:text=SB%206006)
 
 ## Meetings
@@ -18,14 +19,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158162&caId=23694&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158162&caId=23694&tId=4)
 
-#### 115 👍 - Pro
+#### 132 👍 - Pro
 Testifying:
 * 💵Michael Lindsay - Eatonville
 * Georgia Miller
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Emi Koyama - Coalition for Rights & Safety for People in the Sex Trade
 
 ### Tue 01/16 10:30 AM - Law & Justice (LAW): SB 6006 Victims of human trafficking
 #### 28 👍 - Pro

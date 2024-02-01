@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/24 08:00 AM - Higher Education & Workforce Development (HEWD): SB 6221 UW primate research center

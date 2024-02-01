@@ -125,7 +125,7 @@ Testifying:
 * Steve DuPont - [Central Washington University](/org/central_washington_university/)
 * Laurie Lippold - Partners for Our Children
 * 💵Michele Thomas - Washington Low Income Housing Alliance
-* Shawn Latham
+* 💵Shawn Latham
 * 💵Alan Burke - WSSRA
 * 💵Anna Nepomuceno - NAMI WA
 * 💵Noah Seidel - Office of Developmental Disabilities Ombuds

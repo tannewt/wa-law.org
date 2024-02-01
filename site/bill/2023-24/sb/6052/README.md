@@ -5,12 +5,26 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/18/2024 [MyNorthwest](/org/mynorthwest/) - [Hearing on Inslee plan to compel oil firm transparency prompts accusations - MyNorthwest.com](https://mynorthwest.com/3946966/hearing-inslee-plan-compel-oil-company-price-transparency-gets-heated/#:~:text=Senate%20Bill%206052)
 * 01/14/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 2: MLK, education, gas price transparency - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/14/this-week-in-the-senate-week-2-mlk-education-gas-price-transparency/#:~:text=Senate%20Bill%206052)
 
 ## Meetings
+### Sat 02/03 09:00 AM - Ways & Means (WM): SSB 6052 Petroleum product supply
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158545&caId=23834&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158545&caId=23834&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158545&caId=23834&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158545&caId=23834&tId=4)
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/17 08:00 AM - Environment, Energy & Technology (ENET): SB 6052 Petroleum product supply
 #### 921 👍 - Pro
 Testifying:

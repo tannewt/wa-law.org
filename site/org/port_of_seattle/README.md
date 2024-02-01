@@ -21,7 +21,7 @@
 ## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍2  
 * 👍 Fred Felleman
 
-## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍1  
+## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍2  
 
 ## [HB 1906](/bill/2023-24/hb/1906/) - Vessel length/nonresident 👍1  
 
@@ -31,9 +31,9 @@
 
 ## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍1  
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍2  
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍3  
 
-## [HB 2076](/bill/2023-24/hb/2076/) - Addressing crimes involving human trafficking or sexual exploitation. 👍1  
+## [HB 2076](/bill/2023-24/hb/2076/) - Human trafficking crimes 👍1  
 
 ## [HB 2087](/bill/2023-24/hb/2087/) - Apprenticeship objections 👍1  
 
@@ -43,9 +43,9 @@
 ## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍3  
 * 👍💵 Trent House
 
-## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage 👍1  
+## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage 👍2  
 
-## [HB 2236](/bill/2023-24/hb/2236/) - Tech. ed. core plus programs 👍1  
+## [HB 2236](/bill/2023-24/hb/2236/) - Tech. ed. core plus programs 👍2  
 
 ## [HB 2286](/bill/2023-24/hb/2286/) - Salmon rec. capital grants 👍1  
 
@@ -85,7 +85,7 @@
 
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
 
-## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍1  
+## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍2  
 
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development 👍1  
 * 👍 John Flanagan
@@ -94,7 +94,7 @@
 
 ## [SB 6056](/bill/2023-24/sb/6056/) - Human trafficking/hotels 👍1  
 
-## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍1  
+## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍2  
 
 ## [SB 6080](/bill/2023-24/sb/6080/) - Tourism marketing funding 👍2  
 
@@ -119,5 +119,7 @@
 ## [SB 6243](/bill/2023-24/sb/6243/) - Technology manuf./B&O tax 👍1  
 
 ## [SB 6245](/bill/2023-24/sb/6245/) - Refugee & immigrant assist. 👍1  
+
+## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍1  
 
 ## [SJM 8009](/bill/2023-24/sjm/8009/) - Harbor maintenance tax 👍1  

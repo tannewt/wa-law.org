@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1964/</link>
 		<description>Updates about HB 1964</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 29 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -72,6 +72,20 @@
 			<pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-29/Third reading, passed; yeas, 92; nays, 4; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>LEGISLATIVE NEWS: House Passes Bill Proposing Accountability For Fuel Tax Evasion – Washington State House Democrats</title>
+			<description>News article &quot;LEGISLATIVE NEWS: House Passes Bill Proposing Accountability For Fuel Tax Evasion – Washington State House Democrats&quot; from House Democrats.</description>
+			<pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/01/29/legislative-news-washington-lawmakers-propose-accountability-for-fuel-tax-evasion/#:~:text=House%20Bill%201964</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Transportation.</title>
+			<description>First reading, referred to Transportation.</description>
+			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-31/First reading, referred to Transportation.</guid>
 		</item>
 	</channel>
 </rss>

@@ -65,7 +65,7 @@
 
 ## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍1  
 
-## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍1  
+## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍2  
 * 👍 Juliana Yenne
 
 ## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍1  
@@ -99,6 +99,8 @@
 ## [SB 5028](/bill/2023-24/sb/5028/) - Name changes 👍1  
 
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍3  
+
+## [SB 5118](/bill/2023-24/sb/5118/) - Multifamily property tax ex. 👍1  
 
 ## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍4  
 

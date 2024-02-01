@@ -17,10 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158012&caId=23705&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158012&caId=23705&tId=4)
 
-#### 8 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* 💵Chelsea Martin - [Modern Electric Water Company](/org/modern_electric_water_company/)
+* Steve Ghan
+* James Conca
 
-#### 4 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
+* Laura Feldman
 
-#### 0 ❓ - Other
+#### 36 ❓ - Other
+Testifying:
+* Dave Pringle - Dept. of Commerce
+* Cathryn Chudy

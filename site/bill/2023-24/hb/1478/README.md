@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 03/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=EHB%201478)
+* 03/09/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Rent cap bill dies, housing density lives on in Legislature | Cascadia Daily News](https://www.cascadiadaily.com/2023/mar/09/rent-cap-bill-dies-housing-density-lives-on-in-legislature/#:~:text=HB%201478)
 * 03/02/2023 [House Democrats](/org/house_democrats/) - [Timmons Sends Two Education Bills to the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/02/timmons-sends-two-education-bills-to-the-senate/#:~:text=HB%201478)
 * 02/06/2023 [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=HB%201478)
 * 01/30/2023 [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=HB%201478)

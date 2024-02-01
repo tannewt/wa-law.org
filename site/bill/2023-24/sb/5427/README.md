@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=Senate%20Bill%205427)
 * 11/20/2023 [Senate Democrats](/org/senate_democrats/) - [Washington State Senate Members of Color Caucus Stands Against Hate, Advocates for Unity and Action - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/11/20/washington-state-senate-members-of-color-caucus-stands-against-hate-advocates-for-unity-and-action-2/#:~:text=Senate%20Bill%205427)
 * 11/20/2023 [Senate Democrats](/org/senate_democrats/) - [Washington State Senate Members of Color Caucus Stands Against Hate, Advocates for Unity and Action - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/11/20/washington-state-senate-members-of-color-caucus-stands-against-hate-advocates-for-unity-and-action/#:~:text=Senate%20Bill%205427)
 * 03/13/2023 [The Seattle Times](/org/the_seattle_times/) - [WA has no hate crime hotline, but the idea is gaining traction | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-has-no-hate-crime-hotline-but-the-idea-is-gaining-traction/#:~:text=Senate%20Bill%205427)

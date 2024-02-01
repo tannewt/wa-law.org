@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5873/</link>
 		<description>Updates about SB 5873</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 23 Jan 2024 08:46:33 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 29 Jan 2024 16:53:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -227,6 +227,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Matt/Chociej/2024-01-23 08:46:33</guid>
+		</item>
+		<item>
+			<title>2024 Legislative Session: Policy Cutoff Approaches - WSPTA</title>
+			<description>News article &quot;2024 Legislative Session: Policy Cutoff Approaches - WSPTA&quot; from Washington St Pta.</description>
+			<pubDate>Mon, 29 Jan 2024 16:53:14 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=SB%205873</guid>
 		</item>
 	</channel>
 </rss>

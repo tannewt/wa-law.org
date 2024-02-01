@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5838/</link>
 		<description>Updates about SB 5838</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 30 Jan 2024 12:28:41 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 30 Jan 2024 12:38:31 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -226,6 +226,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Kelly/Fukai/2024-01-30 12:28:41</guid>
+		</item>
+		<item>
+			<title>Inslee signs executive order for WA to study, issue guidelines for AI use | The Seattle Times</title>
+			<description>News article &quot;Inslee signs executive order for WA to study, issue guidelines for AI use | The Seattle Times&quot; from The Seattle Times.</description>
+			<pubDate>Tue, 30 Jan 2024 12:38:31 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.seattletimes.com/seattle-news/politics/inslee-signs-executive-order-for-wa-to-study-issue-guidelines-for-ai-use/#:~:text=Senate%20Bill%205838</guid>
 		</item>
 	</channel>
 </rss>

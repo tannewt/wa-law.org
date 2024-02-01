@@ -10,7 +10,8 @@
 ## [HB 1900](/bill/2023-24/hb/1900/) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system.  👎1 
 * 👎💵 Brad Boswell
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management  👎1 
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management  👎2 
+* 👎💵 Brad Boswell
 * 👎💵 Brad Boswell
 
 ## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg.   ❓2

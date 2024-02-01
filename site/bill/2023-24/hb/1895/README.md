@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/29/2024 [House Democrats](/org/house_democrats/) - [House Passes Bill Making WFTC More Efficient and Accessible – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/29/house-passes-bill-making-wftc-more-efficient-and-accessible/#:~:text=House%20Bill%201895)
+
 ## Meetings
 ### Tue 01/09 08:00 AM - Finance (FIN): HB 1895 Working families' tax credit
 #### 53 👍 - Pro

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6265/</link>
 		<description>Updates about SB 6265</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 30 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2024 05:16:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -52,6 +52,20 @@
 			<pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-30/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-31/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Coupon discrimination by large grocery stores targeted in Senate bill - MyNorthwest.com</title>
+			<description>News article &quot;Coupon discrimination by large grocery stores targeted in Senate bill - MyNorthwest.com&quot; from MyNorthwest.</description>
+			<pubDate>Wed, 31 Jan 2024 05:16:04 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/3948646/senate-bill-targets-coupon-discrimination-large-grocery-stores/#:~:text=Senate%20Bill%206265</guid>
 		</item>
 	</channel>
 </rss>

@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 04/25/2023 [House Democrats](/org/house_democrats/) - [Governor Signs Rep. Leavitt’s Workforce Development Bill Package – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/25/rep-leavitt-passes-workforce-development-bill-package-to-governor/#:~:text=House%20Bill%201030)
+* 04/17/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Legislature passes several bills to support higher education | Cascadia Daily News](https://www.cascadiadaily.com/2023/apr/17/legislature-passes-several-bills-to-support-higher-education/#:~:text=House%20Bill%201030)
 * 02/24/2023 [House Democrats](/org/house_democrats/) - [Representative Mari Leavitt Passes Four Bills to Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/24/representative-mari-leavitt-passes-four-bills-to-senate/#:~:text=HB%201030)
 
 ## Meetings

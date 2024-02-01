@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=HB%201935)
+
 ## Meetings
 ### Mon 01/15 01:30 PM - Education (ED): HB 1935 Schools/resource conserv.
 #### 16 👍 - Pro

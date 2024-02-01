@@ -6,8 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
+* 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=SHB%201368)
+* 01/29/2024 [House Democrats](/org/house_democrats/) - [Senn’s Bill to Expand Electric School Buses, Reduce Environmental Injustice Advances to House Floor  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/29/senns-bill-to-expand-electric-school-buses-reduce-environmental-injustice-advances-to-house-floor/#:~:text=House%20Bill%201368,)
+* 01/28/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/28/the-house-hot-sheet-for-week-4-of-the-2024-legislative-session/#:~:text=SHB%201368)
 * 01/15/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/15/the-house-hot-sheet-for-week-2-of-the-2024-legislative-session/#:~:text=SHB%201368)
 * 01/11/2024 [House Democrats](/org/house_democrats/) - [Senn Bill to Electrify School Buses Receives Early Hearing  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/11/senn-bill-to-electrify-school-buses-receives-early-hearing/#:~:text=House%20Bill%201368)
 * 01/08/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Session Preview: Legislature convenes January 8 for short session - WSPTA](https://www.wastatepta.org/2024-session-preview/#:~:text=SHB%201368)

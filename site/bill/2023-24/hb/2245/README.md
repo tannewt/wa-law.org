@@ -15,11 +15,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158447&caId=23807&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158447&caId=23807&tId=4)
 
-#### 1 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Nicole Picknell - South Snohomish County Fire
+* Mike Jackson - Clark-Cowlitz Fire Rescue
+* Jennifer Stuber - University of Washington School of Social Work
+* Jon Ehrenfeld - Seattle Fire Department - Mobile Integrated Health Program
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Kathleen Wedemeyer - Citizens Commission on Human Rights
 
 #### 0 ❓ - Other
 

@@ -40,7 +40,7 @@
 
 ## [HB 2170](/bill/2023-24/hb/2170/) - Budget stabilization account 👍1  
 
-## [HB 2172](/bill/2023-24/hb/2172/) - Vacant state agency property   ❓1
+## [HB 2172](/bill/2023-24/hb/2172/) - Vacant state agency property   ❓2
 * ❓ Duane Emmons
 
 ## [HB 2187](/bill/2023-24/hb/2187/) - Water/family farms   ❓1
@@ -68,6 +68,9 @@
 
 ## [HB 2333](/bill/2023-24/hb/2333/) - Carbon seq./state lands 👍1  
 * 👍 Brian Considine
+
+## [HB 2446](/bill/2023-24/hb/2446/) - Reforestation grants 👍1  
+* 👍 Csenka Favorini-Csorba
 
 ## [SB 5667](/bill/2023-24/sb/5667/) - Forestry riparian easements 👍1  
 

@@ -32,6 +32,8 @@
 
 ## [HB 1591](/bill/2023-24/hb/1591/) - Open adoption agreements 👍1  
 
+## [HB 1916](/bill/2023-24/hb/1916/) - Concerning funding for the early support for infants and toddlers program. 👍1  
+
 ## [HB 1970](/bill/2023-24/hb/1970/) - DCYF-caregiver communication 👍1  
 
 ## [HB 2001](/bill/2023-24/hb/2001/) - Sentence modification 👍1  
@@ -40,7 +42,7 @@
 
 ## [HB 2065](/bill/2023-24/hb/2065/) - Recalculating sentencing ranges for currently incarcerated individuals whose offender score was increased by juvenile convictions. 👍1  
 
-## [HB 2076](/bill/2023-24/hb/2076/) - Addressing crimes involving human trafficking or sexual exploitation.   ❓1
+## [HB 2076](/bill/2023-24/hb/2076/) - Human trafficking crimes   ❓1
 * ❓ Nicholas Oakley
 
 ## [HB 2186](/bill/2023-24/hb/2186/) - Juv. deferred adjudications 👍1  

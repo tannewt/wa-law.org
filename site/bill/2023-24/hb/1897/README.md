@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=157963&caId=23702&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=157963&caId=23702&tId=4)
 
-#### 254 👍 - Pro
+#### 490 👍 - Pro
 Testifying:
 * Liv Finne - Washington Policy Center
 * Shane Martin - Seattle University
@@ -28,9 +28,11 @@ Testifying:
 * Jaxon Rowland - Why Not You Academy
 * Manuela Slye - Summit Atlas High School parent
 
-#### 47 👎 - Con
+#### 50 👎 - Con
 Testifying:
 * Kristiana de Leon
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* Shawna Moore - [Washington Education Association](/org/washington_education_association/)
+* Joanna Cullen - self
 
 #### 1 ❓ - Other

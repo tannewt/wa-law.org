@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/30/2024 [The Seattle Times](/org/the_seattle_times/) - [Should Washington make it easier to pass school construction bonds? | The Seattle Times](https://www.seattletimes.com/education-lab/should-washington-make-it-easier-to-pass-school-construction-bonds/#:~:text=House%20Bill%201353)
+
 ## Meetings

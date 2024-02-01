@@ -24,7 +24,7 @@ Testifying:
 * Oliver Miska
 * Patience Malaba - Sound Communities/Housing Development Consortium of Seattle-King County
 * Georgia Spiropoulos - Equiscript
-* Shawn Latham - Self Advocates In Leadership
+* 💵Shawn Latham - Self Advocates In Leadership
 * Marty Miller - Office of Rural and Farmworker Housing (ORFH)
 * Treasure. Mackley - Invest in Washington Now
 * Joseph Wilson

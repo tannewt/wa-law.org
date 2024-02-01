@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6013/</link>
 		<description>Updates about SB 6013</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 25 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2024 02:53:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -43,6 +43,14 @@
 			<pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-25/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👎💵Travis Dutton - Washington State Association of Counties</title>
+			<description>Travis Dutton signed up to testify Con. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_state_association_of_counties/&quot;&gt;Washington State Association of Counties&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 31 Jan 2024 02:53:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Travis/Dutton/2024-01-31 02:53:14</guid>
 		</item>
 	</channel>
 </rss>

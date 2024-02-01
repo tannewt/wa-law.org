@@ -247,7 +247,7 @@ Testifying:
 * 💵Stacy Dym - [The Arc of Washington State](/org/the_arc_of_washington_state/)
 * 💵Emily Stone - WA State Coalition Against Domestic Violence
 * 💵Patricia Hunter - WA State Long Term Care Ombuds
-* Shawn Latham - Allies in Advocacy
+* 💵Shawn Latham - Allies in Advocacy
 * 💵Courtney Williams - [Community Employment Alliance](/org/community_employment_alliance/)
 * 💵Christina Wong - Northwest Harvest
 * 💵Sean Graham - Washington State Medical Association
@@ -601,7 +601,7 @@ Testifying:
 * Rachael Myers - WA Low Income Housing Alliance
 * John Stovall - Washington Low Income Housing Alliance
 * 💵Aaron Yared - [Building Changes](/org/building_changes/)
-* Shawn Latham - Allies in Advocacy
+* 💵Shawn Latham - Allies in Advocacy
 * Diana Sullivan - The Foundation for Homeless and Poverty Management
 * Heather Moss - Pierce County Human Services
 * Mindy Woods

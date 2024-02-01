@@ -9,6 +9,7 @@
 
 ## 📰 Articles
 * 03/01/2023 [The Urbanist](/org/the_urbanist/) - [Washington Legislature’s New Thinking About Housing | The Urbanist](https://www.theurbanist.org/2023/03/01/washington-legislatures-new-thinking-about-housing/#:~:text=SB%205364)
+* 02/28/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Shewmake: We can deliver on affordable housing | Cascadia Daily News](https://www.cascadiadaily.com/2023/feb/28/shewmake-we-can-deliver-on-affordable-housing/#:~:text=SB%205364)
 * 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=SB%205364)
 * 01/25/2023 [Sightline Institute](/org/sightline_institute/) - [Washington Lot Split Bills Would Create Starter Homes, Support Community Stability - Sightline Institute](https://www.sightline.org/2023/01/24/washington-lot-split-bills-would-create-starter-homes-support-community-stability/#:~:text=(SB%205364))
 

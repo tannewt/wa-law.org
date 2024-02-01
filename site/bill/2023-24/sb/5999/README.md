@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=SB%205999)
+
 ## Meetings
 ### Tue 01/30 04:00 PM - Ways & Means (WM): SB 5999 Financial aid eligibility
 #### 1149 👍 - Pro

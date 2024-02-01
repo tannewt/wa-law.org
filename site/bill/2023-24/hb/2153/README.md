@@ -5,11 +5,29 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/28/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/28/the-house-hot-sheet-for-week-4-of-the-2024-legislative-session/#:~:text=HB%202153)
 * 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202153)
 
 ## Meetings
+### Thu 02/01 10:30 AM - Transportation (TR): HB 2153 Catalytic converter theft
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31831&aId=158535&caId=23824&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31831&aId=158535&caId=23824&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31831&aId=158535&caId=23824&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31831&aId=158535&caId=23824&tId=4)
+
+#### 5 👍 - Pro
+Testifying:
+* 💵Holly Chisa - Institute of Scrap Metal Industries
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/16 01:30 PM - Consumer Protection & Business (CPB): HB 2153 Catalytic converter theft
 #### 10 👍 - Pro
 Testifying:

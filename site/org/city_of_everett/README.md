@@ -35,7 +35,7 @@
 
 ## [HB 2466](/bill/2023-24/hb/2466/) - Addressing ambulance wait times. 👍1  
 
-## [SB 5118](/bill/2023-24/sb/5118/) - Multifamily property tax ex. 👍1  
+## [SB 5118](/bill/2023-24/sb/5118/) - Multifamily property tax ex. 👍2  
 
 ## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
 
@@ -50,7 +50,7 @@
 
 ## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍1  
 
-## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍1  
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍2  
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
 

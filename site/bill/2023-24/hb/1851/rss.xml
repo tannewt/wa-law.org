@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1851/</link>
 		<description>Updates about HB 1851</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 30 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -108,6 +108,13 @@
 			<pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-30/And refer to Human Services.</guid>
+		</item>
+		<item>
+			<title>Referred to Human Services.</title>
+			<description>Referred to Human Services.</description>
+			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-31/Referred to Human Services.</guid>
 		</item>
 	</channel>
 </rss>

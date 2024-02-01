@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Tue 01/09 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5801 Special deposits

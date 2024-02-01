@@ -18,11 +18,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158432&caId=23793&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158432&caId=23793&tId=4)
 
-#### 130 👍 - Pro
+#### 402 👍 - Pro
+Testifying:
+* Liv Finne - Washington Policy Center
 
-#### 6 👎 - Con
+#### 10 👎 - Con
+Testifying:
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* Glenn Jenkins
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 
 ### Wed 01/10 10:30 AM - Early Learning & K-12 Education (EDU): SB 5809 Charter schools/enrichment
 #### 303 👍 - Pro

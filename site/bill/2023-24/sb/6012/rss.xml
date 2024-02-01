@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6012/</link>
 		<description>Updates about SB 6012</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 06:12:12 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -60,6 +60,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Alissa/Muller/2024-01-22 06:12:12</guid>
+		</item>
+		<item>
+			<title>2024 Legislative Session: Policy Cutoff Approaches - WSPTA</title>
+			<description>News article &quot;2024 Legislative Session: Policy Cutoff Approaches - WSPTA&quot; from Washington St Pta.</description>
+			<pubDate>Mon, 29 Jan 2024 16:53:14 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=SB%206012</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-31/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

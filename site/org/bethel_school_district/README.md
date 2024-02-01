@@ -2,6 +2,8 @@
 
 ## [HB 1436](/bill/2023-24/hb/1436/) - Special education funding 👍1  
 
+## [HB 2236](/bill/2023-24/hb/2236/) - Tech. ed. core plus programs 👍1  
+
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 
 ## [SB 5102](/bill/2023-24/sb/5102/) - School library info and tech 👍1  

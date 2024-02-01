@@ -14,10 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31831&aId=158483&caId=23798&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31831&aId=158483&caId=23798&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * David Sedelmeier
+* Kristina M Sawyckyj
+* 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
 
-#### 0 👎 - Con
+#### 23 👎 - Con
+Testifying:
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 
 #### 0 ❓ - Other

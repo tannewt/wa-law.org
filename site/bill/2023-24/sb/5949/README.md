@@ -61,7 +61,7 @@ Testifying:
 * Maya Hemachandra - United Way of Snohomish County
 * Nora Briggs - Dollywood Foundation
 * Cathy Knight - WA Association of Area Agencies on Aging
-* Shawn Latham - Self Advocates In Leadership
+* 💵Shawn Latham - Self Advocates In Leadership
 * Jet Richardson - Habitat for Humanity
 * Josh Townsley - Habitat for Humanity
 * Michone Preston - Habitat for Humanity of Washington State

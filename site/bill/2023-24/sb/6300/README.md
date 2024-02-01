@@ -5,6 +5,10 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
+
+## 📰 Articles
+* 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=SB%206300)
 
 ## Meetings
 ### Fri 01/26 10:30 AM - Higher Education & Workforce Development (HEWD): SB 6300 College grant/public assist.

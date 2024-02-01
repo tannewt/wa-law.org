@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=House%20Bill%201263)
 * 01/04/2024 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Legislative Agenda 2024 | ACLU of Washington](http://www.aclu-wa.org/pages/legislative-agenda-2024#:~:text=HB%201263)
 * 01/04/2024 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Pass the Keep Our Care Act (HB 1263/SB 5241) | ACLU of Washington](http://www.aclu-wa.org/pages/pass-keep-our-care-act-hb-1263sb-5241#:~:text=HB%201263)
 * 12/15/2023 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2024 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects/2024-legislative-agenda/#:~:text=HB%201263)

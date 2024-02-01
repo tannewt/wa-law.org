@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=SB%205904)
 * 01/12/2024 [Senate Democrats](/org/senate_democrats/) - [Nobles bill would align eligibility time frames across state, federal financial aid programs - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/12/nobles-bill-would-align-eligibility-time-frames-across-state-federal-financial-aid-programs/#:~:text=Senate%20Bill%205904)
 
 ## Meetings

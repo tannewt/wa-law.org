@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/28/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 4: Public safety, free school lunches and a major cutoff arrives - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/28/this-week-in-the-senate-week-4-public-safety-free-school-lunches-and-a-major-cutoff-arrives/#:~:text=SB%206267)
+
 ## Meetings
 ### Tue 01/30 10:30 AM - Human Services (HS): SB 6267 DD parental caregivers
 #### 255 👍 - Pro

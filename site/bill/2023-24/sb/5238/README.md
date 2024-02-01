@@ -9,6 +9,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 04/28/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Western academic student employees earn right to bargain | Cascadia Daily News](https://www.cascadiadaily.com/2023/apr/28/western-educational-student-employees-earn-right-to-bargain/#:~:text=Senate%20Bill%205238)
+
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): SSB 5238 Academic employee bargaining
 #### 86 👍 - Pro

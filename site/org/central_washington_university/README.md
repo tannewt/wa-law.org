@@ -44,6 +44,8 @@
 ## [HB 2221](/bill/2023-24/hb/2221/) - Sign language work group 👍1  
 * 👍 Steve DuPont
 
+## [HB 2236](/bill/2023-24/hb/2236/) - Tech. ed. core plus programs 👍1  
+
 ## [HB 2242](/bill/2023-24/hb/2242/) - Sexual assault/higher ed. 👍1  
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍4  

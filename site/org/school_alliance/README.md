@@ -19,6 +19,6 @@
 * ❓ Sue Ann Bube
 * 👍💵 Grace Yuan
 
-## [SB 5969](/bill/2023-24/sb/5969/) - Adjusting school districts' authority to contract indebtedness for school construction. 👍2  
+## [SB 5969](/bill/2023-24/sb/5969/) - School construction debt 👍2  
 * 👍 Cynthia Weed
 * 👍💵 Grace Yuan

@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 2052](/bill/2023-24/hb/2052/)
 
-# HB 2052 - Increasing the availability of baby diaper changing stations.
+# HB 2052 - Diaper changing stations
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=2052&Year=2023&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/22/2024 [The Seattle Times](/org/the_seattle_times/) - [WA could require diaper changing stations for both moms and dads | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-could-require-diaper-changing-stations-for-both-moms-and-dads/#:~:text=House%20Bill%202052)

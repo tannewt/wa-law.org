@@ -159,6 +159,9 @@
 
 ## [HB 2323](/bill/2023-24/hb/2323/) - Rent payments/credit reports 👍1  
 
+## [HB 2359](/bill/2023-24/hb/2359/) - Vehicle impounds 👍1  
+* 👍💵 Sarah Nagy
+
 ## [SB 5028](/bill/2023-24/sb/5028/) - Name changes 👍2  
 
 ## [SB 5035](/bill/2023-24/sb/5035/) - Controlled sub. possession  👎1 

@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/29/2024 [The Center Square](/org/the_center_square/) - [Washington lawmakers seek to lower threshold for DUI charges | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_89703ce0-bee4-11ee-9d85-fb41f4990ef7.html#:~:text=House%20Bill%202196)
+* 01/29/2024 [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers try again to lower blood alcohol limit as DUI deaths rise | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/as-death-toll-rises-washington-lawmakers-look-to-lower-legal-limit-for-driving-drunk/#:~:text=House%20Bill%202196)
+* 01/28/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/28/the-house-hot-sheet-for-week-4-of-the-2024-legislative-session/#:~:text=HB%202196)
 * 01/27/2024 [NW News Network](/org/nw_news_network/) - [Natural gas, opioids and DUIs: Highlights from week 3 of Washington's legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-26/natural-gas-opioids-and-duis-highlights-from-week-3-of-washingtons-legislative-session#:~:text=House%20Bill%202196)
 * 01/26/2024 [MyNorthwest](/org/mynorthwest/) - [State lawmakers try again to lower legal blood alcohol limit for DUIs - MyNorthwest.com](https://mynorthwest.com/3948088/state-lawmakers-try-again-lower-legal-blood-alcohol-limit/#:~:text=House%20Bill%202196)
 * 01/26/2024 [NW News Network](/org/nw_news_network/) - [Washington lawmakers consider lower threshold for DUI charges as road deaths continue to rise | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-25/washington-lawmakers-consider-lower-threshold-for-dui-charges-as-road-deaths-continue-to-rise#:~:text=House%20Bill%202196)

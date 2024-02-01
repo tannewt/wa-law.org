@@ -11,13 +11,14 @@
 
 ## Meetings
 ### Mon 01/15 01:30 PM - Environment & Energy (ENVI): HB 2117 Aerial firefighting/permits
-#### 24 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * Terri Cooper
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Linda Lehman
 * Paul Krupin - Tri-Cities CARES
 * Kahryn Anelare Winery - Anelare Winery
+* Kahryn Campbell - Anelare Winery
 * 💵Josh Weiss - Benton County
 * Wesley Wardall - Associated Aerial Firefighters, non-profit
 * David Sharp - TriCities Cares

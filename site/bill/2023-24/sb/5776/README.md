@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158434&caId=23795&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158434&caId=23795&tId=4)
 
-#### 12 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Madison Johnson - Washington #insulin4all
 * 💵Carissa Kemp - [American Diabetes Association](/org/american_diabetes_association/)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1362/</link>
 		<description>Updates about HB 1362</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 09 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -93,6 +93,13 @@
 			<pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-09/Rules Committee relieved of further consideration.  Placed on third reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</title>
+			<description>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</description>
+			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-31/Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</guid>
 		</item>
 	</channel>
 </rss>

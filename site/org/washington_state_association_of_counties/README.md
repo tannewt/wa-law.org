@@ -201,7 +201,8 @@
 
 ## [HB 2008](/bill/2023-24/hb/2008/) - Housing cost task force 👍1  
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management   ❓1
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management   ❓2
+* ❓💵 Travis Dutton
 * ❓💵 Travis Dutton
 
 ## [HB 2063](/bill/2023-24/hb/2063/) - Providing an exemption from the real estate excise tax for transfers of property to qualifying low-income first-time homebuyers.  👎1 
@@ -230,8 +231,12 @@
 ## [HB 2126](/bill/2023-24/hb/2126/) - Rural area ADUs 👍1  
 * 👍💵 Paul Jewell
 
-## [HB 2141](/bill/2023-24/hb/2141/) - Promoting affordable housing in unincorporated areas within urban growth areas of large counties. 👍1  
+## [HB 2141](/bill/2023-24/hb/2141/) - Promoting affordable housing in unincorporated areas within urban growth areas of large counties. 👍2  
 * 👍💵 Paul Jewell
+* 👍💵 Travis Dutton
+
+## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg.   ❓1
+* ❓💵 Travis Dutton
 
 ## [HB 2158](/bill/2023-24/hb/2158/) - Urban growth area boundaries  👎1 
 * 👎💵 Paul Jewell
@@ -277,6 +282,9 @@
 * 👎💵 Paul Jewell
 
 ## [HB 2415](/bill/2023-24/hb/2415/) - Economic assistance/TANF 👍1  
+
+## [HB 2422](/bill/2023-24/hb/2422/) - Affordable housing/rural 👍1  
+* 👍💵 Travis Dutton
 
 ## [HB 2464](/bill/2023-24/hb/2464/) - Concerning the development of new manufactured/mobile homes and new manufactured/mobile home communities.   ❓1
 * ❓💵 Paul Jewell
@@ -460,8 +468,9 @@
 
 ## [SB 5992](/bill/2023-24/sb/5992/) - Water supply/energy sites 👍1  
 
-## [SB 6013](/bill/2023-24/sb/6013/) - Homeownership dev. tax ex.  👎1 
+## [SB 6013](/bill/2023-24/sb/6013/) - Homeownership dev. tax ex.  👎2 
 * 👎💵 Paul Jewell
+* 👎💵 Travis Dutton
 
 ## [SB 6015](/bill/2023-24/sb/6015/) - Residential parking   ❓1
 * ❓💵 Paul Jewell

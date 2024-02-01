@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/31 01:30 PM - Health Care & Wellness (HCW): HB 2378 Health care facility fees
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31817&aId=157826&caId=23720&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31817&aId=157826&caId=23720&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31817&aId=157826&caId=23720&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31817&aId=157826&caId=23720&tId=4)
-
-#### 16 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
 * 💵Stephanie Simpson - Bleeding Disorder Foundation of WA & Patient Coalition of WA
@@ -25,7 +19,7 @@ Testifying:
 * Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * Kelsey Wulfkuhle - United States of Care
 
-#### 9 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * 💵Alicia Eyler - [Fred Hutchinson Cancer Center](/org/fred_hutchinson_cancer_center/)
 * Len McComb - Washington State Hospital Association

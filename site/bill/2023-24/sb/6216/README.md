@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=SB%206216)
 * 01/24/2024 [Senate Democrats](/org/senate_democrats/) - [Nobles’ education bills heard in committee - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/24/nobles-education-bills-heard-in-committee/#:~:text=Senate%20Bill%206216)
 
 ## Meetings

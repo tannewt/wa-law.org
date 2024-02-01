@@ -48,7 +48,7 @@
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
-## [HB 2467](/bill/2023-24/hb/2467/) - Increasing access to the long-term services and supports trust. 👍1  
+## [HB 2467](/bill/2023-24/hb/2467/) - LTSS trust access 👍1  
 
 ## [SB 5125](/bill/2023-24/sb/5125/) - Future fund program 👍1  
 

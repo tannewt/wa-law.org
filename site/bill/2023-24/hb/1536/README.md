@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 04/14/2023 [House Democrats](/org/house_democrats/) - [Two Timmons’ education bills clear the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/14/two-timmons-education-bills-clear-the-senate/#:~:text=HB%201536)
+* 03/09/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Rent cap bill dies, housing density lives on in Legislature | Cascadia Daily News](https://www.cascadiadaily.com/2023/mar/09/rent-cap-bill-dies-housing-density-lives-on-in-legislature/#:~:text=HB%201536)
 * 03/02/2023 [House Democrats](/org/house_democrats/) - [Timmons Sends Two Education Bills to the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/02/timmons-sends-two-education-bills-to-the-senate/#:~:text=HB%201536)
 
 ## Meetings

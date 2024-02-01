@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/30/2024 [House Republicans](/org/house_republicans/) - [Fix the affordability crisis | Washington State House Republicans](http://houserepublicans.wa.gov/current/fix-the-affordability-crisis/#:~:text=House%20Bill%201704)
 * 01/11/2024 [House Republicans](/org/house_republicans/) - [Fix the affordability crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/affordability/#:~:text=House%20Bill%201704)
 * 04/18/2023 [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201704)
 * 02/25/2023 [House Republicans](/org/house_republicans/) - [Fiscal committee cutoff | Washington State House Republicans](https://houserepublicans.wa.gov/current/fiscal-committee-cutoff/#:~:text=House%20Bill%201704)

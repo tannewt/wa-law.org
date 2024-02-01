@@ -6,7 +6,7 @@
 
 ## [HB 1676](/bill/2023-24/hb/1676/) - Special ed. early support 👍1  
 
-## [HB 1916](/bill/2023-24/hb/1916/) - Concerning funding for the early support for infants and toddlers program. 👍1  
+## [HB 1916](/bill/2023-24/hb/1916/) - Concerning funding for the early support for infants and toddlers program. 👍3  
 
 ## [HB 2080](/bill/2023-24/hb/2080/) - Day habilitation services   ❓1
 * ❓💵 Lance Morehouse

@@ -18,16 +18,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158368&caId=23775&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158368&caId=23775&tId=4)
 
-#### 40 👍 - Pro
+#### 107 👍 - Pro
 Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * MATT HUTCHINS
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 2 👎 - Con
+#### 299 👎 - Con
 Testifying:
 * Salim Nice
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Jeffrey Lee
+* Swen Nater
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Briahna Murray - [City of Bellevue](/org/city_of_bellevue/)
 
 ### Mon 01/15 01:30 PM - Housing (HOUS): HB 2113 GMA housing element
 #### 209 👍 - Pro

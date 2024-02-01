@@ -18,13 +18,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158488&caId=23799&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158488&caId=23799&tId=4)
 
-#### 0 👍 - Pro
+#### 28 👍 - Pro
 
-#### 6 👎 - Con
+#### 92 👎 - Con
 Testifying:
 * Tim Eyman - INITIATIVE ACTIVIST
 * Jeffrey Pack - Washington Citizens Against Unfair Taxes
 * Mary Long - Conservative Ladies of Washington
+* Sharon Damoff
 
 #### 0 ❓ - Other
 
