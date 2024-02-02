@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5820/</link>
 		<description>Updates about SB 5820</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 26 Jan 2024 02:04:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 02 Feb 2024 06:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -98,6 +98,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Dawn/Land/2024-01-26 02:04:00</guid>
+		</item>
+		<item>
+			<title>Defeat of signature-gatherer bill demonstrates ‘attitude problem’ about initiatives, Wilson says</title>
+			<description>News article &quot;Defeat of signature-gatherer bill demonstrates ‘attitude problem’ about initiatives, Wilson says&quot; from Gorge News Center.</description>
+			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2024/01/31/defeat-of-signature-gatherer-bill-demonstrates-attitude-problem-about-initiatives-wilson-says/#:~:text=Senate%20Bill%205820</guid>
+		</item>
+		<item>
+			<title>What bills are dead, alive after WA Legislature’s first cutoff | The Seattle Times</title>
+			<description>News article &quot;What bills are dead, alive after WA Legislature’s first cutoff | The Seattle Times&quot; from The Seattle Times.</description>
+			<pubDate>Fri, 02 Feb 2024 06:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.seattletimes.com/seattle-news/politics/some-bills-die-after-first-wa-legislature-cutoff/#:~:text=Senate%20Bill%205820</guid>
 		</item>
 	</channel>
 </rss>

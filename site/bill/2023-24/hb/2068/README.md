@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/02/2024 [The Seattle Times](/org/the_seattle_times/) - [What bills are dead, alive after WA Legislature’s first cutoff | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/some-bills-die-after-first-wa-legislature-cutoff/#:~:text=House%20Bill%202068)
 * 01/11/2024 [NW News Network](/org/nw_news_network/) - [Washington bill aims to reduce 'fast fashion' carbon emissions, pollution | Northwest News Network](https://www.nwnewsnetwork.org/environment-and-planning/2024-01-11/washington-bill-aims-to-reduce-fast-fashion-carbon-emissions-pollution#:~:text=H.B.%202068)
 
 ## Meetings

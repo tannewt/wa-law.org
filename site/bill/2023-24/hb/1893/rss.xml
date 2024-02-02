@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1893/</link>
 		<description>Updates about HB 1893</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 30 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 02 Feb 2024 06:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -199,6 +199,13 @@
 			<pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-30/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>What bills are dead, alive after WA Legislature’s first cutoff | The Seattle Times</title>
+			<description>News article &quot;What bills are dead, alive after WA Legislature’s first cutoff | The Seattle Times&quot; from The Seattle Times.</description>
+			<pubDate>Fri, 02 Feb 2024 06:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.seattletimes.com/seattle-news/politics/some-bills-die-after-first-wa-legislature-cutoff/#:~:text=House%20Bill%201893</guid>
 		</item>
 	</channel>
 </rss>

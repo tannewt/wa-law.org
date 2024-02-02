@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/02/2024 [The Seattle Times](/org/the_seattle_times/) - [What bills are dead, alive after WA Legislature’s first cutoff | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/some-bills-die-after-first-wa-legislature-cutoff/#:~:text=House%20Bill%201455)
 * 01/30/2024 [FOX13](/org/fox13/) - [Washington lawmakers hear child marriage testimony: 'Different strokes for different folks'](https://www.fox13seattle.com/news/different-strokes-for-different-folks-lawmakers-hear-testimony-for-and-against-child-marriage-in-wa#:~:text=House%20Bill%201455)
 * 01/28/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 4: Public safety, free school lunches and a major cutoff arrives - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/28/this-week-in-the-senate-week-4-public-safety-free-school-lunches-and-a-major-cutoff-arrives/#:~:text=House%20Bill%201455)
 * 01/20/2024 [NW News Network](/org/nw_news_network/) - [AI, guns, and initiatives: highlights from Week 2 of Washington's 2024 legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-19/ai-guns-and-initiatives-highlights-from-week-2-of-washingtons-2024-legislative-session#:~:text=House%20Bill%201455)

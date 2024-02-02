@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/01/2024 [The Center Square](/org/the_center_square/) - [Bill addresses concerns over tall wind turbines and aerial firefighting | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_22272daa-c137-11ee-af1a-53a50085d102.html#:~:text=House%20Bill%202117)
+* 01/31/2024 [Gorge News Center](/org/gorge_news_center/) - [Protection for wildfire-prone areas to be considered in siting new wind turbines under Rep. Barnard’s bill](https://gorgenewscenter.com/2024/01/31/protection-for-wildfire-prone-areas-to-be-considered-in-siting-new-wind-turbines-under-rep-barnards-bill/#:~:text=House%20Bill%202117)
 * 01/12/2024 [The Center Square](/org/the_center_square/) - [Tri-Cities lawmakers eye nuclear facilities tax break, wind farm fire concerns | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ebd7f824-b182-11ee-97f3-3f080b13cf66.html#:~:text=House%20Bill%202117)
 
 ## Meetings

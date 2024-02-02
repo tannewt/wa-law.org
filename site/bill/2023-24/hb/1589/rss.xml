@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1589/</link>
 		<description>Updates about HB 1589</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 31 Jan 2024 12:00:27 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 01 Feb 2024 16:18:08 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1353,6 +1353,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Mark/Leed/2024-01-31 12:00:27</guid>
+		</item>
+		<item>
+			<title>Washington bill would allow PSE to end natural gas service for existing customers | Washington | thecentersquare.com</title>
+			<description>News article &quot;Washington bill would allow PSE to end natural gas service for existing customers | Washington | thecentersquare.com&quot; from The Center Square.</description>
+			<pubDate>Thu, 01 Feb 2024 15:58:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_df330602-c142-11ee-b89f-2be0a952a6a0.html#:~:text=House%20Bill%201589</guid>
+		</item>
+		<item>
+			<title>PSE customers may soon not be guaranteed natural gas service - MyNorthwest.com</title>
+			<description>News article &quot;PSE customers may soon not be guaranteed natural gas service - MyNorthwest.com&quot; from MyNorthwest.</description>
+			<pubDate>Thu, 01 Feb 2024 16:18:08 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/3948900/puget-sound-energy-customers-could-feel-major-impact-from-revised-natural-gas-bill/#:~:text=House%20Bill%201589</guid>
 		</item>
 	</channel>
 </rss>

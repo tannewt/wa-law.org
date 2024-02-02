@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/02/2024 [Senate Democrats](/org/senate_democrats/) - [Nobles bill would continue program to improve active transportation connectivity in overburdened communities - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/01/nobles-bill-would-continue-program-to-improve-active-transportation-connectivity-in-overburdened-communities/#:~:text=Senate%20Bill%206283)
+
 ## Meetings
 ### Thu 02/01 01:30 PM - Transportation (TRAN): SB 6283 Connecting communities prg.
 #### 30 👍 - Pro

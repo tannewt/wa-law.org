@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/01/2024 [Crosscut](/org/crosscut/) - [Washington teens advocate for Narcan in every school | Crosscut](https://crosscut.com/politics/2024/02/washington-teens-advocate-narcan-every-school#:~:text=Senate%20Bill%205804)
 * 01/07/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: Welcome to the 2024 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/07/this-week-in-the-senate-week-1-welcome-to-the-2024-session/#:~:text=Senate%20Bill%205804)
 
 ## Meetings

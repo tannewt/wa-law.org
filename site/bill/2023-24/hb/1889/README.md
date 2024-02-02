@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/30/2024 [Crosscut](/org/crosscut/) - [A WA bill would allow non-citizens to obtain professional licenses | Crosscut](https://crosscut.com/politics/2024/01/wa-bill-would-allow-non-citizens-obtain-professional-licenses#:~:text=House%20Bill%201889)
 * 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%201889)
 
 ## Meetings

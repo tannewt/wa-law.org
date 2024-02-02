@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2447/</link>
 		<description>Updates about HB 2447</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 31 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 01 Feb 2024 20:24:54 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -201,6 +201,13 @@
 			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-31/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>Jefferson County prosecutor wants changes to law blamed for child's death</title>
+			<description>News article &quot;Jefferson County prosecutor wants changes to law blamed for child's death&quot; from FOX13.</description>
+			<pubDate>Thu, 01 Feb 2024 20:24:54 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/jefferson-county-prosecutor-wants-changes-to-law-blamed-for-childs-death#:~:text=House%20Bill%202447.</guid>
 		</item>
 	</channel>
 </rss>

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/02/2024 [The Seattle Times](/org/the_seattle_times/) - [What bills are dead, alive after WA Legislature’s first cutoff | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/some-bills-die-after-first-wa-legislature-cutoff/#:~:text=Senate%20Bill%205841)
 * 01/18/2024 [KING5](/org/king5/) - [DUI drivers could be ordered to financially support minor children of people they kill or disable under proposed bill | king5.com](https://www.king5.com/article/news/politics/state-politics/dui-drivers-pay-children-of-victims-killed-or-disabled-parents/281-8e2fac29-6e00-446f-a97f-5e4a5cd23751#:~:text=Senate%20Bill%205841)
 
 ## Meetings

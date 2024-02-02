@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/01/2024 [The Seattle Times](/org/the_seattle_times/) - [WA liquor board suspends ‘lewd conduct’ enforcement after LGBTQ+ bar inspections | The Seattle Times](https://www.seattletimes.com/seattle-news/wa-liquor-board-suspends-lewd-conduct-enforcement-after-lgbtq-bar-inspections/#:~:text=Senate%20Bill%206105)
+* 01/31/2024 [The Seattle Times](/org/the_seattle_times/) - [Seattle LGBTQ+ bars, clubs on edge after ‘lewd conduct’ violations | The Seattle Times](https://www.seattletimes.com/seattle-news/seattle-lgbtq-bars-clubs-on-edge-after-lewd-conduct-violations/#:~:text=Senate%20Bill%206105)
 * 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=Senate%20Bill%206105)
 * 01/14/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 2: MLK, education, gas price transparency - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/14/this-week-in-the-senate-week-2-mlk-education-gas-price-transparency/#:~:text=SB%206105)
 

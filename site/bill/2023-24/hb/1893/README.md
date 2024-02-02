@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/02/2024 [The Seattle Times](/org/the_seattle_times/) - [What bills are dead, alive after WA Legislature’s first cutoff | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/some-bills-die-after-first-wa-legislature-cutoff/#:~:text=House%20Bill%201893)
 * 01/21/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/21/the-house-hot-sheet-for-week-3-of-the-2024-legislative-session/#:~:text=HB%201893)
 * 01/18/2024 [The Center Square](/org/the_center_square/) - [Washington lawmakers propose unemployment benefit deemed too pricey for California | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_43c6de48-b63c-11ee-a08a-cbe86537f50d.html#:~:text=House%20Bill%201893)
 

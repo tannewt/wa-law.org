@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Fri 02/02 10:30 AM - Appropriations (APP): HB 2147 Agriculture pests & diseases
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31827&aId=158495&caId=23819&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31827&aId=158495&caId=23819&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31827&aId=158495&caId=23819&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31827&aId=158495&caId=23819&tId=4)
-
 #### 20 👍 - Pro
 Testifying:
 * Clay Peterson

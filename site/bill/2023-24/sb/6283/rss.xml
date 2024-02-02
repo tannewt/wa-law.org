@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6283/</link>
 		<description>Updates about SB 6283</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 19 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 02 Feb 2024 00:04:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,13 @@
 			<pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-19/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>Nobles bill would continue program to improve active transportation connectivity in overburdened communities - Washington Senate Democrats</title>
+			<description>News article &quot;Nobles bill would continue program to improve active transportation connectivity in overburdened communities - Washington Senate Democrats&quot; from Senate Democrats.</description>
+			<pubDate>Fri, 02 Feb 2024 00:04:39 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2024/02/01/nobles-bill-would-continue-program-to-improve-active-transportation-connectivity-in-overburdened-communities/#:~:text=Senate%20Bill%206283</guid>
 		</item>
 	</channel>
 </rss>

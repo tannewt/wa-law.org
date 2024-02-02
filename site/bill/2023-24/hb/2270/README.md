@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/31/2024 [House Democrats](/org/house_democrats/) - [Morgan’s bill to create Department of Housing clears first hurdle – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/31/morgans-bill-to-create-department-of-housing-clears-first-hurdle/#:~:text=House%20Bill%202270)
 * 01/28/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/28/the-house-hot-sheet-for-week-4-of-the-2024-legislative-session/#:~:text=HB%202270)
 * 01/24/2024 [Crosscut](/org/crosscut/) - [WA Legislature considers establishing a new state housing agency | Crosscut](https://crosscut.com/briefs/2024/01/wa-legislature-considers-establishing-new-state-housing-agency#:~:text=House%20Bill%202270)
 

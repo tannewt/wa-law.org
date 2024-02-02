@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/01/2024 [KING5](/org/king5/) - [New committee could determine who’s honored on Washington law enforcement memorial | king5.com](https://www.king5.com/article/news/local/olympia/new-committee-honored-law-enforcement-memorial/281-c68bd221-cfab-4c35-8704-850e961c9c3b#:~:text=House%20Bill%202442)
+
 ## Meetings
 ### Thu 02/01 08:00 AM - Capital Budget (CB): HB 2442 Law enforcement memorial
 #### 222 👍 - Pro

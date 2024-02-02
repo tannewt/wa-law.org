@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/02/2024 [NW News Network](/org/nw_news_network/) - [Rent stabilization stalls in WA Senate, complicating its path forward | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-02-01/rent-stabilization-stalls-in-wa-senate-complicating-its-path-forward#:~:text=Senate%20Bill%205961)
+* 02/01/2024 [The Seattle Times](/org/the_seattle_times/) - [WA Senate bill dies, signaling tough path ahead for limiting rent hikes | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-senate-bill-dies-signaling-tough-path-ahead-for-limiting-rent-hikes/#:~:text=Senate%20Bill%205961)
+* 01/31/2024 [The Center Square](/org/the_center_square/) - [Residents rally at the state Capitol for rent control | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c7a8b4e4-bfd7-11ee-830c-ff6e96f7402d.html#:~:text=Senate%20Bill%205961)
 * 01/31/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Current Status of Priority Bills — Quaker Voice](https://www.quakervoicewa.org/2024-current-status-of-priority-bills/#:~:text=SB%205961)
 * 01/30/2024 [KING5](/org/king5/) - [Hundreds of tenants to rally at the state Capitol to oppose rent gouging | king5.com](https://www.king5.com/article/news/politics/state-politics/rally-renters-rights-olympia/281-6ea392be-2e84-44e5-adaa-94ffcca03a88#:~:text=SB%205961)
 * 01/27/2024 [NW News Network](/org/nw_news_network/) - [Natural gas, opioids and DUIs: Highlights from week 3 of Washington's legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-26/natural-gas-opioids-and-duis-highlights-from-week-3-of-washingtons-legislative-session#:~:text=Senate%20Bill%205961)

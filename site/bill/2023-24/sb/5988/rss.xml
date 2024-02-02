@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5988/</link>
 		<description>Updates about SB 5988</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 15 Jan 2024 12:15:23 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 02 Feb 2024 06:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -220,6 +220,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Patrick/Reynolds/2024-01-15 12:15:23</guid>
+		</item>
+		<item>
+			<title>What bills are dead, alive after WA Legislature’s first cutoff | The Seattle Times</title>
+			<description>News article &quot;What bills are dead, alive after WA Legislature’s first cutoff | The Seattle Times&quot; from The Seattle Times.</description>
+			<pubDate>Fri, 02 Feb 2024 06:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.seattletimes.com/seattle-news/politics/some-bills-die-after-first-wa-legislature-cutoff/#:~:text=Senate%20Bill%205988</guid>
 		</item>
 	</channel>
 </rss>

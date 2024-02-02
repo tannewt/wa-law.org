@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/01/2024 [Gorge News Center](/org/gorge_news_center/) - [For fourth straight year, Senate passes Padden bill to combat impaired driving](https://gorgenewscenter.com/2024/02/01/for-fourth-straight-year-senate-passes-padden-bill-to-combat-impaired-driving/#:~:text=Senate%20Bill%205032)
 * 03/17/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 20 - 24, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-20-24-2023/#:~:text=SB%205032)
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Policing, Crime & Courts](https://crosscut.com/voter-guide/2023-legislative-tracker/election/policing-crime-courts#:~:text=Senate%20Bill%205032)
 

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/30/2024 [KUOW](/org/kuow/) - [KUOW - Why Washington cars could get a little Smokey in 2024](https://www.kuow.org/stories/smokey-the-bear-license-plate-bill-proposed-washington-wildfire-prevention#:~:text=HB%202108,)
 * 01/17/2024 [House Democrats](/org/house_democrats/) - [Smokey Bear license plate hears public testimony; needs public support – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/17/smokey-bear-license-plate-hears-public-testimony-needs-public-support/#:~:text=House%20Bill%202108)
 * 01/15/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/15/the-house-hot-sheet-for-week-2-of-the-2024-legislative-session/#:~:text=HB%202108)
 

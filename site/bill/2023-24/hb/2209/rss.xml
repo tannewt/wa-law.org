@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2209/</link>
 		<description>Updates about HB 2209</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 01 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 02 Feb 2024 06:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -114,11 +114,25 @@
 			<guid isPermaLink="false">2024-01-31/Third reading, passed; yeas, 96; nays, 1; absent, 0; excused, 1.</guid>
 		</item>
 		<item>
+			<title>House Passes Bill Recognizing Lunar New Year – Washington State House Democrats</title>
+			<description>News article &quot;House Passes Bill Recognizing Lunar New Year – Washington State House Democrats&quot; from House Democrats.</description>
+			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/01/31/house-passes-bill-recognizing-lunar-new-year-2/#:~:text=House%20Bill%202209</guid>
+		</item>
+		<item>
 			<title>First reading, referred to State Government &amp; Elections.</title>
 			<description>First reading, referred to State Government &amp; Elections.</description>
 			<pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-01/First reading, referred to State Government &amp; Elections.</guid>
+		</item>
+		<item>
+			<title>What bills are dead, alive after WA Legislature’s first cutoff | The Seattle Times</title>
+			<description>News article &quot;What bills are dead, alive after WA Legislature’s first cutoff | The Seattle Times&quot; from The Seattle Times.</description>
+			<pubDate>Fri, 02 Feb 2024 06:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.seattletimes.com/seattle-news/politics/some-bills-die-after-first-wa-legislature-cutoff/#:~:text=House%20Bill%202209</guid>
 		</item>
 	</channel>
 </rss>

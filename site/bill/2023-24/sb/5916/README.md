@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/02/2024 [Crosscut](/org/crosscut/) - [Washington public defenders say the strained system needs funding | Crosscut](https://crosscut.com/politics/2024/02/washington-public-defenders-say-strained-system-needs-funding#:~:text=Senate%20Bill%205916)
+
 ## Meetings

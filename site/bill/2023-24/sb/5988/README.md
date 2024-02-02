@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/02/2024 [The Seattle Times](/org/the_seattle_times/) - [What bills are dead, alive after WA Legislature’s first cutoff | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/some-bills-die-after-first-wa-legislature-cutoff/#:~:text=Senate%20Bill%205988)
+
 ## Meetings
 ### Tue 01/16 04:00 PM - Ways & Means (WM): SB 5988 Gift certificates/unclaimed
 #### 852 👍 - Pro

@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/02/2024 [The Seattle Times](/org/the_seattle_times/) - [What bills are dead, alive after WA Legislature’s first cutoff | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/some-bills-die-after-first-wa-legislature-cutoff/#:~:text=House%20Bill%202114)
+* 02/01/2024 [The Seattle Times](/org/the_seattle_times/) - [WA Senate bill dies, signaling tough path ahead for limiting rent hikes | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-senate-bill-dies-signaling-tough-path-ahead-for-limiting-rent-hikes/#:~:text=House%20Bill%202114)
+* 01/31/2024 [The Center Square](/org/the_center_square/) - [Residents rally at the state Capitol for rent control | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c7a8b4e4-bfd7-11ee-830c-ff6e96f7402d.html#:~:text=House%20Bill%202114)
 * 01/31/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Current Status of Priority Bills — Quaker Voice](https://www.quakervoicewa.org/2024-current-status-of-priority-bills/#:~:text=HB%202114)
 * 01/25/2024 [The Center Square](/org/the_center_square/) - [Washington landlords push back on proposed rent control bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_e214113c-bbbf-11ee-9517-037a1febb6d3.html#:~:text=House%20Bill%202114)
 * 01/21/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/21/the-house-hot-sheet-for-week-3-of-the-2024-legislative-session/#:~:text=HB%202114)

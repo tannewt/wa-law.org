@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6216/</link>
 		<description>Updates about SB 6216</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 31 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 01 Feb 2024 18:34:05 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -155,6 +155,13 @@
 			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-31/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>WA Senate bill to establish network for student mental, behavioral health</title>
+			<description>News article &quot;WA Senate bill to establish network for student mental, behavioral health&quot; from FOX13.</description>
+			<pubDate>Thu, 01 Feb 2024 18:34:05 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/state-senate-bill-aims-to-establish-a-statewide-network-for-student-mental-behavioral-health#:~:text=Senate%20Bill%206216</guid>
 		</item>
 	</channel>
 </rss>

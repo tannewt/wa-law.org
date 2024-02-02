@@ -10,6 +10,7 @@
 ## 📰 Articles
 * 01/20/2024 [NW News Network](/org/nw_news_network/) - [AI, guns, and initiatives: highlights from Week 2 of Washington's 2024 legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-19/ai-guns-and-initiatives-highlights-from-week-2-of-washingtons-2024-legislative-session#:~:text=House%20Bill%202243)
 * 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202243)
+* [Department of Natural Resources](/org/department_of_natural_resources/) - [Commissioner Franz Hails Legislature for Advancing Bill to Create New Land Trust to Fund Child Care | WA - DNR](https://www.dnr.wa.gov/news/commissioner-franz-hails-legislature-advancing-bill-create-new-land-trust-fund-child-care#:~:text=House%20Bill%202243)
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [Commissioner Franz Testifies in Support of Bill to Create New Land Trust to Fund Child Care | WA - DNR](https://www.dnr.wa.gov/news/commissioner-franz-testifies-support-bill-create-new-land-trust-fund-child-care#:~:text=House%20Bill%202243)
 
 ## Meetings

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/31/2024 [The Center Square](/org/the_center_square/) - [Washington bill permitting end of sex offender supervision passes out of committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_49468d3c-c064-11ee-b7d7-a300f37dbffe.html#:~:text=House%20Bill%202178)
 * 01/18/2024 [The Center Square](/org/the_center_square/) - [Washington bill would allow highest-risk sex offenders to end state supervision | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5f2c7d66-b63a-11ee-9b97-4f32f22ef84e.html#:~:text=HB%202178)
 * 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202178)
 

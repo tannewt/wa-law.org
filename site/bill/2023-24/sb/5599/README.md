@@ -43,6 +43,7 @@
 * 02/19/2023 [The Seattle Times](/org/the_seattle_times/) - [What the right has wrong about caring for trans youth  | The Seattle Times](https://www.seattletimes.com/opinion/what-the-right-has-wrong-about-caring-for-trans-youth/#:~:text=Senate%20Bill%205599)
 * 02/07/2023 [KUOW](/org/kuow/) - [KUOW - Bill would protect runaway youth seeking gender-affirming care](https://www.kuow.org/stories/runaway-bill-would-add-protections-for-youth-seeking-gender-affirming-care#:~:text=SB%205599)
 * 02/05/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 5: Addressing addiction, fair housing and support for nurses - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/02/05/this-week-in-the-senate-week-5-addressing-addiction-fair-housing-and-support-for-nurses/#:~:text=Senate%20Bill%205599)
+* [Senate Republicans](/org/senate_republicans/) - [Initiative 2081: Protect Parents' Rights - Parents Have the Right to Know - Senate Republican Caucus](https://src.wastateleg.org/initiative-2081-protect-parents-rights-parents-right-know/#:~:text=(Senate%20Bill%205599))
 
 ## Meetings
 ### Wed 03/22 01:30 PM - Human Services, Youth, & Early Learning (HSEL): ESSB 5599 Protected health care/youth

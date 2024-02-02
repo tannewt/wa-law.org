@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/01/2024 [MyNorthwest](/org/mynorthwest/) - [PSE customers may soon not be guaranteed natural gas service - MyNorthwest.com](https://mynorthwest.com/3948900/puget-sound-energy-customers-could-feel-major-impact-from-revised-natural-gas-bill/#:~:text=House%20Bill%201589)
+* 02/01/2024 [The Center Square](/org/the_center_square/) - [Washington bill would allow PSE to end natural gas service for existing customers | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_df330602-c142-11ee-b89f-2be0a952a6a0.html#:~:text=House%20Bill%201589)
 * 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=ESHB%201589)
 * 01/27/2024 [MyNorthwest](/org/mynorthwest/) - [Limits on natural gas may get stripped out of new state bill - MyNorthwest.com](https://mynorthwest.com/3948225/limits-natural-gas-may-get-stripped-out-state-bill/#:~:text=House%20Bill%201589)
 * 01/27/2024 [NW News Network](/org/nw_news_network/) - [Natural gas, opioids and DUIs: Highlights from week 3 of Washington's legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-26/natural-gas-opioids-and-duis-highlights-from-week-3-of-washingtons-legislative-session#:~:text=House%20Bill%201589)
