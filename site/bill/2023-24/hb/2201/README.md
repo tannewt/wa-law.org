@@ -18,13 +18,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31827&aId=158484&caId=23816&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31827&aId=158484&caId=23816&tId=4)
 
-#### 3 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * 💵Tom Wolf - bp America
+* Joel Creswell - Washington State Department of Ecology
+* 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 
-#### 1 👎 - Con
+#### 26 👎 - Con
+Testifying:
+* Clay Peterson
+* John Worthington
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* 💵Jessica Spiegel - WSPA
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵John Rothlin - Avista
+* Greg Alderson - [Portland General Electric](/org/portland_general_electric/)
 
 ### Mon 01/15 01:30 PM - Environment & Energy (ENVI): HB 2201 Carbon market linkage
 #### 24 👍 - Pro

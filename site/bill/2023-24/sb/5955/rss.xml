@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5955/</link>
 		<description>Updates about SB 5955</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 31 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 01 Feb 2024 09:36:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -271,6 +271,70 @@
 			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-31/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👍JC Harris - SeaTacNoise.Info</title>
+			<description>JC Harris signed up to testify Pro. They are signed up to represent SeaTacNoise.Info.</description>
+			<pubDate>Wed, 31 Jan 2024 10:45:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/JC/Harris/2024-01-31 10:45:28</guid>
+		</item>
+		<item>
+			<title>👍Pete loke - SeaTacNoise.Info</title>
+			<description>Pete loke signed up to testify Pro.</description>
+			<pubDate>Thu, 01 Feb 2024 02:34:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Pete/loke/2024-02-01 02:34:16</guid>
+		</item>
+		<item>
+			<title>👍SHARYN PARKER - SeaTacNoise.Info</title>
+			<description>SHARYN PARKER signed up to testify Pro.</description>
+			<pubDate>Thu, 01 Feb 2024 04:09:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/SHARYN/PARKER/2024-02-01 04:09:39</guid>
+		</item>
+		<item>
+			<title>👍Jacob Delbridge - SeaTacNoise.Info</title>
+			<description>Jacob Delbridge signed up to testify Pro.</description>
+			<pubDate>Thu, 01 Feb 2024 06:34:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jacob/Delbridge/2024-02-01 06:34:51</guid>
+		</item>
+		<item>
+			<title>👍Traci Buxton - Mayor, City of Des Moines WA</title>
+			<description>Traci Buxton signed up to testify Pro. They are signed up to represent Mayor, City of Des Moines WA.</description>
+			<pubDate>Thu, 01 Feb 2024 08:00:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Traci/Buxton/2024-02-01 08:00:11</guid>
+		</item>
+		<item>
+			<title>👎Jeannette Mcchesney - Burien Airport Committee</title>
+			<description>Jeannette Mcchesney signed up to testify Con.</description>
+			<pubDate>Thu, 01 Feb 2024 08:43:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jeannette/Mcchesney/2024-02-01 08:43:38</guid>
+		</item>
+		<item>
+			<title>👎Colleen Wise - Burien Airport Committee</title>
+			<description>Colleen Wise signed up to testify Con.</description>
+			<pubDate>Thu, 01 Feb 2024 09:21:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Colleen/Wise/2024-02-01 09:21:59</guid>
+		</item>
+		<item>
+			<title>👍Brian Davis - Burien Airport Committee</title>
+			<description>Brian Davis signed up to testify Pro. They are signed up to represent Burien Airport Committee.</description>
+			<pubDate>Thu, 01 Feb 2024 09:36:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brian/Davis/2024-02-01 09:36:17</guid>
 		</item>
 	</channel>
 </rss>

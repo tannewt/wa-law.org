@@ -21,7 +21,7 @@
 
 ## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy   ❓1
 
-## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍1  
+## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍2  
 
 ## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍1  
 
@@ -29,10 +29,14 @@
 
 ## [HB 1935](/bill/2023-24/hb/1935/) - Promoting resource conservation practices that include student education and leadership opportunities in public schools. 👍1  
 
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍1  
+
 ## [HB 2068](/bill/2023-24/hb/2068/) - Fashion/environmental impact 👍1  
 
 ## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects 👍2  
 * 👍 Eric Gonzalez Alfaro
+
+## [HB 2073](/bill/2023-24/hb/2073/) - Greenhouse gas other sources 👍1  
 
 ## [HB 2082](/bill/2023-24/hb/2082/) - Electrical transmission 👍1  
 

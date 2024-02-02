@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2019/</link>
 		<description>Updates about HB 2019</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 30 Jan 2024 08:30:43 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2024 10:24:07 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -106,12 +106,28 @@
 			<guid isPermaLink="false">2024-01-23/Referred to Appropriations.</guid>
 		</item>
 		<item>
-			<title>👎Jeannette Mcchesney - Conservative Ladies of Washington</title>
+			<title>👎Jeannette Mcchesney - IBEW/ceww</title>
 			<description>Jeannette Mcchesney signed up to testify Con.</description>
 			<pubDate>Tue, 30 Jan 2024 08:30:43 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Jeannette/Mcchesney/2024-01-30 08:30:43</guid>
+		</item>
+		<item>
+			<title>👍Erin Fraiser - Washington building and construction trades council</title>
+			<description>Erin Fraiser signed up to testify Pro. They are signed up to represent Washington building and construction trades council.</description>
+			<pubDate>Wed, 31 Jan 2024 10:24:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Erin/Fraiser/2024-01-31 10:24:07</guid>
+		</item>
+		<item>
+			<title>👍💵Matthew Hepner - IBEW/ceww</title>
+			<description>Matthew Hepner signed up to testify Pro. They are signed up to represent IBEW/ceww. They are a registered lobbyist.</description>
+			<pubDate>Wed, 31 Jan 2024 10:24:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Matthew/Hepner/2024-01-31 10:24:07</guid>
 		</item>
 	</channel>
 </rss>

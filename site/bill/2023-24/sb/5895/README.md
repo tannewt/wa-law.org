@@ -17,7 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158268&caId=23746&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158268&caId=23746&tId=4)
 
-#### 142 👍 - Pro
+#### 245 👍 - Pro
+Testifying:
+* 💵Emily Myers - UAW
+* Ethan Martez - WWU Student
+* Alec Acosta-Vega - CWU-Student
 
 #### 3 👎 - Con
 

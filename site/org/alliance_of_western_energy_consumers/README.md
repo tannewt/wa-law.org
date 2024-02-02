@@ -18,7 +18,7 @@
 ## [HB 1619](/bill/2023-24/hb/1619/) - Renewable energy resources  👎1 
 * 👎💵 Brandon Houskeeper
 
-## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage   ❓1
+## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage   ❓2
 * ❓💵 Brandon Houskeeper
 
 ## [SB 5165](/bill/2023-24/sb/5165/) - Electric transm. planning 👍1  
@@ -31,7 +31,7 @@
 
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply  👎1 
 
-## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage   ❓1
+## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage   ❓2
 * ❓💵 Brandon Houskeeper
 
 ## [SB 6092](/bill/2023-24/sb/6092/) - Greenhouse gas disclosures  👎1 

@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Thu 02/01 10:30 AM - Appropriations (APP): SHB 2071 Residential housing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158365&caId=23772&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158365&caId=23772&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158365&caId=23772&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158365&caId=23772&tId=4)
-
-#### 220 👍 - Pro
+#### 255 👍 - Pro
 Testifying:
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * MATT HUTCHINS
@@ -23,10 +17,11 @@ Testifying:
 * 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * Ruth Williams
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 
-#### 1 👎 - Con
+#### 23 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Mon 01/15 01:30 PM - Housing (HOUS): HB 2071 Residential housing
 #### 132 👍 - Pro

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5985/</link>
 		<description>Updates about SB 5985</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 24 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 01 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -81,6 +81,20 @@
 			<pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-24/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>1st substitute bill substituted.</title>
+			<description>1st substitute bill substituted.</description>
+			<pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-01/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 29; nays, 20; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 29; nays, 20; absent, 0; excused, 0.</description>
+			<pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-01/Third reading, passed; yeas, 29; nays, 20; absent, 0; excused, 0.</guid>
 		</item>
 	</channel>
 </rss>

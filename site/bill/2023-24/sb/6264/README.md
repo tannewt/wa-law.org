@@ -19,11 +19,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158525&caId=23802&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158525&caId=23802&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 
-#### 0 👎 - Con
+#### 14 👎 - Con
+Testifying:
+* Andy Cilley
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 01/25 01:30 PM - Early Learning & K-12 Education (EDU): SB 6264 Competency-based education
 #### 11 👍 - Pro

@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 1953 - Improving access to department of licensing issued documents by clarifying the application requirements for a minor, modifying the requirements for at-cost identicards, and studying the feasibility of reduced-fee identicards.</title>
+		<title>HB 1953 - Dept. of licensing documents</title>
 		<link>https://wa-law.org/bill/2023-24/hb/1953/</link>
 		<description>Updates about HB 1953</description>
 		<language>en-US</language>
@@ -36,6 +36,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Beau/Perschbacher/2024-01-11 11:35:31</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-31/Minority; without recommendation.</guid>
 		</item>
 		<item>
 			<title>TR - Executive action taken by committee.</title>

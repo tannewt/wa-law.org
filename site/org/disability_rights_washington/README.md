@@ -65,7 +65,7 @@
 
 ## [HB 2030](/bill/2023-24/hb/2030/) - Revoking a person's voting rights only when convicted of a state crime punishable by death. 👍1  
 
-## [HB 2065](/bill/2023-24/hb/2065/) - Recalculating sentencing ranges for currently incarcerated individuals whose offender score was increased by juvenile convictions. 👍1  
+## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍1  
 
 ## [HB 2177](/bill/2023-24/hb/2177/) - Sex offender policy board 👍1  
 
@@ -125,7 +125,8 @@
 
 ## [SB 5660](/bill/2023-24/sb/5660/) - Mental health adv directives 👍1  
 
-## [SB 5825](/bill/2023-24/sb/5825/) - Guardianship   ❓1
+## [SB 5825](/bill/2023-24/sb/5825/) - Guardianship   ❓2
+* ❓💵 Chloe Merino
 * ❓💵 Chloe Merino
 
 ## [SB 5883](/bill/2023-24/sb/5883/) - Concerning the burden of proof for special education due process hearings. 👍2  

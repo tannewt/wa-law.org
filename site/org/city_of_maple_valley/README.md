@@ -10,3 +10,5 @@
 ## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍3  
 * 👍 Mayor Sean Kelly
 * 👍 Mayor Sean Kelly
+
+## [SB 6076](/bill/2023-24/sb/6076/) - Criminal justice local tax 👍1  

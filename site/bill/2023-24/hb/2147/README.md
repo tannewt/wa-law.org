@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31827&aId=158495&caId=23819&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31827&aId=158495&caId=23819&tId=4)
 
-#### 0 👍 - Pro
+#### 20 👍 - Pro
+Testifying:
+* Clay Peterson
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Fri 01/12 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2147 Agriculture pests & diseases
 #### 32 👍 - Pro

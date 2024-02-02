@@ -22,7 +22,7 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Thu 01/18 08:00 AM - Labor & Commerce (LC): SB 6194 Legislative employees
 #### 4 👍 - Pro

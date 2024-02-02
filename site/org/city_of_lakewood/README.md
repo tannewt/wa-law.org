@@ -16,7 +16,7 @@
 
 ## [HB 1527](/bill/2023-24/hb/1527/) - Tax increment financing 👍1  
 
-## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions  👎2 
+## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions  👎3 
 
 ## [HB 2321](/bill/2023-24/hb/2321/) - Middle housing requirements   ❓1
 

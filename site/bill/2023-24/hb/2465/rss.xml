@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 2465 - Streamlining the state building code council operating procedures by establishing criteria for statewide amendments to the state building code.</title>
+		<title>HB 2465 - State building code council</title>
 		<link>https://wa-law.org/bill/2023-24/hb/2465/</link>
 		<description>Updates about HB 2465</description>
 		<language>en-US</language>
@@ -84,6 +84,13 @@
 			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-31/LG - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-31/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

@@ -15,11 +15,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158267&caId=23745&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158267&caId=23745&tId=4)
 
-#### 8 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* 💵Dennis Eagle - WA Federation of State Employees
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Lara Stambaugh - DSHS
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Joana Ramos - Washington State Coalition for Language Access
 
 ### Thu 01/11 08:00 AM - Labor & Commerce (LC): SB 5810 Interpreter bargaining units
 #### 8 👍 - Pro

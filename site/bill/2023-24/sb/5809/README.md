@@ -18,14 +18,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158432&caId=23793&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158432&caId=23793&tId=4)
 
-#### 402 👍 - Pro
+#### 540 👍 - Pro
 Testifying:
 * Liv Finne - Washington Policy Center
+* Joel Negash - Rainier Prep
+* Karen Lobos - Rainier Prep
+* Maria Mercado - Impact | Commencement Bay Elementary
+* Acacia Corson - Impact | Black River Elementary
+* Angelo Cruz Santiago - Summit Olympus High School
+* Ayanna Gore - Summit Sierra High School
 
-#### 10 👎 - Con
+#### 30 👎 - Con
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Glenn Jenkins
+* Kristiana de Leon
 
 #### 3 ❓ - Other
 

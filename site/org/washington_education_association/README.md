@@ -906,7 +906,7 @@
 ## [SB 5873](/bill/2023-24/sb/5873/) - Student transportation 👍2  
 * 👍💵 Julie Salvi
 
-## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍3  
+## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍5  
 * 👍💵 Julie Salvi
 * 👍💵 Julie Salvi
 

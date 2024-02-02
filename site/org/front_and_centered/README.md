@@ -37,6 +37,8 @@
 
 ## [HB 1895](/bill/2023-24/hb/1895/) - Modifying the working families' tax credit by clarifying the refundable nature of the credit, the application requirements, and the eligibility verification process. 👍1  
 
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍1  
+
 ## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects 👍2  
 * 👍💵 Guillermo Rogel
 * 👍💵 Guillermo Rogel
@@ -45,6 +47,8 @@
 
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
 * ❓💵 Guillermo Rogel
+
+## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage   ❓1
 
 ## [HB 2226](/bill/2023-24/hb/2226/) - H-2A worker program data 👍1  
 

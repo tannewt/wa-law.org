@@ -8,6 +8,19 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Sat 02/03 09:00 AM - Ways & Means (WM): SSB 5780 Public defense & prosecution
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158605&caId=23852&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158605&caId=23852&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158605&caId=23852&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158605&caId=23852&tId=4)
+
+#### 18 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/16 10:30 AM - Law & Justice (LAW): SB 5780 Public defense training
 #### 35 👍 - Pro
 Testifying:

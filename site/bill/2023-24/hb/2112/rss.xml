@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2112/</link>
 		<description>Updates about HB 2112</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 31 Jan 2024 02:30:37 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 01 Feb 2024 08:38:33 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -190,6 +190,30 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Ph.D., Terri/Standish-Kuon/2024-01-31 02:30:37</guid>
+		</item>
+		<item>
+			<title>👍Lilly Hayward - Seattle Metropolitan Chamber of Commerce</title>
+			<description>Lilly Hayward signed up to testify Pro. They are signed up to represent Seattle Metropolitan Chamber of Commerce.</description>
+			<pubDate>Wed, 31 Jan 2024 08:26:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lilly/Hayward/2024-01-31 08:26:01</guid>
+		</item>
+		<item>
+			<title>👍Isela Bonilla - Associated Students of WSU Vancouver</title>
+			<description>Isela Bonilla signed up to testify Pro. They are signed up to represent Associated Students of WSU Vancouver.</description>
+			<pubDate>Thu, 01 Feb 2024 08:35:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Isela/Bonilla/2024-02-01 08:35:45</guid>
+		</item>
+		<item>
+			<title>👍Juniper Campbell - Geoduck Student Union of The Evergreen State College</title>
+			<description>Juniper Campbell signed up to testify Pro. They are signed up to represent Geoduck Student Union of The Evergreen State College.</description>
+			<pubDate>Thu, 01 Feb 2024 08:38:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Juniper/Campbell/2024-02-01 08:38:33</guid>
 		</item>
 	</channel>
 </rss>

@@ -12,28 +12,25 @@
 
 ## Meetings
 ### Thu 02/01 10:30 AM - Appropriations (APP): SHB 2113 GMA housing element
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158368&caId=23775&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158368&caId=23775&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158368&caId=23775&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158368&caId=23775&tId=4)
-
-#### 107 👍 - Pro
+#### 124 👍 - Pro
 Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * MATT HUTCHINS
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Lilly Hayward - Seattle Metropolitan Chamber of Commerce
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 
-#### 299 👎 - Con
+#### 455 👎 - Con
 Testifying:
 * Salim Nice
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Jeffrey Lee
 * Swen Nater
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Briahna Murray - [City of Bellevue](/org/city_of_bellevue/)
+* Mark N Shar Chandler
 
 ### Mon 01/15 01:30 PM - Housing (HOUS): HB 2113 GMA housing element
 #### 209 👍 - Pro

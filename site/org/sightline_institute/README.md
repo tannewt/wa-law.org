@@ -71,10 +71,12 @@
 
 ## [HB 2008](/bill/2023-24/hb/2008/) - Housing cost task force 👍1  
 
-## [HB 2071](/bill/2023-24/hb/2071/) - Residential housing 👍1  
+## [HB 2071](/bill/2023-24/hb/2071/) - Residential housing 👍2  
+* 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 
-## [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element 👍1  
+## [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element 👍2  
+* 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 
 ## [HB 2126](/bill/2023-24/hb/2126/) - Rural area ADUs 👍1  

@@ -86,6 +86,8 @@
 
 ## [HB 2197](/bill/2023-24/hb/2197/) - Medical assist./prevention 👍1  
 
+## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage 👍1  
+
 ## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍1  
 
 ## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍1  
@@ -128,8 +130,12 @@
 
 ## [SB 5933](/bill/2023-24/sb/5933/) - Infants and toddlers program 👍1  
 
+## [SB 5967](/bill/2023-24/sb/5967/) - Housing/public lands leases 👍1  
+
 ## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍2  
 * 👍💵 Amy Brackenbury
+
+## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍1  
 
 ## [SB 6095](/bill/2023-24/sb/6095/) - Secretary of health orders 👍1  
 

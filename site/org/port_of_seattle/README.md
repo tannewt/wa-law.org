@@ -122,4 +122,7 @@
 
 ## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍1  
 
+## [SB 6304](/bill/2023-24/sb/6304/) - Implementing certain recommendations of the transportation electrification strategy.   ❓1
+* ❓ John Flanagan
+
 ## [SJM 8009](/bill/2023-24/sjm/8009/) - Harbor maintenance tax 👍1  

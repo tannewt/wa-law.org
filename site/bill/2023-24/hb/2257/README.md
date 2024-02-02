@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 02/01 10:30 AM - Appropriations (APP): HB 2257 Back country search & rescue
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158449&caId=23809&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158449&caId=23809&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158449&caId=23809&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158449&caId=23809&tId=4)
-
-#### 16 👍 - Pro
+#### 18 👍 - Pro
 
 #### 0 👎 - Con
 

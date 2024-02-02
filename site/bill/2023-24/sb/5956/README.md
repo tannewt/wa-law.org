@@ -12,6 +12,19 @@
 * 01/08/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Session Preview: Legislature convenes January 8 for short session - WSPTA](https://www.wastatepta.org/2024-session-preview/#:~:text=SB%205956)
 
 ## Meetings
+### Sat 02/03 09:00 AM - Ways & Means (WM): SSB 5956 Enrichment levies limit
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158617&caId=23864&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158617&caId=23864&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158617&caId=23864&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158617&caId=23864&tId=4)
+
+#### 8 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 1 ❓ - Other
+
 ### Mon 01/15 01:30 PM - Early Learning & K-12 Education (EDU): SB 5956 Enrichment levies limit
 #### 75 👍 - Pro
 Testifying:

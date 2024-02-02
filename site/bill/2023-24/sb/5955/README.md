@@ -20,9 +20,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158536&caId=23825&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158536&caId=23825&tId=4)
 
-#### 0 👍 - Pro
+#### 18 👍 - Pro
+Testifying:
+* JC Harris - SeaTacNoise.Info
+* Pete loke
+* SHARYN PARKER
+* Jacob Delbridge
+* Traci Buxton - Mayor, City of Des Moines WA
+* Brian Davis - Burien Airport Committee
 
-#### 0 👎 - Con
+#### 312 👎 - Con
+Testifying:
+* Jeannette Mcchesney
+* Colleen Wise
 
 #### 0 ❓ - Other
 

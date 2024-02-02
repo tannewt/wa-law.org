@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/20/2024 [NW News Network](/org/nw_news_network/) - [AI, guns, and initiatives: highlights from Week 2 of Washington's 2024 legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-19/ai-guns-and-initiatives-highlights-from-week-2-of-washingtons-2024-legislative-session#:~:text=House%20Bill%202243)

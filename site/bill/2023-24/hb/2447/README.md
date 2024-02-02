@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/23/2024 [FOX13](/org/fox13/) - [State law makes intervention for drugs difficult for child protective services, attorney says](https://www.fox13seattle.com/news/state-law-makes-drug-intervention-difficult-for-child#:~:text=House%20Bill%202447.)

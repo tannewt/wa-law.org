@@ -30,3 +30,5 @@
 * 👍 Abigail Cooper
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
+
+## [SB 6228](/bill/2023-24/sb/6228/) - Substance use treatment 👍1  

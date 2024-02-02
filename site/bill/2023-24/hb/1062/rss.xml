@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1062/</link>
 		<description>Updates about HB 1062</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 31 Jan 2024 08:03:06 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 01 Feb 2024 10:57:07 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -191,7 +191,7 @@
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/01/28/the-house-hot-sheet-for-week-4-of-the-2024-legislative-session/#:~:text=HB%201062</guid>
 		</item>
 		<item>
-			<title>👎Jeannette Mcchesney - Gonzaga University School of Law - CENTER FOR CIVIL &amp; HUMAN RIGHTS</title>
+			<title>👎Jeannette Mcchesney - Washington Innocence Project</title>
 			<description>Jeannette Mcchesney signed up to testify Con.</description>
 			<pubDate>Tue, 30 Jan 2024 01:52:52 GMT</pubDate>
 			<category>testifier</category>
@@ -253,6 +253,30 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Russell/Brown/2024-01-31 08:03:06</guid>
+		</item>
+		<item>
+			<title>👍Ramona Brandes - WACDL/WDA</title>
+			<description>Ramona Brandes signed up to testify Pro. They are signed up to represent WACDL/WDA.</description>
+			<pubDate>Thu, 01 Feb 2024 08:32:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ramona/Brandes/2024-02-01 08:32:25</guid>
+		</item>
+		<item>
+			<title>👍Mark Fallon - ClubFed, LLC</title>
+			<description>Mark Fallon signed up to testify Pro. They are signed up to represent ClubFed, LLC.</description>
+			<pubDate>Thu, 01 Feb 2024 10:54:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mark/Fallon/2024-02-01 10:54:11</guid>
+		</item>
+		<item>
+			<title>👍💵Lara Zarowsky - Washington Innocence Project</title>
+			<description>Lara Zarowsky signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_innocence_project/&quot;&gt;Washington Innocence Project&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Thu, 01 Feb 2024 10:57:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lara/Zarowsky/2024-02-01 10:57:07</guid>
 		</item>
 	</channel>
 </rss>

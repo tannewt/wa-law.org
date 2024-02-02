@@ -39,4 +39,6 @@
 
 ## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍1  
 
-## [SB 6228](/bill/2023-24/sb/6228/) - Substance use treatment 👍1  
+## [SB 6228](/bill/2023-24/sb/6228/) - Substance use treatment 👍2  
+
+## [SB 6308](/bill/2023-24/sb/6308/) - 988 system timeline 👍1  

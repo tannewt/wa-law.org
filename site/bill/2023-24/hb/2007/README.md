@@ -13,20 +13,17 @@
 
 ## Meetings
 ### Thu 02/01 10:30 AM - Appropriations (APP): HB 2007 Cash assistance time limits
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158395&caId=23779&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158395&caId=23779&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158395&caId=23779&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158395&caId=23779&tId=4)
-
-#### 69 👍 - Pro
+#### 82 👍 - Pro
 Testifying:
 * 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * 💵Alex Hur - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* Em Stone - WA State Coalition Against Domestic Violence
 
-#### 239 👎 - Con
+#### 379 👎 - Con
+Testifying:
+* John McDonnell
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 01/10 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2007 Cash assistance time limits
 #### 96 👍 - Pro

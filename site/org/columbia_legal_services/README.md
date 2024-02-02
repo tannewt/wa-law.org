@@ -129,7 +129,7 @@
 
 ## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
 
-## [HB 1953](/bill/2023-24/hb/1953/) - Improving access to department of licensing issued documents by clarifying the application requirements for a minor, modifying the requirements for at-cost identicards, and studying the feasibility of reduced-fee identicards. 👍1  
+## [HB 1953](/bill/2023-24/hb/1953/) - Dept. of licensing documents 👍1  
 
 ## [HB 2001](/bill/2023-24/hb/2001/) - Sentence modification 👍1  
 
@@ -243,6 +243,8 @@
 
 ## [SB 5912](/bill/2023-24/sb/5912/) - Reentry services & supports 👍1  
 
+## [SB 5924](/bill/2023-24/sb/5924/) - Access to personnel records 👍1  
+
 ## [SB 5953](/bill/2023-24/sb/5953/) - Incarcerated student grants 👍1  
 
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍1  
@@ -254,7 +256,7 @@
 ## [SB 5996](/bill/2023-24/sb/5996/) - H-2A worker program data 👍1  
 * 👍💵 Andrea Schmitt
 
-## [SB 6021](/bill/2023-24/sb/6021/) - Correctional fees & expenses 👍1  
+## [SB 6021](/bill/2023-24/sb/6021/) - Correctional fees & expenses 👍2  
 
 ## [SB 6025](/bill/2023-24/sb/6025/) - Predatory loans 👍1  
 

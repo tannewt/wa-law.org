@@ -13,6 +13,8 @@
 
 ## [HB 2231](/bill/2023-24/hb/2231/) - Law enforcement funding 👍1  
 
+## [HB 2306](/bill/2023-24/hb/2306/) - Main street tax credits 👍1  
+
 ## [HB 2390](/bill/2023-24/hb/2390/) - Eluding & resisting arrest 👍1  
 
 ## [HB 2442](/bill/2023-24/hb/2442/) - Law enforcement memorial 👍1  

@@ -18,9 +18,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158424&caId=23785&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158424&caId=23785&tId=4)
 
-#### 3 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* Julie Mitchell - Lakeside-Milam Recovery Centers
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Dr. Sasha Waring
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
 #### 2 ❓ - Other
 Testifying:

@@ -17,7 +17,7 @@ Testifying:
 * Mark Heckert - South Sound Beaver Recovery
 * Lloyd Lytle
 * Lorna Smith
-* Nadine Nadow - [Conservation Northwest](/org/conservation_northwest/)
+* 💵Nadine Nadow - [Conservation Northwest](/org/conservation_northwest/)
 * PHD, Susan D Kane-Ronning - Washington Sierra Club Wildlife Committee
 * Daryl Williams - Tulalip Tribes
 * Jacob Heckert

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 01/26 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2424 State-tribe coop./wildlife

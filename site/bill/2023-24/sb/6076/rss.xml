@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6076/</link>
 		<description>Updates about SB 6076</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 31 Jan 2024 11:09:12 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 01 Feb 2024 10:32:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -136,12 +136,28 @@
 			<guid isPermaLink="false">testifier/Nancy/Backus/2024-01-31 01:41:24</guid>
 		</item>
 		<item>
+			<title>👎Darryl Jones - Initiative Activist</title>
+			<description>Darryl Jones signed up to testify Con.</description>
+			<pubDate>Wed, 31 Jan 2024 09:15:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Darryl/Jones/2024-01-31 09:15:10</guid>
+		</item>
+		<item>
 			<title>👎John Roskelley - Initiative Activist</title>
 			<description>John Roskelley signed up to testify Con.</description>
 			<pubDate>Wed, 31 Jan 2024 11:09:12 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/John/Roskelley/2024-01-31 11:09:12</guid>
+		</item>
+		<item>
+			<title>👍Charlie Brown - Fred Meyer Stores</title>
+			<description>Charlie Brown signed up to testify Pro. They are signed up to represent Fred Meyer Stores.</description>
+			<pubDate>Thu, 01 Feb 2024 10:32:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Charlie/Brown/2024-02-01 10:32:49</guid>
 		</item>
 	</channel>
 </rss>

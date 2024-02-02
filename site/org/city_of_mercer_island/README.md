@@ -45,8 +45,12 @@
 
 ## [SB 5509](/bill/2023-24/sb/5509/) - Public infrastructure bank 👍1  
 
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
+
 ## [SB 6134](/bill/2023-24/sb/6134/) - Opioid use 👍1  
 
 ## [SB 6242](/bill/2023-24/sb/6242/) - Law enforcement training 👍1  
+
+## [SB 6285](/bill/2023-24/sb/6285/) - Use of impact fees  👎1 
 
 ## [SB 6304](/bill/2023-24/sb/6304/) - Implementing certain recommendations of the transportation electrification strategy. 👍1  

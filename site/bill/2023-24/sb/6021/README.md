@@ -12,17 +12,15 @@
 
 ## Meetings
 ### Thu 02/01 01:30 PM - Ways & Means (WM): SSB 6021 Correctional fees & expenses
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158164&caId=23696&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158164&caId=23696&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158164&caId=23696&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158164&caId=23696&tId=4)
-
-#### 162 👍 - Pro
+#### 176 👍 - Pro
+Testifying:
+* Andrew Lama - Worth Rises
 
 #### 38 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Kehaulani Walker
 
 ### Tue 01/16 10:30 AM - Human Services (HS): SB 6021 Correctional fees & expenses
 #### 130 👍 - Pro

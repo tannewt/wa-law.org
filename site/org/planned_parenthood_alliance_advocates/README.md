@@ -178,7 +178,9 @@
 
 ## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
+## [SB 5776](/bill/2023-24/sb/5776/) - Insulin emergency supply 👍1  
+
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
 
 ## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍1  
 
@@ -195,6 +197,8 @@
 ## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍2  
 
 ## [SB 5985](/bill/2023-24/sb/5985/) - Firearms background checks 👍1  
+
+## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍1  
 
 ## [SB 6105](/bill/2023-24/sb/6105/) - Adult entertainment workers 👍1  
 

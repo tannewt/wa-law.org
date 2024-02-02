@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2049/</link>
 		<description>Updates about HB 2049</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 31 Jan 2024 12:46:07 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 01 Feb 2024 07:57:29 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -915,6 +915,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Heather/Millar/2024-01-31 12:46:07</guid>
+		</item>
+		<item>
+			<title>👎Tim Shestek - American Chemistry Counci l</title>
+			<description>Tim Shestek signed up to testify Con. They are signed up to represent American Chemistry Counci l.</description>
+			<pubDate>Thu, 01 Feb 2024 07:48:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Tim/Shestek/2024-02-01 07:48:20</guid>
+		</item>
+		<item>
+			<title>👎💵Peter Godlewski - Association of Washington Business</title>
+			<description>Peter Godlewski signed up to testify Con. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/association_of_washington_business/&quot;&gt;Association of Washington Business&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Thu, 01 Feb 2024 07:57:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Peter/Godlewski/2024-02-01 07:57:29</guid>
 		</item>
 	</channel>
 </rss>

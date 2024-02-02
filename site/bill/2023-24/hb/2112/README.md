@@ -15,16 +15,13 @@
 
 ## Meetings
 ### Thu 02/01 10:30 AM - Appropriations (APP): SHB 2112 Higher ed. opioid prevention
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158358&caId=23765&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158358&caId=23765&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158358&caId=23765&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158358&caId=23765&tId=4)
-
-#### 7 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * Lauren Hibbs - 1300 Quince Street
+* Lilly Hayward - Seattle Metropolitan Chamber of Commerce
+* Isela Bonilla - Associated Students of WSU Vancouver
+* Juniper Campbell - Geoduck Student Union of The Evergreen State College
 
 #### 0 👎 - Con
 

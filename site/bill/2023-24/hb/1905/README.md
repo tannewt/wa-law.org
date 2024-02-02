@@ -16,20 +16,14 @@
 
 ## Meetings
 ### Thu 02/01 10:30 AM - Appropriations (APP): SHB 1905 Equal pay/protected classes
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158369&caId=23776&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158369&caId=23776&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158369&caId=23776&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158369&caId=23776&tId=4)
+#### 56 👍 - Pro
 
-#### 48 👍 - Pro
-
-#### 281 👎 - Con
+#### 433 👎 - Con
 Testifying:
 * 💵Michael Lindsay - Eatonville
 * Jeannette Mcchesney
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 01/10 08:00 AM - Labor & Workplace Standards (LAWS): HB 1905 Equal pay/protected classes
 #### 55 👍 - Pro

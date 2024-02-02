@@ -18,11 +18,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31827&aId=158485&caId=23817&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31827&aId=158485&caId=23817&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Conor Norris
 
 ### Tue 01/16 01:30 PM - Consumer Protection & Business (CPB): HB 2109 Permanent cosmetics
 #### 6 👍 - Pro

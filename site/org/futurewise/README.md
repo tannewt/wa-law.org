@@ -102,6 +102,9 @@
 ## [HB 2394](/bill/2023-24/hb/2394/) - SEPA/trails and paths 👍1  
 * 👍💵 Bryce Yadon
 
+## [HB 2422](/bill/2023-24/hb/2422/) - Affordable housing/rural  👎1 
+* 👎💵 Bryce Yadon
+
 ## [HB 2464](/bill/2023-24/hb/2464/) - Concerning the development of new manufactured/mobile homes and new manufactured/mobile home communities.  👎1 
 * 👎💵 Bryce Yadon
 

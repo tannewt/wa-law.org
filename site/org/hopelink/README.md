@@ -158,7 +158,7 @@
 
 ## [SB 6112](/bill/2023-24/sb/6112/) - Donated food items/B&O tax  👎1 
 
-## [SB 6135](/bill/2023-24/sb/6135/) - TANF transitional assistance 👍1  
+## [SB 6135](/bill/2023-24/sb/6135/) - TANF transitional assistance 👍2  
 
 ## [SB 6136](/bill/2023-24/sb/6136/) - Rental property B&O tax 👍1  
 

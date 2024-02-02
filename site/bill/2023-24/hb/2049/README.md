@@ -17,13 +17,7 @@
 
 ## Meetings
 ### Thu 02/01 10:30 AM - Appropriations (APP): SHB 2049 Solid waste management
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158360&caId=23767&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158360&caId=23767&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158360&caId=23767&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158360&caId=23767&tId=4)
-
-#### 865 👍 - Pro
+#### 980 👍 - Pro
 Testifying:
 * Kate Bailey - The Association of Plastic Recyclers (APR)
 * Gloria McClintock
@@ -71,7 +65,7 @@ Testifying:
 * Amber Coffman
 * Heather Millar
 
-#### 26 👎 - Con
+#### 54 👎 - Con
 Testifying:
 * Wendy Weiker - [Republic Services](/org/republic_services/)
 * Mark Lanter - Yakima Waste 2195 Waste Connections
@@ -82,8 +76,10 @@ Testifying:
 * 💵Jay Balasbas - Sunshine Disposal and Recycling, Basin Disposal
 * 💵Lyset Cadena - WM
 * 💵Vicki Christophersen - Washington Refuse and Recycling Association
+* Tim Shestek - American Chemistry Counci l
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 7 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Scott DeFife - Glass Packaging Institute
 * 💵Jacob Cassady - Association of Home Appliance Manufacturers (AHAM)

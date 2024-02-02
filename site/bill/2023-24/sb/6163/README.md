@@ -15,7 +15,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158428&caId=23789&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158428&caId=23789&tId=4)
 
-#### 30 👍 - Pro
+#### 36 👍 - Pro
+Testifying:
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 
 #### 0 👎 - Con
 

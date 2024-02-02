@@ -98,7 +98,7 @@
 
 ## [SB 5821](/bill/2023-24/sb/5821/) - Audio-only telemedicine 👍1  
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
 
 ## [SB 5864](/bill/2023-24/sb/5864/) - Rare disease supports 👍1  
 

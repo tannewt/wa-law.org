@@ -15,13 +15,7 @@
 
 ## Meetings
 ### Thu 02/01 10:30 AM - Appropriations (APP): SHB 2214 College grant/public assist.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158359&caId=23766&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158359&caId=23766&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158359&caId=23766&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158359&caId=23766&tId=4)
-
-#### 36 👍 - Pro
+#### 43 👍 - Pro
 Testifying:
 * 💵Collin Bannister - [Washington Student Association](/org/washington_student_association/)
 * 💵Joel Anderson - Washington Student Achievement Council

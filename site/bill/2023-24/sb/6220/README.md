@@ -21,9 +21,11 @@ Sign up to testify:
 
 #### 1 👍 - Pro
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* John Kingsbury - authorized cannabis patient
 
 ### Mon 01/22 10:30 AM - Labor & Commerce (LC): SB 6220 High THC cannabis products
 #### 32 👍 - Pro

@@ -81,9 +81,10 @@
 * 👍 Brian Considine
 * 👍 George Geissler
 
-## [SB 5967](/bill/2023-24/sb/5967/) - Housing/public lands leases 👍2  
+## [SB 5967](/bill/2023-24/sb/5967/) - Housing/public lands leases 👍3  
 * 👍 Krosbie Carter
 * 👍 Michael Kearney
+* 👍 Krosbie Carter
 
 ## [SB 5990](/bill/2023-24/sb/5990/) - Env. justice/SEPA projects   ❓1
 

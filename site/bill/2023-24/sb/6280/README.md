@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 02/01 01:30 PM - Transportation (TRAN): SB 6280 Veteran parking privileges
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158137&caId=23684&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158137&caId=23684&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158137&caId=23684&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158137&caId=23684&tId=4)
-
-#### 10 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Holly Mehlenbeck
 * Scott Bigger - K9kavalry

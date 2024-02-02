@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 02/01 01:30 PM - Transportation (TRAN): SB 6283 Connecting communities prg.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158139&caId=23686&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158139&caId=23686&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158139&caId=23686&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158139&caId=23686&tId=4)
-
-#### 27 👍 - Pro
+#### 30 👍 - Pro
 
 #### 0 👎 - Con
 

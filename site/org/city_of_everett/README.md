@@ -14,7 +14,7 @@
 
 ## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍1  
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍2  
 
 ## [HB 1983](/bill/2023-24/hb/1983/) - Criminal justice trtmnt acct 👍1  
 
@@ -25,7 +25,7 @@
 
 ## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities 👍1  
 
-## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍1  
+## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍2  
 
 ## [HB 2307](/bill/2023-24/hb/2307/) - Public records reviews 👍1  
 

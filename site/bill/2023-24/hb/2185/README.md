@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 02/02 10:30 AM - Appropriations (APP): SHB 2185 DCYF oversight board
@@ -14,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31827&aId=158486&caId=23818&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31827&aId=158486&caId=23818&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 
 #### 0 👎 - Con
 

@@ -8,17 +8,19 @@
 
 ## Meetings
 ### Thu 02/01 01:30 PM - Transportation (TRAN): SB 6302 Supply chain competitiveness
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158140&caId=23687&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158140&caId=23687&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158140&caId=23687&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158140&caId=23687&tId=4)
-
-#### 13 👍 - Pro
+#### 43 👍 - Pro
+Testifying:
+* Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Lisa Lefeber - [Port of Everett](/org/port_of_everett/)
+* Rob Fix - [Port of Bellingham](/org/port_of_bellingham/)
+* 💵Amber Carter - [Port of Vancouver](/org/port_of_vancouver/)
+* Cassie Hammond - Port of Benton
+* Sean Eagan - Northwest Seaport Alliance
 
 #### 1 👎 - Con
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Dave Pringle - WA department of commerce
 * Jason Beloso - Washington Department of Transportation

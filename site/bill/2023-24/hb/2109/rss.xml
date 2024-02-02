@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2109/</link>
 		<description>Updates about HB 2109</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 29 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 02 Feb 2024 07:42:21 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -117,6 +117,14 @@
 			<pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-29/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>❓Conor Norris - Colville Confederated Tribes</title>
+			<description>Conor Norris signed up to testify Other.</description>
+			<pubDate>Fri, 02 Feb 2024 07:42:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Conor/Norris/2024-02-02 07:42:21</guid>
 		</item>
 	</channel>
 </rss>

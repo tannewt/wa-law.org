@@ -105,7 +105,7 @@
 
 ## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍2  
 
-## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage 👍1  
+## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage 👍2  
 * 👍💵 Kelly Hall
 
 ## [HB 2262](/bill/2023-24/hb/2262/) - Tire rolling resistance 👍1  
@@ -117,7 +117,7 @@
 
 ## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases 👍1  
 
-## [HB 2465](/bill/2023-24/hb/2465/) - Streamlining the state building code council operating procedures by establishing criteria for statewide amendments to the state building code.   ❓1
+## [HB 2465](/bill/2023-24/hb/2465/) - State building code council   ❓1
 
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial  👎1 
 
@@ -185,7 +185,7 @@
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  
 * 👍💵 Leah Missik
 
-## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍1  
+## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍2  
 * 👍💵 Kelly Hall
 
 ## [SB 6071](/bill/2023-24/sb/6071/) - Oil exporters/human rights 👍1  

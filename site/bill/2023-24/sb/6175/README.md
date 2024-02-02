@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Thu 02/01 01:30 PM - Ways & Means (WM): SSB 6175 Existing structures/housing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158421&caId=23783&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158421&caId=23783&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158421&caId=23783&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158421&caId=23783&tId=4)
-
-#### 18 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Andrew Rolwes - Downtown Spokane Partnership
 * CHRIS BATTEN - 135
@@ -23,6 +17,7 @@ Testifying:
 * Robert Pantley - Natural and Built Environments
 * Marc Angelillo - Urban Housing Ventures
 * Tim Cavanaugh - Urban Housing Ventures
+* McKenzie Darr - NAIOP-WA
 
 #### 0 👎 - Con
 

@@ -40,7 +40,7 @@
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
-## [HB 2065](/bill/2023-24/hb/2065/) - Recalculating sentencing ranges for currently incarcerated individuals whose offender score was increased by juvenile convictions. 👍1  
+## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍1  
 
 ## [HB 2076](/bill/2023-24/hb/2076/) - Human trafficking crimes   ❓1
 * ❓ Nicholas Oakley
@@ -84,6 +84,6 @@
 
 ## [SB 6063](/bill/2023-24/sb/6063/) - Persistent offenders 👍1  
 
-## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍2  
+## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍3  
 
 ## [SB 6109](/bill/2023-24/sb/6109/) - Children and families   ❓1

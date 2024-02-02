@@ -14,3 +14,6 @@
 
 ## [SB 5945](/bill/2023-24/sb/5945/) - Vehicle dealers   ❓1
 * ❓ Jeff Gombosky
+
+## [SB 6304](/bill/2023-24/sb/6304/) - Implementing certain recommendations of the transportation electrification strategy. 👍1  
+* 👍 Jeff Gombosky

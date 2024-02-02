@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 1941 - Providing for health home services for medicaid-eligible children with medically complex conditions.</title>
+		<title>HB 1941 - Health home serv./children</title>
 		<link>https://wa-law.org/bill/2023-24/hb/1941/</link>
 		<description>Updates about HB 1941</description>
 		<language>en-US</language>
@@ -67,6 +67,13 @@
 			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-31/HCW - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-31/Referred to Appropriations.</guid>
 		</item>
 	</channel>
 </rss>

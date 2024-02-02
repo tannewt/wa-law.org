@@ -123,7 +123,7 @@
 
 ## [HB 1978](/bill/2023-24/hb/1978/) - Adding special purpose and junior taxing districts to the intrastate mutual aid system. 👍1  
 
-## [HB 1982](/bill/2023-24/hb/1982/) - Broadband loans & grants 👍1  
+## [HB 1982](/bill/2023-24/hb/1982/) - Broadband loans & grants 👍2  
 * 👍 Chris Herman
 
 ## [HB 1987](/bill/2023-24/hb/1987/) - Concerning the use of moneys from the rural public facilities sales and use tax for affordable workforce housing infrastructure and facilities.   ❓2
@@ -159,7 +159,7 @@
 ## [HB 2393](/bill/2023-24/hb/2393/) - Unleaded aircraft fuel/tax 👍1  
 * 👍 Chris Herman
 
-## [HB 2417](/bill/2023-24/hb/2417/) - Renewable energy loans 👍1  
+## [HB 2417](/bill/2023-24/hb/2417/) - Renewable energy loans 👍2  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 * ❓ Eric ffitch
@@ -274,6 +274,9 @@
 * ❓ Chris Herman
 
 ## [SB 6202](/bill/2023-24/sb/6202/) - Tourism promotion exemptions 👍1  
+
+## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍1  
+* 👍 Chris Herman
 
 ## [SJM 8009](/bill/2023-24/sjm/8009/) - Harbor maintenance tax 👍1  
 * 👍 Chris Herman

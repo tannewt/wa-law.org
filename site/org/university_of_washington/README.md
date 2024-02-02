@@ -103,7 +103,7 @@
 
 ## [HB 2041](/bill/2023-24/hb/2041/) - Physician assistant practice 👍1  
 
-## [HB 2065](/bill/2023-24/hb/2065/) - Recalculating sentencing ranges for currently incarcerated individuals whose offender score was increased by juvenile convictions. 👍1  
+## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍1  
 * 👍 Dr. Katherine Beckett
 
 ## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍1  

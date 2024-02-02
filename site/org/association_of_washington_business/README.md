@@ -358,7 +358,8 @@
 
 ## [HB 2045](/bill/2023-24/hb/2045/) - Adopt a fish barrier program 👍1  
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management  👎1 
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management  👎2 
+* 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 
 ## [HB 2051](/bill/2023-24/hb/2051/) - Reducing emissions from small off-road engines.  👎1 
@@ -405,14 +406,16 @@
 ## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities   ❓1
 * ❓💵 Amy Anderson
 
-## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage   ❓1
+## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage   ❓2
+* ❓💵 Peter Godlewski
 * ❓💵 Peter Godlewski
 
 ## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍2  
 
 ## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍1  
 
-## [HB 2236](/bill/2023-24/hb/2236/) - Tech. ed. core plus programs   ❓1
+## [HB 2236](/bill/2023-24/hb/2236/) - Tech. ed. core plus programs   ❓2
+* ❓💵 Emily Wittman
 * ❓💵 Emily Wittman
 
 ## [HB 2243](/bill/2023-24/hb/2243/) - Social equity land trust 👍1  
@@ -449,6 +452,8 @@
 
 ## [HB 2373](/bill/2023-24/hb/2373/) - Adopt-a-highway program  👎1 
 
+## [HB 2422](/bill/2023-24/hb/2422/) - Affordable housing/rural 👍1  
+
 ## [HB 2425](/bill/2023-24/hb/2425/) - Rental support program   ❓1
 * ❓ Morgan Irwin
 
@@ -458,7 +463,7 @@
 ## [HB 2464](/bill/2023-24/hb/2464/) - Concerning the development of new manufactured/mobile homes and new manufactured/mobile home communities. 👍1  
 * 👍 Morgan Irwin
 
-## [HB 2465](/bill/2023-24/hb/2465/) - Streamlining the state building code council operating procedures by establishing criteria for statewide amendments to the state building code. 👍1  
+## [HB 2465](/bill/2023-24/hb/2465/) - State building code council 👍1  
 
 ## [HB 2468](/bill/2023-24/hb/2468/) - Concerning the siting of child care facilities. 👍1  
 
@@ -483,7 +488,7 @@
 
 ## [SB 5103](/bill/2023-24/sb/5103/) - Medicaid patients/discharge 👍2  
 
-## [SB 5118](/bill/2023-24/sb/5118/) - Multifamily property tax ex.  👎1 ❓1
+## [SB 5118](/bill/2023-24/sb/5118/) - Multifamily property tax ex.  👎1 ❓2
 * ❓💵 Michael Ennis
 * 👎 Morgan Irwin
 
@@ -714,6 +719,8 @@
 
 ## [SB 5941](/bill/2023-24/sb/5941/) - Subsidized child care 👍1  
 
+## [SB 5955](/bill/2023-24/sb/5955/) - Large port districts  👎1 
+
 ## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras  👎1 
 * 👎 Morgan Irwin
 
@@ -740,7 +747,8 @@
 
 ## [SB 6055](/bill/2023-24/sb/6055/) - Natural resource indus. dev. 👍1  
 
-## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage   ❓1
+## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage   ❓2
+* ❓💵 Peter Godlewski
 * ❓💵 Peter Godlewski
 
 ## [SB 6064](/bill/2023-24/sb/6064/) - Pet fees, deposits  👎1 
@@ -772,7 +780,7 @@
 ## [SB 6168](/bill/2023-24/sb/6168/) - International leadership 👍1  
 * 👍💵 Amy Anderson
 
-## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍1  
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍2  
 
 ## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management  👎1 
 * 👎💵 Peter Godlewski
@@ -790,3 +798,6 @@
 ## [SB 6296](/bill/2023-24/sb/6296/) - Establishing a retail industry work group. 👍1  
 
 ## [SB 6300](/bill/2023-24/sb/6300/) - College grant/public assist. 👍1  
+
+## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍1  
+* 👍 Morgan Irwin

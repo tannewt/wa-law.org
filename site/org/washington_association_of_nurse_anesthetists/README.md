@@ -17,6 +17,8 @@
 
 ## [HB 1655](/bill/2023-24/hb/1655/) - Provider contract comp. 👍2  
 
+## [HB 2073](/bill/2023-24/hb/2073/) - Greenhouse gas other sources 👍1  
+
 ## [HB 2416](/bill/2023-24/hb/2416/) - ARNP legal title 👍1  
 
 ## [SB 5184](/bill/2023-24/sb/5184/) - Anesthesiologist assistants  👎16 

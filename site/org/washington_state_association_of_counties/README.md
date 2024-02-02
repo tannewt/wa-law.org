@@ -208,7 +208,7 @@
 ## [HB 2063](/bill/2023-24/hb/2063/) - Providing an exemption from the real estate excise tax for transfers of property to qualifying low-income first-time homebuyers.  👎1 
 * 👎💵 Paul Jewell
 
-## [HB 2065](/bill/2023-24/hb/2065/) - Recalculating sentencing ranges for currently incarcerated individuals whose offender score was increased by juvenile convictions.  👎1 
+## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc.  👎1 
 * 👎💵 Juliana Roe
 
 ## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects   ❓1

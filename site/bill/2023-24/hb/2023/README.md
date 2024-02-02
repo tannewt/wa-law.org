@@ -8,17 +8,11 @@
 
 ## Meetings
 ### Thu 02/01 10:30 AM - Appropriations (APP): HB 2023 Elections/language assist.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158370&caId=23777&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158370&caId=23777&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158370&caId=23777&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158370&caId=23777&tId=4)
-
-#### 89 👍 - Pro
+#### 100 👍 - Pro
 Testifying:
 * 💵Alex Hur - OneAmerica
 
-#### 3 👎 - Con
+#### 6 👎 - Con
 
 #### 0 ❓ - Other
 

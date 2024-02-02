@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2442/</link>
 		<description>Updates about HB 2442</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 31 Jan 2024 08:02:59 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 31 Jan 2024 09:19:58 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -55,7 +55,7 @@
 			<guid isPermaLink="false">testifier/Steve/Williams/2024-01-29 07:01:36</guid>
 		</item>
 		<item>
-			<title>👎Katherine DeRosier - Concerns of police survivors</title>
+			<title>👎Katherine DeRosier - WA Fraternal Order of Police</title>
 			<description>Katherine DeRosier signed up to testify Con.</description>
 			<pubDate>Mon, 29 Jan 2024 07:38:14 GMT</pubDate>
 			<category>testifier</category>
@@ -63,7 +63,7 @@
 			<guid isPermaLink="false">testifier/Katherine/DeRosier/2024-01-29 07:38:14</guid>
 		</item>
 		<item>
-			<title>👎Calden Santiago - Concerns of police survivors</title>
+			<title>👎Calden Santiago - WA Fraternal Order of Police</title>
 			<description>Calden Santiago signed up to testify Con.</description>
 			<pubDate>Tue, 30 Jan 2024 01:30:08 GMT</pubDate>
 			<category>testifier</category>
@@ -71,7 +71,7 @@
 			<guid isPermaLink="false">testifier/Calden/Santiago/2024-01-30 01:30:08</guid>
 		</item>
 		<item>
-			<title>👎Melissa Sager - Concerns of police survivors</title>
+			<title>👎Melissa Sager - WA Fraternal Order of Police</title>
 			<description>Melissa Sager signed up to testify Con.</description>
 			<pubDate>Tue, 30 Jan 2024 02:07:23 GMT</pubDate>
 			<category>testifier</category>
@@ -79,7 +79,7 @@
 			<guid isPermaLink="false">testifier/Melissa/Sager/2024-01-30 02:07:23</guid>
 		</item>
 		<item>
-			<title>👎Carey Nolan - Concerns of police survivors</title>
+			<title>👎Carey Nolan - WA Fraternal Order of Police</title>
 			<description>Carey Nolan signed up to testify Con.</description>
 			<pubDate>Tue, 30 Jan 2024 03:04:54 GMT</pubDate>
 			<category>testifier</category>
@@ -95,7 +95,7 @@
 			<guid isPermaLink="false">testifier/Dianne/Bernhard/2024-01-30 03:58:09</guid>
 		</item>
 		<item>
-			<title>👎Crystal Linville - Concerns of police survivors</title>
+			<title>👎Crystal Linville - WA Fraternal Order of Police</title>
 			<description>Crystal Linville signed up to testify Con.</description>
 			<pubDate>Tue, 30 Jan 2024 04:32:11 GMT</pubDate>
 			<category>testifier</category>
@@ -213,6 +213,22 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Mike/Lester/2024-01-31 08:02:59</guid>
+		</item>
+		<item>
+			<title>👍James Schrimpsher - WA Fraternal Order of Police</title>
+			<description>James Schrimpsher signed up to testify Pro. They are signed up to represent WA Fraternal Order of Police.</description>
+			<pubDate>Wed, 31 Jan 2024 09:19:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/James/Schrimpsher/2024-01-31 09:19:58</guid>
+		</item>
+		<item>
+			<title>👍Marco Monteblanco - WA Fraternal Order of Police</title>
+			<description>Marco Monteblanco signed up to testify Pro. They are signed up to represent WA Fraternal Order of Police.</description>
+			<pubDate>Wed, 31 Jan 2024 09:19:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Marco/Monteblanco/2024-01-31 09:19:58</guid>
 		</item>
 	</channel>
 </rss>

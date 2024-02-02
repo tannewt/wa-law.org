@@ -11,25 +11,20 @@
 
 ## Meetings
 ### Thu 02/01 01:30 PM - Ways & Means (WM): SB 5981 Early release petitions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158165&caId=23697&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158165&caId=23697&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158165&caId=23697&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158165&caId=23697&tId=4)
-
-#### 55 👍 - Pro
+#### 63 👍 - Pro
 Testifying:
 * Chris Ativalu-Ford - TVW's Capitol Classroom
 * Edgar Calixto - TVW's Capitol Classroom
 * Ronald Ackerson Jr - TVW's Capitol Classroom
 * TJ Pullar - TVW's Capitol Classroom
+* 💵Karen Pillar - TeamChild
 
 #### 3 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 01/15 10:30 AM - Human Services (HS): SB 5981 Early release petitions
 #### 53 👍 - Pro

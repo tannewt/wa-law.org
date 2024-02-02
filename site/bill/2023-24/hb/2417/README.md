@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Thu 02/01 08:00 AM - Capital Budget (CB): HB 2417 Renewable energy loans
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158012&caId=23705&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158012&caId=23705&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158012&caId=23705&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158012&caId=23705&tId=4)
-
-#### 17 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * 💵Chelsea Martin - [Modern Electric Water Company](/org/modern_electric_water_company/)
 * Steve Ghan
@@ -28,7 +22,8 @@ Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Laura Feldman
 
-#### 36 ❓ - Other
+#### 45 ❓ - Other
 Testifying:
 * Dave Pringle - Dept. of Commerce
+* 💵Suellen Mele
 * Cathryn Chudy

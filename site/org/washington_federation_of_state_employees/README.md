@@ -56,7 +56,7 @@
 
 ## [HB 1970](/bill/2023-24/hb/1970/) - DCYF-caregiver communication  👎1 
 
-## [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg 👍1  
+## [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg 👍2  
 
 ## [HB 2022](/bill/2023-24/hb/2022/) - Construction crane safety 👍1  
 
@@ -141,7 +141,7 @@
 
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  
 
-## [SB 5776](/bill/2023-24/sb/5776/) - Insulin emergency supply 👍1  
+## [SB 5776](/bill/2023-24/sb/5776/) - Insulin emergency supply 👍2  
 
 ## [SB 5777](/bill/2023-24/sb/5777/) - Unemp ins/strikes & lockouts 👍2  
 
@@ -179,6 +179,8 @@
 ## [SB 6007](/bill/2023-24/sb/6007/) - Grocery workers 👍1  
 
 ## [SB 6060](/bill/2023-24/sb/6060/) - Electronic signatures/PERC 👍1  
+
+## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍1  
 
 ## [SB 6085](/bill/2023-24/sb/6085/) - Underground economy 👍1  
 

@@ -15,7 +15,7 @@
 ### Wed 01/17 10:30 AM - Housing (HSG): SB 6136 Rental property B&O tax
 #### 65 👍 - Pro
 Testifying:
-* Matthew Lang - Transit Riders Union
+* 💵Matthew Lang - Transit Riders Union
 * 💵Ishbel Dickens - Assoc of Manufactured Home Owners
 * Terri Anderson - Tenants Union of Washington State
 * 💵Edith Baltazar - Firelands Workers Action/Acción de Trabajadores

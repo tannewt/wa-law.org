@@ -13,23 +13,18 @@
 
 ## Meetings
 ### Thu 02/01 01:30 PM - Ways & Means (WM): SSB 5972 Neonicotinoid pesticides
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158158&caId=23690&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158158&caId=23690&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158158&caId=23690&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158158&caId=23690&tId=4)
-
-#### 218 👍 - Pro
+#### 232 👍 - Pro
 Testifying:
 * Erin Sullivan - Woodland Park Zoo
 * Rosemary Malfi - The Xerces Society for Invertebrate Conservation
 
-#### 4 👎 - Con
+#### 6 👎 - Con
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Justin Gulino - National Caucus of Environmental Legislators
 * 💵Christopher Finarelli
+* Ben Buchholz - WA Friends of Farms and Forests, Far West Agribusiness Association, NW Ag Cooperative Council
 * Kelly McLain - Washington State Department of Agriculture
 * John Roskelley
 

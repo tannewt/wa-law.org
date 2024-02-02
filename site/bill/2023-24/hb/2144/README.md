@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Thu 02/01 08:00 AM - Finance (FIN): SHB 2144 Beverage deposit return prg.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31808&aId=158123&caId=23716&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31808&aId=158123&caId=23716&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31808&aId=158123&caId=23716&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31808&aId=158123&caId=23716&tId=4)
-
-#### 435 👍 - Pro
+#### 460 👍 - Pro
 Testifying:
 * Jonathan Smith - Issaquah Volunteer Litter Clean-up Group
 * Eric Chambers - [Oregon Beverage Recycling Cooperative](/org/oregon_beverage_recycling_cooperative/)
@@ -30,7 +24,7 @@ Testifying:
 * 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 
-#### 62 👎 - Con
+#### 64 👎 - Con
 Testifying:
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Tad Sommerville
@@ -39,6 +33,7 @@ Testifying:
 * 💵Jay Balasbas - Sunshine Disposal and Recycling, Basin Disposal
 * Jim Hedrick - Washington Ditillers Guild
 * Mark Lanter - Yakima Waste 2195 Waste Connections
+* Christopher Reigelsperger - WM
 * 💵Vicki Christophersen - Washington Refuse and Recycling Association
 
 #### 5 ❓ - Other

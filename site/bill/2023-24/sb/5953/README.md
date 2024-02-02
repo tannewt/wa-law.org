@@ -18,11 +18,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158433&caId=23794&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158433&caId=23794&tId=4)
 
-#### 18 👍 - Pro
+#### 21 👍 - Pro
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Hanan Al-Zubaidy - SBCTC
 
 ### Tue 01/23 10:30 AM - Human Services (HS): SB 5953 Incarcerated student grants
 #### 14 👍 - Pro

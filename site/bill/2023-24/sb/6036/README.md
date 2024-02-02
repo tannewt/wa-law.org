@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 02/01 01:30 PM - Ways & Means (WM): SB 6036 Agriculture pests & diseases
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158159&caId=23691&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158159&caId=23691&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158159&caId=23691&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31843&aId=158159&caId=23691&tId=4)
-
-#### 8 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Kelly McLain - Washington State Department of Agriculture
 

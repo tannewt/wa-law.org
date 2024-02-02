@@ -16,18 +16,15 @@
 
 ## Meetings
 ### Thu 02/01 10:30 AM - Appropriations (APP): SHB 1062 Law enf. officers/deception
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158363&caId=23770&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158363&caId=23770&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158363&caId=23770&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158363&caId=23770&tId=4)
-
-#### 225 👍 - Pro
+#### 263 👍 - Pro
 Testifying:
 * Brooks Holland - Gonzaga University School of Law - CENTER FOR CIVIL & HUMAN RIGHTS
 * Carol Velazquez - Gonzaga University School of Law - CENTER FOR CIVIL & HUMAN RIGHTS
+* Ramona Brandes - WACDL/WDA
+* Mark Fallon - ClubFed, LLC
+* 💵Lara Zarowsky - [Washington Innocence Project](/org/washington_innocence_project/)
 
-#### 413 👎 - Con
+#### 522 👎 - Con
 Testifying:
 * Jeannette Mcchesney
 * 💵Michael Lindsay - Eatonville
@@ -36,7 +33,7 @@ Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 
 ### Mon 01/08 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1062 Law enf. officers/deception
 #### 106 👍 - Pro

@@ -10,6 +10,6 @@
 ## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍1  
 * 👍 Kimberly Hendrickson
 
-## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍2  
+## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍3  
 
 ## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍1  

@@ -15,9 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158429&caId=23790&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158429&caId=23790&tId=4)
 
-#### 17 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * Tara Urs - King County Department of Public Defense
+* Laurie Lippold - Partners for Our Children
+* Carl McCurley - Admin. Ofc. of the Courts, WA ST Center for Court Research
 
 #### 0 👎 - Con
 

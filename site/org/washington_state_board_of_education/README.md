@@ -204,5 +204,5 @@
 
 ## [SB 6216](/bill/2023-24/sb/6216/) - Student mental health net. 👍1  
 
-## [SB 6264](/bill/2023-24/sb/6264/) - Competency-based education 👍1  
+## [SB 6264](/bill/2023-24/sb/6264/) - Competency-based education 👍2  
 * 👍 Alissa Muller

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2359/</link>
 		<description>Updates about HB 2359</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 31 Jan 2024 06:01:10 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 01 Feb 2024 10:36:38 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -46,6 +46,30 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Taylor/Gardner/2024-01-31 06:01:10</guid>
+		</item>
+		<item>
+			<title>👍Dr. Graham Pruss - National Vehicle Residency Collective</title>
+			<description>Dr. Graham Pruss signed up to testify Pro. They are signed up to represent National Vehicle Residency Collective.</description>
+			<pubDate>Wed, 31 Jan 2024 09:06:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dr. Graham/Pruss/2024-01-31 09:06:55</guid>
+		</item>
+		<item>
+			<title>❓Peter Lukevicvh - Towing and Recovery Association of Washington</title>
+			<description>Peter Lukevicvh signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/towing_and_recovery_association_of_washington/&quot;&gt;Towing and Recovery Association of Washington&lt;/a&gt;.</description>
+			<pubDate>Wed, 31 Jan 2024 09:37:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Peter/Lukevicvh/2024-01-31 09:37:10</guid>
+		</item>
+		<item>
+			<title>❓Fadi Assaf - Northwest Justice Project</title>
+			<description>Fadi Assaf signed up to testify Other. They are signed up to represent Northwest Justice Project.</description>
+			<pubDate>Thu, 01 Feb 2024 10:36:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Fadi/Assaf/2024-02-01 10:36:38</guid>
 		</item>
 	</channel>
 </rss>

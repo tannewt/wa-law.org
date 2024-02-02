@@ -19,9 +19,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158545&caId=23834&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158545&caId=23834&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
 
-#### 1 👎 - Con
+#### 353 👎 - Con
+Testifying:
+* Jeannette Mcchesney
+* Marian LaFountaine
+* bobbi moody
 
 #### 0 ❓ - Other
 

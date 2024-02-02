@@ -7,6 +7,8 @@
 
 ## [HB 2156](/bill/2023-24/hb/2156/) - Solar consumer protections 👍1  
 
+## [HB 2417](/bill/2023-24/hb/2417/) - Renewable energy loans 👍1  
+
 ## [SB 5039](/bill/2023-24/sb/5039/) - Wildfires/electric utilities 👍1  
 * 👍💵 Andy Barth
 

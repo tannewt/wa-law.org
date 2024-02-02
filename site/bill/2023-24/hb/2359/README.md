@@ -8,20 +8,18 @@
 
 ## Meetings
 ### Thu 02/01 10:30 AM - Transportation (TR): HB 2359 Vehicle impounds
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31831&aId=158483&caId=23798&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31831&aId=158483&caId=23798&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31831&aId=158483&caId=23798&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31831&aId=158483&caId=23798&tId=4)
-
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * David Sedelmeier
 * Kristina M Sawyckyj
 * 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
+* Dr. Graham Pruss - National Vehicle Residency Collective
 
-#### 23 👎 - Con
+#### 63 👎 - Con
 Testifying:
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Peter Lukevicvh - [Towing and Recovery Association of Washington](/org/towing_and_recovery_association_of_washington/)
+* Fadi Assaf - Northwest Justice Project

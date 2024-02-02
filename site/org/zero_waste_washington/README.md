@@ -43,7 +43,7 @@
 ## [HB 1933](/bill/2023-24/hb/1933/) - Supporting the servicing and right to repair of certain products with digital electronics in a secure and reliable manner. 👍1  
 * 👍💵 Heather Trim
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍1  
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍2  
 * 👍💵 Heather Trim
 
 ## [HB 2068](/bill/2023-24/hb/2068/) - Fashion/environmental impact 👍1  
@@ -121,7 +121,8 @@
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
 * 👍💵 Heather Trim
 
-## [SB 6163](/bill/2023-24/sb/6163/) - Biosolids 👍1  
+## [SB 6163](/bill/2023-24/sb/6163/) - Biosolids 👍2  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
 ## [SB 6174](/bill/2023-24/sb/6174/) - Highways/mowing & litter 👍1  
@@ -133,3 +134,6 @@
 * 👍💵 Heather Trim
 
 ## [SB 6278](/bill/2023-24/sb/6278/) - Organic agriculture 👍1  
+
+## [SB 6304](/bill/2023-24/sb/6304/) - Implementing certain recommendations of the transportation electrification strategy. 👍1  
+* 👍💵 Heather Trim

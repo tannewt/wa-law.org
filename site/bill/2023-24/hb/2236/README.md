@@ -12,17 +12,14 @@
 
 ## Meetings
 ### Thu 02/01 10:30 AM - Appropriations (APP): SHB 2236 Tech. ed. core plus programs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158453&caId=23813&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158453&caId=23813&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158453&caId=23813&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158453&caId=23813&tId=4)
-
-#### 32 👍 - Pro
+#### 48 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Michele Willms - Associated General Contractors of Washington (AGC)
+* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
 
 ### Tue 01/16 04:00 PM - Education (ED): HB 2236 Tech. ed. core plus programs
 #### 21 👍 - Pro

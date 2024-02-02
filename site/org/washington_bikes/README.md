@@ -64,3 +64,5 @@
 
 ## [SB 6010](/bill/2023-24/sb/6010/) - SEPA/trails and paths 👍1  
 * 👍 Lee Lambert
+
+## [SB 6283](/bill/2023-24/sb/6283/) - Connecting communities prg. 👍1  

@@ -47,7 +47,7 @@
 ## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands. 👍1  
 
 ## [SB 5846](/bill/2023-24/sb/5846/) - Beaver ecosystem management 👍1  
-* 👍 Nadine Nadow
+* 👍💵 Nadine Nadow
 
 ## [SB 5939](/bill/2023-24/sb/5939/) - Livestock wolf predation  👎1 
 * 👎💵 Paula Swedeen

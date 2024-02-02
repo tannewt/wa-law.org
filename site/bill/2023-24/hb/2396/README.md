@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/27/2024 [The Seattle Times](/org/the_seattle_times/) - [Ivan’s Law would promote fentanyl prevention, services, testing | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/ivans-law-would-promote-fentanyl-prevention-services-testing/#:~:text=House%20Bill%202396)

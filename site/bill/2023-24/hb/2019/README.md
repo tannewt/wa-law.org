@@ -11,15 +11,12 @@
 
 ## Meetings
 ### Thu 02/01 10:30 AM - Appropriations (APP): HB 2019 Native American apprentices
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158357&caId=23764&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158357&caId=23764&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158357&caId=23764&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158357&caId=23764&tId=4)
+#### 34 👍 - Pro
+Testifying:
+* Erin Fraiser - Washington building and construction trades council
+* 💵Matthew Hepner - IBEW/ceww
 
-#### 22 👍 - Pro
-
-#### 433 👎 - Con
+#### 468 👎 - Con
 Testifying:
 * Jeannette Mcchesney
 

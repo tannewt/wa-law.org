@@ -2,7 +2,7 @@
 
 ## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy  👎1 
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management  👎1 
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management  👎2 
 
 ## [HB 2051](/bill/2023-24/hb/2051/) - Reducing emissions from small off-road engines.  👎1 
 

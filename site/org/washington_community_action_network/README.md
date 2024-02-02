@@ -9,7 +9,7 @@
 
 ## [HB 1268](/bill/2023-24/hb/1268/) - Sentencing enhancements 👍1  
 
-## [HB 2065](/bill/2023-24/hb/2065/) - Recalculating sentencing ranges for currently incarcerated individuals whose offender score was increased by juvenile convictions. 👍1  
+## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍1  
 
 ## [HB 2095](/bill/2023-24/hb/2095/) - Gift certificates/unclaimed 👍1  
 

@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Thu 02/01 08:00 AM - Capital Budget (CB): HB 1982 Broadband loans & grants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158010&caId=23703&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158010&caId=23703&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158010&caId=23703&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158010&caId=23703&tId=4)
-
-#### 70 👍 - Pro
+#### 81 👍 - Pro
 Testifying:
 * Ariane Schmidt - Broadlinc PDA of Spokane
 * Michael Echanove - CERB - Community Economic Revitalization Board

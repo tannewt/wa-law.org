@@ -21,15 +21,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158527&caId=23804&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158527&caId=23804&tId=4)
 
-#### 5 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Meera Badari
+* Nomy Lamm - JVP Olympia
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Rebekah Erev
 
 ### Wed 01/17 10:30 AM - Early Learning & K-12 Education (EDU): SB 5851 Holocaust and genocide edu.
 #### 880 👍 - Pro

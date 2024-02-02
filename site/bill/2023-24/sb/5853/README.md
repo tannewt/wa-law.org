@@ -15,11 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158269&caId=23747&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158269&caId=23747&tId=4)
 
-#### 183 👍 - Pro
+#### 242 👍 - Pro
 Testifying:
 * Kashi Arora - Seattle Children's
+* 💵Michael Transue - National Alliance on Mental Illness and Connections Health Solutions
+* Emily Ferrell - WA Chapter of the American Academy of Pediatrics
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

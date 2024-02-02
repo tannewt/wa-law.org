@@ -13,15 +13,10 @@
 
 ## Meetings
 ### Thu 02/01 08:00 AM - Capital Budget (CB): SHB 2172 Vacant state agency property
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158011&caId=23704&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158011&caId=23704&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158011&caId=23704&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31862&aId=158011&caId=23704&tId=4)
-
-#### 7 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Jamie Spinelli - Homeless Response Manager, City of Vancouver
+* Glen Yung
 * Michael Lynch
 
 #### 4 👎 - Con

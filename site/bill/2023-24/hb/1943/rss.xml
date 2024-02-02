@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1943/</link>
 		<description>Updates about HB 1943</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 09:39:22 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 01 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -138,6 +138,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Reese/Ramirez/2024-01-22 09:39:22</guid>
+		</item>
+		<item>
+			<title>APP - Executive action taken by committee.</title>
+			<description>APP - Executive action taken by committee.</description>
+			<pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-01/APP - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

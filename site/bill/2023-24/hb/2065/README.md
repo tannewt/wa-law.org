@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 2065](/bill/2023-24/hb/2065/)
 
-# HB 2065 - Recalculating sentencing ranges for currently incarcerated individuals whose offender score was increased by juvenile convictions.
+# HB 2065 - Offender score recalc.
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=2065&Year=2023&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/27/2024 [NW News Network](/org/nw_news_network/) - [Natural gas, opioids and DUIs: Highlights from week 3 of Washington's legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-26/natural-gas-opioids-and-duis-highlights-from-week-3-of-washingtons-legislative-session#:~:text=House%20Bill%202065)

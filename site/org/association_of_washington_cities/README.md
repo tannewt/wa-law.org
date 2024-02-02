@@ -616,7 +616,7 @@
 
 ## [SB 5834](/bill/2023-24/sb/5834/) - Urban growth areas 👍1  
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍3  
 
 ## [SB 5872](/bill/2023-24/sb/5872/) - Concerning vehicle and operator requirements for autonomous vehicles. 👍1  
 
@@ -689,7 +689,7 @@
 ## [SB 6167](/bill/2023-24/sb/6167/) - Local government procurement 👍1  
 * 👍 Brandy DeLange
 
-## [SB 6171](/bill/2023-24/sb/6171/) - Child care/nonstandard hours   ❓1
+## [SB 6171](/bill/2023-24/sb/6171/) - Child care/nonstandard hours 👍1  ❓1
 * ❓💵 Lindsey Hueer
 
 ## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍2  

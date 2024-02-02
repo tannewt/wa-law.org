@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6052/</link>
 		<description>Updates about SB 6052</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 31 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 01 Feb 2024 12:57:42 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -203,6 +203,30 @@
 			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-31/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👎Jeannette Mcchesney - City of Ellensburg</title>
+			<description>Jeannette Mcchesney signed up to testify Con.</description>
+			<pubDate>Thu, 01 Feb 2024 08:44:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jeannette/Mcchesney/2024-02-01 08:44:37</guid>
+		</item>
+		<item>
+			<title>👎Marian LaFountaine - City of Ellensburg</title>
+			<description>Marian LaFountaine signed up to testify Con.</description>
+			<pubDate>Thu, 01 Feb 2024 12:13:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Marian/LaFountaine/2024-02-01 12:13:45</guid>
+		</item>
+		<item>
+			<title>👎bobbi moody - City of Ellensburg</title>
+			<description>bobbi moody signed up to testify Con.</description>
+			<pubDate>Thu, 01 Feb 2024 12:57:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/bobbi/moody/2024-02-01 12:57:42</guid>
 		</item>
 	</channel>
 </rss>

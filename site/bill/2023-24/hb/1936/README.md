@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/23 08:00 AM - Finance (FIN): HB 1936 Tax incentives for farmers

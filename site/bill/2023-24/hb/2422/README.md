@@ -11,16 +11,14 @@
 
 ## Meetings
 ### Fri 02/02 08:00 AM - Finance (FIN): HB 2422 Affordable housing/rural
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31809&aId=158124&caId=23717&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31809&aId=158124&caId=23717&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31809&aId=158124&caId=23717&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31809&aId=158124&caId=23717&tId=4)
-
-#### 6 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Jim Mitchell - Douglas County
+* Riley Wilkinson - Wilkinson Corporation
 
-#### 4 👎 - Con
+#### 7 👎 - Con
+Testifying:
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
 #### 0 ❓ - Other

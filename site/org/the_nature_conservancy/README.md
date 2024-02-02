@@ -83,7 +83,7 @@
 
 ## [HB 1870](/bill/2023-24/hb/1870/) - Promoting economic development by increasing opportunities for local communities to secure federal funding. 👍1  
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍1  
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍2  
 
 ## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects 👍1  
 * 👍 Jamie Stroble
@@ -97,7 +97,7 @@
 
 ## [HB 2129](/bill/2023-24/hb/2129/) - Geothermal energy resources 👍1  
 
-## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage 👍1  
+## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage 👍2  
 * 👍 Skippy Shaw
 
 ## [HB 2243](/bill/2023-24/hb/2243/) - Social equity land trust 👍1  
@@ -174,7 +174,7 @@
 
 ## [SB 5910](/bill/2023-24/sb/5910/) - Creating the state department of natural resources' Smokey Bear special license plates. 👍1  
 
-## [SB 5946](/bill/2023-24/sb/5946/) - Fallen firefighter memorial 👍1  
+## [SB 5946](/bill/2023-24/sb/5946/) - Fallen firefighter memorial 👍2  
 
 ## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  
 * 👍 Scott Richards
@@ -188,7 +188,7 @@
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  
 * 👍 Skippy Shaw
 
-## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍1  
+## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍2  
 * 👍 Skippy Shaw
 
 ## [SB 6121](/bill/2023-24/sb/6121/) - Biochar production 👍1  

@@ -12,20 +12,19 @@
 
 ## Meetings
 ### Thu 02/01 01:30 PM - Transportation (TRAN): SB 5209 Universal civic duty voting
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158488&caId=23799&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158488&caId=23799&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158488&caId=23799&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31806&aId=158488&caId=23799&tId=4)
+#### 63 👍 - Pro
+Testifying:
+* Miles Rapoport - 100% Democracy: An Initiative for Universal Voting
 
-#### 28 👍 - Pro
-
-#### 92 👎 - Con
+#### 161 👎 - Con
 Testifying:
 * Tim Eyman - INITIATIVE ACTIVIST
 * Jeffrey Pack - Washington Citizens Against Unfair Taxes
 * Mary Long - Conservative Ladies of Washington
 * Sharon Damoff
+* Laurie Layne
+* David Sedelmeier
+* Gabriel Jacobs
 
 #### 0 ❓ - Other
 

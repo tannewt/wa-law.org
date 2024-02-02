@@ -11,4 +11,6 @@
 ## [HB 2073](/bill/2023-24/hb/2073/) - Greenhouse gas other sources   ❓1
 * ❓💵 Greg Hanon
 
+## [HB 2147](/bill/2023-24/hb/2147/) - Concerning agriculture pest and disease response. 👍1  
+
 ## [SB 6036](/bill/2023-24/sb/6036/) - Agriculture pests & diseases 👍1  

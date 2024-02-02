@@ -209,4 +209,6 @@
 ## [SB 6230](/bill/2023-24/sb/6230/) - Tax increment areas  👎1 
 * 👎 Michael Olson
 
+## [SB 6251](/bill/2023-24/sb/6251/) - Behavioral crisis coord. 👍1  
+
 ## [SB 6285](/bill/2023-24/sb/6285/) - Use of impact fees  👎2 

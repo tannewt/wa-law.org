@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Thu 02/01 10:30 AM - Appropriations (APP): SHB 2073 Greenhouse gas other sources
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158361&caId=23768&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158361&caId=23768&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158361&caId=23768&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31826&aId=158361&caId=23768&tId=4)
-
-#### 304 👍 - Pro
+#### 369 👍 - Pro
 Testifying:
 * Elizabeth Hansen
 * Ruth Williams
@@ -24,12 +18,12 @@ Testifying:
 * Annemarie Dooley - Washington Physicians for Social Responsibility
 * 💵Amy Brackenbury - Washington State Society of Anesthesiologists
 
-#### 497 👎 - Con
+#### 554 👎 - Con
 Testifying:
 * Jeannette Mcchesney
 * James Ware
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * John Gibbons - Immediate Past President of WSDA
 

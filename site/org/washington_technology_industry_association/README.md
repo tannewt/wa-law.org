@@ -22,6 +22,8 @@
 ## [HB 1793](/bill/2023-24/hb/1793/) - Wireless devices tax  👎1 
 * 👎💵 Kelly Fukai
 
+## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍1  
+
 ## [HB 1934](/bill/2023-24/hb/1934/) - AI task force   ❓1
 * ❓💵 Kelly Fukai
 
@@ -32,7 +34,7 @@
 
 ## [HB 2008](/bill/2023-24/hb/2008/) - Housing cost task force 👍1  
 
-## [HB 2019](/bill/2023-24/hb/2019/) - Establishing a Native American apprentice assistance program. 👍1  
+## [HB 2019](/bill/2023-24/hb/2019/) - Establishing a Native American apprentice assistance program. 👍2  
 
 ## [HB 2149](/bill/2023-24/hb/2149/) - Protecting consumer personal information.  👎1 
 * 👎💵 Kelly Fukai
@@ -51,6 +53,8 @@
 ## [HB 2360](/bill/2023-24/hb/2360/) - Digital workforce 👍1  
 
 ## [HB 2382](/bill/2023-24/hb/2382/) - TNC driver death benefits  👎1 
+
+## [HB 2482](/bill/2023-24/hb/2482/) - Semiconductor tax incentives 👍1  
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍4  
 

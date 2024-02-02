@@ -155,7 +155,7 @@
 
 ## [HB 1916](/bill/2023-24/hb/1916/) - Concerning funding for the early support for infants and toddlers program. 👍1  
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍2  
 
 ## [HB 1934](/bill/2023-24/hb/1934/) - AI task force 👍1  
 
@@ -165,6 +165,8 @@
 
 ## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍2  
 
+## [HB 1952](/bill/2023-24/hb/1952/) - Concerning long-term community recovery after disasters. 👍1  
+
 ## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
 
 ## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍1  
@@ -173,12 +175,12 @@
 
 ## [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍1  
 
-## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍1  
+## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍2  
 
 ## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍1  
 * 👍 Kelli Larsen
 
-## [HB 2019](/bill/2023-24/hb/2019/) - Establishing a Native American apprentice assistance program. 👍1  
+## [HB 2019](/bill/2023-24/hb/2019/) - Establishing a Native American apprentice assistance program. 👍2  
 
 ## [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg 👍1  
 
@@ -186,7 +188,7 @@
 
 ## [HB 2044](/bill/2023-24/hb/2044/) - Standardizing limitations on voter-approved property tax levies. 👍1  
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍1  
+## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍2  
 
 ## [HB 2054](/bill/2023-24/hb/2054/) - Concerning bulk purchases and transfers of firearms. 👍1  
 
@@ -194,12 +196,14 @@
 
 ## [HB 2063](/bill/2023-24/hb/2063/) - Providing an exemption from the real estate excise tax for transfers of property to qualifying low-income first-time homebuyers. 👍1  
 
+## [HB 2073](/bill/2023-24/hb/2073/) - Greenhouse gas other sources 👍1  
+
 ## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍1  
 * 👍 Amy Smith
 
 ## [HB 2111](/bill/2023-24/hb/2111/) - Subsidized child care 👍1  
 
-## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention 👍1  
+## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention 👍2  
 
 ## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍1  
 
@@ -213,11 +217,11 @@
 
 ## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities 👍1  
 
-## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍1  
+## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍2  
 
 ## [HB 2219](/bill/2023-24/hb/2219/) - Affordable housing/tax ex. 👍1  
 
-## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍1  
+## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍2  
 
 ## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍1  
 
@@ -247,6 +251,8 @@
 ## [HB 2346](/bill/2023-24/hb/2346/) - Health disparities council 👍1  
 
 ## [HB 2348](/bill/2023-24/hb/2348/) - County hospital funding 👍2  
+
+## [HB 2359](/bill/2023-24/hb/2359/) - Vehicle impounds   ❓1
 
 ## [HB 2360](/bill/2023-24/hb/2360/) - Digital workforce 👍1  
 
@@ -389,7 +395,7 @@
 
 ## [SB 5838](/bill/2023-24/sb/5838/) - AI task force 👍2  
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
 
 ## [SB 5870](/bill/2023-24/sb/5870/) - Early learning programs 👍1  
 
@@ -405,6 +411,8 @@
 
 ## [SB 5933](/bill/2023-24/sb/5933/) - Infants and toddlers program 👍1  
 
+## [SB 5946](/bill/2023-24/sb/5946/) - Fallen firefighter memorial 👍1  
+
 ## [SB 5957](/bill/2023-24/sb/5957/) - AI use guidelines 👍1  
 
 ## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  
@@ -416,7 +424,7 @@
 
 ## [SB 5993](/bill/2023-24/sb/5993/) - Voter education   ❓1
 
-## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍1  
+## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍2  
 
 ## [SB 6007](/bill/2023-24/sb/6007/) - Grocery workers 👍1  
 
@@ -431,13 +439,13 @@
 
 ## [SB 6107](/bill/2023-24/sb/6107/) - Construction/sanitary cond. 👍1  
 
-## [SB 6135](/bill/2023-24/sb/6135/) - TANF transitional assistance 👍1  
+## [SB 6135](/bill/2023-24/sb/6135/) - TANF transitional assistance 👍2  
 
 ## [SB 6157](/bill/2023-24/sb/6157/) - Civil service 👍1  
 
 ## [SB 6171](/bill/2023-24/sb/6171/) - Child care/nonstandard hours 👍1  
 
-## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍1  
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍2  
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
 

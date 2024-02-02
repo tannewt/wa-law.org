@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2236/</link>
 		<description>Updates about HB 2236</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 29 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 01 Feb 2024 09:13:33 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -139,6 +139,22 @@
 			<pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-29/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>❓💵Michele Willms - Associated General Contractors of Washington (AGC)</title>
+			<description>Michele Willms signed up to testify Other. They are signed up to represent Associated General Contractors of Washington (AGC). They are a registered lobbyist.</description>
+			<pubDate>Thu, 01 Feb 2024 07:11:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Michele/Willms/2024-02-01 07:11:15</guid>
+		</item>
+		<item>
+			<title>❓💵Emily Wittman - Association of Washington Business</title>
+			<description>Emily Wittman signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/association_of_washington_business/&quot;&gt;Association of Washington Business&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Thu, 01 Feb 2024 09:13:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Emily/Wittman/2024-02-01 09:13:33</guid>
 		</item>
 	</channel>
 </rss>
