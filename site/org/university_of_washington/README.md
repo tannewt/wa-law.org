@@ -195,6 +195,8 @@
 ## [SB 5795](/bill/2023-24/sb/5795/) - Year-round Pacific std. time  👎1 
 * 👎 Laura Prugh
 
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
+
 ## [SB 5883](/bill/2023-24/sb/5883/) - Concerning the burden of proof for special education due process hearings. 👍1  
 
 ## [SB 5913](/bill/2023-24/sb/5913/) - Concerning communication between employees of state institutions of higher education and student athletes regarding name, image, and likeness use. 👍1  

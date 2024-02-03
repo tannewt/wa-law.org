@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158528&caId=23805&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158528&caId=23805&tId=4)
 
-#### 5 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Jerry Pugh - Colfax SD
 

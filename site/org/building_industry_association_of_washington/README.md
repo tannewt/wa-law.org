@@ -310,7 +310,7 @@
 
 ## [SB 5901](/bill/2023-24/sb/5901/) - Co-living housing 👍1  
 
-## [SB 5924](/bill/2023-24/sb/5924/) - Access to personnel records  👎1 
+## [SB 5924](/bill/2023-24/sb/5924/) - Access to personnel records  👎2 
 * 👎💵 Tricia Gullion
 
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants  👎1 

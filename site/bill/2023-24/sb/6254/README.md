@@ -19,7 +19,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158613&caId=23860&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158613&caId=23860&tId=4)
 
-#### 1 👍 - Pro
+#### 15 👍 - Pro
+Testifying:
+* Melissa Beard - Council of Presidents
+* Arlen Harris - SBCTC
+* Ben Mitchell - Foundation for Tacoma Students
 
 #### 0 👎 - Con
 

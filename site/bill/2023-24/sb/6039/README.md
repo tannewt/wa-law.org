@@ -15,7 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158606&caId=23853&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158606&caId=23853&tId=4)
 
-#### 5 👍 - Pro
+#### 19 👍 - Pro
+Testifying:
+* Casey Hanell - [Department of Natural Resources](/org/department_of_natural_resources/)
+* RoseMary LaClair - Nooksack Tribe
 
 #### 0 👎 - Con
 

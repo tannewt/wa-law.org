@@ -9,19 +9,15 @@
 
 ## Meetings
 ### Fri 02/02 01:30 PM - Ways & Means (WM): SSB 5853 Behav crisis services/minors
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158269&caId=23747&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158269&caId=23747&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158269&caId=23747&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158269&caId=23747&tId=4)
-
-#### 242 👍 - Pro
+#### 280 👍 - Pro
 Testifying:
 * Kashi Arora - Seattle Children's
 * 💵Michael Transue - National Alliance on Mental Illness and Connections Health Solutions
 * Emily Ferrell - WA Chapter of the American Academy of Pediatrics
 
-#### 2 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Steven Pearce - Citizens Commission on Human Rights
 
 #### 0 ❓ - Other
 

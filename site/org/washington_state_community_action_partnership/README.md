@@ -108,6 +108,10 @@
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
+## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
+
+## [HB 2474](/bill/2023-24/hb/2474/) - Concerning compliance with siting requirements for transitional housing, permanent supportive housing, indoor emergency shelters, and indoor emergency housing. 👍1  
+
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  ❓1
@@ -178,3 +182,5 @@
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
 
 ## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍2  
+
+## [SB 6300](/bill/2023-24/sb/6300/) - College grant/public assist. 👍1  

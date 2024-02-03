@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/24 04:00 PM - Transportation (TR): HB 2385 State ferry fuel purchasing

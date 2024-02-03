@@ -730,7 +730,7 @@
 
 ## [SB 6152](/bill/2023-24/sb/6152/) - Housing needs gap 👍1  
 
-## [SB 6163](/bill/2023-24/sb/6163/) - Biosolids 👍1  
+## [SB 6163](/bill/2023-24/sb/6163/) - Biosolids 👍2  
 
 ## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management 👍1  
 

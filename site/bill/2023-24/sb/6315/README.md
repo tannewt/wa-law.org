@@ -14,8 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158611&caId=23858&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158611&caId=23858&tId=4)
 
-#### 2 👍 - Pro
+#### 491 👍 - Pro
+Testifying:
+* Keitha Bryson - WA State School Retirees' Association
+* Tim Knopf - WA State School Retirees' Association
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

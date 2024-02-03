@@ -19,11 +19,36 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158617&caId=23864&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158617&caId=23864&tId=4)
 
-#### 8 👍 - Pro
+#### 15 👍 - Pro
+Testifying:
+* Tyler Muench - Office of Superintendent of Public Instruction
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+
+#### 3 👎 - Con
+
+#### 3 ❓ - Other
+Testifying:
+* Charlie Brown - Tacoma and Federal Way School Districts
+* 💵Nora Burnes - ESD 105 Schools Advocacy Coalition
+
+### Sat 02/03 09:00 AM - Ways & Means (WM): SSB 5956 Enrichment levies limit
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158705&caId=23895&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158705&caId=23895&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158705&caId=23895&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158705&caId=23895&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* Tyler Muench - Office of Superintendent of Public Instruction
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Charlie Brown - Tacoma and Federal Way Public Schools
+* 💵Melissa Gombosky - Evergreen, Vancouver and Richland School Districts
+* Nora Palattao Burnes - ESD 105 Schools Advocacy Coaltion
 
 ### Mon 01/15 01:30 PM - Early Learning & K-12 Education (EDU): SB 5956 Enrichment levies limit
 #### 75 👍 - Pro

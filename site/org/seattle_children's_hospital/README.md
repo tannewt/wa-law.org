@@ -31,6 +31,8 @@
 ## [HB 2157](/bill/2023-24/hb/2157/) - Vaccine definition 👍2  
 * 👍💵 Hugh Ewart
 
+## [HB 2197](/bill/2023-24/hb/2197/) - Medical assist./prevention 👍1  
+
 ## [HB 2378](/bill/2023-24/hb/2378/) - Health care facility fees  👎1 
 
 ## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍2  
@@ -47,7 +49,7 @@
 
 ## [SB 5388](/bill/2023-24/sb/5388/) - Diversity in clinical trials 👍1  
 
-## [SB 5444](/bill/2023-24/sb/5444/) - Firearm sensitive places 👍1  
+## [SB 5444](/bill/2023-24/sb/5444/) - Firearm sensitive places 👍2  
 
 ## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍2  
 
@@ -60,6 +62,6 @@
 
 ## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍2  
 
-## [SB 6220](/bill/2023-24/sb/6220/) - High THC cannabis products 👍1  
+## [SB 6220](/bill/2023-24/sb/6220/) - High THC cannabis products 👍2  
 
 ## [SB 6267](/bill/2023-24/sb/6267/) - DD parental caregivers 👍1  

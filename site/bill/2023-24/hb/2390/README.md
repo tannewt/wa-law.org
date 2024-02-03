@@ -11,6 +11,19 @@
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202390)
 
 ## Meetings
+### Sat 02/03 09:00 AM - Appropriations (APP): SHB 2390 Eluding & resisting arrest
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158644&caId=23890&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158644&caId=23890&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158644&caId=23890&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158644&caId=23890&tId=4)
+
+#### 5 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/23 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 2390 Eluding & resisting arrest
 #### 24 👍 - Pro
 Testifying:

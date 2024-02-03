@@ -253,7 +253,9 @@
 
 ## [HB 1478](/bill/2023-24/hb/1478/) - Student rights 👍2  
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation   ❓4
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation   ❓6
+* ❓ Jared Mason-Gere
+* ❓ Jared Mason-Gere
 * ❓ Jared Mason-Gere
 * ❓ Jared Mason-Gere
 * ❓ Jared Mason-Gere
@@ -402,7 +404,7 @@
 
 ## [HB 1927](/bill/2023-24/hb/1927/) - Reducing the number of days that a worker's temporary total disability must continue to receive industrial insurance compensation for the day of an injury and the three-day period following the injury. 👍2  
 
-## [HB 1934](/bill/2023-24/hb/1934/) - AI task force 👍1  
+## [HB 1934](/bill/2023-24/hb/1934/) - AI task force 👍2  
 
 ## [HB 1940](/bill/2023-24/hb/1940/) - Employer political speech 👍1  
 
@@ -415,6 +417,9 @@
 
 ## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
 * 👍💵 Simone Boe
+
+## [HB 1960](/bill/2023-24/hb/1960/) - Increasing prototypical school staffing to better meet student needs. 👍1  
+* 👍💵 Julie Salvi
 
 ## [HB 1969](/bill/2023-24/hb/1969/) - Individual providers/family 👍2  
 
@@ -435,7 +440,7 @@
 
 ## [HB 2023](/bill/2023-24/hb/2023/) - Improving meaningful access to elections by increasing language assistance. 👍1  
 
-## [HB 2025](/bill/2023-24/hb/2025/) - State work-study program 👍1  
+## [HB 2025](/bill/2023-24/hb/2025/) - State work-study program 👍2  
 
 ## [HB 2037](/bill/2023-24/hb/2037/) - Holocaust and genocide edu. 👍1  
 * 👍💵 Simone Boe
@@ -496,6 +501,9 @@
 
 ## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍2  
 
+## [HB 2215](/bill/2023-24/hb/2215/) - Enrichment levies limit 👍1  
+* 👍💵 Julie Salvi
+
 ## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍1  
 
 ## [HB 2239](/bill/2023-24/hb/2239/) - Social-emotional instruction 👍1  
@@ -505,7 +513,7 @@
 
 ## [HB 2244](/bill/2023-24/hb/2244/) - Retirement savings 👍1  
 
-## [HB 2246](/bill/2023-24/hb/2246/) - Vacation leave accrual 👍1  
+## [HB 2246](/bill/2023-24/hb/2246/) - Vacation leave accrual 👍2  
 
 ## [HB 2266](/bill/2023-24/hb/2266/) - Construction/sanitary cond. 👍1  
 
@@ -517,7 +525,7 @@
 
 ## [HB 2309](/bill/2023-24/hb/2309/) - Washington 13 free guarantee 👍1  
 
-## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
+## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍2  
 
 ## [HB 2321](/bill/2023-24/hb/2321/) - Middle housing requirements 👍1  
 
@@ -538,6 +546,8 @@
 ## [HB 2411](/bill/2023-24/hb/2411/) - School construction debt 👍1  
 
 ## [HB 2437](/bill/2023-24/hb/2437/) - Retirement savings 👍1  
+
+## [HB 2441](/bill/2023-24/hb/2441/) - College in the HS fees  👎1 
 
 ## [HB 2459](/bill/2023-24/hb/2459/) - Alt. measure disclosures 👍1  
 
@@ -940,7 +950,8 @@
 
 ## [SB 5953](/bill/2023-24/sb/5953/) - Incarcerated student grants 👍2  
 
-## [SB 5956](/bill/2023-24/sb/5956/) - Enrichment levies limit 👍1  
+## [SB 5956](/bill/2023-24/sb/5956/) - Enrichment levies limit 👍2  
+* 👍💵 Julie Salvi
 * 👍💵 Julie Salvi
 
 ## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍5  
@@ -950,7 +961,7 @@
 
 ## [SB 5969](/bill/2023-24/sb/5969/) - School construction debt 👍1  
 
-## [SB 5978](/bill/2023-24/sb/5978/) - Authorizing the office of the superintendent of public instruction to act as a guarantor for a county when the county provides a loan to a school district. 👍1  
+## [SB 5978](/bill/2023-24/sb/5978/) - Authorizing the office of the superintendent of public instruction to act as a guarantor for a county when the county provides a loan to a school district. 👍2  
 
 ## [SB 5979](/bill/2023-24/sb/5979/) - Concerning accrued leave for construction workers. 👍1  
 

@@ -36,7 +36,8 @@
 
 ## [HB 1445](/bill/2023-24/hb/1445/) - Law enf. misconduct 👍1  
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍4  
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍6  
+* 👍💵 Andrea Kadlec
 * 👍💵 Andrea Kadlec
 * 👍💵 Andrea Kadlec
 * 👍💵 Andrea Kadlec

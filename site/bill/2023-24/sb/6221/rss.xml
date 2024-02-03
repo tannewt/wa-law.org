@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6221/</link>
 		<description>Updates about SB 6221</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 31 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 02 Feb 2024 09:36:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2024-01-15/First reading, referred to Higher Education &amp; Workforce Development.</guid>
 		</item>
 		<item>
-			<title>👍Rachel Bjork - Washington chapter- Nat. Org. For the Reform of Marijuana Laws (WA NORML)</title>
+			<title>👍Rachel Bjork - People for the Ethical Treatment of Animals</title>
 			<description>Rachel Bjork signed up to testify Pro.</description>
 			<pubDate>Mon, 22 Jan 2024 03:52:28 GMT</pubDate>
 			<category>testifier</category>
@@ -77,6 +77,22 @@
 			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-31/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👍Hannah Thompson-Garner - Northwest Animal Rights Network (NARN)</title>
+			<description>Hannah Thompson-Garner signed up to testify Pro. They are signed up to represent Northwest Animal Rights Network (NARN).</description>
+			<pubDate>Fri, 02 Feb 2024 08:49:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Hannah/Thompson-Garner/2024-02-02 08:49:10</guid>
+		</item>
+		<item>
+			<title>👍Lisa Jones-Engel - People for the Ethical Treatment of Animals</title>
+			<description>Lisa Jones-Engel signed up to testify Pro. They are signed up to represent People for the Ethical Treatment of Animals.</description>
+			<pubDate>Fri, 02 Feb 2024 09:36:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lisa/Jones-Engel/2024-02-02 09:36:35</guid>
 		</item>
 	</channel>
 </rss>

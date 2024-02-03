@@ -448,6 +448,9 @@
 
 ## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
 
+## [SB 5780](/bill/2023-24/sb/5780/) - Public defense training 👍1  
+* 👍💵 Juliana Roe
+
 ## [SB 5808](/bill/2023-24/sb/5808/) - Safety telecom/interest arb.   ❓1
 * ❓💵 Mike Hoover
 

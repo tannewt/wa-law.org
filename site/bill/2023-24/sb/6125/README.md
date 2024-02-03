@@ -14,13 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158546&caId=23835&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158546&caId=23835&tId=4)
 
-#### 3 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * 💵Stacy Dym - [The Arc of Washington State](/org/the_arc_of_washington_state/)
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
 ### Tue 01/23 01:30 PM - State Government & Elections (SGE): SB 6125 Lakeland Village records
 #### 28 👍 - Pro

@@ -37,7 +37,7 @@
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍2  
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍3  
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍5  
 
 ## [HB 1511](/bill/2023-24/hb/1511/) - Income/child care programs 👍2  
 
@@ -94,7 +94,7 @@
 
 ## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍1  
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
 
 ## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  
 

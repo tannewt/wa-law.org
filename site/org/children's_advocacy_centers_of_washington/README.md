@@ -32,13 +32,14 @@
 
 ## [HB 1999](/bill/2023-24/hb/1999/) - Fabricated intimate images 👍1  
 
-## [HB 2076](/bill/2023-24/hb/2076/) - Human trafficking crimes 👍1  
+## [HB 2076](/bill/2023-24/hb/2076/) - Human trafficking crimes 👍2  
 
 ## [HB 2237](/bill/2023-24/hb/2237/) - Parenting plan limitations 👍1  
 
 ## [HB 2242](/bill/2023-24/hb/2242/) - Sexual assault/higher ed. 👍1  
 
-## [HB 2447](/bill/2023-24/hb/2447/) - Children and families 👍1  
+## [HB 2447](/bill/2023-24/hb/2447/) - Children and families 👍2  
+* 👍 Paula Reed
 * 👍 Paula Reed
 
 ## [HB 2457](/bill/2023-24/hb/2457/) - Domestic violence/housing 👍1  
@@ -64,7 +65,7 @@
 
 ## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍1  
 
-## [SB 5937](/bill/2023-24/sb/5937/) - Crime victims & witnesses 👍1  
+## [SB 5937](/bill/2023-24/sb/5937/) - Crime victims & witnesses 👍2  
 * 👍 Paula Reed
 
 ## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍2  

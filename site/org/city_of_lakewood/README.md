@@ -44,7 +44,7 @@
 
 ## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍2  
 
-## [SB 5780](/bill/2023-24/sb/5780/) - Public defense training 👍1  
+## [SB 5780](/bill/2023-24/sb/5780/) - Public defense training 👍2  
 
 ## [SB 5845](/bill/2023-24/sb/5845/) - Military housing taxation  👎1 
 

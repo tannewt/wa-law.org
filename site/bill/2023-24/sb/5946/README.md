@@ -9,15 +9,13 @@
 
 ## Meetings
 ### Fri 02/02 01:30 PM - Ways & Means (WM): SSB 5946 Fallen firefighter memorial
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158427&caId=23788&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158427&caId=23788&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158427&caId=23788&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158427&caId=23788&tId=4)
-
-#### 18 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Jeff Faucett - Washington Fire Chiefs
+* Brian Considine - [Department of Natural Resources](/org/department_of_natural_resources/)
+* George Geissler - [Department of Natural Resources](/org/department_of_natural_resources/)
+* Pat Ellis - Washington State Fallen Firefighters Memorial Foundation
+* 💵Bud Sizemore - WSCFF
 
 #### 0 👎 - Con
 

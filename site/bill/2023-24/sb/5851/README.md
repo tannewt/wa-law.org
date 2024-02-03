@@ -21,14 +21,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158527&caId=23804&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158527&caId=23804&tId=4)
 
-#### 38 👍 - Pro
+#### 46 👍 - Pro
 Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* Aline Flower
 
-#### 2 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Meera Badari
 * Nomy Lamm - JVP Olympia
+* Osama Emara
+* Nizama Djuderija - BAI
+* Oliver Miska - WAESN
 
 #### 1 ❓ - Other
 Testifying:

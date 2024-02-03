@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
 * 02/28/2023 [Wenatchee World](/org/wenatchee_world/) - [Proposal to expand Running Start clears Senate committee | Education | wenatcheeworld.com](https://www.wenatcheeworld.com/education/proposal-to-expand-running-start-clears-senate-committee/article_1515d3aa-b4cc-11ed-a426-a7d884f30dab.html#:~:text=SB-5670)

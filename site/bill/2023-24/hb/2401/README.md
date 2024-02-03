@@ -11,6 +11,21 @@
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202401)
 
 ## Meetings
+### Sat 02/03 09:00 AM - Appropriations (APP): SHB 2401 Refrigerant gases
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158639&caId=23885&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158639&caId=23885&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158639&caId=23885&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158639&caId=23885&tId=4)
+
+#### 4 👍 - Pro
+
+#### 2 👎 - Con
+Testifying:
+* 💵Jacob Cassady - Association of Home Appliance Manufacturers (AHAM)
+
+#### 0 ❓ - Other
+
 ### Mon 01/22 01:30 PM - Environment & Energy (ENVI): HB 2401 Refrigerant gases
 #### 194 👍 - Pro
 Testifying:

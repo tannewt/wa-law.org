@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Fri 02/02 01:30 PM - Ways & Means (WM): SSB 5809 Charter schools/enrichment
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158432&caId=23793&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158432&caId=23793&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158432&caId=23793&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158432&caId=23793&tId=4)
-
-#### 540 👍 - Pro
+#### 550 👍 - Pro
 Testifying:
 * Liv Finne - Washington Policy Center
 * Joel Negash - Rainier Prep
@@ -28,11 +22,12 @@ Testifying:
 * Angelo Cruz Santiago - Summit Olympus High School
 * Ayanna Gore - Summit Sierra High School
 
-#### 30 👎 - Con
+#### 34 👎 - Con
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Glenn Jenkins
 * Kristiana de Leon
+* Melissa Westbrook
 
 #### 3 ❓ - Other
 

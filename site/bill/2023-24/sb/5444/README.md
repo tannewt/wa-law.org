@@ -20,9 +20,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158607&caId=23854&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158607&caId=23854&tId=4)
 
-#### 2 👍 - Pro
+#### 575 👍 - Pro
+Testifying:
+* Chetan Soni - Washington Youth Alliance
+* Dr. Gwen Loosmore - Washington State PTA
+* Liz Hjelmseth
 
-#### 3 👎 - Con
+#### 199 👎 - Con
+Testifying:
+* Gordon Lueckenotte
+* Eric pratt - America
+* 💵Aoibheann Cline - NRA
+* Michael McKinley
 
 #### 1 ❓ - Other
 

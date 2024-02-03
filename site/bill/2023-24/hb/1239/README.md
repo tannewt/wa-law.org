@@ -15,6 +15,22 @@
 * 04/05/2023 [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=House%20Bill%201239)
 
 ## Meetings
+### Sat 02/03 09:00 AM - Appropriations (APP): 3SHB 1239 Educator ethics & complaints
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158629&caId=23875&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158629&caId=23875&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158629&caId=23875&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158629&caId=23875&tId=4)
+
+#### 39 👍 - Pro
+Testifying:
+* Marianne Bryan
+* Julianna Hillard - Seattle Council PTSA
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/22 01:30 PM - Education (ED): HB 1239 Educator ethics & complaints
 #### 123 👍 - Pro
 Testifying:

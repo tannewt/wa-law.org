@@ -19,7 +19,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158604&caId=23851&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158604&caId=23851&tId=4)
 
-#### 2 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* 💵Laurel Redden - King County Sexual Assault Resource Center
 
 #### 0 👎 - Con
 

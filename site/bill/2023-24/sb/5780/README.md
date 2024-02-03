@@ -18,7 +18,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158605&caId=23852&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158605&caId=23852&tId=4)
 
-#### 18 👍 - Pro
+#### 35 👍 - Pro
+Testifying:
+* 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Paul Kelley - Yakima County Depatrment of Assigned Counsel
+* Kari Reardon - WDA/WACDL
+* Commissioner LaDon Linde
+* Larry Jefferson - Director, Washington State Office of Public Defense
 
 #### 0 👎 - Con
 

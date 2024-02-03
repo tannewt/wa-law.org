@@ -20,19 +20,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158529&caId=23806&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158529&caId=23806&tId=4)
 
-#### 366 👍 - Pro
+#### 398 👍 - Pro
 Testifying:
 * Marissa Rathbone - Washington State School Directors' Association
 * Malorie Larson - Washington State PTA
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Tyler Muench - Office of Superintendent of Public Instruction
+* Charlie Brown - South Sound Superintendents
 
-#### 282 👎 - Con
+#### 370 👎 - Con
 Testifying:
 * Liv Finne - Washington Policy Center
 * Jeannette Mcchesney
 
-#### 6 ❓ - Other
+#### 8 ❓ - Other
 
 ### Wed 01/10 10:30 AM - Early Learning & K-12 Education (EDU): SB 5882 Prototypical school staffing
 #### 117 👍 - Pro

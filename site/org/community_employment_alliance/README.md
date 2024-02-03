@@ -7,6 +7,8 @@
 
 ## [HB 1407](/bill/2023-24/hb/1407/) - Dev. disability/eligibility 👍3  
 
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍1  
+
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍3  
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
@@ -24,7 +26,11 @@
 
 ## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding  👎1 
 
+## [SB 5943](/bill/2023-24/sb/5943/) - Resource data tool 👍1  
+
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.  👎3 
 * 👎💵 Aaron Dickson
 * 👎 Nikki Wegner
 * 👎💵 Aaron Dickson
+
+## [SB 6125](/bill/2023-24/sb/6125/) - Lakeland Village records 👍1  

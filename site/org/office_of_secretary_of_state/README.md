@@ -132,9 +132,10 @@
 ## [SB 5993](/bill/2023-24/sb/5993/) - Voter education 👍1  
 * 👍 Steve Hobbs
 
-## [SB 6125](/bill/2023-24/sb/6125/) - Lakeland Village records 👍2  
+## [SB 6125](/bill/2023-24/sb/6125/) - Lakeland Village records 👍2  ❓1
 * 👍 Brian Hatfield
 * 👍 Heather Hirotaka
+* ❓ Brian Hatfield
 
 ## [SB 6269](/bill/2023-24/sb/6269/) - Alt. voter verification   ❓1
 * ❓ Brian Hatfield

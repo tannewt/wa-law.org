@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/20/2024 [NW News Network](/org/nw_news_network/) - [AI, guns, and initiatives: highlights from Week 2 of Washington's 2024 legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-19/ai-guns-and-initiatives-highlights-from-week-2-of-washingtons-2024-legislative-session#:~:text=House%20Bill%201934)
@@ -13,6 +14,27 @@
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson proposes creation of bipartisan Artificial Intelligence Task Force | Washington State](https://www.atg.wa.gov/news/news-releases/ag-ferguson-proposes-creation-bipartisan-artificial-intelligence-task-force#:~:text=House%20Bill%201934)
 
 ## Meetings
+### Sat 02/03 09:00 AM - Appropriations (APP): SHB 1934 AI task force
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158625&caId=23871&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158625&caId=23871&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158625&caId=23871&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158625&caId=23871&tId=4)
+
+#### 5 👍 - Pro
+Testifying:
+* 💵Scott Nelson - State Auditor's Office
+* Manveer Sandhu - Attorney General's Office
+* 💵Larry Shannon - Washington State Association for Justice
+
+#### 131 👎 - Con
+Testifying:
+* Eric pratt - America
+
+#### 3 ❓ - Other
+Testifying:
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+
 ### Fri 01/19 08:00 AM - Consumer Protection & Business (CPB): HB 1934 AI task force
 #### 55 👍 - Pro
 Testifying:

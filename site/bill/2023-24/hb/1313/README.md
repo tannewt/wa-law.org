@@ -19,7 +19,7 @@ Testifying:
 * Tiffany Huyenh-Cho - Justice in Aging
 * 💵Brad Forbes - Alzheimer's Association
 * Carina Tong - [Disability Rights Washington](/org/disability_rights_washington/)
-* Ronnie Shure - Health Care for All - Washington
+* Ronnie Shure - [Health Care for All - Washington](/org/health_care_for_all_-_washington/)
 
 #### 0 👎 - Con
 

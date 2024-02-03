@@ -228,8 +228,9 @@
 ## [SB 5838](/bill/2023-24/sb/5838/) - AI task force   ❓2
 * ❓ Montana Miranda
 
-## [SB 5924](/bill/2023-24/sb/5924/) - Access to personnel records  👎1 
+## [SB 5924](/bill/2023-24/sb/5924/) - Access to personnel records  👎2 
 * 👎💵 Julia Gorton
+* 👎💵 Samantha Louderback
 
 ## [SB 5957](/bill/2023-24/sb/5957/) - AI use guidelines   ❓1
 * ❓ Montana Miranda

@@ -12,6 +12,26 @@
 * 01/23/2024 [FOX13](/org/fox13/) - [State law makes intervention for drugs difficult for child protective services, attorney says](https://www.fox13seattle.com/news/state-law-makes-drug-intervention-difficult-for-child#:~:text=House%20Bill%202447.)
 
 ## Meetings
+### Sat 02/03 09:00 AM - Appropriations (APP): SHB 2447 Children and families
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158623&caId=23869&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158623&caId=23869&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158623&caId=23869&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158623&caId=23869&tId=4)
+
+#### 5 👍 - Pro
+Testifying:
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* 💵James Clark - National Parents Organization
+* Paula Reed - [Children's Advocacy Centers of Washington](/org/children's_advocacy_centers_of_washington/)
+
+#### 1 👎 - Con
+
+#### 7 ❓ - Other
+Testifying:
+* Mike Kersey - Courage to Change Recovery Services
+* Adam Ballout - ABC Law Group
+
 ### Tue 01/23 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2447 Children and families
 #### 18 👍 - Pro
 Testifying:

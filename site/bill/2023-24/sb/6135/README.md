@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Fri 02/02 01:30 PM - Ways & Means (WM): SSB 6135 TANF transitional assistance
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158430&caId=23791&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158430&caId=23791&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158430&caId=23791&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158430&caId=23791&tId=4)
-
-#### 54 👍 - Pro
+#### 56 👍 - Pro
 Testifying:
 * 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 

@@ -99,6 +99,8 @@
 
 ## [HB 2398](/bill/2023-24/hb/2398/) - Instruct. materials/parents   ❓1
 
+## [HB 2441](/bill/2023-24/hb/2441/) - College in the HS fees 👍2  
+
 ## [SB 5020](/bill/2023-24/sb/5020/) - Education at 6 years of age 👍1  
 
 ## [SB 5038](/bill/2023-24/sb/5038/) - K-12 empl. notice deadlines 👍1  

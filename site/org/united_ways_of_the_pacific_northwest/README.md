@@ -18,3 +18,6 @@
 ## [SB 5285](/bill/2023-24/sb/5285/) - Caseload forecast/tax credit 👍1  
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
+
+## [SB 5943](/bill/2023-24/sb/5943/) - Resource data tool 👍1  
+* 👍💵 Nick Federici

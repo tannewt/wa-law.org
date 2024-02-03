@@ -11,16 +11,12 @@
 
 ## Meetings
 ### Fri 02/02 01:30 PM - Ways & Means (WM): SB 5895 Academic employee bargaining
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158268&caId=23746&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158268&caId=23746&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158268&caId=23746&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158268&caId=23746&tId=4)
-
-#### 245 👍 - Pro
+#### 262 👍 - Pro
 Testifying:
 * 💵Emily Myers - UAW
 * Ethan Martez - WWU Student
+* Stella Seth - Legislative Liaison, Associated Students, Western Washington University
+* Juniper Campbell - Geoduck Student Union of The Evergreen State College
 * Alec Acosta-Vega - CWU-Student
 
 #### 3 👎 - Con

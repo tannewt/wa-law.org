@@ -359,7 +359,7 @@
 ## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras 👍1  
 * 👍 Brandy DeLange
 
-## [HB 2390](/bill/2023-24/hb/2390/) - Eluding & resisting arrest 👍1  
+## [HB 2390](/bill/2023-24/hb/2390/) - Eluding & resisting arrest 👍2  
 
 ## [HB 2394](/bill/2023-24/hb/2394/) - SEPA/trails and paths 👍1  
 
@@ -604,7 +604,7 @@
 ## [SB 5778](/bill/2023-24/sb/5778/) - Employer political speech   ❓1
 * ❓💵 Candice Bock
 
-## [SB 5780](/bill/2023-24/sb/5780/) - Public defense training 👍1  
+## [SB 5780](/bill/2023-24/sb/5780/) - Public defense training 👍2  
 
 ## [SB 5781](/bill/2023-24/sb/5781/) - Establishing a law student rural public defense program. 👍2  
 * 👍💵 Lindsey Hueer
@@ -673,6 +673,8 @@
 * ❓💵 Lindsey Hueer
 
 ## [SB 6120](/bill/2023-24/sb/6120/) - Wildland urban interface 👍1  
+
+## [SB 6134](/bill/2023-24/sb/6134/) - Opioid use 👍1  
 
 ## [SB 6146](/bill/2023-24/sb/6146/) - Tribal warrants   ❓1
 

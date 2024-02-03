@@ -13,29 +13,25 @@
 
 ## Meetings
 ### Fri 02/02 01:30 PM - Ways & Means (WM): SSB 6058 Carbon market linkage
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158426&caId=23787&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158426&caId=23787&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158426&caId=23787&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158426&caId=23787&tId=4)
-
-#### 16 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * 💵Tom Wolf - bp America
 * 💵Isaac Kastama - Clean & Prosperous Washington
 * Joel Creswell - Washington State Department of Ecology
 * 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 
-#### 23 👎 - Con
+#### 29 👎 - Con
 Testifying:
 * John Worthington
+* Eric pratt - America
 
-#### 5 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * 💵Jessica Spiegel - WSPA
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵John Rothlin - Avista
 * Greg Alderson - [Portland General Electric](/org/portland_general_electric/)
+* 💵John Rothlin - Avista
 
 ### Fri 01/12 08:00 AM - Environment, Energy & Technology (ENET): SB 6058 Carbon market linkage
 #### 27 👍 - Pro

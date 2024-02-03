@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158526&caId=23803&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158526&caId=23803&tId=4)
 
-#### 19 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * Katie Howell - Chehalis Schools
 * 💵Kelsi Hamilton - WSSDA
+* Charlie Brown - South Sound Superintendents
+* Sue Ann Bube - Mercer Island School District
 
 #### 0 👎 - Con
 

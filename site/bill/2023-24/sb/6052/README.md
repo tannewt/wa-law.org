@@ -19,13 +19,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158545&caId=23834&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158545&caId=23834&tId=4)
 
-#### 3 👍 - Pro
+#### 22 👍 - Pro
+Testifying:
+* 💵Clifford Traisman - [Washington Conservation Action](/org/washington_conservation_action/)
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* 💵Scott Nelson - State Auditor's Office
+* Becky Kelley - Office of the Governor
+* Jason Lewis - Utilities and Transportation Commission
 
-#### 353 👎 - Con
+#### 469 👎 - Con
 Testifying:
 * Jeannette Mcchesney
 * Marian LaFountaine
 * bobbi moody
+* Jeffrey Pack - Washington Citizens Against Unfair Taxes
+* 💵Greg Hanon - Western States Petroleum Association
 
 #### 0 ❓ - Other
 

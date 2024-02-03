@@ -15,11 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158621&caId=23868&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158621&caId=23868&tId=4)
 
-#### 58 👍 - Pro
+#### 188 👍 - Pro
 Testifying:
 * Jake Dailey - U.S. Rake Force
+* Jake Dailey - U.S. Rake Force
+* Korina Stark - Small Forest Landowner
 
-#### 1 👎 - Con
+#### 131 👎 - Con
 
 #### 0 ❓ - Other
 

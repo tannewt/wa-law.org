@@ -12,18 +12,19 @@
 
 ## Meetings
 ### Fri 02/02 10:30 AM - Appropriations (APP): SHB 2201 Carbon market linkage
-#### 13 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * 💵Tom Wolf - bp America
 * Joel Creswell - Washington State Department of Ecology
 * 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 
-#### 26 👎 - Con
+#### 28 👎 - Con
 Testifying:
 * Clay Peterson
 * John Worthington
+* Eric pratt - America
 
-#### 6 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * 💵Jessica Spiegel - WSPA
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)

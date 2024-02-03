@@ -18,6 +18,8 @@
 
 ## [HB 2160](/bill/2023-24/hb/2160/) - Housing development   ❓1
 
+## [HB 2474](/bill/2023-24/hb/2474/) - Concerning compliance with siting requirements for transitional housing, permanent supportive housing, indoor emergency shelters, and indoor emergency housing.  👎1 
+
 ## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍1  
 
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍1  

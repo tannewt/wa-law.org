@@ -138,6 +138,8 @@
 ## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍7  
 * 👍💵 Kristin Ang
 
+## [SB 5444](/bill/2023-24/sb/5444/) - Firearm sensitive places 👍1  
+
 ## [SB 5480](/bill/2023-24/sb/5480/) - Work-limiting disability 👍3  
 
 ## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍8  
@@ -170,7 +172,7 @@
 
 ## [SB 6007](/bill/2023-24/sb/6007/) - Grocery workers 👍6  
 
-## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍6  
+## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍7  
 
 ## [SB 6135](/bill/2023-24/sb/6135/) - TANF transitional assistance 👍1  
 
@@ -180,4 +182,4 @@
 
 ## [SB 6216](/bill/2023-24/sb/6216/) - Student mental health net. 👍7  
 
-## [SB 6251](/bill/2023-24/sb/6251/) - Behavioral crisis coord. 👍4  
+## [SB 6251](/bill/2023-24/sb/6251/) - Behavioral crisis coord. 👍5  

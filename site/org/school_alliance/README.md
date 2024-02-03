@@ -19,6 +19,8 @@
 * ❓ Sue Ann Bube
 * 👍💵 Grace Yuan
 
+## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍1  
+
 ## [SB 5969](/bill/2023-24/sb/5969/) - School construction debt 👍2  
 * 👍 Cynthia Weed
 * 👍💵 Grace Yuan

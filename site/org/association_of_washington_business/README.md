@@ -412,7 +412,7 @@
 
 ## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍2  
 
-## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍1  
+## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍2  
 
 ## [HB 2236](/bill/2023-24/hb/2236/) - Tech. ed. core plus programs   ❓2
 * ❓💵 Emily Wittman
@@ -456,6 +456,8 @@
 
 ## [HB 2425](/bill/2023-24/hb/2425/) - Rental support program   ❓1
 * ❓ Morgan Irwin
+
+## [HB 2441](/bill/2023-24/hb/2441/) - College in the HS fees 👍1  
 
 ## [HB 2451](/bill/2023-24/hb/2451/) - Impact fees 👍1  
 * 👍 Morgan Irwin
@@ -745,6 +747,8 @@
 
 ## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍1  
 
+## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply  👎1 
+
 ## [SB 6055](/bill/2023-24/sb/6055/) - Natural resource indus. dev. 👍1  
 
 ## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage   ❓2
@@ -789,7 +793,7 @@
 
 ## [SB 6212](/bill/2023-24/sb/6212/) - Rent payments/credit reports  👎1 
 
-## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍1  
+## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍2  
 
 ## [SB 6257](/bill/2023-24/sb/6257/) - Hospital charity/residency 👍1  
 
@@ -797,7 +801,7 @@
 
 ## [SB 6296](/bill/2023-24/sb/6296/) - Establishing a retail industry work group. 👍1  
 
-## [SB 6300](/bill/2023-24/sb/6300/) - College grant/public assist. 👍1  
+## [SB 6300](/bill/2023-24/sb/6300/) - College grant/public assist. 👍2  
 
 ## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍1  
 * 👍 Morgan Irwin

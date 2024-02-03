@@ -19,9 +19,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158541&caId=23830&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158541&caId=23830&tId=4)
 
-#### 1 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Beatriz Carlini
+* 💵Amy Brackenbury - [Washington State Public Health Association](/org/washington_state_public_health_association/)
+* LINDA THOMPSON - Washington Association for Substance misuse and Violence Prevention (WASAVP)
+* Beth Ebel - President, WCAAP
 
-#### 2 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Caitlein Ryan - THE CANNABIS ALLIANCE
+* 💵Vicki Christophersen - Washington CannaBusiness Association
 
 #### 1 ❓ - Other
 Testifying:

@@ -28,7 +28,7 @@
 ## [HB 1440](/bill/2023-24/hb/1440/) - Juvenile court jurisdiction 👍1  
 * 👍 William Hairston
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍2  
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍4  
 
 ## [HB 1591](/bill/2023-24/hb/1591/) - Open adoption agreements 👍1  
 
@@ -42,7 +42,9 @@
 
 ## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍1  
 
-## [HB 2076](/bill/2023-24/hb/2076/) - Human trafficking crimes   ❓1
+## [HB 2076](/bill/2023-24/hb/2076/) - Human trafficking crimes   ❓3
+* ❓ Nicholas Oakley
+* ❓💵 Rachel Sottile
 * ❓ Nicholas Oakley
 
 ## [HB 2186](/bill/2023-24/hb/2186/) - Juv. deferred adjudications 👍1  
@@ -55,6 +57,8 @@
 ## [HB 2251](/bill/2023-24/hb/2251/) - Unenforceable LFOs 👍1  
 
 ## [HB 2342](/bill/2023-24/hb/2342/) - Dependent youth financial ed 👍1  
+
+## [HB 2447](/bill/2023-24/hb/2447/) - Children and families   ❓1
 
 ## [SB 5028](/bill/2023-24/sb/5028/) - Name changes 👍1  
 

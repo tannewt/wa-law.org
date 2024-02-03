@@ -174,7 +174,7 @@
 
 ## [SB 5823](/bill/2023-24/sb/5823/) - School district elections 👍1  
 
-## [SB 5849](/bill/2023-24/sb/5849/) - Computer science/graduation   ❓1
+## [SB 5849](/bill/2023-24/sb/5849/) - Computer science/graduation   ❓2
 * ❓ Alissa Muller
 
 ## [SB 5850](/bill/2023-24/sb/5850/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  

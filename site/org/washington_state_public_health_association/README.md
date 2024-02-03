@@ -145,8 +145,9 @@
 
 ## [SB 6201](/bill/2023-24/sb/6201/) - Alcohol sale to minors/civil 👍1  
 
-## [SB 6220](/bill/2023-24/sb/6220/) - High THC cannabis products 👍1  
+## [SB 6220](/bill/2023-24/sb/6220/) - High THC cannabis products 👍2  
 * 👍 Megan Moore
+* 👍💵 Amy Brackenbury
 
 ## [SB 6271](/bill/2023-24/sb/6271/) - Cannabis excise tax/THC 👍1  
 * 👍 Megan Moore

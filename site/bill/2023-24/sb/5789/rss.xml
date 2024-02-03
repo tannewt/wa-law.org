@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5789/</link>
 		<description>Updates about SB 5789</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 18:50:05 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 02 Feb 2024 12:45:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2023-12-04/Prefiled for introduction.</guid>
 		</item>
 		<item>
-			<title>👍Oliver Miska - Washington Hospitality Association</title>
+			<title>👍Oliver Miska - Initiative Activist</title>
 			<description>Oliver Miska signed up to testify Pro.</description>
 			<pubDate>Thu, 04 Jan 2024 02:35:03 GMT</pubDate>
 			<category>testifier</category>
@@ -59,6 +59,22 @@
 			<pubDate>Mon, 08 Jan 2024 18:50:05 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/2024-session-preview/#:~:text=SB%205789</guid>
+		</item>
+		<item>
+			<title>👍Jerry Pugh - Colfax School District</title>
+			<description>Jerry Pugh signed up to testify Pro. They are signed up to represent Colfax School District.</description>
+			<pubDate>Fri, 02 Feb 2024 03:37:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jerry/Pugh/2024-02-02 03:37:10</guid>
+		</item>
+		<item>
+			<title>👎Tim Eyman - Initiative Activist</title>
+			<description>Tim Eyman signed up to testify Con. They are signed up to represent Initiative Activist.</description>
+			<pubDate>Fri, 02 Feb 2024 12:45:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Tim/Eyman/2024-02-02 12:45:32</guid>
 		</item>
 	</channel>
 </rss>

@@ -77,7 +77,9 @@
 ## [SB 5910](/bill/2023-24/sb/5910/) - Creating the state department of natural resources' Smokey Bear special license plates. 👍1  
 * 👍 Hilary Franz
 
-## [SB 5946](/bill/2023-24/sb/5946/) - Fallen firefighter memorial 👍2  
+## [SB 5946](/bill/2023-24/sb/5946/) - Fallen firefighter memorial 👍4  
+* 👍 Brian Considine
+* 👍 George Geissler
 * 👍 Brian Considine
 * 👍 George Geissler
 
@@ -91,6 +93,9 @@
 ## [SB 6011](/bill/2023-24/sb/6011/) - Tribal interlocal agreements 👍1  
 * 👍 Jayanna Marshall
 
+## [SB 6039](/bill/2023-24/sb/6039/) - Geothermal energy resources 👍1  
+* 👍 Casey Hanell
+
 ## [SB 6043](/bill/2023-24/sb/6043/) - Recreational use fees 👍1  
 * 👍 Andrea Martin
 
@@ -103,7 +108,7 @@
 ## [SB 6120](/bill/2023-24/sb/6120/) - Wildland urban interface 👍1  
 * 👍 Brian Considine
 
-## [SB 6121](/bill/2023-24/sb/6121/) - Biochar production 👍1  
+## [SB 6121](/bill/2023-24/sb/6121/) - Biochar production 👍2  
 
 ## [SB 6281](/bill/2023-24/sb/6281/) - Reforestation grants 👍1  
 * 👍 Csenka Favorini-Csorba

@@ -21,6 +21,22 @@
 * 01/22/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/22/the-house-hot-sheet-for-week-3-of-the-2023-legislative-session/#:~:text=HB%201228)
 
 ## Meetings
+### Sat 02/03 09:00 AM - Appropriations (APP): 2SHB 1228 Dual & tribal language edu.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158628&caId=23874&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158628&caId=23874&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158628&caId=23874&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158628&caId=23874&tId=4)
+
+#### 30 👍 - Pro
+Testifying:
+* Anna Hernandez-French - Office of Superintendent of Public Instruction
+* 💵Alex Hur - OneAmerica
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/22 01:30 PM - Education (ED): HB 1228 Dual & tribal language edu.
 #### 123 👍 - Pro
 Testifying:

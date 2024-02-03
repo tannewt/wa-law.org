@@ -58,4 +58,5 @@
 ## [SB 5640](/bill/2023-24/sb/5640/) - Independent living residents 👍1  
 * 👍 Jeff Gombosky
 
-## [SB 5802](/bill/2023-24/sb/5802/) - Providing flexibility in calculation of nursing rates. 👍1  
+## [SB 5802](/bill/2023-24/sb/5802/) - Providing flexibility in calculation of nursing rates. 👍2  
+* 👍 Carma Matti-Jackson

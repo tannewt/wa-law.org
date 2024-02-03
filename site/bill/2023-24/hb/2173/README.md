@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/17 01:30 PM - State Government & Tribal Relations (SGOV): HB 2173 Natural gas utilities/OPMA

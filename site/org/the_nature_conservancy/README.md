@@ -183,9 +183,11 @@
 
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
 
+## [SB 6039](/bill/2023-24/sb/6039/) - Geothermal energy resources 👍1  
+
 ## [SB 6043](/bill/2023-24/sb/6043/) - Recreational use fees 👍1  
 
-## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  
+## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍2  
 * 👍 Skippy Shaw
 
 ## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍2  

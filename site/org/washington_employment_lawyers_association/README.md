@@ -23,6 +23,6 @@
 ## [SB 5894](/bill/2023-24/sb/5894/) - Equal pay/protected classes 👍1  
 * 👍 Kathleen Barnard
 
-## [SB 5924](/bill/2023-24/sb/5924/) - Access to personnel records 👍2  
+## [SB 5924](/bill/2023-24/sb/5924/) - Access to personnel records 👍3  
 * 👍 Lauren RIchardson-Berg
 * 👍 Jesse Wing

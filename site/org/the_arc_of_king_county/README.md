@@ -38,7 +38,7 @@
 
 ## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍3  
 
-## [HB 1239](/bill/2023-24/hb/1239/) - Educator ethics & complaints 👍2  
+## [HB 1239](/bill/2023-24/hb/1239/) - Educator ethics & complaints 👍3  
 
 ## [HB 1247](/bill/2023-24/hb/1247/) - Music therapists 👍1  
 
@@ -72,9 +72,10 @@
 
 ## [HB 1478](/bill/2023-24/hb/1478/) - Student rights 👍2  
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍5  ❓1
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍7  ❓1
 * 👍💵 Eric Warwick
 * 👍💵 Eric Warwick
+* 👍💵 Ramona Hattendorf
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍6  
 * 👍 Eric Matthes
@@ -106,6 +107,8 @@
 
 ## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
 
+## [HB 1960](/bill/2023-24/hb/1960/) - Increasing prototypical school staffing to better meet student needs. 👍1  
+
 ## [HB 1969](/bill/2023-24/hb/1969/) - Individual providers/family 👍2  
 
 ## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍1  
@@ -132,6 +135,8 @@
 ## [HB 2180](/bill/2023-24/hb/2180/) - Special education cap 👍1  
 
 ## [HB 2184](/bill/2023-24/hb/2184/) - DD parental caregivers 👍1  
+
+## [HB 2215](/bill/2023-24/hb/2215/) - Enrichment levies limit 👍1  
 
 ## [HB 2239](/bill/2023-24/hb/2239/) - Social-emotional instruction 👍1  
 

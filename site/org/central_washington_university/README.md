@@ -84,5 +84,5 @@
 
 ## [SB 5999](/bill/2023-24/sb/5999/) - Financial aid eligibility 👍5  
 
-## [SB 6039](/bill/2023-24/sb/6039/) - Geothermal energy resources 👍1  
+## [SB 6039](/bill/2023-24/sb/6039/) - Geothermal energy resources 👍2  
 * 👍 Steve DuPont

@@ -15,9 +15,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158619&caId=23866&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158619&caId=23866&tId=4)
 
-#### 6 👍 - Pro
+#### 107 👍 - Pro
+Testifying:
+* Patrick McGah
+* Brian Wright - Washington State Association for Justice
+* 💵Larry Shannon - Washington State Association for Justice
 
-#### 0 👎 - Con
+#### 10 👎 - Con
+Testifying:
+* 💵Lisa Thatcher - Washington State Hospital Association
+* Gordon Lueckenotte
+* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
 #### 0 ❓ - Other
 

@@ -18,11 +18,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158620&caId=23867&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158620&caId=23867&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Jennifer Boutell
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Anna Hernandez-French - Office of Superintendent of Public Instruction
 
 ### Wed 01/17 10:30 AM - Early Learning & K-12 Education (EDU): SB 5849 Computer science/graduation
 #### 38 👍 - Pro

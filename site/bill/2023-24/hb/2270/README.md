@@ -13,6 +13,19 @@
 * 01/24/2024 [Crosscut](/org/crosscut/) - [WA Legislature considers establishing a new state housing agency | Crosscut](https://crosscut.com/briefs/2024/01/wa-legislature-considers-establishing-new-state-housing-agency#:~:text=House%20Bill%202270)
 
 ## Meetings
+### Sat 02/03 09:00 AM - Appropriations (APP): SHB 2270 Department of housing
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158627&caId=23873&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158627&caId=23873&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158627&caId=23873&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158627&caId=23873&tId=4)
+
+#### 11 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/23 04:00 PM - Housing (HOUS): HB 2270 Department of housing
 #### 78 👍 - Pro
 Testifying:

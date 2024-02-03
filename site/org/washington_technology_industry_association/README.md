@@ -43,12 +43,12 @@
 
 ## [HB 2244](/bill/2023-24/hb/2244/) - Retirement savings   ❓1
 
-## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍1  
+## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍2  
 
 ## [HB 2277](/bill/2023-24/hb/2277/) - Data brokering  👎1 
 * 👎💵 Kelly Fukai
 
-## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
+## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍2  
 
 ## [HB 2360](/bill/2023-24/hb/2360/) - Digital workforce 👍1  
 
@@ -80,7 +80,7 @@
 * ❓💵 Kelly Fukai
 * ❓💵 Kelly Fukai
 
-## [SB 5849](/bill/2023-24/sb/5849/) - Computer science/graduation 👍1  
+## [SB 5849](/bill/2023-24/sb/5849/) - Computer science/graduation 👍2  
 * 👍💵 Brittany Jarnot
 
 ## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍2  

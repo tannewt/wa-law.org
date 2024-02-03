@@ -17,9 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158615&caId=23862&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158615&caId=23862&tId=4)
 
-#### 0 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Zac Robbins - Marysville School District
 
-#### 0 👎 - Con
+#### 141 👎 - Con
+Testifying:
+* Gordon Lueckenotte
 
 #### 0 ❓ - Other
 

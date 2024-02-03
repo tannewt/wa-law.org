@@ -15,7 +15,7 @@
 ### Wed 02/01 01:30 PM - Health Care & Wellness (HCW): HB 1269 Rx drug affordability board
 #### 850 👍 - Pro
 Testifying:
-* Ronnie Shure - Health Care for All - Washington
+* Ronnie Shure - [Health Care for All - Washington](/org/health_care_for_all_-_washington/)
 * Jenny Arnold - Washington State Pharmacy Association
 * Jessie Polin - Washington CAN
 * Cathy McCaul - AARP

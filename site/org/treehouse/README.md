@@ -28,7 +28,7 @@
 
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍1  
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍7  
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍9  
 * 👍 Heidi Barden
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  

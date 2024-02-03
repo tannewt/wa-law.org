@@ -115,7 +115,7 @@
 
 ## [HB 2376](/bill/2023-24/hb/2376/) - CCA public entity oblig.  👎1 
 
-## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases 👍1  
+## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases 👍2  
 
 ## [HB 2465](/bill/2023-24/hb/2465/) - State building code council   ❓1
 
@@ -182,7 +182,8 @@
 
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development 👍1  
 
-## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  
+## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍2  
+* 👍💵 Leah Missik
 * 👍💵 Leah Missik
 
 ## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍2  

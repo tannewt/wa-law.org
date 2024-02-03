@@ -12,18 +12,15 @@
 
 ## Meetings
 ### Fri 02/02 01:30 PM - Ways & Means (WM): SSB 5943 Resource data tool
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158270&caId=23748&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158270&caId=23748&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158270&caId=23748&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158270&caId=23748&tId=4)
-
-#### 24 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * Karl Johanson - NPIP
 * TIM SULLIVAN - Washington 211
 * Michael Goldberg
 * robert m wardell - self adovates
+* Deb Miller - Action Health Partners
+* 💵Nick Federici - [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/)
+* Tim Sullivan - People for People
 
 #### 0 👎 - Con
 

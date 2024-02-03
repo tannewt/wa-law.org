@@ -13,4 +13,6 @@
 
 ## [HB 2130](/bill/2023-24/hb/2130/) - Special education services 👍1  
 
+## [SB 6125](/bill/2023-24/sb/6125/) - Lakeland Village records 👍1  
+
 ## [SB 6126](/bill/2023-24/sb/6126/) - Respite care 👍2  

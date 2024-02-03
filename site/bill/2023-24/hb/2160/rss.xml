@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2160/</link>
 		<description>Updates about HB 2160</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 25 Jan 2024 12:22:25 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 02 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -335,6 +335,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Thomas/White/2024-01-25 12:22:25</guid>
+		</item>
+		<item>
+			<title>CB - Executive action taken by committee.</title>
+			<description>CB - Executive action taken by committee.</description>
+			<pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-02/CB - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

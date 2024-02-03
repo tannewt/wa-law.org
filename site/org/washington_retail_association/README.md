@@ -84,7 +84,8 @@
 
 ## [HB 1521](/bill/2023-24/hb/1521/) - Industrial insurance/duties  👎1 
 
-## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware   ❓1
+## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware   ❓2
+* ❓💵 Crystal Leatherman
 
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍1  ❓1
 * 👍💵 Mark Johnson
@@ -147,7 +148,8 @@
 
 ## [HB 1921](/bill/2023-24/hb/1921/) - Prohibiting the use of certain substances in food.  👎1 
 
-## [HB 1934](/bill/2023-24/hb/1934/) - AI task force   ❓1
+## [HB 1934](/bill/2023-24/hb/1934/) - AI task force   ❓2
+* ❓💵 Crystal Leatherman
 * ❓💵 Crystal Leatherman
 
 ## [HB 1951](/bill/2023-24/hb/1951/) - Algorithmic discrimination  👎1 
@@ -208,7 +210,7 @@
 
 ## [HB 2319](/bill/2023-24/hb/2319/) - Substance use treatment 👍1  
 
-## [HB 2390](/bill/2023-24/hb/2390/) - Eluding & resisting arrest 👍1  
+## [HB 2390](/bill/2023-24/hb/2390/) - Eluding & resisting arrest 👍2  
 * 👍💵 Crystal Leatherman
 
 ## [HB 2430](/bill/2023-24/hb/2430/) - Business licensing fees 👍1  
@@ -356,7 +358,7 @@
 * ❓ CRYSTAL LEATHERMAN
 * ❓💵 Crystal Leatherman
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍3  
 * 👍💵 Mark Johnson
 
 ## [SB 5894](/bill/2023-24/sb/5894/) - Equal pay/protected classes   ❓1

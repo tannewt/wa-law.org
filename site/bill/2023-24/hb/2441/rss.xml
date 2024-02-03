@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2441/</link>
 		<description>Updates about HB 2441</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 31 Jan 2024 02:46:12 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 02 Feb 2024 08:19:57 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -29,6 +29,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Andrew/Sund/2024-01-31 02:46:12</guid>
+		</item>
+		<item>
+			<title>👍David Powers - Seattle University</title>
+			<description>David Powers signed up to testify Pro. They are signed up to represent Seattle University.</description>
+			<pubDate>Fri, 02 Feb 2024 08:19:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/David/Powers/2024-02-02 08:19:57</guid>
 		</item>
 	</channel>
 </rss>

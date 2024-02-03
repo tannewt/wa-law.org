@@ -89,7 +89,8 @@
 
 ## [HB 2224](/bill/2023-24/hb/2224/) - Child abuse referral tool 👍1  
 
-## [HB 2246](/bill/2023-24/hb/2246/) - Vacation leave accrual 👍1  
+## [HB 2246](/bill/2023-24/hb/2246/) - Vacation leave accrual 👍2  
+* 👍 Kati Durkin
 * 👍 Kati Durkin
 
 ## [HB 2266](/bill/2023-24/hb/2266/) - Construction/sanitary cond. 👍2  
@@ -114,7 +115,8 @@
 ## [HB 2407](/bill/2023-24/hb/2407/) - Child welfare workers 👍1  
 * 👍 Kati Durkin
 
-## [HB 2447](/bill/2023-24/hb/2447/) - Children and families 👍1  
+## [HB 2447](/bill/2023-24/hb/2447/) - Children and families 👍2  
+* 👍 Kati Durkin
 
 ## [HB 2459](/bill/2023-24/hb/2459/) - Alt. measure disclosures 👍1  
 
@@ -162,6 +164,8 @@
 
 ## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
 
+## [SB 5924](/bill/2023-24/sb/5924/) - Access to personnel records 👍1  
+
 ## [SB 5932](/bill/2023-24/sb/5932/) - Temporary total disability 👍1  
 
 ## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp.   ❓1
@@ -195,3 +199,6 @@
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
 
 ## [SB 6194](/bill/2023-24/sb/6194/) - Legislative employees   ❓1
+
+## [SB 6273](/bill/2023-24/sb/6273/) - Juvenile rehab. audit 👍1  
+* 👍💵 Nicole Gomez

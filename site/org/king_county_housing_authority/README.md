@@ -30,6 +30,8 @@
 
 ## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
 
+## [HB 2329](/bill/2023-24/hb/2329/) - Insurance market/housing 👍1  
+
 ## [SB 5198](/bill/2023-24/sb/5198/) - Mobile home community sales 👍1  
 
 ## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍3  

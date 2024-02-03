@@ -9,23 +9,19 @@
 
 ## Meetings
 ### Fri 02/02 01:30 PM - Ways & Means (WM): SSB 5810 Interpreter bargaining units
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158267&caId=23745&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158267&caId=23745&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158267&caId=23745&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31872&aId=158267&caId=23745&tId=4)
-
-#### 12 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * 💵Dennis Eagle - WA Federation of State Employees
+* QUAN TRAN - Interpreters United (WFSE) President
 
 #### 2 👎 - Con
 Testifying:
 * Lara Stambaugh - DSHS
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Joana Ramos - Washington State Coalition for Language Access
+* Kate White Tudor - WA Association for Community Health
 
 ### Thu 01/11 08:00 AM - Labor & Commerce (LC): SB 5810 Interpreter bargaining units
 #### 8 👍 - Pro

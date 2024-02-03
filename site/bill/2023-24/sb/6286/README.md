@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158603&caId=23850&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158603&caId=23850&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Ebony McNeal - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
+* 💵Amy Brackenbury - Washington State Society of Anesthesiologists
+* 💵Carolyn Logue - [Washington Academy of Anesthesiologist Assistants](/org/washington_academy_of_anesthesiologist_assistants/)
 
 #### 0 👎 - Con
 

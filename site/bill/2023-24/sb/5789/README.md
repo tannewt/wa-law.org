@@ -17,9 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158616&caId=23863&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158616&caId=23863&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Jerry Pugh - Colfax School District
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Tim Eyman - Initiative Activist
 
 #### 0 ❓ - Other
 

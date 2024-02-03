@@ -25,7 +25,7 @@
 
 ## [SB 5912](/bill/2023-24/sb/5912/) - Reentry services & supports 👍1  
 
-## [SB 5953](/bill/2023-24/sb/5953/) - Incarcerated student grants   ❓1
+## [SB 5953](/bill/2023-24/sb/5953/) - Incarcerated student grants 👍1  ❓1
 * ❓💵 Brooke Davies
 
 ## [SB 6021](/bill/2023-24/sb/6021/) - Correctional fees & expenses 👍1  

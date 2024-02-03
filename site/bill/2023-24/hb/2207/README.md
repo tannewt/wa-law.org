@@ -14,6 +14,22 @@
 * 01/22/2024 [NW News Network](/org/nw_news_network/) - [Washington bill creates civil fines, could reduce illegal dumping | Northwest News Network](https://www.nwnewsnetwork.org/environment-and-planning/2024-01-22/washington-bill-illegal-dumping-waste-trash-fines#:~:text=H.B.%202207)
 
 ## Meetings
+### Sat 02/03 09:00 AM - Appropriations (APP): SHB 2207 Solid waste dumping
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158638&caId=23884&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158638&caId=23884&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158638&caId=23884&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158638&caId=23884&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* 💵Jason Callahan - Green Diamond Resource Company
+* Tom Davis
+
+#### 0 👎 - Con
+
+#### 1 ❓ - Other
+
 ### Thu 01/18 08:00 AM - Environment & Energy (ENVI): HB 2207 Solid waste dumping
 #### 11 👍 - Pro
 Testifying:

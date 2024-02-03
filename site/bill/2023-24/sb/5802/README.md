@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158618&caId=23865&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158618&caId=23865&tId=4)
 
-#### 0 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Peter Graham - Department of Social and Health Services Aging and Long-Term Support Administration
+* Carma Matti-Jackson - [Washington Health Care Association](/org/washington_health_care_association/)
 
 #### 0 👎 - Con
 
