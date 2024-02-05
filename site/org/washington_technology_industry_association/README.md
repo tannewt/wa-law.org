@@ -24,7 +24,7 @@
 
 ## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍1  
 
-## [HB 1934](/bill/2023-24/hb/1934/) - AI task force   ❓1
+## [HB 1934](/bill/2023-24/hb/1934/) - AI task force   ❓2
 * ❓💵 Kelly Fukai
 
 ## [HB 1951](/bill/2023-24/hb/1951/) - Algorithmic discrimination  👎1 

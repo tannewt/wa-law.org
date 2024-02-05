@@ -19,7 +19,8 @@
 ## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍1  
 * 👍 Jennifer Dolan-Waldman
 
-## [HB 2197](/bill/2023-24/hb/2197/) - Medical assist./prevention 👍1  
+## [HB 2197](/bill/2023-24/hb/2197/) - Medical assist./prevention 👍2  
+* 👍 Jennifer Dolan Waldman
 
 ## [SB 5232](/bill/2023-24/sb/5232/) - Firearms/purchase & transfer 👍2  
 * 👍💵 Margaret Heldring

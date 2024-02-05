@@ -104,7 +104,7 @@
 
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
 
-## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  
+## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍2  
 
 ## [SB 6143](/bill/2023-24/sb/6143/) - Salmon habitat planning 👍1  
 

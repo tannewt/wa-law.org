@@ -8,17 +8,14 @@
 
 ## Meetings
 ### Sat 02/03 09:00 AM - Ways & Means (WM): SB 6315 Retiree benefits
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158611&caId=23858&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158611&caId=23858&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158611&caId=23858&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158611&caId=23858&tId=4)
-
-#### 491 👍 - Pro
+#### 751 👍 - Pro
 Testifying:
 * Keitha Bryson - WA State School Retirees' Association
 * Tim Knopf - WA State School Retirees' Association
+* 💵Alan Burke - WSSRA
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
-#### 1 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Clair Olivers - Retired Public Employees Council of WA

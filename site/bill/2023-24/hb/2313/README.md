@@ -14,17 +14,18 @@
 
 ## Meetings
 ### Sat 02/03 09:00 AM - Appropriations (APP): SHB 2313 Digital equity
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158636&caId=23882&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158636&caId=23882&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158636&caId=23882&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158636&caId=23882&tId=4)
+#### 37 👍 - Pro
+Testifying:
+* Dirk Van Velzen - The Prison Scholar Fund
+* Avinash Laudon - On behalf of the Workforce Development council WDC Seattle King County
+* 💵Paula Sardinas - FMS Global Strategies/WA Build Back Black Alliance
 
-#### 17 👍 - Pro
+#### 10 👎 - Con
 
-#### 1 👎 - Con
-
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Dave Pringle - Dept. of Commerce
+* Megan Matthews - Office of Equity
 
 ### Tue 01/23 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 2313 Digital equity
 #### 60 👍 - Pro

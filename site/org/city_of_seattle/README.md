@@ -157,7 +157,7 @@
 
 ## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍2  
 
-## [HB 1934](/bill/2023-24/hb/1934/) - AI task force 👍1  
+## [HB 1934](/bill/2023-24/hb/1934/) - AI task force 👍2  
 
 ## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍1  
 
@@ -217,13 +217,15 @@
 
 ## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities 👍1  
 
+## [HB 2197](/bill/2023-24/hb/2197/) - Medical assist./prevention 👍1  
+
 ## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍2  
 
 ## [HB 2219](/bill/2023-24/hb/2219/) - Affordable housing/tax ex. 👍1  
 
 ## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍2  
 
-## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍1  
+## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍2  
 
 ## [HB 2252](/bill/2023-24/hb/2252/) - Small businesses/residential   ❓1
 
@@ -240,13 +242,13 @@
 
 ## [HB 2311](/bill/2023-24/hb/2311/) - First responder wellness 👍1  
 
-## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
+## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍2  
 
-## [HB 2319](/bill/2023-24/hb/2319/) - Substance use treatment 👍1  
+## [HB 2319](/bill/2023-24/hb/2319/) - Substance use treatment 👍2  
 
 ## [HB 2323](/bill/2023-24/hb/2323/) - Rent payments/credit reports 👍1  
 
-## [HB 2329](/bill/2023-24/hb/2329/) - Insurance market/housing 👍1  
+## [HB 2329](/bill/2023-24/hb/2329/) - Insurance market/housing 👍2  
 
 ## [HB 2346](/bill/2023-24/hb/2346/) - Health disparities council 👍1  
 
@@ -266,6 +268,8 @@
 * 👍 Tim Burgess
 
 ## [HB 2415](/bill/2023-24/hb/2415/) - Economic assistance/TANF 👍1  
+
+## [HB 2441](/bill/2023-24/hb/2441/) - College in the HS fees 👍1  
 
 ## [HB 2455](/bill/2023-24/hb/2455/) - Competing ballot measures 👍1  
 
@@ -353,7 +357,7 @@
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍1  
 
-## [SB 5444](/bill/2023-24/sb/5444/) - Firearm sensitive places 👍1  
+## [SB 5444](/bill/2023-24/sb/5444/) - Firearm sensitive places 👍2  
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development   ❓2
 
@@ -411,6 +415,8 @@
 
 ## [SB 5933](/bill/2023-24/sb/5933/) - Infants and toddlers program 👍1  
 
+## [SB 5937](/bill/2023-24/sb/5937/) - Crime victims & witnesses 👍1  
+
 ## [SB 5946](/bill/2023-24/sb/5946/) - Fallen firefighter memorial 👍1  
 
 ## [SB 5957](/bill/2023-24/sb/5957/) - AI use guidelines 👍1  
@@ -433,17 +439,19 @@
 ## [SB 6040](/bill/2023-24/sb/6040/) - Public works payments 👍1  
 * 👍 Miguel Beltran
 
-## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  
+## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍2  
 
 ## [SB 6074](/bill/2023-24/sb/6074/) - TNC driver death benefits 👍1  
 
 ## [SB 6107](/bill/2023-24/sb/6107/) - Construction/sanitary cond. 👍1  
 
+## [SB 6134](/bill/2023-24/sb/6134/) - Opioid use 👍1  
+
 ## [SB 6135](/bill/2023-24/sb/6135/) - TANF transitional assistance 👍2  
 
 ## [SB 6157](/bill/2023-24/sb/6157/) - Civil service 👍1  
 
-## [SB 6171](/bill/2023-24/sb/6171/) - Child care/nonstandard hours 👍1  
+## [SB 6171](/bill/2023-24/sb/6171/) - Child care/nonstandard hours 👍2  
 
 ## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍2  
 
@@ -459,6 +467,6 @@
 
 ## [SB 6245](/bill/2023-24/sb/6245/) - Refugee & immigrant assist. 👍1  
 
-## [SB 6300](/bill/2023-24/sb/6300/) - College grant/public assist. 👍1  
+## [SB 6300](/bill/2023-24/sb/6300/) - College grant/public assist. 👍2  
 
 ## [ESJM 8006](/bill/2023-24/esjm/8006/) - Universal health care 👍1  

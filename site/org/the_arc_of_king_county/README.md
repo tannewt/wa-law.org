@@ -230,13 +230,13 @@
 
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
 
-## [SB 5864](/bill/2023-24/sb/5864/) - Rare disease supports 👍1  
+## [SB 5864](/bill/2023-24/sb/5864/) - Rare disease supports 👍2  
 
 ## [SB 5870](/bill/2023-24/sb/5870/) - Early learning programs 👍1  
 
 ## [SB 5873](/bill/2023-24/sb/5873/) - Student transportation 👍1  
 
-## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍1  
+## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍2  
 
 ## [SB 5883](/bill/2023-24/sb/5883/) - Concerning the burden of proof for special education due process hearings. 👍2  
 * 👍💵 Ramona Hattendorf
@@ -262,7 +262,7 @@
 
 ## [SB 6082](/bill/2023-24/sb/6082/) - Paraeducator compensation 👍1  
 
-## [SB 6125](/bill/2023-24/sb/6125/) - Lakeland Village records 👍1  
+## [SB 6125](/bill/2023-24/sb/6125/) - Lakeland Village records 👍2  
 
 ## [SB 6126](/bill/2023-24/sb/6126/) - Respite care 👍2  
 

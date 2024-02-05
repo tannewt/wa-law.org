@@ -35,7 +35,7 @@
 
 ## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍1  
 
-## [SB 5864](/bill/2023-24/sb/5864/) - Rare disease supports 👍1  
+## [SB 5864](/bill/2023-24/sb/5864/) - Rare disease supports 👍2  
 
 ## [SB 5936](/bill/2023-24/sb/5936/) - Palliative care work group 👍1  
 

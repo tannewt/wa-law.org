@@ -14,22 +14,18 @@
 
 ## Meetings
 ### Sat 02/03 09:00 AM - Ways & Means (WM): SSB 5444 Firearm sensitive places
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158607&caId=23854&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158607&caId=23854&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158607&caId=23854&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158607&caId=23854&tId=4)
-
-#### 575 👍 - Pro
+#### 859 👍 - Pro
 Testifying:
 * Chetan Soni - Washington Youth Alliance
 * Dr. Gwen Loosmore - Washington State PTA
 * Liz Hjelmseth
 
-#### 199 👎 - Con
+#### 498 👎 - Con
 Testifying:
 * Gordon Lueckenotte
 * Eric pratt - America
+* James Lechner
+* Michael Noack
 * 💵Aoibheann Cline - NRA
 * Michael McKinley
 

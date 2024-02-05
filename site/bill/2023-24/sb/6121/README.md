@@ -9,19 +9,17 @@
 
 ## Meetings
 ### Sat 02/03 09:00 AM - Ways & Means (WM): SSB 6121 Ag. and forestry biomass
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158621&caId=23868&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158621&caId=23868&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158621&caId=23868&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158621&caId=23868&tId=4)
-
-#### 188 👍 - Pro
+#### 238 👍 - Pro
 Testifying:
 * Jake Dailey - U.S. Rake Force
 * Jake Dailey - U.S. Rake Force
 * Korina Stark - Small Forest Landowner
 
-#### 131 👎 - Con
+#### 325 👎 - Con
+Testifying:
+* Jeannette Mcchesney
+* Raymond McCord
+* Bobbie Vergon
 
 #### 0 ❓ - Other
 

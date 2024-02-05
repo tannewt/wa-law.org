@@ -49,3 +49,5 @@
 ## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
 
 ## [SB 5999](/bill/2023-24/sb/5999/) - Financial aid eligibility 👍1  
+
+## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍1  

@@ -10,7 +10,7 @@
 ## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options 👍1  
 * 👍 Scott Kerwien
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍1  
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍2  
 
 ## [HB 1608](/bill/2023-24/hb/1608/) - Anaphylaxis meds./schools 👍1  
 

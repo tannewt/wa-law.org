@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/02/2024 [The Center Square](/org/the_center_square/) - [Bill to improve Puget Sound water quality steaming ahead in Olympia | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_88d234a0-c204-11ee-8d7d-2f95236e2d4f.html#:~:text=House%20Bill%201365)
 * 02/27/2023 [House Republicans](/org/house_republicans/) - [Real solutions for Washington’s environment: Cooler, cleaner, healthier water | Washington State House Republicans](https://houserepublicans.wa.gov/real-environmental-solutions/#:~:text=House%20Bill%201365)
 
 ## Meetings

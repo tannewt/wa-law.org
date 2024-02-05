@@ -20,7 +20,7 @@
 
 ## [HB 1436](/bill/2023-24/hb/1436/) - Special education funding 👍1  
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍3  
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍4  
 
 ## [HB 1511](/bill/2023-24/hb/1511/) - Income/child care programs 👍1  
 
@@ -83,7 +83,7 @@
 
 ## [SB 5819](/bill/2023-24/sb/5819/) - Financial education   ❓1
 
-## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍1  
+## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍2  
 
 ## [SB 5873](/bill/2023-24/sb/5873/) - Student transportation 👍1  
 
@@ -91,10 +91,14 @@
 
 ## [SB 5903](/bill/2023-24/sb/5903/) - Concerning representation in the educator preparation act. 👍1  
 
+## [SB 5956](/bill/2023-24/sb/5956/) - Enrichment levies limit   ❓1
+
 ## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  
 
 ## [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation  👎1 
 * 👎 Eric Holzapfel
+
+## [SB 6031](/bill/2023-24/sb/6031/) - Student transp. allocation 👍1  
 
 ## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍1  
 

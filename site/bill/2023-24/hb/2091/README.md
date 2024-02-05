@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/02/2024 [The Center Square](/org/the_center_square/) - [Bill would honor firefighters lost in the line of duty with $5M Olympia memorial | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c61d1470-c217-11ee-a730-5b43b51af6e0.html#:~:text=House%20Bill%202091)
+
 ## Meetings
 ### Wed 01/24 01:30 PM - State Government & Tribal Relations (SGOV): HB 2091 Fallen firefighter memorial
 #### 25 👍 - Pro

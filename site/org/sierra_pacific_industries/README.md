@@ -23,7 +23,7 @@
 
 ## [HB 2045](/bill/2023-24/hb/2045/) - Adopt a fish barrier program 👍1  
 
-## [HB 2207](/bill/2023-24/hb/2207/) - Solid waste dumping 👍1  
+## [HB 2207](/bill/2023-24/hb/2207/) - Solid waste dumping 👍2  
 
 ## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍1  
 

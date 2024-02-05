@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5790/</link>
 		<description>Updates about SB 5790</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 02 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 04 Feb 2024 01:39:22 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -165,6 +165,13 @@
 			<pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-02/First reading, referred to Education.</guid>
+		</item>
+		<item>
+			<title>How a new state bill could help save students’ lives – KIRO 7 News Seattle</title>
+			<description>News article &quot;How a new state bill could help save students’ lives – KIRO 7 News Seattle&quot; from KIRO7.</description>
+			<pubDate>Sun, 04 Feb 2024 01:39:22 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kiro7.com/news/local/bill-passes-senate-that-would-help-local-students-emergencies/AZ67TAG7SNB3RPYUAUGCZU5S64/#:~:text=SB%205790</guid>
 		</item>
 	</channel>
 </rss>

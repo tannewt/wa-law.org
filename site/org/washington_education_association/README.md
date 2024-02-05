@@ -127,7 +127,7 @@
 
 ## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍2  
 
-## [HB 1228](/bill/2023-24/hb/1228/) - Dual & tribal language edu. 👍2  
+## [HB 1228](/bill/2023-24/hb/1228/) - Dual & tribal language edu. 👍3  
 
 ## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍1  
 
@@ -142,7 +142,7 @@
 * 👍 Juliana Morena
 * 👍💵 Simone Boe
 
-## [HB 1239](/bill/2023-24/hb/1239/) - Educator ethics & complaints   ❓2
+## [HB 1239](/bill/2023-24/hb/1239/) - Educator ethics & complaints   ❓3
 * ❓💵 Nasue Nishida
 * ❓💵 Nasue Nishida
 
@@ -900,12 +900,12 @@
 
 ## [SB 5839](/bill/2023-24/sb/5839/) - Modifying the working families' tax credit by clarifying the refundable nature of the credit, the application requirements, and the eligibility verification process. 👍1  
 
-## [SB 5849](/bill/2023-24/sb/5849/) - Computer science/graduation   ❓1
+## [SB 5849](/bill/2023-24/sb/5849/) - Computer science/graduation   ❓2
 * ❓💵 Nasue Nishida
 
 ## [SB 5850](/bill/2023-24/sb/5850/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍2  
 
-## [SB 5851](/bill/2023-24/sb/5851/) - Holocaust and genocide edu. 👍2  
+## [SB 5851](/bill/2023-24/sb/5851/) - Holocaust and genocide edu. 👍3  
 * 👍💵 Simone Boe
 * 👍💵 Simone Boe
 
@@ -950,7 +950,8 @@
 
 ## [SB 5953](/bill/2023-24/sb/5953/) - Incarcerated student grants 👍2  
 
-## [SB 5956](/bill/2023-24/sb/5956/) - Enrichment levies limit 👍2  
+## [SB 5956](/bill/2023-24/sb/5956/) - Enrichment levies limit 👍3  
+* 👍💵 Julie Salvi
 * 👍💵 Julie Salvi
 * 👍💵 Julie Salvi
 
@@ -985,6 +986,8 @@
 
 ## [SB 6030](/bill/2023-24/sb/6030/) - ADU tax exemptions 👍1  
 
+## [SB 6031](/bill/2023-24/sb/6031/) - Student transp. allocation   ❓1
+
 ## [SB 6060](/bill/2023-24/sb/6060/) - Electronic signatures/PERC 👍1  
 
 ## [SB 6072](/bill/2023-24/sb/6072/) - LTSS commission recs. 👍1  
@@ -1015,6 +1018,6 @@
 
 ## [SB 6230](/bill/2023-24/sb/6230/) - Tax increment areas 👍1  
 
-## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍1  
+## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍2  
 
-## [SB 6300](/bill/2023-24/sb/6300/) - College grant/public assist. 👍1  
+## [SB 6300](/bill/2023-24/sb/6300/) - College grant/public assist. 👍2  

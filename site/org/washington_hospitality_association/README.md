@@ -92,7 +92,8 @@
 ## [HB 1900](/bill/2023-24/hb/1900/) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system.   ❓1
 * ❓💵 Samantha Louderback
 
-## [HB 1934](/bill/2023-24/hb/1934/) - AI task force   ❓1
+## [HB 1934](/bill/2023-24/hb/1934/) - AI task force   ❓2
+* ❓ Montana Miranda
 * ❓ Montana Miranda
 
 ## [HB 1940](/bill/2023-24/hb/1940/) - Employer political speech  👎1 

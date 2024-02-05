@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6315/</link>
 		<description>Updates about SB 6315</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 02 Feb 2024 11:48:27 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 03 Feb 2024 07:34:45 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,6 +23,14 @@
 			<guid isPermaLink="false">2024-02-02/First reading, referred to Ways &amp; Means.</guid>
 		</item>
 		<item>
+			<title>❓Clair Olivers - Retired Public Employees Council of WA</title>
+			<description>Clair Olivers signed up to testify Other. They are signed up to represent Retired Public Employees Council of WA.</description>
+			<pubDate>Fri, 02 Feb 2024 07:29:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Clair/Olivers/2024-02-02 07:29:02</guid>
+		</item>
+		<item>
 			<title>👍Keitha Bryson - WA State School Retirees' Association</title>
 			<description>Keitha Bryson signed up to testify Pro. They are signed up to represent WA State School Retirees' Association.</description>
 			<pubDate>Fri, 02 Feb 2024 11:04:27 GMT</pubDate>
@@ -37,6 +45,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Tim/Knopf/2024-02-02 11:48:27</guid>
+		</item>
+		<item>
+			<title>👍💵Alan Burke - WSSRA</title>
+			<description>Alan Burke signed up to testify Pro. They are signed up to represent WSSRA. They are a registered lobbyist.</description>
+			<pubDate>Sat, 03 Feb 2024 07:34:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Alan/Burke/2024-02-03 07:34:45</guid>
 		</item>
 	</channel>
 </rss>

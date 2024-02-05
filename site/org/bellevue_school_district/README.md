@@ -41,6 +41,8 @@
 
 ## [HB 1732](/bill/2023-24/hb/1732/) - K-12 inflation adjustments 👍1  
 
+## [HB 2215](/bill/2023-24/hb/2215/) - Enrichment levies limit 👍1  
+
 ## [SB 5020](/bill/2023-24/sb/5020/) - Education at 6 years of age 👍1  
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍4  

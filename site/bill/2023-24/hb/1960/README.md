@@ -11,18 +11,15 @@
 
 ## Meetings
 ### Sat 02/03 09:00 AM - Appropriations (APP): HB 1960 Prototypical school staffing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158640&caId=23886&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158640&caId=23886&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158640&caId=23886&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158640&caId=23886&tId=4)
-
-#### 19 👍 - Pro
+#### 112 👍 - Pro
 Testifying:
+* Rick Chisa - Public School Employees of WA/SEIU 1948
+* Nancy Katims - Edmonds School District
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Marissa Rathbone - Washington State School Directors' Association
+* Malorie Larson - Washington State PTA
 
-#### 0 👎 - Con
+#### 11 👎 - Con
 
 #### 0 ❓ - Other

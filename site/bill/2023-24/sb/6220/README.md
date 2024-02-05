@@ -13,12 +13,6 @@
 
 ## Meetings
 ### Sat 02/03 09:00 AM - Ways & Means (WM): SSB 6220 High THC cannabis products
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158541&caId=23830&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158541&caId=23830&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158541&caId=23830&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158541&caId=23830&tId=4)
-
 #### 6 👍 - Pro
 Testifying:
 * Beatriz Carlini
@@ -26,10 +20,11 @@ Testifying:
 * LINDA THOMPSON - Washington Association for Substance misuse and Violence Prevention (WASAVP)
 * Beth Ebel - President, WCAAP
 
-#### 4 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Caitlein Ryan - THE CANNABIS ALLIANCE
 * 💵Vicki Christophersen - Washington CannaBusiness Association
+* 💵Ezra Eickmeyer - Producers NW
 
 #### 1 ❓ - Other
 Testifying:

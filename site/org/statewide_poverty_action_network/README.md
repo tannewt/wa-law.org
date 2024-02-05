@@ -140,7 +140,7 @@
 
 ## [HB 2176](/bill/2023-24/hb/2176/) - Preventive dental care  👎1 
 
-## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍1  
+## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍2  
 
 ## [HB 2244](/bill/2023-24/hb/2244/) - Retirement savings 👍1  
 

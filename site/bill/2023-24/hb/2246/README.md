@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Sat 02/03 09:00 AM - Appropriations (APP): HB 2246 Vacation leave accrual
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158633&caId=23879&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158633&caId=23879&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158633&caId=23879&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158633&caId=23879&tId=4)
-
-#### 6 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 

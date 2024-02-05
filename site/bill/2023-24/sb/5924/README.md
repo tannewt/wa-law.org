@@ -9,23 +9,21 @@
 
 ## Meetings
 ### Sat 02/03 09:00 AM - Ways & Means (WM): SSB 5924 Access to personnel records
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158619&caId=23866&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158619&caId=23866&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158619&caId=23866&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158619&caId=23866&tId=4)
-
-#### 107 👍 - Pro
+#### 151 👍 - Pro
 Testifying:
 * Patrick McGah
 * Brian Wright - Washington State Association for Justice
 * 💵Larry Shannon - Washington State Association for Justice
+* Jesse Wing - [Washington Employment Lawyers Association](/org/washington_employment_lawyers_association/)
 
-#### 10 👎 - Con
+#### 19 👎 - Con
 Testifying:
 * 💵Lisa Thatcher - Washington State Hospital Association
 * Gordon Lueckenotte
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Robert (Bob) Battles - Association of Washington Business (AWB)
+* 💵Carolyn Logue - Washington Food Industry Association
+* 💵Katie Beeson - WFIA
 
 #### 0 ❓ - Other
 

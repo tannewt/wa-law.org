@@ -7,4 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/02/2024 [Gorge News Center](/org/gorge_news_center/) - [Senate passes Holy bill aimed at helping high-school students attend college](https://gorgenewscenter.com/2024/02/02/senate-passes-holy-bill-aimed-at-helping-high-school-students-attend-college/#:~:text=Senate%20Bill%206053)
+
 ## Meetings

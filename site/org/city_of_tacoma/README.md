@@ -96,6 +96,8 @@
 
 ## [HB 2086](/bill/2023-24/hb/2086/) - Office of indep. invest. 👍1  
 
+## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍1  
+
 ## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management   ❓1
 * ❓ Lewis Griffith
 

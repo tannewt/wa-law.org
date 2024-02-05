@@ -80,7 +80,7 @@
 
 ## [HB 2191](/bill/2023-24/hb/2191/) - PTBA governing body members 👍1  
 
-## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍1  
+## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍2  
 
 ## [HB 2234](/bill/2023-24/hb/2234/) - Low-income energy assistance 👍1  
 
@@ -88,7 +88,7 @@
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
-## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
+## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍2  
 
 ## [HB 2323](/bill/2023-24/hb/2323/) - Rent payments/credit reports 👍1  
 
@@ -168,4 +168,4 @@
 
 ## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍1  
 
-## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍1  
+## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍2  

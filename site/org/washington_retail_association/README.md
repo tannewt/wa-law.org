@@ -367,6 +367,8 @@
 ## [SB 5897](/bill/2023-24/sb/5897/) - Modifying provisions of the business licensing service program. 👍1  
 * 👍💵 Mark Johnson
 
+## [SB 5924](/bill/2023-24/sb/5924/) - Access to personnel records  👎1 
+
 ## [SB 5932](/bill/2023-24/sb/5932/) - Temporary total disability  👎1 
 
 ## [SB 5957](/bill/2023-24/sb/5957/) - AI use guidelines   ❓1

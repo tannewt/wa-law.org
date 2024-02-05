@@ -33,7 +33,7 @@
 
 ## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍3  
 
-## [HB 2076](/bill/2023-24/hb/2076/) - Human trafficking crimes 👍1  
+## [HB 2076](/bill/2023-24/hb/2076/) - Human trafficking crimes 👍2  
 
 ## [HB 2087](/bill/2023-24/hb/2087/) - Apprenticeship objections 👍1  
 
@@ -80,8 +80,10 @@
 
 ## [SB 5894](/bill/2023-24/sb/5894/) - Equal pay/protected classes 👍1  
 
-## [SB 5955](/bill/2023-24/sb/5955/) - Large port districts  👎1 
+## [SB 5955](/bill/2023-24/sb/5955/) - Large port districts 👍2 👎1 
 * 👎 John Flanagan
+* 👍 Hamdi Mohamed
+* 👍 John Flanagan
 
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
 

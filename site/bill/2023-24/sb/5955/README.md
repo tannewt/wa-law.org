@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Sat 02/03 09:00 AM - Ways & Means (WM): SSB 5955 Large port districts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158536&caId=23825&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158536&caId=23825&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158536&caId=23825&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158536&caId=23825&tId=4)
-
-#### 65 👍 - Pro
+#### 115 👍 - Pro
 Testifying:
 * JC Harris - SeaTacNoise.Info
 * Pete loke
@@ -29,14 +23,19 @@ Testifying:
 * Traci Buxton - Mayor, City of Des Moines WA
 * Brian Davis - Burien Airport Committee
 * Denise Utley
+* Sheila Brush
+* Randy Boucher
+* Hamdi Mohamed - [Port of Seattle](/org/port_of_seattle/)
+* John Flanagan - [Port of Seattle](/org/port_of_seattle/)
 * Kyle Moore - City of SeaTac, Government Relations
 
-#### 410 👎 - Con
+#### 460 👎 - Con
 Testifying:
 * Jeannette Mcchesney
 * Colleen Wise
+* Bobbie Vergon
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/16 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5955 Large port districts
 #### 254 👍 - Pro

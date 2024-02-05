@@ -8,17 +8,12 @@
 
 ## Meetings
 ### Sat 02/03 09:00 AM - Ways & Means (WM): SB 6085 Underground economy
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158524&caId=23801&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158524&caId=23801&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158524&caId=23801&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158524&caId=23801&tId=4)
-
-#### 42 👍 - Pro
+#### 46 👍 - Pro
 Testifying:
+* 💵Christopher Ellis - Bricklayers & Allied Craftworkers Local 1
 * 💵Mark Streuli - International Union of Painters and Allied Trades - DC 5
 
-#### 6 👎 - Con
+#### 9 👎 - Con
 
 #### 0 ❓ - Other
 

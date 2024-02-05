@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/02/2024 [The Center Square](/org/the_center_square/) - [Legal dispute looms between Spokane, housing coordinator over unpaid costs | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c8c1b00c-c206-11ee-aebe-3bcec91aaffd.html#:~:text=House%20Bill%201872)
 * 01/16/2024 [The Center Square](/org/the_center_square/) - [Spokane prepares for annual point-in-time homeless survey | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0ac8b762-b4b4-11ee-b4d2-b3e89fa6c532.html#:~:text=House%20Bill%201872)
 
 ## Meetings

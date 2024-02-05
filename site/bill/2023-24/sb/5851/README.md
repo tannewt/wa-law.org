@@ -15,28 +15,40 @@
 
 ## Meetings
 ### Sat 02/03 09:00 AM - Ways & Means (WM): SSB 5851 Holocaust and genocide edu.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158527&caId=23804&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158527&caId=23804&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158527&caId=23804&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158527&caId=23804&tId=4)
-
-#### 46 👍 - Pro
+#### 66 👍 - Pro
 Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* Dee Simon - Holocaust Center for Humanity
+* Lynn Smith
+* Paul Regelbrugge - Holocaust Center for Humanity
+* Liam Krol
+* Rose Nelson
+* 💵Nancy Sapiro - Jewish Community Relations Council of the Jewish Federation
+* 💵Hannah Lidman - Parent
+* Linda Clifton
+* Solomon Kane - [Jewish Federation of Greater Seattle](/org/jewish_federation_of_greater_seattle/)
 * Aline Flower
 
-#### 8 👎 - Con
+#### 25 👎 - Con
 Testifying:
 * Meera Badari
 * Nomy Lamm - JVP Olympia
 * Osama Emara
 * Nizama Djuderija - BAI
 * Oliver Miska - WAESN
+* Leslie Maxwell
+* Sarah Karim
+* Ella Hassan
+* Noreen Awan
+* Sara Duke
 
-#### 1 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * Rebekah Erev
+* Michelle Ryder
+* Rae Levine
+* Sy Khan
+* Sallie Shawl
 
 ### Wed 01/17 10:30 AM - Early Learning & K-12 Education (EDU): SB 5851 Holocaust and genocide edu.
 #### 880 👍 - Pro

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1648/</link>
 		<description>Updates about HB 1648</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 02 Feb 2024 11:06:35 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 03 Feb 2024 06:30:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -297,12 +297,28 @@
 			<guid isPermaLink="false">testifier/Jeff/Gombosky/2024-02-02 02:30:26</guid>
 		</item>
 		<item>
+			<title>❓Kevin Erickson - Future of Music Coalition</title>
+			<description>Kevin Erickson signed up to testify Other. They are signed up to represent Future of Music Coalition.</description>
+			<pubDate>Fri, 02 Feb 2024 04:54:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Kevin/Erickson/2024-02-02 04:54:47</guid>
+		</item>
+		<item>
 			<title>❓james kimmel - Epic Seats</title>
 			<description>james kimmel signed up to testify Other. They are signed up to represent Epic Seats.</description>
 			<pubDate>Fri, 02 Feb 2024 11:06:35 GMT</pubDate>
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/james/kimmel/2024-02-02 11:06:35</guid>
+		</item>
+		<item>
+			<title>👍scott hazlegrove - StubHub</title>
+			<description>scott hazlegrove signed up to testify Pro. They are signed up to represent StubHub.</description>
+			<pubDate>Sat, 03 Feb 2024 06:30:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/scott/hazlegrove/2024-02-03 06:30:39</guid>
 		</item>
 	</channel>
 </rss>

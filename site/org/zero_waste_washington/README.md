@@ -36,7 +36,7 @@
 ## [HB 1422](/bill/2023-24/hb/1422/) - Reusable packing materials 👍1  
 * 👍💵 Heather Trim
 
-## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  
+## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍2  
 
 ## [HB 1574](/bill/2023-24/hb/1574/) - Methane/agriculture 👍1  
 
@@ -53,7 +53,7 @@
 ## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg. 👍2  
 * 👍💵 Heather Trim
 
-## [HB 2207](/bill/2023-24/hb/2207/) - Solid waste dumping 👍1  
+## [HB 2207](/bill/2023-24/hb/2207/) - Solid waste dumping 👍2  
 
 ## [HB 2262](/bill/2023-24/hb/2262/) - Tire rolling resistance 👍1  
 * 👍💵 Heather Trim
@@ -61,7 +61,8 @@
 ## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management 👍1  
 * 👍💵 Heather Trim
 
-## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases 👍1  
+## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases 👍2  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍1  

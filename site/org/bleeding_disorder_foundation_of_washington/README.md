@@ -54,7 +54,7 @@
 
 ## [HB 2256](/bill/2023-24/hb/2256/) - Children behavioral health 👍1  
 
-## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
+## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍2  
 
 ## [HB 2361](/bill/2023-24/hb/2361/) - Standardized health plans 👍1  
 
@@ -100,7 +100,7 @@
 
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
 
-## [SB 5864](/bill/2023-24/sb/5864/) - Rare disease supports 👍1  
+## [SB 5864](/bill/2023-24/sb/5864/) - Rare disease supports 👍2  
 
 ## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍1  
 

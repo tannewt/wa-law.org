@@ -56,7 +56,7 @@
 
 ## [HB 1873](/bill/2023-24/hb/1873/) - Concerning office of public defense social service workers for parents in child welfare cases. 👍1  
 
-## [HB 1877](/bill/2023-24/hb/1877/) - Behavioral health/tribes 👍1  
+## [HB 1877](/bill/2023-24/hb/1877/) - Behavioral health/tribes 👍2  
 
 ## [HB 1902](/bill/2023-24/hb/1902/) - Firearms/purchase & transfer 👍1  
 
@@ -84,7 +84,7 @@
 
 ## [HB 2194](/bill/2023-24/hb/2194/) - Home cultivation of cannabis  👎1 
 
-## [HB 2197](/bill/2023-24/hb/2197/) - Medical assist./prevention 👍1  
+## [HB 2197](/bill/2023-24/hb/2197/) - Medical assist./prevention 👍2  
 
 ## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage 👍1  
 
@@ -95,6 +95,8 @@
 ## [HB 2256](/bill/2023-24/hb/2256/) - Children behavioral health 👍1  
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
+
+## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
 
 ## [SB 5006](/bill/2023-24/sb/5006/) - Waiver of firearm rights 👍1  
 
@@ -116,7 +118,7 @@
 ## [SB 5367](/bill/2023-24/sb/5367/) - Products containing THC 👍2  
 * 👍 Megan Moore
 
-## [SB 5444](/bill/2023-24/sb/5444/) - Firearm sensitive places 👍1  
+## [SB 5444](/bill/2023-24/sb/5444/) - Firearm sensitive places 👍2  
 
 ## [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍1  
 
@@ -130,14 +132,20 @@
 
 ## [SB 5933](/bill/2023-24/sb/5933/) - Infants and toddlers program 👍1  
 
+## [SB 5955](/bill/2023-24/sb/5955/) - Large port districts 👍1  
+
 ## [SB 5967](/bill/2023-24/sb/5967/) - Housing/public lands leases 👍1  
 
 ## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍2  
 * 👍💵 Amy Brackenbury
 
+## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  
+
 ## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍1  
 
 ## [SB 6095](/bill/2023-24/sb/6095/) - Secretary of health orders 👍1  
+
+## [SB 6110](/bill/2023-24/sb/6110/) - Child fatalities 👍1  
 
 ## [SB 6122](/bill/2023-24/sb/6122/) - Alcohol delivery  👎1 
 
@@ -151,5 +159,7 @@
 
 ## [SB 6271](/bill/2023-24/sb/6271/) - Cannabis excise tax/THC 👍1  
 * 👍 Megan Moore
+
+## [SB 6300](/bill/2023-24/sb/6300/) - College grant/public assist. 👍1  
 
 ## [ESJM 8006](/bill/2023-24/esjm/8006/) - Universal health care 👍1  

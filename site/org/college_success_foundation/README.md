@@ -56,7 +56,7 @@
 
 ## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍2  
 
-## [HB 2025](/bill/2023-24/hb/2025/) - State work-study program 👍1  
+## [HB 2025](/bill/2023-24/hb/2025/) - State work-study program 👍2  
 * 👍💵 Juliet Schindler
 
 ## [HB 2053](/bill/2023-24/hb/2053/) - Establishing the ninth grade success grant program. 👍2  
@@ -152,5 +152,7 @@
 ## [SB 5999](/bill/2023-24/sb/5999/) - Financial aid eligibility 👍1  
 
 ## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍1  
+
+## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍1  
 
 ## [SB 6300](/bill/2023-24/sb/6300/) - College grant/public assist. 👍1  

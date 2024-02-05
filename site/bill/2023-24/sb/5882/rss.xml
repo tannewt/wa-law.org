@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5882/</link>
 		<description>Updates about SB 5882</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 02 Feb 2024 02:32:51 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 03 Feb 2024 07:02:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -280,6 +280,38 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Charlie/Brown/2024-02-02 02:32:51</guid>
+		</item>
+		<item>
+			<title>👍Rick Chisa - Public School Employees of WA/SEIU 1948</title>
+			<description>Rick Chisa signed up to testify Pro. They are signed up to represent Public School Employees of WA/SEIU 1948.</description>
+			<pubDate>Fri, 02 Feb 2024 05:14:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rick/Chisa/2024-02-02 05:14:10</guid>
+		</item>
+		<item>
+			<title>❓Dave Larson - Tukwila School Board</title>
+			<description>Dave Larson signed up to testify Other. They are signed up to represent Tukwila School Board.</description>
+			<pubDate>Fri, 02 Feb 2024 07:37:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Dave/Larson/2024-02-02 07:37:18</guid>
+		</item>
+		<item>
+			<title>👍Hannah Blackbourn - --None--</title>
+			<description>Hannah Blackbourn signed up to testify Pro. They are signed up to represent --None--.</description>
+			<pubDate>Fri, 02 Feb 2024 09:35:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Hannah/Blackbourn/2024-02-02 09:35:54</guid>
+		</item>
+		<item>
+			<title>👎Bobbie Vergon - Washington Policy Center</title>
+			<description>Bobbie Vergon signed up to testify Con.</description>
+			<pubDate>Sat, 03 Feb 2024 07:02:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Bobbie/Vergon/2024-02-03 07:02:16</guid>
 		</item>
 	</channel>
 </rss>

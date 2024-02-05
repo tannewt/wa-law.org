@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/02/2024 [NW News Network](/org/nw_news_network/) - [First cutoff deadline, rent bill complications: A quick look at week 4 in the WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-02-02/first-cutoff-deadline-rent-bill-complications-a-quick-look-at-week-4-in-the-wa-legislature#:~:text=Senate%20Bill%205804)
+* 02/02/2024 [KUOW](/org/kuow/) - [KUOW - Kirkland students' bill to put Narcan in schools passes the Senate, heads to House](https://www.kuow.org/stories/kirkland-students-bill-to-put-narcan-in-schools-passes-first-test#:~:text=Senate%20Bill%205804)
 * 02/01/2024 [Crosscut](/org/crosscut/) - [Washington teens advocate for Narcan in every school | Crosscut](https://crosscut.com/politics/2024/02/washington-teens-advocate-narcan-every-school#:~:text=Senate%20Bill%205804)
 * 01/07/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: Welcome to the 2024 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/07/this-week-in-the-senate-week-1-welcome-to-the-2024-session/#:~:text=Senate%20Bill%205804)
 

@@ -19,6 +19,8 @@
 
 ## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍3  
 
+## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍1  
+
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
 * ❓ Sheila Babb Anderson
 

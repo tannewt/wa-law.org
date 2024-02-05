@@ -13,19 +13,16 @@
 
 ## Meetings
 ### Sat 02/03 09:00 AM - Ways & Means (WM): SSB 6264 Competency-based education
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158525&caId=23802&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158525&caId=23802&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158525&caId=23802&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158525&caId=23802&tId=4)
-
 #### 4 👍 - Pro
 Testifying:
 * Michelle Whitehead
 
-#### 356 👎 - Con
+#### 476 👎 - Con
 Testifying:
 * Andy Cilley
+* Sarah Garriott
+* Mary Long - Conservative Ladies of Washington
+* Jennifer Heine-Withee - Resolution Fitness
 
 #### 1 ❓ - Other
 

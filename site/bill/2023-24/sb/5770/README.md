@@ -20,6 +20,7 @@
 * 04/14/2023 [Senate Republicans](/org/senate_republicans/) - [Senate Bill 5770 - the property tax increase on EVERYONE - Senate Republican Caucus](https://src.wastateleg.org/blog/fiscal-impact-senate-bill-5770/#:~:text=Senate%20Bill%205770.)
 * 04/14/2023 [Gorge News Center](/org/gorge_news_center/) - [Warnick rejects Democrat tax-hikes on housing](https://gorgenewscenter.com/2023/04/14/warnick-rejects-democrat-tax-hikes-on-housing/#:~:text=Senate%20Bill%205770)
 * 04/13/2023 [The Center Square](/org/the_center_square/) - [Proposed property tax cap hike angers Washington Senate GOP | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3e3032ca-da43-11ed-90f3-a7aca1ba305f.html#:~:text=Senate%20Bill%205770%20states)
+* [Senate Republicans](/org/senate_republicans/) - [Property Tax Growth Rate Increase - Senate Republican Caucus](https://src.wastateleg.org/sb-5770-property-tax-growth-rate-increase/#:~:text=Senate%20Bill%205770)
 
 ## Meetings
 ### Thu 01/18 04:00 PM - Ways & Means (WM): SB 5770 Property tax

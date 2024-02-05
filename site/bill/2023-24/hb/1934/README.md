@@ -15,25 +15,22 @@
 
 ## Meetings
 ### Sat 02/03 09:00 AM - Appropriations (APP): SHB 1934 AI task force
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158625&caId=23871&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158625&caId=23871&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158625&caId=23871&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158625&caId=23871&tId=4)
-
-#### 5 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * 💵Scott Nelson - State Auditor's Office
 * Manveer Sandhu - Attorney General's Office
 * 💵Larry Shannon - Washington State Association for Justice
 
-#### 131 👎 - Con
+#### 349 👎 - Con
 Testifying:
 * Eric pratt - America
+* Julie Barrett - Conservative Ladies of Washington
 
-#### 3 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* Robert (Bob) Battles - Association of Washington Business (AWB)
+* Montana Miranda - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
 ### Fri 01/19 08:00 AM - Consumer Protection & Business (CPB): HB 1934 AI task force
 #### 55 👍 - Pro

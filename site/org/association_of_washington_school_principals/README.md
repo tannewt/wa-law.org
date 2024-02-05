@@ -48,7 +48,7 @@
 
 ## [HB 1478](/bill/2023-24/hb/1478/) - Student rights 👍1  
 
-## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation   ❓4
+## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation   ❓5
 * ❓💵 Roz Thompson
 
 ## [HB 1504](/bill/2023-24/hb/1504/) - Elementary school recess   ❓1
@@ -72,6 +72,8 @@
 
 ## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
 * 👍💵 Casey Brown
+
+## [HB 1960](/bill/2023-24/hb/1960/) - Increasing prototypical school staffing to better meet student needs. 👍1  
 
 ## [HB 2018](/bill/2023-24/hb/2018/) - Improving student outcomes by restricting mobile device use by public school students.   ❓1
 
@@ -180,11 +182,11 @@
 
 ## [SB 5850](/bill/2023-24/sb/5850/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
 
-## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍1  
+## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍2  
 
 ## [SB 5873](/bill/2023-24/sb/5873/) - Student transportation 👍2  
 
-## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍1  
+## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍2  
 
 ## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
 
@@ -199,12 +201,14 @@
 
 ## [SB 6014](/bill/2023-24/sb/6014/) - Special education cap 👍1  
 
+## [SB 6031](/bill/2023-24/sb/6031/) - Student transp. allocation 👍1  
+
 ## [SB 6123](/bill/2023-24/sb/6123/) - Classified school employees 👍1  
 
 ## [SB 6208](/bill/2023-24/sb/6208/) - Public school materials 👍1  
 
 ## [SB 6216](/bill/2023-24/sb/6216/) - Student mental health net. 👍1  
 
-## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍1  
+## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍2  
 
-## [SB 6300](/bill/2023-24/sb/6300/) - College grant/public assist. 👍1  
+## [SB 6300](/bill/2023-24/sb/6300/) - College grant/public assist. 👍2  

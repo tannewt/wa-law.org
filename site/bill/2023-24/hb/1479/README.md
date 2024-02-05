@@ -33,23 +33,20 @@
 
 ## Meetings
 ### Sat 02/03 09:00 AM - Appropriations (APP): 3SHB 1479 Student restraint, isolation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158630&caId=23876&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158630&caId=23876&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158630&caId=23876&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158630&caId=23876&tId=4)
-
-#### 36 👍 - Pro
+#### 104 👍 - Pro
 Testifying:
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* 💵Daniel Lugo - [Treehouse](/org/treehouse/)
+* Michelle Whitehead
 * 💵Andrea Kadlec - [Disability Rights Washington](/org/disability_rights_washington/)
 
 #### 1 👎 - Con
 
-#### 26 ❓ - Other
+#### 30 ❓ - Other
 Testifying:
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
+* Rick Chisa - Public School Employees of WA/SEIU 1948
 * Richard Pope - Parent of Isolation Survivor
 
 ### Thu 01/11 08:00 AM - Education (ED): E2SHB 1479 Student restraint, isolation

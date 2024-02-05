@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Sat 02/03 09:00 AM - Ways & Means (WM): SSB 6052 Petroleum product supply
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158545&caId=23834&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158545&caId=23834&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158545&caId=23834&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158545&caId=23834&tId=4)
-
-#### 22 👍 - Pro
+#### 95 👍 - Pro
 Testifying:
 * 💵Clifford Traisman - [Washington Conservation Action](/org/washington_conservation_action/)
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
@@ -27,15 +21,18 @@ Testifying:
 * Becky Kelley - Office of the Governor
 * Jason Lewis - Utilities and Transportation Commission
 
-#### 469 👎 - Con
+#### 541 👎 - Con
 Testifying:
 * Jeannette Mcchesney
 * Marian LaFountaine
 * bobbi moody
 * Jeffrey Pack - Washington Citizens Against Unfair Taxes
+* 💵Diana Carlen - [Washington Oil Marketers Association](/org/washington_oil_marketers_association/)
 * 💵Greg Hanon - Western States Petroleum Association
+* Bobbie Vergon
+* Carmelinda Wiley
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 01/17 08:00 AM - Environment, Energy & Technology (ENET): SB 6052 Petroleum product supply
 #### 921 👍 - Pro

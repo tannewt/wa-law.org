@@ -9,20 +9,17 @@
 
 ## Meetings
 ### Sat 02/03 09:00 AM - Ways & Means (WM): SSB 6039 Geothermal energy resources
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158606&caId=23853&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158606&caId=23853&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158606&caId=23853&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158606&caId=23853&tId=4)
-
-#### 19 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * Casey Hanell - [Department of Natural Resources](/org/department_of_natural_resources/)
 * RoseMary LaClair - Nooksack Tribe
+* scott hazlegrove - Whatcom PUD
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tim Gates - WA Dept of Ecology
 
 ### Wed 01/10 08:00 AM - Environment, Energy & Technology (ENET): SB 6039 Geothermal energy resources
 #### 88 👍 - Pro

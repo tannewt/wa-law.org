@@ -14,13 +14,9 @@
 
 ## Meetings
 ### Sat 02/03 09:00 AM - Appropriations (APP): SHB 1877 Behavioral health/tribes
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158646&caId=23892&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158646&caId=23892&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158646&caId=23892&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158646&caId=23892&tId=4)
-
-#### 7 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* 💵Vicki Lowe - American Indian Health Commission and Washington State Women's Commission
 
 #### 0 👎 - Con
 

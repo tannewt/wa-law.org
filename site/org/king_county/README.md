@@ -246,7 +246,7 @@
 
 ## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍4  
 
-## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  
+## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍2  
 
 ## [HB 1554](/bill/2023-24/hb/1554/) - Lead impacts 👍2  
 
@@ -385,7 +385,7 @@
 
 ## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍1  
 
-## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍1  
+## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍2  
 
 ## [HB 2250](/bill/2023-24/hb/2250/) - Local elections 👍1  
 
@@ -393,7 +393,7 @@
 
 ## [HB 2258](/bill/2023-24/hb/2258/) - Regional 911 funding  👎1 
 
-## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍1  
+## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍2  
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
@@ -401,7 +401,9 @@
 
 ## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management 👍1  
 
-## [HB 2329](/bill/2023-24/hb/2329/) - Insurance market/housing 👍1  
+## [HB 2319](/bill/2023-24/hb/2319/) - Substance use treatment 👍1  
+
+## [HB 2329](/bill/2023-24/hb/2329/) - Insurance market/housing 👍2  
 
 ## [HB 2347](/bill/2023-24/hb/2347/) - Adult family home info. 👍1  
 
@@ -414,7 +416,8 @@
 
 ## [HB 2403](/bill/2023-24/hb/2403/) - Kennel fire safety standards 👍1  
 
-## [HB 2474](/bill/2023-24/hb/2474/) - Concerning compliance with siting requirements for transitional housing, permanent supportive housing, indoor emergency shelters, and indoor emergency housing. 👍1  
+## [HB 2474](/bill/2023-24/hb/2474/) - Concerning compliance with siting requirements for transitional housing, permanent supportive housing, indoor emergency shelters, and indoor emergency housing. 👍2  
+* 👍💵 Michael White
 * 👍💵 Michael White
 
 ## [SB 5006](/bill/2023-24/sb/5006/) - Waiver of firearm rights 👍1  
@@ -745,8 +748,12 @@
 ## [SB 6245](/bill/2023-24/sb/6245/) - Refugee & immigrant assist. 👍1  
 * 👍 Michael Padilla Ocampo
 
+## [SB 6251](/bill/2023-24/sb/6251/) - Behavioral crisis coord. 👍1  
+
 ## [SB 6269](/bill/2023-24/sb/6269/) - Alt. voter verification 👍1  
 
 ## [SB 6276](/bill/2023-24/sb/6276/) - Digital electronics/repair 👍1  
+
+## [SB 6308](/bill/2023-24/sb/6308/) - 988 system timeline 👍1  
 
 ## [SJR 8201](/bill/2023-24/sjr/8201/) - Public works account 👍1  

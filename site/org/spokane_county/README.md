@@ -31,3 +31,5 @@
 ## [SB 5792](/bill/2023-24/sb/5792/) - Concerning the definition of multiunit residential buildings. 👍1  
 
 ## [SB 6202](/bill/2023-24/sb/6202/) - Tourism promotion exemptions 👍1  
+
+## [SB 6251](/bill/2023-24/sb/6251/) - Behavioral crisis coord. 👍1  

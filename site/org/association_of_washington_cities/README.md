@@ -376,7 +376,8 @@
 ## [HB 2470](/bill/2023-24/hb/2470/) - Creating a local sales and use tax to address gender-based violence.   ❓2
 * ❓💵 Lindsey Hueer
 
-## [HB 2474](/bill/2023-24/hb/2474/) - Concerning compliance with siting requirements for transitional housing, permanent supportive housing, indoor emergency shelters, and indoor emergency housing.  👎1 
+## [HB 2474](/bill/2023-24/hb/2474/) - Concerning compliance with siting requirements for transitional housing, permanent supportive housing, indoor emergency shelters, and indoor emergency housing.  👎2 
+* 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 
 ## [SB 5001](/bill/2023-24/sb/5001/) - Public facility districts 👍1  
@@ -718,6 +719,8 @@
 
 ## [SB 6242](/bill/2023-24/sb/6242/) - Law enforcement training 👍1  
 * 👍💵 Lindsey Hueer
+
+## [SB 6251](/bill/2023-24/sb/6251/) - Behavioral crisis coord. 👍1  
 
 ## [SB 6285](/bill/2023-24/sb/6285/) - Use of impact fees  👎1 
 * 👎💵 Carl Schroeder

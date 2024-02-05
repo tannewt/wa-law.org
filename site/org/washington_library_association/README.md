@@ -11,7 +11,7 @@
 
 ## [HB 2106](/bill/2023-24/hb/2106/) - Library district annexation   ❓1
 
-## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
+## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍2  
 * 👍💵 Carolyn Logue
 
 ## [HB 2331](/bill/2023-24/hb/2331/) - Public school materials 👍2  

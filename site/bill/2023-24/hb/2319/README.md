@@ -13,17 +13,17 @@
 
 ## Meetings
 ### Sat 02/03 09:00 AM - Appropriations (APP): SHB 2319 Substance use treatment
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158647&caId=23893&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158647&caId=23893&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158647&caId=23893&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158647&caId=23893&tId=4)
+#### 10 👍 - Pro
+Testifying:
+* Joe Barrett
 
-#### 2 👍 - Pro
+#### 2 👎 - Con
+Testifying:
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Katie Kolan - Washington State Hospital Association (WSHA)
 
 ### Tue 01/23 01:30 PM - Health Care & Wellness (HCW): HB 2319 Substance use treatment
 #### 26 👍 - Pro

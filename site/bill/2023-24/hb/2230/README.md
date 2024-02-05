@@ -9,19 +9,14 @@
 
 ## Meetings
 ### Sat 02/03 09:00 AM - Appropriations (APP): SHB 2230 Economic security grants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158635&caId=23881&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158635&caId=23881&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158635&caId=23881&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158635&caId=23881&tId=4)
-
-#### 27 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * Caitlyn Jekel - Employment Security Department
+* 💵Amber Carter - [Washington Workforce Association](/org/washington_workforce_association/)
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 01/24 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2230 Economic security grants
 #### 61 👍 - Pro

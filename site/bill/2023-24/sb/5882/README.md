@@ -14,26 +14,25 @@
 
 ## Meetings
 ### Sat 02/03 09:00 AM - Ways & Means (WM): SSB 5882 Prototypical school staffing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158529&caId=23806&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158529&caId=23806&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158529&caId=23806&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158529&caId=23806&tId=4)
-
-#### 398 👍 - Pro
+#### 498 👍 - Pro
 Testifying:
 * Marissa Rathbone - Washington State School Directors' Association
 * Malorie Larson - Washington State PTA
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Charlie Brown - South Sound Superintendents
+* Rick Chisa - Public School Employees of WA/SEIU 1948
+* Hannah Blackbourn - --None--
 
-#### 370 👎 - Con
+#### 418 👎 - Con
 Testifying:
 * Liv Finne - Washington Policy Center
 * Jeannette Mcchesney
+* Bobbie Vergon
 
-#### 8 ❓ - Other
+#### 9 ❓ - Other
+Testifying:
+* Dave Larson - Tukwila School Board
 
 ### Wed 01/10 10:30 AM - Early Learning & K-12 Education (EDU): SB 5882 Prototypical school staffing
 #### 117 👍 - Pro

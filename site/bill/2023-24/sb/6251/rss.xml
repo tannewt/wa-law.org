@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6251/</link>
 		<description>Updates about SB 6251</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 31 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 02 Feb 2024 05:43:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -67,6 +67,22 @@
 			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-31/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👍Richard VanCleave - Carelon Behavioral Health (Pierce Co. BHASO)</title>
+			<description>Richard VanCleave signed up to testify Pro. They are signed up to represent Carelon Behavioral Health (Pierce Co. BHASO).</description>
+			<pubDate>Fri, 02 Feb 2024 05:39:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Richard/VanCleave/2024-02-02 05:39:19</guid>
+		</item>
+		<item>
+			<title>👍💵Brad Banks - Behavioral Health Administrative Services Organizations</title>
+			<description>Brad Banks signed up to testify Pro. They are signed up to represent Behavioral Health Administrative Services Organizations. They are a registered lobbyist.</description>
+			<pubDate>Fri, 02 Feb 2024 05:43:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brad/Banks/2024-02-02 05:43:13</guid>
 		</item>
 	</channel>
 </rss>

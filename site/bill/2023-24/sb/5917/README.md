@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/02/2024 [NW News Network](/org/nw_news_network/) - [First cutoff deadline, rent bill complications: A quick look at week 4 in the WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-02-02/first-cutoff-deadline-rent-bill-complications-a-quick-look-at-week-4-in-the-wa-legislature#:~:text=Senate%20Bill%205917)
+* 02/02/2024 [The Center Square](/org/the_center_square/) - [WA Senate passes bill allowing hate crime charges for defacing public property | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_92ae3a64-c21d-11ee-a4f9-bfd47d666f0c.html#:~:text=Senate%20Bill%205917)
 * 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=Senate%20Bill%205917)
 * 01/14/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 2: MLK, education, gas price transparency - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/14/this-week-in-the-senate-week-2-mlk-education-gas-price-transparency/#:~:text=Senate%20Bill%205917)
 

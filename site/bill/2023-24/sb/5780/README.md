@@ -12,19 +12,15 @@
 
 ## Meetings
 ### Sat 02/03 09:00 AM - Ways & Means (WM): SSB 5780 Public defense & prosecution
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158605&caId=23852&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158605&caId=23852&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158605&caId=23852&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158605&caId=23852&tId=4)
-
-#### 35 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Paul Kelley - Yakima County Depatrment of Assigned Counsel
 * Kari Reardon - WDA/WACDL
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 * Commissioner LaDon Linde
 * Larry Jefferson - Director, Washington State Office of Public Defense
+* Austin Field - SEIU 925
 
 #### 0 👎 - Con
 

@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/03/2024 [House Republicans](/org/house_republicans/) - [Fix the education crisis | Washington State House Republicans](http://houserepublicans.wa.gov/current/fix-the-education-crisis/#:~:text=House%20Bill%202142)
+
 ## Meetings

@@ -4,6 +4,8 @@
 * 👍💵 Vicki Lowe
 * 👍💵 Vicki Lowe
 
+## [HB 1228](/bill/2023-24/hb/1228/) - Dual & tribal language edu. 👍1  
+
 ## [HB 1879](/bill/2023-24/hb/1879/) - Naming the curriculum used to inform students about tribal history, culture, and government after John McCoy (lulilaš). 👍1  
 
 ## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  

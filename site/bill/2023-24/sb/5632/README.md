@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/03/2024 [MyNorthwest](/org/mynorthwest/) - [State Senate approves health coverage assistance during labor disputes - MyNorthwest.com](https://mynorthwest.com/3949194/state-senate-approves-health-coverage-assistance-during-labor-disputes/#:~:text=Engrossed%20Senate%20Bill%205632)
+* 02/02/2024 [NW News Network](/org/nw_news_network/) - [First cutoff deadline, rent bill complications: A quick look at week 4 in the WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-02-02/first-cutoff-deadline-rent-bill-complications-a-quick-look-at-week-4-in-the-wa-legislature#:~:text=Senate%20Bill%205632)
 * 02/05/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 5: Addressing addiction, fair housing and support for nurses - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/02/05/this-week-in-the-senate-week-5-addressing-addiction-fair-housing-and-support-for-nurses/#:~:text=SB%205632)
 
 ## Meetings

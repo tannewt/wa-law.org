@@ -8,23 +8,29 @@
 
 ## Meetings
 ### Sat 02/03 09:00 AM - Appropriations (APP): HB 2474 Transitional housing siting
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158624&caId=23870&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158624&caId=23870&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158624&caId=23870&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31828&aId=158624&caId=23870&tId=4)
-
-#### 24 👍 - Pro
+#### 87 👍 - Pro
 Testifying:
 * Sarah Dickmeyer - Plymouth Housing
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* 💵Michael White - [King County](/org/king_county/)
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* 💵Donna Christensen - Catholic Community Services
 
-#### 5 👎 - Con
+#### 105 👎 - Con
 Testifying:
 * Dale Walker
+* Rachelle Stocum
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Maria Cone
+* Mary Lou Pauly - Mayor, City of Issaquah
 * Salim Nice - Mayor Mercer Island
+* Ethan Pendleton
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Briahna Murray - [City of Bellevue](/org/city_of_bellevue/)
+* Stacey Valenzuela
+* Dave Pringle - Dept. of Commerce
 
 ### Mon 01/29 01:30 PM - Housing (HOUS): HB 2474 Concerning compliance with siting requirements for transitional housing, permanent supportive housing, indoor emergency shelters, and indoor emergency housing. (Remote Testimony Available).
 #### 204 👍 - Pro

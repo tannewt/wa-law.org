@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5154/</link>
 		<description>Updates about SB 5154</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 03 Feb 2024 09:29:01 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -623,6 +623,13 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
+			<title>KUOW - Washington lawmakers crack open a fresh bottle deposit bill</title>
+			<description>News article &quot;KUOW - Washington lawmakers crack open a fresh bottle deposit bill&quot; from KUOW.</description>
+			<pubDate>Sat, 03 Feb 2024 09:29:01 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kuow.org/stories/washington-lawmakers-crack-open-a-fresh-bottle-deposit-bill#:~:text=SB%205154</guid>
 		</item>
 	</channel>
 </rss>

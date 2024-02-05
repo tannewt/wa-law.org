@@ -11,19 +11,15 @@
 
 ## Meetings
 ### Sat 02/03 09:00 AM - Ways & Means (WM): SB 5978 School district-county loans
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158615&caId=23862&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158615&caId=23862&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158615&caId=23862&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31873&aId=158615&caId=23862&tId=4)
-
-#### 9 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Zac Robbins - Marysville School District
 
-#### 141 👎 - Con
+#### 344 👎 - Con
 Testifying:
 * Gordon Lueckenotte
+* Jeannette Mcchesney
+* Bobbie Vergon
 
 #### 0 ❓ - Other
 

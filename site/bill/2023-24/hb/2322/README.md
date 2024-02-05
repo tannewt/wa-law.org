@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/02/2024 [MyNorthwest](/org/mynorthwest/) - [Daycare a big topic in the Wash. legislature - MyNorthwest.com](https://mynorthwest.com/3949119/childcare-reaching-a-crisis-point-state-house-tries-to-come-up-with-answers/#:~:text=HB%202322.)
 * 01/21/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/21/the-house-hot-sheet-for-week-3-of-the-2024-legislative-session/#:~:text=HB%202322)
 
 ## Meetings
