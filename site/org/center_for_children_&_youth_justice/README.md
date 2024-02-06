@@ -32,7 +32,7 @@
 
 ## [HB 1591](/bill/2023-24/hb/1591/) - Open adoption agreements 👍1  
 
-## [HB 1916](/bill/2023-24/hb/1916/) - Concerning funding for the early support for infants and toddlers program. 👍1  
+## [HB 1916](/bill/2023-24/hb/1916/) - Infants and toddlers program 👍1  
 
 ## [HB 1970](/bill/2023-24/hb/1970/) - DCYF-caregiver communication 👍1  
 

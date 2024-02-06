@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5804/</link>
 		<description>Updates about SB 5804</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 02 Feb 2024 21:49:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 05 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -171,6 +171,13 @@
 			<pubDate>Fri, 02 Feb 2024 21:49:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.nwnewsnetwork.org/government-and-politics/2024-02-02/first-cutoff-deadline-rent-bill-complications-a-quick-look-at-week-4-in-the-wa-legislature#:~:text=Senate%20Bill%205804</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Education.</title>
+			<description>First reading, referred to Education.</description>
+			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-05/First reading, referred to Education.</guid>
 		</item>
 	</channel>
 </rss>

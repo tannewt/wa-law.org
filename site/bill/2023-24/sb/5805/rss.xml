@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5805/</link>
 		<description>Updates about SB 5805</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 01 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 05 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -64,6 +64,20 @@
 			<pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-01/Third reading, passed; yeas, 46; nays, 2; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Human Services, Youth, &amp; Early Learning.</title>
+			<description>First reading, referred to Human Services, Youth, &amp; Early Learning.</description>
+			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-05/First reading, referred to Human Services, Youth, &amp; Early Learning.</guid>
+		</item>
+		<item>
+			<title>Referred to Civil Rights &amp; Judiciary.</title>
+			<description>Referred to Civil Rights &amp; Judiciary.</description>
+			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-05/Referred to Civil Rights &amp; Judiciary.</guid>
 		</item>
 	</channel>
 </rss>

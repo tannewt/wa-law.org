@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 5802 - Providing flexibility in calculation of nursing rates.</title>
+		<title>SB 5802 - Nursing rate calculation</title>
 		<link>https://wa-law.org/bill/2023-24/sb/5802/</link>
 		<description>Updates about SB 5802</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 02 Feb 2024 10:20:52 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 05 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -67,6 +67,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Carma/Matti-Jackson/2024-02-02 10:20:52</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-05/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

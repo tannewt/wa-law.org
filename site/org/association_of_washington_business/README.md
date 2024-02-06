@@ -324,7 +324,7 @@
 
 ## [HB 1915](/bill/2023-24/hb/1915/) - Financial education 👍2  
 
-## [HB 1916](/bill/2023-24/hb/1916/) - Concerning funding for the early support for infants and toddlers program. 👍1  
+## [HB 1916](/bill/2023-24/hb/1916/) - Infants and toddlers program 👍1  
 
 ## [HB 1921](/bill/2023-24/hb/1921/) - Prohibiting the use of certain substances in food.  👎2 
 * 👎💵 Peter Godlewski

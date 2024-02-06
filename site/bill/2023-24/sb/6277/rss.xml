@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6277/</link>
 		<description>Updates about SB 6277</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 24 Jan 2024 07:29:51 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 05 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -38,6 +38,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Bill/Moyer/2024-01-24 07:29:51</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-05/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

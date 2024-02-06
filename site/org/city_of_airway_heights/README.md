@@ -1,6 +1,6 @@
 # City of Airway Heights
 
-## [HB 1952](/bill/2023-24/hb/1952/) - Concerning long-term community recovery after disasters. 👍1  
+## [HB 1952](/bill/2023-24/hb/1952/) - Disasters/long-term recovery 👍1  
 
 ## [HB 2231](/bill/2023-24/hb/2231/) - Law enforcement funding 👍1  
 

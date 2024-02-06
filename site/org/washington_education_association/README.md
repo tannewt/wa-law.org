@@ -525,6 +525,8 @@
 
 ## [HB 2309](/bill/2023-24/hb/2309/) - Washington 13 free guarantee 👍1  
 
+## [HB 2311](/bill/2023-24/hb/2311/) - First responder wellness 👍1  
+
 ## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍2  
 
 ## [HB 2321](/bill/2023-24/hb/2321/) - Middle housing requirements 👍1  
@@ -550,6 +552,8 @@
 ## [HB 2441](/bill/2023-24/hb/2441/) - College in the HS fees  👎1 
 
 ## [HB 2459](/bill/2023-24/hb/2459/) - Alt. measure disclosures 👍1  
+
+## [HB 2494](/bill/2023-24/hb/2494/) - School operating costs   ❓1
 
 ## [SB 5000](/bill/2023-24/sb/5000/) - Americans of Chinese descent 👍1  
 

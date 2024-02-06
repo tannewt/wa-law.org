@@ -62,7 +62,7 @@
 
 ## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍1  
 
-## [HB 1916](/bill/2023-24/hb/1916/) - Concerning funding for the early support for infants and toddlers program. 👍2  
+## [HB 1916](/bill/2023-24/hb/1916/) - Infants and toddlers program 👍2  
 
 ## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
 

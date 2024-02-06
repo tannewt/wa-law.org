@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/23 04:00 PM - Ways & Means (WM): SB 6198 LEOFF 2 board employees

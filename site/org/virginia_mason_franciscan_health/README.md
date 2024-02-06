@@ -83,7 +83,7 @@
 
 ## [SB 5983](/bill/2023-24/sb/5983/) - Syphilis treat. supervision 👍1  
 
-## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍1  
+## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍1  
 
 ## [SB 6095](/bill/2023-24/sb/6095/) - Secretary of health orders 👍1  
 

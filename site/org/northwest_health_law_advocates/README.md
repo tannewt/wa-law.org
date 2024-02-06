@@ -88,7 +88,7 @@
 ## [SB 5764](/bill/2023-24/sb/5764/) - Hospital safety net program   ❓1
 * ❓💵 Emily Brice
 
-## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍2  
+## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍2  
 * 👍💵 Emily Brice
 
 ## [SB 6144](/bill/2023-24/sb/6144/) - Prescribing psychologists 👍1  

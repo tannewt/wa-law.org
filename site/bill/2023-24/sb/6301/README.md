@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 02/01 01:30 PM - Ways & Means (WM): SB 6301 Basic law enf. academy

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/02/2024 [MyNorthwest](/org/mynorthwest/) - [Daycare a big topic in the Wash. legislature - MyNorthwest.com](https://mynorthwest.com/3949119/childcare-reaching-a-crisis-point-state-house-tries-to-come-up-with-answers/#:~:text=HB%202322.)

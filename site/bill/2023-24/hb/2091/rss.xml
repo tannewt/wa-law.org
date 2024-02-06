@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2091/</link>
 		<description>Updates about HB 2091</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 02 Feb 2024 17:50:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 05 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -98,11 +98,25 @@
 			<guid isPermaLink="false">2024-02-02/CB - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>CB - Majority; do pass 1st substitute bill proposed by State Government &amp; Tribal Relations.</title>
+			<description>CB - Majority; do pass 1st substitute bill proposed by State Government &amp; Tribal Relations.</description>
+			<pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-02/CB - Majority; do pass 1st substitute bill proposed by State Government &amp; Tribal Relations.</guid>
+		</item>
+		<item>
 			<title>Bill would honor firefighters lost in the line of duty with $5M Olympia memorial | Washington | thecentersquare.com</title>
 			<description>News article &quot;Bill would honor firefighters lost in the line of duty with $5M Olympia memorial | Washington | thecentersquare.com&quot; from The Center Square.</description>
 			<pubDate>Fri, 02 Feb 2024 17:50:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_c61d1470-c217-11ee-a730-5b43b51af6e0.html#:~:text=House%20Bill%202091</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-05/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

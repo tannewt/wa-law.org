@@ -89,7 +89,7 @@
 
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍2  
 
-## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍2  
+## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍2  
 
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
 

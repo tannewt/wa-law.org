@@ -199,4 +199,4 @@
 
 ## [SB 6278](/bill/2023-24/sb/6278/) - Organic agriculture 👍1  
 
-## [SB 6304](/bill/2023-24/sb/6304/) - Implementing certain recommendations of the transportation electrification strategy. 👍1  
+## [SB 6304](/bill/2023-24/sb/6304/) - Transp. electrification 👍1  

@@ -220,7 +220,7 @@
 
 ## [SB 5863](/bill/2023-24/sb/5863/) - Prohibiting credit reporting on delinquent accounts that are designated to a person in a divorce. 👍1  
 
-## [SB 5893](/bill/2023-24/sb/5893/) - Gate money/early release 👍1  
+## [SB 5893](/bill/2023-24/sb/5893/) - Gate money/DOC 👍1  
 
 ## [SB 5943](/bill/2023-24/sb/5943/) - Resource data tool 👍1  
 
@@ -230,7 +230,7 @@
 
 ## [SB 5968](/bill/2023-24/sb/5968/) - Home equity sharing 👍1  
 
-## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍2  
+## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍2  
 
 ## [SB 5987](/bill/2023-24/sb/5987/) - Gift certificates 👍1  
 

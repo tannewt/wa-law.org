@@ -15,4 +15,4 @@
 
 ## [SB 5388](/bill/2023-24/sb/5388/) - Diversity in clinical trials 👍1  
 
-## [SB 5911](/bill/2023-24/sb/5911/) - Enhancing cancer research funding by dedicating a portion of state sales tax collections in October to the Andy Hill cancer research endowment fund. 👍1  
+## [SB 5911](/bill/2023-24/sb/5911/) - Cancer research funding 👍1  

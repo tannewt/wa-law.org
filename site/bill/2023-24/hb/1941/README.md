@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Mon 02/05 10:30 AM - Appropriations (APP): SHB 1941 Health home serv./children
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31882&aId=158823&caId=23905&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31882&aId=158823&caId=23905&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31882&aId=158823&caId=23905&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31882&aId=158823&caId=23905&tId=4)
-
-#### 3 👍 - Pro
+#### 6 👍 - Pro
 
 #### 1 👎 - Con
 

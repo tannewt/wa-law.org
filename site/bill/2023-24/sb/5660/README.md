@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * [KING5](/org/king5/) - [Push for better use of mental health advance directives in Washington | king5.com](https://www.king5.com/article/news/local/push-use-mental-health-advance-directives-washington/281-504a7229-6803-4aa2-86ef-4b92b769a2f3#:~:text=Senate%20Bill%205660)

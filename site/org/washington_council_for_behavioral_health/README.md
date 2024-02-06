@@ -37,7 +37,7 @@
 
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors   ❓1
 
-## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍1  
+## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍1  
 
 ## [SB 6228](/bill/2023-24/sb/6228/) - Substance use treatment 👍2  
 

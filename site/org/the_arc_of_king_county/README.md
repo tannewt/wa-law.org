@@ -101,9 +101,11 @@
 ## [HB 1914](/bill/2023-24/hb/1914/) - Special education services   ❓1
 * ❓💵 Ramona Hattendorf
 
-## [HB 1916](/bill/2023-24/hb/1916/) - Concerning funding for the early support for infants and toddlers program. 👍2  
+## [HB 1916](/bill/2023-24/hb/1916/) - Infants and toddlers program 👍2  
 
 ## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
+
+## [HB 1941](/bill/2023-24/hb/1941/) - Health home serv./children 👍1  
 
 ## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
 
@@ -149,6 +151,8 @@
 ## [HB 2365](/bill/2023-24/hb/2365/) - Respite care 👍1  
 
 ## [HB 2415](/bill/2023-24/hb/2415/) - Economic assistance/TANF 👍1  
+
+## [HB 2494](/bill/2023-24/hb/2494/) - School operating costs 👍1  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 

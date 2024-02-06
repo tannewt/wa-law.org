@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## Meetings
 ### Mon 01/22 01:30 PM - Housing (HOUS): HB 2308 Existing structures/housing

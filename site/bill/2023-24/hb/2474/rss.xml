@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2474/</link>
 		<description>Updates about HB 2474</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 03 Feb 2024 07:53:11 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 05 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -243,6 +243,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Ethan/Pendleton/2024-02-03 07:53:11</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-05/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

@@ -93,6 +93,8 @@
 
 ## [HB 2283](/bill/2023-24/hb/2283/) - Shared leave/disasters 👍1  
 
+## [HB 2311](/bill/2023-24/hb/2311/) - First responder wellness 👍1  
+
 ## [HB 2325](/bill/2023-24/hb/2325/) - Legislative employees   ❓1
 * ❓💵 Seamus Petrie
 

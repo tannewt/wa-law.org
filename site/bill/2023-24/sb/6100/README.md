@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 01/22 04:00 PM - Ways & Means (WM): SB 6100 Budget stabilization account

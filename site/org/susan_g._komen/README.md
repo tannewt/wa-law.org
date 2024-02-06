@@ -33,4 +33,4 @@
 ## [SB 5814](/bill/2023-24/sb/5814/) - Concerning coverage of prescription drugs for advanced metastatic cancer. 👍1  
 * 👍💵 Kirsten Smith
 
-## [SB 5911](/bill/2023-24/sb/5911/) - Enhancing cancer research funding by dedicating a portion of state sales tax collections in October to the Andy Hill cancer research endowment fund. 👍1  
+## [SB 5911](/bill/2023-24/sb/5911/) - Cancer research funding 👍1  

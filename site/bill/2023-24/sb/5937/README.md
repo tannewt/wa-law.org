@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 01/16/2024 [Senate Democrats](/org/senate_democrats/) - [Dhingra: bill represents a ‘victim-centered, trauma-informed’ response to sexual assault - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/15/dhingra-bill-would-support-sexual-assault-survivors/#:~:text=SB%205937)

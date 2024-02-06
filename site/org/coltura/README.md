@@ -4,5 +4,5 @@
 * 👎 Matthew Metz
 * 👎 MATTHEW METZ
 
-## [SB 6304](/bill/2023-24/sb/6304/) - Implementing certain recommendations of the transportation electrification strategy. 👍1  
+## [SB 6304](/bill/2023-24/sb/6304/) - Transp. electrification 👍1  
 * 👍 MATTHEW METZ

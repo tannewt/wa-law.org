@@ -153,7 +153,7 @@
 
 ## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍2  
 
-## [HB 1916](/bill/2023-24/hb/1916/) - Concerning funding for the early support for infants and toddlers program. 👍1  
+## [HB 1916](/bill/2023-24/hb/1916/) - Infants and toddlers program 👍1  
 
 ## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍2  
 
@@ -165,7 +165,7 @@
 
 ## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍2  
 
-## [HB 1952](/bill/2023-24/hb/1952/) - Concerning long-term community recovery after disasters. 👍1  
+## [HB 1952](/bill/2023-24/hb/1952/) - Disasters/long-term recovery 👍1  
 
 ## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
 
@@ -426,7 +426,7 @@
 
 ## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  
 
-## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍1  
+## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍1  
 
 ## [SB 5993](/bill/2023-24/sb/5993/) - Voter education   ❓1
 

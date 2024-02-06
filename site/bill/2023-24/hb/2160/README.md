@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 01/17/2024 [PubliCola](/org/publicola/) - [State Rep Says Inclusionary Zoning Near Transit Will Prevent Displacement, SPD General Counsel Filed Initial Complaint Against Laughing Cop - PubliCola](https://publicola.com/2024/01/17/spd-general-counsel-filed-initial-complaint-against-laughing-cop-rep-reed-says-inclusionary-zoning-near-transit-will-prevent-displacement/#:~:text=(HB%202160)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1365/</link>
 		<description>Updates about HB 1365</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 02 Feb 2024 13:52:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 05 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -145,11 +145,25 @@
 			<guid isPermaLink="false">2024-02-02/CB - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>CB - Majority; 2nd substitute bill be substituted, do pass.</title>
+			<description>CB - Majority; 2nd substitute bill be substituted, do pass.</description>
+			<pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-02/CB - Majority; 2nd substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Bill to improve Puget Sound water quality steaming ahead in Olympia | Washington | thecentersquare.com</title>
 			<description>News article &quot;Bill to improve Puget Sound water quality steaming ahead in Olympia | Washington | thecentersquare.com&quot; from The Center Square.</description>
 			<pubDate>Fri, 02 Feb 2024 13:52:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_88d234a0-c204-11ee-8d7d-2f95236e2d4f.html#:~:text=House%20Bill%201365</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-05/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

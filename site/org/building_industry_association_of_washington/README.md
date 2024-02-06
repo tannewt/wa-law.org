@@ -358,5 +358,5 @@
 ## [SB 6285](/bill/2023-24/sb/6285/) - Use of impact fees 👍1  
 * 👍💵 Tricia Gullion
 
-## [SB 6304](/bill/2023-24/sb/6304/) - Implementing certain recommendations of the transportation electrification strategy.  👎1 
+## [SB 6304](/bill/2023-24/sb/6304/) - Transp. electrification  👎1 
 * 👎💵 Jan Himebaugh

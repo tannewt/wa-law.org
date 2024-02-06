@@ -81,7 +81,7 @@
 
 ## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍1  
 
-## [HB 1952](/bill/2023-24/hb/1952/) - Concerning long-term community recovery after disasters. 👍1  
+## [HB 1952](/bill/2023-24/hb/1952/) - Disasters/long-term recovery 👍1  
 
 ## [HB 2003](/bill/2023-24/hb/2003/) - Housing/public lands leases 👍1  
 

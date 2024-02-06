@@ -63,7 +63,7 @@
 
 ## [SB 5474](/bill/2023-24/sb/5474/) - Juvenile justice 👍1  
 
-## [SB 5893](/bill/2023-24/sb/5893/) - Gate money/early release 👍2  
+## [SB 5893](/bill/2023-24/sb/5893/) - Gate money/DOC 👍2  
 
 ## [SB 5912](/bill/2023-24/sb/5912/) - Reentry services & supports 👍2  
 

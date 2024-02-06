@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/02/2024 [The Seattle Times](/org/the_seattle_times/) - [What bills are dead, alive after WA Legislature’s first cutoff | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/some-bills-die-after-first-wa-legislature-cutoff/#:~:text=House%20Bill%202114)

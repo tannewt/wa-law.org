@@ -144,7 +144,7 @@
 
 ## [SB 6071](/bill/2023-24/sb/6071/) - Oil exporters/human rights 👍1  
 
-## [SB 6304](/bill/2023-24/sb/6304/) - Implementing certain recommendations of the transportation electrification strategy. 👍1  
+## [SB 6304](/bill/2023-24/sb/6304/) - Transp. electrification 👍1  
 
 ## [SCR 8402](/bill/2023-24/scr/8402/) - Jennifer Belcher Building 👍2  
 * 👍 Miguel Perez Gibson

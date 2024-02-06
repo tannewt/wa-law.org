@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## Meetings
 ### Fri 03/17 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): SSB 5600 Universal communications prg

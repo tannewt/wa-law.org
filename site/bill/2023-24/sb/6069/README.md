@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/22/2024 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [Will Washington Saves Close The Retirement Gap? Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/washington-saves-auto-ira-retirement-gap/#:~:text=SB%206069)

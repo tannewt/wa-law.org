@@ -35,7 +35,7 @@
 
 ## [SB 5785](/bill/2023-24/sb/5785/) - WDFW/volunteer organizations 👍1  
 
-## [SB 5902](/bill/2023-24/sb/5902/) - Reinvesting account revenue for the purpose of supporting the state park system. 👍1  
+## [SB 5902](/bill/2023-24/sb/5902/) - State park system/accounts 👍1  
 
 ## [SB 5910](/bill/2023-24/sb/5910/) - Creating the state department of natural resources' Smokey Bear special license plates. 👍1  
 

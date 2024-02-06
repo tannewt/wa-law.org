@@ -14,6 +14,6 @@
 
 ## [SB 5776](/bill/2023-24/sb/5776/) - Insulin emergency supply 👍1  
 
-## [SB 5986](/bill/2023-24/sb/5986/) - Protecting consumers from out-of-network health care services charges. 👍2  
+## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍2  
 
 ## [SB 6258](/bill/2023-24/sb/6258/) - Standardized health plans 👍1  

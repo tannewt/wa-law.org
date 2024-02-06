@@ -6,6 +6,8 @@
 ## [HB 2180](/bill/2023-24/hb/2180/) - Special education cap 👍1  
 * 👍 DARCY HUFFMAN
 
+## [HB 2494](/bill/2023-24/hb/2494/) - School operating costs 👍1  
+
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
 
 ## [SB 5873](/bill/2023-24/sb/5873/) - Student transportation 👍1  

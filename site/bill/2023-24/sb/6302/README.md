@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 02/01 01:30 PM - Transportation (TRAN): SB 6302 Supply chain competitiveness

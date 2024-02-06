@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 01/25 04:00 PM - Transportation (TRAN): SB 6195 Vehicle inspection backlog

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2447/</link>
 		<description>Updates about HB 2447</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 03 Feb 2024 01:07:29 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 05 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -256,6 +256,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Katie/Biron/2024-02-03 01:07:29</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-05/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>
