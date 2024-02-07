@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1648/</link>
 		<description>Updates about HB 1648</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 05 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 05 Feb 2024 16:15:51 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -326,6 +326,13 @@
 			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-05/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>Proposed bill puts power in the hands of ticket resellers, not fans | The Seattle Times</title>
+			<description>News article &quot;Proposed bill puts power in the hands of ticket resellers, not fans | The Seattle Times&quot; from The Seattle Times.</description>
+			<pubDate>Mon, 05 Feb 2024 16:15:51 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.seattletimes.com/opinion/proposed-bill-puts-power-in-the-hands-of-ticket-resellers-not-fans/#:~:text=House%20Bill%201648</guid>
 		</item>
 	</channel>
 </rss>

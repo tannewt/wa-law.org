@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/06/2024 [Gorge News Center](/org/gorge_news_center/) - [Wilson EV bill catches fire in Legislature](https://gorgenewscenter.com/2024/02/06/wilson-ev-bill-catches-fire-in-legislature/#:~:text=Senate%20Bill%205812,)
+
 ## Meetings
 ### Thu 01/18 04:00 PM - Transportation (TRAN): SB 5812 Electric vehicle fires
 #### 21 👍 - Pro

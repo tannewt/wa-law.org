@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/06/2024 [House Democrats](/org/house_democrats/) - [Simmons’ bill to enhance financial support for the Washington Physician Health Program passes on to the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/06/simmons-bill-to-enhance-financial-support-for-the-washington-physician-health-program-passes-on-to-the-senate/#:~:text=House%20Bill%201972)
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%201972)
 
 ## Meetings

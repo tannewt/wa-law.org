@@ -26,7 +26,7 @@ Testifying:
 * Cathy MacCaul - AARP Washington State
 * Rep. Andrew Barkis
 * 💵Bryce Yadon
-* Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 * Tedd Kelleher - Department of Commerce
 
 #### 2 👎 - Con

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=SB%205850)
 * 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=SB%205850)
 * 01/08/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Session Preview: Legislature convenes January 8 for short session - WSPTA](https://www.wastatepta.org/2024-session-preview/#:~:text=SB%205850)
 * 12/20/2023 [Gorge News Center](/org/gorge_news_center/) - [Braun bill aimed at getting chronically absent students to re-engage with classes, resume path to graduation](https://gorgenewscenter.com/2023/12/20/braun-bill-aimed-at-getting-chronically-absent-students-to-re-engage-with-classes-resume-path-to-graduation/#:~:text=Senate%20Bill%205850)

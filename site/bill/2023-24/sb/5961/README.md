@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/06/2024 [Senate Democrats](/org/senate_democrats/) - [Joint statement from chairs of Members of Color caucuses on rent stabilization - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/06/joint-statement-from-chairs-of-members-of-color-caucuses-on-rent-stabilization/#:~:text=SB%205961)
+* 02/06/2024 [House Democrats](/org/house_democrats/) - [Joint statement from chairs of Members of Color caucuses on rent stabilization – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/06/joint-statement-from-chairs-of-members-of-color-caucuses-on-rent-stabilization/#:~:text=SB%205961)
+* 02/05/2024 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Week Five Legislative Update - United Ways of Washington - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02052024#:~:text=Senate%20Bill%205961)
 * 02/02/2024 [NW News Network](/org/nw_news_network/) - [Rent stabilization stalls in WA Senate, complicating its path forward | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-02-01/rent-stabilization-stalls-in-wa-senate-complicating-its-path-forward#:~:text=Senate%20Bill%205961)
 * 02/01/2024 [The Seattle Times](/org/the_seattle_times/) - [WA Senate bill dies, signaling tough path ahead for limiting rent hikes | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-senate-bill-dies-signaling-tough-path-ahead-for-limiting-rent-hikes/#:~:text=Senate%20Bill%205961)
 * 01/31/2024 [The Center Square](/org/the_center_square/) - [Residents rally at the state Capitol for rent control | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c7a8b4e4-bfd7-11ee-830c-ff6e96f7402d.html#:~:text=Senate%20Bill%205961)
@@ -84,7 +87,7 @@ Testifying:
 * Bruce Becker
 * Rick Glenn - [Yakima Valley Landlords Association](/org/yakima_valley_landlords_association/)
 * MARIE-NOELLE METSEYE
-* Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 * RUSS MILLARD - MHCW
 * SHALABH JAIN
 * Mike Morris

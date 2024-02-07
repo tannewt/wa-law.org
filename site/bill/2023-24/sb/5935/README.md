@@ -7,6 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/07/2024 [KIRO7](/org/kiro7/) - [New bill would further curb noncompete clauses for workers across Washington – KIRO 7 News Seattle](https://www.kiro7.com/news/local/new-bill-would-further-curb-noncompete-clauses-workers-across-washington/POGVK5NKLRFQLCOSUD736GLMAQ/#:~:text=SB%205935)
+* 02/07/2024 [Senate Democrats](/org/senate_democrats/) - [Stanford bill limiting noncompetition contracts passes Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/06/stanford-bill-limiting-noncompetition-contracts-passes-senate/#:~:text=SB%205935)
+
 ## Meetings
 ### Thu 01/18 08:00 AM - Labor & Commerce (LC): SB 5935 Noncompetition covenants
 #### 17 👍 - Pro

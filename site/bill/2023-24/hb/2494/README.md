@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/07/2024 [Washington St Pta](/org/washington_st_pta/) - [WSPTA Testifies: Increased Allocation for Materials, Supplies, and Operating Costs - WSPTA](https://www.wastatepta.org/wspta-testifies-increased-allocation-for-materials-supplies-and-operating-costs/#:~:text=HB%202494)
+* 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=HB%202494)
+
 ## Meetings
 ### Mon 02/05 10:30 AM - Appropriations (APP): HB 2494 School operating costs
 #### 202 👍 - Pro

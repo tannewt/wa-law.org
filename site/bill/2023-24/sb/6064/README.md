@@ -37,6 +37,6 @@ Testifying:
 * JIM HENDERSON - National Association of Residential Property Managers and Benton Franklin County Rental Owners Assoc
 * Katie Phelan-Chostner - Executive Vice-President, 1UP Floors
 * Lauren Trujillo - Regional Manager, Equity Residential
-* Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 2 ❓ - Other

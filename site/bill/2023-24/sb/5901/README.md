@@ -23,7 +23,7 @@ Testifying:
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 * Cynthia Stewart - League of Women Voters of WA
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
-* Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 * Dave Andersen - Washington State Department of Commerce
 * Cathy MacCaul - AARP Washington State
 * Jonathan Betz-Zall - Northwest Intentional Communities Association

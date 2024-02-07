@@ -11,6 +11,7 @@
 * [2nd Engrossed 2nd Substitute](S2.E2/)
 
 ## 📰 Articles
+* 02/06/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: House Advances “Nothing About Us Without Us” Act – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/06/legislative-news-house-advances-nothing-about-us-without-us-act/#:~:text=House%20Bill%201541)
 * 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=House%20Bill%201541)
 * 10/10/2023 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [2023 Legislative Session Summary – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/resources/2023-legislative-session-summary/#:~:text=HB%201541)
 * 03/17/2023 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 11: Gun safety, behavioral health and budget rollouts - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/17/this-week-in-the-senate-week-11-gun-safety-behavioral-health-and-budget-rollouts/#:~:text=House%20Bill%201541)

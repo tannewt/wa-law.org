@@ -56,7 +56,7 @@ Testifying:
 Testifying:
 * Salim Nice - [City of Mercer Island](/org/city_of_mercer_island/)
 * McKenzie Darr - NAIOP-WA
-* Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 * Salim Nice - Mayor, City of Mercer Island
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Bill Clarke - WA REALTORS

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1062/</link>
 		<description>Updates about HB 1062</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 05 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 05 Feb 2024 06:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -284,6 +284,13 @@
 			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-05/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>WA House bill would make it illegal for police to lie during interrogations | The Seattle Times</title>
+			<description>News article &quot;WA House bill would make it illegal for police to lie during interrogations | The Seattle Times&quot; from The Seattle Times.</description>
+			<pubDate>Mon, 05 Feb 2024 06:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.seattletimes.com/seattle-news/politics/wa-house-would-make-it-illegal-for-police-to-lie-during-interrogations/#:~:text=House%20Bill%201062</guid>
 		</item>
 	</channel>
 </rss>

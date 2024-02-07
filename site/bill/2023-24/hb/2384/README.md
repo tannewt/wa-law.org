@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/06/2024 [MyNorthwest](/org/mynorthwest/) - [Bill on traffic camera use includes 75% discount for some violators - MyNorthwest.com](https://mynorthwest.com/3949501/bill-altering-traffic-safety-camera-use-includes-75-discount-some-violators/#:~:text=House%20Bill%202384)
+
 ## Meetings
 ### Thu 01/18 04:00 PM - Transportation (TR): HB 2384 Traffic safety cameras
 #### 16 👍 - Pro

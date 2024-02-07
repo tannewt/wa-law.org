@@ -11,7 +11,7 @@
 ### Thu 02/01 01:30 PM - Transportation (TRAN): SB 6302 Supply chain competitiveness
 #### 43 👍 - Pro
 Testifying:
-* Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 * Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 * Lisa Lefeber - [Port of Everett](/org/port_of_everett/)
 * Rob Fix - [Port of Bellingham](/org/port_of_bellingham/)

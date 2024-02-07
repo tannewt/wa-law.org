@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/06/2024 [The Urbanist](/org/the_urbanist/) - [The Battle Over Allowing More Rural Accessory Dwelling Units in Washington - The Urbanist](https://www.theurbanist.org/2024/02/06/the-battle-over-allowing-more-rural-accessory-dwelling-units-in-washington/#:~:text=SB%206029)
+
 ## Meetings
 ### Tue 01/16 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6029 Detached ADUs
 #### 54 👍 - Pro

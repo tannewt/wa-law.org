@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/05/2024 [The Center Square](/org/the_center_square/) - [Gray wolves’ status in Washington unchanged after feds’ announcement | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3f61e07c-c46b-11ee-ad4a-6b53f53f0a0d.html#:~:text=House%20Bill%202423)
 * 01/22/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. Joel Kretz offers alternative to governor’s proposal on gray wolf management](https://gorgenewscenter.com/2024/01/22/rep-joel-kretz-offers-alternative-to-governors-proposal-on-gray-wolf-management/#:~:text=House%20Bill%202423)
 
 ## Meetings

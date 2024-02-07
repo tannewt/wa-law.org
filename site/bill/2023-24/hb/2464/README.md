@@ -16,7 +16,7 @@ Testifying:
 * Mike Simonitch - Snug Harbor MHP
 * Russ Millard - [Manufactured Housing Communities of Washington](/org/manufactured_housing_communities_of_washington/)
 * Jake Bond
-* Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 5 👎 - Con
 Testifying:

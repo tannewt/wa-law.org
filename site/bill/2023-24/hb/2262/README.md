@@ -28,7 +28,7 @@ Testifying:
 * 💵Jennifer Ziegler - Les Schwab
 * 💵Bill Stauffacher - United States Tire Manufacturers Association
 * Tracey Norberg - United States Tire Manufacturers Association
-* Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 1 ❓ - Other
 Testifying:

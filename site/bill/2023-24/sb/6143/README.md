@@ -13,7 +13,7 @@
 #### 556 👎 - Con
 Testifying:
 * 💵Dan Wood - WA State Dairy Federation
-* Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Tricia Gullion - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * John Worthington
 * Susanna Jones

@@ -42,7 +42,7 @@ Testifying:
 * 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Dan Wise - Catholic Community Services
 * 💵Melanie Smith - Seattle / King County Coalition on Homelessness
-* Morgan Irwin - Associaiton of Washington Business
+* 💵Morgan Irwin - Associaiton of Washington Business
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Benjamin Maritz
 * 💵Lindsey Grad - SEIU Healthcare 1199NW

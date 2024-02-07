@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/06/2024 [MyNorthwest](/org/mynorthwest/) - [Wash. traffic cameras, other tech could be used to fight graffiti in bill - MyNorthwest.com](https://mynorthwest.com/3949547/state-traffic-cameras-other-tech-could-be-used-fight-graffiti-house-bill/#:~:text=House%20Bill%201989)
 * 01/25/2024 [FOX13](/org/fox13/) - [Washington lawmakers discuss new bill that would increase consequences for graffiti, tagging](https://www.fox13seattle.com/news/washington-lawmakers-discuss-new-bill-that-would-increase-consequences-for-graffiti-tagging#:~:text=House%20Bill%201989)
 * 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%201989)
 * 12/29/2023 [The Center Square](/org/the_center_square/) - [Rep. Andrew Barkis introduces a pair of bills to crack down on graffiti | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_7078f46a-a680-11ee-a936-77e2c1025ada.html#:~:text=House%20Bill%201989)

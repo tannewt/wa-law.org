@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=HB%201956)
 * 01/25/2024 [PubliCola](/org/publicola/) - [KCRHA Plans More Focused Homelessness Count, Council President Supports Bills That Would Make It Easier To Take Away Drug Users' Kids - PubliCola](https://publicola.com/2024/01/25/kcrha-plans-more-focused-homelessness-count-council-president-supports-bills-that-would-make-it-easier-to-take-away-drug-users-kids/#:~:text=HB%201956)
 * 01/15/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/15/the-house-hot-sheet-for-week-2-of-the-2024-legislative-session/#:~:text=HB%201956)
 * 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%201956)

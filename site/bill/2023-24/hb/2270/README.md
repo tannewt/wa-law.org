@@ -25,7 +25,7 @@ Testifying:
 ### Tue 01/23 04:00 PM - Housing (HOUS): HB 2270 Department of housing
 #### 78 👍 - Pro
 Testifying:
-* Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * DANE AUSTRENG - SEIU Healthcare 1199NW
 * 💵Michele Thomas - Washington Low Income Housing Alliance

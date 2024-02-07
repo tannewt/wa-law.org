@@ -9,6 +9,8 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/06/2024 [FOX13](/org/fox13/) - [Foster parents demand change to law blamed for death of an infant](https://www.fox13seattle.com/news/foster-parents-demand-change-to-law-blamed-for-death-of-an-infant#:~:text=House%20Bill%202447)
+* 02/06/2024 [KING5](/org/king5/) - [Foster parents call for improved child welfare laws in Washington | king5.com](https://www.king5.com/article/news/local/foster-parents-call-for-improved-child-welfare-laws-washington/281-d0b56195-e3b8-48be-8e65-346cb702b5eb#:~:text=House%20Bill%202447)
 * 02/01/2024 [FOX13](/org/fox13/) - [Jefferson County prosecutor wants changes to law blamed for child's death](https://www.fox13seattle.com/news/jefferson-county-prosecutor-wants-changes-to-law-blamed-for-childs-death#:~:text=House%20Bill%202447.)
 * 01/23/2024 [FOX13](/org/fox13/) - [State law makes intervention for drugs difficult for child protective services, attorney says](https://www.fox13seattle.com/news/state-law-makes-drug-intervention-difficult-for-child#:~:text=House%20Bill%202447.)
 

@@ -8,7 +8,9 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/06/2024 [Gorge News Center](/org/gorge_news_center/) - [Fentanyl education bill passes Senate committee as pills fall to 25 cents in Portland](https://gorgenewscenter.com/2024/02/06/fentanyl-education-bill-passes-senate-committee-as-pills-fall-to-25-cents-in-portland/#:~:text=SB%206134)
 * 01/25/2024 [PubliCola](/org/publicola/) - [KCRHA Plans More Focused Homelessness Count, Council President Supports Bills That Would Make It Easier To Take Away Drug Users' Kids - PubliCola](https://publicola.com/2024/01/25/kcrha-plans-more-focused-homelessness-count-council-president-supports-bills-that-would-make-it-easier-to-take-away-drug-users-kids/#:~:text=SB%206134)
+* [Senate Republicans](/org/senate_republicans/) - [Recovery Washington - Senate Republican Caucus](https://src.wastateleg.org/recovery-washington/#:~:text=Senate%20Bill%206134)
 
 ## Meetings
 ### Sat 02/03 09:00 AM - Ways & Means (WM): SSB 6134 Opioid use

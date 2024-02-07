@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6114/</link>
 		<description>Updates about SB 6114</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 05 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 06 Feb 2024 00:05:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,8 +16,8 @@
 			<guid isPermaLink="false">2024-01-10/First reading, referred to Transportation.</guid>
 		</item>
 		<item>
-			<title>👎Morgan Irwin - Association of Washington Business</title>
-			<description>Morgan Irwin signed up to testify Con. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/association_of_washington_business/&quot;&gt;Association of Washington Business&lt;/a&gt;.</description>
+			<title>👎💵Morgan Irwin - Association of Washington Business</title>
+			<description>Morgan Irwin signed up to testify Con. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/association_of_washington_business/&quot;&gt;Association of Washington Business&lt;/a&gt;. They are a registered lobbyist.</description>
 			<pubDate>Tue, 23 Jan 2024 09:15:23 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
@@ -45,6 +45,13 @@
 			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-05/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Liias’ sustainable aviation fuels bill clears committee - Washington Senate Democrats</title>
+			<description>News article &quot;Liias’ sustainable aviation fuels bill clears committee - Washington Senate Democrats&quot; from Senate Democrats.</description>
+			<pubDate>Tue, 06 Feb 2024 00:05:49 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2024/02/05/liias-sustainable-aviation-fuels-bill-clears-committee/#:~:text=Senate%20Bill%206114</guid>
 		</item>
 	</channel>
 </rss>

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=SB%206276)
+
 ## Meetings
 ### Wed 01/24 08:00 AM - Environment, Energy & Technology (ENET): SB 6276 Digital electronics/repair
 #### 161 👍 - Pro

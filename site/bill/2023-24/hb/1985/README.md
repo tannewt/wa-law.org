@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/06/2024 [House Democrats](/org/house_democrats/) - [Senate is the next stop for Timmons bill that provides a cost-of-living increase to retirees – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/06/179/#:~:text=House%20Bill%201985)
 * 01/25/2024 [House Democrats](/org/house_democrats/) - [Timmons’ bill to provide a cost-of-living increase to retirees passes out of committee – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/25/timmons-bill-to-provide-a-cost-of-living-increase-to-retirees-passes-out-of-committee/#:~:text=House%20Bill%201985)
 * 01/21/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/21/the-house-hot-sheet-for-week-3-of-the-2024-legislative-session/#:~:text=HB%201985)
 * 01/15/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/15/the-house-hot-sheet-for-week-2-of-the-2024-legislative-session/#:~:text=HB%201985)

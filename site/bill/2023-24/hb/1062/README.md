@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/05/2024 [The Seattle Times](/org/the_seattle_times/) - [WA House bill would make it illegal for police to lie during interrogations | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-house-would-make-it-illegal-for-police-to-lie-during-interrogations/#:~:text=House%20Bill%201062)
 * 01/28/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/28/the-house-hot-sheet-for-week-4-of-the-2024-legislative-session/#:~:text=HB%201062)
 * 01/21/2024 [MyNorthwest](/org/mynorthwest/) - [Amanda Knox testifies in Olympia about police interrogation bill - MyNorthwest.com](https://mynorthwest.com/3947284/amanda-knox-testifies-about-police-interrogation-bill/#:~:text=House%20Bill%201062)
 * 01/17/2024 [Crosscut](/org/crosscut/) - [Amanda Knox testifies in Olympia for stricter interrogation laws | Crosscut](https://crosscut.com/politics/2024/01/amanda-knox-testifies-olympia-stricter-interrogation-laws#:~:text=House%20Bill%201062)

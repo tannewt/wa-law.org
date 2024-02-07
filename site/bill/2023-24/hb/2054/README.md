@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=HB%202054)
 * 01/20/2024 [KING5](/org/king5/) - [WA could expand speed camera use amid rise in deadly crashes | king5.com](https://www.king5.com/article/news/politics/in-session/session-washington-state-expand-speed-camera-rise-deadly-crashes/281-76104cf1-aee1-43e2-a0a3-cfb8b8ba0b6b#:~:text=House%20Bill%202054)
 * 01/16/2024 [KING5](/org/king5/) - [Gun-related bill proposals include permits, purchase limits in Washington | king5.com](https://www.king5.com/article/news/local/gun-related-proposals-permits-purchase-limits/281-b54240bc-62d3-4914-bee4-86c6ef49d5f5#:~:text=House%20Bill%202054)
 

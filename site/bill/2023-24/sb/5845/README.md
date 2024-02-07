@@ -15,7 +15,7 @@ Testifying:
 #### 10 👎 - Con
 Testifying:
 * Bill Adamson - South Sound Military & Communities Partnership
-* Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Jake Mayson - Greater Spokane Incorporated & Forward Fairchild
 
 #### 2 ❓ - Other

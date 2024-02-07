@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/07/2024 [Senate Democrats](/org/senate_democrats/) - [Stanford bill to crack down on predatory loans clears Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/06/stanford-bill-to-crack-down-on-predatory-loans-clears-senate/#:~:text=SB%206025)
+
 ## Meetings
 ### Tue 01/16 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6025 Predatory loans
 #### 15 👍 - Pro

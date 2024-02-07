@@ -312,8 +312,8 @@
 * 👎 Mike Ennis
 
 ## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍2  
-* 👍 Morgan Irwin
-* 👍 Morgan Irwin
+* 👍💵 Morgan Irwin
+* 👍💵 Morgan Irwin
 
 ## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍1  
 
@@ -343,13 +343,13 @@
 ## [HB 1987](/bill/2023-24/hb/1987/) - Concerning the use of moneys from the rural public facilities sales and use tax for affordable workforce housing infrastructure and facilities. 👍1  
 
 ## [HB 1998](/bill/2023-24/hb/1998/) - Co-living housing 👍1  
-* 👍 Morgan Irwin
+* 👍💵 Morgan Irwin
 
 ## [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍2  
 * 👍💵 Amy Anderson
 
 ## [HB 2026](/bill/2023-24/hb/2026/) - Rental income/property tax 👍1  
-* 👍 Morgan Irwin
+* 👍💵 Morgan Irwin
 
 ## [HB 2035](/bill/2023-24/hb/2035/) - Concerning restrictions on the working conditions and hours of sixteen- and seventeen-year olds. 👍1  
 
@@ -381,7 +381,7 @@
 ## [HB 2103](/bill/2023-24/hb/2103/) - Large port districts  👎1 
 
 ## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants  👎2 
-* 👎 Morgan Irwin
+* 👎💵 Morgan Irwin
 
 ## [HB 2119](/bill/2023-24/hb/2119/) - Medical debt garnishment  👎1 
 * 👎💵 Emily Wittman
@@ -394,10 +394,10 @@
 * 👍💵 Peter Godlewski
 
 ## [HB 2158](/bill/2023-24/hb/2158/) - Urban growth area boundaries 👍1  
-* 👍 Morgan Irwin
+* 👍💵 Morgan Irwin
 
 ## [HB 2160](/bill/2023-24/hb/2160/) - Housing development  👎2 
-* 👎 Morgan Irwin
+* 👎💵 Morgan Irwin
 
 ## [HB 2172](/bill/2023-24/hb/2172/) - Vacant state agency property 👍1  
 
@@ -425,10 +425,10 @@
 * 👎💵 Peter Godlewski
 
 ## [HB 2262](/bill/2023-24/hb/2262/) - Tire rolling resistance  👎1 
-* 👎 Morgan Irwin
+* 👎💵 Morgan Irwin
 
 ## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍1  
-* 👍 Morgan Irwin
+* 👍💵 Morgan Irwin
 
 ## [HB 2275](/bill/2023-24/hb/2275/) - Senior independent housing 👍1  
 
@@ -455,15 +455,15 @@
 ## [HB 2422](/bill/2023-24/hb/2422/) - Affordable housing/rural 👍1  
 
 ## [HB 2425](/bill/2023-24/hb/2425/) - Rental support program   ❓1
-* ❓ Morgan Irwin
+* ❓💵 Morgan Irwin
 
 ## [HB 2441](/bill/2023-24/hb/2441/) - College in the HS fees 👍1  
 
 ## [HB 2451](/bill/2023-24/hb/2451/) - Impact fees 👍1  
-* 👍 Morgan Irwin
+* 👍💵 Morgan Irwin
 
 ## [HB 2464](/bill/2023-24/hb/2464/) - Concerning the development of new manufactured/mobile homes and new manufactured/mobile home communities. 👍1  
-* 👍 Morgan Irwin
+* 👍💵 Morgan Irwin
 
 ## [HB 2465](/bill/2023-24/hb/2465/) - State building code council 👍1  
 
@@ -492,7 +492,7 @@
 
 ## [SB 5118](/bill/2023-24/sb/5118/) - Multifamily property tax ex.  👎1 ❓2
 * ❓💵 Michael Ennis
-* 👎 Morgan Irwin
+* 👎💵 Morgan Irwin
 
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment  👎1 
 * 👎💵 Peter Godlewski
@@ -704,12 +704,12 @@
 * 👍💵 Peter Godlewski
 
 ## [SB 5845](/bill/2023-24/sb/5845/) - Military housing taxation  👎1 ❓1
-* 👎 Morgan Irwin
+* 👎💵 Morgan Irwin
 
 ## [SB 5870](/bill/2023-24/sb/5870/) - Early learning programs 👍1  
 
 ## [SB 5901](/bill/2023-24/sb/5901/) - Co-living housing 👍1  
-* 👍 Morgan Irwin
+* 👍💵 Morgan Irwin
 
 ## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
 
@@ -724,10 +724,10 @@
 ## [SB 5955](/bill/2023-24/sb/5955/) - Large port districts  👎1 
 
 ## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras  👎1 
-* 👎 Morgan Irwin
+* 👎💵 Morgan Irwin
 
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants  👎1 
-* 👎 Morgan Irwin
+* 👎💵 Morgan Irwin
 
 ## [SB 5965](/bill/2023-24/sb/5965/) - Fashion/environmental impact  👎1 
 * 👎💵 Peter Godlewski
@@ -743,7 +743,7 @@
 ## [SB 6018](/bill/2023-24/sb/6018/) - Early learning coordinators 👍1  
 
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development  👎1 
-* 👎 Morgan Irwin
+* 👎💵 Morgan Irwin
 
 ## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍1  
 
@@ -756,7 +756,7 @@
 * ❓💵 Peter Godlewski
 
 ## [SB 6064](/bill/2023-24/sb/6064/) - Pet fees, deposits  👎1 
-* 👎 Morgan Irwin
+* 👎💵 Morgan Irwin
 
 ## [SB 6092](/bill/2023-24/sb/6092/) - Greenhouse gas disclosures  👎1 
 * 👎💵 Peter Godlewski
@@ -769,7 +769,7 @@
 * 👎💵 Peter Godlewski
 
 ## [SB 6114](/bill/2023-24/sb/6114/) - Sustainable aviation fuel  👎1 
-* 👎 Morgan Irwin
+* 👎💵 Morgan Irwin
 
 ## [SB 6121](/bill/2023-24/sb/6121/) - Biochar production 👍2  
 
@@ -779,7 +779,7 @@
 * 👍💵 Emily Shay
 
 ## [SB 6143](/bill/2023-24/sb/6143/) - Salmon habitat planning  👎1 
-* 👎 Morgan Irwin
+* 👎💵 Morgan Irwin
 
 ## [SB 6168](/bill/2023-24/sb/6168/) - International leadership 👍1  
 * 👍💵 Amy Anderson
@@ -804,4 +804,4 @@
 ## [SB 6300](/bill/2023-24/sb/6300/) - College grant/public assist. 👍2  
 
 ## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍1  
-* 👍 Morgan Irwin
+* 👍💵 Morgan Irwin

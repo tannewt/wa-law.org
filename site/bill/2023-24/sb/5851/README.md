@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=SSB%205851)
 * 01/18/2024 [MyNorthwest](/org/mynorthwest/) - [Holocaust education bill proposed as antisemitic incidents increase - MyNorthwest.com](https://mynorthwest.com/3946929/holocaust-education-bill-proposed-antisemitic-incidents-increase/#:~:text=Senate%20Bill%205851)
 * 01/17/2024 [KING5](/org/king5/) - [Holocaust, genocide history lessons could be mandated by 2027-28 school year | king5.com](https://www.king5.com/article/news/education/holocaust-genocide-history-lessons-mandate-2027/281-928076dd-8046-48bf-a033-34563369d6f2#:~:text=Senate%20Bill%205851)
 * 01/17/2024 [The Center Square](/org/the_center_square/) - [Bill would strengthen Holocaust education in Washington state | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_e8b05a4a-b57b-11ee-bf19-d72cbc185fa0.html#:~:text=Senate%20Bill%205851)

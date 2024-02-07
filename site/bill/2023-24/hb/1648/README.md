@@ -10,6 +10,7 @@
 * [Third Substitute](S3/)
 
 ## 📰 Articles
+* 02/05/2024 [The Seattle Times](/org/the_seattle_times/) - [Proposed bill puts power in the hands of ticket resellers, not fans | The Seattle Times](https://www.seattletimes.com/opinion/proposed-bill-puts-power-in-the-hands-of-ticket-resellers-not-fans/#:~:text=House%20Bill%201648)
 * 01/26/2024 [Crosscut](/org/crosscut/) - [Swifties hope their cruel summer leads to WA concert ticket laws | Crosscut](https://crosscut.com/briefs/2024/01/swifties-hope-their-cruel-summer-leads-wa-concert-ticket-laws#:~:text=House%20Bill%201648)
 * 01/26/2024 [KIRO7](/org/kiro7/) - [How ‘TSWIFT’ bill aims to fight ticket fees across Washington state – KIRO 7 News Seattle](https://www.kiro7.com/news/local/how-tswift-bill-aims-fight-ticket-fees-across-washington-state/2QD77E4KT5FT3PVOYN5ODH6UPU/#:~:text=House%20Bill%201648)
 * 01/24/2024 [KING5](/org/king5/) - ['TSWIFT' bill proposal would make ticket-buying easier in WA | king5.com](https://www.king5.com/article/news/politics/state-politics/taylor-swift-bill-proposal-ticket-buying-easier/281-9a8f5e89-9f0f-4019-8970-8849f7d886ee#:~:text=House%20Bill%201648)

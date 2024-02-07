@@ -16,7 +16,7 @@
 #### 137 👍 - Pro
 Testifying:
 * Hunter George - South Sound Housing Affordability Partnership
-* Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 * Nicholas Carr - Tacoma Housing Authority
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
@@ -34,7 +34,7 @@ Testifying:
 * Nicholas Carr
 * Beau Baker - Southport Financial Services
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
-* Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 * Steve Walker - Washington State Housing Finance Commission
 * 💵Brian Bonlender - [Coalition for Affordable Housing Development](/org/coalition_for_affordable_housing_development/)
 

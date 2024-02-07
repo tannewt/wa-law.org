@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/07/2024 [MyNorthwest](/org/mynorthwest/) - [Adult entertainment bills may affect change in Wash. bar lewd laws - MyNorthwest.com](https://mynorthwest.com/3949725/2-adult-entertainment-bills-could-influence-lewd-laws-governing-state-bars/#:~:text=SB%206105)
 * 02/01/2024 [The Seattle Times](/org/the_seattle_times/) - [WA liquor board suspends ‘lewd conduct’ enforcement after LGBTQ+ bar inspections | The Seattle Times](https://www.seattletimes.com/seattle-news/wa-liquor-board-suspends-lewd-conduct-enforcement-after-lgbtq-bar-inspections/#:~:text=Senate%20Bill%206105)
 * 01/31/2024 [The Seattle Times](/org/the_seattle_times/) - [Seattle LGBTQ+ bars, clubs on edge after ‘lewd conduct’ violations | The Seattle Times](https://www.seattletimes.com/seattle-news/seattle-lgbtq-bars-clubs-on-edge-after-lewd-conduct-violations/#:~:text=Senate%20Bill%206105)
 * 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=Senate%20Bill%206105)

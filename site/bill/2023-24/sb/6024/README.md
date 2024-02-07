@@ -17,7 +17,7 @@ Testifying:
 
 #### 9 👎 - Con
 Testifying:
-* Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 * BILL CLARKE - Washington REALTORS
 * Salim Nice - Mayor, City of Mercer Island
 * McKenzie Darr - NAIOPWA

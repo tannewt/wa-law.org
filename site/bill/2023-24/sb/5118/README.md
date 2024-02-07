@@ -31,7 +31,7 @@ Testifying:
 
 #### 2 👎 - Con
 Testifying:
-* Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 * McKenzie Darr - NAIOPWA
 
 #### 3 ❓ - Other

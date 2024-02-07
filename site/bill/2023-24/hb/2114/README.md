@@ -8,6 +8,11 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/06/2024 [Senate Democrats](/org/senate_democrats/) - [Joint statement from chairs of Members of Color caucuses on rent stabilization - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/06/joint-statement-from-chairs-of-members-of-color-caucuses-on-rent-stabilization/#:~:text=HB%202114)
+* 02/06/2024 [Cascadia Daily News](/org/cascadia_daily_news/) - [Local, state reps agree: Rent stabilization is both necessary and popular with voters | Cascadia Daily News](https://www.cascadiadaily.com/2024/feb/06/local-state-reps-agree-rent-stabilization-is-both-necessary-and-popular-with-voters/#:~:text=HB%202114)
+* 02/06/2024 [House Democrats](/org/house_democrats/) - [Joint statement from chairs of Members of Color caucuses on rent stabilization – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/06/joint-statement-from-chairs-of-members-of-color-caucuses-on-rent-stabilization/#:~:text=HB%202114)
+* 02/05/2024 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Week Five Legislative Update - United Ways of Washington - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02052024#:~:text=House%20Bill%202114)
+* 02/05/2024 [The Seattle Times](/org/the_seattle_times/) - [With tweaks, rent limit proposal forges ahead in WA House | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/with-tweaks-rent-limit-proposal-forges-ahead-in-wa-house/#:~:text=House%20Bill%202114)
 * 02/02/2024 [The Seattle Times](/org/the_seattle_times/) - [What bills are dead, alive after WA Legislature’s first cutoff | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/some-bills-die-after-first-wa-legislature-cutoff/#:~:text=House%20Bill%202114)
 * 02/01/2024 [The Seattle Times](/org/the_seattle_times/) - [WA Senate bill dies, signaling tough path ahead for limiting rent hikes | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-senate-bill-dies-signaling-tough-path-ahead-for-limiting-rent-hikes/#:~:text=House%20Bill%202114)
 * 01/31/2024 [The Center Square](/org/the_center_square/) - [Residents rally at the state Capitol for rent control | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c7a8b4e4-bfd7-11ee-830c-ff6e96f7402d.html#:~:text=House%20Bill%202114)
@@ -160,7 +165,7 @@ Testifying:
 * Traci Chaney
 * Dylan haney
 * Skyler Chaney
-* Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 * Ryan Erickson
 * Mike Morris
 * Karyn Kuever

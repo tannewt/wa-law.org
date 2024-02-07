@@ -13,7 +13,7 @@ Testifying:
 * Brian Holtzclaw - Master Builders Association of King and Snohomish Counties
 * Sam Spiegelman - Citizen Action Defense Fund
 * 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
-* Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 5 👎 - Con
 Testifying:

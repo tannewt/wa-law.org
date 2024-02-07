@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=SB%205963)
 * 02/02/2024 [MyNorthwest](/org/mynorthwest/) - [Rantz: Oops. Anti-gun lawmaker accidentally argued against her own bill - MyNorthwest.com](https://mynorthwest.com/3948631/rantz-oops-anti-gun-lawmaker-accidentally-argued-against-her-own-bill/#:~:text=Senate%20Bill%205963)
 * 01/31/2024 [The Seattle Times](/org/the_seattle_times/) - [‘A cost on simply existing’: How political tension is rising in WA | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/a-cost-on-simply-existing-how-political-tension-is-rising-in-wa/#:~:text=Senate%20Bill%205963)
 * 01/30/2024 [MyNorthwest](/org/mynorthwest/) - [Should you be required to have liability insurance if you own a gun? - MyNorthwest.com](https://mynorthwest.com/3948515/should-you-be-required-to-have-liability-insurance-if-you-own-a-gun/#:~:text=Senate%20Bill%205963)

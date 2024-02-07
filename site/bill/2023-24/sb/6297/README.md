@@ -6,4 +6,8 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/06/2024 [Gorge News Center](/org/gorge_news_center/) - [Fentanyl education bill passes Senate committee as pills fall to 25 cents in Portland](https://gorgenewscenter.com/2024/02/06/fentanyl-education-bill-passes-senate-committee-as-pills-fall-to-25-cents-in-portland/#:~:text=SB%206297)
+* [Senate Republicans](/org/senate_republicans/) - [Recovery Washington - Senate Republican Caucus](https://src.wastateleg.org/recovery-washington/#:~:text=SB%206297)
+
 ## Meetings

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=HB%201843)
 * 01/30/2024 [The Seattle Times](/org/the_seattle_times/) - [Should Washington make it easier to pass school construction bonds? | The Seattle Times](https://www.seattletimes.com/education-lab/should-washington-make-it-easier-to-pass-school-construction-bonds/#:~:text=House%20Bill%201843)
 * 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=HB%201843)
 * 01/16/2024 [Washington St Pta](/org/washington_st_pta/) - [WSPTA Testifies: Students and Leaders Convene in Olympia for Focus on Advocacy Day - WSPTA](https://www.wastatepta.org/wspta-testifies-foa-24/#:~:text=HB%201843)

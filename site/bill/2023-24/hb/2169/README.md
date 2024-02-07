@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/06/2024 [Crosscut](/org/crosscut/) - [WA bill wants to create 'healthier' prisons for inmates, officers | Crosscut](https://crosscut.com/briefs/2024/02/wa-bill-wants-create-healthier-prisons-inmates-officers#:~:text=House%20Bill%202169)
+
 ## Meetings
 ### Mon 01/22 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 2169 DOC healthy env. pilot
 #### 6 👍 - Pro

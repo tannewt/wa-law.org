@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/06/2024 [House Democrats](/org/house_democrats/) - [Rep. Taylor’s bill to maximize Office of Public Defense staffing passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/06/rep-taylors-bill-to-maximize-office-of-public-defense-staffing-passes-house/#:~:text=House%20Bill%201911)
+
 ## Meetings
 ### Wed 01/10 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1911 Office of public defense
 #### 7 👍 - Pro

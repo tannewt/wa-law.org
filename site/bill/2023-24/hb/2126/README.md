@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/06/2024 [The Urbanist](/org/the_urbanist/) - [The Battle Over Allowing More Rural Accessory Dwelling Units in Washington - The Urbanist](https://www.theurbanist.org/2024/02/06/the-battle-over-allowing-more-rural-accessory-dwelling-units-in-washington/#:~:text=House%20Bill%202126)
 * 01/11/2024 [The Center Square](/org/the_center_square/) - [Bipartisan support in Olympia for rural accessory dwelling units | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c2346066-b0d8-11ee-9a68-77a469d83025.html#:~:text=House%20Bill%202126)
 
 ## Meetings

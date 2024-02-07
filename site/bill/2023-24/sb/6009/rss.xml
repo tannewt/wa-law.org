@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6009/</link>
 		<description>Updates about SB 6009</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 06 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 06 Feb 2024 14:10:58 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -142,6 +142,13 @@
 			<pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-06/Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>WA Senate passes bill that would ban hogtying by police | The Seattle Times</title>
+			<description>News article &quot;WA Senate passes bill that would ban hogtying by police | The Seattle Times&quot; from The Seattle Times.</description>
+			<pubDate>Tue, 06 Feb 2024 14:10:58 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.seattletimes.com/seattle-news/politics/wa-senate-passes-bill-that-would-ban-hogtying-by-police/#:~:text=Senate%20Bill%206009</guid>
 		</item>
 	</channel>
 </rss>

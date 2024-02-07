@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5849/</link>
 		<description>Updates about SB 5849</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 05 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 05 Feb 2024 04:30:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -217,6 +217,13 @@
 			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-05/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Bills advance, falter as Legislature reaches committee cutoffs - WSPTA</title>
+			<description>News article &quot;Bills advance, falter as Legislature reaches committee cutoffs - WSPTA&quot; from Washington St Pta.</description>
+			<pubDate>Mon, 05 Feb 2024 04:30:02 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=SSB%205849</guid>
 		</item>
 	</channel>
 </rss>

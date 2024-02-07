@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/06/2024 [MyNorthwest](/org/mynorthwest/) - [Rantz: Washington will permanently install freeway speed cameras - MyNorthwest.com](https://mynorthwest.com/3949358/rantz-washington-permanently-install-freeway-speed-cameras/#:~:text=House%20Bill%202485)
 * 01/30/2024 [KIRO7](/org/kiro7/) - [Bill proposes testing automated speed cameras along state highways – KIRO 7 News Seattle](https://www.kiro7.com/news/local/bill-proposes-testing-automated-speed-cameras-along-state-highways/L3RFNWAJJFFLXGCHZ56X7K7Y4I/#:~:text=House%20Bill%202485)
 * 01/29/2024 [FOX13](/org/fox13/) - [Speed cameras on Washington highways; Lawmakers hope to curb number of crashes](https://www.fox13seattle.com/news/proposed-law-looks-to-add-speed-cams-to-washington-state-highways#:~:text=House%20Bill%202485)
 
