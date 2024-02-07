@@ -605,7 +605,7 @@
 ## [SB 5778](/bill/2023-24/sb/5778/) - Employer political speech   ❓1
 * ❓💵 Candice Bock
 
-## [SB 5780](/bill/2023-24/sb/5780/) - Public defense training 👍2  
+## [SB 5780](/bill/2023-24/sb/5780/) - Public defense & prosecution 👍2  
 
 ## [SB 5781](/bill/2023-24/sb/5781/) - Establishing a law student rural public defense program. 👍2  
 * 👍💵 Lindsey Hueer

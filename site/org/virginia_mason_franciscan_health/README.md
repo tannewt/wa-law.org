@@ -81,7 +81,7 @@
 
 ## [SB 5880](/bill/2023-24/sb/5880/) - MRI technologists 👍1  
 
-## [SB 5983](/bill/2023-24/sb/5983/) - Syphilis treat. supervision 👍1  
+## [SB 5983](/bill/2023-24/sb/5983/) - Syphilis treatment 👍1  
 
 ## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍1  
 

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 02/01 10:30 AM - Transportation (TR): HB 2491 Lease of unused highway land

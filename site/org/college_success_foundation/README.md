@@ -137,7 +137,7 @@
 
 ## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍1  
 
-## [SB 5850](/bill/2023-24/sb/5850/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
+## [SB 5850](/bill/2023-24/sb/5850/) - Chronically absent students 👍1  
 
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
 

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>ESJM 8005 - De-risking/financial inst.</title>
+		<link>https://wa-law.org/bill/2023-24/esjm/8005/</link>
+		<description>Updates about ESJM 8005</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 06 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>❓Eric Pratt - I, America</title>
+			<description>Eric Pratt signed up to testify Other. They are signed up to represent I, America.</description>
+			<pubDate>Sun, 29 Jan 2023 03:34:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Eric/Pratt/2023-01-29 03:34:54</guid>
+		</item>
+		<item>
+			<title>👎Eric Pratt - I, America</title>
+			<description>Eric Pratt signed up to testify Con. They are signed up to represent I, America.</description>
+			<pubDate>Mon, 30 Jan 2023 01:34:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Eric/Pratt/2023-01-30 01:34:28</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 45; nays, 4; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 45; nays, 4; absent, 0; excused, 0.</description>
+			<pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-06/Third reading, passed; yeas, 45; nays, 4; absent, 0; excused, 0.</guid>
+		</item>
+	</channel>
+</rss>

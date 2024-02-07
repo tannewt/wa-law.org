@@ -10,7 +10,7 @@
 
 ## [SB 5606](/bill/2023-24/sb/5606/) - Illegal racing 👍1  
 
-## [SB 5850](/bill/2023-24/sb/5850/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
+## [SB 5850](/bill/2023-24/sb/5850/) - Chronically absent students 👍1  
 * 👍 Jimmy Gere
 
 ## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍1  

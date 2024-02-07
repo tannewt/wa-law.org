@@ -182,7 +182,7 @@
 
 ## [SB 5849](/bill/2023-24/sb/5849/) - Computer science/graduation   ❓1
 
-## [SB 5850](/bill/2023-24/sb/5850/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
+## [SB 5850](/bill/2023-24/sb/5850/) - Chronically absent students 👍1  
 
 ## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍2  
 

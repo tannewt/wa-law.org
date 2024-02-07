@@ -26,7 +26,7 @@
 
 ## [SB 5719](/bill/2023-24/sb/5719/) - Student homelessness group 👍1  
 
-## [SB 5850](/bill/2023-24/sb/5850/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
+## [SB 5850](/bill/2023-24/sb/5850/) - Chronically absent students 👍1  
 * 👍 Jeff Engle
 
 ## [SB 6216](/bill/2023-24/sb/6216/) - Student mental health net. 👍1  

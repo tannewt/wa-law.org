@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## Meetings
 ### Tue 01/23 04:00 PM - Ways & Means (WM): SSB 5591 Dependent youth financial ed

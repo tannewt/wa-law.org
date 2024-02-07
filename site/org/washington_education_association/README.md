@@ -907,7 +907,7 @@
 ## [SB 5849](/bill/2023-24/sb/5849/) - Computer science/graduation   ❓2
 * ❓💵 Nasue Nishida
 
-## [SB 5850](/bill/2023-24/sb/5850/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍2  
+## [SB 5850](/bill/2023-24/sb/5850/) - Chronically absent students 👍2  
 
 ## [SB 5851](/bill/2023-24/sb/5851/) - Holocaust and genocide edu. 👍3  
 * 👍💵 Simone Boe

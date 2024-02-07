@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 01/17/2024 [The Center Square](/org/the_center_square/) - [Legislation would use Seattle Port revenue for pollution mitigation | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_896d9216-b58d-11ee-b707-2f05aad421ae.html#:~:text=Senate%20Bill%205955)

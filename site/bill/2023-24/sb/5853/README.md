@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## Meetings
 ### Fri 02/02 01:30 PM - Ways & Means (WM): SSB 5853 Behav crisis services/minors

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 01/14/2024 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Supplemental Budget Looms Large in 2024 Legislation Session - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate01152024#:~:text=Senate%20Bill%205943)

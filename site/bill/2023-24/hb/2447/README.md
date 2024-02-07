@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 02/01/2024 [FOX13](/org/fox13/) - [Jefferson County prosecutor wants changes to law blamed for child's death](https://www.fox13seattle.com/news/jefferson-county-prosecutor-wants-changes-to-law-blamed-for-childs-death#:~:text=House%20Bill%202447.)

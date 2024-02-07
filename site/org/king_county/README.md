@@ -720,7 +720,7 @@
 
 ## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  
 
-## [SB 5983](/bill/2023-24/sb/5983/) - Syphilis treat. supervision 👍1  
+## [SB 5983](/bill/2023-24/sb/5983/) - Syphilis treatment 👍1  
 
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
 * 👍 Pat McLaughlin

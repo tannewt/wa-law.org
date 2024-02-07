@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 01/12/2024 [Crosscut](/org/crosscut/) - [WA Legislature reviews joining CA, Quebec carbon pricing program | Crosscut](https://crosscut.com/briefs/2024/01/wa-legislature-reviews-joining-ca-quebec-carbon-pricing-program#:~:text=Senate%20Bill%206058)

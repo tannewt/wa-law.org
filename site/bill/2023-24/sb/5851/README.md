@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 01/18/2024 [MyNorthwest](/org/mynorthwest/) - [Holocaust education bill proposed as antisemitic incidents increase - MyNorthwest.com](https://mynorthwest.com/3946929/holocaust-education-bill-proposed-antisemitic-incidents-increase/#:~:text=Senate%20Bill%205851)

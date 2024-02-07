@@ -74,7 +74,7 @@
 
 ## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍1  
 
-## [SB 5850](/bill/2023-24/sb/5850/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
+## [SB 5850](/bill/2023-24/sb/5850/) - Chronically absent students 👍1  
 
 ## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍2  
 
