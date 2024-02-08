@@ -11,6 +11,19 @@
 * 02/06/2024 [Gorge News Center](/org/gorge_news_center/) - [WA House unanimously approves Mosbrucker bill to protect domestic violence survivors from further abuse](https://gorgenewscenter.com/2024/02/06/wa-house-unanimously-approves-mosbrucker-bill-to-protect-domestic-violence-survivors-from-further-abuse/#:~:text=House%20Bill%202048)
 
 ## Meetings
+### Thu 02/15 08:00 AM - Law & Justice (LAW): SHB 2048 Domestic violence/sentencing
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158990&caId=23926&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158990&caId=23926&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158990&caId=23926&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158990&caId=23926&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/11 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 2048 Domestic violence/sentencing
 #### 17 👍 - Pro
 Testifying:

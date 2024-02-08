@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## Meetings
 ### Sat 02/03 09:00 AM - Appropriations (APP): HB 1551 Lead in cookware

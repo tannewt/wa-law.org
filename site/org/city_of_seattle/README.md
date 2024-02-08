@@ -180,7 +180,7 @@
 ## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍1  
 * 👍 Kelli Larsen
 
-## [HB 2019](/bill/2023-24/hb/2019/) - Establishing a Native American apprentice assistance program. 👍2  
+## [HB 2019](/bill/2023-24/hb/2019/) - Native American apprentices 👍2  
 
 ## [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg 👍1  
 

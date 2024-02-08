@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1915/</link>
 		<description>Updates about HB 1915</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 05 Feb 2024 04:30:02 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 07 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -452,6 +452,13 @@
 			<pubDate>Mon, 05 Feb 2024 04:30:02 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=SHB%201915</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-07/Placed on second reading by Rules Committee.</guid>
 		</item>
 	</channel>
 </rss>

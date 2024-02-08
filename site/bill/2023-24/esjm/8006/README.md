@@ -10,6 +10,19 @@
 * 01/31/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Current Status of Priority Bills — Quaker Voice](https://www.quakervoicewa.org/2024-current-status-of-priority-bills/#:~:text=SJM%208006)
 
 ## Meetings
+### Wed 02/14 01:30 PM - Health Care & Wellness (HCW): ESJM 8006 Universal health care
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=158937&caId=23961&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=158937&caId=23961&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=158937&caId=23961&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=158937&caId=23961&tId=4)
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 03/24 08:00 AM - Health Care & Wellness (HCW): SJM 8006 Universal health care
 #### 584 👍 - Pro
 Testifying:

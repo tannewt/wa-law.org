@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Tue 01/16 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6061 Housing development/SEPA

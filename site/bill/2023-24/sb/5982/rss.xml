@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5982/</link>
 		<description>Updates about SB 5982</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 05 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 07 Feb 2024 07:33:33 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -207,6 +207,14 @@
 			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-05/First reading, referred to Health Care &amp; Wellness.</guid>
+		</item>
+		<item>
+			<title>👎Laurie Layne - Indeterminate Sentence Review Board</title>
+			<description>Laurie Layne signed up to testify Con.</description>
+			<pubDate>Wed, 07 Feb 2024 07:33:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Laurie/Layne/2024-02-07 07:33:33</guid>
 		</item>
 	</channel>
 </rss>

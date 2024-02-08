@@ -15,7 +15,7 @@
 Testifying:
 * Charlie Brown - Cascade Natural Gas and NW Natural
 * 💵John Rothlin - Avista
-* Natasha Jackson - 1914 Willamette Falls Drive
+* 💵Natasha Jackson - 1914 Willamette Falls Drive
 * Alyn Spector - [Cascade Natural Gas](/org/cascade_natural_gas/)
 
 #### 5 👎 - Con

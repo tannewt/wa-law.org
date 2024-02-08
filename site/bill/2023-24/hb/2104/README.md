@@ -116,7 +116,7 @@ Testifying:
 * Angie Silvan
 * Angela Steck - President, Washington State PTA
 * 💵Samuel Martin - Washington Coalition for Homeless Youth Advocacy
-* Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
+* 💵Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
 * Henterson Carlisle - Center for High School Success
 * 💵Kia Franklin - Stand for Children Washington
 * Kim Casey - Superintendent of the Prosser School District

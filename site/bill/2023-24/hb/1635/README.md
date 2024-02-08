@@ -11,6 +11,19 @@
 * 02/01/2024 [The Center Square](/org/the_center_square/) - [Legislation to train police dogs to detect fentanyl moves ahead in Olympia | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c0d576f6-c145-11ee-b69b-074e3e6e0327.html#:~:text=House%20Bill%201635)
 
 ## Meetings
+### Thu 02/15 08:00 AM - Law & Justice (LAW): HB 1635 Police dogs/liability
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158988&caId=23924&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158988&caId=23924&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158988&caId=23924&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158988&caId=23924&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/06 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1635 Police dogs/liability
 #### 25 👍 - Pro
 Testifying:

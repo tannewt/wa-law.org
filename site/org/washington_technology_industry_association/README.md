@@ -34,7 +34,7 @@
 
 ## [HB 2008](/bill/2023-24/hb/2008/) - Housing cost task force 👍1  
 
-## [HB 2019](/bill/2023-24/hb/2019/) - Establishing a Native American apprentice assistance program. 👍2  
+## [HB 2019](/bill/2023-24/hb/2019/) - Native American apprentices 👍2  
 
 ## [HB 2149](/bill/2023-24/hb/2149/) - Protecting consumer personal information.  👎1 
 * 👎💵 Kelly Fukai

@@ -14,7 +14,7 @@
 Testifying:
 * Sam Martin - [The Mockingbird Society](/org/the_mockingbird_society/)
 * Colleen Shea-Brown - Legal Counsel for Youth and Children (LCYC)
-* Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
+* 💵Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
 * 💵Emily Stochel - [College Success Foundation](/org/college_success_foundation/)
 * Clinton Taylor - Your Money Matters Financial Mentoring
 

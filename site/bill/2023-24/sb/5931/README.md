@@ -8,6 +8,19 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Wed 02/14 10:30 AM - Environment & Energy (ENVI): SSB 5931 Motorized vehicle tires/6PPD
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31939&aId=158974&caId=23955&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31939&aId=158974&caId=23955&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31939&aId=158974&caId=23955&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31939&aId=158974&caId=23955&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/09 01:30 PM - Environment, Energy & Technology (ENET): SB 5931 Motorized vehicle tires/6PPD
 #### 177 👍 - Pro
 Testifying:

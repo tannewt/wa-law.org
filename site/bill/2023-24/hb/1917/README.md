@@ -10,6 +10,19 @@
 * 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%201917)
 
 ## Meetings
+### Thu 02/15 10:30 AM - Health & Long Term Care (HLTC): HB 1917 Physician assistant compact
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158916&caId=23912&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158916&caId=23912&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158916&caId=23912&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158916&caId=23912&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/10 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1917 Physician assistant compact
 #### 124 👍 - Pro
 Testifying:

@@ -10,6 +10,73 @@
 * 01/08/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Session Preview: Legislature convenes January 8 for short session - WSPTA](https://www.wastatepta.org/2024-session-preview/#:~:text=SB%205949)
 
 ## Meetings
+### Thu 02/15 04:00 PM - Ways & Means (WM): PSSB 5949: All other. (Remote Testimony Available).
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158970&caId=23919&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158970&caId=23919&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158970&caId=23919&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158970&caId=23919&tId=4)
+
+#### 0 👍 - Pro
+
+#### 2 👎 - Con
+Testifying:
+* John Worthington
+
+#### 0 ❓ - Other
+
+### Thu 02/15 04:00 PM - Ways & Means (WM): PSSB 5949: Higher education. (Remote Testimony Available).
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158967&caId=23916&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158967&caId=23916&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158967&caId=23916&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158967&caId=23916&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Thu 02/15 04:00 PM - Ways & Means (WM): PSSB 5949: Housing, behavioral health, and human services. (Remote Testimony Available).
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158968&caId=23917&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158968&caId=23917&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158968&caId=23917&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158968&caId=23917&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Thu 02/15 04:00 PM - Ways & Means (WM): PSSB 5949: K-12 public schools. (Remote Testimony Available).
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158966&caId=23915&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158966&caId=23915&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158966&caId=23915&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158966&caId=23915&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Thu 02/15 04:00 PM - Ways & Means (WM): PSSB 5949: Natural resources. (Remote Testimony Available).
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158969&caId=23918&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158969&caId=23918&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158969&caId=23918&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158969&caId=23918&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/11 04:00 PM - Ways & Means (WM): SB 5949: All other.  (Remote Testimony Available).
 #### 12 👍 - Pro
 Testifying:

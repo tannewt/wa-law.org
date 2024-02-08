@@ -11,7 +11,7 @@
 #### 26 👍 - Pro
 Testifying:
 * 💵Dan Kirschner - [Northwest Gas Association](/org/northwest_gas_association/)
-* Natasha Jackson - NW Gas Association
+* 💵Natasha Jackson - NW Gas Association
 * Charlie Brown - Cascade Natural Gas and NW Natural
 * 💵John Rothlin - The Avista Corporation
 * Alyn Spector - Cascade Natural Gas Company

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2131/</link>
 		<description>Updates about HB 2131</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 05 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 07 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -78,8 +78,8 @@
 			<guid isPermaLink="false">testifier/Matt/Miller/2024-01-16 08:34:45</guid>
 		</item>
 		<item>
-			<title>❓Natasha Jackson - Northwest Gas Association</title>
-			<description>Natasha Jackson signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/northwest_gas_association/&quot;&gt;Northwest Gas Association&lt;/a&gt;.</description>
+			<title>❓💵Natasha Jackson - Northwest Gas Association</title>
+			<description>Natasha Jackson signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/northwest_gas_association/&quot;&gt;Northwest Gas Association&lt;/a&gt;. They are a registered lobbyist.</description>
 			<pubDate>Tue, 16 Jan 2024 09:24:20 GMT</pubDate>
 			<category>testifier</category>
 			<category>Other</category>
@@ -142,6 +142,13 @@
 			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-05/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-07/Placed on second reading by Rules Committee.</guid>
 		</item>
 	</channel>
 </rss>

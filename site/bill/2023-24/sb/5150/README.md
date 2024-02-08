@@ -13,6 +13,19 @@
 * 03/11/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 13 - 17, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-13-17-2023/#:~:text=SB%205150)
 
 ## Meetings
+### Wed 02/14 08:00 AM - Agriculture and Natural Resources (AGNR): 2ESSB 5150 Beef commission
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31919&aId=158855&caId=23927&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31919&aId=158855&caId=23927&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31919&aId=158855&caId=23927&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31919&aId=158855&caId=23927&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 03/15 08:00 AM - Agriculture and Natural Resources (AGNR): ESSB 5150 Beef commission
 #### 151 👍 - Pro
 Testifying:

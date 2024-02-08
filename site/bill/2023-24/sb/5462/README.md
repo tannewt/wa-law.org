@@ -22,6 +22,19 @@
 * 01/29/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 4: Public safety takes center stage - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/29/this-week-in-the-senate-week-4-public-safety-takes-center-stage/#:~:text=SB%205462)
 
 ## Meetings
+### Wed 02/14 10:30 AM - Education (ED): ESB 5462 Inclusive learning standards
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=158889&caId=23946&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=158889&caId=23946&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=158889&caId=23946&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=158889&caId=23946&tId=4)
+
+#### 1 👍 - Pro
+
+#### 4 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 03/13 01:30 PM - Education (ED): ESB 5462 Inclusive learning standards
 #### 148 👍 - Pro
 Testifying:

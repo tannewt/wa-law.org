@@ -14,6 +14,21 @@
 * 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=SB%205334)
 
 ## Meetings
+### Wed 02/14 08:00 AM - Local Government (LG): ESSB 5334 Affordable housing funding
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31955&aId=158960&caId=23974&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31955&aId=158960&caId=23974&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31955&aId=158960&caId=23974&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31955&aId=158960&caId=23974&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* Carl Florea - Mayor of Leavenworth
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 03/30 08:00 AM - Finance (FIN): ESSB 5334 Affordable housing funding
 #### 5 👍 - Pro
 

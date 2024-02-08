@@ -12,6 +12,19 @@
 * 02/07/2024 [Senate Democrats](/org/senate_democrats/) - [Stanford bill limiting noncompetition contracts passes Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/06/stanford-bill-limiting-noncompetition-contracts-passes-senate/#:~:text=SB%205935)
 
 ## Meetings
+### Wed 02/14 08:00 AM - Labor & Workplace Standards (LAWS): SSB 5935 Noncompetition covenants
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158975&caId=23970&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158975&caId=23970&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158975&caId=23970&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158975&caId=23970&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/18 08:00 AM - Labor & Commerce (LC): SB 5935 Noncompetition covenants
 #### 17 👍 - Pro
 Testifying:

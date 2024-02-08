@@ -64,7 +64,7 @@
 
 ## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
 
-## [HB 2019](/bill/2023-24/hb/2019/) - Establishing a Native American apprentice assistance program. 👍1  
+## [HB 2019](/bill/2023-24/hb/2019/) - Native American apprentices 👍1  
 
 ## [HB 2021](/bill/2023-24/hb/2021/) - Firearm disposition 👍1  
 

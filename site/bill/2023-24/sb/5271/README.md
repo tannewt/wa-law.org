@@ -9,6 +9,19 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Fri 02/16 08:00 AM - Health Care & Wellness (HCW): ESSB 5271 DOH facilities/enforcement
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=158925&caId=23962&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=158925&caId=23962&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=158925&caId=23962&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=158925&caId=23962&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SSB 5271 DOH facilities/enforcement
 #### 8 👍 - Pro
 Testifying:

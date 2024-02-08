@@ -17,7 +17,7 @@
 #### 61 👍 - Pro
 Testifying:
 * 💵Bryan Ricker - Schweitzer Engineering Laboratories, Inc.: SEL
-* Natasha Jackson - [Northwest Gas Association](/org/northwest_gas_association/)
+* 💵Natasha Jackson - [Northwest Gas Association](/org/northwest_gas_association/)
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 * Susanna Jones

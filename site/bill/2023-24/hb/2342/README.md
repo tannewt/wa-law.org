@@ -11,7 +11,7 @@
 #### 122 👍 - Pro
 Testifying:
 * Sam Martin - [The Mockingbird Society](/org/the_mockingbird_society/)
-* Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
+* 💵Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
 * Erin Shea McCann - Legal Counsel for Youth and Children (LCYC)
 * 💵Emily Stochel - [College Success Foundation](/org/college_success_foundation/)
 

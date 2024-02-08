@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
 * 01/09/2024 [The Urbanist](/org/the_urbanist/) - [Micro-apartments Could Become Fully Legal in Washington, Again - The Urbanist](https://www.theurbanist.org/2024/01/09/micro-apartments-could-become-fully-legal-in-washington-again/#:~:text=House%20Bill%201998)

@@ -12,6 +12,19 @@
 * 02/16/2023 [The Center Square](/org/the_center_square/) - [Bill would spotlight assaults on Washington police | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d9c2bace-ae3c-11ed-94d1-27574509ec6f.html#:~:text=SB%205299)
 
 ## Meetings
+### Wed 02/14 10:30 AM - Community Safety, Justice, & Reentry (CSJR): ESSB 5299 Law enf. officer protection
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=158845&caId=23936&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=158845&caId=23936&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=158845&caId=23936&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=158845&caId=23936&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/31 10:30 AM - Law & Justice (LAW): SB 5299 Law enf. officer protection
 #### 38 👍 - Pro
 Testifying:

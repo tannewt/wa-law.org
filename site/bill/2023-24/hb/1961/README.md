@@ -12,6 +12,22 @@
 * 01/30/2024 [Gorge News Center](/org/gorge_news_center/) - [House approves Rep. Sam Low’s bill to strengthen penalties against animal abuse](https://gorgenewscenter.com/2024/01/30/house-approves-rep-sam-lows-bill-to-strengthen-penalties-against-animal-abuse/#:~:text=House%20Bill%201961)
 
 ## Meetings
+### Thu 02/15 08:00 AM - Law & Justice (LAW): HB 1961 Animal cruelty/seriousness
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158863&caId=23907&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158863&caId=23907&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158863&caId=23907&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158863&caId=23907&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* 💵Brenna Anderst - Pasado's Safe Haven/Education & Advocacy Director
+* Nathaniel Block - Skagit County Prosecuting Attorney's Office
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/08 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1961 Animal cruelty/seriousness
 #### 191 👍 - Pro
 Testifying:

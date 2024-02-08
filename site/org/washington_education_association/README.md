@@ -434,7 +434,7 @@
 
 ## [HB 2013](/bill/2023-24/hb/2013/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍1  
 
-## [HB 2019](/bill/2023-24/hb/2019/) - Establishing a Native American apprentice assistance program. 👍2  
+## [HB 2019](/bill/2023-24/hb/2019/) - Native American apprentices 👍2  
 
 ## [HB 2022](/bill/2023-24/hb/2022/) - Construction crane safety 👍1  
 

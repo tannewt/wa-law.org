@@ -12,7 +12,7 @@
 
 ## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
 
-## [HB 2019](/bill/2023-24/hb/2019/) - Establishing a Native American apprentice assistance program. 👍2  
+## [HB 2019](/bill/2023-24/hb/2019/) - Native American apprentices 👍2  
 
 ## [HB 2098](/bill/2023-24/hb/2098/) - Women's commission/gifts 👍1  
 

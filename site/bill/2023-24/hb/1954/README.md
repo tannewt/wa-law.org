@@ -10,6 +10,19 @@
 * 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=House%20Bill%201954)
 
 ## Meetings
+### Thu 02/15 10:30 AM - Health & Long Term Care (HLTC): HB 1954 Health care/certain services
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158915&caId=23911&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158915&caId=23911&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158915&caId=23911&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158915&caId=23911&tId=4)
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/12 08:00 AM - Health Care & Wellness (HCW): HB 1954 Health care/certain services
 #### 253 👍 - Pro
 Testifying:

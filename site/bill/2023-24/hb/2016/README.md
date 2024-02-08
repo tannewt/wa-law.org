@@ -26,5 +26,5 @@ Testifying:
 #### 5 ❓ - Other
 Testifying:
 * 💵Karen Pillar - TeamChild
-* Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
+* 💵Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
 * Erin Shea McCann - Legal Counsel for Youth and Children (LCYC)

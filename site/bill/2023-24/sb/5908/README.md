@@ -29,7 +29,7 @@ Testifying:
 #### 58 👍 - Pro
 Testifying:
 * Tara Urs - King County Department of Public Defense
-* Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
+* 💵Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
 * Emiko Tajima - Director, Partners for Our Children (P4C)  & School of Social Work University of Washington
 * S. Annie Chung - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * Ésminà James-Secret - House of Secret LLC (pending)

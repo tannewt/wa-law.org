@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6151/</link>
 		<description>Updates about SB 6151</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 06 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 07 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -140,6 +140,13 @@
 			<pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-06/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 29; nays, 20; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 29; nays, 20; absent, 0; excused, 0.</description>
+			<pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-07/Third reading, passed; yeas, 29; nays, 20; absent, 0; excused, 0.</guid>
 		</item>
 	</channel>
 </rss>

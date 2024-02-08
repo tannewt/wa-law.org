@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2114/</link>
 		<description>Updates about HB 2114</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 06 Feb 2024 23:45:36 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 07 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1549,6 +1549,13 @@
 			<pubDate>Tue, 06 Feb 2024 23:45:36 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2024/02/06/joint-statement-from-chairs-of-members-of-color-caucuses-on-rent-stabilization/#:~:text=HB%202114</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-07/Placed on second reading by Rules Committee.</guid>
 		</item>
 	</channel>
 </rss>

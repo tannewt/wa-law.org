@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6109/</link>
 		<description>Updates about SB 6109</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 06 Feb 2024 19:16:09 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 07 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -337,6 +337,13 @@
 			<pubDate>Tue, 06 Feb 2024 19:16:09 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.king5.com/article/news/local/foster-parents-call-for-improved-child-welfare-laws-washington/281-d0b56195-e3b8-48be-8e65-346cb702b5eb#:~:text=Senate%20Bill%206109</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-07/Placed on second reading by Rules Committee.</guid>
 		</item>
 	</channel>
 </rss>

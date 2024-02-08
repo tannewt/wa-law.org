@@ -32,4 +32,4 @@ Testifying:
 Testifying:
 * Eric pratt - America
 * Alyn Spector - [Cascade Natural Gas](/org/cascade_natural_gas/)
-* Natasha Jackson - [Northwest Gas Association](/org/northwest_gas_association/)
+* 💵Natasha Jackson - [Northwest Gas Association](/org/northwest_gas_association/)

@@ -11,7 +11,7 @@
 #### 291 👍 - Pro
 Testifying:
 * 💵Laura Feinstein - [Sightline Institute](/org/sightline_institute/)
-* Natasha Jackson - [Northwest Gas Association](/org/northwest_gas_association/)
+* 💵Natasha Jackson - [Northwest Gas Association](/org/northwest_gas_association/)
 * 💵John Rothlin - Avista
 * Charlie Brown - Cascade Natural Gas and NW Natural
 

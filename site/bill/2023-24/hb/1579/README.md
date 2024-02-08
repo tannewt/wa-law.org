@@ -18,6 +18,19 @@
 * 01/29/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB%201579)
 
 ## Meetings
+### Thu 02/15 08:00 AM - Law & Justice (LAW): 3SHB 1579 Independent prosecutions
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158987&caId=23923&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158987&caId=23923&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158987&caId=23923&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158987&caId=23923&tId=4)
+
+#### 3 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 03/30 12:30 PM - Ways & Means (WM): 2SHB 1579 Independent prosecutions
 #### 198 👍 - Pro
 Testifying:

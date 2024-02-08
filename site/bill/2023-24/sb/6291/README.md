@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Fri 01/26 08:00 AM - State Government & Elections (SGE): SB 6291 State building code council

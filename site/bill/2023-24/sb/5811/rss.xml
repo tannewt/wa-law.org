@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5811/</link>
 		<description>Updates about SB 5811</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 06 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 07 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -80,6 +80,13 @@
 			<pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-06/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 32; nays, 16; absent, 0; excused, 1.</title>
+			<description>Third reading, passed; yeas, 32; nays, 16; absent, 0; excused, 1.</description>
+			<pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-07/Third reading, passed; yeas, 32; nays, 16; absent, 0; excused, 1.</guid>
 		</item>
 	</channel>
 </rss>

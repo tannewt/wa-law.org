@@ -109,7 +109,7 @@ Testifying:
 * 💵Jill May - Washington Association for Children and Families
 * Julie Brown - YMCA Social Impact Center
 * Sandra Gorman-Brown - Grassroots Therapy Group
-* Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
+* 💵Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
 * 💵Samuel Martin - Washington Coalition on Homeless Youth Advocacy
 * 💵Melissa Johnson - [Community Residential Services Association](/org/community_residential_services_association/)
 * Laurie Lippold - Partners for Our Children

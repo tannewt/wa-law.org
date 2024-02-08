@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
 * 02/07/2024 [MyNorthwest](/org/mynorthwest/) - [Adult entertainment bills may affect change in Wash. bar lewd laws - MyNorthwest.com](https://mynorthwest.com/3949725/2-adult-entertainment-bills-could-influence-lewd-laws-governing-state-bars/#:~:text=SB%206105)
