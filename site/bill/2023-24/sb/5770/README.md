@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/07/2024 [Senate Republicans](/org/senate_republicans/) - [Senators denounce bill to raise property taxes – vote expected Thursday - Senate Republican Caucus](https://src.wastateleg.org/blog/senators-denounce-bill-raise-property-taxes-vote-expected-thursday/#:~:text=Senate%20Bill%205770.)
 * 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=SB%205770)
 * 01/29/2024 [Gorge News Center](/org/gorge_news_center/) - [Bill from Rep. Chris Corry combats tax proposals by majority party with creative solution that won’t cost taxpayers](https://gorgenewscenter.com/2024/01/29/bill-from-rep-chris-corry-combats-tax-proposals-by-majority-party-with-creative-solution-that-wont-cost-taxpayers/#:~:text=Senate%20Bill%205770)
 * 01/26/2024 [The Center Square](/org/the_center_square/) - [King County officials support proposed bill to lift cap on property tax increases | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_4a8da876-bc75-11ee-a77d-43b0d8fcba45.html#:~:text=Senate%20Bill%205770)

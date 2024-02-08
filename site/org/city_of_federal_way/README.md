@@ -7,7 +7,7 @@
 * 👍 Jim Ferrell
 * ❓ Mayor Jim Ferrell
 
-## [HB 2474](/bill/2023-24/hb/2474/) - Concerning compliance with siting requirements for transitional housing, permanent supportive housing, indoor emergency shelters, and indoor emergency housing.  👎1 
+## [HB 2474](/bill/2023-24/hb/2474/) - Transitional housing siting  👎1 
 
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget   ❓1
 * ❓ Mayor Jim Ferrell

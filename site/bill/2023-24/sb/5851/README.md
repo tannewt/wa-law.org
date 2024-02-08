@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/08/2024 [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | Alaska Airlines Door Plug Was Improperly Reinstalled; Legislative Bills Would Require Genocide Education in Public Schools | South Seattle Emerald](https://southseattleemerald.com/2024/02/07/news-gleams-alaska-airlines-door-plug-was-improperly-reinstalled-legislative-bills-would-require-genocide-education-in-public-schools/#:~:text=SB%205851)
 * 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=SSB%205851)
 * 01/18/2024 [MyNorthwest](/org/mynorthwest/) - [Holocaust education bill proposed as antisemitic incidents increase - MyNorthwest.com](https://mynorthwest.com/3946929/holocaust-education-bill-proposed-antisemitic-incidents-increase/#:~:text=Senate%20Bill%205851)
 * 01/17/2024 [KING5](/org/king5/) - [Holocaust, genocide history lessons could be mandated by 2027-28 school year | king5.com](https://www.king5.com/article/news/education/holocaust-genocide-history-lessons-mandate-2027/281-928076dd-8046-48bf-a033-34563369d6f2#:~:text=Senate%20Bill%205851)

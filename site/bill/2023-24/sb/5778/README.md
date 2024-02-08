@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
+
+## 📰 Articles
+* 02/08/2024 [Senate Democrats](/org/senate_democrats/) - [Keiser’s Employee Free Choice Act passes Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/07/keisers-employee-free-choice-act-passes-senate/#:~:text=SB%205778)
 
 ## Meetings
 ### Thu 01/11 08:00 AM - Labor & Commerce (LC): SB 5778 Employer political speech

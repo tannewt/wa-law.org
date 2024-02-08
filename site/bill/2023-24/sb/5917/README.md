@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/07/2024 [Cascadia Daily News](/org/cascadia_daily_news/) - [Washington lawmakers look to broaden hate crime law to cover vandalizing public property | Cascadia Daily News](https://www.cascadiadaily.com/2024/feb/07/washington-lawmakers-look-to-broaden-hate-crime-law-to-cover-vandalizing-public-property/#:~:text=Senate%20Bill%205917)
 * 02/02/2024 [NW News Network](/org/nw_news_network/) - [First cutoff deadline, rent bill complications: A quick look at week 4 in the WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-02-02/first-cutoff-deadline-rent-bill-complications-a-quick-look-at-week-4-in-the-wa-legislature#:~:text=Senate%20Bill%205917)
 * 02/02/2024 [The Center Square](/org/the_center_square/) - [WA Senate passes bill allowing hate crime charges for defacing public property | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_92ae3a64-c21d-11ee-a4f9-bfd47d666f0c.html#:~:text=Senate%20Bill%205917)
 * 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=Senate%20Bill%205917)
@@ -21,7 +22,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31914&aId=158896&caId=23940&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31914&aId=158896&caId=23940&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 

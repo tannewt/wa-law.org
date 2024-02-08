@@ -5,7 +5,7 @@
 
 ## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  
 
-## [HB 1870](/bill/2023-24/hb/1870/) - Promoting economic development by increasing opportunities for local communities to secure federal funding. 👍1  
+## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍1  
 
 ## [HB 1889](/bill/2023-24/hb/1889/) - Professionals/immigration 👍1  
 

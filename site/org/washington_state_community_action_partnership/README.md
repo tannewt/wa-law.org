@@ -110,7 +110,7 @@
 
 ## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
 
-## [HB 2474](/bill/2023-24/hb/2474/) - Concerning compliance with siting requirements for transitional housing, permanent supportive housing, indoor emergency shelters, and indoor emergency housing. 👍1  
+## [HB 2474](/bill/2023-24/hb/2474/) - Transitional housing siting 👍1  
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 

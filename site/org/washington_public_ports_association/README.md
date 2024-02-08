@@ -113,7 +113,7 @@
 
 ## [HB 1863](/bill/2023-24/hb/1863/) - Concerning payment for surveys of state-owned aquatic lands by current or prospective lessees of such lands. 👍1  
 
-## [HB 1870](/bill/2023-24/hb/1870/) - Promoting economic development by increasing opportunities for local communities to secure federal funding. 👍1  
+## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍1  
 
 ## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍2  
 

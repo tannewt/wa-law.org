@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/07/2024 [KING5](/org/king5/) - [Proposal requires police dogs learn how to detect fentanyl | king5.com](https://www.king5.com/article/news/local/new-proposal-requires-police-dogs-learn-detect-fentanyl/281-3c6744eb-6de7-474d-82b4-82566bec980d#:~:text=House%20Bill%201635)
 * 02/02/2024 [NW News Network](/org/nw_news_network/) - [First cutoff deadline, rent bill complications: A quick look at week 4 in the WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-02-02/first-cutoff-deadline-rent-bill-complications-a-quick-look-at-week-4-in-the-wa-legislature#:~:text=House%20Bill%201635)
 * 02/01/2024 [The Center Square](/org/the_center_square/) - [Legislation to train police dogs to detect fentanyl moves ahead in Olympia | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c0d576f6-c145-11ee-b69b-074e3e6e0327.html#:~:text=House%20Bill%201635)
 

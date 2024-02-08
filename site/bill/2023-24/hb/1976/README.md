@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/07/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Fosse Bill Expands Incentives for Decarbonization in Large Buildings – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/07/legislative-news-fosse-bill-expands-incentives-for-decarbonization-in-large-buildings/#:~:text=House%20Bill%201976)
+
 ## Meetings
 ### Mon 01/08 01:30 PM - Environment & Energy (ENVI): HB 1976 Incentives/energy upgrades
 #### 130 👍 - Pro

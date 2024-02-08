@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6025/</link>
 		<description>Updates about SB 6025</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 07 Feb 2024 01:42:38 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 08 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -182,6 +182,13 @@
 			<pubDate>Wed, 07 Feb 2024 01:42:38 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2024/02/06/stanford-bill-to-crack-down-on-predatory-loans-clears-senate/#:~:text=SB%206025</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Consumer Protection &amp; Business.</title>
+			<description>First reading, referred to Consumer Protection &amp; Business.</description>
+			<pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-08/First reading, referred to Consumer Protection &amp; Business.</guid>
 		</item>
 	</channel>
 </rss>

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/08/2024 [House Democrats](/org/house_democrats/) - [Cortes Bill Boosts Support for Families Facing Hardships – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/08/cortes-bill-boosts-support-for-families-facing-hardships/#:~:text=House%20Bill%202415)
+
 ## Meetings
 ### Tue 01/30 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2415 Economic assistance/TANF
 #### 32 👍 - Pro

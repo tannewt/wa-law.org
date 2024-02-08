@@ -19,7 +19,7 @@
 
 ## [HB 2442](/bill/2023-24/hb/2442/) - Law enforcement memorial 👍1  
 
-## [HB 2474](/bill/2023-24/hb/2474/) - Concerning compliance with siting requirements for transitional housing, permanent supportive housing, indoor emergency shelters, and indoor emergency housing.  👎2 
+## [HB 2474](/bill/2023-24/hb/2474/) - Transitional housing siting  👎2 
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing  👎1 
 * 👎 Katrina Knutson

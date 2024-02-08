@@ -65,7 +65,7 @@ Testifying:
 * Marriya Wright - South Puget Sound Community College
 * 💵Ashlen Strong - Washington State Hospital Association
 * 💵Katharine Weiss - Washington State Nurses Association
-* Dustin Lambro - UFCW 3000
+* 💵Dustin Lambro - UFCW 3000
 
 #### 0 👎 - Con
 

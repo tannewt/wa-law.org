@@ -18,7 +18,7 @@ Testifying:
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Shea Hynes - [Craft Cannabis Coalition](/org/craft_cannabis_coalition/)
 * 💵Brandon Houskeeper - NW Grocery Assoc.
-* Dustin Lambro - UFCW 3000
+* 💵Dustin Lambro - UFCW 3000
 
 #### 1 👎 - Con
 

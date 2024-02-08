@@ -100,7 +100,7 @@
 
 ## [HB 2425](/bill/2023-24/hb/2425/) - Rental support program 👍1  
 
-## [HB 2474](/bill/2023-24/hb/2474/) - Concerning compliance with siting requirements for transitional housing, permanent supportive housing, indoor emergency shelters, and indoor emergency housing. 👍1  
+## [HB 2474](/bill/2023-24/hb/2474/) - Transitional housing siting 👍1  
 
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍1  
 

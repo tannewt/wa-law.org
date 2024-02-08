@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1939/</link>
 		<description>Updates about HB 1939</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 30 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 08 Feb 2024 08:14:07 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -142,6 +142,22 @@
 			<pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-30/First reading, referred to Health &amp; Long Term Care.</guid>
+		</item>
+		<item>
+			<title>👍💵Bob Cooper - National Association of Social Workers WA Chapter</title>
+			<description>Bob Cooper signed up to testify Pro. They are signed up to represent National Association of Social Workers WA Chapter. They are a registered lobbyist.</description>
+			<pubDate>Thu, 08 Feb 2024 08:14:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bob/Cooper/2024-02-08 08:14:07</guid>
+		</item>
+		<item>
+			<title>👍Jeremy Arp - National Association of Social Workers WA Chapter</title>
+			<description>Jeremy Arp signed up to testify Pro. They are signed up to represent National Association of Social Workers WA Chapter.</description>
+			<pubDate>Thu, 08 Feb 2024 08:14:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jeremy/Arp/2024-02-08 08:14:07</guid>
 		</item>
 	</channel>
 </rss>

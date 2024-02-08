@@ -8,3 +8,6 @@
 
 ## [SB 5280](/bill/2023-24/sb/5280/) - Clergy/child abuse reporting 👍1  
 * 👍 Janet Hedgepath
+
+## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍1  
+* 👍 Cindy Madigan

@@ -223,7 +223,8 @@
 ## [SB 5035](/bill/2023-24/sb/5035/) - Controlled sub. possession 👍1  
 * 👍💵 Mark Johnson
 
-## [SB 5056](/bill/2023-24/sb/5056/) - Habitual property offenders 👍1  
+## [SB 5056](/bill/2023-24/sb/5056/) - Habitual property offenders 👍2  
+* 👍💵 Mark Johnson
 * 👍💵 Mark Johnson
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎2 

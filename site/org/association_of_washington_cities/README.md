@@ -222,7 +222,7 @@
 * ❓ Brandy DeLange
 * ❓ Brandy DeLange
 
-## [HB 1870](/bill/2023-24/hb/1870/) - Promoting economic development by increasing opportunities for local communities to secure federal funding. 👍1  
+## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍1  
 * 👍 Brandy DeLange
 
 ## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍2  
@@ -376,7 +376,7 @@
 ## [HB 2470](/bill/2023-24/hb/2470/) - Creating a local sales and use tax to address gender-based violence.   ❓2
 * ❓💵 Lindsey Hueer
 
-## [HB 2474](/bill/2023-24/hb/2474/) - Concerning compliance with siting requirements for transitional housing, permanent supportive housing, indoor emergency shelters, and indoor emergency housing.  👎2 
+## [HB 2474](/bill/2023-24/hb/2474/) - Transitional housing siting  👎2 
 * 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 

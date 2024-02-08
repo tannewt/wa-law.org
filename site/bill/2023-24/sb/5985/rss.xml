@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5985/</link>
 		<description>Updates about SB 5985</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 05 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 08 Feb 2024 08:23:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -102,6 +102,22 @@
 			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-05/First reading, referred to Civil Rights &amp; Judiciary.</guid>
+		</item>
+		<item>
+			<title>👎Gabriel Jacobs - WA State Board of Health</title>
+			<description>Gabriel Jacobs signed up to testify Con.</description>
+			<pubDate>Thu, 08 Feb 2024 07:53:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Gabriel/Jacobs/2024-02-08 07:53:59</guid>
+		</item>
+		<item>
+			<title>👎eric pratt - WA State Board of Health</title>
+			<description>eric pratt signed up to testify Con.</description>
+			<pubDate>Thu, 08 Feb 2024 08:23:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/eric/pratt/2024-02-08 08:23:47</guid>
 		</item>
 	</channel>
 </rss>

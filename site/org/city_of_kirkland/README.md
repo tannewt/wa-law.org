@@ -114,7 +114,7 @@
 
 ## [HB 2411](/bill/2023-24/hb/2411/) - School construction debt 👍1  
 
-## [HB 2474](/bill/2023-24/hb/2474/) - Concerning compliance with siting requirements for transitional housing, permanent supportive housing, indoor emergency shelters, and indoor emergency housing. 👍1  
+## [HB 2474](/bill/2023-24/hb/2474/) - Transitional housing siting 👍1  
 
 ## [SB 5006](/bill/2023-24/sb/5006/) - Waiver of firearm rights 👍1  
 

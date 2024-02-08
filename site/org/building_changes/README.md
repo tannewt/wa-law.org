@@ -63,7 +63,7 @@
 
 ## [HB 2342](/bill/2023-24/hb/2342/) - Dependent youth financial ed 👍1  
 
-## [HB 2474](/bill/2023-24/hb/2474/) - Concerning compliance with siting requirements for transitional housing, permanent supportive housing, indoor emergency shelters, and indoor emergency housing. 👍1  
+## [HB 2474](/bill/2023-24/hb/2474/) - Transitional housing siting 👍1  
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  ❓1
 * ❓💵 Aaron Yared

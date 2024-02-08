@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/esjm/8005/</link>
 		<description>Updates about ESJM 8005</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 06 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 08 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,6 +30,13 @@
 			<pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-06/Third reading, passed; yeas, 45; nays, 4; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Consumer Protection &amp; Business.</title>
+			<description>First reading, referred to Consumer Protection &amp; Business.</description>
+			<pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-08/First reading, referred to Consumer Protection &amp; Business.</guid>
 		</item>
 	</channel>
 </rss>

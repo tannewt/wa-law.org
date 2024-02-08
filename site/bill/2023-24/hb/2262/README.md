@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/08/2024 [MyNorthwest](/org/mynorthwest/) - [Rantz: Is the Washington tire ban really dead? Not a chance - MyNorthwest.com](https://mynorthwest.com/3949287/rantz-is-washington-tire-ban-really-dead-not-a-chance/#:~:text=House%20Bill%202262)
 * 02/01/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. Jim Walsh sounds the alarm on Democrat plan to restrict tire sales](https://gorgenewscenter.com/2024/02/01/rep-jim-walsh-sounds-the-alarm-on-democrat-plan-to-restrict-tire-sales/#:~:text=House%20Bill%202262)
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202262)
 

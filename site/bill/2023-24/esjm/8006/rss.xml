@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/esjm/8006/</link>
 		<description>Updates about ESJM 8006</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 31 Jan 2024 00:02:30 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 08 Feb 2024 10:36:22 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -267,6 +267,14 @@
 			<pubDate>Wed, 31 Jan 2024 00:02:30 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.quakervoicewa.org/2024-current-status-of-priority-bills/#:~:text=SJM%208006</guid>
+		</item>
+		<item>
+			<title>👍Jody Disney - LWVWA</title>
+			<description>Jody Disney signed up to testify Pro. They are signed up to represent LWVWA.</description>
+			<pubDate>Thu, 08 Feb 2024 10:36:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jody/Disney/2024-02-08 10:36:22</guid>
 		</item>
 	</channel>
 </rss>

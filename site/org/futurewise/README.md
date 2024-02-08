@@ -111,7 +111,7 @@
 ## [HB 2468](/bill/2023-24/hb/2468/) - Concerning the siting of child care facilities.   ❓1
 * ❓💵 Bryce Yadon
 
-## [HB 2474](/bill/2023-24/hb/2474/) - Concerning compliance with siting requirements for transitional housing, permanent supportive housing, indoor emergency shelters, and indoor emergency housing. 👍2  
+## [HB 2474](/bill/2023-24/hb/2474/) - Transitional housing siting 👍2  
 * 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 

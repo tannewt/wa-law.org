@@ -18,7 +18,10 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Gabriel Jacobs
+* eric pratt
 
 #### 0 ❓ - Other
 

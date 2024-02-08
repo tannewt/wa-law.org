@@ -12,6 +12,6 @@
 
 ## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍3  
 
-## [HB 2474](/bill/2023-24/hb/2474/) - Concerning compliance with siting requirements for transitional housing, permanent supportive housing, indoor emergency shelters, and indoor emergency housing.  👎1 
+## [HB 2474](/bill/2023-24/hb/2474/) - Transitional housing siting  👎1 
 
 ## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍1  

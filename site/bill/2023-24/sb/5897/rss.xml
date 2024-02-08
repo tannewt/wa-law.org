@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5897/</link>
 		<description>Updates about SB 5897</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 07 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 08 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -73,6 +73,13 @@
 			<pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-07/Placed on second reading consent calendar.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.</title>
+			<description>Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.</description>
+			<pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-08/Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.</guid>
 		</item>
 	</channel>
 </rss>
