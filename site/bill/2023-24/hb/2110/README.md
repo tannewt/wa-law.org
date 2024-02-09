@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/08/2024 [House Democrats](/org/house_democrats/) - [House passes Nance bill clarifying high school graduation requirements – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/08/house-passes-nance-bill-clarifying-high-school-graduation-requirements/#:~:text=House%20Bill%202110)
+
 ## Meetings
 ### Wed 02/14 10:30 AM - Early Learning & K-12 Education (EDU): HB 2110 High school graduation
 Sign up to testify:

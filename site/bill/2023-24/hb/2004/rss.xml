@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2004/</link>
 		<description>Updates about HB 2004</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 07 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 09 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -88,6 +88,13 @@
 			<pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-07/Third reading, passed; yeas, 95; nays, 0; absent, 0; excused, 3.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Higher Education &amp; Workforce Development.</title>
+			<description>First reading, referred to Higher Education &amp; Workforce Development.</description>
+			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-09/First reading, referred to Higher Education &amp; Workforce Development.</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2074/</link>
 		<description>Updates about HB 2074</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 07 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 09 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -80,6 +80,13 @@
 			<pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-07/Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Agriculture, Water, Natural Resources &amp; Parks.</title>
+			<description>First reading, referred to Agriculture, Water, Natural Resources &amp; Parks.</description>
+			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-09/First reading, referred to Agriculture, Water, Natural Resources &amp; Parks.</guid>
 		</item>
 	</channel>
 </rss>

@@ -19,13 +19,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31901&aId=158894&caId=23951&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31901&aId=158894&caId=23951&tId=4)
 
-#### 5 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Bryce Robinson - Washington Chapter of the American College of Surgeons Committee on Trauma
 * Rian Alam
 * Sam Arbabi - American College of Surgeons, COT
 * Krestin Bahr
 * Tiffany Crabb
+* Scott Brakenridge - American College of Surgeons Committee on Trauma, Washington State Chapter (Chair)
+* Anna Leslie - [Seattle Public Schools](/org/seattle_public_schools/)
+* Maria R Paulsen
 
 #### 0 👎 - Con
 

@@ -28,12 +28,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=159000&caId=23996&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=159000&caId=23996&tId=4)
 
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 * Brent Freeman - Wahkiakum School District
+* Tyler Muench - Office of Superintendent of Public Instruction
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

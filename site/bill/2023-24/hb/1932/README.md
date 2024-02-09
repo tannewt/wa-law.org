@@ -9,6 +9,9 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/09/2024 [MyNorthwest](/org/mynorthwest/) - [With dipping voter numbers, Wash. bill pushes to turn elections to even years - MyNorthwest.com](https://mynorthwest.com/3950030/house-passes-bill-shifting-elections-even-numbered-years-boost-voter-participation-local-elections/#:~:text=House%20Bill%201932)
+* 02/08/2024 [The Urbanist](/org/the_urbanist/) - [State House Passes Bill Allowing Even-Year Local Elections - The Urbanist](https://www.theurbanist.org/2024/02/08/state-house-passes-bill-allowing-even-year-local-elections/#:~:text=House%20Bill%201932)
+* 02/08/2024 [The Seattle Times](/org/the_seattle_times/) - [WA House votes to allow local even-year elections | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-house-votes-to-allow-local-even-year-elections/#:~:text=House%20Bill%201932)
 * 02/08/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: House Passes HB 1932 Promoting Local Democracy – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/08/legislative-news-house-passes-hb-1932-promoting-local-democracy/#:~:text=House%20Bill%201932)
 * 01/30/2024 [Hacks and Wonks](/org/hacks_and_wonks/) - [Pairing Advocacy and Research for Progress with Andrew Villeneuve of the Northwest Progressive Institute — Hacks & Wonks](https://www.officialhacksandwonks.com/blog/andrew-villeneuve-northwest-progressive-institute#:~:text=HB%201932)
 * 01/16/2024 [Sightline Institute](/org/sightline_institute/) - [Washingtonians May Get a Democracy Upgrade in 2024 - Sightline Institute](https://www.sightline.org/2024/01/16/washingtonians-may-get-a-democracy-upgrade-in-2024/#:~:text=HB%201932)

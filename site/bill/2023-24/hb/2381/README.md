@@ -19,7 +19,7 @@ Sign up to testify:
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

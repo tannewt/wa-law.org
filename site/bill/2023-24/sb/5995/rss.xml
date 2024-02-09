@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5995/</link>
 		<description>Updates about SB 5995</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 06 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 09 Feb 2024 10:05:05 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -149,6 +149,14 @@
 			<pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-06/First reading, referred to Consumer Protection &amp; Business.</guid>
+		</item>
+		<item>
+			<title>❓Kate White Tudor - WA Association for community health</title>
+			<description>Kate White Tudor signed up to testify Other. They are signed up to represent WA Association for community health.</description>
+			<pubDate>Fri, 09 Feb 2024 10:05:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Kate White/Tudor/2024-02-09 10:05:05</guid>
 		</item>
 	</channel>
 </rss>

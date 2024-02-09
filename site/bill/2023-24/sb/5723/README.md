@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/08/2024 [The Urbanist](/org/the_urbanist/) - [State House Passes Bill Allowing Even-Year Local Elections - The Urbanist](https://www.theurbanist.org/2024/02/08/state-house-passes-bill-allowing-even-year-local-elections/#:~:text=Senate%20Bill%205723)
 * 01/30/2024 [Hacks and Wonks](/org/hacks_and_wonks/) - [Pairing Advocacy and Research for Progress with Andrew Villeneuve of the Northwest Progressive Institute — Hacks & Wonks](https://www.officialhacksandwonks.com/blog/andrew-villeneuve-northwest-progressive-institute#:~:text=SB%205723)
 * 01/16/2024 [Sightline Institute](/org/sightline_institute/) - [Washingtonians May Get a Democracy Upgrade in 2024 - Sightline Institute](https://www.sightline.org/2024/01/16/washingtonians-may-get-a-democracy-upgrade-in-2024/#:~:text=SB%205723)
 * 11/30/2023 [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | Record-Low Turnout in Recent Washington State Elections; Vacant Building Fire in Columbia City | South Seattle Emerald](https://southseattleemerald.com/2023/11/29/news-gleams-record-low-turnout-in-recent-washington-state-elections-vacant-building-fire-in-columbia-city/#:~:text=Senate%20Bill%205723)

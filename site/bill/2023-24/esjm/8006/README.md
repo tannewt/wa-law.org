@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=158937&caId=23961&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=158937&caId=23961&tId=4)
 
-#### 8 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Jody Disney - LWVWA
 

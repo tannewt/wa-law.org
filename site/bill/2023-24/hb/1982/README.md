@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/08/2024 [Gorge News Center](/org/gorge_news_center/) - [Bipartisan legislation from Waters to expand rural broadband receives full support from the House](https://gorgenewscenter.com/2024/02/08/bipartisan-legislation-from-waters-to-expand-rural-broadband-receives-full-support-from-the-house/#:~:text=House%20Bill%201982)
 * 01/26/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 29 - Feb. 2, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-29-feb-2-2024/#:~:text=HB%201982)
 * 01/16/2024 [Gorge News Center](/org/gorge_news_center/) - [A bill from Rep. Kevin Waters that would help further rural broadband expansion in Washington unanimously passes committee](https://gorgenewscenter.com/2024/01/16/a-bill-from-rep-kevin-waters-that-would-help-further-rural-broadband-expansion-in-washington-unanimously-passes-committee/#:~:text=House%20Bill%201982)
 * 01/09/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. Waters introduces bipartisan legislation that would help further rural broadband expansion](https://gorgenewscenter.com/2024/01/09/rep-waters-introduces-bipartisan-legislation-that-would-help-further-rural-broadband-expansion/#:~:text=House%20Bill%201982)

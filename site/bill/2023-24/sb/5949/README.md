@@ -47,11 +47,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158968&caId=23917&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158968&caId=23917&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Michone Preston - Habitat for Humanity of Washington State
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Kristin Wiggins - ReadyNation, Imagine Institute
 
 ### Thu 02/15 04:00 PM - Ways & Means (WM): PSSB 5949: K-12 public schools. (Remote Testimony Available).
 Sign up to testify:
@@ -60,9 +64,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158966&caId=23915&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158966&caId=23915&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
+* 💵Mike Hoover - Washington State School Directors’ Association (WSSDA)
 
 #### 0 👎 - Con
 

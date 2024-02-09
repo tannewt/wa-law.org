@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2226/</link>
 		<description>Updates about HB 2226</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 07 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 09 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -148,6 +148,13 @@
 			<pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/02/07/legislative-news-farmworker-transparency-bill-advances-to-senate/#:~:text=House%20Bill%202226</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Labor &amp; Commerce.</title>
+			<description>First reading, referred to Labor &amp; Commerce.</description>
+			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-09/First reading, referred to Labor &amp; Commerce.</guid>
 		</item>
 	</channel>
 </rss>

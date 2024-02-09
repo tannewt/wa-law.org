@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Thu 01/11 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5968 Home equity sharing

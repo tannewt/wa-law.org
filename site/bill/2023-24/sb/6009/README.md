@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/06/2024 [Senate Democrats](/org/senate_democrats/) - [Trudeau bill prohibiting hog-tying by law enforcement passes Senate  - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/06/trudeau-bill-prohibiting-hog-tying-by-law-enforcement-passes-senate/#:~:text=SB%206009)
 * 02/06/2024 [The Seattle Times](/org/the_seattle_times/) - [WA Senate passes bill that would ban hogtying by police | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-senate-passes-bill-that-would-ban-hogtying-by-police/#:~:text=Senate%20Bill%206009)
 * 01/23/2024 [MyNorthwest](/org/mynorthwest/) - [Bill proposes statewide ban on police from hogtying suspects - MyNorthwest.com](https://mynorthwest.com/3947538/proposed-statewide-ban-hogtying-police/#:~:text=Senate%20Bill%206009)
 * 01/22/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 3: Criminal justice reform, education, tax cuts for housing - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/21/this-week-in-the-senate-week-3-criminal-justice-reform-education-tax-cuts-for-housing/#:~:text=Senate%20Bill%206009)

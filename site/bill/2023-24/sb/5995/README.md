@@ -23,7 +23,9 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Kate White Tudor - WA Association for community health
 
 ### Mon 01/15 10:30 AM - Labor & Commerce (LC): SB 5995 Interpreters and translators
 #### 11 👍 - Pro

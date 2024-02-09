@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/08/2024 [House Democrats](/org/house_democrats/) - [House Passes Uncovered Plates Act: Promoting Safety and Fairness on Our Roads – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/08/469/#:~:text=House%20Bill%201963)
+
 ## Meetings
 ### Wed 01/10 04:00 PM - Transportation (TR): HB 1963 License plate covers
 #### 5 👍 - Pro

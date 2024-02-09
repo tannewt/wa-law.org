@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5241/</link>
 		<description>Updates about SB 5241</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 08 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 09 Feb 2024 01:40:37 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -637,6 +637,13 @@
 			<pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-08/Third reading, passed; yeas, 28; nays, 21; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Senate passes Keep Our Care Act - Washington Senate Democrats</title>
+			<description>News article &quot;Senate passes Keep Our Care Act - Washington Senate Democrats&quot; from Senate Democrats.</description>
+			<pubDate>Fri, 09 Feb 2024 01:40:37 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2024/02/08/senate-passes-keep-our-care-act/#:~:text=Senate%20Bill%205241</guid>
 		</item>
 	</channel>
 </rss>

@@ -75,7 +75,8 @@
 ## [SB 5723](/bill/2023-24/sb/5723/) - Even-numbered year elections 👍6  
 * 👍💵 Jazmine Smith
 
-## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍2  
+## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍4  
+* 👍💵 Jazmine Smith
 * 👍💵 Jazmine Smith
 
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍2  

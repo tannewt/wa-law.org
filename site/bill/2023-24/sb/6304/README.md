@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/08/2024 [The Center Square](/org/the_center_square/) - [Washington Senate bill would ban certain car tires, vehicle idling | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1a76d100-c6c3-11ee-893e-97ae4ee32bf0.html#:~:text=Senate%20Bill%206304)
+
 ## Meetings
 ### Thu 02/01 01:30 PM - Transportation (TRAN): SB 6304 Implementing certain recommendations of the transportation electrification strategy. (Remote Testimony Available).
 #### 260 👍 - Pro

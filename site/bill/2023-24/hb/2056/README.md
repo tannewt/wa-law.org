@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/08/2024 [House Democrats](/org/house_democrats/) - [Goodman bill enhances safety measures for Supreme Court justices – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/08/goodman-bill-enhances-safety-measures-for-supreme-court-justices/#:~:text=House%20Bill%202056)
+
 ## Meetings
 ### Tue 01/09 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2056 Supreme court bailiffs
 #### 5 👍 - Pro

@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/08/2024 [Senate Democrats](/org/senate_democrats/) - [Stanford bill to protect solar power consumers heads to House - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/08/stanford-bill-to-protect-solar-power-consumers-heads-to-house/#:~:text=SB%206256)
+
 ## Meetings
 ### Thu 01/25 08:00 AM - Labor & Commerce (LC): SB 6256 Solar consumer protections
 #### 153 👍 - Pro

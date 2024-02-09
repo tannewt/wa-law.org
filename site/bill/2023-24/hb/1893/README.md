@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/08/2024 [Wenatchee World](/org/wenatchee_world/) - [A WA bill would extend unemployment pay to workers on strike | Northwest | wenatcheeworld.com](https://www.wenatcheeworld.com/news/northwest/a-wa-bill-would-extend-unemployment-pay-to-workers-on-strike/article_ceebb22c-c6e1-11ee-a5b3-5f2a267f9ca7.html#:~:text=House%20Bill%201893)
 * 02/08/2024 [Crosscut](/org/crosscut/) - [A WA bill would extend unemployment pay to workers on strike | Crosscut](https://crosscut.com/investigations/2024/02/wa-bill-would-extend-unemployment-pay-workers-strike#:~:text=House%20Bill%201893)
 * 02/06/2024 [The Center Square](/org/the_center_square/) - [Unemployment benefit bill for strikers gets Washington House committee approval | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_83d3d092-c521-11ee-be73-6746c56b37e0.html#:~:text=House%20Bill%201893)
 * 02/02/2024 [The Seattle Times](/org/the_seattle_times/) - [What bills are dead, alive after WA Legislature’s first cutoff | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/some-bills-die-after-first-wa-legislature-cutoff/#:~:text=House%20Bill%201893)

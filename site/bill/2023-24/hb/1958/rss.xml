@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1958/</link>
 		<description>Updates about HB 1958</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 07 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 09 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -131,6 +131,13 @@
 			<pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-07/Third reading, passed; yeas, 64; nays, 33; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Law &amp; Justice.</title>
+			<description>First reading, referred to Law &amp; Justice.</description>
+			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-09/First reading, referred to Law &amp; Justice.</guid>
 		</item>
 	</channel>
 </rss>

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
 * 01/30/2024 [The Seattle Times](/org/the_seattle_times/) - [Inslee signs executive order for WA to study, issue guidelines for AI use | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/inslee-signs-executive-order-for-wa-to-study-issue-guidelines-for-ai-use/#:~:text=Senate%20Bill%205838)

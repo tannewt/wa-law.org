@@ -17,14 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158916&caId=23912&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158916&caId=23912&tId=4)
 
-#### 19 👍 - Pro
+#### 37 👍 - Pro
 Testifying:
 * 💵Nathaniel Brown - Northwest Kidney Council
 * Tammie Perreault - Department of Defense-State Liaison Office
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Isabel Eliassen - The Council of State Governments
 
 ### Wed 01/10 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1917 Physician assistant compact
 #### 124 👍 - Pro

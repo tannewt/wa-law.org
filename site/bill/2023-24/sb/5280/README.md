@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/08/2024 [Wenatchee World](/org/wenatchee_world/) - [Washington Senate strikes ‘delicate’ balance on rules for clergy reporting child abuse | Northwest | wenatcheeworld.com](https://www.wenatcheeworld.com/news/northwest/washington-senate-strikes-delicate-balance-on-rules-for-clergy-reporting-child-abuse/article_033c71a0-c701-11ee-9096-b32bd195ac73.html#:~:text=Senate%20Bill%205280)
 * 03/19/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 11 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/19/the-house-hot-sheet-for-week-11-of-the-2023-legislative-session/#:~:text=SB%205280)
 * 03/17/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 20 - 24, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-20-24-2023/#:~:text=SB%205280)
 * 03/01/2023 [MyNorthwest](/org/mynorthwest/) - [Bill forcing clergy members to report child abuse passes WA Senate - MyNorthwest.com](https://mynorthwest.com/3847255/bill-forcing-members-clergy-report-child-abuse-senate-clergy-penitent-privilege/#:~:text=SB%205280)

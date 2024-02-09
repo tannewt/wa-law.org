@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/08/2024 [FOX13](/org/fox13/) - [Critics of proposal to raise property taxes call it the 'largest in state history' if fully implemented](https://www.fox13seattle.com/news/critics-of-proposal-to-raise-property-taxes-calling-it-the-largest-in-state-history-if-fully-implemented#:~:text=Senate%20bill%205770)
+* 02/08/2024 [The Center Square](/org/the_center_square/) - [Republicans blast Democratic bill that would allow tripling of property tax rates | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3ca01156-c6cd-11ee-8a5a-03c294c89ee3.html#:~:text=Senate%20Bill%205770)
 * 02/07/2024 [Senate Republicans](/org/senate_republicans/) - [Senators denounce bill to raise property taxes – vote expected Thursday - Senate Republican Caucus](https://src.wastateleg.org/blog/senators-denounce-bill-raise-property-taxes-vote-expected-thursday/#:~:text=Senate%20Bill%205770.)
 * 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=SB%205770)
 * 01/29/2024 [Gorge News Center](/org/gorge_news_center/) - [Bill from Rep. Chris Corry combats tax proposals by majority party with creative solution that won’t cost taxpayers](https://gorgenewscenter.com/2024/01/29/bill-from-rep-chris-corry-combats-tax-proposals-by-majority-party-with-creative-solution-that-wont-cost-taxpayers/#:~:text=Senate%20Bill%205770)

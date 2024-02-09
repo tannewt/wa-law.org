@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6256/</link>
 		<description>Updates about SB 6256</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 07 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 09 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -129,6 +129,20 @@
 			<pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-07/Third reading, passed; yeas, 48; nays, 0; absent, 1; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Stanford bill to protect solar power consumers heads to House - Washington Senate Democrats</title>
+			<description>News article &quot;Stanford bill to protect solar power consumers heads to House - Washington Senate Democrats&quot; from Senate Democrats.</description>
+			<pubDate>Thu, 08 Feb 2024 20:17:43 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2024/02/08/stanford-bill-to-protect-solar-power-consumers-heads-to-house/#:~:text=SB%206256</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Consumer Protection &amp; Business (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Consumer Protection &amp; Business (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-09/First reading, referred to Consumer Protection &amp; Business (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 	</channel>
 </rss>

@@ -24,9 +24,11 @@ Sign up to testify:
 
 #### 1 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Noelle Chun - Lake Washington School District
 
 ### Thu 03/09 01:30 PM - Early Learning & K-12 Education (EDU): ESHB 1277 Paraeducator course of study
 #### 13 👍 - Pro

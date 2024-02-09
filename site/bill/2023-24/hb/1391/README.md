@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/08/2024 [House Democrats](/org/house_democrats/) - [House Passes Bill Simplifying Access to Energy-Efficient Building Upgrades  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/08/house-passes-bill-simplifying-access-to-energy-efficient-building-upgrades/#:~:text=House%20Bill%201391)
 * 01/04/2024 [Cascadia Daily News](/org/cascadia_daily_news/) - [Fentanyl, housing, public safety top priorities for Washington Legislature | Cascadia Daily News](https://www.cascadiadaily.com/2024/jan/04/fentanyl-housing-public-safety-top-priorities-in-2024-legislative-session/#:~:text=House%20Bill%201391)
 * 03/04/2023 [House Democrats](/org/house_democrats/) - [Ramel Bills to Improve Building Energy Systems Pass House of Representatives – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/04/ramel-bills-to-improve-building-energy-systems-pass-house-of-representatives/#:~:text=House%20Bill%201391)
 * [Cascadia Daily News](/org/cascadia_daily_news/) - [Fentanyl, housing, public safety top priorities for Washington Legislature](https://cascadiadaily.com/news/2024/jan/04/fentanyl-housing-public-safety-top-priorities-in-2024-legislative-session/#:~:text=House%20Bill%201391)

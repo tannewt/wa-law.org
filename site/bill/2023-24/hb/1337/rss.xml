@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1337/</link>
 		<description>Updates about HB 1337</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 20 Jul 2023 17:30:53 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 09 Feb 2024 15:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -523,6 +523,13 @@
 			<pubDate>Thu, 20 Jul 2023 17:30:53 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.sightline.org/2023/07/20/from-vermont-to-oklahoma-legislatures-challenge-parking-mandates/#:~:text=HB%201337</guid>
+		</item>
+		<item>
+			<title>Bellevue Unveils Bold Growth Strategy for 152,000 Additional Homes - The Urbanist</title>
+			<description>News article &quot;Bellevue Unveils Bold Growth Strategy for 152,000 Additional Homes - The Urbanist&quot; from The Urbanist.</description>
+			<pubDate>Fri, 09 Feb 2024 15:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2024/02/09/bellevue-unveils-bold-growth-strategy-for-152000-additional-homes/#:~:text=1337</guid>
 		</item>
 	</channel>
 </rss>

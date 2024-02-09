@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/08/2024 [House Democrats](/org/house_democrats/) - [Ortiz-Self Offers Relief to Those Facing Pandemic Unemployment Overpayment Interest – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/08/ortiz-self-offers-relief-to-those-facing-pandemic-unemployment-overpayment-interest/#:~:text=House%20Bill%201975)
+
 ## Meetings
 ### Wed 01/10 08:00 AM - Labor & Workplace Standards (LAWS): HB 1975 Unemployment overpayments
 #### 19 👍 - Pro

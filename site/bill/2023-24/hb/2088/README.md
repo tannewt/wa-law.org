@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/08/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: House Passes Bill Empowering Crisis Responders, Supporting the 988 Lifeline, and Protecting Vulnerable Individuals – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/08/legislative-news-house-passes-bill-empowering-crisis-responders-supporting-the-988-lifeline-and-protecting-vulnerable-individuals/#:~:text=House%20Bill%202088)
+
 ## Meetings
 ### Tue 01/23 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2088 Crisis teams/liability
 #### 56 👍 - Pro

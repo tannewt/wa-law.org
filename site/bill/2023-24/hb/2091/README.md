@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/08/2024 [House Democrats](/org/house_democrats/) - [Bronoske bill to establish state fallen firefighter memorial passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/08/bronoske-bill-to-establish-state-fallen-firefighter-memorial-passes-house/#:~:text=House%20Bill%202091)
 * 02/02/2024 [The Center Square](/org/the_center_square/) - [Bill would honor firefighters lost in the line of duty with $5M Olympia memorial | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c61d1470-c217-11ee-a730-5b43b51af6e0.html#:~:text=House%20Bill%202091)
 
 ## Meetings

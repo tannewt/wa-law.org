@@ -14,13 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=158891&caId=23948&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=158891&caId=23948&tId=4)
 
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Mike Hoover - Washington State School Directors’ Association (WSSDA)
 
 ### Mon 01/15 01:30 PM - Early Learning & K-12 Education (EDU): SB 5883 Special education hearings
 #### 190 👍 - Pro
