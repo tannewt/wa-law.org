@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1044/</link>
 		<description>Updates about HB 1044</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 03 Feb 2024 21:27:02 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 08 Feb 2024 04:01:21 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -299,6 +299,22 @@
 			<pubDate>Sat, 03 Feb 2024 21:27:02 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">http://houserepublicans.wa.gov/current/fix-the-education-crisis/#:~:text=House%20Bill%201044</guid>
+		</item>
+		<item>
+			<title>👍Jim Kowalkowski - Rural Education Center</title>
+			<description>Jim Kowalkowski signed up to testify Pro. They are signed up to represent Rural Education Center.</description>
+			<pubDate>Thu, 08 Feb 2024 03:23:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jim/Kowalkowski/2024-02-08 03:23:57</guid>
+		</item>
+		<item>
+			<title>👍Brent Freeman - Wahkiakum School District</title>
+			<description>Brent Freeman signed up to testify Pro. They are signed up to represent Wahkiakum School District.</description>
+			<pubDate>Thu, 08 Feb 2024 04:01:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brent/Freeman/2024-02-08 04:01:21</guid>
 		</item>
 	</channel>
 </rss>

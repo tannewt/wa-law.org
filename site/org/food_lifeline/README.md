@@ -81,7 +81,7 @@
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍4  
 * 👍 Linda Nageotte
 
-## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍1  
+## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍1  
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 * 👍💵 Aaron Czyzewski

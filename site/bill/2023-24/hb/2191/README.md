@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
 * 01/25/2024 [The Urbanist](/org/the_urbanist/) - [Rider Reps Could Be Coming Soon to Some Washington Transit Boards - The Urbanist](https://www.theurbanist.org/2024/01/25/rider-reps-could-be-coming-to-transit-boards/#:~:text=House%20Bill%202191)

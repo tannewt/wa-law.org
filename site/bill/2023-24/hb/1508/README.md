@@ -15,6 +15,19 @@
 * 12/15/2022 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/research/2023-legislative-agenda/#:~:text=HB%201508)
 
 ## Meetings
+### Thu 02/15 10:30 AM - Health & Long Term Care (HLTC): 2ESHB 1508 Health care cost board
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=159003&caId=23985&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=159003&caId=23985&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=159003&caId=23985&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=159003&caId=23985&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 03/17 08:00 AM - Health & Long Term Care (HLTC): ESHB 1508 Health care cost board
 #### 136 👍 - Pro
 Testifying:

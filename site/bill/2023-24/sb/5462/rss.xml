@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5462/</link>
 		<description>Updates about SB 5462</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 08 Feb 2024 08:14:58 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 08 Feb 2024 09:49:42 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -343,12 +343,28 @@
 			<guid isPermaLink="false">testifier/Trish/Huddleston/2024-02-07 09:23:00</guid>
 		</item>
 		<item>
+			<title>👎Britney Inglis - Moses Lake Irrigation and Rehabilitation District</title>
+			<description>Britney Inglis signed up to testify Con.</description>
+			<pubDate>Thu, 08 Feb 2024 04:16:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Britney/Inglis/2024-02-08 04:16:35</guid>
+		</item>
+		<item>
 			<title>👎Gabriel Jacobs - Moses Lake Irrigation and Rehabilitation District</title>
 			<description>Gabriel Jacobs signed up to testify Con.</description>
 			<pubDate>Thu, 08 Feb 2024 08:14:58 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Gabriel/Jacobs/2024-02-08 08:14:58</guid>
+		</item>
+		<item>
+			<title>👎JENNIFER KILLMAN - Moses Lake Irrigation and Rehabilitation District</title>
+			<description>JENNIFER KILLMAN signed up to testify Con.</description>
+			<pubDate>Thu, 08 Feb 2024 09:49:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/JENNIFER/KILLMAN/2024-02-08 09:49:42</guid>
 		</item>
 	</channel>
 </rss>

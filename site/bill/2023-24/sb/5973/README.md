@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Mon 01/22 10:30 AM - Law & Justice (LAW): SB 5973 Heat pumps/CICs

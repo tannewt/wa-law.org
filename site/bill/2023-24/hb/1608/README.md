@@ -13,6 +13,22 @@
 * 01/26/2023 [House Democrats](/org/house_democrats/) - [Bronoske introduces bill to make epinephrine more accessible for schools – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/26/bronoske-introduces-bill-to-make-epinephrine-more-accessible-for-schools/#:~:text=HB%201608)
 
 ## Meetings
+### Thu 02/15 01:30 PM - Early Learning & K-12 Education (EDU): ESHB 1608 Anaphylaxis meds./schools
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=159002&caId=23998&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=159002&caId=23998&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=159002&caId=23998&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=159002&caId=23998&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* Liz Pray - School Nurse Organization of Washington (SNOW)
+* Taylor Mason - School Nurse Organization of WA
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/11 08:00 AM - Education (ED): HB 1608 Anaphylaxis meds./schools
 #### 413 👍 - Pro
 Testifying:

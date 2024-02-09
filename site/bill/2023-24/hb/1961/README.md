@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158863&caId=23907&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158863&caId=23907&tId=4)
 
-#### 4 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * 💵Brenna Anderst - Pasado's Safe Haven/Education & Advocacy Director
 * Nathaniel Block - Skagit County Prosecuting Attorney's Office

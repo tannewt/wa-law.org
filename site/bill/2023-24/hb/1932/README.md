@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
 * 02/08/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: House Passes HB 1932 Promoting Local Democracy – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/08/legislative-news-house-passes-hb-1932-promoting-local-democracy/#:~:text=House%20Bill%201932)

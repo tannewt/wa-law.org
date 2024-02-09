@@ -133,7 +133,7 @@
 
 ## [HB 2001](/bill/2023-24/hb/2001/) - Sentence modification 👍1  
 
-## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍1  
+## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍1  
 
 ## [HB 2030](/bill/2023-24/hb/2030/) - Revoking a person's voting rights only when convicted of a state crime punishable by death. 👍1  
 

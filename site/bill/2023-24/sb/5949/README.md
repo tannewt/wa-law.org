@@ -17,9 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158970&caId=23919&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158970&caId=23919&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Tsega Desta - Ethiopian Community in Seattle
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * John Worthington
 
@@ -58,7 +60,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158966&caId=23915&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158966&caId=23915&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Tyler Muench - Office of Superintendent of Public Instruction
 
 #### 0 👎 - Con
 

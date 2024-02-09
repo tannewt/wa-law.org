@@ -65,7 +65,7 @@
 
 ## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍1  
 
-## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍2  
+## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍2  
 * 👍 Juliana Yenne
 
 ## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍1  

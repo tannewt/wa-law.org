@@ -11,6 +11,19 @@
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%201972)
 
 ## Meetings
+### Thu 02/15 10:30 AM - Health & Long Term Care (HLTC): HB 1972 Physicians health prg. fees
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=159005&caId=23987&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=159005&caId=23987&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=159005&caId=23987&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=159005&caId=23987&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/24 04:00 PM - Appropriations (APP): HB 1972 Physicians health prg. fees
 #### 13 👍 - Pro
 Testifying:

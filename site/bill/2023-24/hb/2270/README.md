@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 01/31/2024 [House Democrats](/org/house_democrats/) - [Morgan’s bill to create Department of Housing clears first hurdle – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/31/morgans-bill-to-create-department-of-housing-clears-first-hurdle/#:~:text=House%20Bill%202270)

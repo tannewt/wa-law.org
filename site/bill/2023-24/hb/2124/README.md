@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## Meetings
 ### Tue 01/09 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2124 Child care prg. eligibility

@@ -25,7 +25,7 @@ Sign up to testify:
 Testifying:
 * Carl Florea - Mayor of Leavenworth
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

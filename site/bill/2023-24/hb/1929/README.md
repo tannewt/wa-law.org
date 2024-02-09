@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 01/31/2024 [The Seattle Times](/org/the_seattle_times/) - [After young people leave treatment, let’s give them a safe place to go | The Seattle Times](https://www.seattletimes.com/opinion/after-young-people-leave-treatment-lets-give-them-a-safe-place-to-go/#:~:text=Substitute%20House%20Bill%201929)

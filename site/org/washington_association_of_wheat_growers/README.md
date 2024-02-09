@@ -11,7 +11,7 @@
 
 ## [HB 2051](/bill/2023-24/hb/2051/) - Reducing emissions from small off-road engines.  👎1 
 
-## [HB 2147](/bill/2023-24/hb/2147/) - Concerning agriculture pest and disease response. 👍1  
+## [HB 2147](/bill/2023-24/hb/2147/) - Agriculture pests & diseases 👍1  
 
 ## [SB 5156](/bill/2023-24/sb/5156/) - Farm internship program 👍1  
 

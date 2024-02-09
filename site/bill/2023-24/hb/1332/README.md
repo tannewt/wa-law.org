@@ -19,6 +19,19 @@
 * 01/22/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/22/the-house-hot-sheet-for-week-3-of-the-2023-legislative-session/#:~:text=HB%201332)
 
 ## Meetings
+### Wed 02/14 10:30 AM - Early Learning & K-12 Education (EDU): E2SHB 1332 Tribes/K-12 instruction
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31906&aId=158993&caId=23989&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31906&aId=158993&caId=23989&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31906&aId=158993&caId=23989&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31906&aId=158993&caId=23989&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 03/31 12:30 PM - Ways & Means (WM): 2SHB 1332 Tribes/K-12 instruction
 #### 19 👍 - Pro
 Testifying:

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Mon 01/22 01:30 PM - Housing (HOUS): HB 2321 Middle housing requirements

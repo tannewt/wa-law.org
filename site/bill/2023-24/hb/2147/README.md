@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 2147](/bill/2023-24/hb/2147/)
 
-# HB 2147 - Concerning agriculture pest and disease response.
+# HB 2147 - Agriculture pests & diseases
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=2147&Year=2023&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 02/02 10:30 AM - Appropriations (APP): HB 2147 Agriculture pests & diseases

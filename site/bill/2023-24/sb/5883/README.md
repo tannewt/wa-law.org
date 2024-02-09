@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=158891&caId=23948&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=158891&caId=23948&tId=4)
 
-#### 2 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 
 #### 0 👎 - Con
 

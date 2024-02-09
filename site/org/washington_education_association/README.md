@@ -418,7 +418,7 @@
 ## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
 * 👍💵 Simone Boe
 
-## [HB 1960](/bill/2023-24/hb/1960/) - Increasing prototypical school staffing to better meet student needs. 👍1  
+## [HB 1960](/bill/2023-24/hb/1960/) - Prototypical school staffing 👍1  
 * 👍💵 Julie Salvi
 
 ## [HB 1969](/bill/2023-24/hb/1969/) - Individual providers/family 👍2  

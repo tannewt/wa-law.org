@@ -90,7 +90,7 @@
 
 ## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍1  
 
-## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍2  
+## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍2  
 
 ## [HB 2021](/bill/2023-24/hb/2021/) - Firearm disposition 👍1  
 

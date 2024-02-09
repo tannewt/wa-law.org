@@ -25,8 +25,8 @@ Testifying:
 * Deepak Kumar - Splitero Inc.
 * Cobi Clark
 * Joshua Gaffney - Hometap Equity Partners, LLC
-* 💵Isaac Kastama - Unlock Technologies
-* James Riccitelli - Unlock Technologies
+* 💵Isaac Kastama - [Unlock Technologies](/org/unlock_technologies/)
+* James Riccitelli - [Unlock Technologies](/org/unlock_technologies/)
 * Rolando Villanueva
 
 #### 7 ❓ - Other

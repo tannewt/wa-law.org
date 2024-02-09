@@ -21,6 +21,22 @@
 * 01/23/2023 [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB%201044)
 
 ## Meetings
+### Thu 02/15 01:30 PM - Early Learning & K-12 Education (EDU): SHB 1044 Capital assistance/schools
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=159000&caId=23996&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=159000&caId=23996&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=159000&caId=23996&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=159000&caId=23996&tId=4)
+
+#### 4 👍 - Pro
+Testifying:
+* Jim Kowalkowski - Rural Education Center
+* Brent Freeman - Wahkiakum School District
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 03/31 12:30 PM - Ways & Means (WM): SHB 1044 Capital assistance/schools
 #### 136 👍 - Pro
 Testifying:

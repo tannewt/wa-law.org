@@ -25,7 +25,7 @@
 
 ## [HB 1971](/bill/2023-24/hb/1971/) - Rangeland fire pilot 👍1  
 
-## [HB 2147](/bill/2023-24/hb/2147/) - Concerning agriculture pest and disease response. 👍1  
+## [HB 2147](/bill/2023-24/hb/2147/) - Agriculture pests & diseases 👍1  
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
 * 👍 Tom Salzer

@@ -109,11 +109,11 @@
 
 ## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
 
-## [HB 1960](/bill/2023-24/hb/1960/) - Increasing prototypical school staffing to better meet student needs. 👍1  
+## [HB 1960](/bill/2023-24/hb/1960/) - Prototypical school staffing 👍1  
 
 ## [HB 1969](/bill/2023-24/hb/1969/) - Individual providers/family 👍2  
 
-## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍1  
+## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍1  
 
 ## [HB 2023](/bill/2023-24/hb/2023/) - Improving meaningful access to elections by increasing language assistance. 👍1  
 
@@ -215,7 +215,7 @@
 
 ## [SB 5441](/bill/2023-24/sb/5441/) - School district curricula 👍1  
 
-## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍2  
+## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍3  
 
 ## [SB 5480](/bill/2023-24/sb/5480/) - Work-limiting disability 👍1  
 
@@ -242,7 +242,8 @@
 
 ## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍2  
 
-## [SB 5883](/bill/2023-24/sb/5883/) - Concerning the burden of proof for special education due process hearings. 👍2  
+## [SB 5883](/bill/2023-24/sb/5883/) - Concerning the burden of proof for special education due process hearings. 👍4  
+* 👍💵 Ramona Hattendorf
 * 👍💵 Ramona Hattendorf
 
 ## [SB 5894](/bill/2023-24/sb/5894/) - Equal pay/protected classes 👍1  

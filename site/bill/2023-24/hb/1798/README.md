@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 01/31/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Current Status of Priority Bills — Quaker Voice](https://www.quakervoicewa.org/2024-current-status-of-priority-bills/#:~:text=HB%201798)

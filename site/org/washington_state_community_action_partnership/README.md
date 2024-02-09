@@ -95,7 +95,7 @@
 
 ## [HB 1874](/bill/2023-24/hb/1874/) - Protecting consumers from predatory loans. 👍1  
 
-## [HB 2007](/bill/2023-24/hb/2007/) - Expanding time limit exemptions applicable to cash assistance programs. 👍2  
+## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍2  
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 

@@ -11,6 +11,19 @@
 * 02/06/2024 [Gorge News Center](/org/gorge_news_center/) - [Wilson EV bill catches fire in Legislature](https://gorgenewscenter.com/2024/02/06/wilson-ev-bill-catches-fire-in-legislature/#:~:text=Senate%20Bill%205812,)
 
 ## Meetings
+### Thu 02/15 04:00 PM - Transportation (TR): SSB 5812 Electric vehicle fires
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31899&aId=159011&caId=24003&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31899&aId=159011&caId=24003&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31899&aId=159011&caId=24003&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31899&aId=159011&caId=24003&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/18 04:00 PM - Transportation (TRAN): SB 5812 Electric vehicle fires
 #### 21 👍 - Pro
 Testifying:

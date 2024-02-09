@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Sat 02/03 09:00 AM - Appropriations (APP): HB 2441 College in the HS fees
