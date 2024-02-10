@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Third Substitute](S3/)
+* [Engrossed Third Substitute](S3.E/)
 
 ## 📰 Articles
 * 02/02/2021 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Environmental Stewardship — Quaker Voice](https://www.quakervoicewa.org/environmental-stewardship/#:~:text=HB%201433)

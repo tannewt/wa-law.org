@@ -15,11 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158918&caId=23914&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158918&caId=23914&tId=4)
 
-#### 0 👍 - Pro
+#### 9 👍 - Pro
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Shawn Latham - Self Advocates In Leadership
 
 ### Wed 01/10 01:30 PM - Health Care & Wellness (HCW): HB 2015 Adult family homes capacity
 #### 129 👍 - Pro

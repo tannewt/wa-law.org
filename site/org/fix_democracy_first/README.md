@@ -316,7 +316,7 @@
 
 ## [SB 5857](/bill/2023-24/sb/5857/) - Campaign disclosure reorg. 👍1  
 
-## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍1  
+## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍2  
 
 ## [SB 5993](/bill/2023-24/sb/5993/) - Voter education  👎1 
 

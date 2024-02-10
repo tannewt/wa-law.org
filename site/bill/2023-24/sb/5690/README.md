@@ -20,7 +20,9 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jennifer Bartlett - Washington State Office of Public Defense
 
 ### Mon 02/13 10:30 AM - Human Services (HS): SB 5690 Conditional release teams
 #### 6 👍 - Pro

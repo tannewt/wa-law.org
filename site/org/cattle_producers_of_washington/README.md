@@ -5,4 +5,6 @@
 ## [HB 2424](/bill/2023-24/hb/2424/) - State-tribe coop./wildlife 👍1  
 * 👍 Scott Nielsen
 
+## [SB 5150](/bill/2023-24/sb/5150/) - Beef commission 👍1  
+
 ## [SB 5939](/bill/2023-24/sb/5939/) - Livestock wolf predation 👍2  

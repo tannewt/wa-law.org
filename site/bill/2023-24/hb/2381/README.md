@@ -15,9 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=159001&caId=23997&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=159001&caId=23997&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center
+* Mikhail Cherniske - Office of Superintendent of Public Instruction
 
 #### 1 👎 - Con
 

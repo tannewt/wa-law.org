@@ -10,6 +10,19 @@
 * 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=HB%201946)
 
 ## Meetings
+### Wed 02/14 08:00 AM - Higher Education & Workforce Development (HEWD): HB 1946 Behav. health scholarship
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31936&aId=159045&caId=24010&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31936&aId=159045&caId=24010&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31936&aId=159045&caId=24010&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31936&aId=159045&caId=24010&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/22 04:00 PM - Appropriations (APP): HB 1946 Behav. health scholarship
 #### 109 👍 - Pro
 Testifying:

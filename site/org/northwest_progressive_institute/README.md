@@ -239,7 +239,7 @@
 
 ## [SB 5857](/bill/2023-24/sb/5857/) - Campaign disclosure reorg. 👍1  
 
-## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍2  
+## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍3  
 * 👍 Andrew Villeneuve
 
 ## [SB 5917](/bill/2023-24/sb/5917/) - Bias-motivated defacement 👍1  

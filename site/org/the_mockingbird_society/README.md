@@ -98,7 +98,7 @@
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
 * ❓💵 Charles Smith
 
-## [SB 5974](/bill/2023-24/sb/5974/) - Unenforceable LFOs 👍1  
+## [SB 5974](/bill/2023-24/sb/5974/) - Unenforceable LFOs 👍2  
 
 ## [SB 6063](/bill/2023-24/sb/6063/) - Persistent offenders 👍1  
 

@@ -209,6 +209,8 @@
 
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax  👎1 
 
+## [SB 5056](/bill/2023-24/sb/5056/) - Habitual property offenders 👍1  
+
 ## [SB 5058](/bill/2023-24/sb/5058/) - Multiunit res. buildings 👍2  
 * 👍💵 Josie Cummings
 * 👍💵 Tricia Gullion

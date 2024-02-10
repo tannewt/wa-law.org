@@ -25,5 +25,6 @@
 ## [SB 5480](/bill/2023-24/sb/5480/) - Work-limiting disability 👍1  
 * 👍 Harald Hyllseth
 
-## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  
+## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  ❓1
 * 👍💵 James Lovell
+* ❓💵 James Lovell

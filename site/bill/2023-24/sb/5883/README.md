@@ -18,7 +18,9 @@ Sign up to testify:
 Testifying:
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Sue Ann Bube - Mercer Island School District
 
 #### 1 ❓ - Other
 Testifying:

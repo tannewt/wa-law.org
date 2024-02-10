@@ -20,11 +20,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31919&aId=158855&caId=23927&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31919&aId=158855&caId=23927&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Josslinn Schoesler - Cattle Producer’s of Washington
 
 ### Wed 03/15 08:00 AM - Agriculture and Natural Resources (AGNR): ESSB 5150 Beef commission
 #### 151 👍 - Pro

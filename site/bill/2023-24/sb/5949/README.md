@@ -17,9 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158970&caId=23919&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158970&caId=23919&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Tsega Desta - Ethiopian Community in Seattle
+* Sherry Williams - HealthPoint
 
 #### 3 👎 - Con
 Testifying:
@@ -53,9 +54,10 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Kristin Wiggins - ReadyNation, Imagine Institute
+* 💵James Lovell - [Chief Seattle Club](/org/chief_seattle_club/)
 
 ### Thu 02/15 04:00 PM - Ways & Means (WM): PSSB 5949: K-12 public schools. (Remote Testimony Available).
 Sign up to testify:

@@ -16,11 +16,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158984&caId=23973&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158984&caId=23973&tId=4)
 
-#### 29 👍 - Pro
+#### 71 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Thu 01/25 08:00 AM - Labor & Commerce (LC): SB 6007 Grocery workers
 #### 526 👍 - Pro
