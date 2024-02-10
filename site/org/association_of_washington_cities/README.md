@@ -695,7 +695,7 @@
 ## [SB 6171](/bill/2023-24/sb/6171/) - Child care/nonstandard hours 👍1  ❓1
 * ❓💵 Lindsey Hueer
 
-## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍2  
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/tax 👍2  
 
 ## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management   ❓1
 * ❓💵 Carl Schroeder

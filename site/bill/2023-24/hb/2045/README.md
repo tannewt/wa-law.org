@@ -12,6 +12,19 @@
 * 01/17/2024 [Gorge News Center](/org/gorge_news_center/) - [Bipartisan legislation from Rep. Kevin Waters to help remove fish barriers receives a hearing](https://gorgenewscenter.com/2024/01/17/bipartisan-legislation-from-rep-kevin-waters-to-help-remove-fish-barriers-receives-a-hearing/#:~:text=House%20Bill%202045)
 
 ## Meetings
+### Thu 02/15 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SHB 2045 Adopt a fish barrier program
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31927&aId=159077&caId=24039&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31927&aId=159077&caId=24039&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31927&aId=159077&caId=24039&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31927&aId=159077&caId=24039&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/17 08:00 AM - Agriculture and Natural Resources (AGNR): HB 2045 Adopt a fish barrier program
 #### 12 👍 - Pro
 Testifying:

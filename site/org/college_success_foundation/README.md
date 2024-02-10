@@ -64,7 +64,8 @@
 ## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍1  
 * 👍💵 Juliet Schindler
 
-## [HB 2224](/bill/2023-24/hb/2224/) - Child abuse referral tool 👍2  
+## [HB 2224](/bill/2023-24/hb/2224/) - Child abuse referral tool 👍3  
+* 👍💵 Emily Stochel
 * 👍💵 Emily Stochel
 
 ## [HB 2342](/bill/2023-24/hb/2342/) - Dependent youth financial ed 👍2  

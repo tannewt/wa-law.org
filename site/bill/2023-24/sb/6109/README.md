@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
 * 02/06/2024 [KING5](/org/king5/) - [Foster parents call for improved child welfare laws in Washington | king5.com](https://www.king5.com/article/news/local/foster-parents-call-for-improved-child-welfare-laws-washington/281-d0b56195-e3b8-48be-8e65-346cb702b5eb#:~:text=Senate%20Bill%206109)
@@ -14,6 +15,19 @@
 * 01/19/2024 [MyNorthwest](/org/mynorthwest/) - [Bill proposing child removal from homes with fentanyl gets emotional - MyNorthwest.com](https://mynorthwest.com/3947163/bill-proposes-child-removal-homes-fentanyl-sparks-charged-debate/#:~:text=Senate%20Bill%206109)
 
 ## Meetings
+### Wed 02/14 01:30 PM - Human Services, Youth, & Early Learning (HSEL): 2SSB 6109 Children and families
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31928&aId=159034&caId=24065&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31928&aId=159034&caId=24065&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31928&aId=159034&caId=24065&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31928&aId=159034&caId=24065&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/29 04:00 PM - Ways & Means (WM): SSB 6109 Children and families
 #### 14 👍 - Pro
 

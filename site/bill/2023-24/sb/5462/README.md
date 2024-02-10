@@ -29,14 +29,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=158889&caId=23946&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=158889&caId=23946&tId=4)
 
-#### 71 👍 - Pro
+#### 169 👍 - Pro
 
-#### 21 👎 - Con
+#### 656 👎 - Con
 Testifying:
 * Trish Huddleston
 * Britney Inglis
 * Gabriel Jacobs
 * JENNIFER KILLMAN
+* Khushdip Brar
+* Darcie Coyle
+* Victoria Ferrer - FPIW Defender
+* Victoria Ferrer - FPIW Defender
+* Charlene Bohbot
+* Shaina Lee
 
 #### 0 ❓ - Other
 

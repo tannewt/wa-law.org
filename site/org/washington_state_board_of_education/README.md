@@ -30,7 +30,8 @@
 
 ## [HB 1316](/bill/2023-24/hb/1316/) - Dual credit program access 👍2  
 
-## [HB 1332](/bill/2023-24/hb/1332/) - Tribes/K-12 instruction 👍3  
+## [HB 1332](/bill/2023-24/hb/1332/) - Tribes/K-12 instruction 👍4  
+* 👍 Bill Kallappa
 * 👍 Bill Kallappa
 * 👍 Bill Kallappa
 

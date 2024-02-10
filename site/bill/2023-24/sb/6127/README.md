@@ -12,6 +12,19 @@
 * 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=Senate%20Bill%206127)
 
 ## Meetings
+### Wed 02/14 01:30 PM - Health Care & Wellness (HCW): ESSB 6127 HIV prophylaxis
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159052&caId=24071&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159052&caId=24071&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159052&caId=24071&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159052&caId=24071&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/18 10:30 AM - Health & Long Term Care (HLTC): SB 6127 HIV prophylaxis
 #### 88 👍 - Pro
 Testifying:

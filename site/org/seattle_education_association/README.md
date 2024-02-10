@@ -32,7 +32,7 @@
 
 ## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍4  
 
-## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍3  
+## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍4  
 
 ## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍1  
 

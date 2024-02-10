@@ -453,7 +453,7 @@
 
 ## [SB 6171](/bill/2023-24/sb/6171/) - Child care/nonstandard hours 👍2  
 
-## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍2  
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/tax 👍2  
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
 

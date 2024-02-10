@@ -44,7 +44,7 @@
 
 ## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍1  
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍5  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍6  
 * 👍💵 Sunshine Cheng
 
 ## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍2  

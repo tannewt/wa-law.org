@@ -204,7 +204,7 @@
 
 ## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍1  
 
-## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍1  
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/tax 👍1  
 
 ## [SB 6230](/bill/2023-24/sb/6230/) - Tax increment areas  👎1 
 * 👎 Michael Olson

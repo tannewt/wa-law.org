@@ -9,6 +9,19 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Wed 02/14 10:30 AM - Housing (HSG): ESHB 2321 Middle housing requirements
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31918&aId=159116&caId=24062&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31918&aId=159116&caId=24062&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31918&aId=159116&caId=24062&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31918&aId=159116&caId=24062&tId=4)
+
+#### 2 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/22 01:30 PM - Housing (HOUS): HB 2321 Middle housing requirements
 #### 73 👍 - Pro
 Testifying:

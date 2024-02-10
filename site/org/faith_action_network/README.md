@@ -39,6 +39,8 @@
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍4  
 
+## [HB 1332](/bill/2023-24/hb/1332/) - Tribes/K-12 instruction 👍1  
+
 ## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits  👎1 
 * 👎💵 Kristin Ang
 
@@ -68,7 +70,7 @@
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍7  
 
-## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍7  
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍8  
 
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍8  
 * 👍💵 Kristin Ang
@@ -170,7 +172,7 @@
 
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍5  
 
-## [SB 6007](/bill/2023-24/sb/6007/) - Grocery workers 👍6  
+## [SB 6007](/bill/2023-24/sb/6007/) - Grocery workers 👍7  
 
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍9  
 

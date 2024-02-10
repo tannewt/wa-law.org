@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2209/</link>
 		<description>Updates about HB 2209</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 07 Feb 2024 15:30:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 09 Feb 2024 08:45:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -140,6 +140,14 @@
 			<pubDate>Wed, 07 Feb 2024 15:30:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wenatcheeworld.com/news/washington-could-make-lunar-new-year-a-holiday-but-what-is-it/article_fbd33e6a-c5f9-11ee-9f53-df7961c1e6c9.html#:~:text=House%20Bill%202209</guid>
+		</item>
+		<item>
+			<title>👍Jason Moon - Washington State Association of Counties</title>
+			<description>Jason Moon signed up to testify Pro.</description>
+			<pubDate>Fri, 09 Feb 2024 08:45:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jason/Moon/2024-02-09 08:45:02</guid>
 		</item>
 	</channel>
 </rss>

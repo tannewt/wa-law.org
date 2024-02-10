@@ -8,6 +8,19 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Wed 02/14 08:00 AM - Local Government (LG): SSB 6015 Residential parking
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31955&aId=159014&caId=24054&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31955&aId=159014&caId=24054&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31955&aId=159014&caId=24054&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31955&aId=159014&caId=24054&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/11 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6015 Residential parking
 #### 91 👍 - Pro
 Testifying:

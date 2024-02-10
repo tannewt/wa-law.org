@@ -10,6 +10,19 @@
 * 01/30/2023 [The Seattle Times](/org/the_seattle_times/) - [The anesthesiologist assistant model is not a good fit for WA | The Seattle Times](https://www.seattletimes.com/opinion/the-anesthesiologist-assistant-model-is-not-a-good-fit-for-wa/#:~:text=Senate%20Bill%205184)
 
 ## Meetings
+### Wed 02/14 01:30 PM - Health Care & Wellness (HCW): SB 5184 Anesthesiologist assistants
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159050&caId=24069&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159050&caId=24069&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159050&caId=24069&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159050&caId=24069&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/12 08:00 AM - Health & Long Term Care (HLTC): SB 5184 Anesthesiologist assistants
 #### 2095 👍 - Pro
 Testifying:

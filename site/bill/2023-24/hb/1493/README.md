@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
 * 04/24/2023 [Gorge News Center](/org/gorge_news_center/) - [Padden laments Legislature’s lack of progress to address impaired driving](https://gorgenewscenter.com/2023/04/24/padden-laments-legislatures-lack-of-progress-to-address-impaired-driving/#:~:text=House%20Bill%201493)

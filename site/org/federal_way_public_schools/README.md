@@ -12,6 +12,8 @@
 
 ## [SB 5311](/bill/2023-24/sb/5311/) - Special education funding 👍1  
 
+## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍1  
+
 ## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍1  
 
 ## [SB 5956](/bill/2023-24/sb/5956/) - Enrichment levies limit  👎1 

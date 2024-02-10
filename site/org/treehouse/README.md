@@ -116,7 +116,7 @@
 * 👎 Marshelle Jordan
 * 👎 Heidi Barden
 
-## [SB 5974](/bill/2023-24/sb/5974/) - Unenforceable LFOs 👍5  
+## [SB 5974](/bill/2023-24/sb/5974/) - Unenforceable LFOs 👍6  
 
 ## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍1  
 * 👍💵 Daniel Lugo

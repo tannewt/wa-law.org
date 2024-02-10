@@ -761,7 +761,7 @@
 
 ## [SB 5456](/bill/2023-24/sb/5456/) - Minimum parking requirements 👍2  
 
-## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍2  
+## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍4  
 * 👍💵 Nasue Nishida
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  

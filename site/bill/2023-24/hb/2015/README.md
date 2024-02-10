@@ -15,11 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158918&caId=23914&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158918&caId=23914&tId=4)
 
-#### 9 👍 - Pro
+#### 137 👍 - Pro
 
 #### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Shawn Latham - Self Advocates In Leadership
 

@@ -16,7 +16,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31917&aId=158852&caId=23910&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31917&aId=158852&caId=23910&tId=4)
 
-#### 50 👍 - Pro
+#### 71 👍 - Pro
 Testifying:
 * 💵Brenna Anderst - Pasado's Safe Haven/Education & Advocacy Director
 * Amanda Fox - Animal Rights Initiative

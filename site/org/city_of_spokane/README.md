@@ -58,5 +58,5 @@
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
 * 👍 Chris Averyt
 
-## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍1  ❓1
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/tax 👍1  ❓1
 * ❓ Steven MacDonald

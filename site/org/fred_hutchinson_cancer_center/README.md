@@ -15,7 +15,7 @@
 ## [HB 1745](/bill/2023-24/hb/1745/) - Diversity in clinical trials 👍5  
 * 👍 Dr. Andrew Cowan
 
-## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍1  
+## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍2  
 
 ## [HB 2378](/bill/2023-24/hb/2378/) - Health care facility fees  👎1 
 * 👎💵 Alicia Eyler
@@ -31,4 +31,6 @@
 
 ## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍2  
 
-## [SB 5936](/bill/2023-24/sb/5936/) - Palliative care work group 👍1  
+## [SB 5936](/bill/2023-24/sb/5936/) - Palliative care work group 👍2  
+
+## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍1  

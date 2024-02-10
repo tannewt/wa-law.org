@@ -20,6 +20,22 @@
 * 06/19/2015 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=HB%201541)
 
 ## Meetings
+### Fri 02/16 08:00 AM - State Government & Elections (SGE): 2E2SHB 1541 Lived experience
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159098&caId=24033&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159098&caId=24033&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159098&caId=24033&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159098&caId=24033&tId=4)
+
+#### 19 👍 - Pro
+Testifying:
+* Sydney Krebsbach - Washington State Developmental Disabilities Council
+* John Lemus
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 03/31 12:30 PM - Ways & Means (WM): E2SHB 1541 Lived experience
 #### 256 👍 - Pro
 Testifying:

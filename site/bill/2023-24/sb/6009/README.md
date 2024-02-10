@@ -15,6 +15,19 @@
 * 01/22/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 3: Criminal justice reform, education, tax cuts for housing - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/21/this-week-in-the-senate-week-3-criminal-justice-reform-education-tax-cuts-for-housing/#:~:text=Senate%20Bill%206009)
 
 ## Meetings
+### Wed 02/14 10:30 AM - Community Safety, Justice, & Reentry (CSJR): ESSB 6009 Hog-tying
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=159020&caId=24044&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=159020&caId=24044&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=159020&caId=24044&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=159020&caId=24044&tId=4)
+
+#### 7 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/22 10:30 AM - Law & Justice (LAW): SB 6009 Hog-tying
 #### 273 👍 - Pro
 Testifying:

@@ -19,13 +19,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=158844&caId=23935&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=158844&caId=23935&tId=4)
 
-#### 35 👍 - Pro
+#### 48 👍 - Pro
 Testifying:
 * Andrew Rolwes - Downtown Spokane Partnership
 * Chud Wendle - Hutton Settlement
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Bryn West - Cowles Real Estate
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

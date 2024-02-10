@@ -158,7 +158,7 @@
 
 ## [SB 5873](/bill/2023-24/sb/5873/) - Student transportation 👍1  
 
-## [SB 5891](/bill/2023-24/sb/5891/) - Public school bus trespass 👍1  
+## [SB 5891](/bill/2023-24/sb/5891/) - School bus trespass 👍1  
 
 ## [SB 5900](/bill/2023-24/sb/5900/) - Concerning construction crane safety. 👍1  
 

@@ -13,6 +13,19 @@
 * 02/06/2023 [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=HB%201692)
 
 ## Meetings
+### Fri 02/16 08:00 AM - State Government & Elections (SGE): E2SHB 1692 Student advisory groups
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159096&caId=24031&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159096&caId=24031&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159096&caId=24031&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159096&caId=24031&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/16 01:30 PM - State Government & Tribal Relations (SGOV): HB 1692 Student advisory groups
 #### 6 👍 - Pro
 Testifying:

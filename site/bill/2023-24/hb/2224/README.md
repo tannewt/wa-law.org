@@ -15,7 +15,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31938&aId=159025&caId=24008&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31938&aId=159025&caId=24008&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* 💵Emily Stochel - [College Success Foundation](/org/college_success_foundation/)
 
 #### 0 👎 - Con
 

@@ -9,7 +9,7 @@
 
 ## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍1  
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍3  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍4  
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 

@@ -14,12 +14,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=158924&caId=23960&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=158924&caId=23960&tId=4)
 
-#### 4 👍 - Pro
+#### 17 👍 - Pro
 
-#### 4 👎 - Con
+#### 360 👎 - Con
 Testifying:
 * Laurie Layne
 * Mary Long - Conservative Ladies of Washington
+
+#### 1 ❓ - Other
+
+### Wed 02/14 01:30 PM - Health Care & Wellness (HCW): SB 5982 Vaccine definition
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159102&caId=24074&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159102&caId=24074&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159102&caId=24074&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159102&caId=24074&tId=4)
+
+#### 1 👍 - Pro
+
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

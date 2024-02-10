@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
 * 01/20/2024 [KING5](/org/king5/) - [WA could expand speed camera use amid rise in deadly crashes | king5.com](https://www.king5.com/article/news/politics/in-session/session-washington-state-expand-speed-camera-rise-deadly-crashes/281-76104cf1-aee1-43e2-a0a3-cfb8b8ba0b6b#:~:text=House%20Bill%202021)

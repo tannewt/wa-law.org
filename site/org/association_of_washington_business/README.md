@@ -784,7 +784,7 @@
 ## [SB 6168](/bill/2023-24/sb/6168/) - International leadership 👍1  
 * 👍💵 Amy Anderson
 
-## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍2  
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/tax 👍2  
 
 ## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management  👎1 
 * 👎💵 Peter Godlewski

@@ -30,6 +30,8 @@
 
 ## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave 👍1  
 
+## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍1  
+
 ## [SB 5894](/bill/2023-24/sb/5894/) - Equal pay/protected classes 👍1  
 
 ## [SB 5910](/bill/2023-24/sb/5910/) - Creating the state department of natural resources' Smokey Bear special license plates. 👍1  

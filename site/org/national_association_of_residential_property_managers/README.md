@@ -25,4 +25,4 @@
 
 ## [SB 5741](/bill/2023-24/sb/5741/) - Housing gap voucher pilot 👍1  
 
-## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/housing 👍1  
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/tax 👍1  

@@ -13,6 +13,19 @@
 * 01/29/2024 [Crosscut](/org/crosscut/) - [Can Catholic lobbyists agree to a child abuse reporting law? | Crosscut](https://crosscut.com/politics/2024/01/can-catholic-lobbyists-agree-child-abuse-reporting-law#:~:text=Senate%20Bill%206298)
 
 ## Meetings
+### Fri 02/16 08:00 AM - Human Services, Youth, & Early Learning (HSEL): SB 6298 Clergy/child abuse reporting
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31929&aId=159037&caId=24068&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31929&aId=159037&caId=24068&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31929&aId=159037&caId=24068&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31929&aId=159037&caId=24068&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/25 08:00 AM - Human Services (HS): SB 6298 Concerning the duty of the clergy to report child abuse or neglect. (Remote Testimony Available).
 #### 17 👍 - Pro
 Testifying:

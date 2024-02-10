@@ -66,9 +66,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158966&caId=23915&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158966&caId=23915&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
+* Jim Kowalkowski - Rural Education Center
 * 💵Mike Hoover - Washington State School Directors’ Association (WSSDA)
 
 #### 0 👎 - Con
