@@ -9,6 +9,19 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Fri 02/16 10:30 AM - Civil Rights & Judiciary (CRJ): ESSB 5589 Probate
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159130&caId=24083&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159130&caId=24083&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159130&caId=24083&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159130&caId=24083&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 03/22 08:00 AM - Civil Rights & Judiciary (CRJ): SSB 5589 Probate
 #### 3 👍 - Pro
 Testifying:

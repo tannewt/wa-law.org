@@ -77,7 +77,7 @@
 * 👍💵 Eric Warwick
 * 👍💵 Ramona Hattendorf
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍6  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍7  
 * 👍 Eric Matthes
 * 👍 Eric Matthes
 
@@ -240,7 +240,7 @@
 
 ## [SB 5873](/bill/2023-24/sb/5873/) - Student transportation 👍1  
 
-## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍2  
+## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍3  
 
 ## [SB 5883](/bill/2023-24/sb/5883/) - Concerning the burden of proof for special education due process hearings. 👍4  
 * 👍💵 Ramona Hattendorf

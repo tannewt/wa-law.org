@@ -10,6 +10,19 @@
 * 01/07/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: Welcome to the 2024 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/07/this-week-in-the-senate-week-1-welcome-to-the-2024-session/#:~:text=SB%205843)
 
 ## Meetings
+### Wed 02/14 01:30 PM - State Government & Tribal Relations (SGOV): SB 5843 Election security breaches
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31911&aId=159118&caId=24088&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31911&aId=159118&caId=24088&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31911&aId=159118&caId=24088&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31911&aId=159118&caId=24088&tId=4)
+
+#### 20 👍 - Pro
+
+#### 3 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/09 01:30 PM - State Government & Elections (SGE): SB 5843 Election security breaches
 #### 79 👍 - Pro
 Testifying:

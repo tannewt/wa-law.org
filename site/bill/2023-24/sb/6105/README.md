@@ -17,6 +17,19 @@
 * 01/14/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 2: MLK, education, gas price transparency - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/14/this-week-in-the-senate-week-2-mlk-education-gas-price-transparency/#:~:text=SB%206105)
 
 ## Meetings
+### Wed 02/14 08:00 AM - Labor & Workplace Standards (LAWS): ESSB 6105 Adult entertainment workers
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=159134&caId=24099&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=159134&caId=24099&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=159134&caId=24099&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=159134&caId=24099&tId=4)
+
+#### 4 👍 - Pro
+
+#### 9 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/15 10:30 AM - Labor & Commerce (LC): SB 6105 Adult entertainment workers
 #### 40 👍 - Pro
 Testifying:

@@ -8,6 +8,21 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Wed 02/14 10:30 AM - Housing (HOUS): SSB 6059 Mobile home community sales
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31909&aId=159142&caId=24097&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31909&aId=159142&caId=24097&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31909&aId=159142&caId=24097&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31909&aId=159142&caId=24097&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* 💵Ishbel Dickens - Assoc of Manufactured Home Owners
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/19 10:30 AM - Housing (HSG): SB 6059 Mobile home community sales
 #### 17 👍 - Pro
 Testifying:

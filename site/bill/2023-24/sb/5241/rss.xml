@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5241/</link>
 		<description>Updates about SB 5241</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Feb 2024 01:40:37 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -404,7 +404,7 @@
 			<guid isPermaLink="false">testifier/Dorothy/Roca/2023-02-20 02:49:25</guid>
 		</item>
 		<item>
-			<title>👍Joelle Craft - Office of Administrative Hearings</title>
+			<title>👍Joelle Craft - Washington Gastroenterology; Washington Independent Physican Practice Association</title>
 			<description>Joelle Craft signed up to testify Pro.</description>
 			<pubDate>Mon, 20 Feb 2023 03:36:00 GMT</pubDate>
 			<category>testifier</category>
@@ -644,6 +644,21 @@
 			<pubDate>Fri, 09 Feb 2024 01:40:37 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2024/02/08/senate-passes-keep-our-care-act/#:~:text=Senate%20Bill%205241</guid>
+		</item>
+		<item>
+			<title>👎Steven Kaptik - Washington Gastroenterology; Washington Independent Physican Practice Association</title>
+			<description>Steven Kaptik signed up to testify Con. They are signed up to represent Washington Gastroenterology; Washington Independent Physican Practice Association.</description>
+			<pubDate>Sun, 11 Feb 2024 08:33:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Steven/Kaptik/2024-02-11 08:33:33</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Civil Rights &amp; Judiciary (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Civil Rights &amp; Judiciary (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-12/First reading, referred to Civil Rights &amp; Judiciary (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 	</channel>
 </rss>

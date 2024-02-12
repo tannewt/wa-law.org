@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
 * 02/07/2024 [The Center Square](/org/the_center_square/) - [Bill tying school funding to curriculum materials moves forward in Olympia | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_26b4e844-c600-11ee-9827-b70c2d076da4.html#:~:text=House%20Bill%202331)

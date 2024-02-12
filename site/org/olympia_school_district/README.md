@@ -12,6 +12,8 @@
 
 ## [SB 5873](/bill/2023-24/sb/5873/) - Student transportation 👍1  
 
+## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍1  
+
 ## [SB 5956](/bill/2023-24/sb/5956/) - Enrichment levies limit 👍1  
 * 👍 Kate Davis
 

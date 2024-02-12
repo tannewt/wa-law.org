@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2348/</link>
 		<description>Updates about HB 2348</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 11 Feb 2024 03:53:07 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -76,7 +76,7 @@
 			<guid isPermaLink="false">2024-01-29/Referred to Finance.</guid>
 		</item>
 		<item>
-			<title>👍💵Ian Goodhew - WA State LTC Ombuds</title>
+			<title>👍💵Ian Goodhew - Initiative Activist</title>
 			<description>Ian Goodhew signed up to testify Pro. They are a registered lobbyist.</description>
 			<pubDate>Mon, 29 Jan 2024 06:26:12 GMT</pubDate>
 			<category>testifier</category>
@@ -84,7 +84,7 @@
 			<guid isPermaLink="false">testifier/Ian/Goodhew/2024-01-29 06:26:12</guid>
 		</item>
 		<item>
-			<title>👍Meredith Kriebel - WA State LTC Ombuds</title>
+			<title>👍Meredith Kriebel - Initiative Activist</title>
 			<description>Meredith Kriebel signed up to testify Pro.</description>
 			<pubDate>Mon, 29 Jan 2024 06:26:12 GMT</pubDate>
 			<category>testifier</category>
@@ -92,7 +92,7 @@
 			<guid isPermaLink="false">testifier/Meredith/Kriebel/2024-01-29 06:26:12</guid>
 		</item>
 		<item>
-			<title>👍💵Michael White - WA State LTC Ombuds</title>
+			<title>👍💵Michael White - Initiative Activist</title>
 			<description>Michael White signed up to testify Pro. They are a registered lobbyist.</description>
 			<pubDate>Mon, 29 Jan 2024 06:26:12 GMT</pubDate>
 			<category>testifier</category>
@@ -157,6 +157,14 @@
 			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-09/Third reading, passed; yeas, 56; nays, 41; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>👎Tim Eyman - Initiative Activist</title>
+			<description>Tim Eyman signed up to testify Con. They are signed up to represent Initiative Activist.</description>
+			<pubDate>Sun, 11 Feb 2024 03:53:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Tim/Eyman/2024-02-11 03:53:07</guid>
 		</item>
 	</channel>
 </rss>

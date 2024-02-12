@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158917&caId=23913&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158917&caId=23913&tId=4)
 
-#### 22 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * 💵Nathaniel Brown - Northwest Kidney Council
 * Tammie Perreault
@@ -26,7 +26,7 @@ Testifying:
 * Jeremy Arp - National Association of Social Workers WA Chapter
 * Kelsey Halpern
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

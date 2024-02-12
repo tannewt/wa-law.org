@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1932/</link>
 		<description>Updates about HB 1932</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Feb 2024 02:03:24 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -279,6 +279,29 @@
 			<pubDate>Fri, 09 Feb 2024 02:03:24 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://mynorthwest.com/3950030/house-passes-bill-shifting-elections-even-numbered-years-boost-voter-participation-local-elections/#:~:text=House%20Bill%201932</guid>
+		</item>
+		<item>
+			<title>👎Laurie Layne - NAMI Washington</title>
+			<description>Laurie Layne signed up to testify Con.</description>
+			<pubDate>Sun, 11 Feb 2024 06:06:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Laurie/Layne/2024-02-11 06:06:06</guid>
+		</item>
+		<item>
+			<title>👎Tim Eyman - Initiative Activist</title>
+			<description>Tim Eyman signed up to testify Con. They are signed up to represent Initiative Activist.</description>
+			<pubDate>Sun, 11 Feb 2024 09:47:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Tim/Eyman/2024-02-11 09:47:34</guid>
+		</item>
+		<item>
+			<title>First reading, referred to State Government &amp; Elections (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to State Government &amp; Elections (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-12/First reading, referred to State Government &amp; Elections (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 	</channel>
 </rss>

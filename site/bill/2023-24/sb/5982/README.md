@@ -30,9 +30,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159102&caId=24074&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159102&caId=24074&tId=4)
 
-#### 1 👍 - Pro
+#### 9 👍 - Pro
 
-#### 3 👎 - Con
+#### 331 👎 - Con
+Testifying:
+* Jeannette Mcchesney
+* James Ware
+* Vernon Den Bleyker
+* Laurie Layne
 
 #### 0 ❓ - Other
 

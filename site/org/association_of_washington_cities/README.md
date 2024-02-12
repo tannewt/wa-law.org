@@ -225,7 +225,8 @@
 ## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍1  
 * 👍 Brandy DeLange
 
-## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍2  
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍3  
+* 👍💵 Carl Schroeder
 * 👍💵 Carl Schroeder
 
 ## [HB 1894](/bill/2023-24/hb/1894/) - Modifying provisions of the business licensing service program. 👍1  

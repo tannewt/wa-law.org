@@ -171,7 +171,7 @@
 ## [HB 1885](/bill/2023-24/hb/1885/) - Strengthening campaign finance disclosure by prohibiting campaign contributions and expenditures by foreign-influenced corporations. 👍3  
 * 👍💵 Cindy Black
 
-## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍2  
+## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍3  
 * 👍💵 Cindy Black
 
 ## [HB 1962](/bill/2023-24/hb/1962/) - Improving voter registration list accuracy by improving voter address change processes for county election offices and voters. 👍1  
@@ -180,7 +180,7 @@
 
 ## [HB 2030](/bill/2023-24/hb/2030/) - Revoking a person's voting rights only when convicted of a state crime punishable by death. 👍1  
 
-## [HB 2032](/bill/2023-24/hb/2032/) - Reducing the size of yard signs that are exempt from certain political advertising disclosure requirements. 👍1  
+## [HB 2032](/bill/2023-24/hb/2032/) - Reducing the size of yard signs that are exempt from certain political advertising disclosure requirements. 👍2  
 
 ## [HB 2250](/bill/2023-24/hb/2250/) - Local elections 👍1  
 
@@ -310,7 +310,7 @@
 
 ## [SB 5837](/bill/2023-24/sb/5837/) - Codifying the state election database to publish, evaluate, and analyze certain election data. 👍1  
 
-## [SB 5843](/bill/2023-24/sb/5843/) - Election security breaches 👍1  
+## [SB 5843](/bill/2023-24/sb/5843/) - Election security breaches 👍2  
 
 ## [SB 5856](/bill/2023-24/sb/5856/) - Concerning voter registration challenges. 👍1  
 

@@ -29,9 +29,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=158889&caId=23946&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=158889&caId=23946&tId=4)
 
-#### 169 👍 - Pro
+#### 255 👍 - Pro
+Testifying:
+* Devon Kellogg - Washington State PTA
 
-#### 656 👎 - Con
+#### 1345 👎 - Con
 Testifying:
 * Trish Huddleston
 * Britney Inglis
@@ -41,8 +43,14 @@ Testifying:
 * Darcie Coyle
 * Victoria Ferrer - FPIW Defender
 * Victoria Ferrer - FPIW Defender
+* Gary Wilson
+* Contessa Montgomery
 * Charlene Bohbot
 * Shaina Lee
+* Jeannette Mcchesney
+* Alisha Honeywell
+* Betsy Foster - Nope
+* Nikki Farnsworth
 
 #### 0 ❓ - Other
 

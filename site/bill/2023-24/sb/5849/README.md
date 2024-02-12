@@ -21,7 +21,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31901&aId=159110&caId=24051&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31901&aId=159110&caId=24051&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Natalya Yudkovsky - Washington State PTA
+* Dave Brown - CS Forward
 
 #### 1 👎 - Con
 

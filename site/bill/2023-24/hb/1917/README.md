@@ -17,12 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158916&caId=23912&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158916&caId=23912&tId=4)
 
-#### 54 👍 - Pro
+#### 78 👍 - Pro
 Testifying:
 * 💵Nathaniel Brown - Northwest Kidney Council
 * Tammie Perreault - Department of Defense-State Liaison Office
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

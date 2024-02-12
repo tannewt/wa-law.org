@@ -18,6 +18,21 @@
 * 01/29/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 4: Public safety takes center stage - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/29/this-week-in-the-senate-week-4-public-safety-takes-center-stage/#:~:text=Senate%20Bill%205427)
 
 ## Meetings
+### Fri 02/16 10:30 AM - Civil Rights & Judiciary (CRJ): SSB 5427 Hate crimes & bias incidents
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159129&caId=24082&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159129&caId=24082&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159129&caId=24082&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159129&caId=24082&tId=4)
+
+#### 1 👍 - Pro
+
+#### 4 👎 - Con
+Testifying:
+* John Coleman - Foundation for Individual Rights and Expression
+
+#### 0 ❓ - Other
+
 ### Thu 01/18 04:00 PM - Ways & Means (WM): SB 5427 Hate crimes & bias incidents
 #### 271 👍 - Pro
 Testifying:

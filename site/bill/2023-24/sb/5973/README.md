@@ -9,6 +9,21 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Wed 02/14 10:30 AM - Housing (HOUS): ESSB 5973 Heat pumps/CICs
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31909&aId=159141&caId=24096&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31909&aId=159141&caId=24096&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31909&aId=159141&caId=24096&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31909&aId=159141&caId=24096&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* Steve Horvath - HOA United
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/22 10:30 AM - Law & Justice (LAW): SB 5973 Heat pumps/CICs
 #### 6 👍 - Pro
 Testifying:

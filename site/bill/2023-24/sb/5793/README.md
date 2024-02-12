@@ -12,6 +12,19 @@
 * 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=Senate%20Bill%205793)
 
 ## Meetings
+### Fri 02/16 10:30 AM - Labor & Workplace Standards (LAWS): ESSB 5793 Paid sick leave
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31924&aId=159137&caId=24101&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31924&aId=159137&caId=24101&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31924&aId=159137&caId=24101&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31924&aId=159137&caId=24101&tId=4)
+
+#### 20 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/14 08:00 AM - Labor & Workplace Standards (LAWS): SSB 5793 Paid sick leave
 Sign up to testify:
 * [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158983&caId=23972&tId=1)
@@ -19,7 +32,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158983&caId=23972&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158983&caId=23972&tId=4)
 
-#### 50 👍 - Pro
+#### 57 👍 - Pro
 
 #### 0 👎 - Con
 

@@ -76,7 +76,7 @@
 
 ## [SB 5850](/bill/2023-24/sb/5850/) - Chronically absent students 👍1  
 
-## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍2  
+## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍3  
 
 ## [SB 5933](/bill/2023-24/sb/5933/) - Infants and toddlers program 👍1  
 

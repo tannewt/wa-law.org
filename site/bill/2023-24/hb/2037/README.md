@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
 * 02/08/2024 [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | Alaska Airlines Door Plug Was Improperly Reinstalled; Legislative Bills Would Require Genocide Education in Public Schools | South Seattle Emerald](https://southseattleemerald.com/2024/02/07/news-gleams-alaska-airlines-door-plug-was-improperly-reinstalled-legislative-bills-would-require-genocide-education-in-public-schools/#:~:text=HB%202037)

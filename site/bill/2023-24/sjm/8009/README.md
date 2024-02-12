@@ -8,6 +8,21 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Thu 02/15 01:30 PM - Finance (FIN): SSJM 8009 Harbor maintenance tax
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31952&aId=159165&caId=24122&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31952&aId=159165&caId=24122&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31952&aId=159165&caId=24122&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31952&aId=159165&caId=24122&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* Brock Graber - International Longshoremen and Warehouse Union (ILWU) Local 23
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/09 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SJM 8009 Harbor maintenance tax
 #### 9 👍 - Pro
 Testifying:

@@ -19,7 +19,9 @@ Sign up to testify:
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Robert Ezelle - Washington Military Department, Emergency Management Division
 
 ### Thu 01/18 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6164 County emergency management
 #### 1 👍 - Pro

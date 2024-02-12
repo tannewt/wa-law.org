@@ -27,6 +27,21 @@
 * 06/19/2015 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=SB%205241)
 
 ## Meetings
+### Wed 02/14 08:00 AM - Civil Rights & Judiciary (CRJ): ESB 5241 Health care marketplace
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31953&aId=159127&caId=24080&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31953&aId=159127&caId=24080&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31953&aId=159127&caId=24080&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31953&aId=159127&caId=24080&tId=4)
+
+#### 112 👍 - Pro
+
+#### 15 👎 - Con
+Testifying:
+* Steven Kaptik - Washington Gastroenterology; Washington Independent Physican Practice Association
+
+#### 0 ❓ - Other
+
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SB 5241 Health care marketplace
 #### 435 👍 - Pro
 Testifying:

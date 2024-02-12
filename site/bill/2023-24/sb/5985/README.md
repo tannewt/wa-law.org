@@ -16,9 +16,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=158954&caId=23933&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=158954&caId=23933&tId=4)
 
-#### 4 👍 - Pro
+#### 10 👍 - Pro
 
-#### 389 👎 - Con
+#### 664 👎 - Con
 Testifying:
 * Gabriel Jacobs
 * eric pratt

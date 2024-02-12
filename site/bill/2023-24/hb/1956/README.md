@@ -16,6 +16,22 @@
 * 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%201956)
 
 ## Meetings
+### Thu 02/15 01:30 PM - Early Learning & K-12 Education (EDU): E2SHB 1956 Substance use prevention ed.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=159144&caId=24094&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=159144&caId=24094&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=159144&caId=24094&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=159144&caId=24094&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* Troy Zhang
+* Danica Noble - Washington State PTA
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/18 08:00 AM - Education (ED): HB 1956 Substance use prevention ed.
 #### 190 👍 - Pro
 Testifying:

@@ -2,7 +2,8 @@
 
 ## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍2  
 
-## [HB 2224](/bill/2023-24/hb/2224/) - Child abuse referral tool 👍2  
+## [HB 2224](/bill/2023-24/hb/2224/) - Child abuse referral tool 👍3  
+* 👍💵 Erica Hallock
 * 👍💵 Erica Hallock
 
 ## [HB 2383](/bill/2023-24/hb/2383/) - Dependency outcome reporting 👍1  

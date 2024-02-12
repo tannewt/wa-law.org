@@ -11,6 +11,19 @@
 * 03/03/2023 [Crosscut](/org/crosscut/) - [How federal weed legalization would impact Washington state | Crosscut](https://crosscut.com/politics/2023/03/how-federal-weed-legalization-would-impact-washington-state#:~:text=Senate%20Bill%205340)
 
 ## Meetings
+### Thu 02/15 08:00 AM - Regulated Substances & Gaming (RSG): ESB 5340 Retail cannabis products
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31942&aId=159168&caId=24125&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31942&aId=159168&caId=24125&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31942&aId=159168&caId=24125&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31942&aId=159168&caId=24125&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 03/20 01:30 PM - Regulated Substances & Gaming (RSG): SB 5340 Retail cannabis products
 #### 5 👍 - Pro
 Testifying:

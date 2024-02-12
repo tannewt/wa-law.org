@@ -16,15 +16,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31917&aId=158852&caId=23910&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31917&aId=158852&caId=23910&tId=4)
 
-#### 71 👍 - Pro
+#### 92 👍 - Pro
 Testifying:
 * 💵Brenna Anderst - Pasado's Safe Haven/Education & Advocacy Director
 * Amanda Fox - Animal Rights Initiative
 * Wendy Linton
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/17 01:30 PM - Consumer Protection & Business (CPB): HB 1097 Cosmetics tested on animals
 #### 57 👍 - Pro

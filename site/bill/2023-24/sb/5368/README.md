@@ -16,10 +16,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158872&caId=23968&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158872&caId=23968&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Blake Garfield - Bedrooms and More
 * 💵Kevin Schilling - Washington State Dental Association
+* 💵Sheri Call - Washington Trucking Associations
 
 #### 0 👎 - Con
 

@@ -27,3 +27,5 @@
 * 👍 Lauren RIchardson-Berg
 * 👍 Jesse Wing
 * 👍 Jesse Wing
+
+## [SB 5935](/bill/2023-24/sb/5935/) - Noncompetition covenants 👍1  

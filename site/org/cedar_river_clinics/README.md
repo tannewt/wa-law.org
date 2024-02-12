@@ -12,16 +12,16 @@
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍3  
 
-## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍1  
+## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍2  
 
 ## [HB 1957](/bill/2023-24/hb/1957/) - Preventive service coverage 👍1  
 
-## [HB 2115](/bill/2023-24/hb/2115/) - Prescription labels/abortion 👍1  
+## [HB 2115](/bill/2023-24/hb/2115/) - Prescription labels/abortion 👍2  
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
 * ❓ Mercedes Sanchez
 
-## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍3  
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍3  
 

@@ -27,9 +27,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159099&caId=24034&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159099&caId=24034&tId=4)
 
-#### 5 👍 - Pro
+#### 51 👍 - Pro
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Laurie Layne
+* Tim Eyman - Initiative Activist
 
 #### 0 ❓ - Other
 

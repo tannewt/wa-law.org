@@ -64,7 +64,7 @@
 
 ## [HB 1575](/bill/2023-24/hb/1575/) - Cultural access programs/tax 👍2  
 
-## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍2  
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍3  
 * 👍 Mayor, Victoria Woodards
 
 ## [HB 1621](/bill/2023-24/hb/1621/) - Local government procurement 👍1  
@@ -150,6 +150,8 @@
 
 ## [SB 5402](/bill/2023-24/sb/5402/) - Authorizing public transportation benefit areas to become limited authority Washington law enforcement agencies. 👍1  
 
+## [SB 5424](/bill/2023-24/sb/5424/) - Flexible work/peace officers 👍1  
+
 ## [SB 5430](/bill/2023-24/sb/5430/) - Driver training/low-income 👍1  
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  ❓1
@@ -173,7 +175,11 @@
 
 ## [SB 5792](/bill/2023-24/sb/5792/) - Concerning the definition of multiunit residential buildings. 👍1  
 
+## [SB 5812](/bill/2023-24/sb/5812/) - Electric vehicle fires 👍1  
+
 ## [SB 5817](/bill/2023-24/sb/5817/) - Economic development info. 👍1  
+
+## [SB 5884](/bill/2023-24/sb/5884/) - Concerning court-ordered restitution in environmental criminal cases. 👍1  
 
 ## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍1  
 
@@ -182,7 +188,7 @@
 ## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  
 * 👍💵 Briahna Murray
 
-## [SB 6009](/bill/2023-24/sb/6009/) - Hog-tying 👍1  
+## [SB 6009](/bill/2023-24/sb/6009/) - Hog-tying 👍2  
 
 ## [SB 6120](/bill/2023-24/sb/6120/) - Wildland urban interface 👍1  
 

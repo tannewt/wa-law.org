@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6056/</link>
 		<description>Updates about SB 6056</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 11 Feb 2024 03:39:36 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -88,6 +88,14 @@
 			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-09/First reading, referred to Labor &amp; Workplace Standards.</guid>
+		</item>
+		<item>
+			<title>👎Emi Koyama - Coalition for Rights &amp; Safety for People in the Sex Trade</title>
+			<description>Emi Koyama signed up to testify Con. They are signed up to represent Coalition for Rights &amp; Safety for People in the Sex Trade.</description>
+			<pubDate>Sun, 11 Feb 2024 03:39:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Emi/Koyama/2024-02-11 03:39:36</guid>
 		</item>
 	</channel>
 </rss>

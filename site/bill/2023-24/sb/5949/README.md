@@ -17,10 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158970&caId=23919&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158970&caId=23919&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Tsega Desta - Ethiopian Community in Seattle
 * Sherry Williams - HealthPoint
+* 💵Kenny Pittman - Communities of Concern Commission
 
 #### 3 👎 - Con
 Testifying:

@@ -17,3 +17,6 @@
 ## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍2  
 
 ## [SB 6258](/bill/2023-24/sb/6258/) - Standardized health plans 👍1  
+
+## [ESJM 8006](/bill/2023-24/esjm/8006/) - Universal health care 👍1  
+* 👍 Ronnie Shure
