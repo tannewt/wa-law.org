@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/09/2024 [NW News Network](/org/nw_news_network/) - [Passing bills, bills, bills: Highlights from week 5 in the WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2024-02-09/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%206009)
+* 02/09/2024 [KUOW](/org/kuow/) - [KUOW - Passing bills, bills, bills: Highlights from week 5 in the WA Legislature](https://www.kuow.org/stories/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%206009)
 * 02/06/2024 [Senate Democrats](/org/senate_democrats/) - [Trudeau bill prohibiting hog-tying by law enforcement passes Senate  - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/06/trudeau-bill-prohibiting-hog-tying-by-law-enforcement-passes-senate/#:~:text=SB%206009)
 * 02/06/2024 [The Seattle Times](/org/the_seattle_times/) - [WA Senate passes bill that would ban hogtying by police | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-senate-passes-bill-that-would-ban-hogtying-by-police/#:~:text=Senate%20Bill%206009)
 * 01/23/2024 [MyNorthwest](/org/mynorthwest/) - [Bill proposes statewide ban on police from hogtying suspects - MyNorthwest.com](https://mynorthwest.com/3947538/proposed-statewide-ban-hogtying-police/#:~:text=Senate%20Bill%206009)
@@ -22,7 +24,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=159020&caId=24044&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=159020&caId=24044&tId=4)
 
-#### 60 👍 - Pro
+#### 66 👍 - Pro
 
 #### 0 👎 - Con
 

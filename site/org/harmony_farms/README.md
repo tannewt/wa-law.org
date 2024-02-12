@@ -48,7 +48,8 @@
 * 👍💵 Lukas Hunter
 * 👍💵 Lukas Hunter
 
-## [SB 5376](/bill/2023-24/sb/5376/) - Cannabis waste 👍1  
+## [SB 5376](/bill/2023-24/sb/5376/) - Cannabis waste 👍2  
+* 👍💵 Lukas Hunter
 * 👍💵 Lukas Hunter
 
 ## [SB 5377](/bill/2023-24/sb/5377/) - Cannabis license ownership 👍2  

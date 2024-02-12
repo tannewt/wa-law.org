@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Fri 02/02 08:00 AM - Finance (FIN): HB 2482 Semiconductor tax incentives

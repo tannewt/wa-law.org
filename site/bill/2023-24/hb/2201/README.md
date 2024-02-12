@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/09/2024 [The Center Square](/org/the_center_square/) - [Bill to pave way for linking Washington's carbon market to CA-Quebec advances | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_4e98470a-c77e-11ee-a706-d3013bc1aa0e.html#:~:text=House%20Bill%202201)
 * 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202201)
 
 ## Meetings

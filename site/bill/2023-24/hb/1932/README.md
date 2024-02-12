@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/09/2024 [NW News Network](/org/nw_news_network/) - [Passing bills, bills, bills: Highlights from week 5 in the WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2024-02-09/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=House%20Bill%201932)
+* 02/09/2024 [KUOW](/org/kuow/) - [KUOW - Passing bills, bills, bills: Highlights from week 5 in the WA Legislature](https://www.kuow.org/stories/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=House%20Bill%201932)
 * 02/09/2024 [MyNorthwest](/org/mynorthwest/) - [With dipping voter numbers, Wash. bill pushes to turn elections to even years - MyNorthwest.com](https://mynorthwest.com/3950030/house-passes-bill-shifting-elections-even-numbered-years-boost-voter-participation-local-elections/#:~:text=House%20Bill%201932)
 * 02/08/2024 [The Urbanist](/org/the_urbanist/) - [State House Passes Bill Allowing Even-Year Local Elections - The Urbanist](https://www.theurbanist.org/2024/02/08/state-house-passes-bill-allowing-even-year-local-elections/#:~:text=House%20Bill%201932)
 * 02/08/2024 [The Seattle Times](/org/the_seattle_times/) - [WA House votes to allow local even-year elections | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-house-votes-to-allow-local-even-year-elections/#:~:text=House%20Bill%201932)
@@ -27,9 +29,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159099&caId=24034&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159099&caId=24034&tId=4)
 
-#### 51 👍 - Pro
+#### 70 👍 - Pro
 
-#### 3 👎 - Con
+#### 326 👎 - Con
 Testifying:
 * Laurie Layne
 * Tim Eyman - Initiative Activist

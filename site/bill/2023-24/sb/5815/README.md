@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/09/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 12 - 16, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-12-16-2024/#:~:text=SB%205815)
 * 01/25/2024 [Gorge News Center](/org/gorge_news_center/) - [Senate approves Muzzall health-care workforce legislation](https://gorgenewscenter.com/2024/01/25/senate-approves-muzzall-health-care-workforce-legislation/#:~:text=Senate%20Bill%205815)
 
 ## Meetings
@@ -18,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31902&aId=158831&caId=23977&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31902&aId=158831&caId=23977&tId=4)
 
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Jerry Fugich - Veterans Legislative Coalition
 

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/11/2024 [The Urbanist](/org/the_urbanist/) - [Op-Ed: State Secretary Hobbs Is Wrong to Oppose Ranked Choice Voting - The Urbanist](https://www.theurbanist.org/2024/02/11/op-ed-state-secretary-hobbs-is-wrong-to-oppose-ranked-choice-voting/#:~:text=House%20Bill%202250)
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202250)
 * 01/16/2024 [Sightline Institute](/org/sightline_institute/) - [Washingtonians May Get a Democracy Upgrade in 2024 - Sightline Institute](https://www.sightline.org/2024/01/16/washingtonians-may-get-a-democracy-upgrade-in-2024/#:~:text=HB%202250)
 

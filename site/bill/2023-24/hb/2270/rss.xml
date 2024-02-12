@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2270/</link>
 		<description>Updates about HB 2270</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Feb 2024 08:30:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -133,6 +133,21 @@
 			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-09/Third reading, passed; yeas, 58; nays, 39; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>House Approves New Department of Housing Bill – Washington State House Democrats</title>
+			<description>News article &quot;House Approves New Department of Housing Bill – Washington State House Democrats&quot; from House Democrats.</description>
+			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/02/09/house-approves-new-department-of-housing-bill/#:~:text=HB%202270</guid>
+		</item>
+		<item>
+			<title>👎Laurie Layne - Student Constituent</title>
+			<description>Laurie Layne signed up to testify Con.</description>
+			<pubDate>Mon, 12 Feb 2024 08:30:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Laurie/Layne/2024-02-12 08:30:02</guid>
 		</item>
 	</channel>
 </rss>

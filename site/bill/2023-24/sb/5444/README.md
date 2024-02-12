@@ -9,6 +9,8 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/09/2024 [NW News Network](/org/nw_news_network/) - [Passing bills, bills, bills: Highlights from week 5 in the WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2024-02-09/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%205444)
+* 02/09/2024 [KUOW](/org/kuow/) - [KUOW - Passing bills, bills, bills: Highlights from week 5 in the WA Legislature](https://www.kuow.org/stories/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%205444)
 * 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=SSB%205444)
 * 01/20/2024 [NW News Network](/org/nw_news_network/) - [AI, guns, and initiatives: highlights from Week 2 of Washington's 2024 legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-19/ai-guns-and-initiatives-highlights-from-week-2-of-washingtons-2024-legislative-session#:~:text=Senate%20Bill%205444)
 * 01/16/2024 [MyNorthwest](/org/mynorthwest/) - [Rantz: Democrats' bill effectively ends self-defense at dangerous bus stops - MyNorthwest.com](https://mynorthwest.com/3946578/rantz-democrats-bill-effectively-ends-self-defense-at-dangerous-bus-stops/#:~:text=SB%205444)

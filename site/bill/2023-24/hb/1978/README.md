@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/10/2024 [House Democrats](/org/house_democrats/) - [Rule bill about mutual aid concerning emergency services passes House unanimously  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/10/rule-bill-about-mutual-aid-concerning-emergency-services-passes-house-unanimously/#:~:text=House%20Bill%201978)
+
 ## Meetings
 ### Thu 02/15 06:00 PM - State Government & Elections (SGE): HB 1978 Intrastate mutual aid system
 Sign up to testify:

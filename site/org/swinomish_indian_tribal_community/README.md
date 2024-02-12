@@ -40,6 +40,8 @@
 ## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands. 👍1  
 * 👍 JJ Wilbur
 
+## [SB 5884](/bill/2023-24/sb/5884/) - Concerning court-ordered restitution in environmental criminal cases. 👍1  
+
 ## [SB 5892](/bill/2023-24/sb/5892/) - Concerning diseased elk.  👎1 
 
 ## [SB 6011](/bill/2023-24/sb/6011/) - Tribal interlocal agreements 👍1  

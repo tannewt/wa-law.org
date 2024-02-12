@@ -10,6 +10,9 @@
 * [Engrossed Second Substitute](S2.E/)
 * [2nd Engrossed 2nd Substitute](S2.E2/)
 
+## 📰 Articles
+* 02/09/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 12 - 16, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-12-16-2024/#:~:text=SB%205580)
+
 ## Meetings
 ### Wed 02/14 01:30 PM - Health Care & Wellness (HCW): 2E2SSB 5580 Maternal health outcomes
 Sign up to testify:

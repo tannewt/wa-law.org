@@ -10,6 +10,7 @@
 * [Third Substitute](S3/)
 
 ## 📰 Articles
+* 02/12/2024 [House Democrats](/org/house_democrats/) - [House Passes Ortiz-Self Bill to Embrace Multilingualism – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/12/house-passes-ortiz-self-bill-to-embrace-multilingualism/#:~:text=House%20Bill%201228)
 * 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=HB%201228)
 * 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=HB%201228)
 * 01/29/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Committee Passes Bill Expanding Dual Language & Tribal Language Education – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/29/legislative-news-committee-passes-bill-expanding-dual-language-tribal-language-education/#:~:text=House%20Bill%201228)

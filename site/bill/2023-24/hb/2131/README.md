@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 02/10/2024 [House Democrats](/org/house_democrats/) - [Ramel Bill Clears Obstacles for Exploring Thermal Energy Networks  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/10/ramel-bill-clears-obstacles-for-exploring-thermal-energy-networks/#:~:text=House%20Bill%202131)
+
 ## Meetings
 ### Thu 02/01 08:00 AM - Capital Budget (CB): SHB 2131 Thermal energy networks
 #### 304 👍 - Pro

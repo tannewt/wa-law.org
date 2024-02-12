@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/10/2024 [House Democrats](/org/house_democrats/) - [House passes Stonier bill guaranteeing sanitary conditions for workers who menstruate, lactate, or express milk – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/10/house-passes-stonier-bill-guaranteeing-sanitary-conditions-for-workers-who-menstruate-lactate-or-express-milk/#:~:text=HB%202266)
 * 01/28/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/28/the-house-hot-sheet-for-week-4-of-the-2024-legislative-session/#:~:text=HB%202266)
 
 ## Meetings

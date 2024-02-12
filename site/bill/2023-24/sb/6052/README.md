@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/09/2024 [NW News Network](/org/nw_news_network/) - [Passing bills, bills, bills: Highlights from week 5 in the WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2024-02-09/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%206052)
+* 02/09/2024 [KUOW](/org/kuow/) - [KUOW - Passing bills, bills, bills: Highlights from week 5 in the WA Legislature](https://www.kuow.org/stories/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%206052)
 * 02/08/2024 [MyNorthwest](/org/mynorthwest/) - [Sputtering out: Push for state gas price transparency fails in legislature - MyNorthwest.com](https://mynorthwest.com/3949893/sputtering-out-gas-price-transparency-fails-legislature/#:~:text=Senate%20Bill%206052)
 * 01/18/2024 [MyNorthwest](/org/mynorthwest/) - [Hearing on Inslee plan to compel oil firm transparency prompts accusations - MyNorthwest.com](https://mynorthwest.com/3946966/hearing-inslee-plan-compel-oil-company-price-transparency-gets-heated/#:~:text=Senate%20Bill%206052)
 * 01/14/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 2: MLK, education, gas price transparency - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/14/this-week-in-the-senate-week-2-mlk-education-gas-price-transparency/#:~:text=Senate%20Bill%206052)

@@ -7,4 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/10/2024 [Cascadia Daily News](/org/cascadia_daily_news/) - [Washington looks to put its most famous volcano on a specialty license plate | Cascadia Daily News](https://www.cascadiadaily.com/2024/feb/10/washington-looks-to-put-its-most-famous-volcano-on-a-specialty-license-plate/#:~:text=House%20Bill%202489)
+
 ## Meetings

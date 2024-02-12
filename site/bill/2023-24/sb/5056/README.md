@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/09/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 12 - 16, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-12-16-2024/#:~:text=SB%205056)
 * 01/18/2024 [Gorge News Center](/org/gorge_news_center/) - [Senate passes Padden bill to keep repeat property offenders behind bars longer](https://gorgenewscenter.com/2024/01/18/senate-passes-padden-bill-to-keep-repeat-property-offenders-behind-bars-longer/#:~:text=Senate%20Bill%205056)
 * 02/10/2023 [The Center Square](/org/the_center_square/) - [Spokane Valley senator wants to crack down on property crime | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9cb2cd98-a99d-11ed-a0e0-0b2a1eef2c8e.html#:~:text=SB%205056)
 
@@ -19,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=158844&caId=23935&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=158844&caId=23935&tId=4)
 
-#### 64 👍 - Pro
+#### 81 👍 - Pro
 Testifying:
 * Andrew Rolwes - Downtown Spokane Partnership
 * Chud Wendle - Hutton Settlement

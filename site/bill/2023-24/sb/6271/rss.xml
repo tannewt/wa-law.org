@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6271/</link>
 		<description>Updates about SB 6271</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 06 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 11 Feb 2024 12:01:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -105,6 +105,20 @@
 			<pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-06/First reading, referred to Regulated Substances &amp; Gaming.</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Feb. 12 - 16, 2024 | Washington State House Republicans</title>
+			<description>News article &quot;The Week Ahead: Feb. 12 - 16, 2024 | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Fri, 09 Feb 2024 22:05:01 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-feb-12-16-2024/#:~:text=SB%206271</guid>
+		</item>
+		<item>
+			<title>Don’t delay legislation on high-potency cannabis | The Seattle Times</title>
+			<description>News article &quot;Don’t delay legislation on high-potency cannabis | The Seattle Times&quot; from The Seattle Times.</description>
+			<pubDate>Sun, 11 Feb 2024 12:01:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.seattletimes.com/opinion/editorials/dont-delay-legislation-on-high-potency-cannabis/#:~:text=Senate%20Bill%206271</guid>
 		</item>
 	</channel>
 </rss>

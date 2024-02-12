@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/09/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 12 - 16, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-12-16-2024/#:~:text=SB%205935)
 * 02/07/2024 [KIRO7](/org/kiro7/) - [New bill would further curb noncompete clauses for workers across Washington – KIRO 7 News Seattle](https://www.kiro7.com/news/local/new-bill-would-further-curb-noncompete-clauses-workers-across-washington/POGVK5NKLRFQLCOSUD736GLMAQ/#:~:text=SB%205935)
 * 02/07/2024 [Senate Democrats](/org/senate_democrats/) - [Stanford bill limiting noncompetition contracts passes Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/06/stanford-bill-limiting-noncompetition-contracts-passes-senate/#:~:text=SB%205935)
 
@@ -19,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158975&caId=23970&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158975&caId=23970&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 
 #### 1 👎 - Con
 

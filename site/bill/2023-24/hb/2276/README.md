@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/10/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. Corry relieved property tax increase bill failed, but warns Democrats still have many other bills that will cost you](https://gorgenewscenter.com/2024/02/10/rep-corry-relieved-property-tax-increase-bill-failed-but-warns-democrats-still-have-many-other-bills-that-will-cost-you/#:~:text=HB%202276)
 * 02/02/2024 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [What is REET and Why Do We Need to Reform It? - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/washington-reet-reform-changes/#:~:text=HB%202276,)
 * 01/18/2024 [House Democrats](/org/house_democrats/) - [Berg bill to provide predictable, sustainable funding for affordable housing heard in House Finance Committee – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/18/berg-bill-to-provide-predictable-sustainable-funding-for-affordable-housing-heard-in-house-finance-committee/#:~:text=House%20Bill%202276)
 * 01/15/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/15/the-house-hot-sheet-for-week-2-of-the-2024-legislative-session/#:~:text=HB%202276)

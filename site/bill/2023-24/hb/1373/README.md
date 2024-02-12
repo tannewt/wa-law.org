@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/11/2024 [House Republicans](/org/house_republicans/) - [Fix the housing and homelessness crisis | Washington State House Republicans](http://houserepublicans.wa.gov/current/fix-the-housing-and-homelessness-crisis/#:~:text=House%20Bill%201373)
 * 01/16/2024 [House Republicans](/org/house_republicans/) - [Fix the housing & homelessness crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/housing/#:~:text=House%20bill%201373)
 * 01/15/2024 [House Republicans](/org/house_republicans/) - [Fix the education crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/education/#:~:text=House%20bill%201373)
 * 01/14/2024 [House Republicans](/org/house_republicans/) - [Fix the drug crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/drugs/#:~:text=House%20bill%201373)

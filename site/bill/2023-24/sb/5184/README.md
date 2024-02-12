@@ -17,12 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159050&caId=24069&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159050&caId=24069&tId=4)
 
-#### 164 👍 - Pro
+#### 404 👍 - Pro
 
-#### 69 👎 - Con
+#### 177 👎 - Con
 Testifying:
 * Colin Calico
 * Mary Harris
+* Taranjeet Rathore
+* Matt Elder
+* Chintan Patel - Johns Hopkins university
 
 #### 0 ❓ - Other
 

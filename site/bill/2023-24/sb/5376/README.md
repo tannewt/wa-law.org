@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/09/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 12 - 16, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-12-16-2024/#:~:text=SB%205376)
+
 ## Meetings
 ### Wed 02/14 10:30 AM - Regulated Substances & Gaming (RSG): SSB 5376 Cannabis waste
 Sign up to testify:
@@ -15,7 +18,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31941&aId=158911&caId=23979&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31941&aId=158911&caId=23979&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
 
 #### 1 👎 - Con
 

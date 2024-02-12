@@ -15,9 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31909&aId=159142&caId=24097&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31909&aId=159142&caId=24097&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * 💵Ishbel Dickens - Assoc of Manufactured Home Owners
+* 💵Mike Hoover - [Detente Management](/org/detente_management/)
+* Victoria OBanion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
 
 #### 0 👎 - Con
 

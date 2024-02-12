@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/09/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 12 - 16, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-12-16-2024/#:~:text=SB%205462)
 * 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=Senate%20Bill%205462)
 * 01/26/2024 [The Seattle Times](/org/the_seattle_times/) - [WA could require public schools teach LGBTQ+ history under proposed bill | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-could-require-public-schools-teach-lgbtq-history-under-proposed-bill/#:~:text=Senate%20Bill%205462)
 * 01/17/2024 [Senate Democrats](/org/senate_democrats/) - [Liias’ inclusive learning bill approved by Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/17/liias-inclusive-learning-bill-approved-by-senate/#:~:text=SB%205462)
@@ -29,11 +30,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=158889&caId=23946&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=158889&caId=23946&tId=4)
 
-#### 255 👍 - Pro
+#### 291 👍 - Pro
 Testifying:
 * Devon Kellogg - Washington State PTA
+* Vienna Pham - Lake Washington High School AP Government
+* Sophia Claiborne
+* Mia Karlinsky
 
-#### 1345 👎 - Con
+#### 1551 👎 - Con
 Testifying:
 * Trish Huddleston
 * Britney Inglis
@@ -52,7 +56,9 @@ Testifying:
 * Betsy Foster - Nope
 * Nikki Farnsworth
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Anna Hernandez-French - Office of Superintendent of Public Instruction
 
 ### Mon 03/13 01:30 PM - Education (ED): ESB 5462 Inclusive learning standards
 #### 148 👍 - Pro

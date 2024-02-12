@@ -17,6 +17,8 @@
 * 👍 Johanna Standish
 * 👍 Kristine Kraig
 
+## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍1  
+
 ## [HB 1985](/bill/2023-24/hb/1985/) - PERS/TRS 1 benefit increase 👍20  
 * 👍 Nancy Heley
 * 👍 Claude Burfect

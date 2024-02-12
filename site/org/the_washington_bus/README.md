@@ -26,7 +26,7 @@
 
 ## [HB 1889](/bill/2023-24/hb/1889/) - Professionals/immigration 👍1  
 
-## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍2  
+## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍3  
 * 👍💵 Jazmine Smith
 
 ## [HB 2030](/bill/2023-24/hb/2030/) - Revoking a person's voting rights only when convicted of a state crime punishable by death. 👍1  

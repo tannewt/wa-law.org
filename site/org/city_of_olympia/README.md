@@ -79,7 +79,7 @@
 
 ## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍1  
 
-## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍1  
+## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍2  
 
 ## [HB 1998](/bill/2023-24/hb/1998/) - Co-living housing 👍1  
 
@@ -145,7 +145,7 @@
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍2  
 
-## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍2  
 

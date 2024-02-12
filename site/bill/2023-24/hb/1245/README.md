@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/11/2024 [House Republicans](/org/house_republicans/) - [Fix the housing and homelessness crisis | Washington State House Republicans](http://houserepublicans.wa.gov/current/fix-the-housing-and-homelessness-crisis/#:~:text=House%20Bill%201245)
 * 02/05/2024 [The Seattle Times](/org/the_seattle_times/) - [With tweaks, rent limit proposal forges ahead in WA House | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/with-tweaks-rent-limit-proposal-forges-ahead-in-wa-house/#:~:text=House%20Bill%201245)
 * 01/16/2024 [House Republicans](/org/house_republicans/) - [Fix the housing & homelessness crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/housing/#:~:text=House%20bill%201245)
 * 01/09/2024 [Crosscut](/org/crosscut/) - [Housing density bill passes WA House on day one of 2024 session | Crosscut](https://crosscut.com/briefs/2024/01/housing-density-bill-passes-wa-house-day-one-2024-session#:~:text=voted%2094-4%20to%20pass%20House%20Bill%201245)

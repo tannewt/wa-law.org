@@ -30,9 +30,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159102&caId=24074&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159102&caId=24074&tId=4)
 
-#### 9 👍 - Pro
+#### 15 👍 - Pro
 
-#### 331 👎 - Con
+#### 477 👎 - Con
 Testifying:
 * Jeannette Mcchesney
 * James Ware

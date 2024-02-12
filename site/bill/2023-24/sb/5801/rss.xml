@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5801/</link>
 		<description>Updates about SB 5801</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 02 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Feb 2024 08:25:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -79,6 +79,22 @@
 			<pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-02/First reading, referred to Consumer Protection &amp; Business.</guid>
+		</item>
+		<item>
+			<title>👍Kari Bearman - Uniform Law Commission</title>
+			<description>Kari Bearman signed up to testify Pro. They are signed up to represent Uniform Law Commission.</description>
+			<pubDate>Mon, 12 Feb 2024 08:25:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kari/Bearman/2024-02-12 08:25:27</guid>
+		</item>
+		<item>
+			<title>👍Michael Wiseman - Reporter to the Uniform Special Deposits Act Drafting Committee</title>
+			<description>Michael Wiseman signed up to testify Pro. They are signed up to represent Reporter to the Uniform Special Deposits Act Drafting Committee.</description>
+			<pubDate>Mon, 12 Feb 2024 08:25:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Michael/Wiseman/2024-02-12 08:25:27</guid>
 		</item>
 	</channel>
 </rss>

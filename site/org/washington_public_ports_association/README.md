@@ -266,7 +266,7 @@
 
 ## [SB 6055](/bill/2023-24/sb/6055/) - Natural resource indus. dev. 👍1  
 
-## [SB 6080](/bill/2023-24/sb/6080/) - Tourism marketing funding 👍1  
+## [SB 6080](/bill/2023-24/sb/6080/) - Tourism marketing funding 👍2  
 
 ## [SB 6168](/bill/2023-24/sb/6168/) - International leadership 👍1  
 

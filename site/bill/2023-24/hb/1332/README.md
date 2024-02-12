@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/11/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 6: Floor wraps up and budgets start to emerge - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/11/this-week-in-the-senate-week-6-floor-wraps-up-and-budgets-start-to-emerge/#:~:text=House%20Bill%201332)
 * 03/08/2023 [House Democrats](/org/house_democrats/) - [House passes Lekanoff tribal k-12 curriculum bill – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/08/house-passes-lekanoff-tribal-k-12-curriculum-bill/#:~:text=House%20Bill%201332)
 * 02/27/2023 [Washington St Pta](/org/washington_st_pta/) - [Many Bills End Their Journey in 2023 with Fiscal Cutoff - WSPTA](https://www.wastatepta.org/many-bills-end-their-journey-in-2023-with-fiscal-cutoff/#:~:text=2SHB%201332)
 * 02/20/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Local lawmakers advance bills on environment, children | Cascadia Daily News](https://www.cascadiadaily.com/2023/feb/20/local-lawmakers-advance-bills-on-environment-children/#:~:text=House%20Bill%201332)
@@ -26,9 +27,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31906&aId=158993&caId=23989&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31906&aId=158993&caId=23989&tId=4)
 
-#### 69 👍 - Pro
+#### 79 👍 - Pro
 Testifying:
 * Bill Kallappa - [Washington State Board of Education](/org/washington_state_board_of_education/)
+* Image Morris-Enick - Student and tribal member
+* Willard Bill Jr. - Office of Superintendent of Public Instruction
 
 #### 2 👎 - Con
 

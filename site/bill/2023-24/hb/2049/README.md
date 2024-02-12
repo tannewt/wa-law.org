@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/10/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. Corry relieved property tax increase bill failed, but warns Democrats still have many other bills that will cost you](https://gorgenewscenter.com/2024/02/10/rep-corry-relieved-property-tax-increase-bill-failed-but-warns-democrats-still-have-many-other-bills-that-will-cost-you/#:~:text=HB%202049)
 * 01/31/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Current Status of Priority Bills — Quaker Voice](https://www.quakervoicewa.org/2024-current-status-of-priority-bills/#:~:text=HB%202049)
 * 01/24/2024 [The Center Square](/org/the_center_square/) - [Trash talk: Legislation intends to boost Washington state’s recycling rate | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_2967b294-baff-11ee-a57a-9357d74e4990.html#:~:text=House%20Bill%202049)
 * 01/20/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Quaker Voice Priorities — Quaker Voice](https://www.quakervoicewa.org/2024-quaker-voice-priorities/#:~:text=HB%202049)

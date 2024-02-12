@@ -17,16 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159095&caId=24030&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159095&caId=24030&tId=4)
 
-#### 51 👍 - Pro
+#### 54 👍 - Pro
 
-#### 5 👎 - Con
+#### 338 👎 - Con
 Testifying:
 * Laurie Layne
 * Tim Eyman - Initiative Activist
 * Tim Eyman - Initiative Activist
 * Jeff Heckathorn
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 02/13 04:00 PM - Appropriations (APP): SHB 1272 Voters' pamphlets
 #### 51 👍 - Pro

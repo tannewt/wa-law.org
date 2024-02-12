@@ -7,6 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/11/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 6: Floor wraps up and budgets start to emerge - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/11/this-week-in-the-senate-week-6-floor-wraps-up-and-budgets-start-to-emerge/#:~:text=House%20Bill%202224)
+* 02/10/2024 [House Democrats](/org/house_democrats/) - [Rule bill to keep our kids safe passes the House with strong bipartisan support – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/10/rule-bill-to-keep-our-kids-safe-passes-the-house-with-strong-bipartisan-support/#:~:text=2224)
+
 ## Meetings
 ### Thu 02/15 08:00 AM - Human Services (HS): SHB 2224 Child abuse referral tool
 Sign up to testify:
@@ -15,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31938&aId=159025&caId=24008&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31938&aId=159025&caId=24008&tId=4)
 
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * 💵Emily Stochel - [College Success Foundation](/org/college_success_foundation/)
 * 💵Erica Hallock - [Family Impact Network](/org/family_impact_network/)

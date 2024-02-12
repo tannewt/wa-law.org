@@ -65,7 +65,7 @@
 
 ## [SB 5649](/bill/2023-24/sb/5649/) - Floodproofing improvements 👍1  
 
-## [SB 5970](/bill/2023-24/sb/5970/) - Local boards of health 👍1  
+## [SB 5970](/bill/2023-24/sb/5970/) - Local boards of health 👍2  
 
 ## [SB 6120](/bill/2023-24/sb/6120/) - Wildland urban interface 👍1  
 

@@ -27,13 +27,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159098&caId=24033&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159098&caId=24033&tId=4)
 
-#### 26 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * Sydney Krebsbach - Washington State Developmental Disabilities Council
 * John Lemus
 * 💵Shawn Latham - Self Advocates In Leadership
 
-#### 0 👎 - Con
+#### 341 👎 - Con
 
 #### 0 ❓ - Other
 

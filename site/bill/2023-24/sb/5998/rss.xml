@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5998/</link>
 		<description>Updates about SB 5998</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 08 Feb 2024 01:01:25 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 09 Feb 2024 22:05:01 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -110,6 +110,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Quinton/Baker/2024-02-08 01:01:25</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Feb. 12 - 16, 2024 | Washington State House Republicans</title>
+			<description>News article &quot;The Week Ahead: Feb. 12 - 16, 2024 | Washington State House Republicans&quot; from House Republicans.</description>
+			<pubDate>Fri, 09 Feb 2024 22:05:01 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-feb-12-16-2024/#:~:text=SB%205998</guid>
 		</item>
 	</channel>
 </rss>

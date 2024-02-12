@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/09/2024 [NW News Network](/org/nw_news_network/) - [Passing bills, bills, bills: Highlights from week 5 in the WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2024-02-09/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%205241)
+* 02/09/2024 [KUOW](/org/kuow/) - [KUOW - Passing bills, bills, bills: Highlights from week 5 in the WA Legislature](https://www.kuow.org/stories/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%205241)
 * 02/09/2024 [Senate Democrats](/org/senate_democrats/) - [Senate passes Keep Our Care Act - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/08/senate-passes-keep-our-care-act/#:~:text=Senate%20Bill%205241)
 * 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=Senate%20Bill%205241)
 * 01/04/2024 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Legislative Agenda 2024 | ACLU of Washington](http://www.aclu-wa.org/pages/legislative-agenda-2024#:~:text=SB%205241)
@@ -34,11 +36,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31953&aId=159127&caId=24080&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31953&aId=159127&caId=24080&tId=4)
 
-#### 112 👍 - Pro
+#### 238 👍 - Pro
+Testifying:
+* Danni Askini - Gender Justice League
 
-#### 15 👎 - Con
+#### 390 👎 - Con
 Testifying:
 * Steven Kaptik - Washington Gastroenterology; Washington Independent Physican Practice Association
+* Gabriel Jacobs
 
 #### 0 ❓ - Other
 

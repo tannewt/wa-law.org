@@ -28,7 +28,9 @@ Testifying:
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Cindy McMullen - Washington State School Directors' Association
 
 ### Sat 02/03 09:00 AM - Ways & Means (WM): SSB 5849 Computer science/graduation
 #### 3 👍 - Pro

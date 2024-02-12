@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/10/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. Corry relieved property tax increase bill failed, but warns Democrats still have many other bills that will cost you](https://gorgenewscenter.com/2024/02/10/rep-corry-relieved-property-tax-increase-bill-failed-but-warns-democrats-still-have-many-other-bills-that-will-cost-you/#:~:text=HB%202114)
 * 02/06/2024 [Senate Democrats](/org/senate_democrats/) - [Joint statement from chairs of Members of Color caucuses on rent stabilization - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/06/joint-statement-from-chairs-of-members-of-color-caucuses-on-rent-stabilization/#:~:text=HB%202114)
 * 02/06/2024 [Cascadia Daily News](/org/cascadia_daily_news/) - [Local, state reps agree: Rent stabilization is both necessary and popular with voters | Cascadia Daily News](https://www.cascadiadaily.com/2024/feb/06/local-state-reps-agree-rent-stabilization-is-both-necessary-and-popular-with-voters/#:~:text=HB%202114)
 * 02/06/2024 [House Democrats](/org/house_democrats/) - [Joint statement from chairs of Members of Color caucuses on rent stabilization – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/06/joint-statement-from-chairs-of-members-of-color-caucuses-on-rent-stabilization/#:~:text=HB%202114)

@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/09/2024 [House Democrats](/org/house_democrats/) - [House Passes Thai Bill Protecting Providers, Safeguarding Reproductive Healthcare Access – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/09/protecting-providers-safeguarding-reproductive-healthcare-access/#:~:text=House%20Bill%202115)
 * 01/08/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/08/the-house-hot-sheet-for-week-1-of-the-2024-legislative-session/#:~:text=HB%202115)
 
 ## Meetings
@@ -19,11 +20,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=159111&caId=24035&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=159111&caId=24035&tId=4)
 
-#### 26 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * Lily Jensen
 
-#### 602 👎 - Con
+#### 656 👎 - Con
 Testifying:
 * Theresa Schrempp
 

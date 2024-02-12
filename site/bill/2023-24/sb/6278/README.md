@@ -15,11 +15,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31920&aId=159038&caId=24063&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31920&aId=159038&caId=24063&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Harold Austin - CORA Governing Council Member
+* Mike Dill - Organically Grown Company
+* Melissa Spear - Tilth Alliance and Coalition for Organic and Regenerative Agriculture
+* Melissa Spear - [Tilth Alliance](/org/tilth_alliance/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Brenda Book - Washington State Dept. of Agriculture Organic Program
 
 ### Thu 01/25 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 6278 Organic agriculture
 #### 907 👍 - Pro

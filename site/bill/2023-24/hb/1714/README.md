@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/10/2024 [House Democrats](/org/house_democrats/) - [Rep. Stonier’s financial education bill passes the House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/10/rep-stoniers-financial-education-bill-passes-the-house/#:~:text=House%20Bill%201714)
+
 ## Meetings
 ### Wed 02/14 10:30 AM - Early Learning & K-12 Education (EDU): EHB 1714 Financial literacy grants
 Sign up to testify:

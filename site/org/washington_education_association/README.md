@@ -679,6 +679,8 @@
 
 ## [SB 5240](/bill/2023-24/sb/5240/) - Unemployment ins. appeals 👍1  
 
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
+
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍1  
 
 ## [SB 5243](/bill/2023-24/sb/5243/) - High school and beyond plans 👍2  
@@ -747,6 +749,8 @@
 ## [SB 5421](/bill/2023-24/sb/5421/) - Benefit enrollment info. 👍1  
 
 ## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍1  
+
+## [SB 5424](/bill/2023-24/sb/5424/) - Flexible work/peace officers 👍1  
 
 ## [SB 5425](/bill/2023-24/sb/5425/) - Fire sprinkler contractors 👍1  
 
@@ -874,13 +878,15 @@
 
 ## [SB 5777](/bill/2023-24/sb/5777/) - Unemp ins/strikes & lockouts 👍1  
 
-## [SB 5778](/bill/2023-24/sb/5778/) - Employer political speech 👍1  
+## [SB 5778](/bill/2023-24/sb/5778/) - Employer political speech 👍2  
 
 ## [SB 5790](/bill/2023-24/sb/5790/) - Bleeding control/schools 👍1  
 
 ## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave 👍1  
 
 ## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose/high schools 👍1  
+
+## [SB 5808](/bill/2023-24/sb/5808/) - Safety telecom/interest arb. 👍1  
 
 ## [SB 5809](/bill/2023-24/sb/5809/) - Charter schools/enrichment  👎2 
 * 👎💵 Julie Salvi
@@ -945,7 +951,7 @@
 
 ## [SB 5932](/bill/2023-24/sb/5932/) - Temporary total disability 👍1  
 
-## [SB 5935](/bill/2023-24/sb/5935/) - Noncompetition covenants 👍1  
+## [SB 5935](/bill/2023-24/sb/5935/) - Noncompetition covenants 👍2  
 
 ## [SB 5946](/bill/2023-24/sb/5946/) - Fallen firefighter memorial 👍1  
 
@@ -978,7 +984,7 @@
 
 ## [SB 6000](/bill/2023-24/sb/6000/) - Military service credit 👍1  
 
-## [SB 6007](/bill/2023-24/sb/6007/) - Grocery workers 👍1  
+## [SB 6007](/bill/2023-24/sb/6007/) - Grocery workers 👍2  
 
 ## [SB 6012](/bill/2023-24/sb/6012/) - Teacher preparation programs 👍1  
 * 👍💵 Simone Boe
@@ -992,7 +998,7 @@
 
 ## [SB 6031](/bill/2023-24/sb/6031/) - Student transp. allocation   ❓1
 
-## [SB 6060](/bill/2023-24/sb/6060/) - Electronic signatures/PERC 👍1  
+## [SB 6060](/bill/2023-24/sb/6060/) - Electronic signatures/PERC 👍2  
 
 ## [SB 6072](/bill/2023-24/sb/6072/) - LTSS commission recs. 👍1  
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5904/</link>
 		<description>Updates about SB 5904</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 10 Feb 2024 00:07:45 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -261,6 +261,13 @@
 			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-09/Third reading, passed; yeas, 34; nays, 14; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>Senate passes Nobles bill aligning eligibility time frames across state, federal financial aid programs - Washington Senate Democrats</title>
+			<description>News article &quot;Senate passes Nobles bill aligning eligibility time frames across state, federal financial aid programs - Washington Senate Democrats&quot; from Senate Democrats.</description>
+			<pubDate>Sat, 10 Feb 2024 00:07:45 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2024/02/09/senate-passes-nobles-bill-aligning-eligibility-time-frames-across-state-federal-financial-aid-programs/#:~:text=Senate%20Bill%205904</guid>
 		</item>
 	</channel>
 </rss>

@@ -10,6 +10,10 @@
 * [Third Substitute](S3/)
 
 ## 📰 Articles
+* 02/11/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 6: Floor wraps up and budgets start to emerge - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/11/this-week-in-the-senate-week-6-floor-wraps-up-and-budgets-start-to-emerge/#:~:text=House%20Bill%201579)
+* 02/09/2024 [NW News Network](/org/nw_news_network/) - [Passing bills, bills, bills: Highlights from week 5 in the WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2024-02-09/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=House%20Bill%201579)
+* 02/09/2024 [The Center Square](/org/the_center_square/) - [Critics: Police deadly use of force bill will worsen Washington staffing crisis | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_46f0d452-c78a-11ee-982c-6bc7a75f6a4e.html#:~:text=House%20Bill%201579)
+* 02/09/2024 [KUOW](/org/kuow/) - [KUOW - Passing bills, bills, bills: Highlights from week 5 in the WA Legislature](https://www.kuow.org/stories/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Bill%201579)
 * 02/07/2024 [MyNorthwest](/org/mynorthwest/) - [Police accused of deadly force face independent prosecutions in bill - MyNorthwest.com](https://mynorthwest.com/3949659/police-accused-deadly-force-face-independent-prosecutions-revised-bill/#:~:text=HB%201579)
 * 02/06/2024 [House Democrats](/org/house_democrats/) - [House passes Stonier bill establishing independent prosecutor – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/06/house-passes-stonier-bill-establishing-independent-prosecutor/#:~:text=House%20Bill%201579)
 * 12/14/2023 [The Center Square](/org/the_center_square/) - ['Worst case scenario' estimate used by Washington AGO for police prosecution bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b36914da-9a00-11ee-a91f-0f5aff45928d.html#:~:text=House%20Bill%201579)
@@ -26,8 +30,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158987&caId=23923&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158987&caId=23923&tId=4)
 
-#### 199 👍 - Pro
+#### 222 👍 - Pro
 Testifying:
+* Fred Thomas - WA Coalition for Police Accountability
 * Debbie Novak - WA Coalition for Police Accountability
 * Sonia Joseph - WA Coalition for Police Accountability
 * 💵Katrina Johnson - WA Coalition for Police Accountability

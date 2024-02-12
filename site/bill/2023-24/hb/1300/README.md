@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 02/09/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Fertility Fraud Legislation Passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/09/legislative-news-fertility-fraud-legislation-passes-house/#:~:text=House%20Bill%201300)
+
 ## Meetings
 ### Mon 02/20 01:30 PM - Appropriations (APP): HB 1300 Assisted reproduction fraud
 #### 11 👍 - Pro

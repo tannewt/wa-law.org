@@ -23,7 +23,8 @@
 
 ## [SB 5649](/bill/2023-24/sb/5649/) - Floodproofing improvements 👍2  
 
-## [SB 6140](/bill/2023-24/sb/6140/) - Intensive rural development 👍1  
+## [SB 6140](/bill/2023-24/sb/6140/) - Intensive rural development 👍2  
+* 👍 Mindy Brooks
 * 👍 Mindy Brooks
 
 ## [SB 6150](/bill/2023-24/sb/6150/) - Comprehensive plan revisions 👍1  

@@ -55,7 +55,7 @@
 
 ## [SB 5871](/bill/2023-24/sb/5871/) - Definition of veteran 👍2  
 
-## [SB 6105](/bill/2023-24/sb/6105/) - Adult entertainment workers 👍2  
+## [SB 6105](/bill/2023-24/sb/6105/) - Adult entertainment workers 👍4  
 
 ## [SB 6127](/bill/2023-24/sb/6127/) - HIV prophylaxis 👍1  
 

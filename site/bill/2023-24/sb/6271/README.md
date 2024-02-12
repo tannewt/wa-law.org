@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/11/2024 [The Seattle Times](/org/the_seattle_times/) - [Don’t delay legislation on high-potency cannabis | The Seattle Times](https://www.seattletimes.com/opinion/editorials/dont-delay-legislation-on-high-potency-cannabis/#:~:text=Senate%20Bill%206271)
+* 02/09/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 12 - 16, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-12-16-2024/#:~:text=SB%206271)
 * 01/22/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 3: Criminal justice reform, education, tax cuts for housing - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/21/this-week-in-the-senate-week-3-criminal-justice-reform-education-tax-cuts-for-housing/#:~:text=SB%206271))
 
 ## Meetings

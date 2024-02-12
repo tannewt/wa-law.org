@@ -1,7 +1,8 @@
 # Historic South Downtown
 
-## [HB 1510](/bill/2023-24/hb/1510/) - Community preservation auth. 👍1  
+## [HB 1510](/bill/2023-24/hb/1510/) - Community preservation auth. 👍2  
 * 👍 Kathleen Johnson
+* 👍 Kathleen Barry Johnson
 
 ## [HB 1847](/bill/2023-24/hb/1847/) - Community authority/tax 👍6  
 * 👍 Derek Lum

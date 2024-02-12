@@ -87,7 +87,7 @@
 
 ## [HB 2136](/bill/2023-24/hb/2136/) - Prevailing wage sanctions 👍1  
 
-## [HB 2224](/bill/2023-24/hb/2224/) - Child abuse referral tool 👍1  
+## [HB 2224](/bill/2023-24/hb/2224/) - Child abuse referral tool 👍2  
 
 ## [HB 2246](/bill/2023-24/hb/2246/) - Vacation leave accrual 👍2  
 * 👍 Kati Durkin
@@ -182,7 +182,7 @@
 
 ## [SB 6007](/bill/2023-24/sb/6007/) - Grocery workers 👍1  
 
-## [SB 6060](/bill/2023-24/sb/6060/) - Electronic signatures/PERC 👍1  
+## [SB 6060](/bill/2023-24/sb/6060/) - Electronic signatures/PERC 👍2  
 
 ## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍1  
 
@@ -202,3 +202,5 @@
 
 ## [SB 6273](/bill/2023-24/sb/6273/) - Juvenile rehab. audit 👍1  
 * 👍💵 Nicole Gomez
+
+## [SB 6301](/bill/2023-24/sb/6301/) - Basic law enf. academy 👍1  

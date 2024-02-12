@@ -8,6 +8,19 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Thu 02/15 08:00 AM - Human Services (HS): SHB 2287 Corrections ombuds adv board
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31938&aId=159209&caId=24131&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31938&aId=159209&caId=24131&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31938&aId=159209&caId=24131&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31938&aId=159209&caId=24131&tId=4)
+
+#### 4 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/22 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 2287 Corrections ombuds adv board
 #### 71 👍 - Pro
 Testifying:

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6109/</link>
 		<description>Updates about SB 6109</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Feb 2024 10:40:48 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -358,6 +358,14 @@
 			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-09/Third reading, passed; yeas, 42; nays, 7; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>👍Chelsea Burroughs - WFSE Member</title>
+			<description>Chelsea Burroughs signed up to testify Pro. They are signed up to represent WFSE Member.</description>
+			<pubDate>Mon, 12 Feb 2024 10:40:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Chelsea/Burroughs/2024-02-12 10:40:48</guid>
 		</item>
 	</channel>
 </rss>

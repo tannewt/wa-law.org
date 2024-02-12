@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/09/2024 [NW News Network](/org/nw_news_network/) - [Passing bills, bills, bills: Highlights from week 5 in the WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2024-02-09/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%206298)
+* 02/09/2024 [KUOW](/org/kuow/) - [KUOW - Passing bills, bills, bills: Highlights from week 5 in the WA Legislature](https://www.kuow.org/stories/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%206298)
 * 02/08/2024 [Wenatchee World](/org/wenatchee_world/) - [Washington Senate strikes ‘delicate’ balance on rules for clergy reporting child abuse | Northwest | wenatcheeworld.com](https://www.wenatcheeworld.com/news/northwest/washington-senate-strikes-delicate-balance-on-rules-for-clergy-reporting-child-abuse/article_033c71a0-c701-11ee-9096-b32bd195ac73.html#:~:text=Senate%20Bill%206298)
 * 02/08/2024 [MyNorthwest](/org/mynorthwest/) - [Wash. bill makes clergy mandatory child abuse reporters, with exception - MyNorthwest.com](https://mynorthwest.com/3949948/bill-clergy-become-mandatory-child-abuse-reporters-big-exception/#:~:text=Senate%20Bill%206298’s)
 * 01/30/2024 [MyNorthwest](/org/mynorthwest/) - [Lawmakers arguing whether clergy have a 'duty' to report child abuse - MyNorthwest.com](https://mynorthwest.com/3948408/lawmakers-arguing-clergy-has-duty-report-child-abuse/#:~:text=Senate%20Bill%206298)
@@ -22,9 +24,10 @@ Sign up to testify:
 
 #### 2 👍 - Pro
 
-#### 5 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Theresa Schrempp
+* Rebecca Anderson
 
 #### 0 ❓ - Other
 

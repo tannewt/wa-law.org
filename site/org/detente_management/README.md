@@ -39,5 +39,6 @@
 * 👎 Beau Harer
 * 👎💵 Mike Hoover
 
-## [SB 6059](/bill/2023-24/sb/6059/) - Mobile home community sales 👍1  
+## [SB 6059](/bill/2023-24/sb/6059/) - Mobile home community sales 👍2  
+* 👍💵 Mike Hoover
 * 👍💵 Mike Hoover

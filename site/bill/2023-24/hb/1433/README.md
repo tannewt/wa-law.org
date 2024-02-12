@@ -11,6 +11,7 @@
 * [Engrossed Third Substitute](S3.E/)
 
 ## 📰 Articles
+* 02/10/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. Corry relieved property tax increase bill failed, but warns Democrats still have many other bills that will cost you](https://gorgenewscenter.com/2024/02/10/rep-corry-relieved-property-tax-increase-bill-failed-but-warns-democrats-still-have-many-other-bills-that-will-cost-you/#:~:text=HB%201433)
 * 02/02/2021 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Environmental Stewardship — Quaker Voice](https://www.quakervoicewa.org/environmental-stewardship/#:~:text=HB%201433)
 * 10/09/2017 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Environmental Stewardship Priorities — Quaker Voice](https://www.quakervoicewa.org/environmental-stewardship-priorities/#:~:text=HB%201433)
 

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/12/2024 [The Seattle Times](/org/the_seattle_times/) - [Financial literacy may become a graduation requirement for students | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/financial-literacy-may-become-a-graduation-requirement-for-students/#:~:text=House%20Bill%201915)
 * 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=SHB%201915)
 * 02/03/2024 [House Republicans](/org/house_republicans/) - [Fix the education crisis | Washington State House Republicans](http://houserepublicans.wa.gov/current/fix-the-education-crisis/#:~:text=House%20Bill%201915)
 * 01/16/2024 [Washington St Pta](/org/washington_st_pta/) - [WSPTA Testifies: Students and Leaders Convene in Olympia for Focus on Advocacy Day - WSPTA](https://www.wastatepta.org/wspta-testifies-foa-24/#:~:text=HB%201915)

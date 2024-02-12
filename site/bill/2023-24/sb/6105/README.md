@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/09/2024 [NW News Network](/org/nw_news_network/) - [Passing bills, bills, bills: Highlights from week 5 in the WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2024-02-09/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%206105)
+* 02/09/2024 [KUOW](/org/kuow/) - [KUOW - Passing bills, bills, bills: Highlights from week 5 in the WA Legislature](https://www.kuow.org/stories/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%206105)
 * 02/08/2024 [MyNorthwest](/org/mynorthwest/) - [Wash. Senate quickly repeals 'lewd laws' governing bars, clubs - MyNorthwest.com](https://mynorthwest.com/3949879/wash-senate-makes-quick-work-repealing-lewd-laws-governing-bars-clubs/#:~:text=SB%206105)
 * 02/07/2024 [MyNorthwest](/org/mynorthwest/) - [Adult entertainment bills may affect change in Wash. bar lewd laws - MyNorthwest.com](https://mynorthwest.com/3949725/2-adult-entertainment-bills-could-influence-lewd-laws-governing-state-bars/#:~:text=SB%206105)
 * 02/01/2024 [The Seattle Times](/org/the_seattle_times/) - [WA liquor board suspends ‘lewd conduct’ enforcement after LGBTQ+ bar inspections | The Seattle Times](https://www.seattletimes.com/seattle-news/wa-liquor-board-suspends-lewd-conduct-enforcement-after-lgbtq-bar-inspections/#:~:text=Senate%20Bill%206105)
@@ -24,9 +26,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=159134&caId=24099&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=159134&caId=24099&tId=4)
 
-#### 4 👍 - Pro
+#### 7 👍 - Pro
 
-#### 9 👎 - Con
+#### 16 👎 - Con
 
 #### 0 ❓ - Other
 

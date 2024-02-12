@@ -22,7 +22,11 @@ Testifying:
 * 💵Kevin Schilling - Washington State Dental Association
 * 💵Sheri Call - Washington Trucking Associations
 
-#### 0 👎 - Con
+#### 50 👎 - Con
+Testifying:
+* Albert Helm
+* Dustin Dailey - Putnam & Lieb
+* Scott Allen
 
 #### 0 ❓ - Other
 

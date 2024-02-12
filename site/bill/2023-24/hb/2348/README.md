@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/10/2024 [House Democrats](/org/house_democrats/) - [Street bill providing support to hospital infrastructure passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/10/street-bill-providing-support-to-hospital-infrastructure-passes-house/#:~:text=House%20Bill%202348)
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202348)
 
 ## Meetings
@@ -20,8 +21,9 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
+* Tim Eyman - Initiative Activist
 * Tim Eyman - Initiative Activist
 
 #### 0 ❓ - Other

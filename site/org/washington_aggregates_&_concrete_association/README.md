@@ -16,7 +16,7 @@
 ## [SB 5777](/bill/2023-24/sb/5777/) - Unemp ins/strikes & lockouts  👎1 
 * 👎💵 Cory Shaw
 
-## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD  👎1 
+## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD  👎2 
 * 👎💵 Cory Shaw
 
 ## [SB 5979](/bill/2023-24/sb/5979/) - Concerning accrued leave for construction workers. 👍1  

@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=158923&caId=23959&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=158923&caId=23959&tId=4)
 
-#### 22 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Gregg VandeKieft - WA State Hospice and Palliative Care Organization (WSHPCO)
 * Hope Wetchkin - Evergreen Healthcare

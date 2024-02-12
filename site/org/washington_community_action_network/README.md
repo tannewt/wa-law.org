@@ -15,6 +15,8 @@
 
 ## [SB 5101](/bill/2023-24/sb/5101/) - DOC medical placements 👍1  
 
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
+
 ## [SB 5975](/bill/2023-24/sb/5975/) - Authorizing use of the housing trust fund and other legislative appropriations to finance social housing. 👍1  
 * 👍 Waldo Waldron-Ramsey
 

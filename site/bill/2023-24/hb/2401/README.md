@@ -13,6 +13,19 @@
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202401)
 
 ## Meetings
+### Wed 02/14 08:00 AM - Environment, Energy & Technology (ENET): E2SHB 2401 Refrigerant gases
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31932&aId=159221&caId=24137&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31932&aId=159221&caId=24137&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31932&aId=159221&caId=24137&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31932&aId=159221&caId=24137&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Sat 02/03 09:00 AM - Appropriations (APP): SHB 2401 Refrigerant gases
 #### 18 👍 - Pro
 Testifying:

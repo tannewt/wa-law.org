@@ -26,11 +26,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=159143&caId=24093&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=159143&caId=24093&tId=4)
 
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Carolyn Logue - [Washington State Student Transportation Coalition](/org/washington_state_student_transportation_coalition/)
 
 ### Mon 01/23 04:00 PM - Appropriations (APP): HB 1248 Pupil transportation
 #### 52 👍 - Pro
