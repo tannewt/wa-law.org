@@ -25,10 +25,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159129&caId=24082&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159129&caId=24082&tId=4)
 
-#### 2 👍 - Pro
+#### 5 👍 - Pro
 
-#### 376 👎 - Con
+#### 630 👎 - Con
 Testifying:
+* Liv Finne - Washington Policy Center
 * John Coleman - Foundation for Individual Rights and Expression
 
 #### 0 ❓ - Other

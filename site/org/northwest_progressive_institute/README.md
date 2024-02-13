@@ -97,7 +97,8 @@
 
 ## [HB 1902](/bill/2023-24/hb/1902/) - Firearms/purchase & transfer 👍1  
 
-## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍2  
+## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍3  
+* 👍 Andrew Villeneuve
 * 👍 Andrew Villeneuve
 
 ## [HB 1933](/bill/2023-24/hb/1933/) - Supporting the servicing and right to repair of certain products with digital electronics in a secure and reliable manner. 👍1  

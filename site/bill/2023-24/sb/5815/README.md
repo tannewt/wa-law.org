@@ -19,13 +19,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31902&aId=158831&caId=23977&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31902&aId=158831&caId=23977&tId=4)
 
-#### 6 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Jerry Fugich - Veterans Legislative Coalition
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Stephanie Mason - Washington Medical Commission
 
 ### Tue 01/09 08:00 AM - Health & Long Term Care (HLTC): SB 5815 Physician assistant compact
 #### 19 👍 - Pro

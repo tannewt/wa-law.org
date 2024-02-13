@@ -198,7 +198,7 @@
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍4  
 * 👍💵 Carl Schroeder
 
-## [HB 1635](/bill/2023-24/hb/1635/) - Police dogs/liability 👍1  
+## [HB 1635](/bill/2023-24/hb/1635/) - Police dogs/liability 👍2  
 
 ## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions  👎4 
 * 👎💵 Candice Bock
@@ -234,9 +234,9 @@
 ## [HB 1900](/bill/2023-24/hb/1900/) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system.  👎1 
 * 👎💵 Carl Schroeder
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍2  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍3  
 
-## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections  👎1 
+## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍1 👎1 
 * 👎💵 Lindsey Hueer
 
 ## [HB 1940](/bill/2023-24/hb/1940/) - Employer political speech   ❓1
@@ -245,6 +245,8 @@
 ## [HB 1952](/bill/2023-24/hb/1952/) - Disasters/long-term recovery 👍1  ❓1
 * ❓💵 Lindsey Hueer
 * 👍 Brandy DeLange
+
+## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
 
 ## [HB 1982](/bill/2023-24/hb/1982/) - Broadband loans & grants 👍1  
 
@@ -297,7 +299,7 @@
 * 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 
-## [HB 2127](/bill/2023-24/hb/2127/) - Incentives to return to work 👍1  
+## [HB 2127](/bill/2023-24/hb/2127/) - Incentives to return to work 👍2  
 
 ## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg.   ❓1
 * ❓💵 Carl Schroeder
@@ -363,6 +365,8 @@
 ## [HB 2390](/bill/2023-24/hb/2390/) - Eluding & resisting arrest 👍2  
 
 ## [HB 2394](/bill/2023-24/hb/2394/) - SEPA/trails and paths 👍1  
+
+## [HB 2428](/bill/2023-24/hb/2428/) - Sales and use tax sharing 👍1  
 
 ## [HB 2451](/bill/2023-24/hb/2451/) - Impact fees  👎1 
 * 👎💵 Carl Schroeder
@@ -467,6 +471,8 @@
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
+## [SB 5299](/bill/2023-24/sb/5299/) - Law enf. officer protection 👍1  
+
 ## [SB 5303](/bill/2023-24/sb/5303/) - Public works trust account 👍1  
 
 ## [SB 5310](/bill/2023-24/sb/5310/) - Workers' comp. providers 👍1  
@@ -484,7 +490,7 @@
 ## [SB 5361](/bill/2023-24/sb/5361/) - Law enf. officers/increase 👍1  
 * 👍💵 Candice Bock
 
-## [SB 5363](/bill/2023-24/sb/5363/) - Cannabis advertising 👍1  
+## [SB 5363](/bill/2023-24/sb/5363/) - Cannabis advertising 👍2  
 
 ## [SB 5364](/bill/2023-24/sb/5364/) - Lot splitting   ❓1
 * ❓💵 Carl Schroeder
@@ -492,7 +498,7 @@
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat   ❓1
 * ❓ Brandy DeLange
 
-## [SB 5368](/bill/2023-24/sb/5368/) - Stay-at-work program 👍2  
+## [SB 5368](/bill/2023-24/sb/5368/) - Stay-at-work program 👍3  
 
 ## [SB 5374](/bill/2023-24/sb/5374/) - County critical areas 👍1  
 
@@ -506,7 +512,8 @@
 ## [SB 5418](/bill/2023-24/sb/5418/) - Definition of public work  👎1 
 * 👎 Brandy DeLange
 
-## [SB 5424](/bill/2023-24/sb/5424/) - Flexible work/peace officers 👍1  
+## [SB 5424](/bill/2023-24/sb/5424/) - Flexible work/peace officers 👍2  
+* 👍💵 Lindsey Hueer
 * 👍💵 Lindsey Hueer
 
 ## [SB 5440](/bill/2023-24/sb/5440/) - Competency evaluations  👎3 
@@ -586,7 +593,7 @@
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
-## [SB 5635](/bill/2023-24/sb/5635/) - Victims' rights   ❓1
+## [SB 5635](/bill/2023-24/sb/5635/) - Victims' rights 👍1  ❓1
 * ❓💵 Lindsey Hueer
 
 ## [SB 5657](/bill/2023-24/sb/5657/) - Kit home permitting 👍1  
@@ -622,17 +629,21 @@
 
 ## [SB 5872](/bill/2023-24/sb/5872/) - Concerning vehicle and operator requirements for autonomous vehicles. 👍1  
 
+## [SB 5884](/bill/2023-24/sb/5884/) - Concerning court-ordered restitution in environmental criminal cases. 👍1  
+
 ## [SB 5885](/bill/2023-24/sb/5885/) - Certificates of annexation 👍1  
 * 👍💵 Carl Schroeder
 
 ## [SB 5886](/bill/2023-24/sb/5886/) - Firefighter safety funding 👍1  
 
-## [SB 5897](/bill/2023-24/sb/5897/) - Modifying provisions of the business licensing service program. 👍1  
+## [SB 5897](/bill/2023-24/sb/5897/) - Modifying provisions of the business licensing service program. 👍2  
 
 ## [SB 5901](/bill/2023-24/sb/5901/) - Co-living housing   ❓1
 * ❓💵 Carl Schroeder
 
 ## [SB 5906](/bill/2023-24/sb/5906/) - Implementing a statewide drug overdose prevention and education campaign. 👍1  
+
+## [SB 5920](/bill/2023-24/sb/5920/) - Psychiatric/cert. of need 👍1  
 
 ## [SB 5924](/bill/2023-24/sb/5924/) - Access to personnel records   ❓1
 * ❓💵 Candice Bock
@@ -685,10 +696,14 @@
 ## [SB 6152](/bill/2023-24/sb/6152/) - Housing needs gap 👍1  
 * 👍💵 Carl Schroeder
 
-## [SB 6157](/bill/2023-24/sb/6157/) - Civil service 👍1  
+## [SB 6157](/bill/2023-24/sb/6157/) - Civil service 👍2  
+* 👍💵 Lindsey Hueer
 * 👍💵 Lindsey Hueer
 
 ## [SB 6158](/bill/2023-24/sb/6158/) - Public facilities districts 👍1  
+
+## [SB 6164](/bill/2023-24/sb/6164/) - County emergency management   ❓1
+* ❓💵 Lindsey Hueer
 
 ## [SB 6167](/bill/2023-24/sb/6167/) - Local government procurement 👍1  
 * 👍 Brandy DeLange

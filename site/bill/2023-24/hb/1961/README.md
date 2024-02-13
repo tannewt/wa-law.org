@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158863&caId=23907&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158863&caId=23907&tId=4)
 
-#### 141 👍 - Pro
+#### 184 👍 - Pro
 Testifying:
 * 💵Brenna Anderst - Pasado's Safe Haven/Education & Advocacy Director
 * Nathaniel Block - Skagit County Prosecuting Attorney's Office
@@ -28,7 +28,7 @@ Testifying:
 Testifying:
 * Ramona Brandes
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 01/08 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1961 Animal cruelty/seriousness
 #### 191 👍 - Pro

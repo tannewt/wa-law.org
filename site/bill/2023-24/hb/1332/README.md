@@ -27,15 +27,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31906&aId=158993&caId=23989&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31906&aId=158993&caId=23989&tId=4)
 
-#### 79 👍 - Pro
+#### 95 👍 - Pro
 Testifying:
 * Bill Kallappa - [Washington State Board of Education](/org/washington_state_board_of_education/)
 * Image Morris-Enick - Student and tribal member
 * Willard Bill Jr. - Office of Superintendent of Public Instruction
 
-#### 2 👎 - Con
+#### 138 👎 - Con
+Testifying:
+* Jeannette Mcchesney
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Fri 03/31 12:30 PM - Ways & Means (WM): 2SHB 1332 Tribes/K-12 instruction
 #### 19 👍 - Pro

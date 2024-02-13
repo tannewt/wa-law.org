@@ -16,14 +16,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31918&aId=159116&caId=24062&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31918&aId=159116&caId=24062&tId=4)
 
-#### 6 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* Dave Andersen - Washington Department of Commerce
 * Scott Bonjukian
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Sandy Shettler
 
 ### Mon 01/22 01:30 PM - Housing (HOUS): HB 2321 Middle housing requirements
 #### 73 👍 - Pro

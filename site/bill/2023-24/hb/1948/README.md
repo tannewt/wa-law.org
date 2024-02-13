@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31932&aId=159031&caId=24016&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31932&aId=159031&caId=24016&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
+* Oradona Landgrebe - Seattle City Light
 * 💵Charlee Thompson - NW Energy Coalition
+* Lori Moen - Seattle City Light
 
 #### 0 👎 - Con
 

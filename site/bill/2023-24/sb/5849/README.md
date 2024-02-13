@@ -21,15 +21,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31901&aId=159110&caId=24051&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31901&aId=159110&caId=24051&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Natalya Yudkovsky - Washington State PTA
 * Dave Brown - CS Forward
 
 #### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
+* J. Lee Schultz - [Washington State Board of Education](/org/washington_state_board_of_education/)
 * Cindy McMullen - Washington State School Directors' Association
 
 ### Sat 02/03 09:00 AM - Ways & Means (WM): SSB 5849 Computer science/graduation

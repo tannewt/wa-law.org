@@ -37,7 +37,8 @@
 
 ## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍1  
 
-## [HB 1957](/bill/2023-24/hb/1957/) - Preventive service coverage 👍1  
+## [HB 1957](/bill/2023-24/hb/1957/) - Preventive service coverage 👍2  
+* 👍💵 Stephanie Simpson
 * 👍💵 Stephanie Simpson
 
 ## [HB 2041](/bill/2023-24/hb/2041/) - Physician assistant practice 👍1  

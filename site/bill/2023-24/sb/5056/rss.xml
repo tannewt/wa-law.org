@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5056/</link>
 		<description>Updates about SB 5056</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Feb 2024 22:05:01 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Feb 2024 07:41:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -177,6 +177,22 @@
 			<pubDate>Fri, 09 Feb 2024 22:05:01 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-feb-12-16-2024/#:~:text=SB%205056</guid>
+		</item>
+		<item>
+			<title>👎David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association</title>
+			<description>David Trieweiler signed up to testify Con. They are signed up to represent Washington Association of Criminal Defense Lawyers/Washington Defender Association.</description>
+			<pubDate>Mon, 12 Feb 2024 07:37:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/David/Trieweiler/2024-02-12 07:37:37</guid>
+		</item>
+		<item>
+			<title>👎David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association</title>
+			<description>David Trieweiler signed up to testify Con. They are signed up to represent Washington Association of Criminal Defense Lawyers/Washington Defender Association.</description>
+			<pubDate>Mon, 12 Feb 2024 07:41:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/David/Trieweiler/2024-02-12 07:41:06</guid>
 		</item>
 	</channel>
 </rss>

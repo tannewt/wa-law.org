@@ -19,9 +19,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31924&aId=159136&caId=24100&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31924&aId=159136&caId=24100&tId=4)
 
-#### 33 👍 - Pro
+#### 56 👍 - Pro
 
-#### 0 👎 - Con
+#### 28 👎 - Con
+Testifying:
+* Tom Kwieciak - Building Industry Association of WA
 
 #### 0 ❓ - Other
 

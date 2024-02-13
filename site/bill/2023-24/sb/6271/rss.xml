@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6271/</link>
 		<description>Updates about SB 6271</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 11 Feb 2024 12:01:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Feb 2024 11:41:10 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -119,6 +119,14 @@
 			<pubDate>Sun, 11 Feb 2024 12:01:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.seattletimes.com/opinion/editorials/dont-delay-legislation-on-high-potency-cannabis/#:~:text=Senate%20Bill%206271</guid>
+		</item>
+		<item>
+			<title>❓💵Lukas Hunter - Harmony Farms</title>
+			<description>Lukas Hunter signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/harmony_farms/&quot;&gt;Harmony Farms&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 12 Feb 2024 11:41:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Lukas/Hunter/2024-02-12 11:41:10</guid>
 		</item>
 	</channel>
 </rss>

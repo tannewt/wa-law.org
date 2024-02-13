@@ -19,9 +19,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31909&aId=158947&caId=23964&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31909&aId=158947&caId=23964&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Steve Horvath - HOA United
+* Hugh Lewis - Washington State Chapter of Community Association Institute
 
 #### 2 👎 - Con
 Testifying:

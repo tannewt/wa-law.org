@@ -13,6 +13,19 @@
 * 01/15/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/15/the-house-hot-sheet-for-week-2-of-the-2024-legislative-session/#:~:text=HB%201999)
 
 ## Meetings
+### Fri 02/16 01:30 PM - Law & Justice (LAW): SHB 1999 Fabricated intimate images
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159184&caId=24145&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159184&caId=24145&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159184&caId=24145&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159184&caId=24145&tId=4)
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/16 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1999 Fabricated intimate images
 #### 106 👍 - Pro
 Testifying:

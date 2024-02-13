@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
 * 01/30/2024 [House Democrats](/org/house_democrats/) - [Protecting Our Environment, One Cubic Yard at a Time  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/30/protecting-our-environment-one-cubic-yard-at-a-time/#:~:text=House%20Bill%202207)

@@ -12,6 +12,25 @@
 * 02/13/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/13/the-house-hot-sheet-for-week-6-of-the-2023-legislative-session/#:~:text=HB%201153)
 
 ## Meetings
+### Wed 02/14 04:00 PM - Agriculture, Water, Natural Resources & Parks (AWNP): HB 1153 Octopus farming
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31926&aId=159317&caId=24166&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31926&aId=159317&caId=24166&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31926&aId=159317&caId=24166&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31926&aId=159317&caId=24166&tId=4)
+
+#### 28 👍 - Pro
+Testifying:
+* 💵Brenna Anderst - Pasado's Safe Haven/Education & Advocacy Director
+* Jennifer Jacquet
+* Amanda Fox - Animal Rights Initiative
+* Josh Diamond
+* Rachel Bjork - Northwest Animal Rights Network (NARN)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/08 08:00 AM - Agriculture and Natural Resources (AGNR): HB 1153 Octopus farming
 #### 678 👍 - Pro
 Testifying:

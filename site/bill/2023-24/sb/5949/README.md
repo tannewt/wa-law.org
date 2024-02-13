@@ -18,17 +18,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158970&caId=23919&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158970&caId=23919&tId=4)
 
-#### 3 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Tsega Desta - Ethiopian Community in Seattle
 * Sherry Williams - HealthPoint
+* Sharon Khosla - Garfield Super Block Coalition
+* Robert Stephens Jr - On behalf Garfield Super Block
+* Kathryn Gardow - Chair, Public Works Board
 * 💵Kenny Pittman - Communities of Concern Commission
 
 #### 3 👎 - Con
 Testifying:
 * John Worthington
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Hilary Dameron - Garfield Super Block Coalition
 
 ### Thu 02/15 04:00 PM - Ways & Means (WM): PSSB 5949: Higher education. (Remote Testimony Available).
 Sign up to testify:
@@ -50,9 +55,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158968&caId=23917&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158968&caId=23917&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Michone Preston - Habitat for Humanity of Washington State
+* Gina James - Tribal Council, Quinault Indian Nation
 
 #### 0 👎 - Con
 
@@ -68,11 +74,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158966&caId=23915&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158966&caId=23915&tId=4)
 
-#### 4 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Jim Kowalkowski - Rural Education Center
 * 💵Mike Hoover - Washington State School Directors’ Association (WSSDA)
+* 💵Mitch Denning - Alliance of Educational Associations
+* Brent Freeman - Wahkiakum School District
 
 #### 0 👎 - Con
 
@@ -85,7 +93,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158969&caId=23918&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158969&caId=23918&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Ryan Hendricks - Tribal Council, Quinault Indian Nation
 
 #### 0 👎 - Con
 

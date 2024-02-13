@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5784/</link>
 		<description>Updates about SB 5784</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 10 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Feb 2024 03:20:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -124,6 +124,14 @@
 			<pubDate>Sat, 10 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-10/First reading, referred to Agriculture and Natural Resources.</guid>
+		</item>
+		<item>
+			<title>👍Tom McBride - WDFW</title>
+			<description>Tom McBride signed up to testify Pro. They are signed up to represent WDFW.</description>
+			<pubDate>Mon, 12 Feb 2024 03:20:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tom/McBride/2024-02-12 03:20:35</guid>
 		</item>
 	</channel>
 </rss>

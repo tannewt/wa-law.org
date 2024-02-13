@@ -38,7 +38,7 @@
 
 ## [SB 5109](/bill/2023-24/sb/5109/) - Wage replacement 👍1  
 
-## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍4  
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍1  
 

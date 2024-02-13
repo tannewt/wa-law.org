@@ -26,9 +26,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=159134&caId=24099&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=159134&caId=24099&tId=4)
 
-#### 7 👍 - Pro
+#### 102 👍 - Pro
+Testifying:
+* Kasey Champion - Strippers Are Workers
+* Kurt Olivo
+* Madison Zack-Wu - Strippers Are Workers
+* Hannah Zgraggen
 
-#### 16 👎 - Con
+#### 30 👎 - Con
+Testifying:
+* Jay Benke - Sex Trade Survivor Caucus
 
 #### 0 ❓ - Other
 

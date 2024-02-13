@@ -55,6 +55,9 @@
 
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍1  
 
+## [SB 5792](/bill/2023-24/sb/5792/) - Concerning the definition of multiunit residential buildings. 👍1  
+* 👍 Council President Betsy Wilkerson
+
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
 * 👍 Chris Averyt
 

@@ -20,13 +20,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=159111&caId=24035&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=159111&caId=24035&tId=4)
 
-#### 28 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * Lily Jensen
 
-#### 656 👎 - Con
+#### 686 👎 - Con
 Testifying:
 * Theresa Schrempp
+* Julie Barrett - Conservative Ladies of Washington
 
 #### 0 ❓ - Other
 

@@ -63,7 +63,7 @@
 
 ## [SB 5627](/bill/2023-24/sb/5627/) - County commissioner salary 👍1  
 
-## [SB 5649](/bill/2023-24/sb/5649/) - Floodproofing improvements 👍1  
+## [SB 5649](/bill/2023-24/sb/5649/) - Floodproofing improvements 👍2  
 
 ## [SB 5970](/bill/2023-24/sb/5970/) - Local boards of health 👍2  
 

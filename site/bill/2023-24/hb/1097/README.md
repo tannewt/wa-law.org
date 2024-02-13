@@ -19,14 +19,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31917&aId=158852&caId=23910&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31917&aId=158852&caId=23910&tId=4)
 
-#### 95 👍 - Pro
+#### 115 👍 - Pro
 Testifying:
 * 💵Brenna Anderst - Pasado's Safe Haven/Education & Advocacy Director
 * Amanda Fox - Animal Rights Initiative
 * Wendy Linton
+* Hilary Pickles - Lush Fresh Handmade Cosmetics
+* Dan Paul - The Humane Society of the United States
 * Hannah Thompson-Garner - Northwest Animal Rights Network (NARN)
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
 #### 1 ❓ - Other
 

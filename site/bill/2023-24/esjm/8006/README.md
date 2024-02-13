@@ -17,12 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=158937&caId=23961&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=158937&caId=23961&tId=4)
 
-#### 64 👍 - Pro
+#### 85 👍 - Pro
 Testifying:
 * Jody Disney - LWVWA
 * Ronnie Shure - [Health Care for All - Washington](/org/health_care_for_all_-_washington/)
+* Andre Stackhouse - Whole Washington
 
-#### 20 👎 - Con
+#### 181 👎 - Con
+Testifying:
+* Jeannette Mcchesney
 
 #### 0 ❓ - Other
 

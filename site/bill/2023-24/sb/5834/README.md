@@ -15,11 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31955&aId=159012&caId=24053&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31955&aId=159012&caId=24053&tId=4)
 
-#### 5 👍 - Pro
+#### 46 👍 - Pro
 Testifying:
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* Brett Lucas - [City of Cheney](/org/city_of_cheney/)
+* Dave Andersen - Washington Department of Commerce
 
-#### 56 👎 - Con
+#### 67 👎 - Con
 
 #### 0 ❓ - Other
 

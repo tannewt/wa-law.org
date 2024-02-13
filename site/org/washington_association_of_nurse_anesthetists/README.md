@@ -13,6 +13,8 @@
 
 ## [HB 1255](/bill/2023-24/hb/1255/) - Health care prof. SUD prg. 👍2  
 
+## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍1  
+
 ## [HB 1593](/bill/2023-24/hb/1593/) - RN PTSD/industrial insurance 👍2  
 
 ## [HB 1655](/bill/2023-24/hb/1655/) - Provider contract comp. 👍2  
@@ -21,7 +23,7 @@
 
 ## [HB 2416](/bill/2023-24/hb/2416/) - ARNP legal title 👍1  
 
-## [SB 5184](/bill/2023-24/sb/5184/) - Anesthesiologist assistants  👎16 
+## [SB 5184](/bill/2023-24/sb/5184/) - Anesthesiologist assistants  👎17 
 * 👎 Adrianna Silva
 * 👎 Ashley Fedan
 * 👎 Kelli Camp

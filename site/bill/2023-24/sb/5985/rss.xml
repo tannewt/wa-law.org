@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5985/</link>
 		<description>Updates about SB 5985</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Feb 2024 22:05:01 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Feb 2024 11:58:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -125,6 +125,14 @@
 			<pubDate>Fri, 09 Feb 2024 22:05:01 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-feb-12-16-2024/#:~:text=SB%205985</guid>
+		</item>
+		<item>
+			<title>👎💵Aoibheann Cline - NRA</title>
+			<description>Aoibheann Cline signed up to testify Con. They are signed up to represent NRA. They are a registered lobbyist.</description>
+			<pubDate>Mon, 12 Feb 2024 11:58:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Aoibheann/Cline/2024-02-12 11:58:47</guid>
 		</item>
 	</channel>
 </rss>

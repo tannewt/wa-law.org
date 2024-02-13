@@ -19,12 +19,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=158954&caId=23933&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=158954&caId=23933&tId=4)
 
-#### 14 👍 - Pro
+#### 17 👍 - Pro
 
-#### 733 👎 - Con
+#### 791 👎 - Con
 Testifying:
 * Gabriel Jacobs
 * eric pratt
+* 💵Aoibheann Cline - NRA
 
 #### 1 ❓ - Other
 

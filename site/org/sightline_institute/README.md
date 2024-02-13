@@ -63,8 +63,9 @@
 
 ## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍1  
 
-## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍1  
+## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍2  
 * 👍 Alan Durning
+* 👍💵 Shannon Grimes
 
 ## [HB 1998](/bill/2023-24/hb/1998/) - Co-living housing 👍1  
 * 👍💵 Dan Bertolet

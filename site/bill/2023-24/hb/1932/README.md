@@ -29,12 +29,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159099&caId=24034&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159099&caId=24034&tId=4)
 
-#### 70 👍 - Pro
+#### 134 👍 - Pro
+Testifying:
+* G. Agustin Markarian
+* 💵Shannon Grimes - [Sightline Institute](/org/sightline_institute/)
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* Lindsey Schromen-Wawrin - Port Angeles City Councilmember
+* 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
 
-#### 326 👎 - Con
+#### 536 👎 - Con
 Testifying:
 * Laurie Layne
 * Tim Eyman - Initiative Activist
+* Tim Eyman - Initiative Activist
+* 💵Conner Edwards - WA Professional Campaign Treasurer
 
 #### 0 ❓ - Other
 

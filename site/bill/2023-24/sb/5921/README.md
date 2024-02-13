@@ -17,8 +17,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31919&aId=158857&caId=23929&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31919&aId=158857&caId=23929&tId=4)
 
-#### 23 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
+* Kate Delavan - Washington State Conservation Commission
 * Daryl Williams - Tulalip Tribes
 
 #### 0 👎 - Con

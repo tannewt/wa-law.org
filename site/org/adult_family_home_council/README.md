@@ -25,9 +25,10 @@
 * 👎💵 John Ficker
 * 👎💵 Amina Abdalla
 
-## [HB 2015](/bill/2023-24/hb/2015/) - Adult family homes capacity 👍2  
+## [HB 2015](/bill/2023-24/hb/2015/) - Adult family homes capacity 👍3  
 * 👍💵 John Ficker
 * 👍💵 Amina Abdalla
+* 👍💵 John Ficker
 
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
 * ❓💵 John Ficker

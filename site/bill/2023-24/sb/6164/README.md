@@ -19,8 +19,9 @@ Sign up to testify:
 
 #### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
+* 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Robert Ezelle - Washington Military Department, Emergency Management Division
 
 ### Thu 01/18 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6164 County emergency management

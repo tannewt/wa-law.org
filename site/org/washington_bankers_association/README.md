@@ -8,3 +8,5 @@
 
 ## [SB 5493](/bill/2023-24/sb/5493/) - Financial instit./B&O tax  👎1 
 * 👎 Glen Simecek
+
+## [SB 5801](/bill/2023-24/sb/5801/) - Special deposits 👍1  

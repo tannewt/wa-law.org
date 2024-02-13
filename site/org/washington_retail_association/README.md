@@ -290,8 +290,9 @@
 ## [SB 5361](/bill/2023-24/sb/5361/) - Law enf. officers/increase 👍1  
 * 👍💵 Mark Johnson
 
-## [SB 5368](/bill/2023-24/sb/5368/) - Stay-at-work program 👍1  
+## [SB 5368](/bill/2023-24/sb/5368/) - Stay-at-work program 👍2  
 * 👍 ROSE GUNDERSEN
+* 👍 Rose GUNDERSEN
 
 ## [SB 5417](/bill/2023-24/sb/5417/) - Employer political speech  👎1 
 

@@ -17,7 +17,7 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Emi Koyama - Coalition for Rights & Safety for People in the Sex Trade
 

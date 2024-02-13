@@ -161,7 +161,7 @@
 
 ## [HB 1247](/bill/2023-24/hb/1247/) - Music therapists 👍1  
 
-## [HB 1248](/bill/2023-24/hb/1248/) - Pupil transportation 👍1  
+## [HB 1248](/bill/2023-24/hb/1248/) - Pupil transportation 👍2  
 * 👍💵 Julie Salvi
 
 ## [HB 1256](/bill/2023-24/hb/1256/) - Higher ed. matching grants  👎1 
@@ -173,9 +173,10 @@
 
 ## [HB 1273](/bill/2023-24/hb/1273/) - High school and beyond plans 👍1  
 
-## [HB 1277](/bill/2023-24/hb/1277/) - Paraeducator course of study 👍2  
+## [HB 1277](/bill/2023-24/hb/1277/) - Paraeducator course of study 👍3  
 * 👍💵 Nasue Nishida
 * 👍💵 Nasue Nishida
+* 👍💵 Simone Boe
 
 ## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍2  
 
@@ -289,6 +290,8 @@
 * 👍💵 Simone Boe
 * 👍💵 Simone Boe
 
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
+
 ## [HB 1542](/bill/2023-24/hb/1542/) - AEDs/high voltage work 👍1  
 
 ## [HB 1547](/bill/2023-24/hb/1547/) - Out-of-state health prov.  👎1 
@@ -382,7 +385,7 @@
 
 ## [HB 1862](/bill/2023-24/hb/1862/) - Disabled veteran assist./tax 👍1  
 
-## [HB 1879](/bill/2023-24/hb/1879/) - Naming the curriculum used to inform students about tribal history, culture, and government after John McCoy (lulilaš). 👍1  
+## [HB 1879](/bill/2023-24/hb/1879/) - Naming the curriculum used to inform students about tribal history, culture, and government after John McCoy (lulilaš). 👍2  
 
 ## [HB 1889](/bill/2023-24/hb/1889/) - Professionals/immigration 👍1  
 
@@ -440,7 +443,7 @@
 
 ## [HB 2023](/bill/2023-24/hb/2023/) - Improving meaningful access to elections by increasing language assistance. 👍1  
 
-## [HB 2025](/bill/2023-24/hb/2025/) - State work-study program 👍2  
+## [HB 2025](/bill/2023-24/hb/2025/) - State work-study program 👍3  
 
 ## [HB 2037](/bill/2023-24/hb/2037/) - Holocaust and genocide edu. 👍1  
 * 👍💵 Simone Boe
@@ -471,7 +474,7 @@
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  
 * 👍💵 Larry Delaney
 
-## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention 👍2  ❓1
+## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention 👍3  ❓1
 * ❓💵 Simone Boe
 * 👍💵 Simone Boe
 * 👍💵 Simone Boe
@@ -486,7 +489,7 @@
 
 ## [HB 2133](/bill/2023-24/hb/2133/) - Public school bus trespass 👍1  
 
-## [HB 2164](/bill/2023-24/hb/2164/) - Postsecondary ed protections 👍1  
+## [HB 2164](/bill/2023-24/hb/2164/) - Postsecondary ed protections 👍2  
 
 ## [HB 2180](/bill/2023-24/hb/2180/) - Special education cap 👍1  
 * 👍💵 Julie Salvi
@@ -497,9 +500,10 @@
 
 ## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities   ❓1
 
-## [HB 2209](/bill/2023-24/hb/2209/) - Lunar new year 👍1  
+## [HB 2209](/bill/2023-24/hb/2209/) - Lunar new year 👍2  
 
-## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍2  
+## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍3  
+* 👍💵 Simone Boe
 
 ## [HB 2215](/bill/2023-24/hb/2215/) - Enrichment levies limit 👍1  
 * 👍💵 Julie Salvi
@@ -636,7 +640,7 @@
 
 ## [SB 5175](/bill/2023-24/sb/5175/) - School principal contracts 👍1  
 
-## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍3  
+## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍4  
 
 ## [SB 5182](/bill/2023-24/sb/5182/) - Candidate filing 👍2  
 
@@ -765,7 +769,8 @@
 
 ## [SB 5456](/bill/2023-24/sb/5456/) - Minimum parking requirements 👍2  
 
-## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍4  
+## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍5  
+* 👍💵 Nasue Nishida
 * 👍💵 Nasue Nishida
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
@@ -882,9 +887,9 @@
 
 ## [SB 5790](/bill/2023-24/sb/5790/) - Bleeding control/schools 👍1  
 
-## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave 👍1  
+## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave 👍2  
 
-## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose/high schools 👍1  
+## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose/high schools 👍2  
 
 ## [SB 5808](/bill/2023-24/sb/5808/) - Safety telecom/interest arb. 👍1  
 
@@ -919,16 +924,19 @@
 * 👍💵 Simone Boe
 * 👍💵 Simone Boe
 
-## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍2  
+## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍3  
 
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
 
 ## [SB 5873](/bill/2023-24/sb/5873/) - Student transportation 👍2  
 * 👍💵 Julie Salvi
 
-## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍5  
+## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍6  
 * 👍💵 Julie Salvi
 * 👍💵 Julie Salvi
+* 👍💵 Julie Salvi
+
+## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍1  
 
 ## [SB 5894](/bill/2023-24/sb/5894/) - Equal pay/protected classes 👍1  
 
@@ -997,6 +1005,8 @@
 ## [SB 6030](/bill/2023-24/sb/6030/) - ADU tax exemptions 👍1  
 
 ## [SB 6031](/bill/2023-24/sb/6031/) - Student transp. allocation   ❓1
+
+## [SB 6053](/bill/2023-24/sb/6053/) - Education data sharing 👍1  
 
 ## [SB 6060](/bill/2023-24/sb/6060/) - Electronic signatures/PERC 👍2  
 

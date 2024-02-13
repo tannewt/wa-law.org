@@ -20,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159096&caId=24031&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159096&caId=24031&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Dr. Nyla Rosen - [Institute for Community Leadership](/org/institute_for_community_leadership/)
 

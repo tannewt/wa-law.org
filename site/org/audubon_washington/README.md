@@ -46,7 +46,7 @@
 
 ## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands. 👍2  
 
-## [SB 5921](/bill/2023-24/sb/5921/) - Concerning tribal representation on the state conservation commission. 👍2  
+## [SB 5921](/bill/2023-24/sb/5921/) - Concerning tribal representation on the state conservation commission. 👍3  
 
 ## [SB 5922](/bill/2023-24/sb/5922/) - Modifying the department of fish and wildlife's habitat recovery pilot program. 👍1  
 

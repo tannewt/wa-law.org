@@ -17,9 +17,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158915&caId=23911&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158915&caId=23911&tId=4)
 
-#### 89 👍 - Pro
+#### 107 👍 - Pro
 
-#### 745 👎 - Con
+#### 794 👎 - Con
 Testifying:
 * Mary Long - Conservative Ladies of Washington
 

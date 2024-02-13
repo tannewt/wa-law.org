@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2074/</link>
 		<description>Updates about HB 2074</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Feb 2024 07:46:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -87,6 +87,14 @@
 			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-09/First reading, referred to Agriculture, Water, Natural Resources &amp; Parks.</guid>
+		</item>
+		<item>
+			<title>👍Michele Kiesz - Washington State Department of Agriculture</title>
+			<description>Michele Kiesz signed up to testify Pro.</description>
+			<pubDate>Mon, 12 Feb 2024 07:46:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Michele/Kiesz/2024-02-12 07:46:13</guid>
 		</item>
 	</channel>
 </rss>

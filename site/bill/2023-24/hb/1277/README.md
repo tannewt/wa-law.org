@@ -22,7 +22,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31906&aId=158995&caId=23991&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31906&aId=158995&caId=23991&tId=4)
 
-#### 19 👍 - Pro
+#### 23 👍 - Pro
+Testifying:
+* Mario Meijia - Olympia Education Association / WEA
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 
 #### 1 👎 - Con
 

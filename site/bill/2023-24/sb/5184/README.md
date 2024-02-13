@@ -17,9 +17,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159050&caId=24069&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159050&caId=24069&tId=4)
 
-#### 404 👍 - Pro
+#### 612 👍 - Pro
+Testifying:
+* Tim Clement - Washington State Society of Anesthesiologists
+* 💵Amy Brackenbury - Washington State Society of Anesthesiologists
+* Cassie Gabriel - Washington State Society of Anesthesiologists
+* 💵Carolyn Logue - WA Academy of Anesthesiologist Assistants
+* Patrick Hession - Certified Anesthesiologist Assistant
+* Sarah Brown - Certified Anesthesiologist Assistant
+* Truc-Anh Tran - CAA
 
-#### 177 👎 - Con
+#### 3014 👎 - Con
 Testifying:
 * Colin Calico
 * Mary Harris
@@ -27,7 +35,10 @@ Testifying:
 * Matt Elder
 * Chintan Patel - Johns Hopkins university
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* Alison Bradywood - Washington State Board of Nursing
+* Micah Matthews - Washington Medical Commission
 
 ### Fri 01/12 08:00 AM - Health & Long Term Care (HLTC): SB 5184 Anesthesiologist assistants
 #### 2095 👍 - Pro

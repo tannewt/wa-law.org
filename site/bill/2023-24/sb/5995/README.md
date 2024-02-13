@@ -19,13 +19,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31950&aId=158941&caId=23943&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31950&aId=158941&caId=23943&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* 💵Dennis Eagle - WA Federation of State Employees
 
 #### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Kate White Tudor - WA Association for community health
+* Beau Perschbacher - WA Dept. of Licensing
 
 ### Mon 01/15 10:30 AM - Labor & Commerce (LC): SB 5995 Interpreters and translators
 #### 11 👍 - Pro

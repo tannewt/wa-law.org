@@ -30,14 +30,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=158889&caId=23946&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=158889&caId=23946&tId=4)
 
-#### 291 👍 - Pro
+#### 335 👍 - Pro
 Testifying:
 * Devon Kellogg - Washington State PTA
+* Brooke Brown - [Washington State Board of Education](/org/washington_state_board_of_education/)
+* Annika Shinoda
+* Juan Diaz
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 * Vienna Pham - Lake Washington High School AP Government
 * Sophia Claiborne
 * Mia Karlinsky
 
-#### 1551 👎 - Con
+#### 1896 👎 - Con
 Testifying:
 * Trish Huddleston
 * Britney Inglis
@@ -53,10 +57,15 @@ Testifying:
 * Shaina Lee
 * Jeannette Mcchesney
 * Alisha Honeywell
+* Craig Blackwood - N/A
+* Ray Pearson
+* Michelle Andres - 1421 Road 77
 * Betsy Foster - Nope
 * Nikki Farnsworth
+* Diane Nelson
+* 💵Rebecca Johnson - 22815 Gunderson Road
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Anna Hernandez-French - Office of Superintendent of Public Instruction
 

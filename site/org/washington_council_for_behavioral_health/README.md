@@ -10,9 +10,9 @@
 ## [HB 1348](/bill/2023-24/hb/1348/) - Behavioral health support   ❓1
 * ❓ Julia O'Connor
 
-## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍1  
+## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍2  
 
-## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍1  
+## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍2  
 
 ## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍1  
 
@@ -41,4 +41,4 @@
 
 ## [SB 6228](/bill/2023-24/sb/6228/) - Substance use treatment 👍2  
 
-## [SB 6308](/bill/2023-24/sb/6308/) - 988 system timeline 👍1  
+## [SB 6308](/bill/2023-24/sb/6308/) - 988 system timeline 👍2  

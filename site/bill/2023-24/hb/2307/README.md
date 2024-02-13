@@ -15,7 +15,7 @@ Testifying:
 * Glenn Johnson
 * Deanna Syron - City of North Bonneville
 * David M Leath - City of Davenport
-* Janet Pope - Lynnwood Public Facilities District
+* Janet Pope - [Lynnwood Public Facilities District](/org/lynnwood_public_facilities_district/)
 
 #### 49 👎 - Con
 Testifying:

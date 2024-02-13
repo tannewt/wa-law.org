@@ -6,8 +6,22 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Fri 02/16 08:00 AM - Environment, Energy & Technology (ENET): ESHB 2039 Env. & land use appeals
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31933&aId=159321&caId=24165&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31933&aId=159321&caId=24165&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31933&aId=159321&caId=24165&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31933&aId=159321&caId=24165&tId=4)
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/08 01:30 PM - Environment & Energy (ENVI): HB 2039 Env. & land use appeals
 #### 40 👍 - Pro
 Testifying:

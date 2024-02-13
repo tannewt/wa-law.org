@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5180/</link>
 		<description>Updates about SB 5180</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Feb 2024 22:05:01 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Feb 2024 07:54:45 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -308,6 +308,14 @@
 			<pubDate>Fri, 09 Feb 2024 22:05:01 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-feb-12-16-2024/#:~:text=SB%205180</guid>
+		</item>
+		<item>
+			<title>👍Ryan Grant - Office of Superintendent of Public Instruction</title>
+			<description>Ryan Grant signed up to testify Pro.</description>
+			<pubDate>Mon, 12 Feb 2024 07:54:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ryan/Grant/2024-02-12 07:54:45</guid>
 		</item>
 	</channel>
 </rss>

@@ -22,13 +22,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31928&aId=159034&caId=24065&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31928&aId=159034&caId=24065&tId=4)
 
-#### 4 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Chelsea Burroughs - WFSE Member
 
 #### 2 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Mon 01/29 04:00 PM - Ways & Means (WM): SSB 6109 Children and families
 #### 14 👍 - Pro

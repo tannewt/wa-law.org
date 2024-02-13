@@ -26,7 +26,7 @@
 
 ## [SB 5629](/bill/2023-24/sb/5629/) - Hepatitis B and C   ❓1
 
-## [SB 5815](/bill/2023-24/sb/5815/) - Physician assistant compact 👍2  
+## [SB 5815](/bill/2023-24/sb/5815/) - Physician assistant compact 👍3  
 * 👍 Eileen Ravella
 
 ## [SB 6161](/bill/2023-24/sb/6161/) - Provider contract comp. 👍1  

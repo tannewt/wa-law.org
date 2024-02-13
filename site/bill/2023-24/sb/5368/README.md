@@ -16,13 +16,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158872&caId=23968&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158872&caId=23968&tId=4)
 
-#### 4 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Blake Garfield - Bedrooms and More
 * 💵Kevin Schilling - Washington State Dental Association
 * 💵Sheri Call - Washington Trucking Associations
+* Rose GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)
 
-#### 50 👎 - Con
+#### 108 👎 - Con
 Testifying:
 * Albert Helm
 * Dustin Dailey - Putnam & Lieb

@@ -25,7 +25,8 @@
 ## [HB 2151](/bill/2023-24/hb/2151/) - Cannabis lab. accreditation 👍1  
 * 👍💵 Lukas Hunter
 
-## [HB 2182](/bill/2023-24/hb/2182/) - Regulated substance use data 👍1  
+## [HB 2182](/bill/2023-24/hb/2182/) - Regulated substance use data 👍2  
+* 👍💵 Lukas Hunter
 * 👍💵 Lukas Hunter
 
 ## [HB 2194](/bill/2023-24/hb/2194/) - Home cultivation of cannabis 👍1  
@@ -65,5 +66,6 @@
 ## [SB 6220](/bill/2023-24/sb/6220/) - High THC cannabis products  👎1 
 * 👎💵 Lukas Hunter
 
-## [SB 6271](/bill/2023-24/sb/6271/) - Cannabis excise tax/THC  👎1 
+## [SB 6271](/bill/2023-24/sb/6271/) - Cannabis excise tax/THC  👎1 ❓1
 * 👎💵 Lukas Hunter
+* ❓💵 Lukas Hunter

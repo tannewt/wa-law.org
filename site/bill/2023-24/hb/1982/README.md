@@ -13,6 +13,24 @@
 * 01/09/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. Waters introduces bipartisan legislation that would help further rural broadband expansion](https://gorgenewscenter.com/2024/01/09/rep-waters-introduces-bipartisan-legislation-that-would-help-further-rural-broadband-expansion/#:~:text=House%20Bill%201982)
 
 ## Meetings
+### Thu 02/15 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): HB 1982 Broadband loans & grants
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31917&aId=159171&caId=24140&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31917&aId=159171&caId=24140&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31917&aId=159171&caId=24140&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31917&aId=159171&caId=24140&tId=4)
+
+#### 13 👍 - Pro
+Testifying:
+* Jennie Dickinson - Port of Columbia
+* Jennifer Wray-Keene - Port of Woodland
+* DAvid Ripp - Port of Camas-Washougal
+* Ariane Schmidt - Broadlinc
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/01 08:00 AM - Capital Budget (CB): HB 1982 Broadband loans & grants
 #### 81 👍 - Pro
 Testifying:

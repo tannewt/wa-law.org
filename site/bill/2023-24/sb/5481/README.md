@@ -16,13 +16,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=158926&caId=23963&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=158926&caId=23963&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Michele Radosevich - Uniform Law Commission
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Micah Matthews - Washington Medical Commission
 
 ### Thu 02/02 10:30 AM - Health & Long Term Care (HLTC): SB 5481 Uniform telemedicine act
 #### 12 👍 - Pro

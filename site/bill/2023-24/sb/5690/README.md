@@ -16,7 +16,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31953&aId=158952&caId=23931&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31953&aId=158952&caId=23931&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Kevin Bovenkamp - Washington State Department of Social and Health Services
+* Mac Pevey - Washington State Department of Corrections
 
 #### 1 👎 - Con
 

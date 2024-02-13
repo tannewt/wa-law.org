@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31932&aId=159029&caId=24014&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31932&aId=159029&caId=24014&tId=4)
 
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Ryan Umstattd - Zap Energy, Inc.
 * Hawkins DeFrance - Avalanche Energy Designs, Inc.

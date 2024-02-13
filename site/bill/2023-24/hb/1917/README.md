@@ -17,16 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158916&caId=23912&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158916&caId=23912&tId=4)
 
-#### 88 👍 - Pro
+#### 100 👍 - Pro
 Testifying:
 * 💵Nathaniel Brown - Northwest Kidney Council
 * Tammie Perreault - Department of Defense-State Liaison Office
+* Anthony Varela - Veteran Legislative Coalition
 
 #### 2 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Isabel Eliassen - The Council of State Governments
+* Micah Matthews - Washington Medical Commission
 
 ### Wed 01/10 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1917 Physician assistant compact
 #### 124 👍 - Pro

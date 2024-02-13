@@ -22,9 +22,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159147&caId=24106&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159147&caId=24106&tId=4)
 
-#### 29 👍 - Pro
+#### 48 👍 - Pro
 Testifying:
 * Justin McKaughan
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 
 #### 0 👎 - Con
 

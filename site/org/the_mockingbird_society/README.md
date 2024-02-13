@@ -34,7 +34,7 @@
 
 ## [HB 1873](/bill/2023-24/hb/1873/) - Concerning office of public defense social service workers for parents in child welfare cases. 👍1  
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍7  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍8  
 
 ## [HB 2016](/bill/2023-24/hb/2016/) - Allowing certain minors to contract for housing and utilities.   ❓1
 * ❓💵 Charles Smith

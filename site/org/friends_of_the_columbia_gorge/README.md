@@ -7,3 +7,5 @@
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
 * 👍 Rudy Salakory
+
+## [SB 5884](/bill/2023-24/sb/5884/) - Concerning court-ordered restitution in environmental criminal cases. 👍1  

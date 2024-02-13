@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5883/</link>
 		<description>Updates about SB 5883</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 11 Feb 2024 09:42:08 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Feb 2024 11:54:23 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -215,6 +215,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Meghan/Hamill/2024-02-11 09:42:08</guid>
+		</item>
+		<item>
+			<title>👍Russel Tuman - West Valley School District</title>
+			<description>Russel Tuman signed up to testify Pro. They are signed up to represent West Valley School District.</description>
+			<pubDate>Mon, 12 Feb 2024 01:15:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Russel/Tuman/2024-02-12 01:15:46</guid>
+		</item>
+		<item>
+			<title>👎Michelle Jeffries - Winlock School District</title>
+			<description>Michelle Jeffries signed up to testify Con. They are signed up to represent Winlock School District.</description>
+			<pubDate>Mon, 12 Feb 2024 06:54:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Michelle/Jeffries/2024-02-12 06:54:43</guid>
+		</item>
+		<item>
+			<title>👍💵Karen Pillar - TeamChild</title>
+			<description>Karen Pillar signed up to testify Pro. They are signed up to represent TeamChild. They are a registered lobbyist.</description>
+			<pubDate>Mon, 12 Feb 2024 11:54:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Karen/Pillar/2024-02-12 11:54:23</guid>
 		</item>
 	</channel>
 </rss>

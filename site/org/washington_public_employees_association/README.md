@@ -174,7 +174,8 @@
 
 ## [SB 5979](/bill/2023-24/sb/5979/) - Concerning accrued leave for construction workers. 👍1  
 
-## [SB 6060](/bill/2023-24/sb/6060/) - Electronic signatures/PERC 👍1  
+## [SB 6060](/bill/2023-24/sb/6060/) - Electronic signatures/PERC 👍2  
+* 👍 Derya Ruggles
 * 👍 Derya Ruggles
 
 ## [SB 6074](/bill/2023-24/sb/6074/) - TNC driver death benefits 👍1  

@@ -11,7 +11,7 @@
 
 ## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
 
-## [HB 1146](/bill/2023-24/hb/1146/) - Dual credit program notice 👍2  
+## [HB 1146](/bill/2023-24/hb/1146/) - Dual credit program notice 👍3  
 
 ## [HB 1207](/bill/2023-24/hb/1207/) - Harassment/schools 👍2  
 
@@ -37,6 +37,8 @@
 
 ## [HB 1346](/bill/2023-24/hb/1346/) - Purple star award 👍2  
 
+## [HB 1362](/bill/2023-24/hb/1362/) - Reports 👍1  
+
 ## [HB 1374](/bill/2023-24/hb/1374/) - Office of career connect WA 👍1  
 
 ## [HB 1386](/bill/2023-24/hb/1386/) - Youth development grants 👍1  
@@ -51,9 +53,11 @@
 
 ## [HB 1536](/bill/2023-24/hb/1536/) - H.S. diplomas/withholding 👍2  
 
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
+
 ## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍3  
 
-## [HB 1608](/bill/2023-24/hb/1608/) - Anaphylaxis meds./schools 👍1  
+## [HB 1608](/bill/2023-24/hb/1608/) - Anaphylaxis meds./schools 👍2  
 
 ## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍2  
 
@@ -61,9 +65,9 @@
 * ❓ Alissa Muller
 * 👍 Alissa Muller
 
-## [HB 1692](/bill/2023-24/hb/1692/) - Student advisory groups 👍2  
+## [HB 1692](/bill/2023-24/hb/1692/) - Student advisory groups 👍3  
 
-## [HB 1714](/bill/2023-24/hb/1714/) - Financial literacy grants 👍1  
+## [HB 1714](/bill/2023-24/hb/1714/) - Financial literacy grants 👍2  
 
 ## [HB 1744](/bill/2023-24/hb/1744/) - Charter school oversight   ❓2
 * ❓ Randy Spaulding
@@ -73,9 +77,11 @@
 
 ## [HB 1843](/bill/2023-24/hb/1843/) - School district elections 👍1  
 
-## [HB 1879](/bill/2023-24/hb/1879/) - Naming the curriculum used to inform students about tribal history, culture, and government after John McCoy (lulilaš). 👍1  
+## [HB 1879](/bill/2023-24/hb/1879/) - Naming the curriculum used to inform students about tribal history, culture, and government after John McCoy (lulilaš). 👍3  
+* 👍 Bill Kallappa
+* 👍 Paul Pitre
 
-## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
+## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍2  
 
 ## [HB 2037](/bill/2023-24/hb/2037/) - Holocaust and genocide edu. 👍1  
 
@@ -83,7 +89,8 @@
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
-## [HB 2110](/bill/2023-24/hb/2110/) - High school graduation 👍1  
+## [HB 2110](/bill/2023-24/hb/2110/) - High school graduation 👍2  
+* 👍 J. Lee Schultz
 * 👍 J. Lee Schultz
 
 ## [HB 2180](/bill/2023-24/hb/2180/) - Special education cap 👍1  
@@ -99,7 +106,7 @@
 
 ## [HB 2331](/bill/2023-24/hb/2331/) - Public school materials 👍1  
 
-## [HB 2335](/bill/2023-24/hb/2335/) - State-tribal edu. compacts 👍1  
+## [HB 2335](/bill/2023-24/hb/2335/) - State-tribal edu. compacts 👍2  
 
 ## [SB 5020](/bill/2023-24/sb/5020/) - Education at 6 years of age 👍1  
 
@@ -139,7 +146,8 @@
 ## [SB 5441](/bill/2023-24/sb/5441/) - School district curricula 👍1  
 * 👍 Brooke Brown
 
-## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍2  
+## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍3  
+* 👍 Brooke Brown
 
 ## [SB 5515](/bill/2023-24/sb/5515/) - Child abuse and neglect 👍3  
 * 👍 Linda Drake
@@ -158,15 +166,18 @@
 
 ## [SB 5626](/bill/2023-24/sb/5626/) - K-12 media literacy 👍2  
 
-## [SB 5648](/bill/2023-24/sb/5648/) - Board of education waivers 👍2  
+## [SB 5648](/bill/2023-24/sb/5648/) - Board of education waivers 👍3  
+* 👍 J. Lee Schultz
+
+## [SB 5670](/bill/2023-24/sb/5670/) - Running start/10th grade 👍1  
 
 ## [SB 5710](/bill/2023-24/sb/5710/) - Behavioral health/youth 👍1  
 
 ## [SB 5719](/bill/2023-24/sb/5719/) - Student homelessness group 👍1  
 
-## [SB 5790](/bill/2023-24/sb/5790/) - Bleeding control/schools 👍1  
+## [SB 5790](/bill/2023-24/sb/5790/) - Bleeding control/schools 👍2  
 
-## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose/high schools 👍1  
+## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose/high schools 👍2  
 
 ## [SB 5813](/bill/2023-24/sb/5813/) - Mandating instruction on agricultural literacy for students in grades seven through 12.   ❓1
 
@@ -175,14 +186,15 @@
 
 ## [SB 5823](/bill/2023-24/sb/5823/) - School district elections 👍1  
 
-## [SB 5849](/bill/2023-24/sb/5849/) - Computer science/graduation   ❓2
+## [SB 5849](/bill/2023-24/sb/5849/) - Computer science/graduation   ❓3
 * ❓ Alissa Muller
+* ❓ J. Lee Schultz
 
 ## [SB 5850](/bill/2023-24/sb/5850/) - Chronically absent students 👍1  
 
 ## [SB 5851](/bill/2023-24/sb/5851/) - Holocaust and genocide edu. 👍1  
 
-## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍1  
+## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍2  
 
 ## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍1  
 
@@ -205,5 +217,6 @@
 
 ## [SB 6216](/bill/2023-24/sb/6216/) - Student mental health net. 👍1  
 
-## [SB 6264](/bill/2023-24/sb/6264/) - Competency-based education 👍2  
+## [SB 6264](/bill/2023-24/sb/6264/) - Competency-based education 👍3  
+* 👍 Alissa Muller
 * 👍 Alissa Muller

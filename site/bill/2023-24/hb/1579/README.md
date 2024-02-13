@@ -30,14 +30,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158987&caId=23923&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158987&caId=23923&tId=4)
 
-#### 222 👍 - Pro
+#### 290 👍 - Pro
 Testifying:
 * Fred Thomas - WA Coalition for Police Accountability
 * Debbie Novak - WA Coalition for Police Accountability
 * Sonia Joseph - WA Coalition for Police Accountability
 * 💵Katrina Johnson - WA Coalition for Police Accountability
 
-#### 3 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Paul Giuglianotti
 * Traci Anderson - WACOPS - Washington Council of Police and Sheriffs

@@ -33,7 +33,8 @@
 
 ## [SB 5590](/bill/2023-24/sb/5590/) - Mt. St. Helens license plate 👍1  
 
-## [SB 5785](/bill/2023-24/sb/5785/) - WDFW/volunteer organizations 👍1  
+## [SB 5785](/bill/2023-24/sb/5785/) - WDFW/volunteer organizations 👍2  
+* 👍💵 Andrea Imler
 
 ## [SB 5902](/bill/2023-24/sb/5902/) - State park system/accounts 👍1  
 

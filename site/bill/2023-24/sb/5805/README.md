@@ -18,9 +18,10 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Bailey Zydek - WA State Office of Civil Legal Aid
+* Gabriel Jacobs
 
 ### Tue 01/09 10:30 AM - Human Services (HS): SB 5805 Dependency/attorney appt.
 #### 2 👍 - Pro

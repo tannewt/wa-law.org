@@ -19,7 +19,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=158846&caId=23937&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=158846&caId=23937&tId=4)
 
-#### 7 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Joe Clark - Bainbridge Island Police Chief
 
 #### 1 👎 - Con
 

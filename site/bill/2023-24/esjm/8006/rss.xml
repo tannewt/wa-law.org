@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/esjm/8006/</link>
 		<description>Updates about ESJM 8006</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 11 Feb 2024 11:51:29 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Feb 2024 04:09:41 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -283,6 +283,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Ronnie/Shure/2024-02-11 11:51:29</guid>
+		</item>
+		<item>
+			<title>👍Andre Stackhouse - Whole Washington</title>
+			<description>Andre Stackhouse signed up to testify Pro. They are signed up to represent Whole Washington.</description>
+			<pubDate>Mon, 12 Feb 2024 04:09:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Andre/Stackhouse/2024-02-12 04:09:05</guid>
+		</item>
+		<item>
+			<title>👎Jeannette Mcchesney - Whole Washington</title>
+			<description>Jeannette Mcchesney signed up to testify Con.</description>
+			<pubDate>Mon, 12 Feb 2024 04:09:41 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jeannette/Mcchesney/2024-02-12 04:09:41</guid>
 		</item>
 	</channel>
 </rss>

@@ -68,9 +68,9 @@
 
 ## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍1  
 
-## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍1  
+## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍2  
 
-## [HB 1957](/bill/2023-24/hb/1957/) - Preventive service coverage 👍1  
+## [HB 1957](/bill/2023-24/hb/1957/) - Preventive service coverage 👍2  
 
 ## [HB 1958](/bill/2023-24/hb/1958/) - Concerning nonconsensual removal of or tampering with a sexually protective device. 👍1  
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5424/</link>
 		<description>Updates about SB 5424</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Feb 2024 05:50:46 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -136,7 +136,7 @@
 			<guid isPermaLink="false">testifier/James/Peterson/2023-03-09 09:53:19</guid>
 		</item>
 		<item>
-			<title>👍Sue Rahr - Ironworkers Local 86</title>
+			<title>👍Sue Rahr - Bainbridge Island Police Chief</title>
 			<description>Sue Rahr signed up to testify Pro.</description>
 			<pubDate>Fri, 10 Mar 2023 04:49:11 GMT</pubDate>
 			<category>testifier</category>
@@ -245,6 +245,22 @@
 			<pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-22/First reading, referred to Community Safety, Justice, &amp; Reentry.</guid>
+		</item>
+		<item>
+			<title>👍💵Lindsey Hueer - Association of Washington Cities</title>
+			<description>Lindsey Hueer signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/association_of_washington_cities/&quot;&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 12 Feb 2024 02:55:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lindsey/Hueer/2024-02-12 02:55:53</guid>
+		</item>
+		<item>
+			<title>👍Joe Clark - Bainbridge Island Police Chief</title>
+			<description>Joe Clark signed up to testify Pro. They are signed up to represent Bainbridge Island Police Chief.</description>
+			<pubDate>Mon, 12 Feb 2024 05:50:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Joe/Clark/2024-02-12 05:50:46</guid>
 		</item>
 	</channel>
 </rss>

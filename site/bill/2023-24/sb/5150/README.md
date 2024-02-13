@@ -21,9 +21,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31919&aId=158855&caId=23927&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31919&aId=158855&caId=23927&tId=4)
 
-#### 3 👍 - Pro
+#### 49 👍 - Pro
+Testifying:
+* 💵Dan Wood - WA State Dairy Federation
+* 💵Mark Streuli - [Washington Cattlemen's Association](/org/washington_cattlemen's_association/)
 
-#### 2 👎 - Con
+#### 9 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1967/</link>
 		<description>Updates about HB 1967</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Feb 2024 04:49:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -38,7 +38,7 @@
 			<guid isPermaLink="false">testifier/Amy/Freedheim/2024-01-23 07:59:47</guid>
 		</item>
 		<item>
-			<title>👍Maggie O'grady - Department of Revenue</title>
+			<title>👍Maggie O'grady - Senior Deputy Prosecutor King County - Felony Traffic</title>
 			<description>Maggie O'grady signed up to testify Pro.</description>
 			<pubDate>Mon, 29 Jan 2024 04:20:46 GMT</pubDate>
 			<category>testifier</category>
@@ -86,6 +86,14 @@
 			<pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-12/First reading, referred to Law &amp; Justice.</guid>
+		</item>
+		<item>
+			<title>❓Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic</title>
+			<description>Amy Freedheim signed up to testify Other. They are signed up to represent Senior Deputy Prosecutor King County - Felony Traffic.</description>
+			<pubDate>Mon, 12 Feb 2024 04:49:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Amy/Freedheim/2024-02-12 04:49:39</guid>
 		</item>
 	</channel>
 </rss>

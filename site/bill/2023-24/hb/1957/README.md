@@ -20,7 +20,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31945&aId=159161&caId=24118&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31945&aId=159161&caId=24118&tId=4)
 
-#### 4 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* 💵Stephanie Simpson - [Bleeding Disorder Foundation of Washington](/org/bleeding_disorder_foundation_of_washington/)
 
 #### 0 👎 - Con
 

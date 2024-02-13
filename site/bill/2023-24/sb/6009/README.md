@@ -24,7 +24,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=159020&caId=24044&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=159020&caId=24044&tId=4)
 
-#### 66 👍 - Pro
+#### 142 👍 - Pro
+Testifying:
+* Monet Mixon-Ellis - WA Coalition for Police Accountability
+* Victoria Woodards - Mayor of the City of Tacoma
 
 #### 0 👎 - Con
 

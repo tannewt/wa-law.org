@@ -11,6 +11,23 @@
 * 02/05/2024 [The Center Square](/org/the_center_square/) - [Gray wolves’ status in Washington unchanged after feds’ announcement | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3f61e07c-c46b-11ee-ad4a-6b53f53f0a0d.html#:~:text=House%20Bill%202424)
 
 ## Meetings
+### Wed 02/14 04:00 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SHB 2424 State-tribe coop./wildlife
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31926&aId=159318&caId=24167&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31926&aId=159318&caId=24167&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31926&aId=159318&caId=24167&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31926&aId=159318&caId=24167&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* Tom McBride - WDFW
+
+#### 1 👎 - Con
+Testifying:
+* David Linn - David Linn
+
+#### 0 ❓ - Other
+
 ### Fri 01/26 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2424 State-tribe coop./wildlife
 #### 278 👍 - Pro
 Testifying:

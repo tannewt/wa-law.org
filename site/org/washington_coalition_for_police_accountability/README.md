@@ -51,8 +51,12 @@
 * 👍💵 Paul Benz
 * 👍 Martina Morris
 
+## [HB 1635](/bill/2023-24/hb/1635/) - Police dogs/liability  👎1 
+
 ## [HB 2027](/bill/2023-24/hb/2027/) - Concerning certification, background checks, and training requirements for sheriffs, police chiefs, marshals, reserve officers, and volunteers. 👍3  
 * 👍 Leslie Cushman
+
+## [SB 5299](/bill/2023-24/sb/5299/) - Law enf. officer protection  👎1 
 
 ## [SB 5361](/bill/2023-24/sb/5361/) - Law enf. officers/increase  👎1 
 * 👎 Leslie Cushman
@@ -67,7 +71,7 @@
 ## [SB 5572](/bill/2023-24/sb/5572/) - Traffic safety 👍3  
 * 👍 Tonya Isabell
 
-## [SB 6009](/bill/2023-24/sb/6009/) - Hog-tying 👍3  
+## [SB 6009](/bill/2023-24/sb/6009/) - Hog-tying 👍4  
 
 ## [SB 6181](/bill/2023-24/sb/6181/) - Law enf. officer definition 👍1  
 * 👍 Leslie Cushman

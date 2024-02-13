@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
 * 02/09/2024 [The Center Square](/org/the_center_square/) - [Bill to pave way for linking Washington's carbon market to CA-Quebec advances | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_4e98470a-c77e-11ee-a706-d3013bc1aa0e.html#:~:text=Senate%20Bill%206058)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1277/</link>
 		<description>Updates about HB 1277</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Feb 2024 09:03:32 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Feb 2024 08:25:41 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -199,6 +199,22 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Noelle/Chun/2024-02-09 09:03:32</guid>
+		</item>
+		<item>
+			<title>👍Mario Meijia - Olympia Education Association / WEA</title>
+			<description>Mario Meijia signed up to testify Pro. They are signed up to represent Olympia Education Association / WEA.</description>
+			<pubDate>Mon, 12 Feb 2024 06:32:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mario/Meijia/2024-02-12 06:32:28</guid>
+		</item>
+		<item>
+			<title>👍💵Simone Boe - Washington Education Association</title>
+			<description>Simone Boe signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_education_association/&quot;&gt;Washington Education Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 12 Feb 2024 08:25:41 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Simone/Boe/2024-02-12 08:25:41</guid>
 		</item>
 	</channel>
 </rss>

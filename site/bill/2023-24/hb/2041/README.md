@@ -20,7 +20,9 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Stephanie Mason - Washington Medical Commission
 
 ### Tue 01/09 01:30 PM - Health Care & Wellness (HCW): HB 2041 Physician assistant practice
 #### 524 👍 - Pro

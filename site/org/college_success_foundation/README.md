@@ -41,7 +41,7 @@
 
 ## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍1  
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍2  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍3  
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍1  
 
@@ -146,11 +146,13 @@
 * 👍💵 Emily Stochel
 * 👍💵 Juliet Schindler
 
-## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍2  
+## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍3  
 
 ## [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation 👍1  
 
 ## [SB 5999](/bill/2023-24/sb/5999/) - Financial aid eligibility 👍1  
+
+## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍1  
 
 ## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍1  
 

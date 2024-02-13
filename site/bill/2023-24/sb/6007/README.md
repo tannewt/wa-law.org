@@ -19,11 +19,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158984&caId=23973&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158984&caId=23973&tId=4)
 
-#### 249 👍 - Pro
+#### 329 👍 - Pro
 Testifying:
+* Maggie Breshears
 * Isaac Wagnitz - UFCW Local 367
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 
 #### 6 ❓ - Other
 

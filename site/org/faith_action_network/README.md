@@ -70,7 +70,7 @@
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍7  
 
-## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍10  
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍11  
 
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍8  
 * 👍💵 Kristin Ang

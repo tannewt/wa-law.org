@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31906&aId=159160&caId=24117&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31906&aId=159160&caId=24117&tId=4)
 
-#### 4 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Bill Kallappa - [Washington State Board of Education](/org/washington_state_board_of_education/)
+* Paul Pitre - [Washington State Board of Education](/org/washington_state_board_of_education/)
+* Willard Bill Jr. - Office of Superintendent of Public Instruction
 
 #### 0 👎 - Con
 

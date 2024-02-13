@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Mon 01/22 10:30 AM - Labor & Commerce (LC): SB 6179 Liquor biometric age verif.

@@ -36,16 +36,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31953&aId=159127&caId=24080&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31953&aId=159127&caId=24080&tId=4)
 
-#### 238 👍 - Pro
+#### 624 👍 - Pro
 Testifying:
+* Kati Perez - WashingtonCAN
 * Danni Askini - Gender Justice League
 
-#### 390 👎 - Con
+#### 671 👎 - Con
 Testifying:
 * Steven Kaptik - Washington Gastroenterology; Washington Independent Physican Practice Association
 * Gabriel Jacobs
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SB 5241 Health care marketplace
 #### 435 👍 - Pro

@@ -24,12 +24,18 @@ Sign up to testify:
 
 #### 2 👍 - Pro
 
-#### 6 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * Theresa Schrempp
 * Rebecca Anderson
+* Mary Dispensa - Catholic Accountability Project
+* Peter Isely - Catholic Accountability Project
+* Robert Fontana - Catholic Accountability Project
+* Timothy LAW - Law & Law
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Sharon Huling - Catholic Accountability Project
 
 ### Thu 01/25 08:00 AM - Human Services (HS): SB 6298 Concerning the duty of the clergy to report child abuse or neglect. (Remote Testimony Available).
 #### 17 👍 - Pro

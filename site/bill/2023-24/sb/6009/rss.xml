@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6009/</link>
 		<description>Updates about SB 6009</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Feb 2024 21:49:14 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Feb 2024 05:56:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -177,6 +177,22 @@
 			<pubDate>Fri, 09 Feb 2024 21:49:14 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.nwnewsnetwork.org/2024-02-09/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%206009</guid>
+		</item>
+		<item>
+			<title>👍Monet Mixon-Ellis - WA Coalition for Police Accountability</title>
+			<description>Monet Mixon-Ellis signed up to testify Pro. They are signed up to represent WA Coalition for Police Accountability.</description>
+			<pubDate>Mon, 12 Feb 2024 03:50:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Monet/Mixon-Ellis/2024-02-12 03:50:14</guid>
+		</item>
+		<item>
+			<title>👍Victoria Woodards - Mayor of the City of Tacoma</title>
+			<description>Victoria Woodards signed up to testify Pro. They are signed up to represent Mayor of the City of Tacoma.</description>
+			<pubDate>Mon, 12 Feb 2024 05:56:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Victoria/Woodards/2024-02-12 05:56:09</guid>
 		</item>
 	</channel>
 </rss>

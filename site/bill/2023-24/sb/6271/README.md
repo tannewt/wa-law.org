@@ -21,9 +21,11 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
 
 ### Mon 01/22 10:30 AM - Labor & Commerce (LC): SB 6271 Cannabis excise tax/THC
 #### 6 👍 - Pro

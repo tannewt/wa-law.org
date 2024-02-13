@@ -19,7 +19,7 @@
 ## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief 👍1  
 * 👍 Teresa Groves
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍3  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍4  
 * 👍💵 Kelly Olson
 
 ## [HB 1562](/bill/2023-24/hb/1562/) - Violence  👎2 

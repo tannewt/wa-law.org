@@ -17,7 +17,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31932&aId=159030&caId=24015&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31932&aId=159030&caId=24015&tId=4)
 
-#### 16 👍 - Pro
+#### 24 👍 - Pro
+Testifying:
+* Emily Salzberg - Washington Department of Commerce
 
 #### 0 👎 - Con
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2112/</link>
 		<description>Updates about HB 2112</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 12 Feb 2024 12:56:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -270,6 +270,22 @@
 			<pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-12/First reading, referred to Higher Education &amp; Workforce Development.</guid>
+		</item>
+		<item>
+			<title>👍Melissa Beard - Council of Presidents</title>
+			<description>Melissa Beard signed up to testify Pro. They are signed up to represent Council of Presidents.</description>
+			<pubDate>Mon, 12 Feb 2024 02:34:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Melissa/Beard/2024-02-12 02:34:31</guid>
+		</item>
+		<item>
+			<title>👍Amanda Kost - UW Faculty</title>
+			<description>Amanda Kost signed up to testify Pro. They are signed up to represent UW Faculty.</description>
+			<pubDate>Mon, 12 Feb 2024 12:56:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Amanda/Kost/2024-02-12 12:56:14</guid>
 		</item>
 	</channel>
 </rss>

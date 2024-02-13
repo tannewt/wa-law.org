@@ -40,7 +40,8 @@
 * ❓💵 Paul Jewell
 * ❓💵 Paul Jewell
 
-## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍1  
+## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍2  
+* 👍💵 Travis Dutton
 
 ## [HB 1186](/bill/2023-24/hb/1186/) - Child welfare housing 👍1  
 
@@ -280,6 +281,9 @@
 
 ## [HB 2393](/bill/2023-24/hb/2393/) - Unleaded aircraft fuel/tax  👎1 
 * 👎💵 Paul Jewell
+
+## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases 👍1  
+* 👍💵 Travis Dutton
 
 ## [HB 2415](/bill/2023-24/hb/2415/) - Economic assistance/TANF 👍1  
 

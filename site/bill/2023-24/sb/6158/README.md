@@ -25,7 +25,7 @@ Testifying:
 * Betty Erickson - Cowlitz County PFD, Chiar AWSFPD Board
 * Jim Hedrick - Association of Washington State Public Facility Districts (AWSPFD)
 * Corey Pierson - Executive Director Three Rivers Convention Center
-* Janet Pope - Lynnwood Public Facilities District
+* Janet Pope - [Lynnwood Public Facilities District](/org/lynnwood_public_facilities_district/)
 
 #### 0 👎 - Con
 

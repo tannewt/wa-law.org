@@ -21,15 +21,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=159108&caId=24049&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=159108&caId=24049&tId=4)
 
-#### 5 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Kimberly Headrick - Medical Lake School District
 * Troy Goracke - Washington State Board for Community and Technical Colleges
 * Carrie McKenzie - Washington State PTA
+* Alissa Muller - [Washington State Board of Education](/org/washington_state_board_of_education/)
 
-#### 401 👎 - Con
+#### 693 👎 - Con
 Testifying:
 * Dejsha Denton
+* Michelle Andres - 1421 Road 77
 * Andy Cilley
 
 #### 0 ❓ - Other

@@ -40,11 +40,13 @@
 
 ## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  
 
+## [SB 5995](/bill/2023-24/sb/5995/) - Interpreters and translators 👍1  
+
 ## [SB 5996](/bill/2023-24/sb/5996/) - H-2A worker program data 👍1  
 
 ## [SB 5999](/bill/2023-24/sb/5999/) - Financial aid eligibility 👍1  
 
-## [SB 6109](/bill/2023-24/sb/6109/) - Children and families   ❓2
+## [SB 6109](/bill/2023-24/sb/6109/) - Children and families   ❓3
 
 ## [SB 6269](/bill/2023-24/sb/6269/) - Alt. voter verification 👍2  
 * 👍 Jake García

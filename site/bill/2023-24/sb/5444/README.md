@@ -17,6 +17,21 @@
 * 01/14/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 2: MLK, education, gas price transparency - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/14/this-week-in-the-senate-week-2-mlk-education-gas-price-transparency/#:~:text=SB%205444)
 
 ## Meetings
+### Fri 02/16 10:30 AM - Civil Rights & Judiciary (CRJ): 2SSB 5444 Firearms/certain premises
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159320&caId=24169&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159320&caId=24169&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159320&caId=24169&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159320&caId=24169&tId=4)
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+Testifying:
+* Todd Rathner - Knife Rights
+
+#### 0 ❓ - Other
+
 ### Sat 02/03 09:00 AM - Ways & Means (WM): SSB 5444 Firearm sensitive places
 #### 859 👍 - Pro
 Testifying:

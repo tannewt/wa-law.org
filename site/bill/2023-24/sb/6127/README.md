@@ -19,7 +19,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159052&caId=24071&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159052&caId=24071&tId=4)
 
-#### 13 👍 - Pro
+#### 20 👍 - Pro
+Testifying:
+* 💵Jonathan Frochtzwajg - Cascade AIDS Project
 
 #### 0 👎 - Con
 

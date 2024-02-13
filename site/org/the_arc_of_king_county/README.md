@@ -103,7 +103,7 @@
 
 ## [HB 1916](/bill/2023-24/hb/1916/) - Infants and toddlers program 👍2  
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍2  
 
 ## [HB 1941](/bill/2023-24/hb/1941/) - Health home serv./children 👍1  
 
@@ -150,7 +150,7 @@
 
 ## [HB 2365](/bill/2023-24/hb/2365/) - Respite care 👍1  
 
-## [HB 2415](/bill/2023-24/hb/2415/) - Economic assistance/TANF 👍1  
+## [HB 2415](/bill/2023-24/hb/2415/) - Economic assistance/TANF 👍2  
 
 ## [HB 2494](/bill/2023-24/hb/2494/) - School operating costs 👍1  
 
@@ -232,6 +232,8 @@
 
 ## [SB 5850](/bill/2023-24/sb/5850/) - Chronically absent students 👍1  
 
+## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍1  
+
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
 
 ## [SB 5864](/bill/2023-24/sb/5864/) - Rare disease supports 👍2  
@@ -240,7 +242,7 @@
 
 ## [SB 5873](/bill/2023-24/sb/5873/) - Student transportation 👍1  
 
-## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍3  
+## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍4  
 
 ## [SB 5883](/bill/2023-24/sb/5883/) - Concerning the burden of proof for special education due process hearings. 👍4  
 * 👍💵 Ramona Hattendorf

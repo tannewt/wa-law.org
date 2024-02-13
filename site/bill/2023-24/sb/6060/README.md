@@ -15,9 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158981&caId=23971&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158981&caId=23971&tId=4)
 
-#### 5 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Derya Ruggles - [Washington Public Employees Association](/org/washington_public_employees_association/)
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * 💵Maxford Nelsen - [Freedom Foundation](/org/freedom_foundation/)
 

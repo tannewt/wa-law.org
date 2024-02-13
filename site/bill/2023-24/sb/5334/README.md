@@ -22,12 +22,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31955&aId=158960&caId=23974&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31955&aId=158960&caId=23974&tId=4)
 
-#### 108 👍 - Pro
+#### 143 👍 - Pro
 Testifying:
 * Carl Florea - Mayor of Leavenworth
 * Salim Nice - Mayor, Mecer ISland
+* 💵Brent Ludeman
 
-#### 3 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* CAROLYN ALLEN
 
 #### 0 ❓ - Other
 

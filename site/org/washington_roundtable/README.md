@@ -32,7 +32,7 @@
 
 ## [HB 1885](/bill/2023-24/hb/1885/) - Strengthening campaign finance disclosure by prohibiting campaign contributions and expenditures by foreign-influenced corporations.  👎1 
 
-## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍1  
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍2  
 
 ## [HB 2025](/bill/2023-24/hb/2025/) - State work-study program 👍1  
 

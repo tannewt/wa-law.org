@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Sat 02/03 09:00 AM - Ways & Means (WM): SSB 6110 Child fatalities

@@ -77,7 +77,7 @@
 
 ## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍1  
 
-## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍1  
+## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍2  
 
 ## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍2  
 
@@ -86,6 +86,8 @@
 ## [HB 2021](/bill/2023-24/hb/2021/) - Firearm disposition 👍1  
 
 ## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍2  
+
+## [HB 2115](/bill/2023-24/hb/2115/) - Prescription labels/abortion 👍1  
 
 ## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍1  
 
@@ -103,7 +105,7 @@
 
 ## [HB 2296](/bill/2023-24/hb/2296/) - Comprehensive plan revisions 👍1  
 
-## [HB 2321](/bill/2023-24/hb/2321/) - Middle housing requirements 👍1  
+## [HB 2321](/bill/2023-24/hb/2321/) - Middle housing requirements 👍2  
 
 ## [HB 2323](/bill/2023-24/hb/2323/) - Rent payments/credit reports 👍1  
 
@@ -177,7 +179,7 @@
 
 ## [SB 5975](/bill/2023-24/sb/5975/) - Authorizing use of the housing trust fund and other legislative appropriations to finance social housing. 👍1  
 
-## [SB 5985](/bill/2023-24/sb/5985/) - Firearms background checks 👍1  
+## [SB 5985](/bill/2023-24/sb/5985/) - Firearms background checks 👍2  
 
 ## [SB 6013](/bill/2023-24/sb/6013/) - Homeownership dev. tax ex. 👍2  
 

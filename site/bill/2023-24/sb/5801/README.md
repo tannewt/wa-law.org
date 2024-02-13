@@ -16,7 +16,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31950&aId=158939&caId=23941&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31950&aId=158939&caId=23941&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Kari Bearman - Uniform Law Commission
 * Michael Wiseman - Reporter to the Uniform Special Deposits Act Drafting Committee

@@ -298,7 +298,7 @@
 
 ## [HB 1815](/bill/2023-24/hb/1815/) - Payment card processing/tax 👍2  
 
-## [HB 1818](/bill/2023-24/hb/1818/) - Forestland/compensating tax 👍1  
+## [HB 1818](/bill/2023-24/hb/1818/) - Forestland/compensating tax 👍2  
 
 ## [HB 1821](/bill/2023-24/hb/1821/) - Postsecondary credentials 👍1  
 
@@ -758,6 +758,8 @@
 ## [SB 6064](/bill/2023-24/sb/6064/) - Pet fees, deposits  👎1 
 * 👎💵 Morgan Irwin
 
+## [SB 6080](/bill/2023-24/sb/6080/) - Tourism marketing funding 👍1  
+
 ## [SB 6092](/bill/2023-24/sb/6092/) - Greenhouse gas disclosures  👎1 
 * 👎💵 Peter Godlewski
 
@@ -775,7 +777,8 @@
 
 ## [SB 6136](/bill/2023-24/sb/6136/) - Rental property B&O tax  👎1 
 
-## [SB 6137](/bill/2023-24/sb/6137/) - Semiconductor tax incentives 👍1  
+## [SB 6137](/bill/2023-24/sb/6137/) - Semiconductor tax incentives 👍2  
+* 👍💵 Emily Shay
 * 👍💵 Emily Shay
 
 ## [SB 6143](/bill/2023-24/sb/6143/) - Salmon habitat planning  👎1 
@@ -805,3 +808,5 @@
 
 ## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍1  
 * 👍💵 Morgan Irwin
+
+## [SJM 8009](/bill/2023-24/sjm/8009/) - Harbor maintenance tax 👍1  
