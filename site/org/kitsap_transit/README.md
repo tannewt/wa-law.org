@@ -15,6 +15,8 @@
 ## [HB 2316](/bill/2023-24/hb/2316/) - PERS/certain bus drivers 👍2  
 * 👍 John Clauson
 
+## [HB 2497](/bill/2023-24/hb/2497/) - Ferries 75 work group 👍1  
+
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍2  
 
 ## [SB 5292](/bill/2023-24/sb/5292/) - PTBA aquatic lands access 👍2  
@@ -29,10 +31,11 @@
 
 ## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍4  
 
-## [SB 5881](/bill/2023-24/sb/5881/) - Concerning membership in the public employees' retirement system for certain part-time bus drivers employed full-time by the federal government. 👍3  
+## [SB 5881](/bill/2023-24/sb/5881/) - Concerning membership in the public employees' retirement system for certain part-time bus drivers employed full-time by the federal government. 👍4  
 * 👍 John Clauson
 * 👍 Paul Shinners
 * 👍 wendy sorensen
+* 👍 Dylan Doty
 
 ## [SB 6185](/bill/2023-24/sb/6185/) - PTBA governing body members   ❓1
 * ❓ Sanjay Bhatt

@@ -9,6 +9,8 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/14/2024 [MyNorthwest](/org/mynorthwest/) - [Inmates can ask to leave prison sooner in Wash. House-passed bill - MyNorthwest.com](https://mynorthwest.com/3950700/inmates-can-seek-leave-prison-sooner-under-washington-house-passed-bill/#:~:text=House%20Bill%202001%20(HB%202001))
+* 02/13/2024 [The Center Square](/org/the_center_square/) - [Felon rights bills divide lawmakers but move forward in Olympia | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_bfd9d64c-cac4-11ee-8622-4bb2d43796b2.html#:~:text=House%20Bill%202001)
 * 01/27/2024 [NW News Network](/org/nw_news_network/) - [Natural gas, opioids and DUIs: Highlights from week 3 of Washington's legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-26/natural-gas-opioids-and-duis-highlights-from-week-3-of-washingtons-legislative-session#:~:text=House%20Bill%202001)
 * 01/22/2024 [House Democrats](/org/house_democrats/) - [Simmons’ Judicial Discretion Act (HB 2001) to Hear Public Testimony in the House Community Safety, Justice, & Reentry Committee – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/22/simmons-judicial-discretion-act-hb-2001-to-hear-public-testimony-in-the-house-community-safety-justice-reentry-committee/#:~:text=House%20Bill%202001)
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202001)

@@ -309,16 +309,18 @@
 
 ## [SB 5697](/bill/2023-24/sb/5697/) - Mobile home park rates 👍1  
 
-## [SB 5837](/bill/2023-24/sb/5837/) - Codifying the state election database to publish, evaluate, and analyze certain election data. 👍1  
+## [SB 5837](/bill/2023-24/sb/5837/) - Codifying the state election database to publish, evaluate, and analyze certain election data. 👍2  
 
 ## [SB 5843](/bill/2023-24/sb/5843/) - Election security breaches 👍2  
 
-## [SB 5856](/bill/2023-24/sb/5856/) - Concerning voter registration challenges. 👍1  
+## [SB 5856](/bill/2023-24/sb/5856/) - Concerning voter registration challenges. 👍2  
 
-## [SB 5857](/bill/2023-24/sb/5857/) - Campaign disclosure reorg. 👍1  
+## [SB 5857](/bill/2023-24/sb/5857/) - Campaign disclosure reorg. 👍2  
 
 ## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍2  
 
 ## [SB 5993](/bill/2023-24/sb/5993/) - Voter education  👎1 
+
+## [SB 6269](/bill/2023-24/sb/6269/) - Alt. voter verification 👍1  
 
 ## [ESJM 8006](/bill/2023-24/esjm/8006/) - Universal health care 👍1  

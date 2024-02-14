@@ -13,6 +13,21 @@
 * 02/09/2024 [House Democrats](/org/house_democrats/) - [Mena’s Bill Embraces Global Future For WA – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/09/menas-bill-embraces-global-future-for-wa/#:~:text=House%20Bill%202000)
 
 ## Meetings
+### Thu 02/15 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): E2SHB 2000 International leadership
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31917&aId=159558&caId=24184&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31917&aId=159558&caId=24184&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31917&aId=159558&caId=24184&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31917&aId=159558&caId=24184&tId=4)
+
+#### 2 👍 - Pro
+
+#### 5 👎 - Con
+Testifying:
+* Sandra Kord
+
+#### 0 ❓ - Other
+
 ### Thu 01/25 04:00 PM - Appropriations (APP): SHB 2000 International leadership
 #### 18 👍 - Pro
 Testifying:

@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/12/2024 [Gorge News Center](/org/gorge_news_center/) - [Senate passes Wilson bill to ‘get the scoop on the poop’](https://gorgenewscenter.com/2024/02/12/senate-passes-wilson-bill-to-get-the-scoop-on-the-poop/#:~:text=Senate%20Bill%206163)
+
 ## Meetings
 ### Fri 02/02 01:30 PM - Ways & Means (WM): SSB 6163 Biosolids
 #### 37 👍 - Pro

@@ -94,7 +94,7 @@
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍2  
 
-## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍2  
+## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍3  
 
 ## [HB 1188](/bill/2023-24/hb/1188/) - Child welfare services/DD 👍1  
 
@@ -321,11 +321,13 @@
 
 ## [HB 1935](/bill/2023-24/hb/1935/) - Promoting resource conservation practices that include student education and leadership opportunities in public schools. 👍1  
 
-## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍1  
+## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍2  
 
 ## [HB 1952](/bill/2023-24/hb/1952/) - Disasters/long-term recovery 👍1  
 
 ## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
+
+## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍1  
 
 ## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍1  
 
@@ -357,6 +359,8 @@
 
 ## [HB 2111](/bill/2023-24/hb/2111/) - Subsidized child care 👍1  
 
+## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention 👍1  
+
 ## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍2  
 
 ## [HB 2129](/bill/2023-24/hb/2129/) - Geothermal energy resources 👍1  
@@ -377,6 +381,8 @@
 ## [HB 2211](/bill/2023-24/hb/2211/) - Criminal justice local tax 👍1  
 * 👍💵 Michael White
 
+## [HB 2217](/bill/2023-24/hb/2217/) - Juvenile criminal offenses 👍1  
+
 ## [HB 2219](/bill/2023-24/hb/2219/) - Affordable housing/tax ex. 👍1  
 
 ## [HB 2231](/bill/2023-24/hb/2231/) - Law enforcement funding   ❓1
@@ -385,7 +391,7 @@
 
 ## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍1  
 
-## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍2  
+## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍3  
 
 ## [HB 2250](/bill/2023-24/hb/2250/) - Local elections 👍1  
 
@@ -393,7 +399,7 @@
 
 ## [HB 2258](/bill/2023-24/hb/2258/) - Regional 911 funding  👎1 
 
-## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍2  
+## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍3  
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
@@ -523,7 +529,7 @@
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍3  
 
-## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍8  
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍9  
 * 👍💵 April Putney
 * 👍💵 Michael White
 * 👍💵 Michael White
@@ -603,7 +609,7 @@
 
 ## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍1  
 
-## [SB 5424](/bill/2023-24/sb/5424/) - Flexible work/peace officers 👍1  
+## [SB 5424](/bill/2023-24/sb/5424/) - Flexible work/peace officers 👍2  
 
 ## [SB 5426](/bill/2023-24/sb/5426/) - Family connections program 👍1  
 
@@ -720,6 +726,10 @@
 
 ## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  
 
+## [SB 5974](/bill/2023-24/sb/5974/) - Unenforceable LFOs 👍1  
+
+## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍1  
+
 ## [SB 5983](/bill/2023-24/sb/5983/) - Syphilis treatment 👍1  
 
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
@@ -732,6 +742,8 @@
 ## [SB 6144](/bill/2023-24/sb/6144/) - Prescribing psychologists 👍1  
 
 ## [SB 6152](/bill/2023-24/sb/6152/) - Housing needs gap 👍1  
+
+## [SB 6157](/bill/2023-24/sb/6157/) - Civil service 👍1  
 
 ## [SB 6163](/bill/2023-24/sb/6163/) - Biosolids 👍2  
 

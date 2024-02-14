@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/12/2024 [House Democrats](/org/house_democrats/) - [Rep. Bateman bill addressing behavioral health workforce shortage passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/12/rep-bateman-bill-addressing-behavioral-health-workforce-shortage-passes-house/#:~:text=House%20Bill%202247)
 * 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=HB%202247)
 * 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=HB%202247)
 * 01/28/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/28/the-house-hot-sheet-for-week-4-of-the-2024-legislative-session/#:~:text=HB%202247)
@@ -22,11 +23,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31945&aId=159267&caId=24150&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31945&aId=159267&caId=24150&tId=4)
 
-#### 0 👍 - Pro
+#### 44 👍 - Pro
+Testifying:
+* Laurie Lippold - Partners for Our Children
+* Julia O'Connor - [Washington Council for Behavioral Health](/org/washington_council_for_behavioral_health/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Bob Cooper - National Association of Social Workers WA Chapter
 
 ### Sat 02/03 09:00 AM - Appropriations (APP): SHB 2247 Behavioral health providers
 #### 19 👍 - Pro

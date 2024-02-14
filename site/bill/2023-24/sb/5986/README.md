@@ -12,17 +12,25 @@
 
 ## Meetings
 ### Wed 02/14 01:30 PM - Health Care & Wellness (HCW): SSB 5986 Out-of-network health costs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159051&caId=24070&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159051&caId=24070&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159051&caId=24070&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159051&caId=24070&tId=4)
-
-#### 15 👍 - Pro
+#### 100 👍 - Pro
+Testifying:
+* Chris Cato - EMS Division Chief - Pend Oreille County Fire District
+* Lena Qiu
+* Mike Battis - Ballard Ambulance/Washington Ambulance Association
+* Shawn Baird - Cascade Ambulance
+* Dwight Worden - Teamsters - Local 231
+* Jane Beyer - Office of the Insurance Commissioner
+* Shaun Ford - Washington Fire Chief's Association
+* Jim Freeburg - Patient Coalition of Washington
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* 💵Jane Douthit - Regence
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* 💵Samuel Wilcoxson - Premera
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 
 ### Mon 01/29 04:00 PM - Ways & Means (WM): SB 5986 Out-of-network health costs
 #### 173 👍 - Pro

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31899&aId=159008&caId=24002&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31899&aId=159008&caId=24002&tId=4)
 
-#### 22 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * Mark Robbins - Point Roberts Taxpayers Association
 

@@ -34,6 +34,8 @@
 
 ## [HB 1916](/bill/2023-24/hb/1916/) - Infants and toddlers program 👍1  
 
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
+
 ## [HB 1970](/bill/2023-24/hb/1970/) - DCYF-caregiver communication 👍1  
 
 ## [HB 2001](/bill/2023-24/hb/2001/) - Sentence modification 👍1  
@@ -49,10 +51,13 @@
 
 ## [HB 2186](/bill/2023-24/hb/2186/) - Juv. deferred adjudications 👍1  
 
-## [HB 2217](/bill/2023-24/hb/2217/) - Juvenile criminal offenses 👍2  
+## [HB 2217](/bill/2023-24/hb/2217/) - Juvenile criminal offenses 👍4  
 * 👍 Nicholas Oakley
+* 👍 Giannina Ferrara
 
 ## [HB 2218](/bill/2023-24/hb/2218/) - Extended foster care 👍1  
+
+## [HB 2224](/bill/2023-24/hb/2224/) - Child abuse referral tool 👍1  
 
 ## [HB 2251](/bill/2023-24/hb/2251/) - Unenforceable LFOs 👍1  
 
@@ -72,11 +77,13 @@
 
 ## [SB 5316](/bill/2023-24/sb/5316/) - DCYF background check fees 👍1  
 
-## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍1  
+## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍2  
+
+## [SB 5800](/bill/2023-24/sb/5800/) - Improving access to department of licensing issued documents by clarifying the application requirements for a minor, modifying the requirements for at-cost identicards, and studying the feasibility of reduced-fee identicards. 👍1  
 
 ## [SB 5850](/bill/2023-24/sb/5850/) - Chronically absent students 👍1  
 
-## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍3  
+## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍4  
 
 ## [SB 5933](/bill/2023-24/sb/5933/) - Infants and toddlers program 👍1  
 
@@ -90,4 +97,4 @@
 
 ## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍3  
 
-## [SB 6109](/bill/2023-24/sb/6109/) - Children and families   ❓1
+## [SB 6109](/bill/2023-24/sb/6109/) - Children and families 👍1  ❓3

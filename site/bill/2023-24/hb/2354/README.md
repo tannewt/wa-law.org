@@ -7,8 +7,24 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)
 
 ## Meetings
+### Thu 02/15 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): E2SHB 2354 Tax increment areas
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159643&caId=24189&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159643&caId=24189&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159643&caId=24189&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159643&caId=24189&tId=4)
+
+#### 8 👍 - Pro
+Testifying:
+* Dylan Doty - Washington Fire Chiefs Association
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/24 08:00 AM - Local Government (LG): HB 2354 Tax increment areas
 #### 72 👍 - Pro
 Testifying:

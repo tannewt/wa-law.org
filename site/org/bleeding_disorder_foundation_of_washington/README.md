@@ -35,6 +35,8 @@
 
 ## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍2  
 
+## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍1  
+
 ## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍1  
 
 ## [HB 1957](/bill/2023-24/hb/1957/) - Preventive service coverage 👍2  
@@ -77,7 +79,7 @@
 * 👍 Claire Symons
 * 👍💵 Stephanie Simpson
 
-## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍3  
 
@@ -103,9 +105,9 @@
 
 ## [SB 5864](/bill/2023-24/sb/5864/) - Rare disease supports 👍2  
 
-## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍1  
+## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍2  
 
-## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍2  
+## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍3  
 
 ## [SB 6144](/bill/2023-24/sb/6144/) - Prescribing psychologists 👍1  
 

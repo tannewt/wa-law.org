@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5589/</link>
 		<description>Updates about SB 5589</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 22 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Feb 2024 11:32:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -160,6 +160,22 @@
 			<pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-22/First reading, referred to Civil Rights &amp; Judiciary.</guid>
+		</item>
+		<item>
+			<title>👍Ryan Montgomery - Montgomery Purdue</title>
+			<description>Ryan Montgomery signed up to testify Pro. They are signed up to represent Montgomery Purdue.</description>
+			<pubDate>Wed, 14 Feb 2024 11:32:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ryan/Montgomery/2024-02-14 11:32:02</guid>
+		</item>
+		<item>
+			<title>👍Watson Blair - Montgomery Purdue</title>
+			<description>Watson Blair signed up to testify Pro.</description>
+			<pubDate>Wed, 14 Feb 2024 11:32:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Watson/Blair/2024-02-14 11:32:02</guid>
 		</item>
 	</channel>
 </rss>

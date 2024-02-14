@@ -9,7 +9,12 @@
 
 ## [HB 1690](/bill/2023-24/hb/1690/) - Kidney disease centers 👍1  
 
+## [HB 2476](/bill/2023-24/hb/2476/) - Creating a covered lives assessment professional services rate account.  👎1 
+* 👎💵 Gary Strannigan
+
 ## [SB 5036](/bill/2023-24/sb/5036/) - Audio-only telemedicine 👍1  
+
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
 
 ## [SB 5300](/bill/2023-24/sb/5300/) - Behavioral health continuity   ❓1
 * ❓💵 Christine Brewer
@@ -20,7 +25,9 @@
 
 ## [SB 5569](/bill/2023-24/sb/5569/) - Kidney disease centers 👍1  
 
-## [SB 5821](/bill/2023-24/sb/5821/) - Audio-only telemedicine 👍1  
+## [SB 5821](/bill/2023-24/sb/5821/) - Audio-only telemedicine 👍2  
+
+## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍1  
 
 ## [SB 6218](/bill/2023-24/sb/6218/) - Dental only plans  👎1 
 

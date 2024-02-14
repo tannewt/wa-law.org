@@ -10,23 +10,22 @@
 
 ## Meetings
 ### Wed 02/14 10:30 AM - Housing (HSG): ESHB 2321 Middle housing requirements
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31918&aId=159116&caId=24062&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31918&aId=159116&caId=24062&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31918&aId=159116&caId=24062&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31918&aId=159116&caId=24062&tId=4)
-
-#### 13 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * Dave Andersen - Washington Department of Commerce
 * Scott Bonjukian
+* 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 5 ❓ - Other
+#### 39 ❓ - Other
 Testifying:
 * Sandy Shettler
+* Kathleen Russell
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Steve Zemke - Friends of Seattle's Urban Forest and TreePAC
 
 ### Mon 01/22 01:30 PM - Housing (HOUS): HB 2321 Middle housing requirements
 #### 73 👍 - Pro

@@ -17,15 +17,10 @@
 
 ## Meetings
 ### Wed 02/14 10:30 AM - Early Learning & K-12 Education (EDU): HB 1146 Dual credit program notice
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31906&aId=158994&caId=23990&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31906&aId=158994&caId=23990&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31906&aId=158994&caId=23990&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31906&aId=158994&caId=23990&tId=4)
-
-#### 8 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Natalya Yudkovsky - Washington State PTA
+* 💵Kia Franklin - Stand for Children WA
 
 #### 1 👎 - Con
 

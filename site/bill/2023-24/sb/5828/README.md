@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
+
+## 📰 Articles
+* 02/13/2024 [House Democrats](/org/house_democrats/) - [Shewmake and Timmons bills to add support for Whatcom County Superior Court – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/13/shewmake-and-timmons-bills-to-add-support-for-whatcom-county-superior-court/#:~:text=Senate%20Bill%205828)
 
 ## Meetings
 ### Thu 02/01 01:30 PM - Ways & Means (WM): SSB 5828 Water rights commissioners

@@ -20,12 +20,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31917&aId=159171&caId=24140&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31917&aId=159171&caId=24140&tId=4)
 
-#### 13 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Jennie Dickinson - Port of Columbia
 * Jennifer Wray-Keene - Port of Woodland
 * DAvid Ripp - Port of Camas-Washougal
 * Ariane Schmidt - Broadlinc
+* Wendy Smith - Port of Shelton / Community Economic Revitatlization Board (CERB)
 
 #### 0 👎 - Con
 

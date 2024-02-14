@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/13/2024 [The Center Square](/org/the_center_square/) - [Felon rights bills divide lawmakers but move forward in Olympia | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_bfd9d64c-cac4-11ee-8622-4bb2d43796b2.html#:~:text=House%20Bill%202065)
 * 02/09/2024 [The Seattle Times](/org/the_seattle_times/) - [End ‘juvenile points’ sentencing that disproportionately harms Indigenous people | The Seattle Times](https://www.seattletimes.com/opinion/end-juvenile-points-sentencing-that-disproportionately-harms-indigenous-people/#:~:text=House%20Bill%202065)
 * 01/27/2024 [NW News Network](/org/nw_news_network/) - [Natural gas, opioids and DUIs: Highlights from week 3 of Washington's legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-26/natural-gas-opioids-and-duis-highlights-from-week-3-of-washingtons-legislative-session#:~:text=House%20Bill%202065)
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202065)

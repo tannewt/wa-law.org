@@ -18,11 +18,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31946&aId=158959&caId=23909&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31946&aId=158959&caId=23909&tId=4)
 
-#### 4 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Brenda Heilman - Department of Labor & Industries
+* Robert (Bob) Battles - Association of Washington Business (AWB)
+* Lauren Gubbe - Associated General Contractors
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Bruce K Beckett - Wa. Retail Association
 

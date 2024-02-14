@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5508/</link>
 		<description>Updates about SB 5508</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 05 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Feb 2024 02:57:52 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,7 +23,7 @@
 			<guid isPermaLink="false">2023-01-30/Referred to Agriculture, Water, Natural Resources &amp; Parks.</guid>
 		</item>
 		<item>
-			<title>👍Scott Simmons - Washington Education Association/Bellevue Assoc of Higher Education</title>
+			<title>👍Scott Simmons - Hall Creek Farms</title>
 			<description>Scott Simmons signed up to testify Pro.</description>
 			<pubDate>Mon, 13 Feb 2023 12:22:45 GMT</pubDate>
 			<category>testifier</category>
@@ -57,6 +57,14 @@
 			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-05/First reading, referred to Local Government.</guid>
+		</item>
+		<item>
+			<title>👍Scott Simmons - Hall Creek Farms</title>
+			<description>Scott Simmons signed up to testify Pro. They are signed up to represent Hall Creek Farms.</description>
+			<pubDate>Tue, 13 Feb 2024 02:57:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Scott/Simmons/2024-02-13 02:57:52</guid>
 		</item>
 	</channel>
 </rss>

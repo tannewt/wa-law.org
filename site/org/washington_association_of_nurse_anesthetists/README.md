@@ -23,7 +23,7 @@
 
 ## [HB 2416](/bill/2023-24/hb/2416/) - ARNP legal title 👍1  
 
-## [SB 5184](/bill/2023-24/sb/5184/) - Anesthesiologist assistants  👎17 
+## [SB 5184](/bill/2023-24/sb/5184/) - Anesthesiologist assistants  👎21 
 * 👎 Adrianna Silva
 * 👎 Ashley Fedan
 * 👎 Kelli Camp
@@ -35,6 +35,9 @@
 * 👎 Abigail Carson
 * 👎 Kathryn Gray
 * 👎 Michelle Aube
+* 👎 Dee Bender
+* 👎 Allyn Wilcox
+* 👎 Kelli Camp
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1  
 
@@ -47,6 +50,9 @@
 ## [SB 6161](/bill/2023-24/sb/6161/) - Provider contract comp. 👍1  
 * 👍 Aaron Eastman
 
-## [SB 6286](/bill/2023-24/sb/6286/) - Nurse anesthetist workforce 👍1  ❓1
+## [SB 6286](/bill/2023-24/sb/6286/) - Nurse anesthetist workforce 👍4  ❓1
 * ❓ Dee Bender
 * 👍 Ebony McNeal
+* 👍 Dee Bender
+* 👍 John Wiesbrod
+* 👍 Kelli Camp

@@ -37,7 +37,7 @@
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍4  
 
-## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍3  
+## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍4  
 * 👍 Sam Hatzenbeler
 * 👍 Sam Hatzenbeler
 
@@ -49,10 +49,14 @@
 ## [HB 1850](/bill/2023-24/hb/1850/) - Hospital safety net program   ❓1
 * ❓ Sam Hatzenbeler
 
+## [HB 1893](/bill/2023-24/hb/1893/) - Unemp ins/strikes & lockouts 👍1  
+
 ## [HB 1895](/bill/2023-24/hb/1895/) - Modifying the working families' tax credit by clarifying the refundable nature of the credit, the application requirements, and the eligibility verification process. 👍1  
 
 ## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍1  
 * 👍💵 Gabriela Quintana
+
+## [HB 1957](/bill/2023-24/hb/1957/) - Preventive service coverage 👍1  
 
 ## [HB 1959](/bill/2023-24/hb/1959/) - PFML/small employers 👍1  
 
@@ -92,7 +96,7 @@
 
 ## [SB 5238](/bill/2023-24/sb/5238/) - Academic employee bargaining 👍1  
 
-## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍3  
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍4  
 * 👍 Sam Hatzenbeler
 * 👍 Sam Hatzenbeler
 * 👍 Sam Hatzenbeler
@@ -128,7 +132,7 @@
 
 ## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
 
-## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍1  
+## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍2  
 
 ## [SB 5999](/bill/2023-24/sb/5999/) - Financial aid eligibility 👍1  
 

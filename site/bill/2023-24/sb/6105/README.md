@@ -20,24 +20,34 @@
 
 ## Meetings
 ### Wed 02/14 08:00 AM - Labor & Workplace Standards (LAWS): ESSB 6105 Adult entertainment workers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=159134&caId=24099&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=159134&caId=24099&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=159134&caId=24099&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=159134&caId=24099&tId=4)
-
-#### 102 👍 - Pro
+#### 597 👍 - Pro
 Testifying:
 * Kasey Champion - Strippers Are Workers
 * Kurt Olivo
 * Madison Zack-Wu - Strippers Are Workers
 * Hannah Zgraggen
+* Ele Tryfonopoulos
+* Alaina Knatz
+* Sabra Boyd
+* Katie Kolan - Greater Seattle Business Association (GSBA)
+* Liz Sage
+* Jodi Frisina
+* Brie Ripley
+* Shira Cole
+* Allison Fine - Pride at Work WA South
 
-#### 30 👎 - Con
+#### 45 👎 - Con
 Testifying:
 * Jay Benke - Sex Trade Survivor Caucus
+* robin miller
+* robin miller - Sex Trade Survivor Caucus
 
-#### 0 ❓ - Other
+#### 7 ❓ - Other
+Testifying:
+* Jeri Moomaw - Innovations HTC
+* Heather Tuininga - SAFE - Strategic Alliance to Fight Exploitation
+* 💵Isaac Kastama - [Expressive Rights Alliance](/org/expressive_rights_alliance/)
+* Sammi Mathew
 
 ### Mon 01/15 10:30 AM - Labor & Commerce (LC): SB 6105 Adult entertainment workers
 #### 40 👍 - Pro

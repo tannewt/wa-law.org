@@ -24,6 +24,8 @@
 
 ## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍1  
 
+## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍1  
+
 ## [HB 2041](/bill/2023-24/hb/2041/) - Physician assistant practice 👍1  
 
 ## [HB 2076](/bill/2023-24/hb/2076/) - Human trafficking crimes 👍1  
@@ -81,9 +83,15 @@
 
 ## [SB 5880](/bill/2023-24/sb/5880/) - MRI technologists 👍1  
 
+## [SB 5936](/bill/2023-24/sb/5936/) - Palliative care work group 👍1  
+
+## [SB 5940](/bill/2023-24/sb/5940/) - Medical assistant-EMT cert. 👍1  
+
+## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍1  
+
 ## [SB 5983](/bill/2023-24/sb/5983/) - Syphilis treatment 👍1  
 
-## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍1  
+## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍2  
 
 ## [SB 6095](/bill/2023-24/sb/6095/) - Secretary of health orders 👍1  
 

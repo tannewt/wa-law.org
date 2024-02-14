@@ -7,23 +7,25 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024/#:~:text=HB%205834)
+
 ## Meetings
 ### Wed 02/14 08:00 AM - Local Government (LG): SSB 5834 Urban growth areas
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31955&aId=159012&caId=24053&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31955&aId=159012&caId=24053&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31955&aId=159012&caId=24053&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31955&aId=159012&caId=24053&tId=4)
-
-#### 46 👍 - Pro
+#### 68 👍 - Pro
 Testifying:
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * Brett Lucas - [City of Cheney](/org/city_of_cheney/)
 * Dave Andersen - Washington Department of Commerce
+* Jessica Yaeger - Councilmember, City of Spokane Valley
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 67 👎 - Con
+#### 82 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
 ### Tue 01/09 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5834 Urban growth areas
 #### 16 👍 - Pro

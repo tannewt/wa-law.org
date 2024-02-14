@@ -20,11 +20,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159180&caId=24141&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159180&caId=24141&tId=4)
 
-#### 0 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* Mina Hashemi
+* Emma Schwartz - The Adjacent Project
+* Natalie Beetham
+* Georgilee Flynn
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 01/10 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1958 Sexually protective devices
 #### 51 👍 - Pro

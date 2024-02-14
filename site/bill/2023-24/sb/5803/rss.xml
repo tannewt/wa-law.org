@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5803/</link>
 		<description>Updates about SB 5803</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -86,6 +86,13 @@
 			<pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-12/Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Innovation, Community &amp; Economic Development, &amp; Veterans.</title>
+			<description>First reading, referred to Innovation, Community &amp; Economic Development, &amp; Veterans.</description>
+			<pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-14/First reading, referred to Innovation, Community &amp; Economic Development, &amp; Veterans.</guid>
 		</item>
 	</channel>
 </rss>

@@ -24,13 +24,7 @@
 
 ## Meetings
 ### Wed 02/14 10:30 AM - Education (ED): ESB 5462 Inclusive learning standards
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=158889&caId=23946&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=158889&caId=23946&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=158889&caId=23946&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=158889&caId=23946&tId=4)
-
-#### 335 👍 - Pro
+#### 441 👍 - Pro
 Testifying:
 * Devon Kellogg - Washington State PTA
 * Brooke Brown - [Washington State Board of Education](/org/washington_state_board_of_education/)
@@ -38,10 +32,20 @@ Testifying:
 * Juan Diaz
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 * Vienna Pham - Lake Washington High School AP Government
+* Kristie Bennett - Issaquah Education Association / WEA
 * Sophia Claiborne
 * Mia Karlinsky
+* Megan Harre
+* Naomi Litwack
+* Brian Dittmeier - GLSEN
+* Vienna Pham
+* Mia Karlinsky
+* Maya Sheth
+* Linden Jordan - PFLAG Skagit
+* Beatruce Jewell
+* Sara Betnel - Shoreline School Board
 
-#### 1896 👎 - Con
+#### 2677 👎 - Con
 Testifying:
 * Trish Huddleston
 * Britney Inglis
@@ -64,10 +68,21 @@ Testifying:
 * Nikki Farnsworth
 * Diane Nelson
 * 💵Rebecca Johnson - 22815 Gunderson Road
+* Jeneane Conway
+* Rhonda Looney
+* Emily Carlos
+* Felicia Young
+* Elicia Wright
+* Nicole Wells
+* Louisa O'Brien
+* Julie Barrett - Conservative Ladies of Washington
+* Andy Cilley
+* Carolyn Templin
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Anna Hernandez-French - Office of Superintendent of Public Instruction
+* Mikhail Cherniske - Office of Superintendent of Public Instruction
 
 ### Mon 03/13 01:30 PM - Education (ED): ESB 5462 Inclusive learning standards
 #### 148 👍 - Pro

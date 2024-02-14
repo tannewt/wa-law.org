@@ -20,16 +20,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159097&caId=24032&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159097&caId=24032&tId=4)
 
-#### 36 👍 - Pro
+#### 49 👍 - Pro
 Testifying:
 * Jason Moon
 * Lynne Robinson - City of Bellevue Mayor
 * Naghmana Sherazi
 * Naghmana Sherazi
+* Serena Chang
+* Suzanne Pak - APIC Pierce
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/16 01:30 PM - State Government & Tribal Relations (SGOV): HB 2209 Lunar new year
 #### 475 👍 - Pro

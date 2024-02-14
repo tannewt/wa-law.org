@@ -58,7 +58,7 @@
 
 ## [HB 1135](/bill/2023-24/hb/1135/) - Impact fee use  👎1 
 
-## [HB 1146](/bill/2023-24/hb/1146/) - Dual credit program notice 👍3  
+## [HB 1146](/bill/2023-24/hb/1146/) - Dual credit program notice 👍4  
 
 ## [HB 1156](/bill/2023-24/hb/1156/) - College grant eligibility 👍1  
 
@@ -78,9 +78,10 @@
 * 👍💵 Peter Godlewski
 * 👍💵 Peter Godlewski
 
-## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products  👎1 ❓1
+## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products  👎2 ❓1
 * 👎💵 Peter Godlewski
 * ❓💵 Peter Godlewski
+* 👎💵 Peter Godlewski
 
 ## [HB 1191](/bill/2023-24/hb/1191/) - Cooperative finance org. B&O 👍1  
 
@@ -200,7 +201,7 @@
 ## [HB 1505](/bill/2023-24/hb/1505/) - Alternative jet fuel 👍1  
 * 👍 Mike Ennis
 
-## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board  👎4 
+## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board  👎5 
 
 ## [HB 1509](/bill/2023-24/hb/1509/) - Community solar  👎1 
 * 👎💵 Peter Godlewski
@@ -311,7 +312,7 @@
 ## [HB 1839](/bill/2023-24/hb/1839/) - Train length  👎1 
 * 👎 Mike Ennis
 
-## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍2  
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍3  
 * 👍💵 Morgan Irwin
 * 👍💵 Morgan Irwin
 
@@ -326,14 +327,16 @@
 
 ## [HB 1916](/bill/2023-24/hb/1916/) - Infants and toddlers program 👍1  
 
+## [HB 1917](/bill/2023-24/hb/1917/) - Physician assistant compact 👍1  
+
 ## [HB 1921](/bill/2023-24/hb/1921/) - Prohibiting the use of certain substances in food.  👎2 
 * 👎💵 Peter Godlewski
 
 ## [HB 1924](/bill/2023-24/hb/1924/) - Fusion technology policies 👍1  
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍2  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍3  
 
-## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍1  
+## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍2  
 
 ## [HB 1940](/bill/2023-24/hb/1940/) - Employer political speech  👎1 
 * 👎 Bob Battles
@@ -410,7 +413,7 @@
 * ❓💵 Peter Godlewski
 * ❓💵 Peter Godlewski
 
-## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍2  
+## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍3  
 
 ## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍2  
 
@@ -427,7 +430,7 @@
 ## [HB 2262](/bill/2023-24/hb/2262/) - Tire rolling resistance  👎1 
 * 👎💵 Morgan Irwin
 
-## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍1  
+## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍2  
 * 👍💵 Morgan Irwin
 
 ## [HB 2275](/bill/2023-24/hb/2275/) - Senior independent housing 👍1  
@@ -451,6 +454,9 @@
 * 👍💵 Emily Wittman
 
 ## [HB 2373](/bill/2023-24/hb/2373/) - Adopt-a-highway program  👎1 
+
+## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases  👎1 
+* 👎💵 Peter Godlewski
 
 ## [HB 2422](/bill/2023-24/hb/2422/) - Affordable housing/rural 👍1  
 
@@ -510,7 +516,7 @@
 
 ## [SB 5178](/bill/2023-24/sb/5178/) - Highways/large debris 👍1  
 
-## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍3  
+## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍4  
 
 ## [SB 5181](/bill/2023-24/sb/5181/) - Medical assistants 👍1  
 
@@ -528,7 +534,7 @@
 
 ## [SB 5235](/bill/2023-24/sb/5235/) - Accessory dwelling units 👍1  
 
-## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace  👎2 
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace  👎3 
 
 ## [SB 5251](/bill/2023-24/sb/5251/) - Commercial driver's licenses 👍1  
 * 👍 Mike Ennis
@@ -667,6 +673,8 @@
 
 ## [SB 5617](/bill/2023-24/sb/5617/) - Career & tech. ed. courses 👍1  
 
+## [SB 5648](/bill/2023-24/sb/5648/) - Board of education waivers 👍1  
+
 ## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  
 
 ## [SB 5721](/bill/2023-24/sb/5721/) - Advanced aerospace training 👍1  
@@ -695,7 +703,7 @@
 
 ## [SB 5809](/bill/2023-24/sb/5809/) - Charter schools/enrichment 👍1  
 
-## [SB 5815](/bill/2023-24/sb/5815/) - Physician assistant compact 👍1  
+## [SB 5815](/bill/2023-24/sb/5815/) - Physician assistant compact 👍2  
 * 👍💵 Emily Wittman
 
 ## [SB 5819](/bill/2023-24/sb/5819/) - Financial education 👍1  
@@ -711,13 +719,14 @@
 ## [SB 5901](/bill/2023-24/sb/5901/) - Co-living housing 👍1  
 * 👍💵 Morgan Irwin
 
-## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
+## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍2  
 
-## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD   ❓1
+## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD  👎1 ❓1
+* 👎💵 Peter Godlewski
 
 ## [SB 5933](/bill/2023-24/sb/5933/) - Infants and toddlers program 👍1  
 
-## [SB 5940](/bill/2023-24/sb/5940/) - Medical assistant-EMT cert. 👍1  
+## [SB 5940](/bill/2023-24/sb/5940/) - Medical assistant-EMT cert. 👍2  
 
 ## [SB 5941](/bill/2023-24/sb/5941/) - Subsidized child care 👍1  
 
@@ -748,6 +757,8 @@
 ## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍1  
 
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply  👎1 
+
+## [SB 6053](/bill/2023-24/sb/6053/) - Education data sharing 👍1  
 
 ## [SB 6055](/bill/2023-24/sb/6055/) - Natural resource indus. dev. 👍1  
 

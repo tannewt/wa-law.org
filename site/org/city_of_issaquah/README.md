@@ -33,4 +33,7 @@
 
 ## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍2  
 
+## [SB 6015](/bill/2023-24/sb/6015/) - Residential parking   ❓1
+* ❓💵 Shelly Helder
+
 ## [SB 6285](/bill/2023-24/sb/6285/) - Use of impact fees  👎1 

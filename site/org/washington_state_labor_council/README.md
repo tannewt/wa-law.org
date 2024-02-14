@@ -23,6 +23,9 @@
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
 
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
+* 👍💵 John Traynor
+
 ## [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍1  
 * 👍💵 John Traynor
 

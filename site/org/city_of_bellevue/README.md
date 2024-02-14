@@ -112,7 +112,7 @@
 ## [SB 5290](/bill/2023-24/sb/5290/) - Local permit review   ❓1
 * ❓ Lacey Jane Wolfe
 
-## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍1  
+## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍2  
 
 ## [SB 5383](/bill/2023-24/sb/5383/) - Pedestrians/roadways   ❓2
 
@@ -143,6 +143,8 @@
 * 👍 Lacey Jane Wolfe
 
 ## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages 👍1  
+
+## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD 👍1  
 
 ## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  
 

@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/13/2024 [House Democrats](/org/house_democrats/) - [House passes Walen bill to make critical corrections to the child support schedule  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/13/house-passes-walen-bill-to-make-critical-corrections-to-the-child-support-schedule/#:~:text=House%20Bill%202254)
+
 ## Meetings
 ### Wed 01/17 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2254 Child support schedule
 #### 2 👍 - Pro

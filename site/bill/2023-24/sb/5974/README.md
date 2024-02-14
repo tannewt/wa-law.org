@@ -13,17 +13,19 @@
 
 ## Meetings
 ### Wed 02/14 01:30 PM - Human Services, Youth, & Early Learning (HSEL): ESSB 5974 Unenforceable LFOs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31928&aId=158899&caId=23966&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31928&aId=158899&caId=23966&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31928&aId=158899&caId=23966&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31928&aId=158899&caId=23966&tId=4)
-
-#### 27 👍 - Pro
+#### 75 👍 - Pro
+Testifying:
+* Liz Trautman - Stand for Children Washington/ Debt Free Youth Justice Coalition
+* Janel McFeat - Executive Director of Washington Statewide Reentry Council
+* Travis Comeslast
+* Katie Hurley - King County Department of Public Defense
+* Charles Longshore - Department of Corrections - Washington Corrections Center
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Lisa Henderson - Washington State Association of County Clerks
 
 ### Mon 01/15 10:30 AM - Human Services (HS): SB 5974 Unenforceable LFOs
 #### 45 👍 - Pro

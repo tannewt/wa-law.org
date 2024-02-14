@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2252/</link>
 		<description>Updates about HB 2252</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Feb 2024 13:15:31 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2024-01-09/First reading, referred to Local Government.</guid>
 		</item>
 		<item>
-			<title>👍Scott Bonjukian - WA Association of Prosecuting Attorneys</title>
+			<title>👍Scott Bonjukian - Association of Washington Cities</title>
 			<description>Scott Bonjukian signed up to testify Pro.</description>
 			<pubDate>Wed, 17 Jan 2024 07:49:07 GMT</pubDate>
 			<category>testifier</category>
@@ -40,7 +40,7 @@
 			<guid isPermaLink="false">testifier/Carl/Schroeder/2024-01-22 10:37:38</guid>
 		</item>
 		<item>
-			<title>👍Paul Woods - WA Association of Prosecuting Attorneys</title>
+			<title>👍Paul Woods - Association of Washington Cities</title>
 			<description>Paul Woods signed up to testify Pro.</description>
 			<pubDate>Tue, 23 Jan 2024 08:04:16 GMT</pubDate>
 			<category>testifier</category>
@@ -95,6 +95,28 @@
 			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-09/Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Local Government, Land Use &amp; Tribal Affairs.</title>
+			<description>First reading, referred to Local Government, Land Use &amp; Tribal Affairs.</description>
+			<pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-13/First reading, referred to Local Government, Land Use &amp; Tribal Affairs.</guid>
+		</item>
+		<item>
+			<title>❓💵Carl Schroeder - Association of Washington Cities</title>
+			<description>Carl Schroeder signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/association_of_washington_cities/&quot;&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 13 Feb 2024 02:25:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Carl/Schroeder/2024-02-13 02:25:33</guid>
+		</item>
+		<item>
+			<title>Housing Bills to Watch in Washington in 2024 - Sightline Institute</title>
+			<description>News article &quot;Housing Bills to Watch in Washington in 2024 - Sightline Institute&quot; from Sightline Institute.</description>
+			<pubDate>Tue, 13 Feb 2024 13:15:31 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024/#:~:text=HB%202252</guid>
 		</item>
 	</channel>
 </rss>

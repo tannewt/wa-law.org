@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/12/2024 [Gorge News Center](/org/gorge_news_center/) - [Muzzall bill gives economic boost for habitat preservation](https://gorgenewscenter.com/2024/02/12/muzzall-bill-gives-economic-boost-for-habitat-preservation/#:~:text=Senate%20Bill%205667)
+
 ## Meetings
 ### Mon 01/22 04:00 PM - Ways & Means (WM): SSB 5667 Forestry riparian easements
 #### 244 👍 - Pro

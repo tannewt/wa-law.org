@@ -20,7 +20,9 @@ Testifying:
 * Aaron Dufault - WDFW
 * Daniel Sund - WDFW
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Kyle Crews - Puget sound shrimp association
 
 #### 0 ❓ - Other
 

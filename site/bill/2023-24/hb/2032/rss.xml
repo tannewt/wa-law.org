@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2032/</link>
 		<description>Updates about HB 2032</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 26 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Feb 2024 10:03:20 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -74,6 +74,22 @@
 			<pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-26/First reading, referred to State Government &amp; Elections.</guid>
+		</item>
+		<item>
+			<title>👍💵Conner Edwards - WA Professional Campaign Treasurer</title>
+			<description>Conner Edwards signed up to testify Pro. They are signed up to represent WA Professional Campaign Treasurer. They are a registered lobbyist.</description>
+			<pubDate>Tue, 13 Feb 2024 03:35:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Conner/Edwards/2024-02-13 03:35:23</guid>
+		</item>
+		<item>
+			<title>👍Sean Flynn - Public Disclosure Commission</title>
+			<description>Sean Flynn signed up to testify Pro. They are signed up to represent Public Disclosure Commission.</description>
+			<pubDate>Wed, 14 Feb 2024 10:03:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sean/Flynn/2024-02-14 10:03:20</guid>
 		</item>
 	</channel>
 </rss>

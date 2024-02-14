@@ -31,7 +31,7 @@
 
 ## [SB 5471](/bill/2023-24/sb/5471/) - Electric bicycles/disability 👍1  
 
-## [SB 5590](/bill/2023-24/sb/5590/) - Mt. St. Helens license plate 👍1  
+## [SB 5590](/bill/2023-24/sb/5590/) - Mt. St. Helens license plate 👍2  
 
 ## [SB 5785](/bill/2023-24/sb/5785/) - WDFW/volunteer organizations 👍2  
 * 👍💵 Andrea Imler

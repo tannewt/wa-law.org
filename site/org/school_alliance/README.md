@@ -21,6 +21,9 @@
 
 ## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍1  
 
+## [SB 5883](/bill/2023-24/sb/5883/) - Concerning the burden of proof for special education due process hearings.   ❓1
+* ❓ Mike McKay
+
 ## [SB 5969](/bill/2023-24/sb/5969/) - School construction debt 👍2  
 * 👍 Cynthia Weed
 * 👍💵 Grace Yuan

@@ -79,7 +79,7 @@
 
 ## [HB 1933](/bill/2023-24/hb/1933/) - Supporting the servicing and right to repair of certain products with digital electronics in a secure and reliable manner. 👍1  
 
-## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍1  
+## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍2  
 
 ## [HB 1952](/bill/2023-24/hb/1952/) - Disasters/long-term recovery 👍1  
 

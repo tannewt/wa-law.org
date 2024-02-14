@@ -30,23 +30,46 @@
 
 ## Meetings
 ### Wed 02/14 08:00 AM - Civil Rights & Judiciary (CRJ): ESB 5241 Health care marketplace
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31953&aId=159127&caId=24080&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31953&aId=159127&caId=24080&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31953&aId=159127&caId=24080&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31953&aId=159127&caId=24080&tId=4)
-
-#### 624 👍 - Pro
+#### 1740 👍 - Pro
 Testifying:
 * Kati Perez - WashingtonCAN
 * Danni Askini - Gender Justice League
+* Kathy Sakahara - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* Rory Paine-Donovan - Attorney General's Office
+* Denise Diskin - QLaw Foundation of Washington
+* Oliver Boczar - Lake Washington High School
+* Lannette Sargent
+* 💵Matthew Lang - National Organization of Women - WA
+* 💵John Traynor - [Washington State Labor Council](/org/washington_state_labor_council/)
+* Justin Gill - Washington State Nursing Association
+* Kirk Normand - WA State Council of Firefighters
+* 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
+* Cassandra Sutherland - [End of Life Washington](/org/end_of_life_washington/)
+* Dr. Kjersten Gmeiner
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* 💵Leah Rutman - ACLU of Washington
 
-#### 671 👎 - Con
+#### 1206 👎 - Con
 Testifying:
 * Steven Kaptik - Washington Gastroenterology; Washington Independent Physican Practice Association
 * Gabriel Jacobs
+* David Hargreaves - MultiCare Yakima Memorial
+* Diane Blake - Cascade Medical Center
+* Michael Marsh - Overlake Medical Center & Clinics
+* Douglas Ross - Professor from Practice, University of Washington School of Law
+* 💵Zosia Stanley - Washington State Hospital Association
+* 💵Sean Graham - WA State Medical Assn
+* Roman Daniels-Brown - DaVita
+* MD, Dr. Keren Rosenblum
+* 💵Vicki Christophersen - Pediatrix Medical Group of Washington
+* 💵Patricia Seib - Rural Health Clinic Association of Washington
+* Emily Studebaker - [Washington Ambulatory Surgery Center Association](/org/washington_ambulatory_surgery_center_association/)
+* 💵Rose Feliciano - Washington Independent Physician Practices Association
+* Cynthia Radtke
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Jesus Hernandez - Family Health Centers
 
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SB 5241 Health care marketplace
 #### 435 👍 - Pro

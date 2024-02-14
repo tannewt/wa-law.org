@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2069/</link>
 		<description>Updates about HB 2069</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -87,6 +87,20 @@
 			<pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-12/Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>House unanimously approves Mosbrucker’s bill to authorize Klickitat County Public Utility District and other PUDs to sell food-grade safe biogenic carbon dioxide</title>
+			<description>News article &quot;House unanimously approves Mosbrucker’s bill to authorize Klickitat County Public Utility District and other PUDs to sell food-grade safe biogenic carbon dioxide&quot; from Gorge News Center.</description>
+			<pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2024/02/13/house-unanimously-approves-mosbruckers-bill-to-authorize-klickitat-county-public-utility-district-and-other-puds-to-sell-food-grade-safe-biogenic-carbon-dioxide/#:~:text=House%20Bill%202069</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Environment, Energy &amp; Technology (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Environment, Energy &amp; Technology (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-14/First reading, referred to Environment, Energy &amp; Technology (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 	</channel>
 </rss>

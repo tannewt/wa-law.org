@@ -13,22 +13,22 @@
 
 ## Meetings
 ### Wed 02/14 01:30 PM - Consumer Protection & Business (CPB): ESSB 5995 Interpreters and translators
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31950&aId=158941&caId=23943&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31950&aId=158941&caId=23943&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31950&aId=158941&caId=23943&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31950&aId=158941&caId=23943&tId=4)
-
-#### 2 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * 💵Dennis Eagle - WA Federation of State Employees
+* Helen Eby - Interpreters United
+* Aida Sanchez-Vela - Interpreters United WFSE Local 1671
 
-#### 1 👎 - Con
+#### 21 👎 - Con
+Testifying:
+* Joana Ramos - Washington State Coalition for Language Access
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Kate White Tudor - WA Association for community health
 * Beau Perschbacher - WA Dept. of Licensing
+* Natalya Mytareva - Certification Commission for Healthcare Interpreters
+* Alyssa Patrick - [Washington Association for Community Health](/org/washington_association_for_community_health/)
 
 ### Mon 01/15 10:30 AM - Labor & Commerce (LC): SB 5995 Interpreters and translators
 #### 11 👍 - Pro

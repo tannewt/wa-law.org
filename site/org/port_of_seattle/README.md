@@ -94,7 +94,7 @@
 
 ## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍1  
 
-## [SB 6056](/bill/2023-24/sb/6056/) - Human trafficking/hotels 👍1  
+## [SB 6056](/bill/2023-24/sb/6056/) - Human trafficking/hotels 👍2  
 
 ## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍2  
 

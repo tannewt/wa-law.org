@@ -22,7 +22,7 @@
 * 👍 Ruth Sawyer
 * 👍 Ruth Sawyer
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍5  
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍6  
 * 👍 MIKE O'BRIEN
 
 ## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍1  

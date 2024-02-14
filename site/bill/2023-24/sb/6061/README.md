@@ -18,9 +18,9 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/16 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6061 Housing development/SEPA
 #### 1 👍 - Pro

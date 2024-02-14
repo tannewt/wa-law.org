@@ -16,19 +16,27 @@
 
 ## Meetings
 ### Wed 02/14 01:30 PM - Human Services, Youth, & Early Learning (HSEL): 2SSB 6109 Children and families
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31928&aId=159034&caId=24065&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31928&aId=159034&caId=24065&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31928&aId=159034&caId=24065&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31928&aId=159034&caId=24065&tId=4)
-
-#### 7 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Chelsea Burroughs - WFSE Member
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
-#### 2 👎 - Con
+#### 16 👎 - Con
+Testifying:
+* 💵Malika Lamont - VOCAL-WA
+* Courteney Wettemann
+* Deaunte Damper - Vocal
 
-#### 2 ❓ - Other
+#### 16 ❓ - Other
+Testifying:
+* Amethyst Lenz
+* Jim Walsh
+* Tara Urs
+* Laurie Lippold
+* Kelly Warner-King - Washington State Administrative Office of the Courts
+* Adam Ballout - ABC Law Group
+* 💵Allison Krutsinger - Dept of Children, Youth, and Families
+* Ryan Murrey - Washington Association of Child Advocate Programs
 
 ### Mon 01/29 04:00 PM - Ways & Means (WM): SSB 6109 Children and families
 #### 14 👍 - Pro

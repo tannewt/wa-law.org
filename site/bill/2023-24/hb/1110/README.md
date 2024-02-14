@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 02/13/2024 [PubliCola](/org/publicola/) - [Seattle's MHA Program Should Come with a Tax Break, Not a Fee - PubliCola](https://publicola.com/2024/02/13/seattles-mha-program-should-come-with-a-tax-break-not-a-fee/#:~:text=HB%201110)
 * 02/09/2024 [The Urbanist](/org/the_urbanist/) - [Bellevue Unveils Bold Growth Strategy for 152,000 Additional Homes - The Urbanist](https://www.theurbanist.org/2024/02/09/bellevue-unveils-bold-growth-strategy-for-152000-additional-homes/#:~:text=1110)
 * 12/29/2023 [The Center Square](/org/the_center_square/) - [New ‘missing middle’ housing law runs into barriers in Spokane | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_eb3f2bc8-a677-11ee-97ca-9bb47eef88bf.html#:~:text=House%20Bill%201110)
 * 11/21/2023 [The Center Square](/org/the_center_square/) - [‘Middle housing’ gets a boost from Spokane City Council | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_36610a24-88d0-11ee-bbdc-a7cc8a39a49b.html#:~:text=House%20Bill%201110)

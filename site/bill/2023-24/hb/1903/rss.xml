@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1903/</link>
 		<description>Updates about HB 1903</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -368,6 +368,20 @@
 			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/02/09/reporting-of-lost-or-stolen-firearms-passes-house/#:~:text=HB%201903</guid>
+		</item>
+		<item>
+			<title>KUOW - Washington lawmakers aim for new open carry limitations in certain public settings</title>
+			<description>News article &quot;KUOW - Washington lawmakers aim for new open carry limitations in certain public settings&quot; from KUOW.</description>
+			<pubDate>Mon, 12 Feb 2024 13:41:34 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kuow.org/stories/washington-lawmakers-aim-for-new-open-carry-limitations-in-certain-public-settings#:~:text=HB1903</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Law &amp; Justice.</title>
+			<description>First reading, referred to Law &amp; Justice.</description>
+			<pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-13/First reading, referred to Law &amp; Justice.</guid>
 		</item>
 	</channel>
 </rss>

@@ -11,15 +11,11 @@
 
 ## Meetings
 ### Wed 02/14 10:30 AM - Education (ED): SB 5852 Special education safety net
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=159109&caId=24050&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=159109&caId=24050&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=159109&caId=24050&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=159109&caId=24050&tId=4)
-
-#### 10 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * 💵Kelsi Hamilton - WSSDA
+* Charlie Brown - South Sound Superintendents
+* Katie Howell - Chehalis Schools
 
 #### 0 👎 - Con
 

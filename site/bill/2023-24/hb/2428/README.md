@@ -20,7 +20,7 @@ Testifying:
 * Elizabeth Chamberlain - [City of Walla Walla](/org/city_of_walla_walla/)
 * Michael Rizzitiello - [City of College Place](/org/city_of_college_place/)
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31951&aId=159043&caId=24006&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31951&aId=159043&caId=24006&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Bryon Welch - Office of the Insurance Commissioner
+* Michael Walker - Office of the Insurance Commissioner
 
 #### 0 👎 - Con
 

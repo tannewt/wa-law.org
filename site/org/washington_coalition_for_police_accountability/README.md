@@ -56,7 +56,7 @@
 ## [HB 2027](/bill/2023-24/hb/2027/) - Concerning certification, background checks, and training requirements for sheriffs, police chiefs, marshals, reserve officers, and volunteers. 👍3  
 * 👍 Leslie Cushman
 
-## [SB 5299](/bill/2023-24/sb/5299/) - Law enf. officer protection  👎1 
+## [SB 5299](/bill/2023-24/sb/5299/) - Law enf. officer protection  👎2 
 
 ## [SB 5361](/bill/2023-24/sb/5361/) - Law enf. officers/increase  👎1 
 * 👎 Leslie Cushman

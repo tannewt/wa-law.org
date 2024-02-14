@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/12/2024 [The Center Square](/org/the_center_square/) - [Bill to streamline Washington state's 211 system moving ahead in Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_60f66114-c9dd-11ee-b159-776186ce8ef6.html#:~:text=Senate%20Bill%205943)
 * 01/14/2024 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Supplemental Budget Looms Large in 2024 Legislation Session - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate01152024#:~:text=Senate%20Bill%205943)
 
 ## Meetings

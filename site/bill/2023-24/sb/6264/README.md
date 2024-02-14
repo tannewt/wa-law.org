@@ -15,26 +15,29 @@
 
 ## Meetings
 ### Wed 02/14 10:30 AM - Education (ED): ESSB 6264 Competency-based education
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=159108&caId=24049&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=159108&caId=24049&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=159108&caId=24049&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=159108&caId=24049&tId=4)
-
-#### 14 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Kimberly Headrick - Medical Lake School District
 * Troy Goracke - Washington State Board for Community and Technical Colleges
 * Carrie McKenzie - Washington State PTA
 * Alissa Muller - [Washington State Board of Education](/org/washington_state_board_of_education/)
+* Melissa Spiker
 
-#### 693 👎 - Con
+#### 1116 👎 - Con
 Testifying:
 * Dejsha Denton
 * Michelle Andres - 1421 Road 77
 * Andy Cilley
+* Sarah Garriott
+* Sharon Damoff
+* Gabriel Jacobs
+* Mary Sphuler
+* Mary Long - Conservative Ladies of Washington
+* Andy Cilley
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Mikhail Cherniske - Office of Superintendent of Public Instruction
 
 ### Sat 02/03 09:00 AM - Ways & Means (WM): SSB 6264 Competency-based education
 #### 4 👍 - Pro

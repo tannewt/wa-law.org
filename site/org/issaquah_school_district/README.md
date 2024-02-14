@@ -1,5 +1,7 @@
 # Issaquah School District
 
+## [HB 1608](/bill/2023-24/hb/1608/) - Anaphylaxis meds./schools 👍2  
+
 ## [HB 2236](/bill/2023-24/hb/2236/) - Tech. ed. core plus programs 👍1  
 
 ## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  

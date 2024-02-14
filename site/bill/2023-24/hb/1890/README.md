@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Wed 02/14 10:30 AM - Housing (HSG): HB 1890 Housing authorities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31918&aId=159112&caId=24041&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31918&aId=159112&caId=24041&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31918&aId=159112&caId=24041&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31918&aId=159112&caId=24041&tId=4)
-
 #### 13 👍 - Pro
 
 #### 0 👎 - Con

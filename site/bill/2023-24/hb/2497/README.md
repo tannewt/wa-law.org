@@ -14,11 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31898&aId=159049&caId=24048&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31898&aId=159049&caId=24048&tId=4)
 
-#### 4 👍 - Pro
+#### 352 👍 - Pro
 Testifying:
 * Joe Deets - Bainbridge Island, Mayor
 * Ashley Mathews - Bainbridge Island City Councilmember
+* Greg Wheeler - Mayor of Bremerton
+* Kate Dean - Commissioner, Jefferson County
+* David Marzahl
+* Walt Elliott
+* Christine Rolfes - Kitsap County Board of Commissioners
+* Clint Boxman - Kingston-North Kitsap Rotary Club
 
-#### 0 👎 - Con
+#### 14 👎 - Con
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* Charles Prestrud - Washington Policy Center
+* Jane Fuller - Councilmember, San Juan County
+* Larry Seaquist

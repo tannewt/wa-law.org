@@ -13,15 +13,10 @@
 
 ## Meetings
 ### Wed 02/14 01:30 PM - Postsecondary Education & Workforce (PEW): SSB 5815 Physician assistant compact
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31902&aId=158831&caId=23977&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31902&aId=158831&caId=23977&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31902&aId=158831&caId=23977&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31902&aId=158831&caId=23977&tId=4)
-
-#### 7 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Jerry Fugich - Veterans Legislative Coalition
+* Troy Bender - [Washington Academy of Physician Assistants](/org/washington_academy_of_physician_assistants/)
 
 #### 0 👎 - Con
 

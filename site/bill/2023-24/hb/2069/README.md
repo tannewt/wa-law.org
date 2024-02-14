@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/13/2024 [Gorge News Center](/org/gorge_news_center/) - [House unanimously approves Mosbrucker’s bill to authorize Klickitat County Public Utility District and other PUDs to sell food-grade safe biogenic carbon dioxide](https://gorgenewscenter.com/2024/02/13/house-unanimously-approves-mosbruckers-bill-to-authorize-klickitat-county-public-utility-district-and-other-puds-to-sell-food-grade-safe-biogenic-carbon-dioxide/#:~:text=House%20Bill%202069)
+
 ## Meetings
 ### Tue 01/23 04:00 PM - Environment & Energy (ENVI): HB 2069 Biogenic carbon dioxide
 #### 5 👍 - Pro

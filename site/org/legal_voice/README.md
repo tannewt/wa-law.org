@@ -42,6 +42,8 @@
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍1  
 
+## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍2  
+
 ## [SB 5476](/bill/2023-24/sb/5476/) - Agricultural overtime  👎2 
 
 ## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍1  

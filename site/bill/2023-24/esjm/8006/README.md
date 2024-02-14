@@ -11,23 +11,24 @@
 
 ## Meetings
 ### Wed 02/14 01:30 PM - Health Care & Wellness (HCW): ESJM 8006 Universal health care
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=158937&caId=23961&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=158937&caId=23961&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=158937&caId=23961&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=158937&caId=23961&tId=4)
-
-#### 85 👍 - Pro
+#### 218 👍 - Pro
 Testifying:
 * Jody Disney - LWVWA
 * Ronnie Shure - [Health Care for All - Washington](/org/health_care_for_all_-_washington/)
 * Andre Stackhouse - Whole Washington
+* David Loud - Health Care Is a Human Right WA
+* 💵Paul Benz - Quaker Voice
 
-#### 181 👎 - Con
+#### 1190 👎 - Con
 Testifying:
 * Jeannette Mcchesney
+* Julia Craven Reynolds
+* Sharon Damoff
+* Mary Long - Conservative Ladies of Washington
+* Laurie Layne
+* Richard Williams
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Fri 03/24 08:00 AM - Health Care & Wellness (HCW): SJM 8006 Universal health care
 #### 584 👍 - Pro

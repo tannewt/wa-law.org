@@ -8,13 +8,15 @@
 
 ## [HB 1515](/bill/2023-24/hb/1515/) - Behavioral health contracts 👍3  
 
+## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍1  
+
 ## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍1  
 
 ## [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element 👍2  
 
 ## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍1  
 
-## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍2  
+## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍3  
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 

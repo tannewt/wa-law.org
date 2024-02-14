@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/13/2024 [The Seattle Times](/org/the_seattle_times/) - [Add fentanyl to child endangerment law | The Seattle Times](https://www.seattletimes.com/opinion/editorials/add-fentanyl-to-child-endangerment-law/#:~:text=SB%205010)
 * 01/25/2024 [Gorge News Center](/org/gorge_news_center/) - [Passage of Wilson bill leads off Senate fight against fentanyl](https://gorgenewscenter.com/2024/01/25/passage-of-wilson-bill-leads-off-senate-fight-against-fentanyl/#:~:text=Senate%20Bill%205010)
 * 03/11/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 13 - 17, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-13-17-2023/#:~:text=SB%205010)
 

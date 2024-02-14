@@ -10,6 +10,9 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/13/2024 [FOX13](/org/fox13/) - [New WA bill addressing carbon emissions hopes to link up with California and Quebec](https://www.fox13seattle.com/news/a-new-wa-bill-addressing-carbon-emissions-hoping-to-link-up-with-california-and-quebec-critics-say-not-now#:~:text=Senate%20Bill%206058)
+* 02/13/2024 [The Center Square](/org/the_center_square/) - [Senate passes bill supporting linking WA’s carbon market to CA-Quebec | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_856eebc4-cab9-11ee-9983-57680a4333aa.html#:~:text=Senate%20Bill%206058)
+* 02/13/2024 [Senate Democrats](/org/senate_democrats/) - [Carbon market linkage bill passes Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/12/carbon-market-linkage-bill-passes-senate/#:~:text=Senate%20Bill%206058)
 * 02/09/2024 [The Center Square](/org/the_center_square/) - [Bill to pave way for linking Washington's carbon market to CA-Quebec advances | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_4e98470a-c77e-11ee-a706-d3013bc1aa0e.html#:~:text=Senate%20Bill%206058)
 * 02/08/2024 [MyNorthwest](/org/mynorthwest/) - [Sputtering out: Push for state gas price transparency fails in legislature - MyNorthwest.com](https://mynorthwest.com/3949893/sputtering-out-gas-price-transparency-fails-legislature/#:~:text=Senate%20Bill%206058)
 * 01/12/2024 [Crosscut](/org/crosscut/) - [WA Legislature reviews joining CA, Quebec carbon pricing program | Crosscut](https://crosscut.com/briefs/2024/01/wa-legislature-reviews-joining-ca-quebec-carbon-pricing-program#:~:text=Senate%20Bill%206058)

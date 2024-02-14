@@ -94,9 +94,11 @@
 
 ## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍1  
 
-## [HB 2086](/bill/2023-24/hb/2086/) - Office of indep. invest. 👍1  
+## [HB 2086](/bill/2023-24/hb/2086/) - Office of indep. invest. 👍2  
 
-## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍1  
+## [HB 2209](/bill/2023-24/hb/2209/) - Lunar new year 👍1  
+
+## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍2  
 
 ## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management   ❓1
 * ❓ Lewis Griffith
@@ -150,7 +152,7 @@
 
 ## [SB 5402](/bill/2023-24/sb/5402/) - Authorizing public transportation benefit areas to become limited authority Washington law enforcement agencies. 👍1  
 
-## [SB 5424](/bill/2023-24/sb/5424/) - Flexible work/peace officers 👍1  
+## [SB 5424](/bill/2023-24/sb/5424/) - Flexible work/peace officers 👍2  
 
 ## [SB 5430](/bill/2023-24/sb/5430/) - Driver training/low-income 👍1  
 
@@ -173,6 +175,8 @@
 
 ## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
 
+## [SB 5778](/bill/2023-24/sb/5778/) - Employer political speech 👍2  
+
 ## [SB 5792](/bill/2023-24/sb/5792/) - Concerning the definition of multiunit residential buildings. 👍1  
 
 ## [SB 5812](/bill/2023-24/sb/5812/) - Electric vehicle fires 👍1  
@@ -188,9 +192,13 @@
 ## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  
 * 👍💵 Briahna Murray
 
+## [SB 5973](/bill/2023-24/sb/5973/) - Heat pumps/CICs 👍1  
+
 ## [SB 6009](/bill/2023-24/sb/6009/) - Hog-tying 👍2  
 
 ## [SB 6120](/bill/2023-24/sb/6120/) - Wildland urban interface 👍1  
+
+## [SB 6157](/bill/2023-24/sb/6157/) - Civil service 👍1  
 
 ## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management   ❓1
 * ❓ Lewis Griffith

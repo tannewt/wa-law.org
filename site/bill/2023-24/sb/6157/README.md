@@ -12,17 +12,12 @@
 
 ## Meetings
 ### Wed 02/14 01:30 PM - State Government & Tribal Relations (SGOV): SSB 6157 Civil service
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31911&aId=159121&caId=24091&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31911&aId=159121&caId=24091&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31911&aId=159121&caId=24091&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31911&aId=159121&caId=24091&tId=4)
-
-#### 1 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 3 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5985/</link>
 		<description>Updates about SB 5985</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Feb 2024 11:58:47 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Feb 2024 12:06:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -104,7 +104,7 @@
 			<guid isPermaLink="false">2024-02-05/First reading, referred to Civil Rights &amp; Judiciary.</guid>
 		</item>
 		<item>
-			<title>👎Gabriel Jacobs - WA State Board of Health</title>
+			<title>👎Gabriel Jacobs - Washington State Patrol</title>
 			<description>Gabriel Jacobs signed up to testify Con.</description>
 			<pubDate>Thu, 08 Feb 2024 07:53:59 GMT</pubDate>
 			<category>testifier</category>
@@ -112,7 +112,7 @@
 			<guid isPermaLink="false">testifier/Gabriel/Jacobs/2024-02-08 07:53:59</guid>
 		</item>
 		<item>
-			<title>👎eric pratt - WA State Board of Health</title>
+			<title>👎eric pratt - Washington State Patrol</title>
 			<description>eric pratt signed up to testify Con.</description>
 			<pubDate>Thu, 08 Feb 2024 08:23:47 GMT</pubDate>
 			<category>testifier</category>
@@ -133,6 +133,38 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Aoibheann/Cline/2024-02-12 11:58:47</guid>
+		</item>
+		<item>
+			<title>👎Jeannette Mcchesney - NRA</title>
+			<description>Jeannette Mcchesney signed up to testify Con.</description>
+			<pubDate>Tue, 13 Feb 2024 03:53:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jeannette/Mcchesney/2024-02-13 03:53:58</guid>
+		</item>
+		<item>
+			<title>👍Kateri Candee - Washington State Patrol</title>
+			<description>Kateri Candee signed up to testify Pro. They are signed up to represent Washington State Patrol.</description>
+			<pubDate>Tue, 13 Feb 2024 04:58:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kateri/Candee/2024-02-13 04:58:54</guid>
+		</item>
+		<item>
+			<title>👎James Ware - NRA</title>
+			<description>James Ware signed up to testify Con.</description>
+			<pubDate>Tue, 13 Feb 2024 08:49:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/James/Ware/2024-02-13 08:49:12</guid>
+		</item>
+		<item>
+			<title>👎Richard Williams - NRA</title>
+			<description>Richard Williams signed up to testify Con.</description>
+			<pubDate>Wed, 14 Feb 2024 12:06:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Richard/Williams/2024-02-14 12:06:47</guid>
 		</item>
 	</channel>
 </rss>

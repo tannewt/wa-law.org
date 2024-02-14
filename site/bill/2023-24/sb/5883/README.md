@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/14 10:30 AM - Education (ED): SB 5883 Special education hearings
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=158891&caId=23948&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=158891&caId=23948&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=158891&caId=23948&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31900&aId=158891&caId=23948&tId=4)
-
-#### 21 👍 - Pro
+#### 55 👍 - Pro
 Testifying:
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Michelle Whitehead
@@ -22,15 +16,22 @@ Testifying:
 * Meghan Hamill
 * Russel Tuman - West Valley School District
 * 💵Karen Pillar - TeamChild
+* melissa spiker - Seattle Special Education PTSA / Advocacy Chair
+* Lisa Brodoff
+* 💵Stacy Dym - [The Arc of Washington State](/org/the_arc_of_washington_state/)
+* Michelle Whitehead - Michelle Whitehead
 
 #### 3 👎 - Con
 Testifying:
 * Sue Ann Bube - Mercer Island School District
 * Michelle Jeffries - Winlock School District
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Mike Hoover - Washington State School Directors’ Association (WSSDA)
+* Mike McKay - [School Alliance](/org/school_alliance/)
+* Kelley Clevenger - Everett Public Schools
+* Michelle Jeffries
 
 ### Mon 01/15 01:30 PM - Early Learning & K-12 Education (EDU): SB 5883 Special education hearings
 #### 190 👍 - Pro

@@ -10,7 +10,9 @@
 
 ## [HB 1716](/bill/2023-24/hb/1716/) - Child care B&O credit 👍1  
 
-## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍2  
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍3  
+
+## [HB 1893](/bill/2023-24/hb/1893/) - Unemp ins/strikes & lockouts  👎1 
 
 ## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍1  
 

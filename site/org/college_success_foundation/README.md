@@ -54,7 +54,7 @@
 ## [HB 1679](/bill/2023-24/hb/1679/) - Student homelessness group 👍1  
 * 👍💵 Juliet Schindler
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍2  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍3  
 
 ## [HB 2025](/bill/2023-24/hb/2025/) - State work-study program 👍2  
 * 👍💵 Juliet Schindler
@@ -121,7 +121,8 @@
 
 ## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍2  
 
-## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍4  
+## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍6  
+* 👍💵 Emily Stochel
 * 👍💵 Emily Stochel
 * 👍💵 Emily Stochel
 
@@ -153,6 +154,8 @@
 ## [SB 5999](/bill/2023-24/sb/5999/) - Financial aid eligibility 👍1  
 
 ## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍1  
+
+## [SB 6053](/bill/2023-24/sb/6053/) - Education data sharing 👍1  
 
 ## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍1  
 

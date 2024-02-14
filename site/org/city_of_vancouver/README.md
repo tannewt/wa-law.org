@@ -50,6 +50,11 @@
 
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
 
+## [SB 6015](/bill/2023-24/sb/6015/) - Residential parking 👍1  
+* 👍 Ty Stober
+
+## [SB 6137](/bill/2023-24/sb/6137/) - Semiconductor tax incentives 👍1  
+
 ## [SB 6150](/bill/2023-24/sb/6150/) - Comprehensive plan revisions 👍1  
 * 👍 Rebecca Kennedy
 

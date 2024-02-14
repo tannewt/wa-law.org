@@ -12,17 +12,18 @@
 
 ## Meetings
 ### Wed 02/14 01:30 PM - Consumer Protection & Business (CPB): SSB 6025 Predatory loans
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31950&aId=159041&caId=24004&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31950&aId=159041&caId=24004&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31950&aId=159041&caId=24004&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31950&aId=159041&caId=24004&tId=4)
-
-#### 10 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Sam Leonard - [Northwest Consumer Law Center](/org/northwest_consumer_law_center/)
+* Carolyn Carter
+* Ryan Davis - Financial Empowerment Network
+* 💵Shaun Scott
+* Drew Bouton - Washington State Department of Financial Institutions
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Joseph Rubin - [Opportunity Financial](/org/opportunity_financial/)
+* Ian Moloney - American Fintech Council
 
 #### 0 ❓ - Other
 

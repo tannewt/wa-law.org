@@ -77,7 +77,7 @@
 
 ## [HB 1955](/bill/2023-24/hb/1955/) - Repealing the greenhouse gas content disclosure provision. 👍1  
 
-## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍1  
+## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍2  
 
 ## [HB 2028](/bill/2023-24/hb/2028/) - Concerning manufacturer and new dealer franchise agreements.  👎1 
 * 👎💵 Leah Missik
@@ -115,7 +115,7 @@
 
 ## [HB 2376](/bill/2023-24/hb/2376/) - CCA public entity oblig.  👎1 
 
-## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases 👍2  
+## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases 👍3  
 
 ## [HB 2465](/bill/2023-24/hb/2465/) - State building code council   ❓1
 

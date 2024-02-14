@@ -61,7 +61,7 @@
 
 ## [HB 1611](/bill/2023-24/hb/1611/) - Local government permitting 👍1  
 
-## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍1  
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍2  
 
 ## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍2  
 * 👍 Alan Durning
@@ -95,9 +95,13 @@
 * 👍💵 Shannon Grimes
 * 👍💵 Shannon Grimes
 
-## [HB 2252](/bill/2023-24/hb/2252/) - Small businesses/residential 👍1  
+## [HB 2252](/bill/2023-24/hb/2252/) - Small businesses/residential 👍2  
+
+## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍1  
 
 ## [HB 2308](/bill/2023-24/hb/2308/) - Existing structures/housing 👍1  
+
+## [HB 2321](/bill/2023-24/hb/2321/) - Middle housing requirements 👍1  
 
 ## [HB 2425](/bill/2023-24/hb/2425/) - Rental support program 👍1  
 
@@ -114,7 +118,7 @@
 
 ## [SB 5258](/bill/2023-24/sb/5258/) - Condos and townhouses 👍2  
 
-## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍1  
+## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍2  
 
 ## [SB 5357](/bill/2023-24/sb/5357/) - Detached ADUs 👍1  
 
@@ -144,7 +148,8 @@
 ## [SB 5901](/bill/2023-24/sb/5901/) - Co-living housing 👍1  
 * 👍💵 Dan Bertolet
 
-## [SB 6015](/bill/2023-24/sb/6015/) - Residential parking 👍1  
+## [SB 6015](/bill/2023-24/sb/6015/) - Residential parking 👍2  
+* 👍 Catie Gould
 * 👍 Catie Gould
 
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development   ❓1

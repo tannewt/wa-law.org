@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5806/</link>
 		<description>Updates about SB 5806</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 06 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Feb 2024 11:17:36 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -95,6 +95,22 @@
 			<pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-06/First reading, referred to Consumer Protection &amp; Business.</guid>
+		</item>
+		<item>
+			<title>👍💵Jean Leonard - WA Insurers, Nationwide Insurance, and State Farm Insurance</title>
+			<description>Jean Leonard signed up to testify Pro. They are signed up to represent WA Insurers, Nationwide Insurance, and State Farm Insurance. They are a registered lobbyist.</description>
+			<pubDate>Tue, 13 Feb 2024 11:02:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jean/Leonard/2024-02-13 11:02:15</guid>
+		</item>
+		<item>
+			<title>👍Bryon Welch - Office of the Insurance Commissioner</title>
+			<description>Bryon Welch signed up to testify Pro. They are signed up to represent Office of the Insurance Commissioner.</description>
+			<pubDate>Tue, 13 Feb 2024 11:17:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bryon/Welch/2024-02-13 11:17:36</guid>
 		</item>
 	</channel>
 </rss>

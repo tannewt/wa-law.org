@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/12/2024 [House Democrats](/org/house_democrats/) - [Donaghy traffic safety bill passes the House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/12/donaghy-traffic-safety-bill-passes-the-house-58-39/#:~:text=House%20Bill%202384)
 * 02/06/2024 [MyNorthwest](/org/mynorthwest/) - [Bill on traffic camera use includes 75% discount for some violators - MyNorthwest.com](https://mynorthwest.com/3949501/bill-altering-traffic-safety-camera-use-includes-75-discount-some-violators/#:~:text=House%20Bill%202384)
 
 ## Meetings

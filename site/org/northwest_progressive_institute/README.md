@@ -111,7 +111,7 @@
 ## [HB 1951](/bill/2023-24/hb/1951/) - Algorithmic discrimination 👍1  
 * 👍 Subhadra Vadlamannati
 
-## [HB 1962](/bill/2023-24/hb/1962/) - Improving voter registration list accuracy by improving voter address change processes for county election offices and voters. 👍1  
+## [HB 1962](/bill/2023-24/hb/1962/) - Improving voter registration list accuracy by improving voter address change processes for county election offices and voters. 👍2  
 
 ## [HB 2023](/bill/2023-24/hb/2023/) - Improving meaningful access to elections by increasing language assistance. 👍1  
 * 👍 Subha Vadlamannati
@@ -183,6 +183,9 @@
 ## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I 👍1  
 
 ## [SB 5232](/bill/2023-24/sb/5232/) - Firearms/purchase & transfer 👍1  
+
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
+* 👍 Kathy Sakahara
 
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍3  
 

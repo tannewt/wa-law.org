@@ -19,15 +19,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31926&aId=159317&caId=24166&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31926&aId=159317&caId=24166&tId=4)
 
-#### 28 👍 - Pro
+#### 173 👍 - Pro
 Testifying:
 * 💵Brenna Anderst - Pasado's Safe Haven/Education & Advocacy Director
 * Jennifer Jacquet
 * Amanda Fox - Animal Rights Initiative
 * Josh Diamond
 * Rachel Bjork - Northwest Animal Rights Network (NARN)
+* Wendy Linton
+* Hannah Bugga
+* Brian NEVELS
+* 💵Michael Moran - Confederated Tribes of the Colville Reservation
+* 💵Alex Cerussi - Mercy For Animals
+* Allie Molinaro - Compassion in World Farming
 
-#### 0 👎 - Con
+#### 22 👎 - Con
 
 #### 0 ❓ - Other
 

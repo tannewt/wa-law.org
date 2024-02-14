@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 02/12/2024 [Gorge News Center](/org/gorge_news_center/) - [Bipartisan legislation from Harris headed to the Senate after unanimous approval from the House](https://gorgenewscenter.com/2024/02/12/bipartisan-legislation-from-harris-headed-to-the-senate-after-unanimous-approval-from-the-house/#:~:text=House%20Bill%202482)
+
 ## Meetings
 ### Fri 02/02 08:00 AM - Finance (FIN): HB 2482 Semiconductor tax incentives
 #### 7 👍 - Pro

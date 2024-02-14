@@ -21,17 +21,30 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31901&aId=159110&caId=24051&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31901&aId=159110&caId=24051&tId=4)
 
-#### 3 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Natalya Yudkovsky - Washington State PTA
 * Dave Brown - CS Forward
+* Connor Williams - 2412 Robototes
+* Ian Chen - 2412 Robototes
+* Natalie Wong - 2412 Robototes
+* Paree Raval - 2412 Robototes
+* Rediet Tassew - 2412 Robototes
+* Amy Zhou - CS Forward
+* Laura Hu
+* Kelly Ogilvie - Kira Learning
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
-#### 2 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * J. Lee Schultz - [Washington State Board of Education](/org/washington_state_board_of_education/)
 * Cindy McMullen - Washington State School Directors' Association
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
+* Anna Hernandez-French - Office of Superintendent of Public Instruction
+* Jeff Charbonneau - Zillah School District
+* Jeff Charbonneau - Zillah High School
+* Lawrence Tanimoto - CSTA Puget Sound  / CS for All Washington
 
 ### Sat 02/03 09:00 AM - Ways & Means (WM): SSB 5849 Computer science/graduation
 #### 3 👍 - Pro

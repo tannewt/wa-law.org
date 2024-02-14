@@ -14,9 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=159313&caId=24164&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=159313&caId=24164&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Jenny Arnold - Washington State Pharmacy Association
 
-#### 0 👎 - Con
+#### 45 👎 - Con
+Testifying:
+* Bob Runnells - Informed Choice Washington
 
 #### 0 ❓ - Other
 

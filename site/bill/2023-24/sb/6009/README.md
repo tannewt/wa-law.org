@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/12/2024 [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | Washington State Bans Hog-Ties; Japanese Incarceration Day of Remembrance Events on Feb. 19 | South Seattle Emerald](https://southseattleemerald.com/2024/02/12/news-gleams-washington-state-bans-hog-ties-japanese-incarceration-day-of-remembrance-events-on-feb-19/#:~:text=Senate%20Bill%206009)
 * 02/09/2024 [NW News Network](/org/nw_news_network/) - [Passing bills, bills, bills: Highlights from week 5 in the WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2024-02-09/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%206009)
 * 02/09/2024 [KUOW](/org/kuow/) - [KUOW - Passing bills, bills, bills: Highlights from week 5 in the WA Legislature](https://www.kuow.org/stories/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%206009)
 * 02/06/2024 [Senate Democrats](/org/senate_democrats/) - [Trudeau bill prohibiting hog-tying by law enforcement passes Senate  - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/06/trudeau-bill-prohibiting-hog-tying-by-law-enforcement-passes-senate/#:~:text=SB%206009)
@@ -18,20 +19,20 @@
 
 ## Meetings
 ### Wed 02/14 10:30 AM - Community Safety, Justice, & Reentry (CSJR): ESSB 6009 Hog-tying
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=159020&caId=24044&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=159020&caId=24044&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=159020&caId=24044&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=159020&caId=24044&tId=4)
-
-#### 142 👍 - Pro
+#### 287 👍 - Pro
 Testifying:
+* Monet Carter-Mixon
 * Monet Mixon-Ellis - WA Coalition for Police Accountability
 * Victoria Woodards - Mayor of the City of Tacoma
+* 💵Nickeia Hunter - WA Coalition for Police Accountability
+* Trishandra Pickup - WA Coalition for Police Accountability
+* Jamika Scott - Tacoma City Councilmember
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 01/22 10:30 AM - Law & Justice (LAW): SB 6009 Hog-tying
 #### 273 👍 - Pro

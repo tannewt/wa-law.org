@@ -38,6 +38,8 @@
 * 👍 Carol Dotlich
 * 👍 Matt Groshong
 
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
+
 ## [SB 5294](/bill/2023-24/sb/5294/) - Retirement system funding   ❓2
 * ❓💵 Laurie Weidner
 * ❓💵 Emmett Mills

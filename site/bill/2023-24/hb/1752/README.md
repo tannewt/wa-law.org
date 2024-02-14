@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31927&aId=159075&caId=24037&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31927&aId=159075&caId=24037&tId=4)
 
-#### 1 👍 - Pro
+#### 30 👍 - Pro
+Testifying:
+* Mike Schwisow - WA ST Water Resources Assn./Columbia Basin Project Irrigation Districts
 
 #### 0 👎 - Con
 

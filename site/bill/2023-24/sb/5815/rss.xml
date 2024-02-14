@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5815/</link>
 		<description>Updates about SB 5815</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Feb 2024 12:36:10 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Feb 2024 11:21:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -125,6 +125,14 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Stephanie/Mason/2024-02-12 12:36:10</guid>
+		</item>
+		<item>
+			<title>👍Troy Bender - Washington Academy of Physician Assistants</title>
+			<description>Troy Bender signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_academy_of_physician_assistants/&quot;&gt;Washington Academy of Physician Assistants&lt;/a&gt;.</description>
+			<pubDate>Wed, 14 Feb 2024 11:21:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Troy/Bender/2024-02-14 11:21:09</guid>
 		</item>
 	</channel>
 </rss>

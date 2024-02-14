@@ -15,14 +15,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31938&aId=159209&caId=24131&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31938&aId=159209&caId=24131&tId=4)
 
-#### 17 👍 - Pro
+#### 66 👍 - Pro
 Testifying:
 * Melody Simle
 * Jim Chambers
+* Jacob Ivan Schmitt
+* Larry Ballesteros - Transitioning Offenders Program
+* Qudaffi Howell
+* Vidal “Blaze” Vincent
+* Brian Funk
+* Kehaulani Walker - FOTi (Families of the Incarcerated) PUA (People United Alliance)
+* Noreen Light - Information For A Change
 
-#### 0 👎 - Con
+#### 36 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 01/22 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 2287 Corrections ombuds adv board
 #### 71 👍 - Pro

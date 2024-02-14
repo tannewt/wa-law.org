@@ -44,8 +44,9 @@
 ## [HB 1184](/bill/2023-24/hb/1184/) - Used vehicle warranties   ❓1
 * ❓💵 Mark Johnson
 
-## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products  👎2 
+## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products  👎3 
 * 👎💵 Mark Johnson
+* 👎💵 Crystal Leatherman
 * 👎💵 Crystal Leatherman
 
 ## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍4  
@@ -223,9 +224,10 @@
 ## [SB 5035](/bill/2023-24/sb/5035/) - Controlled sub. possession 👍1  
 * 👍💵 Mark Johnson
 
-## [SB 5056](/bill/2023-24/sb/5056/) - Habitual property offenders 👍2  
+## [SB 5056](/bill/2023-24/sb/5056/) - Habitual property offenders 👍3  
 * 👍💵 Mark Johnson
 * 👍💵 Mark Johnson
+* 👍💵 Crystal Leatherman
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎2 
 

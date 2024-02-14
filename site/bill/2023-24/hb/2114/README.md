@@ -6,8 +6,15 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/14/2024 [The Center Square](/org/the_center_square/) - [Washington House passes bill limiting rent hikes to 7% | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_82cb3f00-cae9-11ee-b931-73a8817fcd66.html#:~:text=HB%202114)
+* 02/13/2024 [The Urbanist](/org/the_urbanist/) - [Rent Stabilization Backers Aim to Beat Deadline to Keep Bill Alive - The Urbanist](https://www.theurbanist.org/2024/02/13/rent-stabilization-backers-aim-to-beat-deadline-to-keep-bill-alive/#:~:text=House%20Bill%202114)
+* 02/13/2024 [The Seattle Times](/org/the_seattle_times/) - [WA House votes to limit rent hikes; tough Senate road awaits | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-house-votes-to-limit-rent-hikes-tough-senate-road-awaits/#:~:text=House%20Bill%202114)
+* 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024/#:~:text=HB%202114)
+* 02/13/2024 [House Democrats](/org/house_democrats/) - [Washington House Democrats bring fairness to the housing market with rent stabilization – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/13/washington-house-democrats-bring-fairness-to-the-housing-market-with-rent-stabilization/#:~:text=HB%202114)
+* 02/12/2024 [The Seattle Times](/org/the_seattle_times/) - [As deadline looms, WA House vote on rent bill is uncertain | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/as-deadline-looms-wa-house-vote-on-rent-bill-is-uncertain/#:~:text=House%20Bill%202114)
 * 02/10/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. Corry relieved property tax increase bill failed, but warns Democrats still have many other bills that will cost you](https://gorgenewscenter.com/2024/02/10/rep-corry-relieved-property-tax-increase-bill-failed-but-warns-democrats-still-have-many-other-bills-that-will-cost-you/#:~:text=HB%202114)
 * 02/06/2024 [Senate Democrats](/org/senate_democrats/) - [Joint statement from chairs of Members of Color caucuses on rent stabilization - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/06/joint-statement-from-chairs-of-members-of-color-caucuses-on-rent-stabilization/#:~:text=HB%202114)
 * 02/06/2024 [Cascadia Daily News](/org/cascadia_daily_news/) - [Local, state reps agree: Rent stabilization is both necessary and popular with voters | Cascadia Daily News](https://www.cascadiadaily.com/2024/feb/06/local-state-reps-agree-rent-stabilization-is-both-necessary-and-popular-with-voters/#:~:text=HB%202114)

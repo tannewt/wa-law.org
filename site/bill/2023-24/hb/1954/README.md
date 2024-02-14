@@ -17,11 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158915&caId=23911&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158915&caId=23911&tId=4)
 
-#### 107 👍 - Pro
+#### 141 👍 - Pro
 
-#### 794 👎 - Con
+#### 990 👎 - Con
 Testifying:
 * Mary Long - Conservative Ladies of Washington
+* Sharon Damoff
+* Jennifer Heine-Withee
 
 #### 0 ❓ - Other
 

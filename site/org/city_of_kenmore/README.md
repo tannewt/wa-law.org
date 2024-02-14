@@ -38,7 +38,7 @@
 
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures 👍1  
 
-## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍3  
+## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍4  
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍2  
 

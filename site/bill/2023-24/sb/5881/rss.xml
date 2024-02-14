@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5881/</link>
 		<description>Updates about SB 5881</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Feb 2024 06:29:15 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -95,6 +95,14 @@
 			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-09/First reading, referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👍Dylan Doty - Kitsap Transit</title>
+			<description>Dylan Doty signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/kitsap_transit/&quot;&gt;Kitsap Transit&lt;/a&gt;.</description>
+			<pubDate>Tue, 13 Feb 2024 06:29:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dylan/Doty/2024-02-13 06:29:15</guid>
 		</item>
 	</channel>
 </rss>

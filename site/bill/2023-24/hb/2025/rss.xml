@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2025/</link>
 		<description>Updates about HB 2025</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -133,6 +133,20 @@
 			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-09/Third reading, passed; yeas, 95; nays, 2; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>HB 2025 passes House. – Washington State House Democrats</title>
+			<description>News article &quot;HB 2025 passes House. – Washington State House Democrats&quot; from House Democrats.</description>
+			<pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/02/12/hb-2025-passes-house/#:~:text=HB%202025</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Higher Education &amp; Workforce Development.</title>
+			<description>First reading, referred to Higher Education &amp; Workforce Development.</description>
+			<pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-13/First reading, referred to Higher Education &amp; Workforce Development.</guid>
 		</item>
 	</channel>
 </rss>

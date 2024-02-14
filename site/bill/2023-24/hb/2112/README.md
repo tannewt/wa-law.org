@@ -17,20 +17,20 @@
 
 ## Meetings
 ### Wed 02/14 08:00 AM - Higher Education & Workforce Development (HEWD): 2SHB 2112 Higher ed. opioid prevention
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31936&aId=159047&caId=24012&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31936&aId=159047&caId=24012&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31936&aId=159047&caId=24012&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31936&aId=159047&caId=24012&tId=4)
-
-#### 12 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * Melissa Beard - Council of Presidents
 * Amanda Kost - UW Faculty
+* Isela Bonilla - Associated Students of WSU Vancouver
+* Stella Seth - Legislative Liaison, Associated Students, Western Washington University
+* Scott Waller - Washington Association for Substance misuse and Violence Prevention (WASAVP)
+* Mollie Kuwahara - State Board for Community and Technical Colleges
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Ph.D., Terri Standish-Kuon - [Independent Colleges of Washington](/org/independent_colleges_of_washington/)
 
 ### Thu 02/01 10:30 AM - Appropriations (APP): SHB 2112 Higher ed. opioid prevention
 #### 19 👍 - Pro

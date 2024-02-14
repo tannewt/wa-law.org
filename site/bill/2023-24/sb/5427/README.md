@@ -25,12 +25,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159129&caId=24082&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159129&caId=24082&tId=4)
 
-#### 5 👍 - Pro
+#### 13 👍 - Pro
 
-#### 630 👎 - Con
+#### 913 👎 - Con
 Testifying:
 * Liv Finne - Washington Policy Center
 * John Coleman - Foundation for Individual Rights and Expression
+* Julie Barrett - Conservative Ladies of Washington
+* Sharon Damoff
+* Julie Barrett - Conservative Ladies of Washington
 
 #### 0 ❓ - Other
 

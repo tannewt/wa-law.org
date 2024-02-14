@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=159057&caId=24075&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=159057&caId=24075&tId=4)
 
-#### 8 👍 - Pro
+#### 18 👍 - Pro
+Testifying:
+* 💵Clark Hansen - ALS Association, Patient Coalition of Washington
+* Mercer May - Teladoc Health
+* 💵Carrie Tellefson - Teladoc Health
 
 #### 0 👎 - Con
 

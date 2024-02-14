@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Wed 02/14 01:30 PM - Health Care & Wellness (HCW): SB 5982 Vaccine definition
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=158924&caId=23960&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=158924&caId=23960&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=158924&caId=23960&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=158924&caId=23960&tId=4)
-
 #### 17 👍 - Pro
 
 #### 360 👎 - Con
@@ -24,23 +18,25 @@ Testifying:
 #### 1 ❓ - Other
 
 ### Wed 02/14 01:30 PM - Health Care & Wellness (HCW): SB 5982 Vaccine definition
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159102&caId=24074&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159102&caId=24074&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159102&caId=24074&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159102&caId=24074&tId=4)
-
-#### 40 👍 - Pro
-
-#### 613 👎 - Con
+#### 177 👍 - Pro
 Testifying:
+* Dr. Beth Harvey - Washington Vaccine Association & Washington Chapter of the American Academy of Pediatrics
+* Lacy Fehrenbach - Washington State Department of Health
+
+#### 1280 👎 - Con
+Testifying:
+* Laurie Layne
+* Mary Long - Conservative Ladies of Washington
 * Jeannette Mcchesney
 * James Ware
 * Vernon Den Bleyker
 * Laurie Layne
 * Candace Moore
+* Sharon Damoff
+* Bob Runnells - Informed Choice Washington
+* Natalie Chavez
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Fri 01/12 08:00 AM - Health & Long Term Care (HLTC): SB 5982 Vaccine definition
 #### 362 👍 - Pro

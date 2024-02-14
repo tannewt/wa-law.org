@@ -15,9 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158918&caId=23914&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158918&caId=23914&tId=4)
 
-#### 173 👍 - Pro
+#### 192 👍 - Pro
 Testifying:
 * 💵John Ficker - [Adult Family Home Council](/org/adult_family_home_council/)
+* 💵Amina Abdalla - [Adult Family Home Council](/org/adult_family_home_council/)
+* Aurica Cuc - Lake View Adult Family Home
+* Dorothy Schlimme - Angel Haven AFH
 
 #### 1 👎 - Con
 

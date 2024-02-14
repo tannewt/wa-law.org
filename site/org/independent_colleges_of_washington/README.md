@@ -12,9 +12,13 @@
 ## [HB 1399](/bill/2023-24/hb/1399/) - Native American scholarships   ❓1
 * ❓ Ph.D., Terri Standish-Kuon
 
-## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍1  
+## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍2  
 
-## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention   ❓1
+## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention   ❓2
+* ❓ Ph.D., Terri Standish-Kuon
+* ❓ Ph.D., Terri Standish-Kuon
+
+## [HB 2164](/bill/2023-24/hb/2164/) - Postsecondary ed protections   ❓1
 * ❓ Ph.D., Terri Standish-Kuon
 
 ## [HB 2441](/bill/2023-24/hb/2441/) - College in the HS fees 👍1  
@@ -46,8 +50,10 @@
 
 ## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍2  
 
-## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
+## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍2  
 
 ## [SB 5999](/bill/2023-24/sb/5999/) - Financial aid eligibility 👍1  
+
+## [SB 6053](/bill/2023-24/sb/6053/) - Education data sharing 👍1  
 
 ## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍1  

@@ -147,6 +147,8 @@
 
 ## [HB 1889](/bill/2023-24/hb/1889/) - Professionals/immigration 👍1  
 
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍1  
+
 ## [HB 1902](/bill/2023-24/hb/1902/) - Firearms/purchase & transfer 👍1  
 
 ## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍1  
@@ -155,7 +157,7 @@
 
 ## [HB 1916](/bill/2023-24/hb/1916/) - Infants and toddlers program 👍1  
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍2  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍3  
 
 ## [HB 1934](/bill/2023-24/hb/1934/) - AI task force 👍2  
 
@@ -163,13 +165,13 @@
 
 ## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
 
-## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍2  
+## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍3  
 
 ## [HB 1952](/bill/2023-24/hb/1952/) - Disasters/long-term recovery 👍1  
 
 ## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
 
-## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍1  
+## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍2  
 
 ## [HB 1986](/bill/2023-24/hb/1986/) - Adding purposes for the use of existing firefighter safety funding. 👍1  
 
@@ -203,7 +205,7 @@
 
 ## [HB 2111](/bill/2023-24/hb/2111/) - Subsidized child care 👍1  
 
-## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention 👍2  
+## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention 👍3  
 
 ## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍1  
 
@@ -327,7 +329,7 @@
 
 ## [SB 5235](/bill/2023-24/sb/5235/) - Accessory dwelling units 👍1  
 
-## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍3  
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍3  
 
@@ -352,6 +354,8 @@
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
 
 ## [SB 5383](/bill/2023-24/sb/5383/) - Pedestrians/roadways 👍1  
+
+## [SB 5424](/bill/2023-24/sb/5424/) - Flexible work/peace officers 👍1  
 
 ## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍2  
 
@@ -381,6 +385,8 @@
 
 ## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍1  
 
+## [SB 5635](/bill/2023-24/sb/5635/) - Victims' rights 👍1  
+
 ## [SB 5702](/bill/2023-24/sb/5702/) - Student homelessness pilot 👍3  
 
 ## [SB 5730](/bill/2023-24/sb/5730/) - Vehicle residences/impound   ❓1
@@ -409,6 +415,8 @@
 
 ## [SB 5906](/bill/2023-24/sb/5906/) - Implementing a statewide drug overdose prevention and education campaign. 👍1  
 
+## [SB 5917](/bill/2023-24/sb/5917/) - Bias-motivated defacement 👍1  
+
 ## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍2  
 
 ## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD 👍1  
@@ -426,13 +434,17 @@
 
 ## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  
 
-## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍1  
+## [SB 5973](/bill/2023-24/sb/5973/) - Heat pumps/CICs 👍1  
+
+## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍2  
 
 ## [SB 5993](/bill/2023-24/sb/5993/) - Voter education   ❓1
 
 ## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍2  
 
-## [SB 6007](/bill/2023-24/sb/6007/) - Grocery workers 👍1  
+## [SB 6007](/bill/2023-24/sb/6007/) - Grocery workers 👍2  
+
+## [SB 6009](/bill/2023-24/sb/6009/) - Hog-tying 👍1  
 
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development 👍1  
 
@@ -449,7 +461,7 @@
 
 ## [SB 6135](/bill/2023-24/sb/6135/) - TANF transitional assistance 👍2  
 
-## [SB 6157](/bill/2023-24/sb/6157/) - Civil service 👍1  
+## [SB 6157](/bill/2023-24/sb/6157/) - Civil service 👍2  
 
 ## [SB 6171](/bill/2023-24/sb/6171/) - Child care/nonstandard hours 👍2  
 
@@ -469,4 +481,4 @@
 
 ## [SB 6300](/bill/2023-24/sb/6300/) - College grant/public assist. 👍2  
 
-## [ESJM 8006](/bill/2023-24/esjm/8006/) - Universal health care 👍1  
+## [ESJM 8006](/bill/2023-24/esjm/8006/) - Universal health care 👍2  

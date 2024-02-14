@@ -4,7 +4,7 @@
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
 
-## [HB 1146](/bill/2023-24/hb/1146/) - Dual credit program notice 👍2  
+## [HB 1146](/bill/2023-24/hb/1146/) - Dual credit program notice 👍3  
 
 ## [HB 1155](/bill/2023-24/hb/1155/) - Consumer health data   ❓1
 * ❓💵 Kelly Fukai
@@ -30,11 +30,11 @@
 ## [HB 1951](/bill/2023-24/hb/1951/) - Algorithmic discrimination  👎1 
 * 👎💵 Kelly Fukai
 
-## [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍2  
+## [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍3  
 
 ## [HB 2008](/bill/2023-24/hb/2008/) - Housing cost task force 👍1  
 
-## [HB 2019](/bill/2023-24/hb/2019/) - Native American apprentices 👍2  
+## [HB 2019](/bill/2023-24/hb/2019/) - Native American apprentices 👍3  
 
 ## [HB 2149](/bill/2023-24/hb/2149/) - Protecting consumer personal information.  👎1 
 * 👎💵 Kelly Fukai
@@ -43,7 +43,7 @@
 
 ## [HB 2244](/bill/2023-24/hb/2244/) - Retirement savings   ❓1
 
-## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍2  
+## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍3  
 
 ## [HB 2277](/bill/2023-24/hb/2277/) - Data brokering  👎1 
 * 👎💵 Kelly Fukai
@@ -58,7 +58,7 @@
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍4  
 
-## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍2  
+## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍3  
 
 ## [SB 5356](/bill/2023-24/sb/5356/) - Procurement/automated system  👎1 
 
@@ -80,10 +80,10 @@
 * ❓💵 Kelly Fukai
 * ❓💵 Kelly Fukai
 
-## [SB 5849](/bill/2023-24/sb/5849/) - Computer science/graduation 👍2  
+## [SB 5849](/bill/2023-24/sb/5849/) - Computer science/graduation 👍3  
 * 👍💵 Brittany Jarnot
 
-## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍2  
+## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍3  
 
 ## [SB 5999](/bill/2023-24/sb/5999/) - Financial aid eligibility 👍1  
 
@@ -91,7 +91,7 @@
 
 ## [SB 6069](/bill/2023-24/sb/6069/) - Retirement savings   ❓1
 
-## [SB 6137](/bill/2023-24/sb/6137/) - Semiconductor tax incentives 👍1  
+## [SB 6137](/bill/2023-24/sb/6137/) - Semiconductor tax incentives 👍2  
 
 ## [SB 6168](/bill/2023-24/sb/6168/) - International leadership 👍1  
 

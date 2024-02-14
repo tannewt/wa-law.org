@@ -14,17 +14,16 @@
 
 ## Meetings
 ### Wed 02/14 10:30 AM - Community Safety, Justice, & Reentry (CSJR): ESSB 5299 Law enf. officer protection
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=158845&caId=23936&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=158845&caId=23936&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=158845&caId=23936&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=158845&caId=23936&tId=4)
-
-#### 34 👍 - Pro
+#### 134 👍 - Pro
 Testifying:
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
+* Sheldon Beddo
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 1 👎 - Con
+#### 86 👎 - Con
+Testifying:
+* David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
+* 💵Enoka Herat - ACLU-WA
 
 #### 0 ❓ - Other
 

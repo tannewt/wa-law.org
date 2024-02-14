@@ -67,7 +67,7 @@
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍6  
 
-## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍3  
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍4  
 
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍2  
 * 👍💵 Aaron Czyzewski
@@ -139,7 +139,7 @@
 
 ## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍4  
 
-## [SB 6009](/bill/2023-24/sb/6009/) - Hog-tying 👍1  
+## [SB 6009](/bill/2023-24/sb/6009/) - Hog-tying 👍2  
 
 ## [SB 6112](/bill/2023-24/sb/6112/) - Donated food items/B&O tax   ❓1
 * ❓💵 Aaron Czyzewski

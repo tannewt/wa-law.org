@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024/#:~:text=SB%205334)
 * 02/09/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 12 - 16, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-12-16-2024/#:~:text=SB%205334)
 * 01/26/2024 [Crosscut](/org/crosscut/) - [WA Senate passes tax proposal to boost affordable-housing funding | Crosscut](https://crosscut.com/briefs/2024/01/wa-senate-passes-tax-proposal-boost-affordable-housing-funding#:~:text=Senate%20Bill%205334)
 * 03/17/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 20 - 24, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-20-24-2023/#:~:text=SB%205334)
@@ -16,23 +17,25 @@
 
 ## Meetings
 ### Wed 02/14 08:00 AM - Local Government (LG): ESSB 5334 Affordable housing funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31955&aId=158960&caId=23974&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31955&aId=158960&caId=23974&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31955&aId=158960&caId=23974&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31955&aId=158960&caId=23974&tId=4)
-
-#### 143 👍 - Pro
+#### 188 👍 - Pro
 Testifying:
 * Carl Florea - Mayor of Leavenworth
 * Salim Nice - Mayor, Mecer ISland
 * 💵Brent Ludeman
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Zeke Reister - Leavenworth City Council
+* Zeke Reister - Leavenworth City Council
 
-#### 8 👎 - Con
+#### 87 👎 - Con
 Testifying:
 * CAROLYN ALLEN
+* Matthew Ford
+* Ken Ploeger - Airbnb Seattle Hosts
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Ruth Whittaker - Chamber of Progress
+* Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Thu 03/30 08:00 AM - Finance (FIN): ESSB 5334 Affordable housing funding
 #### 5 👍 - Pro

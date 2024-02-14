@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/12/2024 [House Democrats](/org/house_democrats/) - [House passes Rep. Bateman bill to raise state employee vacation cap – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/12/house-passes-rep-bateman-bill-to-raise-state-employee-vacation-cap/#:~:text=House%20Bill%202246)
+
 ## Meetings
 ### Sat 02/03 09:00 AM - Appropriations (APP): HB 2246 Vacation leave accrual
 #### 14 👍 - Pro

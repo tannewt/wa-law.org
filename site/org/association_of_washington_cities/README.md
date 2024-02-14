@@ -248,6 +248,8 @@
 
 ## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
 
+## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍1  
+
 ## [HB 1982](/bill/2023-24/hb/1982/) - Broadband loans & grants 👍1  
 
 ## [HB 1986](/bill/2023-24/hb/1986/) - Adding purposes for the use of existing firefighter safety funding. 👍1  
@@ -328,7 +330,10 @@
 * 👍💵 Lindsey Hueer
 * 👍💵 Lindsey Hueer
 
-## [HB 2252](/bill/2023-24/hb/2252/) - Small businesses/residential   ❓1
+## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍1  
+
+## [HB 2252](/bill/2023-24/hb/2252/) - Small businesses/residential   ❓2
+* ❓💵 Carl Schroeder
 * ❓💵 Carl Schroeder
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
@@ -349,14 +354,15 @@
 
 ## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
 
-## [HB 2321](/bill/2023-24/hb/2321/) - Middle housing requirements   ❓1
+## [HB 2321](/bill/2023-24/hb/2321/) - Middle housing requirements   ❓2
+* ❓💵 Carl Schroeder
 * ❓💵 Carl Schroeder
 
 ## [HB 2330](/bill/2023-24/hb/2330/) - Wildfire protection 👍1  
 
 ## [HB 2343](/bill/2023-24/hb/2343/) - Property owners/projects 👍1  
 
-## [HB 2354](/bill/2023-24/hb/2354/) - Tax increment areas  👎1 
+## [HB 2354](/bill/2023-24/hb/2354/) - Tax increment areas 👍1 👎1 
 * 👎💵 Candice Bock
 
 ## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras 👍1  
@@ -479,7 +485,8 @@
 
 ## [SB 5332](/bill/2023-24/sb/5332/) - Homeless camps/schools, etc.  👎1 
 
-## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍3  
+## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍4  
+* 👍💵 Carl Schroeder
 * 👍💵 Carl Schroeder
 * 👍💵 Carl Schroeder
 
@@ -618,12 +625,16 @@
 ## [SB 5781](/bill/2023-24/sb/5781/) - Establishing a law student rural public defense program. 👍2  
 * 👍💵 Lindsey Hueer
 
-## [SB 5807](/bill/2023-24/sb/5807/) - Housing authorities 👍1  
-
-## [SB 5808](/bill/2023-24/sb/5808/) - Safety telecom/interest arb.   ❓1
+## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave   ❓1
 * ❓💵 Candice Bock
 
-## [SB 5834](/bill/2023-24/sb/5834/) - Urban growth areas 👍1  
+## [SB 5807](/bill/2023-24/sb/5807/) - Housing authorities 👍1  
+
+## [SB 5808](/bill/2023-24/sb/5808/) - Safety telecom/interest arb.   ❓2
+* ❓💵 Candice Bock
+* ❓💵 Candice Bock
+
+## [SB 5834](/bill/2023-24/sb/5834/) - Urban growth areas 👍2  
 
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍3  
 
@@ -631,7 +642,7 @@
 
 ## [SB 5884](/bill/2023-24/sb/5884/) - Concerning court-ordered restitution in environmental criminal cases. 👍1  
 
-## [SB 5885](/bill/2023-24/sb/5885/) - Certificates of annexation 👍1  
+## [SB 5885](/bill/2023-24/sb/5885/) - Certificates of annexation 👍2  
 * 👍💵 Carl Schroeder
 
 ## [SB 5886](/bill/2023-24/sb/5886/) - Firefighter safety funding 👍1  

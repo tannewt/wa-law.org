@@ -39,7 +39,8 @@
 
 ## [SB 5559](/bill/2023-24/sb/5559/) - Student restraint, isolation 👍1  
 
-## [SB 5883](/bill/2023-24/sb/5883/) - Concerning the burden of proof for special education due process hearings. 👍2  
+## [SB 5883](/bill/2023-24/sb/5883/) - Concerning the burden of proof for special education due process hearings. 👍3  
+* 👍💵 Stacy Dym
 * 👍💵 Stacy Dym
 
 ## [SB 6125](/bill/2023-24/sb/6125/) - Lakeland Village records 👍2  

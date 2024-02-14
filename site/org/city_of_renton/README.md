@@ -31,3 +31,5 @@
 ## [SB 5674](/bill/2023-24/sb/5674/) - Surplus property/housing 👍1  
 
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development   ❓1
+
+## [SB 6164](/bill/2023-24/sb/6164/) - County emergency management   ❓1

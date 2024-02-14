@@ -6,9 +6,10 @@
 ## [HB 1141](/bill/2023-24/hb/1141/) - Operating budget, supp. 👍1  
 * 👍 Dr. Scott Phillips
 
-## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
+## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍2  
+* 👍 MD, Scott Phillips
 
-## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention 👍1  
+## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention 👍2  
 
 ## [HB 2396](/bill/2023-24/hb/2396/) - Synthetic opioids 👍1  
 * 👍 Dr. Scott Phillips
@@ -18,6 +19,8 @@
 
 ## [SB 5188](/bill/2023-24/sb/5188/) - Operating budget, supp. 👍1  
 * 👍 Dr. Scott Phillips
+
+## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose/high schools 👍1  
 
 ## [SB 6099](/bill/2023-24/sb/6099/) - Tribal opioid account 👍1  
 

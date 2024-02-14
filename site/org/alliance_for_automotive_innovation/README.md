@@ -1,5 +1,7 @@
 # Alliance for Automotive Innovation
 
+## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍1  
+
 ## [HB 1280](/bill/2023-24/hb/1280/) - Open vehicle safety recalls 👍1  
 * 👍 Curt Augustine
 
@@ -10,6 +12,9 @@
 * 👍 Curt Augustine
 
 ## [SB 5872](/bill/2023-24/sb/5872/) - Concerning vehicle and operator requirements for autonomous vehicles.  👎1 
+* 👎💵 Brandon Houskeeper
+
+## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD  👎1 
 * 👎💵 Brandon Houskeeper
 
 ## [SB 5945](/bill/2023-24/sb/5945/) - Vehicle dealers 👍1 👎1 

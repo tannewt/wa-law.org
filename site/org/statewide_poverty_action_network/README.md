@@ -78,7 +78,7 @@
 
 ## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍3  
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍5  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍6  
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍3  
 
@@ -147,6 +147,9 @@
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
 ## [HB 2360](/bill/2023-24/hb/2360/) - Digital workforce 👍1  
+
+## [HB 2415](/bill/2023-24/hb/2415/) - Economic assistance/TANF 👍1  
+* 👍💵 Alex Hur
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest 👍3  
 
@@ -238,7 +241,7 @@
 
 ## [SB 5990](/bill/2023-24/sb/5990/) - Env. justice/SEPA projects 👍1  
 
-## [SB 6025](/bill/2023-24/sb/6025/) - Predatory loans 👍1  
+## [SB 6025](/bill/2023-24/sb/6025/) - Predatory loans 👍2  
 
 ## [SB 6069](/bill/2023-24/sb/6069/) - Retirement savings 👍1  
 

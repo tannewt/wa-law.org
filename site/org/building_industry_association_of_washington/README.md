@@ -191,7 +191,8 @@
 
 ## [HB 2289](/bill/2023-24/hb/2289/) - Salmon recovery projects/tax 👍1  
 
-## [HB 2321](/bill/2023-24/hb/2321/) - Middle housing requirements 👍1  
+## [HB 2321](/bill/2023-24/hb/2321/) - Middle housing requirements 👍2  
+* 👍💵 Bill Stauffacher
 * 👍💵 Bill Stauffacher
 
 ## [HB 2353](/bill/2023-24/hb/2353/) - Residential targeted areas 👍1  
@@ -302,10 +303,12 @@
 
 ## [SB 5770](/bill/2023-24/sb/5770/) - Property tax  👎1 
 
-## [SB 5792](/bill/2023-24/sb/5792/) - Concerning the definition of multiunit residential buildings. 👍1  
+## [SB 5792](/bill/2023-24/sb/5792/) - Concerning the definition of multiunit residential buildings. 👍2  
+* 👍💵 Tricia Gullion
 * 👍💵 Tricia Gullion
 
-## [SB 5834](/bill/2023-24/sb/5834/) - Urban growth areas 👍1  
+## [SB 5834](/bill/2023-24/sb/5834/) - Urban growth areas 👍2  
+* 👍💵 Jan Himebaugh
 * 👍💵 Jan Himebaugh
 
 ## [SB 5835](/bill/2023-24/sb/5835/) - Rule making websites 👍1  
@@ -320,7 +323,8 @@
 ## [SB 5990](/bill/2023-24/sb/5990/) - Env. justice/SEPA projects  👎1 
 * 👎💵 Brent Ludeman
 
-## [SB 6015](/bill/2023-24/sb/6015/) - Residential parking 👍1  
+## [SB 6015](/bill/2023-24/sb/6015/) - Residential parking 👍2  
+* 👍💵 Jan Himebaugh
 
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development  👎2 
 
@@ -340,8 +344,9 @@
 
 ## [SB 6136](/bill/2023-24/sb/6136/) - Rental property B&O tax  👎1 
 
-## [SB 6140](/bill/2023-24/sb/6140/) - Intensive rural development 👍1  
+## [SB 6140](/bill/2023-24/sb/6140/) - Intensive rural development 👍2  
 * 👍💵 Tricia Gullion
+* 👍💵 Jan Himebaugh
 
 ## [SB 6143](/bill/2023-24/sb/6143/) - Salmon habitat planning  👎1 
 * 👎💵 Tricia Gullion
@@ -359,6 +364,9 @@
 
 ## [SB 6285](/bill/2023-24/sb/6285/) - Use of impact fees 👍1  
 * 👍💵 Tricia Gullion
+
+## [SB 6291](/bill/2023-24/sb/6291/) - State building code council 👍1  
+* 👍💵 Jan Himebaugh
 
 ## [SB 6304](/bill/2023-24/sb/6304/) - Transp. electrification  👎1 
 * 👎💵 Jan Himebaugh

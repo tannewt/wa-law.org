@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6164/</link>
 		<description>Updates about SB 6164</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Feb 2024 07:17:16 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Feb 2024 07:04:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2024-01-11/First reading, referred to Local Government, Land Use &amp; Tribal Affairs.</guid>
 		</item>
 		<item>
-			<title>👍Rebecca Scales - Washington Military Department, Emergency Management Division</title>
+			<title>👍Rebecca Scales - Washington State Emergency Management Association</title>
 			<description>Rebecca Scales signed up to testify Pro.</description>
 			<pubDate>Wed, 17 Jan 2024 01:34:28 GMT</pubDate>
 			<category>testifier</category>
@@ -80,6 +80,22 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Robert/Ezelle/2024-02-12 07:17:16</guid>
+		</item>
+		<item>
+			<title>❓Leonard Johnson - Washington Fire Chiefs Association</title>
+			<description>Leonard Johnson signed up to testify Other. They are signed up to represent Washington Fire Chiefs Association.</description>
+			<pubDate>Tue, 13 Feb 2024 11:07:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Leonard/Johnson/2024-02-13 11:07:49</guid>
+		</item>
+		<item>
+			<title>❓Julie de Losada - Washington State Emergency Management Association</title>
+			<description>Julie de Losada signed up to testify Other. They are signed up to represent Washington State Emergency Management Association.</description>
+			<pubDate>Wed, 14 Feb 2024 07:04:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Julie/de Losada/2024-02-14 07:04:49</guid>
 		</item>
 	</channel>
 </rss>

@@ -7,6 +7,10 @@
 
 ## [HB 1228](/bill/2023-24/hb/1228/) - Dual & tribal language edu. 👍1  
 
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
+
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍1  
+
 ## [HB 1889](/bill/2023-24/hb/1889/) - Professionals/immigration 👍1  
 
 ## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
@@ -22,6 +26,8 @@
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍2  
+
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
 
 ## [SB 5476](/bill/2023-24/sb/5476/) - Agricultural overtime  👎1 
 

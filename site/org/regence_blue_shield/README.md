@@ -11,6 +11,9 @@
 
 ## [HB 1655](/bill/2023-24/hb/1655/) - Provider contract comp.  👎1 
 
+## [HB 2476](/bill/2023-24/hb/2476/) - Creating a covered lives assessment professional services rate account.  👎1 
+* 👎💵 Jennifer Muhm
+
 ## [SB 5036](/bill/2023-24/sb/5036/) - Audio-only telemedicine 👍1  
 
 ## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍1  
@@ -25,7 +28,9 @@
 
 ## [SB 5445](/bill/2023-24/sb/5445/) - Prescription cost-sharing  👎1 
 
-## [SB 5821](/bill/2023-24/sb/5821/) - Audio-only telemedicine 👍1  
+## [SB 5821](/bill/2023-24/sb/5821/) - Audio-only telemedicine 👍2  
+
+## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍1  
 
 ## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs   ❓1
 * ❓💵 Jane Douthit

@@ -44,7 +44,8 @@
 
 ## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services 👍1  
 
-## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍2  
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍3  
+* 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 
@@ -54,7 +55,8 @@
 
 ## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects 👍1  
 
-## [HB 2071](/bill/2023-24/hb/2071/) - Residential housing 👍2  
+## [HB 2071](/bill/2023-24/hb/2071/) - Residential housing 👍3  
+* 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 
@@ -85,15 +87,17 @@
 ## [HB 2252](/bill/2023-24/hb/2252/) - Small businesses/residential   ❓1
 * ❓💵 Bryce Yadon
 
-## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing   ❓1
+## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍1  ❓1
 * ❓💵 Bryce Yadon
+* 👍💵 Bryce Yadon
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
 ## [HB 2296](/bill/2023-24/hb/2296/) - Comprehensive plan revisions   ❓1
 * ❓💵 Bryce Yadon
 
-## [HB 2321](/bill/2023-24/hb/2321/) - Middle housing requirements 👍1  
+## [HB 2321](/bill/2023-24/hb/2321/) - Middle housing requirements 👍2  
+* 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 
 ## [HB 2353](/bill/2023-24/hb/2353/) - Residential targeted areas  👎1 
@@ -160,8 +164,9 @@
 ## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍3  
 * 👍💵 Bryce Yadon
 
-## [SB 5834](/bill/2023-24/sb/5834/) - Urban growth areas  👎2 
+## [SB 5834](/bill/2023-24/sb/5834/) - Urban growth areas  👎2 ❓1
 * 👎💵 Bryce Yadon
+* ❓💵 Bryce Yadon
 
 ## [SB 5885](/bill/2023-24/sb/5885/) - Certificates of annexation 👍1  
 
@@ -174,7 +179,7 @@
 ## [SB 6010](/bill/2023-24/sb/6010/) - SEPA/trails and paths 👍1  
 * 👍💵 Bryce Yadon
 
-## [SB 6015](/bill/2023-24/sb/6015/) - Residential parking 👍1  
+## [SB 6015](/bill/2023-24/sb/6015/) - Residential parking 👍2  
 * 👍💵 Bryce Yadon
 
 ## [SB 6029](/bill/2023-24/sb/6029/) - Detached ADUs  👎2 

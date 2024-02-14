@@ -43,11 +43,13 @@
 
 ## [HB 1701](/bill/2023-24/hb/1701/) - Institutional ed. programs   ❓1
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍3  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍4  
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
 ## [HB 2130](/bill/2023-24/hb/2130/) - Special education services 👍1  
+
+## [HB 2217](/bill/2023-24/hb/2217/) - Juvenile criminal offenses 👍1  
 
 ## [HB 2218](/bill/2023-24/hb/2218/) - Extended foster care 👍1  
 * 👍💵 Daniel Lugo
@@ -99,11 +101,11 @@
 ## [SB 5719](/bill/2023-24/sb/5719/) - Student homelessness group 👍1  
 * 👍💵 Dawn Rains
 
-## [SB 5800](/bill/2023-24/sb/5800/) - Improving access to department of licensing issued documents by clarifying the application requirements for a minor, modifying the requirements for at-cost identicards, and studying the feasibility of reduced-fee identicards. 👍1  
+## [SB 5800](/bill/2023-24/sb/5800/) - Improving access to department of licensing issued documents by clarifying the application requirements for a minor, modifying the requirements for at-cost identicards, and studying the feasibility of reduced-fee identicards. 👍2  
 
 ## [SB 5850](/bill/2023-24/sb/5850/) - Chronically absent students 👍2  
 
-## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍2  
+## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍3  
 * 👍 Fred Kingston
 * 👍 Fred Kingston
 
@@ -116,7 +118,7 @@
 * 👎 Marshelle Jordan
 * 👎 Heidi Barden
 
-## [SB 5974](/bill/2023-24/sb/5974/) - Unenforceable LFOs 👍6  
+## [SB 5974](/bill/2023-24/sb/5974/) - Unenforceable LFOs 👍8  
 
 ## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍1  
 * 👍💵 Daniel Lugo

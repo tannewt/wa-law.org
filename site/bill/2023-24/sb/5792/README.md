@@ -11,19 +11,17 @@
 
 ## Meetings
 ### Wed 02/14 10:30 AM - Housing (HOUS): SB 5792 Multiunit res./definition
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31909&aId=159140&caId=24095&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31909&aId=159140&caId=24095&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31909&aId=159140&caId=24095&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31909&aId=159140&caId=24095&tId=4)
-
-#### 31 👍 - Pro
+#### 55 👍 - Pro
 Testifying:
 * Council President Betsy Wilkerson - [City of Spokane](/org/city_of_spokane/)
+* Pam Haley - Mayor, City of Spokane Valley
+* 💵Tricia Gullion - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Steve Horvath - HOA United
 
 ### Tue 01/23 10:30 AM - Law & Justice (LAW): SB 5792 Multiunit res./definition
 #### 69 👍 - Pro

@@ -77,6 +77,8 @@
 
 ## [HB 2376](/bill/2023-24/hb/2376/) - CCA public entity oblig.  👎1 
 
+## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases 👍1  
+
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial  👎1 
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  

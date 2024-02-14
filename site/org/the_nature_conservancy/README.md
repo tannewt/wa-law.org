@@ -83,6 +83,8 @@
 
 ## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍1  
 
+## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍1  
+
 ## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍2  
 
 ## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects 👍1  
@@ -109,6 +111,8 @@
 ## [HB 2330](/bill/2023-24/hb/2330/) - Wildfire protection 👍1  
 
 ## [HB 2333](/bill/2023-24/hb/2333/) - Carbon seq./state lands 👍1  
+
+## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases 👍1  
 
 ## [HB 2456](/bill/2023-24/hb/2456/) - Wildlife safe passages 👍1  
 
@@ -174,10 +178,13 @@
 
 ## [SB 5910](/bill/2023-24/sb/5910/) - Creating the state department of natural resources' Smokey Bear special license plates. 👍1  
 
+## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD 👍1  
+
 ## [SB 5946](/bill/2023-24/sb/5946/) - Fallen firefighter memorial 👍2  
 
-## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  
+## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍2  
 * 👍 Scott Richards
+* 👍 Skippy Shaw
 
 ## [SB 5990](/bill/2023-24/sb/5990/) - Env. justice/SEPA projects 👍1  
 
@@ -197,6 +204,6 @@
 
 ## [SB 6237](/bill/2023-24/sb/6237/) - Wildlife safe passages 👍1  
 
-## [SB 6278](/bill/2023-24/sb/6278/) - Organic agriculture 👍1  
+## [SB 6278](/bill/2023-24/sb/6278/) - Organic agriculture 👍2  
 
 ## [SB 6304](/bill/2023-24/sb/6304/) - Transp. electrification 👍1  

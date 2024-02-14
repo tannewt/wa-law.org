@@ -14,15 +14,17 @@
 
 ## Meetings
 ### Wed 02/14 08:00 AM - Labor & Workplace Standards (LAWS): SSB 5935 Noncompetition covenants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158975&caId=23970&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158975&caId=23970&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158975&caId=23970&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158975&caId=23970&tId=4)
+#### 17 👍 - Pro
+Testifying:
+* Elizabeth Sowa
+* Jesse Wing - Washington State Association for Justice (WSAJ)
+* Lawrence Cock - Washington Employment Lawyers Association (WELA)
+* Sung Shin
 
-#### 3 👍 - Pro
-
-#### 2 👎 - Con
+#### 24 👎 - Con
+Testifying:
+* Robert (Bob) Battles - Association of Washington Business (AWB)
+* Kris Tefft - WA. Liability Reform Coalition
 
 #### 0 ❓ - Other
 

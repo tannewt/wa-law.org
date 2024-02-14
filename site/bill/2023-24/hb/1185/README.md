@@ -14,19 +14,24 @@
 
 ## Meetings
 ### Wed 02/14 08:00 AM - Environment, Energy & Technology (ENET): E2SHB 1185 Lighting products
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31932&aId=159220&caId=24136&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31932&aId=159220&caId=24136&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31932&aId=159220&caId=24136&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31932&aId=159220&caId=24136&tId=4)
-
-#### 20 👍 - Pro
+#### 89 👍 - Pro
 Testifying:
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Katie Fellows - Hazardous Waste Management Program, Seattle & King County
+* Brian Fadie - Appliance Standards Awareness Project (ASAP)
+* Rick Gilbert - Kitsap County Solid Waste Division
+* Maggie Yuse - Seattle Public Utilities
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 
-#### 0 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* Charlie Brown - National Electrical Manufacturers Association
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Peter Lyon - Washington State Department of Ecology
 
 ### Thu 01/18 08:00 AM - Environment & Energy (ENVI): SHB 1185 Lighting products
 #### 288 👍 - Pro

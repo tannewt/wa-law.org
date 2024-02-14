@@ -9,17 +9,15 @@
 
 ## Meetings
 ### Wed 02/14 08:00 AM - Labor & Workplace Standards (LAWS): SSB 5808 Safety telecom/interest arb.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158873&caId=23969&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158873&caId=23969&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158873&caId=23969&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158873&caId=23969&tId=4)
+#### 19 👍 - Pro
+Testifying:
+* Kristin Woodrow - Teamsters 117
 
-#### 3 👍 - Pro
+#### 1 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 ### Tue 01/09 10:30 AM - Labor & Commerce (LC): SB 5808 Safety telecom/interest arb.
 #### 120 👍 - Pro

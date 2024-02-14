@@ -14,6 +14,8 @@
 
 ## [HB 1113](/bill/2023-24/hb/1113/) - Prof. educator reprimands 👍1  
 
+## [HB 1146](/bill/2023-24/hb/1146/) - Dual credit program notice 👍1  
+
 ## [HB 1156](/bill/2023-24/hb/1156/) - College grant eligibility 👍1  
 
 ## [HB 1207](/bill/2023-24/hb/1207/) - Harassment/schools 👍2  
@@ -28,7 +30,7 @@
 
 ## [HB 1273](/bill/2023-24/hb/1273/) - High school and beyond plans   ❓1
 
-## [HB 1277](/bill/2023-24/hb/1277/) - Paraeducator course of study 👍2  
+## [HB 1277](/bill/2023-24/hb/1277/) - Paraeducator course of study 👍3  
 
 ## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options 👍2  
 * 👍💵 Roz Thompson
@@ -59,18 +61,24 @@
 * 👍💵 Roz Thompson
 * 👍💵 Roz Thompson
 
+## [HB 1608](/bill/2023-24/hb/1608/) - Anaphylaxis meds./schools 👍1  
+
 ## [HB 1622](/bill/2023-24/hb/1622/) - Students/homelessness 👍1  
 
 ## [HB 1658](/bill/2023-24/hb/1658/) - Work experience/H.S. credit 👍1  
 
+## [HB 1692](/bill/2023-24/hb/1692/) - Student advisory groups 👍1  
+
+## [HB 1714](/bill/2023-24/hb/1714/) - Financial literacy grants 👍1  
+
 ## [HB 1732](/bill/2023-24/hb/1732/) - K-12 inflation adjustments 👍1  
 
-## [HB 1879](/bill/2023-24/hb/1879/) - Naming the curriculum used to inform students about tribal history, culture, and government after John McCoy (lulilaš). 👍1  
+## [HB 1879](/bill/2023-24/hb/1879/) - Naming the curriculum used to inform students about tribal history, culture, and government after John McCoy (lulilaš). 👍2  
 
 ## [HB 1922](/bill/2023-24/hb/1922/) - Vape detectors/schools   ❓1
 * ❓💵 Roz Thompson
 
-## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
+## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍2  
 * 👍💵 Casey Brown
 
 ## [HB 1960](/bill/2023-24/hb/1960/) - Prototypical school staffing 👍1  
@@ -84,6 +92,8 @@
 ## [HB 2079](/bill/2023-24/hb/2079/) - Schools/threats 👍1  
 
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  
+
+## [HB 2110](/bill/2023-24/hb/2110/) - High school graduation 👍1  
 
 ## [HB 2133](/bill/2023-24/hb/2133/) - Public school bus trespass 👍1  
 
@@ -127,6 +137,8 @@
 * 👍 Dr. Scott Seaman
 * 👍💵 Roz Thompson
 
+## [SB 5180](/bill/2023-24/sb/5180/) - Teacher mobility compact 👍1  
+
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
 * ❓💵 Roz Thompson
 
@@ -154,9 +166,11 @@
 
 ## [SB 5617](/bill/2023-24/sb/5617/) - Career & tech. ed. courses 👍1  
 
+## [SB 5647](/bill/2023-24/sb/5647/) - School safety/temp employees 👍1  
+
 ## [SB 5650](/bill/2023-24/sb/5650/) - K-12 inflationary increases 👍1  
 
-## [SB 5670](/bill/2023-24/sb/5670/) - Running start/10th grade  👎2 
+## [SB 5670](/bill/2023-24/sb/5670/) - Running start/10th grade 👍1 👎2 
 * 👎💵 Roz Thompson
 
 ## [SB 5671](/bill/2023-24/sb/5671/) - K-12 experience factors 👍1  
@@ -169,9 +183,9 @@
 
 ## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍2  
 
-## [SB 5790](/bill/2023-24/sb/5790/) - Bleeding control/schools 👍1  
+## [SB 5790](/bill/2023-24/sb/5790/) - Bleeding control/schools 👍2  
 
-## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose/high schools 👍1  
+## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose/high schools 👍2  
 
 ## [SB 5813](/bill/2023-24/sb/5813/) - Mandating instruction on agricultural literacy for students in grades seven through 12.   ❓1
 * ❓💵 Roz Thompson
@@ -180,17 +194,17 @@
 
 ## [SB 5823](/bill/2023-24/sb/5823/) - School district elections 👍1  
 
-## [SB 5849](/bill/2023-24/sb/5849/) - Computer science/graduation   ❓1
+## [SB 5849](/bill/2023-24/sb/5849/) - Computer science/graduation   ❓2
 
 ## [SB 5850](/bill/2023-24/sb/5850/) - Chronically absent students 👍1  
 
-## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍2  
+## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍3  
 
 ## [SB 5873](/bill/2023-24/sb/5873/) - Student transportation 👍2  
 
-## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍2  
+## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍3  
 
-## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
+## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍2  
 
 ## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍1  
 * 👍💵 Roz Thompson
@@ -204,6 +218,8 @@
 ## [SB 6014](/bill/2023-24/sb/6014/) - Special education cap 👍1  
 
 ## [SB 6031](/bill/2023-24/sb/6031/) - Student transp. allocation 👍1  
+
+## [SB 6053](/bill/2023-24/sb/6053/) - Education data sharing 👍1  
 
 ## [SB 6123](/bill/2023-24/sb/6123/) - Classified school employees 👍1  
 

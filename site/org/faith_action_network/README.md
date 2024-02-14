@@ -68,9 +68,11 @@
 
 ## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍8  
 
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
+
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍7  
 
-## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍11  
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍12  
 
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍8  
 * 👍💵 Kristin Ang
@@ -91,6 +93,8 @@
 ## [HB 1902](/bill/2023-24/hb/1902/) - Firearms/purchase & transfer 👍1  
 
 ## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍1  
+
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
 
 ## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍2  
 
@@ -137,10 +141,10 @@
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍3  
 * 👍💵 Kristin Ang
 
-## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍7  
+## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍8  
 * 👍💵 Kristin Ang
 
-## [SB 5444](/bill/2023-24/sb/5444/) - Firearm sensitive places 👍3  
+## [SB 5444](/bill/2023-24/sb/5444/) - Firearm sensitive places 👍4  
 
 ## [SB 5480](/bill/2023-24/sb/5480/) - Work-limiting disability 👍3  
 

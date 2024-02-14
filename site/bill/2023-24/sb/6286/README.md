@@ -10,16 +10,14 @@
 
 ## Meetings
 ### Wed 02/14 01:30 PM - Health Care & Wellness (HCW): ESSB 6286 Nurse anesthetist workforce
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159053&caId=24072&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159053&caId=24072&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159053&caId=24072&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159053&caId=24072&tId=4)
-
-#### 9 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * 💵Carolyn Logue - WA Academy of Anesthesiologist Assistants
 * Sarah Brown - Certified Anesthesiologist Assistant
+* Dee Bender - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
+* John Wiesbrod - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
+* Kelli Camp - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
+* Ashley Fedan
 
 #### 0 👎 - Con
 

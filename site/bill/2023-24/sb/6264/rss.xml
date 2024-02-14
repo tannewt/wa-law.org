@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6264/</link>
 		<description>Updates about SB 6264</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Feb 2024 12:12:21 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Feb 2024 11:32:22 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -116,7 +116,7 @@
 			<guid isPermaLink="false">2024-01-30/Referred to Ways &amp; Means.</guid>
 		</item>
 		<item>
-			<title>👎Andy Cilley - 1421 Road 77</title>
+			<title>👎Andy Cilley - Office of Superintendent of Public Instruction</title>
 			<description>Andy Cilley signed up to testify Con.</description>
 			<pubDate>Thu, 01 Feb 2024 08:15:16 GMT</pubDate>
 			<category>testifier</category>
@@ -124,7 +124,7 @@
 			<guid isPermaLink="false">testifier/Andy/Cilley/2024-02-01 08:15:16</guid>
 		</item>
 		<item>
-			<title>👎Sarah Garriott - 1421 Road 77</title>
+			<title>👎Sarah Garriott - Office of Superintendent of Public Instruction</title>
 			<description>Sarah Garriott signed up to testify Con.</description>
 			<pubDate>Fri, 02 Feb 2024 05:22:47 GMT</pubDate>
 			<category>testifier</category>
@@ -148,7 +148,7 @@
 			<guid isPermaLink="false">testifier/Jennifer/Heine-Withee/2024-02-02 09:51:56</guid>
 		</item>
 		<item>
-			<title>👍Michelle Whitehead - 1421 Road 77</title>
+			<title>👍Michelle Whitehead - Office of Superintendent of Public Instruction</title>
 			<description>Michelle Whitehead signed up to testify Pro.</description>
 			<pubDate>Fri, 02 Feb 2024 10:31:44 GMT</pubDate>
 			<category>testifier</category>
@@ -259,6 +259,70 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Alissa/Muller/2024-02-12 12:12:21</guid>
+		</item>
+		<item>
+			<title>👍Melissa Spiker - Washington State Board of Education</title>
+			<description>Melissa Spiker signed up to testify Pro.</description>
+			<pubDate>Tue, 13 Feb 2024 01:37:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Melissa/Spiker/2024-02-13 01:37:24</guid>
+		</item>
+		<item>
+			<title>👎Sarah Garriott - 1421 Road 77</title>
+			<description>Sarah Garriott signed up to testify Con.</description>
+			<pubDate>Tue, 13 Feb 2024 01:48:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sarah/Garriott/2024-02-13 01:48:09</guid>
+		</item>
+		<item>
+			<title>❓Mikhail Cherniske - Office of Superintendent of Public Instruction</title>
+			<description>Mikhail Cherniske signed up to testify Other. They are signed up to represent Office of Superintendent of Public Instruction.</description>
+			<pubDate>Tue, 13 Feb 2024 03:00:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Mikhail/Cherniske/2024-02-13 03:00:00</guid>
+		</item>
+		<item>
+			<title>👎Sharon Damoff - 1421 Road 77</title>
+			<description>Sharon Damoff signed up to testify Con.</description>
+			<pubDate>Tue, 13 Feb 2024 05:56:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sharon/Damoff/2024-02-13 05:56:34</guid>
+		</item>
+		<item>
+			<title>👎Gabriel Jacobs - 1421 Road 77</title>
+			<description>Gabriel Jacobs signed up to testify Con.</description>
+			<pubDate>Tue, 13 Feb 2024 09:59:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Gabriel/Jacobs/2024-02-13 09:59:00</guid>
+		</item>
+		<item>
+			<title>👎Mary Sphuler - 1421 Road 77</title>
+			<description>Mary Sphuler signed up to testify Con.</description>
+			<pubDate>Tue, 13 Feb 2024 10:16:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Mary/Sphuler/2024-02-13 10:16:27</guid>
+		</item>
+		<item>
+			<title>👎Mary Long - Conservative Ladies of Washington</title>
+			<description>Mary Long signed up to testify Con. They are signed up to represent Conservative Ladies of Washington.</description>
+			<pubDate>Tue, 13 Feb 2024 10:40:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Mary/Long/2024-02-13 10:40:27</guid>
+		</item>
+		<item>
+			<title>👎Andy Cilley - Conservative Ladies of Washington</title>
+			<description>Andy Cilley signed up to testify Con.</description>
+			<pubDate>Tue, 13 Feb 2024 11:32:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Andy/Cilley/2024-02-13 11:32:22</guid>
 		</item>
 	</channel>
 </rss>

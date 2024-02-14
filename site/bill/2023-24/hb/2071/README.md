@@ -8,7 +8,27 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## 📰 Articles
+* 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024/#:~:text=HB%202071)
+
 ## Meetings
+### Thu 02/15 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): 2SHB 2071 Residential housing
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159641&caId=24187&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159641&caId=24187&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159641&caId=24187&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159641&caId=24187&tId=4)
+
+#### 19 👍 - Pro
+Testifying:
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+
+#### 3 👎 - Con
+Testifying:
+* Kyle Moore - City of SeaTac, Government Relations
+
+#### 0 ❓ - Other
+
 ### Thu 02/01 10:30 AM - Appropriations (APP): SHB 2071 Residential housing
 #### 255 👍 - Pro
 Testifying:

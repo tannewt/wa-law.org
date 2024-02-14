@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1924/</link>
 		<description>Updates about HB 1924</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Feb 2024 08:27:20 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Feb 2024 08:17:22 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -164,6 +164,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Hawkins/DeFrance/2024-02-12 08:27:20</guid>
+		</item>
+		<item>
+			<title>👍Sachin Desai - Helion Energy</title>
+			<description>Sachin Desai signed up to testify Pro. They are signed up to represent Helion Energy.</description>
+			<pubDate>Tue, 13 Feb 2024 02:16:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sachin/Desai/2024-02-13 02:16:18</guid>
+		</item>
+		<item>
+			<title>👍Chris Ajemian - Kyoto Fusioneering America</title>
+			<description>Chris Ajemian signed up to testify Pro. They are signed up to represent Kyoto Fusioneering America.</description>
+			<pubDate>Tue, 13 Feb 2024 05:26:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Chris/Ajemian/2024-02-13 05:26:37</guid>
+		</item>
+		<item>
+			<title>👍Jessie Barton - Helion</title>
+			<description>Jessie Barton signed up to testify Pro. They are signed up to represent Helion.</description>
+			<pubDate>Tue, 13 Feb 2024 08:17:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jessie/Barton/2024-02-13 08:17:22</guid>
 		</item>
 	</channel>
 </rss>

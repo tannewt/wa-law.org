@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 02/12/2024 [House Democrats](/org/house_democrats/) - [Two Fey traffic safety bills advance to the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/12/two-fey-traffic-safety-bills-advance-to-the-senate/#:~:text=House%20Bill%202356)
+
 ## Meetings
 ### Thu 01/18 04:00 PM - Transportation (TR): HB 2356 Speed safety cameras
 #### 10 👍 - Pro

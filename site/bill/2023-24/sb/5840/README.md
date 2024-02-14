@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Wed 02/14 10:30 AM - Housing (HOUS): SSB 5840 Leases
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31909&aId=158948&caId=23965&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31909&aId=158948&caId=23965&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31909&aId=158948&caId=23965&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31909&aId=158948&caId=23965&tId=4)
-
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Tim Osborn - WSBA Real Property Probate & Trust Section
 * Sean Holland - [Washington Land Title Association](/org/washington_land_title_association/)

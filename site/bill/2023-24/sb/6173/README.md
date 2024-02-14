@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024/#:~:text=HB%206173)
 * 02/10/2024 [Senate Democrats](/org/senate_democrats/) - [Senate passes Nobles bill to create more affordable homeownership opportunities - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/09/senate-passes-nobles-bill-to-create-more-affordable-homeownership-opportunities/#:~:text=Senate%20Bill%206173)
 * 01/19/2024 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to create more affordable homeownership opportunities heard in committee - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/19/nobles-bill-to-create-more-affordable-homeownership-opportunities-heard-in-committee/#:~:text=Senate%20Bill%206173)
 

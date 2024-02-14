@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5943/</link>
 		<description>Updates about SB 5943</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -166,6 +166,20 @@
 			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-09/Third reading, passed; yeas, 47; nays, 2; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Bill to streamline Washington state's 211 system moving ahead in Legislature | Washington | thecentersquare.com</title>
+			<description>News article &quot;Bill to streamline Washington state's 211 system moving ahead in Legislature | Washington | thecentersquare.com&quot; from The Center Square.</description>
+			<pubDate>Mon, 12 Feb 2024 15:56:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_60f66114-c9dd-11ee-b159-776186ce8ef6.html#:~:text=Senate%20Bill%205943</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Human Services, Youth, &amp; Early Learning.</title>
+			<description>First reading, referred to Human Services, Youth, &amp; Early Learning.</description>
+			<pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-13/First reading, referred to Human Services, Youth, &amp; Early Learning.</guid>
 		</item>
 	</channel>
 </rss>

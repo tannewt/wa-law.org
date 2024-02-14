@@ -18,9 +18,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31926&aId=159318&caId=24167&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31926&aId=159318&caId=24167&tId=4)
 
-#### 1 👍 - Pro
+#### 58 👍 - Pro
 Testifying:
 * Tom McBride - WDFW
+* Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation
+* Jeff Flood - Stevens County Sheriffs Dept. - Wildlife Specialist
+* Scott Nielsen - [Cattle Producers of Washington](/org/cattle_producers_of_washington/)
+* Kent Clark - Okanogan County Cattlemen's Association
 
 #### 1 👎 - Con
 Testifying:

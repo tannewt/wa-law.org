@@ -12,22 +12,25 @@
 
 ## Meetings
 ### Wed 02/14 10:30 AM - Environment & Energy (ENVI): SSB 5931 Motorized vehicle tires/6PPD
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31939&aId=158974&caId=23955&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31939&aId=158974&caId=23955&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31939&aId=158974&caId=23955&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31939&aId=158974&caId=23955&tId=4)
-
-#### 77 👍 - Pro
+#### 211 👍 - Pro
 Testifying:
 * 💵Michael Peñuelas - Puget Soundkeeper Alliance
+* Kimberly Goetz - Department of Ecology
+* Don Gourlie - Puget Sound Partnership
+* 💵Nick Federici - Toxic Free Future
 
-#### 338 👎 - Con
+#### 519 👎 - Con
 Testifying:
 * Jeannette Mcchesney
 * Candace Moore
+* 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Brandon Houskeeper - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)
+* John Worthington
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* 💵Bill Stauffacher - United States Tire Manufacturers Association
 
 ### Tue 01/09 01:30 PM - Environment, Energy & Technology (ENET): SB 5931 Motorized vehicle tires/6PPD
 #### 177 👍 - Pro

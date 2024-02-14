@@ -17,3 +17,7 @@
 
 ## [SB 5365](/bill/2023-24/sb/5365/) - Vapor and tobacco/minors 👍1  
 * 👍 Carol Coram
+
+## [SB 5481](/bill/2023-24/sb/5481/) - Uniform telehealth act 👍1  
+
+## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍1  

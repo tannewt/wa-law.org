@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/12/2024 [FOX13](/org/fox13/) - [Senate bill asking for $770M for paraeducators, some say it's focused on the wrong thing](https://www.fox13seattle.com/news/senate-bill-asking-for-770m-for-paraeducators-some-say-its-focused-on-the-wrong-thing#:~:text=SB%205882)
 * 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=SSB%205882)
 * 01/10/2024 [The Center Square](/org/the_center_square/) - [Reykdal defends public education during annual state of K-12 address | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0bc54d8e-aff4-11ee-ad96-c3e5190b03ba.html#:~:text=Senate%20Bill%205882)
 * 01/08/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Session Preview: Legislature convenes January 8 for short session - WSPTA](https://www.wastatepta.org/2024-session-preview/#:~:text=SB%205882)
@@ -22,12 +23,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159147&caId=24106&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159147&caId=24106&tId=4)
 
-#### 48 👍 - Pro
+#### 101 👍 - Pro
 Testifying:
 * Justin McKaughan
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* Marissa Rathbone - Washington State School Directors' Association
+* Rick Chisa - Public School Employees of WA/SEIU 1948
 
-#### 0 👎 - Con
+#### 303 👎 - Con
+Testifying:
+* Liv Finne - Washington Policy Center
+* Jeannette Mcchesney
+* Richard Williams
 
 #### 0 ❓ - Other
 

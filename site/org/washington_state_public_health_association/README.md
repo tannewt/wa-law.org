@@ -118,7 +118,7 @@
 ## [SB 5367](/bill/2023-24/sb/5367/) - Products containing THC 👍2  
 * 👍 Megan Moore
 
-## [SB 5444](/bill/2023-24/sb/5444/) - Firearm sensitive places 👍2  
+## [SB 5444](/bill/2023-24/sb/5444/) - Firearm sensitive places 👍3  
 
 ## [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍1  
 
@@ -136,8 +136,10 @@
 
 ## [SB 5967](/bill/2023-24/sb/5967/) - Housing/public lands leases 👍1  
 
-## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍2  
+## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍3  
 * 👍💵 Amy Brackenbury
+
+## [SB 5985](/bill/2023-24/sb/5985/) - Firearms background checks 👍1  
 
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  
 
@@ -149,7 +151,7 @@
 
 ## [SB 6122](/bill/2023-24/sb/6122/) - Alcohol delivery  👎1 
 
-## [SB 6127](/bill/2023-24/sb/6127/) - HIV prophylaxis 👍1  
+## [SB 6127](/bill/2023-24/sb/6127/) - HIV prophylaxis 👍2  
 
 ## [SB 6201](/bill/2023-24/sb/6201/) - Alcohol sale to minors/civil 👍1  
 
@@ -157,7 +159,8 @@
 * 👍 Megan Moore
 * 👍💵 Amy Brackenbury
 
-## [SB 6271](/bill/2023-24/sb/6271/) - Cannabis excise tax/THC 👍1  
+## [SB 6271](/bill/2023-24/sb/6271/) - Cannabis excise tax/THC 👍2  
+* 👍 Megan Moore
 * 👍 Megan Moore
 
 ## [SB 6300](/bill/2023-24/sb/6300/) - College grant/public assist. 👍1  

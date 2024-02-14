@@ -4,6 +4,8 @@
 * 👎 Jay O'Neal
 * 👎 Wendy Weicker
 
+## [HB 1893](/bill/2023-24/hb/1893/) - Unemp ins/strikes & lockouts  👎1 
+
 ## [HB 1900](/bill/2023-24/hb/1900/) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system. 👍1  
 * 👍 Wendy Weiker
 

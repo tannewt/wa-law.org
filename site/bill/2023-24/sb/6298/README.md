@@ -22,7 +22,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31929&aId=159037&caId=24068&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31929&aId=159037&caId=24068&tId=4)
 
-#### 2 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Kristiana de Leon - Association of Secular Elected Officials
 
 #### 10 👎 - Con
 Testifying:
@@ -33,9 +35,10 @@ Testifying:
 * Robert Fontana - Catholic Accountability Project
 * Timothy LAW - Law & Law
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Sharon Huling - Catholic Accountability Project
+* 💵Jean Hill - Washington State Catholic Conference
 
 ### Thu 01/25 08:00 AM - Human Services (HS): SB 6298 Concerning the duty of the clergy to report child abuse or neglect. (Remote Testimony Available).
 #### 17 👍 - Pro

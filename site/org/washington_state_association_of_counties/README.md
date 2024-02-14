@@ -187,7 +187,7 @@
 
 ## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍1  
 
-## [HB 1987](/bill/2023-24/hb/1987/) - Concerning the use of moneys from the rural public facilities sales and use tax for affordable workforce housing infrastructure and facilities. 👍3  
+## [HB 1987](/bill/2023-24/hb/1987/) - Concerning the use of moneys from the rural public facilities sales and use tax for affordable workforce housing infrastructure and facilities. 👍4  
 
 ## [HB 1990](/bill/2023-24/hb/1990/) - Aerial imagery program 👍1  
 * 👍💵 Mike Hoover
@@ -215,7 +215,7 @@
 ## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects   ❓1
 * ❓💵 Paul Jewell
 
-## [HB 2071](/bill/2023-24/hb/2071/) - Residential housing   ❓1
+## [HB 2071](/bill/2023-24/hb/2071/) - Residential housing 👍1  ❓1
 * ❓💵 Paul Jewell
 
 ## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍1  
@@ -271,7 +271,7 @@
 ## [HB 2307](/bill/2023-24/hb/2307/) - Public records reviews 👍1  
 * 👍💵 Mike Hoover
 
-## [HB 2348](/bill/2023-24/hb/2348/) - County hospital funding 👍1  
+## [HB 2348](/bill/2023-24/hb/2348/) - County hospital funding 👍2  
 
 ## [HB 2353](/bill/2023-24/hb/2353/) - Residential targeted areas 👍1  
 * 👍💵 Paul Jewell
@@ -282,7 +282,7 @@
 ## [HB 2393](/bill/2023-24/hb/2393/) - Unleaded aircraft fuel/tax  👎1 
 * 👎💵 Paul Jewell
 
-## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases 👍1  
+## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases 👍2  
 * 👍💵 Travis Dutton
 
 ## [HB 2415](/bill/2023-24/hb/2415/) - Economic assistance/TANF 👍1  
@@ -371,7 +371,8 @@
 
 ## [SB 5332](/bill/2023-24/sb/5332/) - Homeless camps/schools, etc.  👎1 
 
-## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍1  
+## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍1  ❓1
+* ❓ Curtis Steinhauer
 
 ## [SB 5353](/bill/2023-24/sb/5353/) - Voluntary stewardship prog. 👍4  
 * 👍💵 Paul Jewell
@@ -455,10 +456,14 @@
 ## [SB 5780](/bill/2023-24/sb/5780/) - Public defense & prosecution 👍1  
 * 👍💵 Juliana Roe
 
-## [SB 5808](/bill/2023-24/sb/5808/) - Safety telecom/interest arb.   ❓1
+## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave   ❓1
 * ❓💵 Mike Hoover
 
-## [SB 5834](/bill/2023-24/sb/5834/) - Urban growth areas 👍1  
+## [SB 5808](/bill/2023-24/sb/5808/) - Safety telecom/interest arb.   ❓2
+* ❓💵 Mike Hoover
+
+## [SB 5834](/bill/2023-24/sb/5834/) - Urban growth areas 👍2  
+* 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 
 ## [SB 5844](/bill/2023-24/sb/5844/) - Dilapidated RV disposal   ❓1
@@ -498,13 +503,16 @@
 * 👍💵 Paul Jewell
 * 👍💵 Travis Dutton
 
-## [SB 6140](/bill/2023-24/sb/6140/) - Intensive rural development 👍1  
+## [SB 6140](/bill/2023-24/sb/6140/) - Intensive rural development 👍2  
 * 👍💵 Travis Dutton
+* 👍💵 Paul Jewell
 
 ## [SB 6143](/bill/2023-24/sb/6143/) - Salmon habitat planning  👎1 
 * 👎💵 Paul Jewell
 
 ## [SB 6150](/bill/2023-24/sb/6150/) - Comprehensive plan revisions 👍1  
+
+## [SB 6164](/bill/2023-24/sb/6164/) - County emergency management   ❓1
 
 ## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management 👍1  
 * 👍💵 Travis Dutton

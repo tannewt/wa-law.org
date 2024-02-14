@@ -2,9 +2,21 @@
 
 ## [HB 1241](/bill/2023-24/hb/1241/) - Harassment 👍1  
 
+## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections  👎1 
+
+## [HB 1962](/bill/2023-24/hb/1962/) - Improving voter registration list accuracy by improving voter address change processes for county election offices and voters. 👍1  
+
 ## [HB 2215](/bill/2023-24/hb/2215/) - Enrichment levies limit 👍1  
 
 ## [SB 5371](/bill/2023-24/sb/5371/) - Orca vessel protection 👍1  
 * 👍 Frances Robertson
 
+## [SB 5843](/bill/2023-24/sb/5843/) - Election security breaches 👍1  
+
+## [SB 5856](/bill/2023-24/sb/5856/) - Concerning voter registration challenges. 👍1  
+
+## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍1  
+
 ## [SB 5956](/bill/2023-24/sb/5956/) - Enrichment levies limit 👍1  
+
+## [SB 6269](/bill/2023-24/sb/6269/) - Alt. voter verification 👍1  

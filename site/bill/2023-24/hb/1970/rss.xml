@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1970/</link>
 		<description>Updates about HB 1970</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -85,6 +85,20 @@
 			<pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-12/Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>McClintock bill to improve Department of Children, Youth, and Families (DCYF) communications gains unanimous House approval</title>
+			<description>News article &quot;McClintock bill to improve Department of Children, Youth, and Families (DCYF) communications gains unanimous House approval&quot; from Gorge News Center.</description>
+			<pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2024/02/12/mcclintock-bill-to-improve-department-of-children-youth-and-families-dcyf-communications-gains-unanimous-house-approval/#:~:text=House%20Bill%201970</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Human Services (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Human Services (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-14/First reading, referred to Human Services (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 	</channel>
 </rss>

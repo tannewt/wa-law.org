@@ -19,9 +19,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158988&caId=23924&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158988&caId=23924&tId=4)
 
-#### 2 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* David Hayes - Washington State Narcotics Investigators Association
+* Jason Nyhus - Washington State Police Canine Association
+* 💵Anne Anderson - Washington State Narcotics Investigators Association
 
-#### 2 👎 - Con
+#### 109 👎 - Con
 
 #### 0 ❓ - Other
 

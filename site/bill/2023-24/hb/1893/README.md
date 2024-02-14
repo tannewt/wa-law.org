@@ -6,8 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/13/2024 [The Center Square](/org/the_center_square/) - [Washington House approves unemployment benefits legislation for striking workers | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_4fb92b1a-cab5-11ee-a4d5-7b7e4393ca59.html#:~:text=House%20Bill%201893)
 * 02/08/2024 [Wenatchee World](/org/wenatchee_world/) - [A WA bill would extend unemployment pay to workers on strike | Northwest | wenatcheeworld.com](https://www.wenatcheeworld.com/news/northwest/a-wa-bill-would-extend-unemployment-pay-to-workers-on-strike/article_ceebb22c-c6e1-11ee-a5b3-5f2a267f9ca7.html#:~:text=House%20Bill%201893)
 * 02/08/2024 [Crosscut](/org/crosscut/) - [A WA bill would extend unemployment pay to workers on strike | Crosscut](https://crosscut.com/investigations/2024/02/wa-bill-would-extend-unemployment-pay-workers-strike#:~:text=House%20Bill%201893)
 * 02/06/2024 [The Center Square](/org/the_center_square/) - [Unemployment benefit bill for strikers gets Washington House committee approval | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_83d3d092-c521-11ee-be73-6746c56b37e0.html#:~:text=House%20Bill%201893)
@@ -16,6 +18,31 @@
 * 01/18/2024 [The Center Square](/org/the_center_square/) - [Washington lawmakers propose unemployment benefit deemed too pricey for California | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_43c6de48-b63c-11ee-a08a-cbe86537f50d.html#:~:text=House%20Bill%201893)
 
 ## Meetings
+### Thu 02/15 08:00 AM - Labor & Commerce (LC): ESHB 1893 Unemp ins/strikes & lockouts
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31946&aId=159581&caId=24181&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31946&aId=159581&caId=24181&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31946&aId=159581&caId=24181&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31946&aId=159581&caId=24181&tId=4)
+
+#### 129 👍 - Pro
+Testifying:
+* Rachel Ybarra - Starbucks Workers United
+
+#### 53 👎 - Con
+Testifying:
+* 💵Brad Boswell - Seattle Metropolitan Chamber of Commerce
+* Robert (Bob) Battles - Association of Washington Business (AWB)
+* 💵Rashma Agarwal - EASC - Economic Alliance of Snohomish County
+* Jerry VanderWood - AGC and WA Construction Industry Council
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* 💵Bruce Beckett - Wa Retail Association
+* Max Martin - Associated Builders & Contractors
+* 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
+
+#### 1 ❓ - Other
+
 ### Tue 01/09 10:30 AM - Labor & Workplace Standards (LAWS): HB 1893 Unemp ins/strikes & lockouts
 #### 192 👍 - Pro
 Testifying:

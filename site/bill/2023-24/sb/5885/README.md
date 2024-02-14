@@ -8,13 +8,9 @@
 
 ## Meetings
 ### Wed 02/14 08:00 AM - Local Government (LG): SB 5885 Certificates of annexation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31955&aId=159117&caId=24087&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31955&aId=159117&caId=24087&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31955&aId=159117&caId=24087&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31955&aId=159117&caId=24087&tId=4)
-
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Annie Pennucci - Office of Financial Management
 
 #### 1 👎 - Con
 

@@ -14,23 +14,22 @@
 
 ## Meetings
 ### Wed 02/14 10:30 AM - Community Safety, Justice, & Reentry (CSJR): SSB 5056 Habitual property offenders
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=158844&caId=23935&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=158844&caId=23935&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=158844&caId=23935&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=158844&caId=23935&tId=4)
-
-#### 120 👍 - Pro
+#### 192 👍 - Pro
 Testifying:
 * Andrew Rolwes - Downtown Spokane Partnership
 * Chud Wendle - Hutton Settlement
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Bryn West - Cowles Real Estate
+* Jeffery Savelesky - Think Tank Escape Rooms
+* 💵Lukas Garcia - Greater Spokane Valley Chamber of Commerce
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 
-#### 5 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 * David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
+* Brian Flaherty - King County Department of Public Defense
 
 #### 0 ❓ - Other
 

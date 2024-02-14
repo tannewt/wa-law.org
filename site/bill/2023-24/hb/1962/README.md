@@ -11,6 +11,22 @@
 * [Cascadia Daily News](/org/cascadia_daily_news/) - [Fentanyl, housing, public safety top priorities for Washington Legislature](https://cascadiadaily.com/news/2024/jan/04/fentanyl-housing-public-safety-top-priorities-in-2024-legislative-session/#:~:text=House%20Bill%201962)
 
 ## Meetings
+### Thu 02/15 06:00 PM - State Government & Elections (SGE): HB 1962 Voter address changes
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31948&aId=159381&caId=24172&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31948&aId=159381&caId=24172&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31948&aId=159381&caId=24172&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31948&aId=159381&caId=24172&tId=4)
+
+#### 20 👍 - Pro
+Testifying:
+* Julie Wise - King County Director of Elections
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/09 01:30 PM - State Government & Tribal Relations (SGOV): HB 1962 Voter address changes
 #### 443 👍 - Pro
 Testifying:

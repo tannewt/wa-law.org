@@ -34,13 +34,13 @@
 
 ## [HB 1859](/bill/2023-24/hb/1859/) - Concerning the rights of residents in long-term care facilities. 👍1  
 
-## [HB 1893](/bill/2023-24/hb/1893/) - Unemp ins/strikes & lockouts 👍1  
+## [HB 1893](/bill/2023-24/hb/1893/) - Unemp ins/strikes & lockouts 👍2  
 
 ## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍1  
 
 ## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍2  
 
-## [HB 2102](/bill/2023-24/hb/2102/) - PFML benefits/health info. 👍1  
+## [HB 2102](/bill/2023-24/hb/2102/) - PFML benefits/health info. 👍2  
 
 ## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍2  
 

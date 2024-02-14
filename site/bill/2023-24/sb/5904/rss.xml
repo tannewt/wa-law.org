@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5904/</link>
 		<description>Updates about SB 5904</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Feb 2024 07:47:08 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -284,6 +284,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jacob/Vigdor/2024-02-12 07:47:08</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Postsecondary Education &amp; Workforce.</title>
+			<description>First reading, referred to Postsecondary Education &amp; Workforce.</description>
+			<pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-13/First reading, referred to Postsecondary Education &amp; Workforce.</guid>
 		</item>
 	</channel>
 </rss>

@@ -25,7 +25,7 @@
 ## [SB 5204](/bill/2023-24/sb/5204/) - Fertility services coverage 👍1  
 * 👍💵 Adam Zarrin
 
-## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
 
 ## [SB 5338](/bill/2023-24/sb/5338/) - Essential health benefits 👍2  
 
@@ -37,10 +37,10 @@
 
 ## [SB 5864](/bill/2023-24/sb/5864/) - Rare disease supports 👍2  
 
-## [SB 5936](/bill/2023-24/sb/5936/) - Palliative care work group 👍1  
+## [SB 5936](/bill/2023-24/sb/5936/) - Palliative care work group 👍2  
 
-## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍1  
+## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍2  
 
-## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍2  
+## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍3  
 
 ## [SB 6258](/bill/2023-24/sb/6258/) - Standardized health plans 👍1  

@@ -29,22 +29,34 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159099&caId=24034&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159099&caId=24034&tId=4)
 
-#### 134 👍 - Pro
+#### 234 👍 - Pro
 Testifying:
 * G. Agustin Markarian
 * 💵Shannon Grimes - [Sightline Institute](/org/sightline_institute/)
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * Lindsey Schromen-Wawrin - Port Angeles City Councilmember
 * 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
+* 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
+* 💵Madeline Bishop
+* Chris Roberts - [City of Shoreline](/org/city_of_shoreline/)
 
-#### 536 👎 - Con
+#### 776 👎 - Con
 Testifying:
 * Laurie Layne
 * Tim Eyman - Initiative Activist
 * Tim Eyman - Initiative Activist
 * 💵Conner Edwards - WA Professional Campaign Treasurer
+* Mary Hall - WSACA
+* Steve Duenkel - Mason County Auditor
+* Bryan Elliott - Kittitas County Auditor
+* Lori Larsen - Stevens County Auditor - WSACA
+* Marianne Nichols - Pend Oreille County Auditor
+* Paul Andrews - Kitsap County Auditor
+* Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Anthony Mixer - Conservative Advocate
 
 ### Tue 01/09 01:30 PM - State Government & Tribal Relations (SGOV): HB 1932 Even-numbered year elections
 #### 160 👍 - Pro

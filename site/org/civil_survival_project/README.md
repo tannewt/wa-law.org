@@ -19,7 +19,7 @@
 ## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief 👍1  
 * 👍 Teresa Groves
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍4  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍5  
 * 👍💵 Kelly Olson
 
 ## [HB 1562](/bill/2023-24/hb/1562/) - Violence  👎2 
@@ -48,6 +48,8 @@
 
 ## [HB 2251](/bill/2023-24/hb/2251/) - Unenforceable LFOs 👍1  
 
+## [HB 2287](/bill/2023-24/hb/2287/) - Corrections ombuds adv board 👍1  
+
 ## [HB 2447](/bill/2023-24/hb/2447/) - Children and families  👎1 
 
 ## [SB 5046](/bill/2023-24/sb/5046/) - Postconviction counsel 👍3  
@@ -67,11 +69,12 @@
 
 ## [SB 5912](/bill/2023-24/sb/5912/) - Reentry services & supports 👍2  
 
-## [SB 5974](/bill/2023-24/sb/5974/) - Unenforceable LFOs 👍1  
+## [SB 5974](/bill/2023-24/sb/5974/) - Unenforceable LFOs 👍2  
 
 ## [SB 5981](/bill/2023-24/sb/5981/) - Concerning the indeterminate sentence review board. 👍1  
 
-## [SB 5998](/bill/2023-24/sb/5998/) - Nonfelony convict. vacation 👍1  
+## [SB 5998](/bill/2023-24/sb/5998/) - Nonfelony convict. vacation 👍3  
+* 👍💵 Prachi Dave
 
 ## [SB 6021](/bill/2023-24/sb/6021/) - Correctional fees & expenses 👍3  
 

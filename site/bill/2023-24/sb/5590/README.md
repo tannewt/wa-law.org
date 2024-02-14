@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31898&aId=159006&caId=24000&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31898&aId=159006&caId=24000&tId=4)
 
-#### 0 👍 - Pro
+#### 55 👍 - Pro
+Testifying:
+* Alyssa Hoyt - [Mount St. Helens Institute](/org/mount_st._helens_institute/)
+* William Iyall
 
 #### 0 👎 - Con
 

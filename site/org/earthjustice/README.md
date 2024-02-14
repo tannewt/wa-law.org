@@ -6,12 +6,16 @@
 
 ## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
 
+## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍1  
+
 ## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  ❓1
 * 👍💵 Jan Hasselman
 
 ## [HB 1228](/bill/2023-24/hb/1228/) - Dual & tribal language edu. 👍2  
 
 ## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍3  
+
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍1  
 
 ## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  
 
@@ -23,11 +27,13 @@
 
 ## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍2  
 
-## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍1  
+## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍2  
 
 ## [HB 1933](/bill/2023-24/hb/1933/) - Supporting the servicing and right to repair of certain products with digital electronics in a secure and reliable manner. 👍1  
 
 ## [HB 1935](/bill/2023-24/hb/1935/) - Promoting resource conservation practices that include student education and leadership opportunities in public schools. 👍1  
+
+## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍1  
 
 ## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍1  
 
@@ -46,6 +52,8 @@
 
 ## [HB 2126](/bill/2023-24/hb/2126/) - Rural area ADUs  👎1 
 
+## [HB 2135](/bill/2023-24/hb/2135/) - Including federally recognized tribes as part of the Washington emergency management division emergency worker program. 👍1  
+
 ## [HB 2138](/bill/2023-24/hb/2138/) - Outdoor learning/state parks 👍1  
 
 ## [HB 2193](/bill/2023-24/hb/2193/) - Env. restoration accelerator  👎1 
@@ -60,6 +68,8 @@
 ## [HB 2372](/bill/2023-24/hb/2372/) - Tribes/health facilities 👍1  
 
 ## [HB 2376](/bill/2023-24/hb/2376/) - CCA public entity oblig.  👎1 
+
+## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases 👍1  
 
 ## [HB 2423](/bill/2023-24/hb/2423/) - Gray wolf management  👎1 
 
@@ -88,7 +98,11 @@
 
 ## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍1  
 
+## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave 👍1  
+
 ## [SB 5846](/bill/2023-24/sb/5846/) - Beaver ecosystem management 👍1  
+
+## [SB 5884](/bill/2023-24/sb/5884/) - Concerning court-ordered restitution in environmental criminal cases. 👍1  
 
 ## [SB 5892](/bill/2023-24/sb/5892/) - Concerning diseased elk.  👎1 
 
@@ -96,7 +110,9 @@
 
 ## [SB 5910](/bill/2023-24/sb/5910/) - Creating the state department of natural resources' Smokey Bear special license plates. 👍1  
 
-## [SB 5921](/bill/2023-24/sb/5921/) - Concerning tribal representation on the state conservation commission. 👍1  
+## [SB 5921](/bill/2023-24/sb/5921/) - Concerning tribal representation on the state conservation commission. 👍2  
+
+## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD 👍1  
 
 ## [SB 5939](/bill/2023-24/sb/5939/) - Livestock wolf predation  👎1 
 

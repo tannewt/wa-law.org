@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2320/</link>
 		<description>Updates about HB 2320</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 11 Feb 2024 12:01:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -267,6 +267,13 @@
 			<pubDate>Sun, 11 Feb 2024 12:01:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.seattletimes.com/opinion/editorials/dont-delay-legislation-on-high-potency-cannabis/#:~:text=HB%202320</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Labor &amp; Commerce.</title>
+			<description>First reading, referred to Labor &amp; Commerce.</description>
+			<pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-13/First reading, referred to Labor &amp; Commerce.</guid>
 		</item>
 	</channel>
 </rss>

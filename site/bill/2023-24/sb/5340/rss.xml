@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5340/</link>
 		<description>Updates about SB 5340</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Feb 2024 11:34:33 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -159,6 +159,14 @@
 			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-09/First reading, referred to Regulated Substances &amp; Gaming.</guid>
+		</item>
+		<item>
+			<title>👍Doug Henderson - Painted Rooster Cannabis Company</title>
+			<description>Doug Henderson signed up to testify Pro. They are signed up to represent Painted Rooster Cannabis Company.</description>
+			<pubDate>Wed, 14 Feb 2024 11:34:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Doug/Henderson/2024-02-14 11:34:33</guid>
 		</item>
 	</channel>
 </rss>

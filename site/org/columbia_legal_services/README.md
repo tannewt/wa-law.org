@@ -237,7 +237,7 @@
 ## [SB 5737](/bill/2023-24/sb/5737/) - Vehicle residences/impound   ❓1
 * ❓💵 Sarah Nagy
 
-## [SB 5778](/bill/2023-24/sb/5778/) - Employer political speech 👍1  
+## [SB 5778](/bill/2023-24/sb/5778/) - Employer political speech 👍2  
 
 ## [SB 5899](/bill/2023-24/sb/5899/) - Adding to the list of provisions prohibited from rental agreements. 👍1  
 
@@ -245,11 +245,11 @@
 
 ## [SB 5924](/bill/2023-24/sb/5924/) - Access to personnel records 👍1  
 
-## [SB 5953](/bill/2023-24/sb/5953/) - Incarcerated student grants 👍1  
+## [SB 5953](/bill/2023-24/sb/5953/) - Incarcerated student grants 👍2  
 
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍1  
 
-## [SB 5974](/bill/2023-24/sb/5974/) - Unenforceable LFOs 👍1  
+## [SB 5974](/bill/2023-24/sb/5974/) - Unenforceable LFOs 👍2  
 
 ## [SB 5981](/bill/2023-24/sb/5981/) - Concerning the indeterminate sentence review board. 👍1  
 
@@ -258,7 +258,7 @@
 
 ## [SB 6021](/bill/2023-24/sb/6021/) - Correctional fees & expenses 👍2  
 
-## [SB 6025](/bill/2023-24/sb/6025/) - Predatory loans 👍1  
+## [SB 6025](/bill/2023-24/sb/6025/) - Predatory loans 👍2  
 
 ## [SB 6063](/bill/2023-24/sb/6063/) - Persistent offenders 👍1  
 

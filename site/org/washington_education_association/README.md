@@ -89,7 +89,7 @@
 
 ## [HB 1144](/bill/2023-24/hb/1144/) - Firearms/purchase & transfer 👍1  
 
-## [HB 1146](/bill/2023-24/hb/1146/) - Dual credit program notice 👍2  
+## [HB 1146](/bill/2023-24/hb/1146/) - Dual credit program notice 👍3  
 
 ## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  ❓1
 * ❓ Jared Mason-Gere
@@ -169,7 +169,7 @@
 
 ## [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board 👍1  
 
-## [HB 1272](/bill/2023-24/hb/1272/) - Voters' pamphlets 👍1  
+## [HB 1272](/bill/2023-24/hb/1272/) - Voters' pamphlets 👍2  
 
 ## [HB 1273](/bill/2023-24/hb/1273/) - High school and beyond plans 👍1  
 
@@ -316,7 +316,7 @@
 
 ## [HB 1590](/bill/2023-24/hb/1590/) - Oversight board for DCYF 👍1  
 
-## [HB 1608](/bill/2023-24/hb/1608/) - Anaphylaxis meds./schools 👍1  
+## [HB 1608](/bill/2023-24/hb/1608/) - Anaphylaxis meds./schools 👍2  
 
 ## [HB 1609](/bill/2023-24/hb/1609/) - School library info and tech 👍1  
 
@@ -353,6 +353,8 @@
 * 👍💵 Simone Boe
 
 ## [HB 1711](/bill/2023-24/hb/1711/) - Internet projects/tribes 👍1  
+
+## [HB 1714](/bill/2023-24/hb/1714/) - Financial literacy grants 👍1  
 
 ## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce 👍1  
 
@@ -413,22 +415,26 @@
 
 ## [HB 1943](/bill/2023-24/hb/1943/) - National guard ed. grants 👍2  
 
+## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍1  
+
 ## [HB 1949](/bill/2023-24/hb/1949/) - Including in the public safety employees' retirement system specified competency restoration workers at department of social and health services institutional and residential sites that serve civilly committed residents or serve patients under not guilty by reason of insanity findings. 👍1  
 
 ## [HB 1950](/bill/2023-24/hb/1950/) - Concerning the public service loan forgiveness program. 👍2  
 * 👍💵 Simone Boe
 
-## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
+## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍2  
 * 👍💵 Simone Boe
 
 ## [HB 1960](/bill/2023-24/hb/1960/) - Prototypical school staffing 👍1  
 * 👍💵 Julie Salvi
 
+## [HB 1962](/bill/2023-24/hb/1962/) - Improving voter registration list accuracy by improving voter address change processes for county election offices and voters. 👍1  
+
 ## [HB 1969](/bill/2023-24/hb/1969/) - Individual providers/family 👍2  
 
 ## [HB 1975](/bill/2023-24/hb/1975/) - Relieving individuals from paying interest on certain unemployment insurance overpayment assessments. 👍1  
 
-## [HB 1982](/bill/2023-24/hb/1982/) - Broadband loans & grants 👍2  
+## [HB 1982](/bill/2023-24/hb/1982/) - Broadband loans & grants 👍3  
 
 ## [HB 1985](/bill/2023-24/hb/1985/) - PERS/TRS 1 benefit increase 👍1  
 * 👍 Jared Mason-Gere
@@ -525,7 +531,7 @@
 
 ## [HB 2282](/bill/2023-24/hb/2282/) - African American studies 👍1  
 
-## [HB 2283](/bill/2023-24/hb/2283/) - Shared leave/disasters 👍2  
+## [HB 2283](/bill/2023-24/hb/2283/) - Shared leave/disasters 👍3  
 
 ## [HB 2309](/bill/2023-24/hb/2309/) - Washington 13 free guarantee 👍1  
 
@@ -533,7 +539,7 @@
 
 ## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍2  
 
-## [HB 2321](/bill/2023-24/hb/2321/) - Middle housing requirements 👍1  
+## [HB 2321](/bill/2023-24/hb/2321/) - Middle housing requirements 👍2  
 
 ## [HB 2322](/bill/2023-24/hb/2322/) - Child care/tax preferences 👍1  
 
@@ -758,7 +764,7 @@
 
 ## [SB 5425](/bill/2023-24/sb/5425/) - Fire sprinkler contractors 👍1  
 
-## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍3  
+## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍4  
 
 ## [SB 5441](/bill/2023-24/sb/5441/) - School district curricula 👍1  
 
@@ -826,7 +832,7 @@
 
 ## [SB 5586](/bill/2023-24/sb/5586/) - Paid leave data 👍1  
 
-## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍2  
+## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍3  
 
 ## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍5  
 * 👍💵 Simone Boe
@@ -885,7 +891,7 @@
 
 ## [SB 5778](/bill/2023-24/sb/5778/) - Employer political speech 👍2  
 
-## [SB 5790](/bill/2023-24/sb/5790/) - Bleeding control/schools 👍1  
+## [SB 5790](/bill/2023-24/sb/5790/) - Bleeding control/schools 👍2  
 
 ## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave 👍2  
 
@@ -915,7 +921,8 @@
 
 ## [SB 5839](/bill/2023-24/sb/5839/) - Modifying the working families' tax credit by clarifying the refundable nature of the credit, the application requirements, and the eligibility verification process. 👍1  
 
-## [SB 5849](/bill/2023-24/sb/5849/) - Computer science/graduation   ❓2
+## [SB 5849](/bill/2023-24/sb/5849/) - Computer science/graduation   ❓3
+* ❓💵 Nasue Nishida
 * ❓💵 Nasue Nishida
 
 ## [SB 5850](/bill/2023-24/sb/5850/) - Chronically absent students 👍2  
@@ -936,7 +943,7 @@
 * 👍💵 Julie Salvi
 * 👍💵 Julie Salvi
 
-## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍1  
+## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍2  
 
 ## [SB 5894](/bill/2023-24/sb/5894/) - Equal pay/protected classes 👍1  
 
@@ -947,7 +954,7 @@
 ## [SB 5903](/bill/2023-24/sb/5903/) - Concerning representation in the educator preparation act. 👍1  
 * 👍💵 Simone Boe
 
-## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍2  
+## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍3  
 
 ## [SB 5906](/bill/2023-24/sb/5906/) - Implementing a statewide drug overdose prevention and education campaign. 👍1  
 
@@ -963,10 +970,13 @@
 
 ## [SB 5946](/bill/2023-24/sb/5946/) - Fallen firefighter memorial 👍1  
 
+## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  
+* 👍 Jared Mason-Gere
+
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
 * 👍💵 Larry Delaney
 
-## [SB 5953](/bill/2023-24/sb/5953/) - Incarcerated student grants 👍2  
+## [SB 5953](/bill/2023-24/sb/5953/) - Incarcerated student grants 👍3  
 
 ## [SB 5956](/bill/2023-24/sb/5956/) - Enrichment levies limit 👍3  
 * 👍💵 Julie Salvi
@@ -1041,3 +1051,5 @@
 ## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍2  
 
 ## [SB 6300](/bill/2023-24/sb/6300/) - College grant/public assist. 👍2  
+
+## [SB 6308](/bill/2023-24/sb/6308/) - 988 system timeline 👍1  

@@ -72,6 +72,8 @@
 
 ## [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information 👍1  
 
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
+
 ## [HB 1564](/bill/2023-24/hb/1564/) - OTC sexual assault kits 👍1 👎1 
 
 ## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍1  
@@ -199,7 +201,8 @@
 
 ## [SB 5883](/bill/2023-24/sb/5883/) - Concerning the burden of proof for special education due process hearings. 👍1  
 
-## [SB 5913](/bill/2023-24/sb/5913/) - Concerning communication between employees of state institutions of higher education and student athletes regarding name, image, and likeness use. 👍1  
+## [SB 5913](/bill/2023-24/sb/5913/) - Concerning communication between employees of state institutions of higher education and student athletes regarding name, image, and likeness use. 👍2  
+* 👍 Joe Dacca
 * 👍 Joe Dacca
 
 ## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  

@@ -12,7 +12,7 @@
 ## [HB 1492](/bill/2023-24/hb/1492/) - State v. Blake relief 👍2  
 * 👍💵 Corey Guilmette
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍2  
 
 ## [HB 1562](/bill/2023-24/hb/1562/) - Violence  👎3 
 * 👎 Charlie Klein
@@ -35,7 +35,7 @@
 ## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances   ❓1
 * ❓💵 Prachi Dave
 
-## [SB 5974](/bill/2023-24/sb/5974/) - Unenforceable LFOs 👍1  
+## [SB 5974](/bill/2023-24/sb/5974/) - Unenforceable LFOs 👍2  
 * 👍 Maddisson Alexander
 
 ## [SB 5998](/bill/2023-24/sb/5998/) - Nonfelony convict. vacation 👍1  

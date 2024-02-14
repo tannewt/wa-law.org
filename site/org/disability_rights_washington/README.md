@@ -60,6 +60,8 @@
 ## [HB 1926](/bill/2023-24/hb/1926/) - Supervision compliance  👎2 
 * 👎💵 Rachael Seevers
 
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
+
 ## [HB 2001](/bill/2023-24/hb/2001/) - Sentence modification 👍1  
 
 ## [HB 2027](/bill/2023-24/hb/2027/) - Concerning certification, background checks, and training requirements for sheriffs, police chiefs, marshals, reserve officers, and volunteers. 👍2  

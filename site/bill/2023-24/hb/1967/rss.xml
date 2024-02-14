@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1967/</link>
 		<description>Updates about HB 1967</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Feb 2024 04:49:39 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Feb 2024 12:39:03 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -94,6 +94,14 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Amy/Freedheim/2024-02-12 04:49:39</guid>
+		</item>
+		<item>
+			<title>👍MAGGIE O'GRADY - Department of Revenue</title>
+			<description>MAGGIE O'GRADY signed up to testify Pro.</description>
+			<pubDate>Tue, 13 Feb 2024 12:39:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/MAGGIE/O'GRADY/2024-02-13 12:39:03</guid>
 		</item>
 	</channel>
 </rss>

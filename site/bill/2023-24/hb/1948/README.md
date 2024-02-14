@@ -8,17 +8,12 @@
 
 ## Meetings
 ### Wed 02/14 08:00 AM - Environment, Energy & Technology (ENET): HB 1948 Electric load calculation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31932&aId=159031&caId=24016&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31932&aId=159031&caId=24016&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31932&aId=159031&caId=24016&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31932&aId=159031&caId=24016&tId=4)
-
-#### 4 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Oradona Landgrebe - Seattle City Light
 * 💵Charlee Thompson - NW Energy Coalition
 * Lori Moen - Seattle City Light
+* Glenn Blackmon - Department of Commerce
 
 #### 0 👎 - Con
 

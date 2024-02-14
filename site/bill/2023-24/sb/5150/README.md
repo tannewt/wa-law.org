@@ -15,18 +15,13 @@
 
 ## Meetings
 ### Wed 02/14 08:00 AM - Agriculture and Natural Resources (AGNR): 2ESSB 5150 Beef commission
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31919&aId=158855&caId=23927&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31919&aId=158855&caId=23927&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31919&aId=158855&caId=23927&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31919&aId=158855&caId=23927&tId=4)
-
-#### 49 👍 - Pro
+#### 83 👍 - Pro
 Testifying:
 * 💵Dan Wood - WA State Dairy Federation
 * 💵Mark Streuli - [Washington Cattlemen's Association](/org/washington_cattlemen's_association/)
+* 💵Jack Field - [Washington Cattle Feeders Association](/org/washington_cattle_feeders_association/)
 
-#### 9 👎 - Con
+#### 19 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

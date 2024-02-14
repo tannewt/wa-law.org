@@ -81,7 +81,8 @@
 ## [HB 1885](/bill/2023-24/hb/1885/) - Strengthening campaign finance disclosure by prohibiting campaign contributions and expenditures by foreign-influenced corporations.  👎1 
 * 👎💵 Julia Gorton
 
-## [HB 1893](/bill/2023-24/hb/1893/) - Unemp ins/strikes & lockouts  👎1 
+## [HB 1893](/bill/2023-24/hb/1893/) - Unemp ins/strikes & lockouts  👎2 
+* 👎💵 Julia Gorton
 * 👎💵 Julia Gorton
 
 ## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍2  
@@ -244,8 +245,11 @@
 
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management  👎1 
 
-## [SB 6056](/bill/2023-24/sb/6056/) - Human trafficking/hotels   ❓1
+## [SB 6056](/bill/2023-24/sb/6056/) - Human trafficking/hotels 👍1  ❓1
 * ❓ Montana Miranda
+* 👍 Montana Miranda
+
+## [SB 6080](/bill/2023-24/sb/6080/) - Tourism marketing funding 👍1  
 
 ## [SB 6122](/bill/2023-24/sb/6122/) - Alcohol delivery 👍1  
 * 👍💵 Julia Gorton

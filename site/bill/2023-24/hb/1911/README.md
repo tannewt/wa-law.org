@@ -23,7 +23,7 @@ Testifying:
 * Larry Jefferson - Director, Washington State Office of Public Defense
 * Rachel Cortez
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5427/</link>
 		<description>Updates about SB 5427</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Feb 2024 07:37:42 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Feb 2024 07:04:54 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -542,6 +542,30 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/John/Coleman/2024-02-12 07:37:42</guid>
+		</item>
+		<item>
+			<title>👎Julie Barrett - Conservative Ladies of Washington</title>
+			<description>Julie Barrett signed up to testify Con. They are signed up to represent Conservative Ladies of Washington.</description>
+			<pubDate>Tue, 13 Feb 2024 02:22:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Julie/Barrett/2024-02-13 02:22:46</guid>
+		</item>
+		<item>
+			<title>👎Sharon Damoff - Conservative Ladies of Washington</title>
+			<description>Sharon Damoff signed up to testify Con.</description>
+			<pubDate>Tue, 13 Feb 2024 06:07:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sharon/Damoff/2024-02-13 06:07:58</guid>
+		</item>
+		<item>
+			<title>👎Julie Barrett - Conservative Ladies of Washington</title>
+			<description>Julie Barrett signed up to testify Con. They are signed up to represent Conservative Ladies of Washington.</description>
+			<pubDate>Tue, 13 Feb 2024 07:04:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Julie/Barrett/2024-02-13 07:04:54</guid>
 		</item>
 	</channel>
 </rss>

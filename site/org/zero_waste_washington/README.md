@@ -18,7 +18,8 @@
 ## [HB 1164](/bill/2023-24/hb/1164/) - Appliance management 👍1  
 * 👍💵 Heather Trim
 
-## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍2  
+## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍3  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
@@ -61,7 +62,8 @@
 ## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management 👍1  
 * 👍💵 Heather Trim
 
-## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases 👍2  
+## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases 👍3  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
@@ -98,7 +100,8 @@
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
-## [SB 5376](/bill/2023-24/sb/5376/) - Cannabis waste 👍2  
+## [SB 5376](/bill/2023-24/sb/5376/) - Cannabis waste 👍3  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
 ## [SB 5464](/bill/2023-24/sb/5464/) - Electronics repair 👍1  
@@ -117,6 +120,8 @@
 
 ## [SB 5844](/bill/2023-24/sb/5844/) - Dilapidated RV disposal   ❓1
 
+## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD 👍1  
+
 ## [SB 5965](/bill/2023-24/sb/5965/) - Fashion/environmental impact 👍1  
 
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
@@ -134,7 +139,7 @@
 ## [SB 6276](/bill/2023-24/sb/6276/) - Digital electronics/repair 👍1  
 * 👍💵 Heather Trim
 
-## [SB 6278](/bill/2023-24/sb/6278/) - Organic agriculture 👍1  
+## [SB 6278](/bill/2023-24/sb/6278/) - Organic agriculture 👍2  
 
 ## [SB 6304](/bill/2023-24/sb/6304/) - Transp. electrification 👍1  
 * 👍💵 Heather Trim

@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/13/2024 [MyNorthwest](/org/mynorthwest/) - [Rantz: 'Hamas amendment' added to Holocaust education bill - MyNorthwest.com](https://mynorthwest.com/3950429/rantz-democrats-add-hamas-amendment-to-holocaust-education-bill/#:~:text=House%20Bill%202037)
 * 02/08/2024 [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | Alaska Airlines Door Plug Was Improperly Reinstalled; Legislative Bills Would Require Genocide Education in Public Schools | South Seattle Emerald](https://southseattleemerald.com/2024/02/07/news-gleams-alaska-airlines-door-plug-was-improperly-reinstalled-legislative-bills-would-require-genocide-education-in-public-schools/#:~:text=HB%202037)
 * 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=HB%202037)
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202037)

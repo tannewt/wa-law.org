@@ -13,19 +13,20 @@
 
 ## Meetings
 ### Wed 02/14 01:30 PM - Health Care & Wellness (HCW): ESSB 6127 HIV prophylaxis
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159052&caId=24071&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159052&caId=24071&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159052&caId=24071&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159052&caId=24071&tId=4)
-
-#### 20 👍 - Pro
+#### 102 👍 - Pro
 Testifying:
 * 💵Jonathan Frochtzwajg - Cascade AIDS Project
+* Joanna Shelton - Sexual Assault Nurse Examiner
+* Erin Berry - Planned Parenthood Greater Northwest
+* 💵Gabriel Neuman - GSBA
+* Jenny Arnold - Washington State Pharmacy Association
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Katie Kolan - Washington State Hospital Association (WSHA)
+* Evan Klein - Health Care Authority (HCA) - Special Assistant, Legislative & Policy Affairs
 
 ### Thu 01/18 10:30 AM - Health & Long Term Care (HLTC): SB 6127 HIV prophylaxis
 #### 88 👍 - Pro

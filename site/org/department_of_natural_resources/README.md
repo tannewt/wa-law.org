@@ -9,6 +9,9 @@
 ## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
 * 👍 Larry Leach
 
+## [HB 1818](/bill/2023-24/hb/1818/) - Forestland/compensating tax 👍1  
+* 👍 Duane Emmons
+
 ## [HB 1863](/bill/2023-24/hb/1863/) - Concerning payment for surveys of state-owned aquatic lands by current or prospective lessees of such lands.   ❓1
 * ❓ Brian Considine
 
@@ -103,7 +106,7 @@
 * 👍 Christina Frantz
 * 👍 Duane Emmons
 
-## [SB 6100](/bill/2023-24/sb/6100/) - Budget stabilization account 👍1  
+## [SB 6100](/bill/2023-24/sb/6100/) - Budget stabilization account 👍2  
 
 ## [SB 6120](/bill/2023-24/sb/6120/) - Wildland urban interface 👍1  
 * 👍 Brian Considine

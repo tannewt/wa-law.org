@@ -7,7 +7,7 @@
 
 ## [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍1  
 
-## [HB 1332](/bill/2023-24/hb/1332/) - Tribes/K-12 instruction 👍1  
+## [HB 1332](/bill/2023-24/hb/1332/) - Tribes/K-12 instruction 👍2  
 
 ## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍1  
 
@@ -16,6 +16,8 @@
 ## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍1  
 
 ## [HB 1753](/bill/2023-24/hb/1753/) - Derelict vessel notices 👍1  
+
+## [HB 2135](/bill/2023-24/hb/2135/) - Including federally recognized tribes as part of the Washington emergency management division emergency worker program. 👍1  
 
 ## [HB 2372](/bill/2023-24/hb/2372/) - Tribes/health facilities 👍1  
 
@@ -45,5 +47,9 @@
 ## [SB 5683](/bill/2023-24/sb/5683/) - Foster care/Indian children 👍1  
 
 ## [SB 5910](/bill/2023-24/sb/5910/) - Creating the state department of natural resources' Smokey Bear special license plates. 👍1  
+
+## [SB 5921](/bill/2023-24/sb/5921/) - Concerning tribal representation on the state conservation commission. 👍1  
+
+## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD 👍1  
 
 ## [SB 6143](/bill/2023-24/sb/6143/) - Salmon habitat planning 👍1  

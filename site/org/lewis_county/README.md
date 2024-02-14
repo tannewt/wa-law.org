@@ -14,6 +14,9 @@
 
 ## [HB 2429](/bill/2023-24/hb/2429/) - Energy facility eval process 👍1  
 
+## [HB 2433](/bill/2023-24/hb/2433/) - Southwest WA fair admin. 👍1  
+* 👍 BJ Kuykendall
+
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget  👎1 
 * 👎 Sean Swope
 

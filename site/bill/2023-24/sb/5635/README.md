@@ -11,15 +11,13 @@
 
 ## Meetings
 ### Wed 02/14 10:30 AM - Community Safety, Justice, & Reentry (CSJR): E2SSB 5635 Victims' rights
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=159019&caId=24043&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=159019&caId=24043&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=159019&caId=24043&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31913&aId=159019&caId=24043&tId=4)
+#### 11 👍 - Pro
+Testifying:
+* Julie Huffman - Seattle City Attorney's Office
 
-#### 4 👍 - Pro
-
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 
 #### 0 ❓ - Other
 

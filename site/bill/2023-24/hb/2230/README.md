@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/13/2024 [House Democrats](/org/house_democrats/) - [House passes Peterson bills to help families with low incomes  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/13/house-passes-peterson-bills-to-help-families-with-low-incomes/#:~:text=2230)
+
 ## Meetings
 ### Sat 02/03 09:00 AM - Appropriations (APP): SHB 2230 Economic security grants
 #### 40 👍 - Pro

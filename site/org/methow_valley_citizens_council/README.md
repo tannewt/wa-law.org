@@ -52,6 +52,8 @@
 
 ## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation  👎3 
 
+## [SB 5834](/bill/2023-24/sb/5834/) - Urban growth areas  👎1 
+
 ## [SB 5990](/bill/2023-24/sb/5990/) - Env. justice/SEPA projects 👍1  
 
 ## [SB 6113](/bill/2023-24/sb/6113/) - Community solar 👍1  

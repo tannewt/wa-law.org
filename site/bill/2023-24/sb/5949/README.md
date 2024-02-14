@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158970&caId=23919&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158970&caId=23919&tId=4)
 
-#### 6 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Tsega Desta - Ethiopian Community in Seattle
 * Sherry Williams - HealthPoint
@@ -26,6 +26,11 @@ Testifying:
 * Robert Stephens Jr - On behalf Garfield Super Block
 * Kathryn Gardow - Chair, Public Works Board
 * 💵Kenny Pittman - Communities of Concern Commission
+* Ali Lee
+* Ione Jones - Giving Voice
+* 💵John Seng - [Spark Northwest](/org/spark_northwest/)
+* Sherry Williams - HealthPoint CHC
+* Seth Muir - Sail Sand Point
 
 #### 3 👎 - Con
 Testifying:
@@ -55,10 +60,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158968&caId=23917&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158968&caId=23917&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Michone Preston - Habitat for Humanity of Washington State
 * Gina James - Tribal Council, Quinault Indian Nation
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* Gloria Rodriguez - [Yakima Neighborhood Health Services](/org/yakima_neighborhood_health_services/)
 
 #### 0 👎 - Con
 
@@ -74,13 +81,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158966&caId=23915&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158966&caId=23915&tId=4)
 
-#### 7 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Jim Kowalkowski - Rural Education Center
 * 💵Mike Hoover - Washington State School Directors’ Association (WSSDA)
 * 💵Mitch Denning - Alliance of Educational Associations
 * Brent Freeman - Wahkiakum School District
+* Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 
 #### 0 👎 - Con
 
@@ -93,9 +101,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158969&caId=23918&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158969&caId=23918&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Ryan Hendricks - Tribal Council, Quinault Indian Nation
+* Skippy Shaw - [The Nature Conservancy](/org/the_nature_conservancy/)
 
 #### 0 👎 - Con
 

@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024/#:~:text=SB%206291)
+
 ## Meetings
 ### Fri 02/16 10:30 AM - Local Government (LG): ESSB 6291 State building code council
 Sign up to testify:
@@ -16,7 +19,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31956&aId=159082&caId=24056&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31956&aId=159082&caId=24056&tId=4)
 
-#### 28 👍 - Pro
+#### 53 👍 - Pro
+Testifying:
+* 💵Carolyn Logue - WA Air Conditioning Contractors Assoc & NW Hearth, Patio & Barbecue Assn
+* 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
 #### 0 👎 - Con
 

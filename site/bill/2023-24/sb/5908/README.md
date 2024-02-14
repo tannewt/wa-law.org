@@ -17,11 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31929&aId=159035&caId=24066&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31929&aId=159035&caId=24066&tId=4)
 
-#### 9 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * 💵Michael Moran - Self
+* Tara Urs - King County Dept. of Public Defense
+* Deonate Cruz - A Way Home Washington
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

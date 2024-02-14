@@ -14,19 +14,15 @@
 
 ## Meetings
 ### Wed 02/14 01:30 PM - State Government & Tribal Relations (SGOV): ESSB 5890 Ballot rejection
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31911&aId=158842&caId=23981&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31911&aId=158842&caId=23981&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31911&aId=158842&caId=23981&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31911&aId=158842&caId=23981&tId=4)
-
-#### 317 👍 - Pro
+#### 391 👍 - Pro
 Testifying:
 * Cindy Madigan - [League of Women Voters Washington](/org/league_of_women_voters_washington/)
 * 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
 * Barbara Baumgarten
+* Beatrice Crane
+* Julie Wise - King County Director of Elections
 
-#### 0 👎 - Con
+#### 53 👎 - Con
 
 #### 0 ❓ - Other
 

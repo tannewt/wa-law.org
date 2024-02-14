@@ -6,5 +6,6 @@
 ## [SB 5614](/bill/2023-24/sb/5614/) - Adult entertainment 👍1  
 * 👍 Shira Cole
 
-## [SB 6105](/bill/2023-24/sb/6105/) - Adult entertainment workers   ❓1
+## [SB 6105](/bill/2023-24/sb/6105/) - Adult entertainment workers   ❓2
+* ❓💵 Isaac Kastama
 * ❓💵 Isaac Kastama

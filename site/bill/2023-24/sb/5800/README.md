@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31898&aId=158884&caId=23983&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31898&aId=158884&caId=23983&tId=4)
 
-#### 10 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Beau Perschbacher - WA Dept. of Licensing
+* Jarel Sanders - Department of Children, Youth, & Families
 
-#### 4 👎 - Con
+#### 54 👎 - Con
 
 #### 0 ❓ - Other
 

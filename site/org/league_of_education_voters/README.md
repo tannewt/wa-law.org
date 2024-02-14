@@ -26,7 +26,7 @@
 
 ## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍4  
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍7  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍8  
 * 👍💵 Terique Scott
 * 👍💵 Terique Scott
 
@@ -76,6 +76,8 @@
 ## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍1  
 
 ## [SB 5442](/bill/2023-24/sb/5442/) - Charter schools/enrichment 👍1  
+
+## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍1  
 
 ## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍1  
 

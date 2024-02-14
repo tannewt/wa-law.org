@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/12/2024 [House Democrats](/org/house_democrats/) - [HB 2025 passes House. – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/12/hb-2025-passes-house/#:~:text=HB%202025)
+
 ## Meetings
 ### Fri 02/16 10:30 AM - Higher Education & Workforce Development (HEWD): SHB 2025 State work-study program
 Sign up to testify:
@@ -15,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31937&aId=159192&caId=24134&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31937&aId=159192&caId=24134&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 
 #### 0 👎 - Con
 

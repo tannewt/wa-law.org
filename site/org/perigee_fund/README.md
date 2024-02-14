@@ -4,7 +4,7 @@
 
 ## [HB 1916](/bill/2023-24/hb/1916/) - Infants and toddlers program 👍1  
 
-## [HB 2102](/bill/2023-24/hb/2102/) - PFML benefits/health info. 👍1  
+## [HB 2102](/bill/2023-24/hb/2102/) - PFML benefits/health info. 👍2  
 
 ## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍1  
 

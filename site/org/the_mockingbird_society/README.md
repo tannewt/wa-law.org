@@ -34,7 +34,7 @@
 
 ## [HB 1873](/bill/2023-24/hb/1873/) - Concerning office of public defense social service workers for parents in child welfare cases. 👍1  
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍8  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍10  
 
 ## [HB 2016](/bill/2023-24/hb/2016/) - Allowing certain minors to contract for housing and utilities.   ❓1
 * ❓💵 Charles Smith
@@ -46,7 +46,7 @@
 
 ## [HB 2186](/bill/2023-24/hb/2186/) - Juv. deferred adjudications 👍1  
 
-## [HB 2217](/bill/2023-24/hb/2217/) - Juvenile criminal offenses 👍1  
+## [HB 2217](/bill/2023-24/hb/2217/) - Juvenile criminal offenses 👍2  
 
 ## [HB 2218](/bill/2023-24/hb/2218/) - Extended foster care 👍2  
 * 👍💵 Charles Smith
@@ -98,7 +98,7 @@
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
 * ❓💵 Charles Smith
 
-## [SB 5974](/bill/2023-24/sb/5974/) - Unenforceable LFOs 👍2  
+## [SB 5974](/bill/2023-24/sb/5974/) - Unenforceable LFOs 👍3  
 
 ## [SB 6063](/bill/2023-24/sb/6063/) - Persistent offenders 👍1  
 

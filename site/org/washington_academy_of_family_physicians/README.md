@@ -41,3 +41,5 @@
 ## [SB 5960](/bill/2023-24/sb/5960/) - Prescription labels/abortion 👍1  
 
 ## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  
+
+## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍1  

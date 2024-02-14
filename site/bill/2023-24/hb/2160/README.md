@@ -7,13 +7,33 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024/#:~:text=HB%202160)
 * 01/17/2024 [PubliCola](/org/publicola/) - [State Rep Says Inclusionary Zoning Near Transit Will Prevent Displacement, SPD General Counsel Filed Initial Complaint Against Laughing Cop - PubliCola](https://publicola.com/2024/01/17/spd-general-counsel-filed-initial-complaint-against-laughing-cop-rep-reed-says-inclusionary-zoning-near-transit-will-prevent-displacement/#:~:text=(HB%202160)
 * 01/15/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/15/the-house-hot-sheet-for-week-2-of-the-2024-legislative-session/#:~:text=HB%202160)
 * 01/08/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/08/the-house-hot-sheet-for-week-1-of-the-2024-legislative-session/#:~:text=HB%202160)
 
 ## Meetings
+### Thu 02/15 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): E2SHB 2160 Housing development
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159642&caId=24188&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159642&caId=24188&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159642&caId=24188&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159642&caId=24188&tId=4)
+
+#### 85 👍 - Pro
+Testifying:
+* Joe Kunzler - TOD Fan Club
+* Noha Mahgoub - Governor's Office
+
+#### 4 👎 - Con
+Testifying:
+* Salim Nice - Mayor, City Mercer Island
+
+#### 2 ❓ - Other
+
 ### Thu 01/25 01:30 PM - Capital Budget (CB): SHB 2160 Housing development
 #### 688 👍 - Pro
 Testifying:

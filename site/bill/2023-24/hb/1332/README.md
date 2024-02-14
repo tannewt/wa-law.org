@@ -21,23 +21,21 @@
 
 ## Meetings
 ### Wed 02/14 10:30 AM - Early Learning & K-12 Education (EDU): E2SHB 1332 Tribes/K-12 instruction
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31906&aId=158993&caId=23989&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31906&aId=158993&caId=23989&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31906&aId=158993&caId=23989&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31906&aId=158993&caId=23989&tId=4)
-
-#### 95 👍 - Pro
+#### 119 👍 - Pro
 Testifying:
 * Bill Kallappa - [Washington State Board of Education](/org/washington_state_board_of_education/)
 * Image Morris-Enick - Student and tribal member
 * Willard Bill Jr. - Office of Superintendent of Public Instruction
+* Lisa Ganuelas - Tribal Council, Confederated Tribes of the Umatilla Indian Reservation
 
-#### 138 👎 - Con
+#### 368 👎 - Con
 Testifying:
 * Jeannette Mcchesney
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Karen Condon - Confederated Tribes of the Colville Reservation
+* 💵Michael Moran - Colville Tribes
 
 ### Fri 03/31 12:30 PM - Ways & Means (WM): 2SHB 1332 Tribes/K-12 instruction
 #### 19 👍 - Pro

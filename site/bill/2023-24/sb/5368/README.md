@@ -10,26 +10,24 @@
 
 ## Meetings
 ### Wed 02/14 08:00 AM - Labor & Workplace Standards (LAWS): ESSB 5368 Stay-at-work program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158872&caId=23968&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158872&caId=23968&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158872&caId=23968&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31923&aId=158872&caId=23968&tId=4)
-
-#### 8 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Blake Garfield - Bedrooms and More
 * 💵Kevin Schilling - Washington State Dental Association
 * 💵Sheri Call - Washington Trucking Associations
 * Rose GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)
+* Robert (Bob) Battles - Association of Washington Business (AWB)
+* Lauren Gubbe - Associated General Contractors
 
-#### 108 👎 - Con
+#### 136 👎 - Con
 Testifying:
 * Albert Helm
 * Dustin Dailey - Putnam & Lieb
 * Scott Allen
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* Joe Kendo - Washington State Labor Council, AFL-CIO
 
 ### Thu 02/02 08:00 AM - Labor & Commerce (LC): SB 5368 Stay-at-work program
 #### 11 👍 - Pro

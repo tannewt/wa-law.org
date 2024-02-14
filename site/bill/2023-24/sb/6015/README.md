@@ -7,21 +7,26 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024/#:~:text=SB%206015)
+
 ## Meetings
 ### Wed 02/14 08:00 AM - Local Government (LG): SSB 6015 Residential parking
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31955&aId=159014&caId=24054&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31955&aId=159014&caId=24054&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31955&aId=159014&caId=24054&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31955&aId=159014&caId=24054&tId=4)
-
-#### 105 👍 - Pro
+#### 146 👍 - Pro
 Testifying:
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* Scott Bonjukian
+* Kevin Maas
+* Catie Gould - [Sightline Institute](/org/sightline_institute/)
+* Ty Stober - [City of Vancouver](/org/city_of_vancouver/)
+* 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Angela Rozmyn - Natural and Built Environments
 
-#### 5 👎 - Con
+#### 23 👎 - Con
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* 💵Shelly Helder - [City of Issaquah](/org/city_of_issaquah/)
 
 ### Thu 01/11 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6015 Residential parking
 #### 91 👍 - Pro

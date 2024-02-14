@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5982/</link>
 		<description>Updates about SB 5982</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Feb 2024 06:47:43 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Feb 2024 11:33:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -70,7 +70,7 @@
 			<guid isPermaLink="false">testifier/Virginia/Griffiths/2024-01-10 07:08:06</guid>
 		</item>
 		<item>
-			<title>👍Janna Bardi - Conservative Ladies of Washington</title>
+			<title>👍Janna Bardi - Informed Choice Washington</title>
 			<description>Janna Bardi signed up to testify Pro.</description>
 			<pubDate>Wed, 10 Jan 2024 08:16:50 GMT</pubDate>
 			<category>testifier</category>
@@ -217,6 +217,22 @@
 			<guid isPermaLink="false">testifier/Laurie/Layne/2024-02-07 07:33:33</guid>
 		</item>
 		<item>
+			<title>👎Laurie Layne - Washington State Department of Health</title>
+			<description>Laurie Layne signed up to testify Con.</description>
+			<pubDate>Wed, 07 Feb 2024 07:33:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Laurie/Layne/2024-02-07 07:33:33</guid>
+		</item>
+		<item>
+			<title>👎Mary Long - Conservative Ladies of Washington</title>
+			<description>Mary Long signed up to testify Con. They are signed up to represent Conservative Ladies of Washington.</description>
+			<pubDate>Thu, 08 Feb 2024 01:38:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Mary/Long/2024-02-08 01:38:05</guid>
+		</item>
+		<item>
 			<title>👎Mary Long - Conservative Ladies of Washington</title>
 			<description>Mary Long signed up to testify Con. They are signed up to represent Conservative Ladies of Washington.</description>
 			<pubDate>Thu, 08 Feb 2024 01:38:05 GMT</pubDate>
@@ -263,6 +279,46 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Candace/Moore/2024-02-12 06:47:43</guid>
+		</item>
+		<item>
+			<title>👎Sharon Damoff - Conservative Ladies of Washington</title>
+			<description>Sharon Damoff signed up to testify Con.</description>
+			<pubDate>Tue, 13 Feb 2024 06:15:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sharon/Damoff/2024-02-13 06:15:38</guid>
+		</item>
+		<item>
+			<title>👎Bob Runnells - Informed Choice Washington</title>
+			<description>Bob Runnells signed up to testify Con. They are signed up to represent Informed Choice Washington.</description>
+			<pubDate>Tue, 13 Feb 2024 08:15:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Bob/Runnells/2024-02-13 08:15:17</guid>
+		</item>
+		<item>
+			<title>👎Natalie Chavez - Informed Choice Washington</title>
+			<description>Natalie Chavez signed up to testify Con.</description>
+			<pubDate>Tue, 13 Feb 2024 10:17:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Natalie/Chavez/2024-02-13 10:17:20</guid>
+		</item>
+		<item>
+			<title>👍Dr. Beth Harvey - Washington Vaccine Association &amp; Washington Chapter of the American Academy of Pediatrics</title>
+			<description>Dr. Beth Harvey signed up to testify Pro. They are signed up to represent Washington Vaccine Association &amp; Washington Chapter of the American Academy of Pediatrics.</description>
+			<pubDate>Tue, 13 Feb 2024 11:33:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dr. Beth/Harvey/2024-02-13 11:33:09</guid>
+		</item>
+		<item>
+			<title>👍Lacy Fehrenbach - Washington State Department of Health</title>
+			<description>Lacy Fehrenbach signed up to testify Pro. They are signed up to represent Washington State Department of Health.</description>
+			<pubDate>Tue, 13 Feb 2024 11:33:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lacy/Fehrenbach/2024-02-13 11:33:09</guid>
 		</item>
 	</channel>
 </rss>

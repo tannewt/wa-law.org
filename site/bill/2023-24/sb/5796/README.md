@@ -13,21 +13,18 @@
 
 ## Meetings
 ### Wed 02/14 10:30 AM - Housing (HOUS): ESSB 5796 Common interest communities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31909&aId=158947&caId=23964&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31909&aId=158947&caId=23964&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31909&aId=158947&caId=23964&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31909&aId=158947&caId=23964&tId=4)
-
-#### 2 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Steve Horvath - HOA United
 * Hugh Lewis - Washington State Chapter of Community Association Institute
 
-#### 2 👎 - Con
+#### 24 👎 - Con
 Testifying:
 * Janet Landesberg
 * Phil Landesberg
+* Annie Fitzsimmons - Washington REALTORS
+* 💵Bill Clarke - WA REALTORS
+* Natalie Whitcomb
 
 #### 0 ❓ - Other
 

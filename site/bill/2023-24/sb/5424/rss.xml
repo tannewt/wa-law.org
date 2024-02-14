@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5424/</link>
 		<description>Updates about SB 5424</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Feb 2024 05:50:46 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Feb 2024 08:34:28 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -136,7 +136,7 @@
 			<guid isPermaLink="false">testifier/James/Peterson/2023-03-09 09:53:19</guid>
 		</item>
 		<item>
-			<title>👍Sue Rahr - Bainbridge Island Police Chief</title>
+			<title>👍Sue Rahr - Lynnwood Police Department</title>
 			<description>Sue Rahr signed up to testify Pro.</description>
 			<pubDate>Fri, 10 Mar 2023 04:49:11 GMT</pubDate>
 			<category>testifier</category>
@@ -261,6 +261,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Joe/Clark/2024-02-12 05:50:46</guid>
+		</item>
+		<item>
+			<title>👍James McMahan - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>James McMahan signed up to testify Pro. They are signed up to represent WA Assoc Sheriffs &amp; Police Chiefs.</description>
+			<pubDate>Tue, 13 Feb 2024 07:48:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/James/McMahan/2024-02-13 07:48:34</guid>
+		</item>
+		<item>
+			<title>👍Coleman Langdon - Lynnwood Police Department</title>
+			<description>Coleman Langdon signed up to testify Pro. They are signed up to represent Lynnwood Police Department.</description>
+			<pubDate>Tue, 13 Feb 2024 08:34:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Coleman/Langdon/2024-02-13 08:34:28</guid>
 		</item>
 	</channel>
 </rss>

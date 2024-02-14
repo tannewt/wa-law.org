@@ -9,20 +9,16 @@
 
 ## Meetings
 ### Wed 02/14 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): SSB 6164 County emergency management
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31915&aId=158991&caId=23999&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31915&aId=158991&caId=23999&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31915&aId=158991&caId=23999&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31915&aId=158991&caId=23999&tId=4)
-
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 1 👎 - Con
 
-#### 2 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Robert Ezelle - Washington Military Department, Emergency Management Division
+* Leonard Johnson - Washington Fire Chiefs Association
+* Julie de Losada - Washington State Emergency Management Association
 
 ### Thu 01/18 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SB 6164 County emergency management
 #### 1 👍 - Pro

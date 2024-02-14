@@ -20,10 +20,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31938&aId=159207&caId=24129&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31938&aId=159207&caId=24129&tId=4)
 
-#### 22 👍 - Pro
+#### 82 👍 - Pro
 Testifying:
 * Jason McGill - Northwest Youth Services
 * Jim Theofelis - NorthStar Advocates
+* Vy Vu - NorthStar Advocates & The Mockingbird Society
+* 💵Anna Nepomuceno - NAMI Washington
 
 #### 0 👎 - Con
 

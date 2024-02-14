@@ -44,6 +44,8 @@
 
 ## [HB 1564](/bill/2023-24/hb/1564/) - OTC sexual assault kits 👍2  
 
+## [HB 1608](/bill/2023-24/hb/1608/) - Anaphylaxis meds./schools 👍1  
+
 ## [HB 1618](/bill/2023-24/hb/1618/) - Childhood sexual abuse/SOL 👍1  
 
 ## [HB 1626](/bill/2023-24/hb/1626/) - Colorectal screening tests 👍1  
@@ -64,15 +66,19 @@
 
 ## [HB 1916](/bill/2023-24/hb/1916/) - Infants and toddlers program 👍2  
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍2  
 
 ## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍1  
+
+## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍1  
 
 ## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍2  
 
 ## [HB 1957](/bill/2023-24/hb/1957/) - Preventive service coverage 👍2  
 
 ## [HB 1958](/bill/2023-24/hb/1958/) - Concerning nonconsensual removal of or tampering with a sexually protective device. 👍1  
+
+## [HB 1979](/bill/2023-24/hb/1979/) - Inhalers & epinephrine cost 👍1  
 
 ## [HB 1999](/bill/2023-24/hb/1999/) - Fabricated intimate images 👍1  
 
@@ -94,7 +100,8 @@
 
 ## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍2  
 
-## [HB 2115](/bill/2023-24/hb/2115/) - Prescription labels/abortion 👍1  
+## [HB 2115](/bill/2023-24/hb/2115/) - Prescription labels/abortion 👍2  
+* 👍💵 Nicole Kern
 
 ## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍1  
 
@@ -122,6 +129,8 @@
 
 ## [HB 2395](/bill/2023-24/hb/2395/) - Strangulation & suffocation  👎1 
 
+## [HB 2476](/bill/2023-24/hb/2476/) - Creating a covered lives assessment professional services rate account. 👍1  
+
 ## [SB 5028](/bill/2023-24/sb/5028/) - Name changes 👍1  
 
 ## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍1  
@@ -135,7 +144,8 @@
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
 * ❓💵 Courtney Normand
 
-## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍3  
+* 👍💵 Nicole Kern
 * 👍💵 Nicole Kern
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍5  
@@ -152,7 +162,7 @@
 
 ## [SB 5414](/bill/2023-24/sb/5414/) - Elections law violation info  👎1 
 
-## [SB 5444](/bill/2023-24/sb/5444/) - Firearm sensitive places 👍1  
+## [SB 5444](/bill/2023-24/sb/5444/) - Firearm sensitive places 👍2  
 
 ## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍2  
 
@@ -194,9 +204,9 @@
 
 ## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  
 
-## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍2  
+## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍3  
 
-## [SB 5985](/bill/2023-24/sb/5985/) - Firearms background checks 👍1  
+## [SB 5985](/bill/2023-24/sb/5985/) - Firearms background checks 👍2  
 
 ## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍1  
 

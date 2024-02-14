@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5857/</link>
 		<description>Updates about SB 5857</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Feb 2024 03:31:22 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Feb 2024 10:04:54 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -97,12 +97,27 @@
 			<guid isPermaLink="false">2024-02-09/Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</guid>
 		</item>
 		<item>
-			<title>❓Joe Kunzler - Washington State Association of County Auditors (WSACA)</title>
+			<title>❓Joe Kunzler - Public Disclosure Commission</title>
 			<description>Joe Kunzler signed up to testify Other.</description>
 			<pubDate>Mon, 12 Feb 2024 03:31:22 GMT</pubDate>
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Joe/Kunzler/2024-02-12 03:31:22</guid>
+		</item>
+		<item>
+			<title>First reading, referred to State Government &amp; Tribal Relations.</title>
+			<description>First reading, referred to State Government &amp; Tribal Relations.</description>
+			<pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-13/First reading, referred to State Government &amp; Tribal Relations.</guid>
+		</item>
+		<item>
+			<title>👍Sean Flynn - Public Disclosure Commission</title>
+			<description>Sean Flynn signed up to testify Pro. They are signed up to represent Public Disclosure Commission.</description>
+			<pubDate>Wed, 14 Feb 2024 10:04:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sean/Flynn/2024-02-14 10:04:54</guid>
 		</item>
 	</channel>
 </rss>

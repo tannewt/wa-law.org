@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2041/</link>
 		<description>Updates about HB 2041</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Feb 2024 12:43:07 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -135,6 +135,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Stephanie/Mason/2024-02-12 12:43:07</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Health &amp; Long Term Care.</title>
+			<description>First reading, referred to Health &amp; Long Term Care.</description>
+			<pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-13/First reading, referred to Health &amp; Long Term Care.</guid>
 		</item>
 	</channel>
 </rss>

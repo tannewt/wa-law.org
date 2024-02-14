@@ -14,21 +14,28 @@
 
 ## Meetings
 ### Wed 02/14 08:00 AM - Environment, Energy & Technology (ENET): E2SHB 2401 Refrigerant gases
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31932&aId=159221&caId=24137&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31932&aId=159221&caId=24137&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31932&aId=159221&caId=24137&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31932&aId=159221&caId=24137&tId=4)
-
-#### 23 👍 - Pro
+#### 102 👍 - Pro
 Testifying:
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Mike Wenrick - PCC Community markets
+* Richie Kaur - Natural Resources Defense Council
+* Ruth Ivory-Moore - Hudson Technologies
+* Christina Starr - Environmental Investigation Agency
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* 💵Mike Armstrong - A-Gas
+* Joel Creswell - Washington State Department of Ecology
+* Kate White - Hudson Technologies
 
-#### 1 👎 - Con
+#### 62 👎 - Con
 Testifying:
 * 💵Jacob Cassady - Association of Home Appliance Manufacturers
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Carolyn Logue - Washington Air Conditioning Contractors Association
+* Aaron Larson - Gensco, Inc.
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Mark Streuli - Washington Potato and Onion Association
 
 ### Sat 02/03 09:00 AM - Appropriations (APP): SHB 2401 Refrigerant gases
 #### 18 👍 - Pro

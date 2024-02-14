@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
+
+## 📰 Articles
+* 02/14/2024 [The Urbanist](/org/the_urbanist/) - [Redmond Swoops In To Save Kenmore’s Cancelled Low-Income Housing Project - The Urbanist](https://www.theurbanist.org/2024/02/14/redmond-swoops-in-to-save-kenmores-cancelled-low-income-housing-project/#:~:text=HB%202474)
 
 ## Meetings
 ### Sat 02/03 09:00 AM - Appropriations (APP): HB 2474 Transitional housing siting

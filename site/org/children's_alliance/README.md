@@ -66,6 +66,8 @@
 
 ## [HB 2101](/bill/2023-24/hb/2101/) - Child care licensing fees 👍1  
 
+## [HB 2102](/bill/2023-24/hb/2102/) - PFML benefits/health info. 👍1  
+
 ## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍1  
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
@@ -92,9 +94,11 @@
 
 ## [SB 5559](/bill/2023-24/sb/5559/) - Student restraint, isolation 👍1  
 
-## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍2  
+## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍3  
 
 ## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍1  
+
+## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave 👍1  
 
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
 

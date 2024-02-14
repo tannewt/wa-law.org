@@ -47,7 +47,7 @@
 
 ## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍3  
 
-## [HB 1893](/bill/2023-24/hb/1893/) - Unemp ins/strikes & lockouts 👍1  
+## [HB 1893](/bill/2023-24/hb/1893/) - Unemp ins/strikes & lockouts 👍3  
 
 ## [HB 1927](/bill/2023-24/hb/1927/) - Reducing the number of days that a worker's temporary total disability must continue to receive industrial insurance compensation for the day of an injury and the three-day period following the injury. 👍1  
 
@@ -56,7 +56,7 @@
 
 ## [HB 1970](/bill/2023-24/hb/1970/) - DCYF-caregiver communication  👎1 
 
-## [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg 👍2  
+## [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg 👍3  
 
 ## [HB 2022](/bill/2023-24/hb/2022/) - Construction crane safety 👍1  
 
@@ -147,7 +147,8 @@
 
 ## [SB 5777](/bill/2023-24/sb/5777/) - Unemp ins/strikes & lockouts 👍2  
 
-## [SB 5778](/bill/2023-24/sb/5778/) - Employer political speech 👍1  
+## [SB 5778](/bill/2023-24/sb/5778/) - Employer political speech 👍2  
+* 👍 Kati Durkin
 
 ## [SB 5808](/bill/2023-24/sb/5808/) - Safety telecom/interest arb. 👍1  
 
@@ -190,9 +191,10 @@
 
 ## [SB 6107](/bill/2023-24/sb/6107/) - Construction/sanitary cond. 👍1  
 
-## [SB 6109](/bill/2023-24/sb/6109/) - Children and families   ❓2
+## [SB 6109](/bill/2023-24/sb/6109/) - Children and families 👍1  ❓2
 * ❓ Kati Durkin
 * ❓ Chelsea Burroughs
+* 👍 Kati Durkin
 
 ## [SB 6114](/bill/2023-24/sb/6114/) - Sustainable aviation fuel 👍1  
 

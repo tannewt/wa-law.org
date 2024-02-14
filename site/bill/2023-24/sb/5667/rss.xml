@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5667/</link>
 		<description>Updates about SB 5667</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -864,6 +864,20 @@
 			<pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-12/Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Muzzall bill gives economic boost for habitat preservation</title>
+			<description>News article &quot;Muzzall bill gives economic boost for habitat preservation&quot; from Gorge News Center.</description>
+			<pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2024/02/12/muzzall-bill-gives-economic-boost-for-habitat-preservation/#:~:text=Senate%20Bill%205667</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Agriculture &amp; Natural Resources.</title>
+			<description>First reading, referred to Agriculture &amp; Natural Resources.</description>
+			<pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-14/First reading, referred to Agriculture &amp; Natural Resources.</guid>
 		</item>
 	</channel>
 </rss>

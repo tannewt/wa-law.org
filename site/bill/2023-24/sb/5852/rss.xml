@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5852/</link>
 		<description>Updates about SB 5852</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Feb 2024 09:25:45 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Feb 2024 08:33:10 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -181,6 +181,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Kelsi/Hamilton/2024-02-12 09:25:45</guid>
+		</item>
+		<item>
+			<title>👍Charlie Brown - South Sound Superintendents</title>
+			<description>Charlie Brown signed up to testify Pro. They are signed up to represent South Sound Superintendents.</description>
+			<pubDate>Tue, 13 Feb 2024 01:46:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Charlie/Brown/2024-02-13 01:46:05</guid>
+		</item>
+		<item>
+			<title>👍Katie Howell - Chehalis Schools</title>
+			<description>Katie Howell signed up to testify Pro. They are signed up to represent Chehalis Schools.</description>
+			<pubDate>Tue, 13 Feb 2024 08:33:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Katie/Howell/2024-02-13 08:33:10</guid>
 		</item>
 	</channel>
 </rss>

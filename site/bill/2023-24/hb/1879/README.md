@@ -8,17 +8,15 @@
 
 ## Meetings
 ### Wed 02/14 10:30 AM - Early Learning & K-12 Education (EDU): HB 1879 Tribal curriculum/John McCoy
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31906&aId=159160&caId=24117&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31906&aId=159160&caId=24117&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31906&aId=159160&caId=24117&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31906&aId=159160&caId=24117&tId=4)
-
-#### 9 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * Bill Kallappa - [Washington State Board of Education](/org/washington_state_board_of_education/)
 * Paul Pitre - [Washington State Board of Education](/org/washington_state_board_of_education/)
 * Willard Bill Jr. - Office of Superintendent of Public Instruction
+* William Frank III - Nisqually Tribe
+* Karen Condon - Confederated Tribes of the Colville Reservation
+* Jeannie McCoy
+* yeyisteblu, Chaynannah Squally - Nisqually
 
 #### 0 👎 - Con
 

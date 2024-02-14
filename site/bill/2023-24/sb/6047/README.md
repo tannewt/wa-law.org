@@ -9,13 +9,10 @@
 
 ## Meetings
 ### Wed 02/14 01:30 PM - State Government & Tribal Relations (SGOV): SSB 6047 OPMA executive sessions/CCA
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31911&aId=159120&caId=24090&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31911&aId=159120&caId=24090&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31911&aId=159120&caId=24090&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31911&aId=159120&caId=24090&tId=4)
-
-#### 0 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Buddy Stanavich - [City of Ellensburg](/org/city_of_ellensburg/)
+* Heidi Behrends Cerniway - [City of Ellensburg](/org/city_of_ellensburg/)
 
 #### 1 👎 - Con
 

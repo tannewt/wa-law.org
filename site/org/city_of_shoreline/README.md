@@ -18,6 +18,9 @@
 ## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍2  
 * 👍 Nathan Daum
 
+## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍1  
+* 👍 Chris Roberts
+
 ## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍2  
 * 👍 Jim Hammond
 

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Tue 01/16 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 2303 Community custody conditions

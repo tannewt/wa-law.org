@@ -23,7 +23,7 @@
 
 ## [HB 2253](/bill/2023-24/hb/2253/) - Community solar 👍1  
 
-## [HB 2293](/bill/2023-24/hb/2293/) - Avian predation/salmon   ❓1
+## [HB 2293](/bill/2023-24/hb/2293/) - Avian predation/salmon 👍1  ❓1
 * ❓ Adam Maxwell
 
 ## [HB 2336](/bill/2023-24/hb/2336/) - Suitability of lands 👍1  

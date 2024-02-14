@@ -8,17 +8,11 @@
 
 ## Meetings
 ### Wed 02/14 08:00 AM - Civil Rights & Judiciary (CRJ): SB 5805 Dependency/attorney appt.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31953&aId=158953&caId=23932&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31953&aId=158953&caId=23932&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31953&aId=158953&caId=23932&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31953&aId=158953&caId=23932&tId=4)
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Bailey Zydek - WA State Office of Civil Legal Aid
 * Gabriel Jacobs

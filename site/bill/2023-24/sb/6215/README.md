@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/13/2024 [Gorge News Center](/org/gorge_news_center/) - [Three Schoesler bills move ahead before key Senate deadline](https://gorgenewscenter.com/2024/02/13/three-schoesler-bills-move-ahead-before-key-senate-deadline/#:~:text=Senate%20Bill%206215)
+
 ## Meetings
 ### Thu 01/25 04:00 PM - Ways & Means (WM): SB 6215 Tax and revenue laws
 #### 2 👍 - Pro

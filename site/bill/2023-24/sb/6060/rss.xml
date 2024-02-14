@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6060/</link>
 		<description>Updates about SB 6060</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Feb 2024 11:37:49 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Feb 2024 10:12:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -104,6 +104,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Derya/Ruggles/2024-02-12 11:37:49</guid>
+		</item>
+		<item>
+			<title>👍Iván Cruz - UAW 4121</title>
+			<description>Iván Cruz signed up to testify Pro. They are signed up to represent UAW 4121.</description>
+			<pubDate>Tue, 13 Feb 2024 08:49:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Iván/Cruz/2024-02-13 08:49:15</guid>
+		</item>
+		<item>
+			<title>❓Mike Sellars - Public Employment Relations Commission</title>
+			<description>Mike Sellars signed up to testify Other. They are signed up to represent Public Employment Relations Commission.</description>
+			<pubDate>Tue, 13 Feb 2024 10:12:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Mike/Sellars/2024-02-13 10:12:26</guid>
 		</item>
 	</channel>
 </rss>

@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Wed 02/14 01:30 PM - Health Care & Wellness (HCW): SB 5184 Anesthesiologist assistants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159050&caId=24069&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159050&caId=24069&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159050&caId=24069&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31930&aId=159050&caId=24069&tId=4)
-
-#### 612 👍 - Pro
+#### 2379 👍 - Pro
 Testifying:
 * Tim Clement - Washington State Society of Anesthesiologists
 * 💵Amy Brackenbury - Washington State Society of Anesthesiologists
@@ -26,19 +20,39 @@ Testifying:
 * Patrick Hession - Certified Anesthesiologist Assistant
 * Sarah Brown - Certified Anesthesiologist Assistant
 * Truc-Anh Tran - CAA
+* Arafat Alim - Austin Anesthesiology Group
+* Ashley Fedan
+* Joel Nehrt
+* Joseph Navratil - CAA
 
-#### 3014 👎 - Con
+#### 4201 👎 - Con
 Testifying:
 * Colin Calico
 * Mary Harris
 * Taranjeet Rathore
 * Matt Elder
 * Chintan Patel - Johns Hopkins university
+* Dee Bender - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
+* Joe Rodriguez - Immediate Past Region 5 Director, American Association of Nurse Anesthetists
+* Shannon Allen - New Mexico Association of Nurse Anesthetists
+* Allyn Wilcox - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
+* John Weisbrod - Washington Association for Nurse Anesthetists
+* Kelli Camp - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
+* Brock Wolff
+* Ashley Fedan
+* Nina Harding
+* alissa Oblak
+* eric Oblak
+* Michelle Mccausland
+* Amy Denton
+* Justin Gill - Washington State Nurses Association
+* Brian Schwartz
 
-#### 6 ❓ - Other
+#### 18 ❓ - Other
 Testifying:
 * Alison Bradywood - Washington State Board of Nursing
 * Micah Matthews - Washington Medical Commission
+* Sherry Thomas - AVAILABLE FOR QUESTIONS: Washington State Department of Health
 
 ### Fri 01/12 08:00 AM - Health & Long Term Care (HLTC): SB 5184 Anesthesiologist assistants
 #### 2095 👍 - Pro

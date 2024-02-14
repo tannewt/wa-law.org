@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2381/</link>
 		<description>Updates about HB 2381</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Feb 2024 09:44:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -102,6 +102,14 @@
 			<pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-12/First reading, referred to Early Learning &amp; K-12 Education.</guid>
+		</item>
+		<item>
+			<title>❓Rick Chisa - Public School Employees of WA/SEIU 1948</title>
+			<description>Rick Chisa signed up to testify Other. They are signed up to represent Public School Employees of WA/SEIU 1948.</description>
+			<pubDate>Wed, 14 Feb 2024 09:44:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Rick/Chisa/2024-02-14 09:44:35</guid>
 		</item>
 	</channel>
 </rss>

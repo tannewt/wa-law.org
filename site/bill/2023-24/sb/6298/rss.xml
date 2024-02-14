@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6298/</link>
 		<description>Updates about SB 6298</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Feb 2024 11:39:57 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Feb 2024 12:04:20 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -163,7 +163,7 @@
 			<guid isPermaLink="true">https://www.nwnewsnetwork.org/2024-02-09/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%206298</guid>
 		</item>
 		<item>
-			<title>👎Theresa Schrempp - Washington Retail Association</title>
+			<title>👎Theresa Schrempp - Association of Secular Elected Officials</title>
 			<description>Theresa Schrempp signed up to testify Con.</description>
 			<pubDate>Sat, 10 Feb 2024 10:39:24 GMT</pubDate>
 			<category>testifier</category>
@@ -179,7 +179,7 @@
 			<guid isPermaLink="false">testifier/Sharon/Huling/2024-02-12 01:25:58</guid>
 		</item>
 		<item>
-			<title>👎Rebecca Anderson - Washington Retail Association</title>
+			<title>👎Rebecca Anderson - Association of Secular Elected Officials</title>
 			<description>Rebecca Anderson signed up to testify Con.</description>
 			<pubDate>Mon, 12 Feb 2024 10:13:59 GMT</pubDate>
 			<category>testifier</category>
@@ -217,6 +217,22 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Timothy/LAW/2024-02-12 11:39:57</guid>
+		</item>
+		<item>
+			<title>❓💵Jean Hill - Washington State Catholic Conference</title>
+			<description>Jean Hill signed up to testify Other. They are signed up to represent Washington State Catholic Conference. They are a registered lobbyist.</description>
+			<pubDate>Tue, 13 Feb 2024 03:24:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jean/Hill/2024-02-13 03:24:49</guid>
+		</item>
+		<item>
+			<title>👍Kristiana de Leon - Association of Secular Elected Officials</title>
+			<description>Kristiana de Leon signed up to testify Pro. They are signed up to represent Association of Secular Elected Officials.</description>
+			<pubDate>Tue, 13 Feb 2024 12:04:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kristiana/de Leon/2024-02-13 12:04:20</guid>
 		</item>
 	</channel>
 </rss>

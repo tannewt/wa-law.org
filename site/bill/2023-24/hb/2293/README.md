@@ -11,6 +11,21 @@
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202293)
 
 ## Meetings
+### Thu 02/15 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SHB 2293 Avian predation/salmon
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31927&aId=159559&caId=24179&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31927&aId=159559&caId=24179&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31927&aId=159559&caId=24179&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31927&aId=159559&caId=24179&tId=4)
+
+#### 4 👍 - Pro
+Testifying:
+* Bill Sharp - Confederated Tribes and Bands of the Yakama Nation
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/23 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2293 Avian predation/salmon
 #### 63 👍 - Pro
 Testifying:

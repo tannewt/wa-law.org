@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5925/</link>
 		<description>Updates about SB 5925</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Feb 2024 09:15:20 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2023-12-29/Prefiled for introduction.</guid>
 		</item>
 		<item>
-			<title>👍Matthew Holm - Washington State Hospital Association</title>
+			<title>👍Matthew Holm - Wa fire commissioners</title>
 			<description>Matthew Holm signed up to testify Pro.</description>
 			<pubDate>Sun, 07 Jan 2024 09:53:11 GMT</pubDate>
 			<category>testifier</category>
@@ -94,6 +94,22 @@
 			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-09/First reading, referred to Local Government.</guid>
+		</item>
+		<item>
+			<title>👍robert homan - graham fire and rescue</title>
+			<description>robert homan signed up to testify Pro. They are signed up to represent graham fire and rescue.</description>
+			<pubDate>Wed, 14 Feb 2024 09:15:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/robert/homan/2024-02-14 09:15:20</guid>
+		</item>
+		<item>
+			<title>👍ryan spiller - Wa fire commissioners</title>
+			<description>ryan spiller signed up to testify Pro. They are signed up to represent Wa fire commissioners.</description>
+			<pubDate>Wed, 14 Feb 2024 09:15:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/ryan/spiller/2024-02-14 09:15:20</guid>
 		</item>
 	</channel>
 </rss>

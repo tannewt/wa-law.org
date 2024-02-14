@@ -30,3 +30,5 @@
 ## [SB 5537](/bill/2023-24/sb/5537/) - Hospital staffing collab. 👍1  
 
 ## [SB 5764](/bill/2023-24/sb/5764/) - Hospital safety net program 👍1  
+
+## [SB 5940](/bill/2023-24/sb/5940/) - Medical assistant-EMT cert. 👍1  

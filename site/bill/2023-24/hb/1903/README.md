@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/12/2024 [KUOW](/org/kuow/) - [KUOW - Washington lawmakers aim for new open carry limitations in certain public settings](https://www.kuow.org/stories/washington-lawmakers-aim-for-new-open-carry-limitations-in-certain-public-settings#:~:text=HB1903)
 * 02/09/2024 [House Democrats](/org/house_democrats/) - [Reporting of lost or stolen firearms passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/09/reporting-of-lost-or-stolen-firearms-passes-house/#:~:text=HB%201903)
 * 01/20/2024 [KING5](/org/king5/) - [WA could expand speed camera use amid rise in deadly crashes | king5.com](https://www.king5.com/article/news/politics/in-session/session-washington-state-expand-speed-camera-rise-deadly-crashes/281-76104cf1-aee1-43e2-a0a3-cfb8b8ba0b6b#:~:text=House%20Bill%201903)
 * 01/20/2024 [NW News Network](/org/nw_news_network/) - [AI, guns, and initiatives: highlights from Week 2 of Washington's 2024 legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-19/ai-guns-and-initiatives-highlights-from-week-2-of-washingtons-2024-legislative-session#:~:text=House%20Bill%201903)

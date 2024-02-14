@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2019/</link>
 		<description>Updates about HB 2019</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Feb 2024 10:44:32 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -171,6 +171,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Mara/Machulsky/2024-02-12 10:44:32</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Higher Education &amp; Workforce Development.</title>
+			<description>First reading, referred to Higher Education &amp; Workforce Development.</description>
+			<pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-13/First reading, referred to Higher Education &amp; Workforce Development.</guid>
 		</item>
 	</channel>
 </rss>

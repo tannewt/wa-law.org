@@ -22,7 +22,7 @@
 * 👍 Brian Hatfield
 * 👍 Brian Hatfield
 
-## [HB 1272](/bill/2023-24/hb/1272/) - Voters' pamphlets 👍1  
+## [HB 1272](/bill/2023-24/hb/1272/) - Voters' pamphlets 👍2  
 
 ## [HB 1442](/bill/2023-24/hb/1442/) - Synthetic media 👍1  
 * 👍 Steve Hobbs
@@ -35,11 +35,13 @@
 
 ## [HB 1715](/bill/2023-24/hb/1715/) - Domestic violence 👍1  
 
-## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections  👎1 
+## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections  👎2 
 * 👎 Brian Hatfield
+* 👎 Steve Hobbs
 
-## [HB 1962](/bill/2023-24/hb/1962/) - Improving voter registration list accuracy by improving voter address change processes for county election offices and voters. 👍1  
+## [HB 1962](/bill/2023-24/hb/1962/) - Improving voter registration list accuracy by improving voter address change processes for county election offices and voters. 👍2  
 * 👍 Steve Hobbs
+* 👍 Brian Hatfield
 
 ## [HB 2023](/bill/2023-24/hb/2023/) - Improving meaningful access to elections by increasing language assistance. 👍2  
 * 👍 Brian Hatfield
@@ -59,6 +61,8 @@
 
 ## [HB 2206](/bill/2023-24/hb/2206/) - Voter registration database  👎1 
 * 👎 Brian Hatfield
+
+## [HB 2209](/bill/2023-24/hb/2209/) - Lunar new year 👍1  
 
 ## [HB 2250](/bill/2023-24/hb/2250/) - Local elections  👎2 
 * 👎 Steve Hobbs
@@ -120,11 +124,11 @@
 ## [SB 5824](/bill/2023-24/sb/5824/) - Dissolution of libraries 👍1  
 * 👍 Steve Hobbs
 
-## [SB 5837](/bill/2023-24/sb/5837/) - Codifying the state election database to publish, evaluate, and analyze certain election data. 👍1  
+## [SB 5837](/bill/2023-24/sb/5837/) - Codifying the state election database to publish, evaluate, and analyze certain election data. 👍2  
 
-## [SB 5856](/bill/2023-24/sb/5856/) - Concerning voter registration challenges. 👍1  
+## [SB 5856](/bill/2023-24/sb/5856/) - Concerning voter registration challenges. 👍2  
 
-## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍1  
+## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍2  
 
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
 * 👍 Steve Hobbs
@@ -137,5 +141,5 @@
 * 👍 Heather Hirotaka
 * ❓ Brian Hatfield
 
-## [SB 6269](/bill/2023-24/sb/6269/) - Alt. voter verification   ❓1
+## [SB 6269](/bill/2023-24/sb/6269/) - Alt. voter verification 👍1  ❓1
 * ❓ Brian Hatfield

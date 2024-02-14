@@ -9,6 +9,8 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/13/2024 [MyNorthwest](/org/mynorthwest/) - [Wash. Senate passes bill expanding prohibited weapon zones - MyNorthwest.com](https://mynorthwest.com/3950498/washington-senate-passes-bill-expanding-prohibited-weapon-zones/#:~:text=Senate%20Bill%205444%20(SB%205444))
+* 02/12/2024 [KUOW](/org/kuow/) - [KUOW - Washington lawmakers aim for new open carry limitations in certain public settings](https://www.kuow.org/stories/washington-lawmakers-aim-for-new-open-carry-limitations-in-certain-public-settings#:~:text=Senate%20Bill%205444)
 * 02/09/2024 [NW News Network](/org/nw_news_network/) - [Passing bills, bills, bills: Highlights from week 5 in the WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2024-02-09/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%205444)
 * 02/09/2024 [KUOW](/org/kuow/) - [KUOW - Passing bills, bills, bills: Highlights from week 5 in the WA Legislature](https://www.kuow.org/stories/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%205444)
 * 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=SSB%205444)
@@ -24,11 +26,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159320&caId=24169&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159320&caId=24169&tId=4)
 
-#### 0 👍 - Pro
+#### 63 👍 - Pro
 
-#### 1 👎 - Con
+#### 20 👎 - Con
 Testifying:
 * Todd Rathner - Knife Rights
+* 💵Aoibheann Cline - NRA
+* Julie Barrett - Conservative Ladies of Washington
 
 #### 0 ❓ - Other
 

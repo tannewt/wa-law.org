@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## 📰 Articles
+* 02/13/2024 [House Democrats](/org/house_democrats/) - [Pollet bill to reduce lead in cookware heads to the Senate  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/13/pollet-bill-to-reduce-lead-in-cookware-heads-to-the-senate/#:~:text=House%20Bill%201551)
+
 ## Meetings
 ### Sat 02/03 09:00 AM - Appropriations (APP): HB 1551 Lead in cookware
 #### 6 👍 - Pro

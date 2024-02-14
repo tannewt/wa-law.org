@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1479/</link>
 		<description>Updates about HB 1479</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 13 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1101,6 +1101,20 @@
 			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-09/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>4th substitute bill substituted.</title>
+			<description>4th substitute bill substituted.</description>
+			<pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-13/4th substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 79; nays, 18; absent, 0; excused, 1.</title>
+			<description>Third reading, passed; yeas, 79; nays, 18; absent, 0; excused, 1.</description>
+			<pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-13/Third reading, passed; yeas, 79; nays, 18; absent, 0; excused, 1.</guid>
 		</item>
 	</channel>
 </rss>
