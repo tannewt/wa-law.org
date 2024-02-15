@@ -19,19 +19,16 @@
 
 ## Meetings
 ### Thu 02/15 08:00 AM - Labor & Commerce (LC): ESHB 1893 Unemp ins/strikes & lockouts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31946&aId=159581&caId=24181&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31946&aId=159581&caId=24181&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31946&aId=159581&caId=24181&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31946&aId=159581&caId=24181&tId=4)
-
-#### 352 👍 - Pro
+#### 470 👍 - Pro
 Testifying:
 * Sarah Bright - SEIU 925
 * Kairi Beliz
+* 💵Brenda Wiest - Teamsters 117
+* Melinda Jorge - AFA Alaska
 * Rachel Ybarra - Starbucks Workers United
+* Nicalo Elverston
 
-#### 324 👎 - Con
+#### 461 👎 - Con
 Testifying:
 * 💵Brad Boswell - Seattle Metropolitan Chamber of Commerce
 * Robert (Bob) Battles - Association of Washington Business (AWB)
@@ -40,15 +37,20 @@ Testifying:
 * Jason Vander Veen
 * Jeannette Mcchesney
 * 💵Jennifer Ziegler - [Kaiser Aluminum](/org/kaiser_aluminum/)
+* David Baird
 * 💵Rashma Agarwal - EASC - Economic Alliance of Snohomish County
+* 💵Neil Strege - WA Roundtable
 * Jerry VanderWood - AGC and WA Construction Industry Council
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * 💵Bruce Beckett - Wa Retail Association
 * Max Martin - Associated Builders & Contractors
 * 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
+* Michelle Storlie
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Caitlyn Jekel - WA State Employment Security Dept
 
 ### Tue 01/09 10:30 AM - Labor & Workplace Standards (LAWS): HB 1893 Unemp ins/strikes & lockouts
 #### 192 👍 - Pro

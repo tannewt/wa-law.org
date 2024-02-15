@@ -19,9 +19,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31927&aId=159077&caId=24039&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31927&aId=159077&caId=24039&tId=4)
 
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Tom Davis - WA Forest Protection Association
+* Brock Milliern - Recreation Conservation Office
 
 #### 0 👎 - Con
 

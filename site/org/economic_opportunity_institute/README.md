@@ -83,6 +83,9 @@
 ## [HB 2378](/bill/2023-24/hb/2378/) - Health care facility fees 👍1  
 * 👍 Sam Hatzenbeler
 
+## [HB 2476](/bill/2023-24/hb/2476/) - Creating a covered lives assessment professional services rate account.   ❓1
+* ❓ Sam Hatzenbeler
+
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍2  
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1

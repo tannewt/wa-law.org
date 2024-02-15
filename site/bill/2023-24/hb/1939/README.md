@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Thu 02/15 10:30 AM - Health & Long Term Care (HLTC): SHB 1939 Social work compact
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158917&caId=23913&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158917&caId=23913&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158917&caId=23913&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158917&caId=23913&tId=4)
-
-#### 57 👍 - Pro
+#### 65 👍 - Pro
 Testifying:
 * 💵Nathaniel Brown - Northwest Kidney Council
 * Tammie Perreault
@@ -27,10 +21,13 @@ Testifying:
 * Kelsey Halpern
 * 💵Nathaniel Brown - Northwest Kidney Council
 * Charles Wharton - Veterans Legislative Coalition
+* Kaitlyn Bison - The Council of State Governments
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Shawna Fox - Washington State Department of Health
 
 ### Wed 01/10 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1939 Social work compact
 #### 32 👍 - Pro

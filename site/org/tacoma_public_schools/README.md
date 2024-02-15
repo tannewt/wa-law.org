@@ -1,5 +1,8 @@
 # Tacoma Public Schools
 
+## [HB 1248](/bill/2023-24/hb/1248/) - Pupil transportation   ❓1
+* ❓ Charlie Brown
+
 ## [HB 1308](/bill/2023-24/hb/1308/) - Graduation pathway options 👍1  
 
 ## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍1  

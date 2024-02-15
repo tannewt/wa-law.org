@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159148&caId=24107&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159148&caId=24107&tId=4)
 
-#### 9 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Steve Ewing - Dept. of Revenue
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)

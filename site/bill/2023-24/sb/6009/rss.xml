@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6009/</link>
 		<description>Updates about SB 6009</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Feb 2024 12:32:05 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Feb 2024 18:38:46 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -240,6 +240,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jamika/Scott/2024-02-13 12:32:05</guid>
+		</item>
+		<item>
+			<title>Police raise concerns about proposed ‘hog-tying’ ban in Washington state | king5.com</title>
+			<description>News article &quot;Police raise concerns about proposed ‘hog-tying’ ban in Washington state | king5.com&quot; from KING5.</description>
+			<pubDate>Wed, 14 Feb 2024 18:38:46 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.king5.com/article/news/politics/state-politics/hog-tying-ban-proposal/281-f1ae1c4a-8ff7-48cb-a707-d03556253616#:~:text=Senate%20Bill%206009.</guid>
 		</item>
 	</channel>
 </rss>

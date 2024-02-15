@@ -27,15 +27,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159098&caId=24033&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159098&caId=24033&tId=4)
 
-#### 697 👍 - Pro
+#### 841 👍 - Pro
 Testifying:
 * Sydney Krebsbach - Washington State Developmental Disabilities Council
 * John Lemus
 * 💵Shawn Latham - Self Advocates In Leadership
 * Leigh Spruce
 * robert m wardell - self adovates
+* Amy Roark
 
-#### 847 👎 - Con
+#### 868 👎 - Con
 Testifying:
 * John Worthington
 * Teo Morca

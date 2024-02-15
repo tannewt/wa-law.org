@@ -14,15 +14,11 @@
 
 ## Meetings
 ### Thu 02/15 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): E2SHB 2000 International leadership
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31917&aId=159558&caId=24184&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31917&aId=159558&caId=24184&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31917&aId=159558&caId=24184&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31917&aId=159558&caId=24184&tId=4)
+#### 15 👍 - Pro
+Testifying:
+* Geoffrey Potter - Office of Governor Jay Inslee
 
-#### 9 👍 - Pro
-
-#### 6 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * Sandra Kord
 

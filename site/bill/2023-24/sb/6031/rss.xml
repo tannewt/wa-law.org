@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6031/</link>
 		<description>Updates about SB 6031</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Feb 2024 16:25:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -147,6 +147,13 @@
 			<pubDate>Tue, 13 Feb 2024 16:25:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_95a7512c-caad-11ee-8a44-a3cd852c1acf.html#:~:text=Senate%20Bill%206031</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Education.</title>
+			<description>First reading, referred to Education.</description>
+			<pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-15/First reading, referred to Education.</guid>
 		</item>
 	</channel>
 </rss>

@@ -15,11 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31912&aId=159259&caId=24159&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31912&aId=159259&caId=24159&tId=4)
 
-#### 74 👍 - Pro
+#### 79 👍 - Pro
 Testifying:
 * Julie Wise - King County Director of Elections
 
-#### 459 👎 - Con
+#### 736 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

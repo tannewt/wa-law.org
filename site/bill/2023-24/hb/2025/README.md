@@ -18,7 +18,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31937&aId=159192&caId=24134&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31937&aId=159192&caId=24134&tId=4)
 
-#### 3 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Liz Trautman - Stand for Children Washington /High School Success Coalition
 
 #### 0 👎 - Con
 

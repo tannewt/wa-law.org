@@ -26,7 +26,7 @@
 ## [SB 5476](/bill/2023-24/sb/5476/) - Agricultural overtime 👍1  
 * 👍 Ryan Poe
 
-## [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra. 👍1  
+## [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra. 👍2  
 
 ## [SB 5784](/bill/2023-24/sb/5784/) - Deer & elk crop damage 👍1  
 

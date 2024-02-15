@@ -81,6 +81,8 @@
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍4  
 * 👍 Linda Nageotte
 
+## [HB 1889](/bill/2023-24/hb/1889/) - Professionals/immigration 👍1  
+
 ## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍1  
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
@@ -93,6 +95,8 @@
 
 ## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management 👍2  
 * 👍💵 Aaron Czyzewski
+
+## [HB 2487](/bill/2023-24/hb/2487/) - Displaced farmworkers 👍1  
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
 

@@ -20,7 +20,9 @@ Testifying:
 * Kathy Thaut - At Your Service Plumbing
 * Todd Allred - PHCC - Plumbing Heating Cooling Contractors
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Darin Richards - tri cities water store
 
 #### 1 ❓ - Other
 Testifying:

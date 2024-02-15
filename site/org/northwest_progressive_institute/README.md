@@ -82,7 +82,7 @@
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍1  
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍4  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍5  
 
 ## [HB 1677](/bill/2023-24/hb/1677/) - Campaign finance disclosure 👍1  
 
@@ -198,7 +198,9 @@
 
 ## [SB 5378](/bill/2023-24/sb/5378/) - Voter education 👍1  
 
-## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍1  
+## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍2  
+
+## [SB 5444](/bill/2023-24/sb/5444/) - Firearm sensitive places 👍1  
 
 ## [SB 5459](/bill/2023-24/sb/5459/) - Election info. requests 👍2  
 
@@ -222,7 +224,7 @@
 ## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
 * 👍 Andrew Villeneuve
 
-## [SB 5778](/bill/2023-24/sb/5778/) - Employer political speech 👍1  
+## [SB 5778](/bill/2023-24/sb/5778/) - Employer political speech 👍2  
 
 ## [SB 5809](/bill/2023-24/sb/5809/) - Charter schools/enrichment  👎1 
 
@@ -241,7 +243,7 @@
 
 ## [SB 5856](/bill/2023-24/sb/5856/) - Concerning voter registration challenges. 👍2  
 
-## [SB 5857](/bill/2023-24/sb/5857/) - Campaign disclosure reorg. 👍1  
+## [SB 5857](/bill/2023-24/sb/5857/) - Campaign disclosure reorg. 👍2  
 
 ## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍3  
 * 👍 Andrew Villeneuve

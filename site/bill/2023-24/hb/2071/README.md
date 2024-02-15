@@ -13,19 +13,17 @@
 
 ## Meetings
 ### Thu 02/15 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): 2SHB 2071 Residential housing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159641&caId=24187&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159641&caId=24187&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159641&caId=24187&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159641&caId=24187&tId=4)
-
-#### 31 👍 - Pro
+#### 56 👍 - Pro
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * Julie Blazek - [American Institute of Architects Washington Council](/org/american_institute_of_architects_washington_council/)
 * 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
+* Benjamin Maritz - Great Expectations LLC
+* MATT HUTCHINS - cast architecture
+* Rob Harrison - Passive House Network, Seattle Chapter
 
-#### 17 👎 - Con
+#### 72 👎 - Con
 Testifying:
 * Doug Werts - Yakima County Fire Marshal
 * Ryan Burgess - Shoreline Fire Department
@@ -33,7 +31,7 @@ Testifying:
 * Tracy Moore - Moore Fire Protection
 * Kyle Moore - City of SeaTac, Government Relations
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Thu 02/01 10:30 AM - Appropriations (APP): SHB 2071 Residential housing
 #### 255 👍 - Pro

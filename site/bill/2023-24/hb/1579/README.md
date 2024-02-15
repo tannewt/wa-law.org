@@ -24,13 +24,7 @@
 
 ## Meetings
 ### Thu 02/15 08:00 AM - Law & Justice (LAW): 3SHB 1579 Independent prosecutions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158987&caId=23923&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158987&caId=23923&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158987&caId=23923&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158987&caId=23923&tId=4)
-
-#### 496 👍 - Pro
+#### 518 👍 - Pro
 Testifying:
 * Fred Thomas - WA Coalition for Police Accountability
 * Debbie Novak - WA Coalition for Police Accountability
@@ -39,7 +33,7 @@ Testifying:
 * Jamika Scott - Tacoma City Councilmember
 * Najma Osman - CAIR WASHINGTON
 
-#### 459 👎 - Con
+#### 513 👎 - Con
 Testifying:
 * Paul Giuglianotti
 * Traci Anderson - WACOPS - Washington Council of Police and Sheriffs
@@ -50,6 +44,7 @@ Testifying:
 * Jon Tunheim - Thurston County Prosecutor/WAPA
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * Colleen Illman
+* James McDevitt
 * Richard Williams
 
 #### 0 ❓ - Other

@@ -20,15 +20,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159180&caId=24141&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159180&caId=24141&tId=4)
 
-#### 24 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * Mina Hashemi
 * Emma Schwartz - The Adjacent Project
 * Natalie Beetham
 * Jennifer Friedman
+* Elizabeth Hendren - Sexual Violence Law Center
 * Georgilee Flynn
+* Skylar Johnson - Planned Parenthood Generation Action UW Chapter
 
-#### 0 👎 - Con
+#### 32 👎 - Con
 
 #### 1 ❓ - Other
 

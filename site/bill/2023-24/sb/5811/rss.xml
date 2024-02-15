@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5811/</link>
 		<description>Updates about SB 5811</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2024 10:57:48 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -101,6 +101,22 @@
 			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-09/First reading, referred to Health Care &amp; Wellness.</guid>
+		</item>
+		<item>
+			<title>❓Michelle O'Dell - Washington State Labor Council, AFL-CIO</title>
+			<description>Michelle O'Dell signed up to testify Other.</description>
+			<pubDate>Wed, 14 Feb 2024 10:32:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Michelle/O'Dell/2024-02-14 10:32:54</guid>
+		</item>
+		<item>
+			<title>❓De Anna Winterrose - Benton Franklin Parent Coalition</title>
+			<description>De Anna Winterrose signed up to testify Other. They are signed up to represent Benton Franklin Parent Coalition.</description>
+			<pubDate>Thu, 15 Feb 2024 10:57:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/De Anna/Winterrose/2024-02-15 10:57:48</guid>
 		</item>
 	</channel>
 </rss>

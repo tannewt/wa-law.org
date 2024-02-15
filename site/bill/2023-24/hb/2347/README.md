@@ -15,12 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31945&aId=159574&caId=24178&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31945&aId=159574&caId=24178&tId=4)
 
-#### 173 👍 - Pro
+#### 206 👍 - Pro
 Testifying:
 * David Forte - Office of the Insurance Commissioner
 * Bea Rector - Dept. of Social and Health Services
 * Ezibon Njuguna
 * 💵John Ficker - [Adult Family Home Council](/org/adult_family_home_council/)
+* Tienyong Hua
 
 #### 1 👎 - Con
 Testifying:

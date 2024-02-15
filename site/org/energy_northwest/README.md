@@ -23,3 +23,6 @@
 * ❓ Josh Lozano
 
 ## [SB 5542](/bill/2023-24/sb/5542/) - EV supply equipment 👍2  
+
+## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  
+* 👍 Dave Arbaugh

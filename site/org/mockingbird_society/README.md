@@ -12,6 +12,6 @@
 
 ## [SB 5474](/bill/2023-24/sb/5474/) - Juvenile justice 👍1  
 
-## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍1  
+## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍2  
 
-## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍3  
+## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍4  

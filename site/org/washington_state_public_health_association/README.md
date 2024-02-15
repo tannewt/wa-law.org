@@ -64,6 +64,10 @@
 
 ## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
 
+## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍1  
+
+## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
+
 ## [HB 2019](/bill/2023-24/hb/2019/) - Native American apprentices 👍1  
 
 ## [HB 2021](/bill/2023-24/hb/2021/) - Firearm disposition 👍1  
@@ -74,7 +78,7 @@
 
 ## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention 👍1  
 
-## [HB 2115](/bill/2023-24/hb/2115/) - Prescription labels/abortion 👍1  
+## [HB 2115](/bill/2023-24/hb/2115/) - Prescription labels/abortion 👍2  
 
 ## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍1  
 
@@ -109,6 +113,8 @@
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍4  
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
+
+## [SB 5363](/bill/2023-24/sb/5363/) - Cannabis advertising  👎1 
 
 ## [SB 5365](/bill/2023-24/sb/5365/) - Vapor and tobacco/minors 👍3  
 * 👍 Jeff Ketchel

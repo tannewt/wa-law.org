@@ -18,11 +18,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31927&aId=159559&caId=24179&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31927&aId=159559&caId=24179&tId=4)
 
-#### 7 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Bill Sharp - Confederated Tribes and Bands of the Yakama Nation
+* David Troutt - [Nisqually Indian Tribe](/org/nisqually_indian_tribe/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* David Moskowitz - The Conservation Angler
 
 #### 0 ❓ - Other
 

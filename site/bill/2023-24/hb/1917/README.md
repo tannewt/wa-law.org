@@ -11,24 +11,21 @@
 
 ## Meetings
 ### Thu 02/15 10:30 AM - Health & Long Term Care (HLTC): HB 1917 Physician assistant compact
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158916&caId=23912&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158916&caId=23912&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158916&caId=23912&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158916&caId=23912&tId=4)
-
-#### 162 👍 - Pro
+#### 202 👍 - Pro
 Testifying:
 * 💵Nathaniel Brown - Northwest Kidney Council
 * Tammie Perreault - Department of Defense-State Liaison Office
 * Anthony Varela - Veteran Legislative Coalition
+* 💵Chelsea Hager - [Washington Academy of Physician Assistants](/org/washington_academy_of_physician_assistants/)
 
 #### 2 👎 - Con
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Isabel Eliassen - The Council of State Governments
 * Micah Matthews - Washington Medical Commission
+* Micah Matthews - Washington Medical Commission
+* Stephanie Mason
 
 ### Wed 01/10 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1917 Physician assistant compact
 #### 124 👍 - Pro

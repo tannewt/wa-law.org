@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1468/</link>
 		<description>Updates about HB 1468</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Feb 2024 02:46:20 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -131,6 +131,21 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Bill/Stauffacher/2024-02-14 02:46:20</guid>
+		</item>
+		<item>
+			<title>👍💵Carl Schroeder - Association of Washington Cities</title>
+			<description>Carl Schroeder signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/association_of_washington_cities/&quot;&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 14 Feb 2024 10:55:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Carl/Schroeder/2024-02-14 10:55:26</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Local Government, Land Use &amp; Tribal Affairs (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Local Government, Land Use &amp; Tribal Affairs (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-15/First reading, referred to Local Government, Land Use &amp; Tribal Affairs (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 	</channel>
 </rss>

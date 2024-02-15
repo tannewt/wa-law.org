@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31948&aId=159381&caId=24172&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31948&aId=159381&caId=24172&tId=4)
 
-#### 41 👍 - Pro
+#### 97 👍 - Pro
 Testifying:
 * Julie Wise - King County Director of Elections
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)

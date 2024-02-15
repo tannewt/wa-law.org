@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2012/</link>
 		<description>Updates about HB 2012</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2024 09:40:51 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -108,6 +108,14 @@
 			<pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-14/First reading, referred to Housing.</guid>
+		</item>
+		<item>
+			<title>👍Jon Grant - Low Income Housing Institute</title>
+			<description>Jon Grant signed up to testify Pro. They are signed up to represent Low Income Housing Institute.</description>
+			<pubDate>Thu, 15 Feb 2024 09:40:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jon/Grant/2024-02-15 09:40:51</guid>
 		</item>
 	</channel>
 </rss>

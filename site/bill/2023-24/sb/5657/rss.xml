@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5657/</link>
 		<description>Updates about SB 5657</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -70,6 +70,20 @@
 			<pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-13/Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Wilson bill opens door to kit-built homes, one solution to housing shortage</title>
+			<description>News article &quot;Wilson bill opens door to kit-built homes, one solution to housing shortage&quot; from Gorge News Center.</description>
+			<pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2024/02/14/wilson-bill-opens-door-to-kit-built-homes-one-solution-to-housing-shortage/#:~:text=Senate%20Bill%205657</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Housing.</title>
+			<description>First reading, referred to Housing.</description>
+			<pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-15/First reading, referred to Housing.</guid>
 		</item>
 	</channel>
 </rss>

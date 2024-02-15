@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Thu 02/15 08:00 AM - Human Services (HS): 2SHB 1929 Postinpatient housing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31938&aId=159207&caId=24129&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31938&aId=159207&caId=24129&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31938&aId=159207&caId=24129&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31938&aId=159207&caId=24129&tId=4)
-
-#### 90 👍 - Pro
+#### 93 👍 - Pro
 Testifying:
 * Jason McGill - Northwest Youth Services
 * Jim Theofelis - NorthStar Advocates

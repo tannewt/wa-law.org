@@ -13,17 +13,13 @@
 
 ## Meetings
 ### Thu 02/15 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SHB 2252 Small businesses/residential
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159155&caId=24114&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159155&caId=24114&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159155&caId=24114&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159155&caId=24114&tId=4)
-
-#### 10 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* Kaiden Cook
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Briahna Murray - [City of Bellevue](/org/city_of_bellevue/)

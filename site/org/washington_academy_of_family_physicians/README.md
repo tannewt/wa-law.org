@@ -20,6 +20,8 @@
 
 ## [HB 2115](/bill/2023-24/hb/2115/) - Prescription labels/abortion 👍1  
 
+## [HB 2476](/bill/2023-24/hb/2476/) - Creating a covered lives assessment professional services rate account. 👍1  
+
 ## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍1  
 
 ## [SB 5204](/bill/2023-24/sb/5204/) - Fertility services coverage 👍1  

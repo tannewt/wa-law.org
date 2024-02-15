@@ -25,7 +25,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=159144&caId=24094&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=159144&caId=24094&tId=4)
 
-#### 98 👍 - Pro
+#### 111 👍 - Pro
 Testifying:
 * Troy Zhang
 * Danica Noble - Washington State PTA
@@ -47,6 +47,7 @@ Testifying:
 * M.D., Chris Buresh - [Seattle Children's Hospital](/org/seattle_children's_hospital/)
 * Olga Davidov
 * Debby Herbert
+* Scott Waller - Washington Association for Substance misuse and Violence Prevention (WASAVP)
 
 #### 0 👎 - Con
 

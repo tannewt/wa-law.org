@@ -15,7 +15,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31993&aId=159667&caId=24323&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31993&aId=159667&caId=24323&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* 💵Stacy Dym - [The Arc of Washington State](/org/the_arc_of_washington_state/)
 
 #### 0 👎 - Con
 

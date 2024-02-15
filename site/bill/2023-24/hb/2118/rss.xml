@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2118/</link>
 		<description>Updates about HB 2118</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Feb 2024 07:30:10 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2024 10:40:48 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -471,6 +471,30 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Teo/Morca/2024-02-14 07:30:10</guid>
+		</item>
+		<item>
+			<title>👎Jody Lewis - NRA</title>
+			<description>Jody Lewis signed up to testify Con.</description>
+			<pubDate>Thu, 15 Feb 2024 08:25:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jody/Lewis/2024-02-15 08:25:51</guid>
+		</item>
+		<item>
+			<title>👎Tim Eyman - Initiative activist</title>
+			<description>Tim Eyman signed up to testify Con. They are signed up to represent Initiative activist.</description>
+			<pubDate>Thu, 15 Feb 2024 09:58:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Tim/Eyman/2024-02-15 09:58:43</guid>
+		</item>
+		<item>
+			<title>👎💵Karen Strickland - Pawn 1</title>
+			<description>Karen Strickland signed up to testify Con. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/pawn_1/&quot;&gt;Pawn 1&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Thu, 15 Feb 2024 10:40:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Karen/Strickland/2024-02-15 10:40:48</guid>
 		</item>
 	</channel>
 </rss>

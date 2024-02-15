@@ -13,4 +13,4 @@
 
 ## [SB 5256](/bill/2023-24/sb/5256/) - Child welfare housing 👍4  
 
-## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍1  
+## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍2  

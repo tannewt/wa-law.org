@@ -26,17 +26,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=159143&caId=24093&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=159143&caId=24093&tId=4)
 
-#### 78 👍 - Pro
+#### 84 👍 - Pro
 Testifying:
 * Earl Johnson
 * Debbie Gath - IBT
+* Charles West
 
-#### 41 👎 - Con
+#### 61 👎 - Con
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Carolyn Logue - [Washington State Student Transportation Coalition](/org/washington_state_student_transportation_coalition/)
 * Mike Gunn - Everett Public Schools
+* Charlie Brown - [Tacoma Public Schools](/org/tacoma_public_schools/)
 
 ### Mon 01/23 04:00 PM - Appropriations (APP): HB 1248 Pupil transportation
 #### 52 👍 - Pro

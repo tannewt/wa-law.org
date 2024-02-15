@@ -5,6 +5,8 @@
 ## [HB 1304](/bill/2023-24/hb/1304/) - Electric security alarms   ❓1
 * ❓💵 Michael Transue
 
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development  👎1 
+
 ## [SB 5606](/bill/2023-24/sb/5606/) - Illegal racing 👍2  
 * 👍💵 Michael Transue
 

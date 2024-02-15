@@ -15,12 +15,6 @@
 
 ## Meetings
 ### Thu 02/15 08:00 AM - Education (ED): E2SSB 5849 Computer science/graduation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31901&aId=159110&caId=24051&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31901&aId=159110&caId=24051&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31901&aId=159110&caId=24051&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31901&aId=159110&caId=24051&tId=4)
-
 #### 15 👍 - Pro
 Testifying:
 * Natalya Yudkovsky - Washington State PTA
@@ -36,14 +30,15 @@ Testifying:
 * Laura Hu
 * Kelly Ogilvie - Kira Learning
 
-#### 6 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * Jillian Behrman - Lake Washington High School
 * Katharine Rouse - Lake Washington High School, FTC Team 8923 TWIST
 * Lydia Gruner - Lake Washington High School
 * Megan Klamik - Lake Washington High School
+* Megan Klamik
 
-#### 8 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * J. Lee Schultz - [Washington State Board of Education](/org/washington_state_board_of_education/)
 * Cindy McMullen - Washington State School Directors' Association

@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158971&caId=23920&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158971&caId=23920&tId=4)
 
-#### 105 👍 - Pro
+#### 123 👍 - Pro
 Testifying:
 * Alan Matheson - Tacoma Rail / Tacoma Public Utilities
 * Ross Lane - Puget Sound & Pacific Railroad Company

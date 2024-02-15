@@ -9,3 +9,5 @@
 * 👍 Rudy Salakory
 
 ## [SB 5884](/bill/2023-24/sb/5884/) - Concerning court-ordered restitution in environmental criminal cases. 👍1  
+
+## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍1  

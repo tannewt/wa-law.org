@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/14/2024 [KING5](/org/king5/) - [WA bill to cap rent increases to 7% every 12 months passes House | king5.com](https://www.king5.com/article/news/politics/state-politics/washington-state-bill-cap-rent-increases-passes-house/281-82766c29-b695-4b5a-846a-5302d7d7dd8d#:~:text=Senate%20Bill%205961)
 * 02/06/2024 [Senate Democrats](/org/senate_democrats/) - [Joint statement from chairs of Members of Color caucuses on rent stabilization - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/06/joint-statement-from-chairs-of-members-of-color-caucuses-on-rent-stabilization/#:~:text=SB%205961)
 * 02/06/2024 [House Democrats](/org/house_democrats/) - [Joint statement from chairs of Members of Color caucuses on rent stabilization – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/06/joint-statement-from-chairs-of-members-of-color-caucuses-on-rent-stabilization/#:~:text=SB%205961)
 * 02/05/2024 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Week Five Legislative Update - United Ways of Washington - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02052024#:~:text=Senate%20Bill%205961)

@@ -56,6 +56,10 @@
 
 ## [HB 1970](/bill/2023-24/hb/1970/) - DCYF-caregiver communication  👎1 
 
+## [HB 1985](/bill/2023-24/hb/1985/) - PERS/TRS 1 benefit increase 👍1  
+
+## [HB 1999](/bill/2023-24/hb/1999/) - Fabricated intimate images 👍1  
+
 ## [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg 👍3  
 
 ## [HB 2022](/bill/2023-24/hb/2022/) - Construction crane safety 👍1  
@@ -75,7 +79,8 @@
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
 * ❓ Kati Durkin
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍2  
+* 👍💵 Nicole Gomez
 * 👍💵 Nicole Gomez
 
 ## [HB 2127](/bill/2023-24/hb/2127/) - Incentives to return to work 👍1  
@@ -89,7 +94,8 @@
 
 ## [HB 2224](/bill/2023-24/hb/2224/) - Child abuse referral tool 👍2  
 
-## [HB 2246](/bill/2023-24/hb/2246/) - Vacation leave accrual 👍2  
+## [HB 2246](/bill/2023-24/hb/2246/) - Vacation leave accrual 👍3  
+* 👍 Kati Durkin
 * 👍 Kati Durkin
 * 👍 Kati Durkin
 
@@ -110,6 +116,9 @@
 
 ## [HB 2342](/bill/2023-24/hb/2342/) - Dependent youth financial ed 👍1  
 
+## [HB 2348](/bill/2023-24/hb/2348/) - County hospital funding 👍1  
+* 👍💵 Nicole Gomez
+
 ## [HB 2382](/bill/2023-24/hb/2382/) - TNC driver death benefits 👍1  
 
 ## [HB 2407](/bill/2023-24/hb/2407/) - Child welfare workers 👍1  
@@ -119,6 +128,8 @@
 * 👍 Kati Durkin
 
 ## [HB 2459](/bill/2023-24/hb/2459/) - Alt. measure disclosures 👍1  
+
+## [HB 2474](/bill/2023-24/hb/2474/) - Transitional housing siting 👍1  
 
 ## [SB 5010](/bill/2023-24/sb/5010/) - Synthetic opioids/endanger. 👍1  
 
@@ -149,6 +160,8 @@
 
 ## [SB 5778](/bill/2023-24/sb/5778/) - Employer political speech 👍2  
 * 👍 Kati Durkin
+
+## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave 👍1  
 
 ## [SB 5808](/bill/2023-24/sb/5808/) - Safety telecom/interest arb. 👍1  
 
@@ -185,7 +198,7 @@
 
 ## [SB 6060](/bill/2023-24/sb/6060/) - Electronic signatures/PERC 👍2  
 
-## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍1  
+## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍2  
 
 ## [SB 6085](/bill/2023-24/sb/6085/) - Underground economy 👍1  
 
@@ -195,6 +208,8 @@
 * ❓ Kati Durkin
 * ❓ Chelsea Burroughs
 * 👍 Kati Durkin
+
+## [SB 6110](/bill/2023-24/sb/6110/) - Child fatalities 👍1  
 
 ## [SB 6114](/bill/2023-24/sb/6114/) - Sustainable aviation fuel 👍1  
 

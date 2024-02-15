@@ -16,13 +16,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31933&aId=159321&caId=24165&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31933&aId=159321&caId=24165&tId=4)
 
-#### 14 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Diane Butorac - WA Dept of Ecology
 
 #### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Dominga Soliz - Environmental and Land Use Hearings Office
 
 ### Mon 01/08 01:30 PM - Environment & Energy (ENVI): HB 2039 Env. & land use appeals
 #### 40 👍 - Pro

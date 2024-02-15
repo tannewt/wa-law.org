@@ -11,20 +11,16 @@
 
 ## Meetings
 ### Thu 02/15 08:00 AM - Human Services (HS): HB 2415 Economic assistance/TANF
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31938&aId=159026&caId=24009&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31938&aId=159026&caId=24009&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31938&aId=159026&caId=24009&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31938&aId=159026&caId=24009&tId=4)
-
-#### 13 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Babs Roberts - Department of Social and Health Services, Economic Services Administration
 * 💵Alex Hur - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 
 #### 4 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Meredith Mcglown - Al Ahmadayyia Foundation Group,LLC. DBA Khalifa's Essential Choices,Inc.
 
 ### Tue 01/30 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2415 Economic assistance/TANF
 #### 32 👍 - Pro

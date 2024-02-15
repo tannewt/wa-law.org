@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31912&aId=159195&caId=24156&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31912&aId=159195&caId=24156&tId=4)
 
-#### 83 👍 - Pro
+#### 93 👍 - Pro
 Testifying:
 * Mary Hall - Thurston County Auditor - WSACA
 * Sandy Perkins - Skagit County Auditor

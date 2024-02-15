@@ -13,12 +13,6 @@
 
 ## Meetings
 ### Thu 02/15 08:00 AM - Law & Justice (LAW): HB 1635 Police dogs/liability
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158988&caId=23924&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158988&caId=23924&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158988&caId=23924&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158988&caId=23924&tId=4)
-
 #### 13 👍 - Pro
 Testifying:
 * David Hayes - Washington State Narcotics Investigators Association
@@ -26,7 +20,11 @@ Testifying:
 * Jason Nyhus - Washington State Police Canine Association
 * 💵Anne Anderson - Washington State Narcotics Investigators Association
 
-#### 132 👎 - Con
+#### 141 👎 - Con
+Testifying:
+* 💵Enoka Herat - ACLU-WA
+* 💵Daniel Goodman - Washington State Association for Justice
+* Keisha James - National Police Accountability Project
 
 #### 0 ❓ - Other
 

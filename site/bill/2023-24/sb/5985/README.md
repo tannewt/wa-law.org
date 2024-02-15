@@ -19,12 +19,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=158954&caId=23933&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=158954&caId=23933&tId=4)
 
-#### 30 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * Kateri Candee - Washington State Patrol
 * Gwen Loosmore - Washington State PTA
 
-#### 1261 👎 - Con
+#### 1313 👎 - Con
 Testifying:
 * Gabriel Jacobs
 * eric pratt

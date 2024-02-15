@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6095/</link>
 		<description>Updates about SB 6095</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Feb 2024 09:55:08 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2024 07:50:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -145,6 +145,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jenny/Arnold/2024-02-14 09:55:08</guid>
+		</item>
+		<item>
+			<title>👍Michael Sayre - WA Metro Fire Chiefs, Seattle Fire Department</title>
+			<description>Michael Sayre signed up to testify Pro. They are signed up to represent WA Metro Fire Chiefs, Seattle Fire Department.</description>
+			<pubDate>Thu, 15 Feb 2024 07:42:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Michael/Sayre/2024-02-15 07:42:17</guid>
+		</item>
+		<item>
+			<title>👎Mary Long - Conservative Ladies of Washington</title>
+			<description>Mary Long signed up to testify Con. They are signed up to represent Conservative Ladies of Washington.</description>
+			<pubDate>Thu, 15 Feb 2024 07:50:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Mary/Long/2024-02-15 07:50:43</guid>
 		</item>
 	</channel>
 </rss>

@@ -14,13 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31927&aId=159075&caId=24037&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31927&aId=159075&caId=24037&tId=4)
 
-#### 35 👍 - Pro
+#### 43 👍 - Pro
 Testifying:
 * Mike Schwisow - WA ST Water Resources Assn./Columbia Basin Project Irrigation Districts
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵Dawn Vyvyan - Confederated Tribes and Bands of the Yakama Nation
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Dave Christensen - Department of Ecology
 
 ### Fri 01/26 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1752 Water/consumptive quality
 #### 0 👍 - Pro

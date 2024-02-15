@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/14/2024 [House Democrats](/org/house_democrats/) - [Gregerson Bill Supports Arriving Immigrants and Refugees  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/14/gregerson-bill-supports-arriving-immigrants-and-refugees/#:~:text=House%20Bill%202368)
+
 ## Meetings
 ### Mon 02/19 10:30 AM - Human Services (HS): SHB 2368 Refugee & immigrant assist.
 Sign up to testify:
@@ -15,9 +18,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159680&caId=24204&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159680&caId=24204&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other
 

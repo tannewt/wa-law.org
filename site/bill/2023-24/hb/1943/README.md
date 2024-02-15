@@ -23,7 +23,9 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Gent Welsh - Washington Military Department
 
 ### Mon 01/22 04:00 PM - Appropriations (APP): HB 1943 National guard ed. grants
 #### 11 👍 - Pro

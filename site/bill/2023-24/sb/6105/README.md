@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/14/2024 [The Center Square](/org/the_center_square/) - [Washington bill would strip liquor license ban from adult entertainment venues | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d27ce6de-cb7a-11ee-9577-afd9e9bbd433.html#:~:text=Senate%20Bill%206105)
 * 02/09/2024 [NW News Network](/org/nw_news_network/) - [Passing bills, bills, bills: Highlights from week 5 in the WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2024-02-09/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%206105)
 * 02/09/2024 [KUOW](/org/kuow/) - [KUOW - Passing bills, bills, bills: Highlights from week 5 in the WA Legislature](https://www.kuow.org/stories/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%206105)
 * 02/08/2024 [MyNorthwest](/org/mynorthwest/) - [Wash. Senate quickly repeals 'lewd laws' governing bars, clubs - MyNorthwest.com](https://mynorthwest.com/3949879/wash-senate-makes-quick-work-repealing-lewd-laws-governing-bars-clubs/#:~:text=SB%206105)

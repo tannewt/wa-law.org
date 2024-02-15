@@ -20,11 +20,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159584&caId=24207&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159584&caId=24207&tId=4)
 
-#### 30 👍 - Pro
+#### 120 👍 - Pro
 Testifying:
 * 💵Alex Hur - OneAmerica
+* Paul Ryan Villanueva - Communities for Our Colleges
 
-#### 1 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* Greg Glassock - As Pres of Pacific Northwest Assn of Investigators and my company, Olympic Tactical & Investigations
 
 #### 2 ❓ - Other
 

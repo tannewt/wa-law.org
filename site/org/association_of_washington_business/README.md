@@ -348,7 +348,7 @@
 ## [HB 1998](/bill/2023-24/hb/1998/) - Co-living housing 👍1  
 * 👍💵 Morgan Irwin
 
-## [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍2  
+## [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍3  
 * 👍💵 Amy Anderson
 
 ## [HB 2026](/bill/2023-24/hb/2026/) - Rental income/property tax 👍1  

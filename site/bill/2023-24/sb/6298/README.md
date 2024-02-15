@@ -22,10 +22,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31929&aId=159037&caId=24068&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31929&aId=159037&caId=24068&tId=4)
 
-#### 8 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Kristiana de Leon - Association of Secular Elected Officials
 * Alex Ashley
+* Marino Hardin
 
 #### 15 👎 - Con
 Testifying:

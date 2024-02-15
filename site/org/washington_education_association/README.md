@@ -213,7 +213,8 @@
 
 ## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍1  
 
-## [HB 1377](/bill/2023-24/hb/1377/) - Continuing education/K-12 👍2  ❓1
+## [HB 1377](/bill/2023-24/hb/1377/) - Continuing education/K-12 👍2  ❓2
+* ❓💵 Nasue Nishida
 * ❓💵 Nasue Nishida
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
@@ -488,7 +489,7 @@
 
 ## [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element 👍1  
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍2  
 
 ## [HB 2125](/bill/2023-24/hb/2125/) - Concerning the eligibility of state-mandated benefits for contingent faculty at community and technical colleges. 👍2  
 

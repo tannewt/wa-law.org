@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/14/2024 [Gorge News Center](/org/gorge_news_center/) - [Goehner’s bill to aid costly search and rescue efforts in Washington’s wilderness unanimously approved in House](https://gorgenewscenter.com/2024/02/14/goehners-bill-to-aid-costly-search-and-rescue-efforts-in-washingtons-wilderness-unanimously-approved-in-house/#:~:text=House%20Bill%202257)
+
 ## Meetings
 ### Thu 02/01 10:30 AM - Appropriations (APP): HB 2257 Back country search & rescue
 #### 18 👍 - Pro

@@ -21,7 +21,7 @@
 Testifying:
 * Melissa Beard - Council of Presidents
 * Amanda Kost - UW Faculty
-* Isela Bonilla - Associated Students of WSU Vancouver
+* 💵Isela Bonilla - Associated Students of WSU Vancouver
 * Stella Seth - Legislative Liaison, Associated Students, Western Washington University
 * Scott Waller - Washington Association for Substance misuse and Violence Prevention (WASAVP)
 * Mollie Kuwahara - State Board for Community and Technical Colleges
@@ -38,7 +38,7 @@ Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * Lauren Hibbs - 1300 Quince Street
 * Lilly Hayward - Seattle Metropolitan Chamber of Commerce
-* Isela Bonilla - Associated Students of WSU Vancouver
+* 💵Isela Bonilla - Associated Students of WSU Vancouver
 * Juniper Campbell - Geoduck Student Union of The Evergreen State College
 
 #### 0 👎 - Con
@@ -68,7 +68,7 @@ Testifying:
 * Melissa Beard - Council of Presidents
 * Amanda Kost
 * 💵Collin Bannister - The Associated Students of Washington State University
-* Isela Bonilla - Leg. Liaison Associated Students of WSU Vancouver
+* 💵Isela Bonilla - Leg. Liaison Associated Students of WSU Vancouver
 
 #### 0 👎 - Con
 

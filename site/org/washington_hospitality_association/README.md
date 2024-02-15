@@ -180,8 +180,9 @@
 ## [SB 5286](/bill/2023-24/sb/5286/) - Paid leave premiums 👍1  
 * 👍💵 Julia Gorton
 
-## [SB 5291](/bill/2023-24/sb/5291/) - Liquor licenses 👍1  
+## [SB 5291](/bill/2023-24/sb/5291/) - Liquor licenses 👍2  
 * 👍💵 Riley Smith
+* 👍 Montana Miranda
 
 ## [SB 5361](/bill/2023-24/sb/5361/) - Law enf. officers/increase 👍1  
 

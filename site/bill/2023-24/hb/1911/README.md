@@ -12,18 +12,12 @@
 
 ## Meetings
 ### Thu 02/15 08:00 AM - Law & Justice (LAW): SHB 1911 Office of public defense
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158989&caId=23925&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158989&caId=23925&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158989&caId=23925&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158989&caId=23925&tId=4)
-
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Larry Jefferson - Director, Washington State Office of Public Defense
 * Rachel Cortez
 
-#### 9 👎 - Con
+#### 21 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -18,7 +18,10 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Michelle O'Dell
+* De Anna Winterrose - Benton Franklin Parent Coalition
 
 ### Mon 01/29 04:00 PM - Ways & Means (WM): SB 5811 Individual providers/family
 #### 62 👍 - Pro

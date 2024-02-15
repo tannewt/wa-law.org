@@ -6,8 +6,9 @@
 
 ## [HB 1655](/bill/2023-24/hb/1655/) - Provider contract comp. 👍1  
 
-## [HB 1917](/bill/2023-24/hb/1917/) - Physician assistant compact 👍2  
+## [HB 1917](/bill/2023-24/hb/1917/) - Physician assistant compact 👍3  
 * 👍 Joshua Lumsden
+* 👍💵 Chelsea Hager
 
 ## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍1  
 
@@ -17,6 +18,8 @@
 * 👍 Paul Surette
 
 ## [HB 2122](/bill/2023-24/hb/2122/) - Physician wellness programs 👍1  
+
+## [HB 2476](/bill/2023-24/hb/2476/) - Creating a covered lives assessment professional services rate account. 👍1  
 
 ## [SB 5006](/bill/2023-24/sb/5006/) - Waiver of firearm rights 👍2  
 

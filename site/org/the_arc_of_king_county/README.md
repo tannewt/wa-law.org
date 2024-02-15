@@ -254,7 +254,8 @@
 
 ## [SB 5933](/bill/2023-24/sb/5933/) - Infants and toddlers program 👍1  
 
-## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental   ❓1
+## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental   ❓2
+* ❓💵 Ramona Hattendorf
 * ❓💵 Ramona Hattendorf
 
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍2 👎1 

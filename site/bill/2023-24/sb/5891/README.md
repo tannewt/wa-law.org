@@ -16,7 +16,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31982&aId=159268&caId=24278&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31982&aId=159268&caId=24278&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Michelle Whitney - Superintendent, Pasco School District
+* Nancy Lenhart - Widow/Community Member
+* Russell Shjerven - Secretary-Treasurer, Teamsters Local Union 839
 
 #### 0 👎 - Con
 

@@ -19,11 +19,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32006&aId=159671&caId=24269&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32006&aId=159671&caId=24269&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* 💵Michael White - [King County](/org/king_county/)
+* 💵Brad Forbes - Alzheimer's Association
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 0 👎 - Con
 
-#### 12 ❓ - Other
+#### 18 ❓ - Other
 Testifying:
 * Laurie Lippold - Partners for Our Children
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
@@ -37,6 +41,12 @@ Testifying:
 * 💵Karen Pillar - TeamChild
 * Jim Theofelis - NorthStar Advocates
 * 💵Melissa Johnson - WSA of Headstart & ECEAP/Community Residential Services Association
+* 💵Samuel Martin - Washington Coalition for Homeless Youth Advocacy
+* 💵Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
+* Jessica Vavrus
+* 💵Melanie Smith - WA State Long Term Care Ombuds Program
+* Stacy Christ - [Full Life Care](/org/full_life_care/)
+* Pauli Owen - [The Imagine Institute](/org/the_imagine_institute/)
 
 ### Wed 01/10 04:00 PM - Appropriations (APP): HB 2104 Operating budget, supp.
 #### 13 👍 - Pro

@@ -19,11 +19,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32014&aId=159488&caId=24270&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32014&aId=159488&caId=24270&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* 💵Michael White - [King County](/org/king_county/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Adrienne Mason - Akin
+* 💵Melissa Johnson - [Community Residential Services Association](/org/community_residential_services_association/)
 
 ### Thu 01/11 01:30 PM - Capital Budget (CB): HB 2089 Capital budget, supplemental
 #### 35 👍 - Pro

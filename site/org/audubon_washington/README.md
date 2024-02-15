@@ -11,7 +11,7 @@
 ## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍3  ❓1
 * ❓ Adam Maxwell
 
-## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍1  
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍2  
 
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍2  
 
@@ -50,7 +50,9 @@
 
 ## [SB 5922](/bill/2023-24/sb/5922/) - Modifying the department of fish and wildlife's habitat recovery pilot program. 👍1  
 
-## [SB 5934](/bill/2023-24/sb/5934/) - Pollinator habitat 👍1  
+## [SB 5934](/bill/2023-24/sb/5934/) - Pollinator habitat 👍2  
+
+## [SB 5972](/bill/2023-24/sb/5972/) - Neonicotinoid pesticides 👍1  
 
 ## [SB 6092](/bill/2023-24/sb/6092/) - Greenhouse gas disclosures 👍1  
 

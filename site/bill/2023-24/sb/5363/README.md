@@ -11,17 +11,13 @@
 
 ## Meetings
 ### Thu 02/15 08:00 AM - Regulated Substances & Gaming (RSG): ESB 5363 Cannabis advertising
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31942&aId=159169&caId=24126&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31942&aId=159169&caId=24126&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31942&aId=159169&caId=24126&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31942&aId=159169&caId=24126&tId=4)
-
-#### 34 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * 💵Vicki Christophersen - Washington CannaBusiness Association
+* 💵Paula Sardinas - FMS Global Strategies.com
+* 💵Paula Sardinas - FMS Global Strategies
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * LINDA Thompson - Washington Association for Substance misuse and Violence Prevention (WASAVP)
 

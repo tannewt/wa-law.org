@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1958/</link>
 		<description>Updates about HB 1958</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Feb 2024 11:58:14 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2024 11:29:07 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -52,7 +52,7 @@
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/01/08/the-house-hot-sheet-for-week-1-of-the-2024-legislative-session/#:~:text=HB%201958</guid>
 		</item>
 		<item>
-			<title>👍Mina Hashemi - The Adjacent Project</title>
+			<title>👍Mina Hashemi - Planned Parenthood Generation Action UW Chapter</title>
 			<description>Mina Hashemi signed up to testify Pro.</description>
 			<pubDate>Mon, 08 Jan 2024 01:50:39 GMT</pubDate>
 			<category>testifier</category>
@@ -172,12 +172,28 @@
 			<guid isPermaLink="false">testifier/Jennifer/Friedman/2024-02-14 07:39:08</guid>
 		</item>
 		<item>
-			<title>👍Georgilee Flynn - The Adjacent Project</title>
+			<title>👍Elizabeth Hendren - Sexual Violence Law Center</title>
+			<description>Elizabeth Hendren signed up to testify Pro. They are signed up to represent Sexual Violence Law Center.</description>
+			<pubDate>Wed, 14 Feb 2024 09:49:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Elizabeth/Hendren/2024-02-14 09:49:32</guid>
+		</item>
+		<item>
+			<title>👍Georgilee Flynn - Sexual Violence Law Center</title>
 			<description>Georgilee Flynn signed up to testify Pro.</description>
 			<pubDate>Wed, 14 Feb 2024 11:58:14 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Georgilee/Flynn/2024-02-14 11:58:14</guid>
+		</item>
+		<item>
+			<title>👍Skylar Johnson - Planned Parenthood Generation Action UW Chapter</title>
+			<description>Skylar Johnson signed up to testify Pro. They are signed up to represent Planned Parenthood Generation Action UW Chapter.</description>
+			<pubDate>Thu, 15 Feb 2024 11:29:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Skylar/Johnson/2024-02-15 11:29:07</guid>
 		</item>
 	</channel>
 </rss>

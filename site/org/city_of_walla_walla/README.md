@@ -25,7 +25,7 @@
 * 👍 Elizabeth Chamberlain
 * 👍 Elizabeth Chamberlain
 
-## [HB 2474](/bill/2023-24/hb/2474/) - Transitional housing siting  👎1 
+## [HB 2474](/bill/2023-24/hb/2474/) - Transitional housing siting  👎2 
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 

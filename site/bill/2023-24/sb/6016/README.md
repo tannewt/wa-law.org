@@ -20,7 +20,7 @@ Testifying:
 * Afua Kouyaté - ADEFUA Cultural Education Workshop c/o African Cultural Arts Center
 * Oveta Hunter - A.C.A.C African Cultural Arts Center
 
-#### 6 👎 - Con
+#### 49 👎 - Con
 
 #### 0 ❓ - Other
 

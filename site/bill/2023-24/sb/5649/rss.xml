@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5649/</link>
 		<description>Updates about SB 5649</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2024 09:17:59 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -150,6 +150,14 @@
 			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-09/First reading, referred to Local Government.</guid>
+		</item>
+		<item>
+			<title>👍Jonathon Loos - Washington State Dept. of Ecology</title>
+			<description>Jonathon Loos signed up to testify Pro. They are signed up to represent Washington State Dept. of Ecology.</description>
+			<pubDate>Thu, 15 Feb 2024 09:17:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jonathon/Loos/2024-02-15 09:17:59</guid>
 		</item>
 	</channel>
 </rss>

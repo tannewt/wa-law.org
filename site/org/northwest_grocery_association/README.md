@@ -5,5 +5,7 @@
 
 ## [HB 1152](/bill/2023-24/hb/1152/) - Consumer products/gender  👎1 
 
+## [HB 1893](/bill/2023-24/hb/1893/) - Unemp ins/strikes & lockouts  👎1 
+
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management  👎1 
 * 👎💵 Brandon Houskeeper

@@ -8,6 +8,9 @@
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍4  
 * 👍 Scott Livengood
 
+## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental   ❓1
+* ❓💵 Melissa Johnson
+
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
 * ❓💵 Melissa Johnson
 

@@ -20,12 +20,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31903&aId=159257&caId=24163&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31903&aId=159257&caId=24163&tId=4)
 
-#### 31 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * 💵Joel Anderson - Washington Student Achievement Council
 * Jacob Vigdor - University of Washington Faculty
 
-#### 12 👎 - Con
+#### 19 👎 - Con
 
 #### 0 ❓ - Other
 

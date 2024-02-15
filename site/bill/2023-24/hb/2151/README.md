@@ -16,9 +16,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159582&caId=24205&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159582&caId=24205&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Trecia Ehrlich - Washington State Department of Agriculture
+* Dr. Annette Hoffmann - Department of Ecology
 
 #### 0 👎 - Con
 

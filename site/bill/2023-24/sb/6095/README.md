@@ -14,14 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=159313&caId=24164&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=159313&caId=24164&tId=4)
 
-#### 4 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Jenny Arnold - Washington State Pharmacy Association
+* Michael Sayre - WA Metro Fire Chiefs, Seattle Fire Department
 
-#### 542 👎 - Con
+#### 858 👎 - Con
 Testifying:
 * Bob Runnells - Informed Choice Washington
 * Natalie Chavez
+* Mary Long - Conservative Ladies of Washington
 
 #### 1 ❓ - Other
 

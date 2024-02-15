@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1635/</link>
 		<description>Updates about HB 1635</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Feb 2024 10:47:50 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2024 06:54:38 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -155,12 +155,36 @@
 			<guid isPermaLink="false">testifier/Jason/Nyhus/2024-02-14 09:50:47</guid>
 		</item>
 		<item>
+			<title>👎💵Enoka Herat - ACLU-WA</title>
+			<description>Enoka Herat signed up to testify Con. They are signed up to represent ACLU-WA. They are a registered lobbyist.</description>
+			<pubDate>Wed, 14 Feb 2024 09:53:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Enoka/Herat/2024-02-14 09:53:58</guid>
+		</item>
+		<item>
 			<title>👍💵Anne Anderson - Washington State Narcotics Investigators Association</title>
 			<description>Anne Anderson signed up to testify Pro. They are signed up to represent Washington State Narcotics Investigators Association. They are a registered lobbyist.</description>
 			<pubDate>Wed, 14 Feb 2024 10:47:50 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Anne/Anderson/2024-02-14 10:47:50</guid>
+		</item>
+		<item>
+			<title>👎💵Daniel Goodman - Washington State Association for Justice</title>
+			<description>Daniel Goodman signed up to testify Con. They are signed up to represent Washington State Association for Justice. They are a registered lobbyist.</description>
+			<pubDate>Wed, 14 Feb 2024 10:58:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Daniel/Goodman/2024-02-14 10:58:45</guid>
+		</item>
+		<item>
+			<title>👎Keisha James - National Police Accountability Project</title>
+			<description>Keisha James signed up to testify Con. They are signed up to represent National Police Accountability Project.</description>
+			<pubDate>Thu, 15 Feb 2024 06:54:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Keisha/James/2024-02-15 06:54:38</guid>
 		</item>
 	</channel>
 </rss>

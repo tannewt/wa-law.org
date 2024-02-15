@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/14/2024 [KUOW](/org/kuow/) - [KUOW - Washington bottle deposit proposal fizzles out in Legislature](https://www.kuow.org/stories/washington-bottle-deposit-proposal-fizzles-out-in-legislature#:~:text=HB%202144)
 * 02/10/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. Corry relieved property tax increase bill failed, but warns Democrats still have many other bills that will cost you](https://gorgenewscenter.com/2024/02/10/rep-corry-relieved-property-tax-increase-bill-failed-but-warns-democrats-still-have-many-other-bills-that-will-cost-you/#:~:text=HB%202144)
 * 02/03/2024 [KUOW](/org/kuow/) - [KUOW - Washington lawmakers crack open a fresh bottle deposit bill](https://www.kuow.org/stories/washington-lawmakers-crack-open-a-fresh-bottle-deposit-bill#:~:text=HB%202144)
 * 02/02/2024 [MyNorthwest](/org/mynorthwest/) - [10-cent bottle deposit system bill being considered in Washington - MyNorthwest.com](https://mynorthwest.com/3949067/10-cent-bottle-deposit-system-bill-considered-olympia/#:~:text=House%20Bill%202144)

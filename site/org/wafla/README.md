@@ -2,6 +2,8 @@
 
 ## [HB 1068](/bill/2023-24/hb/1068/) - Injured worker medical exams  👎1 
 
+## [HB 1893](/bill/2023-24/hb/1893/) - Unemp ins/strikes & lockouts  👎1 
+
 ## [HB 1959](/bill/2023-24/hb/1959/) - PFML/small employers  👎1 
 
 ## [HB 2226](/bill/2023-24/hb/2226/) - H-2A worker program data  👎1 

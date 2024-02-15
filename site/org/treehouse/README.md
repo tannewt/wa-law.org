@@ -94,7 +94,7 @@
 
 ## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍1  
 
-## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍2  
+## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍3  
 
 ## [SB 5644](/bill/2023-24/sb/5644/) - Juvenile records 👍1  
 

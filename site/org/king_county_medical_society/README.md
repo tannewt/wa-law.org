@@ -22,7 +22,7 @@
 
 ## [HB 1902](/bill/2023-24/hb/1902/) - Firearms/purchase & transfer 👍1  
 
-## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍1  
+## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍2  
 
 ## [HB 2021](/bill/2023-24/hb/2021/) - Firearm disposition 👍1  
 
@@ -32,11 +32,13 @@
 
 ## [HB 2116](/bill/2023-24/hb/2116/) - Pharmacist prescriptive auth  👎1 
 
-## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍1  
+## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍2  
 
 ## [HB 2132](/bill/2023-24/hb/2132/) - Coroner training costs  👎1 
 
 ## [HB 2416](/bill/2023-24/hb/2416/) - ARNP legal title 👍1  
+
+## [HB 2476](/bill/2023-24/hb/2476/) - Creating a covered lives assessment professional services rate account. 👍1  
 
 ## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍1  
 * 👍 Nancy Belcher
@@ -54,5 +56,7 @@
 ## [SB 5523](/bill/2023-24/sb/5523/) - Forensic pathologists 👍3  
 
 ## [SB 5838](/bill/2023-24/sb/5838/) - AI task force 👍1  
+
+## [SB 5985](/bill/2023-24/sb/5985/) - Firearms background checks 👍1  
 
 ## [SB 6144](/bill/2023-24/sb/6144/) - Prescribing psychologists  👎1 

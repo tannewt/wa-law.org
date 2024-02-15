@@ -16,12 +16,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31929&aId=159326&caId=24170&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31929&aId=159326&caId=24170&tId=4)
 
-#### 16 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * 💵Emily Stochel - [College Success Foundation](/org/college_success_foundation/)
 * Sam Martin - Washington Coalition for Homeless Youth Advocacy
 
-#### 5 👎 - Con
+#### 6 👎 - Con
 
 #### 0 ❓ - Other
 

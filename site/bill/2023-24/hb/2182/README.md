@@ -12,12 +12,6 @@
 
 ## Meetings
 ### Thu 02/15 08:00 AM - Labor & Commerce (LC): SHB 2182 Regulated substance use data
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31946&aId=159071&caId=24019&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31946&aId=159071&caId=24019&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31946&aId=159071&caId=24019&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31946&aId=159071&caId=24019&tId=4)
-
 #### 1 👍 - Pro
 Testifying:
 * 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)

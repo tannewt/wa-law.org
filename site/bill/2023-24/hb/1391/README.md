@@ -22,11 +22,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31933&aId=159651&caId=24191&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31933&aId=159651&caId=24191&tId=4)
 
-#### 92 👍 - Pro
+#### 158 👍 - Pro
 Testifying:
 * Liz Reichart - Washington State Department of Commerce (SEO)
+* Dewi Ali - Emerald Cities Collaborative
+* 💵Matthew Hepner - IBEW/CEWW
+* Rachel Koller - Shift Zero
 
-#### 6 👎 - Con
+#### 9 👎 - Con
+Testifying:
+* Charlie Brown - Cascade Natural Gas and NW Natural
+* 💵John Rothlin - Avista
 
 #### 0 ❓ - Other
 

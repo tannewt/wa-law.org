@@ -8,6 +8,9 @@
 
 ## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions  👎1 
 
+## [HB 2120](/bill/2023-24/hb/2120/) - Clean energy manufacturers 👍1  
+* 👍 Mayor Theresa Richardson
+
 ## [HB 2158](/bill/2023-24/hb/2158/) - Urban growth area boundaries 👍1  
 * 👍 Theresa Richlardson
 

@@ -20,14 +20,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159096&caId=24031&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159096&caId=24031&tId=4)
 
-#### 12 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Dr. Nyla Rosen - [Institute for Community Leadership](/org/institute_for_community_leadership/)
 * James Layman - Association of Washington Student Leaders
 * Alexx Skelton
 * Kwabena Ledbetter - Student Rep Network of the Washington State School Directors' Association
 
-#### 5 👎 - Con
+#### 6 👎 - Con
 
 #### 0 ❓ - Other
 

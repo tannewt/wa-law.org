@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5931/</link>
 		<description>Updates about SB 5931</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Feb 2024 07:28:01 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -190,6 +190,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/John/Worthington/2024-02-14 07:28:01</guid>
+		</item>
+		<item>
+			<title>ENVI - Executive action taken by committee.</title>
+			<description>ENVI - Executive action taken by committee.</description>
+			<pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-15/ENVI - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

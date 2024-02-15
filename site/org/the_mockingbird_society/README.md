@@ -39,7 +39,8 @@
 ## [HB 2016](/bill/2023-24/hb/2016/) - Allowing certain minors to contract for housing and utilities.   ❓1
 * ❓💵 Charles Smith
 
-## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓2
+* ❓💵 Charles Smith
 * ❓💵 Charles Smith
 
 ## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
@@ -79,7 +80,7 @@
 
 ## [SB 5543](/bill/2023-24/sb/5543/) - Sexual offenses by youth 👍1  
 
-## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍17  
+## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍18  
 * 👍 Sam Martin
 * 👍 Sam Martin
 * 👍💵 Charles Smith
@@ -92,11 +93,12 @@
 
 ## [SB 5800](/bill/2023-24/sb/5800/) - Improving access to department of licensing issued documents by clarifying the application requirements for a minor, modifying the requirements for at-cost identicards, and studying the feasibility of reduced-fee identicards. 👍2  
 
-## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍17  
+## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍18  
 * 👍💵 Charles Smith
 * 👍💵 Charles Smith
 
-## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓2
+* ❓💵 Charles Smith
 * ❓💵 Charles Smith
 
 ## [SB 5974](/bill/2023-24/sb/5974/) - Unenforceable LFOs 👍3  

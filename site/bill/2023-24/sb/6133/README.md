@@ -12,15 +12,11 @@
 
 ## Meetings
 ### Thu 02/15 08:00 AM - Community Safety, Justice, & Reentry (CSJR): SB 6133 Cannabis retail robberies
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31914&aId=159023&caId=24047&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31914&aId=159023&caId=24047&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31914&aId=159023&caId=24047&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31914&aId=159023&caId=24047&tId=4)
+#### 7 👍 - Pro
 
-#### 4 👍 - Pro
-
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 
 #### 1 ❓ - Other
 

@@ -74,7 +74,8 @@
 
 ## [HB 2008](/bill/2023-24/hb/2008/) - Housing cost task force 👍1  
 
-## [HB 2071](/bill/2023-24/hb/2071/) - Residential housing 👍2  
+## [HB 2071](/bill/2023-24/hb/2071/) - Residential housing 👍3  
+* 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 
@@ -88,7 +89,8 @@
 * 👍💵 Laura Feinstein
 * 👍💵 Laura Feinstein
 
-## [HB 2160](/bill/2023-24/hb/2160/) - Housing development   ❓1
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development   ❓2
+* ❓💵 Dan Bertolet
 * ❓💵 Dan Bertolet
 
 ## [HB 2219](/bill/2023-24/hb/2219/) - Affordable housing/tax ex. 👍1  
@@ -107,7 +109,7 @@
 
 ## [HB 2425](/bill/2023-24/hb/2425/) - Rental support program 👍1  
 
-## [HB 2474](/bill/2023-24/hb/2474/) - Transitional housing siting 👍1  
+## [HB 2474](/bill/2023-24/hb/2474/) - Transitional housing siting 👍2  
 
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax 👍1  
 

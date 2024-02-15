@@ -333,7 +333,8 @@
 
 ## [HB 2021](/bill/2023-24/hb/2021/) - Firearm disposition 👍1  
 
-## [HB 2044](/bill/2023-24/hb/2044/) - Standardizing limitations on voter-approved property tax levies. 👍1  
+## [HB 2044](/bill/2023-24/hb/2044/) - Standardizing limitations on voter-approved property tax levies. 👍2  
+* 👍💵 Michael White
 * 👍💵 Michael White
 
 ## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍2  
@@ -349,13 +350,15 @@
 
 ## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍1  
 
-## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍1  
+## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍2  
+* 👍💵 Michael White
 * 👍💵 Michael White
 
 ## [HB 2101](/bill/2023-24/hb/2101/) - Child care licensing fees 👍1  
 
-## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  ❓1
 * ❓💵 Michael White
+* 👍💵 Michael White
 
 ## [HB 2111](/bill/2023-24/hb/2111/) - Subsidized child care 👍1  
 
@@ -393,7 +396,7 @@
 
 ## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍1  
 
-## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍3  
+## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍4  
 
 ## [HB 2250](/bill/2023-24/hb/2250/) - Local elections 👍1  
 
@@ -625,6 +628,8 @@
 * 👍💵 Michael White
 * 👍💵 Michael White
 
+## [SB 5444](/bill/2023-24/sb/5444/) - Firearm sensitive places 👍1  
+
 ## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍3  
 
 ## [SB 5459](/bill/2023-24/sb/5459/) - Election info. requests 👍1  
@@ -705,7 +710,7 @@
 
 ## [SB 5872](/bill/2023-24/sb/5872/) - Concerning vehicle and operator requirements for autonomous vehicles. 👍1  
 
-## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍2  
+## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍3  
 
 ## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD 👍1  
 
@@ -718,11 +723,13 @@
 ## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp.   ❓1
 * ❓💵 Michael White
 
-## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental   ❓1
+## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  ❓1
 * ❓💵 Michael White
+* 👍💵 Michael White
 
-## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  ❓1
 * ❓💵 Michael White
+* 👍💵 Michael White
 
 ## [SB 5963](/bill/2023-24/sb/5963/) - Deadly weapons insurance 👍1  
 
@@ -733,6 +740,8 @@
 ## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍1  
 
 ## [SB 5983](/bill/2023-24/sb/5983/) - Syphilis treatment 👍1  
+
+## [SB 5985](/bill/2023-24/sb/5985/) - Firearms background checks 👍1  
 
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
 * 👍 Pat McLaughlin

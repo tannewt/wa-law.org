@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2287/</link>
 		<description>Updates about HB 2287</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Feb 2024 09:46:27 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2024 10:21:37 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -183,6 +183,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Noreen/Light/2024-02-14 09:46:27</guid>
+		</item>
+		<item>
+			<title>❓Barbara Serrano - Office of the Governor</title>
+			<description>Barbara Serrano signed up to testify Other. They are signed up to represent Office of the Governor.</description>
+			<pubDate>Wed, 14 Feb 2024 11:54:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Barbara/Serrano/2024-02-14 11:54:14</guid>
+		</item>
+		<item>
+			<title>❓Caitlin Robertson - Office of the Corrections Ombuds</title>
+			<description>Caitlin Robertson signed up to testify Other. They are signed up to represent Office of the Corrections Ombuds.</description>
+			<pubDate>Thu, 15 Feb 2024 02:07:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Caitlin/Robertson/2024-02-15 02:07:13</guid>
+		</item>
+		<item>
+			<title>❓Elisabeth Kingsbury - Office of the Corrections Ombuds</title>
+			<description>Elisabeth Kingsbury signed up to testify Other. They are signed up to represent Office of the Corrections Ombuds.</description>
+			<pubDate>Thu, 15 Feb 2024 10:21:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Elisabeth/Kingsbury/2024-02-15 10:21:37</guid>
 		</item>
 	</channel>
 </rss>

@@ -20,7 +20,8 @@
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
 
-## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍3  
+## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍4  
+* 👍💵 Emily Brice
 * 👍💵 Emily Brice
 * 👍💵 Emily Brice
 * 👍💵 Emily Brice

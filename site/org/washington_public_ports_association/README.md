@@ -134,7 +134,7 @@
 ## [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg   ❓1
 * ❓ Chris Herman
 
-## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍1  
+## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍2  
 * 👍💵 Carly Michiels
 
 ## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects   ❓1

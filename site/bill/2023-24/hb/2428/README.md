@@ -9,12 +9,6 @@
 
 ## Meetings
 ### Thu 02/15 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SHB 2428 Sales and use tax sharing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159156&caId=24115&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159156&caId=24115&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159156&caId=24115&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159156&caId=24115&tId=4)
-
 #### 4 👍 - Pro
 Testifying:
 * Elizabeth Chamberlain - [City of Walla Walla](/org/city_of_walla_walla/)

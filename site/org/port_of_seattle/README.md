@@ -27,9 +27,9 @@
 
 ## [HB 1912](/bill/2023-24/hb/1912/) - Economic development info. 👍1  
 
-## [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍1  
+## [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍2  
 
-## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍1  
+## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍2  
 
 ## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍3  
 
@@ -40,7 +40,7 @@
 ## [HB 2103](/bill/2023-24/hb/2103/) - Large port districts  👎1 
 * 👎 John Flanagan
 
-## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍3  
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍4  
 * 👍💵 Trent House
 
 ## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage 👍2  
@@ -73,7 +73,7 @@
 
 ## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍2  
 
-## [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra. 👍1  
+## [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra. 👍2  
 
 ## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍1  
 
@@ -88,7 +88,7 @@
 
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
 
-## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍2  
+## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍3  
 
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development 👍1  
 * 👍 John Flanagan
@@ -99,7 +99,7 @@
 
 ## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍2  
 
-## [SB 6080](/bill/2023-24/sb/6080/) - Tourism marketing funding 👍2  
+## [SB 6080](/bill/2023-24/sb/6080/) - Tourism marketing funding 👍3  
 
 ## [SB 6107](/bill/2023-24/sb/6107/) - Construction/sanitary cond. 👍1  
 
@@ -128,4 +128,4 @@
 ## [SB 6304](/bill/2023-24/sb/6304/) - Transp. electrification   ❓1
 * ❓ John Flanagan
 
-## [SJM 8009](/bill/2023-24/sjm/8009/) - Harbor maintenance tax 👍1  
+## [SJM 8009](/bill/2023-24/sjm/8009/) - Harbor maintenance tax 👍2  

@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=159057&caId=24075&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=159057&caId=24075&tId=4)
 
-#### 21 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * 💵Clark Hansen - ALS Association, Patient Coalition of Washington
 * Mercer May - Teladoc Health
 * 💵Carrie Tellefson - Teladoc Health
 * Quinn Shean - ATA Action
+* 💵Vicki Lowe - American Indian Health Commission and Washington State Women's Commission
 
 #### 0 👎 - Con
 

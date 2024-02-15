@@ -156,7 +156,8 @@
 
 ## [HB 1449](/bill/2023-24/hb/1449/) - Project permits/reports 👍1  
 
-## [HB 1468](/bill/2023-24/hb/1468/) - Impact fee deferrals 👍1  
+## [HB 1468](/bill/2023-24/hb/1468/) - Impact fee deferrals 👍2  
+* 👍💵 Carl Schroeder
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍3  
 * 👍💵 Carl Schroeder
@@ -269,7 +270,8 @@
 ## [HB 2036](/bill/2023-24/hb/2036/) - Adult entertainment   ❓1
 * ❓💵 Candice Bock
 
-## [HB 2044](/bill/2023-24/hb/2044/) - Standardizing limitations on voter-approved property tax levies. 👍1  
+## [HB 2044](/bill/2023-24/hb/2044/) - Standardizing limitations on voter-approved property tax levies. 👍2  
+* 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
 ## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍2  
@@ -281,16 +283,17 @@
 ## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects   ❓1
 * ❓💵 Carl Schroeder
 
-## [HB 2071](/bill/2023-24/hb/2071/) - Residential housing   ❓1
+## [HB 2071](/bill/2023-24/hb/2071/) - Residential housing   ❓2
 * ❓💵 Carl Schroeder
 
-## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍1  
+## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍2  
 * 👍💵 Lindsey Hueer
 
 ## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍1  
 * 👍 Brandy DeLange
 
-## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍2  
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍3  
+* 👍💵 Candice Bock
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
@@ -313,7 +316,8 @@
 
 ## [HB 2158](/bill/2023-24/hb/2158/) - Urban growth area boundaries  👎1 
 
-## [HB 2160](/bill/2023-24/hb/2160/) - Housing development  👎3 
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development  👎4 
+* 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
@@ -663,10 +667,12 @@
 
 ## [SB 5937](/bill/2023-24/sb/5937/) - Crime victims & witnesses   ❓1
 
-## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental   ❓1
+## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  ❓1
 * ❓ Brandy DeLange
+* 👍 Brandy DeLange
 
-## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍2  
+* 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
 ## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  

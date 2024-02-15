@@ -25,13 +25,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159441&caId=24215&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159441&caId=24215&tId=4)
 
-#### 10 👍 - Pro
+#### 418 👍 - Pro
+Testifying:
+* Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation
 
-#### 1 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Tiffany Attrill
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 01/22 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 2065 Offender score recalc.
 #### 1350 👍 - Pro

@@ -6,7 +6,7 @@
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
 
-## [HB 1889](/bill/2023-24/hb/1889/) - Professionals/immigration 👍1  
+## [HB 1889](/bill/2023-24/hb/1889/) - Professionals/immigration 👍2  
 
 ## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
 

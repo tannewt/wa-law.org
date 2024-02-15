@@ -8,6 +8,8 @@
 
 ## [HB 1699](/bill/2023-24/hb/1699/) - Fish & wildlife salaries 👍1  
 
+## [HB 1961](/bill/2023-24/hb/1961/) - Animal cruelty/seriousness 👍1  
+
 ## [SB 5939](/bill/2023-24/sb/5939/) - Livestock wolf predation  👎1 
 * 👎 Dan Paul
 

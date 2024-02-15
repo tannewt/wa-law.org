@@ -25,15 +25,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159129&caId=24082&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159129&caId=24082&tId=4)
 
-#### 23 👍 - Pro
+#### 111 👍 - Pro
 Testifying:
 * Lydia Faitalia - Washington State Commission on Asian Pacific American Affairs
 * Lydia Faitalia - Washington State Commission on Asian Pacific American Affairs
 * 💵Kendall Kosai - OCA
 * 💵Kristin Ang - Faith Action Network (FAN)
 * Miri Cypers - ADL
+* Dean Lynch - Human Rights Spokane
+* 💵Gabriel Neuman - GSBA
+* Gail Coskey
 
-#### 942 👎 - Con
+#### 987 👎 - Con
 Testifying:
 * Liv Finne - Washington Policy Center
 * John Coleman - Foundation for Individual Rights and Expression

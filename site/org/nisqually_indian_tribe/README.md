@@ -28,7 +28,8 @@
 
 ## [HB 2290](/bill/2023-24/hb/2290/) - Untreated sewage discharges 👍1  
 
-## [HB 2293](/bill/2023-24/hb/2293/) - Avian predation/salmon 👍1  
+## [HB 2293](/bill/2023-24/hb/2293/) - Avian predation/salmon 👍2  
+* 👍 David Troutt
 * 👍 David Troutt
 
 ## [HB 2429](/bill/2023-24/hb/2429/) - Energy facility eval process 👍1  

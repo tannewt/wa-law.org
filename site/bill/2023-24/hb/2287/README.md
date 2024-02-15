@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Thu 02/15 08:00 AM - Human Services (HS): SHB 2287 Corrections ombuds adv board
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31938&aId=159209&caId=24131&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31938&aId=159209&caId=24131&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31938&aId=159209&caId=24131&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31938&aId=159209&caId=24131&tId=4)
-
-#### 91 👍 - Pro
+#### 99 👍 - Pro
 Testifying:
 * Melody Simle
 * Jim Chambers
@@ -27,9 +21,13 @@ Testifying:
 * Kehaulani Walker - FOTi (Families of the Incarcerated) PUA (People United Alliance)
 * Noreen Light - Information For A Change
 
-#### 40 👎 - Con
+#### 42 👎 - Con
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Barbara Serrano - Office of the Governor
+* Caitlin Robertson - Office of the Corrections Ombuds
+* Elisabeth Kingsbury - Office of the Corrections Ombuds
 
 ### Mon 01/22 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 2287 Corrections ombuds adv board
 #### 71 👍 - Pro

@@ -58,7 +58,7 @@
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍2  
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍3  
 
 ## [HB 1392](/bill/2023-24/hb/1392/) - Electronics repair 👍1  
 

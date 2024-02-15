@@ -17,17 +17,13 @@
 
 ## Meetings
 ### Thu 02/15 10:30 AM - Health & Long Term Care (HLTC): 2ESHB 1508 Health care cost board
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=159003&caId=23985&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=159003&caId=23985&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=159003&caId=23985&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=159003&caId=23985&tId=4)
-
-#### 187 👍 - Pro
+#### 194 👍 - Pro
+Testifying:
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 
 #### 5 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
 * 💵Sean Graham - Washington State Medical Assocation (WSMA)

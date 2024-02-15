@@ -14,13 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31927&aId=159078&caId=24040&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31927&aId=159078&caId=24040&tId=4)
 
-#### 9 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Michele Kiesz
+* Brian Kiesz
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Dave Christensen - Department of Ecology
 
 ### Tue 01/16 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2074 Landowner's lessee/penalties
 #### 4 👍 - Pro

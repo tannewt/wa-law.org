@@ -14,9 +14,9 @@
 
 ## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍1  
 
-## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
+## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍2  
 
-## [HB 2019](/bill/2023-24/hb/2019/) - Native American apprentices 👍2  
+## [HB 2019](/bill/2023-24/hb/2019/) - Native American apprentices 👍3  
 
 ## [HB 2098](/bill/2023-24/hb/2098/) - Women's commission/gifts 👍1  
 
@@ -41,6 +41,8 @@
 ## [SB 5338](/bill/2023-24/sb/5338/) - Essential health benefits 👍1  
 
 ## [SB 5365](/bill/2023-24/sb/5365/) - Vapor and tobacco/minors 👍1  
+
+## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍1  
 
 ## [SB 5588](/bill/2023-24/sb/5588/) - Mental health sentencing alt 👍1  
 

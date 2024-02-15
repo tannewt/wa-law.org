@@ -16,11 +16,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=158925&caId=23962&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=158925&caId=23962&tId=4)
 
-#### 4 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Jenny Arnold - Washington State Pharmacy Association
 
-#### 4 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other
 

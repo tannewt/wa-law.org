@@ -15,6 +15,19 @@
 * [Gorge Radio](/org/gorge_radio/) - [Harris Bill Would Give Reprimanded Educators Second Chance – Gorge Radio](https://gorgeradio.com/harris-bill-would-give-reprimanded-educators-second-chance/#:~:text=House%20Bill%201113)
 
 ## Meetings
+### Mon 02/19 01:30 PM - Early Learning & K-12 Education (EDU): ESHB 1113 Prof. educator reprimands
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159811&caId=24333&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159811&caId=24333&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159811&caId=24333&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159811&caId=24333&tId=4)
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 03/09 01:30 PM - Early Learning & K-12 Education (EDU): SHB 1113 Prof. educator reprimands
 #### 11 👍 - Pro
 Testifying:

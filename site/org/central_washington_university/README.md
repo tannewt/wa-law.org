@@ -76,7 +76,8 @@
 
 ## [SB 5895](/bill/2023-24/sb/5895/) - Concerning collective bargaining for certain employees who are enrolled in academic programs at public institutions of higher education. 👍3  
 
-## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  
+## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍2  
+* 👍 Steve DuPont
 * 👍 Steve DuPont
 
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1

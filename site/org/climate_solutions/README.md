@@ -49,7 +49,7 @@
 ## [HB 1416](/bill/2023-24/hb/1416/) - Consumer-owned utilities 👍2  
 * 👍💵 Kelly Hall
 
-## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍1  
+## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍2  
 
 ## [HB 1505](/bill/2023-24/hb/1505/) - Alternative jet fuel   ❓1
 * ❓💵 Leah Missik
@@ -103,7 +103,7 @@
 
 ## [HB 2131](/bill/2023-24/hb/2131/) - Thermal energy networks 👍2  
 
-## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍2  
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍3  
 
 ## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage 👍2  
 * 👍💵 Kelly Hall

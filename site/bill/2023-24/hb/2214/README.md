@@ -23,7 +23,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31937&aId=159193&caId=24135&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31937&aId=159193&caId=24135&tId=4)
 
-#### 27 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * 💵Joel Anderson - Washington Student Achievement Council

@@ -13,20 +13,14 @@
 
 ## Meetings
 ### Thu 02/15 08:00 AM - Law & Justice (LAW): HB 1961 Animal cruelty/seriousness
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158863&caId=23907&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158863&caId=23907&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158863&caId=23907&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158863&caId=23907&tId=4)
-
-#### 245 👍 - Pro
+#### 249 👍 - Pro
 Testifying:
 * 💵Brenna Anderst - Pasado's Safe Haven/Education & Advocacy Director
 * Nathaniel Block - Skagit County Prosecuting Attorney's Office
 * Tina Griffin - Washington State Gambling Commission
 * Sam Low - Representative 39th District
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Ramona Brandes
 

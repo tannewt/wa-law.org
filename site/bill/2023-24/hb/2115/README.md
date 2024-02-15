@@ -14,23 +14,18 @@
 
 ## Meetings
 ### Thu 02/15 10:30 AM - Health & Long Term Care (HLTC): ESHB 2115 Prescription labels/abortion
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=159111&caId=24035&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=159111&caId=24035&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=159111&caId=24035&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=159111&caId=24035&tId=4)
-
-#### 193 👍 - Pro
+#### 201 👍 - Pro
 Testifying:
 * Lily Jensen
 * 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
 * Dr. Sarah Prager - American College of Obstetricians and Gynecologists (ACOG)
 
-#### 930 👎 - Con
+#### 950 👎 - Con
 Testifying:
 * Theresa Schrempp
 * Julie Barrett - Conservative Ladies of Washington
 * 💵Jean Hill - Washington State Catholic Conference
+* 💵Brad Payne - Family Policy Institute of Washington
 
 #### 0 ❓ - Other
 

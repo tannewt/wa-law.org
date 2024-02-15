@@ -17,13 +17,7 @@
 
 ## Meetings
 ### Thu 02/15 08:00 AM - Education (ED): E2SSB 5670 Running start/10th grade
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31901&aId=158949&caId=23953&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31901&aId=158949&caId=23953&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31901&aId=158949&caId=23953&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31901&aId=158949&caId=23953&tId=4)
-
-#### 9 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Dr. Faimous Harrison - Wenatchee Valley College
 * Jamie Traugott - Washington State Board for Community and Technical Colleges

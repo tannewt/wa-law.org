@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31956&aId=159082&caId=24056&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31956&aId=159082&caId=24056&tId=4)
 
-#### 54 👍 - Pro
+#### 55 👍 - Pro
 Testifying:
 * 💵Carolyn Logue - WA Air Conditioning Contractors Assoc & NW Hearth, Patio & Barbecue Assn
 * 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)

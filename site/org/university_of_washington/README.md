@@ -209,8 +209,9 @@
 * 👍 Joe Dacca
 * 👍 Joe Dacca
 
-## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  
+## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍2  
 * 👍💵 Morgan Hickel
+* 👍 Joe Dacca
 
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
 * 👍💵 Morgan Hickel

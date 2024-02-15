@@ -27,7 +27,7 @@ Testifying:
 * 💵Joel Anderson - Washington Student Achievement Council
 * Jennifer Dellinger - SBCTC
 * Jacob Vigdor - University of Washington Faculty
-* Isela Bonilla - Associated Students of WSU Vancouver
+* 💵Isela Bonilla - Associated Students of WSU Vancouver
 * Ben Mitchell - Foundation for Tacoma Students
 * Michelle Carrillo - ASCWU Legislative Liaison
 * Samuel Ligon - Eastern Washington University Faculty

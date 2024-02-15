@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=159058&caId=24076&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=159058&caId=24076&tId=4)
 
-#### 8 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Cebell Berry
 

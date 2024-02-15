@@ -12,17 +12,11 @@
 
 ## Meetings
 ### Thu 02/15 08:00 AM - Community Safety, Justice, & Reentry (CSJR): SSB 5588 Mental health sentencing alt
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31914&aId=158847&caId=23938&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31914&aId=158847&caId=23938&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31914&aId=158847&caId=23938&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31914&aId=158847&caId=23938&tId=4)
-
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Kari Reardon - WDA/WACDL
 
-#### 14 👎 - Con
+#### 30 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 

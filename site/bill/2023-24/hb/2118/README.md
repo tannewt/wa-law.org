@@ -23,14 +23,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159442&caId=24216&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159442&caId=24216&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
 
-#### 9 👎 - Con
+#### 26 👎 - Con
 Testifying:
 * 💵Troy Nichols - National Shooting Sports Foundation
 * 💵Aoibheann Cline - NRA
 * Laurie Layne
 * Teo Morca
+* Jody Lewis
+* Tim Eyman - Initiative activist
+* 💵Karen Strickland - [Pawn 1](/org/pawn_1/)
 
 #### 0 ❓ - Other
 

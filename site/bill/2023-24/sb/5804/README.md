@@ -15,13 +15,7 @@
 
 ## Meetings
 ### Thu 02/15 08:00 AM - Education (ED): SSB 5804 Opioid overdose med./schools
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31901&aId=158895&caId=23952&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31901&aId=158895&caId=23952&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31901&aId=158895&caId=23952&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31901&aId=158895&caId=23952&tId=4)
-
-#### 34 👍 - Pro
+#### 37 👍 - Pro
 Testifying:
 * Rian Alam
 * Kassie Montgomery - Lake Washington

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1939/</link>
 		<description>Updates about HB 1939</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Feb 2024 09:37:33 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2024 06:37:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -198,6 +198,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Charles/Wharton/2024-02-14 09:37:33</guid>
+		</item>
+		<item>
+			<title>👍Kaitlyn Bison - The Council of State Governments</title>
+			<description>Kaitlyn Bison signed up to testify Pro. They are signed up to represent The Council of State Governments.</description>
+			<pubDate>Thu, 15 Feb 2024 06:30:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kaitlyn/Bison/2024-02-15 06:30:29</guid>
+		</item>
+		<item>
+			<title>❓Shawna Fox - Washington State Department of Health</title>
+			<description>Shawna Fox signed up to testify Other. They are signed up to represent Washington State Department of Health.</description>
+			<pubDate>Thu, 15 Feb 2024 06:37:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Shawna/Fox/2024-02-15 06:37:43</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2382/</link>
 		<description>Updates about HB 2382</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -125,6 +125,13 @@
 			<pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-13/Third reading, passed; yeas, 57; nays, 40; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Labor &amp; Commerce (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Labor &amp; Commerce (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-15/First reading, referred to Labor &amp; Commerce (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 	</channel>
 </rss>

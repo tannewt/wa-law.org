@@ -19,7 +19,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159428&caId=24235&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159428&caId=24235&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Sara Robbins - Director, Washington State Office of Civil Legal Aid
 
 #### 0 👎 - Con
 
@@ -38,10 +41,11 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Mica Slater - BrightSpark Early Learning Services
 * 💵Melissa Johnson - Washington State Association of Head Start & ECEAP
+* Aida Rodriguez - [The Imagine Institute](/org/the_imagine_institute/)
 
 ### Mon 02/19 04:00 PM - Ways & Means (WM): PSSB 5950: Employee compensation. (Remote Testimony Available).
 Sign up to testify:
@@ -76,11 +80,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159426&caId=24233&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159426&caId=24233&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* 💵Michael White - [King County](/org/king_county/)
+* 💵Brad Forbes - Alzheimer's Association
+* 💵Melanie Smith - WA State Long Term Care Ombuds Program
 
 #### 0 👎 - Con
 
-#### 8 ❓ - Other
+#### 11 ❓ - Other
 Testifying:
 * Laurie Lippold - Partners for Our Children
 * Erika Bartlett - Tacoma-Pierce County Public Health
@@ -90,6 +98,9 @@ Testifying:
 * Dr. Stephan Blanford - The Children's Alliance
 * 💵Karen Pillar - TeamChild
 * 💵Melissa Johnson - [Community Residential Services Association](/org/community_residential_services_association/)
+* 💵Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
+* 💵Samuel Martin - Washington Coalition for Homeless Youth Advocacy
+* Stacy Christ - [Full Life Care](/org/full_life_care/)
 
 ### Mon 02/19 04:00 PM - Ways & Means (WM): PSSB 5950: K-12 public schools. (Remote Testimony Available).
 Sign up to testify:
@@ -102,9 +113,10 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
+* 💵Melissa Gombosky - Association of Educational Service Districts
 
 ### Mon 02/19 04:00 PM - Ways & Means (WM): PSSB 5950: Mental health. (Remote Testimony Available).
 Sign up to testify:

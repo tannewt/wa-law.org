@@ -9,7 +9,9 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/14/2024 [NW News Network](/org/nw_news_network/) - [WA House approves rent stabilization bill, teeing up legislative showdown in the Senate | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-02-14/wa-house-approves-rent-stabilization-bill-teeing-up-legislative-showdown-in-the-senate#:~:text=House%20Bill%202114)
 * 02/14/2024 [The Center Square](/org/the_center_square/) - [Washington House passes bill limiting rent hikes to 7% | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_82cb3f00-cae9-11ee-b931-73a8817fcd66.html#:~:text=HB%202114)
+* 02/14/2024 [Gorge News Center](/org/gorge_news_center/) - [Rent control passes House; Republicans warn partisan bill could result in less housing and higher rents](https://gorgenewscenter.com/2024/02/14/rent-control-passes-house-republicans-warn-partisan-bill-could-result-in-less-housing-and-higher-rents/#:~:text=House%20Bill%202114)
 * 02/13/2024 [The Urbanist](/org/the_urbanist/) - [Rent Stabilization Backers Aim to Beat Deadline to Keep Bill Alive - The Urbanist](https://www.theurbanist.org/2024/02/13/rent-stabilization-backers-aim-to-beat-deadline-to-keep-bill-alive/#:~:text=House%20Bill%202114)
 * 02/13/2024 [The Seattle Times](/org/the_seattle_times/) - [WA House votes to limit rent hikes; tough Senate road awaits | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-house-votes-to-limit-rent-hikes-tough-senate-road-awaits/#:~:text=House%20Bill%202114)
 * 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024/#:~:text=HB%202114)
@@ -38,6 +40,26 @@
 * [Cascadia Daily News](/org/cascadia_daily_news/) - [Rent-cap bill gets second chance in Olympia](https://cascadiadaily.com/news/2024/jan/15/rent-cap-bill-gets-second-chance-in-olympia/#:~:text=House%20Bill%202114)
 
 ## Meetings
+### Thu 02/22 01:30 PM - Ways & Means (WM): ESHB 2114 Residential tenants
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=159803&caId=24332&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=159803&caId=24332&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=159803&caId=24332&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=159803&caId=24332&tId=4)
+
+#### 39 👍 - Pro
+Testifying:
+* Stacey Valenzuela - Manufactured Homeowner
+* Don Carlson - Retired State, Senator and Tennant at Brookdale Greens Manu. Homes
+* 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+
+#### 5 👎 - Con
+Testifying:
+* Christie Malchow
+* Constance Nelson
+
+#### 0 ❓ - Other
+
 ### Wed 01/24 04:00 PM - Appropriations (APP): HB 2114 Residential tenants
 #### 1582 👍 - Pro
 Testifying:

@@ -121,13 +121,15 @@
 
 ## [HB 1499](/bill/2023-24/hb/1499/) - Food assistance funding 👍1  
 
+## [HB 1510](/bill/2023-24/hb/1510/) - Community preservation auth. 👍1  
+
 ## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍2  
 
 ## [HB 1530](/bill/2023-24/hb/1530/) - Law enf. employ. eligibility 👍1  
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍3  
 
-## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍4  
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍5  
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
 
@@ -161,7 +163,7 @@
 
 ## [HB 1934](/bill/2023-24/hb/1934/) - AI task force 👍2  
 
-## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍1  
+## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍2  
 
 ## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
 
@@ -169,13 +171,13 @@
 
 ## [HB 1952](/bill/2023-24/hb/1952/) - Disasters/long-term recovery 👍1  
 
-## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
+## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍2  
 
 ## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍2  
 
 ## [HB 1986](/bill/2023-24/hb/1986/) - Adding purposes for the use of existing firefighter safety funding. 👍1  
 
-## [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍1  
+## [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍2  
 
 ## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍2  
 
@@ -207,13 +209,15 @@
 
 ## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention 👍3  
 
+## [HB 2115](/bill/2023-24/hb/2115/) - Prescription labels/abortion 👍1  
+
 ## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍1  
 
 ## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍1  
 
 ## [HB 2145](/bill/2023-24/hb/2145/) - Concerning medically necessary treatment of a mental health or substance use disorder. 👍1  
 
-## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍1  
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍2  
 
 ## [HB 2172](/bill/2023-24/hb/2172/) - Vacant state agency property 👍2  
 
@@ -229,7 +233,7 @@
 
 ## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍2  
 
-## [HB 2252](/bill/2023-24/hb/2252/) - Small businesses/residential   ❓1
+## [HB 2252](/bill/2023-24/hb/2252/) - Small businesses/residential   ❓2
 
 ## [HB 2266](/bill/2023-24/hb/2266/) - Construction/sanitary cond. 👍1  
 
@@ -269,7 +273,7 @@
 ## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras 👍1  
 * 👍 Tim Burgess
 
-## [HB 2415](/bill/2023-24/hb/2415/) - Economic assistance/TANF 👍1  
+## [HB 2415](/bill/2023-24/hb/2415/) - Economic assistance/TANF 👍2  
 
 ## [HB 2441](/bill/2023-24/hb/2441/) - College in the HS fees 👍1  
 
@@ -399,9 +403,9 @@
 
 ## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave 👍1  
 
-## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose/high schools 👍1  
+## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose/high schools 👍2  
 
-## [SB 5812](/bill/2023-24/sb/5812/) - Electric vehicle fires 👍1  
+## [SB 5812](/bill/2023-24/sb/5812/) - Electric vehicle fires 👍2  
 
 ## [SB 5838](/bill/2023-24/sb/5838/) - AI task force 👍2  
 
@@ -440,7 +444,7 @@
 
 ## [SB 5993](/bill/2023-24/sb/5993/) - Voter education   ❓1
 
-## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍2  
+## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍3  
 
 ## [SB 6007](/bill/2023-24/sb/6007/) - Grocery workers 👍2  
 

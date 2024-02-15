@@ -9,7 +9,7 @@
 
 ## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
 
-## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍2  
+## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍3  
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
 * ❓ Janice DeGuchi

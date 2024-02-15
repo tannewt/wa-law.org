@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5825/</link>
 		<description>Updates about SB 5825</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2024 10:23:54 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -188,6 +188,14 @@
 			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-09/First reading, referred to Civil Rights &amp; Judiciary.</guid>
+		</item>
+		<item>
+			<title>👍Robert Nettleton - Harlowe &amp; Falk LLP</title>
+			<description>Robert Nettleton signed up to testify Pro. They are signed up to represent Harlowe &amp; Falk LLP.</description>
+			<pubDate>Thu, 15 Feb 2024 10:23:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Robert/Nettleton/2024-02-15 10:23:54</guid>
 		</item>
 	</channel>
 </rss>

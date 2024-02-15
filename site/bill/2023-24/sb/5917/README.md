@@ -16,19 +16,13 @@
 
 ## Meetings
 ### Thu 02/15 08:00 AM - Community Safety, Justice, & Reentry (CSJR): SSB 5917 Bias-motivated defacement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31914&aId=158896&caId=23940&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31914&aId=158896&caId=23940&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31914&aId=158896&caId=23940&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31914&aId=158896&caId=23940&tId=4)
-
-#### 9 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * KJ January - Spectrum Center
 * Matt Danielson - Spokane Pride
 * 💵Paul Dillon - [City of Spokane](/org/city_of_spokane/)
 
-#### 62 👎 - Con
+#### 90 👎 - Con
 
 #### 0 ❓ - Other
 

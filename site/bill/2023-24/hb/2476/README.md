@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159159&caId=24128&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159159&caId=24128&tId=4)
 
-#### 429 👍 - Pro
+#### 572 👍 - Pro
 Testifying:
 * Zachary Stevens
 * K Burnell Schaetzel-Hill
@@ -24,7 +24,7 @@ Testifying:
 * MD, Dr. Sung-Won Kim
 * 💵Sean Graham - Washington State Medical Association
 
-#### 13 👎 - Con
+#### 30 👎 - Con
 Testifying:
 * 💵Gary Strannigan - [Premera Blue Cross](/org/premera_blue_cross/)
 * Chris Bandoli - National Association of Benefits & Insurance Professionals - WA
@@ -32,4 +32,7 @@ Testifying:
 * 💵Gary Strannigan - [Premera Blue Cross](/org/premera_blue_cross/)
 * 💵Jennifer Muhm - [Regence Blue Shield](/org/regence_blue_shield/)
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Evan Klein - Health Care Authority (HCA) - Special Assistant, Legislative & Policy Affairs
+* Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)

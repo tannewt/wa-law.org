@@ -33,11 +33,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159732&caId=24226&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159732&caId=24226&tId=4)
 
-#### 20 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * Maddy Thompson
+* 💵Melissa Gombosky - Evergreen and Vancouver Public Schools
+* Anna Lising - Governor's Office
+* Molly Williams - Department of Ecology
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

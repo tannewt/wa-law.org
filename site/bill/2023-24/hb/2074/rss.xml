@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2074/</link>
 		<description>Updates about HB 2074</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Feb 2024 07:46:13 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2024 11:51:10 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,7 +30,7 @@
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Agriculture and Natural Resources.</guid>
 		</item>
 		<item>
-			<title>👍MICHELE KIESZ - Washington State Department of Agriculture</title>
+			<title>👍MICHELE KIESZ - Department of Ecology</title>
 			<description>MICHELE KIESZ signed up to testify Pro.</description>
 			<pubDate>Sat, 13 Jan 2024 03:09:06 GMT</pubDate>
 			<category>testifier</category>
@@ -38,7 +38,7 @@
 			<guid isPermaLink="false">testifier/MICHELE/KIESZ/2024-01-13 03:09:06</guid>
 		</item>
 		<item>
-			<title>👍Robert Hailey - Washington State Department of Agriculture</title>
+			<title>👍Robert Hailey - Department of Ecology</title>
 			<description>Robert Hailey signed up to testify Pro.</description>
 			<pubDate>Sat, 13 Jan 2024 03:10:09 GMT</pubDate>
 			<category>testifier</category>
@@ -95,6 +95,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Michele/Kiesz/2024-02-12 07:46:13</guid>
+		</item>
+		<item>
+			<title>❓Dave Christensen - Department of Ecology</title>
+			<description>Dave Christensen signed up to testify Other. They are signed up to represent Department of Ecology.</description>
+			<pubDate>Thu, 15 Feb 2024 09:05:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Dave/Christensen/2024-02-15 09:05:12</guid>
+		</item>
+		<item>
+			<title>👍Brian Kiesz - Washington State Department of Agriculture</title>
+			<description>Brian Kiesz signed up to testify Pro.</description>
+			<pubDate>Thu, 15 Feb 2024 11:51:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brian/Kiesz/2024-02-15 11:51:10</guid>
 		</item>
 	</channel>
 </rss>

@@ -20,9 +20,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159729&caId=24223&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159729&caId=24223&tId=4)
 
-#### 4 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* 💵Melissa Gombosky - Spokane, Evergreen, Vancouver and Richland School District
+* Jim Kowalkowski - Rural Education Center
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * John Axtell
 

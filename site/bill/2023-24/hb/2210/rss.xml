@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2210/</link>
 		<description>Updates about HB 2210</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2024 05:53:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -37,7 +37,7 @@
 			<guid isPermaLink="false">2024-01-23/Referred to Appropriations.</guid>
 		</item>
 		<item>
-			<title>👍Ella Menter - ASIA PACIFIC CULTURAL CENTER</title>
+			<title>👍Ella Menter - FOTi/PUA</title>
 			<description>Ella Menter signed up to testify Pro.</description>
 			<pubDate>Tue, 30 Jan 2024 12:16:35 GMT</pubDate>
 			<category>testifier</category>
@@ -71,6 +71,29 @@
 			<pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-13/Third reading, passed; yeas, 95; nays, 2; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Human Services (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Human Services (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-15/First reading, referred to Human Services (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>❓Marla Katz - Animal Welfare Volunteer, and friend of Horse Harbor Foundation</title>
+			<description>Marla Katz signed up to testify Other. They are signed up to represent Animal Welfare Volunteer, and friend of Horse Harbor Foundation.</description>
+			<pubDate>Thu, 15 Feb 2024 05:44:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Marla/Katz/2024-02-15 05:44:21</guid>
+		</item>
+		<item>
+			<title>❓Kehaulani Walker - FOTi/PUA</title>
+			<description>Kehaulani Walker signed up to testify Other. They are signed up to represent FOTi/PUA.</description>
+			<pubDate>Thu, 15 Feb 2024 05:53:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Kehaulani/Walker/2024-02-15 05:53:17</guid>
 		</item>
 	</channel>
 </rss>

@@ -81,6 +81,8 @@
 
 ## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍1  
 
+## [SB 5648](/bill/2023-24/sb/5648/) - Board of education waivers 👍1  
+
 ## [SB 5809](/bill/2023-24/sb/5809/) - Charter schools/enrichment 👍1  
 
 ## [SB 5819](/bill/2023-24/sb/5819/) - Financial education   ❓1

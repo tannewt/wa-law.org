@@ -17,16 +17,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=158998&caId=23994&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=158998&caId=23994&tId=4)
 
-#### 41 👍 - Pro
+#### 72 👍 - Pro
 Testifying:
 * Suzie Hanson - WA Federation of Independent Schools
 
 #### 1 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Anna Hernandez-French - Office of Superintendent of Public Instruction
 * 💵Zackary Turner - PESB
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 
 ### Tue 03/21 04:00 PM - Ways & Means (WM): ESHB 1377 Continuing education/K-12
 #### 13 👍 - Pro
