@@ -101,6 +101,8 @@
 
 ## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg. 👍2  
 
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍1  
+
 ## [HB 2211](/bill/2023-24/hb/2211/) - Criminal justice local tax 👍1  
 
 ## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍1  

@@ -11,6 +11,19 @@
 * 02/13/2024 [House Democrats](/org/house_democrats/) - [House passes Peterson bills to help families with low incomes  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/13/house-passes-peterson-bills-to-help-families-with-low-incomes/#:~:text=2230)
 
 ## Meetings
+### Mon 02/19 10:30 AM - Human Services (HS): SHB 2230 Economic security grants
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159678&caId=24202&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159678&caId=24202&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159678&caId=24202&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159678&caId=24202&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Sat 02/03 09:00 AM - Appropriations (APP): SHB 2230 Economic security grants
 #### 40 👍 - Pro
 Testifying:

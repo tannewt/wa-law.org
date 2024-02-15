@@ -13,6 +13,19 @@
 * 01/19/2024 [House Democrats](/org/house_democrats/) - [Fey bill aims to retain experienced Washington State Patrol troopers – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/19/fey-bill-aims-to-retain-experienced-washington-state-patrol-troopers/#:~:text=House%20Bill%202357)
 
 ## Meetings
+### Tue 02/20 04:00 PM - Transportation (TRAN): SHB 2357 State patrol longevity bonus
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159723&caId=24251&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159723&caId=24251&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159723&caId=24251&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159723&caId=24251&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/22 04:00 PM - Transportation (TR): HB 2357 State patrol longevity bonus
 #### 5 👍 - Pro
 Testifying:

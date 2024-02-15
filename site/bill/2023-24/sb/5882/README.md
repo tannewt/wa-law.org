@@ -23,14 +23,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159147&caId=24106&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159147&caId=24106&tId=4)
 
-#### 101 👍 - Pro
+#### 128 👍 - Pro
 Testifying:
 * Justin McKaughan
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Marissa Rathbone - Washington State School Directors' Association
+* Satvik Reddy
 * Rick Chisa - Public School Employees of WA/SEIU 1948
 
-#### 303 👎 - Con
+#### 386 👎 - Con
 Testifying:
 * Liv Finne - Washington Policy Center
 * Jeannette Mcchesney

@@ -18,11 +18,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158990&caId=23926&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158990&caId=23926&tId=4)
 
-#### 2 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * David Martin - KCPAO DV Unit
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Ramona Brandes - WACDL/WDA
+* Ramona Brandes - WACDL/WDA
 
 #### 0 ❓ - Other
 

@@ -90,6 +90,9 @@
 ## [HB 1449](/bill/2023-24/hb/1449/) - Project permits/reports 👍1  
 * 👍💵 Bill Stauffacher
 
+## [HB 1468](/bill/2023-24/hb/1468/) - Impact fee deferrals 👍1  
+* 👍💵 Bill Stauffacher
+
 ## [HB 1476](/bill/2023-24/hb/1476/) - Impact fees/law enforcement  👎1 
 * 👎💵 Bill Stauffacher
 
@@ -149,8 +152,9 @@
 ## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects  👎1 
 * 👎💵 Jan Himebaugh
 
-## [HB 2071](/bill/2023-24/hb/2071/) - Residential housing 👍1  ❓1
+## [HB 2071](/bill/2023-24/hb/2071/) - Residential housing 👍2  ❓1
 * ❓💵 Bill Stauffacher
+* 👍💵 Bill Stauffacher
 * 👍💵 Bill Stauffacher
 
 ## [HB 2087](/bill/2023-24/hb/2087/) - Apprenticeship objections 👍1  

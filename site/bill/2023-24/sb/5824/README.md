@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31912&aId=158843&caId=23982&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31912&aId=158843&caId=23982&tId=4)
 
-#### 9 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * 💵Carolyn Logue - [Washington Library Association](/org/washington_library_association/)
 * Elise Severe - Neighbors United for Progress

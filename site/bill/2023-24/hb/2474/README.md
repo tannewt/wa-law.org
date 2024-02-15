@@ -12,6 +12,23 @@
 * 02/14/2024 [The Urbanist](/org/the_urbanist/) - [Redmond Swoops In To Save Kenmore’s Cancelled Low-Income Housing Project - The Urbanist](https://www.theurbanist.org/2024/02/14/redmond-swoops-in-to-save-kenmores-cancelled-low-income-housing-project/#:~:text=HB%202474)
 
 ## Meetings
+### Tue 02/20 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): ESHB 2474 Transitional housing siting
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31992&aId=159453&caId=24239&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31992&aId=159453&caId=24239&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31992&aId=159453&caId=24239&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31992&aId=159453&caId=24239&tId=4)
+
+#### 6 👍 - Pro
+Testifying:
+* Jon Culver
+
+#### 12 👎 - Con
+Testifying:
+* Salim Nice - Mayor, City Mercer Island
+
+#### 0 ❓ - Other
+
 ### Sat 02/03 09:00 AM - Appropriations (APP): HB 2474 Transitional housing siting
 #### 87 👍 - Pro
 Testifying:

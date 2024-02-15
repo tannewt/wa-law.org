@@ -20,11 +20,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159180&caId=24141&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159180&caId=24141&tId=4)
 
-#### 11 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Mina Hashemi
 * Emma Schwartz - The Adjacent Project
 * Natalie Beetham
+* Jennifer Friedman
 * Georgilee Flynn
 
 #### 0 👎 - Con

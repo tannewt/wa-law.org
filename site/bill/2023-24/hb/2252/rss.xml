@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2252/</link>
 		<description>Updates about HB 2252</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Feb 2024 13:15:31 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Feb 2024 08:04:28 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2024-01-09/First reading, referred to Local Government.</guid>
 		</item>
 		<item>
-			<title>👍Scott Bonjukian - Association of Washington Cities</title>
+			<title>👍Scott Bonjukian - City of Bellevue</title>
 			<description>Scott Bonjukian signed up to testify Pro.</description>
 			<pubDate>Wed, 17 Jan 2024 07:49:07 GMT</pubDate>
 			<category>testifier</category>
@@ -40,7 +40,7 @@
 			<guid isPermaLink="false">testifier/Carl/Schroeder/2024-01-22 10:37:38</guid>
 		</item>
 		<item>
-			<title>👍Paul Woods - Association of Washington Cities</title>
+			<title>👍Paul Woods - City of Bellevue</title>
 			<description>Paul Woods signed up to testify Pro.</description>
 			<pubDate>Tue, 23 Jan 2024 08:04:16 GMT</pubDate>
 			<category>testifier</category>
@@ -117,6 +117,14 @@
 			<pubDate>Tue, 13 Feb 2024 13:15:31 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024/#:~:text=HB%202252</guid>
+		</item>
+		<item>
+			<title>❓💵Briahna Murray - City of Bellevue</title>
+			<description>Briahna Murray signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/city_of_bellevue/&quot;&gt;City of Bellevue&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 14 Feb 2024 08:04:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Briahna/Murray/2024-02-14 08:04:28</guid>
 		</item>
 	</channel>
 </rss>

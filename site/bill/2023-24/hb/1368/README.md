@@ -26,6 +26,21 @@
 * 02/06/2023 [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=HB%201368)
 
 ## Meetings
+### Mon 02/19 01:30 PM - Early Learning & K-12 Education (EDU): E2SHB 1368 Zero emission school buses
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159732&caId=24226&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159732&caId=24226&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159732&caId=24226&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159732&caId=24226&tId=4)
+
+#### 20 👍 - Pro
+Testifying:
+* Maddy Thompson
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/11 04:00 PM - Appropriations (APP): SHB 1368 Zero emission school buses
 #### 417 👍 - Pro
 Testifying:

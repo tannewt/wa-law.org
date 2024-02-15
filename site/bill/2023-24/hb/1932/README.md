@@ -29,7 +29,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159099&caId=24034&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159099&caId=24034&tId=4)
 
-#### 234 👍 - Pro
+#### 274 👍 - Pro
 Testifying:
 * G. Agustin Markarian
 * 💵Shannon Grimes - [Sightline Institute](/org/sightline_institute/)
@@ -40,7 +40,7 @@ Testifying:
 * 💵Madeline Bishop
 * Chris Roberts - [City of Shoreline](/org/city_of_shoreline/)
 
-#### 776 👎 - Con
+#### 792 👎 - Con
 Testifying:
 * Laurie Layne
 * Tim Eyman - Initiative Activist

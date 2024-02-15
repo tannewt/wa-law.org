@@ -5,4 +5,7 @@
 * 👍 MATTHEW HUTCHINS AIA CPHD
 * 👍 AIA CPHD, MATTHEW HUTCHINS
 
+## [HB 2071](/bill/2023-24/hb/2071/) - Residential housing 👍1  
+* 👍 Julie Blazek
+
 ## [HB 2158](/bill/2023-24/hb/2158/) - Urban growth area boundaries  👎1 

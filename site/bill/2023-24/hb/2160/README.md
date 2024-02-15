@@ -23,16 +23,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159642&caId=24188&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159642&caId=24188&tId=4)
 
-#### 85 👍 - Pro
+#### 393 👍 - Pro
 Testifying:
 * Joe Kunzler - TOD Fan Club
+* Jim Hammond - [City of Shoreline](/org/city_of_shoreline/)
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * Noha Mahgoub - Governor's Office
 
-#### 4 👎 - Con
+#### 14 👎 - Con
 Testifying:
 * Salim Nice - Mayor, City Mercer Island
+* Layla Khademi - NAIOP WA
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 
 ### Thu 01/25 01:30 PM - Capital Budget (CB): SHB 2160 Housing development
 #### 688 👍 - Pro

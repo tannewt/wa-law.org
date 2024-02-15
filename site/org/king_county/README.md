@@ -374,6 +374,8 @@
 
 ## [HB 2158](/bill/2023-24/hb/2158/) - Urban growth area boundaries  👎1 
 
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍1  
+
 ## [HB 2186](/bill/2023-24/hb/2186/) - Juv. deferred adjudications 👍1  
 
 ## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities 👍1  

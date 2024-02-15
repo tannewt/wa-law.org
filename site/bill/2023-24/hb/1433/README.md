@@ -17,6 +17,19 @@
 * 10/09/2017 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Environmental Stewardship Priorities — Quaker Voice](https://www.quakervoicewa.org/environmental-stewardship-priorities/#:~:text=HB%201433)
 
 ## Meetings
+### Tue 02/20 01:30 PM - Environment, Energy & Technology (ENET): E3SHB 1433 Energy labeling/residential
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32003&aId=159363&caId=24242&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32003&aId=159363&caId=24242&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32003&aId=159363&caId=24242&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32003&aId=159363&caId=24242&tId=4)
+
+#### 6 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 03/24 08:00 AM - Environment, Energy & Technology (ENET): 2SHB 1433 Energy labeling/residential
 #### 153 👍 - Pro
 Testifying:

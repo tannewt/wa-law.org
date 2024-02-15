@@ -18,14 +18,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31938&aId=159208&caId=24130&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31938&aId=159208&caId=24130&tId=4)
 
-#### 28 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * Katie Hurley - King County Department of Public Defense
 * Giannina Ferrara - [Center for Children & Youth Justice](/org/center_for_children_&_youth_justice/)
 * Stephanie Hinshaw - Community volunteer
 * Judge Kristin Ferrera - Superior Court Judges' Association
 
-#### 7 👎 - Con
+#### 8 👎 - Con
 
 #### 0 ❓ - Other
 

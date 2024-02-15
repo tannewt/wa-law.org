@@ -5,6 +5,8 @@
 
 ## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍2  
 
+## [HB 1608](/bill/2023-24/hb/1608/) - Anaphylaxis meds./schools 👍1  
+
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial 👍1  
 * 👍 Charlie Brown
 

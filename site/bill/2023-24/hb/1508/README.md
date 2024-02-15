@@ -23,11 +23,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=159003&caId=23985&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=159003&caId=23985&tId=4)
 
-#### 162 👍 - Pro
+#### 187 👍 - Pro
 
 #### 5 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* 💵Sean Graham - Washington State Medical Assocation (WSMA)
 
 ### Fri 03/17 08:00 AM - Health & Long Term Care (HLTC): ESHB 1508 Health care cost board
 #### 136 👍 - Pro

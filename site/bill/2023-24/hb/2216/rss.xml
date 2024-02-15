@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2216/</link>
 		<description>Updates about HB 2216</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Feb 2024 04:17:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2024-01-09/First reading, referred to State Government &amp; Tribal Relations.</guid>
 		</item>
 		<item>
-			<title>👍Arthur West - Evergreen, Vancouver, and Richland School Districts</title>
+			<title>👍Arthur West - Office of Financial Management</title>
 			<description>Arthur West signed up to testify Pro.</description>
 			<pubDate>Thu, 18 Jan 2024 03:37:23 GMT</pubDate>
 			<category>testifier</category>
@@ -101,6 +101,14 @@
 			<pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-12/First reading, referred to State Government &amp; Elections.</guid>
+		</item>
+		<item>
+			<title>👍Chelsea Lee - Office of Financial Management</title>
+			<description>Chelsea Lee signed up to testify Pro. They are signed up to represent Office of Financial Management.</description>
+			<pubDate>Wed, 14 Feb 2024 04:17:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Chelsea/Lee/2024-02-14 04:17:27</guid>
 		</item>
 	</channel>
 </rss>

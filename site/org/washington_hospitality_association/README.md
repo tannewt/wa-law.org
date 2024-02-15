@@ -87,11 +87,13 @@
 
 ## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍2  
 
-## [HB 1898](/bill/2023-24/hb/1898/) - Concerning unemployment insurance benefit charging. 👍1  
+## [HB 1898](/bill/2023-24/hb/1898/) - Concerning unemployment insurance benefit charging. 👍2  
 * 👍💵 Julia Gorton
 
 ## [HB 1900](/bill/2023-24/hb/1900/) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system.   ❓1
 * ❓💵 Samantha Louderback
+
+## [HB 1901](/bill/2023-24/hb/1901/) - Removing the sunset on changes to the unemployment insurance voluntary contribution program. 👍1  
 
 ## [HB 1934](/bill/2023-24/hb/1934/) - AI task force   ❓2
 * ❓ Montana Miranda

@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Wed 02/14 04:00 PM - Agriculture, Water, Natural Resources & Parks (AWNP): HB 1153 Octopus farming
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31926&aId=159317&caId=24166&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31926&aId=159317&caId=24166&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31926&aId=159317&caId=24166&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31926&aId=159317&caId=24166&tId=4)
-
-#### 173 👍 - Pro
+#### 183 👍 - Pro
 Testifying:
 * 💵Brenna Anderst - Pasado's Safe Haven/Education & Advocacy Director
 * Jennifer Jacquet

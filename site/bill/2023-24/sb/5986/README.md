@@ -12,7 +12,7 @@
 
 ## Meetings
 ### Wed 02/14 01:30 PM - Health Care & Wellness (HCW): SSB 5986 Out-of-network health costs
-#### 100 👍 - Pro
+#### 101 👍 - Pro
 Testifying:
 * Chris Cato - EMS Division Chief - Pend Oreille County Fire District
 * Lena Qiu

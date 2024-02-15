@@ -81,6 +81,9 @@
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1  
 * 👍💵 Justin Allegro
 
+## [HB 1818](/bill/2023-24/hb/1818/) - Forestland/compensating tax 👍1  
+* 👍 Scott Richards
+
 ## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍1  
 
 ## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍1  

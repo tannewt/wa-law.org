@@ -355,7 +355,8 @@
 
 ## [SB 5817](/bill/2023-24/sb/5817/) - Economic development info. 👍1  
 
-## [SB 5835](/bill/2023-24/sb/5835/) - Rule making websites 👍2  
+## [SB 5835](/bill/2023-24/sb/5835/) - Rule making websites 👍3  
+* 👍💵 Mark Johnson
 * 👍💵 Mark Johnson
 
 ## [SB 5838](/bill/2023-24/sb/5838/) - AI task force   ❓2
@@ -368,7 +369,7 @@
 ## [SB 5894](/bill/2023-24/sb/5894/) - Equal pay/protected classes   ❓1
 * ❓ Rose GUNDERSEN
 
-## [SB 5897](/bill/2023-24/sb/5897/) - Modifying provisions of the business licensing service program. 👍1  
+## [SB 5897](/bill/2023-24/sb/5897/) - Modifying provisions of the business licensing service program. 👍2  
 * 👍💵 Mark Johnson
 
 ## [SB 5924](/bill/2023-24/sb/5924/) - Access to personnel records  👎1 
@@ -399,7 +400,8 @@
 ## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍1  
 * 👍💵 Crystal Leatherman
 
-## [SB 6080](/bill/2023-24/sb/6080/) - Tourism marketing funding 👍2  
+## [SB 6080](/bill/2023-24/sb/6080/) - Tourism marketing funding 👍3  
+* 👍💵 Mark Johnson
 * 👍💵 Mark Johnson
 * 👍💵 Mark Johnson
 
@@ -432,3 +434,5 @@
 ## [SB 6301](/bill/2023-24/sb/6301/) - Basic law enf. academy 👍1  
 
 ## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍1  
+
+## [SJM 8009](/bill/2023-24/sjm/8009/) - Harbor maintenance tax 👍1  

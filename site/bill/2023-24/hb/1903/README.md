@@ -17,6 +17,22 @@
 * 12/13/2023 [House Democrats](/org/house_democrats/) - [Rep. Liz Berry to attend White House Legislative Convening on Gun Violence Prevention  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/12/13/rep-liz-berry-to-attend-white-house-legislative-convening-on-gun-violence-prevention/#:~:text=HB%201903)
 
 ## Meetings
+### Mon 02/19 10:30 AM - Law & Justice (LAW): SHB 1903 Lost or stolen firearms
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159240&caId=24211&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159240&caId=24211&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159240&caId=24211&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159240&caId=24211&tId=4)
+
+#### 0 👍 - Pro
+
+#### 3 👎 - Con
+Testifying:
+* 💵Aoibheann Cline - NRA
+* Teo Morca
+
+#### 0 ❓ - Other
+
 ### Tue 01/16 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1903 Lost or stolen firearms
 #### 795 👍 - Pro
 Testifying:

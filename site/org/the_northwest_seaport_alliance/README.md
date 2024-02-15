@@ -34,5 +34,6 @@
 ## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp.   ❓1
 * ❓ Sean Eagan
 
-## [SJM 8009](/bill/2023-24/sjm/8009/) - Harbor maintenance tax 👍1  
+## [SJM 8009](/bill/2023-24/sjm/8009/) - Harbor maintenance tax 👍2  
+* 👍 Sean Eagan
 * 👍 Sean Eagan

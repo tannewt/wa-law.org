@@ -16,15 +16,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=158926&caId=23963&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=158926&caId=23963&tId=4)
 
-#### 7 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Michele Radosevich - Uniform Law Commission
+* Quinn Shean - ATA Action
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Micah Matthews - Washington Medical Commission
+* 💵Greg Hanon - Washington State Veterinary Medical Assoc.
 * 💵Remy Kerr - Washington State Hospital Association
 
 ### Thu 02/02 10:30 AM - Health & Long Term Care (HLTC): SB 5481 Uniform telemedicine act

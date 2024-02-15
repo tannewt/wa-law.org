@@ -16,6 +16,19 @@
 * 12/20/2023 [Gorge News Center](/org/gorge_news_center/) - [Braun bill aimed at getting chronically absent students to re-engage with classes, resume path to graduation](https://gorgenewscenter.com/2023/12/20/braun-bill-aimed-at-getting-chronically-absent-students-to-re-engage-with-classes-resume-path-to-graduation/#:~:text=Senate%20Bill%205850)
 
 ## Meetings
+### Mon 02/19 01:30 PM - Education (ED): ESSB 5850 Chronically absent students
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31996&aId=159653&caId=24286&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31996&aId=159653&caId=24286&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31996&aId=159653&caId=24286&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31996&aId=159653&caId=24286&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/30 04:00 PM - Ways & Means (WM): SB 5850 Chronically absent students
 #### 161 👍 - Pro
 Testifying:

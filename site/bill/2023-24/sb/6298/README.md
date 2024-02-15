@@ -22,11 +22,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31929&aId=159037&caId=24068&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31929&aId=159037&caId=24068&tId=4)
 
-#### 6 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Kristiana de Leon - Association of Secular Elected Officials
+* Alex Ashley
 
-#### 10 👎 - Con
+#### 15 👎 - Con
 Testifying:
 * Theresa Schrempp
 * Rebecca Anderson
@@ -34,6 +35,10 @@ Testifying:
 * Peter Isely - Catholic Accountability Project
 * Robert Fontana - Catholic Accountability Project
 * Timothy LAW - Law & Law
+* Mary Dispenza - Catholic Accountability Project
+* Peter Isely - Catholic Accountability Project
+* Sarah Pearson - Catholic Accountability Project
+* Timothy LAW - Catholic Accountability Project
 
 #### 3 ❓ - Other
 Testifying:

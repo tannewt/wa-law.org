@@ -12,6 +12,8 @@
 ## [HB 1729](/bill/2023-24/hb/1729/) - Hydrogen fuel products 👍1  
 * 👍 Michelle Detwiler
 
+## [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍1  
+
 ## [SB 5091](/bill/2023-24/sb/5091/) - Hydrogen fuel products 👍2  
 * 👍 Michelle Detwiler
 * 👍 Michelle Detwiler

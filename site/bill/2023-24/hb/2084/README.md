@@ -12,6 +12,19 @@
 * 01/29/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Fosse Bill Expands Construction Apprenticeship Opportunities for Incarcerated Individuals – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/29/legislative-news-fosse-bill-expands-construction-apprenticeship-opportunities-for-incarcerated-individuals/#:~:text=House%20Bill%202084)
 
 ## Meetings
+### Mon 02/19 10:30 AM - Human Services (HS): 2SHB 2084 Construction training/DOC
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159396&caId=24198&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159396&caId=24198&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159396&caId=24198&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159396&caId=24198&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/22 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 2084 Construction training/DOC
 #### 123 👍 - Pro
 Testifying:

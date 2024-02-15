@@ -92,7 +92,7 @@
 
 ## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
 
-## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍1  
+## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍2  
 
 ## [HB 2086](/bill/2023-24/hb/2086/) - Office of indep. invest. 👍2  
 

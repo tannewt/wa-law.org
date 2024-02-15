@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Wed 02/14 04:00 PM - Transportation (TR): ESB 5590 Mt. St. Helens license plate
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31898&aId=159006&caId=24000&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31898&aId=159006&caId=24000&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31898&aId=159006&caId=24000&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31898&aId=159006&caId=24000&tId=4)
-
 #### 55 👍 - Pro
 Testifying:
 * Alyssa Hoyt - [Mount St. Helens Institute](/org/mount_st._helens_institute/)

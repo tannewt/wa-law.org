@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6016/</link>
 		<description>Updates about SB 6016</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Feb 2024 10:42:14 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Feb 2024 03:04:30 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -59,6 +59,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Afua/Kouyaté/2024-02-13 10:42:14</guid>
+		</item>
+		<item>
+			<title>👍Oveta Hunter - A.C.A.C African Cultural Arts Center</title>
+			<description>Oveta Hunter signed up to testify Pro. They are signed up to represent A.C.A.C African Cultural Arts Center.</description>
+			<pubDate>Wed, 14 Feb 2024 03:04:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Oveta/Hunter/2024-02-14 03:04:30</guid>
 		</item>
 	</channel>
 </rss>

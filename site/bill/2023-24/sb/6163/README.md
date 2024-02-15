@@ -11,6 +11,19 @@
 * 02/12/2024 [Gorge News Center](/org/gorge_news_center/) - [Senate passes Wilson bill to ‘get the scoop on the poop’](https://gorgenewscenter.com/2024/02/12/senate-passes-wilson-bill-to-get-the-scoop-on-the-poop/#:~:text=Senate%20Bill%206163)
 
 ## Meetings
+### Mon 02/19 01:30 PM - Environment & Energy (ENVI): SSB 6163 Biosolids
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31989&aId=159341&caId=24290&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31989&aId=159341&caId=24290&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31989&aId=159341&caId=24290&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31989&aId=159341&caId=24290&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/02 01:30 PM - Ways & Means (WM): SSB 6163 Biosolids
 #### 37 👍 - Pro
 Testifying:

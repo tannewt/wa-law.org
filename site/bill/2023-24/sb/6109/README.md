@@ -16,7 +16,7 @@
 
 ## Meetings
 ### Wed 02/14 01:30 PM - Human Services, Youth, & Early Learning (HSEL): 2SSB 6109 Children and families
-#### 20 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Chelsea Burroughs - WFSE Member
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)

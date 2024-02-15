@@ -12,6 +12,19 @@
 * 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%202089)
 
 ## Meetings
+### Tue 02/20 08:00 AM - Capital Budget (CB): PSHB 2089 - Concerning the capital budget. (Remote Testimony Available).
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32014&aId=159488&caId=24270&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32014&aId=159488&caId=24270&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32014&aId=159488&caId=24270&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32014&aId=159488&caId=24270&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/11 01:30 PM - Capital Budget (CB): HB 2089 Capital budget, supplemental
 #### 35 👍 - Pro
 Testifying:

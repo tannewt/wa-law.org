@@ -123,7 +123,7 @@
 
 ## [HB 1978](/bill/2023-24/hb/1978/) - Adding special purpose and junior taxing districts to the intrastate mutual aid system. 👍1  
 
-## [HB 1982](/bill/2023-24/hb/1982/) - Broadband loans & grants 👍2  
+## [HB 1982](/bill/2023-24/hb/1982/) - Broadband loans & grants 👍3  
 * 👍 Chris Herman
 
 ## [HB 1987](/bill/2023-24/hb/1987/) - Concerning the use of moneys from the rural public facilities sales and use tax for affordable workforce housing infrastructure and facilities.   ❓2

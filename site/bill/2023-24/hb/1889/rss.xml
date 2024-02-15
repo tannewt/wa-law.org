@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1889/</link>
 		<description>Updates about HB 1889</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Feb 2024 03:51:03 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2023-12-06/Prefiled for introduction.</guid>
 		</item>
 		<item>
-			<title>👍Flor Reyes - Washington Cemetery, Cremation &amp; Funeral Association</title>
+			<title>👍Flor Reyes - OneAmerica</title>
 			<description>Flor Reyes signed up to testify Pro.</description>
 			<pubDate>Thu, 04 Jan 2024 01:44:55 GMT</pubDate>
 			<category>testifier</category>
@@ -24,7 +24,7 @@
 			<guid isPermaLink="false">testifier/Flor/Reyes/2024-01-04 01:44:55</guid>
 		</item>
 		<item>
-			<title>👍Flor Reyes - Washington Cemetery, Cremation &amp; Funeral Association</title>
+			<title>👍Flor Reyes - OneAmerica</title>
 			<description>Flor Reyes signed up to testify Pro.</description>
 			<pubDate>Thu, 04 Jan 2024 01:45:25 GMT</pubDate>
 			<category>testifier</category>
@@ -258,6 +258,14 @@
 			<pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-13/First reading, referred to Labor &amp; Commerce.</guid>
+		</item>
+		<item>
+			<title>👍💵Alex Hur - OneAmerica</title>
+			<description>Alex Hur signed up to testify Pro. They are signed up to represent OneAmerica. They are a registered lobbyist.</description>
+			<pubDate>Wed, 14 Feb 2024 03:51:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Alex/Hur/2024-02-14 03:51:03</guid>
 		</item>
 	</channel>
 </rss>

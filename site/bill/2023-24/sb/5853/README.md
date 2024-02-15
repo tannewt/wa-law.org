@@ -13,6 +13,21 @@
 * 02/09/2024 [Senate Democrats](/org/senate_democrats/) - [Senate passes four Dhingra bills to tackle mental health, substance use disorder - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/09/senate-passes-four-dhingra-bills-to-tackle-mental-health-substance-use-disorder/#:~:text=SB%205853)
 
 ## Meetings
+### Tue 02/20 01:30 PM - Human Services, Youth, & Early Learning (HSEL): E2SSB 5853 Behav crisis services/minors
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159528&caId=24303&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159528&caId=24303&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159528&caId=24303&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159528&caId=24303&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* Scarlett Coll - Lake Washington High School
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/02 01:30 PM - Ways & Means (WM): SSB 5853 Behav crisis services/minors
 #### 280 👍 - Pro
 Testifying:

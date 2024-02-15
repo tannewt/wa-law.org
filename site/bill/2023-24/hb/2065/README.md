@@ -18,6 +18,21 @@
 * 01/04/2024 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Legislative Agenda 2024 | ACLU of Washington](http://www.aclu-wa.org/pages/legislative-agenda-2024#:~:text=HB%202065)
 
 ## Meetings
+### Mon 02/19 10:30 AM - Law & Justice (LAW): E2SHB 2065 Offender score recalc.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159441&caId=24215&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159441&caId=24215&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159441&caId=24215&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159441&caId=24215&tId=4)
+
+#### 10 👍 - Pro
+
+#### 1 👎 - Con
+Testifying:
+* Tiffany Attrill
+
+#### 0 ❓ - Other
+
 ### Mon 01/22 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 2065 Offender score recalc.
 #### 1350 👍 - Pro
 Testifying:

@@ -11,6 +11,19 @@
 * 01/12/2024 [The Center Square](/org/the_center_square/) - [Tri-Cities lawmakers eye nuclear facilities tax break, wind farm fire concerns | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ebd7f824-b182-11ee-97f3-3f080b13cf66.html#:~:text=HB%202120)
 
 ## Meetings
+### Tue 02/20 01:30 PM - Environment, Energy & Technology (ENET): HB 2120 Clean energy manufacturers
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32003&aId=159364&caId=24243&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32003&aId=159364&caId=24243&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32003&aId=159364&caId=24243&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32003&aId=159364&caId=24243&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/25 01:30 PM - Finance (FIN): HB 2120 Clean energy manufacturers
 #### 58 👍 - Pro
 Testifying:

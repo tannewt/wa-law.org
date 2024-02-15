@@ -26,12 +26,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159320&caId=24169&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159320&caId=24169&tId=4)
 
-#### 63 👍 - Pro
+#### 84 👍 - Pro
 
-#### 20 👎 - Con
+#### 585 👎 - Con
 Testifying:
 * Todd Rathner - Knife Rights
 * 💵Aoibheann Cline - NRA
+* Jeannette Mcchesney
 * Julie Barrett - Conservative Ladies of Washington
 
 #### 0 ❓ - Other

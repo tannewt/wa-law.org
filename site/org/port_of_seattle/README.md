@@ -53,8 +53,9 @@
 
 ## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management 👍1  
 
-## [HB 2354](/bill/2023-24/hb/2354/) - Tax increment areas 👍1  
+## [HB 2354](/bill/2023-24/hb/2354/) - Tax increment areas 👍1  ❓1
 * 👍 John Flanagan
+* ❓ John Flanagan
 
 ## [HB 2368](/bill/2023-24/hb/2368/) - Refugee & immigrant assist. 👍1  
 

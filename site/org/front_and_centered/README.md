@@ -48,6 +48,10 @@
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
 * ❓💵 Guillermo Rogel
 
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍1  
+
+## [HB 2191](/bill/2023-24/hb/2191/) - PTBA governing body members 👍1  
+
 ## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage   ❓1
 
 ## [HB 2226](/bill/2023-24/hb/2226/) - H-2A worker program data 👍1  

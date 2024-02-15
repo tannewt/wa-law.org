@@ -13,6 +13,19 @@
 * 02/06/2024 [MyNorthwest](/org/mynorthwest/) - [Bill on traffic camera use includes 75% discount for some violators - MyNorthwest.com](https://mynorthwest.com/3949501/bill-altering-traffic-safety-camera-use-includes-75-discount-some-violators/#:~:text=House%20Bill%202384)
 
 ## Meetings
+### Tue 02/20 04:00 PM - Transportation (TRAN): ESHB 2384 Traffic safety cameras
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159722&caId=24250&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159722&caId=24250&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159722&caId=24250&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159722&caId=24250&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/18 04:00 PM - Transportation (TR): HB 2384 Traffic safety cameras
 #### 16 👍 - Pro
 Testifying:

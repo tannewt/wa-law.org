@@ -17,11 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31942&aId=159169&caId=24126&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31942&aId=159169&caId=24126&tId=4)
 
-#### 3 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * 💵Vicki Christophersen - Washington CannaBusiness Association
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* LINDA Thompson - Washington Association for Substance misuse and Violence Prevention (WASAVP)
 
 #### 0 ❓ - Other
 

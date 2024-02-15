@@ -8,6 +8,19 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Tue 02/20 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): SSB 5803 National guard recruitment
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31987&aId=159761&caId=24307&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31987&aId=159761&caId=24307&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31987&aId=159761&caId=24307&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31987&aId=159761&caId=24307&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/14 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): SSB 5803 National guard recruitment
 #### 0 👍 - Pro
 

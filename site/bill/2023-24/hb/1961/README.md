@@ -19,10 +19,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158863&caId=23907&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31922&aId=158863&caId=23907&tId=4)
 
-#### 239 👍 - Pro
+#### 245 👍 - Pro
 Testifying:
 * 💵Brenna Anderst - Pasado's Safe Haven/Education & Advocacy Director
 * Nathaniel Block - Skagit County Prosecuting Attorney's Office
+* Tina Griffin - Washington State Gambling Commission
+* Sam Low - Representative 39th District
 
 #### 3 👎 - Con
 Testifying:

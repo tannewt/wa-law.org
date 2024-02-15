@@ -31,7 +31,7 @@
 ## [HB 2296](/bill/2023-24/hb/2296/) - Comprehensive plan revisions 👍1  
 * 👍 Rebecca Kennedy
 
-## [HB 2354](/bill/2023-24/hb/2354/) - Tax increment areas  👎1 
+## [HB 2354](/bill/2023-24/hb/2354/) - Tax increment areas 👍1 👎1 
 
 ## [HB 2409](/bill/2023-24/hb/2409/) - Safe excavation practices  👎1 
 

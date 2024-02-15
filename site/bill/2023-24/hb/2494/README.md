@@ -13,6 +13,21 @@
 * 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=HB%202494)
 
 ## Meetings
+### Mon 02/19 01:30 PM - Early Learning & K-12 Education (EDU): ESHB 2494 School operating costs
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159729&caId=24223&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159729&caId=24223&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159729&caId=24223&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159729&caId=24223&tId=4)
+
+#### 4 👍 - Pro
+
+#### 1 👎 - Con
+Testifying:
+* John Axtell
+
+#### 0 ❓ - Other
+
 ### Mon 02/05 10:30 AM - Appropriations (APP): HB 2494 School operating costs
 #### 202 👍 - Pro
 Testifying:

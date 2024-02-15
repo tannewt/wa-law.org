@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=159280&caId=24161&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=159280&caId=24161&tId=4)
 
-#### 15 👍 - Pro
+#### 43 👍 - Pro
 Testifying:
 * Kim Reiter
+* Luke Martin
 * Steve Brooks - Washington Fire Chiefs
 * Karli Reiter
 

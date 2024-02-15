@@ -11,6 +11,19 @@
 * 01/28/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/28/the-house-hot-sheet-for-week-4-of-the-2024-legislative-session/#:~:text=HB%202467)
 
 ## Meetings
+### Mon 02/19 10:30 AM - Labor & Commerce (LC): SHB 2467 LTSS trust access
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159585&caId=24208&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159585&caId=24208&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159585&caId=24208&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159585&caId=24208&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/26 08:00 AM - Health Care & Wellness (HCW): HB 2467 Increasing access to the long-term services and supports trust. (Remote Testimony Available).
 #### 117 👍 - Pro
 Testifying:

@@ -17,9 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158915&caId=23911&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31944&aId=158915&caId=23911&tId=4)
 
-#### 141 👍 - Pro
+#### 155 👍 - Pro
+Testifying:
+* Lorena Gonzalez - ACLU - WA
+* Dr. Sarah Prager - American College of Obstetricians and Gynecologists (ACOG)
 
-#### 990 👎 - Con
+#### 1032 👎 - Con
 Testifying:
 * Mary Long - Conservative Ladies of Washington
 * Sharon Damoff

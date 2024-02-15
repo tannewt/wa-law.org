@@ -12,6 +12,128 @@
 * 01/07/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: Welcome to the 2024 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/07/this-week-in-the-senate-week-1-welcome-to-the-2024-session/#:~:text=Senate%20Bill%205950)
 
 ## Meetings
+### Mon 02/19 04:00 PM - Ways & Means (WM): PSSB 5950: All other. (Remote Testimony Available).
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159428&caId=24235&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159428&caId=24235&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159428&caId=24235&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159428&caId=24235&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* AyeNay Abye - The Tubman Center for Health and Freedom
+
+### Mon 02/19 04:00 PM - Ways & Means (WM): PSSB 5950: Early learning. (Remote Testimony Available).
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159423&caId=24230&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159423&caId=24230&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159423&caId=24230&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159423&caId=24230&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 2 ❓ - Other
+Testifying:
+* Mica Slater - BrightSpark Early Learning Services
+* 💵Melissa Johnson - Washington State Association of Head Start & ECEAP
+
+### Mon 02/19 04:00 PM - Ways & Means (WM): PSSB 5950: Employee compensation. (Remote Testimony Available).
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159424&caId=24231&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159424&caId=24231&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159424&caId=24231&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159424&caId=24231&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Mon 02/19 04:00 PM - Ways & Means (WM): PSSB 5950: Higher education. (Remote Testimony Available).
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159422&caId=24229&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159422&caId=24229&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159422&caId=24229&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159422&caId=24229&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Mon 02/19 04:00 PM - Ways & Means (WM): PSSB 5950: Human services. (Remote Testimony Available).
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159426&caId=24233&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159426&caId=24233&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159426&caId=24233&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159426&caId=24233&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 8 ❓ - Other
+Testifying:
+* Laurie Lippold - Partners for Our Children
+* Erika Bartlett - Tacoma-Pierce County Public Health
+* 💵Jill May - Washington Association for Children and Families
+* Sandra Gorman-Brown - Grassroots Therapy Group
+* Whitney Carlson - Catholic Charities of Central WA
+* Dr. Stephan Blanford - The Children's Alliance
+* 💵Karen Pillar - TeamChild
+* 💵Melissa Johnson - [Community Residential Services Association](/org/community_residential_services_association/)
+
+### Mon 02/19 04:00 PM - Ways & Means (WM): PSSB 5950: K-12 public schools. (Remote Testimony Available).
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159421&caId=24228&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159421&caId=24228&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159421&caId=24228&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159421&caId=24228&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
+
+### Mon 02/19 04:00 PM - Ways & Means (WM): PSSB 5950: Mental health. (Remote Testimony Available).
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159425&caId=24232&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159425&caId=24232&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159425&caId=24232&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159425&caId=24232&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* Jim Theofelis - NorthStar Advocates
+
+### Mon 02/19 04:00 PM - Ways & Means (WM): PSSB 5950: Natural resources. (Remote Testimony Available).
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159427&caId=24234&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159427&caId=24234&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159427&caId=24234&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159427&caId=24234&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/09 04:00 PM - Ways & Means (WM): SB 5950: All other. (Remote Testimony Available).
 #### 14 👍 - Pro
 Testifying:

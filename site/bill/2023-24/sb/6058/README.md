@@ -19,6 +19,21 @@
 * 01/07/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: Welcome to the 2024 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/07/this-week-in-the-senate-week-1-welcome-to-the-2024-session/#:~:text=Senate%20Bill%206058)
 
 ## Meetings
+### Mon 02/19 01:30 PM - Environment & Energy (ENVI): E2SSB 6058 Carbon market linkage
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31989&aId=159330&caId=24288&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31989&aId=159330&caId=24288&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31989&aId=159330&caId=24288&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31989&aId=159330&caId=24288&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* 💵Isaac Kastama - Clean & Prosperous Washington
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/02 01:30 PM - Ways & Means (WM): SSB 6058 Carbon market linkage
 #### 18 👍 - Pro
 Testifying:

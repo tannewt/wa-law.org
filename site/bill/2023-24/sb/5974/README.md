@@ -21,7 +21,7 @@ Testifying:
 * Katie Hurley - King County Department of Public Defense
 * Charles Longshore - Department of Corrections - Washington Corrections Center
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1903/</link>
 		<description>Updates about HB 1903</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Feb 2024 07:32:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -84,7 +84,7 @@
 			<guid isPermaLink="false">testifier/Reno/Gregory/2024-01-11 08:43:43</guid>
 		</item>
 		<item>
-			<title>👍Anthony Alexander - America</title>
+			<title>👍Anthony Alexander - NRA</title>
 			<description>Anthony Alexander signed up to testify Pro.</description>
 			<pubDate>Thu, 11 Jan 2024 08:59:44 GMT</pubDate>
 			<category>testifier</category>
@@ -382,6 +382,22 @@
 			<pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-13/First reading, referred to Law &amp; Justice.</guid>
+		</item>
+		<item>
+			<title>👎💵Aoibheann Cline - NRA</title>
+			<description>Aoibheann Cline signed up to testify Con. They are signed up to represent NRA. They are a registered lobbyist.</description>
+			<pubDate>Wed, 14 Feb 2024 04:51:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Aoibheann/Cline/2024-02-14 04:51:00</guid>
+		</item>
+		<item>
+			<title>👎Teo Morca - NRA</title>
+			<description>Teo Morca signed up to testify Con.</description>
+			<pubDate>Wed, 14 Feb 2024 07:32:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Teo/Morca/2024-02-14 07:32:17</guid>
 		</item>
 	</channel>
 </rss>

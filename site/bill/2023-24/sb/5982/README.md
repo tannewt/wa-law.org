@@ -23,7 +23,7 @@ Testifying:
 * Dr. Beth Harvey - Washington Vaccine Association & Washington Chapter of the American Academy of Pediatrics
 * Lacy Fehrenbach - Washington State Department of Health
 
-#### 1280 👎 - Con
+#### 1281 👎 - Con
 Testifying:
 * Laurie Layne
 * Mary Long - Conservative Ladies of Washington

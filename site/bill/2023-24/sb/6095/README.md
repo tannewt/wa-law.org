@@ -14,15 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=159313&caId=24164&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=159313&caId=24164&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Jenny Arnold - Washington State Pharmacy Association
 
-#### 45 👎 - Con
+#### 542 👎 - Con
 Testifying:
 * Bob Runnells - Informed Choice Washington
+* Natalie Chavez
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 01/18 10:30 AM - Health & Long Term Care (HLTC): SB 6095 Secretary of health orders
 #### 18 👍 - Pro

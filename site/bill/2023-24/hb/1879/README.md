@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Wed 02/14 10:30 AM - Early Learning & K-12 Education (EDU): HB 1879 Tribal curriculum/John McCoy
-#### 33 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * Bill Kallappa - [Washington State Board of Education](/org/washington_state_board_of_education/)
 * Paul Pitre - [Washington State Board of Education](/org/washington_state_board_of_education/)
@@ -17,6 +17,7 @@ Testifying:
 * Karen Condon - Confederated Tribes of the Colville Reservation
 * Jeannie McCoy
 * yeyisteblu, Chaynannah Squally - Nisqually
+* Bradley Althoff lulilaš
 
 #### 0 👎 - Con
 

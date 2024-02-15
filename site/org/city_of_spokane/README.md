@@ -58,6 +58,9 @@
 ## [SB 5792](/bill/2023-24/sb/5792/) - Concerning the definition of multiunit residential buildings. 👍1  
 * 👍 Council President Betsy Wilkerson
 
+## [SB 5917](/bill/2023-24/sb/5917/) - Bias-motivated defacement 👍1  
+* 👍💵 Paul Dillon
+
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
 * 👍 Chris Averyt
 

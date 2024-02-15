@@ -63,7 +63,7 @@
 
 ## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
 
-## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍1  
+## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍2  
 
 ## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍2  
 * 👍 Juliana Yenne
@@ -94,7 +94,7 @@
 
 ## [HB 2346](/bill/2023-24/hb/2346/) - Health disparities council 👍1  
 
-## [HB 2415](/bill/2023-24/hb/2415/) - Economic assistance/TANF 👍1  
+## [HB 2415](/bill/2023-24/hb/2415/) - Economic assistance/TANF 👍2  
 
 ## [SB 5028](/bill/2023-24/sb/5028/) - Name changes 👍1  
 

@@ -141,7 +141,8 @@
 
 ## [HB 2083](/bill/2023-24/hb/2083/) - Payday lending/small loans 👍1  
 
-## [HB 2097](/bill/2023-24/hb/2097/) - Worker wage recovery 👍1  
+## [HB 2097](/bill/2023-24/hb/2097/) - Worker wage recovery 👍2  
+* 👍💵 Andrea Schmitt
 * 👍💵 Andrea Schmitt
 
 ## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍2  

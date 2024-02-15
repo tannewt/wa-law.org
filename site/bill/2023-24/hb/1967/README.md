@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159183&caId=24144&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159183&caId=24144&tId=4)
 
-#### 30 👍 - Pro
+#### 57 👍 - Pro
 Testifying:
 * MAGGIE O'GRADY
 

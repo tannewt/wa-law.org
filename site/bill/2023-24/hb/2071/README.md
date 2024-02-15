@@ -19,12 +19,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159641&caId=24187&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159641&caId=24187&tId=4)
 
-#### 19 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Julie Blazek - [American Institute of Architects Washington Council](/org/american_institute_of_architects_washington_council/)
+* 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 3 👎 - Con
+#### 17 👎 - Con
 Testifying:
+* Doug Werts - Yakima County Fire Marshal
+* Ryan Burgess - Shoreline Fire Department
+* Timothy Munnis - WA State Association of Fire Marshals
+* Tracy Moore - Moore Fire Protection
 * Kyle Moore - City of SeaTac, Government Relations
 
 #### 0 ❓ - Other

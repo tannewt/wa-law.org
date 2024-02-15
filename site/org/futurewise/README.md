@@ -77,10 +77,11 @@
 ## [HB 2158](/bill/2023-24/hb/2158/) - Urban growth area boundaries  👎1 
 * 👎💵 Bryce Yadon
 
-## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍8  
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍9  
 * 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 * 👍 Kristiana de Leon
+* 👍💵 Bryce Yadon
 
 ## [HB 2187](/bill/2023-24/hb/2187/) - Water/family farms  👎1 
 

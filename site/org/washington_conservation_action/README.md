@@ -58,6 +58,10 @@
 * 👎 Rachel Baker
 * 👎 Rachel Baker
 
+## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍1  
+
+## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍1  
+
 ## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍2  
 
 ## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects 👍1  

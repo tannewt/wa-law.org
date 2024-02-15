@@ -477,8 +477,9 @@
 
 ## [HB 2102](/bill/2023-24/hb/2102/) - PFML benefits/health info. 👍1  
 
-## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  ❓1
 * 👍💵 Larry Delaney
+* ❓💵 Larry Delaney
 
 ## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention 👍3  ❓1
 * ❓💵 Simone Boe
@@ -973,8 +974,9 @@
 ## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  
 * 👍 Jared Mason-Gere
 
-## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  ❓1
 * 👍💵 Larry Delaney
+* ❓💵 Larry Delaney
 
 ## [SB 5953](/bill/2023-24/sb/5953/) - Incarcerated student grants 👍3  
 

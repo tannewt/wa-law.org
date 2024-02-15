@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158970&caId=23919&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158970&caId=23919&tId=4)
 
-#### 11 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Tsega Desta - Ethiopian Community in Seattle
 * Sherry Williams - HealthPoint
@@ -31,6 +31,11 @@ Testifying:
 * 💵John Seng - [Spark Northwest](/org/spark_northwest/)
 * Sherry Williams - HealthPoint CHC
 * Seth Muir - Sail Sand Point
+* Amanda Barta - Moses Lake Community Health Center
+* Joe Vessey - Community Health Center of Snohomish County
+* Paul Tabayoyon - Asian Pacific Islander Coaltion of Yakima Valley
+* SuYoung Yun - ACRS and APIC Washington
+* Afua Kouyate - African Cultural Arts Center
 
 #### 3 👎 - Con
 Testifying:
@@ -60,19 +65,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158968&caId=23917&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158968&caId=23917&tId=4)
 
-#### 4 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Michone Preston - Habitat for Humanity of Washington State
 * Gina James - Tribal Council, Quinault Indian Nation
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* Erik Hanson - Jazz Night School, LEMS Bookstore, & SEED - Southeast Effective Development
+* Jamyang Dorjee Nhangkar - Tibetan Association of Washington for Seattle Tibetan Community Center project
+* Cathy Murahashi - The Arc of Washington
+* Elizabeth Murphy - Plymouth Housing
 * Gloria Rodriguez - [Yakima Neighborhood Health Services](/org/yakima_neighborhood_health_services/)
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Kristin Wiggins - ReadyNation, Imagine Institute
 * 💵James Lovell - [Chief Seattle Club](/org/chief_seattle_club/)
+* 💵Melissa Johnson - [Community Residential Services Association](/org/community_residential_services_association/)
 
 ### Thu 02/15 04:00 PM - Ways & Means (WM): PSSB 5949: K-12 public schools. (Remote Testimony Available).
 Sign up to testify:
@@ -81,13 +91,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158966&caId=23915&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158966&caId=23915&tId=4)
 
-#### 8 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Jim Kowalkowski - Rural Education Center
 * 💵Mike Hoover - Washington State School Directors’ Association (WSSDA)
 * 💵Mitch Denning - Alliance of Educational Associations
 * Brent Freeman - Wahkiakum School District
+* Samantha Fogg - SCPTSA, Interim Co-President
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 
 #### 0 👎 - Con
@@ -101,10 +112,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158969&caId=23918&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158969&caId=23918&tId=4)
 
-#### 2 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Ryan Hendricks - Tribal Council, Quinault Indian Nation
 * Skippy Shaw - [The Nature Conservancy](/org/the_nature_conservancy/)
+* Larry Phillips - American Sportfishing Association
+* Jessica Helsley - [Wild Salmon Center](/org/wild_salmon_center/)
+* Mara Zimmerman - Coast Salmon Partnership
+* Juan Peralez - Unidos of Snohomish County
 
 #### 0 👎 - Con
 

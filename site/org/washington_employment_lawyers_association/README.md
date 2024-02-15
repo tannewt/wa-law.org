@@ -14,11 +14,17 @@
 * 👍 Lauren RIchardson-Berg
 * 👍 Jesse Wing
 
+## [HB 2061](/bill/2023-24/hb/2061/) - Health employees/overtime 👍1  
+
 ## [SB 5061](/bill/2023-24/sb/5061/) - Personnel records 👍2  
 * 👍 Jesse Wing
 * 👍 Lauren Richardson-Berg
 
 ## [SB 5090](/bill/2023-24/sb/5090/) - Torts  👎1 
+
+## [SB 5778](/bill/2023-24/sb/5778/) - Employer political speech 👍1  
+
+## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave 👍1  
 
 ## [SB 5894](/bill/2023-24/sb/5894/) - Equal pay/protected classes 👍1  
 * 👍 Kathleen Barnard

@@ -23,9 +23,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31945&aId=159267&caId=24150&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31945&aId=159267&caId=24150&tId=4)
 
-#### 44 👍 - Pro
+#### 54 👍 - Pro
 Testifying:
 * Laurie Lippold - Partners for Our Children
+* 💵London Breedlove - Washington State Psychological Association
 * Julia O'Connor - [Washington Council for Behavioral Health](/org/washington_council_for_behavioral_health/)
 
 #### 0 👎 - Con

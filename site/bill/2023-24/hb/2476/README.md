@@ -14,17 +14,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159159&caId=24128&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159159&caId=24128&tId=4)
 
-#### 273 👍 - Pro
+#### 429 👍 - Pro
 Testifying:
 * Zachary Stevens
 * K Burnell Schaetzel-Hill
 * Madeline Wiley - ARNPs United of Washington State
 * Beth Ebel - Washington Chapter of the American Academy of Pediatrics
+* MD, Dr. Douglas Seiler - TRA Medical Imaging
+* MD, Dr. Sung-Won Kim
+* 💵Sean Graham - Washington State Medical Association
 
-#### 4 👎 - Con
+#### 13 👎 - Con
 Testifying:
+* 💵Gary Strannigan - [Premera Blue Cross](/org/premera_blue_cross/)
+* Chris Bandoli - National Association of Benefits & Insurance Professionals - WA
 * Chris Bandoli - National Association of Benefits & Insurance Professionals - WA
 * 💵Gary Strannigan - [Premera Blue Cross](/org/premera_blue_cross/)
 * 💵Jennifer Muhm - [Regence Blue Shield](/org/regence_blue_shield/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

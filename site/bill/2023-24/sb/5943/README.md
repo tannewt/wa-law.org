@@ -13,6 +13,19 @@
 * 01/14/2024 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Supplemental Budget Looms Large in 2024 Legislation Session - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate01152024#:~:text=Senate%20Bill%205943)
 
 ## Meetings
+### Tue 02/20 01:30 PM - Human Services, Youth, & Early Learning (HSEL): 2SSB 5943 Resource data tool
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159529&caId=24304&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159529&caId=24304&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159529&caId=24304&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159529&caId=24304&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/02 01:30 PM - Ways & Means (WM): SSB 5943 Resource data tool
 #### 33 👍 - Pro
 Testifying:

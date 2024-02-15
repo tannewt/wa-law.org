@@ -12,15 +12,10 @@
 
 ## Meetings
 ### Wed 02/14 04:00 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SHB 2424 State-tribe coop./wildlife
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31926&aId=159318&caId=24167&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31926&aId=159318&caId=24167&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31926&aId=159318&caId=24167&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31926&aId=159318&caId=24167&tId=4)
-
-#### 58 👍 - Pro
+#### 62 👍 - Pro
 Testifying:
 * Tom McBride - WDFW
+* 💵Michael Moran - Confederated Tribes of the Colville Reservation
 * Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation
 * Jeff Flood - Stevens County Sheriffs Dept. - Wildlife Specialist
 * Scott Nielsen - [Cattle Producers of Washington](/org/cattle_producers_of_washington/)

@@ -12,6 +12,32 @@
 * 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%202104)
 
 ## Meetings
+### Mon 02/19 04:00 PM - Appropriations (APP): PSHB 2104 - Making 2023-2025 fiscal biennium supplemental operating appropriations.  (Remote Testimony Available).
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32006&aId=159671&caId=24269&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32006&aId=159671&caId=24269&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32006&aId=159671&caId=24269&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32006&aId=159671&caId=24269&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 12 ❓ - Other
+Testifying:
+* Laurie Lippold - Partners for Our Children
+* 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
+* 💵Logan Endres - BrightSpark Early Learning Services
+* Marcia Wright-Soika - FamilyWorks
+* AyeNay Abye - The Tubman Center for Health and Freedom
+* 💵Jill May - Washington Association for Children and Families
+* Sandra Gorman-Brown - Grassroots Therapy Group
+* Whitney Carlson - Catholic Charities of Central WA
+* Dr. Stephan Blanford - The Children's Alliance
+* 💵Karen Pillar - TeamChild
+* Jim Theofelis - NorthStar Advocates
+* 💵Melissa Johnson - WSA of Headstart & ECEAP/Community Residential Services Association
+
 ### Wed 01/10 04:00 PM - Appropriations (APP): HB 2104 Operating budget, supp.
 #### 13 👍 - Pro
 Testifying:

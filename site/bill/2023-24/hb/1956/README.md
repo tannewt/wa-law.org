@@ -25,7 +25,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=159144&caId=24094&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=159144&caId=24094&tId=4)
 
-#### 84 👍 - Pro
+#### 98 👍 - Pro
 Testifying:
 * Troy Zhang
 * Danica Noble - Washington State PTA
@@ -43,6 +43,7 @@ Testifying:
 * MD, Scott Phillips - [Washington Poison Center](/org/washington_poison_center/)
 * Mikhail Cherniske - Office of Superintendent of Public Instruction
 * Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation
+* Mercedes White Calf - NAYA Action Fund
 * M.D., Chris Buresh - [Seattle Children's Hospital](/org/seattle_children's_hospital/)
 * Olga Davidov
 * Debby Herbert

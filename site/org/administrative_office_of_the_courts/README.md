@@ -37,8 +37,9 @@
 * 👍 Brittany Gregory
 * 👍 James Wells
 
-## [HB 2034](/bill/2023-24/hb/2034/) - Requiring counties and cities to provide the administrative office of the courts with notice of court reorganizations. 👍1  
+## [HB 2034](/bill/2023-24/hb/2034/) - Requiring counties and cities to provide the administrative office of the courts with notice of court reorganizations. 👍2  
 * 👍 Brittany Gregory
+* 👍 Dawn Rubio
 
 ## [HB 2056](/bill/2023-24/hb/2056/) - Supreme court bailiffs 👍2  
 * 👍 Brittany Gregory

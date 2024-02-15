@@ -17,6 +17,8 @@
 ## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍1  
 * 👍 Domenico Tedeschi
 
+## [HB 2476](/bill/2023-24/hb/2476/) - Creating a covered lives assessment professional services rate account. 👍1  
+
 ## [SB 5103](/bill/2023-24/sb/5103/) - Medicaid patients/discharge 👍1  
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards  👎2 

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31948&aId=159092&caId=24026&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31948&aId=159092&caId=24026&tId=4)
 
-#### 84 👍 - Pro
+#### 90 👍 - Pro
 Testifying:
 * 💵Conner Edwards - WA Professional Campaign Treasurer
 * Sean Flynn - Public Disclosure Commission

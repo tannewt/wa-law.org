@@ -28,7 +28,7 @@
 
 ## [HB 1941](/bill/2023-24/hb/1941/) - Health home serv./children 👍1  
 
-## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍1  
+## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍2  
 
 ## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
 * 👍 M.D., Chris Buresh

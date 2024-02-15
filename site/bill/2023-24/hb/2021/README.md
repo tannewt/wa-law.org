@@ -16,6 +16,22 @@
 * 01/15/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/15/the-house-hot-sheet-for-week-2-of-the-2024-legislative-session/#:~:text=HB%202021)
 
 ## Meetings
+### Mon 02/19 10:30 AM - Law & Justice (LAW): ESHB 2021 Firearm disposition
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159241&caId=24212&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159241&caId=24212&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159241&caId=24212&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159241&caId=24212&tId=4)
+
+#### 0 👍 - Pro
+
+#### 3 👎 - Con
+Testifying:
+* 💵Aoibheann Cline - NRA
+* Teo Morca
+
+#### 0 ❓ - Other
+
 ### Tue 01/16 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2021 Firearm disposition
 #### 671 👍 - Pro
 Testifying:

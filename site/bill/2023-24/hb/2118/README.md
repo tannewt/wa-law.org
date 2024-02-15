@@ -16,6 +16,24 @@
 * 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202118)
 
 ## Meetings
+### Mon 02/19 10:30 AM - Law & Justice (LAW): ESHB 2118 Firearms dealers
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159442&caId=24216&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159442&caId=24216&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159442&caId=24216&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159442&caId=24216&tId=4)
+
+#### 0 👍 - Pro
+
+#### 9 👎 - Con
+Testifying:
+* 💵Troy Nichols - National Shooting Sports Foundation
+* 💵Aoibheann Cline - NRA
+* Laurie Layne
+* Teo Morca
+
+#### 0 ❓ - Other
+
 ### Tue 01/16 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2118 Firearms dealers
 #### 906 👍 - Pro
 Testifying:

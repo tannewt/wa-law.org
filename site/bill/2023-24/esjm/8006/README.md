@@ -19,7 +19,7 @@ Testifying:
 * David Loud - Health Care Is a Human Right WA
 * 💵Paul Benz - Quaker Voice
 
-#### 1190 👎 - Con
+#### 1195 👎 - Con
 Testifying:
 * Jeannette Mcchesney
 * Julia Craven Reynolds

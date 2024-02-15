@@ -21,7 +21,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31901&aId=159110&caId=24051&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31901&aId=159110&caId=24051&tId=4)
 
-#### 13 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Natalya Yudkovsky - Washington State PTA
 * Dave Brown - CS Forward
@@ -30,11 +30,18 @@ Testifying:
 * Natalie Wong - 2412 Robototes
 * Paree Raval - 2412 Robototes
 * Rediet Tassew - 2412 Robototes
+* 💵Maggie Glennon - [Code.org](/org/code.org/)
+* Jagriti Agrawal - CS Forward
 * Amy Zhou - CS Forward
 * Laura Hu
 * Kelly Ogilvie - Kira Learning
 
-#### 2 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* Jillian Behrman - Lake Washington High School
+* Katharine Rouse - Lake Washington High School, FTC Team 8923 TWIST
+* Lydia Gruner - Lake Washington High School
+* Megan Klamik - Lake Washington High School
 
 #### 8 ❓ - Other
 Testifying:

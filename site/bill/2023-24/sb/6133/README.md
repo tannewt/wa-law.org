@@ -18,11 +18,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31914&aId=159023&caId=24047&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31914&aId=159023&caId=24047&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 01/29 10:30 AM - Law & Justice (LAW): SB 6133 Cannabis retail robberies
 #### 45 👍 - Pro

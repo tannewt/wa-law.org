@@ -239,7 +239,7 @@
 
 ## [SB 5851](/bill/2023-24/sb/5851/) - Holocaust and genocide edu. 👍1  
 
-## [SB 5856](/bill/2023-24/sb/5856/) - Concerning voter registration challenges. 👍1  
+## [SB 5856](/bill/2023-24/sb/5856/) - Concerning voter registration challenges. 👍2  
 
 ## [SB 5857](/bill/2023-24/sb/5857/) - Campaign disclosure reorg. 👍1  
 
@@ -266,4 +266,4 @@
 ## [SB 6249](/bill/2023-24/sb/6249/) - Homeowner property tax ex. 👍1  
 * 👍 Andrew Villeneuve
 
-## [SB 6269](/bill/2023-24/sb/6269/) - Alt. voter verification 👍1  
+## [SB 6269](/bill/2023-24/sb/6269/) - Alt. voter verification 👍2  

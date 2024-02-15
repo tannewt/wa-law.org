@@ -8,13 +8,9 @@
 
 ## Meetings
 ### Wed 02/14 04:00 PM - Transportation (TR): SB 6084 Collector vehicles/trailers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31898&aId=159010&caId=24001&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31898&aId=159010&caId=24001&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31898&aId=159010&caId=24001&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31898&aId=159010&caId=24001&tId=4)
-
-#### 3 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* B.J. King - American Truck Historical Society
 
 #### 0 👎 - Con
 

@@ -9,7 +9,8 @@
 
 ## [HB 1690](/bill/2023-24/hb/1690/) - Kidney disease centers 👍1  
 
-## [HB 2476](/bill/2023-24/hb/2476/) - Creating a covered lives assessment professional services rate account.  👎1 
+## [HB 2476](/bill/2023-24/hb/2476/) - Creating a covered lives assessment professional services rate account.  👎2 
+* 👎💵 Gary Strannigan
 * 👎💵 Gary Strannigan
 
 ## [SB 5036](/bill/2023-24/sb/5036/) - Audio-only telemedicine 👍1  

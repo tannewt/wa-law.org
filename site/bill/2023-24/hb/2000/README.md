@@ -20,9 +20,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31917&aId=159558&caId=24184&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31917&aId=159558&caId=24184&tId=4)
 
-#### 2 👍 - Pro
+#### 9 👍 - Pro
 
-#### 5 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Sandra Kord
 

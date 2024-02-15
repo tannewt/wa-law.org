@@ -24,7 +24,7 @@ Testifying:
 * Robert (Bob) Battles - Association of Washington Business (AWB)
 * Lauren Gubbe - Associated General Contractors
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Bruce K Beckett - Wa. Retail Association
 

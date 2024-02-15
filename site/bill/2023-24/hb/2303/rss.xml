@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2303/</link>
 		<description>Updates about HB 2303</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Feb 2024 03:44:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -104,6 +104,14 @@
 			<pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-13/Third reading, passed; yeas, 58; nays, 39; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>👎Peter Ansell - Washington State Department of Health</title>
+			<description>Peter Ansell signed up to testify Con.</description>
+			<pubDate>Wed, 14 Feb 2024 03:44:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Peter/Ansell/2024-02-14 03:44:09</guid>
 		</item>
 	</channel>
 </rss>

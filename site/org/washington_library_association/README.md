@@ -18,6 +18,8 @@
 * 👍💵 Carolyn Logue
 * 👍 Sarah Logan
 
+## [HB 2354](/bill/2023-24/hb/2354/) - Tax increment areas 👍1  
+
 ## [HB 2360](/bill/2023-24/hb/2360/) - Digital workforce 👍1  
 
 ## [HB 2398](/bill/2023-24/hb/2398/) - Instruct. materials/parents 👍1  
@@ -47,7 +49,7 @@
 
 ## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose/high schools 👍1  
 
-## [SB 5824](/bill/2023-24/sb/5824/) - Dissolution of libraries 👍2  
+## [SB 5824](/bill/2023-24/sb/5824/) - Dissolution of libraries 👍3  
 * 👍💵 Carolyn Logue
 * 👍💵 Carolyn Logue
 

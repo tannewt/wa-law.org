@@ -16,7 +16,9 @@
 
 ## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍1  
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍2  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍3  
+
+## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
 
 ## [HB 1983](/bill/2023-24/hb/1983/) - Criminal justice trtmnt acct 👍1  
 
@@ -49,6 +51,8 @@
 ## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍3  
 * 👍 Ben Zarlingo
 * 👍 Dan Templeman
+
+## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose/high schools 👍1  
 
 ## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍1  
 

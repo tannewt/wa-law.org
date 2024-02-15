@@ -19,13 +19,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159155&caId=24114&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159155&caId=24114&tId=4)
 
-#### 7 👍 - Pro
+#### 10 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Briahna Murray - [City of Bellevue](/org/city_of_bellevue/)
 
 ### Tue 01/23 10:30 AM - Local Government (LG): HB 2252 Small businesses/residential
 #### 131 👍 - Pro

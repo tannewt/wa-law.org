@@ -18,13 +18,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31914&aId=158849&caId=23939&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31914&aId=158849&caId=23939&tId=4)
 
-#### 7 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Quinton Baker
 * Oscar Aguirre - King County Bar Association, Records Project
 * 💵Prachi Dave - [Civil Survival Project](/org/civil_survival_project/)
+* Lisa Gardner - Spokane NAACP
 
-#### 12 👎 - Con
+#### 18 👎 - Con
 
 #### 0 ❓ - Other
 

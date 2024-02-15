@@ -16,7 +16,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31933&aId=159321&caId=24165&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31933&aId=159321&caId=24165&tId=4)
 
-#### 11 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Diane Butorac - WA Dept of Ecology
 
 #### 3 👎 - Con
 

@@ -16,11 +16,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159153&caId=24112&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159153&caId=24112&tId=4)
 
-#### 41 👍 - Pro
+#### 56 👍 - Pro
 Testifying:
 * Kathleen Barry Johnson - [Historic South Downtown](/org/historic_south_downtown/)
+* Jamie Lee - Seattle Chinatown International District Preservation and Development Authority
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

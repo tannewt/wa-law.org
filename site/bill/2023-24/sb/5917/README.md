@@ -22,9 +22,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31914&aId=158896&caId=23940&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31914&aId=158896&caId=23940&tId=4)
 
-#### 5 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* KJ January - Spectrum Center
+* Matt Danielson - Spokane Pride
+* 💵Paul Dillon - [City of Spokane](/org/city_of_spokane/)
 
-#### 34 👎 - Con
+#### 62 👎 - Con
 
 #### 0 ❓ - Other
 

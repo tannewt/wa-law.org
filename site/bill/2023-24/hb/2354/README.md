@@ -17,13 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159643&caId=24189&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31943&aId=159643&caId=24189&tId=4)
 
-#### 8 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Dylan Doty - Washington Fire Chiefs Association
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* John Flanagan - [Port of Seattle](/org/port_of_seattle/)
+* Sean Eagan - [Port of Tacoma](/org/port_of_tacoma/)
 
 ### Wed 01/24 08:00 AM - Local Government (LG): HB 2354 Tax increment areas
 #### 72 👍 - Pro

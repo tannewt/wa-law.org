@@ -19,7 +19,9 @@ Sign up to testify:
 Testifying:
 * Sean Flynn - Public Disclosure Commission
 
-#### 1 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Conner Edwards - WA Professional Campaign Treasurer
 
 #### 2 ❓ - Other
 Testifying:

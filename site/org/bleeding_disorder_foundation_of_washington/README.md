@@ -25,7 +25,7 @@
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍2  
 
-## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍2  
+## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍3  
 
 ## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce 👍1  
 
@@ -33,19 +33,23 @@
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍2  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍3  
 
 ## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍1  
 
-## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍1  
+## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍2  
 
 ## [HB 1957](/bill/2023-24/hb/1957/) - Preventive service coverage 👍2  
 * 👍💵 Stephanie Simpson
 * 👍💵 Stephanie Simpson
 
+## [HB 1979](/bill/2023-24/hb/1979/) - Inhalers & epinephrine cost 👍1  
+
 ## [HB 2041](/bill/2023-24/hb/2041/) - Physician assistant practice 👍1  
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
+
+## [HB 2061](/bill/2023-24/hb/2061/) - Health employees/overtime 👍1  
 
 ## [HB 2066](/bill/2023-24/hb/2066/) - Health provider contracting 👍1  
 
@@ -60,6 +64,8 @@
 ## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍2  
 
 ## [HB 2361](/bill/2023-24/hb/2361/) - Standardized health plans 👍1  
+
+## [HB 2476](/bill/2023-24/hb/2476/) - Creating a covered lives assessment professional services rate account. 👍1  
 
 ## [SB 5036](/bill/2023-24/sb/5036/) - Audio-only telemedicine 👍2  
 

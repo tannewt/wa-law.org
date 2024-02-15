@@ -22,7 +22,7 @@ Sign up to testify:
 Testifying:
 * Kari Reardon - WDA/WACDL
 
-#### 7 👎 - Con
+#### 14 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 

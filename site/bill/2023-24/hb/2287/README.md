@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31938&aId=159209&caId=24131&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31938&aId=159209&caId=24131&tId=4)
 
-#### 66 👍 - Pro
+#### 91 👍 - Pro
 Testifying:
 * Melody Simle
 * Jim Chambers
@@ -27,7 +27,7 @@ Testifying:
 * Kehaulani Walker - FOTi (Families of the Incarcerated) PUA (People United Alliance)
 * Noreen Light - Information For A Change
 
-#### 36 👎 - Con
+#### 40 👎 - Con
 
 #### 1 ❓ - Other
 

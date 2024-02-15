@@ -14,12 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31912&aId=159258&caId=24158&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31912&aId=159258&caId=24158&tId=4)
 
-#### 73 👍 - Pro
+#### 77 👍 - Pro
 Testifying:
 * 💵Alex Hur - OneAmerica
 * Scott Allard - University of Washington, Evans School of Public Policy & Governance
 
-#### 13 👎 - Con
+#### 19 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -25,14 +25,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31946&aId=159581&caId=24181&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31946&aId=159581&caId=24181&tId=4)
 
-#### 129 👍 - Pro
+#### 352 👍 - Pro
 Testifying:
+* Sarah Bright - SEIU 925
+* Kairi Beliz
 * Rachel Ybarra - Starbucks Workers United
 
-#### 53 👎 - Con
+#### 324 👎 - Con
 Testifying:
 * 💵Brad Boswell - Seattle Metropolitan Chamber of Commerce
 * Robert (Bob) Battles - Association of Washington Business (AWB)
+* kyle bunch - Puterbaugh Construction
+* SAM SPIEGELMAN - Citizen Action Defense Fund
+* Jason Vander Veen
+* Jeannette Mcchesney
+* 💵Jennifer Ziegler - [Kaiser Aluminum](/org/kaiser_aluminum/)
 * 💵Rashma Agarwal - EASC - Economic Alliance of Snohomish County
 * Jerry VanderWood - AGC and WA Construction Industry Council
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
@@ -41,7 +48,7 @@ Testifying:
 * Max Martin - Associated Builders & Contractors
 * 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 
 ### Tue 01/09 10:30 AM - Labor & Workplace Standards (LAWS): HB 1893 Unemp ins/strikes & lockouts
 #### 192 👍 - Pro

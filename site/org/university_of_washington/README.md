@@ -118,6 +118,8 @@
 
 ## [HB 2116](/bill/2023-24/hb/2116/) - Pharmacist prescriptive auth 👍1  
 
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍1  
+
 ## [HB 2242](/bill/2023-24/hb/2242/) - Sexual assault/higher ed. 👍1  
 * 👍 Amanda Kost
 
@@ -126,6 +128,8 @@
 ## [HB 2348](/bill/2023-24/hb/2348/) - County hospital funding 👍1  
 
 ## [HB 2374](/bill/2023-24/hb/2374/) - Washington promise program 👍1  
+
+## [HB 2476](/bill/2023-24/hb/2476/) - Creating a covered lives assessment professional services rate account. 👍1  
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍3  
 * 👍 Joe Dacca

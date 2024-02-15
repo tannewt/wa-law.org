@@ -8,6 +8,21 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Thu 02/22 01:30 PM - Transportation (TR): SSB 6115 Speed safety cameras
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31961&aId=159747&caId=24327&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31961&aId=159747&caId=24327&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31961&aId=159747&caId=24327&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31961&aId=159747&caId=24327&tId=4)
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+Testifying:
+* Laurie Layne
+
+#### 0 ❓ - Other
+
 ### Mon 01/15 04:00 PM - Transportation (TRAN): SB 6115 Speed safety cameras
 #### 23 👍 - Pro
 Testifying:

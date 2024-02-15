@@ -20,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159097&caId=24032&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159097&caId=24032&tId=4)
 
-#### 49 👍 - Pro
+#### 56 👍 - Pro
 Testifying:
 * Jason Moon
 * Lynne Robinson - City of Bellevue Mayor
@@ -28,6 +28,12 @@ Testifying:
 * Naghmana Sherazi
 * Serena Chang
 * Suzanne Pak - APIC Pierce
+* Aaron Gervacio
+* Ava Waters
+* Capri Crosby
+* Harmony Johnson
+* Sophia Quinn
+* William Saguil
 
 #### 1 👎 - Con
 

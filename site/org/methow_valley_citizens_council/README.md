@@ -32,6 +32,8 @@
 
 ## [HB 2126](/bill/2023-24/hb/2126/) - Rural area ADUs  👎1 
 
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍1  
+
 ## [HB 2187](/bill/2023-24/hb/2187/) - Water/family farms  👎1 
 
 ## [HB 2253](/bill/2023-24/hb/2253/) - Community solar 👍1  

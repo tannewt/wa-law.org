@@ -19,15 +19,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31924&aId=159136&caId=24100&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31924&aId=159136&caId=24100&tId=4)
 
-#### 86 👍 - Pro
+#### 92 👍 - Pro
 Testifying:
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
-#### 50 👎 - Con
+#### 81 👎 - Con
 Testifying:
 * Tom Kwieciak - Building Industry Association of WA
 * Robert (Bob) Battles - Association of Washington Business (AWB)
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* kyle bunch - Puterbaugh Construction
 
 #### 0 ❓ - Other
 

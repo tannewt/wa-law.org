@@ -13,6 +13,19 @@
 * 01/24/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. Gina Mosbrucker leads the fight for added protections from fentanyl](https://gorgenewscenter.com/2024/01/24/rep-gina-mosbrucker-leads-the-fight-for-added-protections-from-fentanyl/#:~:text=House%20Bill%202396)
 
 ## Meetings
+### Tue 02/20 08:00 AM - Health & Long Term Care (HLTC): SHB 2396 Synthetic opioids
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31995&aId=159689&caId=24238&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31995&aId=159689&caId=24238&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31995&aId=159689&caId=24238&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31995&aId=159689&caId=24238&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/26 08:00 AM - Health Care & Wellness (HCW): HB 2396 Synthetic opioids
 #### 25 👍 - Pro
 Testifying:

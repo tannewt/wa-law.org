@@ -20,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=159002&caId=23998&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=159002&caId=23998&tId=4)
 
-#### 200 👍 - Pro
+#### 210 👍 - Pro
 Testifying:
 * Liz Pray - School Nurse Organization of Washington (SNOW)
 * Taylor Mason - School Nurse Organization of WA
