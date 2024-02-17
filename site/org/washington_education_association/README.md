@@ -510,7 +510,7 @@
 
 ## [HB 2209](/bill/2023-24/hb/2209/) - Lunar new year 👍2  
 
-## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍3  
+## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍4  
 * 👍💵 Simone Boe
 
 ## [HB 2215](/bill/2023-24/hb/2215/) - Enrichment levies limit 👍1  
@@ -526,6 +526,8 @@
 ## [HB 2244](/bill/2023-24/hb/2244/) - Retirement savings 👍1  
 
 ## [HB 2246](/bill/2023-24/hb/2246/) - Vacation leave accrual 👍2  
+
+## [HB 2256](/bill/2023-24/hb/2256/) - Children behavioral health 👍1  
 
 ## [HB 2266](/bill/2023-24/hb/2266/) - Construction/sanitary cond. 👍1  
 
@@ -561,7 +563,7 @@
 
 ## [HB 2437](/bill/2023-24/hb/2437/) - Retirement savings 👍1  
 
-## [HB 2441](/bill/2023-24/hb/2441/) - College in the HS fees  👎1 
+## [HB 2441](/bill/2023-24/hb/2441/) - College in the HS fees  👎2 
 
 ## [HB 2459](/bill/2023-24/hb/2459/) - Alt. measure disclosures 👍1  
 
@@ -946,6 +948,8 @@
 * 👍💵 Julie Salvi
 
 ## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍2  
+
+## [SB 5891](/bill/2023-24/sb/5891/) - School bus trespass 👍1  
 
 ## [SB 5894](/bill/2023-24/sb/5894/) - Equal pay/protected classes 👍1  
 

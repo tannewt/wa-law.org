@@ -31,7 +31,7 @@
 * 👍💵 Kelly Hall
 * 👍💵 Altinay Karasapan
 
-## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍2  
+## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍3  
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍2  
 * 👍 Megan Larkin
@@ -42,7 +42,7 @@
 
 ## [HB 1390](/bill/2023-24/hb/1390/) - District energy systems 👍4  
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍5  
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍6  
 * 👍 Megan Larkin
 * 👍 Megan Larkin
 
@@ -82,7 +82,8 @@
 ## [HB 2028](/bill/2023-24/hb/2028/) - Concerning manufacturer and new dealer franchise agreements.  👎1 
 * 👎💵 Leah Missik
 
-## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍1  
+## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍2  
+* 👍💵 Altinay Karasapan
 * 👍💵 Altinay Karasapan
 
 ## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍2  

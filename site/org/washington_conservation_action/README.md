@@ -29,7 +29,7 @@
 
 ## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍2  
 
-## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍3  
+## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍4  
 * 👍💵 Darcy Nonemacher
 * 👍 Rachel Baker
 

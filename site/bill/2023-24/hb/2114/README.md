@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/15/2024 [Crosscut](/org/crosscut/) - [WA Legislature keeps most of its priority bills alive — so far | Crosscut](https://crosscut.com/politics/2024/02/wa-legislature-keeps-most-its-priority-bills-alive-so-far#:~:text=House%20Bill%202114)
 * 02/14/2024 [NW News Network](/org/nw_news_network/) - [WA House approves rent stabilization bill, teeing up legislative showdown in the Senate | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-02-14/wa-house-approves-rent-stabilization-bill-teeing-up-legislative-showdown-in-the-senate#:~:text=House%20Bill%202114)
 * 02/14/2024 [The Center Square](/org/the_center_square/) - [Washington House passes bill limiting rent hikes to 7% | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_82cb3f00-cae9-11ee-b931-73a8817fcd66.html#:~:text=HB%202114)
 * 02/14/2024 [Gorge News Center](/org/gorge_news_center/) - [Rent control passes House; Republicans warn partisan bill could result in less housing and higher rents](https://gorgenewscenter.com/2024/02/14/rent-control-passes-house-republicans-warn-partisan-bill-could-result-in-less-housing-and-higher-rents/#:~:text=House%20Bill%202114)
@@ -47,18 +48,29 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=159803&caId=24332&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=159803&caId=24332&tId=4)
 
-#### 39 👍 - Pro
+#### 223 👍 - Pro
 Testifying:
+* 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
 * Stacey Valenzuela - Manufactured Homeowner
 * Don Carlson - Retired State, Senator and Tennant at Brookdale Greens Manu. Homes
 * 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* 💵Tathagata Pal - Legislative Liaison, WSU Graduate and Professional Student Assoication
 
-#### 5 👎 - Con
+#### 263 👎 - Con
 Testifying:
+* Amandeep Cheema
+* Douglas Cole - - None -
+* Carl Haglund - Columbia modern living
+* Carl Haglund - Columbia modern living
+* Carl Haglund - Columbia modern living
 * Christie Malchow
+* Tim Eyman - Initiative Activist
+* Bruce Becker
 * Constance Nelson
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Peter Hansen - Keyrenter Tacoma Property Management
 
 ### Wed 01/24 04:00 PM - Appropriations (APP): HB 2114 Residential tenants
 #### 1582 👍 - Pro

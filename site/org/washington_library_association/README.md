@@ -25,6 +25,8 @@
 ## [HB 2398](/bill/2023-24/hb/2398/) - Instruct. materials/parents 👍1  
 * 👍 Sarah Logan
 
+## [HB 2494](/bill/2023-24/hb/2494/) - School operating costs 👍1  
+
 ## [SB 5054](/bill/2023-24/sb/5054/) - Prof. learning communities 👍1  
 
 ## [SB 5102](/bill/2023-24/sb/5102/) - School library info and tech 👍10  

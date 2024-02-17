@@ -9,20 +9,15 @@
 
 ## Meetings
 ### Fri 02/16 10:30 AM - Local Government (LG): SSB 6140 Intensive rural development
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31956&aId=159086&caId=24060&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31956&aId=159086&caId=24060&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31956&aId=159086&caId=24060&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31956&aId=159086&caId=24060&tId=4)
-
-#### 52 👍 - Pro
+#### 59 👍 - Pro
 Testifying:
 * Dave Andersen - Washington Department of Commerce
 * Mindy Brooks - [Lewis County](/org/lewis_county/)
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

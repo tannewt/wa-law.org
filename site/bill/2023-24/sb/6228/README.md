@@ -20,11 +20,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159497&caId=24298&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159497&caId=24298&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Donna Baker-Miller - MCG Health
 
 ### Fri 02/02 01:30 PM - Ways & Means (WM): SSB 6228 Substance use treatment
 #### 13 👍 - Pro

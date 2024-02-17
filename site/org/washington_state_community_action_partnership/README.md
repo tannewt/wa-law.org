@@ -101,7 +101,7 @@
 
 ## [HB 2083](/bill/2023-24/hb/2083/) - Payday lending/small loans 👍1  
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍2  
 
 ## [HB 2234](/bill/2023-24/hb/2234/) - Low-income energy assistance  👎1 
 * 👎💵 Linda Garcia
@@ -170,6 +170,8 @@
 ## [SB 5609](/bill/2023-24/sb/5609/) - Housing approval 👍1  
 
 ## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍2  
+
+## [SB 5850](/bill/2023-24/sb/5850/) - Chronically absent students 👍1  
 
 ## [SB 5899](/bill/2023-24/sb/5899/) - Adding to the list of provisions prohibited from rental agreements. 👍1  
 

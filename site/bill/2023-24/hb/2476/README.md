@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 02/15 04:00 PM - Appropriations (APP): HB 2476 Covered lives assessment
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159159&caId=24128&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159159&caId=24128&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159159&caId=24128&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159159&caId=24128&tId=4)
-
-#### 572 👍 - Pro
+#### 606 👍 - Pro
 Testifying:
 * Zachary Stevens
 * K Burnell Schaetzel-Hill
@@ -23,16 +17,18 @@ Testifying:
 * MD, Dr. Douglas Seiler - TRA Medical Imaging
 * MD, Dr. Sung-Won Kim
 * 💵Sean Graham - Washington State Medical Association
+* Shannon LaMonica
 
-#### 30 👎 - Con
+#### 33 👎 - Con
 Testifying:
 * 💵Gary Strannigan - [Premera Blue Cross](/org/premera_blue_cross/)
 * Chris Bandoli - National Association of Benefits & Insurance Professionals - WA
 * Chris Bandoli - National Association of Benefits & Insurance Professionals - WA
 * 💵Gary Strannigan - [Premera Blue Cross](/org/premera_blue_cross/)
 * 💵Jennifer Muhm - [Regence Blue Shield](/org/regence_blue_shield/)
+* Jason Valian
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Evan Klein - Health Care Authority (HCA) - Special Assistant, Legislative & Policy Affairs
 * Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)

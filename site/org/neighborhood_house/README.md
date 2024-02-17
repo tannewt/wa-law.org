@@ -5,6 +5,10 @@
 ## [HB 1447](/bill/2023-24/hb/1447/) - Assistance programs 👍1  
 * 👍 Ali Scego
 
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍2  
+* 👍 Esteban Herrera
+* 👍 stacey holmes
+
 ## [HB 1916](/bill/2023-24/hb/1916/) - Infants and toddlers program 👍1  
 
 ## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  

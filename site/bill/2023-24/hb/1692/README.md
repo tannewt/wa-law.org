@@ -14,22 +14,20 @@
 
 ## Meetings
 ### Fri 02/16 08:00 AM - State Government & Elections (SGE): E2SHB 1692 Student advisory groups
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159096&caId=24031&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159096&caId=24031&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159096&caId=24031&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159096&caId=24031&tId=4)
-
-#### 17 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Dr. Nyla Rosen - [Institute for Community Leadership](/org/institute_for_community_leadership/)
 * James Layman - Association of Washington Student Leaders
 * Alexx Skelton
 * Kwabena Ledbetter - Student Rep Network of the Washington State School Directors' Association
+* Anjali Bergquist - Kennydale Elementary School
+* Fynn Manohchompoo
 
-#### 6 👎 - Con
+#### 7 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Michael Brunson
 
 ### Tue 01/16 01:30 PM - State Government & Tribal Relations (SGOV): HB 1692 Student advisory groups
 #### 6 👍 - Pro

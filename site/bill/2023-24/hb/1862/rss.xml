@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1862/</link>
 		<description>Updates about HB 1862</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 10 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 16 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -136,6 +136,34 @@
 			<pubDate>Sat, 10 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-10/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>1st substitute bill substituted.</title>
+			<description>1st substitute bill substituted.</description>
+			<pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-15/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 90; nays, 0; absent, 0; excused, 8.</title>
+			<description>Third reading, passed; yeas, 90; nays, 0; absent, 0; excused, 8.</description>
+			<pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-15/Third reading, passed; yeas, 90; nays, 0; absent, 0; excused, 8.</guid>
+		</item>
+		<item>
+			<title>House passes Leavitt bills to support National Guard families and veterans with disabilities – Washington State House Democrats</title>
+			<description>News article &quot;House passes Leavitt bills to support National Guard families and veterans with disabilities – Washington State House Democrats&quot; from House Democrats.</description>
+			<pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/02/15/house-passes-leavitt-bills-to-support-national-guard-families-and-veterans-with-disabilities/#:~:text=House%20Bill%201862</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Ways &amp; Means (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Ways &amp; Means (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-16/First reading, referred to Ways &amp; Means (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 	</channel>
 </rss>

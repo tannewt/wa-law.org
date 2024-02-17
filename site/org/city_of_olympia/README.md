@@ -109,7 +109,7 @@
 
 ## [HB 2323](/bill/2023-24/hb/2323/) - Rent payments/credit reports 👍1  
 
-## [HB 2375](/bill/2023-24/hb/2375/) - Senior property tax ex./ADUs 👍1  
+## [HB 2375](/bill/2023-24/hb/2375/) - Senior property tax ex./ADUs 👍2  
 
 ## [HB 2425](/bill/2023-24/hb/2425/) - Rental support program 👍1  
 

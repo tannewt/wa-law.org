@@ -23,9 +23,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159480&caId=24283&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159480&caId=24283&tId=4)
 
-#### 1 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Rosa Mai - Attorney General's Office
+* Veda Nayar
 
-#### 3 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Julie Barrett - Conservative Ladies of Washington
 
 #### 0 ❓ - Other
 

@@ -38,10 +38,11 @@
 * 👍 Amina Abdall
 * 👍💵 Amina Abdalla
 
-## [HB 2347](/bill/2023-24/hb/2347/) - Adult family home info. 👍6  
+## [HB 2347](/bill/2023-24/hb/2347/) - Adult family home info. 👍7  
 * 👍💵 Amina Abdalla
 * 👍💵 John Ficker
 * 👍💵 John Ficker
+* 👍💵 Amina Abdalla
 
 ## [SB 5103](/bill/2023-24/sb/5103/) - Medicaid patients/discharge 👍1  
 

@@ -11,6 +11,8 @@
 * ❓💵 Evangeline Stratton
 * ❓💵 Evangeline Stratton
 
+## [HB 1958](/bill/2023-24/hb/1958/) - Concerning nonconsensual removal of or tampering with a sexually protective device. 👍1  
+
 ## [HB 2237](/bill/2023-24/hb/2237/) - Parenting plan limitations  👎2 
 * 👎💵 Evangeline Stratton
 

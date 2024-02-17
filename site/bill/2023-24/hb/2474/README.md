@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/15/2024 [The Seattle Times](/org/the_seattle_times/) - [Why Plymouth Housing project didn’t work in Kenmore | The Seattle Times](https://www.seattletimes.com/opinion/why-plymouth-housing-project-didnt-work-in-kenmore/#:~:text=House%20Bill%202474)
 * 02/14/2024 [The Urbanist](/org/the_urbanist/) - [Redmond Swoops In To Save Kenmore’s Cancelled Low-Income Housing Project - The Urbanist](https://www.theurbanist.org/2024/02/14/redmond-swoops-in-to-save-kenmores-cancelled-low-income-housing-project/#:~:text=HB%202474)
 
 ## Meetings
@@ -23,7 +24,7 @@ Sign up to testify:
 Testifying:
 * Jon Culver
 
-#### 17 👎 - Con
+#### 23 👎 - Con
 Testifying:
 * Salim Nice - Mayor, City Mercer Island
 

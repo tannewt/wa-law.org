@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/15/2024 [Crosscut](/org/crosscut/) - [WA Legislature keeps most of its priority bills alive — so far | Crosscut](https://crosscut.com/politics/2024/02/wa-legislature-keeps-most-its-priority-bills-alive-so-far#:~:text=Senate%20Bill%205901)
 * 01/09/2024 [The Urbanist](/org/the_urbanist/) - [Micro-apartments Could Become Fully Legal in Washington, Again - The Urbanist](https://www.theurbanist.org/2024/01/09/micro-apartments-could-become-fully-legal-in-washington-again/#:~:text=Senate%20Bill%205901)
 * 01/07/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: Welcome to the 2024 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/07/this-week-in-the-senate-week-1-welcome-to-the-2024-session/#:~:text=Senate%20Bill%205901)
 * 01/05/2024 [Sightline Institute](/org/sightline_institute/) - [Washington Bill Would Legalize Low-cost “Co-living” Homes - Sightline Institute](https://www.sightline.org/2024/01/05/washington-bill-would-legalize-low-cost-co-living-homes/#:~:text=SB%205901)

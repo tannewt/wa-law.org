@@ -1,9 +1,10 @@
 # American Wood Council
 
-## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials  👎5 
+## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials  👎5 ❓1
 * 👎 Rachael Jamison
 * 👎 Rachael Jamison
 * 👎💵 Brandon Houskeeper
+* ❓💵 Brandon Houskeeper
 
 ## [HB 1342](/bill/2023-24/hb/1342/) - Embodied carbon reductions 👍1  
 * 👍 Rachael Jamison

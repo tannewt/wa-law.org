@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Fri 02/16 08:00 AM - State Government & Elections (SGE): HB 2209 Lunar new year
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159097&caId=24032&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159097&caId=24032&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159097&caId=24032&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159097&caId=24032&tId=4)
-
-#### 57 👍 - Pro
+#### 137 👍 - Pro
 Testifying:
 * Jason Moon
 * Lynne Robinson - City of Bellevue Mayor
@@ -34,10 +28,14 @@ Testifying:
 * Harmony Johnson
 * Sophia Quinn
 * William Saguil
+* Sun Burford
+* Karin Butler - Multicultural Association of Edmonds
+* Inaaya Habib
+* Carrie Huie - Washington State Commission on Asian Pacific American Affairs
 
 #### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 8 ❓ - Other
 
 ### Tue 01/16 01:30 PM - State Government & Tribal Relations (SGOV): HB 2209 Lunar new year
 #### 475 👍 - Pro

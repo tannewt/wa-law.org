@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5968/</link>
 		<description>Updates about SB 5968</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 16 Feb 2024 08:37:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -246,6 +246,30 @@
 			<pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-12/First reading, referred to Consumer Protection &amp; Business.</guid>
+		</item>
+		<item>
+			<title>❓Deepak Kumar - Splitero Inc.</title>
+			<description>Deepak Kumar signed up to testify Other. They are signed up to represent Splitero Inc..</description>
+			<pubDate>Thu, 15 Feb 2024 01:33:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Deepak/Kumar/2024-02-15 01:33:21</guid>
+		</item>
+		<item>
+			<title>👍Brendan Donckers - Northwest Consumer Law Center Board Member</title>
+			<description>Brendan Donckers signed up to testify Pro. They are signed up to represent Northwest Consumer Law Center Board Member.</description>
+			<pubDate>Thu, 15 Feb 2024 02:42:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brendan/Donckers/2024-02-15 02:42:17</guid>
+		</item>
+		<item>
+			<title>👍Andrew Pizor - National Consumer Law Center</title>
+			<description>Andrew Pizor signed up to testify Pro. They are signed up to represent National Consumer Law Center.</description>
+			<pubDate>Fri, 16 Feb 2024 08:37:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Andrew/Pizor/2024-02-16 08:37:27</guid>
 		</item>
 	</channel>
 </rss>

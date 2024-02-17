@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6092/</link>
 		<description>Updates about SB 6092</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 16 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -144,6 +144,13 @@
 			<pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-13/Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Environment &amp; Energy.</title>
+			<description>First reading, referred to Environment &amp; Energy.</description>
+			<pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-16/First reading, referred to Environment &amp; Energy.</guid>
 		</item>
 	</channel>
 </rss>

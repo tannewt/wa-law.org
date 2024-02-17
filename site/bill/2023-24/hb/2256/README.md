@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 02/16/2024 [House Democrats](/org/house_democrats/) - [House passes five Callan bills on education, early learning, health care  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/16/house-passes-five-callan-bills-on-education-early-learning-health-care/#:~:text=House%20Bill%202256)
+
 ## Meetings
 ### Mon 02/19 10:30 AM - Human Services (HS): ESHB 2256 Children behavioral health
 Sign up to testify:
@@ -16,9 +19,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159397&caId=24199&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159397&caId=24199&tId=4)
 
-#### 2 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * 💵Kashika Arora - Seattle Children's
+* Karen Kelly
 
 #### 0 👎 - Con
 

@@ -15,11 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159181&caId=24142&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159181&caId=24142&tId=4)
 
-#### 3 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Roger Rogoff - Office of Independent Investigations
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 5 👎 - Con
+#### 26 👎 - Con
 
 #### 0 ❓ - Other
 

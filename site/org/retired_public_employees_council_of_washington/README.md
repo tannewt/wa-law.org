@@ -19,9 +19,10 @@
 
 ## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍1  
 
-## [HB 1985](/bill/2023-24/hb/1985/) - PERS/TRS 1 benefit increase 👍20  
+## [HB 1985](/bill/2023-24/hb/1985/) - PERS/TRS 1 benefit increase 👍22  
 * 👍 Nancy Heley
 * 👍 Claude Burfect
+* 👍 Clair Olivers
 
 ## [HB 2013](/bill/2023-24/hb/2013/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍3  
 * 👍💵 Emmett Mills
@@ -31,8 +32,9 @@
 
 ## [HB 2244](/bill/2023-24/hb/2244/) - Retirement savings 👍1  
 
-## [HB 2481](/bill/2023-24/hb/2481/) - Waiving health benefit premiums in the public employees' benefits board. 👍2  
+## [HB 2481](/bill/2023-24/hb/2481/) - Waiving health benefit premiums in the public employees' benefits board. 👍4  
 * 👍 Matt Groshong
+* 👍 Nancy Heley
 
 ## [SB 5169](/bill/2023-24/sb/5169/) - Medicare/health care plans 👍7  
 * 👍 Carol Dotlich
@@ -69,4 +71,4 @@
 
 ## [SB 6069](/bill/2023-24/sb/6069/) - Retirement savings 👍1  
 
-## [SB 6094](/bill/2023-24/sb/6094/) - Retired health subsidy/PEBB   ❓1
+## [SB 6094](/bill/2023-24/sb/6094/) - Retired health subsidy/PEBB 👍1  ❓1

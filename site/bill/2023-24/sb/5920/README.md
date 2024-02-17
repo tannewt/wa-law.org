@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Fri 02/16 08:00 AM - Health Care & Wellness (HCW): SSB 5920 Psychiatric/cert. of need
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=159058&caId=24076&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=159058&caId=24076&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=159058&caId=24076&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=159058&caId=24076&tId=4)
-
-#### 10 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Cebell Berry
 

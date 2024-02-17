@@ -7,7 +7,9 @@
 ## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy  👎3 
 * 👎 William Shadbolt
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants  👎3 
+## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections  👎1 
+
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants  👎4 
 * 👎 William Shadbolt
 
 ## [HB 2160](/bill/2023-24/hb/2160/) - Housing development  👎2 

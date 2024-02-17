@@ -18,9 +18,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32003&aId=159364&caId=24243&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32003&aId=159364&caId=24243&tId=4)
 
-#### 6 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Mayor Theresa Richardson - [City of Richland](/org/city_of_richland/)
+* Diahann Howard - Port of Benton/Washington VERTical
 
 #### 0 👎 - Con
 

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/15/2024 [Crosscut](/org/crosscut/) - [WA Legislature keeps most of its priority bills alive — so far | Crosscut](https://crosscut.com/politics/2024/02/wa-legislature-keeps-most-its-priority-bills-alive-so-far#:~:text=Senate%20Bill%206242)
+
 ## Meetings
 ### Mon 01/22 04:00 PM - Ways & Means (WM): SB 6242 Law enforcement training
 #### 21 👍 - Pro

@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/15/2024 [Crosscut](/org/crosscut/) - [WA Legislature keeps most of its priority bills alive — so far | Crosscut](https://crosscut.com/politics/2024/02/wa-legislature-keeps-most-its-priority-bills-alive-so-far#:~:text=House%20Bill%201368)
 * 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=SHB%201368)
 * 01/29/2024 [House Democrats](/org/house_democrats/) - [Senn’s Bill to Expand Electric School Buses, Reduce Environmental Injustice Advances to House Floor  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/29/senns-bill-to-expand-electric-school-buses-reduce-environmental-injustice-advances-to-house-floor/#:~:text=House%20Bill%201368,)
 * 01/28/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/28/the-house-hot-sheet-for-week-4-of-the-2024-legislative-session/#:~:text=SHB%201368)
@@ -33,14 +34,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159732&caId=24226&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159732&caId=24226&tId=4)
 
-#### 30 👍 - Pro
+#### 134 👍 - Pro
 Testifying:
 * Maddy Thompson
 * 💵Melissa Gombosky - Evergreen and Vancouver Public Schools
+* Charlie Brown - South Sound Superintendents
 * Anna Lising - Governor's Office
 * Molly Williams - Department of Ecology
+* Devon Kellogg - Washington State PTA
 
-#### 3 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Teresa Ekdahl-Johnson
+* Tommy Gallegos - [Washington Association for Pupil Transportation](/org/washington_association_for_pupil_transportation/)
 
 #### 0 ❓ - Other
 

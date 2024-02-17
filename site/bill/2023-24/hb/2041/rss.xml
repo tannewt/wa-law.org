@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2041/</link>
 		<description>Updates about HB 2041</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2024 09:51:28 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -142,6 +142,38 @@
 			<pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-13/First reading, referred to Health &amp; Long Term Care.</guid>
+		</item>
+		<item>
+			<title>👍💵Chelsea Hager - Washington Academy of Physician Assistants</title>
+			<description>Chelsea Hager signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_academy_of_physician_assistants/&quot;&gt;Washington Academy of Physician Assistants&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Thu, 15 Feb 2024 06:52:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Chelsea/Hager/2024-02-15 06:52:31</guid>
+		</item>
+		<item>
+			<title>👍Paul Surette - Washington Academy of Physician Assistants</title>
+			<description>Paul Surette signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_academy_of_physician_assistants/&quot;&gt;Washington Academy of Physician Assistants&lt;/a&gt;.</description>
+			<pubDate>Thu, 15 Feb 2024 06:52:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Paul/Surette/2024-02-15 06:52:31</guid>
+		</item>
+		<item>
+			<title>👍Linda Dale - Washington Academy of Physician Assistants</title>
+			<description>Linda Dale signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_academy_of_physician_assistants/&quot;&gt;Washington Academy of Physician Assistants&lt;/a&gt;.</description>
+			<pubDate>Thu, 15 Feb 2024 06:54:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Linda/Dale/2024-02-15 06:54:10</guid>
+		</item>
+		<item>
+			<title>❓💵Alex Wehinger - WA State Medical Association (WSMA)</title>
+			<description>Alex Wehinger signed up to testify Other. They are signed up to represent WA State Medical Association (WSMA). They are a registered lobbyist.</description>
+			<pubDate>Thu, 15 Feb 2024 09:51:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Alex/Wehinger/2024-02-15 09:51:28</guid>
 		</item>
 	</channel>
 </rss>

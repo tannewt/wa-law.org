@@ -115,7 +115,7 @@
 ## [HB 2095](/bill/2023-24/hb/2095/) - Gift certificates/unclaimed 👍4  
 * 👍💵 Kristin Ang
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍8  
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍9  
 
 ## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍1  
 

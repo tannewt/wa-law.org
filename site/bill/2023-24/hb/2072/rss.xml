@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2072/</link>
 		<description>Updates about HB 2072</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Feb 2024 03:52:07 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 16 Feb 2024 06:37:28 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -122,6 +122,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jonathan/Mark/2024-02-12 03:52:07</guid>
+		</item>
+		<item>
+			<title>👎Tim Barrett - Attorney General's Office</title>
+			<description>Tim Barrett signed up to testify Con.</description>
+			<pubDate>Fri, 16 Feb 2024 06:37:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Tim/Barrett/2024-02-16 06:37:28</guid>
 		</item>
 	</channel>
 </rss>

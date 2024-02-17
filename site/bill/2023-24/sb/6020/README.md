@@ -9,23 +9,18 @@
 
 ## Meetings
 ### Fri 02/16 10:30 AM - Agriculture and Natural Resources (AGNR): SSB 6020 Nonspot shrimp pot license
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31920&aId=159202&caId=24152&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31920&aId=159202&caId=24152&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31920&aId=159202&caId=24152&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31920&aId=159202&caId=24152&tId=4)
-
 #### 3 👍 - Pro
 Testifying:
 * Aaron Dufault - WDFW
 * Daniel Sund - WDFW
 * Joe Verdoes
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Kyle Crews - Puget sound shrimp association
+* Brian Allison
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 01/22 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 6020 Nonspot shrimp pot license
 #### 4 👍 - Pro

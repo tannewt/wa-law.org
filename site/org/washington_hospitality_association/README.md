@@ -219,13 +219,14 @@
 ## [SB 5777](/bill/2023-24/sb/5777/) - Unemp ins/strikes & lockouts  👎1 
 * 👎💵 Julia Gorton
 
-## [SB 5778](/bill/2023-24/sb/5778/) - Employer political speech  👎1 
+## [SB 5778](/bill/2023-24/sb/5778/) - Employer political speech  👎2 
+* 👎 Montana Miranda
 * 👎 Montana Miranda
 
 ## [SB 5788](/bill/2023-24/sb/5788/) - Service animal training   ❓1
 * ❓💵 Samantha Louderback
 
-## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave  👎1 
+## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave  👎2 
 * 👎💵 Julia Gorton
 
 ## [SB 5835](/bill/2023-24/sb/5835/) - Rule making websites 👍1  

@@ -18,7 +18,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159587&caId=24210&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159587&caId=24210&tId=4)
 
-#### 34 👍 - Pro
+#### 89 👍 - Pro
+Testifying:
+* Bri Crofton
+* 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
+* David Heldreth
 
 #### 0 👎 - Con
 

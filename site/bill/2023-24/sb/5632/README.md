@@ -12,6 +12,19 @@
 * 02/05/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 5: Addressing addiction, fair housing and support for nurses - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/02/05/this-week-in-the-senate-week-5-addressing-addiction-fair-housing-and-support-for-nurses/#:~:text=SB%205632)
 
 ## Meetings
+### Tue 02/20 10:30 AM - Labor & Workplace Standards (LAWS): ESB 5632 Labor disputes/health care
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32032&aId=159840&caId=24348&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32032&aId=159840&caId=24348&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32032&aId=159840&caId=24348&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32032&aId=159840&caId=24348&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 03/14 01:30 PM - Health Care & Wellness (HCW): SB 5632 Labor disputes/health care
 #### 13 👍 - Pro
 Testifying:

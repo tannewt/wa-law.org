@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6278/</link>
 		<description>Updates about SB 6278</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Feb 2024 11:04:50 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2024 01:04:12 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -137,6 +137,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Melissa/Spear/2024-02-12 11:04:50</guid>
+		</item>
+		<item>
+			<title>👍Zachary Pacleb - Brothers &amp; Co.</title>
+			<description>Zachary Pacleb signed up to testify Pro. They are signed up to represent Brothers &amp; Co..</description>
+			<pubDate>Thu, 15 Feb 2024 01:04:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Zachary/Pacleb/2024-02-15 01:04:12</guid>
 		</item>
 	</channel>
 </rss>

@@ -9,13 +9,11 @@
 
 ## Meetings
 ### Fri 02/16 08:00 AM - Health & Long Term Care (HLTC): SHB 2102 PFML benefits/health info.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31945&aId=159164&caId=24121&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31945&aId=159164&caId=24121&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31945&aId=159164&caId=24121&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31945&aId=159164&caId=24121&tId=4)
-
-#### 79 👍 - Pro
+#### 84 👍 - Pro
+Testifying:
+* Consuelo Rodriguez - La Casa Hogar
+* Joe Kendo - Washington State labor Council
+* 💵Carrie Glover - WithinReach
 
 #### 1 👎 - Con
 

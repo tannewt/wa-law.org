@@ -5,7 +5,8 @@
 
 ## [HB 1690](/bill/2023-24/hb/1690/) - Kidney disease centers 👍1  
 
-## [HB 2128](/bill/2023-24/hb/2128/) - Certificate of need program   ❓1
+## [HB 2128](/bill/2023-24/hb/2128/) - Certificate of need program   ❓2
+* ❓💵 Jessica Hostetler
 * ❓💵 Jessica Hostetler
 
 ## [SB 5181](/bill/2023-24/sb/5181/) - Medical assistants 👍1  

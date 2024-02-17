@@ -14,7 +14,7 @@ Testifying:
 * Ingrid Ulrey - Washington Health Benefit Exchange
 * Jane Beyer - WA Office of the Insurance Commissioner
 * Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
-* Sara Abbott - Better Health Together
+* Sara Abbott - [Better Health Together](/org/better_health_together/)
 * Jim Freeburg - Patient Coalition of Washington
 * Neil Angst
 * 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)

@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/15/2024 [Crosscut](/org/crosscut/) - [WA Legislature keeps most of its priority bills alive — so far | Crosscut](https://crosscut.com/politics/2024/02/wa-legislature-keeps-most-its-priority-bills-alive-so-far#:~:text=House%20Bill%201391)
 * 02/08/2024 [House Democrats](/org/house_democrats/) - [House Passes Bill Simplifying Access to Energy-Efficient Building Upgrades  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/08/house-passes-bill-simplifying-access-to-energy-efficient-building-upgrades/#:~:text=House%20Bill%201391)
 * 01/04/2024 [Cascadia Daily News](/org/cascadia_daily_news/) - [Fentanyl, housing, public safety top priorities for Washington Legislature | Cascadia Daily News](https://www.cascadiadaily.com/2024/jan/04/fentanyl-housing-public-safety-top-priorities-in-2024-legislative-session/#:~:text=House%20Bill%201391)
 * 03/04/2023 [House Democrats](/org/house_democrats/) - [Ramel Bills to Improve Building Energy Systems Pass House of Representatives – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/04/ramel-bills-to-improve-building-energy-systems-pass-house-of-representatives/#:~:text=House%20Bill%201391)
@@ -16,25 +17,30 @@
 
 ## Meetings
 ### Fri 02/16 08:00 AM - Environment, Energy & Technology (ENET): 2SHB 1391 Energy in buildings
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31933&aId=159651&caId=24191&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31933&aId=159651&caId=24191&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31933&aId=159651&caId=24191&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31933&aId=159651&caId=24191&tId=4)
-
-#### 158 👍 - Pro
+#### 277 👍 - Pro
 Testifying:
 * Liz Reichart - Washington State Department of Commerce (SEO)
+* Ilona Kerby - Lower Columbia CAP
+* Sarah Miranda
+* Angela Griffin - Byrd Barr Place
+* Greg Winter - [Opportunity Council](/org/opportunity_council/)
+* kimberly thomas
+* Esteban Herrera
+* Kirsten York - Multi-Service Center
 * Dewi Ali - Emerald Cities Collaborative
 * 💵Matthew Hepner - IBEW/CEWW
 * Rachel Koller - Shift Zero
+* Leslie Naramore - Washington Gorge Action Programs
+* Dave Buescher - American Institute of Architects WA Council
 
-#### 9 👎 - Con
+#### 51 👎 - Con
 Testifying:
+* Tad Sommerville
 * Charlie Brown - Cascade Natural Gas and NW Natural
 * 💵John Rothlin - Avista
+* 💵Natasha Jackson - [Northwest Gas Association](/org/northwest_gas_association/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Fri 03/24 08:00 AM - Environment, Energy & Technology (ENET): 2SHB 1391 Energy in buildings
 #### 108 👍 - Pro

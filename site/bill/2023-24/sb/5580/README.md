@@ -15,13 +15,11 @@
 
 ## Meetings
 ### Fri 02/16 08:00 AM - Health Care & Wellness (HCW): 2E2SSB 5580 Maternal health outcomes
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=159279&caId=24160&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=159279&caId=24160&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=159279&caId=24160&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=159279&caId=24160&tId=4)
-
-#### 88 👍 - Pro
+#### 104 👍 - Pro
+Testifying:
+* Lee Che Leong - Northwest Health Law Advocates (NoHLA)
+* Siri Larson Iverson - Midwives Association of WA State
+* Vania Rudolf - Washington Society of Addiction Medicine
 
 #### 1 👎 - Con
 

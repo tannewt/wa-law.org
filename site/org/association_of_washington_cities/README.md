@@ -354,7 +354,7 @@
 ## [HB 2308](/bill/2023-24/hb/2308/) - Existing structures/housing 👍1  
 * 👍💵 Carl Schroeder
 
-## [HB 2311](/bill/2023-24/hb/2311/) - First responder wellness 👍1  
+## [HB 2311](/bill/2023-24/hb/2311/) - First responder wellness 👍2  
 
 ## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
 
@@ -613,7 +613,7 @@
 
 ## [SB 5718](/bill/2023-24/sb/5718/) - State broadband map 👍1  
 
-## [SB 5722](/bill/2023-24/sb/5722/) - Traffic cameras, photo tolls 👍1  
+## [SB 5722](/bill/2023-24/sb/5722/) - Traffic cameras, photo tolls 👍2  
 
 ## [SB 5723](/bill/2023-24/sb/5723/) - Even-numbered year elections 👍1  
 
@@ -624,7 +624,7 @@
 ## [SB 5778](/bill/2023-24/sb/5778/) - Employer political speech   ❓1
 * ❓💵 Candice Bock
 
-## [SB 5780](/bill/2023-24/sb/5780/) - Public defense & prosecution 👍2  
+## [SB 5780](/bill/2023-24/sb/5780/) - Public defense & prosecution 👍3  
 
 ## [SB 5781](/bill/2023-24/sb/5781/) - Establishing a law student rural public defense program. 👍2  
 * 👍💵 Lindsey Hueer
@@ -640,7 +640,7 @@
 
 ## [SB 5834](/bill/2023-24/sb/5834/) - Urban growth areas 👍2  
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍3  
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍4  
 
 ## [SB 5872](/bill/2023-24/sb/5872/) - Concerning vehicle and operator requirements for autonomous vehicles. 👍1  
 
@@ -665,7 +665,7 @@
 
 ## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD 👍1  
 
-## [SB 5937](/bill/2023-24/sb/5937/) - Crime victims & witnesses   ❓1
+## [SB 5937](/bill/2023-24/sb/5937/) - Crime victims & witnesses 👍1  ❓1
 
 ## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  ❓1
 * ❓ Brandy DeLange
@@ -693,7 +693,7 @@
 ## [SB 6040](/bill/2023-24/sb/6040/) - Public works payments   ❓1
 * ❓ Brandy DeLange
 
-## [SB 6061](/bill/2023-24/sb/6061/) - Housing development/SEPA   ❓1
+## [SB 6061](/bill/2023-24/sb/6061/) - Housing development/SEPA   ❓2
 * ❓💵 Carl Schroeder
 
 ## [SB 6076](/bill/2023-24/sb/6076/) - Criminal justice local tax 👍1  
@@ -753,7 +753,7 @@
 ## [SB 6242](/bill/2023-24/sb/6242/) - Law enforcement training 👍1  
 * 👍💵 Lindsey Hueer
 
-## [SB 6251](/bill/2023-24/sb/6251/) - Behavioral crisis coord. 👍1  
+## [SB 6251](/bill/2023-24/sb/6251/) - Behavioral crisis coord. 👍2  
 
 ## [SB 6285](/bill/2023-24/sb/6285/) - Use of impact fees  👎1 
 * 👎💵 Carl Schroeder

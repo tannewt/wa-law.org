@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/16/2024 [House Democrats](/org/house_democrats/) - [House passes five Callan bills on education, early learning, health care  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/16/house-passes-five-callan-bills-on-education-early-learning-health-care/#:~:text=House%20Bill%202411)
 * 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=HB%202411)
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202411)
 

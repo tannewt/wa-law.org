@@ -161,7 +161,9 @@
 
 ## [SB 5777](/bill/2023-24/sb/5777/) - Unemp ins/strikes & lockouts 👍1  
 
-## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave 👍1  
+## [SB 5778](/bill/2023-24/sb/5778/) - Employer political speech 👍1  
+
+## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave 👍2  
 
 ## [SB 5808](/bill/2023-24/sb/5808/) - Safety telecom/interest arb. 👍1  
 * 👍💵 Seamus Petrie
@@ -180,5 +182,5 @@
 
 ## [SB 6074](/bill/2023-24/sb/6074/) - TNC driver death benefits 👍1  
 
-## [SB 6194](/bill/2023-24/sb/6194/) - Legislative employees   ❓1
+## [SB 6194](/bill/2023-24/sb/6194/) - Legislative employees   ❓2
 * ❓💵 Seamus Petrie

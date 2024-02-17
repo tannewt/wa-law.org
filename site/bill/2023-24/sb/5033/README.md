@@ -19,7 +19,7 @@
 Testifying:
 * Dawn Bender
 * 💵Larry Shannon - Washington State Association for Justice
-* Gabriel Galanda - Galanda Broadman, PLLC
+* 💵Gabriel Galanda - Galanda Broadman, PLLC
 
 #### 1 👎 - Con
 

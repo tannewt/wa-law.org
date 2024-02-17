@@ -41,7 +41,8 @@
 ## [HB 2196](/bill/2023-24/hb/2196/) - Alcohol concentration/DUI  👎1 
 * 👎 Josh McDonald
 
-## [HB 2204](/bill/2023-24/hb/2204/) - Emergency liquor permits 👍1  
+## [HB 2204](/bill/2023-24/hb/2204/) - Emergency liquor permits 👍2  
+* 👍 Josh McDonald
 * 👍 Josh McDonald
 
 ## [HB 2260](/bill/2023-24/hb/2260/) - Alcohol sale to minors/civil 👍1  

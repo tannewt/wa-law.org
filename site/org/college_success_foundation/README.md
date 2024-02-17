@@ -61,6 +61,9 @@
 
 ## [HB 2053](/bill/2023-24/hb/2053/) - Establishing the ninth grade success grant program. 👍2  
 
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
+* ❓💵 Juliet Schindler
+
 ## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍1  
 * 👍💵 Juliet Schindler
 

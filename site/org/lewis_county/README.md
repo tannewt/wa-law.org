@@ -24,7 +24,7 @@
 
 ## [SB 5478](/bill/2023-24/sb/5478/) - Bridge jumping signs 👍1  
 
-## [SB 5649](/bill/2023-24/sb/5649/) - Floodproofing improvements 👍2  
+## [SB 5649](/bill/2023-24/sb/5649/) - Floodproofing improvements 👍3  
 
 ## [SB 6140](/bill/2023-24/sb/6140/) - Intensive rural development 👍2  
 * 👍 Mindy Brooks

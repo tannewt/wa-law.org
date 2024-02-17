@@ -19,16 +19,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32014&aId=159488&caId=24270&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32014&aId=159488&caId=24270&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * 💵Michael White - [King County](/org/king_county/)
+* Mary Connolly - South Sound Housing Affordability Partners
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Adrienne Mason - Akin
+* Susan Baird-Joshi - Washington State PTA
+* Melissa Stone - WSPTA
 * 💵Melissa Johnson - [Community Residential Services Association](/org/community_residential_services_association/)
+* Tyler Muench - Office of Superintendent of Public Instruction
 
 ### Thu 01/11 01:30 PM - Capital Budget (CB): HB 2089 Capital budget, supplemental
 #### 35 👍 - Pro

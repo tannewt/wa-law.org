@@ -35,7 +35,7 @@
 ## [SB 5555](/bill/2023-24/sb/5555/) - Certified peer specialists   ❓1
 * ❓ Julia O'Connor
 
-## [SB 5660](/bill/2023-24/sb/5660/) - Mental health adv directives 👍1  
+## [SB 5660](/bill/2023-24/sb/5660/) - Mental health adv directives 👍2  
 * 👍 Julia O'Connor
 
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors   ❓1

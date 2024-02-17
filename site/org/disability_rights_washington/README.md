@@ -68,7 +68,7 @@
 
 ## [HB 2030](/bill/2023-24/hb/2030/) - Revoking a person's voting rights only when convicted of a state crime punishable by death. 👍1  
 
-## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍1  
+## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍2  
 
 ## [HB 2177](/bill/2023-24/hb/2177/) - Sex offender policy board 👍1  
 

@@ -5,7 +5,8 @@
 * 👍💵 Lukas Hunter
 * 👍💵 Lukas Hunter
 
-## [HB 1453](/bill/2023-24/hb/1453/) - Medical cannabis/tax 👍1  
+## [HB 1453](/bill/2023-24/hb/1453/) - Medical cannabis/tax 👍2  
+* 👍💵 Lukas Hunter
 * 👍💵 Lukas Hunter
 
 ## [HB 1581](/bill/2023-24/hb/1581/) - Cannabis commission  👎1 
@@ -22,7 +23,8 @@
 ## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions 👍1  
 * 👍💵 Lukas Hunter
 
-## [HB 2151](/bill/2023-24/hb/2151/) - Cannabis lab. accreditation 👍1  
+## [HB 2151](/bill/2023-24/hb/2151/) - Cannabis lab. accreditation 👍2  
+* 👍💵 Lukas Hunter
 * 👍💵 Lukas Hunter
 
 ## [HB 2182](/bill/2023-24/hb/2182/) - Regulated substance use data 👍2  

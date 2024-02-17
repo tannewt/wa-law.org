@@ -7,7 +7,13 @@
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
 
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍1  
+* 👍 Greg Winter
+
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
+
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
+* 👍 Greg Winter
 
 ## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍2  
 

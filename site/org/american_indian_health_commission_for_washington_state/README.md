@@ -18,6 +18,9 @@
 
 ## [HB 2019](/bill/2023-24/hb/2019/) - Native American apprentices 👍3  
 
+## [HB 2075](/bill/2023-24/hb/2075/) - Indian health care providers 👍1  
+* 👍💵 Vicki Lowe
+
 ## [HB 2098](/bill/2023-24/hb/2098/) - Women's commission/gifts 👍1  
 
 ## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention 👍3  

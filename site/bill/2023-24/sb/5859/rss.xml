@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5859/</link>
 		<description>Updates about SB 5859</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,13 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Law &amp; Justice.</guid>
+		</item>
+		<item>
+			<title>Legislature fails domestic violence survivors, no path forward for needed reforms</title>
+			<description>News article &quot;Legislature fails domestic violence survivors, no path forward for needed reforms&quot; from Gorge News Center.</description>
+			<pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2024/02/15/legislature-fails-domestic-violence-survivors-no-path-forward-for-needed-reforms/#:~:text=Senate%20Bill%205859</guid>
 		</item>
 	</channel>
 </rss>

@@ -11,3 +11,6 @@
 
 ## [SB 5674](/bill/2023-24/sb/5674/) - Surplus property/housing 👍1  
 * 👍💵 Nick Federici
+
+## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  
+* 👍 Kiara Daniels

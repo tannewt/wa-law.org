@@ -14,18 +14,18 @@
 
 ## Meetings
 ### Fri 02/16 08:00 AM - Postsecondary Education & Workforce (PEW): SB 5904 Financial aid terms
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31903&aId=159257&caId=24163&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31903&aId=159257&caId=24163&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31903&aId=159257&caId=24163&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31903&aId=159257&caId=24163&tId=4)
-
-#### 40 👍 - Pro
+#### 92 👍 - Pro
 Testifying:
 * 💵Joel Anderson - Washington Student Achievement Council
 * Jacob Vigdor - University of Washington Faculty
+* 💵Juliet Schindler - College Success Foundation and High School Success Coalition
+* Ellis Andrews - University of Washington Student
+* Sean Behl - Associated Student Government of Bellevue College
+* Stella Seth - Legislative Liaison, Associated Students, Western Washington University
+* 💵Collin Bannister - The Washington Student Association and ASWSU
+* 💵Paula Sardinas - WBBA (WA Build Back Black Alliance)
 
-#### 19 👎 - Con
+#### 40 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2411/</link>
 		<description>Updates about HB 2411</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 15 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 16 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -124,6 +124,20 @@
 			<pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-15/First reading, referred to Early Learning &amp; K-12 Education (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Early Learning &amp; K-12 Education.</title>
+			<description>First reading, referred to Early Learning &amp; K-12 Education.</description>
+			<pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-15/First reading, referred to Early Learning &amp; K-12 Education.</guid>
+		</item>
+		<item>
+			<title>House passes five Callan bills on education, early learning, health care  – Washington State House Democrats</title>
+			<description>News article &quot;House passes five Callan bills on education, early learning, health care  – Washington State House Democrats&quot; from House Democrats.</description>
+			<pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/02/16/house-passes-five-callan-bills-on-education-early-learning-health-care/#:~:text=House%20Bill%202411</guid>
 		</item>
 	</channel>
 </rss>

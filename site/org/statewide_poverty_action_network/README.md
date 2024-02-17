@@ -114,17 +114,18 @@
 
 ## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
 
-## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍8  
+## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍9  
 * 👍💵 Alex Hur
 * 👍💵 Lianna Kressin
 * 👍💵 Lianna Kressin
 * 👍💵 Alex Hur
+* 👍💵 Lianna Kressin
 
 ## [HB 2030](/bill/2023-24/hb/2030/) - Revoking a person's voting rights only when convicted of a state crime punishable by death. 👍1  
 
 ## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects 👍1  
 
-## [HB 2072](/bill/2023-24/hb/2072/) - Antitrust penalties 👍1  
+## [HB 2072](/bill/2023-24/hb/2072/) - Antitrust penalties 👍2  
 
 ## [HB 2081](/bill/2023-24/hb/2081/) - Home equity sharing 👍1  
 
@@ -225,7 +226,7 @@
 
 ## [SB 5893](/bill/2023-24/sb/5893/) - Gate money/DOC 👍1  
 
-## [SB 5943](/bill/2023-24/sb/5943/) - Resource data tool 👍1  
+## [SB 5943](/bill/2023-24/sb/5943/) - Resource data tool 👍3  
 
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍1  
 

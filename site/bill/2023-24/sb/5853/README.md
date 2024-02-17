@@ -20,10 +20,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159528&caId=24303&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159528&caId=24303&tId=4)
 
-#### 2 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Scarlett Coll - Lake Washington High School
 * 💵Kashika Arora - Seattle Children's
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 
 #### 0 👎 - Con
 

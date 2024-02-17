@@ -16,13 +16,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159674&caId=24194&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159674&caId=24194&tId=4)
 
-#### 31 👍 - Pro
+#### 35 👍 - Pro
 Testifying:
 * Lisa Henderson - Washington State Association of County Clerks
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Chach Duarte White - Legal Counsel for Youth and Children (LCYC)
 
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1205 Service by pub./dependency
 #### 35 👍 - Pro

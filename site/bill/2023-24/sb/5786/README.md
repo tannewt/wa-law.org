@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Fri 02/16 10:30 AM - Civil Rights & Judiciary (CRJ): SSB 5786 Business corporations
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159131&caId=24084&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159131&caId=24084&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159131&caId=24084&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159131&caId=24084&tId=4)
-
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Eric DeJong - Corporate Act Revision Committee of the WSBA Business Law Section
 

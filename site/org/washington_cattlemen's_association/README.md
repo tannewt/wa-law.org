@@ -54,6 +54,8 @@
 
 ## [SB 5915](/bill/2023-24/sb/5915/) - Extending an existing hazardous substance tax exemption for certain agricultural crop protection products that are temporarily warehoused but not otherwise used, manufactured, packaged, or sold in the state of Washington. 👍1  
 
+## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  
+
 ## [SB 6062](/bill/2023-24/sb/6062/) - DNR trust asset leasing 👍1  
 
 ## [SB 6294](/bill/2023-24/sb/6294/) - Fur products  👎1 

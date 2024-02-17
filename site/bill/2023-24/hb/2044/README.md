@@ -19,7 +19,7 @@ Testifying:
 * 💵Michael White - [King County](/org/king_county/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 6 👎 - Con
+#### 7 👎 - Con
 
 #### 0 ❓ - Other
 

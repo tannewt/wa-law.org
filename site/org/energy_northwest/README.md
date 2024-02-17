@@ -14,6 +14,8 @@
 * 👍 Josh Lozano
 * 👍 Dave Arbaugh
 
+## [HB 2120](/bill/2023-24/hb/2120/) - Clean energy manufacturers 👍1  
+
 ## [SB 5129](/bill/2023-24/sb/5129/) - Nuclear reactor technology 👍1  
 * 👍 Josh Lozano
 

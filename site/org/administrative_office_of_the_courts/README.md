@@ -41,8 +41,10 @@
 * 👍 Brittany Gregory
 * 👍 Dawn Rubio
 
-## [HB 2056](/bill/2023-24/hb/2056/) - Supreme court bailiffs 👍2  
+## [HB 2056](/bill/2023-24/hb/2056/) - Supreme court bailiffs 👍4  
 * 👍 Brittany Gregory
+* 👍 Kyle Landry
+* 👍 Dawn Rubio
 * 👍 Kyle Landry
 
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍3  

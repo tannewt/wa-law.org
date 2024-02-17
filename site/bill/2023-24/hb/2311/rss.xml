@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2311/</link>
 		<description>Updates about HB 2311</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2024 01:09:21 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -158,6 +158,14 @@
 			<pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-13/First reading, referred to Law &amp; Justice.</guid>
+		</item>
+		<item>
+			<title>👍Andy McCurdy - Sumner Police Department</title>
+			<description>Andy McCurdy signed up to testify Pro. They are signed up to represent Sumner Police Department.</description>
+			<pubDate>Thu, 15 Feb 2024 01:09:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Andy/McCurdy/2024-02-15 01:09:21</guid>
 		</item>
 	</channel>
 </rss>

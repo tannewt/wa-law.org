@@ -10,18 +10,13 @@
 
 ## Meetings
 ### Fri 02/16 08:00 AM - Human Services, Youth, & Early Learning (HSEL): 2SSB 5591 Dependent youth financial ed
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31929&aId=159326&caId=24170&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31929&aId=159326&caId=24170&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31929&aId=159326&caId=24170&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31929&aId=159326&caId=24170&tId=4)
-
-#### 34 👍 - Pro
+#### 66 👍 - Pro
 Testifying:
 * 💵Emily Stochel - [College Success Foundation](/org/college_success_foundation/)
 * Sam Martin - Washington Coalition for Homeless Youth Advocacy
+* 💵Joe Adamack - Washington's Credit Unions - GWCUA
 
-#### 6 👎 - Con
+#### 55 👎 - Con
 
 #### 0 ❓ - Other
 

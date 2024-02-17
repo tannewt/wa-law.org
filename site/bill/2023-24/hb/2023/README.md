@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/15/2024 [House Democrats](/org/house_democrats/) - [Shavers’ election bill passes out of House, moves to Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/15/shavers-election-bill-passes-out-of-house-moves-to-senate/#:~:text=House%20Bill%202023)
+
 ## Meetings
 ### Thu 02/01 10:30 AM - Appropriations (APP): HB 2023 Elections/language assist.
 #### 100 👍 - Pro

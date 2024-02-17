@@ -13,17 +13,17 @@
 
 ## Meetings
 ### Fri 02/16 10:30 AM - Labor & Workplace Standards (LAWS): ESSB 5793 Paid sick leave
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31924&aId=159137&caId=24101&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31924&aId=159137&caId=24101&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31924&aId=159137&caId=24101&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31924&aId=159137&caId=24101&tId=4)
+#### 112 👍 - Pro
+Testifying:
+* Aaron Chandler - Queer Power Alliance
+* 💵Daniel Goodman - Washington State Association for Justice
+* Kimberly McFerron - MomsRising
 
-#### 97 👍 - Pro
+#### 90 👎 - Con
+Testifying:
+* Robert (Bob) Battles - Association of Washington Business (AWB)
 
-#### 69 👎 - Con
-
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Mike Hoover - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

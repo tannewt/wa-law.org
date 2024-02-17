@@ -14,13 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159494&caId=24295&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159494&caId=24295&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Michelle O'Dell
+* Katie Scheid
 * De Anna Winterrose - Benton Franklin Parent Coalition
 
 ### Mon 01/29 04:00 PM - Ways & Means (WM): SB 5811 Individual providers/family

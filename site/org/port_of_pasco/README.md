@@ -19,3 +19,6 @@
 * 👍 Buck Taft
 
 ## [SB 5613](/bill/2023-24/sb/5613/) - Rural public facilities/tax 👍1  
+
+## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental   ❓1
+* ❓ Randy Hayden

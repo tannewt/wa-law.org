@@ -31,7 +31,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159731&caId=24225&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159731&caId=24225&tId=4)
 
-#### 1 👍 - Pro
+#### 18 👍 - Pro
+Testifying:
+* Danica Noble - Washington State PTA
+* May Ling Joa
+* Athena Jimenez-Manalo
+* Radu Smintina - OneAmerica
 
 #### 0 👎 - Con
 

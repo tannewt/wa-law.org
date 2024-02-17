@@ -92,7 +92,7 @@
 
 ## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage 👍1  
 
-## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍1  
+## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍2  
 
 ## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍1  
 

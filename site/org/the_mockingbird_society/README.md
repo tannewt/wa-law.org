@@ -80,7 +80,7 @@
 
 ## [SB 5543](/bill/2023-24/sb/5543/) - Sexual offenses by youth 👍1  
 
-## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍18  
+## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍19  
 * 👍 Sam Martin
 * 👍 Sam Martin
 * 👍💵 Charles Smith

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5849/</link>
 		<description>Updates about SB 5849</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Feb 2024 11:42:43 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2024 19:12:50 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -451,6 +451,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Megan/Klamik/2024-02-14 11:42:43</guid>
+		</item>
+		<item>
+			<title>WSPTA Testifies: Dual Credit Programs &amp; Graduation Requirements - WSPTA</title>
+			<description>News article &quot;WSPTA Testifies: Dual Credit Programs &amp; Graduation Requirements - WSPTA&quot; from Washington St Pta.</description>
+			<pubDate>Thu, 15 Feb 2024 19:12:50 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/wspta-testifies-2/#:~:text=E2SSB%205849</guid>
 		</item>
 	</channel>
 </rss>

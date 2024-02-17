@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Thu 02/15 04:00 PM - Appropriations (APP): SB 6080 Tourism marketing funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159148&caId=24107&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159148&caId=24107&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159148&caId=24107&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159148&caId=24107&tId=4)
-
 #### 11 👍 - Pro
 Testifying:
 * Steve Ewing - Dept. of Revenue

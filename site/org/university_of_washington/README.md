@@ -116,6 +116,8 @@
 
 ## [HB 2111](/bill/2023-24/hb/2111/) - Subsidized child care 👍1  
 
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+
 ## [HB 2116](/bill/2023-24/hb/2116/) - Pharmacist prescriptive auth 👍1  
 
 ## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍1  
@@ -204,6 +206,8 @@
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
 
 ## [SB 5883](/bill/2023-24/sb/5883/) - Concerning the burden of proof for special education due process hearings. 👍1  
+
+## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍3  
 
 ## [SB 5913](/bill/2023-24/sb/5913/) - Concerning communication between employees of state institutions of higher education and student athletes regarding name, image, and likeness use. 👍2  
 * 👍 Joe Dacca

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/15/2024 [Crosscut](/org/crosscut/) - [WA Legislature keeps most of its priority bills alive — so far | Crosscut](https://crosscut.com/politics/2024/02/wa-legislature-keeps-most-its-priority-bills-alive-so-far#:~:text=Senate%20Bill%205906)
 * 02/14/2024 [Gorge News Center](/org/gorge_news_center/) - [Senate passes Wilson, Braun bills to tackle opioid addiction, overdose death](https://gorgenewscenter.com/2024/02/14/senate-passes-wilson-braun-bills-to-tackle-opioid-addiction-overdose-death/#:~:text=Senate%20Bill%205906)
 * 02/06/2024 [Gorge News Center](/org/gorge_news_center/) - [Fentanyl education bill passes Senate committee as pills fall to 25 cents in Portland](https://gorgenewscenter.com/2024/02/06/fentanyl-education-bill-passes-senate-committee-as-pills-fall-to-25-cents-in-portland/#:~:text=Senate%20Bill%205906)
 * 01/27/2024 [The Seattle Times](/org/the_seattle_times/) - [Ivan’s Law would promote fentanyl prevention, services, testing | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/ivans-law-would-promote-fentanyl-prevention-services-testing/#:~:text=Senate%20Bill%205906)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5793/</link>
 		<description>Updates about SB 5793</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Feb 2024 10:24:49 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 16 Feb 2024 08:08:45 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -180,6 +180,38 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Mike/Hoover/2024-02-13 10:24:49</guid>
+		</item>
+		<item>
+			<title>👍Aaron Chandler - Queer Power Alliance</title>
+			<description>Aaron Chandler signed up to testify Pro. They are signed up to represent Queer Power Alliance.</description>
+			<pubDate>Thu, 15 Feb 2024 01:56:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Aaron/Chandler/2024-02-15 01:56:47</guid>
+		</item>
+		<item>
+			<title>👍💵Daniel Goodman - Washington State Association for Justice</title>
+			<description>Daniel Goodman signed up to testify Pro. They are signed up to represent Washington State Association for Justice. They are a registered lobbyist.</description>
+			<pubDate>Thu, 15 Feb 2024 01:56:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Daniel/Goodman/2024-02-15 01:56:47</guid>
+		</item>
+		<item>
+			<title>👍Kimberly McFerron - MomsRising</title>
+			<description>Kimberly McFerron signed up to testify Pro. They are signed up to represent MomsRising.</description>
+			<pubDate>Thu, 15 Feb 2024 01:56:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kimberly/McFerron/2024-02-15 01:56:47</guid>
+		</item>
+		<item>
+			<title>👎Robert (Bob) Battles - Association of Washington Business (AWB)</title>
+			<description>Robert (Bob) Battles signed up to testify Con. They are signed up to represent Association of Washington Business (AWB).</description>
+			<pubDate>Fri, 16 Feb 2024 08:08:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Robert (Bob)/Battles/2024-02-16 08:08:45</guid>
 		</item>
 	</channel>
 </rss>

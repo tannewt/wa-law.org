@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Thu 02/15 06:00 PM - State Government & Elections (SGE): HB 1962 Voter address changes
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31948&aId=159381&caId=24172&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31948&aId=159381&caId=24172&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31948&aId=159381&caId=24172&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31948&aId=159381&caId=24172&tId=4)
-
-#### 97 👍 - Pro
+#### 117 👍 - Pro
 Testifying:
 * Julie Wise - King County Director of Elections
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)

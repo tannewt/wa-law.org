@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6114/</link>
 		<description>Updates about SB 6114</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 06 Feb 2024 00:05:49 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -52,6 +52,13 @@
 			<pubDate>Tue, 06 Feb 2024 00:05:49 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2024/02/05/liias-sustainable-aviation-fuels-bill-clears-committee/#:~:text=Senate%20Bill%206114</guid>
+		</item>
+		<item>
+			<title>Senate Rules &quot;X&quot; file.</title>
+			<description>Senate Rules &quot;X&quot; file.</description>
+			<pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-15/Senate Rules &quot;X&quot; file.</guid>
 		</item>
 	</channel>
 </rss>

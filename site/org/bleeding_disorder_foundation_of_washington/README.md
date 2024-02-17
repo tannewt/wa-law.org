@@ -45,7 +45,7 @@
 
 ## [HB 1979](/bill/2023-24/hb/1979/) - Inhalers & epinephrine cost 👍1  
 
-## [HB 2041](/bill/2023-24/hb/2041/) - Physician assistant practice 👍1  
+## [HB 2041](/bill/2023-24/hb/2041/) - Physician assistant practice 👍2  
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
@@ -105,7 +105,7 @@
 
 ## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
 
-## [SB 5821](/bill/2023-24/sb/5821/) - Audio-only telemedicine 👍1  
+## [SB 5821](/bill/2023-24/sb/5821/) - Audio-only telemedicine 👍2  
 
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
 

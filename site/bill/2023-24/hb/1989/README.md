@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/15/2024 [Gorge News Center](/org/gorge_news_center/) - [Senate to hear Barkis’ bill that would use new technology to erase graffiti, apprehend taggers](https://gorgenewscenter.com/2024/02/15/senate-to-hear-barkis-bill-that-would-use-new-technology-to-erase-graffiti-apprehend-taggers/#:~:text=House%20Bill%201989)
 * 02/13/2024 [MyNorthwest](/org/mynorthwest/) - [Bill using state traffic cameras, other tech to fight graffiti passes in House - MyNorthwest.com](https://mynorthwest.com/3949547/bill-state-traffic-cameras-other-tech-fight-graffiti-passes-house/#:~:text=House%20Bill%201989)
 * 02/06/2024 [MyNorthwest](/org/mynorthwest/) - [Wash. traffic cameras, other tech could be used to fight graffiti in bill - MyNorthwest.com](https://mynorthwest.com/3949547/state-traffic-cameras-other-tech-could-be-used-fight-graffiti-house-bill/#:~:text=House%20Bill%201989)
 * 01/25/2024 [FOX13](/org/fox13/) - [Washington lawmakers discuss new bill that would increase consequences for graffiti, tagging](https://www.fox13seattle.com/news/washington-lawmakers-discuss-new-bill-that-would-increase-consequences-for-graffiti-tagging#:~:text=House%20Bill%201989)
@@ -22,7 +23,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159718&caId=24246&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159718&caId=24246&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
 #### 0 👎 - Con
 

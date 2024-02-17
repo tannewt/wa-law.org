@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/16/2024 [The Seattle Times](/org/the_seattle_times/) - [Washington lawmakers consider more modest set of gun restrictions | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/washington-lawmakers-consider-more-modest-set-of-gun-restrictions/#:~:text=House%20Bill%202118)
 * 01/20/2024 [KING5](/org/king5/) - [WA could expand speed camera use amid rise in deadly crashes | king5.com](https://www.king5.com/article/news/politics/in-session/session-washington-state-expand-speed-camera-rise-deadly-crashes/281-76104cf1-aee1-43e2-a0a3-cfb8b8ba0b6b#:~:text=House%20Bill%202118)
 * 01/20/2024 [NW News Network](/org/nw_news_network/) - [AI, guns, and initiatives: highlights from Week 2 of Washington's 2024 legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-19/ai-guns-and-initiatives-highlights-from-week-2-of-washingtons-2024-legislative-session#:~:text=House%20Bill%202118)
 * 01/16/2024 [KING5](/org/king5/) - [Gun-related bill proposals include permits, purchase limits in Washington | king5.com](https://www.king5.com/article/news/local/gun-related-proposals-permits-purchase-limits/281-b54240bc-62d3-4914-bee4-86c6ef49d5f5#:~:text=House%20Bill%202118)
@@ -23,17 +24,27 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159442&caId=24216&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159442&caId=24216&tId=4)
 
-#### 4 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* Beth Ebel - WA Chapter of the American Academy of Pediatrics
 
-#### 26 👎 - Con
+#### 347 👎 - Con
 Testifying:
 * 💵Troy Nichols - National Shooting Sports Foundation
 * 💵Aoibheann Cline - NRA
 * Laurie Layne
 * Teo Morca
+* Eric pratt - America
+* Hiedi Lee - Sporting Systems/Minute Man Ammunition
+* Mark Crider - Walla Walla County Sheriff
+* Dan Mitchell - Washington Civil Rights Association
+* Jeremy Ball - Sharp Shooting Indoor Range & Gun Shop
 * Jody Lewis
+* Marcus Carter - Kitsap Rifle & Revolver Club
+* Kim Slinger
 * Tim Eyman - Initiative activist
 * 💵Karen Strickland - [Pawn 1](/org/pawn_1/)
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 
 #### 0 ❓ - Other
 

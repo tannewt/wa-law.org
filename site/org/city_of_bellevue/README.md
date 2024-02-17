@@ -147,6 +147,8 @@
 
 ## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages 👍1  
 
+## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave   ❓1
+
 ## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD 👍1  
 
 ## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  

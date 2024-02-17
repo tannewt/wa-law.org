@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/16/2024 [The Seattle Times](/org/the_seattle_times/) - [Washington lawmakers consider more modest set of gun restrictions | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/washington-lawmakers-consider-more-modest-set-of-gun-restrictions/#:~:text=Senate%20Bill%205444)
 * 02/13/2024 [MyNorthwest](/org/mynorthwest/) - [Wash. Senate passes bill expanding prohibited weapon zones - MyNorthwest.com](https://mynorthwest.com/3950498/washington-senate-passes-bill-expanding-prohibited-weapon-zones/#:~:text=Senate%20Bill%205444%20(SB%205444))
 * 02/12/2024 [KUOW](/org/kuow/) - [KUOW - Washington lawmakers aim for new open carry limitations in certain public settings](https://www.kuow.org/stories/washington-lawmakers-aim-for-new-open-carry-limitations-in-certain-public-settings#:~:text=Senate%20Bill%205444)
 * 02/09/2024 [NW News Network](/org/nw_news_network/) - [Passing bills, bills, bills: Highlights from week 5 in the WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2024-02-09/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%205444)
@@ -20,23 +21,30 @@
 
 ## Meetings
 ### Fri 02/16 10:30 AM - Civil Rights & Judiciary (CRJ): 2SSB 5444 Firearms/certain premises
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159320&caId=24169&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159320&caId=24169&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159320&caId=24169&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159320&caId=24169&tId=4)
+#### 931 👍 - Pro
+Testifying:
+* Dr. Beth Ebel - Washington Chapter of the American Academy of Pediatrics
+* Dr. Gwen Loosmore - Washington State PTA
+* Mahi Malladi
+* Chetan Soni - Washington Youth Alliance
+* Liz Hjelmseth
+* Paula Barnes
+* Jane Weiss
+* Jeannie Shu
 
-#### 229 👍 - Pro
-
-#### 994 👎 - Con
+#### 1345 👎 - Con
 Testifying:
 * Todd Rathner - Knife Rights
 * 💵Aoibheann Cline - NRA
 * Jeannette Mcchesney
 * Julie Barrett - Conservative Ladies of Washington
+* Jeff Lewis
+* Teo Morca
 * Marcus Carter - Kitsap Rifle & Revolver Club; National Firearms Institute; Puget Sound Patriots
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Mike Vellekamp
 
 ### Sat 02/03 09:00 AM - Ways & Means (WM): SSB 5444 Firearm sensitive places
 #### 859 👍 - Pro

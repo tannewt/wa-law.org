@@ -15,6 +15,8 @@
 
 ## [SB 5316](/bill/2023-24/sb/5316/) - DCYF background check fees 👍3  
 
+## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍1  
+
 ## [SB 5870](/bill/2023-24/sb/5870/) - Early learning programs 👍1  
 
 ## [SB 6171](/bill/2023-24/sb/6171/) - Child care/nonstandard hours 👍1  

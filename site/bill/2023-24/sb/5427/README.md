@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/15/2024 [KING5](/org/king5/) - [Jewish community lobbies for protections at state Capitol | king5.com](https://www.king5.com/article/news/community/facing-race/jewish-community-lobbies-protections/281-d7d09644-6a41-4dea-9e8a-64c1482c12d7#:~:text=SB%205427)
 * 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=Senate%20Bill%205427)
 * 11/20/2023 [Senate Democrats](/org/senate_democrats/) - [Washington State Senate Members of Color Caucus Stands Against Hate, Advocates for Unity and Action - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/11/20/washington-state-senate-members-of-color-caucus-stands-against-hate-advocates-for-unity-and-action-2/#:~:text=Senate%20Bill%205427)
 * 11/20/2023 [Senate Democrats](/org/senate_democrats/) - [Washington State Senate Members of Color Caucus Stands Against Hate, Advocates for Unity and Action - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/11/20/washington-state-senate-members-of-color-caucus-stands-against-hate-advocates-for-unity-and-action/#:~:text=Senate%20Bill%205427)
@@ -19,32 +20,32 @@
 
 ## Meetings
 ### Fri 02/16 10:30 AM - Civil Rights & Judiciary (CRJ): SSB 5427 Hate crimes & bias incidents
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159129&caId=24082&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159129&caId=24082&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159129&caId=24082&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31954&aId=159129&caId=24082&tId=4)
-
-#### 111 👍 - Pro
+#### 230 👍 - Pro
 Testifying:
 * Lydia Faitalia - Washington State Commission on Asian Pacific American Affairs
 * Lydia Faitalia - Washington State Commission on Asian Pacific American Affairs
 * 💵Kendall Kosai - OCA
 * 💵Kristin Ang - Faith Action Network (FAN)
 * Miri Cypers - ADL
+* Jason Cummings - Snohomish County Prosecuting Attorney
+* Nina Martinez - Latino Civic Alliance
 * Dean Lynch - Human Rights Spokane
 * 💵Gabriel Neuman - GSBA
 * Gail Coskey
+* Lalita Uppala - Washington State Commission on Asian Pacific American Affairs
 
-#### 987 👎 - Con
+#### 1405 👎 - Con
 Testifying:
 * Liv Finne - Washington Policy Center
 * John Coleman - Foundation for Individual Rights and Expression
 * Julie Barrett - Conservative Ladies of Washington
 * Sharon Damoff
 * Julie Barrett - Conservative Ladies of Washington
+* Marvin Treadwell
+* Jeannette Mcchesney
+* Teo Morca
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 01/18 04:00 PM - Ways & Means (WM): SB 5427 Hate crimes & bias incidents
 #### 271 👍 - Pro

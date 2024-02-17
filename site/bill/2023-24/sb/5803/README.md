@@ -19,7 +19,9 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Bret Daugherty - Washington Military Department
 
 ### Wed 02/14 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): SSB 5803 National guard recruitment
 #### 0 👍 - Pro

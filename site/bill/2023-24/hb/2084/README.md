@@ -19,9 +19,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159396&caId=24198&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159396&caId=24198&tId=4)
 
-#### 2 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* Hilary Young - WA Statewide Reentry Council and Pioneer Human Services
+* 💵Erin Frasier - Washington State Building & Construction Trades Council
+* Minna Long - Washington State Building & Construction Trades Council
+* 💵Ray Dumas - Cement Masons & Plasterers Local 528
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other
 

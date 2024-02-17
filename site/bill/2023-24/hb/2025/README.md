@@ -12,15 +12,10 @@
 
 ## Meetings
 ### Fri 02/16 10:30 AM - Higher Education & Workforce Development (HEWD): SHB 2025 State work-study program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31937&aId=159192&caId=24134&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31937&aId=159192&caId=24134&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31937&aId=159192&caId=24134&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31937&aId=159192&caId=24134&tId=4)
-
-#### 6 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Liz Trautman - Stand for Children Washington /High School Success Coalition
+* 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
 
 #### 0 👎 - Con
 

@@ -43,7 +43,7 @@
 
 ## [HB 1517](/bill/2023-24/hb/1517/) - Transit-oriented development 👍1  
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍4  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍5  
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍3  
 
@@ -136,7 +136,7 @@
 
 ## [SB 5572](/bill/2023-24/sb/5572/) - Traffic safety 👍1  
 
-## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍3  
+## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍4  
 
 ## [SB 5581](/bill/2023-24/sb/5581/) - Maternal support services 👍1  
 

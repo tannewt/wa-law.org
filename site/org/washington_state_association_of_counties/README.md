@@ -67,6 +67,8 @@
 * 👍💵 Mike Hoover
 * 👍💵 Mike Hoover
 
+## [HB 1272](/bill/2023-24/hb/1272/) - Voters' pamphlets 👍1  
+
 ## [HB 1276](/bill/2023-24/hb/1276/) - Accessory dwelling units   ❓1
 * ❓💵 Paul Jewell
 
@@ -180,7 +182,7 @@
 ## [HB 1900](/bill/2023-24/hb/1900/) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system.   ❓1
 * ❓💵 Travis Dutton
 
-## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections   ❓1
+## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections   ❓2
 * ❓💵 Mike Hoover
 
 ## [HB 1933](/bill/2023-24/hb/1933/) - Supporting the servicing and right to repair of certain products with digital electronics in a secure and reliable manner. 👍1  
@@ -209,7 +211,8 @@
 ## [HB 2063](/bill/2023-24/hb/2063/) - Providing an exemption from the real estate excise tax for transfers of property to qualifying low-income first-time homebuyers.  👎1 
 * 👎💵 Paul Jewell
 
-## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc.  👎1 
+## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc.  👎2 
+* 👎💵 Juliana Roe
 * 👎💵 Juliana Roe
 
 ## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects   ❓1
@@ -453,7 +456,8 @@
 
 ## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
 
-## [SB 5780](/bill/2023-24/sb/5780/) - Public defense & prosecution 👍1  
+## [SB 5780](/bill/2023-24/sb/5780/) - Public defense & prosecution 👍2  
+* 👍💵 Juliana Roe
 * 👍💵 Juliana Roe
 
 ## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave   ❓1
@@ -513,6 +517,8 @@
 ## [SB 6150](/bill/2023-24/sb/6150/) - Comprehensive plan revisions 👍1  
 
 ## [SB 6164](/bill/2023-24/sb/6164/) - County emergency management   ❓1
+
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/tax 👍1  
 
 ## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management 👍1  
 * 👍💵 Travis Dutton

@@ -97,7 +97,7 @@
 
 ## [HB 1902](/bill/2023-24/hb/1902/) - Firearms/purchase & transfer 👍1  
 
-## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍3  
+## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍4  
 * 👍 Andrew Villeneuve
 * 👍 Andrew Villeneuve
 

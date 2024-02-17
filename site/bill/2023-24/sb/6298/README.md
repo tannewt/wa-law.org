@@ -16,19 +16,13 @@
 
 ## Meetings
 ### Fri 02/16 08:00 AM - Human Services, Youth, & Early Learning (HSEL): SB 6298 Clergy/child abuse reporting
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31929&aId=159037&caId=24068&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31929&aId=159037&caId=24068&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31929&aId=159037&caId=24068&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31929&aId=159037&caId=24068&tId=4)
-
-#### 9 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Kristiana de Leon - Association of Secular Elected Officials
 * Alex Ashley
 * Marino Hardin
 
-#### 15 👎 - Con
+#### 16 👎 - Con
 Testifying:
 * Theresa Schrempp
 * Rebecca Anderson
@@ -40,8 +34,9 @@ Testifying:
 * Peter Isely - Catholic Accountability Project
 * Sarah Pearson - Catholic Accountability Project
 * Timothy LAW - Catholic Accountability Project
+* Michelle Almsted
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Sharon Huling - Catholic Accountability Project
 * 💵Jean Hill - Washington State Catholic Conference

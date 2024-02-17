@@ -40,6 +40,8 @@
 
 ## [HB 2378](/bill/2023-24/hb/2378/) - Health care facility fees  👎1 
 
+## [HB 2476](/bill/2023-24/hb/2476/) - Creating a covered lives assessment professional services rate account. 👍1  
+
 ## [SB 5095](/bill/2023-24/sb/5095/) - Parks/health & wellness 👍2  
 
 ## [SB 5097](/bill/2023-24/sb/5097/) - Rare diseases adv. council 👍2  

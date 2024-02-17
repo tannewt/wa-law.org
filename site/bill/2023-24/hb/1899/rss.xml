@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1899/</link>
 		<description>Updates about HB 1899</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 15 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2024 19:04:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -203,6 +203,20 @@
 			<pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-15/First reading, referred to State Government &amp; Elections (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to State Government &amp; Elections.</title>
+			<description>First reading, referred to State Government &amp; Elections.</description>
+			<pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-15/First reading, referred to State Government &amp; Elections.</guid>
+		</item>
+		<item>
+			<title>House passes Spokane County wildfire relief bill | Washington | thecentersquare.com</title>
+			<description>News article &quot;House passes Spokane County wildfire relief bill | Washington | thecentersquare.com&quot; from The Center Square.</description>
+			<pubDate>Thu, 15 Feb 2024 19:04:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_d90a91e4-cc61-11ee-adca-8b9f346eed49.html#:~:text=HB%201899</guid>
 		</item>
 	</channel>
 </rss>

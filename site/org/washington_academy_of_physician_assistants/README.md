@@ -14,8 +14,11 @@
 
 ## [HB 1972](/bill/2023-24/hb/1972/) - Physicians health prg. fees 👍2  
 
-## [HB 2041](/bill/2023-24/hb/2041/) - Physician assistant practice 👍2  
+## [HB 2041](/bill/2023-24/hb/2041/) - Physician assistant practice 👍5  
 * 👍 Paul Surette
+* 👍💵 Chelsea Hager
+* 👍 Paul Surette
+* 👍 Linda Dale
 
 ## [HB 2122](/bill/2023-24/hb/2122/) - Physician wellness programs 👍1  
 

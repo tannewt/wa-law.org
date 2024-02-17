@@ -21,7 +21,8 @@
 ## [HB 2164](/bill/2023-24/hb/2164/) - Postsecondary ed protections   ❓1
 * ❓ Ph.D., Terri Standish-Kuon
 
-## [HB 2441](/bill/2023-24/hb/2441/) - College in the HS fees 👍1  
+## [HB 2441](/bill/2023-24/hb/2441/) - College in the HS fees 👍2  
+* 👍 Ph.D., Terri Standish-Kuon
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  ❓1
 * 👍 Terri Standish-Kuon

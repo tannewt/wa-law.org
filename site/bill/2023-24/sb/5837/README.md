@@ -8,21 +8,17 @@
 
 ## Meetings
 ### Fri 02/16 08:00 AM - State Government & Tribal Relations (SGOV): SB 5837 State election database
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31912&aId=159258&caId=24158&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31912&aId=159258&caId=24158&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31912&aId=159258&caId=24158&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31912&aId=159258&caId=24158&tId=4)
-
-#### 85 👍 - Pro
+#### 92 👍 - Pro
 Testifying:
 * 💵Alex Hur - OneAmerica
 * Scott Allard - University of Washington, Evans School of Public Policy & Governance
 * Calista Jahn - University of Washington, Evans School of Public Policy & Governance
 
-#### 35 👎 - Con
+#### 77 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Julie Barrett - Conservative Ladies of Washington
 
 ### Mon 01/22 04:00 PM - Ways & Means (WM): SB 5837 State election database
 #### 121 👍 - Pro

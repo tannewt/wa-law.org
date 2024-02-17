@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/15/2024 [The Center Square](/org/the_center_square/) - [House passes Spokane County wildfire relief bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d90a91e4-cc61-11ee-adca-8b9f346eed49.html#:~:text=HB%201899)
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%201899)
 
 ## Meetings

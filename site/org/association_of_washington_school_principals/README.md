@@ -91,7 +91,8 @@
 
 ## [HB 2079](/bill/2023-24/hb/2079/) - Schools/threats 👍1  
 
-## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍2  
+* 👍💵 Kelsey Hulse
 
 ## [HB 2110](/bill/2023-24/hb/2110/) - High school graduation 👍1  
 
@@ -111,7 +112,7 @@
 
 ## [HB 2398](/bill/2023-24/hb/2398/) - Instruct. materials/parents   ❓1
 
-## [HB 2441](/bill/2023-24/hb/2441/) - College in the HS fees 👍2  
+## [HB 2441](/bill/2023-24/hb/2441/) - College in the HS fees 👍4  
 
 ## [HB 2494](/bill/2023-24/hb/2494/) - School operating costs 👍1  
 

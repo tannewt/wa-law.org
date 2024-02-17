@@ -19,15 +19,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32006&aId=159671&caId=24269&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32006&aId=159671&caId=24269&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * 💵Michael White - [King County](/org/king_county/)
+* 💵Kelsey Hulse - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
 * 💵Brad Forbes - Alzheimer's Association
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 0 👎 - Con
 
-#### 18 ❓ - Other
+#### 28 ❓ - Other
 Testifying:
 * Laurie Lippold - Partners for Our Children
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
@@ -41,12 +42,22 @@ Testifying:
 * 💵Karen Pillar - TeamChild
 * Jim Theofelis - NorthStar Advocates
 * 💵Melissa Johnson - WSA of Headstart & ECEAP/Community Residential Services Association
+* Mary Kirchoff - Wonderland Child and Family Services
+* 💵Bob Cooper - WA Association of Drug Courts
+* Sophia Byrd McSherry - Deputy Director, Office of Public Defense
+* Asher Davison - Tekoa Care Center
+* Mindy Kleine - The Villager Assisted Living
 * 💵Samuel Martin - Washington Coalition for Homeless Youth Advocacy
 * 💵Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
+* Nancy Chamberlain - Washington State PTA
 * Jessica Vavrus
 * 💵Melanie Smith - WA State Long Term Care Ombuds Program
 * Stacy Christ - [Full Life Care](/org/full_life_care/)
 * Pauli Owen - [The Imagine Institute](/org/the_imagine_institute/)
+* Cynthia Green
+* Ben Small - Launch NorthWest
+* Tyler Muench - Office of Superintendent of Public Instruction
+* 💵Juliet Schindler - [College Success Foundation](/org/college_success_foundation/)
 
 ### Wed 01/10 04:00 PM - Appropriations (APP): HB 2104 Operating budget, supp.
 #### 13 👍 - Pro

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1618/</link>
 		<description>Updates about HB 1618</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 29 Jan 2024 12:50:13 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 16 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -536,6 +536,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Michael/Brunson/2024-01-29 12:50:13</guid>
+		</item>
+		<item>
+			<title>And refer to Ways &amp; Means.</title>
+			<description>And refer to Ways &amp; Means.</description>
+			<pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-16/And refer to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

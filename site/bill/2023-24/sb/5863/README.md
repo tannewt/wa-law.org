@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/15/2024 [Gorge News Center](/org/gorge_news_center/) - [Legislature fails domestic violence survivors, no path forward for needed reforms](https://gorgenewscenter.com/2024/02/15/legislature-fails-domestic-violence-survivors-no-path-forward-for-needed-reforms/#:~:text=Senate%20Bill%205863)
+
 ## Meetings
 ### Tue 01/23 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5863 Credit reporting/divorce
 #### 2 👍 - Pro

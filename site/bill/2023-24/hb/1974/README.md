@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159440&caId=24214&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159440&caId=24214&tId=4)
 
-#### 9 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Annie Pillers - Whitman County Coroner's Office
 

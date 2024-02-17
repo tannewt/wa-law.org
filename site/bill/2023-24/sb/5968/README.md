@@ -16,11 +16,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159481&caId=24284&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159481&caId=24284&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Brendan Donckers - Northwest Consumer Law Center Board Member
+* Andrew Pizor - National Consumer Law Center
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Deepak Kumar - Splitero Inc.
 
 ### Thu 01/11 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5968 Home equity sharing
 #### 12 👍 - Pro

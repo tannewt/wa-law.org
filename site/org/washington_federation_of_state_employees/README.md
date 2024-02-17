@@ -37,6 +37,8 @@
 
 ## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce 👍1  
 
+## [HB 1726](/bill/2023-24/hb/1726/) - Fire service training 👍1  
+
 ## [HB 1762](/bill/2023-24/hb/1762/) - Warehouse employees 👍1  
 
 ## [HB 1798](/bill/2023-24/hb/1798/) - Earned release time 👍1  
@@ -54,6 +56,8 @@
 ## [HB 1934](/bill/2023-24/hb/1934/) - AI task force   ❓1
 * ❓💵 Nicole Gomez
 
+## [HB 1958](/bill/2023-24/hb/1958/) - Concerning nonconsensual removal of or tampering with a sexually protective device. 👍1  
+
 ## [HB 1970](/bill/2023-24/hb/1970/) - DCYF-caregiver communication  👎1 
 
 ## [HB 1985](/bill/2023-24/hb/1985/) - PERS/TRS 1 benefit increase 👍1  
@@ -66,11 +70,11 @@
 
 ## [HB 2031](/bill/2023-24/hb/2031/) - Recognizing posttraumatic stress disorder as an occupational disease for county coroners, examiners, and investigative personnel. 👍1  
 
-## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍1  
+## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍2  
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
-## [HB 2084](/bill/2023-24/hb/2084/) - Construction training/DOC 👍1  
+## [HB 2084](/bill/2023-24/hb/2084/) - Construction training/DOC 👍2  
 
 ## [HB 2095](/bill/2023-24/hb/2095/) - Gift certificates/unclaimed 👍1  
 
@@ -103,9 +107,9 @@
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍2  
 
-## [HB 2283](/bill/2023-24/hb/2283/) - Shared leave/disasters 👍1  
+## [HB 2283](/bill/2023-24/hb/2283/) - Shared leave/disasters 👍2  
 
-## [HB 2311](/bill/2023-24/hb/2311/) - First responder wellness 👍1  ❓1
+## [HB 2311](/bill/2023-24/hb/2311/) - First responder wellness 👍2  ❓1
 * ❓ Kati Durkin
 
 ## [HB 2323](/bill/2023-24/hb/2323/) - Rent payments/credit reports 👍1  
@@ -201,6 +205,8 @@
 ## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍2  
 
 ## [SB 6085](/bill/2023-24/sb/6085/) - Underground economy 👍1  
+
+## [SB 6094](/bill/2023-24/sb/6094/) - Retired health subsidy/PEBB 👍1  
 
 ## [SB 6107](/bill/2023-24/sb/6107/) - Construction/sanitary cond. 👍1  
 

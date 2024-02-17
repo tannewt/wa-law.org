@@ -132,7 +132,7 @@
 
 ## [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board 👍1  
 
-## [HB 1272](/bill/2023-24/hb/1272/) - Voters' pamphlets 👍1  
+## [HB 1272](/bill/2023-24/hb/1272/) - Voters' pamphlets 👍2  
 
 ## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍2  
 
@@ -325,7 +325,11 @@
 
 ## [HB 1952](/bill/2023-24/hb/1952/) - Disasters/long-term recovery 👍1  
 
-## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
+## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍2  
+
+## [HB 1962](/bill/2023-24/hb/1962/) - Improving voter registration list accuracy by improving voter address change processes for county election offices and voters. 👍1  
+
+## [HB 1974](/bill/2023-24/hb/1974/) - Disposing of human remains 👍1  
 
 ## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍1  
 
@@ -669,9 +673,9 @@
 
 ## [SB 5570](/bill/2023-24/sb/5570/) - Energy efficiency loans 👍1  
 
-## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍2  
+## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍3  
 
-## [SB 5592](/bill/2023-24/sb/5592/) - Defibrillators/fitness 👍4  
+## [SB 5592](/bill/2023-24/sb/5592/) - Defibrillators/fitness 👍5  
 
 ## [SB 5594](/bill/2023-24/sb/5594/) - Fully autonomous vehicles  👎1 
 
@@ -708,9 +712,11 @@
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
 * 👍 Sarah Perry
 
+## [SB 5856](/bill/2023-24/sb/5856/) - Concerning voter registration challenges. 👍1  
+
 ## [SB 5872](/bill/2023-24/sb/5872/) - Concerning vehicle and operator requirements for autonomous vehicles. 👍1  
 
-## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍3  
+## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍4  
 
 ## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD 👍1  
 
@@ -723,8 +729,9 @@
 ## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp.   ❓1
 * ❓💵 Michael White
 
-## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  ❓1
+## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍2  ❓1
 * ❓💵 Michael White
+* 👍💵 Michael White
 * 👍💵 Michael White
 
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  ❓1
@@ -739,7 +746,7 @@
 
 ## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍1  
 
-## [SB 5983](/bill/2023-24/sb/5983/) - Syphilis treatment 👍1  
+## [SB 5983](/bill/2023-24/sb/5983/) - Syphilis treatment 👍2  
 
 ## [SB 5985](/bill/2023-24/sb/5985/) - Firearms background checks 👍1  
 
@@ -773,7 +780,7 @@
 
 ## [SB 6251](/bill/2023-24/sb/6251/) - Behavioral crisis coord. 👍1  
 
-## [SB 6269](/bill/2023-24/sb/6269/) - Alt. voter verification 👍1  
+## [SB 6269](/bill/2023-24/sb/6269/) - Alt. voter verification 👍2  
 
 ## [SB 6276](/bill/2023-24/sb/6276/) - Digital electronics/repair 👍1  
 

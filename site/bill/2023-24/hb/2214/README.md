@@ -17,20 +17,19 @@
 
 ## Meetings
 ### Fri 02/16 10:30 AM - Higher Education & Workforce Development (HEWD): 2SHB 2214 College grant/public assist.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31937&aId=159193&caId=24135&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31937&aId=159193&caId=24135&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31937&aId=159193&caId=24135&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31937&aId=159193&caId=24135&tId=4)
-
-#### 30 👍 - Pro
+#### 52 👍 - Pro
 Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * 💵Joel Anderson - Washington Student Achievement Council
 * Jacob Vigdor - University of Washington Faculty
 * Annette Anderson - Black Education Strategy Roundtable
+* Daniel Ngoy - Bellevue College ASG
+* Yokiko Hayashi-Saguil - Washington State Board for Community and Technical Colleges
+* Kyra Sung - South Puget Sound Community College AS
+* 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
+* Susan Dynarski
 
-#### 5 👎 - Con
+#### 24 👎 - Con
 
 #### 0 ❓ - Other
 

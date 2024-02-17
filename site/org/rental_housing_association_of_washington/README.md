@@ -15,6 +15,10 @@
 
 ## [HB 1817](/bill/2023-24/hb/1817/) - Housing gap voucher pilot 👍1  
 
+## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections  👎3 
+
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants  👎1 
+
 ## [SB 5027](/bill/2023-24/sb/5027/) - American dream homes 👍1  
 
 ## [SB 5045](/bill/2023-24/sb/5045/) - ADU rental/property tax  👎1 

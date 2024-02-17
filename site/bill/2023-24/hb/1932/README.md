@@ -23,13 +23,7 @@
 
 ## Meetings
 ### Fri 02/16 08:00 AM - State Government & Elections (SGE): ESHB 1932 Even-numbered year elections
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159099&caId=24034&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159099&caId=24034&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159099&caId=24034&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159099&caId=24034&tId=4)
-
-#### 354 👍 - Pro
+#### 504 👍 - Pro
 Testifying:
 * G. Agustin Markarian
 * 💵Shannon Grimes - [Sightline Institute](/org/sightline_institute/)
@@ -39,8 +33,12 @@ Testifying:
 * 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
 * 💵Madeline Bishop
 * Chris Roberts - [City of Shoreline](/org/city_of_shoreline/)
+* SuYoung Yun - ACRS
+* Monique Meissner - Washington Community Alliance
+* Abigail Leong - WA Voting Justice Coalition
+* 💵Darya Farivar - State Representative to the 46th district
 
-#### 818 👎 - Con
+#### 933 👎 - Con
 Testifying:
 * Laurie Layne
 * Tim Eyman - Initiative Activist
@@ -53,8 +51,10 @@ Testifying:
 * Marianne Nichols - Pend Oreille County Auditor
 * Paul Andrews - Kitsap County Auditor
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Tad Sommerville
+* Eric pratt - America
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Anthony Mixer - Conservative Advocate
 

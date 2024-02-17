@@ -18,9 +18,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159680&caId=24204&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159680&caId=24204&tId=4)
 
-#### 2 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* 💵Eli Goss - OneAmerica
+* Thomas McLeod - [City of Tukwila](/org/city_of_tukwila/)
 
-#### 4 👎 - Con
+#### 448 👎 - Con
+Testifying:
+* Jeannette Mcchesney
 
 #### 0 ❓ - Other
 

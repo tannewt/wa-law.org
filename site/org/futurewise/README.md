@@ -193,8 +193,9 @@
 ## [SB 6061](/bill/2023-24/sb/6061/) - Housing development/SEPA   ❓1
 * ❓💵 Bryce Yadon
 
-## [SB 6140](/bill/2023-24/sb/6140/) - Intensive rural development   ❓1
+## [SB 6140](/bill/2023-24/sb/6140/) - Intensive rural development 👍1  ❓1
 * ❓💵 Bryce Yadon
+* 👍💵 Bryce Yadon
 
 ## [SB 6150](/bill/2023-24/sb/6150/) - Comprehensive plan revisions   ❓1
 * ❓💵 Bryce Yadon

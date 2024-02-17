@@ -19,8 +19,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159428&caId=24235&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159428&caId=24235&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
+* Sophia McSherry - Deputy Director, Office of Public Defense
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Sara Robbins - Director, Washington State Office of Civil Legal Aid
 
@@ -88,7 +89,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 11 ❓ - Other
+#### 14 ❓ - Other
 Testifying:
 * Laurie Lippold - Partners for Our Children
 * Erika Bartlett - Tacoma-Pierce County Public Health
@@ -98,6 +99,9 @@ Testifying:
 * Dr. Stephan Blanford - The Children's Alliance
 * 💵Karen Pillar - TeamChild
 * 💵Melissa Johnson - [Community Residential Services Association](/org/community_residential_services_association/)
+* 💵Alyssa Odegaard - LeadingAge Washington
+* Alejandra Perdomo-Menera - Cherrywood Place Assisted Living
+* Michelle Dube - Beehive Assisted Living
 * 💵Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
 * 💵Samuel Martin - Washington Coalition for Homeless Youth Advocacy
 * Stacy Christ - [Full Life Care](/org/full_life_care/)
@@ -113,10 +117,12 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
 * 💵Melissa Gombosky - Association of Educational Service Districts
+* Angela Steck - President, Washington State PTA
+* Tyler Muench - Office of Superintendent of Public Instruction
 
 ### Mon 02/19 04:00 PM - Ways & Means (WM): PSSB 5950: Mental health. (Remote Testimony Available).
 Sign up to testify:
@@ -129,9 +135,11 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Jim Theofelis - NorthStar Advocates
+* Mary Kirchoff - Wonderland Child and Family Services
+* 💵Bob Cooper - WA Assocition of Drug Courts
 
 ### Mon 02/19 04:00 PM - Ways & Means (WM): PSSB 5950: Natural resources. (Remote Testimony Available).
 Sign up to testify:

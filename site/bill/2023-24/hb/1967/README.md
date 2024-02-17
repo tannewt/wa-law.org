@@ -14,13 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159183&caId=24144&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159183&caId=24144&tId=4)
 
-#### 88 👍 - Pro
+#### 107 👍 - Pro
 Testifying:
 * MAGGIE O'GRADY
+* Elizabeth Dasse - Pierce County Prosecuting Attorney's Office
 
-#### 2 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Jason Lantz - Washington Association of Criminal Defense Lawyers and Washington Defender Association
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 

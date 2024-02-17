@@ -26,7 +26,7 @@
 
 ## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍4  
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍8  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍9  
 * 👍💵 Terique Scott
 * 👍💵 Terique Scott
 

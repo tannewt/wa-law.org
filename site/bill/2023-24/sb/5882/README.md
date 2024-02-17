@@ -17,23 +17,19 @@
 
 ## Meetings
 ### Thu 02/15 04:00 PM - Appropriations (APP): 2SSB 5882 Prototypical school staffing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159147&caId=24106&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159147&caId=24106&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159147&caId=24106&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159147&caId=24106&tId=4)
-
-#### 150 👍 - Pro
+#### 158 👍 - Pro
 Testifying:
 * Justin McKaughan
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Marissa Rathbone - Washington State School Directors' Association
 * Satvik Reddy
 * Rick Chisa - Public School Employees of WA/SEIU 1948
+* Britton Nash
+* Mikhail Cherniske - Office of the Superintendent of Public Instruction
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Amish Patra
 
-#### 433 👎 - Con
+#### 446 👎 - Con
 Testifying:
 * Liv Finne - Washington Policy Center
 * Jeannette Mcchesney

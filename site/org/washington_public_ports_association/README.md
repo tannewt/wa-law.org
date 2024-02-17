@@ -117,9 +117,12 @@
 
 ## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍2  
 
-## [HB 1906](/bill/2023-24/hb/1906/) - Vessel length/nonresident 👍1  
+## [HB 1906](/bill/2023-24/hb/1906/) - Vessel length/nonresident 👍2  
+* 👍💵 James Cockburn
 
 ## [HB 1912](/bill/2023-24/hb/1912/) - Economic development info. 👍1  
+
+## [HB 1919](/bill/2023-24/hb/1919/) - Private moorage/abandonment 👍1  
 
 ## [HB 1978](/bill/2023-24/hb/1978/) - Adding special purpose and junior taxing districts to the intrastate mutual aid system. 👍1  
 
@@ -147,6 +150,8 @@
 
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
 * ❓💵 Carly Michiels
+
+## [HB 2120](/bill/2023-24/hb/2120/) - Clean energy manufacturers 👍1  
 
 ## [HB 2134](/bill/2023-24/hb/2134/) - Transportation budget, supp.   ❓1
 * ❓ Chris Herman
@@ -225,7 +230,8 @@
 ## [SB 5482](/bill/2023-24/sb/5482/) - Margin tax  👎1 
 * 👎 Chris Herman
 
-## [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra. 👍1  
+## [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra. 👍2  
+* 👍 Chris Herman
 * 👍 Chris Herman
 
 ## [SB 5539](/bill/2023-24/sb/5539/) - Tax increment financing 👍1  
@@ -277,6 +283,8 @@
 
 ## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍1  
 * 👍 Chris Herman
+
+## [SB 6303](/bill/2023-24/sb/6303/) - Providing tax incentives to encourage energy storage system and component parts manufacturing in Washington. 👍1  
 
 ## [SJM 8009](/bill/2023-24/sjm/8009/) - Harbor maintenance tax 👍1  
 * 👍 Chris Herman

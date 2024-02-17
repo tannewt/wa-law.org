@@ -14,17 +14,20 @@
 
 ## Meetings
 ### Fri 02/16 08:00 AM - Environment, Energy & Technology (ENET): 2ESHB 1282 Public building materials
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31933&aId=159652&caId=24192&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31933&aId=159652&caId=24192&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31933&aId=159652&caId=24192&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31933&aId=159652&caId=24192&tId=4)
+#### 228 👍 - Pro
+Testifying:
+* Brittany Porter - American Institute of Architects WA Council
+* Patrick Jablonski - Nucor Steel Seattle, Inc.
+* 💵Donny Donovan - IAM District 751
+* Hanna Waterstrat - WA department of commerce
+* 💵Michael Transue - WA Aggregate and Concrete Association
 
-#### 185 👍 - Pro
+#### 37 👎 - Con
 
-#### 5 👎 - Con
-
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Jordan Palmeri - University of Washington - Carbon Leadership Forum
+* 💵Brandon Houskeeper - [American Wood Council](/org/american_wood_council/)
 
 ### Tue 03/28 04:00 PM - Ways & Means (WM): ESHB 1282 Public building materials
 #### 222 👍 - Pro

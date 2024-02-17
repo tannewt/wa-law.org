@@ -21,27 +21,40 @@
 
 ## Meetings
 ### Fri 02/16 08:00 AM - State Government & Elections (SGE): 2E2SHB 1541 Lived experience
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159098&caId=24033&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159098&caId=24033&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159098&caId=24033&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159098&caId=24033&tId=4)
-
-#### 841 👍 - Pro
+#### 975 👍 - Pro
 Testifying:
 * Sydney Krebsbach - Washington State Developmental Disabilities Council
 * John Lemus
 * 💵Shawn Latham - Self Advocates In Leadership
 * Leigh Spruce
 * robert m wardell - self adovates
+* Abi McLane
+* Sarah Miranda
+* 💵Katrina Johnson - Food lifeline
+* Angela Griffin - Byrd Barr Place
+* Greg Winter - [Opportunity Council](/org/opportunity_council/)
+* Em Stone - WA State Coalition Against Domestic Violence
+* kimberly thomas
+* Esteban Herrera - [Neighborhood House](/org/neighborhood_house/)
+* stacey holmes - [Neighborhood House](/org/neighborhood_house/)
+* Michael Brunson
+* Ivanova Smith - Self Advocates in Leadership
+* Rocio Lopez
+* Angelique Rodriguez - Policy Assistant at CAIR-Washington
+* Kirsten York - 1200 S 336th Street
 * Amy Roark
+* Leslie Naramore - Washington Gorge Action Programs
 
-#### 868 👎 - Con
+#### 899 👎 - Con
 Testifying:
 * John Worthington
 * Teo Morca
+* Sharon Damoff
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Eric pratt - America
+* Omar Santana-Gomez - Washington State Office of Equity
 
 ### Fri 03/31 12:30 PM - Ways & Means (WM): E2SHB 1541 Lived experience
 #### 256 👍 - Pro

@@ -26,13 +26,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31989&aId=159330&caId=24288&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31989&aId=159330&caId=24288&tId=4)
 
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * 💵Isaac Kastama - Clean & Prosperous Washington
+* 💵Tom Wolf - bp America
 
 #### 6 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Jessica Spiegel - WSPA
 
 ### Fri 02/02 01:30 PM - Ways & Means (WM): SSB 6058 Carbon market linkage
 #### 18 👍 - Pro

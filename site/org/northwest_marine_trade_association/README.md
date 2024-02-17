@@ -23,4 +23,7 @@
 
 ## [SB 5597](/bill/2023-24/sb/5597/) - Boater safety and education  👎1 
 
+## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  ❓2
+* ❓💵 Carl Burke
+
 ## [SB 6276](/bill/2023-24/sb/6276/) - Digital electronics/repair  👎1 

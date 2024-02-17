@@ -12,20 +12,19 @@
 
 ## Meetings
 ### Fri 02/16 08:00 AM - Postsecondary Education & Workforce (PEW): SSB 5953 Incarcerated student grants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31903&aId=159256&caId=24162&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31903&aId=159256&caId=24162&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31903&aId=159256&caId=24162&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31903&aId=159256&caId=24162&tId=4)
-
-#### 17 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * 💵Brooke Davies - [Justice Action Network](/org/justice_action_network/)
+* Hanan Al-Zubaidy
 * Becky Thompson - Washington Student Achievement Counsel
 * Danielle Armbruster - Washington State Department of Corrections
 * Kristen Morgan - Washington State Department of Corrections
+* Sandy Kaiser - The Evergreen State College
+* Sandy Kaiser - The Evergreen State College
+* Arlen Harris - Washington State Board of Community and Technical Colleges
+* Alex Rogers - Tacoma Community College
 
-#### 16 👎 - Con
+#### 39 👎 - Con
 
 #### 0 ❓ - Other
 

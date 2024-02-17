@@ -22,17 +22,13 @@ Sign up to testify:
 Testifying:
 * Tom McBride - WDFW
 
-#### 19 👎 - Con
+#### 20 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* James Luce - Friends of Vancouver Lake
 
 ### Thu 02/15 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): HB 1226 Smelt, crawfish, and carp
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31927&aId=159074&caId=24036&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31927&aId=159074&caId=24036&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31927&aId=159074&caId=24036&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31927&aId=159074&caId=24036&tId=4)
-
 #### 1 👍 - Pro
 Testifying:
 * Tom McBride - WDFW

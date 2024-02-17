@@ -35,7 +35,7 @@
 
 ## [HB 1859](/bill/2023-24/hb/1859/) - Concerning the rights of residents in long-term care facilities. 👍1  
 
-## [HB 1957](/bill/2023-24/hb/1957/) - Preventive service coverage 👍1  
+## [HB 1957](/bill/2023-24/hb/1957/) - Preventive service coverage 👍2  
 * 👍💵 Emily Brice
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
@@ -55,6 +55,8 @@
 
 ## [HB 2378](/bill/2023-24/hb/2378/) - Health care facility fees 👍1  
 * 👍💵 Leslie Bennett
+
+## [HB 2476](/bill/2023-24/hb/2476/) - Creating a covered lives assessment professional services rate account.   ❓1
 
 ## [SB 5169](/bill/2023-24/sb/5169/) - Medicare/health care plans 👍1  
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6194/</link>
 		<description>Updates about SB 6194</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2024 09:13:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -111,6 +111,14 @@
 			<pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-13/First reading, referred to Labor &amp; Workplace Standards.</guid>
+		</item>
+		<item>
+			<title>❓Joe Kendo - Washington State Labor Council, AFL-CIO</title>
+			<description>Joe Kendo signed up to testify Other. They are signed up to represent Washington State Labor Council, AFL-CIO.</description>
+			<pubDate>Thu, 15 Feb 2024 09:13:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Joe/Kendo/2024-02-15 09:13:04</guid>
 		</item>
 	</channel>
 </rss>

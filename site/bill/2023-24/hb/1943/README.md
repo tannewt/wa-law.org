@@ -7,19 +7,17 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/15/2024 [House Democrats](/org/house_democrats/) - [House passes Leavitt bills to support National Guard families and veterans with disabilities – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/15/house-passes-leavitt-bills-to-support-national-guard-families-and-veterans-with-disabilities/#:~:text=House%20Bill%201943)
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%201943)
 
 ## Meetings
 ### Fri 02/16 10:30 AM - Higher Education & Workforce Development (HEWD): HB 1943 National guard ed. grants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31937&aId=159190&caId=24132&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31937&aId=159190&caId=24132&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31937&aId=159190&caId=24132&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31937&aId=159190&caId=24132&tId=4)
-
-#### 3 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Charles Wharton - Veterans Legislative Coalition
+* Jesse Morgan
+* Allen Acosta - Veterans Legislative Coalition
+* Charles Barnett - Bldg. 2 MILITIA Drive
 
 #### 0 👎 - Con
 

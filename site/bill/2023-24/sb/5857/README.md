@@ -9,12 +9,6 @@
 
 ## Meetings
 ### Fri 02/16 08:00 AM - State Government & Tribal Relations (SGOV): SSB 5857 Campaign disclosure reorg.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31912&aId=159196&caId=24157&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31912&aId=159196&caId=24157&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31912&aId=159196&caId=24157&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31912&aId=159196&caId=24157&tId=4)
-
 #### 3 👍 - Pro
 Testifying:
 * Sean Flynn - Public Disclosure Commission
@@ -23,7 +17,7 @@ Testifying:
 Testifying:
 * 💵Conner Edwards - WA Professional Campaign Treasurer
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Joe Kunzler
 

@@ -356,7 +356,8 @@
 
 ## [HB 2035](/bill/2023-24/hb/2035/) - Concerning restrictions on the working conditions and hours of sixteen- and seventeen-year olds. 👍1  
 
-## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍1  
+## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍2  
+* 👍💵 Peter Godlewski
 * 👍💵 Peter Godlewski
 
 ## [HB 2045](/bill/2023-24/hb/2045/) - Adopt a fish barrier program 👍1  
@@ -408,6 +409,9 @@
 
 ## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities   ❓1
 * ❓💵 Amy Anderson
+
+## [HB 2199](/bill/2023-24/hb/2199/) - CCA tax exemptions 👍1  
+* 👍💵 Emily Shay
 
 ## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage   ❓2
 * ❓💵 Peter Godlewski
@@ -635,7 +639,7 @@
 ## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax  👎1 
 * 👎💵 Emily Shay
 
-## [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra. 👍2  
+## [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra. 👍3  
 
 ## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍3  
 * 👍💵 Amy Anderson
@@ -792,6 +796,8 @@
 * 👍💵 Emily Shay
 * 👍💵 Emily Shay
 
+## [SB 6140](/bill/2023-24/sb/6140/) - Intensive rural development 👍1  
+
 ## [SB 6143](/bill/2023-24/sb/6143/) - Salmon habitat planning  👎1 
 * 👎💵 Morgan Irwin
 
@@ -812,6 +818,8 @@
 ## [SB 6257](/bill/2023-24/sb/6257/) - Hospital charity/residency 👍1  
 
 ## [SB 6258](/bill/2023-24/sb/6258/) - Standardized health plans  👎1 
+
+## [SB 6291](/bill/2023-24/sb/6291/) - State building code council 👍1  
 
 ## [SB 6296](/bill/2023-24/sb/6296/) - Establishing a retail industry work group. 👍1  
 

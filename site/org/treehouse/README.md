@@ -47,6 +47,8 @@
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
+## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍1  
+
 ## [HB 2130](/bill/2023-24/hb/2130/) - Special education services 👍1  
 
 ## [HB 2217](/bill/2023-24/hb/2217/) - Juvenile criminal offenses 👍1  
@@ -94,7 +96,7 @@
 
 ## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍1  
 
-## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍3  
+## [SB 5591](/bill/2023-24/sb/5591/) - Dependent youth financial ed 👍4  
 
 ## [SB 5644](/bill/2023-24/sb/5644/) - Juvenile records 👍1  
 
@@ -109,7 +111,7 @@
 * 👍 Fred Kingston
 * 👍 Fred Kingston
 
-## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍3  
+## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍5  
 * 👍💵 Daniel Lugo
 
 ## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  
@@ -123,6 +125,6 @@
 ## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍1  
 * 👍💵 Daniel Lugo
 
-## [SB 6079](/bill/2023-24/sb/6079/) - Juv. detention/health recs. 👍1  
+## [SB 6079](/bill/2023-24/sb/6079/) - Juv. detention/health recs. 👍2  
 
 ## [SB 6216](/bill/2023-24/sb/6216/) - Student mental health net. 👍1  

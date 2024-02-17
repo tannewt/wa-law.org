@@ -9,18 +9,14 @@
 
 ## Meetings
 ### Thu 02/15 04:00 PM - Ways & Means (WM): SSB 5494 Freight railroad infra.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158971&caId=23920&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158971&caId=23920&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158971&caId=23920&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158971&caId=23920&tId=4)
-
-#### 123 👍 - Pro
+#### 128 👍 - Pro
 Testifying:
 * Alan Matheson - Tacoma Rail / Tacoma Public Utilities
 * Ross Lane - Puget Sound & Pacific Railroad Company
 * Jeff Van Schaick - Washington Eastern Railroad
 * Matt Hoobler
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Rob Dedilius
 
 #### 2 👎 - Con
 

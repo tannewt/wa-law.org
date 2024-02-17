@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/16/2024 [House Democrats](/org/house_democrats/) - [House passes five Callan bills on education, early learning, health care  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/16/house-passes-five-callan-bills-on-education-early-learning-health-care/#:~:text=House%20Bill%201851)
+
 ## Meetings
 ### Thu 02/15 08:00 AM - Human Services (HS): SHB 1851 First approach skills prog.
 #### 4 👍 - Pro

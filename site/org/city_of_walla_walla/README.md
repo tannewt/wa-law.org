@@ -15,6 +15,8 @@
 
 ## [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element  👎2 
 
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+
 ## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg. 👍1  
 
 ## [HB 2307](/bill/2023-24/hb/2307/) - Public records reviews 👍1  

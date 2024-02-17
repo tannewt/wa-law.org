@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Thu 02/15 04:00 PM - Ways & Means (WM): PSSB 5949: All other. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158970&caId=23919&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158970&caId=23919&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158970&caId=23919&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158970&caId=23919&tId=4)
-
-#### 51 👍 - Pro
+#### 63 👍 - Pro
 Testifying:
 * Tsega Desta - Ethiopian Community in Seattle
 * Sherry Williams - HealthPoint
@@ -37,6 +31,8 @@ Testifying:
 * SuYoung Yun - ACRS and APIC Washington
 * Afua Kouyate - African Cultural Arts Center
 * 💵Michael White - [King County](/org/king_county/)
+* Akemi Boyd - [Chief Seattle Club](/org/chief_seattle_club/)
+* Courtney Whitaker - YMCA of Greater Seattle
 * Oveta Hunter - A.C.A.C African Cultural Arts Center
 * Chairman Nino Maltos - Sauk-Suiattle Indian Tribe
 * 💵Dawn Vyvyan - Sauk-Suiattle Indian Tribe
@@ -51,24 +47,24 @@ Testifying:
 Testifying:
 * John Worthington
 
-#### 6 ❓ - Other
+#### 11 ❓ - Other
 Testifying:
 * Hilary Dameron - Garfield Super Block Coalition
+* 💵Suellen Mele
+* 💵Joren Clowers - White Salmon Valley Pool
+* Lily von Mosch - White Salmon Valley Pool
 * Barbara Boyle
 * Cathryn Chudy
 * Karen Hanan - ArtsWA (WA State Arts Commission)
 * Sherry Williams - HealthPoint
 * 💵Joren Clowers - White Salmon Valley Pool
+* Sherry Williams - HealthPoint CHC
 
 ### Thu 02/15 04:00 PM - Ways & Means (WM): PSSB 5949: Higher education. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158967&caId=23916&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158967&caId=23916&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158967&caId=23916&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158967&caId=23916&tId=4)
-
-#### 5 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
+* 💵Connor Haggerty - Washington State University
+* Christine Cote - Perry Tech Institute
 * Steve DuPont - [Central Washington University](/org/central_washington_university/)
 * Darrell Jennings - State Board for Community and Technical Colleges
 * David Buri - Eastern Washington University
@@ -79,13 +75,7 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Thu 02/15 04:00 PM - Ways & Means (WM): PSSB 5949: Housing, behavioral health, and human services. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158968&caId=23917&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158968&caId=23917&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158968&caId=23917&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158968&caId=23917&tId=4)
-
-#### 15 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Michone Preston - Habitat for Humanity of Washington State
 * Gina James - Tribal Council, Quinault Indian Nation
@@ -96,9 +86,13 @@ Testifying:
 * Elizabeth Murphy - Plymouth Housing
 * 💵Michael Moran - 1. Chehalis Tribe  2. Confederated Tribes of the Colville Reservation 3. Making A Difference Foundat
 * Gloria Rodriguez - [Yakima Neighborhood Health Services](/org/yakima_neighborhood_health_services/)
+* Victoria OBanion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
+* 💵Michael White - [King County](/org/king_county/)
+* Kiara Daniels - [Northwest Community Land Trust Coalition](/org/northwest_community_land_trust_coalition/)
 * Councilman Jeremy Takala - Confederated Tribes and Bands of the Yakama Nation
 * 💵Dawn Vyvyan - Confederated Tribes and Bands of the Yakama Nation
 * Jenece Howe - Yakama Nation Village of Hope
+* Mary Connolly - South Sound Housing Affordability Partners
 * Kunchok Gonpo - Yes, president of the Tibetan Association of Washington
 * Zenden Nhangkar - as a member
 
@@ -116,13 +110,7 @@ Testifying:
 * Councilwoman Ruth Jim - Confederated Tribes and Bands of the Yakama Nation
 
 ### Thu 02/15 04:00 PM - Ways & Means (WM): PSSB 5949: K-12 public schools. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158966&caId=23915&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158966&caId=23915&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158966&caId=23915&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158966&caId=23915&tId=4)
-
-#### 10 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Jim Kowalkowski - Rural Education Center
@@ -131,26 +119,24 @@ Testifying:
 * Brent Freeman - Wahkiakum School District
 * Samantha Fogg - SCPTSA, Interim Co-President
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
+* Charlie Brown - Skills Centers Directors and South Sound Superintendents
 
 #### 0 👎 - Con
 
 #### 0 ❓ - Other
 
 ### Thu 02/15 04:00 PM - Ways & Means (WM): PSSB 5949: Natural resources. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158969&caId=23918&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158969&caId=23918&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158969&caId=23918&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31947&aId=158969&caId=23918&tId=4)
-
-#### 17 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
+* Gina James - Tribal Council, Quinault Indian Nation
 * Ryan Hendricks - Tribal Council, Quinault Indian Nation
 * Skippy Shaw - [The Nature Conservancy](/org/the_nature_conservancy/)
 * Larry Phillips - American Sportfishing Association
 * Jessica Helsley - [Wild Salmon Center](/org/wild_salmon_center/)
 * Mara Zimmerman - Coast Salmon Partnership
 * Juan Peralez - Unidos of Snohomish County
+* 💵Heath Heikkila - American Forest Resource Council
+* warren neth - Cosmic Carrot Farm
 * 💵Paula Sardinas - WBBA (WA Build Back Black Alliance)
 * Vanessa Kritzer - [Washington Association of Land Trusts](/org/washington_association_of_land_trusts/)
 * Councilman Christopher Wallahee - Confederated Tribes and Bands of the Yakama Nation
@@ -159,7 +145,11 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Randy Hayden - [Port of Pasco](/org/port_of_pasco/)
+* Rhys Roth - [Center for Sustainable Infrastructure](/org/center_for_sustainable_infrastructure/)
+* 💵Carl Burke - [Northwest Marine Trade Association](/org/northwest_marine_trade_association/)
 
 ### Thu 01/11 04:00 PM - Ways & Means (WM): SB 5949: All other.  (Remote Testimony Available).
 #### 12 👍 - Pro

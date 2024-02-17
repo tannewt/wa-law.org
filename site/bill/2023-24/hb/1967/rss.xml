@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1967/</link>
 		<description>Updates about HB 1967</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Feb 2024 12:39:03 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2024 04:38:56 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -102,6 +102,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/MAGGIE/O'GRADY/2024-02-13 12:39:03</guid>
+		</item>
+		<item>
+			<title>👎Jason Lantz - Washington Association of Criminal Defense Lawyers and Washington Defender Association</title>
+			<description>Jason Lantz signed up to testify Con. They are signed up to represent Washington Association of Criminal Defense Lawyers and Washington Defender Association.</description>
+			<pubDate>Thu, 15 Feb 2024 01:19:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jason/Lantz/2024-02-15 01:19:10</guid>
+		</item>
+		<item>
+			<title>👍Elizabeth Dasse - Pierce County Prosecuting Attorney's Office</title>
+			<description>Elizabeth Dasse signed up to testify Pro. They are signed up to represent Pierce County Prosecuting Attorney's Office.</description>
+			<pubDate>Thu, 15 Feb 2024 04:38:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Elizabeth/Dasse/2024-02-15 04:38:56</guid>
 		</item>
 	</channel>
 </rss>

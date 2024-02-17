@@ -335,8 +335,9 @@
 ## [SB 6029](/bill/2023-24/sb/6029/) - Detached ADUs 👍1  
 * 👍💵 Jan Himebaugh
 
-## [SB 6061](/bill/2023-24/sb/6061/) - Housing development/SEPA  👎1 
+## [SB 6061](/bill/2023-24/sb/6061/) - Housing development/SEPA  👎1 ❓1
 * 👎💵 Jan Himebaugh
+* ❓💵 Jan Himebaugh
 
 ## [SB 6064](/bill/2023-24/sb/6064/) - Pet fees, deposits  👎1 
 

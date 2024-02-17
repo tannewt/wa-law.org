@@ -11,7 +11,7 @@
 
 ## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍1  
 
-## [HB 1889](/bill/2023-24/hb/1889/) - Professionals/immigration 👍1  
+## [HB 1889](/bill/2023-24/hb/1889/) - Professionals/immigration 👍2  
 
 ## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
 

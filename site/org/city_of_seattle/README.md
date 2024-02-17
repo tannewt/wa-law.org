@@ -127,7 +127,7 @@
 
 ## [HB 1530](/bill/2023-24/hb/1530/) - Law enf. employ. eligibility 👍1  
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍3  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍4  
 
 ## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍5  
 
@@ -181,12 +181,13 @@
 
 ## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍2  
 
-## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍1  
+## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍2  
+* 👍 Kelli Larsen
 * 👍 Kelli Larsen
 
-## [HB 2019](/bill/2023-24/hb/2019/) - Native American apprentices 👍2  
+## [HB 2019](/bill/2023-24/hb/2019/) - Native American apprentices 👍3  
 
-## [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg 👍1  
+## [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg 👍2  
 
 ## [HB 2021](/bill/2023-24/hb/2021/) - Firearm disposition 👍1  
 
@@ -225,7 +226,7 @@
 
 ## [HB 2197](/bill/2023-24/hb/2197/) - Medical assist./prevention 👍1  
 
-## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍2  
+## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍3  
 
 ## [HB 2219](/bill/2023-24/hb/2219/) - Affordable housing/tax ex. 👍1  
 
@@ -246,7 +247,7 @@
 
 ## [HB 2309](/bill/2023-24/hb/2309/) - Washington 13 free guarantee 👍1  
 
-## [HB 2311](/bill/2023-24/hb/2311/) - First responder wellness 👍1  
+## [HB 2311](/bill/2023-24/hb/2311/) - First responder wellness 👍2  
 
 ## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍2  
 
@@ -275,7 +276,7 @@
 
 ## [HB 2415](/bill/2023-24/hb/2415/) - Economic assistance/TANF 👍2  
 
-## [HB 2441](/bill/2023-24/hb/2441/) - College in the HS fees 👍1  
+## [HB 2441](/bill/2023-24/hb/2441/) - College in the HS fees 👍2  
 
 ## [HB 2455](/bill/2023-24/hb/2455/) - Competing ballot measures 👍1  
 
@@ -361,11 +362,11 @@
 
 ## [SB 5424](/bill/2023-24/sb/5424/) - Flexible work/peace officers 👍1  
 
-## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍2  
+## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍3  
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍1  
 
-## [SB 5444](/bill/2023-24/sb/5444/) - Firearm sensitive places 👍2  
+## [SB 5444](/bill/2023-24/sb/5444/) - Firearm sensitive places 👍3  
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development   ❓2
 
@@ -416,6 +417,8 @@
 ## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍1  
 
 ## [SB 5894](/bill/2023-24/sb/5894/) - Equal pay/protected classes 👍1  
+
+## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
 
 ## [SB 5906](/bill/2023-24/sb/5906/) - Implementing a statewide drug overdose prevention and education campaign. 👍1  
 

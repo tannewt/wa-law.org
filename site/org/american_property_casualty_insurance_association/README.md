@@ -15,5 +15,10 @@
 * 👍💵 Mark Sektnan
 * 👍 Kris Tefft
 
+## [SB 5798](/bill/2023-24/sb/5798/) - Insurance notices   ❓1
+* ❓ Kris Tefft
+
+## [SB 6027](/bill/2023-24/sb/6027/) - Insurance holding companies 👍1  
+
 ## [SB 6252](/bill/2023-24/sb/6252/) - Automobile insurance  👎1 
 * 👎 Kris Tefft

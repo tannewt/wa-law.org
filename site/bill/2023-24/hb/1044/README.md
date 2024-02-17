@@ -22,13 +22,7 @@
 
 ## Meetings
 ### Thu 02/15 01:30 PM - Early Learning & K-12 Education (EDU): SHB 1044 Capital assistance/schools
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=159000&caId=23996&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=159000&caId=23996&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=159000&caId=23996&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31907&aId=159000&caId=23996&tId=4)
-
-#### 19 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 * Brent Freeman - Wahkiakum School District

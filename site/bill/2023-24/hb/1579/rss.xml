@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1579/</link>
 		<description>Updates about HB 1579</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Feb 2024 12:15:14 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2024 17:25:53 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -722,6 +722,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Najma/Osman/2024-02-14 12:15:14</guid>
+		</item>
+		<item>
+			<title>KUOW - Does Washington state need an independent prosecutor to charge police with misusing deadly force?</title>
+			<description>News article &quot;KUOW - Does Washington state need an independent prosecutor to charge police with misusing deadly force?&quot; from KUOW.</description>
+			<pubDate>Thu, 15 Feb 2024 17:25:53 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kuow.org/stories/does-washington-state-need-an-independent-prosecutor-to-charge-police-with-misusing-deadly-force#:~:text=House%20Bill%201579</guid>
 		</item>
 	</channel>
 </rss>

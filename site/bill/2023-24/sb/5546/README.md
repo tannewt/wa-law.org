@@ -14,6 +14,21 @@
 * 03/03/2023 [Crosscut](/org/crosscut/) - [How federal weed legalization would impact Washington state | Crosscut](https://crosscut.com/politics/2023/03/how-federal-weed-legalization-would-impact-washington-state#:~:text=Senate%20Bill%205546)
 
 ## Meetings
+### Mon 02/19 01:30 PM - Regulated Substances & Gaming (RSG): 2ESSB 5546 Cannabis commission
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32011&aId=159823&caId=24349&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32011&aId=159823&caId=24349&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32011&aId=159823&caId=24349&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32011&aId=159823&caId=24349&tId=4)
+
+#### 3 👍 - Pro
+
+#### 1 👎 - Con
+Testifying:
+* Bethany Rondeaux
+
+#### 0 ❓ - Other
+
 ### Tue 03/21 04:00 PM - Regulated Substances & Gaming (RSG): ESSB 5546 Cannabis commission
 #### 44 👍 - Pro
 Testifying:

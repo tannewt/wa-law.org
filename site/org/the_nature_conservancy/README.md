@@ -48,7 +48,7 @@
 
 ## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍2  
 
-## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍1  
+## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍2  
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍2  
 

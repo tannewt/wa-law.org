@@ -22,7 +22,7 @@
 
 ## [HB 2196](/bill/2023-24/hb/2196/) - Alcohol concentration/DUI 👍1  
 
-## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras 👍1  
+## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras 👍2  
 
 ## [HB 2394](/bill/2023-24/hb/2394/) - SEPA/trails and paths 👍1  
 * 👍 Lee Lambert
@@ -59,6 +59,9 @@
 * 👍 Vicky Clarke
 
 ## [SB 5743](/bill/2023-24/sb/5743/) - Transportation resources 👍2  
+
+## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp. 👍1  
+* 👍 Vicky Clarke
 
 ## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  
 

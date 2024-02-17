@@ -23,11 +23,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31996&aId=159653&caId=24286&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31996&aId=159653&caId=24286&tId=4)
 
-#### 1 👍 - Pro
+#### 66 👍 - Pro
 Testifying:
+* Kevin Chase - ESD 105
 * Troy Goracke - Washington State Board for Community and Technical Colleges
+* Venetia Holbrook - [Clover Park School District](/org/clover_park_school_district/)
+* Venetia Holbrook - [Clover Park School District](/org/clover_park_school_district/)
+* Anna Hernandez-French - Office of Superintendent of Public Instruction
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

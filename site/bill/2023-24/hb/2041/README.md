@@ -10,19 +10,18 @@
 
 ## Meetings
 ### Fri 02/16 08:00 AM - Health & Long Term Care (HLTC): ESHB 2041 Physician assistant practice
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31945&aId=159162&caId=24119&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31945&aId=159162&caId=24119&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31945&aId=159162&caId=24119&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31945&aId=159162&caId=24119&tId=4)
-
-#### 7 👍 - Pro
+#### 15 👍 - Pro
+Testifying:
+* 💵Chelsea Hager - [Washington Academy of Physician Assistants](/org/washington_academy_of_physician_assistants/)
+* Paul Surette - [Washington Academy of Physician Assistants](/org/washington_academy_of_physician_assistants/)
+* Linda Dale - [Washington Academy of Physician Assistants](/org/washington_academy_of_physician_assistants/)
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Stephanie Mason - Washington Medical Commission
+* 💵Alex Wehinger - WA State Medical Association (WSMA)
 
 ### Tue 01/09 01:30 PM - Health Care & Wellness (HCW): HB 2041 Physician assistant practice
 #### 524 👍 - Pro

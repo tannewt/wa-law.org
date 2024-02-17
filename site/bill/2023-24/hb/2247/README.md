@@ -17,13 +17,7 @@
 
 ## Meetings
 ### Fri 02/16 08:00 AM - Health & Long Term Care (HLTC): E2SHB 2247 Behavioral health providers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31945&aId=159267&caId=24150&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31945&aId=159267&caId=24150&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31945&aId=159267&caId=24150&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31945&aId=159267&caId=24150&tId=4)
-
-#### 64 👍 - Pro
+#### 85 👍 - Pro
 Testifying:
 * Laurie Lippold - Partners for Our Children
 * 💵London Breedlove - Washington State Psychological Association
@@ -31,9 +25,10 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Bob Cooper - National Association of Social Workers WA Chapter
+* Shawna Fox - Washington State Department of Health
 
 ### Sat 02/03 09:00 AM - Appropriations (APP): SHB 2247 Behavioral health providers
 #### 19 👍 - Pro

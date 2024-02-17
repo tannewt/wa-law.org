@@ -7,6 +7,13 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 02/16 10:30 AM - Housing (HSG): HB 2375 Senior property tax ex./ADUs
+#### 8 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/25 01:30 PM - Finance (FIN): HB 2375 Senior property tax ex./ADUs
 #### 5 👍 - Pro
 Testifying:

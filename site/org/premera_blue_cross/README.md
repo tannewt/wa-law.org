@@ -9,6 +9,8 @@
 
 ## [HB 1690](/bill/2023-24/hb/1690/) - Kidney disease centers 👍1  
 
+## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍1  
+
 ## [HB 2476](/bill/2023-24/hb/2476/) - Creating a covered lives assessment professional services rate account.  👎2 
 * 👎💵 Gary Strannigan
 * 👎💵 Gary Strannigan

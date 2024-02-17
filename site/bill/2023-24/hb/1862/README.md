@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
+
+## 📰 Articles
+* 02/15/2024 [House Democrats](/org/house_democrats/) - [House passes Leavitt bills to support National Guard families and veterans with disabilities – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/15/house-passes-leavitt-bills-to-support-national-guard-families-and-veterans-with-disabilities/#:~:text=House%20Bill%201862)
 
 ## Meetings
 ### Tue 01/09 08:00 AM - Finance (FIN): HB 1862 Disabled veteran assist./tax

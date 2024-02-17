@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Thu 02/15 04:00 PM - Appropriations (APP): SSB 6197 LEOFF plan 2
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159151&caId=24110&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159151&caId=24110&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159151&caId=24110&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159151&caId=24110&tId=4)
-
-#### 9 👍 - Pro
+#### 10 👍 - Pro
 
 #### 0 👎 - Con
 

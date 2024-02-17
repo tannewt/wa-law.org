@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Fri 02/16 10:30 AM - Local Government (LG): SSB 5925 Fire commissioner comp.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31956&aId=159084&caId=24058&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31956&aId=159084&caId=24058&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31956&aId=159084&caId=24058&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31956&aId=159084&caId=24058&tId=4)
-
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * robert homan - graham fire and rescue
 * ryan spiller - Wa fire commissioners

@@ -18,9 +18,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159187&caId=24148&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159187&caId=24148&tId=4)
 
-#### 1 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Ashley Lipford - Washington State Supreme Court
+* Dawn Rubio - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Kyle Landry - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Tracy Foster - Supreme Court of Washington
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 2 👎 - Con
+#### 20 👎 - Con
+Testifying:
+* Albert Kegley
 
 #### 0 ❓ - Other
 

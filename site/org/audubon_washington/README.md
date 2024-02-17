@@ -52,7 +52,8 @@
 
 ## [SB 5934](/bill/2023-24/sb/5934/) - Pollinator habitat 👍2  
 
-## [SB 5972](/bill/2023-24/sb/5972/) - Neonicotinoid pesticides 👍1  
+## [SB 5972](/bill/2023-24/sb/5972/) - Neonicotinoid pesticides 👍2  
+* 👍 Adam Maxwell
 
 ## [SB 6092](/bill/2023-24/sb/6092/) - Greenhouse gas disclosures 👍1  
 

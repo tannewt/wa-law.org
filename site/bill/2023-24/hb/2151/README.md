@@ -16,10 +16,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159582&caId=24205&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159582&caId=24205&tId=4)
 
-#### 4 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Trecia Ehrlich - Washington State Department of Agriculture
+* Caitlein Ryan - THE CANNABIS ALLIANCE
 * Dr. Annette Hoffmann - Department of Ecology
+* 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
+* Amber Wise - Medicine Creek Analytics
 
 #### 0 👎 - Con
 

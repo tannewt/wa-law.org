@@ -11,23 +11,22 @@
 
 ## Meetings
 ### Fri 02/16 08:00 AM - State Government & Elections (SGE): E2SHB 1272 Voters' pamphlets
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159095&caId=24030&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159095&caId=24030&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159095&caId=24030&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31949&aId=159095&caId=24030&tId=4)
+#### 97 👍 - Pro
+Testifying:
+* Mary Hall
 
-#### 82 👍 - Pro
-
-#### 828 👎 - Con
+#### 879 👎 - Con
 Testifying:
 * Laurie Layne
 * Tim Eyman - Initiative Activist
 * Tim Eyman - Initiative Activist
 * Jeff Heckathorn
 * Liv Finne - Washington Policy Center
+* Jeffrey Pack - Washington Citizens Against Unfair Taxes
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Michael Brunson
 
 ### Mon 02/13 04:00 PM - Appropriations (APP): SHB 1272 Voters' pamphlets
 #### 51 👍 - Pro

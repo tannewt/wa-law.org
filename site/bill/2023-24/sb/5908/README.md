@@ -11,22 +11,19 @@
 
 ## Meetings
 ### Fri 02/16 08:00 AM - Human Services, Youth, & Early Learning (HSEL): E2SSB 5908 Extended foster care
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31929&aId=159035&caId=24066&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31929&aId=159035&caId=24066&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31929&aId=159035&caId=24066&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31929&aId=159035&caId=24066&tId=4)
-
-#### 56 👍 - Pro
+#### 90 👍 - Pro
 Testifying:
 * 💵Michael Moran - Self
 * 💵Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
 * Tara Urs - King County Dept. of Public Defense
 * Deonate Cruz - A Way Home Washington
 
-#### 1 👎 - Con
+#### 24 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Colleen Stark-Bell - DCYF
+* Colleen Stark-Bell - Self
 
 ### Mon 01/29 04:00 PM - Ways & Means (WM): SSB 5908 Extended foster care
 #### 195 👍 - Pro

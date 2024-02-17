@@ -20,16 +20,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159729&caId=24223&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159729&caId=24223&tId=4)
 
-#### 13 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
+* Nikki Lockwood - Washington State School Directors' Association
 * 💵Melissa Gombosky - Spokane, Evergreen, Vancouver and Richland School District
+* Charlie Brown - South Sound Superintendents and Skills Centers Directors
 * Jim Kowalkowski - Rural Education Center
+* Doug Vanderleest - WA Asssociation of Maintenance and Operation Administrators
+* 💵Mitch Denning - Alliance of Educational Associations
 
 #### 2 👎 - Con
 Testifying:
 * John Axtell
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* LYNETTE BROWER - WA State Skills Center Association
 
 ### Mon 02/05 10:30 AM - Appropriations (APP): HB 2494 School operating costs
 #### 202 👍 - Pro

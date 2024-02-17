@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5271/</link>
 		<description>Updates about SB 5271</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Feb 2024 09:53:38 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 15 Feb 2024 10:55:52 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -156,6 +156,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jenny/Arnold/2024-02-14 09:53:38</guid>
+		</item>
+		<item>
+			<title>👍Ken Kenyon - Washington State Pharmacy Quality Assurance Commission</title>
+			<description>Ken Kenyon signed up to testify Pro. They are signed up to represent Washington State Pharmacy Quality Assurance Commission.</description>
+			<pubDate>Thu, 15 Feb 2024 05:13:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ken/Kenyon/2024-02-15 05:13:32</guid>
+		</item>
+		<item>
+			<title>👍Ramiro Cantu - Washington State Department of Health</title>
+			<description>Ramiro Cantu signed up to testify Pro. They are signed up to represent Washington State Department of Health.</description>
+			<pubDate>Thu, 15 Feb 2024 05:13:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ramiro/Cantu/2024-02-15 05:13:32</guid>
+		</item>
+		<item>
+			<title>👎Randall Knapp - Rimrock Cabin Owners Association</title>
+			<description>Randall Knapp signed up to testify Con. They are signed up to represent Rimrock Cabin Owners Association.</description>
+			<pubDate>Thu, 15 Feb 2024 10:55:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Randall/Knapp/2024-02-15 10:55:52</guid>
 		</item>
 	</channel>
 </rss>

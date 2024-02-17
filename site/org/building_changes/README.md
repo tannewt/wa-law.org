@@ -34,7 +34,7 @@
 
 ## [HB 1479](/bill/2023-24/hb/1479/) - Student restraint, isolation 👍2  
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍2  
+## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍3  
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍2  
 
@@ -87,7 +87,7 @@
 
 ## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍2  
 
-## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍2  
+## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍3  
 * 👍💵 Megan Veith
 
 ## [SB 5581](/bill/2023-24/sb/5581/) - Maternal support services 👍3  

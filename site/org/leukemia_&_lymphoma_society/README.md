@@ -11,7 +11,7 @@
 * 👍💵 Adam Zarrin
 * 👍💵 Erin Dziedzic
 
-## [HB 1957](/bill/2023-24/hb/1957/) - Preventive service coverage 👍1  
+## [HB 1957](/bill/2023-24/hb/1957/) - Preventive service coverage 👍2  
 
 ## [HB 1959](/bill/2023-24/hb/1959/) - PFML/small employers 👍1  
 
@@ -33,7 +33,7 @@
 * 👍💵 Adam Zarrin
 * 👍💵 Adam Zarrin
 
-## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍1  
+## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍2  
 
 ## [SB 5864](/bill/2023-24/sb/5864/) - Rare disease supports 👍2  
 

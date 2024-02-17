@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5982/</link>
 		<description>Updates about SB 5982</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Feb 2024 11:33:09 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 16 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -319,6 +319,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Lacy/Fehrenbach/2024-02-13 11:33:09</guid>
+		</item>
+		<item>
+			<title>HCW - Executive action taken by committee.</title>
+			<description>HCW - Executive action taken by committee.</description>
+			<pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-16/HCW - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

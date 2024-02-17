@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 02/15 06:00 PM - State Government & Elections (SGE): HB 2032 Yard sign disclosures/size
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31948&aId=159092&caId=24026&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31948&aId=159092&caId=24026&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31948&aId=159092&caId=24026&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31948&aId=159092&caId=24026&tId=4)
-
-#### 94 👍 - Pro
+#### 97 👍 - Pro
 Testifying:
 * 💵Conner Edwards - WA Professional Campaign Treasurer
 * Sean Flynn - Public Disclosure Commission

@@ -10,17 +10,15 @@
 
 ## Meetings
 ### Fri 02/16 08:00 AM - Health Care & Wellness (HCW): ESSB 5271 DOH facilities/enforcement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=158925&caId=23962&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=158925&caId=23962&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=158925&caId=23962&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31931&aId=158925&caId=23962&tId=4)
-
-#### 9 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Jenny Arnold - Washington State Pharmacy Association
+* Ken Kenyon - Washington State Pharmacy Quality Assurance Commission
+* Ramiro Cantu - Washington State Department of Health
 
-#### 5 👎 - Con
+#### 31 👎 - Con
+Testifying:
+* Randall Knapp - Rimrock Cabin Owners Association
 
 #### 0 ❓ - Other
 

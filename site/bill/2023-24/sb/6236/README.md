@@ -13,7 +13,7 @@
 #### 816 👎 - Con
 Testifying:
 * Jennifer Garrison Stuber - Washington Homeschool Organization
-* Kevin Boden - Home School Legal Defense Association
+* 💵Kevin Boden - [Home School Legal Defense Association](/org/home_school_legal_defense_association/)
 * Jennifer Child - Homeschool Mom
 * Julie Barrett - Parent
 * Susanna Jones

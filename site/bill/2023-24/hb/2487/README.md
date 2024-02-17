@@ -11,15 +11,9 @@
 
 ## Meetings
 ### Fri 02/16 08:00 AM - Postsecondary Education & Workforce (PEW): HB 2487 Displaced farmworkers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31903&aId=158832&caId=23978&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31903&aId=158832&caId=23978&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31903&aId=158832&caId=23978&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31903&aId=158832&caId=23978&tId=4)
+#### 17 👍 - Pro
 
-#### 15 👍 - Pro
-
-#### 255 👎 - Con
+#### 371 👎 - Con
 Testifying:
 * Jeannette Mcchesney
 

@@ -145,7 +145,9 @@
 
 ## [HB 1901](/bill/2023-24/hb/1901/) - Removing the sunset on changes to the unemployment insurance voluntary contribution program. 👍1  
 
-## [HB 1919](/bill/2023-24/hb/1919/) - Private moorage/abandonment 👍1  
+## [HB 1906](/bill/2023-24/hb/1906/) - Vessel length/nonresident 👍1  
+
+## [HB 1919](/bill/2023-24/hb/1919/) - Private moorage/abandonment 👍2  
 
 ## [HB 1921](/bill/2023-24/hb/1921/) - Prohibiting the use of certain substances in food.  👎1 
 
@@ -158,6 +160,8 @@
 
 ## [HB 1959](/bill/2023-24/hb/1959/) - PFML/small employers  👎1 
 * 👎 Bruce K Beckett
+
+## [HB 1989](/bill/2023-24/hb/1989/) - Graffiti abatement 👍1  
 
 ## [HB 1991](/bill/2023-24/hb/1991/) - Paid sick leave  👎1 
 * 👎 Bruce K Beckett
@@ -178,6 +182,9 @@
 * 👎💵 Crystal Leatherman
 
 ## [HB 2116](/bill/2023-24/hb/2116/) - Pharmacist prescriptive auth 👍1  
+
+## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers  👎1 
+* 👎💵 Mark Johnson
 
 ## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍1  
 
@@ -363,7 +370,8 @@
 * ❓ CRYSTAL LEATHERMAN
 * ❓💵 Crystal Leatherman
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍3  
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍4  
+* 👍💵 Mark Johnson
 * 👍💵 Mark Johnson
 
 ## [SB 5894](/bill/2023-24/sb/5894/) - Equal pay/protected classes   ❓1
@@ -433,6 +441,7 @@
 
 ## [SB 6301](/bill/2023-24/sb/6301/) - Basic law enf. academy 👍1  
 
-## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍1  
+## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍2  
+* 👍💵 Mark Johnson
 
 ## [SJM 8009](/bill/2023-24/sjm/8009/) - Harbor maintenance tax 👍1  

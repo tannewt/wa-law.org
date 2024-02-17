@@ -9,12 +9,6 @@
 
 ## Meetings
 ### Thu 02/15 04:00 PM - Appropriations (APP): SSB 6100 Budget stabilization account
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159150&caId=24109&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159150&caId=24109&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159150&caId=24109&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31935&aId=159150&caId=24109&tId=4)
-
 #### 2 👍 - Pro
 Testifying:
 * K.D. Chapman-See - Office of Financial Management
