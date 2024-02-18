@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Fri 02/16 01:30 PM - Law & Justice (LAW): HB 1967 Hit & run/first-time waiver
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159183&caId=24144&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159183&caId=24144&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159183&caId=24144&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159183&caId=24144&tId=4)
-
 #### 107 👍 - Pro
 Testifying:
 * MAGGIE O'GRADY

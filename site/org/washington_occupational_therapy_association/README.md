@@ -14,4 +14,7 @@
 * 👍 Kate White Tudor
 * 👍 Diane Norell
 
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
+* ❓ Trish Toole
+
 ## [SB 6267](/bill/2023-24/sb/6267/) - DD parental caregivers 👍1  

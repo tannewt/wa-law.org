@@ -38,7 +38,7 @@
 
 ## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍3  
 
-## [HB 1239](/bill/2023-24/hb/1239/) - Educator ethics & complaints 👍3  
+## [HB 1239](/bill/2023-24/hb/1239/) - Educator ethics & complaints 👍4  
 
 ## [HB 1247](/bill/2023-24/hb/1247/) - Music therapists 👍1  
 
@@ -105,15 +105,15 @@
 
 ## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍2  
 
-## [HB 1941](/bill/2023-24/hb/1941/) - Health home serv./children 👍1  
+## [HB 1941](/bill/2023-24/hb/1941/) - Health home serv./children 👍2  
 
-## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
+## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍2  
 
 ## [HB 1960](/bill/2023-24/hb/1960/) - Prototypical school staffing 👍1  
 
 ## [HB 1969](/bill/2023-24/hb/1969/) - Individual providers/family 👍2  
 
-## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍1  
+## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍2  
 
 ## [HB 2023](/bill/2023-24/hb/2023/) - Improving meaningful access to elections by increasing language assistance. 👍1  
 
@@ -123,10 +123,11 @@
 ## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental   ❓1
 * ❓💵 Ramona Hattendorf
 
-## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓2
+* ❓💵 Ramona Hattendorf
 * ❓💵 Ramona Hattendorf
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍2  
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍3  
 
 ## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍1  
 
@@ -142,6 +143,8 @@
 
 ## [HB 2239](/bill/2023-24/hb/2239/) - Social-emotional instruction 👍1  
 
+## [HB 2256](/bill/2023-24/hb/2256/) - Children behavioral health 👍1  
+
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
 ## [HB 2279](/bill/2023-24/hb/2279/) - Dev. disabilities waiver use 👍2  
@@ -152,7 +155,7 @@
 
 ## [HB 2415](/bill/2023-24/hb/2415/) - Economic assistance/TANF 👍2  
 
-## [HB 2494](/bill/2023-24/hb/2494/) - School operating costs 👍1  
+## [HB 2494](/bill/2023-24/hb/2494/) - School operating costs 👍2  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 
@@ -228,13 +231,13 @@
 
 ## [SB 5734](/bill/2023-24/sb/5734/) - ABLE accounts 👍1  
 
-## [SB 5811](/bill/2023-24/sb/5811/) - Expanding the definition of family member for individual providers. 👍2  
+## [SB 5811](/bill/2023-24/sb/5811/) - Expanding the definition of family member for individual providers. 👍2  ❓1
 
-## [SB 5850](/bill/2023-24/sb/5850/) - Chronically absent students 👍1  
+## [SB 5850](/bill/2023-24/sb/5850/) - Chronically absent students 👍2  
 
 ## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍1  
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍3  
 
 ## [SB 5864](/bill/2023-24/sb/5864/) - Rare disease supports 👍2  
 
@@ -254,12 +257,16 @@
 
 ## [SB 5933](/bill/2023-24/sb/5933/) - Infants and toddlers program 👍1  
 
+## [SB 5943](/bill/2023-24/sb/5943/) - Resource data tool 👍1  
+
 ## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental   ❓2
 * ❓💵 Ramona Hattendorf
 * ❓💵 Ramona Hattendorf
 
-## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍2 👎1 
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍2 👎1 ❓2
 * 👍💵 Ramona Hattendorf
+* ❓💵 Ramona Hattendorf
+* ❓💵 Ramona Hattendorf
 
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍1  
 
@@ -270,7 +277,7 @@
 
 ## [SB 6082](/bill/2023-24/sb/6082/) - Paraeducator compensation 👍1  
 
-## [SB 6125](/bill/2023-24/sb/6125/) - Lakeland Village records 👍2  
+## [SB 6125](/bill/2023-24/sb/6125/) - Lakeland Village records 👍3  
 
 ## [SB 6126](/bill/2023-24/sb/6126/) - Respite care 👍2  
 

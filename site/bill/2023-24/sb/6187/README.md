@@ -16,9 +16,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31982&aId=159269&caId=24346&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31982&aId=159269&caId=24346&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Laurie Dawson - 12062 Seabeck Hwy
+* Tomas Fithian - Washington State Department of Corrections
 
 #### 0 👎 - Con
 

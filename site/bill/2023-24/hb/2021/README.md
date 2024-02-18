@@ -23,16 +23,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159241&caId=24212&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159241&caId=24212&tId=4)
 
-#### 11 👍 - Pro
+#### 320 👍 - Pro
 Testifying:
 * Deion Glover - Washington State Patrol
 
-#### 187 👎 - Con
+#### 597 👎 - Con
 Testifying:
 * 💵Aoibheann Cline - NRA
 * Teo Morca
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/16 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2021 Firearm disposition
 #### 671 👍 - Pro

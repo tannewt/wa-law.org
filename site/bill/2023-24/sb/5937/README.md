@@ -21,11 +21,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31982&aId=159817&caId=24344&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31982&aId=159817&caId=24344&tId=4)
 
-#### 5 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* Kate Krug - King County Sexual Assault Resource Center
+* Riddhi Mukhopadhyay - Sexual Violence Law Center
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Sat 02/03 09:00 AM - Ways & Means (WM): SSB 5937 Crime victims & witnesses
 #### 12 👍 - Pro

@@ -9,18 +9,12 @@
 
 ## Meetings
 ### Fri 02/16 01:30 PM - Law & Justice (LAW): SHB 2086 Office of indep. invest.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159181&caId=24142&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159181&caId=24142&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159181&caId=24142&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159181&caId=24142&tId=4)
-
-#### 10 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Roger Rogoff - Office of Independent Investigations
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 26 👎 - Con
+#### 27 👎 - Con
 
 #### 0 ❓ - Other
 

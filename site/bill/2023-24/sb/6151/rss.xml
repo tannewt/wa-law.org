@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6151/</link>
 		<description>Updates about SB 6151</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 17 Feb 2024 08:35:28 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2024-01-10/First reading, referred to Health &amp; Long Term Care.</guid>
 		</item>
 		<item>
-			<title>👍John Doe - Futurewise</title>
+			<title>👍John Doe - Parents of impacted minor</title>
 			<description>John Doe signed up to testify Pro.</description>
 			<pubDate>Wed, 10 Jan 2024 04:53:31 GMT</pubDate>
 			<category>testifier</category>
@@ -24,7 +24,7 @@
 			<guid isPermaLink="false">testifier/John/Doe/2024-01-10 04:53:31</guid>
 		</item>
 		<item>
-			<title>👍K F - Futurewise</title>
+			<title>👍K F - Parents of impacted minor</title>
 			<description>K F signed up to testify Pro.</description>
 			<pubDate>Wed, 10 Jan 2024 04:53:31 GMT</pubDate>
 			<category>testifier</category>
@@ -32,7 +32,7 @@
 			<guid isPermaLink="false">testifier/K/F/2024-01-10 04:53:31</guid>
 		</item>
 		<item>
-			<title>👍B F - Futurewise</title>
+			<title>👍B F - Parents of impacted minor</title>
 			<description>B F signed up to testify Pro.</description>
 			<pubDate>Wed, 10 Jan 2024 04:56:51 GMT</pubDate>
 			<category>testifier</category>
@@ -40,7 +40,7 @@
 			<guid isPermaLink="false">testifier/B/F/2024-01-10 04:56:51</guid>
 		</item>
 		<item>
-			<title>👍Jane Doe - Futurewise</title>
+			<title>👍Jane Doe - Parents of impacted minor</title>
 			<description>Jane Doe signed up to testify Pro.</description>
 			<pubDate>Wed, 10 Jan 2024 04:56:51 GMT</pubDate>
 			<category>testifier</category>
@@ -161,6 +161,30 @@
 			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-09/First reading, referred to Health Care &amp; Wellness.</guid>
+		</item>
+		<item>
+			<title>👎Gabriel Jacobs - Parents of impacted minor</title>
+			<description>Gabriel Jacobs signed up to testify Con.</description>
+			<pubDate>Fri, 16 Feb 2024 07:23:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Gabriel/Jacobs/2024-02-16 07:23:31</guid>
+		</item>
+		<item>
+			<title>👍B. F. - Parents of impacted minor</title>
+			<description>B. F. signed up to testify Pro. They are signed up to represent Parents of impacted minor.</description>
+			<pubDate>Sat, 17 Feb 2024 08:35:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/B./F./2024-02-17 08:35:28</guid>
+		</item>
+		<item>
+			<title>👍K. F. - Parents of impacted minor</title>
+			<description>K. F. signed up to testify Pro. They are signed up to represent Parents of impacted minor.</description>
+			<pubDate>Sat, 17 Feb 2024 08:35:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/K./F./2024-02-17 08:35:28</guid>
 		</item>
 	</channel>
 </rss>

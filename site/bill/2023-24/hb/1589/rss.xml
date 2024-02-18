@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1589/</link>
 		<description>Updates about HB 1589</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 15 Feb 2024 12:59:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 16 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1381,6 +1381,13 @@
 			<pubDate>Thu, 15 Feb 2024 12:59:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://crosscut.com/politics/2024/02/wa-legislature-keeps-most-its-priority-bills-alive-so-far#:~:text=House%20Bill%201589</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-16/Minority; do not pass.</guid>
 		</item>
 	</channel>
 </rss>

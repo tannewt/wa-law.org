@@ -18,11 +18,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31982&aId=159818&caId=24345&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31982&aId=159818&caId=24345&tId=4)
 
-#### 0 👍 - Pro
+#### 5 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Lindsey Hueer - [Association of Washington Cities](/org/association_of_washington_cities/)
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 ### Mon 01/22 10:30 AM - Law & Justice (LAW): SB 6146 Tribal warrants
 #### 12 👍 - Pro

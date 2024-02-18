@@ -26,6 +26,8 @@
 
 ## [HB 2021](/bill/2023-24/hb/2021/) - Firearm disposition 👍1  
 
+## [HB 2044](/bill/2023-24/hb/2044/) - Standardizing limitations on voter-approved property tax levies. 👍1  
+
 ## [HB 2054](/bill/2023-24/hb/2054/) - Concerning bulk purchases and transfers of firearms. 👍1  
 
 ## [HB 2073](/bill/2023-24/hb/2073/) - Greenhouse gas other sources 👍1  
@@ -35,6 +37,8 @@
 ## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍2  
 
 ## [HB 2132](/bill/2023-24/hb/2132/) - Coroner training costs  👎1 
+
+## [HB 2348](/bill/2023-24/hb/2348/) - County hospital funding 👍1  
 
 ## [HB 2416](/bill/2023-24/hb/2416/) - ARNP legal title 👍1  
 

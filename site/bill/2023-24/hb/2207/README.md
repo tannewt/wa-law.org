@@ -22,11 +22,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32003&aId=159365&caId=24244&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32003&aId=159365&caId=24244&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* 💵Jason Callahan - Green Diamond Resource Company
+* Tom Davis - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Peter Lyon - Washington State Department of Ecology
 
 ### Sat 02/03 09:00 AM - Appropriations (APP): SHB 2207 Solid waste dumping
 #### 5 👍 - Pro

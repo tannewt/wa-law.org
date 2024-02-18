@@ -18,7 +18,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159678&caId=24202&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159678&caId=24202&tId=4)
 
-#### 33 👍 - Pro
+#### 46 👍 - Pro
+Testifying:
+* 💵Amber Carter - [Washington Workforce Association](/org/washington_workforce_association/)
+* Tracy Doriot - Doriot Construction
 
 #### 0 👎 - Con
 

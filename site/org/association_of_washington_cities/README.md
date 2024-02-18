@@ -702,11 +702,13 @@
 ## [SB 6105](/bill/2023-24/sb/6105/) - Adult entertainment workers   ❓1
 * ❓💵 Lindsey Hueer
 
-## [SB 6120](/bill/2023-24/sb/6120/) - Wildland urban interface 👍1  
+## [SB 6120](/bill/2023-24/sb/6120/) - Wildland urban interface 👍2  
+* 👍💵 Carl Schroeder
 
 ## [SB 6134](/bill/2023-24/sb/6134/) - Opioid use 👍1  
 
-## [SB 6146](/bill/2023-24/sb/6146/) - Tribal warrants   ❓1
+## [SB 6146](/bill/2023-24/sb/6146/) - Tribal warrants   ❓2
+* ❓💵 Lindsey Hueer
 
 ## [SB 6150](/bill/2023-24/sb/6150/) - Comprehensive plan revisions 👍1  
 

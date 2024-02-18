@@ -21,11 +21,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32011&aId=159823&caId=24349&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32011&aId=159823&caId=24349&tId=4)
 
-#### 3 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* Bill Wagenseller - Washington Bud Company
+* Shawn DeNae Wagenseller - Washington Bud Company
+* Steve Walser - Buddy Boy Farms
+* Caitlein Ryan - THE CANNABIS ALLIANCE
+* John Worthington
 
-#### 1 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Bethany Rondeaux
+* 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
+* Brandon Park - DLH Ranch Tier 1 Producer/Processor
+* Andy Brassington - Evergreen Herbal
+* 💵Brooke Davies - Washington CannaBusiness Association
+* Jordan Zager
+* Andrew Darnell - Dewey Scientific.
 
 #### 0 ❓ - Other
 

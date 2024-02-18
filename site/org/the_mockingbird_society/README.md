@@ -39,6 +39,8 @@
 ## [HB 2016](/bill/2023-24/hb/2016/) - Allowing certain minors to contract for housing and utilities.   ❓1
 * ❓💵 Charles Smith
 
+## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍1  
+
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓2
 * ❓💵 Charles Smith
 * ❓💵 Charles Smith

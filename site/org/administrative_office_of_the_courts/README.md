@@ -47,16 +47,20 @@
 * 👍 Dawn Rubio
 * 👍 Kyle Landry
 
-## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍3  
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍4  
 * 👍 Brittany Gregory
 * 👍 Christopher Stanley
 * 👍 Dawn Marie Rubio
+* 👍 Christopher Stanley
 
 ## [HB 2149](/bill/2023-24/hb/2149/) - Protecting consumer personal information.   ❓2
 * ❓ Brittany Gregory
 
 ## [HB 2383](/bill/2023-24/hb/2383/) - Dependency outcome reporting 👍1  
 * 👍 Kelly Warner-King
+
+## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras   ❓1
+* ❓ Christopher Stanley
 
 ## [SB 5003](/bill/2023-24/sb/5003/) - Snohomish county judges 👍2  
 * 👍 Haily Perkins
@@ -90,7 +94,8 @@
 ## [SB 5474](/bill/2023-24/sb/5474/) - Juvenile justice   ❓1
 * ❓ Brittany Gregory
 
-## [SB 5825](/bill/2023-24/sb/5825/) - Guardianship 👍2  
+## [SB 5825](/bill/2023-24/sb/5825/) - Guardianship 👍3  
+* 👍 Christopher Stanley
 * 👍 Christopher Stanley
 * 👍 Christopher Stanley
 
@@ -99,21 +104,25 @@
 * 👍 Shannon Hinchcliffe
 * 👍 Christopher Stanley
 
-## [SB 5828](/bill/2023-24/sb/5828/) - Water rights commissioners 👍2  
+## [SB 5828](/bill/2023-24/sb/5828/) - Water rights commissioners 👍3  
 * 👍 Shannon Hinchcliffe
 * 👍 Christopher Stanley
+* 👍 Shannon Hinchcliffe
 
-## [SB 5836](/bill/2023-24/sb/5836/) - Adding an additional superior court judge in Clark county. 👍2  
+## [SB 5836](/bill/2023-24/sb/5836/) - Adding an additional superior court judge in Clark county. 👍3  
 * 👍 Dawn Marie Rubio
+* 👍 Christopher Stanley
 * 👍 Christopher Stanley
 
 ## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍2  
 * 👍 Brittany Gregory
 * 👍 Christopher Stanley
 
-## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍2  
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍3  
 * 👍 Brittany Gregory
 * 👍 Christopher Stanley
+* 👍 Christopher Stanley
 
-## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍1  
+## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍2  
+* 👍 Kelly Warner-King
 * 👍 Kelly Warner-King

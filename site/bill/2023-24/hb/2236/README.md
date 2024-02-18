@@ -20,7 +20,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159728&caId=24222&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159728&caId=24222&tId=4)
 
-#### 0 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Dave Gering - [Manufacturing Industrial Council of Seattle](/org/manufacturing_industrial_council_of_seattle/)
+* Becky Wallace - Office of Superintendent of Public Instruction
+* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
+* LYNETTE BROWER - WA State Skills Center Association
+* Kevin Smith - President, WA-ACTE and CTE Director, Renton School District
 
 #### 0 👎 - Con
 

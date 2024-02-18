@@ -18,11 +18,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159585&caId=24208&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159585&caId=24208&tId=4)
 
-#### 9 👍 - Pro
+#### 59 👍 - Pro
+Testifying:
+* Cathy MacCaul - AARP Washington State
+* Cathy Knight - WA Association of Area Agencies on Aging (W4A)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Elizabeth Hovde - Washington Policy Center
 
 ### Fri 01/26 08:00 AM - Health Care & Wellness (HCW): HB 2467 Increasing access to the long-term services and supports trust. (Remote Testimony Available).
 #### 117 👍 - Pro

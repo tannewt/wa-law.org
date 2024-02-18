@@ -34,7 +34,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159732&caId=24226&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159732&caId=24226&tId=4)
 
-#### 134 👍 - Pro
+#### 455 👍 - Pro
 Testifying:
 * Maddy Thompson
 * 💵Melissa Gombosky - Evergreen and Vancouver Public Schools
@@ -42,8 +42,10 @@ Testifying:
 * Anna Lising - Governor's Office
 * Molly Williams - Department of Ecology
 * Devon Kellogg - Washington State PTA
+* Mollie Grow - Washington Chapter American Academy of Pediatrics
+* Jim Kowalkowski - Rural Education Center
 
-#### 5 👎 - Con
+#### 16 👎 - Con
 Testifying:
 * Teresa Ekdahl-Johnson
 * Tommy Gallegos - [Washington Association for Pupil Transportation](/org/washington_association_for_pupil_transportation/)

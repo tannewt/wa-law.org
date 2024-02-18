@@ -16,9 +16,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159481&caId=24284&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159481&caId=24284&tId=4)
 
-#### 4 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * Brendan Donckers - Northwest Consumer Law Center Board Member
+* Malena Pinkham - Northwest Justice Project
+* Ryan Davis - Financial Empowerment Network
+* Denise Rodriguez - Washington Homeownership Resource Center
 * Andrew Pizor - National Consumer Law Center
 
 #### 0 👎 - Con

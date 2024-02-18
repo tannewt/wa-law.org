@@ -11,6 +11,19 @@
 * 01/08/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Session Preview: Legislature convenes January 8 for short session - WSPTA](https://www.wastatepta.org/2024-session-preview/#:~:text=SB%205789)
 
 ## Meetings
+### Fri 02/23 08:00 AM - Capital Budget (CB): SB 5789 School projects/sales tax
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32015&aId=159934&caId=24359&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32015&aId=159934&caId=24359&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32015&aId=159934&caId=24359&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32015&aId=159934&caId=24359&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Sat 02/03 09:00 AM - Ways & Means (WM): SB 5789 School projects/sales tax
 #### 6 👍 - Pro
 Testifying:

@@ -17,13 +17,7 @@
 
 ## Meetings
 ### Fri 02/16 01:30 PM - Law & Justice (LAW): SHB 1999 Fabricated intimate images
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159184&caId=24145&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159184&caId=24145&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159184&caId=24145&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159184&caId=24145&tId=4)
-
-#### 93 👍 - Pro
+#### 95 👍 - Pro
 Testifying:
 * Lily Jensen
 * James McMahan - WA Assoc Sheriffs & Police Chiefs

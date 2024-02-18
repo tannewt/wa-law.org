@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32005&aId=159371&caId=24272&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32005&aId=159371&caId=24272&tId=4)
 
-#### 6 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Larry Jefferson - Director, Washington State Office of Public Defense

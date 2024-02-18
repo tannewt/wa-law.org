@@ -42,7 +42,7 @@
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
-## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍1  
+## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍2  
 
 ## [HB 2076](/bill/2023-24/hb/2076/) - Human trafficking crimes   ❓3
 * ❓ Nicholas Oakley
@@ -81,7 +81,7 @@
 
 ## [SB 5800](/bill/2023-24/sb/5800/) - Improving access to department of licensing issued documents by clarifying the application requirements for a minor, modifying the requirements for at-cost identicards, and studying the feasibility of reduced-fee identicards. 👍1  
 
-## [SB 5850](/bill/2023-24/sb/5850/) - Chronically absent students 👍1  
+## [SB 5850](/bill/2023-24/sb/5850/) - Chronically absent students 👍2  
 
 ## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍4  
 

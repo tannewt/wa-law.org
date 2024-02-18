@@ -59,7 +59,8 @@
 * 👍💵 Lukas Hunter
 * 👍💵 Lukas Hunter
 
-## [SB 5546](/bill/2023-24/sb/5546/) - Cannabis commission  👎1 
+## [SB 5546](/bill/2023-24/sb/5546/) - Cannabis commission  👎2 
+* 👎💵 Lukas Hunter
 * 👎💵 Lukas Hunter
 
 ## [SB 6118](/bill/2023-24/sb/6118/) - Vapor product directory   ❓1

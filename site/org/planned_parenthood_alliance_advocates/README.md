@@ -46,7 +46,7 @@
 
 ## [HB 1608](/bill/2023-24/hb/1608/) - Anaphylaxis meds./schools 👍1  
 
-## [HB 1618](/bill/2023-24/hb/1618/) - Childhood sexual abuse/SOL 👍1  
+## [HB 1618](/bill/2023-24/hb/1618/) - Childhood sexual abuse/SOL 👍2  
 
 ## [HB 1626](/bill/2023-24/hb/1626/) - Colorectal screening tests 👍1  
 
@@ -60,7 +60,7 @@
 
 ## [HB 1902](/bill/2023-24/hb/1902/) - Firearms/purchase & transfer 👍1  
 
-## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍1  
+## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍2  
 
 ## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍1  
 
@@ -82,7 +82,7 @@
 
 ## [HB 1999](/bill/2023-24/hb/1999/) - Fabricated intimate images 👍1  
 
-## [HB 2021](/bill/2023-24/hb/2021/) - Firearm disposition 👍1  
+## [HB 2021](/bill/2023-24/hb/2021/) - Firearm disposition 👍2  
 
 ## [HB 2023](/bill/2023-24/hb/2023/) - Improving meaningful access to elections by increasing language assistance. 👍1  
 
@@ -98,7 +98,7 @@
 
 ## [HB 2098](/bill/2023-24/hb/2098/) - Women's commission/gifts 👍1  
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍2  
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍3  
 
 ## [HB 2115](/bill/2023-24/hb/2115/) - Prescription labels/abortion 👍2  
 * 👍💵 Nicole Kern
@@ -123,7 +123,7 @@
 
 ## [HB 2331](/bill/2023-24/hb/2331/) - Public school materials 👍1  
 
-## [HB 2348](/bill/2023-24/hb/2348/) - County hospital funding 👍2  
+## [HB 2348](/bill/2023-24/hb/2348/) - County hospital funding 👍3  
 
 ## [HB 2390](/bill/2023-24/hb/2390/) - Eluding & resisting arrest  👎1 
 

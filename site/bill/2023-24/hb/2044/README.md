@@ -14,12 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159681&caId=24261&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159681&caId=24261&tId=4)
 
-#### 3 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * 💵Michael White - [King County](/org/king_county/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 7 👎 - Con
+#### 10 👎 - Con
+Testifying:
+* Tim Eyman - Initiative Activist
+* Liv Finne - Washington Policy Center
 
 #### 0 ❓ - Other
 

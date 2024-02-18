@@ -162,6 +162,8 @@
 
 ## [HB 1367](/bill/2023-24/hb/1367/) - Homeless funding 👍2  
 
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍1  
+
 ## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍2  
 
 ## [HB 1381](/bill/2023-24/hb/1381/) - Salmon-safe communities 👍1  
@@ -368,7 +370,7 @@
 
 ## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention 👍1  
 
-## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍2  
+## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍3  
 
 ## [HB 2129](/bill/2023-24/hb/2129/) - Geothermal energy resources 👍1  
 
@@ -692,7 +694,7 @@
 
 ## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍1  
 
-## [SB 5660](/bill/2023-24/sb/5660/) - Mental health adv directives 👍1  
+## [SB 5660](/bill/2023-24/sb/5660/) - Mental health adv directives 👍2  
 
 ## [SB 5696](/bill/2023-24/sb/5696/) - PEBB/subdivision retirees 👍2  
 
@@ -704,6 +706,8 @@
 
 ## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1 👎1 
 * 👍 Dwight Dively
+
+## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍1  
 
 ## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose/high schools 👍1  
 
@@ -763,7 +767,7 @@
 
 ## [SB 6157](/bill/2023-24/sb/6157/) - Civil service 👍1  
 
-## [SB 6163](/bill/2023-24/sb/6163/) - Biosolids 👍2  
+## [SB 6163](/bill/2023-24/sb/6163/) - Biosolids 👍3  
 
 ## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management 👍1  
 
@@ -773,12 +777,14 @@
 
 ## [SB 6220](/bill/2023-24/sb/6220/) - High THC cannabis products 👍1  
 
+## [SB 6228](/bill/2023-24/sb/6228/) - Substance use treatment 👍1  
+
 ## [SB 6242](/bill/2023-24/sb/6242/) - Law enforcement training 👍1  
 
 ## [SB 6245](/bill/2023-24/sb/6245/) - Refugee & immigrant assist. 👍1  
 * 👍 Michael Padilla Ocampo
 
-## [SB 6251](/bill/2023-24/sb/6251/) - Behavioral crisis coord. 👍1  
+## [SB 6251](/bill/2023-24/sb/6251/) - Behavioral crisis coord. 👍2  
 
 ## [SB 6269](/bill/2023-24/sb/6269/) - Alt. voter verification 👍2  
 

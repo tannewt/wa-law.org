@@ -23,3 +23,5 @@
 ## [SB 5452](/bill/2023-24/sb/5452/) - Impact fee use 👍1  
 
 ## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  
+
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  

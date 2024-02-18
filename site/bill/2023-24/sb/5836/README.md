@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32005&aId=159710&caId=24276&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32005&aId=159710&caId=24276&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Judge Derek Vanderwood
 
 #### 0 👎 - Con
 

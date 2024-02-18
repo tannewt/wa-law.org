@@ -50,7 +50,7 @@
 
 ## [HB 1428](/bill/2023-24/hb/1428/) - Pedestrians/roadways 👍1  
 
-## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍1  
+## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍2  
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍2  
 
@@ -73,7 +73,7 @@
 
 ## [HB 1894](/bill/2023-24/hb/1894/) - Modifying provisions of the business licensing service program. 👍1  
 
-## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍1  
+## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍2  
 
 ## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍2  
 
@@ -91,7 +91,7 @@
 
 ## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍1  
 
-## [HB 2044](/bill/2023-24/hb/2044/) - Standardizing limitations on voter-approved property tax levies. 👍1  
+## [HB 2044](/bill/2023-24/hb/2044/) - Standardizing limitations on voter-approved property tax levies. 👍2  
 
 ## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍2  
 
@@ -106,6 +106,8 @@
 ## [HB 2211](/bill/2023-24/hb/2211/) - Criminal justice local tax 👍1  
 
 ## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍1  
+
+## [HB 2256](/bill/2023-24/hb/2256/) - Children behavioral health 👍1  
 
 ## [HB 2308](/bill/2023-24/hb/2308/) - Existing structures/housing 👍1  
 
@@ -190,23 +192,27 @@
 
 ## [SB 5917](/bill/2023-24/sb/5917/) - Bias-motivated defacement 👍1  
 
+## [SB 5934](/bill/2023-24/sb/5934/) - Pollinator habitat 👍1  
+
 ## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  
 
 ## [SB 5967](/bill/2023-24/sb/5967/) - Housing/public lands leases 👍1  
 
-## [SB 5972](/bill/2023-24/sb/5972/) - Neonicotinoid pesticides 👍2  
+## [SB 5972](/bill/2023-24/sb/5972/) - Neonicotinoid pesticides 👍3  
 
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
 
-## [SB 6013](/bill/2023-24/sb/6013/) - Homeownership dev. tax ex. 👍3  
+## [SB 6010](/bill/2023-24/sb/6010/) - SEPA/trails and paths 👍1  
+
+## [SB 6013](/bill/2023-24/sb/6013/) - Homeownership dev. tax ex. 👍4  
 
 ## [SB 6030](/bill/2023-24/sb/6030/) - ADU tax exemptions 👍1  
 
 ## [SB 6076](/bill/2023-24/sb/6076/) - Criminal justice local tax 👍2  
 
-## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍1  
+## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍2  
 
-## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/tax 👍1  
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/tax 👍2  
 
 ## [SB 6230](/bill/2023-24/sb/6230/) - Tax increment areas  👎1 
 * 👎 Michael Olson

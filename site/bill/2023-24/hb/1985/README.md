@@ -22,14 +22,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159660&caId=24259&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159660&caId=24259&tId=4)
 
-#### 361 👍 - Pro
+#### 1134 👍 - Pro
 Testifying:
 * Timothy Knopf - Washington State School Retirees
 * Clair Olivers - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 8 ❓ - Other
 
 ### Mon 01/15 04:00 PM - Appropriations (APP): HB 1985 PERS/TRS 1 benefit increase
 #### 1143 👍 - Pro

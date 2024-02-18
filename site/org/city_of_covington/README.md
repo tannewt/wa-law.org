@@ -11,6 +11,8 @@
 
 ## [HB 1670](/bill/2023-24/hb/1670/) - Property tax limit factor 👍1  
 
+## [HB 2044](/bill/2023-24/hb/2044/) - Standardizing limitations on voter-approved property tax levies. 👍1  
+
 ## [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element  👎1 
 
 ## [HB 2211](/bill/2023-24/hb/2211/) - Criminal justice local tax 👍1  

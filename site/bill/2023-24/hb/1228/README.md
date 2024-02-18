@@ -31,12 +31,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159731&caId=24225&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159731&caId=24225&tId=4)
 
-#### 18 👍 - Pro
+#### 69 👍 - Pro
 Testifying:
+* Kristin Percy Calaff - OSPI
+* Willard Bill Jr. - Office of Superintendent of Public Instruction
 * Danica Noble - Washington State PTA
 * May Ling Joa
 * Athena Jimenez-Manalo
 * Radu Smintina - OneAmerica
+* Brian Freeman - Inchelium School District #70
 
 #### 0 👎 - Con
 

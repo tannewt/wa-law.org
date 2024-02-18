@@ -127,7 +127,7 @@
 
 ## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍2  
 
-## [HB 1228](/bill/2023-24/hb/1228/) - Dual & tribal language edu. 👍3  
+## [HB 1228](/bill/2023-24/hb/1228/) - Dual & tribal language edu. 👍4  
 
 ## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍1  
 
@@ -516,7 +516,7 @@
 ## [HB 2215](/bill/2023-24/hb/2215/) - Enrichment levies limit 👍1  
 * 👍💵 Julie Salvi
 
-## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍1  
+## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍2  
 
 ## [HB 2239](/bill/2023-24/hb/2239/) - Social-emotional instruction 👍1  
 * 👍💵 Nasue Nishida
@@ -525,7 +525,7 @@
 
 ## [HB 2244](/bill/2023-24/hb/2244/) - Retirement savings 👍1  
 
-## [HB 2246](/bill/2023-24/hb/2246/) - Vacation leave accrual 👍2  
+## [HB 2246](/bill/2023-24/hb/2246/) - Vacation leave accrual 👍3  
 
 ## [HB 2256](/bill/2023-24/hb/2256/) - Children behavioral health 👍1  
 
@@ -929,7 +929,7 @@
 * ❓💵 Nasue Nishida
 * ❓💵 Nasue Nishida
 
-## [SB 5850](/bill/2023-24/sb/5850/) - Chronically absent students 👍2  
+## [SB 5850](/bill/2023-24/sb/5850/) - Chronically absent students 👍3  
 
 ## [SB 5851](/bill/2023-24/sb/5851/) - Holocaust and genocide edu. 👍3  
 * 👍💵 Simone Boe

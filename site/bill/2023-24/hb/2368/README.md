@@ -18,16 +18,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159680&caId=24204&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159680&caId=24204&tId=4)
 
-#### 7 👍 - Pro
+#### 190 👍 - Pro
 Testifying:
 * 💵Eli Goss - OneAmerica
 * Thomas McLeod - [City of Tukwila](/org/city_of_tukwila/)
 
-#### 448 👎 - Con
+#### 1121 👎 - Con
 Testifying:
 * Jeannette Mcchesney
+* Reni Storm
+* Janet Baker
+* Berit Wright
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Babs Roberts - Department of Social and Health Services, Economic Services Administration
+* Sarah Peterson - Department of Social and Health Services, Economic Services Administration
 
 ### Wed 01/24 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2368 Refugee & immigrant assist.
 #### 77 👍 - Pro

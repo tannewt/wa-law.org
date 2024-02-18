@@ -19,17 +19,31 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159428&caId=24235&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159428&caId=24235&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Sophia McSherry - Deputy Director, Office of Public Defense
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Sara Robbins - Director, Washington State Office of Civil Legal Aid
+* Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 
-#### 0 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* John Worthington
+* CHARLES FEICK
 
-#### 1 ❓ - Other
+#### 11 ❓ - Other
 Testifying:
 * AyeNay Abye - The Tubman Center for Health and Freedom
+* Jason Grillo - PACCLEAN
+* Edgar Franks - Familas Unidas Por La Justicia
+* Sasha Wasserstrom - WA Immigrant Solidarity Network
+* Soumyo Lahiri-Gupta - OneAmerica
+* connie grindol - Independent Nurses
+* Syrah Kettlety
+* Hanahn Korman - Washington Assn of Nurse Delegators and other ALTSA-Contracted Nurses
+* Jennifer Gerber - Client with independent nurses
+* Robbi Anderson - Independent Nurses
+* Gloria Triebenbach - Independent Nurses
 
 ### Mon 02/19 04:00 PM - Ways & Means (WM): PSSB 5950: Early learning. (Remote Testimony Available).
 Sign up to testify:
@@ -38,15 +52,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159423&caId=24230&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159423&caId=24230&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 3 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Mica Slater - BrightSpark Early Learning Services
 * 💵Melissa Johnson - Washington State Association of Head Start & ECEAP
 * Aida Rodriguez - [The Imagine Institute](/org/the_imagine_institute/)
+* 💵Kristin Wiggins - Perigee Fund, P5RHS
+* Hannah Pick - Child Care Provider
 
 ### Mon 02/19 04:00 PM - Ways & Means (WM): PSSB 5950: Employee compensation. (Remote Testimony Available).
 Sign up to testify:
@@ -81,15 +97,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159426&caId=24233&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159426&caId=24233&tId=4)
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * 💵Michael White - [King County](/org/king_county/)
 * 💵Brad Forbes - Alzheimer's Association
 * 💵Melanie Smith - WA State Long Term Care Ombuds Program
+* 💵Michael Moran - Confederated Tribes of the Colville Reservation 2. Chehalis Tribe 3. Making A Difference Foundation
+* 💵Claire Lane - Anti-Hunger & Nutrition Coalition
 
 #### 0 👎 - Con
 
-#### 14 ❓ - Other
+#### 21 ❓ - Other
 Testifying:
 * Laurie Lippold - Partners for Our Children
 * Erika Bartlett - Tacoma-Pierce County Public Health
@@ -105,6 +123,13 @@ Testifying:
 * 💵Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
 * 💵Samuel Martin - Washington Coalition for Homeless Youth Advocacy
 * Stacy Christ - [Full Life Care](/org/full_life_care/)
+* 💵Aaron Dickson - [Community Employment Alliance](/org/community_employment_alliance/)
+* Blake Duarte
+* 💵Lance Morehouse
+* Tammy Bowen
+* John Lemus
+* Cathy Knight - WA Association of Area Agencies on Aging
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 
 ### Mon 02/19 04:00 PM - Ways & Means (WM): PSSB 5950: K-12 public schools. (Remote Testimony Available).
 Sign up to testify:
@@ -113,16 +138,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159421&caId=24228&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159421&caId=24228&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Henterson Carlisle - Center for High School Success
 
 #### 0 👎 - Con
 
-#### 4 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
 * 💵Melissa Gombosky - Association of Educational Service Districts
 * Angela Steck - President, Washington State PTA
+* Kate Vafaeezadeh - Cascade High School
 * Tyler Muench - Office of Superintendent of Public Instruction
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* Marissa Rathbone - Washington State School Directors' Association
 
 ### Mon 02/19 04:00 PM - Ways & Means (WM): PSSB 5950: Mental health. (Remote Testimony Available).
 Sign up to testify:
@@ -135,11 +165,14 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 3 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Jim Theofelis - NorthStar Advocates
 * Mary Kirchoff - Wonderland Child and Family Services
 * 💵Bob Cooper - WA Assocition of Drug Courts
+* Trish Toole - [Washington Occupational Therapy Association](/org/washington_occupational_therapy_association/)
+* Heidi Suarez - WA Chapter of the American Academy of Pediatrics
+* Lelach Rave - WA Chapter of the American Academy of Pediatrics
 
 ### Mon 02/19 04:00 PM - Ways & Means (WM): PSSB 5950: Natural resources. (Remote Testimony Available).
 Sign up to testify:
@@ -148,7 +181,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159427&caId=24234&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31970&aId=159427&caId=24234&tId=4)
 
-#### 0 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Trish Rolfe - Center for Law and Policy
 
 #### 0 👎 - Con
 

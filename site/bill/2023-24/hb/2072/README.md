@@ -13,17 +13,11 @@
 
 ## Meetings
 ### Fri 02/16 01:30 PM - Law & Justice (LAW): SHB 2072 Antitrust penalties
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159182&caId=24143&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159182&caId=24143&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159182&caId=24143&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159182&caId=24143&tId=4)
-
-#### 11 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Jonathan Mark - Attorney General's Office
 
-#### 20 👎 - Con
+#### 21 👎 - Con
 Testifying:
 * Tim Barrett
 

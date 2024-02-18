@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Fri 02/16 01:30 PM - Law & Justice (LAW): HB 2034 Court reorganization notices
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159186&caId=24147&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159186&caId=24147&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159186&caId=24147&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159186&caId=24147&tId=4)
-
 #### 4 👍 - Pro
 Testifying:
 * Dawn Rubio - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)

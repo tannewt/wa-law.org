@@ -19,11 +19,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32005&aId=159709&caId=24275&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32005&aId=159709&caId=24275&tId=4)
 
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Judge David Freeman - Whatcom County Superior Court
+* Shannon Hinchcliffe - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Mel Tonasket - Confederated Tribes of the Colville Reservation
+* 💵Michael Moran - Confederated Tribes of the Colville Reservation
 
 ### Thu 02/01 01:30 PM - Ways & Means (WM): SSB 5828 Water rights commissioners
 #### 7 👍 - Pro

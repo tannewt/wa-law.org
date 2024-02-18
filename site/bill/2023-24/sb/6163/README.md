@@ -18,11 +18,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31989&aId=159341&caId=24290&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31989&aId=159341&caId=24290&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Peter Lyon - Washington State Department of Ecology
 
 ### Fri 02/02 01:30 PM - Ways & Means (WM): SSB 6163 Biosolids
 #### 37 👍 - Pro

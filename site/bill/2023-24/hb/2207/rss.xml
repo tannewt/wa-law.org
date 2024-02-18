@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2207/</link>
 		<description>Updates about HB 2207</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 16 Feb 2024 12:02:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -170,6 +170,30 @@
 			<pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-14/First reading, referred to Environment, Energy &amp; Technology.</guid>
+		</item>
+		<item>
+			<title>❓Peter Lyon - Washington State Department of Ecology</title>
+			<description>Peter Lyon signed up to testify Other. They are signed up to represent Washington State Department of Ecology.</description>
+			<pubDate>Fri, 16 Feb 2024 03:46:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Peter/Lyon/2024-02-16 03:46:53</guid>
+		</item>
+		<item>
+			<title>👍💵Jason Callahan - Green Diamond Resource Company</title>
+			<description>Jason Callahan signed up to testify Pro. They are signed up to represent Green Diamond Resource Company. They are a registered lobbyist.</description>
+			<pubDate>Fri, 16 Feb 2024 12:02:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jason/Callahan/2024-02-16 12:02:13</guid>
+		</item>
+		<item>
+			<title>👍Tom Davis - Washington Forest Protection Association</title>
+			<description>Tom Davis signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_forest_protection_association/&quot;&gt;Washington Forest Protection Association&lt;/a&gt;.</description>
+			<pubDate>Fri, 16 Feb 2024 12:02:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tom/Davis/2024-02-16 12:02:13</guid>
 		</item>
 	</channel>
 </rss>

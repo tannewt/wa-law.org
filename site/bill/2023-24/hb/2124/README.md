@@ -16,9 +16,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159730&caId=24224&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159730&caId=24224&tId=4)
 
-#### 4 👍 - Pro
+#### 37 👍 - Pro
+Testifying:
+* 💵Katy Warren - WA State Assn of Head Start and ECEAP
+* Rekah Strong - Educational Opportunities for Children and Families
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

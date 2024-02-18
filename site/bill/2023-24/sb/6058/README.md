@@ -26,12 +26,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31989&aId=159330&caId=24288&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31989&aId=159330&caId=24288&tId=4)
 
-#### 6 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * 💵Isaac Kastama - Clean & Prosperous Washington
 * 💵Tom Wolf - bp America
+* Joel Creswell - Washington State Department of Ecology
 
-#### 6 👎 - Con
+#### 137 👎 - Con
+Testifying:
+* John Worthington
 
 #### 1 ❓ - Other
 Testifying:

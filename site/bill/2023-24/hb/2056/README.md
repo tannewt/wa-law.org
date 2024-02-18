@@ -12,12 +12,6 @@
 
 ## Meetings
 ### Fri 02/16 01:30 PM - Law & Justice (LAW): SHB 2056 Supreme court bailiffs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159187&caId=24148&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159187&caId=24148&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159187&caId=24148&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159187&caId=24148&tId=4)
-
 #### 7 👍 - Pro
 Testifying:
 * Ashley Lipford - Washington State Supreme Court
@@ -26,7 +20,7 @@ Testifying:
 * Tracy Foster - Supreme Court of Washington
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 20 👎 - Con
+#### 22 👎 - Con
 Testifying:
 * Albert Kegley
 

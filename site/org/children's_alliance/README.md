@@ -58,7 +58,7 @@
 
 ## [HB 1916](/bill/2023-24/hb/1916/) - Infants and toddlers program 👍1  
 
-## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
+## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍2  
 
 ## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍1  
 
@@ -68,7 +68,7 @@
 
 ## [HB 2102](/bill/2023-24/hb/2102/) - PFML benefits/health info. 👍1  
 
-## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍1  
+## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍2  
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
 
@@ -103,6 +103,8 @@
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
 
 ## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  
+
+## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍1  
 
 ## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍2  
 * 👍 Stephan Blanford

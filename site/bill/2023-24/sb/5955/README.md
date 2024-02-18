@@ -22,10 +22,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32020&aId=159835&caId=24353&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32020&aId=159835&caId=24353&tId=4)
 
-#### 5 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 * Kyle Moore - City of SeaTac, Government Relations
+* Traci Buxton - Mayor, City of Des Moines WA
 
 #### 1 👎 - Con
 

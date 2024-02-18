@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32020&aId=159501&caId=24314&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32020&aId=159501&caId=24314&tId=4)
 
-#### 17 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * 💵Jason Gauthier - South Sound Housing Affordability Partners
 

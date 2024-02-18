@@ -20,9 +20,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31989&aId=159618&caId=24292&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31989&aId=159618&caId=24292&tId=4)
 
-#### 3 👍 - Pro
+#### 59 👍 - Pro
+Testifying:
+* Barbara Carey
+* Jenna Ramsey
 
-#### 5 👎 - Con
+#### 10 👎 - Con
 
 #### 0 ❓ - Other
 

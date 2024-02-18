@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2295/</link>
 		<description>Updates about HB 2295</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 16 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -118,6 +118,13 @@
 			<pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-14/First reading, referred to Health &amp; Long Term Care.</guid>
+		</item>
+		<item>
+			<title>HLTC - Majority; do pass with amendment(s).</title>
+			<description>HLTC - Majority; do pass with amendment(s).</description>
+			<pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-16/HLTC - Majority; do pass with amendment(s).</guid>
 		</item>
 	</channel>
 </rss>

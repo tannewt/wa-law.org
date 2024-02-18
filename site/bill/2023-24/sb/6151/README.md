@@ -14,9 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159694&caId=24299&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159694&caId=24299&tId=4)
 
-#### 47 👍 - Pro
+#### 98 👍 - Pro
+Testifying:
+* B. F. - Parents of impacted minor
+* K. F. - Parents of impacted minor
 
-#### 4 👎 - Con
+#### 414 👎 - Con
+Testifying:
+* Gabriel Jacobs
 
 #### 0 ❓ - Other
 

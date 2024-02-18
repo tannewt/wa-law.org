@@ -37,9 +37,9 @@
 
 ## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍3  
 
-## [HB 2084](/bill/2023-24/hb/2084/) - Construction training/DOC 👍1  
+## [HB 2084](/bill/2023-24/hb/2084/) - Construction training/DOC 👍2  
 
-## [HB 2099](/bill/2023-24/hb/2099/) - State custody/ID cards 👍4  
+## [HB 2099](/bill/2023-24/hb/2099/) - State custody/ID cards 👍5  
 * 👍💵 Kelly Olson
 
 ## [HB 2171](/bill/2023-24/hb/2171/) - Incarcerated students 👍1  
@@ -65,7 +65,7 @@
 
 ## [SB 5474](/bill/2023-24/sb/5474/) - Juvenile justice 👍1  
 
-## [SB 5893](/bill/2023-24/sb/5893/) - Gate money/DOC 👍2  
+## [SB 5893](/bill/2023-24/sb/5893/) - Gate money/DOC 👍3  
 
 ## [SB 5912](/bill/2023-24/sb/5912/) - Reentry services & supports 👍2  
 

@@ -19,7 +19,7 @@
 
 ## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍1  
 
-## [HB 1985](/bill/2023-24/hb/1985/) - PERS/TRS 1 benefit increase 👍22  
+## [HB 1985](/bill/2023-24/hb/1985/) - PERS/TRS 1 benefit increase 👍43  
 * 👍 Nancy Heley
 * 👍 Claude Burfect
 * 👍 Clair Olivers
@@ -32,7 +32,7 @@
 
 ## [HB 2244](/bill/2023-24/hb/2244/) - Retirement savings 👍1  
 
-## [HB 2481](/bill/2023-24/hb/2481/) - Waiving health benefit premiums in the public employees' benefits board. 👍4  
+## [HB 2481](/bill/2023-24/hb/2481/) - Waiving health benefit premiums in the public employees' benefits board. 👍19  
 * 👍 Matt Groshong
 * 👍 Nancy Heley
 

@@ -23,16 +23,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159480&caId=24283&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159480&caId=24283&tId=4)
 
-#### 7 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Rosa Mai - Attorney General's Office
 * Veda Nayar
+* Jai Jaisimha - Transparency Coalition.ai
 
-#### 4 👎 - Con
+#### 415 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
+* Laurie Layne
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Kevin Schilling - Washington State Dental Association
 
 ### Tue 01/30 04:00 PM - Ways & Means (WM): SSB 5838 AI task force
 #### 111 👍 - Pro

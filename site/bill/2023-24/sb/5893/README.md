@@ -19,11 +19,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31982&aId=159816&caId=24343&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31982&aId=159816&caId=24343&tId=4)
 
-#### 2 👍 - Pro
+#### 43 👍 - Pro
 Testifying:
 * Danielle Armbruster - Washington State Department of Corrections
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

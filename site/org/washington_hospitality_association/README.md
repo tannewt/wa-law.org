@@ -152,6 +152,9 @@
 ## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management  👎1 
 * 👎💵 Samantha Louderback
 
+## [HB 2495](/bill/2023-24/hb/2495/) - Liquor/clothing and conduct 👍1  
+* 👍💵 Julia Gorton
+
 ## [SB 5002](/bill/2023-24/sb/5002/) - Alcohol concentration/DUI  👎1 
 * 👎💵 Julia Gorton
 

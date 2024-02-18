@@ -419,11 +419,12 @@
 
 ## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍3  
 
-## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍2  
+## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍3  
 
-## [HB 2236](/bill/2023-24/hb/2236/) - Tech. ed. core plus programs   ❓2
+## [HB 2236](/bill/2023-24/hb/2236/) - Tech. ed. core plus programs 👍1  ❓2
 * ❓💵 Emily Wittman
 * ❓💵 Emily Wittman
+* 👍💵 Emily Wittman
 
 ## [HB 2243](/bill/2023-24/hb/2243/) - Social equity land trust 👍1  
 * 👍💵 Amy Anderson
@@ -456,6 +457,8 @@
 ## [HB 2360](/bill/2023-24/hb/2360/) - Digital workforce 👍2  
 * 👍💵 Emily Wittman
 * 👍💵 Emily Wittman
+
+## [HB 2361](/bill/2023-24/hb/2361/) - Standardized health plans  👎1 
 
 ## [HB 2373](/bill/2023-24/hb/2373/) - Adopt-a-highway program  👎1 
 
@@ -821,7 +824,7 @@
 
 ## [SB 6291](/bill/2023-24/sb/6291/) - State building code council 👍1  
 
-## [SB 6296](/bill/2023-24/sb/6296/) - Establishing a retail industry work group. 👍1  
+## [SB 6296](/bill/2023-24/sb/6296/) - Establishing a retail industry work group. 👍2  
 
 ## [SB 6300](/bill/2023-24/sb/6300/) - College grant/public assist. 👍2  
 

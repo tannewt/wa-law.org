@@ -10,10 +10,11 @@
 
 ## Meetings
 ### Thu 02/15 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): ESHB 1510 Community preservation auth.
-#### 60 👍 - Pro
+#### 61 👍 - Pro
 Testifying:
 * Kathleen Barry Johnson - [Historic South Downtown](/org/historic_south_downtown/)
 * Jamie Lee - Seattle Chinatown International District Preservation and Development Authority
+* An Huynh
 
 #### 2 👎 - Con
 

@@ -19,11 +19,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31978&aId=159489&caId=24267&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31978&aId=159489&caId=24267&tId=4)
 
-#### 202 👍 - Pro
+#### 271 👍 - Pro
 Testifying:
 * Adam Maxwell - [Audubon Washington](/org/audubon_washington/)
+* Taylor Cotten - WDFW
+* Rosemary Malfi - The Xerces Society for Invertebrate Conservation
+* David Jennings - Washington Native Bee Society
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other
 

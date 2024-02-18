@@ -114,7 +114,7 @@
 
 ## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
 
-## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍9  
+## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍10  
 * 👍💵 Alex Hur
 * 👍💵 Lianna Kressin
 * 👍💵 Lianna Kressin
@@ -232,7 +232,7 @@
 
 ## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  
 
-## [SB 5968](/bill/2023-24/sb/5968/) - Home equity sharing 👍1  
+## [SB 5968](/bill/2023-24/sb/5968/) - Home equity sharing 👍2  
 
 ## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍2  
 

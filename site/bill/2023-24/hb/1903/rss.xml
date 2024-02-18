@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1903/</link>
 		<description>Updates about HB 1903</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Feb 2024 07:32:17 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 17 Feb 2024 07:25:07 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -84,7 +84,7 @@
 			<guid isPermaLink="false">testifier/Reno/Gregory/2024-01-11 08:43:43</guid>
 		</item>
 		<item>
-			<title>👍Anthony Alexander - NRA</title>
+			<title>👍Anthony Alexander - Washington State Young Republicans</title>
 			<description>Anthony Alexander signed up to testify Pro.</description>
 			<pubDate>Thu, 11 Jan 2024 08:59:44 GMT</pubDate>
 			<category>testifier</category>
@@ -398,6 +398,22 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Teo/Morca/2024-02-14 07:32:17</guid>
+		</item>
+		<item>
+			<title>👎Tim Eyman - Initiative Activist</title>
+			<description>Tim Eyman signed up to testify Con. They are signed up to represent Initiative Activist.</description>
+			<pubDate>Fri, 16 Feb 2024 11:51:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Tim/Eyman/2024-02-16 11:51:34</guid>
+		</item>
+		<item>
+			<title>👎Anthony Mixer - Washington State Young Republicans</title>
+			<description>Anthony Mixer signed up to testify Con. They are signed up to represent Washington State Young Republicans.</description>
+			<pubDate>Sat, 17 Feb 2024 07:25:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Anthony/Mixer/2024-02-17 07:25:07</guid>
 		</item>
 	</channel>
 </rss>

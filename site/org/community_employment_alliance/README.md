@@ -13,11 +13,12 @@
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 
-## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.  👎4 
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.  👎4 ❓1
 * 👎💵 Aaron Dickson
 * 👎💵 Aaron Dickson
 * 👎💵 Aaron Dickson
 * 👎💵 Aaron Dickson
+* ❓💵 Aaron Dickson
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget  👎1 ❓2
 * 👎💵 Courtney Williams
@@ -28,9 +29,10 @@
 
 ## [SB 5943](/bill/2023-24/sb/5943/) - Resource data tool 👍1  
 
-## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.  👎3 
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.  👎3 ❓1
 * 👎💵 Aaron Dickson
 * 👎 Nikki Wegner
 * 👎💵 Aaron Dickson
+* ❓💵 Aaron Dickson
 
 ## [SB 6125](/bill/2023-24/sb/6125/) - Lakeland Village records 👍1  

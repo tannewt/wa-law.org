@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1942/</link>
 		<description>Updates about HB 1942</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 17 Feb 2024 05:25:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -170,6 +170,22 @@
 			<pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-14/First reading, referred to Labor &amp; Commerce.</guid>
+		</item>
+		<item>
+			<title>👍Bea Rector - Dept. of Social and Health Services</title>
+			<description>Bea Rector signed up to testify Pro. They are signed up to represent Dept. of Social and Health Services.</description>
+			<pubDate>Fri, 16 Feb 2024 04:40:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bea/Rector/2024-02-16 04:40:00</guid>
+		</item>
+		<item>
+			<title>👍💵Alexa Silver - Consumer Direct of Washington</title>
+			<description>Alexa Silver signed up to testify Pro. They are signed up to represent Consumer Direct of Washington. They are a registered lobbyist.</description>
+			<pubDate>Sat, 17 Feb 2024 05:25:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Alexa/Silver/2024-02-17 05:25:11</guid>
 		</item>
 	</channel>
 </rss>

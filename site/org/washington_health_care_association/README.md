@@ -24,7 +24,7 @@
 ## [HB 2351](/bill/2023-24/hb/2351/) - Essential worker health care 👍1  
 * 👍 Carma Matti-Jackson
 
-## [HB 2467](/bill/2023-24/hb/2467/) - LTSS trust access 👍1  
+## [HB 2467](/bill/2023-24/hb/2467/) - LTSS trust access 👍2  
 * 👍 Lauri St. Ours
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  ❓1
@@ -61,3 +61,5 @@
 ## [SB 5802](/bill/2023-24/sb/5802/) - Nursing rate calculation 👍3  
 * 👍 Carma Matti-Jackson
 * 👍 Jeff Gombosky
+
+## [SB 6072](/bill/2023-24/sb/6072/) - LTSS commission recs. 👍1  

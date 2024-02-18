@@ -14,11 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159496&caId=24297&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159496&caId=24297&tId=4)
 
-#### 7 👍 - Pro
+#### 32 👍 - Pro
+Testifying:
+* Cathy MacCaul - AARP Washington State
+* Cathy Knight - WA Association of Area Agencies on Aging (W4A)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Elizabeth Hovde - Washington Policy Center
 
 ### Thu 01/25 08:00 AM - Labor & Commerce (LC): SB 6072 LTSS commission recs.
 #### 141 👍 - Pro

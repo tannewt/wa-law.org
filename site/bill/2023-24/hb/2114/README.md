@@ -48,7 +48,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=159803&caId=24332&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=159803&caId=24332&tId=4)
 
-#### 223 👍 - Pro
+#### 535 👍 - Pro
 Testifying:
 * 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
 * Stacey Valenzuela - Manufactured Homeowner
@@ -56,7 +56,7 @@ Testifying:
 * 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * 💵Tathagata Pal - Legislative Liaison, WSU Graduate and Professional Student Assoication
 
-#### 263 👎 - Con
+#### 677 👎 - Con
 Testifying:
 * Amandeep Cheema
 * Douglas Cole - - None -
@@ -67,8 +67,34 @@ Testifying:
 * Tim Eyman - Initiative Activist
 * Bruce Becker
 * Constance Nelson
+* Jeffrey Pack - Washington Citizens Against Unfair Taxes
+* Jay Parker
+* Bradford Augustine - MADRONA REAL ESTATE SERVICES, LLC
+* Gordon Bock
+* DENISE Helms
+* Jennifer Lekisch
+* Cobi Clark
+* Zoya Volynsky
+* CCIM, Donald Arsenault - Arsenault Realty Advisors, LLC
+* Eli Volynsky
+* MICHAEL YOUNG
+* Kyle Ottosen
+* Ty Brickner
+* Eunje Stephens
+* Brian Hansen
+* Alvaro Oregel
+* Michael Frost
+* Amanda Cardis - Neeb Enterprises
+* Ken Hick - 413 Brooks
+* kathy kirby
+* Doris Schiessl
+* Michael O'Gorman
+* John Brink - W & B Investments LLC of WA
+* Angela Veeder
+* DAVID NAGEL
+* Lorraine Obar
 
-#### 2 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Peter Hansen - Keyrenter Tacoma Property Management
 

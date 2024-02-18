@@ -2,6 +2,8 @@
 
 ## [HB 1489](/bill/2023-24/hb/1489/) - Mt. St. Helens license plate 👍1  
 
+## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍1  
+
 ## [HB 2108](/bill/2023-24/hb/2108/) - Smokey Bear license plates 👍2  
 * 👍 Jeff Chapman
 
@@ -21,6 +23,8 @@
 
 ## [SB 5910](/bill/2023-24/sb/5910/) - Creating the state department of natural resources' Smokey Bear special license plates. 👍3  
 * 👍 Joan Fleming
+
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
 
 ## [SB 6043](/bill/2023-24/sb/6043/) - Recreational use fees 👍2  
 

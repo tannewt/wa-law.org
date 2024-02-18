@@ -37,7 +37,7 @@
 
 ## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice   ❓1
 
-## [SB 5780](/bill/2023-24/sb/5780/) - Public defense & prosecution 👍1  
+## [SB 5780](/bill/2023-24/sb/5780/) - Public defense & prosecution 👍2  
 
 ## [SB 6134](/bill/2023-24/sb/6134/) - Opioid use 👍1  
 

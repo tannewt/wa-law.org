@@ -17,11 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159724&caId=24252&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159724&caId=24252&tId=4)
 
-#### 9 👍 - Pro
+#### 43 👍 - Pro
 Testifying:
 * Ty Reed - Washington Statewide Reentry Council
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

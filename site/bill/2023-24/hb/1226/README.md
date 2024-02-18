@@ -22,7 +22,7 @@ Sign up to testify:
 Testifying:
 * Tom McBride - WDFW
 
-#### 20 👎 - Con
+#### 21 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

@@ -10,12 +10,6 @@
 
 ## Meetings
 ### Fri 02/16 01:30 PM - Law & Justice (LAW): 2SHB 1205 Service by pub./dependency
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159674&caId=24194&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159674&caId=24194&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159674&caId=24194&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159674&caId=24194&tId=4)
-
 #### 35 👍 - Pro
 Testifying:
 * Lisa Henderson - Washington State Association of County Clerks

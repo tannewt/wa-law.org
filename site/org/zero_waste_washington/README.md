@@ -127,7 +127,8 @@
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
 * 👍💵 Heather Trim
 
-## [SB 6163](/bill/2023-24/sb/6163/) - Biosolids 👍2  
+## [SB 6163](/bill/2023-24/sb/6163/) - Biosolids 👍3  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 

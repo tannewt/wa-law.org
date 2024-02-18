@@ -15,9 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31991&aId=159682&caId=24220&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31991&aId=159682&caId=24220&tId=4)
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Roman Daniels-Brown - NW Marine Trade Association
+* Tarin Todd
 
 #### 0 👎 - Con
 

@@ -18,6 +18,19 @@
 * 02/24/2023 [House Democrats](/org/house_democrats/) - [Farivar’s Bill Seeking Justice for Child Sex Abuse Victims Passes Out of Committee – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/24/farivars-bill-seeking-justice-for-child-sex-abuse-victims-passes-out-of-committee/#:~:text=House%20Bill%201618)
 
 ## Meetings
+### Thu 02/22 01:30 PM - Ways & Means (WM): E2SHB 1618 Childhood sexual abuse/SOL
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=159945&caId=24358&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=159945&caId=24358&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=159945&caId=24358&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=159945&caId=24358&tId=4)
+
+#### 4 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/30 10:30 AM - Law & Justice (LAW): E2SHB 1618 Childhood sexual abuse/SOL
 #### 99 👍 - Pro
 Testifying:

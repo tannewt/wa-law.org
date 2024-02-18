@@ -57,11 +57,15 @@
 
 ## [SB 5825](/bill/2023-24/sb/5825/) - Guardianship 👍1  
 
+## [SB 5850](/bill/2023-24/sb/5850/) - Chronically absent students 👍1  
+
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
 
 ## [SB 5906](/bill/2023-24/sb/5906/) - Implementing a statewide drug overdose prevention and education campaign. 👍1  
 
 ## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍1  
+
+## [SB 5937](/bill/2023-24/sb/5937/) - Crime victims & witnesses 👍1  
 
 ## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍1  
 

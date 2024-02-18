@@ -23,7 +23,9 @@ Testifying:
 Testifying:
 * Laurie Layne
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 ### Mon 01/15 04:00 PM - Transportation (TRAN): SB 6115 Speed safety cameras
 #### 23 👍 - Pro

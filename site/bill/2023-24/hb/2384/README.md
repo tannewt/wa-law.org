@@ -20,14 +20,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159722&caId=24250&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159722&caId=24250&tId=4)
 
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Debbie Driver - Office of Governor Jay Inslee
 * Mark McKechnie - Washington Traffic Safety Commission
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 ### Thu 01/18 04:00 PM - Transportation (TR): HB 2384 Traffic safety cameras
 #### 16 👍 - Pro

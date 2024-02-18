@@ -30,3 +30,7 @@
 ## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍1  
 
 ## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍1  
+
+## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍1  
+
+## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍1  

@@ -15,7 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159583&caId=24206&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159583&caId=24206&tId=4)
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Bea Rector - Dept. of Social and Health Services
+* 💵Alexa Silver - Consumer Direct of Washington
 
 #### 0 👎 - Con
 

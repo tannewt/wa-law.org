@@ -25,18 +25,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159441&caId=24215&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159441&caId=24215&tId=4)
 
-#### 745 👍 - Pro
+#### 1060 👍 - Pro
 Testifying:
 * Judge David Keenan - Washington Supreme Court Minority and Justice Commission
 * Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation
 * Beth Ebel - WA Chapter of the American Academy of Pediatrics
+* Kari Reardon - WDA/WACDL
+* Maria Buxbaum
+* Cassandra Butler - Collective Justice
+* Councilman Jeremy Takala
 
-#### 8 👎 - Con
+#### 16 👎 - Con
 Testifying:
 * Tiffany Attrill
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
-#### 3 ❓ - Other
+#### 12 ❓ - Other
 
 ### Mon 01/22 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 2065 Offender score recalc.
 #### 1350 👍 - Pro

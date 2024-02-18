@@ -15,7 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159733&caId=24227&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159733&caId=24227&tId=4)
 
-#### 1 👍 - Pro
+#### 43 👍 - Pro
+Testifying:
+* 💵Katy Warren - WA State Assn of Head Start and ECEAP
+* Keith Boller - Skagit Valley College Head Start/ECEAP
+* 💵Claire Lane - Anti-Hunger & Nutrition Coalition
 
 #### 0 👎 - Con
 

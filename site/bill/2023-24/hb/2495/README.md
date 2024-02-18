@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32011&aId=159392&caId=24320&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32011&aId=159392&caId=24320&tId=4)
 
-#### 1 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Lars Erickson - Seattle Metropolitan Chamber of Commerce
 
-#### 0 👎 - Con
+#### 195 👎 - Con
+Testifying:
+* Jeannette Mcchesney
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

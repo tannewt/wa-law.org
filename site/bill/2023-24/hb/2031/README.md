@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159586&caId=24209&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159586&caId=24209&tId=4)
 
-#### 11 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * DANA TUCKER - CORONER'S OFFICE
 

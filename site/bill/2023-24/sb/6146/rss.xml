@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6146/</link>
 		<description>Updates about SB 6146</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 17 Feb 2024 02:48:33 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -150,6 +150,30 @@
 			<pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-14/First reading, referred to Community Safety, Justice, &amp; Reentry.</guid>
+		</item>
+		<item>
+			<title>❓💵Lindsey Hueer - Association of Washington Cities</title>
+			<description>Lindsey Hueer signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/association_of_washington_cities/&quot;&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Fri, 16 Feb 2024 02:27:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Lindsey/Hueer/2024-02-16 02:27:02</guid>
+		</item>
+		<item>
+			<title>❓James McMahan - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>James McMahan signed up to testify Other. They are signed up to represent WA Assoc Sheriffs &amp; Police Chiefs.</description>
+			<pubDate>Fri, 16 Feb 2024 06:40:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/James/McMahan/2024-02-16 06:40:19</guid>
+		</item>
+		<item>
+			<title>❓💵Russell Brown - WA Association of Prosecuting Attorneys</title>
+			<description>Russell Brown signed up to testify Other. They are signed up to represent WA Association of Prosecuting Attorneys. They are a registered lobbyist.</description>
+			<pubDate>Sat, 17 Feb 2024 02:48:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Russell/Brown/2024-02-17 02:48:33</guid>
 		</item>
 	</channel>
 </rss>

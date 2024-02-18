@@ -16,7 +16,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31989&aId=159340&caId=24289&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31989&aId=159340&caId=24289&tId=4)
 
-#### 1 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* Casey Hanell - [Department of Natural Resources](/org/department_of_natural_resources/)
+* Tim Gates - WA Dept of Ecology
+* 💵Scott Hazlegrove - Whatcom PUD
 
 #### 0 👎 - Con
 

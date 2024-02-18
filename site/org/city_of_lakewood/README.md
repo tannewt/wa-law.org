@@ -46,10 +46,10 @@
 
 ## [SB 5604](/bill/2023-24/sb/5604/) - Mental health & housing/tax 👍2  
 
-## [SB 5780](/bill/2023-24/sb/5780/) - Public defense & prosecution 👍2  
+## [SB 5780](/bill/2023-24/sb/5780/) - Public defense & prosecution 👍3  
 
 ## [SB 5845](/bill/2023-24/sb/5845/) - Military housing taxation  👎1 
 
 ## [SB 6015](/bill/2023-24/sb/6015/) - Residential parking  👎1 
 
-## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍1  
+## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍2  

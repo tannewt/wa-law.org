@@ -33,7 +33,7 @@
 
 ## [HB 2307](/bill/2023-24/hb/2307/) - Public records reviews 👍1  
 
-## [HB 2311](/bill/2023-24/hb/2311/) - First responder wellness 👍1  
+## [HB 2311](/bill/2023-24/hb/2311/) - First responder wellness 👍2  
 
 ## [HB 2390](/bill/2023-24/hb/2390/) - Eluding & resisting arrest 👍1  
 

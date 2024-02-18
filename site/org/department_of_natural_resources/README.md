@@ -96,7 +96,8 @@
 ## [SB 6011](/bill/2023-24/sb/6011/) - Tribal interlocal agreements 👍1  
 * 👍 Jayanna Marshall
 
-## [SB 6039](/bill/2023-24/sb/6039/) - Geothermal energy resources 👍1  
+## [SB 6039](/bill/2023-24/sb/6039/) - Geothermal energy resources 👍2  
+* 👍 Casey Hanell
 * 👍 Casey Hanell
 
 ## [SB 6043](/bill/2023-24/sb/6043/) - Recreational use fees 👍1  

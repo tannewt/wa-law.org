@@ -19,16 +19,31 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32006&aId=159671&caId=24269&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32006&aId=159671&caId=24269&tId=4)
 
-#### 4 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * 💵Michael White - [King County](/org/king_county/)
 * 💵Kelsey Hulse - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
 * 💵Brad Forbes - Alzheimer's Association
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Michael Moran - Confederated Tribes of the Colville Reservation 2. Chehalis Tribe 3. Making A Difference Foundation
+* 💵Claire Lane - Anti-Hunger & Nutrition Coalition
+* Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Trish Rolfe - Center for Law and Policy
+* Kiara Daniels - NW community land trust coalition
+* Patience Malaba - Housing Development Consortium
+* Cliff Cawthon - Habitat for Humanity SKC
+* Lauren McGowan - LISC Puget Sound
+* Darryl Smith - [Homesight](/org/homesight/)
+* Sara Robbins - Director, Washington State Office of Civil Legal Aid
+* Gregory Davis - Rainier Beach Action Coalition
+* Marguerite Ro
+* Donald King - Nehemiah Initiative
 
-#### 0 👎 - Con
+#### 215 👎 - Con
+Testifying:
+* Jeannette Mcchesney
 
-#### 28 ❓ - Other
+#### 50 ❓ - Other
 Testifying:
 * Laurie Lippold - Partners for Our Children
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
@@ -55,9 +70,31 @@ Testifying:
 * Stacy Christ - [Full Life Care](/org/full_life_care/)
 * Pauli Owen - [The Imagine Institute](/org/the_imagine_institute/)
 * Cynthia Green
+* Michael Robinson - Pacific Coast Legacy Emissions Action Network (PacCLEAN)
+* 💵Aaron Dickson - [Community Employment Alliance](/org/community_employment_alliance/)
+* Alex Motteler
+* 💵Lance Morehouse
+* Sydney Krebsbach
+* John Lemus
+* Lynn Kimball - Long-Term Care of Eastern Washington
+* Cristina Ortega - Latino Community Fund
+* 💵Kaitie Dong - WA Budget and Policy Center
+* Vanessa Reyes - WA Immigrant and Solidarity Network
+* 💵Kia Franklin - Stand for Children Washington
+* Brienna Agapov - Renton High School
+* Liz Trautman - Stand for Children/High School Success Coalition
+* Heather Fritz - PNWU School of Occupational Therapy
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Ben Small - Launch NorthWest
 * Tyler Muench - Office of Superintendent of Public Instruction
 * 💵Juliet Schindler - [College Success Foundation](/org/college_success_foundation/)
+* Dr, Ivan Harrell - President, Tacoma Community College
+* Paul Francis
+* 💵Alyssa Odegaard - LeadingAge Washington
+* Erika Larson - Infant and Early Childhood Mental Health Consultant
+* Heidi Suarez - WA Chapter of the American Academy of Pediatrics
+* Lelach Rave - WA Chapter of the American Academy of Pediatrics
+* Sandy Hayes - Washington State School Directors' Association
 
 ### Wed 01/10 04:00 PM - Appropriations (APP): HB 2104 Operating budget, supp.
 #### 13 👍 - Pro

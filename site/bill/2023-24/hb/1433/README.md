@@ -24,9 +24,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32003&aId=159363&caId=24242&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32003&aId=159363&caId=24242&tId=4)
 
-#### 66 👍 - Pro
+#### 95 👍 - Pro
+Testifying:
+* Lisa Parshley - Olympia City Councilmember
 
-#### 4 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Tim Eyman - Initiative Activist
 
 #### 0 ❓ - Other
 

@@ -4,6 +4,10 @@
 
 ## [HB 1716](/bill/2023-24/hb/1716/) - Child care B&O credit 👍1  
 
+## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
+
+## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍1  
+
 ## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities 👍1  
 
 ## [HB 2243](/bill/2023-24/hb/2243/) - Social equity land trust 👍2  

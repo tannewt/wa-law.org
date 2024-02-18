@@ -24,12 +24,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159240&caId=24211&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159240&caId=24211&tId=4)
 
-#### 11 👍 - Pro
+#### 520 👍 - Pro
 
-#### 198 👎 - Con
+#### 609 👎 - Con
 Testifying:
 * 💵Aoibheann Cline - NRA
 * Teo Morca
+* Tim Eyman - Initiative Activist
+* Anthony Mixer - Washington State Young Republicans
 
 #### 0 ❓ - Other
 

@@ -27,6 +27,8 @@
 
 ## [HB 2348](/bill/2023-24/hb/2348/) - County hospital funding 👍1  
 
+## [HB 2368](/bill/2023-24/hb/2368/) - Refugee & immigrant assist. 👍1  
+
 ## [SB 5120](/bill/2023-24/sb/5120/) - Crisis relief centers 👍2  
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
@@ -40,6 +42,8 @@
 ## [SB 5496](/bill/2023-24/sb/5496/) - Covenant homeownership prg. 👍1  
 
 ## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  
+
+## [SB 5955](/bill/2023-24/sb/5955/) - Large port districts 👍1  
 
 ## [SB 6076](/bill/2023-24/sb/6076/) - Criminal justice local tax 👍2  
 

@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Fri 02/16 01:30 PM - Law & Justice (LAW): E2SHB 2311 First responder wellness
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159819&caId=24336&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159819&caId=24336&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159819&caId=24336&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31964&aId=159819&caId=24336&tId=4)
-
-#### 15 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Andy McCurdy - Sumner Police Department
 

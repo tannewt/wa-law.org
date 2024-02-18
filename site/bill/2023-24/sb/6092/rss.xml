@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6092/</link>
 		<description>Updates about SB 6092</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 16 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 17 Feb 2024 11:41:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -151,6 +151,22 @@
 			<pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-16/First reading, referred to Environment &amp; Energy.</guid>
+		</item>
+		<item>
+			<title>👍Barbara Carey - Department of Labor &amp; Industries</title>
+			<description>Barbara Carey signed up to testify Pro.</description>
+			<pubDate>Fri, 16 Feb 2024 01:13:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Barbara/Carey/2024-02-16 01:13:07</guid>
+		</item>
+		<item>
+			<title>👍Jenna Ramsey - Department of Labor &amp; Industries</title>
+			<description>Jenna Ramsey signed up to testify Pro.</description>
+			<pubDate>Sat, 17 Feb 2024 11:41:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jenna/Ramsey/2024-02-17 11:41:49</guid>
 		</item>
 	</channel>
 </rss>

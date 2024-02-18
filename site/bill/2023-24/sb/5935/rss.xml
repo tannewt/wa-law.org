@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5935/</link>
 		<description>Updates about SB 5935</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Feb 2024 05:29:14 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 16 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -188,6 +188,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Kris/Tefft/2024-02-13 05:29:14</guid>
+		</item>
+		<item>
+			<title>LAWS - Executive action taken by committee.</title>
+			<description>LAWS - Executive action taken by committee.</description>
+			<pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-16/LAWS - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

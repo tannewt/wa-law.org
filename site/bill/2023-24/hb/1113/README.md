@@ -26,7 +26,7 @@ Sign up to testify:
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 03/09 01:30 PM - Early Learning & K-12 Education (EDU): SHB 1113 Prof. educator reprimands
 #### 11 👍 - Pro

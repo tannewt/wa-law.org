@@ -18,7 +18,10 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 ### Wed 01/24 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2213 Defects and omissions
 #### 0 👍 - Pro

@@ -24,11 +24,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159442&caId=24216&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159442&caId=24216&tId=4)
 
-#### 11 👍 - Pro
+#### 174 👍 - Pro
 Testifying:
 * Beth Ebel - WA Chapter of the American Academy of Pediatrics
 
-#### 347 👎 - Con
+#### 1269 👎 - Con
 Testifying:
 * 💵Troy Nichols - National Shooting Sports Foundation
 * 💵Aoibheann Cline - NRA
@@ -45,8 +45,10 @@ Testifying:
 * Tim Eyman - Initiative activist
 * 💵Karen Strickland - [Pawn 1](/org/pawn_1/)
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Tim Eyman - Initiative Activist
+* Anthony Mixer - Washington State Young Republicans
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/16 10:30 AM - Civil Rights & Judiciary (CRJ): HB 2118 Firearms dealers
 #### 906 👍 - Pro
