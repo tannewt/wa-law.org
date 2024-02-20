@@ -16,11 +16,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159531&caId=24306&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159531&caId=24306&tId=4)
 
-#### 15 👍 - Pro
+#### 27 👍 - Pro
+Testifying:
+* LaRhonda Osborn - Tacoma-Pierce County Health Department, WSALPHO
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Allison Krutsinger - Dept of Children, Youth, and Families
 
 ### Sat 02/03 09:00 AM - Ways & Means (WM): SSB 6110 Child fatalities
 #### 5 👍 - Pro

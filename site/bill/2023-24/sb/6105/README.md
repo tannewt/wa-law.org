@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/19/2024 [KING5](/org/king5/) - [Dancers, supporters rally for bill adding worker protections for strippers | king5.com](https://www.king5.com/article/news/local/dancers-supporters-rally-bill-adding-worker-protections-strippers/281-75a47423-3aaf-424a-8c58-555266dbc1a6#:~:text=SB%206105%20forward.)
 * 02/14/2024 [The Center Square](/org/the_center_square/) - [Washington bill would strip liquor license ban from adult entertainment venues | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d27ce6de-cb7a-11ee-9577-afd9e9bbd433.html#:~:text=Senate%20Bill%206105)
 * 02/09/2024 [NW News Network](/org/nw_news_network/) - [Passing bills, bills, bills: Highlights from week 5 in the WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2024-02-09/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%206105)
 * 02/09/2024 [KUOW](/org/kuow/) - [KUOW - Passing bills, bills, bills: Highlights from week 5 in the WA Legislature](https://www.kuow.org/stories/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%206105)

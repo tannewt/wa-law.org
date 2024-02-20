@@ -35,10 +35,12 @@
 ## [HB 1889](/bill/2023-24/hb/1889/) - Professionals/immigration 👍2  
 * 👍 Nicholas Villa
 
-## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍1  
+## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍2  
+* 👍 Steve DuPont
 * 👍 Steve DuPont
 
-## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓2
+* ❓ Steve DuPont
 * ❓ Steve DuPont
 
 ## [HB 2221](/bill/2023-24/hb/2221/) - Sign language work group 👍1  
@@ -80,8 +82,9 @@
 * 👍 Steve DuPont
 * 👍 Steve DuPont
 
-## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  ❓1
 * ❓ Steve DuPont
+* 👍 Steve DuPont
 
 ## [SB 5999](/bill/2023-24/sb/5999/) - Financial aid eligibility 👍5  
 

@@ -11,13 +11,10 @@
 
 ## Meetings
 ### Tue 02/20 08:00 AM - Finance (FIN): SB 6215 Tax and revenue laws
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32016&aId=159941&caId=24364&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32016&aId=159941&caId=24364&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32016&aId=159941&caId=24364&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32016&aId=159941&caId=24364&tId=4)
-
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* 💵Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
+* Steve Ewing - Dept. of Revenue
 
 #### 1 👎 - Con
 

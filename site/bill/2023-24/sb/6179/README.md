@@ -8,19 +8,20 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 02/17/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 19 - 23, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-19-23-2024/#:~:text=SB%206179)
+
 ## Meetings
 ### Mon 02/19 01:30 PM - Regulated Substances & Gaming (RSG): ESSB 6179 Liquor biometric age verif.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32011&aId=159849&caId=24350&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32011&aId=159849&caId=24350&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32011&aId=159849&caId=24350&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32011&aId=159849&caId=24350&tId=4)
+#### 1 👍 - Pro
 
-#### 0 👍 - Pro
+#### 42 👎 - Con
+Testifying:
+* Matthew Scherer - [Center for Democracy & Technology](/org/center_for_democracy_&_technology/)
 
-#### 9 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tyler Blackney - Amazon
 
 ### Mon 01/22 10:30 AM - Labor & Commerce (LC): SB 6179 Liquor biometric age verif.
 #### 12 👍 - Pro

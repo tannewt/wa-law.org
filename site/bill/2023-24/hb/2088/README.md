@@ -11,16 +11,11 @@
 
 ## Meetings
 ### Mon 02/19 10:30 AM - Law & Justice (LAW): EHB 2088 Crisis teams/liability
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159316&caId=24213&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159316&caId=24213&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159316&caId=24213&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159316&caId=24213&tId=4)
-
-#### 23 👍 - Pro
+#### 98 👍 - Pro
 Testifying:
 * Shawn O'Neill - Washington State Health Care Authority
 * Charles Wharton - Veterans Legislative Coalition
+* 💵Paula Sardinas - WBBA (WA Build Back Black Alliance)
 
 #### 3 👎 - Con
 

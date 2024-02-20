@@ -5,10 +5,12 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/11/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 6: Floor wraps up and budgets start to emerge - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/11/this-week-in-the-senate-week-6-floor-wraps-up-and-budgets-start-to-emerge/#:~:text=SB%205949)
 * 01/08/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Session Preview: Legislature convenes January 8 for short session - WSPTA](https://www.wastatepta.org/2024-session-preview/#:~:text=SB%205949)
+* [Senate Republicans](/org/senate_republicans/) - [Senate Capital Budget Proposal - Senate Republican Caucus](https://src.wastateleg.org/senate-capital-budget-proposal-2/#:~:text=(PSSB%205949))
 
 ## Meetings
 ### Thu 02/15 04:00 PM - Ways & Means (WM): PSSB 5949: All other. (Remote Testimony Available).

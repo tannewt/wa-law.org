@@ -9,6 +9,7 @@
 ## 📰 Articles
 * 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=SB%205789)
 * 01/08/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Session Preview: Legislature convenes January 8 for short session - WSPTA](https://www.wastatepta.org/2024-session-preview/#:~:text=SB%205789)
+* [Senate Republicans](/org/senate_republicans/) - [Senate Capital Budget Proposal - Senate Republican Caucus](https://src.wastateleg.org/senate-capital-budget-proposal-2/#:~:text=(SB%205789%20–%20Mullet))
 
 ## Meetings
 ### Fri 02/23 08:00 AM - Capital Budget (CB): SB 5789 School projects/sales tax
@@ -18,7 +19,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32015&aId=159934&caId=24359&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32015&aId=159934&caId=24359&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Charlie Brown - Tacoma Public Schools & South Sound Superintendents
 
 #### 0 👎 - Con
 

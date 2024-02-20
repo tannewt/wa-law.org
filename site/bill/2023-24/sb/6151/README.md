@@ -14,16 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159694&caId=24299&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159694&caId=24299&tId=4)
 
-#### 98 👍 - Pro
+#### 204 👍 - Pro
 Testifying:
 * B. F. - Parents of impacted minor
 * K. F. - Parents of impacted minor
 
-#### 414 👎 - Con
+#### 1189 👎 - Con
 Testifying:
 * Gabriel Jacobs
+* Sharon Damoff
+* Julie Barrett - Conservative Ladies of Washington
+* Jeannette Mcchesney
+* Celia Gardner - home use
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Fri 01/19 08:00 AM - Health & Long Term Care (HLTC): SB 6151 Ultrasound
 #### 17 👍 - Pro

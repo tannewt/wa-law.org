@@ -13,13 +13,13 @@
 
 ## [HB 2231](/bill/2023-24/hb/2231/) - Law enforcement funding 👍1  
 
-## [HB 2306](/bill/2023-24/hb/2306/) - Main street tax credits 👍1  
+## [HB 2306](/bill/2023-24/hb/2306/) - Main street tax credits 👍2  
 
 ## [HB 2390](/bill/2023-24/hb/2390/) - Eluding & resisting arrest 👍2  
 
 ## [HB 2442](/bill/2023-24/hb/2442/) - Law enforcement memorial 👍1  
 
-## [HB 2474](/bill/2023-24/hb/2474/) - Transitional housing siting  👎2 
+## [HB 2474](/bill/2023-24/hb/2474/) - Transitional housing siting  👎3 
 
 ## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing  👎1 
 * 👎 Katrina Knutson
@@ -28,7 +28,7 @@
 
 ## [SB 5586](/bill/2023-24/sb/5586/) - Paid leave data 👍2  
 
-## [SB 5722](/bill/2023-24/sb/5722/) - Traffic cameras, photo tolls 👍1  
+## [SB 5722](/bill/2023-24/sb/5722/) - Traffic cameras, photo tolls 👍2  
 * 👍 Kelly Busey
 
 ## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  

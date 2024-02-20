@@ -14,21 +14,36 @@
 
 ## Meetings
 ### Tue 02/20 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): ESHB 2474 Transitional housing siting
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31992&aId=159453&caId=24239&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31992&aId=159453&caId=24239&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31992&aId=159453&caId=24239&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31992&aId=159453&caId=24239&tId=4)
-
-#### 34 👍 - Pro
+#### 170 👍 - Pro
 Testifying:
 * Jon Culver
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Elizabeth Murphy - Plymouth Housing
+* 💵Michael White - [King County](/org/king_county/)
+* Corina Pfeil
+* Jon Grant - Low Income Housing Institute (LIHI)
 
-#### 55 👎 - Con
+#### 1633 👎 - Con
 Testifying:
 * Salim Nice - Mayor, City Mercer Island
+* Sharon Damoff
+* Piyush Jain
+* John Hendrickson
+* Autumn Meadows
+* Kathy Kangas
+* Peter Botting
+* GEOFFREY CHISM
+* Jeannette Mcchesney
+* Simone Barron
+* Sean Beavers - 50th and roosevelt
+* David Baker
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Dale Walker
+* Heidi Dean
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Joe Kunzler
 
 ### Sat 02/03 09:00 AM - Appropriations (APP): HB 2474 Transitional housing siting
 #### 87 👍 - Pro

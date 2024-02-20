@@ -11,17 +11,12 @@
 
 ## Meetings
 ### Tue 02/20 10:30 AM - Labor & Commerce (LC): HB 2246 Vacation leave accrual
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32002&aId=159692&caId=24241&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32002&aId=159692&caId=24241&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32002&aId=159692&caId=24241&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32002&aId=159692&caId=24241&tId=4)
-
-#### 4 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* 💵Seamus Petrie - [Washington Public Employees Association](/org/washington_public_employees_association/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

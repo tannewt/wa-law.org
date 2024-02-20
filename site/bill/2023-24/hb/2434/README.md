@@ -14,10 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31979&aId=159577&caId=24268&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31979&aId=159577&caId=24268&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 
-#### 1 👎 - Con
+#### 143 👎 - Con
+Testifying:
+* Jeannette Mcchesney
+* Patricia Cooper
+* William Cooper
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Dane Czarnecki
+* Clarence Rushing - Backcountry Hunters and Anglers
+* Kelsey Ross

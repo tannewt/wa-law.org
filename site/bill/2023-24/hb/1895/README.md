@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/17/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 7: More budgets revealed, another deadline arrives and Children's Day 2024 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/17/this-week-in-the-senate-week-7-more-budgets-revealed-another-deadline-arrives-and-childrens-day-2024/#:~:text=House%20Bill%201895)
 * 01/29/2024 [House Democrats](/org/house_democrats/) - [House Passes Bill Making WFTC More Efficient and Accessible – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/29/house-passes-bill-making-wftc-more-efficient-and-accessible/#:~:text=House%20Bill%201895)
 
 ## Meetings

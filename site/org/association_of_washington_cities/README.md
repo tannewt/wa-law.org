@@ -223,7 +223,8 @@
 * ❓ Brandy DeLange
 * ❓ Brandy DeLange
 
-## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍1  
+## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍2  
+* 👍 Brandy DeLange
 * 👍 Brandy DeLange
 
 ## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍3  
@@ -289,8 +290,9 @@
 ## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍2  
 * 👍💵 Lindsey Hueer
 
-## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍1  
+## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍2  
 * 👍 Brandy DeLange
+* 👍💵 Candice Bock
 
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍3  
 * 👍💵 Candice Bock
@@ -306,13 +308,16 @@
 
 ## [HB 2127](/bill/2023-24/hb/2127/) - Incentives to return to work 👍2  
 
+## [HB 2134](/bill/2023-24/hb/2134/) - Transportation budget, supp. 👍1  
+* 👍 Brandy DeLange
+
 ## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg.   ❓1
 * ❓💵 Carl Schroeder
 
 ## [HB 2152](/bill/2023-24/hb/2152/) - Criminal insanity terms   ❓1
 * ❓💵 Lindsey Hueer
 
-## [HB 2153](/bill/2023-24/hb/2153/) - Catalytic converter theft 👍2  
+## [HB 2153](/bill/2023-24/hb/2153/) - Catalytic converter theft 👍3  
 
 ## [HB 2158](/bill/2023-24/hb/2158/) - Urban growth area boundaries  👎1 
 
@@ -369,7 +374,8 @@
 ## [HB 2354](/bill/2023-24/hb/2354/) - Tax increment areas 👍1 👎1 
 * 👎💵 Candice Bock
 
-## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras 👍1  
+## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras 👍2  
+* 👍 Brandy DeLange
 * 👍 Brandy DeLange
 
 ## [HB 2390](/bill/2023-24/hb/2390/) - Eluding & resisting arrest 👍2  
@@ -391,7 +397,8 @@
 ## [HB 2470](/bill/2023-24/hb/2470/) - Creating a local sales and use tax to address gender-based violence.   ❓2
 * ❓💵 Lindsey Hueer
 
-## [HB 2474](/bill/2023-24/hb/2474/) - Transitional housing siting  👎2 
+## [HB 2474](/bill/2023-24/hb/2474/) - Transitional housing siting  👎3 
+* 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 
@@ -724,13 +731,16 @@
 ## [SB 6164](/bill/2023-24/sb/6164/) - County emergency management   ❓1
 * ❓💵 Lindsey Hueer
 
-## [SB 6167](/bill/2023-24/sb/6167/) - Local government procurement 👍1  
+## [SB 6167](/bill/2023-24/sb/6167/) - Local government procurement 👍2  
+* 👍 Brandy DeLange
 * 👍 Brandy DeLange
 
 ## [SB 6171](/bill/2023-24/sb/6171/) - Child care/nonstandard hours 👍1  ❓1
 * ❓💵 Lindsey Hueer
 
-## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/tax 👍2  
+## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍1  
+
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/tax 👍3  
 
 ## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management   ❓1
 * ❓💵 Carl Schroeder
@@ -744,7 +754,7 @@
 ## [SB 6202](/bill/2023-24/sb/6202/) - Tourism promotion exemptions 👍1  
 * 👍💵 Candice Bock
 
-## [SB 6222](/bill/2023-24/sb/6222/) - District court judges 👍1  
+## [SB 6222](/bill/2023-24/sb/6222/) - District court judges 👍2  
 
 ## [SB 6230](/bill/2023-24/sb/6230/) - Tax increment areas  👎1 
 * 👎💵 Candice Bock

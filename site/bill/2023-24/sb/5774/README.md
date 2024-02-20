@@ -15,14 +15,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159527&caId=24302&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159527&caId=24302&tId=4)
 
-#### 35 👍 - Pro
+#### 122 👍 - Pro
 Testifying:
 * Alan Lesher - YMCA of the Inland Northwest
 * Wendy Bart - Olympic Peninsula YMCAs
+* Stephanie Smith
+* Colleen Condon - Washington Childcare Center Association
+* Laura Murphey - Washington Childcare Center Association
+* Suzie Hanson - WA Federation of Independent Schools
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Allison Krutsinger - Dept of Children, Youth, and Families
 
 ### Mon 01/29 04:00 PM - Ways & Means (WM): SSB 5774 Fingerprint backgr. checks
 #### 106 👍 - Pro

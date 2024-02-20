@@ -11,6 +11,7 @@
 * [Engrossed Third Substitute](S3.E/)
 
 ## 📰 Articles
+* 02/17/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Additional Supported Bills — Quaker Voice](https://www.quakervoicewa.org/2024-additional-supported-bills/#:~:text=HB%201433)
 * 02/12/2024 [The Center Square](/org/the_center_square/) - [Property tax hike bill dead, but GOP lawmakers warn other tax increases remain | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_e0346100-c9ed-11ee-9a92-4325a289d9d8.html#:~:text=House%20Bill%201433)
 * 02/10/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. Corry relieved property tax increase bill failed, but warns Democrats still have many other bills that will cost you](https://gorgenewscenter.com/2024/02/10/rep-corry-relieved-property-tax-increase-bill-failed-but-warns-democrats-still-have-many-other-bills-that-will-cost-you/#:~:text=HB%201433)
 * 02/02/2021 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Environmental Stewardship — Quaker Voice](https://www.quakervoicewa.org/environmental-stewardship/#:~:text=HB%201433)
@@ -24,15 +25,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32003&aId=159363&caId=24242&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32003&aId=159363&caId=24242&tId=4)
 
-#### 95 👍 - Pro
+#### 247 👍 - Pro
 Testifying:
 * Lisa Parshley - Olympia City Councilmember
+* R. Court Olson - Shift Zero and also People for Climate Action
 
-#### 5 👎 - Con
+#### 473 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
+* Jeannette Mcchesney
+* Tad Sommerville
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Bill Clarke - WA REALTORS
 
 ### Fri 03/24 08:00 AM - Environment, Energy & Technology (ENET): 2SHB 1433 Energy labeling/residential
 #### 153 👍 - Pro

@@ -252,7 +252,7 @@
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍2  
 
-## [SB 5284](/bill/2023-24/sb/5284/) - Campaign finance disclosure 👍4  
+## [SB 5284](/bill/2023-24/sb/5284/) - Campaign finance disclosure 👍5  
 * 👍💵 Cindy Black
 
 ## [SB 5356](/bill/2023-24/sb/5356/) - Procurement/automated system 👍1  

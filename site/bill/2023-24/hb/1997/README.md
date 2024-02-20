@@ -9,15 +9,11 @@
 
 ## Meetings
 ### Mon 02/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SHB 1997 Parks and recreation comm.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31991&aId=159408&caId=24219&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31991&aId=159408&caId=24219&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31991&aId=159408&caId=24219&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31991&aId=159408&caId=24219&tId=4)
+#### 5 👍 - Pro
+Testifying:
+* Owen Rowe - Washington State Parks and Recreation Commission
 
-#### 1 👍 - Pro
-
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

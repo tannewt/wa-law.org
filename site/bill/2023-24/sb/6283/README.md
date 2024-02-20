@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31961&aId=159748&caId=24328&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31961&aId=159748&caId=24328&tId=4)
 
-#### 2 👍 - Pro
+#### 42 👍 - Pro
 Testifying:
 * Larry Leveen - FOREVERGREEN TRAILS
 

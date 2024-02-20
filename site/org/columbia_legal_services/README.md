@@ -139,13 +139,15 @@
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
+## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍1  
+
 ## [HB 2083](/bill/2023-24/hb/2083/) - Payday lending/small loans 👍1  
 
 ## [HB 2097](/bill/2023-24/hb/2097/) - Worker wage recovery 👍2  
 * 👍💵 Andrea Schmitt
 * 👍💵 Andrea Schmitt
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍2  
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍3  
 
 ## [HB 2119](/bill/2023-24/hb/2119/) - Medical debt garnishment 👍1  
 

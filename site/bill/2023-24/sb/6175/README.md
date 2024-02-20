@@ -11,17 +11,19 @@
 
 ## Meetings
 ### Mon 02/19 01:30 PM - Housing (HOUS): E2SSB 6175 Existing structures/tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32024&aId=159519&caId=24301&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32024&aId=159519&caId=24301&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32024&aId=159519&caId=24301&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32024&aId=159519&caId=24301&tId=4)
-
-#### 5 👍 - Pro
+#### 39 👍 - Pro
+Testifying:
+* Marc Angelillo - Urban Housing Ventures
+* Rico Quirindongo - [City of Seattle](/org/city_of_seattle/)
+* 💵Briahna Murray - Urban Housing Ventures
+* Angela Rozmyn - Natural and Built Environments
+* McKenzie Darr - NAIOPWA
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Shaun Beals
 
 ### Thu 02/01 01:30 PM - Ways & Means (WM): SSB 6175 Existing structures/housing
 #### 26 👍 - Pro

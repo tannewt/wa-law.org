@@ -49,6 +49,8 @@
 * 👍 Deputy Mayor Kristina Walker
 * 👍 Deputy Mayor Kristina Walker
 
+## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍1  
+
 ## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍1  
 
 ## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍4  
@@ -84,13 +86,15 @@
 
 ## [HB 1829](/bill/2023-24/hb/1829/) - LeMay special license plate 👍1  
 
-## [HB 1889](/bill/2023-24/hb/1889/) - Professionals/immigration 👍1  
+## [HB 1889](/bill/2023-24/hb/1889/) - Professionals/immigration 👍2  
 
 ## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍1  
 
 ## [HB 1912](/bill/2023-24/hb/1912/) - Economic development info. 👍1  
 
 ## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
+
+## [HB 1989](/bill/2023-24/hb/1989/) - Graffiti abatement 👍1  
 
 ## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍2  
 
@@ -107,7 +111,7 @@
 
 ## [HB 2368](/bill/2023-24/hb/2368/) - Refugee & immigrant assist. 👍1  
 
-## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras 👍1  
+## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras 👍2  
 * 👍💵 Briahna Murray
 
 ## [SB 5052](/bill/2023-24/sb/5052/) - Leasehold tax/arenas, etc.   ❓1
@@ -188,6 +192,9 @@
 ## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍1  
 
 ## [SB 5924](/bill/2023-24/sb/5924/) - Access to personnel records   ❓1
+
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
+* ❓💵 Briahna Murray
 
 ## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  
 * 👍💵 Briahna Murray

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/17/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 19 - 23, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-19-23-2024/#:~:text=HB%202352)
+
 ## Meetings
 ### Wed 02/21 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2352 College athletes
 Sign up to testify:
@@ -16,6 +19,6 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 23 👎 - Con
 
 #### 0 ❓ - Other

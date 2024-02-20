@@ -9,21 +9,19 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/17/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 19 - 23, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-19-23-2024/#:~:text=SB%205780)
 * 02/02/2024 [Crosscut](/org/crosscut/) - [Washington public defenders say the strained system needs funding | Crosscut](https://crosscut.com/politics/2024/02/washington-public-defenders-say-strained-system-needs-funding#:~:text=Senate%20Bill%205780)
 
 ## Meetings
 ### Tue 02/20 10:30 AM - Civil Rights & Judiciary (CRJ): 2SSB 5780 Public defense & prosecution
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32005&aId=159371&caId=24272&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32005&aId=159371&caId=24272&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32005&aId=159371&caId=24272&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32005&aId=159371&caId=24272&tId=4)
-
-#### 14 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Larry Jefferson - Director, Washington State Office of Public Defense
 * Travis Stearns - Washington State Office of Public Defense
+* Kari Reardon - WDA/WACDL
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Commissioner LaDon Linde - Yakima County
 
 #### 0 👎 - Con
 

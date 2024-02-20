@@ -152,6 +152,9 @@
 
 ## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍3  
 
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
+* ❓ Michael Cheever
+
 ## [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation 👍1  
 
 ## [SB 5999](/bill/2023-24/sb/5999/) - Financial aid eligibility 👍1  

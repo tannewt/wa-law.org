@@ -13,22 +13,24 @@
 
 ## Meetings
 ### Tue 02/20 10:30 AM - Agriculture and Natural Resources (AGNR): SSB 5972 Neonicotinoid pesticides
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31978&aId=159489&caId=24267&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31978&aId=159489&caId=24267&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31978&aId=159489&caId=24267&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31978&aId=159489&caId=24267&tId=4)
-
-#### 271 👍 - Pro
+#### 359 👍 - Pro
 Testifying:
 * Adam Maxwell - [Audubon Washington](/org/audubon_washington/)
 * Taylor Cotten - WDFW
 * Rosemary Malfi - The Xerces Society for Invertebrate Conservation
 * David Jennings - Washington Native Bee Society
+* Erin Sullivan - Woodland Park Zoo
 
-#### 4 👎 - Con
+#### 298 👎 - Con
+Testifying:
+* Shellie Reed
+* Jeannette Mcchesney
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Kelly McLain - Washington State Department of Agriculture
+* Justin Gulino
+* 💵Christopher Finarelli - The Household & Commercial Products Association
 
 ### Thu 02/01 01:30 PM - Ways & Means (WM): SSB 5972 Neonicotinoid pesticides
 #### 232 👍 - Pro

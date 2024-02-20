@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/17/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Additional Supported Bills — Quaker Voice](https://www.quakervoicewa.org/2024-additional-supported-bills/#:~:text=HB%201368)
 * 02/15/2024 [Crosscut](/org/crosscut/) - [WA Legislature keeps most of its priority bills alive — so far | Crosscut](https://crosscut.com/politics/2024/02/wa-legislature-keeps-most-its-priority-bills-alive-so-far#:~:text=House%20Bill%201368)
 * 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=SHB%201368)
 * 01/29/2024 [House Democrats](/org/house_democrats/) - [Senn’s Bill to Expand Electric School Buses, Reduce Environmental Injustice Advances to House Floor  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/29/senns-bill-to-expand-electric-school-buses-reduce-environmental-injustice-advances-to-house-floor/#:~:text=House%20Bill%201368,)
@@ -28,13 +29,7 @@
 
 ## Meetings
 ### Mon 02/19 01:30 PM - Early Learning & K-12 Education (EDU): E2SHB 1368 Zero emission school buses
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159732&caId=24226&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159732&caId=24226&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159732&caId=24226&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159732&caId=24226&tId=4)
-
-#### 455 👍 - Pro
+#### 725 👍 - Pro
 Testifying:
 * Maddy Thompson
 * 💵Melissa Gombosky - Evergreen and Vancouver Public Schools
@@ -44,13 +39,17 @@ Testifying:
 * Devon Kellogg - Washington State PTA
 * Mollie Grow - Washington Chapter American Academy of Pediatrics
 * Jim Kowalkowski - Rural Education Center
+* 💵Adrienne Joyce - Washington State Catholic Conference
 
-#### 16 👎 - Con
+#### 206 👎 - Con
 Testifying:
 * Teresa Ekdahl-Johnson
 * Tommy Gallegos - [Washington Association for Pupil Transportation](/org/washington_association_for_pupil_transportation/)
+* Mary Long - Conservative Ladies of Washington
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Bill Clarke - WA PUD Association
 
 ### Thu 01/11 04:00 PM - Appropriations (APP): SHB 1368 Zero emission school buses
 #### 417 👍 - Pro

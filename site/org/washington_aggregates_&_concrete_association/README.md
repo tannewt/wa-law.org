@@ -25,4 +25,6 @@
 
 ## [SB 5979](/bill/2023-24/sb/5979/) - Concerning accrued leave for construction workers. 👍1  
 
+## [SB 6040](/bill/2023-24/sb/6040/) - Public works payments  👎1 
+
 ## [SB 6291](/bill/2023-24/sb/6291/) - State building code council 👍1  

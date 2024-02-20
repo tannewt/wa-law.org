@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/19/2024 [House Democrats](/org/house_democrats/) - [Presupuesto de Transporte de Cámara de Representantes de Washington propone $14.3 billones para transbordadores, seguridad vial, proyectos de carreteras, pasajes para peces y más – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/19/presupuesto-de-transporte-de-camara-de-representantes-de-washington-propone-14-3-billones-para-transbordadores-seguridad-vial-proyectos-de-carreteras-pasajes-para-peces-y-mas/#:~:text=HB%202356)
+* 02/19/2024 [House Democrats](/org/house_democrats/) - [WA House transportation budget proposes $14.3 billion for ferries, traffic safety, highway projects, fish passages and more – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/19/wa-house-transportation-budget-proposes-14-3-billion-for-ferries-traffic-safety-highway-projects-fish-passages-and-more/#:~:text=House%20Bill%202356)
 * 02/12/2024 [House Democrats](/org/house_democrats/) - [Two Fey traffic safety bills advance to the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/12/two-fey-traffic-safety-bills-advance-to-the-senate/#:~:text=House%20Bill%202356)
 
 ## Meetings

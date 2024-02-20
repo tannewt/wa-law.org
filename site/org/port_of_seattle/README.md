@@ -18,12 +18,14 @@
 
 ## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  
 
+## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍1  
+
 ## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍2  
 * 👍 Fred Felleman
 
 ## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍2  
 
-## [HB 1906](/bill/2023-24/hb/1906/) - Vessel length/nonresident 👍1  
+## [HB 1906](/bill/2023-24/hb/1906/) - Vessel length/nonresident 👍2  
 
 ## [HB 1912](/bill/2023-24/hb/1912/) - Economic development info. 👍1  
 
@@ -57,7 +59,7 @@
 * 👍 John Flanagan
 * ❓ John Flanagan
 
-## [HB 2368](/bill/2023-24/hb/2368/) - Refugee & immigrant assist. 👍1  
+## [HB 2368](/bill/2023-24/hb/2368/) - Refugee & immigrant assist. 👍2  
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 
@@ -75,13 +77,13 @@
 
 ## [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra. 👍2  
 
-## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍1  
+## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍2  
 
 ## [SB 5817](/bill/2023-24/sb/5817/) - Economic development info. 👍1  
 
 ## [SB 5894](/bill/2023-24/sb/5894/) - Equal pay/protected classes 👍1  
 
-## [SB 5955](/bill/2023-24/sb/5955/) - Large port districts 👍2 👎1 
+## [SB 5955](/bill/2023-24/sb/5955/) - Large port districts 👍3 👎1 
 * 👎 John Flanagan
 * 👍 Hamdi Mohamed
 * 👍 John Flanagan
@@ -93,11 +95,11 @@
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development 👍1  
 * 👍 John Flanagan
 
-## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍1  
+## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍2  
 
 ## [SB 6056](/bill/2023-24/sb/6056/) - Human trafficking/hotels 👍2  
 
-## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍2  
+## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍3  
 
 ## [SB 6080](/bill/2023-24/sb/6080/) - Tourism marketing funding 👍3  
 
@@ -124,6 +126,8 @@
 ## [SB 6245](/bill/2023-24/sb/6245/) - Refugee & immigrant assist. 👍1  
 
 ## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍1  
+
+## [SB 6303](/bill/2023-24/sb/6303/) - Providing tax incentives to encourage energy storage system and component parts manufacturing in Washington. 👍1  
 
 ## [SB 6304](/bill/2023-24/sb/6304/) - Transp. electrification   ❓1
 * ❓ John Flanagan

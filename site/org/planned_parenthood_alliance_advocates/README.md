@@ -216,7 +216,7 @@
 
 ## [SB 6127](/bill/2023-24/sb/6127/) - HIV prophylaxis 👍1  
 
-## [SB 6151](/bill/2023-24/sb/6151/) - Ultrasound 👍1  
+## [SB 6151](/bill/2023-24/sb/6151/) - Ultrasound 👍2  
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
 

@@ -13,23 +13,19 @@
 
 ## Meetings
 ### Tue 02/20 10:30 AM - Civil Rights & Judiciary (CRJ): ESSB 5828 Water rights commissioners
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32005&aId=159709&caId=24275&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32005&aId=159709&caId=24275&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32005&aId=159709&caId=24275&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32005&aId=159709&caId=24275&tId=4)
-
-#### 5 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Judge David Freeman - Whatcom County Superior Court
 * Shannon Hinchcliffe - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Lola Flores - Department of Ecology
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Mel Tonasket - Confederated Tribes of the Colville Reservation
 * 💵Michael Moran - Confederated Tribes of the Colville Reservation
+* BILL CLARKE - Whatcom Ag Water Board
 
 ### Thu 02/01 01:30 PM - Ways & Means (WM): SSB 5828 Water rights commissioners
 #### 7 👍 - Pro

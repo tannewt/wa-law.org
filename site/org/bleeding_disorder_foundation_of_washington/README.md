@@ -25,7 +25,7 @@
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍2  
 
-## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍3  
+## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍4  
 
 ## [HB 1724](/bill/2023-24/hb/1724/) - Behavioral health workforce 👍1  
 
@@ -63,7 +63,7 @@
 
 ## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍2  
 
-## [HB 2361](/bill/2023-24/hb/2361/) - Standardized health plans 👍1  
+## [HB 2361](/bill/2023-24/hb/2361/) - Standardized health plans 👍2  
 
 ## [HB 2476](/bill/2023-24/hb/2476/) - Creating a covered lives assessment professional services rate account. 👍1  
 
@@ -78,6 +78,8 @@
 ## [SB 5121](/bill/2023-24/sb/5121/) - Health care oversight cmte. 👍2  
 
 ## [SB 5177](/bill/2023-24/sb/5177/) - Organ transport vehicles 👍1  
+
+## [SB 5213](/bill/2023-24/sb/5213/) - Pharmacy benefit managers 👍1  
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍5  
 * 👍💵 Stephanie Simpson
@@ -107,7 +109,7 @@
 
 ## [SB 5821](/bill/2023-24/sb/5821/) - Audio-only telemedicine 👍2  
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍3  
 
 ## [SB 5864](/bill/2023-24/sb/5864/) - Rare disease supports 👍2  
 

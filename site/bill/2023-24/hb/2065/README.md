@@ -19,13 +19,7 @@
 
 ## Meetings
 ### Mon 02/19 10:30 AM - Law & Justice (LAW): E2SHB 2065 Offender score recalc.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159441&caId=24215&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159441&caId=24215&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159441&caId=24215&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159441&caId=24215&tId=4)
-
-#### 1060 👍 - Pro
+#### 1489 👍 - Pro
 Testifying:
 * Judge David Keenan - Washington Supreme Court Minority and Justice Commission
 * Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation
@@ -35,14 +29,16 @@ Testifying:
 * Cassandra Butler - Collective Justice
 * Councilman Jeremy Takala
 
-#### 16 👎 - Con
+#### 113 👎 - Con
 Testifying:
 * Tiffany Attrill
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 
-#### 12 ❓ - Other
+#### 13 ❓ - Other
+Testifying:
+* Dave Pringle - Dept. of Commerce
 
 ### Mon 01/22 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 2065 Offender score recalc.
 #### 1350 👍 - Pro

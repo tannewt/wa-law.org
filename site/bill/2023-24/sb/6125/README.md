@@ -15,9 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31993&aId=159667&caId=24323&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31993&aId=159667&caId=24323&tId=4)
 
-#### 5 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * 💵Stacy Dym - [The Arc of Washington State](/org/the_arc_of_washington_state/)
+* Monica Thomas
+* Cathy Murahashi - The Arc of Washington
+* 💵Diana Stadden - The Arc of WA State
 
 #### 0 👎 - Con
 

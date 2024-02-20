@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5796/</link>
 		<description>Updates about SB 5796</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Feb 2024 10:38:08 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 19 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -222,6 +222,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Natalie/Whitcomb/2024-02-13 10:38:08</guid>
+		</item>
+		<item>
+			<title>HOUS - Executive action taken by committee.</title>
+			<description>HOUS - Executive action taken by committee.</description>
+			<pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-19/HOUS - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

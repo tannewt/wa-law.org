@@ -90,3 +90,5 @@
 ## [SB 6277](/bill/2023-24/sb/6277/) - Transportation partnerships 👍1  
 
 ## [SB 6300](/bill/2023-24/sb/6300/) - College grant/public assist. 👍1  
+
+## [SB 6316](/bill/2023-24/sb/6316/) - SR 520 corridor 👍1  

@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/19/2024 [House Democrats](/org/house_democrats/) - [Presupuesto de Transporte de Cámara de Representantes de Washington propone $14.3 billones para transbordadores, seguridad vial, proyectos de carreteras, pasajes para peces y más – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/19/presupuesto-de-transporte-de-camara-de-representantes-de-washington-propone-14-3-billones-para-transbordadores-seguridad-vial-proyectos-de-carreteras-pasajes-para-peces-y-mas/#:~:text=HB%202384)
+* 02/19/2024 [House Democrats](/org/house_democrats/) - [WA House transportation budget proposes $14.3 billion for ferries, traffic safety, highway projects, fish passages and more – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/19/wa-house-transportation-budget-proposes-14-3-billion-for-ferries-traffic-safety-highway-projects-fish-passages-and-more/#:~:text=House%20Bill%202384)
 * 02/12/2024 [House Democrats](/org/house_democrats/) - [Donaghy traffic safety bill passes the House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/12/donaghy-traffic-safety-bill-passes-the-house-58-39/#:~:text=House%20Bill%202384)
 * 02/06/2024 [MyNorthwest](/org/mynorthwest/) - [Bill on traffic camera use includes 75% discount for some violators - MyNorthwest.com](https://mynorthwest.com/3949501/bill-altering-traffic-safety-camera-use-includes-75-discount-some-violators/#:~:text=House%20Bill%202384)
 
@@ -20,17 +22,34 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159722&caId=24250&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159722&caId=24250&tId=4)
 
-#### 5 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Debbie Driver - Office of Governor Jay Inslee
 * Mark McKechnie - Washington Traffic Safety Commission
+* Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Axel Swanson - Washington State Association of County Engineers
+* Dr. Daniella Clark
+* Janice Zahn - [City of Bellevue](/org/city_of_bellevue/)
+* Rebecca Pezely - Brain Injury Community Alliance
+* Venu Nemani - [City of Seattle](/org/city_of_seattle/)
+* JOEL WARE
+* Scott Yoos - person with TBI
+* Council Member Zack Zappone - Spokane City Council
+* Serry Bauer
+* Kimberly Sandquist
+* Shawn Sandquist
 
-#### 3 👎 - Con
+#### 386 👎 - Con
+Testifying:
+* Jeannette Mcchesney
+* Tim Eyman - Initiative Activist
+* Tad Sommerville
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
 
 ### Thu 01/18 04:00 PM - Transportation (TR): HB 2384 Traffic safety cameras
 #### 16 👍 - Pro

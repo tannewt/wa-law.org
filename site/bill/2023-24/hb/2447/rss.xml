@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2447/</link>
 		<description>Updates about HB 2447</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 06 Feb 2024 21:09:36 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 20 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -277,6 +277,13 @@
 			<pubDate>Tue, 06 Feb 2024 21:09:36 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.fox13seattle.com/news/foster-parents-demand-change-to-law-blamed-for-death-of-an-infant#:~:text=House%20Bill%202447</guid>
+		</item>
+		<item>
+			<title>House Rules &quot;X&quot; file.</title>
+			<description>House Rules &quot;X&quot; file.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/House Rules &quot;X&quot; file.</guid>
 		</item>
 	</channel>
 </rss>

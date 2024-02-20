@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2494/</link>
 		<description>Updates about HB 2494</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 17 Feb 2024 09:27:37 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 19 Feb 2024 11:02:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -266,7 +266,7 @@
 			<guid isPermaLink="false">2024-02-13/Third reading, passed; yeas, 80; nays, 17; absent, 0; excused, 1.</guid>
 		</item>
 		<item>
-			<title>👎John Axtell - Alliance of Educational Associations</title>
+			<title>👎John Axtell - School Alliance</title>
 			<description>John Axtell signed up to testify Con.</description>
 			<pubDate>Wed, 14 Feb 2024 03:40:11 GMT</pubDate>
 			<category>testifier</category>
@@ -350,6 +350,46 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Justin/Mckaughan/2024-02-17 09:27:37</guid>
+		</item>
+		<item>
+			<title>👍James Everett - Meridian School District</title>
+			<description>James Everett signed up to testify Pro. They are signed up to represent Meridian School District.</description>
+			<pubDate>Sun, 18 Feb 2024 01:14:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/James/Everett/2024-02-18 01:14:39</guid>
+		</item>
+		<item>
+			<title>👍Michelle Harris - Washington State PTA</title>
+			<description>Michelle Harris signed up to testify Pro. They are signed up to represent Washington State PTA.</description>
+			<pubDate>Sun, 18 Feb 2024 06:49:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Michelle/Harris/2024-02-18 06:49:45</guid>
+		</item>
+		<item>
+			<title>👎Jeannette Mcchesney - School Alliance</title>
+			<description>Jeannette Mcchesney signed up to testify Con.</description>
+			<pubDate>Sun, 18 Feb 2024 08:12:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jeannette/Mcchesney/2024-02-18 08:12:16</guid>
+		</item>
+		<item>
+			<title>👎Leslie Williams - Conservative Ladies of WA</title>
+			<description>Leslie Williams signed up to testify Con. They are signed up to represent Conservative Ladies of WA.</description>
+			<pubDate>Sun, 18 Feb 2024 10:38:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Leslie/Williams/2024-02-18 10:38:52</guid>
+		</item>
+		<item>
+			<title>👍💵Lacey Stanage - School Alliance</title>
+			<description>Lacey Stanage signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/school_alliance/&quot;&gt;School Alliance&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 19 Feb 2024 11:02:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lacey/Stanage/2024-02-19 11:02:16</guid>
 		</item>
 	</channel>
 </rss>

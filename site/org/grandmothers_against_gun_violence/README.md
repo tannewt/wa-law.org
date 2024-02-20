@@ -10,10 +10,12 @@
 * 👍 Margy Heldring
 * 👍💵 Margaret Heldring
 
-## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍1  
+## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍2  
 * 👍 Jennifer Dolan-Waldman
+* 👍💵 Margaret Heldring
 
-## [HB 2021](/bill/2023-24/hb/2021/) - Firearm disposition 👍1  
+## [HB 2021](/bill/2023-24/hb/2021/) - Firearm disposition 👍2  
+* 👍 Jennifer Dolan-Waldman
 * 👍 Jennifer Dolan-Waldman
 
 ## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍1  

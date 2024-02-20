@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/16/2024 [The Urbanist](/org/the_urbanist/) - [Tacoma’s Grand Rezoning Plan Comes into View - The Urbanist](https://www.theurbanist.org/2024/02/16/tacomas-grand-rezoning-plan-comes-into-view/#:~:text=HB%201337)
 * 02/09/2024 [The Urbanist](/org/the_urbanist/) - [Bellevue Unveils Bold Growth Strategy for 152,000 Additional Homes - The Urbanist](https://www.theurbanist.org/2024/02/09/bellevue-unveils-bold-growth-strategy-for-152000-additional-homes/#:~:text=1337)
 * 07/20/2023 [Sightline Institute](/org/sightline_institute/) - [From Vermont to Oklahoma, Legislatures Challenge Parking Mandates - Sightline Institute](https://www.sightline.org/2023/07/20/from-vermont-to-oklahoma-legislatures-challenge-parking-mandates/#:~:text=HB%201337)
 * 05/30/2023 [South Seattle Emerald](/org/south_seattle_emerald/) - [Advocates Say Housing Levy Is Critical to Keeping Seattle Affordable and Inclusive | South Seattle Emerald](https://southseattleemerald.com/2023/05/30/advocates-say-housing-levy-is-critical-to-keeping-seattle-affordable-and-inclusive/#:~:text=House%20Bill%201337)

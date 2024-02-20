@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/16/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. Steele’s bill to offer additional tax credits to Main Street businesses gains House approval](https://gorgenewscenter.com/2024/02/16/rep-steeles-bill-to-offer-additional-tax-credits-to-main-street-businesses-gains-house-approval/#:~:text=House%20Bill%202306)
 * 01/26/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 29 - Feb. 2, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-29-feb-2-2024/#:~:text=HB%202306)
 
 ## Meetings
@@ -19,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159947&caId=24356&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159947&caId=24356&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
 #### 0 👎 - Con
 

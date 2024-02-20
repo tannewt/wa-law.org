@@ -7,6 +7,9 @@
 ## [HB 2054](/bill/2023-24/hb/2054/) - Concerning bulk purchases and transfers of firearms.  👎1 
 * 👎💵 Marie Neumiller
 
+## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers  👎1 
+* 👎💵 Marie Neumiller
+
 ## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties  👎2 
 
 ## [SB 5232](/bill/2023-24/sb/5232/) - Firearms/purchase & transfer  👎1 

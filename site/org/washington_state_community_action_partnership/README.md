@@ -101,7 +101,10 @@
 
 ## [HB 2083](/bill/2023-24/hb/2083/) - Payday lending/small loans 👍1  
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍2  
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
+* ❓ Jeff DeLuca
+
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍3  
 
 ## [HB 2234](/bill/2023-24/hb/2234/) - Low-income energy assistance  👎1 
 * 👎💵 Linda Garcia
@@ -177,9 +180,12 @@
 
 ## [SB 5943](/bill/2023-24/sb/5943/) - Resource data tool 👍1  
 
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
+* ❓💵 Linda Garcia
+
 ## [SB 6113](/bill/2023-24/sb/6113/) - Community solar 👍1  
 
-## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍1  
+## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍2  
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
 

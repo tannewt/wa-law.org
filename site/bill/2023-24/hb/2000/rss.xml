@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2000/</link>
 		<description>Updates about HB 2000</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 15 Feb 2024 08:38:07 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 20 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -204,6 +204,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Geoffrey/Potter/2024-02-15 08:38:07</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

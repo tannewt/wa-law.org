@@ -12,18 +12,12 @@
 
 ## Meetings
 ### Mon 02/19 10:30 AM - Labor & Commerce (LC): SHB 2467 LTSS trust access
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159585&caId=24208&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159585&caId=24208&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159585&caId=24208&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159585&caId=24208&tId=4)
-
-#### 59 👍 - Pro
+#### 82 👍 - Pro
 Testifying:
 * Cathy MacCaul - AARP Washington State
 * Cathy Knight - WA Association of Area Agencies on Aging (W4A)
 
-#### 0 👎 - Con
+#### 5 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

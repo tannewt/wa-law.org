@@ -20,13 +20,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159497&caId=24298&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159497&caId=24298&tId=4)
 
-#### 5 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* Aaryanna Gariss
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* Marissa Ingalls - Coordinated Care
+* Tawnya Christiansen - Community Health Plan of Washington
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Donna Baker-Miller - MCG Health
+* Joan Miller - WA Council for Behavioral Health
 
 ### Fri 02/02 01:30 PM - Ways & Means (WM): SSB 6228 Substance use treatment
 #### 13 👍 - Pro

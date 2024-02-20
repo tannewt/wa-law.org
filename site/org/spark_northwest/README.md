@@ -19,8 +19,10 @@
 
 ## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects 👍1  
 
-## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  ❓2
 * 👍💵 John Seng
+* ❓💵 John Seng
+* ❓💵 John Seng
 
 ## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍1  
 * 👍💵 John Seng

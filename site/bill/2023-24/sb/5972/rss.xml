@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5972/</link>
 		<description>Updates about SB 5972</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 16 Feb 2024 05:05:16 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 20 Feb 2024 07:43:42 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -308,6 +308,54 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/David/Jennings/2024-02-16 05:05:16</guid>
+		</item>
+		<item>
+			<title>❓Kelly McLain - Washington State Department of Agriculture</title>
+			<description>Kelly McLain signed up to testify Other. They are signed up to represent Washington State Department of Agriculture.</description>
+			<pubDate>Sun, 18 Feb 2024 01:10:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Kelly/McLain/2024-02-18 01:10:38</guid>
+		</item>
+		<item>
+			<title>❓Justin Gulino - Washington State Department of Agriculture</title>
+			<description>Justin Gulino signed up to testify Other.</description>
+			<pubDate>Mon, 19 Feb 2024 04:45:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Justin/Gulino/2024-02-19 04:45:12</guid>
+		</item>
+		<item>
+			<title>👎Shellie Reed - Woodland Park Zoo</title>
+			<description>Shellie Reed signed up to testify Con.</description>
+			<pubDate>Mon, 19 Feb 2024 07:24:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Shellie/Reed/2024-02-19 07:24:37</guid>
+		</item>
+		<item>
+			<title>👎Jeannette Mcchesney - Woodland Park Zoo</title>
+			<description>Jeannette Mcchesney signed up to testify Con.</description>
+			<pubDate>Mon, 19 Feb 2024 09:16:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jeannette/Mcchesney/2024-02-19 09:16:06</guid>
+		</item>
+		<item>
+			<title>❓💵Christopher Finarelli - The Household &amp; Commercial Products Association</title>
+			<description>Christopher Finarelli signed up to testify Other. They are signed up to represent The Household &amp; Commercial Products Association. They are a registered lobbyist.</description>
+			<pubDate>Mon, 19 Feb 2024 10:24:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Christopher/Finarelli/2024-02-19 10:24:40</guid>
+		</item>
+		<item>
+			<title>👍Erin Sullivan - Woodland Park Zoo</title>
+			<description>Erin Sullivan signed up to testify Pro. They are signed up to represent Woodland Park Zoo.</description>
+			<pubDate>Tue, 20 Feb 2024 07:43:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Erin/Sullivan/2024-02-20 07:43:42</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5934/</link>
 		<description>Updates about SB 5934</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 16 Feb 2024 12:15:08 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 20 Feb 2024 04:07:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -93,6 +93,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Julia/Costello/2024-02-16 12:15:08</guid>
+		</item>
+		<item>
+			<title>👍Vicki Carter - Spokane Conservation District</title>
+			<description>Vicki Carter signed up to testify Pro. They are signed up to represent Spokane Conservation District.</description>
+			<pubDate>Mon, 19 Feb 2024 05:44:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Vicki/Carter/2024-02-19 05:44:24</guid>
+		</item>
+		<item>
+			<title>👎💵Krystelle Purkey - Washington State Chapter of Community Association Institute</title>
+			<description>Krystelle Purkey signed up to testify Con. They are signed up to represent Washington State Chapter of Community Association Institute. They are a registered lobbyist.</description>
+			<pubDate>Tue, 20 Feb 2024 04:07:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Krystelle/Purkey/2024-02-20 04:07:32</guid>
 		</item>
 	</channel>
 </rss>

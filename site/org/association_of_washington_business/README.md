@@ -312,6 +312,9 @@
 ## [HB 1839](/bill/2023-24/hb/1839/) - Train length  👎1 
 * 👎 Mike Ennis
 
+## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍2  
+* 👍💵 Emily Shay
+
 ## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍3  
 * 👍💵 Morgan Irwin
 * 👍💵 Morgan Irwin
@@ -322,6 +325,8 @@
 
 ## [HB 1900](/bill/2023-24/hb/1900/) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system.   ❓1
 * ❓💵 Peter Godlewski
+
+## [HB 1906](/bill/2023-24/hb/1906/) - Vessel length/nonresident 👍1  
 
 ## [HB 1915](/bill/2023-24/hb/1915/) - Financial education 👍2  
 
@@ -390,7 +395,7 @@
 ## [HB 2119](/bill/2023-24/hb/2119/) - Medical debt garnishment  👎1 
 * 👎💵 Emily Wittman
 
-## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍1  
+## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍2  
 
 ## [HB 2126](/bill/2023-24/hb/2126/) - Rural area ADUs 👍1  
 
@@ -691,7 +696,7 @@
 
 ## [SB 5765](/bill/2023-24/sb/5765/) - I-5 bridge tolling 👍1  
 
-## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍2  
+## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍3  
 
 ## [SB 5776](/bill/2023-24/sb/5776/) - Insulin emergency supply  👎2 
 * 👎💵 Emily Wittman
@@ -728,6 +733,9 @@
 
 ## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍2  
 
+## [SB 5915](/bill/2023-24/sb/5915/) - Extending an existing hazardous substance tax exemption for certain agricultural crop protection products that are temporarily warehoused but not otherwise used, manufactured, packaged, or sold in the state of Washington. 👍1  
+* 👍💵 Emily Shay
+
 ## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD  👎1 ❓1
 * 👎💵 Peter Godlewski
 
@@ -761,7 +769,7 @@
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development  👎1 
 * 👎💵 Morgan Irwin
 
-## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍1  
+## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍3  
 
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply  👎1 
 
@@ -769,7 +777,8 @@
 
 ## [SB 6055](/bill/2023-24/sb/6055/) - Natural resource indus. dev. 👍1  
 
-## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage   ❓2
+## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage   ❓3
+* ❓💵 Peter Godlewski
 * ❓💵 Peter Godlewski
 * ❓💵 Peter Godlewski
 
@@ -791,7 +800,7 @@
 ## [SB 6114](/bill/2023-24/sb/6114/) - Sustainable aviation fuel  👎1 
 * 👎💵 Morgan Irwin
 
-## [SB 6121](/bill/2023-24/sb/6121/) - Biochar production 👍2  
+## [SB 6121](/bill/2023-24/sb/6121/) - Biochar production 👍3  
 
 ## [SB 6136](/bill/2023-24/sb/6136/) - Rental property B&O tax  👎1 
 
@@ -816,11 +825,18 @@
 
 ## [SB 6212](/bill/2023-24/sb/6212/) - Rent payments/credit reports  👎1 
 
+## [SB 6215](/bill/2023-24/sb/6215/) - Tax and revenue laws 👍1  
+* 👍💵 Emily Shay
+
 ## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍2  
+
+## [SB 6256](/bill/2023-24/sb/6256/) - Solar consumer protections 👍1  
 
 ## [SB 6257](/bill/2023-24/sb/6257/) - Hospital charity/residency 👍1  
 
 ## [SB 6258](/bill/2023-24/sb/6258/) - Standardized health plans  👎1 
+
+## [SB 6277](/bill/2023-24/sb/6277/) - Transportation partnerships 👍1  
 
 ## [SB 6291](/bill/2023-24/sb/6291/) - State building code council 👍1  
 
@@ -830,5 +846,8 @@
 
 ## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍1  
 * 👍💵 Morgan Irwin
+
+## [SB 6303](/bill/2023-24/sb/6303/) - Providing tax incentives to encourage energy storage system and component parts manufacturing in Washington. 👍2  
+* 👍💵 Emily Shay
 
 ## [SJM 8009](/bill/2023-24/sjm/8009/) - Harbor maintenance tax 👍1  

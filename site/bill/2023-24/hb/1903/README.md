@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/19/2024 [House Republicans](/org/house_republicans/) - [Initiatives, bill updates, state budgets, and the week ahead | Washington State House Republicans](http://houserepublicans.wa.gov/current/initiatives-bill-updates-state-budgets-and-the-week-ahead/#:~:text=House%20Bill%201903)
+* 02/17/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 7: More budgets revealed, another deadline arrives and Children's Day 2024 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/17/this-week-in-the-senate-week-7-more-budgets-revealed-another-deadline-arrives-and-childrens-day-2024/#:~:text=HB%201903)
 * 02/12/2024 [KUOW](/org/kuow/) - [KUOW - Washington lawmakers aim for new open carry limitations in certain public settings](https://www.kuow.org/stories/washington-lawmakers-aim-for-new-open-carry-limitations-in-certain-public-settings#:~:text=HB1903)
 * 02/09/2024 [House Democrats](/org/house_democrats/) - [Reporting of lost or stolen firearms passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/09/reporting-of-lost-or-stolen-firearms-passes-house/#:~:text=HB%201903)
 * 01/20/2024 [KING5](/org/king5/) - [WA could expand speed camera use amid rise in deadly crashes | king5.com](https://www.king5.com/article/news/politics/in-session/session-washington-state-expand-speed-camera-rise-deadly-crashes/281-76104cf1-aee1-43e2-a0a3-cfb8b8ba0b6b#:~:text=House%20Bill%201903)
@@ -18,22 +20,30 @@
 
 ## Meetings
 ### Mon 02/19 10:30 AM - Law & Justice (LAW): SHB 1903 Lost or stolen firearms
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159240&caId=24211&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159240&caId=24211&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159240&caId=24211&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159240&caId=24211&tId=4)
+#### 1078 👍 - Pro
+Testifying:
+* April Schentrup
+* Karyn Brownson - King County Public Health
+* Liz Hjelmseth
+* Carol Butterfield - Moms Demand Action
+* Genevieve Wieland - Moms Demand Action
+* 💵Margaret Heldring - [Grandmothers Against Gun Violence](/org/grandmothers_against_gun_violence/)
+* Diane Studley
+* Dr. Gwen Loosmore - Washington State PTA
+* Lisa Settler
 
-#### 520 👍 - Pro
-
-#### 609 👎 - Con
+#### 1193 👎 - Con
 Testifying:
 * 💵Aoibheann Cline - NRA
 * Teo Morca
 * Tim Eyman - Initiative Activist
 * Anthony Mixer - Washington State Young Republicans
+* Laurie Layne
+* Jeannette Mcchesney
+* Cheryl Osborne
+* Julie Anderson
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Tue 01/16 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1903 Lost or stolen firearms
 #### 795 👍 - Pro

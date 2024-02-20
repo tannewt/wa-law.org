@@ -19,11 +19,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159658&caId=24257&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159658&caId=24257&tId=4)
 
-#### 15 👍 - Pro
+#### 42 👍 - Pro
 Testifying:
 * 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* 💵Ian Goodhew - UW Med
+* Lauren Keeler - RN (Harborview Respite Program) - SEIU 1199NW
+* Mike White - King County Executive Dow Constantine
+* Lauren Keeler - RN (Harborview Respite Program) - SEIU 1199NW
 
-#### 2 👎 - Con
+#### 94 👎 - Con
 
 #### 0 ❓ - Other
 

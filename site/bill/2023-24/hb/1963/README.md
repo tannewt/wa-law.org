@@ -17,9 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159721&caId=24249&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159721&caId=24249&tId=4)
 
-#### 5 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Iñaki Longa
 
-#### 1 👎 - Con
+#### 18 👎 - Con
 
 #### 0 ❓ - Other
 

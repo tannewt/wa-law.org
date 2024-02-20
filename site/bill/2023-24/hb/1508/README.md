@@ -23,9 +23,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159948&caId=24357&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159948&caId=24357&tId=4)
 
-#### 1 👍 - Pro
+#### 78 👍 - Pro
+Testifying:
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 
-#### 1 👎 - Con
+#### 6 👎 - Con
 
 #### 0 ❓ - Other
 

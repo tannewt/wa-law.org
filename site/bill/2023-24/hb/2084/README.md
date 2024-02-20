@@ -13,22 +13,20 @@
 
 ## Meetings
 ### Mon 02/19 10:30 AM - Human Services (HS): 2SHB 2084 Construction training/DOC
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159396&caId=24198&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159396&caId=24198&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159396&caId=24198&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159396&caId=24198&tId=4)
-
-#### 25 👍 - Pro
+#### 73 👍 - Pro
 Testifying:
 * Hilary Young - WA Statewide Reentry Council and Pioneer Human Services
 * 💵Erin Frasier - Washington State Building & Construction Trades Council
 * Minna Long - Washington State Building & Construction Trades Council
 * 💵Ray Dumas - Cement Masons & Plasterers Local 528
+* Will Durden - State Board for Community and Technical Colleges
+* Armando Sanchez - Local 86 Ironworkers
 
-#### 4 👎 - Con
+#### 5 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Jim Chambers
 
 ### Mon 01/22 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 2084 Construction training/DOC
 #### 123 👍 - Pro

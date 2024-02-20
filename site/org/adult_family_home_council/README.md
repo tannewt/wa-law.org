@@ -31,8 +31,9 @@
 * 👍💵 John Ficker
 * 👍💵 Amina Abdalla
 
-## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓2
 * ❓💵 John Ficker
+* ❓💵 Amina Abdalla
 
 ## [HB 2339](/bill/2023-24/hb/2339/) - Cert. renewal/nursing assist 👍3  
 * 👍 Amina Abdall
@@ -61,3 +62,6 @@
 ## [SB 5278](/bill/2023-24/sb/5278/) - Home care aide certification 👍6  
 * 👍💵 John Ficker
 * 👍💵 Amina Abdalla
+
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
+* ❓💵 John Ficker

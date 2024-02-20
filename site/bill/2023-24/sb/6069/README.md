@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/17/2024 [The Seattle Times](/org/the_seattle_times/) - [Some bills survive, others don’t after WA Legislature chamber deadline | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/some-bills-survive-others-dont-after-wa-legislature-chamber-deadline/#:~:text=Senate%20Bill%206069)
 * 01/22/2024 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [Will Washington Saves Close The Retirement Gap? Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/washington-saves-auto-ira-retirement-gap/#:~:text=SB%206069)
 
 ## Meetings
@@ -19,11 +20,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159949&caId=24367&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159949&caId=24367&tId=4)
 
-#### 0 👍 - Pro
+#### 25 👍 - Pro
+Testifying:
+* Kirsten Curry - Leading Retirement Solutions
+* Jill Nelson
+* Karim Lessard
 
-#### 1 👎 - Con
+#### 9 👎 - Con
+Testifying:
+* Chris Bandoli - National Association of Insurance and Financial Advisors Washington
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* 💵Patrick Connor - NFIB
+* Kris Tefft - American Council of Life Insurers (ACLI)
 
 ### Tue 01/23 04:00 PM - Ways & Means (WM): SB 6069 Retirement savings
 #### 55 👍 - Pro

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6115/</link>
 		<description>Updates about SB 6115</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 16 Feb 2024 09:00:57 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 20 Feb 2024 08:28:44 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -107,7 +107,7 @@
 			<guid isPermaLink="false">2024-02-14/First reading, referred to Transportation.</guid>
 		</item>
 		<item>
-			<title>👎Laurie Layne - Washington State Patrol</title>
+			<title>👎Laurie Layne - WSDOT</title>
 			<description>Laurie Layne signed up to testify Con.</description>
 			<pubDate>Wed, 14 Feb 2024 07:44:04 GMT</pubDate>
 			<category>testifier</category>
@@ -129,6 +129,38 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Deion/Glover/2024-02-16 09:00:57</guid>
+		</item>
+		<item>
+			<title>👍Travis Snell - Washington State Department of Transportation</title>
+			<description>Travis Snell signed up to testify Pro. They are signed up to represent Washington State Department of Transportation.</description>
+			<pubDate>Mon, 19 Feb 2024 11:06:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Travis/Snell/2024-02-19 11:06:55</guid>
+		</item>
+		<item>
+			<title>👍Deion Glover - Washington State Patrol</title>
+			<description>Deion Glover signed up to testify Pro. They are signed up to represent Washington State Patrol.</description>
+			<pubDate>Mon, 19 Feb 2024 11:18:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Deion/Glover/2024-02-19 11:18:48</guid>
+		</item>
+		<item>
+			<title>👍Travis Snell - WSDOT</title>
+			<description>Travis Snell signed up to testify Pro. They are signed up to represent WSDOT.</description>
+			<pubDate>Mon, 19 Feb 2024 11:18:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Travis/Snell/2024-02-19 11:18:48</guid>
+		</item>
+		<item>
+			<title>👎Jeannette Mcchesney - WSDOT</title>
+			<description>Jeannette Mcchesney signed up to testify Con.</description>
+			<pubDate>Tue, 20 Feb 2024 08:28:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jeannette/Mcchesney/2024-02-20 08:28:44</guid>
 		</item>
 	</channel>
 </rss>

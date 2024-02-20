@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5804/</link>
 		<description>Updates about SB 5804</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 15 Feb 2024 18:00:37 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 19 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -240,6 +240,13 @@
 			<pubDate>Thu, 15 Feb 2024 18:00:37 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.king5.com/article/news/local/students-bill-to-place-narcan-every-washington-school/281-41583cb7-2fc0-4fa0-9a23-d9e3d6cb9c1d#:~:text=Senate%20Bill%205804</guid>
+		</item>
+		<item>
+			<title>ED - Executive action taken by committee.</title>
+			<description>ED - Executive action taken by committee.</description>
+			<pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-19/ED - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

@@ -12,7 +12,7 @@
 
 ## [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍4  
 
-## [HB 1113](/bill/2023-24/hb/1113/) - Prof. educator reprimands 👍1  
+## [HB 1113](/bill/2023-24/hb/1113/) - Prof. educator reprimands 👍2  
 
 ## [HB 1146](/bill/2023-24/hb/1146/) - Dual credit program notice 👍1  
 
@@ -20,7 +20,7 @@
 
 ## [HB 1207](/bill/2023-24/hb/1207/) - Harassment/schools 👍2  
 
-## [HB 1228](/bill/2023-24/hb/1228/) - Dual & tribal language edu. 👍1  
+## [HB 1228](/bill/2023-24/hb/1228/) - Dual & tribal language edu. 👍2  
 
 ## [HB 1230](/bill/2023-24/hb/1230/) - School websites/drug info. 👍2  
 
@@ -101,6 +101,8 @@
 ## [HB 2180](/bill/2023-24/hb/2180/) - Special education cap 👍1  
 
 ## [HB 2239](/bill/2023-24/hb/2239/) - Social-emotional instruction 👍1  
+
+## [HB 2256](/bill/2023-24/hb/2256/) - Children behavioral health 👍1  
 
 ## [HB 2267](/bill/2023-24/hb/2267/) - Commencement/cultural exp. 👍1  
 
@@ -210,7 +212,8 @@
 ## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍1  
 * 👍💵 Roz Thompson
 
-## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  ❓1
+* ❓💵 Roz Thompson
 
 ## [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation   ❓1
 

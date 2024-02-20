@@ -14,18 +14,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159494&caId=24295&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159494&caId=24295&tId=4)
 
-#### 4 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * Cathy Knight - WA Association for Area Agencies on Aging (W4A)
+* Ruth Bystrytskyy - Family caregiver
+* Gwen Goodfellow - Caregiver
+* Nikki Lee - Caregiver
+* Bea Rector - Dept. of Social and Health Services
 
-#### 2 👎 - Con
+#### 36 👎 - Con
+Testifying:
+* Kenda Edwards
+* Sibongile Chadyiwa
 
-#### 8 ❓ - Other
+#### 26 ❓ - Other
 Testifying:
 * Michelle O'Dell
 * Katie Scheid
 * De Anna Winterrose - Benton Franklin Parent Coalition
 * Cathy Murahashi - The Arc of Washington
+* Lindsey Topping-Schuetz
 
 ### Mon 01/29 04:00 PM - Ways & Means (WM): SB 5811 Individual providers/family
 #### 62 👍 - Pro

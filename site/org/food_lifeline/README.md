@@ -83,13 +83,19 @@
 
 ## [HB 1889](/bill/2023-24/hb/1889/) - Professionals/immigration 👍1  
 
+## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
+
 ## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍1  
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 * 👍💵 Aaron Czyzewski
 
-## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  
+## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍1  
 * 👍💵 Aaron Czyzewski
+
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  ❓1
+* 👍💵 Aaron Czyzewski
+* ❓💵 Aaron Czyzewski
 
 ## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍1  
 
@@ -138,7 +144,8 @@
 
 ## [SB 5572](/bill/2023-24/sb/5572/) - Traffic safety 👍1  
 
-## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍2  
+* 👍💵 Aaron Czyzewski
 * 👍💵 Aaron Czyzewski
 
 ## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍4  

@@ -37,7 +37,7 @@
 
 ## [HB 1477](/bill/2023-24/hb/1477/) - Working families' tax credit 👍4  
 
-## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍4  
+## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍5  
 * 👍 Sam Hatzenbeler
 * 👍 Sam Hatzenbeler
 
@@ -138,6 +138,8 @@
 ## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍2  
 
 ## [SB 5999](/bill/2023-24/sb/5999/) - Financial aid eligibility 👍1  
+
+## [SB 6069](/bill/2023-24/sb/6069/) - Retirement savings 👍1  
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍1  
 

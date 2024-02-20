@@ -15,13 +15,7 @@
 
 ## Meetings
 ### Mon 02/19 10:30 AM - Labor & Commerce (LC): SHB 1889 Professionals/immigration
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159584&caId=24207&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159584&caId=24207&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159584&caId=24207&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159584&caId=24207&tId=4)
-
-#### 445 👍 - Pro
+#### 645 👍 - Pro
 Testifying:
 * 💵Alex Hur - OneAmerica
 * Minyoung Sung - Communities for our Colleges
@@ -33,12 +27,23 @@ Testifying:
 * Monse Hernandez - Communities for Our Colleges
 * Noel Trujillo-Garcia - Student, LD 30th
 * Juniper Diegel
+* Daniel Gomez - Latino Community Fund of Washington
+* 💵Isela Bonilla - Associated Students of WSU Vancouver
+* 💵Karen Strickland - AFT Washington
+* Deepa Bhandaru - AFT 1789
+* Esperanza Borboa
+* Benjamin Gonzalez - Communities for Our Colleges
+* Jesus Mariscal - C4C
 
-#### 27 👎 - Con
+#### 482 👎 - Con
 Testifying:
 * Greg Glassock - As Pres of Pacific Northwest Assn of Investigators and my company, Olympic Tactical & Investigations
+* Diane Vevea
+* Beth Ensley
+* Jeannette Mcchesney
+* stephanie Porcella
 
-#### 4 ❓ - Other
+#### 8 ❓ - Other
 
 ### Tue 01/09 01:30 PM - Consumer Protection & Business (CPB): HB 1889 Professionals/immigration
 #### 337 👍 - Pro

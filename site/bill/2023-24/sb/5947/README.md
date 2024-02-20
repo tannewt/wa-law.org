@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/17/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 7: More budgets revealed, another deadline arrives and Children's Day 2024 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/17/this-week-in-the-senate-week-7-more-budgets-revealed-another-deadline-arrives-and-childrens-day-2024/#:~:text=Senate%20Bill%205947)
+
 ## Meetings
 ### Wed 02/21 03:00 PM - Transportation (TRAN): SB 5947 Transportation budget, supp.
 Sign up to testify:
@@ -14,14 +17,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31968&aId=159726&caId=24262&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31968&aId=159726&caId=24262&tId=4)
 
-#### 2 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * 💵Justin Leighton - Washington State Transit Association
 * Vicky Clarke - [Washington Bikes](/org/washington_bikes/)
+* Kirk Hovenkotter - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
+* Mayor Mike Rosen - [City of Edmonds](/org/city_of_edmonds/)
 
-#### 1 👎 - Con
+#### 366 👎 - Con
+Testifying:
+* Lisa Rojecki
+* Michael Zeller - Marathon Petroleum
+* Jeannette Mcchesney
+* Craig Blackwood
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Mary Paterson - Rail Can't Wait campaign
+* Breck Lebegue - WA Physicians for Social Responsibility
+* 💵Jane Wall - County Road Administration Board
 
 ### Tue 01/09 04:00 PM - Transportation (TRAN): SB 5947 Transportation budget, supp.
 #### 14 👍 - Pro

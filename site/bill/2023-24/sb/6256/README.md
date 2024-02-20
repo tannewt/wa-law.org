@@ -18,7 +18,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159478&caId=24282&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159478&caId=24282&tId=4)
 
-#### 3 👍 - Pro
+#### 106 👍 - Pro
+Testifying:
+* 💵Josie Cummings - Avista
+* Mendy Droke - Seattle City Light
+* DEVER HAFFNER-RATLIFFE - Cowlitz PUD
+* Jennifer Langdon - Cowlitz Public Utility District
+* Bill Will - [Washington Solar Energy Industries Association](/org/washington_solar_energy_industries_association/)
+* Gavin Tenold - Northwest Renewables
+* Ralph Ibarra - DiverseAmerica Network
 
 #### 0 👎 - Con
 

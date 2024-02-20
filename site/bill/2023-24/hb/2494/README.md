@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Mon 02/19 01:30 PM - Early Learning & K-12 Education (EDU): ESHB 2494 School operating costs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159729&caId=24223&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159729&caId=24223&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159729&caId=24223&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159729&caId=24223&tId=4)
-
-#### 48 👍 - Pro
+#### 169 👍 - Pro
 Testifying:
 * Nikki Lockwood - Washington State School Directors' Association
 * 💵Melissa Gombosky - Spokane, Evergreen, Vancouver and Richland School District
@@ -29,12 +23,17 @@ Testifying:
 * Doug Vanderleest - WA Asssociation of Maintenance and Operation Administrators
 * 💵Mitch Denning - Alliance of Educational Associations
 * Justin Mckaughan
+* James Everett - Meridian School District
+* Michelle Harris - Washington State PTA
+* 💵Lacey Stanage - [School Alliance](/org/school_alliance/)
 
-#### 422 👎 - Con
+#### 1177 👎 - Con
 Testifying:
 * John Axtell
+* Jeannette Mcchesney
+* Leslie Williams - Conservative Ladies of WA
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * LYNETTE BROWER - WA State Skills Center Association
 

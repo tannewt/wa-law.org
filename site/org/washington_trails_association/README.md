@@ -10,7 +10,7 @@
 
 ## [HB 1504](/bill/2023-24/hb/1504/) - Elementary school recess 👍1  
 
-## [HB 1997](/bill/2023-24/hb/1997/) - Parks and recreation comm. 👍1  
+## [HB 1997](/bill/2023-24/hb/1997/) - Parks and recreation comm. 👍2  
 
 ## [HB 2108](/bill/2023-24/hb/2108/) - Smokey Bear license plates 👍1  
 

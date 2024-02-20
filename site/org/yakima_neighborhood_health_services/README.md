@@ -1,5 +1,8 @@
 # Yakima Neighborhood Health Services
 
+## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍1  
+* 👍 Gloria Rodriguez
+
 ## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍2  
 * 👍 Jake Eakin
 * 👍 Rhonda Hauff

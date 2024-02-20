@@ -16,19 +16,30 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159481&caId=24284&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159481&caId=24284&tId=4)
 
-#### 31 👍 - Pro
+#### 81 👍 - Pro
 Testifying:
 * Brendan Donckers - Northwest Consumer Law Center Board Member
 * Malena Pinkham - Northwest Justice Project
 * Ryan Davis - Financial Empowerment Network
 * Denise Rodriguez - Washington Homeownership Resource Center
 * Andrew Pizor - National Consumer Law Center
+* Mary Veneziani
+* Blythe Chandler
 
-#### 0 👎 - Con
+#### 26 👎 - Con
+Testifying:
+* Joshua Gaffney - Hometap Equity Partners, LLC
+* Lee Kaplan - [Unlock Technologies](/org/unlock_technologies/)
+* John Arens - Redwood Trust
 
-#### 1 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Deepak Kumar - Splitero Inc.
+* Drew Bouton - Washington State Department of Financial Institutions
+* Matthew Windsor - [Point Digital Finance, Inc.](/org/point_digital_finance,_inc./)
+* Laszlo Ladi - Unison
+* Ryan Downs - Unison
+* Thomas Sponholtz - Unison
 
 ### Thu 01/11 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5968 Home equity sharing
 #### 12 👍 - Pro

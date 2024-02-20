@@ -19,6 +19,7 @@
 * 03/06/2023 [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=SHB%201044)
 * 02/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=HB%201044)
 * 01/23/2023 [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB%201044)
+* [Senate Republicans](/org/senate_republicans/) - [Senate Capital Budget Proposal - Senate Republican Caucus](https://src.wastateleg.org/senate-capital-budget-proposal-2/#:~:text=HB%201044%20(McEntire))
 
 ## Meetings
 ### Thu 02/15 01:30 PM - Early Learning & K-12 Education (EDU): SHB 1044 Capital assistance/schools

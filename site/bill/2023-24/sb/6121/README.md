@@ -9,15 +9,15 @@
 
 ## Meetings
 ### Mon 02/19 01:30 PM - Environment & Energy (ENVI): SSB 6121 Ag. and forestry biomass
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31989&aId=159476&caId=24291&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31989&aId=159476&caId=24291&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31989&aId=159476&caId=24291&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31989&aId=159476&caId=24291&tId=4)
+#### 141 👍 - Pro
+Testifying:
+* Howard Sharfstein - Kulshan Carbon Trust
+* Jake Dailey - U.S. Rake Force
+* Korina Stark
 
-#### 55 👍 - Pro
-
-#### 3 👎 - Con
+#### 366 👎 - Con
+Testifying:
+* Jeannette Mcchesney
 
 #### 0 ❓ - Other
 

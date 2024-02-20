@@ -9,6 +9,11 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/19/2024 [House Republicans](/org/house_republicans/) - [Initiatives, bill updates, state budgets, and the week ahead | Washington State House Republicans](http://houserepublicans.wa.gov/current/initiatives-bill-updates-state-budgets-and-the-week-ahead/#:~:text=House%20Bill%201589)
+* 02/18/2024 [KIRO7](/org/kiro7/) - [Legislature could be closer to ending PSE’s natural gas obligations – KIRO 7 News Seattle](https://www.kiro7.com/news/local/legislature-could-be-closer-ending-pses-natural-gas-obligations/KGSA5UVZUJCHHPNQRFMEPYPVFY/#:~:text=House%20Bill%201589)
+* 02/17/2024 [MyNorthwest](/org/mynorthwest/) - [Bill to end PSE obligation to provide natural gas closer to passing - MyNorthwest.com](https://mynorthwest.com/3950853/end-pse-obligation-provide-natural-gas-service-closer-passing-legislature/#:~:text=House%20Bill%201589)
+* 02/17/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Additional Supported Bills — Quaker Voice](https://www.quakervoicewa.org/2024-additional-supported-bills/#:~:text=HB%201589)
+* 02/16/2024 [The Center Square](/org/the_center_square/) - [Washington Senate committee advances natural gas bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b42895c6-cd09-11ee-af03-6700e9d287ec.html#:~:text=House%20Bill%201589)
 * 02/15/2024 [Crosscut](/org/crosscut/) - [WA Legislature keeps most of its priority bills alive — so far | Crosscut](https://crosscut.com/politics/2024/02/wa-legislature-keeps-most-its-priority-bills-alive-so-far#:~:text=House%20Bill%201589)
 * 02/07/2024 [The Center Square](/org/the_center_square/) - ['I'm really concerned about ratepayers': GOP questions bill to ban natural gas | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a22184ae-c5ee-11ee-924f-ebf494755ac8.html#:~:text=House%20Bill%201589)
 * 02/01/2024 [MyNorthwest](/org/mynorthwest/) - [PSE customers may soon not be guaranteed natural gas service - MyNorthwest.com](https://mynorthwest.com/3948900/puget-sound-energy-customers-could-feel-major-impact-from-revised-natural-gas-bill/#:~:text=House%20Bill%201589)

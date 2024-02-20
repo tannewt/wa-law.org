@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/16/2024 [FOX13](/org/fox13/) - [Washington gun laws in 2024: Legislators still weighing several bills](https://www.fox13seattle.com/news/the-status-of-gun-bills-in-washington-legislature-in-2024#:~:text=SB%205444)
 * 02/16/2024 [The Seattle Times](/org/the_seattle_times/) - [Washington lawmakers consider more modest set of gun restrictions | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/washington-lawmakers-consider-more-modest-set-of-gun-restrictions/#:~:text=Senate%20Bill%205444)
 * 02/13/2024 [MyNorthwest](/org/mynorthwest/) - [Wash. Senate passes bill expanding prohibited weapon zones - MyNorthwest.com](https://mynorthwest.com/3950498/washington-senate-passes-bill-expanding-prohibited-weapon-zones/#:~:text=Senate%20Bill%205444%20(SB%205444))
 * 02/12/2024 [KUOW](/org/kuow/) - [KUOW - Washington lawmakers aim for new open carry limitations in certain public settings](https://www.kuow.org/stories/washington-lawmakers-aim-for-new-open-carry-limitations-in-certain-public-settings#:~:text=Senate%20Bill%205444)

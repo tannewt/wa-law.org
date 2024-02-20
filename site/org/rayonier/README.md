@@ -8,7 +8,7 @@
 
 ## [HB 2045](/bill/2023-24/hb/2045/) - Adopt a fish barrier program 👍1  
 
-## [HB 2207](/bill/2023-24/hb/2207/) - Solid waste dumping 👍1  
+## [HB 2207](/bill/2023-24/hb/2207/) - Solid waste dumping 👍2  
 * 👍💵 Holli Johnson
 
 ## [SB 5322](/bill/2023-24/sb/5322/) - Public building materials  👎1 

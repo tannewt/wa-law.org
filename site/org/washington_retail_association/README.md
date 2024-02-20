@@ -366,8 +366,9 @@
 * 👍💵 Mark Johnson
 * 👍💵 Mark Johnson
 
-## [SB 5838](/bill/2023-24/sb/5838/) - AI task force   ❓2
+## [SB 5838](/bill/2023-24/sb/5838/) - AI task force   ❓3
 * ❓ CRYSTAL LEATHERMAN
+* ❓💵 Crystal Leatherman
 * ❓💵 Crystal Leatherman
 
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍4  
@@ -436,7 +437,8 @@
 
 ## [SB 6294](/bill/2023-24/sb/6294/) - Fur products   ❓1
 
-## [SB 6296](/bill/2023-24/sb/6296/) - Establishing a retail industry work group. 👍1  
+## [SB 6296](/bill/2023-24/sb/6296/) - Establishing a retail industry work group. 👍2  
+* 👍 Rose GUNDERSEN
 * 👍 Rose GUNDERSEN
 
 ## [SB 6301](/bill/2023-24/sb/6301/) - Basic law enf. academy 👍1  

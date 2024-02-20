@@ -6,3 +6,5 @@
 
 ## [SB 6243](/bill/2023-24/sb/6243/) - Technology manuf./B&O tax 👍1  
 * 👍💵 Adam Day
+
+## [SB 6303](/bill/2023-24/sb/6303/) - Providing tax incentives to encourage energy storage system and component parts manufacturing in Washington. 👍1  

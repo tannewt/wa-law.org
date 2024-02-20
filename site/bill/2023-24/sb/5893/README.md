@@ -13,17 +13,11 @@
 
 ## Meetings
 ### Mon 02/19 01:30 PM - Community Safety, Justice, & Reentry (CSJR): 2SSB 5893 Gate money/DOC
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31982&aId=159816&caId=24343&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31982&aId=159816&caId=24343&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31982&aId=159816&caId=24343&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31982&aId=159816&caId=24343&tId=4)
-
-#### 43 👍 - Pro
+#### 55 👍 - Pro
 Testifying:
 * Danielle Armbruster - Washington State Department of Corrections
 
-#### 3 👎 - Con
+#### 6 👎 - Con
 
 #### 0 ❓ - Other
 

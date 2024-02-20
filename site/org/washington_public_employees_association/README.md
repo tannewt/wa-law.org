@@ -84,11 +84,14 @@
 
 ## [HB 2036](/bill/2023-24/hb/2036/) - Adult entertainment 👍1  
 
+## [HB 2084](/bill/2023-24/hb/2084/) - Construction training/DOC 👍1  
+
 ## [HB 2091](/bill/2023-24/hb/2091/) - Fallen firefighter memorial 👍1  
 
 ## [HB 2108](/bill/2023-24/hb/2108/) - Smokey Bear license plates 👍1  
 
-## [HB 2246](/bill/2023-24/hb/2246/) - Vacation leave accrual 👍1  
+## [HB 2246](/bill/2023-24/hb/2246/) - Vacation leave accrual 👍2  
+* 👍💵 Seamus Petrie
 * 👍💵 Seamus Petrie
 
 ## [HB 2283](/bill/2023-24/hb/2283/) - Shared leave/disasters 👍1  

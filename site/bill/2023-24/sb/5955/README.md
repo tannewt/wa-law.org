@@ -16,19 +16,21 @@
 
 ## Meetings
 ### Tue 02/20 10:30 AM - Local Government (LG): E2SSB 5955 Large port districts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32020&aId=159835&caId=24353&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32020&aId=159835&caId=24353&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32020&aId=159835&caId=24353&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32020&aId=159835&caId=24353&tId=4)
-
-#### 25 👍 - Pro
+#### 79 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 * Kyle Moore - City of SeaTac, Government Relations
 * Traci Buxton - Mayor, City of Des Moines WA
+* JC Harris - Sea-Tac Noise.Info
+* James Payne
+* Heather Morton
+* Steve Edmiston
+* Maria Batayola - Beacon Hill Council Chair
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* David Ortman - n.a.
+* John Worthington
 
 #### 0 ❓ - Other
 

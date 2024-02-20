@@ -16,8 +16,9 @@
 ## [HB 1839](/bill/2023-24/hb/1839/) - Train length  👎1 
 * 👎 Sean Eagan
 
-## [HB 2134](/bill/2023-24/hb/2134/) - Transportation budget, supp.   ❓1
+## [HB 2134](/bill/2023-24/hb/2134/) - Transportation budget, supp. 👍1  ❓1
 * ❓ Sean Eagan
+* 👍 Sean Eagan
 
 ## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget   ❓2
 * ❓ Sean Eagan

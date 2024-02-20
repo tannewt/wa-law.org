@@ -6,20 +6,30 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/17/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 19 - 23, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-19-23-2024/#:~:text=HB%202495)
+
 ## Meetings
 ### Mon 02/19 01:30 PM - Regulated Substances & Gaming (RSG): HB 2495 Liquor/clothing and conduct
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32011&aId=159392&caId=24320&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32011&aId=159392&caId=24320&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32011&aId=159392&caId=24320&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32011&aId=159392&caId=24320&tId=4)
-
-#### 7 👍 - Pro
+#### 225 👍 - Pro
 Testifying:
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Lars Erickson - Seattle Metropolitan Chamber of Commerce
+* LICSW, Bryce Bahler
+* Andrew Keith
+* Richard Peacock - SAW
+* Lexy Bove - Strippers Are Workers
+* Katie Kolan - Greater Seattle Business Association (GSBA)
+* 💵Kevin Schilling - GSBA Policy Council member and Mayor of Burien
+* Jarel Sanders - Equal Rights WA
+* Rian Greer - Rumors Cabaret
+* Rian Greer - Rumors Cabaret
+* Kasey Champion
+* Chad Swaney
+* Kevin Kauer - Massive
+* Steve Seigel
 
-#### 195 👎 - Con
+#### 444 👎 - Con
 Testifying:
 * Jeannette Mcchesney
 

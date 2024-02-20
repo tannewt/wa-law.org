@@ -19,3 +19,5 @@
 ## [SB 5792](/bill/2023-24/sb/5792/) - Concerning the definition of multiunit residential buildings. 👍1  
 
 ## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/tax 👍2  
+
+## [SB 6277](/bill/2023-24/sb/6277/) - Transportation partnerships 👍1  

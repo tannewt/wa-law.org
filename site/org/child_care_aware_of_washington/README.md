@@ -23,7 +23,7 @@
 
 ## [HB 1916](/bill/2023-24/hb/1916/) - Infants and toddlers program 👍2  
 
-## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
+## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍2  
 
 ## [HB 2101](/bill/2023-24/hb/2101/) - Child care licensing fees 👍1  
 * 👍💵 Emily Murphy
@@ -33,11 +33,11 @@
 
 ## [HB 2111](/bill/2023-24/hb/2111/) - Subsidized child care 👍1  
 
-## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍1  
+## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍2  
 
 ## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities 👍1  
 
-## [HB 2256](/bill/2023-24/hb/2256/) - Children behavioral health 👍1  
+## [HB 2256](/bill/2023-24/hb/2256/) - Children behavioral health 👍2  
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  ❓2
 * 👍💵 Emily Murphy
@@ -58,7 +58,7 @@
 
 ## [SB 5485](/bill/2023-24/sb/5485/) - Public employees/child care 👍1  
 
-## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍2  
+## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍3  
 * 👍💵 Emily Murphy
 
 ## [SB 5870](/bill/2023-24/sb/5870/) - Early learning programs 👍1  
@@ -73,4 +73,4 @@
 ## [SB 6018](/bill/2023-24/sb/6018/) - Early learning coordinators 👍1  
 * 👍💵 Emily Murphy
 
-## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍1  
+## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍2  

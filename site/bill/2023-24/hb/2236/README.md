@@ -14,19 +14,16 @@
 
 ## Meetings
 ### Mon 02/19 01:30 PM - Early Learning & K-12 Education (EDU): ESHB 2236 Tech. ed. core plus programs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159728&caId=24222&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159728&caId=24222&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159728&caId=24222&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159728&caId=24222&tId=4)
-
-#### 8 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Dave Gering - [Manufacturing Industrial Council of Seattle](/org/manufacturing_industrial_council_of_seattle/)
 * Becky Wallace - Office of Superintendent of Public Instruction
 * 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
 * LYNETTE BROWER - WA State Skills Center Association
 * Kevin Smith - President, WA-ACTE and CTE Director, Renton School District
+* 💵Gary Chandler - Co-Chair, Workforce Board
+* 💵Larry Brown - Co-Chair, Workforce Board
+* 💵Michele Willms - Associated General Contractors of Washington (AGC)
 
 #### 0 👎 - Con
 

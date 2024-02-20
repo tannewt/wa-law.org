@@ -8,17 +8,11 @@
 
 ## Meetings
 ### Mon 02/19 10:30 AM - Labor & Commerce (LC): HB 2031 PTSD/coroners & examiners
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159586&caId=24209&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159586&caId=24209&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159586&caId=24209&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159586&caId=24209&tId=4)
-
-#### 14 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * DANA TUCKER - CORONER'S OFFICE
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

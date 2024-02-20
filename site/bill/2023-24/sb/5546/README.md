@@ -15,21 +15,20 @@
 
 ## Meetings
 ### Mon 02/19 01:30 PM - Regulated Substances & Gaming (RSG): 2ESSB 5546 Cannabis commission
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32011&aId=159823&caId=24349&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32011&aId=159823&caId=24349&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32011&aId=159823&caId=24349&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32011&aId=159823&caId=24349&tId=4)
-
-#### 11 👍 - Pro
+#### 56 👍 - Pro
 Testifying:
 * Bill Wagenseller - Washington Bud Company
 * Shawn DeNae Wagenseller - Washington Bud Company
 * Steve Walser - Buddy Boy Farms
 * Caitlein Ryan - THE CANNABIS ALLIANCE
 * John Worthington
+* Erik Johansen - The Cannabis Alliance
+* RYAN SEVIGNY
+* 💵Lara Kaminsky - The Cannabis Alliance
+* Scott Berka
+* Sean O’Leary - Producer, processor and medical patient
 
-#### 8 👎 - Con
+#### 69 👎 - Con
 Testifying:
 * Bethany Rondeaux
 * 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
@@ -38,8 +37,11 @@ Testifying:
 * 💵Brooke Davies - Washington CannaBusiness Association
 * Jordan Zager
 * Andrew Darnell - Dewey Scientific.
+* 💵Ezra Eickmeyer - Producers NW
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Kelly McLain - Washington State Department of Agriculture
 
 ### Tue 03/21 04:00 PM - Regulated Substances & Gaming (RSG): ESSB 5546 Cannabis commission
 #### 44 👍 - Pro

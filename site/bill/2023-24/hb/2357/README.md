@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/19/2024 [House Democrats](/org/house_democrats/) - [Presupuesto de Transporte de Cámara de Representantes de Washington propone $14.3 billones para transbordadores, seguridad vial, proyectos de carreteras, pasajes para peces y más – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/19/presupuesto-de-transporte-de-camara-de-representantes-de-washington-propone-14-3-billones-para-transbordadores-seguridad-vial-proyectos-de-carreteras-pasajes-para-peces-y-mas/#:~:text=HB%202357)
+* 02/19/2024 [House Democrats](/org/house_democrats/) - [WA House transportation budget proposes $14.3 billion for ferries, traffic safety, highway projects, fish passages and more – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/19/wa-house-transportation-budget-proposes-14-3-billion-for-ferries-traffic-safety-highway-projects-fish-passages-and-more/#:~:text=House%20Bill%202357)
 * 02/12/2024 [House Democrats](/org/house_democrats/) - [Two Fey traffic safety bills advance to the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/12/two-fey-traffic-safety-bills-advance-to-the-senate/#:~:text=House%20Bill%202357)
 * 01/21/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/21/the-house-hot-sheet-for-week-3-of-the-2024-legislative-session/#:~:text=HB%202357)
 * 01/19/2024 [House Democrats](/org/house_democrats/) - [Fey bill aims to retain experienced Washington State Patrol troopers – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/19/fey-bill-aims-to-retain-experienced-washington-state-patrol-troopers/#:~:text=House%20Bill%202357)
@@ -20,9 +22,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159723&caId=24251&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159723&caId=24251&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Jason Linn - Washington State Patrol Lieutenants and Captains Association (WSPLCA)
+* Spike Unruh - Washington State Patrol Troopers Association
 
 #### 0 👎 - Con
 

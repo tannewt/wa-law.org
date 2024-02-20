@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/19/2024 [House Republicans](/org/house_republicans/) - [Initiatives, bill updates, state budgets, and the week ahead | Washington State House Republicans](http://houserepublicans.wa.gov/current/initiatives-bill-updates-state-budgets-and-the-week-ahead/#:~:text=House%20Bill%202030)
 * 01/21/2024 [KIRO7](/org/kiro7/) - [Debate over criminals’ right to vote intensifies in Olympia – KIRO 7 News Seattle](https://www.kiro7.com/news/local/debate-over-criminals-right-vote-intensifies-olympia/VEEEVB72NJDJJBZMVYUM5NLSRQ/#:~:text=House%20Bill%202030%20(HB%202030))
 * 01/20/2024 [The Spokesman-Review](/org/the_spokesman-review/) - [Spin Control: Proposal to let Washington prison inmates vote sparks heated panel discussion | The Spokesman-Review](https://www.spokesman.com/stories/2024/jan/20/spin-control-proposal-to-let-washington-prison-inm/#:~:text=House%20Bill%202030,)
 * 01/20/2024 [MyNorthwest](/org/mynorthwest/) - ['Serial killers voting': Debate on prisoner rights bill gets intense - MyNorthwest.com](https://mynorthwest.com/3947276/serial-killers-voting-argument-prisoner-rights-bill-gets-intense-olympia/#:~:text=House%20Bill%202030%20(HB%202030))

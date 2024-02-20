@@ -20,7 +20,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159789&caId=24300&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159789&caId=24300&tId=4)
 
-#### 72 👍 - Pro
+#### 122 👍 - Pro
+Testifying:
+* Angela Kimball - Inseparable
+* 💵Brad Banks - Behavioral Health Administrative Services Organizations
 
 #### 1 👎 - Con
 

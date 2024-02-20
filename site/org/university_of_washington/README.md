@@ -108,11 +108,13 @@
 ## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍1  
 * 👍 Dr. Katherine Beckett
 
-## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍1  
+## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍2  
 * 👍 Joe Dacca
-
-## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  
 * 👍💵 Morgan Hickel
+
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍2  
+* 👍💵 Morgan Hickel
+* 👍 Joe Dacca
 
 ## [HB 2111](/bill/2023-24/hb/2111/) - Subsidized child care 👍1  
 
@@ -217,7 +219,8 @@
 * 👍💵 Morgan Hickel
 * 👍 Joe Dacca
 
-## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍2  
+* 👍💵 Morgan Hickel
 * 👍💵 Morgan Hickel
 
 ## [SB 5999](/bill/2023-24/sb/5999/) - Financial aid eligibility 👍3  

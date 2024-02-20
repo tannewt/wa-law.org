@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/esjm/8006/</link>
 		<description>Updates about ESJM 8006</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 16 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 19 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -369,6 +369,20 @@
 			<pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-16/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>2024 Additional Supported Bills — Quaker Voice</title>
+			<description>News article &quot;2024 Additional Supported Bills — Quaker Voice&quot; from Quaker Voice On Washington Public Policy.</description>
+			<pubDate>Sat, 17 Feb 2024 01:28:38 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.quakervoicewa.org/2024-additional-supported-bills/#:~:text=SJM%208006</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-19/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

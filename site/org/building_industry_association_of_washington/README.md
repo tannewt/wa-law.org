@@ -169,7 +169,7 @@
 ## [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element 👍1  
 * 👍💵 Bill Stauffacher
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants  👎2 
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants  👎3 
 
 ## [HB 2126](/bill/2023-24/hb/2126/) - Rural area ADUs 👍1  
 * 👍💵 Bill Stauffacher
@@ -346,6 +346,9 @@
 
 ## [SB 6107](/bill/2023-24/sb/6107/) - Construction/sanitary cond.  👎1 
 * 👎💵 Tricia Gullion
+
+## [SB 6120](/bill/2023-24/sb/6120/) - Wildland urban interface 👍1  
+* 👍💵 Jan Himebaugh
 
 ## [SB 6136](/bill/2023-24/sb/6136/) - Rental property B&O tax  👎1 
 

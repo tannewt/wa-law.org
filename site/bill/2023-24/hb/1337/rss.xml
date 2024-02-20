@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1337/</link>
 		<description>Updates about HB 1337</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Feb 2024 15:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 16 Feb 2024 19:00:41 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -530,6 +530,13 @@
 			<pubDate>Fri, 09 Feb 2024 15:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.theurbanist.org/2024/02/09/bellevue-unveils-bold-growth-strategy-for-152000-additional-homes/#:~:text=1337</guid>
+		</item>
+		<item>
+			<title>Tacoma’s Grand Rezoning Plan Comes into View - The Urbanist</title>
+			<description>News article &quot;Tacoma’s Grand Rezoning Plan Comes into View - The Urbanist&quot; from The Urbanist.</description>
+			<pubDate>Fri, 16 Feb 2024 19:00:41 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2024/02/16/tacomas-grand-rezoning-plan-comes-into-view/#:~:text=HB%201337</guid>
 		</item>
 	</channel>
 </rss>

@@ -10,6 +10,8 @@
 * 👍💵 Davor Gjurasic
 * 👍💵 Davor Gjurasic
 
+## [HB 1877](/bill/2023-24/hb/1877/) - Behavioral health/tribes 👍1  
+
 ## [HB 1879](/bill/2023-24/hb/1879/) - Naming the curriculum used to inform students about tribal history, culture, and government after John McCoy (lulilaš). 👍2  
 
 ## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍2  

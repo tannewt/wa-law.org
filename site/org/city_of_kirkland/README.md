@@ -89,6 +89,9 @@
 
 ## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍1  
 
+## [HB 2021](/bill/2023-24/hb/2021/) - Firearm disposition 👍1  
+* 👍 Neal Black
+
 ## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍1  
 
 ## [HB 2044](/bill/2023-24/hb/2044/) - Standardizing limitations on voter-approved property tax levies. 👍2  

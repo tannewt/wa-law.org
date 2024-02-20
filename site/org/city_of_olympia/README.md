@@ -37,7 +37,7 @@
 
 ## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units 👍2  
 
-## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍2  
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍3  
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
 
@@ -45,7 +45,7 @@
 
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍4  
 
-## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍4  
+## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍5  
 * 👍 Dr. Pamela Braff
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍3  
@@ -56,7 +56,7 @@
 
 ## [HB 1519](/bill/2023-24/hb/1519/) - Local project review 👍1  
 
-## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  
+## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍2  
 
 ## [HB 1556](/bill/2023-24/hb/1556/) - Property tax rebates 👍1  
 
@@ -75,7 +75,7 @@
 
 ## [HB 1902](/bill/2023-24/hb/1902/) - Firearms/purchase & transfer 👍1  
 
-## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍1  
+## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍2  
 
 ## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍2  
 
@@ -83,13 +83,15 @@
 
 ## [HB 1998](/bill/2023-24/hb/1998/) - Co-living housing 👍1  
 
-## [HB 2021](/bill/2023-24/hb/2021/) - Firearm disposition 👍1  
+## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍1  
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍2  
+## [HB 2021](/bill/2023-24/hb/2021/) - Firearm disposition 👍2  
+
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍3  
 
 ## [HB 2115](/bill/2023-24/hb/2115/) - Prescription labels/abortion 👍1  
 
-## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍1  
+## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍3  
 
 ## [HB 2158](/bill/2023-24/hb/2158/) - Urban growth area boundaries  👎1 
 
@@ -98,7 +100,7 @@
 
 ## [HB 2219](/bill/2023-24/hb/2219/) - Affordable housing/tax ex. 👍1  
 
-## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍1  
+## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍2  
 
 ## [HB 2250](/bill/2023-24/hb/2250/) - Local elections 👍2  
 * 👍 Lisa Parshley
@@ -183,7 +185,7 @@
 
 ## [SB 5985](/bill/2023-24/sb/5985/) - Firearms background checks 👍2  
 
-## [SB 6013](/bill/2023-24/sb/6013/) - Homeownership dev. tax ex. 👍2  
+## [SB 6013](/bill/2023-24/sb/6013/) - Homeownership dev. tax ex. 👍3  
 
 ## [SB 6064](/bill/2023-24/sb/6064/) - Pet fees, deposits 👍1  
 

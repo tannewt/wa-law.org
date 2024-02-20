@@ -34,6 +34,8 @@
 
 ## [HB 1859](/bill/2023-24/hb/1859/) - Concerning the rights of residents in long-term care facilities. 👍1  
 
+## [HB 1889](/bill/2023-24/hb/1889/) - Professionals/immigration 👍1  
+
 ## [HB 1893](/bill/2023-24/hb/1893/) - Unemp ins/strikes & lockouts 👍2  
 
 ## [HB 1905](/bill/2023-24/hb/1905/) - Equal pay/protected classes 👍1  
@@ -42,11 +44,13 @@
 
 ## [HB 2102](/bill/2023-24/hb/2102/) - PFML benefits/health info. 👍2  
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍2  
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍3  
 
 ## [HB 2188](/bill/2023-24/hb/2188/) - Health subsidy/retirees 👍1  
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
+
+## [HB 2361](/bill/2023-24/hb/2361/) - Standardized health plans 👍1  
 
 ## [HB 2467](/bill/2023-24/hb/2467/) - LTSS trust access 👍1  
 
@@ -99,7 +103,7 @@
 
 ## [SB 6069](/bill/2023-24/sb/6069/) - Retirement savings 👍1  
 
-## [SB 6072](/bill/2023-24/sb/6072/) - LTSS commission recs. 👍2  
+## [SB 6072](/bill/2023-24/sb/6072/) - LTSS commission recs. 👍3  
 
 ## [SB 6249](/bill/2023-24/sb/6249/) - Homeowner property tax ex. 👍1  
 

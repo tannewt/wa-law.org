@@ -25,6 +25,8 @@
 * 👍 Kevi Veldman
 * 👍 Jennifer Marzocca
 
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+
 ## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍1  
 
 ## [HB 2329](/bill/2023-24/hb/2329/) - Insurance market/housing 👍1  

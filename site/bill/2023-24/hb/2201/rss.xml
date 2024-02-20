@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2201/</link>
 		<description>Updates about HB 2201</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Feb 2024 14:09:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 20 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -320,6 +320,13 @@
 			<pubDate>Fri, 09 Feb 2024 14:09:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_4e98470a-c77e-11ee-a706-d3013bc1aa0e.html#:~:text=House%20Bill%202201</guid>
+		</item>
+		<item>
+			<title>House Rules &quot;X&quot; file.</title>
+			<description>House Rules &quot;X&quot; file.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/House Rules &quot;X&quot; file.</guid>
 		</item>
 	</channel>
 </rss>

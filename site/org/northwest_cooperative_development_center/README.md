@@ -5,6 +5,9 @@
 
 ## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍1  
 
+## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental   ❓1
+* ❓ Victoria OBanion
+
 ## [HB 2464](/bill/2023-24/hb/2464/) - Concerning the development of new manufactured/mobile homes and new manufactured/mobile home communities.   ❓1
 * ❓ Victoria OBanion
 

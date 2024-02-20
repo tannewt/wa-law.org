@@ -8,6 +8,8 @@
 
 ## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions  👎1 
 
+## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍1  
+
 ## [HB 2120](/bill/2023-24/hb/2120/) - Clean energy manufacturers 👍1  
 * 👍 Mayor Theresa Richardson
 

@@ -135,13 +135,13 @@
 
 ## [HB 2095](/bill/2023-24/hb/2095/) - Gift certificates/unclaimed 👍1  
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍2  
 
 ## [HB 2119](/bill/2023-24/hb/2119/) - Medical debt garnishment 👍1  
 
 ## [HB 2176](/bill/2023-24/hb/2176/) - Preventive dental care  👎1 
 
-## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍2  
+## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍3  
 
 ## [HB 2244](/bill/2023-24/hb/2244/) - Retirement savings 👍1  
 
@@ -151,6 +151,8 @@
 
 ## [HB 2415](/bill/2023-24/hb/2415/) - Economic assistance/TANF 👍1  
 * 👍💵 Alex Hur
+
+## [HB 2474](/bill/2023-24/hb/2474/) - Transitional housing siting 👍1  
 
 ## [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest 👍3  
 

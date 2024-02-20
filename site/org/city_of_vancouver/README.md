@@ -58,4 +58,6 @@
 ## [SB 6150](/bill/2023-24/sb/6150/) - Comprehensive plan revisions 👍1  
 * 👍 Rebecca Kennedy
 
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/tax 👍1  
+
 ## [SB 6230](/bill/2023-24/sb/6230/) - Tax increment areas  👎1 

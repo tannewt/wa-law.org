@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/17/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 7: More budgets revealed, another deadline arrives and Children's Day 2024 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/17/this-week-in-the-senate-week-7-more-budgets-revealed-another-deadline-arrives-and-childrens-day-2024/#:~:text=House%20Bill%202007)
+* 02/17/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Additional Supported Bills — Quaker Voice](https://www.quakervoicewa.org/2024-additional-supported-bills/#:~:text=HB%202007)
 * 02/13/2024 [House Democrats](/org/house_democrats/) - [House passes Peterson bills to help families with low incomes  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/13/house-passes-peterson-bills-to-help-families-with-low-incomes/#:~:text=2007)
 * 01/28/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/28/the-house-hot-sheet-for-week-4-of-the-2024-legislative-session/#:~:text=HB%202007)
 * 01/15/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/15/the-house-hot-sheet-for-week-2-of-the-2024-legislative-session/#:~:text=HB%202007)
@@ -15,20 +17,17 @@
 
 ## Meetings
 ### Mon 02/19 10:30 AM - Human Services (HS): SHB 2007 Cash assistance time limits
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159677&caId=24201&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159677&caId=24201&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159677&caId=24201&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159677&caId=24201&tId=4)
-
-#### 71 👍 - Pro
+#### 123 👍 - Pro
 Testifying:
 * 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * Kanwar Thind - WA Chapter of the American Academy of Pediatrics
+* Em Stone - WA State Coalition Against Domestic Violence
 
-#### 1 👎 - Con
+#### 6 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Babs Roberts - DSHS - Economic Services Administration - Community Services Division
 
 ### Thu 02/01 10:30 AM - Appropriations (APP): HB 2007 Cash assistance time limits
 #### 82 👍 - Pro

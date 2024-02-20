@@ -39,13 +39,13 @@
 ## [HB 2016](/bill/2023-24/hb/2016/) - Allowing certain minors to contract for housing and utilities.   ❓1
 * ❓💵 Charles Smith
 
-## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍1  
+## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍2  
 
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓2
 * ❓💵 Charles Smith
 * ❓💵 Charles Smith
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍3  
 
 ## [HB 2186](/bill/2023-24/hb/2186/) - Juv. deferred adjudications 👍1  
 
@@ -107,7 +107,7 @@
 
 ## [SB 6063](/bill/2023-24/sb/6063/) - Persistent offenders 👍1  
 
-## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍5  
+## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍8  
 
 ## [SB 6109](/bill/2023-24/sb/6109/) - Children and families  👎1 ❓1
 

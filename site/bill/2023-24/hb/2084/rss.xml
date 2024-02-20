@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2084/</link>
 		<description>Updates about HB 2084</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 16 Feb 2024 10:36:49 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 19 Feb 2024 06:16:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -203,6 +203,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Ray/Dumas/2024-02-16 10:36:49</guid>
+		</item>
+		<item>
+			<title>👍Will Durden - State Board for Community and Technical Colleges</title>
+			<description>Will Durden signed up to testify Pro. They are signed up to represent State Board for Community and Technical Colleges.</description>
+			<pubDate>Sun, 18 Feb 2024 07:01:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Will/Durden/2024-02-18 07:01:27</guid>
+		</item>
+		<item>
+			<title>❓Jim Chambers - Local 86 Ironworkers</title>
+			<description>Jim Chambers signed up to testify Other.</description>
+			<pubDate>Mon, 19 Feb 2024 05:05:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jim/Chambers/2024-02-19 05:05:43</guid>
+		</item>
+		<item>
+			<title>👍Armando Sanchez - Local 86 Ironworkers</title>
+			<description>Armando Sanchez signed up to testify Pro. They are signed up to represent Local 86 Ironworkers.</description>
+			<pubDate>Mon, 19 Feb 2024 06:16:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Armando/Sanchez/2024-02-19 06:16:00</guid>
 		</item>
 	</channel>
 </rss>

@@ -20,7 +20,7 @@
 
 ## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
 
-## [HB 1983](/bill/2023-24/hb/1983/) - Criminal justice trtmnt acct 👍1  
+## [HB 1983](/bill/2023-24/hb/1983/) - Criminal justice trtmnt acct 👍2  
 
 ## [HB 2021](/bill/2023-24/hb/2021/) - Firearm disposition 👍1  
 * 👍 Dan Templeman
@@ -55,6 +55,8 @@
 ## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose/high schools 👍1  
 
 ## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍1  
+
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
 
 ## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/tax 👍2  
 

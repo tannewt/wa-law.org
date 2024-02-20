@@ -15,13 +15,9 @@
 
 ## Meetings
 ### Mon 02/19 10:30 AM - Law & Justice (LAW): 2SHB 1877 Behavioral health/tribes
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159645&caId=24217&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159645&caId=24217&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159645&caId=24217&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159645&caId=24217&tId=4)
-
-#### 14 👍 - Pro
+#### 24 👍 - Pro
+Testifying:
+* 💵Vicki Lowe - [American Indian Health Commission for Washington State](/org/american_indian_health_commission_for_washington_state/)
 
 #### 0 👎 - Con
 

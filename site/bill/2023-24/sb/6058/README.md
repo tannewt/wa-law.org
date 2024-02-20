@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/17/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 19 - 23, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-19-23-2024/#:~:text=SB%206058)
 * 02/13/2024 [FOX13](/org/fox13/) - [New WA bill addressing carbon emissions hopes to link up with California and Quebec](https://www.fox13seattle.com/news/a-new-wa-bill-addressing-carbon-emissions-hoping-to-link-up-with-california-and-quebec-critics-say-not-now#:~:text=Senate%20Bill%206058)
 * 02/13/2024 [The Center Square](/org/the_center_square/) - [Senate passes bill supporting linking WA’s carbon market to CA-Quebec | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_856eebc4-cab9-11ee-9983-57680a4333aa.html#:~:text=Senate%20Bill%206058)
 * 02/13/2024 [Senate Democrats](/org/senate_democrats/) - [Carbon market linkage bill passes Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/12/carbon-market-linkage-bill-passes-senate/#:~:text=Senate%20Bill%206058)
@@ -20,25 +21,27 @@
 
 ## Meetings
 ### Mon 02/19 01:30 PM - Environment & Energy (ENVI): E2SSB 6058 Carbon market linkage
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31989&aId=159330&caId=24288&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31989&aId=159330&caId=24288&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31989&aId=159330&caId=24288&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31989&aId=159330&caId=24288&tId=4)
-
-#### 7 👍 - Pro
+#### 75 👍 - Pro
 Testifying:
 * 💵Isaac Kastama - Clean & Prosperous Washington
 * 💵Tom Wolf - bp America
 * Joel Creswell - Washington State Department of Ecology
+* 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* 💵Nicolas Garcia - WPUDA
 
-#### 137 👎 - Con
+#### 1387 👎 - Con
 Testifying:
 * John Worthington
+* Eric pratt - America
+* Tad Sommerville
 
-#### 1 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * 💵Jessica Spiegel - WSPA
+* 💵Paul Griffin - Washington Rural Electric Cooperative Association
+* 💵John Rothlin - Avista
+* 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 ### Fri 02/02 01:30 PM - Ways & Means (WM): SSB 6058 Carbon market linkage
 #### 18 👍 - Pro

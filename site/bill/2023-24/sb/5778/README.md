@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/17/2024 [The Seattle Times](/org/the_seattle_times/) - [Some bills survive, others don’t after WA Legislature chamber deadline | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/some-bills-survive-others-dont-after-wa-legislature-chamber-deadline/#:~:text=Senate%20Bill%205778)
 * 02/08/2024 [Senate Democrats](/org/senate_democrats/) - [Keiser’s Employee Free Choice Act passes Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/07/keisers-employee-free-choice-act-passes-senate/#:~:text=SB%205778)
 
 ## Meetings

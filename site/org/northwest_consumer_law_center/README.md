@@ -22,7 +22,7 @@
 ## [SB 5173](/bill/2023-24/sb/5173/) - Property exempt from exec. 👍2  
 * 👍 Christina Henry
 
-## [SB 5968](/bill/2023-24/sb/5968/) - Home equity sharing 👍2  
+## [SB 5968](/bill/2023-24/sb/5968/) - Home equity sharing 👍3  
 * 👍💵 Emily Murphy
 
 ## [SB 6025](/bill/2023-24/sb/6025/) - Predatory loans 👍3  

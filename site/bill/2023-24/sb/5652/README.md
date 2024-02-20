@@ -15,7 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31961&aId=159746&caId=24326&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31961&aId=159746&caId=24326&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Randy Houston - Randy’s Towing, Okanogan and Ephrata & Wenatchee
+* 💵Peter Lukevich - Towing Recovery Association of Washington (TRAW)
 
 #### 0 👎 - Con
 

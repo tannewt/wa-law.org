@@ -21,3 +21,6 @@
 
 ## [SB 5943](/bill/2023-24/sb/5943/) - Resource data tool 👍1  
 * 👍💵 Nick Federici
+
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
+* ❓ Brooke Fisher-Clark

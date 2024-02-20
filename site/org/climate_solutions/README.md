@@ -36,7 +36,7 @@
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍2  
 * 👍 Megan Larkin
 
-## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍2  
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍3  
 * 👍💵 Leah Missik
 * 👍💵 Leah Missik
 
@@ -187,7 +187,7 @@
 * 👍💵 Leah Missik
 * 👍💵 Leah Missik
 
-## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍2  
+## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍3  
 * 👍💵 Kelly Hall
 
 ## [SB 6071](/bill/2023-24/sb/6071/) - Oil exporters/human rights 👍1  

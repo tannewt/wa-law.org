@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/16/2024 [The Seattle Times](/org/the_seattle_times/) - [Lawmakers won’t act on WA long-term care ballot initiative | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/lawmakers-wont-act-on-wa-long-term-care-ballot-initiative/#:~:text=Senate%20Bill%206072)
+
 ## Meetings
 ### Tue 02/20 01:30 PM - Health Care & Wellness (HCW): ESB 6072 LTSS commission recs.
 Sign up to testify:
@@ -14,12 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159496&caId=24297&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159496&caId=24297&tId=4)
 
-#### 32 👍 - Pro
+#### 87 👍 - Pro
 Testifying:
 * Cathy MacCaul - AARP Washington State
 * Cathy Knight - WA Association of Area Agencies on Aging (W4A)
 
-#### 0 👎 - Con
+#### 22 👎 - Con
+Testifying:
+* John Mangan - [American Council of Life Insurers](/org/american_council_of_life_insurers/)
 
 #### 1 ❓ - Other
 Testifying:

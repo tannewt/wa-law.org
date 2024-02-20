@@ -8,17 +8,16 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/17/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 19 - 23, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-19-23-2024/#:~:text=SB%205667)
 * 02/12/2024 [Gorge News Center](/org/gorge_news_center/) - [Muzzall bill gives economic boost for habitat preservation](https://gorgenewscenter.com/2024/02/12/muzzall-bill-gives-economic-boost-for-habitat-preservation/#:~:text=Senate%20Bill%205667)
 
 ## Meetings
 ### Tue 02/20 10:30 AM - Agriculture and Natural Resources (AGNR): SSB 5667 Forestry riparian easements
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31978&aId=159449&caId=24266&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31978&aId=159449&caId=24266&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31978&aId=159449&caId=24266&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31978&aId=159449&caId=24266&tId=4)
-
-#### 28 👍 - Pro
+#### 224 👍 - Pro
+Testifying:
+* Ed Westergreen
+* Elaine Oneil - WA Farm Forestry Association
+* Ken Miller - Miller Family Forest
 
 #### 0 👎 - Con
 

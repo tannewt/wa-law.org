@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/17/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 19 - 23, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-19-23-2024/#:~:text=SB%205838)
 * 01/30/2024 [The Seattle Times](/org/the_seattle_times/) - [Inslee signs executive order for WA to study, issue guidelines for AI use | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/inslee-signs-executive-order-for-wa-to-study-issue-guidelines-for-ai-use/#:~:text=Senate%20Bill%205838)
 * 01/07/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: Welcome to the 2024 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/07/this-week-in-the-senate-week-1-welcome-to-the-2024-session/#:~:text=SB%205838)
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [2024 Legislative Priorities | Washington State](https://www.atg.wa.gov/2024-legislative-priorities#:~:text=SB%205838)
@@ -23,20 +24,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159480&caId=24283&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159480&caId=24283&tId=4)
 
-#### 21 👍 - Pro
+#### 99 👍 - Pro
 Testifying:
 * Rosa Mai - Attorney General's Office
 * Veda Nayar
 * Jai Jaisimha - Transparency Coalition.ai
+* 💵Paula Sardinas - FMSGS/WBBA (WA Build Back Black Alliance)
 
-#### 415 👎 - Con
+#### 856 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Laurie Layne
+* Teo Morca
 
-#### 1 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * 💵Kevin Schilling - Washington State Dental Association
+* Robert (Bob) Battles - Association of Washington Business (AWB)
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Kelly Fukai - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
+* Montana Miranda - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
 ### Tue 01/30 04:00 PM - Ways & Means (WM): SSB 5838 AI task force
 #### 111 👍 - Pro

@@ -76,7 +76,8 @@
 
 ## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages 👍2  
 
-## [SB 5838](/bill/2023-24/sb/5838/) - AI task force   ❓2
+## [SB 5838](/bill/2023-24/sb/5838/) - AI task force   ❓3
+* ❓💵 Kelly Fukai
 * ❓💵 Kelly Fukai
 * ❓💵 Kelly Fukai
 
@@ -89,7 +90,7 @@
 
 ## [SB 6012](/bill/2023-24/sb/6012/) - Teacher preparation programs 👍1  
 
-## [SB 6069](/bill/2023-24/sb/6069/) - Retirement savings   ❓1
+## [SB 6069](/bill/2023-24/sb/6069/) - Retirement savings   ❓2
 
 ## [SB 6137](/bill/2023-24/sb/6137/) - Semiconductor tax incentives 👍2  
 

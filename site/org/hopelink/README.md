@@ -61,16 +61,19 @@
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍2  
 
-## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
+## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍2  
 
 ## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍2  
 
-## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍2  
+## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍3  
 * 👍 Juliana Yenne
 
 ## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍1  
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
+
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
+* ❓ Susan Carter
 
 ## [HB 2119](/bill/2023-24/hb/2119/) - Medical debt garnishment 👍1  
 
@@ -78,13 +81,13 @@
 
 ## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍2  
 
-## [HB 2191](/bill/2023-24/hb/2191/) - PTBA governing body members 👍1  
+## [HB 2191](/bill/2023-24/hb/2191/) - PTBA governing body members 👍2  
 
-## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍2  
+## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍3  
 
 ## [HB 2234](/bill/2023-24/hb/2234/) - Low-income energy assistance 👍1  
 
-## [HB 2256](/bill/2023-24/hb/2256/) - Children behavioral health 👍1  
+## [HB 2256](/bill/2023-24/hb/2256/) - Children behavioral health 👍2  
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
@@ -150,6 +153,8 @@
 
 ## [SB 5899](/bill/2023-24/sb/5899/) - Adding to the list of provisions prohibited from rental agreements. 👍1  
 
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
+
 ## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  
 
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development 👍1  
@@ -162,10 +167,14 @@
 
 ## [SB 6136](/bill/2023-24/sb/6136/) - Rental property B&O tax 👍1  
 
+## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍1  
+
 ## [SB 6185](/bill/2023-24/sb/6185/) - PTBA governing body members 👍1  
 
 ## [SB 6191](/bill/2023-24/sb/6191/) - Housing/taxes 👍2 👎1 
 
 ## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍1  
+
+## [SB 6228](/bill/2023-24/sb/6228/) - Substance use treatment 👍1  
 
 ## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍2  

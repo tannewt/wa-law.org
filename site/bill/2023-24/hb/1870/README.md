@@ -9,15 +9,12 @@
 
 ## Meetings
 ### Tue 02/20 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SHB 1870 Local comm. federal funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31985&aId=159804&caId=24338&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31985&aId=159804&caId=24338&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31985&aId=159804&caId=24338&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31985&aId=159804&caId=24338&tId=4)
-
-#### 5 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * Richa Sigdel - City of Pasco, Deputy City Manager
+* 💵Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
+* Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Suzanne Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)
 
 #### 0 👎 - Con
 

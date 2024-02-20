@@ -19,7 +19,7 @@
 
 ## [HB 1274](/bill/2023-24/hb/1274/) - Child malnutrition guide 👍1  
 
-## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍1  
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍2  
 
 ## [HB 1397](/bill/2023-24/hb/1397/) - Dependency  👎1 
 * 👎 Kati Durkin
@@ -46,6 +46,8 @@
 ## [HB 1804](/bill/2023-24/hb/1804/) - PEBB/subdivision retirees 👍1  
 
 ## [HB 1873](/bill/2023-24/hb/1873/) - Concerning office of public defense social service workers for parents in child welfare cases.  👎1 
+
+## [HB 1889](/bill/2023-24/hb/1889/) - Professionals/immigration 👍1  
 
 ## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍3  
 
@@ -74,14 +76,15 @@
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
-## [HB 2084](/bill/2023-24/hb/2084/) - Construction training/DOC 👍2  
+## [HB 2084](/bill/2023-24/hb/2084/) - Construction training/DOC 👍3  
 
 ## [HB 2095](/bill/2023-24/hb/2095/) - Gift certificates/unclaimed 👍1  
 
 ## [HB 2097](/bill/2023-24/hb/2097/) - Worker wage recovery 👍1  
 
-## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  ❓1
 * ❓ Kati Durkin
+* 👍💵 Nicole Gomez
 
 ## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍2  
 * 👍💵 Nicole Gomez
@@ -91,7 +94,8 @@
 
 ## [HB 2133](/bill/2023-24/hb/2133/) - Public school bus trespass 👍1  
 
-## [HB 2134](/bill/2023-24/hb/2134/) - Transportation budget, supp.   ❓1
+## [HB 2134](/bill/2023-24/hb/2134/) - Transportation budget, supp.   ❓2
+* ❓ Kati Durkin
 * ❓ Kati Durkin
 
 ## [HB 2136](/bill/2023-24/hb/2136/) - Prevailing wage sanctions 👍1  
@@ -176,7 +180,7 @@
 
 ## [SB 5873](/bill/2023-24/sb/5873/) - Student transportation 👍1  
 
-## [SB 5891](/bill/2023-24/sb/5891/) - School bus trespass 👍1  
+## [SB 5891](/bill/2023-24/sb/5891/) - School bus trespass 👍2  
 
 ## [SB 5900](/bill/2023-24/sb/5900/) - Concerning construction crane safety. 👍1  
 
@@ -189,8 +193,9 @@
 ## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp.   ❓1
 * ❓ Kati Durkin
 
-## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  ❓1
 * ❓💵 Nicole Gomez
+* 👍 Kati Durkin
 
 ## [SB 5987](/bill/2023-24/sb/5987/) - Gift certificates 👍1  
 

@@ -18,7 +18,8 @@
 
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍3  
 
-## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍1  
+## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍2  
+* 👍 Vanessa Kritzer
 * 👍 Vanessa Kritzer
 
 ## [SB 5104](/bill/2023-24/sb/5104/) - Marine shoreline habitat 👍1  

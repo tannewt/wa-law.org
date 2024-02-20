@@ -130,6 +130,8 @@
 * 👍 Andrew Villeneuve
 * 👍 Andrew Villeneuve
 
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+
 ## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍1  
 
 ## [HB 2205](/bill/2023-24/hb/2205/) - Signature gathering/protests  👎1 

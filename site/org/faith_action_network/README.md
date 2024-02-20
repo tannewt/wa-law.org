@@ -44,7 +44,7 @@
 ## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits  👎1 
 * 👎💵 Kristin Ang
 
-## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍4  
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍6  
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍5  
 
@@ -94,7 +94,7 @@
 
 ## [HB 1902](/bill/2023-24/hb/1902/) - Firearms/purchase & transfer 👍1  
 
-## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍6  
+## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍8  
 
 ## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
 
@@ -108,7 +108,7 @@
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍3  
 
-## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍2  
+## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍4  
 
 ## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects 👍5  
 
@@ -117,15 +117,15 @@
 ## [HB 2095](/bill/2023-24/hb/2095/) - Gift certificates/unclaimed 👍4  
 * 👍💵 Kristin Ang
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍11  
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍14  
 
-## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍5  
+## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍7  
 
 ## [HB 2239](/bill/2023-24/hb/2239/) - Social-emotional instruction 👍6  
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍5  
 
-## [HB 2368](/bill/2023-24/hb/2368/) - Refugee & immigrant assist. 👍7  
+## [HB 2368](/bill/2023-24/hb/2368/) - Refugee & immigrant assist. 👍8  
 
 ## [SB 5078](/bill/2023-24/sb/5078/) - Firearm industry duties 👍2  
 
@@ -168,7 +168,7 @@
 
 ## [SB 5768](/bill/2023-24/sb/5768/) - DOC/abortion medications 👍1  
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍9  
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍10  
 
 ## [SB 5961](/bill/2023-24/sb/5961/) - Residential tenants 👍5  
 
@@ -194,4 +194,4 @@
 
 ## [SB 6216](/bill/2023-24/sb/6216/) - Student mental health net. 👍7  
 
-## [SB 6251](/bill/2023-24/sb/6251/) - Behavioral crisis coord. 👍9  
+## [SB 6251](/bill/2023-24/sb/6251/) - Behavioral crisis coord. 👍11  

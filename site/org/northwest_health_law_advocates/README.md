@@ -20,7 +20,8 @@
 
 ## [HB 1473](/bill/2023-24/hb/1473/) - Wealth/property tax 👍1  
 
-## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍4  
+## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍5  
+* 👍💵 Emily Brice
 * 👍💵 Emily Brice
 * 👍💵 Emily Brice
 * 👍💵 Emily Brice
@@ -50,7 +51,8 @@
 
 ## [HB 2188](/bill/2023-24/hb/2188/) - Health subsidy/retirees 👍1  
 
-## [HB 2361](/bill/2023-24/hb/2361/) - Standardized health plans 👍1  
+## [HB 2361](/bill/2023-24/hb/2361/) - Standardized health plans 👍2  
+* 👍💵 Emily Brice
 * 👍💵 Emily Brice
 
 ## [HB 2378](/bill/2023-24/hb/2378/) - Health care facility fees 👍1  

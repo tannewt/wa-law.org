@@ -40,6 +40,8 @@
 
 ## [HB 1452](/bill/2023-24/hb/1452/) - Medical reserve corps 👍1  
 
+## [HB 1453](/bill/2023-24/hb/1453/) - Medical cannabis/tax  👎1 
+
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍3  
 
 ## [HB 1497](/bill/2023-24/hb/1497/) - Vapor and tobacco/minors 👍2  
@@ -56,7 +58,7 @@
 
 ## [HB 1873](/bill/2023-24/hb/1873/) - Concerning office of public defense social service workers for parents in child welfare cases. 👍1  
 
-## [HB 1877](/bill/2023-24/hb/1877/) - Behavioral health/tribes 👍2  
+## [HB 1877](/bill/2023-24/hb/1877/) - Behavioral health/tribes 👍3  
 
 ## [HB 1902](/bill/2023-24/hb/1902/) - Firearms/purchase & transfer 👍1  
 
@@ -80,7 +82,7 @@
 
 ## [HB 2115](/bill/2023-24/hb/2115/) - Prescription labels/abortion 👍2  
 
-## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍1  
+## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍2  
 
 ## [HB 2157](/bill/2023-24/hb/2157/) - Vaccine definition 👍1  
 

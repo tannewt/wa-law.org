@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Tue 02/20 10:30 AM - Civil Rights & Judiciary (CRJ): ESSB 5788 Service animal training
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32005&aId=159372&caId=24273&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32005&aId=159372&caId=24273&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32005&aId=159372&caId=24273&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32005&aId=159372&caId=24273&tId=4)
-
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Spencer Lang
 

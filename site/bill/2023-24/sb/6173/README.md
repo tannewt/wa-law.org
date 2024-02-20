@@ -13,17 +13,13 @@
 
 ## Meetings
 ### Tue 02/20 10:30 AM - Local Government (LG): SB 6173 Housing sales tax/use
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32020&aId=159501&caId=24314&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32020&aId=159501&caId=24314&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32020&aId=159501&caId=24314&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32020&aId=159501&caId=24314&tId=4)
-
-#### 32 👍 - Pro
+#### 81 👍 - Pro
 Testifying:
 * 💵Jason Gauthier - South Sound Housing Affordability Partners
+* 💵Adán Espino - Habitat for Humanity of Washington State
+* 💵Nick Federici - [Northwest Community Land Trust Coalition](/org/northwest_community_land_trust_coalition/)
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -18,7 +18,8 @@
 * 👍 Suzanne Dale Estey
 * 👍 Suzanne Dale Estey
 
-## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍1  
+## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍2  
+* 👍 Suzanne Dale Estey
 * 👍 Suzanne Dale Estey
 
 ## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍1  

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1226/</link>
 		<description>Updates about HB 1226</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 15 Feb 2024 12:44:20 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 19 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -139,6 +139,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/James/Luce/2024-02-15 12:44:20</guid>
+		</item>
+		<item>
+			<title>AWNP - Majority; do pass with amendment(s).</title>
+			<description>AWNP - Majority; do pass with amendment(s).</description>
+			<pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-19/AWNP - Majority; do pass with amendment(s).</guid>
 		</item>
 	</channel>
 </rss>

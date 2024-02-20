@@ -25,13 +25,7 @@
 
 ## Meetings
 ### Mon 02/19 01:30 PM - Early Learning & K-12 Education (EDU): 3SHB 1228 Dual & tribal language edu.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159731&caId=24225&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159731&caId=24225&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159731&caId=24225&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31998&aId=159731&caId=24225&tId=4)
-
-#### 69 👍 - Pro
+#### 94 👍 - Pro
 Testifying:
 * Kristin Percy Calaff - OSPI
 * Willard Bill Jr. - Office of Superintendent of Public Instruction
@@ -40,6 +34,7 @@ Testifying:
 * Athena Jimenez-Manalo
 * Radu Smintina - OneAmerica
 * Brian Freeman - Inchelium School District #70
+* Karen Condon - Confederated Tribes of the Colville Reservation
 
 #### 0 👎 - Con
 

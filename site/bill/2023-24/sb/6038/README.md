@@ -16,15 +16,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159530&caId=24305&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159530&caId=24305&tId=4)
 
-#### 63 👍 - Pro
+#### 160 👍 - Pro
 Testifying:
 * 💵Tathagata Pal - Legislative Liaison, WSU Graduate and Professional Student Association
 * Alan Lesher - YMCA of the Inland Northwest
 * Wendy Bart - Olympic Peninsula YMCA
+* 💵Mirian Mencias - Associate Students UW-Seattle
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 01/25 04:00 PM - Ways & Means (WM): SB 6038 Child care tax preference
 #### 66 👍 - Pro

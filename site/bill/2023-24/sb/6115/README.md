@@ -15,13 +15,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31961&aId=159747&caId=24327&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31961&aId=159747&caId=24327&tId=4)
 
-#### 2 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Deion Glover - Washington State Patrol
+* Travis Snell - Washington State Department of Transportation
+* Deion Glover - Washington State Patrol
+* Travis Snell - WSDOT
 
-#### 1 👎 - Con
+#### 134 👎 - Con
 Testifying:
 * Laurie Layne
+* Jeannette Mcchesney
 
 #### 1 ❓ - Other
 Testifying:

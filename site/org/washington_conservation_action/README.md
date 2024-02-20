@@ -145,7 +145,7 @@
 * 👍💵 Clifford Traisman
 * 👍💵 Clifford Traisman
 
-## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍2  
+## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍3  
 * 👍💵 Darcy Nonemacher
 
 ## [SB 6071](/bill/2023-24/sb/6071/) - Oil exporters/human rights 👍1  

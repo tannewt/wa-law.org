@@ -67,7 +67,7 @@
 
 ## [SB 5970](/bill/2023-24/sb/5970/) - Local boards of health 👍2  
 
-## [SB 6120](/bill/2023-24/sb/6120/) - Wildland urban interface 👍1  
+## [SB 6120](/bill/2023-24/sb/6120/) - Wildland urban interface 👍2  
 
 ## [SB 6150](/bill/2023-24/sb/6150/) - Comprehensive plan revisions 👍1  
 * 👍 Ashley Arai

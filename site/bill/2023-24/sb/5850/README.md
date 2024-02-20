@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/19/2024 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Week Seven Legislative Update - United Ways of Washington - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02192024#:~:text=Senate%20Bill%205850)
+* 02/17/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 19 - 23, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-19-23-2024/#:~:text=SB%205850)
 * 02/13/2024 [Gorge News Center](/org/gorge_news_center/) - [Braun bill to reduce chronic absenteeism in schools passes Senate](https://gorgenewscenter.com/2024/02/13/braun-bill-to-reduce-chronic-absenteeism-in-schools-passes-senate/#:~:text=Senate%20bill%205850)
 * 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=SB%205850)
 * 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=SB%205850)
@@ -17,13 +19,7 @@
 
 ## Meetings
 ### Mon 02/19 01:30 PM - Education (ED): ESSB 5850 Chronically absent students
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31996&aId=159653&caId=24286&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31996&aId=159653&caId=24286&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31996&aId=159653&caId=24286&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31996&aId=159653&caId=24286&tId=4)
-
-#### 122 👍 - Pro
+#### 173 👍 - Pro
 Testifying:
 * Kevin Chase - ESD 105
 * Troy Goracke - Washington State Board for Community and Technical Colleges
@@ -32,6 +28,8 @@ Testifying:
 * Anna Hernandez-French - Office of Superintendent of Public Instruction
 * 💵Paula Sardinas - WBBA (WA Build Black Alliance)
 * Gordon McHenry - United Way of King County
+* 💵Paula Sardinas - WA Build Back Black Alliance/FMS Global Strategies.com
+* Mikhail Cherniske - Office of Superintendent of Public Instruction
 
 #### 1 👎 - Con
 

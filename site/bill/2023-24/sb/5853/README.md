@@ -20,15 +20,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159528&caId=24303&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159528&caId=24303&tId=4)
 
-#### 129 👍 - Pro
+#### 275 👍 - Pro
 Testifying:
 * Scarlett Coll - Lake Washington High School
 * 💵Kashika Arora - Seattle Children's
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Divya Natarajan - WA Chapter of the American Academy of Pediatrics
+* 💵Michael Transue - Connections Health Solutions and Nat'l Alliance for Mental Illness WA
+* Caitlin Hochul - Inseparable
+* 💵Sean Graham - Washington Chapter - American College of Emergency Physicians
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Kathleen Wedemeyer - Citizens Commission on Human Rights
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Fri 02/02 01:30 PM - Ways & Means (WM): SSB 5853 Behav crisis services/minors
 #### 280 👍 - Pro

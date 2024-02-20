@@ -9,6 +9,12 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/20/2024 [The Seattle Times](/org/the_seattle_times/) - [Five things to know about WA proposal to limit rent hikes | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/five-things-to-know-about-wa-proposal-to-limit-rent-hikes/#:~:text=House%20Bill%202114)
+* 02/19/2024 [House Republicans](/org/house_republicans/) - [Initiatives, bill updates, state budgets, and the week ahead | Washington State House Republicans](http://houserepublicans.wa.gov/current/initiatives-bill-updates-state-budgets-and-the-week-ahead/#:~:text=House%20Bill%202114)
+* 02/17/2024 [The Seattle Times](/org/the_seattle_times/) - [Some bills survive, others don’t after WA Legislature chamber deadline | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/some-bills-survive-others-dont-after-wa-legislature-chamber-deadline/#:~:text=House%20Bill%202114)
+* 02/17/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Additional Supported Bills — Quaker Voice](https://www.quakervoicewa.org/2024-additional-supported-bills/#:~:text=HB%202114)
+* 02/16/2024 [NW News Network](/org/nw_news_network/) - [Bill swap, money talks, and initiative hints: A look at week 6 of WA's legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-02-16/bill-swap-money-talks-and-initiative-hints-a-look-at-week-6-of-was-legislative-session#:~:text=House%20Bill%202114)
+* 02/16/2024 [KUOW](/org/kuow/) - [KUOW - Bill swap, money talks, and initiative hints: A look at week 6 of WA's legislative session](https://www.kuow.org/stories/bill-swap-money-talks-and-initiative-hints-a-look-at-week-6-of-wa-s-legislative-session#:~:text=House%20Bill%202114)
 * 02/15/2024 [Crosscut](/org/crosscut/) - [WA Legislature keeps most of its priority bills alive — so far | Crosscut](https://crosscut.com/politics/2024/02/wa-legislature-keeps-most-its-priority-bills-alive-so-far#:~:text=House%20Bill%202114)
 * 02/14/2024 [NW News Network](/org/nw_news_network/) - [WA House approves rent stabilization bill, teeing up legislative showdown in the Senate | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-02-14/wa-house-approves-rent-stabilization-bill-teeing-up-legislative-showdown-in-the-senate#:~:text=House%20Bill%202114)
 * 02/14/2024 [The Center Square](/org/the_center_square/) - [Washington House passes bill limiting rent hikes to 7% | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_82cb3f00-cae9-11ee-b931-73a8817fcd66.html#:~:text=HB%202114)
@@ -48,15 +54,33 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=159803&caId=24332&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=159803&caId=24332&tId=4)
 
-#### 535 👍 - Pro
+#### 1518 👍 - Pro
 Testifying:
 * 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
 * Stacey Valenzuela - Manufactured Homeowner
 * Don Carlson - Retired State, Senator and Tennant at Brookdale Greens Manu. Homes
 * 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * 💵Tathagata Pal - Legislative Liaison, WSU Graduate and Professional Student Assoication
+* Chris Walker
+* Kelley Rinehart
+* Tina Hammond
+* Kathleen Knutsen
+* 💵Kraig Peck
+* Stephanie Tidholm
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Caroline Hardy
+* Deborah Wilson
+* Boyd West
+* Brianna Vazquez
+* Monica Zazueta
+* Mayor Thomas Strobehn - [City of La Center](/org/city_of_la_center/)
+* Kjellsi Houghton
+* 💵Paula Sardinas - WBBA (WA Build Back Black Alliance)
+* 💵Paula Sardinas - WBBA (WA Build Back Black Alliance)
+* 💵Yvette Maganya - WBBA (WA Build Back Black Alliance)
+* Cindy Madigan
 
-#### 677 👎 - Con
+#### 1424 👎 - Con
 Testifying:
 * Amandeep Cheema
 * Douglas Cole - - None -
@@ -93,10 +117,38 @@ Testifying:
 * Angela Veeder
 * DAVID NAGEL
 * Lorraine Obar
+* Robert Zube
+* Raymond Baron
+* Audrey Riddle - [Goodman Real Estate](/org/goodman_real_estate/)
+* SURESH KANDANATHAN
+* Hamlin Ellen
+* Kolton Dean
+* Ian Randall - Seattle Grassroots Housing Providers
+* ryan cordero
+* Trista Engle
+* Christina Kilbourn
+* James Veeder - Wenatchee Rental Association
+* 💵Kevin Schilling - Mayor of Burien
+* Lori Lindquist
+* Anne Knapp
+* Patricia Townsend
+* Patricia Townsend
+* Debby Herbert
+* Rick Glenn - Yakima Valley Landlord's Association and member of Yakima city Council
+* Tim Eyman - Initiative Activist
+* Rick Glenn - Yakima Valley Landlords association
+* Clifford Lund
+* Rebecka Bailey - McCathren Management
+* PATRICIA HOENDERMIS - Yakima Valley Landlords Assoc.
+* Jeannette Mcchesney
+* michael walsh - None
+* Natalie Martell - Windermere Property Management
+* David Bocock
 
-#### 6 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * Peter Hansen - Keyrenter Tacoma Property Management
+* Ben Assa
 
 ### Wed 01/24 04:00 PM - Appropriations (APP): HB 2114 Residential tenants
 #### 1582 👍 - Pro

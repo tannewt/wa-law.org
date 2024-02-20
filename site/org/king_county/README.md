@@ -199,7 +199,7 @@
 
 ## [HB 1432](/bill/2023-24/hb/1432/) - Juvenile justice 👍1  
 
-## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍3  
+## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍4  
 
 ## [HB 1435](/bill/2023-24/hb/1435/) - Home care safety net assess. 👍1  
 
@@ -356,7 +356,8 @@
 
 ## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍1  
 
-## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍2  
+## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍3  
+* 👍💵 Michael White
 * 👍💵 Michael White
 * 👍💵 Michael White
 
@@ -420,7 +421,7 @@
 
 ## [HB 2319](/bill/2023-24/hb/2319/) - Substance use treatment 👍1  
 
-## [HB 2329](/bill/2023-24/hb/2329/) - Insurance market/housing 👍2  
+## [HB 2329](/bill/2023-24/hb/2329/) - Insurance market/housing 👍3  
 
 ## [HB 2347](/bill/2023-24/hb/2347/) - Adult family home info. 👍1  
 
@@ -433,7 +434,8 @@
 
 ## [HB 2403](/bill/2023-24/hb/2403/) - Kennel fire safety standards 👍1  
 
-## [HB 2474](/bill/2023-24/hb/2474/) - Transitional housing siting 👍2  
+## [HB 2474](/bill/2023-24/hb/2474/) - Transitional housing siting 👍3  
+* 👍💵 Michael White
 * 👍💵 Michael White
 * 👍💵 Michael White
 
@@ -713,7 +715,7 @@
 
 ## [SB 5821](/bill/2023-24/sb/5821/) - Audio-only telemedicine 👍1  
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍3  
 * 👍 Sarah Perry
 
 ## [SB 5856](/bill/2023-24/sb/5856/) - Concerning voter registration challenges. 👍1  

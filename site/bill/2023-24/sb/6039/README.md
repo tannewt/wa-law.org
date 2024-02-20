@@ -10,17 +10,12 @@
 
 ## Meetings
 ### Mon 02/19 01:30 PM - Environment & Energy (ENVI): ESSB 6039 Geothermal energy resources
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31989&aId=159340&caId=24289&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31989&aId=159340&caId=24289&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31989&aId=159340&caId=24289&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31989&aId=159340&caId=24289&tId=4)
-
-#### 17 👍 - Pro
+#### 70 👍 - Pro
 Testifying:
 * Casey Hanell - [Department of Natural Resources](/org/department_of_natural_resources/)
 * Tim Gates - WA Dept of Ecology
 * 💵Scott Hazlegrove - Whatcom PUD
+* 💵Nicolas Garcia - WPUDA
 
 #### 0 👎 - Con
 

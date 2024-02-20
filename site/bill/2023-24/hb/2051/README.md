@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/19/2024 [House Republicans](/org/house_republicans/) - [Initiatives, bill updates, state budgets, and the week ahead | Washington State House Republicans](http://houserepublicans.wa.gov/current/initiatives-bill-updates-state-budgets-and-the-week-ahead/#:~:text=House%20Bill%202051)
 * 01/12/2024 [The Center Square](/org/the_center_square/) - [Washington bill would enact California's gas leaf blower, lawn mower ban | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_286ed5a6-b18c-11ee-9f03-ab11abfe9f95.html#:~:text=House%20Bill%202051)
 * 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%202051)
 

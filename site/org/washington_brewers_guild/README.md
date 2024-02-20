@@ -17,7 +17,8 @@
 ## [HB 2196](/bill/2023-24/hb/2196/) - Alcohol concentration/DUI  👎2 
 * 👎💵 Daniel Olson
 
-## [HB 2204](/bill/2023-24/hb/2204/) - Emergency liquor permits 👍1  
+## [HB 2204](/bill/2023-24/hb/2204/) - Emergency liquor permits 👍2  
+* 👍💵 Daniel Olson
 * 👍💵 Daniel Olson
 
 ## [HB 2363](/bill/2023-24/hb/2363/) - Alcohol/pop-up retail sales 👍1  

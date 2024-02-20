@@ -12,25 +12,22 @@
 
 ## Meetings
 ### Mon 02/19 10:30 AM - Human Services (HS): SHB 2368 Refugee & immigrant assist.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159680&caId=24204&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159680&caId=24204&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159680&caId=24204&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31977&aId=159680&caId=24204&tId=4)
-
-#### 190 👍 - Pro
+#### 310 👍 - Pro
 Testifying:
 * 💵Eli Goss - OneAmerica
 * Thomas McLeod - [City of Tukwila](/org/city_of_tukwila/)
+* Thomas McLeod - [City of Tukwila](/org/city_of_tukwila/)
+* Brandon Miles - [City of Tukwila](/org/city_of_tukwila/)
+* 💵Kristin Ang - Faith Action Network (FAN)
 
-#### 1121 👎 - Con
+#### 1587 👎 - Con
 Testifying:
 * Jeannette Mcchesney
 * Reni Storm
 * Janet Baker
 * Berit Wright
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Babs Roberts - Department of Social and Health Services, Economic Services Administration
 * Sarah Peterson - Department of Social and Health Services, Economic Services Administration

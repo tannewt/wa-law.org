@@ -62,7 +62,7 @@
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍6  
 
-## [HB 1113](/bill/2023-24/hb/1113/) - Prof. educator reprimands 👍2  
+## [HB 1113](/bill/2023-24/hb/1113/) - Prof. educator reprimands 👍3  
 * 👍💵 Nasue Nishida
 * 👍💵 Nasue Nishida
 
@@ -416,6 +416,8 @@
 
 ## [HB 1943](/bill/2023-24/hb/1943/) - National guard ed. grants 👍2  
 
+## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
+
 ## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍1  
 
 ## [HB 1949](/bill/2023-24/hb/1949/) - Including in the public safety employees' retirement system specified competency restoration workers at department of social and health services institutional and residential sites that serve civilly committed residents or serve patients under not guilty by reason of insanity findings. 👍1  
@@ -437,7 +439,8 @@
 
 ## [HB 1982](/bill/2023-24/hb/1982/) - Broadband loans & grants 👍3  
 
-## [HB 1985](/bill/2023-24/hb/1985/) - PERS/TRS 1 benefit increase 👍1  
+## [HB 1985](/bill/2023-24/hb/1985/) - PERS/TRS 1 benefit increase 👍2  
+* 👍 Jared Mason-Gere
 * 👍 Jared Mason-Gere
 
 ## [HB 1991](/bill/2023-24/hb/1991/) - Paid sick leave 👍1  
@@ -465,6 +468,8 @@
 * 👍💵 Simone Boe
 
 ## [HB 2084](/bill/2023-24/hb/2084/) - Construction training/DOC 👍1  
+
+## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental   ❓1
 
 ## [HB 2091](/bill/2023-24/hb/2091/) - Fallen firefighter memorial 👍1  
 
@@ -566,6 +571,8 @@
 ## [HB 2441](/bill/2023-24/hb/2441/) - College in the HS fees  👎2 
 
 ## [HB 2459](/bill/2023-24/hb/2459/) - Alt. measure disclosures 👍1  
+
+## [HB 2467](/bill/2023-24/hb/2467/) - LTSS trust access 👍1  
 
 ## [HB 2494](/bill/2023-24/hb/2494/) - School operating costs   ❓1
 
@@ -921,7 +928,7 @@
 
 ## [SB 5837](/bill/2023-24/sb/5837/) - Codifying the state election database to publish, evaluate, and analyze certain election data. 👍2  
 
-## [SB 5838](/bill/2023-24/sb/5838/) - AI task force 👍1  
+## [SB 5838](/bill/2023-24/sb/5838/) - AI task force 👍2  
 
 ## [SB 5839](/bill/2023-24/sb/5839/) - Modifying the working families' tax credit by clarifying the refundable nature of the credit, the application requirements, and the eligibility verification process. 👍1  
 
@@ -957,7 +964,7 @@
 
 ## [SB 5900](/bill/2023-24/sb/5900/) - Concerning construction crane safety. 👍1  
 
-## [SB 5903](/bill/2023-24/sb/5903/) - Concerning representation in the educator preparation act. 👍1  
+## [SB 5903](/bill/2023-24/sb/5903/) - Concerning representation in the educator preparation act. 👍2  
 * 👍💵 Simone Boe
 
 ## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍3  
@@ -1022,6 +1029,8 @@
 ## [SB 6030](/bill/2023-24/sb/6030/) - ADU tax exemptions 👍1  
 
 ## [SB 6031](/bill/2023-24/sb/6031/) - Student transp. allocation   ❓1
+
+## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍1  
 
 ## [SB 6053](/bill/2023-24/sb/6053/) - Education data sharing 👍1  
 

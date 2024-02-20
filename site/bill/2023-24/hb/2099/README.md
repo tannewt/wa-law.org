@@ -17,14 +17,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159724&caId=24252&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159724&caId=24252&tId=4)
 
-#### 43 👍 - Pro
+#### 53 👍 - Pro
 Testifying:
 * Ty Reed - Washington Statewide Reentry Council
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Christopher Poulos - Center for Justice and Human Dignity
 
-#### 2 👎 - Con
+#### 23 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Sjan Talbot - DSHS Behavioral Health Administration
 
 ### Fri 02/16 08:00 AM - State Government & Elections (SGE): E2SHB 2099 State custody/ID cards
 #### 4 👍 - Pro

@@ -26,4 +26,7 @@
 ## [SB 6069](/bill/2023-24/sb/6069/) - Retirement savings   ❓1
 * ❓ John Mangan
 
+## [SB 6072](/bill/2023-24/sb/6072/) - LTSS commission recs.  👎1 
+* 👎 John Mangan
+
 ## [SB 6097](/bill/2023-24/sb/6097/) - Dental services contracts  👎1 

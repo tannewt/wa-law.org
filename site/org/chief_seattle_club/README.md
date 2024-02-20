@@ -12,7 +12,8 @@
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 
-## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍1  
+## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍2  
+* 👍💵 James Lovell
 * 👍💵 James Lovell
 
 ## [HB 2329](/bill/2023-24/hb/2329/) - Insurance market/housing 👍1  

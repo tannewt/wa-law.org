@@ -7,19 +7,15 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/19/2024 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Week Seven Legislative Update - United Ways of Washington - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02192024#:~:text=HB%202104,)
+* 02/17/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 19 - 23, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-19-23-2024/#:~:text=HB%202104)
 * 02/05/2024 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Week Five Legislative Update - United Ways of Washington - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02052024#:~:text=HB%202104)
 * 01/08/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Session Preview: Legislature convenes January 8 for short session - WSPTA](https://www.wastatepta.org/2024-session-preview/#:~:text=HB%202104)
 * 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%202104)
 
 ## Meetings
 ### Mon 02/19 04:00 PM - Appropriations (APP): PSHB 2104 - Making 2023-2025 fiscal biennium supplemental operating appropriations.  (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32006&aId=159671&caId=24269&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32006&aId=159671&caId=24269&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32006&aId=159671&caId=24269&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32006&aId=159671&caId=24269&tId=4)
-
-#### 17 👍 - Pro
+#### 53 👍 - Pro
 Testifying:
 * 💵Michael White - [King County](/org/king_county/)
 * 💵Kelsey Hulse - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
@@ -38,12 +34,38 @@ Testifying:
 * Gregory Davis - Rainier Beach Action Coalition
 * Marguerite Ro
 * Donald King - Nehemiah Initiative
+* Jonelle Mawoneke - Nehemiah Initiative
+* Steve Walker - Washington State Housing Finance Commission
+* Brooks Glenn - Black Home Initiative
+* Holly Hodgson
+* kimberly thomas
+* Sarah Clark - Seattle Metro Chamber
+* 💵Peter Diedrick - WA State School Retirees' Association
+* kimberly thomas
+* 💵Laurie Weidner - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
+* 💵Collin Bannister - The Washington Student Association
+* Karen Condon - Confederated Tribes of the Colville Reservation
+* Chris Mulick - Washington State University
+* Gordon McHenry Jr - United Way of King County
+* 💵Tathagata Pal - Legislative Liaison, WSU Graduate and Professional Student Association
+* Denise Rodriguez - WHRC
+* Bishop Gary Tyson - Nehemiah Initiative
+* Bryan Flint - Sound Outreach
+* Kathryn Smith
+* 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* 💵Diana Stadden
+* Joe Dacca - [University of Washington](/org/university_of_washington/)
+* Rashi Gupta - UW Medicine
+* 💵Nora Selander - Western Washington University
+* Madelyn Carlson - People For People / Washington 211
+* Denise Rodriguez - Washington Homeownership Resource Center
+* Debbie Ham - Support for Early Learning and Families (SELF)
 
-#### 215 👎 - Con
+#### 528 👎 - Con
 Testifying:
 * Jeannette Mcchesney
 
-#### 50 ❓ - Other
+#### 80 ❓ - Other
 Testifying:
 * Laurie Lippold - Partners for Our Children
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
@@ -95,6 +117,35 @@ Testifying:
 * Heidi Suarez - WA Chapter of the American Academy of Pediatrics
 * Lelach Rave - WA Chapter of the American Academy of Pediatrics
 * Sandy Hayes - Washington State School Directors' Association
+* 💵Sean Graham - Washington State Medical Association
+* Rick Chisa - Public School Employees of WA/SEIU 1948
+* Nikki Storms - Chehalis West Assisted Living
+* Samantha Fogg - SCPTSA, Interim Co-President
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* 💵Devin Gombosky - ESD 105 Schools Coalition
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* Demas Nesterenko - SEIU775
+* Charlie Brown - South Sound Superintendents and WA Skills Centers
+* Em Stone - WA State Coalition Against Domestic Violence
+* 💵Leslie Emerick - Home Care Association of WA
+* Andrea Pierantozzi - Recreational Boating Assoc of Washington
+* 💵David Lord - No affiliation - retired
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Chase Buffington - Washington Outdoor School Coalition
+* 💵John Seng - [Spark Northwest](/org/spark_northwest/)
+* 💵Maud Daudon - Career Connect Washington
+* Catherine Morrison - Maxim Healthcare Services
+* Dewi Ali - Emerald Cities Collaborative
+* 💵John Seng - [Spark Northwest](/org/spark_northwest/)
+* 💵Brad Banks - Home Care Coalition
+* Erica Drury
+* Mikhail Cherniske - Office of the Superintendent of Public Instruction
+* 💵Amina Abdalla - [Adult Family Home Council](/org/adult_family_home_council/)
+* Steve DuPont - [Central Washington University](/org/central_washington_university/)
+* David Buri - Eastern Washington University
+* Elizabeth Jennings - Community Action of Skagit County
+* Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* Susan Carter - [Hopelink](/org/hopelink/)
 
 ### Wed 01/10 04:00 PM - Appropriations (APP): HB 2104 Operating budget, supp.
 #### 13 👍 - Pro

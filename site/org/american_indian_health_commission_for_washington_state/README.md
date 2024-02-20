@@ -8,6 +8,9 @@
 
 ## [HB 1332](/bill/2023-24/hb/1332/) - Tribes/K-12 instruction 👍1  
 
+## [HB 1877](/bill/2023-24/hb/1877/) - Behavioral health/tribes 👍1  
+* 👍💵 Vicki Lowe
+
 ## [HB 1879](/bill/2023-24/hb/1879/) - Naming the curriculum used to inform students about tribal history, culture, and government after John McCoy (lulilaš). 👍2  
 
 ## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  

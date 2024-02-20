@@ -21,7 +21,7 @@
 
 ## [HB 1392](/bill/2023-24/hb/1392/) - Electronics repair 👍1  
 
-## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍2  
+## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍3  
 
 ## [HB 1554](/bill/2023-24/hb/1554/) - Lead impacts 👍1  
 

@@ -7,23 +7,35 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/17/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 19 - 23, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-19-23-2024/#:~:text=HB%202134)
 * 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%202134)
 
 ## Meetings
 ### Mon 02/19 04:00 PM - Transportation (TR): PSHB 2134 - Making supplemental transportation appropriations for the 2023-2025 fiscal biennium. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31959&aId=159262&caId=24324&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31959&aId=159262&caId=24324&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31959&aId=159262&caId=24324&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31959&aId=159262&caId=24324&tId=4)
+#### 8 👍 - Pro
+Testifying:
+* 💵Troy Nichols - Lewis County, Washington
+* Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Axel Swanson - Washington State Association of County Engineers
+* Kirk Hovenkotter - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
+* Sean Eagan - [The Northwest Seaport Alliance](/org/the_northwest_seaport_alliance/)
+* Rick Hughes - Ray's Pharmacy - Orcas Island
 
-#### 0 👍 - Pro
-
-#### 205 👎 - Con
+#### 491 👎 - Con
 Testifying:
 * Jeannette Mcchesney
+* Sarah Clark - Seattle Metropolitan Chamber of Commerce
 
-#### 0 ❓ - Other
+#### 9 ❓ - Other
+Testifying:
+* Brent McFarlane - Rail Can't Wait
+* 💵Josh Weiss - [San Juan County](/org/san_juan_county/)
+* Bill Moyer - Solutionary Rail
+* Lael White - Climate Rail Alliance
+* Mary Paterson - Solutionary Rail
+* Tim Gould
+* Tom White - Climate Rail Alliance
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
 ### Wed 01/10 04:00 PM - Transportation (TR): HB 2134 Transportation budget, supp.
 #### 11 👍 - Pro

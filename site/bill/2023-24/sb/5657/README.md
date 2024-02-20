@@ -14,17 +14,17 @@
 
 ## Meetings
 ### Mon 02/19 01:30 PM - Housing (HOUS): ESSB 5657 Kit home permitting
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32024&aId=159812&caId=24334&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32024&aId=159812&caId=24334&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32024&aId=159812&caId=24334&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32024&aId=159812&caId=24334&tId=4)
-
-#### 1 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Anthony Mixer - Conservative Advocate
+* Tristan Mospan
+* Tristan Mospan
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Tammy Fellin - Department of Labor & Industries
 
 ### Tue 02/14 01:30 PM - State Government & Elections (SGE): SB 5657 Kit home permitting
 #### 20 👍 - Pro

@@ -24,7 +24,7 @@
 
 ## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍2  
 
-## [HB 1618](/bill/2023-24/hb/1618/) - Childhood sexual abuse/SOL 👍3  
+## [HB 1618](/bill/2023-24/hb/1618/) - Childhood sexual abuse/SOL 👍4  
 
 ## [HB 1715](/bill/2023-24/hb/1715/) - Domestic violence  👎1 
 
@@ -37,6 +37,8 @@
 ## [HB 2237](/bill/2023-24/hb/2237/) - Parenting plan limitations 👍1  
 
 ## [HB 2242](/bill/2023-24/hb/2242/) - Sexual assault/higher ed. 👍1  
+
+## [HB 2396](/bill/2023-24/hb/2396/) - Synthetic opioids 👍1  
 
 ## [HB 2447](/bill/2023-24/hb/2447/) - Children and families 👍2  
 * 👍 Paula Reed
@@ -65,7 +67,7 @@
 
 ## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍1  
 
-## [SB 5937](/bill/2023-24/sb/5937/) - Crime victims & witnesses 👍2  
+## [SB 5937](/bill/2023-24/sb/5937/) - Crime victims & witnesses 👍3  
 * 👍 Paula Reed
 
 ## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍2  
@@ -75,7 +77,7 @@
 ## [SB 6109](/bill/2023-24/sb/6109/) - Children and families 👍3  
 * 👍 Paula Reed
 
-## [SB 6110](/bill/2023-24/sb/6110/) - Child fatalities 👍1  
+## [SB 6110](/bill/2023-24/sb/6110/) - Child fatalities 👍2  
 
 ## [SB 6135](/bill/2023-24/sb/6135/) - TANF transitional assistance 👍1  
 

@@ -15,7 +15,7 @@
 
 ## [HB 1207](/bill/2023-24/hb/1207/) - Harassment/schools 👍2  
 
-## [HB 1228](/bill/2023-24/hb/1228/) - Dual & tribal language edu. 👍2  
+## [HB 1228](/bill/2023-24/hb/1228/) - Dual & tribal language edu. 👍3  
 
 ## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍1  
 
@@ -95,7 +95,7 @@
 
 ## [HB 2180](/bill/2023-24/hb/2180/) - Special education cap 👍1  
 
-## [HB 2236](/bill/2023-24/hb/2236/) - Tech. ed. core plus programs 👍1  
+## [HB 2236](/bill/2023-24/hb/2236/) - Tech. ed. core plus programs 👍2  
 
 ## [HB 2239](/bill/2023-24/hb/2239/) - Social-emotional instruction 👍1  
 
@@ -190,7 +190,7 @@
 * ❓ Alissa Muller
 * ❓ J. Lee Schultz
 
-## [SB 5850](/bill/2023-24/sb/5850/) - Chronically absent students 👍1  
+## [SB 5850](/bill/2023-24/sb/5850/) - Chronically absent students 👍2  
 
 ## [SB 5851](/bill/2023-24/sb/5851/) - Holocaust and genocide edu. 👍1  
 
@@ -198,7 +198,7 @@
 
 ## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍1  
 
-## [SB 5903](/bill/2023-24/sb/5903/) - Concerning representation in the educator preparation act. 👍1  
+## [SB 5903](/bill/2023-24/sb/5903/) - Concerning representation in the educator preparation act. 👍2  
 
 ## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍2  
 

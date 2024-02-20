@@ -234,7 +234,8 @@
 
 ## [SB 5835](/bill/2023-24/sb/5835/) - Rule making websites 👍1  
 
-## [SB 5838](/bill/2023-24/sb/5838/) - AI task force   ❓2
+## [SB 5838](/bill/2023-24/sb/5838/) - AI task force   ❓3
+* ❓ Montana Miranda
 * ❓ Montana Miranda
 
 ## [SB 5924](/bill/2023-24/sb/5924/) - Access to personnel records  👎2 

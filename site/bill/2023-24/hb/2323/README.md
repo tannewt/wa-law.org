@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/17/2024 [The Seattle Times](/org/the_seattle_times/) - [Some bills survive, others don’t after WA Legislature chamber deadline | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/some-bills-survive-others-dont-after-wa-legislature-chamber-deadline/#:~:text=House%20Bill%202323)
+
 ## Meetings
 ### Thu 01/25 08:00 AM - Housing (HOUS): HB 2323 Rent payments/credit reports
 #### 14 👍 - Pro

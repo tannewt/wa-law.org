@@ -19,11 +19,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159720&caId=24248&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159720&caId=24248&tId=4)
 
-#### 5 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Joe Kunzler
+* Amin Tony Hester - CFI
+* 💵Anna Zivarts - Disability Mobility Initiative, Disability Rights WA
+* Lindsey Schromen-Wawrin - Councilmember, City of Port Angeles
+* Tracy Turner - Self Advocates In Leadership
 
-#### 1 👎 - Con
+#### 25 👎 - Con
+Testifying:
+* Tad Sommerville
 
 #### 0 ❓ - Other
 

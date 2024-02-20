@@ -52,7 +52,7 @@
 
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍2  
 
-## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍1  
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍2  
 
 ## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍3  
 
@@ -84,7 +84,7 @@
 ## [HB 1818](/bill/2023-24/hb/1818/) - Forestland/compensating tax 👍1  
 * 👍 Scott Richards
 
-## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍1  
+## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍2  
 
 ## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍1  
 
@@ -193,14 +193,14 @@
 
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
 
-## [SB 6039](/bill/2023-24/sb/6039/) - Geothermal energy resources 👍1  
+## [SB 6039](/bill/2023-24/sb/6039/) - Geothermal energy resources 👍2  
 
 ## [SB 6043](/bill/2023-24/sb/6043/) - Recreational use fees 👍1  
 
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍2  
 * 👍 Skippy Shaw
 
-## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍2  
+## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍3  
 * 👍 Skippy Shaw
 
 ## [SB 6121](/bill/2023-24/sb/6121/) - Biochar production 👍1  

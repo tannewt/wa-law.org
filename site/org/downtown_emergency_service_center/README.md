@@ -20,9 +20,9 @@
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
-## [HB 2329](/bill/2023-24/hb/2329/) - Insurance market/housing 👍2  
+## [HB 2329](/bill/2023-24/hb/2329/) - Insurance market/housing 👍3  
 
-## [HB 2474](/bill/2023-24/hb/2474/) - Transitional housing siting 👍2  
+## [HB 2474](/bill/2023-24/hb/2474/) - Transitional housing siting 👍3  
 
 ## [SB 5202](/bill/2023-24/sb/5202/) - Housing/capital expenditures 👍1  
 

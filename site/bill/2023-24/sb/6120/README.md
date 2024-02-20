@@ -8,18 +8,20 @@
 
 ## Meetings
 ### Tue 02/20 10:30 AM - Local Government (LG): ESB 6120 Wildland urban interface
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32020&aId=159503&caId=24316&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32020&aId=159503&caId=24316&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32020&aId=159503&caId=24316&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32020&aId=159503&caId=24316&tId=4)
-
-#### 40 👍 - Pro
+#### 88 👍 - Pro
 Testifying:
 * Lynn Fitz-Hugh - Friends of Trees committee of Restoring Earth Connection
 * Christine Rolfes - Kitsap County Commissioner
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Sandy Shettler - Tree Action Seattle
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* MICHAEL FEERER - Whatcom Million Trees Project
+* ERIC SEIBEL - Tahoma Audubon
+* Marianne Tompkins - Friends of Trees
+* Charlotte Persons - Black Hills Audubon Society
+* 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Brad Medrud - City of Tumwater in support of AWC
+* Joshua Morris - Birds Connect Seattle
 
 #### 1 👎 - Con
 Testifying:

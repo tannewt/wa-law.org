@@ -65,7 +65,8 @@
 
 ## [SB 5959](/bill/2023-24/sb/5959/) - Traffic safety cameras 👍1  
 
-## [SB 6010](/bill/2023-24/sb/6010/) - SEPA/trails and paths 👍1  
+## [SB 6010](/bill/2023-24/sb/6010/) - SEPA/trails and paths 👍2  
 * 👍 Lee Lambert
+* 👍 Vicky Clarke
 
-## [SB 6283](/bill/2023-24/sb/6283/) - Connecting communities prg. 👍1  
+## [SB 6283](/bill/2023-24/sb/6283/) - Connecting communities prg. 👍2  

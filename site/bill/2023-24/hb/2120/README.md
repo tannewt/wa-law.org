@@ -18,14 +18,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32003&aId=159364&caId=24243&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32003&aId=159364&caId=24243&tId=4)
 
-#### 11 👍 - Pro
+#### 62 👍 - Pro
 Testifying:
 * Mayor Theresa Richardson - [City of Richland](/org/city_of_richland/)
 * Diahann Howard - Port of Benton/Washington VERTical
+* KARL DYE - TRIDEC
+* Steve Verhey
 
-#### 0 👎 - Con
+#### 179 👎 - Con
+Testifying:
+* 💵Suellen Mele
+* Cathryn Chudy
+* Laura Feldman
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 01/25 01:30 PM - Finance (FIN): HB 2120 Clean energy manufacturers
 #### 58 👍 - Pro

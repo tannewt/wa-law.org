@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159430&caId=24254&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159430&caId=24254&tId=4)
 
-#### 1 👍 - Pro
+#### 25 👍 - Pro
+Testifying:
+* 💵Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
+* KARL DYE - TRIDEC
+* Dave Pringle - Dept. of Commerce
 
-#### 1 👎 - Con
+#### 8 👎 - Con
 
 #### 0 ❓ - Other

@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/19/2024 [The Urbanist](/org/the_urbanist/) - [What’s in the Transit-Oriented Development Bill the WA House Just Passed - The Urbanist](https://www.theurbanist.org/2024/02/19/whats-in-the-transit-oriented-development-bill-the-wa-house-just-passed/#:~:text=HB%201245)
 * 02/11/2024 [House Republicans](/org/house_republicans/) - [Fix the housing and homelessness crisis | Washington State House Republicans](http://houserepublicans.wa.gov/current/fix-the-housing-and-homelessness-crisis/#:~:text=House%20Bill%201245)
 * 02/05/2024 [The Seattle Times](/org/the_seattle_times/) - [With tweaks, rent limit proposal forges ahead in WA House | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/with-tweaks-rent-limit-proposal-forges-ahead-in-wa-house/#:~:text=House%20Bill%201245)
 * 01/16/2024 [House Republicans](/org/house_republicans/) - [Fix the housing & homelessness crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/housing/#:~:text=House%20bill%201245)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5790/</link>
 		<description>Updates about SB 5790</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 09 Feb 2024 10:03:30 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 19 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -243,6 +243,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Maria R/Paulsen/2024-02-09 10:03:30</guid>
+		</item>
+		<item>
+			<title>ED - Executive action taken by committee.</title>
+			<description>ED - Executive action taken by committee.</description>
+			<pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-19/ED - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

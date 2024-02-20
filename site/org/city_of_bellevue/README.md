@@ -73,7 +73,7 @@
 
 ## [HB 2045](/bill/2023-24/hb/2045/) - Adopt a fish barrier program 👍1  
 
-## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍1  
+## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍2  
 
 ## [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element  👎1 ❓1
 * 👎💵 Briahna Murray
@@ -90,7 +90,8 @@
 
 ## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
 
-## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras 👍1  
+## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras 👍2  
+* 👍 Janice Zahn
 
 ## [HB 2468](/bill/2023-24/hb/2468/) - Concerning the siting of child care facilities.   ❓1
 
@@ -144,6 +145,8 @@
 
 ## [SB 5618](/bill/2023-24/sb/5618/) - Local property tax limit 👍1  
 * 👍 Lacey Jane Wolfe
+
+## [SB 5657](/bill/2023-24/sb/5657/) - Kit home permitting   ❓1
 
 ## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages 👍1  
 

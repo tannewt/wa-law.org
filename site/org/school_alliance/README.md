@@ -6,6 +6,9 @@
 ## [HB 2411](/bill/2023-24/hb/2411/) - School construction debt 👍1  
 * 👍💵 Grace Yuan
 
+## [HB 2494](/bill/2023-24/hb/2494/) - School operating costs 👍1  
+* 👍💵 Lacey Stanage
+
 ## [SB 5019](/bill/2023-24/sb/5019/) - School safety staff   ❓1
 * ❓💵 Grace Yuan
 

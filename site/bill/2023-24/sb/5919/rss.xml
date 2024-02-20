@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5919/</link>
 		<description>Updates about SB 5919</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Feb 2024 09:57:25 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 19 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -79,6 +79,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Dave/Warren/2024-02-12 09:57:25</guid>
+		</item>
+		<item>
+			<title>ENVI - Executive action taken by committee.</title>
+			<description>ENVI - Executive action taken by committee.</description>
+			<pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-19/ENVI - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

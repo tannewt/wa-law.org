@@ -13,13 +13,11 @@
 
 ## Meetings
 ### Tue 02/20 10:30 AM - Civil Rights & Judiciary (CRJ): 2SSB 5660 Mental health adv directives
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32005&aId=159370&caId=24271&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32005&aId=159370&caId=24271&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32005&aId=159370&caId=24271&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32005&aId=159370&caId=24271&tId=4)
-
-#### 10 👍 - Pro
+#### 23 👍 - Pro
+Testifying:
+* Todd Crooks - Chad's Legacy Project
+* 💵Michael Transue - National Alliance on Mental Illness (NAMI)
+* Gail Kogle
 
 #### 0 👎 - Con
 

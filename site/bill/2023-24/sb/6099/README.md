@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/19/2024 [Gorge News Center](/org/gorge_news_center/) - [Senate Republican budget leader encouraged by proposal with strong lean toward addressing public-safety concerns](https://gorgenewscenter.com/2024/02/19/senate-republican-budget-leader-encouraged-by-proposal-with-strong-lean-toward-addressing-public-safety-concerns/#:~:text=SB%206099)
 * 02/14/2024 [Gorge News Center](/org/gorge_news_center/) - [Senate passes Wilson, Braun bills to tackle opioid addiction, overdose death](https://gorgenewscenter.com/2024/02/14/senate-passes-wilson-braun-bills-to-tackle-opioid-addiction-overdose-death/#:~:text=SB%206099)
 * 02/06/2024 [Gorge News Center](/org/gorge_news_center/) - [Fentanyl education bill passes Senate committee as pills fall to 25 cents in Portland](https://gorgenewscenter.com/2024/02/06/fentanyl-education-bill-passes-senate-committee-as-pills-fall-to-25-cents-in-portland/#:~:text=SB%206099)
 * [Senate Republicans](/org/senate_republicans/) - [Recovery Washington - Senate Republican Caucus](https://src.wastateleg.org/recovery-washington/#:~:text=SB%206099)

@@ -8,13 +8,12 @@
 
 ## Meetings
 ### Tue 02/20 10:30 AM - Local Government (LG): ESB 6167 Local government procurement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32020&aId=159855&caId=24354&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32020&aId=159855&caId=24354&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32020&aId=159855&caId=24354&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32020&aId=159855&caId=24354&tId=4)
-
-#### 0 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* 💵Joren Clowers - Sno-King Water District Coalition
+* 💵Michael Transue - Mechanical Contractors Association of Western Washington
+* Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Janice Zahn - Capital Projects Advisory Review Board (CPARB)
 
 #### 0 👎 - Con
 

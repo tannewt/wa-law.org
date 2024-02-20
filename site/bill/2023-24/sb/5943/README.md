@@ -20,7 +20,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159529&caId=24304&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159529&caId=24304&tId=4)
 
-#### 4 👍 - Pro
+#### 29 👍 - Pro
+Testifying:
+* Deb Miller - Action Health Partners
+* 💵Nick Federici - United Ways Of The Pacific Northwest
+* Tim Sullivan - People For People : Washington 211
 
 #### 0 👎 - Con
 

@@ -23,6 +23,10 @@
 
 ## [HB 1695](/bill/2023-24/hb/1695/) - Surplus property/housing 👍1  
 
+## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍1  
+
+## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍1  
+
 ## [HB 2363](/bill/2023-24/hb/2363/) - Alcohol/pop-up retail sales 👍1  
 
 ## [HB 2390](/bill/2023-24/hb/2390/) - Eluding & resisting arrest 👍1  
@@ -43,5 +47,7 @@
 ## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍1  
 
 ## [SB 5609](/bill/2023-24/sb/5609/) - Housing approval  👎1 
+
+## [SB 6010](/bill/2023-24/sb/6010/) - SEPA/trails and paths 👍1  
 
 ## [SB 6157](/bill/2023-24/sb/6157/) - Civil service 👍1  

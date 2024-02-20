@@ -17,11 +17,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31993&aId=159561&caId=24321&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31993&aId=159561&caId=24321&tId=4)
 
-#### 0 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Sean Flynn - Public Disclosure Commission
+* Cindy Madigan - League of Women Voters of Washington
+* Michael Charles
+* Ryan Hollander - [Fuse Washington](/org/fuse_washington/)
 
-#### 0 👎 - Con
+#### 302 👎 - Con
+Testifying:
+* 💵Conner Edwards - WA Professional Campaign Treasurer
+* Jeannette Mcchesney
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Peter Frey Lavallee - Public Disclosure Commission
 
 ### Fri 03/10 08:00 AM - State Government & Tribal Relations (SGOV): ESSB 5284 Campaign finance disclosure
 #### 501 👍 - Pro

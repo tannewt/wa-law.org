@@ -19,7 +19,7 @@
 
 ## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍1  
 
-## [HB 1985](/bill/2023-24/hb/1985/) - PERS/TRS 1 benefit increase 👍43  
+## [HB 1985](/bill/2023-24/hb/1985/) - PERS/TRS 1 benefit increase 👍48  
 * 👍 Nancy Heley
 * 👍 Claude Burfect
 * 👍 Clair Olivers
@@ -28,11 +28,14 @@
 * 👍💵 Emmett Mills
 * 👍 Nancy Heley
 
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  
+* 👍💵 Laurie Weidner
+
 ## [HB 2188](/bill/2023-24/hb/2188/) - Health subsidy/retirees 👍11  
 
 ## [HB 2244](/bill/2023-24/hb/2244/) - Retirement savings 👍1  
 
-## [HB 2481](/bill/2023-24/hb/2481/) - Waiving health benefit premiums in the public employees' benefits board. 👍19  
+## [HB 2481](/bill/2023-24/hb/2481/) - Waiving health benefit premiums in the public employees' benefits board. 👍24  
 * 👍 Matt Groshong
 * 👍 Nancy Heley
 
@@ -66,6 +69,8 @@
 ## [SB 5625](/bill/2023-24/sb/5625/) - Public employee retirees 👍2  
 
 ## [SB 5696](/bill/2023-24/sb/5696/) - PEBB/subdivision retirees 👍1  
+
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
 
 ## [SB 6000](/bill/2023-24/sb/6000/) - Military service credit 👍1  
 

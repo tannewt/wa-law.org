@@ -9,6 +9,9 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 
+## 📰 Articles
+* 02/17/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 19 - 23, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-19-23-2024/#:~:text=SB%205213)
+
 ## Meetings
 ### Tue 02/20 01:30 PM - Health Care & Wellness (HCW): E2SSB 5213 Health care benefit managers
 Sign up to testify:
@@ -17,11 +20,42 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159492&caId=24294&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159492&caId=24294&tId=4)
 
-#### 11 👍 - Pro
+#### 303 👍 - Pro
+Testifying:
+* Paul Naber - Personal
+* saikrishna arumilli - edmonds pharmacy
+* Patricia Bermúdez - AIDS Healthcare Foundation
+* Abdul-Nasser Charara
+* Chen Wei Lin
+* Jenny Arnold - Washington State Pharmacy Association
+* Ryan Oftebro - Kelley-Ross Pharmacy
+* Jim Freeburg - Patient Coalition of Washington
+* Katelin Lambert
+* Hoa Tang
+* Iyana Reed
+* Jeff Harrell - Cascadia Pharmacy Group
+* Jane Beyer - Office of the Insurance Commissioner
+* Robert Queen - Rosauers Supermarkets
+* 💵Erin Callahan - [Diabetes Patient Advocacy Coalition](/org/diabetes_patient_advocacy_coalition/)
 
-#### 237 👎 - Con
+#### 577 👎 - Con
+Testifying:
+* Mary Stoll - Pacific Health Coalition
+* Tim O'Donnell - IBEW Local 76
+* Tom Bryne
+* Tonia Sorrell-Neal - PCMA
+* LuGina Mendez-Harper - Prime Therapeutics
+* Sheila Stickel - [Northwest Alliance for Affordable Medicine](/org/northwest_alliance_for_affordable_medicine/)
+* Christine Radkey - Regence
+* 💵Gary Strannigan - Premera
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
-#### 0 ❓ - Other
+#### 7 ❓ - Other
+Testifying:
+* Kate Jelline - Ardon Health Specialty Pharmacy
+* Evan Klein - Health Care Authority (HCA) - Special Assistant, Legislative & Policy Affairs
+* SRINI MANDAVA
+* Negar Golchin
 
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SSB 5213 Pharmacy benefit managers
 #### 5 👍 - Pro

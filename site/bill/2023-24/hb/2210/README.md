@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/16/2024 [Gorge News Center](/org/gorge_news_center/) - [Senate committee hears Dye bill to seek feasibility of a wild horse inmate training program in Washington state](https://gorgenewscenter.com/2024/02/16/senate-committee-hears-dye-bill-to-seek-feasibility-of-a-wild-horse-inmate-training-program-in-washington-state/#:~:text=House%20Bill%202210)
+
 ## Meetings
 ### Thu 02/15 08:00 AM - Human Services (HS): HB 2210 DOC wild horse program
 #### 1 👍 - Pro

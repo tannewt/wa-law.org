@@ -63,7 +63,8 @@
 ## [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element 👍1  
 * 👍💵 Bryce Yadon
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍3  
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍6  
+* 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 
@@ -116,7 +117,8 @@
 ## [HB 2468](/bill/2023-24/hb/2468/) - Concerning the siting of child care facilities.   ❓1
 * ❓💵 Bryce Yadon
 
-## [HB 2474](/bill/2023-24/hb/2474/) - Transitional housing siting 👍2  
+## [HB 2474](/bill/2023-24/hb/2474/) - Transitional housing siting 👍3  
+* 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 

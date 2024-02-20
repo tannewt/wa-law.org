@@ -9,15 +9,10 @@
 
 ## Meetings
 ### Tue 02/20 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SHB 2329 Insurance market/housing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31985&aId=159805&caId=24339&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31985&aId=159805&caId=24339&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31985&aId=159805&caId=24339&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31985&aId=159805&caId=24339&tId=4)
-
-#### 4 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Flo Beaumon - Catholic Housing Services
+* 💵Melanie Smith - Seattle / King County Coalition on Homelessness
 
 #### 0 👎 - Con
 

@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Tue 02/20 10:30 AM - Agriculture and Natural Resources (AGNR): SSB 5306 WDFW disease interdiction
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31978&aId=159227&caId=24265&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31978&aId=159227&caId=24265&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31978&aId=159227&caId=24265&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31978&aId=159227&caId=24265&tId=4)
-
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Tom McBride - WDFW
 

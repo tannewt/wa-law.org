@@ -12,15 +12,11 @@
 
 ## Meetings
 ### Mon 02/19 10:30 AM - Law & Justice (LAW): SHB 1974 Disposing of human remains
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159440&caId=24214&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159440&caId=24214&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159440&caId=24214&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31980&aId=159440&caId=24214&tId=4)
-
-#### 15 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Annie Pillers - Whitman County Coroner's Office
+* Coretta Harwood
+* Travis Locje - Washington State Funeral Directors Association.
 
 #### 0 👎 - Con
 

@@ -45,7 +45,7 @@
 
 ## [HB 2103](/bill/2023-24/hb/2103/) - Large port districts 👍1  
 
-## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
+## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  ❓1
 * ❓💵 Guillermo Rogel
 
 ## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍1  
@@ -80,6 +80,10 @@
 * 👍 Sierra Suafoa-McClain
 * 👍 Deric Gruen
 * 👍💵 Guillermo Rogel
+
+## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
+
+## [SB 5955](/bill/2023-24/sb/5955/) - Large port districts 👍1  
 
 ## [SB 5990](/bill/2023-24/sb/5990/) - Env. justice/SEPA projects 👍2  
 * 👍💵 Guillermo Rogel

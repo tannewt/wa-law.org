@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/17/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 19 - 23, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-19-23-2024/#:~:text=SB%206296)
+
 ## Meetings
 ### Tue 02/20 01:30 PM - Postsecondary Education & Workforce (PEW): ESB 6296 Retail industry work group
 Sign up to testify:
@@ -14,7 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31904&aId=159620&caId=24318&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31904&aId=159620&caId=24318&tId=4)
 
-#### 1 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Rose GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)
+* Carolyn McKinnon - WA State Board for Community & Technical Colleges
 
 #### 0 👎 - Con
 

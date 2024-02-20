@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Mon 02/19 10:30 AM - Labor & Commerce (LC): SHB 1453 Medical cannabis/tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159587&caId=24210&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159587&caId=24210&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159587&caId=24210&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32001&aId=159587&caId=24210&tId=4)
-
-#### 118 👍 - Pro
+#### 150 👍 - Pro
 Testifying:
 * Bri Crofton
 * 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
@@ -27,8 +21,10 @@ Testifying:
 * Jeremy Robbins - Cannabis Patients PNW a 501(c)3 nonprofit
 * David Heldreth
 * Jay Hicks
+* Jay Hix Jones
+* 💵Ezra Eickmeyer - Producers NW
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2308/</link>
 		<description>Updates about HB 2308</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Feb 2024 13:15:31 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 20 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -128,6 +128,13 @@
 			<pubDate>Tue, 13 Feb 2024 13:15:31 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024/#:~:text=HB%202308</guid>
+		</item>
+		<item>
+			<title>House Rules &quot;X&quot; file.</title>
+			<description>House Rules &quot;X&quot; file.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/House Rules &quot;X&quot; file.</guid>
 		</item>
 	</channel>
 </rss>

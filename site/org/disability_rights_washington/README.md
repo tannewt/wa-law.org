@@ -128,7 +128,8 @@
 
 ## [SB 5660](/bill/2023-24/sb/5660/) - Mental health adv directives 👍1  
 
-## [SB 5825](/bill/2023-24/sb/5825/) - Guardianship   ❓2
+## [SB 5825](/bill/2023-24/sb/5825/) - Guardianship   ❓3
+* ❓💵 Chloe Merino
 * ❓💵 Chloe Merino
 * ❓💵 Chloe Merino
 

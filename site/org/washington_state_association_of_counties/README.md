@@ -179,6 +179,8 @@
 * 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 
+## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍1  
+
 ## [HB 1900](/bill/2023-24/hb/1900/) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system.   ❓1
 * ❓💵 Travis Dutton
 
@@ -274,7 +276,7 @@
 ## [HB 2307](/bill/2023-24/hb/2307/) - Public records reviews 👍1  
 * 👍💵 Mike Hoover
 
-## [HB 2348](/bill/2023-24/hb/2348/) - County hospital funding 👍2  
+## [HB 2348](/bill/2023-24/hb/2348/) - County hospital funding 👍3  
 
 ## [HB 2353](/bill/2023-24/hb/2353/) - Residential targeted areas 👍1  
 * 👍💵 Paul Jewell
@@ -473,7 +475,7 @@
 ## [SB 5844](/bill/2023-24/sb/5844/) - Dilapidated RV disposal   ❓1
 * ❓💵 Travis Dutton
 
-## [SB 5869](/bill/2023-24/sb/5869/) - Rural fire district stations   ❓1
+## [SB 5869](/bill/2023-24/sb/5869/) - Rural fire district stations 👍1  ❓1
 * ❓💵 Paul Jewell
 
 ## [SB 5901](/bill/2023-24/sb/5901/) - Co-living housing   ❓1
@@ -484,9 +486,10 @@
 
 ## [SB 5992](/bill/2023-24/sb/5992/) - Water supply/energy sites 👍1  
 
-## [SB 6013](/bill/2023-24/sb/6013/) - Homeownership dev. tax ex.  👎2 
+## [SB 6013](/bill/2023-24/sb/6013/) - Homeownership dev. tax ex.  👎2 ❓1
 * 👎💵 Paul Jewell
 * 👎💵 Travis Dutton
+* ❓💵 Paul Jewell
 
 ## [SB 6015](/bill/2023-24/sb/6015/) - Residential parking   ❓1
 * ❓💵 Paul Jewell
@@ -503,9 +506,10 @@
 
 ## [SB 6079](/bill/2023-24/sb/6079/) - Juv. detention/health recs. 👍1  
 
-## [SB 6120](/bill/2023-24/sb/6120/) - Wildland urban interface 👍2  
+## [SB 6120](/bill/2023-24/sb/6120/) - Wildland urban interface 👍3  
 * 👍💵 Paul Jewell
 * 👍💵 Travis Dutton
+* 👍💵 Paul Jewell
 
 ## [SB 6140](/bill/2023-24/sb/6140/) - Intensive rural development 👍2  
 * 👍💵 Travis Dutton
@@ -517,6 +521,8 @@
 ## [SB 6150](/bill/2023-24/sb/6150/) - Comprehensive plan revisions 👍1  
 
 ## [SB 6164](/bill/2023-24/sb/6164/) - County emergency management   ❓1
+
+## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍1  
 
 ## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/tax 👍1  
 

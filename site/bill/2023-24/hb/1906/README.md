@@ -16,12 +16,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159725&caId=24253&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159725&caId=24253&tId=4)
 
-#### 6 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Paul Jarkiewicz - Port Of Port Angeles
 * monique webber - Pacific Yacht Management
 * 💵James Cockburn - [Washington Public Ports Association](/org/washington_public_ports_association/)
 * Roman Daniels-Brown - NW Marine Trade Association
+* Lindsey LaPrath - Worth Avenue Yachts
 
 #### 0 👎 - Con
 

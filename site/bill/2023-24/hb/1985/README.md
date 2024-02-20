@@ -22,12 +22,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159660&caId=24259&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159660&caId=24259&tId=4)
 
-#### 1134 👍 - Pro
+#### 1366 👍 - Pro
 Testifying:
 * Timothy Knopf - Washington State School Retirees
 * Clair Olivers - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
+* Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
+* Edith Ruby - WA State School Retirees' Association
+* Catherine Hoiby
+* Phyllis Farrell - WEA-R
+* Gloria Smith
 
-#### 0 👎 - Con
+#### 274 👎 - Con
+Testifying:
+* Jeannette Mcchesney
 
 #### 8 ❓ - Other
 
